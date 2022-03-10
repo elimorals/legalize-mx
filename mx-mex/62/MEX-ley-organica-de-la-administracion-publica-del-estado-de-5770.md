@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2021-01-26"
+last_updated: "2022-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,17 +21,25 @@ state: "MEX"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-REGLAMENTO DE UNIFORMES, DIVISAS Y DISTINTIVOS PARA LA ARMADA DE MEXICO
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-TEXTO ORIGINAL.
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 31 de mayo de 2000.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2022.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
-ERNESTO ZEDILLO PONCE DE LEÓN, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 30 de la Ley Orgánica de la Administración Pública Federal, y 2o., fracción I, 5o., 6o., 7o., 8o., 73 a 76, 78 y 80 de la Ley Orgánica de la Armada de México, he tenido a bien expedir el siguiente
+El Ciudadano LICENCIADO ALFREDO DEL MAZO GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
 
-REGLAMENTO DE UNIFORMES, DIVISAS Y DISTINTIVOS PARA LA ARMADA DE MÉXICO
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
+
+DECRETO NUMERO 2
+
+LA H. XLVIII LEGISLATURA DEL ESTADO DE MEXICO,
+
+DECRETA:
+
+LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
 ## TÍTULO PRIMERO. Disposiciones Generales
 
@@ -41,57 +49,69 @@ REGLAMENTO DE UNIFORMES, DIVISAS Y DISTINTIVOS PARA LA ARMADA DE MÉXICO
 
 ## TÍTULO CUARTO. De las divisas y distintivos
 
-### CAPÍTULO ÚNICO
+### CAPITULO PRIMERO. Disposiciones Generales
 
 ###### Artículo 1.
 
-El presente Reglamento tiene por objeto establecer las normas a que se sujetará el personal de la Armada de México para el uso de uniformes, divisas y distintivos.
+La presente Ley tiene por objeto regular la organización y funcionamiento de la administración pública central y paraestatal del Estado.
 
 ###### Artículo 2.
 
-La Secretaría de Marina proporcionará, con cargo a su presupuesto asignado, los uniformes y equipo que requiera para el servicio el personal de marinería, clases, alumnos y cadetes y, en la proporción que lo permita el mismo presupuesto, a los oficiales, capitanes y almirantes.
-
-El personal será responsable de los uniformes y equipo ministrado, y está obligado a su reposición inmediata cuando éstos sufran algún menoscabo como consecuencia de actos fuera del servicio.
+El ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado, quien tendrá las atribuciones, funciones y obligaciones que le señalen: La Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de México, la presente Ley y las demás disposiciones jurídicas relativas vigentes en el Estado. El Sector paraestatal, se regirá por la presente Ley y demás disposiciones que le resulten aplicables.
 
 ###### Artículo 3.
 
-Los mandos y directivos responsables de las diferentes unidades y establecimientos, tienen la obligación de gestionar oportunamente la ministración de los uniformes y equipo complementario al personal adscrito a sus áreas.
+Para el despacho de los asuntos que competan al Poder Ejecutivo, el Gobernador del Estado se auxiliará de las dependencias, organismos y entidades que señalen la Constitución Política del Estado, la presente Ley, el presupuesto de egresos y las demás disposiciones jurídicas vigentes en el Estado.
 
 ###### Artículo 4.
 
-Los mandos tienen la obligación de supervisar la correcta presentación y buen uso de los uniformes y equipo a cargo del personal bajo sus órdenes, mediante las revistas previas a las franquicias, actos del servicio y a la revista mensual de control.
+El Gobernador del Estado podrá contar, además, con las unidades administrativas necesarias para administrar programas prioritarios; de Salud Pública; atender los aspectos de comunicación social, practicar auditorías y coordinar los servicios de asesoría y apoyo técnico que requiera el Titular del Ejecutivo.
 
 ###### Artículo 5.
 
-Los mandos superiores designarán el uniforme que el personal deberá usar de acuerdo con las condiciones climáticas imperantes; en ceremonias, o en cualquier otro acto del servicio.
+El Gobernador del Estado podrá convenir con el Ejecutivo Federal, con otras entidades federativas y con los Ayuntamientos de la entidad, la prestación de servicios públicos, la ejecución de obras o la realización de cualquier otro propósito de beneficio colectivo.
 
 ###### Artículo 6.
 
-Los mandos tienen la obligación de supervisar que cuando el personal sea cambiado de adscripción, éste lleve consigo los uniformes y equipo de cargo que se le haya ministrado, así como una copia de la relación del mismo, debiéndosele proporcionar el talegón correspondiente.
+El Gobernador del Estado designará las dependencias del Ejecutivo Estatal que deberán coordinarse, tanto con las dependencias y entidades de la Administración Pública Federal, como con las administraciones municipales.
+
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 7.
 
-El personal tiene la obligación de conservar en buenas condiciones de presentación y limpieza sus uniformes y equipo, debiendo portarlos con las divisas y distintivos correspondientes en todos los actos del servicio.
+Todas las Leyes y Decretos expedidos por la Legislatura y que el Gobernador promulgue, para su validez y observancia deberán estar refrendadas por el titular de la Secretaría General de Gobierno, sin este requisito no surtirá ningún efecto legal.
+
+Los reglamentos, decretos, circulares y acuerdos expedidos por el Gobernador deberán, para su validez y observancia, ir firmados por el Secretario del Despacho respectivo y, cuando se refieran a asuntos de la competencia de dos o más Secretarías, deberán ser refrendados por todos los titulares de las mismas.
 
 ###### Artículo 8.
 
-Cuando el personal se encuentre en un país extranjero y requiera presentarse uniformado, portará el uniforme equivalente al de las Fuerzas Armadas del país anfitrión.
+El Gobernador del Estado expedirá los Reglamentos Interiores, los Acuerdos, Circulares y otras disposiciones que tiendan a regular el funcionamiento de las dependencias del Ejecutivo y autorizará la expedición de los manuales administrativos.
+
+> <small>(REFORMADO, G.G. 22 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 9.
 
-El personal de almirantes, capitanes, oficiales, así como clases y marinería que marche en comisión del servicio por vacaciones, licencia, enfermedad u otra circunstancia, deberá presentarse ante las autoridades correspondientes portando el uniforme que esté ordenado por el mando territorial del lugar al que arribe.
+El Gobernador del Estado, al nombrar y remover libremente a los funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política o en las Leyes del Estado, favorecerá el principio de igualdad y equidad de género.
+
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 10.
 
-El personal de cadetes y alumnos que marche en comisión del servicio por vacaciones, licencia, enfermedad u otra circunstancia, viajará y se presentará ante las autoridades correspondientes portando su uniforme de faenas número uno “A” o el número dos “A” según corresponda al lugar al que arribe.
+Para ser titular de las dependencias del Ejecutivo a que se refiere esta Ley o Subsecretario, se requiere cumplir con los requisitos que establece la Constitución Política del Estado.
+
+Para ser Secretario de Justicia y Derechos Humanos, además de los requisitos señalados deberá poseer título profesional de la Licenciatura en Derecho, 10 años de ejercicio profesional y no haber sido condenado por sentencia ejecutoria por delitos intencionales que ameriten pena privativa de la libertad y ser de honradez y probidad notorias.
 
 ###### Artículo 11.
 
-El personal portará el uniforme con gallardía, evitando cargar bultos voluminosos en la vía pública, quedando prohibido usar prendas adicionales que lo deformen así como mezclar las prendas de los diferentes uniformes entre sí o con las de paisano.
+Los titulares de las dependencias a que se refiere esta Ley, no podrán desempeñar ningún otro puesto, empleo, cargo o comisión, salvo los relacionados con la docencia y aquéllos que, por estar directamente relacionados con las funciones que les correspondan, sean expresamente autorizados por el Gobernador del Estado.
+
+> <small>(REFORMADO, G.G. 19 DE OCTUBRE DE 1992)</small>
 
 ###### Artículo 12.
 
-Las personas ajenas a la Armada de México tienen prohibido usar los uniformes, divisas y distintivos a que se refiere el presente Reglamento. Igual prohibición tiene el personal que por sentencia de un tribunal competente, quede destituido de su empleo. Quien esté suspendido del servicio se abstendrá de usar los uniformes, divisas y distintivos durante el término que dure dicha suspensión.
+El Ejecutivo del Estado por conducto de la SECRETARIA GENERAL DE GOBIERNO, resolverá cualquier duda sobre la competencia de las dependencias a que se refiere esta ley.
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 12 Bis.
 
@@ -99,105 +119,223 @@ El Gobernador del Estado contará con el apoyo directo de la Oficina de la Guber
 
 La Oficina de la Gubernatura contará con las unidades de apoyo técnico y estructura que el Gobernador del Estado determine, de acuerdo con el presupuesto asignado.
 
-### CAPÍTULO I. Uniformes de uso formal, ordinario y de etiqueta para el personal de almirantes, capitanes, oficiales, clases y marinería
+### CAPITULO SEGUNDO. De las Dependencias del Ejecutivo
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE MAYO DE 2018)</small>
 
 ###### Artículo 13.
 
-El personal de la Armada de México, tiene prohibido: vender, cambiar o pignorar en forma alguna, las prendas de los uniformes y equipo que le sean proporcionadas.
+Las dependencias del Ejecutivo y los organismos auxiliares a que se refiere el artículo 45 de esta Ley, deberán conducir sus actividades bajo el principio de igualdad de género, en forma programada y con base en las políticas, prioridades y restricciones que establezca el Gobierno del Estado, para el logro de los objetivos y metas de los planes de Gobierno.
+
+> <small>(REFORMADO, G.G. 10 DE MAYO DE 2018)</small>
+
+Asimismo, promoverán que sus planes, programas y acciones, sean realizados con perspectiva de género y crearán Unidades de Igualdad de Género y Erradicación de la Violencia, adscritas orgánicamente a la persona titular de la dependencia u organismo auxiliar correspondiente.
+
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+De igual forma, deberán implementar un programa permanente, coordinado y continuo de Mejora Regulatoria y Gobierno Digital, conforme a las reglas que establecen las leyes y demás disposiciones de dichas materias.
 
 ###### Artículo 14.
 
-El personal en situación de retiro o haciendo uso de licencia ilimitada podrá usar los uniformes, portando las divisas y distintivos correspondientes a su grado jerárquico o al último cargo desempeñado en el servicio activo, sujetándose a lo previsto en el presente Reglamento.
+Las dependencias del Ejecutivo, estarán obligadas a coordinar entre sí sus actividades y a proporcionarse la información necesaria cuando el ejercicio de las funciones así lo requiera.
+
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 15.
 
-El personal de almirantes, capitanes y oficiales podrá entrar y salir de sus unidades y establecimientos vistiendo ropa de paisano, el personal de clases y marinería, lo hará cuando así se ordene.
+Al frente de la Secretaría General de Gobierno y de cada Secretaría habrá un Titular a quien se denomina Secretario General o Secretario respectivamente, quienes se auxiliarán de los Subsecretarios, Directores, Subdirectores, Jefes de Unidad, Jefes de Departamento y demás servidores públicos que establezcan los reglamentos y otras disposiciones legales. Tendrán las atribuciones que señalen en esos ordenamientos y las que les asigne el Gobernador y el Titular del que dependan, las que en ningún caso podrán ser aquéllas que la Constitución, las Leyes y los Reglamentos dispongan que deban ser ejercidas directamente por los titulares.
 
 ###### Artículo 16.
 
-La confección y uso de los diferentes uniformes masculinos y femeninos se basará en las consideraciones generales, siguientes:
+Para la eficaz atención y eficiente despacho de los asuntos de su competencia, las dependencias del Ejecutivo podrán contar con órganos administrativos desconcentrados que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia o dentro del ámbito territorial que se determine en cada caso.
 
-I.- Las prendas para el personal masculino se abotonarán sobre el costado derecho, y para el personal femenino sobre el costado izquierdo;
-
-II.- El largo de las faldas y faldones de los uniformes será de 3 cm abajo de la rodilla;
-
-III.- Las prendas no se usarán entalladas, y
-
-IV.- Los uniformes se elaborarán con los materiales que se establecen en las tablas del Capítulo III del Título Quinto de este Reglamento.
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 17.
 
-Los mandos tienen obligación de supervisar que en las unidades operativas y establecimientos de su jurisdicción, el personal use las combinaciones debidas entre los diferentes uniformes, divisas y distintivos para la Armada de México, observando las circunstancias en que deban usarse según lo dispuesto en las tablas del Título Quinto, capítulos I y II del presente Reglamento.
+Los titulares de las dependencias del Ejecutivo, formularán proyectos de Ley, Reglamentos, Decretos y Acuerdos de las materias que correspondan a su competencia y las remitirán al Ejecutivo a través del Secretario de Justicia y Derechos Humanos.
 
 ###### Artículo 18.
 
-Las infracciones al presente Reglamento serán sancionadas conforme a las leyes y reglamentos aplicables.
+Al tomar posesión del cargo, los titulares de las dependencias mencionadas en esta Ley, deberán levantar un inventario sobre los bienes que se encuentren en poder de las mismas, debiendo registrar éste en la Secretaría de Administración del Gobierno del Estado, quien verificará la exactitud del mismo.
 
-### CAPÍTULO II. Uniformes de uso ordinario, formal y de etiqueta para el personal de cadetes y alumnos
+### CAPITULO TERCERO. De la Competencia de las
+
+Dependencias del Ejecutivo
 
 ###### Artículo 19.
 
-Los uniformes de uso formal, ordinario y de etiqueta para almirantes, capitanes, oficiales, clases y marinería, para el personal masculino y femenino, son:
+Para el estudio, planeación y despacho de los asuntos, en los diversos ramos de la Administración Pública del Estado, auxiliarán al Titular del Ejecutivo, las siguientes dependencias:
 
-I.- Uniforme número uno de servicio formal de verano;
+> <small>(REFORMADA, G.G. 2 DE AGOSTO DE 2002)</small>
 
-II.- Uniforme número uno “A” de servicio ordinario de verano;
+I. Secretaría General de Gobierno;
 
-III.- Uniforme número dos de servicio formal de invierno;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
-IV.- Uniforme número dos “A” de servicio ordinario de invierno;
+II. Secretaría de Seguridad
 
-V.- Uniforme número dos “B” de servicio ordinario de verano;
+> <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
-VI.- Uniforme número tres para Infantería de Marina de servicio ordinario;
+III. Secretaría de Finanzas;
 
-VII.- Uniforme número tres “A” para Infantería de Marina de servicio ordinario;
+> <small>(REFORMADA, G.G. 2 DE AGOSTO DE 2002)</small>
 
-VIII.- Uniforme número tres “B” de servicio ordinario;
+IV. Secretaría de Salud;
 
-IX.- Uniforme número tres “C” de servicio ordinario;
+> <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
-X.- Uniforme número cuatro de servicio formal;
+V. Secretaría del Trabajo;
 
-XI.- Uniforme número cinco de servicio formal;
+> <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
-XII.- Uniforme número seis de servicio de etiqueta;
+VI. Secretaría de Educación;
 
-XIII.- Uniforme número siete de servicio de etiqueta;
+> <small>(REFORMADA, G.G. 2 DE AGOSTO DE 2002)</small>
 
-XIV.- Uniforme número ocho de servicio de etiqueta;
+VII. Secretaría de Desarrollo Social;
 
-XV.- Uniforme número nueve de servicio ordinario;
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XVI.- Uniforme número nueve “A” de servicio interior;
+VIII. Secretaría de Desarrollo Urbano y Obra;
 
-XVII.- Uniforme número diez de servicio ordinario para pilotos, y
+IX. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-XVIII.- Uniforme número once de servicio ordinario para personal de trabajos submarinos.
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-La descripción de los uniformes anteriores será conforme a lo establecido en los artículos 20 al 48 siguientes.
+X. Secretaría del Campo;
+
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
+
+XI. Secretaría de Desarrollo Económico;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XII. Secretaría de Cultura y Turismo;
+
+XIII. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
+
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
+
+XIV. Secretaría de la Contraloría;
+
+XV. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XVI. Secretaría de Movilidad;
+
+> <small>(REFORMADA, G.G. 22 DE AGOSTO DE 2005)</small>
+
+XVII. Secretaría del Medio Ambiente;
+
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+XVIII. Secretaría de Justicia y Derechos Humanos.
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XIX. Secretaría de la Mujer.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+Las Secretarías a las que se refieren las fracciones II a la XIX de este artículo tendrán igual rango y entre ellas no habrá preeminencia alguna.
+
+> <small>(REFORMADO, G.G. 19 DE OCTUBRE DE 1992)</small>
 
 ###### Artículo 20.
 
-El uniforme número uno de servicio formal de verano, del personal masculino, está conformado para:
+La SECRETARIA GENERAL DE GOBIERNO es el órgano encargado de conducir, por delegación del Ejecutivo, la política interior del Estado y la coordinación y supervisión del despacho de los asuntos encomendados a las demás dependencias a que se refiere el artículo anterior.
 
-I.- Almirantes, capitanes y oficiales: por chaquetín blanco con cuello tipo galleta cerrado al frente con dos ganchos internos y abotonado con seis botones dorados encontrándose el último 30 mm abajo de la cintura, a cada lado del pecho una bolsa de parche con un fuelle y cartera rectangular con un botón dorado al centro, en el costado izquierdo colocada a una altura entre los dos últimos botones del chaquetín llevará una abertura vertical con cartera para dar paso al correón de la fajilla; pantalón blanco de corte recto, sin valencianas, cubriendo el empeine, en cada costado una bolsa y dos posteriores; camiseta blanca cuello redondo; calcetines y zapatos blancos; cinturón blanco con hebilla; guantes blancos de cabritilla; gorra blanca o boina negra y palas. Polainas, fajillas, sable, fiador y guantes blancos cuando se ordene, y
-
-II.- Clases y marinería: por chamarra marinera blanca con una bolsa en la parte superior izquierda a la altura de la tetilla, con carpeta y puños postizos negros, con tres espiguillas blancas; pantalón blanco acampanado, cerrado al frente con el tapabalazo y en la parte posterior una abertura de siete ojillos a cada lado para una agujeta que ciñe la cintura; camiseta blanca cuello redondo y pechera a rayas con vivo blanco; pañolón negro y rabiza que pasan por una trabilla montada en la base del escote; guantes blancos, zapatos y calcetines negros; birrete e insignias de grado en los brazos 8 cm abajo de la costura del hombro. Fornitura y polainas blancas cuando se ordene.
-
-Se usará para ceremonias navales, militares y días festivos.
+> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 21.
 
-El uniforme número uno de servicio formal de verano, del personal femenino, está conformado para:
+A la Secretaría General de Gobierno corresponde el despacho de los asuntos siguientes:
 
-I.- Almirantes, capitanes y oficiales: por saco blanco de corte recto, cerrado al frente con cuatro botones dorados; falda blanca recta; camisa blanca de manga larga con corbata negra; camiseta blanca cuello redondo; cinturón blanco y hebilla; palas; bolsa tipo cartera blanca; guantes blancos de cabritilla y zapatillas blancas; medias tono natural y tocado.
+I. Presidir los gabinetes Legal y Ampliado, en las ausencias del Gobernador del Estado;
 
-En ceremonias donde se está encuadrado: se portará el chaquetín, palas, camiseta, calcetines, cinturón, hebilla, guantes, tocado, y zapatos con las mismas características del uniforme número uno masculino; el pantalón será blanco de corte femenino recto sin valencianas ni bolsas, cubriendo el empeine, y
+II. Conducir por delegación del Ejecutivo los asuntos de orden político interno del Estado;
 
-II.- Clases y marinería: por chamarra marinera blanca de manga larga con una bolsa en la parte superior izquierda a la altura de la tetilla, con carpeta y puños postizos negros, con tres espiguillas blancas; pantalón blanco acampanado, cerrado al frente con el tapabalazo y en la parte posterior una abertura y siete ojillos a cada lado para una agujeta que ciñe a la cintura; camiseta blanca cuello redondo y pechera a rayas con vivo blanco; pañolón negro y rabiza que pasan por una trabilla montada en la base del escote; guantes blancos; bolsa, zapatos o zapatillas negras y medias tono natural; tocado e insignias de grado en las mangas a 8 cm abajo de la costura de los hombros. Fornitura y polainas blancas cuando se ordene.
+III. Conducir las relaciones del Poder Ejecutivo con los demás Poderes, así como con los ayuntamientos del Estado, autoridades de otras entidades federativas, los órganos constitucionales autónomos, partidos, agrupaciones políticas nacionales o estatales y con las organizaciones sociales;
 
-Se usará para ceremonias navales, militares y días festivos.
+IV. Coadyuvar, en el ámbito de su competencia, con los poderes Legislativo y Judicial y con los ayuntamientos del Estado, en el cumplimiento de sus atribuciones;
+
+V. Fortalecer y promover las acciones para preservar la integridad, estabilidad y permanencia de las instituciones del Estado;
+
+VI. Cumplir y hacer cumplir las políticas, los acuerdos, las órdenes, las circulares y demás disposiciones del Ejecutivo del Estado;
+
+VII. Realizar análisis y prospectiva política para contribuir a la gobernabilidad democrática que dé sustento a la unidad estatal;
+
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
+
+VIII. Refrendar para su validez y observancia, los decretos promulgatorios de las leyes o decretos expedidos por la Legislatura y demás instrumentos jurídicos en términos de lo previsto en el artículo 7 de esta Ley.
+
+IX. Ser el conducto, previo acuerdo con el Gobernador, para entregar a la Legislatura el Informe acerca del estado que guarda la administración pública a que hace referencia la Constitución Política del Estado Libre y Soberano de México;
+
+X. Intervenir y ejercer las atribuciones que en materia electoral le señalen las leyes o los convenios que para ese efecto se celebren;
+
+XI. Formular, conducir y evaluar las políticas estatales en materia de desarrollo municipal;
+
+XII. Proponer políticas y estrategias, así como acciones de coordinación entre las dependencias encargadas de la seguridad pública estatal y nacional, en materia de prevención social del delito;
+
+XIII. (DEROGADA, G.G. 20 DE SEPTIEMBRE DE 2018)
+
+XIV. Coordinar a las dependencias del Ejecutivo Estatal en casos de riesgo, siniestro o desastre, para la ejecución de acciones y programas públicos en relación a las personas, sus bienes y el hábitat para el restablecimiento de la normalidad;
+
+> <small>(ADICIONADA, G.G. 12 DE JUNIO DE 2019)</small>
+
+XIV BIS. Instrumentar por si o a través de organismos y dependencias, entidades públicas o privadas especializadas, y en su caso, operar redes de detección, monitoreo, pronostico y medición de riesgos en coordinación con las dependencias responsables.
+
+XV. Coordinar y supervisar las acciones en materia de protección civil, así como administrar en el ámbito de su competencia, la aplicación de recursos destinados a la atención de desastres y siniestros ambientales o antropogénicos;
+
+XVI. Coordinar con el Instituto Mexiquense de la Pirotecnia, todas las acciones relacionadas con la misma, en el ámbito de su competencia;
+
+XVII. Formular y conducir las políticas estatales en materia de población;
+
+XVIII. Fortalecer el desarrollo político en la Entidad y promover la activa participación de la ciudadanía en el mismo;
+
+XIX. Promover las acciones de fomento a la cultura cívica del Gobierno del Estado de México;
+
+XX. Intervenir, en el ámbito de su competencia, en auxilio o en coordinación con las autoridades federales, en materia de loterías, rifas, concursos y juegos permitidos con cruce de apuestas, migración y atención de desastres naturales;
+
+XXI. Expedir previo acuerdo del Gobernador, las licencias, autorizaciones, concesiones y permisos cuyo otorgamiento no esté atribuido a otras dependencias del Ejecutivo;
+
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+XXI Bis. Intervenir en el auxilio o en coordinación con las autoridades federales, en términos de las leyes en materia de cultos religiosos;
+
+XXII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+
+XXIII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+
+XXIV. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+
+XXV. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+
+XXVI. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+
+XXVII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+
+XXVIII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+
+XXIX. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+
+XXX. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+
+XXXI. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+
+XXXII. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 17 DE AGOSTO DE 2015)</small>
+
+XXXIII. Las demás que le señalen las leyes y reglamentos en el Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 21 Bis.
 
@@ -283,71 +421,983 @@ XXXI. Las demás que le señalen otros ordenamientos jurídicos.
 
 ###### Artículo 22.
 
-El uniforme número uno “A” de servicio ordinario de verano, del personal masculino, está conformado para almirantes, capitanes y oficiales por camisa blanca de manga corta, cuello deportivo y seis botones, dos bolsas de parche a la altura del pecho, con cartera en terminación en “V”; pantalón blanco recto, sin valencianas, cubriendo el empeine, en cada costado una bolsa y dos posteriores; camiseta blanca cuello redondo; cinturón blanco con hebilla; palas; calcetines y zapatos blancos; gorra blanca, y pistolera blanca cuando se ordene.
+La Secretaría de Desarrollo Social es la dependencia encargada de planear, coordinar, dirigir y evaluar la política en materia de desarrollo social, desarrollo regional e infraestructura para el desarrollo, así como vincular las prioridades, estrategias y recursos para elevar el nivel de vida de la población más desprotegida en el Estado.
+
+A la Secretaría de Desarrollo Social le corresponde el despacho de los asuntos siguientes:
+
+I. Coordinar e integrar las acciones de la planeación estatal en materia de desarrollo social;
+
+II. Proponer al Gobernador del Estado políticas y programas de desarrollo social, para atender las necesidades básicas de la población más desprotegida de la entidad;
+
+III. Dirigir los programas y acciones de desarrollo social instrumentados por el Ejecutivo Estatal;
+
+IV. Concertar programas prioritarios para la atención de grupos indígenas y habitantes de zonas rurales y urbanas marginadas;
+
+V. Coordinar los programas y acciones de combate a la pobreza que se ejecuten en la Entidad;
+
+VI. Proponer e impulsar acciones y obras para el desarrollo regional en la Entidad, en coordinación con las dependencias y organismos auxiliares del Ejecutivo Estatal y los municipios;
+
+VII. Coordinar los programas y proyectos de desarrollo social en las regiones de la Entidad y establecer mecanismos de participación social para su ejecución;
+
+VIII. Fomentar en coordinación con los municipios, la construcción de obras de infraestructura y equipamiento urbano, para elevar el nivel de vida de la población con mayores necesidades;
+
+IX. Proponer y vigilar las acciones para el crecimiento social equilibrado de las comunidades y centros de población en la Entidad;
+
+X. Dirigir y evaluar los programas en materia de asistencia social en el Estado;
+
+XI. Promover el abastecimiento de productos de consumo básico entre población de escasos recursos;
+
+XII. Impulsar mecanismos de financiamiento para la ejecución de proyectos productivos orientados al desarrollo rural y urbano de las comunidades con mayores necesidades;
+
+XIII. Coordinar las acciones que deriven de los convenios suscritos con el gobierno federal y con los municipios, cuyo objeto sea el desarrollo social en las diversas regiones del Estado;
+
+XIV. Promover la participación y el apoyo de los sectores social y privado en la atención de las necesidades y demandas básicas de la población más desprotegida en la Entidad;
+
+XV. Promover acciones para incrementar la participación social en la ejecución de proyectos y obras instrumentadas por las instituciones públicas, mediante el fomento de una cultura de autogestión y coparticipación de la ciudadanía;
+
+XVI. Concertar y coordinar la participación de las organizaciones sociales y de la ciudadanía en general en la operación de los programas de desarrollo social;
+
+XVII. Formular, coordinar y evaluar estudios e investigaciones para identificar zonas marginadas y diseñar programas y estrategias para su desarrollo;
+
+XVIII. Supervisar, controlar y evaluar los programas y acciones de desarrollo social, verificando los resultados e impactos obtenidos;
+
+XIX. Proporcionar asesoría en materia de desarrollo social a las dependencias y organismos auxiliares de la administración pública estatal, a los municipios, a los sectores y grupos sociales y privados que lo soliciten;
+
+XX. Promover que los recursos públicos destinados a los programas sociales, se apliquen dando cobertura de prioridad a los municipios en este orden: de muy alta, alta, media, baja y muy baja marginalidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXI. Promover, coordinar, operar y evaluar políticas o programas de apoyo, fomento, atención y desarrollo de las personas adultas mayores;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXII. Las demás que señalen otros ordenamientos legales.
+
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 23.
 
-El uniforme número uno “A” de servicio ordinario de verano, del personal femenino, está conformado para almirantes, capitanes y oficiales por camisa blanca de manga corta, cuello deportivo y seis botones, dos bolsas de parche a la altura del pecho con cartera en terminación en “V”; falda blanca recta o pantalón blanco de línea recta y cintura de corte femenino, sin bolsas ni valencianas; camiseta blanca cuello redondo; palas, cinturón blanco con hebilla; medias tono natural; zapatillas y bolsa tipo cartera blancas; tocado, y pistolera blanca cuando se ordene.
+La Secretaría de Finanzas, es la encargada de la planeación, programación, presupuestación y evaluación de las actividades del Poder Ejecutivo, de la administración financiera y tributaria de la hacienda pública del Estado y de prestar el apoyo administrativo y tecnológico que requieran las dependencias del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 24.
 
-El uniforme número uno “A” de servicio ordinario de verano, del personal masculino, está conformado para clases y marinería por chamarra marinera blanca de manga corta, carpeta del mismo color y trabilla montada en la base del escote para el pañolón, con una bolsa en la parte superior izquierda a la altura de la tetilla; pantalón blanco acampanado, cerrado al frente con el tapabalazo y en la parte posterior una abertura con siete ojillos a cada lado para una agujeta que ciñe la cintura; camiseta blanca cuello redondo; pechera a rayas con vivo blanco; calcetines y zapatos negros; birrete, e insignias de grado en las mangas a 8 cm abajo de la costura de los hombros.
+A la Secretaría de Finanzas, corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+I. Elaborar y proponer al Ejecutivo los proyectos de Ley, Reglamentos y demás disposiciones de carácter general que se requieran para la planeación, programación, presupuestación y evaluación de la actividad económica y financiera del Estado, así como para la actividad fiscal y tributaria estatal.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+II. Recaudar los impuestos, derechos, aportaciones de mejoras, productos y aprovechamientos, que correspondan al Estado; y las contribuciones federales y municipales en los términos de los convenios suscritos.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+En cuanto a las contribuciones federales en términos de los convenios suscritos señalados en el párrafo anterior, para la mejor organización del trabajo se establece que el Secretario de Finanzas encomiende a los funcionarios a que se refiere el último y penúltimo párrafos del presente artículo, cualesquiera de sus facultades otorgadas por los propios convenios suscritos, excepto aquéllas que por disposición de ley o del reglamento interior respectivo, deban ser ejercidas precisamente por el propio Secretario.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+III. Vigilar el cumplimiento de las disposiciones legales de carácter fiscal y de más (sic) de su ramo, aplicables en el Estado.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+IV. Ejercer las atribuciones derivadas de los convenios fiscales que celebre el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público del Gobierno Federal, con los gobiernos municipales y con organismos auxiliares.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+V. Formular y presentar al Ejecutivo, los proyectos de Ley de Ingresos, del presupuesto de egresos y el programa general del gasto público.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+VI. Practicar revisiones y auditorías a los causantes.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+VII. Formular mensualmente los estados financieros de la hacienda pública, presentando anualmente al Ejecutivo, en la primera quincena del mes de enero, un informe pormenorizado del ejercicio fiscal anterior.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+VIII. Ejercer la facultad económico-coactiva conforme a las leyes relativas.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+IX. Vigilar que se lleve al corriente el padrón fiscal de contribuyentes.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+X. Cuidar que los empleados que manejen fondos del Estado otorguen fianza suficiente para garantizar su manejo en los términos que determine la ley.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+XI. Dictar las normas relacionadas con el manejo de fondos y valores de las dependencias, organismos auxiliares y fideicomisos del Estado, así como custodiar los documentos que constituyen valores, acciones y demás derechos que formen parte del patrimonio del Estado.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+XII. Dirigir la negociación y llevar el registro y control de la deuda pública del Estado; y vigilar y registrar la de los municipios, informando al Gobernador periódicamente, sobre el estado de las amortizaciones de capital y pago de intereses.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+XIII. Dictar la normatividad necesaria para el control, supervisión, vigilancia y evaluación de las actividades de todas sus oficinas recaudadoras, locales y foráneas.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+XIV. Efectuar los pagos conforme a los programas y presupuestos aprobados y formular mensualmente el estado de origen y aplicación de los recursos financieros y tributarios del Estado.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+XV. Proponer al Gobernador del Estado la cancelación de cuentas incobrables, así como el otorgamiento de subsidios fiscales en los casos en que proceda.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+XVI. Proporcionar asesoría, en materia de interpretación y aplicación de las leyes tributarias del Estado, solicitada por los particulares y las autoridades federales, estatales y municipales.
+
+Difundir permanentemente y publicar anualmente las disposiciones fiscales estatales y municipales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2018)</small>
+
+XVII. Tramitar y resolver los recursos administrativos en la esfera de su competencia e intervenir en los juicios de carácter fiscal que se ventilen ante cualquier tribunal cuando tenga interés la Entidad.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 31 DE DICIEMBRE DE 2018)</small>
+
+En materia de impuestos federales coordinados, en representación de la Entidad y en cumplimiento de los convenios y acuerdos de coordinación fiscal, tendrá las siguientes facultades:
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2018)</small>
+
+a). Intervenir como parte en los juicios contra resoluciones o actos emitidos por la Entidad en ejercicio de sus facultades por ingresos federales ya sea por sí o a través de las dependencias u organismos auxiliares de la administración pública estatal, sin perjuicio de la intervención que corresponda a la Secretaría de Hacienda y Crédito Público y/o al Servicio de Administración Tributaria.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2018)</small>
+
+b). Ejercer las acciones, oponer las excepciones y defensas que correspondan a los actos emitidos por la Entidad en los juicios.
+
+> <small>(REFORMADO, G.G. 26 DE ENERO DE 2021)</small>
+
+c). Intervenir en su carácter de autoridad ejecutora, en los juicios interpuestos contra requerimientos de pago a cargo de instituciones de fianzas con base en pólizas que se hayan expedido para asegurar el interés fiscal.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2018)</small>
+
+d). Interponer recurso de revisión en nombre y representación de la Entidad y del Gobernador del Estado de México, en contra de las sentencias y resoluciones ante el Tribunal Colegiado de Circuito competente, por conducto de las Salas, Secciones o Pleno del Tribunal Federal de Justicia Administrativa y las dictadas en el Juicio en Línea, en relación con los juicios en que el propio Estado haya intervenido como parte.
+
+> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2018)</small>
+
+Para el ejercicio de las atribuciones contenidas en esta fracción, el Secretario se auxiliará del Procurador Fiscal y sus Directores de Área, Jefes de Departamento y demás funcionarios que establezca el reglamento interior respectivo, quienes tendrán las atribuciones de representación de la Entidad que ejerza el propio Secretario;
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+XVIII. Fijar las políticas, normas y lineamientos generales en materia de catastro, de acuerdo con las leyes respectivas.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+XIX. Elaborar con la participación de las dependencias y organismos auxiliares del Poder Ejecutivo el plan estatal, los planes regionales y sectoriales de desarrollo, los programas estatales de inversión y aquellos de carácter especial que fije el Gobernador del Estado.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+XX. Establecer la coordinación de los programas de desarrollo socioeconómico del gobierno del Estado, con los de la administración pública federal y la de los municipios de la entidad, promoviendo la participación en los mismos de los sectores social y privado.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+XXI. Diseñar, implantar y actualizar un sistema de programación del gasto público acorde con los objetivos y necesidades de la administración pública del Estado, asesorando y apoyando a las dependencias y organismos auxiliares en la integración de sus programas específicos.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+XXII. Vigilar que los programas de inversión de las dependencias del Ejecutivo y sus organismos auxiliares, se realicen conforme a los objetivos de los planes de desarrollo aprobados.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+XXIII. Proyectar y calcular los egresos del Gobierno del Estado y los ingresos y egresos de sus organismos auxiliares.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+XXIV. Planear, autorizar, coordinar, vigilar y evaluar los programas de inversión pública de las dependencias del Ejecutivo y de sus organismos auxiliares.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+XXV. Establecer y llevar los sistemas de contabilidad gubernamental, disciplina financiera y de estadística general del Gobierno del Estado.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+XXV Bis. Garantizar, en el ámbito de su competencia, la aplicación de las reglas y criterios de disciplina financiera, equilibrio presupuestario y responsabilidad hacendaria, en términos de la legislación en la materia
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+XXV Ter. Realizar periódicamente la evaluación del cumplimiento de las obligaciones específicas de responsabilidad hacendaria a cargo de los municipios, en términos de lo establecido en los propios convenios, remitiendo los resultados a la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+XXV Quáter. Proporcionar, en el ámbito de su competencia, la información necesaria para que la Secretaría de Hacienda y Crédito Público esté en aptitud de realizar la evaluación del Sistema de Alertas a que se refiere el artículo 43 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+XXV Quintus. Proporcionar, en el ámbito de su competencia, la información financiera que solicite la Secretaría de Hacienda y Crédito Público para dar cumplimiento a lo dispuesto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2016)</small>
+
+XXV Sexies. Celebrar convenios con los entes públicos estatales que se ubiquen en un nivel de endeudamiento elevado, con el objeto de establecer obligaciones específicas de responsabilidad hacendaria.
+
+> <small>(REFORMADA, G.G. 16 DE NOVIEMBRE DE 2011)</small>
+
+XXVI. Hacer la glosa preventiva de los ingresos y egresos del Gobierno del Estado, elaborar la cuenta pública y mantener las relaciones con el Órgano Superior de Fiscalización del Estado de México.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+XXVII. Registrar y normar los actos y contratos de los que resulten derechos y obligaciones para el Gobierno del Estado.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+XXVIII. Intervenir en el otorgamiento de los subsidios que concede el Gobierno del Estado a los municipios, instituciones o particulares, con objeto de comprobar que la inversión se efectúe en los términos establecidos.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+XXIX. Prestar a los municipios, cuando así lo soliciten, la asesoría y el apoyo técnico necesario para elaboración de sus planes y programas de desarrollo económico y social.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+XXX. Integrar y mantener actualizada la información geográfica y estadística de la entidad.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+XXXI. Asesorar al Gobernador del Estado en la elaboración de los convenios que celebre el gobierno del Estado en materia de planeación, programación, supervisión y evaluación del desarrollo de la entidad.
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+XXXII. Vigilar que el desarrollo económico y social de la entidad sea armónico, para que beneficie en forma equitativa a las diferentes regiones del Estado, evaluando periódicamente los resultados obtenidos, en términos simples y comprensibles.
+
+> <small>(REFORMADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XXXIII. Vigilar el cumplimiento de las disposiciones legales que rijan las relaciones entre el Gobierno del Estado y los servidores públicos.
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XXXIV. Seleccionar, contratar, capacitar y controlar al personal del Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XXXV. Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los funcionarios y trabajadores del Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XXXVI. Mantener al corriente el escalafón de los trabajadores al servicio del Gobierno del Estado.
+
+> <small>(REFORMADA, G.G. 3 DE MAYO DE 2013)</small>
+
+XXXVII. Adquirir los bienes y servicios que requiera el funcionamiento del Poder Ejecutivo del Estado, con recursos federales o estatales;
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XXXVIII. Proveer oportunamente a las dependencias del ejecutivo de los elementos y materiales de trabajo necesarios para el desarrollo de sus funciones.
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XXXIX. Levantar y tener al corriente el inventario general de los bienes muebles e inmuebles propiedad del Gobierno del Estado.
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XL. Administrar y asegurar la conservación y mantenimiento del patrimonio del Gobierno del Estado.
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XLI. Establecer por acuerdo del Gobernador las normas para la recepción y entrega de las dependencias que incluirá necesariamente el levantamiento de inventarios.
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XLII. Administrar, controlar y vigilar los almacenes generales del gobierno.
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XLIII. Coordinar y supervisar en conjunto con las dependencias interesadas, la emisión de publicaciones oficiales del ejecutivo del Estado, excepto el periódico oficial.
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XLIV. Organizar, dirigir y controlar la intendencia del Poder Ejecutivo.
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XLV. Organizar y controlar la oficialía de partes.
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XLVI. Administrar los talleres gráficos del Estado.
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XLVII. Administrar el Archivo General del Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XLVIII. Elaborar e implantar programas de mejoramiento administrativo en coordinación con las demás dependencias del ejecutivo, que permita revisar permanentemente los sistemas, métodos y procedimientos de trabajo que se requieran para adecuar la organización administrativa a los programas de Gobierno.
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XLIX. Autorizar, previo acuerdo del Gobernador la creación de las nuevas unidades administrativas que requieran las dependencias del Ejecutivo.
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+L. Elaborar con el concurso de las demás dependencias del ejecutivo, los manuales administrativos de las mismas y auxiliar en la formulación de los anteproyectos de sus reglamentos interiores.
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+LI. Emitir normas, políticas y procedimientos para el establecimiento y la operación de las unidades de informática de las dependencias y vigilar su observancia.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+LII. Expedir las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación de los vehículos automotores destinados a transporte de carga, de uso particular y comercial, que no sean competencia de otras autoridades.
+
+> <small>(REFORMADA, G.G. 23 DE DICIEMBRE DE 2019)</small>
+
+LIII. Emitir dictamen de viabilidad o la autorización, según sea el caso, respecto de la constitución de los fideicomisos públicos de los Entes Públicos, a través de sus unidades administrativas, dependencias u organismos auxiliares, verificar el debido cumplimiento de sus fines, así como registrar, supervisar y evaluar su funcionamiento en cualquier momento, solicitando la información que considere necesaria con base en los lineamientos que para tal efecto emita la Secretaría;
+
+> <small>(ADICIONADA, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
+LIV. Comparecer ante terceros con facultades para formular declaraciones en representación del Estado y celebrar convenios a través de los cuales el Estado pueda asumir obligaciones de hacer y no hacer en relación con operaciones de crédito, préstamo, empréstito, emisión de valores o financiamiento a cargo de fideicomisos en los que participe como fideicomitente un organismo público descentralizado, y obligarse a indemnizar del daño o perjuicio o la privación de cualquier ganancia lícita que se ocasione por el incumplimiento de dichas obligaciones de hacer y no hacer o por la inexactitud de sus declaraciones, sin que ello constituya deuda pública del Estado y siempre y cuando no se garanticen obligaciones a favor de terceros. En los convenios a que se refiere esta fracción, no se podrán pactar penas convencionales o predeterminar responsabilidades por daños y perjuicios en caso de incumplimiento.
+
+En los convenios antes mencionados que celebre el Estado se podrán estipular las cláusulas que se requieran incluyendo, entre otras, las aplicables a la jurisdicción.
+
+> <small>(ADICIONADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+LV. Hacer efectivas las garantías otorgadas bajo cualquier modalidad a favor del Gobierno del Estado de México, mediante los procedimientos previstos en las disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, G.G. 26 DE ENERO DE 2021)</small>
+
+Para el ejercicio de la atribución contenida en esta fracción, el Secretario se auxiliará del Procurador Fiscal, en su carácter de autoridad ejecutora, a fin de hacer efectivas las pólizas de fianza otorgadas a favor del Gobierno del Estado.
+
+(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
+
+LVI. Determinar el destino final tratándose de tráileres, autobuses y cualquier tipo de remolques, una vez declarados abandonados;
+
+(REFORMADA, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
+
+LVII. Implementar, desarrollar y fomentar la política de Gobierno Digital y el uso estratégico de tecnologías de la información en el ejercicio de la gestión pública dentro de la Entidad.
+
+(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
+
+LVIII. Emitir lineamientos técnicos en materia de Gobierno Digital conforme a lo establecido en los ordenamientos jurídicos aplicables.
+
+(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
+
+LIX. Dar asesoría en materia de Gobierno Digital a los sujetos de la Ley de Gobierno Digital del Estado de México y Municipios, teniendo como base la normatividad aplicable en dicha materia.
+
+(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
+
+LX. Implementar y administrar el Registro Único de Personas Acreditadas del Estado de México, y realizar todas las acciones que de ello (sic). Para la realización de las acciones establecidas en esta fracción, la Secretaría deberá coordinarse con el Consejo Estatal de Gobierno Digital, aplicando las disposiciones de la normatividad aplicable.
+
+(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
+
+LXI. Implementar y administrar el Sistema Estatal de Información, Trámites y Servicios, en coordinación con el Consejo Estatal de Gobierno Digital.
+
+(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
+
+LXII. Aplicar las políticas en materia de protección de datos personales respecto del almacenamiento y custodia de información que derive del ejercicio de sus atribuciones.
+
+(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
+
+LXIII. Promover, formular, instrumentar, ejecutar, dar seguimiento y evaluar las políticas, lineamientos, acciones y programas en materia de Mejora Regulatoria aplicadas al uso estratégico de tecnologías de la información de conformidad con la Ley de Gobierno Digital del Estado de México y Municipios.
+
+(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
+
+LXIV. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+El Secretario de Finanzas, para el despacho de los asuntos de su competencia, se auxiliará por los Subsecretarios, Procurador Fiscal, Contador General, Directores Generales, Directores de Área, Titulares de Área, Subdirectores, Jefes de Departamento, Coordinadores, Delegados, y por los demás funcionarios que establezca el reglamento interior respectivo y otras disposiciones legales, salvo aquéllas que por disposición de ley o del reglamento interior respectivo, deban ser ejercidas únicamente por el Secretario.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Asimismo, se auxiliará de las autoridades señaladas en el párrafo anterior para el despacho de los asuntos de su competencia en materia de impuestos federales coordinados, en cumplimiento de los convenios y acuerdos de coordinación fiscal, dentro de las facultades otorgadas por el reglamento interior de la Secretaría, excepto aquéllas que por disposición de ley o del reglamento, deban ser ejercidas precisamente por el propio Secretario.
+
+> <small>(ADICIONADO, G.G. 4 DE MARZO DE 2000)</small>
 
 ###### Artículo 25.
 
-El uniforme número uno “A” de servicio ordinario de verano, del personal femenino, está conformado para clases y marinería por chamarra marinera blanca de manga corta y carpeta del mismo color; pantalón blanco acampanado cerrado al frente con el tapabalazo, en la parte posterior una abertura y siete ojillos a cada lado para una agujeta que ciñe a la cintura; camiseta blanca cuello redondo; pechera a rayas con vivo blanco; pañolón negro que pasa por una trabilla montada en la base del escote; zapatillas negras y medias tono natural; tocado, e insignias de grado en las mangas a 8 cm abajo de la costura de los hombros.
+La Secretaría de Salud es la dependencia encargada de conducir la política estatal en materia de salud en los términos de la legislación aplicable.
+
+> <small>(REFORMADO, G.G. 4 DE MARZO DE 2000)</small>
 
 ###### Artículo 26.
 
-El uniforme número dos de servicio formal de invierno, del personal masculino, está conformado para:
+A la Secretaría de Salud corresponde el despacho de los siguientes asuntos:
 
-I.- Almirantes, capitanes y oficiales: por saco negro de corte cruzado y solapas de pico, en la parte posterior llevará dos aberturas verticales a los costados, una pulgada abajo de la tapa de la bolsa delantera y hasta la costura inferior del saco, a la altura del último botón llevará dos bolsas con cartera rectangular, al frente dos hileras con cuatro botones, los dos últimos 30 mm abajo de la cintura y en el costado izquierdo a la altura de la cintura llevará una abertura vertical para dar paso al correón de la fajilla; los galones dorados de la jerarquía con los distintivos de cuerpo y servicio a la altura de las bocamangas; pantalón negro, recto, sin valencianas, cubriendo el empeine, en cada costado una bolsa y dos posteriores; camisa blanca de manga larga y corbata negra; camiseta blanca cuello redondo; cinturón negro con hebilla; guantes grises de cabritilla; calcetines y zapatos de charol negros; gorra blanca o boina negra, y fajilla, sable y fiador cuando se ordene, y
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-II.- Clases y marinería: por chamarra marinera negra de manga larga, con una bolsa del lado izquierdo a la altura de la tetilla, con carpeta y puños con tres espiguillas blancas; pañolón y rabiza que pasan por una trabilla montada en la base del escote; camiseta blanca cuello redondo y pechera a rayas con vivo negro; guantes blancos; pantalón negro acampanado cerrado al frente con el tapabalazo y en la parte posterior una abertura con siete ojillos a cada lado para una agujeta que ciñe la cintura; calcetines y zapatos negros; insignias de grado en las mangas a 8 cm abajo de la costura de los hombros; birrete o boina negra, y fornitura y polainas blancas cuando se ordene.
+I. Ejercer las atribuciones que en materia de salud le correspondan al titular del Ejecutivo Estatal, de acuerdo a la Ley General de Salud, el Libro Segundo del Código Administrativo del Estado de México, sus reglamentos y demás disposiciones aplicables;
+
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+II. Conducir la política estatal en materia de salud, en los términos del Libro Segundo del Código Administrativo del Estado de México y demás disposiciones aplicables, de conformidad con el Sistema Nacional de Salud;
+
+III. Elaborar en coordinación con las autoridades competentes los programas de salud y presentarlos a la aprobación del Gobernador del Estado;
+
+IV. Coordinar la participación de todas las instituciones de los sectores público, social y privado en la ejecución de las políticas de salud de la entidad;
+
+V. Planear, organizar, dirigir, coordinar y evaluar el Sistema Estatal de Salud, con base en la legislación en la materia;
+
+VI. Coordinar la prestación de servicios de atención médica, salud pública y regulación sanitaria en el Estado; y convenir en lo conducente, con cualquier otro sector que promueva acciones en estas materias;
+
+VII. Planear, operar, controlar y evaluar el Sistema Estatal de Donación de Organos Humanos para transplane; (sic)
+
+VIII. Planear, operar, controlar y evaluar el Sistema de Información de Salud del Estado de México, participando todas las dependencias y organismos auxiliares que proporcionen servicios de salud, así como el Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+
+IX. Impulsar la descentralización y desconcentración de los servicios de salud a los municipios, mediante los convenios que al efecto se suscriban, en términos de la Ley de Salud del Estado de México y demás disposiciones legales en la materia;
+
+X. Proponer al Ejecutivo Estatal, para su aprobación, acuerdos de coordinación con las instituciones del sector salud, tendientes a promover y apoyar los programas de medicina preventiva;
+
+XI. Proponer e implementar la infraestructura sanitaria necesaria que procure niveles de sanidad mínimos entre la población;
+
+XII. Dictar las medidas de seguridad sanitaria que sean necesarias para proteger la salud de la población;
+
+XIII. Proponer al Gobernador del Estado las normas sanitarias a las que deberá sujetarse la salubridad local y aplicar las relativas a salubridad general, en los términos de los acuerdos de coordinación que al efecto se celebren entre el Gobierno del Estado y la Secretaría de Salud del Gobierno Federal;
+
+XIV. Coordinar la realización de campañas para prevenir y atacar las epidemias y enfermedades que por su naturaleza requieran de atención y cuidados especiales;
+
+> <small>(REFORMADA, G.G. 12 DE MAYO DE 2010)</small>
+
+XV. Realizar, en coordinación con otras instancias públicas, sociales y privadas, campañas de concientización, educación, capacitación sanitaria y de salud, y sana alimentación que contribuyan al mejoramiento de las condiciones de vida de la población en general; y ejercer las facultades que los ordenamientos federales y locales le otorguen para prevenir la venta y consumo de alimentos de baja o nula nutrición entre la población en general, con especial cuidado en los que consumen los niños y jóvenes dentro de los planteles escolares;
+
+XVI. Desarrollar acciones encaminadas a erradicar las enfermedades transmisibles, así como los factores que afecten la salud, o propicien el alcoholismo, las toxicomanías y otros vicios sociales;
+
+XVII. Establecer, coordinar y ejecutar, con la participación de otras instituciones asistenciales públicas y privadas, programas para la asistencia, prevención, atención y tratamiento a las personas discapacitadas;
+
+XVIII. Vigilar que se apliquen las normas oficiales mexicanas, en materia de salud, que emitan las autoridades federales;
+
+XIX. Coordinar, supervisar e inspeccionar los centros educativos, para proteger la salud del educando y de la comunidad escolar, los servicios de medicina legal de salud en apoyo a la procuración de justicia, así como la atención médica a la población interna en los centros preventivos y de readaptación social;
+
+XX. Participar con las dependencias competentes y con las autoridades federales y municipales en la prevención o tratamiento de problemas ambientales;
+
+XXI. Organizar congresos, talleres, conferencias y demás eventos que coadyuven a la capacitación y actualización de los conocimientos del personal médico en materia de salud;
+
+XXII. Verificar el cumplimiento de las normas establecidas para la prestación de servicios de salud, por parte de los sectores público, social y privado en el Estado, vigilando que se aplique el cuadro básico de insumos para la salud;
+
+XXIII. Vigilar, en coordinación con las autoridades educativas, al ejercicio de los profesionales, técnicos y auxiliares de la salud en la prestación de sus servicios;
+
+XXIV. Efectuar el control higiénico e inspección sobre preparación, posesión, uso, suministro, importación, exportación y circulación de comestibles y bebidas;
+
+XXV. Controlar la preparación, posesión, uso, suministro, importación, exportación y distribución de productos medicinales, a excepción de los de uso veterinario;
+
+XXVI. Vigilar y supervisar la operación de clínicas, hospitales y consultorios públicos y privados, a fin de que operen conforme a los términos de las leyes en la materia;
+
+XXVII. Adquirir, con sujeción a las bases y procedimientos relativos, el equipo instrumental médico que requieran las unidades aplicativas, así como contratar, en su caso, los servicios para su reparación y mantenimiento, observando las disposiciones en la materia;
+
+XXVIII. Participar en el establecimiento y expedición, en coordinación con las dependencias competentes del Ejecutivo Estatal, de las bases y normas a las que deben sujetarse los concursos para la ejecución de obras del sector salud; y
+
+> <small>(ADICIONADA, G.G. 26 DE OCTUBRE DE 2011)</small>
+
+XXIX. Participar en la prevención, tratamiento y rehabilitación de la farmacodependencia y coordinarse con las autoridades federales y las instituciones públicas, privadas o sociales para la planeación, programación, ejecución y evaluación de los programas y acciones del proceso para su recuperación, así como para la superación de la problemática; y
+
+XXX. (DEROGADA, G.G. 5 DE ENERO DE 2021)
+
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
+
+XXXI. Vigilar, en coordinación con el Instituto de Verificación Administrativa del Estado de México y las autoridades correspondientes, el debido cumplimiento de las disposiciones en el ámbito de su competencia, así como la aplicación de las medidas de seguridad e imposición de sanciones que le correspondan, y
+
+(ADICIONADA, G.G. 29 DE AGOSTO DE 2013) (F. DE E., G.G. 11 DE SEPTIEMBRE DE 2013)
+
+XXXII. Las demás que señalen las leyes, reglamentos y disposiciones en la materia.
+
+> <small>(REFORMADO, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 27.
 
-El uniforme número dos de servicio formal de invierno, del personal femenino, está conformado para:
+La Secretaría del Trabajo, es el órgano encargado de ejercer las atribuciones que en materia de trabajo corresponden al Ejecutivo del Estado.
 
-I.- Almirantes, capitanes y oficiales: por saco negro de corte recto cerrado al frente con cuatro botones dorados, los galones dorados de la jerarquía con los distintivos de cuerpo y servicio a la altura de las bocamangas; falda negra recta; camiseta blanca cuello redondo, camisa blanca manga larga con corbata negra; cinturón negro con hebilla; guantes grises de cabritilla; bolsa negra tipo cartera y zapatillas de charol negro; medias tono natural y tocado. En ceremonias donde se está encuadrado, se portará con pantalón negro de corte recto, sin valencianas ni bolsas, cubriendo el empeine; zapatos de charol negros; medias color negro, y fajilla, sable y fiador cuando se ordene, y
-
-II.- Clases y marinería: por chamarra marinera negra de manga larga con una bolsa al lado izquierdo a la altura de la tetilla, con carpeta y puños con tres espiguillas blancas; pantalón negro acampanado, cerrado al frente con el tapabalazo y la parte posterior con una abertura con siete ojillos a cada lado para una agujeta que ciñe la cintura; pañolón negro y rabiza que pasan por una trabilla montada en la base del escote; camiseta blanca cuello redondo y pechera a rayas con vivo negro; medias negras; bolsa y zapatillas negras; insignias de grado en las mangas a 8 cm abajo de la costura de los hombros; tocado, y fornitura, zapatos negros y polainas blancas cuando se ordene.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 28.
 
-El uniforme número dos “A” de servicio ordinario de invierno del personal masculino, está conformado para:
+A la Secretaría del Trabajo, corresponde el despacho de los siguientes asuntos:
 
-I.- Almirantes, capitanes y oficiales: por camisa blanca de manga larga con palas, seis botones y dos bolsas de parche a la altura del pecho con cartera en terminación en “V”; pantalón negro, recto, sin valencianas, cubriendo el empeine, en cada costado una bolsa y dos posteriores; cinturón negro con hebilla; corbata negra; camiseta blanca cuello redondo; calcetines y zapatos negros; gorra blanca, y pistolera negra cuando se ordene, y
+I. Ejercer las funciones que en materia de trabajo correspondan al ejecutivo del Estado.
 
-II.- Clases y marinería: por camisa blanca de manga larga con palas, seis botones y dos bolsas de parche a la altura del pecho con cartera en terminación en “V”; pantalón negro, recto, sin valencianas, cubriendo el empeine, en cada costado una bolsa y dos posteriores; camiseta blanca cuello redondo y corbata negra; cinturón negro con hebilla, calcetines y zapatos negros, y birrete.
+II. Coadyuvar con las autoridades federales a la aplicación y vigilancia de las normas de trabajo.
+
+III. Poner a disposición de las autoridades federales del trabajo, la información que soliciten para el cumplimiento de sus funciones.
+
+IV. Participar en la integración y funcionamiento del Consejo Consultivo Estatal de Capacitación y Adiestramiento y de la Comisión Consultiva de Seguridad e Higiene en el Trabajo.
+
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2019)</small>
+
+V. Desahogar consultas sobre la interpretación de las normas de la Ley del Trabajo de los Servidores Públicos del Estado y Municipios o de los contratos colectivos de trabajo celebrados por los Poderes Públicos del Estado y los Municipios tribunales administrativos, organismos descentralizados, fideicomisos de carácter municipal los órganos autónomos que sus leyes de creación así lo determinen, e intervenir, a petición de parte, en la revisión de dichos contratos.
+
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2019)</small>
+
+VI. Vigilar la prestación del servicio público a cargo del Centro de Conciliación Laboral del Estado, en términos de las disposiciones legales aplicables.
+
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2019)</small>
+
+VII. Conciliar, a petición de parte, los conflictos laborales entre los Poderes Públicos del Estado y los Municipios, tribunales administrativos, organismos descentralizados, fideicomisos de carácter municipal y los órganos autónomos que sus leyes de creación así lo determinen y sus respectivas personas servidoras públicas, con antelación al juicio ante el Tribunal Estatal de Conciliación y Arbitraje.
+
+VIII. Visitar los centros de trabajo para constatar que se cumpla con las condiciones que establece la Ley Federal del Trabajo y normas que de ella se deriven.
+
+IX. Vigilar que se cumplan las normas existentes en materia de higiene y seguridad en el trabajo.
+
+X. Vigilar el cumplimiento de las normas relativas a la capacitación y adiestramiento de los trabajadores; elaborar y ejecutar programas de capacitación de la fuerza laboral en el Estado.
+
+XI. Formular y ejecutar el plan estatal de empleo.
+
+XII. Prestar asistencia jurídica gratuita a los sindicatos o trabajadores que lo soliciten y representarlos ante los tribunales del trabajo.
+
+XIII. Formular y ejecutar programas de difusión de los cambios que se den en las normas laborales.
+
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2019)</small>
+
+XIV. Imponer las sanciones establecidas en la Ley Federal del Trabajo, en el ámbito de su competencia.
+
+> <small>(ADICIONADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+
+XV. Organizar y operar el servicio estatal de empleo.
+
+> <small>(ADICIONADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+
+XVI. Promover y apoyar el incremento de la calidad y la productividad.
+
+> <small>(ADICIONADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+
+XVII. Fomentar y apoyar la organización social para el trabajo y el autoempleo.
+
+> <small>(ADICIONADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+
+XVIII. Impulsar y apoyar el desarrollo social, cultural y recreativo de los trabajadores y sus familias.
+
+XIX. Las demás que señalen las leyes y reglamentos vigentes.
+
+> <small>(REFORMADO, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 29.
 
-El uniforme número dos “A” de servicio ordinario de invierno del personal femenino, está conformado para almirantes, capitanes, oficiales, clases y marinería por: camisa blanca de manga larga con palas, seis botones, dos bolsas de parche a la altura del pecho y cartera de terminación en “V”; pantalón negro, recto, sin bolsas ni valencianas; corbata negra; camiseta blanca cuello redondo; cinturón negro con hebilla; medias y zapatillas negras; tocado, y pistolera negra para almirantes, capitanes y oficiales cuando se ordene.
+La Secretaría de Educación, es el órgano encargado de fijar y ejecutar la política educativa, en la Entidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE OCTUBRE DE 1992)</small>
 
 ###### Artículo 30.
 
-El uniforme número dos “B” de servicio ordinario de verano del personal masculino, está conformado para:
+A la Secretaría de Educación, corresponde el despacho de los siguientes asuntos:
 
-I.- Almirantes, capitanes y oficiales: por camisa blanca de manga corta con palas, seis botones blancos, dos bolsas de parche a la altura del pecho con cartera en terminación en “V”; pantalón negro, recto, sin valencianas, cubriendo el empeine, en cada costado una bolsa y dos posteriores, camiseta blanca cuello redondo; cinturón negro con hebilla; calcetines y zapatos negros; gorra blanca, y pistolera negra cuando se ordene, y
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
 
-II.- Clases y marinería: por camisa blanca de manga corta con palas, seis botones blancos, dos bolsas de parche a la altura del pecho con cartera en terminación en “V”; pantalón negro, recto, sin valencianas, cubriendo el empeine, en cada costado una bolsa y dos posteriores; camiseta blanca cuello redondo; cinturón negro con hebilla; calcetines y zapatos negros, y birrete.
+I. Formular, en el ámbito que compete al Estado, la política educativa, así como la de desarrollo cultural, bienestar social y deporte.
+
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+
+II. Planear, organizar, desarrollar, vigilar y evaluar los servicios educativos que dependen del Gobierno del Estado o sus organismos descentralizados con apego a la legislación federal y estatal vigentes.
+
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+
+III. Planear, desarrollar, dirigir y vigilar la educación a cargo del Gobierno Federal y de los particulares en todos los tipos, niveles y modalidades, en términos de la legislación correspondiente.
+
+> <small>(REFORMADA, G.G. 18 DE JUNIO DE 2007)</small>
+
+IV. Vigilar el cumplimiento de las disposiciones jurídicas, políticas y planes del sector, a través de auditorías, revisiones e inspecciones, que se realicen a los servicios educativos que dependen del Gobierno del Estado o sus organismos descentralizados y de las instituciones educativas particulares en todos los tipos, niveles y modalidades.
+
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+
+V. Crear y mantener las escuelas oficiales que dependan directamente del Gobierno del Estado y autorizar la creación de las que forman parte de sus organismos descentralizados, con excepción de las instituciones de educación superior autónomas.
+
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+
+VI. Formular los contenidos regionales de los planes y programas de estudio de educación básica
+
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+
+VII. Elaborar y, en su caso, ejecutar los convenios de coordinación que en materia educativa, cultural, de bienestar social, o deportiva celebre el Estado con el Gobierno Federal y los Municipios.
+
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+
+VIII. Representar al Gobierno del Estado ante todo tipo de organismos educativos.
+
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+
+IX. Revalidar los estudios, diplomas, grados o títulos equivalentes a la enseñanza que se imparta en el Estado y organizar el servicio social.
+
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+
+X. Mantener por sí, o en coordinación con los gobiernos Federal y Municipal, programas permanentes de educación para adultos, de alfabetización, y demás programas especiales.
+
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+
+XI. Promover, coordinar y fomentar los programas de educación para la salud y mejoramiento del ambiente aprobados para el Estado.
+
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+
+XII. Desarrollar por sí, o en coordinación con otras instancias competentes programas de atención a indígenas.
+
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+
+XIII. Vigilar la realización de los actos cívicos escolares de acuerdo con el calendario oficial.
+
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+
+XIV. Otorgar becas de conformidad con las disposiciones legales aplicables.
+
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+
+XV. Coordinar, organizar, dirigir y fomentar el establecimiento de bibliotecas, hemerotecas, casas de cultura, museos y orientar sus actividades.
+
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+
+XVI. Fomentar y vigilar el desarrollo de la investigación científica y tecnológica de la entidad y promover la creación de centros de investigación, laboratorios, observatorios y, en general, la infraestructura que requiera la educación formal, la investigación científica y el desarrollo tecnológico.
+
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+
+XVII. Impulsar las actividades de difusión y fomento cultural y la educación artística.
+
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+
+XVIII. Mantener al corriente el escalafón del magisterio y crear un sistema de estímulos y recompensas a la labor docente.
+
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+
+XIX. Administrar los asilos e instituciones de beneficencia pública del Gobierno del Estado.
+
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+
+XX. Coordinar con las autoridades competentes la realización de campañas para prevenir y atacar la farmacodependencia y el alcoholismo.
+
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+
+XXI. Proteger, mantener y acrecentar el patrimonio artístico e histórico de la entidad.
+
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+
+XXII. Establecer los criterios educativos y culturales en la producción radiofónica y televisiva del Gobierno del Estado.
+
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
+
+XXIII. Coordinar, organizar y fomentar la enseñanza y la práctica de los deportes en el Estado, así como la participación en torneos y justas deportivas nacionales y extranjeras.
+
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+XXIV. Establecer, promover y fomentar los planes y programas educativos, material didáctico y libros de texto locales, con perspectiva de género, así como las políticas para prevenir y eliminar actos de discriminación.
+
+> <small>(REFORMADA, G.G. 12 DE MAYO DE 2010)</small>
+
+XXV. Fomentar en su esfera de competencia la sana alimentación y activación física de la población escolar del sistema educativo del Estado de México, con especial énfasis en el cuidado de los alimentos que se expenden en las escuelas públicas y privadas de educación básica, aplicando la reglamentación conducente. La Secretaría de Educación se coordinará con la Secretaría de Salud y demás dependencias y organismos que tengan intervención en la materia, pudiendo establecer los convenios respectivos con los municipios de la Entidad.
+
+> <small>(ADICIONADA, G.G. 8 DE MARZO DE 2011)</small>
+
+XXVI. Promover la transformación de las guarderías y de las escuelas del sistema tradicional por turno, en guarderías y escuelas de tiempo completo, según población objetivo, cuando lo permitan la capacitación del personal docente, las condiciones presupuestales y la infraestructura física educativa.
+
+> <small>(REFORMADA, G.G. 12 DE MAYO DE 2010)</small>
+
+XXVII. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 31.
 
-El uniforme número dos “B” de servicio ordinario de verano del personal femenino, está conformado para:
+La Secretaría de Desarrollo Urbano y Obra es la dependencia encargada del ordenamiento territorial de los asentamientos humanos, de regular el desarrollo urbano de los centros de población y la vivienda, y de coordinar y evaluar, en el ámbito del territorio estatal, las acciones y programas orientados al desarrollo armónico y sustentable de las zonas metropolitanas, así como de ejecutar obras públicas a su cargo, y de promover y ejecutar las acciones para el desarrollo de infraestructura en la Entidad.
 
-I.- Almirantes, capitanes y oficiales: por camisa blanca de manga corta con palas, seis botones y dos bolsas de parche a la altura del pecho con cartera en terminación en “V”; pantalón negro, sin bolsas ni valencianas; camiseta blanca cuello redondo; cinturón negro con hebilla; medias y zapatillas negras; tocado, y pistolera negra para almirantes, capitanes y oficiales cuando se ordene, y
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
-II.- Clases y marinería: por camisa blanca de manga corta con palas, seis botones y dos bolsas de parche a la altura del pecho con cartera en terminación en “V”; pantalón negro sin bolsas ni valencianas; camiseta blanca cuello redondo; cinturón negro con hebilla; medias y zapatillas negras, y tocado.
+A esta Secretaría le corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+I.- Formular y conducir las políticas estatales de asentamientos humanos, ordenamiento territorial, desarrollo urbano, vivienda, obras públicas e infraestructura para el desarrollo;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+II.- Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de ordenamiento territorial de los asentamientos humanos, del desarrollo urbano, vivienda y obra pública;
+
+III.- Formular, ejecutar y evaluar el Plan Estatal de Desarrollo Urbano, los planes regionales de desarrollo urbano y los planes parciales que de ellos se deriven;
+
+IV.- Promover la implantación de planes municipales de desarrollo urbano;
+
+V.- Vigilar que los planes municipales de desarrollo urbano, los planes de centros de población y sus planes parciales sean congruentes con el plan Estatal de Desarrollo Urbano y con los planes regionales;
+
+VI.- Promover y vigilar el desarrollo urbano de las comunidades y de los centros de población del Estado;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+VII.- Vigilar el cumplimiento de las normas técnicas en materia de desarrollo urbano, vivienda y construcciones, así como que la ejecución de la obra pública adjudicada y los servicios relacionados con ésta, se sujeten a las condiciones contratadas;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+VIII.- Proponer al Ejecutivo del Estado la celebración de convenios en materia de desarrollo urbano, vivienda, obra pública e infraestructura y participar en su ejecución;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+IX.- Promover el financiamiento y la construcción, instalación, conservación, mantenimiento o mejoramiento de obras de urbanización, infraestructura y equipamiento urbano;
+
+X.- Participar en la promoción y realización de programas de suelo y vivienda preferentemente para la población de menores recursos económicos y coordinar su gestión y ejecución;
+
+XI.- Establecer los lineamientos para la regulación de la tenencia de la tierra en el Estado;
+
+XII.- Promover, apoyar y ejecutar programas de regularización de la tenencia de la tierra, con la participación que corresponda a los municipios;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XIII.- Emitir autorizaciones para conjuntos urbanos, condominios, subdivisiones, fusiones, relotificaciones de predios y demás establecidas en los ordenamientos jurídicos aplicables, así como para el uso y disponibilidad del Agua por Zona o Región para que los municipios otorguen licencias de construcción de vivienda o industria;
+
+XIV.- Establecer y vigilar el cumplimiento de los programas de adquisición de reservas territoriales del Estado, con la participación que corresponda a otras autoridades;
+
+XV.- Formular, en términos de ley, los proyectos de declaratorias sobre provisiones, reservas, destinos y usos del suelo;
+
+XVI.- Promover estudios para el mejoramiento del ordenamiento territorial de los asentamientos humanos y del desarrollo urbano, y la vivienda en la Entidad e impulsar proyectos para su financiamiento;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XVII.- Impulsar y promover trabajos de introducción de energía eléctrica en áreas urbanas y rurales, así como determinar la apertura o modificación de vías públicas;
+
+XVIII.- Participar en las comisiones de carácter regional y metropolitano en la que se traten asuntos sobre asentamientos humanos, desarrollo urbano y vivienda.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XIX.- Integrar el Programa General de Obras Públicas del Gobierno del Estado, con la Participación de las dependencias y organismos del Poder Ejecutivo, en congruencia con el Plan Estatal de Desarrollo y la política, objetivos y prioridades que establezca el Gobernador del Estado, y vigilar su ejecución;
+
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+XX.- Ampliar y fortalecer los mecanismos de coordinación con los gobiernos Federal, de la Ciudad México, de las entidades federativas vecinas y de los municipios conurbados, para atender de manera integral los asuntos de carácter metropolitano;
+
+(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
+
+XXI.- Promover, coordinar y evaluar con las dependencias, organismos auxiliares, fideicomisos públicos y órganos de la Administración Pública Estatal, las acciones, programas orientados al desarrollo de las zonas metropolitanas o de conurbación en la entidad;
+
+(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
+
+XXII.- Convocar a las dependencias, organismos auxiliares, fideicomisos públicos y órganos de la Administración Pública Estatal, a participar directamente en alguna comisión metropolitana cuando así resulte necesario;
+
+(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
+
+XXIII.- Coordinar y promover con los representantes de la entidad en las comisiones metropolitanas, que los programas y acciones de éstas se vinculen con los objetivos y estrategias del Plan de Desarrollo del Estado de México, a través de un enfoque metropolitano;
+
+(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
+
+XXIV.- Fortalecer, promover y evaluar los mecanismos de coordinación para planear los trabajos de las comisiones metropolitanas;
+
+(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
+
+XXV.- Integrar y coordinar los trabajos de las comisiones metropolitanas que correspondan a las dependencias, organismos auxiliares, fideicomisos públicos y órganos de la Administración Pública Estatal;
+
+(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
+
+XXVI.- Coordinar y dirigir los trabajos de las dependencias estatales en las comisiones metropolitanas, vigilando el cumplimiento de los acuerdos en el ámbito de su competencia;
+
+(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
+
+XXVII.- Promover, coordinar, vigilar y evaluar los proyectos de inversión metropolitanos, estratégicos de obras y acciones estatales y en materia intermunicipal, cuando así se convenga con los municipios involucrados;
+
+(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
+
+XXVIII.- Realizar investigaciones y estudios para apoyar las actividades que realiza la Administración Pública Estatal en las zonas metropolitanas de la entidad, así como de aquéllas que se deriven de los programas de las comisiones metropolitanas;
+
+(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
+
+XXIX.- Asesorar cuando así lo soliciten, a los municipios conurbados en asuntos de carácter metropolitano y de coordinación regional e intermunicipal, para que fortalezcan sus programas de infraestructura y equipamiento urbano;
+
+(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014) (F. DE E., G.G. 14 DE ENERO DE 2015)
+
+XXX.- Fomentar la participación ciudadana en la planeación y evaluación de acciones y programas de carácter metropolitanos, procurando la promoción de la identidad mexiquense;
+
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
+
+XXXI.- Expedir la evaluación técnica de impacto en materia urbana de conformidad a los ordenamientos jurídicos aplicables y emitir, a través de la Comisión del Agua del Estado de México, la evaluación técnica de impacto en materia de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXII.- Promover la reestructura o revocación de concesiones cuando los estudios costo beneficio, financieros o sociales representen un ahorro financiero para el Estado, una mejora sustancial en el otorgamiento del servicio o un riesgo para el otorgamiento del servicio o cumplimiento del objetivo de la concesión. Los estudios referidos podrán ser realizados por instituciones públicas o privadas en términos de las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIII.- Dictar las normas generales y ejecutar las obras de reparación, adaptación y demolición de inmuebles propiedad del Gobierno del Estado que le sean asignadas;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIV.- Construir, mantener o modificar, en su caso, la obra pública que corresponda al desarrollo y equipamiento urbano y que no competa a otras autoridades;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXV.- Expedir en coordinación con las dependencias que corresponda, las bases a que deben sujetarse los concursos para la ejecución de las obras a su cargo, así como adjudicarlas, cancelarlas y vigilar el cumplimiento de los contratos que celebre;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVI.- Establecer lineamientos para la realización de estudios y proyectos de construcción de obras públicas;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVII.- Coordinar, formular u operar programas estatales de obras de abastecimiento de agua potable y de servicios de drenaje y alcantarillado y de las demás relacionadas con el desarrollo y equipamiento urbano, que no estén asignadas a otras autoridades;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXVIII.- Supervisar la construcción, conservación, mantenimiento, operación y administración de las obras de agua potable y alcantarillado a su cargo;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIX.- Controlar el inventario de disponibilidad de Agua Potable del Estado;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XL.- Administrar en conjunto con la Secretaría de Finanzas los fideicomisos de infraestructura del Gobierno del Estado de acuerdo con el Plan Anual y Sexenal de Obras;
+
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
+
+XLI.- Dirigir, coordinar y supervisar a la Comisión de Impacto Estatal;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XLII.- Coordinar la política estatal de fortalecimiento institucional del desarrollo metropolitano en el Estado de México, de conformidad a las disposiciones jurídicas aplicables, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XLIII.- Las demás que le señalen otras leyes reglamentos y disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 32.
 
-El uniforme número tres de servicio ordinario para Infantería de Marina, está conformado para:
+La Secretaría de Movilidad es la dependencia encargada de planear, formular, dirigir, coordinar, gestionar, evaluar, ejecutar y supervisar las políticas, programas, proyectos y estudios para el desarrollo del sistema integral de movilidad, incluyendo el servicio público de transporte de jurisdicción estatal, sus servicios conexos y los sistemas de transporte masivo o de alta capacidad, así como el desarrollo y administración de la infraestructura vial primaria y de la regulación de las comunicaciones de jurisdicción local.
 
-I.- Almirantes, capitanes y oficiales: por camisola de manga larga gris jaspeado con hombreras, dos bolsas a la altura del pecho y dos a la altura de la cintura, trabas de ajuste a la altura de la cintura; pantalón del mismo color, recto, sin valencianas y con jareta en el doblez de los bajos, bolsas posteriores con cartera y bolsas de parche a los costados con cartera que cerrarán con dos botones en sus extremos; camiseta gris cuello redondo; cinturón gris con hebilla negra; manguitos grises; calcetas y botas negras; casco con forro gris o sombrero australiano gris o sombrero de cuartel gris, y fornitura negra cuando se trate de servicio armado, y
+> <small>(REFORMADO, G.G. 2 DE AGOSTO DE 2002)</small>
 
-II.- Clases y marinería: por camisola de manga larga gris jaspeado con hombreras, dos bolsas a la altura del pecho y dos a la altura de la cintura; pantalón del mismo color, recto, sin valencianas y con jareta en el doblez de los bajos, bolsas posteriores con cartera y bolsas de parche a los costados con cartera que cerrarán con dos botones en sus extremos; camiseta gris cuello redondo; cinturón gris con hebilla negra; insignias de grado en las mangas a 8 cm abajo de la costura de los hombros; calcetas y botas negras; casco con forro gris o sombrero australiano o sombrero de cuartel gris, y fornitura negra cuando se trate de servicio armado.
+A esta Secretaría le corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+I.- Formular y ejecutar planes, programas y acciones para el desarrollo del transporte y sus servicios conexos, infraestructura vial primaria y comunicaciones de jurisdicción local, incluyendo los relativos a sistemas de transporte masivo o de alta capacidad;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+II.- Fomentar mecanismos para garantizar el derecho humano a la movilidad eficiente y segura, así como para garantizar que todas las personas en ejercicio de dicho derecho se obliguen a respetar y preservar las condiciones de la infraestructura para la movilidad;
+
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
+
+III.- Emitir la evaluación técnica de impacto en materia vial, tratándose de los casos previstos en el artículo 5.35 del Código Administrativo del Estado de México y demás disposiciones jurídicas aplicables;
+
+IV.- Expedir normas técnicas a que debe sujetarse el establecimiento y operación de la infraestructura vial primaria y las comunicaciones de jurisdicción local;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+V.- Vigilar el cumplimiento de las disposiciones legales en materia de infraestructura vial primaria, de comunicaciones de jurisdicción local y de transporte público con la intervención que corresponda a otras autoridades;
+
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+VI.- Operar, construir, explotar, conservar, rehabilitar y dar mantenimiento a la infraestructura vial primaria y a las comunicaciones de jurisdicción local, que comprende los sistemas de transporte masivo o de alta capacidad de su competencia, directamente o a través de particulares, mediante el otorgamiento de concesiones y contratos;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+VII.- Ejecutar acciones técnicas de seguimiento, evaluación y control de avance, calidad y demás características de las obras a que se refiere la fracción anterior, o de la prestación de los servicios en materia de transporte, sin perjuicio de la intervención que en tales materias corresponda a otras autoridades;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+VIII.- Otorgar, modificar, revocar, rescatar, sustituir, cancelar o dar por terminadas las concesiones, permisos o autorizaciones, según corresponda, para la prestación del servicio público de pasajeros colectivo, individual, mixto, y el servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos, fijando los requisitos mediante disposiciones de carácter general para su otorgamiento, y para la construcción, ampliación, rehabilitación, mantenimiento, administración y operación de la infraestructura vial primaria de cuota y de los sistemas de transporte masivo o de alta capacidad, ejerciendo los derechos de rescate y reversión;
+
+IX.- Administrar las vías de cuota a cargo del Estado de México;
+
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
+
+X.- Establecer disposiciones de carácter general para el uso de la infraestructura vial primaria y de las comunicaciones de jurisdicción local;
+
+XI.- Realizar por sí o a través de particulares la construcción, ampliación, mantenimiento, administración y operación de paradores para facilitar el uso de la infraestructura vial primaria por los servicios de carga;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XII.- Sancionar el incumplimiento de obligaciones por parte de los titulares de concesiones, permisos o autorizaciones en materia de transporte público, infraestructura vial primaria, paradores y de comunicaciones de jurisdicción local;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XIII.- Realizar las tareas relativas a la ingeniería del transporte y a la ingeniería vial y señalamiento de la infraestructura vial primaria, coordinándose con las autoridades municipales respecto de la integración de la infraestructura vial local con la infraestructura vial primaria;
+
+> <small>(REFORMADA, G.G. 31 DE MARZO DE 2011)</small>
+
+XIV.- Planear, supervisar, controlar y evaluar las funciones de la Junta de Caminos del Estado de México, del Sistema de Transporte Masivo del Estado de México y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México;
+
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
+
+XV.- Expedir las bases a que deben sujetarse los concursos públicos para el otorgamiento de concesiones en materia de infraestructura vial primaria y de comunicaciones de jurisdicción local, adjudicarlas, vigilar su ejecución y cumplimiento;
+
+> <small>(F. DE E., G.G. 18 DE SEPTIEMBRE DE 2002)</small>
+
+XVI.- Participar con el gobierno federal en la construcción, conservación y administración de aeródromos civiles en territorio estatal;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XVII.- Promover y organizar la capacitación, investigación y el desarrollo tecnológico en materia de transporte, infraestructura vial y de comunicaciones de jurisdicción local, así como fomentar programas y campañas para promover la educación vial y la cultura de movilidad con el objeto de reducir índices de accidentes, fomentar el trato respetuoso y erradicar la violencia con atención especial a niñas, niños, adultos mayores, personas con discapacidad, mujeres y demás grupos vulnerables;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XVIII.- Normar, organizar, integrar, operar y actualizar el Registro Público Estatal de Movilidad y el Registro Estatal de Comunicaciones;
+
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
+
+XIX.- Participar con los gobiernos federal y de otras entidades federativas, en su caso en la construcción, operación, explotación y mantenimiento de los sistemas de transporte masivo o de alta capacidad, así como gestionar las concesiones, autorizaciones o permisos que sean necesarios para la utilización de los derechos de vía federales, conforme a la normatividad aplicable;
+
+> <small>(ADICIONADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
+
+XX.- Elaborar estudios, diseñar, proyectar, construir, operar, administrar, explotar, conservar, rehabilitar y dar mantenimiento a estaciones de transferencia modal para los sistemas de transporte masivo o de alta capacidad, directamente o a través de particulares, mediante el otorgamiento de concesiones o contratos;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXI.- Resolver respecto del uso de la infraestructura vial primaria por los servicios de transporte público y de la construcción de bahías de ascenso y descenso de pasaje, así como determinar el uso restringido de la infraestructura vial;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+
+XXII.- Promover la reestructura o revocación de concesiones cuando los estudios costo beneficio, financieros o sociales representen que puede haber un ahorro financiero para el Estado, una mejora sustancial en el otorgamiento del servicio o un riesgo para el otorgamiento del servicio o cumplimiento del objetivo de la concesión. Los estudios referidos, podrán ser realizados por instituciones públicas o privadas en término de las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
+
+XXIII.- Emitir los lineamientos generales para la emisión de la Evaluación Técnica de Impacto en materia Vial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+XXIV.- Otorgar a particulares, permisos para el uso y el aprovechamiento de espacios públicos ubicados en el derecho de vía de la infraestructura vial primaria, para su rehabilitación, mantenimiento y operación, con la finalidad de fomentar el desarrollo de áreas de convivencia o interés social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+XXV.- Emitir los lineamientos generales para el otorgamiento de los permisos para espacios públicos en las vías primarias de comunicación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXVI.- Otorgar, modificar, cancelar, revocar, rescatar, sustituir o dar por terminados los permisos para la prestación de servicios de transporte de pasajeros, de carga y de arrastre y traslado; de servicios conexos; y para la instalación y explotación de anuncios publicitarios en los diversos tipos de vehículos y servicios auxiliares y conexos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXVII.- Implementar medidas y acciones para el debido cumplimiento de las obligaciones por parte de los titulares de concesiones, permisos o autorizaciones en materia de transporte público;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXVIII.- Autorizar y modificar en todo tiempo rutas, itinerarios, horarios, frecuencias, así como bases, paraderos y terminales del servicio público de transporte y señalar la forma de identificación de los vehículos afectos al servicio público de transporte;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXIX.- Autorizar y modificar las tarifas a que se sujete el servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, así como determinar el medio a través del cual los usuarios realizarán el pago de las mismas y los dispositivos con que deberán contar los concesionarios para recabarlas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXX.- Aplicar las medidas de seguridad en términos de la legislación vigente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXI.- Expedir las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación de los vehículos automotores destinados al transporte público y para prestar un servicio a la población por parte de organismos y dependencias federales, estatales o municipales, que no sean competencia de otras autoridades;
+
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2021)</small>
+
+XXXII.- Otorgar las licencias, permisos y autorizaciones que le correspondan para conducir vehículos automotores destinados al transporte en sus diversas clases y modalidades;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIII.- Aprobar la implementación y operación del servicio de pago tarifario anticipado para el acceso de la población al servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, y fijar los requisitos mediante disposiciones de carácter general para su aprobación; así como modificar, revocar, rescatar, sustituir o dar por terminadas las mismas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIV.- Aprobar la implementación y operación de los Centros de Gestión y Control Común a través de los cuales se operen redes integradas de transporte, con las que se eficiente el servicio público de pasajeros en las modalidades de colectivo, individual y mixto, y fijar los requisitos mediante disposiciones de carácter general para su aprobación; así como modificar, revocar, rescatar, sustituir o dar por terminadas las mismas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXV.- Definir la operación de las rutas alimentadoras para el transporte de alta capacidad; y
+
+XXXVI.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+
+XXXVII.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+
+XXXVIII.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+
+XXXIX.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+
+XL.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XLI.- Las demás que le señalen otras leyes, reglamentos y disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 23 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 32 Bis.
 
@@ -433,31 +1483,289 @@ XXVII. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### Artículo 33.
 
-El uniforme número tres “A” de servicio ordinario para Infantería de Marina, está conformado para:
+La Secretaría de la Mujer es la dependencia encargada de promover, coordinar, impulsar, formular, ejecutar y evaluar las políticas públicas, programas y acciones relativas a la igualdad sustantiva entre mujeres y hombres, la transversalización de la perspectiva de género, la erradicación de la violencia contra las mujeres por razón de género y condición social, la implementación de acciones afirmativas que acorten las brechas sociales, la protección integral de mujeres, y la eliminación de cualquier tipo de discriminación que obstaculice el acceso igualitario a las oportunidades, el empoderamiento, y el ejercicio de sus derechos.
 
-I.- Almirantes, capitanes y oficiales: por camisola de manga larga gris jaspeado con hombreras, dos bolsas a la altura del pecho y dos a la altura de la cintura, trabas de ajuste a la altura de la cintura; pantalón del mismo color, recto sin valencianas y con jareta en el doblez de los bajos, bolsas posteriores con cartera y bolsas de parche a los costados con cartera que cerrarán con dos botones en sus extremos; camiseta blanca cuello redondo; cinturón gris con hebilla dorada; manguitos negros con galón dorado; calcetas y botas negras; gorra blanca, y pistolera y polainas blancas cuando se trate de servicio armado, y
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-II.- Clases y marinería: por camisola de manga larga gris jaspeado con hombreras, dos bolsas a la altura del pecho y dos a la altura de la cintura, trabas de ajuste a la altura de la cintura; pantalón del mismo color, recto, sin valencianas y con jareta en el doblez de los bajos, bolsas posteriores con cartera y bolsas de parche a los costados con cartera que cerrarán con dos botones en sus extremos; camiseta blanca cuello redondo; cinturón gris con hebilla dorada; calcetas y botas negras; birrete, y fornitura y polainas blancas cuando se trate de servicio armado.
+A esta Secretaría le corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+I. Formular, proponer, coordinar, ejecutar y dar seguimiento a la instrumentación de políticas públicas, programas estatales y acciones que promuevan la igualdad de género, la prevención, atención, sanción y erradicación de la violencia contra las mujeres, así como de las medidas institucionales que aseguren el ejercicio de sus derechos, oportunidades y acceso igualitario a la participación equitativa en el desarrollo económico, político, social y cultural, a fin de eliminar los estereotipos y prácticas sociales que refuerzan la discriminación hacia las mujeres;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+II. Elaborar, proponer, ejecutar, coordinar y dar seguimiento al Programa Integral para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres en el Estado de México;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+III. Impulsar y promover la incorporación de la perspectiva de género en los programas y políticas públicas de las dependencias y organismos auxiliares de la administración pública estatal; así como en la planeación del desarrollo, la programación y el presupuesto de egresos del Estado;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+IV. Expedir lineamientos administrativos para la coordinación de los procesos internos de planeación, programación y presupuestación de la política pública con perspectiva de género y de derechos humanos de las mujeres, así como diseñar indicadores para su seguimiento, sistematización y evaluación, y realizar proyecciones con la información que se genere en la operación de los programas y acciones gubernamentales en favor de la mujer;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+V. Diseñar, implementar y evaluar políticas transversales en materia de igualdad de género, con enfoque de derechos humanos, para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, en coordinación con las dependencias y organismos auxiliares de la Administración Pública Estatal, así como coadyuvar con los municipios, los poderes Legislativo y Judicial, y los organismos constitucionales autónomos, cuando así lo soliciten, para los mismos fines;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+VI. Administrar, ejecutar y gestionar ante las instancias correspondientes, recursos financieros para la elaboración y ejecución de proyectos productivos y de inversión que promuevan el empoderamiento de la mujer y contribuyan al mejoramiento de las condiciones económicas, políticas, culturales y sociales que garanticen su bienestar integral y reduzcan las desigualdades;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+VII. Fortalecer la participación de las mujeres en actividades productivas y fomentar el desarrollo de sus capacidades económicas, en coordinación con las autoridades competentes, mediante la implementación de estrategias de formación, capacitación y certificación en materia laboral y empresarial, que les permitan el acceso a un trabajo digno y a la obtención de ingresos, a través del autoempleo;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+VIII. Atender e impulsar el ejercicio pleno de los derechos de las mujeres mediante el otorgamiento de asesoría, atención y representación jurídica, así como de apoyo psicoterapéutico, a mujeres en situación de vulnerabilidad por razón de violencia familiar y violencia de género;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+IX. Promover y difundir una cultura de paz para eliminar las prácticas sociales que reproduzcan o refuercen la violencia contra la mujer, y la discriminación por razón de género, a fin de garantizar la protección de los derechos humanos de las niñas y mujeres, así como para fomentar el empoderamiento y desarrollo de las mujeres en la esfera pública y privada;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+X. Colaborar con el Instituto de Profesionalización de los Servidores Públicos del Poder Ejecutivo del Gobierno del Estado de México para que los programas de formación, capacitación y profesionalización de las personas servidoras públicas se desarrollen con perspectiva de género;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XI. Promover la inclusión de las organizaciones de la sociedad civil en la elaboración de los instrumentos de planeación y los programas de participación social, con el objeto de fortalecer la transversalidad de la perspectiva de género y garantizar la igualdad sustantiva para las mujeres;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XII. Proponer al Ejecutivo del Estado la celebración de convenios en materia de igualdad de género, desarrollo integral de las mujeres y erradicación de todas las formas de violencia y discriminación contra las mujeres;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XIII. Generar acciones que promuevan los derechos sexuales y reproductivos de las mujeres, en coordinación con las instancias competentes;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XIV. Fomentar la participación de las mujeres y las organizaciones sociales, políticas y económicas en los diferentes aspectos del desarrollo en el Estado, así como el acceso de las mujeres a un sistema de salud que favorezca su desarrollo personal y social;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XV. Coordinar y representar al Mecanismo Interinstitucional de Seguimiento de las Medidas de Seguridad, Prevención y Justicia para atender y erradicar la violencia contra niñas, adolescentes y mujeres en el Estado de México;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XVI. Coordinar, dirigir y supervisar al Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes, y el Sistema Estatal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XVII. Difundir información en materia de igualdad de género, inclusión social y derechos de las mujeres en la vida pública y privada, así como fomentar la eliminación de roles y estereotipos de género que atenten contra la dignidad de las personas;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XVIII. Elaborar y remitir a la Secretaría de Finanzas su anteproyecto de presupuesto anual para que sea integrado al proyecto de presupuesto del Gobierno del Estado, de conformidad con lo que establecen las normas en materia de presupuesto, el cuál no podrá ser menor al presupuesto correspondiente al año inmediato anterior, y
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XIX. Las demás que le señalen otras leyes reglamentos y disposiciones jurídicas aplicables.
+
+XX. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
+
+XXI. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
+
+XXII. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
+
+XXIII. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
+
+XXIV. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
+
+XXV. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
+
+XXVI. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
+
+XXVII. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
+
+XXVIII. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 34.
 
-El uniforme número tres “B” de servicio ordinario del personal masculino, está conformado para:
+La Secretaría del Campo es la dependencia encargada de planear, promover, coordinar, supervisar y regular el desarrollo de la agricultura, pecuaria, acuacultura, apicultura, el agave, pesquero e hidráulico, la conservación forestal y el establecimiento de agroindustrias, así como coadyuvar en la atención y solución de los problemas agrarios en el Estado.
 
-I.- Almirantes, capitanes y oficiales: por camisa gris claro de manga larga, con hombreras, seis botones y dos bolsas a la altura del pecho con cartera de terminación en “V”; pantalón gris sin valencianas, cubriendo el empeine, en cada costado una bolsa y dos posteriores; cinturón gris con hebilla dorada; camiseta gris cuello redondo; calcetines y zapatos negros; gorra blanca o gorra de servicio gris con escudo y laureles dorados; manguitos negros con galón dorado; guantes blancos, fajilla, sable y fiador o pistolera negra cuando se ordene, y
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-II.- Clases y marinería: por camisa azul de manga larga con seis botones y dos bolsas a la altura del pecho con cartera de terminación en “V”; pantalón acampanado cerrado al frente con el tapabalazo, dos bolsas al frente y una posterior de abertura horizontal al nivel inferior de la pretina, en la parte posterior una abertura y siete ojillos a cada lado para una agujeta que ciñe la cintura; camiseta gris cuello redondo; calcetines y zapatos negros; insignias de grado en las mangas a 8 cm abajo de la costura de los hombros y birrete o sombrero de cuartel de mezclilla, y polainas, guantes blancos y fornitura blanca o negra cuando se ordene.
+A esta Secretaría le corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+
+I. Rectoría, normatividad y programación de la producción en la agricultura, pecuaria, acuacultura, apicultura, el agave, pesquera, hidráulico y agroindustrial, así corno (sic) la atención y solución de los problemas rurales en el Estado.
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+
+II. Realizar estudios para aprovechar racionalmente los recursos naturales renovables del Estado, integrados a la agricultura, pecuaria, acuacultura, apicultura, el agave y pesquera, a fin de desarrollar potencial productivo y satisfacer las demandas populares.
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+
+III. Elaborar, supervisar, evaluar y controlar los planes estatales de desarrollo en la agricultura, pecuaria, acuacultura, apicultura, el agave, pesquero, hidráulico y agroindustrial de la Entidad.
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+
+IV. Supervisar la ejecución de los programas estatales de desarrollo en la agricultura, pecuaria, acuacultura, apicultura, el agave, pesquero, hidráulico y agroindustrial para desarrollar y difundir técnicas, sistemas y procedimientos eficaces que permitan el mejoramiento de la producción y productividad.
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+
+V. Establecer, impulsar y apoyar los programas estatales prioritarios de desarrollo en la agricultura, pecuaria, acuacultura, apicultura, el agave, pesquero, hidráulico y agroindustrial que generen empleos e ingresos a las familias rurales, hacia los cuales se canalicen los apoyos financieros necesarios para el cumplimiento de sus objetivos.
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+
+VI. Planear la expansión, mejoramiento y tecnificación de todas las actividades relacionadas con la producción e industrialización en la agricultura, pecuaria, acuacultura, apicultura, el agave y pesquera en la Entidad, además de aquellas que permitan clasificar y evaluar los suelos para lograr su conservación, mejoramiento, zonificación y uso adecuado.
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+
+VII. Apoyar la elaboración de estudios, planes y programas tendientes a las actividades de acopio y comercialización de la producción primaria o industrializada, en la agricultura, pecuaria, acuacultura, apicultura, el agave y pesquera, así como fomentar la capacitación y asistencia técnica de los productores y en general del sector rural en la Entidad.
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+
+VIII. Proponer la creación de unidades administrativas u organismos auxiliares del sector, o bien, los cambios a las estructuras orgánicas de los mismos, que se consideren necesarios para el incremento de la actividad en la agricultura, pecuaria, acuacultura, apicultura, el agave, pesquera y agroindustrial en el Estado.
+
+> <small>(REFORMADA, G.G. 2 DE AGOSTO DE 2002)</small>
+
+IX. Promover el establecimiento y vigilar el funcionamiento de las estaciones que conforman el sistema meteorológico del Estado.
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+
+X. Promover organizar congresos, ferias, exposiciones y concursos agrícolas, pecuarios, acuícolas, apícolas, del agave y pesqueros en el Estado, además de participar en eventos de carácter nacional e internacional.
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+
+XI. Realizar estudios y proyectos para la construcción o reconstrucción de la infraestructura hidráulica necesaria para apoyar las actividades de la agricultura, pecuaria, acuacultura, apicultura, el agave, pesqueras y agroindustriales en el Estado, ya sea en forma directa o a través de la contratación o subcontratación de los servicios de empresas públicas o privadas.
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+
+XII. Promover la constitución de organizaciones de productores en la agricultura, pecuaria, acuacultura, apicultura, el agave, pesqueras y agroindustriales y apoyarlas en el acceso al crédito y seguro para la producción e innovaciones tecnológicas, canales de comercialización adecuados, almacenaje y mejores sistemas de administración, procurando con ello su bienestar social.
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+
+XIII. Intervenir en los convenios de coordinación que celebre el Ejecutivo con el Gobierno Federal en materia de desarrollo agropecuario, en la acuacultura, apicultura, el agave, pesquero, hidráulico y agroindustrial o con los municipios, así como con otras entidades públicas.
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+
+XIV. Ejercer por delegación del Ejecutivo las atribuciones y funciones que en la agricultura, pecuaria, acuacultura, apicultura, el agave, pesquera y agroindustrial contengan los convenios firmados entre el Poder Ejecutivo y la Administración Pública Federal.
+
+> <small>(REFORMADA, G.G. 2 DE AGOSTO DE 2002)</small>
+
+XV. Ejercer las atribuciones que en materia agraria le competan al Ejecutivo del Estado, relacionándose con las autoridades correspondientes para la atención y solución de los asuntos en esta materia.
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+
+XVI. Nombrar a las comisiones que han de vigilar la operación de las empresas de participación municipal avocadas a las actividades agrícolas, pecuarias, acuícolas, apícolas, del agave, pesqueras y agroindustriales.
+
+> <small>(REFORMADA, G.G. 2 DE AGOSTO DE 2002)</small>
+
+XVII. Conservar y fomentar el desarrollo de la flora y fauna fluvial y lacustre en el Estado;
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+
+XVIII. Coordinar las actividades operativas de las Coordinaciones Regionales de Desarrollo Rural e implantar los mecanismos requeridos para la eficiente operación de los planes y programas que en materia agropecuaria, en la acuacultura, apicultura, el agave, pesqueras, agroindustriales e hidráulica se establezcan en la Entidad, bajo criterios de innovación, eficiencia, productividad, sustentabilidad, ahorro en el gasto público y mayor cercanía y calidad de los servicios a la población.
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+
+XIX. Elaborar inventarios, así como procesar y difundir la información estadística y geográfica referente a los recursos disponibles, el potencial productivo de las regiones del Estado, la oferta y la demanda de los productos del campo, a efecto de coadyuvar en la planeación del desarrollo rural y en la óptima utilización y preservación rural.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XX. Promover, coordinar y participar en acciones de protección, conservación, reforestación, fomento y vigilancia de los recursos forestales de la Entidad, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXI. Las demás que señalen el Reglamento y otras disposiciones jurídicas relativas en la Entidad.
 
 ###### Artículo 35.
 
-El uniforme número tres “B” de servicio ordinario del personal femenino, está conformado para:
+(DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
-I.- Almirantes, capitanes y oficiales: por camisa gris claro de manga larga, con hombreras, seis botones y dos bolsas a la altura del pecho con cartera de terminación en “V”; pantalón gris sin valencianas cubriendo el empeine, en cada costado una bolsa y dos posteriores; camiseta gris cuello redondo; cinturón gris con hebilla dorada; manguitos negros con galón dorado; calcetines y zapatos negros; tocado o gorra de servicio gris con escudo y laureles dorados, y guantes blancos, fajilla, sable y fiador o pistolera negra cuando se ordene, y
-
-II.- Clases y marinería: por camisa azul de manga larga, seis botones y dos bolsas a la altura del pecho con cartera de terminación en “V”; pantalón azul acampanado, cerrado al frente con el tapabalazo, dos bolsas al frente y una posterior de abertura horizontal al nivel inferior de la pretina; en la parte posterior una abertura y siete ojillos a cada lado para una agujeta que ciñe la cintura; camiseta gris cuello redondo; calcetines y zapatos negros; insignias de grado en las mangas a 8 cm abajo de la costura de los hombros, tocado, y fornitura blanca o negra, polainas y guantes blancos cuando se ordene.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 36.
 
-El uniforme tres “B” del servicio interior del personal masculino y femenino será el mismo que el descrito en los artículos 34 y 35 del presente Reglamento, con la excepción del tocado que será la gorra de servicio gris obscuro con el escudo bordado en hilo dorado; los almirantes y capitanes llevarán los laureles en la visera en hilo dorado según corresponda.
+La Secretaría de Desarrollo Económico es la dependencia encargada de regular, promover, fomentar y atender el desarrollo económico del Estado.
+
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
+
+A esta Secretaría le corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
+
+I. Proponer al Gobernador las políticas y programas relativos al fomento de las actividades industriales, mineras y comerciales;
+
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
+
+II. Participar en la planeación y programación de las obras e inversiones tendientes a promover la racional explotación de los recursos minerales del Estado;
+
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
+
+III. Servir de órgano de consulta y asesoría en materia de desarrollo económico tanto a los organismos públicos y privados como a las dependencias del Ejecutivo;
+
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
+
+IV. Asesorar técnicamente a los Ayuntamientos, a los sectores sociales y privados que lo soliciten, en el establecimiento de nuevas industrias o en la ejecución de proyectos productivos;
+
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
+
+V. Apoyar la creación y desarrollo de agroindustrias en el Estado y fomentar la industrial rural;
+
+V Bis. (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+V Ter. Desarrollar e implementar políticas que vayan encaminadas al uso estratégico de las tecnologías de la información y que impulsen el desarrollo económico dentro de la entidad, así como la generación de nuevas empresas y empleos y fomenten la competitividad dentro de las regiones del estado. Las acciones enunciadas en esta fracción deberán realizarse con apego a los lineamientos técnicos que establezca la Ley de Gobierno Digital del Estado de México y Municipios, y su Reglamento.
+
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
+
+VI. Apoyar los programas de investigación tecnológica, industrial y fomentar su divulgación;
+
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
+
+VII. Promover la realización de ferias, exposiciones y congresos industriales y comerciales;
+
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
+
+VIII. Participar en la creación y administración de parques, corredores y ciudades industriales en el Estado;
+
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
+
+IX. Formular y promover el establecimiento de medidas para el fomento y protección del comercio de primera mano en el Estado;
+
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
+
+X. Ejercer, previo acuerdo del Ejecutivo del Estado, las atribuciones y funciones que en materia industrial y comercial contengan los convenios firmados entre el mismo y la administración pública federal;
+
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+
+XI. Crear, operar y mantener actualizado en coordinación con los ayuntamientos, el Registro Estatal de Unidades Económicas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE AGOSTO DE 2013)</small>
+
+XII. Difundir la información relativa a las unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE AGOSTO DE 2013)</small>
+
+XIII. Expedir Normas Técnicas en las materias de su competencia;
+
+XIV. (DEROGADA, G.G. 5 DE ENERO DE 2021)
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XV. Crear, operar y mantener actualizado el Sistema de Unidades Económicas;
+
+XVI. (DEROGADA, G.G. 17 DE SEPTIEMBRE DE 2018)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XVII. Instalar y operar las ventanillas de gestión y mantener actualizada la información del Sistema en coordinación con los ayuntamientos;
+
+XVIII. (DEROGADA, G.G. 17 DE SEPTIEMBRE DE 2018)
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XIX. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### Artículo 36 Bis.
 
@@ -467,19 +1775,249 @@ El uniforme tres “B” del servicio interior del personal masculino y femenino
 
 ###### Artículo 37.
 
-El uniforme número tres “C” de servicio ordinario del personal masculino, está conformado para:
+La Secretaría de Cultura y Turismo tiene por objeto vincular a la sociedad con el quehacer cultural, turístico y artesanal de la entidad, así como planear, organizar, coordinar, promover, ejecutar y evaluar las políticas, programas y acciones necesarias para desarrollar la cultura, la cultura física, el deporte, y el fomento al turismo y desarrollo artesanal en el Estado de México.
 
-I.- Almirantes, capitanes y oficiales: por camisa gris claro de manga corta con hombreras; seis botones y dos bolsas a la altura del pecho, con cartera de terminación en “V”, pantalón gris sin valencianas, cubriendo el empeine; en cada costado una bolsa y dos posteriores; cinturón gris con hebilla dorada; camiseta gris cuello redondo; manguitos negros con galón dorado; calcetines y zapatos negros; gorra blanca o gorra de servicio gris con escudo y laureles dorados, y guantes blancos, fajilla, sable y fiador o pistolera negra cuando se ordene, y
-
-II.- Clases y marinería: por camisa azul de manga corta, con seis botones y dos bolsas a la altura del pecho con cartera de terminación en “V”; pantalón azul acampanado cerrado al frente con el tapabalazo, dos bolsas al frente y una posterior de abertura horizontal al nivel inferior de la pretina; en la parte posterior una abertura y siete ojillos a cada lado para una agujeta que ciñe la cintura; camiseta gris cuello redondo; calcetines y zapatos negros; birrete o sombrero de cuartel de mezclilla; fornitura blanca o negra; insignias de grado en las mangas a 8 cm abajo de la costura de los hombros, y polainas y guantes blancos cuando se ordene.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 38.
 
-El uniforme número tres “C” de servicio ordinario del personal femenino, está conformado para:
+La Secretaría de Cultura y Turismo tiene las siguientes atribuciones:
 
-I.- Almirantes, capitanes y oficiales: por camisa gris claro de manga corta con hombreras; seis botones y dos bolsas a la altura del pecho con cartera de terminación en “V”; pantalón gris sin valencianas cubriendo el empeine; cinturón gris con hebilla dorada; hombreras, manguitos negros con galón dorado; camiseta gris cuello redondo; calcetines y zapatos negros; tocado o gorra de servicio gris con escudo y laureles dorados, y guantes blancos, fajilla, sable y fiador o pistolera negra cuando se ordene, y
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
-II.- Clases y marinería: por camisa azul de manga corta, seis botones y dos bolsas a la altura del pecho con cartera de terminación en “V”, pantalón azul acampanado cerrado al frente con tapabalazo, dos bolsas al frente y una posterior de abertura horizontal al nivel inferior de la pretina; en la parte posterior una abertura de siete ojillos a cada lado para una agujeta que ciñe la cintura; camiseta gris cuello redondo; calcetines y zapatos negros; tocado; insignias de grado en las mangas a 8 cm abajo de la costura de los hombros, y fornitura blanca o negra, polainas y guantes blancos cuando se ordene.
+I. Propiciar el desarrollo integral de la cultura en el Estado de México, mediante la aplicación de programas adecuados a las características propias de la entidad;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+II. Fomentar mecanismos para garantizar el derecho de las personas a participar libremente en la vida cultural de la comunidad, a gozar de las artes y de los beneficios del progreso científico;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+III. Mantener vinculación con las agencias internacionales en los términos de la legislación aplicable;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+IV. Rescatar y preservar las manifestaciones específicas y diversas que constituyen el patrimonio cultural del pueblo mexiquense;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+V. Impulsar las actividades de difusión y fomento cultural, priorizándolas hacia las clases populares y la población escolar;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+VI. Coordinar los programas culturales del Estado, con los desarrollados por el gobierno federal en la entidad;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+VII.- Asesorar técnicamente a los Ayuntamientos, a los sectores sociales, privados o públicos que lo soliciten, en la prestación de servicios culturales, así como en la promoción y fomento del desarrollo turístico y artesanal;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+VIII.- Organizar y fomentar la producción artesanal en el Estado, vigilando que su comercialización se haga en términos ventajosos para los artesanos, así como estimular la producción artística y cultural, de manera individual y colectiva;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+IX. Crear, fomentar, coordinar, organizar y dirigir bibliotecas, hemerotecas, casas de cultura y museos, y orientar sus actividades;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+X. Realizar las publicaciones oficiales de carácter cultural;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XI. Administrar la Orquesta Sinfónica y el Conservatorio de Música del Estado de México;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XII. Organizar, preservar y acrecentar el Archivo Histórico del Gobierno del Estado de México;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XIII. Mantener actualizado el inventario de bienes que constituyen el patrimonio arqueológico, histórico, artístico y cultural de la entidad, el inventario de atractivos turísticos y el directorio de servicios que se prestan en este ramo en el Estado;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XIV. Impulsar la formación de recursos humanos para el desarrollo, promoción y administración de actividades culturales y recreativas;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XV. Promover y desarrollar actividades de fomento y rescate de las manifestaciones del arte popular;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XVI. Promover y desarrollar el nivel cultural de los habitantes de la entidad, a través del mejoramiento y ampliación de la infraestructura respectiva;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XVII. Elaborar el Programa Estatal de Cultura Física y Deporte, con base en los planes nacional y estatal de desarrollo, y realizar las acciones que se deriven del mismo;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XVIII. Coordinar el sistema estatal de cultura física y deporte, instalar su consejo y promover los sistemas correspondientes en los municipios;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XIX. Coordinar con las asociaciones deportivas estatales el establecimiento de programas específicos para el desarrollo del deporte, especialmente en materia de actualización y capacitación de recursos humanos para el deporte, eventos selectivos y de representación estatal, desarrollo de talentos deportivos y atletas de alto rendimiento;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XX. Colaborar con las organizaciones de los sectores público, social y privado, en el establecimiento de programas específicos para el desarrollo de las actividades físicas para la salud y la recreación, especialmente en materia de actualización y capacitación de recursos humanos, eventos promocionales, programas vacacionales y de financiamiento;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XXI. Establecer y operar en coordinación con las federaciones deportivas nacionales y las asociaciones deportivas estatales, centros para el deporte de alto rendimiento;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XXII. Promover la creación de escuelas de enseñanza, desarrollo y práctica del deporte, en coordinación con los sectores público, social y privado;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XXIII. Apoyar a los municipios en la planeación y ejecución de programas de promoción e impulso de la cultura física y el deporte;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
+XXIV. Convenir con los sectores público, social y privado la ejecución de acciones para promover y fomentar la cultura física y el deporte en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXV.- Proponer al Gobernador las políticas y programas relativos al fomento de las actividades turísticas y artesanales;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXVI.- Dirigir, coordinar y controlar la ejecución de los programas de fomento y promoción turística y artesanal para el desarrollo de la Entidad;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXVII.- Fomentar la comercialización, promoción y difusión de las artesanías que se producen en el Estado;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXVIII.- Organizar, promover y coordinar las actividades necesarias para lograr un mejor aprovechamiento de los recursos turísticos del Estado;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXIX.- Explotar directamente, otorgar y revocar concesiones para la explotación de los recursos turísticos del Estado, así como para la creación de centros, establecimientos y la prestación de los servicios turísticos en el Estado;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXX.- Controlar y supervisar, de acuerdo con las leyes y reglamentos de la materia, la prestación de los servicios turísticos que se realicen en el Estado;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXI.- Apoyar los programas de investigación, capacitación y cultura turística y fomentar su divulgación;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXII.- Promover la realización de ferias, exposiciones y congresos artesanales;
+
+> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIII.- Ejercer, previo acuerdo del Ejecutivo del Estado, las atribuciones y funciones que en materia turística y comercial artesanal contengan los convenios firmados entre él mismo y la administración pública federal, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XXXIV.- Las demás que le señalen otras leyes, reglamentos y disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE MAYO DE 2017)</small>
+
+Artículo 38 bis. La Secretaría de la Contraloría del Estado de México, es la dependencia encargada de la vigilancia, fiscalización y control de los ingresos, gastos, recursos y obligaciones de la administración pública estatal y su sector auxiliar, así como lo relativo a la presentación de la declaración patrimonial, de intereses y constancia de presentación de la declaración fiscal, así como de la responsabilidad de los servidores públicos, en términos de lo que disponga la normatividad aplicable en la materia.
+
+> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 1989)</small>
+
+A la propia Secretaría, le corresponde el despacho de los siguientes asuntos:
+
+I. Planear, programar, organizar y coordinar el sistema de control y evaluación gubernamental.
+
+II. Fiscalizar e inspeccionar el ejercicio del gasto público estatal y su congruencia con el presupuesto de egresos.
+
+III. Formular y expedir las normas y criterios que regulen el funcionamiento de los instrumentos, sistemas y procedimientos de control de la administración pública estatal. La Secretaría discrecionalmente podrá requerir de las dependencias competentes, la instrumentación de normas complementarias para el ejercicio de sus facultades de control.
+
+IV. Vigilar y supervisar el cumplimiento de las normas de control y fiscalización, así como asesorar y apoyar a los órganos de control interno de las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal.
+
+V. Establecer y dictar las bases generales para la realización de auditorías e inspecciones en las dependencias, organismos auxiliares y fideicomisos de carácter estatal, así como realizar las que se requieran en substitución o apoyo de sus propios órganos de control.
+
+VI. Comprobar el cumplimiento por parte de las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal; de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio y fondos y valores de la propiedad o al cuidado del gobierno estatal.
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
+VII. Realizar por sí o a solicitud de parte, auditorías, revisiones y evaluaciones a las dependencias, organismos auxiliares y fideicomisos de carácter estatal, con el objeto de controlar, examinar, fiscalizar y promover la eficacia, legalidad y la transparencia en sus operaciones y verificar de acuerdo con su competencia el cumplimiento de los objetivos y metas contenidos en sus programas, de manera trimestral los programas de mejora regulatoria, la actualización del Registro Estatal de Trámites y Servicios, así como a las disposiciones contenidas en la Ley de Gobierno Digital del Estado de México y Municipios y su Reglamento.
+
+VIII. Inspeccionar y vigilar directamente o a través de los órganos de control, que las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal, cumplan con las normas y disposiciones en materia de: sistema de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos y recursos materiales de la administración pública estatal.
+
+IX. Vigilar en los términos de los convenios respectivos, que los recursos federales y estatales que ejerzan directamente los municipios, se apliquen conforme a lo estipulado en los mismos.
+
+X. Fiscalizar los recursos federales derivados de los acuerdos o convenios respectivos, ejercidos por las dependencias y fideicomisos de la administración pública estatal.
+
+XI. Vigilar, en la esfera de su competencia, el cumplimiento de las obligaciones de proveedores y contratistas adquiridas con el Ejecutivo del Estado, solicitándoles la información relacionada con las operaciones que realicen, y fincar las deductivas y responsabilidades que en su caso procedan.
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
+XII. Opinar previamente a su expedición sobre las normas de contabilidad y de control en materia de programación, presupuestación, administración de recursos humanos, materiales y financieros, que elabore la Secretaría de Finanzas del Gobierno del Estado de México, así como sobre las normas en materia de contratación de deuda que formule esta última.
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
+XIII. Designar y remover a los auditores externos de los organismos auxiliares y fideicomisos, normar y controlar su actividad y proponer al titular del Ejecutivo la designación y comisarios en los consejos o juntas de Gobierno y administración de los mismos.
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
+XIV. Designar y remover a los titulares de los órganos internos de control de las dependencias, organismos auxiliares, fideicomisos de la administración pública estatal y de las unidades administrativas equivalentes de las empresas de participación estatal, sociedades o asociaciones asimiladas a éstas quienes dependerán jerárquica y funcionalmente de la Secretaría de la Contraloría del Estado de México y a los titulares de las áreas de auditoría, quejas y responsabilidades de los citados órganos internos de control.
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
+XV. Coordinarse con los integrantes de los Comités Coordinadores de los Sistemas Nacional, Estatal y Municipal Anticorrupción, para el establecimiento de los mecanismos necesarios, que permitan el mejor cumplimiento de sus respectivas responsabilidades.
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
+XVI. Informar periódicamente al Titular del Ejecutivo del Estado y al Comité Coordinador del Sistema Estatal Anticorrupción, respecto del resultado de la evaluación de las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal, que hayan sido objeto de fiscalización, de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos, promover ante las autoridades competentes las acciones que procedan para corregir las irregularidades detectadas. Asimismo, informar a la Secretaría de la Función Pública sobre la evaluación de los programas que manejen o involucren recursos federales en términos de los acuerdos o convenios respectivos o demás normatividad aplicable.
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
+XVII. Recibir y registrar la declaración de situación patrimonial, la declaración de intereses, la presentación de la constancia de declaración fiscal y determinar el Conflicto de Intereses de los servidores públicos del Estado y municipios, verificar y practicar las investigaciones que fueren necesarias en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios y demás disposiciones legales aplicables, así como registrar la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas.
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
+XVIII. Atender y dar seguimiento a las denuncias y quejas que presenten los particulares con motivo de acuerdos, convenios o contratos que celebren con las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal, así como de las empresas de participación estatal, sociedades o asociaciones asimiladas a éstas.
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
+XIX. Conocer e investigar los actos, omisiones o conductas de los servidores públicos que puedan constituir responsabilidades administrativas, substanciar los procedimientos correspondientes en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, por sí, o por conducto de los órganos internos de control que correspondan a cada área de la Administración Pública Estatal aplicando las sanciones en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado de México y cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal, así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones legales aplicables, así como realizar investigaciones, inspecciones y supervisiones, a través de acciones encubiertas y usuario simulado, para verificar la legalidad, honradez, eficiencia y oportunidad de la prestación del servicio público.
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
+XX. Vigilar el cumplimiento de las normas internas de la Secretaría, constituir las responsabilidades administrativas de su personal, aplicándoles las correcciones que correspondan, así como formular y presentar las denuncias, querellas, acusaciones o quejas de naturaleza administrativa o penal ante la Fiscalía Especializada en Combate a la Corrupción u otras autoridades competentes respectivamente.
+
+XXI. Intervenir para efectos de verificación en las actas de entrega-recepción de las unidades administrativas de las dependencias, organismos auxiliares y fideicomisos del Ejecutivo.
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
+XXII. Formular y conducir en apego y de conformidad con las bases de coordinación que establezcan los Comités Coordinadores de los Sistemas Nacional y Estatal Anticorrupción, la política general de la Administración Pública Estatal para establecer medidas y mecanismos, de modernización administrativa tendientes a lograr la eficacia de la vigilancia, fiscalización y control del gasto público estatal, la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere, así como promover dichas acciones hacia la sociedad.
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
+XXIII. Brindar asesoría y apoyo técnico a los órganos internos de control del gasto público municipal, cuando así lo soliciten.
+
+> <small>(REFORMADA, G.G. 6 DE JULIO DE 2015)</small>
+
+XXIV. Dirigir, coordinar y operar el Registro Estatal de Inspectores, conforme a las disposiciones correspondientes.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 30 DE MAYO DE 2017)</small>
+
+XXV. Colaborar en el marco de los Sistemas Nacional y Estatal Anticorrupción y de los Sistemas Nacional y Estatal de Fiscalización en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes, de conformidad con la legislación aplicable en la materia.
+
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
+
+XXVI. Implementar las políticas de coordinación que promuevan los Comités Coordinadores del Sistema Nacional y Estatal, en materia de combate a la corrupción en la Administración Pública Estatal, en términos de las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
+
+XXVII. Establecer mecanismos para prevenir actos u omisiones constitutivos de responsabilidades administrativas, que fomenten el desarrollo de la cultura de la legalidad.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 30 DE MAYO DE 2017)</small>
+
+XXVIII. Las demás que le señalen otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 38 Ter.
 
@@ -536,6 +2074,10 @@ X. Definir, unificar y difundir los criterios para la interpretación de las dis
 > <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XI. Asesorar jurídicamente y orientar, cuando así lo requieran, a las dependencias y organismos auxiliares de la Administración Pública del Estado, así como a las autoridades municipales;
+
+> <small>(ADICIONADA, G.G. 10 DE MARZO DE 2022)</small>
+
+XI Bis. Llevar a cabo la Mediación y Conciliación vecinal en la atención y resolución de conflictos cotidianos entre particulares;
 
 > <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -695,1297 +2237,133 @@ El estudio, planeación, trámite y resolución de los asuntos competencia de la
 
 ###### Artículo 39.
 
-El uniforme número tres “C” de servicio interior del personal masculino y femenino, será el mismo que el descrito en los artículos 37 y 38 del presente Reglamento, con la excepción del tocado que será la gorra de servicio gris obscuro con el escudo bordado en hilo dorado; los almirantes y capitanes llevarán los laureles en la visera en hilo dorado según corresponda.
+(DEROGADO, G.G. 13 DE SEPTIEMBRE DE 2017)
 
 ###### Artículo 40.
 
-El uniforme número cuatro de servicio formal del personal masculino y femenino, está conformado para almirantes, capitanes y oficiales por levita negra cruzada al frente; faldón de largo correspondiente y espigas en la parte posterior con tres botones; al frente dos hileras de cinco botones dorados, los dos últimos a 30 mm abajo de la cintura, para sujetar la fajilla llevará una trabilla a la altura del talle en el costado izquierdo, en los hombros llevará charreteras; camisa blanca de manga larga y corbata negra; para el personal masculino, pantalón negro recto, sin valencianas, cubriendo el empeine, en cada costado una bolsa y dos posteriores; para el personal femenino, pantalón negro y cintura de corte femenino, con dos bolsas de vivo al frente y sin valencianas; los galones dorados de la jerarquía con los distintivos de cuerpo o servicio a la altura de las bocamangas; camiseta blanca cuello redondo; cinturón negro con hebilla; calcetines y zapatos de piel negros; gorra blanca o tocado; guantes blancos, y fajilla, sable, fiador y condecoraciones cuando se encuentran encuadrados o cuando se ordene.
+(DEROGADO, G.G. 13 DE SEPTIEMBRE DE 2017)
 
-### CAPÍTULO III. Uniformes Especiales
+### CAPITULO CUARTO. De los Tribunales Administrativos
 
-###### Artículo 67.
-
-Los uniformes especiales para almirantes, capitanes, oficiales, clases y marinería, para personal masculino y femenino, son:
-
-I.- Uniforme número uno para el personal de almirantes, capitanes y oficiales encuadrados en escuelas de formación;
-
-II.- Uniforme número uno bis para el personal de edecanes;
-
-III.- Uniforme número uno “A” bis para el personal de edecanes;
-
-IV.- Uniforme número dos bis para el personal de edecanes;
-
-V.- Uniforme número tres de camuflaje;
-
-VI.- Uniforme número tres “D” para el uso en zonas de conflicto;
-
-VII.- Uniforme número cuatro para el personal de almirantes, capitanes y oficiales encuadrados en escuelas de formación;
-
-VIII.- Uniforme número cinco para el personal de almirantes, capitanes y oficiales encuadrados en escuelas de formación;
-
-IX.- Uniforme número doce para el personal de servicio de músicos navales;
-
-X.- Uniforme número trece para el personal de servicio de peluqueros;
-
-XI.- Uniforme número catorce para personal de camareros de servicio de etiqueta;
-
-XII.- Uniforme número catorce “A” para el personal de camareros de servicio formal;
-
-XIII.- Uniforme número catorce “B” para el personal de camareros de servicio ordinario;
-
-XIV.- Uniforme número quince para el personal de médicos;
-
-XV.- Uniforme número dieciséis para el personal de médicos;
-
-XVI.- Uniforme número diecisiete para el personal de enfermería;
-
-XVII.- Uniforme número dieciocho para médicos enfermeros y auxiliares de enfermería de servicio en quirófano;
-
-XVIII.- Uniforme número diecinueve para personal de afanadores;
-
-XIX.- Uniforme número veinte para personal hospitalizado en pre-alta;
-
-XX.- Uniforme número veintiuno para personal encamado, y
-
-XXI.- Uniforme número veintidós para personal en estado de gravidez.
-
-La descripción de los uniformes anteriores será conforme a lo establecido en los artículos 68 a 90 siguientes.
-
-###### Artículo 68.
-
-El uniforme número uno de servicio formal del personal masculino y femenino encuadrado en ceremonias y servicios de las escuelas de formación, está conformado para almirantes, capitanes y oficiales por chaquetín corto blanco, con pechera desmontable, cuello recto, cerrado al frente con dos ganchos internos, al frente dos hileras de seis botones, los dos últimos 30 mm abajo de la cintura y presillas en los hombros; pantalón blanco de corte recto, pretina alta, sin valencianas, cubriendo el empeine, en cada costado una bolsa y dos posteriores; camiseta blanca cuello redondo; calcetines y zapatos blancos; palas; fajilla, sable, fiador, guantes blancos, y gorra blanca o tocado.
-
-###### Artículo 69.
-
-El uniforme número uno bis de servicio ordinario del personal femenino de edecanes, está conformado para clases y marinería por falda recta blanca y chamarra marinera blanca de manga larga, con carpeta negra, puños postizos negros con tres espiguillas blancas, camiseta blanca cuello redondo; pechera a rayas, con vivo blanco, pañolón y rabiza que pasan por una trabilla en el escote; guantes blancos; bolsa y zapatillas negras; medias tono natural; insignias de grado en las mangas a 8 cm abajo de la costura de los hombros, y tocado.
-
-###### Artículo 70.
-
-El uniforme número uno “A” bis de servicio ordinario del personal femenino de edecanes, está conformado para clases y marinería por falda, camiseta, pechera, pañolón, bolsa, zapatillas, medias y tocado de las mismas características del uniforme uno bis, y chamarra marinera blanca en carpeta blanca en manga corta con insignias de grado en las mangas a 8 cm abajo de la costura de los hombros.
-
-###### Artículo 71.
-
-El uniforme número dos bis de servicio ordinario del personal femenino de edecanes, está conformado para clases y marinería por falda recta y chamarra marinera negra, manga larga con carpeta y puños con tres espiguillas blancas; camiseta blanca cuello redondo; pechera a rayas con vivo negro; pañolón y rabiza que pasan por una trabilla en el escote; guantes blancos; bolsa y zapatillas negras; medias tono natural; tocado, e insignias de grado en las mangas a 8 cm abajo de la costura de los hombros.
-
-###### Artículo 72.
-
-El uniforme número tres de camuflaje del personal masculino en operaciones de campaña, está conformado para almirantes, capitanes, oficiales, clases y marinería por camisola de manga larga de camuflaje con hombreras, dos bolsas a la altura del pecho y dos a la altura de la cintura, con carteras que cerrarán con dos botones en sus extremos; pantalón de camuflaje con bolsas de parche en los costados con un pliegue central vertical que permita su expansión, cerrarán con cartera y dos botones en sus extremos; camiseta gris cuello redondo; cinturón gris con hebilla; calcetas y botas negras; fornitura verde olivo, y sombrero australiano de camuflaje o casco con funda de camuflaje.
-
-###### Artículo 73.
-
-El uniforme número tres “D” de servicio ordinario del personal masculino y femenino de uso en zonas de conflicto, está conformado para almirantes, capitanes y oficiales por camisa gris claro de manga corta o larga, con hombreras; seis botones y dos bolsas a la altura del pecho con cartera de terminación en “V”, pantalón gris jaspeado, sin valencianas, cubriendo el empeine y en cada costado una bolsa y dos posteriores; camiseta gris cuello redondo; cinturón gris con hebilla negra; manguitos grises; calcetines y zapatos negros, y gorra de servicio gris con escudo y laureles, según correspondan, bordados con hilo gris.
-
-###### Artículo 74.
-
-El uniforme número cuatro de servicio formal del personal masculino y femenino encuadrado en ceremonias y servicios de las escuelas de formación de oficiales, está conformado para almirantes, capitanes y oficiales por chaquetín corto negro con pechera desmontable, cuello recto, cerrado al frente con dos ganchos internos, al frente dos hileras de seis botones, los dos últimos 30 mm abajo de la cintura, presillas en los hombros; los galones dorados de la jerarquía con los distintivos de cuerpo y servicio a la altura de las bocamangas; pantalón negro de corte recto, sin valencianas, cubriendo el empeine, en cada costado una bolsa y dos posteriores; camiseta blanca cuello redondo; calcetines y zapatos negros de charol; cinturón negro con hebilla; fajilla, sable, fiador, guantes blancos, y gorra blanca o tocado.
-
-###### Artículo 75.
-
-El uniforme número cinco de servicio formal del personal masculino y femenino encuadrado en ceremonias y servicios de las escuelas de formación de oficiales, está conformado para almirantes, capitanes y oficiales por chaquetín corto negro con pechera desmontable, cuello recto, cerrado al frente con dos ganchos internos, al frente dos hileras de seis botones, los dos últimos 30 mm abajo de la cintura y presillas en los hombros; los galones dorados de la jerarquía con los distintivos de cuerpo y servicio a la altura de las bocamangas; pantalón blanco de corte recto, sin valencianas, cubriendo el empeine, en cada costado una bolsa y dos posteriores; camiseta blanca cuello redondo; calcetines y zapatos blancos; cinturón blanco con hebilla; presillas, fajilla, sable, fiador, guantes blancos, y gorra blanca o tocado.
-
-###### Artículo 76.
-
-El uniforme número doce de servicio formal del personal masculino y femenino del servicio de músicos navales, está conformado para:
-
-I.- Almirantes, capitanes y oficiales por saco cruzado negro, con bolsas de cartera rectangulares y dos hileras de cuatro botones dorados, los dos últimos 30 mm abajo de la cintura, en el costado izquierdo la abertura para dar paso al correón de la fajilla, o de corte recto, con cuatro botones para el femenino; los galones dorados de la jerarquía con los distintivos de cuerpo y servicio a la altura de las bocamangas; para el personal masculino, pantalón blanco de corte recto sin valencianas cubriendo el empeine, en cada costado una bolsa y dos posteriores; para el personal femenino, pantalón blanco, sin bolsas ni valencianas; camisa blanca con mangas largas y dos bolsas a la altura del pecho con cartera de terminación en “V”, corbata negra; cinturón blanco con hebilla; zapatos y calcetines blancos; guantes blancos, y gorra blanca o tocado, y
-
-II.- Clases y marinería por: chamarra marinera negra, con carpeta y puños que llevan tres espiguillas blancas; pantalón acampanado, cerrado al frente con tapabalazo y en la parte posterior una abertura y siete ojillos con una agujeta que ciñe la cintura; camiseta blanca cuello redondo; pañolón y rabiza que pasan una trabilla en el escote; zapatos y calcetines blancos; guantes blancos, y birrete o tocado.
-
-###### Artículo 77.
-
-El uniforme número trece de servicio ordinario del personal masculino de peluqueros, está conformado para capitanes, oficiales, clases y marinería por filipina en manga corta azul cielo, de largo hasta la cadera con cuello deportivo; abertura en la parte posterior del faldón a partir de la cintura y cierra al frente con cuatro botones blancos, con dos bolsas de parche en los delanteros inferiores y otra del lado izquierdo a la altura del pecho. Se usará con el uniforme que se ordene.
-
-###### Artículo 78.
-
-El uniforme número trece de servicio ordinario del personal femenino de peluqueros, está conformado para capitanes, oficiales, clases y marinería por bata color rosa claro, en manga corta, con cuello deportivo; largo a la altura de las rodillas, cierre al frente con seis botones blancos; con bolsas de parche, dos en los delanteros inferiores y una al lado izquierdo a la altura del pecho. Se usará con el uniforme que se ordene.
-
-###### Artículo 79.
-
-El uniforme número catorce de servicio de etiqueta del personal masculino y femenino de camareros, está conformado para capitanes, oficiales, clases y marinería por chaquetín blanco estilo chupa, con dos botones metálicos al frente; falda recta negra o pantalón recto negro de pretina alta, cubriendo el empeine, con una bolsa posterior para el personal masculino; camisa blanca de manga larga; corbata de moño negra; calcetines y zapatos negros, o zapatillas negras con medias tono natural, y camiseta blanca cuello redondo y guantes blancos.
-
-###### Artículo 80.
-
-El uniforme número catorce “A” de servicio formal del personal masculino y femenino de camareros, está conformado para capitanes, oficiales, clases y marinería por saco blanco con cuello volteado y solapas a escuadra, con abertura en la parte posterior del faldón hasta la altura de la cintura, cerrada al frente con tres botones blancos, manga larga, con dos bolsas de parche al frente en los inferiores y una bolsa al lado izquierdo a la altura del pecho; para el personal masculino, pantalón negro de corte recto, sin valencianas, cubriendo el empeine y en cada costado una bolsa y dos posteriores, cinturón negro con hebilla, calcetines y zapatos negros; para el personal femenino, falda negra de corte recto, zapatillas negras y medias tono natural; guantes blancos, y camiseta blanca cuello redondo y corbata negra.
-
-###### Artículo 81.
-
-El uniforme número catorce “B” de servicio ordinario del personal masculino y femenino de camareros, está conformado para capitanes, oficiales, clases y marinería por filipina blanca con cuello alto; una abertura en la parte posterior del faldón a partir de la cintura, cerrada al frente con cuatro botones blancos, manga larga, con dos bolsas de parche en los frentes inferiores y otra al lado izquierdo a la altura del pecho; con cinta de bies azul marino en todo el filo del cuello y parte delantera de la filipina y el filo de las bolsas de parche; para el personal masculino, pantalón blanco de corte recto, sin valencianas, cubriendo el empeine; en cada costado una bolsa y dos posteriores; calcetines y zapatos negros; para el personal femenino, falda de corte recto, zapatillas negras y medias tono natural, y camiseta blanca cuello redondo y guantes blancos.
-
-###### Artículo 82.
-
-El uniforme número quince de servicio ordinario del personal masculino y femenino de médicos residentes, está conformado para capitanes y oficiales por filipina blanca de cuello deportivo, de largo hasta la altura de la parte inferior del dedo pulgar de las manos teniendo los brazos extendidos, cierre al frente de cremallera oculta, manga corta con tres bolsas de parche al frente, una a la altura del pecho izquierdo y dos en los frentes inferiores, sobre la bolsa izquierda llevará una placa de identificación color blanco con su jerarquía y nombre; para el personal masculino, pantalón blanco de corte recto, sin valencianas, cubriendo el empeine, en cada costado una bolsa y dos posteriores; para el personal femenino, pantalón blanco sin bolsas ni valencianas; zapatos blancos tipo choclo de enfermería, y calcetines blancos o medias tono natural.
-
-###### Artículo 83.
-
-El uniforme número dieciséis de servicio ordinario del personal masculino y femenino de médicos no residentes, está conformado para almirantes, capitanes y oficiales por bata clínica de manga larga y corte recto, en tela blanca; de largo hasta la rodilla; con abertura en la parte posterior y aberturas sobre las costuras laterales para dar acceso a las bolsas del pantalón; cierre al frente con cuatro botones blancos; lleva tres bolsas de parche una en el lado izquierdo a la altura del pecho y dos en los delanteros inferiores, sin carteras, y placa de identidad color blanca con jerarquía y nombre.
-
-###### Artículo 84.
-
-El uniforme número diecisiete de servicio del personal masculino y femenino de enfermería, está conformado para almirantes, capitanes, oficiales, clases y marinería por filipina blanca con hombreras y manguitos, cuello deportivo, cierre al frente de cremallera oculta, de manga corta para el personal masculino y tres cuartos para el personal femenino, con tres bolsas de parche al frente una al lado izquierdo a la altura del pecho y dos en los frentes inferiores para el personal masculino y dos ocultas al frente para el personal femenino; pantalón blanco de corte recto, sin valencianas, cubriendo el empeine, en cada costado una bolsa y dos posteriores para personal masculino o pantalón sin bolsas ni valencianas para personal femenino; zapatos blancos tipo choclo de enfermería; calcetines blancos o medias blancas, y cofia para el personal femenino.
-
-###### Artículo 85.
-
-El uniforme número dieciocho de servicio de quirófano, está conformado para almirantes, capitanes, oficiales, clases y marinería por camisola azul rey de manga corta y escote en “V”, corte recto, bolsa en el pecho de lado izquierdo, pantalón azul rey con jareta oculta para ajustarse por un costado, una bolsa de parche al costado a la altura del muslo derecho; bata de manga larga azul rey, de largo por debajo de las rodillas, con marsupial al frente, puños de resorte color blanco, abierta por la espalda; llevará cintillas para enlazarse por atrás, y gorro, mascarilla y botas quirúrgicas de tela azul rey.
-
-###### Artículo 86.
-
-El uniforme número diecinueve de servicio interior del personal masculino de afanadores, está conformado por filipina de manga corta azul gris, de corte recto, cuello volteado y solapas a escuadra, cerrará al frente con cuatro botones blancos, llevará tres bolsas de parche sin carteras, una en el lado izquierdo a la altura del pecho y dos en los delanteros inferiores; pantalón de corte recto sin valencianas, llevará dos bolsas verticales a los costados y una horizontal en la parte posterior; turbante azul gris; calcetines y zapatos negros; camiseta blanca cuello redondo, e insignias de grado en las mangas.
-
-###### Artículo 87.
-
-Uniforme número diecinueve de servicio interior para el personal femenino de afanadoras, está conformado por filipina azul gris, de corte recto, cuello volteado y solapas a escuadra, cerrará al frente con cuatro botones blancos, llevará tres bolsas de parche sin carteras, una en el lado izquierdo a la altura del pecho y dos en los delanteros inferiores; pantalón azul gris de corte femenino y turbante del mismo color; calcetines y zapatos negros; camiseta blanca cuello redondo, e insignias de grado en las mangas.
-
-###### Artículo 88.
-
-El uniforme número veinte para el personal hospitalizado en pre-alta, está conformado por camisa azul rey de manga larga, corte recto de largo hasta la altura inferior del dedo pulgar con los brazos extendidos, cuello camisero color blanco y cerrada al frente con cinco botones; pantalón de la misma tela con porteñuela y jareta en la cintura; sandalias, y podrá utilizar opcionalmente sobre el uniforme, una bata azul rey de manga larga y cruzada al frente con dos tiras para ceñirse y pantuflas.
-
-###### Artículo 89.
-
-El uniforme número veintiuno, del personal encamado, está conformado por bata azul rey de manga corta, amplia, de largo por debajo de las rodillas, sin cuello, cerrada al frente con cruce de cintillas a la altura de la cadera para el personal masculino o cerrada por la parte posterior con cintillas para el personal femenino, y pantuflas.
-
-###### Artículo 90.
-
-El uniforme número veintidós, del personal en estado de gravidez, está conformado para:
-
-I.- Oficiales: por camisa gris claro, de manga corta, corte línea “A”, llevará dos bolsas de parche a la altura del pecho con cartera de terminación en “V” con hombreras; pantalón gris jaspeado, corte recto, con resorte en la cintura y adaptación para el vientre; camiseta gris de cuello redondo; zapatos y calcetines negros; manguitos en tela negra con galón dorado y tocado, y
-
-II.- Clases y marinería: por camisola de mezclilla, corte línea “A” de manga corta, con dos bolsas a la altura del pecho y carteras de terminación en “V”; pantalón en mezclilla azul marino; corte recto; llevará resorte en la cintura y adaptación para el vientre; camiseta gris cuello redondo; zapatos y calcetines negros, e insignias de grado en las mangas.
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 41.
 
-El uniforme número cinco de servicio formal del personal masculino y femenino, está conformado para almirantes, capitanes y oficiales por levita negra cruzada al frente, faldón de largo correspondiente y espigas en la parte posterior con tres botones; cerrada al frente por dos hileras de cinco botones, los dos últimos a 30 mm abajo de la cintura, para sujetar la fajilla llevará una trabilla a la altura del talle en el costado izquierdo, en los hombros llevará charreteras; camisa blanca de manga larga y corbata negra; camiseta blanca cuello redondo; para el personal masculino, pantalón blanco recto sin valencianas, cubriendo el empeine, en cada costado una bolsa y dos posteriores; para el personal femenino, pantalón blanco y cintura de corte femenino, con dos bolsas secretas al frente y sin valencianas; los galones dorados de la jerarquía con los distintivos de cuerpo o servicio a la altura de las bocamangas; cinturón blanco con hebilla; calcetines y zapatos blancos; gorra blanca o tocado; guantes blancos, y fajilla, sable, fiador y condecoraciones cuando se encuentran encuadrados o cuando se ordene.
+Para resolver los conflictos que se presenten en las relaciones laborales entre los Poderes Públicos del Estado y los Municipios, tribunales administrativos, organismos descentralizados, fideicomisos de carácter municipal y los órganos autónomos que sus leyes de creación así lo determinen y sus respectivas personas servidoras públicas, y entre la Administración Pública del Estado y Municipios y los particulares, existirán un Tribunal Estatal de Conciliación y Arbitraje y un Tribunal de Justicia Administrativa.
 
 ###### Artículo 42.
 
-El uniforme número seis de servicio de etiqueta del personal masculino y femenino, está conformado para almirantes, capitanes y oficiales por frac negro, el largo de los delanteros será hasta cubrir la pretina o falda, los faldones traseros hasta cubrir las corvas, al frente llevará dos hileras de tres botones en diagonal; los faldones llevarán tres botones a cada lado; pantalón negro sin valencianas y con una bolsa trasera del lado derecho; o falda de largo hasta la altura de los tobillos; a lo largo de los costados llevará cosida una franja de galón dorado, labrada con un águila y ancla para almirantes; lisa para capitanes y oficiales; camisa blanca de etiqueta, puños dobles para mancuernillas y cuello de paloma; camiseta blanca cuello redondo; las jerarquías, divisas y distintivos de cuerpo o servicio irán colocados en las bocamangas; corbata de moño en satín o raso blanco; chaleco blanco, cerrado al frente por tres botones; guantes blancos de cabritilla, calcetines negros y zapatos de charol negro o medias negras, zapatillas y bolsa de mano de charol negro para el personal femenino, y gorra blanca o tocado.
+Los Tribunales Administrativos gozarán de plena autonomía jurisdiccional en la emisión de sus respectivas resoluciones.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 43.
 
-El uniforme número siete de servicio de etiqueta del personal masculino y femenino, está conformado para almirantes, capitanes y oficiales por chaquetín que será la chupa blanca de largo hasta cubrir la pretina del pantalón o falda; al frente dos hileras de tres botones en diagonal; abotonado al frente con unas mancuernillas confeccionadas con dos botones; las bocamangas en las costuras posteriores irán abiertas sin botones; pantalón o falda de las mismas características de los utilizados en el uniforme número seis; camisa blanca de manga larga de pechera plisada y puños dobles para mancuernillas: palas; corbata de moño negro y faja negra; camiseta blanca cuello redondo; guantes blancos de cabritilla blancos, calcetines y zapatos negros de charol, o medias negras, zapatillas y bolsa de mano de charol negro para el personal femenino, y gorra blanca o tocado; y para el personal de clases y marinería que integran la Banda Sinfónica de Marina será el mismo con la excepción de que el pantalón o la falda llevarán una franja de seda negra en el costado.
+Para el ejercicio de sus funciones, estos Tribunales contarán con el apoyo administrativo del Poder Ejecutivo del Estado.
 
 ###### Artículo 44.
 
-El uniforme número ocho de servicio de etiqueta del personal masculino y femenino, está conformado para almirantes, capitanes y oficiales por saco negro de corte recto semientallado o chaquetín femenino, con vista de seda negra, lisa y opaca; bolsas con cartera negra en los costados en el masculino; al frente doble hilera de cuatro botones en diagonal y para el femenino hilera de tres botones; ambos se abotonarán con mancuernillas confeccionadas con los botones; pantalón o falda con las mismas características de los utilizados en el uniforme número seis; camisa blanca de manga larga con pechera plisada y puños dobles para mancuernillas; corbata de moño negra y faja negra; camiseta blanca cuello redondo; guantes blancos de cabritilla, calcetines o medias y zapatos o zapatillas negras de charol, y gorra blanca o tocado; y para el personal de clases y marinería que integran la Banda Sinfónica de Marina será el mismo con la excepción de que el pantalón o la falda llevarán una franja de seda negra en el costado.
+La Organización, Integración y Atribuciones de los Tribunales Administrativos, se regirá por la Legislación correspondiente.
 
-### CAPÍTULO IV. Prendas complementarias
+### CAPITULO QUINTO. De los Organismos Auxiliares del Poder Ejecutivo
 
-###### Artículo 91.
-
-Las prendas complementarias para el personal naval son las siguientes:
-
-I.- Pelerina;
-
-II.- Abrigo;
-
-III.- Suéter para enfermeras;
-
-IV.- Pelerina para enfermeras;
-
-V.- Suéter;
-
-VI.- Chaquetón;
-
-VII.- Chamarra rompevientos;
-
-VIII.- Chamarra negra;
-
-IX.- Chamarra blanca;
-
-X.- Chamarra azul marino;
-
-XI.- Chamarra de Infantería de Marina;
-
-XII.- Chamarra de camuflaje;
-
-XIII.- Gabardina;
-
-XIV.- Impermeable;
-
-XV.- Ropa de agua color gris;
-
-XVI.- Manga para operaciones de apoyo a la población civil en casos y zonas de desastre;
-
-XVII.- Ropa de agua color amarillo;
-
-XVIII.- Manga para Infantería de Marina;
-
-XIX.- Bata de trabajo;
-
-XX.- Ropa de deportes, y
-
-XXI.- Chaleco de servicio ordinario, para operaciones de apoyo a la población civil en casos y zonas de desastre.
-
-La descripción de las prendas anteriores será conforme a lo establecido en los artículos 92 al 109 siguientes.
-
-###### Artículo 92.
-
-Pelerina de servicio de etiqueta del personal masculino y femenino, será en tela de color negro, vuelo amplio y largo hasta la mitad de la pierna, con medios forros negros lisos; cuello volteado y ancho para poder cubrir las orejas, se cerrará al frente con broche y cinco botones, llevarán dos tirantes largos para sujetar al cuerpo y en las puntas del cuello lleva los distintivos siguientes para:
-
-I.- Almirantes: bordados en hilo de plata o metal plateado simulando el bordado, el águila de las divisas con las estrellas que correspondan colocadas en línea paralela sobre el cuello, iguales a las usadas en las divisas de las palas, y
-
-II.- Capitanes y oficiales: bordadas en hilo de oro o metal dorado, dos anclas tipo almirantazgo cruzadas e inscritas en un círculo imaginario de 45 mm de diámetro, para el personal de capitanes; con una sola ancla para el personal de oficiales; para el personal femenino serán las mismas especificaciones abotonándose de derecha a izquierda.
-
-Esta pelerina debe portarse con los uniformes números cuatro, cinco, siete y ocho.
-
-###### Artículo 93.
-
-El abrigo de servicio formal del personal masculino y femenino, para almirantes, capitanes, oficiales, cadetes y alumnos será confeccionado en tela de paño de color negro, cruzado, cuello convertible y solapa ancha, largo hasta media pierna, trabillas para palas, para el personal masculino se abotonará el lado derecho y para el femenino el lado izquierdo, con dos hileras de botones de pasta negra, en los faldones delanteros a partir de la cintura llevará dos bolsas encontradas en forma diagonal con aletillas, en la parte inferior trasera llevará una abertura tipo pliegue a 10 cm abajo del cinturón hasta la parte inferior de la costura, en la parte posterior llevará un cinturón con dos botones. El personal de cadetes portará las insignias de grado en las mangas a partir del codo hacia el interior de los brazos.
-
-###### Artículo 94.
-
-El suéter de servicio interior del personal femenino de enfermería, para almirantes, capitanes, oficiales, clases y marinería será confeccionado en hilo de estambre de color negro, abierto, de manga larga, escote con terminación en “V”, cierra al frente con cinco botones negros, parches en hombro y codos, hombreras que se sujetarán con velcro (contactel) para portar manguitos. El personal de clases y marinería portará palas.
-
-###### Artículo 95.
-
-La pelerina de servicio interior del personal femenino de enfermería, de uso con el uniforme especial número diecisiete, para almirantes, capitanes, oficiales, clases y marinería será confeccionado en tela de paño de color negro, de vuelo amplio y largo hasta seis cm abajo de las rodillas, con medios forros negros lisos; cerrada al frente con un broche metálico en el cuello quedando oculto; con dos aberturas diagonales en los delanteros simulando bolsas, y en las puntas del cuello lleva las divisas correspondientes indicadas en el artículo 92, para clases y marinería las divisas escuadras y rombo irán bordadas.
-
-###### Artículo 96.
-
-El suéter de servicio interior del personal masculino y femenino, para almirantes, capitanes, oficiales, clases y marinería será confeccionado en hilo de estambre de color negro, manga larga, cuello alto, con parches en los hombros y en los codos, con bolsas en la parte exterior del antebrazo izquierdo, cierre de cremallera situado a la altura del pecho y hombreras para portar palas.
-
-###### Artículo 97.
-
-El chaquetón de servicio ordinario del personal masculino y femenino, para almirantes, capitanes, oficiales, cadetes, alumnos, clases y marinería, se porta con los uniformes uno “A”, dos “A” y tres “A”, será confeccionado en tela de paño de color negro, largo hasta la mitad del muslo, cruzado, solapas anchas y cuello convertible para poder cerrarse completamente sobre la garganta, a partir de la cintura llevarán dos bolsas encontradas en forma diagonal con aletillas y en la espalda, a la altura de la cintura, cosido en cada costado, un medio cinturón de 55 mm de ancho, fijado con botones, y hombreras para las palas. Para el personal masculino se abotonará del lado derecho y para el femenino del lado izquierdo, con dos hileras de cuatro botones de pasta negra y dos botones para abotonar la solapa.
-
-###### Artículo 98.
-
-La chamarra rompevientos de servicio ordinario del personal embarcado, en interior de los establecimientos y unidades, para almirantes, capitanes, oficiales, cadetes, alumnos, clases y marinería será en tela de color azul marino, cuello deportivo, cierra al frente con cremallera y jareta; dos bolsas diagonales en los delanteros y escudo de la Armada de México impreso al costado izquierdo del pecho, y gorro tejido negro, birrete o gorra.
-
-###### Artículo 99.
-
-La chamarra de servicio ordinario del personal masculino y femenino, está conformada para:
-
-I.- Almirantes, capitanes y oficiales: en tela de color negro o blanco, de largo hasta cubrir la pretina del pantalón, cierra al frente con cremallera oculta; forrada del color de la chamarra; dos bolsas diagonales en la parte delantera inferior y hombreras para manguitos y chaleco desmontable, y
-
-II.- Clases y marinería: en tela de color azul marino, de largo hasta cubrir la pretina del pantalón, cierra al frente con cremallera oculta; dos bolsas diagonales en la parte delantera inferior y hombreras, y chaleco desmontable.
-
-###### Artículo 100.
-
-La chamarra de servicio ordinario del personal de Infantería de Marina, para almirantes, capitanes, oficiales, clases y marinería será en tela de color gris jaspeado o camuflaje; largo hasta cubrir medio muslo, cierra al frente con cremallera oculta; forro gris o verde camuflaje; dos bolsas de parche con cartera en terminación “V” a la altura del pecho y dos delanteras inferiores; hombreras para manguitos, y chaleco desmontable.
-
-###### Artículo 101.
-
-La gabardina de servicio formal del personal masculino y femenino, para almirantes, capitanes, oficiales será en tela de color negro, cuello convertible, solapas anchas, largo hasta cubrir las rodillas, cruzada y cerrada frontal con dos hileras de cuatro botones; dos bolsas en los delanteros; en las bocamangas un correón abotonado por un botón, hombreras, y a la altura de la cintura llevará un cinturón con hebilla rectangular negra.
-
-###### Artículo 102.
-
-El impermeable de servicio formal del personal masculino y femenino, para almirantes, capitanes, oficiales, cadetes, alumnos, clases y marinería será en tela de color negro, cuello convertible y solapas anchas, largo hasta la rodilla, cruzado y cerrado frontal por el costado derecho con dos hileras de tres botones; dos bolsas en los delanteros; en las bocamangas un correón abotonado por un botón, hombreras, y a la altura de la cintura llevará un cinturón con hebilla rectangular negra.
-
-###### Artículo 103.
-
-La ropa de agua del personal embarcado en las unidades de superficie de la Armada de México, para almirantes, capitanes, oficiales, clases y marinería será en tela impermeable de color gris, con cuello fijo, cerrará al frente con cuatro botones ocultos; pantalón y sueste del mismo material y color, y botas de hule negras.
-
-###### Artículo 104.
-
-La manga del personal en acciones de apoyo a la población civil en casos y zonas de desastre, para almirantes, capitanes, oficiales, cadetes, alumnos, clases y marinería será en tela de color negro, convertible en casa de campaña, con seis ojillos inoxidables, cuello doble sobrepuesto; incluyendo sueste y botas de hule del mismo color.
-
-###### Artículo 105.
-
-La ropa de agua del personal en las diferentes unidades y establecimientos en tierra de la Armada de México, está conformada para almirantes, capitanes, oficiales, cadetes, alumnos, clases y marinería por chamarra impermeable de color amarillo con cuello fijo; cerrará al frente con broches ocultos; pantalón y sueste del mismo material y color, y botas de hule negras.
-
-###### Artículo 106.
-
-La manga del personal de Infantería de Marina, para almirantes, capitanes, oficiales, clases y marinería será en tela de color negro, con capucha, para utilizarse con el uniforme número tres de Infantería de Marina y de camuflaje.
-
-###### Artículo 107.
-
-La bata de trabajo de uso ordinario del personal masculino y femenino, para almirantes, capitanes, oficiales, clases y marinería será en tela de color azul marino con hombreras, manga larga y largo hasta arriba de las rodillas, abertura en la parte posterior y laterales, para dar acceso a las bolsas del pantalón; cuello volteado y solapa a escuadra, abotonada al frente con tres botones azules, en la parte posterior medio cinturón a la altura de la cintura para ajustar la bata; tres bolsas de parche, una del lado izquierdo del pecho y dos en los delanteros inferiores, y de acuerdo a la actividad que desempeñen se portarán o no las divisas.
-
-###### Artículo 108.
-
-La ropa de deportes de uso ordinario del personal masculino y femenino, está conformada para almirantes, capitanes, oficiales, cadetes, alumnos, clases y marinería por chamarra afelpada azul marino, con hombros, pecho y espalda en blanco; cuello deportivo, cerrada al frente con un cierre de cremallera oculto; dos bolsas al frente; hacia el pecho del lado izquierdo se portarán el escudo distintivo de la Armada de México; pantalón corto azul marino y franjas laterales blancas o pantalón con una bolsa a cada costado y en diagonal; camiseta blanca con el escudo distintivo grabado en el frente, y tenis y calcetas blancas.
-
-###### Artículo 109.
-
-El chaleco de servicio ordinario del personal masculino y femenino en operaciones de apoyo a la población civil, y en casos y zonas de desastre para almirantes, capitanes, oficiales, clases y marinería será en tela de color azul marino, de 0.60 m de largo y 0.50 m de ancho; con dos cintillas a cada costado para sujetar el cuerpo; con la leyenda “MARINA” a la altura del pecho a 20 mm del escote delantero y en la espalda a 65 mm del escote trasero, con letras en serigrafía blancas de 90 mm de alto y 15 mm de ancho.
+> <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
 
 ### CAPÍTULO I. Del equipo complementario
 
-###### Artículo 110.
-
-El equipo complementario para el personal de almirantes, capitanes, oficiales, cadetes, alumnos, clases y marinería, se clasifica:
-
-I.- Palas;
-
-II.- Manguitos;
-
-III.- Charreteras;
-
-IV.- Presillas;
-
-V.- Sable y espadín;
-
-VI.- Sable de abordaje;
-
-VII.- Pistoleras y fornitura;
-
-VIII.- Fajillas;
-
-IX.- Fiadores;
-
-X.- Hebillas;
-
-XI.- Bolsas de mano, y
-
-XII.- Guantes.
-
-La descripción del equipo señalado en las fracciones anteriores será conforme a lo establecido en los artículos 111 a 127 siguientes.
-
-###### Artículo 111.
-
-Las palas que porte el personal masculino y femenino en los uniformes uno, uno “A”, dos “A”, dos “B”, siete, abrigo y chaquetón, tendrán las siguientes características: alma de material rígido de 1 mm de espesor, 123 mm de largo, 60 mm de ancho en la base y 50 mm en la parte más estrecha, antes del extremo circular llevará un botón del número 18, teniendo además las características siguientes:
-
-I.- Las palas de almirante, vicealmirante y contralmirante podrán ser de dos diferentes tipos de fabricación:
-
-A.- Forradas con galón dorado labrado de águilas y anclas, teniendo a partir de la base bordadas en hilo plateado las diferentes divisas correspondientes y en la parte inferior una tira de tela cosida al extremo con un broche de presión en el extremo libre para su sujeción a la misma pala y
-
-B.- Fabricadas en lámina de oro con grabados a tres relieves, en su base se graba el galón de águilas y anclas con base acanalada mate, en segundo nivel águilas y anclas en oro diluido brillante con base de tumbaga, cobre y acero con baño de oro diluido de 14 quilates, llevando en tercer nivel una, dos, tres o cuatro estrellas de 5 puntas en níquel, plata u oro blanco, según corresponda y un águila sobre dos anclas correspondiente al escudo de la Armada de México, para su sujeción llevará un seguro de dos varillas sujetas en la parte inferior externa con un broche en el extremo libre;
-
-II.- Las palas de capitanes, oficiales, clases y marinería serán de iguales dimensiones que las descritas para almirantes, e irán forradas en tela de color negro, en la parte inferior tendrán cosida en la base ancha una tira de tela, con un broche de presión en el extremo libre para asegurar la pala a las trabillas de la camisa, en la parte exterior a 5 mm de la base se coserá el primer galón de las divisas. El galón para capitanes y oficiales será dorado, para el personal de clases será gris. El personal de marinería únicamente tendrá bordado el cuerpo o servicio al que pertenezca, y
-
-III.- Las palas del personal de cadetes y alumnos serán de las mismas dimensiones mencionadas anteriormente con las características siguientes para:
-
-A.- Cadetes de la Heroica Escuela Naval Militar: forradas con tela negra llevando centrada y en forma longitudinal, un ancla tipo almirantazgo con una rabiza entrelazada en caña, bordada con hilo dorado y al centro de la parte redonda de la pala un botón del número 18;
-
-B.- Cadetes de la Escuela Médico Naval: forradas con tela negra llevando centrada y en forma longitudinal un ancla tipo almirantazgo con una víbora entrelazada en la caña, bordada con hilo dorado y al centro de la parte redonda de la pala un botón del número 18, y
-
-C.- Alumnos de las escuelas técnicas: forradas con tela negra llevando centrada y en forma longitudinal un ancla tipo almirantazgo y al centro de la parte redonda de la pala un botón del número 18.
-
-###### Artículo 112.
-
-Los manguitos serán portados por el personal de almirantes, capitanes y oficiales masculinos y femeninos en los uniformes tres “B”, tres “C”, diez, veintidós y en las chamarras de servicio ordinario negras y blancas, con las características siguientes:
-
-I.- Los manguitos para el personal masculino y femenino de almirantes serán confeccionados en tela negra o en tela blanca y llevarán bordado al centro la divisa correspondiente, y
-
-II.- Los manguitos que porte el personal masculino y femenino de capitanes y oficiales serán confeccionados en tela negra o en tela blanca, llevando bordado al centro el distintivo correspondiente y en la parte exterior a 5 mm de la base se coserá el primer galón de las divisas.
-
-###### Artículo 113.
-
-En los uniformes tres de Infantería de Marina y tres “D”, masculino y femenino, los manguitos serán confeccionados en tela gris obscura, llevando bordado al centro el distintivo correspondiente, en tela gris claro, con las mismas dimensiones y características de los descritos en el artículo 112.
-
-###### Artículo 114.
-
-Las charreteras constan de pala y concha, la pala será de 95 mm de largo por 65 mm de ancho y la concha dentro de una elipse imaginaria de 80 mm de eje menor por 130 mm de eje mayor; por la parte inferior estará forrada en tela negra, donde se sujetará una combinación de bisagra para fijarlas; teniendo las características siguientes para:
-
-I.- Almirantes: el forro superior de la pala será de galón dorado labrado en águila y anclas; llevará en mate plateado imitando ser bordados en hilo de plata, el escudo de la Armada de México inscrito en un óvalo de 45 mm por 40 mm, colocado al centro de la concha y las estrellas inscritas en un círculo imaginario según corresponda una, dos, tres o cuatro; la concha llevará fleco de canelón de oro grueso y sujeto;
-
-II.- Capitanes: el forro superior de la pala será de galón dorado lizo; en la parte media de la concha llevará bordadas en hilo de canutillo o en metal plateado imitando el bordado, dos anclas cruzadas tipo almirantazgo con rabiza entrelazada, inscritas en un círculo imaginario de 45 mm, la concha llevará un fleco de canelón de oro grueso y sujeto, y
-
-III.- Oficiales: el forro superior de la pala será de galón dorado lizo; en la parte media de la concha llevará bordadas en hilo de canutillo o en metal plateado imitando el bordado, un ancla tipo almirantazgo con rabiza entrelazada, inscritas en un círculo imaginario de 45 mm la concha tendrá fleco de canelón de oro delgado y suelto.
-
-###### Artículo 115.
-
-Las presillas para el personal de almirantes, capitanes, oficiales, cadetes y alumnos serán elaboradas en tela negra, tendrán 1 mm de espesor, 105 mm de largo y 45 de ancho, cada presilla llevará el ribete en el color que corresponda a cada una de las escuelas de formación de oficiales de la Armada de México, siguientes:
-
-I.- Heroica Escuela Naval Militar, color negro;
-
-II.- Escuela Médico Naval y Escuela de Enfermería Naval, amarillo;
-
-III.- Escuela de Intendencia Naval, café claro;
-
-IV.- Escuela de Mecánica de Aviación, violeta;
-
-V.- Escuela de Maquinaria Naval, azul;
-
-VI.- Escuela de Electrónica, ocre, y
-
-VII.- Escuela de Infantería de Marina, rojo.
-
-Al centro llevarán un rectángulo negro de tela que tendrá 85 mm de largo por 25 mm de ancho, mismo que tendrá dos recuadros bordados alrededor en hilo dorado, el interior de 2 mm y el exterior de 5 mm de ancho con una separación entre éstos de 1 mm.
-
-###### Artículo 116.
-
-El sable para el personal de almirantes, capitanes y oficiales masculino y femenino, será de tres medidas de acuerdo a la estatura del personal: de 760 mm para el personal de 1.52 a 1.59 mts; de 858 mm para el personal de 1.60 a 1.69 mts, y de 935 mm de longitud para el personal de 1.70 mts en adelante; los que tendrán las características siguientes:
-
-I.- Guarnición o montura que consta de:
-
-A.- Tornillo roscado en la espiga para afirmar la empuñadura;
-
-B.- Pomo en forma de águila con tres hileras de plumas rematadas con la cabeza del águila;
-
-C.- Empuñadura en piel color blanco, sujeto con alambre tipo triple trenzado dorado;
-
-D.- Anillo adornado con hojas de encino colocado en la parte inferior de la empuñadura, y
-
-E.- Taza con la aleta del seguro, la uña y en resalte en el exterior y por debajo del cubre mano de la taza el escudo de la Armada de México. El personal de almirantes usará la media taza calada y el personal de capitanes y oficiales la media taza maciza;
-
-II.- Hoja ligeramente curva, con filo y lomo redondeado, y
-
-III.- Vaina para protección del arma de cuero pintado de negro reforzada con tres guarniciones de latón.
-
-###### Artículo 117.
-
-El espadín para cadete será de hoja recta de acero templado, terminando en la parte superior en una espiga con rosca con la que se une la empuñadura que estará compuesta por un tornillo que va roscado a la espiga y que sirve para afirmar la empuñadura. La vaina para protección del arma será de cuero pintado de negro reforzada con dos guarniciones de latón.
-
-###### Artículo 118.
-
-El sable de abordaje es un arma blanca tipo alfanje, esto es un tipo de espada o sable ancho, corto y algo curvo, con filo solamente por un lado y cuya fabricación es similar a la del sable de mando, su longitud es de 736 mm y se compone de: tornillo, empuñadura, taza con cubre mano, hoja, de 728 mm de longitud, de acero, con un grabado en la parte superior que dice “ARMADA DE MÉXICO”, vaina de cuero con dos guarniciones de latón, la inferior terminada en una pequeña esfera y la superior que tiene un tetón con una uña para encastrarse en el tahalí, para portar el sable.
-
-El porta sable de abordaje consiste en una tira de cuero blanca de 100 mm de ancho y longitud adecuada para que se ciña al cuerpo en forma diagonal del hombro derecho al costado izquierdo y con una prolongación en este extremo con un ojo para encastrar la uña del tetón.
-
-###### Artículo 119.
-
-Las pistoleras para los diferentes servicios de armas del personal de almirantes, capitanes y oficiales serán de color blanco o negro, de acuerdo con el uniforme que se porte.
-
-Se utilizarán durante las horas de servicio, servicios de guardia en prevención, escoltas y vigilancia. Estarán constituidas por funda y porta cargador con capacidad para dos cargadores.
-
-###### Artículo 120.
-
-Las fornituras para las escuelas en los diferentes servicios de armas tendrán las características siguientes:
-
-I.- De gala para el personal de cadetes y alumnos, en cuero negro, con una hebilla reglamentaria al frente, ajustable de acuerdo a la talla por medio de herrajes, con tahalí corredizo para portar el marrazo, en la parte posterior llevará una cartuchera del mismo material con tapa que llevará sobrepuesto el escudo de la Armada de México;
-
-II.- De faenas para el personal de cadetes y alumnos, será de las mismas características descritas para la fornitura de gala, sin escudo en la cartuchera, y
-
-III.- Las fornituras para el personal de clases y marinería en los diferentes servicios de armas serán en color blanco o negro, de acuerdo con el uniforme, el armamento y servicio a desempeñar.
-
-###### Artículo 121.
-
-Las fajillas para el personal serán de las características siguientes:
-
-I.- La fajilla para el personal de almirantes llevará en toda la longitud y en los extremos del cinturón y los correones cintas bordadas en hilo dorado, y al centro una rama de laurel, la hebilla estará integrada por dos piezas metálicas que se entrelazan, cada una con la entrada para sujetar los extremos de la fajilla, la pieza izquierda será un anillo que en relieve llevará una corona de laurel, la pieza derecha será la contra de sujeción que estará integrada por una circunferencia que lleva en relieve el escudo de la Armada de México;
-
-II.- La fajilla para el personal de capitanes llevará bordada tres cintas de hilo dorado en toda la longitud del cinturón y en los correones; la hebilla será la misma que para los almirantes;
-
-III.- La fajilla para personal de oficiales llevará cosidas dos cintillas de hilo dorado en toda la longitud del cinturón y en los correones; la hebilla será la misma que para los almirantes;
-
-IV.- La fajilla para el personal en instrucción militar será negra y sin bordados, y
-
-V.- La fajilla para personal de cadetes y alumnos, será de las mismas características que las descritas para el personal de almirantes, capitanes y oficiales; con las modificaciones siguientes: confeccionada en cuero charolado negro, sin bordado; la hebilla será la misma que para los almirantes.
-
-###### Artículo 122.
-
-El fiador se utilizará para asegurar el sable de mando a la mano en caso de que éste se soltara por alguna razón, se usará también para colocar los guantes, y tendrá las características siguientes para el personal de:
-
-I.- Almirantes: confeccionado en cordón de hilo de oro, formando una gasa, rematando sus extremos en una borla en forma de piña, confeccionada en canelón de oro grueso, sujeto en el cordón llevará dos barriletes corredizos;
-
-II.- Capitanes: confeccionado en cordón de hilo de oro, formando una gasa, rematando sus extremos en una borla en forma de piña, confeccionada en canelón de oro delgado, sujeto en el cordón llevará dos barriletes corredizos;
-
-III.- Oficiales: confeccionado con un cordón colchado con hilos de seda oro y azul marino, formando una gasa, rematando sus extremos en una borla en forma de piña, confeccionada en series de cordones verticales delgados dorados y azul marino, alternando las series, y dos barriletes del mismo material, y
-
-IV.- Cadetes y alumnos: confeccionado con un cordón colchado con hilos de seda oro y azul marino formando una gasa, rematando sus extremos en una borla tejida y dos barriletes del mismo material.
-
-###### Artículo 123.
-
-Las hebillas reglamentarias para el personal de almirantes, capitanes, oficiales, clases y marinería; masculino y femenino, tendrán las características siguientes, para el personal de:
-
-I.- Almirantes: dos piezas metálicas con baño de oro diluido, que se entrelazan, cada una con entrada para sujetar los extremos del cinturón. La pieza izquierda será un anillo, llevando en su parte inferior en relieve cuatro hojas de laurel y cuatro de encino, y en su parte superior, cuatro, tres, dos o una estrella de cinco picos, la pieza derecha será la contra de sujeción que estará integrada por un círculo con el escudo de la Armada de México en relieve;
-
-II.- Capitanes: será de las mismas características que las de almirantes, pero sin estrellas;
-
-III.- Oficiales: la pieza exterior de la hebilla estará formada por un cabo marino de 8 mm de ancho, la interior será similar a la correspondiente de almirantes y capitanes, y
-
-IV.- Clases y marinería: de latón dorado, rectangular y llevará sobrepuesto y centrado, en relieve un cabo marino en una circunferencia de 35 mm de diámetro y en el centro el escudo de la Armada de México.
-
-###### Artículo 124.
-
-Las hebillas usadas con el uniforme tres y tres “D”, serán confeccionadas en plástico color negro, con las mismas características descritas para las hebillas metálicas de oficiales.
-
-###### Artículo 125.
-
-La bolsa del personal femenino para almirantes, capitanes, oficiales, clases y marinería tendrá las características siguientes:
-
-I.- Será confeccionada en piel negra, en el interior llevarán un compartimiento abierto y uno con cierre de cremallera, la tapa asegurará con un broche metálico dorado; llevará herrajes metálicos fijos en los costados, en los que irá sujeta una correa ajustable; en el lado inferior derecho de la bolsa llevará termo grabado sin color el escudo de la Armada de México, y
-
-II.- La bolsa blanca tendrá las mismas características de la bolsa negra y será de uso exclusivo del personal de almirantes, capitanes y oficiales.
-
-###### Artículo 126.
-
-La bolsa de mano para eventos especiales, en los uniformes de etiqueta números seis, siete y ocho, del personal femenino de almirantes, capitanes y oficiales; será de piel acharolada negra de 200 mm de largo, 120 mm de alto por 40 mm de ancho; en el interior llevará un compartimiento con cierre de cremallera; la tapa se asegurará con un broche metálico de color dorado y éste llevará termo grabado sin color, en el lado inferior derecho el escudo distintivo de la Armada de México.
-
-###### Artículo 127.
-
-Los guantes de los diferentes uniformes se usarán calados cuando el personal se encuentre con el sable o espadín desenvainado o cuando se ordene, serán tejidos con tres pespuntes en el dorso de la mano, y serán usados de la forma siguiente:
-
-I.- Blancos de hilo de algodón: por el personal de almirantes, capitanes, oficiales, cadetes, clases y marinería encuadrados en servicios de armas y ceremonias. Asimismo el personal de clases y marinería los portará en la bolsa de la chamarra de los uniformes número uno y dos;
-
-II.- Blancos de piel de cabritilla: por el personal de almirantes, capitanes y oficiales con los uniformes números uno, seis, siete y ocho;
-
-III.- Grises de piel de cabritilla: por el personal de almirantes, capitanes y oficiales con el uniforme número dos, y
-
-IV.- Azul rey en tela NOMEX III ARAMID y gris claro de piel de cabritilla: por el personal de pilotos de las unidades aeronavales portando el uniforme número diez.
-
 ### CAPÍTULO II. De los tocados
-
-###### Artículo 128.
-
-El personal de almirantes, capitanes y oficiales masculinos usará:
-
-I.- Gorra blanca;
-
-II.- Gorra de servicio gris con escudo gris o dorado;
-
-III.- Sombrero australiano gris o de camuflaje;
-
-IV.- Casco con funda gris o de camuflaje;
-
-V.- Boina negra, y
-
-VI.- Sombrero de cuartel.
-
-###### Artículo 129.
-
-El personal de almirantes, capitanes y oficiales femenino usará:
-
-I.- Tocado blanco;
-
-II.- Gorra de servicio gris con escudo gris o dorado;
-
-III.- Cofia, y
-
-IV.- Casco con funda gris o de camuflaje.
-
-###### Artículo 130.
-
-El personal de cadetes y alumnos masculino usará:
-
-I.- Gorra blanca de gala;
-
-II.- Gorra blanca de faena;
-
-III.- Birrete con vivo azul;
-
-IV.- Gorra de servicio negra del Buque Escuela Cuauhtémoc, y
-
-V.- Casco con funda gris o de camuflaje.
-
-###### Artículo 131.
-
-El personal de cadetes y alumnas femenino usará:
-
-I.- Tocado blanco de gala;
-
-II.- Tocado blanco de faena;
-
-III.- Birrete con vivo azul;
-
-IV.- Cofia, y
-
-V.- Casco con funda gris o de camuflaje.
-
-###### Artículo 132.
-
-El personal de clases y marinería masculino usará los siguientes tocados:
-
-I.- Birrete blanco;
-
-II.- Sombrero de cuartel gris o de mezclilla;
-
-III.- Sombrero australiano gris o de camuflaje;
-
-IV.- Casco con funda gris o de camuflaje;
-
-V.- Boina negra, y
-
-VI.- Gorra de servicio negra del Buque Escuela Cuauhtémoc.
-
-###### Artículo 133.
-
-El personal de clases y marinería femenino usará:
-
-I.- Tocado blanco;
-
-II.- Cofia, y
-
-III.- Casco con funda gris o de camuflaje.
-
-La descripción de los tocados señalados en los artículos 128 a 132 y en este artículo será conforme a lo establecido en los artículos 134 a 150 siguientes.
-
-###### Artículo 134.
-
-La gorra blanca para el personal masculino de almirantes, capitanes y oficiales estará formada por visera negra, carrillera, resplandor con escudo, luto de seda negra, funda blanca desmontable, armazón con aro de plástico, pechera, badana y dos botones roscados, y tendrán las características siguientes:
-
-I.- Los almirantes llevarán la visera de material rígido forrada en tela negra y bordadas en hilo dorado dos ramas de laurel encontradas de tres hojas cada una en la parte posterior y de cuatro hojas en la parte anterior;
-
-II.- Los capitanes llevarán la visera forrada en tela negra y bordadas en hilo dorado dos ramas de laurel encontradas de tres hojas cada una;
-
-III.- El escudo para la gorra de almirantes, capitanes y oficiales será bordado en hilo sobre tela negra y llevará el águila del escudo nacional en color dorado posada sobre dos anclas cruzadas color plateado y orladas por la parte inferior con dos ramas de laurel, y la víbora del escudo será en color plateado, y
-
-IV.- Los almirantes, capitanes y oficiales usarán carrillera de galón dorado de cinco hilos, afirmándose cada extremo a la gorra con un botón dorado.
-
-###### Artículo 135.
-
-El tocado para el personal femenino de almirantes, capitanes y oficiales estará formado con casco, luto de seda negra, resplandor con escudo, alas y funda blanca desmontable y dos botones roscados, y tendrá las características siguientes:
-
-I.- El tocado para almirantes llevará al frente, bordadas con hilo de oro sobre tela negra, dos ramas de laurel encontradas de tres hojas cada una en la parte posterior y de cuatro hojas en la parte anterior;
-
-II.- Los capitanes llevarán al frente, bordadas en hilo de oro sobre tela negra, dos ramas de laurel encontradas de tres hojas cada una;
-
-III.- Para el personal de oficiales sin bordado, y
-
-IV.- El escudo del tocado de almirantes, capitanes y oficiales será confeccionado con las mismas características que las descritas en el artículo 134, fracción III.
-
-###### Artículo 136.
-
-La gorra de servicio del personal masculino y femenino para almirantes, capitanes y oficiales está hecha en tela gris jaspeado, visera semirrígida, al frente llevará el bordado correspondiente a la jerarquía del militar y el escudo descrito en el artículo 134, fracción III, en hilo gris cuando se use en áreas de conflicto o hilo dorado cuando se utilice en el interior de las unidades y establecimientos navales.
-
-###### Artículo 137.
-
-La gorra del personal masculino para cadetes y alumnos estará constituida con visera, carrillera, resplandor con escudo, luto en elástico negro, funda blanca desmontable, armazón con aro de plástico, pechera, badana y dos botones roscados, y tendrá las características siguientes:
-
-I.- El personal usará la carrillera de plástico negro, afirmándose cada extremo a la gorra con un botón dorado, según correspondan;
-
-II.- El escudo de la gorra de gala será confeccionado con las mismas características que las descritas en el artículo 134, fracción III, y
-
-III.- El escudo de la gorra de faenas del personal de cadetes de la Heroica Escuela Naval Militar llevará bordada, en hilo de seda dorado, un ancla tipo almirantazgo con rabiza entrelazada. Para el personal de cadetes de la Escuela Médico Naval ésta se substituirá con una serpiente. Para el personal de alumnos de las escuelas de formación de oficiales será únicamente el ancla tipo almirantazgo.
-
-###### Artículo 138.
-
-El tocado del personal femenino para cadetes y alumnas estará formado con casco, luto o cincho, resplandor con escudo, alas y funda blanca desmontable y dos botones roscados, y tendrá las características siguientes:
-
-I.- El escudo de la gorra de gala será confeccionado con las mismas características que las descritas en el artículo 134, fracción III;
-
-II.- El escudo de la gorra de faenas de las cadetes de la Escuela Médico Naval llevará bordada, en hilo de seda dorado, un ancla tipo almirantazgo con una serpiente entrelazada;
-
-III.- El escudo de la gorra de faenas para el personal de alumnas de las escuelas de formación de oficiales será únicamente el ancla tipo almirantazgo, y
-
-IV.- El personal usará la carrillera de plástico negro, afirmándose cada extremo a la gorra con un botón dorado roscado.
-
-###### Artículo 139.
-
-El personal de cadetes masculino a bordo del Buque Escuela Cuauhtémoc usará una gorra de servicio negra que llevará bordada, en hilo de seda dorado, un ancla tipo almirantazgo con rabiza entrelazada y sobre ésta llevará la leyenda “HEROICA ESCUELA NAVAL MILITAR” en un semicírculo.
-
-###### Artículo 140.
-
-El personal de cadetes y alumnos, masculino y femenino, en curso de inducción utilizará un birrete blanco con vivo azul marino.
-
-###### Artículo 141.
-
-El tocado del personal femenino para clases y marinería, constará de casco, luto o cincho, resplandor con escudo, alas y funda blanca desmontable; el escudo será el descrito en el artículo 134, pero sin la orla de las ramas de laurel y dos botones roscados.
-
-###### Artículo 142.
-
-El personal masculino de clases y marinería usará el birrete marinero color blanco.
-
-###### Artículo 143.
-
-La boina negra de gala será de uso exclusivo para el personal del batallón de fusileros paracaidistas, negro, de una sola pieza, reforzada con bies de popotillo, mismo que servirá como jareta, teniendo en su interior una cinta negra, al frente llevará un cuadro de fieltro rojo y sobrepuesto a éste el distintivo de paracaidista dorado.
-
-###### Artículo 144.
-
-El sombrero australiano gris será para el uso del personal masculino de almirantes, capitanes, oficiales, clases y marinería de Infantería de Marina, de servicio ordinario para uso con el uniforme número tres de Infantería de Marina gris jaspeado.
-
-###### Artículo 145.
-
-El sombrero australiano de camuflaje, del personal masculino para almirantes, clases y marinería de Infantería de Marina, será de servicio ordinario, con el uniforme número tres de camuflaje.
-
-###### Artículo 146.
-
-El sombrero de cuartel gris, del personal masculino para almirantes, capitanes, oficiales, clases y marinería de Infantería de Marina, será de uso interno, con el uniforme número tres.
-
-###### Artículo 147.
-
-El sombrero de cuartel de mezclilla, del personal masculino para clases y marinería, será de uso interno, con el uniforme número tres “C”.
-
-###### Artículo 148.
-
-Los cascos para uso del personal en los diferentes servicios y operaciones contarán con badana, tiras de suspensión ajustables y seguro, y serán los siguientes:
-
-I.- Casco con funda gris: para personal de Infantería de Marina, de uso ordinario, con el uniforme número tres y para todo el personal cuando se ordene, y
-
-II.- Casco con funda de camuflaje: para el personal en operaciones de campaña, con el uniforme de camuflaje.
-
-###### Artículo 149.
-
-La gorra de servicio negra del personal de clases y marinería a bordo del Buque Escuela Cuauhtémoc, tendrá las características siguientes para:
-
-I.- Maestranza: el escudo de la gorra llevará bordada, en hilo dorado un águila y en hilo blanco dos anclas tipo almirantazgo entrecruzadas. Sobre el escudo llevará la leyenda “BUQUE ESCUELA CUAUHTÉMOC” en un semicírculo, y
-
-II.- Cabos y marinería: serán las mismas anclas sin el águila. Sobre el escudo llevará la leyenda “BUQUE ESCUELA CUAUHTÉMOC” en un semicírculo.
-
-###### Artículo 150.
-
-La cofia de enfermeras será blanca, con angulación en el borde superior, y con las características siguientes:
-
-I.- La jefa de enfermeras y la directora de la Escuela de Enfermería Naval llevará tres cintas negras, colocadas paralelamente y separadas entre sí;
-
-II.- La supervisora e instructora de la Escuela de Enfermería Naval llevará una cinta negra, colocada paralelamente a la orilla superior de la cofia y dos cintas verticales del mismo color y ancho en ambos lados;
-
-III.- La jefa de piso llevará dos cintas negras, anchas; colocadas paralelamente y separadas en el borde superior de la cofia;
-
-IV.- La enfermera general llevará una cinta negra, ancha; colocada paralelamente a la orilla superior de la cofia;
-
-V.- Las alumnas de la Escuela de Enfermería Naval llevarán una cinta negra, ancha; colocada paralelamente al borde superior de la cofia y una cinta vertical del mismo color y ancho en ambos lados, y
-
-VI.- La auxiliar de enfermería llevará una cofia completamente blanca.
 
 ### CAPÍTULO I. De las divisas
 
-###### Artículo 151.
-
-Las divisas que portará en sus uniformes el personal de la Armada de México para distinguir su jerarquía, serán: para almirantes, estrellas y escudo de la Armada de México en cintas de galón dorado con ancla de almirantazgo; para capitanes y oficiales en cintas de galón dorado y para clases en cinta de popotillo gris claro.
-
-###### Artículo 152.
-
-El personal egresado de la Heroica Escuela Naval Militar que integran el núcleo del Cuerpo General, al igual que el personal cuyo cuerpo de origen sea el de Aeronáutica Naval, Infantería de Marina o Ingeniero Mecánico Naval, llevará en el último galón de las divisas una coca.
-
-###### Artículo 153.
-
-El personal de núcleos y escalas de los diferentes servicios, llevarán en las palas y en los manguitos, centrado entre el botón y el último galón o cinta, el escudo distintivo que les corresponda.
-
-###### Artículo 154.
-
-El personal de Escala del Cuerpo General, así como el de los núcleos y escalas de los servicios, llevarán en las divisas que se portan en las bocamangas de los uniformes, a 5 mm del último galón o cinta, el escudo distintivo que les corresponde.
-
-###### Artículo 155.
-
-El personal de cadetes y alumnos utilizará en el uniforme número tres, nueve y nueve “A”, las divisas en forma de escuadra de galón dorado, con el vértice hacia abajo, colocadas sobre la manga en la parte media del brazo.
-
-###### Artículo 156.
-
-El personal de cadetes y alumnos utilizará las divisas en los uniformes uno, uno “A”, dos, cuatro, cinco, seis, abrigo y chaquetón en forma de cinta dorada de 300 mm de longitud por 13 mm de ancho, colocadas sobre la manga a la altura del antebrazo en forma diagonal, partiendo del codo hacia el frente para unirse a la costura del uniforme a 55 mm de la bocamanga.
-
-###### Artículo 157.
-
-El personal de clases y marinería usará las divisas cocidas a 10 cm de la costura de los hombros de la manera siguiente para:
-
-I.- Clases: en forma de escuadra tejida en hilo gris y fondo negro con el vértice hacia arriba. En el interior de cada escuadra se colocará el escudo distintivo del cuerpo o servicio al que pertenezca, y
-
-II.- Marinería: un rombo bordado con hilo gris con fondo negro, abajo de cada uno llevará el escudo distintivo del cuerpo o servicio al que pertenezca.
-
-###### Artículo 158.
-
-El personal de almirantes, capitanes, oficiales, clases y marinería de los núcleos y escalas de los diferentes servicios utilizarán su escudo distintivo correspondiente de la forma siguiente:
-
-I.- En los uniformes donde porten las divisas en las bocamangas las llevarán a ambos lados, y
-
-II.- En los uniformes donde porten las divisas en las palas los llevarán centrados entre el botón y el último galón.
-
-###### Artículo 159.
-
-El personal de almirantes usará las divisas cosidas alrededor de las mangas a 45 mm de las bocamangas, en los uniformes número dos, tres, cuatro, cinco, seis y ocho, como se describe a continuación:
-
-El Almirante Secretario de Marina usará un galón dorado labrado de 48 mm de ancho y en la parte superior cuatro galones de 13 mm de ancho; los almirantes usarán tres galones, dos los vicealmirantes y uno los contralmirantes, todos separados entre sí 3 mm.
-
-###### Artículo 160.
-
-El personal de almirantes usará las divisas en las palas rígidas y en los manguitos, en los diferentes uniformes como se describe a continuación:
-
-El Almirante Secretario de Marina usará bordado en hilo de seda o de metal color plateado, el escudo de la Armada de México, así mismo cuatro estrellas plateadas los almirantes tres, los vicealmirantes dos y los contralmirantes una estrella, en los manguitos las estrellas irán inscritas en un círculo imaginario.
-
-###### Artículo 161.
-
-El personal de capitanes usará las divisas cosidas alrededor de las mangas a 70 mm de las bocamangas, en los uniformes dos, cuatro, cinco, seis y ocho, como se describe a continuación:
-
-I.- Capitanes de Navío: cuatro galones dorados de 13 mm de ancho separados entre sí 3 mm;
-
-II.- Capitanes de Fragata: tres galones dorados de 13 mm de ancho separados entre sí 3 mm, y
-
-III.- Capitanes de Corbeta: dos galones dorados de 13 mm de ancho y entre éstos uno de 7 mm de ancho, separados entre sí 3 mm.
-
-###### Artículo 162.
-
-El personal de capitanes usará las divisas en las palas rígidas y en los manguitos, en los diferentes uniformes como se describe a continuación:
-
-Usarán galones dorados, colocado el primero a 5 mm de la base, el escudo distintivo irá centrado entre el último galón y el botón en las palas, o entre el último galón y el extremo superior del manguito.
-
-###### Artículo 163.
-
-El personal de oficiales usará las divisas cosidas alrededor de las mangas a 70 mm de las bocamangas, en los uniformes números dos, cuatro, cinco, seis y ocho, como se describe a continuación:
-
-I.- Tenientes de Navío: dos galones dorados de 13 mm de ancho separados entre sí 3 mm;
-
-II.- Tenientes de Fragata: un galón dorado de 13 mm de ancho y uno de 7 mm de ancho separados entre sí 3 mm;
-
-III.- Tenientes de Corbeta: un galón dorado de 13 mm de ancho, y
-
-IV.- Guardiamarinas y Primeros Maestres: un galón dorado de 7 mm de ancho.
-
-###### Artículo 164.
-
-El personal de oficiales usará las divisas en las palas rígidas y en los manguitos, en los diferentes uniformes como a continuación se describe:
-
-Usarán galones dorados, colocando el primero a 5 mm de la base, el escudo distintivo irá centrado entre el último galón y el botón en las palas, o entre el último galón y el extremo superior del manguito.
-
-###### Artículo 165.
-
-El personal de clases usará como divisas escuadras de cinta tejida en hilo gris y fondo negro, con el vértice hacia arriba, de 10 mm de ancho, separadas entre sí 3 mm, cosidas en las mangas a 8 cm abajo de la costura de los hombros, como se describe a continuación:
-
-I.- Segundos Maestres: tres cintas;
-
-II.- Terceros Maestres: dos cintas, y
-
-III.- Cabos: una cinta.
-
-###### Artículo 166.
-
-El personal de marinería utilizará un rombo con ejes de 25 por 18 mm, bordado con hilo gris, en las mangas a 8 cm abajo de la costura de los hombros.
-
-###### Artículo 167.
-
-El personal de clases y marinería usará las divisas en las palas rígidas, en los uniformes número, dos “A” y “B”, suéter, chaquetón y chamarras como se describe a continuación:
-
-Usarán cintas de popotillo gris de 10 mm de ancho, separadas entre sí 3 mm, cosidas a 5 mm de la base; el escudo distintivo irá centrado entre el último galón y el botón en las palas.
-
-###### Artículo 168.
-
-El personal de cadetes y alumnos usará como divisas escuadras de galón dorado, con el vértice hacia abajo, de 13 mm de ancho y 60 mm por cada lado, en los uniformes tres, nueve, nueve “A”, quince y diecisiete.
-
-###### Artículo 169.
-
-El personal de cadetes y alumnos utilizarán las divisas en los uniformes uno; uno “A”, dos, cuatro, cinco, seis, abrigo y chaquetón; en forma de cinta de galón dorado de 300 mm de longitud por 13 mm de ancho, colocada sobre la manga a la altura del antebrazo partiendo del codo hacia el frente para unirse a la costura del uniforme a 55 mm de la bocamanga.
-
-###### Artículo 170.
-
-El personal de cadetes y alumnos usarán las divisas de acuerdo a su jerarquía, de la forma siguiente:
-
-I.- Aspirante de Primera: tres escuadras o tres cintas en cada brazo;
-
-II.- Aspirante de Segunda: dos escuadras o dos cintas en cada brazo;
-
-III.- Cabo: una escuadra o una cinta en cada brazo, y
-
-IV.- Cadete de Primera: una escuadra o una cinta en el brazo izquierdo.
-
 ### CAPÍTULO II. De los escudos distintivos del Cuerpo General y los Servicios
-
-###### Artículo 171.
-
-El personal de los almirantes, capitanes y oficiales de los núcleos y escalas de los diferentes servicios, usarán el escudo distintivo correspondiente de la forma siguiente:
-
-I.- En los uniformes donde porte las divisas en las bocamangas, llevará a 5 mm del último galón el escudo distintivo, en ambas mangas, y
-
-II.- En los uniformes donde porte las divisas en las palas, llevará el escudo centrado entre el botón y el último galón, sobre el eje de la pala; en el caso de los manguitos el escudo irá centrado entre el último galón y el extremo superior del manguito.
-
-###### Artículo 172.
-
-El personal de clases y marinería de las escalas de los diferentes servicios portará el escudo distintivo correspondiente en ambas mangas del uniforme, colocado debajo del ángulo y rombo de la divisa, respectivamente; de la forma siguiente:
-
-I.- En los uniformes donde porte las divisas en los brazos, el ángulo se llevará 8 cm debajo de la costura del hombro, y
-
-II.- En los uniformes donde porte las divisas en las palas, el escudo se portará en la forma especificada en el artículo 171, fracción II.
-
-###### Artículo 173.
-
-El personal de los servicios egresado de la Heroica Escuela Naval Militar, cuyo cuerpo de origen sea el Cuerpo General, usará en la manga izquierda a la mitad del brazo de los uniformes donde se portan las divisas en las bocamangas, el distintivo del servicio al que se incorporaron.
-
-###### Artículo 174.
-
-Los diferentes cuerpos y servicios con sus escalas contarán con los escudos distintivos siguientes:
-
-I.- Servicio de Administración e Intendencia Naval, Escala, Camareros;
-
-II.- Servicio de Docente Naval, Núcleo y Escala, Deportista;
-
-III.- Servicio de Ingenieros Navales, Núcleo, Ingeniero en Aeronáutica;
-
-IV.- Servicio de Comunicaciones Navales, Escala, Comunicaciones Navales;
-
-V.- Servicio de Administración e Intendencia Naval, Intendente y Oficinistas;
-
-VI.- Servicios Especiales;
-
-VII.- Servicio de Trabajo Social, Núcleo y Escala, Trabajo Social;
-
-VIII.- Servicio de Comunicaciones Navales, Núcleo, Comunicaciones Navales;
-
-IX.- Servicio de Electrónica Naval, Escala;
-
-X.- Servicio de Sanidad Naval, Núcleo y Escala, Médicos Cirujanos, Enfermeras, Laboratoristas;
-
-XI.- Servicio Docente Naval, Núcleo y Escala;
-
-XII.- Servicio de Ingenieros, Escala;
-
-XIII.- Cuerpo General, Escala Contramaestre;
-
-XIV.- Servicio de Justicia Naval, Núcleo Licenciado en Derecho y Estudiante de Derecho;
-
-XV.- Servicio de Músicos Navales, Núcleo y Escala;
-
-XVI.- Servicio de Electrónica Naval, Núcleo, Ingenieros en Computación, Electrónica y Ciencias de la Información;
-
-XVII.- Aeronáutica Naval, Núcleo y Escala;
-
-XVIII.- Infantería de Marina, Núcleo y Escala;
-
-XIX.- Servicio de Administración e Intendencia Naval, Núcleo y Escala Comunicación Social;
-
-XX.- Servicio de Ingenieros Navales, Núcleo Ingenieros Navales e Ingenieros Especialistas;
-
-XXI.- Servicio de Ingenieros Navales, Núcleo, Ingenieros Mecánicos;
-
-XXII.- Cuerpo General, Escala Condestable;
-
-XXIII.- Cuerpo General, Escala Máquinas;
-
-XXIV.- Servicio de Trabajos Submarinos;
-
-XXV.- Servicios de Ingenieros Navales, Núcleo, Ingenieros Electricistas, Industrial Electricista y Mecánico Electricista;
-
-XXVI.- Servicios de Ingenieros Navales, Núcleo, Ingenieros Civiles, Municipales y Arquitectos;
-
-XXVII.- Servicios de Ingenieros Navales, Núcleo, Ingenieros Químicos y Químicos Industriales;
-
-XXVIII.- Servicios de Ingenieros Navales, Núcleo, Ingenieros Geógrafos, Hidrógrafos, Oceanógrafos, Geólogos y Topógrafos Geodestas, y
-
-XXIX.- Servicio Ciencias del Medio Ambiente Marino, Núcleo: Biólogos, Biólogos Marinos, Oceanólogos y Ecólogos.
-
-De conformidad con la descripción gráfica del presente Reglamento.
 
 ### CAPÍTULO III. Distintivos de Mando y Operatividad
 
-###### Artículo 175.
-
-El distintivo de mando en unidades operativas se portará en el pecho, por encima de las placas o gafetes distintivos de especialidad o cursos efectuados, en caso de no existir éstas el distintivo de mando ocupará su lugar. Para su uso se observarán las indicaciones siguientes:
-
-I.- Se portará en el lado izquierdo del pecho cuando se esté ejerciendo el Mando, en caso contrario se portará en el lado derecho;
-
-II.- La obtención de un distintivo de mando por determinado tiempo sustituirá el distintivo anterior. Nunca se portará más de un distintivo de mando, y
-
-III.- Cuando se ejerza el mando de una Región, Zona o Fuerza Naval, Comandante del Cuartel General, Flotilla Naval, Escuadrón Aeronaval o Batallón de Infantería de Marina se portará el distintivo respectivo, al dejar de hacerlo se portará el distintivo por el tiempo de mando que le corresponda.
-
-###### Artículo 176.
-
-Los distintivos de operatividad en las unidades de superficie, aéreas y terrestres se portarán en el pecho, en el costado derecho arriba de la bolsa de la camisa del uniforme o el lugar correspondiente cuando éstas no existan. Si existen gafetes de cursos efectuados, el distintivo de “Operatividad” se integrará al conjunto de gafetes, colocándose en primer orden.
-
-###### Artículo 177.
-
-Los distintivos de menciones honoríficas se usarán siempre colocados en último término, integrándose al conjunto de condecoraciones y gafetes distintivos de éstas, en la forma siguiente:
-
-I.- En cada gafete de popotillo de seda de color azul turquesa, hasta tres estrellas de cinco puntas de color dorado, cada una inscrita en un círculo imaginario de 8 mm de diámetro. Si se tiene más de tres menciones honoríficas, se agregarán tantos gafetes como sea necesario en forma horizontal;
-
-II.- El conjunto de condecoraciones, un listón de popotillo de seda de color azul turquesa, en forma vertical de las mismas dimensiones que los listones de las condecoraciones llevando sobrepuestas las estrellas de cinco puntas de color dorado, correspondientes a cada mención honorífica, inscritas cada una en un círculo imaginario de 15 mm de diámetro pudiendo portar hasta cuatro en un mismo listón, y
-
-III.- La presentación del gafete para las unidades será pintado en los mismos colores y características que el gafete normal, siendo las dimensiones de éstos proporcionales a la envergadura de la unidad, debiendo portarlas en la parte exterior de los puentes de mando, en ambos costados, portando horizontalmente hasta tres estrellas por cada representación del gafete, en forma similar a la portación de gafetes por el personal.
-
-###### Artículo 178.
-
-El distintivo de mando en unidades operativas está formado por un sable de mando, dispuesto en forma diagonal de izquierda a derecha, sobrepuesto lleva el escudo de la Armada de México, todo el conjunto en metal, teniendo para los diferentes tiempos de Mando las características siguientes:
-
-I.- Menos de cinco años de mando, todo en color plateado;
-
-II.- De cinco años hasta menos de diez, el sable de color dorado y el escudo plateado;
-
-III.- De diez años hasta menos de quince, todo en color dorado;
-
-IV.- De quince años o más, el mismo que el de diez años con una estrella de cinco puntas de color negro en la parte superior del escudo;
-
-V.- Comandantes de Flotilla Naval, Escuadrón Aeronaval y Batallón de Infantería de Marina: usarán el mismo que para quince años, pero la estrella de color plateado, y
-
-VI.- Comandantes de Región, Zona, Fuerza Naval y Comandante del Cuartel General: usarán el mismo que para quince años, pero todo en color dorado.
-
-###### Artículo 179.
-
-El distintivo de operatividad en unidades de superficie está formado por un gafete de 11 mm de ancho por 32 de largo, de tela de popotillo de seda de color azul rey, llevará sobrepuesto en metal dorado, una Rosa de los Vientos inscrita en un círculo imaginario de 10 mm de diámetro colocada en el extremo derecho del gafete, a continuación llevará centradas estrellas de cinco puntas inscritas cada una en un círculo imaginario de 6 mm de diámetro, de acuerdo con lo siguiente:
-
-I.- Una estrella negra por cada año y medio de singladuras, pudiendo portar hasta tres;
-
-II.- Una estrella plateada por cada año y medio de singladuras a partir de cumplir seis años de singladuras, y
-
-III.- Una estrella dorada por año y medio de singladuras a partir de los diez años y medio de singladuras.
-
-###### Artículo 180.
-
-El distintivo de operatividad en unidades aeronavales está formado por un gafete de 11 mm de ancho por 32 mm de largo, de tela de popotillo de seda de color azul rey, llevará sobrepuesto en metal dorado, un águila mexicana con las alas extendidas en sentido horizontal, la cabeza de perfil mostrando el lado izquierdo y apresando con la garra derecha y el pico una serpiente, posada con su garra izquierda sobre dos anclas tipo almirantazgo, todo el conjunto inscrito en una elipse imaginaria de 8 mm de eje menor por 12 mm de eje mayor colocada en el extremo derecho del gafete, a continuación llevará centradas, estrellas de cinco puntas inscritas cada una en un círculo imaginario de 6 mm de diámetro, de acuerdo con lo siguiente:
-
-I.- Una estrella negra por cada ochocientas horas de vuelo, pudiendo portar hasta tres;
-
-II.- Una estrella plateada por cada ochocientas horas de vuelo a partir de cumplir dos mil cuatrocientas horas de vuelo, y
-
-III.- Una estrella dorada por cada ochocientas horas de vuelo a partir de las cuatro mil ochocientas horas de vuelo, pudiendo portar hasta tres.
-
-###### Artículo 181.
-
-El distintivo de operatividad en unidades de Infantería de Marina, está formado por un gafete de 11 mm de ancho por 32 mm de largo, de tela de popotillo de seda de color azul rey, llevará sobrepuesto en metal dorado el escudo distintivo de Infantería de Marina compuesto de un ancla tipo almirantazgo con dos fusiles cruzados sobre su parte media, todo el conjunto inscrito en un círculo imaginario de 10 mm de diámetro, colocado en el extremo derecho del gafete, a continuación llevará centradas estrellas de cinco puntas inscritas cada una en un círculo imaginario de 6 mm de diámetro, de acuerdo con lo siguiente:
-
-I.- Una estrella negra por cada dos años y medio de días en órdenes de operaciones de operativos, partidas, destaques, y otros;
-
-II.- Una estrella plateada por cada dos años y medio de días en órdenes de operaciones, a partir de cumplir diez años, y
-
-III.- Una estrella dorada por cada dos años y medio de días en órdenes de operaciones, a partir de los diecisiete años y medio.
-
 ### CAPÍTULO IV. Distintivos académicos y especialidades
-
-###### Artículo 182.
-
-Los distintivos académicos y especialidades serán los que previene el presente Reglamento y se otorgarán al personal que haya concluido satisfactoriamente los cursos correspondientes.
-
-La descripción de los distintivos será conforme a lo establecido en los artículos siguientes.
-
-###### Artículo 183.
-
-Los distintivos académicos en forma de placa serán otorgados al personal que haya realizado estudios o cursos de la categoría de especiales en el Centro de Estudios Superiores Navales u otros centros educativos navales y cuya duración sea al menos de un año; a los de menos de un año, el distintivo a otorgar será invariablemente en forma de gafete.
-
-###### Artículo 184.
-
-Los distintivos académicos otorgados por estudios efectuados en otras instituciones educativas nacionales o extranjeras sólo serán portados previa solicitud, siempre y cuando el nivel académico se encuentre en la categoría de postgrado o especialización en áreas del orden naval y autorizadas por el Alto Mando.
-
-###### Artículo 185.
-
-Los distintivos académicos otorgados por otros países, instituciones u organismos gubernamentales nacionales o extranjeras a cadetes o alumnos de centros educativos navales del nivel de formación, sólo serán portados previa solicitud del interesado y autorización del Alto Mando.
-
-###### Artículo 186.
-
-Las placas distintivas otorgadas por los estudios o cursos de especialización o estudios superiores que se realicen en el Centro de Estudios Superiores Navales u otros centros educativos navales; así como las equivalentes por cursos efectuados en el Ejército, y Fuerza Aérea Nacionales se portarán en los uniformes en la forma siguiente:
-
-I.- Ordinariamente en los uniformes números uno, uno “A”, dos, dos “A”, dos “B”, tres “A”, tres “B”, tres “C”, cuatro, cinco, doce y veintidós;
-
-II.- El personal portará las miniaturas de las condecoraciones en los uniformes número seis, siete y ocho, y
-
-III.- Las placas se portarán del centro del costado izquierdo del uniforme hacia abajo en la siguiente forma:
-
-A.- Si se portan más de dos líneas de condecoraciones, inmediatamente debajo de las medallas de éstas, y
-
-B.- Se usarán si son tres, en línea recta y vertical una a continuación de la otra, si son cuatro en cuadrilátero, si son cinco en forma de pentágono con la base hacia arriba y así sucesivamente, irán separadas entre sí 20 mm, atendiendo al valor e importancia de las mismas, usando en primer lugar, de arriba hacia abajo las de la Armada de México.
-
-###### Artículo 187.
-
-Las placas correspondientes a cursos efectuados en el extranjero equivalentes al Curso de Estado Mayor General, se portarán en el costado derecho, en igual forma que las nacionales, por orden alfabético del país que las otorgue, tomando la letra inicial del nombre del país, en español.
-
-###### Artículo 188.
-
-Las placas correspondientes a cursos efectuados en el extranjero, se portarán en el costado derecho, arriba del borde superior de la cartera de la bolsa o en el lugar correspondiente cuando ésta no exista, si se portan distintivos académicos en forma de gafete y/o placa de identificación, se colocarán arriba de éstos, por orden alfabético del país que las otorgue, tomando la letra inicial del país, en español, en línea horizontal de derecha a izquierda.
-
-###### Artículo 189.
-
-Las placas distintivas de los cursos de las especialidades de unidades aeronavales de ala fija y de ala móvil, curso de especialización en unidades de Infantería de Marina y el curso de paracaidistas se portarán en el costado izquierdo en la parte superior arriba de las condecoraciones o de los gafetes distintivos de las condecoraciones, en caso de que éstos no existan, ocuparán el lugar de los últimos. Se portarán de acuerdo a las indicaciones siguientes:
-
-I.- En tamaño normal en los uniformes números uno, uno “A”, dos, dos “A”, dos “B”, tres “A”, tres “B”, tres “C”, cuatro, cinco, doce y veintidós, en los uniformes número seis, siete y ocho, se portará las miniaturas, y
-
-II.- Cuando se cuente con más de uno de estos cursos se colocará una sobre otra en orden de importancia de abajo hacia arriba.
-
-###### Artículo 190.
-
-Los gafetes distintivos de los cursos y especialidades otorgados por los establecimientos educativos navales, nacionales o extranjeros se portarán de acuerdo a lo siguiente:
-
-I.- Ordinariamente en los uniformes números uno, uno “A”, dos, dos “A”, dos “B”, tres “A”, tres “B”, tres “C”, doce y veintidós;
-
-II.- No se portarán en los uniformes números cuatro, cinco, seis, siete y ocho;
-
-III.- Se portarán en el costado derecho de los uniformes, arriba del borde superior de la cartera de la bolsa o en el lugar correspondiente cuando ésta no exista. Se colocarán de la derecha hacia el centro del pecho, en el orden cronológico de su otorgamiento, no portando más de tres en una sola línea, y
-
-IV.- Los otorgados por establecimientos de educación nacionales o extranjeros, ajenos a la Armada de México se portarán a continuación de los otorgados por establecimientos de educación naval de la Armada de México.
-
-###### Artículo 191.
-
-Los distintivos de curso de especialización en unidades aeronavales de ala fija y ala móvil, de Infantería de Marina y de paracaidista serán los siguientes:
-
-I.- Aeronáutica Naval;
-
-II.- Infantería de Marina;
-
-III.- Paracaidista;
-
-IV.- Paracaidistas con 30 saltos o más;
-
-V.- Paracaidistas con 60 saltos o más, y
-
-VI.- Paracaidistas con 100 saltos o más.
-
-###### Artículo 192.
-
-Los distintivos para el Grupo de Tarea para Entrenamiento Naval Operativo y para el personal egresado de las Escuelas de Clases y Marinería de la Armada de México serán los siguientes:
-
-I.- Grupo de Tarea para Entrenamiento Naval Operativo (antes CIDES);
-
-II.- Curso de Buceo de Combate y Trabajos Submarinos;
-
-III.- Escuela de Enfermería Naval;
-
-IV.- Escuela de Administración e Intendencia Naval, y
-
-V.- Escuela de Clases y Marinería.
-
-###### Artículo 193.
-
-Los distintivos de los cursos del Centro de Estudios Superiores Navales serán los siguientes:
-
-I.- Placa del curso de Mando Superior y Seguridad Nacional;
-
-II.- Placa del curso de Estado Mayor General;
-
-III.- Placa del curso de Mando Naval;
-
-IV.- Gafete del curso de Mando Naval;
-
-V.- Placa del curso de Logística Naval;
-
-VI.- Placa del curso de Análisis de Sistemas;
-
-VII.- Placa del curso de Comunicaciones, y
-
-VIII.- Placa del curso de Informática.
 
 ## TÍTULO QUINTO. Tablas descriptivas del uso y prendas que integran los uniformes
 
 ### CAPÍTULO I. Tablas del uso de los uniformes
 
-###### Artículo 194.
-
-Los uniformes de la Armada de México serán portados en los términos siguientes:
-
-(VEASE ARCHIVO ANEXO)
-
 ### CAPÍTULO II. Tablas de uso de vestuario, equipo, divisas y distintivos
-
-###### Artículo 195.
-
-El vestuario, equipo, divisas y distintivos de la Armada de México serán portados en los términos siguientes:
-
-(VEASE ARCHIVO ANEXO)
 
 ### CAPÍTULO III. De los materiales para confección de uniformes y equipo complementario
 
-###### Artículo 196.
-
-Las características de los materiales que se emplearán para elaborar los uniformes y equipo complementario serán conforme a las tablas siguientes:
-
-(VEASE ARCHIVO ANEXO)
-
 ###### Artículo 45.
 
-El uniforme número nueve de servicio ordinario del personal masculino, embarcado en buques de vela, está conformado para clases y marinería por playera de manga larga o corta, con rayas horizontales azul marino y blanco; refuerzo azul marino en mangas, puños y en cuello deportivo color azul marino; pantalón blanco cerrado al frente con el tapabalazo y en la parte posterior una abertura de siete ojillos a cada lado para una agujeta que ciñe a la cintura; tenis de lona blanca con suela de hule antiderrapante, calceta blancas; birrete o gorra de servicio negra, la cual tendrá el águila del escudo nacional posada sobre dos anclas cruzadas tipo almirantazgo para personal de maestranza y dos anclas cruzadas tipo almirantazgo para el personal de cabos y marinería.
+Los organismos descentralizados, las empresas de participación estatal y los fideicomisos públicos asimilados, serán considerados como organismos auxiliares del Poder Ejecutivo y como parte integrante de la Administración Pública del Estado.
 
-En las maniobras para subir la jarcia se usará sin tocado y con los bajos del pantalón dentro de las calcetas.
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 46.
 
-Uniforme número nueve “A” de servicio interior del personal masculino, embarcado en buques a vela, está conformado para clases y marinería por playera de manga larga o corta, con rayas horizontales azul marino y blanco; refuerzo azul marino en mangas, puños y cuello deportivo color azul marino; pantalón azul marino cerrado al frente con el tapabalazo y en la parte posterior una abertura con siete ojillos a cada lado para la agujeta que ciñe a la cintura; tenis de lona blanca con suela de hule antiderrapante, calcetines negros; gorra de servicio negra, la cual tendrá el águila del escudo nacional posada sobre dos anclas cruzadas tipo almirantazgo para el personal de maestranza y dos anclas tipo almirantazgo cruzadas para el personal de cabos y marinería.
-
-En las maniobras para subir la jarcia, se usará sin tocado y con los bajos del pantalón dentro de los calcetines.
+El Gobernador del Estado podrá solicitar al Congreso, la creación de organismos descentralizados, ordenar la creación, fusión o liquidación de empresas de participación estatal o disponer la constitución de fideicomisos a que se refiere el segundo párrafo del artículo 49 de la presente Ley, para la atención del objeto que expresamente les encomiende. El Ejecutivo deberá rendir cuenta a la Legislatura del uso que hiciere de esta facultad.
 
 ###### Artículo 47.
 
-El uniforme número diez de servicio ordinario del personal de pilotos de las unidades aeronavales de la Armada de México, está conformado para almirantes, capitanes y oficiales por overol azul rey, con acabado especial dieléctrico, antiestático e incombustible, mangas largas, cinturón no visible de la misma tela; en el pecho por encima de las bolsas del lado izquierdo un rectángulo de tela negra adherida al overol en donde llevará la insignia distintiva de la especialidad de piloto y abajo el nombre del piloto, al lado derecho el escudo bordado con el distintivo de la unidad a la que pertenezca; manguitos negros con galón dorado; guantes azul rey; cubriendo desde la mano y hasta el antebrazo; calcetines negros y botas de piel negra con suela antiderrapante, y casco de vuelo, gorra blanca o gorra de servicio gris obscuro.
+Los organismos descentralizados gozarán de personalidad jurídica y patrimonio propio y podrán ser creados para ayudar operativamente al Ejecutivo en el ejercicio de sus atribuciones.
 
 ###### Artículo 48.
 
-El uniforme número once de servicio ordinario del personal de trabajos submarinos, está conformado por camiseta cuello redondo, manga corta, color negro; pantalón corto con elástico en la cintura, color negro, y zapatos tenis blancos.
+El Estado podrá participar en la integración del capital social de aquellas empresas cuyo objeto tienda a cumplimentar los planes y programas de Gobierno o a satisfacer las necesidades sociales existentes en la entidad.
+
+En la integración del capital social de estas empresas, podrán participar los particulares y los grupos sociales interesados. Los funcionarios del Gobierno del Estado y de los organismos descentralizados, en ningún caso podrán participar en la integración del capital social de estas empresas.
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2012)</small>
+
+Se asimilan a las empresas de participación estatal mayoritaria, las sociedades civiles así como las asociaciones civiles en las que la mayoría de los asociados sean dependencias o entidades de la administración pública estatal, o servidores públicos estatales que participen en razón de sus cargos o alguna o varias de ellas, se obliguen a realizar o realicen las aportaciones económicas preponderantes.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 49.
 
-Los uniformes de uso formal, ordinario y de etiqueta de cadetes y alumnos, para el personal masculino y femenino, son:
+El Gobernador, a través de sus dependencias y entidades, podrá constituir o participar en los fideicomisos previstos en el artículo 3 fracción XVII del Código Financiero del Estado de México y Municipios.
 
-I.- Uniforme número uno de servicio formal de verano;
+> <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
 
-II.- Uniforme número uno “A” de servicio ordinario de verano;
+Los fideicomisos públicos asimilados, deberán contar con un Decreto o Acuerdo de creación emitido por la Legislatura o el Gobernador, según corresponda, de conformidad con lo señalado en el artículo 46 de esta Ley. Serán considerados organismos auxiliares del Poder Ejecutivo y sujetarán su actuación a lo previsto en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México, su Reglamento y a las disposiciones administrativas que al efecto emita la Secretaría de Finanzas.
 
-III.- Uniforme número uno “B” de servicio formal del curso de inducción;
+> <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
 
-IV.- Uniforme número dos de servicio ordinario de invierno;
+La Secretaría de Finanzas, tratándose de fideicomisos públicos simples, emitirá un dictamen de viabilidad o autorización, según corresponda; asimismo deberán ser registrados, supervisados y evaluados por la Secretaría de Finanzas y rendir la información que les sea solicitada.
 
-V.- Uniforme número tres de servicio ordinario;
-
-VI.- Uniforme número tres “B” de servicio ordinario del curso de inducción;
-
-VII.- Uniforme número cuatro de servicio formal de invierno;
-
-VIII.- Uniforme número cinco de servicio formal;
-
-IX.- Uniforme número seis de servicio de etiqueta;
-
-X.- Uniforme número nueve de servicio ordinario;
-
-XI.- Uniforme número nueve “A” de servicio interior;
-
-XII.- Uniforme número quince de servicio ordinario;
-
-XIII.- Uniforme número diecisiete de servicio ordinario, y
-
-XIV.- Uniforme número diecisiete “A” de servicio ordinario.
-
-La descripción de los uniformes será conforme a lo establecido en los artículos 50 a 66 siguientes.
+> <small>(ADICIONADO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 50.
 
-El uniforme número uno de servicio formal de verano, del personal masculino, está conformado para:
-
-I.- Cadetes: por chaquetín blanco con cuello recto tipo galleta, cerrado al frente con dos ganchos internos y abotonado con seis botones dorados encontrándose el último 30 mm abajo de la cintura, a cada lado del pecho una bolsa de parche con un fuelle de cartera rectangular y un botón dorado al centro; en el costado izquierdo, colocada a la altura de los dos últimos botones del chaquetín una abertura vertical con cartera para dar paso al correón de la fajilla; pantalón blanco de corte recto, pretina alta, sin valencianas, cubriendo el empeine, con dos bolsas secretas y una posterior en el lado derecho; camiseta blanca cuello redondo; palas; guantes blancos de seda, calcetines y zapatos blancos; fajilla, espadín y fiador; insignias al grado en las mangas a partir del codo hacia el interior de los brazos; gorra de gala; fornitura negra y guantes blancos cuando se esté armado, y
-
-II.- Alumnos: por saco cruzado blanco, cerrado al frente con dos hileras de cuatro botones, bolsas de cartera rectangular al frente; camisa blanca de manga larga y corbata negra y pantalón de las mismas características que los de los cadetes; palas; camiseta blanca cuello redondo; guantes blancos de seda; calcetines y zapatos blancos; insignias en las mangas a partir del codo hacia el interior de los brazos, y gorra de gala.
-
-En ceremonias y servicios, el saco y la camisa se substituyen por un chaquetín corto blanco con pechera desmontable, cuello de galleta cerrado al frente con dos ganchos internos, al frente dos hileras de seis botones y presillas en los hombros; usará fajilla tipo cadete sin gavilanes, y fornitura negra y guantes blancos cuando se esté armado.
-
-###### Artículo 51.
-
-El uniforme número uno de servicio formal de verano, del personal femenino, está conformado para:
-
-I.- Cadetes: por saco de corte recto blanco, cerrado al frente con cuatro botones encontrándose el último 30 mm abajo de la cintura, palas; falda blanca recta; camisa blanca de manga larga con corbata negra; camiseta blanca cuello redondo; guantes blancos de seda y zapatillas blancas; medias tono natural; insignias de grado en las mangas a partir del codo hacia el interior de los brazos; tocado de gala, y fornitura negra y guantes blancos cuando se esté armado, y
-
-II.- Alumnas: por saco cruzado blanco, cerrado al frente con dos hileras de cuatro botones, los dos últimos 30 mm abajo de la cintura; palas; falda tableada de largo correspondiente; camisa blanca de manga larga con corbata negra; camiseta blanca cuello redondo; zapatillas blancas tipo cadete y medias tono natural; guantes blancos de seda; insignias en las mangas a partir del codo hacia el interior de los brazos; tocado de gala, y fornitura negra y guantes blancos cuando se esté armado.
-
-En ceremonias y servicios usarán el chaquetín corto blanco con pechera desmontable al frente, con cuello tipo galleta cerrado al frente con dos ganchos internos, al frente dos hileras de seis botones y presillas en los hombros; pantalón blanco de línea recta y pretina alta, cintura de corte femenino, con dos bolsas secretas al frente, sin valencianas; calcetines y zapatos blancos; guantes blancos; fajilla tipo cadete sin gavilanes; insignias de grado en las mangas a partir del codo hacia el interior de los brazos, y fornitura negra y guantes blancos cuando se esté armado.
-
-###### Artículo 52.
-
-El uniforme número uno “A” de servicio ordinario de verano, del personal masculino y femenino, está conformado para cadetes y alumnos por chamarra marinera blanca con una bolsa en el lado izquierdo a la altura de la tetilla, con carpeta y puños postizos negros, tres espiguillas blancas; pantalón blanco acampanado, cerrado al frente con el tapabalazo y en la parte posterior una abertura con siete ojillos de cada lado para una agujeta que ciñe la cintura; camiseta blanca cuello redondo; pañolón negro que pasa por una trabilla en la base del escote; zapatos, calcetines negros; insignias de grado en las mangas a partir del codo hacia el interior de los brazos; gorra de gala o de faena para el personal masculino y tocado de gala o de faena para el personal femenino, y fornitura negra y guantes blancos cuando se esté armado.
-
-###### Artículo 53.
-
-El uniforme número uno “B” de servicio formal del personal masculino y femenino, está conformado para cadetes y alumnos en curso de inducción por playera de manga corta, con rayas horizontales azul marino y blanco; refuerzo blanco en mangas y en cuello deportivo; pantalón blanco acampanado, cerrado al frente con el tapabalazo y en la parte posterior una abertura y siete ojillos a cada lado para una agujeta que ciñe a la cintura; camiseta blanca cuello redondo; zapatos y calcetines blancos, y birrete blanco con vivo azul marino.
-
-###### Artículo 54.
-
-El uniforme número dos de servicio ordinario de invierno, del personal masculino y femenino, está conformado para cadetes y alumnos por chamarra marinera de manga larga con una bolsa en el lado izquierdo a la altura de la tetilla, con carpeta y puños con tres espiguillas blancas; pantalón negro acampanado, cerrado al frente con el tapabalazo, en la parte posterior una abertura con siete ojillos de cada lado para una agujeta que ciñe la cintura; pañolón que pasa por una trabilla en el escote; camiseta blanca cuello redondo; calcetines y zapatos negros; insignias de grado en las mangas a partir del codo hacia el interior de los brazos; gorra blanca de gala o tocado de gala, y guantes blancos y fornitura cuando se ordene.
-
-###### Artículo 55.
-
-El uniforme número tres de servicio ordinario del personal masculino y femenino, está conformado para cadetes y alumnos por chamarra marinera de manga corta azul marino, con carpeta integrada, con una bolsa en el pecho del lado izquierdo a la altura de la tetilla; pantalón azul marino acampanado, cerrado al frente con el tapabalazo y la parte posterior con abertura y siete ojillos para una agujeta que ciñe la cintura; trabilla en el escote para el pañolón, camiseta blanca cuello redondo; calcetines y zapatos negros; insignias de grado en las mangas a 8 cm abajo de la costura de los hombros; gorra o tocado de faena, y fornitura, polainas y guantes blancos cuando se ordene.
-
-###### Artículo 56.
-
-El uniforme número tres “B” de servicio ordinario del personal masculino y femenino, está conformado para cadetes y alumnos en curso de inducción por playera de manga corta con rayas horizontales azul marino y blanco, refuerzo azul marino en mangas y cuello deportivo; pantalón de gabardina azul marino acampanado, cerrado al frente con tapabalazo, y en la parte posterior una abertura y siete ojillos a cada lado para una agujeta que ciñe la cintura; camiseta blanca cuello redondo; zapatos y calcetines negros, y birrete blanco con vivo azul marino.
-
-###### Artículo 57.
-
-El uniforme número cuatro de servicio formal de invierno del personal masculino y femenino, está conformado para:
-
-I.- Cadetes: por levita negra cruzada; faldón de largo correspondiente y espigas en la parte posterior con tres botones, al frente dos hileras de cinco botones, los últimos dos a 30 mm abajo de la cintura; presillas en los hombros; para el personal masculino pantalón negro recto, pretina alta, sin valencianas cubriendo el empeine, en cada costado una bolsa y dos posteriores; para el personal femenino, pantalón negro y cintura de corte femenino, con dos bolsas de vivo al frente y sin valencianas; camisa blanca manga larga y corbata negra; camiseta blanca cuello redondo; calcetines y zapatos negros; guantes blancos de seda; fajilla, fiador y espadín; insignias de grado en las mangas a partir del codo hacia el interior de los brazos; gorra blanca o tocado de gala, y fornitura y guantes blancos cuando se ordene, y
-
-II.- Alumnos: por chaquetín corto negro con pechera desmontable con cuello recto cerrado al frente con dos ganchos internos, al frente dos hileras de seis botones, los dos últimos 30 mm abajo de la cintura; para el personal masculino, pantalón negro recto y pretina alta, sin valencianas, cubriendo el empeine, con dos bolsas secretas al frente y una posterior; para el personal femenino, pantalón negro y cintura de corte femenino, con dos bolsas secretas al frente y sin valencianas; presillas en los hombros; zapatos y calcetines negros; insignias de grado en las mangas a partir del codo hacia el interior de los brazos; gorra blanca o tocado de gala, y guantes blancos y fornitura negra de gala.
-
-###### Artículo 58.
-
-El uniforme número cinco de servicio formal del personal masculino, está conformado para:
-
-I.- Cadetes: por levita negra cruzada, faldón de largo correspondiente y espigas en la parte posterior con tres botones; cerrada al frente por dos hileras de cinco botones; los dos últimos a 30 mm abajo de la cintura; pantalón blanco recto sin valencianas, cubriendo el empeine, con dos bolsas secretas al frente y una bolsa en la parte posterior del lado derecho; camisa blanca de manga larga; camiseta blanca cuello redondo; presillas; corbata negra; guantes blancos; calcetines y zapatos blancos; fornitura negra de gala; insignias de grado en las mangas a partir del codo hacia el interior de los brazos, y gorra blanca de gala, y
-
-II.- Alumnos: por chaquetín corto negro con pechera desmontable, con cuello recto cerrado al frente con dos ganchos internos, al frente dos hileras de seis botones, los dos últimos a 30 mm abajo de la cintura; pantalón blanco recto y pretina alta, sin valencianas, cubriendo el empeine, con dos bolsas secretas al frente y una posterior derecha; presillas en los hombros; zapatos y calcetines blancos; insignias de grado en las mangas a partir del codo hacia el interior de los brazos; gorra blanca de gala, y guantes blancos y fornitura negra de gala.
-
-###### Artículo 59.
-
-El uniforme número cinco de servicio formal del personal femenino, está conformado para:
-
-I.- Cadetes: por levita negra, cerrado al frente con dos hileras de cinco botones, los dos últimos a 30 mm abajo de la cintura; pantalón blanco recto de corte femenino con pretina alta, con dos bolsas secretas al frente y sin valencianas; camisa blanca de manga larga; corbata negra; presillas; camiseta blanca cuello redondo; calcetines y zapatos blancos; insignias de grado en las mangas a partir del codo hacia el interior de los brazos; guantes blancos, fornitura negra de gala, y tocado de gala, y
-
-II.- Alumnos: por chaquetín corto negro con pechera desmontable, con cuello recto cerrado al frente con dos ganchos internos, al frente dos hileras de seis botones, los dos últimos 30 mm abajo de la cintura; pantalón blanco de línea recta y pretina alta, cintura de corte femenino, con dos bolsas secretas al frente y sin valencianas; presillas en los hombros; calcetines y zapatos blancos; insignias de grado en las mangas a partir del codo hacia el interior de los brazos; guantes blancos, fornitura negra de gala y tocado de gala.
-
-###### Artículo 60.
-
-El uniforme número seis de servicio de etiqueta del personal masculino y femenino, está conformado para cadetes por levita negra; faldón de largo correspondiente y espigas en la parte posterior con tres botones, al frente dos hileras de cinco botones, los dos últimos 30 mm abajo de la cintura; para el personal masculino, pantalón negro sin valencianas, pretina alta, cubriendo el empeine, con dos bolsas secretas al frente y una en la parte posterior del lado derecho; para el personal femenino, pantalón negro de línea recta y cintura de corte femenino, con dos bolsas secretas al frente y sin valencianas; presillas al hombro; camiseta blanca cuello redondo; camisa blanca manga larga y corbata de moño negro; calcetines y zapatos negros; fajilla; insignias de grado en las mangas a partir del codo hacia el interior de los brazos, y gorra o tocado de gala.
-
-###### Artículo 61.
-
-El uniforme número nueve de servicio ordinario del personal masculino embarcado en buques de vela, está conformado para cadetes por playera de manga larga o corta según se ordene, con rayas horizontales azul marino y blanco, cuello deportivo, bocamangas y puños blancos; pantalón blanco acampanado cerrado al frente con el tapabalazo y en la parte posterior una abertura y siete ojillos a cada lado para una agujeta que ciñe a la cintura; tenis de lona blanca con suela de hule antiderrapante; calcetas blancas, y gorra blanca o gorra de servicio negra con un ancla de almirantazgo con un cabo bordado en dorado.
-
-###### Artículo 62.
-
-El uniforme número nueve “A” de servicio interior del personal masculino embarcado en buques a vela, está conformado para cadetes por playera de manga larga o corta según se ordene, con rayas horizontales azul marino y blanco, cuello deportivo, bocamangas y puños blancos; pantalón de gabardina azul marino acampanado cerrado al frente con tapabalazo y en la parte posterior una abertura y siete ojillos a cada lado para una agujeta que ciñe la cintura; tenis de lona blanca con suela de hule antiderrapante; calcetas blancas, y gorra de servicio negra con un ancla de almirantazgo con un cabo bordado en dorado.
-
-###### Artículo 63.
-
-El uniforme número quince de servicio ordinario del personal masculino y femenino de la Escuela Médico Naval, está conformado para cadetes por filipina blanca, con un largo hasta la altura de la parte inferior del dedo pulgar de las manos teniendo los brazos extendidos, de manga corta, cuello deportivo, cerrada al frente con cremallera oculta, llevará dos bolsas de parche en los frentes inferiores y una en el lado izquierdo a la altura del pecho; pantalón blanco; palas; camiseta blanca cuello redondo; zapatos tipo choclo de enfermería y calcetines blancos, e insignias de grado en las mangas a 8 cm abajo de la costura de los hombros.
-
-###### Artículo 64.
-
-Uniforme número diecisiete de servicio ordinario del personal masculino, está conformado para alumnos de la Escuela de Enfermería Naval por filipina blanca, cuello deportivo, con cierre al frente de cremallera oculto, manga corta, en la espalda una abertura en la parte posterior y fuelle hasta la cintura, una bolsa de parche al lado izquierdo a la altura del pecho y dos en los frentes inferiores; pantalón blanco; palas; camiseta blanca cuello redondo; zapatos tipo choclo de enfermería y calcetines blancos, e insignias de grado en las mangas a 8 cm abajo de la costura de los hombros.
-
-###### Artículo 65.
-
-El uniforme número diecisiete de servicio ordinario del personal femenino, está conformado para alumnas de la Escuela de Enfermería Naval por jumper blanco de falda recta con peto, tirantes y sin mangas, cerrado por la parte posterior con cierre, botones a la vista, dos bolsas internas laterales; camisa de manga corta a rayas en colores blanco y azul cielo con cuello y bocamangas blancos con insignias de grado en las mangas a 8 cm abajo de la costura de los hombros; zapatos tipo choclo de enfermería y medias blancas, y cofia.
-
-###### Artículo 66.
-
-El uniforme número diecisiete “A” de servicio ordinario del personal femenino, está conformado para alumnas de la Escuela de Enfermería Naval por vestido blanco con escote redondo, cerrado al frente con siete botones blancos; falda en línea “A”, dos bolsas internas laterales, con bies azul marino en escote, mangas y cintura; medias y zapatos tipo choclo de enfermería blancos y cofia.
+El Gobernador del Estado, determinará qué dependencias del Ejecutivo serán las responsables de planear, vigilar y evaluar la operación de los organismos auxiliares a que se refiere el artículo 45 de esta Ley.
 
 ## TRANSITORIOS
 
-Primero.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+Artículo Primero.- La presente Ley entrará en vigor el día de su publicación en el periódico oficial «Gaceta del Gobierno» del Estado.
 
-Segundo.- El presente Reglamento abroga el Reglamento de Uniformes, Divisas y Distintivos para la Armada de México publicado en el Diario Oficial de la Federación el 25 de noviembre de 1994.
+Artículo Segundo.- Se abroga la Ley Orgánica del Poder Ejecutivo del Estado de México del 12 de enero de 1976 y se derogan todas las disposiciones que se opongan a la presente Ley.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de mayo de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Marina, José Ramón Lorenzo Franco.- Rúbrica.
+Artículo Tercero.- Cuando alguna unidad administrativa pase, conforme a esta Ley, de una dependencia del Ejecutivo a otra, el traspaso se hará incluyendo al personal a su servicio sin perjuicio de sus derechos adquiridos, el mobiliario, los vehículos, instrumentos, aparatos, maquinaria, archivos y en general el equipo que tales unidades hayan venido usando para la atención de los asuntos que tuvieron encomendados conforme a la Ley anterior.
+
+Artículo Cuarto.- Los asuntos que con motivo de esta Ley deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramitan se incorporen a la dependencia que señale esta Ley a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+Artículo Quinto.- Cuando en esta Ley se dé denominación nueva o distinta a alguna dependencia cuyas funciones estén establecidas por la Ley anterior y otras leyes especiales, dichas atribuciones se entenderán concedidas a la dependencia que determine esta Ley.
+
+Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
+
+Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, capital del Estado de México, a los quince días del mes de septiembre de mil novecientos ochenta y uno.- Diputado Presidente, Lic. Mario Ruíz de Chávez.- Diputado Secretario, Lic. Lorenzo Vera Osorno, -Diputado Secretario, Profa. Mercedes González Vda. de Acosta.- Rúbricas.
+
+Por tanto mando se publique, circule, observe y se le dé el debido cumplimiento.
+
+Toluca de Lerdo, Méx., a 17 de Septiembre de 1981.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+LIC. ALFREDO DEL MAZO GONZALEZ
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+LIC. MARIO COLIN SANCHEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 31 DE DICIEMBRE DE 1986.
 
 ###### ARTICULO UNICO.
 
@@ -3664,3 +4042,27 @@ e) Evaluación Técnica de Factibilidad de Transformación Forestal se entender�
 f) Evaluación Técnica de Factibilidad de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Factibilidad de Distribución de Agua, se entenderá por Evaluación Técnica de Impacto en materia de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Impacto en materia de Distribución de Agua según corresponda; y
 
 g) Evaluación Técnica de Factibilidad de Impacto de Movilidad se entenderá por Evaluación Técnica de Impacto en materia de Movilidad.
+
+G.G. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 235.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO Y DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO; ASÍ COMO LAS AUTORIZACIONES DE REFINANCIAMIENTO Y/O REESTRUCTURA DE LOS CRÉDITOS FONREC Y PROFISE, DE REESTRUCTURA Y/O REFINANCIAMIENTO DE CERTIFICADOS BURSÁTILES DEL IFREM, DE OBTENCIÓN DE FINANCIAMIENTO GARANTIZADO POR RECURSOS FAFEF Y PARA LA SUSCRIPCIÓN DE CONVENIOS DE REESTRUCTURA POR CONCEPTO DE ADEUDOS CON EL ISSEMYM”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+G.G. 10 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 32.- POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 4 DE LA LEY DE MEDIACIÓN, CONCILIACIÓN Y PROMOCIÓN DE LA PAZ SOCIAL PARA EL ESTADO DE MÉXICO, SE REFORMA EL ARTÍCULO 3, LA FRACCIÓN VII DEL ARTÍCULO 16, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 53, LOS ARTÍCULOS 58 Y 59, Y SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 16, UN SÉPTIMO PÁRRAFO AL ARTÍCULO 30 Y EL ARTÍCULO 62 DE LA LEY QUE REGULA EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO EN EL ESTADO DE MÉXICO, SE EXPIDE LA LEY DE JUSTICIA COTIDIANA DEL ESTADO DE MÉXICO, SE REFORMAN LOS INCISOS B) Y C), Y SE ADICIONA EL INCISO K), TODOS DE LA FRACCIÓN I DEL ARTÍCULO 150 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, SE ADICIONA UNA FRACCIÓN XI BIS AL ARTÍCULO 38 TER DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta de (sic) Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta de (sic) Gobierno".
+
+TERCERO. El Ejecutivo Estatal a través de la Secretaría de Justicia y Derechos Humanos, deberá diseñar un programa para coordinarse con el Poder Judicial y, en su caso, con los municipios, a fin de promover la cultura de la paz, la solución amigable de conflictos y procedimientos de autocomposición en las relaciones entre vecinos y condóminos.
+
+Asimismo, deberá generar un plan estratégico de capacitación y orientación en mecanismos de autorregulación con las agrupaciones, asociaciones u organizaciones de colonos.
+
+CUARTO. El presente Decreto, no genera gasto adicional al Presupuesto autorizado, por lo cual las instancias encargadas de la implementación del Derecho realizarán las adecuaciones presupuestales correspondientes.
