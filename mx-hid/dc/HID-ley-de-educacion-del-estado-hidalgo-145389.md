@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2021-09-22"
+last_updated: "2022-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2022.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -39,11 +39,11 @@ El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que
 
 A N T E C E D E N T E S
 
-[…]
+[...]
 
 C O N S I D E R A N D O
 
-[…]
+[...]
 
 En tal contexto, el Dictamen que contiene la Ley de Educación del Estado de Hidalgo, se armoniza con lo dispuesto en la Ley General de Educación, actualizando supuestos y ámbitos de competencia, que permite construir un ordenamiento jurídico eficaz y actualizado en beneficio de las y los hidalguenses.
 
@@ -753,7 +753,9 @@ VIII. La promoción de estilos y hábitos de vida saludables y la educación par
 
 IX. El fomento de la igualdad de género para la construcción de una sociedad inclusiva, justa e igualitaria;
 
-X. La promoción de una educación sexual integral y reproductiva que implica el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y paternidad responsables, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2022)</small>
+
+X. La promoción de una educación sexual integral y reproductiva que implica el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y paternidad responsables, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual, considerando la opinión técnica de la Secretaría de Salud del Estado;
 
 XI. La educación socioemocional;
 
@@ -2112,3 +2114,11 @@ P.O. 22 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 779 QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 123 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo”.]
+
+P.O. 10 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 4 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
