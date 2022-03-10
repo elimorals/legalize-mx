@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2021-04-26"
+last_updated: "2022-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -939,7 +939,9 @@ IV Bis. Disponer las medidas inmediatas necesarias, tendientes a garantizar el d
 
 V. Desarrollar la atención sanitaria preventiva, la orientación a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, y la educación y servicios en materia de salud sexual y reproductiva;
 
-VI. Establecer las medidas tendentes a prevenir embarazos de las niñas y las adolescentes;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2022)</small>
+
+VI. Establecer las medidas tendentes a prevenir embarazos de las niñas y las adolescentes, así como fomentar el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y paternidad responsables;
 
 VII. Asegurar la prestación de servicios de atención médica respetuosa, efectiva e integral durante el embarazo, parto y puerperio, así como para sus hijas e hijos, y promover la lactancia materna exclusiva dentro de los primeros seis meses y complementaria hasta los dos años, así como garantizar el acceso a métodos anticonceptivos;
 
@@ -957,7 +959,9 @@ IX. Fomentar y ejecutar los programas de vacunación y el control de la niñez y
 
 X. Atender de manera especial las enfermedades respiratorias, renales, gastrointestinales, epidémicas, cáncer, VIH/SIDA y otras enfermedades de transmisión sexual e impulsar programas de prevención e información sobre éstas;
 
-XI. Proporcionar asesoría y orientación sobre salud sexual y reproductiva;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2022)</small>
+
+XI. Proporcionar asesoría y orientación sobre salud sexual y reproductiva, y realizar campañas sobre la importancia del uso de métodos anticonceptivos;
 
 XII. Disponer lo necesario para que niñas, niños y adolescentes con discapacidad reciban la atención apropiada a su condición, que los rehabilite, mejore su calidad de vida, facilite su interacción e inclusión social y permita un ejercicio igualitario de sus derechos;
 
@@ -1085,7 +1089,13 @@ XIX. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente;
 
 XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
 
-XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo estatal; y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2022)</small>
+
+XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo estatal, así mismo tratándose de los casos de paternidad en niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2022)</small>
+
+XXI Bis. Fomentar la difusión de la información y orientación sobre el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual; y
 
 XXII. Garantizar que las niñas, niños y adolescentes indígenas tengan efectivo su derecho a recibir educación básica en sus tres niveles, con las adaptaciones requeridas para recibir una formación bilingüe e intercultural, garantizándoles las medidas necesarias para eliminar del sistema educativo, los prejuicios y los adjetivos que los denigren como indígenas.
 
@@ -2424,3 +2434,11 @@ P.O. 26 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 703 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 4 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
