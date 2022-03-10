@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-mediacion-conciliacion-y-promocion-de-la-paz-social-7781
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-22"
-last_updated: "2021-05-14"
+last_updated: "2022-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE MEDIACIÓN, CONCILIACIÓN Y PROMOCIÓN DE LA PAZ SOCIAL PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2022.
 
 Ley publicada en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el miércoles 22 de diciembre de 2010.
 
@@ -86,6 +86,10 @@ El Poder Ejecutivo a través de la Secretaría de Educación del Gobierno del Es
 > <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
 
 La Secretaría de Educación se podrá coordinar con el Centro Estatal con la finalidad de implementar en las instituciones educativas, la mediación escolar, cuando sea solicitado por la autoridad escolar.
+
+> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2022)</small>
+
+Asimismo, la Secretaría de Justicia y Derechos Humanos llevará a cabo la Mediación y Conciliación vecinal en la atención y resolución de conflictos cotidianos entre particulares, vecinos, organizaciones, agrupaciones o asociaciones de colonos de manera permanente.
 
 ###### Artículo 5.
 
@@ -530,3 +534,17 @@ TERCERO.- Los asuntos en trámite en cualquier instancia, se concluirán conform
 CUARTO.- En los Distritos Judiciales, cuando aún no entre en vigor este decreto en términos del transitorio segundo, se aplicarán las disposiciones legales anteriores al mismo.
 
 QUINTO.- La Legislatura Local proveerá lo conducente para la asignación de recursos presupuestales al Poder Judicial del Estado, a efecto de que cuente con los recursos humanos, materiales y financieros necesarios para dar cumplimiento a este Decreto.
+
+G.G. 10 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 32.- POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 4 DE LA LEY DE MEDIACIÓN, CONCILIACIÓN Y PROMOCIÓN DE LA PAZ SOCIAL PARA EL ESTADO DE MÉXICO, SE REFORMA EL ARTÍCULO 3, LA FRACCIÓN VII DEL ARTÍCULO 16, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 53, LOS ARTÍCULOS 58 Y 59, Y SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 16, UN SÉPTIMO PÁRRAFO AL ARTÍCULO 30 Y EL ARTÍCULO 62 DE LA LEY QUE REGULA EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO EN EL ESTADO DE MÉXICO, SE EXPIDE LA LEY DE JUSTICIA COTIDIANA DEL ESTADO DE MÉXICO, SE REFORMAN LOS INCISOS B) Y C), Y SE ADICIONA EL INCISO K), TODOS DE LA FRACCIÓN I DEL ARTÍCULO 150 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, SE ADICIONA UNA FRACCIÓN XI BIS AL ARTÍCULO 38 TER DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta de Gobierno".
+
+TERCERO. El Ejecutivo Estatal a través de la Secretaría de Justicia y Derechos Humanos, deberá diseñar un programa para coordinarse con el Poder Judicial y, en su caso, con los municipios, a fin de promover la cultura de la paz, la solución amigable de conflictos y procedimientos de autocomposición en las relaciones entre vecinos y condóminos.
+
+Asimismo, deberá generar un plan estratégico de capacitación y orientación en mecanismos de autorregulación con las agrupaciones, asociaciones u organizaciones de colonos.
+
+CUARTO. El presente Decreto, no genera gasto adicional al Presupuesto autorizado, por lo cual las instancias encargadas de la implementación del Decreto realizarán las adecuaciones presupuestales correspondientes.
