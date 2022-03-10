@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-mejora-regulatoria-del-estado-de-mexico-y-sus-13045
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-17"
-last_updated: "2021-08-17"
+last_updated: "2022-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2022.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 17 de septiembre de 2018.
 
@@ -111,6 +111,10 @@ III. Análisis de Impacto Regulatorio ex post: A la evaluación de regulaciones 
 
 IV. Autoridad de Mejora Regulatoria: A la Comisión y a las Comisiones Municipales;
 
+> <small>(ADICIONADA, G.G. 10 DE MARZO DE 2022)</small>
+
+IV Bis. Carnet Jurídico: Al documento de identificación de personas físicas que les permite acceder al Expediente para Trámites y Servicios y que además permite a los ciudadanos mexiquenses consultar sus documentos personales que derivan de trámites y servicios estatales;
+
 V. Catálogo: El Catálogo Nacional de Regulaciones, Trámites y Servicios;
 
 VI. Catálogo Estatal: Al Catálogo Estatal de Regulaciones, Trámites y Servicios;
@@ -135,6 +139,10 @@ XIV. Ejecutivo Estatal: Al Gobernador Constitucional del Estado de México;
 
 XV. Enlace de Mejora Regulatoria: A las unidades designadas por el titular del sujeto obligado, como responsables de la mejora regulatoria al interior de sus áreas;
 
+> <small>(ADICIONADA, G.G. 10 DE MARZO DE 2022)</small>
+
+XV Bis. Expediente para Trámites y Servicios: Al conjunto de documentos electrónicos, emitidos por los Sujetos Obligados, asociados a personas físicas o jurídicas colectivas que pueden ser utilizados por cualquier autoridad competente para la gestión y resolución de trámites y servicios;
+
 XVI. Ley: A la Ley para la Mejora Regulatoria del Estado de México y sus Municipios;
 
 XVII. Ley General: A la Ley General de Mejora Regulatoria;
@@ -145,11 +153,19 @@ XIX. Mejora Regulatoria: Al proceso continuo de revisión y reforma de las dispo
 
 XX. Observatorio: Observatorio Nacional de Mejora Regulatoria;
 
+> <small>(ADICIONADA, G.G. 10 DE MARZO DE 2022)</small>
+
+XX Bis. Persona Acreditada: A las personas físicas, jurídicas colectivas, notarios públicos o personas servidoras públicas inscritas en el Registro Público de Personas Acreditadas en el Estado de México a que se refiere la Ley de Gobierno Digital del Estado de México;
+
 XXI. Propuesta Regulatoria: Los anteproyectos de regulaciones que pretendan expedir los Sujetos Obligados en el ámbito de su competencia y que se presenten a la consideración de las Autoridades de Mejora Regulatoria en los términos de esta Ley;
 
 XXII. Reglamento: Al Reglamento de la Ley para la Mejora Regulatoria del Estado y sus Municipios;
 
 XXIII. Registro Estatal: Al Registro Estatal de Trámites y Servicios;
+
+> <small>(ADICIONADA, G.G. 10 DE MARZO DE 2022)</small>
+
+XXIII Bis. Registro Estatal de Inspectores: Al registro estatal de inspectores a que hace referencia el Código Administrativo del Estado de México;
 
 XXIV. Registro Municipal: Al Registro Municipal de Trámites y Servicios que corresponda;
 
@@ -585,9 +601,21 @@ El Catálogo Estatal, está integrado por:
 
 I. El Registro Estatal de Regulaciones;
 
-II. El Registro de Trámites y Servicios; y
+> <small>(REFORMADA, G.G. 10 DE MARZO DE 2022)</small>
 
-III. El Sistema de Protesta Ciudadana.
+II. El Registro de Trámites y Servicios;
+
+> <small>(REFORMADA, G.G. 10 DE MARZO DE 2022)</small>
+
+III. El Sistema de Protesta Ciudadana;
+
+> <small>(ADICIONADA, G.G. 10 DE MARZO DE 2022)</small>
+
+IV. El Expediente para Trámites y Servicios, y
+
+> <small>(ADICIONADA, G.G. 10 DE MARZO DE 2022)</small>
+
+V. El Registro Estatal de Inspectores a que hace referencia el Código Administrativo del Estado de México.
 
 ### CAPÍTULO TERCERO. Agenda Regulatoria
 
@@ -907,11 +935,75 @@ La Comisión y las Comisiones Municipales colocarán su respectivo Registro en u
 
 Los Ayuntamientos que no cuenten con un portal de Internet, podrán celebrar un convenio de coordinación con la Comisión a efecto de que el Registro Estatal pueda hospedar su catálogo de trámites y servicios.
 
-### CAPÍTULO ÚNICO. Disposiciones generales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 10 DE MARZO DE 2022)</small>
+
+### CAPÍTULO SÉPTIMO. Del Expediente para Trámites y Servicios
+
+> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2022)</small>
+
+###### Artículo 59 Bis.
+
+El Expediente para Trámites y Servicios deberá considerar mecanismos confiables de seguridad, disponibilidad, integridad, autenticidad, confidencialidad y custodia de conformidad con las disposiciones jurídicas aplicables.
+
+Los Sujetos Obligados, en el ámbito de sus respectivas competencias, incluirán en su Programa Anual de Mejora Regulatoria las acciones para facilitar a otros Sujetos Obligados, a través del Expediente para Trámites y Servicios, el acceso, consulta y transferencia de manera segura de las actuaciones electrónicas que se generen con motivo de un Trámite o Servicio.
+
+La Comisión definirá los elementos que deberá contener el Expediente para Trámites y Servicios, a efecto de que los Sujetos Obligados puedan acceder, actualizar y utilizar la información contenida en éste.
+
+La Comisión, en coordinación con el Sistema Estatal de Informática, deberá asegurar la vinculación de los resultados de trámites y servicios de las Dependencias y Organismos Auxiliares con el Expediente para Trámites y Servicios.
+
+> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2022)</small>
+
+###### Artículo 59 Ter.
+
+Los Sujetos Obligados deberán utilizar el Expediente para Trámites y Servicios, y no podrán solicitar información que conste en el mismo, ni podrán requerir documentación vigente que tengan en su poder. Sólo podrán solicitar aquella información y documentación particular o adicional, siempre que no se encuentre contenida en el Expediente para Trámites y Servicios o no sea vigente.
+
+> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2022)</small>
+
+###### Artículo 59 Quáter.
+
+Los documentos electrónicos que integren los Sujetos Obligados al Expediente para Trámites y Servicios, durante su vigencia, producirán los mismos efectos que las leyes otorgan a los documentos firmados autógrafamente y, en consecuencia, tendrán el mismo valor probatorio que las disposiciones aplicables les otorgan a éstos.
+
+> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2022)</small>
+
+###### Artículo 59 Quinquies.
+
+El uso y consulta del Expediente para Trámites y Servicios será obligatorio para todos los Sujetos Obligados.
+
+> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2022)</small>
+
+Artículo 59 Sexties.- Los Sujetos Obligados se encargarán de digitalizar e integrar al Expediente para Trámites y Servicios toda la documentación resultante de los trámites y servicios que las Personas Acreditadas gestionen.
+
+Lo dispuesto en el párrafo anterior, se realizará de conformidad con el manual de funcionamiento que para tal efecto emita la Comisión.
+
+> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2022)</small>
+
+###### Artículo 59 Septies.
+
+La actualización, mantenimiento, manejo y resguardo del Expediente para Trámites y Servicios se realizará con estricto apego a la normativa en materia de transparencia y protección de datos personales y de conformidad con los lineamientos que para tal efecto emita la Dirección General del Sistema Estatal de Informática.
+
+> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2022)</small>
+
+###### Artículo 59 Octies.
+
+La vigencia de la documentación contenida en el Expediente para Trámites y Servicios dependerá de cada Sujeto Obligado. Las Personas Acreditadas deberán mantener actualizada la información y documentación comprendida en el Expediente para Trámites y Servicios.
+
+> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2022)</small>
+
+###### Artículo 59 Nonies.
+
+Las personas físicas podrán consultar el contenido de su Expediente para Trámites y Servicios, a través de su Carnet Jurídico y/o Clave Única de Trámites y Servicios a que hace referencia la Ley de Gobierno Digital.
+
+Las personas jurídicas colectivas, notarios y servidores públicos en ejercicio de sus funciones, podrán consultar sus documentos contenidos en el Expediente para Trámites y Servicios, a través del uso de la Clave Única de Trámites y Servicios a que hace referencia la Ley de Gobierno Digital.
+
+> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2022)</small>
+
+###### Artículo 59 Decies.
+
+La administración del Expediente para Trámites y Servicios estará a cargo de la Comisión.
 
 ## TÍTULO CUARTO. Del Acceso a la Información Pública
 
-### CAPÍTULO ÚNICO. De las Disposiciones Generales
+### CAPÍTULO ÚNICO. Disposiciones generales
 
 ###### Artículo 60.
 
@@ -935,7 +1027,7 @@ El Reglamento y los Reglamentos Municipales determinarán la forma en que habrá
 
 ## TÍTULO QUINTO. Sistema de Protesta Ciudadana
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. De las Disposiciones Generales
 
 ###### Artículo 62.
 
@@ -952,6 +1044,8 @@ La Protesta Ciudadana será revisada por la Comisión o las Comisiones municipal
 El procedimiento de la Protesta Ciudadana se regulará conforme a los lineamientos que emita el Consejo Nacional.
 
 ## TÍTULO SEXTO. De las Infracciones Administrativas
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 64.
 
@@ -1118,3 +1212,23 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO TERCERO.
 
 El Ejecutivo del Estado, actualizará los reglamentos y ordenamientos internos correspondientes de manera gradual, con base en la disponibilidad presupuestaria, y podrá adscribir las Unidades materia del presente Decreto a unidades administrativas existentes en atención a las medidas de austeridad y contención del gasto público.
+
+G.G. 10 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 33.- POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 1.5 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 33; Y SE ADICIONAN LAS FRACCIONES IV BIS, XV BIS, XX BIS Y XXIII BIS AL ARTÍCULO 4, LAS FRACCIONES IV Y V AL ARTÍCULO 33, EL CAPÍTULO SÉPTIMO Y SUS ARTÍCULOS 59 BIS, 59 TER, 59 QUÁTER, 59 QUINQUIES, 59 SEXTIES, 59 SEPTIES, 59 OCTIES, 59 NONIES, Y 59 DECIES AL TÍTULO TERCERO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS, SE REFORMAN LAS FRACCIONES XI, XI BIS Y XIV DEL ARTÍCULO 5, LA FRACCIÓN I DEL ARTÍCULO 11, LOS ARTÍCULOS 26, 35 Y 36, LA FRACCIÓN IV DEL ARTÍCULO 45 Y EL ARTÍCULO 76; SE ADICIONAN LAS FRACCIONES III BIS, Y XX BIS AL ARTÍCULO 5, LA FRACCIONES IV BIS AL ARTÍCULO 11, LA FRACCIÓN II BIS AL ARTÍCULO 44; Y SE DEROGAN LOS ARTÍCULOS 29 Y 30 DE LA LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, SE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 5 DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. A partir de la entrada en vigor del presente Decreto, las autoridades del Estado contarán con un plazo que no podrá exceder de cinco años para la ejecución de las acciones tecnológicas necesarias para la implementación del Expediente para Trámites y Servicios y del Carnet Jurídico.
+
+CUARTO. La Dirección General del Sistema Estatal de Informática, a partir de la entrada en vigor de las presentes reformas, deberá coordinarse con la Comisión Estatal de Mejora Regulatoria para iniciar con el desarrollo, actualización o, en su caso, implementación de las plataformas tecnológicas que hagan posible la interoperabilidad, funcionamiento y consulta del Registro Estatal para Trámites y Servicios, el Expediente para Trámites y Servicios, el Sistema de Gestión de Trámites y Servicios en Línea y el uso del Carnet Jurídico en términos de lo dispuesto por el presente Decreto.
+
+QUINTO. El Ejecutivo Estatal emitirá las disposiciones reglamentarias correspondientes en un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor de este Decreto.
+
+SEXTO. El presente Decreto, no genera gasto adicional al Presupuesto del Poder Ejecutivo, por lo cual las Dependencias encargadas de la implementación de la presente Ley, realizarán las adecuaciones presupuestales correspondientes.
+
+SÉPTIMO. La Comisión Estatal de Mejora Regulatoria emitirá el manual de funcionamiento del Expediente para Trámites y Servicios dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+OCTAVO. La Dirección General del Sistema Estatal de Informáitca emitirá los Lineamientos correspondientes al mantenimiento, almacenamiento, manejo y resguardo de la información y documentación contenida en el Expediente para Trámites y Servicios dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Decreto.
