@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2021-09-03"
+last_updated: "2022-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2022.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -3417,9 +3417,13 @@ I. Los Oficiales Mediadores-Conciliadores:
 
 a) Evaluar las solicitudes de los interesados con el fin de determinar el medio alternativo idóneo para el tratamiento del asunto de que se trate;
 
-b) Implementar y substanciar procedimientos de mediación o conciliación vecinal, comunitaria, familiar, escolar, social o política en su municipio, en todos los casos en que sean requeridos por la ciudadanía o por las autoridades municipales;
+> <small>(REFORMADO, G.G. 10 DE MARZO DE 2022)</small>
 
-c) Cambiar el medio alterno de solución de controversias, cuando de acuerdo con los participantes resulte conveniente emplear uno distinto al inicialmente elegido;
+b) Implementar y substanciar procedimientos de mediación o conciliación vecinal, condominal, comunitaria, familiar, escolar, social o política en su municipio, en todos los casos en que sean requeridos por la ciudadanía o por las autoridades municipales. Tratándose de conflictos en núcleos agrarios, se remitirán a la autoridad competente;
+
+> <small>(REFORMADO, G.G. 10 DE MARZO DE 2022)</small>
+
+c) Informar a los participantes, la posibilidad de cambiar el medio alterno de solución de controversias, cuando de acuerdo con los participantes resulte conveniente emplear uno distinto al inicialmente elegido, siempre que este sea más conveniente para ambas partes;
 
 d) Llevar por lo menos un libro de registro de expedientes de mediación o conciliación;
 
@@ -3442,6 +3446,10 @@ i) Recibir asesoría del Centro de Mediación y Conciliación del Poder Judicial
 > <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
 j) Atender a los vecinos de su adscripción en los conflictos que no sean constitutivos de delito, ni de la competencia de los órganos judiciales o de otras autoridades.
+
+> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2022)</small>
+
+k) Llevar, en coordinación con la Secretaría de Justicia y Derechos Humanos, un padrón de los condominios que existen en su demarcación territorial, para generar actividades de asesoría legal.
 
 II. De los Oficiales Calificadores:
 
@@ -5514,3 +5522,17 @@ QUINTO. Los Ayuntamientos de los 125 Municipios tomarán las previsiones necesar
 SEXTO. La antigüedad, prestaciones y demás derechos adquiridos a los que sean sujetos los miembros de los Cuerpos de Bomberos municipales ya establecidas en las diferentes modalidades que prevalecen en el Estado, serán respetados a partir de la entrada en vigor de la presente Ley.
 
 SÉPTIMO. La Secretaría General de Gobierno a través de la Coordinación General de Protección Civil y Gestión Integral del Riesgo, establecerá las previsiones para que a partir de la entrada en vigor de la presente Ley, las Bases Regionales que cuenten con las condiciones de centros de formación, se adapten para cumplir con los señalado en el Título Sexto de este Decreto.
+
+G.G. 10 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 32.- POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 4 DE LA LEY DE MEDIACIÓN, CONCILIACIÓN Y PROMOCIÓN DE LA PAZ SOCIAL PARA EL ESTADO DE MÉXICO, SE REFORMA EL ARTÍCULO 3, LA FRACCIÓN VII DEL ARTÍCULO 16, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 53, LOS ARTÍCULOS 58 Y 59, Y SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 16, UN SÉPTIMO PÁRRAFO AL ARTÍCULO 30 Y EL ARTÍCULO 62 DE LA LEY QUE REGULA EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO EN EL ESTADO DE MÉXICO, SE EXPIDE LA LEY DE JUSTICIA COTIDIANA DEL ESTADO DE MÉXICO, SE REFORMAN LOS INCISOS B) Y C), Y SE ADICIONA EL INCISO K), TODOS DE LA FRACCIÓN I DEL ARTÍCULO 150 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, SE ADICIONA UNA FRACCIÓN XI BIS AL ARTÍCULO 38 TER DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta de Gobierno".
+
+TERCERO. El Ejecutivo Estatal a través de la Secretaría de Justicia y Derechos Humanos, deberá diseñar un programa para coordinarse con el Poder Judicial y, en su caso, con los municipios, a fin de promover la cultura de la paz, la solución amigable de conflictos y procedimientos de autocomposición en las relaciones entre vecinos y condóminos.
+
+Asimismo, deberá generar un plan estratégico de capacitación y orientación en mecanismos de autorregulación con las agrupaciones, asociaciones u organizaciones de colonos.
+
+CUARTO. El presente Decreto, no genera gasto adicional al Presupuesto autorizado, por lo cual las instancias encargadas de la implementación del Decreto realizarán las adecuaciones presupuestales correspondientes.
