@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-competitividad-y-ordenamiento-comercial-del-estado-10396
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-18"
-last_updated: "2021-09-06"
+last_updated: "2022-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2022.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 18 de diciembre de 2014.
 
@@ -212,6 +212,10 @@ II. Promover la participación de la inversión a las unidades económicas a tra
 > <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 III. Instalar y priorizar la utilización de las ventanillas que esta Ley contempla, incluidas las electrónicas o digitales de conformidad con la Ley de Gobierno Digital del Estado de México y Municipios;
+
+> <small>(ADICIONADA, G.G. 10 DE MARZO DE 2022)</small>
+
+III Bis. Implementar el Expediente para Trámites y Servicios a que hace referencia la Ley para la Mejora Regulatoria del Estado de México y sus Municipios;
 
 IV. Alimentar el Sistema.
 
@@ -2910,3 +2914,23 @@ G.G. 6 DE SEPTIEMBRE DE 2021.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 10 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 33.- POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 1.5 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 33; Y SE ADICIONAN LAS FRACCIONES IV BIS, XV BIS, XX BIS Y XXIII BIS AL ARTÍCULO 4, LAS FRACCIONES IV Y V AL ARTÍCULO 33, EL CAPÍTULO SÉPTIMO Y SUS ARTÍCULOS 59 BIS, 59 TER, 59 QUÁTER, 59 QUINQUIES, 59 SEXTIES, 59 SEPTIES, 59 OCTIES, 59 NONIES Y 59 DECIES AL TÍTULO TERCERO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS, SE REFORMAN LAS FRACCIONES XI, XI BIS Y XIV DEL ARTÍCULO 5, LA FRACCIÓN I DEL ARTÍCULO 11, LOS ARTÍCULOS 26, 35 Y 36, LA FRACCIÓN IV DEL ARTÍCULO 45 Y EL ARTÍCULO 76; SE ADICIONAN LAS FRACCIONES III BIS, Y XX BIS AL ARTÍCULO 5, LA FRACCIÓN IV BIS AL ARTÍCULO 11, LA FRACCIÓN II BIS AL ARTÍCULO 44; Y SE DEROGAN LOS ARTÍCULOS 29 Y 30 DE LA LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, SE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 5 DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto, las autoridades del Estado contarán con un plazo que no podrá exceder de cinco años para la ejecución de las acciones tecnológicas necesarias para la implementación del Expediente para Trámites y Servicios y del Carnet Jurídico.
+
+CUARTO. La Dirección General del Sistema Estatal de Informática, a partir de la entrada en vigor de las presentes reformas, deberá coordinarse con la Comisión Estatal de Mejora Regulatoria para iniciar con el desarrollo, actualización o, en su caso, implementación de las plataformas tecnológicas que hagan posible la interoperabilidad, funcionamiento y consulta del Registro Estatal para Trámites y Servicios, el Expediente para Trámites y Servicios, el Sistema de Gestión de Trámites y Servicios en Línea y el uso del Carnet Jurídico en términos de lo dispuesto por el presente Decreto.
+
+QUINTO. El Ejecutivo Estatal emitirá las disposiciones reglamentarias correspondientes en un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor de este Decreto.
+
+SEXTO. El presente Decreto, no genera gasto adicional al Presupuesto del Poder Ejecutivo, por lo cual las Dependencias encargadas de la implementación de la presente Ley, realizarán las adecuaciones presupuestales correspondientes.
+
+SÉPTIMO. La Comisión Estatal de Mejora Regulatoria emitirá el manual de funcionamiento del Expediente para Trámites y Servicios dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+OCTAVO. La Dirección General del Sistema Estatal de Informática emitirá los Lineamientos correspondientes al mantenimiento, almacenamiento, manejo y resguardo de la información y documentación contenida en el Expediente para Trámites y Servicios dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Decreto.
