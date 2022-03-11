@@ -4,7 +4,7 @@ identifier: "SIN-codigo-familiar-del-estado-de-sinaloa-92146"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-02-06"
-last_updated: "2021-06-29"
+last_updated: "2022-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FAMILIAR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de febrero de 2013.
 
@@ -125,9 +125,11 @@ X. Los demás derechos que a favor de los niños reconozcan la constitución Pol
 
 Para los efectos de este Código, se considera persona, a todo individuo que nazca vivo, y viva cuando menos veinticuatro horas o sea presentado vivo al oficial del registro civil con los requisitos que señala este Código.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2022)</small>
+
 ###### Artículo 10.
 
-La capacidad jurídica de las personas naturales es igual para el hombre y la mujer. Ésta se adquiere por el nacimiento y se extingue por la muerte; pero desde el momento en que una persona es concebido entra bajo la protección de la ley y si nace viable se le tiene por nacido para los efectos declarados en este Código.
+La capacidad jurídica de las personas naturales es igual para todas las personas. Ésta se adquiere por el nacimiento y se extingue por la muerte.
 
 ###### Artículo 11.
 
@@ -7458,3 +7460,11 @@ En atención al párrafo anterior, se deberán adecuar los formatos de actas de 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 11 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 79 DEL H. CONGRESO DEL ESTADO.- SE REFORMA EL ARTÍCULO 61 FRACCIÓN V, LA DENOMINACIÓN DEL CAPÍTULO VI DEL TÍTULO PRIMERO DE LA SECCIÓN PRIMERA DEL LIBRO SEGUNDO Y LOS ARTÍCULOS 154, 155, 156 157 Y 158; SE ADICIONA LA FRACCIÓN VII RECORRIÉNDOSE EN SU ORDEN LA VIGENTE PARA CONVERTIRSE EN VIII DEL ARTÍCULO 28, LA FRACCIÓN VI RECORRIÉNDOSE EN SU ORDEN LA VIGENTE PARA CONVERTIRSE EN VII DEL ARTÍCULO 61; EL CAPÍTULO VIII A LA SECCIÓN PRIMERA DEL TÍTULO TERCERO, DEL LIBRO PRIMERO CON UN ARTÍCULO 60 BIS, Y EL CAPÍTULO VI A LA SECCIÓN SEGUNDA DEL TÍTULO TERCERO, DEL LIBRO PRIMERO CON UN ARTÍCULO 69 BIS TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
