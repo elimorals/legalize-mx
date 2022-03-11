@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-municipal-del-estado-de-nayarit-11037"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-28"
-last_updated: "2020-02-13"
+last_updated: "2022-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "NAY"
 ---
 # LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT
 
+(NOTA: EL 2 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 82/2022, DECLARÓ LA INVALIDEZ DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT, EN MATERIA DE CONTRIBUCIONES PARA PERSONAS ADULTAS MAYORES, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL ONCE DE MARZO DE DOS MIL VEINTIDÓS, LA CUAL SURTIÓ EFECTOS EL 7 DE FEBRERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2022.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 28 de diciembre de 1983.
 
@@ -399,11 +403,39 @@ I). Presentar avisos, documentos, declaraciones que señalen la Ley de Catastro,
 
 II). Pagar el impuesto a su cargo en la oficina recaudadora que corresponda a la ubicación de los predios por bimestres, durante los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre.
 
-El pago podrá hacerse por anualidad, con una bonificación del cinco por ciento, para lo cual los interesados deberán presentar una solicitud por escrito a la Tesorería Municipal en un plazo que terminará el 31 de enero de cada año, en este caso el pago se hará a más tardar el último día hábil del mes de febrero.
+(NOTA: EL 2 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 82/2022, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE FEBRERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-El pago por anualidad anticipada del impuesto predial no impide el cobro de diferencias que debe hacer la Tesorería Municipal por cambio de las bases gravables o alteración de la cuota del mismo.
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-No obstante lo anterior, el pago de las cuotas mínimas que señalen las Leyes de Ingresos de los Municipios se hará en una sola exhibición en el mes de enero de cada año, sin bonificación alguna.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2022)</small>
+
+EL PAGO PODRÁ HACERSE POR ANUALIDAD ANTICIPADA DURANTE LOS PRIMEROS DOS MESES, CASO EN EL QUE LOS CONTRIBUYENTES PAGARÁN EL IMPUESTO PREDIAL APLICANDO A LA TARIFA QUE LES CORRESPONDA EL SIGUIENTE FACTOR:
+
+SI EL PAGO SE REALIZA EN EL MES DE ENERO EL 0.85.
+
+SI EL PAGO SE REALIZA EN EL MES DE FEBRERO EL 0.90.
+
+(NOTA: EL 2 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 82/2022, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA EL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE FEBRERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2022)</small>
+
+TRATÁNDOSE DE CONTRIBUYENTES ADULTOS MAYORES A PARTIR DE LOS 60 AÑOS DE EDAD, JUBILADOS, PENSIONADOS Y PERSONAS CON DISCAPACIDAD, PAGARÁN EL IMPUESTO PREDIAL APLICÁNDOLE A LA TARIFA DE PAGO QUE LES CORRESPONDA, EL FACTOR DEL 0.50 EXCLUSIVAMENTE DURANTE LOS MESES DE ENERO Y FEBRERO. ESTA PRERROGATIVA SE APLICARÁ ÚNICAMENTE A UN INMUEBLE, SIEMPRE QUE SE TRATE DE LA CASA HABITACIÓN DEL CONTRIBUYENTE.
+
+(NOTA: EL 2 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 82/2022, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA EL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE FEBRERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2022)</small>
+
+EL PAGO POR ANUALIDAD ANTICIPADA DEL IMPUESTO PREDIAL NO IMPIDE EL COBRO DE DIFERENCIAS QUE DETERMINE LA TESORERÍA MUNICIPAL POR CAMBIO DE LAS BASES GRAVABLES O ALTERACIÓN DE LA CUOTA DEL MISMO.
+
+(NOTA: EL 2 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 82/2022, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE DEROGA EL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE FEBRERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 11 DE MARZO DE 2022)</small>
 
 > <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2020)</small>
 
@@ -707,9 +739,47 @@ Los usuarios del servicio de agua potable, alcantarillado y saneamiento están o
 
 Las personas que cuenten con predio con certificado de edificio sustentable, en términos de la Ley de Agua Potable y Alcantarillado del Estado de Nayarit, se les otorgará por este, un descuento del cincuenta por ciento, en pago de derechos del presente artículo, siempre que el inmueble no esté obligado a contar con el citado certificado en términos de la Ley de Asentamientos Humanos y Desarrollo Urbano para el Estado de Nayarit.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+(NOTA: EL 2 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 82/2022, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE FEBRERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-ARTICULO 61 B.- Los derechos por el suministro de agua potable, se pagarán mensual o bimestralmente dentro de los primeros quince días siguientes al periodo que corresponda, o de manera anticipada a través de los dispositivos y modalidades que para tal fin establezcan los Ayuntamientos por sí o por conducto de los organismos operadores de agua de que se trate o con cargo a tarjeta de crédito otorgada por instituciones bancarias, conforme a las tarifas y en el periodo de pago que se establezca en las leyes de ingresos de cada municipio:
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 11 DE MARZO DE 2022)</small>
+
+ARTICULO 61 B.- LOS DERECHOS POR EL SUMINISTRO DE AGUA POTABLE, DRENAJE, ALCANTARILLADO Y SANEAMIENTO DE AGUA SE PAGARÁN MENSUAL O BIMESTRALMENTE DENTRO DE LOS PRIMEROS QUINCE DÍAS SIGUIENTES AL PERIODO QUE CORRESPONDA.
+
+(NOTA: EL 2 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 82/2022, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE FEBRERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2022)</small>
+
+EL PAGO PODRÁ HACERSE POR ANUALIDAD ANTICIPADA DURANTE EL MES DE DICIEMBRE DEL EJERCICIO FISCAL ANTERIOR, Y LOS MESES DE ENERO Y FEBRERO DEL EJERCICIO FISCAL DEL QUE SE TRATE EL PAGO, CASO EN EL QUE LOS CONTRIBUYENTES PAGARÁN EL DERECHO CORRESPONDIENTE APLICÁNDOLE EL FACTOR DEL 0.90.
+
+(NOTA: EL 2 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 82/2022, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA EL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE FEBRERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2022)</small>
+
+TRATÁNDOSE DE CONTRIBUYENTES ADULTOS MAYORES A PARTIR DE LOS 60 AÑOS DE EDAD, JUBILADOS, PENSIONADOS Y PERSONAS CON DISCAPACIDAD, PAGARÁN EL DERECHO CORRESPONDIENTE APLICÁNDOLE EL FACTOR DEL 0.50 EXCLUSIVAMENTE DURANTE EL MES DE DICIEMBRE ANTERIOR, Y LOS MESES DE ENERO Y FEBRERO DEL EJERCICIO FISCAL DEL QUE SE TRATE EL PAGO. EN EL CASO DE LOS CONTRIBUYENTES QUE TENGAN INSTALADO MEDIDOR EN SU DOMICILIO, EL PAGO ANUAL ANTICIPADO SE CALCULARÁ CON BASE EN EL CONSUMO PROMEDIO DEL ÚLTIMO AÑO, EL CUAL TENDRÁ EL CARÁCTER DE ANTICIPO A CUENTA DEL PAGO ANUAL. ESTA PRERROGATIVA SE APLICARÁ ÚNICAMENTE A UN INMUEBLE, SIEMPRE QUE SE TRATE DE LA CASA HABITACIÓN DEL CONTRIBUYENTE.
+
+(NOTA: EL 2 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 82/2022, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA EL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE FEBRERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2022)</small>
+
+EN CASO DE QUE EL CONSUMO REAL DEL EJERCICIO NO REBASE EL 10% DEL ESTIMADO ANUAL, DICHO ANTICIPO SE TOMARÁ COMO PAGO DEFINITIVO. CASO CONTRARIO SE LE COBRARÁ AL CONTRIBUYENTE LA DIFERENCIA CORRESPONDIENTE.
+
+(NOTA: EL 2 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 82/2022, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA EL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE FEBRERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO], P.O. 11 DE MARZO DE 2022)</small>
+
+EL PAGO SE HARÁ A TRAVÉS DE LOS DISPOSITIVOS Y MODALIDADES QUE PARA TAL FIN ESTABLEZCAN LOS AYUNTAMIENTOS POR SÍ O POR CONDUCTO DE LOS ORGANISMOS OPERADORES DE AGUA DE QUE SE TRATE, O CON CARGO A TARJETA DE CRÉDITO OTORGADA POR INSTITUCIONES BANCARIAS, CONFORME A LAS TARIFAS Y EN EL PERIODO DE PAGO QUE SE ESTABLEZCA EN LAS LEYES DE INGRESOS DE CADA MUNICIPIO:
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 I. Para uso doméstico:
 
@@ -731,6 +801,8 @@ Para consumo de agua en edificios de departamentos, vecindades y en cualquier ti
 
 En los edificios con consumo mixto, con una sola toma de agua sin medidor, el pago del consumo será por cuota fija de conformidad al uso del servicio y la tarifa aplicable.
 
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
 II. Para uso no doméstico:
 
 A). Con medidor, por metro cúbico.
@@ -745,6 +817,8 @@ Para los efectos de estos derechos, se aplicará el 50 por ciento de la tarifa c
 
 Los propietarios o poseedores de los predios, giros o establecimientos que se surtan de agua por medio de las derivaciones que autorice el Ayuntamiento o el organismo descentralizado, deberán pagar el 50 por ciento de la cuota mensual o bimestral correspondiente al diámetro de la derivación, si la toma no tiene medidor.
 
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
 III. Por la reparación del aparato medidor del consumo de agua, se pagarán los siguientes derechos:
 
 A). Para uso doméstico: 2.5 días de salario mínimo general vigente en el Estado, y
@@ -752,6 +826,8 @@ A). Para uso doméstico: 2.5 días de salario mínimo general vigente en el Esta
 B). Para uso no doméstico: 5 días de salario mínimo general vigente en el Estado.
 
 No se pagarán los derechos previstos en esta fracción, durante el primer año, a partir de la instalación del aparato medidor, por una sola vez, salvo los casos en que dicho aparato haya sido deteriorado por causas imputables al usuario, en los que éste deberá cubrir el 100 por ciento del costo de la reparación del aparato.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 En los casos en que el pago de los derechos a que se refiere este artículo se realice en base a consumos cuantificados a través del aparato medidor, mismo que será instalado por la autoridad municipal competente a costa del usuario, éste está obligado a reportar mediante los formatos oficiales al prestador de servicios que corresponda, los consumos de agua y efectuar su pago dentro de los primeros quince días siguientes al periodo que se esté reportando.
 
@@ -1048,3 +1124,15 @@ P.O. 13 DE FEBRERO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+(NOTA: EL 2 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 82/2022, DECLARÓ LA INVALIDEZ DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT, EN MATERIA DE CONTRIBUCIONES PARA PERSONAS ADULTAS MAYORES, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL ONCE DE MARZO DE DOS MIL VEINTIDÓS, LA CUAL SURTIÓ EFECTOS EL 7 DE FEBRERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+P.O. 11 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT, EN MATERIA DE CONTRIBUCIONES PARA PERSONAS ADULTAS MAYORES".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Los Ayuntamientos del Estado de Nayarit deberán atender lo previsto en el presente Decreto en la elaboración de sus Iniciativas de Leyes de Ingresos para el Ejercicio Fiscal 2023, o bien, en el presente ejercicio fiscal atendiendo el proceso de reforma legislativa.
