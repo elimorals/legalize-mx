@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2021-05-20"
+last_updated: "2022-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CRÉDITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MARZO DE 2022.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -3360,7 +3360,9 @@ La Comisión Nacional Bancaria y de Valores fijará las reglas para la estimaci�
 
 Adicionalmente, la Comisión Nacional Bancaria y de Valores, en protección de los intereses del público ahorrador, podrá ordenar a las instituciones de crédito, como medida correctiva, la constitución de reservas preventivas cuando detecte una inadecuada valuación o una incorrecta estimación en términos del párrafo anterior. Dichas reservas serán adicionales a las que las instituciones de crédito tengan la obligación de constituir en términos de las disposiciones aplicables, debiendo escuchar previamente a la institución de crédito afectada, y resolver en plazo no mayor a tres días hábiles. Lo anterior, sin perjuicio de las sanciones que correspondan.
 
-## TITULO QUINTO. De las Prohibiciones, Sanciones Administrativas y Delitos
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 11 DE MARZO DE 2022)</small>
+
+## TITULO QUINTO. De las Prohibiciones, Sanciones Administrativas, Delitos y de la Garantía de Audiencia de las personas incluidas en la lista de personas bloqueadas
 
 ### CAPITULO I. De las Prohibiciones
 
@@ -4442,19 +4444,39 @@ ARTICULO 116 BIS.- Los delitos previstos en esta Ley sólo admitirán comisión 
 
 ARTICULO 116 BIS 1.- Las personas que ostenten algún cargo, mandato, comisión o cualquier otro título jurídico que, para el desempeño de las actividades y operaciones que correspondan a las instituciones de crédito, éstas les hubieren otorgado, serán consideradas como funcionarios o empleados de dichas instituciones, para efectos de las responsabilidades administrativas y penales establecidas en el presente Título.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 11 DE MARZO DE 2022)</small>
+
+### CAPITULO V. De la Garantía de Audiencia de las personas incluidas en la lista de personas bloqueadas
+
+> <small>(ADICIONADO, D.O.F. 11 DE MARZO DE 2022)</small>
+
+ARTICULO 116 BIS 2.- Para los efectos del noveno párrafo del artículo 115 de la presente Ley, la Secretaría, en ejercicio de sus atribuciones, podrá introducir a una persona a la lista de personas bloqueadas cuando cuente con indicios suficientes de que se encuentra relacionada con los delitos de financiamiento al terrorismo, operaciones con recursos de procedencia ilícita o los asociados con los delitos señalados y que por lo tanto actualiza alguno de los parámetros a los que se refiere el décimo primer párrafo del mismo precepto.
+
+Las personas que hayan sido incluidas en la lista de personas bloqueadas a la que hace referencia el artículo 115 de esta Ley podrán hacer valer sus derechos a través del procedimiento de inclusión de las personas bloqueadas, ante la Unidad de Inteligencia Financiera, conforme a lo siguiente:
+
+I. Previa solicitud del interesado, se le otorgará audiencia para que, dentro del plazo de diez días hábiles, contados a partir del día siguiente al que la institución de crédito correspondiente le hubiera notificado los fundamentos, causa o causas de su inclusión en la lista de personas bloqueadas y manifieste por escrito o de manera verbal lo que a su interés convenga, ofrezca pruebas y formule alegatos.
+
+La solicitud a la que hace referencia el párrafo que antecede deberá formularse por el interesado ante la Unidad de Inteligencia Financiera en un plazo no mayor a cinco días hábiles, contados a partir del día siguiente al que se le hubieran notificado los fundamentos, causa o causas de su inclusión en la lista de personas bloqueadas.
+
+II. La Unidad de Inteligencia Financiera, de oficio o a petición de parte, podrá ampliar de manera fundada por una sola ocasión el plazo a que se refiere el primer párrafo de la fracción que antecede, hasta por el mismo periodo.
+
+III. Transcurrido el plazo para que el interesado presente pruebas y formule alegatos, la Unidad de Inteligencia Financiera, dentro de los quince días hábiles siguientes, contados a partir de que esté integrado el expediente, emitirá la resolución administrativa en la que fundamentará y motivará la inclusión del interesado a la lista de personas bloqueadas, y si procede o no su eliminación de la misma.
+
+La resolución administrativa a que se refiere esta fracción deberá ser notificada por oficio al interesado dentro de los diez días hábiles siguientes al de su emisión.
+
+En el caso de que el interesado se encuentre inconforme con el contenido de la resolución a que se refiere esta fracción, podrá impugnarla en términos de la Ley Federal de Procedimiento Administrativo.
+
+IV. Cuando la inclusión de una persona a la lista de personas bloqueadas haya sido con motivo de una Resolución del Consejo de Seguridad de las Naciones Unidas, se llevará a cabo el proceso de desincorporación que estipule el Comité por el cual se haya designado la inclusión; por tal motivo las disposiciones contenidas en las fracciones II y III no le serán aplicables.
+
 > <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DEL 10 DE ENERO DE 2014, SE DEROGAN LOS ARTÍCULOS DEL 122 BIS AL 122 BIS 35, ASÍ COMO CAMBIA LA ESTRUCTURA DEL PRESENTE TÍTULO.]</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE ENERO DE 2014)</small>
-
-### CAPITULO UNICO. De la Inspección y Vigilancia
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ## TITULO SEXTO. De la Comisión Nacional Bancaria y de Valores
 
 > <small>(REFORMADA SU DENOMINACIÓN Y SU NUMERACIÓN, D.O.F. 10 DE ENERO DE 2014)</small>
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO UNICO. De la Inspección y Vigilancia
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -4930,9 +4952,9 @@ Para efecto de lo señalado en el presente artículo, se requerirá el acuerdo d
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE ENERO DE 2014)</small>
 
-### CAPITULO II. Del Sistema de Protección al Ahorro Bancario
+### CAPITULO I. Disposiciones Generales
 
-> <small>(ADICIONADA CON LOS APARTADOS Y ARTÍCULOS QUE LA INTEGRAN, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ###### ARTICULO 142.
 
@@ -5045,6 +5067,10 @@ En el caso de huelga a que se refiere el párrafo anterior, el aviso para la sus
 En protección de los intereses del público ahorrador, los actos y las resoluciones de la Secretaría de Hacienda y Crédito Público, de la Comisión Nacional Bancaria y de Valores, del Instituto para la Protección al Ahorro Bancario, del Banco de México, los de sus respectivas Juntas de Gobierno, del Comité de Estabilidad Bancaria a que se refiere el artículo 29 Bis 6 de esta Ley, de los administradores cautelares, de los liquidadores, de los liquidadores judiciales y de las autoridades jurisdiccionales que se prevén en los artículos 27 Bis 1 a 27 Bis 6, 28 a 29 Bis 15, 50, 74, 96 Bis 1, 99, 102, 121 a 124, 128, 129 a 141, y 147 a 273, de esta Ley, son de orden público e interés social y se consideraran impostergables para efectos de lo dispuesto en el artículo 129, fracción XI de la Ley de Amparo, por lo que no procederá en su contra medida suspensional alguna que se prevea en dicha ley o en cualquier otro ordenamiento.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE ENERO DE 2014)</small>
+
+### CAPITULO II. Del Sistema de Protección al Ahorro Bancario
+
+> <small>(ADICIONADA CON LOS APARTADOS Y ARTÍCULOS QUE LA INTEGRAN, D.O.F. 10 DE ENERO DE 2014)</small>
 
 #### SECCIÓN PRIMERA. De la Resolución de las Instituciones de Banca Múltiple
 
@@ -8001,3 +8027,15 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 11 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA DENOMINACIÓN DEL TÍTULO QUINTO Y SE ADICIONA UN CAPÍTULO V AL TÍTULO QUINTO DE LA LEY DE INSTITUCIONES DE CRÉDITO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los procedimientos de garantía de audiencia que esté conociendo la Unidad de Inteligencia Financiera hasta antes de la entrada en vigor de este Decreto deberán ser resueltos conforme a las disposiciones de carácter general a que se refiere el artículo 115 de esta Ley.
+
+Tercero. La Secretaría de Hacienda y Crédito Público, en el ámbito de su competencia, deberá derogar lo previsto en la 73ª de las disposiciones de carácter general a que se refiere el artículo 115 de esta Ley e incorporar a dichas disposiciones el correspondiente desarrollo del procedimiento previsto en el artículo 116 Bis 2 de la Ley.
+
+Cuarto. Serán de aplicación supletoria del Capítulo V, las disposiciones contenidas en la Ley Federal de Procedimiento Administrativo, en tanto no sean previstas en el mismo.
