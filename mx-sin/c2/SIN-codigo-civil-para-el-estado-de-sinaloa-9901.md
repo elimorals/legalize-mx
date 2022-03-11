@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "2016-12-28"
+last_updated: "2022-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -135,9 +135,11 @@ La ignorancia de la ley no excusa su cumplimiento; pero los jueces teniendo en c
 
 De las Personas Físicas.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2022)</small>
+
 ###### Artículo 22.
 
-La capacidad jurídica de las personas físicas se adquiere por el nacimiento y se pierde por la muerte; pero desde el momento en que un individuo es concebido, entra bajo la protección de la ley y se le tiene por nacido para los efectos declarados en el presente Código.
+La capacidad jurídica de las personas físicas se adquiere por el nacimiento y se pierde por la muerte.
 
 ###### Artículo 23.
 
@@ -17600,3 +17602,11 @@ CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esqu
 QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 11 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 79 DEL H. CONGRESO DEL ESTADO.- SE REFORMA EL ARTÍCULO 61 FRACCIÓN V, LA DENOMINACIÓN DEL CAPÍTULO VI DEL TÍTULO PRIMERO DE LA SECCIÓN PRIMERA DEL LIBRO SEGUNDO Y LOS ARTÍCULOS 154, 155, 156 157 Y 158; SE ADICIONA LA FRACCIÓN VII RECORRIÉNDOSE EN SU ORDEN LA VIGENTE PARA CONVERTIRSE EN VIII DEL ARTÍCULO 28, LA FRACCIÓN VI RECORRIÉNDOSE EN SU ORDEN LA VIGENTE PARA CONVERTIRSE EN VII DEL ARTÍCULO 61; EL CAPÍTULO VIII A LA SECCIÓN PRIMERA DEL TÍTULO TERCERO, DEL LIBRO PRIMERO CON UN ARTÍCULO 60 BIS, Y EL CAPÍTULO VI DE LA SECCIÓN SEGUNDA DEL TÍTULO TERCERO, DEL LIBRO PRIMERO CON UN ARTÍCULO 69 BIS TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa."
