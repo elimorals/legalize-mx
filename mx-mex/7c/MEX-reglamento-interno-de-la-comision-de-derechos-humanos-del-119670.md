@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-11967
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-02-14"
-last_updated: "2021-12-15"
+last_updated: "2022-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MARZO DE 2022.
 
 Reglamento publicado en la Sección Tercera al Número 28 de la Gaceta del Gobierno del Estado de México, el martes 14 de febrero de 2017.
 
@@ -93,6 +93,10 @@ Para el despacho de los asuntos de su competencia, así como para el cumplimient
 
 I. Primera Visitaduría General;
 
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2022)</small>
+
+I. Bis. Segunda Visitaduría General;
+
 II. Secretaría General;
 
 III. Dirección General de Administración y Finanzas;
@@ -105,7 +109,9 @@ V. Visitadurías Generales;
 
 VI. Órgano Interno de Control;
 
-VII. Centro de Estudios en Derechos Humanos; y
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
+
+VII. Instituto de Investigaciones y Formación en Derechos Humanos; y
 
 VIII. Centro de Mediación y Conciliación.
 
@@ -131,25 +137,31 @@ II. Unidad de Información, Planeación, Programación y Evaluación;
 
 III. Unidad de Comunicación Social;
 
-> <small>(ADICIONADA, G.G. 18 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
 
-IV. Unidad de Difusión de la Cultura; y
+IV. Unidad de Logística; y
 
-> <small>(ADICIONADA, G.G. 18 DE ENERO DE 2019)</small>
+V. (DEROGADA, G.G. 11 DE MARZO DE 2022)
 
-V. Unidad de Igualdad de Género y Erradicación de la Violencia.
+> <small>(REFORMADO SU ACÁPITE, G.G. 11 DE MARZO DE 2022)</small>
 
-Áreas auxiliares de la Primera Visitaduría General
+Personal de las Visitadurías
 
-###### Artículo 7.
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2022)</small>
 
-Para la atención de quejas y denuncias por violaciones a derechos humanos, así como para el despacho de los asuntos competencia del Organismo, y los que señale la Presidencia; la Primera Visitaduría General contará con las Visitadurías Generales, Visitadurías Adjuntas, así como las unidades administrativas que las necesidades del servicio requiera.
+###### Articulo 7.
 
-División territorial de las Visitadurías
+Para la atención de quejas y denuncias por violaciones a derechos humanos, así como para el despacho de los asuntos competencia del Organismo, y los que señale la Presidencia; la Primera Visitaduría General y la Segunda Visitaduría General, contarán con las Visitadurías, así como con las unidades administrativas que las necesidades del servicio requiera.
+
+> <small>(REFORMADO SU ACÁPITE, G.G. 11 DLE MARZO DE 2022)</small>
+
+Visitadurías adscritas a la Primera Visitaduría General
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE MARZO DE 2022)</small>
 
 ###### Artículo 8.
 
-Las Visitadurías Generales se organizarán de conformidad con la denominación y distribución territorial siguiente:
+Las Visitadurías Generales a cargo de la Primera Visitaduría General se organizarán de conformidad con la denominación y distribución territorial siguiente:
 
 I. La Visitaduría General sede Toluca, tendrá competencia en el territorio que comprenden los municipios de: Almoloya de Alquisiras; Almoloya de Juárez; Amanalco; Amatepec; Donato Guerra; Ixtapan del Oro; Lerma; Luvianos; Metepec; Ocoyoacac; Otzoloapan; Otzolotepec; San Mateo Atenco; San Simón de Guerrero; Santo Tomás; Sultepec; Tejupilco; Temascaltepec; Temoaya; Texcaltitlán; Tlatlaya; Toluca; Valle de Bravo; Villa de Allende; Villa Victoria; Xonacatlán; Zacazonapan; Zacualpan y Zinacantepec.
 
@@ -177,9 +189,29 @@ VIII. La Visitaduría General sede Tenango del Valle, tendrá competencia en el 
 
 IX. La Visitaduría General sede Cuautitlán, tendrá competencia en el territorio que comprenden los municipios de: Apaxco, Cuautitlán; Coyotepec, Hueypoxtla, Jaltenco, Melchor Ocampo, Nextlalpan, Teoloyucan, Tequixquiac, Tultepec, Tultitlán y Zumpango;
 
-X. La Visitaduría General de Supervisión Penitenciaria, tendrá competencia específica para supervisar el debido respeto a los derechos humanos en los Centros de Prevención y Readaptación Social del Estado de México, la Escuela de Reintegración Social para Adolescentes, áreas de aseguramiento e internamiento, y conocerá de presuntas violaciones a derechos fundamentales de las personas privadas de libertad en territorio estatal.
+X. (DEROGADA, G.G. 11 DE MARZO DE 2022)
 
-La distribución territorial señalada, es para efectos administrativos, ya que la facultad para conocer de denuncias y quejas competencia del Organismo, podrá realizarse por los Visitadores Generales y Adjuntos en todo el territorio del Estado, previo acuerdo de la Presidencia o de la Primera Visitaduría General.
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2022)</small>
+
+La distribución territorial señalada, se entenderá para efectos administrativos, ya que la facultad para conocer de quejas competencia del Organismo, podrá realizarse por las personas Visitadoras en todo el territorio del Estado, previo acuerdo de la Presidencia o de la Primera Visitaduría General.
+
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2022)</small>
+
+La Primera Visitaduría General podrá coadyuvar, en caso de ser necesario, con la Segunda Visitaduría General, previo acuerdo entre sus personas titulares.
+
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2022)</small>
+
+Visitadurías adscritas a la Segunda Visitaduría General
+
+###### Artículo 8 Bis.
+
+Las Visitadurías a cargo de la Segunda Visitaduría General serán las siguientes:
+
+I. la Visitaduría de Atención y Coordinación Especializada, la cual tendrá competencia para conocer de asuntos que por su importancia y trascendencia así lo requieran;
+
+II. La Visitaduría Especializada de Atención a Personas Privadas de la Libertad, la cual tendrá competencia específica para supervisar el debido respeto a los derechos humanos en los Centros Penitenciarios y de Reinserción Social del Estado de México, el Centro de Internamiento para Adolescentes, las Preceptorías Juveniles Regionales, áreas de aseguramiento e internamiento, y conocerá de presuntas violaciones a derechos humanos de las personas privadas de la libertad en territorio estatal; y.
+
+III. La Visitaduría Especializada en Materia de Amnistía, Tortura, Tratos Crueles, inhumanos y Degradantes, la cual tendrá competencia específica para conocer y, en forma excepcional, sustanciar los asuntos en la materia.
 
 Unidades administrativas auxiliares de la Primera Visitaduría General
 
@@ -193,15 +225,39 @@ II. El Centro de Mediación y Conciliación; y
 
 III. La Unidad de Seguimiento de Recomendaciones y Proyectos.
 
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2022)</small>
+
+Unidades administrativas auxiliares de la Segunda Visitaduría General
+
+###### Artículo 9 Bis.
+
+Además de las Visitadurías, la Segunda Visitaduría General, para el desempeño de sus atribuciones se auxiliará de las siguientes:
+
+I. Unidad Especializada de Seguimiento de Recomendaciones y Proyectos; y
+
+II. Unidad Interdisciplinaria.
+
 Secretaría General
 
 ###### Artículo 10.
 
 Para el despacho de los asuntos que le correspondan a la Secretaría General, cuenta con las unidades administrativas siguientes:
 
-I. Secretaría Técnica; y
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
 
-II. Secretaría Ejecutiva.
+I. Dirección de Vinculación y Capacitación Institucional;
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
+
+II. Dirección de Atención a Grupos en Situación de Vulnerabilidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 11 DE MARZO DE 2022)</small>
+
+III. Unidad de Igualdad de Género y Erradicación de la Violencia; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 11 DE MARZO DE 2022)</small>
+
+IV. Área Coordinadora de Archivos.
 
 Dirección General de Administración y Finanzas
 
@@ -235,7 +291,7 @@ II. Unidad Investigadora;
 
 III. Subdirección de Responsabilidades; y
 
-IV. Unidad de Ética y Prevención de la Corrupción.
+IV. (DEROGADA, G.G. 11 DE MARZO DE 2022)
 
 ### Capítulo III. De las atribuciones genéricas de los titulares de las unidades administrativas
 
@@ -279,7 +335,9 @@ I. Coordinar las funciones de las áreas a su cargo;
 
 II. Someter a consideración de la Presidencia, los proyectos derivados de las áreas a su cargo;
 
-III. Homologar criterios para la sustanciación de los procedimientos que sean competencia de las Visitadurías, así como para la emisión de las resoluciones que emita el Organismo;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
+
+III. Homologar criterios para la sustanciación de los procedimientos que sean competencia de las Visitadurías a su cargo, así como para la emisión de las resoluciones que emita el Organismo;
 
 IV. Promover la interrelación de las unidades administrativas a su cargo con los programas de la Comisión;
 
@@ -287,17 +345,45 @@ IV. Promover la interrelación de las unidades administrativas a su cargo con lo
 
 V. Proveer lo necesario para el adecuado seguimiento de las conciliaciones, mediaciones y Recomendaciones emitidas por el Organismo;
 
-> <small>(ADICIONADA, G.G. 22 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
 
-VI. Coadyuvar con el Centro de Estudios en Derechos Humanos en el desarrollo de las actividades académicas correspondientes a la certificación en derechos humanos que realice la Comisión; y
+VI. Coadyuvar con el Instituto de Investigaciones y Formación en Derechos Humanos en el desarrollo de las actividades académicas correspondientes a la certificación en derechos humanos que realice la Comisión en el ámbito de su competencia;
 
-VII. Las demás que le confieren otras disposiciones y aquellas que le encomiende la Presidencia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 11 DE MARZO DE 2022)</small>
+
+VII. Proponer a la Presidencia los proyectos de Pronunciamientos que emita el Organismo, en los temas de su competencia; y
+
+> <small>(REFORMADA Y REUBICADA, G.G. 11 DE MARZO DE 2022)</small>
+
+VIII. Las demás que le confieren otras regulaciones y aquellas que le encomiende la Presidencia.
+
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2022)</small>
+
+Atribuciones de la Segunda Visitaduría General
+
+###### Artículo 13 Bis.
+
+La Segunda Visitaduría General, además de las facultades y obligaciones contenidas en la Ley tiene las siguientes atribuciones:
+
+I. Someter a consideración de la Presidencia, los asuntos que sean de su competencia;
+
+II. Desarrollar mecanismos de control y seguimiento que, conforme a su competencia, permitan implementar medidas eficaces y eficientes en los proyectos que lleve a cabo la Comisión;
+
+III. Coordinar la integración de la información cualitativa generada por las Visitadurías a su cargo, en los sistemas institucionales;
+
+IV. Establecer criterios para la sustanciación y resolución de los asuntos competencia de las Visitadurías a su cargo;
+
+V. Proponer a la Presidencia los proyectos de Pronunciamientos que emita el Organismo, en los temas de su competencia; y
+
+VI. Las demás que le confieren otras regulaciones y aquellas que le encomiende la Presidencia.
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2022)</small>
 
 Atribuciones de las Visitadurías Generales
 
 ###### Artículo 14.
 
-Las Visitadurías Generales tienen las facultades y obligaciones señaladas en la Ley.
+Las Visitadurías Generales, además de las facultades y obligaciones señaladas en la Ley, conocerán de los asuntos y procedimientos que establezcan otras regulaciones, relacionados con presuntas violaciones a derechos humanos competencia del Organismo.
 
 Atribuciones de la Unidad de Orientación y Recepción de Quejas
 
@@ -327,13 +413,67 @@ Atribuciones de la Unidad de Seguimiento de Recomendaciones y Proyectos
 
 La Unidad de Seguimiento de Recomendaciones y Proyectos tiene las atribuciones siguientes:
 
-I. Vigilar el seguimiento y cumplimiento de las Recomendaciones aceptadas;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
+
+I. Vigilar el seguimiento y cumplimiento de las Recomendaciones aceptadas, correspondientes a la Primera Visitaduría General;
 
 II. Elaborar las propuestas sobre el cumplimiento de las Recomendaciones que serán presentadas por la Primera Visitaduría General a la Presidencia;
 
-III. Coadyuvar con las y los Visitadores en la elaboración de proyectos de Recomendación; y
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
 
-IV. Desarrollar las demás funciones inherentes al área de su competencia.
+III. Coadyuvar con las y los Visitadores en la elaboración de proyectos de Recomendación, correspondientes a la Primera Visitaduría General;
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
+
+IV. Proponer los Proyectos de Recomendaciones Generales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 11 DE MARZO DE 2022)</small>
+
+V. Coordinar la elaboración de los proyectos de Pronunciamientos que sean competencia de la Primera Visitaduría General; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 11 DE MARZO DE 2022)</small>
+
+VI. Las demás que le confieran otras regulaciones y aquellas que le encomiende la Primera Visitaduría General.
+
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2022)</small>
+
+Atribuciones de la Unidad Especializada de Seguimiento de Recomendaciones y Proyectos
+
+###### Artículo 16 Bis.
+
+La Unidad Especializada de Seguimiento de Recomendaciones y Proyectos tiene las atribuciones siguientes:
+
+I. Vigilar el seguimiento y cumplimiento de las Recomendaciones aceptadas, correspondientes a la Segunda Visitaduría General;
+
+II. Elaborar las propuestas sobre el cumplimiento de las Recomendaciones que serán presentadas por la Segunda Visitaduría General a la Presidencia;
+
+III. Coadyuvar con las y los Visitadores en la elaboración de proyectos de Recomendación, correspondientes a la Segunda Visitaduría General;
+
+IV. Coordinar la elaboración de los proyectos de Pronunciamientos que sean competencia de la Segunda Visitaduría General; y
+
+V. Las demás que le confieran otras regulaciones y aquellas que le encomiende la Segunda Visitaduría General.
+
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2022)</small>
+
+Atribuciones de la Unidad Interdisciplinaria
+
+###### Articulo 16 Ter.
+
+Corresponde a la Unidad Interdisciplinaria, ejercer las atribuciones siguientes:
+
+I. Emitir las opiniones científicas, técnicas, especializadas y/o de conocimiento empírico, en asuntos competencia de la Comisión y/o aquéllos encomendados por su superior jerárquico;
+
+II. Realizar las acciones necesarias tendentes a la valoración física, emocional y psicológica de personas para el ejercicio de las atribuciones de la Comisión;
+
+III. Coadyuvar con las Visitadurías y las demás unidades adscritas a la Comisión, cuando la naturaleza del asunto así lo amerite;
+
+IV. Implementar y actualizar protocolos de atención de personas pertenecientes a grupos en situación de vulnerabilidad o que presuntamente sufrieron violaciones de derechos humanos; y
+
+V. Las demás que le confieran otras regulaciones y aquellas que le encomiende la Presidencia o la Segunda Visitaduría General.
+
+El personal que integre la Unidad deberá contar con título de licenciatura en derecho o en ciencias y/o técnicas y/o conocimiento empírico indispensable para dilucidar la probable violación al derecho humano de que se trate, y cuando menos con tres años de experiencia en el ejercicio profesional, tratándose de las áreas científicas y/o técnicas. Dichas personas servidoras públicas tendrán la categoría de Visitadoras Auxiliares Especializadas, sin ejercer las facultades y obligaciones establecidas en los artículos 30 y 31 de la Ley, y serán nombradas por la Presidencia de forma temporal o permanente, de acuerdo a las necesidades del servicio.
+
+Las actuaciones y documentos que emita el personal de la Unidad, servirán para la emisión de las determinaciones que correspondan, en los asuntos de competencia de la Comisión y contarán con la fe pública a que se refiere el artículo 32, párrafo segundo, de la Ley.
 
 Atribuciones de la Secretaría General
 
@@ -341,65 +481,121 @@ Atribuciones de la Secretaría General
 
 La Secretaría General, además de las facultades y obligaciones contenidas en la Ley, tiene las atribuciones siguientes:
 
-I. Coordinar las funciones de las Secretarías Técnica y Ejecutiva;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
 
-II. Proponer y ejecutar, en el ámbito de su competencia, los programas de la Comisión en materia de protección a grupos vulnerables;
+I. Coordinar a la Dirección de Vinculación y Capacitación Institucional; a la Dirección de Atención a Grupos en Situación de Vulnerabilidad; a la Unidad de Igualdad de Género y Erradicación de la Violencia, y al Área Coordinadora de Archivos;
 
-III. Proponer y ejecutar los programas para la protección, observancia, promoción, estudio y divulgación de los derechos humanos de niñas, niños y adolescentes;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 22 DE NOVIEMBRE DE 2019)</small>
+II. Proponer, promover y ejecutar, en el ámbito de su competencia, los programas de la Comisión en materia de protección a grupos en situación de vulnerabilidad;
 
-IV. Coadyuvar con el Centro de Estudios en Derechos Humanos en el desarrollo de las actividades académicas correspondientes a la certificación en derechos humanos que realice la Comisión;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
 
-V. Coordinar el funcionamiento y operatividad del Archivo de Concentración del Organismo;
+III. Vigilar el seguimiento, evaluación y monitoreo de la política estatal en materia de igualdad de trato y oportunidades entre mujeres y hombres, sobre discriminación y derechos de niñas, niños y adolescentes;
 
-VI. Realizar la vigilancia, seguimiento, evaluación y monitoreo de la política estatal en materia de igualdad de trato y oportunidades entre mujeres y hombres, sobre discriminación y derechos de niñas, niños y adolescentes;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
 
-VII. Coordinar el Sistema Integral de Defensorías Municipales de la Comisión;
+IV. Coadyuvar con el Instituto de Investigaciones y Formación en Derechos Humanos en el desarrollo de las actividades académicas correspondientes a la certificación en derechos humanos que realice la Comisión, en el ámbito de su competencia;
 
-VIII. Expedir copias certificadas de los documentos relacionados con los asuntos de su competencia y del cumplimiento de sus atribuciones; y
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
 
-IX. Las demás que le confieren otras disposiciones y aquellas que le encomiende la Presidencia.
+V. Coadyuvar con la Primera Visitaduría General en la Orientación, supervisión y coordinación de las Defensorías Municipales de Derechos Humanos;
 
-Atribuciones de (sic) Secretaria Técnica
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
+
+VI. Expedir copias certificadas de los documentos relacionados con los asuntos de su competencia y con el cumplimiento de sus atribuciones;
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
+
+VII. Autorizar e implementar acciones que permitan proteger, observar, estudiar, difundir y promover los derechos humanos con autoridades e instituciones públicas, así como con organismos públicos, sociales y privados;
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
+
+VIII. Auxiliar a la (sic) Visitadurías en la orientación y canalización de las Defensorías Municipales de Derechos Humanos, para mejorar el desempeño de sus funciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 11 DE MARZO DE 2022)</small>
+
+IX. Apoyar a la Secretaría Técnica del Consejo Consultivo, cuando así lo determine su titular;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 11 DE MARZO DE 2022)</small>
+
+X. Publicar informes sobre grupos en situación de vulnerabilidad; y
+
+> <small>(REFORMADA Y REUBICADA, G.G. 11 DE MARZO DE 2022)</small>
+
+XI. Las demás que le confieren otras regulaciones y aquellas que le encomiende la Presidencia.
+
+> <small>(REFORMADO SU ACÁPITE, G.G. 11 DE MARZO DE 2022)</small>
+
+Atribuciones de la Dirección de Vinculación y Capacitación Institucional
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE MARZO DE 2022)</small>
 
 ###### Artículo 18.
 
-Corresponde a la Secretaría Técnica:
+Corresponde a la Dirección de Vinculación y Capacitación Institucional:
 
 I. Elaborar el anteproyecto de programa de capacitación social e institucional en derechos humanos;
 
-II. Fomentar la vinculación con las defensorías municipales de derechos humanos y organizaciones no gubernamentales;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
 
-III. Realizar las gestiones necesarias que tengan como objetivo la firma de los convenios que le sean encomendados;
+II. Realizar acciones y cursos de capacitación institucional que permitan difundir y promover una cultura de los derechos humanos en los tres ámbitos de gobierno;
 
-IV. Administrar el Sistema Integral de Defensorías Municipales; y
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
 
-V. Las demás que le confieren otras disposiciones y aquellas que le encomiende la Secretaría General.
+III. Coordinar con las organizaciones no gubernamentales, instituciones públicas y privadas, autoridades federales, estatales y municipales, para las acciones necesarias para llevar a cabo la firma de los convenios que le sean encomendados;
 
-Atribuciones de la Secretaria Ejecutiva
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
+
+IV. Incorporar a las Defensorías Municipales de Derechos Humanos y a organizaciones no gubernamentales a las actividades de promoción, difusión, divulgación y capacitación en materia de derechos humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 11 DE MARZO DE 2022)</small>
+
+V. Supervisar la administración del Sistema Integral de Defensorías Municipales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 11 DE MARZO DE 2022)</small>
+
+VI. Proponer a la persona titular de la Secretaría General el anteproyecto del Programa de Enlace con Defensorías Municipales en Derechos Humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 11 DE MARZO DE 2022)</small>
+
+VII. Coadyuvar en la evaluación a las Defensorías Municipales de Derechos Humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 11 DE MARZO DE 2022)</small>
+
+VIII. Auxiliar a la Visitadurías en la orientación y canalización de las Defensorías Municipales de Derechos Humanos, para mejorar el desempeño de sus funciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 11 DE MARZO DE 2022)</small>
+
+IX. Apoyar a la Secretaría Técnica del Consejo Consultivo, cuando así lo determine su titular; y
+
+> <small>(REFORMADA Y REUBICADA, G.G. 11 DE MARZO DE 2022)</small>
+
+X. Las demás que le confieren otras regulaciones y aquellas que le encomiende la Secretaría General.
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2022)</small>
+
+Atribuciones de la Dirección de Atención a Grupos en Situación de Vulnerabilidad
 
 ###### Artículo 19.
 
-Corresponde a la Secretaría Ejecutiva:
+Corresponde a la Dirección de Atención a Grupos en Situación de Vulnerabilidad:
 
-I. Proponer y ejecutar los programas para prevenir y eliminar la discriminación de personas o grupos en situación de vulnerabilidad, sobre equidad de género e igualdad de trato entre mujeres y hombres, sobre derechos de niñas niños y adolescentes, así como sobre medio ambiente;
+I. Coordinar acciones de sensibilización con instancias de los tres ámbitos de gobierno, organismos autónomos y sociedad civil para promover y difundir el respeto de los derechos humanos de los grupos en situación de vulnerabilidad;
 
-II. Elaborar el anteproyecto del programa de promoción de los derechos humanos;
+II. Proponer y ejecutar los programas de promoción y difusión de los derechos humanos a grupos en situación de vulnerabilidad, igualdad y no discriminación;
 
-III. (DEROGADA, G.G. 18 DE ENERO DE 2019)
+III. Coadyuvar con las áreas competentes en la realización de campañas de sensibilización en derechos humanos;
 
-IV. Coordinar acciones con instancias de los tres ámbitos de gobierno, organismos autónomos y sociedad civil para promover y difundir el respeto de los derechos humanos de los grupos en situación de vulnerabilidad;
+IV. Publicar informes específicos sobre grupos en situación de vulnerabilidad;
 
-> <small>(REFORMADA, G.G. 25 DE ENERO DE 2018)</small>
+V. Elaborar el proyecto del programa para la protección, observancia, promoción, estudio y divulgación de los derechos humanos;
 
-V. Proponer y ejecutar los programas para la protección, observancia, promoción, estudio y divulgación de los derechos humanos de niñas, niños y adolescentes;
+VI. Implementar y ejecutar actividades que permitan difundir y promover una cultura de los derechos humanos;
 
-> <small>(ADICIONADA, G.G. 25 DE ENERO DE 2018)</small>
+VII. Realizar acciones a favor del medio ambiente y de combate al cambio climático; y
 
-VI. Proponer, ejecutar y promover actividades culturales y artísticas; y
-
-VII. Las demás que le confieren otras disposiciones y aquellas que le encomiende la Secretaría General.
+VIII. Las demás que le confieren otras regulaciones y aquellas que le encomiende la Secretaría General.
 
 Atribuciones de (sic) Dirección General de Administración y Finanzas
 
@@ -657,21 +853,23 @@ XVII. Participar o comisionar a un representante en los procesos de entrega y re
 
 XVIII. Establecer lineamientos y políticas que orienten las acciones de coordinación del Organismo con el Sistema Anticorrupción del Estado de México y Municipios y otras instancias de fiscalización;
 
-XIX. Proponer al Presidente de la Comisión, proyectos de lineamientos, políticas, programas, acciones y demás instrumentos de carácter general que coadyuven al cumplimiento e implementación de la política anticorrupción que aprueben los Comités Coordinadores del Sistema Nacional y Estatal Anticorrupción, en la Administración Pública Estatal, así como el Código de Ética de los Servidores Públicos del Organismo, las Reglas de Integridad para el ejercicio del empleo, cargo, comisión o función, y demás disposiciones para propiciar la integridad de los servidores públicos;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
 
-XX. Normar y asesorar, a través del área correspondiente, en materia de ética, integridad pública, prevención de hechos de corrupción y de conflictos de intereses;
+XIX. Proponer a la Presidencia de la Comisión, proyectos de lineamientos, políticas, programas, acciones, y demás instrumentos de carácter general que coadyuven al cumplimiento e implementación de la política anticorrupción que aprueben los Comités Coordinadores del Sistema Nacional y Estatal Anticorrupción, en la Administración Pública Estatal;
 
-XXI. Diseñar y promover programas de difusión, capacitación y sensibilización en materia de ética, integridad pública, prevención de hechos de corrupción y de conflictos de intereses, dirigidos a los servidores públicos del Organismo, considerando las políticas en la materia que emita el Comité Coordinador del Sistema Anticorrupción del Estado de México y Municipios;
+XX. (DEROGADA, G.G. 11 DE MARZO DE 2022)
 
-XXII. Recibir y atender las denuncias sobre la conducta de los servidores públicos, que sean contrarias al Código de Ética y las Reglas de Integridad de la Comisión y darles el cauce correspondiente;
+XXI. (DEROGADA, G.G. 11 DE MARZO DE 2022)
 
-XXIII. Prevenir, detectar y disuadir actos de corrupción e incorporar las mejores prácticas en la gestión gubernamental considerando las políticas que emita el Comité Coordinador del Sistema Anticorrupción del Estado de México y Municipios en estas materias;
+XXII. (DEROGADA, G.G. 11 DE MARZO DE 2022)
 
-XXIV. Implementar diagnósticos en las áreas y unidades administrativas de la Comisión, en materia de ética, integridad pública, prevención de la corrupción y de conflictos de intereses, así como para la atención de denuncias;
+XXIII. (DEROGADA, G.G. 11 DE MARZO DE 2022)
 
-XXV. Formular y suscribir las observaciones y recomendaciones de carácter general, a fin de prevenir hechos de corrupción y conflictos de intereses en la Comisión;
+XXIV. (DEROGADA, G.G. 11 DE MARZO DE 2022)
 
-XXVI. Supervisar y vigilar la creación, instalación, organización y funcionamiento del Comité de Ética y de Prevención de Conflictos de Intereses de la Comisión;
+XXV. (DEROGADA, G.G. 11 DE MARZO DE 2022)
+
+XXVI. (DEROGADA, G.G. 11 DE MARZO DE 2022)
 
 XXVII. Analizar los riesgos de corrupción, el nivel de transparencia y rendición de cuentas en el Organismo, y promover las correspondientes acciones de mejora, tendientes al fortalecimiento institucional, para la prevención de faltas administrativas y hechos de corrupción;
 
@@ -925,15 +1123,23 @@ Atribuciones de la Unidad de Ética y Prevención de la Corrupción
 
 Corresponde a la Unidad de Ética y Prevención de la Corrupción, a través de su titular, ejercer las atribuciones siguientes:
 
-I. Formular y proponer al titular del Órgano Interno de Control los proyectos de lineamientos, políticas, programas, acciones y demás instrumentos de carácter general que coadyuven al cumplimiento e implementación de la política anticorrupción que aprueben los Comités Coordinadores del Sistema Nacional y Estatal Anticorrupción, en la Administración Pública Estatal;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
 
-II. Analizar y en su caso, someter a la consideración del Titular del Órgano Interno de Control, propuestas de acciones que apoyen a prevenir, detectar y disuadir probables faltas administrativas y hechos de corrupción en la Comisión;
+I. Formular y proponer a la persona titular de la Unidad Jurídica y Consultiva los proyectos de lineamientos, políticas, programas, acciones y demás instrumentos de carácter general que coadyuven al cumplimiento e implementación de la política anticorrupción que aprueben los Comités Coordinadores del Sistema Nacional y Estatal Anticorrupción, en la Administración Pública Estatal;
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
+
+II. Analizar y en su caso, someter a la consideración de la persona titular de la Unidad Jurídica y Consultiva, propuestas de acciones que apoyen a prevenir, detectar y disuadir probables faltas administrativas y hechos de corrupción en la Comisión;
 
 III. Requerir información y documentación a las unidades administrativas de la Comisión, con el objeto de generar diagnósticos en materia anticorrupción;
 
-IV. Formular y proponer al titular del Órgano Interno de Control, los proyectos de políticas, lineamientos, criterios, indicadores, estrategias y demás instrumentos de carácter general, para establecer acciones en materia de ética, reglas de integridad, prevención, así como de disuasión de faltas administrativas, hechos de corrupción y prevención de conflictos de intereses;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
 
-V. Elaborar y proponer al titular del Órgano Interno de Control el Código de Ética de los servidores públicos de la Comisión, las Reglas de Integridad para el ejercicio del empleo, cargo, comisión o función, así como lineamientos generales y en su caso, sus modificaciones, para propiciar la integridad de los servidores públicos, difundir su contenido y verificar su cumplimiento;
+IV. Formular y proponer a la persona titular de la Unidad Jurídica y Consultiva, los proyectos de políticas, lineamientos, criterios, indicadores, estrategias y demás instrumentos de carácter general, para establecer acciones en materia de ética, reglas de integridad, prevención, así como de disuasión de faltas administrativas, hechos de corrupción y prevención de conflictos de intereses;
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
+
+V. Elaborar y proponer a la persona titular de la Unidad Jurídica y Consultiva el Código de Ética de los servidores públicos de la Comisión, las Reglas de Integridad para el ejercicio del empleo, cargo, comisión o función, así como lineamientos generales y en su caso, sus modificaciones, para propiciar la integridad de las personas servidoras públicas, difundir su contenido y verificar su cumplimiento;
 
 VI. Emitir observaciones y recomendaciones de carácter general, a fin de prevenir hechos de corrupción y conflictos de intereses en el ejercicio del servicio público;
 
@@ -957,9 +1163,13 @@ XV. Fungir como órgano de consulta y asesoría especializada en materia de éti
 
 XVI. Administrar y operar el sistema informático con el que se da seguimiento a las actividades relativas al Comité de Ética y de Prevención de Conflictos de Intereses de la Comisión;
 
-XVII. Informar con las constancias correspondientes, al titular del Órgano Interno de Control sobre las probables faltas administrativas que tenga conocimiento en el ejercicio de sus atribuciones, para que éste a su vez las remita a la unidad investigadora; y
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
 
-XVIII. Las demás que le confieran otras disposiciones jurídicas y aquellas que le encomiende el Titular del Órgano Interno de Control.
+XVII. Informar con las constancias correspondientes, a la persona titular de la Unidad Jurídica y Consultiva sobre las probables faltas administrativas que tenga conocimiento en el ejercicio de sus atribuciones, para que éste a su vez las remita al Órgano Interno de Control; y
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
+
+XVIII. Las demás que le confieran otras regulaciones y aquellas que le encomiende la persona titular de la Unidad Jurídica y Consultiva.
 
 > <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2019)</small>
 
@@ -991,9 +1201,17 @@ VII. Efectuar la interlocución gubernamental y legislativa necesaria para el cu
 
 VIII. Expedir copias certificadas de los documentos relacionados con los asuntos de su competencia y del cumplimiento de sus atribuciones;
 
-IX. Publicar en la Gaceta de Derechos Humanos los acuerdos y normas, así como las Recomendaciones y Resoluciones de no Responsabilidad que emita el Organismo y los asuntos relevantes para el cumplimiento de sus objetivos; y
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
 
-X. Las demás que le confieren otras disposiciones y aquellas que le encomiende la Presidencia.
+IX. Publicar en la Gaceta de Derechos Humanos los acuerdos y normas, así como las Recomendaciones y Resoluciones de no Responsabilidad que emita el Organismo y los asuntos relevantes para el cumplimiento de sus objetivos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 11 DE MARZO DE 2022)</small>
+
+X. Coordinar a la Unidad de Ética y Prevención de la Corrupción; y
+
+> <small>(REFORMADA Y REUBICADA, G.G. 11 DE MARZO DE 2022)</small>
+
+XI. Las demás que le confieren otras regulaciones y aquellas que le encomiende la Presidencia.
 
 Atribuciones de la Unidad de Información, Planeación, Programación y Evaluación
 
@@ -1073,19 +1291,29 @@ Atribuciones de la Unidad de Igualdad de Género y Erradicación de la Violencia
 
 Corresponde a la Unidad de Igualdad de Género y Erradicación de la Violencia:
 
-I. Promover y vigilar que sus planes, programas y acciones sean realizados con perspectiva de género;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
 
-II. Generar acciones con perspectiva de género que garanticen el acceso de las mujeres a una vida libre de violencia, promuevan la igualdad, el empoderamiento de las mujeres, el respeto a los derechos humanos y la eliminación de la discriminación;
+I. Fungir como primer contacto para los casos de acoso y hostigamiento sexual, así como de violencia laboral al interior del Organismo;
 
-III. Dar cumplimiento a los instrumentos internacionales, nacionales y estatales en materia de derechos humanos garantizando en todo momento la igualdad de trato y oportunidades entre mujeres y hombres; así como prevenir, atender, sancionar y erradicar la violencia contra las mujeres en el ámbito de su competencia;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
 
-IV. Coadyuvar en la elaboración de sus presupuestos con perspectiva de género, con la finalidad de incorporar acciones relacionadas con la materia;
+II. Promover planes, programas y acciones con perspectiva de género, que garanticen el acceso de las mujeres y hombres a una vida libre de violencia, el respeto a los derechos humanos y la no discriminación;
 
-V. Informar periódicamente, en el marco del Sistema Estatal, los resultados de la ejecución de sus planes y programas, con el propósito de integrar y rendir el informe anual correspondiente;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
 
-VI. Ser el primer contacto para los casos de acoso y hostigamiento sexual; y
+III. Implementar políticas y programas de igualdad sustantiva entre mujeres y hombres al interior de la Comisión;
 
-VII. Las demás que se establezcan en otras disposiciones jurídicas.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
+
+IV. Informar periódicamente en el marco del Sistema Estatal, los resultados de la ejecución de los planes y programas de la Unidad, con el propósito de integrar y rendir el informe anual correspondiente;
+
+V. (DEROGADA, G.G. 11 DE MARZO DE 2022)
+
+VI. (DEROGADA, G.G. 11 DE MARZO DE 2022)
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
+
+VII. Las demás que se establezcan en otras regulaciones y aquellas que le encomiende la Secretaría General.
 
 ### Capítulo IV. De la suplencia de los titulares
 
@@ -1100,6 +1328,14 @@ Ausencias temporales de la Primera Visitaduría General
 ###### Artículo 30.
 
 En las ausencias temporales menores de 15 días hábiles de la Primera Visitaduría General, ésta será suplida por la Visitaduría General Sede Toluca; en las mayores de 15 días hábiles por el titular de la Visitaduría General que designe la Presidencia.
+
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2022)</small>
+
+Ausencias temporales de la Segunda Visitaduría General
+
+###### Artículo 30 Bis.
+
+En las ausencias temporales menores de 15 días hábiles de la Segunda Visitaduría General, ésta será suplida por la Visitaduría de Atención y Coordinación Especializada; en las mayores de 15 días hábiles por la persona titular de la Visitaduría General que designe la Presidencia.
 
 Ausencias temporales de los titulares de las unidades administrativas
 
@@ -1363,11 +1599,15 @@ IV. Sea él, o alguna de las personas de que trata la fracción II, contrario de
 
 V. Esté en alguna situación que pueda afectar su imparcialidad en forma análoga o más grave que las mencionadas.
 
-Notificación a la Primera Visitaduría General sobre las excusas
+> <small>(REFORMADO SU ACÁPITE, G.G. 11 DE MARZO DE 2022)</small>
+
+Notificación a la Primera Visitaduría General y Segunda Visitaduría General, sobre las excusas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE MARZO DE 2022)</small>
 
 ###### Artículo 56.
 
-El Visitador que esté en alguno de los supuestos a que se refiere el artículo anterior, lo hará del conocimiento de la Primera Visitaduría General.
+La Persona Visitadora que esté en alguno de los supuestos a que se refiere el artículo anterior, lo hará del conocimiento de la Primera Visitaduría General o Segunda Visitaduría General, según corresponda.
 
 La inobservancia de los impedimentos, dará lugar a las responsabilidades que procedan.
 
@@ -1711,13 +1951,15 @@ VIII. Haberse emitido una Resolución de no Responsabilidad; o
 
 IX. Desistimiento del quejoso o agraviado, ratificado ante el Organismo.
 
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2022)</small>
+
 Desistimiento
 
 ###### Artículo 92.
 
-Tratándose de desistimiento y atendiendo a la naturaleza del asunto, el Visitador, previo acuerdo, podrá resolver continuar de oficio la investigación de los hechos motivo de queja.
+Tratándose de desistimiento y atendiendo a la naturaleza del asunto, la persona Visitadora, previo acuerdo, podrá resolver continuar de oficio la investigación de los hechos motivo de queja.
 
-El Visitador General, atendiendo a la naturaleza de los hechos o al número de agraviados, lo hará del conocimiento de la Primera Visitaduría General o de la Presidencia, para determinar lo conducente.
+La persona Visitadora General, atendiendo a la naturaleza de los hechos o al número de personas agraviadas, lo hará del conocimiento de la Primera Visitaduría General, de la Segunda Visitaduría General, según corresponda, o de la Presidencia, para determinar lo conducente.
 
 Reapertura de los expedientes
 
@@ -1757,11 +1999,13 @@ Elaboración de los proyectos de Recomendación
 
 En la elaboración del proyecto de Recomendación se deberán consultar los precedentes que sobre casos similares haya resuelto la Comisión y otros organismos protectores de derechos humanos nacionales e internacionales.
 
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2022)</small>
+
 Presentación de los proyectos de Recomendación
 
-###### Artículo 98.
+###### Articulo 98.
 
-Con el proyecto de la Recomendación se remitirá el expediente a la Primera Visitaduría General, para su análisis y elaboración del proyecto de la Recomendación que proceda, a fin de someterlo a la consideración y aprobación de la Presidencia.
+La persona titular de la Unidad de Seguimiento de Recomendaciones y Proyectos o de la Unidad Especializada de Seguimiento de Recomendaciones y Proyectos, según sea el caso, remitirán a la Primera Visitaduría General o a la Segunda Visitaduría General, según corresponda, el proyecto de la Recomendación que proceda para consideración y, en su caso, aprobación de la Presidencia.
 
 Contenido de la Recomendación
 
@@ -1917,11 +2161,13 @@ La Comisión podrá solicitar la colaboración de los organismos públicos prote
 
 ## TÍTULO CUARTO. DEL CENTRO DE MEDIACIÓN Y CONCILIACIÓN
 
-### Capítulo Único. Atribuciones, organización y funcionamiento del Centro de Estudios en Derechos Humanos
+### Capítulo Único. De las Atribuciones del Instituto de Investigaciones y Formación en Derechos Humanos
 
-Atribuciones del Centro de Estudios en Derechos Humanos
+> <small>(REFORMADO SU ACÁPITE, G.G. 11 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE NOVIEMBRE DE 2019)</small>
+Atribuciones del Instituto de Investigaciones y Formación en Derechos Humanos
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2022)</small>
 
 ###### Artículo 115.
 
@@ -1933,45 +2179,43 @@ Procedimiento de Mediación y Conciliación
 
 La organización y los procedimientos de mediación y los de conciliación que se lleven antes y después del procedimiento de queja se establecerán en el Reglamento de Organización y Funcionamiento del Centro de Mediación y Conciliación de la Comisión.
 
-## TÍTULO QUINTO. DEL CENTRO DE ESTUDIOS EN DERECHOS HUMANOS
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 11 DE MARZO DE 2022)</small>
+
+## TÍTULO QUINTO. DEL INSTITUTO DE INVESTIGACIONES Y FORMACIÓN EN DERECHOS HUMANOS
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 11 DE MARZO DE 2022)</small>
 
 ###### Artículo 117.
 
-Para efectos académicos relacionados con la impartición de estudios de posgrado y certificación en materia de derechos humanos, la comisión contará con un Centro de Estudios en Derechos Humanos.
+La Comisión contará con un Instituto de Investigaciones y Formación en Derechos Humanos, al que le corresponde ejercer las atribuciones siguientes:
 
-Corresponde al Centro de Estudios en Derechos Humanos:
+I. Realizar y promover investigaciones, así como estudios en materia de derechos humanos, privilegiando poblaciones vulnerables de atención prioritaria, con enfoque transversal y perspectiva de género;
 
-I. Realizar y promover investigaciones y estudios de carácter académico y con enfoque interdisciplinario en materia de derechos humanos y áreas del conocimiento afines;
+II. Promover la formación y enseñanza para la profesionalización en derechos humanos
 
-II. Difundir el resultado de los trabajos académicos, programas y actividades que realice, encaminados a la cultura del respeto a los derechos humanos;
+III. Impartir programas de estudios, así como de certificación en derechos humanos;
 
-III. Establecer y desarrollar vínculos con instituciones académicas nacionales e internacionales;
+IV. Fomentar programas de educación continua, con el objeto de impactar cuantitativamente y cualitativamente en la formación de especialistas en derechos humanos;
 
-IV. Elaborar el armado, diagramación, diseño y edición del proyecto del informe anual de actividades en coadyuvancia con la Unidad de Información, Planeación, Programación y Evaluación;
+V. Generar acciones académicas para la sensibilización, promoción y difusión en materia de derechos humanos;
 
-V. Coordinar y programar la edición de las publicaciones que realice la Comisión;
+VI. Formular y ejecutar un programa editorial para la publicación de investigaciones, estudios y contenidos que realice o promueva la Comisión;
 
-VI. Impulsar la formación de profesionales especializados en el campo de los derechos humanos;
+VII. Gestionar la sistematización de información especializada en derechos humanos, mediante fondos documentales, el acceso en línea a otras bases de datos y documentos electrónicos, en materia académica;
 
-VII. Desarrollar las actividades académicas y administrativas correspondientes para el correcto funcionamiento de los estudios de posgrado que imparta el Organismo;
+VIII. Promover, en el ámbito académico, la cultura de la paz, la no violencia y la restauración de las relaciones interpersonales, mediante la amigable composición;
 
-VIII. Sistematizar la información y documentación especializada del Organismo;
+IX. Impulsar el uso de las tecnologías de la información y comunicación, así como los medios informativos y de comunicación para la investigación, formación, enseñanza, promoción y difusión en derechos humanos;
 
-IX. Editar y reproducir el contenido de la información y documentación de la Comisión;
+X. Dar seguimiento y analizar procedimientos jurisdiccionales o cuasi jurisdiccionales desde la perspectiva académica, internacionales, nacionales o locales; que tengan impacto en materia de derechos humanos, con el objeto de proponer a la Presidencia, la emisión de opiniones o la intervención del Organismo en los mismos, mediante los mecanismos y las modalidades establecidas en la regulación aplicable;
 
-X. Expedir constancias de no adeudo del material con que cuenta el Centro de Información y Documentación del Organismo;
+XI. Proponer a la Presidencia investigaciones y estudios, con la finalidad de incidir en la implementación de medidas legislativas, y políticas públicas, para prevenir violaciones a derechos humanos, privilegiando el derecho humano a la buena administración pública, en coadyuvancia con la Unidad Jurídica y Consultiva;
 
-> <small>(REFORMADA, G.G. 22 DE NOVIEMBRE DE 2019)</small>
+XII. Proponer a la Presidencia la celebración de convenios con instituciones públicas y privadas, nacionales e internacionales y organizaciones de la sociedad, orientadas a la investigación, formación, enseñanza, promoción, difusión y divulgación materia en derechos humanos; y
 
-XI. Crear y desarrollar programas que permitan tener acceso a la información y documentación especializada y almacenada;
+XIII. Las demás que le confieren otras regulaciones y aquellas que le encomiende la Presidencia.
 
-> <small>(ADICIONADA, G.G. 22 DE NOVIEMBRE DE 2019)</small>
-
-XII. Desarrollar las actividades académicas y administrativas correspondientes a la certificación en derechos humanos a que se refiere la fracción XXXIV del artículo 13 de la Ley, auxiliándose, para las actividades académicas, de la Primera Visitaduría General y de la Secretaría General; y
-
-XIII. Las demás que le confieren otras disposiciones y aquellas que le encomiende la Presidencia.
-
-La organización y funcionamiento se establecerán en los Reglamentos que para tal efecto se expidan.
+La organización y funcionamiento se establecerán en los Reglamentos y demás regulaciones que para tal efecto se expidan.
 
 T R A N S I T O R I O S
 
@@ -2124,3 +2368,13 @@ PRIMERO. Publíquese este Acuerdo en el Periódico Oficial del Gobierno del Esta
 SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México "Gaceta del Gobierno".
 
 TERCERO. Los expedientes de queja y de investigación de oficio que se encuentren en trámite antes de la entrada en vigor del presente Acuerdo, se ajustarán al término aquí establecido.
+
+G.G. 11 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO CODHEM/CC/1E-2022/04 POR EL QUE SE REFORMA El REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese este Acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, así como en la Gaceta de Derechos Humanos, órgano informativo de la Comisión de Derechos Humanos del Estado de México.
+
+SEGUNDO. Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO. Las acciones a que se refiere el punto SEGUNDO del presente Acuerdo, se podrán realizar en un plazo que no excederá de 60 días hábiles, contados a partir de la entrada en vigor del presente Acuerdo, atendiendo a la naturaleza de cada una de ellas y conforme a la suficiencia presupuestal con la que cuente el Organismo.
