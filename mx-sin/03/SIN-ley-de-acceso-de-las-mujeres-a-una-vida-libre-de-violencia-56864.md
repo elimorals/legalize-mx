@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5686
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-30"
-last_updated: "2021-10-29"
+last_updated: "2022-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2022.
 
 Ley publicada en la Edición Vespertina al Periódico Oficial del Estado de Sinaloa, el lunes 30 de julio de 2007.
 
@@ -179,9 +179,17 @@ III. Violencia patrimonial.- Es cualquier acto u omisión que afecte la superviv
 
 IV. Violencia económica.- Es toda conducta de acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
-V. Violencia Sexual.- Es cualquier acto que degrada o daña el cuerpo o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto; y,
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2022)</small>
 
-VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+V. Violencia Sexual.- Es cualquier acto que degrada o daña el cuerpo o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MARZO DE 2022)</small>
+
+VI. Violencia contra los derechos reproductivos.- Toda acción u omisión que limite o vulnere el derecho de las mujeres o personas gestantes a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, así como el acceso a servicios de interrupción del embarazo seguro en el marco previsto por la Ley de Salud del Estado de Sinaloa, a servicios de atención prenatal, así como a servicios obstétricos de emergencia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE MARZO DE 2022)</small>
+
+VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ###### Artículo 12.
 
@@ -785,7 +793,9 @@ VII. Desarrollar investigación multidisciplinaria encaminada a crear modelos de
 
 VIII. Formular y aplicar programas que permitan la detección temprana de los problemas de violencia contra las mujeres en los centros educativos;
 
-IX. Diseñar y difundir materiales educativos que promuevan la prevención y atención de la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2022)</small>
+
+IX. Diseñar y difundir materiales educativos con información sobre los derechos sexuales y reproductivos y para prevenir el abuso sexual infantil, así como la prevención y atención de la violencia contra las mujeres;
 
 X. Proporcionar acciones formativas a todo el personal de los centros educativos, en materia de derechos humanos de las mujeres y políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres; y,
 
@@ -797,7 +807,9 @@ Corresponde a la Secretaría de Salud:
 
 I. En el marco de la política de salud integral de las mujeres, diseñar con perspectiva de género, la política de sensibilización y formación continua en la prevención y atención de la violencia en contra (sic) las mujeres;
 
-II. Erradicar del personal del área de salud, cualquier prejuicio que evite el ejercicio de los derechos reproductivos;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2022)</small>
+
+II. Erradicar del personal del área de salud, cualquier prejuicio que evite el ejercicio de los derechos sexuales y reproductivos;
 
 III. Brindar por medio de las instituciones del sector salud de manera integral y (sic) interdisciplinaria la atención médica y psicológica con perspectiva de género a las víctimas;
 
@@ -1251,11 +1263,11 @@ P.O. 26 DE JUNIO DE 2013.
 
 P.O. 21 DE MAYO DE 2014.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 335 DEL H. CONGRESO DEL ESTADO.- LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS U OFENDIDOS DEL DELITO PARA EL ESTADO DE SINALOA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 335 DEL H. CONGRESO DEL ESTADO.- LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS U OFENDIDOS DEL DELITO PARA EL ESTADO DE SINALOA”.]
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor a los sesenta días posteriores de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+El presente Decreto entrará en vigor a los sesenta días posteriores de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -1356,3 +1368,11 @@ SÉPTIMO. Los recursos humanos y materiales asignados al Centro de Justicia para
 OCTAVO. Quedarán a salvo los derechos de las y los trabajadores de las instituciones que absorbe la Secretaría de las Mujeres, para efectos de su Seguridad y Previsión Social.
 
 NOVENO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+P.O. 11 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO: 79 POR EL QUE "SE REFORMAN LAS FRACCIONES V Y VI DEL ARTÍCULO 11, LA FRACCIÓN IX DEL ARTÍCULO 35, LA FRACCIÓN II DEL ARTÍCULO 36; Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 11, TODAS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
