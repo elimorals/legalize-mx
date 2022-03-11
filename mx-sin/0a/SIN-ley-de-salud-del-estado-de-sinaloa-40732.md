@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2021-09-29"
+last_updated: "2022-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -212,6 +212,12 @@ I. Dentro de los diez días hábiles siguientes a la fecha de ingreso, los datos
 II. El número de farmacodependientes que concluyeron sus tratamientos.
 
 Esta información se utilizará exclusivamente con fines estadísticos y sin señalar identidades, para la prevención de la farmacodependencia. La información estará protegida en términos de la Ley de Acceso a la Información Pública del Estado de Sinaloa.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2022)</small>
+
+###### Artículo 4 Bis 2.
+
+La atención a la salud sexual, reproductiva y de planificación familiar es prioritaria. Las instituciones públicas, privadas y sociales que presten servicios de salud en el Estado de Sinaloa deberán proveer el servicio para la interrupción del embarazo, en condiciones de calidad y salubridad que garanticen la dignidad humana de la mujer o persona gestante a solicitud de la persona interesada. En el caso de las instituciones públicas el servicio será accesible, gratuito, confidencial, seguro, en condiciones de calidad, expedito y no discriminatorio.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES SANITARIAS Y SU COMPETENCIA
 
@@ -487,25 +493,33 @@ IV. La atención materno infantil;
 
 V. La planificación familiar;
 
-VI. La salud mental;
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2022)</small>
 
-VII. Prevención y control de las enfermedades bucodentales;
+VI. La interrupción del embarazo;
 
-VIII. La disponibilidad de medicamentos y otros insumos esenciales para la salud;
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2022)</small>
+
+VII. La salud reproductiva;
+
+VIII. La salud mental;
+
+IX. Prevención y control de las enfermedades bucodentales;
+
+X. La disponibilidad de medicamentos y otros insumos esenciales para la salud;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2014)</small>
 
-IX. La promoción del mejoramiento de la nutrición, la prevención y atención del sobrepeso y la obesidad y la promoción de una alimentación adecuada;
+XI. La promoción del mejoramiento de la nutrición, la prevención y atención del sobrepeso y la obesidad y la promoción de una alimentación adecuada;
 
 > <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2014)</small>
 
-X. La promoción de un estilo de vida saludable;
+XII. La promoción de un estilo de vida saludable;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2022)</small>
 
-XI. La asistencia social a los grupos más vulnerables y de estos, de manera especial a los pertenecientes a las comunidades indígenas; y
+XIII. La asistencia social a los grupos más vulnerables y de estos, de manera especial, a los pertenecientes a las comunidades indígenas; y
 
-XII. Las demás que establezcan esta ley y otras disposiciones legales aplicables.
+XIV. Las demás que establezcan esta ley y otras disposiciones legales aplicables.
 
 ###### Artículo 27.
 
@@ -553,9 +567,9 @@ I. Proporcionar a la población los conocimientos sobre las causas de las enferm
 
 II. Fomentar en la población el desarrollo de actitudes y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas, accidentes y protegerse de los riesgos que pongan en peligro su salud; y
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2022)</small>
 
-III. Orientar y capacitar a la población preferentemente en materia de nutrición, alimentación correcta, activación física para la salud, salud mental, salud bucal, educación sexual, planificación familiar, embarazo precoz, cuidados paliativos, riesgos de automedicación, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención de la discapacidad y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades.
+III. Orientar y capacitar a la población preferentemente en materia de nutrición, alimentación correcta, activación física para la salud, salud mental, salud bucal, educación sexual, interrupción del embarazo, planificación familiar, embarazo precoz, cuidados paliativos, riesgos de automedicación, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención de la discapacidad y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2014)</small>
 
@@ -1071,9 +1085,9 @@ En los términos que determina la legislación aplicable, es obligatoria la pres
 
 I. En el caso de urgencias; entendiéndose por tal, todo problema médico-quirúrgico agudo, que ponga en peligro la vida, un órgano o una función y que requiera atención inmediata;
 
-> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2022)</small>
 
-II. A las mujeres en periodo de gestación que presenten una emergencia obstétrica solicitada de manera directa o por la referencia de otra unidad médica, se les prestarán (sic) atención expedita con criterios de calidad, eficacia, resolutividad y gratuidad, independientemente de ser derechohabiente o afiliada a cualquier esquema de aseguramiento, en aquellas unidades con capacidad para la atención de urgencias obstétricas; y
+II. A las mujeres y personas gestantes en periodo de embarazo que presenten una emergencia obstétrica solicitada de manera directa o por la referencia de otra unidad médica, así como a las que soliciten la interrupción del embarazo en los términos del Código Penal para el Estado de Sinaloa, se les prestará atención expedita con criterios de calidad, eficacia, resolutividad y gratuidad, independientemente de ser o no derechohabiente o afiliada a cualquier esquema de aseguramiento, en aquellas unidades con capacidad para la atención de urgencias obstétricas; y
 
 III. Cuando se trate del ejercicio de la acción extraordinaria de salubridad general, en los términos que determina la Ley General de Salud.
 
@@ -1095,7 +1109,9 @@ III. De rehabilitación, que incluyen acciones tendientes a corregir las discapa
 
 La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-I. La atención de la mujer sin importar la raza, condición económica o social durante el embarazo, el parto y el puerperio;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2022)</small>
+
+I. La atención de la mujer o persona gestante sin importar la raza, condición económica o social durante el embarazo, el parto y el posparto, incluyendo la atención psicológica en caso de requerirla, determinada por un especialista en la materia;
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1229,9 +1245,9 @@ En materia de planificación familiar, las acciones de información y orientaci�
 
 Los servicios de planificación familiar comprenden:
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2022)</small>
 
-I. La promoción del desarrollo de programas de comunicación educativa en materia de servicios de planificación familiar, educación sexual, embarazo precoz y prevención de la infección por VIH y otras enfermedades de transmisión sexual, con base en objetivos y estrategias que establezcan los consejos nacional y estatal de población;
+I. La promoción del desarrollo de programas de comunicación educativa en materia de servicios de planificación familiar, educación sexual, interrupción del embarazo, embarazo precoz y prevención de la infección por VIH y otras enfermedades de transmisión sexual, con base en objetivos y estrategias que establezcan los consejos nacional y estatal de población;
 
 II. La atención y vigilancia de los aceptantes y usuarios de los servicios de planificación familiar;
 
@@ -1253,19 +1269,67 @@ Los Comités de Salud a que se refiere el artículo 137 de esta Ley, promoverán
 
 El Gobierno del Estado coadyuvará con la Secretaría de Salud, en las acciones de los programas Nacional y Estatal de planificación familiar formulados por los Consejos Nacional y Estatal de Población respectivamente, así como del elaborado sobre esta materia por el Sector Salud, buscando su incorporación al Programa Estatal de Salud.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE MARZO DE 2022)</small>
+
+### CAPÍTULO III BIS. DE LA INTERRUPCIÓN DEL EMBARAZO
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2022)</small>
+
+###### Artículo 86 Bis.
+
+Las instituciones públicas de salud procederán a la interrupción del embarazo de forma gratuita y en condiciones de calidad en los supuestos permitidos en el Código Penal para el Estado de Sinaloa, cuando la mujer o persona gestante interesada así lo solicite.
+
+Las disposiciones contenidas en la NOM-046-SSA2-2005 son de aplicación obligatoria para las instituciones públicas y privadas teniendo la obligación de dar aviso a las autoridades competentes sobre el delito del que sea objeto una mujer o persona gestante.
+
+Las instituciones públicas de salud pondrán a disposición de la mujer o persona gestante servicios de consejería médica, psicológica y social con información veraz y oportuna de las opciones con que cuentan y su derecho a decidir.
+
+Cuando la mujer o persona gestante decida practicarse la interrupción del embarazo, la institución habrá de efectuarla con toda oportunidad.
+
+Las Instituciones Públicas de Salud, deberán considerar como casos de urgencia, aquellos en los que se ponga en peligro la vida o la salud de la mujer o persona gestante o que el embarazo sea resultado de una violación o inseminación artificial indebida o que esté próximo a vencer el plazo para inducir la interrupción del embarazo de forma legal.
+
+Las instituciones públicas de salud atenderán las solicitudes de interrupción del embarazo a toda mujer o persona gestante que lo solicite, independientemente de ser o no derechohabiente o afiliada a cualquier esquema de aseguramiento. El servicio tendrá carácter universal, gratuito y sin condicionamiento alguno.
+
+También ofrecerán servicios de salud sexual, reproductiva, psicológica y de planificación familiar a la mujer o persona gestante, a quien se le haya practicado la interrupción de su embarazo, en los términos de esta Ley y de las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2022)</small>
+
+###### Artículo 86 Bis 1.
+
+El personal médico o de enfermería tendrá en todo momento la obligación de proporcionar a la mujer o persona gestante, información objetiva, veraz, suficiente y oportuna sobre los procedimientos de interrupción del embarazo, sus riesgos, consecuencias y efectos; así como de los apoyos y alternativas existentes, para que se pueda tomar la decisión de manera libre, responsable e informada.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2022)</small>
+
+###### Artículo 86 Bis 2.
+
+El personal médico o de enfermería de instituciones públicas o privadas a quien corresponda practicar la interrupción del embarazo y se declare objetor de conciencia, tendrá la obligación y responsabilidad de referir al beneficiario de la atención de la salud, de inmediato y sin mayor demora o trámite con su superior jerárquico o con personal médico o de enfermería no objetor.
+
+El personal médico y de enfermería no podrá invocar la objeción de conciencia cuando se trate de una urgencia médica o cuando su ejercicio implique una carga desproporcionada para los pacientes, en los siguientes casos:
+
+I. Cuando la negativa o postergación del servicio implique riesgo para la salud o la agravación de dicho riesgo;
+
+II. Cuando la negativa o postergación del servicio pueda producir daño, agravación del daño, la producción de secuelas y/o discapacidades;
+
+III. Cuando la negativa del servicio resulte en prolongar el sufrimiento del paciente por la tardanza en la atención médica, o signifique para éste un suplicio o carga desproporcionada;
+
+IV. Cuando no haya alternativa viable y accesible para brindar el servicio de salud requerido al paciente en condiciones de calidad y oportunidad por razones de distancia, de falta de disponibilidad de personal no objetor o algún otro inconveniente; y
+
+V. Cuando esté próximo a vencer el plazo para inducir la interrupción del embarazo de forma legal.
+
+Las instituciones públicas de salud están obligadas a garantizar la oportuna prestación de los servicios y la permanente disponibilidad de personal médico y de enfermería suficiente de carácter no objetor para asegurar que se preste la atención médica en la mejor de las condiciones posibles, conforme a las reglas de salud, sin comprometer la salud ni la vida de la persona solicitante del servicio, y sin que el ejercicio de la objeción de conciencia suponga una carga excesiva o desproporcionada en detrimento de las personas beneficiarias de los servicios de salud.
+
+El ejercicio de la objeción de conciencia del personal médico o de enfermería no derivará en ningún tipo de discriminación laboral.
+
 ### CAPÍTULO IV. DE LA SALUD MENTAL
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ### CAPÍTULO V. DE LA SALUD PÚBLICA
 
-### CAPÍTULO VI. DE LA ASISTENCIA SOCIAL
-
 ###### Artículo 87.
 
 Las disposiciones relativas a las atribuciones de las autoridades y los derechos y obligaciones en materia de salud mental, serán reguladas por la Ley especifíca que al efecto se emita.
 
-### CAPÍTULO VII. DE LOS PRESTADORES DE LOS SERVICIOS DE SALUD
+### CAPÍTULO VI. DE LA ASISTENCIA SOCIAL
 
 ###### Artículo 88.
 
@@ -1287,7 +1351,7 @@ Las disposiciones relativas a las atribuciones de las autoridades y los derechos
 
 (DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VII. DE LOS PRESTADORES DE LOS SERVICIOS DE SALUD
 
 ###### Artículo 93.
 
@@ -1333,7 +1397,7 @@ Los gastos que se generen por la compra, instalación y mantenimiento de los des
 
 En caso de incumplir con la compra, instalación y mantenimiento de los desfibriladores automáticos externos, así como por la capacitación del personal para su uso, por parte de los responsables a que hace referencia el artículo 93 Bis 2 de esta Ley, la Secretaría de Salud girarán (sic) un apercibimiento para que un plazo no mayor a diez días hábiles, contados a partir de su notificación cumplan con la obligación; en caso de omisión se procederá a la clausura del inmueble respectivo.
 
-### CAPÍTULO I. DE LOS USUARIOS DE LOS SERVICIOS DE SALUD
+### CAPÍTULO ÚNICO
 
 ###### Artículo 94.
 
@@ -1377,7 +1441,7 @@ VII. La promoción de la educación y la capacitación para el trabajo, así com
 
 La atención médica que se preste a los adultos mayores deberá cumplir con los criterios establecidos en la Ley de Integración Social de Personas con Discapacidad del Estado, las Normas Oficiales Mexicanas y demás disposiciones legales aplicables, e incluirá programas educativos y de promoción de la salud.
 
-### CAPÍTULO II. DE LA PARTICIPACIÓN DE LA COMUNIDAD
+### CAPÍTULO I. DE LOS USUARIOS DE LOS SERVICIOS DE SALUD
 
 ###### Artículo 98.
 
@@ -1465,7 +1529,7 @@ La Secretaría de Salud, en coordinación con la Dirección de Profesiones, vigi
 
 ## TÍTULO SEXTO. DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LA PARTICIPACIÓN DE LA COMUNIDAD
 
 ###### Artículo 110.
 
@@ -1683,7 +1747,7 @@ La estructura orgánica interna de la Comisión será la que fije su Reglamento 
 
 ## TÍTULO SÉPTIMO. DE LOS USUARIOS DE LOS SERVICIOS DE SALUD Y PARTICIPACIÓN DE LA COMUNIDAD
 
-### CAPÍTULO II. DEL CONSEJO ESTATAL DE TRASPLANTES DE ÓRGANOS Y TEJIDOS HUMANOS DE SINALOA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 127.
 
@@ -1729,7 +1793,7 @@ Las personas e instituciones públicas o privadas que tengan conocimiento de acc
 
 De conformidad con las disposiciones legales aplicables, los agentes del Ministerio Público o quienes ejerzan sus funciones que reciban informes o denuncias sobre personas que requieran de servicios de salud de urgencia, deberán disponer que las mismas sean trasladadas de inmediato al establecimiento de salud más cercano.
 
-### CAPÍTULO III. DEL REGISTRO ESTATAL DE DONADORES
+### CAPÍTULO II. DEL CONSEJO ESTATAL DE TRASPLANTES DE ÓRGANOS Y TEJIDOS HUMANOS DE SINALOA
 
 ###### Artículo 134.
 
@@ -1805,7 +1869,7 @@ Se podrá denunciar ante las autoridades sanitarias y el Ministerio Público, la
 
 ## TÍTULO OCTAVO. DE LA DISPOSICIÓN DE ÓRGANOS Y TEJIDOS DE SERES HUMANOS
 
-### CAPÍTULO IV. DE LA PARTICIPACIÓN SOCIAL
+### CAPÍTULO III. DEL REGISTRO ESTATAL DE DONADORES
 
 ###### Artículo 140.
 
@@ -1831,7 +1895,7 @@ III. Colaborar en la vigilancia sanitaria de los trasplantes, fomentando la coor
 
 Las autoridades estatales que intervengan en los diversos procedimientos de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, actuarán con la debida diligencia que ameritan estos casos, auxiliarán en el ágil desahogo de los trámites que por ley deben cubrirse.
 
-### CAPÍTULO I. DE LOS PROFESIONALES, TÉCNICOS Y AUXILIARES
+### CAPÍTULO IV. DE LA PARTICIPACIÓN SOCIAL
 
 ###### Artículo 144.
 
@@ -1935,9 +1999,7 @@ El Consejo podrá determinar la creación de comités y grupos de trabajo, tanto
 
 La integración de cada uno de los comités, así como su organización y funcionamiento, se sujetarán a lo que disponga el Reglamento Interno del Consejo.
 
-### CAPÍTULO I BIS. DEL EJERCICIO ESPECIALIZADO DE LA CIRUGÍA
-
-> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+### CAPÍTULO I. DE LOS PROFESIONALES, TÉCNICOS Y AUXILIARES
 
 ###### Artículo 150.
 
@@ -1959,7 +2021,9 @@ IV. Los establecimientos autorizados, conforme a la legislación aplicable, para
 
 Los establecimientos autorizados para la realización de trasplantes en casos específicos en que se encuentren ante un probable donador deberán solicitar y obtener información del Registro Estatal de Donadores, así como la disposición que el mismo hubiese hecho respecto de sus órganos y tejidos, con el objeto de proceder, en su caso y previo el cumplimiento de la legislación aplicable.
 
-### CAPÍTULO II. DEL SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
+### CAPÍTULO I BIS. DEL EJERCICIO ESPECIALIZADO DE LA CIRUGÍA
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 153.
 
@@ -1983,7 +2047,7 @@ El Consejo Estatal de Trasplantes definirá la aplicación y los rubros en que s
 
 ## TÍTULO NOVENO. RECURSOS HUMANOS PARA LA SALUD
 
-### CAPÍTULO III. DE LA FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
+### CAPÍTULO II. DEL SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
 ###### Artículo 158.
 
@@ -2025,7 +2089,7 @@ Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las espe
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPÍTULO ÚNICO. DE LAS ACCIONES Y BASES PARA LA INVESTIGACIÓN
+### CAPÍTULO III. DE LA FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
 
 ###### Artículo 162 Bis.
 
@@ -2055,7 +2119,7 @@ La oferta de los servicios que se haga a través de medios informativos, ya sean
 
 Las sociedades, asociaciones, colegios o federaciones de profesionistas pondrán a disposición de la Secretaría de Salud, un directorio electrónico, con acceso al público que contenga los nombres, datos de los profesionistas que lleven a cabo procedimientos médico-quirúrgicos y certificado de especialización vigente, además de proporcionar el nombre y datos de la Institución y/o Instituciones educativas, que avalen su ejercicio profesional.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. DE LAS ACCIONES Y BASES PARA LA INVESTIGACIÓN
 
 ###### Artículo 163.
 
@@ -2127,7 +2191,7 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 ## TÍTULO DÉCIMO. INVESTIGACIÓN PARA LA SALUD
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO
 
 ###### Artículo 173.
 
@@ -2191,7 +2255,7 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 ## TÍTULO DÉCIMO PRIMERO. INFORMACIÓN PARA LA SALUD
 
-### CAPÍTULO II. DE LOS MERCADOS Y CENTROS DE ABASTO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 179.
 
@@ -2221,7 +2285,7 @@ Las autoridades sanitarias orientarán la captación, producción, procesamiento
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
 
-### CAPÍTULO III. DE LAS CONSTRUCCIONES
+### CAPÍTULO II. DE LOS MERCADOS Y CENTROS DE ABASTO
 
 ###### Artículo 183.
 
@@ -2237,7 +2301,7 @@ Para los efectos del artículo anterior, se tomará en cuenta la distancia de ce
 
 ## TÍTULO DÉCIMO TERCERO. SALUBRIDAD LOCAL
 
-### CAPÍTULO IV. DE LOS CEMENTERIOS, CREMATORIOS, FUNERARIAS Y CRIPTAS
+### CAPÍTULO III. DE LAS CONSTRUCCIONES
 
 ###### Artículo 186.
 
@@ -2291,7 +2355,7 @@ B). Asistencia social.
 
 En todo lo no previsto en este Título, se estará a lo que disponga esta ley, los reglamentos respectivos, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes.
 
-### CAPÍTULO V. DE LA LIMPIEZA PÚBLICA
+### CAPÍTULO IV. DE LOS CEMENTERIOS, CREMATORIOS, FUNERARIAS Y CRIPTAS
 
 ###### Artículo 194.
 
@@ -2305,7 +2369,7 @@ Los mercados y centros de abasto estarán bajo la vigilancia de la autoridad com
 
 Los vendedores, locatarios y personal cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar en esos lugares las condiciones higiénicas indispensables para el debido mantenimiento de sus locales.
 
-### CAPÍTULO VI. DE LOS RASTROS
+### CAPÍTULO V. DE LA LIMPIEZA PÚBLICA
 
 ###### Artículo 197.
 
@@ -2347,7 +2411,7 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando se contravengan algunas de las disposiciones anteriores o las del reglamento respectivo, la autoridad sanitaria competente podrá, previo cumplimiento de los requisitos legales respectivos, ordenar la suspensión de las obras o su demolición apoyándose en las demás autoridades competentes.
 
-### CAPÍTULO VII. DEL AGUA POTABLE Y ALCANTARILLADO
+### CAPÍTULO VI. DE LOS RASTROS
 
 ###### Artículo 207.
 
@@ -2377,7 +2441,7 @@ I. Cuando se trate de cadáveres de personas que hubieren padecido enfermedades 
 
 II. Cuando el traslado se pretenda realizar después de las cuarenta y ocho horas posteriores a la muerte de que se trata.
 
-### CAPÍTULO VIII. DE LA PROSTITUCIÓN
+### CAPÍTULO VII. DEL AGUA POTABLE Y ALCANTARILLADO
 
 ###### Artículo 211.
 
@@ -2399,7 +2463,7 @@ Los animales muertos deberán ser incinerados o enterrados antes de que entren e
 
 Los residuos sólidos se recibirán de preferencia en transportes dotados de caja hermética y su manejo será sólo en lo estrictamente indispensable para transportarse al sitio de disposición final.
 
-### CAPÍTULO IX. DE LOS RECLUSORIOS
+### CAPÍTULO VIII. DE LA PROSTITUCIÓN
 
 ###### Artículo 216.
 
@@ -2425,7 +2489,7 @@ El sacrifico (sic) de animales en los rastros autorizados se efectuará en los d
 
 El funcionamiento, aseo y conservación de los rastros municipales, estará a cargo de la autoridad municipal competente. Si fueren particulares, quedarán a cargo de las personas responsables de realizarlo y bajo la inspección de las autoridades competentes. En ambos casos, quedarán sujetos a la observancia de lo dispuesto por esta Ley, reglamentos y normas técnicas aplicables. Queda prohibido el funcionamiento de rastros no autorizados por la autoridad sanitaria competente.
 
-### CAPÍTULO X. DE LOS BAÑOS PÚBLICOS
+### CAPÍTULO IX. DE LOS RECLUSORIOS
 
 ###### Artículo 222.
 
@@ -2459,7 +2523,7 @@ Los proyectos para la implantación del sistema de alcantarillado deberán ser d
 
 Queda prohibido que los desechos o líquidos que produzcan los caños sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
 
-### CAPÍTULO XI. DE LOS CENTROS DE REUNIÓN Y DE ESPECTÁCULOS
+### CAPÍTULO X. DE LOS BAÑOS PÚBLICOS
 
 ###### Artículo 230.
 
@@ -2485,7 +2549,7 @@ El ayuntamiento, considerando el dictamen sanitario de la Secretaría de Salud d
 
 El Ayuntamiento podrá revocar las autorizaciones cuando se dejen de cumplir o se inflijan las disposiciones de esta Ley y los reglamentos respectivos, o por causas de interés público.
 
-### CAPÍTULO XII. DE LAS PELUQUERÍAS, SALONES DE BELLEZA O DE ESTÉTICA
+### CAPÍTULO XI. DE LOS CENTROS DE REUNIÓN Y DE ESPECTÁCULOS
 
 ###### Artículo 233.
 
@@ -2499,7 +2563,21 @@ Los reclusorios estarán sujetos al control sanitario de los Gobiernos Estatal o
 
 Los reclusorios deberán contar, además de lo previsto por las disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes, con un departamento de baños y otro de enfermería, este último para la atención de aquellos casos de enfermedad de los internos, en que no sea necesario el traslado de éstos a un hospital.
 
-### CAPÍTULO XIII. DE LOS HOTELES, MOTELES, PENSIONES Y CASAS DE HUÉSPEDES
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2022)</small>
+
+###### Artículo 235 Bis.
+
+Los reclusorios que contengan internas mujeres o personas gestantes, contarán de forma permanente con servicios médicos de atención integral de la salud materno infantil. Para tal efecto, la Secretaría tendrá, entre otras, las siguientes atribuciones:
+
+I. Elaborar programas de salud integral para las mujeres y personas gestantes, desde una perspectiva de género, poniendo énfasis en la salud sexual y reproductiva, que consideren como mínimo la realización de estudios de detección de enfermedades y atención de cáncer de mama y cervicouterino, así como de VIH/SIDA a quienes lo soliciten, además de llevar a cabo campañas informativas de salud materno-infantil;
+
+II. Facilitar el acceso oportuno, bajo consentimiento informado, a métodos anticonceptivos, anticoncepción de emergencia, e interrupción del embarazo y de información sobre atención materno-infantil;
+
+III. Desarrollar programas para la prevención y atención de los problemas derivados del consumo de sustancias psicoactivas entre las mujeres y/o personas gestantes en reclusión, y
+
+IV. La atención integral del embarazo, parto, posparto y del recién nacido, así como la salud de madres e hijos que permanezcan con ellas, hasta los seis años de edad.
+
+### CAPÍTULO XII. DE LAS PELUQUERÍAS, SALONES DE BELLEZA O DE ESTÉTICA
 
 ###### Artículo 236.
 
@@ -2509,7 +2587,7 @@ Para los efectos de esta Ley, se entiende por baño público el establecimiento 
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta ley, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas.
 
-### CAPÍTULO XIV. DE LAS TINTORERÍAS, LAVANDERÍAS Y LAVADEROS PÚBLICOS
+### CAPÍTULO XIII. DE LOS HOTELES, MOTELES, PENSIONES Y CASAS DE HUÉSPEDES
 
 ###### Artículo 238.
 
@@ -2525,7 +2603,7 @@ La autoridad municipal, una vez terminada la edificación del centro de reunión
 
 El funcionamiento de los establecimientos a que se refiere el artículo 238 deberá ajustarse a lo dispuesto por las disposiciones legales aplicables, y contará con los servicios de seguridad e higiene que establezcan las normas correspondientes.
 
-### CAPÍTULO XV. DE LOS MEDIOS DE TRANSPORTE PÚBLICO
+### CAPÍTULO XIV. DE LAS TINTORERÍAS, LAVANDERÍAS Y LAVADEROS PÚBLICOS
 
 ###### Artículo 241.
 
@@ -2551,7 +2629,7 @@ Los establecimientos cubiertos y descubiertos dedicados al fisicoculturismo, a e
 
 El funcionamiento de los establecimientos mencionados en el artículo anterior y el personal que en ellos labore, deberán apegarse a lo señalado en esta Ley y demás normas aplicables.
 
-### CAPÍTULO XVI. DE LAS GASOLINERAS
+### CAPÍTULO XV. DE LOS MEDIOS DE TRANSPORTE PÚBLICO
 
 ###### Artículo 246.
 
@@ -2567,7 +2645,7 @@ III. Casa de huéspedes o pensión: casa donde se albergan personas para vivir e
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta ley, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas.
 
-### CAPÍTULO XVII. DE LA COMERCIALIZACIÓN Y VENTA DE ALIMENTOS Y BEBIDAS EN LA VÍA PÚBLICA
+### CAPÍTULO XVI. DE LAS GASOLINERAS
 
 ###### Artículo 248.
 
@@ -2583,7 +2661,7 @@ III. Lavadero público: el establecimiento al cual acuden los interesados para r
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar a cualquiera de los servicios señalados en el artículo anterior, así como para su funcionamiento, se requiere de contar con autorización sanitaria, misma que se expedirá cuando el solicitante haya satisfecho los requisitos que establezcan las normas aplicables.
 
-### CAPÍTULO XVIII. DE LOS CENTROS ANTIRRÁBICOS
+### CAPÍTULO XVII. DE LA COMERCIALIZACIÓN Y VENTA DE ALIMENTOS Y BEBIDAS EN LA VÍA PÚBLICA
 
 ###### Artículo 250.
 
@@ -2597,9 +2675,7 @@ Los transportes que circulen en el interior de un solo municipio, deberán conta
 
 Los transportes que circulen por más de un municipio del territorio estatal, deberán contar con la autorización sanitaria correspondiente que será expedida por el Gobierno del Estado, una vez cubiertos los requisitos que marca esta Ley, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes.
 
-### CAPÍTULO XIX. DE LOS GIMNASIOS
-
-> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2008)</small>
+### CAPÍTULO XVIII. DE LOS CENTROS ANTIRRÁBICOS
 
 ###### Artículo 253.
 
@@ -2609,7 +2685,9 @@ Para los efectos de esta Ley, se entiende por gasolinera el establecimiento dest
 
 Las gasolineras deberán contar con las instalaciones de seguridad e higiene que establezca el Reglamento correspondiente, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes.
 
-### CAPÍTULO I. DE LAS AUTORIZACIONES
+### CAPÍTULO XIX. DE LOS GIMNASIOS
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 255.
 
@@ -2621,7 +2699,7 @@ El comercio ambulante de alimentos y bebidas en la vía pública, deberá sujeta
 
 La Secretaría de Salud y los ayuntamientos se coordinarán para llevar a efecto el control sanitario del comercio ambulante de alimentos y bebidas en la vía pública.
 
-### CAPÍTULO II. DE LOS CERTIFICADOS
+### CAPÍTULO I. DE LAS AUTORIZACIONES
 
 ###### Artículo 257.
 
@@ -2653,7 +2731,7 @@ Las autoridades sanitarias y los centros antirrábicos llevarán a cabo campaña
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2008)</small>
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LOS CERTIFICADOS
 
 ###### Artículo 259 Bis.
 
@@ -2723,7 +2801,7 @@ Queda totalmente prohibido, en los establecimientos antes mencionados la venta o
 
 ## TÍTULO DÉCIMO CUARTO. AUTORIZACIONES Y CERTIFICACIONES
 
-### CAPÍTULO I. DE LAS MEDIDAS DE SEGURIDAD SANITARIA
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 260.
 
@@ -2829,7 +2907,7 @@ La autoridad sanitaria emitirá la resolución que corresponda al concluir la au
 
 La resolución de revocación surtirá sus efectos, en su caso, de clausura definitiva, prohibición de venta, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPÍTULO II. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. DE LAS MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### Artículo 277.
 
@@ -2867,7 +2945,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TÍTULO DÉCIMO QUINTO. VIGILANCIA SANITARIA
 
-### CAPÍTULO III. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO II. DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 282.
 
@@ -2931,7 +3009,7 @@ La negativa a firmar el acta o a recibir copia de la misma o de la orden de visi
 
 ## TÍTULO DÉCIMO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
+### CAPÍTULO III. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### Artículo 291.
 
@@ -3033,7 +3111,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación, limpieza o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y del dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
 
-### CAPÍTULO V. PRESCRIPCIÓN
+### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
 
 ###### Artículo 306.
 
@@ -3120,6 +3198,8 @@ II. A la persona que en rebeldía se niegue a cumplir los requerimientos y dispo
 Procederá esta sanción, si previamente se dictó cualquiera otra de las sanciones a que se refiere este Capítulo.
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
+
+### CAPÍTULO V. PRESCRIPCIÓN
 
 ###### Artículo 315.
 
@@ -3562,3 +3642,11 @@ P.O. 29 DE SEPTIEMBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. El Titular del Poder Ejecutivo del Estado y el Organismo Público Descentralizado Servicios de Salud de Sinaloa, dentro de los noventa días posteriores al inicio de vigencia del presente Decreto deberán adecuar la normatividad necesaria para la debida atención del mismo.
+
+P.O. 11 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 79”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
