@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-ecologia-y-117478"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-12-02"
-last_updated: "2019-10-16"
+last_updated: "2022-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117478&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-10-07"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE ECOLOGÍA Y CAMBIO CLIMÁTICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MARZO DE 2022.
 
 Estatuto publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 2 de diciembre de 2016.
 
@@ -171,13 +171,17 @@ VI. Los ingresos que obtenga por:
 
 a) Los recursos que las Entidades Federativas y Municipios le destinen;
 
-b) Los fondos que obtenga para el financiamiento de programas específicos;
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2022)</small>
+
+b) Los recursos que se obtengan para el financiamiento de programas específicos;
 
 c) Los servicios que preste y las actividades que realice, y
 
 d) La comercialización de sus obras literarias, derechos y demás que correspondan.
 
-VII. Los demás bienes, derechos y aprovechamientos que le fijen las leyes y reglamentos o que provengan de otros fondos o aportaciones.
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2022)</small>
+
+VII. Los demás bienes, derechos y aprovechamientos que le fijen las leyes y reglamentos o que provengan de otras fuentes de ingreso.
 
 ### CAPÍTULO SEGUNDO. DE LA COMPETENCIA
 
@@ -202,6 +206,22 @@ V. Realizar análisis de prospectiva sectorial, y colaborar en la elaboración d
 VI. Evaluar el cumplimiento de los objetivos de adaptación y mitigación previstos en la LGCC, así como las metas y acciones contenidas en la Estrategia Nacional, el Programa Especial y los programas de las entidades federativas a que se refiere dicho ordenamiento, y
 
 VII. Emitir recomendaciones sobre las políticas y acciones de mitigación o adaptación al cambio climático, así como sobre las evaluaciones que en la materia realizan las dependencias de la administración pública federal centralizada y paraestatal, de las entidades federativas y de los municipios.
+
+> <small>(ADICIONADA, D.O.F. 11 DE MARZO DE 2022)</small>
+
+VIII. Coordinar y realizar la democratización de estudios, recursos, fondos y proyectos de investigación científica o tecnológica creando sinergias con instituciones académicas, de investigación, asociaciones y movimientos sociales públicas o privadas, nacionales o extranjeras en materia de cambio climático, protección al ambiente y preservación y restauración del equilibrio ecológico;
+
+> <small>(ADICIONADA, D.O.F. 11 DE MARZO DE 2022)</small>
+
+IX. Coadyuvar en la elaboración de análisis, estudios, programas de capacitación y proposición de políticas, a fin de promover y atender la problemática de justicia y acción climática.
+
+> <small>(ADICIONADA, D.O.F. 11 DE MARZO DE 2022)</small>
+
+X. Crear sinergias con actores locales, asociaciones, centros de educación superior y movimientos sociales.
+
+> <small>(ADICIONADA, D.O.F. 11 DE MARZO DE 2022)</small>
+
+XI. Realizar análisis de prospectiva sectorial, y colaborar en la elaboración de estrategias, planes, programas, instrumentos, contribuciones determinadas que permitan la sensibilización de actores a nivel nacional y acciones relacionadas con el desarrollo sustentable, el medio ambiente y el cambio climático, incluyendo la estimación de los costos futuros asociados al cambio climático, y los beneficios derivados de las acciones para enfrentarlo.
 
 ###### Artículo 8.
 
@@ -310,6 +330,10 @@ II. Coordinación General de Adaptación al Cambio Climático y Ecología;
 III. Coordinación General de Contaminación y Salud Ambiental;
 
 IV. (DEROGADA, D.O.F. 16 DE OCTUBRE DE 2019)
+
+> <small>(ADICIONADA, D.O.F. 11 DE MARZO DE 2022)</small>
+
+IV Bis. Coordinación General de Proyectos Estratégicos y Alternativas contra el Cambio Climático.
 
 > <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
@@ -963,6 +987,48 @@ V. Apoyar a la Secretaría conforme a la Ley Federal sobre Metrología y Normali
 
 (DEROGADO, D.O.F. 16 DE OCTUBRE DE 2019)
 
+> <small>(ADICIONADO, D.O.F. 11 DE MARZO DE 2022)</small>
+
+###### Artículo 23 Bis.
+
+Facultades de la Coordinación General de Proyectos Estratégicos y Alternativas contra el Cambio Climático.
+
+I. Coordinar, promover y desarrollar, con la participación que corresponda a otras unidades administrativas del INECC, dependencias y entidades de los tres niveles de gobierno e instituciones, la investigación científica y tecnológica en materia de proyectos estratégicos y alternativas contra el cambio climático, incluyendo los siguientes temas:
+
+a) Justicia y Acción Climática;
+
+b) Iniciativas y alternativas contra el cambio climático;
+
+c) Participación ciudadana contra el cambio climático;
+
+d) Inclusión y políticas transversales contra el cambio climático;
+
+e) Análisis de alternativas ciudadanas contra el cambio climático,
+
+f) Análisis comparativo de políticas e iniciativas internacionales contra el cambio climático.
+
+II. Atender los asuntos estratégicos que le sean encomendados por la o el titular de la Dirección General o la o el titular de la Secretaría;
+
+III. Realizar análisis de prospectiva sectorial, y participar en la elaboración de planes, estrategias, programas, instrumentos y contribuciones determinadas a nivel nacional en materia de alternativas contra el cambio climático y acciones relacionadas;
+
+IV. Proponer, impulsar y apoyar técnicamente la elaboración de normas en materia de su competencia;
+
+V. Colaborar con instituciones académicas, gubernamentales y de la sociedad civil, nacionales e internacionales, y con el sector privado en temas relacionados a la lucha contra el cambio climático y la justicia ambiental; así como otorgar apoyo técnico a los programas que se realicen en los centros de investigación en materia de ecología y cambio climático cuando éstos lo soliciten;
+
+VI. Coadyuvar en la estimación de los impactos económicos, sociales y ambientales futuros, asociados al cambio climático y el agotamiento de recursos naturales y coordinar las acciones de estructuración de estrategias para hacer frente al cambio climático;
+
+VII. Apoyar en acciones específicas contra la deforestación en tanto que factor específico que contribuye al cambio climático a través de estudios, análisis o coordinación de acciones con otras áreas de la administración pública, gobiernos locales, sociedad civil o instituciones de educación superior;
+
+VIII. Realizar los estudios y análisis respectivos para una comprensión transversal de los fenómenos que provocan el cambio climático y de los elementos necesarios para la determinación específica de acciones en materia de justicia climática;
+
+IX. Apoyar a la Dirección General en la coordinación de asuntos transversales, así como en auxiliar a las otras coordinaciones generales en los asuntos que le sean específicamente asignados;
+
+X. Coordinar las acciones que el Instituto realice a nivel internacional conforme los lineamientos que al efecto le dicten la o el titular de la Dirección General. o la o el titular de la Secretaría;
+
+XI. Coadyuvar en la construcción de capacidades de las entidades federativas y de los municipios para determinar las alternativas específicas contra el cambio climático;
+
+XII. Los demás que le asigne la o el titular de la Dirección General. o la o el titular de la Secretaría;
+
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
 #### SECCIÓN QUINTA. De la Coordinación General de Divulgación, Seguimiento y Evaluación de Políticas Públicas de Cambio Climático
@@ -1247,15 +1313,19 @@ Del Registro de Poderes
 
 La Dirección General llevará, con apoyo de la Unidad Ejecutiva de Asuntos Jurídicos, Información y Transparencia, un registro del otorgamiento, sustitución y revocación de los poderes generales y especiales.
 
-> <small>(REFORMADO EN SU ENCABEZADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO EN SU ENCABEZADO, D.O.F. 11 DE MARZO DE 2022)</small>
 
 ###### Artículo 31.
 
-De la Suplencia por ausencia de las personas Servidoras Públicas
+De la Suplencia por ausencia de las personas Servidoras Públicas y del Nombramiento del Titular de la Dirección General.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+> <small>(ADICIONADO, D.O.F. 11 DE MARZO DE 2022)</small>
 
-Las suplencias por ausencia de las personas servidoras públicas que ocupen los cargos de Dirección General, Coordinación General, Titular de Unidad, Direcciones, Subdirecciones y las Jefaturas de Departamento, serán suplidas por las personas servidoras públicas del nivel jerárquico inmediato inferior en los asuntos de su respectiva competencia.
+En caso de ausencia temporal o definitiva de la persona Titular de la Dirección General, corresponderá a la persona Titular de la Dependencia coordinadora de Sector designar a la o el servidor público que suplirá temporalmente dicha ausencia en tanto sea designado una o un titular por parte del titular del Poder Ejecutivo; en este supuesto, el suplente tendrá temporalmente todas las atribuciones establecidas en el artículo 18 del presente estatuto. Dicha designación podrá recaer en una persona servidora pública perteneciente a la dependencia coordinadora del sector.
+
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2022)</small>
+
+Las suplencias por ausencia de las personas servidoras públicas que ocupen los cargos de Titulares de las Coordinaciones Generales, Titulares de Unidad, Direcciones, Subdirecciones y las Jefaturas de Departamento, serán suplidas por las personas servidoras públicas del nivel jerárquico inmediato inferior en los asuntos de su respectiva competencia. Dichas suplencias deberán ser designadas por el superior jerárquico inmediato.
 
 Las suplencias sólo tendrán efectos para el trámite y resolución de los asuntos que correspondan, y no representarán un nuevo nombramiento ni tendrán implicación alguna en el tabulador de sueldos y prestaciones.
 
@@ -1312,3 +1382,17 @@ c) Las correspondientes a la Unidad de Administración y Finanzas por la Unidad 
 Cuarto. Inscríbase en el Registro Público de Organismos Descentralizados para los efectos a que haya lugar.
 
 Quinto. Derivado de la nueva organización estructural, la Dirección General modificará el Manual General y los Manuales Específicos que correspondan, en un plazo no mayor a un año, contados a partir del día siguiente a que el presente Estatuto se publique en el órgano de difusión federal antes citado.
+
+D.O.F. 11 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DAN A CONOCER LAS REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE ECOLOGÍA Y CAMBIO CLIMÁTICO”.]
+
+Primero. Las presentes reformas y adiciones al presente Estatuto Orgánico del Instituto Nacional de Ecología y Cambio Climático entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan a las presentes reformas y adiciones.
+
+Tercero. En tanto se obtiene por parte de las instancias competentes la autorización formal de la estructura que prevé este Estatuto, las atribuciones conferidas a la Coordinación General de Proyectos Estratégicos y Alternativas contra el Cambio Climático se ejercerán por la persona servidora pública que ocupa la plaza M41, adscrita a la Dirección General del Instituto Nacional de Ecología y Cambio Climático.
+
+Cuarto. Inscríbase en el Registro Público de Organismos Descentralizados para los efectos a que haya lugar.
+
+Quinto. Una vez autorizada la nueva organización estructural, la Dirección General modificará el Manual General y los Manuales Específicos que correspondan, en un plazo no mayor a un año.
