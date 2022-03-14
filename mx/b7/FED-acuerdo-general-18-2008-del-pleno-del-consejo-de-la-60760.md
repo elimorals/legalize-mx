@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-18-2008-del-pleno-del-consejo-de-la-60760"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-04-30"
-last_updated: "2018-10-29"
+last_updated: "2022-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60760&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2008-04-16"
 
 ACUERDO GENERAL 18/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA TERCERA REGIÓN, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2022.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 30 de abril de 2008.
 
@@ -95,15 +95,33 @@ b) Juzgado Sexto de Distrito del Centro Auxiliar de la Tercera Región, con resi
 
 SEGUNDO. INICIO DE FUNCIONES. El Pleno del Consejo de la Judicatura Federal determinará la fecha de inicio de funciones de los órganos jurisdiccionales que integrarán el Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO NOVENO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-TERCERO. LIBROS DE GOBIERNO. A manera de mecanismos de control de los asuntos de sus respectivas competencias y como auxiliar en la supervisión de los órganos jurisdiccionales auxiliares que formarán parte del Centro Auxiliar de la Tercera Región, se contará con libros electrónicos de registro que se les implementará en el Sistema Integral de Seguimiento de Expedientes (SISE), que tiene a su cargo la Dirección General de Estadística y Planeación Judicial.
+TERCERO. LIBROS DE GOBIERNO. A manera de mecanismos de control de los asuntos de sus respectivas competencias y como auxiliar en la supervisión de los órganos jurisdiccionales auxiliares que formarán parte del Centro Auxiliar de la Tercera Región, se contará con libros electrónicos de registro que se les implementará en el Sistema Integral de Seguimiento de Expedientes (SISE), que tiene a su cargo la Dirección General de Gestión Judicial.
 
 Dichos libros electrónicos de registro se formarán automáticamente con la captura de los datos y registros que el personal correspondiente de los órganos jurisdiccionales, lleve a cabo en el mencionado Sistema Integral de Seguimiento de Expedientes (SISE).
 
 CUARTO. (DEROGADO POR EL TRANSITORIO OCTAVO DEL ACUERDO GENERAL 5/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE MARZO DE 2018)
 
-QUINTO. (DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL MECANISMO DE ENVÍO, RECEPCIÓN Y DEVOLUCIÓN DE LAS REMESAS RELATIVAS A LOS APOYOS QUE PRESTAN LOS ÓRGANOS JURISDICCIONALES AUXILIARES, D.O.F. 15 DE ABRIL DE 2016)
+> <small>[N. DE E. VÉASE LA LITERALIDAD DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 14 DE MARZO DE 2022, PÁGINA 139. SE SUGUIERE CONSULTAR LA REFORMA INMEDIATA ANTERIOR A LA DEL 15 DE ABRIL DE 2016.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO] POR EL PUNTO NOVENO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+QUINTO. FUNCIONAMIENTO. La Comisión de Creación de Nuevos Órganos, mediante los dictámenes que elaborará la Secretaría Ejecutiva de Creación de Nuevos Órganos; determinará los juzgados de Distrito y tribunales de Circuito que recibirán el apoyo en el dictado de sentencias por el Centro Auxiliar de la Tercera Región. Asimismo, la Comisión determinará el tiempo, número y cualidad de los asuntos que se enviarán a los órganos jurisdiccionales auxiliares, lo cual se dará a conocer por medio de Acuerdos de la propia Comisión.
+
+... (sic)
+
+1) a 7) ... (sic)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO NOVENO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+8) La Dirección General de Tecnologías de la Información, se encargará de lo concerniente a la adecuación del sistema automatizado que se llevará en la Oficina de Correspondencia Común del Centro Auxiliar de la Tercera Región, así como la de los órganos jurisdiccionales de origen, para el envío de documentación y expedientes.
+
+… (sic)
+
+… (sic)
+
+… (sic)
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
 
@@ -231,9 +249,11 @@ del órgano jurisdiccional al que se
 
 encuentren adscritos.
 
-SEPTIMO. ESTADISTICA E INFORMES. Los titulares de los órganos jurisdiccionales que integran el Centro Auxiliar de la Tercera Región, deberán enviar dentro de los primeros cinco días de cada mes, su reporte estadístico mensual a la Dirección General de Estadística y Planeación Judicial y a la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-La Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos, con el reporte estadístico que remitan los órganos jurisdiccionales Auxiliares, informará a la Comisión de Creación de Nuevos Organos el estado que guardan, y ésta, lo enviará al Pleno del Consejo de la Judicatura Federal para su conocimiento.
+SÉPTIMO. ESTADÍSTICA E INFORMES. Las y los titulares de los órganos jurisdiccionales que integran el Centro Auxiliar de la Tercera Región, deberán enviar dentro de los primeros cinco días de cada mes, su reporte estadístico mensual a la Dirección General de Estadística Judicial y a la Secretaría Ejecutiva de Creación de Nuevos Órganos.
+
+La Secretaría Ejecutiva de Creación de Nuevos Órganos, con el reporte estadístico que remitan los órganos jurisdiccionales Auxiliares, informará a la Comisión de Creación de Nuevos Órganos el estado que guardan, y ésta, lo enviará al Pleno del Consejo de la Judicatura Federal para su conocimiento.
 
 OCTAVO. ESPACIO FISICO. La Comisión de Administración proveerá lo conducente, para asignar el espacio físico que ocupará el Centro Auxiliar de la Tercera Región, y ordenará se les dote de los recursos materiales que se estimen necesarios, de acuerdo con las condiciones particulares de cada caso.
 
@@ -880,3 +900,21 @@ e) …
 III. ...”
 
 OCTAVO. El Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco, previo a su conclusión de funciones deberá remitir los asuntos pendientes de resolución de manera equitativa a los Tribunales Unitarios del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa. Los asuntos que reciban los Tribunales Unitarios en cita, formarán parte de la remesa del mes correspondiente de dos mil dieciocho.
+
+D.O.F. 14 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral del Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en los portales electrónicos del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las Direcciones Generales de Gestión Judicial y Tecnologías de la Información llevarán a cabo las acciones necesarias para ajustar el sistema computarizado de turno en términos de las reglas establecidas en este Acuerdo General, en un plazo no mayor de dos meses, contados a partir de la entrada en vigor del presente instrumento.
+
+CUARTO. Las referencias hechas a los Tribunales Colegiados de Apelación se entenderán formuladas respecto de los Tribunales Unitarios de Circuito, hasta en tanto aquéllos entren en operación.
+
+QUINTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal deberá actualizar, dentro de los seis meses siguientes a la entrada en vigor de este Acuerdo, los criterios de turno establecidos en la normativa aplicable a los tribunales Unitarios de Circuito, cuando se constituyan como Tribunal de Alzada para la atención de los asuntos del sistema penal acusatorio, de conformidad con lo establecido en el presente Acuerdo.
+
+SEXTO. El cambio en la vigencia del certificado digital de la FIREL surtirá efecto a partir del 16 de marzo de 2022.
+
+SÉPTIMO. Las consultas a que se refiere el artículo 46 Ter del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, serán recibidas a través del Sistema de Gestión Documental (SIGDOC) a partir del 16 de marzo de 2022. Se instruye a las direcciones generales de Estrategia y Transformación Digital y Tecnologías de la Información la realización de todas las acciones necesarias para implementar la conexión de los órganos jurisdiccionales con la Secretaría Ejecutiva de Creación de Nuevos Órganos, a través del referido Sistema.
