@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-jose-de-gracia-aguascalientes-71233"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-14"
-last_updated: "2022-02-28"
+last_updated: "2022-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2022.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 14 de diciembre de 2009.
 
@@ -7537,6 +7537,112 @@ VIII. Las demás funciones que le confieren el Reglamento Interno, los acuerdos 
 
 La Unidad Municipal de Protección Civil, será el órgano de la Administración Pública Municipal, encargado en forma directa de velar por la observancia y aplicación del presente título, y en caso de hacerse necesario hacer uso de la fuerza pública para su debido cumplimiento.
 
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2022)</small>
+
+###### ARTÍCULO 767 - A.
+
+El H. Cuerpo de Bomberos perteneciente a la Coordinación de Protección Civil del Municipio de San José de Gracia, Aguascalientes, tiene como finalidad mantener la seguridad de sus habitantes, el entorno y brindar medida en su (sic) caso de siniestros, motivo por el cual requiriere una organización que regule el buen funcionamiento de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2022)</small>
+
+###### ARTÍCULO 767 - B.
+
+El H. Cuerpo de Bomberos tendrá los siguientes objetivos:
+
+I. Mantener un sistema preventivo a fin de reducir el índice de accidente durante una situación de emergencia; y
+
+II. Brindar un servicio de atención inmediata a emergencias durante estas, a fin de reducir el efecto que tenga para la población y entorno físico del Municipio.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2022)</small>
+
+###### ARTÍCULO 767 - C.
+
+En virtud de lo anterior, el personal integrante de la Coordinación Municipal de Protección civil y Bomberos de San José de Gracia, Aguascalientes contará con la experiencia de servicio de atención de emergencias cubriendo, según su capacidad real, los puestos operativos y administrativos que se requieran para el buen funcionamiento del Cuerpo de Bomberos.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2022)</small>
+
+###### ARTÍCULO 767 - D.
+
+A la Coordinación de Protección civil y Bomberos de San José de Gracia, Aguascalientes, le corresponden las atribuciones en materia de prevención de siniestros así como la ayuda a la población en caso de desastre. Por lo (sic) podrán realizar las siguientes acciones:
+
+I. Visitas de inspección a todo tipo de edificación industrial, pública y de vivienda, con la finalidad de eliminar o minimizar los riesgos que pueden originar un siniestro;
+
+II. Implementación de programas de capacitación y difusión a la población en materia de seguridad, prevención y combate de incendios; y
+
+III. Atender de manera más inmediata y profesional los servicios de emergencia que se presenten.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2022)</small>
+
+###### ARTÍCULO 767 - E.
+
+En caso de siniestro, el Cuerpo de Bomberos estará facultado para romper cerraduras, puertas, ventanas y todo lo necesario, a fin de contribuir al control y extinción del mismo.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2022)</small>
+
+###### ARTÍCULO 767 - F.
+
+Son obligaciones de todos los elementos del Cuerpo de Bomberos:
+
+I. Presentarse a su servicio con veinte minutos de anticipación para uniformarse y presentarse debidamente aseado;
+
+II. Vestir el uniforme;
+
+III. Identificarse por su nombre ante la persona solicitante;
+
+IV. Ser atento y respetuoso;
+
+V. Cuidar el equipo rodante y de protección de personal, así como instalaciones y vestuario en general;
+
+VI. Operar con precaución y eficiencia el equipo motorizado; y
+
+VII. Acudir con diligencia tomando en consideración todas las medidas de seguridad a los servicios de emergencia que la población requiera.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2022)</small>
+
+###### ARTÍCULO 767 - G.
+
+Son prohibiciones a todos los integrantes del Cuerpo de Bomberos:
+
+I. Presentarse a sus labores en estado de embriaguez o bajo los efectos de algún narcótico;
+
+II. Retirarse o abandonar el servicio sin causa justificada;
+
+III. Pedir o recibir de cualquier persona gratificaciones o dadivas de cualquier especie por la presentación de los servicios de emergencia;
+
+IV. Mezclar prendas de civil con el uniforme de servicio;
+
+V. Realizar de (sic) cualquier acto de abuso de autoridad;
+
+VI. Agredir verbal o físicamente a sus compañeros y/o superiores durante el servicio;
+
+VII. Poner innecesariamente en peligro vidas ajenas; y
+
+VIII. No cumplir con las órdenes y comisiones que se le asignen según el servicio, tanto dentro de las instalaciones como fuera de ellas.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2022)</small>
+
+###### ARTÍCULO 767 - H.
+
+Son requisitos para pertenecer al Cuerpo de Bomberos los siguientes:
+
+I. Ser mexicano de nacimiento o naturalización;
+
+II. Contar con 18 años de edad cumplidos;
+
+III. Estar en pleno ejercicio de los derechos civiles y políticos;
+
+IV. Aprobar el examen de ingreso;
+
+V. Contar con conocimientos mínimos a juicio del Coordinador Municipal de Protección Civil; y
+
+VI. Deberán aprobar satisfactoriamente el examen médico, psicosomático y de aptitudes físicas.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2022)</small>
+
+###### ARTÍCULO 767 - I.
+
+La capacitación es la base de desarrollo, por lo que aunado a la antigüedad todo personal tendrá la obligación de capacitarse y actualizarse, tanto en el área técnica, así como a un nivel académico mayor que permita lograr el objetivo primordial la profesionalización de los bomberos.
+
 ###### ARTÍCULO 768.
 
 La Unidad Municipal de Protección Civil, dependerá de la Secretaría del H. Ayuntamiento y se constituirá por;
@@ -12881,51 +12987,75 @@ Una vez notificada la multa económica impuesta al infractor, se le requerirá p
 
 Por ningún motivo el Juez Calificador podrá liberar al detenido, sin el cumplimiento de la sanción a que se hubiere hecho acreedor. Solamente que medie una disposición expresa del Presidente Municipal se podrá liberar al infractor que se encuentra detenido en los separos de la policía preventiva, sin pagar la multa correspondiente.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 1382.
 
 Para los efectos de conmutar la multa impuesta por horas de arresto se estará a lo dispuesto en el siguiente tabulador:
 
-Tres días de salario mínimo: Seis horas de arresto.
+Tres días de unidad de
 
-Cuatro días de salario mínimo: Siete horas de arresto.
+medida y actualización (UMA): Seis horas de arresto.
 
-Cinco días de salario mínimo: Ocho horas de arresto.
+Cuatro días de unidad de medida
 
-De seis a ocho días de salario minino: Doce horas de arresto.
+y actualización (UMA): Siete horas de arresto.
 
-De nueve a diez días de salario mínimo: Veinte horas de arresto.
+Cinco días de unidad de medida
 
-De once a quince días de salario mínimo: Veinticuatro horas de arresto.
+y actualización (UMA): Ocho horas de arresto.
 
-De dieciséis a veinte días de salario mínimo: Treinta horas de arresto.
+De seis a ocho días de unidad de
 
-Más de veinte días de salario mínimo: Treinta y seis horas de arresto.
+medida y actualización (UMA): Doce horas de arresto.
 
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2021)</small>
+De nueve a diez días de unidad de
+
+medida y actualización (UMA): Veinte horas de arresto.
+
+De once a quince días de unidad de
+
+medida y actualización (UMA): Veinticuatro horas de arresto.
+
+De dieciséis a veinte días de unidad de
+
+medida y actualización (UMA): Treinta horas de arresto.
+
+Más de veinte días de unidad de
+
+medida y actualización (UMA): Treinta y seis horas de arresto.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2022)</small>
 
 ARTÍCULO 1382 BIS.- Para los efectos de conmutar la multa impuesta por horas de arresto se estará a lo dispuesto en el siguiente tabulador:
 
-Tres días de salario mínimo: Cuatro horas de trabajo comunitario.
+Tres días de unidad de medida y
 
-Cuatro días de salario mínimo: Seis horas de trabajo comunitario.
+actualización (UMA): Cuatro horas de trabajo comunitario.
 
-Cinco días de salario mínimo: Ocho horas de trabajo comunitario.
+Cuatro días de unidad de
 
-De seis a ocho días de Doce horas de trabajo comunitario.
+medida y actualización (UMA): Seis horas de trabajo comunitario.
 
-salario mínimo:
+Cinco días de unidad de
 
-De nueve a diez días de Catorce horas de trabajo comunitario.
+medida y actualización (UMA): Ocho horas de trabajo comunitario.
 
-salario mínimo:
+De seis a ocho días de unidad de
 
-De once a quince días de Dieciséis horas de trabajo comunitario.
+medida y actualización (UMA): Doce horas de trabajo comunitario.
 
-salario mínimo:
+De nueve a diez días de unidad
 
-Más de veinte días de Dieciocho horas de trabajo comunitario.
+de medida y actualización (UMA): Catorce horas de trabajo comunitario.
 
-salario mínimo:
+De once a quince días de unidad
+
+de medida y actualización (UMA): Dieciséis horas de trabajo comunitario.
+
+Más de veinte días de unidad
+
+de medida y actualización (UMA): Dieciocho horas de trabajo comunitario
 
 Para efecto del presente artículo, la jornada máxima de trabajo comunitario será de ocho horas al día. El Juez Calificador indicará al infractor el inicio y término y tipo de trabajo comunitario. Se entiende por trabajo comunitario, el desarrollo de actividades físicas no remuneradas impuestas como sanción administrativa en favor del Municipio.
 
@@ -13872,5 +14002,11 @@ PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su pub
 P.O. 28 DE FEBRERO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “ACUERDO QUE APRUEBA DIVERSAS REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA, AGS”.]
+
+PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 14 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO QUE ADICIONA Y REFORMA DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA, AGS.".]
 
 PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
