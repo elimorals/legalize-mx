@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-22-2011-del-pleno-del-consejo-de-la-81727"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-06-17"
-last_updated: "2012-02-22"
+last_updated: "2022-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81727&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-06-09"
 
 ACUERDO GENERAL 22/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LA COMPETENCIA DE LA FUNCIÓN DE EJECUCIÓN PENAL Y CREA LOS JUZGADOS DE DISTRITO ESPECIALIZADOS EN EJECUCIÓN DE PENAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2022.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 17 de junio de 2011.
 
@@ -117,17 +117,23 @@ Los Juzgados de Distrito seguirán conociendo, hasta su total resolución, de lo
 
 Cuando en un mismo lugar se establezcan dos o más Juzgados de Distrito Especializados en Ejecución de Penas se establecerá una Oficina de Correspondencia Común para la recepción, registro y turno de las promociones, la cual operará conforme al sistema de cómputo que se autorice.
 
-En los Distritos y Circuitos Judiciales que no cuenten con órganos jurisdiccionales especializados en ejecución penal, sus actuales Oficinas de Correspondencia Común se encargarán de la recepción de promociones y realizarán su turno bajo el sistema con el que actualmente cuentan, al cual se le agregarán las columnas y rubros suficientes para el turno respectivo, correspondiendo a la Dirección General de Informática la implementación de éstos bajo los criterios que al efecto proponga la Dirección General de Estadística y Planeación Judicial a la Comisión de Creación de Nuevos Organos. Aquellos órganos jurisdiccionales que no cuenten con una oficina de correspondencia común recibirán de forma directa las promociones que correspondan por conducto de su oficialía de partes.
+> <small>(REFORMADO POR EL PUNTO DECIMOSÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+En los Distritos y Circuitos Judiciales que no cuenten con órganos jurisdiccionales especializados en ejecución penal, sus actuales oficinas de correspondencia común se encargarán de la recepción de promociones y realizarán su turno bajo el sistema con el que actualmente cuentan, al cual se le agregarán las columnas y rubros suficientes para el turno respectivo, correspondiendo a la Dirección General de Tecnologías de la Información la implementación de éstos bajo los criterios que al efecto proponga la Dirección General de Gestión Judicial a la Comisión de Creación de Nuevos Órganos. Aquellos órganos jurisdiccionales que no cuenten con una oficina de correspondencia común recibirán de forma directa las promociones que correspondan por conducto de su oficialía de partes.
+
+> <small>(REFORMADO POR EL PUNTO DECIMOSÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 9.
 
-Los titulares de los órganos jurisdiccionales de que se trata, deberán enviar dentro de los primeros cinco días de cada mes, su reporte estadístico mensual a la Dirección General de Estadística y Planeación Judicial, para lo cual, la propia Dirección implementará los nuevos campos necesarios para una mejor identificación.
+Las y los titulares de los órganos jurisdiccionales de que se trata, deberán enviar dentro de los primeros cinco días de cada mes, su reporte estadístico mensual a la Dirección General de Estadística Judicial.
 
 ### CAPITULO CUARTO. Del registro y la formación de los expedientes
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO DECIMOSÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
 ###### Artículo 10.
 
-Para hacer la declaratoria de inicio del procedimiento de ejecución de la pena, deberá formarse un expediente por el juez del conocimiento y, de ser el caso, enviarse al órgano jurisdiccional que corresponda. El asunto deberá registrarse en el libro de control (libro de gobierno) relativo y se contabilizará para efectos estadísticos como un expediente nuevo. Dicho expediente deberá integrarse con copia autorizada, entre otras, de las constancias siguientes, además de las que por la naturaleza del asunto o medida en su caso correspondan:
+Para hacer la declaratoria de inicio del procedimiento de ejecución de la pena, deberá formarse un expediente por la o el juez del conocimiento y, de ser el caso, enviarse al órgano jurisdiccional que corresponda. El asunto deberá registrarse en el libro de control (libro de gobierno) relativo y se contabilizará como un expediente nuevo. Dicho expediente deberá integrarse con copia autorizada, entre otras, de las constancias siguientes, además de las que por la naturaleza del asunto o medida en su caso correspondan:
 
 1. La sentencia definitiva y el auto que la declara firme.
 
@@ -145,9 +151,11 @@ Para hacer la declaratoria de inicio del procedimiento de ejecución de la pena,
 
 Los expedientes de ejecución de penas, así como sus incidencias se deben integrar de manera individualizada por cada sentenciado, en virtud que la etapa de ejecución de penas es personalísima. En ese sentido, se deberá crear un “Registro Nacional Individualizado de Sentenciados”, para el debido seguimiento de las sanciones impuestas en los procedimientos de ejecución de penas, al efecto las áreas administrativas del Consejo de la Judicatura Federal instrumentarán los mecanismos de registro respectivos.
 
+> <small>(REFORMADO POR EL PUNTO DECIMOSÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
 ###### Artículo 11.
 
-Los órganos jurisdiccionales a que se refiere este acuerdo, contarán como instrumento de control de los asuntos de su respectiva competencia, con libros de registro escritos, en tanto se les implementa en el Sistema Integral de Seguimiento de Expedientes (SISE), que tiene a su cargo la Dirección General de Estadística y Planeación Judicial, los libros electrónicos de registro.
+Los órganos jurisdiccionales a que se refiere este acuerdo, contarán como instrumento de control de los asuntos de su respectiva competencia, con libros de registro escritos, en tanto se implementan los libros electrónicos de registro, en el Sistema Integral de Seguimiento de Expedientes (SISE) que administra la Dirección General de Gestión Judicial.
 
 ### CAPITULO QUINTO. Disposiciones Generales
 
@@ -202,3 +210,21 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma del Acuerdo General 22/2011, del Pleno del Consejo de la Judicatura Federal, que establece la competencia de la función de ejecución penal y crea los Juzgados de Distrito Especializados en Ejecución de Penas.
+
+D.O.F. 14 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral del Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en los portales electrónicos del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las Direcciones Generales de Gestión Judicial y Tecnologías de la Información llevarán a cabo las acciones necesarias para ajustar el sistema computarizado de turno en términos de las reglas establecidas en este Acuerdo General, en un plazo no mayor de dos meses, contados a partir de la entrada en vigor del presente instrumento.
+
+CUARTO. Las referencias hechas a los Tribunales Colegiados de Apelación se entenderán formuladas respecto de los Tribunales Unitarios de Circuito, hasta en tanto aquéllos entren en operación.
+
+QUINTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal deberá actualizar, dentro de los seis meses siguientes a la entrada en vigor de este Acuerdo, los criterios de turno establecidos en la normativa aplicable a los tribunales Unitarios de Circuito, cuando se constituyan como Tribunal de Alzada para la atención de los asuntos del sistema penal acusatorio, de conformidad con lo establecido en el presente Acuerdo.
+
+SEXTO. El cambio en la vigencia del certificado digital de la FIREL surtirá efecto a partir del 16 de marzo de 2022.
+
+SÉPTIMO. Las consultas a que se refiere el artículo 46 Ter del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, serán recibidas a través del Sistema de Gestión Documental (SIGDOC) a partir del 16 de marzo de 2022. Se instruye a las direcciones generales de Estrategia y Transformación Digital y Tecnologías de la Información la realización de todas las acciones necesarias para implementar la conexión de los órganos jurisdiccionales con la Secretaría Ejecutiva de Creación de Nuevos Órganos, a través del referido Sistema.
