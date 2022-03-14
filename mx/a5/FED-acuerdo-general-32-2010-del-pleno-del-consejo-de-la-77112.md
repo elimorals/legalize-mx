@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-32-2010-del-pleno-del-consejo-de-la-77112"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2010-10-29"
-last_updated: "2016-04-15"
+last_updated: "2022-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77112&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-10-21"
 
 ACUERDO GENERAL 32/2010, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO AUXILIAR DE LA OCTAVA REGIÓN, CON RESIDENCIA EN CANCÚN, QUINTANA ROO, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2022.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de octubre de 2010.
 
@@ -67,7 +67,9 @@ Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Octava Región,
 
 SEGUNDO. INICIO DE FUNCIONES Y DOMICILIO. El Pleno del Consejo de la Judicatura Federal determinará la fecha de inicio de funciones de los Tribunales Colegiados de referencia, así como la ubicación de los órganos jurisdiccionales que integrarán el Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo.
 
-TERCERO. LIBROS DE GOBIERNO. Los órganos jurisdiccionales Auxiliares que formarán parte del Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo, como mecanismo de control de los asuntos de sus respectivas competencias y como auxiliar en la supervisión de estos, contarán con libros electrónicos de registro que se les implementará en el Sistema Integral de Seguimiento de Expedientes (SISE), que tiene a su cargo la Dirección General de Estadística y Planeación Judicial.
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO DÉCIMOSEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+TERCERO. LIBROS DE GOBIERNO. Los órganos jurisdiccionales Auxiliares que formarán parte del Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo, como mecanismo de control de los asuntos de sus respectivas competencias y como auxiliar en la supervisión de estos, contarán con libros electrónicos de registro que se les implementará en el Sistema Integral de Seguimiento de Expedientes (SISE), que tiene a su cargo la Dirección General de Gestión Judicial.
 
 Dichos libros electrónicos de registro se formarán automáticamente con la captura de los datos y registros que el personal correspondiente de los órganos jurisdiccionales lleve a cabo en el mencionado Sistema Integral de Seguimiento de Expedientes (SISE).
 
@@ -79,23 +81,25 @@ SEXTO. PLANTILLAS. Las plantillas de los tribunales colegiados auxiliares serán
 
 (VÉASE ARCHIVO ANEXO)
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 40/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO POR EL PUNTO DÉCIMOSEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-SEPTIMO. ESTADÍSTICA E INFORMES. Los titulares de los órganos jurisdiccionales que integran el Centro Auxiliar de la Octava Región, deberán enviar dentro de los primeros cinco días de cada mes, su reporte estadístico mensual a la Dirección General de Estadística Judicial.
+SÉPTIMO. ESTADÍSTICA E INFORMES. Las y los titulares de los órganos jurisdiccionales que integran el Centro Auxiliar de la Octava Región, deberán enviar dentro de los primeros cinco días de cada mes, su reporte estadístico mensual a la Dirección General de Estadística Judicial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 40/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2013)</small>
+Asimismo, los órganos jurisdiccionales auxiliares que integran el Centro Auxiliar de la Octava Región, así como los auxiliados, deberán enviar su reporte estadístico dentro de los primeros cinco días de cada mes a la Secretaría Ejecutiva de Creación de Nuevos Órganos, vía electrónica, como ésta lo determine el cual deberá contener la siguiente información estadística:
 
-Asimismo, los órganos jurisdiccionales auxiliares que integran el Centro Auxiliar de la Octava Región, así como los auxiliados, deberán enviar su reporte estadístico dentro de los primeros cinco días de cada mes a la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Órganos, vía correo electrónico a la dirección cnvo@correo.cjf.gob.mx, el cual deberá contener la siguiente información estadística:
-
-ORGANO JURISDICCIONAL AUXILIADO
+ÓRGANO JURISDICCIONAL AUXILIADO
 
 (VÉASE ARCHIVO ANEXO)
 
-ORGANO JURISDICCIONAL AUXILIAR
+ÓRGANO JURISDICCIONAL AUXILIAR
 
-(VÉASE ARCHIVO ANEXO)
+EXISTENCIA INGRESOS EGRESOS EXISTENCIA
 
-La Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos, con el reporte estadístico que remitan los órganos jurisdiccionales Auxiliares, informará a la Comisión de Creación de Nuevos Organos el estado que guardan, y ésta, lo enviará al Pleno del Consejo de la Judicatura Federal para su conocimiento.
+ANTERIOR FINAL
+
+TOTALES TOTALES TOTALES TOTALES
+
+La Secretaría Ejecutiva de Creación de Nuevos Órganos, con el reporte estadístico que remitan los órganos jurisdiccionales Auxiliares, informará a la Comisión de Creación de Nuevos Órganos el estado que guardan, y ésta, lo enviará al Pleno del Consejo de la Judicatura Federal para su conocimiento.
 
 OCTAVO. ESPACIO FISICO. La Comisión de Administración proveerá lo conducente, para asignar el espacio físico que ocupará el Centro Auxiliar de la Octava Región, y ordenará se les dote de los recursos materiales que se estimen necesarios, de acuerdo con las condiciones particulares de cada caso.
 
@@ -206,3 +210,21 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Se deroga el punto Quinto de los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal 20/2009, que crea el Centro Auxiliar de la Primera Región; 10/2008, por el que se crea el Centro Auxiliar de la Segunda Región, así como los órganos jurisdiccionales que lo integrarán; 18/2008, por el que se crea el Centro Auxiliar de la Tercera Región, así como los órganos jurisdiccionales que lo integrarán; 27/2008, por el que se crea el Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, así como los órganos jurisdiccionales que lo integrarán; 52/2008, por el que se crea el Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, así como los órganos jurisdiccionales que lo integrarán; 53/2008, por el que se crea el Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, así como los órganos jurisdiccionales que lo integrarán; 54/2008, por el que se crea el Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, así como los órganos jurisdiccionales que lo integrarán; 32/2010, que crea el Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo, así como los órganos jurisdiccionales que lo integrarán; 51/2009, que crea el Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, así como los órganos jurisdiccionales que lo integrarán; 54/2009 del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila, así como los órganos jurisdiccionales que lo integrarán; y 33/2011, que crea el Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz, así como los Órganos Jurisdiccionales que lo integrarán.
+
+D.O.F. 14 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral del Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en los portales electrónicos del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las Direcciones Generales de Gestión Judicial y Tecnologías de la Información llevarán a cabo las acciones necesarias para ajustar el sistema computarizado de turno en términos de las reglas establecidas en este Acuerdo General, en un plazo no mayor de dos meses, contados a partir de la entrada en vigor del presente instrumento.
+
+CUARTO. Las referencias hechas a los Tribunales Colegiados de Apelación se entenderán formuladas respecto de los Tribunales Unitarios de Circuito, hasta en tanto aquéllos entren en operación.
+
+QUINTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal deberá actualizar, dentro de los seis meses siguientes a la entrada en vigor de este Acuerdo, los criterios de turno establecidos en la normativa aplicable a los tribunales Unitarios de Circuito, cuando se constituyan como Tribunal de Alzada para la atención de los asuntos del sistema penal acusatorio, de conformidad con lo establecido en el presente Acuerdo.
+
+SEXTO. El cambio en la vigencia del certificado digital de la FIREL surtirá efecto a partir del 16 de marzo de 2022.
+
+SÉPTIMO. Las consultas a que se refiere el artículo 46 Ter del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, serán recibidas a través del Sistema de Gestión Documental (SIGDOC) a partir del 16 de marzo de 2022. Se instruye a las direcciones generales de Estrategia y Transformación Digital y Tecnologías de la Información la realización de todas las acciones necesarias para implementar la conexión de los órganos jurisdiccionales con la Secretaría Ejecutiva de Creación de Nuevos Órganos, a través del referido Sistema.
