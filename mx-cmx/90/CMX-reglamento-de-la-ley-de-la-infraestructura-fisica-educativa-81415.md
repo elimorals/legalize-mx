@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-la-infraestructura-fisica-educativa-814
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-24"
-last_updated: "2011-05-24"
+last_updated: "2022-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81415&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-05-17"
 
 REGLAMENTO DE LA LEY DE LA INFRAESTRUCTURA FISICA EDUCATIVA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE MARZO DE 2022.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 24 de mayo de 2011.
 
@@ -70,7 +70,9 @@ XIII. Secretaría: Secretaría de Educación del Distrito Federal;
 
 XIV. Secretario: Al Titular de la Secretaría de Educación del Distrito Federal; y
 
-XV. Sistema de Información: Al Sistema de Información de la Infraestructura Física Educativa del Distrito Federal.
+> <small>(REFORMADA, G.O. 14 DE MARZO DE 2022)</small>
+
+XV. Sistema de Información: plataforma tecnológica denominada Sistema de Información de la Infraestructura Física Educativa de la Ciudad de México o Sistema de Información de Planteles Escolares, en términos del Reglamento de Construcciones vigente en la Ciudad de México.
 
 ###### Artículo 3.
 
@@ -188,9 +190,17 @@ El acceso a las fuentes alternas de financiamiento para la infraestructura físi
 
 ### CAPÍTULO V. DEL SISTEMA DE INFORMACIÓN
 
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2022)</small>
+
+###### Artículo 19 Bis.
+
+El Sistema de Información es la plataforma tecnológica mediante la cual se registrará y actualizará la información y documentación relacionada con la infraestructura física educativa de los planteles educativos de la Ciudad de México.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE MARZO DE 2022)</small>
+
 ###### Artículo 20.
 
-El Instituto desarrollará y actualizará permanentemente un Sistema de Información del estado físico de la infraestructura física educativa, que contendrá lo siguiente:
+El Instituto implementará y administrará el Sistema de Información, que contendrá lo siguiente:
 
 I. Ubicación georeferenciada de la infraestructura física educativa;
 
@@ -204,9 +214,43 @@ V. Amenazas de carácter natural o antrópico, internas y externas;
 
 VI. Evaluación y reporte temprano de daños;
 
+> <small>(ADICIONADA, G.O. 14 DE MARZO DE 2022)</small>
+
+VI bis. La información relativa al funcionamiento, operación, seguridad estructural y protección civil de los planteles educativos, entre otras:
+
+a) Certificado único de zonificación y uso del suelo;
+
+b) Constancia de seguridad estructural o el documento que acredite que se encuentra en proceso la revisión de la seguridad estructural, de conformidad con los Lineamientos Técnicos para la Revisión de la Seguridad Estructural de Planteles Educativos después de un Sismo, vigentes;
+
+c) Visto bueno de seguridad y operación de las instalaciones;
+
+d) Aviso de funcionamiento de establecimiento mercantil de bajo impacto; y
+
+e) Programa interno de protección civil.
+
 VII. Cualquier otra información que permita realizar: evaluación, análisis y planeación, así como definir acciones de prevención en materia de salvaguarda; y
 
-VIII. Aquellos necesarios para integración y actualización del sistema de información de la infraestructura física educativa.
+> <small>(REFORMADA, G.O. 14 DE MARZO DE 2022)</small>
+
+VIII. Aquella necesaria para la integración y actualización del Sistema de Información.
+
+> <small>(ADICIONADA, G.O. 14 DE MARZO DE 2022)</small>
+
+###### Artículo 20 Bis.
+
+Las personas propietarias, poseedoras y/o representantes legales de los planteles educativos, serán responsables de registrar y actualizar la documentación correspondiente en el Sistema de Información. Para el registro o actualización contarán con un plazo no mayor a 10 días hábiles contados a partir de la fecha de expedición del documento.
+
+En caso de que la Alcaldía correspondiente, en términos del Reglamento de Construcciones vigente en la Ciudad de México, hubiere realizado el registro de información o documentos en el Sistema de Información, las personas propietarias, poseedoras y/o representantes legales de los planteles educativos, deberán acceder al Sistema de Información para corroborar que ésta se encuentre actualizada.
+
+El Instituto dará aviso a la autoridad competente cuando detecte que la documentación registrada en el Sistema de Información es falsa o se encuentra alterada.
+
+> <small>(ADICIONADA, G.O. 14 DE MARZO DE 2022)</small>
+
+###### Artículo 20 Ter.
+
+Las Alcaldías deberán verificar que la información y documentos registrados en el Sistema de Información se encuentre actualizada. En caso de identificar cualquier alteración o inconsistencia en la información registrada en el Sistema, la Alcaldía deberá notificarlo al Instituto y a la autoridad emisora del documento que se registre o actualice, para su validación.
+
+El Instituto establecerá mecanismos de coordinación con la autoridad federal, a fin de difundir y fomentar el cumplimiento del registro de información y documentación en el Sistema de Información.
 
 ###### Artículo 21.
 
@@ -491,3 +535,17 @@ PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal para su debida ob
 SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal a los diecisiete días del mes de mayo de dos mil once.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, FERNANDO JOSÉ ABOITIZ SARO.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ALÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO M. DELGADO CARRILLO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 14 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL REGLAMENTO DE LA LEY DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL DISTRITO FEDERAL, EN MATERIA DE TRANSPARENCIA Y RENDICIÓN DE CUENTAS EN LA SEGURIDAD ESTRUCTURAL DE INMUEBLES PERTENECIENTES AL SECTOR EDUCATIVO EN LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Toda persona propietaria, poseedora o representante legal de inmuebles destinados a la prestación del servicio de educación, tendrá un plazo de 160 días naturales, a partir de la entrada en vigor del presente Decreto, para realizar el registro de la información o bien, para su actualización.
+
+CUARTO. El Instituto Local de la Infraestructura Física Educativa, en coordinación con la Agencia Digital de Innovación Pública, desarrollará el Sistema de Información de la Infraestructura Física Educativa de la Ciudad de México de forma paulatina; por lo que contará con 30 días hábiles, a partir de la entrada en vigor del presente Decreto, para el desarrollo y puesta en operación de una primera etapa.
