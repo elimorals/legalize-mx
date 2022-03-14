@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-79-2008-del-pleno-del-consejo-de-la-64492"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-11-27"
-last_updated: "2019-08-14"
+last_updated: "2022-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64492&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-11-26"
 
 ACUERDO GENERAL 79/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES PARA LOS CONCURSOS DE OPOSICION PARA LA DESIGNACION DE VISITADORES JUDICIALES "B"
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2022.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de noviembre de 2008.
 
@@ -607,11 +607,11 @@ La lista definitiva del concurso se publicará, con efectos de notificación a l
 
 El Instituto, por correo certificado, enviará únicamente para conocimiento de los interesados un solo documento en el que conste la puntuación obtenida en el concurso y si resultó o no vencedor.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 8/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 48.
 
-Publicada la lista definitiva, el Consejo organizará y citará a los recién designados Visitadores "B" para que participen en cursos informativos, los que serán impartidos por el Visitador General, el Director General de Estadística Judicial, y los demás funcionarios que se considere pertinentes, con el fin de que aquéllos puedan formular sus dudas sobre aspectos del funcionamiento de la Visitaduría Judicial y del Sistema Integral de Seguimiento de Expedientes; se les proporcione la normatividad administrativa aplicable; y se les oriente sobre sus funciones y deberes.
+Publicada la lista definitiva, el Consejo organizará y citará a las y los recién designados Visitadores “B” para que participen en cursos informativos, los que serán impartidos por la o el Visitador General, la o el Director General de Gestión Judicial, y los demás funcionarios que se considere pertinentes, con el fin de que aquéllos puedan formular sus dudas sobre aspectos del funcionamiento de la Visitaduría Judicial y del Sistema Integral de Seguimiento de Expedientes; se les proporcione la normatividad administrativa aplicable; y se les oriente sobre sus funciones y deberes.
 
 > <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 8/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2019)</small>
 
@@ -662,3 +662,21 @@ D.O.F. 14 DE AGOSTO DE 2019.
 PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 14 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral del Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en los portales electrónicos del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las Direcciones Generales de Gestión Judicial y Tecnologías de la Información llevarán a cabo las acciones necesarias para ajustar el sistema computarizado de turno en términos de las reglas establecidas en este Acuerdo General, en un plazo no mayor de dos meses, contados a partir de la entrada en vigor del presente instrumento.
+
+CUARTO. Las referencias hechas a los Tribunales Colegiados de Apelación se entenderán formuladas respecto de los Tribunales Unitarios de Circuito, hasta en tanto aquéllos entren en operación.
+
+QUINTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal deberá actualizar, dentro de los seis meses siguientes a la entrada en vigor de este Acuerdo, los criterios de turno establecidos en la normativa aplicable a los tribunales Unitarios de Circuito, cuando se constituyan como Tribunal de Alzada para la atención de los asuntos del sistema penal acusatorio, de conformidad con lo establecido en el presente Acuerdo.
+
+SEXTO. El cambio en la vigencia del certificado digital de la FIREL surtirá efecto a partir del 16 de marzo de 2022.
+
+SÉPTIMO. Las consultas a que se refiere el artículo 46 Ter del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, serán recibidas a través del Sistema de Gestión Documental (SIGDOC) a partir del 16 de marzo de 2022. Se instruye a las direcciones generales de Estrategia y Transformación Digital y Tecnologías de la Información la realización de todas las acciones necesarias para implementar la conexión de los órganos jurisdiccionales con la Secretaría Ejecutiva de Creación de Nuevos Órganos, a través del referido Sistema.
