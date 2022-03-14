@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-124176"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-11-03"
-last_updated: "2021-03-26"
+last_updated: "2022-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124176&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2017-10-26"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA ASIGNACIÓN DE AUDIENCIAS Y ASUNTOS, LA RENDICIÓN DE ESTADÍSTICA Y LOS LIBROS ELECTRÓNICOS DE CONTROL EN LOS CENTROS DE JUSTICIA PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2022.
 
 Acuerdo publicado al Número 3 del Diario Oficial de la Federación, el viernes 3 de noviembre de 2017.
 
@@ -57,9 +57,11 @@ Por lo anterior, se expide el siguiente
 
 ACUERDO
 
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
 ###### Artículo 1.
 
-El presente Acuerdo General tiene por objeto regular en los Centros de Justicia Penal Federal la asignación de audiencias y asuntos, la rendición automatizada de informes estadísticos mensuales y los libros electrónicos de control a través del Sistema Integral de Seguimiento de Expedientes.
+El presente Acuerdo General tiene por objeto regular en los Centros de Justicia Penal Federal la asignación de audiencias y asuntos, la rendición de informes estadísticos mensuales y los libros electrónicos de control a través del Sistema Integral de Seguimiento de Expedientes.
 
 ###### Artículo 2.
 
@@ -171,11 +173,11 @@ En el Sistema Integral de Seguimiento de Expedientes se programará la hora y as
 
 En caso de que sea necesario sustituir a alguno de los juzgadores, esta recaerá en cualquiera del mismo Centro; en caso de no ser posible, deberá hacerse del conocimiento de la Secretaría Ejecutiva de Creación de Nuevos Órganos y de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, para que sea analizada y en su caso, se efectúe la propuesta respectiva al órgano competente a fin de que se determine el Juez al que le corresponderá la sustitución.
 
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
 ###### Artículo 9.
 
-Es obligatorio el uso del módulo “Reportes Estadísticos” contenido en el Sistema Integral de Seguimiento de Expedientes, como programa automatizado para la captura y envío de los informes estadísticos mensuales, relativos a los movimientos de los asuntos del conocimiento de los Centros de Justicia Penal Federal.
-
-La captura de los datos de los asuntos del conocimiento de los Centros de Justicia Penal Federal generarán automáticamente los reportes estadísticos correspondientes.
+Es obligatorio el uso del módulo “Reportes Estadísticos” contenido en el Sistema Integral de Seguimiento de Expedientes, como programa para la captura y envío de los informes estadísticos mensuales, relativos a los movimientos de los asuntos del conocimiento de los Centros de Justicia Penal Federal.
 
 ###### Artículo 10.
 
@@ -2044,3 +2046,21 @@ QUINTO. La Dirección General de Gestión Judicial difundirá los instructivos n
 SEXTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, y las Direcciones Generales de Gestión Judicial; y de Tecnologías de la Información, llevarán a cabo la revisión integral del funcionamiento y operación de la gestión judicial de los Centros de Justicia Penal Federal, así como las acciones necesarias para el cumplimiento del presente Acuerdo.
 
 SÉPTIMO. La aplicación de este Acuerdo será respecto del ingreso de nuevos asuntos a partir de su entrada en vigor.
+
+D.O.F. 14 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral del Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en los portales electrónicos del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las Direcciones Generales de Gestión Judicial y Tecnologías de la Información llevarán a cabo las acciones necesarias para ajustar el sistema computarizado de turno en términos de las reglas establecidas en este Acuerdo General, en un plazo no mayor de dos meses, contados a partir de la entrada en vigor del presente instrumento.
+
+CUARTO. Las referencias hechas a los Tribunales Colegiados de Apelación se entenderán formuladas respecto de los Tribunales Unitarios de Circuito, hasta en tanto aquéllos entren en operación.
+
+QUINTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal deberá actualizar, dentro de los seis meses siguientes a la entrada en vigor de este Acuerdo, los criterios de turno establecidos en la normativa aplicable a los tribunales Unitarios de Circuito, cuando se constituyan como Tribunal de Alzada para la atención de los asuntos del sistema penal acusatorio, de conformidad con lo establecido en el presente Acuerdo.
+
+SEXTO. El cambio en la vigencia del certificado digital de la FIREL surtirá efecto a partir del 16 de marzo de 2022.
+
+SÉPTIMO. Las consultas a que se refiere el artículo 46 Ter del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, serán recibidas a través del Sistema de Gestión Documental (SIGDOC) a partir del 16 de marzo de 2022. Se instruye a las direcciones generales de Estrategia y Transformación Digital y Tecnologías de la Información la realización de todas las acciones necesarias para implementar la conexión de los órganos jurisdiccionales con la Secretaría Ejecutiva de Creación de Nuevos Órganos, a través del referido Sistema.
