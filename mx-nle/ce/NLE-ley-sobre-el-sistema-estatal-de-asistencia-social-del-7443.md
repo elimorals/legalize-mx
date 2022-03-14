@@ -4,7 +4,7 @@ identifier: "NLE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7443"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-12"
-last_updated: "2021-05-28"
+last_updated: "2022-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
 
@@ -213,11 +213,17 @@ XVII.- Combatir el pandillerismo, la drogadicción, el alcoholismo y demás vici
 
 XVIII.- La prestación de servicios para la prevención y la atención de las causas y los efectos de la violencia familiar;
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2022)</small>
 
-XIX.- Apoyo a personas con padecimientos crónicos u oncológicos cuya situación económica y de salud no les permite valerse por sí mismas; y
+XIX.- Apoyo a personas con padecimientos crónicos u oncológicos cuya situación económica y de salud no les permite valerse por sí mismas;
 
-XX.- Los análogos y conexos a los anteriores que tiendan a mejorar las circunstancias de carácter físico, mental y social que impidan al individuo su desarrollo integral.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2022)</small>
+
+XX.- La prestación de servicios especializados en salud visual y auditiva; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE MARZO DE 2022)</small>
+
+XXI.- Los análogos y conexos a los anteriores que tiendan a mejorar las circunstancias de carácter físico, mental y social que impidan al individuo su desarrollo integral.
 
 ###### ARTICULO 10o. Bis.
 
@@ -668,3 +674,11 @@ P.O. 28 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 491. SE REFORMAN LAS FRACCIONES II, III, XIII Y XIV Y SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 4 DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 093. SE REFORMAN LAS FRACCIONES XIX Y XX, SE ADICIONA UNA FRACCIÓN XXI AL ARTÍCULO 10 DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para dar cumplimiento a las acciones emanadas del presente Decreto, estas se programarán acorde a las capacidades financieras del Gobierno del Estado tomando en cuenta el Presupuesto de Egresos del ejercicio fiscal correspondiente.
