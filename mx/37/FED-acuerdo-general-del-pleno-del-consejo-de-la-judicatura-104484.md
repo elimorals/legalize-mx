@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2022-01-25"
+last_updated: "2022-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2022.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -379,9 +379,11 @@ Lo no previsto en este Capítulo, así como cualquier consulta, será resuelto p
 
 #### SECCIÓN PRIMERA. NATURALEZA Y FUNCIONES
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
 ###### Artículo 24.
 
-Las oficinas de correspondencia común son unidades administrativas encargadas de la recepción, registro y turno de los asuntos y promociones de la competencia de los órganos jurisdiccionales, que dependen administrativamente de la Dirección General de Estadística Judicial.
+Las oficinas de correspondencia común son unidades administrativas encargadas de la recepción, registro y turno de los asuntos y promociones de la competencia de los órganos jurisdiccionales, que dependen administrativamente de la Dirección General de Gestión Judicial.
 
 ###### Artículo 25.
 
@@ -399,13 +401,15 @@ El funcionamiento de las oficinas de correspondencia común de los Centros Auxil
 
 Cada oficina de correspondencia común, estará a cargo de un jefe, quien supervisará y coordinará las actividades de recepción, registro, turno y entrega de asuntos, a fin de lograr el eficaz cumplimiento de las labores asignadas.
 
-Asimismo, deberá proporcionar la información solicitada tanto por la Dirección General de Estadística Judicial, como por los magistrados de Circuito o jueces de Distrito a los que les presta el servicio.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+Asimismo, deberá proporcionar la información solicitada tanto por la Dirección General de Gestión Judicial, como por las y los magistrados de Circuito o jueces de Distrito a los que les presta el servicio.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 27.
 
-El personal de las oficinas de correspondencia común para ingresar al sistema computarizado contará con una clave de acceso individual e intransferible, que será proporcionada por la Dirección General de Estadística Judicial para cada operario del sistema.
+El personal de las oficinas de correspondencia común, para ingresar al sistema automatizado de turno, contará con una clave de acceso individual e intransferible, que será proporcionada por la Dirección General de Tecnologías de la Información para cada operario del sistema.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -417,17 +421,25 @@ Con el fin de evitar poner en riesgo la integridad física de los servidores pú
 
 #### SECCIÓN SEGUNDA. AUXILIO A LOS ÓRGANOS JURISDICCIONALES EN LA RECEPCIÓN DE ESCRITOS DE TÉRMINO
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 29.
 
-Las oficinas de correspondencia común, auxiliarán a las oficialías de partes de cada uno de los órganos jurisdiccionales a los que prestan servicio en la recepción de los asuntos de término, relativos a todas las materias, que estén dirigidos de manera concreta a cada uno de ellos fuera del horario de atención al público esto es, de las ocho horas con treinta minutos a las nueve horas y de las quince a las veinticuatro horas del día del vencimiento del plazo para su presentación, ello, en su caso, de conformidad con lo dispuesto en el artículo 21 de la Ley de Amparo.
+Las oficinas de correspondencia común, auxiliarán a las oficialías de partes de cada uno de los órganos jurisdiccionales a los que prestan servicio en la recepción de los asuntos de término, relativos a todas las materias, que estén dirigidos de manera concreta a cada uno de ellos fuera del horario de atención al público, esto es en ventanilla, de las ocho horas con treinta minutos a las nueve horas, y de las quince a las veinte horas. A partir de dicha hora y hasta las veinticuatro horas del día del vencimiento del plazo para su presentación, a través de los buzones judiciales.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
 Tratándose de los tribunales laborales federales se aplicarán las disposiciones del horario de atención al público a que se refiere el artículo 6 del presente Acuerdo.
 
-Con el fin de facilitar la recepción de los asuntos de término, en las localidades donde coincidan, por un lado, órganos jurisdiccionales únicos que operen con sus oficialías de partes y, por otro, oficinas de correspondencia común, éstas las apoyarán en la recepción de asuntos de término no urgentes fuera de su horario de labores y hasta las veinticuatro horas.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-La Comisión de Creación de Nuevos Órganos, a propuesta que haga la Dirección General de Gestión Judicial, por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos, determinará cuál de estas últimas será la encargada de brindar el auxilio correspondiente.
+Con el fin de facilitar la recepción de los asuntos de término, en las localidades donde coincidan, por un lado, órganos jurisdiccionales únicos que operen con sus oficialías de partes y, por otro, oficinas de correspondencia común, éstas las apoyarán en la recepción de asuntos de término no urgentes fuera de su horario de labores y hasta las veinticuatro horas, a través de los buzones judiciales.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+La Comisión de Creación de Nuevos Órganos, a propuesta que haga la Dirección General de Gestión Judicial, en coordinación con la Secretaría Ejecutiva de Creación de Nuevos Órganos, determinará cuál de estas últimas será la encargada de brindar el auxilio correspondiente.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
 El apoyo se limitará a la recepción del documento y su entrega al órgano jurisdiccional de inmediato o bien, a primera hora del día hábil siguiente a través del personal asignado, quien debe acudir a la oficina de correspondencia común respectiva para recibir las promociones. El control de estos documentos se realizará en un registro de promociones distinto del que corresponda al de turno de asuntos.
 
@@ -439,21 +451,29 @@ Sólo se recibirán en las oficinas de correspondencia común los escritos de al
 
 #### SECCIÓN TERCERA. HORARIOS DE FUNCIONAMIENTO
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 31.
 
-El horario de las oficinas de correspondencia común será de las ocho horas con treinta minutos a las veinticuatro horas, en días hábiles con las excepciones previstas en este Capítulo.
+El horario de las oficinas de correspondencia común será de las ocho horas con treinta minutos a las veinte horas, en días hábiles, con las excepciones previstas en este Capítulo.
 
-Las oficinas de correspondencia común no laborarán durante los días de descanso o aquéllos en que los órganos jurisdiccionales a los que presta servicio suspendan sus labores, en este último supuesto el jefe de la oficina lo informará de inmediato a la Dirección General de Estadística Judicial.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+Las oficinas de correspondencia común no laborarán durante los días de descanso o aquéllos en que los órganos jurisdiccionales a los que presta servicio suspendan sus labores, en este último supuesto la o el jefe de la oficina lo informará de inmediato a la Dirección General de Gestión Judicial.
 
-En aquellos casos que por alguna causa de carácter extraordinario se requiera que las oficinas de correspondencia común suspendan temporalmente funciones, la Dirección General de Estadística Judicial, por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos, lo hará del conocimiento de la Comisión de Creación de Nuevos Órganos. El mismo procedimiento se seguirá para los casos de habilitación de los días de descanso de la oficina de correspondencia común.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+En aquellos casos que por alguna causa de carácter extraordinario se requiera que las oficinas de correspondencia común suspendan temporalmente funciones, la Dirección General de Gestión Judicial de manera coordinada con la Secretaría Ejecutiva de Creación de Nuevos Órganos, lo hará del conocimiento de la Comisión de Creación de Nuevos Órganos. El mismo procedimiento se seguirá para los casos de habilitación de los días de descanso de la oficina de correspondencia común.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 Cuando por causas de fuerza mayor el Consejo estime que existe imposibilidad para que los interesados presenten sus demandas y promociones en las sedes ordinarias de las oficinas de correspondencia común, se podrán habilitar sedes alternas en aras de continuar prestando el servicio encomendado. En estos supuestos se publicarán los avisos correspondientes en el portal de Internet del Consejo.
 
-En el supuesto de que se presenten demandas en forma masiva, el personal adscrito a las oficinas de correspondencia común, tomará medidas extraordinarias para agilizar su recepción en coordinación con la Dirección General de Estadística Judicial para que, en su caso, se implementen las medidas emergentes conducentes.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+En el supuesto de que se presenten demandas en forma masiva, el personal adscrito a las oficinas de correspondencia común, tomará medidas extraordinarias para agilizar su recepción en coordinación con la Dirección General de Gestión Judicial para que, en su caso, se implementen las medidas emergentes conducentes.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 Para no afectar la recepción, registro y turno de los diversos asuntos y promociones que se presenten en dichas oficinas, por excepción a lo dispuesto en el primer párrafo del artículo 37 del presente Acuerdo, las demandas presentadas en forma masiva se registrarán y turnarán conforme las cargas de trabajo lo permitan.
 
@@ -489,35 +509,37 @@ Si no son asuntos urgentes, esperará al día hábil siguiente para remitirlos a
 
 La Oficina de Correspondencia Común de los Juzgados de Distrito de Procesos Penales Federales en la Ciudad de México tendrá un horario de las ocho horas con treinta minutos a las catorce horas con treinta minutos y la de los Juzgados de Procesos Penales Federales en el Estado de Jalisco, con residencia en Puente Grande, así como la de Procesos Penales Federales en el Estado de Nayarit, con residencia en Tepic, observarán un horario de las ocho horas con treinta minutos a las dieciocho horas, todas en días hábiles.
 
-> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-#### SECCIÓN CUARTA. SISTEMA COMPUTARIZADO
+#### SECCIÓN CUARTA. SISTEMA AUTOMATIZADO DE TURNO
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 34.
 
-El registro y turno de asuntos se hará mediante el sistema computarizado que determine la Secretaría Ejecutiva de Creación de Nuevos Órganos, por conducto de la Dirección General de Estadística Judicial, previa aprobación de la Comisión de Creación de Nuevos Órganos.
+El registro y turno de asuntos se hará mediante el sistema automatizado de turno que administra la Dirección General de Gestión Judicial.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+Durante los periodos vacacionales, en los casos de licencias, renuncia o cualquier tipo de ausencia del personal de las oficinas de correspondencia común, la o el jefe de dicha unidad administrativa deberá comunicarlo a la Dirección General de Gestión Judicial, para que se proporcione la clave de acceso a la persona que ocupe el cargo, sin que en ningún caso pueda entregarse la clave personalizada de acceso a persona diferente al usuario.
 
-Durante los periodos vacacionales, en los casos de licencias, renuncia o cualquier tipo de ausencia del personal de las oficinas de correspondencia común, el jefe de dicha unidad administrativa deberá comunicarlo a la Dirección General de Estadística Judicial, para que se proporcione la clave de acceso a la persona que ocupe el cargo, sin que en ningún caso pueda entregarse la clave personalizada de acceso a persona diferente al usuario.
-
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 35.
 
-La Secretaría Ejecutiva de Creación de Nuevos Órganos, por conducto de la Dirección General de Estadística Judicial, determinará la diferencia máxima permitida en el turno global y por rubro o tipo de asuntos, previa aprobación de la Comisión de Creación de Nuevos Órganos.
+La Secretaría Ejecutiva de Creación de Nuevos Órganos, a propuesta de la Dirección General de Gestión Judicial, determinará la diferencia máxima permitida en el turno global y por rubro o tipo de asuntos, previa aprobación de la Comisión de Creación de Nuevos Órganos.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 En caso de que se rebase la diferencia máxima, aquélla hará la revisión correspondiente y dictará las medidas necesarias para equilibrar las cargas de trabajo.
 
-> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 36.
 
-La Dirección General de Estadística Judicial, por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos, propondrá a la Comisión de Creación de Nuevos Órganos las medidas necesarias que permitan el mejoramiento del sistema de distribución de asuntos.
+La Dirección General de Gestión Judicial y la Secretaría Ejecutiva de Creación de Nuevos Órganos, de manera coordinada, propondrán a la Comisión de Creación de Nuevos Órganos las medidas necesarias que permitan el mejoramiento del sistema de distribución de asuntos.
+
+Los catálogos de asuntos contenidos en el sistema de turno, así como sus reglas de turno deberán ser homogéneos, a nivel nacional, por tipo de órgano jurisdiccional, considerando la naturaleza jurídica de los asuntos competencia de los órganos jurisdiccionales a los que brindan servicios.
+
+Con el objetivo de establecer un parámetro uniforme para efecto de la distribución equilibrada de los asuntos turnados a cada órgano jurisdiccional, anualmente, en el mes de junio, se iniciará la contabilización de los asuntos turnados, salvo en los casos que amerite un corte distinto debido al inicio o conclusión de funciones de un determinado órgano jurisdiccional, en cuyo caso deberá establecerse de conformidad con el acuerdo general correspondiente.
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -593,33 +615,35 @@ Cuando encontrándose próximo a concluir el horario de actividades de la oficin
 
 #### SECCIÓN SEXTA. REGISTRO SECUENCIAL O MANUAL DE ASUNTOS
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 42.
 
-Cuando no pueda utilizarse el sistema computarizado de turno, ya sea por fallas en el suministro de energía eléctrica, desconfiguración del programa, introducción de virus o cualquier otro caso de fuerza mayor que entorpezca o imposibilite su funcionamiento, el personal de las oficinas de correspondencia común implementará de inmediato, de manera transitoria, el turno manual de los asuntos en forma secuencial y en riguroso orden de presentación a partir de la última distribución automatizada, repartiendo de manera equilibrada las cargas de trabajo entre los órganos jurisdiccionales.
+Cuando no pueda utilizarse el sistema automatizado de turno, ya sea por fallas en el suministro de energía eléctrica, desconfiguración del programa, introducción de virus o cualquier otro caso de fuerza mayor que entorpezca o imposibilite su funcionamiento, el personal de las oficinas de correspondencia común implementará de inmediato, de manera transitoria, el turno manual de los asuntos en forma secuencial y en riguroso orden de presentación a partir de la última distribución automatizada, repartiendo de manera equilibrada las cargas de trabajo entre los órganos jurisdiccionales.
 
-De lo anterior se dará aviso de inmediato, vía telefónica, fax o mediante correo electrónico, a los titulares de los órganos jurisdiccionales a los que presta servicio la oficina, así como a la Dirección General de Estadística Judicial, sin perjuicio de hacerlo posteriormente mediante oficio. El mismo procedimiento deberá observarse al momento de reanudación de la operación del sistema computarizado, indicando el momento de cese del registro y turno manual de los asuntos, acompañando copia de la bitácora correspondiente.
+De lo anterior se dará aviso de inmediato, vía telefónica o mediante correo electrónico, a las y los titulares de los órganos jurisdiccionales a los que presta servicio la oficina, así como a la Dirección General de Gestión Judicial, sin perjuicio de hacerlo posteriormente mediante oficio. El mismo procedimiento deberá observarse al momento de reanudación de la operación del sistema automatizado de turno, indicando el momento de cese del registro y turno manual de los asuntos, acompañando copia de la bitácora correspondiente.
 
-Para el registro y turno manual de los asuntos se utilizarán formatos con idénticas características de los que proporciona el sistema computarizado para cada tipo de asunto, además de registrarse en una bitácora en la que se hará constar la fecha, hora y motivos por los que se haya interrumpido el uso del sistema, el último registro asignado por dicho sistema, la fecha y hora de su reanudación y el último registro manual asentado, además de la firma del jefe o encargado de la oficina de correspondencia común.
+Para el registro y turno manual de los asuntos se utilizarán formatos con idénticas características de los que proporciona el sistema automatizado de turno para cada tipo de asunto, además de registrarse en una bitácora en la que se hará constar la fecha, hora y motivos por los que se haya interrumpido el uso del sistema, el último registro asignado por dicho sistema, la fecha y hora de su reanudación y el último registro manual asentado, además de la firma de la jefa o jefe o encargada o encargado de la oficina de correspondencia común.
 
-Al reanudarse el sistema computarizado deberán ingresarse los datos asentados en los referidos formatos.
+Al reanudarse el sistema automatizado de turno deberán ingresarse los datos asentados en los referidos formatos.
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 #### SECCIÓN SÉPTIMA. MOVIMIENTOS CORRECTIVOS EN EL REGISTRO Y TURNO DE ASUNTOS
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 43.
 
-En caso de error en la captura de los asuntos, el jefe de la oficina de correspondencia común contará con una clave de acceso para uso exclusivo de corrección, proporcionada por la Dirección General de Estadística Judicial, y con ella realizará los movimientos correctivos en el registro de los asuntos, bajo su estricta responsabilidad, haciendo la anotación en la bitácora respectiva.
+En caso de error en la captura de los asuntos, la jefa o el jefe de la oficina de correspondencia común contará con una clave de acceso para uso exclusivo de corrección, proporcionada por la Dirección General de Gestión Judicial, y con ella realizará los movimientos correctivos en el registro de los asuntos, bajo su estricta responsabilidad, haciendo la anotación en la bitácora respectiva.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 44.
 
-Las oficinas de correspondencia común rendirán dentro de los primeros cinco días hábiles de cada mes, un informe a la Dirección General de Estadística Judicial, sobre el ingreso de asuntos recibidos en el mes inmediato anterior, del tipo de juicio, recurso o procedimiento, la materia y el turno realizado a cada uno de los órganos jurisdiccionales a los que brindan servicio, así como de los movimientos correctivos y cambios de turno realizados.
+El sistema generará dentro de los primeros cinco días hábiles de cada mes, un informe a la Dirección General de Gestión Judicial, sobre el ingreso de asuntos recibidos en el mes inmediato anterior, del tipo de juicio, recurso o procedimiento, la materia y el turno realizado a cada uno de los órganos jurisdiccionales a los que brindan servicio, así como de los movimientos correctivos y cambios de turno realizados.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 En dicho informe, en su caso, también se indicará cuántos asuntos y promociones se presentaron en el buzón judicial.
 
@@ -627,45 +651,59 @@ En dicho informe, en su caso, también se indicará cuántos asuntos y promocion
 
 #### SECCIÓN OCTAVA. SISTEMAS DE TURNO DE ASUNTOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 45.
 
-Los asuntos se turnarán mediante el sistema computarizado que determine la Secretaría Ejecutiva de Creación de Nuevos Órganos, por conducto de la Dirección General de Estadística Judicial, previa aprobación de la Comisión de Creación de Nuevos Órganos, de la siguiente manera:
+Los asuntos se turnarán mediante el sistema automatizado de turno que administra la Dirección General de Gestión Judicial de la siguiente manera:
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+I. Forma aleatoria: Una vez capturados los datos de registro del asunto que no cuente con antecedente alguno en el sistema automatizado de turno, éste lo distribuirá aleatoriamente, y de manera equilibrada entre los órganos jurisdiccionales; y
 
-I. Forma Aleatoria: Una vez capturados los datos de registro del asunto que no cuente con antecedente alguno en el sistema computarizado, éste lo distribuirá aleatoriamente, y de manera equilibrada entre los órganos jurisdiccionales; y
+II. Forma relacionada: Si al capturar los datos de registro del asunto, el sistema automatizado de turno arroja un antecedente que lo vincule con otro registrado con anterioridad dentro de una temporalidad de cinco años, atendiendo a la fecha de ingreso o recepción en la oficina de correspondencia común, ya sea por disposición expresa de la ley o conforme a un criterio de relación, con base en la información que proporcione el sistema y sin necesidad de consultar otros sistemas de gestión, se turnará al órgano jurisdiccional que tenga el último antecedente registrado, sin que para ello sea relevante si se abordó algún análisis del fondo del asunto.
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+Tratándose de concentraciones de procedimientos, exclusiones de turno, turnos a órganos jurisdiccionales de guardia, y todos aquellos que no tengan relación con las fracciones I y II del presente artículo, el turno se realizará de manera automática, a través del sistema, a los órganos jurisdiccionales que corresponda, de conformidad con las disposiciones normativas aplicables o la determinación del órgano competente.
 
-II. Forma Relacionada: Si al capturar los datos de registro del asunto, el sistema computarizado arroja un antecedente que lo vincule con otro registrado con anterioridad, ya sea por disposición expresa de la ley o conforme a un criterio de relación, general o específico, de los contenidos en el propio sistema, se turnará al mismo órgano jurisdiccional que conoce o conoció de aquél.
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 46.
 
-Son criterios generales de relación, en aplicación de los cuales un asunto de nuevo ingreso deberá turnarse a un órgano jurisdiccional determinado, por existir en el sistema un antecedente que hace procedente la vinculación, los siguientes:
+Son criterios generales de relación, en aplicación de los cuales un asunto de nuevo ingreso deberá turnarse a un órgano jurisdiccional determinado, por existir, en el sistema, un antecedente que hace procedente la vinculación, los siguientes:
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 I. La demanda de amparo adhesivo, que debe turnarse al órgano jurisdiccional que recibió el amparo principal;
 
-II. El juicio de amparo directo o indirecto, promovido contra actos provenientes de un expediente administrativo o jurisdiccional, averiguación previa o ejercicio de la acción penal, se turnará al órgano jurisdiccional que haya conocido de otro amparo promovido contra actos derivados de esos mismos asuntos;
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADA POR ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON EL FUNCIONAMIENTO DE LAS OFICINAS DE CORRESPONDENCIA COMÚN, D.O.F. 14 DE MARZO DE 2016)</small>
+II. Los juicios de amparo directo o indirecto, promovidos contra actos provenientes del mismo expediente jurisdiccional o administrativo seguido en forma de juicio, originado en una misma secuela procesal, se turnará al órgano jurisdiccional que tenga el último juicio de amparo registrado en el sistema en relación con esos asuntos;
 
-III. Los recursos de revisión, queja y reclamación relacionados con un juicio de amparo, al que tenga el antecedente del que derivan, conocido por cualquier vía; con excepción de la queja prevista en el artículo 97, fracción I, inciso b), de la Ley de Amparo;
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-IV. Cuando se promuevan demandas de amparo o interpongan recursos, que se refieran a una misma averiguación previa o ejercicio de la acción penal o acto de autoridad, al que tenga el último antecedente del asunto, aunque las partes no sean las mismas;
+III. Los recursos de revisión, queja y la inconformidad, relacionados con el mismo expediente jurisdiccional o administrativo seguido en forma de juicio, originado en una misma secuela procesal, se turnarán al órgano jurisdiccional que tenga el último antecedente registrado en el sistema, aun si se trata de otro recurso o un amparo directo; con excepción de la queja prevista en el artículo 97, fracción I, inciso b), de la Ley de Amparo;
 
-V. Las demandas de amparo que se promuevan respecto del cumplimiento de una ejecutoria;
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+IV. Cuando se promuevan demandas de amparo o interpongan recursos, que se refieran a una misma carpeta de investigación o causa penal, al que tenga el último antecedente del asunto;
+
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+V. Las demandas de amparo en las que el acto reclamado se emita en cumplimiento de lo ordenado en un diverso juicio de amparo;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 VI. Los recursos de revisión fiscal, al que conozca o haya conocido del juicio de amparo directo;
 
-VII. Los recursos de apelación, al tribunal unitario de Circuito que haya conocido del o los anteriores;
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+VII. Los recursos de apelación que deriven del mismo expediente o causa penal, al Tribunal Colegiado de Apelación que tenga el último antecedente registrado;
 
 VIII. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE DEROGA LA FRACCIÓN VIII DEL ARTÍCULO 46 DEL DIVERSO QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON LOS CRITERIOS PARA EL TURNO DE ASUNTOS, D.O.F. 13 DE DICIEMBRE DE 2016)
 
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+
 IX. En el caso de los procedimientos penales, así como sus recursos, que cuenten con antecedentes, se turnarán de manera relacionada;
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 X. Tratándose del ejercicio de la acción penal se observará lo siguiente:
 
@@ -677,33 +715,49 @@ b) Cuando el Ministerio Público presente de nuevo un ejercicio de la acción pe
 
 2. Si el juzgado la devolvió por omisión de formalidades, se capturará para efectos de control, en el tipo de asunto ejercicio de la acción penal devuelto;
 
-XI. Los que provengan de una averiguación previa identificada con el mismo número de índice y autoridad, de otra ya asignada; así como, los recursos o medios de impugnación, que se refieran a una misma averiguación previa o acto de autoridad, aunque promuevan diversas partes, se turnarán al órgano jurisdiccional que haya conocido den antecedente registrado;
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-XII. Los casos en los que por disposición legal aplicable a la materia, se establezca el conocimiento de asuntos diversos a cargo de un solo órgano jurisdiccional; y
+XI. Los que provengan de una averiguación previa identificada con el mismo número de índice y autoridad, de otra ya asignada; así como, los recursos o medios de impugnación, que se refieran a una misma averiguación previa o acto de autoridad, aunque promuevan diversas partes, se turnarán al órgano jurisdiccional que haya conocido en antecedente registrado;
 
-XIII. Los demás que determine el Pleno.
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+XII. Los casos en los que, por disposición legal aplicable a la materia, se establezca el conocimiento de asuntos diversos a cargo de un solo órgano jurisdiccional;
 
-La Comisión de Creación de Nuevos Órganos, a propuesta de la Secretaría Ejecutiva de Creación de Nuevos Órganos o de los titulares de los órganos jurisdiccionales podrá determinar criterios específicos de relación.
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+XIII. Las demandas de amparo o recursos que se refieran al mismo acto de autoridad, con excepción de aquellos presentados por distintos quejosos en contra de una misma norma general u omisión o cuando se trate de un diverso acto de aplicación de la norma;
 
-Dichos criterios deberán comunicarse a las oficinas de correspondencia común o a las oficialías de partes, según proceda, por conducto de la Dirección General de Gestión Judicial, y compilarse en un listado que se difundirá a través del portal de Intranet del Consejo.
+> <small>(ADICIONADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+XIV. La denuncia por declaratoria general de inconstitucionalidad se turnará al órgano que tenga el último antecedente registrado si se promueve contra actos provenientes del mismo expediente jurisdiccional o procedimiento administrativo seguido en forma de juicio, sin importar que el antecedente sea un juicio de amparo u otra denuncia por declaratoria general de inconstitucionalidad;
 
-La Secretaría Ejecutiva de Creación de Nuevos Órganos deberá elaborar y mantener actualizado el listado a que se refiere el párrafo anterior.
+> <small>(ADICIONADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-Quedan exentas de crear algún antecedente para la relación con posteriores asuntos las medidas precautorias de arraigo, aseguramiento, embargo, así como las órdenes de cateo que resulten indispensables para las averiguaciones previas, ello para los órganos jurisdiccionales que las dictan, y no así para los que conocen del amparo.
+XV. La ampliación de demanda se turnará al órgano jurisdiccional que la tuvo por no interpuesta o por no presentada, al ser éste el que tiene el último antecedente registrado; y
 
-> <small>(REFORMADO POR ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON EL FUNCIONAMIENTO DE LAS OFICINAS DE CORRESPONDENCIA COMÚN, D.O.F. 14 DE MARZO DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA] POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-Cuando se turne un asunto al órgano jurisdiccional y éste estime que es a otro al que corresponde conocer del asunto por razón de turno, lo remitirá con sus anexos, al juzgado o tribunal que considere debe conocer; recibido dicho asunto por el órgano requerido éste decidirá si acepta o no el conocimiento del mismo. Si acepta, comunicará su resolución al requirente, previa notificación a las partes y dará aviso a la oficina de correspondencia común a fin de equilibrar las cargas de trabajo.
+XVI. Los demás que determine la Comisión de Creación de Nuevos Órganos.
 
-> <small>(REFORMADO POR ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON EL FUNCIONAMIENTO DE LAS OFICINAS DE CORRESPONDENCIA COMÚN, D.O.F. 14 DE MARZO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-En caso contrario, de no aceptar, devolverá el asunto al requirente, quien resolverá si insiste en no conocer del asunto por razón de turno, si no insiste, se limitará a comunicar su resolución al requerido. Si persiste en ello, sin suspender el trámite y únicamente con copia certificada de las constancias que acrediten lo argumentado; así como, la propuesta que se plantee, formulará consulta a la Comisión de Creación de Nuevos Órganos, la que resolverá de plano.
+Quedan exentas de crear antecedente para la relación con posteriores asuntos las medidas precautorias de arraigo; aseguramiento; embargo; órdenes de cateo; intervención de comunicaciones que resulten indispensables para las averiguaciones previas o integración de carpetas de investigación; los conflictos competenciales, los incidentes de inejecución de sentencia, las quejas urgentes, las demandas que deriven de una separación de juicios, los procesos civiles federales, mercantiles y administrativos así como los concursos mercantiles.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+No se relacionarán los asuntos que no se encuentren contemplados en el presente artículo, con excepción de las hipótesis previstas en los criterios específicos de relación determinados por la Comisión de Creación de Nuevos Órganos.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+La Comisión de Creación de Nuevos Órganos es el órgano facultado para regular los aspectos relativos al turno y distribución de los asuntos.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+Dicha Comisión, a propuesta de la Secretaría Ejecutiva de Creación de Nuevos Órganos, podrá determinar criterios específicos de relación, los cuales deberán comunicarse a las oficinas de correspondencia común por conducto de la Dirección General de Gestión Judicial y publicarse para su conocimiento general, en un listado que se difundirá en los portales de intranet e internet del Consejo. Este listado se elaborará y mantendrá actualizado por la citada Secretaría.
+
+> <small>(DEROGADO SEXTO PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+> <small>(DEROGADO SÉPTIMO PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 > <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
 
@@ -723,17 +777,63 @@ II. Tratándose de sentencias dictadas por los Tribunales Laborales Federales, r
 
 La solicitud de inicio de procedimiento de ejecución se tramitará en el expediente de origen, sin necesidad de registrarla como un nuevo asunto.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+###### Artículo 46 Ter.
+
+Las consultas de turno relacionado se formularán por escrito y se remitirán a la Secretaría Ejecutiva de Creación de Nuevos Órganos, por medio del Sistema de Gestión Documental, acompañadas de las constancias relevantes digitalizadas. Si las constancias son muy voluminosas, pero están digitalizadas en el correspondiente expediente electrónico, el órgano consultante señalará cuáles son las necesarias para la solución de la consulta.
+
+Se someterán a consideración de la Comisión de Creación de Nuevos Órganos las consultas de turno que entrañen la fijación de un criterio relevante o novedoso, mientras que la Secretaría Ejecutiva de Creación de Nuevos Órganos dará respuesta al resto de las consultas que se formulen.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+###### Artículo 46 Quater.
+
+El procedimiento que deben seguir los órganos jurisdiccionales para formular una consulta de turno es el siguiente:
+
+I. Cuando se turne un asunto al órgano jurisdiccional y éste estime que es a otro al que corresponde conocer del asunto por razón de turno, lo remitirá directamente con sus anexos, al juzgado o tribunal que considere debe conocer; recibido dicho asunto por el órgano requerido éste decidirá si acepta o no el conocimiento del mismo;
+
+II. Si el órgano requerido acepta el turno, comunicará su resolución al requirente, previa notificación a las partes y dará aviso a la oficina de correspondencia común a fin de equilibrar las cargas de trabajo;
+
+III. De no aceptar el turno, devolverá el asunto al órgano requirente, el que determinará si insiste en no conocer del asunto. En el supuesto de que no insista, se limitará a comunicar su resolución al órgano requerido;
+
+IV. Si el órgano requirente insiste en su postura, formulará consulta de turno sin suspender el trámite del asunto y remitirá vía electrónica las constancias que acrediten lo argumentado, así como la propuesta que se plantee;
+
+V. El planteamiento de una consulta de turno en ningún caso justifica la suspensión del procedimiento. En el caso de juicios de amparo indirecto, no debe reservarse la fijación de la fecha para la audiencia constitucional o diferirse la ya señalada;
+
+VI. La Secretaría Ejecutiva de Creación de Nuevos Órganos contará con un plazo de hasta diez días hábiles para dar respuesta a las consultas planteadas o para someter el proyecto de solución a la Comisión de Creación de Nuevos Órganos. En el caso de las consultas de turno que involucren a órganos con competencia en la materia penal o de ejecución penal, el plazo será de cinco días hábiles, contados a partir del día siguiente al de la recepción de la consulta; y
+
+VII. La Comisión de Creación de Nuevos Órganos o la Secretaría Ejecutiva de Creación de Nuevos Órganos resolverán de plano la consulta de turno.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+###### Artículo 46 Quinquies.
+
+Las consultas de turno relacionado son improcedentes:
+
+I. Si se formulan en contravención al procedimiento señalado en el artículo 46 Quater;
+
+II. Si involucran a órganos jurisdiccionales a los que les prestan servicios distintas oficinas de correspondencia común;
+
+III. Tratándose de juicio de amparo indirecto, si ya fue celebrada la audiencia constitucional;
+
+IV. En el recurso de apelación, si fue celebrada la audiencia de vista a que se refieren los artículos 373 y 382 del Código Federal de Procedimientos Penales;
+
+V. En amparo directo o asuntos que son de conocimiento de los Tribunales Colegiados de Circuito, si el asunto ya fue listado para sesión;
+
+VI. Cuando se plantee por segunda ocasión respecto de un mismo asunto, involucrando a los mismos órganos; y
+
+VII. En los demás casos en que la improcedencia resulte de algún criterio determinado por la Comisión de Creación de Nuevos Órganos.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 47.
 
-Los recursos de queja y reclamación, así como los incidentes por exceso o defecto en el cumplimiento de la suspensión, competencia de los tribunales colegiados de Circuito y que por sus características no inicien mediante la presentación de un escrito en las oficinas de correspondencia común, sino que se interpongan directamente ante dichos órganos jurisdiccionales, deberán hacerse del conocimiento de la oficina de correspondencia común respectiva para su registro inmediato.
+Los recursos de inconformidad y reclamación, los impedimentos de magistradas y magistrados de tribunal colegiado, así como los incidentes por exceso o defecto en el cumplimiento de la suspensión y de repetición del acto reclamado, competencia de los tribunales colegiados de Circuito y que por sus características no inicien mediante la presentación de un escrito en las oficinas de correspondencia común, sino que se interpongan directamente ante dichos órganos jurisdiccionales y éstos deban abocarse al conocimiento de los mismos, deberán hacerse del conocimiento de la oficina de correspondencia común respectiva para su registro inmediato.
 
-En los mismos términos, se enviarán a la oficina de correspondencia común los impedimentos de magistrados de tribunal colegiado y, en su caso, los asuntos de fondo.
+Cuando los asuntos no se ubiquen en el supuesto previsto en el párrafo anterior, los órganos jurisdiccionales deberán enviarlos a la oficina de correspondencia común para que realice el turno correspondiente.
 
-El recurso de queja previsto en el artículo 97, fracción I, inciso b), de la Ley de Amparo, se registrará en la oficina de correspondencia común, y se enviará de inmediato al órgano jurisdiccional al que por razón de turno corresponda conocer, con independencia de que se establezca un turno específico en el programa computarizado o cuando dicho turno se efectúe manualmente, auxiliándose para ello del personal encargado de la oficialía de partes de dicho órgano, para facilitar su trámite expedito.
-
-El sistema computarizado generará una base de datos de cada uno de los asuntos que se reciban y el destino que se les dio.
+El recurso de queja previsto en el artículo 97, fracción I, inciso b), de la Ley de Amparo, se registrará en la oficina de correspondencia común, y se enviará de inmediato al órgano jurisdiccional al que por razón de turno corresponda conocer, para facilitar su trámite.
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -779,49 +879,67 @@ XI. Incorporación forzosa al Ejército, Armada o Fuerza Aérea Nacionales; y
 
 XII. Aquellos que revistan tal carácter, conforme a las leyes que los rijan.
 
-Los asuntos considerados urgentes se turnarán y entregarán de inmediato al órgano jurisdiccional que correspondan; en la inteligencia de que esa calificación sólo tiene carácter administrativo para su atención oportuna, distinta de la legal del trámite que es facultad exclusiva de los órganos jurisdiccionales.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+Los asuntos considerados urgentes se turnarán y entregarán de inmediato al órgano jurisdiccional que correspondan; en la inteligencia de que esa calificación sólo tiene carácter administrativo para su atención oportuna, distinta de la legal del trámite que es facultad exclusiva de los órganos jurisdiccionales. En caso de que el órgano jurisdiccional determine que no se trata de un asunto urgente deberá solicitar a la oficina de correspondencia común, mediante oficio, el returno correspondiente.
 
 Para los efectos de la regulación de ingresos y una distribución equitativa de los asuntos urgentes entre los órganos jurisdiccionales, la recepción y distribución se hará de la siguiente manera:
 
-a) Si los asuntos son presentados ante la Oficina de Correspondencia Común de lunes a jueves, de las ocho horas con treinta minutos a las catorce horas con treinta minutos se turnarán entre todos los juzgados a los que presta servicio, conforme a las disposiciones previstas en este Capítulo;
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-b) De las catorce horas con treinta y un minutos a las veinticuatro horas y el día viernes, los oficios y promociones urgentes se enviarán al juzgado de Distrito que se encuentre de guardia, para la recepción de dichos asuntos, entregándose de inmediato al secretario autorizado.
+a) Si los asuntos son presentados ante la oficina de correspondencia común de lunes a jueves, de las ocho horas con treinta minutos a las catorce horas con treinta minutos se turnarán entre todos los órganos jurisdiccionales a los que presta servicio, conforme a las disposiciones previstas en este Capítulo;
 
-Tratándose de los juzgados de Distrito de procesos penales federales en el Distrito Federal, para el turno de asuntos urgentes debe atenderse a lo dispuesto en el artículo 32 de este Acuerdo; y
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-c) Fuera del horario de servicio de las oficinas de correspondencia común, así como los días sábados y domingos e inhábiles las promociones y oficios urgentes serán recibidos por el secretario autorizado del órgano jurisdiccional de guardia para la recepción de esta clase de asuntos, quien deberá presentarlas a la Oficina de Correspondencia Común en cuanto ésta reanude sus labores, a fin de que se realice el registro y la compensación respectiva para equilibrar las cargas de trabajo.
+b) De las catorce horas con treinta y un minutos a las veinte horas y el día viernes, los oficios y promociones urgentes se enviarán al órgano jurisdiccional que se encuentre de guardia, para la recepción de dichos asuntos, entregándose de inmediato a la o el secretario autorizado.
+
+En tal horario, no aplicará el turno relacionado para los asuntos urgentes en tanto se privilegiará la urgencia con la que éstos deben atenderse.
+
+Tratándose de los juzgados de Distrito de procesos penales federales en la Ciudad de México, para el turno de asuntos urgentes debe atenderse a lo dispuesto en el artículo 32 de este Acuerdo.
+
+En aquellos casos en los que los Tribunales Colegiados de Apelación, laboren conforme a esquemas de guardia, para la atención de asuntos que así lo ameriten, deberán hacerlo del conocimiento del personal de las oficinas de correspondencia común que les prestan servicio, a fin de que se gestione la configuración de los roles de guardias respectivos, en el sistema automatizado de turno; y
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+c) Fuera del horario de servicio de las oficinas de correspondencia común, así como los días sábados y domingos e inhábiles, las promociones y oficios urgentes serán recibidos por la o el secretario autorizado del órgano jurisdiccional de guardia para la recepción de esta clase de asuntos, quien deberá enviar un oficio con los datos mínimos necesarios para su registro a la oficina de correspondencia común en cuanto ésta reanude sus labores, a fin de que se realice el registro y la compensación respectiva para equilibrar las cargas de trabajo.
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 #### SECCIÓN DÉCIMA. HERRAMIENTA: "SECRETARIO QUE RECIBE"
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
 ###### Artículo 49.
 
-Tratándose de los asuntos recibidos por el secretario de guardia, el personal adscrito a las oficinas de correspondencia común los registrará y turnará utilizando la herramienta del sistema computarizado denominada "secretario que recibe".
+Tratándose de los asuntos recibidos por la secretaria o el secretario de guardia, el personal adscrito a las oficinas de correspondencia común los registrará y turnará utilizando la herramienta del sistema automatizado de turno denominada “secretario que recibe”.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 Con esta herramienta únicamente se registrarán y turnarán aquellos asuntos recibidos por el secretario de guardia, en horario inhábil de la oficina de correspondencia común.
 
-Al hacer uso de dicha herramienta invariablemente se deberá capturar la hora y fecha de recepción asentada por el secretario de guardia en los acuses respectivos o bien en los controles implementados, así como el nombre del referido servidor público.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+Al hacer uso de dicha herramienta se deberá capturar la hora y fecha de recepción asentada por la o el secretario de guardia en los acuses respectivos o bien en los controles implementados, así como el nombre de la referida persona servidora pública.
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 #### SECCIÓN DÉCIMA PRIMERA. BUZONES JUDICIALES
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 50.
 
-En los buzones judiciales que se instalen en las oficinas de correspondencia común, se recibirán asuntos nuevos y promociones de término que no tengan el carácter de urgentes.
+Fuera del horario de las oficinas de correspondencia común, la recepción de los asuntos nuevos y promociones de término que no tengan carácter de urgente se realizará a través de buzones judiciales.
 
-Los buzones judiciales serán abiertos todos los días hábiles a las siete horas con treinta minutos, por el jefe de la oficina de correspondencia común de que se trate; en ausencia de éste, por el técnico de enlace administrativo OCC encargado de la oficina o que se comisione para ello, quien elaborará acta o relación de los asuntos y promociones, para constancia.
+Los buzones judiciales funcionarán de las veinte horas con un minuto a las veintitrés horas con cincuenta y nueve minutos en días hábiles y no operarán durante las vacaciones, ni aquellos días en los que las oficinas de correspondencia común suspendan sus labores.
 
-Los documentos depositados se turnarán, según corresponda, al órgano jurisdiccional a primera hora del día hábil siguiente a su depósito. El oficial de partes o persona comisionada para tal efecto acudirá a la oficina de correspondencia común para recibirlos.
+La Dirección General de Gestión Judicial, en coordinación con la Secretaría Ejecutiva de Creación de Nuevos Órganos, podrá autorizar la modificación de los horarios de funcionamiento de las oficinas de correspondencia común y de los buzones judiciales atendiendo a las necesidades del servicio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 51.
 
-El horario de las oficinas de correspondencia común para el servicio al público, en las que se autorice la instalación de buzones judiciales, será de las ocho horas con treinta minutos a las veinte horas, en días hábiles. En consecuencia, los buzones judiciales funcionarán de las veinte horas con un minuto a las veinticuatro horas en días hábiles.
+Los documentos depositados en los buzones judiciales se turnarán, según corresponda, al órgano jurisdiccional al día hábil siguiente a su depósito, en orden cronológico. El personal designado por el órgano jurisdiccional acudirá a la oficina de correspondencia común para recibirlos.
 
 Los buzones judiciales no operarán durante las vacaciones ni aquellos días en los que las oficinas de correspondencia común suspendan sus labores.
 
@@ -833,25 +951,15 @@ La Comisión de Creación de Nuevos Órganos podrá autorizar la modificación d
 
 Es responsabilidad exclusiva de los usuarios verificar que los asuntos y promociones que depositen en los buzones judiciales estén debidamente firmados, integrados y dirigidos a los tribunales de Circuito o juzgados de Distrito a los que presta servicio la oficina de correspondencia común de que se trate.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 53.
 
-El personal de la oficina de correspondencia común, después de revisar que la documentación presentada se encuentra dirigida a los órganos jurisdiccionales a los que presta servicio o auxilia, procederá a su inmediato registro y turno a través del sistema computarizado.
+El personal de la oficina de correspondencia común, después de revisar que la documentación presentada se encuentra dirigida a los órganos jurisdiccionales a los que presta servicio o auxilia, procederá a su registro y turno a través del sistema automatizado de turno.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+Cuando por error o desconocimiento se deposite en el buzón judicial, algún asunto de los considerados como urgentes, éste deberá turnarse el mismo día, de acuerdo con la normativa atendiendo al horario en el que se advierta dicha circunstancia. Asimismo, cuando ello suceda fuera del horario de labores de la oficina de correspondencia común, se registrará y turnará con prioridad al día siguiente hábil con ese carácter, de manera aleatoria entre los órganos jurisdiccionales a los que proporciona servicio la oficina de correspondencia común.
 
-En el supuesto de que por error o desconocimiento se deposite en el buzón judicial un viernes por la noche y fin de semana, una demanda de amparo de trámite urgente, pero esto se advierte por el personal de la oficina de correspondencia común a la que auxilia dicho buzón, hasta el lunes a las siete horas con treinta minutos al abrir el buzón, dicho asunto se turnará al juzgado de Distrito que inició guardia a partir de ese lunes.
-
-Si de lunes a jueves se deposita en el buzón judicial, algún asunto de los considerados como urgentes, se registrará y turnará al día siguiente antes de las ocho horas con treinta minutos, con ese carácter, pero de manera aleatoria entre los órganos jurisdiccionales a los que proporciona servicio el buzón.
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
-
-Si la documentación que se presente en el buzón judicial se encuentra dirigida a diverso órgano jurisdiccional de los que auxilia el buzón, a la brevedad posible mediante oficio se enviará a su destinatario, por la vía más expedita, sin responsabilidad para el personal de la oficina de correspondencia común.
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
-
-En caso de que se depositen en el buzón judicial asuntos urgentes en el horario comprendido entre las catorce horas con treinta y un minutos y las veinte horas, y el personal de la oficina de correspondencia advierta que ya se depositaron este tipo de asuntos, se deben enviar al órgano jurisdiccional que se encuentre en turno, entregándose de inmediato al secretario autorizado.
+Si la documentación que se presente en el buzón judicial se encuentra dirigida a diverso órgano jurisdiccional de los que brinda servicio la unidad administrativa, a la brevedad posible, mediante oficio, se enviará a su destinatario, por la vía más expedita, sin responsabilidad para el personal de la oficina de correspondencia común.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -859,29 +967,33 @@ En caso de que se depositen en el buzón judicial asuntos urgentes en el horario
 
 Para no interrumpir el servicio de los buzones judiciales en caso de desabasto o fallas en los insumos, el personal de la oficina de correspondencia común de que se trate deberá vigilar que se cuente con los insumos indispensables; en caso de no contar con el material necesario para el funcionamiento de los buzones, dicha oficina deberá realizar la recepción de los asuntos ordinariamente, hasta en tanto se solucione la problemática.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 55.
 
-En el caso de presentación de asuntos ante los buzones judiciales, estos se registrarán en el sistema computarizado imprimiéndose por triplicado la boleta de turno, la que contendrá los requisitos a que se refiere el artículo 40 del presente ordenamiento, y cada tanto será sellado y firmado por la persona que lo haya registrado. Un ejemplar de dicha boleta se entregará al interesado; otro al órgano jurisdiccional al que en su caso se turne el asunto y, el último, lo conservará la oficina de correspondencia común como soporte documental o acuse de recibo, para efectos de consulta, inspección y archivo.
+Para los asuntos depositados en los buzones judiciales, de los que genere un folio electrónico para posibilitar el turno, la boleta correspondiente podrá ser consultada a través del Portal de Servicios en Línea del Poder Judicial de la Federación. Para ello, como soporte documental o acuse de recibo, podrán imprimirse únicamente, un ejemplar de la boleta de turno para el órgano jurisdiccional al que, en su caso, se turne el asunto y otro para la oficina de correspondencia común, para efectos de consulta, inspección y archivo.
 
-La boleta de turno del interesado la conservará el personal de la oficina de correspondencia común hasta en tanto éste acuda a recogerla y asiente en el ejemplar de la oficina la fecha, hora, así como su nombre y firma para constancia de su entrega.
+En caso de que el promovente solicite la impresión de la boleta de turno, la oficina de correspondencia común le hará entrega de un ejemplar de ésta.
 
-> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 56.
 
-Los demás aspectos inherentes al funcionamiento de los buzones judiciales se regularán en un protocolo que al efecto emita la Secretaría Ejecutiva de Creación de Nuevos Órganos, por conducto de la Dirección General de Estadística Judicial, con aprobación de la Comisión de Creación de Nuevos Órganos.
+Los demás elementos relativos al funcionamiento de los buzones judiciales se regularán en un protocolo que al efecto emita la Coordinación de Asesores de la Presidencia, a propuesta de la Dirección General de Gestión Judicial, en conjunto con la Secretaría Ejecutiva de Creación de Nuevos Órganos.
 
 #### SECCIÓN DÉCIMA SEGUNDA. TURNO DE ASUNTOS DURANTE LOS PERIODOS VACACIONALES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 57.
 
-Las oficinas de correspondencia común de los tribunales colegiados de Circuito, turnarán los asuntos mediante el sistema computarizado, incluyendo a los órganos colegiados que se encuentren disfrutando de su periodo vacacional.
+Las oficinas de correspondencia común de los tribunales colegiados de Circuito, turnarán los asuntos mediante el sistema automatizado de turno, incluyendo a los órganos colegiados que se encuentren disfrutando de su periodo vacacional.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 A los órganos jurisdiccionales que estén laborando se les entregarán de inmediato los asuntos que les hayan sido turnados; los que se encuentren de vacaciones los recibirán al reanudar sus labores, a excepción de las quejas interpuestas con fundamento en el artículo 97, fracción I, inciso b), de la Ley de Amparo, que serán resueltas por el tribunal o tribunales colegiados de Circuito que se encuentren funcionando.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 Las oficinas de correspondencia común que prestan servicio a tribunales colegiados especializados únicamente recibirán, registrarán y turnarán los asuntos de la materia a la que dan servicio, con excepción de lo previsto en la parte final del párrafo anterior.
 
@@ -929,15 +1041,15 @@ IV. No haber sido condenado por delito doloso con sanción privativa de libertad
 
 V. No estar inhabilitado para desempeñar empleo, cargo o comisión en el servicio público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 61.
 
-La Dirección General de Estadística Judicial solicitará a la Dirección General de Recursos Humanos, a las administraciones regionales y delegaciones administrativas de la Coordinación de Administración Regional, según corresponda, la aplicación de los exámenes de conocimientos y psicométricos a los candidatos a ocupar las plazas en las oficinas de correspondencia común, así como su evaluación.
+La Dirección General de Gestión Judicial solicitará a la Dirección General de Recursos Humanos, a las administraciones regionales y delegaciones administrativas de la Coordinación de Administración Regional, según corresponda, la aplicación de los exámenes de conocimientos y psicométricos a los candidatos a ocupar las plazas en las oficinas de correspondencia común, así como su evaluación.
 
-> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-Los exámenes serán los que determine la Comisión de Administración a propuesta que haga la Dirección General de Estadística Judicial, por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos. Dicha Dirección General elaborará el proyecto de examen de conocimientos.
+Los exámenes serán los que determine la Comisión de Administración a propuesta que haga la Dirección General de Gestión Judicial, previo visto bueno de la persona titular de la Coordinación de Asesores de la Presidencia.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -947,11 +1059,11 @@ Las personas que hayan causado baja en los cargos de jefe de oficina de correspo
 
 #### SECCIÓN DÉCIMA CUARTA. NOMBRAMIENTO DEL PERSONAL Y OTORGAMIENTO DE LICENCIAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 62.
 
-La Dirección General de Estadística Judicial, por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos, propondrá los nombramientos del personal de las oficinas de correspondencia común a la Comisión de Administración, de entre los aspirantes que hayan aprobado los exámenes respectivos y cumplan los requisitos del puesto previstos en el catálogo correspondiente; asimismo, autorizará las prórrogas de nombramientos.
+La Dirección General de Gestión Judicial previo visto bueno de la persona titular de la Coordinación de Asesores de la Presidencia, propondrá los nombramientos del personal de las oficinas de correspondencia común a la Comisión de Administración, de entre las y los aspirantes que hayan aprobado los exámenes respectivos y cumplan los requisitos del puesto previstos en el catálogo correspondiente; asimismo, autorizará las prórrogas de nombramientos. Las administraciones regionales y delegaciones administrativas de la Coordinación de Administración Regional, así como la Dirección General de Recursos Humanos, según corresponda, elaborarán y suscribirán los movimientos del personal de conformidad con las disposiciones aplicables. La Dirección General de Recursos Humanos enviará a la Dirección General de Gestión Judicial copia del nombramiento y demás movimientos del personal y conservará a su disposición los expedientes que se integren.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -961,25 +1073,25 @@ Las administraciones regionales y delegaciones administrativas de la Coordinaci�
 
 La Dirección General de Recursos Humanos enviará a la Dirección General de Estadística Judicial copia del nombramiento y demás movimientos del personal y conservará a su disposición los expedientes que se integren.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 63.
 
-En el supuesto de que se encuentre vacante la plaza de jefe de oficina de correspondencia común, se dará preferencia en el escalafón a quienes ocupen los puestos de técnicos de enlace administrativo OCC con mayor antigüedad en la propia oficina de que se trate o en otras, quienes deberán cubrir el perfil y aprobar los exámenes técnico-jurídicos y psicométricos que correspondan.
+En el supuesto de que se encuentre vacante la plaza de jefe de oficina de correspondencia común, se dará preferencia en el escalafón a quienes ocupen los puestos de técnicos de enlace administrativo OCC con mayor antigüedad en la propia oficina de que se trate o en otras, quienes deberán cubrir el perfil y aprobar los exámenes de conocimiento y psicométricos que correspondan.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 64.
 
-En caso de ausencia menor de tres días, y durante los periodos vacacionales del jefe de la oficina de correspondencia común, será suplido por el técnico de enlace administrativo OCC de mayor antigüedad en la propia oficina, a quien se le proveerá de la clave del sistema a efecto de que se encargue de coordinar la recepción, registro, turno y entrega de asuntos e informará a la Dirección General de Estadística Judicial.
+En caso de ausencia menor de tres días, y durante los periodos vacacionales de la jefa o el jefe de la oficina de correspondencia común, será suplido por la o el técnico de enlace administrativo OCC de mayor antigüedad en la propia oficina, a quien se le ampliará el acceso al sistema, durante el periodo de suplencia, a efecto de que se encargue de coordinar la recepción, registro, turno y entrega de asuntos e informará a la Dirección General de Gestión Judicial. Bajo ninguna circunstancia, la clave de la jefa o jefe de la OCC, se entregará a quien lo supla por la ausencia.
 
-Tratándose de la ausencia de un técnico de enlace administrativo OCC por un plazo igual al antes referido y durante los periodos vacacionales, sus funciones serán cubiertas por el propio jefe de la oficina y los demás técnicos de enlace administrativos OCC. En caso de que no los hubiere, los titulares de los órganos jurisdiccionales a los que presta servicio la unidad administrativa de que se trate, comisionarán provisionalmente, de entre su plantilla de personal, al servidor público que deberá auxiliar a la oficina de correspondencia común en sus labores, dando aviso a la Dirección General de Estadística Judicial.
+Tratándose de la ausencia de una o un técnico de enlace administrativo OCC por un plazo igual al antes referido y durante los periodos vacacionales, sus funciones serán cubiertas por la jefa o el jefe de la oficina y los demás técnicos de enlace administrativos OCC. En caso de que no los hubiere las y los titulares de los órganos jurisdiccionales, a los que presta servicio la unidad administrativa de que se trate, comisionarán provisionalmente, de entre su plantilla de personal, a la o el servidor público que deberá auxiliar a la oficina de correspondencia común en sus labores, dando aviso a la Dirección General de Gestión Judicial.
 
-> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 65.
 
-La Dirección General de Estadística Judicial, previo visto bueno de la Secretaría Ejecutiva de Creación de Nuevos Órganos autorizará las licencias del personal de las oficinas de correspondencia común de conformidad con las disposiciones aplicables.
+La Dirección General de Gestión Judicial, previo visto bueno de la persona titular de la Coordinación de Asesores de la Presidencia, autorizará las licencias del personal de las oficinas de correspondencia común de conformidad con las disposiciones aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -989,45 +1101,51 @@ La Dirección General de Estadística Judicial, previo visto bueno de la Secreta
 
 (DEROGADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 67.
 
-El Consejo, a través de la Dirección General de Estadística Judicial, inspeccionará el funcionamiento de las oficinas de correspondencia común y supervisará el desempeño tanto de los titulares de las oficinas de correspondencia común, como de los servidores públicos adscritos a éstas.
+El Consejo, a través de la Dirección General de Gestión Judicial, inspeccionará el funcionamiento de las oficinas de correspondencia común y supervisará el desempeño tanto de las y los titulares como de las y los servidores públicos adscritos a éstas.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 68.
 
-Si con motivo de la supervisión al funcionamiento de las oficinas de correspondencia común, la Dirección General de Estadística Judicial detectara por parte del personal adscrito a dichas oficinas, un probable incumplimiento de sus obligaciones o la posible comisión de alguna irregularidad que pudiera configurar responsabilidades administrativas, efectuará la denuncia correspondiente ante la Contraloría del Poder Judicial de la Federación.
+Si con motivo de la supervisión al funcionamiento de las oficinas de correspondencia común, la Dirección General de Gestión Judicial detectara por parte del personal adscrito a dichas oficinas, un probable incumplimiento de sus obligaciones o la posible comisión de alguna irregularidad que pudiera configurar responsabilidades administrativas efectuará la denuncia correspondiente ante la Contraloría del Consejo de la Judicatura Federal.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 Lo anterior con independencia de las responsabilidades que en materia penal, civil y laboral, se pudieran actualizar.
 
-> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 69.
 
-La remoción de los servidores públicos de las oficinas de correspondencia común corresponde a la Comisión de Administración previo dictamen que para el efecto presente la Dirección General de Estadística Judicial, por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos, cuando se incumpla con las obligaciones inherentes al puesto en que se desempeña, de conformidad con las disposiciones aplicables.
+La remoción de las personas servidoras públicas de las oficinas de correspondencia común, cuando se incumpla con las obligaciones inherentes al puesto en que se desempeña, de conformidad con las disposiciones aplicables, corresponde a la Comisión de Administración previo dictamen que para el efecto presente la Dirección General de Gestión Judicial, el cual deberá contar con el visto bueno de la persona titular de la Coordinación de Asesores de la Presidencia.
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 #### SECCIÓN DÉCIMA SEXTA. CONVOCATORIAS
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 70.
 
-La Dirección General de Estadística Judicial con apoyo del Instituto de la Judicatura emitirá anualmente convocatorias públicas dirigidas a profesionales y estudiantes de derecho dentro y fuera del Poder Judicial de la Federación, a fin de promover las posibilidades de participación y empleo que se ofrecen en las citadas oficinas en los diversos circuitos y residencias.
+La Dirección General de Gestión Judicial con apoyo de la Escuela Federal de Formación Judicial emitirá anualmente convocatorias públicas dirigidas a profesionales y estudiantes de derecho dentro y fuera del Poder Judicial de la Federación, a fin de promover las posibilidades de participación y empleo que se ofrecen en las citadas oficinas en los diversos circuitos.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 Las convocatorias se acompañarán de campañas de difusión nacional y regional en escuelas y universidades que impartan la licenciatura en derecho, asociaciones profesionales de abogados y bolsas de trabajo, entre otras, a fin de generar una eventual reserva de potenciales aspirantes que, cubriendo el perfil y requisitos del puesto, se encuentren en aptitud de incorporarse de inmediato a las unidades administrativas en los lugares en que se requiera.
 
-La Dirección General de Comunicación Social colaborará en el diseño de la campaña promocional de las convocatorias, empleando los medios de publicidad que se estimen pertinentes para asegurar su difusión. La Coordinación de Administración Regional, así como el Instituto de la Judicatura y sus extensiones apoyarán a la Dirección General de Estadística Judicial en la logística y trámites para su implementación en los diversos circuitos.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+La Dirección General de Comunicación Social y Vocería colaborará en el diseño de la campaña promocional de las convocatorias, empleando los medios de publicidad que se estimen pertinentes para asegurar su difusión. La Coordinación de Administración Regional, así como la Escuela Federal de Formación Judicial y sus extensiones apoyarán a la Dirección General de Gestión Judicial en la logística y trámites para su implementación en los diversos circuitos.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 71.
 
-Los requisitos de las convocatorias, su calendario, etapas, las formas de identificar a los aspirantes, la vigencia de los resultados obtenidos, la instancia que aplicará los exámenes y resolverá las circunstancias no previstas, la comunicación de los resultados y demás elementos, se precisarán en el protocolo que al efecto expida la Secretaría Ejecutiva de Creación de Nuevos Órganos, por conducto de la Dirección General de Estadística Judicial, con autorización de la Comisión de Administración.
+Los requisitos de las convocatorias, su calendario, etapas, las formas de identificar a las personas aspirantes, la vigencia de los resultados obtenidos, la instancia que aplicará los exámenes y resolverá las circunstancias no previstas, la comunicación de los resultados y demás elementos, se precisarán en el protocolo que al efecto expida la Dirección General de Gestión Judicial.
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -1039,33 +1157,31 @@ Los requisitos de las convocatorias, su calendario, etapas, las formas de identi
 
 Son obligaciones de los servidores públicos de las oficinas de correspondencia común, cumplir con la máxima diligencia el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de éste, debiendo entender por servicio encomendado, al cúmulo de obligaciones, atribuciones y funciones inherentes al cargo, las cuales se encuentran contenidas en la Ley Orgánica, en la Ley General de Responsabilidades Administrativas, en el presente Acuerdo, y en las demás disposiciones aplicables.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 73.
 
-La Dirección General de Estadística Judicial de manera potestativa y con apego a sus atribuciones, podrá dictar medidas preventivas de carácter general, a fin de procurar el adecuado funcionamiento de las oficinas de correspondencia común, las cuales deberán estar orientadas a prevenir y evitar conductas u omisiones que puedan propiciar o generar actuaciones y prácticas irregulares en el desempeño de los servidores públicos adscritos a éstas. Las medidas preventivas no tienen la naturaleza de sanciones administrativas.
+La Dirección General de Gestión Judicial de manera potestativa y con apego a sus atribuciones, podrá dictar medidas preventivas de carácter general, a fin de procurar el adecuado funcionamiento de las oficinas de correspondencia común, las cuales deberán estar orientadas a prevenir y evitar conductas u omisiones que puedan propiciar o generar actuaciones y prácticas irregulares en el desempeño de las y los servidores públicos adscritos a éstas. Las medidas preventivas no tienen la naturaleza de sanciones administrativas.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 74.
 
-La Dirección General de Estadística Judicial deberá llevar un control de incidencias de los servidores públicos adscritos a las oficinas de correspondencia común.
+La Dirección General de Gestión Judicial deberá llevar un control de incidencias de las personas servidoras públicas adscritas a las oficinas de correspondencia común.
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 #### SECCIÓN DÉCIMA OCTAVA. DISPOSICIONES COMPLEMENTARIAS
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 75.
 
-La Dirección General de Estadística Judicial coadyuvará en las gestiones que realicen las oficinas de correspondencia común, para la obtención de los servicios administrativos que en materia de recursos humanos, materiales, financieros, informáticos y de servicios requieran para su adecuada operación, los que serán suministrados por las unidades administrativas competentes.
-
-> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+La Dirección General de Gestión Judicial coadyuvará en las gestiones que realicen las oficinas de correspondencia común, para la obtención de los servicios administrativos que en materia de recursos humanos, materiales, financieros, informáticos y de servicios requieran para su adecuada operación, los que serán suministrados por las unidades administrativas competentes.
 
 ###### Artículo 76.
 
-Corresponde a la Secretaría Ejecutiva de Creación de Nuevos Órganos, por conducto de la Dirección General de Estadística Judicial, elaborar los protocolos relativos al establecimiento de los buzones judiciales, nombramiento de personal, y las convocatorias para la selección de personal, así como los que se requieran para el cumplimiento de este Capítulo, previa aprobación de las Comisiones del Consejo que resulten competentes.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -1489,9 +1605,9 @@ II. Servirá de enlace entre el propio órgano jurisdiccional al que está adscr
 
 III. Atenderá las instrucciones que le encomiende el o los titulares del órgano jurisdiccional según corresponda que se relacionen con actividades jurídico-administrativas del propio órgano; entre otras, visitas de inspección, control y manejo de archivo, SISE CB, y videoconferencias. En ese último caso deberán coordinarse con la Dirección General de Tecnologías de la Información;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL, EN RELACIÓN CON LAS FUNCIONES DE LOS COORDINADORES TÉCNICOS ADMINISTRATIVOS, COMO AGENTES CERTIFICADORES, D.O.F. 18 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-IV. Fungirá como agente certificador para tramitar la emisión, renovación y revocación de Certificados Digitales de la Firma Electrónica Certificada del Poder Judicial de la Federación, de conformidad con el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo y demás disposiciones aplicables, cumpliendo con el rol establecido por la Dirección General de Estadística Judicial; y
+IV. Fungirá como agente certificador para tramitar la emisión, renovación y revocación de Certificados Digitales de la Firma Electrónica Certificada del Poder Judicial de la Federación, de conformidad con el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo y demás disposiciones aplicables, cumpliendo con el rol establecido por la Dirección General de Gestión Judicial; y
 
 > <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL, EN RELACIÓN CON LAS FUNCIONES DE LOS COORDINADORES TÉCNICOS ADMINISTRATIVOS, COMO AGENTES CERTIFICADORES, D.O.F. 18 DE NOVIEMBRE DE 2016)</small>
 
@@ -2623,7 +2739,7 @@ Este libro se llevará conforme a la tabla número doce del anexo de este Acuerd
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 149.
 
@@ -2967,7 +3083,9 @@ X. Observaciones. En esta columna deberán anotarse los supuestos en que se dese
 
 También podrán anotarse la letra o el número con los que se identifique internamente la ponencia a la que se turnó el expediente; la fecha en que se turnó; la fecha en que el asunto se liste y todos los datos que sin estar comprendidos en los apartados anteriores, resulten necesarios para un mejor control de los asuntos.
 
-### CAPÍTULO SEGUNDO. ANALISTA JURÍDICO ENCARGADO DEL SISE
+### CAPÍTULO SEGUNDO. OFICIAL JUDICIAL ENCARGADO DEL SISE
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 169.
 
@@ -2979,15 +3097,17 @@ Los libros electrónicos de registro, del módulo “Libros de control” del SI
 
 El llenado de los libros electrónicos, se realizará en forma automática mediante la captura de los datos correspondientes en el SISE.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
 ###### Artículo 171.
 
-La Dirección General de Estadística Judicial otorgará la correspondiente clave de acceso para la consulta de libros electrónicos, únicamente:
+La Dirección General de Gestión Judicial otorgará la correspondiente clave de acceso para la consulta de libros electrónicos, únicamente:
 
-I. Al titular o magistrados integrantes del órgano jurisdiccional de que se trate, así como a la persona o personas que éstos designen;
+I. A la o el titular o magistradas y magistrados integrantes del órgano jurisdiccional de que se trate, así como a la persona o personas que éstos designen;
 
-II. Al Visitador General y a los Visitadores Judiciales “A” y “B”, así como a la persona o personas que designe el primero;
+II. A la o el titular de la Visitaduría General y a las y los Visitadores Judiciales “A” y “B”, así como a la persona o personas que designe el primero;
 
-III. Al personal de la propia Dirección General de Estadística Judicial que designe su titular; y
+III. Al personal de la propia Dirección General de Gestión Judicial que designe su titular; y
 
 IV. A la persona o personas que determine el Pleno o alguna de las Comisiones.
 
@@ -2999,65 +3119,79 @@ Durante la práctica de las visitas de inspección que se desarrollen físicamen
 
 La Comisión de Creación de Nuevos Órganos resolverá las cuestiones que se susciten con motivo de la aplicación de este Capítulo.
 
-En los casos relacionados con la aplicación del artículo 170 de este Acuerdo, la resolución se emitirá previo dictamen de la Dirección General de Estadística Judicial.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+En los casos relacionados con la aplicación del artículo 170 de este Acuerdo, la resolución se emitirá previo dictamen de la Dirección General de Gestión Judicial.
+
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ### CAPÍTULO TERCERO. REPORTES ESTADÍSTICOS
 
-#### SECCIÓN PRIMERA. INDICADORES DE INFORMACIÓN ESTADÍSTICA
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+#### SECCIÓN PRIMERA. INFORMACIÓN ESTADÍSTICA
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 #### SECCIÓN SEGUNDA. CAPTACIÓN DE INFORMACIÓN JUDICIAL FEDERAL
 
-#### SECCIÓN TERCERA. PROCESAMIENTO DE INFORMACIÓN
+#### SECCIÓN TERCERA. CAPTURA Y ALMACENAMIENTO DE INFORMACIÓN
 
-## TÍTULO CUARTO. SISTEMA INTEGRAL DE SEGUIMIENTO DE EXPEDIENTES
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+## TÍTULO CUARTO. SISTEMAS DE GESTIÓN JUDICIAL
 
 ### CAPÍTULO CUARTO. SENTENCIAS Y TESIS
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
 ###### Artículo 174.
 
-El SISE es un programa automatizado de captura y reporte de datos estadísticos sobre el movimiento de asuntos del conocimiento de los órganos jurisdiccionales, con excepción de los que formen parte de los Centros de Justicia Penal, de los tribunales laborales federales, de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
+El SISE es un sistema de gestión judicial relativo a los asuntos del conocimiento de los órganos jurisdiccionales, con excepción de los Tribunales Laborales Federales, de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
 
-El SIGE es un programa automatizado de gestión de los asuntos del conocimiento de los Tribunales Laborales Federales del Poder Judicial de la Federación.
+El SIGE es un sistema de gestión judicial de los asuntos del conocimiento de los Tribunales Laborales Federales del Poder Judicial de la Federación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 175.
 
-Es obligación de las y los titulares de los órganos jurisdiccionales el empleo del SISE o SIGE, para el registro de los movimientos de los juicios de amparo, procesos y recursos que ante ellos se tramiten; de igual manera, bajo la supervisión del secretario que al efecto designen dichos titulares, deberá realizarse la captura diaria de datos que asegure la permanente actualización y veracidad de la información contenida en dichas plataformas.
+Es obligación de las y los titulares de los órganos jurisdiccionales, así como del personal a su cargo, el empleo del SISE o SIGE, el Sistema de Monitoreo de Notificaciones y demás sistemas de gestión judicial, para el registro de los movimientos de los juicios de amparo, procesos y recursos que ante ellos se tramiten; de igual manera, bajo la supervisión de la o el secretario que al efecto designen dichos titulares, deberá realizarse la captura diaria de datos que asegure la permanente actualización y veracidad de la información contenida en dichas plataformas.
 
 La información obtenida de cada uno de los órganos jurisdiccionales, podrá ser utilizada para efectos de control, gestión y administración interna, así como para responder a las consultas que de manera ordinaria o extraordinaria formulen los órganos y áreas competentes del Poder Judicial de la Federación.
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 176.
 
-Los datos que reporten el SISE y el SIGE, serán concentrados en forma automatizada en los servidores centrales ubicados en la Ciudad de México y en los servidores regionales instalados en diversas ciudades del resto de la República. La información almacenada se utilizará como apoyo en la toma de decisiones relativas al control, administración, vigilancia, disciplina y planeación del Poder Judicial de la Federación.
+Los datos capturados en los sistemas de gestión judicial serán almacenados cumpliendo los estándares de seguridad establecidos en las políticas institucionales en la materia. La información almacenada se utilizará como apoyo en la toma de decisiones relativas al control, administración, vigilancia, disciplina y planeación del Poder Judicial de la Federación.
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 177.
 
-Las características de la información requerida, así como la normatividad para registrar los datos que exigen el SISE y el SIGE, podrán adecuarse conforme lo determine la experiencia de su operación y los avances tecnológicos que aporten nuevas herramientas para facilitar y optimizar la extracción, concentración y explotación de la información disponible, para control interno de los órganos jurisdiccionales y, en un aspecto general, por los órganos de gobierno del Consejo.
+Las características de la información requerida, así como la normatividad para registrar los datos que exigen los sistemas de gestión judicial, podrán adecuarse conforme lo determine la experiencia de su operación y los avances tecnológicos que aporten nuevas herramientas para facilitar y optimizar la extracción, concentración y explotación de la información disponible, para control interno de los órganos jurisdiccionales y, en un aspecto general, por los órganos de gobierno del Consejo.
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 178.
 
-La Visitaduría Judicial, con motivo de las visitas de inspección que realice a los órganos jurisdiccionales, supervisará que el registro de expedientes en el SISE o SIGE se realice de manera diaria y que la información almacenada corresponda fielmente con lo actuado; en caso de omisión, será materia de recomendación, de la que se anexará copia al expediente personal del titular del órgano jurisdiccional que infrinja las disposiciones contenidas en este Capítulo.
+La Visitaduría Judicial, con motivo de las visitas de inspección que realice a los órganos jurisdiccionales, supervisará que el registro de expedientes en los sistemas de gestión judicial se realice de manera diaria y que la información almacenada corresponda fielmente con lo actuado; en caso de omisión, será materia de recomendación, de la que se anexará copia al expediente personal de la o el titular del órgano jurisdiccional que infrinja las disposiciones contenidas en este Capítulo.
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 179.
 
-Corresponde a la Dirección General de Tecnologías de la Información solucionar los problemas técnicos que surjan con motivo de la operación del SISE y/o SIGE, de la red de comunicaciones y del equipo de cómputo destinado a la captura de datos y, en caso de estimar que se trata de un asunto que no es de su competencia, lo comunicará a la Dirección General de Gestión Judicial, con independencia de que promueva lo conducente, en el área administrativa respectiva, para resolverlo.
+Corresponde a la Dirección General de Tecnologías de la Información solucionar los problemas técnicos que surjan con motivo de la operación de los sistemas de gestión judicial, de la red de comunicaciones y del equipo de cómputo destinado a la captura de datos y, en caso de estimar que se trata de un asunto que no es de su competencia, lo comunicará a la Dirección General de Gestión Judicial, con independencia de que promueva lo conducente, en el área administrativa respectiva, para resolverlo.
+
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ### CAPÍTULO QUINTO. SISE CONTROL BIOMÉTRICO
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 180.
 
-El analista jurídico encargado de la captura y actualización de datos de los distintos asuntos del conocimiento de los órganos jurisdiccionales, tendrá las siguientes funciones:
+La o el oficial judicial encargado de la captura y actualización de datos de los distintos asuntos del conocimiento de los órganos jurisdiccionales, tendrá las siguientes funciones:
 
 I. Capturar y registrar en el SISE, cada uno de los asuntos que ingresen al órgano jurisdiccional;
 
@@ -3069,7 +3203,9 @@ IV. Registrar todos los documentos que se exhiban como garantía, inmediatamente
 
 V. Cumplir con la normatividad que regula el SISE.
 
-En caso de duda, respecto de lo señalado en la normatividad, deberá solicitar el apoyo de la Dirección General de Estadística Judicial, a través de los foros jurídico y técnico, de consulta interactiva que funcionan en el SISE, mediante comunicación telefónica o correo electrónico;
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+En caso de duda, respecto de lo señalado en la normatividad, deberá solicitar el apoyo de la Dirección General de Gestión Judicial mediante comunicación telefónica o correo electrónico;
 
 VI. Mantener actualizada la plantilla de los servidores públicos del órgano jurisdiccional al que se encuentre adscrito;
 
@@ -3083,13 +3219,17 @@ IX. Apoyar al titular o presidente del órgano jurisdiccional con los listados o
 
 X. Las que determine el titular o presidente del órgano jurisdiccional al que se encuentre adscrito, en relación con el SISE.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
 ###### Artículo 181.
 
-Para el debido y puntual desempeño de sus funciones, el analista jurídico encargado del SISE, tendrá la facultad de solicitar y recabar los expedientes, una vez publicados en la lista de acuerdos correspondiente, para llevar a cabo la captura inmediata de datos en el SISE.
+Para el debido y puntual desempeño de sus funciones, la o el oficial judicial encargado del SISE, tendrá la facultad de solicitar y recabar los expedientes, una vez publicados en la lista de acuerdos correspondiente, para llevar a cabo la captura inmediata de datos en el SISE.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 182.
 
-El analista jurídico encargado del SISE tendrá la responsabilidad de:
+La o el oficial judicial encargado del SISE tendrá la responsabilidad de:
 
 I. Aplicar las disposiciones respectivas para cada uno de los diversos tipos de asuntos del conocimiento de los órganos jurisdiccionales;
 
@@ -3099,9 +3239,11 @@ III. Mantener y guardar discreción de los asuntos o información a la que tenga
 
 IV. Observar los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de su actividad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
 ###### Artículo 183.
 
-Para ser designado analista jurídico, encargado de la captura de datos y actualización de los asuntos del conocimiento de los órganos jurisdiccionales, los aspirantes deberán acreditar los siguientes requisitos:
+Para ser designado oficial judicial encargado del SISE, los aspirantes deberán acreditar los siguientes requisitos:
 
 I. Contar con título de licenciado en derecho;
 
@@ -3111,37 +3253,47 @@ III. Comprobar conocimientos mínimos del sistema operativo windows con manejo d
 
 IV. Aprobar examen psicométrico a fin de evaluar rasgos de personalidad, inteligencia, trabajo bajo presión, relaciones interpersonales y capacidad de respuesta.
 
-La Dirección General de Recursos Humanos programará los exámenes técnico y psicométrico correspondientes, hará del conocimiento del titular o presidente del órgano jurisdiccional la fecha y hora en que se llevarán a cabo, y una vez aplicados y evaluados informará al titular o presidente respectivo, así como a la Dirección General de Estadística Judicial, la procedencia o improcedencia del nombramiento.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+La Dirección General de Recursos Humanos programará los exámenes técnico y psicométrico correspondientes, hará del conocimiento de la persona titular o presidenta del órgano jurisdiccional la fecha y hora en que se llevarán a cabo, y una vez aplicados y evaluados informará a la persona titular o presidenta respectivo (sic), así como a la Dirección General de Gestión Judicial, la procedencia o improcedencia del nombramiento.
 
 En el caso de los órganos jurisdiccionales con residencia fuera del Distrito Federal y de su zona conurbada, la aplicación de los exámenes será responsabilidad de los Administradores Regionales y Delegados Administrativos, quienes remitirán a la Dirección General de Recursos Humanos dichos exámenes, con la documentación referida en las fracciones I y II de este artículo.
 
-La Dirección General de Recursos Humanos conservará, para consulta de la Dirección General de Estadística Judicial, la documentación relativa al expediente que para el efecto se integre.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+La Dirección General de Recursos Humanos conservará, para consulta de la Dirección General de Gestión Judicial, la documentación relativa al expediente que para el efecto se integre.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 184.
 
-La designación del analista jurídico encargado del SISE, así como del servidor público que, en su caso, deberá sustituirlo, se realizará por el titular o presidente del órgano jurisdiccional, previo cumplimiento de los requisitos antes señalados, quien suscribirá y tramitará el nombramiento correspondiente ante la Dirección General de Recursos Humanos, en su caso, a través de la Administración Regional o Delegación Administrativa respectiva, y lo hará del conocimiento de la Dirección General de Estadística Judicial.
+La designación de la o el oficial judicial encargado del SISE, así como de la servidora pública o el servidor público que, en su caso, deberá sustituirlo, se realizará por la persona titular o presidenta del órgano jurisdiccional, previo cumplimiento de los requisitos antes señalados, quien suscribirá y tramitará el nombramiento correspondiente ante la Dirección General de Recursos Humanos, o en su caso, a través de la Administración Regional o Delegación Administrativa respectiva, y lo hará del conocimiento de la Dirección General de Gestión Judicial.
 
 ###### Artículo 185.
 
 La supervisión del registro diario de movimientos de los juicios de amparo, procesos federales y recursos que se tramiten ante los órganos jurisdiccionales, que asegure la permanente actualización y veracidad de la información, estará a cargo del secretario que al efecto designen los titulares o presidentes de los órganos jurisdiccionales.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
 ###### Artículo 186.
 
-El analista jurídico que no cumpla con las funciones encomendadas, será removido de su cargo, por el titular o presidente del órgano jurisdiccional de que se trate, quien suscribirá y tramitará el aviso de baja correspondiente ante la Dirección General de Recursos Humanos o, en su caso, a través de la Administración Regional o Delegación Administrativa respectiva, y lo hará del conocimiento de la Dirección General de Estadística Judicial.
+La o el oficial judicial que no cumpla con las funciones encomendadas, será removido de su cargo, por la persona titular o presidenta del órgano jurisdiccional de que se trate, quien suscribirá y tramitará el aviso de baja correspondiente ante la Dirección General de Recursos Humanos o, en su caso, a través de la Administración Regional o Delegación Administrativa respectiva, y lo hará del conocimiento de la Dirección General de Gestión Judicial.
 
 ### CAPÍTULO SEXTO. PUBLICACIÓN DE LISTAS DE ACUERDOS
 
 ###### Artículo 187.
 
-Es obligatorio el uso del módulo “Reportes Estadísticos” contenido en el SISE, como programa automatizado para la captura y envío de los informes estadísticos mensuales, relativos a los movimientos de los asuntos del conocimiento de los órganos jurisdiccionales.
+Es obligatorio el uso del módulo “Reportes Estadísticos” contenido en el SISE, como programa para la captura y envío de los informes estadísticos mensuales, relativos a los movimientos de los asuntos del conocimiento de los órganos jurisdiccionales.
 
 ###### Artículo 188.
 
 El ingreso y envío de los reportes estadísticos deberá realizarse a más tardar, dentro de los primeros cinco días naturales del mes siguiente por el que se rinda el informe correspondiente.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
 ###### Artículo 189.
 
-Los órganos jurisdiccionales que no cuenten con el SISE, deberán rendir su estadística mediante la captura que realicen en el formato contenido en el correo electrónico o dispositivo electrónico de almacenamiento de información que al efecto les será remitido oportunamente, hasta en tanto cuenten con el SISE.
+Los órganos jurisdiccionales que no cuenten con el módulo “Reportes Estadísticos” en los sistemas de gestión judicial, deberán rendir su estadística mediante el formato o dispositivo electrónico de almacenamiento de información que determine la Dirección General de Estadística Judicial, el cual les será remitido oportunamente.
 
 ###### Artículo 190.
 
@@ -3151,15 +3303,17 @@ La Visitaduría Judicial, con motivo de las visitas de inspección que se realic
 
 ###### Artículo 191.
 
-Es obligatorio el uso del módulo Sentencias contenido en el SISE, como programa automatizado para la captura y consulta de las sentencias que dicten los órganos jurisdiccionales.
+Es obligatorio el uso del módulo Sentencias contenido en los sistemas de gestión judicial, como programa para la captura y consulta de las sentencias que dicten los órganos jurisdiccionales.
 
 ###### Artículo 192.
 
 Los presidentes y titulares de los órganos jurisdiccionales, deberán emplear el referido módulo, para la captura de las resoluciones definitivas que pongan fin al juicio o procedimiento judicial que ante ellos se tramite.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
 ###### Artículo 193.
 
-Los órganos jurisdiccionales, tendrán acceso a las sentencias dictadas por los tribunales de Circuito y juzgados de Distrito, capturadas en el SISE.
+Los órganos jurisdiccionales, tendrán acceso a las sentencias dictadas por los tribunales de Circuito y juzgados de Distrito, capturadas en los sistemas de gestión judicial.
 
 ###### Artículo 194.
 
@@ -3169,25 +3323,27 @@ La Dirección General de la Coordinación de Compilación y Sistematización de 
 
 En el módulo de Tesis del SISE, deberá continuarse con la captura de las tesis aprobadas por cada uno de los tribunales Colegiados de Circuito, a fin de que los demás órganos jurisdiccionales puedan imponerse de su contenido, sin perjuicio de lo dispuesto en el artículo 219 de la Ley de Amparo.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
 ###### Artículo 196.
 
-La Dirección General de Estadística Judicial será la responsable de vigilar el correcto funcionamiento del SISE y del cumplimiento de lo establecido en este Capítulo.
+La Dirección General de Gestión Judicial será la responsable de vigilar el correcto funcionamiento de los sistemas de gestión judicial y del cumplimiento de lo establecido en este Capítulo.
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
 
 ### CAPÍTULO OCTAVO. INFORMACIÓN ESTADÍSTICA JUDICIAL Y GEOREFERENCIADA
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
 ###### Artículo 197.
 
-Es obligatorio el uso del módulo denominado SISE CB, contenido en el SISE, como programa automatizado para el control de presentaciones de procesados en libertad provisional bajo caución, por parte de los juzgados de Distrito no especializados, los especializados en la materia penal, y de procesos penales federales, así como los tribunales Unitarios de Circuito, con excepción de los especializados en materias civil y administrativa.
+Es obligatorio el uso del módulo denominado SISE CB, contenido en el SISE, como programa para el control de presentaciones de procesados en libertad provisional bajo caución, por parte de los juzgados de Distrito no especializados, los especializados en la materia penal, y de procesos penales federales, así como los tribunales Unitarios de Circuito, con excepción de los especializados en materias civil y administrativa.
 
-También será obligatorio para los otros órganos jurisdiccionales, en aquellos casos en que lo determine el Pleno.
-
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 198.
 
-La Dirección General de Estadística Judicial será la encargada de coordinar las tareas tendientes al desarrollo y mantenimiento del SISE CB.
+La Dirección General de Gestión Judicial será la encargada de coordinar las tareas tendientes al desarrollo y mantenimiento del SISE CB.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
 
@@ -3323,77 +3479,89 @@ Los órganos jurisdiccionales, deberán mantener actualizados los registros de d
 
 ###### Artículo 216.
 
-La información estadística judicial y georeferenciada es el conjunto de resultados cuantitativos obtenidos mediante un proceso sistemático al que se someten los datos primarios de los asuntos de la competencia de los órganos jurisdiccionales.
+La información estadística judicial y georeferenciada es el conjunto de resultados cuantitativos obtenidos mediante un proceso sistemático al que se someten los datos primarios de los asuntos de la competencia de los órganos jurisdiccionales y capturados en los sistemas de gestión judicial del Consejo.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 217.
 
-La Dirección General de Estadística Judicial es la unidad productora de la información estadística judicial y georeferenciada generada en el Consejo. Tiene como función coordinar el proceso sistemático para la generación de la información judicial relativa al movimiento de los asuntos del conocimiento de los órganos jurisdiccionales, que constituye parte de los Servicios Nacionales de Estadística y de Información Geográfica.
+La Dirección General de Estadística Judicial es la unidad productora de estadística judicial y georeferenciada del Consejo, como parte del Sistema Nacional de Información Estadística y Geográfica, y como tal, tiene como función el coordinar el proceso de integrar la estadística solicitada.
 
 ###### Artículo 218.
 
 El proceso sistemático por el que transita la información estadística judicial y georeferenciada se compone de las fases de captación, procesamiento y presentación.
 
-Corresponde a la Dirección General de Estadística Judicial coordinar el proceso sistemático para la captación, procesamiento y divulgación de la información judicial relativa al movimiento de los asuntos del conocimiento de los órganos jurisdiccionales.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+Corresponde a la Dirección General de Estadística Judicial coordinar el proceso sistemático para el procesamiento y divulgación de la información judicial relativa al movimiento de los asuntos del conocimiento de los órganos jurisdiccionales.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+La coordinación del proceso sistemático para la captación de información en los sistemas de gestión del Consejo corresponde a la Dirección General de Gestión Judicial.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 219.
 
-La fase previa al proceso sistemático es el diseño conceptual de los programas en los rubros siguientes:
+La fase previa de los procesos de captación, procesamiento y divulgación de la información judicial refiere al diseño conceptual tanto de los sistemas de gestión del Consejo como de los formatos para la presentación de los Reportes Estadísticos. Este diseño inicial y su mejora continua incluye rubros relativos a la eficiente captación de datos de la actividad jurisdiccional, la solución de problemas en todas las fases, presentación de resultados bajo esquemas específicos de contenidos en productos, así como su divulgación e intercambio.
 
-I. Captación de datos sobre la actividad jurisdiccional en estudio: como son la adecuación, ampliación y modificación de los cuestionarios, formatos digitalizados de reportes estadísticos y esquemas de captura de datos en el seguimiento integral de los juicios, procedimientos y recursos federales, que en su conjunto son los medios de recolección de la información;
-
-> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
-
-II. Esquemas de solución de problemas en las fases de captación y procesamiento de la información: como son el diseño de materiales de apoyo, actividades de asesoría; tratamiento de la información; control y organización administrativa para su codificación en medios digitales; depuración y filtrado de los datos estadísticos judiciales; y mantenimiento del inventario de información y su actualización conforme a la aplicación de nuevas tecnologías; y
-
-III. Presentación de resultados bajo esquemas específicos de contenidos en productos, así como su divulgación e intercambio.
+Corresponde a la Dirección General de Gestión Judicial lo relativo al diseño conceptual y mejora continua de los sistemas de gestión del Consejo, y a la Dirección General de Estadística Judicial lo relativo al diseño conceptual y mejora continua de los formatos para presentar los reportes estadísticos.
 
 La Dirección General de Estadística Judicial colaborará y se coordinará con otras áreas administrativas en las actividades relacionadas con la fase previa.
 
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
 #### SECCIÓN CUARTA. PRESENTACIÓN DE RESULTADOS
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 220.
 
-El Consejo contará con indicadores que estén siempre al acceso del público en general, presentando los datos relacionados con las estadísticas judiciales, los perfiles de los titulares de los órganos jurisdiccionales, la percepción de los usuarios, como referentes objetivos que faciliten el conocimiento, la evaluación y, en su caso, las propuestas y mejoras para una más eficiente impartición de justicia.
+El Consejo contará con información estadística que esté al acceso del público en general relacionada con temas de interés público o trascendencia social.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 221.
 
-Los indicadores generales con los cuales se muestren los datos indicativos de los asuntos tramitados, los tipos de juicios o procedimientos, su materia, los delitos involucrados, así como el tiempo de su tramitación y resolución deben ponerse a disposición inmediata y regular del público en general.
+Para mantener actualizada la información estadística, la Dirección General de Estadística Judicial utilizará la información remitida por los órganos jurisdiccionales o capturada en los sistemas de gestión institucionales.
+
+La información estadística generada por el Consejo será puesta a disposición del público en general, mediante la divulgación impresa, o a través de plataformas o medios electrónicos.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 222.
 
-Los indicadores que muestren el perfil de los titulares de los órganos jurisdiccionales, relativos a su edad, lugar de nacimiento, estudios, los años de servicio en el Poder Judicial de la Federación, los cargos que han ocupado durante ese tiempo, el número de auxiliares profesionales y administrativos que los asistan en el órgano jurisdiccional al que se encuentren adscritos, el número de equipo informático con el que cuenten y, en general, todos los datos sobre las condiciones personales y materiales en que se desarrolla la actividad jurisdiccional, estarán a disposición del público en términos de las disposiciones aplicables.
+La Dirección General de Estadística Judicial generará estadística judicial, en términos del artículo 220 del presente Acuerdo, en los formatos físicos o electrónicos que faciliten su divulgación.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 223.
 
-Deberán publicarse periódicamente los indicadores de litigiosidad relativos a los datos generados por número de asuntos que en un circuito se presentan por cada 100,000 habitantes, así como los relativos a la productividad en tanto cantidad de asuntos que se resuelven por los órganos jurisdiccionales y el tiempo de duración de los procedimientos judiciales.
+Con la finalidad de promover la mejora constante en la información estadística publicada por el Consejo, la Dirección General de Estadística Judicial, con apoyo de la Dirección General de Tecnologías de la Información podrá establecer un control numérico de las consultas a las plataformas o medios electrónicos puestos a disposición del público en general.
 
 ###### Artículo 224.
 
-Los indicadores estadísticos concernientes a la estadística judicial mensual, trimestral, cuatrimestral, ordenada por órgano y por tipo de procedimiento, así como las tendencias anuales de los sentidos de las resoluciones y los resultados de las encuestas sobre la percepción de los usuarios del servicio de impartición de justicia, deberán estar permanentemente al alcance del público en general en la página de Internet del Consejo.
-
-Toda información estadística generada periódicamente por el Consejo, deberá ser puesta a disposición inmediata y actualizada del público en general.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)
 
 ###### Artículo 225.
 
-Para mantener continuamente actualizada la información estadística, la Dirección General de Estadística Judicial deberá solicitar, concentrar, analizar y sistematizar la información administrativa de aplicación estadística que se genere en el Consejo.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)
 
 ###### Artículo 226.
 
-La información estadística judicial, en permanente actualización, se generará en forma de productos y estudios para su divulgación a través de la Dirección General de Estadística Judicial, y se pondrá a disposición del público en general en la página de Internet del Consejo.
-
-La información disponible también podrá ser publicada en medios escritos tales como publicaciones especiales, revistas, periódicos y cualquier otro medio que, a juicio del Consejo, haga posible la transparencia de los datos contenidos en los reportes estadísticos.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)
 
 ###### Artículo 227.
 
-A efecto de garantizar el acceso a la información generada en el Consejo, se dispondrá de kioscos informáticos en las Casas de la Cultura Jurídica de la Suprema Corte de Justicia de la Nación, así como en los edificios sede de los órganos jurisdiccionales.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)
 
 ###### Artículo 228.
 
-La Dirección General de Estadística Judicial deberá establecer un control numérico de las consultas realizadas a cada uno de los productos puestos a disposición del público en general.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)
 
 ###### Artículo 229.
 
-La Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales resolverá cualquier cuestión que pudiera suscitarse con motivo de la aplicación de esta Sección, sin perjuicio de someterla al Pleno, si así lo considera.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)
 
 #### SECCIÓN QUINTA. DISPOSICIONES FINALES
 
@@ -3401,25 +3569,31 @@ La Comisión para la Transparencia, Acceso a la Información y Protección de Da
 
 Consiste en la recolección de datos judiciales, entendidos como los valores o características de los movimientos de los juicios, recursos o procedimientos jurisdiccionales que se tramitan en los órganos jurisdiccionales.
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 231.
 
-La captación de la información judicial se realiza en cada uno de los órganos jurisdiccionales a través del programa automatizado de captura y reportes estadísticos denominado SISE o del SIGE, según corresponda, de conformidad con lo dispuesto en el Título Segundo de este Acuerdo y demás disposiciones aplicables.
+La captura de los registros de los procedimientos judiciales se realiza por los órganos jurisdiccionales, en los sistemas de gestión judicial, según corresponda, de conformidad con lo dispuesto en el Título Segundo de este Acuerdo y demás disposiciones aplicables.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 232.
 
-La Dirección General de Estadística Judicial brindará el apoyo necesario a los servidores públicos de los órganos jurisdiccionales, en la captación de la información judicial y verificará que la misma sea capturada de forma correcta y oportuna.
+La Dirección General de Gestión Judicial brindará el apoyo necesario a las y los servidores públicos de los órganos jurisdiccionales, en la captura de los registros de los procedimientos judiciales y verificará que la misma sea ingresada de forma correcta y oportuna.
+
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 #### SECCIÓN SEXTA. LIBRO SEIS DE MEDIDAS PRECAUTORIAS Y CAUTELARES, ASÍ COMO TÉCNICAS DE INVESTIGACIÓN
 
 ###### Artículo 233.
 
-Una vez capturada la información judicial, su procesamiento comienza con su almacenamiento en los servidores centrales ubicados en la Ciudad de México, ordenada por órgano jurisdiccional y por tipo de asunto.
+La información judicial capturada se almacena en servidores administrados por la Dirección General de Tecnologías de la Información, y ordenada en un modelo de datos que permita la consulta por órgano jurisdiccional y tipo de asunto, entre otras categorías.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 234.
 
-La Dirección General de Estadística Judicial cuidará y tomará todas las medidas necesarias para que la información judicial federal almacenada cumpla con los siguientes criterios de calidad:
+La Dirección General de Gestión Judicial cuidará y tomará todas las medidas necesarias para que la información judicial federal almacenada cumpla con los siguientes criterios de calidad:
 
 I. Congruencia: que exista relación lógica entre los datos judiciales capturados;
 
@@ -3429,19 +3603,17 @@ III. Confiabilidad: que esté acorde con la realidad jurídica de los asuntos.
 
 ###### Artículo 235.
 
-Esta fase consiste en poner a disposición del público en general la información estadística judicial y georeferenciada generada en forma de productos y estudios, ya sea por su divulgación o por su intercambio con otras instituciones públicas.
+Esta fase consiste en poner a disposición del público en general la información estadística judicial y georeferenciada, ya sea por solicitud de otras instituciones públicas o por su divulgación a través de medios impresos o electrónicos.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 236.
 
-La divulgación de la información estadística judicial y georeferenciada que realice el Consejo a través de la Dirección General de Estadística Judicial se presentará en publicación impresa o por medios electrónicos a través del icono de dicha unidad administrativa, ubicada en la página de Internet del Consejo.
+La divulgación de la información estadística judicial y georeferenciada que realice el Consejo, a través de la Dirección General de Estadística Judicial, se presentará en publicación impresa, por plataformas o medios electrónicos a través del icono de dicha unidad administrativa, ubicada en la página de Internet del Consejo.
 
 ###### Artículo 237.
 
-El intercambio de información estadística judicial y georeferenciada que realice el Consejo con otras instituciones públicas, previo convenio celebrado con las mismas, se hará a través de la Dirección General de Estadística Judicial, y se sujetará a las reglas siguientes:
-
-I. En ningún caso se atenderán solicitudes de información de los asuntos referidos exclusivamente a una persona física o moral; y
-
-II. Sólo se intercambiará información jurídica referente al trámite de los asuntos del conocimiento de los órganos jurisdiccionales, en la que se omitirán los datos personales de las partes cuando estas manifiesten su oposición a su publicación, en términos de las disposiciones aplicables.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)
 
 ###### Artículo 238.
 
@@ -4084,3 +4256,21 @@ SEXTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas a
 SÉPTIMO. Los derechos laborales de las personas servidoras públicas de base, comisionadas o adscritas actualmente a las Unidades de Notificadores Comunes, serán respetados. La implementación administrativa de este Acuerdo no implicará, en ninguna circunstancia, la afectación a estos derechos.
 
 OCTAVO. Se derogan todas las disposiciones que se opongan al presente Acuerdo General.
+
+D.O.F. 14 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral del Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en los portales electrónicos del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las Direcciones Generales de Gestión Judicial y Tecnologías de la Información llevarán a cabo las acciones necesarias para ajustar el sistema computarizado de turno en términos de las reglas establecidas en este Acuerdo General, en un plazo no mayor de dos meses, contados a partir de la entrada en vigor del presente instrumento.
+
+CUARTO. Las referencias hechas a los Tribunales Colegiados de Apelación se entenderán formuladas respecto de los Tribunales Unitarios de Circuito, hasta en tanto aquéllos entren en operación.
+
+QUINTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal deberá actualizar, dentro de los seis meses siguientes a la entrada en vigor de este Acuerdo, los criterios de turno establecidos en la normativa aplicable a los tribunales Unitarios de Circuito, cuando se constituyan como Tribunal de Alzada para la atención de los asuntos del sistema penal acusatorio, de conformidad con lo establecido en el presente Acuerdo.
+
+SEXTO. El cambio en la vigencia del certificado digital de la FIREL surtirá efecto a partir del 16 de marzo de 2022.
+
+SÉPTIMO. Las consultas a que se refiere el artículo 46 Ter del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, serán recibidas a través del Sistema de Gestión Documental (SIGDOC) a partir del 16 de marzo de 2022. Se instruye a las direcciones generales de Estrategia y Transformación Digital y Tecnologías de la Información la realización de todas las acciones necesarias para implementar la conexión de los órganos jurisdiccionales con la Secretaría Ejecutiva de Creación de Nuevos Órganos, a través del referido Sistema.
