@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-comision-estatal-de-desarrollo-109271
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-07-27"
-last_updated: "2015-07-27"
+last_updated: "2022-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA DEL ESTADO, PUBLICADO EN EL P.O. DE 14 DE MARZO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2022 (ABROGADO).
 
 Reglamento publicado en la Primera Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 27 de julio de 2015.
 
@@ -792,3 +794,29 @@ Ing. Carlos Lozano de la Torre, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE AGUASCAL
 Lic. Sergio Javier Reynoso Talamantes, SECRETARIO DE GOBIERNO EN SUPLENCIA DEL JEFE DE GABINETE DE CONFORMIDAD CON EL ARTÍCULO 50 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
 
 C.P. Juan Carlos Rodríguez García, SECRETARIO DE GESTIÓN URBANÍSTICA Y ORDENAMIENTO TERRITORIAL.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA DEL ESTADO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Reglamento se abroga el Reglamento Interior de la Comisión Estatal de Desarrollo Urbano y Ordenamiento Territorial publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, Tomo LXXVIII, Número 30, de fecha 27 de julio de 2015.
+
+###### ARTÍCULO TERCERO.
+
+Seguirán vigentes las Subcomisiones y Grupos Técnicos conformados con anterioridad a la entrada en vigor del presente Reglamento, así como sus procedimientos y actividades correspondientes a su objeto hasta en tanto no se emita un Acuerdo por parte de la Comisión Estatal de Desarrollo Urbano, Ordenamiento Territorial y Vivienda del Estado que modifique su integración y funcionamiento.
+
+###### ARTÍCULO CUARTO.
+
+La Comisión Estatal de Desarrollo Urbano, Ordenamiento Territorial y Vivienda del Estado a la que se hace mención en el presente Reglamento, para todo efecto a que haya lugar es la misma a la que se hace referencia en el Reglamento que se abroga, en consecuencia, conservará su integración y funcionamiento previo a la entrada en vigor del presente Reglamento.
+
+###### ARTÍCULO QUINTO.
+
+Los estudios técnicos, actos y procedimientos administrativos y legales iniciados con anterioridad a la entrada en vigor del presente Reglamento, continuarán hasta su conclusión con las disposiciones normativas que les dieron origen.
