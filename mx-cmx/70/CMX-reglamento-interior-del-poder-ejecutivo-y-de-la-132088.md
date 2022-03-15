@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2021-10-01"
+last_updated: "2022-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MARZO DE 2022.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -124,11 +124,11 @@ E) Comisión para la Reconstrucción de la Ciudad de México, a la que quedan ad
 
 Asimismo, se le adscriben los Órganos Desconcentrados denominados Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano de la Ciudad de México (C5); la Agencia Digital de Innovación Pública de la Ciudad de México; y la Junta de Asistencia Privada.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MARZO DE 2022)</small>
 
 ###### Artículo 7°.
 
-Para el despacho de los asuntos que competan a las Dependencias de la Administración Pública, se les adscriben las Unidades Administrativas, las Unidades Administrativas de Apoyo Técnico Operativo y los Órganos Desconcentrados siguientes:
+Para el despacho de los asuntos que competan a las Dependencias de la Administración Pública, se les adscriben las Unidades Administrativas, las Unidades Administrativas de Apoyo Técnico-Operativo y los Órganos Desconcentrados siguientes:
 
 > <small>(REFORMADA [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 18 DE MARZO DE 2020)</small>
 
@@ -514,9 +514,9 @@ I) Dirección de Mejora Gubernamental.
 
 IV. A la Secretaría de Cultura:
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2022)</small>
 
-A) Dirección Ejecutiva de Gestión Institucional y Cooperación Cultural;
+A) Dirección General de Gestión Institucional y Cooperación Cultural;
 
 B) (DEROGADO, G.O. 2 DE FEBRERO DE 2021)
 
@@ -2102,7 +2102,7 @@ XVIII. Las demás que les atribuyan expresamente los ordenamientos jurídicos y 
 
 #### SECCIÓN V. DE LA SECRETARÍA DE CULTURA
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MARZO DE 2022)</small>
 
 ###### Artículo 42.
 
@@ -5600,39 +5600,73 @@ XXXVII. Las demás que le instruya la persona titular de la Secretaría de la Co
 
 ###### Artículo 137.
 
-Corresponde a la Dirección Ejecutiva de Gestión Institucional y Cooperación Cultural:
+Corresponde a la Dirección General de Gestión Institucional y Cooperación Cultural:
+
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
 I. Coordinar las acciones en materia de planeación estratégica de la política pública que se sometan a consideración de la persona Titular de la Secretaría de Cultura;
 
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
 II. Impulsar procesos de diseño e instrumentación de la política cultural, con la finalidad de lograr la divulgación, promoción y fomento de la cultura;
+
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
 III. Implementar mecanismos de comunicación y organización interna para armonizar los diferentes programas de la Secretaría de Cultura con la política pública de gobierno;
 
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
 IV. Sostener audiencias con las personas que solicitan apoyo a la Secretaría de Cultura sobre sus peticiones con base en la pertinencia de sus proyectos y las posibilidades financieras y logísticas de la Dependencia;
+
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
 V. Fortalecer las relaciones con las personas servidoras públicas de las diferentes Dependencias locales y federales e instancias nacionales e internacionales en el ámbito de la cultura, con el fin de atender todos los asuntos de su competencia;
 
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
 VI. Vincular a la Secretaría de Cultura con las Alcaldías, Dependencias locales, federales e instancias internacionales, así como asociaciones civiles y empresariales, para promover y ampliar la oferta cultural en la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
 VII. Promover la celebración de convenios con los tres niveles de gobierno, así como instituciones académicas locales y nacionales que tengan competencia en materia cultural;
 
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
 VIII. Coordinar y establecer vínculos con el poder legislativo local y federal, para la implementación de programas y proyectos que permitan incrementar la oferta cultural de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
 IX. Establecer vínculos con la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno;
 
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
 X. Programar y coordinar las audiencias con representantes diplomáticos, legisladores, dirigentes políticos y sociales, que deban ser atendidos por la Secretaría de Cultura, con la finalidad de que se otorgue una atención adecuada;
+
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
 XI. Dar seguimiento a los compromisos adquiridos ante instancias internacionales, gobiernos locales y redes que sitúan la cultura en el centro de sus procesos de desarrollo;
 
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
 XII. Proponer los criterios a partir de los cuales la Secretaría de Cultura asignará recursos a las asociaciones civiles y demás organizaciones de la sociedad civil dedicados al fomento de la cultura en la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
 XIII. Coordinar los mecanismos necesarios para dar seguimiento a los proyectos desarrollados por las organizaciones culturales que cuentan con un Permiso Administrativo Temporal Revocable;
 
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
 XIV. Ejecutar los proyectos y programas especiales que requieran de la concurrencia de diferentes niveles o instancias de gobierno, actores privados y sociales, así como de diversas Unidades Administrativas de la Secretaría de Cultura;
+
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
 XV. Coordinar la elaboración de informes y reportes derivados del seguimiento a los proyectos culturales que se coordinan en la Oficina de la persona titular de la Secretaría de Cultura;
 
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
 XVI. Coordinar las acciones necesarias para integrar los informes de avance sobre las metas, programas y proyectos específicos de las Unidades Administrativas y Órganos Desconcentrados adscritos, así como los que la persona titular de la Secretaría de Cultura le instruya; y
+
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
 XVII. Analizar y facilitar las evaluaciones de los programas de la Secretaría de Cultura, con la finalidad de verificar que cubran los lineamientos establecidos.
 
@@ -15037,3 +15071,13 @@ CUARTO.- Conforme a lo señalado en el artículo CUARTO Transitorio del Decreto 
 QUINTO.- Los asuntos que con la entrada en vigor del presente Decreto se encuentren en trámite en las Unidades Administrativas respecto de las cuales se deroguen o modifiquen atribuciones, serán atendidos y resueltos por aquellas que asuman las atribuciones que se transfieren en virtud del mismo, en el ámbito de su respectiva competencia.
 
 SEXTO.- Las referencias hechas en este Reglamento, así como en otros ordenamientos, a las Unidades Administrativas que mediante el presente Decreto cambian de denominación, se entenderán hechas a aquellas que las sustituyan.
+
+G.O. 15 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGÚNDO.- El presente Decreto surtirá efecto a partir del día 16 del mes de marzo de 2022.
+
+TERCERO.- Las referencias hechas en este Reglamento, así como, de manera enunciativa más no limitativa en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones normativas, así como en contratos o convenios, a la Unidad Administrativa que mediante el presente Decreto cambia de denominación, se entenderán hechas a aquella que la sustituya.
