@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12904
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2022-02-25"
+last_updated: "2022-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 11 de junio de 2018.
 
@@ -213,7 +213,9 @@ Cuando los servidores públicos y las personas físicas y morales, públicas o p
 
 Las Cuentas Públicas serán presentadas en el plazo previsto en el artículo 53 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, y, conforme a lo que establece el artículo 53 de la Ley General de Contabilidad Gubernamental.
 
-Deberán presentarse en original y copia certificada, así como en correspondiente respaldo digital. El respaldo digital deberá presentarse en formato legible y deberá contener las firmas de validación de las autoridades encargadas de presentar la cuenta pública. El documento original deberá ser remitido a la Auditoría Superior del Estado, así como el respaldo digital, en tanto que la copia certificada quedará en posesión del Congreso del Estado.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2022)</small>
+
+Deberán presentarse en original y copia certificada, así como en correspondiente respaldo digital. El respaldo digital deberá presentarse en formato legible y deberá contener las firmas de validación de las autoridades encargadas de presentar la cuenta pública. El documento original deberá ser remitido a la Auditoría Superior del Estado, así como el respaldo digital, en tanto que la copia certificada quedará en posesión del Congreso del Estado bajo el resguardo de su archivo de concentración.
 
 > <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2022)</small>
 
@@ -451,7 +453,9 @@ La Auditoría Superior del Estado tendrá un plazo que vence el 31 de octubre de
 
 El Congreso remitirá copia del Informe General al Comité Coordinador del Sistema Estatal Anticorrupción y al Comité de Participación Ciudadana.
 
-A solicitud de la Comisión, el Auditor Superior del Estado y los funcionarios que éste designe presentarán, ampliarán o aclararán el contenido del Informe General, en sesiones de la Comisión cuantas veces sea necesario a fin de tener un mejor entendimiento del mismo, siempre y cuando no se revele información reservada o que forme parte de un proceso de investigación. Lo anterior, sin que se entienda para todos los efectos legales como una modificación al Informe General.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2022)</small>
+
+A solicitud de la Comisión, la persona titular de la Auditoría Superior del Estado y el personal que ésta designe presentarán, ampliarán o aclararán el contenido del Informe General, en sesiones de la Comisión cuantas veces sea necesario a fin de tener un mejor entendimiento del mismo, siempre y cuando no se revele información reservada o que forme parte de un proceso de investigación. Lo anterior, sin que se entienda para todos los efectos legales como una modificación al Informe General.
 
 ###### ARTÍCULO 33.
 
@@ -823,11 +827,17 @@ III. Recibir los informes que le presente la Auditoría Superior del Estado, y r
 
 IV. Evaluar el cumplimiento de los objetivos y metas del programa operativo anual de la Auditoría, así como auditar por sí, con el auxilio de la Unidad, o a través de servicios de auditoría externos, la debida aplicación de los recursos a cargo de ésta;
 
-V. Citar al Titular de la Auditoría Superior del Estado para conocer en lo específico de los informes presentados;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2022)</small>
 
-VI. Vigilar que el funcionamiento de la Auditoría Superior del Estado y la conducta de sus servidores públicos se apeguen a lo dispuesto por esta Ley y demás disposiciones aplicables;
+V. Citar a la persona titular de la Auditoría Superior del Estado para conocer en lo específico de los informes presentados;
 
-VII. Conocer y opinar el proyecto de presupuesto anual que presente el Auditor Superior del Estado, y remitirlo a la Directiva del Congreso del Estado para su inclusión en el Presupuesto de Egresos del Estado; y vigilar su correcto ejercicio;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2022)</small>
+
+VI. Vigilar que el funcionamiento de la Auditoría Superior del Estado y la conducta de su personal se apegue a lo dispuesto por esta Ley y demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2022)</small>
+
+VII. Conocer y opinar el proyecto de presupuesto anual que presente la persona titular de la Auditoría Superior del Estado, y remitirlo a la Directiva del Congreso del Estado para su inclusión en el Presupuesto de Egresos del Estado; y vigilar su correcto ejercicio;
 
 VIII. Recibir, dictaminar y someter a consideración del Congreso, los informes del ejercicio presupuestal y administrativo de la Auditoría Superior del Estado, para que sean aprobados en su caso;
 
@@ -839,15 +849,19 @@ XI. Informar al Congreso en forma trimestral, y en sus recesos a la Diputación 
 
 XII. Contar con los servicios de apoyo técnico o asesoría que apruebe la Junta de Coordinación Política;
 
-XIII. Presentar al Congreso del Estado la propuesta de los candidatos a ocupar el cargo de Titular de la Auditoría Superior del Estado, así como la solicitud de su remoción para lo cual podrá consultar a las organizaciones civiles y asociaciones que estime pertinente;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2022)</small>
+
+XIII. Presentar al Congreso del Estado la propuesta de las personas candidatas a ocupar el cargo de titular de la Auditoría Superior del Estado, así como la solicitud de su remoción para lo cual podrá consultar a las organizaciones civiles y asociaciones que estime pertinente;
 
 XIV. Conocer y aplicar en lo conducente el Reglamento Interior de la Auditoría Superior del Estado;
 
-XV. Analizar la información, en materia de fiscalización superior del estado, de contabilidad y auditoría gubernamentales y de rendición de cuentas, y podrá solicitar la comparecencia de servidores públicos de la Auditoría Superior del Estado vinculados con los resultados de la fiscalización;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE MARZO DE 2020)</small>
+XV. Analizar la información, en materia de fiscalización superior del estado, de contabilidad y auditoría gubernamentales y de rendición de cuentas, y podrá solicitar la comparecencia del personal de la Auditoría Superior del Estado vinculado con los resultados de la fiscalización;
 
-XVI. Invitar a la sociedad civil organizada, así como a los miembros del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, a que participen como observadores o testigos sociales en las sesiones ordinarias de la Comisión, y en la realización de ejercicios de contraloría social en los que se articule a la población con las entidades fiscalizadas;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2022)</small>
+
+XVI. Invitar a la sociedad civil organizada, así como a quienes integren el Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, a que participen como observadores o testigos sociales en las sesiones ordinarias de la Comisión, y en la realización de ejercicios de contraloría social en los que se articule a la población con las entidades fiscalizadas;
 
 > <small>(ADICIONADA, P.O. 10 DE MARZO DE 2020)</small>
 
@@ -867,9 +881,11 @@ La Comisión presentará directamente a la Auditoría Superior del Estado un inf
 
 ### CAPÍTULO ÚNICO. INTEGRACIÓN Y ORGANIZACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 71.
 
-Al frente de la Auditoría Superior del Estado estará el Auditor Superior del Estado, designado conforme a lo previsto por el inciso III párrafo segundo del artículo 54 de la Constitución Política del Estado De San Luis Potosí, por el voto de las dos terceras partes de los miembros presentes del Congreso. Para ser nombrado como tal se requiere cumplir con los requisitos que establece la Constitución Política del Estado y además:
+Al frente de la Auditoría Superior del Estado estará su titular, persona que será designada conforme a lo previsto por la fracción III párrafo segundo del artículo 54 de la Constitución Política del Estado de San Luis Potosí, por el voto de las dos terceras partes de los miembros presentes del Congreso. Para ser nombrada como tal se requiere cumplir con los requisitos que establece la Constitución Política del Estado y además:
 
 I. Ser de nacionalidad mexicana y en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -887,21 +903,31 @@ VII. Poseer al día del nombramiento, título de antigüedad mínima de diez añ
 
 VIII. No haber sido inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, ni removido por causa grave de algún cargo del sector público o privado.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 72.
 
-El Auditor Superior del Estado será designado por el voto de cuando menos las dos terceras partes de los miembros presentes en la sesión correspondiente del Congreso del Estado.
+La persona titular de la Auditoría Superior del Estado será designada por el voto de cuando menos las dos terceras partes de los miembros presentes en la sesión correspondiente del Congreso del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 73.
 
-La designación del Titular de la Auditoría Superior del Estado se sujetará al procedimiento siguiente:
+La designación de la persona titular de la Auditoría Superior del Estado se sujetará al procedimiento siguiente:
 
-I. La comisión formulará la convocatoria de selección y nombramiento del Auditor Superior del Estado, la cual deberá ser publicada en el Periódico Oficial del Estado, en uno de los diarios de mayor circulación en la Entidad, y en la página electrónica del Congreso del Estado, a efecto de recibir, durante un periodo de quince días naturales contados a partir de la fecha de publicación de la convocatoria, las propuestas o solicitudes para ocupar el puesto de Titular de la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2022)</small>
+
+I. La comisión formulará la convocatoria de selección y nombramiento de la persona titular de la Auditoría Superior del Estado, la cual deberá ser publicada en el Periódico Oficial del Estado, en uno de los diarios de mayor circulación en la Entidad, y en la página electrónica del Congreso del Estado, a efecto de recibir, durante un periodo de quince días naturales contados a partir de la fecha de publicación de la convocatoria, las propuestas o solicitudes para ocupar el puesto de titular de la Auditoría Superior del Estado;
 
 II. Concluido el plazo anterior, dentro de los cinco días naturales siguientes, la comisión procederá a la revisión y análisis de las propuestas y solicitudes, para determinar cuáles de éstas cumplen con los requisitos que señale la convocatoria;
 
-III. Agotado el plazo señalado en la fracción anterior, dentro de los diez días naturales siguientes, la Comisión entrevistará por separado a los aspirantes que cumplan con los requisitos y dentro de los cinco días naturales siguientes, a los candidatos que, a su juicio, considere idóneos para la conformación de una terna;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2022)</small>
 
-IV. Conformada la terna, en un plazo que no deberá exceder de tres días naturales, la Comisión formulará su dictamen, a fin de proponer al Pleno los tres candidatos, para que éste proceda, en los términos del artículo anterior, a la designación del Titular de la Auditoría Superior del Estado, y
+III. Agotado el plazo señalado en la fracción anterior, dentro de los diez días naturales siguientes, la Comisión entrevistará por separado a las personas aspirantes que cumplan con los requisitos y dentro de los cinco días naturales siguientes, a las personas candidatas que, a su juicio, considere idóneas para la conformación de una terna;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2022)</small>
+
+IV. Conformada la terna, en un plazo que no deberá exceder de tres días naturales, la Comisión formulará su dictamen, a fin de proponer al Pleno las tres personas candidatas, para que éste proceda, en los términos del artículo anterior, a la designación de la persona titular de la Auditoría Superior del Estado, y
 
 V. La persona designada para ocupar el cargo, protestará ante el Pleno del Congreso del Estado.
 
@@ -915,11 +941,11 @@ En caso de que ningún candidato de la terna propuesta en el dictamen para ocupa
 
 El titular de la Auditoría Superior del Estado durará en el encargo siete años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido por el Congreso por las causas a que refiere el artículo 81 de esta Ley, con la misma votación requerida para su nombramiento, así como por las causas y conforme a los procedimientos previstos en la Constitución Política del Estado, en materia de responsabilidades. Si esta situación se presenta estando en receso el Congreso, la Comisión Permanente podrá convocar a un periodo extraordinario para que resuelva en torno a dicha remoción.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 76.
 
-En ausencia del Auditor Superior, el Auditor Especial que corresponda conforme al Reglamento Interior de la Auditoría Superior del Estado, ejercerá el cargo hasta en tanto dicho Congreso designe al Titular de la Auditoría Superior del Estado en el siguiente periodo de sesiones.
-
-El Titular de la Auditoría Superior del Estado será suplido en sus ausencias temporales por los auditores especiales, en el orden que señale el Reglamento Interior de la Auditoría Superior del Estado. En caso de falta definitiva, la Comisión dará cuenta al Congreso para que designe, en términos de esta Ley, al Auditor que concluirá el encargo.
+La persona titular de la Auditoría Superior del Estado será suplida en sus ausencias temporales por las personas titulares de las auditorías especiales, en el orden que señale el Reglamento Interior de la Auditoría Superior del Estado. En caso de falta definitiva, la Comisión dará cuenta al Congreso para que designe, en términos de esta Ley, a la persona titular de la Auditoría Superior que concluirá el encargo.
 
 ###### ARTÍCULO 77.
 
@@ -997,17 +1023,19 @@ De las atribuciones previstas a favor del Titular de la Auditoría Superior del 
 
 El Titular de la Auditoría Superior del Estado será auxiliado en sus funciones por los auditores especiales, así como por los coordinadores, supervisores, auditores y demás servidores públicos que al efecto señale el Reglamento Interior de la Auditoría Superior del Estado, de conformidad con el presupuesto autorizado. En dicho Reglamento se asignarán las facultades y atribuciones previstas en esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 79.
 
-Para ejercer los cargos de, Coordinador de Auditorías Especiales; y de Auditor Especial, se deberán cumplir los siguientes requisitos:
+Para ejercer los cargos de, Coordinadora o Coordinador de Auditorías Especiales; y de Auditora o Auditor Especial, se deberán cumplir los siguientes requisitos:
 
 I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos;
 
 II. (DEROGADA, P.O. 10 DE MARZO DE 2020) (REPUBLICADA, P.O. 7 DE MAYO DE 2020)
 
-III. Cumplir los requisitos señalados en las fracciones III a V y VIII para el Titular de la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2022)</small>
+
+III. Cumplir los requisitos señalados en las fracciones III a V y VIII para la persona titular de la Auditoría Superior del Estado;
 
 IV. Contar, el día de su designación, con antigüedad mínima de cinco años, con título y cédula profesional de contador público, licenciado en derecho, abogado, licenciado en economía, licenciado en administración, administración pública o cualquier otro título y cédula profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello;
 
@@ -1041,11 +1069,13 @@ V. Obtener una evaluación del desempeño poco satisfactoria sin justificación,
 
 VI. Incurrir en cualquiera de las conductas consideradas como faltas administrativas graves, en los términos de la Ley de Responsabilidades, Así como lo previsto en el artículo 3 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 82.
 
-El Congreso dictaminará sobre la existencia de los motivos de la remoción del Auditor Superior del Estado, por las causas graves a que se refiere el artículo anterior, o por las propias del juicio político, en términos de la Ley de Responsabilidades. La remoción requerirá del voto de las dos terceras partes de los miembros presentes.
+El Congreso dictaminará sobre la existencia de los motivos de la remoción de la persona titular de la Auditoría Superior del Estado, por las causas graves a que se refiere el artículo anterior, o por las propias del juicio político, en términos de la Ley de Responsabilidades. La remoción requerirá del voto de las dos terceras partes de los miembros presentes.
 
-Los auditores especiales podrán ser removidos por las causas graves a que se refiere el artículo anterior, por el Titular de la Auditoría Superior del Estado.
+Las personas titulares de las auditorías especiales podrán ser removidas por las causas graves a que se refiere el artículo anterior, por la persona titular de la Auditoría Superior del Estado.
 
 ###### ARTÍCULO 83.
 
@@ -1129,7 +1159,9 @@ III. Evaluar si los recursos humanos, materiales, técnicos y financieros asigna
 
 IV. Vigilar que los sistemas de control interno establecidos en la Auditoría Superior operen eficientemente;
 
-V. Formular las recomendaciones técnicas y legales que estime convenientes, e informar de ellas oportunamente al Auditor Superior y darles seguimiento;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2022)</small>
+
+V. Formular las recomendaciones técnicas y legales que estime convenientes, e informar de ellas oportunamente a la persona titular de la Auditoría Superior y darles seguimiento;
 
 VI. Revisar la documentación justificativa y comprobatoria del gasto y del ingreso de la Auditoría Superior;
 
@@ -1241,9 +1273,11 @@ Los servidores públicos de la Unidad serán personal de confianza y deberán cu
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 97.
 
-La Comisión recibirá peticiones, propuestas, solicitudes y denuncias fundadas y motivadas por la sociedad civil, las cuales podrán ser consideradas por la Auditoría Superior del Estado en el programa anual de auditorías y cuyos resultados deberán ser considerados en el informe individual y, en su caso, en el informe general. Dichas propuestas también podrán ser presentadas por conducto del Comité de Participación Ciudadana a que se refiere la Ley del Sistema Anticorrupción del Estado, debiendo el Auditor Superior del Estado informar a la Comisión, así como a dicho Comité sobre las determinaciones que se tomen en relación con las propuestas relacionadas con el programa anual de auditorías.
+La Comisión recibirá peticiones, propuestas, solicitudes y denuncias fundadas y motivadas por la sociedad civil, las cuales podrán ser consideradas por la Auditoría Superior del Estado en el programa anual de auditorías y cuyos resultados deberán ser considerados en el informe individual y, en su caso, en el informe general. Dichas propuestas también podrán ser presentadas por conducto del Comité de Participación Ciudadana a que se refiere la Ley del Sistema Anticorrupción del Estado, debiendo la persona titular de la Auditoría Superior del Estado informar a la Comisión, así como a dicho Comité sobre las determinaciones que se tomen en relación con las propuestas relacionadas con el programa anual de auditorías.
 
 ###### ARTÍCULO 98.
 
@@ -1434,5 +1468,13 @@ P.O. 25 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0271.- SE REFORMA EL ARTÍCULO 16 EN SU FRACCIÓN XXVIII; Y ADICIONA A LOS ARTÍCULOS 12 UN PÁRRAFO Y 16 UNA FRACCIÓN, ÉSTA COMO XXIX Y EL ARTÍCULO 16 BIS, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0283.- SE REFORMAN LOS ARTÍCULOS 12 EN SU PÁRRAFO SEGUNDO, 32 EN SU PÁRRAFO TERCERO, 69 EN SUS FRACCIONES V, VI, VII, XIII, XV Y XVI, 71 EN SU PÁRRAFO PRIMERO, 72, 73 EN SU PÁRRAFO PRIMERO Y EN SUS FRACCIONES I, III Y IV, 76, 79 EN SU PÁRRAFO PRIMERO Y EN SU FRACCIÓN III, 82, 89 SEXTIES EN SU FRACCIÓN V Y 97, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
