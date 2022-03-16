@@ -1,0 +1,1812 @@
+---
+title: "ACUERDO INE/CG19/2022 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL CUAL SE DA A CONOCER LA LISTA NACIONAL DE PERSONAS AUTORIZADAS PARA EMITIR PERITAJES CONTABLES, PARA EL EJERCICIO 2022"
+identifier: "FED-acuerdo-ine-cg19-2022-del-consejo-general-del-instituto-156625"
+country: "mx"
+rank: "acuerdo"
+publication_date: "2022-03-16"
+last_updated: "2022-03-16"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=156625&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "156625"
+scjn_status: "VIGENTE"
+gazette: "Diario Oficial de la Federación"
+original_category: "ACUERDO (S)"
+original_gazette_section: "15"
+reform_count: "0"
+scjn_last_update: "2022-03-16"
+issue_date: "2022-01-26"
+---
+# ACUERDO INE/CG19/2022 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL CUAL SE DA A CONOCER LA LISTA NACIONAL DE PERSONAS AUTORIZADAS PARA EMITIR PERITAJES CONTABLES, PARA EL EJERCICIO 2022
+
+ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL CUAL SE DA A CONOCER LA LISTA NACIONAL DE PERSONAS AUTORIZADAS PARA EMITIR PERITAJES CONTABLES, PARA EL EJERCICIO 2022.
+
+TEXTO ORIGINAL.
+
+Acuerdo publicado en el Número 15 del Diario Oficial de la Federación, el miércoles 16 de marzo de 2022.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Instituto Nacional Electoral.- Consejo General.- INE/CG19/2022.
+
+ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL CUAL SE DA A CONOCER LA LISTA NACIONAL DE PERSONAS AUTORIZADAS PARA EMITIR PERITAJES CONTABLES, PARA EL EJERCICIO 2022
+
+ANTECEDENTES
+
+[…]
+
+CONSIDERANDO
+
+[…]
+
+En virtud de lo anterior y con fundamento en lo previsto en los artículos 41, Base V, apartados A, párrafos primero y segundo y B, penúltimo párrafo, de la CPEUM; 29, 30, 31, 42, 190, 192, numeral 1, inciso a), y numeral 2, de la LGIPE; 26, numeral 3, del RF, y el artículo 2, numeral 2, del Reglamento de Comisiones del Consejo General del Instituto Nacional Electoral se ha determinado emitir el siguiente:
+
+ACUERDO
+
+PRIMERO.- Se aprueba la Lista Nacional de personas autorizadas para emitir peritajes contables, siendo ésta enunciativa más no limitativa, con base en los Considerandos antes descritos, como se detalla a continuación:
+
+Contaduría
+
+Abrego Belmont P.0002-2022 PRIMER CIRCUITO
+
+José Luis (CIUDAD DE MÉXICO)
+
+González Arredondo P.0331-2022 PRIMER CIRCUITO
+
+Gerardo (CIUDAD DE MÉXICO)
+
+González Cruz Daniel P.0334-2022 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Jiménez Rivera P.0418-2022 PRIMER CIRCUITO
+
+Diana Aydee (CIUDAD DE MÉXICO)
+
+Martínez González P.0505-2022 PRIMER CIRCUITO
+
+Miguel Ángel (CIUDAD DE MÉXICO)
+
+Méndez Peredo P.0526-2022 PRIMER CIRCUITO
+
+Sergio Salvador (CIUDAD DE MÉXICO)
+
+Motta Aispuro P.0561-2022 PRIMER CIRCUITO
+
+Homero Marco (CIUDAD DE MÉXICO)
+
+Motta Aispuro P.0562-2022 PRIMER CIRCUITO
+
+José Horacio (CIUDAD DE MÉXICO
+
+Repper Jaramillo P.0666-2022 PRIMER CIRCUITO
+
+María Inés (CIUDAD DE MÉXICO)
+
+Sánchez Anicua P.0742-2022 PRIMER CIRCUITO
+
+Beatriz Cristina (CIUDAD DE MÉXICO)
+
+Segura León P.0769-2022 PRIMER CIRCUITO
+
+Nancy Leticia (CIUDAD DE MÉXICO)
+
+Hernández Piña P.0382-2022 SEGUNDO CIRCUITO
+
+Luis Alberto (ESTADO DE MÉXICO)
+
+Rodríguez Pelayo P.0700-2022 SEGUNDO CIRCUITO
+
+Alberto Javier (ESTADO DE MÉXICO)
+
+Meza López Santiago P.0530-2022 SÉPTIMO CIRCUITO
+
+(ESTADO DE
+
+VERACRUZ DE IGNACIO
+
+DE LA LLAVE)
+
+Vera Reyes José P.0833-2022 DECIMOSEXTO
+
+Francisco CIRCUITO (ESTADO
+
+DE GUANAJUATO)
+
+Trujillo Beltrán Lilia P.0806-2022 VIGÉSIMO PRIMER
+
+CIRCUITO (ESTADO
+
+DE GUERRERO)
+
+Estrada Barrera P.0240-2022 VIGÉSIMO NOVENO
+
+Raymundo Yair CIRCUITO (ESTADO
+
+DE HIDALGO)
+
+Contaduría Pública
+
+Aguirre López Raquel P.0015-2022 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Aragón Rosado P.0048-2022 PRIMER CIRCUITO
+
+Marco Antonio (CIUDAD DE MÉXICO)
+
+Barajas Santos P.0083-2022 PRIMER CIRCUITO
+
+Reyna Esther (CIUDAD DE MÉXICO)
+
+Cedeño Velasco P.0155-2022 PRIMER CIRCUITO
+
+Fernando (CIUDAD DE MÉXICO)
+
+Desiderio Albino P.0210-2022 PRIMER CIRCUITO
+
+Javier (CIUDAD DE MÉXICO)
+
+Díaz Chávez Diana P.0211-2022 PRIMER CIRCUITO
+
+Guadalupe (CIUDAD DE MÉXICO)
+
+López Vera Manuel P.0464-2022 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Matamoros Ramírez P.0514-2022 PRIMER CIRCUITO
+
+Óscar (CIUDAD DE MÉXICO)
+
+Medina García De P.0520-2022 PRIMER CIRCUITO
+
+León Juan Ramón (CIUDAD DE MÉXICO)
+
+Muñoz López Daniel P.0563-2022 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Ponce Islas Raúl P.0639-2022 PRIMER CIRCUITO
+
+Eugenio (CIUDAD DE MÉXICO)
+
+Reyes Romero P.0672-2022 PRIMER CIRCUITO
+
+Rodrigo Israel (CIUDAD DE MÉXICO)
+
+Vázquez Menchaca P.0824-2022 PRIMER CIRCUITO
+
+María Isabel Violeta (CIUDAD DE MÉXICO)
+
+Zea Morales Amelia P.0858-2022 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Alaníz Mora Esteban P.0018-2022 SEGUNDO CIRCUITO
+
+(ESTADO DE MÉXICO)
+
+Pineda García P.0632-2022 SEGUNDO CIRCUITO
+
+Verónica Marisol (ESTADO DE MÉXICO)
+
+Soriano Aguirre P.0779-2022 SEGUNDO CIRCUITO
+
+Clarita Gregoria (ESTADO DE MÉXICO)
+
+Flores Rivera Fabiola P.0264-2022 TERCER CIRCUITO
+
+(ESTADO DE JALISCO)
+
+Venegas Agraz P.0832-2022 TERCER CIRCUITO
+
+Aida Graciela (ESTADO DE JALISCO)
+
+Vázquez González P.0822-2022 CUARTO CIRCUITO
+
+Jaime Arturo (ESTADO DE NUEVO
+
+LEÓN)
+
+Cruz Méndez Jorge P.0194-2022 QUINTO CIRCUITO
+
+Armando (ESTADO DE SONORA)
+
+Camacho Alcántara P.0119-2022 SEXTO CIRCUITO
+
+Rita (ESTADO DE PUEBLA)
+
+Castillo Blasco Eugenia P.0146-2022 SÉPTIMO CIRCUITO
+
+(ESTADO DE VERACRUZ
+
+DE IGNACIO DE LA LLAVE)
+
+Gallegos Elizondo P.0281-2022 OCTAVO CIRCUITO
+
+Marcela (ESTADO DE COAHUILA
+
+DE ZARAGOZA Y 9
+
+MUNICIPIOS EN LA
+
+LAGUNA DEL ESTADO
+
+DE DURANGO)
+
+García González Robert P.0296-2022 DECIMOSEGUNDO
+
+CIRCUITO(ESTADO
+
+DE SINALOA)
+
+Osuna Flores Edgar P.0599-2022 DECIMOSEGUNDO
+
+CIRCUITO (ESTADO
+
+DE SINALOA)
+
+Del Ángel Flores P.0206-2022 VIGÉSIMO SEGUNDO
+
+Luis Gabriel CIRCUITO (ESTADO
+
+DE QUERÉTARO)
+
+Tampa Nájera Abdías P.0786-2022 VIGÉSIMO TERCER
+
+CIRCUITO (ESTADO
+
+DE ZACATECAS)
+
+Contabilidad
+
+Aguilera Galindo P.024-2002 PRIMER CIRCUITO
+
+Guillermo Cesar (CIUDAD DE MÉXICO)
+
+Aguirre Martínez Laura P.009-2018 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Altamirano Santander P.0028-2021 PRIMER CIRCUITO
+
+Miriam Dolores (CIUDAD DE MÉXICO)
+
+Anaya Torres P.0071-2020 PRIMER CIRCUITO
+
+Cutberto Andrés (CIUDAD DE MÉXICO)
+
+Araiza Téllez Prisciliano P.001-2019 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Arellano Reyes P.0058-2022 PRIMER CIRCUITO
+
+María Guadalupe (CIUDAD DE MÉXICO)
+
+Arevalo Mercado P.022-2019 PRIMER CIRCUITO
+
+Mauricio Ramón (CIUDAD DE MÉXICO)
+
+Arredondo Pérez Ismael P.0062-2022 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Arzola Granados P.0070-2022 PRIMER CIRCUITO
+
+Alma Berenice (CIUDAD DE MÉXICO)
+
+Ávila Castañón Juana P.0023-2019 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Avilés Ang Yasmín P.0115-2020 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Ballesteros Celaya Maribel P.010-2016 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Barrios Acosta José Manuel P.022-2004 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Beaujean Martínez P.0102-2021 PRIMER CIRCUITO
+
+Leslye Yonanny (CIUDAD DE MÉXICO)
+
+Benítez Galán Carla P.0161-2020 PRIMER CIRCUITO
+
+Martha (CIUDAD DE MÉXICO)
+
+Beraza Méndez P.010-2018 PRIMER CIRCUITO
+
+Marisela (CIUDAD DE MÉXICO)
+
+Borja García Constantino P.0113-2021 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Bravo Mena Humberto P.011-2018 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Briones Aguilar P.012-2018 PRIMER CIRCUITO
+
+José René (CIUDAD DE MÉXICO)
+
+Briseño Ponce P.0180-2020 PRIMER CIRCUITO
+
+María Guadalupe (CIUDAD DE MÉXICO)
+
+Calderón Maldonado P.0195-2020 PRIMER CIRCUITO
+
+Armando (CIUDAD DE MÉXICO)
+
+Carranza Tabuada P.0159-2021 PRIMER CIRCUITO
+
+Guadalupe (CIUDAD DE MÉXICO)
+
+Castañeda Niebla P.012-2017 PRIMER CIRCUITO
+
+Alberto Manuel (CIUDAD DE MÉXICO)
+
+Castillo Jiménez P.0170-2021 PRIMER CIRCUITO
+
+Daniel Eduardo (CIUDAD DE MÉXICO)
+
+Castillo Rodríguez P.0173-2021 PRIMER CIRCUITO
+
+Carlos Alberto (CIUDAD DE MÉXICO)
+
+Castro Altamirano P.025-2019 PRIMER CIRCUITO
+
+José Luis (CIUDAD DE MÉXICO)
+
+Contreras Rangel P.0320-2020 PRIMER CIRCUITO
+
+Francisco Sinhué (CIUDAD DE MÉXICO)
+
+Córdova Maldonado P.0204-2021 PRIMER CIRCUITO
+
+Francisco Javier (CIUDAD DE MÉXICO)
+
+Cruz Najera Noé Jesús P.024-2008 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Cruz Nájera Jorge P.0212-2021 PRIMER CIRCUITO
+
+Eduardo (CIUDAD DE MÉXICO)
+
+Cruz Villaseñor Carlos P.0216-2021 PRIMER CIRCUITO
+
+Alberto (CIUDAD DE MÉXICO)
+
+De La Fuente Molina P.0237-2021 PRIMER CIRCUITO
+
+José (CIUDAD DE MÉXICO)
+
+De Luis Romero María P.0378-2020 PRIMER CIRCUITO
+
+Eva (CIUDAD DE MÉXICO)
+
+Del Valle Villegas Juana P.0382-2020 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Díaz García Fernando P.0399-2020 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Dueñas Zúñiga Moisés P.026-2019 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Escobar Mota Rafael P.013-2017 PRIMER CIRCUITO
+
+Carlos (CIUDAD DE MÉXICO)
+
+Espinosa Reyes Fernando P.003-2019 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Espinoza Vera Juan Nabor P.281-2002 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Estrella Menendez Enrique P.014-2010 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Estrella Quintero Alberto P.0456-2020 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Flores Mendoza Salvador P.0483-2020 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Flores Vega Mario P.0494-2020 PRIMER CIRCUITO
+
+Alejandro (CIUDAD DE MÉXICO)
+
+Funes Rosellon Griselda P.011-2016 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+García Estrada Alfonso P.0540-2020 PRIMER CIRCUITO
+
+Manuel (CIUDAD DE MÉXICO)
+
+García Gómez Arturo P.0352-2021 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+García Jiménez Omar P.0551-2020 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+García Quintero José P.0363-2021 PRIMER CIRCUITO
+
+Antonio (CIUDAD DE MÉXICO)
+
+González Cuevas P.0607-2020 PRIMER CIRCUITO
+
+Noé Nahum (CIUDAD DE MÉXICO)
+
+González Juárez P.007-2018 PRIMER CIRCUITO
+
+Eusebio (CIUDAD DE MÉXICO)
+
+González Lobato P.0014-2018 PRIMER CIRCUITO
+
+Guadalupe (CIUDAD DE MÉXICO)
+
+González López P.0617-2020 PRIMER CIRCUITO
+
+Fernando (CIUDAD DE MÉXICO)
+
+González Maldonado P.015-2018 PRIMER CIRCUITO
+
+José Alonso (CIUDAD DE MÉXICO)
+
+González Ortega Víctor P.0407-2021 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO) ¿
+
+González Smith Edgar P.0627-2020 PRIMER CIRCUITO
+
+Israel (CIUDAD DE MÉXICO)
+
+González Villanueva P.0631-2020 PRIMER CIRCUITO
+
+Alonso (CIUDAD DE MÉXICO
+
+Gorostieta De La Cruz P.016-2018 PRIMER CIRCUITO
+
+José Marcelo (CIUDAD DE MÉXICO)
+
+Govea Sandoval Miriam P.0633-2020 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Granados Ramos Dalia P.003-2014 PRIMER CIRCUITO
+
+Ernestina (CIUDAD DE MÉXICO)
+
+Gudiño Casas Guillermo P.0421-2021 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Gutiérrez Salazar P.0664-2020 PRIMER CIRCUITO
+
+Guadalupe (CIUDAD DE MÉXICO)
+
+Gutiérrez Morales P.0660-2020 PRIMER CIRCUITO
+
+Ada Luz (CIUDAD DE MÉXICO)
+
+Guzmán Mendoza P.0449-2021 PRIMER CIRCUITO
+
+Saturnino (CIUDAD DE MÉXICO)
+
+Guzmán Ortiz P.0452-2021 PRIMER CIRCUITO
+
+José Luis (CIUDAD DE MÉXICO)
+
+Hacha Rosas Rosendo P.0455-2021 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Ham Hernández P.232-2005 PRIMER CIRCUITO
+
+María Alicia (CIUDAD DE MÉXICO)
+
+Hermida Guerrero P.014-2017 PRIMER CIRCUITO
+
+Sergio Francisco (CIUDAD DE MÉXICO)
+
+Hernández Abundiz P.021-2019 PRIMER CIRCUITO
+
+Sergio (CIUDAD DE MÉXICO)
+
+Hernández Camacho P.0464-2021 PRIMER CIRCUITO
+
+Sonia Lina (CIUDAD DE MÉXICO)
+
+Hernández Díaz Arturo P.027-2019 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Hernández Gama René P.17-2018 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Hernández García P.018-2018 PRIMER CIRCUITO
+
+José Fidel (CIUDAD DE MÉXICO)
+
+Hernández Grajales P.028-2019 PRIMER CIRCUITO
+
+Rubí Karina (CIUDAD DE MÉXICO)
+
+Hernández Rangel P.0484-2021 PRIMER CIRCUITO
+
+Carlos (CIUDAD DE MÉXICO)
+
+Herrera Hurtado P.0715-2020 PRIMER CIRCUITO
+
+Ernesto Gerardo (CIUDAD DE MÉXICO)
+
+Huerta Hernández P.0724-2020 PRIMER CIRCUITO
+
+Irma Hilda (CIUDAD DE MÉXICO)
+
+Jardón Gallegos María P.0743-2020 PRIMER CIRCUITO
+
+Del Carmen (CIUDAD DE MÉXICO)
+
+Jiménez Martínez P.0753-2020 PRIMER CIRCUITO
+
+Francisco Agustín (CIUDAD DE MÉXICO)
+
+Juárez González P.0764-2020 PRIMER CIRCUITO
+
+María Elena (CIUDAD DE MÉXICO)
+
+Juárez Ortiz Juan P.0537-2021 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Lazcano Castro Guillermo P.0784-2020 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Lemus Hidalgo P.0788-2020 PRIMER CIRCUITO
+
+Francisco Israel (CIUDAD DE MÉXICO)
+
+Levi Alcántara Abraham P.0797-2020 P RIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+López Camacho Salvador P.0573-2021 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+López Mendoza P.0825-2020 PRIMER CIRCUITO
+
+Francisco Adrián (CIUDAD DE MÉXICO)
+
+López Ramírez P.0832-2020 PRIMER CIRCUITO
+
+Gerardo Héctor (CIUDAD DE MÉXICO)
+
+Macedo Gómez Carmen P.0854-2020 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Malvaez Mejía Víctor P.0625-2021 PRIMER CIRCUITO
+
+Manuel (CIUDAD DE MÉXICO)
+
+Martínez Rodríguez Álvaro P.029-2019 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Matus Fuentes P.0935-2020 PRIMER CIRCUITO
+
+José Luis (CIUDAD DE MÉXICO)
+
+Matus Urtecho Ana Ruth P.0934-2020 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Matus Urtecho P.0935-2020 PRIMER CIRCUITO
+
+José Luis (CIUDAD DE MÉXICO)
+
+Medina Estrada Octavio P.0675-2021 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Mendoza Hernández P.019-2018 PRIMER CIRCUITO
+
+José Luis (CIUDAD DE MÉXICO)
+
+Mendoza Rodríguez P.0692-2021 PRIMER CIRCUITO
+
+Juan Manuel (CIUDAD DE MÉXICO)
+
+Mendoza Torres Antonio P.020-2018 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Merino Flores Abisai P.0701-2021 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Montes De Oca Romero P.012-2016 PRIMER CIRCUITO
+
+Blanca Estela (CIUDAD DE MÉXICO)
+
+Morales Mejía Marco P.1007-2020 PRIMER CIRCUITO
+
+Antonio (CIUDAD DE MÉXICO)
+
+Moreno Ortega Juana P.1024-2020 PRIMER CIRCUITO
+
+Sonia (CIUDAD DE MÉXICO)
+
+Munguía Olmos Jorge P.1030-2020 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Muñoz Ayllón Jesús Adrián P.1033-2020 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Muñoz Bravo Ricardo P.1034-2020 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Nolasco Sánchez Esminda P.1068-2020 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Olivares Barrera Carlos Efren P.0771-2021 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Olivares Mendoza Yolanda P.0775-2021 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Oliver Díaz Jorge Roberto P.00778-2021 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Ortega De La Torre Héctor P.015-2017 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Ortega José Francisco P.1104-2020 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Palafox Oropeza Mario P.0809-2021 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Peña Carrada Eleazar P.021-2018 PRIMER CIRCUITO
+
+Rodrigo (CIUDAD DE MÉXICO)
+
+Peña Montes De Oca P.013-2016 PRIMER CIRCUITO
+
+Blanca Yadira (CIUDAD DE MÉXICO)
+
+Peña Montes De Oca P.014-2016 PRIMER CIRCUITO
+
+Oscar Israel (CIUDAD DE MÉXICO)
+
+Peñafort García P.016-2017 PRIMER CIRCUITO
+
+Francisco Javier (CIUDAD DE MÉXICO)
+
+Peñafort Olivas P.0017-2017 PRIMER CIRCUITO
+
+Lydia Ivette (CIUDAD DE MÉXICO)
+
+Pérez Serratos P.1176-2020 PRIMER CIRCUITO
+
+Diana Ivette (CIUDAD DE MÉXICO)
+
+Picazo Maldonado P.0856-2021 PRIMER CIRCUITO
+
+Germán (CIUDAD DE MÉXICO)
+
+Prado Delgadillo P.022-2018 PRIMER CIRCUITO
+
+Paola Astrid (CIUDAD DE MÉXICO)
+
+Quintana Cisneros P.0878-2021 PRIMER CIRCUITO
+
+José Humberto (CIUDAD DE MÉXICO)
+
+Ramírez Venegas P.0894-2021 PRIMER CIRCUITO
+
+Rodrigo Adrián (CIUDAD DE MÉXICO)
+
+Reyes Pastor Elpidio P.1255-2020 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Ríos Blanquet Javier Raúl P.1266-2020 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Rivas Landín Alberto P.1274-2020 PRIMER CIRCUITO
+
+Cecilio (CIUDAD DE MÉXICO)
+
+Rivera Ortiz Rosa María P.0935-2021 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Rivera Robredo Agustina P.0683-2022 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Rivera Solórzano P.032-2019 PRIMER CIRCUITO
+
+José Alberto (CIUDAD DE MÉXICO)
+
+Robles Hernández P.1290-2020 PRIMER CIRCUITO
+
+Fernando (CIUDAD DE MÉXICO)
+
+Roldán Santuario Oscar P.0985-2021 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Romero Hernández P.0990-2021 PRIMER CIRCUITO
+
+Dionisio Alberto (CIUDAD DE MÉXICO)
+
+Romero Peralta P.096-2008 PRIMER CIRCUITO
+
+Raymundo (CIUDAD DE MÉXICO)
+
+Rosas Rosas Ana Lilia P.1355-2020 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Salinas Juárez Juan Antonio P.033-2019 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Sánchez Arreola Roxana P.1022-2021 PRIMER CIRCUITO
+
+Jazmín (CIUDAD DE MÉXICO)
+
+Sánchez Vega Carlos P.1040-2021 PRIMER CIRCUITO
+
+Francisco (CIUDAD DE MÉXICO)
+
+Solares Zenteno Edgardo P.1473-2020 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Solórzano Bolaños P.1478-2020 PRIMER CIRCUITO
+
+Víctor Hugo (CIUDAD DE MÉXICO)
+
+Soria Palacios Benjamín P.1479-2020 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Urbina Zamorano Javier P.0808-2022 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Vargas Ferrer Antonio P.1554-2020 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Vargas Huitrón Amalin P.1137-2021 PRIMER CIRCUITO
+
+Leysa (CIUDAD DE MÉXICO)
+
+Vázquez Hernández P.1142-2021 PRIMER CIRCUITO
+
+Enrique Arturo (CIUDAD DE MÉXICO)
+
+Villalobos Casillas Jorge P.118-2008 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Villamil Rodríguez P.035-2019 PRIMER CIRCUITO
+
+Yolanda (CIUDAD DE MÉXICO)
+
+Villarruel Briones P.036-2019 PRIMER CIRCUITO
+
+Antonio Alberto (CIUDAD DE MÉXICO)
+
+Yáñez Sánchez P.024-2018 PRIMER CIRCUITO
+
+Armando David (CIUDAD DE MÉXICO)
+
+Young Gon Kim P.037-2019 PRIMER CIRCUITO
+
+(CIUDAD DE MÉXICO)
+
+Albarrán Piña Lucino P.0020-2021 SEGUNDO CIRCUITO
+
+(ESTADO DE MÉXICO)
+
+Arrieta Hernández P.0059-2021 SEGUNDO CIRCUITO
+
+Luis Ignacio (ESTADO DE MÉXICO)
+
+Barbosa López Marianela P.0086-2021 SEGUNDO CIRCUITO
+
+(ESTADO DE MÉXICO)
+
+Barrios Beltrán Rosalía P.116-2006 SEGUNDO CIRCUITO
+
+(ESTADO DE MÉXICO)
+
+Campos Rodríguez P.0213-2020 SEGUNDO CIRCUITO
+
+Patricia (ESTADO DE MÉXICO)
+
+Carmona Montero P.0243-2020 SEGUNDO CIRCUITO
+
+José Raúl (ESTADO DE MÉXICO)
+
+Delgado Torres P.0209-2022 SEGUNDO CIRCUITO
+
+Mariela Ivonne (ESTADO DE MÉXICO)
+
+Escobar Ferrer Gabriela P.0431-2020 SEGUNDO CIRCUITO
+
+(ESTADO DE MÉXICO)
+
+Franco Peña Oscar P.0273-2022 SEGUNDO CIRCUITO
+
+(ESTADO DE MÉXICO)
+
+García Padilla Víctor P.0359-2021 SEGUNDO CIRCUITO
+
+Manuel (ESTADO DE MÉXICO)
+
+García Villegas Sara Abigail P.0013-2018 SEGUNDO CIRCUITO
+
+(ESTADO DE MÉXICO)
+
+Gil Morales Carlos Alberto P.0381-2021 SEGUNDO CIRCUITO
+
+(ESTADO DE MÉXICO)
+
+González López Miguel P.0619-2020 SEGUNDO CIRCUITO
+
+Ángel (ESTADO DE MÉXICO)
+
+González Melquiadez P.0404-2021 SEGUNDO CIRCUITO
+
+Juana Graciela (ESTADO DE MÉXICO)
+
+Gutiérrez Salgado Moisés P.0441-2021 SEGUNDO CIRCUITO
+
+(ESTADO DE MÉXICO)
+
+Herrera Y Anduaga P.0717-2020 SEGUNDO CIRCUITO
+
+Alejandro Manuel (ESTADO DE MÉXICO)
+
+Leyva Hernández María P.145-2003 SEGUNDO CIRCUITO
+
+Del Carmen (ESTADO DE MÉXICO)
+
+Merino Flores Usziel P.0702-2021 SEGUNDO CIRCUITO
+
+(ESTADO DE MÉXICO)
+
+Núñez Aguilar Bibiana P.0761-2021 SEGUNDO CIRCUITO
+
+Isabel (ESTADO DE MÉXICO)
+
+Oscos Basurto Luis René P.1117-2020 SEGUNDO CIRCUITO
+
+(ESTADO DE MÉXICO)
+
+Ramírez Barrón Luis P.1207-2020 SEGUNDO CIRCUITO
+
+Enrique (ESTADO DE MÉXICO)
+
+Reyes Meza Silva Carina P.1254-2020 SEGUNDO CIRCUITO
+
+(ESTADO DE MÉXICO)
+
+Rodríguez Cruz Octavio P.1302-2020 SEGUNDO CIRCUITO
+
+Alonso (ESTADO DE MÉXICO)
+
+Rosales Contreras Mario P.0993-2021 SEGUNDO CIRCUITO
+
+(ESTADO DE MÉXICO)
+
+Rubio Rosas Abraham P.1362-2020 SEGUNDO CIRCUITO
+
+(ESTADO DE MÉXICO)
+
+Sánchez Vázquez Ángel P.1430-2020 SEGUNDO CIRCUITO
+
+Daniel (ESTADO DE MÉXICO
+
+Santos Giles Ricardo P.1052-2021 SEGUNDO CIRCUITO
+
+(ESTADO DE MÉXICO)
+
+Torres Alva Rubén P.1508-2020 SEGUNDO CIRCUITO
+
+(ESTADO DE MÉXICO)
+
+Trejo Karam Jorge P.044-2016 SEGUNDO CIRCUITO
+
+(ESTADO DE MÉXICO)
+
+Vázquez Gamboa P.1566-2020 SEGUNDO CIRCUITO
+
+José Luis (ESTADO DE MÉXICO)
+
+Vázquez Ramírez Elizabeth P.1572-2020 SEGUNDO CIRCUITO
+
+(ESTADO DE MÉXICO)
+
+Walle García Guillermo P.608-2020 SEGUNDO CIRCUITO
+
+Humberto (ESTADO DE MÉXICO)
+
+Aguilar Maya Juan Manuel P.0139-2019 TERCER CIRCUITO
+
+(ESTADO DE JALISCO)
+
+Berumen Sarabia P.021-2013 TERCER CIRCUITO
+
+María Julia Carolina (ESTADO DE JALISCO)
+
+Cadena Lobato P.066-2018 TERCER CIRCUITO
+
+Jorge Alberto (ESTADO DE JALISCO)
+
+Carrillo Limón Blanca Sofía P.0163-2021 TERCER CIRCUITO
+
+(ESTADO DE JALISCO)
+
+Esquivel Gutiérrez P.0283-2021 TERCER CIRCUITO
+
+Berenice Lizeth (ESTADO DE JALISCO)
+
+Garabito Nava Pedro P.0063-2017 TERCER CIRCUITO
+
+Alberto (ESTADO DE JALISCO)
+
+Garduño Morales Emilio P.0377-2021 TERCER CIRCUITO
+
+(ESTADO DE JALISCO)
+
+Gaytán Venegas Carlos P.0380-2021 TERCER CIRCUITO
+
+(ESTADO DE JALISCO)
+
+Hernández Terrones P.0388-2022 TERCER CIRCUITO
+
+José Antonio (ESTADO DE JALISCO)
+
+Jauregui Rodríguez P.0409-2022 TERCER CIRCUITO
+
+Ricardo Francisco (ESTADO DE JALISCO)
+
+Lomelí González P.0444-2022 TERCER CIRCUITO
+
+Laura Angélica (ESTADO DE JALISCO)
+
+Moreno González P.0011-2014 TERCER CIRCUITO
+
+José De Jesús (ESTADO DE JALISCO)
+
+Naranjo Del Río P.021-2015 TERCER CIRCUITO
+
+Armando Arturo (ESTADO DE JALISCO)
+
+Pérez Orozco P.0848-2021 TERCER CIRCUITO
+
+Francisco Adán (ESTADO DE JALISCO)
+
+Pulido García Liliana P.064-2017 TERCER CIRCUITO
+
+Josefina (ESTADO DE JALISCO)
+
+Quezada Solorza P.097-2004 TERCER CIRCUITO
+
+Elizabeth (ESTADO DE JALISCO)
+
+Ramírez Jáuregui P.0889-2021 TERCER CIRCUITO
+
+Rosa Angélica (ESTADO DE JALISCO)
+
+Ramírez Sánchez Sergio P.141-2019 TERCER CIRCUITO
+
+(ESTADO DE JALISCO)
+
+Romero Fierro Héctor P.040-2011 TERCER CIRCUITO
+
+Alberto (ESTADO DE JALISCO)
+
+Romero Quezada P.012-2014 TERCER CIRCUITO
+
+Alberto Alfonso (ESTADO DE JALISCO)
+
+Toscano Novoa César P.013-2014 TERCER CIRCUITO
+
+(ESTADO DE JALISCO)
+
+Almada Cruz Ramona P.075-2018 CUARTO CIRCUITO
+
+Elena (ESTADO DE NUEVO
+
+LEÓN)
+
+Alonso Urrutia Octavio P.0026-2021 CUARTO CIRCUITO
+
+José (ESTADO DE NUEVO
+
+LEÓN)
+
+Bahena Voigt Arturo P.0124-2020 CUARTO CIRCUITO
+
+(ESTADO DE NUEVO
+
+LEÓN)
+
+Cortés Gallo Alfonso P.0335-2020 CUARTO CIRCUITO
+
+(ESTADO DE NUEVO
+
+LEÓN)
+
+Flores Chávez Vicente P.0304-2021 CUARTO CIRCUITO
+
+Roberto (ESTADO DE NUEVO
+
+LEÓN)
+
+Gutiérrez Sánchez P.0665-2020 CUARTO CIRCUITO
+
+Juan Higinio (ESTADO DE NUEVO
+
+LEÓN)
+
+Linares Valdez José P.0802-2020 CUARTO CIRCUITO
+
+Fernando (ESTADO DE NUEVO
+
+LEÓN)
+
+Longoria García Jaime P.0569-2021 CUARTO CIRCUITO
+
+(ESTADO DE NUEVO
+
+LEÓN)
+
+Luna Guerrero Alfonso P.084-2017 CUARTO CIRCUITO
+
+(ESTADO DE NUEVO
+
+LEÓN)
+
+Martínez Ávila Jorge P.0889-2020 CUARTO CIRCUITO
+
+Arturo (ESTADO DE NUEVO
+
+LEÓN)
+
+Sánchez Maceda Mayeul P.0751-2022 CUARTO CIRCUITO
+
+(ESTADO DE NUEVO
+
+LEÓN)
+
+García Sanora Ivan P.0567-2020 QUINTO CIRCUITO
+
+(ESTADO DE SONORA)
+
+López Virgen Germán P.0465-2022 QUINTO CIRCUITO
+
+(ESTADO DE SONORA)
+
+Cautle Cautle José Arnulfo P.0217-2021 SEXTO CIRCUITO
+
+(ESTADO DE PUEBLA)
+
+Machorro Vélez Gaspar P.0618-2021 SEXTO CIRCUITO
+
+(ESTADO DE PUEBLA)
+
+Martínez León Eduardo P.0907-2020 SEXTO CIRCUITO
+
+(ESTADO DE PUEBLA)
+
+Martínez López Federico P.0647-2021 SEXTO CIRCUITO
+
+(ESTADO DE PUEBLA)
+
+Peralta Juárez Rosa P.1149-2020 SEXTO CIRCUITO
+
+María (ESTADO DE PUEBLA)
+
+Polanco Ortiz María P.0864-2021 SEXTO CIRCUITO
+
+Rosalinda (ESTADO DE PUEBLA)
+
+Reyna Y Herrero P.081-2018 SEXTO CIRCUITO
+
+Germán (ESTADO DE PUEBLA)
+
+Cándido Jiménez Pedro P.089-2018 SÉPTIMO CIRCUITO
+
+(ESTADO DE VERACRUZ
+
+DE IGNACIO DE LA LLAVE)
+
+Dávila Torres José Ignacio P.0229-2021 SÉPTIMO CIRCUITO
+
+(ESTADO DE VERACRUZ
+
+DE IGNACIO DE LA LLAVE)
+
+Díaz Rosales Julián P.0408-2020 SÉPTIMO CIRCUITO
+
+(ESTADO DE VERACRUZ
+
+DE IGNACIO DE LA LLAVE)
+
+Duval Polanco Georgina P.095-2017 SÉPTIMO CIRCUITO
+
+(ESTADO DE VERACRUZ
+
+DE IGNACIO DE LA LLAVE)
+
+García Martínez Josefina P.0553-2020 SÉPTIMO CIRCUITO
+
+(ESTADO DE VERACRUZ
+
+DE IGNACIO DE LA LLAVE)
+
+Hernández Alarcón P.0459-2021 SÉPTIMO CIRCUITO
+
+Jaime Alberto (ESTADO DE VERACRUZ
+
+DE IGNACIO DE LA LLAVE)
+
+Hernández Baltazar P.0678-2020 SÉPTIMO CIRCUITO
+
+Raúl Aurelio (ESTADO DE VERACRUZ
+
+DE IGNACIO DE LA LLAVE)
+
+Juárez López Gonzalo P.0535-2021 SÉPTIMO CIRCUITO
+
+(ESTADO DE VERACRUZ
+
+DE IGNACIO DE LA LLAVE)
+
+López Sánchez Moisés P.0596-2021 SÉPTIMO CIRCUITO
+
+(ESTADO DE VERACRUZ
+
+DE IGNACIO DE LA LLAVE)
+
+Luna Cortés Héctor Manuel P.183-2019 SÉPTIMO CIRCUITO
+
+(ESTADO DE VERACRUZ
+
+DE IGNACIO DE LA LLAVE)
+
+Rivera Hernández Arturo P.0932-2021 SÉPTIMO CIRCUITO
+
+(ESTADO DE VERACRUZ
+
+DE IGNACIO DE LA LLAVE)
+
+Ruiz Barrera Raúl David P.1366-2020 SÉPTIMO CIRCUITO
+
+(ESTADO DE VERACRUZ
+
+DE IGNACIO DE LA LLAVE)
+
+Acosta Zermeño María P.027-2013 OCTAVO CIRCUITO
+
+De La Luz (ESTADO DE COAHUILA
+
+DE ZARAGOZA Y 9
+
+MUNICIPIOS EN LA
+
+LAGUNA DEL ESTADO
+
+DE DURANGO)
+
+Elizondo Sandoval P.021-2014 OCTAVO CIRCUITO
+
+Carlos Héctor (ESTADO DE COAHUILA
+
+DE ZARAGOZA Y 9
+
+MUNICIPIOS EN LA
+
+LAGUNA DEL ESTADO
+
+DE DURANGO)
+
+Flores Espinoza Luis P.0476-2020 OCTAVO CIRCUITO
+
+Alejandro (ESTADO DE COAHUILA
+
+DE ZARAGOZA Y 9
+
+MUNICIPIOS EN LA
+
+LAGUNA DEL ESTADO
+
+DE DURANGO)
+
+Ramos Espinosa P.0022-2014 OCTAVO CIRCUITO
+
+Francisco Javier (ESTADO DE COAHUILA
+
+DE ZARAGOZA Y 9
+
+MUNICIPIOS EN LA
+
+LAGUNA DEL ESTADO
+
+DE DURANGO)
+
+Sánchez Martínez P.0752-2022 OCTAVO CIRCUITO
+
+José Francisco (ESTADO DE COAHUILA
+
+DE ZARAGOZA Y 9
+
+MUNICIPIOS EN LA
+
+LAGUNA DEL ESTADO
+
+DE DURANGO)
+
+Sifuentes Contreras P.1072-2021 OCTAVO CIRCUITO
+
+José Manuel (ESTADO DE COAHUILA
+
+DE ZARAGOZA Y 9
+
+MUNICIPIOS EN LA
+
+LAGUNA DEL ESTADO
+
+DE DURANGO)
+
+Vaquera Saucedo Juan P.1135-2021 OCTAVO CIRCUITO
+
+(ESTADO DE COAHUILA
+
+DE ZARAGOZA Y 9
+
+MUNICIPIOS EN LA
+
+LAGUNA DEL ESTADO
+
+DE DURANGO)
+
+Arce Méndez Diana P.0045-2021 NOVENO CIRCUITO
+
+Fátima (ESTADO DE SAN LUIS
+
+POTOSÍ)
+
+Gaitán Padrón Pedro P.0323-2021 NOVENO CIRCUITO
+
+(ESTADO DE SAN
+
+LUIS POTOSÍ)
+
+Martínez Díaz Homero P.0897-2020 NOVENO CIRCUITO
+
+(ESTADO DE SAN
+
+LUIS POTOSÍ)
+
+Ortiz Vázquez P.0596-2022 NOVENO CIRCUITO
+
+Francisco Javier (ESTADO DE SAN
+
+LUIS POTOSÍ)
+
+Rivas Rubio Alberto P.1275-2020 NOVENO CIRCUITO
+
+(ESTADO DE SAN
+
+LUIS POTOSÍ)
+
+Rivera Balderrama P.0929-2021 NOVENO CIRCUITO
+
+Oscar Alberto (ESTADO DE SAN
+
+LUIS POTOSÍ)
+
+Salinas Ávila Ma. P.1390-2020 NOVENO CIRCUITO
+
+Rafaela (ESTADO DE SAN
+
+LUIS POTOSÍ)
+
+Cervantes Iriarte P.0186-2021 DÉCIMO CIRCUITO
+
+José Carlos (ESTADO DE TABASCO
+
+Y 25 MUNICIPIOS DEL
+
+ESTADO DE VERACRUZ)
+
+Pérez Robles Teresita P.1152-2020 DÉCIMO CIRCUITO
+
+(ESTADO DE TABASCO
+
+Y 25 MUNICIPIOS DEL
+
+ESTADO DE VERACRUZ)
+
+Rodríguez Asencio P.0693-2022 DÉCIMO CIRCUITO
+
+Daniel Alejandro (ESTADO DE TABASCO
+
+Y 25 MUNICIPIOS DEL
+
+ESTADO DE VERACRUZ)
+
+Tamayo Vázquez P.069-2016 DÉCIMO CIRCUITO
+
+Octavio (ESTADO DE TABASCO
+
+Y 25 MUNICIPIOS DEL
+
+ESTADO DE VERACRUZ)
+
+Álvarez Banderas Jorge P.005-2007 DECIMOPRIMER
+
+CIRCUITO (ESTADO
+
+DE MICHOACÁN)
+
+Calderón Silva P.0129-2021 DECIMOPRIMER
+
+Fernando Eugenio CIRCUITO (ESTADO
+
+DE MICHOACÁN)
+
+García Gil Erick P.0349-2021 DECIMOPRIMER
+
+CIRCUITO (ESTADO
+
+DE MICHOACÁN)
+
+Murillo Sánchez P.1040-2020 DECIMOPRIMER
+
+Alejandrina CIRCUITO (ESTADO
+
+DE MICHOACÁN)
+
+Pantoja Ruiz David P.0607-2022 DECIMOPRIMER
+
+CIRCUITO (ESTADO
+
+DE MICHOACÁN)
+
+Pérez Solorio Héctor P.0630-2022 DECIMOPRIMER
+
+CIRCUITO (ESTADO
+
+DE MICHOACÁN)
+
+Rivas Rivas Saúl P.0681-2022 DECIMOPRIMER
+
+CIRCUITO (ESTADO
+
+DE MICHOACÁN)
+
+Cabanillas Cedano P.103-2017 DECIMOSEGUNDO
+
+Gonzalo CIRCUITO (ESTADO
+
+DE SINALOA)
+
+Díaz Flores Germán P.0396-2020 DECIMOSEGUNDO
+
+CIRCUITO (ESTADO
+
+DE SINALOA)
+
+Leyva Reyes María P.0800-2020 DECIMOSEGUNDO
+
+Benita CIRCUITO (ESTADO
+
+DE SINALOA)
+
+Valenzuela Flores P.0813-2022 DECIMOSEGUNDO
+
+Luis Enrique CIRCUITO (ESTADO
+
+DE SINALOA)
+
+Martínez Chávez Marcelo P.0640-2021 DECIMOTERCER
+
+CIRCUITO (ESTADO
+
+DE OAXACA)
+
+Díaz Cabañas Armando P.071-2016 DECIMOCUARTO
+
+De Jesús CIRCUITO (ESTADO
+
+DE YUCATÁN)
+
+Traconis Canul Roger P.059-2012 DECIMOCUARTO
+
+CIRCUITO (ESTADO
+
+DE YUCATÁN)
+
+Xacur Gómez Raúl Rubén P.1174-2021 DECIMOCUARTO
+
+CIRCUITO (ESTADO
+
+DE YUCATÁN)
+
+Cervantes Pérez Moisés P.0294-2020 DECIMOQUINTO
+
+CIRCUITO (ESTADO
+
+DE BAJA CALIFORNIA
+
+Y MUNICIPIO DE SAN
+
+LUIS RÍO COLORADO
+
+DEL ESTADO DE
+
+SONORA)
+
+González López P.0618-2020 DECIMOQUINTO
+
+José Carlos CIRCUITO (ESTADO
+
+DE BAJA CALIFORNIA
+
+Y MUNICIPIO DE SAN
+
+LUIS RÍO COLORADO
+
+DEL ESTADO DE
+
+SONORA)
+
+Gordillo Ulloa José Manuel P.062-2012 DECIMOQUINTO
+
+CIRCUITO (ESTADO
+
+DE BAJA CALIFORNIA
+
+Y MUNICIPIO DE SAN
+
+LUIS RÍO COLORADO
+
+DEL ESTADO DE
+
+SONORA)
+
+Pérez Chávez Enrique P.0030-2014 DECIMOQUINTO
+
+CIRCUITO (ESTADO
+
+DE BAJA CALIFORNIA
+
+Y MUNICIPIO DE SAN
+
+LUIS RÍO COLORADO
+
+DEL ESTADO DE
+
+SONORA)
+
+Pérez Rodríguez Amado P.054-2015 DECIMOQUINTO
+
+CIRCUITO (ESTADO
+
+DE BAJA CALIFORNIA
+
+Y MUNICIPIO DE SAN
+
+LUIS RÍO COLORADO
+
+DEL ESTADO DE
+
+SONORA)
+
+Torres Sánchez Juan P.1517-2020 DECIMOQUINTO
+
+Jorge CIRCUITO (ESTADO
+
+DE BAJA CALIFORNIA
+
+Y MUNICIPIO DE SAN
+
+LUIS RÍO COLORADO
+
+DEL ESTADO DE
+
+SONORA)
+
+Rodríguez Huichapa P.1309-2020 DECIMOSEXTO
+
+Elizabeth CIRCUITO (ESTADO
+
+DE GUANAJUATO)
+
+Romero González P.1337-2020 DECIMOSEXTO
+
+Ranulfo Javier CIRCUITO (ESTADO
+
+DE GUANAJUATO)
+
+Valtierra Guerra Juan P.031-2014 DECIMOSEXTO
+
+Manuel CIRCUITO (ESTADO
+
+DE GUANAJUATO)
+
+Puente Campos Eloy P.128-2017 DECIMOSÉPTIMO
+
+Abraham CIRCUITO (ESTADO
+
+DE CHIHUAHUA)
+
+Barranco Dirzo Víctor P.0089-2021 DECIMOCTAVO
+
+Hugo CIRCUITO (ESTADO
+
+DE MORELOS)
+
+Benítez Benítez Loreto P.159-2020 DECIMOCTAVO
+
+CIRCUITO (ESTADO
+
+DE MORELOS)
+
+Domínguez Méndez P.0222-2022 DECIMOCTAVO
+
+Arturo CIRCUITO (ESTADO
+
+DE MORELOS)
+
+Estefanía Téllez P.0286-2021 DECIMOCTAVO
+
+José De Cupertino CIRCUITO (ESTADO
+
+DE MORELOS)
+
+Pérez Apaez José Alberto P.0833-2021 DECIMOCTAVO
+
+CIRCUITO (ESTADO
+
+DE MORELOS)
+
+Dávila Zarazúa Nydia Elín P.0202-2022 DECIMONOVENO
+
+CIRCUITO (ESTADO
+
+DE TAMAULIPAS)
+
+Flores García Paula Xóchitl P.0306-2021 DECIMONOVENO
+
+CIRCUITO (ESTADO
+
+DE TAMAULIPAS)
+
+García Zúñiga Ulises P.0376-2021 DECIMONOVENO
+
+CIRCUITO (ESTADO
+
+DE TAMAULIPAS)
+
+Jackson Moreno P.0512-2021 DECIMONOVENO
+
+Celio Jonathan CIRCUITO (ESTADO
+
+DE TAMAULIPAS)
+
+Murillo Del Ángel María P.1039-2020 DECIMONOVENO
+
+De Lourdes CIRCUITO (ESTADO
+
+DE TAMAULIPAS)
+
+Salazar Báez Leticia Paola P.0735-2022 DECIMONOVENO
+
+CIRCUITO (ESTADO
+
+DE TAMAULIPAS)
+
+León Robles José Luis P.0796-2020 VIGÉSIMO CIRCUITO
+
+(ESTADO DE CHIAPAS)
+
+Pérez Maldonado Abel P.0846-2021 VIGÉSIMO CIRCUITO
+
+(ESTADO DE CHIAPAS)
+
+Alarcón Navarrete Simón P.1644-2020 VIGÉSIMO PRIMER
+
+CIRCUITO (ESTADO
+
+DE GUERRERO)
+
+Rueda López P.0999-2021 VIGÉSIMO PRIMER
+
+Juan Carlos CIRCUITO (ESTADO
+
+DE GUERRERO)
+
+Ventura Prudente P.121-2018 VIGÉSIMO PRIMER
+
+Humberto CIRCUITO (ESTADO
+
+DE GUERRERO)
+
+Álvarez Jiménez Miguel P.0053-2020 VIGÉSIMO SEGUNDO
+
+Ángel CIRCUITO (ESTADO
+
+DE QUERÉTARO)
+
+Pantoja Valadez Ivette P.251-2019 VIGÉSIMO SEGUNDO
+
+Berenice CIRCUITO (ESTADO
+
+DE QUERÉTARO)
+
+Salinas Bernal César P.1391-2020 VIGÉSIMO SEGUNDO
+
+Ezequiel CIRCUITO (ESTADO
+
+DE QUERÉTARO)
+
+Torres Barbosa Miguel P.136-2017 VIGÉSIMO SEGUNDO
+
+CIRCUITO (ESTADO
+
+DE QUERÉTARO)
+
+Torres Esqueda P.0122-2018 VIGÉSIMO SEGUNDO
+
+Leopoldo Eduardo CIRCUITO (ESTADO
+
+DE QUERÉTARO)
+
+Carrillo Arjona P.0162-2021 VIGÉSIMO CUARTO
+
+César Santos CIRCUITO (ESTADO
+
+DE NAYARIT)
+
+Martínez Gómez Pablo P.0901-2020 VIGÉSIMO CUARTO
+
+CIRCUITO (ESTADO
+
+DE NAYARIT)
+
+Muro Chávez Julián P.0565-2022 VIGÉSIMO CUARTO
+
+CIRCUITO (ESTADO
+
+DE NAYARIT)
+
+Martínez Hernández P.0239-2021 VIGÉSIMO QUINTO
+
+Alejandra De La Luz CIRCUITO (ESTADO
+
+DE DURANGO)
+
+Valverde Guzmán Ulises P.0454-2021 VIGÉSIMO QUINTO
+
+CIRCUITO (ESTADO
+
+DE DURANGO)
+
+Paniagua Morales P.065-2015 VIGÉSIMO SÉPTIMO
+
+Eduardo CIRCUITO (ESTADO
+
+DE QUINTANA ROO)
+
+Bernal Arellanos P.143-2017 VIGÉSIMO NOVENO
+
+Irma Aida CIRCUITO (ESTADO
+
+DE HIDALGO)
+
+Martínez Sánchez P.0923-2020 VIGÉSIMO NOVENO
+
+Carlos Omar CIRCUITO (ESTADO
+
+DE HIDALGO)
+
+Moreno Durán P.0745-2021 VIGÉSIMO NOVENO
+
+José Conrado CIRCUITO (ESTADO
+
+DE HIDALGO)
+
+Velasco González P.1578-2020 VIGÉSIMO NOVENO
+
+Gracia Patricia CIRCUITO (ESTADO
+
+DE HIDALGO)
+
+Gutiérrez Ramírez P.0358-2022 TRIGÉSIMO CIRCUITO
+
+Roberto (ESTADO DE
+
+AGUASCALIENTES)
+
+Lara López Luis Alejandro P.268-2019 TRIGÉSIMO CIRCUITO
+
+(ESTADO DE
+
+AGUASCALIENTES)
+
+Cárdenas Acero P.0231-2020 TRIGÉSIMO SEGUNDO
+
+Kristián Fabián CIRCUITO (ESTADO
+
+DE COLIMA)
+
+Jasso González Claudio P.138-2018 TRIGÉSIMO SEGUNDO
+
+CIRCUITO (ESTADO
+
+DE COLIMA)
+
+Manzano Hernández P.0484-2022 TRIGÉSIMO SEGUNDO
+
+Luis Jonathan CIRCUITO (ESTADO
+
+DE COLIMA)
+
+SEGUNDO.- Se da a conocer la Lista Nacional de personas que pueden fungir como peritas o peritos contables para el ejercicio 2022.
+
+TERCERO.- Las modificaciones o actualizaciones que los Poderes Judiciales, tanto Federal como de las entidades federativas que correspondan, realicen a sus registros de personas autorizadas para emitir peritajes contables, tendrán efectos vinculantes con el presente Acuerdo, por lo que las personas y sujetos obligados deberán verificar la vigencia del registro, al momento en que soliciten sus servicios.
+
+CUARTO.- El presente Acuerdo entrará en vigor a partir del día siguiente de su aprobación por el Consejo General del Instituto Nacional Electoral.
+
+QUINTO.- Se instruye a la Unidad Técnica de Fiscalización para que notifique el presente Acuerdo a los Partidos Políticos Nacionales y locales, a través del módulo de notificaciones electrónicas del Sistema Integral de Fiscalización (SIF).
+
+SEXTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el portal de internet del Instituto Nacional Electoral.
+
+El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 26 de enero de 2022, por votación unánime de las y los Consejeros Electorales, Maestra Norma Irene De La Cruz Magaña, Doctor Uuc-kib Espadas Ancona, Doctora Adriana Margarita Favela Herrera, Maestro José Martín Fernando Faz Mora, Carla Astrid Humphrey Jordán, Doctor Ciro Murayama Rendón, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Doctor José Roberto Ruiz Saldaña, Maestra Beatriz Claudia Zavala Pérez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello.
+
+El Consejero Presidente del Consejo General, Dr. Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Lic. Edmundo Jacobo Molina.- Rúbrica.
