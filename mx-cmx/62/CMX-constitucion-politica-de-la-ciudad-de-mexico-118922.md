@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2021-09-02"
+last_updated: "2022-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE MARZO DE 2022.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -1978,9 +1978,9 @@ g) Los organismos autónomos, en las materias de su competencia.
 
 6. Las leyes y decretos deberán aprobarse por la mayoría de las y los diputados, con excepción de las leyes constitucionales, que deberán ser aprobadas por el voto de las dos terceras partes de las y los integrantes del Congreso de la Ciudad. El procedimiento para su creación y reforma, será establecido por la ley.
 
-> <small>(F. DE E., P.O. 4 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 16 DE MARZO DE 2022)</small>
 
-7. El sistema al que se refiere el inciso q) del apartado D del artículo 29 de esta Constitución realizará la evaluación cuantitativa y cualitativa de las leyes.
+7. El sistema al que se refiere el inciso p) del apartado D del artículo 29 de esta Constitución realizará la evaluación cuantitativa y cualitativa de las leyes.
 
 Artículo 31
 
@@ -4317,3 +4317,11 @@ PRIMERO. Remítase a la Jefatura de Gobierno para su Promulgación y Publicació
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 16 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL NUMERAL 7 DEL ARTÍCULO 30 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al momento de su publicación,
