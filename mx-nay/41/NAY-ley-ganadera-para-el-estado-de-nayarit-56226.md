@@ -4,7 +4,7 @@ identifier: "NAY-ley-ganadera-para-el-estado-de-nayarit-56226"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2018-12-21"
+last_updated: "2022-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY GANADERA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el miércoles 4 de julio de 2007.
 
@@ -149,9 +149,9 @@ XXIII. Recuentos, corridas o realeos.- La reunión que el ganadero hace del gana
 
 XXIII Bis.- REEMO.- Registro Electrónico de Movilización;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2022)</small>
 
-XXIV. Secretaría.- Secretaría de Desarrollo Rural y Medio Ambiente;
+XXIV. Secretaría.- Secretaría de Desarrollo Rural;
 
 XXV. Señal de Sangre.- Cortadas, incisiones o perforaciones que se hacen en las orejas o pliegues naturales del ganado;
 
@@ -735,9 +735,15 @@ VI. Cuando el titular hubiese sido sentenciado por los delitos de abigeato o enc
 
 Lo previsto en las (sic) fracción V sin perjuicio de la sanción que esta ley establece.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 75.
 
-Quien use una marca de herrar o medio de identificación de la cual no sea su titular, para marcar o señalar ganado propio o ajeno, se hará acreedor a las sanciones previstas en esta ley, sin perjuicio de la imposición de otro tipo de sanciones.
+Quien use una marca de herrar o medio de identificación de la cual no sea su titular, para marcar o señalar ganado propio o ajeno, con dispositivo de identificación animal para bovinos y colmenas, se hará acreedor a las sanciones previstas en esta ley, sin perjuicio de la imposición de otro tipo de sanciones.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2022)</small>
+
+Por lo tanto, el identificador SINIIGA o SINIDA será de uso exclusivo de su Unidad de Producción Pecuaria (UPP) y no podrá ser canjeada, prestada o vendida para uso dentro de otra Unidad de Producción Pecuaria (UPP) o para que otro Prestador de Servicios Ganaderos (PSG) la utilice; tampoco podrá ser utilizada en otra Unidad de Producción Pecuaria (UPP) distinta a la que se autorizó, aunque esta sea propiedad de la misma persona.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2013)</small>
 
@@ -991,6 +997,14 @@ Para los efectos de esta ley se entenderá como zona acreditada, aquélla que de
 
 Cuando se trate de zonas no acreditadas queda prohibida la movilización del ganado hacia zonas acreditadas, salvo lo establecido en la Ley Federal de Sanidad Animal y las NOM's sobre la materia.
 
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2022)</small>
+
+El inspector auxiliar de ganadería que autorice indebidamente la movilización de ganado en los términos del párrafo anterior, perderá su nombramiento como inspector auxiliar, por conducto de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2022)</small>
+
+Asimismo, el comprador y/o trasportista que participen en la movilización a la que se hace referencia en este artículo, serán acreedores a una sanción por cada cabeza documentada y/o trasportada, en los términos del Título Décimo Segundo de la presente Ley.
+
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 106.
@@ -1011,13 +1025,19 @@ El Pase de Ganado, la Guía de Tránsito y el Certificado de Inspección Legal, 
 
 Para la expedición del Permiso de Movilización fuera del Estado, se requiere que el propietario presente el Certificado de Inspección Legal o factura fiscal que ampara la posesión legal de los animales, sus productos y subproductos y, para el caso de los bovinos, la Guía de Tránsito elaborada por la Ventanilla Local autorizada por el REEMO, marcando de esta forma la trazabilidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2022)</small>
+
+###### Artículo 108.
+
+Toda especie, productos y subproductos que provengan de otra entidad federativa o del extranjero para su explotación y/o comercialización en el Estado, deberán acompañarse con la documentación que acredite la propiedad y haberse cumplido con los requisitos del lugar de procedencia; así mismo, sus propietarios están obligados a cumplir, ante la Secretaría, con los requisitos de la presente ley para obtener la autorización de introducción al Estado, la que se expedirá para efectos de control y trazabilidad.
+
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
-###### ARTÍCULO 108.
-
-Toda especie, productos y subproductos que provengan de otra entidad federativa o del extranjero para su comercialización en el Estado, deberán acompañarse con la documentación que acredite la propiedad y haberse cumplido con los requisitos del lugar de procedencia; así mismo, sus propietarios están obligados a cumplir, ante la Secretaría, con los requisitos de la presente ley para obtener la autorización de introducción al Estado, la que se expedirá para efectos de control y trazabilidad.
-
 En caso de inconsistencias en la documentación el embarque se retornará a su lugar de origen para su regularización con una guarda custodia, hasta la frontera del Estado por donde entró.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2022)</small>
+
+Toda especie, producto y subproducto, introducidos al Estado en forma clandestina o con documentos apócrifos, será sancionada en los términos de esta Ley, sin perjuicio de las generadas por la posible comisión de un delito.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
@@ -1121,11 +1141,11 @@ En todo rastro, unidades de sacrificio y demás establecimientos dedicados al pr
 
 Para la operación del rastro, unidades de sacrificio y demás establecimientos dedicados al procesamiento o industrialización de bienes de origen animal para consumo humano, se deberá contar durante las horas laborales, con el servicio de cuando menos un médico veterinario zootecnista acreditado por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, para fines de control de bienestar animal, de vigilancia epidemiológica, otras medidas zoosanitarias; de buenas prácticas pecuarias y de sustancias tóxicas y/o peligrosas, además de vigilar que se cumplan las Normas Oficiales Mexicanas en la materia.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 126.
 
-Para ser administrador de un rastro, unidad de sacrificio o establecimiento dedicado al procesamiento o industrialización de bienes de origen animal para consumo humano, es necesario que se reúnan los mismos requisitos que para ser inspector.
+Para ser administrador de un rastro, unidad de sacrificio o establecimiento dedicado al procesamiento o industrialización de bienes de origen animal para consumo humano, es necesario que se reúnan los mismos requisitos que para ser inspector. En lo referente al requisito previsto en la fracción IV del artículo 99, no deberá haber desarrollo dichas actividades el año previo a la toma de posesión.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
@@ -1487,9 +1507,13 @@ b) De veinticinco a ciento cincuenta veces la UMA por infracciones a los artícu
 
 c) De cincuenta a doscientas veces la UMA por infringir los artículos 46, 48, 67, 70, 90,111,112,118,119,123,130,131,133, 146 primer párrafo.
 
-d) De 100 a 300 veces la UMA por infracciones a los artículos 74 fracción V, 75, 115, 116, 117, 137, 142, 153 y 164 último párrafo.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MARZO DE 2022)</small>
 
-En lo que respecta a los artículos 137 y 164 último párrafo, la sanción se impondrá por cabeza de ganado.
+d) De 100 a 300 veces la UMA por infracciones a los artículos 74 fracción V, 75, 105, 108, 115, 116, 117, 137, 142, 153 y 164 último párrafo.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2022)</small>
+
+En lo que respecta a los artículos 105, 108, 137 y 164 último párrafo, la sanción se impondrá por cabeza de ganado.
 
 V. Arresto administrativo hasta por 36 horas;
 
@@ -1590,3 +1614,9 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La Secretaría de Desarrollo Rural y Medio Ambiente tendrá un plazo de 180 días hábiles contados a partir de la entrada en vigor de la presente reforma, para efectos de adecuar el Reglamento de la Ley respectiva conforme al presente Decreto.
 
 TERCERO.- Dentro de los seis meses siguientes a la entrada en vigor del presente decreto los Ayuntamientos en coordinación con la Secretaría elaborarán el primer registro de comerciantes de ganado que se refiere en el artículo 143 de la presente reforma, el cual será publicado en las páginas electrónicas oficiales en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit.
+
+P.O. 16 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY GANADERA PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
