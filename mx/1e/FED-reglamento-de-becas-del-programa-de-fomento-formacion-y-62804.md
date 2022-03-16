@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-becas-del-programa-de-fomento-formacion-y-62804"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-10"
-last_updated: "2018-02-16"
+last_updated: "2022-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62804&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-08-20"
 ---
 # REGLAMENTO DE BECAS DEL PROGRAMA DE FOMENTO, FORMACION Y CONSOLIDACION DE CAPITAL HUMANO DE ALTO NIVEL -- ANTES REGLAMENTO DE BECAS DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA -- ANTES REGLAMENTO DE BECAS DEL PROGRAMA DE FOMENTO, FORMACION, DESARROLLO Y VINCULACION DE RECURSOS HUMANOS DE ALTO NIVEL DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA--
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE BECAS PARA EL FORTALECIMIENTO DE LA COMUNIDAD DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN, PUBLICADO EN EL D.O.F. DE 16 DE MARZO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE BECAS DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE MARZO DE 2022 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 10 de septiembre de 2008.
 
@@ -570,3 +572,17 @@ TERCERO. Los asuntos de becas que se encuentren en trámite a la entrada en vigo
 En los casos que las modificaciones otorguen beneficio al becario no contemplado en la norma anterior, deberá ser aplicado en su beneficio.
 
 Las modificaciones tendrán efectos retroactivos siempre y cuando sean en beneficio del becario.
+
+D.O.F. 16 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE BECAS PARA EL FORTALECIMIENTO DE LA COMUNIDAD DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se deroga el Reglamento de Becas del Programa de Fomento, Formación y Consolidación de Capital Humano de Alto Nivel publicado en el Diario Oficial de la Federación el 16 de febrero de 2018.
+
+Asimismo, quedan sin efecto todas las disposiciones reglamentarias y administrativas emitidas por el Consejo en materia de Becas que se opongan al presente Reglamento.
+
+TERCERO. Los asuntos de Becas y Apoyos complementarios que se encuentren en trámite a la entrada en vigor del presente Reglamento continuarán desarrollándose al amparo de las normas vigentes en la fecha que se originó el trámite en lo que no se oponga al presente Reglamento.
+
+CUARTO. Los recursos del Programa se podrán utilizar para continuar con el pago de las Becas y apoyos similares otorgados por los Fondos CONACYT, siempre que la obligación correspondiente haya sido transferida al Consejo mediante el instrumento jurídico correspondiente.
