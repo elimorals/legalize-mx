@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2021-11-22"
+last_updated: "2022-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE MARZO DE 2022.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 24 DE DICIEMBRE DE 2018.
 
@@ -162,9 +162,9 @@ XI.- La educación para la salud;
 
 XII.- La prevención, orientación, control y vigilancia en materia de nutrición, sobrepeso, obesidad y otros trastornos de la conducta alimentaria, enfermedades respiratorias, enfermedades cardiovasculares y aquellas atribuibles al tabaquismo;
 
-> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2022)</small>
 
-XIII.- La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
+XIII. La prevención y el control de los efectos nocivos de los factores ambientales en la salud de la persona;
 
 > <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
@@ -552,9 +552,9 @@ Para efectos de lo dispuesto en el párrafo anterior compete a la Comisión Fede
 
 I. Efectuar la evaluación de riesgos a la salud en las materias de su competencia, así como identificar y evaluar los riesgos para la salud humana que generen los sitios en donde se manejen residuos peligrosos;
 
-> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2022)</small>
 
-II. Proponer al Secretario de Salud la política nacional de protección contra riesgos sanitarios así como su instrumentación en materia de: establecimientos de salud; medicamentos y otros insumos para la salud; disposición de órganos, tejidos, células de seres humanos y sus componentes; alimentos y bebidas, productos cosméticos; productos de aseo; tabaco, plaguicidas, nutrientes vegetales, sustancias tóxicas o peligrosas para la salud; productos biotecnológicos, suplementos alimenticios, materias primas y aditivos que intervengan en la elaboración de los productos anteriores; así como de prevención y control de los efectos nocivos de los factores ambientales en la salud del hombre, salud ocupacional y saneamiento básico;
+II. Proponer al Secretario de Salud la política nacional de protección contra riesgos sanitarios así como su instrumentación en materia de: establecimientos de salud; medicamentos y otros insumos para la salud; disposición de órganos, tejidos, células de seres humanos y sus componentes; alimentos y bebidas, productos cosméticos; productos de aseo; tabaco, plaguicidas, nutrientes vegetales, sustancias tóxicas o peligrosas para la salud; productos biotecnológicos, suplementos alimenticios, materias primas y aditivos que intervengan en la elaboración de los productos anteriores; así como de prevención y control de los efectos nocivos de los factores ambientales en la salud de la persona, salud ocupacional y saneamiento básico;
 
 III. Elaborar y expedir las normas oficiales mexicanas relativas a los productos, actividades, servicios y establecimientos materia de su competencia, salvo en las materias a que se refieren las fracciones I y XXVI del artículo 3o. de esta Ley;
 
@@ -3006,11 +3006,11 @@ II.- Determinar los límites máximos permisibles de exposición de un trabajado
 
 III.- Ejercer junto con los gobiernos de las entidades federativas, el control sanitario sobre los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deban reunir, de conformidad con lo que establezcan los reglamentos respectivos.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 130.
 
-La Secretaría de Salud, en coordinación con las autoridades laborales y las instituciones públicas de seguridad social, y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, promoverán, desarrollarán y difundirán investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, y estudios para adecuar los instrumentos y equipos de trabajo a las características del hombre.
+La Secretaría de Salud, en coordinación con las autoridades laborales y las instituciones públicas de seguridad social, y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, promoverán, desarrollarán y difundirán investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, y estudios para adecuar los instrumentos y equipos de trabajo a las características de la persona.
 
 > <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
@@ -3176,11 +3176,11 @@ La vacunación contra enfermedades transmisibles, prevenibles por ese medio de i
 
 La Secretaría de Salud establecerá las normas oficiales mexicanas para el control de las personas que se dediquen a trabajos o actividades, mediante los cuales se pueda propagar alguna de las enfermedades transmisibles a que se refiere esta Ley.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 146.
 
-Los laboratorios que manejen agentes patógenos estarán sujetos a control por parte de las autoridades sanitarias competentes, de conformidad con las normas oficiales mexicanas que expida la Secretaría de Salud, en lo relativo a las precauciones higiénicas que deban observar, para evitar la propagación de las enfermedades transmisibles al hombre. Cuando esto represente peligro para la salud animal, se oirá la opinión de las autoridades competentes en la materia.
+Los laboratorios que manejen agentes patógenos estarán sujetos a control por parte de las autoridades sanitarias competentes, de conformidad con las normas oficiales mexicanas que expida la Secretaría de Salud, en lo relativo a las precauciones higiénicas que deban observar, para evitar la propagación de las enfermedades transmisibles al ser humano. Cuando esto represente peligro para la salud animal, se oirá la opinión de las autoridades competentes en la materia.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -3218,11 +3218,11 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfestación u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 155.
 
-La Secretaría de Salud determinará la forma de disponer de los productos, subproductos, desechos y cadáveres de animales, cuando constituyan un riesgo de transmisión de enfermedades al hombre o produzcan contaminación del ambiente con riesgo para la salud.
+La Secretaría de Salud determinará la forma de disponer de los productos, subproductos, desechos y cadáveres de animales, cuando constituyan un riesgo de transmisión de enfermedades al ser humano o produzcan contaminación del ambiente con riesgo para la salud.
 
 ###### ARTICULO 156.
 
@@ -3230,13 +3230,19 @@ Se considera peligroso para la salubridad general de la República la tenencia, 
 
 I.- Fuente de infección, en el caso de zoonosis;
 
-II.- Huésped intermediario de vehículos que puedan contribuir a la diseminación de enfermedades transmisibles al hombre, y
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2022)</small>
 
-III.- Vehículo de enfermedades transmisibles al hombre, a través de sus productos.
+II.- Huésped intermediario de vehículos que puedan contribuir a la diseminación de enfermedades transmisibles al ser humano, y
+
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2022)</small>
+
+III.- Vehículo de enfermedades transmisibles al ser humano, a través de sus productos.
+
+> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 157.
 
-Se prohibe la introducción o el transporte por el territorio nacional de animales que padezcan una enfermedad transmisible al hombre, de cadáveres de aquéllos, así como el comercio con sus productos. Asimismo, se prohibe la introducción o el transporte de animales que provengan de áreas que la autoridad sanitaria considere infectadas.
+Se prohíbe la introducción o el transporte por el territorio nacional de animales que padezcan una enfermedad transmisible al ser humano, de cadáveres de aquéllos, así como el comercio con sus productos. Asimismo, se prohíbe la introducción o el transporte de animales que provengan de áreas que la autoridad sanitaria considere infectadas.
 
 > <small>(REFORMADO, D.O.F. 17 DE MARZO DE 2015)</small>
 
@@ -7544,9 +7550,11 @@ VI.- Ante un desastre natural que por sus características incremente el riesgo 
 
 Las acciones de inmunización extraordinaria, serán obligatorias para todos los individuos en el territorio nacional.
 
+> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 409.
 
-Las autoridades sanitarias competentes podrán ordenar o proceder a la vacunación de animales que puedan constituirse en transmisores de enfermedades al hombre o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
+Las autoridades sanitarias competentes podrán ordenar o proceder a la vacunación de animales que puedan constituirse en transmisores de enfermedades al ser humano o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
 
 ###### ARTICULO 410.
 
@@ -8020,9 +8028,11 @@ I. Cobre en una institución pública de salud la aplicación de una vacuna incl
 
 II. A sabiendas de ello, venda las vacunas que sean propiedad de las instituciones públicas del Sistema Nacional de Salud.
 
+> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 463.
 
-Al que introduzca al territorio nacional, transporte o comercie con animales vivos o sus cadáveres, que padezcan o hayan padecido una enfermedad transmisible al hombre en los términos del artículo 157 de esta Ley, teniendo conocimiento de este hecho, se le sancionará con prisión de uno a ocho años y multa equivalente de cien a mil días de salario mínimo general vigente en la zona económica de que se trate.
+Al que introduzca al territorio nacional, transporte o comercie con animales vivos o sus cadáveres, que padezcan o hayan padecido una enfermedad transmisible al ser humano en los términos del artículo 157 de esta Ley, teniendo conocimiento de este hecho, se le sancionará con prisión de uno a ocho años y multa equivalente de cien a mil veces la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, D.O.F. 14 DE ENERO DE 2013)</small>
 
@@ -9461,5 +9471,11 @@ Sexto. Las disposiciones a las que se refiere el presente Decreto no se aplicar�
 D.O.F. 22 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 77 DE LA LEY GENERAL DE SALUD”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
