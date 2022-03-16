@@ -4,7 +4,7 @@ identifier: "SIN-codigo-familiar-del-estado-de-sinaloa-92146"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-02-06"
-last_updated: "2022-03-11"
+last_updated: "2022-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FAMILIAR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de febrero de 2013.
 
@@ -323,9 +323,11 @@ El oficial del registro civil, exhortará a quien presente al menor de edad para
 
 Si al registrar a un niño no se sabe quiénes son sus padres, el nombre propio y los apellidos serán puestos por la Procuraduría de Protección de Niñas, Niños y Adolescentes, ante el oficial del registro civil que corresponda.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2022)</small>
+
 ###### Artículo 36.
 
-Las personas físicas podrán cambiar de nombre una vez que por resolución judicial del juez de lo familiar, le sea concedida la solicitud, por reasignación de concordancia sexo-genérica, previa anotación correspondiente al acta de nacimiento primigenia.
+Las personas físicas podrán cambiar de nombre para modificar su identidad de género mediante resolución del Juez de lo familiar o mediante resolución administrativa que conceda la solicitud de reconocimiento de identidad de género, previa anotación correspondiente en su acta de nacimiento primigenia.
 
 ###### Artículo 37.
 
@@ -419,9 +421,9 @@ V. Copia certificada del acta de defunción del cónyuge fallecido, o de sentenc
 
 VI. (DEROGADA, P.O. 16 DE AGOSTO DE 2013)
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2022)</small>
 
-VII. La manifestación, por escrito y bajo protesta de decir verdad, en el caso de que alguno de los contrayentes haya concluido el proceso para la concordancia sexo genérica, misma que tendrá el carácter de reservada;
+VII. La manifestación, por escrito y bajo protesta de decir verdad, en el caso de que alguno de los contrayentes haya concluido el proceso para el reconocimiento de identidad de género, misma que tendrá el carácter de reservada;
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -6493,11 +6495,11 @@ El Registro Civil tendrá a su cargo el Registro de Deudores Alimentarios Moroso
 
 Las Oficialías del Registro Civil estarán a cargo de servidores públicos denominados Oficiales del Registro Civil.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2022)</small>
 
 ###### Artículo 1097.
 
-Los oficiales del registro civil podrán autorizar los actos del estado familiar y extender las actas relativas a nacimiento, reconocimiento de hijos, matrimonio, concubinato, divorcio y defunción de los mexicanos y extranjeros en la entidad, al realizarse el hecho o acto de que se trate, así como inscribir las ejecutorias que declaren el registro de hijos acogidos, la ausencia, la presunción de muerte, la tutela, que se ha perdido o limitado la capacidad legal para administrar bienes y las sentencias que ordenen el levantamiento de una nueva acta por cualquiera de los supuestos previstos en este Código, previa la anotación correspondiente al acta de nacimiento primigenia, siempre y cuando se cumplan las formalidades exigidas por los ordenamientos jurídicos aplicables; las cuales se asentarán en documentos especiales que se denominarán, “Formas del Registro Civil”.
+Los oficiales del registro civil autorizarán los actos del estado familiar y extenderán las actas relativas a nacimiento, reconocimiento de hijos, matrimonio, concubinato, divorcio y defunción de los mexicanos y extranjeros en la entidad, al realizarse el hecho o acto de que se trate, asimismo, inscribirán las ejecutorias que declaren el registro de hijos acogidos, la ausencia, la presunción de muerte, la tutela, que se ha perdido o limitado la capacidad legal para administrar bienes y las resoluciones administrativas o judiciales que ordenen el levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, previa anotación correspondiente al acta de nacimiento primigenia, siempre y cuando se cumplan las formalidades exigidas por los ordenamientos jurídicos aplicables; las cuales se asentarán en documentos especiales que se denominarán, “Formas del Registro Civil”.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -6728,6 +6730,14 @@ El Oficial del Registro Civil expedirá gratuitamente la primera copia certifica
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
 
 Las copias certificadas de las actas de registro de nacimiento expedidas por el Oficial del Registro Civil no tendrán caducidad, por lo que se podrán utilizar en la realización de trámites ante cualquier ente público o privado, siempre que se encuentren legibles y no presenten tachaduras, enmendaduras o cualquier aspecto que altere su contenido, o sobrevenga un cambio de nombre, de estado familiar, u otro que afecte los datos inscritos en ese documento.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2022)</small>
+
+###### Artículo 1129 Bis.
+
+En los certificados de nacimiento de personas respecto de las cuales no se pueda determinar su sexo se deberá insertar aquel que mediante métodos científicos determine el médico respectivo o bien por el que opten la persona o personas que ejerzan su patria potestad. Queda a salvo el derecho de los padres y de la persona de solicitar la modificación respectiva en cualquier momento sobre su acta de nacimiento, o bien para el reconocimiento de su identidad de género en los términos establecidos en este Código.
+
+El certificado deberá ser presentado para el levantamiento de su acta de nacimiento y con el cual se determinará el sexo de la persona.
 
 ###### Artículo 1130.
 
@@ -7087,7 +7097,9 @@ El oficial del registro civil, que inscriba alguna de las ejecutorias que declar
 
 Cuando se recobre la capacidad legal para administrar bienes, se presenten los padres de los hijos acogidos reclamando la patria potestad, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al oficial del registro civil, utilizando el mismo procedimiento que utilizó la autoridad judicial que hizo la declaración para que cancele el acta a que se refiere el artículo anterior y teste la anotación que se hubiere hecho en el acta de nacimiento respectiva.
 
-## TÍTULO TERCERO. De la Nulificación, Reposición, Convalidación, Rectificación y Testadura de las Actas del Registro Civil
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE MARZO DE 2022)</small>
+
+## TÍTULO TERCERO. De la Nulificación, Reposición, Convalidación, Rectificación, Testadura y del levantamiento de las Actas del Registro Civil
 
 ### Capítulo II. De la Nulificación de Actas
 
@@ -7125,11 +7137,13 @@ I. Por falsedad, cuando se alegue que el suceso registrado no pasó;
 
 II. Por desacuerdo con la realidad, cuando se demuestre a través de documentos fehacientes, que la persona de que se trata ha sido siempre designada con un nombre distinto del que aparece en su acta de nacimiento;
 
-III. Por enmienda, cuando se solicite variar algún nombre u otro dato esencial que afecte el estado familiar, la filiación, la nacionalidad, el sexo y la identidad de la persona. En cuanto a la fecha de nacimiento, será procedente siempre y cuando la que vaya a establecerse sea anterior a la del registro y,
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2022)</small>
+
+III. Por enmienda, cuando se solicite corregir o variar algún nombre u otro dato esencial que afecte el estado familiar, la filiación y la nacionalidad. En cuanto a la fecha de nacimiento, será procedente siempre y cuando la que vaya a establecerse sea anterior a la del registro; y,
 
 IV. Cuando el nombre propio sea de evidente afrenta social.
 
-Pueden pedir el levantamiento de una nueva acta de nacimiento por reasignación de concordancia sexo-genérica, previa la anotación correspondiente en su acta de nacimiento primigenia, las personas que requieran el reconocimiento de su identidad de género.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE MARZO DE 2022)</small>
 
 ###### Artículo 1194.
 
@@ -7159,9 +7173,65 @@ En las hipótesis de doble registro de nacimiento, siempre que se pruebe la real
 
 En caso contrario, al afectar los datos esenciales será necesaria la rectificación del acta del estado familiar, para cuyo trámite se requerirá de la intervención del Ministerio Público y se ventilará de acuerdo con lo establecido en el Código de Procedimientos Familiares del Estado de Sinaloa.
 
-### Capítulo Único. Disposiciones Generales
+### Capítulo VI. Del Levantamiento de Actas de Nacimiento por Reconocimiento de Identidad de Género
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2022)</small>
+
+Artículo 1197 Bis I. La persona que requiera el reconocimiento de su identidad de género autopercibida puede tramitar el levantamiento de una nueva acta de nacimiento mediante juicio de conformidad con lo establecido en el Código de Procedimientos Familiares del Estado de Sinaloa o mediante procedimiento administrativo ante el Registro Civil del Estado de Sinaloa de conformidad con el presente Código.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2022)</small>
+
+Artículo 1197 Bis II. Se entenderá por identidad de género la convicción personal interna, tal como cada persona se percibe a sí misma, la cual puede corresponder o no al sexo asignado en el acta de nacimiento primigenia. En ningún caso será requisito acreditar intervención quirúrgica alguna, terapias, diagnóstico u otro procedimiento para el reconocimiento de la identidad de género.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2022)</small>
+
+Artículo 1197 Bis III. El reconocimiento de identidad de género mediante procedimiento administrativo se llevará a cabo ante las instancias y autoridades correspondientes del Registro Civil, cumpliendo todas las formalidades que exige su Reglamento.
+
+Para realizar el levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad (sic) género, las personas interesadas deberán acreditar los siguientes requisitos:
+
+I. Ser de nacionalidad mexicana;
+
+II. Ser mayor de 18 años;
+
+III. En el caso de menores de edad, estos deberán de ir acompañados de las personas que ejerzan la patria potestad o tutela;
+
+IV. Comparecer ante las oficinas del Registro Civil conforme al procedimiento que se establezca en su Reglamento;
+
+V. Manifestar el nombre completo y los datos registrales correspondientes; y
+
+VI. Manifestar el nombre sin apellidos y, en su caso, el sexo solicitado.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2022)</small>
+
+Artículo 1197 Bis IV. Para realizar el levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, las personas interesadas deberán presentar lo siguiente:
+
+I. Solicitud expresa ante la Dirección del Registro Civil;
+
+II. Copia certificada del acta de nacimiento primigenia para efectos de que se haga la reserva correspondiente;
+
+III. Identificación oficial vigente en original y copia fotostática de la persona mayor de edad;
+
+IV. Identificación oficial vigente en original y copia fotostática de las personas que ejerzan la patria potestad o tutela de la persona menor de edad; y
+
+V. Comprobante de domicilio.
+
+El levantamiento se realizará en la Dirección Estatal del Registro Civil. Se procederá de inmediato a hacer la anotación y la reserva correspondiente. Asimismo, se comunicará a la oficialía del Registro Civil respectiva donde se encuentre el acta de nacimiento primigenia, para los efectos a que haya lugar.
+
+El acta de nacimiento primigenia quedará reservada y no se publicará ni expedirá constancia alguna, salvo mandamiento judicial o a petición ministerial.
+
+Tratándose de personas menores de edad, el Registro Civil con el apoyo de la Procuraduría de Protección de Niñas, Niños y Adolescentes, deberá recabar su consentimiento del trámite, y a su vez, determinará la madurez cognitiva y psico-emocional de los menores de edad, en cuanto a su auto apercibimiento de identidad, atendiendo el principio del interés superior de la niñez.
+
+En todo caso cuando la autoridad del Registro Civil o la Procuraduría de Protección de Niñas, Niños y Adolescentes adviertan que el desarrollo evolutivo, cognoscitivo y madurez de la persona en cuestión no sea el óptimo conforme a su edad deberá recabar un dictamen de un especialista médico psicológico solo para el efecto de determinar si comprende el significado y alcance de lo que pretende realizar a efecto de que no sea manipulado, el cual deberá ser expedido dentro de un plazo no mayor a cinco días naturales.
+
+Concluido el procedimiento se enviarán los oficios con la información, en calidad de reservada a la Secretaría de Gobernación, Secretaría de Hacienda y Crédito Público, Secretaría de Educación Pública, Secretaría de Salud, Secretaría de Relaciones Exteriores, Instituto Nacional Electoral, Fiscalía General de la República, Centro Nacional de Información del Sistema Nacional de Seguridad Publica, Poder Judicial de la Federación, Registro Nacional de Población e Identificación Personal del Gobierno federal; así como a la Secretaría de Gobierno, Secretaría de Administración y Finanzas, Secretaría de Educación Pública y Cultura, Secretaría de Salud, Poder Judicial y Fiscalía General del Gobierno del Estado y a todas aquellas autoridades que se consideren convenientes, para los efectos legales procedentes.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2022)</small>
+
+Artículo 1197 Bis V. Los efectos de la nueva acta de nacimiento para el reconocimiento de la identidad de género, serán oponibles a terceros desde el momento de su levantamiento.
+
+Los derechos y obligaciones contraídas con anterioridad al proceso administrativo para el reconocimiento de identidad de género y a la expedición de la nueva acta de nacimiento, no se modifican ni extinguen con la nueva identidad jurídica de la persona; incluidos los provenientes de las relaciones propias del derecho de familia en todos sus órdenes y grados, los que se mantendrán inmodificables.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 1196.
 
@@ -7171,7 +7241,11 @@ Procede la reposición cuando el acta ha sufrido una falsificación o alteració
 
 La sentencia que conceda o niegue la rectificación, se comunicará al oficial del registro civil y a la Dirección Estatal del Registro Civil, a efecto de que se hagan las anotaciones correspondientes.
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE MARZO DE 2022)</small>
+
+### Capítulo Único. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ## TÍTULO CUARTO. Del Registro de Deudores Alimentarios Morosos
 
@@ -7468,3 +7542,15 @@ P.O. 11 DE MARZO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 16 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 80 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor a los sesenta días hábiles siguientes de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Las personas que hayan iniciado un juicio especial para cambiar su nombre mediante solicitud de reasignación de concordancia sexo-genérica, para efecto de que se reconozca su identidad de género, con anterioridad a la vigencia de las presentes reformas, podrán concluirlo o desistirse para iniciar el trámite administrativo.
+
+CUARTO. El Ejecutivo del Estado contará con sesenta días hábiles para realizar las adecuaciones al Reglamento y, en su caso, manuales del Registro Civil del Estado de Sinaloa, de conformidad con lo señalado en el presente Decreto.
