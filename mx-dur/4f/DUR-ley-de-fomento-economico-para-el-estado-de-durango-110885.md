@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-economico-para-el-estado-de-durango-110885"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-01"
-last_updated: "2021-09-26"
+last_updated: "2022-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 1 de diciembre de 2015.
 
@@ -635,13 +635,19 @@ La Secretaría elaborará la reglamentación, para la definición de los program
 
 La Secretaría, definirá en sus reglamentos, los medios de promoción y tiempos de difusión de las reglas de operación de los programas, para conocimiento de la ciudadanía y de los beneficiarios potenciales, y las publicará de manera oportuna, en un lugar visible y de fácil acceso, en su página oficial de internet.
 
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
-
 ARTÍCULO 19 BIS l.
 
-En las reglas de operación de los programas, la Secretaría incluirá medidas explícitas para fomentar la perspectiva de género, acciones afirmativas que permitan la igualdad entre hombres y mujeres, o bien elaborará programas específicos o modalidades dentro de los programas, con perspectiva de género, de conformidad con la Ley de Planeación del Estado de Durango, y demás legislación aplicable.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2022)</small>
+
+En las reglas de operación de los programas, la Secretaría incluirá medidas explícitas para fomentar la perspectiva de género, acciones afirmativas que permitan la igualdad sustantiva entre hombres y mujeres, y elaborará programas específicos o modalidades dentro de los programas, con perspectiva de género, de conformidad con la Ley de Planeación del Estado de Durango, y demás legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
 
 La Secretaría, impulsará la igualdad entre mujeres y hombres a través de la incorporación de la perspectiva de género en la planeación, diseño, elaboración, ejecución, seguimiento y evaluación del presupuesto; y desarrollará un sistema de indicadores que identifique el avance del presupuesto, y de las políticas públicas con perspectiva de género. Los indicadores deberán publicarse en la página de internet oficial de la Secretaría, y con base a lo que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+
+Para potenciar los resultados de las acciones afirmativas y programas de la Secretaría que pretendan fomentar y fortalecer la participación en el mercado de la (sic) mujeres y contribuir a generar fuentes de ingresos sostenibles para este sector de la población, el Gobierno del Estado, con participación de la Secretaría, gestionará acciones a través del Sistema Estatal para la Igualdad entre Mujeres y Hombres de Durango, y suscribirá los convenios necesarios con organismos del sector privado.
 
 > <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
 
@@ -957,6 +963,10 @@ V. Diseñar e implementar programas, para el financiamiento al impulso y consoli
 
 VI. Diseñar e implementar programas de crédito con perspectiva de género, para impulsar la incorporación de mujeres emprendedoras y empresarias en igualdad de oportunidades, para lo cual se destinará anualmente, en el presupuesto de Egresos, hasta el 5% de la suma (sic) recursos de los Fondos de Promoción Económica y Desarrollo de la Actividad Empresarial en el Estado.
 
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+
+La Secretaría, promoverá en el ámbito de su competencia, ante el sector público y privado, la intervención coordinada para fomentar la formación de capacidades competitivas y productivas, así como la generación de activos de mujeres emprendedoras y empresarias.
+
 > <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
 
 VII. Implementación de programas específicos de líneas de crédito, y políticas, para impulsar y consolidar startups, o empresas emergentes, en apoyo a la definición, validación y lanzamiento al mercado de productos innovadores y con alto potencial de crecimiento;
@@ -1004,6 +1014,14 @@ La Secretaría de Desarrollo Económico promoverá en coordinación con la Secre
 ###### ARTÍCULO 50.
 
 La Secretaría en coordinación con la Secretaría de Educación, diseñará programas que estimulen y fomenten el espíritu emprendedor y la iniciativa productiva de la juventud, propiciando su incorporación al mercado y a la economía local y regional, como actores fundamentales que garanticen el desarrollo presente y futuro de la entidad.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+
+El Gobernador del Estado, por conducto de la Secretaría, y en coordinación con la Secretaría de Finanzas y de Administración, diseñará e implementará, de acuerdo a la disponibilidad presupuestal, programas de extensión de créditos y/o garantías para apoyar proyectos de emprendimiento, que presenten los jóvenes que cursen el nivel de educación superior. Los programas, apoyarán los proyectos de emprendimiento, que tengan valor social y/o que sean innovadores, con alto potencial de crecimiento.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+
+Para la implementación de los programas, la Secretaría convendrá con instituciones educativas de nivel superior, para que lleven a cabo tareas de información, asesoría, y/o incubación y aceleración de los proyectos de emprendimiento.
 
 ###### ARTÍCULO 51.
 
@@ -1108,6 +1126,10 @@ V. Ser congruentes con los planes y programas de desarrollo urbano.
 VI. Procurar nuevos equilibrios entre los centros urbanos y suburbanos, y la vitalización de las zonas rurales.
 
 VII. Implementar medidas que estimulen la cultura de la prevención y seguridad en el trabajo como herramientas para estimular el desarrollo económico del Estado.
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2022)</small>
+
+VIII. Adopción de principios y prácticas empresariales que favorezcan la integración de las mujeres a las actividades económicas, aplicación de medidas que permitan el acceso a oportunidades de liderazgo, y aquellas tendientes a eliminar la inequidad de género en el ámbito laboral.
 
 ###### ARTÍCULO 58.
 
@@ -1551,9 +1573,9 @@ IV. Impulsar la competitividad empresarial.
 
 V. Otorgar, previo dictamen que la Secretaría y la Secretaría de Finanzas y de Administración emitan según el proyecto de que se trate, garantías y financiamiento a las micro, pequeñas y medianas empresas.
 
-> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2022)</small>
 
-VI. Diseñar y ejecutar, políticas y programas específicos de impulso al emprendimiento, a la cultura emprendedora, y de fortalecimiento al ecosistema emprendedor.
+VI. Diseñar y ejecutar políticas y programas específicos de impulso al emprendimiento, la cultura emprendedora, y de fortalecimiento al ecosistema emprendedor; y otorgar, previo dictamen que la Secretaría y la Secretaría de Finanzas y de Administración emitan según el proyecto de que se trate, garantías y financiamiento en apoyo a proyectos de emprendimiento.
 
 Los recursos del Fondo podrán destinarse para apoyar los programas de la Secretaría, para el cumplimiento de las funciones que le han sido asignadas en esta Ley.
 
@@ -2240,3 +2262,21 @@ CUARTO.- El Gobierno del Estado de Durango, destinará los recursos especificado
 QUINTO.- El Gobierno del Estado de Durango, realizará las modificaciones, que deriven de la fracción VI del artículo 82, del presente decreto, a la documentación legal y reglamentaria correspondiente, en un plazo no mayor a 60 días contados a la fecha.
 
 SEXTO.- Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
+
+P.O. 17 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 095.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 19 BIS I; SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN VI DEL ARTÍCULO 48; Y SE ADICIONA LA FRACCIÓN OCTAVA AL ARTÍCULO 57 DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+P.O. 17 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 96.- POR EL QUE SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 50, Y SE REFORMA LA FRACCIÓN VI AL ARTÍCULO 82, AMBOS DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO”.]
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial del gobierno del Estado de Durango.
+
+Segundo. La Secretaría deberá publicar las reglas de operación del Programa referido en el segundo párrafo del artículo 50 del presente ordenamiento.
+
+Tercero. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
