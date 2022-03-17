@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-electoral-nacional-y-del-1436
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-07-23"
-last_updated: "2020-07-23"
+last_updated: "2022-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143684&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-07-08"
 
 ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL Y DEL PERSONAL DE LA RAMA ADMINISTRATIVA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MARZO DE 2022.
 
 Estatuto publicado en el Número 18 del Diario Oficial de la Federación, el jueves 23 de julio de 2020.
 
@@ -371,9 +371,13 @@ El Instituto podrá establecer relaciones laborales permanentes, temporales, por
 
 El Instituto promoverá que su personal y el de los OPLE realicen su función bajo los principios rectores de la función electoral y los principios generales de no discriminación, transparencia, rendición de cuentas, equidad laboral, igualdad de género, cultura democrática y respeto a los derechos humanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 17 DE MARZO DE 2022)</small>
+
 ###### Artículo 8.
 
 Para una mejor comprensión del Estatuto se atenderán los términos siguientes:
+
+> <small>(REFORMADO [N. E E. ESTE PÁRRAFO REPUBLICADO], D.O.F. 17 DE MARZO DE 2022)</small>
 
 I. Términos comunes al Servicio Profesional Electoral Nacional y a la Rama Administrativa
 
@@ -409,7 +413,13 @@ Estatuto: Estatuto del Servicio Profesional Electoral Nacional y del Personal de
 
 Estructura básica: Está conformada por las unidades responsables del Instituto, cuyas funciones y responsabilidades derivan directamente de las atribuciones que les confiere el Reglamento Interior.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 17 DE MARZO DE 2022)</small>
+
 Estructura no básica: Está conformada por las áreas cuyas funciones derivan de las atribuciones de las unidades responsables a las cuales están adscritas y de las que dependen funcionalmente.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MARZO DE 2022)</small>
+
+Formato a efecto de prevenir, atender, sancionar y erradicar la violencia contra las mujeres en razón de género: Documento que debe presentar quien ingresa, asciende o se promociona en el Servicio Profesional Electoral Nacional en los sistemas del Instituto y de los OPLE, o a la Rama Administrativa, en el que declara de buena fe y bajo protesta de decir verdad que no ha sido sancionada o condenada mediante Resolución firme por violencia familiar o doméstica, o cualquier agresión de género en el ámbito privado o público, delitos sexuales, contra la libertad sexual o la intimidad corporal o como deudora alimentaria morosa.
 
 Hostigamiento laboral: Son los actos o comportamientos propios del acoso laboral que se realizan en el marco de una relación formal de subordinación.
 
@@ -1491,6 +1501,8 @@ e) Relación laboral temporal, y
 
 f) Ascenso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 17 DE MARZO DE 2022)</small>
+
 ###### Artículo 93.
 
 Las personas interesadas en ingresar a la Rama Administrativa del Instituto deberán cumplir, adicionalmente a lo que establece el perfil del cargo o puesto, los requisitos siguientes:
@@ -1509,7 +1521,13 @@ VI. No haber sido condenada por delito alguno, salvo que hubiese sido de caráct
 
 VII. Acreditar, por los medios que el Instituto estime convenientes, los conocimientos y habilidades requeridos para el adecuado desempeño del cargo o puesto al que aspira, y
 
-VIII. Presentar la documentación comprobatoria que se le requiera para solicitar su Ingreso a la Rama Administrativa del Instituto.
+> <small>(REFORMADA, D.O.F. 17 DE MARZO DE 2022)</small>
+
+VIII. Presentar la documentación comprobatoria que se le requiera para solicitar su Ingreso a la Rama Administrativa del Instituto; y
+
+> <small>(ADICIONADA, D.O.F. 17 DE MARZO DE 2022)</small>
+
+IX. Presentar con firma autógrafa, el Formato a efecto de prevenir, atender, sancionar y erradicar la violencia contra las mujeres en razón de género.
 
 ###### Artículo 94.
 
@@ -1767,9 +1785,11 @@ IV. La DEA, a través de la Dirección de Personal, analizará la petición y en
 
 En caso de que ningún aspirante pueda ocupar el cargo o puesto vacante, la Unidad Administrativa podrá solicitar la ocupación de la plaza a través de la modalidad del concurso, siempre y cuando no se haya interpuesto alguna impugnación.
 
+> <small>(REFORMADO, D.O.F. 17 DE MARZO DE 2022)</small>
+
 ###### Artículo 131.
 
-El personal que sea removido del cargo o puesto que haya obtenido por ascenso, en cumplimiento de una sentencia de un órgano jurisdiccional, será reinstalado en la plaza que hubiese ocupado anteriormente, siempre y cuando ésta se encuentre vacante.
+El personal que sea removido del cargo o puesto que haya obtenido por ascenso, en cumplimiento de una sentencia de un órgano jurisdiccional, será reinstalado en la plaza que hubiese ocupado anteriormente, en los términos o modalidades previstas en la normativa aplicable.
 
 ###### Artículo 132.
 
@@ -2277,6 +2297,10 @@ Las personas que sean designadas para ocupar plazas del Servicio por alguna de l
 
 La Comisión del Servicio vigilará el cumplimiento de los procedimientos para el ingreso y la ocupación de plazas vacantes y podrá hacer observaciones así como solicitar a la DESPEN los informes que considere pertinentes.
 
+> <small>(ADICIONADO, D.O.F. 17 DE MARZO DE 2022)</small>
+
+Artículo 188 bis. En el supuesto de que una persona que labore en el Instituto haya sido seleccionada como ganadora para ocupar una plaza vacante del Servicio a través de concurso o certamen interno y tal designación sea revocada por una autoridad jurisdiccional, se le reinstalará en la plaza que ocupaba con anterioridad y, de no ser así, preferentemente en la vacante más cercana en el mismo nivel y cargo o puesto para el que concursó.
+
 ###### Artículo 189.
 
 El Titular de la Secretaría Ejecutiva expedirá los nombramientos en el cargo o puesto a las y los miembros del Servicio con el carácter que corresponda, previa aprobación del Consejo General o la Junta.
@@ -2357,6 +2381,8 @@ El personal del Instituto o prestadores de servicios que intervengan en cualquie
 
 #### Sección II. De los requisitos de Ingreso
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 17 DE MARZO DE 2022)</small>
+
 ###### Artículo 201.
 
 Para ingresar al Servicio, toda persona interesada deberá cumplir los siguientes requisitos:
@@ -2379,7 +2405,17 @@ VIII. No haber sido separado del Servicio o del Instituto por alguno de los supu
 
 IX. Cumplir los requisitos del perfil del cargo o puesto, conforme al Catálogo del Servicio para el sistema del Instituto, y
 
-X. Aprobar las evaluaciones y procedimientos que se determinen para cada una de las vías de ingreso.
+> <small>(REFORMADA, D.O.F. 17 DE MARZO DE 2022)</small>
+
+X. Aprobar las evaluaciones y procedimientos que se determinen para cada una de las vías de ingreso; y
+
+> <small>(ADICIONADA, D.O.F. 17 DE MARZO DE 2022)</small>
+
+XI. Presentar con firma autógrafa el Formato a efecto de prevenir, atender, sancionar y erradicar la violencia contra las mujeres en razón de género.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MARZO DE 2022)</small>
+
+Asimismo, deberán presentar el referido formato las personas que participen en los demás mecanismos y procedimientos de reingreso y reincorporación; promoción y ascenso del Servicio.
 
 #### Sección III. Del Concurso Público
 
@@ -3919,6 +3955,10 @@ La ocupación de plazas del Servicio al interior de cada OPLE podrá llevarse a 
 
 Adicionalmente, cada OPLE podrá llevar a cabo designaciones temporales en plazas del Servicio mediante personas encargadas de despacho. La ocupación de plazas del Servicio por encargo de despacho deberá apegarse a los requisitos establecidos en el Catálogo del Servicio y a las exigencias dispuestas en la normatividad laboral de cada OPLE.
 
+> <small>(ADICIONADO, D.O.F. 17 DE MARZO DE 2022)</small>
+
+Artículo 390 bis. En el supuesto de que una persona que labore en el OPLE haya sido seleccionada como ganadora para ocupar una plaza vacante del Servicio a través de concurso o certamen interno, y tal designación sea revocada por una autoridad jurisdiccional, se le reinstalará en la plaza que ocupaba con anterioridad y, de no ser así, preferentemente en la vacante más cercana en el mismo nivel y cargo o puesto para el que concursó.
+
 ###### Artículo 391.
 
 La persona titular de la secretaría ejecutiva de cada OPLE expedirá los nombramientos a las y los miembros del Servicio con el carácter que les corresponda, previo acuerdo que al efecto adopte el órgano superior de dirección:
@@ -3999,6 +4039,8 @@ El personal de los OPLE o prestadores de servicios que intervengan en cualquier 
 
 #### Sección II. De los Requisitos de Ingreso
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 17 DE MARZO DE 2022)</small>
+
 ###### Artículo 402.
 
 Para ingresar al Servicio, toda persona interesada deberá cumplir los requisitos siguientes:
@@ -4023,7 +4065,17 @@ IX. No haber sido separado del Servicio o del OPLE por alguno de los supuestos p
 
 X. Cumplir los requisitos del perfil del cargo o puesto, conforme a las disposiciones del Catálogo del Servicio aplicables al organismo en cuestión, y
 
-XI. Aprobar las evaluaciones y procedimientos que se establezcan en la convocatoria respectiva.
+> <small>(REFORMADA, D.O.F. 17 DE MARZO DE 2022)</small>
+
+XI. Aprobar las evaluaciones y procedimientos que se establezcan en la convocatoria respectiva; y
+
+> <small>(ADICIONADA, D.O.F. 17 DE MARZO DE 2022)</small>
+
+XII. Presentar con firma autógrafa el Formato a efecto de prevenir, atender, sancionar y erradicar la violencia contra las mujeres en razón de género.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MARZO DE 2022)</small>
+
+Asimismo, deberán presentar el referido formato las personas que participen en los demás mecanismos y procedimientos de reingreso y reincorporación; promoción y ascenso del Servicio.
 
 #### Sección III. Del Concurso Público
 
@@ -4669,9 +4721,15 @@ La DEA, a solicitud de los OPLE, podrá proporcionar el apoyo y asesoría requer
 
 ### Capítulo III. Del Ingreso e Inducción
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 17 DE MARZO DE 2022)</small>
+
 ###### Artículo 486.
 
 El ingreso a la Rama Administrativa de los OPLE será a través del proceso de reclutamiento, selección y contratación de aspirantes que determine cada organismo y estará sujeto a su presupuesto disponible.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MARZO DE 2022)</small>
+
+Además de lo anterior, deberá establecerse como requisito indispensable, presentar el Formato a efecto de prevenir, atender, sancionar y erradicar la violencia contra las mujeres en razón de género, firmado de manera autógrafa.
 
 ###### Artículo 487.
 
@@ -4892,3 +4950,17 @@ Los procedimientos que surjan después de la entrada en vigor del presente Estat
 Vigésimo primero. La persona titular de la Secretaría Ejecutiva aprobará, a más tardar seis meses después de la aprobación del presente Estatuto, el diseño y estructura del área de la Dirección Jurídica señalada en el Libro Cuarto del presente Estatuto, así como la reestructura de la Dirección Ejecutiva del Servicio Profesional Electoral Nacional. Ambas previsiones deberán estar contempladas en el anteproyecto de presupuesto del Instituto para el ejercicio fiscal dos mil veintiuno.
 
 Vigésimo segundo. Se instruye a la Comisión de Igualdad de Género y No Discriminación para que, a más tardar, en el plazo de doce meses a partir de la entrada en vigor de este Estatuto, presente al Consejo General del INE un proyecto de reforma al Protocolo para prevenir, atender y sancionar el hostigamiento y acoso sexual o laboral.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 17 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL Y DEL PERSONAL DE LA RAMA ADMINISTRATIVA, EN ACATAMIENTO A LA SENTENCIA SG-JLI-6/2020, DICTADA POR LA SALA REGIONAL GUADALAJARA, DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN Y EN CUMPLIMIENTO AL ACUERDO INE/CG691/2020, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA”.]
+
+Primero. Se aprueban las reformas y adiciones al Estatuto del Servicio Profesional Electoral Nacional y del Personal de la Rama Administrativa, en los términos del documento anexo que forma parte integral del presente Acuerdo.
+
+Segundo. El presente Acuerdo entrará en vigor y surtirá efectos al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Tercero. Notifíquese a la Sala Regional Guadalajara del Tribunal Electoral del Poder Judicial de la Federación el cumplimiento de la sentencia dictada en el expediente SG-JLI-6/2020.
+
+Cuarto. Publíquese el presente Acuerdo y su anexo en el Diario Oficial de la Federación y en la Gaceta Electoral del Instituto.
