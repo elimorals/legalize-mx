@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2021-12-31"
+last_updated: "2022-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -4255,9 +4255,15 @@ IV. Alimentadores: Rutas de desplazamiento de áreas colindantes a la troncal;
 
 V. Áreas de Transferencia o Servicios Complementarios: Aquellas que incluyen las instalaciones de lugares de resguardo de bicicletas, las terminales urbanas, suburbanas y foráneas, las estaciones de transporte de pasajeros, los paraderos, los sitios, los estacionamientos públicos, bahías y otras estaciones o áreas similares;
 
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2022)</small>
+
+V Bis. Balizamiento o señalamiento horizontal: Conjunto de marcas que se insertan sobre el asfalto y estructuras, para delimitar las vialidades de manera geométrica;
+
 VI. Banqueta: Espacio público destinado al tránsito peatonal para permitir accesos cómodos, seguros y universalmente accesibles en la Vía Pública;
 
-VII. Cajón: Espacio delimitado por rayas o trazas, para el estacionamiento de vehículos automotores en la Vía Pública;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2022)</small>
+
+VII. Cajón de estacionamiento: Espacio delimitado por rayas o trazas para el estacionamiento temporal de vehículos;
 
 VIII. Calle: Espacio público de tránsito e interacción social;
 
@@ -4277,6 +4283,10 @@ XV. Ciclovía: Vía exclusiva para la circulación ciclista físicamente confina
 
 XVI. Cinemómetro: Dispositivo para medir en tiempo real la velocidad de los vehículos motorizados;
 
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2022)</small>
+
+XVI Bis. Código QR: Módulo de barras bidimensional para almacenar información en una matriz de puntos;
+
 XVII. Conductor: Toda persona que maneje un vehículo en cualquiera de sus modalidades;
 
 XVIII. Corredor de Transporte Público: Aquél que forma parte integral del Sistema de Transporte Público Masivo RUTA y contraflujo, el cual funciona mediante operación regulada y controlada, sistema de pago centralizado, que opera de manera exclusiva en una vialidad con carriles reservados para el transporte público, total o parcialmente confinados, que cuenta con paradas predeterminadas, con infraestructura para el ascenso y descenso de pasajeros, estaciones ubicadas a lo largo del recorrido con terminales en su origen y destino;
@@ -4295,6 +4305,14 @@ XXIII. Dispositivos de Control de Tránsito: Señales, marcas, semáforos y cual
 
 XXIV. Dispositivo de movilidad asistida: Herramienta que permite el desplazamiento de personas con alguna discapacidad o con movilidad limitada, tales como silla de ruedas, silla de ruedas motorizada, andadera, bastón o perro guía;
 
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2022)</small>
+
+XXIV Bis. Estacionamiento Rotativo: Estacionamiento en vía pública, en espacios autorizados y delimitados para dicho fin de la forma en que lo establezcan los señalamientos viales, que permite la rotación de vehículos mediante la gestión del tiempo al no poder exceder de cuatro horas continuas, en un día natural;
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2022)</small>
+
+XXIV Ter. Estacionómetros: Sistema de medición mecánico, digital, virtual o electrónico que gestiona el cobro en relación con el tiempo en que un vehículo permanece estacionado en la vía pública;
+
 XXV. Infracción: Conducta que transgreda alguna disposición del presente Capítulo y que tiene como consecuencia una sanción;
 
 XXVI. Jerarquía de la movilidad: Es la prioridad que tienen los diferentes usuarios de la Vía Pública en el ejercicio de movilidad de acuerdo al nivel de vulnerabilidad y a su contribución a la productividad;
@@ -4311,11 +4329,15 @@ XXX. Paradero: Lugar de estación temporal de las unidades que integran el siste
 
 XXXI. Peatón: Persona que transita en zonas públicas o privadas con acceso al público, a pie o auxiliándose de dispositivos de movilidad asistida, en el caso de las personas con discapacidad;
 
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2022)</small>
+
+XXXI Bis. Perímetro del Estacionamiento Rotativo: Es aquel espacio determinado por la Secretaría de Movilidad e Infraestructura, donde se delimita previa señalética vial, el estacionamiento de vehículos;
+
 XXXII. Persona con discapacidad: Es aquella que tenga deficiencias físicas, mentales, intelectuales o sensoriales a largo plazo que al interactuar con diversas barreras puedan impedir su participación en la sociedad en igualdad de condiciones con los demás;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2022)</small>
 
-XXXII. Bis. Programa vial 1 x 1: Programa vial encaminado a mejorar la fluidez vehicular y evitar accidentes, optimizando tiempos, al ceder el paso uno por uno a los vehículos, con las excepciones respectivas;
+XXXII. Bis. Agente de Tránsito o Policía de Tránsito o Policía Preventivo: Persona servidora pública adscrita a la Dirección de Control de Tránsito o habilitada para ejercer dichas funciones;
 
 XXXIII. Red Urbana de Transporte Articulado (RUTA): Es aquél servicio que se presta a través de corredores de transporte público de pasajeros, el cual opera de manera exclusiva en una vialidad con carriles reservados para el transporte público total o parcialmente confinados. El sistema comprenderá la troncal correspondiente y las rutas alimentadoras del mismo;
 
@@ -4329,9 +4351,9 @@ XXXV. Secretaría: La Secretaría de Seguridad Pública y Tránsito Municipal;
 
 XXXVI. Seguridad Vial: Conjunto de políticas y sistemas orientados a la prevención de incidentes viales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2022)</small>
 
-XXXVII. SEMOVI: Secretaría de Movilidad del Honorable Ayuntamiento del Municipio de Puebla;
+XXXVII. SEMOVINFRA: Secretaría de Movilidad e Infraestructura del Honorable Ayuntamiento de Puebla;
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
 
@@ -4344,6 +4366,10 @@ XXXVIII. Bis. Servicio(s) complementario(s) de Micromovilidad: Es el transporte 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
 
 XXXIX. Sistema de Transporte Público: Es la interacción entre la red vial, redes de transporte, modos de transporte y operadores que se complementan con el objetivo de garantizar la movilidad de las personas cumpliendo determinados patrones de eficiencia, seguridad y costo;
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2022)</small>
+
+XXXIX Bis. Persona Supervisora de Movilidad: Es la Persona Servidora Pública, adscrito a la Secretaría de Movilidad e Infraestructura, encargada de vigilar se obedezcan las normas relativas al uso de los espacios públicos establecidos mediante el Perímetro de Estacionamiento Rotativo; así como las bases de transporte público, sitios de servicio de taxi y de transporte mercantil en la modalidad de vehículos de carga, mudanzas, paquetería, turismo, bahías de ascenso y descenso, transporte de personal, y los lugares de ascenso y descenso de los pasajeros del transporte público;
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
 
@@ -5857,6 +5883,24 @@ APARTADO IV
 
 DE LA VÍA PÚBLICA PARA ESTACIONAMIENTO DE VEHÍCULOS
 
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+
+###### Artículo 322 Bis.
+
+El estacionamiento en la vía pública es libre, por tanto, no se podrá obstaculizar o impedir este servicio en los lugares destinados para tal fin.
+
+El Ayuntamiento, podrá gestionar, regular, establecer tarifas, y sanciones por el uso del espacio de estacionamiento en la vía pública, mediante las modalidades y elementos tecnológicos que sean aprobados para tal fin.
+
+El Ayuntamiento podrá instalar estacionómetros y gestionar mediante cualquier medio digital o virtual, el uso del estacionamiento en la vía pública y del Estacionamiento Rotativo.
+
+Para la regulación del Estacionamiento Rotativo además de las normas previstas en el presente Capítulo, la SEMOVINFRA deberá aprobar reglas de operación para la exacta observancia de dicha medida.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+
+###### Artículo 322 Ter.
+
+Para el cobro del uso de estacionamiento en la vía pública la SEMOVINFRA clasificará las zonas de estacionómetros o del Estacionamiento Rotativo; de acuerdo a la demanda de espacios, así como los horarios de operación.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2017)</small>
 
 ###### Artículo 323.
@@ -5882,6 +5926,88 @@ IV. Los vehículos no podrán ser estacionados fuera de los lugares permitidos p
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
 V. Los vehículos pertenecientes al sistema complementario de micromovilidad solo podrán ser estacionados solo (sic) en los lugares o bahías autorizadas para tal efecto por la SEMOVI.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+
+###### Artículo 323 Bis.
+
+El Estacionamiento Rotativo será de cuatro horas continuas en un día natural. A quien exceda dicho plazo, será sujeto a la sanción establecida en el numeral correlativo al presente en el Tabulador de Infracciones Sanciones, simultáneamente se procederá al retiro de la placa de circulación.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+
+###### Artículo 323 Ter.
+
+Cuando el tiempo de estacionamiento de un vehículo sea igual o superior a seis horas, se procederá a su retiro e ingreso al Depósito Oficial de Vehículos correspondiente, donde se sujetará a los procedimientos que establezca la Dirección de Control de Tránsito. Los gastos ocasionados por dicho traslado serán pagados por el infractor, así como el monto por las horas excedentes por ocupar el espacio del Estacionamiento Rotativo.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+
+###### Artículo 323 Quater.
+
+Todo vehículo que ocupe espacios destinados para el Estacionamiento Rotativo, deberá ser registrado mediante los medios establecidos, de lo contrario, será sujeto a la Infracción señalada en el correlativo al presente, en el Tabulador de Infracciones y Sanciones. Con la salvedad que deberá cubrir el importe generado por el tiempo de utilización.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+
+###### Artículo 323 Quinquies.
+
+Al vehículo que no hubiera sido registrado para el uso del Estacionamiento Rotativo y excediera el término de dos horas en la utilización del espacio, y será retirado y remitido al Depósito Oficial de Vehículos. Sin perjuicio de cubrir el monto por las horas excedentes por el uso del espacio del Estacionamiento Rotativo.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+
+###### Artículo 323 Sexies.
+
+A los vehículos que ocupen espacios destinados al Estacionamiento Rotativo y que no cuenten con placas de circulación, serán retirados y remitidos al Depósito Oficial de Vehículos.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+
+###### Artículo 323 Septies.
+
+La supervisión de los Estacionamientos Rotativos podrá hacerse mediante el uso de medios tecnológicos y todos aquellos elementos aportados por la ciencia, que faciliten el monitoreo a distancia, incluidos los medios de identificación con Código QR.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+
+###### Artículo 323 Octies.
+
+Las Personas Supervisoras de Movilidad podrán auxiliarse de elementos tecnológicos para el ejercicio de sus funciones, los cuales de manera enunciativa podrán ser:
+
+I. Multas digitales;
+
+II. Dispositivos de georreferencia;
+
+III. Medios audiovisuales; y
+
+IV. Instrumentos de grabación.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+
+###### Artículo 323 Nonies.
+
+Cuando se haga uso del Estacionamiento Rotativo, los usuarios deberán estacionar sus vehículos en el perímetro delimitado en las calles, el cual es acorde con las dimensiones promedio de un vehículo.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+
+###### Artículo 323 Decies.
+
+Para el uso del estacionamiento se deberá usar un espacio delimitado, el cual corresponde a un solo vehículo, en caso de que se infrinja esta disposición se aplicará la sanción prevista en el numeral 151 del Tabulador de Infracciones. Se deberá dar preferencia a la circulación y seguridad del peatón.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+
+Artículo 323 Undecies.- Es obligación de quien administre y opere el servicio de estacionómetros:
+
+I. Supervisar las áreas donde se encuentran instalados los estacionómetros;
+
+II. Atender diariamente reportes de estacionómetros descompuestos;
+
+III. Dar mantenimiento a los estacionómetros;
+
+IV. Atender las quejas que se presenten; y
+
+V. Vigilar el cumplimiento de lo dispuesto en materia de estacionamiento en la vía pública.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+
+Artículo 323 Duodecies.- Se destinará en la vía pública lugares de estacionamiento para personas con discapacidad, de acuerdo con lo dispuesto por el artículo 324 y demás relativos de este ordenamiento.
+
+Para hacer uso de estos cajones, los usuarios deberán portar las placas en su vehículo adecuadas al caso expedidas por la autoridad estatal competente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -5967,13 +6093,11 @@ XIX. En la Vía Pública por más de treinta minutos para realizar trabajos de c
 
 Para el cumplimiento de lo dispuesto en el presente Capítulo, la Secretaría, a través de la Dirección de Tránsito, estará facultada para aplicar como medidas de seguridad la inmovilización o el retiro de los vehículos estacionados en forma o lugares prohibidos, utilizando los medios adecuados para hacerlo sin causar daños a los mismos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE PARTE, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE MARZO DE 2022)</small>
 
 PARTE II
 
-REGLAS GENERALES DE APLICACIÓN
+REGLAS DE APLICACIÓN
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -5999,21 +6123,25 @@ I. El Ayuntamiento;
 
 II. La Secretaría;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2022)</small>
 
-III. La SEMOVI
+III. La SEMOVINFRA;
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
 
 IV. La Dirección de Tránsito
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2022)</small>
 
-V. Los Agentes; y
+V. Los Agentes de Tránsito o Policías Preventivos;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2022)</small>
 
-VI. Dirección de Ingresos.
+VI. Dirección de Ingresos; y
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2022)</small>
+
+VII. Persona Supervisora de Movilidad.
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2017)</small>
 
@@ -6025,7 +6153,9 @@ I. Definir y realizar, en coordinación con las instancias respectivas del Gobie
 
 II. Coadyuvar con la SEMOVI en la impartición (sic) educación vial y demás temas relativos a la movilidad, a través de sus programas de prevención;
 
-III. Infraccionar por contravenir las disposiciones del presente Capítulo y cuando se registre a través de un cinemómetro que fueron excedidos los límites de velocidad, deberá contener los mismos requisitos que los determinados para un Acta de Infracción;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2022)</small>
+
+III. Infraccionar por contravenir las disposiciones del presente Capítulo y cuando las conductas sean registradas a través de dispositivos tecnológicos.
 
 IV. Instalar programas para la prevención de accidentes generados por la ingesta de alcohol u otras substancias tóxicas, para conductores de vehículos motorizados con el fin de salvaguardar la vida, integridad física y propiedad de los conductores, pasajeros y peatones;
 
@@ -6073,47 +6203,101 @@ XVIII. Autorizar como Depósitos Oficiales Equiparados, a los establecimientos c
 
 XIX. Imponer las sanciones a que se refiere el artículo 365 Quinquies correspondientes a los Depósitos Oficiales Equiparados por el incumplimiento de las obligaciones establecidas en el presente Capítulo, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE MARZO DE 2022)</small>
 
-XX. Las demás que les confieran este Capítulo, así como las disposiciones que resulten aplicables y los convenios celebrados con aprobación del Ayuntamiento.
+XX. Auxiliar a las Personas Supervisoras de Movilidad cuando se contravengan las disposiciones del Estacionamiento Rotativo y proceder al retiro de vehículos por las causas señaladas en el presente Código;
 
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2017)</small>
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2022)</small>
+
+XXI. Hacer uso por sí o a través de terceros de dispositivos o medios tecnológicos que coadyuven a la detección de infracciones y la identificación de las personas que las cometan.
+
+Los dispositivos tecnológicos servirán a las autoridades para evidenciar los siguientes supuestos:
+
+a) La velocidad superior a la máxima permitida para un vehículo;
+
+b) Contravención a la señalización vial; y
+
+c) Cualquier otra falta a lo dispuesto en el presente capítulo.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE MARZO DE 2022)</small>
+
+XXII. Las demás que les confieran este Capítulo, así como las disposiciones que resulten aplicables y los convenios celebrados con aprobación del Ayuntamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2022)</small>
 
 ###### Artículo 330 Bis.
 
-La SEMOVI vigilará en forma permanente que la movilidad se lleve a cabo conforme a las disposiciones de este Capítulo, para lo cual tendrá las siguientes atribuciones:
+La SEMOVINFRA vigilará en forma permanente que la movilidad se lleve a cabo conforme a las disposiciones de este Capítulo, para lo cual tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2017)</small>
 
 I. Realizar programas y acciones encaminados al mejoramiento, control, fluidez y progreso de la movilidad peatonal, motorizada y no motorizada;
 
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2017)</small>
+
 II. Coadyuvar a definir las estrategias que permitan una mejor planeación en materia de estacionamientos, sitios, terminales y otras construcciones que repercutan directamente en la movilidad;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2017)</small>
 
 III. Fomentar e impartir educación vial y demás temas relativos a la movilidad, en coordinación con instituciones, planteles educativos y los demás sectores de la sociedad;
 
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2017)</small>
+
 IV. Colocar, aplicar y mantener la señalética horizontal y vertical;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2017)</small>
 
 V. Verificar y autorizar la colocación de los moderadores de velocidad;
 
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2017)</small>
+
 VI. Hacer uso de dispositivos tecnológicos que permitan obtener datos para conocer la velocidad de los vehículos motorizados y el modo en que circulan en la Vía Pública, entre otras;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2017)</small>
 
 VII. Instalar cinemómetros en las vialidades y en el horario que para tal efecto designe, con base en la intensidad vehicular respectiva y a fin de permitir la obtención de datos que conlleven a la identificación y control del cumplimiento de los límites de velocidad de los vehículos;
 
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2017)</small>
+
 VIII. Realizar el estudio para la colocación de reductores de velocidad de acuerdo a la opinión técnica del área competente con el fin de evitar accidentes viales y obstrucciones a la circulación;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2017)</small>
 
 IX. Fijar de manera general, el límite máximo y mínimo de velocidad con el cual podrán circular los vehículos en las vías, de acuerdo con la ubicación, clasificación y demás condiciones de las mismas;
 
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2017)</small>
+
 X. Señalar los lugares autorizados para estacionamiento de vehículos en la Vía Pública y la forma en que deban hacerlo, tomando en consideración los movimientos, circulación y concentración de vehículos y de personas;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2017)</small>
 
 XI. Determinar y supervisar la instalación de señales mecánicas y luminosas, reflejantes, así como los dispositivos tecnológicos que indiquen las prevenciones que deben observar los peatones y conductores de vehículos para su correcta circulación, así como el proyecto e instalación de dispositivos y marcas de señalamiento, se harán con base en el Manual de Dispositivos para el Control de Tránsito en Calles y Carreteras de la Secretaría de Comunicaciones y Transportes o en las normas oficiales de carácter técnico que lo sustituyan;
 
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2017)</small>
+
 XII. Marcar sobre el pavimento de las calles, con pintura de color blanco o amarillo o con alguna otra señal que considere adecuada, las líneas necesarias para canalizar las diferentes corrientes de circulación y para indicar los lugares en donde los vehículos deben efectuar "alto" al finalizar las calles; así como para delimitar las zonas de seguridad o paso de peatones. En la misma forma se pintarán flechas que indiquen la dirección que deban tomar los vehículos;
 
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2017)</small>
+
 XIII. Señalar las zonas o lugares de la Vía Pública en donde el estacionamiento esté prohibido o sujeto a horarios especiales, limitado a vehículos oficiales. En todo caso, se debe procurar que los accesos vehiculares a inmuebles de propiedad pública o privada se mantengan libres de obstáculos;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2017)</small>
 
 XIV. En los casos en que se pretenda abrir, operar o modificar un estacionamiento público, el proyecto respectivo debe someterse a la SEMOVI a través de la Dirección de Seguridad Vial, para su revisión y, en su caso, aprobación del impacto en la movilidad del Municipio. La aprobación del proyecto que en su caso emita el titular de la SEMOVI será un requisito indispensable para que los interesados obtengan la autorización de uso de suelo y, en su caso, la cédula de empadronamiento o registro y la autorización o licencia de funcionamiento respectivas;
 
 El estacionamiento de vehículos en inmuebles distintos a la Vía Pública estará permitido siempre que el inmueble y el prestador del servicio cumplan las condiciones y requisitos municipales en materia de desarrollo urbano y construcciones; y
 
-XV. Las demás que les confieran este Capítulo, así como las disposiciones que resulten aplicables y los convenios celebrados con aprobación del Ayuntamiento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE MARZO DE 2022)</small>
+
+XV. Supervisar la operación y correcto funcionamiento del Estacionamiento Rotativo.
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2022)</small>
+
+XVI. Realizar las infracciones respectivas y retener la placa de circulación como garantía de pago por las situaciones previstas por el uso indebido del Estacionamiento Rotativo.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE MARZO DE 2022)</small>
+
+XVII. Las demás que les confieran este Capítulo, así como las disposiciones que resulten aplicables y los convenios celebrados con aprobación del Ayuntamiento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -6129,23 +6313,33 @@ APARTADO I
 
 GENERALIDADES DEL PROCEDIMIENTO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2022)</small>
 
 ###### Artículo 331.
 
-Los Agentes serán competentes para instrumentar procedimientos relativos a actos de control, verificación, vigilancia, o inspección en materia de movilidad, para lo cual deben conducirse con respeto a los particulares, observar los principios éticos del servicio público, abstenerse de incurrir en responsabilidades u otras faltas y cumplir con las siguientes formalidades:
+Los Agentes de Tránsito o Policías Preventivos serán competentes para instrumentar procedimientos relativos a actos de control, verificación, vigilancia, inspección y sanción en materia de movilidad, para lo cual deben conducirse con respeto a los particulares, observar los principios éticos del servicio público, abstenerse de incurrir en responsabilidades y cumplir con las siguientes formalidades:
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
 
 I. Los actos de control, vigilancia, verificación o inspección en materia de movilidad podrán practicarse en cualquier día y hora, consistirán en operativos permanentes y ordenados por la autoridad competente;
 
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
+
 II. Para realizar actos de control, vigilancia, verificación o inspección en materia de movilidad, bastará que los Agentes se encuentren debidamente uniformados y cuenten con la identificación oficial que los acredite como tales;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
 
 III. Los Agentes detendrán la marcha de algún vehículo cuando observen que ha infringido alguna de las disposiciones previstas en el presente Capítulo;
 
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
+
 IV. Los Agentes, al detener algún vehículo se identificarán debidamente con el conductor y le informará el motivo por el que lo detuvieron, mencionando el artículo del presente Capítulo que haya infringido;
 
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
+
 V. El conductor estará obligado a permitir que los Agentes realicen las acciones establecidas en el presente Capítulo y proporcionará a los mismos la tarjeta de circulación y licencia de conducir, así como toda clase de información que conduzca a la verificación del cumplimiento de las normas en materia de movilidad y seguridad vial, con las reservas de ley;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
 
 VI. El Agente hará de conocimiento del conductor los hechos u omisiones que, en su caso, constituyan la infracción a las disposiciones de este Capítulo; además determinará si, con base en ellas, procede alguna medida de seguridad, y como consecuencia el levantamiento del Acta de Infracción, llenando formas impresas numeradas o ingresando los datos en el dispositivo tecnológico de infracción digital, en las que se harán constar las transgresiones que se hubiesen presentado, la cual deberá contener, cuando menos, los siguientes datos:
 
@@ -6163,11 +6357,41 @@ f) Especificación del o los artículos que hayan sido infringidos y de la o las
 
 g) Nombre, número de placa y firma del Agente que levante el Acta de Infracción;
 
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2022)</small>
+
+VI Bis.- Las actas de infracción captadas a través de dispositivos tecnológicos deberán contener para su validez:
+
+a) Número de Placa o matrícula del vehículo;
+
+b) Nombre y domicilio del propietario del vehículo que cometió la infracción, que aparezca en el registro vehicular correspondiente;
+
+c) Hechos constitutivos de la infracción, así como lugar y fecha en que se haya cometido;
+
+d) Folio de la boleta de infracción;
+
+e) Fundamentación y motivación de la infracción;
+
+f) Nombre y clave del dispositivo que captó la infracción;
+
+g) Fotografía, grabación o registro con el que se demuestre la conducta infractora; y
+
+h) Nombre y firma autógrafa o firma electrónica avanzada del agente de tránsito que registró la infracción.
+
+Para los efectos de la imposición de sanciones a que se refiere el presente Capítulo, la Autoridad competente podrá hacer uso de cualquier fotografía, grabación, material audiovisual o medio electrónico generado por los dispositivos tecnológicos que serán prueba de las infracciones que se cometan.
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
+
 VII. Al levantar el Acta de Infracción el Agente informará el derecho que tiene el conductor para manifestar lo que estime conveniente, pudiendo quedar asentado en el Acta de Infracción;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
 
 VIII. El Agente informará al conductor que a efecto de garantizar el pago de su infracción le será retenida como garantía, ya sea licencia, tarjeta de conducir, tarjeta de circulación, placa del vehículo o permiso de circulación;
 
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
+
 IX. Cumplido lo anterior, se procederá a la firma del Acta de Infracción por quienes en ella hayan intervenido, se entregará el original de la misma al conductor y otro tanto se remitirá a la Dirección de Tránsito, en caso de que el conductor se niegue a recibirla, el original de ésta se dejará en el parabrisas;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
 
 X. Una vez firmada el Acta de Infracción, hará de conocimiento del conductor la opción que tiene para realizar el pago mediante una terminal electrónica de infracción digital; si el infractor accede, el Agente podrá recibir el pago respectivo por medio de tarjeta de débito o crédito, entregando al conductor el recibo correspondiente. No procederá en este caso, la retención de garantía;
 
@@ -6182,6 +6406,14 @@ XII. A la persona que conduzca en estado de ebriedad o bajo el influjo de estupe
 > <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2021)</small>
 
 XIII. Si los policías preventivos, en ejercicio de sus atribuciones y acorde con la naturaleza del evento, tiene conocimiento de la comisión de probables hechos delictivos, deberá poner a disposición del Ministerio Público por medio del informe policial homologado respectivo y en forma inmediata, a las personas que haya detenido.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+
+###### Artículo 331 Bis.
+
+Las Personas Supervisoras de Movilidad deberán aplicar las infracciones respectivas, así como emitir la boleta de infracción y el retiro de la placa de circulación del vehículo como garantía de pago por contravenir lo relativo a las normas de funcionamiento del Estacionamiento Rotativo.
+
+De igual forma, se encuentran facultados para vigilar en forma permanente que las normas de movilidad competencia de la SEMOVINFRA, se respeten conforme a las disposiciones de este Capítulo, y en caso de advertir conductas irregulares, darán aviso a los Agentes de Tránsito o Policías Preventivos de Tránsito para que realicen la boleta de infracción respectiva.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -6535,13 +6767,21 @@ APARTADO III
 
 DE LAS FALTAS, MEDIDAS DE SEGURIDAD Y SANCIONES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2022)</small>
 
 ###### Artículo 351.
 
-La Dirección de Tránsito aplicará a los propietarios o conductores de vehículos, medidas de seguridad y sanciones por faltas o violaciones a cualquiera de las normas de este Capítulo.
+La Dirección de Control de Tránsito y la SEMOVINFRA aplicarán cuando sea procedente, en el ámbito de sus competencias, medidas de seguridad y sanciones por faltas o violaciones a cualquiera de las normas de este Capítulo a los propietarios o conductores de vehículos según corresponda.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+
+###### Artículo 351 Bis.
+
+Las medidas previstas en el presente Capítulo respecto al Estacionamiento Rotativo serán realizadas por las personas Supervisoras de Movilidad de conformidad con lo siguiente:
+
+I. La retención de placas de circulación y el levantamiento de la infracción respectiva, en los casos previstos, serán ejecutadas por la Personas Supervisoras de Movilidad para garantizar el pago de las multas.
+
+II. Para los casos relativos al retiro de vehículos, las Personas Supervisoras de Movilidad, informarán al Agente de Tránsito de las infracciones correspondientes para que por su conducto se ejecute el retiro y los procedimientos establecidos para el traslado del vehículo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -6613,11 +6853,11 @@ La Dirección de Tránsito podrá realizar amonestación verbal en los casos que
 
 Las anteriores sanciones se aplicarán, sin perjuicio de las que procedan conforme al Código Penal del Estado de Puebla, Código Reglamentario para el Municipio de Puebla, o algún otro ordenamiento que resulte aplicable.
 
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2022)</small>
 
 ###### Artículo 354.
 
-Cuando una persona infrinja alguno de los supuestos establecidos en el presente Capítulo, las violaciones se sancionarán con amonestación o la imposición de la multa, conforme al siguiente:
+Cuando una persona infrinja alguno de los supuestos establecidos en el presente Capítulo y en lo relativo al Estacionamiento en vía pública, las violaciones se sancionarán con amonestación o la imposición de multas conforme al siguiente:
 
 TABULADOR DE INFRACCIONES Y SANCIONES
 
@@ -6627,7 +6867,7 @@ De las infracciones en general y otras obligaciones.
 
 > <small>[N. DE E. VÉASE F. DE E. A LA TABLA EN LA TERCERA SECCIÓN DEL P.O. 14 DE JULIO DE 2015, PÁGINA 3.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, EN LA TERCERA SECCIÓN DEL P.O. 31 DE OCTUBRE DE 2016, PÁGINAS DE LA 7 A LA 15; Y DÉCIMO SÉPTIMA SECCIÓN DEL P.O. 30 DE DICIEMBRE DE 2019, PÁGINA 23.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, EN LA TERCERA SECCIÓN DEL P.O. 31 DE OCTUBRE DE 2016, PÁGINAS DE LA 7 A LA 15; DÉCIMO SÉPTIMA SECCIÓN DEL P.O. 30 DE DICIEMBRE DE 2019, PÁGINA 23; Y TERCERA SECCIÓN DEL P.O. 17 DE MARZO DE 2022, PÁGINA 19.]</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -6661,15 +6901,13 @@ V. La reincidencia o habitualidad si las hubiera.
 
 En caso de que la infracción sea cometida por el conductor de un vehículo destinado al servicio de transporte público o mercantil de personas y que al momento de producirse ésta, hubiere uno o más pasajeros en el vehículo, se aplicará siempre el importe máximo de la multa, fijado en el Tabulador de este Capítulo para la infracción respectiva.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2022)</small>
 
 ###### Artículo 357.
 
-El infractor que pague la multa a través de una terminal electrónica ante el Agente previamente facultado para ello, o bien lo haga de manera espontánea dentro de los cinco días naturales siguientes a la fecha de la infracción, se beneficiará con la reducción automática del monto debido en un cincuenta por ciento, en tanto que si el pago lo hace después de los cinco días naturales, sin exceder de diez, la reducción será del veinticinco por ciento. Entre el onceavo y el trigésimo día no se concederá descuento alguno y después de vencido el término, se estará a lo fijado en las disposiciones fiscales correspondientes.
+El infractor que pague la multa a través de una terminal electrónica ante el Policía Preventivo previamente facultado para ello, o bien lo haga de manera espontánea dentro de los cinco días naturales siguientes a la fecha de la infracción, gozará de una reducción del cincuenta por ciento del valor, en tanto que si el pago lo realiza del sexto al décimo día, la reducción será del veinticinco por ciento. Entre el onceavo y el trigésimo día no se concederá descuento alguno y después de vencido el término, se estará a lo fijado en las disposiciones fiscales correspondientes.
 
-Los descuentos contemplados en el presente artículo no serán aplicables para el servicio de transporte público y mercantil de personas.
+> <small>(REFORMADO [N. DE E. DEROGADO SEGUNDO PÁRRAFO], P.O. 17 DE MARZO DE 2022)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -25619,7 +25857,7 @@ Contra las resoluciones de la Autoridad Municipal, derivadas de la aplicación d
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2022)</small>
 
 ###### Artículo 1617.
 
@@ -26549,7 +26787,7 @@ DISPOSICIONES GENERALES
 
 ###### Artículo 1676.
 
-El servicio público de estacionamiento de vehículos automotores podrá ser prestado directamente por el Ayuntamiento o por los particulares que obtengan la licencia correspondiente.
+El servicio público de estacionamiento de vehículos automotores podrá ser prestado directamente por el Ayuntamiento con las modalidades, condiciones y requisitos que se establezcan en el Capítulo 10 o por los particulares que obtengan la licencia correspondiente.
 
 Las disposiciones del presente Capítulo regulan los requisitos para la obtención de la licencia de prestación del servicio público de estacionamiento, así como sus términos, condiciones y modalidades.
 
@@ -26563,9 +26801,9 @@ Para efectos del presente Capítulo, se entenderá por:
 
 I. Ayuntamiento: El Honorable Ayuntamiento del Municipio de Puebla;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2022)</small>
 
-II. Estacionómetro: Aparato y/o sistema de medición y control que se utiliza para regular el uso de estacionamiento en vía pública a través del cobro de una tarifa;
+II. Estacionómetro: Sistema de medición mecánico, digital, virtual o electrónico que gestiona el cobro en relación con el tiempo en que un vehículo permanece estacionado en la vía pública.
 
 > <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
 
@@ -26943,57 +27181,29 @@ DE LOS ESTACIONAMIENTOS PÚBLICOS CON ACOMODADORES
 
 DEL ESTACIONAMIENTO EN LA VÍA PÚBLICA
 
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2007)</small>
-
 ###### Artículo 1682.
 
-El estacionamiento en la vía pública municipal es libre por tanto, queda prohibido obstaculizar condicionar o impedir este servicio en los lugares destinados para tal fin.
-
-El Ayuntamiento podrá instalar estacionómetros para el uso de la vía pública.
-
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+(DEROGADO, P.O. 17 DE MARZO DE 2022)
 
 ###### Artículo 1682 Bis.
 
-El servicio de estacionamiento en la vía pública podrá ser concesionado por el Ayuntamiento en los términos del Capítulo XVIII de la Ley Orgánica Municipal, caso en el cual, el concesionario tendrá la obligación de acatar estrictamente los términos del contrato, sin perjuicio de lo dispuesto en este Capítulo.
-
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+(DEROGADO, P.O. 17 DE MARZO DE 2022)
 
 ###### Artículo 1682 Ter.
 
-Para el cobro del uso de estacionamiento en la vía pública, el Ayuntamiento clasificará las zonas de estacionómetros de acuerdo a la demanda de espacios para estacionarse, así como los horarios de operación.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2007)</small>
+(DEROGADO, P.O. 17 DE MARZO DE 2022)
 
 ###### Artículo 1683.
 
-Es obligación de quien administre y opere el servicio de estacionómetros:
-
-I. Supervisar las áreas donde se encuentran instalados los estacionómetros;
-
-II. Atender diariamente reportes de estacionómetros descompuestos;
-
-III. Dar mantenimiento a los estacionómetros;
-
-IV. Atender las quejas que se presenten; y
-
-V. Vigilar el cumplimiento de lo dispuesto en materia de estacionamiento en la vía pública.
-
-El Ayuntamiento mantendrá las obligaciones de las fracciones IV y V, independientemente de que el servicio de estacionómetros sea concesionado.
-
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+(DEROGADO, P.O. 17 DE MARZO DE 2022)
 
 ###### Artículo 1683 Bis.
 
-Se destinará en la vía pública por cada calle, avenida, calzada y demás arroyos viales un lugar de estacionamiento gratuito para personas con capacidad diferente, de acuerdo con lo dispuesto por el artículo 294 y demás relativos de este ordenamiento.
-
-Para hacer uso de estos cajones, los usuarios deberán portar las placas en su vehículo adecuadas al caso, expedidas por la autoridad estatal competente.
-
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
+(DEROGADO, P.O. 17 DE MARZO DE 2022)
 
 ###### Artículo 1683 Ter.
 
-En caso de estacionamiento de vehículos de carga, para efecto de llevar a cabo las maniobras de carga y descarga de los mismos, deberán llevarse a cabo de acuerdo al Capítulo de Seguridad Vial y Tránsito Municipal del presente Código para no entorpecer la circulación en la vía pública.
+(DEROGADO, P.O. 17 DE MARZO DE 2022)
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
@@ -39794,5 +40004,21 @@ P.O. 31 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 17 DE DICIEMBRE DE 2021, POR EL QUE ADICIONA EL CAPÍTULO 38 BIS DENOMINADO "ESTANCIAS INFANTILES", ASÍ COMO LOS ARTÍCULOS 2379 BIS, 2379 TER, 2379 QUATER Y 2379 QUINQUIES AL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA; RELATIVO A LA IMPLEMENTACIÓN DE LOS CENTROS DE ATENCIÓN PARA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL MUNICIPIO DE PUEBLA".]
 
 PRIMERO. Las adiciones aprobadas en el presente Dictamen entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 17 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 4 DE MARZO DE 2022, POR EL QUE REFORMA EL ARTÍCULO 357 DEL CÓDIGO REGLAMENTARIO DEL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 17 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 4 DE MARZO DE 2022, POR EL QUE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CAPÍTULO 10 "TRÁNSITO MUNICIPAL, MOVILIDAD Y SEGURIDAD VIAL" Y DEL CAPÍTULO 24 "DEL SERVICIO PÚBLICO DE ESTACIONAMIENTOS" DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
+
+PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
