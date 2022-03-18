@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-jge102-2019-de-la-junta-general-ejecutiva-del-13733
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-07-15"
-last_updated: "2019-07-15"
+last_updated: "2022-03-18"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137330&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,13 @@ issue_date: "2019-06-28"
 ---
 # ACUERDO INE/JGE102/2019 DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA EL MANUAL DE PROCEDIMIENTOS DE LA DIRECCION DE RECURSOS FINANCIEROS DE LA DIRECCION EJECUTIVA DE ADMINISTRACION DEL INSTITUTO NACIONAL ELECTORAL
 
+[NOTA 1: DE CONFORMIDAD CON EL PUNTO TERCERO DEL ACUERDO INE/JGE31/2022 DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA EL MANUAL DE PROCESO Y PROCEDIMIENTOS DE "ADMINISTRACIÓN DE RECURSOS FINANCIEROS", PUBLICADO EN EL D.O.F. DE 18 DE MARZO DE 2022, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]
+
+[NOTA 2: INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRÓNICA DEL DIARIO OFICIAL DE LA FEDERACIÓN EN: www.dof.gob.mx/2022/INE/JGEord202201_20_ap_8_1.pdf.]
+
 EXTRACTO DEL ACUERDO INE/JGE102/2019 DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA EL MANUAL DE PROCEDIMIENTOS DE LA DIRECCIÓN DE RECURSOS FINANCIEROS DE LA DIRECCIÓN EJECUTIVA DE ADMINISTRACIÓN DEL INSTITUTO NACIONAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MARZO DE 2022 (SIN EFECTOS).
 
 Extracto publicado en el Diario Oficial de la Federación, el lunes 15 de julio de 2019.
 
@@ -66,3 +70,21 @@ INE Manual:
 https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/110035/JGEex201905-31-ap-2-8-a.pdf?sequence=2&isAllowed=y
 
 Ciudad de México, a 28 de junio de 2019.- El Director Ejecutivo de Administración, Bogart Montiel Reyna.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 18 DE MARZO DE 2022.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA EL MANUAL DE PROCESO Y PROCEDIMIENTOS DE “ADMINISTRACIÓN DE RECURSOS FINANCIEROS”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. - Se aprueba la emisión del Manual de Proceso y Procedimientos de "Administración de Recursos Financieros" de conformidad con los anexos que acompañan al presente Acuerdo y forman parte integrante del mismo.
+
+SEGUNDO. - El Manual de Proceso y Procedimientos de "Administración de Recursos Financieros" entrará en vigor al día siguiente de su aprobación por la Junta General Ejecutiva y será de observancia obligatoria para todas las unidades administrativas del Instituto Nacional Electoral en lo que a ellas corresponda.
+
+TERCERO. - Con la entrada en vigor del Manual referido en el Punto de Acuerdo Primero, quedará sin efecto el Manual de procedimientos de la Dirección de Recursos Financieros de la Dirección Ejecutiva de Administración del Instituto Nacional Electoral.
+
+CUARTO. - Se instruye a la Dirección Ejecutiva de Administración para que haga del conocimiento de todas las unidades administrativas del Instituto Nacional Electoral el presente Acuerdo y sus anexos.
+
+QUINTO. - La interpretación del Manual de Proceso y Procedimientos de "Administración de Recursos Financieros", así como sus anexos corresponderá a la Dirección Ejecutiva de Administración.
+
+SEXTO. - Publíquese el presente Acuerdo en la NormaINE, en la Gaceta Electoral y en el portal de internet del Instituto Nacional Electoral, así como un extracto del mismo en el Diario Oficial de la Federación con la liga electrónica para la ubicación del anexo en dicho medio.
