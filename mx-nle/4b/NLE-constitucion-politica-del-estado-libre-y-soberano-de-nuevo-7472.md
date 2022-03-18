@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2022-03-14"
+last_updated: "2022-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1299,11 +1299,17 @@ Si en la segunda votación, ninguno de los dos obtiene el voto de las dos tercer
 
 La Ley preverá la participación de los integrantes del Comité de Selección del Sistema a que hace referencia la fracción III del artículo 109 de esta Constitución en la elaboración de la convocatoria, diseño de los mecanismos de evaluación y análisis de perfiles. El Comité de Selección del Sistema posterior al análisis de los perfiles definirá de manera fundada y motivada quiénes integran la lista de los candidatos que cumplan con los requisitos constitucionales y legales para ocupar dicho cargo y remitirá dicha lista al Pleno del Congreso.
 
-El titular de la citada fiscalía especializada podrá ser removido por el Congreso del Estado por las causas que establezca la ley mediante el voto de las dos terceras partes de los integrantes, sin perjuicio de que sea destituido por causa de responsabilidad administrativa en términos del Título VII de esta Constitución; y
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
-(REUBICADA, P.O. 15 DE ABRIL DE 2016) (F. DE E., P.O. 12 DE OCTUBRE DE 2016)
+El titular de la citada fiscalía especializada podrá ser removido por el Congreso del Estado por las causas que establezca la ley mediante el voto de las dos terceras partes de los integrantes, sin perjuicio de que sea destituido por causa de responsabilidad administrativa en términos del Título VII de esta Constitución;
 
-LVII.- Ejercer las demás facultades que le otorguen esta Constitución y las Leyes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2022)</small>
+
+LVII.- Expedir la legislación en materia de Justicia Cívica, la cual establecerá como mínimo los principios, infracciones, procedimiento, estructura básica de los juzgados cívicos, autoridades participantes y bases a las que deberá sujetarse.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE MARZO DE 2022)</small>
+
+LVIII.- Ejercer las demás facultades que le otorguen esta Constitución y las Leyes.
 
 ###### Art. 64.
 
@@ -3891,9 +3897,11 @@ A ninguna persona podrá impedirse que se dedique a a (sic) profesión, industri
 
 Una ley del Congreso determinará qué profesiones necesitan título para su ejercicio, las condiciones que se deben llenar para obtenerlo y con qué requisitos se deben expedir.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2022)</small>
+
 ###### Art. 5o.
 
-Nadie puede ser obligado a prestar trabajos personales sin la justa retribución y sin su pleno consentimiento, salvo el trabajo impuesto como pena por la Autoridad Judicial, el cual se sujetará a las disposiciones constitucionales relativas.
+Nadie puede ser obligado a prestar trabajos personales sin la justa retribución y sin su pleno consentimiento, salvo el trabajo impuesto como pena por la autoridad Judicial o el trabajo a favor de la comunidad derivado de las sanciones administrativas o en Justicia Cívica, los cuales se sujetará (sic) a las disposiciones constitucionales relativas.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
 
@@ -4077,11 +4085,23 @@ Toda persona tiene derecho a que se le administre justicia por tribunales que es
 
 Toda persona en el Estado tiene derecho a resolver sus diferencias mediante métodos alternos para la solución de controversias, en la forma y términos establecidos por las leyes. En la materia penal las leyes regularán su aplicación, asegurarán la reparación del daño y establecerán los casos en los que se requerirá supervisión judicial.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MARZO DE 2022)</small>
+
+La justicia cívica se constituye como instrumento primario para la prevención del delito, para el mantenimiento de la convivencia armónica, la preservación del orden y la tranquilidad en la sociedad. La autoridad administrativa será la responsable de imponer las sanciones correspondientes en la materia, mismas que estarán contenidas en la Ley, la cual establecerá las conductas y procedimientos expeditos para su funcionamiento, y no podrá consistir en penas privativas de la libertad, salvo el arresto hasta por treinta y seis horas.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 18 DE MARZO DE 2022)</small>
+
 Las sentencias que pongan fin a los procedimientos orales deberán ser explicadas en audiencia pública previa citación de las partes.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 18 DE MARZO DE 2022)</small>
 
 Las leyes establecerán los medios necesarios para que se garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
 
-El Estado garantizará la existencia de un servicio de defensoría pública de calidad para la población y asegurará las condiciones para un servicio profesional de carrera para los defensores. Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
+
+El Estado garantizará la existencia de un servicio de defensoría pública de calidad para la población y asegurará las condiciones para un servicio profesional de carrera para los defensores. Las percepciones de los defensores no podrán ser inferiores a los (sic) que correspondan a los agentes del Ministerio Público.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 18 DE MARZO DE 2022)</small>
 
 Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
@@ -4307,9 +4327,11 @@ El Estado y los Municipios deberán establecer un sistema de modernización cont
 
 El Estado y los Municipios en concordancia con el párrafo anterior, tendrán como prioridad el desarrollo de herramientas tecnológicas relacionadas con la seguridad, desarrollo urbano, movilidad, vías públicas, energías renovables, medio ambiente, salud, educación y cultura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2022)</small>
+
 ###### Art. 24.
 
-No habrá monopolio ni estancos ni prohibiciones a título de protección a la industria, ni exención de impuestos que constituyan una ventaja exclusiva e indebida a favor de una o varias personas determinadas, o con perjuicio del público en general o de alguna clase social.
+En el Estado de Nuevo León, quedan prohibidos los monopolios, las prácticas monopólicas, los estancos, las condonaciones y las exenciones de impuestos, en los términos y condiciones que fijan las leyes. El mismo tratamiento se dará a las prohibiciones a título de protección a la industria.
 
 En consecuencia, la ley castigará severamente y las autoridades perseguirán con eficacia, toda concentración o acaparamiento en una o pocas manos de artículos de consumo necesario y que tenga por objeto obtener el alza de los precios; todo acto o procedimiento que evite o tienda a evitar la libre concurrencia en la producción, industria, comercio o servicios al público; todo acuerdo o combinación, de cualquier manera que se haga, entre productores, industriales, comerciantes y empresarios de transportes o cualquier otro servicio para evitar la competencia entre sí y obligar a los consumidores a pagar precios exagerados.
 
@@ -4347,13 +4369,15 @@ El ejercicio de la acción penal ante los tribunales corresponde al Ministerio P
 
 La imposición de las penas, su modificación y duración son propias y exclusivas de la autoridad judicial.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
-Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa, arresto hasta por treinta y seis horas, o en su caso se podrá ofrecer al infractor la sustitución del pago de la multa o el arresto según corresponda, de acuerdo al reglamento correspondiente, por el de realizar actividades en favor de la comunidad. El arresto, no excederá en ningún caso de treinta y seis horas.
+Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, así como en justicia cívica, las que únicamente consistirán en amonestación, multa, reparación del daño, arresto hasta por treinta y seis horas o en trabajo a favor de la comunidad el cual deberá ser aceptado de manera voluntaria; pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará esta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas
 
 Si el infractor de los reglamentos gubernativos o de policía fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
 
-Tratándose de trabajadores no asalariados, la multa que se imponga por infracción de los reglamentos gubernativos o de policía, no excederá del equivalente a un día de su ingreso.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
+
+Tratándose de trabajadores no asalariados, la multa que se imponga por infracción de los reglamentos gubernativos y de policía, así como en Justicia Cívica, no excederá del equivalente a un día de su ingreso.
 
 El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la ley.
 
@@ -5650,3 +5674,17 @@ P.O. 14 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 101. SE DEROGA EL PÁRRAFO TERCERO DE LA FRACCIÓN XXIV DEL ARTÍCULO 85 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 100. SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 24 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 105. SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 5, LOS PÁRRAFOS CUARTO, QUINTO, SEXTO DEL ARTÍCULO 16, LOS PÁRRAFOS CUARTO Y SEXTO DEL ARTÍCULO 25, EL ÚLTIMO PÁRRAFO DE LA FRACCIÓN LVI, Y LA FRACCIÓN LVII DEL ARTÍCULO 63; Y POR ADICIÓN DE UN ÚLTIMO PÁRRAFO AL ARTÍCULO 16, Y LA FRACCIÓN LVIII DEL ARTÍCULO 63, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Congreso del Estado deberá expedir la Ley a la que hace referencia el presente Decreto dentro de los 120 días siguientes a la entrada en vigor del mismo.
