@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-movilidad-sostenible-de-accesibilidad-y-seguridad-139831
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-08"
-last_updated: "2022-01-12"
+last_updated: "2022-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 8 de enero de 2020.
 
@@ -269,7 +269,9 @@ LI. Reglamento Interior: Reglamento Interior del Instituto de Movilidad y Accesi
 
 LII. Ruta: Recorrido o trayecto determinado que realizan las unidades de transporte público de pasajeros y que sirve para la identificación de una flotilla de transporte público de pasajeros en un itinerario y modalidad específica;
 
-LIII. Secretaría: Secretaría de Desarrollo Sustentable;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
+
+LIII. Secretaria: Secretaria de Movilidad y Planeación Urbana;
 
 LIV. Servicios Auxiliares del Transporte: Aquel que se presta previa autorización del Instituto por medios alternos, entre los que se encuentran los de tracción humana, eléctrica, mecánica o de combustión interna;
 
@@ -329,9 +331,13 @@ IV. Los Municipios por conducto de sus Presidentes Municipales o la dependencia 
 
 V. Consejo Consultivo de Movilidad y Accesibilidad;
 
-VI. Secretaría de Desarrollo Sustentable;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
 
-VII. Secretaría de Infraestructura;
+VI. Secretaría de Medio Ambiente;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
+
+VII. Secretaría de Movilidad y Planeación Urbana;
 
 VIII. Red Estatal de Autopistas;
 
@@ -375,9 +381,11 @@ VII. Crear, mejorar o adaptar por medio de sus Secretarías y organismos la infr
 
 VIII. Las demás atribuciones que le otorguen la presente normativa y las Leyes aplicables a la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2022)</small>
+
 ###### Artículo 12.
 
-Corresponde a la Secretaría de Desarrollo Sustentable el ejercicio de las siguientes atribuciones:
+Corresponde a la Secretaría de Movilidad y Planeación Urbana, el ejercicio de las siguientes atribuciones:
 
 I. Coordinarse con las dependencias y entidades estatales, para establecer las acciones y estrategias de protección al medio ambiente, que estén vinculadas al impulso de la utilización de energías de bajo carbono en la prestación de los servicios de transporte;
 
@@ -421,9 +429,11 @@ Para ello la autoridad podrá realizar convenios de colaboración con las empres
 
 XVII. Las demás atribuciones que le otorguen la presente Ley, su Reglamento y otros ordenamientos jurídicos aplicables en la materia siempre y cuando no contravengan esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2022)</small>
+
 ###### Artículo 13.
 
-Corresponden a la Secretaría de Infraestructura las siguientes atribuciones:
+Corresponden a la Secretaría de Movilidad y Planeación Urbana, en materia de infraestructura, las siguientes atribuciones:
 
 I. Aplicar los instrumentos de política de movilidad de conformidad con las Leyes y disposiciones legales aplicables, en el ámbito de su competencia;
 
@@ -431,7 +441,9 @@ II. Realizar en concordancia con las políticas y acciones de movilidad establec
 
 III. Realizar las acciones de mantenimiento y conservación a la infraestructura para la movilidad que correspondan al Estado, con base a los planes y programas que se elaboren para esta materia, siguiendo la jerarquía de movilidad establecida en esta Ley;
 
-IV. Proporcionar a la Secretaría de forma trimestral, los registros de las obras y proyectos en los que participen los Profesionales Responsables y los Laboratorios Certificados, definidos en la Ley para la Construcción y Rehabilitación de Pavimentos del Estado de Nuevo León y la normatividad en la materia; y
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
+
+IV. Integrar en forma trimestral, los registros de las obras y proyectos en los que participen los Profesionales Responsables y los Laboratorios Certificados, definidos en la Ley para la Construcción y Rehabilitación de Pavimentos del Estado de Nuevo León y la normatividad en la materia;
 
 V. Las demás atribuciones que le otorguen la presente Ley y otros ordenamientos aplicables en la materia siempre y cuando no contravengan esta Ley.
 
@@ -695,7 +707,13 @@ II. Secretario General de Gobierno;
 
 III. Secretario de Finanzas y Tesorería;
 
-IV. Secretario de Desarrollo Sustentable;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
+
+IV. Persona titular de la Secretaría de Movilidad y Planeación Urbana;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2022)</small>
+
+IV Bis. Persona titular de la Secretaría de Medio Ambiente.
 
 V. Director General del Sistema de Transporte Colectivo Metrorrey;
 
@@ -725,9 +743,9 @@ XVII. Dos representantes de Colectivos y Organizaciones No Gubernamentales, mism
 
 XVIII. Un representante de colegios y asociaciones de arquitectos e ingenieros de Nuevo León, designados por el Congreso del Estado, previa convocatoria pública.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
-Los integrantes que señalan la fracción XVII y XVIII durarán en su encargo un año a partir de su nombramiento. Los cargos dentro de la Junta de Gobierno serán de carácter honorífico, no obstante lo anterior, por los actos de Autoridad emitidos dentro de la Junta de Gobierno, serán sujetos de responsabilidad en los términos de la Ley de Responsabilidades Administrativas del Estado. Cada integrante deberá designar un suplente para que, debidamente acreditado, cubra sus ausencias temporales. La designación del suplente deberá recaer en una misma persona; esta atribución es indelegable a fin de garantizar la continuidad de los trabajos. Cuando un presidente municipal designe suplente, éste deberá ser otro presidente municipal. En el caso del Presidente de la Junta de Gobierno, su ausencia será suplida por el Secretario de Desarrollo Sustentable. En el caso de los Secretarios del Gabinete, su suplente deberá ser un subsecretario.
+Los integrantes que señalan la fracción (sic) XVII y XVIII durarán en su encargo un año a partir de su nombramiento. Los cargos dentro de la Junta de Gobierno serán de carácter honorífico, no obstante lo anterior, por los actos de Autoridad emitidos dentro de la Junta de Gobierno, serán sujetos de responsabilidad en los términos de la Ley de Responsabilidades Administrativas del Estado. Cada integrante deberá designar un suplente para que, debidamente acreditado, cubra sus ausencias temporales. La designación del suplente deberá recaer en una misma persona; esta atribución es indelegable a fin de garantizar la continuidad de los trabajos. Cuando un presidente municipal designe suplente, éste deberá ser otro presidente municipal. En el caso del Presidente de la Junta de Gobierno, su ausencia será suplida por la persona titular de la Secretaria. En el caso de los Secretarios del Gabinete, su suplente deberá ser un subsecretario.
 
 Los Presidentes Municipales Metropolitanos, serán designados por la Comisión de Ordenamiento Metropolitano de Desarrollo Urbano de la Zona Metropolitana de Monterrey por un periodo de un año, a falta de ésta por la Comisión de la Zona Conurbada de Monterrey.
 
@@ -1009,9 +1027,13 @@ a) Nueve representantes ciudadanos, que serán electos por convocatoria pública
 
 b) Un representante de la Secretaría General de Gobierno;
 
-c) Un representante de la Secretaría de Desarrollo Sustentable;
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
-d) Un representante de la Secretaría de Infraestructura;
+c) Un representante de la Secretaría de Movilidad y Planeación Urbana;
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
+
+d) Un representante de la Secretaría de Medio Ambiente;
 
 e) Un representante de la Secretaría de Comunicaciones y Transportes en Nuevo León;
 
@@ -3086,3 +3108,9 @@ P.O. 12 DE ENERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 077. SE REFORMA EL ARTÍCULO DÉCIMO NOVENO TRANSITORIO DE LA LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN, POR MODIFICACIÓN DEL SEGUNDO PÁRRAFO Y ADICIÓN DE UN TERCER PÁRRAFO”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 099. SE REFORMA LA FRACCIÓN LIII DEL ARTÍCULO 8, LAS FRACCIONES VI Y VII DEL ARTÍCULO 9, EL PRIMER PÁRRAFO DEL ARTÍCULO 12, EL PRIMER PÁRRAFO DEL ARTÍCULO 13 Y LA FRACCIÓN IV, LA FRACCIÓN IV Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 27, LOS INCISOS C) Y D) DE LA FRACCIÓN IV DEL ARTÍCULO 50; Y SE ADICIONA LA FRACCIÓN IV BIS AL ARTÍCULO 27, TODOS DE LA LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
