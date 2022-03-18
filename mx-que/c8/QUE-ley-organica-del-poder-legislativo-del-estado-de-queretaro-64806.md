@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2021-12-10"
+last_updated: "2022-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -2029,9 +2029,9 @@ XV. Instructora. Tiene a su cargo la atención de asuntos en materia de juicio p
 
 XVI. Juventud y deporte. Tiene a su cargo la atención de asuntos en materia de atención y desarrollo de los jóvenes, y fomento de las actividades deportivas en el Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
 
-XVII. Medio ambiente. Tiene a su cargo asuntos relacionados con la protección y conservación del medio ambiente, ecología y desarrollo sustentable;
+XVII. Medio ambiente y cambio climático. Tiene a su cargo asuntos relacionados con la protección y conservación del medio ambiente, ecología, desarrollo sustentable y cambio climático;
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3338,3 +3338,13 @@ Artículo Primero. La presente Ley entrará en vigor a partir de su aprobación 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 18 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 145 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su aprobación por el Pleno de esta Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
