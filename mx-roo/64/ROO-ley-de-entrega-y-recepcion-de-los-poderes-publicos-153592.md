@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-entrega-y-recepcion-de-los-poderes-publicos-153592"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-16"
-last_updated: "2021-12-16"
+last_updated: "2022-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ENTREGA Y RECEPCIÓN DE LOS PODERES PÚBLICOS, AYUNTAMIENTOS, ÓRGANOS PÚBLICOS AUTÓNOMOS Y DE LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2022.
 
 Ley publicada en el Número 189 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 16 de diciembre de 2021.
 
@@ -39,9 +39,11 @@ LEY DE ENTREGA Y RECEPCIÓN DE LOS PODERES PÚBLICOS, AYUNTAMIENTOS, ÓRGANOS P�
 
 ### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de interés público y observancia general en el Estado de Quintana Roo. Tiene por objeto establecer las disposiciones generales conforme a las cuales los servidores públicos que desempeñen un empleo, cargo o comisión de cualquier naturaleza, en la Administración Pública Estatal o Municipal, en los Poderes Legislativo o Judicial del Estado, en los Órganos Públicos Autónomos y en las Entidades de la Administración Pública Paraestatal, así como las personas que administren, manejen, recauden, apliquen o resguarden recursos económicos federales, estatales o municipales, sea cual fuere la naturaleza de su nombramiento o elección en cualquier otro ente, de entregar a quienes legalmente los sustituyan o a quienes se designen para tal efecto al término de su empleo, cargo o comisión, los recursos financieros, patrimoniales, documentos y en general los asuntos que hayan tenido a su disposición y demás información generada en el ejercicio de sus funciones.
+La presente Ley es de interés público y observancia general en el Estado de Quintana Roo. Tiene por objeto establecer las disposiciones generales conforme a las cuales los servidores públicos que desempeñen un empleo, cargo o comisión de cualquier naturaleza, en los Poderes del Estado, órganos Constitucionales Autónomos y en los Municipios del Estado de Quintana Roo, así como las personas que administren, manejen, recauden, apliquen o resguarden recursos económicos federales, estatales o municipales, sea cual fuere la naturaleza de su nombramiento o elección en cualquier otro ente, de entregar a quienes legalmente los sustituyan o a quienes se designen para tal efecto al término de su empleo, cargo o comisión, los recursos financieros, patrimoniales, documentos y en general los asuntos que hayan tenido a su disposición y demás información generada en el ejercicio de sus funciones.
 
 ###### Artículo 2.
 
@@ -49,11 +51,15 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Acta Administrativa. Documento físico y digital en el que se registran los asuntos tratados y los acuerdos adoptados en el Proceso de Entrega Recepción, al momento de integrar el Comité de Entrega Recepción y el del Acto Protocolario de Entrega Recepción;
 
-II. Acta de Verificación y Validación. Documento físico y digital que procede de la verificación y validación física de la entrega en la cual se consignan los actos u omisiones que se derivaron de esta etapa y concluye el Proceso de Entrega Recepción;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
+
+II. Acta de Verificación y Validación. Documento físico y digital que procede de la verificación y validación física de la entrega en la cual se consignan las inconsistencias detectadas en el expediente en esta etapa y concluye el Proceso de Entrega Recepción;
 
 III. Acta de Hechos. Documento físico y digital por medio del cual se deja asentada la sucesión de ciertos hechos para que surta efectos jurídicos, la cual deberá contener la fecha, el lugar, la relación de manera breve, concisa y precisa de los hechos, y las firmas de quienes presenciaron tales hechos;
 
-IV. Acto Protocolario. El acto formal y solemne en el que los servidores públicos entregan y reciben, según corresponda, los recursos humanos, financieros y materiales, así como la documentación, información y asuntos de su competencia, mediante Acta Administrativa;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
+
+IV. Acto Protocolario. El acto formal en el que los servidores públicos entregan y reciben, según corresponda, los recursos humanos, financieros y materiales, así como la documentación, información y asuntos de su competencia, mediante Acta Administrativa;
 
 V. Anexos. Los archivos documentales físicos y digitales donde consta la relación de los recursos, asuntos e información a entregar, a los que hace alusión el acta administrativa;
 
@@ -63,25 +69,35 @@ VII. Áreas. Aquellas unidades administrativas que integran la estructura orgán
 
 VIII. Auditoría Superior. Auditoría Superior del Estado de Quintana Roo;
 
-IX. Autoridad Supervisora. Servidor Público responsable de ejercer la inspección superior en los procesos de entrega recepción;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
+
+IX. Autoridad Supervisora. Autoridad responsable de conducir los procesos de entrega y recepción.
 
 X. Ayuntamientos. A la Administración Pública Municipal;
 
 XI. Comisión de Hacienda. La Comisión de Hacienda, Presupuesto y Cuenta del Poder Legislativo del Estado de Quintana Roo;
 
-XII. Comité de Entrega Recepción. Órgano integrado por la Comisión de Entrega, la Comisión de Recepción y la autoridad supervisora correspondiente;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
+
+XII. Comité de Entrega Recepción. Cuerpo integrado por la Comisión de Entrega, la Comisión de Recepción y la autoridad supervisora correspondiente;
 
 XIII. Coordinación Técnica. Enlace entre la Comisión de Entrega, la Comisión de Recepción y la autoridad supervisora, en la Entrega Recepción Institucional;
 
 XIV. Ejercicio Constitucional. Es el periodo que en términos de la Constitución Política del Estado Libre y Soberano de Quintana Roo durarán en su empleo, cargo o comisión los servidores públicos;
 
-XV. Entes Públicos. Las dependencias y entidades de la Administración Pública estatal; los Poderes Legislativo y Judicial; los Órganos Públicos Autónomos; las Entidades de la Administración Pública Paraestatal; los Ayuntamientos, sus dependencias y entidades, incluyendo los organismos operadores; así como cualquier otro Ente por el que tenga control sobre sus decisiones o acciones cualquiera de los poderes y organismos públicos citados;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
+
+XV. Entes Públicos. Las dependencias y entidades de la Administración Pública estatal; los Poderes Legislativo y Judicial; los Órganos Públicos Autónomos; las Entidades de la Administración Pública Paraestatal; los Ayuntamientos, sus dependencias y entidades, incluyendo los organismos operadores; así como cualquier otro que administre, recaude o ejerza recursos financieros, humanos y materiales de naturaleza pública;
 
 XVI. Entidades de la Administración Pública Paraestatal. Organismos Públicos Descentralizados, Empresas de Participación Estatal Mayoritaria y Fideicomisos Públicos;
 
-XVII. Entrega Recepción Institucional. Proceso legal y administrativo a través del cual se rinde cuenta de la situación que guardan los asuntos que son responsabilidad de la gestión saliente, y que se realiza al término de un ejercicio constitucional, periodo o plazo respectivo;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
 
-XVIII. Entrega Recepción Individual. Proceso legal y administrativo improrrogable e irrepetible mediante el cual un servidor público que se separa de su empleo, cargo o comisión por remoción, inhabilitación, destitución, renuncia, suspensión, licencia o por cualquier otra causa, entrega al servidor público que se designe para tal efecto, los recursos públicos, documentos, informes, bienes, y en general, lo que tuvo a su cargo;
+XVII. Entrega Recepción Institucional. Acto legal y administrativo a través del cual se rinde cuenta de la situación que guardan los asuntos que son responsabilidad de la gestión saliente, y que se realiza al término de un ejercicio constitucional o período respectivo;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
+
+XVIII. Entrega Recepción Individual. Acto legal y administrativo mediante el cual un servidor público que se separa de su empleo, cargo o comisión por cualquier causa, entrega al servidor público que se designe para tal efecto, los recursos públicos financieros, humanos y materiales, así como documentos, informes, y en general, los asuntos que tuvo bajo su cargo y que corresponden a la Unidad Administrativa de que se trate, permitiendo la continuidad en la prestación de los servicios y la gestión gubernamental de los asuntos, programas, proyectos, recursos, acciones y compromisos, así como el cumplimiento de sus funciones, metas y objetivos;
 
 XIX. Expediente. Es aquel que se integra con el fin de realizar la entrega recepción de los sujetos de esta Ley con la información de los recursos humanos, financieros y materiales, así como de la documentación, información y asuntos de la competencia del Ente o servidor público que entrega, y podrá ser de manera documental, por medios electrónicos, magnéticos, ópticos, multimedia o cualquier otro, siempre que se cumplan las medidas de seguridad y autenticidad correspondientes;
 
@@ -93,11 +109,17 @@ XXII. Órgano Interno de Control. Las unidades administrativas encargadas de pro
 
 XXIII. Poderes del Estado: Los Poderes Legislativo, Ejecutivo y Judicial;
 
-XXIV. Poder Ejecutivo: Se integra por la Administración Pública Centralizada, Órganos Descentralizados y sus Entidades Paraestatales;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
 
-XXV. Proceso de entrega recepción. El acto formal por medio del cual los Sujetos Obligados realizan la entrega de los recursos asignados, los asuntos a su cargo y el estado que guardan; así como la información documental que tenga a su disposición de manera directa, junto con sus anexos respectivos, a quien legalmente deba sustituirlo o a quién su superior jerárquico designe; con la intervención del Órgano Interno de Control o instancia homóloga, y de los testigos de asistencia, para su validación;
+XXIV. Poder Ejecutivo: Se integra por Dependencias, Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos y demás órganos de la Administración Pública Centralizada;
 
-XXVI. Recursos Públicos. Conjunto de bienes que por cualquier concepto reciben o administran los Entes Públicos y que afectan o modifican su hacienda pública o patrimonio;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
+
+XXV. Proceso de entrega recepción. Es el procedimiento por medio del cual los Sujetos Obligados realizan la entrega de los recursos asignados, los asuntos a su cargo y el estado que guardan; así como la información documental que tenga a su disposición de manera directa, junto con sus anexos respectivos, a quien legalmente deba sustituirlo o a quién su superior jerárquico designe; con la intervención del Órgano Interno de Control o instancia homóloga, y de los testigos de asistencia, para su validación;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
+
+XXVI. Recursos Públicos. Conjunto de recursos humanos, financieros y materiales que en razón del desempeño del cargo, empleo o comisión, reciban o administren los servidores públicos y que integran el patrimonio de los entes públicos para el cumplimiento de su objeto;
 
 XXVII. Secretaría. Secretaría de la Contraloría del Estado;
 
@@ -109,17 +131,23 @@ XXX. Testigo. Al servidor público que da testimonio de la realización del acto
 
 XXXI. Titular. Servidor público Titular del Ente Público correspondiente;
 
-XXXII. Servidores públicos. Las personas que desempeñan un empleo, cargo o comisión en los Entes Públicos conforme a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Quintana Roo;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
 
-XXXIII. Servidores públicos salientes. Personas obligadas a rendir cuentas de los recursos públicos administrados, ejecutados y recibidos, mediante la elaboración y entrega de la información que guarda el Ente Público o su empleo, cargo o comisión correspondiente, así como efectuar la entrega de los bienes y obligaciones que en el ejercicio de sus funciones hubieran tenido bajo su responsabilidad, y
+XXXII. Unidades Administrativas. Órgano gubernamental, que tiene a su cargo la administración de recursos financieros, humanos y materiales y los servicios generales y sociales del Ente al que se encuentra adscrito;
 
-XXXIV. Servidores públicos entrantes. Persona que legalmente recibe los bienes, derechos y obligaciones para el desempeño del empleo, cargo o comisión.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
+
+XXXIII. Servidores públicos. Los que señala el artículo 160 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, así como la Ley General de Responsabilidades Administrativas y que tenga relación con la presente Ley.
+
+XXXIV. (DEROGADA, P.O. 18 DE MARZO DE 2022)
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
 ###### Artículo 3.
 
 La interpretación de esta Ley estará a cargo de la Auditoría Superior, la Secretaría y los Órganos Internos de Control, en sus respectivos ámbitos de competencia.
 
-A falta de disposición expresa en esta Ley, se sujetará en forma supletoria a lo establecido en la Ley General de Archivos; la Ley General de Transparencia y Acceso a la Información Pública; la Ley General de Responsabilidades Administrativas y la Ley General de Contabilidad Gubernamental; así como a lo establecido en la Ley de Transparencia y Acceso a la Información Pública; el Código de Justicia Administrativa; el Código de Procedimientos Civiles; la Ley de Fiscalización y Rendición de Cuentas y el Código Fiscal, todos ordenamientos del Estado de Quintana Roo.
+A falta de disposición expresa en esta Ley, se sujetará en forma supletoria a lo establecido en el Código de Justicia Administrativa del Estado de Quintana Roo y en el Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo.
 
 ### CAPÍTULO II. OBJETO, ETAPAS Y SUJETOS DEL PROCESO DE ENTREGA RECEPCIÓN
 
@@ -159,219 +187,189 @@ IV. Las autoridades supervisoras competentes en los términos de esta Ley.
 
 ### CAPÍTULO I. ENTREGA RECEPCIÓN INSTITUCIONAL
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
+
 ###### Artículo 7.
 
 El Proceso de Entrega Recepción Institucional deberá realizarse:
 
-I. Al término del ejercicio constitucional de los Poderes del Estado y los ayuntamientos;
+I. Al término del ejercicio constitucional de los Poderes del Estado, titulares de los Órganos Autónomos y los Ayuntamientos;
 
-II. Al término de un periodo o plazo legal de los Servidores Públicos distintos al inciso anterior, de acuerdo con su ley correspondiente, y
+II. Al término de un periodo o plazo legal de los Servidores Públicos distintos a la fracción anterior, de acuerdo con su ley correspondiente, y
 
 III. Cuando se declare la disolución, extinción, desaparición, suspensión o liquidación de los Entes Públicos, según corresponda.
 
-El Proceso de Entrega Recepción Institucional comenzará con la conformación de la Comisión de Entrega del Ente Público respectivo.
+Previo al Proceso de Entrega Recepción Institucional se conformará la Comisión de Entrega del Ente Público respectivo.
 
-Para los efectos anteriores, se le determina a las Autoridades Supervisoras, su competencia para participar en los actos relacionados con el proceso de Entrega Recepción Institucional, de acuerdo con los plazos establecidos en la presente ley.
+Para los efectos anteriores, la Autoridad Supervisora competente será la Auditoría Superior del Estado, de acuerdo con los plazos establecidos en la presente ley.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
 ###### Artículo 8.
 
-El Proceso de Entrega Recepción Institucional se realizará por el Comité de Entrega Recepción, mismo que se conformará por los integrantes de la Comisión de Entrega y los integrantes de la Comisión de Recepción, así como los servidores públicos que la autoridad supervisora determine.
+En el Proceso de Entrega Recepción Institucional del Poder Ejecutivo del Estado, así como de los Ayuntamientos, participará el Comité de Entrega y Recepción, mismo que se conformará por los integrantes de la Comisión de Entrega y los integrantes de la Comisión de Recepción, así como los servidores públicos que la autoridad supervisora determine.
 
-Una vez notificadas las Comisiones de Entrega y de Recepción, y con la presencia de la Auditoría Superior, se levantará un Acta Administrativa declarando la integración del Comité de Entrega Recepción.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
 ###### Artículo 9.
 
-La Comisión de Entrega será el órgano responsable de planear, programar, organizar, coordinar, implementar, ejecutar y supervisar la entrega de los recursos humanos, financieros y materiales, así como la documentación, información y asuntos de su competencia que le hayan sido otorgados para el desempeño de sus funciones.
+La Comisión de Entrega será el órgano responsable de coadyuvar en los trabajos que deberán realizar cada una de las áreas que integran el Ente Público.
 
-Corresponde a la Comisión de Entrega, integrar, conciliar, consolidar y verificar los documentos financieros, administrativos, patrimoniales, técnicos y jurídicos para conformar el expediente respectivo.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
 ###### Artículo 10.
 
-La Comisión de Entrega deberá integrarse:
+La Comisión de Entrega deberá conformarse:
 
-I. Al menos seis meses previos a la conclusión del ejercicio constitucional de los Poderes del Estado y los ayuntamientos;
+I. Al menos seis meses previos a la conclusión del ejercicio constitucional del Poder Ejecutivo del Estado, así como de los Ayuntamientos, y
 
-II. Hasta seis meses previos al término del plazo o del periodo legal de los Entes Públicos distintos al inciso anterior, y
+II. Al momento en que se declare la disolución, extinción, desaparición, suspensión o liquidación de los Entes Públicos.
 
-III. Al momento en que se declare la disolución, extinción, desaparición, suspensión o liquidación de los Entes Públicos.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
 ###### Artículo 11.
 
-Las Comisiones de Entrega se integrarán por las personas titulares de:
+Las Comisión es de Entrega se integrarán por las personas servidoras. públicas siguientes:
 
-I. En el Poder Legislativo:
+I. En el Poder Ejecutivo:
 
-a. Los Órganos de Dirección;
+a. El enlace que designe el Titular del Poder Ejecutivo del Estado;
 
-b. Los Órganos de Representación;
+b. Titular de la Secretaría de Gobierno;
 
-c. Los Órganos Técnicos y Administrativos, y
+c. Titular de la Secretaría de Finanzas y Planeación;
 
-d. El Órgano Interno de Control.
+d. Titular de la Secretaría de la Contraloría;
 
-II. En el Poder Ejecutivo:
+e. Titular de la Consejería Jurídica del Poder Ejecutivo y
 
-a. El Poder Ejecutivo del Estado;
+f. Aquellas designadas por el Titular del Poder Ejecutivo.
 
-b. La Secretaría de Gobierno;
+II. En los Ayuntamientos:
 
-c. La Secretaría de Finanzas y Planeación;
+a. El enlace que designe el Titular de la Presidencia Municipal;
 
-d. La Secretaría de la Contraloría;
+b. Titular de la Sindicatura Municipal;
 
-e. La Consejería Jurídica del Poder Ejecutivo, y
+c. Titular de la Secretaría General del Ayuntamiento;
 
-f. Un Coordinador Técnico, designado por el Gobernador del Estado.
+d. Titular de la Tesorería Municipal;
 
-III. En el Poder Judicial:
+e. Titular de la Contraloría Municipal, y
 
-a. La Presidencia del Tribunal Superior de Justicia del Estado;
+f. Aquellas designadas por el Titular de la Presidencia Municipal.
 
-b. El Consejo de la Judicatura;
-
-c. El Órgano Interno de Control o quien ejerza las funciones equivalentes.
-
-IV. En los Ayuntamientos:
-
-a. La Presidencia Municipal;
-
-b. La Sindicatura;
-
-c. La Secretaría General Municipal;
-
-d. La Tesorería Municipal;
-
-e. El Órgano Interno de Control o quien ejerza las funciones equivalentes, y
-
-f. Un Coordinador Técnico, designado por el presidente Municipal.
-
-V. En los órganos públicos autónomos y las Entidades de la Administración Pública Paraestatal:
-
-a. El órgano de máxima autoridad;
-
-b. El área que, conforme a la normatividad, le corresponda la administración de los recursos públicos, y
-
-c. El Órgano Interno de Control.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
 ###### Artículo 12.
 
-La Comisión de Entrega contará con una Coordinación Técnica que estará a cargo de un servidor público nombrado por el Titular saliente del Ente Público que corresponda y será responsable de recopilar, organizar e integrar la información y documentación necesarias, así como la elaboración de respaldos documentales y magnéticos del Expediente.
+La Comisión de Entrega contará con un coordinador técnico que estará a cargo de una persona servidora pública nombrada por el Titular saliente del Ente Público que corresponda y coordinará los trabajos de dicha Comisión en los términos de esta Ley.
 
-El Coordinador Técnico contará con un grupo de apoyo y los enlaces necesarios para el desarrollo de sus actividades.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
 ###### Artículo 13.
 
-La Comisión de Recepción es el órgano responsable de recibir los recursos humanos, financieros y materiales, así como la documentación, información y asuntos de su competencia.
+La Comisión de Recepción llevará a cabo los trabajos de coordinación necesarios con la Comisión de Entrega, permitiendo la continuidad en la prestación de los servicios y la gestión gubernamental de los asuntos, programas, proyectos, recursos, acciones y compromisos, así como el cumplimiento de sus funciones, metas y objetivos.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
 ###### Artículo 14.
 
-El Titular electo, nombrado o designado, notificará a la Auditoría Superior la conformación de la Comisión de Recepción en los términos de esta Ley.
+El Titular electo del Poder Ejecutivo y de los Ayuntamientos, notificará a la Auditoría Superior la conformación de la Comisión de Recepción a más tardar treinta días hábiles antes de asumir el cargo.
 
-Al escrito deberán acompañarse los documentos que acrediten su personalidad, además de una copia simple de identificación oficial con fotografía de cada uno de los integrantes de la Comisión de Recepción.
+Al escrito deberán acompañarse de la constancia de mayoría que lo acredite como autoridad electa, además de una copia simple de identificación oficial con fotografía de cada uno de los integrantes de la Comisión de Recepción.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
 ###### Artículo 15.
 
 Serán integrantes de la Comisión de Recepción las personas siguientes:
 
-I. En el Poder Legislativo:
+I. En el Poder Ejecutivo:
 
-a. Titulares de los Órganos de Dirección entrantes;
+a. La persona designada como enlace por el Titular electo del Poder Ejecutivo, y
 
-b. Titular de la Secretaría General en los casos de los Órganos de representación, y
+II. En los Ayuntamientos:
 
-c. Titulares de los Órganos Técnicos y Administrativos entrantes.
+a. La persona designada como enlace por el titular electo de la Presidencia Municipal;
 
-En el caso de que los Órganos anteriormente señalados, no se encuentren legalmente constituidos al momento de iniciar el proceso de entrega recepción, será la Mesa Directiva de la Legislatura entrante quien reciba.
+b. Síndico electo, y
 
-II. En el Poder Ejecutivo:
-
-a. Titular del Poder Ejecutivo electo, y
-
-b. Las personas que él designe hasta en un número igual al de los integrantes de la Comisión de Entrega.
-
-III. En el Poder Judicial:
-
-a. Titular de la Presidencia del Tribunal Superior de Justicia del Estado.
-
-b. Las personas que él designe hasta en un número igual al de los integrantes de la Comisión de Entrega.
-
-IV. En los Ayuntamientos:
-
-a. Presidente electo;
-
-b. Síndico electo;
-
-c. Las personas que designe el Presidente Municipal electo, que podrán ser hasta un máximo de tres.
-
-En los Órganos Públicos Autónomos, la Comisión de Recepción se conformará en apego a las disposiciones legales que regulen su organización interna.
+c. Las personas que designe el titular electo de la Presidencia Municipal, que podrán ser hasta un máximo de tres.
 
 ### CAPÍTULO II. ENTREGA RECEPCIÓN INDIVIDUAL
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
+
 ###### Artículo 16.
 
-El Proceso de Entrega Recepción Individual deberá realizarse:
+El Proceso de Entrega Recepción Individual deberá realizarse por los servidores públicos que no se encuentren contemplados en los supuestos de obligatoriedad del Proceso de Entrega y Recepción Institucional.
 
-I. En los casos de permuta, cambio de adscripción, remoción, inhabilitación, destitución, renuncia, suspensión, revocación de mandato o por cualquier otra causa establecida en las leyes aplicables en la materia, y
-
-II. En los casos de extinción o transferencia de funciones de alguna de las áreas de los Entes Públicos.
-
-Los titulares de las dependencias, entidades o unidades administrativas salientes, son responsables del contenido de la información que contenga actas, informes, formatos y demás documentos anexos que se generen en cada una de las áreas de las que son responsables, por lo tanto, quedan sujetos a las responsabilidades administrativas, civiles, y penales a que haya lugar de conformidad con las disposiciones legales que sean aplicables en cada caso.
+Los titulares salientes, son responsables del contenido, y en su caso omisión de entrega de la información que sea integrado (sic) en las actas, informes, formatos y demás documentos anexos que se generen en cada una de las áreas de las que son responsables, por lo tanto, quedan sujetos a las responsabilidades administrativas, civiles, y penales a que haya lugar de conformidad con las disposiciones legales que sean aplicables en cada caso.
 
 ###### Artículo 17.
 
-También procederá el proceso de Entrega Recepción Individual, al término del período o plazo legal del titular del Organismo Público Autónomo y de los titulares de sus Órganos Internos de Control.
+(DEROGADO, P.O. 18 DE MARZO DE 2022)
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
 ###### Artículo 18.
 
 El servidor público que ostente un cargo de elección popular y que contienda para elección consecutiva, se sujetará al Proceso de Entrega Recepción, en los términos siguientes:
 
-I. Al solicitar licencia y no regrese a concluir su período se ajustarán a la Entrega Recepción Individual;
+I. Al solicitar licencia se ajustará al procedimiento de Entrega Recepción Individual en su carácter de servidor público saliente, y
 
-II. Al solicitar licencia, sea electo y regrese a terminar su período, se ajustará al Proceso de Entrega Recepción Individual y al terminar su período sólo formará parte de la Comisión de Entrega, sin perjuicio de las responsabilidades inherentes a su cargo como parte de la Comisión de Recepción, y
+II. En caso de que al concluir su periodo de licencia, se reintegre a su cargo, comisión o empleo, deberá iniciar un nuevo proceso de Entrega Recepción Individual, ahora en su carácter de servidor público entrante.
 
-III. Al no solicitar licencia y sea electo, al terminar su período sólo formará parte de la Comisión de Entrega, sin perjuicio de las responsabilidades inherentes a su cargo como parte de la Comisión de Recepción.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
 ###### Artículo 19.
 
-El Proceso de Entrega Recepción Individual inicia con la notificación que realice el superior jerárquico o la persona titular de la unidad administrativa de recursos humanos, al Órgano Interno de Control del Ente Público que corresponda; misma que se realizará dentro de los cinco días hábiles siguientes de la separación o ausencia del cargo, empleo o comisión del servidor público saliente.
+El Proceso de Entrega Recepción Individual inicia con la notificación que realice la persona titular de la unidad administrativa de recursos humanos, al Órgano Interno de Control del Ente Público que corresponda; misma que se realizará dentro de los cinco días hábiles siguientes de la separación o ausencia del cargo, empleo o comisión del servidor público saliente.
 
-Dicho proceso se efectuará dentro de los quince días hábiles siguientes, contados a partir de que surta efectos la notificación de la separación o ausencia del cargo, empleo o comisión del servidor público, al Órgano Interno de Control correspondiente.
+El acto protocolario se efectuará dentro de los treinta días naturales siguientes, a la notificación de la separación o ausencia del cargo, empleo o comisión del servidor público, al Órgano Interno de Control correspondiente.
 
 ###### Artículo 20.
 
 En el Proceso de Entrega Recepción Individual participará el servidor público que entrega, el servidor público o persona que deba recibir, así como el personal designado por el Órgano Interno de Control correspondiente.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
+
 ###### Artículo 21.
 
-A falta de la designación del servidor público entrante, la entrega recepción se hará con quien designe para tal efecto el titular del Ente Público o el superior jerárquico del servidor público obligado.
+A falta de la designación del servidor público entrante, la entrega recepción se hará con quien designe para tal efecto el superior jerárquico del servidor público saliente.
+
+En ningún caso, se dejará de levantar Acta de Hechos de los recursos financieros, materiales y humanos, así como de los documentos y en general de los asuntos que haya tenido bajo su responsabilidad cualquier servidor público saliente al término de su empleo, cargo o comisión, por cualquier motivo o razón determinadas en el artículo 16 de la presente Ley.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
 ###### Artículo 22.
 
-Cuando por alguna causa justificada o ausencia injustificada, previo levantamiento del Acta de Hechos correspondiente, el servidor público obligado a entregar no pueda realizarla, dicha actividad estará a cargo del superior jerárquico correspondiente.
+Cuando por alguna causa, previo levantamiento del Acta de Hechos correspondiente, el servidor público obligado a entregar no pueda realizarla, dicha actividad estará a cargo del superior jerárquico correspondiente.
+
+El servidor público obligado de entregar deberá justificar plenamente su imposibilidad de participar en la integración del expediente y/o en su intervención en el acto protocolario; en caso contrario, quedará sujeto a las responsabilidades administrativas, civiles, y penales a que haya lugar de conformidad con las disposiciones legales que sean aplicables en cada caso.
 
 Se considerarán causas justificadas:
 
-I. La muerte del servidor público;
+l. La incapacidad física, mental o legal del servidor público obligado, y
 
-II. La incapacidad física, mental o legal del servidor público obligado, y
-
-III. La imposición de una medida cautelar o sanción que impida al servidor público intervenir en el Proceso de Entrega Recepción.
-
-Se considerará ausencia injustificada el abandono de las actividades del servidor público en el tiempo estipulado en la Ley de los Trabajadores al Servicios de los Poderes Legislativo, Ejecutivo y Judicial, de los Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo.
+II. La imposición de una medida cautelar o sanción que impida al servidor público intervenir en el Proceso de Entrega Recepción.
 
 ### CAPÍTULO III. DISPOSICIONES COMUNES
 
 ###### Artículo 23.
 
-El Acto Protocolario del Proceso de Entrega Recepción Institucional deberá realizarse al término del ejercicio constitucional, del plazo o del período de terminación del empleo, cargo o comisión.
+(DEROGADO, P.O. 18 DE MARZO DE 2022)
 
 ###### Artículo 24.
 
 Una vez iniciado el Acto Protocolario no podrá suspenderse salvo por causa fortuita o de fuerza mayor, los integrantes del Comité de Entrega Recepción continuarán con el Proceso de Entrega Recepción en un plazo que no excederá de veinticuatro horas para el de carácter Institucional y un día hábil para el de naturaleza Individual.
 
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
+
 ###### Artículo 25.
 
-Los procesos de Entrega Recepción Institucional o Individual concluyen con el desahogo del procedimiento de Verificación y Validación física del contenido del Expediente, a más tardar dentro de los sesenta días naturales siguientes al inicio del proceso.
+Los procesos de Entrega Recepción Institucional o Individual concluyen con el desahogo del procedimiento de Verificación y Validación física del contenido del Expediente, a más tardar dentro de los sesenta días naturales siguientes a la firma del Acta Administrativa del Acto Protocolario.
 
 ## TÍTULO TERCERO. ATRIBUCIONES Y RESPONSABILIDADES
 
@@ -389,13 +387,7 @@ La Comisión de Hacienda, Presupuesto y Cuenta del Poder Legislativo del Estado 
 
 ###### Artículo 27.
 
-En caso de que el Órgano Interno de Control no se hubiera constituido, no se haya nombrado su titular, o bien, se actualice algún impedimento legal, el titular deberá facultar, preferentemente, al titular del área jurídica para que realice las funciones de la autoridad supervisora, hasta en tanto termine el Proceso de Entrega Recepción.
-
-En el caso de los Ayuntamientos, dichas funciones serán asumidas por la persona titular de la Secretaría General del mismo, o en su caso, el servidor público que determine su normatividad interna.
-
-Para el Proceso de Entrega Recepción Individual de los integrantes del Órgano Interno de Control del Poder Ejecutivo, la Secretaría, a través de los servidores públicos que se designen, fungirá como autoridad supervisora.
-
-En el caso de los Entes Públicos restantes, las funciones de autoridad supervisora las ejercerá la persona titular del área jurídica, con todas las atribuciones inherentes al cargo o, en su caso, el servidor público que determine su normatividad interna.
+(DEROGADO, P.O. 18 DE MARZO DE 2022)
 
 ###### Artículo 28.
 
@@ -411,7 +403,9 @@ II. Vigilar que el Proceso de Entrega Recepción se ajuste a lo dispuesto en la 
 
 III. Capacitar, asesorar y auxiliar a los sujetos obligados y servidores públicos en los procesos de entrega recepción que correspondan;
 
-IV. Formular y emitir los manuales técnicos y formatos necesarios para la implementación de los Procesos de Entrega Recepción Institucional e Individual, según corresponda, así como implementar el sistema electrónico a través del uso de las tecnologías de información;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
+
+IV. Formular y emitir los manuales técnicos, lineamientos y formatos necesarios para la implementación de los Procesos de Entrega Recepción Institucional e Individual, según corresponda, así como implementar el sistema electrónico a través del uso de las tecnologías de información;
 
 V. Promover la emisión uniforme de lineamientos, estrategias, normas, criterios, sistemas informáticos y medios electrónicos, que garanticen una mayor confiabilidad y rapidez en la integración, almacenamiento y manejo de la información correspondiente a los Procesos de Entrega Recepción Institucional e Individual;
 
@@ -419,7 +413,7 @@ VI. Verificar, proponer o desarrollar elementos de seguridad digital de la infor
 
 VII. Fungir como órgano de consulta en los actos relativos al Proceso de Entrega Recepción;
 
-VIII. Participar, conocer y evaluar las circunstancias del proceso de entrega recepción a fin de constatar el estado de los recursos públicos objeto de la misma, y realizar las acciones de supervisión que correspondan;
+VIII. (DEROGADA, P.O. 18 DE MARZO DE 2022)
 
 IX. De las inobservancias, incumplimiento o violaciones a las disposiciones jurídicas y administrativas aplicables dentro del Proceso de Entrega Recepción, se les encomienda a las autoridades competentes, promover el inicio del procedimiento de responsabilidad administrativa que corresponda de conformidad con la Ley General, y
 
@@ -429,9 +423,11 @@ X. Las demás que le confieran esta Ley y otras disposiciones jurídicas y admin
 
 ###### Artículo 30.
 
-A las Autoridades Supervisoras se les faculta, para que en el ámbito de sus respectivas competencias, expidan los manuales, lineamientos y formatos para los procesos de Entrega Recepción Institucional e Individual.
+(DEROGADO, P.O. 18 DE MARZO DE 2022)
 
 ### CAPÍTULO III. DE LA COMISIÓN DE ENTREGA RECEPCIÓN
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
 ###### Artículo 31.
 
@@ -447,139 +443,73 @@ Durante el Proceso de Entrega Recepción los servidores públicos deberán atend
 
 Los servidores públicos o quienes participaron en la integración del Expediente están obligados a colaborar con los servidores públicos que reciben durante el procedimiento de Verificación y Validación física del contenido del Expediente.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
+
 ###### Artículo 33.
 
 Los servidores públicos que reciban estarán obligados a proporcionar la información y documentación necesaria, a los servidores públicos que entregan, para que éstos puedan dar respuesta a los requerimientos derivados del procedimiento de Verificación y Validación física del contenido del Expediente.
 
-En caso de incumplimiento, los Servidores Públicos en la presente Ley, se harán acreedores a la sanción administrativa que corresponda según lo establecido en la normatividad aplicable en la materia.
-
-La sanción también será aplicable a los servidores públicos que realicen la entrega y no atiendan los requerimientos que deriven del procedimiento referido.
-
 ###### Artículo 34.
 
-Los servidores públicos que reciban estarán obligados a verificar la existencia y estado de los recursos públicos y la información recibida y podrán solicitar las aclaraciones pertinentes en los términos de esta Ley.
-
-En caso de incumplimiento de las obligaciones establecidas en el presente Capítulo, los servidores públicos serán sujetos de responsabilidades administrativas, de acuerdo con la Ley General, sin perjuicio de las sanciones de carácter civil, penal o laboral que correspondan.
+(DEROGADO, P.O. 18 DE MARZO DE 2022)
 
 ### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
 ###### Artículo 35.
 
 La Comisión de Entrega tendrá las obligaciones siguientes:
 
-I. Integrar el Expediente de conformidad con la presente Ley;
+I. Coadyuvar con la integración del Expediente de conformidad con la presente Ley;
 
-II. Cumplir con los objetivos, metas y plazos relativos al Proceso de Entrega Recepción y dar cumplimiento a las disposiciones de esta Ley;
+II. Contribuir al cumplimiento de los objetivos, metas y plazos relativos al Proceso de Entrega Recepción y acatará las disposiciones de esta Ley, y
 
-III. Presentar los formatos, metodología y mecanismos necesarios para la realización del proceso de entrega recepción, así como el programa de trabajo y calendarización del mismo;
+III. Coadyuvar en la revisión de los formatos y emitir las observaciones y sugerencias correspondientes.
 
-IV. Informar oportunamente al titular sobre los avances del Proceso de Entrega Recepción, así como someter, para su resolución, asuntos de trascendencia;
-
-V. Solicitar a las unidades administrativas que conforman al Ente Público que corresponda, la información necesaria para la integración del Expediente y, en su caso, convocar a reunión a sus titulares;
-
-VI. Revisar el llenado de los formatos que integran el Expediente y emitir las observaciones y sugerencias correspondientes;
-
-VII. Autorizar la presentación de la información a través de formatos no considerados en el manual técnico de entrega recepción y que resulten necesarios para cumplir con la integración del Expediente;
-
-VIII. Autorizar la entrega de información adicional a la exigida por la Ley y el manual técnico de entrega recepción correspondiente;
-
-IX. Autorizar a los servidores públicos necesarios para el ejercicio de las funciones de la Coordinación Técnica;
-
-X. Instruir al Coordinador Técnico para que informe públicamente los avances del Proceso de Entrega Recepción;
-
-XI. Realizar, si se considera conveniente, ensayos del Acto Protocolario;
-
-XII. Previa solicitud de la Comisión de Recepción, informar sobre la integración del Expediente, y
-
-XIII. Las demás que le confieran la presente Ley y otros ordenamientos jurídicos y administrativos vigentes, para la debida realización del Proceso de Entrega Recepción.
-
-La Comisión de Entrega se reunirá las veces que sea necesario, previa convocatoria emitida por el Coordinador Técnico.
+La Comisión de Entrega se reunirá las veces que sea necesario, previa convocatoria emitida por el Enlace.
 
 ###### Artículo 36.
 
 La Comisión de Recepción tendrá las obligaciones siguientes:
 
-I. Observar y hacer cumplir esta Ley y el manual técnico de entrega recepción, lineamientos y demás instrumentos necesarios para la realización del Proceso de Entrega Recepción;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
+
+I. Cumplir con la normatividad aplicable para la realización del Proceso de Entrega Recepción;
 
 II. Asistir, previa convocatoria, a las reuniones del Comité de Entrega Recepción;
 
-III. Promover reuniones informativas sobre el estado que guardan los recursos públicos y los asuntos competencia de los servidores públicos salientes, y
+III. (DEROGADA, P.O. 18 DE MARZO DE 2022)
 
 IV. Las demás que le confieran la presente Ley y otros ordenamientos jurídicos y administrativos vigentes, para la debida realización del Proceso de Entrega Recepción.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
+
 ###### Artículo 37.
 
-Son atribuciones de la persona titular de la Coordinación Técnica las siguientes:
+Son atribuciones del Enlace las siguientes:
 
-I. Coordinar el Proceso de Entrega Recepción;
+I. Coordinarse para que el Proceso de Entrega Recepción se realice en los términos de la presente Ley;
 
-II. Requerir por escrito a los titulares el nombramiento de un Enlace Técnico;
+II. Implementar acciones para establecer los trabajos previos al inicio del Proceso de Entrega Recepción;
 
-III. Elaborar el proyecto del programa de trabajo y presentarlo a la Comisión de Entrega para su aprobación, según corresponda;
+III. Capacitar a las personas servidoras públicas respecto al Proceso de Entrega Recepción, y
 
-IV. Implementar acciones para establecer la orientación, evaluación y seguimiento del Proceso de Entrega Recepción;
+IV. Las demás que le confieran la presente Ley y otros ordenamientos jurídicos y administrativos vigentes, para la debida realización del Proceso de Entrega Recepción.
 
-V. Solicitar a los titulares de las unidades administrativas que conforman al Ente Público, por sí o por medio del enlace técnico, la información necesaria para el desarrollo de los trabajos de la Comisión de Entrega;
-
-VI. Proponer a la Comisión de Entrega la presentación de la información a través de formatos no considerados en el manual técnico de entrega recepción y que resulten necesarios para cumplir con la integración del Expediente;
-
-VII. Someter a la consideración de la Comisión de Entrega que proporcione información adicional a la exigida por la Ley y el manual técnico de entrega recepción correspondiente;
-
-VIII. Proponer a la Comisión de Entrega la designación de los servidores públicos necesarios para el ejercicio de sus funciones;
-
-IX. Convocar a reuniones ordinarias y extraordinarias de la Comisión de Entrega y proponer el orden del día;
-
-X. Dar seguimiento a las etapas del Proceso de Entrega Recepción que correspondan;
-
-XI. Presentar a la Comisión de Entrega informes mensuales o extraordinarios sobre el cumplimiento del programa de trabajo y de los acuerdos emitidos;
-
-XII. Capacitar a los Enlaces Técnicos respecto al Proceso de Entrega Recepción de acuerdo con el programa de trabajo;
-
-XIII. Convocar a los Enlaces Técnicos con el objeto de dar seguimiento y evaluar su avance en el Proceso de Entrega Recepción;
-
-XIV. Documentar los trabajos de la Coordinación Técnica para que formen parte del Expediente, y
-
-XV. Las demás que le sean mandatadas por la Comisión de Entrega, el titular del Ente Público y las que sean conferidas en otros ordenamientos de carácter jurídico y administrativo.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
 ###### Artículo 38.
 
 Corresponde a los titulares de las secretarías, dependencias, entidades, coordinaciones, direcciones y unidades administrativas de los Entes Públicos:
 
-I. Cumplir con la metodología, lineamientos y mecanismos que correspondan;
+l. Cumplir con la metodología, lineamientos y demás normatividad emitida por la Autoridad Supervisora, y
 
-II. Integrar y proporcionar oportunamente la información requerida para el Proceso de Entrega Recepción, de conformidad con la presente Ley y demás disposiciones aplicables;
-
-III. Mantener permanentemente actualizados los planes, programas, proyectos, estudios, informes, registros, inventarios y demás información relativa a los asuntos de su competencia, así como la relativa a los recursos humanos, financieros y materiales;
-
-IV. Comprobar y aclarar, en su caso, de manera precisa, la información que resulte necesaria para la integración del Expediente;
-
-V. Atender en tiempo y forma los acuerdos, observaciones, recomendaciones y sugerencias que, en su caso, realice la Comisión de Entrega o el Coordinador Técnico, respecto al llenado de los formatos que integran el Expediente;
-
-VI. Designar y remover al Enlace Técnico y, en su caso, notificarlo al Coordinador Técnico, cuando menos en 24 horas;
-
-VII. Solicitar al Enlace Técnico la información relacionada con las actividades y avances del Proceso de Entrega Recepción;
-
-VIII. Colaborar en las actividades de la Comisión de Entrega cuando ésta lo considere necesario, y
-
-IX. Las demás que le confieran esta Ley y otros ordenamientos de carácter jurídico y administrativo.
+II. Integrar oportunamente la información para el Proceso de Entrega Recepción, de conformidad con la presente Ley y demás disposiciones aplicables.
 
 ###### Artículo 39.
 
-Los Enlaces Técnicos tendrán las atribuciones siguientes:
-
-I. Ejecutar, en el ámbito de su competencia, el programa de trabajo aprobado por la Comisión de Entrega y de conformidad con las instrucciones del Coordinador Técnico;
-
-II. Someter, en acuerdo del Coordinador Técnico, cualquier duda respecto al trabajo por desarrollar en el ámbito de su competencia;
-
-III. Recabar la información necesaria para cumplir con la integración del Expediente;
-
-IV. Informar al Coordinador Técnico sobre las actividades desarrolladas dentro del Proceso de Entrega Recepción;
-
-V. Coordinar a los servidores públicos designados dentro del Ente Público correspondiente;
-
-VI. Acudir a las reuniones convocadas por la Comisión de Entrega o el Coordinador Técnico, y
-
-VII. Las demás que determine su titular, el Coordinador Técnico o la Comisión de Entrega.
+(DEROGADO, P.O. 18 DE MARZO DE 2022)
 
 ## TÍTULO CUARTO. EXPEDIENTE DE ENTREGA RECEPCIÓN
 
@@ -587,39 +517,377 @@ CAPÍTULO
 
 ÚNICO
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
+
 ###### Artículo 40.
 
-Los servidores públicos que entregan tendrán la obligación de participar, con toda oportunidad, en el Proceso de Entrega Recepción, integrando debidamente la documentación e información en el ámbito de sus atribuciones, así como llenando los formatos que integran el Expediente.
+Los servidores públicos que entregan tendrán la obligación de participar, con toda oportunidad, en el Proceso de Entrega Recepción, integrando debidamente la documentación e información en el ámbito de sus atribuciones, así como llenando los anexos que integran el Expediente.
 
-El Expediente deberá contener la información del ejercicio fiscal en que ocurra el Acto Protocolario, atendiendo al cargo o administración por el cual se realiza el Proceso de Entrega Recepción Institucional o Individual y se integrará, por lo menos:
+El Expediente deberá contener la información del ejercicio fiscal en que ocurra el Acto Protocolario, atendiendo al cargo o administración por el cual se realiza el Proceso de Entrega Recepción Institucional o Individual y se integrará, por lo menos, por los siguientes anexos:
 
-I. Marco jurídico de actuación;
+a) Para los Titulares de los Poderes, Ayuntamientos, Secretarios, Directores Generales y equivalentes:
 
-II. Instrumentos de planeación;
+Apartado Anexo Nombre del Anexo
 
-III. Información contable financiera;
+OFICINA DEL A Informe Ejecutivo de los Principales
 
-IV. Información presupuestaria;
+TITULAR Resultados Obtenidos Durante
 
-V. Información programática;
+su Gestión.
 
-VI. Recursos humanos y estructura orgánica;
+B Informe de Compromisos y Actividades
 
-VII. Recursos financieros;
+Prioritarias a Atender dentro de los
 
-VIII. Recursos materiales;
+90 días Posteriores a la entrega y
 
-IX. Obra pública y acciones;
+recepción.
 
-X. Relación de observaciones por auditorías: se dará cuenta de todas las observaciones que derivado de procedimientos de inspección, auditoría y control gubernamental se tengan y el estado que guardan;
+C Combinación de la Caja Fuerte Asignada
 
-XI. Relación de asuntos en trámite;
+y Bienes y Valores Contenidos en
 
-XII. Información sobre cumplimiento de las obligaciones establecidas en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Quintana Roo;
+la misma.
 
-XIII. Libros, bibliografía, expedientes, archivos documentales, digitales y multimedia, medios electrónicos, magnéticos, ópticos o cualquier otro, y
+D Inventario de Mobiliario y Equipo
 
-XIV. Actuaciones protocolarias.
+(Incluye Equipo de Cómputo).
+
+E Inventario de Líneas Telefónicas,
+
+Teléfonos Celulares y Equipo de
+
+Comunicaciones.
+
+F Inventario del Parque Vehicular y
+
+Maquinaria.
+
+G Inventario de Obras de Arte y
+
+Decoración.
+
+H Plantilla de Personal Vigente.
+
+I Programa Sectorial (Dependencias) o
+
+Institucional (Entidades).
+
+J Concentrado de Sesiones del Órgano
+
+de Gobierno Celebradas.
+
+K Certificado de No Adeudo.
+
+b) Para todos los servidores obligados:
+
+Apartado Anexo Nombre del Anexo
+
+CONTEXTO C (SIC) Combinación de la Caja Fuerte
+
+GENERAL Asignada y Bienes y Valores
+
+Contenidos en la misma.
+
+K (SIC) Certificado de No Adeudo.
+
+I. NORMATIVIDAD 1 Relación de Disposiciones Jurídicas
+
+2 Relación de Acuerdos y Convenios
+
+Firmados (Vigentes).
+
+II. PLANEACIÓN 3 Plan Estatal o Municipal de Desarrollo.
+
+4 Oficio de Envío del Programa
+
+Basado en Resultados (PBR)
+
+autorizado.
+
+5 Análisis Evaluativo sobre Programas
+
+y Acciones del PBR.
+
+III. PROGRAMÁTICA- 6 Presupuesto Autorizado y
+
+PRESUPUESTAL Modificaciones
+
+7 Reporte del Ejercicio Presupuestal
+
+y Programático.
+
+IV. FINANZAS 8 Informe de Ingresos Propios y Otros.
+
+9 Presupuesto de Ingresos del Ejercicio
+
+o Período.
+
+10 Ley de Ingresos.
+
+11 Decreto de Presupuesto de Egresos.
+
+12 Cuenta Pública.
+
+13 Estados Financieros Dictaminados.
+
+14 Situación de Cuentas Bancarias.
+
+15 Conciliaciones Bancarias.
+
+16 Situación de Talonarios de Cheques
+
+en Uso.
+
+17 Listado de Pagos Pendientes
+
+Programados
+
+18 Fondos Revolventes Asignados.
+
+19 Inventario de Formas Valoradas.
+
+20 Informe de la Deuda Pública
+
+Directa y Contingente.
+
+21 Oficio de recibido de la solicitud
+
+de cambio de firmas ante las
+
+instituciones bancarias
+
+correspondientes.
+
+22 Créditos fiscales a favor del Ente
+
+Público.
+
+V. RECURSOS 23 Inventario de Mobiliario y
+
+MATERIALES Equipo (Incluye Equipo de Cómputo).
+
+24 Inventario de Líneas Telefónicas,
+
+Teléfonos Celulares y Equipo de
+
+Comunicaciones.
+
+25 Inventario de Parque Vehicular y
+
+Maquinaria.
+
+26 Inventario de Obras de Arte y
+
+Decoración.
+
+27 Inventario de Libros y Publicaciones.
+
+28 Inventario de Armamento Oficial.
+
+29 Inventario de Archivo de Trámite.
+
+30 Inventario de Archivo de
+
+Concentración.
+
+31 Inventario de Archivo Histórico.
+
+32 Mobiliario y Equipo Educacional y
+
+Recreativo.
+
+33 Equipo e Instrumental Médico y de
+
+Laboratorio.
+
+34 Activos biológicos.
+
+35 Patentes, Marcas y Derechos.
+
+36 Licencias.
+
+37 Otros activos intangibles.
+
+38 Inventarios de bienes menores.
+
+39 Inventario de Archivo Propuesto
+
+para Baja Documental.
+
+40 Sellos Oficiales.
+
+41 Reporte de Existencias en Almacén.
+
+42 Relación de Bienes Inmuebles en
+
+Propiedad o Posesión.
+
+VI. ADQUISICIONES 43 Relación de Adquisiciones y
+
+Contratación de Servicios Vigentes.
+
+44 Relación de Contratos de Arrendamiento
+
+de Bienes Muebles e Inmuebles Vigentes.
+
+45 Relación de Pólizas de Seguros Vigentes.
+
+VII. OBRA PÚBLICA 46 Relación de Contratos de Obra Pública
+
+y Servicios Relacionados con la Misma
+
+Vigentes.
+
+VIII. ORGANIZACIÓN 47 Reglamento Interior o Interno.
+
+48 Estructura Orgánica Vigente.
+
+49 Manual de Organización,
+
+Procedimientos y Registro de
+
+Trámites y Servicios.
+
+50 Plantilla de Personal Vigente.
+
+51 Relación del Personal de
+
+la Institución Comisionado.
+
+52 Tabulador de Sueldos Vigentes.
+
+53 Contratos Sindicales Vigentes.
+
+54 Relación de las incidencias de personal.
+
+IX. ASUNTOS LEGALES 55 Relación de Contratos de Comodato
+
+Vigentes.
+
+56 Relación de Contratos de Concesión
+
+Vigentes.
+
+57 Situación de Procesos Jurídicos
+
+Promovidos por el ente público.
+
+58 Situación de Procesos Jurídicos
+
+Promovidos en Contra del ente público.
+
+59 Contratos de fideicomisos.
+
+X. FISCALIZACIÓN 60 Resumen de Observaciones en
+
+Proceso de Solventación.
+
+XI. SISTEMAS DE 61 Inventario de Paquetes
+
+INFORMACIÓN Computacionales Adquiridos.
+
+62 Inventario de Sistemas de
+
+Información Desarrollados.
+
+63 Inventario de Sistemas de Información
+
+en Proceso de Desarrollo.
+
+64 Respaldos de Información.
+
+65 Claves para Accesar a los
+
+Sistemas de Información.
+
+XII. ASUNTOS 66 Informe de Compromisos y Actividades
+
+OPERATIVOS Operativas Relevantes a Atender
+
+PRIORITARIOS Dentro de los 90 Días Posteriores
+
+a la Entrega y Recepción.
+
+XIII. NORMAS 67 Programa de Trabajo de Control
+
+GENERALES DE Interno (PTI).
+
+CONTROL INTERNO
+
+XIV. TRANSPARENCIA 68 Informe Sobre el Ejercicio y Destino
+
+del Gasto Federalizado.
+
+69 Montos Pagados por Ayudas y
+
+Subsidios.
+
+70 Evaluaciones e Indicadores.
+
+71 Documentos relativos al
+
+Comité de Transparencia, tales
+
+como nombramientos, actas,
+
+entre otros.
+
+72 Relación de solicitudes de información
+
+pendientes de atender.
+
+73 Relación de recursos de revisión
+
+en trámite.
+
+74 Índice de expedientes clasificados
+
+como reservados.
+
+75 Tabla de aplicabilidad avalada por
+
+el Comité de Transparencia.
+
+76 Aviso de privacidad integral y
+
+simplificado.
+
+77 Relación de las unidades administrativas
+
+y los formatos que le corresponden
+
+en la Plataforma Nacional de
+
+Transparencia.
+
+78 Acuses de cumplimiento de las
+
+últimas publicaciones obligadas por ley.
+
+79 Usuario y contraseña de la Plataforma
+
+Nacional de Transparencia del sujeto
+
+obligado y las unidades administrativas.
+
+XV. OTROS ASUNTOS 80 Bienes no Inventariados o en
+
+Proceso de Registro.
+
+81 Donaciones, legados y herencias.
+
+82 Libros de actas, de acuerdos, de
+
+registros, y otros, así como archivos
+
+digitales y multimedia, medios
+
+electrónicos, magnéticos, ópticos o
+
+cualquier otro medio.
+
+83 Padrones y expedientes.
 
 ###### Artículo 41.
 
@@ -629,237 +897,67 @@ Si los servidores públicos salientes consideran que existe información complem
 
 Los archivos en trámite, concentración e históricos no registrados en el Sistema Electrónico, así como los registrados y no soportados documentalmente, no podrán ser reconocidos por los servidores públicos que reciben.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
+
 ###### Artículo 43.
 
-El rubro del marco jurídico de actuación deberá contener como mínimo las leyes, reglamentos, decretos legislativos y gubernativos, acuerdos, manuales, lineamientos y demás instrumentos legales que regulen la estructura, funcionamiento, atribuciones y funciones del Ente Público correspondiente.
-
-Este rubro deberá contener como mínimo los datos del título, el cuerpo normativo, la fecha de expedición, promulgación y los datos de publicación del Periódico Oficial del Estado o Gaceta Municipal.
+El apartado de Normatividad deberá contener como mínimo los datos del título, el cuerpo normativo, la fecha de expedición, promulgación y los datos de publicación del Periódico Oficial del Estado o Gaceta Municipal.
 
 ###### Artículo 44.
 
-El rubro de instrumentos de planeación deberá incluir los planes de desarrollo estatal o municipal, los planes de desarrollo regionales, programas generales, presupuestarios, institucionales, regionales, sectoriales, especiales y de obras públicas.
+(DEROGADO, P.O. 18 DE MARZO DE 2022)
 
 ###### Artículo 45.
 
-La información contable financiera quedará conformada, al menos, con la documentación siguiente:
-
-I. Estado de actividades;
-
-II. Estado de situación financiera;
-
-III. Estado de cambios en la situación financiera;
-
-IV. Estado de flujos de efectivo;
-
-V. Informes sobre pasivos contingentes;
-
-VI. Estado analítico del activo;
-
-VII. Estado analítico de la deuda, del cual se derivarán las siguientes clasificaciones:
-
-a. Corto y largo plazo, y
-
-b. Fuentes de financiamiento;
-
-VIII. Balanzas anuales de comprobación al último nivel de afectación, mismo que será presentado solamente en medios magnéticos o digitales, y
-
-IX. El respaldo del Sistema de Contabilidad que se utilice.
+(DEROGADO, P.O. 18 DE MARZO DE 2022)
 
 ###### Artículo 46.
 
-La información presupuestaria quedará conformada, por lo menos, con lo siguiente:
-
-I. Ley de Ingresos y Presupuesto de Egresos;
-
-II. Estado analítico de ingresos, por rubro de ingresos y por fuente de financiamiento, y
-
-III. Estado analítico del ejercicio del presupuesto de egresos, que considere la clasificación por objeto del gasto, por tipo de gasto, administrativa y funcional.
+(DEROGADO, P.O. 18 DE MARZO DE 2022)
 
 ###### Artículo 47.
 
-La información programática quedará conformada, por lo menos, con la información siguiente:
+(DEROGADO, P.O. 18 DE MARZO DE 2022)
 
-I. Gasto por categoría programática;
-
-II. Programas y proyectos de inversión, e
-
-III. Indicadores de resultados.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
 ###### Artículo 48.
 
-Lo correspondiente a los recursos humanos y estructura orgánica, quedará conformado, al menos, con la información y documentación siguiente:
-
-I. Plantilla y expedientes de personal:
-
-a. Relación actualizada por nombre, adscripción, categoría, señalando si el trabajador es de confianza, base, temporal, por sueldos asimilados a salarios; con el detalle de su percepción mensual, su remuneración o retribución mensual, sueldo base, compensaciones, recompensas, bonos, estímulos, gratificaciones, dietas, aguinaldos, gastos de gestión y de representación;
-
-b. Relación de personal sujeto a pago de honorarios, especificando nombre de la persona que presta sus servicios, importe mensual de honorarios y la descripción de actividades;
-
-c. Relación de personal con licencia, permiso o comisión, señalando el nombre, el área a la cual está adscrito el servidor público, el área a la que está comisionado y el periodo de ausencia;
-
-II. Salarios, sueldos y demás remuneraciones y retribuciones pendientes de pago;
-
-III. Relación de las incidencias de personal, y
-
-IV. Estructura Orgánica.
-
-Cuando dos o más unidades administrativas de un mismo Ente Público tengan a su cargo la información sobre el registro de los recursos humanos, se asentarán en el formato correspondiente los nombres y domicilios de cada responsable para efecto de oír y recibir notificaciones en la etapa de validación y verificación.
+En lo correspondiente a los recursos humanos y estructura orgánica, cuando dos o más unidades administrativas de un mismo Ente Público tengan a su cargo la información sobre el registro de los recursos humanos, se asentarán en el formato correspondiente los nombres y domicilios de cada responsable para efecto de oír y recibir notificaciones en la etapa de validación y verificación.
 
 ###### Artículo 49.
 
-Los recursos financieros quedarán conformados, al menos, con la documentación siguiente:
+(DEROGADO, P.O. 18 DE MARZO DE 2022)
 
-I. Arqueos de caja y fondos revolventes;
-
-II. Relación analítica de cuentas bancarias o cualquier otro producto financiero, que contenga los saldos al corte del día anterior al que se establezca legal y formalmente la fecha del Acto Protocolario;
-
-III. Oficio de recibido de la solicitud de cambio de firmas ante las instituciones bancarias correspondientes;
-
-IV. Conciliaciones bancarias soportadas con los estados de cuenta correspondientes, del mes inmediato anterior al del Acto Protocolario;
-
-V. Talonarios de chequeras acompañados de la relación con los nombres y firmas de los servidores públicos dados de baja o salientes;
-
-VI. Relación de los dispositivos de seguridad electrónicos para realizar operaciones bancarias por medio de la banca electrónica, mismos que se entregarán en sobre cerrado en el Acto Protocolario;
-
-VII. Relación de inversiones en valores, y
-
-VIII. Créditos fiscales a favor del Ente Público.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
 ###### Artículo 50.
 
-Los recursos materiales deberán contener el valor de adquisición o de avalúo correspondiente a cada bien, y quedará conformado, al menos, con la documentación siguiente:
+Los recursos materiales deberán contener el valor de adquisición y/o registro contable y/o del avalúo correspondiente a cada bien.
 
-I. Inventarios de Bienes Muebles, son los bienes muebles requeridos en el desempeño de las actividades del Ente Público:
-
-a. Mobiliario y Equipo de Administración: Toda clase de mobiliario y equipo de administración, bienes informáticos y equipo de cómputo, bienes artísticos, obras de arte, objetos valiosos y otros elementos coleccionables, así como las refacciones mayores correspondientes a este concepto. Incluye los pagos por adjudicación, expropiación e indemnización de bienes muebles a favor del Gobierno.
-
-b. Mobiliario y Equipo Educacional y Recreativo: Equipos educacionales y recreativos. Incluye refacciones y accesorios mayores correspondientes a estos activos.
-
-c. Equipo e Instrumental Médico y de Laboratorio: Equipo e instrumental médico y de laboratorio requerido para proporcionar los servicios médicos, hospitalarios y demás actividades de salud e Investigación científica y técnica. Incluye refacciones y accesorios mayores correspondientes a estos activos.
-
-d. Vehículos y Equipo de Transporte: Toda clase de equipo de transporte terrestre, ferroviario, aéreo, lacustre, fluvial y auxiliar de transporte. Incluye refacciones y accesorios mayores correspondientes a estos activos.
-
-e. Equipo de Defensa y Seguridad: Maquinaria y equipo necesario para el desarrollo de las funciones de seguridad pública y demás bienes muebles instrumentales de inversión, requeridos durante la ejecución de programas, investigaciones, acciones y actividades en materia de seguridad pública y nacional, cuya realización implique riesgo, urgencia y confidencialidad extrema, en cumplimiento de funciones y actividades oficiales, en los términos de la legislación aplicable.
-
-f. Maquinaria, otros equipos y herramientas: Toda clase de maquinaria y equipo no comprendidas en las cuentas anteriores. Incluye refacciones y accesorios mayores correspondientes a estos activos.
-
-g. Colecciones, obras de arte y objetos valiosos: Bienes artísticos, obras de arte, objetos valiosos y otros elementos coleccionables, excepto los comprendidos y declarados en los artículos 33 y 34 de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, o cualquier otro expresamente señalado como tal de acuerdo con las disposiciones legales aplicables.
-
-h. Activos biológicos: Representa el monto de toda clase de especies animales y otros seres vivos, tanto para su utilización en el trabajo como para su fomento, exhibición y reproducción.
-
-II. Bienes intangibles, son los derechos por el uso de activos de propiedad industrial, comercial, intelectual y otros:
-
-a. Software: Paquetes y programas de informática, para ser aplicados en los sistemas administrativos y operativos computarizados del Ente Público.
-
-b. Patentes, Marcas y Derechos: Patentes, marcas y derechos, para el desarrollo de las funciones del Ente Público.
-
-c. Concesiones y Franquicias: Derechos de explotación y franquicias para el uso del Ente Público.
-
-d. Licencias: Permisos informáticos e intelectuales, así como permisos relacionados con negocios.
-
-e. Otros activos intangibles: Derechos por el uso de activos de la propiedad industrial, comercial, intelectual y otros no incluidos en las cuentas anteriores.
-
-III. Inventarios de bienes inmuebles, representa el monto de todo tipo de bienes inmuebles y construcciones, señalando los datos del Registro Público de la Propiedad y del Comercio, cuando menos a valor catastral, valor en libros, descripción del bien, tipo de predio, ubicación y el uso actual que se le da al bien inmueble:
-
-IV. Inventarios de bienes menores, se refiere a los que a criterio de cada Ente Público no son considerados como activo no circulante, sin embargo, opera como control, y éste deberá contener como mínimo cantidad, descripción del bien, responsable del resguardo, ubicación, marca y estado del bien, y
-
-V. Relación de almacén y bienes de consumo, referente al material para construcción, material eléctrico, material para oficina, despensas y otros; por unidad administrativa responsable, conteniendo como mínimo el tipo, ubicación y área responsable del almacén, la cantidad en existencia, unidad de medida, descripción, costo unitario y el importe total.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
 ###### Artículo 51.
 
-El rubro de obras públicas y acciones comprenderá las de los programas ejecutados y en proceso durante el año en que ocurre el Acto Protocolario, debiendo contar con sus expedientes unitarios respectivos, integrados, al menos, con la información siguiente:
+El apartado de obra pública comprenderá la ejecutada y en proceso.
 
-I. Ejercicio fiscal al que pertenecen los recursos;
-
-II. Ramo, Programa y Subprograma;
-
-III. Fuente(s) de financiamiento;
-
-IV. Número de la cuenta bancaria;
-
-V. Número y nombre de la obra o acción;
-
-VI. Inversión autorizada, comprometida, devengada, pagada y por ejercer;
-
-VII. Importes de anticipos otorgados, amortizados y el saldo;
-
-VIII. Georreferenciación de cada obra o acción;
-
-IX. Metas programadas;
-
-X. Fotografías de las etapas de avance;
-
-XI. Porcentaje de avance físico y financiero;
-
-XII. Estatus de la obra;
-
-XIII. Modalidad de ejecución y proceso de adjudicación;
-
-XIV. Relación de la documentación integrada en el expediente unitario de obra o acción, y
-
-XV. Demás documentación que requieran las disposiciones normativas aplicables.
-
-Si existen obras o acciones en proceso o no ha sido turnada la información generada durante la ejecución al área responsable de la conformación del Expediente, corresponderá a cada departamento, área o dirección, de acuerdo con sus funciones, la integración del expediente unitario llenando solo la parte que le corresponde en el formato respectivo.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
 ###### Artículo 52.
 
-El rubro de asuntos en trámite deberá contener la relación de procedimientos, juicios o asuntos en trámite ante autoridades judiciales, laborales o administrativas, con la descripción precisa de su situación procedimental, así como la especificación detallada de sus posibles consecuencias jurídicas. En general, toda la información que se estime relevante para garantizar la continuidad de la gestión institucional.
+El apartado asuntos legales deberá contener la relación de procedimientos, juicios o asuntos en trámite ante autoridades judiciales, laborales o administrativas, precisando la etapa procesal, el pasivo contingente en su caso y toda la información que se estime relevante para garantizar la continuidad de la gestión institucional.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
 ###### Artículo 53.
 
-El rubro de transparencia comprenderá la información y documentación de las obligaciones en esta materia y su cumplimiento, integrando, al menos, la información siguiente:
+El apartado de transparencia comprenderá la información y documentación de las obligaciones en esta materia y su cumplimiento.
 
-I. Documentos relativos al Comité de Transparencia, tales como nombramientos, actas, entre otros;
-
-II. Documentos relativos a la Unidad de Transparencia, tales como:
-
-a. Relación de solicitudes de información pendientes de atender;
-
-b. Relación de recursos de revisión en trámite;
-
-c. Índice de expedientes clasificados como reservados;
-
-d. Tabla de aplicabilidad avalada por el Comité de Transparencia;
-
-e. Aviso de privacidad integral y simplificado;
-
-f. Relación de las unidades administrativas y los formatos que le corresponden en la Plataforma Nacional de Transparencia;
-
-III. Acuses de cumplimiento de las últimas publicaciones obligadas por ley, y
-
-IV. Usuario y contraseña de la Plataforma Nacional de Transparencia del sujeto obligado y las unidades administrativas.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
 ###### Artículo 54.
 
-Se comprenderá un rubro para la relación de libros, bibliografía, expedientes, archivos documentales, digitales y multimedia, medios electrónicos, magnéticos, ópticos o cualquier otra información, respecto de hechos, actos administrativos, jurídicos, fiscales o contables producidos, recibidos y utilizados en el ejercicio de las facultades, competencias o funciones de los sujetos obligados, correspondientes a:
-
-I. Asuntos pendientes;
-
-II. Acuerdos pendientes;
-
-III. Archivo de trámite;
-
-IV. Contratos distintos a obra pública;
-
-V. Contratos de fideicomisos;
-
-VI. Convenios;
-
-VII. Donaciones, legados y herencias;
-
-VIII. Libros de actas, de acuerdos, de registros, y otros;
-
-IX. Bibliografía;
-
-X. Padrones y expedientes;
-
-XI. Procesos de concurso, licitación y asignación, distintos a obra pública;
-
-XII. Programas de asistencia social;
-
-XIII. Software, y
-
-XIV. Los demás que determinen las disposiciones jurídicas y administrativas aplicables.
+En los apartados donde se relacionen libros, bibliografía, expedientes y archivos documentales, deberán incluirse también los digitales y multimedia, medios electrónicos, magnéticos, ópticos o cualquier otra información relevante para el buen despacho de los asuntos de la Unidad Administrativa de que se trate.
 
 ###### Artículo 55.
 
@@ -875,13 +973,17 @@ Cuando la información se encuentre en medios electrónicos, magnéticos, óptic
 
 Cuando el Proceso de Entrega Recepción se lleve a cabo a través del uso de medios electrónicos, magnéticos, ópticos o multimedia, se utilizarán los mecanismos que garanticen la disponibilidad, consulta, respaldo y seguridad digital, en atención a la naturaleza e importancia de la información.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
+
 ###### Artículo 58.
 
-Las Autoridades Supervisoras serán responsables de revisar y dejar constancias sobre los avances de la integración del expediente de Entrega Recepción, en apego a los plazos establecidos en las disposiciones legales que regulan la organización interna del Ente Público de que se trate.
+Las Autoridades Supervisoras coordinarán en el ámbito de sus respectivas atribuciones las acciones sobre los avances de la integración del expediente de Entrega Recepción, en apego a los plazos establecidos en las disposiciones legales que regulan la organización interna del Ente Público de que se trate.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
 ###### Artículo 59.
 
-El Expediente se emitirá en original y tres copias. El original deberá permanecer bajo resguardo del Ente Público; además de tres copias adicionales, una de ellas para quien entrega, otra para quien recibe y, la última, para la autoridad supervisora.
+El Expediente se emitirá en original por duplicado, debiendo quedar uno para el servidor público entrante y otro para el servidor público saliente, y dos copias digitales, mismas que deberán permanecer bajo resguardo del Ente Público y de la Autoridad Supervisora.
 
 ## TÍTULO QUINTO. PROTOCOLO DE LA ENTREGA RECEPCIÓN
 
@@ -893,17 +995,25 @@ CAPÍTULO
 
 En el Acto Protocolario se levantará un Acta Administrativa ante la autoridad supervisora que corresponda en la que se anexarán los documentos siguientes:
 
-I. Original y copia para compulsa de las identificaciones oficiales vigentes de los participantes;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
 
-II. Original y copia para compulsa del comprobante de domicilio para efectos de notificación;
+I. Copia debidamente compulsada de las identificaciones oficiales vigentes de los participantes;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
+
+II. Copia debidamente compulsada del comprobante de domicilio para efectos de notificación;
 
 III. Los oficios o documentos originales mediante los cuales se notifica a la autoridad supervisora competente, sobre las personas que intervendrán en el Acto Protocolario;
 
-IV. Copia de la constancia de mayoría y validez, nombramiento o documento expedido por autoridad competente, que acredite el cargo, empleo o comisión de quien interviene en el Acto Protocolario. Tratándose del titular del Poder Ejecutivo se deberá anexar copia de la Constancia de Validez de la Elección expedida por la autoridad electoral del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
+
+IV. El oficio por medio del cual se designa a la persona responsable de fungir como autoridad supervisora competente en el acto protocolario;
 
 V. Las constancias relativas a todas aquellas actuaciones desarrolladas por la Coordinación Técnica;
 
-VI. El Acta Administrativa de la integración del Comité de Entrega Recepción, cuando proceda, y
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
+
+VI. Las constancias relativas a todas aquellas actuaciones desarrolladas por la Comisión de Entrega Recepción, cuando proceda, y
 
 VII. El Expediente.
 
@@ -919,13 +1029,17 @@ II. Especificar el asunto u objeto principal del acto o evento del cual se va a 
 
 III. El nombre, cargo u ocupación de las personas que intervienen, quienes se identificarán plenamente;
 
-IV. Especificar el domicilio del servidor público que entrega para efectos de notificación durante todo el Proceso de Entrega Recepción;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
+
+IV. Especificar el domicilio y correo electrónico del servidor público que entrega para efectos de notificación durante todo el Proceso de Entrega Recepción;
 
 V. El apercibimiento a los intervinientes de conducirse con verdad y la protesta escrita;
 
 VI. La designación de cuatro personas que intervendrán como testigos, dos nombrados por los servidores públicos que realizan la entrega y dos por quienes reciben. En caso de que no se designen, serán nombrados por la autoridad supervisora;
 
-VII. Especificar el número, tipo y contenido de los documentos que integran el Expediente;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2022)</small>
+
+VII. Especificar el número, tipo y contenido de los documentos que integran el Expediente, de conformidad con los elementos mínimos determinados en el artículo 34 de la presente Ley, conforme al apartado que corresponda, de acuerdo con el puesto, cargo o comisión que desempeñaba el servidor público saliente.
 
 VIII. Precisar la entrega de dinero, llaves, token, sellos, equipos electrónicos, entre otros;
 
@@ -971,47 +1085,45 @@ DEL PROCEDIMIENTO DE VERIFICACIÓN Y VALIDACIÓN FÍSICA DEL EXPEDIENTE.
 
 ### CAPÍTULO I. NOTIFICACIONES
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
+
 ###### Artículo 64.
 
-La etapa de Verificación y Validación física de la información contenida en el Expediente tiene por objeto revisar los formatos, anexos y, en general, la documentación entregada, así como constatar los actos u omisiones que en su caso pudieran derivarse.
+La etapa de Verificación y Validación física de la información contenida en el Expediente tiene por objeto revisar los formatos, anexos y, en general, la documentación entregada, así como constatar los actos, omisiones o inconsistencias, que en su caso pudieran derivarse de la integración del expediente.
 
-Deberá llevarse a cabo por el o los servidores públicos que reciben o por quien éstos designen, en un plazo de cuarenta días hábiles siguientes a la firma del Acta Administrativa del Acto Protocolario.
+Deberá llevarse a cabo por el o los servidores públicos que reciben, en un plazo de sesenta días naturales siguientes a la firma del Acta Administrativa del Acto Protocolario.
 
-El plazo a que se refiere el párrafo anterior podrá ampliarse hasta por diez días naturales más, siempre que el presidente municipal correspondiente, o bien, el titular del Ente Público o Secretaría, lo soliciten por escrito y, por lo menos, con cinco días hábiles anteriores a que termine el plazo establecido en el párrafo que precede.
-
-Derivado de esta etapa, se levantará el Acta de Verificación y Validación en presencia de las Autoridades Supervisoras, la persona Titular del Ente Público de que se trate y de dos testigos, misma que, en su caso, contendrá los actos u omisiones que no hayan sido aclarados.
+Derivado de esta etapa, se levantará el Acta de Verificación y Validación en presencia de las Autoridades Supervisoras, la persona Titular del Ente Público de que se trate y de dos testigos, misma que, en su caso, contendrá los actos, omisiones o inconsistencias observadas por el servidor público que recibió.
 
 ###### Artículo 65.
 
-Dentro del plazo señalado en el artículo anterior para la verificación física del expediente de entrega recepción, el servidor público saliente podrá ser requerido por quien recibe, para que haga las aclaraciones y proporcione la información adicional que se le solicite.
+(DEROGADO, P.O. 18 DE MARZO DE 2022)
 
-En caso de que la o el servidor público saliente no atienda las solicitudes o aclaraciones que se le formularon por escrito, tales hechos se harán constar en el acta administrativa de verificación y validación a que se refiere el artículo anterior.
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2022)</small>
 
-## TÍTULO SÉPTIMO. NOTIFICACIONES, SANCIONES Y MEDIO DE IMPUGNACIÓN
+## TITULO SÉPTIMO. DEL PROCEDIMIENTO DE ACLARACIONES
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
 ###### Artículo 66.
 
-Las Actas de Hechos se turnarán a la Autoridad Supervisora competente, a los cinco días hábiles del vencimiento del término, establecido en el Artículo 64 de la presente Ley, y serán notificadas en términos del Código de Justicia Administrativa del Estado de Quintana Roo, a quien o quienes fueron determinados como responsables, al día hábil posterior de haberlas recibido.
+Las Actas de Hechos que contengan las observaciones, actos, omisiones y/o inconsistencias detectadas del Expediente de Entrega Recepción, se turnarán a la Autoridad Supervisora competente, dentro del plazo de los 60 días naturales especificados en el artículo 58 de la presente Ley.
 
-Las personas determinadas como responsables deberán presentar la información, los recursos, los bienes y, en general, los elementos que consideren necesarios para el esclarecimiento de los actos u omisiones determinados, dentro de los diez días hábiles siguientes a la recepción de la notificación.
-
-La Autoridad Supervisora competente, deberá remitir copia de la notificación a quien determinó las inconsistencias, para los efectos legales a que haya lugar.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
 
 ###### Artículo 67.
 
-La persona que haya sido notificada de alguna observación deberá aclarar ante la Autoridad Supervisora competente, las inconsistencias derivadas de la Verificación y Validación física del contenido del Expediente, para lo cual podrá:
+La persona que haya sido notificada de alguna observación deberá aclarar ante la Autoridad Supervisora competente, las inconsistencias derivadas de la Verificación y Validación física del contenido del Expediente, para lo cual se sujetara al siguiente procedimiento:
 
-I. Comparecer personalmente en día y hora hábil ante la Autoridad competente o quien ésta designe, para suscribir Acta de Hechos con la presencia de quien determinó la inconsistencia y dos testigos, a efecto de hacer constar si procede o no la aclaración.
+l. La autoridad supervisora competente, notificará a través del correo electrónico proporcionado en el Acto Protocolario, al servidor público saliente, sobre las observaciones realizadas sobre actos, omisiones o inconsistencias detectadas en el Expediente de Entrega Recepción, citándolo a efecto de que comparezca a una junta de aclaraciones, dicha notificación deberá realizarse en un plazo no menor a cinco días hábiles previos al día de la Junta.
 
-En caso de no haberse aclarado los actos u omisiones determinados en la Entrega Recepción de las inconsistencias derivadas en la etapa de verificación y validación, se le otorga a la Autoridad Supervisora competente, la facultad de realizar el procedimiento del desahogo de las aclaraciones, así como de proceder en términos de las leyes y disposiciones aplicables, a través de sus áreas respectivas.
+La Autoridad Supervisora competente, deberá remitir copia digital de la notificación a quien determinó las inconsistencias, citándolo a comparecer a dicha Junta de Aclaración, para los efectos legales a que haya lugar;
 
-II. Comparecer personalmente para ofrecer pruebas y alegatos, en día y hora hábil ante la Autoridad Supervisora competente o quien ésta designe, para suscribir Acta de Hechos con la presencia de dos testigos, en el caso de no estar presente quien determinó la inconsistencia, la cual se le turnará el mismo día o el día hábil siguiente de haberse suscrito, para que, dentro de los cinco días hábiles siguientes, haga del conocimiento a la Autoridad Supervisora correspondiente si procede o no la aclaración, y
+II. El servidor público saliente deberá presentar en la junta de aclaraciones la información, los recursos, los bienes y, en general, los elementos que consideren necesarios para el esclarecimiento de las inconsistencias y omisiones detectadas;
 
-III. Presentar su escrito, el cual se turnará a quien determinó la inconsistencia para que dentro de los cinco días hábiles siguientes haga del conocimiento a la Autoridad Supervisora competente si procede o no la aclaración; en caso de que las aclaraciones no procedan, se notificará quien corresponda a los cinco días hábiles siguientes de su recepción.
+III. Si la persona notificada no comparece el día y hora señalado para la junta de aclaraciones, la Autoridad Supervisora competente procederá de conformidad con lo establecido en la Ley General y las disposiciones legales que resulten aplicables, y
 
-Si el servidor público que determinó la inconsistencia no se pronuncia sobre las aclaraciones presentadas éstas se tendrán como aclaradas.
-
-Si la persona notificada no comparece en el término concedido, el servidor público que recibe deberá hacer del conocimiento por escrito de tal omisión a la Autoridad Supervisora competente para que proceda de conformidad con lo establecido en la Ley General y las disposiciones legales que resulten aplicables.
+IV. De la junta se levantará el acta correspondiente, con dos testigos, anexando los documentos e información, que en su caso presentará el servidor público saliente, así como las manifestaciones realizadas por los intervinientes.
 
 ###### Artículo 68.
 
@@ -1025,27 +1137,21 @@ En el caso del Proceso de Entrega Recepción Individual, una vez terminado el pr
 
 El procedimiento de observaciones y aclaraciones se regirá por las disposiciones relativas a los actos, procedimientos, resoluciones e impugnaciones de la Administración Pública Estatal y Municipal centralizada, previstos por el Código de Justicia Administrativa del Estado de Quintana Roo, y en lo no previsto, por las disposiciones aplicables en el Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo.
 
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO [N. DE E. ANTES TÍTULO SÉPTIMO], P.O. 18 DE MARZO DE 2022)</small>
+
+## TÍTULO OCTAVO. NOTIFICACIONES Y SANCIONES
+
 ### CAPÍTULO II. SANCIONES
 
 ###### Artículo 71.
 
-Se notificarán personalmente:
+Se notificarán, a través de los correos electrónicos previamente proporcionados por los participantes en el procedimiento de Entrega Recepción, los siguientes actos y/o acuerdos, observándose en todo momento los principios de legalidad y debido proceso:
 
 I. Las Observaciones y/o requerimientos;
 
-II. Las solicitudes de informes o documentos;
+II. Las solicitudes de informes o documentos, y
 
-III. Las citaciones;
-
-IV. Los autos o acuerdos que admitan el recurso de Revisión;
-
-V. Los acuerdos que admitan o desechen pruebas;
-
-VI. Los autos o acuerdos que citen para resolución, en definitiva;
-
-VII. Las resoluciones, y
-
-VIII. La imposición de las multas.
+III. Las citaciones.
 
 ###### Artículo 72.
 
@@ -1106,3 +1212,23 @@ EN CUMPLIMIENTO DE LAS OBLIGACIONES QUE ME IMPONEN LOS ARTÍCULOS 91 FRACCIÓN I
 DADO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS TRECE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL VEINTIUNO.
 
 EL GOBERNADOR DEL ESTADO DE QUINTANA ROO, C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ, RUBRICA; EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO, DR. JORGE ARTURO CONTRERAS CASTILLO, RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 224 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ENTREGA Y RECEPCIÓN DE LOS PODERES PÚBLICOS, AYUNTAMIENTOS, ÓRGANOS PÚBLICOS AUTÓNOMOS Y DE LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. La integración del expediente de entrega recepción, se ajustará a los formatos vigentes en los entes públicos que corresponda, hasta en tanto, se emita el nuevo Sistema de Entrega y Recepción para el Estado de Quintana Roo.
+
+TERCERO. Los trabajos para la emisión del nuevo Sistema de Entrega y Recepción para el Estado de Quintana Roo, serán coordinados por la Auditoria Superior del Estado.
+
+CUARTO. La Auditoría Superior del Estado y la Secretaría de la Contraloría del Gobierno del Estado, en un plazo no mayor a sesenta días hábiles contados a partir de la entrada en vigor del presente decreto emitirán los formatos y lineamientos generales del proceso de entrega y recepción necesarios para el desarrollo e implementación del nuevo Sistema de Entrega y Recepción para el Estado de Quintana Roo.
+
+QUINTO. La Auditoría Superior del Estado una vez emitidos y publicados en el Periódico Oficial del Estado, los formatos y lineamientos generales del proceso de entrega y recepción, contará con un plazo no mayor a noventa días hábiles para establecer el Nuevo Sistema de Entrega y Recepción para el Estado de Quintana Roo, siempre y cuando tenga en su haber la suficiencia presupuestal necesaria para la implementación de dicho sistema.
+
+SEXTO. Los órganos internos de control de los poderes del Estado, Órganos Constitucionales Autónomos, así como de los Municipios del Estado podrán emitir y publicar las normas complementarias que resulten necesarias para la aplicación de la presente Ley en sus respectivos ámbitos de competencia, debiendo observar siempre los lineamientos generales emitidos por la Auditoría Superior del Estado.
+
+SÉPTIMO. Los procesos de entrega y recepción iniciados con anterioridad a la entrada en vigor de este Decreto serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
