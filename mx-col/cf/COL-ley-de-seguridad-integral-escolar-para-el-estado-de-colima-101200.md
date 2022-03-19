@@ -4,7 +4,7 @@ identifier: "COL-ley-de-seguridad-integral-escolar-para-el-estado-de-colima-1012
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-31"
-last_updated: "2020-01-11"
+last_updated: "2022-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE SEGURIDAD INTEGRAL ESCOLAR PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2022.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 31 de mayo de 2014.
 
@@ -179,7 +179,9 @@ III. La Ley que establece el Sistema Integral de Justicia para Adolescentes del 
 
 IV. La Ley de los Derechos y Deberes de las Niñas, los Niños y los Adolescentes del Estado de Colima;
 
-V. Ley Estatal de Responsabilidades de los Servidores Públicos;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
+
+V. Ley General de Responsabilidades Administrativas;
 
 VI. La Ley de Protección Civil del Estado de Colima;
 
@@ -199,15 +201,21 @@ I. El Gobernador del Estado;
 
 II. El Secretario General de Gobierno;
 
-III. El Secretario de Educación;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
+
+III. El Secretario de Educación y Cultura;
 
 IV. El Secretario de Seguridad Pública;
 
 V. El Secretario de Salud;
 
-VI. El Secretario de Desarrollo Social;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
 
-VII. El Procurador General de Justicia del Estado;
+VI. El Secretario de Bienestar, Inclusión Social y Mujeres;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
+
+VII. El Fiscal General del Estado;
 
 VIII. El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública;
 
@@ -235,9 +243,11 @@ IV. Ordenar la instrumentación de las estrategias y mecanismos necesarios a fin
 
 V. Las demás atribuciones que ésta Ley y las demás disposiciones legales le encomienden.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 9.
 
-Al Secretario General de Gobierno le corresponde en materia de seguridad integral escolar la supervisión y seguimiento de las actividades de las autoridades que pertenecen al Gabinete de Seguridad, en los términos de la Ley del Sistema de Seguridad Pública para el Estado de Colima, así como la representación del Ejecutivo Estatal en los términos de la Ley Orgánica de la Administración Pública del Estado de Colima.
+Al Secretario General de Gobierno le corresponde en materia de seguridad integral escolar la supervisión y seguimiento de las actividades de las autoridades que pertenecen al Gabinete de Seguridad, en los términos de la Ley del Sistema de Seguridad Pública para el Estado de Colima, así como la representación del Ejecutivo Estatal en los términos de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública del Estado.
 
 ###### ARTÍCULO 10.
 
@@ -295,15 +305,19 @@ III. Generar estadística precisa de las escuelas atendidas y difundirla para su
 
 IV. Las demás atribuciones que conforme a la presente Ley y demás disposiciones legales aplicables le competan.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 13.
 
-La Secretaría de Desarrollo Social en materia de Seguridad Integral Escolar, aplicará los programas que le correspondan en materia de bienestar social, a fin de mejorar el entorno social de las escuelas, en coordinación con las autoridades estatales y municipales competentes.
+La Secretaría de Bienestar, Inclusión Social y Mujeres en materia de Seguridad Integral Escolar, aplicará los programas que le correspondan en materia de bienestar social, a fin de mejorar el entorno social de las escuelas, en coordinación con las autoridades estatales y municipales competentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 14.
 
-Corresponde al Procurador General de Justicia del Estado:
+Corresponde al Fiscal General del Estado:
 
-Í. Coordinar y auxiliarse de las autoridades y entidades auxiliares previstas en la presente Ley, para el cumplimiento del objeto de la misma;
+I. Coordinar y auxiliarse de las autoridades y entidades auxiliares previstas en la presente Ley, para el cumplimiento del objeto de la misma;
 
 II. Proponer al Ejecutivo Estatal la adopción de medidas necesarias para el cabal cumplimiento del objeto de esta Ley, y en su caso, aplicarlas en el ámbito de su competencia;
 
@@ -715,7 +729,9 @@ El Consejo Estatal estará integrado por:
 
 I. El Gobernador, quien fungirá como Presidente Honorario;
 
-II. El Secretario de Educación, quien fungirá como Presidente Ejecutivo;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
+
+II. El Secretario de Educación y Cultura, quien fungirá como Presidente Ejecutivo;
 
 III. El Secretario General de Gobierno, quien fungirá como Vicepresidente;
 
@@ -723,7 +739,9 @@ IV. El Secretario de Seguridad Pública, quien fungirá como Secretario Técnico
 
 V. El Secretario de Salud;
 
-VI. El Procurador General de Justicia;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
+
+VI. El Fiscal General del Estado;
 
 VII. El Director General de la Unidad Estatal Protección Civil;
 
@@ -739,7 +757,9 @@ Los integrantes a que hacen mención las fracciones V, VI, VII; VIII, IX, X y XI
 
 El cargo de integrante del Consejo Estatal será honorífico y por cada miembro se deberá nombrar un suplente, el que tendrá las mismas atribuciones que su propietario en caso de la ausencia de éste.
 
-El Presidente del Consejo Estatal podrá invitar a servidores públicos y miembros de la sociedad civil que por sus conocimientos y experiencia sea necesario escuchar en el estudio y análisis de temas específicos.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2022)</small>
+
+El Presidente del Consejo Estatal podrá invitar a él o al Presidente de la Comisión de Educación, Cultura, Ciencia y Tecnología del H. Congreso del Estado y en general a servidores públicos y miembros de la sociedad civil que por sus conocimientos y experiencia sea necesario escuchar en el estudio y análisis de temas específicos.
 
 ###### ARTÍCULO 45.
 
@@ -1493,9 +1513,11 @@ Las sanciones administrativas previstas en el presente capítulo se impondrán a
 
 ### CAPÍTULO I. DE LA OBSERVANCIA DE ESTA LEY
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 121.
 
-La omisión en la aplicación de las disposiciones a que se refiere el capítulo anterior, se considerará falta grave, que se sancionará de acuerdo a la Ley Estatal de Responsabilidades de los Servidores Públicos.
+La omisión en la aplicación de las disposiciones a que se refiere el capítulo anterior, se considerará falta grave, que se sancionará de acuerdo a la Ley General de Responsabilidades Administrativas.
 
 ### CAPÍTULO II. DE LOS RECURSOS
 
@@ -1548,3 +1570,9 @@ P.O. 11 DE ENERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 194 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD INTEGRAL ESCOLAR PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 19 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 71.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD INTEGRAL ESCOLAR DEL ESTADO DE COLIMA.”]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
