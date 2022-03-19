@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-133091"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-02-01"
-last_updated: "2020-09-19"
+last_updated: "2022-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2022.
 
 Código publicado en la Edición Especial del Periódico Oficial del Estado de Jalisco, el viernes 1 de febrero de 2019.
 
@@ -130,6 +130,10 @@ XVI. La prevención de la discapacidad, la habilitación y la rehabilitación e 
 XVII. Las acciones de apoyo a los migrantes en estado de vulnerabilidad, que transitan por el territorio de la entidad; y
 
 XVIII. Los demás servicios que tiendan a atender y complementar el desarrollo de aquellas personas que por sí mismas no pueden satisfacer sus necesidades personales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE MARZO DE 2022)</small>
+
+Los sujetos de asistencia social tendrán derecho a recibir los servicios a los que hace referencia el presente artículo sin discriminación alguna, por lo que, cualquier acto u omisión discriminatorio que genere negación, distinción, exclusión, rechazo, menoscabo, impedimento o restricción de sus derechos o libertades, será causa de responsabilidad que se sancionará conforme al presente Código, a la Ley Estatal para Promover la Igualdad, Prevenir y Eliminar la Discriminación en el Estado de Jalisco, y demás disposiciones legales aplicables.
 
 ###### Artículo 5.
 
@@ -1656,3 +1660,9 @@ SEGUNDO. En tanto se nombra al titular del Órgano Interno de Control del Hogar 
 TERCERO. El organismo público descentralizado Hogar Cabañas deberá llevar a cabo las adecuaciones presupuestales necesarias para la creación de su Delegación Institucional.
 
 CUARTO. El organismo público descentralizado Hogar Cabañas deberá llevar a cabo las acciones necesarias para armonizar su normatividad interna, en un plazo no mayor a 60 días hábiles contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 19 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28746/LXIII/22 QUE REFORMA EL ARTÍCULO 4 DEL CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
