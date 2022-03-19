@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-para-prevenir-combatir-y-erradicar-la-trata-de-8932
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-01"
-last_updated: "2019-12-28"
+last_updated: "2022-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL PARA PREVENIR, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2022.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 1 de septiembre de 2012.
 
@@ -325,6 +325,28 @@ La Comisión sesionara por lo menos cada tres meses, a convocatoria de su Presid
 
 Para que se instale válidamente deberán estar presentes más de la mitad de sus integrantes y las decisiones se tomarán por el voto de la mayoría de los presentes.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 19 DE MARZO DE 2022)</small>
+
+En los casos en que no sea posible, la presencia física de los integrantes de la Comisión en un mismo lugar, las sesiones podrán celebrarse a distancia mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes;
+
+II. La interacción e intercomunicación en tiempo real para propiciar, la correcta deliberación de las ideas y asuntos;
+
+III. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. Transmitirse en vivo para el público en general;
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando el orden del día, y los documentos que contengan la información correspondiente, a los temas a desahogar;
+
+VII. La asistencia será tomada nominalmente al igual que todas las votaciones;
+
+VIII. La validez del acta de los acuerdos aprobados se acreditará con la constancia de la votación firmados por quien presidió la sesión; y
+
+IX. En caso de no verificarse quórum, el presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedara debidamente integrado con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
+
 ###### Artículo 14.
 
 La Comisión fomentará las acciones tendientes a fortalecer la participación ciudadana, la responsabilidad social, la cultura de la denuncia y la prevención social de los delitos, para lo cual deberá:
@@ -616,3 +638,9 @@ P.O. 28 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27721/LXII/19 QUE REFORMA EL ARTÍCULO 5 DE LA LEY ESTATAL PARA PREVENIR, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco.
+
+P.O. 19 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28744/LXIII/22 QUE ADICIONA EL ARTÍCULO 13 DE LA LEY ESTATAL PARA PREVENIR, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
