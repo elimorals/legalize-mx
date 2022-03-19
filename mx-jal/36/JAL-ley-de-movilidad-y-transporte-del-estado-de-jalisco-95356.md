@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2022-03-05"
+last_updated: "2022-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2022.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -67,13 +67,19 @@ IV. Determinar las bases para planear, establecer, regular, administrar, control
 
 V. Establecer la coordinación del Estado y los municipios para integrar y administrar el sistema de vialidad y tránsito, en los términos del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
 
-VI. Establecer los esquemas de coordinación institucional, así como la delimitación de las atribuciones para el cumplimiento de los objetivos y fines de los programas de fomento a la cultura y educación vial; y
+VI. Establecer los esquemas de coordinación institucional, así como la delimitación de las atribuciones para el cumplimiento de los objetivos y fines de los programas de fomento a la cultura y educación vial;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
 
-VII. Implementar preferentemente avances tecnológicos tendientes al mejoramiento del servicio público de transporte en todas sus modalidades, en lo que atañe al cobro de tarifas mediante el sistema de prepago; a la contratación y pago del servicio a través de medios electrónicos; a la realización de los trámites ante la Secretaría y la Dirección de Área Registro Estatal de Movilidad y Transporte del Estado de Jalisco; así como al control vehicular mediante un dispositivo que permita su identificación por radiofrecuencia que en lo futuro sustituya a la placa metálica que actualmente se utiliza para esos efectos.
+VII. Implementar preferentemente avances tecnológicos tendientes al mejoramiento del servicio público de transporte en todas sus modalidades, en lo que atañe al cobro de tarifas mediante el sistema de prepago; a la contratación y pago del servicio a través de medios electrónicos; a la realización de los trámites ante la Secretaría y la Dirección de Área (sic) Registro Estatal de Movilidad y Transporte del Estado de Jalisco; así como al control vehicular mediante un dispositivo que permita su identificación por radiofrecuencia que en lo futuro sustituya a la placa metálica que actualmente se utiliza para esos efectos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MARZO DE 2022)</small>
+
+VIII. Reconocer y respetar el derecho humano a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE MARZO DE 2022)</small>
 
 Las disposiciones de esta ley y sus reglamentos son de orden público e interés social, debiéndose aplicar supletoriamente en lo conducente y no previsto, las disposiciones de la ley que regule el procedimiento administrativo del estado de Jalisco y las instancias que deriven del mismo.
 
@@ -4670,3 +4676,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Poder Ejecutivo a través de la Secretaría del Transporte deberá de realizar los ajustes necesarios para el cumplimiento de la accesibilidad universal en la renovación de los vehículos una vez entrada (sic) en vigor el presente decreto, considerando la renovación del parque vehicular de la etapa 2 del Reordenamiento, Reestructuración e Implementación del Sistema de Transporte Público, Mi Transporte, así como de las renovaciones que se realicen en lo consecutivo de acuerdo al dictamen correspondiente.
 
 TERCERO. El Gobernador Constitucional del Estado de Jalisco dispondrá de noventa días naturales a partir de la publicación del presente decreto, para realizar las adecuaciones necesarias al Reglamento de la Ley de Movilidad y Transporte del Estado de Jalisco, para el cumplimiento del presente decreto.
+
+P.O. 19 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28743/LXIII/22 QUE REFORMA EL ARTÍCULO 1° DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
