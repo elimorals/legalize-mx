@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-prevencion-tratamiento-y-control-de-las-49482"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-18"
-last_updated: "2016-11-22"
+last_updated: "2022-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49482&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2022.
 
 Ley publicada en el Suplemento No 4 del Periódico Oficial del Estado de Colima, el sábado 18 de febrero de 2006.
 
@@ -81,11 +81,15 @@ IV.- Promover la participación comunitaria en la prevención de las causas y co
 
 V.- Promover el tratamiento y rehabilitación de los adictos, mediante el establecimiento de centros especializados, que funcionen con base en sistemas modernos de tratamiento y rehabilitación, fundados en el respeto a la integridad y a la libre decisión de los farmacodependientes, y con la participación de los sectores social y privado, cuidando que los programas se ajusten a la Norma Oficial Mexicana establecida para la prevención, tratamiento y control de las adicciones, así como al Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia.
 
-### CAPÍTULO II. DEL CONSEJO ESTATAL CONTRA LAS ADICCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE MARZO DE 2022)</small>
+
+### CAPÍTULO II. CONSEJO ESTATAL DE SALUD MENTAL Y ADICCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 4.
 
-La Secretaría de Salud concertará a través del Consejo Estatal contra las Adicciones, con las autoridades de los sectores educativo, asistencial, de desarrollo social, de Seguridad Pública y de Procuración de Justicia, la integración de un Plan Estatal contra las adicciones, y el fortalecimiento de acciones coordinadas tendientes a prevenir el uso de substancias adictivas, así como el tratamiento y rehabilitación de los adictos y sus familias, tanto a través de los centros oficiales como de los sectores social y privado.
+La Secretaría de Salud concertará a través del Consejo Estatal de Salud Mental y Adicciones, con las autoridades de los sectores educativo, asistencial, de desarrollo social, de Seguridad Pública y de Procuración de Justicia, la integración de un Plan Estatal contra las adicciones, y el fortalecimiento de acciones coordinadas tendientes a prevenir el uso de substancias adictivas, así como el tratamiento y rehabilitación de los adictos y sus familias, tanto a través de los centros oficiales como de los sectores social y privado.
 
 > <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -95,11 +99,11 @@ En todos los planes y programas para la prevención, tratamiento, control y reha
 
 Dicho Programa será de observancia obligatoria para los establecimientos de los sectores público, privado y social que realicen actividades preventivas, de tratamiento y de control de las adicciones y la farmacodependencia.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 5.
 
-El Consejo atenderá las directrices normativas que emita la Comisión Nacional Contra las Adicciones.
-
-Se debe entender por Consejo, al Consejo Estatal contra las Adicciones.
+El Consejo atenderá las directrices normativas que emita la Comisión Nacional Contra las Adicciones. Se debe entender por Consejo, al Consejo Estatal de Salud Mental y Adicciones.
 
 ###### ARTICULO 6.
 
@@ -107,7 +111,9 @@ El Consejo, estará integrado por:
 
 I.- Un Presidente Honorario, que será el Gobernador Constitucional del Estado;
 
-II.- Un Presidente Ejecutivo, que será el Secretario de Salud y Bienestar Social;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
+
+II. Un Presidente Ejecutivo, que será la persona titular de la Secretaría de Salud;
 
 III.- Un Coordinador General; designado por el Presidente Honorario, a propuesta del Presidente Ejecutivo;
 
@@ -117,23 +123,31 @@ V.- Los Vocales que serán un representante de cada una de las siguientes depend
 
 a).- Secretaría General de Gobierno;
 
-b).- Secretaría de Educación;
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2022)</small>
 
-c).- Secretaría de Cultura;
+b) Secretaría de Educación y Cultura;
 
-d).- Secretaría de Desarrollo Social;
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2022)</small>
 
-e).- Procuraduría General de Justicia del Estado;
+c) Subsecretaría de Cultura;
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2022)</small>
+
+d) Secretaría de Bienestar, Inclusión Social y Mujeres;
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2022)</small>
+
+e) Fiscalía General del Estado;
 
 f).- Sistema Estatal para el Desarrollo Integral de la Familia;
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2022)</small>
 
-g).- Comisión de Salud, Deporte y Fomento del Sano Esparcimiento del Congreso del Estado;
+g) Comisión de Salud y Deporte del Congreso del Estado;
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2022)</small>
 
-h).- Comisión de Seguridad Pública, Protección Civil, Prevención y Readaptación Social del Congreso del Estado;
+h) Comisión de Seguridad y Protección Civil del Congreso del Estado;
 
 i).- Los Ayuntamientos de la entidad;
 
@@ -150,6 +164,14 @@ n).- Instituto Colimense de la Juventud;
 ñ).- Centros de Integración Juvenil; y
 
 o).- Asociación de Padres de Familia, A.C.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2022)</small>
+
+p) Especialistas en Salud Mental; y
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2022)</small>
+
+q) Especialistas en Adicciones.
 
 A invitación del Presidente Ejecutivo del Consejo, los representantes en el Estado de cada una de las siguientes dependencias y entidades públicas de la federación, sociales o privadas:
 
@@ -648,3 +670,9 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 19 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “ DECRETO NÚM. 66.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE ADCCIONES EN EL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
