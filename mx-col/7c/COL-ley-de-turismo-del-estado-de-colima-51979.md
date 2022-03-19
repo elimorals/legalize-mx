@@ -4,7 +4,7 @@ identifier: "COL-ley-de-turismo-del-estado-de-colima-51979"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2020-05-30"
+last_updated: "2022-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE TURISMO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2022.
 
 Ley publicada en el Suplemento No. 8 al Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -175,13 +175,13 @@ VIII. Prestador de Servicios Turísticos: La persona física o moral que habitua
 
 IX. Programa de Ordenamiento: El Programa de Ordenamiento Turístico del Estado;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
 
-X. Secretaría: La Secretaría de Turismo del Estado;
+X. Subsecretaría: la Subsecretaría de Turismo del Estado;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
 
-XI. Secretario: El Secretario de Turismo en el Estado;
+XI. Subsecretario: la persona titular de la Subsecretaría de Turismo del Estado;
 
 > <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
 
@@ -525,7 +525,7 @@ La Secretaría, cuando se trate de proyectos de inversión en zonas de desarroll
 
 ### CAPÍTULO V. TURISMO ACCESIBLE
 
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2022)</small>
 
 ###### Artículo 26 Bis.
 
@@ -561,29 +561,63 @@ El programa será evaluado anualmente por la Secretaría, ciento ochenta días d
 
 ###### Artículo 26 Bis 3.
 
-La Secretaría, con el apoyo y coordinación de las dependencias competentes de las (sic) Administración Pública del Estado, promoverá la prestación de servicios turísticos con accesibilidad que tengan por objeto beneficiar a la población con alguna discapacidad.
+Las personas con discapacidad tienen derecho a gozar de las oportunidades y servicios turísticos en igualdad de circunstancias y en condiciones accesibles, por lo que el Estado y los municipios adoptarán las medidas pertinentes para garantizarles el disfrute de los mismos.
 
-> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 3 DE FEBRERO DE 2018)</small>
+La Subsecretaría, con el apoyo y coordinación de las dependencias competentes de las (sic) Administración Pública del Estado, promoverá la prestación de servicios turísticos con accesibilidad.
 
-La Secretaría podrá aplicar una Política Estatal que atienda al Turismo Accesible, en la cual se deberá tomar en cuenta cuando menos los siguientes aspectos:
+La misma obligación se cierne sobre las autoridades respecto a los sitios culturales con afluencia turística.
 
-I. Fomento a la infraestructura accesible;
+La Subsecretaría podrá aplicar una Política Estatal que atienda al Turismo Accesible, en la cual se deberá tomar en cuenta cuando menos los siguientes aspectos:
+
+I. Fomento a la infraestructura accesible, que permita la creación de entornos de diseño universal que ayuden a las personas con discapacidad a acceder y disfrutar de los servicios turísticos que se prestan en el Estado, así como a las familias con niños pequeños y a las personas adultas mayores;
 
 II. Aplicación de programas de calidad turística con criterios de accesibilidad e inclusión; y
 
 III. Difusión a los destinos turísticos que faciliten el uso y disfrute de su infraestructura a personas con discapacidad.
 
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2022)</small>
 
 ###### Artículo 26 Bis 4.
 
-Los prestadores de servicios deberán proveer lo necesario para que las personas con discapacidad cuenten con accesibilidad a sus servicios en condiciones adecuadas. La misma obligación se cierne sobre las autoridades respecto a los sitios culturales con afluencia turística.
+Los prestadores de servicios deberán proveer lo necesario para que las personas con discapacidad cuenten con accesibilidad a sus servicios en condiciones adecuadas.
 
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 19 DE MARZO DE 2022)</small>
+
+Para lograr lo anterior, los prestadores de servicios deberán considerar los siguientes aspectos:
+
+I. Contar con instalaciones, mobiliario y equipo accesibles;
+
+II. Sensibilizar y capacitar al personal que preste los servicios turísticos;
+
+III. Contar con información accesible para los diferentes tipos de discapacidad mediante el uso de formatos alternativos; y
+
+IV. Las demás políticas, procedimientos y acciones que se consideren oportunas y necesarias para garantizar el acceso de las personas con discapacidad a los servicios que prestan.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2022)</small>
 
 ###### Artículo 26 Bis 5.
 
-La Secretaría y los Órganos Municipales de Turismo del Estado vigilarán que las disposiciones establecidas por este capítulo se cumplan, así como las establecidas en la Ley para la Integración y Desarrollo Social de las Personas con Discapacidad del Estado de Colima y demás aplicables.
+Los prestadores de servicios turísticos deben permitir que sus clientes con discapacidad accedan con su animal de servicio a cualquier parte de sus instalaciones que esté abierta al público.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2022)</small>
+
+###### Artículo 26 Bis 6.
+
+La Subsecretaría, en coordinación con las instancias públicas federales y municipales competentes, así como con el sector privado, impulsará acciones para el desarrollo de playas accesibles en el Estado, las cuales deberán disponer por lo menos de:
+
+I. Acceso mediante pasarelas y rampas;
+
+II. Zonas acotadas de sol y sombra;
+
+III. Vestuarios y servicios adaptados y sillas y muletas anfibias para bañarse en el mar, con la asistencia de un equipo de profesionales; y
+
+IV. Las demás acciones que se consideren oportunas y necesarias para garantizar el acceso de las personas con discapacidad.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 26 BIS 5], P.O. 19 DE MARZO DE 2022)</small>
+
+###### Artículo 26 Bis 7.
+
+La Subsecretaría y los Órganos Municipales de Turismo del Estado vigilarán que las disposiciones establecidas por este capítulo se cumplan, así como las establecidas en la Ley para la Integración y Desarrollo Social de las Personas con Discapacidad del Estado de Colima y demás aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -1106,3 +1140,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La tarifa especial del 15% de descuento en los atractivos, corredores, productos y destinos turísticos que dependan del Gobierno del Estado o estén en convenio con la Federación para las y los colimenses, que establece el artículo 23 de la Ley de Turismo del Estado de Colima, tendrá plena aplicabilidad una vez que se haya decretado, por las autoridades de salud, la conclusión de la contingencia sanitaria de la pandemia del virus SARS-CoV-2, mejor conocido como Coronavirus o COVID-19.
 
 TERCERO.- El Poder Ejecutivo del Estado y los Municipios contaran con un plazo de 90 días naturales a la entrada en vigor del presente Decreto, para llevar a cabo las reformas reglamentarias que se deriven de este.
+
+P.O. 19 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 65.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Las obligaciones dispuestas para las autoridades estatales y municipales, así como para los prestadores de servicios turísticos, se implementarán de forma paulatina y progresiva en función de la suficiencia presupuestaria.
