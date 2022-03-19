@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-en-el-109731"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-05"
-last_updated: "2022-02-19"
+last_updated: "2022-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2022.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 5 de septiembre de 2015.
 
@@ -579,7 +579,9 @@ VIII. Conocer, cuidar y respetar su sexualidad de acuerdo a su edad, desarrollo 
 
 IX. Fomentar la educación vial;
 
-X. Procurar el desarrollo bilingüe e intercultural de niñas, niños y adolescentes pertenecientes a comunidades indígenas;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
+
+X. Procurar el desarrollo bilingüe e intercultural de niñas, niños y adolescentes pertenecientes a comunidades indígenas y afromexicanas;
 
 XI. Otorgar una correcta orientación vocacional, las oportunidades de empleo y las posibilidades de carrera, para que así puedan elegir la profesión, arte, oficio u opción educativa que cumpla con sus expectativas y virtudes;
 
@@ -591,13 +593,17 @@ XIII. Promover la igualdad de género;
 
 XIV. Brindar atención y orientación sensible y libre de discriminación a las adolescentes embarazadas y las madres menores de edad, para evitar la deserción escolar;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
 
-XV. Contribuir a garantizar la permanencia y conclusión de la educación básica y media superior de niñas, niños y adolescentes, así como para abatir el ausentismo, abandono y deserción escolares; y
+XV. Contribuir a garantizar la permanencia y conclusión de la educación básica y media superior de niñas, niños y adolescentes, de manera presencial o a distancia, así como para abatir el ausentismo, abandono y descerción (sic) escolares;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MARZO DE 2022)</small>
 
-XVI. Lo demás contenido en la Ley General y en las leyes de la materia.
+XVI. Fomentar el uso responsable y seguro de las tecnologías de la información y comunicación; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE MARZO DE 2022)</small>
+
+XVII. Lo demás contenido en la Ley General y en las leyes de la materia.
 
 Quienes ejerzan la patria potestad, tutela o guarda y custodia, tendrán derecho a intervenir en la educación que habrá de darse a niñas, niños y adolescentes.
 
@@ -1966,5 +1972,11 @@ P.O. 6 DE JULIO DE 2021.
 P.O. 19 DE FEBRERO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28735/LXIII/22 QUE FORMA (SIC) EL ARTÍCULO 2 BIS DE LA LEY DE PROTECCIÓN Y ATENCIÓN DE LOS MIGRANTES EN EL ESTADO DE JALISCO; Y EL ARTÍCULO 68 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28745/LXIII/22 QUE REFORMA EL ARTÍCULO 42 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
