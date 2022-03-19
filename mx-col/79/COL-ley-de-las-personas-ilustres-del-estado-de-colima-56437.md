@@ -4,7 +4,7 @@ identifier: "COL-ley-de-las-personas-ilustres-del-estado-de-colima-56437"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-21"
-last_updated: "2018-06-02"
+last_updated: "2022-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LAS PERSONAS ILUSTRES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 21 de julio de 2007.
 
@@ -191,39 +191,73 @@ Una vez aprobado el dictamen y publicado el Decreto correspondiente, el Gobernad
 
 Con el fin de rendir homenaje a una o varias personas en favor de quienes en los términos de la presente Ley, se consideren Heroicas o Ilustres, se conformará una Comisión para honrar la memoria de las mismas.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRAFO, P.O. 19 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 18.
 
-Esta Comisión será presidida por el Gobernador del Estado y fungirá como Secretario Técnico el Titular de la Secretaria de Cultura integrándose, además:
+Esta Comisión será presidida por el Gobernador o la Gobernadora del Estado y ejercerá la Secretaría Técnica la persona Titular de la Subsecretaría de Cultura, integrándose además, por las personas titulares de:
 
-I.- Secretario de Infraestructura y Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
 
-II.- Presidente del H. Congreso del Estado;
+I. La Secretaría de Infraestructura, Desarrollo Urbano y Movilidad;
 
-III.- El Magistrado Presidente del H. Supremo Tribunal de Justicia en el Estado;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
 
-IV.- El titular de la Secretaría de Educación en el Estado;
+II. La Presidencia del H. Congreso del Estado;
 
-V.- El Rector de la Universidad de Colima y el Director del Instituto Tecnológico de Colima;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
 
-VI.- El representante de la Asociación Colimense de Periodistas y Escritores;
+III. La Presidencia del H. Supremo Tribunal de Justicia en el Estado;
 
-VII.- El representante del Club de Reporteros de Colima;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
 
-VIII.- El representante de la Cámara de la Industria de Radio y Televisión en el Estado;
+IV. La Secretaría de Educación y Cultura;
 
-IX.- El Presidente de la Asociación de Cronistas en el Estado;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
+
+V. La Rectoría de la Universidad de Colima y el Director del Instituto Tecnológico de Colima;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
+
+VI. Una representación de la Asociación Colimense de Periodistas y Escritores;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
+
+VII. Una representación del Club de Reporteros de Colima;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
+
+VIII. Una representación de la Cámara de la Industria de Radio y Televisión en el Estado;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
+
+IX. La Presidencia de la Asociación de Cronistas en el Estado;
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
 X.- El Instituto Colimense de la Mujer;
 
-XI.- El representante del sector privado en la Entidad, que debe ser propuesto por los organismos empresariales como la Cámara Nacional de Comercio (CANACO), la Cámara Mexicana de la Industria de la Construcción (CMIC), la Cámara Nacional de la Industria de la Transformación (CANACINTRA), la Confederación Patronal Mexicana (COPARMEX) y la Cámara Nacional de la Industria de Restaurantes y Alimentos Condimentados (CANIRAC);
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
 
-XII.- El Presidente de la Junta de Asistencia Privada;
+XI. Una representación del sector privado en la Entidad, que debe ser propuesto por los organismos empresariales como la Cámara Nacional de Comercio (CANACO), la Cámara Mexicana de la Industria de la Construcción (CMIC), la Cámara Nacional de la Industria de la Transformación (CANACINTRA), la Confederación Patronal Mexicana (COPARMEX) y la Cámara Nacional de la Industria de Restaurantes y Alimentos Condimentados (CANIRAC);
 
-XIII.- El Presidente Municipal del H. Ayuntamiento, sede de la Rotonda de los Colimenses Ilustres; y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
 
-XIV.- Un representante de la Sociedad Colimense de Estudios Históricos.
+XII. La Presidencia de la Junta de Asistencia Privada;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
+
+XIII. La Presidencia Municipal del H. Ayuntamiento, sede de la Rotonda de los Colimenses Ilustres; y
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
+
+XIV. Una representación de la Sociedad Colimense de Estudios Históricos.
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 67 SE ADVIERTE QUE EL PRESENTE ARTÍCULO FUE REFORMADO Y PUBLICADO ANTERIORMENTE EN EL P.O. DE 2 DE JUNIO DE 2018, QUEDANDO CON 14 FRACCIONES Y UN PÁRRAFO (PÁGINA 1476) POR LO QUE SE RESPETO LA LITERALIDAD DEL P.O. DE 19 DE MARZO DE 2022 (PÁGINA 24)]</small>
+
+XV (SIC). (DEROGADA, P.O. 19 DE MARZO DE 2022)
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
 Cada uno de los titulares o instancias integrantes de la Comisión podrán designar a un suplente. Las convocatorias de sesión de la Comisión se harán por medio del Gobernador del Estado. La Comisión determinará las reglas conforme a las cuales se tomarán decisiones a su interior, en las que se contemplará el voto de calidad del Presidente.
 
@@ -231,7 +265,39 @@ Cada uno de los titulares o instancias integrantes de la Comisión podrán desig
 
 La Comisión, cuando lo considere necesario podrá realizar consultas a las Asociaciones Civiles o a personas físicas, que se encuentren vinculadas con los distintos casos que se le presenten.
 
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 20.
+
+La Comisión, sesionará de manera ordinaria por lo menos una vez al año, a convocatoria de su Presidencia por medio de notificación que deberá realizarse a cada uno de sus integrantes cuando menos con setenta y dos horas de anticipación a la fecha de celebración de la sesión.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2022)</small>
+
+###### ARTICULO 21.
+
+La Comisión también podrá sesionar de manera extraordinaria, a convocatoria de su Presidencia por medio de notificación que deberá realizarse a cada uno de sus integrantes cuando menos con cuarenta y ocho horas de anticipación a la fecha de celebración de la sesión.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2022)</small>
+
+###### ARTICULO 22.
+
+Las notificaciones para las sesiones, deberán ir acompañada (sic) por el orden del día y copia de los documentos que tengan relación con los puntos a tratar, ya sea por escrito o en medio electrónico. Cada uno de los titulares o instancias integrantes de la Comisión podrán designar por escrito a un suplente, el cual tendrá derecho a voz y voto.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2022)</small>
+
+###### ARTICULO 23.
+
+Las sesiones serán válidas con la asistencia de la mayoría de sus integrantes y serán presididas por la Presidencia de la Comisión y en su ausencia, por la Secretaría Técnica; si no se presentaren se emitirá una segunda convocatoria, con la asistencia de la Secretaría Técnica y los miembros que asistan.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2022)</small>
+
+###### ARTICULO 24.
+
+Los integrantes de la Comisión asistirán y participarán en las sesiones con voz y voto y las decisiones se tomarán por consenso, en caso de empate la Presidencia de la Comisión tendrá voto de calidad.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 20], P.O. 19 DE MARZO DE 2022)
+
+###### ARTICULO 25.
 
 La Comisión tendrá las siguientes facultades y atribuciones:
 
@@ -245,9 +311,9 @@ III. Organizar visitas y homenajes públicos donde participen grupos de estudian
 
 IV. Emitir opinión, para declarar Ilustre a determinada persona y sus restos sean depositados en la Rotonda;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2022)</small>
 
-V. Garantizar el mantenimiento, la conservación, la limpieza y el mejoramiento de las instalaciones y las edificaciones que conforman la Rotonda de los Colimenses Ilustres, por medio de la Secretaría de Infraestructura y Desarrollo Urbano; y
+V. Garantizar el mantenimiento, la conservación, la limpieza y el mejoramiento de las instalaciones y las edificaciones que conforman la Rotonda de los Colimenses Ilustres, por medio de la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, considerando las opiniones técnicas del Representante de la Sociedad Colimense de Estudios Históricos; y
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2018)</small>
 
@@ -280,3 +346,9 @@ P.O. 2 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 494 POR EL QUE SE REFORMAN LOS ARTÍCULOS 5°, 9°, 10, 11, 17, 18 Y 20 DE LA LEY DE LAS PERSONAS ILUSTRES DEL ESTADO DE COLIMA Y SE REFORMA EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 345, PUBLICADO EL 23 DE JULIO DE 2001 EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 19 DE MARZO DE 2022
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 67.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LAS PERSONAS ILUSTRES DEL ESTADO DE COLIMA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
