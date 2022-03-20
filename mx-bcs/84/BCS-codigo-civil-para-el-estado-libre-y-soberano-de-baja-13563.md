@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2021-07-31"
+last_updated: "2022-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MARZO DE 2022.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -1723,7 +1723,7 @@ Cuando el cónyuge enfermo no pueda solventar sus necesidades, quien solicite la
 
 ###### Artículo 277.
 
-El divorcio por mutuo consentimiento sólo puede pedirse cuando haya transcurrido un año de la celebración del matrimonio.
+(DEROGADO, B.O. 20 DE MARZO DE 2022)
 
 > <small>(REFORMADO, B.O. 10 DE JUNIO DE 2010)</small>
 
@@ -1789,7 +1789,7 @@ Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán
 
 ###### Artículo 287.
 
-No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año desde su reconciliación.
+(DEROGADO, B.O. 20 DE MARZO DE 2022)
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO III], B.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -1935,9 +1935,9 @@ En los casos en que resulte imposible liquidar la sociedad conyugal durante el p
 
 ### CAPÍTULO VI. Del divorcio vincular
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 20 DE MARZO DE 2022)</small>
 
-Artículo 305 H.- Cuando ambos cónyuges convengan en divorciarse después de transcurrido un año desde la celebración del matrimonio, y tengan hijos menores o incapacitados a su cargo y de común acuerdo hayan liquidado la sociedad conyugal, si bajo ese régimen se casaron, el divorcio se llevará a cabo ante el Juez del Ramo Familiar o, en su caso, ante el Juez Civil del domicilio conyugal.
+Artículo 305 H.- Cuando ambos cónyuges convengan en divorciarse y tengan hijos menores o incapacitados a su cargo y de común acuerdo hayan liquidado la sociedad conyugal, si bajo ese régimen se casaron, el divorcio se llevará a cabo ante el Juez del Ramo Familiar o, en su caso, ante el Juez Civil del domicilio conyugal.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -2013,15 +2013,17 @@ El divorcio no afecta a los bienes gananciales de los cónyuges, los que se liqu
 
 (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
 
+> <small>(REFORMADO, B.O. 20 DE MARZO DE 2022)</small>
+
 ###### Artículo 312.
 
-Para que los cónyuges que se divorcian voluntariamente puedan volver a contraer matrimonio, es indispensable que haya transcurrido un año desde que obtuvieron el divorcio.
+Los cónyuges que se divorcian voluntariamente podrán volver a contraer matrimonio, después de que haya causado ejecutoria la sentencia de su divorcio.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 20 DE MARZO DE 2022)</small>
 
 ###### Artículo 313.
 
-La sentencia que disuelve el vínculo matrimonial, fijará la situación de los hijos, atendiendo al tipo de divorcio. Ejecutoriada la sentencia del divorcio, la mujer puede contraer nuevo matrimonio dentro de los trescientos días, siempre que demuestre por certificación oficial que no está embarazada, a fin de evitar la confusión paterno filial, excepto en el caso señalado en el artículo anterior.
+La sentencia que disuelve el vínculo matrimonial, fijará la situación de los hijos, atendiendo al tipo de divorcio.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -16122,3 +16124,11 @@ PRIMERO.- El presente Decreto deberá publicarse en el Boletín Oficial del Esta
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- La Dirección Estatal del Registro Civil contará con sesenta días hábiles para la adecuación de la reglamentación aplicable, en términos del presente Decreto.
+
+B.O. 20 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2618 SE DEROGAN LOS ARTÍCULOS 277 Y 287; SE REFORMAN LOS ARTÍCULOS 305 H, 312 Y 313, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR. Y SE REFORMA EL ARTÍCULO 666 B DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente decreto entrara en vigor al día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
