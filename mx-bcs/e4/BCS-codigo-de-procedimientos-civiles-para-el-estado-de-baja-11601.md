@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-civiles-para-el-estado-de-baja-11601"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-05-23"
-last_updated: "2018-08-15"
+last_updated: "2022-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MARZO DE 2022.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 23 de mayo de 1997.
 
@@ -4635,9 +4635,9 @@ Cuando la separación de cuerpos se haya prolongado por más de dos años, cualq
 
 ### CAPITULO IV. Del Divorcio Unilateral Sin Causa
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 20 DE MARZO DE 2022)</small>
 
-Artículo 666 B. Cuando el divorcio se solicite por uno de los cónyuges, sin expresión de causa, deberá exhibir el acta de matrimonio para demostrar que han transcurrido más de dos años de celebrado el vínculo, así como la propuesta de convenio y el acuerdo de liquidación como requisitos indispensables para la admisión de la demanda, así como las actas de nacimiento de los hijos si los hubiere.
+Artículo 666 B. Cuando el divorcio se solicite por uno de los cónyuges, sin expresión de causa, deberá exhibir el acta de matrimonio, así como la propuesta de convenio y el acuerdo de liquidación como requisitos indispensables para la admisión de la demanda, así como las actas de nacimiento de los hijos si los hubiere.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -6976,3 +6976,11 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los juicios de desahucio cuya tramitación inició con anterioridad al presente Decreto, continuarán tramitándose conforme a la ley aplicable en ese momento hasta su total conclusión.
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+B.O. 20 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2618 SE DEROGAN LOS ARTÍCULOS 277 Y 287; SE REFORMAN LOS ARTÍCULOS 305 H, 312 Y 313, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR. Y SE REFORMA EL ARTÍCULO 666 B DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente decreto entrara en vigor al día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
