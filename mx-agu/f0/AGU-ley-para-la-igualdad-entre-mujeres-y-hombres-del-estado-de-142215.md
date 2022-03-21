@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1422
 country: "mx"
 rank: "ley"
 publication_date: "2020-03-16"
-last_updated: "2021-05-10"
+last_updated: "2022-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de marzo de 2020.
 
@@ -381,9 +381,11 @@ V.- Las demás que la Ley y otros ordenamientos aplicables le confieren.
 
 ### CAPÍTULO VIII. ÁMBITO POLÍTICO
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2022)</small>
+
 ###### Artículo 26.
 
-El Estado, conforme al Código Electoral para el Estado de Aguascalientes, propondrá los mecanismos de participación equitativa entre mujeres y hombres en la toma de decisiones en todos los ámbitos de la vida pública, buscando en todo momento fortalecer las estructuras en las diferentes áreas de gobierno estatal y municipal de manera igualitaria.
+El Estado, conforme al Código Electoral para el Estado de Aguascalientes, propondrá los mecanismos de participación equitativa entre mujeres y hombres en la toma de decisiones en todos los ámbitos de la vida pública, buscando en todo momento fortalecer las estructuras en las diferentes áreas de gobierno estatal y municipal de manera igualitaria; fomentando la prevención, atención y erradicación de violencia política contra las mujeres.
 
 ### CAPÍTULO IX. ÁMBITO CIVIL Y DE DERECHOS SOCIALES
 
@@ -774,3 +776,11 @@ P.O. 10 DE MAYO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 88.- ARTÍCULO ÚNICO.- SE REFORMA LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES AL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
