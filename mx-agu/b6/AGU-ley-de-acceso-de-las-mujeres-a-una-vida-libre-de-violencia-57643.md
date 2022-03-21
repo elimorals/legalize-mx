@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2021-12-20"
+last_updated: "2022-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -475,13 +475,21 @@ XII. Suspensión temporal a la persona violenta del régimen de visitas y conviv
 
 XIII. Prohibición a la persona violenta de enajenar, hipotecar, disponer, ocultar o trasladar bienes propios de la víctima o bienes comunes;
 
-XIV. Embargo preventivo de bienes de la persona violenta, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar sus obligaciones alimentarías; y
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2022)</small>
 
-XV. Obligación alimentaría provisional e inmediata.
+XIV. Embargo preventivo de bienes de la persona violenta, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar sus obligaciones alimentarias;
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2022)</small>
 
-Las órdenes de protección contenidas en las Fracciones I a VI son de emergencia, y las contenidas en las Fracciones VIII a XI son preventivas, deberán ser otorgadas por parte del Ministerio Público, los jueces mixtos, jueces cívicos, de lo penal, civil y familiar, según corresponda. Las contenidas en las Fracciones VII, y XII a XV son de naturaleza civil y deberán ser otorgadas por los jueces mixtos, de lo civil y familiar, que conozcan del asunto. Las órdenes de protección de emergencia y preventivas deberán expedirse dentro de las ocho horas siguientes al conocimiento de los hechos que las generan, mientras que las de naturaleza civil deberán expedirse dentro de las veinticuatro horas siguientes al conocimiento de los hechos que las generan y tendrán una temporalidad no mayor de setenta y dos horas, plazo dentro del cual debe emitirse la resolución referida en el párrafo tercero del Artículo 30 bis.
+XV. Obligación alimentaria provisional e inmediata; y
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2022)</small>
+
+XVI. Custodia personal o domiciliaria a las víctimas, que estará a cargo de los cuerpos policiales adscritos a la Fiscalía y a la Secretaría de Seguridad Pública, ambas del Estado, según corresponda con base a la disponibilidad del personal de estas instancias.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2022)</small>
+
+Las órdenes de protección contenidas en las Fracciones I a VI son de emergencia, y las contenidas en las Fracciones VIII a XI y XVI son preventivas, deberán ser otorgadas por parte del Ministerio Público, los jueces mixtos, de lo penal, civil y familiar, según corresponda. Las contenidas en las Fracciones VII, y XII a XV son de naturaleza civil y deberán ser otorgadas por los jueces mixtos, de lo civil y familiar, que conozcan del asunto. Las órdenes de protección de emergencia y preventivas deberán expedirse dentro de las ocho horas siguientes al conocimiento de los hechos que las generan, mientras que las de naturaleza civil deberán expedirse dentro de las veinticuatro horas siguientes al conocimiento de los hechos que las generan y tendrán una temporalidad no mayor a setenta y dos horas, plazo dentro del cual debe emitirse la resolución referida en el párrafo tercero del Artículo 30 bis.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
 
@@ -490,6 +498,10 @@ En todo caso, serán consideradas de emergencia las órdenes de protección que 
 > <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
 
 A quien omita aplicar o incumpla una orden de protección, se le impondrán las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes o en la Legislación correspondiente.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2022)</small>
+
+En el caso de la fracción XVI se podrán suscribir convenios de coordinación con las instancias de Seguridad Pública municipales, así como de colaboración con las personas autorizadas para prestar servicios de seguridad privada, para la adecuada organización y funcionamiento como auxiliares de la seguridad pública, de conformidad con la normatividad federal en la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 2021)</small>
 
@@ -1670,3 +1682,11 @@ P.O. 20 DE DICIEMBRE DE 2021.
 ###### ARTICULO ÚNICO.
 
 La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 87.- ARTÍCULO ÚNICO.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
