@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-del-instituto-del-deporte-del-estado-de-138784"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-09-02"
-last_updated: "2019-09-02"
+last_updated: "2022-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,404 +21,604 @@ state: "AGU"
 ---
 # CODIGO DE ETICA DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO ESTATAL DE CULTURA FISICA Y DEPORTE DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 9 DE AGOSTO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+CÓDIGO DE ÉTICA DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO ESTATAL DE CULTURA FÍSICA Y DEPORTE DE NUEVO LEÓN
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2022.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2024 (ABROGADO).
+Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de septiembre de 2019.
 
-Código publicado en el Número 9 del Periódico Oficial del Estado de Nuevo León, el miércoles 18 de enero de 2023.
+INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-El suscrito Licenciado FRANCISCO HERMILO GONZALEZ ORTIZ, Director General del Instituto Estatal de Cultura Física y Deporte de Nuevo León, en ejercicio de las facultades conferidas por los artículos 18 de la Ley del Instituto Estatal de Cultura Física y Deporte y los artículos 15 y 16 del Reglamento interior del Instituto Estatal de Cultura Física y Deporte, me permito expedir el Código de Conducta de los Servidores Públicos del Instituto Estatal de Cultura Física y Deporte de Nuevo León.
+CÓDIGO DE ÉTICA DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-CONSIDERANDO:
+El ÓRGANO INTERNO DE CONTROL DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES en ejercicio que me confieren los artículos 16 de la Ley General de Responsabilidades Administrativas; 13 fracción I de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes; 5° párrafo segundo de la Ley del Sistema Estatal Anticorrupción; 3°, 5° fracción I, 15 primer párrafo y 16 de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes; 3° y 5° de la Ley del Procedimiento Administrativo del Estado de Aguascalientes; 2°, 5°, 44 fracción III, 45, 45 A, y 45 B de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes; 56, 57, 58 fracción IV y XII, 59 fracción XVIII y 60 fracción IX del Estatuto Orgánico del Instituto del Deporte del Estado de Aguascalientes; y, DÉCIMO TERCERO del “Acuerdo por el que se dan a conocer los Lineamientos para la Emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas”, tiene a bien expedir el ACUERDO mediante el cual se emite el “CÓDIGO DE ÉTICA DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES”, al tenor de los siguientes
 
-PRIMERO. Que de conformidad con lo previsto en el artículo 199 de la Constitución Política del Estado Libre y Soberano de Nuevo León, los servidores públicos están obligados a observar eficiencia y buena marcha de los asuntos públicos.
+CONSIDERANDOS
 
-SEGUNDO. Que el artículo 12 del Código de Ética de los servidores públicos de la Administración Pública del Poder Ejecutivo (sic) Estado de Nuevo León, refiere que cada ente público de la Administración Pública del Poder Ejecutivo del Estado de Nuevo León, previa aprobación de su respectivo Órgano Interno de Control, emitirá un Código de Conducta en el que se especificará de manera puntal y concreta la forma en que los servidores públicos aplicaran los principios, valores y reglas de integridad contenidos en el presente documento.
+I. Que, en el ejercicio de las atribuciones y facultades del Órgano Interno de Control del Instituto del Deporte del Estado de Aguascalientes, así como los trámites y resolución de los asuntos de su competencia, corresponden originalmente al Órgano Interno de Control.
 
-TERCERO. Que el transitorio TERCERO del Código de Ética de los servidores públicos de la Administración Pública del Poder Ejecutivo (sic) Estado de Nuevo León, establece que el Código de conducta deberá ser elaborado, publicado y difundido, así como hacerlo del conocimiento de los servidores públicos.
+II. Que el artículo 16 de la Ley General de Responsabilidades Administrativas establece que “Los Servidores Públicos deberán observar el código de ética que al efecto sea emitido por las Secretarías o los Órganos internos de control, conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.”.
 
-Expuesto lo anterior y de conformidad con el artículo 41 de la Ley orgánica de la Administración Pública para el Estado de Nuevo León, el suscrito tiene a bien expedir el presente:
+III. Que la Ley de Responsabilidades Administrativas del Estado de Aguascalientes establece en su artículo 13 fracción I lo siguiente:
 
-CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO ESTATAL DE CULTURA FISICA Y DEPORTE DE NUEVO LEÓN
+“Artículo 13.- Para prevenir la comisión de faltas administrativas y hechos de corrupción, la Secretaría y los órganos internos de control de los entes públicos, deberán implementar acciones para orientar el desempeño de los servidores públicos en sus empleos, cargos, comisiones o funciones, en coordinación con el Sistema Estatal Anticorrupción.
 
-### CAPITULO I.. DISPOSICIONES GENERALES
+En la implementación de las acciones referidas, deberán observar lo siguiente:
 
-###### Artículo 1.
+I. Elaborar su Código de Ética conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, el cual deberá hacerse del conocimiento de los servidores públicos;
 
-El presente Código de Conducta tiene como objeto establecer la forma en que los servidores públicos adscritos al Instituto Estatal de Cultura Física y Deporte del Estado de Nuevo León, aplicarán los principios, valores y obligaciones inherentes al Código de Ética de los Servidores Públicos de la Administración Pública del Poder Ejecutivo (sic) Estado de Nuevo León.
+II. a la IV. …”
 
-###### Artículo 2.
+Por lo cual, con la finalidad de dar cumplimiento a las disposiciones establecidas en la Ley General de Responsabilidades Administrativas, y la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, el 3 de diciembre de 2018 se publicó en el Periódico Oficial del Estado de Aguascalientes, el Código de Ética del Instituto del Deporte del Estado de Aguascalientes.
 
-Para los efectos del presente, se entenderá por:
+IV. Que el 12 de octubre de 2018 se publicó en el Diario Oficial de la Federación el “Acuerdo por el que se dan a conocer los Lineamientos para la Emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas”, el cual es un instrumento que tiene como objeto establecer los elementos a considerar para la emisión del propio Código de Ética, sentando las bases de principios rectores que regirán las políticas transversales, integrales, sistemáticas, continuas y evaluables que, en materia de integridad y ética pública, emitan los entes públicos.
 
-I. Acoso laboral: Aquellos actos de hostigamiento o malos tratos desplegados de manera reiterativa en contra de los servidores públicos, que pueden dañar su integridad o salud.
+V. Que el Órgano Interno de Control de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Aguascalientes, emitió mediante Acuerdo el Código de Ética de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Aguascalientes, publicado en el Periódico Oficial del Estado de Aguascalientes, el 13 de mayo de 2019, mismo que ha servido de base para emitir el presente Código de Ética.
 
-II. Acoso sexual: Es una forma de violencia con connotación lasciva en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder conllevar a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
+VI. Que en fecha 5 de junio de 2018, median (sic) oficio número SGG/N/371/2018, el C.P. Martin Orozco Sandoval, Gobernador Constitucional del Estado, nombro al C.P. Luis Villalpando Calderón, como Titular de la Unidad Auditora del Órgano Interno de Control del Instituto del Deporte del Estado de Aguascalientes. En fecha 17 de junio de 2019, median (sic) oficio número SGG/116/2019, el C.P. Martin Orozco Sandoval, Gobernador Constitucional del Estado, nombro al Lic. Leobardo Carrizales Vega, como Titular de la Unidad Substanciadora y Resolutora del Órgano Interno de Control del Instituto del Deporte del Estado de Aguascalientes. Así mismo, en fecha 17 de junio de 2019, median (sic) oficio número SGG/122/2019, el C.P. Martin Orozco Sandoval, Gobernador Constitucional del Estado, nombro al Lic. José Israel Rodríguez García, como Titular de la Unidad Investigadora del Órgano Interno de Control del Instituto del Deporte del Estado de Aguascalientes, por lo que dichos Titulares cuentan con las facultades para expedir el presente Código de Ética.
 
-III. Carta compromiso: Es el instrumento a través del cual los servidores públicos manifiestan su voluntad de adherirse a los principios, valores y obligaciones contenidas en el Código de Conducta.
+VII. Que el Código de Ética se expide en apego a lo establecido en la fracción I del artículo 13 de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, y conforme a los Lineamientos ya mencionados con anterioridad, con la finalidad de que los servidores públicos de esta entidad paraestatal orienten el desempeño de sus empleos, cargos o comisiones, en base a los principios, valores y reglas de integridad establecidos en el mismo, y que permitan promover acciones que fortalezcan la transparencia, la rendición de cuentas, la legalidad y el combate a la corrupción; delimitando las conductas de los servidores públicos en situaciones específicas, previo diagnóstico que al efecto realicen, conforme a los lineamientos generales y al debido proceso.
 
-IV. Código: Código de Conducta del Instituto Estatal de Cultura Física y Deporte del estado de Nuevo León.
+VIII. Que este Instituto del Deporte del Estado de Aguascalientes con base en el Plan Estatal de Desarrollo 2016-2022 está comprometido en implementar acciones y políticas que permitan su propio desarrollo integral, con base a los principios de equidad de género, sustentabilidad, transparencia y combate a la corrupción, teniendo como objeto una administración pública cercana, eficiente, honesta, transparente y de calidad, es por ello que el Órgano Interno de Control tiene a bien expedir el siguiente:
 
-V. Discriminación: Toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo;
+ACUERDO
 
-VI. Hostigamiento sexual: El ejercicio del poder, en una relación de subordinación real de la víctima frente al agresor en el ámbito laboral. Se expresa en conductas verbales, física o ambas, relacionadas con la sexualidad de connotación lasciva;
+ÚNICO.- Se emite el Código (sic) Instituto del Deporte del Estado de Aguascalientes del Estado de Aguascalientes, (sic) para quedar en los siguientes términos:
 
-VII. Obligaciones: Las contenidas en la Ley General de Responsabilidades Administrativas, en la Ley de Responsabilidades Administrativas del Estado de Nuevo León y en las demás disposiciones administrativas o reglamentarias relacionadas con el servicio público y el desempeño de sus funciones, cuya omisión, incumplimiento o transgresión son causa de faltas administrativas.
+CÓDIGO DE ÉTICA DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-VIII. Principios: Legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, eficiencia, equidad, transparencia, economía, eficacia, integridad, competencia por mérito, disciplina y rendición de cuentas.
+### CAPÍTULO I. Disposiciones Generales
 
-IX. Servidor Público: Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Instituto.
+###### Artículo 1°.
 
-X. Valores: Cualidad o conjunto de cualidades que todo servidor público debe observar en el desempeño de sus funciones en el INDE.
+Naturaleza jurídica del Código. El presente Código es el instrumento normativo a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas, emitido por el Órgano Interno del Control del Instituto del Deporte del Estado de Aguascalientes conforme a los lineamientos establecidos por el Sistema Nacional Anticorrupción, cuya inobservancia es sancionable en términos de la Ley General en cita y de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
-###### Artículo 3.
+###### Artículo 2°.
 
-El presente cuerpo normativo es de observancia y cumplimiento obligatorio para todos los servidores públicos que desempeñan un empleo, cargo o comisión en el Instituto.
+Ámbito de aplicación. El presente Código es de aplicación obligatoria para todos los servidores públicos adscritos al Instituto del Deporte del Estado de Aguascalientes, en el desempeño de su empleo, cargo o comisión.
 
-###### Artículo 4.
+El lenguaje empleado en el presente Acuerdo no busca generar ninguna distinción ni marcar diferencias entre hombres y mujeres, por lo que las referencias o alusiones en la redacción hechas hacia un género representan a ambos sexos, sin discriminación alguna.
 
-La Dirección Administrativa del Instituto Estatal de Cultura Fisca (sic) y deporte INDE, deberá informar a los servidores públicos de nuevo ingreso, el contenido del código de conducta, quienes deberán suscribir una carta compromiso, comprometiéndose a alienar el desempeño de sus funciones a lo previsto en el presente.
+###### Artículo 3°.
 
-### CAPITULO II.. DE LOS PRINCIPIOS
+Objeto del ordenamiento. El objeto del presente Código es:
 
-###### Artículo 6.
+I. Constituir un elemento de la política de integridad del Instituto del Deporte del Estado de Aguascalientes, para fortalecer la prestación de servicios públicos de manera ética e íntegra;
 
-Los servidores públicos nos regimos bajo los siguientes principios:
+II. Precisar los principios y valores fundamentales para el adecuado ejercicio de la función pública;
 
-a) Legalidad:
+III. Incidir en el comportamiento y desempeño de los Servidores Públicos, para formar una ética e identidad profesional compartida, y un sentido de orgullo de pertenencia al servicio público;
 
-1. Actuamos con respeto, apego y responsabilidad conforme a las disposiciones normativas y facultades conferidas.
+IV. Promover el conocimiento y aplicación de las directrices que establece el artículo 7 de la Ley General de Responsabilidades Administrativas;
 
-2. Cumplimiento en tiempo y forma con la presentación de las declaraciones de situación patrimonial y de intereses.
+V. Establecer mecanismos de capacitación de los Servidores Públicos, en el razonamiento sobre los principios y valores que deberán prevalecer en la toma de decisiones y en el correcto ejercicio de la función pública en situaciones concretas; y
 
-3. Actualizamos nuestros conocimientos respecto al contexto jurídico que regula nuestro empleo, cargo o comisión.
+VI. Establecer mecanismos de difusión para promover el conocimiento y aplicación de este Código, y facilitar su eficacia en la prevención de la corrupción.
 
-4. Ejercemos únicamente las atribuciones y funciones que nos ha sido conferidas por las disposiciones normativas aplicables.
+###### Artículo 4°.
 
-b) Honradez:
+Glosario. Para esos efectos del presente Acuerdo, se entenderá por:
 
-1. Desempeñamos nuestras funciones de manera imparcial.
+I. Código de Ética: El Código de Ética del Instituto del Deporte del Estado de Aguascalientes.
 
-2. Rechazamos compensaciones, obsequios o dádivas.
+II. Comité de Ética: El Comité de Ética y de Prevención de Conflictos de Interés del Instituto del Deporte del Estado de Aguascalientes.
 
-3. Procuramos los recursos públicos, humanos, materiales, técnicos y financieros, y los utilizamos exclusivamente para lo que han sido conferidos.
+III. OIC: Al Órgano Interno de Control (sic) Instituto del Deporte del Estado de Aguascalientes.
 
-4. Nos abstenemos de utilizar nuestro cargo o puesto, para recibir algún beneficio o provecho personal o para terceros.
+IV. IDEA: Instituto del Deporte del Estado de Aguascalientes.
 
-c) Lealtad:
+V. Reglas de Integridad: Lineamientos estructurados de manera lógica con relación a los principios rectores y valores previstos en el presente Código, enfocados al ejercicio de las funciones de los servidores públicos adscritos al IDEA.
 
-1. Actuamos en congruencia a las responsabilidades y confianza que el Instituto nos confiere.
+VI. Servidores Públicos: Las personas que desempeñan un empleo, cargo o comisión en el IDEA, conforme a lo dispuesto en el artículo 108, párrafos primero y cuarto de la Constitución Política de los Estados Unidos Mexicanos, en relación con el artículo 73, párrafo primero de la Constitución Política del Estado de Aguascalientes.
 
-2. Tenemos una vocación absoluta de servicio.
+### CAPÍTULO II. Principios Rectores y Directrices del Servicio Público
 
-3. Satisfacemos los intereses de las necesidades colectivas por encima de intereses particulares o personales.
+###### Artículo 5°.
 
-4. Desahogamos pertinentemente las quejas o denuncias que presentan los ciudadanos, y en su caso, lo canalizamos al área competente.
+Definición de principios. Los principios constitucionales y legales que rigen al servicio público, y a los que deben sujetar su actuación los Servidores Públicos son:
 
-d) Imparcialidad:
+I. Legalidad: Que consiste en que los Servidores Públicos hagan sólo aquello que las normas expresamente les confieren y en todo momento sometan su actuación a las facultades que las leyes, reglamentos y demás disposiciones jurídicas atribuyen a su empleo, cargo o comisión, por lo que conocen y cumplen las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones.
 
-1. Damos a la ciudadanía en general el mismo trato, sin conceder privilegios o preferencias.
+II. Honradez: Que consiste en que los Servidores Públicos se conduzcan con rectitud sin utilizar su empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceros, ni buscan o aceptan compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización, debido a que están conscientes que ello compromete sus funciones y que el ejercicio de cualquier cargo público implica un alto sentido de austeridad y vocación de servicio.
 
-2. Rechazamos influencias, intereses o perjuicios que afecten nuestro compromiso en la toma de decisiones.
+III. Lealtad: Que consiste en que los Servidores Públicos correspondan a la confianza que el Estado les ha conferido; tengan una vocación absoluta de servicio a la sociedad, y satisfagan el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población.
 
-e) Eficiencia:
+IV. Imparcialidad: Que consiste en que los Servidores Públicos den a la ciudadanía, y a la población en general, el mismo trato, sin conceder privilegios o preferencias a organizaciones o personas, ni permitir que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva.
 
-1. Actuamos en apego a los planes y programas aplicables.
+V. Eficiencia: Que consiste en que los Servidores Públicos actúen en apego a los planes y programas previamente establecidos, y optimicen el uso y la asignación de los recursos públicos en el desarrollo de sus actividades para lograr los objetivos propuestos.
 
-2. Optimizamos el uso de los recursos públicos en el desarrollo de las actividades para lograr los objetivos propuestos.
+VI. Economía: Que consiste en que los Servidores Públicos, en el ejercicio del gasto público, administren los bienes, recursos y servicios públicos con legalidad, austeridad y disciplina, satisfaciendo los objetivos y metas a los que estén destinados, siendo éstos de interés social.
 
-f) Economía:
+VII. Disciplina: Que consiste en que los Servidores Públicos desempeñen su empleo, cargo o comisión, de manera ordenada, metódica y perseverante, con el propósito de obtener los mejores resultados en el servicio o bienes ofrecidos.
 
-1. Ejercemos el gasto público y la administración de bienes, recursos y servicios públicos con legalidad y disciplina, satisfaciendo los objetivos y metas para los que estén destinados.
+VIII. Profesionalismo: Que consiste en que los Servidores Públicos deben conocer, actuar y cumplir con las funciones, atribuciones y comisiones encomendadas de conformidad con las leyes, reglamentos y demás disposiciones jurídicas atribuibles a su empleo, cargo o comisión, observando en todo momento disciplina, integridad y respeto, tanto a los demás Servidores Públicos como a particulares con los que llegue a tratar.
 
-2. Utilizamos los equipos de cómputo, vehículos oficiales y demás bienes y recursos exclusivamente para el desempeño de nuestras labores.
+IX. Objetividad: Que consiste en que los Servidores Públicos deben preservar el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general, actuando de manera neutral e imparcial en la toma de decisiones, que a su vez deben ser informadas en estricto apego a la legalidad.
 
-3. Protegemos el patrimonio que se encuentra bajo nuestro resguardo, garantizando su preservación.
+X. Transparencia: Que consiste en que los Servidores Públicos, en el ejercicio de sus funciones, privilegien el principio de máxima publicidad de la información pública, atendiendo con diligencia los requerimientos de acceso y proporcionando la documentación que generan, obtienen, adquieren, transforman o conservan; y en el ámbito de su competencia, difundan de manera proactiva información gubernamental, como un elemento que genera valor a la sociedad y promueve un gobierno abierto, protegiendo los datos personales que estén bajo su custodia.
 
-g) Disciplina:
+XI. Rendición de cuentas: Que consiste en que los Servidores Públicos asuman plenamente ante la sociedad y sus autoridades la responsabilidad que deriva del ejercicio de su empleo, cargo o comisión, por lo que informan, explican y justifican sus decisiones y acciones, y se sujetan a un sistema de sanciones, así como a la evaluación y al escrutinio público de sus funciones por parte de la ciudadanía.
 
-1. Desempeñar nuestro empleo, cargo o comisión de manera ordenada, oportuna y perseverante con el propósito de obtener los mejores resultados en el servicio otorgado.
+XII. Competencia por mérito: Que consiste en que los Servidores Públicos deben ser seleccionados para sus puestos de acuerdo a su habilidad profesional, capacidad y experiencia, garantizando la igualdad de oportunidad, atrayendo a los mejores candidatos para ocupar los puestos mediante procedimientos transparentes, objetivos y equitativos.
 
-h) Profesionalismo:
+XIII. Eficacia: Que consiste en que los Servidores Públicos actúen conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades y mediante el uso responsable y claro de los recursos públicos, eliminando cualquier ostentación y discrecionalidad indebida en su aplicación.
 
-1. Conocemos, actuamos y cumplimos las funciones, atribuciones y comisiones encomendadas conforme a las disposiciones normativas vigentes.
+XIV. Integridad: Que consiste en que los Servidores Públicos actúen siempre de manera congruente con los principios que se deben observar en el desempeño de un empleo, cargo, comisión o función, convencidos del compromiso de ajustar su conducta para que impere en su desempeño una ética que responda al interés público y generen certeza plena de su conducta frente a todas las personas con las que se vinculen u observen su actuar.
 
-2. Actuamos con disciplina, integridad y respeto hacia los demás servidores públicos y a los particulares.
+XV. Equidad: Que consiste en que los Servidores Públicos procuren que toda persona acceda con justicia e igualdad al uso, disfrute y beneficio de los bienes, servicios, recursos y oportunidades.
 
-i) Objetividad.
+### CAPÍTULO III. Valores
 
-1. Priorizamos las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general.
+###### Artículo 6º.
 
-2. Procedamos de manera neutral e imparcial en la toma de decisiones, es (sic) estricto apego a la legalidad.
+Definición de valores. Los valores a los que deberán sujetar su actuación los Servidores Públicos son:
 
-3. Nos abstenemos de participar en los procedimientos del Instituto cuando existe un conflicto de intereses, manifestándolo inmediatamente a través de los medios establecidos en la Ley General de Responsabilidades Administrativas.
+I. Interés Público: Que consiste en que los Servidores Públicos actúen buscando en todo momento la máxima atención de las necesidades y demandas de la sociedad por encima de intereses y beneficios particulares, ajenos a la satisfacción colectiva.
 
-j) Transparencia:
+II. Respeto: Que consiste en que los Servidores Públicos se conduzcan con austeridad y sin ostentación, y otorguen un trato digno y cordial a las personas en general y a sus compañeros y compañeras de trabajo, superiores y subordinados, considerando sus derechos, de tal manera que propicien el diálogo cortés y la aplicación armónica de instrumentos que conduzcan al entendimiento, a través de la eficacia y el interés público.
 
-1. Respetamos el principio de máxima publicidad en la atención a los requerimientos de acceso a la información.
+III. Respeto a los derechos humanos: Que consiste en que los Servidores Públicos respeten los derechos humanos, y en el ámbito de sus competencias y atribuciones, los garanticen, promuevan y protejan de conformidad con los Principios de:
 
-2. Promoveremos el uso de las nuevas tecnológicas (sic) para trasparentar la información.
+a. Universalidad, que establece que los derechos humanos corresponden a toda persona por el simple hecho de serlo;
 
-3. Protegeremos los datos personales bajo nuestra custodia.
+b. Interdependencia, que implica que los derechos humanos se encuentran vinculados íntimamente entre sí;
 
-4. Promoveremos la consulta de información a través de los medios autorizados.
+c. Indivisibilidad, que refiere que los derechos humanos conforman una totalidad de tal forma que son complementarios e inseparables; y
 
-k) Rendición de cuentas:
+d. Progresividad, que prevé que los derechos humanos están en constante evolución y bajo ninguna circunstancia se justifica un retroceso en su protección.
 
-1. Asumimos la responsabilidad que deriva del ejercicio de nuestro empleo, cargo o comisión.
+IV. Igualdad y no discriminación: Que consiste en que los Servidores Públicos presten sus servicios a todas las personas sin distinción, exclusión, restricción o preferencia basada en el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o en cualquier otro motivo.
 
-2. Presentamos con veracidad las declaraciones de situación patrimoniales y de intereses.
+V. Equidad de género: Que consiste en que los Servidores Públicos, en el ámbito de sus competencias y atribuciones, garanticen que tanto mujeres como hombres accedan con las mismas condiciones, posibilidades y oportunidades a los bienes y servicios públicos; a los programas y beneficios institucionales, y a los empleos, cargos y comisiones gubernamentales.
 
-3. Transparentamos el ejercicio de nuestras funciones.
+VI. Entorno Cultural y Ecológico: Que consiste en que los Servidores Públicos, en el desarrollo de sus actividades, eviten la afectación del patrimonio cultural de cualquier nación y de los ecosistemas del planeta; asuman una férrea voluntad de respeto, defensa y preservación de la cultura y del medio ambiente, y en el ejercicio de sus funciones y conforme a sus atribuciones, promuevan en la sociedad la protección y conservación de la cultura y el medio ambiente, al ser el principal legado para las generaciones futuras.
 
-4. Hacemos buen uso de los recursos asignados y mantenemos un orden de los asuntos a nuestro cargo.
+VII. Cooperación: Que consiste en que los Servidores Públicos colaboren entre sí y propicien el trabajo en equipo para alcanzar los objetivos comunes previstos en los planes y programas gubernamentales, generando así una plena vocación de servicio público en beneficio de la colectividad y confianza de la ciudadanía en sus instituciones.
 
-l) Competencia por mérito:
+VIII. Liderazgo: Que consiste en que los Servidores Públicos, sean guía, ejemplo y promotores de los principios y valores previstos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, en este Código, así como de las Reglas de Integridad, para que fomenten y apliquen en el desempeño de sus funciones los principios que la y las leyes les imponen, así como aquellos valores adicionales que por su importancia son intrínsecos a la función pública.
 
-1. Seleccionamos a los candidatos para ocupar vacantes de acuerdo a sus habilidades, competencias, capacidades, experiencia y méritos profesionales, otorgando igualdad de oportunidades con procedimientos transparentes, objetivos y equitativos.
+### CAPÍTULO IV. Reglas de Integridad
 
-2. Nos actualizamos en los asuntos relacionados con el desempeño de nuestras funciones.
+###### Artículo 7º.
 
-m) Eficacia:
+Objetivo de reglas de integridad. Las reglas de integridad, tiene (sic) por objeto brindar herramientas a los Servidores Públicos para resolver dilemas éticos ante situaciones concretas.
 
-1. Realizamos nuestras funciones en el tiempo y la forma establecida.
+###### Artículo 8º.
 
-2. Desempeñamos el trabajo de manera íntegra y cuidando los recursos del INDE.
+Regla de integridad de actuación pública. Esta regla consiste en que los Servidores Públicos se conduzcan con transparencia, honestidad, lealtad, cooperación, austeridad, sin ostentación y con una clara orientación al interés público.
 
-3. Empleamos las herramientas disponibles para realizar un trabajo de calidad.
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
 
-n) Integridad:
+I. Abstenerse de ejercer las atribuciones y facultades que le impone el servicio público y que le confieren los ordenamientos legales y normativos correspondientes;
 
-1. Actuamos de manera congruente con los principios que se deben observar en el desempeño de nuestro empleo, cargo o comisión.
+II. Adquirir para sí o para terceros, bienes o servicios de personas u organizaciones beneficiadas con programas o contratos gubernamentales, a un precio notoriamente inferior o bajo condiciones de crédito favorables, distintas a las del mercado;
 
-2. Cumplimos responsablemente las labores, para los objetivos y metas del INDE.
+III. Favorecer o ayudar a otras personas u organizaciones a cambio o bajo la promesa de recibir dinero, dádivas, obsequios, regalos o beneficios personales o para terceros;
 
-o) Equidad:
+IV. Utilizar las atribuciones de su empleo, cargo, comisión o funciones para beneficio personal o de terceros;
 
-1. Procuramos que todos los servidores públicos y ciudadanos accedan con justifica (sic) e igualdad al uso, disfruta (sic) y beneficio de los bienes, servicios, recursos y oportunidades.
+V. Ignorar las recomendaciones de los organismos públicos protectores de los derechos humanos y de prevención de la discriminación, u obstruir alguna investigación por violaciones en esas materias;
 
-2. Cuando existe una vacante todos los servidores públicos cuyo perfil esté acorde a la misma, son considerados para la aplicación del puesto.
+VI. Hacer proselitismo en su jornada laboral u orientar su desempeño laboral hacia preferencias político-electorales;
 
-###### Artículo 5.
+VII. Utilizar recursos humanos, materiales o financieros institucionales para fines distintos a los asignados;
 
-El lenguaje empleado en el presente documento, no pretende generar distinción, ni marcar diferencias entre hombres y mujeres, por lo que las alusiones en la redacción representan a ambos sexos.
+VIII. Obstruir la presentación de denuncias administrativas, penales o políticas, por parte de personas compañeras de trabajo, subordinados o de ciudadanos en general;
 
-### CAPITULO III.. DE LOS VALORES
+IX. Asignar o delegar responsabilidades y funciones sin apegarse a las disposiciones normativas aplicables;
 
-###### Artículo 7.
+X. Permitir que Servidores Públicos subordinados incumplan total o parcialmente con su jornada u horario laboral;
 
-Los servidores públicos en el desempeño de nuestro empleo, cargo o comisión anteponemos los siguientes valores:
+XI. Realizar cualquier tipo de discriminación tanto a otros Servidores Públicos como a toda persona en general;
 
-a) Interés público:
+XII. Actuar como abogado o procurador en juicios de carácter penal, civil, fiscal, mercantil, administrativo, laboral o de cualquier índole, que se promueva en contra de la Administración Pública del Estado de Aguascalientes;
 
-1. Atendemos con cortesía y eficiencia a la ciudadanía.
+XIII. Dejar de establecer medidas preventivas al momento de ser informado por escrito como superior jerárquico, de una posible situación de riesgo o de conflicto de interés;
 
-2. Tenemos aptitudes y actitudes que brinden a la sociedad confianza y credibilidad.
+XIV. Hostigar, agredir, amedrentar, acosar, intimidar, extorsionar o amenazar a personas que sean subordinadas o compañeras de trabajo;
 
-3. Disponemos de los recursos proporcionados para los asuntos encomendados.
+XV. Desempeñar dos o más puestos públicos o celebrar dos o más contratos de prestación de servicios profesionales con instituciones públicas, o la combinación de unos con otros, sin contar con dictamen de compatibilidad en términos de la Ley de Remuneraciones de los Servidores Públicos para el Estado de Aguascalientes y sus Municipios, y demás disposiciones aplicables;
 
-b) Respeto:
+VII. (SIC) Dejar de colaborar con otros Servidores Públicos y de propiciar el trabajo en equipo para alcanzar los objetivos comunes previstos en los planes y programas aplicables al IDEA;
 
-1. Mantenemos relaciones laborales con dignidad, apegándonos a los principios y valores del código.
+VIII. Obstruir u obstaculizar la generación de soluciones a dificultades que se presenten para la consecución de las metas previstas en los planes y programas aplicables al IDEA;
 
-2. Actuamos de manera honrada y respetuosa hacia las pertenecías (sic) de los demás servidores públicos y bienes del INDE.
+XVI. Evitar conducirse bajo criterios de austeridad, sencillez y uso apropiado de los bienes y medios que disponga con motivo del ejercicio del cargo público; y
 
-3. Fomentamos la libre expresión de ideas o pensamientos.
+XVII. Conducirse de forma ostentosa, incongruente y desproporcionada a la remuneración y apoyos que perciba con motivo de (sic) cargo público.
 
-4. Rechazaremos el lenguaje o acciones que denigren a las personas.
+###### Artículo 9°.
 
-5. Atendemos con amabilidad y respecto (sic) a los servidores públicos de las dependencias y entidades de los tres órdenes de gobierno, así como a la ciudadanía.
+Regla de integridad de información pública. Esta regla consiste en que los Servidores Públicos conduzcan su actuación conforme al principio de transparencia y resguarden la documentación e información que tienen bajo su responsabilidad.
 
-c) Respeto a los Derechos Humanos:
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
 
-1. Rechazamos el acoso y hostigamiento sexual o laboral.
+I. Asumir actitudes intimidatorias frente a las personas que requieren de orientación para la presentación de una solicitud de acceso a información pública;
 
-2. Contribuimos a mantener un ambiente y clima laboral cordial.
+II. Retrasar de manera negligente las actividades que permitan atender de forma ágil y expedita las solicitudes de acceso a información pública;
 
-3. Rechazamos cualquier acto en contra de la vida, libertad, salud, cuidado del medio ambiente, justifica (sic) o equidad de género e integridad.
+III. Declarar la incompetencia para la atención de una solicitud de acceso a información pública, a pesar de contar con atribuciones o facultades legales o normativas;
 
-4. Nos abstenemos de la discriminación o de favoritismo en el ejercicio de nuestras funciones.
+IV. Declarar la inexistencia de información o documentación pública, sin realizar una búsqueda exhaustiva en los expedientes y archivos institucionales bajo su resguardo;
 
-d) Igualdad y no discriminación:
+V. Utilizar información que se obtenga con motivo de sus funciones, para fines distintos a los autorizados por la normatividad aplicable;
 
-1. Tratamos con justicia a los demás sin importar su origen, género, edad, creencias, idioma, cultura o cualquier otro motivo.
+VI. Ocultar información y documentación pública en archivos personales, ya sea dentro o fuera de los espacios institucionales;
 
-2. Reconocemos que todos tenemos los mismos derechos y por ellos (sic) fomentamos el acceso a las oportunidades sin discriminación alguna.
+VII. Alterar, ocultar o eliminar de manera deliberada, información pública;
 
-3. No utilizamos un lenguaje que fomente estereotipos o perjuicio en contra de las personas.
+VIII. Permitir o facilitar la sustracción, destrucción o inutilización indebida, de información o documentación pública;
 
-4. Evitamos demeritar las ideas o iniciativas propuestas por compañeros de trabajo.
+IX. Proporcionar indebidamente documentación e información confidencial o reservada;
 
-e) Equidad de género:
+X. Utilizar con fines lucrativos las bases de datos a las que tenga acceso o que haya obtenido con motivo de su empleo, cargo, comisión o funciones;
 
-1. Incluimos acciones afirmativas evitando que se favorezca a algún género.
+XI. Obstaculizar las actividades para la identificación, generación, procesamiento, difusión y evaluación de la información en materia de transparencia proactiva y gobierno abierto;
 
-2. Asumimos la igualdad de trato entre todos los servidores públicos.
+XII. Difundir información pública en materia de transparencia proactiva y gobierno abierto en formatos que, de manera deliberada, no permitan su uso, reutilización o redistribución por cualquier interesado; y
 
-3. Impulsamos que los servidores públicos accedan a las mismas condiciones, posibilidades y oportunidades laborales, sin importar su sexo.
+XIII. Difundir, proporcionar o hacer mal uso de cualquier información concerniente a una persona física identificada o identificable, en materia de protección de datos personales.
 
-f) Entorno cultura (sic) y ecológico:
+###### Artículo 10.
 
-1. Utilizando de manera racional los recursos públicos dentro y fuera del INDE.
+Regla de integridad de contrataciones públicas, licencias, permisos, autorización y concesiones. Esta regla consiste en que los Servidores Públicos que con motivo de su empleo, cargo, comisión o función o a través de subordinados, participen en la celebración, otorgamiento o prórroga de dichas figuras, se conduzcan con transparencia, imparcialidad y legalidad; orienten sus decisiones a las necesidades e intereses de la sociedad y garanticen las mejores condiciones para el IDEA y para el Estado.
 
-2. Evitamos cualquier actividad que dañe la salud de las personas y del medio ambiente, dentro y fuera del horario laboral.
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
 
-g) Cooperación:
+I. Omitir declarar conforme a las disposiciones aplicables los posibles conflictos de interés, negocios y transacciones comerciales, que de manera particular haya tenido con personas u organizaciones;
 
-1. Capitalizamos los esfuerzos del personal en resultados orientados a las necesidades del Instituto.
+II. No aplicar el principio de equidad de la competencia, que debe prevalecer entre los participantes dentro de los procedimientos de contratación;
 
-2. Establecemos estratégicas (sic) para cumplir con metas y objetivos, mejorando resultados comunes.
+III. Formular requerimientos diferentes a los estrictamente necesarios para el cumplimiento del servicio público, provocando gastos excesivos e innecesarios;
 
-3. Fomentamos el trabajo en equipo para alcanzar el logro de los objetivos.
+IV. Establecer condiciones en las invitaciones o convocatorias que representen ventajas o den un trato diferenciado a los licitantes;
 
-h) Liderazgo:
+V. Favorecer a los licitantes teniendo por satisfechos los requisitos o reglas previstos en las invitaciones o convocatorias cuando no lo están, simulando el cumplimiento de éstos o coadyuvando a su cumplimiento extemporáneo;
 
-1. Proponemos ideas, estrategias e iniciativas que coadyuven a mejorar el funcionamiento del área de trabajo.
+VI. Beneficiar a los proveedores, sobre el cumplimiento de los requisitos previstos en las solicitudes de cotización;
 
-2. Promovemos con nuestro ejemplo una cultura de legalidad, transparencia y óptimo desempeño de los servidores públicos.
+VII. Proporcionar de manera indebida, información de los particulares que participen en los procedimientos de contrataciones públicas;
 
-3. Impulsamos las mejores prácticas de gobierno y de control interno.
+VIII. Ser parcial en la selección, designación, contratación, y en su caso, remoción o rescisión del contrato, en los procedimientos de contratación;
 
-### CAPITULO IV.. DE LAS OBLIGACIONES
+IX. Influir en las decisiones de otros Servidores Públicos, para que se beneficie a un participante en los procedimientos de contratación o para el otorgamiento de licencias, permisos, autorizaciones y concesiones;
 
-###### Artículo 8.
+X. No imponer sanciones a licitantes, proveedores y contratistas que infrinjan las disposiciones jurídicas aplicables;
 
-Los servidores públicos, atendemos las siguientes obligaciones:
+XI. Enviar correos electrónicos a los licitantes, proveedores, contratistas o concesionarios cuya finalidad sea la de otorgar un beneficio o información confidencial que le otorgue ventaja sobre procedimientos en los cuales se involucren;
 
-a) Cumplimos con las funciones, atribuciones y comisiones encomendadas, observando en nuestro desempeño disciplina y respeto, tanto a los demás servidores públicos como a los particulares.
+XII. Reunirse con licitantes, proveedores, contratistas y concesionarios cuya finalidad sea la de otorgar un beneficio o información confidencial que le otorgue ventaja sobre procedimientos en los cuales se involucren, salvo para los actos correspondientes a la visita al sitio;
 
-b) Atendemos las instrucciones de nuestros superiores, siempre que éstas sean acordes con las disposiciones normativas relacionadas con el servicio público.
+XIII. Solicitar requisitos complementarios no previstos y sin sustento legal, que tengan como fin el otorgamiento y prórroga de licencias, permisos, autorizaciones y concesiones;
 
-c) Presentamos en tiempo y forma las declaraciones de situación patrimonial y de intereses.
+XIV. Dar trato inequitativo o preferencial a cualquier persona u organización en la gestión que se realice para el otorgamiento y prórroga de licencias, permisos, autorizaciones y concesiones;
 
-d) Registramos, integramos y custodiamos la documentación e información que, por razón de nuestro empleo, cargo o comisión, tengamos bajo nuestra responsabilidad.
+XV. Recibir o solicitar cualquier tipo de compensación, dádiva, obsequio o regalo, en la gestión que se realice para el otorgamiento y prórroga de licencias, permisos, autorizaciones y concesiones;
 
-e) Rendimos cuentas sobre el ejercicio de nuestras funciones, de conformidad a lo previsto en las disposiciones normativas aplicables vigentes.
+XVI. Dejar de observar el protocolo de actuación en materia de contrataciones públicas y otorgamiento de licencias, permisos, autorizaciones, concesiones y sus prórrogas; y
 
-f) Colaboramos en los procedimientos administrativos en los que seamos parte.
+XVII. Ser beneficiario directo o a través de familiares de hasta cuarto grado, de contratos relacionados con el Ente Público.
 
-### CAPITULO V.. EL COMITÉ DE ÉTICA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS
+###### Artículo 11.
 
-El ente Público contará con un Comité de Ética y de Prevención de Conflictos de Interés, encargado de constituir, difundir y evaluar la implementación del Código de Conducta para estar en conficiones de cumplir con los lineamientos generales para propiciar la integridad de los servidores públicos y para implementar acciones permanentes que favorezcan su comportamiento ético, según lo establecido en el Acuerdo Administrativo por el que se emite el Código de ética de los servidores públicos de la Administración Público (sic) del Poder Ejecutivo del Estado de Nuevo León.
+Regla de integridad de programas gubernamentales. Esta regla consiste en que los Servidores Públicos que con motivo de su empleo, cargo o comisión o a través de subordinados, participen en el otorgamiento y operación de subsidios y apoyos de programas gubernamentales, garantizarán que la entrega de estos beneficios se apegue a los principios de igualdad y no discriminación, legalidad, imparcialidad, transparencia y respeto. Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
 
-El Comité de Ética y de Prevención de Conflictos de interés se integrará por el Titular del ente Púbico (sic) o Director General, quien lo presidirá, por un Secretario Técnico y un vocal por cada unidad administrativa. A continuación, se mencionan los integrantes:
+I. Ser beneficiario directo o a través de familiares hasta el cuarto grado, de programas de subsidios o apoyos del Ente Público;
 
-I. El Director (a) General del Ente Público, quien fungirá como Presidente (a).
+II. Permitir la entrega o entregar subsidios o apoyos de programas gubernamentales, de manera diferente a la establecida en las reglas de operación;
 
-II. La Unidad de Contraloría interna, quien fungirá como Secretaria (o) técnico (a).
+III. Brindar apoyos o beneficios de programas gubernamentales a personas, agrupaciones o entes que no cumplan con los requisitos y criterios de elegibilidad establecidos en las reglas de operación;
 
-III. El Director (a) de Asuntos Jurídicos, quien fungirá como vocal.
+IV. Difundir propaganda gubernamental en relación al otorgamiento de subsidios o apoyos de programas gubernamentales, en periodos restringidos por la normatividad electoral, salvo en los casos en que ésta lo permita;
 
-IV. La secretaria técnica, quien fungirá como Vocal.
+V. Dar trato inequitativo o preferencial a cualquier persona u organización en la gestión del subsidio o apoyo del programa, lo cual incluye el ocultamiento, retraso o entrega engañosa o privilegiada de información;
 
-V. El Director de Administración y Finanzas, quien fungirá como Vocal
+VI. Discriminar a cualquier interesado, para acceder a los apoyos o beneficios de un programa gubernamental;
 
-VI. El Director de Calidad en el Deporte, quien fungirá como Vocal.
+VII. Alterar, ocultar, eliminar o negar información que impida el control y evaluación sobre el otorgamiento de los beneficios o apoyos a personas, agrupaciones o entes, por parte de las autoridades facultadas; y
 
-VII. La Coordinadora de Nacionales CONADE, quien fungirá como Vocal.
+VIII. Entregar, disponer o hacer uso distinto a las atribuciones encomendadas, de la información de los padrones de beneficiarios de programas gubernamentales diferentes a las atribuciones encomendadas.
 
-VIII. El Director de Cultura Física, quien fungirá como Vocal.
+###### Artículo 12.
 
-IX. El Coordinador de Deporte Social, quien fungirá como Vocal.
+Regla de integridad de trámites y servicios. Esta regla consiste en que los Servidores Públicos que con motivo de su empleo, cargo, comisión o función participen en la prestación de trámites y en el otorgamiento de servicios, atiendan a los usuarios de forma respetuosa, eficiente, oportuna, responsable e imparcial.
 
-X. El Coordinador de Mantenimiento de Instalaciones, quien fungirá como Vocal.
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
 
-FUNCIONES DEL COMITÉ:
+I. Ejercer una actitud contraria de servicio, respeto y cordialidad en el trato, incumpliendo protocolos de actuación o atención al público;
 
-I. Establecer las bases generales para su operación, que deberán contener, entre otros aspectos, los correspondientes a las convocatorias, orden del día de las sesiones, suplencias, quórum, desarrollo de las sesiones, votaciones, elaboración y firma de actas, y procedimientos de comunicación;
+II. Otorgar información falsa sobre el proceso y requisitos para acceder a consultas, trámites, gestiones y servicios;
 
-II. Elaborar y aprobar, durante el primer trimestre de cada año, su programa anual de trabajo que contendrá cuando menos: los objetivos, la meta que se prevea alcanzar para cada objetivo y las actividades que se planteen llevar a cabo para el logro de cada meta;
+III. Realizar trámites y otorgar servicios de forma deficiente, retrasando los tiempos de respuesta, consultas, trámites, gestiones y servicios;
 
-III. Proponer al Director General del Instituto Estatal de Cultura Física y Deporte de Nuevo León, el Código de Conducta del Instituto Estatal de Cultura Física y Deporte de Nuevo León.
+IV. Exigir, por cualquier medio, requisitos o condiciones adicionales a los señalados por las disposiciones jurídicas que regulan los trámites y servicios;
 
-IV. Establecer los mecanismos que empleará para verificar la aplicación y cumplimiento del Código de Ética, de las Reglas de Integridad y del Código de Conducta entre los servidores públicos del INDE;
+V. Discriminar por cualquier motivo en la atención de consultas, la realización de trámites y gestiones, y la prestación de servicios; y
 
-V. Determinar, los indicadores de cumplimiento de los Códigos de Ética y de Conducta, así como el método para medir y evaluar anualmente los resultados obtenidos. Los resultados y su evaluación se difundirán en el portal de Internet del INDE;
+VI. Recibir, solicitar o aceptar, cualquier tipo de compensación, dádiva, obsequio o regalo en la gestión que se realice para el otorgamiento del trámite o servicio.
 
-VI. Formular sugerencias al Comité de Control y Desempeño Institucional para modificar procesos y tramos de control en las unidades administrativas o áreas, en las que se detecten conductas contrarias al Código de Ética, las Reglas de integridad y al Código de Conducta;
+###### Artículo 13.
 
-VII. Difundir y promover los contenidos del Código de Ética, de las Reglas de Integridad y del Código de Conducta.
+Regla de integridad de recursos humanos. Esta regla consiste en que los Servidores Públicos que participen en procedimientos de recursos humanos, de planeación de estructuras o que desempeñen en general un empleo, cargo, comisión o función, se apeguen a los principios de igualdad y no discriminación, legalidad, imparcialidad, transparencia y rendición de cuentas.
 
-VIII. Dar vista a la Autoridad Investigadora de los actos que puedan constituir faltas administrativas o hechos de corrupción.
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
 
-IX. Presentar en el mes de enero al Director General del Instituto Estatal de Cultura Física y deporte de Nuevo León y al Comité de Control y Desempeño Institucional, durante la primera sesión del ejercicio fiscal siguiente, un informe anual de actividades que deberá contener por lo menos el resultado alcanzado para cada actividad específica contemplada en el programa anual de trabajo, así como el grado de cumplimiento de sus metas vinculadas a cada objetivo.
+I. Dejar de garantizar la igualdad de oportunidades en el acceso a la función pública con base en el mérito;
 
-FUNCIONES DL (SIC) PRESIDENTE:
+II. Designar, contratar o nombrar en un empleo, cargo, comisión o función, a personas cuyos intereses particulares, laborales, profesionales, económicos o de negocios puedan estar en contraposición o percibirse como contrarios a los intereses que les correspondería velar si se desempeñaran en el servicio público;
 
-A continuación, el Secretario Técnico da lectura a las funciones del Presidente.
+III. Proporcionar a un tercero no autorizado, información contenida en expedientes del personal y en archivos de recursos humanos bajo su resguardo;
 
-I. Mostrar una actitud de liderazgo y respaldo a la promoción de una cultura de integridad;
+IV. Suministrar información sobre los reactivos de los exámenes elaborados, para la ocupación de plazas vacantes a personas ajenas a la organización de los concursos;
 
-II. Propiciar un ambiente sano, cordial, íntegro y de respeto entre todos los miembros del Comité;
+V. Seleccionar, contratar, nombrar o designar a personas, sin haber obtenido previamente la constancia de no inhabilitación;
 
-III. Fomentar la libre e igualitaria participación de todos los miembros del Comité independientemente de su nivel jerárquico;
+VI. Seleccionar, contratar, nombrar o designar a personas que no cuenten con el perfil del puesto, con los requisitos y documentos establecidos, o que no cumplan con las obligaciones que las leyes imponen a todo ciudadano;
 
-IV. Vigilar el cumplimiento de las recomendaciones emitidas por el Comité;
+VII. Seleccionar, contratar, designar o nombrar directa o indirectamente como subalternos a familiares de hasta el cuarto grado de parentesco;
 
-V. Asistir a las sesiones ordinarias y extraordinarias;
+VIII. Inhibir la formulación o presentación de inconformidades o recursos que se prevean en las disposiciones aplicables para los procesos de ingreso;
 
-VI. Convocar a las sesiones ordinarias y extraordinarias, por conducto del Secretario Técnico;
+IX. Otorgar a un servidor público subordinado, durante su proceso de evaluación, una calificación que no corresponda a sus conocimientos, actitudes, capacidades o desempeño;
 
-VII. Consultar sobre la actualización de posibles conflictos de interés por parte de alguno de los miembros del Comité en relación a los asuntos del orden del día;
+X. Disponer del personal a su cargo en forma indebida, para que le realice trámites, asuntos o actividades de carácter personal o familiar ajenos al servicio público;
 
-VIII. Dirigir y moderar los debates durante las sesiones;
+XI. Presentar información y documentación falsa o que induzca al error, sobre el cumplimiento de metas de su evaluación del desempeño;
 
-IX. Autorizar la presencia de personas invitadas en la sesión para el desahogo de asuntos;
+XII. Remover, cesar, despedir, separar o dar o solicitar la baja de Servidores Públicos, sin tener atribuciones o por causas y procedimientos no previstos en las leyes aplicables;
 
-X. Vigilar que en la elaboración de los documentos rectores del Comité y los demás que resultaren aplicables a su funcionamiento y operación, participen todos los miembros del Comité;
+XIII. Evitar que el proceso de evaluación del desempeño de los Servidores Públicos se realice en forma objetiva y en su caso, dejar de retroalimentar sobre los resultados obtenidos, cuando su desempeño sea contrario a lo esperado; y
 
-XI. Consultar si los asuntos del orden del día están suficientemente discutidos y, en su caso, proceder a pedir la votación.
+XIV. Eludir, conforme a sus atribuciones, la reestructuración de áreas identificadas como sensibles o vulnerables a la corrupción o en las que se observe una alta incidencia de conductas contrarias a este Código o al Código de Conducta del IDEA.
 
-FUNCIONES DEL SECRETARO (SIC) TÉCNICO:
+###### Artículo 14.
 
-A continuación, el Secretario Técnico da lectura a las funciones que le son conferidas.
+Regla de integridad de administración de bienes muebles e inmuebles. Esta regla consiste en que los Servidores Públicos que, con motivo de su empleo, cargo, comisión o función, participan en procedimientos de baja, enajenación, transferencia o destrucción de bienes muebles o de administración de bienes inmuebles, administren los recursos con eficiencia, transparencia y honradez para satisfacer los objetivos a los que están destinados.
 
-I. Coordinar las acciones realizadas por los miembros del Comité en el fomento y promoción de la ética y la integridad
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
 
-II. Elaborar el orden del día de los asuntos que serán tratados en la sesión;
+I. Solicitar la baja, enajenación, transferencia o destrucción de bienes, cuando éstos sigan siendo útiles;
 
-III. Verificar el quórum;
+II. Compartir información (sic) personas no autorizadas ajenos (sic) a los procedimientos de baja, enajenación, transferencia o destrucción de bienes públicos, o sustituir documentos o alterar éstos;
 
-IV. Enviar, con una antelación mínima de cinco días hábiles a la fecha de la sesión ordinaria que corresponda y de dos días hábiles en el caso de sesiones extraordinarias y preferentemente por medios electrónicos a los miembros del Comité, la convocatoria y el orden del día de cada sesión, anexando copia de los documentos relacionados con el desahogo de la misma;
+III. Recibir o solicitar cualquier tipo de compensación, dádiva, obsequio o regalo, a cambio de beneficiar a los participantes en los procedimientos de enajenación de bienes muebles e inmuebles;
 
-V. Someter a la aprobación del Comité el acta de la sesión anterior, procediendo en su caso, a darle lectura;
+IV. Intervenir o influir en las decisiones de otros Servidores Públicos para que se beneficie a algún participante en los procedimientos de enajenación de bienes muebles e inmuebles;
 
-VI. Recabar las votaciones;
+V. Tomar decisiones en los procedimientos de enajenación de bienes muebles e inmuebles, anteponiendo intereses particulares que dejen de asegurar las mejores condiciones en cuanto a precio disponible en el mercado;
 
-VII. Auxiliar al presidente durante el desarrollo de las sesiones;
+VI. Manipular la información proporcionada por los particulares en los procedimientos de enajenación de bienes muebles e inmuebles;
 
-VIII. Elaborar los acuerdos que tome el Comité;
+VII. Utilizar el (sic) cualquier tipo de vehículo propiedad o arrendado por el IDEA, para uso particular, personal o familiar, fuera de la normativa establecida;
 
-IX. Levantar las actas de las sesiones;
+VIII. Utilizar los bienes inmuebles para uso ajeno a la normatividad aplicable; y
 
-X. Dar seguimiento a los acuerdos tomados por el Comité;
+IX. Disponer de los bienes y demás recursos públicos, sin observar las normas a las que se encuentran afectos y destinarlos a fines distintos al servicio público.
 
-XI. Llevar el registro de los asuntos recibidos y atendidos por el Comité;
+###### Artículo 15.
 
-XII. Difundir los acuerdos, observaciones y recomendaciones que establezca el Comité, atender las solicitudes de acceso a la información pública, adoptar las medidas de seguridad, cuidado y protección de datos personales y evitar el uso o acceso a los mismos.
+Regla de integridad de procesos de evaluación. Esta regla consiste en que los Servidores Públicos que, con motivo de su empleo, cargo, comisión o función, participen en procesos de evaluación, se apeguen en todo momento a los principios de legalidad, imparcialidad y rendición de cuentas.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+I. Proporcionar indebidamente datos contenidos en los sistemas de información del IDEA, a la que tenga acceso con motivo de su empleo, cargo, comisión o función, o acceder a tal información por causas distintas al ejercicio de sus funciones y facultades;
+
+II. Trasgredir el alcance y orientación de los resultados de las evaluaciones que realice cualquier instancia externa o interna en materia de evaluación o rendición de cuentas;
+
+III. Dejar de atender las recomendaciones formuladas por cualquier instancia de evaluación, ya sea interna o externa; y
+
+IV. Alterar registros de cualquier índole para simular o modificar los resultados de las funciones, programas y proyectos.
+
+###### Artículo 16.
+
+Regla de integridad de Control interno. Esta regla consiste en que los Servidores Públicos en el ejercicio de su empleo, cargo, comisión o función, que participen en procesos de control interno, generen, obtengan, utilicen y comuniquen información suficiente, oportuna, confiable y de calidad, apegándose a los principios de legalidad, imparcialidad y rendición de cuentas.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+I. Dejar de comunicar los riesgos asociados al cumplimiento de objetivos institucionales, así como los relacionados con corrupción y posibles irregularidades que afecten los recursos económicos públicos;
+
+II. Omitir diseñar o actualizar las políticas o procedimientos necesarios en materia de control interno;
+
+III. Generar información financiera, presupuestaria y de operación sin el respaldo suficiente;
+
+IV. Comunicar información financiera, presupuestaria y de operación incompleta, confusa o dispersa;
+
+V. Omitir supervisar los planes, programas o proyectos a su cargo, o en su caso, las actividades y el cumplimiento de las funciones del personal que le reporta;
+
+VI. Dejar de salvaguardar documentos e información que se deban conservar por su relevancia o por sus aspectos técnicos, jurídicos, económicos o de seguridad;
+
+VII. Ejecutar sus funciones sin establecer las medidas de control que le correspondan;
+
+VIII. Omitir modificar procesos y tramos de control, conforme a sus atribuciones, en áreas en las que se detecten conductas a este Código o al Código de Conducta del IDEA;
+
+IX. Dejar de implementar o de adoptar mejores prácticas y procesos para evitar la corrupción y prevenir cualquier conflicto de interés;
+
+X. Inhibir las manifestaciones o propuestas que tiendan a mejorar o superar deficiencias de operación, de procesos, de calidad de trámites y servicios, o de comportamiento ético de los Servidores Públicos; y
+
+XI. Eludir establecer estándares o protocolos de actuación en aquellos trámites o servicios de atención directa al público o dejar de observar aquéllos previstos por las instancias competentes.
+
+###### Artículo 17.
+
+Regla de integridad de procedimiento administrativo. Esta regla consiste en que los Servidores Públicos que, en el ejercicio de su empleo, cargo, comisión o función, participan en procedimientos administrativos, tengan una cultura de denuncia y respeten las formalidades esenciales del procedimiento y la garantía de audiencia conforme al principio de legalidad.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+I. Omitir notificar el inicio del procedimiento y sus consecuencias;
+
+II. Dejar de otorgar la oportunidad de ofrecer pruebas;
+
+III. Prescindir el desahogo de pruebas en que se finque la defensa;
+
+IV. Excluir la oportunidad de presentar alegatos;
+
+V. Omitir señalar los medios de defensa que se pueden interponer para combatir la resolución dictada;
+
+VI. Negarse a informar, declarar o testificar sobre hechos que le consten relacionados con conductas contrarias a la normatividad, así como a este Código y al Código de Conducta del IDEA;
+
+VII. Dejar de proporcionar, o negar documentación o información que la autoridad competente requiera para el ejercicio de sus funciones, o evitar colaborar con ésta en sus actividades; y
+
+VIII. Inobservar criterios de legalidad, imparcialidad, objetividad y discreción en los asuntos de los que tenga conocimiento que impliquen contravención a la normatividad, así como a este Código o al Código de Conducta del IDEA.
+
+###### Artículo 18.
+
+Regla de desempeño permanente con integridad. Esta regla consiste en que los Servidores Públicos que desempeñen un empleo, cargo, comisión o función, conduzcan su actuación con legalidad, imparcialidad, objetividad, transparencia, certeza, cooperación, ética e integridad.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+I. Omitir conducirse con un trato digno y cordial, conforme a los protocolos de actuación o atención al público, y de cooperación entre Servidores Públicos;
+
+II. Retrasar de manera negligente las actividades que permitan atender de forma ágil y expedita al público en general;
+
+III. Ocultar información y documentación, con el fin de entorpecer las solicitudes de acceso a información pública;
+
+IV. Realizar actividades particulares en horarios de trabajo que contravengan las medidas aplicables para el uso eficiente, transparente y eficaz de los recursos públicos;
+
+V. Aceptar documentación que no reúna los requisitos fiscales para la comprobación de gastos de representación, viáticos, pasajes, alimentación, telefonía celular, entre otros;
+
+VI. Obstruir la presentación de denuncias o acusaciones sobre el uso indebido o de derroche de recursos públicos; y
+
+VII. Omitir excusarse de conocer asuntos que puedan implicar cualquier conflicto de interés.
+
+###### Artículo 19.
+
+Regla de cooperación con la integridad. Esta regla consiste en que los Servidores Públicos en el desempeño de su empleo, cargo, comisión o función, cooperen con el Ente Público y con las instancias encargadas de velar por la observancia de los principios y valores intrínsecos a la función pública, en el fortalecimiento de la cultura ética y de servicio a la sociedad.
+
+Son acciones que, de manera enunciativa y no limitativa, hacen posible propiciar un servicio público íntegro, las siguientes:
+
+I. Detectar áreas sensibles o vulnerables a la corrupción;
+
+II. Proponer o en su caso adoptar, cambios a las estructuras y procesos a fin de inhibir ineficiencias, corrupción y conductas no éticas; y
+
+III. Recomendar, diseñar y establecer mejores prácticas a favor del servicio público.
+
+###### Artículo 20.
+
+Regla de integridad de comportamiento digno. Esta regla consiste en que los Servidores Públicos deben conducirse en forma digna sin proferir expresiones, adoptar comportamientos, usar lenguaje o realizar acciones de hostigamiento o acoso sexual, manteniendo para ello una actitud de respeto hacia las personas con las que tiene o guarda relación en la función pública.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+I. Realizar a personas que sean compañeras de trabajo, personal subordinado o usuarios, señales sexualmente sugerentes con las manos o a través de movimientos de otras partes del cuerpo;
+
+II. Tener contacto físico sugestivo o de naturaleza sexual, con personas que sean compañeras de trabajo, personal subordinado o usuarios en horarios de trabajo;
+
+III. Hacer regalos, dar preferencias indebidas o notoriamente diferentes en el ejercicio de su función, por tener interés sexual por una persona que sea compañera de trabajo, personal subordinado o usuario;
+
+IV. Llevar a cabo conductas dominantes, agresivas, intimidatorias u hostiles durante horario laboral o hacia una persona que sea compañera de trabajo, personal subordinado o usuario, para que se someta a sus deseos o intereses sexuales, o al de alguna otra u otras personas;
+
+V. Espiar a una persona mientras se cambia de ropa o está en el sanitario;
+
+VI. Condicionar la obtención de un empleo, su permanencia en él o las condiciones del mismo a cambio de aceptar conductas de naturaleza sexual;
+
+VII. Obligar a la realización de actividades que no competen a sus labores u otras medidas disciplinarias en represalia por rechazar proposiciones de carácter sexual;
+
+VIII. Condicionar la prestación de un trámite o servicio público a cambio de que la persona usuaria o solicitante acceda a sostener conductas sexuales de cualquier naturaleza;
+
+IX. Expresar comentarios, burlas, piropos o bromas hacia otra persona que sea compañera de trabajo, personal subordinado o usuario, referentes a la apariencia o a la anatomía con connotación sexual;
+
+X. Realizar comentarios, burlas o bromas sugerentes respecto de su vida sexual o de una persona que sea compañera de trabajo, personal subordinado o usuario;
+
+XI. Realizar invitaciones, favores o propuestas a citas o encuentros de carácter sexual directamente o mediante insinuaciones, a una persona que sea compañera de trabajo, personal subordinado o usuario;
+
+XII. Emitir expresiones o utilizar lenguaje que denigre a las personas que sean compañeras de trabajo, personal subordinado o usuarios, o pretenda colocarlas como objeto sexual.
+
+XIII. Preguntar a una persona que sea compañera de trabajo, personal subordinado o usuario sobre historias, fantasías o preferencias sexuales o sobre su vida sexual;
+
+XIV. Exhibir o enviar a través de algún medio de comunicación carteles, calendarios, mensajes, fotos, afiches, ilustraciones u objetos con imágenes o estructuras de naturaleza sexual, no deseadas ni solicitadas por la persona receptora, cuando ésta sea compañera de trabajo, personal subordinado o usuario;
+
+XV. Difundir rumores o cualquier tipo de información sobre la vida sexual de una persona que sea compañera de trabajo, personal subordinado o usuario;
+
+XVI. Expresar insultos o humillaciones de naturaleza sexual; y
+
+XVII. Mostrar deliberadamente partes íntimas del cuerpo a una o varias personas que sean compañeras de trabajo, personal subordinado o usuario.
+
+### CAPÍTULO V. Mecanismos de Capacitación y Difusión
+
+###### Artículo 21.
+
+Objetivo de los mecanismos. El objetivo de los mecanismos de capacitación y difusión, es el de fomentar y aplicar en el desempeño de sus funciones los principios y valores que la Constitución, la ley y el presente Código impone, que por su importancia son intrínsecos a la función pública.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2022)</small>
+
+###### Artículo 22.
+
+Mecanismos de capacitación. El IDEA, a través del OIC, promoverá la impartición de capacitaciones de Servidores Públicos, en el razonamiento sobre los principios y valores que deban prevalecer en la toma de decisiones y en el correcto ejercicio de la función pública en situaciones concretas, con base en las directrices previstas en la Ley General de Responsabilidades Administrativas y en las reglas de integridad establecidas en este Código.
+
+Dichas capacitaciones se podrán impartir mediante los siguientes mecanismos:
+
+I.- Cursos;
+
+II.-Talleres;
+
+III.- Conferencias;
+
+IV.- Seminarios; o
+
+V.- Cualquier otro que estime pertinente el IDEA.
+
+El IDEA deberá impartir alguno de esos mecanismos a todos sus Servidores Públicos, al menos una vez al año.
+
+REFORMADO, P.O. 21 DE MARZO DE 2022)
+
+###### Artículo 23.
+
+Mecanismos de difusión. El OIC deberá emitir y publicar el presente Código y en su caso sus reformas, por los siguientes medios:
+
+I.- El Periódico Oficial del Estado de Aguascalientes; y
+
+II.- La página de internet del IDEA. Asimismo, deberá entregarse un ejemplar impreso o en archivo electrónico de este Código, y en su caso de sus reformas, a todos los Servidores Públicos adscritos al IDEA.
+
+### CAPÍTULO VI. Órganos de Sanción y de Vigilancia
+
+###### Artículo 24.
+
+Órgano de sanción. Al OIC le corresponde sancionar cualquier acto u omisión que quebrante la disciplina y respeto que, en apego a este Código, deben observar los Servidores Públicos, esto de conformidad con los artículos 109, fracción III de la Constitución Política de los Estados Unidos Mexicanos; así como 10 párrafo segundo y 49 fracción I de la Ley General de Responsabilidades Administrativas; y artículo 2 fracción primera y artículo 36 fracción I de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+###### Artículo 25.
+
+Órgano de vigilancia. El IDEA podrá contar con un Comité de Ética y Prevención de Conflictos de Interés, encargado de fomentar y vigilar el cumplimiento de este Código y su Código de Conducta.
+
+En su caso, corresponderá al OIC regular la integración, organización, atribuciones y funcionamiento del órgano referido en el párrafo anterior.
+
+El OIC conocerá, investigará y sancionará de los asuntos que haga de su conocimiento el Comité de Ética del IDEA.
 
 ## TRANSITORIOS
 
-PRIMERO.- EL presente código entrará en vigor al día siguiente de su publicación en el Periódico oficial del Estado.
+###### ARTÍCULO PRIMERO.
 
-SEGUNDO.- El presente documento, deberá ser difundido en la página oficial de internet, con la finalidad de hacerlo del conocimiento de los servidores públicos del Instituto Estatal de Cultura Física y Deporte de Nuevo León.
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-Así lo acuerda y firma a los 11 días del mes de marzo del año 2022-dos mil veintidós.
+###### ARTÍCULO SEGUNDO.
 
-EL C. DIRECTOR GENERAL DEL INSTITUTO ESTATAL DE CULTURA FISICA Y DEPORTE DE NUEVO LEÓN
+Con fundamento en el Artículo Segundo Transitorio del “Acuerdo por el que se dan a conocer los Lineamientos para la Emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas”, publicado el 12 de octubre de 2018 en el Diario Oficial de la Federación, y con la entrada en vigor del presente Acuerdo, se abroga el Código de Ética del Instituto del Deporte del Estado de Aguascalientes, publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, Tomo LXXXI, Número 49, de fecha 3 de diciembre de 2018.
 
-LIC. FRANCISCO HERMILO GONZALEZ ORTIZ
+###### ARTÍCULO TERCERO.
+
+Quedan sin efectos aquellas disposiciones que se opongan (sic) lo previsto en el presente Acuerdo.
+
+Dado por el ÓRGANO INTERNO DE CONTROL DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES, en las instalaciones del Instituto del Deporte del Estado de Aguascalientes, en la Ciudad de Aguascalientes, a 28 de Agosto de 2019.
+
+ATENTAMENTE.
+
+C.P. LUIS VILLALPANDO CALDERÓN, TITULAR DE LA UNIDAD AUDITORA DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES.
+
+LIC. JOSÉ ISRAEL RODRÍGUEZ GARCÍA, TITULAR DE LA UNIDAD INVESTIGADORA DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES.
+
+LIC. LEOBARDO CARRIZALES VEGA, TITULAR DE LA UNIDAD SUBSTANCIADORA Y RESOLUTORA DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-P.O. 9 DE AGOSTO DE 2024.
+P.O. 21 DE MARZO DE 2022.
 
-## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO ESTATAL DE CULTURA FISICA Y DEPORTE”.]
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
 
-PRIMERO.- Se abroga el Código de Conduta el INDE publicado en el Periódico Oficial del Estado el 18 de enero del 2023.
+###### ARTÍCULO PRIMERO.
 
-SEGUNDO.- El presente código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-TERCERO.- El presente documento, deberá ser difundido con la finalidad de hacerlo del conocimiento de los servidores públicos del Instituto Estatal de Cultura Física y Deporte.
+###### ARTÍCULO SEGUNDO.
+
+El Órgano Interno de Control del Instituto del Deporte del Estado de Aguascalientes, deberá dar a conocer de manera (sic) las modificaciones establecidas en el presente Acuerdo.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efecto aquellas disposiciones que se opongan a lo previsto en el presente Acuerdo.
