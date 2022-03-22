@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-y-reglas-de-integridad-de-la-secretaria-1381
 country: "mx"
 rank: "codigo"
 publication_date: "2019-08-21"
-last_updated: "2019-08-21"
+last_updated: "2022-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARIA DE SEGURIDAD DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO DEL SECRETARIO DE SEGURIDAD Y PRESIDENTE DEL COMITÉ DE ÉTICA DE LA SECRETARÍA DE SEGURIDAD DEL ESTADO DE MÉXICO, POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARÍA DE SEGURIDAD, PUBLICADO EN LA G.G. DE 22 DE MARZO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARÍA DE SEGURIDAD
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE MARZO DE 2022 (ABROGADO).
 
 Código publicado en la Sección Primera al Número 34 de la Gaceta del Gobierno del Estado de México, el miércoles 21 de agosto de 2019.
 
@@ -790,3 +792,19 @@ Dr. Máximo Alberto Evia Ramírez
 Titular del Órgano Interno de Control
 
 (Rúbrica).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 22 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL SECRETARIO DE SEGURIDAD Y PRESIDENTE DEL COMITÉ DE ÉTICA DE LA SECRETARÍA DE SEGURIDAD DEL ESTADO DE MÉXICO, POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA SECRETARÍA DE SEGURIDAD”.]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Código de Conducta y Reglas de Integridad de la Secretaría de Seguridad, publicado en el Periódico Oficial "Gaceta del Gobierno", el 21 de agosto de 2019.
+
+CUARTO. Una vez publicado el presente Acuerdo, a través del Comité de Ética de la Secretaría de Seguridad del Estado de México, se realizará la difusión del Código de Conducta y Reglas de Integridad de la Secretaría de Seguridad, por los diversos medios oficiales de comunicación que para tal efecto establezca la Secretaría de Seguridad.
+
+QUINTO. Se dejan sin efecto, todas aquellas disposiciones de igual o menor jerarquía que contravengan lo dispuesto por el presente Acuerdo.
