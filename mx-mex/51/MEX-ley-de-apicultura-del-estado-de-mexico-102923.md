@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-apicultura-del-estado-de-mexico-102923"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-21"
-last_updated: "2020-09-29"
+last_updated: "2022-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE APICULTURA DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE APICULTURA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE MARZO DE 2022.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 21 de octubre de 2014.
 
@@ -399,13 +401,21 @@ La Secretaría, en coordinación con el Consejo Apícola, establecerá programas
 
 La captura y destrucción de los enjambres se realizará exclusivamente por personal autorizado por las autoridades correspondientes, ajustando su labor en todo momento a las normas oficiales que para tal efecto se establezcan.
 
+> <small>(REFORMADO, G.G. 22 DE MARZO DE 2022)</small>
+
 ###### Artículo 33.
 
-Cuando un agricultor, ganadero o dueño de una propiedad tenga la necesidad de aplicar productos agroquímicos estará obligado de dar aviso de este hecho y del producto que vaya a utilizar, a los apicultores instalados dentro de un radio de acción de tres kilómetros, que puedan verse afectados con dichos productos. Será también obligatorio dar este aviso a la asociación de apicultores del lugar en un término no menor de 72 horas.
+Cuando un agricultor, ganadero, o dueño o responsable de una propiedad tenga la necesidad de aplicar o contratar el servicio de aplicación de productos como plaguicidas, sustancias o materiales tóxicos o peligrosos, especialmente neonicotinoides, estará obligado (sic) dar aviso de este hecho y del producto que vaya a utilizar, a los apicultores y a la asociación de apicultores instalados dentro de un radio de acción de cinco kilómetros, que puedan verse afectados con dichos productos, en un término no mayor de 72 horas.
+
+Las unidades de producción agropecuarias que se encuentren en un radio de cinco kilómetros de un apiario deberán implementar y/o certificarse en el buen uso y manejo de plaguicidas.
+
+Las personas productoras agropecuarias y autoridades competentes deberán desincentivar el uso de sustancias y materiales tóxicos, para sustituirlos por alternativas sostenibles que permitan mantener las poblaciones de polinizadores.
+
+> <small>(REFORMADO, G.G. 22 DE MARZO DE 2022)</small>
 
 ###### Artículo 34.
 
-Las autoridades prestarán su ayuda para que cada vez que se requiera aplicar algún plaguicida se haga uso de aspersiones líquidas, con la finalidad de proteger a las abejas de envenenamiento.
+Las autoridades de carácter estatal y municipal, en el ámbito de sus competencias y atribuciones, prestarán auxilio y asesoría técnica en el uso y manejo de las sustancias químicas o vegetales precisadas en el primer párrafo del artículo anterior, para prevenir y proteger a las abejas y otros polinizadores.
 
 ###### Artículo 35.
 
@@ -726,3 +736,13 @@ DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se
 DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
 
 DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
+
+G.G. 22 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 37.- POR EL QUE SE REFORMA EL ARTÍCULO 2.164, FRACCIÓN III DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO Y SE REFORMAN LOS ARTÍCULOS 33 Y 34 DE LA LEY DE APICULTURA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor a los 180 días naturales posteriores a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado en un plazo no mayor a 90 días hábiles, deberá expedir las disposiciones reglamentarias y administrativas en materia de su competencia, de conformidad con el presente Decreto.
