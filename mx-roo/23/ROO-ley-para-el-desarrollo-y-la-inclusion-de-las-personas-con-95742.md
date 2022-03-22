@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-el-desarrollo-y-la-inclusion-de-las-personas-con-95742
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-30"
-last_updated: "2021-07-16"
+last_updated: "2022-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95742&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY PARA EL DESARROLLO Y LA INCLUSION DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUINTANA ROO
 
+(NOTA: EL 13 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 60/2022, DECLARÓ LA INVALIDEZ DEL DECRETO 216, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTIDÓS DE MARZO DE DOS MIL VEINTIDÓS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
 LEY PARA EL DESARROLLO Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 30 de julio de 2013.
 
@@ -603,21 +605,127 @@ III. Las instituciones a cargo de servicios y programas sociales en materia de d
 
 IV. Alentar a los medios de comunicación y las instituciones del sector privado que prestan servicios y suministran información al público en general, para que la proporcionen en formatos accesibles y de fácil comprensión a las personas con discapacidad.
 
-### CAPÍTULO I. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
+(NOTA: EL 13 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 60/2022, DECLARÓ LA INVALIDEZ DEL DECRETO 216, POR EL QUE SE ADICIONA LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2022)</small>
+
+V. PARA LOS FINES ESTABLECIDOS EN EL PÁRRAFO PRIMERO DEL ARTÍCULO 51 DE LA PRESENTE LEY, EL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO, CELEBRARÁ EN LA PRIMERA SEMANA DEL MES DE DICIEMBRE, EL PARLAMENTO PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUINTANA ROO.
+
+(NOTA: EL 13 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 60/2022, DECLARÓ LA INVALIDEZ DEL DECRETO 216, POR EL QUE SE ADICIONA LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2022)</small>
+
+VI. EL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO, A TRAVÉS DE LA COMISIÓN DE DESARROLLO FAMILIAR Y GRUPOS EN SITUACIÓN DE VULNERABILIDAD, DE LA COMISIÓN DE DERECHOS HUMANOS Y DE LA COMISIÓN DE ASUNTOS MUNICIPALES DE LA LEGISLATURA DEL ESTADO, LLEVARÁ A CABO LA ORGANIZACIÓN DIFUSIÓN Y EJECUCIÓN DE LOS TRABAJOS DEL PARLAMENTO PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUINTANA ROO, CON EL APOYO DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL PODER LEGISLATIVO.
+
+(NOTA: EL 13 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 60/2022, DECLARÓ LA INVALIDEZ DEL DECRETO 216, POR EL QUE SE ADICIONA EL CAPÍTULO XIII AL TÍTULO SEGUNDO, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE MARZO DE 2022)</small>
+
+### CAPÍTULO XIII. DEL PARLAMENTO PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUINTANA ROO
+
+(NOTA: EL 13 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 60/2022, DECLARÓ LA INVALIDEZ DEL DECRETO 216, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2022)</small>
+
+###### Artículo 51 Bis.
+
+El Parlamento para la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo se crea como un espacio de expresión para las personas con esta condición, en apego a lo que dispone el artículo 1° de esta ley, asegurando el ejercicio del derecho a la libertad de expresión y de opinión, constituyendo elementos sustanciales que le permitan su sano desarrollo e inclusión a la sociedad en un marco de respeto, igualdad y equiparación de oportunidades.
+
+(NOTA: EL 13 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 60/2022, DECLARÓ LA INVALIDEZ DEL DECRETO 216, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2022)</small>
+
+###### Artículo 51 Ter.
+
+El Parlamento para la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo se celebrará previa expedición de la Convocatoria correspondiente que para tales efectos emitan conjuntamente la Comisión de Desarrollo Familiar y Grupos en Situación de Vulnerabilidad, la Comisión de Derechos Humanos y la Comisión de Asuntos Municipales de la Legislatura del Estado, en la que se prevean las bases y lineamientos para la realización del mencionado Parlamento.
+
+(NOTA: EL 13 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 60/2022, DECLARÓ LA INVALIDEZ DEL DECRETO 216, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2022)</small>
+
+###### Artículo 51 Quáter.
+
+La Comisión de Desarrollo Familiar y Grupos en Situación de Vulnerabilidad, la Comisión de Derechos Humanos y la Comisión de Asuntos Municipales de la Legislatura del Estado, emitirán conjuntamente la convocatoria a más tardar un mes y medio antes de la fecha de celebración del parlamento para la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo, misma que se hará del conocimiento público.
+
+La convocatoria contendrá el mecanismo de la selección de las personas participantes en el Parlamento para la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo, deberá ser representativa de cada uno de los Municipios y de cada uno de los Distritos Electorales del Estado, garantizando la paridad de género, mismo que será acordado entre los integrantes de las comisiones convocantes.
+
+Las comisiones convocantes en caso de duda podrán determinar las medidas y acciones necesarias para la celebración del Parlamento en comento.
+
+(NOTA: EL 13 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 60/2022, DECLARÓ LA INVALIDEZ DEL DECRETO 216, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2022)</small>
+
+###### Artículo 51 Quinquies.
+
+Las personas participantes en el Parlamento para la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo, deberán acreditar ser mayores de dieciocho años de edad; tener certificado de discapacidad expedido por la autoridad correspondiente y cumplir con los demás requisitos que se estipulen en la Convocatoria a que se refiere el artículo 51 Ter de esta Ley.
+
+(NOTA: EL 13 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 60/2022, DECLARÓ LA INVALIDEZ DEL DECRETO 216, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2022)</small>
+
+###### Artículo 51 Sexies.
+
+Las personas participantes del Parlamento para la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo, deberán presentar una propuesta Legislativa en materia de discapacidad.
+
+La propuesta deberá estar orientada a mejorar el marco normativo estatal, así como promover cualquier otra acción legislativa que consideren necesaria deba realizarse por el Poder Legislativo del Estado.
+
+Las propuestas serán valoradas por las comisiones ordinarias de Desarrollo Familiar y Grupos en Situación de Vulnerabilidad, de Derechos Humanos y de Asuntos Municipales de la Legislatura del Estado quienes determinarán qué personas fungirán como Propietario y quienes como suplentes garantizando la paridad de género.
+
+(NOTA: EL 13 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 60/2022, DECLARÓ LA INVALIDEZ DEL DECRETO 216, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2022)</small>
+
+###### Artículo 51 Septies.
+
+Una vez concluido el Parlamento para la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo, las personas participantes obtendrán un reconocimiento de la Legislatura del Estado, por la distinción de haber formado parte de la vida política de su Estado.
+
+Posterior a ello, el Instituto de Investigaciones Legislativas del Poder Legislativo realizará el análisis de todas y cada una de las propuestas presentadas con motivo de la celebración del Parlamento para la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo, a fin de establecer la viabilidad de su incorporación al trabajo legislativo. Los análisis de viabilidad deberán estar fundados y motivados, incluyendo los considerados no viables.
+
+El Instituto de Investigaciones Legislativas del Poder Legislativo pondrá a consideración de las comisiones ordinarias de la Legislatura, las propuestas legislativas generadas con motivo de la celebración del Parlamento para la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo y el análisis de viabilidad correspondiente en un término no mayor de tres meses.
+
+(NOTA: EL 13 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 60/2022, DECLARÓ LA INVALIDEZ DEL DECRETO 216, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2022)</small>
+
+###### Artículo 51 Octies.
+
+La conformación de la Mesa Directiva del Parlamento para la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo y el desarrollo de la sesión correspondiente, se realizará conforme a lo que establece la Ley Orgánica del Poder Legislativo del Estado de Quintana Roo y el Reglamento para el Gobierno Interior de la Legislatura del Estado.
+
+(NOTA: EL 13 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 60/2022, DECLARÓ LA INVALIDEZ DEL DECRETO 216, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2022)</small>
+
+###### Artículo 51 Nonies.
+
+La Junta de Gobierno y Coordinación Política de la Legislatura del Estado de Quintana Roo, realizará las previsiones presupuestales, para asegurar los recursos necesarios y suficientes para la celebración anual del Parlamento para la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo.
+
+Dentro de los recursos que se prevean se deberán considerar las adecuaciones que en infraestructura se requieran para la operación, movilidad, traslado y estancia que requieran las personas participantes del mencionado Parlamento, para su debida consideración.
 
 ## TÍTULO TERCERO. POLÍTICA EN MATERIA DE DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD
 
-### CAPÍTULO II. REGISTRO ESTATAL DE PERSONAS CON DISCAPACIDAD
-
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+### CAPÍTULO I. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
 ###### Artículo 52.
 
 Las autoridades a las que corresponde el cumplimiento de la presente ley, son las siguientes:
 
-I. El Poder Ejecutivo, y
+(NOTA: EL 13 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 60/2022, DECLARÓ LA INVALIDEZ DEL DECRETO 216, POR EL QUE SE REFORMA LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-II. Los ayuntamientos.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2022)</small>
+
+I. EL PODER EJECUTIVO;
+
+(NOTA: EL 13 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 60/2022, DECLARÓ LA INVALIDEZ DEL DECRETO 216, POR EL QUE SE REFORMA LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2022)</small>
+
+II. LOS AYUNTAMIENTOS, Y
+
+(NOTA: EL 13 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 60/2022, DECLARÓ LA INVALIDEZ DEL DECRETO 216, POR EL QUE SE ADICIONA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2022)</small>
+
+III. EL PODER LEGISLATIVO.
 
 ###### Artículo 53.
 
@@ -651,6 +759,28 @@ XIII. Promover que en las instituciones de salud pública estatal y en las depen
 
 XIV. Las demás que resulten de la aplicación de la presente ley y demás ordenamientos legales aplicables a la materia.
 
+(NOTA: EL 13 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 60/2022, DECLARÓ LA INVALIDEZ DEL DECRETO 216, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2022)</small>
+
+###### Artículo 53 Bis.
+
+Son facultades del Poder Legislativo en materia de discapacidad, las siguientes:
+
+I. Promover y definir las políticas públicas necesarias para eliminar la discriminación contra las personas con discapacidad;
+
+II. Celebrar convenios de colaboración con autoridades federales, estatales y municipales para el cumplimiento de la presente ley, en beneficio de las personas con discapacidad;
+
+III. Vigilar y coadyuvar en la esfera de su competencia, al cumplimiento de la presente ley, así como de las demás disposiciones legales y reglamentarias aplicables en esta materia;
+
+IV. Promover las propuestas e iniciativas generadas con motivo del Parlamento para la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo, que contribuyan al acceso de las personas con discapacidad al desarrollo y la inclusión, así como a la igualdad de las condiciones y a la no violencia y discriminación en su contra;
+
+V. Promover reformas legislativas en materia de inclusión de no violencia y discriminación en contra de las personas con discapacidad;
+
+VI. Elaborar, promover y conducir el trabajo legislativo de armonización del marco normativo estatal con el fin de actualizar cada uno de sus preceptos para fomentar la inclusión y eliminar las desigualdades, y la discriminación en contra de las personas con discapacidad, y
+
+VII. Las demás que resulten de la aplicación de la presente ley y demás ordenamientos legales aplicables a la materia.
+
 ###### Artículo 54.
 
 Los ayuntamientos en los ámbitos de su competencia, deberán coordinarse con las dependencias y entidades referidas en la presente ley, a efecto de otorgar una mejor prestación de los servicios a favor de las personas con discapacidad.
@@ -683,9 +813,9 @@ El Instituto, promoverá la credencialización con fotografía de las personas c
 
 La Secretaría de Finanzas y Planeación en coordinación con el Comité de Planeación para el Desarrollo del Estado de Quintana Roo, auxiliará al Poder Ejecutivo, con el apoyo de la estructura del Sistema Estatal de Planeación del Desarrollo, para elaborar las estrategias, acciones, financiamiento y objetivos tendientes a la equiparación de oportunidades para el desarrollo integral de las personas con discapacidad en los términos de esta ley y demás disposiciones aplicables.
 
-### CAPÍTULO III. CONSEJO CONSULTIVO PARA PERSONAS CON DISCAPACIDAD
+### CAPÍTULO II. REGISTRO ESTATAL DE PERSONAS CON DISCAPACIDAD
 
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
 
 ###### Artículo 58.
 
@@ -703,7 +833,9 @@ El Instituto, en coordinación con el Consejo Estatal de Población, la Secretar
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ENERO DE 2019)</small>
 
-### CAPÍTULO IV. PARTICIPACIÓN SOCIAL
+### CAPÍTULO III. CONSEJO CONSULTIVO PARA PERSONAS CON DISCAPACIDAD
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE ENERO DE 2019)</small>
 
 #### Sección Primera. De su objeto y atribuciones
 
@@ -755,7 +887,7 @@ El Instituto, en coordinación con el Consejo Estatal de Población, la Secretar
 
 (DEROGADO, P.O. 16 DE ENERO DE 2019)
 
-### CAPÍTULO V. ESTÍMULOS E INCENTIVOS
+### CAPÍTULO IV. PARTICIPACIÓN SOCIAL
 
 ###### Artículo 71.
 
@@ -769,9 +901,7 @@ II. Proporcionen los datos necesarios para el desarrollo de investigaciones y es
 
 El Estado y los municipios, colaborarán con las asociaciones de y para personas con discapacidad cuyas acciones tiendan a una mayor inclusión de las mismas en todos los ámbitos, con el objeto de brindar asesoría, capacitación y difusión de sus actividades.
 
-### CAPÍTULO I. DENOMINACIÓN, OBJETO, DOMICILIO Y PATRIMONIO
-
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
+### CAPÍTULO V. ESTÍMULOS E INCENTIVOS
 
 ###### Artículo 73.
 
@@ -791,7 +921,7 @@ El Estado y los municipios podrán otorgar, además de los reconocimientos anter
 
 > <small>(REFORMADA SU DENOMINACIÓN Y NUMERACIÓN, P.O. 16 DE ENERO DE 2019)</small>
 
-### CAPÍTULO II. ATRIBUCIONES
+### CAPÍTULO I. DENOMINACIÓN, OBJETO, DOMICILIO Y PATRIMONIO
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
 
@@ -819,7 +949,7 @@ IV. Los rendimientos por virtud de sus operaciones financieras, aportaciones, do
 
 > <small>(ADICIONADO [N. DE E. COMPRENDE EL ARTÍCULO 78], P.O. 16 DE ENERO DE 2019)</small>
 
-### CAPÍTULO III. DIRECCIÓN GENERAL
+### CAPÍTULO II. ATRIBUCIONES
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
 
@@ -861,7 +991,7 @@ XVI. Las demás que le otorgue la presente Ley u otras disposiciones legales apl
 
 > <small>(ADICIONADO [N. DE E. COMPRENDE LOS ARTÍCULOS 79 AL 80], P.O. 16 DE ENERO DE 2019)</small>
 
-### CAPÍTULO IV. JUNTA DIRECTIVA
+### CAPÍTULO III. DIRECCIÓN GENERAL
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
 
@@ -927,9 +1057,9 @@ X. Las demás que le señale esta Ley y el ordenamiento jurídico que lo norme.
 
 > <small>(ADICIONADO [N. DE E. COMPRENDE LOS ARTÍCULOS 81 AL 84], P.O. 16 DE ENERO DE 2019)</small>
 
-### CAPÍTULO V. CONSEJO CONSULTIVO PARA EL DESARROLLO Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUINTANA ROO
+### CAPÍTULO IV. JUNTA DIRECTIVA
 
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
 
 ###### Artículo 81.
 
@@ -999,7 +1129,7 @@ VI. Las demás que le confieran éste y otros ordenamientos aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ENERO DE 2019)</small>
 
-### CAPÍTULO VI. ORGANO DE VIGILANCIA
+### CAPÍTULO V. CONSEJO CONSULTIVO PARA EL DESARROLLO Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUINTANA ROO
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
 
@@ -1075,7 +1205,7 @@ Las sesiones que celebre el Consejo serán ordinarias y extraordinarias; las ord
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ENERO DE 2019)</small>
 
-### CAPÍTULO VII. RÉGIMEN DE TRABAJO
+### CAPÍTULO VI. ORGANO DE VIGILANCIA
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
 
@@ -1093,7 +1223,7 @@ El órgano de vigilancia del Instituto estará integrado por un Comisario Públi
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE ENERO DE 2019)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VII. RÉGIMEN DE TRABAJO
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
 
@@ -1106,6 +1236,10 @@ Las relaciones de trabajo del Instituto y su personal se regirán por lo estable
 ## TÍTULO QUINTO. RESPONSABILIDAD Y SANCIONES
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE ENERO DE 2019)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
 
 ###### Artículo 94.
 
@@ -1216,3 +1350,15 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+(NOTA: EL 13 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 60/2022, DECLARÓ LA INVALIDEZ DEL DECRETO 216, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTIDÓS DE MARZO DE DOS MIL VEINTIDÓS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+P.O. 22 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 216 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Poder Legislativo del Estado de Quintana Roo deberá considerar una partida presupuestal para el Ejercicio Fiscal 2023, para el cumplimiento del presente Decreto que garantice la suficiencia económica para llevar a cabo el Parlamento para la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
