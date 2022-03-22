@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-transparencia-y-acceso-a-la-informacion-121285"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-05-10"
-last_updated: "2020-06-01"
+last_updated: "2022-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121285&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-04-27"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE MARZO DE 2022.
 
 Reglamento publicado en la Segunda Sección al Número 6 del Diario Oficial de la Federación, el miércoles 10 de mayo de 2017.
 
@@ -355,7 +355,9 @@ Las actas no serán una transcripción de la sesión, solamente se asentarán lo
 
 Las resoluciones que emita el Comité serán firmadas por los miembros propietarios o suplentes que hayan asistido a la sesión presencial de que se trate.
 
-En el caso de las sesiones que se realicen vía remota, se asentará en las resoluciones el sentido del voto de cada uno de los miembros del Comité y el Secretario dará fe del mismo. Dichas resoluciones serán válidas y surtirán efectos cuando se carguen a la Plataforma Nacional de Transparencia a través del usuario del Titular de la Unidad de Transparencia.
+> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2022)</small>
+
+En el caso de las sesiones que se realicen vía remota, se asentará en las resoluciones el sentido del voto de cada uno de los miembros del Comité y el Secretario, o su suplente, dará fe del mismo y firmará dichas resoluciones. Las resoluciones surtirán sus efectos cuando se carguen a la Plataforma Nacional de Transparencia.
 
 ###### Artículo 17.
 
@@ -919,6 +921,22 @@ Para plantear la excusa, los miembros del Comité deberán informar al Coordinad
 
 La determinación que califique una excusa no es recurrible.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, D.O.F. 22 DE MARZO DE 2022)</small>
+
+## Título VII. De las Firmas
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 22 DE MARZO DE 2022)</small>
+
+### Capítulo Único
+
+> <small>(ADICIONADO, D.O.F. 22 DE MARZO DE 2022)</small>
+
+###### Artículo 90.
+
+Los documentos que deban contener la firma de los servidores públicos de la Comisión en materia de transparencia, acceso a la información y protección de datos personales podrán ser suscritos de forma electrónica a través de la Firma Electrónica Avanzada, la cual producirá los mismos efectos jurídicos que la firma autógrafa.
+
+Para esos efectos, se podrá hacer uso de la Solución o Soluciones Tecnológicas con que cuente la Comisión para la firma electrónica de documentos y actuaciones, que se regirán, en lo aplicable, conforme a las Reglas con que cuente la Comisión para el uso de la Firma Electrónica Avanzada.
+
 ## Transitorios
 
 PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -936,5 +954,11 @@ La Presidenta, Alejandra Palacios Prieto.- Rúbrica.- Los Comisionados: Jesús I
 D.O.F. 1 DE JUNIO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “ACUERDO NO. CFCE-141-2020 MEDIANTE EL CUAL EL PLENO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA”.]
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO NO. CFCE-070-2022 MEDIANTE EL CUAL EL PLENO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA".]
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
