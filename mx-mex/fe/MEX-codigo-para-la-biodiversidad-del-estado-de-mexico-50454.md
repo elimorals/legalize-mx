@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2021-01-05"
+last_updated: "2022-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE MARZO DE 2022.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -2099,7 +2099,13 @@ I. Corresponde al Estado, sus Municipios y a la sociedad prevenir y controlar la
 
 II. Los residuos sólidos deben ser controlados desde su origen, reduciendo, previniendo y ubicando su generación no importando que sea de fuentes industriales, municipales o domésticas; por lo que se deben incorporar técnicas y métodos para su reuso, y reciclaje, así como para su manejo, tratamiento y disposición final; y
 
-III. La utilización de plaguicidas, fertilizantes y sustancias tóxicas debe ser compatible con el equilibrio de los ecosistemas y se deberá considerar los efectos sobre la salud humana, esto con la finalidad de prevenir los daños que su uso pudiera ocasionar.
+> <small>(REFORMADA, G.G. 22 DE MARZO DE 2022)</small>
+
+III. La utilización de productos agroecológicos, fitosanitarios ecológicos y orgánicos, plaguicidas, fertilizantes y sustancias tóxicas deben ser compatibles con el equilibrio de los ecosistemas, y considerar los efectos sobre la salud humana con un enfoque preventivo, en los términos de las disposiciones jurídicas aplicables.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN III, G.G. 22 DE MARZO DE 2022.]</small>
+
+Lo previsto en el párrafo anterior, también será aplicable en la utilización de plaguicidas altamente peligrosos, persistentes y bioacumulables de cualquier composición química, tales como los neonicotinoides y todo plaguicida que, por sustento científico, sea evidenciado como altamente peligroso y que entrañen un peligro para la salud humana, animal, especialmente para las abejas, otros polinizadores, y los ecosistemas.
 
 ###### Artículo 2.
 
@@ -8220,3 +8226,13 @@ e) Evaluación Técnica de Factibilidad de Transformación Forestal se entender�
 f) Evaluación Técnica de Factibilidad de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Factibilidad de Distribución de Agua, se entenderá por Evaluación Técnica de Impacto en materia de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Impacto en materia de Distribución de Agua según corresponda; y
 
 g) Evaluación Técnica de Factibilidad de Impacto de Movilidad se entenderá por Evaluación Técnica de Impacto en materia de Movilidad.
+
+G.G. 22 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 37.- POR EL QUE SE REFORMA EL ARTÍCULO 2.164, FRACCIÓN III DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO Y SE REFORMAN LOS ARTÍCULOS 33 Y 34 LA LEY DE APICULTURA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor a los 180 días naturales posteriores a su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Ejecutivo del Estado en un plazo no mayor a 90 días hábiles, deberá expedir las disposiciones reglamentarias y administrativas en materia de su competencia, de conformidad con el presente Decreto.
