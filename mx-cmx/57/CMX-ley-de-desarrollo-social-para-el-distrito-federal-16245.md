@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-social-para-el-distrito-federal-16245"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-23"
-last_updated: "2019-08-22"
+last_updated: "2022-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16245&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-04-24"
 
 LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE MARZO DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 23 de mayo de 2000.
 
@@ -58,9 +58,9 @@ Las disposiciones de la presente Ley son de orden público e interés social y t
 
 I. Cumplir, en el marco de las atribuciones de la Administración Pública del Distrito Federal, con la responsabilidad social del Estado y asumir plenamente las obligaciones constitucionales en materia social para que la ciudadanía pueda gozar de sus derechos sociales universales;
 
-> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+> <small>(REFORMADA, G.O. 23 DE MARZO DE 2022)</small>
 
-II. Promover, proteger y garantizar el cumplimiento de los derechos sociales universales de los habitantes del Distrito Federal en particular en materia de alimentación, salud, educación, vivienda, trabajo e infraestructura social;
+II. Promover, proteger y garantizar el cumplimiento de los derechos sociales universales de los habitantes de la Ciudad de México, en particular en materia de alimentación nutritiva y de calidad, salud, educación, cultura, vivienda digna y decorosa, el disfrute de un medio ambiente sano, trabajo, seguridad social e infraestructura social, y los relativos a la no discriminación en los términos de la Constitución Política de la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
 
@@ -1389,3 +1389,11 @@ CUARTO. El Consejo de Evaluación de Desarrollo Social de la Ciudad de México c
 QUINTO. A partir de la publicación de los lineamientos a que se refiere el transitorio que antecede las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México y las Alcaldías contarán con un plazo de treinta días naturales para notificar al Consejo de Evaluación de Desarrollo Social de la Ciudad de México, todas las acciones sociales, en las que se incluyan las actividades institucionales conforme a la definición contenida en el artículo 3, fracción I del presente decreto de reformas a la Ley de Desarrollo Social para el Distrito Federal, que se encuentren realizando con el propósito de que se realice la evaluación correspondiente.
 
 Los lineamientos preverán mecanismos, procesos y plazos para que las acciones sociales que se encuentren en desarrollo se ajusten a estos.
+
+G.O. 23 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO (SIC) SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 1 DE LA LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
