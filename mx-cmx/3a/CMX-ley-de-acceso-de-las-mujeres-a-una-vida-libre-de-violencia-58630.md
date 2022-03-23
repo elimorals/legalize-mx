@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2021-09-02"
+last_updated: "2022-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE MARZO DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -109,6 +109,10 @@ El modelo incluye de manera explícita y directa, las opiniones, necesidades y v
 XIV. Persona agresora: Quien o quienes infligen algún tipo de violencia contra las mujeres en cualquiera de sus tipos y modalidades;
 
 XV. Perspectiva de género: Visión crítica, explicativa, analítica y alternativa que aborda las relaciones entre los géneros y que permite enfocar y comprender las desigualdades construidas socialmente entre mujeres y hombres y establece acciones gubernamentales para disminuir las brechas de desigualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, G.O. 23 DE MARZO DE 2022)</small>
+
+XV Bis. Perspectiva Intercultural: enfoque que toma como punto de partida la realidad social y la pluralidad cultural de determinados grupos sociales que pertenecen a una cultura históricamente marginada;
 
 XVI. Red de información de violencia contra las mujeres: El sistema de recolección, procesamiento y clasificación de la información producida por las dependencias y entidades señaladas en esta Ley;
 
@@ -1360,11 +1364,11 @@ VII. Las demás que le atribuyan otros ordenamientos legales.
 
 ### CAPÍTULO VII. MEDIDAS U ÓRDENES DE PROTECCIÓN
 
-> <small>(ADICIONADO PRIMER PÁRRAFO, G.O. 26 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE MARZO DE 2022)</small>
 
 ###### Artículo 62.
 
-Las medidas de protección son medidas urgentes y de carácter temporal implementadas por una autoridad competente en favor de una mujer o niña en situación de violencia o de las víctimas indirectas en situación de riesgo.
+Las medidas u órdenes de protección son un derecho de todas las mujeres y niñas, son urgentes y de carácter temporal implementadas por autoridad competente en favor de las mujeres o niñas en situación de violencia, así como de las víctimas indirectas en situación de riesgo.
 
 > <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
 
@@ -1398,13 +1402,23 @@ Las autoridades emisoras y ejecutoras de las medidas de protección deberán obs
 
 I. Principio de protección: considerar de manera primordial la obligación de salvaguardar la vida, integridad, libertad y seguridad de las personas;
 
+> <small>(ADICIONADA, G.O. 23 DE MARZO DE 2022)</small>
+
+I Bis. Principio de Buena fe: las autoridades, en todo momento, presumirán la buena fe de las víctimas en situación de riesgo o violencia y deberán creer en su narración de los hechos. Las personas servidoras públicas que intervengan con motivo del ejercicio de los derechos de las víctimas, no deberán revictimizarlas o hacerlas responsables de su situación. En todo momento deberán permitir el ejercicio efectivo de sus derechos.
+
 II. Principio de necesidad y proporcionalidad: las medidas de protección deben responder a las necesidades inmediatas y específicas de las víctimas, atendiendo a la situación de riesgo, peligro existente o a las consecuencias de los actos de violencia.
 
 III. Principio de confidencialidad: toda la información y actividad administrativa o jurisdiccional relacionada con el ámbito de protección de las personas, debe ser reservada para los fines de la investigación o del proceso respectivo.
 
 IV. Principio de oportunidad y eficacia: Las medidas deben ser otorgadas e implementadas de manera inmediata y durante el tiempo que garanticen su objetivo.
 
-V. Principio de accesibilidad: se deberá articular un procedimiento sencillo para garantizar la materialización de la protección inmediata a las víctimas de acuerdo a sus condiciones específicas, tomando en consideración el contexto de la violencia.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE MARZO DE 2022)</small>
+
+V. Principio de accesibilidad: se deberá articular un procedimiento sencillo para garantizar la materialización de la protección inmediata a las víctimas de acuerdo con sus condiciones específicas, tomando en consideración el contexto de la violencia.
+
+> <small>(ADICIONADO, G.O. 23 DE MARZO DE 2022)</small>
+
+Tratándose de mujeres y niñas indígenas, la información proporcionada deberá ser en su lengua, mediante un formato pertinente y culturalmente adecuado. En el caso de mujeres o niñas con discapacidad, este principio debe incluir la accesibilidad al entorno físico y también a las comunicaciones, considerando los diferentes tipos de necesidades para los diversos tipos de discapacidades reconocidas.
 
 VI. Principio de integralidad: El otorgamiento de la medida a favor de la victima deberá garantizar la salvaguarda de todos los derechos de las víctimas, considerando los distintos aspectos que se presentan en cada caso.
 
@@ -1413,6 +1427,18 @@ VII. Principio de concentración: No se necesita una orden para cada medida, una
 VIII. Principio pro persona: Para interpretar lo referente al otorgamiento de las medidas de protección, en caso de duda, con relación a la situación de violencia, se estará a lo más favorable para la víctima.
 
 IX. Principio de interés superior de la niñez: Cuando las decisiones que se adopten relacionadas con el trámite de medidas de protección, afecte de manera directa o indirecta a una niña, niño o adolescente se deberán evaluar y ponderar las posibles repercusiones para evitar efectos negativos en su esfera de derechos
+
+> <small>(ADICIONADO, G.O. 23 DE MARZO DE 2022)</small>
+
+###### Artículo 62 Ter.
+
+Además de los principios establecidos en el artículo anterior, las autoridades administrativas, ministeriales o el órgano jurisdiccional competente, al emitir órdenes de protección, deberán incorporar la perspectiva intercultural tomando en cuenta, cuando menos, los siguientes elementos:
+
+I. El criterio de autoadscripción que es la base sobre la cual se define la pertenencia a un pueblo o comunidad indígena, por lo que no se deberán solicitar pruebas para acreditar dicha pertenencia;
+
+II. El nivel de castellanización o la lengua indígena de la mujer o niña, y
+
+III. Deberán identificarse condiciones de exclusión que obstaculicen el acceso a la justicia y pudieran requerir adecuaciones procesales para garantizar el acceso a una orden de protección.
 
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -1945,3 +1971,11 @@ DÉCIMO SEGUNDO. La Secretaría de Seguridad Ciudadana deberá establecer las ba
 Los procesos de formación, actualización y especialización de las personas integrantes del Sistema Penitenciario se alinearán al Programa de Profesionalización y al Programa Rector de Profesionalización de la Universidad de la Policía de la Ciudad de México.
 
 El Instituto de Capacitación Penitenciaria continuará en funciones hasta en tanto se implemente el Servicio Profesional de Carrera de las personas integrantes del Sistema Penitenciario.
+
+G.O. 23 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICAN LOS ARTÍCULOS 62, PÁRRAFO PRIMERO, Y 62 BIS, FRACCIÓN V, Y SE ADICIONA UNA FRACCIÓN XV BIS AL ARTÍCULO 3; UNA FRACCIÓN I BIS Y UN PÁRRAFO SEGUNDO A LA FRACCIÓN V AL ARTÍCULO 62 BIS, ASÍ COMO UN ARTÍCULO 62 TER; TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
