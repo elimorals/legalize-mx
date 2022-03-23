@@ -4,7 +4,7 @@ identifier: "FED-ley-general-del-sistema-nacional-de-seguridad-publica-64772"
 country: "mx"
 rank: "ley_general"
 publication_date: "2009-01-02"
-last_updated: "2021-05-20"
+last_updated: "2022-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGSNSP"
 
 LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MARZO DE 2022.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 2 de enero de 2009.
 
@@ -1364,9 +1364,9 @@ d) La comisión de un delito en flagrancia.
 
 II. Prevención, que será la encargada de prevenir la comisión de delitos e infracciones administrativas, realizar las acciones de inspección, vigilancia y vialidad en su circunscripción;
 
-> <small>(ADICIONADA, D.O.F. 27 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2022)</small>
 
-III. Proximidad social, como una actividad auxiliar a las funciones de prevención, a través de la proactividad y la colaboración con otros actores sociales, bajo una política de colaboración interna e interinstitucional que fortalezca la gobernabilidad local, y
+III. Proximidad social, como una actividad auxiliar a las funciones de prevención, a través de la proactividad y la cooperación con otros actores sociales, bajo una política de comunicación y colaboración interna e interinstitucional que fortalezca la gobernabilidad local y promueva la mediación, como procedimiento voluntario para solucionar pacíficamente conflictos derivados de molestias y problemáticas de la convivencia comunitaria que no constituyan delitos, y
 
 IV. Reacción, que será la encargada de garantizar, mantener y restablecer el orden y la paz públicos.
 
@@ -2633,3 +2633,9 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 23 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 75 DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
