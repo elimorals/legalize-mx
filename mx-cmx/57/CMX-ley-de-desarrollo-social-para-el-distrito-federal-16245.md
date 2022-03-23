@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-social-para-el-distrito-federal-16245"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-23"
-last_updated: "2019-08-22"
+last_updated: "2022-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16245&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,453 +20,495 @@ issue_date: "2000-04-24"
 ---
 # LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO
+LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE MARZO DE 2022.
 
-Reglamento publicado en la Gaceta de Gobierno del Estado de México, el viernes 16 de marzo de 2012.
+Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 23 de mayo de 2000.
 
-DOCTOR ERUVIEL ÁVILA VILLEGAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MÉXICO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 77 FRACCIONES IV, XXVIII, XXXVIII Y XLVI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 2 Y 8 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; Y
+(Al margen superior izquierdo un escudo que dice: CIUDAD DE MÉXICO.- JEFE DE GOBIERNO DEL DISTRITO FEDERAL)
 
-C O N S I D E R A N D O.
+LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL
 
-En mérito de lo anterior, he tenido a bien expedir el siguiente:
+ROSARIO ROBLES BERLANGA, Jefa de Gobierno del Distrito Federal, a sus habitantes sabed:
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO
+Que la Honorable Asamblea Legislativa del Distrito Federal, I Legislatura, se ha servido dirigirme la siguiente
 
-### CAPÍTULO I. DE LA SECRETARÍA DEL TRABAJO
+LEY
 
-#### Sección Primera. De la Competencia y Organización de la Secretaría
+(Al margen superior izquierdo el escudo nacional que dice: ESTADOS UNIDOS MEXICANOS.- ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.- I LEGISLATURA)
+
+LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, I LEGISLATURA
+
+DECRETA
+
+LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 1.
 
-El presente Reglamento tiene por objeto regular la organización y el funcionamiento de la Secretaría del Trabajo.
+Las disposiciones de la presente Ley son de orden público e interés social y tiene por objeto ampliar las oportunidades de las personas, prestando especial atención a su condición humana tendiente a garantizar los Derechos Humanos, para:
 
-Cuando en el presente ordenamiento jurídico se haga referencia a la Secretaría, se entenderá a la Secretaría del Trabajo y Secretario, al Secretario del Trabajo.
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
+I. Cumplir, en el marco de las atribuciones de la Administración Pública del Distrito Federal, con la responsabilidad social del Estado y asumir plenamente las obligaciones constitucionales en materia social para que la ciudadanía pueda gozar de sus derechos sociales universales;
+
+> <small>(REFORMADA, G.O. 23 DE MARZO DE 2022)</small>
+
+II. Promover, proteger y garantizar el cumplimiento de los derechos sociales universales de los habitantes de la Ciudad de México, en particular en materia de alimentación nutritiva y de calidad, salud, educación, cultura, vivienda digna y decorosa, el disfrute de un medio ambiente sano, trabajo, seguridad social e infraestructura social, y los relativos a la no discriminación en los términos de la Constitución Política de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
+III. Disminuir la desigualdad social en sus diversas formas, derivada de la desigual distribución de la riqueza, los bienes y los servicios, entre los individuos, grupos sociales y ámbitos territoriales;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
+IV. Integrar las políticas y programas contra la pobreza en el marco de las políticas contra la desigualdad social;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
+V. Impulsar la política de desarrollo social, con la participación de personas, comunidades, organizaciones y grupos sociales que deseen contribuir en este proceso de modo complementario al cumplimiento de la responsabilidad social del Estado y a la ampliación del campo de lo público;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
+VI. Revertir los procesos de exclusión y de segregación socio-territorial en la ciudad;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
+VII. Fomentar la equidad de género en el diseño y operación de las políticas públicas y en las relaciones sociales;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
+VIII. Implementar acciones que busquen la plena equidad social para todos los grupos excluidos, en condiciones de subordinación o discriminación por razones de su condición socioeconómica, edad, sexo, pertenencia étnica, características físicas, preferencia sexual, origen nacional, práctica religiosa o cualquier otra;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
+IX. Contribuir a construir una sociedad con pleno goce de sus derechos económicos, sociales y culturales;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
+X. Fomentar las más diversas formas de participación ciudadana con relación a la problemática social;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
+XI. Profundizar el reconocimiento de la presencia indígena y la diversidad cultural de la ciudad y en el desarrollo de relaciones de convivencia interculturales;
+
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2007)</small>
+
+XII. Articular el desarrollo social, el urbano y el rural;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
+XIII. Coadyuvar al reconocimiento y ejercicio del derecho a la ciudad;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
+XIV. Fomentar la reconstrucción del tejido social urbano con base en el orgullo de pertenencia a la ciudad y la comunidad, el respeto de los derechos de todos los habitantes y la superación de toda forma de discriminación, violencia y abuso en las relaciones entre los habitantes;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
+XV. Integrar o reintegrar socialmente a los grupos de población excluidos de los ámbitos del desarrollo social, la familia o la comunidad con pleno respeto a su dignidad y derechos;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
+XVI. Establecer los mecanismos para que el Gobierno del Distrito Federal cumpla de manera eficiente su responsabilidad en el desarrollo social;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
+XVII. Definir las responsabilidades de cada uno de los órganos que integran la Administración Pública del Distrito Federal que se vinculen al tema del desarrollo social;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
+XVIII. Fomentar las propuestas de la ciudadanía y sus organizaciones en el diseño, monitoreo y evaluación de las políticas de desarrollo social y su contribución a las innovaciones en este campo, a fin de fortalecer la profundidad y sustentabilidad de las acciones que se emprendan;
+
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2005)</small>
+
+XIX. Avanzar en la definición de mecanismos y procedimientos que garanticen la plena exigibilidad de los derechos sociales en el marco de las atribuciones de la Administración Pública del Distrito Federal, y
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+XX. Garantizar el efectivo acceso de toda persona a la información pública en materia de desarrollo social e impulsar su máxima publicidad;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+XXI. Asegurar la protección de los datos personales que se recaben y garantizar el derecho a la privacidad de toda persona que entregue información personal para acceder a la política social en el Distrito Federal, y
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+XXII. Garantizar el estricto apego a la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México y a la Ley de Protección de Datos Personales del Distrito Federal.
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+XXIII. Los demás que se deriven de otras leyes u ordenamientos legales y estén vinculados con los principios de la política de desarrollo social.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 2.
 
-La Secretaría tiene a su cargo el despacho de los asuntos que le encomiendan la Ley Orgánica de la Administración Pública del Estado de México y demás leyes, decretos, reglamentos, acuerdos, convenios, circulares y otras disposiciones que expida el Gobernador del Estado o los que le correspondan en razón de sus atribuciones.
+En todo lo no previsto por esta Ley, será de aplicación supletoria la Ley de Planeación del Desarrollo del Distrito Federal, y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 3.
 
-Para el estudio, planeación y despacho de los asuntos de su competencia, así como para atender las funciones de control y evaluación que le corresponden, la Secretaría contará con un Secretario, quien se auxiliará de las unidades administrativas básicas siguientes:
+Para los efectos de la presente Ley se entenderá por:
 
-I. Dirección General del Trabajo.
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2019)</small>
 
-II. Dirección General de la Previsión Social.
+I. Acción Social: Conjunto de actividades institucionales de desarrollo social y de bienestar normadas por Lineamientos de Operación y que tienen carácter contingente, temporal, emergente o casuístico.
 
-III. Procuraduría de la Defensa del Trabajo.
+II. Administración: La Administración Pública de la Ciudad de México;
 
-IV. Coordinación Administrativa.
+III. Beneficiarios: Aquellas personas que forman parte de la población atendida por los programas de desarrollo social y que cumplen los requisitos de la normatividad correspondiente;
 
-V. Contraloría Interna.
+IV. Comisión: La Comisión Interinstitucional de Desarrollo Social;
 
-La Secretaría contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización; asimismo, se auxiliará de los servidores públicos y de los órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo con el presupuesto, estructura orgánica y normatividad aplicables.
+V. Consejo: El Consejo de Desarrollo Social;
+
+VI. Consejo Delegacional: El Consejo Delegacional de Desarrollo Social;
+
+VII. Consejo de Evaluación.- El Consejo de Evaluación del Desarrollo Social de la Ciudad de México.
+
+VIII. Datos Personales: Los que define la Ley de Protección de Datos Personales para el Distrito Federal;
+
+IX. Delegación: El Órgano Político-Administrativo en las Demarcaciones Territoriales;
+
+X. Derechohabiente: Aquellas personas que reciben los beneficios de un programa social establecido en una ley, por haber cumplido los requisitos de la ley y sus normas reglamentarias.
+
+XI. Desarrollo Social: El proceso de realización de los derechos de la población mediante el cual se fomenta el mejoramiento integral de las condiciones y calidad de vida;
+
+XII. Desigualdad Social: El resultado de una distribución inequitativa del ingreso, la propiedad, el gasto público, el acceso a bienes y servicios, el ejercicio de los derechos, la práctica de las libertades y el poder político entre las diferentes clases y grupos sociales;
+
+XIII. Discriminación: Para los efectos de esta ley se entenderá por discriminación toda forma de distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos y libertades.
+
+XIV. Estatuto: El Estatuto de Gobierno del Distrito Federal;
+
+XV. Focalización territorial: Método para determinar prioridades en la aplicación de programas, consistente en la selección de unidades territoriales de la ciudad, en las que la aplicación de los programas se realiza en beneficio de todos los habitantes que cumplen con los requerimientos del programa respectivo;
+
+XVI. Jefe de Gobierno: El Jefe de Gobierno del Distrito Federal;
+
+XVII. Ley: La presente Ley de Desarrollo Social para el Distrito Federal;
+
+XVIII. Organizaciones Civiles: Aquellas que agrupan a ciudadanos, constituidas con base en al artículo 9° constitucional, que se ocupan de la defensa y promoción de derechos, así como del mejoramiento de condiciones y calidad de vida de terceros;
+
+XIII (SIC). Organizaciones Sociales: Aquellas que agrupan a habitantes del Distrito Federal para la defensa, promoción y realización de sus derechos, así como para el mejoramiento de las condiciones de vida de sus integrantes;
+
+XX (SIC). Padrón: Relación oficial de beneficiarios que incluye a las personas atendidas por los programas de Desarrollo Social cuyo perfil socioeconómico se establece en la normatividad correspondiente.
+
+XXI. Pobreza: La incapacidad de un individuo o un hogar de satisfacer de manera digna y suficiente sus necesidades básicas en materia de alimentación, salud, educación, vivienda, transporte, recreación, servicios y tiempo libre;
+
+XXII. Política de Desarrollo Social: La que realiza el Gobierno del Distrito Federal y está destinada al conjunto de los habitantes del Distrito Federal con el propósito de construir una ciudad con igualdad, equidad, justicia social, reconocimiento de la diversidad, alta cohesión e integración social, pleno goce de los derechos, creciente elevación de la calidad de vida y acceso universal al conjunto de bienes y servicios públicos urbanos; mediante la cual se erradican la desigualdad y la exclusión e inequidad social entre individuos, grupos y ámbitos territoriales con el fin de lograr su incorporación plena a la vida económica, social y cultural y construirse como ciudadanos con plenos derechos;
+
+XXIII. Programas de Desarrollo Social: Instrumentos derivados de la planificación institucional de la política social que garanticen el efectivo cumplimiento y promuevan el pleno ejercicio de los derechos humanos, económicos, sociales y culturales.
+
+Todo programa social debe contar con una denominación oficial, un diagnóstico, justificación y objetivos de impacto -general y específicos-, estrategias y líneas de acción e indicadores, criterios de selección de beneficiarios, establecidos y normados por Reglas de Operación; un sistema de monitoreo y evaluación de su funcionamiento y resultados; así como la institución o instituciones responsables de su implementación y su modo de coordinación.
+
+Cada programa social tendrá características distintas en cuanto a sectores que atienden, modalidades de gestión, instituciones participantes, formas de financiamiento, entre otros criterios específicos.
+
+XXIV. Reglas de Operación. El conjunto de normas que rigen a cada uno de los programas sociales; y
+
+XXVI (SIC). Transparencia: Derecho de las personas para acceder a la información pública relativa al desarrollo social en los términos de las leyes de la materia.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 4.
 
-La Secretaría, Direcciones Generales, Procuraduría de la Defensa del Trabajo, Coordinación Administrativa, Contraloría Interna y demás unidades administrativas que integran a esta dependencia, conducirán sus actividades en forma coordinada y programada, con base en lo señalado en el Plan de Desarrollo del Estado de México, así como en los programas regionales, sectoriales y especiales a su cargo o en los que participen, de acuerdo con la normatividad aplicable.
+Los principios de la política de Desarrollo Social son:
 
-#### Sección Segunda. De las Atribuciones del Secretario
+I. UNIVERSALIDAD: La política de desarrollo social está destinada para todos los habitantes de la ciudad y tiene por propósito el acceso de todos y todas al ejercicio de los derechos sociales, al uso y disfrute de los bienes urbanos y a una creciente calidad de vida para el conjunto de los habitantes;
+
+II. IGUALDAD: Constituye el objetivo principal del desarrollo social y se expresa en la mejora continua de la distribución de la riqueza, el ingreso y la propiedad, en el acceso al conjunto de los bienes públicos y al abatimiento de las grandes diferencias entre personas, familias, grupos sociales y ámbitos territoriales;
+
+III. EQUIDAD DE GÉNERO: La plena igualdad de derechos y oportunidades entre mujeres y hombres, la eliminación de toda forma de desigualdad, exclusión o subordinación basada en los roles de género y una nueva relación de convivencia social entre mujeres y hombres desprovista de relaciones de dominación, estigmatización, y sexismo;
+
+IV. EQUIDAD SOCIAL: Superación de toda forma de desigualdad, exclusión o subordinación social basada en roles de género, edad, características físicas, pertenencia étnica, preferencia sexual, origen nacional, práctica religiosa o cualquier otra;
+
+V. JUSTICIA DISTRIBUTIVA: Obligación de la autoridad a aplicar de manera equitativa los programas sociales, priorizando las necesidades de los grupos en condiciones de pobreza, exclusión y desigualdad social;
+
+VI. DIVERSIDAD: Reconocimiento de la condición pluricultural del Distrito Federal y de la extraordinaria diversidad social de la ciudad que presupone el reto de construir la igualdad social en el marco de la diferencia de sexos, cultural, de edades, de capacidades, de ámbitos territoriales, de formas de organización y participación ciudadana, de preferencias y de necesidades;
+
+VII. INTEGRALIDAD: Articulación y complementariedad entre cada una de las políticas y programas sociales para el logro de una planeación y ejecución multidimensional que atiendan el conjunto de derechos y necesidades de los ciudadanos;
+
+VIII. TERRITORIALIDAD: Planeación y ejecución de la política social desde un enfoque socio-espacial en el que en el ámbito territorial confluyen, se articulan y complementan las diferentes políticas y programas y donde se incorpora la gestión del territorio como componente del desarrollo social y de la articulación de éste con las políticas de desarrollo urbano;
+
+IX. EXIGIBILIDAD: Derecho de los habitantes a que, a través de un conjunto de normas y procedimientos, los derechos sociales sean progresivamente exigibles en el marco de las diferentes políticas y programas y de la disposición presupuestal con que se cuente;
+
+X. PARTICIPACIÓN: Derecho de las personas, comunidades y organizaciones para participar en el diseño, seguimiento, aplicación y evaluación de los programas sociales, en el ámbito de los órganos y procedimientos establecidos para ello;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2016)</small>
+
+XI. TRANSPARENCIA: La información surgida en todas las etapas del ciclo de las políticas de desarrollo social será pública con las salvedades que establece la normatividad en materia de acceso a la información y con pleno respeto a la privacidad, a la protección de los datos personales y a la prohibición del uso político partidista, confesional o comercial de la información.
+
+XII. EFECTIVIDAD: Obligación de la autoridad de ejecutar los programas sociales de manera austera, con el menor costo administrativo, la mayor celeridad, los mejores resultados e impacto, y con una actitud republicana de vocación de servicio, respeto y reconocimiento de los derechos que profundice el proceso de construcción de ciudadanía de todos los habitantes.
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2019)</small>
+
+XIII. PROTECCIÓN DE DATOS PERSONALES: Es obligación de la autoridad de resguardar, tratar y proteger los datos personales proporcionados por la población para acceder a los programas y acciones sociales, en términos de la normatividad en la materia.
+
+Los principios de esta ley constituyen el marco en el cual deberán planearse, ejecutarse y evaluarse el conjunto de las políticas y programas en materia de desarrollo social de la Administración Pública del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 5.
 
-El estudio, planeación, trámite y resolución de los asuntos competencia de la Secretaría, así como su representación legal, corresponden originalmente al Secretario, quien para su atención y despacho podrá delegar sus atribuciones en los servidores públicos subalternos, sin perder por ello la facultad de su ejercicio directo, excepto aquellas que por disposición de ley o de este Reglamento, deban ser ejercidas en forma directa por él.
+La política de Desarrollo Social como acción pública y con base en los principios que la guían deberá ser impulsada con la participación de todos aquellos que se interesen y puedan contribuir con este proceso; por lo que, deberá fomentar la acción coordinada y complementaria entre el Gobierno, la ciudadanía y sus organizaciones.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 6.
 
-El Secretario tendrá las atribuciones siguientes:
+La aplicación de la presente ley corresponde a los órganos que integran la Administración Pública del Distrito Federal en el ámbito de su competencia.
 
-I. Fijar, dirigir y controlar la política general de la Secretaría.
-
-II. Representar legalmente a la Secretaría con las facultades de un apoderado general para pleitos y cobranzas, en actos de administración y para actos de dominio, con todas las facultades que requieran cláusula especial conforme a las disposiciones en la materia y sustituir y delegar esta representación en uno o más subalternos para que la ejerzan individualmente o conjuntamente. Para actos de dominio requerirá la autorización expresa de la Secretaría de Finanzas, de acuerdo con la legislación vigente.
-
-III. Participar en la instalación y funcionamiento de las Juntas Locales de Conciliación y Arbitraje, en los términos establecidos por la legislación aplicable.
-
-IV. Suscribir convenios y acuerdos con los sectores público, social y privado en los asuntos que corresponden a la Secretaría y participar, en el ámbito de su competencia, en aquellos que celebre el Titular del Ejecutivo del Estado con autoridades de otros ámbitos de gobierno.
-
-V. Someter a la consideración del titular del Ejecutivo del Estado, los programas estatales de empleo, de capacitación, de productividad y de competitividad; así como disponer lo necesario para su cumplimiento.
-
-VI. Conducir y evaluar la política estatal en materia de empleo y previsión social en el Estado.
-
-VII. Promover la congruencia de los programas, estrategias y acciones del sector trabajo, con los objetivos, estrategias y líneas de acción establecidas en el Plan de Desarrollo del Estado y con las prioridades de Gobierno.
-
-VIII. Vigilar el cumplimiento de las normas de trabajo, mediante la práctica de visitas en los centros laborales, así como Instaurar el procedimiento administrativo sancionador en caso de incumplimiento e imponer las sanciones administrativas que correspondan.
-
-IX. Coadyuvar con la autoridad federal del trabajo, en acciones de inspección en seguridad e higiene en el trabajo, y de capacitación y adiestramiento del sector laboral.
-
-X. Intervenir en conflictos laborales en su etapa de conciliación y mediación, asistiendo legalmente a los trabajadores y prestando los servicios periciales cuando la ley así lo señale.
-
-XI. Establecer mecanismos de coordinación con dependencias y organismos estatales y federales, así como con organizaciones de los sectores laboral y empresarial, a fin de elevar los niveles de empleo, de calidad y de competitividad del aparato productivo del Estado.
-
-XII. Impulsar la realización de estudios e investigaciones orientadas a incrementar la competitividad del sector productivo de la entidad.
-
-XIII. Comparecer ante la Legislatura del Estado para informar de la situación que guarda su ramo o sector o bien, cuando se discuta una iniciativa de ley o decreto o se estudie un asunto relacionado con sus atribuciones.
-
-XIV. Proponer al Gobernador del Estado, a través de Ia Secretaría General de Gobierno, iniciativas de ley o decretos, proyectos de reglamentos, acuerdos y convenios en los asuntos competencia de la Secretaría, así como de los organismos auxiliares sectorizados a esta dependencia.
-
-XV. Aprobar los anteproyectos de presupuesto anual de ingresos y egresos de la Secretaría, así como sancionar el de los organismos auxiliares sectorizados a esta dependencia y remitirlos a la Secretaría de Finanzas para su trámite correspondiente.
-
-XVI. Aprobar los programas anuales de actividades de la Secretaría y vigilar su cumplimiento.
-
-XVII. Validar la estructura de organización de la Secretaría y de los organismos auxiliares sectorizados a esta dependencia, así corno sus manuales de organización y someterlos a la autorización de la Secretaría de Finanzas.
-
-XVIII. Establecer normas, políticas, procedimientos y reglas de carácter técnico que rijan el funcionamiento de las unidades administrativas adscritas a esta dependencia.
-
-XIX Planear, coordinar, supervisar y evaluar, en términos de la legislación aplicable, el funcionamiento de los organismos auxiliares sectorizados a la Secretaría.
-
-XX. Acordar con el Gobernador del Estado el nombramiento, licencia y remoción de los servidores públicos de mando superior de la Secretaría y resolver, en el ámbito de su competencia, lo relativo al ingreso, nombramiento, promoción y remoción de los demás servidores públicos adscritos a dicha dependencia.
-
-XXI. Promover la modernización administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios que ofrece la Secretaría.
-
-XXII. Desempeñar las comisiones y funciones que el Gobernador del Estado le confiera y mantenerlo informado sobre su desarrollo y cumplimiento.
-
-XXIII. Designar a los servidores públicos bajo su adscripción en las comisiones, comités y grupos de trabajo en los que participe la Secretaría.
-
-XXIV. Instaurar el procedimiento administrativo sancionador e imponer las sanciones administrativas que en derecho correspondan.
-
-XXV. Someter al acuerdo del Gobernador del Estado los asuntos a su cargo que requieran de su intervención e informarle sobre el desempeño de la Secretaría.
-
-XXVI. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación o los que le correspondan por suplencia.
-
-XXVII. Acordar con los servidores públicos de la Secretaría los asuntos que les haya encomendado.
-
-XXVIII. Resolver, en el ámbito administrativo, las dudas que se susciten con motivo de la interpretación y aplicación de este Reglamento, así como los casos no previstos en el mismo.
-
-XXIX. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Gobernador del Estado.
+> <small>(REFORMADO, G.O. 22 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 7.
 
-Al frente de cada Dirección General y de la Procuraduría de la Defensa del Trabajo, habrá un Director General y un Procurador, respectivamente, quienes se auxiliarán de los subdirectores; subprocuradores; jefes de unidad, de departamento y de oficinas regionales; supervisores de procuradurías auxiliares; procuradores auxiliares y demás servidores públicos que las necesidades del servicio requieran, de acuerdo con la estructura orgánica, presupuesto y normatividad aplicables.
+Está prohibida toda práctica discriminatoria en el otorgamiento de subsidios y beneficios que se otorguen como parte de los programas sociales. El uso de programas sociales y acciones sociales con fines electorales será sancionado de conformidad con la legislación aplicable.
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 8.
 
-Corresponde a los Directores Generales y al Procurador:
+Toda persona, de manera directa, tiene derecho a beneficiarse de las políticas y programas de desarrollo social, siempre que cumpla con la normativa aplicable.
 
-I. Planear, programar, organizar, dirigir, controlar y evaluar las tareas encomendadas a la unidad administrativa a su cargo.
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
-II. Suscribir, previo acuerdo del Secretario, acuerdos, convenios y demás actos jurídicos necesarios para el cumplimiento de las atribuciones de la unidad administrativa a su cargo.
+### CAPÍTULO SEGUNDO. DE LAS FACULTADES
 
-III. Elaborar los dictámenes, resoluciones, opiniones, estudios, proyectos, informes y demás documentos que les sean solicitados por el Secretario o los que les correspondan en razón de sus atribuciones.
-
-IV. Proponer al Secretario los programas anuales de actividades y los anteproyectos de presupuesto de la unidad administrativa a su cargo y disponer las acciones necesarias para su cumplimiento.
-
-V. Someter a la consideración del Secretario modificaciones jurídicas y administrativas que tiendan a modernizar la organización y el funcionamiento de la unidad administrativa a su cargo y llevar a cabo su ejecución.
-
-VI. Acordar con el Secretario el despacho de los asuntos a su cargo que requieran de su intervención.
-
-VII. Colaborar con el Secretario en el desempeño de las funciones que tenga encomendadas como coordinador de sector, respecto de los organismos auxiliares sectorizados a la Secretaría.
-
-VIII. Delegar, previa autorización del Secretario, sus atribuciones en unidades administrativas a su cargo, con el propósito de eficientar los trámites y servicios de su competencia, excepto aquellas que por disposición normativa deban ejercer directamente.
-
-IX. Coordinar sus actividades con los titulares de las demás unidades administrativas de la Secretaría, cuando la ejecución de los programas, proyectos y acciones a su cargo así lo requieran.
-
-X. Participar en la elaboración y actualización de la estructura orgánica, reglamentos, manuales administrativos y demás disposiciones que rijan la organización y el funcionamiento de la Secretaría, así como disponer las acciones para su observancia y cumplimiento.
-
-XI. Proponer acciones para la modernización administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios de la unidad administrativa a su cargo, así como llevar a cabo su ejecución.
-
-XII. Asesorar y apoyar técnicamente, en asuntos de su competencia, a servidores públicos estatales y municipales, solicitando, cuando se requiera, instrucción del Secretario.
-
-XIII. Someter a consideración del Secretario el ingreso, licencia, promoción y remoción de los servidores públicos de la unidad administrativa a su cargo, de conformidad con las disposiciones aplicables.
-
-XIV. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les correspondan por delegación o suplencia.
-
-XV. Desempeñar las comisiones y atender los asuntos que les encomiende el Secretario y mantenerlo informado sobre su desarrollo y cumplimiento.
-
-XVI. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones en materia de transparencia y acceso a la información pública.
-
-XVII. Expedir constancias y certificar copias de los documentos existentes en los archivos de la unidad administrativa a su cargo, cuando se refieran a asuntos de su competencia.
-
-XVIII. Las demás que les confieren otras disposiciones legales y aquellas que les encomiende el Secretario.
-
-### CAPÍTULO II. DE LOS DIRECTORES GENERALES Y DEL PROCURADOR DE LA DEFENSA DEL TRABAJO
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 9.
 
-Corresponde a la Dirección General del Trabajo:
+Corresponde al Jefe de Gobierno:
 
-I. Vigilar que los centros de trabajo de competencia local cumplan con las disposiciones en materia de condiciones generales de trabajo y de seguridad e higiene, contenidas en la Ley Federal del Trabajo y demás normatividad aplicable, así como en aquella que expida la Secretaría.
+I. Promover el Desarrollo Social estableciendo acciones en coordinación con las organizaciones civiles y sociales, instituciones académicas, grupos empresariales y los habitantes del Distrito Federal;
 
-II. Programar y ordenar la realización de visitas a los centros de trabajo de competencia local, para realizar inspecciones ordinarias, extraordinarias y especiales sobre condiciones generales de trabajo, seguridad e higiene y capacitación y adiestramiento, en auxilio de la autoridad federal del ramo, a fin de constatar el cumplimiento de la normatividad laboral.
+II. Establecer de manera concertada las Políticas Generales de Desarrollo Social que deberán aplicarse en el ámbito central, desconcentrado, descentralizado y delegacional del Gobierno del Distrito Federal;
 
-III. Instaurar el procedimiento administrativo sancionador por violaciones a la legislación laboral sobre condiciones generales de trabajo.
+III. Concertar acuerdos entre los distintos sectores en torno al Desarrollo Social;
 
-IV. Aplicar las sanciones que correspondan a los centros de trabajo que, previo procedimiento administrativo sancionador, no acreditaron el cumplimiento de las normas laborales en materia de condiciones generales de trabajo, en términos del Título Dieciséis de la Ley Federal del Trabajo y del Reglamento General para la Inspección y Aplicación de Sanciones por Violaciones a la Legislación Laboral.
+IV. Aprobar el Programa de Desarrollo Social;
 
-V. Asesorar y orientar a trabajadores y patrones de competencia local, sobre condiciones generales de trabajo y en auxilio de la autoridad federal, sobre seguridad e higiene, así como procurar el cumplimiento voluntario en los casos que estime pertinente.
+V. Incluir anualmente en el Presupuesto de Egresos del Distrito Federal, los recursos necesarios para la ejecución y cumplimiento de las metas y objetivos del Programa de Desarrollo Social y de los Programas Delegacionales en la materia; y
 
-VI. Prestar de oficio o a petición de parte, el servicio de conciliación administrativa en conflictos individuales y colectivos de trabajo que se deriven de las relaciones laborales del Gobierno del Estado y sus municipios, con sus servidores públicos y de la iniciativa privada con sus trabajadores.
+VI. Presidir el Consejo de Desarrollo Social y la Comisión Interinstitucional de Desarrollo Social, la cual podrá ser delegada de conformidad con lo que establece la presente ley y demás ordenamientos;
 
-VII. Asesorar y asistir a las partes de un conflicto laboral para que suscriban convenios derivados de la mediación y conciliación administrativa.
+> <small>(ADICIONADA, G.O. 11 DE FEBRERO DE 2009)</small>
 
-VIII. Asesorar y difundir a los trabajadores, sindicatos y patrones sus derechos y obligaciones laborales.
+VII. Designar al Director General del Consejo de Evaluación, en términos de lo establecido en el artículo 53 de la Ley Orgánica de la Administración Pública del Distrito Federal;
 
-IX. Promover la integración, operación y vigilancia de las comisiones de seguridad e higiene en los centros de trabajo de la entidad.
+> <small>(ADICIONADA, G.O. 11 DE FEBRERO DE 2009)</small>
 
-X. Capacitar y asesorar, en el ámbito de su competencia, a los integrantes de las comisiones de seguridad e higiene que así lo soliciten.
+VIII. Designar, a propuesta de la Comisión y previo proceso de elección realizado por ésta mediante convocatoria pública, a las y los Consejeros Ciudadanos del Comité de Evaluación y Recomendaciones del Consejo de Evaluación.
 
-XI. Establecer los plazos en que deben cumplirse las medidas de seguridad e higiene identificadas por los inspectores y realizar la notificación a los centros de trabajo respectivos.
-
-XII. Impartir cursos de capacitación para mejorar las condiciones físicas y ambientales de los centros de trabajo.
-
-XIII. Proteger y vigilar el cumplimiento de las normas laborales y condiciones generales de trabajo de las personas mayores de catorce años y menores de dieciséis, así como de mujeres, adultos mayores de sesenta años y discapacitados, a través de visitas de asesoría, inspección en los centros de trabajo o por cualquier otro medio que determine.
-
-XIV. Promover entre la población trabajadora del Estado, la realización de actividades deportivas, educativas y productivas.
-
-XV. Denunciar y dar vista al Ministerio Público cuando en sus funciones de inspección o en la substanciación de procedimientos administrativos, advierta que existen hechos o elementos que pudieran constituir un delito.
-
-XVI. Certificar, a través de los inspectores del trabajo, los padrones relacionados con las elecciones de representantes obrero-patronales, ante las Juntas Locales de Conciliación y Arbitraje, en términos de lo dispuesto por la Ley Federal del Trabajo.
-
-XVII. Proporcionar servicios periciales en asuntos de naturaleza laboral, cuando lo soliciten las Juntas Locales de Conciliación y Arbitraje, el Tribunal Estatal de Conciliación y Arbitraje y la Procuraduría de la Defensa del Trabajo.
-
-XVIII. Aplicar las correcciones disciplinarias y las medidas de apremio en los asuntos de su competencia, de conformidad con lo dispuesto por la Ley Federal del Trabajo.
-
-XIX. Coadyuvar en la organización y funcionamiento de los órganos consultivos de seguridad e higiene en el trabajo.
-
-XX. Elaborar y revisar los documentos jurídicos relacionados con las atribuciones de la Secretaría.
-
-XXI. Estudiar y, en su caso, intervenir en las reclamaciones y litigios en que tenga interés la Secretaría.
-
-XXII. Representar a la Secretaría y al Secretario en los juicios y procedimientos en que sean parte, ante las autoridades jurisdiccionales y administrativas de competencia local y federal, contestando demandas, ofreciendo pruebas, oponiendo excepciones y defensas, interponiendo recursos y emitiendo los informes que requiera la autoridad federal en el juicio de amparo e intervenir en el cumplimiento de sus resoluciones.
-
-XXIII. Colaborar con la Secretaría de la Contraloría y la Procuraduría General de Justicia del Estado, en el trámite de los asuntos que afecten a la Secretaría o en los que tenga interés jurídico, en coordinación con el área que corresponda.
-
-XXIV. Proponer reformas a la autoridad federal del trabajo acerca de la normatividad sobre seguridad e higiene en el trabajo.
-
-XXV. Impulsar la realización de estudios e investigaciones en materia de seguridad e higiene en el trabajo, así como realizar su divulgación.
-
-XXVI. Promover que las cámaras y asociaciones de patrones, fomenten entre sus agremiados la elaboración y aplicación de programas preventivos en materia de seguridad e higiene, ergonomía y ambiente de trabajo.
-
-XXVII. Formular, ejecutar y evaluar programas de seguridad e higiene en el trabajo, ergonomía, mejoramiento del ambiente laboral y de prevención de accidentes y enfermedades de trabajo en el ámbito estatal y regional, con la participación que corresponda a las dependencias y organismos auxiliares competentes en la materia.
-
-XXVIII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 10.
 
-Corresponde a la Dirección General de la Previsión Social:
+Corresponde a la Secretaría:
 
-I. Coordinar y operar el Programa Apoyo al Empleo del Servicio Nacional de Empleo Estado de México, así como la distribución de los recursos para su ejecución.
+I. Formular el Programa de Desarrollo Social para el Distrito Federal, en coordinación con las dependencias y entidades de la Administración relacionadas con la materia, de conformidad con lo establecido en la ley de Planeación del Desarrollo del Distrito Federal;
 
-II. Promover entre los ayuntamientos la creación de servicios municipales de empleo e impulsar el funcionamiento de los existentes.
+II. Promover la celebración de convenios y programas con las dependencias del Ejecutivo Federal para la atención y solución a los problemas relacionados con el Desarrollo Social del Distrito Federal;
 
-III. Establecer y ejecutar programas y estrategias que permitan ampliar las oportunidades de trabajo a los buscadores de empleo, así como fomentar el autoempleo y su capacitación.
+III. Elaborar los Criterios de Ejecución del Programa, junto con el programa Operativo Anual en el ámbito de su competencia;
 
-IV. Operar y mantener actualizado el sistema de información sobre empleo, subempleo y desempleo en el Estado e informar a la Coordinación del Servicio Nacional de Empleo acerca de los índices que al respecto se registran en la entidad.
+IV. Promover y fomentar la participación de la sociedad en la elaboración de las políticas públicas de Desarrollo Social;
 
-V. Establecer y operar mecanismos de vinculación, capacitación y apoyo entre demandantes y oferentes de empleo.
+V. Mantener informada a la sociedad del Distrito Federal sobre los problemas y las medidas tomadas en torno al Desarrollo Social;
 
-VI. Proponer al Secretario la celebración de convenios y acuerdos en materia de empleo y capacitación entre el Estado y los municipios, así como con los sectores social y privado y. en su caso, proveer lo necesario para su cumplimiento.
+VI. Realizar y mantener actualizado el diagnóstico y evaluación de los problemas relativos al Desarrollo Social, así como sus indicadores;
 
-VII. Proponer lineamientos para la prestación del servicio de colocación de los buscadores de empleo y participar en la autorización o registro de las agencias, organizaciones e instituciones que se dediquen a ello, vigilando que cumplan con las disposiciones aplicables en la materia.
+VII. Coordinar el desarrollo de las políticas, programas y acciones, con las demás dependencias de la Administración y con los habitantes del Distrito Federal;
 
-VIII. Ejecutar los programas de capacitación para el trabajo que se realicen conjuntamente con la Coordinación del Servicio Nacional de Empleo y los que determine la Secretaría.
+> <small>(REFORMADA, G.O. 11 DE FEBRERO DE 2009)</small>
 
-IX. Evaluar el aprovechamiento de los recursos humanos por sectores y regiones, así como el impacto del programa de vinculación y colocación en materia de empleo.
+VIII. Realizar valoraciones sobre la política y programas sociales;
 
-X. Orientar, en coordinación con instituciones públicas, privadas y sociales, la demanda de mano de obra temporal hacia la población solicitante.
+IX. Establecer y dar a conocer los indicadores y sus resultados sobre el progreso en el cumplimiento de los derechos sociales de la población del Distrito Federal;
 
-XI. Promover la capacitación de los buscadores de empleo hacia las áreas con mayor demanda de mano de obra o generación de autoempleo.
+X. Coordinar con las Delegaciones los proyectos y acciones en materia de Desarrollo Social comunes a todo el Distrito Federal;
 
-XII. Impulsar la capacitación y el adiestramiento para el trabajo y para el autoempleo individual y colectivo.
+XI. Emitir los lineamientos, normas y modelos de atención básicos que deben regir la operación y funcionamiento de las instalaciones y demás infraestructura social a cargo de las delegaciones, así como vigilar su cumplimiento;
 
-XIII. Fomentar y apoyar el establecimiento de sociedades cooperativas y demás, formas de organización social para el trabajo, así como asesorarlas técnicamente en asuntos jurídicos, financieros y de organización administrativa.
+XII. Operar las instalaciones e infraestructura social a su cargo, de conformidad con los lineamientos, normatividad y modelos de atención básicos que establezca la misma dentro del ámbito de su competencia;
 
-XIV. Conocer, tramitar y resolver, en el ámbito de su competencia, sobre los asuntos relacionados con la constitución, autorización y registro de las sociedades cooperativas y organizaciones sociales para el trabajo.
+XIII. Fungir como secretario ejecutivo del Consejo de Desarrollo Social y de la Comisión Interinstitucional de Desarrollo Social; y
 
-XV. Apoyar la formación y operación de empresas del sector social con bajo impacto ambiental y económicamente rentables.
+XIV. Implementar en caso de ser necesario los planes de acción específicos para el apoyo logístico, humano y de capacitación en la aplicación de los Fondos de Desarrollo Social;
 
-XVI. Operar el Programa de Becas para Hijos de Trabajadores Sindicalizados del Estado de México.
+> <small>(ADICIONADA, G.O. 11 DE FEBRERO DE 2009)</small>
 
-XVII. Establecer, ejecutar y evaluar programas de protección al salario de los trabajadores.
+XV. Recibir del Consejo de Evaluación para su inserción en el Sistema de Información del Desarrollo Social, las mediciones que éste realice sobre la desigualdad, la pobreza y el grado de desarrollo social de las unidades territoriales en la Ciudad de México; y los resultados de la evaluación del programa de Desarrollo Social y las evaluaciones de los programas sociales.
 
-XVIII. Coordinar la realización de exposiciones, congresos, conferencias y demás eventos que promuevan las actividades culturales y deportivas de los trabajadores y sus familias, e incentivar y apoyar a los patrones para que colaboren en estas tareas.
+> <small>(ADICIONADA, G.O. 5 DE JULIO DE 2017)</small>
 
-XIX. Operar el Programa de Trabajadores Temporales.
+XVI. Coordinará a las dependencias, entidades, órganos desconcentrados de la administración pública de la Ciudad de México, de la Federación y de otras entidades federativas, en los ámbitos de su competencia, de acuerdo con lo establecido por las disposiciones jurídicas en materia de Desarme Voluntario, con la finalidad de promover la cultura de la paz y la no violencia.
 
-XX. Realizar y, en su caso, coordinar con los sectores público, social y privado, la realización de Ferias de Empleo y Autoempleo en el Estado.
+> <small>(ADICIONADA, G.O. 5 DE JULIO DE 2017)</small>
 
-XXI. Implementar la realización de programas eventuales de empleo que la Coordinación del Servicio Nacional de Empleo proponga en la entidad y, en su caso, establecerlos como permanentes.
+XVII. La Secretaría en coordinación con la Secretaría de Seguridad Pública coordinarán, acciones, actividades y desarrollarán programas para generar un ambiente de paz, con la finalidad de establecer acciones de prevención delictiva.
 
-XXII. Operar y evaluar el Programa de Apoyo al Empleo, a través de las Oficinas Regionales de Empleo y administrar los recursos presupuestales federales y estatales que sean asignados para ello.
-
-XXIII. Promover que las Oficinas Regionales de Empleo cumplan con las metas establecidas en el Programa de Apoyo al Empleo.
-
-XXIV. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 11.
 
-Corresponde a la Procuraduría de la Defensa del Trabajo:
+Corresponde a las Delegaciones:
 
-I. Asesorar y representar gratuitamente a los trabajadores, a los beneficiarios de éstos y a los sindicatos, respecto de las controversias derivadas de la aplicación de las normas de trabajo y de seguridad social.
+I. Promover y fomentar la participación de la sociedad, en la elaboración de los programas y proyectos de Desarrollo Social;
 
-II. Recibir y conocer las denuncias por incumplimiento o violación a las normas de trabajo y de seguridad social y, en su caso, citar a comparecer a los patrones para realizar pláticas conciliatorias.
+II. Elaborar el Programa de Desarrollo Social de la Delegación, de conformidad con lo dispuesto por la ley de Planeación del Desarrollo del Distrito Federal;
 
-III. Proponer soluciones conciliatorias para que las partes arreglen sus diferencias laborales mediante la celebración de convenios, los cuales se harán constar en actas autorizadas que tendrán valor probatorio pleno.
+III. Realizar y mantener actualizado un diagnóstico de los problemas de Desarrollo Social;
 
-IV. Representar jurídicamente y de manera gratuita a los trabajadores, a los servidores públicos del Estado y de los municipios, a los beneficiarios de éstos y a los sindicatos, para la defensa de sus derechos en conflictos individuales o colectivos de trabajo.
+IV. Formular la prospectiva de los problemas de Desarrollo Social, así como la propuesta de probables soluciones;
 
-V. Interponer los recursos ordinarios y extraordinarios procedentes para la mejor defensa de los derechos de los trabajadores, de los beneficiarios de éstos y de sus sindicatos.
+V. Recibir las propuestas, sugerencias o denuncias de los ciudadanos y organizaciones civiles sobre problemas y posibles soluciones, con objeto de que sean contemplados en el Programa de Desarrollo Social;
 
-VI. Hacer del conocimiento de las autoridades competentes el incumplimiento o las violaciones a las normas de trabajo y de seguridad social, haciendo valer los recursos o trámites que sean necesarios en cualquier instancia, a fin de que se respeten los derechos de los trabajadores, de los beneficiarios de éstos, y de sus sindicatos, y formular, en su caso, las denuncias correspondientes ante el Ministerio Público cuando perciba que existen hechos o elementos que impliquen la probable comisión de un delito.
+VI. Remitir a la Administración las propuestas, sugerencias o denuncias de su competencia en materia de Desarrollo Social;
 
-VII. Vigilar que en los juicios tramitados ante los tribunales laborales y en los cuales represente a los trabajadores, sus beneficiarios y sindicatos, la justicia sea pronta y expedita, mediante la presentación de las promociones correspondientes.
+VII. Promover el debate y la concertación entre los diversos actores sociales en la búsqueda de soluciones a los problemas del Desarrollo Social;
 
-VIII. Promover ante los integrantes de los tribunales laborales, la unificación de criterios a efecto de homologar el sentido y congruencia de sus resoluciones.
+VIII. Mantener informada a la población y a la Secretaría, acerca de los logros, avances y alternativas, así como de los problemas y soluciones del Desarrollo Social;
 
-IX. Denunciar ante los titulares de los tribunales laborales, el incumplimiento de los deberes y obligaciones de su personal jurídico, para que de ser procedente se inicie el procedimiento administrativo disciplinario correspondiente, ante la autoridad competente.
+IX. Realizar el control y la evaluación de los programas y proyectos de Desarrollo Social;
 
-X. Asesorar en juicio a los menores trabajadores cuando los tribunales laborales soliciten su intervención y, en su caso, designar a un representante, en términos de la Ley Federal del Trabajo.
+X. Operar las instalaciones e infraestructura social a su cargo, de conformidad con los lineamientos, normatividad y modelos de atención básicos que establezca la Secretaría dentro del ámbito de su competencia; y
 
-XI. Solicitar a la Dirección General del Trabajo, la designación de peritos para emitir dictámenes en las pruebas periciales ofrecidas en los juicios laborales en los que se represente a los trabajadores, sus beneficiarios o sindicatos, en los juicios radicados ante los tribunales laborales.
+XI. Instalar y coordinar el funcionamiento del Consejo Delegacional de Desarrollo Social.
 
-XII. Solicitar la aplicación de las medidas de apremio en los juicios laborales en los que represente a los trabajadores, sus beneficiarios o sus sindicatos, de conformidad con lo dispuesto por la Ley Federal del Trabajo, Ley del Trabajo de los Servidores Públicos del Estado y Municipios y demás disposiciones aplicables.
+> <small>(ADICIONADA, G.O. 21 DE FEBRERO DE 2018)</small>
 
-XIII. Difundir los derechos y obligaciones de los trabajadores y de los patrones.
+XII. Celebrar convenios con instituciones públicas y privadas para llevar a cabo proyectos de asesoría gratuita a grupos vulnerables;
 
-XIV. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
+> <small>(ADICIONADA, G.O. 21 DE FEBRERO DE 2018)</small>
 
-### CAPÍTULO III. DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA
+XIII. Organizar y coordinar la formulación y elaboración de los proyectos de preparación profesional enfocados en atender necesidades sociales con instituciones académicas.
+
+Para la realización de acciones y proyectos que se relacionen con otras delegaciones o con el Distrito Federal en general, las delegaciones se coordinarán entre sí a través de la Secretaría.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+
+### CAPÍTULO TERCERO. DEL CONSEJO DE DESARROLLO SOCIAL
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 12.
 
-Corresponde a la Coordinación Administrativa:
+El Consejo de Desarrollo Social es un órgano de consulta, opinión, asesoría y vinculación entre gobierno y sociedad.
 
-I. Planear, organizar y controlar el suministro, administración y aplicación de los recursos humanos, materiales, financieros y técnicos, así como los servicios generales de la Secretaría, en coordinación con las demás unidades administrativas.
-
-II. Integrar, en coordinación con las demás, unidades administrativas, los anteproyectos de ingresos y de presupuesto de egresos de la Secretaria y someterlos a la consideración del Secretario, así como realizar la calendarización de los recursos del presupuesto autorizado a esta dependencia.
-
-III. Cumplir y hacer cumplir las normas y políticas aplicables en materia de administración de recursos humanos, materiales y financieros.
-
-IV. Controlar y verificar la aplicación del presupuesto de las unidades administrativas de la Secretaría.
-
-V. Coordinar, consolidar y controlar la información sobre el ejercicio del gasto de la Secretaría e informar al Secretario sobre el comportamiento del mismo.
-
-VI. Integrar conjuntamente con las demás unidades, administrativas de la Secretaría, los programas de adquisiciones, arrendamientos, mantenimientos y contratación de servicios que requieran las unidades administrativas de la dependencia.
-
-VII. Coordinar y, en su caso, ejecutar los procedimientos para la adquisición de bienes y contratación de servicios que requiera la Secretaría, de acuerdo con la normatividad aplicable.
-
-VIII. Presidir los Comités de Adquisiciones y Servicios y de Arrendamientos, Adquisiciones de Inmuebles y Enajenaciones de la Secretaría e impulsar el cumplimiento de sus funciones, de acuerdo con la normatividad aplicable.
-
-IX. Suscribir los contratos y convenios derivados de los procesos adquisitivos de bienes, arrendamientos y contratación de servicios, con base en la normatividad aplicable y vigilar su cumplimiento.
-
-X. Rescindir administrativamente los contratos de adquisición de bienes y contratación de servicios que haya celebrado la Secretaría, y aplicar las penas convencionales, así como dar vista a las autoridades competentes para la imposición de las sanciones que prevé la legislación de la materia a los proveedores que incurran en el incumplimiento de dichos contratos.
-
-XI. Realizar el registro, control, mantenimiento y conservación de los bienes muebles e inmuebles asignados a las unidades administrativas de la Secretaría.
-
-XII. Administrar los recursos derivados de los convenios suscritos con dependencias federales y estatales y los que correspondan ser ejercidos por la Secretaría, informando de ello a las instancias competentes.
-
-XIII. Habilitar a servidores públicos, así como días y horas inhábiles, para la práctica de diligencias relacionadas con los procedimientos administrativos de su competencia.
-
-XIV. Tramitar, previo acuerdo del Secretario, los movimientos de altas, bajas, cambios, promociones, permisos, licencias y demás movimientos de los servidores públicos de la Secretaría, en términos de las disposiciones legales aplicables.
-
-XV. Promover y coordinar las actividades de capacitación, adiestramiento y motivación de los servidores públicos de la Secretaría.
-
-XVI. Apoyar, en el ámbito de su competencia, la elaboración de los programas de trabajo de las unidades administrativas de la Secretaría.
-
-XVII. Diseñar y proponer instrumentos técnico-administrativos para mejorar la administración de los recursos asignados a la Secretaría.
-
-XVIII. Promover la integración y actualización de los manuales administrativos de la Secretaría y someterlos a la aprobación de la Secretaría de Finanzas.
-
-XIX. Coordinar las acciones de protección civil de la Secretaría, con base en las normas y políticas aplicables.
-
-XX. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 13.
 
-Corresponde a la Contralaría Interna:
+El Consejo está integrado por:
 
-I Vigilar el cumplimiento de los programas, proyectos y acciones de las unidades administrativas de la Secretaría y emitir los reportes correspondientes, con base en las acciones de control y evaluación realizadas y constatar que la Secretaría observe las disposiciones aplicables en el ejercicio de los recursos estatales y federales.
+I. El Jefe de Gobierno, quien lo presidirá;
 
-II. Elaborar y ejecutar su Programa Anual de Control y Evaluación, conforme a las políticas, normas, lineamientos, procedimientos y demás disposiciones que al efecto se establezcan y someterlo a la consideración de la Dirección General de Control y Evaluación correspondiente.
+II. El titular de la Secretaría, quien fungirá como Secretario Ejecutivo del mismo;
 
-III. Realizar acciones de control y evaluación administrativas y contables en las unidades administrativas de la Secretaría, tendientes a verificar el cumplimiento de las normas y disposiciones relacionadas con los sistemas de registro, contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos de la dependencia.
+III. Un servidor público de la Secretaría quien fungirá como Secretario Técnico;
 
-IV. Dar seguimiento a la solventación de las observaciones determinadas por instancias fiscalizadoras internas y externas, derivadas de las acciones de control y evaluación, así como de las realizadas por auditores externos y, en su caso, por otras instancias de fiscalización.
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2007)</small>
 
-V. Proponer y acordar con la unidad administrativa auditada, las acciones de mejora derivadas de las acciones de control y evaluación practicadas, tendientes a fortalecer el control interno y la gestión de la Secretaría, así como vigilar su implementación.
+IV. Los titulares de la Secretaría de Desarrollo Urbano y Vivienda; de Desarrollo Económico; de Salud; de Desarrollo Rural y Equidad para las Comunidades; de Obras y Servicios Públicos; de Medio Ambiente; de Finanzas; de Trabajo y Fomento al Empleo; de Coordinación de Planeación del Desarrollo Territorial, del Instituto de las Mujeres, del Instituto de la Juventud, de la Procuraduría Social y del Sistema para el Desarrollo Integral de la Familia del Distrito Federal;
 
-VI. Iniciar, substanciar y resolver los procedimientos administrativos, disciplinarios y resarcitorios e imponer, en su caso, las sanciones que correspondan en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios y demás disposiciones aplicables en la materia.
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2017)</small>
 
-VII. Acordar la suspensión temporal de servidores públicos durante la substanciación del procedimiento administrativo, de acuerdo con lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, dando aviso a la autoridad correspondiente.
+V. Los presidentes de las comisiones de Desarrollo Social; de Atención a Grupos Vulnerables; y de Vigilancia y Evaluación de las Políticas y Programas Sociales de la Asamblea Legislativa del Distrito Federal.
 
-VIII. Remitir a la Dirección General de Responsabilidades de la Secretaría de la Contraloría, los expedientes que le sean solicitados y aquellos en los que se determine necesaria su intervención.
+A las sesiones que por su competencia se requiera la participación de los Diputados miembros de otras comisiones de la Asamblea Legislativa del Distrito Federal, se les convocará con derecho de voz.
 
-IX. Fincar pliegos preventivos de responsabilidades y calificar la responsabilidad administrativa resarcitoria, pudiendo confirmarla, modificarla o cancelarla, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+VI. Tres representantes de cada uno de los siguientes sectores:
 
-X. Realizar ante las instancias jurisdiccionales la defensa jurídica de las resoluciones que emita.
+- Organizaciones Civiles;
 
-XI. Verificar el adecuado ejercicio del presupuesto de la Secretaría, atendiendo a los principios de racionalidad, austeridad y disciplina presupuestaria que al respecto se establezcan.
+- Organizaciones Sociales;
 
-XII. Participar en los procesos de entrega y recepción de las unidades administrativas de la Secretaría, conforme a la normatividad aplicable en la materia.
+- Instituciones de Asistencia Privada;
 
-XIII. Recibir, tramitar y resolver las quejas y denuncias que se interpongan en contra de los servidores públicos de la Secretaría, así como establecer las investigaciones y el procedimiento correspondiente, recibir y tramitar las sugerencias y reconocimientos ciudadanos.
+- Instituciones académicas de educación superior;
 
-XIV. Instrumentar las acciones preventivas que contribuyan a lograr que los servidores públicos obligados de la Secretaría, cumplan con la presentación de las declaraciones de situación patrimonial, verificando la presentación oportuna de éstas, conforme a lo dispuesto por la normatividad correspondiente.
+- Grupos Empresariales, y
 
-XV. Informar a la Secretaría de la Contraloría y al Secretario, sobre el resultado de las acciones de control y evaluación que le encomienden.
+VII. Un representante de cada uno de los Consejos Delegacionales de Desarrollo Social.
 
-XVI. Difundir entre el personal de la Secretaría las disposiciones en materia de control que incidan en el desarrollo de sus labores, así como vigilar el cumplimiento de las disposiciones que les son aplicables.
+> <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2007)</small>
 
-XVII. Proponer a la Dirección General de Control y Evaluación correspondiente y a la Dirección General de Responsabilidades las políticas, normas, lineamientos, procedimientos y demás disposiciones que mejoren las acciones de control y evaluación y de responsabilidades.
+En caso de empate, el Jefe de Gobierno tendrá voto de calidad.
 
-XVIII. Impulsar la modernización en los sistemas y procesos internos de trabajo de la Secretaría, a efecto de elevar su eficiencia y eficacia en el cumplimiento de los programas y proyectos institucionales.
-
-XIX. Promover el fortalecimiento del control interno y la gestión de la Secretaría, así como la mejora continua de los procesos y servicios a cargo de la misma.
-
-XX. Proporcionar, en el ámbito de su competencia, la información que le sea solicitada por las unidades administrativas de la Secretaría, para el cumplimiento de sus funciones.
-
-XXI. Expedir constancias o certificar copias de documentos existentes en sus archivos, así como de la impresión documental de datos contenidos en los sistemas informáticos de la Secretaría de la Contraloría y otros que operen con relación a los asuntos de su competencia.
-
-XXII. Dar vista a la autoridad competente de los hechos que tenga conocimiento que puedan ser constitutivos de delito e instar al área facultada de la Secretaría para formular, cuando así se requiera, las querellas y/o denuncias a que hubiere lugar.
-
-XXIII. Solicitar a las unidades administrativas de la Secretaría la información necesaria para cumplir con sus atribuciones.
-
-XXIV. Las demás que le señalen otras disposiciones legales y aquellas que le encomiende el Secretario de la Contraloría.
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 14.
 
-Para la atención y eficiente despacho de los asuntos de su competencia, la Secretaría podrá contar con órganos administrativos desconcentrados que le estarán jerárquicamente subordinados y a quienes otorgará las facultades específicas para resolver sobre ciertas materias o dentro del ámbito territorial que se determine en cada caso, de conformidad con lo dispuesto por la Ley Orgánica de la Administración Pública del Estado de México.
+La designación de los miembros del Consejo a que se refiere la fracción VI del artículo anterior, se hará por el Jefe de Gobierno, tomando en cuenta las propuestas realizadas por redes de organizaciones civiles, organizaciones sociales, instituciones de asistencia privada, instituciones de educación superior, organismos empresariales de la Ciudad y la Asamblea Legislativa del Distrito Federal.
+
+Los integrantes del Consejo tendrán carácter honorífico.
+
+Por cada miembro titular se nombrará un suplente, quien en caso de ausencia del titular podrá asistir a las sesiones.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 15.
 
-El Secretario será suplido en sus ausencias temporales hasta por 15 días hábiles, por el Director General que aquél designe. En las mayores de 15 días hábiles, por el servidor público que designe el Gobernador del Estado.
+El Consejo tendrá las siguientes funciones:
 
-En ausencias definitivas del Secretario, el Gobernador del Estado, en su caso, nombrará al servidor público que ocupe provisionalmente el cargo, hasta en tanto se designa al nuevo titular.
+I. Asesorar al Jefe de Gobierno del Distrito Federal en materia de Desarrollo Social;
+
+II. Opinar y formular recomendaciones sobre políticas y programas de Desarrollo Social a cargo del Gobierno del Distrito Federal, procurando la integralidad de estas acciones;
+
+III. Fomentar la participación ciudadana en la elaboración y ejecución de políticas en la materia, conforme a lo dispuesto por la ley de Participación Ciudadana y la ley de Planeación del Desarrollo del Distrito Federal;
+
+IV. Propiciar la colaboración de organismos públicos y privados en el Desarrollo Social;
+
+V. Conocer el programa anual de fomento a las actividades de desarrollo social de las organizaciones civiles y sociales;
+
+VI. Proponer la realización de investigaciones que sustenten el diagnóstico, la instrumentación y la evaluación de políticas y programas en materia de Desarrollo Social;
+
+VII. Promover mecanismos de consulta con los distintos sectores sociales sobre propuestas y programas de Desarrollo Social y, en su caso, recomendar la inclusión de las propuestas pertinentes;
+
+VIII. Integrar comisiones, grupos de trabajo, observatorios ciudadanos y/o seminarios permanentes para estudiar y atender aspectos específicos del Desarrollo Social;
+
+IX. Coadyuvar en el diseño de proyectos específicos de Desarrollo Social conforme a las áreas de especialización de los grupos de trabajo;
+
+X. Participar en el diagnóstico de problemas sociales y recomendar acciones concretas para su prevención y atención;
+
+XI. Promover y procurar la inclusión en el Programa de Desarrollo Social de las propuestas de los Consejos Delegaciones de Desarrollo Social, de las instancias vecinales, civiles y sociales;
+
+> <small>(REFORMADA, G.O. 11 DE FEBRERO DE 2009)</small>
+
+XII. Conocer y discutir la evaluación externa de la política y los programas sociales;
+
+> <small>(REFORMADA, G.O. 11 DE FEBRERO DE 2009)</small>
+
+XIII. Conocer y discutir la evaluación interna de los programas sociales;
+
+XIV. Conocer, evaluar y proponer mejoras respecto del Sistema de Información;
+
+XV. Analizar e investigar todos los temas referentes a la desigualdad, pobreza, marginación o exclusión social en el Distrito Federal, con la finalidad de encontrar alternativas que enfrenten esta problemática;
+
+XVI. Elaborar estudios que permitan mejorar el diseño de los proyectos y programas de Desarrollo Social; y
+
+XVII. Las demás que se establezcan en esta ley y su reglamento.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 16.
 
-Los Directores Generales y el Procurador de la Defensa del Trabajo serán suplidos en sus ausencias temporales hasta por 15 días hábiles, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días hábiles, por el servidor público que determine el Secretario.
+En los grupos de trabajo se podrá invitar a participar a propuesta de los miembros del Consejo a otras personas de organizaciones sociales, civiles, instituciones académicas, grupos empresariales, de la Asamblea Legislativa del Distrito Federal y de la Administración Pública Local y Federal.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 17.
 
-Los Subdirectores. Subprocuradores. Jefes de Unidad y de Departamento serán suplidos en sus ausencias temporales hasta por 15 días hábiles, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días hábiles, por el servidor público que determine su Director General o Procurador de la Defensa del Trabajo, según corresponda.
+Las normas relativas a la organización y funcionamiento del Consejo, estarán previstas en el reglamento de la Ley.
 
-T R A N S I T O R I O S
-
-PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-TERCERO.- Se abroga el Reglamento Interior de la Secretaría del Trabajo, publicado en el Periódico Oficial "Gaceta del Gobierno" el día 23 de febrero de 2007.
-
-CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
-
-Dado en el Palacio del Poder Ejecutivo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los ocho días del mes de marzo de dos mil doce.
-
-SUFRAGIO EFECTIVO. NO REELECCIÓN
-
-GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MÉXICO
-
-DR. ERUVIEL ÁVILA VILLEGAS
-
-(RUBRICA)
-
-SECRETARIO GENERAL DE GOBIERNO
-
-LIC. ERNESTO JAVIER NEMER ÁLVAREZ
-
-(RUBRICA).
+> <small>(ADICIONADO, G.O. 30 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 17 Bis.
 
@@ -480,7 +522,9 @@ La Administración Pública del Distrito Federal velará por el cumplimiento de 
 
 > <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
-### CAPÍTULO IV. DE LA DESCONCENTRACIÓN ADMINISTRATIVA
+### CAPÍTULO CUARTO. INTEGRACIÓN Y FUNCIONES DEL CONSEJO DELEGACIONAL DE DESARROLLO SOCIAL
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 18.
 
@@ -530,7 +574,9 @@ En el ámbito de su competencia los Consejos Delegacionales tendrán las mismas 
 
 > <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
-### CAPÍTULO V. DE LA SUPLENCIA DE LOS TITULARES
+### CAPÍTULO QUINTO. DE LA COMISIÓN INTERINSTITUCIONAL DE DESARROLLO SOCIAL
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ###### Artículo 21.
 
@@ -838,11 +884,13 @@ El Instituto de las Mujeres, la Procuraduría General de Justicia, el Sistema pa
 
 ### CAPÍTULO OCTAVO. DE LA PARTICIPACIÓN SOCIAL
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 39.
 
-La sociedad podrá participar activamente en la planeación, programación, implementación y evaluación de los programas y acciones de Desarrollo Social, de acuerdo a lo establecido por la ley y la Ley de Participación Ciudadana del Distrito Federal.
+La sociedad podrá participar activamente en la planeación, programación, implementación y evaluación de los programas y acciones sociales, de acuerdo a lo establecido por la ley y la Ley de Participación Ciudadana del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 Las organizaciones civiles y sociales, las instituciones académicas, las organizaciones empresariales y todas aquellas cuyos objetivos se comprendan en el concepto de Desarrollo Social, podrán participar con el Gobierno en la ejecución de políticas de Desarrollo Social, sin perjuicio de las obligaciones que la ley impone a la Administración, así como generar iniciativas de proyectos y programas que serán presentadas a la Secretaría.
 
@@ -970,7 +1018,9 @@ Artículo 42 B.- El Consejo de Evaluación del Desarrollo Social del Distrito Fe
 
 Artículo 42 C.- El Consejo de Evaluación tiene las siguientes atribuciones:
 
-I. Organizar, definir y realizar anualmente por cuenta propia o a través de terceros la evaluación externa de la política y los programas sociales, y dar seguimiento a las recomendaciones que emita;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2019)</small>
+
+I. Organizar, definir y realizar anualmente por cuenta propia o a través de terceros la evaluación externa de la política, los programas y las acciones sociales, y dar seguimiento a las recomendaciones que emita;
 
 II. Definir y medir bianualmente la desigualdad y la pobreza en el Distrito Federal, conforme a la metodología que el mismo defina;
 
@@ -1000,9 +1050,19 @@ XIV. Instrumentar el procedimiento de seguimiento para el cumplimiento de las re
 
 XV. Emitir convocatorias y definir los lineamientos generales a los que deberán apegarse las evaluaciones externas cuando este organismo las realice a través de terceros;
 
-XVI. Elaborar e informar al Jefe de Gobierno sobre la evaluación global de la política social y la evaluación específica externa de cada programa social, y
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2019)</small>
 
-XVII. Las demás necesarias para el cumplimiento de sus funciones.
+XVI. Elaborar e informar al Jefe de Gobierno sobre la evaluación global de la política social y la evaluación específica externa de cada programa social;
+
+> <small>(ADICIONADA, G.O. 22 DE AGOSTO DE 2019)</small>
+
+XVII. Emitir los criterios para la elaboración de Reglas de Operación de Programas Sociales, así como de Lineamientos Generales de Operación de Acciones Sociales.
+
+> <small>(ADICIONADA, G.O. 22 DE AGOSTO DE 2019)</small>
+
+XVIII. Analizar, valorar y, en su caso, aprobar la implementación de Acciones Sociales de todas las Dependencias, Órganos Desconcentrados, y Entidades de la Administración Pública de la Ciudad de México y las Alcaldías, y
+
+XIX. Las demás necesarias para el cumplimiento de sus funciones.
 
 Los resultados de las evaluaciones, investigaciones, informes y mediciones que realice el Consejo de Evaluación deberán publicarse en la Gaceta Oficial del Distrito Federal, en el Sistema de Información del Desarrollo Social, en la página electrónica del Consejo de Evaluación y en los demás medios de difusión con que cuente el Gobierno de la Ciudad.
 
@@ -1313,3 +1373,27 @@ Se derogan todas aquellas disposiciones que contravengan el contenido del presen
 ###### ARTÍCULO TERCERO.
 
 En el momento en que entren en funciones las Alcaldías, las atribuciones, facultades y obligaciones atribuidas a las Delegaciones se entenderán atribuidas a las Alcaldías.
+
+G.O. 22 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 3, FRACCIÓN I; 4, FRACCIÓN XIII; 7; 39; 42 C, FRACCIÓN I Y XVI; SE ADICIONAN LAS FRACCIONES XVII Y XVIII, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES DEL ARTÍCULO 42 C DE LA LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL; Y SE REFORMA EL ARTÍCULO 128 Y SE ADICIONAN LOS PÁRRAFOS OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO Y DÉCIMO SEGUNDO AL ARTÍCULO 129 DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México para su debida Observancia y aplicación.
+
+TERCERO. Para los efectos correspondientes en tanto no se lleve a cabo una armonización total del contenido de las Leyes cuyos artículos se reforman en el presente decreto y de conformidad con el artículo Décimo Cuarto Transitorio del “Decreto por el que se declaran Reformadas y Derogadas Diversas Disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en Materia de la Reforma Política de la Ciudad de México”, en todas las referencias que se hagan respecto del Distrito Federal, deberán entenderse hechas a la Ciudad de México; así como aquellas referencias de la Secretaría de Desarrollo Social se entenderá ahora por Secretaría de Inclusión y Bienestar Social y en donde se Indique Delegaciones se entenderá por Alcaldías.
+
+CUARTO. El Consejo de Evaluación de Desarrollo Social de la Ciudad de México contará con un plazo de treinta días naturales a partir de la publicación del presente Decreto para emitir los lineamientos para la elaboración de acciones sociales a desarrollar por parte de todas las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México y por las Alcaldías.
+
+QUINTO. A partir de la publicación de los lineamientos a que se refiere el transitorio que antecede las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México y las Alcaldías contarán con un plazo de treinta días naturales para notificar al Consejo de Evaluación de Desarrollo Social de la Ciudad de México, todas las acciones sociales, en las que se incluyan las actividades institucionales conforme a la definición contenida en el artículo 3, fracción I del presente decreto de reformas a la Ley de Desarrollo Social para el Distrito Federal, que se encuentren realizando con el propósito de que se realice la evaluación correspondiente.
+
+Los lineamientos preverán mecanismos, procesos y plazos para que las acciones sociales que se encuentren en desarrollo se ajusten a estos.
+
+G.O. 23 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO (SIC) SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 1 DE LA LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
