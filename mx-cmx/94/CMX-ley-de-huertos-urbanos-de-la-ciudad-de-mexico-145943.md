@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-huertos-urbanos-de-la-ciudad-de-mexico-145943"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-31"
-last_updated: "2020-12-31"
+last_updated: "2022-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145943&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-12-29"
 
 LEY DE HUERTOS URBANOS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE MARZO DE 2022.
 
 Ley publicada en el Número 505 de la Gaceta Oficial de la Ciudad de México, el jueves 31 de diciembre de 2020.
 
@@ -54,9 +54,11 @@ LEY DE HUERTOS URBANOS DE LA CIUDAD DE MÉXICO
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 23 DE MARZO DE 2022)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés general y social, tiene por objeto establecer los conceptos, principios, procedimientos y facultades para la formulación de políticas públicas orientadas en la mitigación ambiental y seguridad alimentaria a través de la creación y mantenimiento y aprovechamiento de huertos urbanos en la Ciudad de México
+La presente Ley es de orden público e interés general y social, tiene por objeto establecer los conceptos, principios, procedimientos y facultades para la formulación de políticas públicas orientadas en la mitigación ambiental, seguridad alimentaria, autonomía económica y educación ambiental a través de la creación y mantenimiento y aprovechamiento de huertos urbanos en la Ciudad de México.
 
 ###### Artículo 2.
 
@@ -65,6 +67,10 @@ Para efectos de la presente ley se entenderá como:
 I. Agricultura Urbana: El cultivo de plantas en el interior de las ciudades a escala reducida, puede desarrollarse en traspatios, techos, paredes, balcones, terrazas, puentes, calles, viviendas, pequeñas parcelas, patios, jardines, dependencias, órganos autónomos y órganos de gobierno de la Ciudad de México, o espacios en desuso tanto públicos como privados.
 
 II. Área Verde: Toda superficie cubierta de vegetación, natural o inducida que se localice en la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 23 DE MARZO DE 2022)</small>
+
+II-Bis. Autonomía económica: es la capacidad de generar ingresos y recursos propios a partir del acceso al trabajo remunerado en igualdad de condiciones. Considera el uso del tiempo y la contribución de las personas a la economía.
 
 III. Decibeles: Unidad que se utiliza para medir la intensidad del sonido y otras magnitudes físicas.
 
@@ -132,9 +138,17 @@ XI. Ayudar a mitigar los efectos del cambio climático y optimizar los servicios
 
 XII. Contribuir a la mitigación de los efectos del cambio climático a través del fortalecimiento de la soberanía, la seguridad alimentaria y el cultivo de variedades adaptadas a diversas condiciones ambientales; y
 
-XIII. Fortalecer la relación intergeneracional a través de la incorporación de nuevas tendencias y tecnologías a los conocimientos que las juventudes pueden aportar; y
+> <small>(REFORMADA, G.O. 23 DE MARZO DE 2022)</small>
 
-XIV. Promover la colaboración de todas las personas habitantes de una comunidad, tratándose de huertos urbanos ubicados en el espacio público o de unidad habitacional tratándose de áreas comunes, tendientes a generar microclimas, embellecer el espacio público y generar la convivencia social.
+XIII. Fortalecer la relación intergeneracional a través de la incorporación de nuevas tendencias y tecnologías a los conocimientos que las juventudes pueden aportar;
+
+> <small>(REFORMADA, G.O. 23 DE MARZO DE 2022)</small>
+
+XIV. Promover la colaboración de todas las personas habitantes de una comunidad, tratándose de huertos urbanos ubicados en el espacio público o de unidad habitacional tratándose de áreas comunes, tendientes a generar microclimas, embellecer el espacio público y generar la convivencia social, y
+
+> <small>(ADICIONADA, G.O. 23 DE MARZO DE 2022)</small>
+
+XV. Fomentar la educación ambiental, la autonomía económica y el intercambio de saberes a través de los huertos urbanos, integrando y reforzando estos enfoques en los programas de capacitación.
 
 Las Alcaldías están obligadas a respetar estos principios en toda actividad que realicen y esté relacionada con huertos urbanos.
 
@@ -341,3 +355,13 @@ SEXTO.- El Congreso de la Ciudad de México asegurará en el Presupuesto para a�
 Palacio Legislativo del Congreso de la Ciudad de México, a los diecisiete días del mes de noviembre del año dos mil veinte. POR LA MESA DIRECTIVA.- DIPUTADA MARGARITA SALDAÑA HERNÁNDEZ, PRESIDENTA.- DIPUTADA DONAJI OFELIA OLIVERA REYES, SECRETARIA.- DIPUTADO HÉCTOR BARRERA MARMOLEJO, SECRETARIO.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III de la Constitución Política de los Estados Unidos Mexicanos; 32, apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 2 párrafo segundo, 3 fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21 párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los veintinueve días del mes diciembre del año dos mil veinte.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, FADLALA AKABANI HNEIDE.- FIRMA.- LA SECRETARIA DE INCLUSIÓN Y BIENESTAR SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, HAYDEÉ SOLEDAD ARAGÓN MARTÍNEZ.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 23 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA EL ARTÍCULO 1, ASÍ COMO LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 4; SE ADICIONA LA FRACCIÓN II BIS AL ARTÍCULO 2 Y; UNA FRACCIÓN XV AL ARTÍCULO 4, TODOS DE LA LEY DE HUERTOS URBANOS DE LA CIUDAD DE MÉXICO".]
+
+Primero.- Remítase a la Persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
