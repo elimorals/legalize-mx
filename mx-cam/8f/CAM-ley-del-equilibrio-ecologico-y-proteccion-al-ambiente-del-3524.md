@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-3524"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-22"
-last_updated: "2019-05-29"
+last_updated: "2022-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "CAM"
 ---
 # LEY DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CAMPECHE
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 235, POR EL CUAL SE EXPIDE EL CÓDIGO PENAL DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 20 DE JULIO DE 2012, SE DEROGAN LOS TIPOS PENALES CONTENIDOS EN LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CAMPECHE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 22 de junio de 1994.
 
@@ -801,9 +803,51 @@ El Gobierno del Estado y los Ayuntamientos podrán solicitar asistencia técnica
 
 Para el otorgamiento de autorizaciones para usos del suelo y de licencias de construcción u operación, los Ayuntamientos exigirán la presentación de la resolución de impacto ambiental, en las obras o actividades a que se refieren tanto la presente Ley, como la Ley General.
 
-#### Sección V. Criterios Ecológicos Particulares
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MARZO DE 2022)</small>
 
-#### Sección VI. Medidas de Protección de Areas Naturales
+#### Sección IV Bis. De la Autorregulación y las Auditorías Ambientales
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2022)</small>
+
+ARTICULO 45 BIS. Los productores, empresas u organizaciones empresariales podrán desarrollar procesos voluntarios de autorregulación ambiental, a través de los cuales mejoren su desempeño ambiental, respetando la legislación y normatividad vigente en la materia y se comprometan a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental.
+
+La Secretaría Estatal, los municipios y la Procuraduría, en el ámbito de su competencia, inducirán o concertarán:
+
+I. El desarrollo de procesos productivos y generación de servicios adecuados y compatibles con el ambiente, así como sistemas de protección y restauración en la materia, convenidos con cámaras de industria, comercio y otras actividades productivas, organizaciones de productores, organizaciones representativas de una zona o región, instituciones de investigación científica y tecnológica y otras organizaciones interesadas;
+
+II. El cumplimiento de normas voluntarias o especificaciones técnicas en materia ambiental que sean más estrictas que las normas oficiales mexicanas o que se refieran a aspectos no previstas por éstas, las cuales serán establecidas de común acuerdo con particulares o con asociaciones u organizaciones que los representen. Para tal efecto, la Secretaría Estatal podrá promover la creación de normas técnicas ambientales;
+
+III. El establecimiento de sistemas de certificación de procesos, productos y servicios para inducir patrones de consumo que sean compatibles o que preserven, mejoren, conserven o restauren el medio ambiente, debiendo observar, en su caso, las disposiciones aplicables en la materia; y
+
+IV. Las demás acciones que induzcan a las empresas a alcanzar los objetivos de la política ambiental, superiores a las previstas en la normatividad ambiental establecida.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2022)</small>
+
+ARTICULO 45 TER. Los responsables del funcionamiento de una empresa podrán en forma voluntaria, a través de la auditoría ambiental, realizar el examen metodológico de sus operaciones, respecto de la contaminación y el riesgo que generan, así como el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operaciones e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger el medio ambiente.
+
+La Secretaría Estatal desarrollará un programa dirigido a fomentar la realización de auditorías ambientales, y podrá supervisar su ejecución. Para tal efecto:
+
+I. Elaborará los términos de referencia que establezcan la metodología para la realización de las auditorías ambientales;
+
+II. Establecerá un sistema de aprobación y acreditamiento de peritos y auditores ambientales, determinando los procedimientos y requisitos que deberán cumplir los interesados para incorporarse a dicho sistema, debiendo, en su caso, observar lo dispuesto en la legislación correspondiente.
+
+Para tal efecto, integrará un comité técnico constituido por representantes de instituciones de investigación, colegios y asociaciones profesionales y organizaciones del sector empresarial;
+
+III. Desarrollará programas de capacitación en materia de peritajes y auditorías ambientales;
+
+IV. Instrumentará un sistema de reconocimientos y estímulos que permita identificar a las empresas que cumplan oportunamente los compromisos adquiridos en las auditorías ambientales;
+
+V. Promoverá la creación de centros regionales de apoyo a la mediana y pequeña empresa, con el fin de facilitar la realización de auditorías en dichos sectores;
+
+VI. Convendrá o concertará con personas físicas o morales, públicas o privadas, la realización de auditorías ambientales.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2022)</small>
+
+ARTICULO 45 QUÁTER. La Secretaría Estatal pondrá los programas preventivos y correctivos derivados de las auditorías ambientales, así como el diagnóstico básico del cual derivan, a disposición de quienes resulten o puedan resultar directamente afectados.
+
+En todo caso, deberán observarse las disposiciones legales relativas a la confidencialidad de la información industrial y comercial.
+
+#### Sección V. Criterios Ecológicos Particulares
 
 ###### ARTICULO 46.
 
@@ -815,13 +859,13 @@ Los criterios ecológicos particulares, determinarán los parámetros dentro de 
 
 Las actividades y servicios que originen emanaciones, emisiones, descargas o depósitos que causen o puedan causar desequilibrio ecológico, así como producir un daño al ambiente, pudiendo afectar los recursos naturales, la salud, el bienestar de la población y los bienes propiedad del Estado, así como de los particulares, deberán observar los criterios ecológicos particulares aplicables.
 
-#### Sección VII. De la Investigación y Educación Ecológicas
+#### Sección VI. Medidas de Protección de Areas Naturales
 
 ###### ARTICULO 48.
 
 El Ejecutivo y los Municipios, establecerán medidas de protección de las áreas naturales, de manera que se asegure la preservación y restauración de los ecosistemas, especialmente los más representativos y aquellos que se encuentren sujetos a procesos de deterioro, depredación o degradación.
 
-#### Sección I. Tipos y Caracteres de las Areas Naturales Protegidas
+#### Sección VII. De la Investigación y Educación Ecológicas
 
 ###### ARTICULO 49.
 
@@ -855,7 +899,7 @@ Para orientar la toma de decisiones y fomentar la conciencia ecológica de la po
 
 ### CAPITULO I. Categorías, Declaratorias y Ordenamientos de Areas Naturales Protegidas
 
-#### Sección II. Declaratorias para el Establecimiento, Conservación, Administración, Desarrollo y Vigilancia de Areas Naturales Protegidas
+#### Sección I. Tipos y Caracteres de las Areas Naturales Protegidas
 
 ###### ARTICULO 55.
 
@@ -932,6 +976,8 @@ Los jardines de conservación o regeneración de especies son las áreas que se 
 > <small>(ADICIONADO, P.O. 4 DE JUNIO DE 1996)</small>
 
 ARTICULO 62 BIS.- Las zonas especiales de protección de flora y fauna silvestre y acuática son las áreas destinadas a la protección de ecosistemas críticos y frágiles, o a la conservación y preservación de elementos físico-naturales e histórico-culturales, o a la promoción y regulación de actividades productivas, de investigación científica y educación ambiental.
+
+#### Sección II. Declaratorias para el Establecimiento, Conservación, Administración, Desarrollo y Vigilancia de Areas Naturales Protegidas
 
 ###### ARTICULO 63.
 
@@ -2064,3 +2110,15 @@ P.O. 29 DE MAYO DE 2019.
 PRIMERO. El presente decreto entrará en vigor a los diez días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 23 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 43 POR EL QUE “SE ADICIONA UNA SECCIÓN IV BIS DENOMINADA “DE LA AUTORREGULACIÓN Y LAS AUDITORÍAS AMBIENTALES” CON LOS ARTÍCULOS 45 BIS, 45 TER Y 45 QUÁTER AL CAPÍTULO II DEL TÍTULO SEGUNDO DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CAMPECHE.”]
+
+PRIMERO.- El presente decreto entrará en vigor a los 90 días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría Estatal tomará las previsiones necesarias para la organización técnica y administrativa con el objetivo de formular un padrón de auditores ambientales, para los efectos que deriven del presente decreto.
+
+TERCERO.- Para el cumplimiento del presente decreto la Secretaría Estatal adoptará las medidas administrativas y financieras, procurando que éstas se realicen con sus previsiones presupuestales asignadas.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
