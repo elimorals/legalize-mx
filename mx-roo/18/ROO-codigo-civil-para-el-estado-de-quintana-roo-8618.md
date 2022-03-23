@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2021-11-24"
+last_updated: "2022-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2022.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -4341,7 +4341,9 @@ Tanto la propuesta de convenio, como en su caso el convenio, deberá contener lo
 
 I. La designación de la persona que tendrá la guarda y custodia de los hijos menores o incapaces;
 
-II. Las modalidades bajo las cuales el progenitor, que no tenga la guarda y custodia, ejercerá el derecho de visitas, respetando los horarios de comidas, descanso y estudio de los hijos, lo anterior tanto mientras dure el procedimiento como después de ejecutoriado;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2022)</small>
+
+II. Las modalidades bajo las cuales el progenitor, que no tenga la guarda y custodia, ejercerá el derecho de visitas, respetando los horarios de comidas, descanso y estudio de los hijos, lo anterior tanto mientras dure el procedimiento como después de ejecutoriado. En su caso, deberá establecerse dicho derecho, en favor de los demás parientes de los menores, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para los menores;
 
 III. El modo de atender las necesidades de los hijos y, en su caso, del cónyuge a quien deba darse alimentos, especificando la forma, lugar y fecha de pago de la obligación alimentaria, así como la garantía para asegurar su debido cumplimiento;
 
@@ -4455,7 +4457,9 @@ V. Dictar las medidas que se estimen convenientes para que los cónyuges no se c
 
 VI. Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede embarazada;
 
-VII. Poner a los hijos al cuidado de la persona que de común acuerdo designen los cónyuges, debiendo ser uno de éstos y pudiéndose compartir la custodia, respetando en todo momento las disposiciones de este Código al respecto. A falta de acuerdo, el Juez de lo Familiar resolverá lo conducente, considerando que las personas menores de doce años quedarán bajo la custodia y cuidado de la madre, además de establecer las modalidades del derecho de visita o convivencia con sus padres, de conformidad con el artículo 1024 Bis, el cumplimiento de las obligaciones de crianza, tomando en cuenta la opinión de la persona menor de edad, la cual podrá ser asistida por el Oficial de Menores de Edad, adscrito a la Procuraduría de Protección de las Niñas Niños y Adolescentes del Estado de Quintana Roo. El Juez, en cualquier tiempo y antes que termine ejecutoriadamente el juicio, podrá prudentemente modificar sus determinaciones, estableciendo las modalidades y medidas que estime necesarias en beneficio de las personas menores de edad y de los bienes de éstos, sin más limitación que este mismo beneficio, pudiendo confiar la custodia de las personas menores de edad a un tercero o institución educativa y confiar la administración de los bienes a una institución fiduciaria;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2022)</small>
+
+VII. Poner a los hijos al cuidado de la persona que de común acuerdo designen los cónyuges, debiendo ser uno de éstos y pudiéndose compartir la custodia, respetando en todo momento las disposiciones de este Código al respecto. A falta de acuerdo, el Juez de lo Familiar resolverá lo conducente, considerando que las personas menores de doce años quedarán, preferentemente, bajo la custodia y cuidado de la madre, además de establecer las modalidades del derecho de visita o convivencia con sus padres y, en su caso, con sus demás parientes, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para los menores, de conformidad con los artículos 997-bis y 1024 Bis de este Código, el cumplimiento de las obligaciones de crianza, tomando en cuenta la opinión de la persona menor de edad, la cual podrá ser asistida por el Oficial de Menores de Edad, adscrito a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Quintana Roo. El Juzgador, en cualquier tiempo y antes que termine ejecutoriadamente el juicio, podrá prudentemente modificar sus determinaciones, estableciendo las modalidades y medidas que estime necesarias en beneficio de las personas menores de edad y de los bienes de éstos, sin más limitación que este mismo beneficio, pudiendo confiar la custodia de las personas menores de edad a un tercero o Institución educativa y confiar la administración de los bienes a una institución fiduciaria;
 
 VIII. En los casos en que se alegue la violencia familiar, el Juez podrá decretar, atendiendo a las evidencias y con el fin de salvaguardar la integridad y seguridad de los interesados, las medidas precautorias siguientes:
 
@@ -4463,7 +4467,9 @@ a) Ordenar la salida del cónyuge demandado de la vivienda donde habita el grupo
 
 b) Prohibición al cónyuge demandado de ir a lugar determinado, tales como el domicilio o el lugar donde trabajan o estudian los agraviados.
 
-c) Suspender la custodia y la patria potestad al cónyuge presuntamente agresor y prohibir que éste se acerque a los agraviados a la distancia que el propio Juez considere pertinente. Esta suspensión será independiente del cumplimiento del presunto agresor de las obligaciones referidas a la pensión alimenticia.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2022)</small>
+
+c) Suspender la custodia y la patria potestad al cónyuge presuntamente agresor y prohibir que éste se acerque a los agraviados a la distancia que el propio Juez considere pertinente, dejando a salvo los derechos de convivencia del resto de sus parientes, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para los menores, salvo en los casos que estos, hubieren participado en los presuntos actos de violencia. Esta suspensión será independiente del cumplimiento del presunto agresor de las obligaciones referidas a la pensión alimenticia.
 
 IX. Requerirá a ambos cónyuges para que le exhiban, bajo protesta de decir verdad, un inventario de sus bienes y derechos, así como de los que se encuentren bajo el régimen de comunidad conyugal, en su caso, especificando además el titulo bajo el cual se adquirieron o poseen, el valor que estime que tienen, as (sic) capitulaciones matrimoniales y un proyecto de partición, y
 
@@ -4473,25 +4479,43 @@ Durante el procedimiento, el Juez recabará la información complementaria y com
 
 En caso de que las personas menores de doce años sean sujetos de violencia familiar, éstos deberán quedar al cuidado de la madre, excepto cuando sea ésta quien la origine. No será obstáculo para la preferencia maternal en la custodia, el hecho de que la madre carezca de recursos económicos.
 
-El Juez podrá ordenar cualquier otra medida de protección de emergencia, preventiva o de naturaleza civil de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+El Juez podrá ordenar cualquier otra medida de protección de emergencia, preventiva o de naturaleza civil de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo, así como la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Quintana Roo, sin menoscabo de lo establecido en otras disposiciones normativas aplicables, los tratados internacionales vigentes en la materia, privilegiando siempre y en todo momento, el interés superior de la niñez.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2022)</small>
 
 ###### Artículo 815.
 
-La sentencia de divorcio que se pronuncie en definitiva, fijará la situación de los hijos, para lo cual el Juez de lo Familiar deberá resolver todo lo relativo a los derechos y deberes inherentes a la patria potestad, su pérdida, suspensión, limitación o recuperación, según el caso y en especial a la custodia y cuidado de los hijos, las obligaciones de crianza. Además, la sentencia deberá incluir el régimen establecido para las visitas de convivencia, según lo previsto en los artículos 1024 Bis de este Código.
+La sentencia de divorcio que se pronuncie en definitiva, fijará la situación de los hijos, para lo cual el Juez de lo Familiar deberá resolver todo lo relativo a los derechos y deberes inherentes a la patria potestad, su pérdida, suspensión, limitación o recuperación, según el caso y en especial a la custodia y cuidado de los hijos, así como las obligaciones de crianza. Además, la sentencia deberá incluir el régimen establecido para las visitas de convivencia, según lo previsto en los artículos 997-bis y 1024 Bis de este Código, incluyendo, en su caso, a los demás parientes del menor, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para los menores.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 Asimismo, la sentencia deberá contener:
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 I.- Todas las medidas necesarias para proteger a los hijos de actos de violencia familiar o cualquier otra circunstancia que lastime u obstaculice su desarrollo armónico y pleno;
 
-II.- Las medidas necesarias para garantizar la convivencia de los hijos con sus padres, misma que sólo deberá ser limitada o suspendida cuando exista cualquier posibilidad de riesgo para las personas menores de edad;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2022)</small>
+
+II. Las medidas necesarias para garantizar la convivencia de los hijos con sus progenitores y, en su caso, con sus demás parientes, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para los menores, misma que sólo deberá ser limitada o suspendida cuando exista cualquier posibilidad de riesgo para las personas menores de edad;
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 III.- Para el caso de las personas menores de edad incapaces, sujetos a la tutela de alguno de los ex cónyuges, en la sentencia de divorcio deberán establecerse las medidas a que se refiere este artículo para su protección;
 
-IV.- Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés superior de los hijos menores de edad.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2022)</small>
+
+IV. Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés superior de los hijos menores de edad, de conformidad a lo establecido en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Quintana Roo, sin menoscabo de lo establecido en otras disposiciones normativas aplicables, así como en los tratados internacionales vigentes en la materia.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 Las medidas de protección para los hijos podrán incluir también las medidas de seguridad, seguimiento para el demandado y su asistencia a terapias reeducativas dirigidas a evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas, según se trate el caso y de conformidad con lo dispuesto por el Código de Procedimientos Civiles para el Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2022)</small>
+
+Una vez ejecutoriado el divorcio, el juzgador, podrá modificar sus determinaciones, a petición de parte interesada, privilegiando siempre y en todo momento, el interés superior de la niñez.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
@@ -4499,11 +4523,17 @@ Las medidas de protección para los hijos podrán incluir también las medidas d
 
 Para cumplir con lo dispuesto en el artículo anterior, el Juez durante el procedimiento deberá de oficio o a petición de parte interesada, allegarse de los elementos necesarios y tendrá que:
 
-I. Oír al Ministerio Público, a un tutor que el Juez nombre a los hijos, a los abuelos, tíos, hermanos mayores, y en general a las personas que por ser amigas o parientes de la familia de los cónyuges puedan informar al Juez respecto a la forma mejor de la custodia de los menores;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2022)</small>
+
+I. Oír al Ministerio Público, a un tutor que el Juez nombre a los hijos, a los parientes, y en general a las personas que, por cualquier motivo, razón o circunstancia, puedan informar al Juez respecto a la forma mejor (sic) de la custodia de los menores, así como el régimen de convivencia aplicable, o cualquier otra cuestión relc1cionada con el caso del que se trate;
 
 II. Oír a las personas menores de edad si éstos pueden expresarse, debidamente asistidos por el Oficial de Menores de Edad, adscrito a (sic) Procuraduría de Protección de las Niñas Niños y Adolescentes del Estado de Quintana Roo, y
 
 III. Asegurar a los hijos menores los alimentos y en todo momento pueden ser modificadas por el Juez las resoluciones que a este respecto dicte, mientras los hijos no lleguen a la mayoridad.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2022)</small>
+
+Para efectos del presente artículo, se entenderá por parte interesada, no solo a los progenitores del menor, sino también, a las personas a las que se refiere la fracción I de éste numeral.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -4678,6 +4708,12 @@ En la línea recta los grados se cuentan por el número de generaciones, o por e
 ###### Artículo 836.
 
 En la línea transversal los grados se cuentan por el número de generaciones, subiendo por una de las líneas y descendiendo por la otra, o por el número de personas que hay de uno a otro de los extremos que se consideran, excluyendo al progenitor o tronco común.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2022)</small>
+
+###### Artículo 836 Bis.
+
+Solamente por resolución judicial, podrá impedirse la convivencia de los menores de edad, con sus parientes, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para los menores, quienes podrán, en todo momento, exigir este derecho, de quien ejerza la patria potestad.
 
 ### CAPITULO SEGUNDO. De los alimentos
 
@@ -5175,11 +5211,15 @@ III.- A percibir la porción hereditaria que fija la ley en caso de intestado o 
 
 IV.- A ejercer los derechos que este Código concede a los hijos póstumos.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2022)</small>
 
 ###### Artículo 914.
 
-Cuando el padre o la madre que no vivan juntos reconozcan al hijo, en el mismo acto, convendrán con base al interés superior de la niñez, cuál de los dos ejercerá la custodia del hijo menor de edad y, en consecuencia, con quién de ellos habitará; para el caso de menores de doce años, estos preferentemente quedan bajo el cuidado de la madre, salvo que exista riesgo o peligro. El otro estará obligado a colaborar a su alimentación y crianza conservando el derecho de convivencia con el menor de edad, conforme a las modalidades previstas en el convenio y resolución judicial, y en caso de que no lo hicieren, el Juez de Primera Instancia del lugar, oyendo a los padres, resolverá lo que creyere más conveniente al interés superior de la niñez.
+Cuando el padre o la madre que no vivan juntos reconozcan al hijo, en el mismo acto, convendrán con base al interés superior de la niñez, cuál de los dos ejercerá la custodia del hijo menor de edad y, en consecuencia, con quién de ellos habitará; para el caso de menores de doce años, estos preferentemente quedan bajo el cuidado de la madre, salvo que exista riesgo o peligro. El otro estará obligado a colaborar a su alimentación y crianza conservando el derecho de convivencia con el menor de edad, conforme a las modalidades previstas en el convenio y resolución judicial, y en caso de que no lo hicieren, el Juez de Primera Instancia del lugar, oyendo a los progenitores, resolverá lo que creyere más conveniente al interés superior de la niñez.
+
+En su caso, deberá preverse el derecho de convivencia de los demás parientes del menor, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para los menores.
+
+Para efecto de lo dispuesto en los párrafos anteriores, será aplicable lo dispuesto por el artículo 816 del presente Código.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -5593,17 +5633,17 @@ Las situaciones jurídicas concretas de titulares de la patria potestad o tutela
 
 El desempeño de la patria potestad, de la tutela y de la adopción queda sujeto a las modalidades que le impongan las resoluciones judiciales o administrativas de acuerdo con las leyes aplicables.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2022)</small>
 
 ###### Artículo 990.
 
-Las providencias protectoras de las personas menores de edad que este Código establece y las que juzguen pertinentes los tribunales, se dictarán por ellos de oficio, o a petición del Ministerio Público, de los parientes de las personas menores de edad, de estas mismas si pueden expresarse, de su tutor, del Oficial de Menores de Edad o de cualquiera otra persona siempre que dichas medidas beneficien a la persona menor de edad.
+Las providencias protectoras de las personas menores de edad que este Código establece y las que juzguen pertinentes los tribunales, incluyendo el régimen de convivencia, se dictarán por ellos de oficio, o a petición del Ministerio Público, de los parientes de las personas menores de edad, de estas mismas si pueden expresarse, de su tutor, del Oficial de Menores de Edad o de cualquiera otra persona siempre que dichas medidas beneficien a la persona menor de edad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2022)</small>
 
 ###### Artículo 990 Bis.
 
-Para los efectos del presente Código se considerará como interés superior de la niñez, la prioridad que ha de otorgarse a los derechos de las niñas y los niños respecto de los derechos de cualquier otra persona, con el fin de garantizar, entre otros, los siguientes aspectos:
+Para los efectos del presente Código se considerará como interés superior de la niñez, la prioridad que ha de otorgarse a los derechos de las niñas, los niños y los adolescentes, respecto de los derechos de cualquier otra persona, con el fin de garantizar, entre otros, los siguientes aspectos:
 
 I.- El acceso a la salud física y mental, alimentación y educación que fomente su desarrollo personal, sin estereotipos ni condicionamientos de género;
 
@@ -5611,9 +5651,13 @@ II.- Un ambiente de respeto, aceptación y afecto, libre de cualquier tipo de vi
 
 III.- El desarrollo de la estructura de la personalidad, con una adecuada autoestima, libre de sobreprotección y excesos punitivos;
 
-IV.- El fomento de la responsabilidad personal y social, así como la toma de decisiones de la persona menor de edad de acuerdo a su edad y madurez psicoemocional; y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2022)</small>
 
-V.- Los demás derechos que a favor de las niñas y los niños reconozcan otras leyes y tratados aplicables, debidamente suscritos y ratificados por México.
+IV. El fomento de la responsabilidad personal y social, así como la toma de decisiones de las niñas, los niños y los adolescentes, de acuerdo a su edad y madurez psicoemocional, y
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2022)</small>
+
+V. Los demás derechos que, a favor de las niñas, los niños y los adolescentes, reconozcan otras leyes y tratados aplicables, debidamente suscritos y ratificados por México.
 
 > <small>(F. DE E., P.O. 8 DE OCTUBRE DE 1980)</small>
 
@@ -5651,27 +5695,49 @@ I.- El abuelo y la abuela paternos; y
 
 II.- El abuelo y la abuela maternos.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2022)</small>
 
-Artículo 994 BIS.- Los padres o falta de éstos, aquellos que ejerzan la patria potestad o la guarda y custodia provisional o definitiva de una persona menor de edad, independientemente de que vivan o no en el mismo domicilio, deben dar cumplimiento a las siguientes obligaciones de crianza:
+###### Artículo 994 Bis.
+
+Los padres o a falta de éstos, aquellos que ejerzan la patria potestad o la guarda y custodia provisional o definitiva de las niñas, los niños y los adolescentes, independientemente de que vivan o no en el mismo domicilio, deben dar cumplimiento, entre otras, a las siguientes obligaciones de crianza:
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 I.- Proporcionarles alimentos en los términos del Título Segundo, Capítulo II del Libro Tercero de este ordenamiento;
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 II.- Ofrecerles un ambiente familiar y social, en los términos del artículo 983 BIS de este ordenamiento, procurando su seguridad física, psicológica y sexual; induciendo su auto cuidado personal y asertividad;
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 III.- Fomentar hábitos adecuados de alimentación, de higiene personal y desarrollo físico;
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 IV.- Proporcionarles educación, formal e informal impulsando sus habilidades escolares y desarrollo intelectual;
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 V.- Realizar demostraciones afectivas, con respeto y aceptación de éstas por parte de la persona menor de edad; informando de acuerdo a su edad y desarrollo de los diversos tipos de violencia física y sexual;
 
-VI.- Impulsar la toma de decisiones y el respeto a su opinión; y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+VI. Impulsar la toma de decisiones y el respeto a su opinión;
 
-VII.- Determinar los límites y normas de conducta preservando el interés superior de la niñez.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2022)</small>
+
+VII. Determinar los límites y normas de conducta preservando el interés superior de la niñez, y
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2022)</small>
+
+VIII. Las demás obligaciones que, a favor de las niñas, los niños y los adolescentes, reconozcan otras leyes, tanto locales como federales, así como tratados internacionales aplicables, debidamente suscritos y ratificados por México.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 Se considerará incumplimiento de las obligaciones de crianza, el que sin justificación y de manera permanente y sistemática no se realicen las actividades señaladas; lo que el Juez valorará en los casos de suspensión de la patria potestad, de la determinación de la guarda y custodia provisional y definitiva, y del régimen de convivencias y visitas.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 No se considera incumplimiento de éstas obligaciones el que cualquiera de los progenitores tenga jornadas laborales extensas.
 
@@ -5683,17 +5749,19 @@ El orden de preferencia lo establecerán en cada caso los abuelos por acuerdo un
 
 No ejercerán la custodia quienes hayan sido declarados padre o madre, respectivamente en juicio de investigación de la paternidad o maternidad, salvo que el Juez estime que esa custodia es conveniente al menor.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2022)</small>
 
 ###### Artículo 997.
 
-En caso de que los progenitores vivan separados, y en el caso de que sean menores de doce años, la custodia corresponderá a la madre, salvo que exista riesgo o peligro. El otro estará obligado a colaborar con su alimentación y crianza conservando el derecho de convivencia con la persona menor de edad, conforme a las modalidades previstas en el convenio o resolución judicial.
+En caso de que los progenitores vivan separados, y en el caso de que sean menores de doce años, la custodia corresponderá preferentemente a la madre, salvo que exista riesgo o peligro. El otro estará obligado a colaborar con su alimentación y crianza conservando el derecho de convivencia con la persona menor de edad, conforme a las modalidades previstas en el convenio o resolución judicial.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+En su caso, deberá preverse el derecho de convivencia de los demás parientes del menor, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para los menores.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2022)</small>
 
 ###### Artículo 997
 
-BIS.- Los hijos que estén bajo la patria potestad de sus padres tienen el derecho de convivir con ambos, aún cuando no vivan bajo el mismo techo. No podrán impedirse, sin justa causa, las relaciones personales entre la persona menor de edad y sus ascendientes. En caso de oposición, a petición de cualquiera de ellos; el Juez resolverá lo conducente previa audiencia con la persona menor de edad, debidamente asistida por el Oficial de Menores de Edad. Sólo por mandato judicial, este derecho podrá ser limitado o suspendido considerando el incumplimiento reiterado de las obligaciones de crianza o peligro para la salud e integridad física, psicológica o sexual de los hijos.
+Bis. Los hijos que estén bajo la patria potestad de sus progenitores tienen el derecho de convivir con ambos, aun cuando no vivan bajo el mismo techo. No podrán impedirse, sin justa causa, las relaciones personales entre la persona menor de edad y sus parientes, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para los menores. En caso de oposición, a petición de cualquiera de ellos, el Juez resolverá lo conducente, privilegiando el interés superior de la niñez, previa audiencia con la persona menor de edad, debidamente asistida por el Oficial de Menores de Edad, adscrito a Procuraduría de Protección de Niñas, Niños y Adolescentes y la Familia del Estado de Quintana Roo. Sólo por mandato judicial, este derecho podrá ser limitado o suspendido, considerando el incumplimiento reiterado de las obligaciones de crianza o peligro para la salud e integridad física, psicológica o sexual de los hijos.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -5913,9 +5981,17 @@ Cuando el Juez fundadamente estime, por las pruebas que se ofrezcan y las que é
 
 Artículo 1024 BIS.- Salvo convenio entre las partes, el juez establecerá en los casos de limitación de la custodia, un sistema de visitas a favor del progenitor que no conserve dicha guarda y custodia, estableciendo una convivencia mínima de cuatro días y dos noches al mes, salvo tratándose de lactantes o niños o niñas que por prescripción médica no puedan pernoctar fuera del hogar. Esta convivencia podrá ampliarse atendiendo a las circunstancias particulares de cada caso y no podrá entorpecer o dificultar sus obligaciones escolares y su derecho al esparcimiento y recreación.
 
-Asimismo, deberá el juez escuchar las propuestas y argumentos de las partes al respecto.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE MARZO DE 2022)</small>
 
-El juez deberá tener en cuenta e incluir en el sistema de visitas los días festivos, cumpleaños familiares y periodos vacacionales o días de puente, procurando la alternancia y el contacto con ambos padres. También deberá buscarse la no restricción a ninguno de los progenitores de la asistencia a celebraciones o festividades que se organicen en relación a los hijos como graduaciones escolares, ceremonias de premiación, fiestas de inicio y fin de cursos, o cualquier otro evento similar que se derive de los estudios escolares o actividades complementarias o deportivas.
+Lo anterior, sin perjuicio del derecho de convivencia de los demás parientes del menor, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para los menores.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2022)</small>
+
+Asimismo, deberá el juez escuchar las propuestas y argumentos de las partes al respecto, sin menoscabo de poder tomar en cuenta la opinión del Ministerio Público, tutor, parientes, y en general a las personas que, por cualquier motivo, razón o circunstancia, puedan aportar elementos de convicción, para determinar lo conducente en los términos establecidos por el artículo 816 del presente Código.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 23 DE MARZO DE 2022)</small>
+
+El juez deberá tener en cuenta e incluir en el sistema de visitas los días festivos, cumpleaños familiares y periodos vacacionales o días de puente, procurando la alternancia y el contacto con ambos progenitores, sus parientes, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para los menores. También deberá buscarse la no restricción a ninguno de los progenitores, sus parientes, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para los menores, de la asistencia a celebraciones o festividades que se organicen en relación a los hijos como graduaciones escolares, ceremonias de premiación, fiestas de inicio y fin de cursos, o cualquier otro evento similar que se derive de los estudios escolares o actividades complementarias o deportivas.
 
 Asimismo, el convenio o resolución judicial deberán prever los casos de traslado de residencia de uno de los progenitores, la custodia y sistema de visitas en dicho caso.
 
@@ -17712,3 +17788,11 @@ P.O. 24 DE NOVIEMBRE DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 23 DE MARZO DE 2022.
+
+> <small>[N. DE E. ARTÍCULOS TRANSITORIOS DEL "DECRETO NÚMERO: 212 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO".]</small>
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
