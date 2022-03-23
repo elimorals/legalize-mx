@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-reconocimiento-de-los-derechos-de-las-personas-146185"
 country: "mx"
 rank: "ley"
 publication_date: "2021-01-15"
-last_updated: "2021-01-15"
+last_updated: "2022-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146185&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-01-14"
 
 LEY DE RECONOCIMIENTO DE LOS DERECHOS DE LAS PERSONAS MAYORES Y DEL SISTEMA INTEGRAL PARA SU ATENCIÓN DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE MARZO DE 2022.
 
 Ley publicada en el Número 515 Bis de la Gaceta Oficial de la Ciudad de México, el viernes 15 de enero de 2021.
 
@@ -1118,7 +1118,9 @@ VII. A recibir una alimentación nutricional y adecuada a su salud;
 
 VIII. A que el personal que le brinde atención y cuidado esté debidamente capacitado;
 
-IX. A recibir atención médica cuando lo requiera;
+> <small>(REFORMADA, G.O. 23 DE MARZO DE 2022)</small>
+
+IX. A recibir atención médica, psicológica, terapia ocupacional, asistencia jurídica y acompañamiento de trabajo social, cuando lo requieran;
 
 X. A no permanecer excluida ni aislada, salvo orden judicial o médica y por el menor tiempo posible;
 
@@ -1495,3 +1497,13 @@ DÉCIMO SEGUNDO. Se abroga la Ley de los Derechos de las Personas Mayores de la 
 Palacio Legislativo del Congreso de la Ciudad de México, a los diez días del mes de diciembre del año dos mil veinte.- POR LA MESA DIRECTIVA.- DIPUTADA MARGARITA SALDAÑA HERNÁNDEZ, PRESIDENTA.- DIPUTADA DONAJI OFELIA OLIVERA REYES, SECRETARIA.- DIPUTADO HÉCTOR BARRERA MARMOLEJO, SECRETARIO.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III de la Constitución Política de los Estados Unidos Mexicanos; 32, apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 2 párrafo segundo, 3 fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21 párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los catorce días del mes enero del año dos mil veintiuno.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE LA CONTRALORÍA GENERAL, JUAN JOSÉ SERRANO MENDOZA.- FIRMA.- LA SECRETARIA DE CULTURA, VANNESA BOHÓRQUEZ LÓPEZ.- FIRMA.- FIRMA.- (SIC) EL SECRETARIO DE DESARROLLO ECONÓMICO, FADLALA AKABANI HNEIDE.-FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, CARLOS ALBERTO ULLOA PÉREZ.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUIZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- LA SECRETARIA DE INCLUSIÓN Y BIENESTAR SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA.- LA SECRETARIA DE LAS MUJERES, INGRID AURORA GÓMEZ SARACÍBAR.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JESÚS ANTONIO ESTEVA MEDINA.- FIRMA.- LA SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES, LAURA ITA ANDEHUI RUIZ MONDRAGÓN.- FIRMA.- LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, OMAR HAMID GARCÍA HARFUCH.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, HAYDEÉ SOLEDAD ARAGÓN MARTÍNEZ.-FIRMA.- EL SECRETARIO DE TURISMO, CARLOS MACKINLAY GROHMANN.- FIRMA.- EL CONSEJERO JURÍDICO Y DE SERVICIOS LEGALES, NÉSTOR VARGAS SOLANO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 23 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 111 DE LA LEY DE RECONOCIMIENTO DE LOS DERECHOS DE LAS PERSONAS MAYORES Y DEL SISTEMA INTEGRAL PARA SU ATENCIÓN DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. - Remítase el presente Decreto a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. - El presente Decreto entrará en vigor el día siguiente de su publicación.
