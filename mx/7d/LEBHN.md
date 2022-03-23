@@ -4,7 +4,7 @@ identifier: "LEBHN"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-08"
-last_updated: "2018-11-30"
+last_updated: "2022-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2564&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEBHN"
 
 LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MARZO DE 2022.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de febrero de 1984.
 
@@ -372,15 +372,21 @@ Conmemoración de la gesta heroica del Batallón de San Patricio, en 1847;
 
 Aniversario del sacrificio de los Niños Héroes de Chapultepec, en 1847;
 
-14. 2 de octubre:
+> <small>(ADICIONADO, D.O.F. 23 DE MARZO DE 2022)</small>
+
+14. 19 de septiembre.
+
+Conmemoración de los sismos de 1985 y 2017.
+
+15. 2 de octubre:
 
 Aniversario de los caídos en la lucha por la democracia de la Plaza de las Tres Culturas en Tlatelolco, en 1968;
 
-15. 7 de octubre:
+16. 7 de octubre:
 
 Conmemoración del sacrificio del senador Belisario Domínguez, en 1913, y
 
-16. 22 de diciembre:
+17. 22 de diciembre:
 
 Aniversario de la muerte de José María Morelos, en 1815.
 
@@ -973,3 +979,9 @@ D.O.F. 30 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 34 DE LA LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES”.]
 
 Único. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN II DEL ARTÍCULO 18 DE LA LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
