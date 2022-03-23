@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-centro-de-conciliacion-laboral-del-estado-1533
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-12-30"
-last_updated: "2021-12-30"
+last_updated: "2022-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2022.
 
 Ley publicada en el Número 36 del Periódico Oficial del Estado de Michoacán de Ocampo, el jueves 30 de diciembre de 2021.
 
@@ -441,7 +441,9 @@ Tercero. El Poder Ejecutivo Estatal y el Congreso del Estado de Michoacán de Oc
 
 Cuarto. La designación del Director General del Centro de Conciliación Laboral del Estado de Michoacán de Ocampo, se hará de conformidad a lo que establece la presente Ley.
 
-Por única ocasión el Titular del Poder Ejecutivo del Estado, enviará al Congreso del Estado, la terna para la designación del Director General del Centro de Conciliación Laboral del Estado de Michoacán de Ocampo, en un plazo no mayor a 30 treinta días hábiles contados a partir de la publicación del presente decreto.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2022)</small>
+
+Por única ocasión el Titular del Poder Ejecutivo del Estado, enviará al Congreso del Estado, la terna para la designación del Director General del Centro de Conciliación Laboral del Estado de Michoacán de Ocampo, en un plazo no mayor a 17 diecisiete días hábiles contados a partir de la publicación del presente Decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Quinto. La Junta de Gobierno del Centro de Conciliación Laboral del Estado de Michoacán de Ocampo, deberá instalarse en un plazo no mayor a quince días hábiles, contados a partir del día siguiente del nombramiento del Director General del Centro.
 
@@ -468,3 +470,11 @@ ATENTAMENTE. - PRESIDENTA DE LA MESA DIRECTIVA.- DIP. ADRIANA HERNÁNDEZ ÍÑIGU
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 29 veintinueve días del mes de diciembre del año 2021 dos mil veintiuno.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- LIC. ALFREDO RAMÍREZ BEDOLLA.- EL SECRETARIO DE GOBIERNO.- LIC. CARLOS TORRES PIÑA.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 146 POR EL QUE “SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO CUARTO TRANSITORIO DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
