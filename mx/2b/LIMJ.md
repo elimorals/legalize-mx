@@ -4,7 +4,7 @@ identifier: "LIMJ"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-06"
-last_updated: "2015-04-02"
+last_updated: "2022-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12843&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIMJ"
 
 LEY DEL INSTITUTO MEXICANO DE LA JUVENTUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MARZO DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 6 de enero de 1999.
 
@@ -40,11 +40,13 @@ LEY DEL INSTITUTO MEXICANO DE LA JUVENTUD
 
 ### Capítulo I. Disposiciones Generales
 
-> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MARZO DE 2022)</small>
 
 ###### Artículo 1.
 
-Se crea el Instituto Mexicano de la Juventud como un organismo público descentralizado de la Administración Pública Federal, con personalidad jurídica, patrimonio propio, autonomía técnica, operativa y de gestión y con domicilio en el Distrito Federal.
+Se crea el Instituto Mexicano de la Juventud como un organismo público descentralizado de la Administración Pública Federal, con personalidad jurídica, patrimonio propio, autonomía técnica, operativa y de gestión y con domicilio en la Ciudad de México.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2015)</small>
 
 Cuando la presente Ley se refiera al Instituto, se entenderá por éste al Instituto Mexicano de la Juventud.
 
@@ -78,11 +80,11 @@ VI. Promover coordinadamente con las autoridades de los tres órdenes de gobiern
 
 VII. Fungir como representante del Gobierno Federal en materia de juventud, ante los Gobiernos estatales y municipales, organizaciones privadas, sociales y organismos internacionales, así como en foros, convenciones, encuentros y demás reuniones en las que el Ejecutivo solicite su participación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MARZO DE 2022)</small>
 
 ###### Artículo 3 Bis.
 
-El Instituto en la definición e instrumentación de la política nacional de juventud a la que hace referencia la fracción II del artículo 3, deberá trabajar en colaboración con la Secretaría de Desarrollo Social, conforme los siguientes lineamientos:
+El Instituto en la definición e instrumentación de la política nacional de juventud a la que hace referencia la fracción II del artículo 3, deberá trabajar en colaboración con la Secretaría de Bienestar, conforme los siguientes lineamientos:
 
 > <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
@@ -216,9 +218,9 @@ La Junta Directiva se integrará por diecisiete miembros, de los cuales serán:
 
 I. Diez Miembros Propietarios:
 
-> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2022)</small>
 
-a) El Secretario de Desarrollo Social, quien la presidirá;
+a) El Secretario de Bienestar, quien la presidirá;
 
 b) El Secretario de Hacienda y Crédito Público;
 
@@ -254,9 +256,9 @@ b) Dos rectores o directores de universidades o instituciones públicas de educa
 
 c) Dos jóvenes, integrantes del Consejo de Seguimiento de Proyectos y Programas.
 
-> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2022)</small>
 
-Estos siete miembros formarán parte de la Junta Directiva a invitación del titular de la Secretaría de Desarrollo Social, durarán en su encargo un año y serán designados de acuerdo al procedimiento que se señale en el Estatuto Orgánico.
+Estos siete miembros formarán parte de la Junta Directiva a invitación del titular de la Secretaría de Bienestar, durarán en su encargo un año y serán designados de acuerdo al procedimiento que se señale en el Estatuto Orgánico.
 
 > <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
@@ -298,9 +300,9 @@ XII. Aprobar el Estatuto Orgánico del Instituto y el proyecto de estructura org
 
 XIII. Analizar y, en su caso, aprobar los informes periódicos que rinda el Director General, con la intervención que corresponda al Comisario.
 
-> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2022)</small>
 
-XIV. Aprobar las normas y bases para la cancelación de adeudos a favor del Instituto y con cargo a terceros, cuando fuere notoria la imposibilidad práctica de su cobro, informando lo conducente a la Secretaría de Hacienda y Crédito Público por conducto de la Secretaría de Desarrollo Social, y
+XIV. Aprobar las normas y bases para la cancelación de adeudos a favor del Instituto y con cargo a terceros, cuando fuere notoria la imposibilidad practica de su cobro, informando lo conducente a la Secretaría de Hacienda y Crédito Público por conducto de la Secretaría de Bienestar, y
 
 XV. Las demás que, con el carácter de indelegables, se le atribuyan en los términos de la Ley Federal de Entidades Paraestatales y otras disposiciones legales aplicables.
 
@@ -463,3 +465,9 @@ D.O.F. 2 DE ABRIL DE 2015.
 DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 1 Y 8, FRACCIONES I, INCISOS A) Y G) Y II, INCISO C), SEGUNDO PÁRRAFO, DE LA LEY DEL INSTITUTO MEXICANO DE LA JUVENTUD.
 
 Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, 3 BIS, 8 Y 9 DE LA LEY DEL INSTITUTO MEXICANO DE LA JUVENTUD.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación”.]
