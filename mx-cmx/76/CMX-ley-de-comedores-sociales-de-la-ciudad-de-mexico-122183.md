@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-comedores-sociales-de-la-ciudad-de-mexico-122183"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-26"
-last_updated: "2021-05-31"
+last_updated: "2022-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122183&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-03-31"
 
 LEY DE COMEDORES SOCIALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE MARZO DE 2022.
 
 Ley publicada en el No. 97 Bis la Gaceta Oficial de la Ciudad de México, el lunes 26 de junio de 2017.
 
@@ -54,11 +54,11 @@ LEY DE COMEDORES SOCIALES DE LA CIUDAD DE MÉXICO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, G.O. 31 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, G.O. 23 DE MARZO DE 2022)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y de observancia general en la Ciudad de México, para dar cumplimiento al artículo 4 de la Constitución Política de los Estados Unidos Mexicanos, y tiene por objeto hacer efectivo el derecho de sus habitantes a una alimentación adecuada, nutritiva, diaria, suficiente y de calidad, con alimentos inocuos, saludables, accesibles, asequibles, culturalmente aceptables y que los protejan contra el hambre, la malnutrición y la desnutrición.
+La presente Ley es de orden público e interés social y de observancia general en la Ciudad de México, para dar cumplimiento al artículo 4 de la Constitución Política de los Estados Unidos Mexicanos y 9 apartado C de la Constitución Política de la Ciudad de México, y tiene por objeto hacer efectivo el derecho de sus habitantes a una alimentación adecuada, nutritiva, diaria, suficiente y de calidad, con alimentos inocuos, saludables, accesibles, asequibles, culturalmente aceptables y que los protejan contra el hambre, la malnutrición y la desnutrición.
 
 > <small>(REFORMADO, G.O. 31 DE MAYO DE 2021)</small>
 
@@ -603,3 +603,11 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- La persona Titular de la Jefatura de Gobierno de la Ciudad de México, deberá expedir el Reglamento de la presente Ley, en un plazo no mayor a 90 días hábiles siguientes a la entrada en vigor de estas reformas.
 
 CUARTO.- Hasta en tanto se expida el Reglamento de la presente Ley, la Secretaría de Inclusión y Bienestar Social y el DIF Ciudad de México, estarán a lo que señalen las Reglas de Operación de los Programas de Comedores Sociales y Comedores Populares, ambos de la Ciudad de México, respecto a la regulación de su funcionamiento.
+
+G.O. 23 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1º DE LEY DE COMEDORES SOCIALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
