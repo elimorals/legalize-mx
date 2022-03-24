@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-universidad-de-quintana-roo-8610"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-09-14"
-last_updated: "2021-07-16"
+last_updated: "2022-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA UNIVERSIDAD DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 14 de septiembre de 1994.
 
@@ -41,29 +41,35 @@ LA LEY ORGANICA DE LA UNIVERSIDAD DE QUINTANA ROO.
 
 NATURALEZA Y DOMICILIO.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2022)</small>
+
 ###### Artículo 1º.
 
-La Universidad de Quintana Roo es un Organismo Público Descentralizado del Estado de Quintana Roo para impartir educación superior, con personalidad jurídica y patrimonio propios.
+La Universidad Autónoma del Estado de Quintana Roo, es un Organismo Público Descentralizado del Gobierno del Estado de Quintana Roo para impartir educación superior, dotada de autonomía para gobernarse, expedir sus reglamentos, elegir de manera independiente a sus autoridades, planear, llevar a cabo sus actividades y aplicar sus recursos, con personalidad jurídica y patrimonio propios.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2022)</small>
 
 ###### Artículo 2º.
 
-EI domicilio y sede oficial de la Universidad de Quintana Roo es el que tiene actualmente en la Ciudad de Chetumal, pero podrá establecer unidades académicas en otras ciudades del Estado, conforme a las necesidades del desarrollo social y cultural del Estado, y a los recursos de que pueda disponer, así como establecer representaciones en otras entidades de la República o del extranjero, atendiendo a su vocación regional, de acuerdo a los convenios celebrados con instituciones similares de esas entidades federativas o del extranjero.
+El domicilio y sede oficial de la Universidad Autónoma del Estado de Quintana Roo es el que tiene actualmente en la Ciudad de Chetumal, pero podrá establecer unidades académicas en otras ciudades del Estado, conforme a las necesidades del desarrollo social y cultural del Estado, y a los recursos de que pueda disponer, así como establecer representaciones en otras entidades de la República o del extranjero, atendiendo a su vocación regional, de acuerdo a los convenios celebrados con instituciones similares de esas entidades federativas o del extranjero.
 
 ### CAPITULO II.
 
 FINES, FACULTADES, PRINCIPIOS E INTEGRACION.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 2022)</small>
 
 ###### Artículo 3º.
 
-Se le encomienda a la Universidad de Quintana Roo los siguientes fines:
+Se le encomiendan a la Universidad Autónoma del Estado de Quintana Roo, los siguientes fines:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 1998)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MARZO DE 2022)</small>
 
-I.- Impartir educación superior en los niveles técnicos, de licenciatura, estudios de posgrado, cursos de actualización y especialización mediante las diferentes modalidades de enseñanza para formar los profesionistas, profesores e investigadores que requiere el Estado de Quintana Roo, la región y el país, en su armónico desarrollo socioeconómico y cultural.
+I.- Impartir educación superior en los niveles técnicos, de licenciatura, estudios de posgrado, cursos de actualización y especialización mediante las diferentes modalidades de enseñanza para formar personas profesionistas, profesoras y profesores e investigadoras o investigadores que requiere el Estado de Quintana Roo, la región y el país, en su armónico desarrollo socioeconómico y cultural.
 
-La formación de los individuos se orientará a ser integral, con clara actitud humanística, social y científica; dotados de espíritu emprendedor, innovador y de logro de objetivos; encauzados a la superación personal, comprometidos con el progreso del ser humano, del amor a la patria y a la conciencia de responsabilidad social;
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2022)</small>
+
+La formación de las personas se orientará a ser integral, con clara actitud humanística, social y científica; dotados de espíritu emprendedor, innovador y de logro de objetivos; encauzados a la superación personal, comprometidos con el progreso del ser humano, del amor a la patria y a la conciencia de responsabilidad social;
 
 II.- Organizar, fomentar y generar nuevos conocimientos mediante programas de investigación científica, humanística, social, cultural y de desarrollo tecnológico, buscando principalmente resolver las necesidades de la sociedad quintanarroense y de la del país en general;
 
@@ -129,9 +135,11 @@ La violación de estos principios en provecho de propaganda política partidista
 
 La fuente depositaria, garante y responsable de estos principios reside en toda la comunidad universitaria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 2022)</small>
+
 ###### Artículo 6º.
 
-La Universidad de Quintana Roo estará integrada por sus autoridades, funcionarios, personal académico, alumnos, personal administrativo y egresados.
+La Universidad Autónoma del Estado de Quintana Roo estará integrada por sus autoridades, funcionarias y funcionarios, personal académico, alumnas y alumnos, personal administrativo y personal egresado.
 
 Asimismo, la Universidad estará integrada por las unidades académicas, a través de las cuales llevará a cabo las actividades que le permitan el cumplimiento de sus fines, en forma de organización desconcentrada, tanto funcional, como operativa y geográfica.
 
@@ -163,23 +171,19 @@ VIII.- El Patronato.
 
 JUNTA DIRECTIVA.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2022)</small>
 
 ###### Artículo 8º.
 
-La Junta Directiva estará integrada por once personas.
+La Junta Directiva estará integrada por nueve personas integrantes de reconocido prestigio y solvencia moral, cinco de las cuales deberán ser integrantes del personal académico de la Universidad.
 
-El cargo de miembro de la Junta Directiva será honorífico, sin retribución económica alguna y no podrá volver a desempeñarse como tal. Los miembros de la Junta Directiva no podrán ser designados en otros cargos de autoridad o de dirección dentro de la Universidad, sino hasta haber transcurrido, como mínimo, dos años de su separación de la misma.
+El cargo de integrante de la Junta Directiva será a título honorífico, sin retribución económica alguna y no podrá volver a desempeñarse como tal, y quien lo desempeñe solo podrá realizar, además, tareas de docencia, tareas de investigación o propias de su ejercicio profesional, en los términos que señalan las fracciones IV y V del artículo 10 de esta Ley.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2022)</small>
 
 ###### Artículo 9º.
 
-De los miembros de la Junta Directiva, siete serán designados por el Gobernador del Estado; los otros cuatro, serán designados por el Consejo Universitario de entre los integrantes del personal académico definitivo de tiempo completo de la Universidad. Cada año será reemplazado el integrante más antiguo de la Junta Directiva; las vacantes que se presenten por renuncia, muerte, incapacidad o límite de edad, serán cubiertas por el órgano quien designó el anterior.
-
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
-
-Dentro de los miembros designados por el Gobernador del Estado en todo caso estará un representante de la Secretaría de Finanzas y Planeación.
+Las cinco personas integrantes del personal académico de la Universidad que se integren a la Junta Directiva, serán designadas por el Consejo Universitario, y las cuatro personas integrantes restantes serán designadas, dos por el Patronato y dos por el Consejo Social. Cada año será reemplazada la persona integrante más antigua o quien lo hubiere substituido, procediéndose a la designación de una nueva persona integrante que lo sucederá de acuerdo con el Reglamento correspondiente. Las cinco personas integrantes del personal académico de la Universidad no podrán ser designadas para ocupar cargos directivos dentro de la misma, hasta que hayan transcurrido como mínimo dos años de su separación de la Junta Directiva.
 
 ###### Artículo 10º.
 
@@ -199,33 +203,37 @@ V.- No haber sido sancionado por actos contrarios a la Ley orgánica de la Unive
 
 No aplicará lo dispuesto en la fracción IV de este artículo, respecto al impedimento de los funcionarios públicos para ser miembro de la Junta Directiva, tratándose únicamente de los miembros designados por el Gobernador del Estado, en cuanto a los representantes de la Secretaría de Finanzas y Planeación, de conformidad con el artículo 9 de esta Ley.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2022)</small>
+
 ###### Artículo 11.
 
 Corresponde a la Junta Directiva:
 
-I.- Nombrar al Rector, resolver acerca de su renuncia o licencia; y removerlo por causa grave y justificada que la Junta apreciará discrecionalmente;
+I.- Nombrar a la persona titular de la Rectoría, resolver acerca de su renuncia o licencia y removerla por causa grave y justificada que la Junta acredite y sustente.
 
 Para el ejercicio de las facultades que esta fracción le concede, la Junta explorará en la forma que estime prudente, la opinión de los universitarios;
 
-II.- Designar a los integrantes del Patronato, a los Coordinadores de Unidad y a los Directores de División, de las temas que presente el Rector igualmente resolver acerca de su renuncia; y, en su caso, removerlos por causa grave y justificada, apreciada discrecionalmente;
+Para efectos del nombramiento de la persona titular de la Rectoría de la Universidad de Quintana Roo, la Junta conformará una Comisión Especial, tripartita y proporcional, misma que será integrada por quienes integran el Consejo Universitario, el Patronato y el Consejo Social.
 
-III.- Resolver en definitiva cuando el Rector vete los acuerdos del Consejo Universitario; o cuando los Coordinadores de Unidad veten los acuerdos de los Consejos Académicos;
+II.- Coordinar la conformación de la Comisión Especial a la que se refiere la fracción anterior, cuyo objetivo será proponer a la Junta Directiva la terna para el nombramiento de la persona que ocupe la titularidad de la Rectoría de la Universidad de Quintana Roo;
 
-IV.- Conocer y resolver en definitiva, como última instancia, los conflictos que se presenten entre las distintas autoridades universitarias;
+III.- Designar a los integrantes del Patronato, a los Coordinadores de Unidad y a los Directores de División de las ternas que presente la persona titular de la Rectoría; igualmente resolver acerca de su renuncia; y en su caso, removerlos por causa grave y justificada;
 
-V.- Ejercer el derecho de iniciativa ante el Consejo Universitario en las materias de su competencia;
+IV.- Resolver en definitiva cuando la persona titular de la Rectoría vete los acuerdos del Consejo Universitario o cuando las Coordinadoras o Coordinadores de Unidad veten los acuerdos de los Consejos Académicos;
 
-VI.- Resolver la separación definitiva de cualquiera de sus miembros, por haber incurrido en conducta grave que atente contra los fines y principios de la Universidad;
+V.- Conocer y resolver en definitiva como última instancia, los conflictos que se presenten entre las distintas autoridades universitarias;
 
-VII.- Expedir su reglamento interior.
+VI.- Ejercer el derecho de iniciativa ante el Consejo Universitario en las materias de su competencia;
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+VII.- Resolver la separación definitiva de cualquiera de sus integrantes, por haber incurrido en conducta grave que atente contra los fines y principios de la Universidad;
 
-Para la validez de los acuerdos y resoluciones, se requerirá el voto aprobatorio de cuando menos seis de los integrantes de la Junta Directiva.
+VIII.- Expedir su reglamento interior.
 
-Las resoluciones de la Junta Directiva, respecto a lo dispuesto en este Artículo, son de cumplimiento obligatorio para la propia Junta, para las demás autoridades universitarias y, en general, para todos los miembros de la comunidad universitaria.
+Para la validez de los acuerdos y resoluciones, se requerirá el voto aprobatorio de cuando menos cinco de las personas integrantes de la Junta Directiva.
 
-El incumplimiento a las resoluciones de la Junta Directiva será causa grave de responsabilidad, en los términos que establece ésta Ley y sus reglamentos.
+Las resoluciones de la Junta Directiva, respecto a lo dispuesto en este Artículo, son de cumplimiento obligatorio para la propia Junta, para las demás autoridades universitarias y, en general, para todos los integrantes de la comunidad universitaria.
+
+El incumplimiento a las resoluciones de la Junta Directiva será causa grave de responsabilidad, en los términos que establece esta Ley y sus reglamentos.
 
 ###### Artículo 12.
 
@@ -579,21 +587,11 @@ El Colegio de Académicos quedará integrado por todo el personal académico de 
 
 El Colegio de Estudiantes quedará integrado por todos los alumnos de la Universidad, y será el órgano representativo por medio del cual elegirán a sus representantes ante los distintos órganos colegiados de la Universidad, conforme lo dispuesto en esta ley y demás normas institucionales.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2022)</small>
+
 ###### Artículo 39.
 
-Las relaciones entre la Universidad y sus trabajadores, tanto académicos como administrativos, se regirán por lo dispuesto en la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo, Judicial y de los Ayuntamientos y organismos descentralizados del Estado de Quintana Roo.
-
-Serán considerados trabajadores de confianza de la Universidad:
-
-I.- Todas aquellas personas que desempeñen funciones de autoridad de carácter no honorífico, de dirección, jefatura, inspección, vigilancia y fiscalización cuando tengan carácter de general, en sus unidades, áreas, coordinaciones, direcciones, departamentos y todas las demás dependencias de la Universidad, así como el personal adscrito directamente a estas;
-
-II.- Los miembros del personal académico, incluyendo profesores, investigadores, profesionales, técnicos académicos, ayudantes de profesor y cualquier otra figura o categoría académica que exista en la Universidad;
-
-III.- Los responsables directos de las actividades de compras y adquisiciones;
-
-IV.- Las personas que realicen funciones de contabilidad, que manejen fondos y valores, y aquellas relacionadas con la auditoria y vigilancia del patrimonio universitario;
-
-V.- El personal asignado al área administrativa de la Universidad y aquel asignado a centros de cómputo, bibliográficos y de información.
+Las relaciones entre la Universidad y su plantilla laboral, tanto del personal académico como del administrativo, se regirán por lo dispuesto en el Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en los términos y con las modalidades que establezca la Ley Federal del Trabajo conforme a las características propias de un trabajo especial, de manera que concuerden con la autonomía, la libertad de cátedra e investigación y los fines de las instituciones de educación superior.
 
 ###### Artículo 40.
 
@@ -605,11 +603,57 @@ La comunidad universitaria en general participará en programas de servicio soci
 
 VINCULACION CON LA SOCIEDAD.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2022)</small>
+
 ###### Artículo 41.
 
-Para garantizar su apego a la estructura de la sociedad local, la Universidad establecerá los mecanismos de vinculación con la sociedad.
+La Universidad, para garantizar su apego a la estructura de la sociedad local, constituirá, con la participación de integrantes de los sectores público, privado y social, un órgano mixto de vinculación con la sociedad y dependiente del H. Consejo Universitario, que será el Consejo Social, así como otros órganos auxiliares que autorice la Legislación Universitaria.
 
-Para tal efecto, y por medio de los mecanismos de vinculación idóneos, la Universidad invitará a diferentes miembros representativos de la sociedad del Estado, para que expresen sus opiniones sobre las actividades que realiza la Universidad, las demandas y requerimientos sociales, y la formulación de alternativas y propuestas sobre la diversificación del financiamiento y generación de ingresos propios de la institución.
+El Consejo Social será el organo de enlace entre la sociedad y la Universidad.
+
+Estará integrado por:
+
+I. Un mínimo de seis personas representantes de las organizaciones sociales y productivas de la Entidad y de la Región, designadas por el Consejo Universitario;
+
+II. Seis personas integrantes del Consejo Universitario designadas por éste, incluidas las personas titulares de la Rectoría y de la Secretaría General de la Universidad, y
+
+III. Dos representantes del Gobierno del Estado.
+
+El cargo de integrante del Consejo Social durará dos años, será honorifico, sin retribución económica alguna, y su designación, remoción o suplencia se regirá por lo que establezca esta Ley y el Reglamento correspondiente.
+
+El Consejo Social podrá invitar a un representante del Gobierno Federal cuando se traten temas de su competencia y para coadyuvar en los trabajos del propio Consejo.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2022)</small>
+
+###### Artículo 41 Bis.
+
+Corresponderá al Consejo Social:
+
+I.- Velar por el cumplimiento de la misión social y regional de la Universidad;
+
+II.- Propiciar el diálogo fluido, constante y comprometido entre la sociedad, la Universidad y el Estado;
+
+III.- Actuar como foro para la interacción entre las demandas de la sociedad y los ofrecimientos de la Universidad en materia de enseñanza, investigación y desarrollo tecnológico, así como de extensión y de difusión cultural, buscando su adecuación continua;
+
+IV.- Servir como portavoz del entorno social ante la Universidad y de esta ante la sociedad, en aquellas materias que no estén reservadas a otros órganos de la Universidad;
+
+V.- Contribuir a la diversificación de las fuentes de financiamiento de la Institución, estimulando la más amplia participación de la sociedad;
+
+VI.- Contribuir a la generación de ingresos propios de la Universidad;
+
+VII.- Proponer a las Autoridades Universitarias acciones para el desarrollo de la Universidad a partir de fondos sociales y siempre que no se afecte el rigor académico de sus programas;
+
+VIII.- Designar a las personas que fungirán como representantes del Consejo Social dentro de la Comisión Especial prevista en la fracción I del Artículo 11 de esta Ley;
+
+IX.- Emitir opinión al Patronato acerca de los presupuestos anuales de Ingresos y egresos de la Universidad, así como para el establecimiento de Unidades Regionales;
+
+X.- Presentar anualmente al Patronato y al Consejo Universitario, dentro de los tres primeros meses del año, el Informe General de Actividades correspondiente al año anterior;
+
+XI.- Designar a dos de las personas integrantes no académicos de la Junta Directiva de la Universidad;
+
+XII.- Proponer modificaciones a su propio Reglamento y someterlas al Patronato de la Universidad para su aprobación, y
+
+XIII.- Ejercer las demás atribuciones fijadas en la Legislación Universitaria.
 
 ### CAPITULO XIII.
 
@@ -725,11 +769,13 @@ Los ingresos de la universidad y los bienes de su propiedad no serán sujeto de 
 
 Tampoco serán gravados los actos y contratos en los que la Universidad intervenga, si los impuestos estatales, de acuerdo con la ley respectiva, deben correr a cargo de la propia Universidad.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2022)</small>
+
 ###### Artículo 52.
 
-El Gobernador del Estado incluirá en cada proyecto de presupuesto anual de egresos del Estado, las aportaciones que se destinan a la Universidad para el cumplimiento de sus fines.
+La Persona titular de la Gubernatura del Estado, incluirá en cada proyecto de Presupuesto Anual de Egresos del Estado, las aportaciones que se destinan a la Universidad para el cumplimiento de sus fines.
 
-Para tal efecto, la Universidad presentará al Gobernador del Estado, conforme al calendario establecido, las previsiones económicas para cubrir los servicios a su cargo.
+Para tal efecto, la persona titular de la Rectoría de la Universidad remitirá a más tardar en el mes de octubre de cada año, el Anteproyecto de Presupuesto de Egresos que incluya las previsiones económicas para cubrir los servicios a su cargo, a la persona titular de la Gubernatura y a la Legislatura del Estado, para su debida inclusión en el Presupuesto de Egresos del Gobierno del Estado.
 
 ### CAPITULO XV.
 
@@ -918,3 +964,29 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 24 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 222 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA UNIVERSIDAD DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. A la entrada en vigor del presente Decreto, el H. Consejo Universitario designará a la primera persona integrante de la Junta Directiva en sustitución de quien termina su periodo respecto a los integrantes del personal académico en términos de lo establecido en el artículo 9 de esta ley.
+
+A partir de ese momento y al terminar el periodo de los actuales integrantes del personal académico, será el H. Consejo Universitario el que designe a sus sucesores, y cuando el que concluye su periodo sea de las personas designadas por la persona titular de la Gubernatura del Estado, de forma alterna, el Patronato y el Consejo Social, procederá a realizar nuevas designaciones, empezando por el Patronato.
+
+TERCERO. El H. Consejo Universitario integrará el Consejo Social a más tardar dentro de los sesenta días posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El Consejo Universitario deberá promover la adecuación y actualización de toda la Legislación Universitaria dentro de los doce meses siguientes a la entrada en vigor del presente Decreto.
+
+QUINTO. El nombramiento de la persona titular de la Rectoría de la Universidad de Quintana Roo, que realice la Junta Directiva con base en la terna presentada por la Comisión Especial, se llevará a cabo por primera vez, al término del periodo de la actual titularidad de la Rectoría, misma que concluye el 14 de agosto de 2023.
+
+SEXTO. El personal académico y administrativo de la Universidad a la entrada en vigor del presente decreto conservarán todos los derechos laborales adquiridos de forma previa al presente decreto, por lo que en ninguna forma resultarán transgredidos en su antigüedad, prestaciones, derechos y obligaciones laborales.
+
+SÉPTIMO. La persona titular de la Gubernatura del Estado, por conducto de la Secretaria de Finanzas y Planeación, deberá prever una partida presupuestal para el cumplimiento del presente decreto que garantice la suficiencia económica de la Universidad Autónoma del Estado de Quintana Roo en el Presupuesto de Egresos del Gobierno del Estado de Quintana Roo, a partir del ejercicio fiscal 2023.
+
+OCTAVO. El patrimonio de la Universidad establecido en el artículo 49 de la Ley Orgánica de la Universidad de Quintana Roo pasará al dominio de la Universidad Autónoma del Estado de Quintana Roo.
+
+NOVENO. La Honorable XVI Legislatura Constitucional del Estado de Quintana Roo, con motivo de la celebración de la Autonomía obtenida por la máxima casa de Estudios de nuestro Estado, hará entrega a la Universidad, por conducto de sus autoridades, de un ejemplar del presente decreto, para lo cual celebrará sesión ordinaria a verificarse en la fecha y hora que determine su Mesa Directiva.
+
+DÉCIMO. Se derogan aquellas disposiciones de igual o inferior jerarquía que se opongan al presente Decreto.
