@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-educacion-para-el-estado-de-tlaxcala-143221"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-26"
-last_updated: "2021-05-17"
+last_updated: "2022-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 26 de mayo de 2020.
 
@@ -323,7 +323,9 @@ IV. Inculcar el enfoque de derechos humanos y de igualdad sustantiva, y promover
 
 V. Fortalecer el amor a la Patria, demostrando el aprecio a su historia, su cultura, valoración de las tradiciones de nuestro Estado y el compromiso con los valores, así como el respeto a los símbolos patrios y las instituciones estatales y nacionales;
 
-VI. Impulsar la educación en materia de nutrición, estimular la educación física y la práctica del deporte para una educación integral;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2022)</small>
+
+VI. Impulsar la educación en materia de nutrición, estimular la educación física y la práctica del deporte, así como los hábitos de higiene personal y para una correcta higiene bucal, para una educación integral;
 
 VII. Formar a los educandos en la cultura de la paz, el respeto, la tolerancia, los valores democráticos que favorezcan el diálogo constructivo, la solidaridad y la búsqueda de acuerdos que permitan la solución no violenta de conflictos y la convivencia en un marco de respeto a las diferencias;
 
@@ -2232,3 +2234,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación, e
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que contravengan al presente decreto.
+
+P.O. 24 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 93.- SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 21 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TLAXCALA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Tlaxcala.
