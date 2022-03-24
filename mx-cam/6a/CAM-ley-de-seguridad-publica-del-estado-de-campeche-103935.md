@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-seguridad-publica-del-estado-de-campeche-103935"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-01"
-last_updated: "2021-10-26"
+last_updated: "2022-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103935&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 1 de diciembre de 2014.
 
@@ -657,9 +657,11 @@ V. Realizar denuncias o quejas sobre irregularidades en la función de seguridad
 
 VI. Auxiliar a las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de seguridad pública.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 52.
 
-El Consejo Consultivo de Participación Ciudadana se integrará con personas electas por el Consejo Estatal de Seguridad Pública, a propuesta del Presidente.
+El Consejo Consultivo de Participación Ciudadana se integrará con cinco personas de reconocida solvencia moral y social, electas por el Consejo Estatal de Seguridad Pública a propuesta de la o el Presidente, previa Convocatoria Pública que al efecto se emita.
 
 ###### ARTÍCULO 53.
 
@@ -675,13 +677,17 @@ II. Involucrarse en hechos delictivos o antisociales; y
 
 III. Mal uso de la información.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 55.
 
-El Consejo Consultivo de Participación Ciudadana será presidido por uno de los consejeros, quien será elegido entre los integrantes del mismo y durará un año en su encargo. Al término de su período como Presidente, podrá ser reelecto por una sola vez para el siguiente período.
+El Consejo Consultivo de Participación Ciudadana será presidido por una o uno de los consejeros, quien será elegido entre las y los integrantes del mismo y durará un año en su encargo. Al término de su período como Presidenta o Presidente, podrá ser reelecta o reelecto por una sola vez para el siguiente período.
 
 El funcionamiento interno del Consejo Consultivo de Participación Ciudadana estará regido por las normas que para tales efectos el mismo emita, previa aprobación del Consejo Estatal de Seguridad Pública.
 
 ### CAPÍTULO VI. DE LOS ÓRGANOS DE APOYO A LA SEGURIDAD PÚBLICA
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 56.
 
@@ -689,15 +695,15 @@ Las instituciones que participan en el Sistema Estatal, o municipales, contarán
 
 I. El Centro de Estudios en Seguridad Pública, como órgano de capacitación, profesionalización y desarrollo del servicio civil de carrera de las instituciones de seguridad pública del Estado y los Municipios;
 
-II. El Centro de Enlace Informático, como encargado de administrar las bases de datos e información que las distintas instituciones generen y que sea útil para el combate a la delincuencia y a las conductas antisociales, así como llevar el registro estadístico de la seguridad pública; y
+II. El Centro de Enlace Informático, como encargado de administrar las bases de datos e información que las distintas instituciones generen y que sea útil para el combate a la delincuencia y a las conductas antisociales, así como llevar el registro estadístico de la seguridad pública;
 
-III. El Centro de Control, Comando, Comunicaciones y Cómputo, como instancia que administra el sistema de atención de llamadas de emergencia, coordina la respuesta policial y mantiene en operación el enlace con la red nacional y estatal de telecomunicaciones al servicio de las instituciones de seguridad pública del Estado;
+III. El Centro Estatal de Evaluación y Control de Confianza, que tiene como finalidad regular el funcionamiento de organismos públicos y privados mediante la evaluación permanente y prácticas de exámenes de control de confianza, polígrafos, psicológicos, de entorno social y médico-toxicológicos, al personal de las instituciones policiales, de procuración de justicia y centros de reinserción social, para la selección, ingreso, promoción, formación, permanencia, reconocimiento y certificación del personal de las mismas; y
 
-IV. El Centro Estatal de Evaluación y Control de Confianza, que tiene como finalidad regular el funcionamiento de organismos públicos y privados mediante la evaluación permanente y prácticas de exámenes de control de confianza, polígrafos, psicológicos, de entorno social y médico-toxicológicos, al personal de las instituciones policiales, de procuración de justicia y centros de reinserción social, para la selección, ingreso, promoción, formación, permanencia, reconocimiento y certificación del personal de las mismas; y
+IV. El Centro Estatal de Prevención Social del Delito y Participación Ciudadana, que tiene como finalidad formular, establecer, planear, coordinar, diseñar, implementar y dar seguimiento a las políticas públicas en materia de prevención social de la violencia y la delincuencia, así como fomentar en el Estado la cultura de la paz, la legalidad y el respeto a los derechos humanos.
 
-V. El Centro Estatal de Prevención Social del Delito y Participación Ciudadana, que tiene como finalidad formular, establecer, planear, coordinar, diseñar, implementar y dar seguimiento a las políticas públicas en materia de prevención social de la violencia y la delincuencia, así como fomentar en el Estado la cultura de la paz, la legalidad y el respeto a los derechos humanos.
+La o el Presidente del Consejo Estatal designará a las o los titulares de cada uno de los organismos señalados, salvo el caso de la o el titular del Centro Estatal de Prevención Social del Delito y Participación Ciudadana, que será designado conforme lo establezca la Ley en la materia.
 
-El Presidente del Consejo Estatal designará a los titulares de cada uno de los organismos señalados, salvo el caso del titular del Centro Estatal de Prevención Social del Delito y Participación Ciudadana, que será designado conforme lo establezca la Ley en la materia.
+Asimismo, las instituciones que participan en el Sistema Estatal, o municipales, contarán con el apoyo del Centro de Control, Comando, Comunicaciones y Cómputo, como instancia que administra el sistema de atención de llamadas de emergencia, coordina la respuesta policial y mantiene en operación el enlace con la red nacional y estatal de telecomunicaciones al servicio de las instituciones de seguridad pública del Estado, el cual dependerá directamente de la Secretaría de Protección y Seguridad Ciudadana del Poder Ejecutivo del Estado de Campeche.
 
 ###### ARTÍCULO 57.
 
@@ -2774,3 +2780,23 @@ CUARTO.- Los HH. Ayuntamientos deberán tomar todas las medidas necesarias para 
 QUINTO.- Las referencias hechas a la persona titular de la Secretaría de Gobierno y la persona titular de la Secretaría de Protección y Seguridad Ciudadana en el presente Decreto, se entenderán hechas a la o el Secretario General de Gobierno y a la o el Secretario de Seguridad Pública, respectivamente, hasta en tanto entre en vigor la nueva Ley Orgánica de la Administración Pública del Estado de Campeche.
 
 SEXTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Decreto.
+
+P.O. 24 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 44 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 52, 55 PÁRRAFO PRIMERO Y 56, TODOS DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente decreto, el Órgano denominado “Centro de Control, Comando, Comunicaciones y Cómputo” quedará adscrito de manera directa a la Secretaría de Protección y Seguridad Ciudadana del Poder Ejecutivo Estatal.
+
+De conformidad con lo anterior, la Secretaría de Administración y Finanzas deberá realizar todas las estimaciones presupuestales y financieras que correspondan.
+
+El Centro de Control, Comando, Comunicaciones y Cómputo podrá integrarse con la naturaleza jurídico-administrativa que le permitan y se prevean en las estimaciones presupuestales correspondientes, dotándoles de la estructura orgánica que se considere adecuada para el cumplimiento de su objeto.
+
+TERCERO.- De conformidad con el artículo transitorio anterior, el Consejo Estatal de Seguridad Pública, por conducto de la Secretaría de Gobierno, deberá transferir oportunamente a la Secretaría de Protección y Seguridad Ciudadana del Poder Ejecutivo Estatal todos los recursos humanos, materiales, presupuestales y financieros que estén destinados al Órgano denominado “Centro de Control, Comando, Comunicaciones y Cómputo”.
+
+CUARTO.- El Ejecutivo Estatal deberá realizar las modificaciones legales y reglamentarias correspondientes, en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente decreto.
+
+QUINTO.- El Consejo Estatal de Seguridad Pública deberá integrar el Consejo Consultivo de Participación Ciudadana en un plazo no mayor a sesenta días naturales a partir de la publicación del presente decreto.
+
+SEXTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
