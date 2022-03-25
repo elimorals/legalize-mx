@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2021-09-10"
+last_updated: "2022-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE MARZO DE 2022.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -123,9 +123,13 @@ Los diputados electos que no hubieren asistido a la junta, rendirán protesta co
 
 Los cargos de los miembros de las comisiones legislativas, se incluirán en la propuesta de integración que formule la Junta de Coordinación Política, y serán un presidente, un secretario, un prosecretario y seis miembros.
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
 
-Para su integración se considerará a los diputados de los diferentes grupos parlamentarios.
+Para su integración se considerará a los diputados de los diferentes grupos parlamentarios, respetando la integración plural y proporcional de cada uno.
+
+> <small>(ADICIONADO, G.G. 25 DE MARZO DE 2022)</small>
+
+En la designación de las presidencias del total de comisiones se procurará observar el principio de paridad, de manera que preferentemente la titularidad del cincuenta por ciento del total de presidencias pueda ser para cada género.
 
 > <small>(ADICIONADO, G.G. 22 DE OCTUBRE DE 2010)</small>
 
@@ -799,9 +803,11 @@ Salvo que se trate de falta absoluta o licencia definitiva, el diputado a sustit
 
 Los comités atenderán una materia específica y podrán ser permanentes o transitorios.
 
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
+
 ###### Artículo 27.
 
-Los cargos dentro de los comités, su organización y funcionamiento, se regularán conforme a lo que les sea aplicable de la normatividad establecida para las comisiones de dictamen.
+Los cargos dentro de los comités, su organización y funcionamiento, se regularán conforme a lo que les sea aplicable de la normatividad establecida para las comisiones de dictamen, procurando la designación paritaria en el total de presidencias de los (sic) éstos.
 
 ### CAPITULO IV. DE LAS FRACCIONES LEGISLATIVAS
 
@@ -2852,3 +2858,23 @@ Se derogan las disposiciones de igual o menor rango que se opongan al presente r
 ###### ARTÍCULO CUARTO.
 
 Los órganos de dirección del Instituto de Estudios Legislativos, continuarán funcionando con las denominaciones correspondientes, en todo lo que no contravengan a este reglamento.
+
+G.G. 25 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 43.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 42, 43, 52, 62 FRACCIÓN I, 67 BIS-2 INCISO B), 67 BIS-4, Y EL ÚLTIMO PÁRRAFO DE LOS ARTÍCULOS 69 Y 76 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 13 Y EL ARTICULO 27; Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 13 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO TERCERO.
+
+Para el cumplimiento del presente Decreto, la Directiva de la Legislatura o de la Diputación Permanente que se encuentre en funciones, permanecerá para el periodo que fue electa, pero la integración posterior, se hará con base en lo señalado en los artículos 42 y 52 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de México, en los términos previstos en la presente reforma.
+
+###### ARTÍCULO CUARTO.
+
+Con base en sus atribuciones, la Junta de Coordinación Política hará los ajustes y propuestas para la integración de comisiones legislativas y comités que garantice el cumplimiento del presente decreto.
