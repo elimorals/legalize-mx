@@ -4,7 +4,7 @@ identifier: "LGCFD"
 country: "mx"
 rank: "ley_general"
 publication_date: "2013-06-07"
-last_updated: "2021-05-20"
+last_updated: "2022-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94515&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCFD"
 
 LEY GENERAL DE CULTURA FÍSICA Y DEPORTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MARZO DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de junio de 2013.
 
@@ -964,7 +964,13 @@ Las Asociaciones y Sociedades Deportivas deberán observar los lineamientos que 
 
 La presente Ley reconoce a las Federaciones Deportivas Mexicanas el carácter de Asociaciones Deportivas Nacionales, por lo que todo lo previsto en esta Ley para las Asociaciones Deportivas, les será aplicable.
 
-Las Asociaciones Deportivas Nacionales regularán su estructura interna y funcionamiento, de conformidad con sus Estatutos Sociales, la presente Ley y su Reglamento, observando en todo momento los principios de democracia, representatividad, equidad, legalidad, transparencia y rendición de cuentas.
+> <small>(REFORMADO, D.O.F. 25 DE MARZO DE 2022)</small>
+
+Las Asociaciones Deportivas Nacionales regularán su estructura interna y funcionamiento, de conformidad con sus Estatutos Sociales, la presente Ley y su Reglamento, observando en todo momento los principios de democracia, representatividad, equidad, igualdad sustantiva, legalidad, transparencia y rendición de cuentas.
+
+> <small>(ADICIONADO, D.O.F. 25 DE MARZO DE 2022)</small>
+
+Es obligación para las Asociaciones Deportivas Nacionales, la igualdad de trato y oportunidades y, la paridad entre hombres y mujeres en el acceso a sus órganos de gobierno y representación.
 
 ###### Artículo 51.
 
@@ -1052,7 +1058,9 @@ Con el fin de garantizar el cumplimiento efectivo de las funciones que como cola
 
 Los procesos electorales de los órganos de gobierno y representación de las Asociaciones Deportivas Nacionales serán vigilados por la CONADE a través del COVED.
 
-El COVED estará adscrito orgánicamente a la CONADE y velará de forma inmediata por el ajuste a Derecho de los procesos electorales en los órganos de gobierno y representación de las Asociaciones Deportivas Nacionales, vigilando que se cumplan con los principios de legalidad, transparencia, equidad e igualdad de oportunidades dentro del marco de los principios democráticos y representativos y con estricto apego de las disposiciones estatutarias y legales aplicables.
+> <small>(REFORMADO, D.O.F. 25 DE MARZO DE 2022)</small>
+
+El COVED estará adscrito orgánicamente a la CONADE y velará de forma inmediata por el ajuste a Derecho de los procesos electorales en los órganos de gobierno y representación de las Asociaciones Deportivas Nacionales, vigilando que se cumplan con los principios de legalidad, transparencia, equidad e igualdad de oportunidades y de trato, y la paridad entre hombres y mujeres para tener acceso a los órganos de gobierno y representación, dentro del marco de los principios democráticos y representativos y con estricto apego de las disposiciones estatutarias y legales aplicables.
 
 En caso de que exista alguna controversia en cualquiera de las fases de los procesos de elección de los órganos de gobierno y representación de las Asociaciones Deportivas Nacionales, el COVED deberá resolver sobre el particular, de acuerdo con el procedimiento establecido en el Reglamento de esta Ley y los demás ordenamientos aplicables, garantizando el derecho de audiencia de los interesados.
 
@@ -2141,3 +2149,9 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 25 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 50 Y 59 DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
