@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-cultura-fisica-y-deporte-del-estado-de-mexico-103815"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-28"
-last_updated: "2020-07-23"
+last_updated: "2022-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE MARZO DE 2022.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el viernes 28 de noviembre de 2014.
 
@@ -47,13 +47,17 @@ LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MÉXICO
 
 ### CAPÍTULO ÚNICO. DEL OBJETO Y DE LA CULTURA FÍSICA Y DEPORTE
 
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y de observancia general en el Estado de México y tiene por objeto regular la planeación, organización, coordinación, promoción, fomento y desarrollo de la cultura física y deporte en el Estado de México.
+La presente Ley es de orden público e interés social y de observancia general en el Estado de México y tiene por objeto regular la planeación, organización, coordinación, promoción, fomento y desarrollo de la activación física, la cultura física y el deporte en el Estado de México.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE MARZO DE 2022)</small>
 
 ###### Artículo 2.
 
-Esta Ley tiene por objeto establecer las bases generales para la distribución de competencias, la coordinación y colaboración entre el gobierno del Estado de México y sus municipios así como con la participación de los sectores social y privado en materia de cultura física y deporte que tiene como fines:
+Esta Ley tiene por objeto establecer las bases generales para la distribución de competencias, la coordinación y colaboración entre el gobierno del Estado de México y sus municipios, así como con la participación de los sectores social y privado en materia de cultura física y deporte que tiene como fines:
 
 I. Fomentar el desarrollo de la cultura física y deporte en todas sus manifestaciones y expresiones de manera óptima, equitativa y ordenada.
 
@@ -65,19 +69,23 @@ IV. Fomentar el desarrollo de la activación física, la cultura física y depor
 
 V. Fomentar el desarrollo de la activación física, la cultura física y deporte para la prevención del delito.
 
-VI. Promover las medidas necesarias para erradicar la violencia y reducir los riesgos de afectación en la práctica de actividades físicas, recreativas o deportivas así como prevenir y erradicar el uso de sustancias y métodos no reglamentarios.
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2022)</small>
 
-VII. Fomentar, ordenar y regular a las Asociaciones y Sociedades Deportivas, Recreativo-Deportivas en la rehabilitación y de Cultura Física-Deportiva del Estado de México.
+VI. Incentivar y fomentar la inversión social y privada para el desarrollo de la activación física, la educación física, las ciencias aplicadas al deporte, infraestructura deportiva y para el ejercicio de todos los conceptos que integran la cultura física y el deporte, como complemento de la actuación pública;
 
-VIII. Incentivar la actividad deportiva que se desarrolla en forma organizada y programática a través de las Asociaciones Deportivas del Estado de México.
+VII. Promover las medidas necesarias para erradicar la violencia y reducir los riesgos de afectación en la práctica de actividades físicas, recreativas o deportivas así como prevenir y erradicar el uso de sustancias y métodos no reglamentarios.
 
-IX. Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación del medio ambiente.
+VIII. Fomentar, ordenar y regular a las Asociaciones y Sociedades Deportivas, Recreativo-Deportivas en la rehabilitación y de Cultura Física-Deportiva del Estado de México.
 
-X. Garantizar a las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen.
+IX. Incentivar la actividad deportiva que se desarrolla en forma organizada y programática a través de las Asociaciones Deportivas del Estado de México.
+
+X. Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación del medio ambiente.
+
+XI. Garantizar a las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen.
 
 > <small>(ADICIONADA, G.G. 23 DE JULIO DE 2020)</small>
 
-XI. Promover y fomentar la práctica de actividades físicas, recreativas y deportivas para las niñas, niños y adolescentes con discapacidades.
+XII. Promover y fomentar la práctica de actividades físicas, recreativas y deportivas para las niñas, niños y adolescentes con discapacidades.
 
 ###### Artículo 3.
 
@@ -157,9 +165,11 @@ El ejercicio y desarrollo del derecho a la cultura física y deporte son fundame
 
 ### CAPÍTULO PRIMERO. DEL SISTEMA ESTATAL DE CULTURA FÍSICA Y DEPORTE
 
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
+
 ###### Artículo 6.
 
-El SIDEM es el conjunto de órganos, instrumentos, métodos, acciones, recursos y procedimientos establecidos por las dependencias y organismos auxiliares de la Administración Pública del Estado de México en materia deportiva, con la participación de los municipios así como de los sectores social y privado, que tiene como objeto apoyar, impulsar, fomentar y promover la cultura física y deporte, con el óptimo aprovechamiento de los recursos humanos, financieros y materiales disponibles.
+El SIDEM es el conjunto de órganos, instrumentos, métodos, acciones, recursos y procedimientos establecidos por las dependencias y organismos auxiliares de la Administración Pública del Estado de México en materia deportiva, con la participación de los municipios así como de los sectores social y privado, que tiene como objeto apoyar, impulsar, fomentar y promover la activación física, la cultura física y el deporte, con el óptimo aprovechamiento de los recursos humanos, financieros y materiales disponibles.
 
 ###### Artículo 7.
 
@@ -227,9 +237,11 @@ XVIII. Las demás que sean necesarias para el cumplimiento del objeto del Sistem
 
 #### SECCIÓN PRIMERA. DEL CONSEJO ESTATAL DE CULTURA FÍSICA Y DEPORTE
 
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
+
 ###### Artículo 11.
 
-El Consejo Estatal, es un órgano de consulta y de coordinación del Titular del Ejecutivo Estatal, para convocar, concertar, inducir e integrar las acciones de los participantes e interesados en la cultura física y deporte, a fin de garantizar el cumplimiento del objeto del Sistema Estatal.
+El Consejo Estatal, es un órgano de consulta y de coordinación del Titular del Ejecutivo Estatal, para convocar, concertar, inducir e integrar las acciones de los participantes e interesados en la cultura física, la activación física y el deporte, a fin de garantizar el cumplimiento del objeto del Sistema Estatal.
 
 ###### Artículo 12.
 
@@ -269,11 +281,13 @@ El Consejo Estatal contará con los comités, comisiones y grupos de trabajo nec
 
 #### SECCIÓN SEGUNDA. DE LOS SISTEMAS Y CONSEJOS MUNICIPALES
 
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
+
 ###### Artículo 14.
 
-Con el fin de impulsar, fomentar y desarrollar la cultura física y deporte, los municipios deberán contar de conformidad con sus ordenamientos, con un instituto que coadyuve y colabore con el IMCUFIDE, estableciendo para esto, Sistemas Municipales en sus respectivos ámbitos de competencia.
+Con el fin de impulsar, fomentar y desarrollar la activación física, la cultura física y el deporte, los municipios deberán contar de conformidad con sus ordenamientos, con un instituto que coadyuve y colabore con el IMCUFIDE, estableciendo para esto, Sistemas Municipales en sus respectivos ámbitos de competencia.
 
-Los Sistemas Municipales, se integrarán por las autoridades municipales, organismos e instituciones públicas y privadas, sociedades y asociaciones que en el ámbito de su competencia tengan como objeto, generar las acciones, financiamiento y programas necesarios para la coordinación, fomento, apoyo, promoción, difusión y desarrollo de la cultura física y deporte así como el aprovechamiento de los recursos humanos, financieros y materiales.
+Los Sistemas Municipales, se integrarán por las autoridades municipales, organismos e instituciones públicas y privadas, sociedades y asociaciones que en el ámbito de su competencia tengan como objeto, generar las acciones, financiamiento y programas necesarios para la coordinación, fomento, apoyo, promoción, difusión y desarrollo de la activación física, la cultura física y el deporte, así como el aprovechamiento de los recursos humanos, financieros y materiales.
 
 ###### Artículo 15.
 
@@ -515,19 +529,21 @@ En el Estado de México, los deportistas serán clasificados en función de su s
 
 Los municipios fomentarán la activación, la cultura física y deporte en el ámbito de su competencia de conformidad con las bases de coordinación previstas en esta Ley y demás ordenamientos aplicables.
 
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
+
 ###### Artículo 42.
 
-Los municipios en el ámbito de sus respectivas competencias, promoverán el ejercicio del derecho de los mexiquenses a la cultura física y a la práctica del deporte sin discriminación alguna.
+Los municipios en el ámbito de sus respectivas competencias, promoverán el ejercicio del derecho de los mexiquenses a la activación física, la cultura física y a la práctica del deporte sin discriminación alguna.
 
 ###### Artículo 43.
 
 Las dependencias y entidades de la Administración Pública Estatal, en el ámbito de sus respectivas competencias coadyuvarán con el IMCUFIDE en el ejercicio de sus atribuciones.
 
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
+
 ###### Artículo 44.
 
-En los planes estatal y municipales de desarrollo, se deberá incorporar la promoción de la cultura física y deporte.
-
-El gobierno del Estado de México establecerá los objetivos, alcances y límites del desarrollo del sector.
+En los planes estatal y municipales de desarrollo, se deberá incorporar la promoción de la activación física, la cultura física y el deporte. El Gobierno del Estado de México establecerá los objetivos, alcances y límites del desarrollo del sector.
 
 ###### Artículo 45.
 
@@ -1254,3 +1270,11 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 25 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 38.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, 6, 11, 14, 42 Y 44; Y SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 2 RECORRIÉNDOSE LAS SUBSECUENTES, DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
