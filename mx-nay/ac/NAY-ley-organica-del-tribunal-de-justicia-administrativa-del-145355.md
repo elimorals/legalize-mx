@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-tribunal-de-justicia-administrativa-del-145355
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-11-26"
-last_updated: "2021-07-26"
+last_updated: "2022-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2022.
 
 Ley publicada en la Sección Décima Séptima al Número 100 del Periódico Oficial del Estado de Nayarit, el jueves 26 de noviembre de 2020.
 
@@ -273,6 +273,10 @@ XXII. Supervisar el ejercicio del presupuesto de egresos del Tribunal, sin perju
 
 XXIII. Llamar a los Magistrados supernumerarios que deban suplir las ausencias de los Magistrados numerarios. Para tal efecto, de manera previa se deberá verificar que no se actualice alguna de las causales establecidas en el último párrafo del artículo 104 de la Constitución del Estado;
 
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2022)</small>
+
+Cuando por imposibilidad jurídica o material no sea posible llamar a la o al Magistrado Supernumerario, el Pleno podrá habilitar a la o al Secretario de Acuerdos de la Sala respectiva para que ejerza las funciones de Magistrada o Magistrado hasta en tanto la o el titular del Poder Ejecutivo y el Congreso resuelvan lo conducente.
+
 XXIV. Aprobar y expedir el calendario laboral del Tribunal para el año siguiente, el cual incluirá dos periodos vacacionales de diez días hábiles cada uno, y el señalamiento de los días inhábiles, debiendo ser publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en el mes de diciembre;
 
 XXV. Aprobar la implementación de controles, bases de datos, sistemas informáticos o cualquier tecnología de la información necesarias para el funcionamiento del Tribunal;
@@ -391,9 +395,17 @@ XXX. Proponer al Pleno para su aprobación, acorde con los principios de eficien
 
 XXXI. Proponer los programas permanentes de capacitación, especialización y actualización en las materias competencia del Tribunal para sus servidores públicos, considerando, en materia de responsabilidades administrativas, los criterios que en su caso emita el Comité del Sistema Local Anticorrupción;
 
-XXXII. Expedir los nombramientos del personal en general, así como de los nombramientos aprobados por el Pleno, y
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2022)</small>
 
-XXXIII. Las demás que le confieran esta y otras disposiciones legales y reglamentarias.
+XXXII. Expedir los nombramientos del personal en general, así como de los nombramientos aprobados por el Pleno;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MARZO DE 2022)</small>
+
+XXXIII. Cuando las necesidades del servicio lo requieran, podrá designar o readscribir provisionalmente servidoras o servidores públicos, sometiendo con posterioridad dicha decisión a la ratificación del Pleno, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2022)</small>
+
+XXXIV. Las demás que le confieran esta y otras disposiciones legales y reglamentarias.
 
 ###### Artículo 21.
 
@@ -417,9 +429,13 @@ Ausencias definitivas y suplencias. Las ausencias definitivas de los Magistrados
 
 El quorum para que el Pleno o alguna de las Salas Administrativas pueda sesionar válidamente, tratándose de ausencias temporales de los Magistrados numerarios que no excedan de tres meses, se formará con la presencia del Secretario del Pleno o por el Secretario de Sala que corresponda, respectivamente.
 
-Si exceden de este término se llamará al Magistrado supernumerario que corresponda.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2022)</small>
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 26 DE JULIO DE 2021)</small>
+De igual forma, en el caso de ausencias y licencias, hasta en tanto entra en funciones la o el Magistrado supernumerario, o bien, exista imposibilidad para que entre en funciones, el Pleno podrá habilitar al o la Secretaría de Sala que corresponda, para tramitar, sustanciar y resolver los asuntos turnados a la ponencia de la o el Magistrado numerario para garantizar la tramitación pronta y expedita de los mismos.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2022)</small>
+
+Si la ausencia o licencia excede el término previsto en el presente artículo, se llamará a la o al Magistrado Supernumerario; en caso de existir impedimento para que éste entre en funciones, continuará la o el Secretario que se habilitó continuará en funciones hasta en tanto la o el titular del Poder Ejecutivo y el Congreso resuelvan lo conducente.
 
 ###### Artículo 25.
 
@@ -1302,3 +1318,9 @@ Emitido el acuerdo referido, la Sala Unitaria Especializada que se determine deb
 QUINTO. Todos los nombramientos del personal jurisdiccional que deriven de la entrada en vigor del presente decreto, serán considerados de libre designación; no obstante, al momento de su designación se deberá garantizar que cuente con la capacidad, profesionalización y eficiencia requerida para el debido cumplimiento de sus funciones.
 
 SEXTO. Dentro de los 90 días naturales posteriores a la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones reglamentarias pertinentes para proveer su eficaz cumplimiento.
+
+P.O. 25 DE MARZO DE 2022.
+
+[ N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL NAYARIT".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
