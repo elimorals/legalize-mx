@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-84025"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-25"
-last_updated: "2021-12-22"
+last_updated: "2022-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ NOTA: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRE
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -607,9 +607,13 @@ OBJETO
 
 Es objeto de este impuesto la extracción, explotación o aprovechamiento de materiales pétreos, así como los productos derivados que se precisan en este capítulo, que no sean concesibles por la Federación y que constituyan depósitos de igual naturaleza a los componentes de los terrenos. Para efectos de este artículo la extracción, explotación o aprovechamiento deberá realizarse por medio de trabajos a cielo abierto en el territorio del Estado de Coahuila de Zaragoza
 
-Se consideran materiales pétreos las piedras de construcción y de adorno, mármol, canteras, arenas, granito, gravas, pizarras, arcillas que no requieran trabajos subterráneos, calizas, puzolanas, turbas, arenas silíceas, ónix, travertinos, tezontle, tepetate, piedras dimensionadas o de cualquier otra especie que no sean preciosas, mezclas de minerales no metálicos y las sustancias terrosas, y demás minerales no metálicos.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2022)</small>
 
-Para efectos de este artículo se consideran piedras preciosas, los señalados (sic) en el artículo 4 de la Ley Minera.
+Se consideran materiales pétreos las piedras de construcción y de adorno, mármol, canteras, arenas, granito, gravas, pizarras, arcillas que no requieran trabajos subterráneos, calizas, puzolanas, turbas, arenas silíceas, ónix, travertinos, tezontle, tepetate, piedras dimensionadas o de cualquier otra especi1e que no sean preciosas conforme a lo señalado en el artículo 4 de la Ley Minera, mezclas de minerales no metálicos y las sustancias terrosas, y demás minerales o metálicos, así como los agregados pétreos, las piedras, las piedras y sustrato o capa fértil, el caolín, las rocas y el material en greña.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2022)</small>
+
+Para efectos de este artículo se consideran agregados pétreos, el material proveniente de la roca y se utiliza sin apenas sufrir transformaciones, regularmente se encuentran en forma de macizos rocosos o en depósitos no consolidados conteniendo fragmentos de distintos tamaños. Además, se consideran piedras preciosas, los señalados en el artículo 4 de la Ley Minera.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 67], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -627,19 +631,55 @@ BASE
 
 Es base de este impuesto el volumen de materiales pétreos o de los derivados a que se refiere este capítulo, que se extraigan, exploten o aprovechen en territorio del Estado, y que se determinará conforme al volumen extraído.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 69], P.O. 31 DE DICIEMBRE DE 2019)
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2022)</small>
 
-TASA
-
-###### ARTICULO 44.
+###### ARTÍCULO 44.
 
 El impuesto a que se refiere este capítulo se causará por cada metro cúbico que se extraiga de los materiales objeto de este impuesto, conforme a lo siguiente:
 
-I. Una tasa de 0.20 veces el salario mínimo general vigente en el Estado por las calizas, arenas, gravas, puzolanas, tezontle, tepetate, arcillas que no requieran trabajos subterráneos, pizarra, turbas, arenas silíceas, mezclas de minerales no metálicos y otras sustancias terrosas.
+MATERIAL Cuota
 
-II. Una tasa de 2.5 veces el salario mínimo general vigente en el Estado por las piedras de construcción y adorno de mármol, travertinos y canteras.
+Piedras de construcción y de adorno de mármol, de granito y ónix. 4.45 UMA
 
-III. Una tasa de 5.0 veces el salario mínimo general vigente en el Estado por las piedras de construcción y adorno de granito y ónix.
+Cantera 0.20 UMA
+
+Arenas 0.20 UMA
+
+Gravas 0.20 UMA
+
+Pizarras 4.45 UMA
+
+Arcillas 0.03 UMA
+
+Arenas silíceas 0.20 UMA
+
+Travertinos 4.45 UMA
+
+Mezclas de minerales no metálicos 0.20 UMA
+
+Puzolanas 0.20 UMA
+
+Turbas 0.20 UMA
+
+Tezontle 0.20 UMA
+
+Tepetate 0.20 UMA
+
+Piedras dimensionadas no preciosas 0.20 UMA
+
+Caolín 5.00 UMA
+
+Rocas 4.45 UMA
+
+Piedras y sustrato o capa fértil 0.12 UMA
+
+Agregados pétreos 0.20 UMA
+
+Piedra 0.17 UMA
+
+Caliza 0.11 UMA
+
+Material en greña 0.03 UMA
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 70], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -5012,3 +5052,19 @@ La vigencia de las placas metálicas con número identificatorio para vehículos
 ###### ARTÍCULO CUARTO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 211.- SE REFORMAN EL SEGUNDO Y TERCER PÁRRAFO DEL ARTÍCULO 41, ASÍ COMO EL ARTÍCULO 44, DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
