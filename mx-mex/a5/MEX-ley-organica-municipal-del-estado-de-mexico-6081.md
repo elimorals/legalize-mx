@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2022-03-10"
+last_updated: "2022-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE MARZO DE 2022.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -911,33 +911,27 @@ XLV. Colaborar con las autoridades estatales y federales en el ámbito de su com
 
 XLVI. Las demás que señalen las leyes y otras disposiciones legales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
 
 ###### Artículo 32.
 
-Para ocupar los cargos de Secretario; Tesorero; Director de Obras Públicas, de Desarrollo Económico, Director de Turismo, Coordinador General Municipal de Mejora Regulatoria, Ecología, Desarrollo Urbano, de Desarrollo Social, o equivalentes, titulares de las unidades administrativas, de Protección Civil y de los organismos auxiliares se deberán satisfacer los siguientes requisitos:
+Para ocupar las titularidades de la Secretaría, la Tesorería, la Dirección de Obras Públicas, de Desarrollo Económico, de Turismo, de Ecología, de Desarrollo Urbano, de Desarrollo Social, de las Mujeres, de la Coordinación General Municipal de Mejora Regulatoria, de la Coordinación Municipal de Protección Civil, de las unidades administrativas y de los organismos auxiliares, se deberán satisfacer los siguientes requisitos:
 
-I. Ser ciudadano del Estado en pleno uso de sus derechos;
+I. Ser persona ciudadana del Estado, en pleno uso de sus derechos;
 
-> <small>(REFORMADA, G.G. 4 DE OCTUBRE DE 2010)</small>
+II. No estar inhabilitada o inhabilitado para desempeñar cargo, empleo, o comisión pública;
 
-II. No estar inhabilitado para desempeñar cargo, empleo, o comisión pública;
+III. Contar con título profesional o acreditar experiencia mínima de un año en la materia, ante la o el Presidente o el Ayuntamiento, cuando sea el caso, para el desempeño de los cargos que así lo requieran;
 
-(REFORMADA, G.G. 24 DE NOVIEMBRE DE 2011) (F. DE E., G.G. 13 DE DICIEMBRE DE 2011)
+IV. Contar con certificación de competencia laboral en la materia del cargo que se desempeñará, expedida por institución con reconocimiento de validez oficial. Este requisito deberá acreditarse dentro de los seis meses siguientes a la fecha en que inicien sus funciones;
 
-III. No haber sido condenado en proceso penal, por delito intencional que amerite pena privativa de libertad;
+V. No estar condenada o condenado por sentencia ejecutoriada por el delito de violencia política contra las mujeres en razón de género;
 
-> <small>(REFORMADA, G. G. 12 DE JUNIO DE 2019)</small>
+VI. No estar inscrito en el Registro de Deudores Alimentarios Morosos en el Estado, ni en otra entidad federativa, y
 
-IV. Contar con título profesional o acreditar experiencia mínima de un año en la materia, ante el Presidente o el Ayuntamiento, cuando sea el caso, para el desempeño de los cargos que así lo requieran; y
+VII. No estar condenada o condenado por sentencia ejecutoriada por delitos de violencia familiar, contra la libertad sexual o de violencia de género.
 
-> <small>(REFORMADA, G.G. 21 DE AGOSTO DE 2020)</small>
-
-V. En su caso, contar con certificación de competencia laboral en la materia del cargo que se desempeñará, expedida por institución con reconocimiento de validez oficial. Este requisito podrá acreditarse dentro de los seis meses siguientes a la fecha en que inicien sus funciones.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2020)</small>
-
-Vencido el plazo a que se refiere el párrafo anterior, el Presidente Municipal informará al Cabildo sobre el cumplimiento de dicha certificación laboral para que, en su caso, el Ayuntamiento tome las medidas correspondientes respecto de aquellos servidores públicos que no hubiesen cumplido.
+Vencido el plazo a que se refiere la fracción IV, la o el Presidente Municipal informará al Cabildo sobre el cumplimiento de dicha certificación laboral para que, en su caso, el Ayuntamiento tome las medidas correspondientes respecto de aquellos servidores públicos que no hubiesen cumplido.
 
 ### CAPITULO CUARTO. Actos administrativos que Requieren
 
@@ -1895,17 +1889,21 @@ IV. La Dirección de Desarrollo Económico o equivalente.
 
 V. La Dirección de Desarrollo Urbano o equivalente;
 
-> <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2022)</small>
 
-VI. La Dirección de Ecología o equivalente; y
+VI. La Dirección de Ecología o equivalente.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 14 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2022)</small>
 
-VII. La Dirección de Desarrollo Social o equivalente, y
+VII. La Dirección de Desarrollo Social o equivalente.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 14 DE ABRIL DE 2020)</small>
 
 VIII. La Coordinación Municipal de Protección Civil o equivalente.
+
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2022)</small>
+
+IX. La Dirección de las Mujeres o equivalente.
 
 > <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2020)</small>
 
@@ -2401,6 +2399,50 @@ XIII. Las demás que señale la Ley de Desarrollo Social del Estado de México, 
 
 Artículo 96 Terdecies.- El Director de Desarrollo Social o el Titular de la Unidad Administrativa equivalente, además de los requisitos establecidos en el artículo 32 de esta Ley, requiere contar con título profesional en el área de Ciencias Sociales o a fin, o contar con una experiencia mínima de un año en la materia, con anterioridad a la fecha de su designación.
 
+> <small>(ADICIONADO, G.G. 25 DE MARZO DE 2022)</small>
+
+Artículo 96 Quaterdecies.- La Dirección de las Mujeres, tiene las siguientes atribuciones:
+
+I. Proponer, coordinar y ejecutar las políticas públicas, programas y acciones que aseguren la igualdad y la no discriminación hacia las mujeres en sus distintas etapas de la vida, desde una perspectiva transversal e interseccional y con enfoque de derechos humanos;
+
+II. Promover la cultura de la atención, prevención, sanción y erradicación de los tipos y modalidades de la violencia, la igualdad, así como la no discriminación contra las mujeres, en sus distintas etapas de la vida;
+
+III. Promover la participación de las mujeres en la toma de decisiones respecto del diseño de los planes y los programas de gobierno municipal;
+
+IV. Promover y proponer acuerdos para la colaboración, la coordinación o la vinculación con autoridades de los tres niveles de gobierno, instancias u organismos públicos, sociales o privados, de carácter internacional, nacional, o estatal, para el cumplimiento de sus atribuciones, objetivos o que impulsen el desarrollo de las mujeres;
+
+V. Alentar la participación entre los sectores público y privado, a fin de trabajar por el empoderamiento de las mujeres;
+
+VI. Brindar capacitación y asesoría, en materia de derechos humanos de las mujeres, igualdad, no discriminación, así como los tipos y las modalidades de la violencia contra las mujeres, en sus distintas etapas de la vida;
+
+VII. Procurar, impulsar y apoyar el fortalecimiento de planes, programas y acciones administrativas que permitan el ejercicio pleno de los derechos de las mujeres;
+
+VIII. Brindar orientación, atención de primer nivel, asesoramiento y acompañamiento multidisciplinarios y, en su caso, la canalización correspondiente de las niñas, adolescentes y mujeres, víctimas de violencia, que tengan acercamiento a la Dirección;
+
+IX. Establecer programas de sensibilización, reeducación, de construcción y capacitación dirigidos a la población en general con el fin de eliminar los roles y estereotipos que reproduzcan los tipos y modalidades de la violencia contra las mujeres, en todas las etapas de su vida;
+
+X. Vigilar, orientar, promover y proponer que la planeación presupuestal de la administración pública municipal y la Dirección incorpore la perspectiva de género;
+
+XI. Gestionar ante las autoridades competentes, de los distintos órdenes de gobierno, la prevención y atención de la salud integral para las mujeres en todas las etapas de su vida;
+
+XII. Fomentar y apoyar la creación de albergues, casas de pernocta, refugios o similares para las mujeres y sus hijas e hijos en situación de violencia;
+
+XIII. Fungir, a través de su titular, como coordinadora para el seguimiento, cumplimiento y evaluación de las acciones para mitigar las Declaratorias de Alerta de Violencia de Género contra las Mujeres;
+
+XIV. Promover y coordinar la profesionalización permanente del personal de la administración municipal en los temas de prevención, atención integral y erradicación de la violencia contra las niñas, adolescentes y mujeres, igualdad sustantiva o materias afines;
+
+XV. Garantizar que el personal adscrito a la misma, cuente con aptitudes de sensibilidad y profesionalización para la atención integral de las usuarias, y preferentemente, con la certificación de competencia laboral correspondiente;
+
+XVI. Coordinar la transversalización de la perspectiva de género en la administración pública municipal, y
+
+XVII. Las demás que le sean conferidas por la o el Presidente Municipal o por el Ayuntamiento y las establecidas en las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 25 DE MARZO DE 2022)</small>
+
+Artículo 96 Quindecies.- La persona titular de la Dirección de las Mujeres, además de los requisitos establecidos en el artículo 32 de esta Ley, deberá contar con título profesional en el área de las ciencias sociales o afines y conocimiento amplio del contexto en el municipio correspondiente.
+
+Además deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie funciones, la certificación de competencia laboral en temas de prevención, atención integral y erradicación de la violencia contra las niñas, adolescentes y mujeres, en igualdad sustantiva o materias afines, expedida por el Instituto de Administración Pública del Estado de México, el Instituto Hacendario del Estado de México o alguna institución con reconocimiento de validez oficial, que asegure los conocimientos y habilidades para desempeñar el cargo.
+
 ### CAPITULO TERCERO. De la Hacienda Pública Municipal
 
 ###### Artículo 97.
@@ -2693,9 +2735,9 @@ Los ayuntamientos están facultados para constituir con cargo a la hacienda púb
 
 Los ayuntamientos podrán crear organismos públicos descentralizados para:
 
-> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
 
-a) La atención del desarrollo de la mujer; mediante la creación de albergues para tal objeto;
+a) La atención integral de la mujer con perspectiva de género y enfoque de derechos humanos; mediante la creación del Instituto Municipal de las Mujeres y, en su caso, albergues para tal objeto.
 
 b) De la cultura física y deporte;
 
@@ -2712,6 +2754,10 @@ d) Otros que consideren convenientes.
 ###### Artículo 123 Bis.
 
 La persona titular de los organismos públicos descentralizados en materia de cultura física y deporte, a que se refiere el artículo anterior, además de los requisitos establecidos en el artículo 32 de esta Ley, preferentemente deberá contar con título profesional en el área de educación física o disciplina afín.
+
+> <small>(ADICIONADO, G.G. 25 DE MARZO DE 2022)</small>
+
+Para acceder al cargo, la titular del Instituto Municipal de la Mujer, deberá cumplir con los requisitos previstos en el artículo 96 Quindecies.
 
 ###### Artículo 124.
 
@@ -5536,3 +5582,21 @@ TERCERO. El Ejecutivo Estatal a través de la Secretaría de Justicia y Derechos
 Asimismo, deberá generar un plan estratégico de capacitación y orientación en mecanismos de autorregulación con las agrupaciones, asociaciones u organizaciones de colonos.
 
 CUARTO. El presente Decreto, no genera gasto adicional al Presupuesto autorizado, por lo cual las instancias encargadas de la implementación del Decreto realizarán las adecuaciones presupuestales correspondientes.
+
+G.G. 25 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 42.- POR EL QUE SE REFORMA EL ARTÍCULO 32; LAS FRACCIONES VI Y VII DEL ARTÍCULO 87 Y EL INCISO A) DEL ARTÍCULO 123; Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 87, LOS ARTÍCULOS 96 QUATERDECIES Y 96 QUINDECIES Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 123 BIS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO Y SE ADICIONA LA FRACCIÓN X TER. DEL ARTÍCULO 54 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan todas las disposiciones de menor o igual jerarquía que contravengan a lo dispuesto por el presente Decreto.
+
+CUARTO. Los Ayuntamientos dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, deberán llevar a cabo los ajustes normativos y expedirán la reglamentación correspondiente para su cumplimiento.
+
+QUINTO. Los Ayuntamientos deberán rendir un informe a la Legislatura, por conducto de las Comisiones Unidas de Legislación y Administración Municipal, Para la Igualdad de Género y Para las Declaratorias de Alerta de Violencia de Género contra las Mujeres Por Feminicidio y Desaparición, sobre el cumplimiento del presente Decreto, en un período no mayor a noventa días hábiles a partir de su entrada en vigor. Asimismo, se les exhorta para que remitan su Programa Municipal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, el cual deberá contener un diagnóstico, prospectiva, objetivos, metas, estrategias, prioridades y líneas de acción; la asignación de recursos, de responsabilidades, de tiempos de ejecución, de control, seguimiento de acciones y evaluación de resultados, así como la determinación, seguimiento y evaluación de indicadores, de conformidad con las leyes respectivas.
+
+SEXTO. Los Ayuntamientos deberán asignar los recursos presupuestales necesarios para dar cumplimiento a lo dispuesto en el presente Decreto.
+
+SÉPTIMO. La Legislatura deberá prever los recursos presupuestales para dar cumplimiento a lo dispuesto en el presente Decreto.
