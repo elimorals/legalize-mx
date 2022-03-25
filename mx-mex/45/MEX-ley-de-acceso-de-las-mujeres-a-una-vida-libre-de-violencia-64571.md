@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2020-11-03"
+last_updated: "2022-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE MARZO DE 2022.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -1501,6 +1501,10 @@ X. Apoyar la creación de las Unidades de Atención de las víctimas de violenci
 
 X Bis. Crear Unidades de Igualdad de Género y Erradicación de la Violencia, en términos de lo previsto en el Capítulo Noveno Bis de la Ley de Igualdad de Trato y Oportunidades entre Mujeres y Hombres del Estado de México;
 
+> <small>(ADICIONADA, G.G. 25 DE MARZO DE 2022)</small>
+
+X Ter. Crear una Dirección de las Mujeres o, en su caso, un Instituto Municipal de la Mujer, para promover y fomentar las condiciones que faciliten el pleno ejercicio de los derechos humanos, la igualdad, el desarrollo económico, social, político y cultural, la no discriminación y la erradicación de la violencia contra las niñas, las adolescentes y las mujeres, en concordancia con la Constitución Política de los Estados Unidos Mexicanos, las leyes generales y las estatales, las políticas, nacional y estatal, así como los tratados internacionales en la materia;
+
 XI. Apoyar la creación de refugios seguros para las víctimas;
 
 XII. Realizar, de acuerdo con el Sistema Estatal, programas de información a la sociedad sobre los Derechos Humanos de las mujeres y niñas y sobre la prevención atención, sanción y erradicación de la violencia contra las mujeres y las niñas;
@@ -2074,3 +2078,21 @@ G.G. 3 DE NOVIEMBRE DE 2020.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Gobierno"
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta de Gobierno".
+
+G.G. 25 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 42.- POR EL QUE SE REFORMA EL ARTÍCULO 32; LAS FRACCIONES VI Y VII DEL ARTÍCULO 87 Y EL INCISO A) DEL ARTÍCULO 123; Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 87, LOS ARTÍCULOS 96 QUATERDECIES Y 96 QUINDECIES Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 123 BIS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO Y SE ADICIONA LA FRACCIÓN X TER, DEL ARTÍCULO 54 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan todas las disposiciones de menor o igual jerarquía que contravengan a lo dispuesto por el presente Decreto.
+
+CUARTO. Los Ayuntamientos dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, deberán llevar a cabo los ajustes normativos y expedirán la reglamentación correspondiente para su cumplimiento.
+
+QUINTO. Los Ayuntamientos deberán rendir un informe a la Legislatura, por conducto de las Comisiones Unidas de Legislación y Administración Municipal, Para la Igualdad de Género y Para las Declaratorias de Alerta de Violencia de Género contra las Mujeres Por Feminicidio y Desaparición, sobre el cumplimiento del presente Decreto, en un período no mayor a noventa días hábiles a partir de su entrada en vigor. Asimismo, se les exhorta para que remitan su Programa Municipal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, el cual deberá contener un diagnóstico, prospectiva, objetivos, metas, estrategias, prioridades y líneas de acción; la asignación de recursos, de responsabilidades, de tiempos de ejecución, de control, seguimiento de acciones y evaluación de resultados, así como la determinación, seguimiento y evaluación de indicadores, de conformidad con las leyes respectivas.
+
+SEXTO. Los Ayuntamientos deberán asignar los recursos presupuestales necesarios para dar cumplimiento a lo dispuesto en el presente Decreto.
+
+SÉPTIMO. La Legislatura deberá prever los recursos presupuestales para dar cumplimiento a lo dispuesto en el presente Decreto.
