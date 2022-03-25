@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2021-09-10"
+last_updated: "2022-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE MARZO DE 2022.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -123,9 +123,13 @@ Los diputados electos que no hubieren asistido a la junta, rendirán protesta co
 
 Los cargos de los miembros de las comisiones legislativas, se incluirán en la propuesta de integración que formule la Junta de Coordinación Política, y serán un presidente, un secretario, un prosecretario y seis miembros.
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
 
-Para su integración se considerará a los diputados de los diferentes grupos parlamentarios.
+Para su integración se considerará a los diputados de los diferentes grupos parlamentarios, respetando la integración plural y proporcional de cada uno.
+
+> <small>(ADICIONADO, G.G. 25 DE MARZO DE 2022)</small>
+
+En la designación de las presidencias del total de comisiones se procurará observar el principio de paridad, de manera que preferentemente la titularidad del cincuenta por ciento del total de presidencias pueda ser para cada género.
 
 > <small>(ADICIONADO, G.G. 22 DE OCTUBRE DE 2010)</small>
 
@@ -799,9 +803,11 @@ Salvo que se trate de falta absoluta o licencia definitiva, el diputado a sustit
 
 Los comités atenderán una materia específica y podrán ser permanentes o transitorios.
 
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
+
 ###### Artículo 27.
 
-Los cargos dentro de los comités, su organización y funcionamiento, se regularán conforme a lo que les sea aplicable de la normatividad establecida para las comisiones de dictamen.
+Los cargos dentro de los comités, su organización y funcionamiento, se regularán conforme a lo que les sea aplicable de la normatividad establecida para las comisiones de dictamen, procurando la designación paritaria en el total de presidencias de los (sic) éstos.
 
 ### CAPITULO IV. DE LAS FRACCIONES LEGISLATIVAS
 
@@ -2857,15 +2863,25 @@ Se derogan las disposiciones de igual o menor rango que se opongan al presente r
 
 Los órganos de dirección del Instituto de Estudios Legislativos, continuarán funcionando con las denominaciones correspondientes, en todo lo que no contravengan a este reglamento.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 683 POR EL QUE SE REFORMA, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499, DE LA LEY NÚMERO 450 DE VÍCTIMAS DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358, LEY NÚMERO 810 PARA LA PRESTACIÓN DEL SERVICIO DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE GUERRERO, LEY NÚMERO 812 PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO, LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, LEY NÚMERO 214 PARA PREVENIR, COMBATIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE GUERRERO, LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO, NÚMERO 500”.]
+G.G. 25 DE MARZO DE 2022.
 
-PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado. Que será replicado en su página de internet.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 43.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 42, 43, 52, 62 FRACCIÓN I, 67 BIS-2 INCISO B), 67 BIS-4, Y EL ÚLTIMO PÁRRAFO DE LOS ARTÍCULOS 69 Y 76 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 13 Y EL ARTICULO 27; Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 13 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
 
-SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+###### ARTÍCULO PRIMERO.
 
-TERCERO.- Comuníquese al Ejecutivo del Estado para los efectos legales conducentes.
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-P.O. 12 DE MARZO DE 2024.
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO TERCERO.
+
+Para el cumplimiento del presente Decreto, la Directiva de la Legislatura o de la Diputación Permanente que se encuentre en funciones, permanecerá para el periodo que fue electa, pero la integración posterior, se hará con base en lo señalado en los artículos 42 y 52 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de México, en los términos previstos en la presente reforma.
+
+###### ARTÍCULO CUARTO.
+
+Con base en sus atribuciones, la Junta de Coordinación Política hará los ajustes y propuestas para la integración de comisiones legislativas y comités que garantice el cumplimiento del presente decreto.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 686 POR EL QUE SE REFORMAN LOS ARTÍCULOS 182, 183, 185, 187 Y 189; SE ADICIONAN LOS ARTÍCULOS 187 BIS Y 187 TER Y SE DEROGA EL ARTÍCULO 175 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499; SE REFORMAN LOS ARTÍCULOS 8, 10, 12 Y 32 DE LA LEY NÚMERO 278 PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO; SE REFORMAN LOS ARTÍCULOS 4º Y 17 DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL NÚMERO 332; SE REFORMA EL ARTÍCULO 18 DE LA LEY NÚMERO 913 DE LA JUVENTUD GUERRERENSE; Y SE REFORMAN LOS ARTÍCULOS 1 Y 4 DE LA LEY NÚMERO 1256 PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE GUERRERO".]
 
