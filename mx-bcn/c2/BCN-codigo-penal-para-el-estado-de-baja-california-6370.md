@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2022-02-25"
+last_updated: "2022-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2022.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2257,25 +2257,21 @@ Las penas señaladas en los artículos 176, 177 y 178, se incrementarán hasta e
 
 ### CAPITULO IV. HOSTIGAMIENTO SEXUAL
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2022)</small>
 
-Artículo 184 BIS.- Tipo y punibilidad.- Comete el delito de Hostigamiento Sexual, el que con fines lascivos asedie reiteradamente a persona de cualquier sexo, se le impondrá una penalidad de seis meses a un año de prisión y multa de cincuenta a cien días.
+Artículo 184 BIS.- Tipo y punibilidad.- Comete el delito de Acoso Sexual, el que con fines lascivos asedie a persona de cualquier sexo, se le impondrá una penalidad de seis meses a un año de prisión y multa de cincuenta a cien Unidades de Medida y Actualización.
 
-Solamente será punible el hostigamiento sexual, cuando se cause un perjuicio o daño.
+Solamente será punible el Acoso Sexual, cuando se cause un daño o perjuicio.
 
-Solo se procederá contra el hostigador, a petición de la parte ofendida.
+Solo se procederá contra la persona acosadora, a petición de la parte ofendida, salvo que se trate de una persona menor de dieciocho años de edad, o aquella que no tiene la capacidad de comprender el hecho o no tenga la capacidad para resistirlo, en cuyo caso, se perseguirá de oficio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2022)</small>
 
-Artículo 184 TER.- Cuando el hostigamiento sexual se realice valiéndose de su posición jerárquica derivada de relaciones laborales, docentes, domésticas, con motivo del ejercicio de culto religioso o dentro las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otras personas o cualquiera otra que implique subordinación, se le impondrá una pena de uno a tres años de prisión y multa de hasta cien días.
+Artículo 184 TER.- Tipo y punibilidad.- Comete el delito de Hostigamiento Sexual, el que con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de relaciones laborales, docentes, domésticas, con motivo del ejercicio de culto religioso o dentro las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otras personas o cualquiera otra que implique subordinación, se le impondrá una pena de dos a cuatro años de prisión y de cien a ciento cincuenta Unidades de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+Sí la persona que comete el delito descrito en el párrafo anterior fuere servidor público, docente en alguna institución educativa pública o privada de cualquier nivel, o ministro de culto y utilizase los medios o circunstancias que su función le proporciona para ejecutar el hostigamiento, además se le sancionará con la destitución e inhabilitación por un tiempo igual al de la pena corporal impuesta.
 
-Si la persona que comete el delito descrito en el párrafo anterior fuere servidor público, o ministro de culto y utilizase los medios o circunstancias que su función le proporciona para ejecutar el hostigamiento, además se le sancionará con la destitución e inhabilitación por un tiempo igual al de la pena corporal impuesta.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE OCTUBRE DE 2009)</small>
-
-Si la persona ofendida fuere menor de catorce años, la pena será de dos a tres años de prisión y multa de cien días.
+Si la persona ofendida fuere menor (sic) dieciocho años o con alguna discapacidad, la pena de prisión se aumentará hasta en una tercera parte de la prevista y en este caso se perseguirá de oficio.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
 
@@ -6297,11 +6293,11 @@ P.O. 25 DE FEBRERO DE 2022.
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 918 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+P.O. 25 DE MARZO DE 2022.
 
-ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 87 POR EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 184-BIS Y 184-TER DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO EL CAMBIO DE (SIC) DENOMINACIÓN DEL CAPÍTULO IV DEL TÍTULO CUARTO CORRESPONDIENTE AL LIBRO SEGUNDO, DEL MISMO ORDENAMIENTO”.]
 
-P.O. 30 DE MAYO DE 2024.
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 920 POR EL QUE SE ADICIONA EL INCISO S QUINQUIES A LA FRACCIÓN I DEL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
