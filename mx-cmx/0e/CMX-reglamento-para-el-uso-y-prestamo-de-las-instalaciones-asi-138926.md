@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-uso-y-prestamo-de-las-instalaciones-asi-1389
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-10-25"
-last_updated: "2019-10-25"
+last_updated: "2022-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138926&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2019-10-18"
 ---
 # REGLAMENTO PARA EL USO Y PRESTAMO DE LAS INSTALACIONES, ASI COMO DEL DIVERSO MOBILIARIO Y EQUIPO CON QUE CUENTA EL CENTRO DE ESTUDIOS INTERCULTURALES NEZAHUALCOYOTL
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE MARZO DE 2022 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO PARA EL USO Y PRÉSTAMO DE LAS INSTALACIONES, ASÍ COMO DEL DIVERSO MOBILIARIO Y EQUIPO CON QUE CUENTA EL CENTRO DE ESTUDIOS INTERCULTURALES NEZAHUALCÓYOTL
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL GACETA OFICIAL DEL 25 DE MARZO DE 2022.]</small>
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 25 de octubre de 2019.
 
@@ -50,9 +50,11 @@ Las instalaciones del CEIN tienen como fin primordial servir de sede para activi
 
 No obstante lo dispuesto en el artículo anterior, podrá autorizarse el uso de las instalaciones en carácter de préstamo, a dependencias, órganos y entidades que componen la Administración Pública Centralizada y Paraestatal de la Ciudad de México, o de otras entidades federativas, sujetas a autorización previa de esta Secretaría y conforme a las disposiciones del presente reglamento.
 
+> <small>(F. DE E., G.O. 25 DE MARZO DE 2022)</small>
+
 ###### Artículo 3.
 
-Las solicitudes de programación de eventos deberán realizarse invariablemente por oficio, dirigido al L.C. Ramón Avilés Cordero, titular de la Dirección Ejecutiva de Administración y Finanzas en la SEPI, en dicho comunicado se precisará el nombre de la Institución o Dependencia, el área y nombre del servidor público solicitante, espacio requerido, nombre del responsable del evento, nombre del evento, fecha requerida con hora de inicio y terminación, así como su objetivo y temática, dicho oficio deberá enviarse al correo electrónico eventoscein2019@gmail.com, con una anticipación mínima de cinco días hábiles a la realización del evento. No se dará permiso para ningún evento, si no se cuenta con la solicitud de programación que se señala en este artículo.
+Las solicitudes de programación de eventos deberán de realizarse invariablemente por oficio dirigido al titular de la Dirección Ejecutiva de Administración y Finanzas en la SEPI, en dicho comunicado se precisará el nombre de la Institución o Dependencia, el área y nombre del servidor público solicitante, espacio requerido, nombre del responsable del evento, nombre del evento, fecha requerida con hora de inicio y terminación, así como su objetivo y temática, dicho oficio deberá enviarse al correo electrónico deaf.sepi@gmail.com, con una anticipación mínima de cinco días hábiles a la realización del evento. No se dará permiso para ningún evento, si no se cuenta con la solicitud de programación que se señala en este artículo.
 
 ###### Artículo 4.
 
@@ -153,3 +155,13 @@ Ciudad de México a 18 de octubre de 2019.
 MTRA. LARISA ORTIZ QUINTERO.
 
 SECRETARIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 25 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA "NOTA ACLARATORIA AL AVISO POR EL QUE SE DA A CONOCER EL REGLAMENTO PARA EL USO Y PRÉSTAMO DE LAS INSTALACIONES, ASÍ COMO DEL DIVERSO MOBILIARIO Y EQUIPO CON QUE CUENTA EL CENTRO DE ESTUDIOS INTERCULTURALES NEZAHUALCÓYOTL, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL 25 DE OCTUBRE DE 2019".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente instrumento entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
