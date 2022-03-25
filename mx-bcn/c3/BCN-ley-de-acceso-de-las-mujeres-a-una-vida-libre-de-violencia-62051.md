@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2022-02-11"
+last_updated: "2022-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -222,6 +222,18 @@ Violencia Laboral: Se considera violencia laboral la negativa ilegal de contrata
 ###### Artículo 10.
 
 Violencia Docente: Se considera violencia docente a las conductas que dañan la autoestima de las alumnas por motivos de discriminación en razón de su sexo, edad o condición social, académica, limitaciones y/o características físicas, que les causen sus maestros o maestras.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2022)</small>
+
+###### Artículo 10 Bis.
+
+El hostigamiento sexual es el ejercicio del poder, en una relación de subordinación real de la víctima frente al agresor en los ámbitos laboral y/o escolar. Se expresa en conductas verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva.
+
+El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
+
+Las instituciones, organismos y dependencias públicas y privadas deberán contar con protocolos que prevean los mecanismos necesarios para la acreditación, investigación y sanción de estas conductas.
+
+En los casos en que dichas conductas de violencia sean cometidas por servidores públicos pertenecientes a instituciones, organismo (sic) o dependencias estatales o municipales, los Órganos Internos de Control y las Sindicaturas Municipales, en el respectivo ámbito de sus competencias, deberán investigar y sancionar dichas conductas de conformidad a lo que establece la Ley de Responsabilidades Administrativas del Estado de Baja California.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2016)</small>
 
@@ -905,7 +917,7 @@ III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que cons
 
 ### CAPÍTULO XI. DEL REGISTRO PÚBLICO DE AGRESORES SEXUALES
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2022)</small>
 
 ###### Artículo 45.
 
@@ -995,11 +1007,17 @@ Será causa de responsabilidad administrativa el incumplimiento de esta Ley y se
 
 ###### Artículo 49.
 
-El Registro Público de Agresores Sexuales es un mecanismo de información de carácter administrativo el cual tiene por objeto la plena identificación de las personas condenadas con sentencia firme por delitos de violación, abuso sexual, corrupción de menores, estupro, hostigamiento sexual, pederastia, pornografía, turismo sexual, lenocinio y contra la intimidad y la imagen, en cualquiera de sus modalidades, tipos o subtipos, previstos todos en el Código Penal para el Estado de Baja California.
+El Registro Público de Agresores Sexuales es un mecanismo de información de carácter administrativo el cual tiene por objeto la plena identificación de las personas condenadas con sentencia firme por delitos de violación, abuso sexual, corrupción de menores, estupro, acoso sexual, hostigamiento sexual, pederastia, pornografía, turismo sexual, lenocinio y contra la intimidad y la imagen, en cualquiera de sus modalidades, tipos o subtipos, previstos todos en el Código Penal para el Estado de Baja California.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2021)</small>
 
 El Registro Público de Agresores Sexuales, estará a cargo y bajo la operación de la Secretaría General de Gobierno, en colaboración con el Poder Judicial del Estado.
 
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2021)</small>
+
 La información que genere dicho registro se referirá a personas condenadas en el Estado de Baja California y en su caso, en el extranjero o en otras entidades federativas, de conformidad con los convenios que al efecto realice la Secretaría General de Gobierno.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2021)</small>
 
 La inscripción en el Registro Público de Agresores Sexuales será por un periodo igual al que dure su condena, en ningún caso podrá ser superior.
 
@@ -1194,3 +1212,9 @@ P.O. 11 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 75 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA, LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA, LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA, CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA Y LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 87 POR EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 184-BIS Y 184-TER DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO EL CAMBIO DE DENOMINACIÓN DEL CAPÍTULO IV DEL TÍTULO CUARTO CORRESPONDIENTE AL LIBRO SEGUNDO, DEL MISMO ORDENAMIENTO”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
