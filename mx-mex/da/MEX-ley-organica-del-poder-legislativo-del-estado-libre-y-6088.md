@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2022-02-25"
+last_updated: "2022-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE MARZO DE 2022.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -405,7 +405,7 @@ Corresponderá a la Junta de Coordinación Política determinar la realización 
 
 ### CAPITULO II. DE LA DIRECTIVA DE LA LEGISLATURA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
 
 ###### Artículo 41.
 
@@ -431,23 +431,21 @@ Los órganos de la Legislatura serán integrados por diputados de diversos grupo
 
 ###### Artículo 42.
 
-La Directiva de la Legislatura estará integrada por un presidente, dos vicepresidentes y tres secretarios. Los vicepresidentes suplirán en sus faltas alternativamente al presidente y los secretarios a los vicepresidentes.
+La Directiva de la Legislatura se integra por una presidencia, dos vicepresidencias y tres secretarías. Las personas titulares de las vicepresidencias suplirán en sus faltas alternativamente a la titular en la presidencia y las secretarías a quienes ocupen la vicepresidencia. Su integración se realizará procurando el principio de paridad.
 
-> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+La persona titular de la presidencia será electa para todo el período ordinario de sesiones, los demás integrantes de la Directiva serán electos mensualmente. La elección se llevará a cabo mediante votación secreta. La persona titular de la Presidencia fungirá en su encargo por todo el período ordinario de sesiones, las demás personas integrantes fungirán por un mes. Quien ocupe la presidencia no podrá elegirse para ocupar igual cargo durante el período de sesiones siguiente. Las mismas disposiciones regirán en la elección de la directiva de los períodos extraordinarios.
 
-El Presidente será electo para todo el periodo ordinario de sesiones, los demás integrantes de la Directiva serán electos mensualmente. La elección se llevará a cabo mediante votación secreta. El Presidente fungirá en su encargo por todo el período ordinario de sesiones, los demás integrantes fungirán por un mes. El Presidente no podrá ser electo para ocupar igual cargo durante el período de sesiones siguiente. Las mismas disposiciones regirán en la elección de la directiva de los períodos extraordinarios.
+La persona que presida la Directiva, lo será también de la Legislatura.
 
-El Presidente de la Directiva, lo será también de la Legislatura.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
 
 ###### Artículo 43.
 
-Los integrantes de la Directiva que presidirán la Legislatura al inicio de los períodos ordinarios o extraordinarios, serán electos en junta preparatoria dentro de los siete días anteriores al inicio del período; en el supuesto de que la junta no pudiere realizarse, podrán elegirse, en junta el primer día del período respectivo, antes de la primera sesión.
+Quienes integren la Directiva que presidirá la Legislatura al inicio de los períodos ordinarios o extraordinarios, serán electos en junta preparatoria dentro de los siete días anteriores al inicio del período; en el supuesto de que la junta no pudiere realizarse, podrán elegirse, en junta el primer día del período respectivo, antes de la primera sesión.
 
-> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2022)</small>
+La Directiva deberá integrarse preferentemente de manera plural y paritaria procurando nombrar a dos de las personas titulares de la secretaría de género contrario a quien ocupe la presidencia y a la otra, del mismo género de la presidencia, procurando a su vez que, quienes ocupen las vicepresidencias, sean una de cada género.
 
-Cada mes en la fecha en que se hubieren abierto las sesiones iniciarán su gestión los Vicepresidentes y los Secretarios, para lo cual deberán ser elegidos dentro de los siete días anteriores, o bien, en la primera sesión del mes en el que deban fungir. En el caso del Segundo Período Ordinario de Sesiones, cuando el mes que corresponda no tenga treinta y un días, serán electos dentro de los siete días anteriores al primer día del mes siguiente o bien ese día; e iniciarán sus funciones el primer día del mes.
+Cada mes en la fecha en que se hubieren abierto las sesiones iniciarán su gestión las personas titulares de las Vicepresidencias y Secretarías, para lo cual deberán elegirse dentro de los siete días anteriores, o bien, en la primera sesión del mes en el que deban fungir. En el caso del Segundo Período Ordinario de Sesiones, cuando el mes que corresponda no tenga treinta y un días, las personas titulares serán electas dentro de los siete días anteriores al primer día del mes siguiente o bien ese día; e iniciarán sus funciones el primer día del mes.
 
 ###### Artículo 44.
 
@@ -617,11 +615,13 @@ Durante los recesos las comisiones legislativas y los comités continuarán func
 
 El Presidente de la Diputación Permanente les podrá turnar para su estudio iniciativas o asuntos.
 
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
+
 ###### Artículo 52.
 
-La Diputación Permanente se integrará por un presidente, un vicepresidente, un secretario y seis miembros más. Para cubrir la falta de los titulares se elegirán cinco suplentes.
+La Diputación Permanente se integrará por una presidencia, una vicepresidencia, una secretaría y seis miembros más. Para cubrir la falta de los titulares se elegirán cinco suplentes.
 
-La elección de la Diputación Permanente se llevará a cabo en votación secreta.
+La elección de la Diputación Permanente se llevará a cabo en votación secreta debiendo integrarse preferentemente de manera plural y paritaria en términos similares a la Directiva.
 
 ###### Artículo 53.
 
@@ -695,15 +695,17 @@ Artículo 67 BIS-2.- Previo a la Sesión de Instalación de la Legislatura, cada
 
 a) Acta en la que conste la decisión de sus miembros de constituirse en grupo, con especificación del nombre del mismo y lista de sus integrantes;
 
-b) Nombre del diputado que haya sido acreditado por la dirigencia de su partido como coordinador del grupo parlamentario y los nombres de quienes desempeñen otras actividades directivas.
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
+
+b) Nombre de la diputada o diputado que haya sido acreditado por la dirigencia de su partido como coordinador del grupo parlamentario y los nombres de quienes desempeñen otras actividades directivas procurando el apego a la paridad.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 Artículo 67 BIS-3.- El Secretario de Asuntos Parlamentarios hará publicar los documentos constitutivos de los grupos parlamentarios en la Gaceta del Gobierno.
 
-> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
 
-Artículo 67 BIS-4.- El coordinador propondrá a la Junta de Coordinación Política el nombre de los diputados de su Grupo Parlamentario que integrarán las comisiones legislativas y comités y promoverá los entendimientos necesarios para la elección de los integrantes de la Directiva, participando con voz y voto en la Junta de Coordinación Política y, cuando ésta sea erigida en Conferencia para la Dirección y Programación de los Trabajos Legislativos.
+Artículo 67 BIS-4.- El coordinador procurando las disposiciones sobre paridad, propondrá a la Junta de Coordinación Política el nombre de los diputados de su Grupo Parlamentario que integrarán las comisiones legislativas y comités y promoverá los entendimientos necesarios para la elección de los integrantes de la Directiva, participando con voz y voto en la Junta de Coordinación Política y, cuando ésta sea erigida en Conferencia para la Dirección y Programación de los Trabajos Legislativos.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
@@ -755,7 +757,9 @@ El Presidente, los Vicepresidentes y el Secretario duraran un año, al término 
 
 Son atribuciones de la Junta de Coordinación Política:
 
-I.- Proponer a la Asamblea los integrantes de las comisiones y de los comités, así como su sustitución cuando exista causa justificada para ello;
+> <small>(REFORMADA, G.G. 25 DE MARZO DE 2022)</small>
+
+I.- Proponer a la Asamblea la integración de las comisiones y de los comités procurando el principio de paridad, así como la sustitución de sus miembros cuando exista causa justificada para ello;
 
 > <small>(REFORMADA, G.G. 19 DE AGOSTO DEL 2003)</small>
 
@@ -1083,9 +1087,9 @@ XXXV. Comisión de Familia y Desarrollo Humano.
 
 XXXVI. Comisión Para las Declaratorias de Alerta de Violencia de Género contra las Mujeres por Feminicidio y Desaparición.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 15 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
 
-La Asamblea podrá determinar la creación de otras comisiones legislativas, así como fijar el número de sus integrantes, de acuerdo con las necesidades institucionales de la Legislatura. En la asignación de presidencias de las comisiones legislativas y comités, se procurará la paridad de género, de tal manera que los Grupos Parlamentarios no pierdan su representación plural y proporcional en ellas.
+La Asamblea podrá determinar la creación de otras comisiones legislativas, así como fijar el número de sus integrantes, de acuerdo con las necesidades institucionales de la Legislatura. En la asignación de presidencias de las comisiones legislativas y comités, se deberá procurar la paridad de género, de tal manera que los Grupos Parlamentarios no pierdan su representación plural y proporcional en ellas.
 
 > <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
 
@@ -1177,9 +1181,9 @@ V. Editorial y de Biblioteca.
 
 La Asamblea podrá integrar los comités que considere necesarios con el carácter de permanentes o transitorios.
 
-> <small>(REFORMADO, G.G. 20 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
 
-Los comités permanentes se integrarán en forma similar a las comisiones legislativas y sólo emitirán opiniones, proposiciones, informes y recomendaciones de los asuntos que les sean encomendados, conforme al ámbito de competencia señalada en los artículos 76 A, 76 B, 76 C y 76 E; además de los asuntos que en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política les encomienden.
+Los comités permanentes se integrarán en forma similar a las comisiones legislativas, procurando la designación paritaria de presidencias del total de comités y sólo emitirán opiniones, proposiciones, informes y recomendaciones de los asuntos que les sean encomendados, conforme al ámbito de competencia señalada en los artículos 76 A, 76 B, 76 C y 76 E; además de los asuntos que, en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política les encomienden.
 
 > <small>(REFORMADO, G.G. 22 DE OCTUBRE DE 2010)</small>
 
@@ -2484,3 +2488,23 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.G. 25 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 43.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 42, 43, 52, 62 FRACCIÓN I, 67 BIS-2 INCISO B), 67 BIS-4, Y EL ÚLTIMO PÁRRAFO DE LOS ARTÍCULOS 69 Y 76 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 13 Y EL ARTICULO 27; Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 13 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO TERCERO.
+
+Para el cumplimiento del presente Decreto, la Directiva de la Legislatura o de la Diputación Permanente que se encuentre en funciones, permanecerá para el periodo que fue electa, pero la integración posterior, se hará con base en lo señalado en los artículos 42 y 52 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de México, en los términos previstos en la presente reforma.
+
+###### ARTÍCULO CUARTO.
+
+Con base en sus atribuciones, la Junta de Coordinación Política hará los ajustes y propuestas para la integración de comisiones legislativas y comités que garantice el cumplimiento del presente decreto.
