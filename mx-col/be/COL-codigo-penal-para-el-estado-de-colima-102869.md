@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2021-12-11"
+last_updated: "2022-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2022.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -109,15 +109,113 @@ Principio de jurisdiccionalidad.
 
 Sólo podrá imponerse una consecuencia jurídica del delito por resolución de la autoridad judicial competente y mediante un procedimiento seguido ante los tribunales previamente establecidos, por lo que ninguna persona podrá ser juzgada por leyes privativas ni por tribunales especiales.
 
+(NOTA: EL 27 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2022, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE MARZO DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 76, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2015)</small>
 
 ###### ARTÍCULO 8.
 
-Delitos por los que procede la prisión preventiva oficiosa.
+DELITOS POR LOS QUE PROCEDE LA PRISIÓN PREVENTIVA OFICIOSA.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2022)</small>
 
-Son delitos por los que procede ordenar la prisión preventiva oficiosa en términos del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos y los previstos en este Código: homicidio doloso en todas sus formas y modalidades tipificado en los artículos 120; 121 en relación al 134; 122 tratándose del provocador así como su fracción II; 123 Bis; el Feminicidio, tipificado en el artículo 124 Bis; y 135; violación en todas sus formas y modalidades tipificado por los artículos 144 a 147; pornografía tipificado en el artículo 171 párrafos segundo y tercero; turismo sexual tipificado en el artículo 174; robo calificado tipificado en los artículos 185 apartado B) fracciones I y VIII, 186 párrafo segundo y 188 párrafo segundo, siempre y cuando se colmen las hipótesis señaladas en el artículo 185 apartado B) fracciones I y VIII.
+Son los delitos por los que procede ordenar la prisión preventiva oficiosa en términos del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos y los previstos en este Código:
+
+(NOTA: EL 27 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE MARZO DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 76, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2022)</small>
+
+I. HOMICIDIO DOLOSO EN TODAS SUS FORMAS Y MODALIDADES CON EXCEPCIÓN DEL DELITO DE HOMICIDIO EN RIÑA TRATÁNDOSE DEL PROVOCADO PREVISTO EN EL ARTÍCULO 122 FRACCIÓN I, INCISO B);
+
+(NOTA: EL 27 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE MARZO DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 76, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2022)</small>
+
+II. VIOLACIÓN EN TODAS SUS FORMAS Y MODALIDADES TIPIFICADO POR LOS ARTÍCULOS 144 A 147;
+
+(NOTA: EL 27 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE MARZO DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 76, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2022)</small>
+
+III. LOS DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD, COMETIDOS A MENORES DE DIECIOCHO AÑOS DE EDAD O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO, COMPRENDIDOS EN LOS SIGUIENTES DELITOS: CORRUPCIÓN DE MENORES PREVISTO EN LOS ARTÍCULOS 164, 165, 166 Y 167; PORNOGRAFÍA PREVISTO EN LOS ARTÍCULOS 171 Y 173; TURISMO SEXUAL PREVISTO EN LOS ARTÍCULOS 174 Y 175; LENOCINIO PREVISTO EN EL ARTÍCULO 177, PÁRRAFO SEGUNDO; PEDERASTIA PREVISTO EN EL ARTÍCULO 178;
+
+(NOTA: EL 27 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE MARZO DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 76, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2022)</small>
+
+IV. ABUSO O VIOLENCIA SEXUAL CONTRA MENORES, PREVISTO EN LOS ARTÍCULOS 150 EN RELACIÓN CON EL 149;
+
+(NOTA: EL 27 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE MARZO DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 76, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2022)</small>
+
+V. INCESTO, PREVISTO EN EL ARTÍCULO 232, PÁRRAFO TERCERO;
+
+(NOTA: EL 27 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE MARZO DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 76, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2022)</small>
+
+VI. HOSTIGAMIENTO SEXUAL Y ACOSO LABORAL, PREVISTO EN EL ARTÍCULO 152, PÁRRAFO QUINTO;
+
+(NOTA: EL 27 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE MARZO DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 76, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2022)</small>
+
+VII. VIOLENCIA DIGITAL, PREVISTO EN EL ARTÍCULO 152 TER, PÁRRAFO TERCERO, FRACCIÓN I, EN RELACIÓN A LA FRACCIÓN I DEL PÁRRAFO PRIMERO, COMETIDOS A MENORES DE DIECIOCHO AÑOS DE EDAD O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO;
+
+(NOTA: EL 27 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VIII DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE MARZO DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 76, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2022)</small>
+
+VIII. REPRODUCCIÓN ASISTIDA INDEBIDA, PREVISTA EN EL ARTÍCULO 154, COMETIDOS A MENORES DE DIECIOCHO AÑOS DE EDAD O DE UNA PERSONA INCAPAZ PARA COMPRENDER EL SIGNIFICADO DEL HECHO O PARA RESISTIRLO;
+
+(NOTA: EL 27 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IX DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE MARZO DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 76, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2022)</small>
+
+IX. INSEMINACIÓN ARTIFICIAL, PREVISTA EN EL ARTÍCULO 155; COMETIDOS A MENORES DE DIECIOCHO AÑOS DE EDAD O DE PERSONAS INCAPAZ O DE UNA PERSONA INCAPAZ PARA COMPRENDER EL SIGNIFICADO DEL HECHO O PARA RESISTIRLO;
+
+(NOTA: EL 27 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN X DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE MARZO DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 76, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2022)</small>
+
+X. DESAPARICIÓN FORZADA DE PERSONAS, PREVISTA EN LOS ARTÍCULOS 157 Y 158;
+
+(NOTA: EL 27 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XI DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE MARZO DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 76, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2022)</small>
+
+XI. FEMINICIDIO, PREVISTO EN EL ARTÍCULO 124 BIS;
+
+(NOTA: EL 27 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XII DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE MARZO DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 76, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2022)</small>
+
+XII. ROBO A CASA HABITACIÓN, PREVISTO EN EL ARTÍCULO 185, INCISO B) FRACCIÓN II Y CUANDO EL ROBO SEA COMETIDO CON MEDIOS VIOLENTOS COMO ARMAS Y EXPLOSIVOS;
+
+(NOTA: EL 27 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE MARZO DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 76, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2022)</small>
+
+XIII. EJERCICIO ABUSIVO DE FUNCIONES, PREVISTO EN EL ARTÍCULO 242 BIS 4;
+
+(NOTA: EL 27 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIV DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE MARZO DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 76, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2022)</small>
+
+XIV. ABIGEATO, PREVISTO EN EL ARTÍCULO 195 BIS, INCISO B), FRACCIÓN II CUANDO SEA COMETIDO CON MEDIOS VIOLENTOS CON ARMAS Y EXPLOSIVOS;
+
+(NOTA: EL 27 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XV DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE MARZO DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 76, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2022)</small>
+
+XV. ENRIQUECIMIENTO ILÍCITO, PREVISTO EN EL ARTÍCULO 239; Y
+
+(NOTA: EL 27 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XVI DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE MARZO DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 76, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2022)</small>
+
+XVI. LESIONES, PREVISTA EN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 127, CUANDO SEA COMETIDO CON MEDIOS VIOLENTOS CON ARMAS Y EXPLOSIVOS.
 
 ###### ARTÍCULO 9.
 
@@ -539,7 +637,9 @@ IV. Libertad nocturna con reclusión diurna.
 
 La semilibertad podrá imponerse como pena autónoma o como sustitutiva de la prisión. En este último caso, la duración no podrá exceder de la que corresponda a la pena de prisión sustituida.
 
-Esta medida no se concederá a los sentenciados por los delitos considerados como de prisión preventiva oficiosa en términos de lo dispuesto en el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, y 8 de este Código.
+(NOTA: EL 27 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2022, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE MARZO DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 76, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Esta medida no se concederá a los sentenciados por los delitos considerados como de prisión preventiva oficiosa en términos de lo dispuesto en el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, Y 8 DE ESTE CÓDIGO.
 
 ### CAPÍTULO V. TRABAJO A FAVOR DE LA VÍCTIMA, OFENDIDO O DE LA COMUNIDAD
 
@@ -1197,7 +1297,9 @@ II. La sustitución de la pena de prisión no podrá aplicarse cuando se trate d
 
 En caso de hacerse efectiva la pena de prisión sustituida, se tomará en cuenta el tiempo durante el cual la persona sentenciada hubiere cumplido la pena sustitutiva.
 
-La sustitución de la pena de prisión no podrá aplicarse por la autoridad judicial cuando se trate de un sujeto al que anteriormente se le hubiere condenado en sentencia ejecutoriada por delito por el que proceda decretar la prisión preventiva oficiosa en términos del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, así como en el artículo 8 de este código.
+(NOTA: EL 27 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2022, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE LA FRACCIÓN II DEL INCISO A) DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE MARZO DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 76, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+La sustitución de la pena de prisión no podrá aplicarse por la autoridad judicial cuando se trate de un sujeto al que anteriormente se le hubiere condenado en sentencia ejecutoriada por delito por el que proceda decretar la prisión preventiva oficiosa en términos del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, ASÍ COMO EN EL ARTÍCULO 8 DE ESTE CÓDIGO.
 
 B) El juez podrá dejar sin efecto la sustitución y ordenar que se ejecute la pena de prisión impuesta en los siguientes casos:
 
@@ -3083,9 +3185,9 @@ No se aplicará pena alguna a la madre que entregue a su hijo por extrema pobrez
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-### CAPÍTULO III. ALLANAMIENTO DE MORADA
+### CAPÍTULO III. ALLANAMIENTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 216.
 
@@ -3151,6 +3253,12 @@ Se entenderá por cobranza extrajudicial ilegal el cobro realizado fuera de proc
 
 Si se actualiza además cualquier otro tipo penal, se aplicarán las reglas de concurso de delitos señaladas en éste Código.
 
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2022)</small>
+
+ARTÍCULO 218 TER. Cuando las amenazas se realicen públicamente, mediante la colocación de mantas, cartulinas, lonas, cartón o por cualquier medio físico o electrónico se le impondrán de dos a seis años de prisión, y multa por un importe equivalente de cuarenta a ciento veinte unidades de medida y actualización.
+
+Igual sanción tendrá quien elabore, imprima, fabrique, proporcione, posea, desplace, traslade, aplique o coloque cualquier objeto que contenga expresiones o mensajes de amenazas en lugares públicos.
+
 ### CAPÍTULO II. DISCRIMINACIÓN
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2020)</small>
@@ -3158,6 +3266,8 @@ Si se actualiza además cualquier otro tipo penal, se aplicarán las reglas de c
 ###### ARTÍCULO 219.
 
 Al que mediante violencia obligue a otro a hacer, omitir, o tolerar algo, se le impondrán de dos a seis años de prisión, y multa por un importe equivalente de sesenta a doscientas unidades de medida y actualización.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MARZO DE 2022)</small>
 
 ### CAPÍTULO ÚNICO. USURPACIÓN DE IDENTIDAD
 
@@ -3173,9 +3283,11 @@ Las penas previstas en este artículo se incrementarán en una mitad cuando el a
 
 ###### ARTÍCULO 220.
 
-Al que sin consentimiento de la persona autorizada, empleando engaño o sin causa justificada se introduzca a una morada o a sus dependencias, se le impondrán de tres meses a tres años de prisión, y multa por un importe de treinta a setenta unidades de medida y actualización.
+Al que, sin consentimiento de la persona autorizada, empleando engaño o sin causa justificada se introduzca o permanezca en un departamento, vivienda, lugar destinado a habitación, inmueble con construcción o sus dependencias, se le impondrán de tres meses a tres años de prisión, y multa por un importe de treinta a setenta unidades de medida y actualización.
 
-Las mismas sanciones se aplicarán a quien permanezca en una morada o sus dependencias sin el consentimiento de la persona autorizada para darlo, o a quien permanezca en un despacho profesional, oficina o consultorio sin la autorización de quien deba otorgarlo.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2022)</small>
+
+Las mismas sanciones se aplicarán a quien permanezca o se introduzca en algún establecimiento, comercios, lugares deshabitados, lugar privado sea móvil o fijo, o espacio público o privado, sin el consentimiento de la persona autorizada para darlo, empleando engaño o sin causa justificada o se encuentre cerrado.
 
 ### CAPÍTULO ÚNICO. VIOLENCIA POLÍTICA
 
@@ -4135,11 +4247,35 @@ Cuando la ley autorice el empleo de los medios de apremio para hacer efectivas l
 
 > <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2019)</small>
 
-ARTÍCULO 275 BIS. (SIC) Será sancionado con pena de tres días a diez años de prisión y multa de tres mil a cinco mil veces el valor diario de la unidad de medida y actualización a quien sustraiga, oculte, altere, mutile, destruya o inutilice, total o parcialmente, información y documentos de los archivos que se encuentren bajo su resguardo, salvo en los casos que no exista responsabilidad determinada en la Ley de Archivos del Estado de Colima; y a quien destruya documentos considerados patrimonio documental del Estado.
+ARTÍCULO 275 BIS. Será sancionado con pena de tres días a diez años de prisión y multa de tres mil a cinco mil veces el valor diario de la unidad de medida y actualización a quien sustraiga, oculte, altere, mutile, destruya o inutilice, total o parcialmente, información y documentos de los archivos que se encuentren bajo su resguardo, salvo en los casos que no exista responsabilidad determinada en la Ley de Archivos del Estado de Colima; y a quien destruya documentos considerados patrimonio documental del Estado.
 
 > <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2019)</small>
 
 ARTÍCULO 275 BIS 1. Será sancionado con pena de tres a diez años de prisión y multa de tres mil veces la unidad de medida y actualización hasta el valor del daño causado, a la persona que destruya documentos relacionados con violaciones graves a derechos humanos, alojados en algún archivo, que así hayan sido declarados previamente por autoridad competente.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2022)</small>
+
+ARTÍCULO 275 BIS 2. A quien vigile, rastree, obtenga o proporcione información o realice actos tendientes a comunicar, de manera injustificada, sobre las actividades oficiales de: recorridos, traslados, operativos, estrategias y logística, que realicen o pretendan realizar los servidores públicos de las instituciones de seguridad pública, de procuración e impartición de justicia, y de ejecución de las penas, de los órdenes de gobierno estatal y municipal, así como los integrantes del ejército, marina armada, guardia nacional o fuerza aérea nacional, cuando estos últimos actúen en auxilio de las autoridades u órganos jurisdiccionales del Estado; se le impondrá de seis meses a cinco años de prisión, y multa por un importe equivalente de doscientas a cuatrocientas unidades de medida y actualización.
+
+Cuando se realice con la finalidad de ocasionar un daño, entorpecer o evitar el cumplimiento de las funciones de las instituciones, órganos o servidores públicos señalados en los términos del párrafo anterior o bien para facilitar o permitir la realización de algún delito, por sí mismo o por un tercero; se le impondrá de tres a doce años de prisión, y multa por un importe equivalente de trescientas a quinientas unidades de medida y actualización.
+
+Igual sanción se aplicará a quien realice con los fines del segundo párrafo, alguna de las siguientes conductas:
+
+I. Ingrese, altere, sustraiga, destruya, oculte, niegue, utilice, o inutilice ilícitamente información o documentación de las instituciones de seguridad pública, de procuración e impartición de justicia, y de ejecución de las penas, de los órdenes de gobierno estatal y municipal;
+
+II. Introduzca, permita o facilite el ingreso de teléfono celular, sistema de comunicación electrónica o radiocomunicación al interior de los Centros Preventivos y de Reinserción Social del Estado de Colima; y
+
+III. Posea o porte, equipo o artefacto que permita la intervención, escucha o transmisión de datos con respecto a canales de comunicación oficiales de instituciones de seguridad pública.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2022)</small>
+
+ARTÍCULO 275 BIS 3. La pena señalada en el segundo párrafo del artículo 275 Bis 2, se agravará hasta en una mitad más, en los siguientes supuestos:
+
+I. Si el delito es cometido por quienes sean o hayan sido servidores públicos de Instituciones de Seguridad Pública u órganos jurisdiccionales del Estado o sus municipios. Se impondrá además la pena (sic) destitución definitiva y la inhabilitación por un plazo de 5 a 15 años, para desempeñar empleo, cargo o comisión pública;
+
+II. Cuando se utilice a persona menor de edad o a quien no tenga la capacidad para comprender el significado del hecho; y
+
+III. Cuando se utilice algún vehículo oficial del Estado o los municipios, vehículo de servicio público de transporte de pasajeros u otro que preste un servicio similar o que por sus características exteriores sea similar a la apariencia de los vehículos destinados al servicio de transporte público de pasajeros.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -4151,7 +4287,7 @@ A quien empleando la violencia se oponga a que la autoridad ejerza alguna de sus
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-ARTÍCULO 275 BIS. Cuando se infiera lesiones dolosas a un miembro de las instituciones de seguridad pública, las sanciones señaladas en el artículo 126 del presente Código, se incrementarán de ocho meses a diez años de prisión.
+ARTÍCULO 275 BIS (SIC). Cuando se infiera lesiones dolosas a un miembro de las instituciones de seguridad pública, las sanciones señaladas en el artículo 126 del presente Código, se incrementarán de ocho meses a diez años de prisión.
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -4706,3 +4842,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Titular del Poder Ejecutivo del Estado, procurará prever las medidas presupuestales y administrativas necesarias para garantizar el derecho a la interrupción legal del embarazo.
 
 TERCERO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 26 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "NÚM. 76.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
