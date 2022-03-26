@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2021-11-27"
+last_updated: "2022-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2022.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -85,11 +85,11 @@ C. Aprobará, por medio del Consejo, las disposiciones normativas internas para 
 
 D. Tendrá un Consejo integrado por seis consejeros que deberán cumplir con los requisitos que establezca la ley para ocupar el cargo, mismos que serán elegidos por el voto de las dos terceras partes de los diputados presentes de la Legislatura. La ley determinará los procedimientos a seguir para la presentación de las propuestas respectivas ante el Pleno. Los consejeros durarán en su encargo tres años y anualmente serán sustituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y reelectos para un segundo período.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. PERTENECE AL INCISO D], P.O. 17 DE FEBRERO DE 2016)</small>
 
 El Presidente de la Comisión Estatal de los Derechos Humanos, quien lo será también del Consejo, será elegido en los mismos términos del párrafo anterior. Durará en su encargo cinco años, podrá ser reelecto por una sola vez y solo podrá ser removido de sus funciones en los términos del Título XIII de esta Constitución.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. PERTENECE AL INCISO D], P.O. 17 DE FEBRERO DE 2016)</small>
 
 El Presidente de la Comisión Estatal de los Derechos Humanos presentará anualmente a los poderes estatales un informe de actividades. Al efecto, comparecerá ante el Congreso del Estado en los términos que disponga la ley.
 
@@ -108,6 +108,10 @@ Todas las mujeres en el Estado tienen derecho a una protección y atención efec
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
 
 Todos los habitantes del Estado tienen derecho a acceder en igualdad de oportunidades a los beneficios del desarrollo social. Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad de la persona y de los grupos en que se integra, sean reales y efectivas; y remover los obstáculos que impidan o dificulten su plenitud.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2022)</small>
+
+Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como al ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. Las leyes respectivas, establecerán los mecanismos para el acceso y participación a cualquier manifestación cultural, y promoverá la protección del patrimonio cultural material e inmaterial.
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
 
@@ -5408,3 +5412,19 @@ Conforme a lo dispuesto por el artículo 202 de la Constitución Política del E
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVII/RFCNT/0099/2021 I P.O., MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO CUARTO, CON UN NUEVO PÁRRAFO OCTAVO, RECORRIÉNDOSE LOS SUBSECUENTES EN SU ORDEN, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y de los debates a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su momento, hágase el cómputo de los votos de los Ayuntamientos y la declaratoria de haber sido aprobada la presente adición.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos previstos en la presente adición, se harán las previsiones, reasignaciones o transferencias que fueran necesarias, siguiendo los principios de equilibrio presupuestal, transparencia y rendición de cuentas aplicables.
