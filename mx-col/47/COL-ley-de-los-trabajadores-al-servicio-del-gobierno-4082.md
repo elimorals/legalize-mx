@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "2021-12-08"
+last_updated: "2022-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -1131,125 +1131,251 @@ Del Tribunal de Arbitraje y Escalafón y de los procedimientos ante el mismo.
 
 De la estructura y competencia del Tribunal.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 132.
 
-El Tribunal de Arbitraje y Escalafón es el máximo órgano jurisdiccional para resolver las controversias que se susciten entre las Entidades públicas con sus trabajadores, así como la instancia jurídica para impugnar los procedimientos en materia escalafonaria.
+El Tribunal de Arbitraje y Escalafón del Estado de Colima es un órgano jurisdiccional uniinstancial con personalidad jurídica y patrimonio propio, dotado de plena autonomía e independiente en sus decisiones de conformidad con la Constitución Política del Estado Libre y Soberano de Colima.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 133.
 
-El Tribunal será colegiado, funcionará en pleno y estará integrado por cinco Magistrados, que durarán en su encargo seis años, pudiendo ser reelectos por una sola vez.
+El Tribunal será unitario, estará integrado por la Magistrada o el Magistrado que durará en su encargo seis años, podrá ser reelecto por una sola vez y sólo podrá ser privado del mismo por las causas graves que señale la ley.
 
-Dos Magistrados serán designados por el Poder Judicial y los Ayuntamientos.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+El Congreso del Estado hará la designación de la Magistrada o Magistrado respectivo mediante el voto de las dos terceras partes de sus miembros presentes, a propuesta de la persona titular del Poder Ejecutivo, observándose en lo conducente lo previsto por los párrafos sexto y séptimo del artículo 77 de la Constitución Política del Estado Libre y Soberano de Colima.
 
-Dos magistrados serán designados por los sindicatos, uno por el Sindicato de Trabajadores al Servicio del Gobierno del Estado y otro por conducto de la Unión.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2001)</small>
+Durante el periodo de su encargo, la Magistrada o el Magistrado no podrá tener ningún otro empleo, cargo o comisión, con excepción de aquellos en los que actúe en representación del Tribunal y de los que desempeñe en asociaciones docentes, científicas, culturales, de investigación o de beneficencia.
 
-Un Magistrado, que tendrá el carácter de Presidente y que a propuesta en terna del titular del Poder Ejecutivo estatal será electo por el Congreso del Estado, por mayoría calificada, en el improrrogable plazo de 30 días naturales. Si el Congreso no resolviere dentro de dicho plazo, ocupará el cargo de Magistrado Presidente la persona que de dicha terna, designe el Gobernador. En caso de que el Congreso rechace la totalidad de la terna propuesta, el Gobernador someterá una nueva, con respecto a la cual el Congreso resolverá dentro del improrrogable plazo de 15 días naturales. Si el Congreso no resuelve en dicho plazo o si esta segunda terna fuera rechazada, ocupará el cargo la persona que de esta terna, designe el Gobernador.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 26 DE MARZO DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2001)</small>
-
-Si a la conclusión del período legal del cargo de Magistrado Presidente el Congreso del Estado no ha elegido al sustituto, la persona que lo viene desempeñando continuará en el cargo hasta que tome posesión el que lo sustituya.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 26 DE MARZO DE 2022)</small>
 
 > <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2001)</small>
 
 Este Magistrado deberá ser Licenciado en Derecho con una antigüedad mínima de 3 años de ejercicio profesional y con experiencia acreditable en materia laboral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 134.
 
-Para la designación de nuevos Magistrados, en caso de vacantes, se seguirá la forma indicada en el artículo anterior.
+Para la designación de una nueva Magistrada o Magistrado, en caso de vacante, se seguirá la forma indicada en el artículo inmediato anterior.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2022)</small>
+
+La persona que ejerza la representación del Tribunal informará a la persona titular del Poder Ejecutivo del Estado de Colima con noventa días naturales de anticipación de la fecha de vencimiento del cargo; en caso de ausencia definitiva de la Magistrada o Magistrado informará inmediatamente, con el propósito de que se inicie el procedimiento para designar a quien habrá de suplir la vacante.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2022)</small>
+
+La Magistrada o Magistrado continuará ejerciendo el cargo hasta en tanto se realiza un nuevo nombramiento, sin que lo anterior se entienda como la reelección de su encargo.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2022)</small>
+
+Ante la falta definitiva de la Magistrada o Magistrado, el funcionario público que determine el Reglamento ejercerá dichas funciones en tanto el Congreso del Estado designe a quien deba suplir la vacante.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 135.
 
-Para ser Magistrado del Tribunal, se requiere:
+Para ser Magistrada o Magistrado del Tribunal, se requiere:
 
-I.- Ser mexicano en pleno goce de sus derechos civiles;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2022)</small>
 
-II.- Ser mayor de treinta años;
+I. Ser mexicano o mexicana, en pleno ejercicio de sus derechos políticos y civiles;
 
-III.- Tener experiencia en materia laboral; y
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2022)</small>
 
-IV.- No tener antecedentes penales.
+II. Tener por lo menos treinta y cinco años de edad el día de la designación;
 
-Los Magistrados designados por el Poder Judicial y los Ayuntamientos deberán ser empleados de confianza al servicio de cualquiera de las Entidades mencionadas; los representantes de los sindicatos deberán ser empleados de base, con antigüedad mínima de un año, en cualquiera de los organismos mencionados en el Artículo 1 de la presente Ley, quedando inhabilitados para desempeñar la magistratura al aceptar un cargo de confianza o si resultaren electos para ocupar un cargo de representación popular.
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2022)</small>
+
+III. Poseer al día de la designación, con antigüedad mínima de diez años, título profesional de licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello;
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2022)</small>
+
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena de más de un año de prisión, pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2022)</small>
+
+V. Haber residido en el país durante los dos años anteriores al día de la designación.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2022)</small>
+
+Adicionalmente, el nombramiento deberá recaer en persona que acredite, en atención de sus antecedentes profesionales y curriculares, contar con experiencia en materia laboral.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 136.
 
-El Presidente del Tribunal tendrá el sueldo que determine el presupuesto de egresos. Los demás Magistrados percibirán una compensación adicional a su sueldo por el desempeño de este servicio. Estos últimos tendrán todas las facilidades para el desempeño de sus funciones, de parte de los Titulares de las respectivas dependencias.
+La Magistrada o el Magistrado del Tribunal tendrá el sueldo que determine el presupuesto de egresos, en los términos de los artículos 127 de la Constitución Política de los Estados Unidos Mexicanos y 142 de la Constitución Política del Estado Libre y Soberano de Colima.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 137.
 
-El Tribunal contará con un Secretario General de Acuerdos, Secretarios Actuarios, Secretarios Proyectistas y el personal administrativo que sea necesario para atender los asuntos de su competencia.
+El Tribunal estará a cargo de una Magistrada o Magistrado y contará con Secretarías de Acuerdos, Secretarías Actuarias, Secretarías Proyectistas y el personal administrativo que sea necesario para atender los asuntos de su competencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 138.
 
-El Tribunal en pleno, será competente para:
+El Tribunal será competente para:
 
-I.- Conocer y resolver de los conflictos individuales o colectivos que se susciten entre Titulares de una Entidad o dependencia pública y sus trabajadores;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2022)</small>
 
-II.- Conceder el registro de los sindicatos o, en su caso, dictar la cancelación de los mismos;
+I. Conocer de los conflictos individuales que se susciten entre las o los titulares de las entidades públicas y sus trabajadores.
 
-III.- Efectuar el acuerdo de depósito de las condiciones generales de trabajo, reglamentos de escalafón, reglamentos de las diferentes comisiones mixtas y de los estatutos de los sindicatos; y
+Salvo las de aquellos entes públicos que se encuentren sujetos a un régimen jurídico especial en materia laboral o de relación administrativa con su personal, en cuyo caso las controversias que se susciten se tramitarán y resolverán conforme a lo que disponga dicho régimen especial;
 
-IV.- Expedir su propio reglamento y los manuales de organización.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MARZO DE 2022)</small>
+
+II. Conocer de los conflictos colectivos que surjan entre las entidades públicas y las o los trabajadores a su servicio;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE MARZO DE 2022)</small>
+
+III. Conceder el registro de los sindicatos o, en su caso, dictar la cancelación de los mismos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MARZO DE 2022)</small>
+
+IV. Conocer de los conflictos sindicales e intersindicales;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE MARZO DE 2022)</small>
+
+V. Efectuar el acuerdo de depósito de las condiciones generales de trabajo, reglamentos de escalafón, reglamentos de las diferentes comisiones mixtas y de los estatutos de los sindicatos;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE MARZO DE 2022)</small>
+
+VI. Expedir su propio reglamento y los manuales de organización; y
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2022)</small>
+
+VII. Las demás funciones que se derivan de esta Ley o que se establezcan en el Reglamento interior.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 139.
 
-Corresponderá al Presidente del Tribunal:
+Corresponderá a la Magistrada o Magistrado del Tribunal:
 
 I.- Ejercer la representación del Tribunal y dirigir la administración del mismo;
 
 II.- Cuidar el orden y la disciplina del Tribunal;
 
-III.- Designar y remover libremente al Secretario General de Acuerdos, Secretarios Proyectistas y Secretarios Actuarios, comunicando lo anterior al resto de los Magistrados;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2022)</small>
 
-IV.- Asignar los expedientes a cada uno de los Magistrados;
+III. Designar y remover libremente a las y los servidores públicos que ocupen las Secretarías de Acuerdos, Secretarías Actuarias y Secretarías Proyectistas y demás personal administrativo que sea necesario para atender los asuntos de su competencia;
 
-V.- Llevar la correspondencia oficial del Tribunal; y
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2022)</small>
 
-VI.- Promover a nombre del Tribunal las actuaciones que considere procedentes.
+IV. Despachar la correspondencia oficial del Tribunal;
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2022)</small>
+
+V. Promover a nombre del Tribunal las actuaciones que considere procedentes; y
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2022)</small>
+
+VI. Las demás funciones que se derivan de esta Ley o que se establezcan en el Reglamento interior.
 
 ### CAPITULO II
 
 Del procedimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 140.
 
-El Tribunal actuará en pleno y las votaciones serán nominales sin perjuicio de que, en caso de discrepancia, el o los Magistrados inconformes emitan voto particular por escrito.
+El proceso laboral será público, gratuito, inmediato, predominantemente oral y se iniciará a instancia de parte. El Tribunal tendrá la obligación de tomar las medidas necesarias para lograr la mayor economía, concentración y sencillez en el proceso.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2022)</small>
+
+El Tribunal ordenará que se corrija cualquier irregularidad u omisión que notaren en la substanciación del proceso, para el efecto de regularizar el procedimiento, sin que ello implique revocar sus propias resoluciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 141.
 
-En los conflictos de naturaleza individual comisionará a un Magistrado para que en compañía del Secretario General de Acuerdos, con el carácter de auxiliar de instrucción, se encargue del desahogo de las pruebas que se admitan en audiencia de conciliación, demanda y excepciones, y ofrecimiento y admisión de pruebas.
+En las audiencias que se celebren se requerirá de la presencia física de las partes o de sus representantes o apoderados, salvo disposición en contrario de la ley.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2022)</small>
+
+Las actuaciones del Tribunal deberán practicarse en días y horas hábiles, bajo pena de nulidad, salvo las diligencias iniciadas en horas hábiles que requieran concluirse en horas inhábiles sin afectar su validez, siempre y cuando sea continua.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2022)</small>
+
+Son días hábiles todos los del año, con excepción de los sábados y domingos, los de descanso obligatorio, los festivos que señale el calendario oficial y aquéllos en que el Tribunal suspenda sus labores.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2022)</small>
+
+Son horas hábiles las comprendidas entre las siete y las diecinueve horas, salvo el procedimiento de huelga, en que todos los días y horas son hábiles.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2022)</small>
+
+Por causa justificada el Tribunal podrá autorizar la práctica de diligencias en días y horas inhábiles.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 142.
 
-El procedimiento ante el Tribunal será público, gratuito, inmediato, predominantemente oral y se iniciará a instancia de parte. Los Magistrados y el auxiliar de instrucción, deberán tomar las medidas conducentes para lograr la mayor economía del tiempo, concentración y sencillez en el procedimiento.
+En los conflictos de naturaleza individual la Magistrada o el Magistrado en compañía de la Secretaría de Acuerdos que corresponda, con el carácter de auxiliar de instrucción, se encargará del desahogo de las pruebas que se admitan en audiencia de conciliación, demanda y excepciones, y ofrecimiento y admisión de pruebas.
 
 ###### ARTICULO 143.
 
 Todas las demandas e instancias que se formulen o sometan al conocimiento del Tribunal, deberán ser por escrito, sin sujetarse a forma determinada, pero las partes deberán precisar concretamente los puntos petitorios. Al escrito inicial deberán acompañarse las copias simples necesarias para la distribución entre las autoridades o partes demandadas, así como una más para el promovente, que firmará el Secretario General de Acuerdos, haciendo constar día y hora en que se reciba.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 144.
 
-Son partes en el proceso los Titulares de las Entidades o dependencias públicas en donde hubiera desempeñado las labores el trabajador demandante; las personas físicas que ejerciten acciones por sí o como beneficiarios de los trabajadores; así como las personas que puedan ser afectadas por la resolución que se pronuncie en un conflicto, comprobando su interés jurídico o que sean llamadas por el Tribunal.
+Son partes en el proceso las o los titulares de las entidades públicas en donde hubiera desempeñado las labores la o el trabajador demandante; el sindicato o las personas físicas que ejerciten acciones por sí, o como beneficiarios de las y los trabajadores, así como las personas que puedan ser afectadas por la resolución que se pronuncie en un conflicto, comprobando su interés jurídico o que sean llamadas por el Tribunal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 145.
 
-Los trabajadores podrán comparecer por sí o por representantes acreditados mediante simple carta poder.
+Las y los trabajadores podrán comparecer por sí o por representantes acreditados mediante simple carta poder otorgada ante dos testigos sin necesidad de ser ratificada ante el Tribunal.
 
-Los Titulares podrán hacerse representar por apoderados que acrediten ese carácter mediante oficio.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2022)</small>
+
+Las y los titulares de las entidades públicas podrán ser representados por apoderados que acrediten tener ese carácter mediante oficio o algún otro medio idóneo para ello.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2022)</small>
+
+Los sindicatos podrán comparecer por conducto de quien los represente legalmente de acuerdo a sus estatutos, mediante la presentación de la constancia de registro de la mesa directiva.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 146.
 
-Cuando se ponga en duda la personalidad de alguna de las partes, será el Presidente del Tribunal quien resolverá sobre el particular. Lo anterior sólo procederá a petición de parte.
+Cuando se ponga en duda la personalidad de alguna de las partes, será la Magistrada o el Magistrado del Tribunal quien resolverá sobre el particular. Lo anterior sólo procederá a petición de parte.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 147.
 
-Los Magistrados no podrán intervenir en asuntos en los que medie interés personal, por haber sido actor de los hechos que motivaron la demanda y por ello deberán excusarse. El reglamento interior determinará la forma en la que se tramitará la calificación de la excusa o impedimento.
+La Magistrada o el Magistrado no es recusable, pero deberá excusarse de conocer de los juicios en que intervenga, cuando se encuentre comprendido en alguno de los siguientes supuestos:
+
+I. Tenga parentesco por consanguinidad dentro del cuarto grado o de afinidad dentro del segundo, con cualquiera de las partes;
+
+II. Tenga el mismo parentesco por consanguinidad dentro del segundo grado, con el representante legal, abogado o procurador de cualquiera de las partes;
+
+III. Tenga interés personal directo o indirecto en el juicio;
+
+IV. Alguno de las o los litigantes o abogadas o abogados haya sido denunciante, querellante o acusadora o acusador de la o el magistrado, de su cónyuge o se haya constituido en parte en causa criminal, seguida contra de la o el magistrado, siempre que se haya ejercitado la acción correspondiente;
+
+V. Sea apoderada o apoderado o defensora o defensor de alguna de las partes o perito o testigo, en el mismo juicio, o haber emitido opinión sobre el mismo;
+
+VI. Sea socia o socio, arrendataria o arrendatario, trabajadora o trabajador o quien funja como patrón o que dependa económicamente de alguna de las partes o sus representantes;
+
+VII. Sea tutora o tutor o curadora o curador, o haber estado bajo la tutela o curatela de las partes o de sus representantes; y
+
+VIII. Sea deudora o deudor, acreedora o acreedor, heredera o heredero o legataria o legatario de cualquiera de las partes o sus representantes.
+
+El reglamento interior determinará la forma en la que se tramitará la calificación de la excusa o impedimento, así como la o el servidor público que lo supla en estos casos.
 
 ###### ARTICULO 148.
 
@@ -1259,13 +1385,17 @@ El procedimiento ante el Tribunal se iniciará con la presentación del escrito 
 
 Concluído el término mencionado en el artículo anterior, el Tribunal a petición de parte, señalará fecha para que tenga verificativo la audiencia de conciliación, demanda y excepciones y ofrecimiento y admisión de pruebas, mandando notificar personalmente el acuerdo a las partes.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 150.
 
-La audiencia se iniciará con la intervención del Magistrado comisionado que hará una exhortación a las partes para que solucionen la controversia en forma conciliatoria. De lograrse un convenio entre ambas, será aprobado por el Tribunal, surtirá todos los efectos legales de un laudo y se dará por concluído el procedimiento, sin perjuicio de la ejecución de los acuerdos consignados por las partes.
+La audiencia se iniciará con la intervención de la Magistrada o el Magistrado que hará una exhortación a las partes para que solucionen la controversia en forma conciliatoria. De lograrse un convenio entre ambas, será aprobado por el Tribunal, surtirá todos los efectos legales de un laudo y se dará por concluido el procedimiento, sin perjuicio de la ejecución de los acuerdos consignados por las partes.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 151.
 
-En caso de no lograrse el arreglo conciliatorio, el Magistrado comisionado tendrá a las partes como inconformes y concederá el uso de la palabra al actor o a su representante legal, para la ratificación o ampliación de la demanda. En el caso de que se ejerciten nuevas acciones o se adicionen hechos substanciales a los narrados en la demanda, se suspenderá la audiencia para dar conocimiento a los demandados de los nuevos conceptos, fijándose el término previsto en el Artículo 148 de esta Ley, para que manifiesten lo que a su derecho convenga y se fije la fecha para la reanudación de la audiencia, a partir del momento en que ocurrió la suspensión decretada.
+En caso de no lograrse el arreglo conciliatorio, la Magistrada o el Magistrado tendrá a las partes como inconformes y concederá el uso de la palabra al actor o a su representante legal, para la ratificación o ampliación de la demanda. En el caso de que se ejerciten nuevas acciones o se adicionen hechos substanciales a los narrados en la demanda, se suspenderá la audiencia para dar conocimiento a los demandados de los nuevos conceptos, fijándose el término previsto en el artículo 148 de esta Ley, para que manifiesten lo que a su derecho convenga y se fije la fecha para la reanudación de la audiencia, a partir del momento en que ocurrió la suspensión decretada.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -1289,9 +1419,11 @@ En la audiencia de desahogo sólo se recibirán las pruebas admitidas previament
 
 El Tribunal tendrá las más amplias facultades para la práctica de las diligencias de desahogo de las pruebas. Las autoridades pondrán a disposición del Tribunal los documentos, archivos y constancias que se refieren o se relacionen con los hechos investigados en el procedimiento, sin perjuicio de que envíen las copias que les solicite el Tribunal. Concluida la recepción de pruebas y practicadas las diligencias ordenadas por el Tribunal, se declarará concluído el procedimiento y se citará a las partes a oír el laudo.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 156.
 
-Antes de pronunciarse el laudo, los Magistrados podrán solicitar mayor información para mejor proveer, en cuyo caso, el Tribunal acordará la práctica de las diligencias necesarias, siempre que no se trate de suplir la omisión o deficiencia en que pudiera haber incurrido alguna de las partes.
+Antes de pronunciarse el laudo, la Magistrada o el Magistrado podrá solicitar mayor información para mejor proveer, en cuyo caso, el Tribunal acordará la práctica de las diligencias necesarias, siempre que no se trate de suplir la omisión o deficiencia en que pudiera haber incurrido alguna de las partes.
 
 ###### ARTICULO 157.
 
@@ -1311,9 +1443,11 @@ El Tribunal tiene la obligación de proveer la eficaz e inmediata ejecución de 
 
 Cuando se pida la ejecución de un laudo, el Tribunal despachará auto con efectos de mandamiento en forma y autorizará al Secretario Actuario para que, asociado de la parte que obtuvo resolución favorable, se constituya en el domicilio u oficina de la parte contraria y la requiera para que cumpla la resolución, apercibiéndola de que de no hacerlo, se procederá al uso de los medios de apremio que establezca el reglamento.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 161.
 
-En caso de incumplimiento a sus resoluciones, el Tribunal podrá imponer las sanciones que establezca el reglamento, las que en caso de multa no podrán ser superiores a cien veces el monto del salario mínimo diario vigente en la zona económica en donde resida la persona o autoridad rebelde. En caso de que impuesta la sanción o la multa se continúe en la negativa de incumplimiento, este procederá en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos.
+En caso de incumplimiento a sus resoluciones, el Tribunal podrá imponer las sanciones que establezca el reglamento, las que en caso de multa no podrán ser superiores a cien veces el valor diario de la Unidad de Medida y Actualización. En caso de que impuesta la sanción o la multa se continúe en la negativa de incumplimiento, este procederá en los términos de la Ley General de Responsabilidades Administrativas.
 
 ###### ARTICULO 162.
 
@@ -1870,3 +2004,21 @@ P.O. 8 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 29.- POR EL QUE SE REFORMA EL ARTÍCULO 35 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 75.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente decreto, el Tribunal expedirá su reglamento interior, mientras tanto, será aplicable el Reglamento del Tribunal de Arbitraje y Escalafón del Estado de Colima en lo que no contravenga al presente Decreto.
+
+TERCERO. Los derechos laborales de las y los trabajadores de base del Tribunal de Arbitraje y Escalafón que se vean involucrados en esta transición, deberán ser respetados en su totalidad.
+
+CUARTO. De conformidad con lo dispuesto en el párrafo cuarto del apartado B del artículo 79 de la Constitución Política del Estado Libre y Soberano de Colima, reformado mediante Decreto número 09 publicado el 24 de noviembre de 2021, el actual Magistrado Presidente del Tribunal de Arbitraje y Escalafón electo mediante Acuerdo No. 77 aprobado por el Congreso del Estado el 27 de septiembre de 2021, continuará ejerciendo sus funciones hasta concluir el periodo para el cual fue nombrado.
+
+QUINTO. De conformidad con el segundo transitorio del decreto 09, por el que se reformó el artículo 79, apartado B, párrafo cuarto de la Constitución local, relativo a la conformación del Tribunal de Arbitraje y Escalafón, reforma que entrará en vigor en la misma fecha que el presente decreto, los asuntos que a la fecha se encuentren en trámite ante el Tribunal de Arbitraje y Escalafón, serán sustanciados y resueltos bajo la nueva integración unitaria contemplada en el presente decreto.
+
+SEXTO. Cuando la Ley refiera al cargo de Secretaría General de Acuerdos se entenderá al cargo de la Secretaría de Acuerdos que corresponda.
+
+SÉPTIMO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
