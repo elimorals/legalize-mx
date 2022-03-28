@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-129544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-09"
-last_updated: "2021-08-02"
+last_updated: "2022-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -1185,9 +1185,21 @@ II. La legislación y asuntos relacionados con la Transparencia y el Acceso a la
 
 III. La legislación y asuntos relación con la protección de datos personales;
 
-IV. El procedimiento para la designación de la Comisión de Selección, en términos de la Ley del Sistema Estatal Anticorrupción de Aguascalientes; y
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
 
-V. Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
+IV. El procedimiento para la designación de la Comisión de Selección, en términos de la Ley del Sistema Estatal Anticorrupción de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2022)</small>
+
+V. El procedimiento para la renovación del Consejo Consultivo del Instituto de Transparencia del Estado de Aguascalientes, en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios;
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2022)</small>
+
+VI. El procedimiento para la designación de los Comisionados del Instituto de Transparencia del Estado de Aguascalientes en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MARZO DE 2022)</small>
+
+VII. Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
 ###### ARTÍCULO 82.
 
@@ -2214,3 +2226,11 @@ E. Por lo que hace a los Organismos Constitucionales Autónomos, su integración
 ###### ARTÍCULO CUARTO.
 
 Las referencias o alusiones en la redacción de la Constitución Política del Estado de Aguascalientes y de las leyes que de ella emanen, hechas hacia mujeres u hombres, representa a ambos sexos, salvo que de la misma naturaleza de la norma se desprenda la individualización hacia un sexo determinado, que en ningún caso deberá implicar discriminación o trato diferenciado injusto.
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 95.- REFORMAS A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS, Y A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciara su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
