@@ -4,7 +4,7 @@ identifier: "HID-ley-de-albergues-privados-para-personas-adultas-mayores-del-958
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-02"
-last_updated: "2013-09-02"
+last_updated: "2022-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ALBERGUES PRIVADOS PARA PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
 Ley Publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 2 de septiembre de 2013.
 
@@ -209,9 +209,11 @@ De la prestación del servicio.
 
 Para los fines de este capítulo, el contrato deberá ser acordado por el administrador del Albergue Privado y el Adulto Mayor. Para el caso de ser necesario, podrá representar legalmente al Adulto Mayor en este acto, su cónyuge, o alguno de sus familiares por consanguinidad o por parentesco legal; y en su caso, la autoridad correspondiente. Sin embargo, no podrá realizarse Contrato de Prestación de Servicios alguno, en caso de oposición expresa por parte del Adulto Mayor, ni podrá obligársele en forma alguna a recibir servicio alguno cuando no tenga la voluntad de recibirlo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2022)</small>
+
 ###### Artículo 17.
 
-En el Contrato de Prestación de Servicios se establecerán, previa valoración médica, las condiciones personales del Adulto Mayor, definiéndose claramente si es independiente, semidependiente, dependiente absoluto o si se encuentra en una situación de riesgo o desamparo.
+En el Contrato de Prestación de Servicios se establecerán, previa valoración médica y psicológica, las condiciones personales del Adulto Mayor, definiéndose claramente si es independiente, semidependiente, dependiente absoluto o si se encuentra en una situación de riesgo o desamparo. Con base en lo anterior, se definirán las condiciones especiales de cuidado y atención que requiere el Adulto Mayor y que el albergue Privado se encuentra en posibilidad de brindar.
 
 Con base en lo anterior, se definirán las condiciones especiales de cuidado y atención que requiere el Adulto Mayor y que el albergue Privado se encuentra en posibilidad de brindar.
 
@@ -268,6 +270,10 @@ Sobre el cuidado.
 ###### Artículo 29.
 
 Los albergues privados deberán contar con áreas físicas separadas para cada nivel de atención, en caso de brindar los servicios necesarios y atenderlos en un mismo inmueble. Asimismo, deberán contar también con el personal profesional necesario para brindar los servicios, de conformidad con la autorización sanitaria con que cuenten.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
+
+Los albergues privados deben contar con un área de psicología para la atención preventiva e inmediata que requieran las personas adultas mayores conforme a sus condiciones especiales de cuidado.
 
 ###### Artículo 30.
 
@@ -424,3 +430,11 @@ DADO EN LA PRESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALG
 EL GOBERNADOR CONSTITUCIONAL EL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 35 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO Y, REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 17 Y ADICIONA UNA SEGUNDA FRACCIÓN AL ARTÍCULO 29 DE LA LEY DE ALBERGUES PRIVADOS PARA PERSONAS ADULTAS MAYORES".]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
