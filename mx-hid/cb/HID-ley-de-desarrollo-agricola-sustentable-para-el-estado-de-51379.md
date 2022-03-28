@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-agricola-sustentable-para-el-estado-de-51379"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2021-09-13"
+last_updated: "2022-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -67,9 +67,9 @@ El objeto de la Ley es:
 
 I.- Elevar el nivel de vida de la población rural del Estado, cuyos ingresos económicos y bienes para el autoconsumo, están determinados por la producción agrícola y subproductos;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
 
-II.- Crear las condiciones para que las actividades productivas relacionadas con la agricultura, se desarrollen con un margen de rentabilidad, que permita acceder a los estándares mínimos de bienestar y desarrollo sustentable a las familias campesinas;
+II.- Crear las condiciones para que las actividades productivas relacionadas con la agricultura, se desarrollen observando el principio de equidad social, con un margen de rentabilidad, que permita acceder a los estándares mínimos de bienestar y desarrollo sustentable a las familias campesinas;
 
 III.- Rescatar de la cultura tradicional de las comunidades campesinas, todo lo relacionado con la producción armónica de bienes de origen agrícola, de forma múltiple y diversificada;
 
@@ -222,6 +222,10 @@ CNA: Comisión Nacional del Agua.
 Desarrollo: El proceso continuo de cambios cuantitativos y cualitativos, en los que se busca la satisfacción de las necesidades de la sociedad, no solo en aspectos económicos, sino ambientales, sociales y culturales, entre otros.
 
 Desarrollo Sustentable: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico y protección al ambiente, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE MARZO DE 2022)</small>
+
+Equidad social: Conjunto de ideas, principios y valores que implica la aplicación de los derechos y obligaciones para evitar situaciones de exclusión y desigualdad entre los diversos grupos que integran la sociedad.
 
 Etnodesarrollo: Un proceso socioeconómico y cultural, que con autonomía, permite a los actores sociales pertenecientes a etnias, guiar su propia evolución social o desarrollo.
 
@@ -604,6 +608,10 @@ IV.- Participar en el financiamiento a la organización y capacitación de los p
 V.- Impulsar mecanismos de interlocución directa con las organizaciones de productores rurales, para estar en condiciones de recibir y operar eficientemente los proyectos y las acciones diseñados en su beneficio. Asimismo, promover el apoyo financiero necesario para contratar asesorías específicas y especializadas para profesionalizar las actividades que desempeñan sus estructuras económicas, tanto en lo administrativo como en lo operativo; y
 
 VI.- Las demás que se determinen por acuerdo de la Secretaría, con las Dependencias de la Administración Pública Federal y Estatal, los Municipios y las organizaciones sociales, así como las instancias de consulta.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
+
+En el diseño e implementación del Programa Estatal de Financiamiento Rural se deberán aplicar los principios de equidad social y de género, y contemplar preferentemente los proyectos productivos rentables o que generen empleo y aquellos proyectos que empleen tecnologías de mitigación y adaptación a los efectos del cambio climático.
 
 ###### ARTICULO 37.
 
@@ -1300,3 +1308,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 177 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
