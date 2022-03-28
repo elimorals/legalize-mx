@@ -4,7 +4,7 @@ identifier: "HID-ley-del-registro-publico-de-la-propiedad-del-estado-de-104399"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-22"
-last_updated: "2021-09-13"
+last_updated: "2022-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
 Ley publicada en el Alcance Dos del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -203,9 +203,11 @@ El principio de inscripción determina que para que un asiento o anotación prod
 
 El principio de Especialidad tiene como finalidad determinar los bienes objeto de inscripción, a sus titulares, así como el alcance y contenido de los derechos.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 21.
 
-El principio de Tracto Sucesivo, consiste en que para practicar la inscripción a favor de un nuevo adquirente, habrá de constar previamente inscrito el derecho a favor del transferente, permitiendo que los asientos en cada Folio Único Real queden relacionados unos con otros ininterrumpidamente, a fin de mantener la cadena causal y el historial jurídico de forma ininterrumpida.
+El principio de Tracto Sucesivo, consiste en que para practicar la inscripción a favor de un nuevo adquirente, habrá de constar previamente inscrito el derecho a favor del transferente, permitiendo que los asientos en cada Folio Único Real queden relacionados unos con otros ininterrumpidamente, a fin de mantener la cadena causal y el historial jurídico de forma ininterrumpida. A excepción de tratarse de un procedimiento de inmatriculación.
 
 ### CAPITULO TERCERO. De la Estructura y Funcionamiento del Registro
 
@@ -629,9 +631,11 @@ Los derechos, actos, contratos y resoluciones que pueden inscribirse o anotarse 
 
 ### CAPÍTULO CUARTO. De la Primera Inscripción
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 88.
 
-La apertura de un Folio Único Real Electrónico por primera inscripción, tendrá lugar mediante resolución judicial, o bien mediante el título correspondiente en los casos de fusión o subdivisión de inmuebles inscritos.
+La apertura de un Folio Único Real Electrónico por primera inscripción tendrá lugar mediante resolución judicial, por inmatriculación por resolución administrativa emitida por el Registrador del Registro Público de la Propiedad correspondiente, o bien, mediante el título correspondiente en los casos de fusión o subdivisión de inmuebles inscritos.
 
 ###### ARTÍCULO 89.
 
@@ -642,6 +646,40 @@ I. Resolución que acredita hechos de posesión;
 II. Información testimonial para acreditar derechos de posesión y propiedad; y
 
 III. Otra forma que pudiera determinar la autoridad correspondiente, por razones suficientes y con fundamento en derecho.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
+
+###### ARTÍCULO 89 Bis.
+
+La inmatriculación es la inscripción de la propiedad o posesión de un inmueble en el Registro Público de la Propiedad que carece de antecedentes registrales. Para cualquiera de los procedimientos de inmatriculación administrativa, es requisito previo que el Registro Público emita un certificado que acredite que el bien de que se trate no está inscrito, en los términos que se precisen en las disposiciones administrativas que para el efecto se expidan.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
+
+###### ARTÍCULO 89 Ter.
+
+La primera inscripción de inmatriculación por resolución administrativa emitida por el Registrador del Registro Público de la Propiedad correspondiente procederá:
+
+I. Mediante la inscripción del Decreto por el que se incorpora al dominio público estatal un inmueble;
+
+II. Mediante la inscripción del Decreto por el que se desincorpore del dominio público un inmueble, o el título expedido con base en ese Decreto;
+
+III. Mediante la inscripción de un título fehaciente y suficiente para adquirir la propiedad de un inmueble, en los términos del Código Civil para el Estado de Hidalgo;
+
+IV. Mediante la inscripción de la propiedad de un inmueble adquirido por prescripción positiva, en los términos del Código Civil para el Estado de Hidalgo; y
+
+V. La inscripción de parcelas sobre las que se adoptó el dominio pleno en los términos de la Ley Agraria, bastando la copia certificada de la resolución del Tribunal Agrario.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
+
+###### ARTÍCULO 89 Quáter.
+
+La inmatriculación realizada mediante resolución administrativa, no podrá modificarse o cancelarse, sino en virtud de mandato judicial contenido en sentencia irrevocable, dictada en juicio en que haya sido parte el Registrador del Registro Público de la Propiedad correspondiente.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
+
+###### ARTÍCULO 89 Quinquies.
+
+El procedimiento de inmatriculación por resolución administrativa se realizará de conformidad a lo establecido en esta Ley y su Reglamento.
 
 ###### ARTÍCULO 90.
 
@@ -1357,7 +1395,7 @@ El acuerdo de referencia deberá publicarse en el Periódico Oficial del Estado 
 
 CUARTO. En tanto no se emitan los acuerdos correspondientes para el inicio de la aplicación de esta Ley, continuaran aplicándose las disposiciones señaladas en el transitorio segundo y el reglamento en vigor.
 
-QUINTO. El Titular del Ejecutivo del Estado expedirá el Reglamento de la presente Ley, a más tardar en el plazo de 180 días posteriores a la publicación del primer acuerdo que emita el Secretario de Gobierno.
+QUINTO. (DEROGADO, P.O. 28 DE MARZO DE 2022)
 
 AL EJECUTIVO DE LA ENTIDAD, PARA LOS EFECTOS DEL ARTÍCULO 51 DE LA CONSTITUCION POLÍTICA DEL ESTADO DE HIDALGO.- APROBADO EN LA SALA DE SESIONES DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HIDALGO, A LOS CUATRO DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL CATORCE.
 
@@ -1390,3 +1428,11 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 765 POR EL QUE SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 113; Y SE ADICIONA, LA FRACCIÓN XIII BIS AL ARTÍCULO 113 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 181 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. (SIC) El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Titular del Ejecutivo del Estado expedirá el Reglamento de la presente Ley, a más tardar en el plazo de 30 días hábiles posteriores a la publicación del presente Decreto.
