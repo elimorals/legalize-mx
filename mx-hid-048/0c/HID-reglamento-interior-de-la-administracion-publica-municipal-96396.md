@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-administracion-publica-municipal-9639
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-21"
-last_updated: "2021-05-10"
+last_updated: "2022-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
 Reglamento publicado en el Número 42 del Periódico Oficial del Estado de Hidalgo, el lunes 21 de octubre de 2013.
 
@@ -1491,6 +1491,10 @@ II. Dirección de Alumbrado Público; y
 
 III. Dirección de Mercados, Comercio y Abasto.
 
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2022)</small>
+
+IV. Dirección del Rastro Municipal o Dirección del Rastro Municipal Metropolitano.
+
 ###### ARTÍCULO 57.
 
 A la Dirección de Sanidad Municipal le corresponderá el ejercicio de las siguientes atribuciones:
@@ -1523,15 +1527,15 @@ XIII. Administrar y mantener limpio y en buen funcionamiento el horno de cremaci
 
 XIV. Supervisar las actividades que se lleven a cabo en el espacio asignado al área de nichos y resteros (sic);
 
-XV. Hacer cumplir las disposiciones sanitarias vigentes y aplicables al rastro municipal;
+XV. (DEROGADA, P.O. 28 DE MARZO DE 2022)
 
-XVI. Verificar la documentación que acredite la procedencia legítima de los semovientes que ingresen a las instalaciones para su sacrificio y la realización del pago de los impuestos y derechos correspondientes;
+XVI. (DEROGADA, P.O. 28 DE MARZO DE 2022)
 
-XVII. Proporcionar el servicio de refrigeración de los cárnicos en canal;
+XVII. (DEROGADA, P.O. 28 DE MARZO DE 2022)
 
-XVIII. Cumplir con la normatividad vigente en materia de salud pública que permita un control sanitario estricto de la matanza de las distintas especies, permitiéndole al consumidor que la carne que consume se encuentra en perfectas condiciones de consumo; verificando que los productos cárnicos, que ingresen al municipio para su comercialización, acudan a las instalaciones del rastro municipal para el resello, comprobando que reúnan las condiciones de sanidad para el consumo humano, estableciendo la coordinación con las autoridades sanitarias en la vigilancia y cumplimiento de las normas de higiene establecidas en la materia;
+XVIII. (DEROGADA, P.O. 28 DE MARZO DE 2022)
 
-XIX. Cumplir las disposiciones legales y reglamentarias aplicables a los rastros del municipio; supervisar y vigilar que, en el manejo, comercialización y transporte de los productos cárnicos se cumplan las disposiciones sanitarias vigentes, para que estos lleguen para el consumo humano en óptimas condiciones sanitarias; y
+XIX. (DEROGADA, P.O. 28 DE MARZO DE 2022)
 
 XX. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
 
@@ -1590,6 +1594,48 @@ XV. Coordinar con las diferentes Secretarías Municipales, Estatales y Federales
 XVI. Coadyuvar con la Secretaría de Desarrollo Económico en la investigación, gestión, promoción e integración de los proyectos ejecutivos de aquellos programas federales y estatales encaminados al mejoramiento de la infraestructura de los mercados públicos y centrales de abasto del Municipio; y
 
 XVII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
+
+ARTÍCULO 59 BIS.- Corresponde al Titular de la Dirección del Rastro Municipal o Dirección del Rastro Municipal Metropolitano, las siguientes atribuciones:
+
+I. Administrar y vigilar el correcto funcionamiento del Rastro Municipal o Metropolitano de Pachuca de Soto, Hidalgo;
+
+II. Diseñar en coordinación con el Secretario de Servicios Públicos Municipales, los mecanismos de mejora en el funcionamiento, infraestructura y funcionamiento del rastro municipal;
+
+III. Hacer cumplir las disposiciones sanitarias vigentes y aplicables al rastro municipal;
+
+IV. Vigilar la conservación del rastro del Municipio de Pachuca de Soto, Hidalgo;
+
+V. Elaborar ante el Secretario de Servicios Públicos Municipales, la propuesta de las cuotas y tarifas para su integración o derogación en la Ley de Ingresos al año que corresponda;
+
+VI. Sujetarse a las Leyes de Transparencia y Rendición de Cuentas;
+
+VII. Solicitar al Secretario de Servicios Públicos Municipales, los trabajos de mantenimiento para el correcto funcionamiento del rastro municipal;
+
+VIII. Vigilar que los derechos por el uso y aprovechamiento del rastro municipal sean debidamente cobrados por la caja de la Tesorería Municipal ubicada en estas instalaciones;
+
+IX. Informar al Secretario de Servicios Públicos Municipales, sobre la recaudación de manera trimestral;
+
+X. Exigir a los introductores de ganado y aves de corral, los documentos con los que comprueben la propiedad, procedencia de los animales y el pago de derechos de la matanza;
+
+XI. Vigilar que el personal contratado para la operación y funcionamiento del rastro municipal sea de acuerdo a las (sic) sus actividades;
+
+XII. Cuidar el orden, impidiendo toda clase de indisciplina, juegos y discusiones, introducción y consumo de bebidas alcohólicas, en las diferentes áreas del rastro municipal;
+
+XIII. Llevar el libro de registro de sacrificio, uso de corrales y demás actividades desempeñadas en el rastro municipal;
+
+XIV. Firmar los recibos que se expidan, por concepto de los servicios que proporcione el rastro;
+
+XV. Consignar a la autoridad correspondiente, las faltas o delitos que se cometan durante las horas de trabajo y dentro del edificio;
+
+XVI. Hacer cumplir con la normatividad vigente en materia de salud pública que permita un control sanitario estricto de la matanza de las distintas especies, permitiéndole al consumidor que la carne se encuentre en perfectas condiciones de consumo; verificando que los productos cárnicos, que ingresen al Municipio para su comercialización, acudan a las instalaciones del rastro municipal para el resello, comprobando que reúnan las condiciones de sanidad para el consumo humano, estableciendo la coordinación con las autoridades sanitarias en la vigilancia y cumplimiento de las normas de higiene establecidas en la materia.
+
+XVII. Hacer Cumplir las disposiciones legales y reglamentarias aplicables a los rastros del Municipio; supervisar y vigilar que, en el manejo, comercialización y transporte de los productos cárnicos, se cumplan las disposiciones sanitarias vigentes, para que estos lleguen para el consumo humano en óptimas condiciones sanitarias;
+
+XVIII. Vigilar que las carnes que salgan del rastro, lleven marcados los sellos sanitarios y administrativos, así como los recibos por el pago de derechos que se hayan expedido; y
+
+XIX. Las demás que los reglamentos en la materia señalen.
 
 ### CAPÍTULO VII. DE LA SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE
 
@@ -3944,3 +3990,11 @@ P.O. 10 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO MUNICIPAL NÚMERO TRES; POR EL QUE SE REFORMA EL ARTÍCULO 32 Y SE ADICIONA EL ARTÍCULO 32 BIS DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO”.]
 
 ÚNICO.- El presente RESOLUTIVO en vía de DECRETO, entrará en vigor al día siguiente de su publicación, tanto en el Periódico Oficial del Estado de Hidalgo; así como en la Gaceta Oficial del Municipio de Pachuca de Soto, Estado de Hidalgo.
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO VEINTITRÉS, QUE ADICIONA LA FRACCIÓN IV AL ORDINAL 56, DEROGA DIVERSAS DISPOSICIONES DEL ARÁBIGO 57 Y ADICIONA EL DISPOSITIVO 59 BIS, TODOS DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente decreto entrara en vigor, al día siguiente al de su publicación, tanto en el Periódico Oficial del Estado de Hidalgo, así como en la Gaceta Oficial del Municipio de Pachuca de Soto, Hidalgo.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto y autorizado en el presente decreto.
