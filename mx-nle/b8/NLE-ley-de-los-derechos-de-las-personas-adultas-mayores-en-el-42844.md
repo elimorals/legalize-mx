@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-42844
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2021-06-16"
+last_updated: "2022-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de enero de 2005.
 
@@ -357,9 +357,17 @@ IX. Procurar que se lleven a cabo las medidas de seguridad pública y de protecc
 
 X. Formar parte del Consejo Técnico Consultivo de Participación Ciudadana para las Personas Adultas Mayores;
 
-XI. Crear los mecanismos o instancias correspondientes para el cumplimiento de esta Ley; y
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
 
-XII. Las demás que le confieran otros ordenamientos jurídicos.
+XI. Crear los mecanismos o instancias correspondientes para el cumplimiento de esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2022)</small>
+
+XII. Concretar con el Poder Judicial, Municipios y Organismos, los convenios que se requieran para la realización de programas de representación jurídica en lo relativo al juicio sucesorio; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MARZO DE 2022)</small>
+
+XIII. Las demás que le confieran otros ordenamientos jurídicos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
@@ -843,6 +851,12 @@ La Administración Pública del Estado a través de la Secretaría de Desarrollo
 
 La Administración Pública Estatal y Municipal, de conformidad con las disposiciones jurídicas aplicables, podrá promover e instrumentar descuentos en el pago de derechos por los servicios que otorga, cuando el usuario de los mismos sea una Persona Adulta Mayor.
 
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
+
+###### Artículo 38 Bis.
+
+La Administración Pública del Estado y de los Municipios a través de sus órganos correspondientes fomentarán programas permanentes para que las personas Adultas Mayores realicen su testamento pudiendo promover e instrumentar descuentos.
+
 ### CAPÍTULO IV. DE LA ATENCIÓN PREFERENCIAL
 
 ###### Artículo 39.
@@ -1206,3 +1220,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Las acciones que realicen los Tres Poderes del Estado, los Municipios y sus dependencias de administración pública que correspondan para dar cumplimiento al presente decreto, deberán ajustarse en todo momento a lo señalado en los artículos 10, 13 y 14, según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones y el uso de recursos excedentes.
 
 TERCERO. En el caso de que una persona adulta mayor esté siendo incorporada como funcionario público en los términos de la presente Ley, y además tenga una discapacidad de acuerdo con la Ley para la Protección de los Derechos de las Personas con Discapacidad deberá tomarse en consideración dentro del porcentaje del 2% del previsto en el artículo 5° fracción V, inciso e) de la presente Ley.
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 103. SE REFORMAN LAS FRACCIONES XI Y XII DEL ARTÍCULO 10; SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 10, Y UN ARTÍCULO 38 BIS, TODOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN".]
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
