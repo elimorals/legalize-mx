@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-de-la-universidad-tecnologica-el-retono-del-141
 country: "mx"
 rank: "codigo"
 publication_date: "2020-01-13"
-last_updated: "2020-01-13"
+last_updated: "2022-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141171&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE ÉTICA DE LA UNIVERSIDAD TECNOLÓGICA EL RETOÑO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
 Código publicado en la Primera Sección al Número 2 del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de enero de 2020.
 
@@ -551,9 +551,23 @@ IV. Seminarios; o
 
 V. Cualquier otro que la Universidad Tecnológica El Retoño estime conveniente.
 
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
+
+La Universidad Tecnológica el Retoño, impartirá los diversos mecanismos mencionados en líneas que anteceden, dos veces al año, teniendo la duración de tres días consecutivos, a fin de que pueda darse una capacitación correcta a los servidores públicos. Iniciando la primera capacitación en el mes de junio y el segundo de ellos en el mes de enero de cada año.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
+
 ###### Artículo 23.
 
-Mecanismos de difusión. La Universidad Tecnológica el Retoño, a través de su Órgano Interno de Control deberá llevar a cabo las acciones necesarias para emitir, publicar y dar a conocer el presente Código y en su caso sus reformas a todo el personal adscrito a dicha Institución.
+Mecanismos de difusión. La Universidad Tecnológica el Retoño, a través de su Órgano Interno de Control, deberá llevar a cabo las acciones necesarias para emitir, publicar y dar a conocer el presente Código y, en su caso, sus reformas, siendo por los siguientes medios de difusión:
+
+I. Periódico Oficial del Estado de Aguascalientes;
+
+II. La página de internet de la Universidad Tecnológica el Retoño; y
+
+III. En el Correo Universitario de esta Universidad.
+
+De igual forma, se hará entrega a todo el personal adscrito a dicha Institución, de un ejemplar impreso o en su caso, un archivo electrónico del presente Código, así como las reformas que se susciten en el mismo.
 
 ### CAPÍTULO VI. Órgano de Sanción y de Vigilancia
 
@@ -600,3 +614,21 @@ TITULAR DE LA UNIDAD INVESTIGADORA DEL ÓRGANO INTERNO DE CONTROL DE LA UNIVERSI
 LIC. LUIS DAVID VILLALOBOS ORTEGA
 
 TITULAR DE LA UNIDAD SUBSTANCIADORA Y RESOLUTORA DEL ÓRGANO INTERNO DE CONTROL DE LA UNIVERSIDAD TECNOLÓGICA EL RETOÑO DEL MUNICIPIO EL LLANO DEL ESTADO DE AGUASCALIENTES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMAS Y ADICIONES AL CÓDIGO DE ÉTICA DE LA UNIVERSIDAD TECNOLÓGICA EL RETOÑO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Órgano Interno de Control de la Universidad Tecnológica el Retoño deberá dar a conocer de manera inmediata la reforma establecida en el presente Acuerdo.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efecto aquellas disposiciones que se opongan a lo previsto en el presente Acuerdo.
