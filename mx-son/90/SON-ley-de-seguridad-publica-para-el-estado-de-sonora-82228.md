@@ -4,7 +4,7 @@ identifier: "SON-ley-de-seguridad-publica-para-el-estado-de-sonora-82228"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-14"
-last_updated: "2021-02-11"
+last_updated: "2022-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "SON"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE OCTUBRE DE 2020.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL B.O. EL 11 DE FEBRERO DE 2021 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL B.O. DE 1 DE OCTUBRE DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE MARZO DE 2022.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 14 de julio de 2011.
 
@@ -155,7 +153,9 @@ II.- Ejercer, en los términos de la presente Ley, de las Constituciones Federal
 
 III.- Presidir el Consejo Estatal y realizar las funciones que le otorga esta Ley;
 
-IV.- Designar y remover al titular de la Secretaría de Seguridad Pública de conformidad con las bases previstas en esta Ley;
+> <small>(REFORMADA, B.O. 28 DE MARZO DE 2022)</small>
+
+IV.- Nombrar y remover al titular de la Secretaría de Seguridad Pública de conformidad con las disposiciones previstas en esta Ley;
 
 V.- Nombrar y remover libremente al titular de la Policía Estatal de Seguridad Pública; y
 
@@ -543,7 +543,7 @@ III.- Observar que las autoridades de Seguridad Pública del Estado cumplan con 
 
 IV.- Someter a consideración del Ejecutivo Estatal, la propuesta de cinco personas para que una de ellas, ocupe el cargo de Procurador General de Justicia del Estado;
 
-V.- Someter a consideración del Ejecutivo Estatal, la propuesta de tres personas para que una de ellas, ocupe el cargo de Secretario de Seguridad Pública del Estado;
+V.- (DEROGADA, B.O. 28 DE MARZO DE 2022)
 
 VI.- Emitir los lineamientos necesarios para el funcionamiento del Comité Ciudadano de Seguridad Pública del Estado;
 
@@ -578,6 +578,18 @@ XIV.- Actuar como observatorio ciudadano; y
 XV.- Las demás que le confieran la presente Ley, el reglamento respectivo y aquellas que le asignen el Consejo Estatal o el Presidente del mismo.
 
 XVI.- (DEROGADA, B.O. 3 DE NOVIEMBRE DE 2014)
+
+> <small>(ADICIONADO, B.O. 28 DE MARZO DE 2022)</small>
+
+ARTÍCULO 32 BIS.- El Gobernador del Estado nombrará al Secretario de Seguridad Pública. El nombramiento respectivo será remitido al Congreso del Estado para su aprobación en un término improrrogable de diez días hábiles, por la mayoría de los diputados presentes en la sesión respectiva. En caso de que el Congreso del Estado no se pronuncie en el término señalado, se entenderá que el nombramiento fue aprobado.
+
+Si el Congreso rechaza el nombramiento de Secretario de Seguridad Pública, el Gobernador deberá nombrar uno de manera provisional que continuará en el cargo hasta que el Congreso apruebe el nombramiento definitivo.
+
+En caso de ausencia definitiva del Secretario de Seguridad Pública, el Titular del Poder Ejecutivo contará con diez días naturales para enviar un nuevo nombramiento al Congreso en apego a lo dispuesto en este artículo.
+
+> <small>(ADICIONADO, B.O. 28 DE MARZO DE 2022)</small>
+
+ARTÍCULO 32 BIS 1.- El Secretario de Seguridad Pública, deberá rendir la protesta de ley ante el Titular del Poder Ejecutivo.
 
 ###### ARTÍCULO 33.
 
@@ -3070,3 +3082,19 @@ El presente decreto entrara en vigor a los 180 días siguientes de su publicaci�
 ###### ARTÍCULO SEGUNDO.
 
 Para el debido cumplimiento de las disposiciones contenidas en la presente reforma, los ayuntamientos del Estado procuraran celebrar convenios de colaboración con la Comisión Estatal de Derechos Humanos.
+
+B.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 33, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El procedimiento establecido para el nombramiento del Titular de la Secretaría de Seguridad aplicará para las siguientes designaciones.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las normas que se opongan al proceso de designación y disposiciones contenidas en el presente decreto.
