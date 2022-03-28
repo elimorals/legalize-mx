@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asistencia-social-para-el-estado-de-hidalgo-88792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-30"
-last_updated: "2021-05-17"
+last_updated: "2022-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2012.
 
@@ -97,7 +97,9 @@ Para los efectos de esta Ley, se entiende por:
 
 I. Adolescente.- Las personas que tiene (sic) entre 12 años cumplidos y menos de 18 años de edad;
 
-II. Asistencia Social.- El conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física o mental, hasta lograr su incorporación a una vida plena y productiva. La asistencia social comprende acciones de promoción, previsión, prevención, protección y rehabilitación;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+II. Asistencia Social.- El conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral de las personas, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física o mental, hasta lograr su incorporación a una vida plena y productiva. La asistencia social comprende acciones de promoción, previsión, prevención, protección y rehabilitación;
 
 III. Asistencia Social Privada.- Los servicios o actos asistenciales que presten las personas jurídicas constituidas legalmente como: Instituciones de Asistencia Privada, Asociaciones Civiles, Fundaciones y Organizaciones Civiles;
 
@@ -141,7 +143,9 @@ XVI. Igualdad Sustantiva.- Es el acceso al mismo trato y oportunidades para el r
 
 XVII. Indígena.- La persona que se auto adscriba y reconozca a sí misma, como miembro de pueblos o comunidades indígenas, lo cual implica asumir como propios los rasgos sociales, históricos y las pautas culturales que lo caracterizan;
 
-XVIII. Integración social.- Proceso de desarrollo de capacidades para que los individuos, familias o grupos sujetos de asistencia social puedan reincorporarse a la vida comunitaria con pleno respeto a su dignidad, identidad y derechos sobre la base de la igualdad y equidad de oportunidades;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+XVIII. Integración social.- Proceso de desarrollo de capacidades para que las personas, familias o grupos sujetos de asistencia social puedan reincorporarse a la vida comunitaria con pleno respeto a su dignidad, identidad y derechos sobre la base de la igualdad y equidad de oportunidades;
 
 XIX. Instituciones de Asistencia Social Privada.- Entidades jurídicas debidamente constituidas conforme a Ley, que con bienes de propiedad particular se dedican a ejecutar actos cuyos fines son humanitarios, de asistencia, sin propósito de lucro y sin designar individualmente a los beneficiarios;
 
@@ -431,13 +435,11 @@ VI.- Respetar a la persona que preste el servicio o auxilio, así como, conserva
 
 Los servicios y acciones que se diseñen, implementen y ejecuten por parte del Organismo, serán con base a indicadores y a la metodología de marco lógico, mismos que deberán revisarse de manera anual y estar vinculados con el proceso presupuestario, dando respuesta a la prevención, atención de problemas o necesidades asistenciales identificadas en los grupos vulnerables, de conformidad con la legislación aplicable.
 
-> <small>[N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA MEDIANTE DECRETO 572 EN EL P.O. DE 20 DE ENERO DE 2021, SE ADVIERTE QUE SE ELIMINÓ EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO, VÉASE PÁGINA 25.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2022)</small>
 
 ###### Artículo 11.
 
-Se consideran servicios de asistencia social, al conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física y/o mental, hasta lograr su incorporación a una vida plena y productiva, como son los siguientes:
+Se consideran servicios de asistencia social, al conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral de las personas, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física y/o mental, hasta lograr su incorporación a una vida plena y productiva, como son los siguientes:
 
 > <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
 
@@ -447,7 +449,9 @@ I.- La prestación de servicios de asistencia jurídica;
 
 II.- La atención en espacios especializados para quienes son sujetos de esta Ley;
 
-III.- El otorgamiento de atención de carácter integral en donde se impulse el desarrollo y bienestar de individuos, la familia y grupos de manera corresponsable;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+III.- El otorgamiento de atención de carácter integral en donde se impulse el desarrollo y bienestar de las personas, la familia y grupos de manera corresponsable;
 
 IV.- El desarrollo comunitario mediante la participación activa, consciente, organizada y con corresponsabilidad de la sociedad;
 
@@ -469,7 +473,9 @@ XII.- La promoción de acciones para preparar a las personas para vivir su etapa
 
 XIII.- La entrega de apoyos a familias en situación de vulnerabilidad que presenten problemáticas emergentes económicas, de salud y/o sociales con apoyos temporales en especie;
 
-XIV.- Las análogas y conexas a las anteriores que tienden a incrementar o modificar las capacidades físicas, mentales y sociales de los individuos y familias que faciliten su desarrollo integral;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+XIV. Las análogas y conexas a las anteriores que tienden a incrementar o modificar las capacidades físicas, mentales y sociales de las personas y familias que faciliten su desarrollo integral;
 
 XV.- La realización de investigaciones sobre las causas y efectos de la problemática social vigente y sus tendencias en materia de asistencia social;
 
@@ -1586,3 +1592,9 @@ P.O. 17 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 712 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 173 POR EL QUE SE REFORMAN LAS FRACCIONES II Y XVIII DEL ARTÍCULO 2; EL PRIMER PÁRRAFO Y LAS FRACCIONES III Y XIV DEL ARTÍCULO 11 DE LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
