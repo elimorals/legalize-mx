@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2021-09-13"
+last_updated: "2022-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -95,7 +95,9 @@ VIII. Todos aquellos contenidos en la Constitución Política de los Estados Uni
 
 La aplicación y debida observancia de esta ley será en los ámbitos público y privado y corresponde a la Administración Pública Estatal y Municipal, de conformidad con sus respectivas competencias, debiendo tomar las medidas presupuestales y administrativas que permitan garantizar la igualdad sustantiva y de trato, sin discriminación de cualquier tipo.
 
-En lo no previsto en esta ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones de la Ley para Prevenir, Atender, Sancionar y Eliminar la Discriminación del Estado de Hidalgo, la Ley de Derechos Humanos del Estado de Hidalgo, los instrumentos internacionales ratificados por el Estado mexicano y los demás ordenamientos aplicables en la materia.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
+
+En lo no previsto en esta ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones de la Ley para Prevenir, Atender, Sancionar y Eliminar la Discriminación del Estado de Hidalgo, la Ley de Derechos Humanos del Estado de Hidalgo, Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Hidalgo, Ley de los derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo, los instrumentos internacionales ratificados por el Estado mexicano y los demás ordenamientos aplicables en la materia.
 
 ###### Artículo 4.
 
@@ -328,6 +330,18 @@ XVII. Establecer medidas para fortalecer el acceso de las mujeres a sus derechos
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 XVIII. Promover la participación de las mujeres rurales.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
+
+###### Artículo 15 Bis.
+
+En el diseño, planeación e implementación de la Política Estatal en materia de Igualdad, así como en los planes, programas, lineamientos y/o en toda política pública que tenga como eje rector la igualdad sustantiva entre mujeres y hombres, se deberán observar criterios generales y particulares en función de la información, registros, diagnósticos y estadísticas que permitan identificar y diferenciar la condición y posición de la vida de las mujeres y los hombres.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
+
+###### Artículo 15 Ter.
+
+En la recopilación de información, registros, diagnósticos y estadísticas, se deberán considerar las categorías de análisis que permitan identificar las desigualdades entre mujeres y hombres.
 
 ### CAPÍTULO TERCERO. DE LA COMISIÓN DE IGUALDAD Y NO DISCRIMINACIÓN
 
@@ -880,3 +894,9 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 749 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 180 QUE EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 3 Y SE ADICIONA EL ARTÍCULO 15 BIS Y EL ARTÍCULO 15 TER A LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
