@@ -4,7 +4,7 @@ identifier: "HID-ley-de-transito-y-seguridad-vial-para-el-estado-de-hidalgo-1436
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-20"
-last_updated: "2021-05-12"
+last_updated: "2022-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de julio de 2020.
 
@@ -506,6 +506,10 @@ Las autoridades estatales y municipales tomarán las medidas necesarias para evi
 Se podrá utilizar cualquier espacio de la vía pública para estacionamiento, cuando no entorpezca rutas de acceso a inmuebles y observando los señalamientos viales, las disposiciones señaladas en la presente Ley y su Reglamento.
 
 Las autoridades estatales y municipales, dentro de sus respectivas competencias, fijarán los señalamientos, horarios y los días de la semana en que exista la prohibición de estacionarse en los lugares que estos determinen.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
+
+Artículo 33 bis. Las autoridades estatales y municipales promoverán que en los estacionamientos exista infraestructura y espacios exclusivos para bicicletas y motocicletas.
 
 ###### Artículo 34.
 
@@ -1660,3 +1664,11 @@ P.O. 12 DE MAYO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. El Poder Ejecutivo del Estado, dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, deberá prever de la esfera administrativa necesaria para el cumplimiento de este Decreto y expedir el protocolo relativo al aseguramiento de personas menores de edad.
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 171 QUE ADICIONA EL ARTÍCULO 33 BIS DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Estado y los Municipios, dentro (sic) ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, deberá prever de la esfera administrativa necesaria para el cumplimiento de este Decreto.
