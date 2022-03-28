@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2021-12-27"
+last_updated: "2022-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -299,9 +299,11 @@ VI. Realizar cualquier acto u omisión que altere sustancialmente el orden públ
 
 VII. La existencia entre los miembros de un ayuntamiento, de conflictos que hagan imposible el cumplimiento de los fines del mismo o el ejercicio de sus competencias y atribuciones.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
+
 ###### Artículo 31.
 
-El procedimiento para declarar la suspensión de un Ayuntamiento, se sujetará a la forma y términos que prescribe la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, en materia de Juicio Político. En caso de proceder la suspensión del Ayuntamiento, el Congreso del Estado nombrará un Concejo Municipal que lo sustituya para terminar el período respectivo, en términos del segundo párrafo del Artículo de esta Ley.
+El procedimiento para declarar la suspensión de un Ayuntamiento se sujetará a la forma y términos que prescribe la Ley de Responsabilidades Administrativas del Estado de Aguascalientes en materia de Juicio Político. En caso de proceder la suspensión del Ayuntamiento, el Congreso del Estado nombrará un Concejo Municipal que lo sustituya para terminar el período respectivo, en términos del segundo párrafo del Artículo 20 de esta Ley.
 
 ###### Artículo 32.
 
@@ -375,11 +377,13 @@ VI. Vigilar la administración de sus respectivas haciendas, cuidando que se obs
 
 VII. Proporcionar al Congreso toda la información y documentación que éste requiera, a fin de que se practique una adecuada supervisión y fiscalización de las cuentas públicas municipales;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
 
-VIII. Nombrar al Secretario de Finanzas o al funcionario que deberá ejercer esa función, estableciendo la forma en que deberá caucionar su manejo, de conformidad con el reglamento correspondiente;
+VIII. Nombrar al Secretario de Finanzas o al funcionario que deberá ejercer esa función, estableciendo la forma en que deberá caucionar su manejo y considerando el principio de paridad de género;
 
-IX. Nombrar al Secretario del Ayuntamiento, así como a los servidores públicos que en auxilio del Síndico, habrán de ejercer la procuración, defensa, promoción y representación jurídica en los litigios en que el Municipio fuere parte, de conformidad con el reglamento correspondiente;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+IX. Nombrar al Secretario del Ayuntamiento considerando el principio de paridad de género, así como a los servidores públicos que en auxilio del Síndico, habrán de ejercer la procuración, defensa, promoción y representación jurídica en los litigios en que el Municipio fuere parte;
 
 X. Coordinarse y asociarse con otros ayuntamientos, para la eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que le corresponden;
 
@@ -549,9 +553,17 @@ j. Designar a los integrantes del Sistema Municipal de Prevención, Atención, S
 
 k. Aprobar el Programa Municipal para prevenir, atender, sancionar y erradicar la violencia, el cual se diseñará con base a la perspectiva de género;
 
-l. Constituir el Mecanismo Municipal de Adelanto a favor de las Mujeres, a efecto de impulsar y apoyar la aplicación de las políticas, estrategias y acciones, dirigidas al desarrollo de las mujeres del Municipio, a fin de lograr su plena participación en los ámbitos económico, político, social, cultural, laboral y educativo; y
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
 
-m. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta Ley u otros ordenamientos legales;
+l. Constituir el Mecanismo Municipal de Adelanto a favor de las Mujeres, a efecto de impulsar y apoyar la aplicación de las políticas, estrategias y acciones, dirigidas al desarrollo de las mujeres del Municipio, a fin de lograr su plena participación en los ámbitos económico, político, social, cultural, laboral y educativo;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE MARZO DE 2022)</small>
+
+m. Verificar que el Presidente Municipal designe a los titulares de las dependencias y entidades de la administración pública municipal paritariamente entre el género femenino y el masculino; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 28 DE MARZO DE 2022)</small>
+
+n. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta Ley u otros ordenamientos legales;
 
 > <small>(REFORMADA, P.O. 4 DE ABRIL DE 2016)</small>
 
@@ -567,13 +579,17 @@ d) Promover créditos financieros, estímulos fiscales y capacitación para los 
 
 e) Implementar acciones para que la juventud se integre a actividades deportivas y de recreación de acuerdo a sus intereses personales.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
 
-LXI. Fomentar e impulsar la innovación educativa, científica y tecnológica en todos los ámbitos que le establece la Ley General de Educación, así como en el caso de las de las (sic) micro y pequeñas empresas, instrumentar acciones y políticas públicas encaminadas a su crecimiento y consolidación, a la par de fomentar el autoempleo; y
+LXI. Fomentar e impulsar la innovación educativa, científica y tecnológica en todos los ámbitos que le establece la Ley General de Educación, así como en el caso de las micro y pequeñas empresas, instrumentar acciones y políticas públicas encaminadas a su crecimiento y consolidación, a la par de fomentar el autoempleo;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2022)</small>
 
-LXII. Las demás que le confieran la presente Ley y otras disposiciones legales.
+LXII. Nombrar al titular del órgano interno de control; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MARZO DE 2022)</small>
+
+LXIII. Las demás que le confieran la presente Ley y otras disposiciones legales.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
 
@@ -600,6 +616,10 @@ IV. Tomar la protesta de Ley a los regidores y síndicos, funcionarios y emplead
 > <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
 
 V. Proponer al Ayuntamiento los nombramientos del Secretario del Ayuntamiento, Titular de la Policía Preventiva y de Tránsito, Secretario de Finanzas y los recaudadores de fondos de la Hacienda Municipal, así como nombrar a los demás funcionarios públicos municipales;
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
+
+En el ejercicio de la presente facultad se deberá considerar el principio de paridad (sic) género.
 
 VI. Presidir y dirigir las sesiones que deba celebrar el Ayuntamiento;
 
@@ -649,13 +669,17 @@ XXIII. Abstenerse durante el ejercicio de sus funciones, de solicitar, aceptar, 
 
 XXIV. Supervisar los procedimientos que instaure el Sistema Municipal para el Desarrollo Integral de la Familia en materia de violencia familiar, en términos de las disposiciones en materia de Violencia Familiar del Estado y sus Reglamentos;
 
-> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
 
-XXV. Substanciar, en su calidad de superior jerárquico, los recursos que se interpongan con motivo de la tramitación y expedición de las órdenes de protección y de los procedimientos en materia de violencia familiar, citados en las dos Fracciones anteriores; y
+XXV. Substanciar, en su calidad de superior jerárquico, los recursos que se interpongan con motivo de la tramitación y expedición de las órdenes de protección y de los procedimientos en materia de violencia familiar, citados en las dos Fracciones anteriores;
 
-> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2022)</small>
 
-XXVI. Las demás que le confieran las leyes, reglamentos o demás disposiciones en la materia.
+XXVI. Proponer al Ayuntamiento una terna para ocupar el cargo de titular del órgano interno de control.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MARZO DE 2022)</small>
+
+XXVII. Las demás que le confieran las leyes, reglamentos o demás disposiciones en la materia.
 
 ###### Artículo 39.
 
@@ -715,9 +739,9 @@ XIII. Procurar la regularización de la propiedad de los bienes del Municipio;
 
 XIV. Asociarse a las comisiones, cuando se trate de dictámenes o resoluciones que afecten al Municipio;
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
 
-XV. Verificar que los funcionarios y empleados municipales cumplan con las declaraciones de situación patrimonial que correspondan, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes;
+XV. Verificar que los funcionarios y empleados municipales cumplan con las declaraciones de situación patrimonial que corresponda, en los términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
 
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
@@ -791,15 +815,27 @@ Las faltas de los regidores no se cubrirán, cuando no excedan de treinta días 
 
 Para el ejercicio de sus atribuciones y responsabilidades ejecutivas, el Ayuntamiento se auxiliará con las dependencias y entidades de la administración pública municipal, que en cada caso acuerde el Cabildo a propuesta del Presidente Municipal, las que estarán subordinadas a este servidor público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2022)</small>
+
 ###### Artículo 48.
 
-Para el despacho, estudio y planeación de los diversos asuntos de la administración municipal, el Ayuntamiento contará por lo menos con las siguientes dependencias:
+Para el despacho, estudio, planeación y supervisión de los diversos asuntos de la administración municipal, el Ayuntamiento contará por lo menos con las siguientes dependencias:
 
-I. La Secretaría del Ayuntamiento; y
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+I. La Secretaría del Ayuntamiento;
 
-II. La Secretaría de Finanzas.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+II. La Secretaría de Finanzas; y
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2022)</small>
+
+III. El Órgano Interno de Control.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
+
+El titular del órgano interno de control deberá ser nombrado por el Ayuntamiento. El Presidente Municipal en un plazo no mayor de 30 días hábiles después de la instalación del Ayuntamiento, someterá en la sesión de cabildo una terna de candidatos a ocupar dicho cargo, quienes serán entrevistados por los miembros del Ayuntamiento con derecho a voz y voto, seleccionando a la persona más idónea para ocupar el cargo, mediante la votación de la mayoría relativa de los miembros del Ayuntamiento.
 
 ###### Artículo 49.
 
@@ -860,6 +896,34 @@ VI. No haber sido sancionado administrativamente por actos de violencia de géne
 > <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
 VII. Cumplir con otros requisitos que señalen las leyes correspondientes, o los que acuerde el propio Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
+
+###### Artículo 51 Bis.
+
+El titular del órgano interno de control deberá cumplir con los siguientes requisitos:
+
+I.- Ser ciudadano mexicano en pleno uso de sus derechos políticos y civiles y ser vecino del municipio del Ayuntamiento que lo nombre;
+
+II.- Contar con título de licenciatura en Derecho o Contaduría Pública y cédula profesional debidamente registrada ante la Secretaría de Educación Pública;
+
+(NOTA: EL 30 DE ABRIL 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 84/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2022)</small>
+
+III.- NO HABER SIDO CANDIDATO A ALGÚN PUESTO DE ELECCIÓN POPULAR DENTRO DE LOS CINCO AÑOS ANTERIORES A SU NOMBRAMIENTO;
+
+(NOTA: EL 12 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE FEBRERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+IV.- NO HABER SIDO CONDENADO POR DELITO INTENCIONAL;
+
+(NOTA: EL 12 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE FEBRERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+V.- NO HABER SIDO INHABILITADO PARA DESEMPEÑAR OTRO CARGO, EMPLEO O COMISIÓN PÚBLICA; Y
+
+VI.- Ser electo por los votos en el mismo sentido de cuando menos la mitad más uno de los miembros del Ayuntamiento con derecho a voz y voto en las sesiones de Cabildo.
 
 ### CAPITULO SEGUNDO. Formalidades de los Actos Jurídicos Municipales
 
@@ -1379,9 +1443,11 @@ III. Una relación que señale el marco jurídico de actuación de la dependenci
 
 Los servidores públicos salientes harán constar por escrito cuando así proceda la renuncia o la causa o motivo de separación del empleo, cargo o comisión.
 
-###### Artículo 103.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
 
-Las contralorías municipales, en el ámbito de sus respectivas atribuciones, quedan facultadas para dictar las disposiciones que requieran para la adecuada aplicación y cumplimiento del contenido de este capítulo, con aprobación de la mayoría del Ayuntamiento y en base a las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+###### Articulo 103.
+
+Los Órganos Internos de Control en el ámbito de sus respectivas atribuciones, quedan facultados para dictar las disposiciones que se requieran para la adecuada aplicación y cumplimiento del contenido de este capítulo, con aprobación de la mayoría del Ayuntamiento y con base en las disposiciones de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE AGOSTO DE 2008)</small>
 
@@ -1541,11 +1607,29 @@ Las sesiones del ayuntamiento serán presididas por el Presidente Municipal o po
 
 Los ayuntamientos, en caso de emergencia nacional o estatal de carácter sanitaria o de protección civil determinada por la autoridad competente, y por el tiempo que dure ésta, podrán sesionar a distancia mediante el uso de las tecnologías de la información y comunicación o medios electrónicos disponibles, que permitan la transmisión en vivo en la página de internet de los municipios, y en las cuales se deberá garantizar la correcta identificación de sus integrantes, sus intervenciones, así como el sentido de la votación.
 
-###### Artículo 111.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
 
-Las sesiones de Cabildo serán: ordinarias, extraordinarias, solemnes y secretas; excepto éstas últimas las demás tendrán el carácter de públicas.
+###### Articulo 111.
 
-Las sesiones ordinarias deberán celebrarse el primer lunes de cada mes, los regidores y síndicos deberán ser citados a toda sesión, con tres días naturales de anticipación como mínimo por el Presidente Municipal, a través del Secretario del Ayuntamiento, proveyendo lo necesario para que se anexen los documentos que sustenten los puntos a tratar en el orden del día; son sesiones extraordinarias, las que se celebren entre los períodos de las ordinarias y se trataren exclusivamente el o los asuntos para el que fue convocado el Cabildo, y serán citados por el Presidente Municipal o a petición de uno de sus integrantes regidores o síndicos; serán sesiones solemnes, aquellas que la ley así lo determine y las que el Ayuntamiento les dé ese carácter, y serán sesiones secretas, las que así acuerde el Ayuntamiento previamente.
+Las sesiones del ayuntamiento podrán ser ordinarias y extraordinarias.
+
+Las sesiones ordinarias deberán celebrarse cada mes el día y hora que determine el ayuntamiento, las sesiones extraordinarias se celebrarán entre los períodos de las ordinarias y se tratarán en ellas exclusivamente el o los asuntos para los que fue convocada.
+
+Todas las sesiones tendrán el carácter de públicas por lo que podrá asistir cualquier ciudadano que así desee hacerlo con el objeto de presenciar su desarrollo, sólo se prohibirá el acceso a quienes se encuentren armados, en estado de ebriedad o bajo influencia de drogas o psicotrópicos o podrá restringirse el aforo por motivos de salubridad, seguridad o protección civil.
+
+Las sesiones ordinarias y extraordinarias a su vez podrán tener las siguientes categorías:
+
+I. Solemnes:
+
+II. De Cabildo Abierto, y
+
+III. A Distancia.
+
+Son sesiones solemnes aquellas que la ley así lo determine y las que el Ayuntamiento les dé ese carácter y en ellas se observará el ceremonial que establezca la reglamentación de cada municipio.
+
+Son sesiones de cabildo abierto aquellas que se realizan en un foro público con la participación de los ciudadanos, los cuales podrán exponer frente al ayuntamiento planteamientos sobre temas específicos.
+
+Son sesiones A Distancia aquellas que se llevan a cabo a través de herramientas tecnológicas digitales que permiten su desarrollo virtual, en caso de contingencias sanitarias, por causas de fuerza mayor o caso fortuito, que no permitan o dificulten la reunión física de una parte o la totalidad de los integrantes del ayuntamiento.
 
 ###### Artículo 112.
 
@@ -2630,3 +2714,27 @@ P.O. 27 DE DICIEMBRE DE 2021.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 98.- SE REFORMA LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se Derogan todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 100.- SE REFORMA LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos de los municipios del Estado de Aguascalientes, deberán reformar sus disposiciones municipales con el objeto de adecuarlas al mismo, en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente decreto.
