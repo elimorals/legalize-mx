@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1170
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-07"
-last_updated: "2021-11-22"
+last_updated: "2022-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de noviembre de 2016.
 
@@ -285,17 +285,25 @@ V. Haber residido en el Estado durante los dos años anteriores al día de la de
 
 VI. Durante el año previo al día de su nombramiento, no haber tenido cargo de elección popular ni de dirección nacional, estatal o municipal en algún partido político; de Secretario, Subsecretario o su equivalente en la administración pública estatal o municipal; de Director General de alguna entidad paraestatal o paramunicipal; de Magistrado o Juez del Poder Judicial del Estado; y no haber sido titular o miembro del máximo órgano de dirección de otro organismo autónomo del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2022)</small>
+
 ###### Artículo 18.
 
-Los comisionados serán electos por el Congreso del Estado mediante el siguiente procedimiento:
+Los Comisionados serán electos por el Congreso del Estado mediante el siguiente procedimiento:
 
-I. La Comisión de Gobierno, sesenta días antes de que concluya su encargo alguno de los comisionados, emitirá convocatoria a fin de realizar una amplia consulta a la sociedad para recibir propuestas de candidatos. La convocatoria deberá difundirse en el Periódico Oficial del Estado, en un diario local de mayor circulación y en el portal de internet del Congreso del Estado.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE MARZO DE 2022)</small>
+
+I. La Junta de Coordinación Política, sesenta días antes de que concluya su encargo alguno de los comisionados, emitirá convocatoria a fin de realizar una amplia consulta a la sociedad para recibir propuestas de candidatos. La convocatoria deberá difundirse en el Periódico Oficial del Estado, en un diario local de mayor circulación y en el portal de internet del Congreso del Estado.
 
 Toda propuesta deberá acompañarse con la documentación que acredite que el candidato cumple con los requisitos de Ley;
 
-II. La Comisión de Gobierno podrá adoptar los acuerdos legislativos que estime pertinentes a fin de recabar elementos sobre la experiencia que los candidatos tengan en materia de acceso a la Información y protección de Datos Personales de los candidatos;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
 
-III. La Comisión de Gobierno informará al Pleno Legislativo cuáles candidatos cumplen con los requisitos de ley así como su experiencia en materia de acceso a la Información y protección de Datos Personales;
+II. La Comisión de Transparencia y Anticorrupción podrá adoptar los acuerdos legislativos que estime pertinentes a fin de recabar elementos sobre la experiencia que los candidatos tengan en materia de acceso a la Información y protección de Datos Personales de los candidatos;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+III. La Comisión de Transparencia y Anticorrupción informará al Pleno Legislativo cuáles candidatos cumplen con los requisitos de Ley así como su experiencia en materia de acceso a la Información y protección de Datos Personales;
 
 IV. El Pleno Legislativo elegirá mediante el voto de las dos terceras partes de los diputados presentes, procurando privilegiar la experiencia en materia de acceso a la Información y protección de Datos Personales, así como la igualdad de género.
 
@@ -307,7 +315,9 @@ V. Una vez que el nombramiento haya quedado firme por haberse superado la objeci
 
 El nombramiento de algún Comisionado podrá ser objetado por el Gobernador del Estado en un plazo de 10 días hábiles contados a partir de que el Congreso del Estado le comunique la designación; si no lo objeta dentro de dicho plazo, ocupará el cargo el Comisionado nombrado.
 
-En caso de que el Gobernador del Estado objete el nombramiento, la Comisión de Gobierno incluirá tal objeción en su informe y el Pleno Legislativo elegirá nuevamente al Comisionado, conforme a lo dispuesto en el Artículo 18 Fracción IV de esta Ley.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
+
+En caso de que el Gobernador del Estado objete el nombramiento, la Junta de Coordinación Política incluirá tal objeción en su informe y el Pleno Legislativo elegirá nuevamente al Comisionado, conforme a lo dispuesto en el Artículo 18 Fracción IV de esta Ley.
 
 Si el segundo nombramiento es objetado se procederá en términos del párrafo anterior, pero una vez logrado un tercer nombramiento ya no podrá presentarse objeción y el elegido ocupará la vacante.
 
@@ -365,9 +375,11 @@ La falta de algún Comisionado será suplida por el Secretario Ejecutivo; si se 
 
 #### SECCIÓN TERCERA. De la estructura orgánica del ITEA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2022)</small>
+
 ###### Artículo 24.
 
-Para su correcto funcionamiento del ITEA tendrá la siguiente estructura administrativa para la gestión y el desempeño de sus atribuciones:
+Para su correcto funcionamiento, el ITEA tendrá la siguiente estructura administrativa para la gestión y el desempeño de sus atribuciones:
 
 I. El Pleno;
 
@@ -377,7 +389,9 @@ III. El Consejo Consultivo;
 
 IV. La Secretaría Ejecutiva;
 
-V. La Contraloría Interna; y
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+V. El Órgano Interno de Control; y
 
 VI. Las demás direcciones o unidades administrativas que establezcan las disposiciones reglamentarias aplicables.
 
@@ -411,9 +425,11 @@ VIII. Autorizar al Presidente, cuando así se requiera, realizar los actos previ
 
 IX. Nombrar, a propuesta del Presidente, al Secretario Ejecutivo y demás estructura orgánica necesaria para el funcionamiento del ITEA, debiendo respetar el principio de paridad y equidad entre hombres y mujeres;
 
-X. Nombrar al Contralor Interno;
+X. (DEROGADA, P.O. 28 DE MARZO DE 2022)
 
-XI. Aprobar el programa anual de trabajo de la Contraloría Interna, así como los planes de trabajo anuales de las áreas que conforman el ITEA; y
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+XI. Aprobar el programa anual de trabajo del Órgano Interno de Control, así como los planes de trabajo anuales de las áreas que conforman el ITEA; y
 
 XII. Las demás que deriven de la Ley General, el presente ordenamiento y demás disposiciones legales, reglamentarias y administrativas.
 
@@ -483,13 +499,19 @@ Para ser Consejero, además de los requisitos referidos en el párrafo anterior,
 
 Los Consejeros serán electos por el Congreso del Estado mediante el siguiente procedimiento:
 
-I. La Comisión de Gobierno, sesenta días antes de que concluya su encargo alguno de los Consejeros, emitirá convocatoria a fin de realizar una amplia consulta a la sociedad para recibir propuestas de candidatos. La convocatoria deberá difundirse en el Periódico Oficial del Estado, en un diario de mayor circulación en el Estado y en el portal de internet del Congreso del Estado.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+I. La Comisión de Transparencia y Anticorrupción, sesenta días antes de que concluya su encargo alguno de los Consejeros, emitirá convocatoria a fin de realizar una amplia consulta a la sociedad para recibir propuestas de candidatos. La convocatoria deberá difundirse en el Periódico Oficial del Estado, en un diario de mayor circulación en el Estado y en el portal de internet del Congreso del Estado.
 
 Toda propuesta deberá acompañarse con la documentación que acredite que el candidato cumple con los requisitos de Ley;
 
-II. La Comisión de Gobierno podrá adoptar los acuerdos legislativos que estime pertinentes a fin de recabar elementos sobre la experiencia que los candidatos tengan en materia de acceso a la Información y protección de Datos Personales, así como en materia de derechos humanos;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
 
-III. La Comisión de Gobierno informará al Pleno Legislativo cuáles candidatos cumplen con los requisitos de ley así como su experiencia en materia de acceso a la Información y protección de Datos Personales, así como en materia de derechos humanos;
+II. La Comisión de Transparencia y Anticorrupción podrá adoptar los acuerdos legislativos que estime pertinentes a fin de recabar elementos sobre la experiencia que los candidatos tengan en materia de acceso a la Información y protección de Datos Personales, así como en materia de derechos humanos;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+III. La Comisión de Transparencia y Anticorrupción informará al Pleno Legislativo cuáles candidatos cumplen con los requisitos de ley así como su experiencia en materia de acceso a la Información y protección de Datos Personales, así como en materia de derechos humanos;
 
 IV. El Pleno Legislativo elegirá mediante el voto de la mayoría de sus integrantes, procurando privilegiar la experiencia en materia de acceso a la Información, protección de Datos Personales y derechos humanos, así como la igualdad de género.
 
@@ -535,29 +557,47 @@ XII. Tener fe pública respecto a hechos o actos relacionados con las atribucion
 
 XIII. Las demás que les sean encomendadas por los comisionados o se prevean en otras disposiciones legales o reglamentarias aplicables.
 
-#### SECCIÓN OCTAVA. De la Contraloría Interna
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MARZO DE 2022)</small>
+
+#### SECCIÓN OCTAVA. Del Órgano Interno de Control
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
 
 ###### Artículo 35.
 
-La Contraloría Interna es el órgano interno de control del ITEA, encargado de sustanciar y resolver los procedimientos establecidos en la Ley de Responsabilidades de los Servidores Públicos y demás actividades que señale la presente Ley.
+El Órgano Interno de Control es la unidad administrativa del ITEA encargada de promover, evaluar y fortalecer el buen funcionamiento del control interno; tendrá a su cargo la investigación, calificación y sustanciación de las faltas administrativas no graves en los procedimientos previstos en la Ley de Responsabilidades Administrativas del Estado, así como las funciones previstas en la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2022)</small>
 
 ###### Artículo 36.
 
-El Contralor Interno será elegido y removido por el Pleno del ITEA mediante el voto de la mayoría de los comisionados, y deberá cumplir los siguientes requisitos:
+El titular del Órgano Interno de Control será designado conforme a lo previsto en el artículo 27 fracción XXXVIII de la Constitución Política del Estado de Aguascalientes, siguiendo las reglas que se establecen en la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes, durará en su encargo cuatro años y deberá cumplir con los siguientes requisitos:
 
 I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles, nacido o con vecindad mínima de cinco años en el Estado anterior al día de su designación;
 
 II. Tener por lo menos treinta años de edad al día de su designación;
 
-III. Contar con título profesional de Licenciado en Derecho, Contabilidad o Administración o equivalente y con experiencia profesional de al menos cinco años en el control, manejo o fiscalización de recursos;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
 
-IV. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación a despachos de consultoría o auditoría que hubieren prestado sus servicios al ITEA; y
+III. Contar con título y cédula profesional de Licenciado en Derecho, Contabilidad o Administración o equivalente y con experiencia profesional de al menos cinco años en el control, manejo o fiscalización de recursos;
 
-V. No haber sido condenado por delito doloso.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+IV. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación a despachos de consultoría o auditoría que hubieren prestado sus servicios al ITEA;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+V. No haber sido condenado por delito doloso; y
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2022)</small>
+
+VI. No estar inhabilitado para desempeñar una función, cargo o comisión en el servicio público.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2022)</small>
 
 ###### Artículo 37.
 
-La Contraloría Interna se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, máxima publicidad, exhaustividad y transparencia; asimismo tendrá las siguientes atribuciones:
+El Órgano Interno de Control se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, máxima publicidad, exhaustividad y transparencia; asimismo tendrá las siguientes atribuciones:
 
 I. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas del ITEA;
 
@@ -567,7 +607,9 @@ III. Requerir a terceros que hubieran contratado bienes o servicios con el ITEA,
 
 IV. Solicitar y obtener la Información necesaria para el cumplimiento de sus funciones;
 
-V. Instruir, desahogar y resolver los procedimientos administrativos respecto de las quejas o denuncias que se presenten en contra de los Servidores Públicos del ITEA, y llevar el registro de los Servidores Públicos sancionados;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+V. Investigar, substanciar y resolver los procedimientos de responsabilidad administrativa respecto de las quejas o denuncias que se presenten en contra de los Servidores Públicos del ITEA, así como llevar el registro de los Servidores Públicos sancionados;
 
 VI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de los recursos del ITEA;
 
@@ -583,7 +625,9 @@ XI. Intervenir en los procesos de entrega-recepción por inicio o conclusión de
 
 XII. Participar, a través de su titular, con voz pero sin voto, en las sesiones del Pleno cuando así lo considere necesario el Presidente;
 
-XXIII (SIC). Auxiliar con la elaboración del proyecto de Cuenta Pública para que el ITEA le dé el trámite correspondiente en términos de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+XIII. Auxiliar con la elaboración del proyecto de Cuenta Pública para que el ITEA le dé el trámite correspondiente en términos de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios;
 
 XIV. Mantener una estrecha relación de colaboración y apoyo con el Órgano Superior de Fiscalización del Estado de Aguascalientes;
 
@@ -593,7 +637,9 @@ XVI. Promover y sugerir en el ámbito de su competencia, la aplicación de medid
 
 XVII. Presentar las denuncias que correspondan ante el Ministerio Público;
 
-XVIII. Las demás funciones que le atribuyan la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, otras disposiciones legales y reglamentarias, así como aquellas que le confiera el Pleno.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+XVIII. Las demás funciones que le atribuyan la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, otras disposiciones legales y reglamentarias, así como aquellas que le confiera el Pleno.
 
 #### SECCIÓN NOVENA. De las Direcciones
 
@@ -613,7 +659,9 @@ III. Realizar las investigaciones correspondientes en los asuntos de su competen
 
 IV. Asesorar técnicamente, en asuntos de su competencia, al Pleno, su presidencia, Secretariado Ejecutivo y demás unidades administrativas del ITEA;
 
-V. Atender los requerimientos que para el desahogo de sus funciones, realice la Contraloría Interna;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+V. Atender los requerimientos que, para el desahogo de sus funciones, realice el Órgano Interno de Control;
 
 VI. Asistir al Pleno, su Presidente y al Secretario Ejecutivo para el debido cumplimiento de sus funciones, de conformidad con las disposiciones legales, reglamentarias y administrativas aplicables; y
 
@@ -1828,3 +1876,11 @@ P.O. 22 DE NOVIEMBRE DE 2021.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 95.- REFORMAS A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS, Y A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciara su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
