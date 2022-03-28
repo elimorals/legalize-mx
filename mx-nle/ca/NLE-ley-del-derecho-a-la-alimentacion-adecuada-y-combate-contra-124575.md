@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-derecho-a-la-alimentacion-adecuada-y-combate-contra-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2017-11-17"
+last_updated: "2022-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124575&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL DERECHO A LA ALIMENTACIÓN ADECUADA Y COMBATE CONTRA EL DESPERDICIO DE ALIMENTOS PARA EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
 Ley publicada en la Sección Cuarta al Número 142 del Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -97,11 +97,15 @@ IX. Donante: Persona física o moral que conforme a la presente ley entrega alim
 
 X. Instituciones receptoras Intermedias: Las asociaciones o sociedades civiles con reconocimiento oficial como donatarias autorizadas y establecidas en el Estado de Nuevo León, que reciben productos alimenticios de los Bancos de Alimentos, y sin fines de lucro que apoyan de manera altruista entregando alimentos a personas que se encuentran en algún tipo de situación de pobreza;
 
-XI. Personal calificado: Personal acreditado por la Secretaría de Desarrollo Social, Secretaría de Salud y Bancos de Alimentos para la aplicación de esta Ley;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+XI. Personal calificado: Personal acreditado por la Secretaría de Igualdad e Inclusión, Secretaría de Salud y Bancos de Alimentos para la aplicación de esta Ley;
 
 XII. Pobreza alimentaria: Incapacidad para obtener una canasta básica alimentaria, aún si se hiciera uso de todo el ingreso disponible en el hogar para comprar sólo los bienes de dicha canasta;
 
-XIII. Secretaría de Desarrollo Social: La Secretaría de Desarrollo Social del Estado de Nuevo León;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+XIII. Secretaría de Igualdad e Inclusión: La Secretaría de Igualdad e Inclusión del Estado de Nuevo León;
 
 XIV. Secretaría de Salud: La Secretaría de Salud del Estado de Nuevo León;
 
@@ -117,7 +121,9 @@ XVII. Voluntario: Persona que sin fines de retribución o lucro y de manera altr
 
 Son autoridades competentes para aplicar esta Ley:
 
-I. La Secretaría de Desarrollo Social, dependencia que diseñará y ejecutará las políticas generales de esta Ley. Al efecto, coordinará y promoverá la celebración de convenios y acuerdos de colaboración con dependencias, poderes públicos, entidades alimentarias y Bancos de Alimentos; así como la creación, estudio y seguimiento estadístico de resultados, que permitan optimizar los alcances de este ordenamiento;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+I. La Secretaría de Igualdad e Inclusión, dependencia que diseñará y ejecutará las políticas generales de esta Ley. Al efecto, coordinará y promoverá la celebración de convenios y acuerdos de colaboración con dependencias, poderes públicos, entidades alimentarias y Bancos de Alimentos; así como la creación, estudio y seguimiento estadístico de resultados, que permitan optimizar los alcances de este ordenamiento;
 
 II. La Secretaría de Salud, para la aplicación de las disposiciones de su competencia contenidas en esta Ley; llevará a cabo el control sanitario; ordenar y practicar visitas de verificación, y en su caso, aplicar las medidas de seguridad, y substanciar los procedimientos así como, aplicar las sanciones administrativas que correspondan, de conformidad con la Ley Estatal de Salud y demás disposiciones aplicables;
 
@@ -133,9 +139,11 @@ VI. Las demás que por competencia y consecuencia fiscal o penal, tuvieren que c
 
 ### CAPITULO I. DEL REGISTRO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 8.
 
-Se considerarán con reconocimiento oficial aquellos Bancos de Alimentos registrados ante la Secretaría de Desarrollo Social, los cuales se constituyan en asociaciones o sociedades civiles de asistencia social; para obtener dicho registro deberán cumplir con los siguientes requisitos:
+Se considerarán con reconocimiento oficial aquellos Bancos de Alimentos registrados ante la Secretaría de Igualdad e Inclusión, los cuales se constituyan en asociaciones o sociedades civiles de asistencia social; para obtener dicho registro deberán cumplir con los siguientes requisitos:
 
 I. Que cuenten con personal calificado, infraestructura y equipo adecuado que garanticen la inocuidad, conservación y el manejo seguro de los alimentos, así como un plan de sostenibilidad;
 
@@ -153,9 +161,11 @@ Para el rescate de alimentos aptos para consumo humano y evitar el desperdicio, 
 
 Las Entidades Alimentarias, donantes de alimentos pueden suprimir la marca de los alimentos, conservando los datos que identifiquen la caducidad y la descripción de los mismos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 11.
 
-La Secretaría de Desarrollo Social, podrá celebrar convenios con los Bancos de Alimentos, a fin de que sean estos quienes realicen el rescate de alimento con los productores agrícolas. Para lo anterior se destinará una partida presupuestal que se transferirá a los Bancos de Alimentos a fin de apoyarlos con los gastos operativos que llegaran a suscitarse, lo cual quedará especificado en los convenios que suscriban, dichos convenios establecerán los mecanismos de fiscalización para las remesas transferidas.
+La Secretaría de Igualdad e Inclusión, podrá celebrar convenios con los Bancos de Alimentos, a fin de que sean estos quienes realicen el rescate de alimento con los productores agrícolas. Para lo anterior se destinará una partida presupuestal que se transferirá a los Bancos de Alimentos a fin de apoyarlos con los gastos operativos que llegaran a suscitarse, lo cual quedará especificado en los convenios que suscriban, dichos convenios establecerán los mecanismos de fiscalización para las remesas transferidas.
 
 La Secretaría en conjunto con los Bancos de Alimentos determinará la cantidad y estimaciones de la partida presupuestal.
 
@@ -193,7 +203,9 @@ XIII. Estar inscrito ante la Secretaría de Hacienda y Crédito Público, como p
 
 XIV. Verificar los precios de los productos y expedir la facturación correspondiente de la donación recibida, en los términos señalados en la presente Ley;
 
-XV. Remitir anualmente un informe firmado y sellado, dirigido a la Secretaría de Desarrollo Social, en el cual se especificarán las cantidades recibidas en donación y las Entidades Alimentarias que la efectuaron, además deberá señalar la periodicidad de entrega con la cual se pactó el convenio de donación;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+XV. Remitir anualmente un informe firmado y sellado, dirigido a la Secretaría de Igualdad e Inclusión, en el cual se especificarán las cantidades recibidas en donación y las Entidades Alimentarias que la efectuaron, además deberá señalar la periodicidad de entrega con la cual se pactó el convenio de donación;
 
 XVI. Establecer comunicación con otros Bancos de Alimentos con la finalidad de compartir los alimentos que estén próximos a caducar y así evitar su desperdicio;
 
@@ -207,11 +219,15 @@ XX. Llevar registro y monitoreo de la cantidad de productos donados por cada Ent
 
 XXI. Las demás que se desprendan de las Leyes aplicables.
 
-### CAPITULO IV. DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE NUEVO LEÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MARZO DE 2022)</small>
+
+### CAPITULO IV. DE LA SECRETARÍA DE IGUALDAD E INCLUSIÓN DEL ESTADO DE NUEVO LEÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 13.
 
-Corresponde a la Secretaría de Desarrollo Social, de conformidad con las disposiciones jurídicas aplicables:
+Corresponde a la Secretaría de Igualdad e Inclusión de conformidad con las disposiciones jurídicas aplicables:
 
 I. Dirigir la política del derecho a la alimentación adecuada y combate contra el desperdicio de alimentos;
 
@@ -305,25 +321,35 @@ Para valorar los precios de los productos de manera unitaria y emitir el comprob
 
 La autoridad fiscal competente se encargará de verificar la correcta emisión de los comprobantes fiscales que expidan los Bancos de Alimentos.
 
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
+
+ARTÍCULO 25 BIS.- El Gobierno del Estado de Nuevo León, a través de la Secretaría de Igualdad e Inclusión otorgará cada año un reconocimiento público a los donantes que destaquen por las aportaciones que realicen a favor de los bancos de alimentos.
+
 ### CAPITULO II. DE LA VERIFICACIÓN, EVALUACIÓN, ESTADÍSTICA Y SU SEGUIMIENTO
 
 ###### ARTÍCULO 26.
 
 Para la verificación y debido cumplimiento de la presente Ley, la Secretaría de Salud realizará las visitas de verificación conforme al procedimiento señalado en la Ley Estatal de Salud.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 27.
 
-La Secretaría de Desarrollo Social efectuará los estudios y evaluaciones necesarias que originen la estadística de pobreza alimentaria en el Estado, identificando las zonas susceptibles de aplicación de esta Ley. La información se difundirá de acuerdo con la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León y demás normatividad aplicable.
+La Secretaría de Igualdad e Inclusión efectuará los estudios y evaluaciones necesarias que originen la estadística de pobreza alimentaria en el Estado, identificando las zonas susceptibles de aplicación de esta Ley. La información se difundirá de acuerdo con la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León y demás normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 28.
 
-La estadística de pobreza alimentaria será atendida por la Secretaría de Desarrollo Social, se analizaran las causas y motivos que originan la pobreza con base en esta información y coordinaran esfuerzos con los Bancos de Alimentos para que en sinergia se cumpla de manera eficaz la presente Ley.
+La estadística de pobreza alimentaria será atendida por la Secretaría de Igualdad e Inclusión, se analizarán las causas y motivos que originan la pobreza con base en esta información y coordinaran esfuerzos con los Bancos de Alimentos para que en sinergia se cumpla de manera eficaz la presente Ley.
 
 ### CAPITULO III. DEL CONTROL DE LOS ALIMENTOS CONSUMIBLES Y LAS DONACIONES
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 29.
 
-La Secretaria de Desarrollo Social con la información solicitada que reciba de los donantes y de los Bancos de Alimentos, realizará el estudio y acciones conducentes, que permitan vigilar y verificar la correcta aplicación de las disposiciones consignadas en esta Ley, y con ello lograr minimizar o erradicar el desperdicio de alimentos.
+La Secretaría de Igualdad e Inclusión con la información solicitada que reciba de los donantes y de los Bancos de Alimentos, realizará el estudio y acciones conducentes, que permitan vigilar y verificar la correcta aplicación de las disposiciones consignadas en esta Ley, y con ello lograr minimizar o erradicar el desperdicio de alimentos.
 
 ###### ARTÍCULO 30.
 
@@ -402,3 +428,11 @@ LUZ NATALIA BERRÚN CASTAÑON
 EL C. SECRETARIO DE DESARROLLO AGROPECUARIO
 
 JOSÉ RODOLFO FARÍAS ARIZPE
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 104. SE REFORMA LAS FRACCIONES XI Y XIII DEL ARTÍCULO 6, LOS ARTÍCULOS 7, 8, 11, LA FRACCIÓN XV DEL ARTÍCULO 12, LA DENOMINACIÓN DEL CAPÍTULO IV DEL TÍTULO SEGUNDO, ASÍ COMO LOS ARTÍCULOS 13, 27, 28 Y 29, DE IGUAL FORMA SE REFORMA POR ADICIÓN UN ARTÍCULO 25 BIS, TODOS DE LA LEY DEL DERECHO A LA ALIMENTACIÓN ADECUADA Y COMBATE CONTRA EL DESPERDICIO DE ALIMENTOS PARA EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
