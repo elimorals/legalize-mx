@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-del-deporte-nuevo-leon-7480"
 country: "mx"
 rank: "ley"
 publication_date: "1993-11-17"
-last_updated: "2021-05-21"
+last_updated: "2022-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DEL DEPORTE DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 17 de noviembre de 1993.
 
@@ -353,7 +353,9 @@ III.- Hacer uso de las instalaciones deportivas cumpliendo la normatividad corre
 
 IV.- Recibir asistencia técnica y entrenamiento deportivo apropiado;
 
-V.- Recibir atención y servicio médico durante competencias oficiales cuando así lo requiera la práctica de un deporte;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+V.- Recibir atención médica, psicológica y de nutrición durante competencias oficiales cuando así lo requiera la práctica de un deporte;
 
 VI.- Participar en competencias, juegos o eventos deportivos, reglamentarios u oficiales;
 
@@ -367,9 +369,21 @@ IX.- Ejercer el derecho de voz y voto como miembro de la Asociación u Organizac
 
 X.- Obtener de las autoridades correspondientes el registro que lo acredite como deportista;
 
-XI.- Recibir toda clase de becas, reconocimientos y recompensa de cualquier índole de carácter deportivo; y
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
 
-XII.- Los demás que le otorgue esta Ley u otros ordenamientos legales.
+XI.- Recibir toda clase de becas, reconocimientos y recompensa de cualquier índole de carácter deportivo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2022)</small>
+
+XII.- Contar con un seguro de vida y gastos médicos cuando se represente a la Entidad en competencias oficiales, de acuerdo con la disponibilidad presupuestal;
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2022)</small>
+
+XIII.- Recibir los recursos económicos y materiales necesarios cuando se represente a la Entidad en competencias oficiales, de acuerdo con la disponibilidad presupuestal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MARZO DE 2022)</small>
+
+XIV.- Los demás que le otorgue esta Ley u otros ordenamientos legales.
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 1996)</small>
 
@@ -756,3 +770,9 @@ P. O. 21 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 481. SE REFORMAN LAS FRACCIONES III Y IV, Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 9 DE LA LEY ESTATAL DEL DEPORTE”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al día siguiente (sic) de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 107. SE TIENE POR RECIBIDAS EN TIEMPO Y FORMA LAS OBSERVACIONES REALIZADAS POR EL EJECUTIVO DEL ESTADO AL DECRETO 288 DE FECHA 28 DE ABRIL DE 2020 DE LA LXXV LEGISLATURA".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
