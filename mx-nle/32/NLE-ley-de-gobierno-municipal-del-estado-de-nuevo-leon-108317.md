@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-gobierno-municipal-del-estado-de-nuevo-leon-108317"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-27"
-last_updated: "2022-02-28"
+last_updated: "2022-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de mayo de 2015.
 
@@ -347,9 +347,17 @@ p) Expedir los reglamentos que regulen los instrumentos y procedimientos de cont
 
 q) Podrá aprobar, la creación de un Tribunal de Justicia Administrativa Municipal para dirimir las controversias que se susciten entre la administración pública municipal y los gobernados, cumpliendo con los principios de independencia, igualdad, publicidad, audiencia y legalidad;
 
-r) Podrá expedir en su caso, el reglamento que regule la Gaceta Municipal, como medio de difusión Municipal, conforme a las bases establecidas en la presente Ley; y
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
 
-s) Expedir el Reglamento que garantice el acceso a la información o documentación pública, y la protección de datos personales de particulares en posesión de la autoridad municipal.
+r) Podrá expedir en su caso, el reglamento que regule la Gaceta Municipal, como medio de difusión Municipal, conforme a las bases establecidas en la presente Ley;
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
+
+s) Expedir el Reglamento que garantice el acceso a la información o documentación pública, y la protección de datos personales de particulares en posesión de la autoridad municipal; y
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
+
+t) Podrá aprobar, la creación de un Órgano de Justicia Cívica Municipal para dirimir los conflictos que se susciten entre vecinos, cumpliendo con los principios de independencia, igualdad, oralidad, economía procesal, inmediación, publicidad, audiencia y legalidad.
 
 II. En materia de servicios públicos:
 
@@ -803,9 +811,17 @@ XII. Otorgar la concesión de bienes del dominio público o privado municipales,
 
 XIII. Para la celebración de convenios de prestación de servicios entre el Municipio y el Estado;
 
-XIV. Para la celebración de los convenios a que se refiere el artículo 115 fracciones III y IV de la Constitución Política de los Estados Unidos Mexicanos; y
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
 
-XV. La solicitud al Congreso del Estado, y la contratación de créditos que constituyen la deuda pública.
+XIV. Para la celebración de los convenios a que se refiere el artículo 115 fracciones III y IV de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+XV. La solicitud al Congreso del Estado, y la contratación de créditos que constituyen la deuda pública; y
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2022)</small>
+
+XVI. Aprobar la creación de un Órgano de Justicia Cívica Municipal.
 
 ###### ARTÍCULO 57.
 
@@ -2790,3 +2806,11 @@ P.O. 28 DE FEBRERO DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor a los treinta días naturales contados a partir de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los Ayuntamientos de los Municipios tendrán un plazo de noventa días hábiles contados a partir de la vigencia del presente Decreto para adecuar sus Reglamentos conforme a lo establecido en el mismo.
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 108. SE REFORMAN LOS INCISOS R) Y S) DE LA FRACCIÓN I DEL ARTÍCULO 33, Y LAS FRACCIONES XIV Y XV DEL ARTÍCULO 56; Y POR ADICIÓN DEL INCISO T) A LA FRACCIÓN I DEL ARTÍCULO 33, Y LA FRACCIÓN XVI AL ARTÍCULO 56, TODOS DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Municipios en un plazo no mayor de 120-ciento veinte días naturales contados a partir de la entrada en vigor de este Decreto deberán realizar las reformas necesarias para ajustar sus Reglamentos Municipales a las disposiciones del presente Decreto.
