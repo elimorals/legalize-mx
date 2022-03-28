@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2022-02-11"
+last_updated: "2022-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -1407,9 +1407,9 @@ XII.- Derechos Humanos;
 
 XIII.- Igualdad de Género;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
 
-XIV.- Pueblos Indígenas;
+XIV.- Pueblos, Comunidades Indígenas y Afromexicanas;
 
 > <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
@@ -2992,3 +2992,19 @@ CUARTO. Los asuntos presentados, turnados o que se encuentran en trámite en la 
 QUINTO. Todos los actos legales o administrativos suscritos por la Comisión Inspectora de la Auditoria Superior del Estado y por su Presidente a la entrada en vigor del presente Decreto, así como sus efectos, se entenderán referidos a la Comisión de Control, Vigilancia y Evaluación de la Auditoría Superior del Estado.
 
 SEXTO. Las referencias que cualquier ordenamiento haga a la Comisión Inspectora de la Auditoria Superior del Estado, se entenderán aplicables a la Comisión de Control, Vigilancia y Evaluación de la Auditoría Superior del Estado.
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 123 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA; Y REFORMA EL ACÁPITE Y LOS INCISOS A), B) Y C) DE LA FRACCIÓN XIV DEL ARTÍCULO 48 DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Comisión de Pueblos, Comunidades Indígenas y Afromexicanas estará conformada por los mismos integrantes de la Comisión de Pueblos Indígenas, de conformidad con la modificación a la denominación materia del presente Decreto.
+
+CUARTO. Los asuntos presentados, turnados o que se encuentran en trámite en la Comisión de Pueblos Indígenas, pasarán para su análisis, estudio y resolución procedente a la Comisión de Pueblos, Comunidades Indígenas y Afromexicanas.
+
+QUINTO. Todos los actos legales o administrativos suscritos por la Comisión de Pueblos Indígenas y por su Presidente a la entrada en vigor del presente Decreto, así como sus efectos, se entenderán referidos a la Comisión de Pueblos, Comunidades Indígenas y Afromexicanas.
+
+SEXTO. Las referencias que cualquier ordenamiento haga a la Comisión de Pueblos Indígenas, se entenderán aplicables a la Comisión de Pueblos, Comunidades Indígenas y Afromexicanas.
