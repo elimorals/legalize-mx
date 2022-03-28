@@ -4,7 +4,7 @@ identifier: "HID-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-1098
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-14"
-last_updated: "2021-07-28"
+last_updated: "2022-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 14 de septiembre de 2015.
 
@@ -132,6 +132,10 @@ XXII. ÓRGANO INTERNO DE CONTROL: Ente público responsable de la vigilancia en 
 XXIII. ORGANISMOS PÚBLICOS AUTÓNOMOS: Las personas de Derecho Público de carácter estatal, con autonomía derivada de la Constitución Política del Estado de Hidalgo o de la ley que los crea;
 
 XXIV. PADRÓN DE PROVEEDORES: Relación de personas físicas o morales inscritas en él y que cumplen con los requisitos establecidos en esta Ley y su reglamento;
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2022)</small>
+
+XXIV Bis. Política de integridad: aquella instaurada por las personas morales y que cuenta con los elementos a que hace referencia la Ley General o Estatal de la materia;
 
 XXV. PRECIO CONVENIENTE: Es aquel que derivado de la investigación de mercado realizada, no sea inferior en un cuarenta por ciento al ofertado, respecto del que se observa como mediana en dicha investigación, o en su defecto, del promedio de las ofertas presentadas en la misma licitación;
 
@@ -503,13 +507,17 @@ En el caso de licitaciones públicas que utilicen la evaluación de puntos y por
 
 Asimismo, se otorgarán puntos a personas con discapacidad o a la empresa que cuente con trabajadores con discapacidad en una proporción del cinco por ciento cuando menos de la totalidad de su planta de empleados, cuya antigüedad no sea inferior a seis meses, misma que se comprobará con el aviso de alta al régimen obligatorio del Instituto Mexicano del Seguro Social.
 
-También se otorgarán puntos a las micros, pequeñas o medianas empresas que produzcan bienes con innovación tecnológica y el uso de tecnologías limpias conforme a las constancias correspondientes emitidas por el Instituto Mexicano de la Propiedad Industrial y por la Secretaría de Medio Ambiente y Recursos Naturales, las cuales no podrán tener una vigencia mayor a cinco años. De igual manera, se otorgarán puntos a las empresas que hayan aplicado políticas y prácticas de igualdad de género, conforme a la certificación correspondiente emitida por las autoridades y organismos facultados para tal efecto.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
+
+También se otorgarán puntos a las micros, pequeñas o medianas empresas (sic)
+
+(sic) que produzcan bienes con innovación tecnológica y el uso de tecnologías limpias conforme a las constancias correspondientes emitidas por el Instituto Mexicano de la Propiedad Industrial y por la Secretaría de Medio Ambiente y Recursos Naturales, las cuales no podrán tener una vigencia mayor a cinco años. De igual manera, se otorgarán puntos a las empresas que hayan aplicado políticas y prácticas de igualdad de género, conforme a la certificación correspondiente emitida por las autoridades y organismos facultados para tal efecto. De la misma forma, se otorgarán puntos a las empresas que cuenten con una política de integridad.
 
 Los criterios para el otorgamiento de puntos y porcentajes se establecerán en el Reglamento de esta Ley.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
 
-Las adquisiciones, arrendamientos y servicios se adjudicarán, por regla general, a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad, crecimiento económico, generación de empleo, eficiencia energética, uso responsable del agua, optimización y uso sustentable de los recursos, así como la protección al medio ambiente y demás circunstancias pertinentes.
+Las adquisiciones, arrendamientos y servicios se adjudicarán, por regla general, a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad, crecimiento económico, generación de empleo, eficiencia energética, uso responsable del agua, optimización y uso sustentable de los recursos, así como la protección al medio ambiente, la prevención de la corrupción y demás circunstancias pertinentes.
 
 En los procedimientos de contratación deberán establecerse los mismos requisitos y condiciones para todos los participantes, debiendo los convocantes, proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos, a fin de evitar favorecer a algún participante.
 
@@ -1494,3 +1502,9 @@ P.O. 28 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 725 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al (sic) de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 175 QUE ADICIONA LA FRACCIÓN XXIV BIS AL ARTÍCULO 4 Y REFORMA LOS PÁRRAFOS QUINTO Y SÉPTIMO DEL ARTÍCULO 33 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
