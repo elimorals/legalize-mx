@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2021-09-13"
+last_updated: "2022-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -1357,6 +1357,10 @@ XIII.- Tramitar las expropiaciones que por causa de utilidad pública fueren nec
 
 XIV.- Dar cuenta al Presidente y al Ayuntamiento del arreglo definitivo que se hubiese logrado en los asuntos y del estado que guarden los mismos, a fin de dictar las providencias necesarias;
 
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2022)</small>
+
+XIV Bis. Presentar por escrito un informe anual de actividades y de gestión durante el mes de agosto, al Ayuntamiento;
+
 > <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
 XV.- Presentar ante la Contraloría Municipal, su declaración patrimonial inicial, dentro de los sesenta días naturales siguientes a la toma de posesión; de modificación patrimonial, durante el mes de mayo de cada año; y de conclusión de encargo, dentro de los sesenta días naturales siguientes a ésta;
@@ -1419,17 +1423,15 @@ VII.- Vigilar que el Presidente Municipal cumpla con los acuerdos y resoluciones
 
 VIII.- Recibir y analizar el Informe Anual que rinda el Presidente Municipal o el Presidente del Concejo Municipal y emitir su voto respecto de su aprobación;
 
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
-
-VIII Bis.- Cumplido lo señalado en la fracción anterior, se tendrán hasta 30 días hábiles para presentar el Informe Anual de Actividades por cada regidor que integre el Ayuntamiento.
+VIII Bis. (DEROGADA, P.O. 28 DE MARZO DE 2022)
 
 IX.- Cumplir con las funciones inherentes a sus comisiones e informar al Ayuntamiento de sus resultados;
 
 X.- Realizar sesiones de audiencia pública, para recibir peticiones y propuestas de la comunidad;
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
 
-X BIS.- Presentar el Informe Anual de Actividades durante el mes de agosto.
+X Bis. Presentar por escrito un informe anual de actividades y de gestión durante el mes de agosto, al Ayuntamiento;
 
 XI.- Formular; con la participación de las instancias competentes del Ayuntamiento y de los sectores social y privado, el conocimiento y estudio de los asuntos en materia de Derechos Humanos, para lo cual se deberán atender las necesidades y características particulares de su Municipio, impulsar y fortalecer en todas las actividades que desarrolle el propio Ayuntamiento la protección y promoción de los derechos humanos; y
 
@@ -3880,3 +3882,9 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 776 POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entra en vigor a partir del día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 178 QUE REFORMA LA FRACCIÓN X BIS DEL ARTÍCULO 69; SE ADICIONA LA FRACCIÓN XIV BIS AL ARTÍCULO 67; Y SE DEROGA LA FRACCIÓN VIII BIS DEL ARTÍCULO 69 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
