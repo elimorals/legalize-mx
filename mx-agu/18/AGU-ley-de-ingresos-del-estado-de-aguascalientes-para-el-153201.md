@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-153201"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2021-12-29"
-last_updated: "2021-12-29"
+last_updated: "2022-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2022
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 29 de diciembre de 2021.
 
@@ -50,6 +50,8 @@ LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2
 En el Ejercicio Fiscal del año 2022, la Hacienda Pública del Estado percibirá los ingresos provenientes de los conceptos y en las cantidades estimadas en pesos que se indican a continuación:
 
 > <small>[N. DE E. VÉASE TABLA EN LA SEGUNDA SECCIÓN DEL P.O. DE 29 DE DICIEMBRE DE 2021, PÁGINAS DE LA 2 A LA 9.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 28 DE MARZO DE 2022, PÁGINAS DE LA 11 A LA 17.]</small>
 
 El desglose de los ingresos para el Ejercicio Fiscal 2022 no contempla los conceptos y los numerales correspondientes a Cuotas y Aportaciones de Seguridad Social; Contribuciones de Mejoras; Transferencias, Asignaciones, Subsidios y Subvenciones, y Pensiones y Jubilaciones; e Ingresos Derivados de Financiamientos establecidos en el Catálogo del Clasificador por Rubro de Ingresos en virtud de que no son aplicables para los ingresos que establece esta Ley.
 
@@ -132,6 +134,8 @@ Por los servicios y/o autorizaciones prestados a las Personas Físicas o Morales
 Por los servicios prestados por las Autoridades de la Secretaría de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral del Estado, se causarán y pagarán los derechos correspondientes, aplicando las siguientes tasas y tarifas:
 
 > <small>[N. DE E. VÉASE TABLA EN LA SEGUNDA SECCIÓN DEL P.O. DE 29 DE DICIEMBRE DE 2021, PÁGINAS DE LA 16 A LA 19.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 28 DE MARZO DE 2022, PÁGINAS DE LA 17 A LA 19.]</small>
 
 #### SECCIÓN II. Dirección General del Registro Público de la Propiedad y del Comercio
 
@@ -626,3 +630,17 @@ SANJUANA MARTÍNEZ MELÉNDEZ
 DIPUTADA SEGUNDA SECRETARIA
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 27 de diciembre de 2021.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Lic. Juan Manuel Flores Femat.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 99.- REFORMAS, DEROGACIONES Y ADICIONES A LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2022; Y REFORMAS AL PRESUPUESTO DE EGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2022”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos de los municipios del Estado de Aguascalientes, deberán reformar sus disposiciones municipales con el objeto de adecuarlas al mismo, en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente decreto.
