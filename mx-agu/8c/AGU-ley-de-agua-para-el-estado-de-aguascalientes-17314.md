@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2019-11-11"
+last_updated: "2022-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE ABRIL DE 2022 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -1563,9 +1565,9 @@ Las autoridades de los municipios serán responsables de vigilar el cumplimiento
 
 ARTICULO 92 A.- Con el fin de evitar el desperdicio de agua, los usuarios deberán mantener en buen estado sus instalaciones hidráulicas interiores y exteriores de sus inmuebles, así como la toma de la red de agua potable.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
 
-ARTICULO 92 B.- Los usuarios, deben abstenerse de hacer un uso inadecuado del agua, evitando para tal efecto, lavar o limpiar con mangueras banquetas, automóviles u otros objetos, y/o realizando acciones con las que se desperdicie el agua de manera ostensible.
+ARTICULO 92 B.- Los usuarios del agua domésticos, deben abstenerse de hacer un uso inadecuado del agua, evitando para tal efecto, lavar o limpiar con mangueras banquetas, automóviles u otros objetos, riego irracional de áreas verdes, fugas negligentes y/o realizar acciones con las que se desperdicie el agua de manera ostensible.
 
 ###### ARTICULO 93.
 
@@ -1953,9 +1955,9 @@ I. De diez a doscientas veces el valor diario de la unidad de medida y actualiza
 
 II. De diez a trescientas veces el valor diario de la unidad de medida y actualización, tratándose de infracciones señaladas en las Fracciones II, IV y VI;
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
 
-III. De cien a quinientas veces el valor diario de la unidad de medida y actualización, tratándose de la infracción señalada en la Fracción V;
+III. De ciento treinta a seiscientas cincuenta veces el valor diario de la unidad de medida y actualización, tratándose de la infracción señalada en la Fracción V del artículo 124 de este ordenamiento legal;
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -2478,3 +2480,11 @@ En dicha sesión el Consejo Directivo del Instituto deberá aprobar la estructur
 ###### ARTÍCULO DECIMO SEGUNDO.
 
 En congruencia con lo dispuesto en el presente Decreto, quedan derogadas y por tanto se dejan sin efecto las disposiciones que se contravengan al mismo.
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 96.- SE REFORMA EL ARTÍCULO 92 B, ASÍ COMO LA FRACCIÓN III DEL ARTÍCULO 125 DE LA LEY DE AGUA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
