@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2021-07-06"
+last_updated: "2022-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -631,7 +631,11 @@ La Secretaría de Salud del Estado, establecerá un programa de conocimiento, in
 
 La Secretaría de Salud del Estado, implementará mecanismos para que pueda aprovecharse la medicina tradicional, apoyando las propuestas que en esta materia promuevan las comunidades indígenas, a través de sus representantes y autoridades propias.
 
-En los hospitales generales y regionales del Estado, que traten población indígena, cuando así lo permita la disponibilidad presupuestaría, podrá haber dentro del área de trabajo social, cuando menos un traductor de las lenguas náhuatl, Hñahñu, Otomí, Tepehua, Tenek y Pame, conforme a la población indígena que se atienda, a fin de que los indígenas, que no hablen suficientemente el español, puedan recibir la atención que requieren de manera óptima.
+(NOTA: EL 5 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2022, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 20 DE JUNIO DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
+
+En los hospitales generales y regionales del Estado, que traten población indígena, se deberá garantizar, de manera progresiva, la asistencia de CUANDO MENOS un traductor de las lenguas NÁHUATL, HÑAHÑU, OTOMÍ, TEPEHUA, TENEK Y PAME dentro de las áreas de atención médica y trabajo social que tenga conocimiento de su lengua y cultura, conforme a la población indígena que se atienda, a fin de que los indígenas, que no hablen suficientemente el español, puedan recibir la atención que requieren de manera óptima.
 
 La Secretaría de Salud dispondrá las medidas necesarias para que el personal que preste sus servicios en los pueblos y comunidades de indígenas, cuente con los conocimientos básicos sobre la cultura, costumbres y lenguas propias de estas comunidades.
 
@@ -2336,3 +2340,9 @@ PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicac
 SEGUNDO. El Titular del Poder Ejecutivo del Estado, en un término que no excederá de sesenta días naturales posteriores a la entrada en vigor del presente Decreto, deberá prever las medidas presupuestales y administrativa necesarias, para garantizar el derecho a la interrupción legal del embarazo.
 
 TERCERO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente decreto.
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 179 QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 16 QUÁTER DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
