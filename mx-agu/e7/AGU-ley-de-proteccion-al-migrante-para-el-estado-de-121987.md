@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-al-migrante-para-el-estado-de-121987"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-19"
-last_updated: "2019-10-14"
+last_updated: "2022-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AL MIGRANTE PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de junio de 2017.
 
@@ -199,35 +199,103 @@ Toda persona migrante así como sus familias tienen el mismo derecho a recibir y
 
 Queda prohibida toda práctica discriminatoria en el otorgamiento y prestación de bienes y servicios derivados de las políticas, programas y acciones de atención a las personas Migrantes y sus Familias.
 
+> <small>[N. DE E. VÉASE LA LITERALIDAD DEL P.O. 28 DE MARZO DE 2022, PÁGINAS DE LA 7 A LA 8]</small>
+
 ###### ARTÍCULO 10.
 
 El Migrante y su Familia tendrán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
 
-I. Recibir información respecto de las acciones, políticas y programas de atención a personas migrantes y de los requisitos necesarios para ser beneficiarios de los mismos;
+I. De integridad y dignidad;
 
-II. Recibir un trato respetuoso, oportuno y de calidad;
+a) A tener una vida digna;
 
-III. A no ser sometidos individual o colectivamente, a detención o prisión arbitrarias;
+b) Recibir un trato respetuoso, oportuno y de calidad;
 
-IV. A la protección del Estado contra toda violencia, daño corporal, amenaza o intimidación por parte de funcionarios públicos o de particulares, grupos o instituciones;
+c) A la no discriminación;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2018)</small>
+d) A la protección del Estado contra toda violencia, daño corporal, amenaza o intimidación por parte de funcionarios públicos o de particulares, grupos o instituciones;
 
-V. Recibir los servicios y prestaciones de los programas de atención y protección a personas migrantes conforme a sus reglas de operación;
+e) A la protección de su integridad física;
 
-VI. Presentar denuncias y quejas ante las instancias correspondientes por el incumplimiento de esta Ley;
+f) A no ser sometidos individual o colectivamente, a detención o prisión arbitrarias;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+g) A la protección contra cualquier forma de explotación;
 
-VII. Mantenerse al margen de cualquier condicionamiento de tipo político o partidista en la ejecución de las acciones, políticas y programas de atención a migrantes;
+h) A expresar libremente su opinión; y (sic)
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+i) A transitar libremente por el territorio del Estado, de conformidad con lo establecido en el Artículo 7 de la Ley de Migración;
 
-VIII. A no ser separados en virtud de su condición migratoria, y en su defecto, a ser reunificados de ser posible de forma inmediata; y
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
 
-IX. Las demás que le confieren la presente Ley y las normas jurídicas aplicables.
+II. De acceso a la justicia:
+
+a) A recibir un trato digno y apropiado en cualquier procedimiento judicial o administrativo del que sean parte o intervinientes;
+
+b) A recibir asesoría jurídica en forma gratuita por parte de las instituciones públicas en los términos de las disposiciones legales, en los procedimientos judiciales o administrativos en que sean parte o intervinientes, así como contar con un representante legal cuando lo consideren necesario;
+
+c) A la protección de su patrimonio personal y familiar;
+
+d) A qué se facilite un traductor o intérprete; y
+
+e) Presentar denuncias y quejas ante las instancias correspondientes por el incumplimiento de esta Ley.
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+III. De protección de la salud:
+
+a) A recibir atención médica en términos de lo dispuesto en la Ley General de Salud, la Ley de Salud del Estado de Aguascalientes y demás normatividad aplicable; y
+
+b) A los servicios que prestan las administraciones públicas c) d) e) III. a) b) estatal y municipal; (sic)
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+IV. De educación y recreación;
+
+a) A recibir educación; y
+
+b) A participar en los programa culturales, deportivos y recreativos que realice en Estado; y
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+V. Del trabajo:
+
+a) A gozar de oportunidades igualitarias de acceso al trabajo o de otras posibilidades que les permitan obtener un ingreso de conformidad con las leyes aplicables;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+VI. De la asistencia social:
+
+a) A ser sujetos de programas de asistencia social en caso de discapacidad, pérdida de sus medios de subsistencia o por encontrarse en una situación de desamparo, en los términos de la normatividad aplicable;
+
+b) A tener acceso a todas las acciones que sobre asistencia social lleven a cabo el Estado y los Municipios para fomentar en ellas y en la sociedad en general, una cultura de integración, dignidad y respeto, en los términos de la normatividad aplicable;
+
+c) A tener acceso inmediato a los programas de repatriación de personas y deportación, así como a la ayuda humanitaria y a la asistencia administrativa en trámites y servicios, incluidos los que estén relacionados con su condición migratoria, de conformidad con lo establecido en la Ley de Migración; y
+
+d) A no ser separados en virtud de su condición migratoria, y en su defecto, a ser reunificados de ser posible de forma inmediata, de conformidad con lo establecido en la Ley de Migración.
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+VII. De la participación e información:
+
+a) Recibir información respecto de las acciones, políticas y programas de atención a personas migrantes y de los requisitos necesarios para ser beneficiarios de estos;
+
+b) Recibir los servicios y prestaciones de los programas de atención y protección a personas migrantes conforme a sus reglas de operación;
+
+c) A asociarse y conformar organizaciones migrantes para promover su desarrollo e incidir en las acciones dirigidas a este sector;
+
+d) Mantenerse al margen de cualquier condicionamiento de tipo político o partidista en la ejecución de las acciones, políticas y programas de atención a migrantes; y
+
+e) Recibir un trato respetuoso, oportuno y de calidad
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN IX], P.O. 28 DE MARZO DE 2022)</small>
+
+VIII. Las demás que le confieren la presente Ley y las normas jurídicas aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE MARZO DE 2022)</small>
+
+A todo migrante le serán respetados sus derechos humanos, sin distinción de sexo, edad, idioma, origen étnico, raza, color, credo religioso, preferencia sexual, ideología política, posición social o económica, o cualquier otra condición que atente contra la dignidad humana y tenga por objeto menoscabar o anular los derechos y libertades de las personas.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
 
@@ -558,5 +626,13 @@ P.O. 14 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 218.- ARTICULO ÚNICO.- SE REFORMAN LAS FRACCIONES VIII Y IX, Y SE ADICIONA UNA FRACCIÓN X AL ARTÍCULO 15, DE LA LEY DE PROTECCIÓN AL MIGRANTE PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 97 ARTÍCULO ÚNICO.- SE REFORMA EL ARTÍCULO 10 DE LA LEY DE PROTECCIÓN AL MIGRANTE PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
