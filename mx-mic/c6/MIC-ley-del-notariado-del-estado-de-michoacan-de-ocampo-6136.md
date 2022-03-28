@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-notariado-del-estado-de-michoacan-de-ocampo-6136"
 country: "mx"
 rank: "ley"
 publication_date: "1980-02-21"
-last_updated: "2020-06-30"
+last_updated: "2022-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6136&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL NOTARIADO DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 21 de febrero de 1980.
 
@@ -1189,15 +1189,15 @@ Los notarios en ejercicio en el Estado se constituirán en un organismo que se d
 
 Para la constitución del organismo a que se refiere el artículo anterior se estará a lo dispuesto por la legislación civil vigente y por lo que establece la Ley Reglamentaria de los artículos Quinto y Noveno de la Constitución General de la República.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 137.
 
-El Colegio de Notarios será representado por un Consejo que estará integrado por los siguientes miembros: Presidente, Secretario, Tesorero y tres Vocales, los que durarán en sus funciones dos años y serán electos por mayoría, mediante el voto individual y público que cada notario emita en asamblea del Colegio, la que se celebrará cada primer sábado del mes de diciembre, del año en que corresponda renovar el Consejo Directivo.
+El Colegio de Notarios será representado por un Consejo que estará integrado por los siguientes miembros: Presidente, Secretario, Tesorero y tres Vocales, lo anterior atendiendo la perspectiva de género, quienes durarán en sus funciones dos años y serán electos por mayoría, mediante el voto individual y público que cada notario emita en asamblea del Colegio, la que se celebrará cada primer sábado del mes de diciembre, del año en que corresponda renovar el Consejo Directivo.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
+La asamblea electoral será convocada por la Secretaría de Gobierno y requerirá de un quórum del cincuenta por ciento más uno de las y los notarios de número en ejercicio; de no existir el porcentaje indicado, se citará a una segunda, para el siguiente sábado del mismo mes, en la que se elegirá al Consejo con las y los notarios que asistan.
 
-La asamblea electoral será convocada por la Secretaría de Gobierno y requerirá de un quórum del cincuenta por ciento más uno de los notarios de número en ejercicio; de no existir el porcentaje indicado, se citará a una segunda, para el siguiente sábado del mismo mes, en la que se elegirá al Consejo con los notarios que asistan.
-
-Los tres primeros miembros del Consejo serán electos de entre los notarios de la capital del Estado.
+Los miembros del Consejo serán electos de entre todas y todos los notarios del Estado.
 
 ###### ARTICULO 138.
 
@@ -1599,14 +1599,8 @@ Segundo. Los trámites y actos relativos a divorcios celebrados ante notario pú
 
 Tercero. El Titular del Poder Ejecutivo emitirá la normatividad reglamentaria que corresponda al presente Decreto en un plazo máximo de sesenta días naturales contados a partir del día de su entrada en vigor.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 491/2017 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE FUERO Y RECONOCIMIENTO DE LOS DERECHOS A LA IDENTIDAD"].
+P.O. 28 DE MARZO DE 2022.
 
-Primero. Entrada en vigor
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 136 POR EL QUE “SE REFORMA EL ARTÍCULO 137 DE LA LEY DEL NOTARIADO”.]
 
-Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
-
-Segundo. Obligación normativa
-
-El Congreso del Estado de Yucatán deberá expedir las modificaciones necesarias a la legislación secundaria, para armonizarla a las disposiciones de este decreto, en un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
-
-D.O. 18 DE JULIO DE 2017.
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
