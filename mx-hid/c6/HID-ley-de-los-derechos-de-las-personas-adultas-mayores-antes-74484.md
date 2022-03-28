@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2021-05-10"
+last_updated: "2022-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -849,6 +849,10 @@ Si la queja o denuncia presentada fuera competencia de otra autoridad, la instit
 
 Cuando los actos, hechos y omisiones provengan de familiares, las quejas o denuncias se presentarán ante (sic) Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo, quien tomará las medidas preventivas para la protección de las personas adultas mayores y en su caso, turnará la queja o denuncia a la autoridad competente.
 
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
+
+Las personas adultas mayores tienen derecho a ser trasladadas a una institución pública o privada que brinde atención a ese sector de la población, cuando sea víctima de cualquier tipo de violencia, de los previstos en el artículo 32 Ter de esta Ley.
+
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
 
 ###### Artículo 36.
@@ -968,3 +972,9 @@ SEGUNDO.- Las autoridades competentes tendrán un plazo no mayor a ciento ochent
 TERCERO.- Las erogaciones que se generen con motivo de la entrada en vigor e implementación del presente Decreto, deberán contemplarse a más tardar en el ejercicio fiscal 2022, quedando sujeto a la disponibilidad presupuestaria anual que se apruebe, así como a lo establecido en los convenios, acuerdos, planes, programas y normatividad vigente.
 
 CUARTO.- Las referencias que contengan otros marcos normativos relativas a la Ley de los Derechos de los Adultos Mayores del Estado de Hidalgo se entenderán hechas a esta nueva denominación aprobada.
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 176 QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 35 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO Y, REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 17 Y ADICIONA UNA SEGUNDA FRACCIÓN AL ARTÍCULO 29 DE LA LEY DE ALBERGUES PRIVADOS PARA PERSONAS ADULTAS MAYORES”.]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
