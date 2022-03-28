@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-880
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-26"
-last_updated: "2022-02-11"
+last_updated: "2022-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 26 de marzo de 2012.
 
@@ -559,15 +559,21 @@ g) Conocer y realizar la fase de investigaciones de las quejas y denuncias por d
 
 h) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2022)</small>
 
-XIV.- PUEBLOS INDÍGENAS:
+XIV.- PUEBLOS, COMUNIDADES INDÍGENAS Y AFROMEXICANAS:
 
-a) Redactar, analizar y generar iniciativas que tengan como objeto combatir cualquier práctica discriminatoria e impulsar el desarrollo integral y sustentable de los Pueblos y Comunidades Indígenas;
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
 
-b) Impulsar mecanismos jurídicos de desarrollo de los grupos indígenas en la Entidad, fortaleciendo sus usos, costumbres, lenguas, culturas e idiosincrasia;
+a) Redactar, analizar y generar iniciativas que tengan como objeto combatir cualquier práctica discriminatoria e impulsar el desarrollo integral y sustentable de los Pueblos, Comunidades Indígenas y Afromexicanas;
 
-c) Fortalecer el marco jurídico que garantice la participación de los Pueblos y Comunidades Indígenas en la sociedad; y
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
+
+b) Impulsar mecanismos jurídicos de desarrollo de los Pueblos, Comunidades Indígenas y Afromexicanas en la Entidad, fortaleciendo sus usos, costumbres, lenguas, culturas e idiosincrasia;
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
+
+c) Fortalecer el marco jurídico que garantice la participación de los Pueblos, Comunidades Indígenas y Afromexicanas en la sociedad; y
 
 d) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
@@ -3404,3 +3410,19 @@ CUARTO. Los asuntos presentados, turnados o que se encuentran en trámite en la 
 QUINTO. Todos los actos legales o administrativos suscritos por la Comisión Inspectora de la Auditoria Superior del Estado y por su Presidente a la entrada en vigor del presente Decreto, así como sus efectos, se entenderán referidos a la Comisión de Control, Vigilancia y Evaluación de la Auditoría Superior del Estado.
 
 SEXTO. Las referencias que cualquier ordenamiento haga a la Comisión Inspectora de la Auditoria Superior del Estado, se entenderán aplicables a la Comisión de Control, Vigilancia y Evaluación de la Auditoría Superior del Estado.
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 123 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA; Y REFORMA EL ACÁPITE Y LOS INCISOS A), B) Y C) DE LA FRACCIÓN XIV DEL ARTÍCULO 48 DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Comisión de Pueblos, Comunidades Indígenas y Afromexicanas estará conformada por los mismos integrantes de la Comisión de Pueblos Indígenas, de conformidad con la modificación a la denominación materia del presente Decreto.
+
+CUARTO. Los asuntos presentados, turnados o que se encuentran en trámite en la Comisión de Pueblos Indígenas, pasarán para su análisis, estudio y resolución procedente a la Comisión de Pueblos, Comunidades Indígenas y Afromexicanas.
+
+QUINTO. Todos los actos legales o administrativos suscritos por la Comisión de Pueblos Indígenas y por su Presidente a la entrada en vigor del presente Decreto, así como sus efectos, se entenderán referidos a la Comisión de Pueblos, Comunidades Indígenas y Afromexicanas.
+
+SEXTO. Las referencias que cualquier ordenamiento haga a la Comisión de Pueblos Indígenas, se entenderán aplicables a la Comisión de Pueblos, Comunidades Indígenas y Afromexicanas.
