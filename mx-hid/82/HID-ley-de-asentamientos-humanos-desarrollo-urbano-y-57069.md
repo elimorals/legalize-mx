@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asentamientos-humanos-desarrollo-urbano-y-57069"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-17"
-last_updated: "2021-09-13"
+last_updated: "2022-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 17 de septiembre de 2007.
 
@@ -158,6 +158,10 @@ XVII.- Fusión de áreas o predios: La unión de dos o más terrenos colindantes
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
 XVIII.- Infraestructura: los sistemas y redes de organización y distribución de personas, bienes, energía y servicios en, y entre, los centros de población.
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2022)</small>
+
+XVIII BIS.- Instituto Municipal de Planeación: Organismo público descentralizado de la administración pública municipal, con personalidad jurídica y patrimonio propio, creado y operado en los municipios con un rango de población igual o mayor a cien mil habitantes.
 
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
@@ -733,27 +737,37 @@ IV.- Protección del patrimonio cultural, natural e imagen urbana de los asentam
 
 V.- Preservación del ambiente.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 40.
 
-Los organismos para la participación social y consulta se conformarán como auxiliares de los Ayuntamientos y podrán tener el carácter de Consejos Municipales o de Organismos Públicos Descentralizados.
+Los organismos para la participación social y consulta se conformarán como auxiliares de los Ayuntamientos y podrán tener el carácter de Consejos Municipales o de un Instituto Municipal de Planeación, conforme a lo establecido en la presente Ley.
 
 ###### ARTICULO 41.
 
 Los Consejos Municipales o las instancias de desarrollo urbano se podrán integrar en cada Municipio, tendrán por objeto promover y realizar la participación ciudadana y vecinal en la gestión del desarrollo urbano Municipal y funcionarán conforme a las bases que establezca el Reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 42.
 
-Los Consejos Municipales se podrán constituir como Organismos Públicos Descentralizados cuando la población exceda de cincuenta mil habitantes y conformarse como Instituto Municipal de Planeación Urbana, para la planeación integral de su territorio, integrados con la participación de las áreas o Dependencias Municipales responsables de las funciones de planeación urbana, y en su caso, las funciones de planeación socio económica y ambiental, así como las responsables de los sistemas de información geográfica y estadística.
+Los Consejos Municipales se podrán constituir como Instituto Municipal de Planeación cuando la población exceda de cien mil habitantes, para la planeación integral de su territorio, integrados con la participación de las áreas o Dependencias Municipales responsables de las funciones de planeación urbana, y en su caso, las funciones de planeación socio económica y ambiental, así como las responsables de los sistemas de información geográfica y estadística.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 43.
 
-Cuando se proyecten planes, programas o acciones urbanas que afecten a una o varias zonas de un centro de población, se convocará para que participen en el Organismo o Consejo, a los representantes de las asociaciones de vecinos y las asociaciones para la conservación y mejoramiento de sitios y fincas afectos al patrimonio cultural del Estado que estén involucradas, los que intervendrán con voz y voto en la resolución de los asuntos que les afecten.
+Cuando se proyecten planes, programas o acciones urbanas que afecten a una o varias zonas de un centro de población, se convocará para que participen en el Consejo Municipal o Instituto Municipal de Planeación, a los representantes de las asociaciones de vecinos y las asociaciones para la conservación y mejoramiento de sitios y fincas afectos al patrimonio cultural del Estado que estén involucradas, los que intervendrán con voz y voto en la resolución de los asuntos que les afecten.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 44.
 
-El Reglamento determinará para la integración y funcionamiento del Organismo Descentralizado o Consejo Municipal de Desarrollo Urbano, en su caso, lo siguiente:
+El Reglamento determinará para la integración y funcionamiento del Consejo Municipal de Desarrollo Urbano o Instituto Municipal de Planeación, en su caso, lo siguiente:
 
-I.- Las atribuciones y funciones de la instancia o Consejo Municipal de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
+
+I.- Sus atribuciones y funciones;
 
 II.- El procedimiento para integrar su mesa directiva y las atribuciones específicas de sus integrantes;
 
@@ -767,9 +781,11 @@ VI.- El procedimiento para ratificar o relevar a los representantes de los Organ
 
 VII.- Las demás atribuciones que los Ayuntamientos resuelvan otorgarles.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 45.
 
-El Organismo Descentralizado o Consejo Municipal de Desarrollo Urbano, en su caso, tendrá las siguientes atribuciones:
+El Consejo Municipal de Desarrollo Urbano o Instituto Municipal de Planeación, en su caso, tendrá las siguientes atribuciones:
 
 I.- Elaborar la propuesta de Programa Municipal de Desarrollo Urbano que se integre con los planes de desarrollo y protección del ambiente y apoyar las tareas y actividades en materia de desarrollo urbano integrados a las del desarrollo socio económico y protección del ambiente;
 
@@ -793,9 +809,11 @@ IX.- Integrar y coordinar técnicamente el Observatorio Municipal de Desarrollo 
 
 X.- Las demás funciones que determinen los Programas Estatal y Municipal de Desarrollo Urbano y Ordenamiento territorial.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 46.
 
-El Reglamento de esta Ley establecerá las reglas particulares para la integración, operación y funcionamiento del Organismo Descentralizado o Consejo Municipal, en su caso, y de los observatorios Municipales.
+El Reglamento de esta Ley establecerá las reglas particulares para la integración, operación y funcionamiento del Consejo Municipal de Desarrollo Urbano o Instituto Municipal de Planeación, en su caso, y de los observatorios Municipales.
 
 ## TITULO TERCERO. REGIMEN DE GESTION URBANA
 
@@ -2584,3 +2602,9 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 174 QUE ADICIONA LA FRACCIÓN XVIII BIS AL ARTÍCULO 4 Y SE REFORMAN LOS ARTÍCULOS 40, 42, 43, 44, 45 Y 46, DE (SIC) LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTARADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
