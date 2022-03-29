@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-expropiacion-del-estado-de-nayarit-13499"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-19"
-last_updated: "1984-09-19"
+last_updated: "2022-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE EXPROPIACION DEL ESTADO DE NAYARIT
 
-LEY DE EXPROPIACION PARA EL ESTADO DE NAYARIT
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE EXPROPIACIÓN PARA EL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 29 DE MARZO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LEY DE EXPROPIACIÓN PARA EL ESTADO DE NAYARIT
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2022 (ABROGADA).
 
 Ley Publicada en la Octava Sección del Periódico Oficial del Estado de Nayarit el Miércoles 19 de Septiembre de 1984.
 
@@ -170,3 +172,17 @@ Emilio M. González.- Rúbrica.
 El Secretario General de Gobierno
 
 José Felix Torres Haro. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE EXPIDE LA LEY DE EXPROPIACIÓN PARA EL ESTADO DE NAYARIT".]
+
+PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se abroga la Ley de Expropiación para el Estado de Nayarit, publicada en la Octava Sección del Periódico Oficial del Estado de Nayarit el miércoles 19 de septiembre de 1984, así como las disposiciones que se oponga al presente ordenamiento.
+
+TERCERO. En un plazo de ciento ochenta días hábiles contados a partir de la entrada en vigor de la presente Ley, el Honorable Congreso del Estado deberá realizar las reformas a las disposiciones legales correspondientes para dar cumplimiento al presente Decreto.
+
+CUARTO. Los procedimientos de expropiación que se encuentren en trámite o pendientes de resolución, se resolverán conforme a Ley de Expropiación para el Estado de Nayarit, publicada en la Octava Sección del Periódico Oficial del Estado de Nayarit el miércoles 19 de septiembre de 1984.
