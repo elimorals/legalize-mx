@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2022-03-16"
+last_updated: "2022-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MARZO DE 2022.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 24 DE DICIEMBRE DE 2018.
 
@@ -178,9 +178,9 @@ XV.- La prevención y el control de enfermedades transmisibles;
 
 XV bis.- El Programa Nacional de Prevención, Atención y Control del VIH/SIDA e Infecciones de Transmisión Sexual;
 
-> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 29 DE MARZO DE 2022)</small>
 
-XVI.- La prevención y el control de enfermedades no transmisibles y accidentes;
+XVI.- La prevención y el control de enfermedades no transmisibles, sindemias y accidentes;
 
 > <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2017)</small>
 
@@ -518,7 +518,9 @@ Compete al Consejo de Salubridad General:
 
 I.- Dictar medidas contra el alcoholismo, venta y producción de substancias tóxicas, así como las que tengan por objeto prevenir y combatir los efectos nocivos de la contaminación ambiental en la salud, las que serán revisadas después por el Congreso de la Unión, en los casos que le competan;
 
-II.- Adicionar las listas de establecimientos destinados al proceso de medicamentos y las de enfermedades transmisibles prioritarias y no transmisibles más frecuentes, así como las de fuentes de radiaciones ionizantes y de naturaleza análoga;
+> <small>(REFORMADA, D.O.F. 29 DE MARZO DE 2022)</small>
+
+II.- Adicionar las listas de establecimientos destinados al proceso de medicamentos y las de enfermedades transmisibles prioritarias, no transmisibles más frecuentes, sindemias, así como las de fuentes de radiaciones ionizantes y de naturaleza análoga;
 
 III.- Opinar sobre programas y proyectos de investigación científica y de formación de recursos humanos para la salud;
 
@@ -714,7 +716,9 @@ Para los efectos del derecho a la protección de la salud, se consideran servici
 
 I.- La educación para la salud, la promoción del saneamiento básico y el mejoramiento de las condiciones sanitarias del ambiente;
 
-II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
+> <small>(REFORMADA, D.O.F. 29 DE MARZO DE 2022)</small>
+
+II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes, sindemias y de los accidentes;
 
 > <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2014)</small>
 
@@ -876,7 +880,9 @@ Son servicios a derechohabientes de instituciones públicas de seguridad social 
 
 Estos servicios se regirán por lo establecido en las disposiciones legales que regulan la organización y funcionamiento de las instituciones prestadoras y por las contenidas en esta Ley, en sus respectivos ámbitos de aplicación. Tratándose de las instituciones de seguridad social de la Administración Pública Federal, éstas deberán, por cuanto hace a la prestación de servicios de salud, mantener una coordinación permanente con la Secretaría de Salud, a efecto de implementar de manera efectiva la política nacional a que hace referencia la fracción I del artículo 7o. de esta Ley.
 
-Dichos servicios, en los términos de esta Ley y sin perjuicio de lo que prevengan las leyes a las que se refiere el párrafo anterior, comprenderán la atención médica, la atención materno-infantil, la planificación familiar, la salud mental, la promoción de la formación de recursos humanos, la salud ocupacional y la prevención y control de enfermedades no transmisibles y accidentes.
+> <small>(REFORMADO, D.O.F. 29 DE MARZO DE 2022)</small>
+
+Dichos servicios, en los términos de esta Ley y sin perjuicio de lo que prevengan las leyes a las que se refiere el párrafo anterior, comprenderán la atención médica, la atención materno-infantil, la planificación familiar, la salud mental, la promoción de la formación de recursos humanos, la salud ocupacional y la prevención y control de enfermedades no transmisibles, sindemias y accidentes.
 
 ###### ARTICULO 38.
 
@@ -2984,7 +2990,7 @@ Sin perjuicio de lo que establecen la Ley Federal del Trabajo y sus reglamentos,
 
 ### CAPITULO III. Enfermedades no transmisibles
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 29 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 128.
 
@@ -3260,13 +3266,17 @@ ARTICULO 157 BIS.- La Secretaría de Salud y los gobiernos de las entidades fede
 
 ###### ARTICULO 158.
 
-La Secretaría de Salud y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, realizarán actividades de prevención y control de las enfermedades no transmisibles que las propias autoridades sanitarias determinen.
+La Secretaría de Salud y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, realizarán actividades de prevención y control de las enfermedades no transmisibles y sindemias que las propias autoridades sanitarias determinen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 159.
 
-El ejercicio de la acción de prevención y control de las enfermedades no transmisibles comprenderá una o más de las siguientes medidas, según el caso de que se trate:
+El ejercicio de la acción de prevención y control de las enfermedades no transmisibles y sindemias comprenderá una o más de las siguientes medidas, según el caso de que se trate:
 
-I.- La detección oportuna de las enfermedades no transmisibles y la evaluación del riesgo de contraerlas;
+> <small>(REFORMADA, D.O.F. 29 DE MARZO DE 2022)</small>
+
+I.- La detección oportuna de las enfermedades no transmisibles, sindemias y la evaluación del riesgo de contraerlas;
 
 II.- La divulgación de medidas higiénicas para el control de los padecimientos;
 
@@ -3280,15 +3290,17 @@ V.- La difusión permanente de las dietas, hábitos alimenticios y procedimiento
 
 VI.- Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 29 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 160.
 
-La Secretaría de Salud coordinará sus actividades con otras dependencias y entidades públicas y con los gobiernos de las entidades federativas, para la investigación, prevención y control de las enfermedades no transmisibles.
+La Secretaría de Salud coordinará sus actividades con otras dependencias y entidades públicas y con los gobiernos de las entidades federativas, para la investigación, prevención y control de las enfermedades no transmisibles y sindemias.
+
+> <small>(REFORMADO, D.O.F. 29 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 161.
 
-Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
+Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles y sindemias, en los términos de los reglamentos que al efecto se expidan.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 22 DE JUNIO DE 2017)</small>
 
@@ -9479,3 +9491,11 @@ D.O.F. 16 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 3o., 17; 27; 37; 158; 159; 160 Y 161 DE LA LEY GENERAL DE SALUD".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Consejo de Salubridad General, publicará en el Diario Oficial de la Federación los acuerdos que permitan instrumentar las acciones que se desarrollen conforme lo establecido en los artículos 3o., fracción XVI; 17, fracción II; 27, fracción II; 37; 158; 159, fracción I; 160 y 161 de la Ley General de Salud.
