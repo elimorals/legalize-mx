@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2021-10-21"
+last_updated: "2022-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MARZO DE 2022.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -121,6 +121,10 @@ VI. Contaminación: La presencia en el ambiente de uno o más contaminantes o de
 > <small>(ADICIONADA, D.O.F. 18 DE ENERO DE 2021)</small>
 
 VI BIS. Contaminación lumínica: El resplandor luminoso en ambientes nocturnos o brillo producido por la difusión y reflexión de la luz en los gases, aerosoles y partículas en suspensión en la atmósfera, que altera las condiciones naturales de luminosidad en horas nocturnas y dificultan las observaciones astronómicas de los objetos celestes, debido a la luz intrusa, debiendo distinguirse el brillo natural, atribuible a la radiación de fuentes u objetos celestes y a la luminiscencia de las capas altas de la atmósfera;
+
+> <small>(ADICIONADA, D.O.F. 29 DE MARZO DE 2022)</small>
+
+VI TER. Contaminación por ruido: Todo sonido generado por actividades humanas que, por su intensidad, duración o frecuencia, implique riesgo, molestia, perjuicio o daño para las personas, para otros seres vivos o para el ambiente; o los que superen los niveles fijados por las normas oficiales mexicanas;
 
 VII. Contaminante: Toda materia o energía en cualesquiera de sus estados físicos y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural;
 
@@ -3022,6 +3026,12 @@ La Secretaría de Salud realizará los análisis, estudios, investigaciones y vi
 
 La Secretaría, en coordinación con organismos públicos o privados, nacionales o internacionales, integrará la información relacionada con este tipo de contaminación, así como de métodos y tecnología de control y tratamiento de la misma.
 
+> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2022)</small>
+
+ARTICULO 156 BIS.- En materia de contaminación por ruido, la Secretaría expedirá las normas oficiales mexicanas para el establecimiento y operación de los sistemas de monitoreo del ruido.
+
+Los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México realizarán los monitoreos necesarios para la prevención y el control de la contaminación por ruido.
+
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ## TITULO QUINTO. Participación Social e Información Ambiental
@@ -4109,3 +4119,11 @@ D.O.F. 21 DE OCTUBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 21 DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN UNA FRACCIÓN VI TER AL ARTÍCULO 3o., Y UN ARTÍCULO 156 BIS A LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- En un plazo máximo de 30 días, posteriores a la entrada en vigor del presente Decreto, el Ejecutivo Federal deberá iniciar el proceso de expedición y actualización de las normas oficiales mexicanas en materia de ruido, bajo los términos de la Ley de Infraestructura de la Calidad.
