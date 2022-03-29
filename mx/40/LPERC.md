@@ -4,7 +4,7 @@ identifier: "LPERC"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "2021-05-20"
+last_updated: "2022-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPERC"
 
 LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MARZO DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 1975.
 
@@ -742,7 +742,9 @@ II.- Expresiones artísticas y artes populares;
 
 III.- Compromiso social;
 
-IV.- Fortalecimiento a la cultura indígena;
+> <small>(REFORMADA, D.O.F. 29 DE MARZO DE 2022)</small>
+
+IV.- Fortalecimiento y promoción a la cultura y las lenguas indígenas nacionales;
 
 V.- Protección al ambiente;
 
@@ -1511,3 +1513,9 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 29 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 72 DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
