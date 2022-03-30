@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-consejo-nacional-de-archivos-145559"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-12-09"
-last_updated: "2020-12-09"
+last_updated: "2022-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145559&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-10-27"
 
 REGLAMENTO DEL CONSEJO NACIONAL DE ARCHIVOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MARZO DE 2022.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 9 de diciembre de 2020.
 
@@ -84,6 +84,12 @@ La interpretación del reglamento, así como la atención de cualquier aspecto n
 ###### Artículo 4.
 
 Para efectos del presente Reglamento, adicionalmente a las definiciones establecidas en el artículo 4 de la Ley General de Archivos, se entenderá por:
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/AGN/Reforma_Reglamento_Consejo_Nacional_Archivos.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+I. Asistencia remota: A la presencia y participación de los integrantes del Consejo Nacional de Archivos, ubicados en dos o más recintos pero que se encuentren intercomunicados con motivo de una sesión, mediante el uso de las telecomunicaciones, a fin de que participen en la discusión, deliberación, análisis, votación y dictaminación de los asuntos tratados;
 
 I. Asistencia remota: A la presencia y participación de las personas integrantes del Consejo Nacional de Archivos, ubicados en dos o más recintos pero que se encuentren intercomunicados con motivo de una sesión, mediante el uso de videoconferencias, a fin de que participen en la discusión, deliberación, análisis, votación y dictaminación de los asuntos tratados;
 
@@ -175,7 +181,11 @@ I. Asistir a las sesiones que sean convocadas, presentando, en su caso, la acred
 
 II. Integrar las comisiones permanentes o temporales, así como designar a las personas que los representen en los grupos de trabajo que se conformen;
 
-III. Votar los asuntos, en sentido favorable o en contra; en el entendido de que deberán abstenerse únicamente cuando exista algún conflicto de interés;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/AGN/Reforma_Reglamento_Consejo_Nacional_Archivos.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+III. Analizar, discutir y votar los asuntos, en sentido favorable o en contra; en el entendido de que deberán abstenerse únicamente cuando exista algún conflicto de interés o cuando, con la información presentada no sea posible emitir un voto razonado respecto al asunto puesto a su consideración;
 
 IV. Firmar las actas de las sesiones del Pleno y de las comisiones que formen parte, previa revisión y entrega de los comentarios que consideren pertinentes;
 
@@ -185,13 +195,19 @@ VI. Proponer temas de trabajo para las sesiones;
 
 VII. Formular propuestas de acuerdos, reglamentos, lineamientos, políticas y programas en materia de gestión documental y administración de archivos; para que sean turnados a la comisión respectiva, y se elabore el dictamen que corresponda;
 
-VIII. Analizar, discutir y votar los asuntos sometidos a consideración del Consejo Nacional;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/AGN/Reforma_Reglamento_Consejo_Nacional_Archivos.pdf]</small>
+
+VIII. (DEROGADA, D.O.F. 30 DE MARZO DE 2022)
 
 IX. Proponer reformas o adiciones al presente Reglamento, y
 
 X. Las demás que deriven de la Ley y del presente Reglamento.
 
-El ejercicio de las facultades del Consejo Nacional, de sus comisiones y de los grupos de trabajo, estará sujeto a la disponibilidad presupuestal de los entes públicos a los cuales pertenecen los integrantes de tales instancias.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/AGN/Reforma_Reglamento_Consejo_Nacional_Archivos.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2022)</small>
+
+El ejercicio de las facultades del Consejo Nacional, de sus comisiones y de los grupos de trabajo, estará sujeto a la disponibilidad presupuestal de los entes públicos a los cuales pertenecen los integrantes de tales instancias y siempre que no se afecte el adecuado ejercicio de las funciones de dichos entes.
 
 ### CAPÍTULO II. DE LA PRESIDENCIA DEL CONSEJO
 
@@ -373,9 +389,13 @@ Las resoluciones y acuerdos generales que emita el Pleno del Consejo Nacional so
 
 Los Acuerdos que se tomen en las sesiones podrán ser ejecutados de manera inmediata por la Presidencia, la Secretaría Técnica o, en su caso, la persona integrante correspondiente, de conformidad con las atribuciones de cada uno.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/AGN/Reforma_Reglamento_Consejo_Nacional_Archivos.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2022)</small>
+
 ###### Artículo 23.
 
-Las sesiones del Consejo Nacional deberán constar en actas suscritas por las personas consejeras que participaron en ellas. Dichas actas serán publicadas en la página oficial del Archivo General. La Secretaría Técnica es responsable de la elaboración de las actas, la obtención de las firmas, su custodia y publicación.
+Las sesiones del Consejo Nacional deberán constar en actas suscritas por las personas consejeras que participaron en ellas. Dichas actas serán publicadas en la página oficial del Archivo General. La Secretaría Técnica es responsable de la elaboración de las actas, la obtención de las firmas, su custodia y publicación. Se deberá dar preferencia a la firma electrónica de todos los documentos relativos a las sesiones.
 
 ###### Artículo 24.
 
@@ -385,7 +405,11 @@ I. Número consecutivo de la sesión;
 
 II. Tipo de sesión, ya sea ordinaria o extraordinaria;
 
-III. Fecha, lugar y horario;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/AGN/Reforma_Reglamento_Consejo_Nacional_Archivos.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+III. Fecha, lugar o medio de celebración y horario;
 
 IV. La lista de asistencia;
 
@@ -399,25 +423,49 @@ VIII. Los acuerdos aprobados;
 
 IX. Fecha y hora de cierre de la sesión, y
 
-X. Firma autógrafa de las personas consejeras.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/AGN/Reforma_Reglamento_Consejo_Nacional_Archivos.pdf]</small>
 
-En un plazo no mayor a veinte días hábiles, posterior a la celebración de la respectiva sesión, se enviará el proyecto de Acta a cada persona consejera, con el objetivo de recabar sus observaciones durante los siguientes diez días hábiles. Acordada la redacción del Acta, en la siguiente sesión se someterá a consideración su aprobación para su posterior firma.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+X. Firma autógrafa o electrónica de las personas consejeras.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/AGN/Reforma_Reglamento_Consejo_Nacional_Archivos.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2022)</small>
+
+En un plazo no mayor a quince días hábiles posteriores a la celebración de la respectiva sesión, se enviará el proyecto de Acta a cada persona consejera, con el objetivo de recabar sus observaciones durante los siguientes diez días hábiles. Acordada la redacción del Acta, en la siguiente sesión se someterá a consideración su aprobación para su posterior firma.
 
 ###### Artículo 25.
 
 Para la formalización de las actas de las sesiones del Consejo Nacional, se observará lo siguiente:
 
-I. En caso de ser necesario, la Secretaría Técnica certificará la existencia de los acuerdos adoptados en las sesiones, independientemente de que no se tenga formalizada el acta respectiva;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/AGN/Reforma_Reglamento_Consejo_Nacional_Archivos.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+I. Cuando así se solicite expresamente en la sesión respectiva, en caso de ser necesario, la Secretaría Técnica certificará la existencia de los acuerdos adoptados en las sesiones, independientemente de que no se tenga formalizada el acta respectiva;
 
 II. Una vez aprobada el acta de la sesión, se enviará por correo electrónico el documento definitivo con la hoja de firma que corresponda a cada integrante;
 
-III. La persona consejera titular o suplente que asistió a la sesión deberá imprimir y firmar la hoja correspondiente, ya sea a color o blanco y negro;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/AGN/Reforma_Reglamento_Consejo_Nacional_Archivos.pdf]</small>
 
-IV. Se deberá firmar la hoja respectiva y una vez que se cuente con ella, se enviará a la Secretaría Técnica en original, a través de correo postal o por mensajería, o de forma digitalizada a la cuenta oficial de la Secretaría Técnica;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+III. El consejero titular o suplente que asistió a la sesión deberá imprimir y firmar la hoja correspondiente, ya sea a color o blanco y negro, o bien autorizar el documento digital empleando para ello su firma electrónica;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/AGN/Reforma_Reglamento_Consejo_Nacional_Archivos.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+IV. Se deberá firmar la hoja respectiva y una vez que se cuente con ella, se enviará a la Secretaría Técnica en original, a través de correo postal, por mensajería o correo electrónico, o en forma digital a la cuenta oficial de la Secretaría Técnica, en el caso de firma electrónica;
 
 V. La Secretaría Técnica recabará las hojas de firma y certificará aquellas que se reciban de forma digitalizada para dar constancia de su recepción, asentando la fecha y los datos de identificación del remitente.
 
-VI. Las personas que hayan participado por la Presidencia y la Secretaría Técnica deberán rubricar todas las hojas que integran el acta, además de incluir su firma donde corresponda.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/AGN/Reforma_Reglamento_Consejo_Nacional_Archivos.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+VI. Las personas que hayan participado por la Presidencia y la Secretaría Técnica deberán rubricar todas las hojas que integran el acta, además de incluir su firma donde corresponda, o bien firmar el documento completo con firma electrónica.
 
 ###### Artículo 26.
 
@@ -511,7 +559,11 @@ Por cada sesión se deberá integrar un acta, que contendrá:
 
 I. Número consecutivo de la sesión;
 
-II. Fecha, lugar y horario;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/AGN/Reforma_Reglamento_Consejo_Nacional_Archivos.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+II. Fecha, lugar o medio de celebración y horario;
 
 III. Asistentes;
 
@@ -521,7 +573,11 @@ V. Acuerdos y responsable de llevar a cabo su cumplimiento;
 
 VI. Fecha, y
 
-VII. Firma autógrafa de las personas consejeras.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/AGN/Reforma_Reglamento_Consejo_Nacional_Archivos.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+VII. Firma autógrafa o electrónica de las personas consejeras.
 
 En un plazo no mayor a diez días hábiles, se enviará el proyecto de Acta a las personas consejeras que hayan participado, con el objetivo de recabar sus observaciones durante los siguientes diez días hábiles. Acordada la redacción del Acta, en la siguiente sesión se someterá a la aprobación para su posterior firma, aplicando en lo que corresponda el artículo 25 del presente Reglamento.
 
@@ -700,3 +756,27 @@ El Dr. Carlos Enrique Ruiz Abreu y el Mtro. Marco Palafox Schmid, Presidente y S
 Carlos Enrique Ruiz Abreu
 
 Marco Palafox Schmid
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F 30 DE MARZO DE 2022.
+
+> <small>[N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL AVISO QUE SE RELACIONA CON EL ORDENAMIENTO.]</small>
+
+AVISO MEDIANTE EL CUAL SE DA A CONOCER EL ACUERDO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL CONSEJO NACIONAL DE ARCHIVOS, PARA TODOS LOS EFECTOS JURÍDICOS A QUE HAYA LUGAR
+
+Para conocimiento de los interesados se da a conocer el Acuerdo que Reforma y Deroga diversas disposiciones del Reglamento del Consejo Nacional de Archivos, el cual puede consultarse en los siguientes enlaces, para todos los efectos jurídicos a que haya lugar:
+
+https://www.gob.mx/cms/uploads/attachment/file/687673/Reforma_Reglamento_CONARCH.pdf
+
+www.dof.gob.mx/2022/AGN/Reforma_Reglamento_Consejo_Nacional_Archivos.pdf
+
+Dado en la Ciudad de México, al veintiséis del mes de noviembre de dos mil veintiuno.- El Presidente del Consejo Nacional de Archivos, Carlos Enrique Ruiz Abreu.- Rúbrica.- Validó: Marco Palafox Schmid, Secretario Técnico.- Rúbrica.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/AGN/Reforma_Reglamento_Consejo_Nacional_Archivos.pdf]</small>
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL CONSEJO NACIONAL DE ARCHIVOS”.]
+
+PRIMERO. Publíquese el presente Acuerdo que reforma y deroga diversas disposiciones del Reglamento del Consejo Nacional de Archivos.
+
+SEGUNDO. El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
