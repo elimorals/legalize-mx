@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-12960
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-07-30"
-last_updated: "2021-09-22"
+last_updated: "2022-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129609&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2018-07-18"
 ---
 # ESTATUTO ORGANICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE MAYO DE 2022 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 ESTATUTO ORGÁNICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MARZO DE 2022.
 
 Estatuto publicado en la Segunda Sección al Número 21 del Diario Oficial de la Federación, el lunes 30 de julio de 2018.
 
@@ -85,11 +87,17 @@ II. Dirección General;
 
 III. Comités de la Financiera;
 
-IV. Direcciones Generales Adjuntas y Coordinación General;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
-V. Unidad para la Administración Integral de Riesgos;
+IV. Direcciones de Unidades Corporativas y Coordinación General;
 
-VI. Auditoría Interna;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+V. Director Ejecutivo de Administración Integral de Riesgos;
+
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+VI. Director Ejecutivo de Auditoría Interna;
 
 VII. Direcciones Ejecutivas;
 
@@ -375,13 +383,19 @@ VIII. Llevar a cabo las demás actividades que dentro del ámbito de su competen
 
 ### CAPÍTULO III. ATRIBUCIONES Y FACULTADES ESPECÍFICAS QUE CORRESPONDEN A LAS UNIDADES ADMINISTRATIVAS DE LA FINANCIERA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 19.
 
-Corresponde a la Unidad para la Administración Integral de Riesgos:
+Corresponde a la Dirección Ejecutiva de Administración Integral de Riesgos:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 30 DE MARZO DE 2022)</small>
 
 I. Dirigir el proceso de administración de riesgos para que considere todos los riesgos en que incurre la Financiera dentro de sus diversas unidades de negocio;
 
-II. Asegurar que la Unidad realice las acciones necesarias para responder en tiempo y forma a las supervisiones y/o auditorías en materia de riesgos realizadas a la Financiera;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+II. Asegurar que la Dirección Ejecutiva de Administración Integral de Riesgos realice las acciones necesarias para responder en tiempo y forma a las supervisiones y/o auditorías en materia de riesgos realizadas a la Financiera;
 
 III. Proponer las metodologías, modelos y parámetros necesarios para identificar, medir, vigilar, limitar, controlar, informar y revelar los distintos tipos de riesgos a que se encuentra expuesta la Financiera, incluyendo los asociados a nuevas operaciones, productos y servicios, así como sus modificaciones;
 
@@ -417,9 +431,11 @@ XV. Establecer, emitir y difundir, acciones, instrucciones, planes, procesos, pr
 
 XVI. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomiende el Director General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 20.
 
-Corresponde a Auditoría Interna:
+Corresponde a la Dirección Ejecutiva de Auditoría Interna:
 
 I. Dirigir y evaluar con base en el programa anual de trabajo a que se refiere la fracción XI del artículo 160 de las Disposiciones de Carácter General Aplicables a las Instituciones de Crédito, mediante pruebas sustantivas, procedimentales y de cumplimiento, el funcionamiento operativo de las distintas unidades de la Financiera, así como su apego al Sistema de Control Interno, incluyendo la observancia del Código de Conducta;
 
@@ -437,7 +453,9 @@ VI. Facilitar a las autoridades financieras competentes, así como a los auditor
 
 VII. Verificar la estructura organizacional autorizada por el Consejo, en relación con la independencia de las distintas funciones que lo requieran, así como la efectiva segregación de funciones y ejercicio de facultades atribuidas a cada unidad de la Financiera;
 
-VIII. Verificar el procedimiento mediante el cual la Unidad para la Administración Integral de Riesgos, dé seguimiento al cumplimiento de los límites en la asunción de riesgos al celebrar operaciones, así como a los niveles de tolerancia definidos, en el caso de los riesgos no discrecionales, acorde con las disposiciones legales aplicables, así como con las políticas establecidas por la Financiera;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+VIII. Verificar el procedimiento mediante el cual la Dirección Ejecutiva de Administración Integral de Riesgos, dé seguimiento al cumplimiento de los límites en la asunción de riesgos al celebrar operaciones, así como a los niveles de tolerancia definidos, en el caso de los riesgos no discrecionales, acorde con las disposiciones legales aplicables, así como con las políticas establecidas por la Financiera;
 
 IX. Proporcionar al Comité de Auditoría los elementos que le permitan cumplir con lo establecido en la fracción VI del Artículo 156 de las Disposiciones de Carácter General Aplicables a las Instituciones de Crédito, emitidas por la Comisión;
 
@@ -489,9 +507,11 @@ X. Establecer, emitir y difundir, acciones, instrucciones, planes, procesos, pro
 
 XI. Las demás que las disposiciones legales y administrativas le confieran y las que le encomiende su superior jerárquico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 22.
 
-Corresponde a la Unidad de Prevención de Lavado de Dinero y Combate al Financiamiento al Terrorismo:
+Corresponde al Titular del Área de Prevención de Lavado de Dinero y Combate al Financiamiento al Terrorismo:
 
 I. Elaborar y someter a consideración del Comité de Comunicación y Control las políticas, medidas, criterios y procedimientos de identificación y conocimiento del cliente y criterios, medidas y procedimientos que deberán adoptar para dar cumplimiento a lo previsto en la normativa y mejores prácticas financieras en materia de prevención de operaciones con recursos de procedencia ilícita y combate al financiamiento al terrorismo;
 
@@ -515,9 +535,11 @@ X. Dar seguimiento a los avisos emitidos por personal de la Financiera en materi
 
 XI. Realizar las demás funciones y/o responsabilidades que dentro del ámbito de su competencia se deriven de las normativas y disposiciones aplicables, así como aquellas que en la materia le instruya el Director Ejecutivo de Contraloría Interna.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 23.
 
-Corresponde a la Dirección General Adjunta Jurídica y Fiduciaria:
+Corresponde a la Dirección de Unidad Corporativa Jurídica y Fiduciaria:
 
 > <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
 
@@ -537,13 +559,17 @@ V. Establecer, emitir y difundir, acciones, instrucciones, planes, procesos, pro
 
 VI. Dentro de su esfera de atribuciones, suplir al Director General de la Financiera en el cumplimiento de las obligaciones que tengan término;
 
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
 VII. Instruir estrategias de coordinación técnica dirigidas a las Gerencias de Coordinación Regional Jurídica, así como de apoyo corporativo jurídico a las unidades administrativas de la Financiera.
 
-Para tales efectos, las Gerencias de Coordinación Regional Jurídica dependerán en materia técnica y decisoria de la Dirección General Adjunta Jurídica y Fiduciaria, cuyas resoluciones vincularán en todo momento a dichas Gerencias;
+Para tales efectos, las Gerencias de Coordinación Regional Jurídica dependerán en materia técnica y decisoria a la Dirección de Unidad Corporativa Jurídica y Fiduciaria, cuyas resoluciones vincularán en todo momento a dichas Gerencias;
 
 VIII. Proponer al Director General el nombramiento, remoción, cambio de adscripción y promoción, de conformidad con la normatividad institucional, de los Gerentes de Coordinación Regional Jurídica de la Financiera, de los servidores públicos adscritos a dichas Gerencias Jurídicas, así como de los Ejecutivos Jurídicos de las Agencias de Crédito Rural;
 
-IX. Atraer los asuntos en materia jurídica, que a su consideración deban ser atendidos por los servidores públicos adscritos a la Dirección General Adjunta Jurídica y Fiduciaria;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+IX. Atraer los asuntos en materia jurídica, que a su consideración deban ser atendidos por los servidores públicos adscritos a la Dirección de Unidad Corporativa Jurídica y Fiduciaria;
 
 X. Diseñar y coordinar la política de relaciones interinstitucionales con las dependencias y entidades de la Administración Pública Federal, los poderes legislativo y judicial, los representantes de los diversos órganos de gobierno, así como con los sectores privado y social;
 
@@ -581,7 +607,9 @@ II. Participar en los diversos órganos colegiados de la Financiera conforme lo 
 
 III. Coadyuvar en la coordinación técnica dirigida a las Gerencias de Coordinación Regional Jurídica, así como el apoyo jurídico a las unidades administrativas de la Financiera;
 
-IV. Coadyuvar con la Dirección General Adjunta Jurídica y Fiduciaria en las funciones derivadas de la fracción VIII del artículo 23 de este Estatuto;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+IV. Coadyuvar con la Dirección de Unidad Corporativa Jurídica y Fiduciaria; en las funciones derivadas de la fracción VIII del artículo 23 de este Estatuto;
 
 V. Supervisar la implementación de acciones para la administración del riesgo legal de la Financiera;
 
@@ -593,7 +621,9 @@ VII. Dirigir las acciones jurídico corporativas tendientes a la rendición de l
 
 VIII. Dirigir los trabajos de verificación de antecedentes registrales en los registros públicos que correspondan, tanto de los bienes muebles e inmuebles objeto de las garantías que se constituyan a favor de la Financiera, como de las personas morales que participen en el crédito, a través de la contratación de despachos verificadores, y
 
-IX. Las demás que, dentro del área de su competencia, se deriven de las disposiciones aplicables, así como aquellas que le encomiende el titular de la Dirección General Adjunta Jurídica y Fiduciaria.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+IX. Las demás que, dentro del área de su competencia, se deriven de las disposiciones aplicables, así como aquellas que le encomiende el titular de la Dirección de Unidad Corporativa Jurídica y Fiduciaria.
 
 ###### ARTÍCULO 25.
 
@@ -609,13 +639,13 @@ IV. Fungir como titular de la unidad de consultas y reclamaciones de usuarios de
 
 V. Proponer modificaciones a los lineamientos para la contratación de servicios de abogados externos para la defensa de los intereses de la Financiera, que contemplen entre otras cosas, la autorización del pago de honorarios por servicios brindados por despachos externos y la aprobación de los gastos judiciales de la Financiera, y
 
-> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
-V. BIS. Coadyuvar con la Dirección General Adjunta Jurídica y Fiduciaria en la gestión de la cartera judicial y;
+V. BIS. Coadyuvar con la Dirección de Unidad Corporativa Jurídica y Fiduciaria, en la gestión de la cartera judicial; y
 
-> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
-VI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director General Adjunto Jurídico y Fiduciario.
+VI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director de Unidad Corporativa Jurídica y Fiduciaria y/o el Director Ejecutivo Jurídico.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE JULIO DE 2019)</small>
 
@@ -635,11 +665,13 @@ IV. Proporcionar el apoyo jurídico a las diversas unidades administrativas de l
 
 V. Coadyuvar con el Prosecretario en el control de la información, integración de la documentación de aquellos asuntos que se someterán a la consideración del Consejo Directivo, así como en el seguimiento de los acuerdos que adopte dicho Órgano Directivo;
 
-> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
-VI. Coadyuvar con la Secretaría de los distintos órganos colegiados en los que la Dirección General Adjunta Jurídica y Fiduciaria participe con tal carácter, así como aquellos que le instruya la Dirección Ejecutiva Jurídica, en el control de la información e integración de la documentación de aquellos asuntos que se someterán a la consideración de los Cuerpos Colegiados, así como en el seguimiento de los acuerdos que adopten;
+VI. Coadyuvar con la Secretaría de los distintos órganos colegiados en los que la Dirección de Unidad Corporativa Jurídica y Fiduciaria, participe con tal carácter, así como aquellos que le instruya la Dirección Ejecutiva Jurídica, en el control de la información e integración de la documentación de aquellos asuntos que se someterán a la consideración de los Cuerpos Colegiados, así como en el seguimiento de los acuerdos que adopten;
 
-VII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director General Adjunto Jurídico y Fiduciario y/o el Director Ejecutivo Jurídico.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+VII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director de Unidad Corporativa Jurídica y Fiduciaria y/o el Director Ejecutivo Jurídico.
 
 ###### ARTÍCULO 27.
 
@@ -649,7 +681,9 @@ I. Definir estrategias de coordinación técnica y decisoria dirigidas a las Ger
 
 II. Dirigir acciones orientadas a evaluar y verificar el cumplimiento de las facultades atribuidas a las Gerencias de Coordinación Regional Jurídica con el objeto de implementar las acciones de mejora que sean necesarias;
 
-III. Evaluar, para una adecuada toma de decisiones, la información estratégica generada en las Gerencias de Coordinación Regional Jurídica, basada en los programas o criterios que emita la Dirección General Adjunta Jurídica y Fiduciaria, para el desarrollo y la mejora continua de los procesos que operen dichas Gerencias Jurídicas;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+III. Evaluar, para una adecuada toma de decisiones, la información estratégica generada en las Gerencias de Coordinación Regional Jurídica, basada en los programas o criterios que emita la Dirección de Unidad Corporativa Jurídica y Fiduciaria, para el desarrollo y la mejora continua de los procesos que operen dichas Gerencias Jurídicas;
 
 IV. Diseñar programas de trabajo que permitan evaluar los procedimientos de otorgamiento de crédito, recuperación de cartera, negocio fiduciario, avalúos y demás procesos jurídicos que se llevan a cabo en las Gerencias de Coordinación Regional Jurídica, cuyos resultados permitan la estandarización y homologación de procesos y criterios;
 
@@ -659,7 +693,9 @@ VI. Proponer las remociones, reubicaciones, reasignaciones y cambios de radicaci
 
 VII. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-VIII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director General Adjunto Jurídico y Fiduciario y/o el Director Ejecutivo Jurídico.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+VIII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director de Unidad Corporativa Jurídica y Fiduciaria y/o el Director Ejecutivo Jurídico.
 
 > <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2021)</small>
 
@@ -679,11 +715,15 @@ V. Supervisar las actividades de compilación y divulgación de la legislación 
 
 VI. Supervisar la ejecución de los trámites ante fedatario público para la protocolización, cotejo y certificación de documentos, formalización y revocación de poderes que otorga la Financiera;
 
-VII. Proporcionar el apoyo jurídico a las diversas unidades administrativas de la Financiera, así como a los Comités y grupos de trabajo que incidan en el ámbito de su competencia, así como aquellos que le instruya la Dirección General Adjunta Jurídica y Fiduciaria;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+VII. Proporcionar el apoyo jurídico a las diversas unidades administrativas de la Financiera, así como a los Comités y grupos de trabajo que incidan en el ámbito de su competencia, así como aquellos que le instruya la Dirección de Unidad Corporativa Jurídica y Fiduciaria;
 
 VIII. Coordinar las acciones jurídico corporativas y ser el conducto de la Financiera para rendir los informes que en materia corporativa sean requeridos por las autoridades competentes con domicilio en la Ciudad de México, y
 
-IX. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director General Adjunto Jurídico y Fiduciario y/o el Director Ejecutivo Jurídico.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+IX. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director de Unidad Corporativa Jurídica y Fiduciaria y/o el Director Ejecutivo Jurídico.
 
 > <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2021)</small>
 
@@ -693,7 +733,9 @@ Corresponde a la Dirección Ejecutiva Fiduciaria y de Avalúos:
 
 I. Establecer y emitir las estrategias de contratación que deberán ser aplicables a los negocios fiduciarios y de avalúos, con el propósito de dar cumplimiento a los objetivos establecidos en los lineamientos y políticas, autorizadas por el Consejo Directivo.
 
-II. Establecer comunicación con organismos e instituciones orientadas a la inversión y financiamiento de proyectos productivos del sector agropecuario, rural, forestal y pesquero a fin de diseñar de manera conjunta los negocios fiduciarios que eleven la productividad en los sectores, así como la aplicación de las mejores prácticas en coordinación con las Direcciones Generales Adjuntas o áreas competentes;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+II. Establecer comunicación con organismos e instituciones orientadas a la inversión y financiamiento de proyectos productivos del sector agropecuario, rural, forestal y pesquero a fin de diseñar de manera conjunta los negocios fiduciarios que eleven la productividad en los sectores, así como la aplicación de las mejores prácticas en coordinación con las Direcciones de Unidades Corporativas o áreas competentes;
 
 III. Desarrollar los proyectos de negocios fiduciarios y de avalúos, que se encuentren vinculados al fortalecimiento del sector agropecuario, rural, forestal y pesquero, mediante la promoción de estrategias de negocios para la mejora continua;
 
@@ -709,7 +751,9 @@ VIII. Participar, en los Comités, Subcomités, Grupos de Trabajo Institucional,
 
 IX. Dirigir y vigilar la correcta aplicación de las políticas, lineamientos y demás normatividad aplicable en materia Fiduciaria y de Avalúos;
 
-X. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que le encomiende el Director General Adjunto Jurídico y Fiduciario.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+X. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que le encomiende el Director de Unidad Corporativa Jurídica y Fiduciaria.
 
 > <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2021)</small>
 
@@ -737,11 +781,15 @@ IX. Desarrollar procedimientos de supervisión en el desarrollo de las actividad
 
 X. Desarrollar procesos, metodologías y procedimientos que reduzcan los riesgos operativos de los negocios fiduciarios, mandatos, comisiones y avalúos;
 
-XI. Proponer a la Dirección General Adjunta Jurídica y Fiduciaria procesos y procedimientos para el desarrollo de los negocios fiduciario y de avalúos, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+XI. Proponer a la Dirección de Unidad Corporativa Jurídica y Fiduciaria, procesos y procedimientos para el desarrollo de los negocios fiduciario y de avalúos, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
 
 XII. Coordinar la opinión y dictaminación sobre la procedencia de convenios, contratos y demás actos jurídicos que celebre la Financiera en materia fiduciaria, mandatos y comisiones, así como en materia de avalúos y, en su caso emitir la validación correspondiente a dichos actos; y
 
-XIII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director General Adjunto Jurídico y Fiduciario y/o el Director Ejecutivo Fiduciario y de Avalúos.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+XIII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director de Unidad Corporativa Jurídica y Fiduciaria y/o el Director Ejecutivo Fiduciario y de Avalúos.
 
 ###### ARTÍCULO 31.
 
@@ -837,9 +885,11 @@ XIV. Dirigir y supervisar la labor del Call Center Institucional, y
 
 XV. Las demás que le encomiende el Coordinador General de Análisis Sectorial, Planeación Estratégica y Comunicación Social en el ámbito de su competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 34.
 
-Corresponde a la Dirección General Adjunta de Crédito:
+Corresponde a la Dirección de Unidad Corporativa de Crédito:
 
 > <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
 
@@ -863,9 +913,11 @@ V. Coadyuvar en la dirección de la relación de la Financiera con las sociedade
 
 V. BIS. Coadyuvar la generación de los mecanismos de venta, subasta, concesión y bursatilización de la cartera vencida;
 
-VI. Proponer al Director General el nombramiento, remoción, cambio de adscripción y promoción, de conformidad con la normatividad institucional, de los Gerentes de Coordinación Regional de Análisis de Crédito y de los Gerentes Regionales de Supervisión y Cobranza de la Financiera, así como de los servidores públicos adscritos a dichas gerencias
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
-Las Gerencias mencionadas en el párrafo anterior, dependerán en materia técnica y decisoria de la Dirección General Adjunta de Crédito, cuyas resoluciones vincularán en todo momento a dichas Gerencias.
+VI. Proponer al Director General el nombramiento, remoción, cambio de adscripción y promoción, de conformidad con la normatividad institucional, de los Gerentes de Coordinación Regional de Análisis de Crédito y de los Gerentes Regionales de Supervisión y Cobranza de la Financiera, así como de los servidores públicos adscritos a dichas gerencias.
+
+Las Gerencias mencionadas en el párrafo anterior, dependerán en materia técnica y decisoria de la Dirección de Unidad Corporativa de Crédito, cuyas resoluciones vincularán en todo momento a dichas Gerencias.
 
 VII. Atraer los asuntos en materia crediticia, que a consideración del Director General deban ser atendidos directamente por dicho servidor público;
 
@@ -889,9 +941,9 @@ XIII. Instrumentar las acciones para el seguimiento al proceso de crédito;
 
 XIV. Dirigir las acciones de capacitación en materia de normatividad, procesos y análisis de crédito, de reporto y de otros financiamientos;
 
-> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
-XV. Establecer, emitir y difundir acciones, instrucciones, planes, procesos, procedimientos y circulares en materia de recuperación de casos particulares, en coordinación con la Dirección General Adjunta Jurídica y Fiduciaria, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
+XV. Establecer, emitir y difundir acciones, instrucciones, planes, procesos, procedimientos y circulares en materia de recuperación de casos particulares, en coordinación con la Dirección de Unidad Corporativa Jurídica y Fiduciaria, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
 
 XVI. Instrumentar las acciones para la calificación de la cartera crediticia, y
 
@@ -911,7 +963,9 @@ IV. Vigilar el análisis, resolución y otorgamiento de los créditos presentado
 
 V. Vigilar y mantener la relación de la Financiera con las sociedades de información crediticia y/o con las Instituciones de Banca de Desarrollo en lo relacionado a este tema;
 
-VI. Atender los asuntos en materia crediticia, que a consideración del Director General Adjunto de Crédito deban ser tratados directamente por la Dirección Ejecutiva;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+VI. Atender los asuntos en materia crediticia, que a consideración del Director de Unidad Corporativa de Crédito; deban ser tratados directamente por la Dirección Ejecutiva;
 
 VII. Dirigir y vigilar los mecanismos para la supervisión y cobranza extrajudicial de la cartera crediticia de la Financiera;
 
@@ -925,11 +979,15 @@ XI. Dirigir el seguimiento al proceso de crédito;
 
 XII. Establecer la capacitación en materia de normatividad, procesos y análisis de crédito, de reporto y de otros financiamientos;
 
-XIII. Vigilar la implementación de las estrategias de recuperación, de casos particulares, en coordinación con la Dirección General Adjunta Jurídica y Fiduciaria;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+XIII. Vigilar la implementación de las estrategias de recuperación, de casos particulares, en coordinación con la Dirección de Unidad Corporativa Jurídica y Fiduciaria;
 
 XIV. Dirigir el proceso de la calificación de la cartera crediticia, y
 
-XV. Llevar a cabo las actividades dentro del área de su competencia que le encomiende el Director General Adjunto de Crédito.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+XV. Llevar a cabo las actividades dentro del área de su competencia que le encomiende el Director de Unidad Corporativa de Crédito;
 
 ###### ARTÍCULO 36.
 
@@ -943,7 +1001,9 @@ II. Vigilar el procesamiento de las operaciones de crédito, de reporto y de otr
 
 II. BIS. Almacenar la documentación original que respalde las operaciones de financiamiento en el guardavalores; y
 
-III. Llevar a cabo las actividades dentro del área de su competencia, que le encomiende el Director General Adjunto de Crédito y/o el Director Ejecutivo de Análisis y Normatividad de Crédito.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+III. Llevar a cabo las actividades dentro del área de su competencia, que le encomiende el Director de Unidad Corporativa de Crédito y/o el Director Ejecutivo de Análisis y Normatividad de Crédito.
 
 ###### ARTÍCULO 37.
 
@@ -965,15 +1025,21 @@ VII. Coordinar las actividades internas y externas relacionadas con las Sociedad
 
 VIII. Coordinar los trabajos de calificación de cartera e integración de la información para su presentación y autorización por parte de las instancias correspondientes, y
 
-IX. Llevar a cabo las actividades dentro del área de su competencia, que le encomiende el Director General Adjunto de Crédito y/o el Director Ejecutivo de Análisis y Normatividad de Crédito.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+IX. Llevar a cabo las actividades dentro del área de su competencia, que le encomiende el Director de Unidad Corporativa de Crédito y/o el Director Ejecutivo de Análisis y Normatividad de Crédito.
 
 ###### ARTÍCULO 38.
 
 Corresponde a la Subdirección Corporativa de Normatividad de Crédito:
 
-I. Coordinar las propuestas del Manual de Normas y Políticas de Crédito y del Manual de Normas y Políticas de Reporto, así como sus modificaciones o ajustes;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
-II. Coordinar las propuestas de circulares normativas e interpretaciones respecto al Manual de Normas y Políticas de Crédito y al Manual de Normas y Políticas de Reporto y demás políticas, lineamientos, normas y procedimientos;
+I. Coordinar las propuestas de los Lineamientos y Manual de Crédito y del Manual de Normas y Políticas de Reporto, así como sus modificaciones o ajustes;
+
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+II. Coordinar las propuestas de circulares normativas e interpretaciones respecto a los Lineamientos y Manual de Crédito y al Manual de Normas y Políticas de Reporto y demás políticas, lineamientos, normas y procedimientos;
 
 III. Coordinar la actualización de las normas, políticas y procedimientos aplicables al proceso de crédito y de reporto y actuar como área consultiva en dichas materias;
 
@@ -985,7 +1051,9 @@ VI. Coordinar las propuestas de capacitación en materia de normatividad y proce
 
 VII. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-VIII. Llevar a cabo las actividades dentro del área de su competencia, que le encomiende el Director General Adjunto de Crédito y/o el Director Ejecutivo de Análisis y Normatividad de Crédito.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+VIII. Llevar a cabo las actividades dentro del área de su competencia, que le encomiende el Director de Unidad Corporativa de Crédito y/o el Director Ejecutivo de Análisis y Normatividad de Crédito.
 
 ###### ARTÍCULO 39.
 
@@ -997,7 +1065,9 @@ II. Coordinar la evaluación del desempeño en la recuperación y cobranza que e
 
 III. Implementar las propuestas de los mecanismos de supervisión y cobranza administrativa y extrajudicial de la cartera de la Financiera, para su seguimiento y vigilancia a fin de identificar, evaluar y corregir el desempeño de las acciones realizadas por las Coordinaciones Regionales;
 
-IV. Coordinar la implementación con la Dirección General Adjunta Jurídica y Fiduciaria, de las estrategias de recuperación en casos particulares;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+IV. Coordinar la implementación con la Dirección de Unidad Corporativa Jurídica y Fiduciaria, de las estrategias de recuperación en casos particulares;
 
 V. Coordinar la evaluación de la calidad de los reportes de supervisión y seguimiento al acreditado, durante la vigencia del financiamiento;
 
@@ -1009,11 +1079,15 @@ VIII. Coordinar el seguimiento y supervisión de la cartera crediticia de la Fin
 
 IX. Coordinar las actividades de las Gerencias Regionales de Supervisión y Cobranza, y
 
-X. Llevar a cabo las actividades dentro del área de su competencia, que le encomiende el Director General Adjunto de Crédito y el Director Ejecutivo de Análisis y Normatividad de Crédito.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+X. Llevar a cabo las actividades dentro del área de su competencia, que le encomiende el Director de Unidad Corporativa de Crédito y el Director Ejecutivo de Análisis y Normatividad de Crédito.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 40.
 
-Corresponde a la Dirección General Adjunta de Promoción de Negocios y Coordinación Regional:
+Corresponde a la Dirección de Unidad Corporativa de Promoción de Negocios y Coordinación Regional:
 
 > <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
 
@@ -1025,9 +1099,9 @@ III. Proporcionar apoyos y servicios de promoción, capacitación, asesoría, or
 
 IV. Proporcionar apoyos y servicios de promoción, capacitación, consultoría y otras modalidades que contribuyan al diseño, incubación y fortalecimiento de entidades dispersoras de crédito e Intermediarios Financieros Rurales;
 
-> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
-V. Coadyuvar con la Dirección General Adjunta de Finanzas, Operaciones y Sistemas en el uso los recursos asignados a las actividades de promoción, capacitación, asesoría, consultoría y organización, en el Presupuesto de la Financiera;
+V. Coadyuvar con la Dirección de Unidad Corporativa de Finanzas, Operaciones y Sistemas en el uso los recursos asignados a las actividades de promoción, capacitación, asesoría, consultoría y organización, en el Presupuesto de la Financiera;
 
 > <small>(ADICIONADA, D.O.F. 22 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1067,9 +1141,9 @@ XVII. Proponer al Director General el nombramiento, remoción, cambio de adscrip
 
 Proponer al Director General, el establecimiento, reubicación y cierre de Agencias y Módulos en las Coordinaciones Regionales;
 
-> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
-XVIII. Coadyuvar con la Dirección General Adjunta de Finanzas, Operaciones y Sistemas, en la negociación en materia de financiamiento y en el diseño de programas y productos específicos, con las Instituciones de Banca de Desarrollo, Fideicomisos Públicos de Fomento, Fideicomisos Instituidos en Relación con la Agricultura constituidos en el Banco de México y Organismos Financieros Internacionales, para contratar líneas de crédito y demás financiamientos que tengan como finalidad financiar programas o proyectos relacionados con el cumplimiento del objeto de la Financiera;
+XVIII. Coadyuvar con la Dirección de Unidad Corporativa de Finanzas, Operaciones y Sistemas, en la negociación en materia de financiamiento y en el diseño de programas y productos específicos, con las Instituciones de Banca de Desarrollo, Fideicomisos Públicos de Fomento, Fideicomisos Instituidos en Relación con la Agricultura constituidos en el Banco de México y Organismos Financieros Internacionales, para contratar líneas de crédito y demás financiamientos que tengan como finalidad financiar programas o proyectos relacionados con el cumplimiento del objeto de la Financiera.
 
 XIX. Informar al Director General, previo a la autorización de las instancias correspondientes, aquellas operaciones que pudiesen estar vinculadas con el objeto de las Instituciones de Banca de Desarrollo;
 
@@ -1081,9 +1155,9 @@ XXI. Proponer al Director General de la Financiera, las medidas de ajuste que se
 
 XXII. Diseñar y proponer estrategias de participación de la Financiera en foros, eventos, convenios e iniciativas de cooperación para promover la participación de instituciones y organismos en proyectos productivos que fortalezcan el desarrollo del sector agropecuario, rural, forestal y pesquero mexicano, así como dar seguimiento al cumplimiento de las obligaciones que de ellos se derive;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 22 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
-XXIII. Establecer comunicación con organismos e instituciones orientadas a la inversión y financiamiento de proyectos productivos del sector agropecuario, rural, forestal y pesquero a fin de diseñar de manera conjunta los negocios que eleven la productividad en los sectores, así como la aplicación de las mejores prácticas en coordinación con las Direcciones Generales Adjuntas o áreas competentes, y
+XXIII. Establecer comunicación con organismos e instituciones orientadas a la inversión y financiamiento de proyectos productivos del sector agropecuario, rural, forestal y pesquero a fin de diseñar de manera conjunta los negocios que eleven la productividad en los sectores, así como la aplicación de las mejores prácticas en coordinación con los Directores de Unidades Corporativas o áreas competentes, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 22 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1101,9 +1175,9 @@ I. Coadyuvar en la dirección, coordinación y seguimiento a las funciones inher
 
 II. Coadyuvar en la evaluación del cumplimiento de las metas y objetivos asignados a las Coordinaciones Regionales conforme a las prioridades establecidas en la fracción anterior;
 
-> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
-III. Proponer a la Dirección General Adjunta de Promoción de Negocios y Coordinación Regional, las medidas de ajuste que sean requeridas para asegurar el cumplimiento de los objetivos, metas y prioridades establecidas de las Coordinaciones Regionales;
+III. Proponer a la Dirección de Unidad Corporativa de Promoción de Negocios y Coordinación Regional, las medidas de ajuste que sean requeridas para asegurar el cumplimiento de los objetivos, metas y prioridades establecidas de las Coordinaciones Regionales;
 
 IV. Promover acciones para la mejora continua e innovación de los programas de financiamiento, productos de crédito y procesos de la Financiera;
 
@@ -1117,7 +1191,9 @@ VII. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
 VIII. Participar en el ámbito de su competencia, en la preparación de la información que por Ley y disposiciones normativas debe ser entregada a entidades reguladoras de la Financiera para cumplir con las disposiciones establecidas en esta materia, y
 
-IX. Las demás que le encomiende el Director General Adjunto de Promoción de Negocios y Coordinación Regional en el ámbito de su competencia.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+IX. Las demás que le encomiende el Director de Unidad Corporativa de Promoción de Negocios y Coordinación Regional en el ámbito de su competencia.
 
 ###### ARTÍCULO 42.
 
@@ -1139,7 +1215,9 @@ V. Aplicar los esquemas de coordinación para la planeación, evaluación y segu
 
 VI. Brindar la asesoría necesaria a las Coordinaciones Regionales y Agencias de Crédito Rural sobre la metodología de evaluación aplicada, y
 
-VII. Las demás que le encomiende el Director General Adjunto de Promoción de Negocios y Coordinación Regional y/o el Director Ejecutivo de Enlace y Evaluación de Coordinaciones Regionales en el ámbito de su competencia.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+VII. Las demás que le encomiende el Director de Unidad Corporativa de Promoción de Negocios y Coordinación Regional y/o el Director Ejecutivo de Enlace y Evaluación de Coordinaciones Regionales en el ámbito de su competencia.
 
 ###### ARTÍCULO 43.
 
@@ -1163,13 +1241,17 @@ V. Coadyuvar en la aprobación para la asignación de los recursos destinados a 
 
 VI. Coadyuvar al establecimiento y dirección de las actividades de seguimiento y evaluación de la promoción del crédito en primer piso de las Coordinaciones Regionales y Agencias;
 
-VII. Apoyar a la Dirección General Adjunta de Promoción de Negocios y Coordinación Regional en la promoción de las líneas de negocio de la Financiera por medio de los programas de financiamiento, productos de crédito y operaciones de reporto o garantía, y de los programas de apoyo en operaciones de primer piso que determine el Presupuesto de Egresos de la Federación, con excepción de los relacionados con los apoyos presupuestales del componente para el Fortalecimiento de las Organizaciones de Productores;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+VII. Apoyar a la Dirección de Unidad Corporativa de Promoción de Negocios y Coordinación Regional en la promoción de las líneas de negocio de la Financiera por medio de los programas de financiamiento, productos de crédito y operaciones de reporto o garantía, y de los programas de apoyo en operaciones de primer piso que determine el Presupuesto de Egresos de la Federación, con excepción de los relacionados con los apoyos presupuestales del componente para el Fortalecimiento de las Organizaciones de Productores;
 
 VIII. Coordinar en el ámbito de su competencia la operación en el otorgamiento de apoyos específicamente encomendados;
 
 IX. Coadyuvar en el establecimiento, dirección y supervisión de la promoción crediticia en primer piso a través de técnicas de mercadeo, la venta de productos y servicios crediticios, así como la detección de zonas y clientes potenciales para el desarrollo, y
 
-X. Realizar las demás funciones y/o responsabilidades dentro del ámbito de su competencia, que se deriven de las disposiciones aplicables, así como de aquellas que le encomiende el Director General Adjunto de Promoción de Negocios y Coordinación Regional.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+X. Realizar las demás funciones y/o responsabilidades dentro del ámbito de su competencia, que se deriven de las disposiciones aplicables, así como de aquellas que le encomiende el Director de Unidad Corporativa de Promoción de Negocios y Coordinación Regional.
 
 ###### ARTÍCULO 45.
 
@@ -1187,7 +1269,9 @@ IV. Solicitar información relacionada con el ejercicio de sus atribuciones a lo
 
 V. Coordinar las acciones previstas en los programas para la inscripción de prestadores de servicios en la Red de Prestadores de Servicios de la Financiera, y
 
-VI. Realizar las demás funciones y/o responsabilidades dentro del ámbito de su competencia, que se deriven de las disposiciones aplicables, así como de aquellas que le encomiende el Director General Adjunto de Promoción de Negocios y Coordinación Regional y/o el Director Ejecutivo de Atención y Fomento a Productores, Organizaciones y Empresas Rurales.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+VI. Realizar las demás funciones y/o responsabilidades dentro del ámbito de su competencia, que se deriven de las disposiciones aplicables, así como de aquellas que le encomiende el Director de Unidad Corporativa de Promoción de Negocios y Coordinación Regional y/o el Director Ejecutivo de Atención y Fomento a Productores, Organizaciones y Empresas Rurales.
 
 ###### ARTÍCULO 46.
 
@@ -1207,7 +1291,9 @@ V. Solicitar información relacionada con el ejercicio de sus atribuciones a los
 
 VI. Coadyuvar en el establecimiento y dirección de las actividades de seguimiento y evaluación de promoción del crédito con Intermediarios Financieros Rurales;
 
-VII. Apoyar a la Dirección General Adjunta de Promoción de Negocios y Coordinación Regional en la promoción de las líneas de negocio de la Financiera por medio de los programas de financiamiento, productos de crédito y operaciones de reporto o garantía, y de los programas de apoyo con Intermediarios Financieros Rurales que determine el Presupuesto de Egresos de la Federación;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+VII. Apoyar a la Dirección de Unidad Corporativa de Promoción de Negocios y Coordinación Regional en la promoción de las líneas de negocio de la Financiera por medio de los programas de financiamiento, productos de crédito y operaciones de reporto o garantía, y de los programas de apoyo con Intermediarios Financieros Rurales que determine el Presupuesto de Egresos de la Federación;
 
 VIII. Coadyuvar con las Coordinaciones Regionales en las actividades de promoción con Intermediarios Financieros Rurales;
 
@@ -1217,11 +1303,15 @@ X. Ser el enlace de comunicación con las asociaciones de intermediarios financi
 
 XI. Coordinar el seguimiento normativo y proponer las acciones de mejora de los procesos de entrega, supervisión y comprobación de los recursos de los programas de apoyo internos y externos;
 
-XII. Coadyuvar, en coordinación con las áreas responsables y/u operativas de los programas de apoyo, en la atención de los requerimientos de información y seguimiento a las observaciones y recomendaciones que formulen las diferentes instancias fiscalizadoras a la Dirección General Adjunta de Promoción de Negocios y Coordinación Regional;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+XII. Coadyuvar, en coordinación con las áreas responsables y/u operativas de los programas de apoyo, en la atención de los requerimientos de información y seguimiento a las observaciones y recomendaciones que formulen las diferentes instancias fiscalizadoras a la Dirección de Unidad Corporativa de Promoción de Negocios y Coordinación Regional;
 
 XIII. Coadyuvar en la coordinación de la preparación de los reportes de seguimiento de las agencias en materia de fomento y promoción del crédito, y
 
-XIV. Realizar las demás funciones y/o responsabilidades dentro del ámbito de su competencia, que se deriven de las disposiciones aplicables, así como de aquellas que le encomiende el Director General Adjunto de Promoción de Negocios y Coordinación Regional.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+XIV. Realizar las demás funciones y/o responsabilidades dentro del ámbito de su competencia, que se deriven de las disposiciones aplicables, así como de aquellas que le encomiende el Director de Unidad Corporativa de Promoción de Negocios y Coordinación Regional.
 
 ###### ARTÍCULO 47.
 
@@ -1253,7 +1343,9 @@ XI. Fomentar la inserción de los Productores y emprendedores agropecuarios, rur
 
 XII. Fomentar la participación de la Financiera en foros internacionales y buscar la participación de instituciones extranjeras en proyectos productivos del medio agropecuario, rural, forestal y pesquero mexicano;
 
-XIII. Apoyar a la Dirección General Adjunta de Promoción de Negocios y Coordinación Regional, en el diseño de las condiciones que deben ser consideradas por la Dirección General Adjunta de Finanzas, Operaciones y Sistemas, en la negociación en materia de financiamiento y en el diseño de programas y productos específicos, con las Instituciones de Banca de Desarrollo, Fideicomisos Públicos de Fomento, Fideicomisos Instituidos en Relación con la Agricultura constituidos en el Banco de México y Organismos Financieros Internacionales, para contratar líneas de crédito y demás financiamientos que tengan como finalidad financiar programas o proyectos relacionados con el cumplimiento del objeto de la Financiera;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+XIII. Apoyar a la Dirección de Unidad Corporativa de Promoción de Negocios y Coordinación Regional, en el diseño de las condiciones que deben ser consideradas por la Dirección de Unidad Corporativa de Finanzas, Operaciones y Sistemas, en la negociación en materia de financiamiento y en el diseño de programas y productos específicos, con las Instituciones de Banca de Desarrollo, Fideicomisos Públicos de Fomento, Fideicomisos Instituidos en Relación con la Agricultura constituidos en el Banco de México y Organismos Financieros Internacionales, para contratar líneas de crédito y demás financiamientos que tengan como finalidad financiar programas o proyectos relacionados con el cumplimiento del objeto de la Financiera.
 
 XIV. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
@@ -1263,11 +1355,15 @@ XVI. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
 XVII. Coordinar la relación y contratación de los proveedores de precio de mercado para las operaciones de los productos de crédito y operaciones de reporto, en estricto apego a los lineamientos de administración de riesgos de la Financiera, y
 
-XVIII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que por instrucción expresa le encomiende el Director General Adjunto de Promoción de Negocios y Coordinación Regional.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+XVIII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que por instrucción expresa le encomiende el Director de Unidad Corporativa de Promoción de Negocios y Coordinación Regional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 48.
 
-Corresponde a la Dirección General Adjunta de Administración:
+Corresponde a la Dirección de Unidad Corporativa de Administración:
 
 I. Proponer al Director General las políticas relativas a la administración, organización y desarrollo del personal, así como los lineamientos en materia de recursos materiales y servicios generales de la Financiera;
 
@@ -1313,7 +1409,9 @@ XIV. Llevar a cabo las demás actividades dentro del área de su competencia, qu
 
 Corresponde a la Dirección Ejecutiva de Recursos Humanos:
 
-I. Coordinar la elaboración de políticas en materia de administración, organización y desarrollo del personal, para la aprobación del Director General Adjunto de Administración;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+I. Coordinar la elaboración de políticas en materia de administración, organización y desarrollo del personal, para la aprobación del Director de Unidad Corporativa de Administración;
 
 II. Prever, integrar y controlar los recursos humanos de la Financiera con el propósito de homologar criterios de actuación en incidencias de personal;
 
@@ -1323,13 +1421,11 @@ IV. Dirigir la instrumentación de las políticas en materia de administración,
 
 V. Gestionar el registro de la estructura orgánica de la Financiera;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 5 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
-VI. Coordinar la elaboración de la estructura organizacional de la Financiera, los niveles de puestos, las bases para la elaboración de tabuladores, política salarial y para el otorgamiento de incentivos; las políticas de ascensos, promociones; lineamientos de selección, reclutamiento y capacitación, criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones, y demás prestaciones económicas establecidas en beneficio de los trabajadores, para la presentación y validación de la Dirección General Adjunta de Administración.
+VI. Coordinar la elaboración de la estructura organizacional de la Financiera, los niveles de puestos, las bases para la elaboración de tabuladores, política salarial y para el otorgamiento de incentivos; las políticas de ascensos, promociones; lineamientos de selección, reclutamiento y capacitación, criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones, y demás prestaciones económicas establecidas en beneficio de los trabajadores, para la presentación y validación de la Dirección de Unidad Corporativa de Administración.
 
-> <small>(ADICIONADO, D.O.F. 5 DE JULIO DE 2019)</small>
-
-La administración de los recursos financieros de las diversas prestaciones se llevará a cabo por la Dirección General Adjunta de Finanzas, Operaciones y Sistemas;
+La administración de los recursos financieros de las diversas prestaciones se llevará a cabo por la Dirección de Unidad Corporativa de Finanzas, Operaciones y Sistemas;
 
 VII. Coordinar la instrumentación de las políticas salariales y para el otorgamiento de incentivos, prestaciones, ascensos y promociones, y de evaluación del desempeño para la determinación de compensaciones;
 
@@ -1339,19 +1435,23 @@ IX. Establecer mecanismos de descripción y valuación de puestos de la Financie
 
 X. Revisar las modificaciones al Manual General de Organización que sean requeridas para el adecuado desempeño de sus funciones de los diferentes puestos que integran la Financiera;
 
-> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
-XI. Coordinar el pago de remuneraciones y el otorgamiento de prestaciones en beneficio de funcionarios y personal. La administración de los recursos financieros de las diversas prestaciones se llevará a cabo por la Dirección General Adjunta de Finanzas, Operaciones y Sistemas;
+XI. Coordinar el pago de remuneraciones y el otorgamiento de prestaciones en beneficio de funcionarios y personal. La administración de los recursos financieros de las diversas prestaciones se llevará a cabo por la Dirección de Unidad Corporativa de Finanzas, Operaciones y Sistemas;
 
 XII. Vigilar el cumplimiento del contrato colectivo de trabajo y de otros instrumentos normativos internos que rigen las relaciones laborales;
 
 XIII. Vigilar que las unidades administrativas de la Financiera se ajusten a las estructuras orgánicas ocupacionales y salariales;
 
-XIV. Representar a la Financiera ante autoridades laborales, así como ante las instituciones de seguridad social y empresas que permitan mejorar los beneficios y prestaciones del personal, así como ante las organizaciones sindicales de la Institución, interviniendo en las negociaciones de las condiciones laborales, con la participación correspondiente de la Dirección General Adjunta Jurídica y Fiduciaria;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+XIV. Representar a la Financiera ante autoridades laborales, así como ante las instituciones de seguridad social y empresas que permitan mejorar los beneficios y prestaciones del personal, así como ante las organizaciones sindicales de la Institución, interviniendo en las negociaciones de las condiciones laborales, con la participación correspondiente de la Dirección de Unidad Corporativa Jurídica y Fiduciaria;
 
 XV. Formular el anteproyecto de presupuesto del Capítulo 1000 de Servicios Personales, con base al comportamiento del gasto, programas específicos de Recursos Humanos, necesidades estructurales y factores económicos y político laboral con el fin de que la Institución cuente con la suficiencia presupuestal para su operación, y
 
-XVI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que les encomiende el Director General Adjunto de Administración.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+XVI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que les encomiende el Director de Unidad Corporativa de Administración.
 
 ###### ARTÍCULO 50.
 
@@ -1375,7 +1475,15 @@ VIII. Colaborar en la optimización de los procedimientos de contribuciones a te
 
 IX. Contribuir en el desarrollo de las acciones correspondientes para el registro de estructura orgánica e inventario de plazas de conformidad con la normatividad aplicable, y
 
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ÉSTA FRACCIÓN ES SIMILAR A LA FRACCIÓN XI.]</small>
+
 X. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que les encomiende el Director General Adjunto de Administración y/o el Director Ejecutivo de Recursos Humanos.
+
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ÉSTA FRACCIÓN ES SIMILAR A LA FRACCIÓN X.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 30 DE MARZO DE 2022)</small>
+
+XI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que les encomiende el Director de Unidad Corporativa de Administración y/o el Director Ejecutivo de Recursos Humanos.
 
 ###### ARTÍCULO 51.
 
@@ -1409,11 +1517,15 @@ XIII. Dirigir la instrumentación de las políticas para la conformación de arc
 
 XIV. Instrumentar, resolver y ejecutar los procedimientos de rescisión administrativa, terminación anticipada y suspensión que se implementen en la Financiera, derivados de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas y sus respectivos reglamentos, y
 
-XV. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que les encomiende el Director General Adjunto de Administración.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+XV. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que les encomiende el Director de Unidad Corporativa de Administración.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 52.
 
-Corresponde a la Dirección General Adjunta de Finanzas, Operaciones y Sistemas:
+Corresponde a la Dirección de Unidad Corporativa de Finanzas, Operaciones y Sistemas:
 
 > <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
 
@@ -1479,9 +1591,9 @@ XIII. BIS 3. Coordinar y asegurar, la preparación de la información financiera
 
 XIII. BIS 4. Aprobar la asignación de los recursos destinados a los apoyos y servicios para los proyectos productivos, empresas agropecuarias, rurales, forestales y pesqueras y organizaciones de Productores;
 
-> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
-XIII. BIS 5. Coordinar, con el apoyo de la Dirección General Adjunta Jurídica y Fiduciaria y la Dirección General Adjunta de Crédito, los mecanismos de venta, subasta, concesión y bursatilización de la de cartera vencida;
+XIII. BIS 5. Coordinar, con el apoyo de la Dirección de Unidad Corporativa Jurídica y Fiduciaria y la Dirección de Unidad Corporativa de Crédito, los mecanismos de venta, subasta, concesión y bursatilización de la cartera vencida;
 
 > <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
 
@@ -1561,7 +1673,9 @@ XII. BIS 4. Suscribir los estados financieros, demás información financiera y 
 
 XII. BIS 5. Someter a la autorización de los comités correspondientes las políticas y estrategias para la administración del balance institucional de conformidad con los límites de riesgo y rentabilidad autorizados y, en coordinación con las unidades administrativas respectivas someter la propuesta de nuevos productos y servicios financieros, así como metodologías de evaluación de costos que permitan determinar el precio de los productos y servicios; y
 
-XIII. Realizar las demás funciones y/o responsabilidades dentro del ámbito de su competencia, que se deriven de las disposiciones aplicables, así como de aquellas que le encomiende el Director General Adjunto de Finanzas, Operaciones y Sistemas.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+XIII. Realizar las demás funciones y/o responsabilidades dentro del ámbito de su competencia, que se deriven de las disposiciones aplicables, así como de aquellas que le encomiende el Director de Unidad Corporativa de Finanzas, Operaciones y Sistemas.
 
 ###### ARTÍCULO 54.
 
@@ -1593,7 +1707,9 @@ VII. BIS 1. Implementar la coordinación para la preparación de la información
 
 VII. BIS 2. Suscribir los estados financieros y demás información financiera y presupuestaria, para dar cumplimiento a las obligaciones de las entidades regulatorias y normativas;
 
-VIII. Realizar las demás funciones y/o responsabilidades dentro del ámbito de su competencia, que se deriven de las disposiciones aplicables, así como de aquellas que le encomiende el Director General Adjunto de Finanzas, Operaciones y Sistemas y/o el Director Ejecutivo de Finanzas.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+VIII. Realizar las demás funciones y/o responsabilidades dentro del ámbito de su competencia, que se deriven de las disposiciones aplicables, así como de aquellas que le encomiende el Director de Unidad Corporativa de Finanzas, Operaciones y Sistemas y/o el Director Ejecutivo de Finanzas.
 
 ###### ARTÍCULO 55.
 
@@ -1621,7 +1737,9 @@ VI. BIS. Realizar la actividad de administración de recursos financieros, que s
 
 VI. BIS 1. Implementar los mecanismos de venta, subasta, concesión y bursatilización de la de cartera vencida; y
 
-VII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que por instrucción expresa le encomiende el Director General Adjunto de Finanzas, Operaciones y Sistemas y/o el Director Ejecutivo de Finanzas.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+VII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que por instrucción expresa le encomiende el Director de Unidad Corporativa de Finanzas, Operaciones y Sistemas y/o el Director Ejecutivo de Finanzas.
 
 ###### ARTÍCULO 56.
 
@@ -1653,7 +1771,9 @@ IX. Establecer las acciones para la administración del sitio web a través del 
 
 IX. BIS. Coadyuvar en la preparación de la información financiera que por Ley y disposiciones normativas debe ser entregada a las entidades reguladoras de la Institución para cumplir con las disposiciones establecidas en esta materia, y
 
-X. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director General Adjunto de Finanzas, Operaciones y Sistemas.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+X. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director de Unidad Corporativa de Finanzas, Operaciones y Sistemas.
 
 ###### ARTÍCULO 57.
 
@@ -1669,7 +1789,9 @@ IV. Coordinar el procesamiento de las operaciones de crédito que le envíe la m
 
 V. Coordinar la definición, administración y operación de la base de datos de cartera institucional, y
 
-VI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director General Adjunto de Finanzas, Operaciones y Sistemas y/o el Director Ejecutivo de Operación.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+VI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director de Unidad Corporativa de Finanzas, Operaciones y Sistemas y/o el Director Ejecutivo de Operación.
 
 ###### ARTÍCULO 58.
 
@@ -1693,7 +1815,9 @@ VIII. Coordinar el proceso de validaciones operativas de crédito;
 
 IX. Coordinar la administración del sitio web a través del cual los acreditados pueden conocer el saldo de los créditos y operaciones contratadas con la Institución, así como realizar proyecciones de pagos y emisión de facturas electrónicas, y
 
-X. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director General Adjunto de Finanzas, Operaciones y Sistemas y/o el Director Ejecutivo de Operaciones.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+X. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director de Unidad Corporativa de Finanzas, Operaciones y Sistemas y/o el Director Ejecutivo de Operaciones.
 
 ###### ARTÍCULO 59.
 
@@ -1727,7 +1851,9 @@ VIII. BIS 1. Coadyuvar en la coordinación a las Gerencias de Informática adscr
 
 VIII. BIS 2. Coadyuvar en la preparación de la información materia de su competencia que por Ley y disposiciones normativas debe ser entregada a las entidades reguladoras de la Institución para cumplir con las disposiciones establecidas en esta materia; y
 
-IX. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director General Adjunto de Finanzas, Operaciones y Sistemas en el ámbito de su competencia.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+IX. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director de Unidad Corporativa de Finanzas, Operaciones y Sistemas en el ámbito de su competencia.
 
 ###### ARTÍCULO 60.
 
@@ -1759,7 +1885,9 @@ XI. Coadyuvar en la supervisión del cumplimiento de las disposiciones jurídica
 
 XII. Supervisar la elaboración de los dictámenes para la firma del Director Ejecutivo de Tecnologías de la Información, y
 
-XIII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director General Adjunto de Finanzas, Operaciones y Sistemas y/o el Director Ejecutivo de Tecnologías de la Información en el ámbito de su competencia.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+XIII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director de Unidad Corporativa de Finanzas, Operaciones y Sistemas y/o el Director Ejecutivo de Tecnologías de la Información en el ámbito de su competencia.
 
 ###### ARTÍCULO 61.
 
@@ -1787,7 +1915,9 @@ X. Participar y contribuir en el desarrollo de técnicas que aseguren la calidad
 
 XI. Fungir como Representante del Sistema de Gestión de Calidad ante la Alta Dirección con la responsabilidad y la autoridad para coordinar el desarrollo, implantación y mantenimiento del Sistema de Gestión de la Calidad de Financiera, así como de promover su adecuación a los requisitos de la norma, y
 
-XII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director General Adjunto de Finanzas, Operaciones y Sistemas y/o el Director Ejecutivo de Tecnologías de la Información en el ámbito de su competencia.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+XII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director de Unidad Corporativa de Finanzas, Operaciones y Sistemas y/o el Director Ejecutivo de Tecnologías de la Información en el ámbito de su competencia.
 
 ###### ARTÍCULO 62.
 
@@ -1807,13 +1937,17 @@ VI. Participar y contribuir en el diseño de soluciones tecnológicas acorde a l
 
 VII. Investigar e identificar los mecanismos o técnicas más adecuados para los procesos de liberación de sistemas o módulos adicionales de los sistemas actuales, y
 
-VIII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director General Adjunto de Finanzas, Operaciones y Sistemas y/o el Director Ejecutivo de Tecnologías de la Información en el ámbito de su competencia.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+VIII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director de Unidad Corporativa de Finanzas, Operaciones y Sistemas y/o el Director Ejecutivo de Tecnologías de la Información en el ámbito de su competencia.
 
 ### CAPÍTULO IV. ATRIBUCIONES Y FACULTADES GENÉRICAS QUE CORRESPONDEN A LAS UNIDADES ADMINISTRATIVAS DE LA FINANCIERA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 63.
 
-Corresponde de manera genérica a las Direcciones Generales Adjuntas y a la Coordinación General:
+Corresponde de manera genérica a los Directores de Unidades Corporativas y a la Coordinación General:
 
 I. Acordar con el Director General los asuntos de su competencia, e informarle sobre el desarrollo de las actividades de las unidades administrativas a su cargo;
 
@@ -1831,7 +1965,9 @@ VI. Atender y resolver los requerimientos, consultas y solicitudes que les formu
 
 VII. Acordar con los subalternos de su adscripción los asuntos de su competencia;
 
-VIII. Constituir grupos de trabajo cuando existan asuntos de la competencia de dos o más Direcciones Generales Adjuntas;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+VIII. Constituir grupos de trabajo cuando existan asuntos de la competencia de dos o más Direcciones de Unidades Corporativas;
 
 IX. Desempeñar las comisiones y demás funciones que les encomiende el Director General;
 
@@ -1845,7 +1981,9 @@ XIII. Participar en los comités que apruebe el Consejo o en otros comités inte
 
 XIV. Representar al Director General en los asuntos que le encomiende;
 
-XV. Expedir copias certificadas de los documentos originales que obren en los archivos de sus respectivas Direcciones Generales Adjuntas;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+XV. Expedir copias certificadas de los documentos originales que obren en los archivos de sus respectivas Direcciones de Unidades Corporativas.
 
 XVI. Representar a la Financiera, en el ámbito de su competencia, ante organismos e instituciones públicas y privadas, nacionales e internacionales, por acuerdo del Director General, y
 
@@ -1891,9 +2029,9 @@ XIV. Llevar a cabo las demás actividades dentro del área de su competencia, qu
 
 Corresponde a las Coordinaciones Regionales:
 
-> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
-I. Coordinar la promoción, ejecución y seguimiento de los productos y programas de crédito en su circunscripción territorial correspondiente; a fin de lograr las metas de negocios y los objetivos de atención a usuarios en apoyo a las decisiones de la Dirección General y Direcciones Generales Adjuntas;
+I. Coordinar la promoción, ejecución y seguimiento de los productos y programas de crédito en su circunscripción territorial correspondiente; a fin de lograr las metas de negocios y los objetivos de atención a usuarios en apoyo a las decisiones de la Dirección General y las Direcciones de Unidades Corporativas;
 
 > <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2021)</small>
 
@@ -1905,19 +2043,19 @@ III. Coordinar y evaluar los diferentes productos y programas, así como las est
 
 IV. Representar a la Financiera en las comisiones que se le asignen;
 
-> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
-V. Proponer a la Dirección General Adjunta de Promoción de Negocios y Coordinación Regional, el establecimiento, reubicación y cierre de Agencias y Módulos en la región;
+V. Proponer a la Dirección de Unidad Corporativa de Promoción de Negocios y Coordinación Regional, el establecimiento, reubicación y cierre de Agencias y Módulos en la región.
 
 VI. Apoyar las gestiones específicas que realicen las Agencias y Módulos en el ámbito de su competencia;
 
-> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
-VII. Proponer a la Dirección General Adjunta de Promoción de Negocios y Coordinación Regional los asuntos concernientes a la administración de los recursos humanos, estructuras orgánicas y ocupacionales que tengan asignados, así como disponer que las Gerencias a su cargo se ubiquen en la sede de la Coordinación Regional;
+VII. Proponer a la Dirección de Unidad Corporativa de Promoción de Negocios y Coordinación Regional los asuntos concernientes a la administración de los recursos humanos, estructuras orgánicas y ocupacionales que tengan asignados, así como disponer que las Gerencias a su cargo se ubiquen en la sede de la Coordinación Regional;
 
-> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
-VIII. Proponer a la Dirección General Adjunta de Administración, los asuntos concernientes a la administración de los recursos materiales y servicios generales, que se encuentren asignadas a cada una de ellas;
+VIII. Proponer a la Dirección de Unidad Corporativa de Administración, los asuntos concernientes a la administración de los recursos materiales y servicios generales, que se encuentren asignadas a cada una de ellas;
 
 IX. Coordinar e integrar los informes que le sean requeridos;
 
@@ -1931,15 +2069,19 @@ XIII. Coordinar las actividades para dar seguimiento a la cobranza administrativ
 
 Para el ejercicio de dichas atribuciones, contarán con las Gerencias Regionales de Supervisión y Cobranza las cuales dependerán orgánicamente de éstas;
 
-XIV. Informar a la Dirección General Adjunta de Promoción de Negocios y Coordinación Regional, previo a la autorización de la instancia correspondiente, las operaciones que pudiesen estar vinculadas con el objeto de las Instituciones de Banca de Desarrollo;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2021)</small>
+XIV. Informar a la Dirección de Unidad Corporativa de Promoción de Negocios y Coordinación Regional, previo a la autorización de la instancia correspondiente, las operaciones que pudiesen estar vinculadas con el objeto de las Instituciones de Banca de Desarrollo;
 
-XV. Proponer a la Dirección General Adjunta de Promoción de Negocios y Coordinación Regional, el nombramiento y remoción, de conformidad con la normatividad institucional, de los servidores públicos con nivel de Gerente, Agente Estatal de Crédito Rural, Agente de Crédito, así como el personal adscrito a las mismas, con excepción de las Gerencias referidas en las fracciones VIII, del artículo 23, VI, del artículo 34 y XIII Bis 6, del artículo 52 del presente Estatuto y de los servidores públicos adscritos a éstas;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+XV. Proponer a la Dirección de Unidad Corporativa de Promoción de Negocios y Coordinación Regional, el nombramiento y remoción, de conformidad con la normatividad institucional, de los servidores públicos con nivel de Gerente, Agente Estatal de Crédito Rural, Agente de Crédito, así como el personal adscrito a las mismas, con excepción de las Gerencias referidas en las fracciones VIII, del artículo 23, VI, del artículo 34 y XIII Bis 6, del artículo 52 del presente Estatuto y de los servidores públicos adscritos a éstas;
 
 XVI. Expedir copias certificadas de los documentos originales que obren en los archivos de sus respectivas Coordinaciones Regionales, y
 
-XVII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquéllas que le encomienden el Director General y/o el Director General Adjunto de Promoción de Negocios y Coordinación Regional.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+XVII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquéllas que le encomienden el Director General y/o el Director de Unidad Corporativa de Promoción de Negocios y Coordinación Regional.
 
 ###### ARTÍCULO 66.
 
@@ -2263,9 +2405,13 @@ El Comité de Administración Integral de Riesgos estará integrado de la siguie
 
 I. Presidente: El Director General;
 
-II. El Director General Adjunto de Crédito;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
-III. Secretario: El Titular de la Unidad para la Administración Integral de Riesgos;
+II. El Director de Unidad Corporativa de Crédito;
+
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+III. Secretario: El Director Ejecutivo de Administración Integral de Riesgos;
 
 IV. Tres expertos independientes designados por el Consejo a propuesta del Director General;
 
@@ -2381,27 +2527,23 @@ El Comité de Recuperación de Cartera tendrá las facultades establecidas en la
 
 ### CAPÍTULO I. DE LAS SUPLENCIAS
 
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 92.
 
-En las ausencias del Director General, éste será suplido por los titulares de las Direcciones Generales Adjuntas o por las unidades administrativas directamente adscritas a la Dirección General, de acuerdo con el ámbito de competencia que les corresponda.
+En las ausencias del Director General, éste será suplido por los Directores de Unidades Corporativas o por las unidades administrativas directamente adscritas a la Dirección General, de acuerdo con el ámbito de competencia que les corresponda.
 
-En los juicios de amparo o, en cualquier otro procedimiento jurisdiccional o contencioso administrativo, inclusive en materia laboral, el Director General podrá ser suplido por el Director General Adjunto Jurídico y Fiduciario.
+En los juicios de amparo o, en cualquier otro procedimiento jurisdiccional o contencioso administrativo, inclusive en materia laboral, el Director General podrá ser suplido por el Director de Unidad Corporativa Jurídica Fiduciaria.
 
-Los Directores Generales Adjuntos y el Coordinador General serán suplidos en sus ausencias o vacancias por los Directores Ejecutivos, en los asuntos de su respectiva competencia o, en su caso, por los Subdirectores Corporativos correspondientes.
-
-Los Coordinadores Regionales serán suplidos por los Gerentes Regionales en el ámbito de sus respectivas competencias.
-
-Los Directores Ejecutivos serán suplidos en sus ausencias o vacancias, por los Subdirectores Corporativos o bien por el servidor público a su cargo que ostente el nivel inmediato inferior, en los asuntos de su respectiva competencia.
-
-Los Subdirectores Corporativos serán suplidos en sus ausencias o vacancias, por los Gerentes o bien por el servidor público a su cargo que ostente el nivel inmediato inferior, en los asuntos de su respectiva competencia.
-
-Los Agentes Estatales de Crédito Rural serán suplidos por el servidor público a su cargo que ostente el nivel inmediato inferior, en los asuntos de su respectiva competencia.
+Los Directores de Unidades Corporativas y el Coordinador General serán suplidos en sus ausencias o vacancias por los Directores Ejecutivos, en los asuntos de su respectiva competencia o, en su caso, por los Subdirectores Corporativos correspondientes.
 
 ### CAPÍTULO II. DEL EJERCICIO DE LAS ATRIBUCIONES
 
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 93.
 
-Las atribuciones encomendadas por este Estatuto a los titulares de las Direcciones Generales Adjuntas, podrán, previo acuerdo, ser ejercidas conjuntamente por ellos, con Directores Ejecutivos, Subdirectores Corporativos o Gerentes, de la Dirección General Adjunta correspondiente.
+Las atribuciones encomendadas por este Estatuto a los Directores de Unidades Corporativas, podrán, previo acuerdo, ser ejercidas conjuntamente por ellos, con Directores Ejecutivos, Subdirectores Corporativos o Gerentes, de la Dirección de Unidad Corporativa correspondiente.
 
 ## TRANSITORIOS
 
@@ -2444,5 +2586,11 @@ PRIMERO.- Las presentes reformas y adiciones del Estatuto Orgánico entrarán en
 D.O.F. 22 DE SEPTIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “ESTATUTO ORGÁNICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO”.]
+
+PRIMERO.- Las presentes reformas y adiciones del Estatuto Orgánico entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DE LAS “REFORMAS DE DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO”.]
 
 PRIMERO.- Las presentes reformas y adiciones del Estatuto Orgánico entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
