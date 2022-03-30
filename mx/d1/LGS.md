@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2022-03-29"
+last_updated: "2022-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MARZO DE 2022.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 24 DE DICIEMBRE DE 2018.
 
@@ -374,7 +374,13 @@ XIII.- Promover e impulsar la participación de la comunidad en el cuidado de su
 
 XIII Bis.- Promover e impulsar programas y campañas de información sobre los buenos hábitos alimenticios, una buena nutrición y la activación física para contrarrestar el sobrepeso, la obesidad y los trastornos de la conducta alimentaria;
 
-XIV.- Impulsar la permanente actualización de las disposiciones legales en materia de salud, y
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+XIV. Impulsar la permanente actualización de las disposiciones legales en materia de salud;
+
+> <small>(ADICIONADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+XIV Bis. Promover e incorporar enfoques con perspectiva de género a las estrategias, campañas de información, y demás programas en el marco de sus atribuciones para contribuir a la igualdad entre mujeres y hombres en el acceso al derecho a la protección de la salud. Incluyendo neoplasias que afectan la salud sexual y reproductiva del hombre y de la mujer, y
 
 XV.- Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Nacional de Salud, y las que determinen las disposiciones generales aplicables.
 
@@ -4532,13 +4538,17 @@ Medicamentos huérfanos: A los medicamentos que estén destinados a la prevenci�
 
 La Secretaría de Salud implementará las medidas y acciones necesarias a efecto de impulsar y fomentar la disponibilidad de los medicamentos huérfanos, haciéndolos asequibles para la población. Asimismo, la Secretaría de Salud podrá emitir recomendaciones a los Institutos Nacionales de Salud para la investigación y el desarrollo de medicamentos con potencial en su efectividad.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 225.
 
-Los medicamentos, para su uso y comercialización, serán identificados por sus denominaciones genérica y distintiva. La identificación genérica será obligatoria.
+Los medicamentos, para su uso, prescripción médica y comercialización, serán identificados por sus denominaciones genérica y distintiva. La identificación genérica será obligatoria.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 En la denominación distintiva no podrá incluirse clara o veladamente la composición del medicamento o su acción terapéutica. Tampoco indicaciones en relación con enfermedades, síndromes, síntomas, ni aquéllas que recuerden datos anatómicos o fenómenos fisiológicos, excepto en vacunas y productos biológicos.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 Las disposiciones reglamentarias determinarán la forma en la que las denominaciones señaladas deberán usarse en la prescripción, publicidad, etiquetado y en cualquier otra referencia.
 
@@ -4576,6 +4586,10 @@ VI.- Medicamentos que para adquirirse no requieren receta médica y que pueden e
 
 No podrán venderse medicamentos u otros insumos para la salud en puestos semifijos, módulos móviles o ambulantes.
 
+> <small>(ADICIONADO, D.O.F. 30 DE MARZO DE 2022)</small>
+
+El emisor de la receta médica prescribirá los medicamentos en su denominación genérica y, si lo desea, podrá indicar la denominación distintiva de su preferencia informando al paciente sobre las opciones terapéuticas.
+
 > <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 226 Bis.
@@ -4585,6 +4599,14 @@ Tratándose de atención intrahospitalaria, se podrán prescribir dosis unitaria
 En el caso de medicamentos que deban suministrarse en las instituciones públicas del Sistema Nacional de Salud a sus usuarios, estos podrán ser prescritos en dosis unitarias a fin de que puedan ser dispensados en dosis exactas, de conformidad con los Lineamientos que para tal efecto expida la Secretaría de Salud.
 
 En lo referente a lo señalado en este artículo, estos se sujetarán a lo establecido en el artículo 195 de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MARZO DE 2022)</small>
+
+###### ARTICULO 226 Bis 1.
+
+La Secretaría de Salud promoverá las medidas y acciones necesarias a efecto de comunicar a la población, sobre la seguridad, eficacia y calidad de los medicamentos genéricos y biocomparables.
+
+Así mismo, en los programas de capacitación al personal de salud, promoverá las obligaciones de prescripción médica previstas en esta Ley y demás disposiciones reglamentarias que para tal efecto se emitan y fortalecerá las acciones de profesionalización del personal de las farmacias conforme el artículo 79 de esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -6108,7 +6130,7 @@ XVII. Disposición, el conjunto de actividades relativas a la obtención, extrac
 
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-XVIII. Asignación el proceso mediante el cual el Comité Interno de Trasplantes selecciona los receptores de órganos y tejidos, obtenidos de un donador que haya perdido la vida;
+XVIII. Asignación, el proceso mediante el cual el Comité Interno de Trasplantes selecciona los receptores de órganos y tejidos, obtenidos de un donador que haya perdido la vida;
 
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -8370,7 +8392,7 @@ PRIMERO. El presente Decreto entrará en vigor a los sesenta días siguientes de
 
 SEGUNDO. Los expedientes en trámite relacionados con las autorizaciones sanitarias, se concluirán en lo que beneficie a los interesados en los términos del presente Decreto.
 
-TERCERO. En tanto se expidan las disposiciones administrativas que se deriven del presente Decreto, seguirán en vigor las que han regido hasta ahora, en lo que no lo contravengan.
+TERCERO. En tanto se expiden las disposiciones administrativas que se deriven del presente Decreto, seguirán en vigor las que han regido hasta ahora, en lo que no lo contravengan.
 
 D.O.F. 26 DE MAYO DE 2000.
 
@@ -9499,3 +9521,19 @@ D.O.F. 29 DE MARZO DE 2022.
 Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. El Consejo de Salubridad General, publicará en el Diario Oficial de la Federación los acuerdos que permitan instrumentar las acciones que se desarrollen conforme lo establecido en los artículos 3o., fracción XVI; 17, fracción II; 27, fracción II; 37; 158; 159, fracción I; 160 y 161 de la Ley General de Salud.
+
+D.O.F. 30 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal adecuará los reglamentos y acuerdos que permita proveer en la esfera administrativa lo previsto en el presente Decreto, dentro de los 180 días siguientes a la entrada en vigor del presente Decreto.
+
+Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto que correspondan, por lo que no se autorizarán recursos adicionales para tales efectos, para el presente ejercicio fiscal ni subsecuentes.
+
+D.O.F. 30 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD, DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES Y DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
