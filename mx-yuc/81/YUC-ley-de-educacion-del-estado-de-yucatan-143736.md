@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-educacion-del-estado-de-yucatan-143736"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-29"
-last_updated: "2020-12-09"
+last_updated: "2022-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MARZO DE 2022.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 29 de julio de 2020.
 
@@ -139,7 +139,13 @@ VIII. Recibir becas y demás apoyos económicos priorizando a los educandos que 
 
 IX. Participar en los Comités Escolares de Administración Participativa y en los demás comités que le corresponda en términos de la ley general y esta ley.
 
-X. Los demás que sean reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Yucatán, la ley general, esta ley y en las demás disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 30 DE MARZO DE 2022)</small>
+
+X. Cursar sus estudios en planteles educativos dignos, seguros y que cuenten con la infraestructura necesaria e internet de banda ancha, para poder acceder a las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, con la finalidad de recibir una educación de excelencia y con el uso de plataformas digitales.
+
+> <small>(REFORMADA, D.O. 30 DE MARZO DE 2022)</small>
+
+XI. Los demás que sean reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Yucatán, la Ley General de Educación, esta Ley y en las demás disposiciones legales y normativas aplicables.
 
 El estado, en la elaboración y aplicación de las políticas educativas en sus distintos tipos, modalidades y opciones, establecerá los mecanismos necesarios para desarrollar todas las potencialidades de los educandos de forma activa, transformadora y autónoma, tomando en cuenta los contextos sociales, territoriales, económicos, lingüísticos y culturales.
 
@@ -243,7 +249,9 @@ a) Atenderá las capacidades, circunstancias, necesidades, estilos y ritmos de a
 
 b) Eliminará las distintas barreras al aprendizaje y a la participación que enfrentan cada uno de los educandos, para lo cual las autoridades educativas, en el ámbito de su competencia, adoptarán medidas en favor de la inclusión, la accesibilidad y los ajustes razonables.
 
-c) Proveerá de los recursos técnicos-pedagógicos y materiales necesarios para los servicios educativos.
+> <small>(REFORMADO, D.O. 30 DE MARZO DE 2022)</small>
+
+c) Contará con los recursos técnicos-pedagógicos, materiales, de infraestructura y con internet de banda ancha, que permita a los educandos acceder (sic) las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, así como demás elementos necesarios para los servicios educativos.
 
 d) Establecerá la educación especial disponible para todos los tipos, niveles, modalidades y opciones educativas, la cual se proporcionará en condiciones necesarias, a partir de la decisión y previa valoración por parte de los educandos, madres y padres de familia o tutores, personal docente y, en su caso, por una condición de salud.
 
@@ -793,6 +801,10 @@ XXXIX. Realizar las demás actividades que permitan ampliar la calidad y la cobe
 
 XL. En los niveles de educación básica, desarrollar programas de activación física de por lo menos 60 minutos diarios, fomentar competencias y torneos de diversas disciplinas deportivas, así como impulsar programas de nutrición y buenos hábitos alimenticios, todas estas acciones en coordinación con la Secretaría de Salud del Estado y enfocadas en fomentar la salud de los educandos y prevenir el sedentarismo, el sobrepeso y la obesidad.
 
+> <small>(ADICIONADA, D.O. 30 DE MARZO DE 2022)</small>
+
+XLI. Garantizar que en los planteles públicos educativos se cuente con internet de banda ancha con el efecto de que se tenga acceso a las Tecnologías de la Información y Comunicación, siendo esto de forma gradual y progresiva de acuerdo con la suficiencia presupuestal, con la finalidad de brindar una educación de calidad y excelencia a los educandos.
+
 ###### Artículo 34.
 
 Atribuciones de las autoridades educativas estatales
@@ -863,7 +875,9 @@ XXVIII. Fomentar y difundir las actividades artísticas, culturales y físico- d
 
 XXIX. Promover y desarrollar en el ámbito de su competencia las actividades y programas relacionados con el fomento de la lectura y el uso de los libros, de acuerdo con lo establecido en la ley de la materia.
 
-XXX. Fomentar el uso responsable y seguro de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en el sistema educativo, para apoyar el aprendizaje de los estudiantes, ampliar sus habilidades digítales para la selección y búsqueda de información.
+> <small>(REFORMADA, D.O. 30 DE MARZO DE 2022)</small>
+
+XXX. Fomentar el uso responsable y seguro de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en el sistema educativo, para apoyar el aprendizaje de los estudiantes, ampliar sus habilidades digitales para la selección y búsqueda de información, garantizando que en los planteles públicos educativos se cuente con internet de banda ancha que permita el uso de las tecnologías ya mencionadas, siendo esta en forma gradual y progresiva de acuerdo con la suficiencia presupuestal.
 
 XXXI. Participar en la realización, en forma periódica y sistemática, de exámenes de evaluación a los educandos, así como corroborar que el trato de los educadores y educandos sea de respeto recíproco y atienda al respeto de los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales ratificados por el Estado Mexicano y demás legislación aplicable a niñas, niños, adolescentes y jóvenes.
 
@@ -903,7 +917,9 @@ Atribuciones de los municipios
 
 El ayuntamiento de cada municipio podrá, sin perjuicio de la concurrencia de las autoridades educativas federal y del estado, promover y prestar servicios educativos de cualquier tipo o modalidad. También podrá realizar actividades de las enumeradas en las fracciones XXV a XXVII del artículo 34 de esta ley. Los ayuntamientos coadyuvarán al mantenimiento de los planteles educativos y de los servicios de seguridad, agua y luz de estos.
 
-El estado promoverá la participación directa del ayuntamiento para dar mantenimiento y proveer de equipo básico a las escuelas públicas estatales y municipales.
+> <small>(REFORMADO, D.O. 30 DE MARZO DE 2022)</small>
+
+El Estado promoverá la participación directa del Ayuntamiento para dar mantenimiento y proveer de equipo básico a las escuelas públicas estatales y municipales, así como la colaboración de dicho Ayuntamiento conforme a su capacidad presupuestal para que los planteles públicos educativos puedan contar con servicio de internet de banda ancha, priorizando a los planteles de educación básica.
 
 El estado y los ayuntamientos podrán celebrar convenios para coordinar o unificar sus actividades educativas y cumplir de mejor manera las responsabilidades a su cargo.
 
@@ -1419,7 +1435,9 @@ Beneficios
 
 El estado garantizará el derecho de toda persona a gozar de los beneficios del desarrollo científico, humanístico, tecnológico y de la innovación, considerados como elementos fundamentales de la educación y la cultura. Promoverá el desarrollo, la vinculación y divulgación de la investigación científica para el beneficio social, económico y de cuidado y sostenibilidad del medio ambiente.
 
-El desarrollo científico, tecnológico y la innovación, asociados a la actualización, a la excelencia educativa y a la expansión de las fronteras del conocimiento se apoyará en las nuevas tecnologías de la información, comunicación, conocimiento y aprendizaje digital, mediante el uso de plataformas de acceso abierto.
+> <small>(REFORMADO, D.O. 30 DE MARZO DE 2022)</small>
+
+El desarrollo científico, tecnológico y la innovación, asociados a la actualización, a la excelencia educativa y a la expansión de las fronteras del conocimiento se apoyará en las nuevas tecnologías de la información, comunicación, conocimiento y aprendizaje digital, mediante el uso de plataformas de acceso abierto, por lo que se garantizará que los planteles públicos educativos cuenten con el servicio de internet necesario para el cumplimiento de lo establecido en este artículo, de acuerdo con la suficiencia presupuestal.
 
 ###### Artículo 71.
 
@@ -1731,6 +1749,10 @@ Uso de las tecnologías y aprendizaje digital
 
 La educación que imparta el estado, sus organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios, utilizará el avance de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, con la finalidad de fortalecer los modelos pedagógicos de enseñanza aprendizaje, la innovación educativa, el desarrollo de habilidades y saberes digitales de los educandos, además del establecimiento de programas de educación a distancia y semipresencial para cerrar la brecha digital y las desigualdades en la población en términos de la ley general y de la (sic) las demás disposiciones legales y normativas en la materia.
 
+> <small>(ADICIONADO, D.O. 30 DE MARZO DE 2022)</small>
+
+El estado, conforme a las posibilidades presupuestales, dotará a las instituciones públicas educativas del servicio de internet de banda ancha, priorizando los planteles de educación básica, (sic) efecto de que educandos y docentes puedan acceder a las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, lo cual deberá hacerse conforme a la matrícula escolar, plantilla docente y personal administrativo de cada plantel escolar.
+
 ###### Artículo 99.
 
 Formación docente
@@ -1951,11 +1973,13 @@ En materia de inclusión se realizarán acciones, de manera gradual, orientadas 
 
 En los términos del artículo 102, último párrafo de la Ley general se garantizará la existencia de baños y de agua potable para consumo humano con suministro continuo en cada inmueble de uso escolar público conforme a los lineamientos que emita la Secretaría de Salud federal en coordinación con la Secretaría de Educación Pública, así como de espacios para la activación física, la recreación, la práctica del deporte y la educación física.
 
+> <small>(REFORMADO, D.O. 30 DE MARZO DE 2022)</small>
+
 ###### Artículo 117.
 
 Construcción de planteles
 
-El estado, en el ámbito de su competencia, a través de las instancias que para tal efecto disponga la legislación, de acuerdo con la disponibilidad presupuestal, realizará las actividades correspondientes en materia de infraestructura educativa, con apego a los ordenamientos jurídicos que las rijan, las disposiciones de la ley general, esta ley y las normas técnicas respectivas que emita la Secretaría de Educación Pública.
+El estado, en la ejecución de los recursos correspondientes en materia educativa, priorizara que, en los proyectos de construcción de planteles o aulas escolares públicas de educación básica, se incluya la infraestructura necesaria que permita el uso de las nuevas tecnologías de la información.
 
 ###### Artículo 118.
 
@@ -2562,3 +2586,19 @@ Artículo segundo. El Consejo Estatal de Nutrición y Combate a la Obesidad tend
 Derogación tácita
 
 Artículo tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que contravengan lo dispuesto en este Decreto.
+
+D.O. 30 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 482/2022 POR EL QUE SE MODIFICA LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN, EN MATERIA DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN".]
+
+Artículo Primero. Entrada en vigor
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Artículo Segundo. Obligación normativa
+
+Las autoridades educativas competentes deberán emitir y adecuar los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este decreto, en un plazo no mayor a 180 días contados a partir de su entrada en vigor.
+
+Artículo Tercero. Partidas presupuestarias
+
+El Poder Ejecutivo del Estado de forma gradual desde la entrada en vigor de este decreto, preverá en su Presupuesto de Egresos del Estado las partidas presupuestales necesarias para cubrir con la infraestructura que se requiera a los planteles educativos, para dar cumplimiento a lo establecido en el mismo.
