@@ -4,7 +4,7 @@ identifier: "LGCFD"
 country: "mx"
 rank: "ley_general"
 publication_date: "2013-06-07"
-last_updated: "2022-03-25"
+last_updated: "2022-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94515&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCFD"
 
 LEY GENERAL DE CULTURA FÍSICA Y DEPORTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MARZO DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de junio de 2013.
 
@@ -830,13 +830,17 @@ V. Formular y ejecutar políticas públicas, que fomenten actividades físicas y
 
 VI. Dar seguimiento y ejecutar las políticas y planes aprobados por el SINADE;
 
-> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
-VII. Establecer procedimientos de promoción en materia de cultura física y deporte, y
+VII. Establecer procedimientos de promoción en materia de cultura física y deporte;
 
-> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
-VIII. Promover los mecanismos y acciones encaminados a prevenir la violencia en eventos deportivos y garantizar el desarrollo pacífico en los recintos donde se celebren eventos deportivos masivos y con fines de espectáculo y en sus inmediaciones, así como la seguridad y patrimonio de las personas, en coordinación con las autoridades de Seguridad Pública, Privada y de Protección Civil correspondientes.
+VIII. Promover los mecanismos y acciones encaminados a prevenir la violencia en eventos deportivos y garantizar el desarrollo pacífico en los recintos donde se celebren eventos deportivos masivos y con fines de espectáculo y en sus inmediaciones, así como la seguridad y patrimonio de las personas, en coordinación con las autoridades de Seguridad Pública, Privada y de Protección Civil correspondientes, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+IX. Promover, formular y ejecutar políticas para garantizar la participación en igualdad de condiciones entre mujeres y hombres que fomenten actividades físicas y deportivas.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
@@ -2155,3 +2159,9 @@ D.O.F. 25 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 50 Y 59 DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 41 DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE”.]
+
+Único.- El presente Decreto entrará en vigor el siguiente día al de su publicación en el Diario Oficial de la Federación.
