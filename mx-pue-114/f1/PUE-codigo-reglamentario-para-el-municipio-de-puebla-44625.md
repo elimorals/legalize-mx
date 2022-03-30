@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2022-03-17"
+last_updated: "2022-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -23663,21 +23663,23 @@ II. De apoyo: Cuando se constituyan bajo el régimen de propiedad en Condominio 
 
 III. Especializados: Los autorizados por el Cabildo, considerados como un bien inmueble de dominio público municipal, cuya naturaleza sea la prestación del servicio público de mercados, en los que se ejercerán giros comerciales específicos, los cuales contarán con sus propias reglas de administración, cuyo objeto será el de regular su actividad comercial, organización, vigilancia y administración;
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2022)</small>
 
-IV. Temporales: Los autorizados por el Cabildo Municipal, autoridad que determinará los espacios dentro del Municipio, así como los días y horas donde puedan establecerse.
+IV. Temporales: Los autorizados por el Cabildo Municipal, autoridad que determinará los espacios dentro del Municipio, así como los lineamientos específicos para su funcionamiento, pudiendo distinguirse los siguientes:
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE AGOSTO DE 2020)</small>
+a) Tianguis tradicional: Aquellos que por su vocación cultural, turística e histórica, así como su ubicación en la Zona Típica de Monumentos del Municipio, soliciten ser reconocidos como tal ante la Secretaría de Economía y Turismo del Ayuntamiento del Municipio de Puebla y/o autoridad competente; y
 
-V. Corredores Comerciales Temporales: Los autorizados por el Cabildo Municipal para operar en determinados espacios del Municipio y que podrán funcionar en:
+b) Corredores Comerciales Temporales: Los autorizados por el Cabildo Municipal para operar en determinados espacios del Municipio y que podrán funcionar en:
 
-1. Periodos estacionales del año con motivo de festividades cívicas o patronales, o
+1. Periodos estacionales del año con motivo de festividades cívicas o patronales; o
 
-2. Diversos días de la semana, o bien
+2. Diversos días de la semana, o bien;
 
 3. Horarios diarios de atención.
 
-Para efectos de esta fracción los comerciantes autorizados, al término de la jornada deberán retirar cualquier tipo de estructura, instalación, instrumento, artefacto o cualquier otro tipo de bien mueble.
+Para efectos de estos incisos las personas comerciantes de mercados temporales autorizados, al término de la jornada deberán retirar cualquier tipo de estructura, instalación, instrumento, artefacto o cualquier otro tipo de bien mueble.
+
+V. (DEROGADA, P.O. 30 DE MARZO DE 2022)
 
 ###### Artículo 1402.
 
@@ -40022,3 +40024,13 @@ P.O. 17 DE MARZO DE 2022.
 PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 30 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 18 DE MARZO DE 2022, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE GOBERNACIÓN, POR EL QUE REFORMA LA FRACCIÓN IV Y DEROGA LA FRACCIÓN V DEL ARTÍCULO 1401 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
+
+PRIMERO. La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Para efectos recaudatorios la denominación de tianguis tradicionales se entenderá como mercados temporales.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
