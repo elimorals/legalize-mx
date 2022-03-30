@@ -4,7 +4,7 @@ identifier: "LDPAM"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-25"
-last_updated: "2021-05-20"
+last_updated: "2022-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25062&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDPAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MARZO DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 25 de junio de 2002.
 
@@ -136,9 +136,17 @@ II. Participación. La inserción de las personas adultas mayores en todos los �
 
 III. Equidad. Es el trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las personas adultas mayores, sin distinción por sexo, situación económica, identidad étnica, fenotipo, credo, religión o cualquier otra circunstancia;
 
-IV. Corresponsabilidad. La concurrencia y responsabilidad compartida de los sectores público y social, en especial de las comunidades y familias, para la consecución del objeto de esta Ley, y
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
-V. Atención preferente. Es aquella que obliga a las instituciones federales, estatales y municipales de gobierno, así como a los sectores social y privado a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores.
+IV. Corresponsabilidad. La concurrencia y responsabilidad compartida de los sectores público y social, en especial de las comunidades y familias, para la consecución del objeto de esta Ley;
+
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+V. Atención preferente. Es aquella que obliga a las instituciones federales, estatales y municipales de gobierno, así como a los sectores social y privado a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+VI. Igualdad Sustantiva. Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
 
 ### CAPÍTULO II. DE LOS DERECHOS
 
@@ -454,7 +462,11 @@ Corresponde a las Instituciones Públicas del Sector Salud, garantizar a las per
 
 I. El derecho a la prestación de servicios públicos de salud integrales y de calidad, en todas las actividades de atención médica, de conformidad con lo establecido en el artículo 33 de la Ley General de Salud;
 
-II. Especial atención deberán recibir los programas de detección oportuna y tratamiento temprano de enfermedades crónicas y neoplasias entre las personas adultas mayores, así como de atención y asistencia a quienes sufren de discapacidades funcionales. Asimismo, los programas de salud dirigidos a atender las necesidades de las personas en las diferentes etapas del ciclo de vida incorporarán medidas de prevención y promoción de la salud a fin de contribuir a prevenir discapacidades y favorecer un envejecimiento saludable;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+II. Especial atención que deberán recibir los programas de detección oportuna y tratamiento temprano de enfermedades crónicas y neoplasias entre las personas adultas mayores, así como de atención y asistencia a quienes sufren de discapacidades funcionales.
+
+Asimismo, los programas de salud dirigidos a atender las necesidades de las personas en las diferentes etapas del ciclo de vida incorporarán medidas de prevención y promoción de la salud a fin de contribuir a prevenir discapacidades y favorecer un envejecimiento saludable, en igualdad de condiciones para el ejercicio del derecho a la protección de la salud de las mujeres y los hombres;
 
 III. El acceso a la atención médica a las personas adultas mayores en las clínicas y hospitales, con el establecimiento de áreas geriátricas en las unidades médicas de segundo y tercer nivel públicas y privadas. Las especialidades médicas encargadas de la atención de la salud de las personas adultas mayores, son la Geriatría y la Gerontología;
 
@@ -1063,3 +1075,9 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 30 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD, DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES Y DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
