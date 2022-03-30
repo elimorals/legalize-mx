@@ -4,7 +4,7 @@ identifier: "FED-ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-51085"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-08-02"
-last_updated: "2021-10-21"
+last_updated: "2022-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51085&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-07-27"
 
 LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MARZO DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de agosto de 2006.
 
@@ -81,9 +81,9 @@ II. Discriminación. Toda distinción, exclusión o restricción que, basada en 
 
 III. Discriminación contra la Mujer. Toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
 
-(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL TEXTO ORIGINAL PUBLICADO EL 2 DE AGOSTO DE 2006, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
-IV. Igualdad de Género. Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
+IV. Igualdad de Género. Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, saludable, cultural y familiar;
 
 > <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
 
@@ -221,13 +221,17 @@ V. Fomentar la participación social, política y ciudadana dirigida a lograr la
 
 ### CAPÍTULO PRIMERO. DE LA POLÍTICA NACIONAL EN MATERIA DE IGUALDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE MARZO DE 2022)</small>
+
 ###### Artículo 17.
 
-La Política Nacional en Materia de Igualdad entre mujeres y hombres deberá establecer las acciones conducentes a lograr la igualdad sustantiva en el ámbito, económico, político, social y cultural.
+La Política Nacional en Materia de Igualdad entre mujeres y hombres deberá establecer las acciones conducentes a lograr la igualdad sustantiva en el ámbito, económico, político, saludable, social y cultural.
 
 La Política Nacional que desarrolle el Ejecutivo Federal deberá considerar los siguientes lineamientos:
 
-I. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+I. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida; económico, político, saludable, social y cultural;
 
 II. Asegurar que la planeación presupuestal incorpore la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos y acciones para la igualdad entre mujeres y hombres;
 
@@ -333,7 +337,9 @@ VIII. Las demás, que se requieran para el cumplimiento de los objetivos del Sis
 
 El Sistema Nacional tiene los siguientes objetivos:
 
-I. Promover la igualdad entre mujeres y hombres y contribuir a la erradicación de todo tipo de discriminación;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+
+I. Promover la igualdad entre mujeres y hombres y contribuir a la erradicación de todo tipo de discriminación; sin distinción de ningún tipo, en los términos del último párrafo del artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos;
 
 II. Contribuir al adelanto de las mujeres;
 
@@ -694,5 +700,11 @@ D.O.F. 14 DE JUNIO DE 2018.
 D.O.F. 21 DE OCTUBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 4 DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD, DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES Y DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES".]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
