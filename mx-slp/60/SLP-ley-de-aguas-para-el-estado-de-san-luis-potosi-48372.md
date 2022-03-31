@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2022-02-25"
+last_updated: "2022-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -2257,6 +2257,10 @@ Cuando se trate de tomas solicitadas por giros o establecimientos ubicados en fo
 
 Los usuarios deberán ser enterados en la firma del contrato respectivo, de la obligación que se contrae para reusar el agua conforme al artículo 163 fracción I de la Ley de Aguas del Estado de San Luis Potosí.
 
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2022)</small>
+
+En el caso de los medidores para las descargas de usuarios de los servicios comercial e industrial, el costo de la instalación y reposición será a cargo del usuario.
+
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 143.
@@ -2267,21 +2271,25 @@ Es obligación del prestador de servicios públicos, la instalación de aparatos
 
 Para realizar lo establecido en el párrafo anterior, las tomas deberán estar individualizadas para cada usuario, e instalarse en la entrada de los predios, establecimientos, viviendas, y en cada departamento; así como los medidores en lugares accesibles, junto a dicha entrada, con libre acceso al personal del prestador de los servicios públicos, en forma tal que se puedan llevar a cabo sin dificultad las lecturas de consumo, las pruebas de funcionamiento de los aparatos y, cuando sea necesario, el cambio de los medidores.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 144.
 
-Los aparatos medidores para la verificación del consumo de agua del servicio público, serán suministrados a los usuarios en venta, única y exclusivamente por el prestador de servicios, quedándoles prohibido el instalar medidores cuya adquisición se haya hecho de persona o entidad distinta del propio prestador.
+Los aparatos medidores y su instalación, para la verificación del consumo de agua del servicio público, serán suministrados a los usuarios por el prestador de servicios a la firma del contrato. Quedando prohibido que los usuarios instalen de forma unilateral algún medidor, incluyendo los de descargas.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 145.
 
-Es obligación del prestador de servicios tener a disposición de los usuarios, distintas clases y marcas de medidores que cumplan con las disposiciones legales y normas oficiales aplicables, a efecto de que se encuentren en aptitud de elegir el que mejor se adapte a sus necesidades y posibilidades económicas.
-
-Al costo de adquisición de los medidores que le resulte al prestador de servicios, sólo le podrá adicionar los costos de instalación que se generen.
+Es obligación del prestador de servicios instalar medidores que cumpla (sic) con las disposiciones legales y normas oficiales aplicables, con el que se cubrirán las necesidades de instalación y medición que se requieran en el domicilio del usuario.
 
 ###### ARTICULO 146.
 
 Instalada la toma y hechas las conexiones respectivas, el prestador de servicios comunicará al propietario o poseedor del predio o establecimiento de que se trate, la fecha de la conexión y la apertura de su cuenta para efectos de cobro.
 
-En los casos en que con motivo de la instalación de la toma o las descargas se destruya el pavimento, la guarnición o la banqueta, el prestador de servicios realizará de inmediato su reparación, con cargo al usuario, en los términos de la presente Ley. Los trabajos deberán efectuarse en un plazo que no exceda de siete días hábiles contados a partir de la fecha en que se ordene su reparación.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2022)</small>
+
+En los casos en que con motivo de la instalación de la toma o las descargas se destruya el pavimento, la guarnición o la banqueta, el prestador de servicios realizará de inmediato su reparación, en los términos de la presente Ley. Los trabajos deberán efectuarse en un plazo que no exceda de siete días hábiles contados a partir de la fecha en que se ordene su reparación.
 
 Cuando el prestador de servicios no cumpla con la obligación establecida en este precepto en el plazo señalado, el ayuntamiento deberá hacer la reparación del pavimento, la guarnición o la banqueta, según sea el caso, con cargo al prestador de los servicios.
 
@@ -2297,9 +2305,11 @@ Independientemente de los casos en que conforme a la ley proceda la suspensión 
 
 La solicitud a que se refiere el artículo anterior, será resuelta por el prestador de los servicios en un término de diez días hábiles a partir de su presentación. De ser favorable el acuerdo, éste debe cumplirse dentro de los cinco días hábiles siguientes a la fecha de su notificación, corriendo por cuenta del solicitante todos los gastos inherentes a la suspensión o supresión.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2022)</small>
+
 ###### ARTICULO 150.
 
-Las derivaciones de toma de agua o de descarga de alcantarillado, requerirán de previa autorización del proyecto o control en su ejecución por el prestador de servicios, debiendo en todo caso contarse con las condiciones necesarias para que éste pueda cobrar las cuotas y tarifas que le correspondan, por el suministro de dichos servicios.
+Las derivaciones de toma de agua o de descargas a alcantarillado, serán única y exclusivamente autorizadas por el prestador del servicio, sólo podrán ser ejecutadas por (sic) mismo conforme a las especificaciones y materiales suficientes para cubrir las necesidades de los usuarios, previamente cobrando las cuotas y tarifas que correspondan por la ejecución de dichos servicios.
 
 ###### ARTICULO 151.
 
@@ -2377,7 +2387,7 @@ Una vez recibido el proyecto de urbanización autorizado por el ayuntamiento, el
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2014)</small>
 
-A partir de la notificación de la aprobación del proyecto hidráulico por parte del prestador de los servicios, el fraccionador o urbanizador contará con quince días hábiles para realizar el pago de las cuotas de conexión, o convenir con el prestador de los servicios la factibilidad. Independientemente de lo establecido en el último párrafo del artículo 157, y artículo 162 de esta Ley, el prestador de servicios tiene la facultad exclusiva para aceptar el pago en contraprestación, mediante convenio de cesión de derechos de aguas nacionales y entrega de obras de la fuente de extracción de agua, con su respectivo equipamiento electromecánico, así como la obra extraordinaria no necesaria para el proyecto de urbanización que de común acuerdo se pacte, construida por el fraccionador o desarrollador a favor del prestador de servicios con base en (sic) tabulador de precios unitarios de obra del prestador de servicios para los conceptos antes mencionados. En este último caso, el fraccionador o urbanizador garantizará el pago de los (sic) cuotas de conexión mediante póliza de fianza u otro medio legalmente aceptado; hecho lo anterior, el prestador de los servicios expedirá la carta de factibilidad correspondiente, previa entrega de los planos autorizados por el prestador de los servicios.
+A partir de la notificación de la aprobación del proyecto hidráulico por parte del prestador de los servicios, el fraccionador o urbanizador contará con quince días hábiles para realizar el pago de las cuotas de conexión, o convenir con el prestador de los servicios la factibilidad. Independientemente de lo establecido en el último párrafo del artículo 157, y artículo 162 de esta Ley, el prestador de servicios tiene la facultad exclusiva para aceptar el pago en contraprestación, mediante convenio de cesión de derechos de aguas nacionales y entrega de obras de la fuente de extracción de agua, con su respectivo equipamiento electromecánico, así como la obra extraordinaria no necesaria para el proyecto de urbanización que de común acuerdo se pacte, construida por el fraccionador o desarrollador a favor del prestador de servicios con base en (sic) tabulador de precios unitarios de obra del prestador de servicios para los conceptos antes mencionados. En este último caso, el fraccionador o urbanizador garantizará el pago de los cuotas de conexión mediante póliza de fianza u otro medio legalmente aceptado; hecho lo anterior, el prestador de los servicios expedirá la carta de factibilidad correspondiente, previa entrega de los planos autorizados por el prestador de los servicios.
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2014)</small>
 
@@ -2649,11 +2659,11 @@ En los lugares en donde no haya medidores o mientras éstos no se instalen, los 
 
 Cuando no sea posible medir el consumo debido a la destrucción total o parcial del medidor respectivo, el prestador de los servicios podrá optar por determinar los cargos en función de los consumos anteriores en los términos del artículo 228 de esta Ley, independientemente de los cargos a cubrir por la reposición del medidor.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 183.
 
-Toda persona usuaria está obligada al pago mensual de los servicio (sic) públicos de agua potable, alcantarillado y saneamiento, con base en las cuotas o tarifas fijadas en los términos de la presente Ley, con excepción de aquellas quienes reciben estos servicios por parte de un organismo operador intermunicipal, mismos que deberán pagar bimestralmente.
+Toda persona usuaria está obligada al pago mensual o bimestral de los servicios públicos de agua potable, alcantarillado y saneamiento, con base en las cuotas o tarifas fijadas en los términos de la presente Ley, según lo determine el prestador del servicio.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2015)</small>
 
@@ -2681,7 +2691,9 @@ Las autoridades de los municipios serán responsables de vigilar el cumplimiento
 
 Son obligaciones de los usuarios:
 
-I. Mantener en buen estado sus instalaciones hidráulicas interiores y exteriores, hasta el punto de conexión de la red de agua potable y de drenaje, a fin de evitar el desperdicio de agua; y deberán de abstenerse de realizar conductas que contaminen o propicien el mal funcionamiento de las redes y sistemas descritos en esta Ley;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
+
+I. Mantener en buen estado los aparatos de medición, sus instalaciones hidráulicas interiores y exteriores, hasta el punto de conexión de la red de agua potable y de drenaje, a fin de evitar el desperdicio de agua; y deberán de abstenerse de realizar conductas que contaminen o propicien el mal funcionamiento de las redes, los aparatos de medición y sistemas descritos en esta Ley;
 
 II. Los muebles de baño, regaderas, llaves, tuberías y accesorios sanitarios que se distribuyan o comercialicen en la Entidad, deberán reunir los requisitos técnicos especificados por las normas oficiales mexicanas correspondientes;
 
@@ -3227,7 +3239,7 @@ I. Negar la contratación de los servicios públicos sin causa justificada;
 
 II. Aplicar cuotas y tarifas que excedan las resultantes de la aplicación de las fórmulas a que se refiere al Capítulo IV del Título Sexto de esta Ley;
 
-III. No prestar los servicios públicos de conformidad con los niveles de calidad establecidos en el decreto de creación de los organismo (sic) operadores, el título de concesión o el convenio celebrado entre el municipio y la Comisión, la legislación de equilibrio ecológico y protección al ambiente y las normas oficiales mexicanas;
+III. No prestar los servicios públicos de conformidad con los niveles de calidad establecidos en el decreto de creación de los organismo operadores, el título de concesión o el convenio celebrado entre el municipio y la Comisión, la legislación de equilibrio ecológico y protección al ambiente y las normas oficiales mexicanas;
 
 IV. Interrumpir, total o parcialmente, la prestación de los servicios públicos sin causa justificada;
 
@@ -3664,3 +3676,17 @@ PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Para la convocatoria y elección del Consejo Hídrico Estatal que se integrará para el periodo que comprende del 31 de julio de 2022 al primer periodo ordinario de instalación de la LXIV Legislatura, por excepción a lo previsto en el párrafo primero del artículo 33 de esta Ley, este proceso se llevará a cabo dentro de los treinta días naturales de julio de 2022.
+
+P.O. 31 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0290.- SE REFORMAN LOS ARTÍCULOS 144, 145, 146, 150, 183 Y 187; Y ADICIONA AL ARTÍCULO 142 EL PÁRRAFO CUARTO, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 7° Y SÉPTIMO TRANSITORIO DE LA LEY DE CUOTAS Y TARIFAS PARA LA PRESTACIÓN DE SERVICIOS PÚBLICOS DE AGUA POTABLE, DRENAJE, ALCANTARILLADO, SANEAMIENTO Y DISPOSICIÓN FINAL DE AGUAS RESIDUALES DEL ORGANISMO OPERADOR INTERMUNICIPAL DE LOS MUNICIPIOS DE CERRO DE SAN PEDRO, SAN LUIS POTOSÍ Y SOLEDAD DE GRACIANO SÁNCHEZ, EJERCICIO FISCAL 2022".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
+
+SEGUNDO. En relación con las modificaciones que mediante este Decreto se hace a la Ley de Aguas para el Estado de San Luis Potosí, las disposiciones de las leyes de cuotas y tarifas de los organismos operadores paramunicipales para el ejercicio fiscal 2022 y demás normativa de otros prestadores de servicio de agua potable y conexos, que se opongan al mismo, quedan derogadas: Además, se deroga cualquier otra disposición que se oponga a este Decreto.
+
+TERCERO. La conversión de cobro bimestral a mensual o viceversa, que a la entrada en vigor de este Decreto prevé el párrafo primero del artículo 183 de la Ley Local de Aguas, el prestador del servicio lo podrá hacer a partir del uno de abril de 2022.
+
+En el caso de los usuarios que pagan su servicio en cuota o tarifa fija, por lo que respecta al organismo intermunicipal de los municipios de, Cerro de San Pedro; San Luis Potosí; y Soledad de Graciano Sánchez, para el ejercicio fiscal 2022, su cobró lo seguirán efectuando bimestralmente.
+
+CUARTO. El cobro total o parcial que el organismo operador intermunicipal INTERAPAS, hubiera realizado por concepto de aparato medidor al usuario, en el ejercicio fiscal 2022 en el caso del servicio tipo doméstico, la cantidad respectiva será devuelta en abono a cuenta de los cobros mensuales o bimestrales subsecuentes, que por este servicio se realicen.
