@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pemex-logistica-122746"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-08-10"
-last_updated: "2019-12-23"
+last_updated: "2022-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122746&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ www.dof.gob.mx/2019/PEMEX/mod_eoplo_201912.pdf]
 
 ESTATUTO ORGÁNICO DE PEMEX LOGÍSTICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MARZO DE 2022.
 
 Estatuto Orgánico publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 10 de agosto de 2017.
 
@@ -97,9 +97,21 @@ IV. Cadena de Valor: Las actividades de logística para la planeación, programa
 
 V. Centro de Control: Lugar físico donde se encuentran los equipos y recursos a través de los cuales se monitorean, coordinan y controlan los parámetros con que operan los Sistemas de Transporte por Ducto;
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+V Bis. Comité Ejecutivo del MOBAP: Grupo colegiado encargado de establecer las directrices para la operación del MOBAP y las estrategias para la mejora, documentación y evaluación de los procesos;
+
 VI. Consejeros: Los designados con tal carácter, propietarios y suplentes, de conformidad con el Acuerdo de Creación;
 
 VII. Consejo de Administración: El Consejo de Administración de Pemex Logística;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+VII Bis. Cumplimiento: Conjunto de actividades para dar seguimiento a la observancia de las obligaciones previstas en las disposiciones jurídicas y administrativas, aplicables a Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
 VIII. Despacho: La actividad logística de entrega de Productos a través de cualquier medio para su expendio al público o consumo final;
 
@@ -113,7 +125,9 @@ XII. Esquemas de Negocio: Modelos de ejecución de oportunidades de negocio de P
 
 XIII. Estatuto: El Estatuto Orgánico de Pemex Logística;
 
-XIV. Estructuras de Gobierno para la Mejora de Procesos: Los grupos colegiados que intervienen en el MOBAP, para gestionar la mejora de dichos procesos;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+XIV. (DEROGADA, D.O.F. 31 DE MARZO DE 2022)
 
 XV. Hidrocarburos: Los que define la Ley de Hidrocarburos en su artículo 4, fracción XX;
 
@@ -139,6 +153,12 @@ XXV. Presidente: El Presidente del Consejo de Administración;
 
 XXVI. Productos: Los Hidrocarburos, Petrolíferos y Petroquímicos que la Ley de Hidrocarburos define o cualquier otro elemento o compuesto que Pemex Logística maneje, trate, transporte o almacene;
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXVI Bis. Programa de Cumplimiento: Documento autorizado por el Consejo de Administración de Petróleos Mexicanos, aplicable a Pemex, sus Empresas Productivas Subsidiarias y Empresas Filiales, que busca prevenir o mitigar riesgos de Cumplimiento, de corrupción y legales;
+
 XXVII. Prosecretario: El Prosecretario del Consejo de Administración;
 
 XXVIII. Reglamento: El Reglamento de la Ley;
@@ -149,7 +169,23 @@ XXX. Sistema de Confiabilidad Operacional: Conjunto de metodologías y mejores p
 
 XXXI. Sistema de Control Interno: El conjunto de políticas, principios, normas, procedimientos y mecanismos de verificación y evaluación establecidos conforme a los lineamientos que apruebe el Consejo de Administración de Petróleos Mexicanos, en términos del artículo 56 de la Ley;
 
-XXXII. Sistemas Técnicos Especializados: Aplicaciones técnicas de uso específico, en las operaciones sustantivas de la Cadena de Valor, diferentes a las utilizadas en las Tecnologías Operacionales, entre otros, sistemas de visualización, de simulación sísmica, para diseño de pozos, de optimización de yacimientos;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXXI Bis. Sistema de Gestión de Mediciones: Conjunto de elementos interrelacionados, o que interactúan, necesarios para lograr la confirmación metrológica y el control continuo de los procesos de medición;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXXII. Software Técnico: Solución comercializada por terceros que soporta los procesos sustantivos de exploración y producción; transformación industrial; logística, y comercialización;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXXII Bis. Soluciones Técnicas: Aplicación informática, la cual puede tener componentes desarrollados a través de lenguajes de programación, así como la utilización del Software Técnico interconectado con la misma. Las Soluciones Técnicas soportan los procesos sustantivos de exploración y producción; transformación industrial; logística, y comercialización;
 
 XXXIII. Tecnologías de la Información: Incluye los términos de redes y telecomunicaciones, así como la infraestructura de hardware y software, aplicaciones, sistemas, soluciones, servicios y protección de información, para habilitar e integrar los procesos de negocio y los flujos de información;
 
@@ -161,9 +197,29 @@ XXXVI. Terminales de Almacenamiento y Despacho: Instalaciones que permiten la re
 
 XXXVII. Terminales de Gas LP: Instalaciones que permiten la recepción, almacenamiento y entrega de Gas LP a usuarios finales;
 
-XXXVIII. Terminales de Almacenamiento y servicios portuarios y Residencias de Almacenamiento y servicios portuarios: Instalaciones de operaciones marítimas y portuarias para la recepción y entrega de Productos nacionales o importados, a través de buques tanque o buques de porte menor, y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XXXIX. Tratamiento, Transporte y Almacenamiento: Conjunta o separadamente a las actividades que define la Ley de Hidrocarburos en su artículo 4, fracciones XXXIX, XXXVIII, y II, respectivamente.
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXXVIII. Terminales de Almacenamiento y servicios portuarios y Residencias de Almacenamiento y servicios portuarios: Instalaciones de operaciones marítimas y portuarias para la recepción y entrega de Productos nacionales o importados, a través de buques tanque o buques de porte menor;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXXIX. Tratamiento, Transporte y Almacenamiento: Conjunta o separadamente a las actividades que define la Ley de Hidrocarburos en su artículo 4, fracciones XXXIX, XXXVIII, y II, respectivamente;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XL. Tratamiento y Logística Primaria: Servicios que proporciona la Subdirección de Tratamiento y Logística Primaria, así como sus áreas adscritas, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XLI. Usuario: El permisionario que solicita o utiliza los servicios de otro permisionario.
 
 ###### Artículo 5.
 
@@ -217,9 +273,9 @@ Tratándose de las funciones relacionadas con Esquemas de Negocio, procesos de n
 
 El Consejo de Administración, además de las funciones establecidas en el Acuerdo de Creación, tendrá las siguientes:
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-I. Aprobar la normatividad aplicable a Pemex Logística, o sus modificaciones, requerida para el cumplimiento de su objeto, siempre y cuando su emisión y autorización no corresponda a otras instancias o áreas de Pemex, en función de la conducción central y dirección estratégica de Pemex;
+I. (DEROGADA, D.O.F. 31 DE MARZO DE 2022)
 
 II. Aprobar conforme a las políticas establecidas por el Consejo de Administración de Petróleos Mexicanos, el otorgamiento de garantías solidarias, corporativas o financieras, para respaldar obligaciones contraídas por Pemex, sus Empresas Productivas Subsidiarias y Empresas Filiales, y
 
@@ -377,9 +433,11 @@ Las notas de los asuntos del orden del día deberán cumplir con lo siguiente:
 
 I. Estar suscritas por los responsables de su contenido y elaboración, y
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-II. En su caso, señalar que la información se encuentra clasificada o es susceptible de ser clasificada de conformidad con lo dispuesto en la legislación en materia de transparencia y demás normatividad aplicable. En la clasificación respectiva, se deberá distinguir la información contenida en el documento relativo a la propuesta, así como el contenido del acuerdo propuesto, para efectos de su expedición.
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+II. En su caso, señalar que la información podrá ser clasificada de conformidad con lo dispuesto en la legislación en materia de transparencia y demás normatividad aplicable. En la clasificación que eventualmente se realice se deberá distinguir la información contenida en el documento relativo a la propuesta, así como el contenido del acuerdo propuesto, para efectos de su expedición.
 
 No podrá incorporarse un asunto al orden del día de la sesión, si no se cumple con los requisitos anteriores.
 
@@ -517,9 +575,23 @@ VIII. Designar a los servidores públicos que deberán interactuar en la alineac
 
 IX. Definir con el director corporativo que corresponda, los mecanismos de coordinación, control, entrega de información y resultados que se definan en materia de conducción central y dirección estratégica de Pemex, así como instrumentar las acciones de mejora que se determinen;
 
-X. Dirigir al interior de Pemex Logística, la ejecución de los acuerdos adoptados por las Estructuras de Gobierno para la Mejora de Procesos;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XI. Liderar los procesos de negocio que le sean asignados, e informar su desempeño a la instancia de Pemex que corresponda;
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+IX Bis. Asegurar la implementación del Sistema de Control Interno, así como promover el fortalecimiento de la cultura de control interno;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+X. Dirigir al interior de Pemex Logística, la ejecución de los acuerdos adoptados por el Comité Ejecutivo del MOBAP;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XI. Liderar los procesos institucionales que le sean asignados, las acciones para la optimización de los procesos institucionales y para el fortalecimiento de la continuidad del negocio, así como informar de su estado y sus indicadores al Comité Ejecutivo del MOBAP, en términos del instrumento emitido por el Director General de Pemex;
 
 XII. Dirigir en Pemex Logística la alineación al MOBAP, en coordinación con lo que establezcan las áreas competentes;
 
@@ -539,9 +611,19 @@ XIX. Presentar al Consejo de Administración en cada sesión ordinaria, un infor
 
 XX. Presentar al Consejo de Administración los informes de los asuntos relevantes que considere necesarios;
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XX Bis. Suscribir los documentos que contengan la información que se someterá a consideración del Consejo de Administración y del Consejo de Administración de Petróleos Mexicanos y sus comités de apoyo;
+
 XXI. Requerir a las áreas competentes de Pemex los recursos humanos, materiales, financieros, Tecnologías de la Información, Abastecimiento, infraestructura y demás apoyo administrativo;
 
-XXII. Dirigir en coordinación con el área rectora en Pemex en materia de Tecnologías de la Información, la habilitación de Tecnologías Operacionales y los Sistemas Técnicos Especializados;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXII. Dirigir en coordinación con el área rectora en Pemex en materia de Tecnologías de la Información, la habilitación de Tecnologías Operacionales y las Soluciones Técnicas;
 
 XXIII. Participar en los procedimientos de selección de los subdirectores y, en su caso, los gerentes de Pemex y de Pemex Logística, de conformidad con la normatividad que emita el Consejo de Administración de Petróleos Mexicanos, en coordinación con la Dirección Corporativa de Administración y Servicios;
 
@@ -551,7 +633,17 @@ XXV. Proponer a la Dirección Corporativa de Administración y Servicios la estr
 
 XXVI. Definir, con la Dirección Corporativa de Administración y Servicios, los objetivos, indicadores y metas que permitan evaluar el desempeño de los servidores públicos de Pemex Logística, en términos de la normatividad que emita el Consejo de Administración de Petróleos Mexicanos;
 
-XXVII. Proponer a la Dirección Corporativa de Administración y Servicios los requerimientos para la elaboración del programa de capacitación y formación técnica del personal, así como dar seguimiento a su implementación;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXVII. Validar las propuestas que se presentan a la Dirección Corporativa de Administración y Servicios respecto de los requerimientos para la elaboración del programa de capacitación y formación técnica del personal, así como dirigir su implementación;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXVII Bis. Dirigir la participación en la implementación del Programa de Cumplimiento y fomentar la cultura de Cumplimiento, así como la atención de las recomendaciones del Comité de Ética de Petróleos Mexicanos, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
 XXVIII. Dirigir los procesos de planeación, operación y comercialización de Pemex Logística, en coordinación, con las áreas competentes de Pemex;
 
@@ -589,7 +681,11 @@ XLIV. Instruir la implantación del Sistema de Confiabilidad Operacional para as
 
 XLV. Dirigir la implantación y vigilar el cumplimiento y desempeño del sistema de seguridad industrial, salud en el trabajo y protección ambiental, y estándares de desarrollo sustentable establecidos por Pemex y por las demás disposiciones aplicables;
 
-XLVI. Proponer al Consejo de Administración la normatividad técnica que de acuerdo con el objeto de Pemex Logística le corresponda y, en su caso, emitir, modificar, interpretar, o dejar sin efectos la que sea de su competencia;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XLVI. Emitir o modificar la normatividad técnica que de acuerdo con el objeto de Pemex Logística le competa, así como la normatividad técnica de los procesos institucionales que lidera, y coadyuvar en la elaboración o modificación de la correspondiente a los procesos institucionales en los que tenga participación y, en su caso, suscribirla;
 
 XLVII. Definir en conjunto con las direcciones corporativas los mecanismos de transparencia y rendición de cuentas;
 
@@ -609,11 +705,49 @@ LIV. Delegar funciones y asignar responsabilidades a los servidores públicos de
 
 LV. Validar la información de Pemex Logística, contenida en el informe anual a que se refiere el artículo 113 de la Ley;
 
-LVI. Dirigir el cumplimiento de la estrategia y directrices generales que establezca la Subdirección de Salvaguardia Estratégica adscrita a la Dirección Corporativa de Administración y Servicios, en materia de vigilancia, monitoreo, control de accesos y salidas en instalaciones industriales de Pemex Logística, y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+LV Bis. Dirigir y vigilar la aplicación y cumplimiento de los criterios y opiniones emitidos por la Dirección Jurídica;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+LV Ter. Verificar la integración y entrega de la información y documentación que soliciten las áreas adscritas a la Dirección Jurídica para el ejercicio de la función jurídica institucional;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+LV Quáter. Suscribir la justificación para la celebración de contratos o convenios con personas físicas o morales a quienes les hayan rescindido un contrato en Pemex Logística y someterla a la revisión de la Dirección Jurídica conforme a sus facultades;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+LV Quinquies. Suscribir los documentos o instrumentos jurídicos necesarios para evitar la instauración de procedimientos judiciales, arbitrales, administrativos y de controversias o el dictado de resoluciones, laudos o sentencias adversos a los intereses de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, que le sean requeridos por la Dirección Jurídica;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+LVI. Dirigir el cumplimiento de la estrategia y directrices generales que establezca la Subdirección de Salvaguardia Estratégica adscrita a la Dirección Corporativa de Administración y Servicios, en materia de vigilancia, monitoreo, control de accesos y salidas en instalaciones industriales de Pemex Logística;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+LVI Bis. Dirigir el Sistema de Gestión de Mediciones, y
 
 LVII. Las demás que sean necesarias para el cumplimiento de su cargo, las que le instruya el Consejo de Administración, el Director General de Pemex, así como aquellas establecidas en otros artículos del Estatuto y en otras disposiciones aplicables.
 
-Son indelegables las atribuciones del Director General señaladas en las fracciones I, II, III, IV, VIII, X, XI, XIII, XIX, XX, XXIV, XXV, XXXV, XXXVI, XXXVIII, XXXIX, XLVI, LI, LII, LIV, y LV, de este artículo.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2022)</small>
+
+Son indelegables las atribuciones del Director General señaladas en las fracciones I, II, III, IV, VIII, X, XI, XIII, XIX, XX, XX Bis, XXIV, XXV, XXXV, XXXVI, XXXVIII, XXXIX, XLVI, LI, LII, LIV y LV, de este artículo.
 
 > <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2019)</small>
 
@@ -667,9 +801,17 @@ IX. Apoyar en la atención y cumplimiento de la ejecución de los acuerdos del C
 
 X. Supervisar la implementación de los mecanismos de coordinación, control, evaluación, entrega de información y resultados que, en materia de conducción central y dirección estratégica, definan las áreas competentes de Pemex, así como instrumentar las acciones de mejora que se determinen;
 
-XI. Participar en la implementación del Sistema de Control Interno, promover el fortalecimiento de la cultura de control, así como contribuir a la efectividad de los controles internos;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XII. Promover la ejecución de los acuerdos adoptados por las Estructuras de Gobierno para la Mejora de Procesos, así como participar en proyectos, toma de decisiones y ejecución de acciones de forma transversal en Pemex, en esta materia;
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XI. Coordinar la implementación del Sistema de Control Interno, así como promover el fortalecimiento de la cultura de control interno;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XII. Coordinar la ejecución de los acuerdos adoptados por el Comité Ejecutivo del MOBAP, así como participar en proyectos, toma de decisiones y ejecución de acciones de forma transversal en Pemex, en esta materia;
 
 XIII. Coordinar a nivel institucional las acciones requeridas para la mejora de los procesos que le sean asignadas por los líderes de los procesos;
 
@@ -689,13 +831,21 @@ XX. Proporcionar la información en el ámbito de su competencia, para la integr
 
 XXI. Integrar la propuesta de los objetivos y de la definición y evaluación de las estrategias, metas y de los indicadores operativos de negocio y de confiabilidad;
 
-XXII. Supervisar la elaboración y suscribir los documentos que contengan la información que se someterá a la consideración del Consejo de Administración, así como atender los requerimientos de información de dicho órgano de gobierno, por conducto del Director General;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXII. Supervisar la elaboración y suscribir los documentos que contengan la información que se someterá a la consideración del Consejo de Administración y del Consejo de Administración de Petróleos Mexicanos y sus, comités de apoyo, y atender los requerimientos de información de dichos órganos de gobierno, por conducto del Director General;
 
 XXIII. Coordinar la atención de los requerimientos de programación operativa de la subdirección, conforme a las disposiciones que para este efecto emita Pemex;
 
 XXIV. Definir las necesidades en materia de infraestructura, recursos humanos, materiales, financieros, de Tecnologías de la Información, Abastecimiento, y demás apoyo para el cumplimiento de sus funciones;
 
-XXV. Supervisar la habilitación de Tecnologías Operacionales y los Sistemas Técnicos Especializados;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXV. Supervisar la habilitación de Tecnologías Operacionales y las Soluciones Técnicas;
 
 XXVI. Revisar las propuestas de directrices y prioridades para el cumplimiento del objeto de Pemex Logística, alineando las actividades al Plan de Negocios;
 
@@ -705,7 +855,11 @@ XXVIII. Participar en los procedimientos de selección de los gerentes de Pemex 
 
 XXIX. Participar en los procedimientos de evaluación del desempeño de los gerentes de Pemex Logística, con base en lo aprobado por el Consejo de Administración de Petróleos Mexicanos, en coordinación con la Dirección Corporativa de Administración y Servicios;
 
-XXX. Formular las propuestas de requerimientos para la elaboración del programa de capacitación, en coordinación con la Dirección Corporativa de Administración y Servicios, así como dar seguimiento a su implementación;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXX. Integrar las propuestas de requerimientos para la elaboración del programa de capacitación, en coordinación con la Dirección Corporativa de Administración y Servicios, así como coordinar el seguimiento de su implementación;
 
 XXXI. Participar en órganos colegiados o grupos de trabajo, así como coordinar la implementación de sus acuerdos;
 
@@ -731,7 +885,9 @@ XLI. Supervisar la implantación del Sistema de Confiabilidad Operacional para a
 
 XLII. Coordinar la implantación, vigilancia y evaluación del desempeño del sistema de seguridad industrial, salud en el trabajo y protección ambiental, y estándares de desarrollo sustentable establecidos por Pemex y otras disposiciones aplicables;
 
-XLIII. Emitir, modificar o dejar sin efectos la normatividad técnica de aplicación en Pemex Logística, cuando ello no implique la intervención de otras instancias;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+XLIII. (DEROGADA, D.O.F. 31 DE MARZO DE 2022)
 
 XLIV. Proponer al Director General la normatividad técnica de aplicación obligatoria en Pemex Logística;
 
@@ -761,11 +917,39 @@ LV. Proponer las inversiones de su área para su registro en el portafolio de in
 
 LVI. Promover las acciones conducentes en coordinación con la Dirección Jurídica, en materia de Actividades Reguladas y permisionadas;
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+LVI Bis. Coordinar la participación en la implementación del Programa de Cumplimiento y fomentar la cultura de Cumplimiento, así como la atención de las recomendaciones del Comité de Ética de Petróleos Mexicanos, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+LVI Ter. Verificar la aplicación y cumplimiento de los criterios y opiniones emitidos por la Dirección Jurídica;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+LVI Quáter. Coordinar la integración y entrega de la información y documentación que soliciten las áreas adscritas a la Dirección Jurídica para el ejercicio de la función jurídica institucional;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+LVI Quinquies. Suscribir los documentos o instrumentos jurídicos necesarios para evitar la instauración de procedimientos judiciales, arbitrales, administrativos y de controversias o el dictado de resoluciones, laudos o sentencias adversos a los intereses de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, que le sean requeridos por la Dirección Jurídica;
+
 LVII. Coordinar la vigilancia, monitoreo, control de accesos y salidas en instalaciones industriales de Pemex Logística, de conformidad con la estrategia y directrices generales que establezca la Subdirección de Salvaguardia Estratégica adscrita a la Dirección Corporativa de Administración y Servicios de Pemex, y
 
 LVIII. Las demás que sean necesarias para el cumplimiento de su cargo, las que le instruya el Consejo de Administración, el Director General, así como aquellas establecidas en otros artículos del Estatuto y en otras disposiciones aplicables.
 
-Son indelegables las funciones señaladas en las fracciones I, III, VI, VII, VIII, XII, XVI, XVIII, XXIX, XLIII, XLIV, XLV, LIII, y LV, del presente artículo.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2022)</small>
+
+Son indelegables las funciones señaladas en las fracciones I, III, VI, VII, VIII, XII, XVI, XVIII, XXII, XXIX, XLIII, XLIV, XLV, LIII, y LV, del presente artículo.
 
 ###### Artículo 41.
 
@@ -787,7 +971,11 @@ III. Elaborar y proponer al subdirector metas, planes y programas para el diseñ
 
 IV. Participar en la elaboración, definición, seguimiento y evaluación de las iniciativas, programas y proyectos de inversión a su cargo, así como coordinar su ejecución;
 
-V. Verificar la aplicación de la normatividad técnica y metodologías, así como la calidad en el diseño y en la ejecución de proyectos;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+V. Verificar la aplicación de la normatividad técnica, así como la calidad en el diseño y en la ejecución de proyectos;
 
 VI. Cumplir las metas operativas y de negocio establecidas en el Plan de Negocios y los programas operativos correspondientes;
 
@@ -803,9 +991,17 @@ XI. Coordinar la atención y cumplimiento de la ejecución de los acuerdos del C
 
 XII. Implementar los mecanismos de coordinación, control, entrega de información y resultados que, en materia de conducción central y dirección estratégica, definan las áreas competentes de Pemex, así como instrumentar las acciones de mejora que se determinen;
 
-XIII. Participar en la implementación del Sistema de Control Interno, promover el fortalecimiento de la cultura de control, así como contribuir a la efectividad de los controles internos institucionales;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XIV. Promover e implementar la ejecución de los acuerdos de las Estructuras de Gobierno para la Mejora de Procesos, así como participar en proyectos, toma de decisiones y ejecución de acciones de forma transversal en Pemex, en esta materia;
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XIII. Participar en la implementación del Sistema de Control Interno, así como promover el fortalecimiento de la cultura de control interno;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XIV. Promover y ejecutar los acuerdos adoptados por el Comité Ejecutivo del MOBAP, así como participar en proyectos, toma de decisiones y ejecución de acciones de forma transversal en Pemex, en esta materia;
 
 XV. Supervisar en sus áreas la alineación al MOBAP, y que sus funciones contribuyan a la mejora de procesos de negocio, así como adoptar objetivos en esta materia en los mecanismos de evaluación del desempeño;
 
@@ -817,13 +1013,21 @@ XVIII. Instrumentar mecanismos de coordinación o colaboración para las diversa
 
 XIX. Identificar la información necesaria para la integración del anteproyecto de presupuesto de Pemex Logística;
 
-XX. Elaborar los documentos que contengan la información que se someterá a la consideración del Consejo de Administración;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XX. Elaborar los documentos que contengan la información que se someterá a la consideración del Consejo de Administración y del Consejo de Administración de Petróleos Mexicanos y sus comités de apoyo;
 
 XXI. Identificar las necesidades en materia de infraestructura, recursos humanos, materiales, financieros, de Tecnologías de la Información, Abastecimiento, y demás apoyo para el cumplimiento de sus funciones;
 
 XXII. Habilitar en coordinación con el área rectora de Pemex en materia de Tecnologías de la Información, las Tecnologías Operacionales y los Sistemas Técnicos Especializados;
 
-XXIII. Mantener y operar las Tecnologías Operacionales y los Sistemas Técnicos Especializados;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXIII. Mantener y operar las Tecnologías Operacionales y las Soluciones Técnicas;
 
 XXIV. Elaborar las propuestas de directrices y prioridades para el cumplimiento del objeto de Pemex Logística, alineando las actividades al Plan de Negocios;
 
@@ -831,7 +1035,11 @@ XXV. Apoyar en la administración del patrimonio de Pemex Logística, así como 
 
 XXVI. Participar en los procedimientos de selección y evaluación del personal adscrito a su área, con base en lo aprobado por el Consejo de Administración de Petróleos Mexicanos y en coordinación con la Dirección Corporativa de Administración y Servicios;
 
-XXVII. Elaborar las propuestas de requerimientos para el programa de capacitación, en coordinación con la Dirección Corporativa de Administración y Servicios, así como llevar a cabo su implementación;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXVII. Elaborar, en coordinación con la Dirección Corporativa de Administración y Servicios, las propuestas de requerimientos para el programa de capacitación, con base en la detección de necesidades de capacitación y adiestramiento y llevar a cabo su implementación;
 
 XXVIII. Participar en órganos colegiados o grupos de trabajo, así como verificar la implementación de sus acuerdos;
 
@@ -857,9 +1065,15 @@ XXXVIII. Implantar el Sistema de Confiabilidad Operacional para asegurar la efic
 
 XXXIX. Implantar el sistema de seguridad industrial, salud en el trabajo y protección ambiental, y estándares de desarrollo sustentable establecidos por Pemex y otras disposiciones aplicables;
 
-XL. Elaborar, emitir, modificar o dejar sin efectos la normatividad técnica de Pemex Logística, cuando ello no implique la intervención de otras instancias;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XLI. Proponer a su subdirector los proyectos de normatividad técnica de aplicación obligatoria en Pemex Logística;
+XL. (DEROGADA, D.O.F. 31 DE MARZO DE 2022)
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XLI. Elaborar los proyectos de normatividad técnica de aplicación obligatoria en Pemex Logística;
 
 XLII. Coadyuvar en la interpretación de la normatividad técnica, en el ámbito de sus funciones;
 
@@ -883,13 +1097,43 @@ LI. Delegar funciones y asignar responsabilidades a su personal, salvo aquellas 
 
 La delegación de funciones y asignación de responsabilidades recaerá en los servidores públicos del área de adscripción del servidor público que la otorgue, sin perjuicio que la función que se delegue o la responsabilidad que se asigne, no corresponda a la línea de mando del servidor público al que se le otorgue;
 
-LII. Operar los almacenes de bienes de consumo de Pemex Logística;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+LII. (DEROGADA, D.O.F. 31 DE MARZO DE 2022)
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+LII Bis. Promover y participar en la implementación del Programa de Cumplimiento y fomentar la cultura de Cumplimiento, así como atender las recomendaciones del Comité de Ética de Petróleos Mexicanos, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+LII Ter. Aplicar y cumplir los criterios y opiniones emitidos por la Dirección Jurídica;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+LII Quáter. Integrar y entregar la información y documentación que soliciten las áreas adscritas a la Dirección Jurídica para el ejercicio de la función jurídica institucional;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+LII Quinquies. Suscribir los documentos o instrumentos jurídicos necesarios para evitar la instauración de procedimientos judiciales, arbitrales, administrativos y de controversias o el dictado de resoluciones, laudos o sentencias adversos a los intereses de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, que le sean requeridos por la Dirección Jurídica;
 
 LIII. Vigilar, monitorear y controlar los accesos y salidas de las instalaciones industriales de Pemex Logística, de conformidad con la estrategia y directrices generales que establezca la Subdirección de Salvaguardia Estratégica adscrita a la Dirección Corporativa de Administración y Servicios, y
 
 LIV. Las demás que sean necesarias para el cumplimiento de su cargo, las que le instruya el Consejo de Administración, el Director General, su subdirector, así como aquellas establecidas en otros artículos del Estatuto y en otras disposiciones aplicables.
 
-Son indelegables las funciones señaladas en las fracciones I, III, VIII, IX, X, XIV, XVII, XXVI, XXXIV, XL, XLVII, L, y LI, del presente artículo.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2022)</small>
+
+Son indelegables las funciones señaladas en las fracciones I, III, VIII, IX, X, XIV, XVII, XX, XXVI, XXXIV, XLI, XLII, XLVII, L, y LI, del presente artículo.
 
 ### CAPÍTULO TERCERO. DEL PERSONAL DE PEMEX LOGÍSTICA
 
@@ -995,17 +1239,25 @@ V. Coordinar la implementación de las estrategias y directrices de confiabilida
 
 VI. Supervisar la administración de los inventarios de Productos;
 
-VII. Coordinar el desarrollo e implementación de los sistemas de medición, calidad y control automatizado en instalaciones de Tratamiento y Logística Primaria;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
 
-VIII. Coordinar la entrega de la información para la integración volumétrica y balances de los Hidrocarburos recibidos y entregados;
+VII. Coordinar el desarrollo e implementación del control automatizado de los sistemas de medición y calidad en instalaciones de Tratamiento y Logística Primaria;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+VIII. Coordinar la entrega de la información para la integración volumétrica y balances de los Hidrocarburos recibidos y entregados, así como la relacionada con la calidad de los servicios de Tratamiento y Logística Primaria;
 
 IX. Supervisar la ejecución de los planes, programas y proyectos de infraestructura, mantenimiento, calibración y servicios asociados a los sistemas de medición, calidad, control automatizado y monitoreo en las instalaciones de Tratamiento y Logística Primaria;
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-X. Proporcionar la información para evaluar la calidad de los servicios de Tratamiento y Logística Primaria;
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+X. Supervisar la evaluación de la calidad de los servicios de Tratamiento y Logística Primaria;
 
 > <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
 
@@ -1019,11 +1271,17 @@ XII. Supervisar la participación de la Subdirección, en la Planeación Estrat�
 
 XIII. Proponer oportunidades de negocio y sus esquemas de ejecución en los servicios de Tratamiento y Logística Primaria;
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XIV. Proporcionar la información derivada de la prestación de los servicios de Tratamiento y Logística Primaria, para efectos de integración de los ingresos generados;
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
 
-XV. Coordinar la operación de los laboratorios de control de calidad y mantener su acreditación y la certificación de su personal;
+XIV. Coordinar la integración y remisión de informes mensuales y trimestrales, derivados de la prestación de los servicios de Tratamiento y Logística Primaria;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XV. Coordinar la operación de los laboratorios de control de calidad;
 
 XVI. Coordinar la atención de emergencias en las instalaciones de los sistemas de Tratamiento y Logística Primaria;
 
@@ -1033,15 +1291,25 @@ XVIII. (DEROGADA, D.O.F. 28 DE JUNIO DE 2019)
 
 XIX. Supervisar la aplicación de las estrategias, directrices, políticas, normas, planes, programas, procedimientos y sistemas de seguridad, salud en el trabajo, protección ambiental, así como estándares de desarrollo sustentable en las instalaciones de Tratamiento y Logística Primaria y, en su caso, proponer acciones de mejora;
 
-XX. Coordinar la administración de los permisos para el transporte por ducto de petróleo y gas natural;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XXI. Verificar con las áreas competentes, la elaboración de propuestas para el cálculo de precios y tarifas del Transporte;
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XX. Coordinar la administración de los permisos para el Transporte por ducto y Tratamiento de petróleo crudo y gas natural sin procesar;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXI. Coordinar, con las áreas competentes, la elaboración de propuestas para el cálculo de tarifas de Tratamiento y Transporte;
 
 XXII. Supervisar la ejecución de los servicios de operación, mantenimiento, administración de integridad mecánica, desarrollo de ingeniería, equipos dinámicos y auxiliares de los sistemas de Transporte, así como de servicios relacionados, y
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XXIII. Determinar la viabilidad y reprogramación diaria de los programas de operación de los sistemas de transporte por ducto y servicios de operación a terceros.
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXIII. Participar en la determinación de la viabilidad de los planes y programas de operación de los Usuarios en puntos de recepción y entrega para los servicios de Tratamiento y Logística Primaria de los sistemas de transporte por ducto y servicios de operación a terceros.
 
 ###### Artículo 46.
 
@@ -1067,7 +1335,11 @@ V. Supervisar las acciones para la administración y evaluación del cumplimient
 
 VI. Integrar las iniciativas y proyectos para la adecuación, ampliación y modernización de infraestructura de Tratamiento y Logística Primaria;
 
-VII. Integrar y evaluar los planes y programas de los productores en puntos de recepción para los servicios de Tratamiento y Logística Primaria;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+VII. Integrar, analizar y validar los planes y programas de los Usuarios en puntos de recepción y entrega para los servicios de Tratamiento y Logística Primaria;
 
 > <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
 
@@ -1093,11 +1365,15 @@ XIII. Integrar y analizar la información para evaluar la calidad de los servici
 
 XIV. Proponer oportunidades de negocio en los procesos de Tratamiento y Logística Primaria;
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XV. Integrar y validar la información derivada de la prestación de los servicios de Tratamiento y Logística Primaria, para efectos de integración de los ingresos generados;
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
 
-XVI. Dirigir las operaciones en la aplicación de planes de respuesta a emergencias;
+XV. Integrar los informes mensuales y trimestrales, y validar la información generada en las Gerencias de Operaciones de Tratamiento y Logística Primaria Norte, Sur y Marinas, derivados de la prestación de los servicios de Tratamiento y Logística Primaria;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+XVI. (DEROGADA, D.O.F. 31 DE MARZO DE 2022)
 
 > <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
 
@@ -1115,13 +1391,23 @@ XIX. Realizar el análisis, integración, jerarquización, evaluación y documen
 
 XX. Coordinar la identificación, definición, análisis, evaluación y, difusión de las iniciativas estratégicas en materia de Tratamiento y Logística Primaria, alineado a la Planeación Estratégica Institucional;
 
-> <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2019)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XXI. Coordinar la participación al interior de la Subdirección de Tratamiento y Logística Primaria en la Planeación Estratégica Institucional, en la elaboración del programa de ejecución de la estrategia de Pemex Logística, así como realizar el seguimiento de sus Estrategias en el Plan de Negocios, y
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
 
-> <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2019)</small>
+XXI. Coordinar la participación al interior de la Subdirección de Tratamiento y Logística Primaria en la Planeación Estratégica Institucional, en la elaboración del programa de ejecución de la estrategia de Pemex Logística, así como realizar el seguimiento de sus Estrategias en el Plan de Negocios;
 
-XXII. Evaluar los servicios de Tratamiento y Logística Primaria conforme a la normatividad aplicable.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXII. Evaluar los servicios de Tratamiento y Logística Primaria conforme a la normatividad aplicable, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXIII. Participar, con las áreas competentes, en la elaboración de propuestas para el cálculo de tarifas de Tratamiento y Transporte.
 
 ###### Artículo 47.
 
@@ -1137,21 +1423,35 @@ IV. Participar en la elaboración y ejecución de los contratos de servicios de 
 
 V. Proponer y ejecutar los proyectos de adecuación, ampliación y modernización de infraestructura para el Tratamiento y Logística Primaria;
 
-VI. Coordinar los planes y programas de los productores en puntos de recepción para los servicios de Tratamiento y Logística Primaria;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+VI. Coordinar el análisis y la validación de los planes y programas de los Usuarios en puntos de recepción y entrega para los servicios de Tratamiento y Logística Primaria;
 
 VII. Ejecutar los servicios de Tratamiento y Logística Primaria;
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-VIII. Implementar el Sistema de Confiabilidad Operacional en la infraestructura de Tratamiento y Logística Primaria;
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
 
-IX. Verificar y administrar los inventarios de Productos y las capacidades de la infraestructura de Tratamiento y Logística Primaria, en coordinación con el área competente;
+VIII. Elaborar y ejecutar los programas de mantenimiento, e implementar el Sistema de Confiabilidad Operacional en la infraestructura de Tratamiento y Logística Primaria;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+IX. Verificar y administrar los inventarios de Productos y las capacidades de la infraestructura de Tratamiento y Logística Primaria, en coordinación con las áreas competentes;
 
 X. Implementar los sistemas de medición, calidad y control automatizado para las instalaciones de Tratamiento y Logística Primaria;
 
 XI. Elaborar y ejecutar los planes, programas y proyectos de infraestructura, mantenimiento, calibración y servicios asociados a los sistemas de medición, calidad, control automatizado y monitoreo en los sistemas de Tratamiento y Logística Primaria;
 
-XII. Generar la información para evaluar la calidad de los servicios de Tratamiento y Logística Primaria;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XII. Generar y proporcionar la información para evaluar la calidad de los servicios de Tratamiento y Logística Primaria;
 
 > <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
 
@@ -1165,19 +1465,49 @@ XIV. Proponer oportunidades de negocio y sus esquemas de ejecución en los servi
 
 XV. Generar la información, derivada de la prestación de los servicios de Tratamiento y Logística Primaria, para efectos de integración de los ingresos generados;
 
-XVI. Supervisar y evaluar la operación de los laboratorios de control de calidad y mantener su acreditación y la certificación de su personal;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XVII. Atender emergencias en las instalaciones de los sistemas de Tratamiento y Logística Primaria;
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
 
-XVIII. Administrar y operar los almacenes de residuos peligrosos y de manejo especial que generen las áreas productivas y de servicios;
+XVI. Operar los laboratorios de control de calidad;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XVII. Atender emergencias en las instalaciones de los sistemas de Tratamiento y Logística Primaria, en coordinación con la Gerencia de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XVIII. Administrar los inventarios de residuos peligrosos y de manejo especial que se generen en el proceso de Tratamiento y Logística Primaria, en coordinación con la Gerencia de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental;
 
 XIX. (DEROGADA, D.O.F. 28 DE JUNIO DE 2019)
 
-XX. Aplicar las estrategias, directrices, políticas, normas, planes, programas, procedimientos y sistemas de seguridad, salud en el trabajo, protección ambiental, así como estándares de desarrollo sustentable en las instalaciones de Tratamiento y Logística Primaria y, en su caso, proponer acciones de mejora;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XXI. Administrar los permisos de transporte por ducto del petróleo y gas natural, y
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
 
-XXII. Elaborar la información para la integración volumétrica y balances de los Hidrocarburos recibidos y entregados.
+XX. Aplicar las estrategias, directrices, políticas, normas, planes, programas, procedimientos y sistemas de seguridad, salud en el trabajo, protección ambiental, así como estándares de desarrollo sustentable en las instalaciones de Tratamiento y Logística Primaria y, en su caso, proponer acciones de mejora, en coordinación con la Gerencia de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXI. Administrar los permisos de Transporte por ducto y Tratamiento de petróleo crudo y gas natural sin procesar;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXII. Elaborar la información para la integración volumétrica y balances de los Hidrocarburos recibidos y entregados, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXIII. Participar, con las áreas competentes, en la elaboración de propuestas para el cálculo de tarifas de Tratamiento y Transporte.
 
 ### CAPÍTULO TERCERO. DE LA SUBDIRECCIÓN DE TRANSPORTE
 
@@ -1235,7 +1565,11 @@ XVII. Coordinar el cumplimiento de las políticas rectoras de los procesos opera
 
 XVIII. Coordinar la entrega de la información para la integración volumétrica y balances de los Productos recibidos y entregados;
 
-XIX. Coordinar la administración de los permisos para el transporte por ducto de petrolíferos, petroquímicos, crudo y gas licuado de petróleo, así como aquellos de transporte por medio de buques tanque;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XIX. Coordinar la administración de los permisos para el transporte por ducto de Petrolíferos, Petroquímicos, petróleo y gas licuado de petróleo, así como aquellos de transporte por medio de buques tanque;
 
 XX. Verificar, con las áreas competentes, la elaboración de propuestas para el cálculo de precios y tarifas del Transporte;
 
@@ -1267,7 +1601,11 @@ II. Participar con las áreas competentes en la elaboración de propuestas para 
 
 III. Implementar el Sistema de Confiabilidad Operacional en la infraestructura de Transporte terrestre;
 
-IV. Generar la información para evaluar la calidad de los servicios de Transporte terrestre;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+IV. Generar y coordinar la entrega de la información con la Gerencia de Regulación, Medición, Calidad, Balances y Desarrollo Comercial para evaluar la calidad de los servicios de Transporte por ducto y servicios relacionados;
 
 V. Proponer y ejecutar los proyectos de adecuación, ampliación y modernización de infraestructura para el Transporte terrestre y servicios relacionados;
 
@@ -1281,9 +1619,17 @@ IX. Proporcionar la información y documentación para la obtención y modificac
 
 X. Proporcionar asesoría, asistencia y soporte técnico especializado al Transporte terrestre, así como servicios relacionados;
 
-XI. Apoyar en la atención de emergencias del Transporte terrestre;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XII. Aplicar las estrategias, directrices, políticas, normas, planes, programas, procedimientos y sistemas de seguridad, salud en el trabajo, protección ambiental, así como estándares de desarrollo sustentable en el Transporte terrestre y, en su caso, proponer acciones de mejora;
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XI. Apoyar en la atención de emergencias del Transporte terrestre, en coordinación con la Gerencia de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XII. Aplicar las estrategias, directrices, políticas, normas, planes, programas, procedimientos y sistemas de seguridad, salud en el trabajo, protección ambiental, así como estándares de desarrollo sustentable en el Transporte terrestre y, en su caso, proponer acciones de mejora, en coordinación con la Gerencia de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental;
 
 XIII. Cumplir con las políticas rectoras de los procesos operativos de Transporte terrestre y servicios relacionados;
 
@@ -1323,17 +1669,33 @@ XI. Proporcionar la información y documentación para la obtención y modificac
 
 XII. Proporcionar a terceros asesoría, asistencia y soporte técnico especializado al Transporte por ducto, así como servicios relacionados;
 
-XIII. Atender emergencias en las instalaciones de los sistemas de Transporte por ducto;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XIV. Aplicar las estrategias, directrices, políticas, normas, planes, programas, procedimientos y sistemas de seguridad, salud en el trabajo, protección ambiental, así como estándares de desarrollo sustentable en el Transporte por ducto y, en su caso, proponer acciones de mejora;
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
 
-XV. Administrar y operar los almacenes de residuos peligrosos y de manejo especial que generen las áreas del Trasporte por ducto;
+XIII. Atender emergencias en las instalaciones de los sistemas de Transporte por ducto, en coordinación con la Gerencia de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XIV. Aplicar las estrategias, directrices, políticas, normas, planes, programas, procedimientos y sistemas de seguridad, salud en el trabajo, protección ambiental, así como estándares de desarrollo sustentable en el Transporte por ducto y, en su caso, proponer acciones de mejora, en coordinación con la Gerencia de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XV. Administrar y operar los almacenes de residuos peligrosos y de manejo especial que generen las áreas del Trasporte por ducto, en coordinación con la Gerencia de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental;
 
 XVI. Cumplir con las políticas rectoras de los procesos operativos y comerciales, de Transporte por ducto y servicios relacionados;
 
 XVII. Elaborar la información para la integración volumétrica y balances de los Productos recibidos y entregados del Transporte por ducto, y
 
-XVIII. Administrar los permisos para el transporte por ducto de petrolíferos, petroquímicos, crudo y gas licuado de petróleo.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XVIII. Administrar los permisos para el transporte por ducto de Petrolíferos, Petroquímicos, petróleo y gas licuado de petróleo.
 
 > <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2019)</small>
 
@@ -1359,13 +1721,29 @@ VIII. Generar la información derivada de los servicios de Transporte marítimo 
 
 IX. Proporcionar la información y documentación para la obtención y modificación de los permisos, la atención de requerimientos de la autoridad y el cumplimiento de las obligaciones regulatorias de la prestación del servicio de Transporte marítimo;
 
-X. Proporcionar a terceros asesoría, asistencia y soporte técnico especializado al Transporte marítimo, mantenimiento naval, así como servicios relacionados;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XI. Atender emergencias en las instalaciones de los sistemas de Transporte marítimo y de mantenimiento naval;
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
 
-XII. Aplicar las estrategias, directrices, políticas, normas, planes, programas, procedimientos y sistemas de seguridad, salud en el trabajo, protección ambiental, así como estándares de desarrollo sustentable en el Transporte marítimo y de mantenimiento naval y, en su caso, proponer acciones de mejora;
+X. Proporcionar a terceros asesoría, asistencia y soporte técnico especializado en mantenimiento naval, así como todos los servicios que preste el Centro de Reparaciones Navales;
 
-XIII. Administrar y operar los almacenes de residuos peligrosos y de manejo especial que generen las áreas del Transporte marítimo y mantenimiento naval;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XI. Atender emergencias en las instalaciones de los sistemas de Transporte marítimo, de mantenimiento naval y Centro de Reparaciones Navales, en coordinación con la Gerencia de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XII. Aplicar las estrategias, directrices, políticas, normas, planes, programas, procedimientos y sistemas de seguridad, salud en el trabajo, protección ambiental, así como estándares de desarrollo sustentable en el Transporte marítimo y de mantenimiento naval y, en su caso, proponer acciones de mejora, en coordinación con la Gerencia de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XIII. Administrar y operar los inventarios de residuos peligrosos y de manejo especial que generen las áreas del Transporte marítimo y mantenimiento naval para disposición final, en coordinación con la Gerencia de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental;
 
 XIV. Cumplir con las políticas rectoras de los procesos operativos y comerciales del Transporte marítimo, mantenimiento naval, y servicios relacionados;
 
@@ -1403,15 +1781,33 @@ IX. Coordinar la ejecución de los planes, programas y proyectos de infraestruct
 
 X. Brindar asesoría, asistencia y soporte técnico especializado para la logística de los sistemas de Transporte y servicios relacionados;
 
-XI. Integrar y validar la información volumétrica para los balances de los Productos recibidos y entregados;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XI. Integrar la información volumétrica para los balances de los Productos recibidos y entregados;
 
 XII. Determinar la viabilidad, así como conciliar y ejecutar los ajustes a los programas diarios de operación de los sistemas de Transporte;
 
 XIII. Evaluar los servicios de Transporte conforme a la normatividad aplicable;
 
-XIV. Administrar el Centro de Control de Pemex Logística, y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XV. Coordinar y monitorear los servicios de Transporte.
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XIV. Administrar el Centro de Control de Pemex Logística;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XV. Coordinar y monitorear los servicios de Transporte, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XVI. Integrar y analizar la información para evaluar la calidad de los servicios de Transporte y servicios relacionados.
 
 ### CAPÍTULO CUARTO. DE LA SUBDIRECCIÓN DE ALMACENAMIENTO Y DESPACHO
 
@@ -1422,6 +1818,12 @@ La Subdirección de Almacenamiento y Despacho, tendrá las funciones siguientes:
 I. Proponer las estrategias para capitalizar las áreas de oportunidad en la optimización de los servicios de Almacenamiento y Despacho de los Productos;
 
 II. Supervisar la ejecución de las estrategias, planes y programas operativos y comerciales de los servicios de Almacenamiento y Despacho de los Productos y servicios relacionados, así como la validación de balances operativos;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+II Bis. Supervisar el desarrollo y la ejecución de las estrategias operativas para el traspaso de Productos entre Terminales de Almacenamiento y Despacho y Terminales de Almacenamiento y servicios portuarios, haciendo uso de los autos tanque propios, así como de carros tanque propios y de terceros;
 
 III. Coordinar la implementación de las estrategias y directrices de confiabilidad operacional de la infraestructura de Almacenamiento, Despacho y de gestión del mantenimiento respectivo, así como su ejecución, evaluación y cumplimiento, en coordinación con las áreas competentes;
 
@@ -1471,11 +1873,19 @@ XVIII. Coordinar el cumplimiento de las políticas rectoras de los procesos oper
 
 XIX. Coordinar la entrega de la información para la integración volumétrica y balances de los Productos recibidos y entregados;
 
-XX. Coordinar la administración de los permisos para el almacenamiento de petrolíferos, almacenamiento marítimo, almacenamiento de gas licuado de petróleo, así como medios distintos a ductos;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XX. Coordinar la administración de los permisos para el Almacenamiento de Petrolíferos, Petroquímicos, gas licuado y petróleo, así como el Transporte por medios distintos a ductos;
 
 XXI. Coordinar la administración de los registros de auto tanques propios y de terceros, relacionados con el Despacho de Productos;
 
-XXII. Supervisar la evaluación del desempeño de los operadores de autos tanque de Almacenamiento y Despacho de Productos;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXII. Supervisar la evaluación de capacidades técnicas de los operadores de autos tanque de Almacenamiento y Despacho de Productos;
 
 XXIII. Verificar con las áreas competentes, la elaboración de propuestas para el cálculo de precios y tarifas del Almacenamiento y Despacho;
 
@@ -1497,19 +1907,35 @@ I. Integrar y proponer las estrategias operativas para capitalizar las áreas de
 
 II. Participar en la negociación, elaboración, celebración y administración de los instrumentos jurídicos para los servicios de Almacenamiento y Despacho de los Productos;
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+II Bis. Desarrollar y coordinar las estrategias operativas para el traspaso de Productos entre Terminales de Almacenamiento y Despacho y Terminales de Almacenamiento y servicios portuarios, haciendo uso de los autos tanque propios, así como de carros tanque propios y de terceros;
+
 III. Definir y consolidar los requerimientos y disponibilidad de capacidades de Almacenamiento y Despacho de los Productos acorde a las estrategias operativas y comerciales, en coordinación con las áreas competentes;
 
-IV. Integrar la información volumétrica y los balances en los sistemas de Almacenamiento y Despacho de Productos, así como los relacionados con la transferencia de custodia a usuarios;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+IV. Integrar la información volumétrica y los balances en los sistemas de Almacenamiento y Despacho de Productos, así como los relacionados con la transferencia de custodia a Usuarios;
 
 > <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
 
 V. Dirigir la implementación de los Sistemas de Confiabilidad Operacional en la infraestructura de Almacenamiento y Despacho de Productos;
 
-VI. Integrar la información para evaluar la calidad de los servicios de Almacenamiento y Despacho de Productos;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
 
-VII. Integrar las iniciativas y proyectos para la adecuación, ampliación y modernización de infraestructura de Almacenamiento y Despacho de Productos;
+VI. Analizar e integrar la información para evaluar la calidad de los servicios de Almacenamiento y Despacho de Productos;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+VII. Integrar las iniciativas y proyectos para la adecuación, ampliación y modernización de infraestructura de Almacenamiento y Despacho;
 
 > <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
 
@@ -1537,17 +1963,25 @@ XV. Participar en el cumplimiento de las políticas rectoras de los procesos ope
 
 XVI. Administrar los registros de auto tanques propios y de terceros, relacionados con el Despacho de Productos;
 
-XVII. Coordinar la evaluación del desempeño de los operadores de autos tanque de Almacenamiento y Despacho de Productos;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XVII. Coordinar la evaluación de capacidades técnicas de los operadores de autos tanque de Almacenamiento y Despacho de Productos;
 
 XVIII. Participar con las áreas competentes en la elaboración de propuestas para el cálculo de precios y tarifas;
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XIX. Administrar los permisos para el almacenamiento de petrolíferos, así como el transporte por medios distintos a ductos;
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
+XIX. Administrar los permisos para el Almacenamiento de Petrolíferos, Petroquímicos, gas licuado y petróleo, así como el Transporte por medios distintos a ductos;
 
-XX. Establecer las estrategias de promoción de los servicios de Almacenamiento y Despacho;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XX. Participar, con el área competente, en la definición de las estrategias de promoción de los servicios de Almacenamiento y Despacho;
 
 > <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2019)</small>
 
@@ -1565,17 +1999,29 @@ XXIII. Coordinar la participación al interior de la Subdirección de Almacenami
 
 XXIV. Evaluar los servicios de Almacenamiento y Despacho conforme a la normatividad aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE JUNIO DE 2019)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE MARZO DE 2022)</small>
 
 ###### Artículo 54.
 
-Las Gerencias de Logística Regionales Centro, Golfo, Norte y Pacífico, tendrán cada una dentro del ámbito de su competencia, respecto de los Petrolíferos y Petroquímicos y otros, las funciones siguientes:
+Las Gerencias de Logística Regionales Centro, Golfo, Norte y Pacífico, tendrán cada una dentro del ámbito de su competencia, las funciones siguientes:
 
 I. Ejecutar las estrategias, planes y programas operativos y comerciales para capitalizar las áreas de oportunidad en la optimización de los servicios de Almacenamiento y Despacho en Terminales de Almacenamiento y Despacho;
 
 II. Supervisar la ejecución de los procesos de Almacenamiento, Despacho y servicios relacionados acorde a las estrategias operativas y comerciales en Terminales de Almacenamiento y Despacho;
 
-III. Evaluar el desempeño de los operadores de autos tanque de Almacenamiento y Despacho;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+II Bis. Ejecutar las estrategias operativas para el traspaso de Productos entre Terminales de Almacenamiento y Despacho y terminales de almacenamiento y servicios portuarios, haciendo uso de los autos tanque propios, así como de carros tanque propios y de terceros;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+III. Evaluar las capacidades técnicas de los operadores de autos tanque de Almacenamiento y Despacho;
 
 > <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
 
@@ -1589,7 +2035,11 @@ VI. Proponer y desarrollar los proyectos de adecuación ampliación y modernizac
 
 VII. Proponer oportunidades de negocio y sus esquemas de ejecución en los servicios de Almacenamiento y Despacho;
 
-VIII. Elaborar y ejecutar los planes, programas y proyectos de infraestructura, mantenimiento, calibración y servicios asociados a los sistemas de medición, de control automatizado y de calidad de los Productos en las Terminales de Almacenamiento y Despacho;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+VIII. Participar, con el área competente, en la elaboración de los planes y programas, así como ejecutar los proyectos de infraestructura, mantenimiento, calibración y servicios asociados a los sistemas de medición, de control automatizado y de calidad de los Productos en las Terminales de Almacenamiento y Despacho;
 
 IX. Implementar los sistemas de medición, de control automatizado y de calidad de los Productos en Terminales de Almacenamiento y Despacho para la transferencia de su custodia;
 
@@ -1603,33 +2053,71 @@ XI. Generar la información, derivada de la prestación de servicios en Terminal
 
 XII. Proporcionar la información y documentación para la obtención y modificación de los permisos, la atención de requerimientos de la autoridad y el cumplimiento de las obligaciones regulatorias de la prestación del servicio de Almacenamiento y Despacho;
 
-XIII. Atender emergencias en las Terminales de Almacenamiento y Despacho;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XIV. Aplicar las estrategias, directrices, políticas, normas, planes, programas, procedimientos y sistemas de seguridad, salud en el trabajo, protección ambiental, así como estándares de desarrollo sustentable en las Terminales de Almacenamiento y Despacho y, en su caso, proponer acciones de mejora;
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XIII. Atender emergencias en las Terminales de Almacenamiento y Despacho, en coordinación con la Gerencia de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XIV. Aplicar las estrategias, directrices, políticas, normas, planes, programas, procedimientos y sistemas de seguridad, salud en el trabajo, protección ambiental, así como estándares de desarrollo sustentable en las Terminales de Almacenamiento y Despacho y, en su caso, proponer acciones de mejora, en coordinación con la Gerencia de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental;
 
 XV. Administrar los inventarios de Productos y las capacidades de la infraestructura de Terminales (sic) Almacenamiento y Despacho;
 
-XVI. Administrar y operar los almacenes de residuos peligrosos y de manejo especial que generen las Terminales de Almacenamiento y Despacho;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XVI. Administrar y operar los almacenes de residuos peligrosos y de manejo especial que generen las Terminales de Almacenamiento y Despacho, en coordinación con la Gerencia de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental;
 
 XVII. (DEROGADA, D.O.F. 28 DE JUNIO DE 2019)
 
 XVIII. Cumplir con las políticas rectoras de los procesos operativos y comerciales de los servicios de Almacenamiento y Despacho de Productos en las Terminales de Almacenamiento y Despacho;
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XIX. Administrar el proceso operativo de Almacenamiento y Despacho de los Productos e identificar áreas de oportunidad en las Terminales de Almacenamiento y Despacho;
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
 
-XX. Elaborar la información para la integración volumétrica y balances de los Productos recibidos y entregados en las Terminales de Almacenamiento y Despacho, y
+XIX. Administrar el proceso operativo y de confiabilidad en el Almacenamiento y Despacho de los Productos e identificar áreas de oportunidad en las Terminales de Almacenamiento y Despacho;
 
-XXI. Coordinar la implementación de las estrategias de promoción de los servicios de Almacenamiento y Despacho.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XX. Elaborar la información para la integración volumétrica y balances de los Productos recibidos y entregados en las Terminales de Almacenamiento y Despacho;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXI. Participar, con el área competente, en la implementación de las estrategias de promoción de los servicios de Almacenamiento y Despacho, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXII. Participar, con las áreas competentes, en la elaboración de propuestas para el cálculo de precios y tarifas en Terminales de Almacenamiento y Despacho.
 
 ###### Artículo 55.
 
 La Gerencia de Almacenamiento y Servicios Portuarios, tendrá las funciones siguientes:
 
-I. Ejecutar las estrategias, planes y programas operativos y comerciales para capitalizar las áreas de oportunidad en la optimización de los servicios de Almacenamiento, Despacho y Servicios Portuarios y servicios relacionados en las Terminales de Almacenamiento y servicios portuarios y en las Residencias de Almacenamiento y servicios portuarios;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+I. Ejecutar las estrategias, planes y programas operativos y comerciales para capitalizar las áreas de oportunidad en la optimización de los servicios de Almacenamiento, Despacho y servicios portuarios y servicios relacionados en las Terminales de Almacenamiento y servicios portuarios y en las Residencias de Almacenamiento y servicios portuarios;
 
 II. Supervisar la ejecución de los procesos de Almacenamiento, Despacho, servicios portuarios y otros relacionados acordes a las estrategias operativas y comerciales en las Terminales de Almacenamiento y servicios portuarios y en las Residencias de Almacenamiento y servicios portuarios;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+II Bis. Ejecutar las estrategias operativas para el traspaso de Productos entre Terminales de Almacenamiento y Despacho y terminales de almacenamiento y servicios portuarios, haciendo uso de los autos tanque propios, así como de carros tanque propios y de terceros;
 
 > <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
 
@@ -1637,13 +2125,21 @@ III. Implementar el Sistema de Confiabilidad Operacional en la infraestructura d
 
 IV. Generar la información para evaluar la calidad de los servicios de Almacenamiento, Despacho y servicios portuarios y servicios relacionados en las Terminales de Almacenamiento y servicios portuarios y en las Residencias de Almacenamiento y servicios portuarios;
 
-V. Proponer, integrar y desarrollar proyectos de adecuación, ampliación y modernización de infraestructura para el Almacenamiento, Despacho y servicios portuarios;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+V. Proponer y desarrollar proyectos de adecuación, ampliación y modernización de infraestructura para el Almacenamiento, Despacho y servicios portuarios;
 
 > <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
 
 VI. Proponer oportunidades de negocio y sus esquemas de ejecución en los servicios de Almacenamiento, Despacho y servicios portuarios;
 
-VII. Elaborar y ejecutar los planes, programas y proyectos de infraestructura, mantenimiento, calibración y servicios asociados a los sistemas de medición, de control automatizado y de calidad de los Productos en las Terminales de Almacenamiento y servicios portuarios y en las Residencias de Almacenamiento y servicios portuarios;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+VII. Participar, con el área competente, en la elaboración de los planes y programas y ejecutar los proyectos de infraestructura, mantenimiento, calibración y servicios asociados a los sistemas de medición, de control automatizado y de calidad de los Productos en las Terminales de Almacenamiento y servicios portuarios y en las Residencias de Almacenamiento y servicios portuarios;
 
 VIII. Implementar los sistemas de medición, de control automatizado y de calidad de los Productos en las Terminales de Almacenamiento y servicios portuarios y en las Residencias de Almacenamiento y servicios portuarios para la transferencia de custodia;
 
@@ -1655,17 +2151,31 @@ IX. Supervisar y evaluar la operación de los laboratorios de control de calidad
 
 X. Generar la información, derivada de la prestación de servicios en Terminales de Almacenamiento y servicios portuarios y en las Residencias de Almacenamiento y servicios portuarios;
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XI. Integrar y validar la información y documentación para la obtención y modificación de los permisos, atender requerimientos de la autoridad y para el cumplimiento regulatorio en Terminales de Almacenamiento y servicios portuarios y en las Residencias de Almacenamiento y servicios portuarios;
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
 
-XII. Atender emergencias en las Terminales de Almacenamiento y servicios portuarios y en las Residencias de Almacenamiento y servicios portuarios;
+XI. Proporcionar la información y documentación para la obtención y modificación de los permisos, atender requerimientos de la autoridad y para el cumplimiento regulatorio en Terminales de Almacenamiento y servicios portuarios y Residencias de Almacenamiento y servicios portuarios;
 
-XIII. Aplicar las estrategias, directrices, políticas, normas, planes, programas, procedimientos y sistemas de seguridad, salud en el trabajo, protección ambiental, así como estándares de desarrollo sustentable en las Terminales de Almacenamiento y servicios portuarios y en las Residencias de Almacenamiento y servicios portuarios y, en su caso, proponer acciones de mejora;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XII. Atender emergencias en las Terminales de Almacenamiento y servicios portuarios y en las Residencias de Almacenamiento y servicios portuarios, en coordinación con la Gerencia de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XIII. Aplicar las estrategias, directrices, políticas, normas, planes, programas, procedimientos y sistemas de seguridad, salud en el trabajo, protección ambiental, así como estándares de desarrollo sustentable en las Terminales de Almacenamiento y servicios portuarios y en las Residencias de Almacenamiento y servicios portuarios y, en su caso, proponer acciones de mejora, en coordinación con la Gerencia de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental;
 
 XIV. Verificar y administrar los inventarios de Productos y las capacidades de la infraestructura de Terminales de Almacenamiento y servicios portuarios y en las Residencias de Almacenamiento y servicios portuarios, en coordinación con el área competente;
 
-XV. Administrar y operar los almacenes de residuos peligrosos y de manejo especial que generen las Terminales (sic) Almacenamiento y servicios portuarios y en las Residencias de Almacenamiento y servicios portuarios;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XV. Administrar y operar los almacenes de residuos peligrosos y de manejo especial que generen las Terminales de Almacenamiento y servicios portuarios y en las Residencias de Almacenamiento y servicios portuarios, en coordinación con la Gerencia de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental;
 
 XVI. (DEROGADA, D.O.F. 28 DE JUNIO DE 2019)
 
@@ -1675,63 +2185,151 @@ XVIII. Elaborar la información para la integración volumétrica y balances de 
 
 XIX. Participar con las áreas competentes en la elaboración de propuestas para el cálculo de precios y tarifas en Terminales de Almacenamiento y servicios portuarios y en las Residencias de Almacenamiento y servicios portuarios;
 
-XX. Administrar el proceso operativo de Almacenamiento, Despacho y servicios portuarios y servicios relacionados e identificar áreas de oportunidad en Terminales de Almacenamiento y servicios portuarios y en las Residencias de Almacenamiento y servicios portuarios, y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XXI. Administrar los permisos para el almacenamiento marítimo.
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XX. Administrar el proceso operativo y de confiabilidad en el Almacenamiento, Despacho y servicios portuarios y servicios relacionados e identificar áreas de oportunidad en Terminales de Almacenamiento y servicios portuarios y en las Residencias de Almacenamiento y servicios portuarios;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+XXI. (DEROGADA, D.O.F. 31 DE MARZO DE 2022)
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXII. Evaluar las capacidades técnicas de los operadores de autos tanque de Almacenamiento y Despacho, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXIII. Participar, con el área competente, en la implementación de las estrategias de promoción de los servicios de Almacenamiento y servicios portuarios.
 
 ###### Artículo 56.
 
 La Gerencia de Operación de Terminales de Gas LP y Petroquímicos, tendrá las funciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-I. Ejecutar las estrategias, planes y programas operativos y comerciales para capitalizar las áreas de oportunidad en la optimización, Almacenamiento y servicios relacionados en Terminales de Gas LP y petroquímicos;
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
 
-II. Supervisar la ejecución de los procesos de Almacenamiento y servicios relacionados acorde a las estrategias operativas y comerciales en Terminales de Gas LP y petroquímicos;
+I. Ejecutar las estrategias, planes y programas operativos y comerciales para capitalizar las áreas de oportunidad en la optimización, Almacenamiento y servicios relacionados en Terminales de Gas LP y Petroquímicos;
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-III. Implementar el Sistema de Confiabilidad Operacional en la infraestructura de Terminales de Gas LP y petroquímicos;
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
 
-IV. Generar la información para evaluar la calidad de los servicios de Almacenamiento y servicios relacionados en Terminales de Gas LP y petroquímicos;
+II. Supervisar la ejecución de los procesos de Almacenamiento y servicios relacionados acorde a las estrategias operativas y comerciales en Terminales de Gas LP y Petroquímicos;
 
-V. Proponer, integrar y desarrollar proyectos de adecuación, ampliación y modernización de infraestructura para el Almacenamiento en Terminales de Gas LP y petroquímicos;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
 
-VI. Proponer oportunidades de negocio y sus esquemas de ejecución en los servicios de Almacenamiento y Entrega de Gas LP y petroquímicos;
+III. Implementar el Sistema de Confiabilidad Operacional en la infraestructura de Terminales de Gas LP y Petroquímicos;
 
-VII. Elaborar y ejecutar los planes, programas y proyectos de infraestructura, mantenimiento, calibración y servicios asociados a los sistemas de medición, de control automatizado y de calidad de los Productos en las Terminales de Gas LP y petroquímicos;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-VIII. Implementar los sistemas de medición, de control automatizado y de calidad de los Productos en Terminales de Gas LP y petroquímicos para la transferencia de custodia;
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
+IV. Generar la información para evaluar la calidad de los servicios de Almacenamiento y servicios relacionados en Terminales de Gas LP y Petroquímicos;
 
-IX. Generar la información, derivada de los servicios de Almacenamiento y servicios relacionados en Terminales de Gas LP y petroquímicos;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
 
-X. Integrar y validar la información y documentación para la obtención y modificación de los permisos, atender requerimientos de la autoridad y para el cumplimiento regulatorio en Terminales de Gas LP y petroquímicos;
+V. Proponer y desarrollar proyectos de adecuación, ampliación y modernización de infraestructura para el Almacenamiento en Terminales de Gas LP y Petroquímicos;
 
-XI. Atender emergencias en las Terminales de Gas LP y petroquímicos;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XII. Aplicar las estrategias, directrices, políticas, normas, planes, programas, procedimientos y sistemas de seguridad, salud en el trabajo, protección ambiental, así como estándares de desarrollo sustentable en las Terminales de Gas LP y petroquímicos y, en su caso, proponer acciones de mejora;
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
 
-XIII. Verificar y administrar los inventarios de Productos y las capacidades de la infraestructura de Terminales de Gas LP y petroquímicos, en coordinación con el área competente;
+VI. Proponer oportunidades de negocio y sus esquemas de ejecución en los servicios de Almacenamiento y entrega de Gas LP y Petroquímicos;
 
-XIV. Administrar y operar los almacenes de residuos peligrosos y de manejo especial que generen las Terminales de Gas LP y petroquímicos;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+VII. Participar, con el área competente, en la elaboración de los planes y programas y ejecutar los proyectos de infraestructura, mantenimiento, calibración y servicios asociados a los sistemas de medición, de control automatizado y de calidad de los Productos en las Terminales de Gas LP y Petroquímicos;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+VIII. Implementar los sistemas de medición, de control automatizado y de calidad de los Productos en Terminales de Gas LP y Petroquímicos para la transferencia de custodia;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+IX. Generar la información, derivada de los servicios de Almacenamiento y servicios relacionados en Terminales de Gas LP y Petroquímicos;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+X. Proporcionar la información y documentación para la obtención y modificación de los permisos, atender requerimientos de la autoridad y para el cumplimiento regulatorio en Terminales de Gas LP y Petroquímicos;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XI. Atender emergencias en las Terminales de Gas LP y Petroquímicos, en coordinación con la Gerencia de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XII. Aplicar las estrategias, directrices, políticas, normas, planes, programas, procedimientos y sistemas de seguridad, salud en el trabajo, protección ambiental, así como estándares de desarrollo sustentable en las Terminales de Gas LP y Petroquímicos y, en su caso, proponer acciones de mejora, en coordinación con la Gerencia de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XIII. Verificar y administrar los inventarios de Productos y las capacidades de la infraestructura de Terminales de Gas LP y Petroquímicos, en coordinación con el área competente;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XIV. Administrar y operar los almacenes de residuos peligrosos y de manejo especial que generen las Terminales de Gas LP y Petroquímicos, en coordinación con la Gerencia de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental;
 
 XV. (DEROGADA, D.O.F. 28 DE JUNIO DE 2019)
 
-XVI. Cumplir con las políticas rectoras de los procesos operativos y comerciales de los servicios de Almacenamiento y servicios relacionados en Terminales de Gas LP y petroquímicos;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XVII. Participar con las áreas competentes en la elaboración de propuestas para el cálculo de precios y tarifas, de Terminales de Gas LP y petroquímicos;
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
 
-XVIII. Administrar el proceso operativo de Almacenamiento y servicios relacionados e identificar áreas de oportunidad;
+XVI. Cumplir con las políticas rectoras de los procesos operativos y comerciales de los servicios de Almacenamiento y servicios relacionados en Terminales de Gas LP y Petroquímicos;
 
-XIX. Administrar los permisos de almacenamiento de gas licuado de petróleo, y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XX. Elaborar la información para la integración volumétrica y balances de los Productos recibidos y entregados en Terminales de Gas LP y petroquímicos.
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XVII. Participar con las áreas competentes en la elaboración de propuestas para el cálculo de precios y tarifas, de Terminales de Gas LP y Petroquímicos;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XVIII. Administrar el proceso operativo y de confiabilidad en el Almacenamiento y servicios relacionados en Terminales de Gas LP y Petroquímicos e identificar áreas de oportunidad;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+XIX. (DEROGADA, D.O.F. 31 DE MARZO DE 2022)
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XX. Elaborar la información para la integración volumétrica y balances de los Productos recibidos y entregados en Terminales de Gas LP y Petroquímicos, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXI. Participar, con el área competente, en la implementación de las estrategias de promoción de los servicios de operación de Terminales de Gas LP y Petroquímicos.
 
 > <small>(DEROGADO, D.O.F. 28 DE JUNIO DE 2019)</small>
 
@@ -1917,11 +2515,23 @@ X. Coordinar las acciones necesarias para corregir y prevenir desviaciones en el
 
 XI. Participar, en coordinación con la Dirección Corporativa de Administración y Servicios, en la capacitación, evaluación, acreditación, certificación y el desarrollo humano, en materia de seguridad industrial, salud en el trabajo, protección ambiental y desarrollo sustentable, en todas las áreas de Pemex Logística, de acuerdo con la normatividad emitida por el área o instancia competente de Pemex;
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XII. Coordinar la vinculación y ejecución con el Sistema de Confiabilidad Operacional en las áreas de Pemex Logística, y
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
 
-XIII. Evaluar el desempeño en la administración y operación de los almacenes de residuos peligrosos y de manejo especial que generen sus áreas productivas y de servicios.
+XII. Coordinar la vinculación y ejecución con el Sistema de Confiabilidad Operacional en las áreas de Pemex Logística;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XIII. Evaluar el desempeño en la administración y operación de los almacenes de residuos peligrosos y de manejo especial que generen sus áreas productivas y de servicios, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XIV. Asesorar, brindar soporte técnico y participar en las acciones de respuesta a emergencias, protección civil, manejo de crisis, trabajos de prevención, contra incendio y atención de contingencias en seguridad industrial, seguridad de los procesos, salud en el trabajo y protección ambiental en todas las áreas de Pemex Logística.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 28 DE JUNIO DE 2019)</small>
 
@@ -1933,33 +2543,73 @@ XIII. Evaluar el desempeño en la administración y operación de los almacenes 
 
 La Gerencia de Regulación, Medición, Calidad, Balances y Desarrollo Comercial tendrá las funciones siguientes:
 
-I. Implementar y vigilar la aplicación de políticas, normas, programas y estrategias institucionales asociadas a la medición de transferencia de custodia, medición fiscal y medición operativa;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-II. Verificar que los planes rectores de medición de Pemex Logística se encuentren alineados con las estrategias institucionales;
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
 
-III. Conciliar con las áreas competentes los balances de volúmenes, energía y masa de los Productos recibidos y entregados e informar el resultado;
+I. Implementar y vigilar la aplicación de políticas, normas, procedimientos, programas y estrategias institucionales asociadas a la medición de transferencia de custodia, medición fiscal y medición operativa, calidad y balances, así como participar en su elaboración;
 
-IV. Dar seguimiento a los programas de trabajo en materia de medición, evaluando los avances en el cumplimiento de metas y objetivos y promover acciones para solucionar desviaciones, así como llevar el censo que contenga el registro y actualización de la información de los sistemas de medición;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-V. Administrar, mantener y actualizar el sistema institucional de transferencia de custodia, en coordinación con las áreas competentes;
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
 
-VI. Difundir criterios técnicos, procedimientos y metodologías de gestión de la medición de transferencia de custodia y medición fiscal;
+II. Verificar que los planes rectores de medición y balances de Pemex Logística se encuentren alineados con las estrategias institucionales;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+III. Definir los criterios de conciliación con las áreas competentes de los balances de volúmenes, energía y masa de los Productos recibidos y entregados, así como dar seguimiento a su registro en los sistemas institucionales y emitir los informes correspondientes;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+IV. Participar en la elaboración y seguimiento a la ejecución de los planes, programas y proyectos de infraestructura, nueva tecnología, mantenimiento, calibraciones, verificaciones y servicios asociados a los sistemas de medición y calidad, así como integrar el censo de dichos sistemas;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+V. Administrar, mantener y actualizar los sistemas institucionales en materia comercial, de medición, de balances y de transferencia de custodia, en coordinación con las áreas competentes;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+VI. Establecer, difundir y actualizar los criterios técnicos para la definición de puntos de medición fiscal, de transferencia de custodia y operativa, así como procedimientos y metodologías de gestión de la medición;
 
 VII. Identificar áreas de oportunidad en materia de medición y proponer iniciativas de mejora, así como supervisar su implementación;
 
-VIII. Coordinar y realizar diagnósticos y auditorías a sistemas de medición;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-IX. Desarrollar, integrar y proponer a las áreas competentes, las metodologías para el cálculo de precios y tarifas de los servicios de Pemex Logística;
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+VIII. Coordinar y realizar diagnósticos y auditorías a sistemas de medición y balances;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+IX. Integrar, desarrollar y proponer a las áreas competentes, así como implementar las metodologías para el cálculo de precios y tarifas de los servicios de Pemex Logística;
 
 X. Coordinar la identificación, evaluación, documentación e implementación de las oportunidades de negocio y sus esquemas de ejecución, incluyendo los casos de negocio, así como gestionar su autorización;
 
-XI. Participar, en coordinación con las áreas competentes, en la negociación, elaboración, celebración y administración de los instrumentos jurídicos en materia de Esquemas de Negocio;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XI. Participar, en coordinación con las áreas competentes, en la negociación, elaboración, celebración y administración de los instrumentos jurídicos en materia comercial, de medición, de balances y de Esquemas de Negocio, así como gestionar su autorización;
 
 XII. Coordinar la participación de Pemex Logística en la Planeación Estratégica Institucional;
 
 XIII. Integrar el programa de ejecución de la estrategia de Pemex Logística y supervisar su cumplimiento;
 
-XIV. Integrar, jerarquizar y gestionar el registro del portafolio de inversiones de Pemex Logística;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XIV. Integrar y gestionar el registro del portafolio de inversiones de Pemex Logística;
 
 XV. Evaluar el impacto económico de la regulación aplicable a los servicios de Pemex Logística;
 
@@ -1969,15 +2619,25 @@ XVII. Obtener, modificar y actualizar permisos para la prestación de servicios 
 
 XVIII. Elaborar los programas comerciales de Pemex Logística y verificar su cumplimiento;
 
-XIX. Integrar los programas operativos de mediano y largo plazo y evaluar el desempeño de las líneas de negocio de Pemex Logística;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XX. Participar, en coordinación con las áreas competentes, en la negociación, elaboración, celebración y administración de los instrumentos jurídicos para la prestación de servicios de Pemex Logística;
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XIX. Integrar los programas operativos y de mantenimiento de mediano y largo plazo y evaluar el desempeño de las líneas de negocio de Pemex Logística;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+XX. (DEROGADA, D.O.F. 31 DE MARZO DE 2022)
 
 XXI. Promover, coordinar y administrar la comercialización de los servicios de Pemex Logística;
 
 XXII. Administrar la cartera de clientes de la Gerencia;
 
-XXIII. Administrar comercialmente la información de las mediciones de calidad y cantidad de los servicios proporcionados;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXIII. Requerir, consolidar y actualizar la información comercial de las mediciones de calidad y cantidad de los servicios proporcionados;
 
 XXIV. Evaluar la calidad de los servicios prestados por Pemex Logística y promover, en su caso, acciones de mejora;
 
@@ -1987,29 +2647,59 @@ XXVI. Gestionar la cobranza a clientes por los servicios que presta Pemex Logís
 
 XXVII. Gestionar el otorgamiento de líneas de crédito a clientes de Pemex Logística, de conformidad con las directrices y lineamientos que para tal fin establezca el área competente;
 
-XXVIII. Proporcionar asesoría en materia comercial, regulatoria, de medición y calidad de los servicios prestados por Pemex Logística;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
 
-XXIX. Implementar la estrategia de mercadotecnia en Pemex Logística, de conformidad con la estrategia que establezca el área competente de Pemex, y
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
 
-XXX. Consolidar los ingresos generados por la prestación de los servicios de Pemex Logística y atender los requerimientos asociados a los mismos.
+XXVIII. Proporcionar asesoría en materia comercial, regulatoria, de Esquemas de Negocio, tarifas, así como soporte técnico en medición, balances y calidad de los servicios prestados por Pemex Logística;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXIX. Proponer, implementar y dar seguimiento a la estrategia de mercadotecnia en Pemex Logística, en coordinación con el área competente de Pemex;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXX. Consolidar los ingresos generados por la prestación de los servicios de Pemex Logística y atender los requerimientos asociados a los mismos;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXXI. Proponer, participar y validar la funcionalidad de nuevos desarrollos tecnológicos en materia comercial, de medición, de balances y de transferencia de custodia, en coordinación con las áreas competentes, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2022)</small>
+
+XXXII. Administrar el Sistema de Gestión de Mediciones.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 28 DE JUNIO DE 2019)</small>
 
 ## TÍTULO QUINTO. DE LA NORMATIVIDAD TÉCNICA DE PEMEX LOGÍSTICA
 
-> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2019)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2022)</small>
 
 ###### Artículo 63.
 
-El Consejo de Administración, el Director General, los subdirectores y gerentes, emitirán la normatividad técnica que conforme a sus funciones les corresponda.
+El Director General emitirá la normatividad técnica aplicable en Pemex Logística.
 
-> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2019)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE MARZO DE 2022)</small>
 
 ###### Artículo 64.
 
-La normatividad técnica de Pemex Logística deberá ajustarse a las disposiciones que respecto al proceso regulatorio emita Pemex.
+La normatividad técnica de Pemex Logística deberá ajustarse y sistematizarse para su registro, control y difusión a las disposiciones que respecto al proceso normativo emita Pemex.
 
-Asimismo, la normatividad técnica deberá incorporarse a los sistemas respectivos para su registro, control y difusión.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 31 DE MARZO DE 2022)</small>
 
 ## TÍTULO SEXTO. DE LA REPRESENTACIÓN Y SUPLENCIAS EN PEMEX LOGÍSTICA
 
@@ -2182,3 +2872,33 @@ www.pemex.com/acerca/marco_normativo/Documents/estatutos/mod_eoplo_201912.pdf
 www.dof.gob.mx/2019/PEMEX/mod_eoplo_201912.pdf
 
 Ciudad de México, a 13 de diciembre de 2019.- La Directora Jurídica, Luz María Zarza Delgado.- Rúbrica.
+
+D.O.F. 31 DE MARZO DE 2022.
+
+> <small>[N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL AVISO QUE SE RELACIONA CON EL ORDENAMIENTO.]</small>
+
+AVISO POR EL QUE SE DAN A CONOCER LAS DIRECCIONES ELECTRÓNICAS EN DONDE PODRÁN SER CONSULTADAS LAS MODIFICACIONES AL ESTATUTO ORGÁNICO DE PEMEX LOGÍSTICA:
+
+https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf
+
+www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf
+
+Ciudad de México, a 28 de marzo de 2022.- Petróleos Mexicanos, Dirección Jurídica, Subdirectora de Consultoría Jurídica, Mtra. Rosa Bello Pérez.- Rúbrica.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoplog_202203.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoplog_202203.pdf]</small>
+
+## [N. DE E. TRANSITORIOS DE LAS “MODIFICACIONES AL ESTATUTO ORGÁNICO DE PEMEX LOGÍSTICA”.]
+
+PRIMERO. Las presentes modificaciones al Estatuto Orgánico de Pemex Logística entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Director General de Pemex Logística promoverá e impartirá instrucciones para solicitar, impulsar, implementar, ejecutar, aplicar, cumplir, dar seguimiento e informar sobre las propuestas, estrategias, acuerdos, mecanismos, planes, programas, proyectos, inversiones, sistemas, directrices, criterios, iniciativas o cualquier acto determinado por el Director General de Petróleos Mexicanos, por sí o a través de sus direcciones corporativas, así como de la Unidad de Control Interno Institucional.
+
+TERCERO. Las áreas respecto de las cuales se reforman, adicionan o derogan funciones del Estatuto Orgánico de Pemex Logística, en su caso, realizarán y/o formalizarán, según corresponda, cualquier tipo de acto, actividad o documento necesarios para los traspasos, transferencias, sustituciones y demás aspectos que correspondan.
+
+Lo anterior sin perjuicio de que, en todo momento, los titulares de las áreas de Pemex Logística deberán establecer la colaboración y coordinación que corresponda con las áreas que resulten competentes, para garantizar, en aquellos casos que lo ameriten, la continuidad en la operación y la atención o resolución de los asuntos o servicios a su cargo.
+
+CUARTO. Los lineamientos, políticas, bases, criterios y demás disposiciones emitidas con anterioridad a la entrada en vigor de las modificaciones al Estatuto Orgánico de Pemex Logística, por cualquier órgano o área de Petróleos Mexicanos, sus Empresas Productivas Subsidiarias, así como los entonces Organismos Subsidiarios Pemex-Exploración y Producción, Pemex-Refinación, Pemex-Gas y Petroquímica Básica y Pemex-Petroquímica, continuarán siendo aplicables en lo que no se opongan a la Ley de Petróleos Mexicanos, su Reglamento, a las modificaciones al Estatuto Orgánico de Pemex Logística, y demás disposiciones aplicables, hasta en tanto se determine su modificación o se dejen sin efecto.
+
+Dentro de los 180 días naturales contados a partir de la entrada en vigor de las modificaciones al Estatuto Orgánico de Pemex Logística, el Director General de Pemex Logística, a través de las áreas de la Empresa Productiva Subsidiaria, identificará, analizará, y clasificará la normatividad vigente a que se refiere el párrafo anterior, que se encuentre relacionada con el objeto de Pemex Logística y las funciones de las áreas de su estructura orgánica básica, susceptible de quedar sin efecto o ser modificada y deberá considerarla como normatividad técnica conforme a la definición que le proporcione la Dirección Jurídica; adicionalmente, se deberá identificar la normatividad técnica que sea necesario emitir, incluyendo, en su caso, aquella relacionada con el Modelo Operativo Basado en Administración por Procesos, con la finalidad de que en coordinación con la Dirección Jurídica, se analice y programe su elaboración.
+
+El plazo podrá prorrogarse por otro periodo igual, previa justificación que realice el Director General de Pemex Logística a la Dirección Jurídica.
