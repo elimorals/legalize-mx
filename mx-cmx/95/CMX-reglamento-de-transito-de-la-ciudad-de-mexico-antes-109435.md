@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-de-la-ciudad-de-mexico-antes-109435"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-17"
-last_updated: "2021-02-04"
+last_updated: "2022-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109435&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-17"
 
 REGLAMENTO DE TRÁNSITO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE MARZO DE 2022.
 
 Reglamento publicado en el No. Bis de la Gaceta Oficial del Distrito Federal, el lunes 17 de agosto de 2015.
 
@@ -582,9 +582,11 @@ Los conductores de vehículos motorizados que infrinjan la presente disposición
 
 > <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE MARZO DE 2022)</small>
+
 ###### Artículo 9.
 
-Los conductores de vehículos deberán respetar los límites de velocidad establecidos en la señalización vial. A falta de señalamiento restrictivo específico, los límites de velocidad se establecerán de acuerdo a lo siguiente:
+Los conductores de vehículos deberán respetar los límites de velocidad establecidos en la señalización vial. A falta de señalamiento restrictivo específico, los límites de velocidad se establecerán de acuerdo con lo siguiente:
 
 I. En los carriles centrales de las vías de acceso controlado la velocidad máxima será de 80 kilómetros por hora;
 
@@ -620,9 +622,9 @@ V. En zonas escolares, de hospitales, de asilos, de albergues y casas hogar, la 
 
 Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y seis puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con uno a cinco puntos a la matrícula vehicular.
 
-> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2022)</small>
 
-En el caso de vehículos de transporte público de pasajeros y carga, la multa será equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización.
+En el caso de vehículos de transporte público de pasajeros y carga, la multa será equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente y seis puntos a la licencia para conducir, o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con uno a cinco puntos a la matrícula vehicular.
 
 VI. En estacionamientos y en vías peatonales en las cuales se permita el acceso a vehículos la velocidad máxima será de 10 kilómetros por hora.
 
@@ -638,11 +640,7 @@ En el caso de vehículos de transporte público de pasajeros y carga, la multa s
 
 El Agente autorizado podrá realizar la infracción con apoyo de sistemas tecnológicos y equipos electrónicos.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 19 DE MARZO DE 2019)</small>
-
-El incumplimiento de las obligaciones dispuestas en este artículo por parte de conductores de vehículos motorizados se sancionará con base en la siguiente tabla, aplicando la sanción máxima con una penalización de 5 puntos en matrícula vehicular cuando se rebase el límite de velocidad por más de 40% de la velocidad máxima autorizada, de acuerdo con la información captada por sistema tecnológico.
-
-> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, G.O. 31 DE MARZO DE 2022)</small>
 
 > <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
@@ -1618,9 +1616,9 @@ XXI. Cuando se estacionen vehículos en lugares autorizados para tal fin, y no s
 
 Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2022)</small>
 
-> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
+En los casos a que hacen referencia las fracciones I, II, V, VI, VIII, IX, X, XII, XIV incisos b) y c), XV, XVI inciso b), XIX y XXI del presente artículo se usará grúa para que el vehículo sea remitido al depósito vehicular.
 
 ###### Artículo 31.
 
@@ -1660,9 +1658,9 @@ e) El vehículo estacionado no coincida, por sus dimensiones o naturaleza, con e
 
 f) El permiso renovable para residentes haya perdido vigencia, no sea visible desde el exterior del vehículo o no coincida con la placa de matrícula del vehículo, o el polígono para el cual fue autorizado;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2022)</small>
 
-Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente.
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
 
 Si el inmovilizador fue colocado por lo previsto en la fracción I de este artículo y hay disponibilidad de grúa dentro de los primeros 15 minutos posteriores a la hora registrada en la boleta de infracción, el vehículo se remitirá al depósito sin la aplicación de la sanción económica por retiro del inmovilizador.
 
@@ -1683,8 +1681,6 @@ O bien, en caso de que el personal dependiente del tercero autorizado por la Sec
 > <small>(ADICIONADO, G.O. 19 DE MARZO DE 2019)</small>
 
 El vehículo con placa foránea será liberado cuando no cuente con adeudos motivo de infracciones registradas en el sistema de infracciones del Gobierno de la Ciudad de México y haya cubierto las sanciones económicas, así como los derechos establecidos en el Código Fiscal de la Ciudad de México, por retiro de inmovilizador correspondientes.
-
-> <small>(DEROGADO SÉPTIMO PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
 
 > <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
@@ -1766,13 +1762,13 @@ XI. Mantener un vehículo estacionado, una vez que sea requerido su retiro por l
 
 Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 1, 5 o 10 veces la Unidad de Medida y Actualización vigente.
 
-En caso de que los responsables se nieguen a retirar los elementos incorporados a la vialidad que obstaculicen, impidan la circulación o el estacionamiento de vehículos a que se refieren las fracciones III, IV, V, VI, VII, VIII, IX y XI; Seguridad Pública y las Delegaciones deberán retirarlos de la vía a la brevedad para evitar un hecho de tránsito.
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2022)</small>
+
+En caso de que los responsables se nieguen a retirar los elementos incorporados a la vialidad que obstaculicen, impidan la circulación o el estacionamiento de vehículos a que se refieren las fracciones III, IV, V, VI, VII, VIII, IX y XI; Seguridad Ciudadana y las Alcaldías deberán retirarlos de la vía a la brevedad para evitar un hecho de tránsito.
 
 > <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
 Cuando se cometa alguna de las infracciones contenidas en las fracciones II, III, IV, V, VI, VII, VIII, IX y X el agente y/o agente autorizado para infraccionar remitirá al probable infractor al Juez Cívico para que se inicie el procedimiento respectivo.
-
-> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 35.
 
@@ -1876,9 +1872,9 @@ d) Utilizar casco protector diseñado específicamente para motociclistas y aseg
 
 e) Preferentemente portar visores, chamarra o peto para protección con aditamentos rígidos para cobertura de hombros, codos y torso específicos para motociclista, guantes y botas, todos de diseño específico para conducción de este tipo de vehículo.
 
-> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2022)</small>
 
-Los conductores de vehículos motorizados que infrinjan los incisos a), c) y e) de la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente.
+Los conductores de vehículos motorizados que infrinjan los incisos a), c) y e) de la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente, y un punto a la licencia para conducir.
 
 > <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
@@ -1892,17 +1888,13 @@ Los conductores de vehículos motorizados que infrinjan la presente disposición
 
 V. Los conductores de vehículos de transporte de sustancias tóxicas o peligrosas deben asegurarse de que la carga esté debidamente protegida y señalizada de conformidad con las normas oficiales mexicanas.
 
-> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2022)</small>
 
-Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
 
 Cuando por alguna circunstancia de emergencia se requiera estacionar el vehículo en la vía pública, a fin de evitar que personas ajenas a la transportación manipulen el equipo o la carga. Cuando lo anterior suceda, el conductor deberá colocar triángulos de seguridad o señalamientos de advertencia tanto en la parte delantera como trasera de la unidad, a una distancia que permita a otros conductores tomar las precauciones necesarias.
 
 Los conductores de vehículos no motorizados, que no cumplan con lo dispuesto en este artículo, serán amonestados verbalmente por los agentes y orientados a conducirse de conformidad a las disposiciones aplicables.
-
-> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
 
 > <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2018)</small>
 
@@ -2926,7 +2918,9 @@ La aplicación del criterio anteriormente descrito no podrá llevarse a cabo dir
 
 3. Se impondrá la sanción máxima, en los siguientes casos:
 
-a) Cuando el infractor transgreda alguna de las disposiciones previstas en el presente Reglamento y tenga cuatro sanciones pendientes de cumplimiento;
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2022)</small>
+
+a) Cuando el infractor transgreda alguna de las disposiciones previstas en el presente Reglamento y tenga cuatro o más sanciones pendientes de cumplimiento;
 
 b) Cuando la infracción sea cometida por conductores que manejan un vehículo con placas de matrícula de otra entidad federativa o país.
 
@@ -2970,19 +2964,23 @@ Sólo procederá la remisión de vehículos al depósito en los siguientes casos
 
 I. El vehículo sea detenido por la comisión de alguna de las infracciones previstas en este Reglamento, y (sic) de la consulta efectuada en el sistema integral de administración de infracciones del Gobierno de la Ciudad de México, se detecte que cuenta con sanciones económicas no cubiertas, motivo de infracciones registradas con más de 30 días de anterioridad;
 
-II. Vehículos de conductores que transgredan lo dispuesto en fracción III del artículo 25; fracción II del artículo 26; todas las fracciones del artículo 30; y fracciones I, II, VI, VII, VIII, IX, X y XI del artículo 34 de este Reglamento; siempre y cuando no se encuentre el conductor a bordo del vehículo o éste se negase a retirarlo, inmediatamente después de haberse impuesto la infracción;
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2022)</small>
+
+II. Vehículos de conductores que transgredan lo dispuesto en las fracciones I, II, V, VI, VIII, IX, X, XII, XIV incisos b) y c), XV, XVI inciso b), XIX y XXI del artículo 30 y fracciones II y XI del artículo 34 de este Reglamento; siempre y cuando no se encuentre el conductor a bordo del vehículo o éste se negase a retirarlo, inmediatamente después de haberse impuesto la infracción;
 
 III. Vehículos en estado de abandono conforme a lo previsto en las fracciones I y II del artículo 35 de este Reglamento;
 
-IV. Vehículos de conductores que transgredan lo previsto en los artículos 44 y 45 de este ordenamiento;
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2022)</small>
+
+IV. Vehículos de conductores que transgredan lo previsto en las fracciones IV inciso a) y V inciso a), del artículo 44 y todas las fracciones del artículo 45 de este ordenamiento;
 
 V. Vehículos de conductores que contravengan lo dispuesto en la fracción III del artículo 48 de este Reglamento;
 
 VI. Vehículos de conductores que contravengan lo dispuesto en los artículos 50, 51 y 52 de este ordenamiento;
 
-VII. Vehículos con placas foráneas que sean detenidos por la comisión de alguna de las infracciones previstas en este Reglamento, y;
+VII. (DEROGADA, G.O. 31 DE MARZO DE 2022)
 
-VIII. Vehículos que circulen dentro del territorio de la Ciudad de México, y (sic) de la consulta efectuada en el sistema integral de administración de infracciones del Gobierno de la Ciudad de México, se detecte que presentan 5 o más infracciones a las disposiciones de este ordenamiento, pendientes de su cumplimiento.
+VIII. (DEROGADA, G.O. 31 DE MARZO DE 2022)
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE FEBRERO DE 2021)</small>
 
@@ -3004,9 +3002,9 @@ Seguridad Ciudadana puede auxiliarse de terceros para la remisión de vehículos
 
 Cuando el vehículo sea remitido a un depósito vehicular, el conductor deberá cubrir los respectivos derechos por concepto del servicio de arrastre y almacenaje del vehículo, conforme lo determine el Código Fiscal para la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2022)</small>
 
-Para la devolución del vehículo en los depósitos, será indispensable la comprobación de su propiedad o legal posesión, el cumplimiento de las sanciones de este reglamento y derechos que procedan, exhibición de la licencia para conducir vigente en formato físico o digital, una copia de la misma y portar las llaves del vehículo. Asimismo, se deberá comprobar la no existencia de créditos por concepto del Impuesto sobre Tenencia o Uso de Vehículos, federal o local, según corresponda y derechos por servicios de control vehicular, del ejercicio fiscal anterior al de la devolución del vehículo y acreditar contar con una póliza de seguro de responsabilidad civil vigente, en los términos de la Ley y este reglamento
+Para la devolución del vehículo en los depósitos, será indispensable la comprobación de su propiedad o legal posesión, portar las llaves del vehículo, el cumplimiento de las sanciones de este reglamento y derechos que procedan. Asimismo, Seguridad Ciudadana verificará vía sistema que el vehículo cuente con tarjeta de circulación vigente, comprobará la no existencia de créditos por concepto del Impuesto sobre Tenencia o Uso de Vehículos, federal o local, según corresponda y derechos por servicios de control vehicular, del ejercicio fiscal anterior al de la devolución del vehículo y que esté cuente con una póliza de seguro de responsabilidad civil vigente, en los términos de la Ley y este reglamento. Para el caso de no contar con registro en el sistema, el ciudadano deberá presentarlos de manera física ante el depósito vehicular.
 
 > <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
@@ -3127,3 +3125,11 @@ G.O. 4 DE FEBRERO DE 2021.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación; con excepción de la aplicación del criterio de Reincidencia previsto en el décimo segundo párrafo del artículo 64 de este ordenamiento, el cual entrará en vigor a partir del 15 de marzo de 2021.
+
+G.O. 31 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE TRÁNSITO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. - Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. - El presente decreto entrará en vigor el lunes 4 de abril de 2022.
