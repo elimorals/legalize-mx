@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-educacion-para-el-estado-de-tlaxcala-143221"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-26"
-last_updated: "2022-03-24"
+last_updated: "2022-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 26 de mayo de 2020.
 
@@ -1315,7 +1315,9 @@ Los planteles educativos de cualquier nivel que formen parte del Sistema Educati
 
 La Autoridad Educativa, será la facultada para establecer las denominaciones oficiales de los planteles públicos del Sistema Educativo Estatal y deberá hacer referencia a los valores nacionales, maestros eméritos o nombres de personas ameritadas a quienes la Nación o el Estado deban exaltar para engrandecer, nuestra esencia popular y los símbolos patrios.
 
-### Capítulo Único. De los Instrumentos para la Mejora Continua de la Educación
+### Capítulo III. De la Educación a Distancia en Caso de Declaratoria de Emergencia
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2022)</small>
 
 ###### Artículo 118.
 
@@ -1339,11 +1341,43 @@ Las facultades de este Comité en materia de infraestructura y equipamiento de l
 
 La integración de los Consejos Técnicos Escolares, se sujetarán a los lineamientos que para tal efecto emita la Secretaría, los cuales determinarán lo relativo a la operación y funcionamiento del Comité al que se refiere el presente artículo.
 
-### Capítulo Único. Facultades, Obligaciones y Distribución de la Función Social en la Educación
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE MARZO DE 2022)</small>
+
+### Capítulo Único. De los Instrumentos para la Mejora Continua de la Educación
+
+###### Artículo 120 Bis.
+
+En los casos en que, por causa de una declaratoria de emergencia sanitaria o desastre natural se determine la suspensión de clases presenciales, de manera inmediata la Autoridad Educativa deberá establecer mecanismos para garantizar que se continúe con el plan de estudios establecido para cada nivel.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2022)</small>
+
+###### Artículo 120 Ter.
+
+Cuando una declaratoria de emergencia impida a los educandos acudir a los planteles educativos por más de 15 días, la autoridad educativa deberá establecer mecanismos y garantizar que se continúe con el plan de estudios establecido para cada nivel.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2022)</small>
+
+###### Artículo 120 Quater.
+
+Durante el tiempo de suspensión de las clases presenciales, las autoridades educativas garantizarán el acceso a la educación, sujetándose a lo siguiente:
+
+I. Implementará los mecanismos necesarios para brindar una educación de calidad procurando ser equitativa para todos los educandos;
+
+II. Considerar un plan de acción para aquellos casos en que existan dificultades para que el estudiante acceda a los recursos tecnológicos, creando métodos de enseñanza más accesibles;
+
+III. Las autoridades escolares preverán mecanismos para combatir el rezago educativo que exista posterior al regreso a clases presenciales, y
+
+IV. La autoridad educativa se encargará de llevar un control para allegarse de datos respecto a la deserción escolar.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2022)</small>
+
+###### Artículo 120 Quinquies.
+
+En el caso de declaratoria de emergencia, será la Secretaría de Educación Pública en colaboración con la Secretaría de Salud y la Coordinación Estatal de Protección Civil, en su caso, y de manera coordinada, los encargados de realizar un estudio de viabilidad en el que se establecerá si existen las condiciones necesarias para un retorno a las aulas seguro, priorizando la seguridad, la salud e integridad física de los educandos, personal docente y administrativo.
 
 ## TÍTULO SEXTO. DE LA MEJORA CONTINUA DE LA EDUCACIÓN
 
-### Capítulo único. Del Financiamiento
+### Capítulo Único. Facultades, Obligaciones y Distribución de la Función Social en la Educación
 
 ###### Artículo 121.
 
@@ -1369,7 +1403,7 @@ El Programa Educativo Estatal, tendrá un carácter plurianual y contendrá de m
 
 ## TÍTULO SÉPTIMO. DEL FEDERALISMO EDUCATIVO
 
-### Capítulo I. De la Participación de los Actores Sociales
+### Capítulo único. Del Financiamiento
 
 ###### Artículo 125.
 
@@ -1489,7 +1523,7 @@ Para el ingreso, promoción y reconocimiento del personal docente o con funcione
 
 ## TÍTULO OCTAVO. DEL FINANCIAMIENTO
 
-### Capítulo II. De la Participación de Madres y Padres de Familia o Tutores
+### Capítulo I. De la Participación de los Actores Sociales
 
 ###### Artículo 130.
 
@@ -1545,7 +1579,7 @@ En caso de ser necesario para lograr mayor equidad educativa la Autoridad Educat
 
 ## TÍTULO NOVENO. DE LA CORRESPONSABILIDAD SOCIAL EN EL PROCESO EDUCATIVO
 
-### Capítulo III. De los Consejos de Participación Escolar
+### Capítulo II. De la Participación de Madres y Padres de Familia o Tutores
 
 ###### Artículo 138.
 
@@ -1557,7 +1591,7 @@ Los particulares, ya sea personas físicas o morales, podrán coadyuvar en el ma
 
 Las acciones que se deriven de la aplicación del párrafo anterior, en ningún caso implicarán la sustitución de los servicios del personal de la escuela, tampoco generarán cualquier tipo de contraprestación a favor de los particulares.
 
-### Capítulo IV. Del Servicio Social
+### Capítulo III. De los Consejos de Participación Escolar
 
 ###### Artículo 140.
 
@@ -1633,7 +1667,7 @@ Asimismo, las asociaciones de madres y padres de familia, se abstendrán de requ
 
 La organización y el funcionamiento de las asociaciones de madres y padres de familia, en lo concerniente a sus relaciones con las Autoridades Escolares, se sujetarán a las disposiciones que la Secretaría y la Autoridad Educativa señalen.
 
-### Capítulo V. De la Participación de los Medios de Comunicación
+### Capítulo IV. Del Servicio Social
 
 ###### Artículo 143.
 
@@ -1701,7 +1735,7 @@ Dicho consejo, será integrado por las asociaciones de madres y padres de famili
 
 Los consejos de participación escolar a que se refiere el presente Capítulo, se abstendrán de intervenir en los aspectos laborales, pedagógicos y administrativos del personal de los centros educativos y no deberán participar en cuestiones políticas ni religiosas.
 
-### Capítulo Único. De las Disposiciones Aplicables a la Validez de Estudios y Certificación de Conocimientos
+### Capítulo V. De la Participación de los Medios de Comunicación
 
 ###### Artículo 148.
 
@@ -1715,7 +1749,7 @@ Las Autoridades Educativas, en coordinación con las instituciones de educación
 
 La Autoridad Educativa en coordinación con las autoridades competentes, establecerá mecanismos para que cuente como prestación de servicio social, preferentemente de conformidad al perfil profesional, las tutorías y acompañamientos que realicen estudiantes a los educandos de preescolar, primaria, secundaria y media superior que lo requieran para lograr su máximo aprendizaje y desarrollo integral.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo Único. De las Disposiciones Aplicables a la Validez de Estudios y Certificación de Conocimientos
 
 ###### Artículo 150.
 
@@ -1729,7 +1763,7 @@ El Ejecutivo Estatal promoverá la contribución de los medios de comunicación 
 
 ## TÍTULO DÉCIMO. DE LA VALIDEZ DE ESTUDIOS Y CERTIFICACIÓN DE CONOCIMIENTOS
 
-### Capítulo II. Del Proceso para el Cumplimiento de los Fines de la Educación Impartida por los Particulares
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 152.
 
@@ -1769,7 +1803,7 @@ Los acuerdos secretariales señalarán los requisitos específicos que deban cum
 
 ## TÍTULO DÉCIMO PRIMERO. DE LA EDUCACIÓN IMPARTIDA POR PARTICULARES
 
-### Capítulo III. De las Infracciones, Sanciones y Recurso Administrativo
+### Capítulo II. Del Proceso para el Cumplimiento de los Fines de la Educación Impartida por los Particulares
 
 ###### Artículo 157.
 
@@ -1807,7 +1841,7 @@ Los particulares que impartan educación con autorización o con reconocimiento 
 
 Los particulares que impartan servicios de estudios sin reconocimiento de validez oficial, deberán mencionarlo en su correspondiente documentación y publicidad.
 
-### Capítulo IV. Del Recurso de Revisión
+### Capítulo III. De las Infracciones, Sanciones y Recurso Administrativo
 
 ###### Artículo 162.
 
@@ -1980,6 +2014,8 @@ Concluido el desahogo de pruebas, y antes de dictar resolución, se pondrán las
 ###### Artículo 179.
 
 Transcurrido el plazo para formular alegatos, se procederá dentro de los diez días hábiles siguientes, a dictar por escrito la resolución definitiva correspondiente. Se entenderán caducadas las actuaciones y se procederá a su archivo, a solicitud de parte interesada o de oficio, en el plazo de treinta días contados a partir de la expiración del plazo para dictar resolución.
+
+### Capítulo IV. Del Recurso de Revisión
 
 ###### Artículo 180.
 
@@ -2240,3 +2276,15 @@ P.O. 24 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 93.- SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 21 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TLAXCALA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Tlaxcala.
+
+P.O. 31 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 95.- SE ADICIONA AL TÍTULO QUINTO, EL CAPÍTULO III, DENOMINADO “DE LA EDUCACIÓN A DISTANCIA EN CASO DE DECLARATORIA DE EMERGENCIA”, CON SUS RESPECTIVOS ARTÍCULOS 120 BIS, 120 TER, 120 QUATER Y 120 QUINQUIES A LA LEY DE EDUCACIÓN PARA EL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
