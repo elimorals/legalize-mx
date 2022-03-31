@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-turismo-del-estado-de-durango-113824"
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2021-11-21"
+last_updated: "2022-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE TURISMO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial de Estado de Durango, el jueves 3 de marzo de 2016.
 
@@ -137,55 +137,57 @@ XI. Programa Sectorial: Programa Sectorial de Turismo del Estado de Durango;
 
 XII. Promoción Cinematográfica: La difusión del Estado, como un lugar idóneo para la realización de producciones cinematográficas, televisivas o audiovisuales;
 
-XIII. Recursos Turísticos: Son todos los elementos naturales o artificiales de un lugar o región que constituyen un atractivo para la actividad turística;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MARZO DE 2022)</small>
 
-XIV. Reglamento: Reglamento de la Ley de Turismo del Estado de Durango;
+XIII. Pueblo Mágico. Nombramiento otorgado por la Secretaría de Turismo Federal, a localidades que a través del tiempo y ante la modernidad, han conservado su valor y herencia histórica cultural y la manifiestan en diversas expresiones a través de su patrimonio tangible e intangible irremplazable;
 
-XV. Ruta Turística: Es un circuito temático o geográfico que se basa en un patrimonio natural o cultural de una zona y se marca sobre el terreno o aparece en los mapas;
+XIV. Recursos Turísticos: Son todos los elementos naturales o artificiales de un lugar o región que constituyen un atractivo para la actividad turística;
 
-XVI. Registro: Registro Estatal de Turismo;
+XV. Reglamento: Reglamento de la Ley de Turismo del Estado de Durango;
 
-XVII. Secretaría: La Secretaría de Turismo del Estado de Durango;
+XVI. Ruta Turística: Es un circuito temático o geográfico que se basa en un patrimonio natural o cultural de una zona y se marca sobre el terreno o aparece en los mapas;
 
-XVIII. Secretaría Federal: Secretaría de Turismo del Gobierno Federal;
+XVII. Registro: Registro Estatal de Turismo;
 
-XIX. Servicios Turísticos: Los dirigidos a atender las solicitudes de los turistas a cambio de una contraprestación, en apego con lo dispuesto por esta Ley y su Reglamento;
+XVIII. Secretaría: La Secretaría de Turismo del Estado de Durango;
 
-XX. Turismo: Las actividades que se realizan a fin de ofrecer bienes y servicios, a las personas que se desplazan de su domicilio o residencia habitual con la intención de visitar lugares que les proporcionen esparcimiento, descanso, salud, cultura, entretenimiento, diversión o recreo, generándose de estas actividades beneficios económicos y sociales que contribuyan al desarrollo del Estado;
+XIX. Secretaría Federal: Secretaría de Turismo del Gobierno Federal;
 
-XXI. Turismo Cultural. Aquella actividad que tiene por objetivo primordial dar a conocer, preservar y disfrutar el patrimonio arquitectónico, cultural, histórico y artístico con el que cuenta el Estado de Durango.
+XX. Servicios Turísticos: Los dirigidos a atender las solicitudes de los turistas a cambio de una contraprestación, en apego con lo dispuesto por esta Ley y su Reglamento;
 
-XXII. Turismo Alternativo. Toda actividad recreativa basada en el estudio, apreciación y contacto con la naturaleza y las expresiones culturales de las regiones del Estado, con una actitud y compromiso de conocer, respetar, disfrutar y participar en la preservación de los recursos naturales y culturales;
+XXI. Turismo: Las actividades que se realizan a fin de ofrecer bienes y servicios, a las personas que se desplazan de su domicilio o residencia habitual con la intención de visitar lugares que les proporcionen esparcimiento, descanso, salud, cultura, entretenimiento, diversión o recreo, generándose de estas actividades beneficios económicos y sociales que contribuyan al desarrollo del Estado;
 
-XXIII. Turismo de Convenciones. Toda aquella actividad que se concentra en difundir las bondades del Estado de Durango como sede competitiva para el desarrollo de eventos regionales, nacionales e internacionales de diversos grupos tales como: asociaciones, empresas, grupos de profesionistas, de escuelas, deportivos, de aficionados, de asuntos religiosos y de celebraciones familiares como bodas, aniversarios, entre muchos otros.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
 
-XXIV. Turismo de Cinematografía. Toda actividad relacionada al Estado de Durango en la que se distingue por su historia, forjados con el esfuerzo, entusiasmo y pasión de hombres y mujeres, que han hecho de Durango “La Tierra del Cine”.
+XXII. Turismo Cultural. Aquella actividad que tiene por objetivo primordial dar a conocer, preservar y disfrutar el patrimonio arquitectónico, cultural, histórico y artístico con el que cuenta el Estado de Durango
 
-Dentro de esta vertiente se impulsa la llegada de viajeros a Durango para la realización de producciones audiovisuales que incluyen spots comerciales, series, telenovelas, documentales, video clips y por supuesto, películas.
+XXIII. Turismo Alternativo. Toda actividad recreativa basada en el estudio, apreciación y contacto con la naturaleza y las expresiones culturales de las regiones del Estado, con una actitud y compromiso de conocer, respetar, disfrutar y participar en la preservación de los recursos naturales y culturales;
 
-> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ÉSTA FRACCIÓN ES SIMILAR A LA FRACCIÓN XXVII.]</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
 
-XXV. Turismo Sustentable: Aquel que cumple con las siguientes directrices:
+XXIV. Turismo de Convenciones. Toda aquella actividad que se concentra en difundir las bondades del Estado de Durango como sede competitiva para el desarrollo de eventos regionales, nacionales e internacionales de diversos grupos tales como: asociaciones, empresas, grupos de profesionistas, de escuelas, deportivos, de aficionados, de asuntos religiosos y de celebraciones familiares como bodas, aniversarios, entre muchos otros;
 
-a) Dar un uso óptimo a los recursos naturales aptos para el desarrollo turístico, ayudando a conservarlos con apego a las leyes en la materia;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
 
-b) Respetar la autenticidad sociocultural de las comunidades anfitrionas, conservando sus atractivos culturales, sus valores tradicionales y arquitectónicos, y
+XXV. Turismo de Cinematografía. Toda actividad relacionada al Estado de Durango en la que se distingue por su historia, forjados con el esfuerzo, entusiasmo y pasión de hombres y mujeres, que han hecho de Durango “La Tierra del Cine”;
 
-c) Asegurar el desarrollo de las actividades económicas viables, que reporten beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas, que contribuyan a mejorar las condiciones de vida.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE NOVIEMBRE DE 2021)</small>
+XXVI. Dentro de esta vertiente se impulsa la llegada de viajeros a Durango para la realización de producciones audiovisuales que incluyen spots comerciales, series, telenovelas, documentales, video clips y por supuesto, películas;
 
-XXVI. Turismo Gastronómico: Es la actividad turística que comprende la visita a comunidades, regiones o espacios públicos o privados del estado, con el fin de que el visitante o turista experimente los productos culinarios y alimenticios del lugar y/o realizar actividades relacionadas con este rubro.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
 
-> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ÉSTA FRACCIÓN ES SIMILAR A LA FRACCIÓN XXV.]</small>
+XXVII. Turismo Gastronómico: Es la actividad turística que comprende la visita a comunidades, regiones o espacios públicos o privados del Estado, con el fin de que el visitante o turista experimente los productos culinarios y alimenticios del lugar y/o realizar actividades relacionadas con este rubro;
 
-> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
 
-XXVII. Turismo Sustentable: Aquel que cumple con las siguientes directrices: a. Dar un uso óptimo a los recursos naturales aptos para el desarrollo turístico, ayudando a conservarlos con apego a las leyes en la materia; b. Respetar la autenticidad sociocultural de las comunidades anfitrionas, conservando sus atractivos culturales, sus valores tradicionales y arquitectónicos, y c. Asegurar el desarrollo de las actividades económicas viables, que reporten beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas, que contribuyan a mejorar las condiciones de vida.
+XXVIII. Turismo Sustentable: Aquel que cumple con las siguientes directrices: a. Dar un uso óptimo a los recursos naturales aptos para el desarrollo turístico, ayudando a conservarlos con apego a las leyes en la materia; b. Respetar la autenticidad sociocultural de las comunidades anfitrionas, conservando sus atractivos culturales, sus valores tradicionales y arquitectónicos, y c. Asegurar el desarrollo de las actividades económicas viables, que reporten beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas, que contribuyan a mejorar las condiciones de vida;
 
-XXVIII. Turistas: Las personas que viajan temporalmente fuera de su lugar de residencia habitual y que utilicen alguno de los servicios turísticos a que se refiere esta Ley, sin perjuicio de lo dispuesto para efectos migratorios por la Ley General de Población, y
+XXIX. Turistas: Las personas que viajan temporalmente fuera de su lugar de residencia habitual y que utilicen alguno de los servicios turísticos a que se refiere esta Ley, sin perjuicio de lo dispuesto para efectos migratorios por la Ley General de Población, y
 
-XXIX. Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio Estatal, claramente ubicado y delimitado geográficamente, que, por sus características naturales o culturales, constituyen un atractivo turístico. Se establecerán mediante declaratoria específicas (sic) que emitirá el Ejecutivo Estatal, a solicitud de la Secretaría.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
+
+XXX. Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio Estatal, claramente ubicado y delimitado geográficamente, que, por sus características naturales o culturales, constituyen un atractivo turístico. Se establecerán mediante declaratoria específicas (sic) que emitirá el Ejecutivo Estatal, a solicitud de la Secretaría
 
 ### CAPÍTULO II. DE LA CONCURRENCIA Y COORDINACIÓN DE AUTORIDADES EN MATERIA TURÍSTICA
 
@@ -297,9 +299,19 @@ XIX. Coordinar con las autoridades federales, por medio de los convenios que se 
 
 XX. Fomentar el desarrollo del turismo en los municipios con vocación turística del Estado, en especial, en los municipios y localidades declarados pueblos mágicos y en los sitios Patrimonio Mundial;
 
-XXI. Emitir opiniones a la Secretaría Federal en la materia; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
 
-XXII. Las demás previstas en éste y otros ordenamientos.
+XXI. Emitir opiniones a la Secretaría Federal en la materia;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
+
+XXII. Promover convenios entre los prestadores de servicios turísticos, con la finalidad de alcanzar incentivos y descuentos para las personas discapacitadas;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2022)</small>
+
+XXIII. Implementar políticas públicas que fomenten el desarrollo turístico y la permanencia de los pueblos mágicos del Estado; y
+
+XXIV. Las demás previstas en éste y otros ordenamientos.
 
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
@@ -401,11 +413,11 @@ Las instituciones, dependencias y entidades del sector público del Ejecutivo Es
 
 ### CAPÍTULO VII. DEL TURISMO ACCESIBLE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2022)</small>
 
 ###### Artículo 14.
 
-La Secretaría, con el apoyo y en coordinación con las dependencias y autoridades competentes, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto beneficiar a las personas adultas mayores y a la población con alguna discapacidad conforme a las disposiciones establecidas en el presente capítulo y en la Ley de Inclusión para las Personas con Discapacidad en el Estado de Durango. La Secretaría también deberá:
+La Secretaría, con el apoyo y en coordinación con las dependencias y autoridades competentes, promoverá la prestación de servicios turísticos con accesibilidad, además de ofertas, promociones, incentivos y descuentos, que tengan por objeto beneficiar a las personas adultas mayores y a la población con alguna discapacidad conforme a las disposiciones establecidas en el presente capítulo y en la normatividad en materia de discapacidad. La Secretaría también deberá:
 
 > <small>(REFORMADA, P.O. 11 DE JUNIO DE 2017)</small>
 
@@ -515,9 +527,11 @@ La Secretaría elaborará el Programa Sectorial, que se sujetará a los objetivo
 
 La Secretaría al especificar en el programa las políticas, objetivos y prioridades que regirán a la actividad turística, procurará investigar las características de la demanda y los atractivos turísticos naturales y culturales con que cuenta la Entidad.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2022)</small>
+
 ###### Artículo 28.
 
-El Programa Sectorial de Turismo podrá contener entre otros elementos metodológicos de la planificación, un diagnóstico y un pronóstico de la situación del turismo en el país y en particular del Estado, el ordenamiento turístico del territorio, y las políticas, objetivos y metas a corto, mediano y largo plazo de esta actividad, con observancia a lo que establezcan los instrumentos jurídicos, administrativos y de política económica que sean aplicables.
+El Programa Sectorial de Turismo podrá contener entre otros elementos metodológicos de la planificación, un diagnóstico y un pronóstico de la situación del turismo en el país y en particular del Estado, el ordenamiento turístico del territorio, y las políticas, objetivos y metas a corto, mediano y largo plazo de esta actividad, con observancia a lo que establezcan los instrumentos jurídicos, administrativos, de política económica y de salubridad que sean aplicables.
 
 ### CAPÍTULO XIV. DEL ORDENAMIENTO TURÍSTICO DEL TERRITORIO ESTATAL
 
@@ -611,7 +625,37 @@ La Secretaría podrá respaldar técnicamente la formulación y ejecución del P
 
 Con el fin de preservar y promover las diversas regiones del Estado, que por sus características naturales, histórico-monumentales, gastronomía, valores culturales, topografía notable o peculiar belleza, tengan un impacto directo e indirecto considerable en la actividad turística del Estado, la Secretaría podrá proponer al Ejecutivo del Estado de Durango, que las mismas sean declaradas zonas prioritarias para el desarrollo turístico.
 
-### CAPÍTULO XVI. DE LA PROMOCIÓN DE LA ACTIVIDAD TURÍSTICA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE MARZO DE 2022)</small>
+
+### CAPÍTULO XV BIS. DE LOS PUEBLOS MÁGICOS
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2022)</small>
+
+###### Artículo 37 Bis.
+
+El Estado reconoce la importancia de los pueblos mágicos para el desarrollo de la actividad turística en Durango, por lo cual, promoverá, a través de las instancias competentes, el establecimiento de los mecanismos jurídicos, económicos, administrativos y cualesquier otro que sean útiles para impulsar el desarrollo turístico de las localidades que tengan el nombramiento de Pueblo Mágico.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2022)</small>
+
+###### Artículo 37 Ter.
+
+El Estado, mediante convenios podrá apoyar a los municipios que aspiren a obtener de la dependencia federal competente la denominación de Pueblo Mágico, a fin de alcanzarla.
+
+Así mismo, a través de las instancias correspondientes, podrán apoyar a los pueblos mágicos para que conserven dicha denominación.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2022)</small>
+
+###### Artículo 37 Quater.
+
+Los municipios con pueblos mágicos podrán solicitar al Estado, la suscripción de los convenios correspondientes, los que deberán contener como mínimo, lo siguiente:
+
+I. Descripción de las obligaciones a que se sujetarán los pueblos mágicos y el municipio respectivo, a fin de obtener apoyo del Estado;
+
+II. Descripción del o los proyectos que se pretenden realizar y la manera en que beneficiarán al turismo; estos proyectos deberán contemplar indicadores de impacto y demás requisitos que las dependencias y entidades el Estado estimen pertinentes;
+
+III. Descripción detallada de los apoyos que serán otorgados por el Estado y los indicadores necesarios para la evaluación de resultados; y,
+
+IV. Obligaciones en materia de transparencia y rendición de cuentas. El Estado a través de la instancia correspondiente, podrá requerir al pueblo mágico y/o al municipio, la información necesaria en cada caso.
 
 ###### Artículo 38.
 
@@ -641,7 +685,7 @@ El Municipio, lugar o región que haya sido declarado como zona de desarrollo tu
 
 Las localidades declaradas pueblos mágicos y los sitios Patrimonio Mundial, de acuerdo con la legislación federal en la materia, tendrán acceso a apoyos extraordinarios, que serán independientes a las partidas presupuestales ordinarias que se le asignen en los presupuestos de egresos del Estado y de los Municipios. Dichas partidas sólo podrán destinarse a los programas y proyectos que se implementen para tal fin.
 
-### CAPÍTULO XVII. DE LA PLANEACIÓN DE LA ACTIVIDAD TURÍSTICA
+### CAPÍTULO XVI. DE LA PROMOCIÓN DE LA ACTIVIDAD TURÍSTICA
 
 ###### Artículo 40.
 
@@ -701,7 +745,7 @@ La Secretaría podrá, promover y gestionar la constitución de Fondos Mixtos de
 
 La Secretaría podrá asesorar a los particulares en las actividades publicitarias que realicen, proporcionándoles la información correspondiente, así como apoyarlos en sus promociones mediante campañas participativas.
 
-### CAPÍTULO XVIII. DE LAS COMUNIDADES DURANGUENSES EN EL EXTRANJERO
+### CAPÍTULO XVII. DE LA PLANEACIÓN DE LA ACTIVIDAD TURÍSTICA
 
 ###### Artículo 47.
 
@@ -739,7 +783,7 @@ En el caso de estudios, encuestas y demás instrumentos de monitoreo estadístic
 
 Las dependencias y entidades de la Administración Pública Estatal y de los Municipios, coadyuvarán en la planeación e impulso de la infraestructura, del equipamiento, del marco regulatorio, de capacitación y de cultura necesarios para el desarrollo del turismo en los términos de esta Ley y de conformidad con los acuerdos y convenios que al efecto se suscriban.
 
-### CAPÍTULO XIX. DEL REGISTRO ESTATAL DE TURISMO
+### CAPÍTULO XVIII. DE LAS COMUNIDADES DURANGUENSES EN EL EXTRANJERO
 
 ###### Artículo 52.
 
@@ -751,7 +795,7 @@ Las estrategias y lineamientos generales deberán sujetarse a lo establecido en 
 
 A efecto de que las comunidades duranguenses en el extranjero puedan promocionar el turismo en la Entidad o simplificar su acceso a los servicios y la oferta turística duranguense, la Secretaría facilitará la información disponible sobre las actividades del sector turístico, así como los derechos y obligaciones del turista y de las dependencias del sector público.
 
-### CAPÍTULO XX. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS Y DE LOS TURISTAS
+### CAPÍTULO XIX. DEL REGISTRO ESTATAL DE TURISMO
 
 ###### Artículo 54.
 
@@ -785,7 +829,7 @@ La base de datos del Registro Estatal de Turismo quedará bajo la guarda de la S
 
 La Secretaría expedirá a los prestadores inscritos en el Registro el certificado correspondiente, con el cual se acredite su calidad de prestadores de servicios turísticos.
 
-### CAPÍTULO XXI. DE LOS DERECHOS Y OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO XX. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS Y DE LOS TURISTAS
 
 ###### Artículo 61.
 
@@ -799,7 +843,7 @@ Para operar, los prestadores de servicios turísticos, deberán cumplir con los 
 
 No se considerarán discriminatorias en contra de las personas, las tarifas y precios para el uso, consumo o disfrute, de los bienes o servicios ofertados, ni los requisitos de edad o las restricciones para el uso de instalaciones turísticas, cuando sean de carácter general y guarden relación directa con la especialización que el prestador de servicios turísticos decida otorgar, y siempre que las mismas no sean violatorias de otras leyes, de conformidad con lo dispuesto por el artículo 1° de la Constitución Política del Estado Libre y Soberano de Durango.
 
-### CAPÍTULO XXII. DE LOS DERECHOS Y OBLIGACIONES DE LOS TURISTAS
+### CAPÍTULO XXI. DE LOS DERECHOS Y OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### Artículo 64.
 
@@ -861,7 +905,7 @@ En caso de que el prestador del servicio turístico incumpla con alguno de los s
 
 En caso de que el prestador del servicio provenga de otra parte del País, deberá notificar a la Secretaría su operación dentro del territorio estatal, para que ésta coadyuve en la coordinación con establecimientos locales para la atención del turista, sin menoscabo a la libre competencia y demás normatividad aplicable en la materia.
 
-### CAPÍTULO XXIII. DE LA COMPETITIVIDAD Y PROFESIONALIZACIÓN EN LA ACTIVIDAD TURÍSTICA
+### CAPÍTULO XXII. DE LOS DERECHOS Y OBLIGACIONES DE LOS TURISTAS
 
 ###### Artículo 69.
 
@@ -897,7 +941,7 @@ V. Los demás que establezca la legislación aplicable en la materia; y
 
 VI. Declarar bajo el principio de la verdad, aquellas inconformidades acerca de los servicios contratados, que en su caso, argumente perjuicio sobre su persona o intereses.
 
-### CAPÍTULO XXIV. DE LA VERIFICACIÓN
+### CAPÍTULO XXIII. DE LA COMPETITIVIDAD Y PROFESIONALIZACIÓN EN LA ACTIVIDAD TURÍSTICA
 
 ###### Artículo 71.
 
@@ -927,7 +971,7 @@ La Secretaría participará en la elaboración de programas de profesionalizaci�
 
 En los citados programas se deberá considerar la profesionalización respecto a la atención de las personas con discapacidad y a las personas adultas mayores.
 
-### CAPÍTULO XXV. DE LAS SANCIONES Y DEL RECURSO DE REVISIÓN
+### CAPÍTULO XXIV. DE LA VERIFICACIÓN
 
 ###### Artículo 74.
 
@@ -952,6 +996,8 @@ En caso, de que por parte del o los encargados del establecimiento, haya resiste
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 En caso de reincidencia, serán sancionados con multa que podrá ir de quinientas hasta mil quinientas veces la Unidad de Medida y Actualización.
+
+### CAPÍTULO XXV. DE LAS SANCIONES Y DEL RECURSO DE REVISIÓN
 
 ###### Artículo 77.
 
@@ -1108,3 +1154,27 @@ P.O. 21 DE NOVIEMBRE DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 098.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE TURISMO DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 31 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 099.- QUE CONTIENE REFORMAS Y ADICIONES A (SIC) LEY DE TURISMO DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 100.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 6 Y 14 DE LA LEY DE TURISMO DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
