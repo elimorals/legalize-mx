@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-instituciones-y-procedimientos-electorales-para-el-10196
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2021-12-26"
+last_updated: "2022-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 3 de julio de 2014.
 
@@ -318,6 +318,10 @@ I. Gobernador del Estado, cada seis años;
 II. Diputados locales, cada tres años; y
 
 III. Integrantes de los Ayuntamientos, cada tres años.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2022)</small>
+
+2. El día en que deban celebrarse las elecciones ordinarias será considerado como no laborable en todo el territorio de la entidad.
 
 ARTÍCULO 21
 
@@ -786,6 +790,12 @@ ARTÍCULO 64
 I. Contar con un mínimo de asociados equivalentes al cero punto cero treinta y nueve por ciento del padrón electoral en el Estado; y
 
 II. Contar con declaración de principios, programa de acción y estatutos; los cuales deberán reunir los requisitos señalados en la Ley General de Partidos para tal efecto; así como contar con una denominación y emblema distintos a cualquier otra agrupación o partido político.
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2022)</small>
+
+III. Presentar original de las constancias de afiliación individual de sus asociados, donde conste el nombre, domicilio, firma y clave de la credencial de elector emitida por el Instituto Nacional Electoral.
+
+El Consejo General deberá ordenar la verificación de por lo menos el 30 por ciento de las y los ciudadanos que hayan suscrito manifestaciones formales y que resulten seleccionados mediante sorteo, ello, con la finalidad de comprobar los datos proporcionados y constatar si fue voluntad de la misma persona adherirse individual, voluntaria, libre y pacíficamente a la agrupación solicitante.
 
 2. Los interesados presentarán durante el mes de enero del año anterior al de la elección, junto con su solicitud de registro, la documentación con la que acrediten los requisitos anteriores y los que, en su caso, señale el Consejo General.
 
@@ -5664,3 +5674,19 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 107.- POR EL CUAL SE ADICIONA UN PÁRRAFO AL ARTÍCULO 20 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente del término del proceso electoral local 2021-2022, por el que se elige Gobernador y Ayuntamientos en el Estado de Durango, previa publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al siguiente decreto.
+
+P.O. 31 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 109.- QUE CONTIENE ADICIÓN DE UNA FRACCIÓN III, AL NUMERAL 1, DEL ARTÍCULO 64 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO”,]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente del término del proceso electoral local 2021-2022, por el que se elige Gobernador y Ayuntamientos en el Estado de Durango, previa publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
