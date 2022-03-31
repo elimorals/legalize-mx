@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-igualdad-entre-mujeres-y-hombres-del-estado-de-66956"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-01"
-last_updated: "2021-04-08"
+last_updated: "2022-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 1 de enero de 2009.
 
@@ -107,11 +107,13 @@ Quedando la rectoría y operación de la política en materia de igualdad sustan
 
 En clara concordancia con la legislación nacional de la materia y los instrumentos internacionales suscritos y ratificados por el Estado Mexicano. En lo no previsto en esta ley, se aplicará en forma supletoria y en lo conducente, las disposiciones de la Ley Federal para Prevenir y Eliminar la Discriminación, Ley Orgánica para la Comisión Estatal de Derecho Humanos y la Ley del Instituto de la Mujer Duranguense.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2022)</small>
 
 ###### Artículo 5.
 
-Son sujetos de los derechos que establece esta ley, las mujeres y los hombres que se encuentren en el territorio del Estado Libre y Soberano de Durango, que por razón de su sexo, independientemente de su edad, estado civil, profesión, cultura, origen étnico o nacional, condición social, salud, religión, opinión o capacidades diferentes, establecidos en el artículo 5 de la Constitución Política del Estado Libre y Soberano de Durango, esta ley o las demás disposiciones que le sean aplicables, se encuentren con algún tipo de desventaja, trato diferenciado o ante la violación del principio de igualdad que esta Ley tutela.
+Son sujetos de los derechos que establece esta ley, las mujeres y los hombres que se encuentren en el territorio del Estado Libre y Soberano de Durango, que por razón de su sexo, independientemente de su edad, estado civil, profesión u oficio, nivel académico o de estudios, cultura, origen étnico o nacional, condición social, salud, religión, opinión o capacidades diferentes, establecidos en el artículo 5 de la Constitución Política del Estado Libre y Soberano de Durango, capacidades diferentes, establecidos en el artículo 5 de la Constitución Política del Estado Libre y Soberano de Durango, (sic) esta ley o las demás disposiciones que le sean aplicables, se encuentren con algún tipo de desventaja, trato diferenciado o ante la violación del principio de igualdad que esta Ley tutela.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE MARZO DE 2022)</small>
 
 ###### Artículo 6.
 
@@ -173,9 +175,11 @@ XIII. Instituto.- El Instituto Estatal de la Mujer;
 
 XIV. Programa Estatal.- Programa Estatal para Garantizar la Igualdad Sustantiva entre Mujeres y Hombres;
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MARZO DE 2022)</small>
 
-XV. Discriminación: Para los efectos de esta ley se entenderá por discriminación toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de las siguientes condiciones: el origen étnico o nacional, el color de la piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otra condición.
+XV. Discriminación.- Para los efectos de esta ley se entenderá por discriminación toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de las siguientes condiciones: el origen étnico o nacional, el color de la piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, la profesión, oficio, nivel académico o de estudios, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otra condición.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2018)</small>
 
 También se entenderá como discriminación la homofobia, la misoginia, cualquier manifestación de xenofobia, la segregación racial, el antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia;
 
@@ -221,9 +225,11 @@ VI. La incorporación de la perspectiva de género en todas las normas jurídica
 
 La igualdad de oportunidades, es el acceso al pleno desarrollo, en el ámbito público y privado del (sic) las mujeres y los hombres en las mismas condiciones, pero considerando la necesidad de articular mecanismo (sic) especiales que la garanticen, los cuales bajo ninguna circunstancia podrá ser considerados como prácticas discriminatorias.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2022)</small>
+
 ###### Artículo 10.
 
-La igualdad entre mujeres y hombres implica la eliminación de toda forma de discriminación, en cualquiera de los ámbitos de la vida, que se genere por pertenecer a cualquier sexo, origen étnico, edad, discapacidad, preferencia sexual, condición social, o económica, estado civil, condiciones de salud, embarazo, lengua, religión, opiniones o cualquier otra que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades.
+La igualdad entre mujeres y hombres implica la eliminación de toda forma de discriminación, en cualquiera de los ámbitos de la vida, que se genere por pertenecer a cualquier sexo, origen étnico, edad, discapacidad, preferencia sexual, condición social, o económica, estado civil, condiciones de salud, la profesión, oficio, nivel académico o de estudios, embarazo, lengua, religión, opiniones o cualquier otra que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades.
 
 ###### Artículo 11.
 
@@ -1030,6 +1036,18 @@ SEGUNDO.- se derogan todas las disposiciones que se opongan a lo dispuesto en el
 P.O. 8 DE ABRIL DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 504.- QUE CONTIENE REFORMA AL ARTÍCULO 24 DE LA LEY DE IGUALDAD ENTRE HOMBRES Y MUJERES DEL ESTADO DE DURANGO”.]
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 110.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE DURANGO”.]
 
 ###### ARTICULO PRIMERO.
 
