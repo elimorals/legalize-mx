@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2021-12-28"
+last_updated: "2022-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -203,11 +203,13 @@ Cuando se cometa un delito no previsto por este ordenamiento, pero sí en una le
 
 ### CAPÍTULO I. FORMAS DE COMISIÓN
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2022)</small>
+
 ###### Artículo 14.
 
-Principio de acto.
+Concepto.
 
-El delito sólo puede ser realizado por acciones u omisiones dolosas o culposas, sancionadas por la ley.
+Delito es el acto u omisión que sancionan las leyes penales.
 
 ###### Artículo 15.
 
@@ -247,27 +249,23 @@ II. Permanente o continuo: Cuando se viola el mismo precepto legal, y la consuma
 
 III. Continuado: Cuando con unidad de propósito delictivo, pluralidad de conductas e identidad de sujeto pasivo, se concretan los elementos de un mismo tipo penal.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2022)</small>
 
 ###### Artículo 17.
 
 Clasificación.
 
-Los delitos pueden ser:
+Las acciones u omisiones delictivas solamente pueden realizarse dolosa o culposamente.
 
-I. Dolosos; y,
-
-II. Culposos.
-
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2022)</small>
 
 ###### Artículo 18.
 
 Dolo y culpa.
 
-El delito es doloso cuando se causa un resultado querido o aceptado, o cuando el resultado es consecuencia necesaria de la acción u omisión.
+Obra dolosamente el que, conociendo los elementos del tipo penal, o previendo como posible el resultado típico, quiere o acepta la realización del hecho descrito por la ley, y
 
-El delito es culposo cuando se causa el resultado por negligencia, imprevisión, imprudencia, impericia, falta de aptitud, de reflexión o de cuidado.
+Obra culposamente el que produce el resultado típico, que no previó siendo previsible o previó confiando en que no se produciría, en virtud de la violación a un deber de cuidado, que debía observar según las circunstancias y condiciones personales.
 
 ### CAPÍTULO II. TENTATIVA
 
@@ -329,9 +327,13 @@ XVII. Hostigamiento sexual;
 
 XVIII. Intimidación;
 
-XIX. Lesiones, que tardan en sanar menos de quince días;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
 
-XX. Lesiones, que tarden en sanar más de quince días y menos de sesenta;
+XIX. Lesiones, que tardan en sanar menos de quince días; con excepción de aquéllas a que hace referencia el artículo 143 de este Código.
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
+
+XX. Lesiones, que tarden en sanar más de quince días y menos de sesenta; con excepción de aquéllas a que hace referencia el artículo 143 de este Código.
 
 XXI. Negación del servicio público;
 
@@ -1125,6 +1127,10 @@ La punibilidad aplicable a la tentativa, será de entre una tercera parte de la 
 
 Tratándose del delito de feminicidio la punibilidad aplicable a la tentativa será de entre dos terceras partes de la mínima y dos terceras partes de la máxima.
 
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2022)</small>
+
+Tratándose del delito de homicidio a una persona menor de doce años, niña, niño, adolescente o personas que no tenga capacidad de comprender el significado del hecho, la punibilidad aplicable a la tentativa será de entre dos terceras partes de la mínima y dos terceras partes de la máxima.
+
 En la aplicación de las penas o medidas de seguridad a que se refiere este artículo, la autoridad judicial tendrá en cuenta, además de lo previsto en el artículo 68 de este código, el mayor o menor grado de aproximación a la consumación del delito y la magnitud del peligro en que se puso al bien jurídico protegido.
 
 ### CAPÍTULO III. CASOS DE COMPLICIDAD, AUXILIO EN CUMPLIMIENTO DE PROMESA ANTERIOR Y AUTORÍA INDETERMINADA
@@ -1170,6 +1176,10 @@ II. Cuando por culpa y con motivo de tránsito de vehículos se cometa el delito
 > <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 En el caso de homicidio por la causa descrita en el párrafo anterior la sanción será de cinco a diez años de prisión y multa del valor de trecientas (sic) sesenta hasta setecientas veinte veces la Unidad de Medida y Actualización;
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2022)</small>
+
+En el caso de homicidio por la causa de hechos suscitados con motivo de transito de vehículos y el conductor huya u omite (sic) los auxilios, la sanción será de diez a quince años de prisión y multa del valor de quinientas a mil veces la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -1811,9 +1821,11 @@ Se impondrá, sin perjuicio de las penas señaladas en el artículo anterior, de
 
 (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2020)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2022)</small>
+
 ###### Artículo 143.
 
-Cuando las lesiones se infieran con crueldad o frecuencia a un menor de edad o a un discapacitado, sujetos a la patria potestad, tutela o custodia del sujeto activo, la pena se incrementará con dos terceras partes a la que le corresponda, según las lesiones inferidas.
+Cuando las lesiones se infieran con crueldad o frecuencia a un menor de edad, o a persona de sesenta y cinco años o más, o no tuviere capacidad de comprender el significado del hecho, o sujetos a la patria potestad, tutela o custodia del sujeto activo, la pena se incrementará con dos terceras partes a la que le corresponda, según las lesiones inferidas
 
 En ambos casos, a solicitud del Ministerio Público se decretará la suspensión o pérdida de los derechos que tenga el sujeto activo en relación con la víctima, por un tiempo hasta de cinco años.
 
@@ -1959,9 +1971,11 @@ A quien induzca a otro para que se prive de la vida, se le impondrá prisión de
 
 Si el suicidio no se consuma por causas ajenas a la voluntad del que induce o ayuda, pero sí se causan lesiones, se impondrán las dos terceras partes de las penas anteriores, sin que exceda de la que corresponda a las lesiones de que se trate. Si no se causan éstas, la pena será de una cuarta parte de las señaladas en este artículo.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2022)</small>
+
 ###### Artículo 152.
 
-Si la persona a quien se induce o ayuda al suicidio fuere menor de edad o no tuviere capacidad de comprender el significado del hecho, se impondrán al homicida o inductor las penas señaladas al homicidio o lesiones calificadas, según corresponda.
+Si la persona a quien se induce o ayuda al suicidio fuere menor de edad, o mayor de sesenta y cinco años o más, o no tuviere capacidad de comprender el significado del hecho, se impondrán al homicida o inductor las penas señaladas al homicidio o lesiones calificadas, según corresponda.
 
 SUBTÍTULO SEGUNDO
 
@@ -2187,17 +2201,19 @@ I. Si lo que exigió y recibió fue dinero o algún documento o cosa estimable e
 
 II. Si exigió que el sujeto pasivo cometiera un delito, se acumulará a las penas del delito de amenazas, la que corresponda por su participación en el delito o delitos que resulten.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE ABRIL DE 2012)</small>
+(REPUBLICADO, P.O. 31 DE MARZO DE 2022)
 
 ### CAPÍTULO XIII. USURPACIÓN DE IDENTIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2022)</small>
+
+Artículo 175 BIS. Comete el delito de Usurpación de Identidad, quien con fines ilícitos o de lucro, se atribuya la identidad de otra persona por cualquier medio, u otorgue su consentimiento para llevarlo a cabo, produciendo con ello un daño, u obteniendo un lucro o un provecho indebido para sí o para otra persona. Se sancionará con prisión de cuatro a ocho años y multa de mil a dos mil veces el valor diario de la Unidad de Medida y Actualización.
+
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
-###### Artículo 175 Bis.
-
-Comete el delito de Usurpación de Identidad, quien con fines ilícitos o de lucro, se atribuya la identidad de otra persona por cualquier medio, u otorgue su consentimiento para llevar la Usurpación de identidad, produciendo con ello un daño, u obteniendo un lucro o un provecho indebido para sí o para otra persona. Se sancionará con prisión de cuatro a ocho años y multa de mil a dos mil veces el valor diario de la Unidad de Medida y Actualización.
-
 Se considerará equiparable al delito de usurpación de identidad y se impondrán las penas establecidas en este artículo:
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
 
 I. A quien por el uso de medio electrónico o telemático, obtenga algún lucro indebido para sí o para otro o genere un daño a otro, valiéndose de alguna manipulación informática o intercepción de datos de envío, cuyo objeto sea el empleo no autorizado de datos personales o el acceso no autorizado a base de datos automatizados para suplantar identidades.
 
@@ -2205,7 +2221,9 @@ I. A quien por el uso de medio electrónico o telemático, obtenga algún lucro 
 
 II. Al que por sí o por otra persona adquiera, transfiera, posea y utilice por cualquier medio, información personal y financiera de un tercero sin su autorización, con la intención de usurpar o suplantar su identidad, para cometer ofensas, adquirir bienes, contratar servicios; obtener créditos, documentos, recursos monetarios o beneficios financieros en perjuicio de las finanzas de un tercero.
 
-III. A quien asuma, se apropie, utilice o suplante, a través de internet, cualquier sistema informático o medio de comunicación, la identidad de una persona física o moral que no le pertenezca, produciendo con ello un daño, u obteniendo un lucro o un provecho indebido para sí o para otra persona.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
+
+III. Al que por sí o por interpósita persona, asuma, adquiera, trasfiera, posea y utilice por cualquier medio, o se apropie, o suplante de manera ilícita cualquier instrumento, o dispositivo de material de identificación del usuario, ya sea una tarjeta plástica con una banda magnética, micro chip y en un numero en relieve, sin su autorización a través de internet, o cualquier sistema informático o medio de comunicación, con la intención de usurpar o suplantar su identidad; generar un daño patrimonial u obtener un lucro indebido para sí o para otro; adquirir bienes, contratar servicios; obtener créditos, documentos, recursos monetarios, beneficios financieros en perjuicio de las finanzas de un tercero, o cometer cualquier otro delito que afecte el patrimonio o la buena reputación de la persona suplantada.
 
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2012)</small>
 
@@ -2295,15 +2313,17 @@ Al que sin el consentimiento de una persona, ejecute en ella o la haga ejecutar 
 
 Si se hiciera uso de violencia, la pena será de tres a siete años de prisión y multa de doscientas dieciséis a trescientas sesenta veces la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2022)</small>
 
-Igualmente comete el delito de abuso sexual, quien mediante el uso de cualquier medio contacte para obligar, inducir o facilitar a una persona menor de dieciocho años, o a una persona que por su condición no tenga la capacidad de comprender el significado del hecho, o que no tiene capacidad para resistirlo, a realizar actos de exhibicionismo corporal o sexuales simulados o no, con cualquier fin, se le impondrá de tres a seis años de prisión y multa de doscientos dieciséis a cuatrocientas treinta y dos veces la Unidad de Medida y Actualización.
+Igualmente comete el delito de abuso sexual, quien mediante el uso de cualquier medio contacte para obligar, inducir o facilitar a una persona menor de dieciocho años, o a una persona mayor de setenta y cinco años o más, o que por su condición no tenga la capacidad de comprender el significado del hecho o que no tiene capacidad para resistirlo, a realizar actos de exhibicionismo corporal o sexuales simulados o no, con cualquier fin, se le impondrá de tres a seis años de prisión y multa de doscientos dieciséis a cuatrocientas treinta y dos veces la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2022)</small>
 
 ###### Artículo 179.
 
-Al que ejecute un acto sexual, sin el propósito de llegar a la cópula, con una persona menor de doce años o en persona que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirla o la obliguen a realizarla por razón de sexo, clase social, coerción, amenazas entre otros, se le impondrán de 6 a 12 años de prisión y multa de cuatrocientas treinta y dos a ochocientas sesenta y cuatro veces la Unidad de Medida y Actualización.
+Al que ejecute un acto sexual, sin el propósito de llegar a la cópula, con una persona menor de doce años, o en persona de sesenta y cinco años o más, o que no tenga la capacidad de comprender el significado del hecho, o que por cualquier causa no pueda resistirla o la obliguen a realizarla por razón de sexo, clase social, coerción, amenazas entre otros, se le impondrán de 6 a 12 años de prisión y multa de cuatrocientas treinta y dos a ochocientas sesenta y cuatro veces la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2017)</small>
 
 Igualmente al que ejecute un acto sexual, sin el propósito de llegar a la cópula, con una persona mayor de doce años pero menor de 18 años, se le impondrán de 4 a 9 años de prisión y multa de doscientas ochenta y ocho a seiscientas cuarenta y ocho veces la Unidad de Medida y Actualización.
 
@@ -6678,3 +6698,43 @@ P.O. 28 DE DICIEMBRE DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 101.- QUE CONTIENE REFORMA A LA FRACCIÓN II DEL ARTÍCULO 79 DEL CÓDIGO PENAL DEL ESTADO DE DURANGO".]
+
+PRIMERO. - El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. - Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE MARZO DE 2022.
+
+> <small>[N. DE E. ARTÍCULOS TRANSITORIOS DEL "DECRETO NO. 102.- QUE CONTIENE REFORMA A LOS ARTÍCULOS 14, 17 Y 18 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]</small>
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 103.- QUE CONTIENE REFORMAS Y ADICIONES AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 104.- QUE CONTIENE REFORMA A LA FRACCIÓN III DEL ARTÍCULO 175 BIS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 105.- CONTIENE REFORMA A LAS FRACCIONES XIX Y XX DEL ARTÍCULO 20 BIS, Y EL ARTÍCULO 76, TODO DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
