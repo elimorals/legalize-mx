@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transportes-para-el-estado-de-durango-25645"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-13"
-last_updated: "2021-08-19"
+last_updated: "2022-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 13 de junio de 2002.
 
@@ -192,6 +192,10 @@ V. La prestación del servicio público de transporte en forma regular, continua
 VI.- El mejoramiento de las vías públicas y de los medios de transporte;
 
 VII.- La protección, ampliación y promoción de vías y rutas para el desarrollo de actividades turísticas, deportivas y de esparcimiento;
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2022)</small>
+
+En Coordinación con la Secretaría de Turismo del Estado, se diseñará, promoverá y aplicará en las distintas modalidades del transporte público, un mapa de ruta y accesibilidad o publicidad en general de lugares públicos de interés turístico.
 
 VIII.- La Observación de los criterios establecidos en la Ley Estatal de Equilibrio Ecológico y Protección al Ambiente para el Estado de Durango, así como en los reglamentos y demás disposiciones aplicables en materia ecológica;
 
@@ -1580,6 +1584,14 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 19 DE AGOSTO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 613. QUE CONTIENE REFORMAS A LA LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que contravengan al presente decreto.
+
+P.O. 31 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 116.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN VII DEL ARTÍCULO 4 DE LA LEY DE TRASPORTES PARA EL ESTADO DE DURANGO".]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
