@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2021-11-23"
+last_updated: "2022-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2022.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -3763,13 +3763,11 @@ II. En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 337
 
 III. Por las costumbres depravadas, malos tratamientos o abandono de deberes, de quien ejerce la patria potestad, aun cuando esos hechos no cayeren bajo la sanción de la ley penal.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2018)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE MARZO DE 2022)</small>
 
-La pérdida de la patria potestad sólo se dará cuando la medida resulte necesaria, idónea y razonable para la protección de los derechos de los menores de edad conforme a su interés superior, para lo cual, el juez habrá de ponderar las circunstancias del caso;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
-
-IV. Por el abandono de quien ejerce la patria potestad, por más de treinta días, sin causa justificada, aun cuando los menores fueren abandonados en instituciones públicas o privadas dedicadas al albergue de éstos;
+IV. Por el abandono de quien ejerce la patria potestad, sin causa justificada, aun cuando los menores fueren abandonados en instituciones públicas o privadas dedicadas al albergue de éstos. Como medida de protección al menor, se deberán analizar en cada caso concreto las causas del abandono, la edad del menor, su madurez y autonomía, atendiendo al interés superior de la niñez;
 
 V. (DEROGADA, P.O. 30 DE JULIO DE 1996)
 
@@ -3784,6 +3782,10 @@ Quien haya perdido la patria potestad por el incumplimiento de la obligación al
 > <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 No serán considerados supuestos de abandono para los efectos de éste artículo, cuando por extrema pobreza o por necesidad de ganarse el sustento lejos del lugar de residencia de los menores, las personas que ejerzan la patria potestad tengan dificultades para atenderlos de manera permanente, siempre que los mantengan al cuidado de otras personas, libres de violencia y provean su subsistencia.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2022)</small>
+
+La pérdida de la patria potestad sólo se dará cuando la medida resulte necesaria, idónea y razonable para la protección de los derechos de los menores de edad conforme a su interés superior, para lo cual, el juez habrá de ponderar las circunstancias del caso.
 
 ###### Art. 498.
 
@@ -17628,3 +17630,9 @@ P.O. 23 DE NOVIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 2 QUE EMITE LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 778 DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 31 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 68 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV; SE DEROGA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN III; Y SE ADICIONA UN ÚLTIMO PÁRRAFO, TODOS DEL ARTÍCULO 497 DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
