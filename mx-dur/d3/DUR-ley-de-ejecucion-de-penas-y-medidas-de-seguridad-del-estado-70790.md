@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-del-estado-707
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-15"
-last_updated: "2017-03-19"
+last_updated: "2022-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de octubre de 2009.
 
@@ -1203,7 +1203,9 @@ La remisión parcial de la pena es un beneficio otorgado por la autoridad judici
 
 I. Que el interno haya observado durante su estancia en prisión buena conducta;
 
-II. Que participe regularmente en las actividades educativas, deportivas o de otra índole que se organicen en el establecimiento; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
+
+II. Que participe regularmente en las actividades laborales, educativas, deportivas o de otra índole que se organicen en el establecimiento; y
 
 III. Que con base en los estudios de personalidad que practique el Consejo, pueda determinarse la viabilidad de su reinserción social. Este será el factor determinante para la concesión o negativa de la remisión parcial de la pena.
 
@@ -2388,3 +2390,11 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 31 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 106.- QUE CONTIENE REFORMA A LA FRACCIÓN II DEL ARTÍCULO 79 DE LA LEY DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
