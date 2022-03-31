@@ -4,7 +4,7 @@ identifier: "BCS-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-137008
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-06-20"
-last_updated: "2020-07-31"
+last_updated: "2022-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MARZO DE 2022.
 
 Estatuto publicado en el Número 28 del Boletín Oficial del Estado de Baja California Sur, el jueves 20 de junio de 2019.
 
@@ -343,15 +343,11 @@ Para la celebración de las sesiones, la convocatoria deberá ir acompañada del
 
 Si la reunión convocada no pudiera llevarse a cabo en la fecha programada, deberá celebrarse entre los cinco y diez días hábiles siguientes.
 
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 24.
 
-Para poder sesionar válidamente, la Comisión Ejecutiva requerirá de la asistencia de por lo menos tres miembros del Comité de Participación Ciudadana que lo integran.
-
-Los miembros del Comité de Participación Ciudadana podrán participar de (sic) las sesiones de la Comisión Ejecutiva vía remota, lo que deberá ser asentado en el acta que al efecto se levante, misma que deberá contener los acuerdos y determinaciones de la enunciada comisión; la cual se perfeccionará con la firma autógrafa de los participantes.
-
-Sus acuerdos y determinaciones se tomarán siempre por mayoría de votos; en caso de empate, el Secretario Técnico tendrá el voto de calidad.
-
-La Comisión Ejecutiva podrá invitar a sus sesiones a especialistas en los temas a tratar, los cuales contarán con voz, pero sin voto, mismos que serán citados por el Secretario Técnico en los mismos términos establecidos para convocar a los miembros de la Comisión Ejecutiva.
+Para poder sesionar válidamente, la Comisión Ejecutiva requerirá de la asistencia de la mayoría de los miembros del Comité de Participación Ciudadana que lo integran.
 
 ###### ARTÍCULO 25.
 
@@ -664,3 +660,11 @@ B.O. 31 DE JULIO DE 2020.
 ## [N. DE E. TRANSITORIO DE LAS MODIFICACIONES AL “ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN”.]
 
 ÚNICO.- Las presentes modificaciones al Estatuto Orgánico entrarán en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE MODIFICA EL ARTÍCULO 24 DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE BAJA CALIFORNIA SUR".]
+
+PRIMERO. La Presente modificación al Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Baja California Sur entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO. Difúndase el presente acuerdo en la página oficial de la SESEA: https://seseabcs.gob.mx/.
