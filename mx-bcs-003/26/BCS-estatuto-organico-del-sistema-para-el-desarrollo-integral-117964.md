@@ -4,7 +4,7 @@ identifier: "BCS-estatuto-organico-del-sistema-para-el-desarrollo-integral-11796
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-12-20"
-last_updated: "2016-12-20"
+last_updated: "2022-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MARZO DE 2022.
 
 Estatuto publicado en el Boletín Oficial del Estado de Baja California Sur, el martes 20 de diciembre de 2016.
 
@@ -67,11 +67,15 @@ El presente estatuto orgánico es de orden público y de observancia obligatoria
 
 Este ordenamiento regirá en todo el territorio del Municipio de La Paz, Baja California Sur y sus disposiciones son de interés social, teniendo también como fin, el crear y establecer las bases y procedimientos del sistema municipal de asistencia social, que promueva los servicios de asistencia social y coordine el acceso a los mismos, garantizando la concurrencia y colaboración de las gobiernos federal, estatal y municipal, así como la participación de los sectores social y privado, según la distribución de competencias que establecen la Ley General de Salud, la Ley Federal de Asistencia Social, la Ley de Asistencia Social para el Estado de Baja California Sur, la Ley Orgánica de la Administración Pública del Estado de B.C.S., el Reglamento de la Administración Pública municipal de La Paz, B.C.S. y la Ley de Salud Pública para el Estado de Baja California Sur.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 3.
 
-El Sistema Municipal para el Desarrollo Integral de la Familia del Municipio de La Paz, Baja California Sur, conocido también como "Sistema para el Desarrollo Integral de la Familia del Municipio de La Paz" o por la abreviatura "DIF MUNICIPAL" es un Organismo Público Descentralizado, con personalidad jurídica y patrimonio propios, contando con autonomía técnica y de gestión, para el cumplimiento de las atribuciones que corresponden al municipio de La Paz, Baja California Sur, y a su Ayuntamiento en materia de asistencia social.
+El Sistema para el Desarrollo Integral de la Familia del Municipio de La Paz, Baja California Sur, conocido también como "Sistema para el Desarrollo Integral de la Familia del Municipio de La Paz" o por la abreviatura "SMDIF" es un Organismo Público Descentralizado, con personalidad jurídica y patrimonio propios, contando con autonomía técnica y de gestión, para el cumplimiento de las atribuciones que corresponden al municipio de La Paz, Baja California Sur, y a su Ayuntamiento en materia de asistencia social.
 
-Cuando en este estatuto se haga mención al DIF Municipal o Sistema DIF La Paz, se entenderá esto, como el Sistema para el Desarrollo Integral de la Familia del Municipio de La Paz, Baja California Sur.
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2022)</small>
+
+Cuando en este estatuto se haga mención al SMDIF, se entenderá esto, como el Sistema para el Desarrollo Integral de la Familia del Municipio de La Paz, Baja California Sur.
 
 ###### ARTÍCULO 4.
 
@@ -147,9 +151,11 @@ XII. Los demás sujetos en condiciones equiparables a las relacionadas en las fr
 
 ### CAPÍTULO TERCERO. DE LAS FUNCIONES DEL DIF MUNICIPAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 6.
 
-El DIF Municipal para el logro de sus objetivos realizará las siguientes funciones:
+El SMDIF para el logro de sus objetivos realizará las siguientes funciones:
 
 I. La ejecución de los programas de asistencia social y protección de la infancia y adolescencia, en el marco normativo emitido por el Sistema Nacional para el Desarrollo Integral de la Familia y el Sistema Estatal para el Desarrollo Integral de la Familia, de acuerdo con los objetivos y prioridades de los planes Estatal y Municipal de Desarrollo y del Programa Estatal y Municipal de Protección de Niñas, Niños y Adolescentes, de conformidad con la competencia y las atribuciones que cada organismo tenga;
 
@@ -161,11 +167,15 @@ IV. Administrar los establecimientos asistenciales que descentralicen en su favo
 
 V. Contribuir al logro de los objetivos señalados en la Ley de Asistencia Social para el Estado de Baja California Sur.
 
-Las anteriores funciones se ejecutarán de conformidad con los programas aprobados por la Junta de Gobierno, tomando siempre en consideración la capacidad y posibilidad en que se encuentre el DIF Municipal.
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2022)</small>
+
+Las anteriores funciones se ejecutarán de conformidad con los programas aprobados por la Junta de Gobierno, tomando siempre en consideración la capacidad y posibilidad en que se encuentre el SMDIF.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 7.
 
-El Sistema DIF Municipal en materia de asistencia social y protección de la infancia y adolescencia tendrán las siguientes atribuciones:
+El SMDIF en materia de asistencia social y protección de la infancia y adolescencia tendrá las siguientes atribuciones:
 
 I. La promoción y ejecución de programas, acciones y servicios para la integración, desarrollo y mejoramiento de la familia y del grupo familiar, mediante su participación activa, consciente y organizada en acciones que se lleven a cabo en su propio beneficio;
 
@@ -193,23 +203,31 @@ XII. Apoyar en auxilio de la autoridad judicial, a los particulares, cuando lo s
 
 XIII. Ejecutar programas y acciones de prevención y atención, de los miembros del grupo familiar, mediante equipos interdisciplinarios: médicos del primer nivel de atención, psicológica y psiquiátrica, así como prevención de las adicciones, a los beneficiarios, que propicien una cultura de salud mental;
 
-XIV. Ejecutar en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia, programas y acciones que protejan el desarrollo de la familia, fomenten la paternidad responsable y la integración familiar que propicien la preservación de los derechos de la niñez a la satisfacción de sus necesidades, a la salud física y mental, así como diseñar platicas previas a la celebración del matrimonio con el fin de erradicar la violencia familiar y conciliar la vida laboral y familiar;
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
+
+XIV. Ejecutar en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia, programas y acciones que protejan el desarrollo de la familia, fomenten la paternidad responsable y la integración familiar que propicien la preservación de los derechos de la niñez a la satisfacción de sus necesidades, a la salud física y mental, así como diseñar pláticas previas a la celebración del matrimonio con el fin de erradicar la violencia familiar y conciliar la vida laboral y familiar;
 
 XV. Celebrar convenios de colaboración y de apoyo con otros Sistemas Municipales DIF, para la gestión y desarrollo de diligencias para la resolución de los asuntos de su competencia; y
 
 XVI. Las demás que propicien el Desarrollo Integral de la Familia, en términos de la Ley de Asistencia Social para el Estado de Baja California Sur.
 
-### CAPÍTULO CUARTO. DE LA ESTRUCTURA ORGÁNICA Y EL ÓRGANO SUPERIOR DE GOBIERNO DEL DIF MUNICIPAL
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE MARZO DE 2022)</small>
+
+### CAPÍTULO CUARTO. DE LA ESTRUCTURA ORGÁNICA Y EL ÓRGANO SUPERIOR DE GOBIERNO DEL SMDIF
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 8.
 
-Para el estudio, planeación y despacho de los asuntos que le competen, el Sistema Municipal del DIF La Paz, contará con:
+Para el estudio, planeación y despacho de los asuntos que le competen, el SMDIF, contará con:
 
 I.- Junta de Gobierno.
 
 II.- Un Director General Municipal.
 
-La vigilancia de la operación del DIF Municipal quedará a cargo de la Contraloría Municipal a través de un Comisario.
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2022)</small>
+
+La vigilancia de la operación del SMDIF quedará a cargo de la Contraloría Municipal a través de un Comisario.
 
 ###### ARTÍCULO 9.
 
@@ -219,35 +237,53 @@ I.- El Presidente Municipal;
 
 II.- Los Regidores Presidentes de la (sic) Comisiones de: Salud y Bienestar social, de Ciencia, Educación y Cultura.
 
-III.- Los titulares de los (sic) Dependencias Municipales: Secretaría General, Tesorería Municipal, Instituto Municipal de la Cultura y el Instituto Municipal del Deporte.
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
 
-IV.- Por el Director General del Sistema DIF.
+III.- Los titulares de los (sic) Dependencias Municipales: Secretaría General, Tesorería Municipal, Dirección Municipal de la Cultura y el (sic) Dirección Municipal del Deporte.
 
-V.- Por la Presidenta Honoraria del DIF Municipal, quien fungirá como testigo de asistencia con voz pero sin voto.
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
 
-El titular de la Presidencia Honoraria del Sistema Municipal DIF será nombrado por el Presidente Municipal del Ayuntamiento, su cargo no generará derecho a remuneración, retribución, emolumento o compensación alguna y apoyará las actividades del Sistema.
+IV.- Por el Director General del SMDIF.
+
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
+
+V.- Por la Presidenta Honoraria del SMDIF Municipal, quien fungirá como testigo de asistencia con voz pero sin voto.
+
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2022)</small>
+
+El titular de la Presidencia Honoraria del SMDIF será nombrado por el Presidente Municipal del Ayuntamiento, su cargo no generará derecho a remuneración, retribución, emolumento o compensación alguna y apoyará las actividades del Sistema.
 
 El titular de la Presidencia Honoraria fungirá como enlace entre el Sistema y las Organizaciones Civiles.
 
 La Junta de Gobierno elegirá a su presidente de entre sus miembros en la primera sesión.
 
-Por cada representante propietario, se nombrará o su respectivo suplente. El Presidente de la Junta tendrá voto de calidad, además podrá invitar a formar parte de la Junta de Gobierno, con voz pero sin voto al Presidente de la Comisión Edilicia de Organismos Descentralizados y Fideicomisos, a representantes de los gobiernos federal, estatal o municipal, así como a representantes de instituciones públicas y privadas, según el asunto que se formuló en las sesiones y que tenga relación con el objeto del Sistema DIF La Paz. Todos los cargos en la Junta de Gobierno son honoríficos; por lo que no recibirán remuneración, compensación o gratificación alguna por el desempeño específico de esa función.
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2022)</small>
+
+Por cada representante propietario, se nombrará a su respectivo suplente. El Presidente de la Junta tendrá voto de calidad, además podrá invitar a formar parte de la Junta de Gobierno, con voz pero sin voto al Presidente de la Comisión Edilicia de Organismos Descentralizados y Fideicomisos, a representantes de los gobiernos federal, estatal o municipal, así como a representantes de instituciones públicas y privadas, según el asunto que se formuló en las sesiones y que tenga relación con el objeto del SMDIF. Todos los cargos en la Junta de Gobierno son honoríficos; por lo que no recibirán remuneración, compensación o gratificación alguna por el desempeño específico de esa función.
 
 La duración en el cargo de sus miembros no excederá el periodo que marca la Ley para cada ayuntamiento y su remoción será en términos de lo que establece la normatividad aplicable o su cargo de servidor público municipal.
 
-El Director General del Sistema DIF, fungirá como Secretario Técnico de la Junta de Gobierno.
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2022)</small>
+
+El Director General del SMDIF, fungirá como Secretario Técnico de la Junta de Gobierno.
 
 ###### ARTÍCULO 10.
 
 La Junta de Gobierno, actuando por medio de su Presidente, tendrá las siguientes facultades:
 
-I. Representar al Sistema Municipal para el Desarrollo Integral de la Familia con las facultades que establezcan las leyes para actos de dominio y de administración y para pleitos y cobranzas;
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
+
+I. Representar al SMDIF con las facultades que establezcan las leyes para actos de dominio y de administración y para pleitos y cobranzas;
 
 II. Aprobar los planes de labores, presupuestos, informes de actividades y estados financieros anuales;
 
-III. Aprobar el Estatuto Orgánico, la organización general del Sistema Municipal para Desarrollo Integral de la Familia y los Manuales de Procedimientos y de Servicios al Público;
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
 
-IV. Ratificar la designación y remoción a propuesta del Director General del Sistema Municipal para el Desarrollo Integral de la Familia, a los servidores públicos de nivel inmediato inferior;
+III. Aprobar el Estatuto Orgánico, la organización general del SMDIF y los Manuales de Procedimientos y de Servicios al Público;
+
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
+
+IV. Ratificar la designación y remoción a propuesta del Director General del SMDIF, a los servidores públicos de nivel inmediato inferior;
 
 V. Conocer los informes, dictámenes y recomendaciones del Comisario y del Auditor Externo,
 
@@ -259,7 +295,9 @@ VIII. Conocer y aprobar los acuerdos de Coordinación que hayan de celebrarse co
 
 IX. Determinar la integración de Comités Técnicos y grupos de trabajo temporales;
 
-X. Aprobar los programas que en materia de asistencia social pública formule El Sistema Municipal para el Desarrollo Integral de la Familia, y
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
+
+X. Aprobar los programas que en materia de asistencia social pública formule el SMDIF, y
 
 XI. Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
@@ -275,25 +313,35 @@ La Junta de Gobierno celebrará sesiones ordinarias semestrales y las extraordin
 
 El Comisario será un funcionario de la Contraloría Municipal, designado y removido libremente por el Presidente Municipal y deberá ser ciudadano mexicano y con experiencia profesional en la materia, no menor a cinco años y tendrá las siguientes facultades:
 
-I. Vigilar que la administración de los recursos y el funcionamiento del Sistema Municipal para el Desarrollo Integral de la Familia se haga de acuerdo con lo que dispongan esta Ley y los programas y presupuestos aprobados;
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
+
+I. Vigilar que la administración de los recursos y el funcionamiento del SMDIF se haga de acuerdo con lo que dispongan esta Ley y los programas y presupuestos aprobados;
 
 II. Practicar las auditorías de los estados financieros y las de carácter administrativo que se requieran;
 
-III. Recomendar a la Junta de Gobierno de DIF Municipal y al Director General las medidas preventivas y correctivas que sean convenientes para el mejoramiento del Sistema Municipal para el Desarrollo Integral de la Familia;
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
+
+III. Recomendar a la Junta de Gobierno del SMDIF y al Director General las medidas preventivas y correctivas que sean convenientes para el mejoramiento del SMDIF;
 
 IV. Asistir a las sesiones de la Junta de Gobierno, y
 
 V. Las demás que otras leyes le atribuyan y las que sean necesarias para el ejercicio de las anteriores.
 
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 14.
 
-El Director General del DIF Municipal será ciudadano Sudcaliforniano por nacimiento, mayor de edad; estar en pleno goce de sus derechos civiles y políticos, con experiencia en materia administrativa y de asistencia social. El Presidente Municipal designará y removerá libremente al Director del DIF Municipal.
+El Director General del SMDIF será ciudadano mexicano, contar (sic) con título y cédula profesional debidamente registrados y con residencia efectiva no menor de dos años en el Estado, mayor de edad; estar en pleno goce de sus derechos, con experiencia en materia administrativa y de asistencia social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 15.
 
-El Director del DIF Municipal tendrá las siguientes facultades:
+El Director del SMDIF tendrá las siguientes facultades:
 
-I. Administrar y representar legalmente al Sistema Municipal para el Desarrollo Integral de la Familia;
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
+
+I. Administrar y representar legalmente al SMDIF;
 
 II. Ejecutar los acuerdos y disposiciones de la Junta de Gobierno Municipal;
 
@@ -301,39 +349,63 @@ III. Presentar a la Junta de Gobierno Municipal y a la Comisión Edilicia de Org
 
 IV. Formular los programas de corto, mediano y largo plazo, los presupuestos y las políticas institucionales, establecer los procedimientos generales e informes de actividades y estados financieros anuales del Organismo, presentándolos para su aprobación a la Junta de Gobierno Municipal;
 
-V. Proponer a la Junta de Gobierno Municipal la designación y remoción de los servidores públicos de nivel inmediato inferior del Sistema Municipal para el Desarrollo Integral de la Familia;
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
+
+V. Proponer a la Junta de Gobierno Municipal la designación y remoción de los servidores públicos de nivel inmediato inferior del SMDIF;
 
 VI. Autorizar y expedir los nombramientos de personal y manejar las relaciones laborales de acuerdo con las disposiciones legales;
 
-VII. Planear, dirigir y controlar el funcionamiento del Sistema Municipal para el Desarrollo Integral de la Familia con sujeción a las instrucciones de la Junta de Gobierno Municipal;
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
 
-VIII. Celebrar convenios, acuerdos, contratos y ejecutar los actos jurídicos que sean indispensables para el cumplimiento de los objetivos del Sistema Municipal para el Desarrollo Integral de la Familia;
+VII. Planear, dirigir y controlar el funcionamiento del SMDIF con sujeción a las instrucciones de la Junta de Gobierno Municipal;
 
-IX. Actuar en representación del Sistema Municipal para el Desarrollo Integral de la Familia, con facultades generales para actos de administración, de dominio, para pleitos y cobranzas, así como aquellos que requieran cláusula especial conforme a las leyes, y
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
+
+VIII. Celebrar convenios, acuerdos, contratos y ejecutar los actos jurídicos que sean indispensables para el cumplimiento de los objetivos del SMDIF;
+
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
+
+IX. Actuar en representación del SMDIF, con facultades generales para actos de administración, de dominio, para pleitos y cobranzas, así como aquellos que requieran cláusula especial conforme a las leyes; y
 
 X. Las demás que sean necesarias para el ejercicio de las facultades establecidas en éste u otros ordenamientos jurídicos.
 
 ### CAPÍTULO QUINTO. CONSEJO CIUDADANO CONSULTIVO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 16.
 
-El Sistema DIF La Paz, contará además con un Consejo Ciudadano Consultivo que emitirá opiniones y recomendaciones sobre sus políticas y programas, apoyará sus actividades y contribuirá a la obtención de recursos que permitan el incremento de su patrimonio.
+El SMDIF, contará además con un Consejo Ciudadano Consultivo que emitirá opiniones y recomendaciones sobre sus políticas y programas, apoyará sus actividades y contribuirá a la obtención de recursos que permitan el incremento de su patrimonio.
 
-El titular de la Comisión Edilicia de Salud y Bienestar Social y el Director General del Sistema Municipal para el Desarrollo Integral de la Familia representarán a la Junta de Gobierno Municipal ante el Consejo Ciudadano Consultivo Municipal, cuyos miembros no percibirán retribución, emolumento o compensación alguna.
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2022)</small>
 
-El Consejo Ciudadano Consultivo lo integrarán ciudadanos nombrados por sus propias organizaciones, quienes presentarán sus nombramientos por escrito ante el Presidente Municipal por conducto del Secretario General del Ayuntamiento para su registro ante el H. Ayuntamiento:
+El titular de la Comisión Edilicia de Salud y Bienestar Social y el Director General del SMDIF representarán a la Junta de Gobierno Municipal ante el Consejo Ciudadano Consultivo Municipal, cuyos miembros no percibirán retribución, emolumento o compensación alguna.
 
-Un representante del sector público.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE MARZO DE 2022)</small>
 
-Un representante del sector privado.
+El Consejo Ciudadano Consultivo lo integrarán ciudadanos nombrados por sus propias organizaciones, quienes presentarán sus nombramientos por escrito ante el Presidente Municipal por conducto del Secretario General del Ayuntamiento para su registro ante el H. Ayuntamiento los cuales serán:
+
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
+
+I. Un representante de las organizaciones de la sociedad civil;
+
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
+
+II. Un representante de las instituciones academicas; y
+
+> <small>(ADICIONADA, B.O. 31 DE MARZO DE 2022)</small>
+
+III. Un representante de organismos empresariales.
 
 Para efectos del párrafo anterior, en el mes (sic) noviembre del año de la elección, el Presidente Municipal por conducto del Secretario General del Ayuntamiento, convocará a través de los medios masivos de comunicación a los citados organismos, para que lleven a cabo procesos de selección e informen los nombramientos respectivos ante la Secretaría General del Ayuntamiento en la fecha que indique la convocatoria, pero que no deberá exceder el mismo mes. Las personas nombradas deberán reunir las características de capacidad, preparación y voluntad necesaria para el desempeño de la función, con estudios de educación superior y experiencia profesional de 5 años.
 
 A falta de nombramientos en los términos establecidos, la Junta de Gobierno a propuesta del Director General, realizará la designación respectiva de los integrantes faltantes para conformar al Consejo Consultivo.
 
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 17.
 
-El Consejo Ciudadano Consultivo se integrará con X ciudadanos y durarán en su cargo tres años. Para el caso de renuncia o falta consecutiva a más de tres reuniones ordinarias del Consejo Ciudadano Consultivo sin causa justificada, se tendrá como ausencia definitiva, la Junta de Gobierno en los términos del artículo que antecede, nombrará a su sustituto quién durará en funciones el complemento del periodo. Por mayoría de los miembros del Consejo Consultivo de la Ciudad podrá acordarse el nombramiento de invitados permanentes a personas cuyos conocimientos y experiencia notorias puedan contribuir a alcanzar los fines del Sistema DIF La Paz, quienes gozarán de voz pero sin voto.
+El Consejo Ciudadano Consultivo se integrará con tres ciudadanos y durarán en su cargo tres años. Para el caso de renuncia o falta consecutiva a más de tres reuniones ordinarias del Consejo Ciudadano Consultivo sin causa justificada, se tendrá como ausencia definitiva, la Junta de Gobierno en los términos del artículo que antecede, nombrará a su sustituto quién durará en funciones el complemento del periodo. Por mayoría de los miembros del Consejo Consultivo de la Ciudad podrá acordarse el nombramiento de invitados permanentes a personas cuyos conocimientos y experiencia notorias puedan contribuir a alcanzar los fines del SMDIF, quienes gozarán de voz pero sin voto.
 
 ###### ARTÍCULO 18.
 
@@ -341,9 +413,19 @@ El Consejo Ciudadano Consultivo se integrará de la siguiente manera:
 
 I. Un Presidente, que será electo de entre los miembros ciudadanos del propio Consejo, en la primera sesión mensual ordinaria;
 
-II. Un Secretario Técnico, cargo que recaerá en el Director General del Sistema DIF y
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
 
-III. X Consejeros.
+II. Un Secretario Técnico, cargo que recaerá en el Director General del SMDIF y
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], B.O. 31 DE MARZO DE 2022)</small>
+
+III. Tres Consejeros que serán:
+
+a) Un Representante de las Organizaciones de la Sociedad Civil;
+
+b) Un Representante de Instituciones Académicas; y
+
+c) Un Representantes de Organismos Empresariales.
 
 ###### ARTÍCULO 19.
 
@@ -353,15 +435,23 @@ El Presidente del Consejo Ciudadano Consultivo será elegido por los propios mie
 
 Para que el Consejo Ciudadano Consultivo se encuentre legalmente reunido, se requerirá de la asistencia de por lo menos la mitad más uno de la totalidad de sus integrantes. Ésta deberá reunirse al menos una vez al mes, en forma ordinaria para tratar asuntos de su competencia y cuando se requiera de manera extraordinaria, serán convocados por el Secretario Técnico, debiendo mencionar el lugar, hora y día, remitiendo a todos los integrantes el orden del día y en su caso, la información necesaria para el desarrollo de la mismas. En el supuesto de que no se cumpla el quórum legal, en esta se establecerá que después de 30 minutos se desarrollará la reunión en segunda convocatoria, con los que estén presentes, siendo válidos los acuerdos que se tomen en esta sesión. En caso de ausencia del Presidente del Consejo Ciudadano Consultivo, la sesión será presidida por el Secretario Técnico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 21.
 
-Compete al Consejo Ciudadano Consultivo (sic) siguiente:
+Compete al Consejo Ciudadano Consultivo lo siguiente:
 
-I. Conocer y analizar las propuestas y proyectos elaborados por el Sistema DIF para que sean sometidos a la consideración del Ayuntamiento por conducto del Presidente Municipal;
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
 
-II. Proponer al Presidente Municipal por conducto del Director General políticas públicas en las materias competencia del Sistema DIF La Paz;
+I. Conocer y analizar las propuestas y proyectos elaborados por el SMDIF para que sean sometidos a la consideración del Ayuntamiento por conducto del Presidente Municipal;
 
-III. Participar en la conformación de comisiones para la obtención de recursos, donaciones y otras contribuciones para implementar los programas y acciones a cargo de DIF La Paz.
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
+
+II. Proponer al Presidente Municipal por conducto del Director General políticas públicas en las materias competencia del SMDIF;
+
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
+
+III. Participar en la conformación de comisiones para la obtención de recursos, donaciones y otras contribuciones para implementar los programas y acciones a cargo del SMDIF; y
 
 IV. Las demás que este reglamento le confiera.
 
@@ -415,11 +505,15 @@ IV. Actuar dentro del Consejo Ciudadano Consultivo y fuera del mismo, en asuntos
 
 Las determinaciones del Consejo Ciudadano Consultivo se tomarán cuando así se requiera, por mayoría de votos, teniendo el Presidente del mismo, voto de calidad para el caso de empate. En todo caso, los acuerdos tomados al seno del Consejo Consultivo tendrán carácter obligatorio para los involucrados en su cumplimiento.
 
-### CAPÍTULO SEXTO. DE LA ESTRUCTURA ORGÁNICA DEL DIF MUNICIPAL
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE MARZO DE 2022)</small>
+
+### CAPÍTULO SEXTO. DE LA ESTRUCTURA ORGÁNICA DEL SMDIF
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 27.
 
-El Director General de DIF Municipal a efectos de cumplir con sus funciones, se auxiliará de las siguientes Subdirección General, Coordinaciones y unidades de apoyo:
+El Director General del SMDIF a efectos de cumplir con sus funciones, se auxiliará de las siguientes áreas:
 
 a) Subdirección General.
 
@@ -427,17 +521,31 @@ b) Coordinación Administrativa.
 
 c) Coordinación Operativa.
 
-d) Coordinación de Fortalecimiento Institucional
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2022)</small>
 
-d) (sic) Procuraduría de la Defensa del Menor y la Familia.
+d) Coordinación de Fortalecimiento Institucional.
+
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2022)</small>
+
+e) Coordinación Médica y de Trabajo Social.
+
+> <small>(ADICIONADO, B.O. 31 DE MARZO DE 2022)</small>
+
+f) Procuraduría de la Defensa de Niñas, Niños, Adolescentes y de la Familia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 28.
 
-La Subdirección General es el área que asiste en su gestión al Director General y es responsable de supervisar y coordinar la operación del Sistema DIF La Paz, asegurando el cumplimiento de la legislación oficial, del Plan Municipal de Desarrollo y la normatividad relativa a la aplicación de los recursos públicos para la ejecución de todos los programas. Para efectos de lo anterior contará con las siguientes atribuciones:
+La Subdirección General es el área que asiste en su gestión al Director General y es responsable de supervisar y coordinar la operación del SMDIF, asegurando el cumplimiento de la legislación oficial, del Plan Municipal de Desarrollo y la normatividad relativa a la aplicación de los recursos públicos para la ejecución de todos los programas. Para efectos de lo anterior contará con las siguientes atribuciones:
 
-I. Asegurar y vigilar la observancia de las políticas relativas a la administración de los recursos financieros, humanos y materiales, así como referentes a los servicios prestados y programas ejecutados por el Sistema DIF.
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
 
-II. Aplicar las políticas y procedimientos para la conservación y mantenimiento de los bienes muebles e inmuebles del Sistema DIF.
+I. Asegurar y vigilar la observancia de las políticas relativas a la administración de los recursos financieros, humanos y materiales, así como referentes a los servicios prestados y programas ejecutados por el SMDIF.
+
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
+
+II. Aplicar las políticas y procedimientos para la conservación y mantenimiento de los bienes muebles e inmuebles del SMDIF.
 
 III. Establecer los lineamientos, normas, sistemas y procedimientos para la administración y seguimiento de los programas y acciones a ejecutar.
 
@@ -445,79 +553,151 @@ IV. Dirigir la elaboración de esquemas o instrumentos de control para el seguim
 
 V. Coordinar el proceso de planeación anual y participar en la programación y elaboración del presupuesto, así como en el control y evaluación de los programas y proyectos institucionales alineados con el Plan Municipal de Desarrollo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 29.
 
-La Coordinación Administrativa, es el órgano del Sistema DIF que tiene a su cargo la administración, desarrollo y optimización de los recursos humanos, financieros y materiales con que cuenta el Sistema DIF y para el cabal cumplimiento de sus objetivos contará con los auxiliares necesarios en cada área señalada; esta coordinación será responsable de la contabilidad y se encargará de la comprobación y contabilización del gasto público del DIF Municipal y la elaboración de los estados financieros de éste. Para efectos de lo anterior contará con las siguientes atribuciones:
+La Coordinación Administrativa, es el órgano del SMDIF que tiene a su cargo la administración, desarrollo y optimización de los recursos humanos, financieros y materiales con que cuenta el SMDIF y para el cabal cumplimiento de sus objetivos contará con los auxiliares necesarios en cada área señalada; esta coordinación será responsable de la contabilidad y se encargará de la comprobación y contabilización del gasto público del SMDIF y la elaboración de los estados financieros de éste. Para efectos de lo anterior contará con las siguientes atribuciones:
 
 I. Administrar los recursos humanos, materiales y financieros, asignados al Sistema, determinando previo acuerdo con el Director General, las políticas, normas y procedimientos para su eficaz y eficiente administración, así como su difusión de acuerdo a los programas y lineamientos aplicables;
 
-II. Conducir y coordinar la aplicación y cumplimiento de las normas en materia de administración de recursos, así como proponer al Director General, criterios para el óptimo aprovechamiento del gasto;
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 31 DE MARZO DE 2022)</small>
 
-III. Participar en la solvatación (sic) de los requerimientos hechos a través de revisiones por parte de autoridades federales, estatales, y cualquier otra instancia revisora facultada en la materia;
+II. Planear, ejecutar y verificar en las diferentes áreas administrativas, así como evaluar el ejercicio del presupuesto del SMDIF, controlando de manera racional y transparente el ejercicio del gasto, atendiendo prioridades en el servicio.
 
-IV. Poner a consideración del Director General para su validación los anteproyectos del Presupuesto de Ingresos y de Egresos anual del Sistema DIF, de conformidad con las disposiciones legales y administrativas aplicables;
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
 
-V. Coordinar y supervisar el ejercicio del presupuesto de egresos autorizado al Sistema DIF y realizar todas las operaciones presupuestales necesarias con apego a las disposiciones legales y administrativas aplicables, debiendo informar de manera periódica al Subdirector General y Director General sobre dicho ejercicio;
+III. Conducir y coordinar la aplicación y cumplimiento de las normas en materia de administración de recursos, así como proponer al Director General, criterios para el óptimo aprovechamiento del gasto; verificando que se cumpla con los procedimientos, políticas y leyes de carácter administrativo aplicables a las actividades del SMDIF.
 
-VI. Vigilar se lleven a cabo las medidas presupuestales autorizadas e instruidas por el Director General del Sistema DIF.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 31 DE MARZO DE 2022)</small>
+
+IV. Implementar y mantener los controles de ejecución del flujo de efectivo, presupuestal, de recepción de ingresos y del ejercicio de los recursos, conforme a la planeación de objetivos, así como coordinar y supervisar el registro contable de los movimientos de ingresos y egresos de acuerdo a las normas y principios de contabilidad.
+
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
+
+V. Solventar los requerimientos hechos a través de revisiones por parte de autoridades federales, estatales, y cualquier otra instancia revisora facultada en la materia;
+
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
+
+VI. Poner a consideración del Director General para su validación los anteproyectos del Presupuesto de Ingresos y de Egresos anual del SMDIF, de conformidad con las disposiciones legales y administrativas aplicables;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE MARZO DE 2022)</small>
+
+VII. Coordinar y supervisar el ejercicio del presupuesto de egresos autorizado al SMDIF y realizar todas las operaciones presupuestales necesarias con apego a las disposiciones legales y administrativas aplicables, debiendo informar de manera periódica al Subdirector General y Director General sobre dicho ejercicio;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE MARZO DE 2022)</small>
+
+VIII. Vigilar se lleven a cabo las medidas presupuestales autorizadas e instruidas por el Director General del SMDIF.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE MAYO DE 2022)</small>
 
 ###### ARTÍCULO 30.
 
-La Coordinación Operativa, es un componente del Sistema DIF cuya función será el promover, coordinar, desarrollar y vigilar la ejecución de los planes de trabajo de los Centros de Desarrollo Comunitario de la zona urbana y rural, así como los programas que en materia de asistencia social realice el Sistema DIF, para lo cual contará con el auxilio de los Jefes de los Departamentos de: Centros Asistenciales, Programas Alimentarios, Programas Sociales, Asistencia Médica, Trabajo Social y Visión Familia (sic).
+La Coordinación Operativa, es un componente del SMDIF cuya función será el promover, coordinar, desarrollar, gestionar recursos materiales y vigilar la ejecución de los planes de trabajo de los Centros de Desarrollo Comunitario de la zona urbana y rural, así como los programas que en materia de asistencia social realice el SMDIF, para lo cual contará con el auxilio de los encargados de los Departamentos de: Centros Asistenciales (Casas de Día y Centros de Atención Infantil) y Programas Alimentarios.
 
-Así mismo, se encargará de promover y trasladar los beneficios de la asistencia Social directamente ante el núcleo comunitario y los grupos vulnerables, coordinando, promoviendo, desarrollando y aplicando los programas a cargo de las Jefaturas de Área mencionadas anteriormente y los programas federales cuando sea autorizada su ejecución por parte del Ayuntamiento. Para efectos de lo anterior contará con las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE MARZO DE 2022)</small>
+
+Así mismo, se encargará de promover y trasladar los beneficios de la asistencia social directamente ante el núcleo comunitario y los grupos vulnerables, coordinando, promoviendo, desarrollando y aplicando los programas a cargo de los encargados de área mencionadas (sic) y los programas federales cuando sea autorizada su ejecución por parte del Ayuntamiento. Para efectos de lo anterior contará con las siguientes atribuciones:
 
 I. Coordinar la planeación e implementación de programas y proyectos operativos asistenciales, en beneficio de la ciudadanía, con el fin de asegurar el logro de los objetivos de la Institución y contribuir en la mejora del impacto social como consecuencia de las acciones asistenciales.
 
-II. Promover y supervisar la aplicación de los programas y servicios asistenciales que aplican las jefaturas de departamento de programas sociales y asistenciales en el Sistema DIF Municipal, para que los servicios asistenciales se brinden en todas las localidades del municipio con equidad, así como evaluar la gestión y el impacto de dichos programas y servicios, para conocer el avance y beneficio de la operación de programas, incentivar las áreas con óptimos resultados y corregir a través de nuevas estrategias los resultados deficientes.
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
 
-III. Coordinar apoyos y convenios de colaboración, tanto con instituciones públicas, con organizaciones de la sociedad civil, como con los Sistemas DIF municipales para incrementar la capacidad instalada y de servicios ofrecidos en instituciones asistenciales y valorar el grado de complementariedad de la asistencia social.
+II. Promover y supervisar la aplicación de los programas y servicios asistenciales que aplican los encargados de departamento de programas sociales y asistenciales en el SMDIF, para que los servicios asistenciales se brinden en todas las localidades del municipio con equidad, así como evaluar la gestión y el impacto de dichos programas y servicios, para conocer el avance y beneficio de la operación de programas, incentivar las áreas con óptimos resultados y corregir a través de nuevas estrategias los resultados deficientes.
 
-IV. Establecer contacto con dependencias Municipales, Estatales y Federales para llevar a cabo acciones conjuntas o programas especiales en coordinación con el Sistema Municipal DIF.
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
 
-V. Determinar conjuntamente con la Coordinación Administrativa, el presupuesto para los diferentes programas asistenciales de las áreas adscritas, para lograr el cumplimiento de los objetivos trazados, así como revisar y validar el gasto ejercido en los programas de asistencia social que se aplican por el Sistema DIF La Paz, a fin de conocer el origen y aplicación de los recursos y vigilar que se cumpla con el proceso conforme a la normatividad establecida.
+III. Coordinar apoyos y convenios de colaboración, tanto con instituciones públicas, con organizaciones de la sociedad civil, como con otros Sistemas DIF municipales, para incrementar la capacidad instalada y de servicios ofrecidos en instituciones asistenciales y valorar el grado de complementariedad de la asistencia social.
+
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
+
+IV. Establecer contacto con dependencias Municipales, Estatales y Federales para llevar a cabo acciones conjuntas o programas especiales en coordinación con el SMDIF.
+
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
+
+V. Determinar conjuntamente y gestionar recursos con la Coordinación Administrativa y aplicar el presupuesto para los diferentes programas asistenciales de las áreas adscritas, para lograr el cumplimiento de los objetivos trazados, así como revisar y validar el gasto ejercido en los programas de asistencia social que se aplican por el SMDIF, a fin de conocer el origen y aplicación de los recursos y vigilar que se cumpla con el proceso conforme a la normatividad establecida.
+
+> <small>[N. DE E. SE ADVIERTE QUE DEL ANÁLISIS A LA REFORMA DE 31 DE MARZO DE 2022 EL ANTERIOR SEGUNDO PÁRRAFO PASO A FORMAR PARTE DEL ACTUAL PRIMER PÁRRAFO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 31.
 
-La Coordinación de Fortalecimiento Institucional Desarrollar (sic) tiene como objetivo fortalecer el desarrollo organizacional, la operatividad y la capacidad financiera del Sistema DIF La Paz mediante la implementación de normas y procedimientos que regulen la organización, funcionamiento y desarrollo, promoviendo la calidad y mejora continua así como su vinculación con instituciones públicas y organismos no gubernamentales que favorezcan acciones de asistencia social dirigidos a la población más vulnerable, queda bajo su responsabilidad generar un diagnóstico y propuesta de indicadores de seguimiento que midan que los programas y acciones que se llevan a cabo en DIF La Paz, impacten de forma favorable la atención dirigida a grupos vulnerables y el cumplimiento de la normatividad oficial. Para efectos de lo anterior contará con las siguientes atribuciones:
+La Coordinación de Fortalecimiento Institucional tiene como objetivo fortalecer el desarrollo organizacional, la operatividad y la capacidad financiera del SMDIF La Paz mediante la implementación de normas y procedimientos que regulen la organización, funcionamiento y desarrollo, promoviendo la calidad y mejora continua así como su vinculación con instituciones públicas y organismos no gubernamentales que favorezcan acciones de asistencia social dirigidos a la población más vulnerable, queda bajo su responsabilidad generar un diagnóstico y propuesta de indicadores de seguimiento que midan que los programas y acciones que se llevan a cabo en SMDIF La Paz, impacten de forma favorable la atención dirigida a grupos vulnerables y el cumplimiento de la normatividad oficial. Para efectos de lo anterior contará con las siguientes atribuciones:
 
-Desarrollar el diagnóstico y propuesta de indicadores de seguimiento que midan que los programas y acciones que se llevan a cabo en DIF La Paz, impacten de forma favorable la atención dirigida a grupos vulnerables y el cumplimiento de la normatividad oficial.
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
 
-I. Analizar e integrar los resultados de la operación de los programas y áreas, informando a la Subdirección General de dichos resultados para medir los avances obtenidos de acuerdo a las metas registradas en el Plan Operativo Anual.
+I. Fungir como enlace con el Instituto Municipal de Planeación La Paz (IMPLAN), e informar periódicamente los resultados obtenidos por el SMDIF La Paz;
 
-II. Analizar, reportar e informar los resultados obtenidos para evaluar y aportar elementos que permitan una mejor toma de decisiones, validar propuestas de trabajo y fortalecer las áreas y programas que operan.
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2022)</small>
+
+II. Elaborar el diagnóstico, fichas técnicas e indicadores para realizar los proyectos que integrarán el Plan Municipal de Desarrollo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 31 DE MARZO DE 2022)</small>
+
+III. Brindar asesoría para integrar el Programa Anual de trabajo del SMDIF, dando seguimiento a los programas y acciones para medir e identificar los resultados que se llevan a cabo en SMDIF La Paz;
+
+> <small>(ADICIONADA, B.O. 31 DE MARZO DE 2022)</small>
+
+IV. Analizar, reportar e informar los resultados obtenidos para evaluar y aportar elementos que permitan una mejor toma de decisiones, validar propuestas de trabajo y fortalecer las áreas y programas que operan; y
+
+> <small>(ADICIONADA, B.O. 31 DE MARZO DE 2022)</small>
+
+V. Supervisar la operación de la Unidad de Transparencia del SMDIF La Paz para contar con la publicación y actualización de la información pública obligatoria, proactiva y focalizada de acuerdo con lo dispuesto por la Ley, los Lineamientos que emita el Sistema Nacional de Transparencia y las que establezca el Instituto de Transparencia y Acceso a la información de (sic) Pública del Estado de Baja California Sur.
+
+> <small>(ADICIONADO, B.O. 31 DE MARZO DE 2022)</small>
+
+ARTÍCULO 31 bis.- La Coordinación Médica y de Trabajo Social, es el área que coordina el otorgamiento de asistencia social y servicios médicos centrados en la promoción de la salud, prevención y atención de enfermedades agudas susceptibles de manejo ambulatorio, así como la ejecución de los programas asistenciales y preventivos de riesgos psicosociales, que están dirigidos a los grupos vulnerables que habitan el Municipio de La Paz. Para efectos de lo anterior contará con las siguientes atribuciones:
+
+I. Planear, fomentar, ejecutar y supervisar acciones para la promoción de la salud prioritariamente en la población vulnerable, personas en situación de pobreza extrema, comunidades rurales y zona urbana marginal del Municipio de La Paz;
+
+II. Ejecutar acciones para la prevención de enfermedades, detección oportuna de las mismas, así como para favorecer la salud infantil y vigilar su sano crecimiento;
+
+III. Coordinar con las autoridades competentes, profesionales de la salud y/o con asociaciones civiles, campañas para difundir acciones preventivas en la salud y bienestar psicosocial;
+
+IV. Planear y realizar jornadas comunitarias con enfoque de protección de la salud, detección oportuna de enfermedades y tratamiento primario ambulatorio de procesos agudos, orientación en procesos crónicos, así como para brindar servicios de asistencia social, con énfasis especial en las zonas marginadas, así como en comunidades de la zona rural del Municipio;
+
+V. Coordinar el acopio y la donación de medicamentos para población vulnerable a través de campañas de obtención con la sociedad civil; y
+
+VI. Coordinar el acopio y la donación de auxiliares para personas con discapacidad.
+
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 32.
 
-La Procuraduría de la Defensa del Menor y la Familia operará como un órgano técnico municipal especializado de protección jurídica a la integridad familiar, con prioridad de atención a los sujetos beneficiarios de asistencia social que señala el artículo 5° de este reglamento, a los que se les brindará (sic) los servicios de asistencia jurídica y psicológica, así como orientación y representación en los juicios de carácter familiar y tendrá las facultades que su mismo acuerdo de creación le asigne dentro de los objetivos del Sistema DIF La Paz y las que le otorguen las demás leyes. Para efectos de lo anterior contará con las siguientes atribuciones:
+La Procuraduría de la Defensa de Niñas, Niños, Adolescentes y de la Familia operará como un órgano técnico municipal, a los que se les brindará los servicios de asistencia jurídica y psicológica, así como orientación y representación en los juicios de carácter familiar y tendrá las facultades que su mismo acuerdo de creación le asigne dentro de los objetivos del SMDIF La Paz. Para efectos de lo anterior contará con las siguientes atribuciones:
 
-I. Procurar la protección integral de niñas, niña (sic) y adolescente que prevé la Constitución Federal, la Constitución Política del Estado, los tratados internacionales y demás disposiciones aplicables.
+I. Prestar asesoría y representación a Niñas, Niños y Adolescentes involucrados en procedimientos judiciales del orden familiar.
 
-II. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan al Ministerio Público, así como intervenir, con representación coadyuvante, en todos los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes del municipio La Paz, de conformidad con lo dispuesto en la Ley General y la Ley Estatal de protección de los Derechos de Niñas, Niños y Adolescentes y demás disposiciones aplicables.
+II. Fungir como conciliador y mediador en casos de conflicto familiar, cuando los derechos de Niñas, Niños y Adolescentes, hayan sido restringidos o vulnerados, conforme con el procedimiento previsto en la Ley aplicable. La conciliación no procederá en casos de violencia.
 
-III. Solicitar al Ministerio Público competente la imposición de medidas urgentes de protección especial, cuando ocurra un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes.
+III. Llevar a cabo las indagatorias para dar seguimiento por medio del trabajo social a las denuncias recibidas respecto a cualquier situación que ponga en estado de riesgo a Niñas, Niños y Adolescentes; lo anterior para ser canalizado a la instancia correspondiente.
 
-IV. Fungir como conciliador y mediador en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme al procedimiento previsto en la ley aplicable. La conciliación no procederá en casos de violencia.
+IV. Intervención psicológica en los casos que sea necesario con la finalidad de obtener elementos, que permitan discernir el procedimiento a realizar, además coadyuvar a los jueces familiares en casos de ser requeridos.
 
-V. Llevar a cabo las indagatorias para dar seguimiento a las denuncias recibidas respecto de cualquier situación que pongan en estado de riesgo a niñas, niños y adolescentes.
+V. Brindar apoyo de terapia psicológica a los ciudadanos que así lo requieran.
 
-VI. Presentar la denuncia ante el Ministerio Público de los hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes.
+VI. Las demás atribuciones jurídicas o administrativas que le señale o encomiende la Dirección General del SMDIF La Paz.
 
-VII. Las demás atribuciones jurídicas o administrativas que le señale o le encomiende la Dirección General del Sistema DIF La Paz.
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 33.
 
-Además del Director General, Subdirector General, Coordinadores y Procurador de la Defensa del Menor y la Familia el Sistema DIF Municipal contará con el personal técnico, administrativo y de intendencia que sea necesario para el cumplimiento de sus objetivos, de conformidad con la aprobación de la plantilla de personal que deberá ser autorizada por la Junta de Gobierno.
+Además del Director General, Subdirector General, Coordinadores y Procurador de la Defensa de Niñas, Niños, Adolescentes y de la Familia, el SMDIF contará con el personal técnico, administrativo y de intendencia que sea necesario para el cumplimiento de sus objetivos, de conformidad con la aprobación de la plantilla de personal que deberá ser autorizada por la Junta de Gobierno.
+
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 34.
 
-Las funciones específicas de la Subdirección General, Coordinaciones y de los demás puestos de los servidores públicos, empleados y trabajadores del DIF Municipal, se describirán en los Manuales de Funciones, Procedimientos y de Descripción de Puestos que apruebe la Junta de Gobierno.
+Las funciones específicas de la Subdirección General, Coordinaciones y Procuraduría de la Defensa de Niñas, Niños, Adolescentes y de la de los demás puestos de los servidores públicos, empleados y trabajadores del SMDIF, se describirán en los Manuales de Funciones, Procedimientos y de Descripción de Puestos que apruebe la Junta de Gobierno.
 
 ### CAPÍTULO SÉPTIMO. DEL PATRIMONIO DEL SISTEMA DIF MUNICIPAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 35.
 
-El patrimonio del Sistema DIF Municipal se integrará con:
+El patrimonio del SMDIF se integrará con:
 
 I. Los derechos y bienes muebles e inmuebles que actualmente son de su dominio;
 
@@ -533,9 +713,11 @@ VI. En general, los demás bienes, derechos e ingresos que obtenga por cualquier
 
 ### CAPÍTULO OCTAVO. DE LA VINCULACIÓN INSTITUCIONAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 36.
 
-Con el objeto de ampliar la cobertura de las acciones municipales en materia de asistencia social, incluyendo los servicios de salud, el Ayuntamiento de La Paz a través del Sistema DIF Municipal promoverá la celebración de convenios entre este y los Gobiernos Federal y Estatal a fin de:
+Con el objeto de ampliar la cobertura de las acciones municipales en materia de asistencia social, incluyendo los servicios de salud, el Ayuntamiento de La Paz a través del SMDIF promoverá la celebración de conventos entre este y los Gobiernos Federal y Estatal a fin de;
 
 I.- Establecer programas conjuntos.
 
@@ -547,27 +729,37 @@ IV.- Coordinar y promover programas para el establecimiento y apoyo para la asis
 
 V.- Fortalecer el patrimonio del propio Sistema DIF Municipal.
 
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 37.
 
-El Sistema DIF Municipal en la medida de sus posibilidades y capacidades, apoyará los programas de los sistemas nacionales y estales para el Desarrollo Integral de la Familia, debiendo suscribir ambos, los convenios de colaboración y apoyo que sean necesarios.
+El SMDIF en la medida de sus posibilidades y capacidades, apoyará los programas de los sistemas nacionales y estatales para el Desarrollo Integral de la Familia, debiendo suscribir ambos, los convenios de colaboración y apoyo que sean necesarios.
+
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 38.
 
-El Ayuntamiento de La Paz a través del Sistema DIF Municipal podrá celebrar convenios o contratos para la concertación de acciones de asistencia social con los sectores social y privado, con el objeto de coordinar su participación social que coadyuven a la realización de los objetivos del DIF Municipal.
+El Ayuntamiento de La Paz a través del SMDIF podrá celebrar convenios o contratos para la concertación de acciones de asistencia social con los sectores social y privado, con el objeto de coordinar su participación social que coadyuve a la realización de los objetivos del SMDIF.
 
 ### CAPÍTULO NOVENO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2022)</small>
+
 ###### ARTÍCULO 39.
 
-Las relaciones laborales entre Sistema DIF Municipal y sus trabajadores se sujetarán a lo establecido en la Ley de los trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur, así como los reglamentos relativos para los Servidores Públicos y empleados al Servicio del Ayuntamiento de La Paz y organismos descentralizados.
+Las relaciones laborales entre el SMDIF y sus trabajadores se sujetarán a lo establecido en la Ley de los trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur, así como los reglamentos relativos para los Servidores Públicos y empleados al Servicio del Ayuntamiento de La Paz y organismos descentralizados.
+
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 40.
 
-Los trabajadores del Sistema DIF Municipal estarán incorporados al régimen de seguridad social que corresponda a los trabajadores al Servicio del Gobierno Municipal.
+Los trabajadores del SMDIF estarán incorporados al régimen de seguridad social que corresponda a los trabajadores al Servicio del Gobierno Municipal.
+
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2022)</small>
 
 ###### ARTÍCULO 41.
 
-Para lo no previsto en este estatuto y con el objeto de que el DIF Municipal cumpla debidamente con sus funciones, se estará a lo que disponga la Ley de Asistencia Social para el Estado de Baja California Sur, la Junta de Gobierno o el Ayuntamiento.
+Para lo no previsto en este estatuto y con el objeto de que el SMDIF cumpla debidamente con sus funciones, se estará a lo que disponga la Ley de Asistencia Social para el Estado de Baja California Sur, la Junta de Gobierno o el Ayuntamiento.
 
 ## TRANSITORIOS
 
@@ -666,3 +858,13 @@ PROF. JULIO CERVANDO HIGUERA MÁRQUEZ
 V. REGIDOR
 
 SEGUNDO SECRETARIO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 31 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DICTAMEN (SIC) EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR”.]
+
+PRIMERO: El presente dictamen entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: Se instruye al C. Secretario General del H. XVII Ayuntamiento de La Paz, para que por su conducto envíe el presente dictamen para su publicación en el boletín oficial del Gobierno del Estado.
