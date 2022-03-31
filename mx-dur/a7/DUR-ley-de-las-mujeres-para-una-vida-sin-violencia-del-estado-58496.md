@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-las-mujeres-para-una-vida-sin-violencia-del-estado-58496
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-30"
-last_updated: "2021-06-17"
+last_updated: "2022-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2007.
 
@@ -247,13 +247,17 @@ XV. Los demás que establezcan esta Ley y otras disposiciones legales aplicables
 
 ### CAPÍTULO II. DE LOS TIPOS Y ÁMBITOS DE LA VIOLENCIA CONTRA LAS MUJERES
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE MARZO DE 2022)</small>
 
 ###### Artículo 6.
 
 Los tipos de violencia contra las mujeres son:
 
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
 I. Violencia Económica: Toda acción u omisión del agresor que afecta la independencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso o recursos económicos destinados a satisfacer las necesidades de la víctima y sus hijos; así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
 II. Violencia Física: Cualquier acto u omisión no accidental que cause daño a la víctima, usando la fuerza física o mediante el uso de objetos, armas o sustancias que puedan provocar una lesión interna, externa o ambas e incluso la muerte;
 
@@ -261,15 +265,23 @@ II. Violencia Física: Cualquier acto u omisión no accidental que cause daño a
 
 III. Violencia Obstétrica: Cualquier acto o trato deshumanizado que ejerza el sistema de salud o cualquier agente ajeno que asista o incida directamente a las mujeres en la atención médica que se les ofrece durante el embarazo, el parto y puerperio, tales como omitir atención oportuna y eficaz de las urgencias obstétricas, obstaculizar el apego precoz del niño con la madre sin causa médica justificada, alterar el proceso natural de parto de bajo riesgo mediante el uso de técnicas de aceleración, y practicar el parto vía cesárea existiendo condiciones para el parto natural, estas dos últimas, sin obtener el consentimiento informado de la mujer;
 
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
 IV. Violencia Patrimonial: Toda conducta de acción u omisión del agresor que afecta la independencia patrimonial de la víctima, que se manifiesta mediante la transformación, destrucción, sustracción, retención o distracción de bienes comunes o propios de la víctima, así como de valores, derechos patrimoniales, objetos o documentos personales;
 
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
 V. Violencia Psicológica: Cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
 VI. Violencia Sexual: Todo acto que atente contra la libertad, integridad y seguridad sexual de la víctima, así como contra su dignidad al denigrarla y concebirla como un objeto;
 
 > <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 VII. Violencia de Género: Es todo tipo de violencia física o psicológica ejercida contra la mujer en razón de su género, que impacta de manera negativa su identidad y bienestar social, físico o psicológico, así como de las expectativas sobre el rol que ella deba cumplir en una sociedad o cultura.
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
 VIII. Hostigamiento: Ejercicio del poder en una relación de subordinación real de la víctima frente al agresor en el ámbito laboral, que se expresa en conductas verbales, físicas o ambas;
 
@@ -287,13 +299,21 @@ Se entenderá que las acciones u omisiones se basan en elementos de género, cua
 
 XI. Violencia simbólica: la que se ejerza a través de patrones estereotipados, mensajes, valores, íconos o signos, transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad;
 
-> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
 
-XII. Violencia Mediática: Toda aquella publicación o difusión de mensajes e imágenes a través de cualquier medio masivo de comunicación, que de manera directa o indirecta promueva la explotación de mujeres o sus imágenes, injurie, difame, discrimine, deshonre, humille o atente contra la dignidad de las mujeres;
+XII. Violencia mediática es todo acto a través de cualquier medio de comunicación, que de manera directa o indirecta promueva estereotipos sexistas, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2019)</small>
+La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atenta contra la igualdad.
 
-XIII. Violencia digital: Es cualquier acto que se presenta a través de las Tecnologías de la Información y la Comunicación (TIC), plataformas de internet, redes sociales o correo electrónico, o cualquier otro espacio digitalizado que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño o sufrimiento psicológico, físico, económico o sexual tanto en el ámbito privado como en el público; así como daño moral a ellas y/o su familia. Se manifiesta mediante el acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras verdaderas o alteradas.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
+
+XIII. Violencia digital es toda acción dolosa realizada mediante el uso de tecnologías de la información y la comunicación, por la que se exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta imágenes, audios o videos reales o simulados de contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación o sin su autorización y que le cause daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia.
+
+Así como aquellos actos dolosos que causen daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y la comunicación.
+
+Se entiende por Tecnologías de la Información y la Comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos.
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
 XIV. Cualquier otra acción, conducta u omisión que provoque violencia en cualquiera de sus formas contra las mujeres.
 
@@ -532,6 +552,18 @@ V. Principio de accesibilidad: Se deberá articular un procedimiento sencillo pa
 VI. Principio de integralidad: El otorgamiento de la medida a favor de la víctima deberá generarse en un solo acto y de forma automática, y
 
 VII. Principio pro persona: Para interpretar lo referente al otorgamiento de las órdenes de protección, en caso de duda, con relación a la situación de violencia, se estará a lo más favorable para la víctima, tratándose de niñas siempre se garantizará que se cumpla en todas las decisiones que se tomen respecto de las órdenes de protección. De igual forma, cuando las determinaciones que se tomen respecto de una mujer víctima de violencia pudieran impactar en los derechos de las hijas o hijos menores de 18 años de edad.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2022)</small>
+
+###### Artículo 19 Ter.
+
+Tratándose de violencia digital o mediática para garantizar la integridad de la víctima, la o el Ministerio Público, la jueza o el juez, ordenarán de manera inmediata, las medidas de protección necesarias, ordenando vía electrónica o mediante escrito a las empresas de plataformas digitales, de medios de comunicación, redes sociales o páginas electrónicas, personas físicas o morales, la interrupción, bloqueo, destrucción, o eliminación de imágenes, audios o videos relacionados con la investigación previa satisfacción de los requisitos de Ley.
+
+En este caso se deberá identificar plenamente al proveedor de servicios en línea a cargo de la administración del sistema informático, sitio o plataforma de Internet en donde se encuentre alojado el contenido y la localización precisa del contenido en Internet, señalando el Localizador Uniforme de Recursos.
+
+La autoridad que ordene las medidas de protección contempladas en este artículo deberá solicitar el resguardo y conservación lícita e idónea del contenido que se denunció de acuerdo a las características del mismo.
+
+La violencia digital será sancionada en la forma y términos que establezca la legislación penal vigente.
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2021)</small>
 
@@ -1419,7 +1451,7 @@ XVIII. Las demás que le confieran esta Ley u otros ordenamientos aplicables.
 
 #### Sección Segunda. De la Secretaría General de Gobierno
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 31 DE MARZO DE 2022)</small>
 
 ###### Artículo 40.
 
@@ -1449,17 +1481,31 @@ V. Realizar un diagnóstico y estudios complementarios de manera periódica con 
 
 VI. Difundir a través de los medios los resultados del sistema y del programa a los que se refiere esta Ley;
 
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
 VII. Colaborar en la elaboración del Programa Estatal, en coordinación con las demás autoridades integrantes del Sistema Estatal;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
 VIII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema Estatal y del Programa Estatal;
 
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
 IX. Aplicar, ejecutar y dar seguimiento a las acciones del Programa Estatal, en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
 X. Evaluar la eficacia del Programa Estatal y rediseñar las acciones y medidas, para avanzar en la eliminación de la violencia de género;
 
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
 XI. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
 XII. Fomentar la participación ciudadana para prevenir, atender y erradicar la violencia de género;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
 XIII. Supervisar y evaluar el funcionamiento del Sistema Estatal; y
 
@@ -1483,13 +1529,17 @@ XVII. Promover la implementación de plataformas y redes de comunicación e info
 
 XVIII. Coordinar la operación de infraestructura segura y de vigilancia oportuna para la atención de violencia sexual y agresiones hacia las mujeres;
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
 
-XIX. Establecer protocolos de respuesta inmediata ante denuncias y casos de violencia y acoso sexual dentro del transporte público; y
+XIX. Establecer protocolos de respuesta inmediata ante denuncias y casos de violencia y acoso sexual dentro del transporte público;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MARZO DE 2022)</small>
 
-XX. Las demás previstas para el cumplimiento de la presente Ley.
+XX. La difusión, fomento, respeto y protección de todos los derechos humanos de las mujeres privadas de la libertad, a través de las autoridades penitenciarias competentes en el Estado; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA], P.O. 31 DE MARZO DE 2022)</small>
+
+XXI. Las demás previstas para el cumplimiento de la presente Ley.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2021)</small>
 
@@ -1911,11 +1961,15 @@ XV. Prevenir la misoginia, para evitar que las mujeres sean víctimas de actos v
 
 XVI. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
 
-> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
 
-XVII. Colaborar con la Secretaría del Trabajo y Previsión Social para la elaboración e implementación del protocolo para prevenir la discriminación por razones de género y atención de casos de violencia y acoso u hostigamiento sexual; y
+XVII. Colaborar con la Secretaría del Trabajo y Previsión Social para la elaboración e implementación del protocolo para prevenir la discriminación por razones de género y atención de casos de violencia y acoso u hostigamiento sexual;
 
-XVIII. Las demás previstas para el cumplimiento de la Ley.
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2022)</small>
+
+XVIII. Recabar y difundir los criterios imperativos de normativa estatal, nacional o internacional aplicable, emitidos por las instancias judiciales y organismos públicos, además de las resoluciones jurisdiccionales de relevancia en materia de derechos de las mujeres, que contribuyan a erradicar la violencia en contra de éstas en cualquiera de sus formas, para que sean utilizadas como referentes en la creación de políticas públicas y de concientización de la sociedad en general; y
+
+XIX.- Las demás previstas para el cumplimiento de la Ley.
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -2306,3 +2360,39 @@ P.O. 17 DE JUNIO DE 2021.
 PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 31 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 111.- QUE CONTIENE ADICIÓN DE UN ARTÍCULO 19 TER A LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA".]
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 112.- QUE CONTIENE REFORMA AL ARTÍCULO 40 DE LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA”.]
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 113.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA”.]
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
