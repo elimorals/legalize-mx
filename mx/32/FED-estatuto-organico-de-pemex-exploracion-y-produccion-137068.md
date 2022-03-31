@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pemex-exploracion-y-produccion-137068"
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-06-28"
-last_updated: "2019-12-23"
+last_updated: "2022-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137068&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2019-06-24"
 ---
 # ESTATUTO ORGANICO DE PEMEX EXPLORACION Y PRODUCCION
 
-> <small>[N. DE E. LAS MODIFICACIONES APARECEN EN LAS DIRECCIONES ELECTRÓNICAS www.dof.gob.mx/2019/PEMEX/mod_eopep_201912.pdf Y www.pemex.com/acerca/marco_normativo/Documents/estatutos/mod_eopep_201912.pdf]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE PEMEX EXPLORACIÓN Y PRODUCCIÓN, PUBLICADO EN EL D.O.F. DE 31 DE MARZO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 ESTATUTO ORGÁNICO DE PEMEX EXPLORACIÓN Y PRODUCCIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MARZO DE 2022 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de junio de 2019.
 
@@ -2974,3 +2974,41 @@ www.pemex.com/acerca/marco_normativo/Documents/estatutos/mod_eopep_201912.pdf
 www.dof.gob.mx/2019/PEMEX/mod_eopep_201912.pdf
 
 Ciudad de México, a 13 de diciembre de 2019.- La Directora Jurídica, Luz María Zarza Delgado.- Rúbrica.
+
+D.O.F. 31 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE PEMEX EXPLORACIÓN Y PRODUCCIÓN”.]
+
+PRIMERO. El presente Estatuto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, publicado en el Diario Oficial de la Federación el día 28 de junio de 2019.
+
+TERCERO. La modificación a la estructura orgánica básica autorizada se remitirá, para conocimiento, a la Secretaría de Hacienda y Crédito Público, en términos de la Ley de Petróleos Mexicanos.
+
+CUARTO. Sin perjuicio del cambio de denominaciones y de la reestructura organizacional de las áreas a que se refiere el presente Estatuto, los poderes, mandatos y, en general, las representaciones otorgadas y las facultades conferidas por los entonces Organismos Subsidiarios Pemex-Exploración y Producción, Pemex-Refinación, Pemex-Gas y Petroquímica Básica y Pemex-Petroquímica, y por la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, con anterioridad a la entrada en vigor de este Estatuto, subsistirán en sus términos hasta en tanto no sean modificados o revocados expresamente. De ser necesario, las áreas correspondientes de Pemex Exploración y Producción deberán realizar las gestiones necesarias ante la Dirección Jurídica para el otorgamiento y revocación de los poderes conducentes.
+
+QUINTO. Los contratos, convenios y actos jurídicos vigentes con anterioridad a la entrada en vigor del presente Estatuto, se respetarán en los términos pactados, salvo que se convenga lo contrario. Tratándose de los procedimientos de contratación que se encuentren en trámite, se concluirán por las áreas competentes de Petróleos Mexicanos con el apoyo y participación en lo que corresponda de las áreas de Pemex Exploración y Producción.
+
+SEXTO. Los lineamientos, políticas, bases, criterios y demás disposiciones emitidas con anterioridad a la entrada en vigor del presente Estatuto, por cualquier órgano o área de Petróleos Mexicanos, sus Empresas Productivas Subsidiarias, así como los entonces organismos subsidiarios Pemex-Exploración y Producción, Pemex-Refinación, Pemex-Gas y Petroquímica Básica y Pemex-Petroquímica, continuarán siendo aplicables en lo que no se opongan a la Ley de Petróleos Mexicanos, su Reglamento, al presente Estatuto, y demás disposiciones aplicables, hasta en tanto se determine su modificación o se dejen sin efecto.
+
+Dentro de los 180 días naturales contados a partir de la entrada en vigor del presente Estatuto, el Director General de Pemex Exploración y Producción, a través de las áreas de la Empresa Productiva Subsidiaria, identificará, analizará, y clasificará la normatividad vigente a que se refiere el párrafo anterior, que se encuentre relacionada con el objeto de Pemex Exploración y Producción y las funciones de las áreas de su estructura orgánica básica, susceptible de quedar sin efecto o ser modificada y deberá considerarla como normatividad técnica conforme a la definición que le proporcione la Dirección Jurídica; adicionalmente, se deberá identificar la normatividad técnica que sea necesario emitir, incluyendo, en su caso, aquella relacionada con el Modelo Operativo Basado en Administración por Procesos, con la finalidad de que en coordinación con la Dirección Jurídica, se analice y programe su elaboración.
+
+El plazo podrá prorrogarse por otro periodo igual, previa justificación que realice el Director General de Pemex Exploración y Producción a la Dirección Jurídica.
+
+SÉPTIMO. Para efectos de la integración de los grupos de trabajo de Pemex Exploración y Producción por las áreas que desaparecen o cambian de denominación por la entrada en vigor del presente Estatuto, la asumirán aquéllas a las que se les atribuyen las funciones por virtud de este Estatuto, sin perjuicio de que, con posterioridad, se realicen los nombramientos o designaciones respectivos y se modifique la normatividad aplicable en cada caso.
+
+OCTAVO. Las referencias que se hagan en otros instrumentos a las áreas que desaparecen o cuya denominación se modifica, se entenderán hechas a las áreas a las que se atribuyen las funciones conforme al presente Estatuto.
+
+Las áreas de Pemex Exploración y Producción, en su caso, realizarán y/o formalizarán, según corresponda, cualquier tipo de acto, actividad o documento necesarios para los traspasos, transferencias, sustituciones y demás aspectos que correspondan.
+
+Lo anterior sin perjuicio de que, en todo momento, los titulares de las áreas de Pemex Exploración y Producción deberán establecer la colaboración y coordinación que corresponda con las áreas que resulten competentes, para garantizar, en aquellos casos que lo ameriten, la continuidad en la operación y la atención o resolución de los asuntos o servicios a su cargo.
+
+NOVENO. Los asuntos, procedimientos, trámites o instrumentos de cualquier naturaleza que se hayan iniciado por las áreas que desaparecen o cambian de denominación, deberán continuarse hasta su conclusión por las áreas que asumen las funciones conforme a este Estatuto.
+
+DÉCIMO. Los titulares de las áreas de Pemex Exploración y Producción deberán atender en su caso, a la definición de los casos, criterios, formatos y plazos en los que deba realizarse la entrega de recursos, información y documentación, derivado de la reestructura organizacional de las áreas de la estructura orgánica básica de Pemex Exploración y Producción conforme a la normatividad aplicable, así como participar en los actos de entrega y recepción, que procedan, con motivo de la entrada en vigor del presente Estatuto.
+
+DÉCIMO PRIMERO. El Director General de Pemex Exploración y Producción promoverá e impartirá instrucciones para solicitar, impulsar, implementar, ejecutar, aplicar, cumplir, dar seguimiento e informar sobre las propuestas, estrategias, acuerdos, mecanismos, planes, programas, proyectos, inversiones, sistemas, directrices, criterios, iniciativas o cualquier acto determinado por el Director General de Petróleos Mexicanos por sí o a través de sus direcciones corporativas, así como la Unidad de Control Interno Institucional.
+
+DÉCIMO SEGUNDO. El Director General de Pemex Exploración y Producción deberá establecer las condiciones e impartir las instrucciones que permitan la continuidad operativa de todas las áreas de Pemex Exploración y Producción a la entrada en vigor del presente Estatuto.
+
+El presente Estatuto Orgánico de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, fue aprobado por el Consejo de Administración de Pemex Exploración y Producción, con fundamento en el artículo 12, fracción VI, del Acuerdo de Creación de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, en sesión 73 Extraordinaria celebrada el día 28 de marzo de 2022, mediante acuerdo número CAEPS-PEP-019/2022.
