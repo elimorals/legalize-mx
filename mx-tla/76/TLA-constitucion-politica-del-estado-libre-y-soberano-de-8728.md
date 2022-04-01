@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2021-09-30"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "TLA"
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 1 DE ABRIL DE 2022.]</small>
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -1161,9 +1163,17 @@ XXV. Instruir al organismo público local electoral, para que proceda a efectuar
 
 XXVI. Nombrar al Procurador General de Justicia del Estado;
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE MAYO DE 2021) (F. DE E., P.O. 1 DE ABRIL DE 2022)
 
 XXVII. Nombrar, evaluar y, en su caso, ratificar a los magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, sujetándose a los términos que establezca esta Constitución y la Ley Orgánica del Poder Legislativo del Estado, salvaguardando en los procesos, los principios de excelencia, objetividad, imparcialidad, profesionalismo, acceso a la información, publicidad, equidad, paridad de género e independencia del Poder Judicial del Estado.
+
+(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 18 DE JULIO DE 2017) (F. DE E., P.O. 1 DE ABRIL DE 2022)
+
+En el procedimiento referido en el párrafo que antecede se deberán observar las bases siguientes:
+
+a) Una vez cumplido el plazo para el que fueron designados, los Magistrados podrán ser ratificados por un periodo igual. El Congreso con la aprobación de las dos terceras partes del total de los diputados que integren la Legislatura y previa opinión del Consejo de la Judicatura sobre el desempeño del Magistrado correspondiente, resolverá sobre la ratificación o remoción, con anticipación de noventa días naturales a la fecha en que expire el plazo de ejercicio;
+
+b) En caso de que exista la necesidad de designar a un nuevo o nuevos Magistrados, se atenderá lo dispuesto en los artículos 83, 84 y 84 Bis de esta Constitución y en la Ley Orgánica del Poder Legislativo del Estado;
 
 XXVIII. Elegir a los miembros del Consejo Consultivo de la Comisión Estatal de Derechos Humanos;
 
