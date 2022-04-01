@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2022-03-01"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2022.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -685,11 +685,13 @@ V. Establecer con base en las propuestas que haga el Comité de Administración 
 
 VI. Participar en la coordinación de los trabajos de las secretarías de Servicios Parlamentarios y de Administración y Finanzas, para su buen funcionamiento;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2022)</small>
 
-VII. Proponer al Pleno las ternas para la designación de Secretario de Servicios Parlamentarios, Secretario de Administración y Finanzas, Contralor Interno, Director del Instituto de Investigaciones y Estudios Legislativos, Coordinador de Comunicación Social, Coordinador de Atención Ciudadana y Gestoría, Coordinador de Transparencia y Acceso a la Información Pública y Coordinador de Editorial, Biblioteca y Archivo;
+VII. Proponer al Pleno las ternas para la designación de las personas titulares de la Secretaría de Servicios Parlamentarios, Secretaría de Administración y Finanzas, Contraloría Interna, Coordinación de Comunicación Social, Coordinación de Atención Ciudadana y Gestoría, Coordinación de Transparencia y Acceso a la Información Pública, Coordinación de Editorial Biblioteca y Archivo; y, Dirección del Instituto de Investigaciones y Estudios Legislativos; atendiendo el principio de paridad de género;
 
-VIII. Proponer al Pleno la remoción de los funcionarios a que se refiere la fracción anterior, cuando concurran causas previstas en la ley;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2022)</small>
+
+VIII. Proponer al Pleno la remoción y sustitución de los funcionarios a que se refiere la fracción anterior, cuando concurran causas previstas en la ley, atendiendo el principio de paridad de género;
 
 IX. Proponer al Pleno, a los diputados que habrán de integrar la Mesa, las Comisiones y Comités;
 
@@ -1301,9 +1303,11 @@ VI. Promover las medidas de acción positiva que garantice la igualdad sustantiv
 
 VII. Apoyar, cuando se le solicite, a las demás Comisiones en lo relativo a evitar el lenguaje sexista en los proyectos legislativos;
 
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2022)</small>
 
 VIII. Dictaminar, en unión con las comisiones legislativas respectivas, sobre la Legislación, así como su reforma, modificación o adición, que se relacione con la problemática de género;
+
+Evaluar y dictaminar, en la materia de su competencia y de manera prioritaria los delitos en materia de violencia de género, el informe anual que rinda el Fiscal General del Estado. Además, participará en la comparecencia del titular de la misma;
 
 IX. La atención de asuntos relativos a la discriminación o maltrato de la mujer, por razón de raza, edad, ideología política, creencia religiosa, preferencias o situación socioeconómica, entre otros;
 
@@ -4300,3 +4304,23 @@ P.O. 1 DE MARZO DE 2022.
 Primero. El presente Decreto entrará en vigor al momento de su aprobación. La Junta de Coordinación Política de este Congreso del Estado, a través de las áreas correspondientes, pondrá a disposición de las presidencias respectivas los programas y herramientas de comunicación necesarias para hacer posible la participación virtual de las diputadas y diputados en sesiones de Pleno, comisiones o comités, convocadas como presenciales.
 
 Segundo. Dése cuenta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 1 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 114 SE REFORMAN LAS FRACCIONES VII Y VIII DEL ARTÍCULO 47 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor al momento de su aprobación, conforme a lo dispuesto en el artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+Segundo. Quedando a salvo los derechos por el tiempo que fueron designadas las personas titulares en la Septuagésima Quinta Legislatura en la Secretaría de Servicios Parlamentarios, Secretaría de Administración y Finanzas, Contraloría Interna, Coordinación de Comunicación Social, Coordinación de Atención Ciudadana y Gestoría, Coordinación de Transparencia y Acceso a la Información Pública, Coordinación de Editorial Biblioteca y Archivo; y, Dirección del Instituto de Investigaciones y Estudios Legislativos.
+
+Tercero. Dese cuenta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 1 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 145 POR EL QUE “SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 77 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al momento de su aprobación, conforme a lo dispuesto en el artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+Segundo. En lo referente al Tercer Informe Anual de Resultados y Avances al Plan de Persecución de Delitos, deberá aplicarse lo establecido en el presente Decreto. Para lo cual, la Comisión de Igualdad Sustantiva y de Género, solicitará el turno respectivo.
+
+Tercero. Dese cuenta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
