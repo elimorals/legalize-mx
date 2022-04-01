@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-inclusion-de-las-personas-en-situacion-de-149005"
 country: "mx"
 rank: "ley"
 publication_date: "2021-04-14"
-last_updated: "2021-04-14"
+last_updated: "2022-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY PARA LA INCLUSION DE LAS PERSONAS EN SITUACION DE DISCAPACIDAD DEL ESTADO DE MEXICO
 
-(NOTA: EL 7 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 84/2021, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 258, POR EL QUE SE EXPIDE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE MÉXICO, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL CATORCE DE ABRIL DE DOS MIL VEINTIUNO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE MÉXICO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY PARA LA INCLUSION DE LAS PERSONAS EN SITUACION DE DISCAPACIDAD DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE ABRIL DE 2022.
 
 Ley publicada en la Sección Primera del Número 68 de la Gaceta del Gobierno del Estado de México, el miércoles 14 de abril de 2021.
 
@@ -743,6 +743,16 @@ II. Que la adecuación de las instalaciones públicas sea progresiva, y
 
 III. Cumplir con las demás disposiciones jurídicas que sean aplicables, al igual que las que determine la Junta de Gobierno.
 
+(NOTA: EL 7 DE JUNIO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 84/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE MÉXICO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.G. 1 DE ABRIL DE 2022)</small>
+
+###### Artículo 42 Bis.
+
+Los edificios e instalaciones públicas deberán contar con señalizaciones en lenguaje braille, las cuales deberán incluir la denominación de la institución o unidad administrativa, el nombre de la persona titular de la misma, sus atribuciones y funciones, la dirección, y los números y correos electrónicos de contacto.
+
+Si el edificio contara con más dependencias dentro del mismo, cada una deberá contar con los mismos datos de identificación en la entrada de cada una de ellas.
+
 ### CAPÍTULO VIII. ACCIONES EN MATERIA DE CULTURA, RECREACIÓN Y DEPORTE
 
 ###### Artículo 43.
@@ -870,3 +880,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MTRO. ERNESTO NEMER ÁLVAREZ
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 1 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 45.- POR EL QUE SE ADICIONA EL ARTÍCULO 42 BIS A LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE MÉXICO Y SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 18.47 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor a los 120 días hábiles siguiente (sic) a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Lo previsto en el presente Decreto se cumplirá de manera gradual y progresiva de conformidad con la disponibilidad presupuestal.
