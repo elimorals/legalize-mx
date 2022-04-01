@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2022-03-10"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE ABRIL DE 2022.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -14697,6 +14697,12 @@ VII. La señalización para la identificación de los espacios destinados a pers
 
 VIII. Los diferentes tipos de señales deben ser fijados en muros o lugares no abatibles y a una altura no mayor de ciento ochenta centímetros.
 
+> <small>(ADICIONADA, G.G. 1 DE ABRIL DE 2022)</small>
+
+IX. Los edificios e instalaciones públicas deberán contar con señalizaciones en lenguaje braille, las cuales deberán incluir la denominación de la institución o unidad administrativa, el nombre de la persona titular de la misma, sus atribuciones y funciones, la dirección, y los números y correos electrónicos de contacto.
+
+Si dentro del edificio se encontraran más dependencias y órganos, deberán contar con el mismo tipo de tarjetas de apoyo.
+
 Las vías públicas contarán con rampas y guías en las banquetas para identificar el límite de la guarnición.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
@@ -18314,3 +18320,13 @@ SEXTO. El presente Decreto, no genera gasto adicional al Presupuesto del Poder E
 SÉPTIMO. La Comisión Estatal de Mejora Regulatoria emitirá el manual de funcionamiento del Expediente para Trámites y Servicios dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Decreto.
 
 OCTAVO. La Dirección General del Sistema Estatal de Informática emitirá los Lineamientos correspondientes al mantenimiento, almacenamiento, manejo y resguardo de la información y documentación contenida en el Expediente para Trámites y Servicios dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+G.G. 1 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 45.- POR EL QUE SE ADICIONA EL ARTÍCULO 42 BIS A LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE MÉXICO Y SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 18.47 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor a los 120 días hábiles siguiente (sic) a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Lo previsto en el presente Decreto se cumplirá de manera gradual y progresiva de conformidad con la disponibilidad presupuestal.
