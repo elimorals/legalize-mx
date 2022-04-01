@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-centro-de-convivencias-familiares-de-103784"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-11-14"
-last_updated: "2019-06-14"
+last_updated: "2022-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO DEL CENTRO DE CONVIVENCIAS FAMILIARES DE QUERETARO DEL PODER JUDICIAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE LOS CENTROS DE CONVIVENCIAS FAMILIARES DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 1 DE ABRIL DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL CENTRO DE CONVIVENCIAS FAMILIARES DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2022 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 14 de noviembre de 2014.
 
@@ -526,3 +528,13 @@ P.O. 14 DE JUNIO DE 2019.
 PRIMERO. Publíquese este reglamento en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
 
 SEGUNDO. Las modificaciones a este Reglamento iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 1 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LOS CENTROS DE CONVIVENCIAS FAMILIARES DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se ordena publicar en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" y en la página oficial del Poder Judicial del Estado de Querétaro.
+
+TERCERO. Se abroga el Reglamento del Centro de Convivencias Familiares de Querétaro, publicado el 14 de noviembre de 2014 en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
