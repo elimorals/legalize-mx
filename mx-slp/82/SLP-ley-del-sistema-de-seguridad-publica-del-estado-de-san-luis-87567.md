@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2021-12-27"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -927,11 +927,13 @@ El personal de confianza de las unidades administrativas, incluso sus titulares,
 
 Todos los servidores públicos de las instituciones de seguridad pública se considerarán trabajadores de confianza, los efectos de su nombramiento se podrán dar por terminados en cualquier momento, de conformidad con las disposiciones aplicables, y en caso de que no acrediten las evaluaciones de control de confianza.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2022)</small>
+
 ###### ARTICULO 54.
 
-Los integrantes de las instituciones de seguridad podrán ser separados de su cargo si no cumplen con los requisitos de las leyes vigentes, que en el momento de la separación señalen para permanecer en éstas, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la separación y, en su caso, sólo procederá la indemnización.
+Los integrantes de las instituciones de seguridad pública podrán ser separados de su cargo si no cumplen con los requisitos de las leyes vigentes, que en el momento de la separación señalen para permanecer en dichas Instituciones, sin que en ningún caso proceda su reinstalación al servicio.
 
-Las instituciones de seguridad pública sólo estarán obligadas a una indemnización equivalente a tres meses del último salario percibido, y al otorgamiento de las partes proporcionales de las prestaciones a que tenga derecho la persona separada o removida; tal circunstancia será inscrita en el Registro Nacional correspondiente.
+En caso de que la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier forma de terminación del servicio fue injustificada, las instituciones de seguridad pública deberán pagar una indemnización de tres meses de salario y veinte días por cada año de servicio, y demás prestaciones a que tenga derecho, entendidas éstas como el sueldo base, así como los beneficios, recompensas, estipendios, asignaciones, gratificaciones, premios, retribuciones, subvenciones, haberes, dietas, compensaciones, o cualquier otro concepto que percibía el servidor público por la prestación de su servicio.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2020)</small>
 
@@ -1825,9 +1827,11 @@ XI. Daños causados al material y equipo, y
 
 XII. Grado de instrucción del presunto infractor.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2022)</small>
+
 ###### ARTICULO 117.
 
-En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la remoción es injustificada, en ningún caso procederá reincorporación o reinstalación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiese promovido de conformidad con el artículo 123, Apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos. El Tribunal de lo Contencioso Administrativo del Estado en ningún caso ordenará la reincorporación de los integrantes de las instituciones de seguridad pública. Tal circunstancia será inscrita en el Registro Nacional correspondiente.
+En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la remoción es injustificada, en ningún caso procederá reincorporación o reinstalación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiese promovido de conformidad con el artículo 123, Apartado B, fracción XIII de la Constitución Política de los Estados Unidos Mexicanos. El Tribunal Estatal de Justicia Administrativa en ningún caso ordenará la reincorporación de los integrantes de las instituciones de seguridad pública; en este caso, sólo podrá obligar a pagar la indemnización, y las demás prestaciones a que tenga derecho en términos del artículo 54 de esta Ley, y hasta por un periodo no mayor a doce meses posteriores a la remoción injustificada. Tal circunstancia será inscrita en el Registro Nacional correspondiente.
 
 ###### ARTICULO 118.
 
@@ -2942,5 +2946,13 @@ P.O. 27 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0164.- SE REFORMA, REFORMA (SIC) EL ARTÍCULO 14 EN SU FRACCIÓN XIV; Y SE ADICIONA AL MISMO ARTÍCULO 14 UNA FRACCIÓN, ÉSTA COMO XV, POR LO QUE ACTUAL XV PASA A SER FRACCIÓN XVI DE LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0291.- SE REFORMAN LOS ARTÍCULOS 54 Y 117, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
