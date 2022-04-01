@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-cambio-climatico-para-el-estado-de-queretaro-126274"
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-31"
-last_updated: "2021-10-08"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126274&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUERÉTARO EL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2022.
 
 Ley publicada en el número 7 del Periódico Oficial del Estado de Querétaro, el miércoles 31 de enero de 2018.
 
@@ -375,7 +373,9 @@ La Comisión se integrará, en calidad de vocales, por los titulares de las sigu
 
 I. Secretaría de Gobierno;
 
-II. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2019)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE ABRIL DE 2022)</small>
+
+II. Secretaría de Finanzas;
 
 III. Secretaría de Salud;
 
@@ -403,11 +403,21 @@ XIV. La Coordinación Estatal de Protección Civil;
 
 XV. La Comisión Estatal de Aguas;
 
-XVI. El Centro de Ecología y Cambio Climático del Estado de Querétaro; y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2020)</small>
+XVI. El Centro de Ecología y Cambio Climático del Estado de Querétaro;
 
-XVII. La Diputada o el Diputado que presida la Comisión de Medio ambiente o aquella que conozca de materia ambiental y que señale para ese efecto la Ley Orgánica del Poder Legislativo del Estado de Querétaro.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2022)</small>
+
+XVII. La Diputada o el Diputado que presida la Comisión de Medio Ambiente y Cambio Climático de la Legislatura del Estado de Querétaro;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2022)</small>
+
+XVIII. Secretaría de Planeación y Participación Ciudadana; y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2022)</small>
+
+XIX. Agencia de Energía del Estado de Querétaro.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
@@ -1318,3 +1328,13 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 1 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA EL ARTÍCULO 150 Y DEROGA LOS ARTÍCULOS 269 Y 270 DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
