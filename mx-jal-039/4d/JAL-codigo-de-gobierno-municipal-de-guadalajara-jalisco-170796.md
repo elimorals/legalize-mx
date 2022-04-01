@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2022-02-03"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 3 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 1 DE ABRIL DE 2022.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -2959,7 +2959,51 @@ III. Planear, proyectar, promover, operar y administrar los proyectos estratégi
 
 IV. Proponer a la Presidenta o el Presidente Municipal, o al Ayuntamiento la constitución y suscripción de fideicomisos, sociedades mercantiles y demás instrumentos financieros específicos para el desarrollo de los proyectos económicos estratégicos para el Municipio.
 
-Se encuentra sectorizado a la Coordinación el Organismo Público Descentralizado denominado Consejo Social de Cooperación para el Desarrollo Urbano.
+> <small>(ADICIONADO [N. DE E. CON SUS APARTADOS Y FRACCIONES], G.M. 1 DE ABRIL DE 2022)</small>
+
+Para la atención de los asuntos de su competencia, cuenta con las Direcciones de Promoción a la Vivienda y la de Análisis, Evaluación y Seguimiento. Con las atribuciones siguientes:
+
+A. Son atribuciones de la Dirección de Promoción a la Vivienda:
+
+I. Planear, promover y gestionar el otorgamiento de estímulos y subsidios para las acciones vivienda, con atención prioritaria a la vivienda de interés social y popular en beneficio de la población de menores ingresos;
+
+II. Desarrollar la vivienda como instrumento para el repoblamiento del Municipio y el fortalecimiento del arraigo de sus habitantes;
+
+III. Planear, promover y gestionar las acciones en materia de vivienda en el Municipio, en cumplimiento de los lineamientos de las políticas públicas de vivienda de los programas estatales en materia de vivienda, del Plan Municipal de Desarrollo, del Programa Municipal de Desarrollo Urbano y de los Planes Parciales de Desarrollo Urbano;
+
+IV. Planear y promover la reserva territorial del Municipio de suelo apto para vivienda;
+
+V. Planear, promover y gestionar los instrumentos de análisis, investigación y acopio de información de los factores que inciden en el desarrollo de la vivienda; así como los programas para el desarrollo de la vivienda;
+
+VI. Verificar el cumplimiento de los requisitos establecidos para el otorgamiento de los subsidios o estímulos de las acciones de vivienda que deben realizar los sujetos beneficiados e interesados;
+
+VII. Promover y gestionar el seguimiento de políticas públicas de vivienda del Municipio de conformidad con lo dispuesto en el artículo 16 de la Ley de Vivienda del Estado de Jalisco;
+
+VIII. Promover proyectos de concertación con los sectores social y privado a través de convocatoria pública, para la ejecución de acciones de suelo o vivienda;
+
+IX. Promover la simplificación administrativa de trámites y procedimientos para la expedición de permisos, licencias, autorizaciones y demás actos administrativos necesarios para la ejecución de los programas y acciones de suelo y vivienda;
+
+X. Planear y promover sistemas de financiamiento para las acciones de suelo y vivienda, con atención prioritaria a la vivienda de interés social y popular en beneficio de la población de menores ingresos;
+
+XI. Promover la participación organizada de la población interesada en los diversos programas de vivienda y realizar el registro, control y evaluación de las diferentes organizaciones que se constituyan para ello;
+
+XII. Coordinarse con las diversas dependencias de los tres niveles de gobierno para el desempeño de sus atribuciones; y
+
+XIII. Ser el enlace oficial del Municipio para concentrar la información que se deriva del Programa Municipal de Desarrollo Urbano en el Eje Estratégico en materia de vivienda.
+
+B. Son atribuciones de la Dirección de Análisis, Evaluación y Seguimiento:
+
+I. Analizar los proyectos que derivan de la Coordinación de Proyectos Estratégicos, evaluando los costos beneficios de la consolidación de los proyectos propuestos por la Presidencia Municipal;
+
+II. Coadyuvar con las demás dependencias para consolidar y vincular los proyectos que representan derrama económica creciente en la Ciudad;
+
+III. Establecer líneas de acciones, estrategias de gestión y coordinación para formalizar la vinculación de los proyectos estratégicos aprobados con las dependencias competentes del Gobierno Municipal que permitan su ejecución; y
+
+IV. Establecer el proceso de seguimiento y vigilancia del estado de los proyectos estratégicos aprobados por la Coordinación de Proyectos Estratégicos.
+
+> <small>(REFORMADO, G.M. 1 DE ABRIL DE 2022)</small>
+
+Se encuentra sectorizado a la Coordinación el Organismo Público Descentralizado denominado Consejo de Colaboración Municipal de Guadalajara.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -4397,13 +4441,41 @@ XV. Recibir y registrar las declaraciones de situación patrimonial, de interese
 
 XVI. Presentar denuncias ante la instancia investigadora estatal especializada en combate a la corrupción, cuando tenga conocimiento de omisiones o hechos de corrupción que pudieran ser constitutivos de delito;
 
-XVII. Diseñar, proponer, promover y evaluar las políticas públicas de combate a la corrupción; y
+> <small>(REFORMADA, G.M. 1 DE ABRIL DE 2022)</small>
 
-XVIII. Establecer los mecanismos internos en coordinación con la administración pública municipal, para prevenir actos u omisiones que pudieran constituirse como faltas administrativas, teniendo a su encargo el diseño a promoción, ejecución y evaluación de políticas públicas de combate a la corrupción.
+XVII. Diseñar, proponer, promover y evaluar las políticas públicas de combate a la corrupción;
 
-> <small>(REFORMADO, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, G.M. 1 DE ABRIL DE 2022)</small>
 
-Para la atención de los asuntos de su competencia, cuenta con las áreas de Auditoría; Responsabilidades; y Substanciación y Resolución.
+XVIII. Establecer los mecanismos internos en coordinación con la administración pública municipal, para prevenir actos u omisiones que pudieran constituirse como faltas administrativas, teniendo a su encargo el diseño, la promoción, ejecución y evaluación de políticas públicas de combate a la corrupción.
+
+> <small>(ADICIONADA, G.M. 1 DE ABRIL DE 2022)</small>
+
+XIX. Diseñar y ejecutar estrategias para la prevención y detección de actos de corrupción, alineadas a la Política Nacional y Estatal en materia Anticorrupción;
+
+> <small>(ADICIONADA, G.M. 1 DE ABRIL DE 2022)</small>
+
+XX. Generar vinculación con los sectores público y privado para implementar mecanismos de colaboración enfocados al combate a la corrupción y la rendición de cuentas;
+
+> <small>(ADICIONADA, G.M. 1 DE ABRIL DE 2022)</small>
+
+XXI. Desarrollar mecanismos, herramientas de vigilancia y control ciudadano de las acciones institucionales y conductas de los servidores públicos;
+
+> <small>(ADICIONADA, G.M. 1 DE ABRIL DE 2022)</small>
+
+XXII. Fortalecer e institucionalizar estrategias y acciones de combate a la corrupción y rendición de cuentas, en vinculación con los Sistemas Anticorrupción Municipal, Estatal y en su caso con el Nacional, entre otros organismos e instancias internacionales, nacionales o locales;
+
+> <small>(ADICIONADA, G.M. 1 DE ABRIL DE 2022)</small>
+
+XXIII. Generar vinculación con el Servicio de Administración Tributaria y la Comisión Nacional Bancaria y de Valores para el desahogo de los procedimientos en que se requiera información; e
+
+> <small>(ADICIONADA, G.M. 1 DE ABRIL DE 2022)</small>
+
+XXIV. Impulsar la atención institucional del combate a la corrupción y rendición de cuentas de forma sistemática y transversal.
+
+> <small>(REFORMADO, G.M. 1 DE ABRIL DE 2022)</small>
+
+Para la atención de los asuntos de su competencia, cuenta con las áreas de Auditoría; Responsabilidades; Substanciación y Resolución; y Estratégica Anticorrupción y Vinculación.
 
 #### Sección Primera. Dirección de Auditoría
 
@@ -4495,19 +4567,59 @@ VI. Acordar sobre la prevención, admisión o desechamiento del recurso de revoc
 
 VII. Solicitar la colaboración de las dependencias y entidades de la administración pública municipal y de otras autoridades, para realizar las notificaciones que resulten necesarias.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE ABRIL DE 2022)</small>
+
+#### Sección Tercera Bis. Dirección Estratégica Anticorrupción y Vinculación
+
+> <small>(ADICIONADO, G.M. 1 DE ABRIL DE 2022)</small>
+
+###### Artículo 208 Bis.
+
+La Dirección Estratégica Anticorrupción y Vinculación cuenta con las siguientes atribuciones:
+
+I. Generar estrategias para identificar actos de corrupción, así como desarrollar proyectos para prevenirlos;
+
+II. Impulsar los principios rectores que rigen el servicio público en los términos de la normatividad aplicable;
+
+III. Impulsar la cultura de la denuncia ciudadana documentada, a través de la evidencia;
+
+IV. Impulsar estrategias de rendición de cuentas y combate a la corrupción en los procesos de adjudicación y contratación de obra pública; y contrataciones en procesos de adquisiciones y servicios;
+
+V. Generar información para el combate a la corrupción en datos abiertos;
+
+VI. Coordinar la publicación de información contenida en los sistemas de la Plataforma Nacional Digital;
+
+VII. Generar vinculación con los sectores público y privado para implementar mecanismos de colaboración enfocados al combate a la corrupción y la rendición de cuentas;
+
+VIII. Desarrollar mecanismos, herramientas de vigilancia y de control ciudadano de las acciones institucionales y conductas de los servidores públicos, que impulsen el control democrático de la autoridad;
+
+IX. Proponer e implementar acciones y mecanismos innovadores para la presentación de denuncias ciudadanas con accesibilidad para grupos prioritarios;
+
+X. Implementar acciones de coordinación institucional con las instancias internas y externas enfocadas al combate a la corrupción;
+
+XI. Generar información estadística que visibilice el seguimiento y atención de los mecanismos y herramientas anticorrupción y de rendición de cuentas que se implementen en el municipio;
+
+XII. Ejecutar actividades derivadas de los trabajos de la Contraloría Ciudadana dentro del Sistema Municipal Anticorrupción;
+
+XIII. Atender, coordinar y dar seguimiento a las representaciones de la Contraloría Ciudadana en las sesiones del Comité Coordinador Municipal o en caso de ser invitada en las sesiones del Comité Coordinador Estatal del Sistema Estatal Anticorrupción;
+
+XIV. Generar informes y documentos que se requieran y en su caso proponer las acciones necesarias para instrumentar los mecanismos de coordinación que se acuerden en los diversos comités coordinadores u homólogos de los Sistemas Nacional, Estatal y Municipal Anticorrupción;
+
+XV. Conocer las recomendaciones que se reciban de parte del Consejo Municipal de Participación Ciudadana, y proponer el seguimiento respectivo;
+
+XVI. Atender, coordinar y dar seguimiento a las representaciones de la Contraloría Ciudadana, en las sesiones de los Órganos de Gobierno de los Organismos Públicos Descentralizados en que la Contraloría forme parte, así como del Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios de Guadalajara y en su caso, de las diversas representaciones institucionales que así se instruya por el superior jerárquico; y
+
+XVII. Coadyuvar en lo relativo a la instancia de inconformidad y demás intervenciones del Órgano Interno de Control Municipal, referidas en la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios.
+
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 30 DE SEPTIEMBRE DE 2021)</small>
 
 #### Sección Cuarta. Unidad Resolutora
-
-#### Sección Quinta. Obligaciones de las Entidades que Integran la Administración Paramunicipal y de Particulares que Manejan Fondos o Valores Municipales
 
 ###### Artículo 209.
 
 (DEROGADO, G.M. 30 DE SEPTIEMBRE DE 2021)
 
-#### Sección Primera. Dirección de Evaluación y Seguimiento
-
-> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+#### Sección Quinta. Obligaciones de las Entidades que Integran la Administración Paramunicipal y de Particulares que Manejan Fondos o Valores Municipales
 
 ###### Artículo 210.
 
@@ -4569,7 +4681,7 @@ Se encuentra sectorizado a la Jefatura de Gabinete el Organismo Público Descent
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-#### Sección Segunda. Dirección de Planeación Institucional
+#### Sección Primera. Dirección de Evaluación y Seguimiento
 
 > <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -4595,7 +4707,7 @@ VIII. Coordinar el Sistema Municipal de Evaluación del Desempeño, así como la
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-#### Sección Tercera. Dirección de Atención Ciudadana
+#### Sección Segunda. Dirección de Planeación Institucional
 
 > <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -4623,7 +4735,7 @@ IX. Fungir como unidad enlace de planeación y gobernanza de acuerdo con lo esta
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-#### Sección Cuarta. Dirección de Gestión de Coordinación Metropolitana
+#### Sección Tercera. Dirección de Atención Ciudadana
 
 > <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -4653,7 +4765,7 @@ X. Diseñar y planear, en coordinación con la dependencia competente en materia
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-#### Sección Quinta. Dirección de Creación y Revisión de Contenidos
+#### Sección Cuarta. Dirección de Gestión de Coordinación Metropolitana
 
 > <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -4681,7 +4793,7 @@ IX. Impulsar y promover la capacitación de los asuntos y coordinación metropol
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-#### Sección Sexta. Dirección de Servicios Médicos Municipales
+#### Sección Quinta. Dirección de Creación y Revisión de Contenidos
 
 > <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -4698,6 +4810,38 @@ III. Diseñar y coordinar el proceso de generación de contenidos desde la ideac
 IV. Diseñar y coordinar el proceso de revisión y aprobación de contenidos; y
 
 V. Monitorear y medir regularmente los contenidos, y proponer recomendaciones para mejorar el rendimiento.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+#### Sección Sexta. Dirección de Servicios Médicos Municipales
+
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+
+###### Artículo 210 Octies.
+
+La Dirección de Servicios Médicos Municipales, tiene las siguientes atribuciones:
+
+I. Participar en la construcción del modelo metropolitano, con énfasis en la educación para la salud, la prevención y el autocuidado, con las dependencias competentes;
+
+II. Ser eje rector en la colaboración, coordinación y operación con las dependencias correspondientes para planear, asesorar y dirigir los programas que se instrumenten en el Municipio en materia de salud;
+
+III. Mejorar la cobertura de servicio prehospitalario y urgencias médicas quirúrgicas;
+
+IV. Colaborar en la promoción de programas de activación física y servicios de salud en lugares públicos, para impulsar la medicina preventiva y estilos de vida sana, en coordinación con las dependencias competentes;
+
+V. Operar un sistema sanitario de atención, con vinculación y coordinación funcional de todas las instituciones del sector salud que actúan en el Municipio;
+
+VI. Proponer las acciones de mejora del sistema de salud, basado en las necesidades de la ciudadanía;
+
+VII. Implementar los protocolos de intervención específica para los padecimientos de alta prevalencia;
+
+VIII. Colaborar en coordinación con las dependencias competentes en la implementación de medidas para el saneamiento y preservación de los entornos habitacionales, escolares y laborales, favoreciendo en la generación de entornos saludables para las personas;
+
+IX. Autorizar, apoyar y evaluar el desarrollo y cumplimiento de los programas de enseñanza, educación continua y adiestramiento en el servicio de salud;
+
+X. Coadyuvar y asesorar a las dependencias y entidades de la administración pública municipal para que las oficinas y edificios públicos del Municipio obtengan la certificación como entornos favorables a la salud, así como para que conserven dicha certificación; y
+
+XI. Asesorar y colaborar, en coordinación con la dependencia municipal de Protección Civil, a la Administración pública en la implementación y operación de sus respectivas Comisiones de Seguridad e Higiene.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -4729,41 +4873,11 @@ X. Promover la celebración de convenios de coordinación con los tres órdenes 
 
 > <small>(REFORMADO EN SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO VIII] G.M. 1 DE OCTUBRE DE 2021)</small>
 
-###### Artículo 210 Octies.
-
-La Dirección de Servicios Médicos Municipales, tiene las siguientes atribuciones:
-
-I. Participar en la construcción del modelo metropolitano, con énfasis en la educación para la salud, la prevención y el autocuidado, con las dependencias competentes;
-
-II. Ser eje rector en la colaboración, coordinación y operación con las dependencias correspondientes para planear, asesorar y dirigir los programas que se instrumenten en el Municipio en materia de salud;
-
-III. Mejorar la cobertura de servicio prehospitalario y urgencias médicas quirúrgicas;
-
-IV. Colaborar en la promoción de programas de activación física y servicios de salud en lugares públicos, para impulsar la medicina preventiva y estilos de vida sana, en coordinación con las dependencias competentes;
-
-V. Operar un sistema sanitario de atención, con vinculación y coordinación funcional de todas las instituciones del sector salud que actúan en el Municipio;
-
-VI. Proponer las acciones de mejora del sistema de salud, basado en las necesidades de la ciudadanía;
-
-VII. Implementar los protocolos de intervención específica para los padecimientos de alta prevalencia;
-
-VIII. Colaborar en coordinación con las dependencias competentes en la implementación de medidas para el saneamiento y preservación de los entornos habitacionales, escolares y laborales, favoreciendo en la generación de entornos saludables para las personas;
-
-IX. Autorizar, apoyar y evaluar el desarrollo y cumplimiento de los programas de enseñanza, educación continua y adiestramiento en el servicio de salud;
-
-X. Coadyuvar y asesorar a las dependencias y entidades de la administración pública municipal para que las oficinas y edificios públicos del Municipio obtengan la certificación como entornos favorables a la salud, así como para que conserven dicha certificación; y
-
-XI. Asesorar y colaborar, en coordinación con la dependencia municipal de Protección Civil, a la Administración pública en la implementación y operación de sus respectivas Comisiones de Seguridad e Higiene.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+### Capítulo IX. Coordinaciones Generales
 
 #### Sección Primera. Atribuciones comunes
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
-
-### Capítulo IX. Coordinaciones Generales
-
-#### Sección Segunda. Coordinación General de Administración e Innovación Gubernamental
 
 ###### Artículo 211.
 
@@ -4795,9 +4909,7 @@ XII. Diseñar, implementar y promover con calidad y eficiencia los mecanismos de
 
 XIII. Ejercer por sí mismo o a través de las direcciones adscritas a su Coordinación, las atribuciones conferidas a las mismas.
 
-#### Sección Tercera. Coordinación General de Análisis Estratégico y Comunicación
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
+#### Sección Segunda. Coordinación General de Administración e Innovación Gubernamental
 
 ###### Artículo 212.
 
@@ -5063,7 +5175,9 @@ VI. Emitir en coordinación con la Dirección de Patrimonio opiniones sobre la p
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-#### Sección Cuarta. Coordinación General de Construcción de Comunidad
+#### Sección Tercera. Coordinación General de Análisis Estratégico y Comunicación
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 218.
 
@@ -5155,9 +5269,7 @@ Para la atención de los asuntos de su competencia cuenta con las áreas de Medi
 
 Asimismo, para la consecución de sus fines, debe coordinarse con las demás instancias de gobierno y de la sociedad.
 
-#### Sección Quinta. Coordinación General de Desarrollo Económico
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
+#### Sección Cuarta. Coordinación General de Construcción de Comunidad
 
 ###### Artículo 219.
 
@@ -5429,9 +5541,9 @@ VIII. Promover que los programas y proyectos municipales incorporen el principio
 
 > <small>(REFORMADA DENOMINACIÓN, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-#### Sección Sexta. Coordinación General de Combate a la Desigualdad
+#### Sección Quinta. Coordinación General de Desarrollo Económico
 
-> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 226.
 
@@ -5743,9 +5855,9 @@ Dirección de Corresponsabilidad Social
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
-#### Sección Séptima. Coordinación General de Gestión Integral de la Ciudad
+#### Sección Sexta. Coordinación General de Combate a la Desigualdad
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
+> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 235 Sexies.
 
@@ -5911,9 +6023,9 @@ IV. Analizar los programas sociales de los tres órdenes de gobierno con la fina
 
 > <small>(REFORMADA EN SU NÚMERACIÓN [N. DE E. ANTES SECCIÓN SEXTA], G.M. 1 DE OCTUBRE DE 2021)</small>
 
-#### Sección Octava. Coordinación General de Servicios Públicos Municipales
+#### Sección Séptima. Coordinación General de Gestión Integral de la Ciudad
 
-> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 236.
 
@@ -6431,7 +6543,9 @@ XIX. Otorgar los vistos buenos para proyectos de edificaciones, remodelaciones y
 
 > <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES SECCIÓN SÉPTIMA], G.M. 1 DE OCTUBRE DE 2021)</small>
 
-#### Sección Primera. Estructura
+#### Sección Octava. Coordinación General de Servicios Públicos Municipales
+
+> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 243.
 
@@ -6889,7 +7003,7 @@ IV. Enviar a las y los integrantes del Consejo Directivo, cuando menos con tres 
 
 ### Capítulo II. Organismos Públicos Descentralizados
 
-#### Sección Segunda. Denominación, Objeto y Domicilio Legal
+#### Sección Primera. Estructura
 
 ###### Artículo 264.
 
@@ -6915,7 +7029,7 @@ IX. Servidoras Públicas y Servidores Públicos; y
 
 X. Forma de extinción o fusión.
 
-#### Sección Tercera. Órgano de Gobierno
+#### Sección Segunda. Denominación, Objeto y Domicilio Legal
 
 ###### Artículo 265.
 
@@ -6967,7 +7081,7 @@ IX. El Organismo Público Descentralizado de la Administración Pública Municip
 
 Tienen su domicilio legal en la Ciudad de Guadalajara.
 
-#### Sección Cuarta. Atribuciones
+#### Sección Tercera. Órgano de Gobierno
 
 ###### Artículo 268.
 
@@ -7061,7 +7175,7 @@ II. Se cuente con la presencia de la Presidenta o el Presidente y de la Secretar
 
 III. Exista quórum legal para sesionar, es decir que se cuente con la asistencia de por lo menos la mitad más uno de las consejeras y consejeros con derecho a voto.
 
-#### Sección Quinta. Patrimonio
+#### Sección Cuarta. Atribuciones
 
 ###### Artículo 278.
 
@@ -7187,7 +7301,7 @@ XXII. Establecer los sistemas de control necesarios y tomar las acciones corresp
 
 XXIII. Proponer al Consejo Directivo al profesionista que satisfaga el perfil requerido para asumir la titularidad del área administrativa del organismo.
 
-#### Sección Sexta. Presupuesto
+#### Sección Quinta. Patrimonio
 
 ###### Artículo 283.
 
@@ -7197,7 +7311,7 @@ Su patrimonio se constituye con los bienes de su propiedad, derechos, aprovecham
 
 Cuando ya no requieran para su operación determinados bienes de propiedad municipal, deben solicitar su desincorporación y baja del inventario de bienes patrimoniales, en los términos de la normatividad aplicable.
 
-#### Sección Séptima. Servidoras y Servidores Públicos
+#### Sección Sexta. Presupuesto
 
 ###### Artículo 285.
 
@@ -7229,7 +7343,7 @@ Por lo que respecta a la percepción de subsidios y trasferencias, los reciben d
 
 Sus programas financieros deben sujetarse a lo dispuesto en este Código y en la demás normatividad aplicable.
 
-#### Sección Octava. Órgano Interno de Control
+#### Sección Séptima. Servidoras y Servidores Públicos
 
 ###### Artículo 288.
 
@@ -7239,7 +7353,7 @@ Los organismos cuentan con el personal directivo, administrativo, operativo y t�
 
 Los cargos del personal directivo, administrativo, operativo y técnico necesarios para el funcionamiento del organismo son remunerados y por lo tanto, los recursos para el pago de salarios deben preverse en el presupuesto de egresos ordinario del mismo.
 
-#### Sección Novena. Extinción o Fusión
+#### Sección Octava. Órgano Interno de Control
 
 ###### Artículo 290.
 
@@ -7252,6 +7366,8 @@ II. Efectuar revisiones y auditorías, y derivado de estas, en su caso, proponer
 III. Vigilar que el manejo y aplicación de los recursos públicos se efectúe conforme a la normatividad aplicable; y
 
 IV. Presentar al Consejo Directivo los informes, resultados de las auditorías y las evaluaciones realizadas.
+
+#### Sección Novena. Extinción o Fusión
 
 ###### Artículo 291.
 
@@ -7710,3 +7826,23 @@ Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalaja
 Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicadas las presentes reformas remítanse un tanto de las mismas al Congreso del Estado de Jalisco, para los efectos contemplados en las fracciones VI y VII del artículo 42, de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 1 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA”.]
+
+Primero. Publíquese la presente reforma en la Gaceta Municipal de Guadalajara.
+
+Segundo. Esta reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicado el presente ordenamiento, remítase una copia al Congreso del Estado de Jalisco para efectos de lo ordenado en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 1 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA".]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Estas reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicadas las aludidas reformas, remítase una copia al Congreso del Estado de Jalisco para efectos de lo ordenado en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
