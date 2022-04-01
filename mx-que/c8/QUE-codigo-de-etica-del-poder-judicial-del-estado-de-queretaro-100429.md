@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-etica-del-poder-judicial-del-estado-de-queretaro-1004
 country: "mx"
 rank: "codigo"
 publication_date: "2014-04-11"
-last_updated: "2014-04-11"
+last_updated: "2022-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # CODIGO DE ETICA DEL PODER JUDICIAL DEL ESTADO DE QUERETARO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL CONJUNTO AGC/6/2022 DEL TRIBUNAL SUPERIOR DE JUSTICIA Y DEL CONSEJO DE LA JUDICATURA, POR EL QUE SE EMITE EL CÓDIGO DE ÉTICA Y EL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 1 DE ABRIL DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL CONJUNTO AGC/6/2022 DEL TRIBUNAL SUPERIOR DE JUSTICIA Y DEL CONSEJO DE LA JUDICATURA, POR EL QUE SE EMITE EL CÓDIGO DE ÉTICA Y EL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 1 DE ABRIL DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el viernes 11 de abril de 2014.
 
@@ -272,3 +272,19 @@ A pesar de la naturaleza no vinculante del presente documento, el mismo guarda u
 Rúbricas
 
 El Código de Ética del Poder Judicial del Estado de Querétaro fue firmado el treinta de enero del año dos mil catorce por los Magistrados del Tribunal Superior de Justicia Carlos Manuel Septíen Olivares, J. Jesús Castellanos Malo, Basilisa Balderas Sánchez, Armando Licona Verduzco, Araceli Aguayo Hernández, María de Lourdes Portillo Coronado, Javier David Garfias Sitges, José Antonio Ortega Cerbón, Arturo González de Cosío Frías, y el secretario de acuerdos del pleno, Jorge Iván Almada Ugalde, quien dio fe.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL CONJUNTO AGC/6/2022 DEL TRIBUNAL SUPERIOR DE JUSTICIA Y DEL CONSEJO DE LA JUDICATURA, POR EL QUE SE EMITE EL CÓDIGO DE ÉTICA Y EL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO”.]
+
+PRIMERO. El presente Acuerdo General Conjunto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+SEGUNDO. Se abroga el Código de Ética del Poder Judicial del Estado de Querétaro, publicado en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga” el 11 de abril de 2014.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo previsto en el presente Código.
+
+CUARTO. Se ordena publicar el presente Acuerdo en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga” y en la página institucional electrónica del Poder Judicial del Estado de Querétaro.
+
+QUINTO. El Comité de Ética deberá dar difusión al Código de Ética y al Código de Conducta, con el auxilio de la Dirección de Contraloría Interna del Poder Judicial del Estado de Querétaro, aprobados mediante el presente Acuerdo y entregar material o mediante comunicación electrónica, un ejemplar de dichas codificaciones a cada una de las personas servidoras públicas del Poder Judicial del Estado de Querétaro.
