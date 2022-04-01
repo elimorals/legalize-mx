@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-educacion-del-estado-de-queretaro-69512"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2019-05-14"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -295,9 +295,9 @@ Corresponden a la Secretaría, las atribuciones siguientes:
 
 I. Prestar los servicios de educación inicial, preescolar, primaria, incluyendo la indígena, especial, la secundaria, la media superior, así como la normal y demás para la formación de maestros, así como regular la organización y funcionamiento de los planteles educativos que presten dichos servicios;
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2022)</small>
 
-II. Elaborar los contenidos regionales que habrán de incluirse en los planes y programas de estudio para la educación preescolar, primaria, secundaria, normal, indígena y la correspondiente a la formación de maestros de educación básica, así como también las modificaciones que a dichos contenidos deban llevarse a cabo y proponerlos a la autoridad educativa federal, manteniéndolos acordes al marco de educación de calidad contemplado en el Servicio Profesional Docente, tomando en consideración la opinión del Consejo Estatal de Participación Social en la Educación;
+II. Elaborar los contenidos regionales que habrán de incluirse en los planes y programas de estudio para la educación preescolar, primaria, secundaria, normal, indígena y la correspondiente formación de maestros de educación básica, tomando en cuenta para estos últimos dentro de su currícula, el fortalecimiento de contenidos psicopedagógicos que permitan la oportuna detección, prevención y canalización de afectaciones emocionales en los menores en el Estado; así como también las modificaciones que a dichos contenidos deban llevarse a cabo y proponerlos a la autoridad educativa federal manteniéndolos acorde al marco de la educación de calidad contemplado en el Servicio Profesional Docente, tomando en consideración la opinión del Consejo Estatal de Participación Social en la Educación;
 
 III. Realizar la distribución oportuna y eficiente de los libros de texto gratuitos y materiales educativos complementarios que sean proporcionados por la autoridad educativa federal;
 
@@ -1872,3 +1872,13 @@ P.O. 14 DE MAYO DE 2019.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+P.O. 1 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 13 DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se deroga cualquier disposición de igual o menor jerarquía que se oponga a la presente Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
