@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-civil-del-estado-de-nuevo-leon-7913"
 country: "mx"
 rank: "ley"
 publication_date: "1948-06-26"
-last_updated: "2021-08-23"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 26 de junio de 1948.
 
@@ -414,6 +414,10 @@ Se entenderá como centros de atención, a aquellos espacios, cualquiera que sea
 > <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2020)</small>
 
 XVII.- Otorgar permiso de ausencia laboral por motivo de luto a causa del fallecimiento de algún familiar dentro del primer grado por consanguinidad o afinidad, por un plazo mínimo de 3 días hábiles y máximo de 5 días hábiles con goce de sueldo a las personas trabajadoras. Estos días serán aquellos inmediatos al deceso.
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2022)</small>
+
+XVIII.- Una vez al año, otorgar permiso de un día con goce de sueldo a las mujeres trabajadoras, para realizarse estudios médicos preventivos de cáncer de mama y cervicouterino.
 
 ### CAPITULO QUINTO. De las obligaciones de los funcionarios y trabajadores
 
@@ -1182,3 +1186,9 @@ TERCERO.- El Titular del Poder Ejecutivo y el Instituto Estatal de las Mujeres d
 CUARTO.- Los tres poderes del Gobierno del Estado y los ayuntamientos contarán con un plazo de 45 días hábiles para expedir sus Lineamientos interiores para dar cumplimiento a las atribuciones que se les otorgan por medio del presente, contados a partir del día siguiente a aquél en el que el Instituto Estatal de las Mujeres de Nuevo León expida las disposiciones administrativas a las que se refiere el Transitorio tercero.
 
 QUINTO.- Una vez expedidas las disposiciones reglamentarias y administrativas y los lineamientos interiores referidos en los transitorios tercero y cuarto, Los tres poderes del Gobierno del Estado y los ayuntamientos deberán dar cumplimiento a la obligación de iniciar a capacitar los trabajadores o servidores públicos, en los términos de lo dispuesto en el presente decreto en un plazo que no exceda de 30 días hábiles contados a partir del día siguiente a aquél en que se venza el plazo del Transitorio cuarto.
+
+P.O. 1 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 082. SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 36 DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
