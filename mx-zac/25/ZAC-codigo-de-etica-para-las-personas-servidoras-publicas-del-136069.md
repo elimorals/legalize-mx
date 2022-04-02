@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-etica-para-las-personas-servidoras-publicas-del-13606
 country: "mx"
 rank: "codigo"
 publication_date: "2019-04-24"
-last_updated: "2019-04-24"
+last_updated: "2022-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO DE ÉTICA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DEL GOBIERNO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2022 (ABROGADO).
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 24 de abril de 2019.
 
@@ -252,3 +252,25 @@ Tercero. Los Comités de Ética que estén conformados previo a la entrada en vi
 Cuarto. Las dependencias y entidades de la administración pública, dentro del plazo de 90 días hábiles deberán emitir sus respectivos Códigos de Conducta.
 
 Dado en la ciudad de Zacatecas, Zacatecas, a los 22 días del mes de abril de dos mil diecinueve. LA SECRETARIA DE LA FUNCIÓN PÚBLICA.- PAULA REY ORTIZ MEDINA. Rubrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS"]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+SEGUNDO. Se abroga el Acuerdo por el que se emite el Código de Ética de las personas servidoras públicas del Gobierno del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado se Zacatecas el 24 de abril de 2019, así como cualquier disposición de índole administrativo que se contraponga al presente Código.
+
+TERCERO. Los Comités de Ética que deberán estar conformados de acuerdo a los Lineamientos generales para la integración y funcionamiento de los Comités de Ética establecidos por la Secretaría y regirse por los mismos:
+
+CUARTO. Las dependencias y entidades tendrán hasta el mes de diciembre de 2022 para actualizar sus Códigos de Conducta en términos del presente Código de Ética y de la Guía para su elaboración que al efecto emita la Secretaría.
+
+QUINTO. Las dependencias y entidades que a la entrada en vigor del presente Código de Ética hayan implementado acciones efectivas para que la totalidad de las personas servidoras públicas suscribieran la Carta Compromiso conforme al Código de Ética de las personas servidoras pública del Gobierno del Estado de Zacatecas que se abroga, no estarán obligadas a implementarlas nuevamente, salvo aquellas dependencias o entidades que no se hubiere concretado la suscripción de dicho documento, o tratándose de personas de nuevo ingreso deberán integrarlo en su totalidad en base al presente código de ética.
+
+SEXTO. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código de Ética, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+SÉPTIMO. La normativa que rige a los Comités de Ética, así como los mecanismos de coordinación y evaluación que genera la Secretaría, permanecerán vigentes, salvo disposición en contrario.
+
+OCTAVO. A partir de la entrada en vigor del presente Código de Ética, toda referencia a la abrogada "Regla de integridad 13" o "Regla de Integridad de Comportamiento Digno", publicada en el Diario Oficial de la Federación, el 02 de septiembre de 2016, que se encuentre mencionada en cualquier disposición o documento, deberá entenderse en términos del artículo 5, fracción IV del presente Código de Ética.
