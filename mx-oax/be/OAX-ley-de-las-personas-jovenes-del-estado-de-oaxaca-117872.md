@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-las-personas-jovenes-del-estado-de-oaxaca-117872"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2021-03-13"
+last_updated: "2022-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE LAS PERSONAS JÓVENES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2022.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -176,6 +176,10 @@ XIII. Acceder a espacios recreativos y culturales, garantizando la libertad de e
 XIV. La recreación y al tiempo libre, al descanso y al esparcimiento. Este derecho será considerado como factor indispensable para el desarrollo integral de las personas jóvenes;
 
 XV. Ser respetados en el libre ejercicio de su identidad cultural, al acceso a la cultura y al disfrute de los bienes y servicios públicos;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2022)</small>
+
+XVI. Recibir atención, orientación e información respecto de sus derechos, para este efecto los servidores públicos de las Instituciones de Educación, Salud, Seguridad Pública, Impartición y Procuración de Justicia, recibirán la respectiva capacitación.
 
 ## TÍTULO TERCERO. POLÍTICAS PÚBLICAS
 
@@ -792,3 +796,11 @@ P.O. 13 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2131.- MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN XI Y EL TERCER PÁRRAFO DEL ARTÍCULO 10; SE ADICIONA LA FRACCIÓN XII, RECORRIÉNDOSE LA SUBSECUENTE, DE LA LEY DE LAS PERSONAS JÓVENES DEL ESTADO DE OAXACA”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 2 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 452.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 9 DE LA LEY DE LAS PERSONAS JÓVENES DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
