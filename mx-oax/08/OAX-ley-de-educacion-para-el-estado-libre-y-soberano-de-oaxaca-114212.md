@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-educacion-para-el-estado-libre-y-soberano-de-oaxaca-1142
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-11"
-last_updated: "2018-11-10"
+last_updated: "2022-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE EDUCACIÓN PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 11 de abril de 2016.
 
@@ -391,9 +391,11 @@ IV. El tipo superior comprende estudios profesionales de técnico superior unive
 
 #### SECCIÓN I. EDUCACIÓN INICIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2022)</small>
+
 ###### Artículo 26.
 
-El nivel de Educación inicial comprende las modalidades escolarizada y no escolarizada, siendo su propósito favorecer el desarrollo de las capacidades físicas, cognoscitivas, afectivas y sociales, así como formar y mejorar los hábitos de higiene, salud, alimentación y convivencia social de los infantes menores de cuatro años y en el caso de la educación no escolarizada ésta atiende a las madres en periodo de gestación y a los niños de la misma edad.
+El nivel de Educación Inicial comprende las modalidades escolarizada y no escolarizada, siendo su propósito favorecer el desarrollo de las capacidades físicas, cognoscitivas, afectivas y sociales, así como formar y mejorar los hábitos de higiene personal y para una correcta higiene bucal, salud, alimentación y convivencia social de los infantes menores de cuatro años y en el caso de la educación no escolarizada ésta atiende a las madres en periodo de gestación y a los niños de la misma edad.
 
 Ambas modalidades comprenden la orientación psicopedagógica a los padres de familia o tutores, tomando en cuenta sus experiencias y prácticas de crianza de las comunidades.
 
@@ -1128,3 +1130,11 @@ P.O. 10 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1645.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 454.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXII DEL INCISO A) DEL ARTÍCULO 4; SE ADICIONAN LA FRACCIÓN XII, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES AL INCISO A) DEL ARTÍCULO 4, Y EL CAPÍTULO VII "SALUD BUCODENTAL'' AL TÍTULO TERCERO DENOMINADO "PRESTACION DE LOS SERVICIOS DE SALUD" QUE CONTIENE EL ARTÍCULO 70 BIS, TODOS DE LA LEY ESTATAL DE SALUD; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 26 DE LA LEY DE EDUCACIÓN PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
