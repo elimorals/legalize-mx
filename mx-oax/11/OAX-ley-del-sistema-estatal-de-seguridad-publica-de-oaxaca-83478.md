@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-estatal-de-seguridad-publica-de-oaxaca-83478"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-20"
-last_updated: "2021-12-04"
+last_updated: "2022-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 20 de septiembre del 2011.
 
@@ -123,9 +123,13 @@ XVIII. Ley General, a la Ley General del Sistema Nacional de Seguridad Pública;
 
 XIX. Prestadores de Servicios, a los particulares que presten servicios de Seguridad Privada que operen en el Estado;
 
-XX. Procurador; al Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2022)</small>
 
-XXI. Procuraduría, a la Procuraduría General de Justicia del Estado;
+XX. Fiscal General; al Fiscal General del Estado de Oaxaca;
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2022)</small>
+
+XXI. Fiscalía; a la Fiscalía General del Estado de Oaxaca;
 
 XXII. Programa Estatal, al Programa Estatal de Seguridad Pública;
 
@@ -273,17 +277,17 @@ II. El Secretario General de Gobierno;
 
 III. El Secretario de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2022)</small>
 
-IV. La o el Fiscal General del Estado de Oaxaca;
+IV. El Fiscal General del Estado de Oaxaca;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2022)</small>
 
-V. La Diputada o El Diputado Presidente de la Comisión Permanente de Democracia y Participación Ciudadana;
+V. El Diputado o Diputada Presidente de la Comisión Permanente de Seguridad y Protección Ciudadana;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2022)</small>
 
-VI. La Diputada o El Diputado Presidente de la Comisión Permanente de Administración y Procuración de Justicia;
+VI. El Diputado o Diputada Presidente de la Comisión Permanente de Administración y Procuración de Justicia;
 
 > <small>(ADICIONADA, P.O. 18 DE MARZO DE 2016)</small>
 
@@ -703,7 +707,9 @@ I. El Secretario, quien lo presidirá;
 
 II. Los Presidentes de los Municipios de la región, bajo los criterios de mayor incidencia delictiva o mayor número de población; a invitación del Presidente del Consejo Regional;
 
-III. El Subprocurador Regional de la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2022)</small>
+
+III. El Vicefiscal Regional de la Fiscalía General del Estado de Oaxaca;
 
 IV. El servidor público a cargo de la Policía Estatal en la Región;
 
@@ -1015,9 +1021,9 @@ XIII. Poner a disposición de las autoridades competentes, sin demora, a persona
 
 XIV. Inscribir de inmediato la detención que realice en el Registro Administrativo de Detenciones del Centro Nacional de Información, así como remitir sin demora y por cualquier medio la información al Ministerio Público;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2022)</small>
 
-XV. Se sujetará a los lineamientos para la preservación del lugar de los hechos y/o lugar del hallazgo, la integridad de los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o producto del delito para impedir que se destruyan o alteren. Las unidades de policía especializadas y facultadas para llevar a cabo el procesamiento del lugar de los hechos y resguardo de los indicios deberán cumplir con las disposiciones aplicables y relativas a la cadena de custodia, conforme al acuerdo que emita la Procuraduría General de Justicia del Estado;
+XV. Se sujetará a los lineamientos para la preservación del lugar de los hechos y/o lugar del hallazgo, la integridad de los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o producto del delito para impedir que se destruyan o alteren. Las unidades de policía especializadas y facultadas para llevar a cabo el procesamiento del lugar de los hechos y resguardo de los indicios deberán cumplir con las disposiciones aplicables y relativas a la cadena de custodia, conforme al acuerdo que emita la Fiscalía General del Estado de Oaxaca;
 
 XVI. Dejar constancia de cada una de sus actuaciones, así como llevar un control y seguimiento de éstas. Durante el curso de la investigación ministerial deberán elaborar informes sobre el desarrollo de la misma, y rendirlos al Ministerio Público, sin perjuicio de los informes que éste le requiera;
 
@@ -1381,21 +1387,25 @@ XVI. Supervisar que los aspirantes e Integrantes de las Instituciones Policiales
 
 XVII. Las demás que establezcan las disposiciones legales aplicables.
 
-## TÍTULO OCTAVO. DEL SERVICIO DE CARRERA EN LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ABRIL DE 2022)</small>
+
+## TÍTULO OCTAVO. DEL SERVICIO DE CARRERA EN LA FISCALÍA GENERAL DEL ESTADO DE OAXACA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2022)</small>
+
 ###### Artículo 63.
 
-El Servicio de Carrera en la Procuraduría, comprenderá lo relativo al Ministerio Público y a los peritos.
+El Servicio de Carrera en la Fiscalía General, comprenderá lo relativo al Ministerio Público y a los peritos.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 La Agencia Estatal de Investigaciones se sujetará a lo dispuesto en esta Ley, para las Instituciones Policiales en materia de carrera policial.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2022)</small>
 
-Las reglas y procesos en materia de carrera policial y régimen disciplinario de la Agencia Estatal de Investigaciones, serán aplicados, operados y supervisados por la Procuraduría.
+Las reglas y procesos en materia de carrera policial y régimen disciplinario de la Agencia Estatal de Investigaciones, serán aplicados, operados y supervisados por la Fiscalía.
 
 Los servidores públicos que estén bajo el mando de agentes del Ministerio Público o peritos, serán nombrados y removidos conforme a los ordenamientos legales aplicables; se considerarán trabajadores de confianza y los efectos de su nombramiento se podrán dar por terminados en cualquier momento.
 
@@ -1435,13 +1445,17 @@ X. Contendrá las normas para el registro y el reconocimiento de los certificado
 
 XI. Contendrá las normas para el registro de las incidencias del personal.
 
-### CAPÍTULO II. DEL INGRESO AL SERVICIO DE CARRERA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ABRIL DE 2022)</small>
+
+### CAPÍTULO II. DEL INGRESO AL SERVICIO DE CARRERA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA
 
 ###### Artículo 66.
 
 El ingreso al Servicio de Carrera se hará por convocatoria pública.
 
-Los aspirantes a ingresar a la Procuraduría, deberán cumplir, con los requisitos siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE ABRIL DE 2022)</small>
+
+Los aspirantes a ingresar a la Fiscalía General, deberán cumplir, con los requisitos siguientes:
 
 A. Ministerio Público.
 
@@ -1491,13 +1505,17 @@ Previo al ingreso de los aspirantes a los cursos de formación inicial, deberán
 
 Asimismo, deberá verificarse la autenticidad de los documentos presentados por los aspirantes.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2022)</small>
+
 ###### Artículo 68.
 
-Los aspirantes a ingresar al Servicio de Carrera de la Procuraduría deberán cumplir con los estudios de formación inicial.
+Los aspirantes a ingresar al Servicio de Carrera de la Fiscalía deberán cumplir con los estudios de formación inicial.
 
-Corresponderá al Gobernador del Estado y al Procurador, regular los términos en que la formación inicial se llevará a cabo. La duración de los programas de formación inicial no podrá ser inferior a quinientas horas clase. En todo caso atendiendo a los lineamientos aplicables.
+Corresponderá al Gobernador del Estado y al Fiscal General, regular los términos en que la formación inicial se llevará a cabo. La duración de los programas de formación inicial no podrá ser inferior a quinientas horas clase. En todo caso atendiendo a los lineamientos aplicables.
 
-### CAPÍTULO III. DEL DESARROLLO DEL SERVICIO DE CARRERA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ABRIL DE 2022)</small>
+
+### CAPÍTULO III. DEL DESARROLLO DEL SERVICIO DE CARRERA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA
 
 ###### Artículo 69.
 
@@ -1517,9 +1535,11 @@ VI. Cumplir con las obligaciones y requisitos que les impongan la presente Ley y
 
 Lo dispuesto por este artículo aplicará sin perjuicio de otros requisitos que establezcan las leyes respectivas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2022)</small>
+
 ###### Artículo 70.
 
-Los Integrantes de la Procuraduría deberán someterse y aprobar los procesos de evaluación de control de confianza y del desempeño con la periodicidad y en los casos que establezca la normatividad aplicable.
+Los Integrantes de la Fiscalía General deberán someterse y aprobar los procesos de evaluación de control de confianza y del desempeño con la periodicidad y en los casos que establezca la normatividad aplicable.
 
 Los resultados de los procesos de evaluación y los expedientes que se formen con los mismos serán confidenciales, salvo en aquellos casos en que deban presentarse en procedimientos administrativos o judiciales y se mantendrán en reserva en los términos de las disposiciones aplicables, salvo en los casos que señala la presente Ley.
 
@@ -1527,7 +1547,9 @@ Los resultados de los procesos de evaluación y los expedientes que se formen co
 
 Las solicitudes de reincorporación al servicio de carrera se analizarán y en su caso, se concederán con arreglo a lo que establezcan las leyes respectivas, siempre que el motivo de la baja haya sido por causas distintas al incumplimiento de los requisitos de permanencia o al seguimiento de un proceso de responsabilidad administrativa o penal, local o federal.
 
-### CAPÍTULO IV. DE LA TERMINACIÓN DEL SERVICIO DE CARRERA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ABRIL DE 2022)</small>
+
+### CAPÍTULO IV. DE LA TERMINACIÓN DEL SERVICIO DE CARRERA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA
 
 ###### Artículo 72.
 
@@ -1565,39 +1587,53 @@ Los planes de estudios se integrarán por el conjunto de contenidos teóricos y 
 
 ### CAPÍTULO VI. DE LA CERTIFICACIÓN
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2022)</small>
+
 ###### Artículo 76.
 
-Los aspirantes que ingresen a la Procuraduría, deberán contar con el Certificado y registro correspondientes, de conformidad con lo establecido por esta Ley.
+Los aspirantes que ingresen a la Fiscalía General, deberán contar con el Certificado y registro correspondientes, de conformidad con lo establecido por esta Ley.
 
-Ninguna persona podrá ingresar o permanecer en la Procuraduría, sin contar con el Certificado y registro vigentes.
+Ninguna persona podrá ingresar o permanecer en la Fiscalía General, sin contar con el Certificado y registro vigentes.
 
 ###### Artículo 77.
 
 El Centro Estatal, emitirá los certificados correspondientes a quienes acrediten los requisitos de ingreso que establece esta Ley y, los ordenamientos legales aplicables a la institución de que se trate.
 
-El Certificado tendrá por objeto acreditar que el servidor público es apto para ingresar o permanecer en la Procuraduría, y que cuenta con los conocimientos, el perfil, las habilidades y las aptitudes necesarias para el desempeño de su cargo.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2022)</small>
+
+El Certificado tendrá por objeto acreditar que el servidor público es apto para ingresar o permanecer en la Fiscalía, y que cuenta con los conocimientos, el perfil, las habilidades y las aptitudes necesarias para el desempeño de su cargo.
 
 ###### Artículo 78.
 
 El Certificado a que se refiere el artículo anterior, para su validez, deberá otorgarse en un plazo no mayor a sesenta días naturales contados a partir de la conclusión del proceso de certificación, a efecto de que sea ingresado en el Registro Nacional de Personal de Seguridad Pública. Dicha certificación y registro tendrán una vigencia de tres años.
 
-Los servidores públicos de la Procuraduría deberán someterse a los procesos de evaluación en los términos de la normatividad correspondiente, con seis meses de anticipación a la expiración de la validez de su certificado y registro, a fin de obtener la revalidación de los mismos, en los términos que determinen las autoridades competentes.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2022)</small>
 
-La revalidación del certificado será requisito indispensable para su permanencia en la Procuraduría y deberá registrarse para los efectos a que se refiere el artículo anterior.
+Los servidores públicos de la Fiscalía General deberán someterse a los procesos de evaluación en los términos de la normatividad correspondiente, con seis meses de anticipación a la expiración de la validez de su certificado y registro, a fin de obtener la revalidación de los mismos, en los términos que determinen las autoridades competentes.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2022)</small>
+
+La revalidación del certificado será requisito indispensable para su permanencia en la Fiscalía General y deberá registrarse para los efectos a que se refiere el artículo anterior.
 
 ###### Artículo 79.
 
 La certificación que otorgue el Centro Estatal deberá contener los requisitos y medidas de seguridad que para tal efecto acuerde el Centro Nacional de Certificación y Acreditación.
 
-Los servidores públicos de la Procuraduría que deseen prestar sus servicios en otra institución, ya sea en la Federación o en otras Entidades o en algún municipio, deberán presentar el Certificado que les haya sido expedido previamente.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2022)</small>
 
-Las Procuraduría reconocerá la vigencia de los certificados debidamente expedidos y registrados, conforme a las disposiciones de esta Ley y demás aplicables. En caso contrario, previo a su ingreso, el servidor público deberá someterse a los procesos de evaluación.
+Los servidores públicos de la Fiscalía General que deseen prestar sus servicios en otra institución, ya sea en la Federación o en otras Entidades o en algún municipio, deberán presentar el Certificado que les haya sido expedido previamente.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2022)</small>
+
+La Fiscalía General reconocerá la vigencia de los certificados debidamente expedidos y registrados, conforme a las disposiciones de esta Ley y demás aplicables. En caso contrario, previo a su ingreso, el servidor público deberá someterse a los procesos de evaluación.
 
 En todos los casos, se deberán realizar las inscripciones que correspondan en el Registro Nacional de Personal de Seguridad Pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2022)</small>
+
 ###### Artículo 80.
 
-La cancelación del certificado de los Servidores Públicos de la Procuraduría procederá:
+La cancelación del certificado de los Servidores Públicos de la Fiscalía General procederá:
 
 I. Al ser separados de su encargo por incumplir con alguno de los requisitos de ingreso o permanencia a que se refiere esta Ley y demás disposiciones aplicables;
 
@@ -1607,9 +1643,11 @@ III. Por no obtener la revalidación de su Certificado, y
 
 IV. Por las demás causas que establezcan las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2022)</small>
+
 ###### Artículo 81.
 
-Cuando la Procuraduría cancele algún certificado, deberá hacer la anotación respectiva en el Registro Nacional de Personal de Seguridad Pública.
+Cuando la Fiscalía General cancele algún certificado, deberá hacer la anotación respectiva en el Registro Nacional de Personal de Seguridad Pública.
 
 ## TÍTULO NOVENO. DEL DESARROLLO POLICIAL
 
@@ -1661,11 +1699,13 @@ I. Prevención, que será la encargada de prevenir la comisión de delitos e inf
 
 II. Reacción, que será la encargada de garantizar, mantener y restablecer el orden y la paz públicos.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2022)</small>
+
 ###### Artículo 88.
 
-Las unidades de policía encargadas de la investigación científica que se encuentren ubicadas en la estructura orgánica de la Procuraduría General de Justicia del Estado, o en la Secretaría, se coordinarán en los términos de esta Ley y demás disposiciones aplicables para el desempeño de dichas funciones.
+Las unidades de policía encargadas de la investigación científica que se encuentren ubicadas en la estructura orgánica de la Fiscalía General del Estado de Oaxaca, o en la Secretaría, se coordinarán en los términos de esta Ley y demás disposiciones aplicables para el desempeño de dichas funciones.
 
-La unidad de policía encargada de la investigación ubicada dentro de la estructura orgánica de la Procuraduría, se sujetará a lo dispuesto en el presente Título, quedando a cargo de dicha institución, la aplicación de las normas, supervisión y operación de los procedimientos relativos al desarrollo policial.
+La unidad de policía encargada de la investigación ubicada dentro de la estructura orgánica de la Fiscalía General, se sujetará a lo dispuesto en el presente Título, quedando a cargo de dicha institución, la aplicación de las normas, supervisión y operación de los procedimientos relativos al desarrollo policial.
 
 ###### Artículo 89.
 
@@ -2979,7 +3019,9 @@ i. Fotografía a color del detenido de frente y perfil; y
 
 j. Fotografía panorámica del lugar de detención, en su caso.
 
-II. De la información proporcionada por la Procuraduría, los siguientes datos del detenido:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE ABRIL DE 2022)</small>
+
+II. De la información proporcionada por la Fiscalía General, los siguientes datos del detenido:
 
 a. Domicilio, fecha de nacimiento, estado civil, grado de estudios y ocupación o profesión;
 
@@ -3482,3 +3524,11 @@ P.O. 4 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 2 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 482.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES XX Y XXI DEL ARTÍCULO 7; LAS FRACCIONES IV, V, Y VI DEL ARTÍCULO 16; LA FRACCIÓN III DEL ARTÍCULO 38; LA FRACCIÓN XV DEL ARTÍCULO 47; LA DENOMINACIÓN DEL TÍTULO OCTAVO; LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 63; LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO OCTAVO; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 66; EL ARTÍCULO 68; LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO OCTAVO; EL PRIMER PÁRRAFO DEL ARTÍCULO 70; LA DENOMINACIÓN DEL CAPÍTULO CUARTO DEL TÍTULO OCTAVO; EL ARTÍCULO 76; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 77; LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 78; LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 79; EL PRIMER PÁRRAFO DEL ARTÍCULO 80; EL ARTÍCULO 81; EL ARTÍCULO 88; Y LA FRACCIÓN II DEL ARTÍCULO 168 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
