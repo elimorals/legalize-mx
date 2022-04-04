@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-judicial-para-el-estado-de-nayarit-74403
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-03-20"
-last_updated: "2021-01-15"
+last_updated: "2022-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2022.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 20 de marzo de 2010.
 
@@ -1326,6 +1326,10 @@ El Consejo de la Judicatura se integra por:
 5. Una consejera o consejero nombrado por el Congreso.
 
 Se integrará al pleno del Consejo, nombrado por éste, un Secretario Ejecutivo y la persona que sea designada deberá provenir del sistema de carrera judicial.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2022)</small>
+
+En la integración del Consejo se observará el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
@@ -2778,3 +2782,11 @@ TERCERO.- Para los efectos del artículo sexto transitorio del Decreto de reform
 CUARTO.- El Consejo de la Judicatura contará con un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, para expedir el reglamento de la Comisión de Ética del Poder Judicial.
 
 QUINTO.- En un plazo no mayor de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán expedir los reglamentos de la oficina de la presidencia del Tribunal, así como realizar las adecuaciones normativas correspondientes en los reglamentos y acuerdos internos, en tanto se dictan los reglamentos, la persona titular de la presidencia dictará las medidas administrativas que legalmente sean necesarias.
+
+P.O. 4 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 79 DE LA LEY ORGÁNICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE PARIDAD DE GÉNERO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Para garantizar el principio de paridad de género en la integración del Consejo de la Judicatura, ésta habrá de realizarse de manera progresiva y equitativa a partir de las nuevas designaciones y nombramientos que correspondan.
