@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-premios-que-otorga-el-congreso-del-estado-de-57668"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2019-04-01"
+last_updated: "2022-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -49,9 +49,9 @@ LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES
 
 La presente Ley tiene por objeto regular los casos, términos y condiciones para aquellas personas que por su conducta, méritos, obras o virtudes, reciban el reconocimiento por parte del Congreso del Estado y los premios que la presente Ley establece.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2022)</small>
 
-Los premios se otorgarán en el tercer año de ejercicio constitucional de la Legislatura correspondiente, en sesión solemne que será convocada para el día seis de septiembre.
+Los premios se otorgarán en el Segundo Año de Ejercicio Constitucional de la Legislatura correspondiente, en Sesión Solemne que será convocada para el mes de junio de la respectiva Legislatura.
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
@@ -384,3 +384,11 @@ El presente Decreto iniciará su vigencia a partir del día siguiente al de su p
 ###### ARTÍCULO SEGUNDO.
 
 Se abrogar (sic) la Ley que Crea el Premio Estatal de Periodismo del Estado de Aguascalientes, emitida mediante el Decreto Número 413, expedido por la LXII Legislatura del H. Congreso del Estado de Aguascalientes, publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de noviembre de 2016.
+
+P.O. 4 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 1° DE LA LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
