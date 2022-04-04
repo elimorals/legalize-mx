@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2022-03-28"
+last_updated: "2022-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2022.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -941,9 +941,11 @@ VI. Asesorar, valorar, analizar y emitir recomendaciones sobre los programas y a
 
 VII. Las demás que le señale el reglamento del organismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2022)</small>
+
 ###### ARTICULO 34.
 
-El Director General del Organismo Operador Municipal deberá ser ciudadano mexicano mayor de treinta y cinco años de edad con experiencia técnica, administrativa y profesional, comprobada en materia de aguas, y tendrá las siguientes atribuciones:
+El Director General del Organismo Operador Municipal deberá ser: ciudadano mexicano, mayor de edad, con experiencia técnica, administrativa y profesional, comprobada en materia de aguas, y tendrá las siguientes atribuciones:
 
 I. Ejercer la representación legal del organismo, con las facultades que le confiere esta ley y las demás disposiciones legales de la materia;
 
@@ -2488,3 +2490,11 @@ P.O. 28 DE MARZO DE 2022.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 103.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 34 DE LA LEY DE AGUA POTABLE DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
