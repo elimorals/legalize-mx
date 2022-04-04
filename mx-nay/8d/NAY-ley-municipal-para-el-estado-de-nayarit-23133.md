@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2021-05-07"
+last_updated: "2022-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -373,11 +373,11 @@ Para crear nuevos municipios dentro de los límites de los ya existentes, modifi
 
 ### CAPÍTULO I. De la integración de los Ayuntamientos
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2022)</small>
 
 ###### ARTICULO 30.
 
-Los Ayuntamientos de cada municipio se integran por un Presidente Municipal, un Síndico y Regidores de mayoría relativa y de representación proporcional, electos de conformidad a lo dispuesto por la Constitución Política del Estado y la Ley Electoral.
+Los Ayuntamientos de cada municipio se integran por una o un Presidente Municipal, una o un Síndico y por Regidurías de mayoría relativa y de representación proporcional, de conformidad con el principio de paridad de género, y a lo dispuesto por la Constitución Política del Estado Libre y Soberano de Nayarit y la Ley Electoral del Estado de Nayarit.
 
 ###### ARTICULO 31.
 
@@ -971,7 +971,9 @@ III.- Cumplir y hacer cumplir las leyes, el Bando de Policía y Buen Gobierno y 
 
 IV.- Formar el catastro y padrón municipal, cuidando que estén inscritos todos los vecinos, con su nombre, edad, estado civil, nacionalidad, residencia, domicilio, propiedades, profesión, actividad productiva o trabajo de que subsistan, y si son jefes de familia, en cuyo caso se asentará el número y sexo de las personas que la formen;
 
-V.- Proponer al Ayuntamiento en la primera sesión de Cabildo, los nombramientos del Secretario, Tesorero, Contralor y demás titulares de la administración municipal. La propuesta que presente el Presidente Municipal será sometida a la aprobación del Cabildo; de no acordarse procedente, el Presidente Municipal presentara en la misma sesión una terna de candidatos para cada puesto, de entre los cuales el Cabildo hará la designación respectiva; si dicho cuerpo colegiado no acordare favorablemente o negare, en su caso, la propuesta de los candidatos, el Presidente Municipal expedirá inmediatamente a favor de cualquiera de los candidatos de la terna propuesta para cada cargo;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2022)</small>
+
+V.- Proponer al Ayuntamiento en la primera sesión de Cabildo, los nombramientos del Secretario, Tesorero, Contralor y demás titulares de la administración municipal. La propuesta que presente la o el Presidente Municipal será sometida a la aprobación del Cabildo; de no acordarse procedente, la o el Presidente Municipal presentará en la misma sesión una terna de aspirantes para cada puesto, de entre los cuales el Cabildo hará la designación respectiva; si dicho cuerpo colegiado no acordare favorablemente o negare, en su caso, la propuesta de aspirantes, la o el Presidente Municipal expedirá inmediatamente a favor de cualquiera de las o los aspirantes de la terna propuesta para cada cargo. Para lo anterior, deberá observarse el principio de paridad de género;
 
 VI.- Proponer al Ayuntamiento, en su caso, la remoción o sustitución del Secretario, Tesorero y demás titulares de las dependencias administrativas del municipio;
 
@@ -1842,6 +1844,10 @@ La administración municipal comprenderá esencialmente, de manera declarativa y
 > <small>(ADICIONADO, P.O. 7 DE MAYO DE 2021)</small>
 
 14.- Instituto Municipal de la Juventud.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2022)</small>
+
+En la designación de las personas que ocuparán la titularidad de dichas dependencias, los Ayuntamientos deberán observar el principio de paridad de género, por lo que las propuestas que al efecto someta a su consideración la o el Presidente Municipal deberán atender tal principio. Dichas propuestas no deberán estar inscritas en el Registro de Deudores Alimentarios Morosos en el Estado de Nayarit o en otra entidad federativa; ni en el Registro Nacional de Personas Sancionadas en materia de Violencia Política contra las Mujeres en Razón de Género.
 
 > <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
 
@@ -4500,3 +4506,13 @@ SEGUNDO.- Los Ayuntamientos del Estado de Nayarit, contarán con sesenta días n
 TERCERO.- Los Ayuntamientos del Estado de Nayarit, contemplarán dentro de sus estructuras orgánicas y presupuestarias a los Institutos Municipales de la Mujer y de la Juventud, a partir del ejercicio fiscal de 2022, en consecuencia, tendrán hasta el 30 de abril de ese año para expedir la reglamentación interna de los Institutos.
 
 CUARTO.- Comuníquese el presente Decreto a los veinte Ayuntamientos del Estado de Nayarit, para los efectos legales conducentes.
+
+P.O. 4 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE PARIDAD DE GÉNERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- La integración de las áreas administrativas municipales, habrá de realizarse de manera progresiva y equitativa hasta garantizar el principio de paridad de género, a partir de las nuevas designaciones y nombramientos que correspondan.
+
+TERCERO.- Comuníquese el presente Decreto a los veinte Ayuntamientos del Estado de Nayarit, para los efectos conducentes.
