@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-evaluacion-de-la-5615
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-07-16"
-last_updated: "2021-09-01"
+last_updated: "2022-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56150&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-03-16"
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MARZO DE 2022.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 16 de julio de 2007.
 
@@ -551,31 +551,27 @@ II. Coordinación General de Análisis de la Pobreza.
 
 2. Dirección de Muestreo y Estadística.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], D.O.F. 4 DE ABRIL DE 2022)</small>
 
 III. Coordinación General de Evaluación.
 
 1. Dirección de Planeación y Normatividad de la Política de Evaluación.
 
-2. Dirección de Análisis y Seguimiento de Resultados.
+2. Dirección de Análisis y Seguimiento de Resultados
 
-3. Dirección de Monitoreo de Programas Sociales.
+3. Dirección de Evaluación de Impacto.
 
-> <small>(ADICIONADO, D.O.F. 23 DE OCTUBRE DE 2015)</small>
-
-4. Dirección de Evaluación de Impacto.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], D.O.F. 4 DE ABRIL DE 2022)</small>
 
 IV. Coordinación General de Monitoreo, Entidades Federativas y Fortalecimiento Institucional
 
-1. Dirección de Servicios Jurídicos.
+1. Dirección de Monitoreo de Programas Sociales.
 
-> <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+2. Dirección de Servicios Jurídicos.
 
-2. Dirección de Información y Comunicación Social.
+3. Dirección de Información y Comunicación Social.
 
-3. Dirección de Servicios Técnicos.
+4. Dirección de Servicios Técnicos.
 
 > <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
@@ -889,19 +885,25 @@ Para el cumplimiento de su objeto la Coordinación General de Análisis de la Po
 
 I. Planear y coordinar las actividades relacionadas con la generación de lineamientos, metodologías, normas, modelos e instrumentos de medición, identificación y definición de la pobreza a nivel nacional, estatal y municipal;
 
-II. Poner a consideración de la Secretaría Ejecutiva los criterios y lineamientos para medir, identificar y definir la pobreza a nivel nacional, estatal y municipal;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+
+II. Planear y proponer a la Secretaría Ejecutiva los criterios y lineamientos para medir, identificar y definir la pobreza a nivel nacional, estatal y municipal;
 
 III. Definir criterios de resultados que apoyen el establecimiento de las zonas de atención prioritaria;
 
 IV. Establecer lineamientos para la difusión de los resultados de la medición de pobreza, garantizando su rigor técnico, objetividad y transparencia;
 
-V. Proponer la realización de cursos, talleres y seminarios sobre medición de la pobreza;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+
+V. Planificar la realización de cursos, talleres y seminarios sobre medición de la pobreza;
 
 VI. Dirigir las estrategias de medición y análisis de los resultados de los diferentes niveles de pobreza conforme a la normatividad establecida;
 
 VII. Establecer las estrategias de medición de la pobreza a nivel nacional, estatal y municipal;
 
-VIII. Analizar y confrontar la información derivada de las mediciones de pobreza realizadas sobre la base de los criterios e indicadores aprobados;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+
+VIII. Dirigir el análisis de la información derivada de las mediciones de pobreza realizadas sobre la base de los criterios e indicadores aprobados;
 
 IX. Coordinar estudios e investigaciones en materia de medición de pobreza a nivel nacional, estatal y municipal;
 
@@ -923,9 +925,9 @@ XV. Acordar con el Secretario Ejecutivo los asuntos de su competencia.
 
 XVI. Coordinar las estimaciones sobre la pobreza a nivel nacional, estatal y municipal, de conformidad con los criterios establecidos por el Consejo;
 
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
-XVII. Proponer a la Coordinación General de Análisis de la Pobreza, métodos de análisis para la medición de la pobreza;
+XVII. Coordinar los métodos de análisis para la medición de la pobreza a nivel nacional, estatal y municipal;
 
 > <small>(ADICIONADA, D.O.F. 23 DE OCTUBRE DE 2015)</small>
 
@@ -947,27 +949,29 @@ XXI. Dirigir el intercambio de información con otros organismos para obtener c�
 
 XXII. Coordinar la elaboración de informes oficiales de resultados de las mediciones de pobreza;
 
-> <small>(ADICIONADA, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
-XXIII. Analizar los vínculos entre medición de la pobreza y el impacto de los programas sociales;
+XXIII. Coordinar el análisis y desagregación de los cambios en los niveles de pobreza para determinar el impacto de los programas y políticas de desarrollo social;
 
-> <small>(ADICIONADA, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
-XXIV. Analizar y desagregar los cambios en los niveles de pobreza para determinar el impacto de los programas y políticas de desarrollo social;
+XXIV. Dirigir estudios e investigaciones en materia de medición de la pobreza a nivel nacional, estatal y municipal;
 
 > <small>(ADICIONADA, D.O.F. 23 DE OCTUBRE DE 2015)</small>
 
 XXV. Elaborar estudios e investigaciones en materia de medición de la pobreza a nivel nacional, estatal y municipal;
 
-> <small>(ADICIONADA, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
-XXVI. Coordinar los contenidos de la página de Internet del Consejo, en materia de medición de la pobreza para difundir los resultados alcanzados en la materia.
+XXVI. Participar en los comités y grupos de trabajo relacionados con sus ámbitos de competencia, incluidos los Comités Técnicos Especializados del Sistema Nacional de Información Estadística y Geográfica;
 
-> <small>[N. DE E. DE LA APLICACIÓN DEL ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL, PUBLICADO EN EL D.O.F. DE 23 DE OCTUBRE DE 2015, SE OBSERVA QUE EL CONTENIDO DE LA FRACCIÓN XXVII, ES SIMILAR A LA FRACCIÓN XV DEL PRESENTE ARTÍCULO.]</small>
+> <small>(ADICIONADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
-> <small>(ADICIONADA, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+XXVII. Planificar sistemas de información estadística y territorial sobre indicadores de pobreza y de acceso efectivo a los derechos sociales; y
 
-XXVII. Acordar con el Secretario Ejecutivo los asuntos de su competencia.
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 4 DE ABRIL DE 2022)</small>
+
+XXVIII. Acordar con el Secretario Ejecutivo los asuntos de su competencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1067,13 +1071,17 @@ I. Planear, normar y coordinar la actividad del gobierno federal en materia de e
 
 II. Establecer normas, criterios y metodologías para evaluar la política y/o los programas de desarrollo social;
 
-III. Diagnosticar los sistemas de evaluación a nivel federal y estatal, comparando las mejores prácticas internacionales y proponiendo mejoras a los mecanismos existentes;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+
+III. Diagnosticar el sistema de evaluación a nivel federal, comparando las mejores prácticas internacionales y proponiendo mejoras a los mecanismos existentes;
 
 IV. Planear, promover y proponer el intercambio de apoyo técnico y/o financiero en materia de evaluación, con las autoridades de desarrollo social en las entidades federativas y municipios, así como con organizaciones del sector académico, social y/o privado; nacional o internacional;
 
 V. Planear, promover y proponer los mecanismos para impulsar y fortalecer la cultura de la evaluación de la política y/o los programas de desarrollo social;
 
-VI. Establecer lineamientos para la implementación (sic) un sistema de evaluación y monitoreo basado en resultados;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+
+VI. Establecer lineamientos para la implementación de un sistema de evaluación basado en resultados;
 
 VII. Planear y administrar los mecanismos de análisis y seguimiento de la Política de Desarrollo Social;
 
@@ -1083,25 +1091,39 @@ IX. Dirigir la verificación del cumplimiento de los resultados y/o compromisos 
 
 X. Coordinar la relación con organismos externos, dependencias federales, entidades federativas y municipios, así como otros organismos en materia de evaluación de la política y/o los programas de desarrollo social;
 
-XI. Determinar las duplicidades y complementariedades que existan entre los programas de desarrollo social, proponiendo evaluar, monitorear o replantear esquemas de operación para mejorar la Política de Desarrollo Social;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
-XII. Coordinar la elaboración de los informes de resultados en materia de evaluación que se presenten al órgano colegiado, al Comité Directivo, a la Comisión Intersecretarial y a la Comisión Nacional de Política Social;
+XI. Determinar las similitudes y complementariedades que existan entre los programas de desarrollo social, proponiendo evaluar, monitorear o replantear esquemas de operación para mejorar la Política de Desarrollo Social;
+
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+
+XII. Coordinar la elaboración de los informes de resultados en materia de evaluación que se presenten al órgano colegiado, al Comité Directivo, a la Comisión Intersecretarial y a la Comisión Nacional de Desarrollo Social;
 
 XIII. Coordinar la implementación y el seguimiento de los resultados de las evaluaciones internas que sean realizadas por el Consejo, en apego a la normatividad establecida y a los objetivos estratégicos del sector;
 
-XIV. Determinar y coordinar los mecanismos de monitoreo de la política y/o los programas de desarrollo social;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
-XV. Planear, normar y coordinar la actividad del gobierno federal en materia de monitoreo de la política y/o los programas de desarrollo social;
+XIV. Determinar y coordinar los mecanismos de seguimiento de la política y/o los programas de desarrollo social;
 
-XVI. Establecer normas, criterios y metodologías que fomenten el monitoreo de la política y/o los programas de desarrollo social;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
-XVII. Planear la realización de diagnósticos de los sistemas de monitoreo a nivel federal, comparando las mejores prácticas internacionales y proponiendo mejoras a los mecanismos existentes;
+XV. Planear, promover y proponer los mecanismos para impulsar y fortalecer los sistemas de evaluación de la política y/o los programas de desarrollo social;
 
-XVIII. Planear, promover y proponer el intercambio de apoyo técnico y/o financiero en materia de monitoreo, con las autoridades de desarrollo social en las entidades federativas y municipios, así como con organizaciones del sector académico, social y/o privado; nacional o internacional;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
-XIX. Planear, promover y proponer los mecanismos para impulsar y fortalecer los sistemas de monitoreo de la política y/o los programas de desarrollo social, y
+XVI. Normar y coordinar un inventario de programas de desarrollo social como herramienta de planeación para las actividades de evaluación;
 
-XX. Acordar con el Secretario Ejecutivo los asuntos de su competencia.
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+
+XVII. Establecer criterios para la definición e identificación de los programas y/o acciones de desarrollo social con el objetivo de brindar información oportuna para la toma de decisiones en materia de desarrollo social; y
+
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+
+XVIII. Acordar con la Secretaría Ejecutiva los asuntos de su competencia.
+
+XIX. (DEROGADA, D.O.F. 4 DE ABRIL DE 2022)
+
+XX. (DEROGADA, D.O.F. 4 DE ABRIL DE 2022)
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1153,11 +1175,17 @@ Corresponde a la Dirección de Análisis y Seguimiento de Resultados las siguien
 
 I. Dirigir los procesos de supervisión y verificación en el cumplimiento de la normatividad de las evaluaciones externas de la política y/o los programas de desarrollo social;
 
-II. Planear y coordinar la elaboración de los informes oficiales de resultados que deba emitir el Consejo, con base en los resultados de la evaluación externa y/o interna, conducida por el Consejo, sobre la política y/o los programas de desarrollo social;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
-III. Planear y coordinar los procesos de diseminación interna y externa de los resultados de la evaluación de la política y/o los programas de desarrollo social;
+II. Dirigir y coordinar la elaboración de los informes oficiales de resultados que deba emitir el Consejo, con base en los resultados de la evaluación externa y/o interna, conducida por el Consejo, sobre la política y/o los programas de desarrollo social;
 
-IV. Analizar y gestionar las actividades necesarias, para la atención de las consultas y propuestas en materia de evaluación de la política y/o los programas de desarrollo social, que emita el sector social, público o privado;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+
+III. Dirigir y coordinar los procesos de diseminación interna y externa de los resultados de la evaluación de la política y/o los programas de desarrollo social;
+
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+
+IV. Determinar e instruir las actividades necesarias, para la atención de las consultas y propuestas en materia de evaluación de la política y/o los programas de desarrollo social, que emita el sector social, público o privado;
 
 V. Dirigir y administrar un sistema de seguimiento a las recomendaciones de las evaluaciones de la política y/o los programas de desarrollo social;
 
@@ -1171,15 +1199,117 @@ IX. Dirigir y coordinar la realización de estudios e investigaciones que lleve 
 
 X. Establecer criterios para la formulación de normas y lineamientos que permitan el desarrollo de las evaluaciones internas que conduzca el Consejo;
 
-XI. Establecer canales de comunicación con las Unidades Administrativas de las dependencias federales que operen programas de desarrollo social seleccionados para que el Consejo realice una evaluación sobre los mismos, y
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+XI. Establecer canales de comunicación con las Unidades Administrativas de las dependencias federales que operen programas de desarrollo social seleccionados para que el Consejo realice una evaluación sobre los mismos;
 
-XII. Acordar con la Coordinación General de Evaluación los asuntos de su competencia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 4 DE ABRIL DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+XII. Establecer y administrar un inventario de programas y acciones de desarrollo social de las dependencias federales con el objeto de contar con una herramienta de planeación para las actividades de evaluación y monitoreo y para que brinde información oportuna para la toma de decisiones en materia de desarrollo social;
+
+> <small>(ADICIONADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+
+XIII. Proponer criterios para la definición e identificación de los programas y/o acciones de desarrollo social; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 4 DE ABRIL DE 2022)</small>
+
+XIV. Acordar con la Coordinación General de Evaluación los asuntos de su competencia.
+
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2022)</small>
 
 ###### Artículo 45.
+
+La Dirección de Evaluación de Impacto tendrá las siguientes funciones:
+
+I. Coordinar las evaluaciones de impacto de las políticas, programas, metas y acciones de la Política de Desarrollo Social, conforme a los lineamientos establecidos por el Consejo, con el objeto de revisar el cumplimiento del objeto social y conocer los resultados de los mismos;
+
+II. Proponer líneas de investigación para evaluar el impacto de las políticas, programas, metas y acciones de desarrollo social, con el fin de revisar si se produjo el efecto deseado de los programas;
+
+III. Proponer criterios para la formulación de lineamientos de la evaluación de impacto de los programas de desarrollo social que operan las dependencias federales, con el fin de apoyar los objetivos estratégicos del Consejo;
+
+IV. Vigilar la aplicación de los requerimientos mínimos que deberán considerar las evaluaciones de impacto de los programas de desarrollo social que efectúen las dependencias federales, con el fin de garantizar el cumplimiento de los objetivos estratégicos del Consejo;
+
+V. Proponer los cursos, talleres y seminarios en materia de evaluación de impacto, métodos experimentales y cuasiexperimentales, así como técnicas estadísticas para la selección muestral, con la finalidad de fortalecer la capacidad institucional en la materia;
+
+VI. Proponer los tiempos para el desarrollo, ejecución y entrega de resultados de la evaluación de impacto de los programas de desarrollo social que ejecuten las dependencias federales, con el objeto de que éstas cumplan con la normatividad y los objetivos estratégicos del Consejo;
+
+VII. Coordinar el diseño, de las evaluaciones de impacto de los programas de desarrollo social que coordine el Consejo con el fin de cumplir con los objetivos estratégicos de la entidad;
+
+VIII. Dirigir y coordinar la realización de las evaluaciones de impacto que lleve a cabo el Consejo, con el fin de garantizar la generación de evaluaciones de calidad y rigor técnico y cumplir con los objetivos estratégicos del Consejo;
+
+IX. Proponer criterios para el seguimiento de la difusión de evaluaciones y sus resultados con el fin de contribuir a la disponibilidad y accesibilidad de las evaluaciones;
+
+X. Proponer acciones para el intercambio de apoyo técnico y/o financiero para el correcto desarrollo de las evaluaciones de impacto de los programas de desarrollo social, con organizaciones del sector académico, social y/o privado; nacional o internacional, con el objeto de garantizar el cumplimiento de los objetivos estratégicos del Consejo;
+
+XI. Asesorar y orientar a las entidades federativas en el establecimiento de mecanismos de coordinación y dirección de las evaluaciones de impacto de los programas de desarrollo social con el objeto de orientar su gestión al logro de resultados;
+
+XII. Establecer y coordinar los mecanismos de control para los organismos evaluadores independientes que participen en las evaluaciones de impacto desarrolladas por el Consejo, con el objeto de asegurar las mejores condiciones técnicas de las evaluaciones;
+
+XIII. Proponer criterios para la identificación de información cuantitativa y cualitativa de los programas y acciones de desarrollo social que operan las dependencias federales, con el fin de generar insumos para el análisis de similitudes y/o complementariedades;
+
+XIV. Proponer los requerimientos mínimos de carácter técnico que deberán aplicarse para el diseño y desarrollo de las evaluaciones de impacto, con el fin de garantizar la generación de evaluaciones de calidad;
+
+XV. Planear y administrar una base de datos de las evaluaciones de impacto en México, de los programas de desarrollo social, que cumplan con las condiciones técnicas, con el fin de garantizar los objetivos estratégicos del Consejo; y
+
+XVI. Acordar con la Coordinación General de Evaluación los asuntos de su competencia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+
+### Capítulo XI. De la Coordinación General de Monitoreo, Entidades Federativas y Fortalecimiento Institucional
+
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2022)</small>
+
+###### Artículo 46.
+
+La Coordinación General de Monitoreo, Entidades Federativas y Fortalecimiento Institucional tendrá las siguientes funciones:
+
+I. Coordinar los servicios de asesoría jurídica mediante la gestión de la representación legal del Consejo;
+
+II. Coordinar la representación legal del Consejo ante cualquier tribunal y autoridad administrativa y judicial;
+
+III. Asesorar al Secretario Ejecutivo, a los investigadores académicos y a las Coordinaciones Generales, sobre la normatividad en general para su adecuada interpretación;
+
+IV. Proponer disposiciones normativas a la consideración de la Secretaría Ejecutiva y del Comité, así como dirigir su análisis, revisión y dictaminación;
+
+V. Planear y dirigir la estrategia de información, comunicación social y la representación oficial del Consejo a través de los diversos medios de comunicación;
+
+VI. Dirigir la estrategia editorial del Consejo y la difusión pública, así como la de implementación de medios digitales que apoyen la difusión institucional del Consejo;
+
+VII. Establecer las directrices de difusión e imagen institucional de seminarios, talleres, cursos, conferencias y otras modalidades que soliciten las unidades administrativas;
+
+VIII. Dirigir la publicación oficial, así como la edición e impresión de la literatura especializada que emita el Consejo;
+
+IX. Dirigir los servicios de asesoría técnica que requiera el grupo de Consejeros en lo individual, así como en la Comisión Ejecutiva y Comité Directivo mediante la integración de los planes de trabajo de las áreas sustantivas del Consejo;
+
+X. Administrar la documentación de las sesiones y el registro de las actas y acuerdos de la Comisión Ejecutiva;
+
+XI. Conducir la integración, seguimiento y evaluación de la planeación institucional del Consejo;
+
+XII. Establecer un sistema de administración de proyectos para integrar las investigaciones individuales que realicen los consejeros sobre medición de la pobreza y evaluación de programas sociales;
+
+XIII. Coordinar los servicios de apoyo técnico al Secretario Ejecutivo;
+
+XIV. Dirigir la estrategia del fortalecimiento de sistemas de monitoreo y evaluación, así como el uso de la información del Consejo en las entidades federativas, municipios y sociedad civil.
+
+XV. Coordinar el seguimiento a las observaciones que hagan las Comisiones de Desarrollo Social de las Cámaras de Diputados y de Senadores del Congreso de la Unión y las Secretarías de Estado;
+
+XVI. Coordinar el seguimiento a las propuestas, sugerencias y observaciones que hagan la Comisión Nacional de Desarrollo Social, la Comisión Intersecretarial de Desarrollo Social, el Consejo Consultivo de Desarrollo Social, el Ejecutivo Federal y cualquier otro organismo de participación social;
+
+XVII. Dirigir la integración de la información y darle seguimiento a los compromisos de trabajo entre el Secretario Ejecutivo y las Coordinaciones Generales;
+
+XVIII. Planear y coordinar la actividad del gobierno federal en materia de monitoreo de la política y/o los programas de desarrollo social;
+
+XIX. Establecer criterios y metodologías que fomenten el monitoreo de la política y/o los programas de desarrollo social;
+
+XX. Planear la realización de diagnósticos de los sistemas de monitoreo a nivel federal, comparando las mejores prácticas internacionales y proponiendo mejoras a los mecanismos existentes;
+
+XXI. Planear y proponer el intercambio de apoyo técnico en materia de monitoreo, con las autoridades de desarrollo social en las entidades federativas y municipios, así como con organizaciones del sector académico, social y/o privado; nacional o internacional; y
+
+XXII. Acordar con la Secretaría Ejecutiva la atención y el despacho de los asuntos de su competencia.
+
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2022)</small>
+
+###### Artículo 47.
 
 La Dirección de Monitoreo de Programas Sociales tendrá las siguientes funciones:
 
@@ -1187,13 +1317,13 @@ I. Establecer criterios para la formulación de normas, lineamientos y metodolog
 
 II. Determinar los requerimientos mínimos que deberán considerar los mecanismos de monitoreo de los programas de desarrollo social que efectúen las dependencias federales;
 
-III. Planear y proponer los cursos, talleres y seminarios en materia de monitoreo de la política y/o los programas de desarrollo social;
+III. Plantear y proponer los cursos, talleres y seminarios en materia de monitoreo de la política y/o los programas de desarrollo social;
 
-IV. Planear y coordinar la elaboración de los diagnósticos y análisis sobre los sistemas y mecanismos de monitoreo existentes a nivel federal de la política y/o los programas de desarrollo social;
+IV. Plantear y coordinar la elaboración de los diagnósticos y análisis sobre los sistemas y mecanismos de monitoreo existentes a nivel federal de la política y/o los programas de desarrollo social;
 
-V. Dirigir el proceso de seguimiento a los principales resultados y recomendaciones obtenidas del monitoreo de la política y/o los programas de desarrollo social operados por las dependencias federales;
+V. Dirigir el proceso de seguimiento a los principales resultados y recomendaciones de la política y/o los programas de desarrollo social operados por las dependencias federales;
 
-VI. Normar y coordinar la generación de indicadores de resultados, gestión y servicios para los programas de desarrollo social del gobierno federal;
+VI. Coordinar la generación de indicadores de resultados, gestión y servicios para los programas de desarrollo social del gobierno federal;
 
 VII. Establecer y dirigir las metodologías de monitoreo de la política y/o los programas de desarrollo social que operan las dependencias federales;
 
@@ -1205,107 +1335,9 @@ X. Establecer indicadores de gestión y servicios que permitan reflejar los proc
 
 XI. Elaborar la propuesta de indicadores para la consideración de la SHCP y de la Cámara de Diputados por conducto de la Auditoría Superior de la Federación;
 
-XII. Normar y coordinar un inventario de programas de desarrollo social de las dependencias federales como herramienta de planeación para las actividades de evaluación y monitoreo;
+XII. Establecer canales de comunicación con las Unidades Administrativas de las dependencias federales que operen programas de desarrollo social que implementen mecanismos de monitoreo; y
 
-XIII. Establecer criterios para la definición e identificación de los programas de desarrollo social con base en lo establecido en el artículo 18 y 19 de la Ley;
-
-XIV. Establecer y administrar un inventario de programas de desarrollo social de las dependencias federales con el objeto de brindar información oportuna para la toma de decisiones en materia de desarrollo social;
-
-XV. Dirigir y coordinar el análisis de duplicidades y complementariedades de los programas de desarrollo social con base en la información contenida en el inventario de programas de desarrollo social;
-
-XVI. Establecer canales de comunicación con las Unidades Administrativas de las dependencias federales que operen programas de desarrollo social que implementen mecanismos de monitoreo, y
-
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
-
-XVII. Acordar con la Coordinación General de Evaluación los asuntos de su competencia.
-
-### Capítulo XI. De la Coordinación General de Monitoreo, Entidades Federativas y Fortalecimiento Institucional
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
-
-###### Artículo 46.
-
-La Dirección de Evaluación de Impacto tendrá las siguientes funciones:
-
-I. Determinar y coordinar las evaluaciones de impacto de las políticas, programas, metas y acciones de la Política de Desarrollo Social, conforme a los lineamientos establecidos por el Consejo, con el objeto de revisar el cumplimiento del objeto social y conocer los resultados de los mismos;
-
-II. Planear y determinar los criterios para evaluar el impacto socioeconómico de las políticas, programas, metas y acciones de la Política de Desarrollo Social, con el fin de revisar el correcto cumplimiento del objeto social y analizar si se produjo el efecto deseado de los programas;
-
-III. Establecer criterios para la formulación de normas y lineamientos de la evaluación de impacto socioeconómico de los programas de desarrollo social que operan las dependencias federales, con el fin de apoyar los objetivos estratégicos del Consejo;
-
-IV. Determinar los requerimientos mínimos que deberán considerar las evaluaciones de impacto de los programas de desarrollo social que efectúen las dependencias federales, con el fin de garantizar el cumplimiento de los objetivos estratégicos del Consejo;
-
-V. Planear y proponer los cursos, talleres y seminarios que en materia de evaluación de impacto, métodos experimentales y cuasiexperimentales, así como técnicas estadísticas para la selección muestral se realicen, con la finalidad de fortalecer la capacidad institucional en la materia;
-
-VI. Determinar y controlar los tiempos para el desarrollo, ejecución y entrega de resultados de la evaluación de impacto socioeconómico de los programas de desarrollo social que ejecuten las dependencias federales, con el objeto de (sic) éstas cumplan con la normatividad y los objetivos estratégicos del Consejo;
-
-VII. Planear y coordinar el diseño, implementación y supervisión de las evaluaciones de impacto de los programas de desarrollo social que coordine el Consejo con el fin de cumplir con los objetivos estratégicos de la entidad;
-
-VIII. Dirigir y coordinar la realización de las evaluaciones de impacto que lleve a cabo el Consejo, con el fin de garantizar la generación de evaluaciones de calidad y rigor técnico y cumplir con los objetivos estratégicos del Consejo;
-
-IX. Planear y coordinar la elaboración de los diagnósticos y análisis sobre las evaluaciones de impacto socioeconómico de los programas de desarrollo social que operen las dependencias federales, con el objeto de orientar su gestión al logro de resultados;
-
-X. Planear y proponer el intercambio de apoyo técnico y/o financiero para el correcto desarrollo de las evaluaciones de impacto de los programas de desarrollo social, con organizaciones del sector académico, social y/o privado; nacional o internacional, con el objeto de garantizar el cumplimiento de los objetivos estratégicos del Consejo;
-
-XI. Asesorar y orientar a las entidades federativas en el establecimiento de mecanismos de coordinación y dirección de las evaluaciones de impacto socioeconómico de los programas de desarrollo social con el objeto de orientar su gestión al logro de resultados;
-
-XII. Establecer y coordinar los mecanismos de control para los organismos evaluadores independientes que participen en las evaluaciones de impacto socioeconómico de los programas de desarrollo social, con el objeto de asegurar las mejores condiciones técnicas de las evaluaciones;
-
-XIII. Establecer y determinar las normas y criterios que permitan regular la participación de evaluadores externos generando las mejores condiciones técnicas de las evaluaciones de impacto, con el fin de impulsar la capacidad y garantizar la generación de evaluaciones de calidad y rigor técnico;
-
-XIV. Determinar criterios para la formulación de normas y lineamientos que permitan dictaminar el desempeño y capacidad técnica de los organismos evaluadores independientes que participen en las evaluaciones de impacto, con el fin de garantizar la generación de evaluaciones de calidad y rigor técnico;
-
-XV. Determinar los requerimientos mínimos de carácter técnico que se deberán aplicarse (sic) para el diseño, desarrollo y dictaminación de las evaluaciones de impacto, así como los requerimientos técnicos que deberán cumplir los organismos evaluadores independientes que participen en la evaluación de impacto socioeconómico de los programas de desarrollo social, con el fin de garantizar la generación de evaluaciones de calidad, y
-
-XVI. Planear y administrar una base de datos de los organismos evaluadores independientes nacionales e internacionales que cumplan con las condiciones técnicas y puedan participar en las evaluaciones de impacto de los programas de desarrollo social, con el fin de garantizar los objetivos estratégicos del Consejo.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
-
-###### Artículo 47.
-
-La Coordinación General de Monitoreo, Entidades Federativas y Fortalecimiento Institucional tendrá las siguientes funciones:
-
-I. Coordinar los servicios de asesoría jurídica mediante la gestión de la representación legal del Consejo;
-
-II. Coordinar la representación legal del Consejo ante cualquier tribunal y autoridad administrativa y judicial;
-
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
-
-III. Asesorar al Presidente del Consejo, al Secretario Ejecutivo, a los investigadores académicos y a las Coordinaciones Generales, sobre la normatividad en general para su adecuada interpretación;
-
-IV. Proponer propuestas de reglamentos, políticas y disposiciones administrativas a la consideración del Secretario Ejecutivo y del Comité Directivo;
-
-V. Administrar los servicios de información y comunicación social de las actividades del Consejo mediante la gestión de la representación oficial del Consejo a través de los diversos medios de comunicación;
-
-VI. Dirigir la estrategia editorial del Consejo, la representación oficial y la difusión pública a través de los diversos medios de comunicación;
-
-VII. Coordinar la logística y el desarrollo de seminarios, talleres, cursos, conferencias y otras modalidades que soliciten las unidades administrativas;
-
-VIII. Dirigir la publicación oficial así como la edición e impresión de la literatura especializada que emita el Consejo;
-
-IX. Dirigir los servicios de asesoría técnica que requiera el grupo de Consejeros en lo individual así como órgano colegiado y Comité Directivo mediante la integración de los planes de trabajo de las áreas sustantivas del Consejo;
-
-X. Administrar la documentación de las sesiones y el registro de las actas y acuerdos de la Comisión Ejecutiva;
-
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
-
-XI. Coordinar la integración de la información y darle seguimiento a los compromisos de trabajo establecidas (sic) con las Coordinaciones Generales;
-
-XII. Establecer un sistema de administración de proyectos para integrar las investigaciones individuales que realicen los consejeros sobre medición de la pobreza y evaluación de programas sociales;
-
-XIII. Coordinar los servicios de apoyo técnico al Secretario Ejecutivo;
-
-XIV. Administrar los archivos documentales del Secretario Ejecutivo;
-
-XV. Coordinar el seguimiento a las observaciones que hagan las Comisiones de Desarrollo Social de las Cámaras de Diputados y de Senadores del Congreso de la Unión y las Secretarías de Estado;
-
-XVI. Coordinar el seguimiento a las propuestas, sugerencias y observaciones que hagan la Comisión Nacional de Desarrollo Social, la Comisión Intersecretarial de Desarrollo Social, el Consejo Consultivo de Desarrollo Social, el Ejecutivo Federal y cualquier otro organismo de participación social;
-
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
-
-XVII. Dirigir la integración de la información y darle seguimiento a los compromisos de trabajo entre el Secretario Ejecutivo y las Coordinaciones Generales, y
-
-XVIII. Acordar con (sic) Secretaría Ejecutiva la atención y el despacho de los asuntos de su competencia.
+XIII. Acordar con la Coordinación General de Monitoreo, Entidades Federativas y Fortalecimiento Institucional los asuntos de su competencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1317,31 +1349,49 @@ I. Dirigir los servicios de asesoría legal y jurídica en acuerdos, convenios y
 
 II. Proponer proyectos de reglamentos interiores, normas, políticas y demás disposiciones jurídicas necesarias;
 
-III. Determinar y revisar los diversos proyectos de acuerdos, convenios y lineamientos que deba celebrar el Consejo ante los diversos órdenes de gobierno e instituciones públicas, privadas, nacionales e internacionales;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+III. Determinar y revisar los proyectos de acuerdos, convenios y lineamientos que deba celebrar el Consejo ante diversas instituciones públicas, privadas, nacionales o internacionales;
 
-IV. Asesorar a la Coordinación General de Administración en los trámites y actividades de adquisiciones, arrendamientos y contratación de servicios que requiera celebrar el Consejo ante terceros;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
-V. Ejercer en coordinación con el Secretario Ejecutivo la representación legal del Consejo ante cualquier autoridad, institución o persona que le demande algún asunto legal o jurídico de interés del Consejo;
+IV. Asesorar a la Coordinación General de Administración en los trámites y actividades de arrendamientos y contratación de servicios que requiera celebrar el Consejo ante terceros;
 
-VI. Determinar los recursos legales permisibles para atender, contestar y tramitar las demandas y quejas que le opongan al Consejo;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
-VII. Dirigir la sistematización de los tratados internacionales, leyes, reglamentos, decretos, acuerdos, circulares, resoluciones y demás disposiciones jurídicas y administrativas, así como la jurisprudencia y tesis relacionadas con la competencia del Consejo, en un banco de datos actualizado, para ponerlo a la disposición de cualquier miembro y área del Consejo;
+V. Conducir en coordinación con el Secretario Ejecutivo la representación legal del Consejo ante cualquier autoridad, institución o persona que le demande algún asunto legal o jurídico de interés del Consejo;
 
-VIII. Asesorar en materia jurídica y legal a las diversas áreas que conforman al Consejo Nacional para la celebración de acuerdos de cooperación y bases de colaboración entre los diversos órdenes de gobierno y organismos públicos privados y académicos tanto nacionales como internacionales;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+VI. Determinar los recursos legales para atender, contestar y tramitar las demandas y quejas que le opongan al Consejo;
 
-IX. Coordinar con el Secretario Ejecutivo la asesoría sobre la normatividad en general para orientar al Presidente del Consejo, a los investigadores académicos del Consejo y a las Coordinaciones Generales;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
-X. Colaborar de forma conjunta con las dependencias de gobierno federal, estatal y municipal y demás instancias, para revisar la normatividad relacionada con la evaluación, monitoreo, indicadores y medición de pobreza, que por necesidades de las funciones y programas específicos, obliguen a relacionarse previo, acuerdo con el Secretario Ejecutivo;
+VII. Dirigir los trabajos de compilación de los tratados internacionales, leyes, reglamentos, decretos, acuerdos, circulares, resoluciones y demás disposiciones jurídicas y administrativas, así como la jurisprudencia y tesis relacionadas con la competencia del Consejo, en un banco de datos actualizado, para ponerlo a la disposición de cualquier miembro y área del Consejo;
 
-XI. Celebrar y establecer a nombre del Consejo acuerdos de cooperación y bases de colaboración con las dependencias de gobierno, estatal y municipal para el ejercicio de las actividades sustantivas establecidas en la Ley General de Desarrollo Social y demás disposiciones aplicables, y
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+VIII. Asesorar en materia jurídica y legal a las diversas áreas que conforman al Consejo para la celebración de acuerdos de cooperación y bases de colaboración entre los diversos órdenes de gobierno y organismos públicos privados y académicos tanto nacionales como internacionales;
 
-XII. Acordar con la Coordinación General de Monitoreo, Entidades Federativas y Fortalecimiento Institucional la atención y despacho de los asuntos de su competencia.
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+
+IX. Coordinar la asesoría sobre la normatividad en general para orientar al Secretario Ejecutivo, a los investigadores académicos del Consejo y a las Coordinaciones Generales;
+
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+
+X. Colaborar con las dependencias de los gobiernos federal, estatal y municipal y demás instancias, para revisar la normatividad relacionada con la evaluación, monitoreo, indicadores y medición de pobreza que, por necesidades de las funciones y programas específicos, obliguen a realizar acciones conjuntas, previo acuerdo con el Secretario Ejecutivo;
+
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+
+XI. Celebrar y establecer a nombre del Consejo acuerdos de cooperación y bases de colaboración con las dependencias de gobierno, estatal y municipal para el ejercicio de las actividades sustantivas establecidas en la Ley General de Desarrollo Social y demás disposiciones aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 4 DE ABRIL DE 2022)</small>
+
+XII. Coordinar la logística y seguimiento de las sesiones que celebre el Comité Directivo, mediante la organización oportuna de dichas actividades, para asegurar su adecuado funcionamiento; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 4 DE ABRIL DE 2022)</small>
+
+XIII. Acordar con la Coordinación General de Monitoreo, Entidades Federativas y Fortalecimiento Institucional la atención y despacho de los asuntos de su competencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1359,7 +1409,9 @@ IV. Determinar normas y lineamientos apegados a la Ley de Transparencia y Acceso
 
 V. Planear las actividades y los recursos materiales, humanos y financieros que demanden los eventos que organicen las áreas del Consejo;
 
-VI. Coordinar la celebración de conferencias, talleres, congresos y seminarios relacionados con las materias sustantivas que le competen al Consejo y que propongan las diversas áreas del Consejo;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+
+VI. Colaborar con las diversas áreas del Consejo en la realización de talleres, congresos y seminarios relacionados con las materias sustantivas que le competen al Consejo;
 
 VII. Administrar y proponer sistemas de clasificación de la información, del material especializado y las publicaciones relacionadas con la evaluación de programas sociales y la medición de la pobreza;
 
@@ -1369,9 +1421,13 @@ IX. Dirigir la recopilación, integración, síntesis y presentación a través 
 
 X. Establecer la presentación oficial de los informes que se deben enviar a la SHCP, a las Comisiones de Desarrollo Social de las Cámaras de Diputados y Senadores del Congreso de la Unión y a las Secretarías;
 
-XI. Coordinar la creación de informes para responder a las peticiones de información, que solicite cualquier fuente pública, privada, académica o gubernamental, a nivel nacional e internacional, en cuanto a la evaluación de los programas sociales y medición de la pobreza en el país;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
-XII. Coordinar con las áreas sustantivas del Consejo, los estudios y reportes necesarios para integrar los informes de difusión requeridos por el Consejo sobre los estudios de evaluación de los programas y políticas de desarrollo social y las mediciones de la pobreza;
+XI. Colaborar en la creación de informes para responder a las peticiones de información, que solicite cualquier fuente pública, privada, académica o gubernamental, a nivel nacional e internacional, en cuanto a la evaluación de los programas sociales y medición de la pobreza en el país;
+
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+
+XII. Definir la estrategia de difusión de los estudios y reportes de evaluación de los programas y políticas de desarrollo social y las mediciones de la pobreza con las áreas sustantivas del Consejo;
 
 XIII. Planear y dirigir la recopilación, integración y síntesis de resultados y mediciones a través de las áreas sustantivas del Consejo para establecer la estrategia editorial que deberán seguir las publicaciones oficiales del Consejo;
 
@@ -1391,37 +1447,61 @@ XVII. Acordar con la Coordinación General de Monitoreo, Entidades Federativas y
 
 La Dirección de Servicios Técnicos tendrá las funciones siguientes:
 
-I. Proporcionar los servicios de asesoría técnica que requiera el Secretario Ejecutivo mediante la planeación de los recursos humanos, materiales y de información disponibles;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
-II. Coordinar la preparación y distribución de los insumos necesarios para que se realicen las sesiones ordinarias y extraordinarias a que convoquen el Órgano Colegiado y el Comité Directivo;
+I. Proporcionar los servicios de asesoría técnica que requiera el Secretario Ejecutivo de la planeación institucional del Consejo;
 
-III. Consolidar la información sobre los asuntos que deba presentar el Secretario Ejecutivo ante el órgano colegiado y el comité directivo;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
-IV. Supervisar y revisar la elaboración de las actas de las sesiones del órgano colegiado y el comité directivo;
+II. Coordinar la preparación y distribución de los insumos necesarios para que se realicen las sesiones ordinarias y extraordinarias a que convoquen la Comisión Ejecutiva;
 
-V. Controlar y consolidar la integración de los archivos del Consejo y del órgano colegiado;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
-VI. Coordinar y supervisar los acuerdos que se aprueben en las sesiones del órgano colegiado y el comité directivo mediante el ajuste y adecuación de los planes de trabajo de las áreas del Consejo;
+III. Consolidar la información sobre los asuntos que deba presentar el Secretario Ejecutivo ante la Comisión Ejecutiva;
 
-VII. Coordinar junto con el Secretario Ejecutivo el seguimiento de los acuerdos aprobados en las sesiones del Órgano Colegiado y el Comité;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+
+IV. Supervisar y revisar la elaboración de las actas de las sesiones de la Comisión Ejecutiva;
+
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+
+V. Controlar y consolidar la integración de los archivos de la Comisión Ejecutiva;
+
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+
+VI. Coordinar y supervisar los acuerdos que se aprueben en las sesiones de la Comisión Ejecutiva mediante el ajuste y adecuación de los planes de trabajo de las áreas del Consejo;
+
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+
+VII. Coordinar junto con el Secretario Ejecutivo el seguimiento de los acuerdos aprobados en las sesiones de la Comisión Ejecutiva;
 
 VIII. Coordinar el seguimiento a las observaciones que hagan las Comisiones de Desarrollo Social de las Cámaras de Diputados y de Senadores del Congreso de la Unión y las Secretarías de Estado;
 
 IX. Coordinar el seguimiento a las propuestas, sugerencias y observaciones que hagan la Comisión Nacional de Desarrollo Social, la Comisión Intersecretarial de Desarrollo Social, el Consejo Consultivo de Desarrollo Social, el Ejecutivo Federal y cualquier otro organismo de participación social;
 
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
-X. Determinar y supervisar la calendarización y el seguimiento de los trabajos especiales que les sean encomendados a las Coordinaciones Generales por parte del Órgano colegiado y el Comité Directivo;
+X. Coordinar el seguimiento de los trabajos especiales que les sean encomendados a las Coordinaciones Generales por parte de la Comisión Ejecutiva;
 
-XI. Dirigir los análisis de resultados de las actividades de las áreas del Consejo a través de la definición de mecanismos de evaluación;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
-XII. Definir los procedimientos estadísticos para medir la eficiencia del desempeño y actuación de las áreas del Consejo;
+XI. Dirigir los análisis de resultados de las actividades de las áreas del Consejo a través de la definición de mecanismos de monitoreo y evaluación de la planeación institucional;
 
-XIII. Dirigir los mecanismos de evaluación bianual de las áreas del Consejo para medir la eficiencia y eficacia de la gestión y poner los resultados a la consideración del Secretario Ejecutivo, del Órgano Colegiado y del Comité;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
 
-XIV. Coordinar los sistemas de evaluación y control para corregir las deficiencias, observaciones y acciones de mejora que le reporten al Secretario Ejecutivo y al Comité, el Comisario y el titular del Órgano Interno de Control;
+XII. Definir los mecanismos para medir la eficiencia del desempeño y actuación de las áreas del Consejo;
 
-XV. Evaluar los requerimientos técnicos, operativos y de recursos humanos y financieros de los proyectos especiales que planteen los consejeros para dimensionar su impacto y su viabilidad, y
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+
+XIII. Dirigir los mecanismos de autoevaluación bianual de las áreas del Consejo para medir la eficiencia y eficacia de la gestión y poner los resultados a la consideración del Secretario Ejecutivo y de la Comisión Ejecutiva;
+
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+
+XIV. Coordinar los sistemas de evaluación y monitoreo para corregir las deficiencias, observaciones y acciones de mejora que le reporten al Secretario Ejecutivo y al Comité, el Comisario y el titular del Órgano Interno de Control;
+
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2022)</small>
+
+XV. Coordinar el apoyo técnico que requiera el Secretario Ejecutivo para la elaboración, en conjunto con las Coordinaciones Generales, de la Planeación Institucional del Consejo, a fin de dar seguimiento al cumplimiento de los objetivos del Consejo; y
 
 > <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1500,6 +1580,16 @@ SEGUNDO.- La presente reforma deberá inscribirse en el Registro Público de Org
 TERCERO.- Publíquese en la página de Internet del Consejo Nacional de Evaluación de la Política de Desarrollo Social.
 
 D.O.F. 1 DE SEPTIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La presente reforma deberá inscribirse en el Registro Público de Organismos Descentralizados, de conformidad con las disposiciones jurídicas aplicables.
+
+TERCERO.- Publíquese en la página de Internet del Consejo Nacional de Evaluación de la Política de Desarrollo Social.
+
+D.O.F. 4 DE ABRIL DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL”.]
 
