@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-11814
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2020-07-06"
+last_updated: "2022-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2022.
 
 Ley publicada en la Sección Quinta al Número 126 del Periódico Oficial del Estado de Nayarit, el martes 27 de diciembre de 2016.
 
@@ -327,7 +327,9 @@ III. Tener cuando menos treinta y cinco años cumplidos al día de la designaci�
 
 IV. Contar con experiencia de al menos cinco años en materia de control, auditora financiera y de responsabilidades;
 
-V. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2022)</small>
+
+V. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena. Además, no estar inscrita o inscrito en el Registro de Deudores Alimentarios Morosos en el Estado de Nayarit o en otra entidad federativa; ni en el Registro Nacional de Personas Sancionadas en materia de Violencia Política contra las Mujeres en Razón de Género.
 
 VI. No haber sido Gobernador, Magistrado, Fiscal General, miembro del Consejo de la Judicatura, Senador, Diputado Federal o local, Presidente, Regidor, Síndico o dirigente de algún partido político, ni haber sido postulado para cargo de elección popular en el año inmediato a la propia designación;
 
@@ -813,7 +815,7 @@ X. Promover las acciones o denuncias correspondientes para la imposición de las
 
 ###### Artículo 46.
 
-A solicitud de-la Auditoría Superior del Estado, los sujetos de fiscalización le informarán de los actos y convenios de los que les resulten derechos y obligaciones, con objeto de verificar si de sus términos y condiciones pudieran derivarse daños y perjuicios en contra de la hacienda pública estatal o municipal que impliquen incumplimiento de alguna ley relacionada con la materia.
+A solicitud de la Auditoría Superior del Estado, los sujetos de fiscalización le informarán de los actos y convenios de los que les resulten derechos y obligaciones, con objeto de verificar si de sus términos y condiciones pudieran derivarse daños y perjuicios en contra de la hacienda pública estatal o municipal que impliquen incumplimiento de alguna ley relacionada con la materia.
 
 ###### Artículo 47.
 
@@ -1204,3 +1206,9 @@ Primero. El presente Decreto entrará en vigor al siguiente día de su publicaci
 Segundo. La Auditoría Superior del Estado realizará las adecuaciones conducentes a su reglamento dentro de los 180 días naturales siguientes a la entrada en vigor del presente decreto.
 
 Tercero. A más tardar dentro del plazo de 30 días naturales siguientes a la entrada en vigor del presente Decreto, se iniciará el procedimiento para nombrar a los Auditores Especiales de Auditoría Financiera, Auditoría de Obra Pública, Auditoría al Desempeño y de la titularidad de la Dirección General de Asuntos Jurídicos.
+
+P.O. 4 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 13 DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE NAYARIT, EN MATERIA DE PARIDAD DE GÉNERO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
