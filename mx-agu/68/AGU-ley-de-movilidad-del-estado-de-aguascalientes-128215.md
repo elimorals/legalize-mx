@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2021-12-29"
+last_updated: "2022-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2022.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -3071,15 +3071,23 @@ Las autoridades de desarrollo urbano estatal y municipal, conforme a lo dispuest
 
 A fin de contribuir al uso seguro de la bicicleta en el Estado, se procurará que las vialidades que se construyan o se remodelen, incluyan vías ciclistas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2022)</small>
+
+Lo anterior deberá realizarse también, de manera progresiva, en las vías de circulación ya existentes, siempre que sus características y la necesidad de la circulación lo permitan.
+
+> <small>(ADICIONADO CON SUS FRACCIONES [N. DE E. REFORMADO], P.O. 4 DE ABRIL DE 2022)</small>
+
 Las vías ciclistas se clasifican de la siguiente manera:
 
 I. Andador peatonal y ciclista: Vía de circulación compartida por peatones y ciclistas, ubicada en áreas verdes, camellones, derechos de vía, que pueden carecer de marcas que delimiten áreas de circulación;
 
 II. Calle compartida ciclista: Vía o carril preferente para la circulación de ciclistas, compartida con el tránsito automotor, que generalmente cuenta con estacionamiento en vía pública y hasta dos carriles efectivos de circulación por sentido;
 
-III. Ciclobanda: Carril para circulación de ciclistas segregado sólo por demarcación señalada en el pavimento; y
+III. Ciclobanda: Carril para circulación de ciclistas segregado sólo por demarcación señalada en el pavimento;
 
-IV. Ciclocarril: Carril en la vialidad, destinado exclusivamente para la circulación de los ciclistas, delimitado por elementos de confinamiento y ubicado en el extremo derecho del área de circulación de vehículos automotores, en caso de ser bidireccional, podrá ubicarse en áreas verdes y derechos de vía.
+IV. Ciclocarril: Carril en la vialidad, destinado exclusivamente para la circulación de los ciclistas, delimitado por elementos de confinamiento y ubicado en el extremo derecho del área de circulación de vehículos automotores, en caso de ser bidireccional, podrá ubicarse en áreas verdes y derechos de vía; y
+
+V. Caja Ciclista: A la zona marcada en el pavimento que permite a los ciclistas aguardar la luz verde del semáforo en una posición adelantada de tal forma que sean visibles a quienes conducen vehículos motorizados.
 
 #### SECCIÓN PRIMERA. Disposiciones Generales
 
@@ -4816,3 +4824,11 @@ El presente Decreto entrará en vigor el primero de enero de dos mil veintidós.
 ###### ARTÍCULO SEGUNDO.
 
 Las obligaciones y derechos que hubiesen nacido con anterioridad a la entrada en vigor de las disposiciones que se modifican conforme al Artículo Primero de este Decreto, deberán cumplirse en los términos, montos, formas y plazos establecidos en la normatividad vigente al momento en que se generaron.
+
+P.O. 4 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 102.- SE REFORMA EL PÁRRAFO SEGUNDO Y SE ADICIONA EL TERCER PÁRRAFO AL ARTÍCULO 227 DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
