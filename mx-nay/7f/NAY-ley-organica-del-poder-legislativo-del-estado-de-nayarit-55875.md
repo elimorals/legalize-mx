@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2021-12-01"
+last_updated: "2022-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2022.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -443,9 +443,11 @@ IV. Decidir acerca del proyecto del presupuesto anual del Poder Legislativo y pr
 
 El proyecto propuesto deberá de contribuir a un balance presupuestario sostenible.
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2022)</small>
 
-V. Proponer al pleno de la Cámara la designación del Secretario General, del Oficial Mayor y del Contralor Interno. En el caso de la designación del Auditor Superior, la Comisión fungirá como coadyuvante de la Comisión de Hacienda, Cuenta Pública y Presupuesto del Congreso del Estado;
+V. Observar el principio de paridad de género, al proponer al pleno de la Cámara la designación de las personas que ocuparán la titularidad de la Secretaría General, de la Oficialía Mayor y de la Contraloría Interna.
+
+En el caso de la designación de la persona titular de la Auditoría Superior, la Comisión fungirá como coadyuvante de la Comisión de Hacienda, Cuenta Pública y Presupuesto del Congreso del Estado;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1742,3 +1744,9 @@ P.O. 1 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 94 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT, EN MATERIA DE INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO EN EL TRABAJO LEGISLATIVO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 4 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT, EN MATERIA DE PARIDAD DE GÉNERO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
