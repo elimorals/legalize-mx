@@ -4,7 +4,7 @@ identifier: "LGA"
 country: "mx"
 rank: "ley_general"
 publication_date: "2018-06-15"
-last_updated: "2018-06-15"
+last_updated: "2022-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129071&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGA"
 
 LEY GENERAL DE ARCHIVOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE ABRIL DE 2022.
 
 Ley publicada en la Primera Sección al Número 16 del Diario Oficial de la Federación, el viernes 15 de junio de 2018.
 
@@ -478,7 +478,7 @@ XI. Las que establezca el Consejo Nacional y las disposiciones jurídicas aplica
 
 Los responsables de los archivos de concentración deben contar con los conocimientos, habilidades, competencias y experiencia acordes a su responsabilidad; de no ser así, los titulares de los sujetos obligados tienen la obligación de establecer las condiciones que permitan la capacitación de los responsables para el buen funcionamiento de los archivos.
 
-### CAPÍTULO VIII. DE LOS ARCHIVOS HISTÓRICOS Y SUS DOCUMENTOSc
+### CAPÍTULO VIII. DE LOS ARCHIVOS HISTÓRICOS Y SUS DOCUMENTOS
 
 ###### Artículo 32.
 
@@ -1138,6 +1138,10 @@ I. Fungir, mediante su titular, como presidente del Consejo Nacional;
 
 II. Organizar, conservar y difundir el acervo documental, gráfico, bibliográfico y hemerográfico que resguarda, con base en las mejores prácticas y las disposiciones jurídicas aplicables;
 
+> <small>(ADICIONADA, D.O.F. 5 DE ABRIL DE 2022)</small>
+
+II Bis. Difundir y proyectar el derecho a la memoria de la Nación, en coordinación con las dependencias y entidades de la Administración Pública Federal;
+
 III. Elaborar, actualizar y publicar en formatos abiertos los inventarios documentales de cada fondo en su acervo;
 
 IV. Fungir como órgano de consulta de los sujetos obligados del Poder Ejecutivo Federal en materia archivística;
@@ -1455,3 +1459,17 @@ Décimo Séptimo. En un plazo de un año, contado a partir de la entrada en vigo
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Mariana Arámbula Meléndez, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 5 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL Y DE LA LEY GENERAL DE ARCHIVOS”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero.- La Oficina de la Presidencia de la República y el Archivo General de la Nación, deberán llevar a cabo los actos necesarios para la transferencia de los recursos humanos, materiales y financieros de la Coordinación de Memoria Histórica y Cultural de México en un plazo máximo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, conforme a las disposiciones jurídicas aplicables y mediante movimientos compensados, por lo que no se autorizarán ampliaciones al presupuesto del Archivo General de la Nación para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Decreto.
+
+Los Titulares de la Unidad de Administración y Finanzas de la Oficina de la Presidencia de la República y de la Dirección de Administración del Archivo General de la Nación serán Coordinadores del proceso de transferencia de los recursos mencionados en el párrafo anterior, por lo que proveerán y acordarán lo necesario para darle cumplimiento, así como de proporcionar la información necesaria para la integración de la Cuenta Pública, en el ámbito de su competencia.
