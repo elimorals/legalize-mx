@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1392
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2021-09-13"
+last_updated: "2022-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 25 de noviembre de 2019.
 
@@ -949,11 +949,11 @@ El programa deberá ser evaluado anualmente, con base en los indicadores que el 
 
 ### CAPÍTULO I. ÓRDENES DE PROTECCIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2022)</small>
 
 ###### ARTÍCULO 34.
 
-Las oìrdenes (sic) de proteccioìn (sic) son actos de urgente aplicacioìn (sic), orientados a la salvaguarda de la viìctima (sic) en funcioìn (sic) de su intereìs (sic) superior, y son fundamentalmente, precautorias y cautelares; deben otorgarse por la autoridad competente, inmediatamente que conozcan de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres, evitando en todo momento que la persona agresora, por si o a través de algún tercero, tenga contacto de cualquier tipo con la víctima.
+Las órdenes de protección son actos de urgente aplicación en función del interés superior de la víctima, son fundamentalmente precautorias y cautelares, deberán otorgarse de oficio o a petición de parte, por las autoridades competentes, inmediatamente que conozcan de hechos presuntamente constitutivos de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres o niñas, evitando en todo momento que la persona agresora, directamente o, a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
 
 Son autoridades competentes, conforme al ámbito de atribuciones que establecen los ordenamientos que los regulan:
 
@@ -987,9 +987,13 @@ III. De naturaleza civil, familiar, y
 
 IV. De naturaleza político-electoral.
 
-Las órdenes de protección de emergencia y preventivas tendrán una duración máxima de sesenta días naturales, prorrogables hasta por treinta días más, y deberán expedirse de manera inmediata al conocimiento de los hechos que las generan. Trascurrida su vigencia, se podrán expedir inmediatamente nuevas órdenes, en caso de no cesar la violencia, para salvaguardar la vida, integridad, libertad y seguridad de las mujeres y niñas en situación de violencia, así como de las víctimas indirectas en situación de riesgo.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2022)</small>
 
-Todas las órdenes que se dicten atenderán a los principios de protección de la víctima, de aplicación general, de urgencia, de accesibilidad, integralidad, y de utilidad procesal; deberán ser fundadas y motivadas, y una vez dictadas se dará en todo caso a la parte a la que se notifica, garantía de audiencia.
+Las órdenes de protección de emergencia y preventivas tendrán una duración máxima de sesenta días naturales, prorrogables hasta por treinta días más, y deberán expedirse de manera inmediata o a más tardar dentro de las 4 horas siguientes al conocimiento de los hechos que las generan. Trascurrida su vigencia, se podrán expedir inmediatamente nuevas órdenes, en caso de no cesar la violencia, para salvaguardar la vida, integridad, libertad y seguridad de las mujeres y niñas en situación de violencia, así como de las víctimas indirectas en situación de riesgo.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2022)</small>
+
+Todas las órdenes que se dicten atenderán a los principios de protección de la víctima; necesidad y proporcionalidad; confidencialidad; oportunidad y eficacia; accesibilidad; integralidad; utilidad procesal; y pro persona; deberán ser fundadas y motivadas, y una vez dictadas se dará, en todo caso, a la parte a la que se notifica, garantía de audiencia.
 
 El Ministerio Público, bajo su más estricta responsabilidad, ordenará la aplicación de las medidas de protección de emergencia y preventivas idóneas, cuando estime que el imputado representa un riesgo inminente en contra de la seguridad de la víctima u ofendido.
 
@@ -1390,3 +1394,11 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0292.- SE REFORMAN LOS ARTÍCULOS 34 EN SU PÁRRAFO PRIMERO Y 36 EN SUS PÁRRAFOS SEXTO Y SÉPTIMO, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
