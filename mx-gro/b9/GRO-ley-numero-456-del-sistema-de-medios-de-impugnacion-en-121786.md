@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-456-del-sistema-de-medios-de-impugnacion-en-121786"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-02"
-last_updated: "2020-06-02"
+last_updated: "2022-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 456 DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2022.
 
 Ley publicada en el Alcance I al Número 44 en el Periódico Oficial del Estado de Guerrero, el viernes 2 de junio de 2017.
 
@@ -837,7 +837,9 @@ Cuando en la sección de ejecución, por efecto de la acumulación de las senten
 
 Los juicios de inconformidad serán resueltos dentro de los seis días posteriores al que se haya dictado auto de cierre de instrucción, en el orden en que sean listados para cada sesión, salvo que se acuerde la modificación en la sesión de resolución.
 
-Los juicios de inconformidad deberán resolverse a más tardar veintiún días antes de la toma de protesta del cargo del candidato respectivo.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2022)</small>
+
+Los juicios de inconformidad deberán resolverse a más tardar treinta días antes de la toma de protesta del cargo de la candidatura electa.
 
 ###### ARTÍCULO 57.
 
@@ -1330,3 +1332,15 @@ Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para
 ###### ARTICULO CUARTO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página oficial del Congreso del Estado, para su conocimiento general.
+
+P.O. 5 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 172, POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 56 DE LA LEY NÚMERO 456 DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo para su conocimiento y efectos legales conducentes.
+
+TERCERO.- Comuníquese al Instituto Electoral y de Participación Ciudadana del Estado Libre y Soberano de Guerrero.
+
+CUARTO.- Publíquese en el portal oficial del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
