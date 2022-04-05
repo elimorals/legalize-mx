@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "2021-07-31"
+last_updated: "2022-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE ABRIL DE 2022.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el miércoles 1 de abril de 1970.
 
@@ -2486,7 +2486,9 @@ II. Labores:
 
 7. En vialidades con amplio volumen de tránsito vehicular (vías primarias).
 
-8. Agrícolas, forestales, de aserrado, silvícolas, de caza y pesca.
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2022)</small>
+
+8. Agrícolas, forestales, de aserrado, silvícolas, de caza y pesca, que impliquen el uso de químicos, manejo de maquinaria, vehículos pesados, y los que determine la autoridad competente;
 
 9. Productivas de las industrias gasera, del cemento, minera, del hierro y el acero, petrolera y nuclear.
 
@@ -13869,3 +13871,11 @@ D.O.F. 31 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL " DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS TRANSITORIOS PRIMERO, TERCERO, CUARTO, QUINTO, SEXTO Y SÉPTIMO DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES; DEL CÓDIGO FISCAL DE LA FEDERACIÓN; DE LA LEY DEL IMPUESTO SOBRE LA RENTA; DE LA LEY DEL IMPUESTO AL VALOR AGREGADO; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY REGLAMENTARIA DE LA FRACCIÓN XIII BIS DEL APARTADO B, DEL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE SUBCONTRATACIÓN LABORAL", PUBLICADO EL 23 DE ABRIL DE 2021".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 176, FRACCIÓN II, NUMERAL 8 DE LA LEY FEDERAL DEL TRABAJO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Secretaría del Trabajo y Previsión Social contará con un plazo de 180 días posteriores a la entrada en vigor del presente Decreto para elaborar y publicar una Norma Oficial Mexicana a efecto de clasificar las actividades a que se refiere el artículo 176, fracción II, numeral 8 a fin de determinar aquéllas de menor riesgo.
