@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2021-10-20"
+last_updated: "2022-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE ABRIL DE 2022.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -132,7 +132,7 @@ I. Definir las políticas del Gobierno Federal en los temas de informática, tec
 
 II. Formular y conducir la política de comunicación social del Gobierno Federal con la intervención que corresponda a la Secretaría de Gobernación conforme a la presente ley. Para tal efecto establecerá, mediante disposiciones de carácter general, el modelo organizacional y de operación de las unidades administrativas que realicen actividades en esta materia, y
 
-III. Difundir y proyectar el derecho a la memoria de la Nación, en coordinación con las dependencias y entidades de la Administración Pública Federal.
+III. (DEROGADA, D.O.F. 5 DE ABRIL DE 2022)
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
@@ -3681,3 +3681,15 @@ D.O.F. 20 DE OCTUBRE DE 2021.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Todas las referencias que hagan mención a la Secretaría de Comunicaciones y Transportes contenidas en las leyes y normatividad vigente, se entenderán realizadas a la Secretaría de Infraestructura, Comunicaciones y Transportes.
+
+D.O.F. 5 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL Y DE LA LEY GENERAL DE ARCHIVOS”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero.- La Oficina de la Presidencia de la República y el Archivo General de la Nación, deberán llevar a cabo los actos necesarios para la transferencia de los recursos humanos, materiales y financieros de la Coordinación de Memoria Histórica y Cultural de México en un plazo máximo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, conforme a las disposiciones jurídicas aplicables y mediante movimientos compensados, por lo que no se autorizarán ampliaciones al presupuesto del Archivo General de la Nación para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Decreto.
+
+Los Titulares de la Unidad de Administración y Finanzas de la Oficina de la Presidencia de la República y de la Dirección de Administración del Archivo General de la Nación serán Coordinadores del proceso de transferencia de los recursos mencionados en el párrafo anterior, por lo que proveerán y acordarán lo necesario para darle cumplimiento, así como de proporcionar la información necesaria para la integración de la Cuenta Pública, en el ámbito de su competencia.
