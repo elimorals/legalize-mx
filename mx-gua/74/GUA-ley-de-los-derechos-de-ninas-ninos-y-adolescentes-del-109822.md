@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109822"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-11"
-last_updated: "2021-07-19"
+last_updated: "2022-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109822&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2022.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 11 de septiembre de 2015.
 
@@ -97,9 +97,17 @@ III. Adolescentes: las personas que tengan entre doce años cumplidos y menos de
 
 IV. Ajustes razonables: las modificaciones que se requieran realizar para garantizar a niñas, niños y adolescentes con discapacidad el goce o ejercicio, en igualdad de condiciones con las (sic) demás, de todos los derechos humanos y libertades fundamentales;
 
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2022)</small>
+
+IV-1. Castigo corporal o físico: todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física y que tenga por objeto causar cierto grado de dolor o malestar, aunque sea leve. Incluye golpes con la mano o con algún objeto, zarandear, arañar, bofetadas, puntapiés, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a ponerse en posturas incómodas, producirles quemaduras, obligarles a ingerir alimentos hirviendo u otros productos, como lavarles la boca con jabón u obligarles a tragar alimentos picantes;
+
 V. Centro de asistencia social: el establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
 
 VI. Corresponsabilidad: deber a cargo de la familia, sociedad y Estado, por medio del cual comparten la responsabilidad en la atención, protección y desarrollo de niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2022)</small>
+
+VI-1. Crianza positiva: comportamiento de madres, padres y tutores, con base en el interés superior de la niñez, donde se promueve la atención, el desarrollo de capacidades, el ejercicio de la no violencia, ofreciendo el reconocimiento y orientación necesaria sin dejar de contemplar el establecimiento de los límites relativos a la disciplina, los cuales permitan el pleno desarrollo de niñas, niños y adolescentes. Incluye conocimientos de disciplina positiva, la resolución no violenta de conflictos y la crianza con apego; y el desarrollo del niño en la primera infancia;
 
 VII. Diseño universal: el diseño de productos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad;
 
@@ -132,6 +140,10 @@ XX. Sistema Estatal de Protección: el Sistema de Protección de los derechos de
 XXI. Sistemas Municipales: los Sistemas Municipales para el Desarrollo Integral de la Familia; y
 
 XXII. Sistema Municipal de Protección: el Sistema Municipal de Protección de Niñas, Niños y Adolescentes.
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2022)</small>
+
+XXIII. Trato humillante o degradante: castigo ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, y cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación, cometido en contra de niñas, niños y adolescentes.
 
 Principios rectores
 
@@ -1035,6 +1047,10 @@ Derecho a una vida libre de violencia
 
 Niñas, niños y adolescentes tienen derecho a vivir en un ambiente de paz y armonía, libres de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y desarrollo integral.
 
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2022)</small>
+
+Niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y del personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, y de cualquier otra índole que brinde asistencia a niñas, niños y adolescentes, sin que, en modo alguno, se autorice a estos el uso del castigo corporal o físico y el trato humillante o degradante.
+
 Quienes ejerzan la patria potestad, tutela, guarda o custodia de niñas, niños y adolescentes, deberán ejercer su derecho de educación, formación y enmienda atendiendo siempre al interés superior de éstos, quedando prohibidos los castigos corporales así como los tratos humillantes o degradantes como formas de corrección disciplinaria.
 
 > <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2020)</small>
@@ -1401,13 +1417,17 @@ Para los efectos de esta fracción, los derechos alimentarios comprenden esencia
 
 II. Impartir en consonancia con la evolución de sus facultades, a las niñas, niños y adolescentes, la información respecto de sus derechos humanos y libertades fundamentales, sin que ello pueda justificar limitación, vulneración o restricción alguna en el ejercicio de sus derechos y libertades;
 
-III. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno armonioso y libre desarrollo de su personalidad;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2022)</small>
+
+III. Asegurar y ofrecer un entorno afectivo, comprensivo y sin violencia para el pleno y armonioso desarrollo integral, mediante la crianza positiva, el cuidado, relaciones no violentas, respetuosas, positivas y participativas;
 
 IV. Fomentar en niñas, niños y adolescentes el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
 
 V. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas y explotación;
 
-VI. Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral. El ejercicio de la patria potestad, tutela, guarda o custodia de niñas, niños y adolescentes no podrá ser justificación para dejar de cumplir con la obligación aquí prevista.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2022)</small>
+
+VI. Abstenerse de cualquier tipo de violencia en contra de niñas, niños y adolescentes, en particular el castigo corporal o físico y trato humillante o degradante. El ejercicio de la patria potestad, tutela, guarda o custodia de niñas, niños y adolescentes no podrá ser justificación para dejar de cumplir con la obligación aquí prevista;
 
 El ejercicio de la patria potestad, tutela, guarda o custodia y el deber de educarlos, formarlos y enmendar sus conductas antisociales o antijurídicas, deberá ejercerse atendiendo siempre al interés superior de éstos;
 
@@ -1725,6 +1745,14 @@ XVII. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento d
 
 XVIII. Auxiliar a la Procuraduría de Protección en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones; y
 
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2022)</small>
+
+XVIII-1. Establecer programas de integración familiar, así como implementar programas de formación, que promuevan el desarrollo de habilidades y herramientas para la educación, en el marco de una crianza positiva;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2022)</small>
+
+XVIII-2. Impulsar mecanismos que permitan el desarrollo de un enfoque preventivo y multidisciplinario de las políticas, programas, estrategias y acciones en materia de protección y ejercicio de los derechos de las niñas, niños y adolescentes; y
+
 XIX. Las demás que le confiera ésta Ley y otras disposiciones aplicables.
 
 ### Capítulo VI. Responsabilidades
@@ -1998,3 +2026,11 @@ P.O. 19 DE JULIO DE 2021.
 Inicio de vigencia
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 5 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 66 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES NORMATIVAS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
