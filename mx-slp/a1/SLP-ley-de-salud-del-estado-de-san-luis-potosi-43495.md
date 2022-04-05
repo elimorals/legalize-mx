@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2022-02-25"
+last_updated: "2022-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -563,7 +563,9 @@ X. Participar con las autoridades federales, estatales, municipales y sectores s
 
 XI. Promoción de la salud;
 
-XII. La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2022)</small>
+
+XII. La prevención y el control de los efectos nocivos de los factores ambientales en la salud del ser humano;
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2016)</small>
 
@@ -2035,9 +2037,11 @@ VI. De manera inmediata, dar parte al Ministerio Público sobre los casos de vio
 
 Las personas que ejerzan la medicina o que realicen actividades afines, están obligadas a dar aviso a las autoridades de salud de los casos de enfermedades transmisibles que establece el artículo 104 de este Ordenamiento, posteriormente a su diagnóstico o sospecha diagnóstica.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2022)</small>
+
 ###### ARTICULO 106.
 
-Los laboratorios que manejen agentes patógenos estarán sujetos a control por parte de las autoridades de salud competentes, de conformidad con las normas técnicas que expida la autoridad federal de la materia, en lo relativo a las precauciones higiénicas que deban observar, para evitar la propagación de las enfermedades transmisibles al hombre. Cuando esto represente peligro para la salud animal, se oirá la opinión de las autoridades competentes.
+Los laboratorios que manejen agentes patógenos estarán sujetos a control por parte de las autoridades de salud competentes, de conformidad con las normas técnicas que expida la autoridad federal de la materia, en lo relativo a las precauciones higiénicas que deban observar, para evitar la propagación de las enfermedades transmisibles al ser humano. Cuando esto represente peligro para la salud animal, se oirá la opinión de las autoridades competentes.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -3855,9 +3859,11 @@ II. En caso de epidemia grave, y
 
 III. Si existiere peligro de invasión de dichos padecimientos en el Estado.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2022)</small>
+
 ###### ARTICULO 363.
 
-La autoridad sanitaria competente podrá ordenar o proceder a la vacunación de animales, que puedan constituirse en transmisores de enfermedades al hombre, o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
+La autoridad sanitaria competente podrá ordenar o proceder a la vacunación de animales, que puedan constituirse en transmisores de enfermedades al ser humano, o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
 
 ###### ARTICULO 364.
 
@@ -4728,5 +4734,13 @@ P.O. 25 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0272.- SE REFORMA EL ARTÍCULO 304 QUINQUE EN SU PÁRRAFO PRIMERO, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 5 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0294.- SE REFORMAN LOS ARTÍCULOS 14 EN SU FRACCIÓN XII, 106 Y 363, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
