@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-prevencion-tratamiento-y-control-de-las-82743"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-30"
-last_updated: "2021-12-27"
+last_updated: "2022-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de julio de 2011.
 
@@ -705,9 +705,11 @@ III. Por violaciones a los derechos humanos por parte de las personas que labore
 
 IV. Por resolución que emane del procedimiento administrativo que esta Ley establece.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2022)</small>
+
 ###### ARTICULO 47.
 
-Las personas afectadas por las resoluciones dictadas con fundamento en esta Ley, su Reglamento y demás disposiciones legales que de ellos deriven, podrán recurrirlas en los términos de la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí.
+Las personas afectadas por las resoluciones dictadas con fundamento en esta Ley, su Reglamento y demás disposiciones legales que de ellos deriven, podrán recurrirlas en los términos del Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 ## TRANSITORIOS
 
@@ -810,3 +812,11 @@ P.O. 27 DE DICIEMBRE DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 5 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0293.- SE REFORMA EL ARTÍCULO 47, DE LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
