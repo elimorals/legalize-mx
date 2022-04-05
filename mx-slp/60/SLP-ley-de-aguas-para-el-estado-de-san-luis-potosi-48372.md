@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2022-03-31"
+last_updated: "2022-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -361,9 +361,13 @@ XLIV. Conformar y mantener un padrón de los particulares que realicen transport
 
 XLV. Realizar revisiones a particulares que realicen transporte y venta de agua a través de cisternas en vehículos;
 
-> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2022)</small>
 
-XLVI. Establecer límites superiores de precios en que particulares oferten el agua a través de cisternas en vehículos, y
+XLVI. Establecer límites superiores de precios en que particulares oferten el agua a través de cisternas en vehículos;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2022)</small>
+
+XLVI Bis. Elaborar protocolos generales para la aplicación en contingencias en la prestación del servicio de agua potable, para que los implementen los organismos operadores de agua potable, y las direcciones del mismo rubro de los municipios, y
 
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
 
@@ -3690,3 +3694,11 @@ TERCERO. La conversión de cobro bimestral a mensual o viceversa, que a la entra
 En el caso de los usuarios que pagan su servicio en cuota o tarifa fija, por lo que respecta al organismo intermunicipal de los municipios de, Cerro de San Pedro; San Luis Potosí; y Soledad de Graciano Sánchez, para el ejercicio fiscal 2022, su cobró lo seguirán efectuando bimestralmente.
 
 CUARTO. El cobro total o parcial que el organismo operador intermunicipal INTERAPAS, hubiera realizado por concepto de aparato medidor al usuario, en el ejercicio fiscal 2022 en el caso del servicio tipo doméstico, la cantidad respectiva será devuelta en abono a cuenta de los cobros mensuales o bimestrales subsecuentes, que por este servicio se realicen.
+
+P.O. 5 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0295.- SE REFORMA LA FRACCIÓN XLVI; Y ADICIONA LA FRACCIÓN XLVI BIS AL ARTÍCULO 8° DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
