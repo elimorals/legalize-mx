@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado-180
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-26"
-last_updated: "2018-07-20"
+last_updated: "2022-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2022.
 
 Ley Publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 26 de septiembre del 2000.
 
@@ -302,6 +302,10 @@ XVI.- Las demás que le señalen la presente Ley, el reglamento interno u otras 
 ###### Artículo 17.
 
 La Procuraduría para el mejor desempeño de sus funciones, contará con un Consejo, que fungirá como órgano de consulta y auxiliar en sus atribuciones. El Consejo estará integrado por un mínimo de siete personas con ciudadanía mexicana, de preferencia guanajuatenses, en pleno ejercicio de sus derechos, que gocen de reconocido prestigio social y que se hayan distinguido por su interés en la defensa y difusión de los derechos humanos. El Consejo será presidido por el Procurador.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2022)</small>
+
+Para dar cumplimiento al principio de paridad de género establecido en el séptimo párrafo del artículo 4 de la Constitución Política para el Estado de Guanajuato, el Consejo deberá estar integrado de manera que en ningún caso podrán ser más de cuatro personas de un mismo género cuando este se integre con el mínimo de integrantes y respetar la paridad de género cuando este se integre con un número mayor al de siete.
 
 Por lo menos cuatro integrantes del Consejo, no deberán ocupar ningún cargo o empleo como servidor público.
 
@@ -1060,3 +1064,9 @@ Artículo Segundo.- Dentro de los 60 días siguientes a la entrada en vigor del 
 3. Dos integrantes que durarán en su encargo tres años.
 
 Por única ocasión y por tratarse de la designación de la totalidad de los integrantes del Consejo, en el procedimiento de conformación del Consejo no se contemplará que la designación se realice a través de la integración de ternas.
+
+P.O. 5 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 67 MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 17, RECORRIÉNDOSE LOS SUBSECUENTES DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
