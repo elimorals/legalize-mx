@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2022-04-01"
+last_updated: "2022-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 1 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 5 DE ABRIL DE 2022.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -3001,7 +3001,7 @@ III. Establecer líneas de acciones, estrategias de gestión y coordinación par
 
 IV. Establecer el proceso de seguimiento y vigilancia del estado de los proyectos estratégicos aprobados por la Coordinación de Proyectos Estratégicos.
 
-> <small>(REFORMADO, G.M. 1 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.M. 5 DE ABRIL DE 2022)</small>
 
 Se encuentra sectorizado a la Coordinación el Organismo Público Descentralizado denominado Consejo de Colaboración Municipal de Guadalajara.
 
@@ -5369,6 +5369,18 @@ X. Desarrollar e implementar estrategias de comunicación masiva, inmediata y pe
 
 XI. Administrar los centros de educación popular, el bachillerato tecnológico en enfermería y optometría y demás bienes inmuebles asignados para el cumplimiento de sus atribuciones.
 
+> <small>(ADICIONADA, G.M. 5 DE ABRIL DE 2022)</small>
+
+XII. Promover la vinculación y coordinar acuerdos y/o convenios con universidades, instituciones académicas u organismos que promuevan la profesionalización docente y la mejora educativa de las personas, así como de las servidoras y los servidores públicos del Municipio de Guadalajara;
+
+> <small>(ADICIONADA, G.M. 5 DE ABRIL DE 2022)</small>
+
+XIII. Celebrar, a través de la Coordinación, Convenios de Colaboración y coparticipación con instituciones y organismos que tengan objetivos comunes con los de la dirección; y
+
+> <small>(ADICIONADA, G.M. 5 DE ABRIL DE 2022)</small>
+
+XIV. Las demás previstas en la normatividad aplicable.
+
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
@@ -5501,7 +5513,9 @@ IV. Desarrollar e implementar programas y proyectos de capacitación que impulse
 
 V. Promover la capacitación, actualización y profesionalización para el desarrollo de la ciudadanía de Guadalajara y de las servidoras y servidores públicos del municipio;
 
-VI. Promover la vinculación y coordinar acuerdos y/o convenios con instituciones académicas u organismos que promuevan la capacitación y mejora educativa de la ciudadanía y las servidoras y los servidores del municipio de Guadalajara;
+> <small>(REFORMADA, G.M. 5 DE ABRIL DE 2022)</small>
+
+VI. Promover la vinculación y coordinar acuerdos y/o convenios con instituciones académicas u organismos que promuevan las capacidades productivas, personales y comunitarias de la ciudadanía y las servidoras públicas y los servidores públicos del Municipio de Guadalajara.
 
 VII. Celebrar, a través de la coordinación, convenios de colaboración y coparticipación con aquellos organismos e instituciones cuyos objetivos coincidan con los de la dirección;
 
@@ -7037,7 +7051,9 @@ Son Organismos Públicos Descentralizados de la Administración Pública Municip
 
 I. Consejo Municipal del Deporte;
 
-II. Consejo Social de Cooperación para el Desarrollo Urbano;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 5 DE ABRIL DE 2022)</small>
+
+II. Consejo de Colaboración Municipal de Guadalajara
 
 III. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
@@ -7061,7 +7077,9 @@ Tienen por objeto la prestación de un servicio o función pública de competenc
 
 I. El Organismo Público Descentralizado de la Administración Pública Municipal denominado Consejo Municipal del Deporte de Guadalajara, tiene por objeto promover la actividad física, ejercicio, deporte y recreación para las y los habitantes del Municipio, así como administrar los espacios deportivos.
 
-II. El Organismo Público Descentralizado de la Administración Pública Municipal denominado Consejo Social de Cooperación para el Desarrollo Urbano de Guadalajara, tiene por objeto participar en la ejecución de las acciones urbanísticas previstas en este ordenamiento, en favor del interés colectivo del Municipio de Guadalajara y al cual se le reconoce el carácter de Consejo Municipal de Desarrollo Urbano, como organismo auxiliar en la gestión del desarrollo urbano de conformidad a lo establecido en el Código Urbano para el Estado de Jalisco y demás normatividad aplicable; y promover la participación ciudadana y vecinal en la gestión del desarrollo urbano, mediante la ejecución de obras por colaboración o por concertación, en los términos dispuestos en la normatividad aplicable.
+> <small>(REFORMADA, G.M. 5 DE ABRIL DE 2022)</small>
+
+II. El Organismo Público Descentralizado de la Administración Pública Municipal denominado Consejo de Colaboración Municipal de Guadalajara, tiene por objeto participar en la ejecución de las acciones urbanísticas previstas en este ordenamiento, en favor del interés colectivo del Municipio de Guadalajara y al cual se le reconoce el carácter de Consejo Municipal de Desarrollo Urbano, como organismo auxiliar en la gestión del desarrollo urbano de conformidad a lo establecido en el Código Urbano para el Estado de Jalisco y demás normatividad aplicable; y promover la participación ciudadana y vecinal en la gestión del desarrollo urbano, mediante la ejecución de obras por colaboración o por concertación, en los términos dispuestos en la normatividad aplicable.
 
 III. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
@@ -7603,9 +7621,13 @@ Séptimo. Con motivo de la entrada en vigor del Código que se expide y con la c
 
 Por lo anterior, se le otorga a cada organismo público descentralizado municipal un plazo de noventa días hábiles contados a partir del de publicación del ordenamiento que se expide, para establecer en sus reglamentos internos las atribuciones especializadas según su objeto, para su Consejo Directivo y demás áreas de la entidad, las que deberán ajustarse a las disposiciones contenidas en el referido Libro Tercero, Título Segundo del Código que se crea y en la diversa normatividad aplicable.
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.M. 5 DE ABRIL DE 2022)</small>
+
 Octavo. Se modifican las denominaciones de las entidades paramunicipales enseguida anotadas, sin que ello implique alteración alguna en su objeto, funciones y servicios, obligaciones y derechos; subsistiendo en consecuencia estos:
 
 > <small>[N. DE E. VÉASE TABLA EN LA G.M. DE 29 DE NOVIEMBRE DE 2019, PAGINAS185 Y 186.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, G.M. DE 5 DE ABRIL DE 2022, PÁGINA 8.]</small>
 
 Noveno. Se instruye a las dependencias y entidades municipales de Guadalajara para que en un plazo no mayor a noventa días a partir del siguiente al de la publicación de este Código, efectúen las modificaciones administrativas y reglamentarias correspondientes a fin de armonizarlas con lo dispuesto en el Código que se expide.
 
@@ -7846,3 +7868,27 @@ Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalaja
 Segundo. Estas reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicadas las aludidas reformas, remítase una copia al Congreso del Estado de Jalisco para efectos de lo ordenado en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 5 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA”.]
+
+Primero. Publíquese el presente ordenamiento en la Gaceta Municipal de Guadalajara en términos de lo dispuesto en el artículo 42 fracciones IV y V de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+Segundo. El presente ordenamiento entrará en vigor el día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Se derogan todas las disposiciones legales y administrativas que contravengan el presente ordenamiento.
+
+G.M. 5 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA".]
+
+Primero. Publíquese lo conducente del presente ordenamiento en la Gaceta Municipal de Guadalajara.
+
+Segundo. El presente ordenamiento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Se instruye al Organismo Público Descentralizado de la Administración Pública Municipal, denominado Consejo de Colaboración Municipal de Guadalajara para que en un plazo no mayor a noventa días a partir del día siguiente al de la publicación de este ordenamiento, efectúe las modificaciones administrativas y reglamentarias correspondientes a fin de armonizarlas con lo dispuesto en el presente, incluyendo la denominación de la sala de juntas respectiva.
+
+Cuarto. Las referencias o menciones contenidas en otros reglamentos, disposiciones municipales, convenios y demás instrumentos jurídicos respecto al Organismo Público Descentralizado de la Administración Pública Municipal, denominado Consejo Social de Cooperación para el Desarrollo Urbano, se entenderán referidas al Organismo Público Descentralizado de la Administración Pública Municipal, denominado Consejo de Colaboración Municipal de Guadalajara.
+
+Quinto. Una vez publicadas las presentes reformas remítanse un tanto de las mismas al Congreso del Estado de Jalisco, para los efectos contemplados en el artículo 42, fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
