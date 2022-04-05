@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg1633-2021-del-consejo-general-del-instituto-15241
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-11-11"
-last_updated: "2021-11-11"
+last_updated: "2022-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152419&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-10-29"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS GENERALES PARA LA FISCALIZACIÓN DEL PROCESO DE REVOCACIÓN DE MANDATO DEL PRESIDENTE DE LA REPÚBLICA ELECTO PARA EL PERÍODO CONSTITUCIONAL 2018-2024, ASÍ COMO LOS PLAZOS PARA LA FISCALIZACIÓN DE LOS INFORMES DE INGRESOS Y GASTOS QUE SE PRESENTEN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN 5 DE ABRIL DE 2022.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 11 de noviembre de 2021.
 
@@ -46,6 +46,8 @@ PRIMERO. Se aprueban los Lineamientos generales para la fiscalización del proce
 SEGUNDO. Se aprueban los plazos para la fiscalización de los informes de ingresos y gastos derivados del proceso de revocación de mandato del Presidente de la República electo para el período constitucional 2018-2024, así como de la fiscalización en la etapa de recolección de firmas, a saber:
 
 > <small>[N. DE E. VÉASE TABLAS EN EL D.O.F. DE 11 DE NOVIEMBRE DE 2021, PÁGINA 98.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LAS TABLAS EN EL D.O.F. DE 5 DE ABRIL DE 2022, PÁGINA 222.]</small>
 
 TERCERO. En caso de que el organismo jurisdiccional mediante Resolución o sentencia, afecte o solicite el reajuste a las fechas, será la Comisión de Fiscalización la instancia responsable de realizar los ajustes, actualizaciones o adiciones pertinentes y será ésta la encargada de comunicarlo al Consejo General del INE.
 
@@ -199,15 +201,15 @@ aa) Sistema de Registro de Representantes: Sistema de Registro de Solicitudes, S
 
 bb) UTF: Unidad Técnica de Fiscalización.
 
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2022)</small>
+
 ###### Artículo 3.
 
 Los presentes Lineamientos tienen por objeto:
 
-I. Establecer las reglas generales a través de la (sic) cuales el INE fiscalizará el proceso de RM a los sujetos obligados en materia de fiscalización.
+I. Establecer las reglas generales a través de las cuales el INE fiscalizará el proceso de RM a los sujetos obligados en materia de fiscalización.
 
-II. Garantizar la correcta aplicación de los egresos por parte de los PP y de ingresos y egresos de los Observadores que participen en las etapas que serán fiscalizadas por la autoridad electoral.
-
-Los ingresos de los PP en el año que se realiza el proceso de RM serán revisados de conformidad a los plazos para la fiscalización del periodo ordinario en el Informe Anual correspondiente. Asimismo, los ingresos deberán sujetarse a las reglas de comprobación y limites de conformidad a la norma respecto del financiamiento ordinario.
+II. Garantizar la correcta aplicación de los ingresos y egresos por parte de los PP y de los Observadores que participen en las etapas que serán fiscalizadas por la autoridad electoral.
 
 ###### Artículo 4.
 
@@ -229,17 +231,21 @@ II. De la fiscalización en el proceso de Revocación de Mandato
 
 La fiscalización de las etapas de la RM estará a cargo del INE, a través de la COF y la UTF, garantizando que el proceso de RM se lleve a cabo de conformidad con lo señalado en el artículo 35, fracción IX de la Constitución y en su artículo Cuarto Transitorio, en la Ley Federal de Revocación de Mandato y en los Acuerdos y Lineamientos a probados por el CG.
 
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2022)</small>
+
 ###### Artículo 8.
 
 Para el cumplimiento del objeto de los presentes Lineamientos, la COF tendrá las atribuciones siguientes:
 
 I. Presentar al Consejo General:
 
-a. El informe de resultados de los procedimientos de revisión aplicados en la etapa de recolección de firmas de la ciudadanía.
+a. El informe de resultados de los procedimientos de revisión aplicados en la etapa de recolección de firmas de la ciudadanía, así como en la etapa de promoción y difusión que realice el INE y la Jornada de RM.
 
-b. El informe de resultados de la revisión de los informes de ingresos y gastos que presenten los PP y Observadores con motivo de la RM. El informe especificará las irregularidades en que hubiesen incurrido en el destino de los recursos aplicados.
+b. El informe de resultados de la revisión de los informes de ingresos y gastos que presenten los Observadores con motivo de la RM. El informe especificará las irregularidades en que hubiesen incurrido en el destino de los recursos aplicados.
 
-II. Las demás que le confiera la LGIPE, el RE, los Lineamientos, así como el Consejo General.
+Las demás que le confiera la LGIPE, el RE, los Lineamientos, así como el Consejo General.
+
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2022)</small>
 
 ###### Artículo 9.
 
@@ -247,7 +253,7 @@ La fiscalización que llevará a cabo la UTF en la RM será en las siguientes et
 
 I. Durante la etapa de recopilación de las firmas de apoyo de la ciudadanía, la UTF aplicará los mismos procedimientos de revisión (monitoreos) que de manera ordinaria realiza en la fiscalización de los Informes Anuales de los PP. Lo anterior, para verificar que los partidos políticos no generen gastos en esta etapa, asociados a la RM.
 
-II. La promoción y difusión de la participación ciudadana de la RM, desde el día siguiente de la publicación de la Convocatoria en el DOF hasta 3 días previos a la fecha de la Jornada de RM, se aplicarán procedimientos de revisión (monitoreos y visitas de verificación) para verificar el origen y destino de los recursos, así como su adecuada comprobación. Asimismo, se revisarán también los gastos que con motivo de la Jornada de RM que realicen los PP a través de sus representantes generales y ante mesas directivas de casilla.
+II. La promoción y difusión de la participación ciudadana de la RM, desde el día siguiente de la publicación de la Convocatoria en el DOF hasta 3 días previos a la fecha de la Jornada de RM, se aplicarán procedimientos de revisión (monitoreos) para verificar que los partidos políticos no generen gastos asociados a la RM durante esta etapa.
 
 2. De los sujetos obligados
 
@@ -263,7 +269,7 @@ II. Organizaciones de observadores electorales que hayan obtenido oportunamente 
 
 ###### Artículo 11.
 
-De conformidad con el artículo 32, párrafo 4° de la LFRM, los PP solo podrán participar en la etapa de la promoción y difusión de la RM, en el periodo definido para tal efecto. Su participación consistirá únicamente en la promoción de la participación ciudadana en el proceso de RM, la cual será objetiva, imparcial y con fines informativos, y por lo tanto, se abstendrán de aplicar los recursos derivados del financiamiento público y del financiamiento privado para la realización de sus actividades ordinarias permanentes o sus actividades tendientes a la obtención del voto con el propósito de influir en las preferencias de las ciudadanas y los ciudadanos.
+(DEROGADO, D.O.F. 5 DE ABRIL DE 2022)
 
 ###### Artículo 12.
 
@@ -271,9 +277,11 @@ Los Observadores solo podrán realizar las actividades de observación de los ac
 
 2.2 De las limitaciones y restricciones
 
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2022)</small>
+
 ###### Artículo 13.
 
-Los PP tienen estrictamente prohibida la realización de actividades que impliquen gastos en cualquier actividad vinculada con la etapa de recopilación de las firmas de apoyo de la ciudadanía en la RM.
+Los PP tienen estrictamente prohibida la realización de actividades que impliquen gastos en cualquier actividad vinculada con cualquiera de las etapas en el proceso de RM, tanto en la de recopilación de firmas de apoyo de la ciudadanía, como en la promoción y difusión de la RM.
 
 3. De las etapas, gastos permitidos y procedimientos de revisión
 
@@ -287,31 +295,13 @@ Durante la etapa de la recopilación de firmas por parte de la ciudadanía, la U
 
 ###### Artículo 15.
 
-Los gastos que realicen los PP para la difusión objetiva, imparcial y con fines informativos de la participación ciudadana en la RM forman parte del gasto ordinario, al ser financiados con los recursos para actividades ordinarias permanentes y las aportaciones de militantes y simpatizantes durante el ejercicio de que se trate.
+(DEROGADO, D.O.F. 5 DE ABRIL DE 2022)
 
-Se consideran gastos para la difusión de la participación ciudadana en la RM los siguientes conceptos:
-
-a) Gastos de producción de los mensajes para radio y televisión. Los gastos de producción de los mensajes para radio y televisión a que se refiere el artículo 76, numeral 1, inciso d), de la LGPP deberán ser comprobados y cumplir con lo establecido en el artículo 138 del RF.
-
-b) Propaganda utilitaria. Los gastos de propaganda utilitaria comprenden los artículos promocionales utilitarios que contengan imágenes, signos, emblemas y expresiones que tengan por objeto difundir de manera objetiva, imparcial y con fines informativos la participación ciudadana en la RM, los cuales deberán ser comprobados de conformidad con los artículos 204 y 205 del RF.
-
-c) Operativos. Los gastos que deberán ser reportados como gastos operativos serán los establecidos en los artículos 76, numeral 1, inciso b) de la LGPP.
-
-d) Propaganda exhibida en vía pública. Los partidos podrán contratar publicidad en anuncios espectaculares, buzones, cajas de luz, carteleras, marquesinas, muebles urbanos de publicidad con o sin movimiento, muros, panorámicos, para buses, puentes, vallas, vehículos, así como la colocación de mantas y pinta de bardas ajustándose a los requisitos establecidos en los artículos 207, 209, 210 y 216 del RF.
-
-e) Propaganda en diarios, revistas y otros medios impresos. Los gastos de propaganda que se realicen en diarios, revistas y otros medios impresos deberán cumplir con los requisitos establecidos en el artículo 211 del RF.
-
-f) Propaganda exhibida en salas de cine. Los gastos de propaganda exhibida en salas de cine deberán comprobarse de acuerdo con lo que establece el artículo 214 del RF.
-
-g) Propaganda exhibida en internet y redes sociales. La comprobación de los gastos de propaganda realizados en internet y redes solciales (sic) atenderá las reglas establecidas en los artículos 203 y 215 del RF.
-
-h) Insumos Covid. Los gastos por concepto de artículos que sirven para evitar contagios o detección de Coronavirus (COVID-19) como pueden ser cubrebocas y/o cualquier otro artículo cuando no se trate de propaganda para la difusión de la participación ciudadana en la RM, caretas, guantes, gel antibacterial y otros que sirvan de protección para prevenir los contagios por este virus, no pueden ser considerados como propaganda utilitaria por lo que no pueden reportarse como gastos de la RM, ni distribuirse entre la ciudadanía.
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2022)</small>
 
 ###### Artículo 16.
 
-Las erogaciones que no promuevan de manera objetiva e imparcial el ejercicio ciudadano de participación ciudadana en la RM, serán consideradas como gastos sin objeto partidista.
-
-Se considerará promoción no objetiva, parcial y sin fines informativos aquellos actos de difusión o elementos propagandísticos que tenga (sic) como propósito el influir en las preferencias de las ciudadanas y los ciudadanos en el acto de emisión de voluntad del ejercicio de RM.
+Las erogaciones atribuibles a los PP, relacionadas con la RM, que con motivo de la revisión que realice la UTF sean identificadas, serán consideradas como gastos sin objeto partidista.
 
 3.2.1 De los monitoreos
 
@@ -331,11 +321,11 @@ La UTF podrá solicitar el apoyo de la CNCS y de la estructura desconcentrada de
 
 ###### Artículo 20.
 
-La visita de verificación es la diligencia de carácter administrativo que ordena la COF, que tiene por objeto corroborar el cumplimiento de las obligaciones y la veracidad de la información presentada por los PP.
+(DEROGADO, D.O.F. 5 DE ABRIL DE 2022)
 
 ###### Artículo 21.
 
-La UTF podrá realizar visitas de verificación para corroborar la veracidad de las operaciones relacionadas con la RM, que se harán de conformidad con lo establecido en los artículos 297, 298, 299, 301 numeral 1 inciso b), 302 y 303 numerales 3 al 5 del RF.
+(DEROGADO, D.O.F. 5 DE ABRIL DE 2022)
 
 III. Del registro contable de los ingresos y gastos en el SIF
 
@@ -343,23 +333,13 @@ III. Del registro contable de los ingresos y gastos en el SIF
 
 ###### Artículo 22.
 
-La captación, clasificación, valuación y registro de los ingresos y egresos para la difusión de la RM se realizarán conforme a lo dispuesto en el RF y mediante el SIF, en la contabilidad ordinaria del ejercicio que corresponda.
+(DEROGADO, D.O.F. 5 DE ABRIL DE 2022)
 
-a. Los PP deberán presentar un informe de los ingresos y gastos correspondientes a la etapa de promoción y difusión de la RM, en el formato establecido en el Anexo Uno de los presentes Lineamientos. En caso de no realizar erogaciones, deberá presentarse el informe en ceros.
-
-b. La información tendrá el carácter de definitiva, una vez presentado el informe correspondiente, y sólo podrán realizarse modificaciones por requerimiento de la autoridad fiscalizadora.
-
-c. Las cuentas de balance deberán reconocerse en la contabilidad del ejercicio ordinario 2022 y acreditarse con la documentación soporte y muestras respectivas. Las disposiciones de estos Lineamientos no eximen a los PP de la obligación de reportar los gastos del proceso de RM en el Informe Anual 2022, según corresponda, y en estricto apego al tiempo real en el registro de las operaciones, de conformidad con lo establecido en el artículo 38 del RF.
-
-d. La revisión de los informes de gastos aplicados en la RM que presenten los PP a través del SIF se deberá realizar con apego a los plazos establecidos en los presentes lineamientos.
-
-e. Los PP no podrán, bajo ninguna circunstancia, presentar nuevas versiones de los informes sin previo requerimiento de la UTF. Los cambios o modificaciones a los informes presentados sólo podrán ser resultado de la solicitud de ajuste notificados por la autoridad, los cuales serán presentados en los mismos medios que el primer informe.
-
-f. La notificación de los oficios de errores y omisiones con motivo de la revisión del Informe de la RM se realizará a través del SIF y tendrá como finalidad salvaguardar la garantía de audiencia de los PP respecto de las observaciones realizadas por esta autoridad.
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2022)</small>
 
 ###### Artículo 23.
 
-Para el registro de las operaciones que lleven a cabo los PP con motivo de la RM, se habilitarán las cuentas contables específicas dentro del SIF para el Proceso de la RM, mismas que se harán del conocimiento de los PP y estarán disponibles para su consulta en el Centro de Ayuda del SIF, específicamente en (sic) Catálogo de Cuentas Contables del ejercicio 2022.
+Para el registro de las operaciones que lleven a cabo los PP con motivo de la RM, únicamente por lo que hace a los gastos de las personas representantes generales y ante las mesas directivas de casilla del día de la Jornada de la RM, se habilitarán las cuentas contables específicas dentro del SIF para el Proceso de la RM, mismas que se harán del conocimiento de los PP y estarán disponibles para su consulta en el Centro de Ayuda del SIF, específicamente en Catálogo de Cuentas Contables del ejercicio 2022.
 
 ###### Artículo 24.
 
@@ -371,9 +351,11 @@ IV. De la presentación de informes
 
 Partidos políticos
 
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2022)</small>
+
 ###### Artículo 25.
 
-Los PP deberán presentar el Informe de ingresos y gastos de la RM, a través del SIF, en el formato que se adjunta como Anexo Uno a los presentes Lineamientos. En dicho formato deberán incluir la totalidad de los ingresos y gastos efectuados durante el periodo que comprenda la difusión y promoción de la RM Y de la Jornada de la RM, con apego a los plazos establecidos en el artículo 36 de los presentes Lineamientos y deberán estar soportados con la documentación comprobatoria adjunta al SIF conforme a lo dispuesto en el RF.
+Los PP deberán presentar el Informe de ingresos y gastos de la RM, a través del SIF, en el formato que se adjunta como Anexo Uno a los presentes Lineamientos. En dicho formato deberán incluir la totalidad de los gastos correspondiente a las personas representantes generales y ante las mesas directivas de casilla del día de la Jornada de la RM, con apego a los plazos establecidos en el artículo 36 de los presentes Lineamientos y deberán estar soportados con la documentación comprobatoria correspondiente.
 
 ###### Artículo 26.
 
@@ -457,15 +439,21 @@ e) Presentación del Informe final de la COF ante el CG respecto de hallazgos en
 
 f) Aprobación del CG del Informe respecto de hallazgos encontrados en la etapa de recolección de firmas en la RM: 14 de febrero de 2022.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE ABRIL DE 2022)</small>
+
 ###### Artículo 36.
 
-La rendición de cuentas y fiscalización de los Informes de gastos de RM de los PP en la etapa de difusión de dicho proceso, se sujetará al calendario siguiente:
+La rendición de cuentas y fiscalización de los Informes de gastos de Jornada de RM de los PP en dicho proceso, se sujetará al calendario siguiente:
 
 a) Entrega de los informes en el SIF: 30 de marzo de 2022.
 
-b) Notificación de oficios de errores y omisiones a los PP: 13 de abril de 2022.
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2022)</small>
 
-c) Respuesta de los PP a los oficios de errores y omisiones: a más tardar el 22 de abril de 2022.
+b) Notificación de oficios de hallazgos, errores y omisiones a los PP: 27 de abril de 2022.
+
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2022)</small>
+
+c) Respuesta de los PP a los oficios de hallazgos, errores y omisiones: a más tardar el 4 de mayo de 2022.
 
 d) Elaborar y someter a consideración de la COF el Informe de gastos que presentan los PP relativos a la RM: 26 de abril de 2022.
 
@@ -473,27 +461,31 @@ e) Aprobación de la COF el (sic) Informe de gastos que presentan los PP relativ
 
 f) Presentación del Informe final de la COF ante el CG respecto de la fiscalización de los informes presentados por los PP en la RM: 3 de mayo de 2022.
 
-g) Aprobación por el CG del Informe final de la COF respecto de la fiscalización de los informes presentados por los PP en la RM: 9 de mayo de 2022.
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2022)</small>
+
+g) Aprobación por el CG del Informe final de la COF respecto de la fiscalización de los informes presentados por los PP en la RM: 31 de mayo de 2022.
+
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2022)</small>
 
 ###### Artículo 37.
 
 Los observadores considerarán los siguientes plazos en el proceso de la RM:
 
-a) Entrega de los Informes de Observadores: 6 de mayo de 2022.
+a) Entrega de los Informes de Observadores: 20 de mayo de 2022.
 
-b) Revisión por parte de la UTF de los informes presentados: del 9 de mayo al 3 de junio de 2022.
+b) Revisión por parte de la UTF de los informes presentados: del 23 de mayo al 17 de junio de 2022.
 
-c) Notificación de oficios de errores y omisiones a los Observadores: 3 de junio de 2022.
+c) Notificación de oficios de errores y omisiones a los Observadores: 17 de junio de 2022.
 
-d) Respuesta de los Observadores a los oficios de errores y omisiones: hasta el 17 de junio de 2022.
+d) Respuesta de los Observadores a los oficios de errores y omisiones: hasta el 1 de julio de 2022.
 
-e) Elaborar y someter a consideración de la COF el dictamen y proyecto de resolución relativo a los informes de observadores electorales: 22 de julio de 2022.
+e) Elaborar y someter a consideración de la COF el dictamen y proyecto de resolución relativo a los informes de observadores electorales: 13 de julio de 2022.
 
-f) Aprobación de la COF del dictamen: 1 de agosto de 2022.
+f) Aprobación de la COF del dictamen: 20 de julio de 2022.
 
-g) Presentación al CG del dictamen y proyecto de resolución: 4 de agosto de 2022.
+g) Presentación al CG del dictamen y proyecto de resolución: 21 de julio de 2022.
 
-h) Aprobación por el CG el (sic) dictamen y proyecto de resolución relativo a los informes de observadores electorales: 12 de agosto de 2022.
+h) Aprobación por el CG el dictamen y proyecto de resolución relativo a los informes de observadores electorales: 10 de agosto de 2022
 
 VI. De la Jornada de la Revocación de Mandato
 
@@ -515,7 +507,7 @@ La comprobación de los gastos del día de la Jornada de la RM deberá llevarse 
 
 ###### Artículo 41.
 
-Los PP cumplirán con los requisitos y procedimientos para el registro y la comprobación de los gastos que realicen el día de la Jornada de la RM, respecto al apoyo económico que otorguen a las personas que nombren como representantes generales y ante las mesas directivas de casilla, los gastos en comida y transporte, así como la comprobación de la gratuidad de los servicios que presten dichas personas representantes el día de la Jornada de la RM, de confomidad (sic) con lo siguiente:
+Los PP cumplirán con los requisitos y procedimientos para el registro y la comprobación de los gastos que realicen el día de la Jornada de la RM, respecto al apoyo económico que otorguen a las personas que nombren como representantes generales y ante las mesas directivas de casilla, los gastos en comida y transporte, así como la comprobación de la gratuidad de los servicios que presten dichas personas representantes el día de la Jornada de la RM, de conformidad con lo siguiente:
 
 1. Todas las personas representantes generales y de casilla deberán registrarse en el Sistema de Registro de Representantes, de conformidad con las reglas que establezca para tal efecto el INE. Asimismo, los responsables del registro de las personas representantes generales y de casilla deberán indicar, al momento de registrar a cada persona, si sus actividades el día de la Jornada de la RM se realizarán de forma gratuita y desinteresada o bien, si se les otorgará apoyo económico.
 
@@ -547,7 +539,9 @@ El SIFIJE estará abierto a partir del día de la Jornada de la RM y hasta 3 dí
 
 Para dar certeza de cómo operará la comprobación de pago, se considerarán los siguientes supuestos:
 
-a) El registro original que se realice en el Sistema de Registro de Representantes con una remuneración de valor cero se entenderá como gratuito. La ausencia de dato en la remuneración o un valor mayor a cero, indica que el representante es oneroso y deberá reportar el pago, por lo que en el caso de las personas representantes sin valor en el campo remuneración, se valuará conforme al mecanismo señalado en el artículo 44, numeral 2 de los presentes Lineamientos.
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2022)</small>
+
+a) El registro original que se realice en el Sistema de Registro de Representantes con una remuneración de valor cero se entenderá como gratuito. La ausencia de dato en la remuneración o un valor mayor a cero, indica que el representante es oneroso y deberá reportar el pago, por lo que en el caso de las personas representantes sin valor en el campo remuneración, se valuará conforme al mecanismo señalado en el artículo 46, numeral 2 de los presentes Lineamientos.
 
 b) Por lo tanto, si los PP, durante el periodo establecido para el registro de representantes, registran a un representante de casilla como oneroso en el Sistema de Registro de Representantes, y de lo reportado en el SIJE la autoridad advierte que éste asistió el día de la Jornada de la RM, no se podrá modificar su estatus y registrar en el SIFIJE como gratuito, por lo que no será válido este movimiento.
 
@@ -627,9 +621,11 @@ Para cualquier consulta, incidencia o posible falla, se estará a lo dispuesto e
 
 VII. De las sanciones
 
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2022)</small>
+
 ###### Artículo 48.
 
-Las inconsistencias que sean encontradas en los informes de los PP serán señaladas en los Dictámenes y las Resoluciones que al efecto se lleven a cabo en la revisión del Informe Anual 2022; en el caso de los Observadores se realizará conforme a lo señalado en la LGIPE y el RF.
+Las inconsistencias que sean encontradas en los informes de los PP, así como las observaciones derivadas de los hallazgos de la UTF, producto de las actividades de monitoreo realizadas, serán señaladas en los Dictámenes y las Resoluciones que al efecto se emitan derivado de la revisión del Informe Anual 2022; en el caso de los Observadores se realizará conforme a lo señalado en la LGIPE y el RF.
 
 ###### Artículo 49.
 
@@ -800,3 +796,37 @@ lo tanto, no tendrá derecho a la prorroga mencionada en
 el punto anterior.
 
 *Se recomienda tener instalado en el ordenador un programa como Team Viewer o AnyDesk que permita la conexión remota entre el asesor y el usuario que reporta el incidente".
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 5 DE ABRIL DE 2022.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON LA REFORMA DE LOS PRESENTES LINEAMIENTOS.]</small>
+
+PRIMERO. Se aprueban las modificaciones a los Lineamientos generales para la fiscalización del proceso de revocación de mandato del Presidente de la República electo para el periodo constitucional 2018-2024.
+
+SEGUNDO. Se aprueba la modificación al Formato "IG-RM" - Informe de gastos de Revocación de Mandato, que corresponde al Anexo Uno de los referidos Lineamientos, mismo que corre agregado al presente y forma parte integral del mismo.
+
+TERCERO. Se aprueban las modificaciones a los plazos para la fiscalización de los informes de ingresos y gastos derivados del proceso de revocación de mandato del Presidente de la República electo para el periodo constitucional 2018-2024.
+
+CUARTO. Se instruye a la Unidad Técnica de Fiscalización a integrar las modificaciones aprobadas al Acuerdo y lineamientos, para publicitar esa versión integral.
+
+QUINTO. Se instruye a la Unidad Técnica de Fiscalización para que notifique el presente Acuerdo a los partidos políticos, tanto nacionales como locales, a través del módulo de notificaciones electrónicas del Sistema Integral de Fiscalización.
+
+SEXTO. Se instruye a la Unidad Técnica de Fiscalización para que notifique el presente Acuerdo a las organizaciones de observación electoral.
+
+SÉPTIMO. El presente Acuerdo, así como las modificaciones aprobadas a los Lineamientos y a los plazos para la fiscalización de los informes de ingresos y gastos derivados del proceso de revocación de mandato, entrarán en vigor a partir del día siguiente a su aprobación.
+
+OCTAVO. Publíquese en la página de Internet del Instituto Nacional Electoral, así como en el Diario Oficial de la Federación.
+
+[…]
+
+El Acuerdo y el anexo pueden ser consultados en las siguientes direcciones electrónicas:
+
+Página INE:
+
+https://www.ine.mx/sesion-extraordinaria-del-consejo-general-21-de-febrero-de-2022/
+
+Página DOF
+
+www.dof.gob.mx/2022/INE/CGext202202_21_ap_6.pdf
