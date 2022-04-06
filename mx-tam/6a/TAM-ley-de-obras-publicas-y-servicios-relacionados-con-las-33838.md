@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-obras-publicas-y-servicios-relacionados-con-las-33838"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-21"
-last_updated: "2021-09-23"
+last_updated: "2022-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 21 de agosto de 2003.
 
@@ -365,11 +365,11 @@ En materia de obras públicas y servicios relacionados con las mismas, las depen
 
 Corresponde a las dependencias, entidades y Ayuntamientos llevar a cabo los procedimientos para contratar y ejecutar las obras públicas y servicios relacionados con las mismas, por lo que en ningún caso se podrán contratar servicios para que por su cuenta y orden se contraten las obras o servicios de que se trate.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2022)</small>
 
 ###### ARTÍCULO 19.
 
-Las controversias del orden civil o mercantil que se susciten con motivo de los contratos celebrados con base en esta Ley, serán resueltas por el Supremo Tribunal de Justicia del Estado de Tamaulipas cuando el Gobierno del Estado sea parte y por los Jueces de Primera Instancia cuando lo sean los Ayuntamientos.
+Las controversias que se susciten con motivo de la interpretación y cumplimiento de los contratos celebrados con base en esta Ley, serán resueltas por el Tribunal de Justicia Administrativa del Estado de Tamaulipas, en relación con el Gobierno del Estado de Tamaulipas y los Ayuntamientos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE SEPTIEMBRE DE 2004)</small>
 
@@ -1646,3 +1646,11 @@ P.O. 23 DE SEPTIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+P.O. 6 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-144 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 19, PÁRRAFO PRIMERO, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
