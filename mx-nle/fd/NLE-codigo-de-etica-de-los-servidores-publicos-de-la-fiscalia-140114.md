@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-etica-de-los-servidores-publicos-de-la-fiscalia-14011
 country: "mx"
 rank: "codigo"
 publication_date: "2020-01-15"
-last_updated: "2020-01-15"
+last_updated: "2022-04-06"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140114&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DE LA FISCALIA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 6 DE ABRIL DE 2022, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2022 (SIN EFECTOS).
 
 Código publicado en el número 6 del Periódico Oficial del Estado de Nuevo León, el miércoles 15 de enero de 2020.
 
@@ -426,3 +428,13 @@ Así lo acuerdo y firmo, en la ciudad de Monterrey, Nuevo León, a los 19 días 
 LICENCIADO SALVADOR CARRIZALES VENEGAS
 
 TITULAR DEL ORGANO INTERNO DE CONTROL DE LA FISCAL (SIC) GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO: El presente acuerdo entrará en vigor desde la fecha de su firma, sin demérito de su publicación en el Periódico Oficial del Estado y en el portal de internet de esta Fiscalía.
+
+SEGUNDO: Una vez que entre en vigor el presente acuerdo, se deja sin efectos el Código de Ética de la Fiscalía General de Justicia del Estado de Nuevo León emitido (sic) 19 de noviembre de 2019.
