@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-educacion-del-estado-de-tabasco-10929"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-26"
-last_updated: "2020-08-21"
+last_updated: "2022-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE EDUCACIÓN DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 26 de febrero de 1997.
 
@@ -311,7 +311,9 @@ VII.- Promover permanentemente la investigación pedagógica que sirva como base
 
 VIII.- Impulsar el desarrollo de la enseñanza tecnológica y de la investigación científica y tecnológica;
 
-IX.- Fomentar y difundir las actividades artísticas, culturales y físico-deportivas en todas sus manifestaciones;
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2022)</small>
+
+IX.- Fomentar y difundir las actividades artísticas, culturales y físico-deportivas en todas sus manifestaciones, mismas que garantizarán de manera plena la igualdad sustantiva y el derecho a la no discriminación e inhibir que estas actividades se realicen con contenidos y estereotipos sexistas, en los que solo se juzguen y clasifiquen la belleza física de los educandos;
 
 X.- La autoridad educativa con la colaboración de las demás dependencias del Estado que por sus funciones coincidan con tales objetivos, promoverá el establecimiento de instituciones que proporcionen formación para el trabajo en forma temporal o permanente;
 
@@ -2518,3 +2520,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
 
 TERCERO. Para efectos de lo establecido en el presente Decreto, la Secretaría de Salud en coordinación con la Secretaría para el Desarrollo Económico y la Competitividad, emitirá la lista de bebidas azucaradas preenvasadas, bebidas azucaradas carbonatadas, golosinas y alimentos preparados con predominio de carbohidratos refinados y grasas vegetales en su forma sólida que contengan ácidos grasos hidrogenados en su forma trans.
+
+P.O. 6 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 060 POR EL QUE “SE REFORMA LA FRACCIÓN IX, DEL ARTÍCULO 17 DE LA LEY DE EDUCACIÓN DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido por el presente Decreto.
