@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-notariado-del-estado-de-yucatan-76541"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-31"
-last_updated: "2019-07-31"
+last_updated: "2022-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76541&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE ABRIL DE 2022.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 31 de agosto de 2010.
 
@@ -109,7 +109,9 @@ El ejercicio del notariado o de la escribanía pública es incompatible con todo
 
 El titular del Poder Ejecutivo del Estado determinará el número de notarías públicas así como su residencia, atendiendo a los siguientes factores:
 
-I.- Población del Estado y tendencias de su crecimiento, no debiendo superarse la proporción de un Notario Público por cada 20,000 habitantes, de conformidad con las cifras oficiales del Censo Nacional de Población y Vivienda;
+> <small>(REFORMADA, D.O. 6 DE ABRIL DE 2022)</small>
+
+I.- Población del Estado y tendencias de su crecimiento, no debiendo superarse la proporción de un Notario Público por cada 15,000 habitantes, de conformidad con las cifras oficiales del Censo Nacional de Población y Vivienda;
 
 II.- Estimaciones sobre las necesidades de fe pública en la población, y
 
@@ -1798,3 +1800,11 @@ Se salvaguarda la designación hecha para el actual Director del Archivo Notaria
 Artículo tercero. Obligación normativa
 
 La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 6 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 483/2022 POR EL QUE SE MODIFICA LA LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN".]
+
+Entrada en Vigor.
+
+Artículo único. Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
