@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-hidrocarburos-137
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-06-27"
-last_updated: "2021-01-06"
+last_updated: "2022-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137053&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-05-31"
 
 REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE ABRIL DE 2022.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de junio de 2019.
 
@@ -741,7 +741,7 @@ a) Proporcionar a la Unidad de Administración Técnica de Asignaciones y Contra
 
 b) Participar en la elaboración del Programa Anual de Visitas de Verificación e Inspección, en coordinación con la Unidad de Administración Técnica de Asignaciones y Contratos;
 
-c) Proponer al Órgano de Gobierno la práctica de visitas de verificación e inspección, así como actividades de certificación y auditoría extraordinarias;
+c) (DEROGADO, D.O.F. 6 DE ABRIL DE 2022)
 
 d) Realizar, en coordinación con la Dirección General de Inspección y Verificación, las visitas de verificación e inspección ordinarias y extraordinarias;
 
@@ -749,7 +749,9 @@ e) Requerir la presentación de información, reportes y documentación y citar 
 
 f) Analizar y determinar en coordinación con la Dirección General de Inspección y Verificación los hechos posiblemente constitutivos de sanción administrativa derivados de sus facultades de supervisión;
 
-g) Desahogar, en coordinación con la Unidad Jurídica, los procedimientos administrativos de sanción que deba determinar el Órgano de Gobierno, y
+> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 2022)</small>
+
+g) Si derivado de la supervisión de gabinete se detectaran posibles incumplimientos en el ámbito de sus atribuciones, solicitar a la Dirección General de Inspección y Verificación la realización de una supervisión de campo o bien, si derivado de la ejecución de las acciones de supervisión se cuenta con los elementos suficientes para acreditar un posible incumplimiento, comunicar a la Unidad Jurídica los hechos detectados y, de resultar procedente, ésta por conducto de la Dirección General de lo Contencioso, ponga a consideración del Órgano de Gobierno los elementos necesarios para que este determine el inicio de un procedimiento administrativo de sanción. Así como de ser el caso, participar en la sustanciación de los procedimientos administrativos de sanción en términos del presente Reglamento, proporcionando los insumos técnicos que les sean requeridos por la Dirección General de lo Contencioso, y
 
 h) Requerir informes sobre cualquier siniestro, hecho o contingencia derivado de las operaciones del Contratista, Asignatario o Autorizado.
 
@@ -895,7 +897,15 @@ VII. Atender los procedimientos administrativos relacionados con la evaluación 
 
 VIII. Llevar a cabo las actividades asociadas con la administración, o ejecución de las garantías presentadas en los procesos de contratación previstos en la Ley de Hidrocarburos;
 
+> <small>(ADICIONADA, D.O.F. 6 DE ABRIL DE 2022)</small>
+
+VIII Bis. Atender, en coordinación con (sic) a las Unidades Administrativas, los requerimientos realizados por los órganos fiscalizadores del Estado;
+
 IX. Revisar y validar los acuerdos de operación conjunta presentados en los procesos de contratación por los licitantes ganadores, o en su caso, por los Contratistas, y
+
+> <small>(ADICIONADA, D.O.F. 6 DE ABRIL DE 2022)</small>
+
+IX Bis. Coordinar la atención de las obligaciones de transparencia de la Comisión, en términos de la Normativa Aplicable;
 
 > <small>(ADICIONADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
 
@@ -1031,13 +1041,17 @@ X. Intervenir en los mecanismos alternativos de solución de controversias en re
 
 XI. Instrumentar las transacciones y conciliaciones judiciales y extrajudiciales, en términos de la legislación aplicable;
 
-XII. Atender, en coordinación con a (sic) las Unidades Administrativas, los requerimientos realizados por los órganos fiscalizadores del Estado;
+XII. (DEROGADA, D.O.F. 6 DE ABRIL DE 2022)
 
-XIII. Coordinar la atención de los casos fortuitos o fuerza mayor que se presenten, derivados del seguimiento de los Contratos;
+XIII. (DEROGADA, D.O.F. 6 DE ABRIL DE 2022)
 
-XIV. Sustanciar, en coordinación con las Unidades Administrativas correspondientes, los procedimientos administrativos de sanción, imposición de sanciones y medidas de seguridad a los sujetos regulados;
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2022)</small>
 
-XV. Proponer al Órgano de Gobierno, en conjunto con las Unidades Administrativas correspondientes, el inicio y resolución de procedimientos administrativos de sanción e imposición de sanciones conforme a la Normativa Aplicable;
+XIV. Sustanciar los procedimientos administrativos de sanción, imposición de sanciones y medidas de seguridad a los sujetos regulados;
+
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2022)</small>
+
+XV. Proponer al Órgano de Gobierno el inicio y resolución de procedimientos administrativos de sanción e imposición de sanciones conforme a la Normativa Aplicable;
 
 XVI. Coadyuvar con la Dirección General de Inspección y Verificación para el desarrollo de los procesos de visitas de verificación e inspección que se lleven a cabo, y
 
@@ -1087,7 +1101,7 @@ e) Validar y proponer al Órgano de Gobierno los términos y condiciones de los 
 
 f) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-III. Coordinar la atención de las obligaciones de transparencia de la Comisión, en términos de la Normativa Aplicable;
+III. (DEROGADA, D.O.F. 6 DE ABRIL DE 2022)
 
 IV. (DEROGADA, D.O.F. 25 DE OCTUBRE DE 2019)
 
@@ -1407,7 +1421,9 @@ b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 Facultades de la Dirección General de Inspección y Verificación. La Dirección General de Inspección y Verificación, adscrita a la Unidad de Administración Técnica de Asignaciones y Contratos, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
 
-I. Coordinar y proponer al Órgano de Gobierno el Programa Anual de visitas de verificación e inspección;
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2022)</small>
+
+I. Coordinar y proponer al Órgano de Gobierno el Programa Anual de Visitas de Verificación e Inspección, así como las visitas no programadas, en términos de la Normativa Aplicable;
 
 II. Mantener actualizada la lista de los servidores públicos y terceros independientes, autorizados para realizar certificaciones, auditorias y visitas de verificación e inspecciones;
 
@@ -1419,7 +1435,9 @@ V. Coordinar y supervisar las funciones logísticas, administrativas y estadíst
 
 VI. Presentar al Órgano de Gobierno en coordinación con las Direcciones Generales competentes los resultados y, en su caso, los posibles incumplimientos detectados en las prácticas de vistas de verificación e inspección;
 
-VII. Proponer al Órgano de Gobierno en coordinación con las Direcciones Generales competentes el inicio de un procedimiento administrativo de sanción, con el apoyo de la Unidad Jurídica;
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2022)</small>
+
+VII. Proponer al Órgano de Gobierno en coordinación con las Direcciones Generales competentes el inicio de un procedimiento administrativo de sanción, posterior al análisis jurídico de los resultados de las visitadas ejecutadas y la dictaminación de la procedencia por parte de la Unidad Jurídica;
 
 VIII. Supervisar de manera continua las actividades que se llevan a cabo en las Áreas de Asignaciones o Contractuales pudiéndose apoyar de herramientas tecnológicas o de convenios con autoridades encargadas de actividades de verificación e inspección;
 
@@ -1786,3 +1804,11 @@ D.O.F. 6 DE ENERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO CNH.E.71.007/2020 POR EL QUE SE MODIFICAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS”.]
 
 ÚNICO. La presente modificación entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO CNH.E.17.002/2022 POR EL QUE SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS”.]
+
+PRIMERO. El presente ACUERDO entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Inscribir el presente Acuerdo CNH.E.17.002/2022 en el Registro Público de la Comisión Nacional de Hidrocarburos.
