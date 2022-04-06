@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2022-03-26"
+last_updated: "2022-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2022.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -735,13 +735,17 @@ El Instituto Estatal mencionado en el presente artículo, contará con un órgan
 
 Quien ocupe la titularidad del Órgano Interno de Control será propuesto y designado por el Congreso del Estado, con el voto de las dos terceras partes de las y los diputados presentes. Durará en su encargo siete años. Los requisitos que deberá reunir para su designación se establecerán en la ley.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2022)</small>
 
 ###### Art. 37.
 
-El Tribunal Estatal Electoral es el órgano especializado de legalidad y plena jurisdicción en la materia electoral, que goza de autonomía técnica y de gestión en su funcionamiento e independiente en sus decisiones, con patrimonio propio, que deberá cumplir sus funciones bajo los principios de certeza, imparcialidad, objetividad, legalidad y probidad. Se compondrá de cinco magistrados que deberán satisfacer los requisitos que establece la Ley General de la materia.
+El Tribunal Estatal Electoral es el órgano especializado de legalidad y plena jurisdicción en la materia electoral, que goza de autonomía técnica y de gestión en su funcionamiento e independiente en sus decisiones, con patrimonio propio, que deberá cumplir sus funciones bajo los principios de certeza, imparcialidad, objetividad, legalidad y probidad. Se compondrá de tres magistradas y magistrados que deberán satisfacer los requisitos que establece la Ley General de la materia.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
 Los Magistrados serán designados de forma escalonada en los términos que establece el artículo 116, fracción IV, inciso c), de la Constitución Política de los Estados Unidos Mexicanos y la Ley General de la materia.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
 Los Magistrados del Tribunal Estatal Electoral durarán en su encargo siete años. Recibirán remuneración igual a la que perciben los Magistrados del Tribunal Superior Justicia del Estado.
 
@@ -749,13 +753,19 @@ Los Magistrados del Tribunal Estatal Electoral durarán en su encargo siete año
 
 Corresponde al Tribunal Estatal Electoral resolver en forma definitiva e inatacable las impugnaciones que se presenten en materia electoral, de referéndum, plebiscito y revocación de mandato, así como las que se interpongan contra las declaraciones de validez y el otorgamiento de constancias de mayoría y de asignación, sin perjuicio de las atribuciones del Instituto Nacional Electoral en los términos de la Ley General de la materia.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+
 En la elección de Gobernador, el Instituto Estatal Electoral dará cuenta al Congreso de la declaratoria de validez y de la constancia de mayoría que hubiere expedido, y en caso de impugnación el Tribunal Estatal Electoral dará cuenta al Congreso de su resolución para que éste, mediante formal decreto haga la declaratoria de Gobernador electo, que a su vez turnará al Ejecutivo para su publicación en el Periódico Oficial del Estado. Si el Ejecutivo o el Congreso no cumplieren en el término que la Ley señale, el Instituto Estatal Electoral o el Tribunal Estatal Electoral, en caso de impugnación ordenarán la publicación de la mencionada declaratoria en el Periódico Oficial.
 
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
 
 El Tribunal Estatal Electoral funcionará en pleno durante los procesos electorales, los plebiscitarios, de referéndum y de revocación de mandato. La Ley establecerá la forma de su organización y funcionamiento.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+
 Concluido cada proceso electoral, el Tribunal Estatal Electoral presentará al Congreso y hará público un informe del desempeño de sus funciones.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
 El Tribunal Estatal Electoral hará uso de los medios de apremio necesarios para hacer cumplir de manera expedita sus sentencias y resoluciones, en los términos que fije la ley.
 
@@ -5428,3 +5438,23 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO TERCERO.
 
 Para los efectos previstos en la presente adición, se harán las previsiones, reasignaciones o transferencias que fueran necesarias, siguiendo los principios de equilibrio presupuestal, transparencia y rendición de cuentas aplicables.
+
+P.O. 6 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/RFCNT/0102/2021 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 37, PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y de los debates a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su momento, hágase el cómputo de los votos de los Ayuntamientos y la declaratoria de haber sido aprobada la presente reforma.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de la publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Las Magistraturas del Tribunal Estatal Electoral que actualmente se encuentran en funciones, seguirán en el cargo hasta la conclusión del periodo para el que fueron nombradas.
