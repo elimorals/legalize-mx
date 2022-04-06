@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ingresos-del-municipio-de-cuernavaca-morelos-para-el-153
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2021-12-31"
-last_updated: "2021-12-31"
+last_updated: "2022-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,13 @@ state: "MOR"
 
 LEY DE INGRESOS DEL MUNICIPIO DE CUERNAVACA, MORELOS, PARA EL EJERCICIO FISCAL 2022
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2022.
 
 Ley publicada en la Sección Cuarta del Número 6027 del Periódico Oficial del Estado de Morelos, el viernes 31 de diciembre de 2021.
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO Y REFORMA DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2022)</small>
 
 ###### Artículo 14.
 
@@ -37,362 +39,290 @@ Es objeto de este derecho, la prestación de los servicios públicos municipales
 
 Son sujetos del pago por la prestación de los servicios públicos municipales de mantenimiento de infraestructura urbana, recolección, traslado y disposición final de residuos sólidos y alumbrado público, los propietarios y poseedores de predios urbanos, suburbanos y rústicos del municipio de Cuernavaca; servicios que pagarán de conformidad con lo siguiente:
 
-4.3.5.1. Por mantenimiento de infraestructura urbana en el municipio de Cuernavaca Morelos, la tarifa correspondiente por la prestación del servicio se calculará de acuerdo con la zona y aplicando la siguiente formula: el valor de la U.M.A. diaria vigente se multiplica por la base de pago de la zona referente al predio, el factor que resulte se multiplica por los metros lineales de frente al predio y el resultado, se multiplica por dos, ya que para el cobro de este servicio se calcula por semestre.
+4.3.5.1. Por mantenimiento de infraestructura urbana en el municipio de Cuernavaca, Morelos, la tarifa correspondiente por la prestación del servicio se calculará de acuerdo con la zona y aplicando la siguiente formula: el valor de la U.M.A. diaria vigente se multiplica por la base de pago de la zona referente al predio, el factor que resulte se multiplica por los metros lineales de frente al predio y el resultado se multiplica por dos, ya que para el cobro de este servicio se calcula por semestre.
 
-El objeto de este servicio es el mantenimiento (sic) de la infraestructura urbana en el municipio de Cuernavaca. Se entiende por servicio de mantenimiento de infraestructura urbana el que preste el municipio en el mantenimiento de calles, plazas, jardines y otros lugares y de uso común por metro lineal de frente a la vía pública por semestre el cual se calculará tomando en cuenta la zona de ubicación, atendiendo las siguientes bases:
+(NOTA: EL 17 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 66/2022 Y SUS ACUMULADAS 69/2022 Y 71/2022, DECLARÓ LA INVALIDEZ DEL NUMERAL 4.3.5.2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Zona Base de pago de la zona, sobre el U.M.A.
+4.3.5.2 LOS SERVICIOS DE ALUMBRADO PÚBLICO (DAP), SE CAUSARÁN Y LIQUIDARÁN DE CONFORMIDAD CON LOS SIGUIENTE:
 
-1 0.276545
+EL SERVICIO DE ALUMBRADO PÚBLICO QUE SE PRESTA A COLECTIVIDAD DE FORMA REGULAR DEBE SER EFICAZ, EFICIENTE OPORTUNA Y CONTINUA, TODA VEZ QUE ES UN SERVICIO BÁSICO.
 
-2 0.1422115
+DEFINICIÓN, ALCANCE, APLICACIÓN, MOTIVACIÓN, FINALIDAD.
 
-3 0.0617258
+DEFINICIÓN, SE ENTIENDE POR “DAP” LOS DERECHOS QUE SE PAGAN CON EL CARÁCTER DE RECUPERACIÓN DE LOS GASTOS QUE LE GENERA AL MUNICIPIO POR EL USO O BENEFICIO POR LA PRESTACIÓN DEL SERVICIO DEL ALUMBRADO PÚBLICO, CON LA FINALIDAD PROPORCIONAR EL BIENESTAR PÚBLICO POR MEDIO DE LA ILUMINACIÓN ARTIFICIAL DE LAS VÍAS PÚBLICAS, EDIFICIOS Y ÁREAS PÚBLICAS, DURANTE DOCE HORAS CONTINUAS Y LOS 365 DÍAS DEL AÑO, CON EL FIN DE QUE PREVALEZCA LA SEGURIDAD PÚBLICA, ASÍ COMO EL TRÁNSITO SEGURO DE LAS PERSONAS Y VEHÍCULOS.
 
-Debiéndose pagar en forma bimestral durante el primer mes de cada bimestre, en los meses de enero, marzo, mayo, julio, septiembre y noviembre, y podrá ser anticipado calculado de forma anual durante el primer bimestre del año.
+SE TIENE EN CUENTA QUE EL SERVICIO DE ALUMBRADO PÚBLICO QUE SE PRESTA A LA COLECTIVIDAD DE FORMA REGULAR (DEBE SER EFICAZ, EFICIENTE Y OPORTUNA) Y CONTINÚA (QUE NO PUEDE INTERRUMPIRSE SIN CAUSA JUSTIFICADA) SIENDO UN SERVICIO BÁSICO.
 
-4.3.5.2 Los derechos por servicios de alumbrado público (DAP), se causarán y liquidarán de conformidad con lo siguiente:
+SE ENCUENTRA EN EL ADJUNTO UNO LAS DEMÁS DEFINICIONES DE LOS FACTORES Y VARIABLES.
 
-El Servicio de alumbrado público que se presta a la colectividad de forma regular debe ser eficaz, eficiente, oportuna y continua, toda vez que es un servicio básico.
+A. ALCANCE.
 
-Introducción
+EN BASE A LOS FUNDAMENTOS JURÍDICOS VER ADJUNTO DOS, SE CONSIDERA LA PRESTACIÓN DEL SERVICIO DE ALUMBRADO PÚBLICO QUE PROPORCIONA EL MUNICIPIO, EN TODO EL TERRITORIO MUNICIPAL; SE REFIERE A QUE ESTE CUENTA YA CON UNA INFRAESTRUCTURA PARA LA ILUMINACIÓN DE LAS CALLES, PARQUES PÚBLICOS, CENTROS CEREMONIALES, BULEVARES DE ENTRADAS A LOS CENTROS DE POBLACIÓN, ZONAS DE ÁREAS DEPORTIVAS, ÁREAS DE RECREO, PARADEROS DEL TRANSPORTE PÚBLICO ETC., Y QUE ESTA INFRAESTRUCTURA ES NECESARIO HACER QUE FUNCIONE EN BUENAS CONDICIONES DURANTE LOS 365 DÍAS DEL AÑO DE QUE SE TRATE, YA QUE PROPORCIONAN LA ILUMINACIÓN ARTIFICIAL 12 HORAS NOCTURNAS DE FORMA CONTINUA Y REGULAR, POR LO QUE LOS EQUIPOS QUE HACE LLEGAR ESTE SERVICIO DESDE: POSTES METÁLICOS, LUMINARIAS EN TECNOLOGÍA LEDS O DE CUALQUIER OTRO TIPO DE TECNOLOGÍA, CABLES DE ALIMENTACIONES ELÉCTRICAS, FOTO CONTROLES Y TODO LO NECESARIO PARA EL BUEN FUNCIONAMIENTO QUE PROPORCIONAN LA ILUMINACIÓN NOCTURNA ARTIFICIAL, Y PARA QUE ESTA INFRAESTRUCTURA ESTÉ EN CONDICIONES ÓPTIMAS, ES INDISPENSABLE MANTENER GASTOS INEVITABLES COMO SON:
 
-A.- Alcance:
+A1.- GASTOS POR EL MUNICIPIO PARA EL PAGO MENSUAL DEL SUMINISTRO ELÉCTRICO QUE CONSUME A CADA NOCHE LAS LUMINARIAS DURANTE 12 HORAS CONTINUAS Y DURANTE LOS 365 DÍAS DEL AÑO FISCAL, A LA EMPRESA SUMINISTRADORA DE ENERGÍA.
 
-A1. De la prestación del servicio de alumbrado público que proporciona el municipio en todo el territorio municipal, donde la base del tributo se encuentra relacionado con el hecho imponible y que, si corresponde a la actividad del ente público, que es precisamente la prestación de este servicio.
+A2.- GASTOS PARA PROPORCIONAR EL MANTENIMIENTO A ESA INFRAESTRUCTURA COMO SON REPARACIONES DE LAS LUMINARIAS (FUENTE LUMINOSA, DRIVER / BALASTRO, CARCASA/ GABINETE, FOTO CONTROLES, CABLES ELÉCTRICOS, CONEXIONES MENORES), REPARACIONES DE POSTES METÁLICOS, REPARACIONES DE TRANSFORMADORES EN ALGUNOS CASOS, ASÍ COMO POR ROBOS (VANDALISMO) A LA INFRAESTRUCTURA Y REPONER COMPONENTES ELÉCTRICOS VARIAS VECES, PAGO AL PERSONAL QUE SE ENCARGA DE PROPORCIONAR EL DE MANTENIMIENTO, TANTO PREVENTIVO COMO CORRECTIVO ETC. Y A CADA 5 AÑOS POR DEPRECIACIÓN SUSTITUIR LUMINARIAS QUE DEJAN DE FUNCIONAR POR OBSOLESCENCIA TECNOLÓGICA O POR TERMINACIÓN DE VIDA ÚTIL.
 
-La prestación del servicio de alumbrado público, se refiere a que el municipio cuenta con una infraestructura para la iluminación de las calles, parques públicos, centros ceremoniales, bulevares de entradas a los centros de población, zonas de áreas deportivas, áreas de recreo, paraderos del transporte público etc., y que dicha infraestructura es necesario mantenerla en condiciones para el buen funcionamiento durante los 365 días del año fiscal de que se trate, ya que proporcionan la iluminación artificial 12 horas nocturnas de forma continua y regular; por lo que los equipos que hacen llegar este servicio a todo el territorio municipal desde trasformadores, postes, luminarias en tecnología leds, y/o de cualquier otro tipo, cables de alimentación eléctrica, foto controles y todo lo necesario para proporcionarlo de manera adecuada deben encontrarse en buen funcionamiento, lo que genera de manera indispensable gastos inevitables como son:
+A3.- GASTOS PARA EL CONTROL INTERNO DE LA ADMINISTRACIÓN DEL SERVICIO DEL ALUMBRADO PÚBLICO, QUE SE DA DE FORMA REGULAR Y CONTINÚA.
 
-I.- gastos por el municipio para el pago mensual del suministro eléctrico a la empresa suministradora de energía, por el consumo de cada noche de las luminarias durante 12 horas continuas y durante los 365 días del año fiscal.
+B. DE LA APLICACIÓN:
 
-II.- gastos para proporcionar el mantenimiento a esa infraestructura, como son reparaciones de las luminarias (fuente luminosa, driver/balastro, carcasa/gabinete, foto controles, cables eléctricos, conexiones menores), reparaciones de postes, reparaciones de transformadores en algunos casos, así como por robos (vandalismo) a la infraestructura y reponer componentes eléctricos varias veces; pago al personal que se encarga de proporcionar el mantenimiento, tanto preventivo como correctivo etc. Y cada 5 años por depreciación sustituir luminarias que dejan de funcionar por obsolescencia tecnológica y/o por terminación de vida útil.
+PARA LA DETERMINACIÓN DE LOS MONTOS DE CONTRIBUCIÓN PARA EL COBRO DE LOS DERECHOS DE ALUMBRADO PÚBLICO (DAP), SEGÚN SU BENEFICIO DADO EN METROS LUZ, DE CADA SUJETO PASIVO, SE APLICA LA FÓRMULA MDSIAP=SIAP, INCLUIDO EN LA PROPIA LEY DE INGRESOS DE ESTE MUNICIPIO PARA EL EJERCICIO FISCAL 2022, DONDE SI EL SUJETO PASIVO DIFIERE DEL MONTO DE CONTRIBUCIÓN APLICADO, YA SEA A LA ALTA O LA BAJA, TIENE UN MEDIO DE DEFENSA Y QUE DEBE APLICAR EL RECURSO DE REVISIÓN EN ADJUNTO TRES, QUE SE ENCUENTRA EN ESTA MISMA LEY, Y QUE DEBE PRESENTARSE A LA TESORERÍA DE ESTE AYUNTAMIENTO, ELABORANDO UNA SOLICITUD DE CORRECCIÓN DE SU MONTO DE CONTRIBUCIÓN DAP 2022, APLICANDO LA FÓRMULA YA DESCRITA Y REVISANDO SU BENEFICIO DADO EN METROS LUZ, QUE LA DIRECCIÓN DE OBRAS PÚBLICAS CORROBORARA EN FÍSICO.
 
-III.-gastos para el control interno de la administración del servicio del alumbrado público, que se da de forma regular y continua.
+B1. DESCRIPCIÓN DE LOS GASTOS QUE GENERA LA PRESTACIÓN DEL SERVICIO DE ALUMBRADO PÚBLICO, ASÍ COMO SUS CÁLCULOS DE LAS 3 VARIABLES EN U.M.A.
 
-B.-de la aplicación:
+B1.1.- Tabla A.
 
-Para la determinación de los montos de contribución para el cobro de los derechos de alumbrado público (DAP), según su beneficio dado en metros luz, de cada si sujeto pasivo, se aplica la fórmula MDSIAP=SIAP incluido en la propia ley de ingresos de este municipio para el ejercicio fiscal 2022, donde si el sujeto pasivo difiere del monto de contribución aplicado, ya sea a la alta o a la baja, tiene un medio de defensa y que debe aplicar el recurso de revisión que se encuentra en esta misma ley, recurso que debe presentarse a la tesorería de este Ayuntamiento, elaborando una solicitud de corrección de su monto de contribución (DAP) 2O22 aplicando la fórmula ya descrita y revisando su beneficio dado en metros luz, mismo que la secretaría de desarrollo urbano y obras públicas corroborará en físico.
+ESTE MUNICIPIO TIENE EN CUENTA, LOS GASTOS QUE LE GENERA LA PRESTACIÓN DEL SERVICIO DE ALUMBRADO PÚBLICO, Y SE PUEDE VER EN LA TABLA A: (LOS DATOS ESTADÍSTICOS NECESARIOS PARA DETERMINAR LOS GASTOS ANUALES POR LA PRESTACIÓN DEL SERVICIO DE ALUMBRADO PÚBLICO) Y QUE SE DESTINAN A LA SATISFACCIÓN DE LAS ATRIBUCIONES DEL ESTADO RELACIONADAS CON LAS NECESIDADES COLECTIVAS O SOCIALES O DE SERVICIOS PÚBLICOS, SE HACE LA OBSERVACIÓN QUE LAS CONTRIBUCIONES DE LOS GASTOS PÚBLICOS CONSTITUYE UN OBLIGACIÓN DE CARÁCTER PÚBLICO, SIENDO QUE PARA ESTE EJERCICIO FISCAL 2022 ASCIENDE A LA CANTIDAD DE $107,871,588.00 (CIENTO SIETE MILLONES OCHOCIENTOS SETENTA Y UN MIL QUINIENTOS OCHENTA Y OCHO PESOS M.N.), ES IMPORTANTE VER QUÉ EL NÚMERO DE USUARIOS REGISTRADOS EN LA EMPRESA SUMINISTRADORA DE ENERGÍA SON UN TOTAL DE 220109 (DOSCIENTOS VEINTE MIL CIENTO NUEVE USUARIOS REGISTRADOS EN EMPRESA SUMINISTRADORA DE ENERGÍA) MÁS BENEFICIARIOS DE LA ILUMINACIÓN PÚBLICA NO REGISTRADOS.
 
-B1.-Presupuesto de egresos.
+B1.2.- TABLA B.
 
-I.- Tabla A.
+EN LA TABLA B SE HACEN LOS RESPECTIVOS CÁLCULOS PARA LA DETERMINACIÓN DE 3 VARIABLES QUE INTEGRAN LA FÓRMULA MDSIAP=SIAP, COMO SON SE CALCULA EL CML PÚBLICOS, CML COMÚN, CU.
 
-Este municipio tiene en cuenta, el presupuesto de egresos para la prestación del servicio de alumbrado público, y se puede ver en la tabla a: (gastos del presupuesto anual que el municipio hace para la prestación del servido de alumbrado público) y que se destinan a la satisfacción de las atribuciones del estado, relacionadas con las necesidades colectivas, sociales o de servicios públicos, se hace la observación que las contribuciones de los gastos públicos constituyen una obligación de carácter público, siendo que para este ejercicio fiscal 2022 asciende a la cantidad de $106,191,588.00 (ciento seis millones ciento noventa y un mil quinientos ochenta y ocho pesos m.n.), es importante ver qué el número de usuarios registrados en la empresa suministradora de energía son un total de
+B1.3.- TABLA C.
 
-184,544 (ciento ochenta y cuatro mil quinientos cuarenta y cuatro usuarios), más los beneficiarios de la iluminación pública no registrados.
+EN LA TABLA C SE HACE LA CONVERSIÓN DE PESOS A U.M.A. DE LAS TRES VARIABLES, CML PÚBLICOS, CML COMÚN, C.U. Y QUE SON LAS QUE SE ENCUENTRAN EN LA FÓRMULA MDSIAP Y APLICADOS SEGÚN EL BENEFICIO QUE TIENE CADA SUJETO PASIVO ES EXPRESADO EN 6 BLOQUES SEGÚN SU BENEFICIO DADO EN METROS LUZ Y SU MONTO DE CONTRIBUCIÓN DADO EN U.M.A.
 
-II.- Tabla B.
+B1.4.- PARA LA RECUPERACIÓN DE LOS GASTOS QUE LE GENERA AL MUNICIPIO LA PRESTACIÓN DEL SERVICIO DE ALUMBRADO PÚBLICO; PARA MAYOR CERTEZA DEL SUJETO PASIVO EN CUANTO AL CÁLCULO DEL MONTO DE SU APORTACIÓN MENSUAL, BIMESTRAL, O ANUAL ANEXAMOS EN 6 BLOQUES EL MONTO DE CONTRIBUCIÓN SEGÚN EL BENEFICIO DADO EN METROS LUZ, PARA QUE DE MANERA PARTICULAR CUALQUIER BENEFICIARIO DEL SERVICIO DE ALUMBRADO PÚBLICO PUEDA HACER EL RESPECTIVO CÁLCULO DE SU MONTO DE CONTRIBUCIÓN, APLICANDO NUESTRA FÓRMULA DEL MDSIAP=SIAP, SIENDO EN EL BLOQUE UNO Y DOS, LOS MONTOS SE APLICAN AL BIMESTRE Y DEL BLOQUE TRES AL SEIS, MONTOS SON MENSUALES.
 
-En la tabla b se hacen los respectivos cálculos para la determinación de 3 variables que integran la fórmula MDSIAP=SIAP, como se calcula el CML públicos, CML común y CU.
+LA MANERA EN LA QUE CUALQUIER BENEFICIARIO DEL SERVICIO DEL ALUMBRADO PÚBLICO PUEDA CALCULAR SU MONTO DE CONTRIBUCIÓN MENSUAL, BIMESTRAL O ANUAL ES INSERTANDO EL FRENTE QUE TIENE A LA VÍA PÚBLICA, APLICAR LA FÓRMULA EN CUALQUIERA DE LOS 3 SUPUESTOS UTILIZANDO LOS VALORES DE LAS 3 VARIABLES DE LA TABLA C Y ASÍ CALCULAR AUTOMÁTICAMENTE SU MONTO DE CONTRIBUCIÓN MENSUAL, BIMESTRAL O ANUAL DE ACUERDO A LA CLASIFICACIÓN QUE SE LOCALIZA EN 6 BLOQUES.
 
-III.- Tabla C.
+B1.5.- EL MUNICIPIO PARA HACER LA RECAUDACIÓN DEL DERECHO DE ALUMBRADO PÚBLICO UTILIZA DOS OPCIONES DEL INGRESO:
 
-En la tabla c se hace la conversión de pesos a UMAS de 14 tres variables, CML públicos, CML común CU. y que son las que se encuentran en los 6 bloques según su beneficio dado en metros luz y su monto de contribución dado en UMAS.
+EL PRIMERO, POR MEDIO DE UN CONVENIO DE RECAUDACIÓN DEL DERECHO DE ALUMBRADO PÚBLICO (DAP), QUE SE LLEVA A CABO CON LA EMPRESA SUMINISTRADORA DE ENERGÍA SE RECAUDA EN LOS RECIBOS DE LUZ DE FORMA BIMESTRAL O MENSUAL SEGÚN EL BLOQUE EN QUE SE CLASIFIQUE.
 
-B2.-Ingresos para la recuperación de los gastos, que le genera al municipio la prestación del servicio de alumbrado público.
+EL SEGUNDO, SI EL BENEFICIARIO DEL SERVICIO DE ALUMBRADO PÚBLICO QUIERA HACER SU APORTACIÓN DEL DERECHO DE ALUMBRADO PÚBLICO PARA SER RECAUDADO POR LA TESORERÍA DEL AYUNTAMIENTO, EL SUJETO PASIVO DEBE HACER UNA SOLICITUD Y PEDIR SU CORRECCIÓN DE SU BENEFICIO DADO EN METROS LUZ DE FRENTE A SU INMUEBLE, APLICANDO EL RECURSO DE REVISIÓN QUE SE LOCALIZAN EN EL ADJUNTO TRES DE LA PRESENTE LEY Y PRESENTANDO SU COMPROBANTE DONDE SE PUEDA VERIFICAR SU BENEFICIO DE LA ILUMINACIÓN PÚBLICA, LA TESORERÍA DESPUÉS DE APLICAR LA FÓRMULA MDSIAP CON EL FRENTE, SE HARÁ NUEVAMENTE EL CÁLCULO DE SU APORTACIÓN Y QUE PAGARÁ AL MES O BIMESTRES O ANUAL, ADEMÁS SE DARÁ AVISO A LA EMPRESA SUMINISTRADORA DE ENERGÍA QUE PARA YA NO SER INCLUIDOS EN LOS RECIBOS DE LUZ.
 
-Para mayor certeza del sujeto pasivo en cuanto al cálculo del monto de su aportación mensual, bimestral y/o anual, anexamos en 6 bloques el monto de contribución según el beneficio dado en metros luz, para que de manera particular cualquier beneficiario del servicio de alumbrado público pueda hacer el respectivo cálculo de su monto de contribución, aplicando nuestra fórmula del MDSIAP=AP, siendo en el bloque uno y dos montos bimestrales y del bloque tres al seis, los montos son mensuales.
+MOTIVACIÓN:
 
-La manera en la que cualquier beneficiario del servicio de alumbrado público pueda calcular su monto de contribución mensual, bimestral y/o anual, es insertado el frente que tiene a la vía pública, aplicar la fórmula en cualquiera de los 3 supuestos, utilizando los factores de la tabla c y así calcular automáticamente su monto de contribución mensual, bimestral y/o anual, de acuerdo con la clasificación que se localiza en 6 bloques.
+LOS AYUNTAMIENTOS EN EL ÁMBITO DE SU COMPETENCIA, PROPONDRÁ A LAS LEGISLATURAS ESTATALES LAS CUOTAS Y TARIFAS APLICABLES A IMPUESTO Y DERECHOS (EN NUESTRO CASO PROPONDRÁ LAS TARIFAS PARA EL COBRO DEL DERECHO DEL ALUMBRADO PÚBLICO) CON EL OBJETO DE PROPICIAR LOS RECURSOS ECONÓMICOS QUE ASIGNE EL MUNICIPIO EN SU RESPECTIVO PRESUPUESTO PARA SATISFACER LA PRESTACIÓN DEL SERVICIO DE ALUMBRADO PÚBLICO.
 
-A.- el municipio para hacer la recaudación del derecho de alumbrado público utiliza dos opciones del ingreso:
+FINALIDAD:
 
-Al.- primero: a través de un convenio de recaudación del derecho de alumbrado público (DAP), que se lleva a cabo con la empresa suministradora de energía, la que recaudará en los recibos de luz de forma bimestral y/o mensual, según el bloque en que se clasifiquen.
+ES QUE EL MUNICIPIO LOGRE EL BIENESTAR PÚBLICO, CON UNA EFICIENTE ILUMINACIÓN NOCTURNA EN TODA LA EXTENSIÓN DE SU TERRITORIO, DURANTE 12 HORAS DIARIAS Y LOS 365 DÍAS DEL AÑO FISCAL.
 
-A2.- segundo: el beneficiario del servicio de alumbrado público quiere hacer su aportación del derecho de alumbrado público para ser recaudado por la tesorería, el sujeto en todos los casos, hará su solicitud y pedirá su corrección en su beneficio dado en metros luz de frente a su inmueble, aplicando el recurso de revisión que se localiza en esta misma ley y presentando su comprobante donde se pueda verificar su beneficio de la iluminación pública, la tesorería después de aplicar la formula MDSIAP=SIAP con el frente, hará el nuevo cálculo de su aportación, el cual será pagado mensual, bimestral o anualmente a esta tesorería y, el municipio lo dará de baja d (sic) sistema de los recibos de luz de la empresa suministradora de energía, para ya no ser incluidos.
+OBJETO:
 
-B3.- Elementos que contiene nuestra ley de ingresos por el municipio de Cuernavaca Morelos, para el ejercicio fiscal 2022, son: definición, objeto, sujeto, base gravable:, cálculo del monto de la contribución con la fórmula MDSIAP en 3 supuestos en que se encuentre el sujeto pasivo, época de pago y recurso de revisión.
+ES LA PRESTACIÓN DEL SERVICIO DE ALUMBRADO PÚBLICO PARA LOS HABITANTES DEL MUNICIPIO DE CUERNAVACA, MORELOS, EN LAS VÍAS PÚBLICAS, EDIFICIOS PÚBLICOS, ÁREAS PÚBLICAS, LOCALIZADAS DENTRO DEL TERRITORIO MUNICIPAL.
 
-Fundamentos jurídicos:
+SUJETO:
 
-El art. 31 frac. IV de la Constitución Política de los Estados Unidos Mexicanos establece textualmente:
+SON LOS PROPIETARIOS, TENEDORES, POSEEDORES DE INMUEBLES O BENEFICIARIOS DIRECTOS O INDIRECTOS DE LOS ANTERIORES QUE NO TENGAN EL CARÁCTER DE PROPIETARIO, DERIVADO DE LA PRESTACIÓN DEL SERVICIO MUNICIPAL DEL ALUMBRADO PÚBLICO EN DICHOS INMUEBLES.
 
-Son obligaciones de los mexicanos.
+FÓRMULA APLICADA PARA EL CÁLCULO DE LAS TARIFAS:
 
-IV.-Contribuir para los gastos públicos, así de la federación como de los estados, de la ciudad de México y del municipio en que residan de la manera proporcional y equitativa que dispongan las leyes.
+EL MONTO DE LA CONTRIBUCIÓN SE OBTIENE POR LA DIVISIÓN DE LA BASE GRAVABLE ENTRE EL NÚMERO DE USUARIOS REGISTRADOS EN COMISIÓN FEDERAL DE ELECTRICIDAD, DE ACUERDO A ACCIÓN DE INCONSTITUCIONALIDAD 15/2007, Y QUE SERÁ OBTENIDA DEPENDIENDO EN EL SUPUESTO QUE SE ENCUENTRE EL SUJETO PASIVO Y ADEMÁS SE APLICA LA EQUIDAD Y PROPORCIONALIDAD SEGÚN EL BENEFICIO QUE TENGA EL SUJETO PASIVO:
 
-El artículo 73 constitucional faculta al congreso de la unión expedir leyes en materia de energía eléctrica, hidrocarburos, petróleo entre otros, lo cual los congresos locales como los cabildos de los Ayuntamientos no pueden legislar en materia energética, por lo cual en esta ley de ingresos de este municipio se respeta el ámbito de competencia del congreso de la unión y no se viola el artículo 73 frac. XXIX inciso c)
+I.- TIENE ILUMINACIÓN PÚBLICA FRENTE A SU INMUEBLE;
 
-El artículo 115, frac. III de la Constitución Política de los Estados Unidos Mexicanos se establecen los servicios públicos a cargo de los municipios siendo estos en el inciso b) el alumbrado público.
+II.- SI NO TIENE ILUMINACIÓN PÚBLICA FRENTE A SU INMUEBLE;
 
-El frac. IV, los municipios administraran libremente su hacienda, la cual se formará de los rendimientos de los bienes que le pertenezcan, así como de las contribuciones y otros ingresos que las legislaturas establezcan a su favor, y en todo caso.
+III.- SI SU INMUEBLE ESTÁ EN CONDOMINIO.
 
-Inciso c).-los ingresos derivados de la prestación de servicios públicos a su cargo.
+EN LAS FÓRMULAS APLICADAS PARA EL CÁLCULO DE LAS TARIFAS, SUBSISTE UNA CORRELACIÓN ENTRE EL COSTO DEL SERVICIO PRESTADO Y EL MONTO DE LA TARIFA APLICADA YA QUE ENTRE ELLOS EXISTE UNA ÍNTIMA RELACIÓN AL GRADO QUE RESULTAN SER INTERDEPENDIENTES, IGUALMENTE LAS TARIFAS RESULTANTES GUARDAN UNA CONGRUENCIA RAZONABLE ENTRE LOS GASTOS QUE HACE EL MUNICIPIO POR MANTENER LA PRESTACIÓN DEL SERVICIO Y SIENDO IGUAL PARA LOS QUE RECIBEN IDÉNTICO SERVICIO, ASÍ LAS COSAS, ESTA CONTRIBUCIÓN ENCUENTRA SU HECHO GENERADOR EN LA PRESTACIÓN DEL SERVICIO DE ALUMBRADO PÚBLICO.
 
-Las leyes federales no limitarán la facultad de los estados para establecer las contribuciones a los que se refiere el inciso a) y c) ni concederán exenciones en relación con las mismas.
+I.- TIENE ILUMINACIÓN PÚBLICA FRENTE A SU INMUEBLE.
 
-Los Ayuntamientos en el ámbito de su competencia propondrán a las legislaturas estatales las cuotas y tarifas aplicables a impuestos, derechos, contribuciones especiales, etc.
+PARA SUJETOS PASIVOS QUE TENGAN ALUMBRADO PÚBLICO FRENTE A SU INMUEBLE, HASTA ANTES DE 50 METROS LINEALES EN CUALQUIER DIRECCIÓN, PARTIENDO DEL LÍMITE DE SU PROPIEDAD O PREDIO.
 
-Las legislaturas de los estados aprobarán las leyes de ingresos de los municipios, revisarán y fiscalizarán sus cuentas públicas, los presupuestos de egresos serán aprobados por los Ayuntamientos con base a sus ingresos disponibles.
+MDSIAP=SIAP= FRENTE*(CML PÚBLICOS + CML COMÚN) + CU
 
-Art. 134, de la Constitución Política de los Estados Unidos Mexicanas (sic), los recursos económicos de que disponga la federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México se administrarán con eficacia, eficiencia, economía, transparencia y honradez, para satisfacer los objetivos a los que estén destinados.
+II.- SI NO TIENE ILUMINACIÓN PÚBLICA FRENTE A SU INMUEBLE:
 
-Los resultados de dichos recursos serán evaluados por las instancias técnicas, que establezcan respectivamente la federación y las entidades federativas, con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos, incluyendo también los servicios de cualquier naturaleza. (prestación del servicio, de alumbrado público)
+PARA SUJETOS PASIVOS QUE NO TENGAN ALUMBRADO PÚBLICO FRENTE A SU INMUEBLE, DESPUÉS DE 50 METROS LINEALES EN CUALQUIER DIRECCIÓN, PARTIENDO DEL LÍMITE DE SU PROPIEDAD O PREDIO. SOLO SERÁ APLICABLE ESTA FÓRMULA A PETICIÓN ESCRITA DEL CONTRIBUYENTE, DIRIGIDA A LA TESORERÍA MUNICIPAL DENTRO DE LOS PRIMEROS 30 DÍAS NATURALES SIGUIENTES AL INICIO DEL EJERCICIO FISCAL DE QUE SE TRATE O DEL MES DE CAUSACIÓN DE QUE SE TRATE EN ADELANTE, SIEMPRE QUE ACREDITE FEHACIENTEMENTE LA DISTANCIA IGUAL O MAYOR A 50 METROS LINEALES EN CUALQUIER DIRECCIÓN DEL ÚLTIMO PUNTO DE LUZ HASTA EL LÍMITE DE SU PROPIEDAD O DE SU PREDIO.
 
-Motivación
+EL ESCRITO DEBERÁ ESTAR ACOMPAÑADO DE COPIAS SIMPLES DE ESCRITURAS MÁS ORIGINAL O COPIA CERTIFICADA PARA COTEJO, ORIGINAL DE BOLETA PREDIAL Y PAGO DE LAS CONTRIBUCIONES POR SERVICIOS PÚBLICOS AL CORRIENTE Y LICENCIA DE FUNCIONAMIENTO VIGENTE EN TRATÁNDOSE DE COMERCIOS O INDUSTRIAS.
 
-El municipio por mandato de ley art. 115 frac. II inciso b) de la Constitución Política de los Estados Unidos Mexicanos está obligado a la prestación del servicio del alumbrado público para la iluminación de las calles, para recuperar los gastos que le genera esta prestación del servicio de alumbrado público en el frac. IV inciso c) de la propia Constitución Política de los Estados Unidos Mexicanos, dice que percibirá los ingresos derivados de la prestación del servicio (alumbrado público).
+MDSIAP=SIAP= FRENTE*(CML PÚBLICOS) + CU
 
-Los Ayuntamientos en el ámbito de su competencia propondrán a las legislaturas estatales las cuotas y tarifas aplicables a impuestos y derechos (en nuestro caso propondrá las tarifas para el cobro del derecho del alumbrado público).
+III.- SI SU INMUEBLE ESTÁ EN CONDOMINIO:
 
-Se cumple con el art. 134 de la Constitución Política de los Estados Unidos Mexicanos, donde los recursos obtenidos se administrarán con eficacia eficiencia, economía, transparencia y honradez, con el objeto de propiciar los recursos económicos que asigne el municipio en su respectivo presupuesto, para satisfacer la prestación del servicio de alumbrado público.
+PARA DETERMINAR EL MONTO DE LA CONTRIBUCIÓN UNITARIA DE LOS SUJETOS PASIVOS QUE TENGAN UN FRENTE COMÚN, YA SEA PORQUE SE TRATE DE UNA VIVIENDA EN CONDOMINIO O EDIFICIO HORIZONTAL O VERTICAL, O QUE EL MISMO INMUEBLE DE QUE SE TRATE TENGA MÁS DE UN MEDIO DE RECAUDACIÓN CONTRATADO Y GOCE DEL ALUMBRADO PÚBLICO FRENTE A SU INMUEBLE, DENTRO DE UN RADIO DE 50 METROS LINEALES EN CUALQUIER DIRECCIÓN, PARTIENDO DEL LÍMITE DE SU PROPIEDAD O PREDIO. SOLO SERÁ APLICABLE ESTA FÓRMULA A PETICIÓN ESCRITA DEL CONTRIBUYENTE DIRIGIDA A LA TESORERÍA MUNICIPAL DENTRO DE LOS PRIMEROS 30 DÍAS NATURALES SIGUIENTES AL INICIO DEL EJERCICIO FISCAL DE QUE SE TRATE O DEL MES DE CAUSACIÓN DE QUE SE TRATE EN ADELANTE, SIEMPRE QUE ACREDITE FEHACIENTEMENTE LA DISTANCIA IGUAL O MAYOR A 50 METROS LINEALES EN CUALQUIER DIRECCIÓN DEL ÚLTIMO PUNTO DE LUZ HASTA EL LÍMITE DE SU PROPIEDAD O DE SU PREDIO Y LA EXISTENCIA DE UN FRENTE COMPARTIDO O QUE SE TRATE DEL MISMO INMUEBLE CON MÁS DE UN MEDIO DE CAPTACIÓN DEL DERECHO DE ALUMBRADO PÚBLICO.
 
-Finalidad:
+EL ESCRITO DEBERÁ ESTAR ACOMPAÑADO DE COPIAS SIMPLES DE ESCRITURAS, MÁS ORIGINAL O COPIA COTEJO DE BOLETA PREDIAL Y PAGO DE LAS CONTRIBUCIONES POR SERVICIOS PÚBLICOS AL CORRIENTE Y LICENCIA DE FUNCIONAMIENTO VIGENTE EN TRATÁNDOSE DE COMERCIOS O INDUSTRIAS.
 
-Que el municipio logre el bienestar público; con una eficiente iluminación nocturna en toda la extensión de su territorio del municipio, durante 12 horas diarias y los 365 días del año fiscal.
+MDSIAP=SIAP=FRENTE/NÚMERO DE SUJETOS PASIVOS CONDÓMINOS O QUE GOCEN DE UN FRENTE COMÚN A TODOS*(CML COMÚN + CML PÚBLICOS) + CU
 
-Descripción del contenido para la recuperación de los gastos que le genera al municipio la prestación del servicio de alumbrado público que se proporciona en las calles públicas, de manera regular y continua.
+TERRENOS BALDÍOS: A LOS PREDIOS, QUE NO CUENTEN CON CONTRATO EN LA EMPRESA SUMINISTRADORA DE ENERGÍA O PREDIOS BALDÍOS QUE SÍ, SE BENEFICIEN DEL SERVICIO DE ALUMBRADO PÚBLICO EN SU FRENTE EL CUAL BRINDA EL MUNICIPIO, EL COBRO DEL DERECHO DE ALUMBRADO PÚBLICO SERÁ DE 3 U.M.A. ANUALES, QUE DEBERÁN CUBRIRSE DE MANERA CONJUNTA CON EL IMPUESTO PREDIAL.
 
-Definición del DAP:
+ASÍ BASADOS EN LAS ANTERIORES CONSIDERACIONES MATEMÁTICAS. EL MUNICIPIO EN CUESTIÓN, TIENE A BIEN DETERMINAR CÓMO APLICABLE PARA EL EJERCICIO FISCAL 2022, LOS VALORES SIGUIENTES:
 
-Se entiende por “DAP” los derechos que se pagan con el carácter de recuperación de los gastos que le genera al municipio por el uso y/o aprovechamiento la prestación del servicio del alumbrado público, con la finalidad de proporcionar el bienestar público por medio de la iluminación artificial de las vías públicas, edificios y áreas públicas, durante doce horas continuas y los 365 días del año, con el fin de que prevalezca la seguridad pública, así como el tránsito seguro de las personas y vehículos.
+VALORES EN UMAS.
 
-Objeto:
+CML. PÚBLICOS: (0.0673 U.M.A.)
 
-Es la prestación del servicio de alumbrado público para los habitantes del municipio de Cuernavaca Morelos en las vías públicas, edificios públicos, áreas públicas, localizadas dentro del territorio municipal.
+CML. COMÚN: (0.0654 U.M.A.)
 
-Teniendo en cuenta que la prestación del servicio de alumbrado público incluye como parte integrante del servicio los siguientes conceptos:
+CU.: (0.0350 U.M.A.)
 
-A.-Consumibles: Para funcionamiento de las luminarias, el municipio comprará la energía eléctrica a una empresa suministradora de energía y pagar por el gasto de energía que hace el sistema de alumbrado público de manera mensual, ya sea que esta energía sea utilizada para luminarias que se encuentren en servicios medidos o servicios directos; en caso de no pagar el municipio en tiempo y forma según las condiciones acordadas en el convenio con la suministradora de energía, podría llegar al corte del suministro eléctrico, y si sucede esto, las calles se vuelven obscuras e inseguras.
+> <small>[N. DE E. VÉANSE TABLAS EN EL P.O. DE 6 DE ABRIL DE 2022, PÁGINAS DE LA 16 A LA 19.]</small>
 
-B.-Depreciación y mantenimiento de la infraestructura del alumbrado público: Para que las luminarias que se localizan en las vías públicas operen 12 horas diarias y los 365 días del año fiscal, es necesario también proporcionar el mantenimiento, sea preventivo o correctivo de toda la infraestructura que hace funcionar el sistema del alumbrado público como: reparación de transformadores propiedad del municipio, de cables subterráneos y aéreos de redes eléctricas municipales, de postes, de brazos y abrazaderas, de componentes internos de las luminarias (balastros, focos, fotoceldas, driver, leds etc.), así como su reposición por (depreciación) terminación de vida útil de las luminarias completas; el municipio proporciona también la instalación de iluminaciones de temporada y/o artísticas.
+MONTO DE LA CONTRIBUCIÓN:
 
-C.- Personal administrativo: Se paga al personal que lleva a cabo la administración del sistema de alumbrado público municipal, quienes se encargan de hacer funcionar de forma oportuna y programada, tanto del funcionamiento del sistema como del control del mantenimiento en todo el territorio municipal los 365 del año.
+ESTE INGRESO DEL MUNICIPIO ES UTILIZADO PARA LA RECUPERACIÓN DE LOS GASTOS QUE LE GENERA, POR LA PRESTACIÓN DEL SERVICIO DE ALUMBRADO PÚBLICO Y PARA MAYOR FACILIDAD SE ANEXAN SEIS BLOQUES:
 
-Los tres conceptos referidos anteriormente A, B y C, actúan de forma conjunta dando como resultado que la prestación del servicio de alumbrado público municipal se proporcione de forma eficiente y oportuna.
+EN LA COLUMNA A DEL BLOQUE UNO, AL BLOQUE SEIS ESTÁN REFERENCIADOS EL NIVEL DE BENEFICIO Y QUE ES CALCULADO CON LA FÓRMULA MDSIAP 1 HASTA EL NIVEL DE BENEFICIO MDSIAP 54, EN LA COLUMNA F SE EXPRESAN LOS METROS LUZ DE FRENTE A LA VÍA PÚBLICA DADO EN METROS LUZ QUE TIENE EL SUJETO PASIVO, Y POR ÚLTIMO EN LA COLUMNA G ES EL RESULTADO DEL MONTO DE CONTRIBUCIÓN DADO EN U.M.A., PERO EN LOS SEIS BLOQUES SE UTILIZA LA MISMA FÓRMULA MDSIAP.
 
-Sujetos: Son los propietarios, tenedores, poseedores de inmuebles o beneficiarios directos o indirectos que no tengan el carácter de propietario, derivado de la prestación del servicio municipal del alumbrado público en dichos inmuebles.
+EN TODOS LOS 6 BLOQUES SON UTILIZADOS LOS MISMOS MONTOS DE LAS VARIABLES CML PÚBLICOS, CML COMÚN, CU. DADOS EN U.M.A.
 
-Base gravable: Son los gastos que le genera al municipio la prestación del servicio de alumbrado público en todo el territorio municipal.
+> <small>[N. DE E. VÉANSE BLOQUES EN EL P.O. DE 6 DE ABRIL DE 2022, PÁGINAS DE LA 19 A LA 22.]</small>
 
-Tarifa=monto de la contribución:
+EN LOS SEIS BLOQUES FUE APLICADA LA MISMA FÓRMULA PARA EL CÁLCULO DE MONTO DE LA CONTRIBUCIÓN PARA CADA CLASIFICACIÓN DE SUJETO PASIVO, PERO EN TODOS LOS CASOS SE UTILIZAN LOS DATOS DE LAS 3 VARIABLES QUE SE LOCALIZAN EN LA TABLA C, SI EL SUJETO PASIVO, CONSIDERA QUE SU APLICACIÓN REAL DEBE SER MENOR PORQUE ES MENOR SU BENEFICIO DADO EN METROS LUZ, EN ESTE CASO PRIMERO PRESENTARA SU SOLICITUD AL AYUNTAMIENTO PARA PEDIR SU REVISIÓN DE ACUERDO AL RECURSO DE REVISIÓN.
 
-El monto de la contribución se obtiene por la división de la base gravable, entre el número de usuarios registrados en la comisión federal de electricidad, de acuerdo con la acción de inconstitucionalidad 15/2007 y que será obtenida dependiendo en el supuesto en que se encuentre el sujeto pasivo y de la aplicación de las 3 fórmulas:
+LA TESORERÍA DEL AYUNTAMIENTO ENVIARÁ A VERIFICAR SU FRENTE QUE TIENE DE BENEFICIO EL SUJETO PASIVO DADO EN METROS LUZ Y APLICARÁ LA FÓRMULA MDSIAP Y RECONSIDERARÁ SU NUEVO MONTO DE CONTRIBUCIÓN LA CUAL DEBERÁ PAGAR EN LA MISMA TESORERÍA, Y DE ACUERDO A LA ELABORACIÓN DE UN CONVENIO INTERNO ENTRE LAS DOS PARTES, DÁNDOSE DE BAJA DEL SOFTWARE DE EMPRESA SUMINISTRADORA DE ENERGÍA, PARA NO DUPLICAR DICHO MONTO DE CONTRIBUCIÓN.
 
-Primera: si el sujeto tiene iluminación pública en su frente.
+ÉPOCA DE PAGO:
 
-Segunda: si no tiene iluminación pública en su frente.
+EL COBRO DE DERECHO DE ALUMBRADO PÚBLICO PODRÁ SER:
 
-Tercera: si está en tipo condominio.
+DE MANERA MENSUAL, O BIMESTRAL, CUANDO SE REALICE POR MEDIO DE LA EMPRESA SUMINISTRADORA DE ENERGÍA.
 
-Le corresponden al municipio, la administración, mantenimiento, renovación y operación del sistema de alumbrado público, de acuerdo con el art. 115, frac. III, donde los municipios tendrán a su cargo las funciones (sic) servicios públicos siguientes b) el alumbrado público, y al art. 31 frac. IV, de la misma Constitución Política de los Estados Unidos Mexicanos, contribuir al gasto público de manera proporcional y equitativa, donde exista un razonable equilibrio entre el monto de contribución aplicada y el gasto por la prestación del servicio, ambos artículos de la Constitución Política de los Estados Unidos Mexicanos; también, organizando el servicio de alumbrado público en función del interés general y en el cual debe operar de manera regular, continua y uniforme para la población dentro de la demarcación territorial del municipio.
+DE MANERA MENSUAL, CUANDO SE REALICE A TRAVÉS DEL SISTEMA OPERADOR DEL AGUA POTABLE.
 
-Fórmula aplicada en tres supuestos que pudiera estar el sujeto pasivo:
+DE MANERA MENSUAL, BIMESTRAL O ANUAL, CUANDO SE REALICE POR LA TESORERÍA DEL AYUNTAMIENTO POR CONVENIO.
 
-Fórmulas de aplicación del (DAP):
+DE FORMA ANUAL CUANDO SE TRATE DE PREDIOS URBANOS, RÚSTICOS O BALDÍOS QUE NO CUENTEN CON CONTRATO DE ENERGÍA ELÉCTRICA.
 
-En las fórmulas aplicadas para el cálculo de las tarifas, subsiste una correlación entre el costo del servicio prestado y el monto de la tarifa aplicada, ya que entre ellos existe una íntima relación al grado que resultan ser interdependientes, igualmente las tarifas resultantes guardan una congruencia razonable entre los gastos que hace el municipio por mantener la prestación del servicio, siendo igual para los que reciben idéntico servicio, así las cosas, esta contribución encuentra su hecho generador en la prestación del servicio de alumbrado público.
+EQUILIBRIO DEL EGRESO CON EL INGRESO DAP, 2022.
 
-Este municipio que atiende a los criterios anteriores hace el cálculo de los montos de contribución (MDSIAP=SIAP) de que cada sujeto pasivo debe aportar para recuperar los gastos que le genera al municipio por la prestación del servicio de alumbrado público, y se determina por las siguientes fórmulas de aplicación:
+DE IGUAL FORMA, EL MUNICIPIO PODRÁ CONVENIR CON LA SUMINISTRADORA DE ENERGÍA ELÉCTRICA, QUE LOS EXCEDENTES DE LA RECAUDACIÓN POR CONCEPTO DE DERECHOS DE ALUMBRADO PÚBLICO (DAP) SEAN DEVUELTOS AL MUNICIPIO, PARA QUE ESTE ÚLTIMO LOS APLIQUE EN EL MANTENIMIENTO Y ADMINISTRACIÓN DEL SISTEMA DE ALUMBRADO PÚBLICO.
 
-Aplicación uno:
+LA TESORERÍA MUNICIPAL DEBERÁ ASIGNAR EL MONTO TOTAL DEL DINERO EXCEDENTE ÚNICAMENTE PARA LA CONSTANTE MODERNIZACIÓN, MEJORA Y MANTENIMIENTO DE LOS SISTEMAS DE ALUMBRADO PÚBLICO MUNICIPAL.
 
-A) para sujetos pasivos que tengan alumbrado público frente a su casa, hasta antes de 50 metros lineales en cualquier dirección, partiendo del límite de su propiedad o predio.
+ADJUNTO UNO:
 
-MDSIAP=SIAP= frente*(CML públicos + CML común) + CU
+PARA LOS EFECTOS DE ESTA FÓRMULA SE CONSIDERARÁN LOS SIGUIENTES FACTORES Y VARIABLES:
 
-Aplicación dos:
+I.- UMA: ES LA REFERENCIA ECONÓMICA EN PESOS PARA DETERMINAR EN CUANTÍA DEL PAGO DE LAS OBLIGACIONES Y SUPUESTOS PREVISTOS EN LAS LEYES FEDERALES, DE LAS ENTIDADES FEDERATIVAS, ASÍ COMO DE LAS DISPOSICIONES JURÍDICAS QUE EMANEN DE TODAS LAS ANTERIORES.
 
-B) Para sujetos pasivos que no tengan alumbrado publico frente a su casa, después de 50 metros lineales en cualquier dirección, partiendo del límite de su propiedad o predio. Solo será aplicable esta fórmula a petición escrita del contribuyente, dirigida a la tesorería municipal dentro de los primeros 30 días naturales siguientes al inicio del ejercicio fiscal de que se trate o del mes de causación de que se trate en adelante, siempre que acredite fehacientemente la distancia igual o mayor a 200 metros lineales en cualquier dirección del último punto de luz, hasta el límite de su propiedad o de su predio. El escrito deberá estar acompañado de copias simples de escrituras, más original o copia certificada para cotejo, original del pago de las contribuciones del impuesto predial y servicios públicos municipales al corriente y licencia de funcionamiento vigente, en tratándose de comercios o industrias.
+II.- BASE GRAVABLE: SON LOS GASTOS QUE LE GENERA AL MUNICIPIO LA PRESTACIÓN DEL SERVICIO DE ALUMBRADO PÚBLICO EN TODO EL TERRITORIO MUNICIPAL.
 
-MDSIAP=SIAP= frente* (CML públicos) + CU
+III.- CML. PÚBLICOS. ES EL COSTO UNITARIO POR METRO LUZ OBTENIDO DE LA SUMA DE LOS GASTOS POR MANTENIMIENTO DE INFRAESTRUCTURA Y DE LOS ELEMENTOS DE CONSUMO DE ENERGÍA ELÉCTRICA DE LAS ÁREAS DE LOS SITIOS PÚBLICOS DE ACCESO GENERAL A TODA LA POBLACIÓN, COMO SON PARQUES PÚBLICOS, BULEVARES, ILUMINACIÓN DE EDIFICIOS PÚBLICOS, SEMÁFOROS, CANCHAS DEPORTIVAS, ILUMINACIONES FESTIVAS, ILUMINACIONES ESPECIALES, SUSTITUCIÓN DE CABLES SUBTERRÁNEOS O AÉREOS, ILUMINACIÓN DE MONUMENTOS, ENERGÍA DE LAS FUENTES, DIVIDIDO ENTRE EL NÚMERO DE LUMINARIAS CORRESPONDIENTE A ESTE SERVICIO, EL RESULTADO SE DIVIDE ENTRE LA CONSTANTE DE VEINTICINCO METROS, QUE CORRESPONDE AL PROMEDIO DE DISTANCIA INTERPOSTAL DE LUMINARIAS DE FORMA ESTÁNDAR.
 
-Aplicación tres:
+IV.- CML. COMÚN. ES EL COSTO UNITARIO POR METRO LUZ OBTENIDO DE LA SUMA DE LOS GASTOS POR EL MANTENIMIENTO DE INFRAESTRUCTURA Y DE LOS ELEMENTOS DE ILUMINACIÓN, ADEMÁS DE LOS ENERGÉTICOS DE LOS SITIOS GENERALES Y VIALIDADES SECUNDARIAS Y TERCIARIAS O RURALES DEL MUNICIPIO QUE NO SE ENCUENTREN CONTEMPLADOS EN CML. PÚBLICOS, DIVIDIDO ENTRE EL NÚMERO DE LUMINARIAS QUE PRESTEN ESTE SERVICIO, EL RESULTADO SE DIVIDE ENTRE LA CONSTANTE DE VEINTICINCO METROS DE DISTANCIA INTERPOSTAL DE LUMINARIAS DE FORMA ESTÁNDAR.
 
-C) para determinar el monto de la contribución unitaria de los sujetos pasivos que tengan un frente común, ya sea porque se trate de una vivienda en condominio o edificio horizontal y/o vertical, o que el mismo inmueble de que se trate tenga más de un medio de recaudación contratado y goce del alumbrado público frente a su casa, dentro de un radio de 50 metros lineales en cualquier dirección partiendo del límite de su propiedad o predio. Solo será aplicable esta fórmula a petición escrita del contribuyente dirigida a la tesorería municipal dentro de los primeros 30 días naturales siguientes al inicio del ejercicio fiscal de que se trate o del mes de causación de que se trate en adelante, siempre que acredite fehacientemente la distancia igual o mayor a 200 metros lineales en cualquier dirección del último punto de luz hasta el límite de su propiedad o de su predio y la existencia de un frente compartido o que se trate del mismo inmueble con más de un medio de captación del derecho de alumbrado público. El escrito deberá estar acompañado de copias simples de escrituras, más original o copia certificada para cotejo, original del pago de las contribuciones del impuesto predial y servicios públicos municipales al corriente y licencia de funcionamiento vigente, en tratándose de comercios o industrias.
+V.- CU. ES EL COSTO UNITARIO POR LOS GASTOS GENERALES DEL SERVICIO, QUE SE OBTIENE DE LA SUMA DE LOS GASTOS POR ADMINISTRACIÓN Y OPERACIÓN DEL SERVICIO, ASÍ COMO LAS INVERSIONES EN INVESTIGACIÓN PARA UNA MEJOR EFICIENCIA TECNOLÓGICA Y FINANCIERA QUE REALICE EL MUNICIPIO, DIVIDIDO ENTRE EL NÚMERO DE SUJETOS PASIVOS QUE TIENEN CONTRATO CON EMPRESA SUMINISTRADORA DE ENERGÍA.
 
-A los predios, que no cuenten con contrato en la empresa suministradora de energía y/o predios baldíos que sí se beneficien del servicio de alumbrado público en su frente el cual brinda el municipio, el cobro del derecho de alumbrado público será de 3 UMAS anuales, que deberán cubrirse de manera conjunta con pago del impuesto predial y los servicios públicos municipales.
+VI.- FRENTE. ES LA CANTIDAD DE METROS LUZ DE CARA A LA VÍA PÚBLICA QUE EL PREDIO DEL SUJETO PASIVO TENGA, SIENDO APLICABLE EL QUE SE ESPECIFICA EN ESTA LEY.
 
-MDSIAP=SIAP=frente/número de sujetos pasivos condominos o que gocen de un frente común a todos* (CML común + CML públicos) + CU
+VII.- MDSIAP=SIAP: MONTO DE LA CONTRIBUCIÓN DETERMINADO EN MONEDA NACIONAL Y EN UMAS QUE APLICADO AL BENEFICIO DE CADA SUJETO PASIVO DADO EN METROS LUZ, CONSIDERANDO SU FRENTE Y LOS MONTOS DE LAS 3 VARIABLES CML. PÚBLICOS, CML. COMÚN, CU, DETERMINA EL MONTO A CONTRIBUIR POR EL DERECHO DE ALUMBRADO PÚBLICO, APLICADO EN TODO EL TERRITORIO MUNICIPAL.
 
-Dónde:
+VIII.- METRO LUZ. ES LA UNIDAD DE MEDIDA QUE DETERMINA EL COSTO QUE INCLUYE TODOS LOS GASTOS QUE PARA EL MUNICIPIO REPRESENTA EL BRINDAR EL SERVICIO DE ALUMBRADO PÚBLICO EN UN ÁREA COMPRENDIDA DESDE LA MITAD DE LA VIALIDAD, BOULEVARD, CALLE, PASILLO, PRIVADA, CALLEJÓN O ANDADOR DE QUE SE TRATE, EN FORMA PARALELA HASTA EL LÍMITE EXTERIOR DEL INMUEBLE QUE SE BENEFICIA DEL ALUMBRADO PÚBLICO DE QUE SE TRATE EN UNA DISTANCIA DE UN METRO.
 
-MDSIAP=SIAP.- Es el monto de la contribución determinado en moneda nacional, y/o en UMAS del derecho de alumbrado público evaluado de forma mensual, en todo el territorio municipal.
+ADJUNTO DOS:
 
-Frente.- Es la cantidad de metros luz de cara a la vía pública que el predio del sujeto pasivo tenga, siendo aplicable el que se especifica en esta ley.
+FUNDAMENTOS JURÍDICOS:
 
-CML. Públicos.- Es el costo unitario por metro luz obtenido de la suma de los gastos por mantenimiento de infraestructura y de los elementos de consumo de energía eléctrica de las áreas de los sitios públicos de acceso general a toda la población, como son parques públicos, bulevares, iluminación de edificios públicos, semáforos,
+EL ARTÍCULO 31, FRACCIÓN IV DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS ESTABLECE TEXTUALMENTE:
 
-canchas deportivas, iluminaciones festivas, iluminaciones especiales, sustitución de cables subterráneos o aéreos, iluminación de monumentos, energía de las fuentes dividido entre el número de luminarias correspondiente a este servicio, el resultado se divide entre la constante de veinticinco metros, que corresponde al promedio de distancia interpostal de lumiminarias de forma estándar.
+SON OBLIGACIONES DE LOS MEXICANOS.
 
-GML. Común.- Es el costo unitario por metro luz obtenido de la suma de los gastos por el mantenimiento de infraestructura y de los elementos de iluminación además de los energéticos de los sitios generales y vialidades secundarias y terciarias o rurales del municipio que no se encuentren contemplados en CML. Públicos, dividido entre el número de luminarias que presten este servicio; el resultado se divide entre la constante de veinticinco metros de distancia interpostal de luminarias de forma estándar.
+IV. CONTRIBUIR PARA LOS GASTOS PÚBLICOS, ASÍ DE LA FEDERACIÓN COMO DE LOS ESTADOS, DE LA CIUDAD DE MÉXICO Y DEL MUNICIPIO EN QUE RESIDAN DE LA MANERA PROPORCIONAL Y EQUITATIVA QUE DISPONGAN LAS LEYES.
 
-CU.- Es el costo unitario por los gastos generales del servicio, que se obtiene de la suma de los gastos por administración y operación del servicio, así como las inversiones en investigación para una mejor eficiencia tecnológica y financiera que realice el municipio, dividido entre el número de sujetos pasivos que tienen contrato con empresa suministradora de energía.
+EL ARTÍCULO 73 CONSTITUCIONAL FACULTA AL CONGRESO DE LA UNIÓN EXPEDIR LEYES EN MATERIA DE ENERGÍA ELÉCTRICA, HIDROCARBUROS, PETRÓLEO ENTRE OTROS, LO CUAL LOS CONGRESOS LOCALES COMO LOS CABILDOS DE LOS AYUNTAMIENTOS NO PUEDEN LEGISLAR EN MATERIA ENERGÉTICA, POR LO CUAL EN ESTA LEY DE INGRESOS DE ESTE MUNICIPIO SE RESPETA EL ÁMBITO DE COMPETENCIA DEL CONGRESO DE LA UNIÓN Y NO SE VIOLA EL ARTÍCULO 73, FRACCIÓN XXIX, NUMERAL 5º, INCISO A) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
 
-Metro luz.- Es la unidad de medida que determina el costo que incluye todos los gastos que para el municipio representa el brindar el servicio de alumbrado público, en un área comprendida desde la mitad de la vialidad, boulevard, calle, pasillo, privada, callejón o andador de que se trate, en forma paralela hasta el límite exterior del inmueble que se beneficia del alumbrado público de que se trate en una distancia de un metro.
+EL ARTÍCULO 115, FRACCIÓN III DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS SE ESTABLECEN LOS SERVICIOS PÚBLICOS A CARGO DE LOS MUNICIPIOS SIENDO ESTOS EN EL INCISO B) EL ALUMBRADO PÚBLICO.
 
-El Ayuntamiento deberá publicar, a cada ejercicio fiscal, los valores de CML públicos, CML común y CU en el Periódico Oficial del Estado.
+LA FRACCIÓN IV, LOS MUNICIPIOS ADMINISTRARÁN LIBREMENTE SU HACIENDA, LA CUAL SE FORMARÁ DE LOS RENDIMIENTOS DE LOS BIENES QUE LE PERTENEZCAN, ASÍ COMO DE LAS CONTRIBUCIONES Y OTROS INGRESOS QUE LAS LEGISLATURAS ESTABLEZCAN A SU FAVOR, Y EN TODO CASO.
 
-El cálculo de los montos de contribución para el ejercicio fiscal 2022, de este municipio se llevan a cabo según el beneficio dado en metros luz, como sigue:
+INCISO C.- LOS INGRESOS DERIVADOS DE LA PRESTACIÓN DE SERVICIOS PÚBLICOS A SU CARGO.
 
-Tabla a: Presupuesto de egresos con los datos estadísticos por el municipio para la prestación del servicio de alumbrado público.
+LAS LEYES FEDERALES NO LIMITARÁN LA FACULTAD DE LOS ESTADOS PARA ESTABLECER LAS CONTRIBUCIONES A LOS QUE SE REFIERE EL INCISO A Y C NI CONCEDERÁN EXENCIONES EN RELACIÓN CON LAS MISMAS.
 
-Tabla b: Presentamos los respectivos cálculos de valores de los factores que integran la fórmula y expresados en pesos de CML. Públicos, CML Común y C.U; y por último,
+LOS AYUNTAMIENTOS EN EL ÁMBITO DE SU COMPETENCIA, PROPONDRÁN A LAS LEGISLATURAS ESTATALES LAS CUOTAS Y TARIFAS APLICABLES A IMPUESTOS, DERECHOS CONTRIBUCIONES DE MEJORAS.
 
-Tabla c: Hacemos la conversión de los tres valores de los factores (CML común, CML públicos y C.U) de pesos a UMAS, mismas que integran la fórmula.
+LAS LEGISLATURAS DE LOS ESTADOS APROBARÁN LAS LEYES DE INGRESOS DE LOS MUNICIPIOS REVISARÁN Y FISCALIZARÁN SUS CUENTAS PÚBLICAS, LOS PRESUPUESTOS DE EGRESOS SERÁN APROBADOS POR LOS AYUNTAMIENTOS EN BASE A SUS INGRESOS DISPONIBLES.
 
-Así basados en las anteriores consideraciones matemáticas, este Ayuntamiento de Cuernavaca Morelos, tiene a bien determinar cómo aplicable para el ejercicio fiscal 2022, los valores siguientes:
+ART. 134, DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LOS RECURSOS ECONÓMICOS DE QUE DISPONGA LA FEDERACIÓN, LAS ENTIDADES FEDERATIVAS, LOS MUNICIPIOS Y LAS DEMARCACIONES TERRITORIALES DE LA CIUDAD DE MÉXICO, SE ADMINISTRARÁN CON EFICIENCIA, EFICIENCIA, ECONOMÍA, TRANSPARENCIA Y HONRADEZ, PARA SATISFACER LOS OBJETIVOS A LOS QUE ESTÉN DESTINADOS.
 
-Valores en UMAS.
+LOS RESULTADOS DE DICHOS RECURSOS SERÁN EVALUADOS POR LAS INSTANCIAS TÉCNICAS, QUE ESTABLEZCAN, RESPECTIVAMENTE, LA FEDERACIÓN, Y LAS ENTIDADES FEDERATIVAS, CON EL OBJETO DE PROPICIAR QUE LOS RECURSOS ECONÓMICOS SE ASIGNEN EN LOS RESPECTIVOS PRESUPUESTOS, INCLUYENDO TAMBIÉN LOS SERVICIOS DE. CUALQUIER NATURALEZA. (PRESTACIÓN DEL SERVICIO DE ALUMBRADO PÚBLICO).
 
-CML. Públicos (0.0692 UMA)
+AL MUNICIPIO LE CORRESPONDERÁ LA ADMINISTRACIÓN, MANTENIMIENTO, RENOVACIÓN Y OPERACIÓN DEL SISTEMA DE ALUMBRADO PÚBLICO, COMO LO ESTABLECE EL ARTÍCULO 115, FRACCIÓN III DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DONDE LOS MUNICIPIOS TENDRÁN A SU CARGO LAS FUNCIONES Y SERVICIOS PÚBLICOS SIGUIENTES B) EL ALUMBRADO PÚBLICO, Y AL ART. 31, FRAC. IV, DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, CONTRIBUIR AL GASTO PÚBLICO DE MANERA PROPORCIONAL Y EQUITATIVA, DONDE EXISTA UN RAZONABLE EQUILIBRIO ENTRE EL MONTO DE CONTRIBUCIÓN APLICADA Y EL GASTO POR LA PRESTACIÓN DEL SERVICIO, AMBOS ARTÍCULOS CONSTITUCIONALES, TAMBIÉN ORGANIZANDO EL SERVICIO DE ALUMBRADO PÚBLICO EN FUNCIÓN DEL INTERÉS GENERAL Y EN EL CUAL DEBE OPERAR DE MANERA REGULAR, CONTINUA Y UNIFORME PARA LA POBLACIÓN DENTRO DE LA DEMARCACIÓN TERRITORIAL DEL MUNICIPIO.
 
-CML. Común (0.0643 UMA)
+ADJUNTO TRES: RECURSO DE REVISIÓN.
 
-CU. (0.0334 UMA)
+SERÁ PROCEDENTE EL RECURSO DE REVISIÓN EN LOS SIGUIENTES CASOS:
 
-Ver origen de las tablas de cálculo: en tabla A, tabla B, y tabla C.
+I.- CUANDO LA CANTIDAD DE METROS LUZ ASIGNADOS AL CONTRIBUYENTE DIFIERAN DE SU BENEFICIO REAL;
 
-Presupuesto de egresos.
+EL PLAZO PARA INTERPONER EL RECURSO SERÁ DE VEINTE DÍAS NATURALES, CONTADOS A PARTIR DEL DÍA SIGUIENTE A AQUEL EN QUE OCURRIÓ EL ACTO POR EL CUAL SOLICITA LA ACLARACIÓN Y DEBERÁN TENER POR LO MENOS LOS SIGUIENTES REQUISITOS:
 
-Egresos que le genera al municipio de Cuernavaca Morelos para en el ejercicio 2022 por la prestación del servicio de alumbrado público.
+I.- SER DIRIGIDO AL C. PRESIDENTE MUNICIPAL CONSTITUCIONAL;
 
-> <small>[N. DE E. VÉASE TABLA A EN EL P.O. DE 31 DE DICIEMBRE DE 2021, PÁGINAS DE LA 28 A LA 30.]</small>
+II.- NOMBRE COMPLETO DEL PROMOVENTE, LA DENOMINACIÓN O RAZÓN SOCIAL, DOMICILIO PARA OÍR Y RECIBIR NOTIFICACIONES, ASÍ COMO NÚMERO TELEFÓNICO;
 
-> <small>[N. DE E. VÉASE TABLA B EN EL P.O. DE 31 DE DICIEMBRE DE 2021, PÁGINAS DE LA 30 A LA 31.]</small>
+III.- LOS HECHOS QUE DEN MOTIVO AL RECURSO, BAJO PROTESTA DE DECIR VERDAD;
 
-> <small>[N. DE E. VÉASE TABLA C EN EL P.O. DE 31 DE DICIEMBRE DE 2021, PÁGINA 31.]</small>
+IV.- LOS AGRAVIOS QUE LE CAUSE Y LOS PROPÓSITOS DE SU PROMOCIÓN;
 
-Ingresos: Ingresos del municipio para la recuperación de los gastos que le genera al municipio por hacer que funcione el servicio de alumbrado público durante 12 horas diarias y por los 365 días del año fiscal 2022 de forma continua.
+V.- SE DEBERÁN INCLUIR LAS PRUEBAS DOCUMENTALES PÚBLICAS O PRIVADAS QUE ACREDITEN LA CANTIDAD EXACTA DE METROS LUZ CUYA APLICACIÓN SOLICITAN, CON EXCEPCIÓN DE CUANDO SE TRATE DE UNA SOLICITUD DE DESCUENTO, EN CUYO CASO DEBERÁ ACREDITAR LOS REQUISITOS DE LA FRACCIÓN I A VI ÚNICAMENTE;
 
-El ingreso del municipio es recaudado en dos opciones, una es por la propia tesorería del Ayuntamiento siempre a solicitud del sujeto pasivo y, la otra es por la empresa suministradora de energía, en cualquiera de los dos casos se debe aplicar la misma fórmula MDSIAP=SIAP, el sujeto puede hacer valer su recurso de revisión, que se localiza en esta ley de ingresos del municipio de Cuernavaca Morelos para el ejercicio fiscal 2022.
+VI.- ADEMÁS SE DEBERÁ ANEXAR LOS DOCUMENTALES QUE DEN EVIDENCIA Y PROBANZA VISUAL DE FRENTE ILUMINADO Y SUS DIMENSIONES;
 
-Este ingreso del municipio es utilizado para la recuperación de los gastos que le genera al municipio de Cuernavaca Morelos por la prestación del servicio de alumbrado público y para mayor facilidad se anexan seis bloques, donde se cumple con el art. 31. frac IV de la Constitución Política de los Estados Unidos Mexicanos en la equidad y proporcionalidad.
+VII.- FECHA, NOMBRE Y FIRMA AUTÓGRAFA; Y,
 
-Explicación: La columna a, se ve el nivel de beneficio desde el MDSIAP 1 hasta el nivel de beneficio MDSIAP 54, en la columna f, se ven los metros luz de frente a la vía pública dado en metros luz que tiene el sujeto pasivo y, por último, en la columna g, es el resultado del monto de contribución dado en UMAS, pero en los seis bloques se utiliza la misma fórmula MDSIAP= SIAP, según el supuesto en el que se encuentre el beneficiario de la iluminación pública.
+EN CUYO CASO DE QUE NO SEPA ESCRIBIR SE ESTARÁ A LO DISPUESTO POR EL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE MORELOS.
 
-> <small>[N. DE E. VÉASE BLOQUE UNO EN EL P.O. DE 31 DE DICIEMBRE DE 2021, PÁGINA 32.]</small>
+TRATÁNDOSE DE NEGOCIOS, COMERCIOS DE BIENES O SERVICIOS, DEBERÁN ADJUNTAR LA COPIA DE LA LICENCIA DE FUNCIONAMIENTO VIGENTE Y EN EL CASO DE PREDIOS RÚSTICOS, O AQUELLOS QUE SE ENCUENTREN EN EL PROCESO DE CONSTRUCCIÓN, PRESENTARÁN CONSTRUCCIÓN CORRESPONDIENTE, CLAVE CATASTRAL Y ORIGINAL O COPIA CERTIFICADA DE ESCRITURA PÚBLICA QUE ACREDITE LA LEGÍTIMA PROPIEDAD O POSESIÓN. EN CASO DE SER ARRENDATARIO DEL INMUEBLE, BASTARÁ EL CONTRATO DE ARRENDAMIENTO CORRESPONDIENTE.
 
-> <small>[N. DE E. VÉASE BLOQUE DOS EN EL P.O. DE 31 DE DICIEMBRE DE 2021, PÁGINA 33.]</small>
+EN TODOS LOS CASOS SE DEBERÁ PRESENTAR COPIA DE BOLETA PREDIAL Y PAGO DE CONTRIBUCIONES POR SERVICIOS PÚBLICOS AL CORRIENTE Y SUS ORIGINALES PARA COTEJO.
 
-> <small>[N. DE E. VÉASE BLOQUE TRES EN EL P.O. DE 31 DE DICIEMBRE DE 2021, PÁGINA 33.]</small>
+SE DEBERÁ ADJUNTAR AL RECURSO DE REVISIÓN:
 
-> <small>[N. DE E. VÉASE BLOQUE CUATRO EN EL P.O. DE 31 DE DICIEMBRE DE 2021, PÁGINA 34.]</small>
+EN LA INTERPOSICIÓN DEL RECURSO PROCEDERÁ LA SUSPENSIÓN, SIEMPRE Y CUANDO:
 
-> <small>[N. DE E. VÉASE BLOQUE CINCO EN EL P.O. DE 31 DE DICIEMBRE DE 2021, PÁGINAS DE LA 34 A LA 35.]</small>
+SE TENDRÁ POR NO INTERPUESTO EL RECURSO CUANDO:
 
-> <small>[N. DE E. VÉASE BLOQUE SEIS EN EL P.O. DE 31 DE DICIEMBRE DE 2021, PÁGINA 35.]</small>
+I.- SE PRESENTE FUERA DE PLAZO;
 
-En los seis bloques fue aplicada la misma fórmula para el cálculo del monto de la contribución para cada clasificación de sujeto pasivo, pero en todos los casos se utilizan los mismo 3 factores que se localizan en la tabla c; si el sujeto pasivo, considera que su aplicación real debe ser menor porque es menor su beneficio dado en metros luz, en este caso primero presentará su solicitud al Ayuntamiento para pedir su revisión de acuerdo con el recurso de revisión.
+II.- NO SE HAYA ACOMPAÑADO LA DOCUMENTACIÓN QUE ACREDITE LA PERSONALIDAD DEL PROMOVENTE, Y LA COPIA DE BOLETA PREDIAL Y PAGO DE CONTRIBUCIONES POR SERVICIOS PÚBLICOS AL CORRIENTE, LICENCIAS Y PERMISOS MUNICIPALES Y SUS ORIGINALES PARA COTEJO; Y,
 
-La tesorería del Ayuntamiento enviará a verificar su frente que tiene de beneficio el sujeto pasivo dado en metros luz y aplicará la fórmula MDSIAP=SIAP y reconsiderará su nuevo monto de contribución, el cual deberá pagar en la misma tesorería, y de acuerdo con la elaboración de un convenio interno entre las dos partes, el municipio lo dará de baja del sistema de los recibos de luz de la empresa suministradora de energía, para no duplicar dicho monto de contribución.
+III.- EL RECURSO NO OSTENTE LA FIRMA O HUELLA DEL PROMOVENTE.
 
-Época de pago:
+SE DESECHARÁ POR IMPROCEDENTE EL RECURSO:
 
-El cobro de derecho de alumbrado público podrá ser:
+I.- CONTRA ACTOS QUE SEAN MATERIA DE OTRO RECURSO Y QUE SE ENCUENTRE PENDIENTE DE RESOLUCIÓN, PROMOVIDO POR EL MISMO RECURRENTE Y POR EL PROPIO ACTO IMPUGNADO;
 
-• De manera mensual, y/o bimestral, cuando se realice por medio de la empresa suministradora de energía.
+II. CONTRA ACTOS QUE NO AFECTEN LOS INTERESES JURÍDICOS DEL PROMOVENTE;
 
-• De manera mensual, cuando se realice a través del sistema operador del agua potable.
+III. CONTRA ACTOS CONSENTIDOS EXPRESAMENTE; Y,
 
-• De manera mensual, bimestral y/o anual, cuando se realice por la tesorería del Ayuntamiento por convenio.
+IV. CUANDO SE ESTÉ TRAMITANDO ANTE LOS TRIBUNALES ALGÚN RECURSO O DEFENSA LEGAL INTERPUESTO POR EL PROMOVENTE, QUE PUEDA TENER POR EFECTO MODIFICAR, REVOCAR O NULIFICAR EL ACTO RESPECTIVO.
 
-• De forma anual cuando se trate de predios urbanos, rústicos o baldíos que no cuenten con contrato de energía eléctrica.
+SON CONSENTIDOS EXPRESAMENTE LOS ACTOS QUE, DURANTE LOS PRIMEROS VEINTE DÍAS NATURALES, CONTADOS A PARTIR DEL DÍA HÁBIL SIGUIENTE A SU EJECUCIÓN, NO FUERON IMPUGNADOS POR CUALQUIER MEDIO DE DEFENSA.
 
-Equilibrio del egreso con el ingreso DAP, 2022.
+SERÁ SOBRESEÍDO EL RECURSO CUANDO:
 
-De igual forma, el municipio podrá convenir con la suministradora de energía eléctrica, que los excedentes de la recaudación por concepto de derechos de alumbrado público (DAP) sean devueltos al municipio, para que este último los aplique en el mantenimiento y administración del sistema de alumbrado público. La tesorería municipal deberá asignar el monto total del dinero excedente únicamente para la constante modernización, mejora y mantenimiento de los sistemas de alumbrado público municipal.
+I.- EL PROMOVENTE SE DESISTA EXPRESAMENTE;
 
-Recurso de revisión:
+II.- EL AGRAVIADO FALLEZCA DURANTE EL PROCEDIMIENTO;
 
-Será procedente el recurso de revisión en los siguientes casos:
+III.- DURANTE EL PROCEDIMIENTO SOBREVENGA ALGUNA DE LAS CAUSAS DE IMPROCEDENCIA A QUE SE REFIERE EL PÁRRAFO ANTERIOR;
 
-1.- cuando la cantidad de metros luz asignados al contribuyente difieran de su beneficio real. Él plazo para interponer el recurso será de veinte días naturales, contados a partir del día siguiente a aquel en que ocurrió el acto por el cual solicita la aclaración y deberán tener por lo menos los siguientes requisitos:
+IV.- POR FALTA DE OBJETO O MATERIA DEL ACTO RESPECTIVO; Y,
 
-I.- ser dirigido al C. presidente municipal constitucional;
+V.- NO SE PROBARE LA EXISTENCIA DEL ACTO RESPECTIVO.
 
-II.- nombre completo del promovente, la denominación o razón social, domicilio para oír y recibir notificaciones, así como número telefónico;
+LA AUTORIDAD ENCARGADA DE RESOLVER EL RECURSO PODRÁ:
 
-III.- los hechos que den motivo al recurso, bajo protesta de decir verdad;
+RETIRAR TOTAL O PARCIALMENTE EL SUBSIDIO DURANTE LA TRAMITACIÓN DEL RECURSO O CON POSTERIORIDAD A SU RESOLUCIÓN Y PODRÁ RESTITUIRLO A PETICIÓN DE PARTE, ASÍ COMO AUMENTARLO O DISMINUIRLO DISCRECIONALMENTE.
 
-IV.- los agravios que le cause y los propósitos de su promoción;
+LA AUTORIDAD ADMINISTRATIVA, DENTRO DE LOS VEINTE DÍAS HÁBILES SIGUIENTES A AQUEL EN QUE SE PRESENTÓ EL RECURSO DE ACLARACIÓN, DEBERÁ RESOLVER DE FORMA ESCRITA Y POR NOTIFICACIÓN EN ESTRADOS DEL AYUNTAMIENTO AL RECURRENTE, PREVIA VALORACIÓN DE LAS PRUEBAS PRESENTADAS POR EL RECURRENTE, SI HA PROBADO O NO SU DICHO, Y EN SU CASO PODRÁ:
 
-V.- se deberán incluir las pruebas documentales públicas privadas que acrediten la cantidad exacta de metros luz cuya aplicación solicitan, con excepción de cuando se trate de una solicitud de incentivo fiscal, en cuyo caso deberá acreditar los requisitos de la fracción i a vi únicamente;
+I.- DESECHARLO POR IMPROCEDENTE O SOBRESEERLO;
 
-VI.- además, se deberá anexar los documentales que den evidencia y probanza visual de frente iluminado y sus dimensiones;
+II.- CONFIRMAR EL ACTO ADMINISTRATIVO;
 
-VII.- fecha, nombre y firma autógrafa, y
+III.- MODIFICAR EL ACTO RECURRIDO O DICTAR UNO NUEVO QUE LE SUSTITUYA;
 
-En cuyo caso de que no sepa escribir se estará a lo dispuesto por el Código de Procedimientos Civiles para el Estado de Morelos.
+IV.- DEJAR SIN EFECTO EL ACTO RECURRIDO; Y,
 
-Tratándose de negocios, comercios de bienes o servicios, deberán adjuntar la copia de la licencia d (sic) funcionamiento vigente y en el caso de predios rústicos, o aquellos que se encuentren en el proceso de construcción, presentarán la licencia de construcción correspondiente, clave catastral y original o copia certificada de escritura pública que acredite la legítima propiedad o posesión. En caso de ser arrendatario del inmueble, bastará el contrato de arrendamiento correspondiente.
+V.- REVOCAR EL COBRO DEL DERECHO DE ALUMBRADO PÚBLICO.
 
-En todos los casos se deberá presentar copia del pago de las contribuciones del impuesto predial y servicios públicos municipales al corriente y sus originales para cotejo.
+LA RESOLUCIÓN DEL RECURSO SE FUNDARÁ EN DERECHO Y EXAMINARÁ TODOS Y CADA UNO DE LOS AGRAVIOS HECHOS VALER POR EL RECURRENTE TENIENDO LA AUTORIDAD LA FACULTAD DE INVOCAR HECHOS NOTORIOS; PERO, CUANDO UNO DE LOS AGRAVIOS SEA SUFICIENTE PARA DESVIRTUAR LA VALIDEZ DEL ACTO IMPUGNADO BASTARÁ CON EL EXAMEN DE DICHO PUNTO.
 
-Se deberá adjuntar al recurso de revisión:
+EN CASO DE NO SER NOTIFICADA LA RESOLUCIÓN DEL RECURSO POR ESTRADOS, EL RECURRENTE PODRÁ SOLICITARLA ANTE LA AUTORIDAD ADMINISTRATIVA RECURRIDA, QUIEN DEBERÁ HACERLO ENTONCES, DENTRO DE LOS TRES DÍAS HÁBILES SIGUIENTES A LA SEGUNDA SOLICITUD.
 
-I.- una copia de la misma y de los documentos anexos para cada una de las partes;
+DE LA EJECUCIÓN
 
-II.- el documento que acredite su personalidad cuando actúen en nombre de otro o de personas morales;
-
-No serán admisibles ni la tercería ni la gestión de negocios, y
-
-III.- la documentación original de recibo de luz, copia del pago de las contribuciones del impuesto predial y servicios públicos municipales al corriente y sus originales para cotejo;
-
-En la interposición del recurso procederá la suspensión, siempre y cuando:
-
-I.- la solicite expresamente el promovente;
-
-II.- sea procedente el recurso;
-
-III.- se presente la garantía por el o los pe dos recurridos que le sean determinados por la autoridad administrativa;
-
-La autoridad deberá acordar, en su caso, la suspensión o la denegación de la suspensión dentro de los siguientes cinco días hábiles.
-
-Se tendrá por no interpuesto el recurso cuando:
-
-I.- se presente fuera de plazo;
-
-II.- no se haya acompañado la documentación que acredite la personalidad del promovente, y la copia del pag (sic) de las contribuciones del impuesto predial y servicios públicos municipales al corriente, licencias y permisos municipales y sus originales para cotejo, y
-
-III.- el recurso no ostente la firma o huella del promovente.
-
-Se desechará por improcedente el recurso:
-
-I.- contra actos que sean materia de otro recurso y que se encuentre pendiente de resolución, promovido por el mismo recurrente y por el propio acto impugnado;
-
-II. Contra actos que no afecten los intereses jurídicos del promovente;
-
-III. Contra actos consentidos expresamente; y
-
-IV. Cuando se esté tramitando ante los tribunales algún recurso o defensa legal interpuesto por el promovente, que pueda tener por efecto modificar, revocar o nulificar el ato respectivo.
-
-Son consentidos expresamente los actos que, durante los primeros veinte días naturales, contados a partir del día hábil siguiente a su ejecución, no fueron impugnados por cualquier medio de defensa.
-
-Será sobreseído el recurso cuando:
-
-I.- el promovente se desista expresamente;
-
-II.- el agraviado fallezca durante el procedimiento;
-
-III.- durante el procedimiento sobrevenga alguna de las casas de improcedencia a que se refiere el párrafo anterior;
-
-IV.- por falta de objeto o materia del acto respectivo; y
-
-V.- no se probare la existencia del acto respectivo.
-
-La autoridad encargada de resolver el recurso podrá:
-
-Retirar total o parcialmente el subsidio durante la tramitación del recurso o con posterioridad a su resolución y podrá restituirlo a petición de parte, así como aumentarlo o disminuirlo discrecionalmente.
-
-La autoridad administrativa, dentro de los veinte días hábiles siguientes a aquel en que se presentó el recurso de aclaración, deberá resolver de forma escrita y por notificación en estrados del Ayuntamiento al recurrente, previa valoración de las pruebas presentadas por el recurrente, si ha probado o no su dicho y, en su caso, podrá:
-
-I.- desecharlo por improcedente o sobreseerlo;
-
-II.- confirmar el acto administrativo;
-
-III.- modificar el acto recurrido o dictar uno nuevo que le sustituya;
-
-IV.- dejar sin efecto el acto recurrido; y
-
-V.- revocar el cobro del derecho de alumbrado público.
-
-La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por él recurrente, teniendo la autoridad la facultad de invocar hechos notorios; pero, cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado, bastará con el examen de dicho punto.
-
-En caso de no ser notificada la resolución del recurso por estrados, el recurrente podrá solicitarla ante la autoridad administrativa recurrida, quien deberá hacerlo entonces, dentro de los tres días hábiles siguientes a la segunda solicitud.
-
-De la ejecución
-
-El recurso de revisión se tramitará y resolverá en los términos previstos en esta ley y, en su defecto, se aplicarán, de manera supletoria, las disposiciones contenidas en el Código Fiscal para el Estado de Morelos.
-
-4.3.5.4 Servicio por la limpia, recolección, traslado y disposición final de residuos sólidos en el municipio de Cuernavaca, el objeto de este, es el de limpiar, recolectar, trasladar y dar un disposición final a los residuos sólidos en el municipio de Cuernavaca, con el fin de tener una ciudad limpia, este (sic) se cobrará el monto de 0.01515 de una UMA calculado al año, debiéndose pagar en forma bimestral durante el primer mes de cada bimestre, en los meses de enero, marzo, mayo, julio, septiembre y noviembre, y, podrá ser anticipado calculado de forma anual durante el primer bimestre del año.
+EL RECURSO DE REVISIÓN SE TRAMITARÁ Y RESOLVERÁ EN LOS TÉRMINOS PREVISTOS EN ESTA LEY, Y EN SU DEFECTO SE APLICARÁN DE MANERA SUPLETORIA LAS DISPOSICIONES CONTENIDAS EN EL CÓDIGO FISCAL PARA EL ESTADO DE MORELOS.
