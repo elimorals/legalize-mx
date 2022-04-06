@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-con-discapacidad-del-116653
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-27"
-last_updated: "2021-07-14"
+last_updated: "2022-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2022.
 
 Ley publicada en el Número 115 del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -83,9 +83,7 @@ VIII.- Barreras Sociales y Culturales: Las actitudes de rechazo, indiferencia o 
 
 IX.- Comunicación: Se entenderá el lenguaje escrito, oral y la lengua de señas mexicana, la visualización de textos, sistema braille, la comunicación táctil, los macrotipos, los dispositivos multimedia escritos o auditivos de fácil acceso, el lenguaje sencillo, los medios de voz digitalizada y otros modos, medios, sistemas y formatos aumentativos o alternativos de comunicación, incluida la tecnología de la información y las comunicaciones de fácil acceso;
 
-> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2019)</small>
-
-IX BIS.- Consejo Consultivo Ciudadano: Órgano asesor de análisis y opinión de participación ciudadana;
+IX BIS.- (DEROGADA, P.O. 6 DE ABRIL DE 2022)
 
 X.- Convención: Convención sobre los Derechos de las Personas con Discapacidad en la resolución 61/106 de la Asamblea General de la Organización de las Naciones
 
@@ -149,13 +147,27 @@ XXXVI.- Rehabilitación: El proceso de tipo médico, educativo y social, con la 
 
 XXXVII.- Sensibilización: Es el proceso de concientización dirigido a la sociedad en general, para fomentar actitudes incluyentes y percepciones positivas, con base en el modelo social, de las personas con discapacidad y del respeto a sus derechos y libertades fundamentales;
 
-XXXVIII.- Sistema Intersectorial: Sistema Intersectorial de Protección y Gestión Integral de Derechos de las Personas con Discapacidad; y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2022)</small>
 
-XXXIX.- Transversalidad: Es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo.
+XXXVIII.- Sistema Intersectorial: Sistema Intersectorial de Protección y Gestión Integral de Derechos de las Personas con Discapacidad;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2022)</small>
+
+XXXIX.- Transversalidad: Es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2022)</small>
+
+XL.- Secretaría Ejecutiva: La Secretaria Ejecutiva del Sistema Intersectorial de Protección de los Derechos de las Personas con Discapacidad, por sus siglas SIPRODDIS; y
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2022)</small>
+
+XLI.- Secretario Ejecutivo: el Secretario Ejecutivo del SIPRODDIS.
 
 ###### ARTÍCULO 4.
 
-Los principios que deberán observar las políticas públicas, programas y proyectos para la atención e inclusión de las personas con discapacidad, son los siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2022)</small>
+
+Los principios que deberán observar las políticas públicas, programas y proyectos, impulsados e implementados por la Administración Pública del Estado y las Administraciones Públicas Municipales para la atención e inclusión de las personas con discapacidad, son los siguientes:
 
 I.- El respeto de la dignidad inherente, la autonomía individual, incluida la libertad de tomar sus propias decisiones;
 
@@ -177,9 +189,23 @@ IX.- La justicia social;
 
 X.- El respeto por la diferencia y la aceptación de la discapacidad como parte de la diversidad y la condición humanas (sic);
 
-XI.- El respeto a la evolución de las facultades de las niñas y los niños con discapacidad y de su derecho a preservar su identidad; y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2022)</small>
 
-XII.- Los demás que resulten aplicables.
+XI.- El respeto a la evolución de las facultades de las niñas y los niños con discapacidad y de su derecho a preservar su identidad;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2022)</small>
+
+XII.- Universalidad;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2022)</small>
+
+XIII.- Interdependencia e indivisibilidad;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2022)</small>
+
+XIV.- Progresividad; y
+
+XV.- Los demás que resulten aplicables.
 
 ###### ARTÍCULO 5.
 
@@ -255,21 +281,31 @@ VIII.- El Estado, en coordinación con los DIF Municipales, otorgará tarjetones
 
 IX.- Las demás que otros ordenamientos le confieran.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2022)</small>
+
 ###### ARTÍCULO 8.
 
-Corresponde al Ayuntamiento de los municipios del Estado de Tamaulipas:
+Los ayuntamientos deberán impulsar la implementación del modelo social de atención para la población con discapacidad.
 
-I.- Integrar en sus Planes Municipales de Desarrollo, su propuesta respecto a las acciones afirmativas para lograr la participación de las personas con discapacidad a través de la implementación plena de sus derechos. Esta propuesta debe tener su fundamento en el modelo social y estar basada en el análisis de la información del Registro Estatal de las Personas con Discapacidad;
+Los ayuntamientos deberán diseñar, impulsar y fortalecer el mecanismo de implementación y coordinación municipal, así como el mecanismo de seguimiento y participación municipal necesarios para impulsar el modelo social de atención.
 
-II.- Colaborar, coordinar y realizar con la Secretaría Ejecutiva, los programas y proyectos para la implementación de los derechos de las personas con discapacidad;
+Los ayuntamientos deberán integrar en sus Planes Municipales de Desarrollo, su propuesta respecto a las acciones afirmativas.
 
-III.- Garantizar que todo servicio y establecimiento de atención pública y privada en sus municipios cuenten con protocolos de atención que garanticen los derechos de las personas con discapacidad reconocidos en esta Ley, las leyes federales y en los tratados internacionales que México haya ratificado;
+Los ayuntamientos deberán contar con un Programa Municipal de Atención para las Personas con Discapacidad, en el cual se integrarán los programas, proyectos y protocolos que cada dependencia u organismo municipal hayan desarrollado en coordinación con el mecanismo de implementación municipal en favor de la atención de las personas con discapacidad.
 
-IV.- Coadyuvar en la difusión del Programa Estatal para la Implementación y Protección de los Derechos de las Personas con Discapacidad en el Estado de Tamaulipas;
+Los ayuntamientos deberán colaborar con la Secretaría Ejecutiva Estatal, las dependencias y organismos estatales en cuanto a la implementación de programas, proyectos y protocolos de atención en favor de la promoción, protección y restitución de los derechos de las personas con discapacidad.
 
-V.- Considerar en sus proyectos de Presupuesto anuales, los fondos necesarios para el debido cumplimiento de los programas dirigidos a las personas con discapacidad. Estos fondos deberán estar sustentados en el análisis pormenorizado de la información del Registro Estatal de las Personas con Discapacidad; y
+Los ayuntamientos deberán garantizar que todo servicio y establecimiento de atención pública y privada en sus municipios cuenten con protocolos que prioricen la atención de las personas con discapacidad y garanticen sus derechos reconocidos en esta Ley, las leyes generales y en los tratados internacionales en la materia que ha firmado y ratificado México.
 
-VI.- Las demás que contribuyan en potencializar la promoción, implementación y protección de los derechos de las personas con discapacidad.
+Los ayuntamientos deberán coadyuvar con la Secretaría Ejecutiva Estatal en la implementación del modelo social y la difusión del Programa Estatal de Atención de las Personas con Discapacidad en el ayuntamiento.
+
+Los ayuntamientos deberán establecer el reglamento municipal en la materia, involucrando en el proceso de diseño, construcción e implementación a la Red Municipal de Seguimiento de los Derechos de las Personas, la sociedad civil con discapacidad y sus familiares.
+
+Los ayuntamientos deberán informar mensualmente a la Secretaría Ejecutiva del Estado la información relacionada con la estrategia, programas, proyectos y acciones para promover, proteger y restituir los derechos de las personas con discapacidad, bajo el modelo social, en el ayuntamiento.
+
+Los ayuntamientos deberán integrar en sus proyectos de Presupuesto anual, los fondos necesarios para el debido cumplimiento de los programas dirigidos a las personas con discapacidad. Estos fondos deberán estar sustentados en el análisis pormenorizado de la información del Registro Municipal de las Personas con Discapacidad así como en las necesidades administrativas y operativas del municipio para la promoción, protección y restitución de los derechos de las personas con discapacidad bajo el modelo social de atención.
+
+A los ayuntamientos les corresponderán las demás acciones que contribuyan a potencializar la promoción, implementación y protección de los derechos de las personas con discapacidad.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
@@ -705,9 +741,9 @@ XII.- Comisión de Derechos Humanos del Estado de Tamaulipas;
 
 XIII.- La Dirección General del Sistema DIF Estatal; y
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2022)</small>
 
-XIV.- Presidente del Consejo Consultivo Ciudadano.
+XIV.- Coordinación Estatal de la RED.
 
 3. A invitación del Sistema Intersectorial, podrán asistir las dependencias federales que implementan programas en beneficio de las personas con discapacidad.
 
@@ -727,7 +763,9 @@ XIV.- Presidente del Consejo Consultivo Ciudadano.
 
 ###### ARTÍCULO 44.
 
-1. La coordinación operativa del Sistema Intersectorial recaerá en un órgano administrativo desconcentrado de la Secretaría General de Gobierno, que ejercerá las funciones de Secretaría Ejecutiva.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2022)</small>
+
+1. La coordinación operativa del Sistema Intersectorial recaerá en la Secretaría Ejecutiva del Sistema Intersectorial de Protección de los Derechos de las Personas con Discapacidad, por sus siglas SIPRODDIS, que será un órgano administrativo desconcentrado de la Secretaría General de Gobierno, y tendrá las siguientes atribuciones:
 
 2. La Secretaría Ejecutiva tendrá las atribuciones siguientes:
 
@@ -758,6 +796,48 @@ VIII.- Solicitar a las Dependencias y Entidades de la Administración Pública E
 > <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
 IX.- Las demás que señale el Reglamento o le sean conferidas por el Presidente del Sistema.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2022)</small>
+
+3. La Secretaría Ejecutiva estará conformada, al menos, de la siguiente manera:
+
+I.- El Secretario Ejecutivo, quien deberá cumplir con el siguiente perfil:
+
+a) Experiencia comprobada, mínima de 6 años, en atención o asistencia social para las personas con discapacidad;
+
+b) Experiencia en el diseño, implementación y seguimiento de políticas públicas destinadas a la atención de las personas con discapacidad;
+
+c) Ser mayor de 30 años de edad;
+
+d) Tener alguna discapacidad; y
+
+e) Estudios mínimos de educación media superior.
+
+II.- El Coordinador de Atención Ciudadana, desarrollará las siguientes funciones:
+
+a) Impulsar la conformación de la RED de seguimiento de los derechos de las personas con discapacidad;
+
+b) Instrumentar y coordinar estrategias de participación ciudadana de las personas con discapacidad y sus familias;
+
+c) Coordinar con la Comisión Estatal de Derechos Humanos la capacitación de los miembros de la RED, sociedad civil con discapacidad y sus familiares;
+
+d) Impulsar la conformación del registro de personas con discapacidad en el Estado;
+
+e) Coordinar la premiación anual al mérito ciudadano estatal para la persona que haya realizado e impulsado un mayor bien para la población con discapacidad en el Estado; y
+
+f) Los establecidos en el manual de operación de su cargo, el cual será recibido y validado por el sistema intersectorial.
+
+III.- El Coordinador de Atención Institucional, quien deberá encargarse de:
+
+a) Impulsar y supervisar la formación de la red de servidores públicos que será conformada dentro de cada dependencia para la implementación del modelo social y la atención de las personas con discapacidad en las áreas de su competencia;
+
+b) Supervisar la actividad de labores de los servidores públicos estatales y municipales en la materia;
+
+c) Brindar capacitación a la red de servidores públicos de las dependencias en el diseño, formación, implementación, evaluación y seguimiento de programas, proyectos y protocolos de atención a la población con discapacidad y sus familiares;
+
+d) Canalizar y administrar la información de los indicadores de desempeño de las dependencias del Estado y los municipios; y
+
+e) Los establecidos en el manual de operación de su cargo, el cual será recibido y validado por el sistema intersectorial.
 
 ###### ARTÍCULO 45.
 
@@ -797,109 +877,309 @@ XI.- Celebrar los acuerdos o resoluciones para garantizar el cumplimiento de los
 
 XII.- Las demás que señale el reglamento, los lineamientos o normatividad aplicable.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE AGOSTO DE 2019)</small>
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 45 BIS.
+
+Derivado de sus actividades de coordinación interinstitucionales, la Secretaría Ejecutiva deberá proporcionar toda información relacionada con la implementación del modelo social en el Estado a la Red de Seguimiento de los Derechos de las Personas con Discapacidad en un plazo no mayor de 7 días naturales o a cualquier persona que lo solicite de acuerdo a la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 45 TER.
+
+Todas las dependencias y organismos de la administración pública estatal deberán coadyuvar con la Secretaría Ejecutiva en la implementación del modelo social dentro de sus dependencias y deberán compartir con la Secretaría Ejecutiva toda información relacionada a los programas, proyectos y protocolos de atención establecidos para promover, proteger y restituir los derechos de las personas con discapacidad en sus respectivas áreas de competencia.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 45 QUÁTER.
+
+Todas las dependencias y organismos de la administración pública estatal deberán establecer los enlaces con la Secretaría Ejecutiva. Los enlaces estatales designados deberán ser mínimo dos:
+
+I. Enlace de nivel Administrativo. Con nivel mínimo de Dirección; y
+
+II. Enlace de nivel Operativo. Con nivel mínimo de Jefatura de Departamento.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 45 QUINQUIES.
+
+Los enlaces de las dependencias u organismos estatales serán los encargados de asistir a las reuniones del Sistema Intersectorial, así como de impulsar el diseño, implementación y evaluación de los programas, proyectos y protocolos de atención establecidos en sus dependencias y organismos. Los enlaces dentro de cada dependencia u organismo de la administración pública estatal, en adición con su titular, serán los responsables de impulsar el modelo social dentro de sus respectivas dependencias u organismos.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 45 SEXIES.
+
+Las dependencias u organismos estatales que carezcan de programas o proyectos o protocolos de atención en favor de las personas con discapacidad deberán justificar por escrito ante la Secretaría Ejecutiva las razones de su omisión. Y será facultad de la Secretaría Ejecutiva determinar si dicha justificación es válida, apegándose en su análisis al modelo social de atención para las personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 45 SEPTIES.
+
+La Secretaría Ejecutiva deberá integrar el Programa Estatal de Atención para personas con discapacidad, conformado por los programas, proyectos y protocolos, establecidos en las dependencias u organismos estatales en favor de las personas con discapacidad, la promoción, la protección y la restitución de sus derechos.
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2022)</small>
 
 ## TÍTULO TERCERO. DE LA RED DE SEGUIMIENTO DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2022)</small>
+
 ###### ARTÍCULO 46.
 
-(DEROGADO, P.O. 20 DE AGOSTO DE 2019)
+La RED representa el mecanismo a través del cual las personas con discapacidad, ejercerán su amplia y decidida participación en todo el proceso que implica la concepción, desarrollo e implementación de las políticas a su favor.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2022)</small>
 
 ###### ARTÍCULO 47.
 
-(DEROGADO, P.O. 20 DE AGOSTO DE 2019)
+El Gobierno Estatal promoverá la conformación de la RED y le garantizará el acceso a la información pública a través de la Secretaría Ejecutiva con las reservas que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas, para el cumplimiento de sus funciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2022)</small>
 
 ###### ARTÍCULO 48.
 
-(DEROGADO, P.O. 20 DE AGOSTO DE 2019)
+La RED deberá estar representada en todos los municipios y estar integrada, principalmente, por personas con discapacidad y sus familiares; y organizaciones de la sociedad civil que den atención, servicios o apoyo a la comunidad con discapacidad.
+
+Así mismo, la RED deberá contar con una coordinación estatal integrada por la representación de 5 redes regionales conformadas por las redes municipales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2022)</small>
 
 ###### ARTÍCULO 49.
 
-(DEROGADO, P.O. 20 DE AGOSTO DE 2019)
+Son funciones de la RED:
+
+I.- Contribuir con la Secretaría Ejecutiva en la elaboración del Registro Estatal de personas con discapacidad;
+
+II.- Participar en el diseño que las instancias del sector público realicen en materias de programas, proyectos y estrategias de atención;
+
+III.- Elaborar recomendaciones al Sistema Intersectorial que contribuyan al fortalecimiento del marco de los derechos de las personas con discapacidad;
+
+IV.- Vigilar el ejercicio de los recursos públicos y la aplicación de los programas dirigidos a las personas con discapacidad conforme a la Ley y a las reglas de operación;
+
+V.- Elaborar informes sobre el desempeño de los programas y ejecución de los recursos públicos para ser presentados ante el Sistema Intersectorial; y
+
+VI.- Capacitarse en programas de potencial humano y derechos humanos, para alcanzar un dominio amplio y solvente en promoción, protección y defensa de sus derechos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2022)</small>
 
 ###### ARTÍCULO 50.
 
-(DEROGADO, P.O. 20 DE AGOSTO DE 2019)
+La RED estará integrada por todas y cada una de las Redes Municipales de Seguimiento de los Derechos de las Personas con Discapacidad.
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE AGOSTO DE 2019)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE ABRIL DE 2022)</small>
 
 ## TÍTULO TERCERO BIS. DEL CONSEJO CONSULTIVO CIUDADANO
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE AGOSTO DE 2019)</small>
+> <small>(DEROGADO LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE ABRIL DE 2022)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. ARTÍCULO 50 BIS. (DEROGADO, P.O. 6 DE ABRIL DE 2022)
 
-> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+ARTÍCULO 50 TER. (DEROGADO, P.O. 6 DE ABRIL DE 2022)
 
-ARTÍCULO 50 BIS.
+ARTÍCULO 50 QUÁTER. (DEROGADO, P.O. 6 DE ABRIL DE 2022)
 
-1. El Consejo Consultivo Ciudadano es un órgano asesor de análisis y opinión de participación ciudadana, auxiliar del Sistema Intersectorial de carácter incluyente, plural y honorífico, integrado equitativamente por representantes de los sectores social y privado.
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE ABRIL DE 2022)</small>
 
-2. El Consejo Consultivo Ciudadano, tendrá por objeto analizar y proponer programas y acciones que incidan en el desarrollo de las personas con discapacidad de conformidad con esta Ley.
+## TÍTULO TERCERO TER. DEL MECANISMO DE IMPLEMENTACIÓN Y COORDINACIÓN MUNICIPAL
 
-> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE ABRIL DE 2022)</small>
 
-ARTÍCULO 50 TER.
+### CAPÍTULO I
 
-El Consejo Consultivo Ciudadano tendrá las siguientes atribuciones:
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2022)</small>
 
-I.- Atender las consultas y formular las opiniones que les sean solicitadas por el Sistema lntersectorial;
+ARTÍCULO 50 QUINQUIES.
 
-II.- Emitir opiniones y formular propuestas sobre la aplicación y orientación de la Política Pública para el Desarrollo y la Inclusión de las personas con discapacidad;
+Todos los ayuntamientos deberán integrar, dentro de la estructura orgánica de la Secretaría del Ayuntamiento o de una instancia central del mismo, una oficina de implementación y coordinación.
 
-III.- Impulsar la participación ciudadana y de las organizaciones de y para personas con discapacidad en el seguimiento, operación y evaluación del Programa Estatal;
+Esta oficina no deberá ser integrada o adscrita a las Secretarías o a las áreas correspondientes de Bienestar o Desarrollo Social, de Salud, ni de Trabajo municipales. Esta oficina de implementación y coordinación deberá de tener las siguientes características, atribuciones y obligaciones:
 
-IV.- Apoyar al Sistema lntersectorial en la promoción y cumplimiento del Programa Estatal;
+I.- Deberá de coordinar y supervisar la implementación del modelo social dentro de las diferentes dependencias del ayuntamiento. Asegurándose de que cada dependencia desarrolle programas, proyectos y protocolos de atención en favor de promover, proteger y restituir los derechos de las personas con discapacidad;
 
-V.- Proponer al Sistema lntersectorial los temas que por su importancia ameriten ser sometidos a consulta pública;
+II.- Deberá contar con los recursos humanos, presupuesto y recursos necesarios;
 
-VI.- Promover y propiciar la colaboración de organismos públicos y privados, Estatales y Nacionales en el desarrollo e inclusión de las personas con discapacidad;
+III.- En ayuntamientos con más de 25,000 habitantes, este mecanismo deberá de estar conformado con al menos un titular, un coordinador de atención institucional y un coordinador de atención ciudadana;
 
-VII.- Promover la realización de estudios e investigaciones en la materia;
+IV.- Se encargará de la capacitación periódica de las dependencias u organismos municipales, en materia de:
 
-VIII.- Promover la celebración de convenios con dependencias del Ejecutivo Federal, entidades federativas, municipios y organizaciones, para la instrumentación de los programas relacionados con el desarrollo y la inclusión social de las personas con discapacidad;
+a) Políticas públicas con enfoque de derechos humanos;
 
-IX.- Integrar las comisiones y grupos de trabajo que sean necesarios para el ejercicio de sus atribuciones;
+b) Derechos humanos;
 
-X.- Nombrar al representante, que formará parte en las sesiones del Sistema lntersectorial; y
+c) Modelo social de atención a personas con discapacidad;
 
-XI.- Las demás que dispongan otros ordenamientos.
+d) Desarrollo de Programas y proyectos;
 
-> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+e) Evaluación y Seguimiento de programas; y
 
-ARTÍCULO 50 QUÁTER.
+f) Los que el Mecanismo de Implementación Municipal considere pertinente.
 
-1. El Consejo Consultivo Ciudadano estará integrado por:
+V.- Deberá coordinar la formulación, diseño e instrumentación de programas, proyectos y acciones en beneficio de las personas con discapacidad, bajo el modelo social, en cada una de las dependencias del Ayuntamiento y en base a sus competencias;
 
-I.- Tres representantes de organizaciones estatales de y para personas con discapacidad, electos por Convocatoria Pública realizada en los términos del Reglamento de la Ley;
+VI.- Deberá integrar con la suma de los programas, proyectos y acciones de cada dependencia del Ayuntamiento en beneficio de las personas con discapacidad el programa municipal de atención de personas con discapacidad;
 
-II.- Dos personas que serán expertos, académicos o investigadores, electos en los términos de la fracción anterior;
+VII.- Deberá supervisar la ejecución de los programas municipales en base al establecimiento de un sistema de gestión de indicadores el cual forma parte sustantiva del programa municipal de atención de personas con discapacidad;
 
-III.- El Consejo Consultivo Ciudadano será presidido por un representante electo de entre sus miembros el cual representará al Consejo en las sesiones del Sistema lntersectorial, además de contar con representación de todo el Estado; y
+VIII.- Deberá impulsar y coordinar la creación del Sistema Intersectorial Municipal;
 
-IV.- Las y los integrantes del Consejo Consultivo Ciudadano tendrán el carácter de honorifico, por lo cual no percibirán retribución, emolumento o compensación alguna por su desempeño, durarán en su cargo 2 años pudiendo ser ratificados por un periodo igual, en términos de lo dispuesto en el Reglamento de la Ley.
+IX.- Desarrollar los canales, mecanismos y procedimientos para que las personas con discapacidad y las organizaciones de la sociedad civil puedan canalizar sus propuestas y sugerencias al Sistema Intersectorial municipal para su incorporación al programa municipal de atención de personas con Discapacidad;
 
-2. Se podrá invitar a la sesiones a otras dependencias y entidades de la Administración Pública Federal, de los Gobiernos Estatales y Municipales, de organizaciones civiles y de particulares cuando se aborde un tema relacionado con sus funciones y participarán con voz pero sin voto
+X.- La dirección y el personal que labore en esta oficina, encargada de la implementación del modelo social deberán contar con un solvente dominio de los derechos de las personas con discapacidad, reconocidos en la Convención de los Derechos de las Personas con Discapacidad, y conocimiento en el diseño de políticas públicas incluyentes para la mejor orientación y asesoría al conjunto institucional;
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 20 DE AGOSTO DE 2019)</small>
+XI.- El encargado de esta oficina de coordinación e implementación deberá tener un nivel mínimo de Director;
 
-## TÍTULO TERCERO TER. ÓRGANO DE VIGILANCIA
+XII.- Deberá estar abierto a la coordinación y consulta con las organizaciones de personas con discapacidad e, incluso, tanto en su dirección como en su personal es muy recomendable que cuente con personas con discapacidad, potenciadas social y políticamente;
+
+XIII.- Deberá estar dispuesto a colaborar y recibir, constructivamente, las críticas y observaciones de la institución o mecanismo de vigilancia establecido, en arreglo al párrafo 2 del artículo 33 de la Convención de los Derechos de las Personas con Discapacidad;
+
+XIV.- Deberá coadyuvar, con la Secretaría de Bienestar Municipal o el área correspondiente en la materia, la Secretaría Ejecutiva del Estado y el INEGI, para la conformación del Registro Municipal de Personas con Discapacidad;
+
+XV.- Deberá entregar mensualmente a la Secretaría Ejecutiva del Estado la información referente a los indicadores de desempeño requeridos por la Secretaría Ejecutiva. Así como, un reporte de actividades en relación a la promoción, protección y restitución de los derechos de las personas con discapacidad en el Municipio; y
+
+XVI.- Las demás que señale el Reglamento municipal en la materia o las que sean conferidas por el Presidente Municipal como integrante del Sistema Intersectorial Municipal.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 50 SEXIES.
+
+El mecanismo de implementación municipal deberá contar con sus propios recursos humanos, instalaciones, equipo adecuado y capacidad presupuesta! (sic) necesaria para desempeñar sus obligaciones y poder promover, proteger y restituir los derechos de las personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 50 SEPTIES.
+
+1. El mecanismo de Implementación y Coordinación Municipal deberá de contar con el Sistema Intersectorial Municipal de Protección y Gestión Integral de Derechos de las Personas con Discapacidad, que tendrá por objetivos:
+
+I.- Diagnosticar las condiciones en las que se desarrolla su vida cotidiana, con énfasis en aquellos que presentan condiciones de pobreza y marginación social;
+
+II.- La formulación de políticas focalizadas en ámbitos georreferenciales específicos del municipio;
+
+III.- La construcción de estrategias de coordinación intersectoriales que potencien la capacidad del Estado para superar el desafío que implica generar oportunidades de desarrollo social;
+
+IV.- El diseño de programas y proyectos que den respuesta integral a las necesidades básicas de las personas con discapacidad y sus familiares, habitantes del municipio;
+
+V.- Al diseño de estrategias de operación táctica que aseguren el cumplimiento de los objetivos; y
+
+VI.- A la formulación de metodologías que promuevan la corresponsabilidad social.
+
+2. El Sistema Intersectorial Municipal se integrará de la siguiente manera:
+
+I.- Presidente Municipal;
+
+II.- El Secretario del Ayuntamiento;
+
+III.- Secretaría de Bienestar Social o área correspondiente en la materia;
+
+IV.- Secretaría de Salud o área correspondiente en la materia;
+
+V.- Secretaría de Desarrollo Económico o área correspondiente en la materia;
+
+VI.- Secretaría de Educación o área correspondiente en la materia;
+
+VII.- Secretaría de Desarrollo Urbano y Medio Ambiente o área correspondiente en la materia;
+
+VIII.- Secretaría de Finanzas o área correspondiente en la materia;
+
+IX.- Secretaría de Obras Públicas o área correspondiente en la materia;
+
+X.- Secretaría del Trabajo o área correspondiente en la materia;
+
+XI.- Secretaría de Turismo o área correspondiente en la materia;
+
+XII.- Representante de la Comisión de Derechos Humanos del Estado de Tamaulipas;
+
+XIII.- La Dirección General del Sistema DIF Municipal;
+
+XIV.- El Coordinador o la persona responsable de la atención de las personas con discapacidad dentro del Sistema DIF Municipal;
+
+XV.- El personal institucional responsable de cada dependencia asignado para la implementación del modelo social; y
+
+XVI.- Representación de asociaciones civiles, debidamente constituidas y con actividad en el municipio que otorguen algún tipo de atención y/o asistencia social a la población con discapacidad y/o sus familiares.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 50 OCTIES.
+
+El Sistema Intersectorial Municipal deberá sesionar al menos una vez cada seis meses y cuando el titular del mecanismo de implementación y coordinación municipal lo consideren necesario.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 50 NONIES.
+
+Todas las dependencias y organismos de la administración pública municipal deberán coadyuvar con el Mecanismo de Implementación y Coordinación Municipal en la implementación del modelo social dentro de sus dependencias y deberán compartirle toda información relacionada a los programas, proyectos y protocolos de atención establecidos para promover, proteger y restituir los derechos de las personas con discapacidad en sus respectivas áreas de competencia.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 50 DECIES.
+
+1. Todas las dependencias y organismos de la administración pública municipal deberán establecer los enlaces con el Mecanismo de Implementación y Coordinación Municipal. Los enlaces municipales designados deberán ser mínimo:
+
+I.- Un enlace de nivel Administrativo con nivel mínimo de Dirección; y
+
+II.- Un enlace de nivel Operativo con nivel mínimo de Jefatura de Departamento.
+
+2. Los enlaces municipales serán los encargados de asistir a las reuniones del Sistema Intersectorial Municipal, así como de impulsar el diseño, implementación y evaluación de los programas, proyectos y protocolos de atención establecidos para promover, proteger y restituir los derechos de las personas con discapacidad. Los enlaces dentro de cada dependencia u organismo de la administración pública municipal, en adición con su titular, serán los responsables de impulsar el modelo social dentro sus respectivas dependencias u organismos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE ABRIL DE 2022)</small>
+
+### CAPÍTULO II. DEL MECANISMO DE SEGUIMIENTO Y PARTICIPACIÓN
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 50 UNDECIES.
+
+La Red Municipal de Seguimiento de los Derechos de las Personas con Discapacidad es el mecanismo de seguimiento y participación municipal. Representa el mecanismo a través del cual las personas con discapacidad, ejercerán su amplia y decidida participación en todo el proceso que implica la concepción, desarrollo e implementación de las políticas a su favor.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 50 DUODECIES.
+
+El Gobierno Municipal promoverá la conformación de la RED y le garantizará el acceso a la información pública con las reservas que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas, para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 50 TERDECIES.
+
+1. La RED Municipal tendrá injerencia en todos los asentamientos humanos que existan en su territorio y estará integrada principalmente por personas con discapacidad, sus familiares y organizaciones de la sociedad civil que den atención, servicios o apoyo a la comunidad con discapacidad.
+
+2. La RED Municipal contará con una coordinación municipal, que se integrará por la representación de redes regionales que serán conformadas por las redes sectoriales, definidas por la misma coordinación municipal.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 50 QUATERDECIES.
+
+Son funciones de la RED Municipal:
+
+I.- Contribuir con el mecanismo de implementación y coordinación municipal en la elaboración del Registro Municipal de personas con discapacidad;
+
+II.- Participar en el diseño que las instancias del sector público realicen en materias de programas, proyectos y estrategias de atención;
+
+III.- Elaborar recomendaciones al Sistema Intersectorial Estatal y Municipal que contribuyan al fortalecimiento del marco de los derechos de las personas con discapacidad;
+
+IV.- Vigilar el ejercicio de los recursos públicos y la aplicación de los programas dirigidos a las personas con discapacidad conforme a la Ley y a las reglas de operación;
+
+V.- Elaborar informes sobre el desempeño de los programas y ejecución de los recursos públicos para ser presentados ante el Sistema Intersectorial Estatal o Municipal; y
+
+VI.- Capacitarse en programas de potencial humano y derechos humanos, para alcanzar un dominio amplio y solvente en promoción, protección y defensa de sus derechos.
+
+(REUBICADO [N. DE E. ANTES TÍTULO TERCERO TER], P.O. 6 DE ABRIL DE 2022)
+
+## TÍTULO TERCERO QUÁTER. ÓRGANO DE VIGILANCIA
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. (REUBICADO [N. DE E. ANTES ARTÍCULO 50 QUINQUIES], P.O. 6 DE ABRIL DE 2022)
 
-> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
-
-ARTÍCULO 50 QUINQUIES.
+ARTÍCULO. 50 QUINDECIES.
 
 El encargado de la vigilancia y monitoreo de los derechos de las personas con discapacidad será la Comisión de Derechos Humanos del Estado de Tamaulipas, la cual tendrá las siguientes funciones:
 
 I.- Vigilar el cumplimiento de los derechos de las personas con discapacidad;
 
-II.- Apoyar en la capacitación del Consejo Consultivo Ciudadano;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2022)</small>
+
+II.- Apoyar en la capacitación de la RED de Seguimiento de los Derechos de las Personas con Discapacidad;
 
 III.- Intervenir y dar seguimiento a las violaciones de los derechos de las personas con discapacidad;
 
@@ -911,15 +1191,11 @@ VI.- Orientar a las personas con discapacidad respecto a la exigibilidad del cum
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
-
 ## TÍTULO CUARTO. DEL RECURSO
 
 ### CAPÍTULO ÚNICO
 
-## TÍTULO QUINTO. DE LAS RESPONSABILIDADES Y SANCIONES
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 51.
 
@@ -931,6 +1207,10 @@ Toda persona u Organización de la Sociedad Civil podrá impugnar cualquier hech
 
 El recurso se interpondrá de acuerdo a lo previsto en la Ley de Procedimiento Administrativo para el Estado de Tamaulipas.
 
+## TÍTULO QUINTO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+### CAPÍTULO ÚNICO
+
 ###### ARTÍCULO 53.
 
 Las personas que incumplan las previsiones contenidas en esta Ley, serán sancionadas por las autoridades correspondientes, en la forma y términos que establezcan las disposiciones legales y reglamentarias aplicables.
@@ -940,6 +1220,12 @@ Las personas que incumplan las previsiones contenidas en esta Ley, serán sancio
 ###### ARTÍCULO 54.
 
 El incumplimiento a lo dispuesto en esta Ley por parte de las autoridades estatales y municipales, generará responsabilidad y será sancionado conforme a la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2022)</small>
+
+###### ARTÍCULO 55.
+
+Sin menoscabo de las responsabilidades contempladas en el artículo anterior, si derivado de una queja interpuesta ante la Red de seguimiento y participación ésta determina que existen omisiones en el cumplimiento de las atribuciones que de esta ley se emanen, dicho servidor público deberá ser cesado del cargo y cubierto por persona que reúna los requisitos especificados en la presente ley.
 
 T R A N S I T O R I O S
 
@@ -1056,3 +1342,39 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-135 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La construcción de la RED deberá de iniciar formalmente en la próxima e inmediata sesión del sistema intersectorial estatal, la cual no deberá exceder los 40 días naturales a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La designación del Secretario Ejecutivo y de las coordinaciones que integran la Secretaría Ejecutiva Estatal deberá estar designada en un plazo no mayor a 20 días naturales, a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+La secretaria Ejecutiva tendrá 25 días naturales a partir de la entrada en vigor del presente Decreto, para hacer público el lugar físico y los medios digitales a través de los cuales se les podrá solicitar información.
+
+###### ARTÍCULO QUINTO.
+
+Los ayuntamientos tendrán 20 días naturales, a partir de la entrada en vigor del presente Decreto, para conformar su mecanismo de implementación y coordinación.
+
+###### ARTÍCULO SEXTO.
+
+Los ayuntamientos tendrán 35 días naturales, a partir de la entrada en vigor del presente Decreto, para conformar su sistema intersectorial municipal y dar inicio a la conformación del registro municipal de personas con discapacidad.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los ayuntamientos tendrán 65 días naturales, a partir de la entrada en vigor del presente Decreto, para tener aprobado el reglamento municipal de personas con discapacidad.
+
+###### ARTÍCULO OCTAVO.
+
+Los ayuntamientos tendrán 90 días naturales, a partir de la entrada en vigor del presente Decreto, para presentar sus Programa Municipales de Atención para las Personas con Discapacidad.
