@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-de-la-ciudad-de-mexico-149711"
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-07"
-last_updated: "2021-06-07"
+last_updated: "2022-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149711&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-06-04"
 
 LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE ABRIL DE 2022.
 
 Ley publicada en el No. 612 de la Gaceta Oficial de la Ciudad de México, el lunes 7 de junio de 2021.
 
@@ -144,6 +144,10 @@ IX. Fomentar en los educandos competencias de razonamiento, aprendizaje, argumen
 
 X. Contribuir al desarrollo de la personalidad, la creatividad y la autonomía gradual de los educandos a través del impulso de aptitudes, capacidades, valores y potencialidades;
 
+> <small>(ADICIONADA, G.O. 6 DE ABRIL DE 2022)</small>
+
+X BIS. Desarrollar y potenciar las capacidades y habilidades tanto cognitivas como sociales, a través de la promoción del ajedrez como actividad extracurricular.
+
 XI. Promover y difundir los derechos humanos, el respeto a los derechos de las minorías, de las personas mayores y de las personas con discapacidad, inculcando valores y actitudes de participación, no discriminación, tolerancia y pluralidad y fomentando el respeto a las diferencias;
 
 XII. Fomentar una cultura de la vejez, envejecimiento activo y saludable, de respeto, aprecio y reconocimiento a la capacidad de aportación de las personas mayores;
@@ -220,7 +224,9 @@ VII. Determinar y formular planes y programas de estudio, distintos de los de ed
 
 VIII. Proponer a la Autoridad Educativa Federal los contenidos regionales que deban incluirse en los planes y programas de estudio para la educación primaria, secundaria, normal y demás para la formación de las personas educadoras de nivel básico. Asimismo, los contenidos ambientales que deban incluirse en los planes y programas de estudio de las materias afines que se impartan en la educación básica, media superior y normal para la formación de las personas educadoras de educación básica y media superior, en los que se incluyan los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la protección a la biodiversidad, el uso racional de los recursos naturales y la prevención del cambio climático; así como los contenidos para el fomento de los principios básicos de seguridad y educación vial;
 
-IX. Proponer a la Autoridad Educativa Federal los contenidos de los planes y programas para la educación sexual integral y reproductiva que implica el ejercicio responsable de la sexualidad, la planificación familiar, la maternidad y paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual; así como para la prevención y detección temprana del virus del papiloma humano, del cáncer de mama y del cáncer cervicouterino;
+> <small>(REFORMADA, G.O. 6 DE ABRIL DE 2022)</small>
+
+IX. Proponer a la Autoridad Educativa Federal los contenidos y materiales educativos de los planes y programas para la educación sexual integral y reproductiva que implica el ejercicio responsable de la sexualidad, la planificación familiar, la maternidad y paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual, considerando las características regionales y culturales de la población en la Ciudad de México; así como para la prevención y detección temprana del virus del papiloma humano, del cáncer de mama y del cáncer cervicouterino;
 
 X. En concurrencia con la Federación, promover contenidos y prácticas educativas que atiendan a la dimensión emocional de los educandos, así como a la prevención y manejo de riesgos y conflictos en los distintos contextos escolares;
 
@@ -1316,7 +1322,9 @@ VIII. Dar a conocer, previamente a su aplicación, los exámenes y cualquier otr
 
 IX. Comerciar con libros y otros materiales didácticos distribuidos por las autoridades educativas;
 
-X. Realizar o permitir la publicidad dentro del plantel, que estimule el consumo de alimentos o productos que perjudiquen la salud del educando, así como la comercialización de bienes o servicios notoriamente ajenos al proceso educativo, distintos de alimentos;
+> <small>(REFORMADA, G.O. 6 DE ABRIL DE 2022)</small>
+
+X. Realizar o permitir la publicidad o comercialización dentro del plantel, que estimule el consumo de productos de tabaco, alimentos u otros productos que perjudiquen la salud del educando, así como la comercialización de bienes o servicios notoriamente ajenos al proceso educativo, distintos de alimentos;
 
 XI. Oponerse a las actividades de inspección y vigilancia, así como no proporcionar información veraz y oportuna;
 
@@ -1344,7 +1352,9 @@ II. Multa hasta por el equivalente a cinco mil veces la Unidad de Medida y Actua
 
 III. Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios, independientemente de la multa que, en su caso, proceda, y
 
-IV. Para los supuestos previstos en las fracciones XII y XIII del artículo 130, además de la multa, se procederá a la clausura del plantel respectivo.
+> <small>(REFORMADA, G.O. 6 DE ABRIL DE 2022)</small>
+
+IV. Para los supuestos previstos en las fracciones X en lo referente a productos de tabaco, XII y XIII del artículo 129, además de la multa, se procederá a la clausura del plantel respectivo.
 
 Las sanciones antes descritas serán independientes de las establecidas en otros ordenamientos jurídicos.
 
@@ -1405,3 +1415,19 @@ DÉCIMO SEGUNDO.- El Gobierno de la Ciudad garantizará que las erogaciones pres
 Palacio Legislativo del Congreso de la Ciudad de México, a los veintisiete días del mes de mayo del año dos mil veintiuno. POR LA MESA DIRECTIVA, DIPUTADA ANA PATRICIA BAEZ GUERRERO, PRESIDENTA, DIPUTADA DONAJI OFELIA OLIVERA REYES, SECRETARIA, DIPUTADO PABLO MONTES DE OCA DEL OLMO (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III de la Constitución Política de los Estados Unidos Mexicanos; 32, apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 2 párrafo segundo, 3 fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21 párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los cuatro días del mes de junio del año dos mil veintiuno.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA.- FIRMA.- LA SECRETARIA DE CULTURA, VANNESA BOHÓRQUEZ LÓPEZ.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUIZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- LA SECRETARIA DE INCLUSIÓN Y BIENESTAR SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.- LA SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES, LAURA ITA ANDEHUI RUIZ MONDRAGÓN.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 6 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN X BIS AL ARTÍCULO 7, DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 6 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 9; LA FRACCIÓN X DEL ARTÍCULO 129; Y LA FRACCIÓN IV DEL ARTÍCULO 130; DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO”.]
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL VIGENTE EN LA CIUDAD DE MÉXICO.
