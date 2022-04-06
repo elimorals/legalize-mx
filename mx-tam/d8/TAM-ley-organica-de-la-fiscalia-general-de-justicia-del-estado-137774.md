@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-08-20"
-last_updated: "2021-10-19"
+last_updated: "2022-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2022.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 20 de agosto de 2019.
 
@@ -1369,9 +1369,15 @@ XXIV. Odontología forense;
 
 XXV. Arqueología forense;
 
-XXVI. Osteología forense; y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2022)</small>
 
-XXVII. Las demás que sean necesarias.
+XXVI. Osteología forense;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2022)</small>
+
+XXVII. Medicina Veterinaria y Zootecnia; y
+
+XXVIII. Las demás que sean necesarias.
 
 ###### Artículo 52.
 
@@ -2176,3 +2182,11 @@ El Titular de la Comisión Estatal de Búsqueda de Personas designado mediante D
 ###### ARTÍCULO NOVENO.
 
 Las personas integrantes del Consejo Estatal Ciudadano de la Comisión Estatal de Búsqueda de Personas designadas mediante Decreto LXIII- 797, publicado en el Periódico Oficial del Estado Número 55 de fecha 7 de mayo de 2019, continuarán en su cargo hasta concluir el periodo para el cual fueron designados.
+
+P.O. 6 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-145 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXVI Y SE ADICIONA LA FRACCIÓN XXVII, RECORRIÉNDOSE LA ACTUAL EN SU ORDEN NATURAL AL PÁRRAFO TERCERO DEL ARTÍCULO 51, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
