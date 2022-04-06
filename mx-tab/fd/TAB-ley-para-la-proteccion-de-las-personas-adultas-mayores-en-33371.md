@@ -4,7 +4,7 @@ identifier: "TAB-ley-para-la-proteccion-de-las-personas-adultas-mayores-en-33371
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-17"
-last_updated: "2019-06-15"
+last_updated: "2022-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY PARA LA PROTECCIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2022.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el 17 de mayo de 2003
 
@@ -571,29 +571,53 @@ Los servidores públicos titulares, ó los que éstos designen, adscritos a las 
 
 II. La Secretaría de Gobierno; quien fungirá como Vicepresidente;
 
-III. La Secretaría de Desarrollo Social y Protección del Medio Ambiente, quien fungirá como Secretario Técnico;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2022)</small>
+
+III. La Secretaría de Bienestar, Sustentabilidad y Cambio Climático, quien fungirá como Secretario Técnico;
 
 IV. La Secretaría de Salud, quien fungirá como Secretario;
 
 V. La Secretaría de Educación;
 
-VI. La Secretaría de Cultura Recreación y Deporte;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2022)</small>
 
-VII. La Secretaría de Desarrollo Económico y Turismo;
+VI. La Secretaría de Cultura;
 
-VIII. La Secretaría de Comunicaciones, Asentamientos y Obras Públicas;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2022)</small>
 
-IX. La Procuraduría General de Justicia;
+VII. La Secretaría de Ordenamiento Territorial y Obras Públicas;
 
-X. El Subsecretario del Trabajo y Previsión Social;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2022)</small>
 
-XI. El Titular del Servicio Estatal de Empleo;
+VIII. La Secretaría para el Desarrollo Económico y la Competitividad;
 
-XII. El representante del Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco, así como;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2022)</small>
 
-XIII. Los Presidentes Municipales; y
+IX. La Secretaría de Movilidad;
 
-XIV. Los Diputados integrantes de la Comisión Permanente de Atención a Grupos Vulnerables, Personas con Características Especiales y Adultos en Plenitud de la Cámara de Diputados.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE ABRIL DE 2022)</small>
+
+X. La Secretaría de Turismo;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2022)</small>
+
+XI. La Fiscalía General del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE ABRIL DE 2022)</small>
+
+XII. El Titular del Servicio Estatal de Empleo;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE ABRIL DE 2022)</small>
+
+XIII. El representante del Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco, así como;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE ABRIL DE 2022)</small>
+
+XIV. Los Presidentes Municipales; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE ABRIL DE 2022)</small>
+
+XV. Los Diputados integrantes de la Comisión Ordinaria de Bienestar Social, Asuntos Indígenas, Atención a Grupos Vulnerables, Adultos Mayores y Personas con Discapacidades de la Cámara de Diputados.
 
 Los servidores públicos a que se refieren las fracciones del V al XIV, fungirán como vocales.
 
@@ -934,3 +958,11 @@ P.O. 15 DE JUNIO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 6 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 059 POR EL QUE “SE REFORMAN LAS FRACCIONES III, VI, VII, VIII, IX, X, XI, XII, XIII Y XIV; Y SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 22 DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
