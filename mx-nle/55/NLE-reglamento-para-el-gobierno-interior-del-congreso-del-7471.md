@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2022-03-04"
+last_updated: "2022-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2022.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -225,11 +225,13 @@ Los diputados tendrán la obligación de cumplir con las comisiones, trabajos y 
 
 Para cumplir con lo establecido en el párrafo anterior, del presupuesto aprobado para la función legislativa se destinara una partida de gastos para cada diputado que así lo solicite, de acuerdo a los lineamientos que establezca la Comisión de Coordinación y Régimen Interno.
 
-ADICIONADO, P.O. 17 DE JUNIO DE 2011)
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2022)</small>
 
 ###### Artículo 18 Bis.
 
-Los diputados deberán rendir cuando menos un informe anual de actividades por escrito, ante los ciudadanos de cada uno de los distritos electorales donde resultaron electos.
+Los diputados deberán rendir cuando menos un informe anual de actividades por escrito o bien a través de los medios electrónicos que establezca la Comisión de Coordinación y Régimen Interno, ante los ciudadanos de cada uno de los distritos electorales donde resultaron electos.
+
+En él se reflejarán las actividades legislativas y de gestión social que se efectúe en beneficio de los ciudadanos.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
 
@@ -237,7 +239,9 @@ Los diputados deberán rendir cuando menos un informe anual de actividades por e
 
 El informe deberá ser presentado dentro del receso del segundo periodo ordinario de sesiones, correspondiente a cada año de ejercicio constitucional de la Legislatura.
 
-Una copia del informe deberá ser entregada a la Comisión de Coordinación y Régimen Interno, para su publicación en el portal de internet del Congreso del Estado.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2022)</small>
+
+Una copia del informe por escrito o en medio electrónico deberá ser entregada a la Comisión de Coordinación y Régimen Interno, para su publicación en el portal de internet del Congreso del Estado.
 
 Junto con la copia del informe, deberá ser presentado un presupuesto de gastos para los efectos correspondientes.
 
@@ -2970,3 +2974,9 @@ P.O. 4 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 095. SE ADICIONA EL “TITULO NOVENO DE LA ATENCIÓN A LAS PERSONAS CON DISCAPACIDAD CAPÍTULO ÚNICO DEL APOYO EN LA INTERPRETACIÓN EN EL LENGUAJE DE SEÑAS MEXICANAS” Y EL ARTÍCULO 95, A LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN, ASÍ COMO TAMBIÉN SE REFORMAN LAS FRACCIONES XXVI, XXVII Y SE ADICIONA LA FRACCIÓN XXVIII AL ARTÍCULO 65 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de la Publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 109. SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 18 BIS, Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 18 BIS 1; Y POR ADICIÓN DE UN SEGUNDO PÁRRAFO DEL ARTÍCULO 18 BIS, TODOS DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
