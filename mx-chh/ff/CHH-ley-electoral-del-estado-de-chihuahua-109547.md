@@ -4,7 +4,7 @@ identifier: "CHH-ley-electoral-del-estado-de-chihuahua-109547"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-22"
-last_updated: "2021-09-23"
+last_updated: "2022-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ELECTORAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2022.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 22 de agosto de 2015.
 
@@ -6711,13 +6711,13 @@ Artículo 293
 
 Artículo 294
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2022)</small>
 
-1) El Tribunal Estatal Electoral funcionará en Pleno. Para que pueda sesionar válidamente se requiere la presencia de por lo menos tres de sus integrantes. Sus determinaciones serán válidas con el voto de la mayoría simple de los presentes. En caso de empate, la Magistrada o Magistrado Presidente tendrá voto de calidad, después de haber emitido su voto ordinario. La Secretaria o Secretario General solo tendrá derecho a voz.
+1) El Tribunal Estatal Electoral funcionará en Pleno. Para que pueda sesionar válidamente se requiere la presencia de por lo menos dos de sus integrantes. Sus determinaciones serán válidas con el voto de la mayoría simple de los presentes. En caso de empate, la Magistrada o Magistrado Presidente tendrá voto de calidad, después de haber emitido su voto ordinario. La Secretaria o Secretario General solo tendrá derecho a voz.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2022)</small>
 
-2) El Tribunal Estatal Electoral se integra por cinco magistradas y magistrados, de los cuales dos deberán ser de distinto género a las otras tres personas, y se deberá alternar el género mayoritario, así como satisfacer los requisitos de elegibilidad que establece la Ley General de Instituciones y Procedimientos Electorales.
+2) El Tribunal Estatal Electoral se integra por tres magistradas y magistrados, de los cuales uno deberá ser de distinto género a las otras dos personas, y se deberá alternar el género mayoritario, así como satisfacer los requisitos de elegibilidad que establece la Ley General de Instituciones y Procedimientos Electorales.
 
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -6825,9 +6825,9 @@ Artículo 296
 
 1) El Tribunal Estatal Electoral tiene su domicilio en la capital del Estado, ejercerá sus funciones en todo el territorio estatal y se conforma de la manera siguiente:
 
-> <small>(REFORMADO, P. O. 13 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2022)</small>
 
-a) Pleno, compuesto por cinco magistraturas, una de las cuales fungirá como Presidencia.
+a) Pleno, compuesto por tres magistraturas, una de las cuales fungirá como Presidencia.
 
 > <small>(REFORMADO, P. O. 13 DE MARZO DE 2019)</small>
 
@@ -9142,3 +9142,19 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 ###### ARTÍCULO SEGUNDO.
 
 La convocatoria para las elecciones de integrantes de las Juntas Municipales y de las Comisarías de Policía que tendrán verificativo el 31 de octubre del año 2021, deberá ser expedida y publicada por el Instituto Estatal Electoral, por esta vez, a más tardar el día 30 de septiembre del año 2021.
+
+P.O. 6 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVII/RFLEY/0103/2021 I P.O., MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 294, NUMERALES 1 Y 2; Y 296, NUMERAL 1, INCISO A) DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de la publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las Magistraturas del Tribunal Estatal Electoral que actualmente se encuentran en funciones, seguirán en el cargo hasta la conclusión del periodo para el que fueron nombradas.
