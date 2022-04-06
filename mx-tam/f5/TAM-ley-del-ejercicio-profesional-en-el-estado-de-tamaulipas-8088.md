@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-ejercicio-profesional-en-el-estado-de-tamaulipas-8088"
 country: "mx"
 rank: "ley"
 publication_date: "1986-10-18"
-last_updated: "2017-03-23"
+last_updated: "2022-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 18 de octubre de 1986.
 
@@ -232,6 +232,10 @@ LICENCIADO EN COMERCIALIZACION INDUSTRIAL.
 LICENCIADO EN EDUCACIÓN FÍSICA.
 
 LICENCIADO EN ENFERMERIA.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2022)</small>
+
+LICENCIATURA EN FISIOTERAPIA.
 
 LICENCIADO EN FILOSOFIA Y LETRAS.
 
@@ -1085,10 +1089,10 @@ P.O. 23 DE MARZO DE 2017.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 590.- REFORMAS A LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2021 Y REFORMAS AL PRESUPUESTO DE EGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2021".]
+P.O. 6 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-140 MEDIANTE EL CUAL SE ADICIONA EL PÁRRAFO OCTOGÉSIMO TERCERO AL ARTÍCULO 5° DE LA LEY DEL EJERCICIO PROFESSIONAL EN EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 31 DE DICIEMBRE DE 2022.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
