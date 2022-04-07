@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-regula-las-casas-de-empeno-en-el-estado-de-durango-7302
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2009-12-31"
+last_updated: "2022-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 31 de diciembre de 2009.
 
@@ -377,9 +377,11 @@ Las casas de empeño deberán cumplir con el requisito de registrar el contrato 
 
 #### SECCIÓN PRIMERA. DEL EMPEÑO
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2022)</small>
+
 ###### ARTÍCULO 32.
 
-Son susceptibles de empeño todo tipo de bienes muebles, con excepción de aquellos que se inscriban en registros oficiales, los semovientes y los fungibles.
+Son susceptibles de empeño todo tipo de bienes muebles, con excepción de aquellos que se inscriban en registros oficiales, los semovientes y los fungibles; bajo ninguna circunstancia deberán aceptarse como susceptibles de empeño, las escrituras de una propiedad o cualquier otro título que pretenda acreditar la propiedad de un inmueble.
 
 ###### ARTÍCULO 33.
 
@@ -716,3 +718,13 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO.118.- QUE CONTIENE REFORMA AL ARTÍCULO 32 DE LA LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente a (sic) de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
