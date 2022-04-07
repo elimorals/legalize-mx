@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-agua-para-el-estado-de-jalisco-y-sus-municipios-54685"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-24"
-last_updated: "2019-04-27"
+last_updated: "2022-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2022.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 24 de febrero de 2007.
 
@@ -1967,9 +1967,13 @@ Los ayuntamientos y el Estado a través de la Procuraduría Estatal de Protecci�
 
 La Comisión Estatal será la autoridad competente para supervisar, tratándose de materias de su competencia conforme a esta Ley. Asimismo, podrá ejercer las facultades que le deleguen las autoridades federales, incluyendo las relacionadas con los procedimientos sancionadores.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2022)</small>
 
-Las atribuciones de inspección y vigilancia, imposición de medidas de seguridad determinación de infracciones, y aplicación de sanciones, establecidas de conformidad con la legislación ambiental estatal, con otras disposiciones legales, normativas y reglamentarias aplicables, así como las derivadas de los convenios y acuerdos de coordinación entre la Federación, el Estado y en su caso los municipios, serán ejercidas por la Secretaría de Medio Ambiente y Desarrollo Territorial, a través de la Procuraduría Estatal de Protección al Ambiente del Estado de Jalisco.
+Las atribuciones de inspección y vigilancia, imposición de medidas de seguridad determinación de infracciones, y aplicación de sanciones, establecidas de conformidad con esta ley, la legislación ambiental estatal, con otras disposiciones legales, normativas y reglamentarias aplicables, serán ejercidas por quien tenga competencia según la legislación aplicable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE ABRIL DE 2022)</small>
+
+Las autoridades federales, estatales y municipales de acuerdo a su competencia, podrán realizar convenios a efecto de ejercer las atribuciones antes señaladas.
 
 ###### Artículo 106.
 
@@ -2158,3 +2162,9 @@ P.O. 27 DE ABRIL DE 2019.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Los delitos cometidos antes de la entrada en vigor de la presente reforma, se perseguirán, juzgarán y resolverán conforme a lo dispuesto por dichos artículos hasta antes del inicio de la vigencia de la presente reforma.
+
+P.O. 7 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28750/LXIII/22 QUE REFORMA EL ARTÍCULO 105 DE LA LEY PARA (SIC) DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
