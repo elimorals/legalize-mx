@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2022-03-31"
+last_updated: "2022-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2022.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -3305,11 +3305,11 @@ El consentimiento deberá referirse a la adopción simple o a la adopción plena
 
 Si las personas señaladas en el artículo 452 no consienten en la adopción, deberán expresar la causa en que se funden, la que el Juez calificará tomando en cuenta los intereses del adoptante y del adoptado.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2022)</small>
 
 ###### Art. 455.
 
-El trámite de la adopción se hará conforme a lo establecido en los artículos 728 y 729 del Código de Procedimientos Civiles.
+El trámite de la adopción se hará conforme a lo establecido en los artículos 874, 875 y 876 del Código de Procedimientos Civiles.
 
 > <small>(ADICIONADO, P.O. 30 DE JULIO DE 1996)</small>
 
@@ -17636,3 +17636,9 @@ P.O. 31 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 68 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV; SE DEROGA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN III; Y SE ADICIONA UN ÚLTIMO PÁRRAFO, TODOS DEL ARTÍCULO 497 DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+P.O. 7 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 70, MEDIANTE EL CUAL SE REFORMA EL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
