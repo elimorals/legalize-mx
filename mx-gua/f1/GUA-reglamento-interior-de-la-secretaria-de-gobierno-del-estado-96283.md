@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-962
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-15"
-last_updated: "2020-08-13"
+last_updated: "2022-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2022.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 15 de octubre de 2013.
 
@@ -1317,7 +1317,7 @@ I. Asesorar y representar jurídicamente a la persona titular de la Dirección G
 
 II. Instaurar y substanciar los procedimientos jurídico administrativos, proponiendo a la persona titular de la Dirección General, los dictámenes y proyectos de resolución que correspondan, sobre:
 
-a) Privación, cancelación o suspensión de los derechos derivados de la licencia o permiso para conducir, por infracción a la Ley y su Reglamento;
+a) (DEROGADO, P.O. 7 DE ABRIL DE 2022)
 
 b) Transmisión de derechos de las concesiones del servicio público de transporte de competencia estatal;
 
@@ -1429,7 +1429,7 @@ g) Expedición de permisos provisionales para circular sin placas a vehículos p
 
 h) Expedición de permisos provisionales para la identificación de vehículos de personas con discapacidad o movilidad reducida;
 
-i) Expedición de licencias y permisos para conducir;
+i) (DEROGADO, P.O. 7 DE ABRIL DE 2022)
 
 j) Liberación de vehículos del servicio público y especial de transporte de competencia estatal, detenidos por infracciones a la Ley y su reglamento; y
 
@@ -1437,7 +1437,7 @@ k) Expedición de clave de trámite de no portación de colores oficiales y núm
 
 III. Proponer a la Dirección General los lineamientos y organización para el funcionamiento de las oficinas regionales de movilidad;
 
-IV. Coordinar la integración y actualización de la guía que contenga los lineamientos y requerimientos administrativos para la expedición de licencias y permisos para conducir y en su caso emitir los criterios correspondientes;
+IV. (DEROGADA, P.O. 7 DE ABRIL DE 2022)
 
 V. Emitir los criterios correspondientes respecto de los trámites y servicios que se lleven a cabo en las oficinas regionales de movilidad a efecto de homologar la atención y certeza a las personas usuarias así como la organización interna de las oficinas;
 
@@ -1445,7 +1445,9 @@ VI. Coadyuvar con las demás unidades administrativas de la Dirección General y
 
 VII. Formular y proponer a la Dirección General y en su caso ejecutar las políticas públicas, planes y programas estatales en materia de capacitación y educación vial para las personas operadoras del servicio público y especial de transporte y ciudadanía en general;
 
-VIII. Coordinar y verificar el cumplimiento de los convenios celebrados con empresas u organismos capacitadores de las personas operadoras del servicio público y especial de transporte y con las escuelas de manejo reconocidas por la Dirección General;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2022)</small>
+
+VIII. Coordinar y verificar el cumplimiento de los convenios celebrados con empresas u organismos capacitadores de las personas operadoras del servicio público y especial de transporte;
 
 IX. Coordinar y controlar la expedición del tarjetón de capacitación a las, personas operadoras del servicio público y especial de transporte que aprobaron la capacitación impartida por esta dirección o por el centro capacitador;
 
@@ -1459,7 +1461,7 @@ XIII. Proponer a la Dirección General, proyectos de manuales o normas técnicas
 
 XIV. Validar el contenido de los programas y cursos de capacitación que impartan los municipios, las personas concesionarias y permisionarias a los operadores, supervisando su cumplimiento;
 
-XV. Elaborar y aplicar el examen teórico de manejo para obtener la licencia o permiso de conducir, así como evaluar su aplicación; y
+XV. (DEROGADA, P.O. 7 DE ABRIL DE 2022)
 
 XVI. Las demás que deriven de la normatividad correspondiente o le confiera el Director General de Transporte.
 
@@ -1477,7 +1479,7 @@ I. Coordinar, supervisar y atender las necesidades para el funcionamiento admini
 
 II. Administrar y controlar los sistemas informáticos de la Dirección General garantizando su adecuado funcionamiento;
 
-III. Realizar y supervisar revisiones a los municipios con que se tenga celebrado convenio para la expedición de licencias y permisos de conducir a fin de verificar su cumplimiento, así como de aquellas otras disposiciones o lineamientos que se emitan para tal efecto;
+III. (DEROGADA, P.O. 7 DE ABRIL DE 2022)
 
 IV. Supervisar a las diferentes áreas de la Dirección General, respecto al desarrollo de los tramites y procesos, realizando, en su caso, las observaciones o acciones correspondientes remitiéndolas a la Dirección Jurídica de Transporte para que proceda en consecuencia, sin perjuicio de las atribuciones del órgano interno de control;
 
@@ -3222,3 +3224,11 @@ Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día 
 Actualización del Manual de Organización
 
 Artículo Segundo. La Secretaría de Gobierno deberá actualizar su Manual de Organización General publicado en el Periódico Oficial del Gobierno del Estado número 148, Segunda Parte, del 24 de julio de 2020, acorde al contenido del presente Decreto Gubernativo.
+
+P.O. 7 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 116, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA Y DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
