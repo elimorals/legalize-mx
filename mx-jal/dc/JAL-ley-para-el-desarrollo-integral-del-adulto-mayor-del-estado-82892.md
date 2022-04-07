@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-integral-del-adulto-mayor-del-estado-828
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-15"
-last_updated: "2022-02-24"
+last_updated: "2022-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 15 de septiembre de 2011.
 
@@ -243,13 +243,17 @@ h) A vivir en el seno de una familia o mantener relaciones personales solidarias
 
 i) A vivir con decoro y dignidad, en un ambiente emocional afectivo en sus hogares con el respeto por parte de su familia, autoridades y de la sociedad en general;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2022)</small>
 
-j) A acceder a una alimentación adecuada a sus circunstancias y capacidades, así como a los satisfactores necesarios para ello, y
+j) A acceder a una alimentación adecuada a sus circunstancias y capacidades, así como a los satisfactores necesarios para ello;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2022)</small>
 
-k) A recibir apoyos en materia alimenticia cuando carezca de medios propios para ello.
+k) A recibir apoyos en materia alimenticia cuando carezca de medios propios para ello; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE ABRIL DE 2022)</small>
+
+l) A recibir la atención adecuada por las instituciones públicas y privadas, y de la sociedad en general, para prevenir y combatir las enfermedades transmisibles, de conformidad con las medidas que las autoridades sanitarias dicten.
 
 III. Del trabajo:
 
@@ -1292,3 +1296,9 @@ P.O. 24 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28741/LXIII/22 QUE REFORMA EL ARTÍCULO 77 DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 7 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 28748/LXIII/22 SE REFORMA EL ARTÍCULO 6° DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación oficial “El Estado de Jalisco”.
