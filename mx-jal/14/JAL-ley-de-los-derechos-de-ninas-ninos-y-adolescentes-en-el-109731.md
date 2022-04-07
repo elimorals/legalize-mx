@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-en-el-109731"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-05"
-last_updated: "2022-03-19"
+last_updated: "2022-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2022.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 5 de septiembre de 2015.
 
@@ -409,6 +409,8 @@ Corresponde en principio y directamente a quienes ejerzan la patria potestad, tu
 
 ### CAPÍTULO VIII. Del Derecho de Acceso a una Vida Libre de Violencia y a la Integridad Personal
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE ABRIL DE 2022)</small>
+
 ###### Artículo 34.
 
 Las autoridades están obligadas a tomar las medidas necesarias, de conformidad a la legislación civil, penal y administrativa en la materia, para prevenir, atender, sancionar, erradicar y reparar los casos en que niñas, niños o adolescentes se vean afectados por lo siguiente:
@@ -421,7 +423,9 @@ II. La violencia, castigo corporal, o el abuso físico, psicológico, emocional 
 
 III. La corrupción, tráfico y trata;
 
-IV. El abuso y la explotación sexual infantil;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2022)</small>
+
+IV. El abuso, el turismo sexual y la explotación sexual infantil;
 
 V. La participación por medio de la incitación o coacción, para el consumo de sustancias que generen adicción, para la comisión de delitos o en asociaciones delictuosas, en término de la legislación y demás disposiciones aplicables;
 
@@ -1980,3 +1984,9 @@ P.O. 19 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28745/LXIII/22 QUE REFORMA EL ARTÍCULO 42 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 7 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28749/LXIII/22 QUE REFORMA EL ARTÍCULO 34 DE LA LEY PARA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
