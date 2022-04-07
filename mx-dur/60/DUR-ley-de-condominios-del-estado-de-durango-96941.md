@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-condominios-del-estado-de-durango-96941"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-05"
-last_updated: "2017-03-19"
+last_updated: "2022-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CONDOMINIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 5 de mayo de 2013.
 
@@ -33,7 +33,9 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 Con fecha 12 de diciembre de 2012 los CC. DIPUTADOS ADRIÁN VALLES MARTÍNEZ, JORGE ALEJANDRO SALUM DEL PALACIO Y MIGUEL ANGEL OLVERA ESCALERA, presentaron a esta H. LXV Legislatura, Iniciativa de Decreto que contiene LEY DE RÉGIMEN DE PROPIEDAD DE CONDOMINIOS DEL ESTADO DE DURANGO, misma que fue turnada a la Comisión de Vivienda integrada por los CC. Diputados: Raúl Antonio Meráz Ramírez, Manuela Guillermina Ruíz Ezqueda, Rodolfo Benito Guerrero García, Cecilio Campos Jiménez y Rosa María Galván Rodríguez; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-C O N S I D E R A N D O S:…
+C O N S I D E R A N D O S:
+
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXV Legislatura del Estado, expide el siguiente:
 
@@ -371,6 +373,10 @@ Las asambleas se regirán por las siguientes disposiciones:
 
 I. Serán celebradas en las instalaciones del condominio. Cuando esto no sea posible, en un lugar apropiado para ese efecto perteneciente al mismo municipio en donde esté ubicado el condominio, seleccionado por el administrador con opinión del Comité de Vigilancia;
 
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2022)</small>
+
+Podrán realizarse a distancia, mediante el uso de herramientas tecnológicas, ante una emergencia declarada por la autoridad respectiva que impida o haga inconveniente la presencia de los condóminos en el recinto destinado para tal efecto, atendiendo a las formalidades que establece la presente ley y los reglamentos correspondientes.
+
 II. Sesionarán válidamente con la asistencia de por lo menos el setenta y cinco por ciento del total de los condóminos, en primera convocatoria; con más del cincuenta por ciento de éstos, en segunda convocatoria; o con los que asistan, en tercera convocatoria, salvo los casos especiales señalados en esta Ley;
 
 III. En los casos en los que sólo un condómino represente más del cincuenta por ciento del valor total del inmueble y tenga el carácter de constructor, desarrollador de vivienda o representante del inversionista y los condóminos restantes no asistan a la Asamblea, previo anuncio de la convocatoria de acuerdo a esta Ley, la Asamblea no podrá celebrarse en los términos de la fracción anterior, a menos que asistan al menos cinco condóminos adicionales;
@@ -481,7 +487,9 @@ a) Quién convoca;
 
 b) Tipo de Asamblea de que se trate;
 
-c) Hora, fecha y lugar de celebración;
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2022)</small>
+
+c) Hora, fecha y lugar de celebración o indicar que se realizara bajo la modalidad a distancia estableciendo la plataforma y link respectivo;
 
 d) El orden del día;
 
@@ -715,7 +723,9 @@ X. Convocar a Asamblea cuando a requerimiento por escrito, el administrador no l
 
 XI. Solicitar la presencia de un notario público en los casos previstos en esta Ley, o en los que considere necesario;
 
-XII. Solicitar, cuando sea convocante de la Asamblea, la presencia de un mediador y conciliador del Centro Estatal de Justicia Alternativa, para que asista a la Asamblea en cuyo orden del día se pretenda resolver conflictos entre condóminos o vecinos, o entre éstos y el administrador o el Comité de Vigilancia;
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2022)</small>
+
+XII. Solicitar, cuando sea convocante de la Asamblea, la presencia de un mediador y conciliador del Centro Estatal de Justicia Alternativa, para que asista a la Asamblea de manera presencial, o bajo la modalidad de distancia cuando la convocatoria así lo indique, en cuyo orden del día se pretenda resolver conflictos entre condóminos o vecinos, o entre éstos y el administrador o el Comité de Vigilancia;
 
 XIII. Ostentar la representación legal del condominio por acuerdo previo de la Asamblea Extraordinaria, cuando se requiera formular demanda en contra del administrador;
 
@@ -1202,3 +1212,11 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 7 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 117.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
