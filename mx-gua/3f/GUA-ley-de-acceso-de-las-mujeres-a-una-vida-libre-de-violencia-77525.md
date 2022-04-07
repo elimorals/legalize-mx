@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2021-12-22"
+last_updated: "2022-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2022.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -187,15 +187,19 @@ Los ámbitos en donde se presenta violencia contra las mujeres son:
 
 I. Familiar: es cualquier tipo de violencia que se ejerce contra la mujer por personas con quien se tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o análoga o aún no teniendo alguna de las calidades anteriores habite de manera permanente en el mismo domicilio de la víctima, mantengan o hayan mantenido una relación de hecho;
 
-II. Laboral y docente: es la que se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica. Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño. También incluye el acoso y el hostigamiento sexual;
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2022)</small>
 
-III. En la comunidad: es cualquier tipo de violencia contra la mujer cometida en el ámbito público; y
+II. En el noviazgo: Es el acto abusivo de poder u omisión intencional, dirigido a humillar, someter, controlar, agredir u hostigar a las mujeres mediante la ejecución de cualquier tipo de violencia, durante o después de una relación afectiva, íntima, sexual o de hecho.
 
-IV. Institucional: es cualquier tipo de violencia contra la mujer consistente en actos u omisiones cometidos por los servidores públicos de cualquier orden de gobierno.
+III. Laboral y docente: es la que se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica. Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño. También incluye el acoso y el hostigamiento sexual;
+
+IV. En la comunidad: es cualquier tipo de violencia contra la mujer cometida en el ámbito público; y
+
+V. Institucional: es cualquier tipo de violencia contra la mujer consistente en actos u omisiones cometidos por los servidores públicos de cualquier orden de gobierno.
 
 > <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
 
-V. En la comunidad digital: es la violencia que se ejerce dentro de un grupo de personas que forman una red digital, los cuales tienen intereses comunes por cada uno de sus miembros y tienen un código común de comunicación que es utilizado por enlaces electrónicos e interfaces gráficos de usuario.
+VI. En la comunidad digital: es la violencia que se ejerce dentro de un grupo de personas que forman una red digital, los cuales tienen intereses comunes por cada uno de sus miembros y tienen un código común de comunicación que es utilizado por enlaces electrónicos e interfaces gráficos de usuario.
 
 ### Capítulo III. Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres
 
@@ -1386,5 +1390,11 @@ Artículo Único. El presente decreto entrará en vigor al día siguiente al de 
 P.O. 22 DE DICIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 9, EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 7 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 71, MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN II, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
