@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-ii-2020-del-143711"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-07-31"
-last_updated: "2021-11-12"
+last_updated: "2022-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143711&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2020-07-29"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION NUMERO II/2020 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS DE SEGURIDAD SANITARIA EN LA SUPREMA CORTE DE JUSTICIA DE LA NACION DURANTE LA EMERGENCIA GENERADA POR EL VIRUS SARS-COV2 (COVID 19)]
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO II/2020 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTINUEVE DE JULIO DE DOS MIL VEINTE, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS DE SEGURIDAD SANITARIA EN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN DURANTE LA EMERGENCIA GENERADA POR EL VIRUS SARS-COV2 (COVID 19)
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 8 DE ABRIL DE 2022.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 31 de julio de 2020.
 
@@ -151,25 +153,17 @@ Las y los servidores públicos con funciones esenciales, que no tengan la posibi
 
 Lo previsto en este artículo será aplicable hasta que inicie la prestación regular de los servicios educativos en las escuelas conforme a las determinaciones de la autoridad educativa competente, o bien, existan condiciones para la prestación de servicios del CENDI, según corresponda en cada caso, sin perjuicio de que el trabajo a distancia pueda realizarse conforme a otra causa prevista en el presente Acuerdo General de Administración.
 
+> <small>(REFORMADO, G.S.J.F. 8 DE ABRIL DE 2022)</small>
+
 ###### ARTÍCULO DÉCIMO CUARTO.
 
 Con el objeto de prevenir la transmisión de la COVID 19 en las oficinas y espacios de trabajo, el establecimiento de las jornadas y horarios de trabajo se sujetará a lo siguiente:
 
-> <small>(REFORMADA, G.S.J.F. 12 DE NOVIEMBRE DE 2021)</small>
-
 I. La jornada diaria de trabajo presencial y a distancia será de ocho horas;
 
-> <small>(REFORMADA, G.S.J.F. 12 DE NOVIEMBRE DE 2021)</small>
+II. En la modalidad presencial, los horarios de trabajo se establecerán en un rango de siete de la mañana a seis de la tarde de forma escalonada, con el objetivo de evitar la concentración de personas en las entradas y salidas, y
 
-II. En la modalidad presencial, los horarios de trabajo se establecerán en un rango de siete de la mañana a cinco de la tarde de forma escalonada, con el objetivo de evitar la concentración de personas en las entradas y salidas;
-
-> <small>(REFORMADA, G.S.J.F. 12 DE NOVIEMBRE DE 2021)</small>
-
-III. Podrán establecerse otros horarios o modalidades especiales para el desempeño de las funciones jurisdiccionales, así como de seguridad, mantenimiento, limpieza y otras que, a juicio de las personas titulares de los órganos y áreas, se requieran;
-
-IV. La jornada de trabajo presencial será continua, de tal manera que las y los servidores públicos eviten las entradas y salidas del centro de trabajo durante dicha jornada, salvo que lo autorice el titular del órgano o área correspondiente, o el servidor público competente, y
-
-V. Los titulares de los órganos y áreas programarán las jornadas laborales con base en células o equipos de personal, las cuales alternarán su asistencia a las oficinas y espacios de trabajo en días distintos, de manera que, en el supuesto de que ocurra un caso sospechoso o confirmado de COVID 19, pueda facilitarse la identificación y seguimiento médico de sus contactos durante las jornadas laborales.
+III. Podrán establecerse otros horarios o modalidades especiales para el desempeño de las funciones jurisdiccionales, así como de seguridad, mantenimiento, limpieza y otras que, a juicio de las personas titulares de los órganos y áreas, se requieran.
 
 ### CAPÍTULO CUARTO. DE LAS MEDIDAS DE PROMOCIÓN Y PROTECCIÓN A LA SALUD
 
@@ -197,7 +191,7 @@ III. Acceso restringido de personas a los edificios de la Suprema Corte, con bas
 
 IV. Adecuaciones y reorganización de los accesos de entrada y salida de los edificios de la Suprema Corte;
 
-V. Establecimiento de filtros sanitarios;
+V. (DEROGADA, G.S.J.F. 8 DE ABRIL DE 2022)
 
 VI. Señalización de rutas, accesos y espacios para mantener sana distancia;
 
@@ -227,7 +221,7 @@ II. Comunicar a su jefe inmediato cuando tenga diagnóstico confirmado positivo 
 
 III. Abstenerse de asistir a las oficinas o espacios de trabajo cuando se le haya comunicado que tuvo contacto en el centro de trabajo con otra persona con diagnóstico positivo confirmado de COVID 19 o síntomas asociados con dicha enfermedad;
 
-IV. Cumplir las disposiciones relativas al filtro sanitario para la entrada y salida de personal;
+IV. (DEROGADA, G.S.J.F. 8 DE ABRIL DE 2022)
 
 V. Usar en forma correcta y permanente el cubrebocas para el acceso a los inmuebles de la Suprema Corte, áreas de tránsito, áreas comunes y oficinas cuando, en este último caso, se comparta dicho espacio con otra persona;
 
@@ -235,7 +229,7 @@ VI. Lavarse las manos con agua y jabón, o desinfectarlas con gel antibacterial,
 
 VII. Abstenerse de saludar de mano o beso, así como de abrazar a otras personas durante la jornada laboral en la modalidad presencial;
 
-VIII. Abstenerse de salir del centro de trabajo una vez iniciada la jornada laboral y de reingresar al mismo, salvo que lo autorice el titular del órgano o área al cual se encuentre adscrito, o quien cuente con facultades para ello;
+VIII. (DEROGADA, G.S.J.F. 8 DE ABRIL DE 2022)
 
 IX. Proporcionar información veraz sobre su estado de salud a su jefe inmediato o, en su caso, a Servicios Médicos, en los casos y para los efectos previstos en el presente Acuerdo General de Administración y la Guía Operativa, y
 
@@ -281,9 +275,9 @@ Los servicios de educación inicial y preescolar, así como de guardería y esta
 
 Se comunicará oportunamente a las y los trabajadores los servicios disponibles del CENDI, de acuerdo con lo señalado en el párrafo anterior.
 
-###### ARTÍCULO VIGÉSIMO CUARTO.
+> <small>(REFORMADO, G.S.J.F. 8 DE ABRIL DE 2022)</small>
 
-Los comedores institucionales de la Suprema Corte no prestarán servicios ordinarios hasta nuevo aviso.
+###### ARTÍCULO VIGÉSIMO CUARTO.
 
 Conforme a las necesidades de funcionamiento de la Suprema Corte, se establecerán las modalidades del servicio de comedor en la Guía Operativa.
 
@@ -344,3 +338,15 @@ SEGUNDO. El Oficial Mayor realizará las modificaciones a la Guía Operativa que
 TERCERO. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense al Acuerdo General de Administración Número II/2020 del Presidente de la Suprema Corte de Justicia de la Nación, de veintinueve de julio de dos mil veinte, por el que se establecen los Lineamientos de Seguridad Sanitaria en la Suprema Corte de Justicia de la Nación durante la emergencia generada por el virus SARS-CoV2 (COVID 19), a fin de que el contenido de éste se encuentre debidamente actualizado; dicha actualización deberá realizarse en el archivo respectivo del portal de este Alto Tribunal, así como del resto de medios análogos que éste administre.
 
 CUARTO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y en su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos de los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
+
+G.S.J.F. 8 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO II/2022, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE CINCO DE ABRIL DE DOS MIL VEINTIDÓS, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO II/2020 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTINUEVE DE JULIO DE DOS MIL VEINTE, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS DE SEGURIDAD SANITARIA EN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN DURANTE LA EMERGENCIA GENERADA POR EL VIRUS SARS-COV2 (COVID 19)”.]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor el dieciocho de abril de dos mil veintidós.
+
+SEGUNDO. El Oficial Mayor realizará las modificaciones a la Guía Operativa que sean necesarias para dar cumplimiento al presente Acuerdo General de Administración.
+
+TERCERO. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense al Acuerdo General de Administración Número II/2020 del Presidente de la Suprema Corte de Justicia de la Nación, de veintinueve de julio de dos mil veinte, por el que se establecen los Lineamientos de seguridad sanitaria en la Suprema Corte de Justicia de la Nación durante la emergencia generada por el virus SARS-CoV2 (COVID 19), a fin de que el contenido de éste se encuentre debidamente actualizado; dicha actualización deberá realizarse en el archivo respectivo del portal de este Alto Tribunal, así como del resto de medios análogos que éste administre.
+
+CUARTO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y en su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
