@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-proteccion-y-bienestar-de-los-animales-del-142226"
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-27"
-last_updated: "2021-06-25"
+last_updated: "2022-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "CAM"
 ---
 # LEY PARA LA PROTECCION Y BIENESTAR DE LOS ANIMALES DEL ESTADO DE CAMPECHE
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL 1° DE ENERO DE 2019, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL 1° DE ENERO DE 2019, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2022.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Campeche, el jueves 27 de septiembre de 2018.
 
@@ -645,7 +647,9 @@ Las infracciones establecidas en el artículo anterior de esta Ley, serán sanci
 
 I. Amonestación;
 
-II. Multa de 25 a 250 Unidades de Medida y Actualización diarias al momento de la comisión de la infracción;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2022)</small>
+
+II. Multa de 35 a 350 Unidades de Medida y Actualización diarias al momento de la comisión de la infracción;
 
 III. Suspensión temporal, parcial o total de las autorizaciones, permisos o licencias;
 
@@ -740,5 +744,13 @@ P.O. 25 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 233 POR EL QUE “SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 4 Y LA FRACCIÓN VIII DEL ARTÍCULO 6 DE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DEL ESTADO DE CAMPECHE”.]
 
 PRIMERO.- El presente decreto entrara en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 8 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 47 POR EL QUE “SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 69 DE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
