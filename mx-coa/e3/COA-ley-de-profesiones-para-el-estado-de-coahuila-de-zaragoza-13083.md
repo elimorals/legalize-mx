@@ -4,7 +4,7 @@ identifier: "COA-ley-de-profesiones-para-el-estado-de-coahuila-de-zaragoza-13083
 country: "mx"
 rank: "ley"
 publication_date: "1998-11-06"
-last_updated: "2019-01-15"
+last_updated: "2022-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROFESIONES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 6 de noviembre de 1998.
 
@@ -471,6 +471,10 @@ I.- En horarios que no interfieran con la formación escolar del educando y, en 
 
 II.- Con una duración no menor de seis meses. El número de horas a cubrir será fijado en atención a las características de la profesión que se estudia;
 
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2022)</small>
+
+Si la prestación del servicio social se ve interrumpido por desastres naturales, emergencias sanitarias o aquellas situaciones que se determine que ponen en riesgo la integridad del estudiante, se deberán establecer criterios excepcionales para flexibilizar el cumplimiento del servicio social durante el tiempo que permanezcan las situaciones antes mencionadas.
+
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
 III.- En áreas estratégicas para el desarrollo del estado o que permitan incidir en la superación de desventajas que padezcan grupos de la población;
@@ -786,3 +790,11 @@ P.O. 15 DE ENERO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 215.- SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 33 DE LA LEY DE PROFESIONES PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto tendrá efectos retroactivos para la actual emergencia sanitaria, por lo que el Poder Ejecutivo tendrá 60 días contados a partir de la entrada a vigor del presente decreto para expedir los criterios y demás relativos para la prestación del servicio social de estudiantes que estarán vigentes durante el tiempo que permanezca la emergencia sanitaria por COVID-19.
