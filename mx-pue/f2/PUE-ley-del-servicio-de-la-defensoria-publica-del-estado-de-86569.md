@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-servicio-de-la-defensoria-publica-del-estado-de-86569"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-16"
-last_updated: "2021-03-26"
+last_updated: "2022-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86569&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SERVICIO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2022.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 16 de diciembre de 2011.
 
@@ -123,9 +123,9 @@ V. En materia de adolescentes, a cualquier persona y de manera preferente a quie
 
 VI. En materia laboral, a cualquier persona y de manera preferente a quienes tengan la calidad de trabajador o sus beneficiarios que acrediten que, por razones económicas, no están en condiciones de cubrir los honorarios a un abogado o abogada particular, tengan alguna discapacidad o sean personas adultas mayores.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2022)</small>
 
-En caso de que el usuario perteneciere a un pueblo o comunidad indígena, el Defensor deberá tener conocimiento de su lengua y cultura y, en caso de que no fuere posible, deberá actuar asistido de un intérprete de la cultura y lengua de que se trate.
+En caso de que el usuario perteneciere a un pueblo o comunidad indígena, el Defensor deberá tener conocimiento de su lengua y cultura y, en caso de que no fuere posible, deberá actuar asistido de un intérprete de la cultura y lengua de que se trate; asimismo, si la persona presenta alguna discapacidad auditiva o visual, se asistirá con un intérprete de lengua de señas mexicana, o en su caso solicitará la emisión de documentos en sistema de escritura Braille cuando el Usuario lo requiera, en términos de lo dispuesto en el artículo 11 de la presente ley.
 
 ###### ARTÍCULO 7.
 
@@ -325,11 +325,17 @@ X. Rendir los informes que le requieran sus superiores jerárquicos;
 
 XI. Asistir y acreditar los cursos de actualización y especialización profesional que determine la Defensoría Pública;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2022)</small>
 
-XII. Acreditar las evaluaciones de conocimientos que aplique la Defensoría Pública; y
+XII. Acreditar las evaluaciones de conocimientos que aplique la Defensoría Pública;
 
-XIII. Las demás que le señalen la presente Ley y demás ordenamientos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ABRIL DE 2022)</small>
+
+XIII. Solicitar la designación de un intérprete de lengua de señas mexicanas o la emisión de documentos en sistema de escritura Braille, cuando la persona que requiera la asistencia jurídica tenga alguna discapacidad que impida la comunicación para el desarrollo eficiente de la misma, en términos de lo dispuesto por el artículo 11 de la presente ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE ABRIL DE 2022)</small>
+
+XIV. Las demás que le señalen la presente Ley y demás ordenamientos aplicables.
 
 > <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
@@ -608,3 +614,13 @@ P.O. 26 DE MARZO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 6 Y LAS FRACCIONES XII Y XIII DEL ARTÍCULO 24; Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 24, TODOS DE LA LEY DEL SERVICIO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La implementación de los servicios relacionados con las acciones que se deban llevar a cabo para dar cumplimiento al presente Decreto, se realizará de manera gradual y atendiendo a la suficiencia presupuestaria.
