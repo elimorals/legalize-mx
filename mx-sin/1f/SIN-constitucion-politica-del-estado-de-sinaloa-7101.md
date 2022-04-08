@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2022-01-28"
+last_updated: "2022-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2022.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -77,11 +77,9 @@ Queda prohibida toda discriminación motivada por origen étnico o nacional, el 
 
 Art. 4° Bis A. Las personas son titulares de los siguientes derechos y libertades reconocidos por esta Constitución:
 
-(NOTA: EL 9 DE SEPTIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 106/2018 Y SU ACUMULADA 107/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE SEPTIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2018)</small>
-
-I. Toda persona tiene derecho a que se respete su vida. El Estado tutela el derecho a la vida DESDE EL MOMENTO EN QUE UN INDIVIDUO ES CONCEBIDO, ENTRA BAJO LA PROTECCIÓN DE LA LEY CORRESPONDIENTE, HASTA SU MUERTE, respetando en todo momento la dignidad de las personas.
+I. Toda persona tiene derecho a que se respete su vida. El Estado tutela el derecho a la vida respetando en todo momento la dignidad de las personas.
 
 II. Queda prohibida la pena de muerte y la de prisión perpetua.
 
@@ -4473,7 +4471,7 @@ El Congreso del Estado contará con un plazo de 120 días hábiles siguientes a 
 
 P.O. 13 DE JULIO DE 2020.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 467 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA LOS ARTÍCULOS 4°BIS B, FRACCIONES VI Y IX; 6, FRACCIÓN II; 13 BIS, PÁRRAFO SEGUNDO Y APARTADO B, FRACCIÓN II; 90; 91, PÁRRAFOS PRIMERO Y SEGUNDO; Y 92 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 467 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA LOS ARTÍCULOS 4° BIS B, FRACCIONES VI Y IX; 6, FRACCIÓN II; 13 BIS, PÁRRAFO SEGUNDO Y APARTADO B, FRACCIÓN II; 90; 91, PÁRRAFOS PRIMERO Y SEGUNDO; Y 92 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4590,3 +4588,11 @@ P.O. 28 DE ENERO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 81 DEL H. CONGRESO DEL ESTADO.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 4° BIS A DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA".]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
