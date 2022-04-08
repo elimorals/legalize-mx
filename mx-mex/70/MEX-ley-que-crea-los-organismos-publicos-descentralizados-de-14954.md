@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-los-organismos-publicos-descentralizados-de-14954"
 country: "mx"
 rank: "ley"
 publication_date: "1985-07-16"
-last_updated: "2021-09-03"
+last_updated: "2022-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS, DE ASISTENCIA SOCIAL, DE CARÁCTER MUNICIPAL, DENOMINADOS «SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA» DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE ABRIL DE 2022.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 16 de julio de 1985.
 
@@ -379,11 +379,11 @@ Para su funcionamiento la procuraduría de protección municipal deberá contar 
 
 El Sistema para el Desarrollo Integral de la Familia del Estado de México establecerá los criterios que permitan la operación de las procuradurías de protección municipal a fin de lograr una coordinación y mejor cobertura en el territorio estatal, de conformidad con lo establecido en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de México y su reglamento.
 
-> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
 
 ###### ARTICULO VIGESIMO TER.
 
-El titular de la Procuraduría de Protección Municipal deberá contar con título y cédula profesional de licenciado en derecho con una experiencia mínima de tres años en el ejercicio de su profesión, no haber sido sentenciado por delito doloso y será nombrado por la Junta de Gobierno a propuesta de quien presida el Sistema Municipal para el Desarrollo Integral de la Familia.
+La persona titular de la Procuraduría de Protección Municipal deberá contar con los requisitos establecidos en la Ley de los Derechos de las Niñas, Niños y Adolescentes y con calificación aprobatoria de la evaluación teórico práctica del curso especializado impartido por el Sistema para el Desarrollo Integral de la Familia del Estado de México, así como la certificación de competencia laboral sobre Gestión para la Promoción y Protección de los Derechos de Niñas, Niños y Adolescentes, emitida por el Instituto Hacendario del Estado de México; y será nombrado por la Junta de Gobierno a propuesta de quien presida el Sistema Municipal para el Desarrollo Integral de la Familia.
 
 ### CAPITULO CUARTO. CONTROL Y VIGILANCIA
 
@@ -522,3 +522,17 @@ G.G. 3 DE SEPTIEMBRE DE 2021.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 8 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 46.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, DE LA LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO, Y DE LA LEY QUE CREA LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE CARÁCTER MUNICIPAL, DENOMINADOS “SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Los Sistemas Municipales DIF harán las previsiones presupuestarias necesarias para que las Procuradurías de Protección cuenten con al menos un equipo multidisciplinario y dos abogados independientemente del Procurador.
+
+CUARTO. El requisito referente a la capacitación y aprobación de la evaluación de conocimientos para las personas titulares de las Procuradurías de Protección Municipal dicha capacitación podrá ser solicitada mediante oficio por las o los Presidentes Municipales o las personas titulares de los Sistemas Municipales DIF en funciones, y la o el servidor público deberá solicitar al Instituto Hacendario del Estado de México la evaluación para obtener la certificación de la competencia laboral, teniendo un plazo de seis meses a partir de la publicación del presente decreto.
+
+QUINTO. El Ejecutivo del Estado a través del Sistema para el Desarrollo Integral de la Familia del Estado de México, implementará estrategias de capacitación para brindar el curso especializado, evaluación y en su caso, la certificación de competencia laboral a los servidores públicos que la requieran.
