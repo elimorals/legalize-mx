@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-ley-registral-para-el-estado-de-mexico-85283"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-09"
-last_updated: "2015-08-12"
+last_updated: "2022-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE LA LEY REGISTRAL PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE JULIO DE 2015.
-
-> <small>N. DE E. CONTIENE LAS FE DE ERRATAS PUBLICADAS EN LA GACETA DEL GOBIERNO DE 12 DE AGOSTO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE ABRIL DE 2022.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el lunes 9 de enero de 2012.
 
@@ -517,11 +515,17 @@ IV. Tratándose de actos mediante los cuales se declare, reconozca, adquiera, tr
 
 a) Certificado de libertad o existencia de gravámenes del inmueble sobre el cual se declare, reconozca, adquiera, transmita, modifique, afecte, limite, grave o extinga la propiedad o posesión.
 
-> <small>(REFORMADO, G.G. 6 DE JULIO DE 2015)</small>
+> <small>(ADICIONADO, G.G. 8 DE ABRIL DE 2022)</small>
 
-b) Certificación de clave y valor catastral.
+Tratándose de escrituras públicas, dicho certificado deberá ser presentado con la anotación del aviso preventivo vigente de conformidad con el artículo 8.25 del Código. En caso de haber dado aviso definitivo y ya no estar vigente la anotación preventiva, el Certificado de Libertad o Existencia de Gravámenes se presentará con fecha de expedición no mayor a 180 días naturales previos al día de la solicitud de inscripción.
 
-c) (DEROGADO, G.G. 6 DE JULIO DE 2015) (F. DE E´s., G.G. 12 DE AGOSTO DE 2015)
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+b) Certificación de Clave y Valor Catastral o Constancia de Información Catastral, esta última expedida por el Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México, con valor actualizado al ejercicio fiscal en que sea solicitado el servicio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 8 DE ABRIL DE 2022)</small>
+
+c) Copia de la manifestación del Impuesto sobre Adquisición de Inmuebles y otras Operaciones Traslativas de Dominio de Inmuebles y el recibo de pago correspondiente, autorizado por la autoridad fiscal respectiva.
 
 ###### Artículo 39.
 
@@ -1288,3 +1292,11 @@ PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo establecido por el presente Acuerdo.
+
+G.G. 8 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 38 DEL REGLAMENTO DE LA LEY REGISTRAL PARA EL ESTADO DE ME´XICO”.]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
