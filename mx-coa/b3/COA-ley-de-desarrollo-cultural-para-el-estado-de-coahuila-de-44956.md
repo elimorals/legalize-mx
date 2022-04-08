@@ -4,7 +4,7 @@ identifier: "COA-ley-de-desarrollo-cultural-para-el-estado-de-coahuila-de-44956"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-29"
-last_updated: "2021-01-29"
+last_updated: "2022-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 29 de abril del 2005.
 
@@ -219,9 +219,11 @@ IV. Fomentar la cooperación con las organizaciones culturales privadas existent
 
 LA GARANTÍA DE EXPRESIÓN CULTURAL. El Estado garantizará la libertad de expresión y creación cultural.
 
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2022)</small>
+
 ###### ARTÍCULO 15.
 
-LA GARANTÍA DE LA DISCRIMINACIÓN CULTURAL POSITIVA. Las dependencias y entidades públicas diseñarán e instrumentarán políticas, acciones afirmativas, compensatorias o cualquier otra medida de discriminación cultural positiva que resulte justificada con base empírica, a fin de garantizar efectivamente el derecho a la cultura.
+LA GARANTÍA DE LA NO DISCRIMINACIÓN CULTURAL. Las dependencias y entidades públicas diseñarán e instrumentarán políticas, acciones afirmativas, compensatorias o cualquier otra medida para prevenir todo tipo de discriminación cultural, a fin de garantizar efectivamente el acceso al derecho a la cultura.
 
 ###### ARTÍCULO 16.
 
@@ -1604,3 +1606,9 @@ P.O. 29 DE ENERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 889.- SE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 8° DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 214.- SE REFORMA EL ARTÍCULO 15 DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
