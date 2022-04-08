@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-sistema-estatal-de-proteccion-civil-96256"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-20"
-last_updated: "2021-02-02"
+last_updated: "2022-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2022.
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Puebla, el miércoles 20 de marzo de 2013.
 
@@ -611,7 +611,9 @@ V. Llevar el control y registro de los peritos, instructores independientes, emp
 
 VI. Mantener comunicación constante con sus similares de Protección Civil a nivel Federal, municipal y de otras Entidades Federativas, para la prevención, auxilio y recuperación en emergencias o desastres, informándole al Coordinador de la Unidad Estatal;
 
-VII. Promover la elaboración y aprobar el Programa Interno de Protección Civil, de todos y cada uno de los establecimientos de los sectores público, social y privado de la Entidad, con excepción de las casas habitación unifamiliares;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2022)</small>
+
+VII. Promover la elaboración y aprobar el Programa Interno de Protección Civil, de todos y cada uno de los establecimientos de los sectores público, social y privado de la Entidad, con excepción de las casas habitación unifamiliares, el cual deberá incluir acciones para atender a grupos vulnerables como menores de edad, personas con discapacidad y personas adultas mayores, en caso de emergencia o desastre, y que sea acorde con las características específicas de cada tipo de discapacidad, priorizando la eliminación de barreras físicas en las rutas de evacuación;
 
 VIII. Realizar campañas permanentes de difusión, capacitación, divulgación y realización de simulacros, que fomenten en la población una cultura de protección civil y autoprotección, que le permita salvaguardar su vida, sus posesiones y su medio ambiente, frente a riesgos, emergencias o desastres derivados de fenómenos naturales y humanos;
 
@@ -1852,6 +1854,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 2 DE FEBRERO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LOS ARTÍCULOS 105 BIS Y 105 TER A LA LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 37 DE LA LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
