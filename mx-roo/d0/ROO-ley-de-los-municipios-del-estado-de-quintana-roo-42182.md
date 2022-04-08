@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2021-12-14"
+last_updated: "2022-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2022.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -1009,7 +1009,9 @@ II. De Hacienda, Patrimonio y Cuenta;
 
 III. De Obras y Servicios Públicos;
 
-IV. De Desarrollo Urbano y Transporte;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2022)</small>
+
+IV. De Desarrollo Urbano;
 
 V. De Industria, Comercio y Asuntos Agropecuarios;
 
@@ -1070,6 +1072,10 @@ XIX. De Anticorrupción y Participación Ciudadana.
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 XX. De la Diversidad Sexual.
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2022)</small>
+
+XXI. De movilidad.
 
 ###### ARTÍCULO 73.
 
@@ -3484,3 +3490,13 @@ P.O. 14 DE DICIEMBRE DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 213 POR EL QUE SE REFORMA LA FRACCIÓN IV Y SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 72 DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Los Ayuntamientos realizarán las adecuaciones reglamentarias que correspondan para la atención de la materia de las nuevas denominaciones de las comisiones ordinarias de Desarrollo urbano y de Movilidad.
+
+TERCERO. Se derogan las disposiciones legales que se opongan al presente Decreto.
