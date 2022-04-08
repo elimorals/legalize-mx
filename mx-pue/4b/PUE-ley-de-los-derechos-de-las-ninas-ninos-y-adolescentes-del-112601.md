@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2021-10-28"
+last_updated: "2022-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -861,9 +861,23 @@ V. El trabajo antes de la edad mínima de quince años, prevista en la Constituc
 
 VI. El trabajo en adolescentes mayores de quince años que puedan (sic) perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, el trabajo forzoso o el trabajo en el hogar, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, en la Ley Federal de Trabajo y en las demás disposiciones aplicables.
 
-VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados, violentos o en cualquier otra actividad que impida su desarrollo integral, y
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2022)</small>
 
-VIII. Las autoridades estatales y municipales, están obligadas a implementar medidas especiales para prevenir, sancionar y reparar las conductas previstas en este artículo para niñas, niños y adolescentes con discapacidad.
+VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados, violentos o en cualquier otra actividad que impida su desarrollo integral;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2022)</small>
+
+VIII. Las autoridades estatales y municipales, están obligadas a implementar medidas especiales para prevenir, sancionar y reparar las conductas previstas en este artículo para niñas, niños y adolescentes con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2022)</small>
+
+IX. El castigo corporal y humillante.
+
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de las personas encargadas y el personal de instituciones educativas, deportivas, religiosas, culturales, artísticas, de salud, de asistencia social, y de cualquier otra índole que brinde asistencia a niñas, niños y adolescentes, sin que, en modo alguno, se autorice a estas personas el uso del castigo corporal ni el castigo humillante.
+
+Castigo corporal o físico es todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, ingesta de alimentos hirviendo u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque sea leve.
+
+Castigo humillante es cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, discriminatorio, ridiculizador y de menosprecio, y cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación cometido en contra de niñas, niños y adolescentes.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
@@ -905,7 +919,13 @@ Cuando exista duda o percepción si una niña, niño o adolescente es persona co
 
 Las instalaciones que ofrezcan trámites y servicios a niñas, niños y adolescentes con discapacidad, además del diseño universal de accesibilidad, deberán estar dotadas de señalización en Sistema Braille y formatos accesibles de fácil lectura y comprensión, asimismo, procurarán ofrecer otras medidas de asistencia, e intermediarios.
 
-No se podrá negar o restringir la inclusión de niñas, niños y adolescentes con discapacidad, el derecho a la educación, ni su participación en actividades recreativas, deportivas, lúdicas o culturales en instituciones públicas, privadas y sociales.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2022)</small>
+
+No se podrá negar o restringir la inclusión de niñas, niños y adolescentes con discapacidad, el derecho a la educación en el sistema educativo estatal, por lo que la educación especial únicamente se ocupará como medio de apoyo, de acuerdo con sus necesidades particulares, ni su participación en actividades recreativas, deportivas, lúdicas o culturales en instituciones públicas, privadas y sociales.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2022)</small>
+
+El Gobierno del Estado y el Congreso del Estado deberán proveer de recursos al Sistema Educativo Estatal, conforme a la suficiencia presupuestaria, a fin de cumplir lo establecido en el párrafo anterior.
 
 ###### ARTÍCULO 67.
 
@@ -2136,6 +2156,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 28 DE OCTUBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 48 Y LA FRACCIÓN VII DEL ARTÍCULO 98 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTE (SIC) DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMA LAS FRACCIONES VII Y VIII DEL ARTÍCULO 62; Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 62, TODOS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 66; Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 66, TODOS, DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
