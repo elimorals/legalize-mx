@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107687"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2021-09-06"
+last_updated: "2022-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE ABRIL DE 2022.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 7 de mayo de 2015.
 
@@ -1555,6 +1555,10 @@ II. Prestar asesoría y representación en suplencia a niñas, niños y adolesce
 
 III. Establecer las bases para el desarrollo de la metodología para detectar los casos en los que se vulneren los derechos de niñas, niños y adolescentes y diagnosticar su situación, con lo cual se elaborará un plan de restitución.
 
+> <small>(ADICIONADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+Las autoridades estatales y municipales deberán cumplir las medidas y acciones plasmadas en los Planes de Restitución, que sean necesarias para la restitución integral de los derechos de niñas, niños y adolescentes.
+
 IV. Coordinar la ejecución y dar seguimiento a las medidas de protección y al plan de restitución integral de los derechos de niñas, niños y adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada.
 
 V. Fungir como conciliador y mediador en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones jurídicas aplicables. La conciliación no procederá en casos de violencia.
@@ -1661,27 +1665,69 @@ V. Actuar coordinadamente con otras instituciones para dar cumplimiento al plan 
 
 VI. Dar seguimiento a las acciones del plan de restitución de derechos, hasta cerciorarse que se encuentren garantizados.
 
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+
 ###### Artículo 94.
 
-La Procuraduría Estatal de Protección contará con representaciones regionales y coordinará a las procuradurías municipales a efecto de lograr la mayor presencia y cobertura posible en los municipios.
+La Procuraduría de Protección contará con representaciones regionales y coordinará las operaciones de las Procuradurías de protección municipales, las cuales fungirán como autoridades de primer contacto en términos del artículo 11 de la presente Ley y de las disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO, G.G. 7 DE JUNIO DE 2018)</small>
+La Procuraduría de Protección será el enlace entre las Procuradurías de Protección Municipal y las instancias locales y federales competentes a efecto de lograr la mayor protección de los derechos de la infancia.
+
+Las Procuradurías de Protección Municipal podrán ejercer directamente las atribuciones previstas en las fracciones I, II, V, VIII, IX, XII párrafo primero, XV, del artículo 90 de esta Ley, siempre y cuando se encuentren debidamente conformadas en los términos de los artículos 94 Bis y 94 Ter de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE ABRIL DE 2022)</small>
 
 ###### Artículo 94 Bis.
 
-Los requisitos para ser nombrado titular de las Procuradurías de Protección Estatal y/o Municipal de Protección de Niñas, Niños y Adolescentes, son los siguientes:
+Los requisitos para ser nombrado titular de las Procuradurías de Protección Estatal y/o Municipales de Protección de Niñas, Niños y Adolescentes, son los siguientes:
+
+> <small>(ADICIONADA, G.G. 7 DE JUNIO DE 2018)</small>
 
 I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
 
+> <small>(ADICIONADA, G.G. 7 DE JUNIO DE 2018)</small>
+
 II. Tener más de 30 años de edad;
+
+> <small>(ADICIONADA, G.G. 7 DE JUNIO DE 2018)</small>
 
 III. Contar con título profesional de licenciatura en derecho o equivalente, debidamente registrado;
 
+> <small>(ADICIONADA, G.G. 7 DE JUNIO DE 2018)</small>
+
 IV. Contar con al menos cinco años de experiencia en el ejercicio de la licenciatura en derecho o equivalente;
+
+> <small>(ADICIONADA, G.G. 7 DE JUNIO DE 2018)</small>
 
 V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
 
+> <small>(ADICIONADA, G.G. 7 DE JUNIO DE 2018)</small>
+
 VI. Acreditar experiencia en temas de derechos de la niñez, adolescencia o la familia, con al menos de dos años.
+
+> <small>(ADICIONADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+VII. No estar condenada o condenado por sentencia ejecutoriada por el delito de violencia política contra las mujeres en razón de género;
+
+> <small>(ADICIONADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+VIII. No estar inscrita o inscrito en el Registro de Deudores Alimentarios Morosos en el Estado, ni en otra entidad federativa, y
+
+> <small>(ADICIONADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+IX. No estar condenada o condenado por sentencia ejecutoriada por delitos de violencia familiar, contra la libertad sexual o de violencia de género.
+
+> <small>(ADICIONADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+Además de los anteriores, para el caso de personas titulares de las Procuradurías de Protección Municipal, se deberá aprobar la evaluación de conocimientos, previo curso de capacitación que realizará el DIFEM y la Certificación de competencia laboral sobre Gestión para la Promoción y Protección de los Derechos de Niñas, Niños y Adolescentes, emitida por el Instituto Hacendario del Estado de México, lo cual se podrá acreditar antes de su designación y hasta 30 días hábiles posteriores a la misma, a fin de asegurar los conocimientos y habilidades para ocupar el cargo.
+
+> <small>(ADICIONADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+###### Artículo 94 Ter.
+
+Las Procuradurías de Protección Municipal de Niñas, Niños y Adolescentes deberán contar con al menos un equipo multidisciplinario compuesto por un profesionista del Derecho, Psicología, Trabajo Social y Medicina, con título y cédula profesional.
+
+Además, deberá contar con profesionistas del Derecho y Psicología que puedan intervenir como representantes suplentes y coadyuvantes en los procedimientos administrativos y jurisdiccionales, según corresponda, en los que participen niñas, niños y adolescentes, en materias civil, penal y familiar.
 
 ### Capítulo Tercero. Del Sistema Estatal de Protección Integral
 
@@ -2210,3 +2256,17 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. La Legislatura preverá durante cada ejercicio fiscal, los recursos presupuestales necesarios para la aplicación del presente Decreto y sus disposiciones derivadas o reglamentarias, estableciendo una partida presupuestal específica para la atención integral de la niñez migrante, la habilitación de espacios de alojamiento y su transporte.
+
+G.G. 8 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 46.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, DE LA LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO, Y DE LA LEY QUE CREA LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE CARÁCTER MUNICIPAL, DENOMINADOS “SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Los Sistemas Municipales DIF harán las previsiones presupuestarias necesarias para que las Procuradurías de Protección cuenten con al menos un equipo multidisciplinario y dos abogados independientemente del Procurador.
+
+CUARTO. El requisito referente a la capacitación y aprobación de la evaluación de conocimientos para las personas titulares de las Procuradurías de Protección Municipal dicha capacitación podrá ser solicitada mediante oficio por las o los Presidentes Municipales o las personas titulares de los Sistemas Municipales DIF en funciones, y la o el servidor público deberá solicitar al Instituto Hacendario del Estado de México la evaluación para obtener la certificación de la competencia laboral, teniendo un plazo de seis meses a partir de la publicación del presente decreto.
+
+QUINTO. El Ejecutivo del Estado a través del Sistema para el Desarrollo Integral de la Familia del Estado de México, implementará estrategias de capacitación para brindar el curso especializado, evaluación y en su caso, la certificación de competencia laboral a los servidores públicos que la requieran.
