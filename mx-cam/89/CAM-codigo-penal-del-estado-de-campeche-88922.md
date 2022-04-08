@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2021-10-22"
+last_updated: "2022-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -2061,11 +2061,11 @@ XVI. Cuando recaiga sobre embarcaciones, motores o redes, destinados a la activi
 
 XVII. Cuando se empleen llaves falsas, ganzúas, alambres, artificios o cualquier equipo para abrir puertas o ventanas; así como si se emplean conocimientos, técnicas, métodos, herramientas, maquinaria o equipo de los utilizados en cerrajería para abrir cualquier tipo de cerradura, candado o dispositivo de seguridad, o cuando mediante engaño se consiga que otra persona realice alguno de los supuestos señalados en esta fracción
 
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2022)</small>
 
 ###### Artículo 194.
 
-La sanción que conforme a este Código deba imponerse por la comisión del delito de robo simple, se aumentará de uno a cinco años de prisión cuando se cometa en edificio, vivienda, aposento o cuarto que estén habitados o inhabitados pero destinados para habitación o en lugar cerrado, así como en aquellos lugares o establecimientos destinados a actividades comerciales. Comprende esta denominación no sólo los que estén fijos en la tierra, sino también los movibles, sea cual fuere la materia de que estén construidos. En los mismos términos se sancionará al que se apodere de un vehículo estacionado y no ocupado por persona alguna.
+La sanción que conforme a este Código deba imponerse por la comisión del delito de robo simple, se aumentará de uno a cinco años de prisión cuando se cometa en edificio, vivienda, aposento o cuarto que estén habitados o inhabitados pero destinados para habitación o en lugar cerrado, así como en aquellos lugares o establecimientos destinados a actividades comerciales. Comprende esta denominación no sólo los que estén fijos en la tierra, sino también los movibles, sea cual fuere la materia de que estén construidos. En los mismos términos se sancionará al que se apodere de un vehículo estacionado y no ocupado por persona alguna, así como a quien sustraiga de instituciones públicas o privadas destinadas a prestar los servicios de salud, cualquier tipo de insumos médicos, ya sean materiales médicos o medicamentos.
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
@@ -4712,3 +4712,11 @@ PRIMERO.- El presente decreto entrará en vigor quince días después de su publ
 SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 8 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 45 POR EL QUE “SE REFORMA EL ARTÍCULO 194 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+Primero. El presente decreto entrará en vigor a los quince días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
