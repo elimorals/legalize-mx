@@ -4,7 +4,7 @@ identifier: "REG_SENADO"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-04"
-last_updated: "2021-03-30"
+last_updated: "2022-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75171&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "REG_SENADO"
 
 REGLAMENTO DEL SENADO DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE ABRIL DE 2022.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 4 de junio de 2010.
 
@@ -1864,9 +1864,9 @@ I. Encabezado o título, con el señalamiento preciso del o de los ordenamientos
 
 II. Fundamento legal;
 
-> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2022)</small>
 
-III. Exposición de motivos, con las razones que la sustentan, el alcance y competencia constitucional para legislar sobre la materia, así como la descripción del proyecto;
+III. Exposición de motivos, con las razones que la sustentan, el alcance y competencia constitucional para legislar sobre la materia, así como la descripción del proyecto y, en su caso, la relación directa o indirecta con alguno de los objetivos de desarrollo sostenible de la Agenda 2030 para el Desarrollo Sostenible de la Organización de las Naciones Unidas;
 
 > <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -2070,9 +2070,9 @@ V. Objeto y descripción de la iniciativa o proyecto;
 
 VI. Método de trabajo, análisis, discusión y valoración de las propuestas;
 
-> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2022)</small>
 
-VII. Consideraciones de orden general y específico que motivan el sentido del dictamen, comprendiendo su denominación, naturaleza y ámbito de aplicación y, de ser procedentes, las modificaciones realizadas;
+VII. Consideraciones de orden general y específico que motivan el sentido del dictamen, comprendiendo su denominación, naturaleza, ámbito de aplicación, así como, en su caso, la relación directa o indirecta con alguno de los objetivos de desarrollo sostenible de la Agenda 2030 para el Desarrollo Sostenible de la Organización de las Naciones Unidas y, de ser procedentes, las modificaciones realizadas;
 
 VIII. En su caso, texto normativo y régimen transitorio del ordenamiento de que se trata;
 
@@ -3491,3 +3491,9 @@ D.O.F. 30 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE CREA EL PREMIO AL MÉRITO LITERARIO "ROSARIO CASTELLANOS" Y SE ADICIONA UNA FRACCIÓN VII AL NUMERAL 1 DEL ARTÍCULO 56 Y UN ARTÍCULO 56 QUATER AL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 169 Y 190 DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
