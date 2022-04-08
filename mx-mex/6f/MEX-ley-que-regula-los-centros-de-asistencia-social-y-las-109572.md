@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-regula-los-centros-de-asistencia-social-y-las-109572"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-20"
-last_updated: "2018-06-07"
+last_updated: "2022-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109572&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE ABRIL DE 2022.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el jueves 20 de agosto de 2015.
 
@@ -107,6 +107,10 @@ V. Centro de asistencia social: Al establecimiento para el cuidado alternativo o
 
 VI. Certificado de idoneidad: Al documento emitido por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México, por el que se determina que el solicitante es apto para adoptar a una niña, niño o adolescente determinado.
 
+> <small>(ADICIONADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+VI Bis. Comité Interinstitucional: Al Comité Interinstitucional de Niñas, Niños y Adolescentes en acogimiento residencial;
+
 VII. DIFEM: Al Sistema para el Desarrollo Integral de la Familia del Estado de México.
 
 VIII. Expósito: Al recién nacido que es colocado en una situación de desamparo por quienes, conforme a la Ley, están obligados a su custodia, protección y cuidado, y de quien no es posible determinar su origen.
@@ -125,9 +129,13 @@ XI. Familia de origen: A la familia compuesta por los titulares de la patria pot
 
 XII. Familia Extensa: Aquella compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado. y los colaterales hasta el cuarto grado:
 
-XIII. Junta multidisciplinaria: A la Junta Multidisciplinaria del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+XIII. (DEROGADA, G.G. 8 DE ABRIL DE 2022)
 
 XIV. Institución acreditada: A la Institución de Asistencia Privada autorizada por el DIFEM, para la operación de Centros de Asistencia Social, que dentro de su objeto social prevé la atención de niñas, niños y adolescentes para procurar su legal adopción.
+
+> <small>(ADICIONADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+XIV Bis. Lineamientos: A los Lineamientos para la Autorización, Registro, Certificación y Supervisión de los Centros de Asistencia Social;
 
 XV. Niña, niño o adolescente albergado: A la niña, niño o adolescente que se encuentra en un centro de asistencia social por alguna situación de desamparo familiar o abandono.
 
@@ -307,6 +315,10 @@ IV. Nombramiento del Titular del Centro de Asistencia Social emitido por la auto
 
 V. Contar con el Certificado de no antecedentes penales expedido por la Procuraduría General de Justicia del Estado de México del Titular del Centro de Asistencia Social, así como de todos los servidores públicos que laboren en el mismo.
 
+> <small>(ADICIONADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+VI. Los demás que se establezcan en los lineamientos y las disposiciones jurídicas aplicables.
+
 ### Capítulo II. De la autorización
 
 ###### Artículo 11.
@@ -332,6 +344,10 @@ VI. Documento de no antecedentes penales expedido por la Procuraduría General d
 VII. El Programa Interno de Protección Civil.
 
 VIII. Copia de su Reglamento Interior y de su modelo de atención.
+
+> <small>(ADICIONADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+IX. Los demás que se señalen en los Lineamientos.
 
 > <small>(ADICIONADO, G.G. 7 DE JUNIO DE 2018)</small>
 
@@ -457,6 +473,12 @@ III. Relación del personal que labora en el Centro de Asistencia Social, incluy
 
 El registro a que hace referencia este artículo deberá ser público y consultable en la página de internet del DIFEM, con excepción de la información a que se refiere la fracción II del presente artículo.
 
+> <small>(ADICIONADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+###### Artículo 19 Bis.
+
+Una vez autorizado por la Procuraduría de Protección y registrado, el Centro de Asistencia Social Público o Privado podrá solicitar llevar a cabo el proceso de adopción.
+
 ## TÍTULO TERCERO. PROCEDIMIENTOS PARA LA REINTEGRACIÓN DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
 
 ### Capítulo I. Generalidades para la reintegración de niñas, niños y adolescentes
@@ -497,25 +519,39 @@ De no resultar procedente la reintegración lo informará al DIFEM, debiendo rem
 
 Concluido ese plazo, la niña, niño o adolescente debe de entregarse a la persona o personas con las que se encontrará. En caso de que se haya reintegrado con algún integrante de su familia de origen o extensa, procederán ya solo los seguimientos correspondientes. Si no fuera así, se iniciarán las convivencias con la familia de acogimiento que corresponda, para continuar, en su caso, con la adopción.
 
+> <small>(ADICIONADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+###### Artículo 24 Bis.
+
+Tratándose de niñas, niños y adolescentes migrantes extranjeros se aplicará la legislación correspondiente a la materia y lo dispuesto en el Capítulo V del presente Título.
+
 ### Capítulo II. De los expósitos
 
 ###### Artículo 25.
 
 Toda persona que encuentre a un expósito deberá presentarlo de forma inmediata ante el Ministerio Público o, en su defecto, con cualquier autoridad de seguridad pública, con los vestidos, documentos o cualquier otro objeto encontrado que pudiera conducir a su posterior identificación, y declarará la fecha, hora y lugar donde lo hubiere hallado, así como las demás circunstancias que hayan concurrido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE ABRIL DE 2022)</small>
+
 ###### Artículo 26.
 
-El Ministerio Público canalizará al expósito de forma inmediata al DIFEM, mismo que de considerarlo oportuno, podrá enviarlos a los DIF municipales o instituciones acreditadas que cuenten con Centros de Asistencia Social acreditados por el mismo, presentando:
+El Ministerio Público atendiendo al interés superior de las niñas, niños y adolescentes canalizará al expósito de forma inmediata al DIFEM o a los Centros de Asistencia Social acreditados, a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes, presentando:
 
 I. Oficio de canalización para su guarda y cuidado.
 
 II. Certificado médico.
 
-Corresponde al Ministerio Público realizar las investigaciones necesarias respecto al expósito que sea puesto a su disposición, la cual deberá realizarse en un plazo que no exceda de cuarenta y ocho horas.
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
 
-Si durante la investigación comparece persona alguna deduciendo derecho en favor del expósito y se determina procedente la reintegración, se ordenará al DIFEM el cumplimiento de la misma, quien remitirá las constancias que así lo acrediten.
+Corresponde al Ministerio Público realizar las investigaciones necesarias respecto al expósito que sea puesto a su disposición, la cual deberá realizarse en un plazo que no exceda de 30 días hábiles.
 
-De no existir persona alguna que deduzca derecho en favor del expósito, se informará al DIFEM, debiendo remitir copia certificada de la carpeta de investigación, adquiriendo el DIFEM la tutela, guarda y custodia del expósito, a fin de que se inicie de manera inmediata el procedimiento de adopción.
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+Si durante la investigación comparece persona alguna deduciendo derecho en favor del expósito y se determina procedente la reintegración, se ordenará al DIFEM o a los Centros de Asistencia Social acreditados el cumplimiento de la misma, quienes remitirán las constancias que así lo acrediten.
+
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+De no existir persona alguna que deduzca derecho en favor del expósito, se informará a la Procuraduría de Protección de Niñas, Niños y Adolescentes o a quién ejerza su representación, debiendo remitir copia certificada de la carpeta de investigación y valoraciones del equipo multidisciplinario en su caso, para los correspondientes procedimientos de tutela, guarda y custodia del expósito, a fin de que se inicie de manera inmediata el procedimiento de adopción.
 
 ###### Artículo 27.
 
@@ -527,15 +563,25 @@ En el acta del Registro Civil que se levante se expresará la edad aparente y el
 
 ### Capítulo III. De los entregados voluntariamente por los padres biológicos
 
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+
 ###### Artículo 29.
 
-La madre y el padre, o cualquiera de ellos que deseen entregar a su hija o hijo, deberán acudir con identificación oficial para tal efecto ante el DIFEM, los sistemas municipales DIF o los Centros de Asistencia Social de las instituciones acreditadas.
+La madre y el padre, o cualquiera de ellos que deseen entregar a su hija o hijo, deberán acudir con identificación oficial para tal efecto ante el DIFEM, a través de la Procuraduría de Protección o Instituciones Acreditadas.
 
-Tratándose de entregas voluntarias realizadas a las instituciones acreditadas, estás informarán al DIFEM dentro de un plazo no mayor a cuarenta y ocho horas con las circunstancias particulares.
+Tratándose de entregas voluntarias realizadas a las instituciones acreditadas o Centros de Asistencia Social con equipos multidisciplinarios autorizados, estás lo informarán al DIFEM a través de la Procuraduría de Protección dentro de un plazo no mayor a cuarenta y ocho horas con las circunstancias particulares, asumiendo desde el momento de su entrega la facultad para realizar cualquier trámite y/o procedimiento judicial tendiente a garantizar y procurar los derechos de los (sic) niñas, niños y adolescentes y su derecho a la familia.
 
 ###### Artículo 30.
 
 Para la entrega voluntaria, los padres biológicos deberán adjuntar el acta de nacimiento o certificado único de nacimiento para comprobar la filiación, a falta de esos documentos deberá darse vista al Ministerio Público.
+
+> <small>(ADICIONADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+En caso de que alguno de los progenitores sea una persona menor de edad, se deberá valorar su situación física, legal y emocional, así como las condiciones y opiniones de la madre o padre adolescente, si se conoce su paradero, y de quienes ejerzan la patria potestad sobre los mismos, de manera orientadora.
+
+> <small>(ADICIONADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+La entrega se realizará a favor del DIFEM a través de la Procuraduría de Protección, Institución acreditada o Centro de Asistencia Social con equipo multidisciplinario autorizado para ello, atendiendo al principio de autonomía progresiva y el interés superior de la niñez, tanto de la madre o padre adolescente como de su hija o hijo.
 
 ###### Artículo 31.
 
@@ -543,9 +589,11 @@ El DIFEM, los sistemas municipales DIF o las instituciones acreditadas que cuent
 
 Tratándose de los Centros de Asistencia Social de las instituciones acreditadas, deberán demostrar fehacientemente tanto al DIFEM como a la autoridad jurisdiccional que la madre, el padre o cualquiera de ellos que hiciera la entrega, tienen pleno conocimiento de las consecuencias y efectos de la misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE ABRIL DE 2022)</small>
+
 ###### Artículo 32.
 
-El DIFEM, los sistemas municipales DIF o las instituciones acreditadas que cuenten con Centros de Asistencia Social, desde el momento de su entrega, asumirán los cuidados y atenciones a fin de garantizar y preservar los derechos de niñas, niños y adolescentes.
+Los Centros de Asistencia Social, desde el momento de su entrega, asumirán la facultad para realizar cualquier trámite y/o procedimiento judicial con la Procuraduría de Protección de Niñas, Niños y Adolescentes que tenga a cargo su representación, así como los cuidados y atenciones a fin de garantizar y preservar los derechos de niñas, niños y adolescentes.
 
 En el caso de niñas, niños o adolescentes presentados para entrega, que se encontraban viviendo en un núcleo familiar, se buscará la reintegración con la familia de origen o extensa, según corresponda, mediante el acogimiento familiar en un plazo no mayor a diez días hábiles. En caso que por alguna circunstancia esto sea contrario al interés superior de las niñas, niños o adolescentes, se buscará la integración a una familia en acogimiento mientras se resuelve su situación en los términos de la presente Ley.
 
@@ -569,9 +617,11 @@ En caso de encontrarse alguna de las circunstancias descritas con anterioridad, 
 
 En caso de detectarse que son víctimas de un delito, el DIFEM o el DIF municipal, correspondiente lo harán del conocimiento al Ministerio Público.
 
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+
 ###### Artículo 35.
 
-El DIFEM desde el inicio del procedimiento podrá asumir el cuidado y atención de la niña o niño con la finalidad de entregarla o entregarlo en adopción, atendiendo su interés superior, siempre y cuando no esté ya viviendo con alguna persona o personas. En este último caso, el DIFEM llevará a cabo las valoraciones conducentes, debiendo permanecer la niña, niño o adolescente con la persona o personas con las que se encuentra ya viviendo.
+Los Centros de Asistencia Social con equipos multidisciplinarios autorizados, desde el inicio del procedimiento podrán asumir el cuidado y atención de la niña, niño y adolescente con la finalidad de entregarla o entregarlo en adopción, atendiendo su interés superior, siempre y cuando no esté ya viviendo con alguna persona o personas. En este último caso, los Centros de Asistencia Social con equipos multidisciplinarios autorizados llevarán a cabo las valoraciones conducentes, debiendo permanecer la niña, niño o adolescente con la persona o personas con las que se encuentra ya viviendo.
 
 ###### Artículo 36.
 
@@ -597,7 +647,9 @@ IV. Dar seguimiento a la reintegración por un periodo de tres meses, que podrá
 
 El trámite para la reintegración de una niña, niño o adolescente inicia con la localización de algún integrante de la familia de origen, extensa o alguna otra persona, que sin tener parentesco, demuestre haberse hecho cargo del cuidado y atención de la niña, niño o adolescente y que desee integrarle a su núcleo familiar, mediante la solicitud escrita que al efecto realice.
 
-El DIFEM y los Sistemas Municipales DIF proporcionarán asesoría jurídica a las personas interesadas en reintegrar a la niña, niño o adolescente y realizará las valoraciones correspondientes con el propósito de determinar su viabilidad, en cuyo caso se dará vista a la Junta Multidisciplinaria para los efectos correspondientes.
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+El DIFEM y los Sistemas Municipales DIF a través de las Procuradurías de Protección de Niñas, Niños y Adolescentes proporcionarán asesoría jurídica a las personas interesadas en reintegrar a la niña, niño o adolescente y realizará las valoraciones correspondientes con el propósito de determinar su viabilidad, en cuyo caso se dará vista al Comité interinstitucional para los efectos correspondientes.
 
 Las valoraciones tienen por objeto examinar al o los interesados en los aspectos inherentes a cada materia. La etapa de valoraciones no deberá exceder de diez días hábiles y deberá de contemplar su realización a todos los miembros que habiten el domicilio donde se pretende reintegrar a la niña, niño o adolescente.
 
@@ -605,7 +657,9 @@ Las valoraciones tienen por objeto examinar al o los interesados en los aspectos
 
 El integrante de la familia de origen o extensa que desee reintegrar a la niña, niño o adolescente a su núcleo familiar deberá acudir al DIFEM, a los sistemas municipales DIF o a los Centros de Asistencia Social, según corresponda, a realizar dicha manifestación en un plazo no mayor a diez días hábiles, contados a partir del ingreso de la niña, niño o adolescente al Centro de Asistencia Social correspondiente.
 
-El DIFEM, deberá dar aviso de forma inmediata al Sistema Local de Protección, al Sistema Nacional de Protección Integral a fin de que a través del Sistema local y nacional de Información se determine si se trata de alguna niña, niño o adolescente relacionado a alguna búsqueda.
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+Las Procuradurías de Protección de Niñas, Niños y Adolescentes deberán dar aviso de forma inmediata al Sistema Local de Protección, al Sistema Nacional de Protección Integral a fin de que a través del Sistema local y nacional de Información se determine si se trata de alguna niña, niño o adolescente relacionado a alguna búsqueda.
 
 Transcurrido dicho plazo sin que algún integrante de la familia de origen o extensa manifieste su interés respecto de la reintegración, el DIFEM, los Sistemas Estatales DIF o los Centros de Asistencia Social estarán facultados de iniciar el proceso de acogimiento, o acogimiento pre adoptivo o el acogimiento residencial según sea cada caso.
 
@@ -639,17 +693,21 @@ III. Estado Civil.
 
 IV. Parentesco con la niña, niño o adolescente, en su caso.
 
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+
 ###### Artículo 42.
 
-Transcurridos los plazos señalados tanto para el DIFEM como para el Ministerio Público, sin que haya sido declarada procedente la reintegración en caso de haberse solicitado o que los familiares no se hayan presentado oportunamente, se considerará a la niña, niño o adolescente en estado de abandono, con lo cual el DIFEM promoverá, en un plazo no mayor a cinco días naturales, ante el órgano jurisdiccional, la demanda de conclusión de la patria potestad y emitirá el Informe de Adoptabilidad.
+Transcurridos los plazos señalados, sin que haya sido declarada procedente la reintegración en caso de haberse solicitado o que los familiares no se hayan presentado oportunamente, se considerará a la niña, niño o adolescente en estado de abandono, con lo cual se promoverán, en un plazo no mayor a cinco días naturales, ante el órgano jurisdiccional, la demanda de conclusión de la patria potestad. Concluido el procedimiento, el DIFEM a través de la Procuraduría de Protección emitirá, a solicitud de la institución pública o privada en un plazo no mayor a veinte días naturales el Informe de Adoptabilidad, previa entrega de toda la información requerida para tal efecto.
 
 ###### Artículo 43.
 
 De existir dos o más alternativas con o sin parentesco, el DIFEM, o los sistemas municipales DIF, según corresponda, realizarán las respectivas valoraciones de modo paralelo, a efecto de determinar la viabilidad de reintegración y la opción que, en su caso, satisfaga su interés superior de niñas, niños y adolescentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE ABRIL DE 2022)</small>
+
 ###### Artículo 44.
 
-Concluida la etapa de valoraciones, se determinará la reintegración mediante un Acta de Reintegración, aprobada en la sesión inmediata de la Junta Multidisciplinaria y en la que, atendiendo al caso, se establezca un plazo para realizar el seguimiento.
+Concluida la etapa de valoraciones, se determinará la reintegración mediante un Acta de Reintegración, aprobada en la sesión inmediata del Comité Interinstitucional y en la que, atendiendo al caso, se establezca un plazo para realizar el seguimiento.
 
 Cuando derivado del seguimiento se verifique cualquier tipo de violación a los derechos de las niñas, niños y adolescentes, el DIFEM revocará el Acta de Reintegración y ejercerá las facultades que le otorga la presente Ley y demás disposiciones jurídicas aplicables.
 
@@ -727,9 +785,13 @@ I. Copia de identificación oficial vigente y original para su cotejo.
 
 II. Carta responsiva debidamente requisitada.
 
-III. Opinión favorable del área de psicología del DIFEM.
+> <small>(REFORMADA, G.G. 8 DE ABRIL DE 2022)</small>
 
-Reunidos estos requisitos, el DIFEM podrá autorizar, la convivencia respectiva.
+III. Opinión favorable del área de psicología del Centro de Asistencia Social acreditado.
+
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+Reunidos estos requisitos, los Centros de Asistencia Social acreditados podrán dentro de quince días naturales autorizar la convivencia respectiva.
 
 ## TÍTULO CUARTO. DE LA ADOPCIÓN
 
@@ -759,7 +821,9 @@ I. Que tiene más de diez años que el adoptado.
 
 II. Tener medios para proveer los alimentos del adoptado
 
-III. Que cuenta con el Certificado de Idoneidad, con base en los estudios médico, psicológico, de trabajo social y socioeconómico.
+> <small>(REFORMADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+III. Que cuenta con el oficio de viabilidad, con base en los estudios médico, psicológico, de trabajo social y socioeconómico, para expedir el Certificado de Idoneidad.
 
 ###### Artículo 58.
 
@@ -777,9 +841,13 @@ I. Las niñas, niños y adolescentes abandonados, expósitos o huérfanos, o que
 
 II. Las niñas, niños o adolescentes que han sido entregados voluntariamente para su adopción a centros de asistencia social legalmente acreditados según las disposiciones de la presente Ley.
 
-III. Para efectos de adopción, los centros de asistencia social privados deberán informar al DIFEM del inicio del procedimiento, a fin de manifestar, en su caso, lo que a su derecho e interés convenga como tutor de las niñas, niños y adolescentes.
+> <small>(REFORMADA, G.G. 8 DE ABRIL DE 2022)</small>
 
-IV. La mujer que solicitó mantener en secreto su identidad en el momento del parto y la reserva sobre el nacimiento deberá entregar inmediatamente a la niña o niño al DIFEM, para efectos de iniciar el proceso correspondiente.
+III. Para efectos de adopción, los Centros de Asistencia Social privados deberán informar al DIFEM, a través de la Procuraduría de Protección del inicio del procedimiento.
+
+> <small>(REFORMADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+IV. La mujer que solicitó mantener en secreto su identidad en el momento del parto y la reserva sobre el nacimiento deberá entregar inmediatamente a la niña o niño al DIFEM o los Centros de Asistencia Social acreditados, para efectos de iniciar el proceso correspondiente.
 
 V. Aquellos cuya tutela legal haya sido conferida a las instituciones descritas en la fracción anterior por resolución judicial.
 
@@ -787,9 +855,11 @@ VI. Aquellos sobre los que no existe quién ejerza la patria potestad o existien
 
 VII. Los hijos del cónyuge o concubino.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE ABRIL DE 2022)</small>
+
 ###### Artículo 61.
 
-Cuando se trate de un grupo de hermanos, el DIFEM, a través de la Junta Multidisciplinaria, determinará si es conveniente dar en adopción a alguno por separado, procurando siempre que la separación signifique salvaguardar el bien superior de los hermanos, para lo cual, deberá tomar en cuenta, por lo menos los siguientes supuestos:
+Cuando se trate de un grupo de hermanos, el Comité Interinstitucional determinará si es conveniente dar en adopción a alguno por separado, procurando siempre que la separación signifique salvaguardar el bien superior de los hermanos, para lo cual, deberá tomar en cuenta, por lo menos los siguientes supuestos:
 
 I. Que por el número de hermanos no sea factible su adopción por el mismo adoptante.
 
@@ -803,11 +873,15 @@ En la adopción deben consentir, en sus respectivos casos:
 
 I. El que ejerce la patria potestad sobre la niña, niño o adolescente que se pretende adoptar, salvo que se trate de abandonados, expósitos o entregados a Centros de Asistencia Social legalmente acreditados.
 
-Las niñas, niños y adolescentes entregados a Centros de Asistencia Social de carácter privado solo podrán ser adoptados, previo consentimiento del DIFEM.
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
 
-II. El DIFEM o los Sistemas Municipales DIF que cuenten con centros de asistencia social, cuando se trate de un abandonado, expósito o entregado a alguna institución pública o privada, quien ejercerá la tutela legítima desde el momento que se realice la entrega, sin perjuicio de otorgar la guarda y custodia al Centro de Asistencia o institución acreditada que recibió a la niña, niño y adolescente.
+Las niñas, niños y adolescentes entregados a Centros de Asistencia Social de carácter privado solo podrán ser adoptados, previo cumplimiento de los requisitos señalados en esta Ley.
 
-III. Los Centros de Asistencia y/o las Instituciones acreditadas que tengan la guarda y cuidado de la niña, niño o adolescente que se pretende adoptar.
+> <small>(REFORMADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+II. Los Centros de Asistencia Social con equipo multidisciplinario autorizado para tal efecto.
+
+III. (DEROGADA, G.G. 8 DE ABRIL DE 2022)
 
 IV. El tutor de quien se va a adoptar.
 
@@ -847,19 +921,45 @@ IX. Coadyuvar en la resolución de la situación jurídica de niñas, niños y a
 
 X. Autorizar a los profesionistas de psicología, trabajo social y médico de las Instituciones acreditadas para que realicen las valoraciones correspondientes para incluirlas en la solicitud que se presenta al DIFEM a efecto de emitir en su caso el oficio de viabilidad.
 
+> <small>(ADICIONADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+XI. Atender las solicitudes de información y documentación formuladas, por el Comité Interinstitucional, dentro del plazo de 5 días hábiles, contados a partir de la fecha de la solicitud.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE ABRIL DE 2022)</small>
+
 ###### Artículo 64.
 
-Corresponde al DIFEM y en su caso a los Sistemas Municipales o instituciones acreditadas que cuenten con Centros de Asistencia Social:
+Corresponde a los Centros de Asistencia Social con equipo multidisciplinario autorizado y en su caso en coadyuvancia con las Procuradurías de Protección de Niñas, Niños y Adolescentes Estatal o Municipales:
 
-I. Promover, en vía judicial, la entrega de las niñas, niños y adolescentes, nombramiento de tutor, conclusión de patria potestad y/o pérdida de patria potestad, según sea el caso, ante el Juez Familiar de Primera Instancia y coadyuvar con este para la rápida resolución del procedimiento, sin menoscabo de que lo realice algún particular.
+> <small>(REFORMADA, G.G. 8 DE ABRIL DE 2022)</small>
 
-II. Gestionar y patrocinar las adopciones, a excepción de aquellas en las que se trate del hijo o hija del cónyuge, concubinario o concubina.
+I. Promover, patrocinar y representar, en vía judicial, la entrega de las niñas, niños y adolescentes, nombramiento de tutor, conclusión de patria potestad y/o pérdida de patria potestad, según sea el caso, ante el Juez Familiar de Primera Instancia y coadyuvar con este para la rápida resolución del procedimiento, sin menoscabo de que lo realice algún particular.
+
+> <small>(REFORMADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+II. Promover, gestionar y patrocinar las adopciones, a excepción de aquellas en las que se trate del hijo o hija del cónyuge, concubinario o concubina a solicitud de los mismos.
+
+> <small>(ADICIONADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+III. Realizar, en sesión con el Comité Interinstitucional la asignación de los niños, niñas y adolescentes en estado de adoptabilidad a una familia para su adopción.
+
+> <small>(ADICIONADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+IV. Orientar y asesorar a la familia biológica de la niña, niño o adolescente que se pretende dar en adopción y a los solicitantes sobre las implicaciones de la misma, los derechos, las consecuencias jurídicas, emocionales, sociales y demás aspectos que posibiliten que la adopción se efectúe en condiciones de bienestar y satisfacción.
+
+> <small>(ADICIONADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+V. Nutrir el registro de seguimiento continuo de niñas, niños y adolescentes adoptados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE ABRIL DE 2022)</small>
 
 ###### Artículo 65.
 
-Corresponde de manera exclusiva al DIFEM:
+Corresponde de manera exclusiva al DIFEM, por conducto de la Procuraduría de Protección:
 
-I. Crear un padrón de instituciones públicas y privadas que tengan en guarda, cuidado o custodia, a niñas, niños y adolescentes susceptibles de adopción, y mantenerlo actualizado.
+> <small>(REFORMADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+I. Crear un padrón de instituciones públicas y privadas que tengan bajo tutela, guarda, cuidado o custodia, a niñas, niños y adolescentes susceptibles de adopción, y mantenerlo actualizado.
 
 II. Llevar un registro actualizado de las niñas, niños y adolescentes susceptibles de ser adoptados y de los solicitantes, incluyendo aquellos que fueron sujetos a alguna sanción por incumplimiento de esta Ley.
 
@@ -867,113 +967,227 @@ III. Emitir el oficio de viabilidad de los solicitantes de adopción que han con
 
 IV. Emitir el Informe de Adoptabilidad respecto de niñas, niños y adolescentes.
 
-V. Realizar, a través de la Junta Multidisciplinaria, la asignación de las niñas, niños y adolescentes en estado de adoptabilidad a una familia para su adopción
+V. (DEROGADA, G.G. 8 DE ABRIL DE 2022)
 
-VI. Resolver las propuestas de asignación que le son presentadas por los Sistemas Municipales DIF que cuenten con centros de asistencia y las Instituciones acreditadas para que se emitan los informes de Adoptabilidad y los Certificados de Idoneidad de aquellos solicitantes de los cuales se cuenta con oficio de viabilidad.
+> <small>(REFORMADA, G.G. 8 DE ABRIL DE 2022)</small>
 
-VII. Expedir el Certificado de Idoneidad a favor de los solicitantes.
+VI. Resolver las propuestas de asignación que le son presentadas por los sistemas municipales DIF que cuenten con centros de asistencia y las Instituciones acreditadas para que se emitan los informes de Adoptabilidad y los Certificados de Idoneidad de aquellos solicitantes de los cuales se cuenta con oficio de viabilidad, en un plazo no mayor a veinte días naturales.
+
+> <small>(REFORMADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+VII. Expedir el Certificado de Idoneidad a favor de los solicitantes, en un plazo no mayor de veinte días naturales.
 
 VIII. Promover la capacitación permanente de los servidores públicos encargados de los servicios jurídicos, psicológicos, de trabajo social y médicos que atiendan las solicitudes de adopción
 
-IX. Orientar y asesorar a la familia biológica de la niña, niño o adolescente que se pretende dar en adopción y a los solicitantes sobre las implicaciones de la misma, los derechos, las consecuencias jurídicas, emocionales, sociales y demás aspectos que posibiliten que la adopción se efectúe en condiciones de bienestar y satisfacción.
+IX. (DEROGADA, G.G. 8 DE ABRIL DE 2022)
 
 X. Intervenir como órgano de consulta en los procedimientos de adopción en los términos que disponga esta Ley o la autoridad judicial, en su caso.
 
 XI. Celebrar convenios con el Sistema Nacional para el Desarrollo Integral de la Familia y demás sistemas de las entidades federativas para que las niñas, niños y adolescentes albergados en el Estado de México puedan recibir asistencia social y ser susceptibles de adopción a través de dichos organismos.
 
-XII. Efectuar cada seis meses una visita a la familia adoptante y entrevista a la niña, niño o adolescente sin la presencia de sus padres adoptivos, por un periodo de dos años, a efecto de dar seguimiento a la adopción.
+> <small>(REFORMADA, G.G. 8 DE ABRIL DE 2022)</small>
 
-#### Sección Segunda. De la Junta Multidisciplinaria
+XII. Efectuar cada seis meses, por un periodo de dos años, a través de visitas o citaciones a la familia adoptante para realizar una entrevista a la niña, niño o adolescente sin la presencia de sus padres adoptivos, a efecto de dar seguimiento a la adopción.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 8 DE ABRIL DE 2022)</small>
+
+#### Sección Segunda. Del Comité Interinstitucional
+
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
 
 ###### Artículo 66.
 
-La Junta Multidisciplinaria es un cuerpo colegiado cuyo objetivo es revisar, analizar, discutir y determinar los aspectos socio jurídicos que permitan regularizar la situación legal de las niñas, niños y adolescentes albergados en el DIFEM, procurando su bienestar, mediante la reintegración con algún familiar o, en su caso, procurarles un nuevo núcleo familiar mediante la adopción, así como los casos que le sean presentados o entregados por los sistemas municipales DIF y los Centros de Asistencia Social de carácter privado.
+El Comité Interinstitucional es un cuerpo colegiado cuyo objetivo es revisar, analizar, discutir y determinar los aspectos socio jurídicos que permitan regularizar la situación legal de las niñas, niños y adolescentes, el análisis y resolución de las solicitudes de adopción de las niñas, niños y adolescentes albergados en los Centros de Asistencia Social, procurando su bienestar, mediante la reintegración con algún familiar o, en su caso, procurarles un nuevo núcleo familiar mediante la adopción, así como los casos que le sean presentados o entregados por los Sistemas Municipales DIF y los Centros de Asistencia Social de carácter privado.
 
-> <small>(REFORMADO, G.G. 7 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE ABRIL DE 2022)</small>
 
 ###### Artículo 67.
 
-Para efectos de lo previsto en el presente Título, la Junta Multidisciplinaria estará integrada de la manera siguiente:
+Para efectos de lo previsto en el presente Título, el Comité Interinstitucional estará integrado de la manera siguiente:
+
+> <small>(REFORMADA, G.G. 7 DE JUNIO DE 2018)</small>
 
 I. Un Presidente, que será el Director General del DIFEM.
 
+> <small>(REFORMADA, G.G. 7 DE JUNIO DE 2018)</small>
+
 II. Un Secretario quien será el titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México, y
+
+> <small>(REFORMADA, G.G. 7 DE JUNIO DE 2018)</small>
 
 III. Un representante del Órgano Interno de Control del DIFEM.
 
-IV. Nueve Vocales:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 8 DE ABRIL DE 2022)</small>
 
-a) Un representante de la Secretaría de Justicia y Derechos Humanos;
+IV. Vocales:
 
-b) Dos representantes de la Fiscalía General de Justicia del Estado de México;
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
 
-c) Un representante de la Dirección General de Prevención y Reinserción Social;
+a) Una persona representante de la Secretaría de Justicia y Derechos Humanos;
 
-d) Un representante de la Secretaría Ejecutiva del Sistema Estatal de Protección de Niñas, Niños y Adolescentes;
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
 
-e) Un representante de la Junta de Asistencia Privada del Estado de México;
+b) Una persona representante del Poder Judicial del Estado de México;
 
-f) Un representante del área médica;
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
 
-g) Un representante del área psicológica, y
+c) Una persona representante de la Secretaría de Seguridad;
 
-h) Un representante del área de trabajo social.
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
 
-V. Dos invitados permanentes:
+d) Una persona representante de la Fiscalía General de Justicia del Estado de México;
 
-a) El Subdirector de Centros de Asistencia Social, y
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
 
-b) El Subdirector de Adopciones y Familia de Acogida.
+e) Una persona representante de la Comisión de Derechos Humanos del Estado de México;
+
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+f) Una persona representante de la Secretaría Ejecutiva del Sistema Estatal de Protección de Niñas, Niños y Adolescentes;
+
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+g) Una persona representante de la Secretaría de Salud del Estado de México, y
+
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+h) Una persona representante de la Junta de Asistencia Privada del Estado de México, que tendrá interlocución de aquellas Instituciones que tengan como objeto promover la adopción.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 8 DE ABRIL DE 2022)</small>
+
+V. Invitados Permanentes:
+
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+a) Una persona representante de la Legislatura, que será la persona que presida la Comisión Legislativa Especial de los Derechos de las Niñas, Niños y Adolescentes;
+
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+b) Dos personas representantes de organizaciones de la sociedad civil que tengan como objeto social la protección y garantía de los derechos de las niñas, niños y adolescentes, a convocatoria del DIFEM;
+
+> <small>(ADICIONADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+c) El o la titular de una Procuraduría de Protección de Niñas, Niños y Adolescentes Municipal del Valle de México nombrado por orden alfabético por sesión;
+
+> <small>(ADICIONADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+d) El o la titular de una Procuraduría de Protección de Niñas, Niños y Adolescentes Municipal perteneciente al Valle de Toluca nombrado por orden alfabético por sesión;
+
+> <small>(ADICIONADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+e) Una persona representante del área médica de los Centros de Asistencia Social del DIFEM;
+
+> <small>(ADICIONADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+f) Una persona representante del área psicológica de los Centros de Asistencia Social del DIFEM;
+
+> <small>(ADICIONADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+g) Una persona representante del área de trabajo social de los Centros de Asistencia Social del DIFEM, y
+
+> <small>(ADICIONADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+h) Una persona representante jurídico de la Procuraduría de Protección.
+
+> <small>(ADICIONADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+El Presidente, y el Secretario Técnico tendrán la facultad de nombrar a su suplente, quien actuará en su representación y en el caso del primero, presidirá las sesiones.
+
+> <small>(ADICIONADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+Cuando las Procuradurías de Protección de Niñas, Niños y Adolescentes o los Centros de Asistencia Social presenten ante el Comité Interinstitucional un caso, deberán de comparecer acompañados de sus respectivos representantes del área médica, psicológica, de trabajo social y jurídica.
+
+> <small>(ADICIONADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+Los representantes de las instituciones de asistencia privada y sociedad civil, previa su integración al Comité Interinstitucional, deberán firmar un convenio de confidencialidad respecto de toda la información que obtengan con motivo de su participación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE ABRIL DE 2022)</small>
 
 ###### Artículo 68.
 
-Los cargos de los integrantes de la Junta Multidisciplinaria son honoríficos y sus integrantes tendrán derecho a voz y voto. En caso de empate, el Presidente tendrá voto de calidad.
+Los cargos de los integrantes del Comité Interinstitucional son honoríficos y se regirán con base a los principios de legalidad, honradez, confidencialidad, celeridad e interés superior del niño y sus integrantes tendrán derecho a voz y voto, con excepción de los invitados permanentes, quienes tendrán derecho a voz, pero no a voto. En caso de empate, el Presidente tendrá voto de calidad.
 
 El Presidente tendrá la facultad de nombrar a su suplente, quien actuará en su representación y presidirá las sesiones.
 
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+
 ###### Artículo 69.
 
-La Junta Multidisciplinaria sesionará en las modalidades de casos y de adopciones, en términos de las disposiciones reglamentarias respectivas.
+El Comité Interinstitucional sesionará en las modalidades de casos y de adopciones, en términos de las disposiciones reglamentarias respectivas.
 
 #### Sección Tercera. Atribuciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE ABRIL DE 2022)</small>
+
 ###### Artículo 70.
 
-Para efectos de la presente Ley, la Junta Multidisciplinaria tendrá las atribuciones siguientes:
+Para efectos de la presente Ley, el Comité Interinstitucional tendrá las atribuciones siguientes:
 
 I. Analizar, discutir y dictaminar sobre los expedientes de las niñas, niños y adolescentes.
 
 II. Analizar y dictaminar las solicitudes de adopción.
 
-III. Determinar la reintegración de las niñas, niños y adolescentes con su familia de origen, extensa, de acogida o de acogimiento, o bien, su adopción, atendiendo a las características de cada uno de ellos.
+> <small>(REFORMADA, G.G. 8 DE ABRIL DE 2022)</small>
 
-IV. Gestionar los trámites necesarios que permitan resolver la situación jurídica de las niñas, niños y adolescentes.
+III. Supervisar se lleve a cabo la reintegración de las niñas, niños y adolescentes con su familia de origen, extensa, de acogida o de acogimiento, o bien, su adopción, atendiendo a las características de cada uno de ellos.
 
-V. Sesionar semanalmente en forma ordinaria y extraordinaria, cuando así sea necesario, de acuerdo al número de asuntos a tratar, previa convocatoria del Secretario.
+IV. (DEROGADA, G.G. 8 DE ABRIL DE 2022)
 
-VI. Notificar a los interesados la aceptación o rechazo de su solicitud de adopción.
+> <small>(REFORMADA, G.G. 8 DE ABRIL DE 2022)</small>
 
-VII. Analizar los estudios practicados a los solicitantes por el área jurídica, psicológica, médica y de trabajo social, para determinar la viabilidad de la solicitud.
+V. Sesionar por lo menos semanalmente en forma ordinaria y extraordinaria, cuando así sea necesario, de acuerdo al número de asuntos a tratar, previa convocatoria del Secretario.
+
+> <small>(REFORMADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+VI. Vigilar que se lleve a cabo la notificación a los interesados respecto la aceptación o rechazo de su solicitud de adopción.
+
+> <small>(REFORMADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+VII. Analizar los estudios practicados a los solicitantes por el área jurídica, psicológica, médica y de trabajo social que hayan servido, para determinar la viabilidad de la solicitud.
 
 VIII. Ordenar visitas a los solicitantes.
 
-IX. Aprobar el inicio del proceso de adaptabilidad y emitir actas de guarda y cuidado.
+IX. (DEROGADA, G.G. 8 DE ABRIL DE 2022)
 
-X. Ordenar el seguimiento para verificar la adaptación de la niña, niño o adolescente con la familia asignada, en caso de darse favorable esta, emitir el acta de guarda y cuidado, previo al procedimiento judicial de adopción.
+> <small>(REFORMADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+X. Ordenar el seguimiento para verificar la adaptación de la niña, niño o adolescente con la familia asignada, en caso de darse favorable esta, previo al procedimiento judicial de adopción.
 
 XI. Ordenar visitas de seguimiento una vez concluido el procedimiento de adopción.
 
-XII. Aprobar la expedición del certificado de idoneidad.
+XII. (DEROGADA, G.G. 8 DE ABRIL DE 2022)
 
-XIII. Determinar la viabilidad de las convivencias, así como los hogares provisionales y visitas de familiares.
+XIII. (DEROGADA, G.G. 8 DE ABRIL DE 2022)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 8 DE ABRIL DE 2022)</small>
+
+XIV. Fomentar la cultura de adopción y de modalidades alternativas de cuidado a través de medios masivos de comunicación.
+
+> <small>(ADICIONADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+XV. Promover la agilización y transparencia de los trámites efectuados que resuelvan la situación jurídica de las niñas, niños y adolescentes que estén en los Centros de Asistencia Social, en términos de la legislación y normatividad aplicable.
+
+> <small>(ADICIONADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+XVI. Publicar en el Periódico Oficial "Gaceta del Gobierno", un informe anual de actividades.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 8 DE ABRIL DE 2022)</small>
 
 XIV. Las demás que se deriven de la aplicación de la presente Ley y su Reglamento.
 
-Los integrantes de la Junta Multidisciplinaria deberán guardar estricta reserva y confidencialidad sobre todos los asuntos de su competencia.
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+Los integrantes del Comité Interinstitucional deberán guardar estricta reserva y confidencialidad sobre todos los asuntos de su competencia.
+
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
 
 ###### Artículo 71.
 
-La organización y funcionamiento de la Junta Multidisciplinaria se regulará en el Reglamento respectivo.
+Para que las sesiones del Comité Interinstitucional sean válidas, se requerirá la asistencia del Presidente o su suplente, del Secretario Técnico o su suplente, y más de la mitad de los vocales.
+
+Los acuerdos y resoluciones del Comité Interinstitucional se tomarán por mayoría de votos de sus asistentes.
+
+La organización y funcionamiento del Comité Interinstitucional se regulará en el Reglamento respectivo.
 
 #### Sección Cuarta. De la Competencia Judicial
 
@@ -991,7 +1205,9 @@ Son autoridades e instituciones coadyuvantes en el proceso de adopción, el Mini
 
 Para el cumplimiento del objeto de esta Ley el Ministerio Público tiene las obligaciones siguientes:
 
-I. Presentar a la niña, niño o adolescente al DIFEM, o a centros de asistencia municipales o privados o que corresponda, acompañados de las constancias del estado en que se encontró o recibió, en un plazo que no deberá exceder de veinticuatro horas.
+> <small>(REFORMADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+I. Dictar medidas de protección a favor de la niña, niño o adolescente para su acogimiento residencial en los Centros de Asistencia Social conforme al interés superior de la niña, niño y adolescente, acompañado de las constancias del estado en que se encontró o recibió, en un plazo que no deberá exceder de veinticuatro horas.
 
 II. Tomar todas las medidas provisionales necesarias para salvaguardar la integridad de la niña, niño o adolescente.
 
@@ -1015,15 +1231,19 @@ Todas las dependencias y organismos de la administración pública estatal y mun
 
 El informe de Adoptabilidad es el documento expedido por el DIFEM que contiene información sobre la identidad, medio social, evolución personal y familiar, así como su situación jurídica, que determina la adoptabilidad de niñas, niños y adolescentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE ABRIL DE 2022)</small>
+
 ###### Artículo 78.
 
-Habiéndose agotado la búsqueda y/o localización de familia de origen y extensa que no haya resultado viable o con interés para una reintegración, el DIFEM tramitará ante el Juez competente la tutela legítima, el cual deberá resolver en un plazo que no excederá de cinco días hábiles y derivado de lo cual, en su caso, el DIFEM emitirá el Informe de Adoptabilidad por entrega voluntaria.
+Habiéndose agotado la búsqueda y/o localización de familia de origen y extensa que no haya resultado viable o con interés para una reintegración, las Procuradurías de Protección de Niñas, Niños y Adolescentes o los Centros de Asistencia Social con equipos multidisciplinarios autorizados tramitarán ante el Juez competente la tutela legítima, el cual deberá resolver en un plazo que no excederá de quince días naturales y derivado de lo cual, en su caso, el DIFEM a través de la Procuradurías (sic) de Protección de Niñas, Niños y Adolescentes emitirá el Informe de Adoptabilidad por entrega voluntaria, en un término no mayor a quince días naturales.
 
 Tratándose de entregas voluntarias realizadas a Centros de Asistencia Social de carácter privado, el centro respectivo informará al DIFEM de dicha entrega con las circunstancias particulares.
 
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+
 ###### Artículo 79.
 
-Emitido el Informe de Adoptabilidad, el DIFEM asignará a la niña, niño o adolescente con una familia de acogimiento, que cumpla con los requisitos para poder adoptar y que cuente con Oficio de Viabilidad.
+Emitido el Informe de Adoptabilidad, a propuesta de los Centros de Asistencia Social acreditados, a través de la Procuraduría de Protección, se asignarán a la niña, niño o adolescente con una familia de acogimiento, que cumpla con los requisitos para poder adoptar y que cuente con Oficio de Viabilidad, previa autorización del Comité Interinstitucional.
 
 ###### Artículo 80.
 
@@ -1033,19 +1253,25 @@ El DIFEM emitirá el Informe de Adoptabilidad, siempre y cuando se corrobore que
 
 El DIFEM y, en su caso, los sistemas municipales DIF, en coordinación con el Ministerio Público, promoverán la conclusión o la pérdida de patria potestad en los supuestos previstos por el Código Civil del Estado de México. Así mismo, los centros de asistencia social de carácter privado que hayan sido autorizados para ello.
 
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+
 ###### Artículo 82.
 
-El DIFEM emitirá el Informe de Adoptabilidad asignando a la niña, niño o adolescente a una familia de acogimiento preadoptivo que se encuentre en lista de espera, en un plazo que no deberá exceder de cinco días hábiles en tanto es resuelta la adopción.
+Emitido el Informe de Adoptabilidad, a propuesta de los Centros de Asistencia Social acreditados, a través de la Procuraduría de Protección se podrán asignar a la niña, niño o adolescente a una familia de acogimiento preadoptivo que se encuentre en lista de espera, previa autorización del Comité Interinstitucional.
+
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
 
 ###### Artículo 83.
 
-Habiéndose agotado la búsqueda y/o localización de familia de origen y extensa que no haya resultado viable o con interés para una reintegración, el DIFEM tramitará ante el Juez competente la conclusión o perdida de la patria potestad, derivado de lo cual el DIFEM ejercerá la tutela legítima, la resolución referida deberá emitirse en un plazo que no excederá de diez días hábiles. En consecuencia, el DIFEM emitirá el Informe de Adoptabilidad por conclusión o pérdida de la patria potestad.
+Habiéndose agotado la búsqueda y/o localización de familia de origen o extensa del niño, niña o adolescente, que no haya resultado viable o con interés para una reintegración, los Centros de Asistencia Social acreditados, tramitarán ante el Juez competente la conclusión o pérdida de la patria potestad, derivado de lo cual el DIFEM, los sistemas municipales DIF y los Centros de Asistencia Social acreditados, ejercerán la tutela legítima, la resolución referida deberá emitirse en un plazo que no excederá de diez días hábiles. En consecuencia, el DIFEM emitirá el Informe de Adoptabilidad por conclusión o pérdida de la patria potestad.
 
 ### Capítulo V. Certificado de Idoneidad
 
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+
 ###### Artículo 84.
 
-Las personas que deseen adoptar deberán acudir al DIFEM, a los sistemas municipales DIF o a las instituciones acreditadas y expresar su voluntad de hacerlo, derivado de lo cual, se les proporcionará asesoría jurídica mediante una entrevista, con el propósito de determinar si el interesado cumple con los requisitos legales para adoptar en términos de lo previsto en esta Ley, en cuyo caso se le entregará la solicitud de adopción para su debido llenado, con lo cual inicia el trámite para obtener el Certificado de Idoneidad emitido por el DIFEM, a través de la Procuraduría de Protección.
+Las personas que deseen adoptar deberán acudir al DIFEM, a los sistemas municipales DIF o a las instituciones acreditadas y expresar su voluntad de hacerlo, derivado de lo cual, se les proporcionará asesoría jurídica mediante una entrevista, con el propósito de determinar si el interesado cumple con los requisitos legales para adoptar en términos de lo previsto en esta Ley, en cuyo caso se le entregará la solicitud de adopción para su debido llenado, con lo cual inicia el trámite para obtener el Certificado de Idoneidad emitido por el DIFEM, a través de la Procuraduría de Protección, en un término no mayor a quince días naturales, contados a partir de la fecha de conclusión de las valoraciones previamente aprobadas.
 
 ###### Artículo 85.
 
@@ -1093,11 +1319,15 @@ Integrado el expediente se canalizará al o los solicitantes al Taller de Inducc
 
 Dicho taller es obligatorio, tendrá una duración de cinco horas.
 
-Los talleres que se impartan en los sistemas municipales DIF comprenderán los parámetros dictados por el DIFEM.
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+Los talleres que se impartan en los sistemas municipales DIF o en las instituciones acreditadas comprenderán los parámetros dictados por el DIFEM a través de la Procuraduría de Protección.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE ABRIL DE 2022)</small>
 
 ###### Artículo 89.
 
-Concluido el taller a satisfacción del DIFEM, el interesado será canalizado a la Procuraduría de Protección, para llevar a cabo de manera simultánea las siguientes valoraciones:
+Concluido el taller, el DIFEM, y los Centros de Asistencia Social con equipos multidisciplinarios autorizados llevarán a cabo de manera simultánea las siguientes valoraciones:
 
 I. Psicológica.
 
@@ -1119,9 +1349,11 @@ Para los solicitantes que realicen trámites por los sistemas municipales DIF o 
 
 El DIFEM deberá fundar y motivar su determinación comunicándola a través del oficio, garantizando siempre el interés superior de las niñas, niños y adolescentes.
 
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+
 ###### Artículo 91.
 
-Emitido el oficio de viabilidad se determinará el ingreso del o de los solicitantes a la lista de espera para adopción, cuya vigencia será por dos años, misma que deberá ser ratificada al año por el solicitante, manifestando su interés de continuar esperando, e informando las modificaciones que hubiera en las condiciones o documentos que presentó originalmente, en su caso. Manifestará así mismo, bajo protesta de decir verdad, que prevalecen las condiciones por virtud de las cuales obtuvo el Oficio de Viabilidad.
+Emitido el oficio de viabilidad se determinará el ingreso del o de los solicitantes a la lista de espera para adopción, cuya vigencia será por dos años, misma que deberá ser ratificada cada año por los solicitantes, manifestando su interés de continuar esperando, presentando entrevistas en cada área, así como la posibilidad de la aplicación de pruebas e informando las modificaciones que hubiera en las condiciones o documentos que presentó originalmente, en su caso, de las cuales se podrá desprender según sus resultados su continuidad o no en la lista de espera ante el Comité Interinstitucional; y manifestará, bajo protesta de decir verdad, que prevalecen las condiciones por virtud de las cuales obtuvo el Oficio de Viabilidad.
 
 ###### Artículo 92.
 
@@ -1139,7 +1371,9 @@ Determinada la compatibilidad se procederá de manera inmediata a citar al o los
 
 En caso de que la propuesta tenga un resultado positivo por parte de los solicitantes y la niña, niño o adolescente, se abrirá un periodo de convivencia previa de un máximo de tres días en el interior del Centro de Asistencia Social en las áreas destinadas al efecto, en caso de resultar satisfactoria, se abrirá un primer periodo de convivencias que durará un tiempo máximo de quince días naturales en el domicilio del o de los solicitantes, otorgándoles un acta provisional de guarda y cuidado. Al término de este periodo, los solicitantes ratificarán el deseo de continuar con la adopción, recabándose además en caso de ser posible y atendiendo su edad y capacidad para hacerlo, la opinión de la niña, niño o adolescente y se determinará por el área de psicología si existe empatía, este procedimiento podrá repetirse durante dos periodos adicionales de quince días naturales cada uno en los términos ya señalados, considerado (sic) la edad y la capacidad de las niñas, niños y adolescentes a adaptarse al nuevo entorno así como del o los solicitantes de crear vínculos afectivos adecuados.
 
-Si del resultado de las convivencias resulta satisfactoria la empatía, se otorgará el Certificado de Idoneidad a los solicitantes y el Acta Definitiva de Guarda y Cuidado, una vez entregados ambos documentos, por ninguna circunstancia será devuelto o reincorporada la niña, niño o adolescente al DIFEM o DIF Municipal que corresponda, salvo que se advierta alguna situación que atente contra su interés superior.
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+Si del resultado de las convivencias resulta satisfactoria la empatía, se otorgará el Certificado de Idoneidad a los solicitantes y el Acta Definitiva de Guarda y Cuidado. De advertirse de alguna situación que atente con el interés superior de la niña, niño o adolescente, este podrá ser o (sic) reincorporado al Centro de Asistencia Social que garantice su protección integral.
 
 Los posibles adoptantes tendrán desde este momento la obligación de inscribir a la niña, niño o adolescente al nivel académico que le corresponda.
 
@@ -1159,7 +1393,9 @@ II. Nombre y edad de la niña, niño o adolescente.
 
 III. Vigencia, hasta por seis meses, contados a partir de su fecha de expedición.
 
-IV. Firma del Presidente de la Junta Multidisciplinaria.
+> <small>(REFORMADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+IV. Firma de la Secretaría del Comité Interinstitucional.
 
 ###### Artículo 95.
 
@@ -1173,7 +1409,17 @@ III. Presentar carta compromiso por parte de la institución de asistencia priva
 
 IV. No haber sido condenado por delito doloso.
 
-V. Presentar constancia de la institución de asistencia privada en la que indique ser empleada asalariada con remuneración mensual fija.
+> <small>(REFORMADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+V. Presentar constancia de la institución pública o de asistencia privada en la que indique ser empleada asalariada con remuneración mensual fija, y
+
+> <small>(ADICIONADA, G.G. 8 DE ABRIL DE 2022)</small>
+
+VI. Acreditar la evaluación de competencias relacionadas con la valoración de la adopción que el personal de la Procuraduría de Protección les practique, previa capacitación que para tal efecto se determine, misma que deberá ser solicitada por la institución donde preste sus servicios.
+
+> <small>(ADICIONADO, G.G. 8 DE ABRIL DE 2022)</small>
+
+Dicha autorización tendrá una vigencia de dos años, siempre y cuando permanezcan laborando en la institución pública o privada donde inicio el proceso.
 
 ## TÍTULO QUINTO. DEL PROCEDIMIENTO DE ADOPCIÓN
 
@@ -1191,9 +1437,11 @@ En el escrito inicial ante el Juez deberá manifestarse el nombre del solicitant
 
 Cumplidos los requisitos del artículo anterior el Juez tendrá un plazo de cinco días hábiles para citar a audiencia, en la cual deberán ser escuchados los solicitantes y la niña, niño o adolescente atendiendo a su edad, desarrollo evolutivo, cognoscitivo y madurez, de resultar procedente se desahogarán las pruebas ofrecidas.
 
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+
 ###### Artículo 99.
 
-El Juez verificará que los solicitantes cumplan con los requisitos previstos en esta Ley, que la asignación ha sido realizada por el DIFEM y que son las personas idóneas para adoptar.
+El Juez verificará que los solicitantes cumplan con los requisitos previstos en esta Ley, que la asignación ha sido autorizada por el Comité Interinstitucional y que son las personas idóneas para adoptar.
 
 ###### Artículo 100.
 
@@ -1217,9 +1465,11 @@ El DIFEM, los sistemas municipales DIF o la institución acreditada, según sea 
 
 No obstante, el plazo establecido en el párrafo anterior, el DIFEM dará seguimiento a los casos en que las niñas, niños y adolescentes estén bajo tratamiento médico hasta su conclusión o hasta ya no considerarlo necesario.
 
+> <small>(REFORMADO, G.G. 8 DE ABRIL DE 2022)</small>
+
 ###### Artículo 104.
 
-El DIFEM tiene facultad para realizar visitas domiciliarias durante el periodo de seguimiento, el adoptante tiene la obligación de facilitar la visita domiciliaria al personal del DIFEM.
+Los Centros de Asistencia Social con equipos multidisciplinarios autorizados tienen la facultad para realizar visitas domiciliarias durante el periodo de seguimiento, el adoptante tiene la obligación de facilitar la visita domiciliaria a dicho personal.
 
 ### Capítulo II. De la adopción internacional
 
@@ -1496,3 +1746,17 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Los requisitos previstos en el artículo 94 bis de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de México, resultarán aplicables a los nombramientos que se realicen a partir de la entrada en vigor del presente decreto.
 
 CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 8 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 46.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, DE LA LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO, Y DE LA LEY QUE CREA LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE CARÁCTER MUNICIPAL, DENOMINADOS "SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Los Sistemas Municipales DIF harán las previsiones presupuestarias necesarias para que las Procuradurías de Protección cuenten con al menos un equipo multidisciplinario y dos abogados independientemente del Procurador.
+
+CUARTO. El requisito referente a la capacitación y aprobación de la evaluación de conocimientos para las personas titulares de las Procuradurías de Protección Municipal dicha capacitación podrá ser solicitada mediante oficio por las o los Presidentes Municipales o las personas titulares de los Sistemas Municipales DIF en funciones, y la o el servidor público deberá solicitar al Instituto Hacendario del Estado de México la evaluación para obtener la certificación de la competencia laboral, teniendo un plazo de seis meses a partir de la publicación del presente decreto.
+
+QUINTO. El Ejecutivo del Estado a través del Sistema para el Desarrollo Integral de la Familia del Estado de México, implementará estrategias de capacitación para brindar el curso especializado, evaluación y en su caso, la certificación de competencia laboral a los servidores públicos que la requieran.
