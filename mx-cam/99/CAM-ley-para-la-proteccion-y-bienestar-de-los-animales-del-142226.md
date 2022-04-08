@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-proteccion-y-bienestar-de-los-animales-del-142226"
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-27"
-last_updated: "2021-06-25"
+last_updated: "2022-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,23 +21,15 @@ state: "CAM"
 ---
 # LEY PARA LA PROTECCION Y BIENESTAR DE LOS ANIMALES DEL ESTADO DE CAMPECHE
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL 1° DE ENERO DE 2019, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL.]</small>
+LEY DE INGRESOS PARA EL MUNICIPIO DE ATOTONILCO DE TULA HIDALGO, CORRESPONDIENTE AL EJERCICIO FISCAL 2025
 
-LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DEL ESTADO DE CAMPECHE
+TEXTO ORIGINAL.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2021.
+Ley publicada en el Alcance ocho del Número 53 del Periódico Oficial del Estado de Hidalgo, el martes 31 de diciembre de 2024.
 
-Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Campeche, el jueves 27 de septiembre de 2018.
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
-DECRETO
-
-La LXII Legislatura del Congreso del Estado de Campeche decreta:
-
-Número 310
-
-ÚNICO.- Se expide la Ley para la Protección y Bienestar de los Animales del Estado de Campeche, para quedar como sigue:
-
-LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DEL ESTADO DE CAMPECHE
+(NOTA: EL 29 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 24/2025, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 13 DE OCTUBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -209,9 +201,21 @@ Cualquier poseedor o propietario encargado de la guarda o custodia de los animal
 
 Todo propietario, poseedor o encargado de un animal que intencionalmente o por descuido o voluntariamente lo abandone y por tales motivos cause un daño a terceros, será responsable del animal y de los perjuicios que ocasione, sin importar que el animal haya sido abandonado previamente. Las indemnizaciones correspondientes serán exigidas mediante el procedimiento que señalen las leyes aplicables, pero el responsable podrá además ser sancionado administrativamente en los términos de este ordenamiento.
 
-###### ARTÍCULO 10.
+###### Artículo 10.
 
-La posesión de un animal manifiestamente feroz o peligroso por su naturaleza, así como de aquellos para compañía de origen silvestre, requieren de registro o autorización emitida por la autoridad competente. Si su propietario, poseedor o encargado no cumplimenta esta disposición o permite que deambule libremente en la vía pública, será sancionado de conformidad con lo establecido en la presente Ley, su reglamento y demás disposiciones aplicables.
+Los derechos por servicio de alumbrado público se regulan por lo dispuesto en los artículos 62 al 66 de la Ley de Hacienda para los Municipios del Estado de Hidalgo; considerando para la determinación de este derecho lo establecido en el convenio que para tal efecto celebre el Municipio con la Comisión Federal de Electricidad, o con cualquier otro prestador de servicio, y en el que se determinarán, de conformidad con la legislación federal aplicable, los elementos de contribución.
+
+En tanto no se haya celebrado el convenio correspondiente que contenga los elementos de esta contribución, aplicarán las siguientes tasas:
+
+Tasa fija
+
+Uso doméstico. 5.0%
+
+Uso comercial. 5.0%
+
+Uso industrial. 1.5%
+
+(NOTA: EL 29 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 24/2025, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE OCTUBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 ###### ARTÍCULO 11.
 
@@ -247,9 +251,47 @@ Se reconoce que todos los animales destinados al consumo deben ser sacrificados 
 
 Se reconoce que todos los ejemplares de animales destinados para su estudio y aprovechamiento deben ser tratados de forma digna y respetuosa, brindándoles alojamiento, alimentación y transporte adecuado para su especie.
 
-###### ARTÍCULO 17.
+###### Artículo 17.
 
-Se reconoce que todos los animales de carga y utilizados para el trabajo deben ser tratados de forma humanitaria, asegurándoles descanso, salud y alimentación apropiadas.
+Los derechos por servicios de certificaciones, legalizaciones y expedición de copias certificadas se determinarán conforme a lo dispuesto por los artículos 100 al 102 de la Ley de Hacienda para los Municipios, debiéndose pagar conforme a las siguientes cuotas:
+
+Cuota fija $
+
+Certificación de documentos de hechos o actos
+
+jurídicos o civiles derivados del registro familiar
+
+CERTIFICACIÓN Y EXPEDICIÓN DE COPIAS 95.50
+
+Certificación y expedición de copias de actas 116.30
+
+foráneas
+
+EXPEDICIÓN DE CONSTANCIAS DE
+
+DOCUMENTOS QUE OBREN EN LOS 98.30
+
+ARCHIVOS MUNICIPALES (POR FOJA)
+
+Expedición de constancias en general 98.30
+
+Certificado de registro en el padrón catastral 291.60
+
+y valor fiscal
+
+Certificado de no adeudo fiscal 140.10
+
+Costo de tarjeta y/o boleta predial 0.00 N/A
+
+COPIA SIMPLE DE DOCUMENTO 95.00
+
+DIGITALIZADO
+
+Cedula catastral 259.00
+
+La primera copia certificada del acta de nacimiento será expedida sin costo por las autoridades municipales.
+
+(NOTA: EL 29 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 24/2025, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE OCTUBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 ###### ARTÍCULO 18.
 
@@ -367,11 +409,29 @@ En el caso de animales transportados que fueran detenidos en su camino o a su ar
 
 ### CAPÍTULO VIII. DEL SACRIFICIO DE LOS ANIMALES
 
-###### ARTÍCULO 35.
+###### Artículo 35.
 
-El sacrificio de los animales destinados al consumo se hará sólo con la autorización expresa emitida por las autoridades sanitarias y administrativas que señalen las leyes y reglamentos aplicables, y deberá efectuarse en locales adecuados, específicamente previstos para tal efecto.
+Los productos, se determinarán y pagarán de acuerdo con lo establecido por los artículos 188 al 191 de la Ley de Hacienda para los Municipios del Estado de Hidalgo.
 
-Esta disposición se aplica a especies de ganado bovino, caprino, porcino, lanar, caballar y asnal, a toda clase de aves de corral, así como a liebres y conejos.
+[...]
+
+Expedición en copia simple o certificada, o reproducción de la información en dispositivos de almacenamiento, derivado del ejercicio del derecho de acceso a la información, aplicando las siguientes cuotas:
+
+Cuota fija $
+
+EXPEDICIÓN DE HOJAS SIMPLES, POR 9.10
+
+CADA HOJA
+
+COPIA CERTIFICADA 28.30
+
+DISCO COMPACTO 279.10
+
+Copia de planos 186.50
+
+Copia certificada de planos 279.10
+
+[...]
 
 ###### ARTÍCULO 36.
 
