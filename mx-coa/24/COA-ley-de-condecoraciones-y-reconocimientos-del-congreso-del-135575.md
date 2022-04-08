@@ -4,7 +4,7 @@ identifier: "COA-ley-de-condecoraciones-y-reconocimientos-del-congreso-del-13557
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-09"
-last_updated: "2019-04-09"
+last_updated: "2022-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135575&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE CONDECORACIONES Y RECONOCIMIENTOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 9 de abril de 2019.
 
@@ -87,7 +87,13 @@ VII. Mérito Deportivo.
 
 VIII. Mérito Académico y Actividades de Innovación, Ciencia e Investigación
 
-IX. Las demás que la Legislatura considere pertinentes debido a su importancia (sic) trascendencia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ABRIL DE 2022)</small>
+
+IX. Mérito a la salud.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE ABRIL DE 2022)</small>
+
+X. Las demás que la Legislatura considere pertinentes debido a su importancia (sic) trascendencia.
 
 Los reconocimientos podrán ser entregados en cualquier momento del ejercicio constitucional a propuesta de las y los diputados.
 
@@ -164,6 +170,20 @@ Condecoración al Mérito Académico y Actividades de Innovación, la Ciencia y 
 Esta medalla se otorgará a los estudiantes universitarios de cualquier grado que se distingan por una trayectoria académica intachable, producción científica e investigación en cualquiera de las ramas de la ciencia, que sean ejemplo para los universitarios del Estado.
 
 También podrá otorgarse a quienes por sus acciones, sus producciones o trabajos docentes, de investigación o de divulgación, hayan contribuido a enriquecer el acervo científico o tecnológico, en el campo de las ciencias, la tecnología o la innovación en cualquiera de sus ramas.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE ABRIL DE 2022)</small>
+
+#### Sección IX
+
+Condecoración al Mérito a la Salud.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2022)</small>
+
+###### ARTÍCULO 14 Bis.
+
+Se otorgará a la persona física que por su profesión, trabajo o labor, se haya distinguido por su reconocida vocación de servicio y entrega en favor de la medicina y/o del cuidado a la salud, o por sus aportaciones científicas, tecnológicas y sociales en medicina.
+
+Este reconocimiento podrá concederse en vida o post-mortem.
 
 ### CAPÍTULO III
 
@@ -278,3 +298,13 @@ EL SECRETARIO DE GOBIERNO
 ING. JOSÉ MARÍA FRAUSTRO SILLER
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 213.- SE REFORMA LA FRACCIÓN IX Y SE ADICIONAN LA FRACCIÓN X AL ARTÍCULO 5, LA SECCIÓN IX "CONDECORACIÓN AL MÉRITO A LA SALUD" CON EL ARTÍCULO 14 BIS, AL CAPÍTULO II "DE LAS CONDECORACIONES Y RECONOCIMIENTOS", DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
