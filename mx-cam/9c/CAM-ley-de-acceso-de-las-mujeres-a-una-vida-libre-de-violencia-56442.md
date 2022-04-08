@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5644
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2021-06-03"
+last_updated: "2022-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -139,9 +139,15 @@ VII. Violencia Obstétrica.- Es toda acción u omisión por parte del personal m
 
 VIII. Violencia Digital: Son los actos de acoso, hostigamiento, amenaza, insultos, vulneración de datos e información privada, divulgación de la información apócrifa, mensajes de odio, difusión de contenido sexualsin (sic) consentimiento, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras, verdaderas o alteradas, o cualquier otra acción que sea cometida a través de las Tecnologías de la Información y la Comunicación, plataformas de internet, redes sociales, correo electrónico, aplicaciones, o cualquier otro espacio digital que atente contra la integridad, dignidad, intimidad, libertad, vida privada o vulnere algúnderecho (sic) humano de las mujeres; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE MAYO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ABRIL DE 2022)</small>
 
-IX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+IX. Violencia mediática. Es todo acto a través de cualquier medio de comunicación, que de manera directa o indirecta promueva estereotipos sexistas, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida.
+
+La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atenta contra la igualdad.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE ABRIL DE 2022)</small>
+
+X. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ## TÍTULO SEGUNDO. MODALIDADES DE LA VIOLENCIA EN CONTRA DE LAS MUJERES
 
@@ -211,7 +217,7 @@ El Gobierno del Estado y los Municipios coadyuvarán con la Federación en la im
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE MAYO DE 2020)</small>
 
-### Capítulo V BIS. DE LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO
+### CAPÍTULO V BIS. DE LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2020)</small>
 
@@ -285,11 +291,33 @@ V. Impulsar la investigación en el tema.
 
 VI. Procurar que en la designación de integrantes de los órganos colegiados de autoridad se encuentren representados de manera paritaria ambos géneros.
 
-### CAPÍTULO I. DEL OBJETO E INTEGRACIÓN DEL SISTEMA ESTATAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE ABRIL DE 2022)</small>
+
+### CAPÍTULO V TER. DE LA VIOLENCIA DIGITAL Y MEDIÁTICA
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 16 QUÁTER.- El Estado, los Municipios, así como las autoridades jurisdiccionales, en el ámbito de sus competencias garantizarán a las mujeres el derecho a una vida libre de violencia digital y mediática y tomarán en consideración los daños que éstas puedan generar en las víctimas.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 16 QUINQUIES.- Cuando se trate de violencia digital o mediática para garantizar la integridad de la víctima, la Fiscalía, la jueza o el juez, ordenarán de manera inmediata, las medidas de protección necesarias, determinando vía electrónica o mediante escrito a las empresas de plataformas digitales, de medios de comunicación, redes sociales o páginas electrónicas, personas físicas o morales, la interrupción, bloqueo, destrucción, o eliminación de imágenes, audios o videos relacionados con la investigación previa satisfacción de los requisitos de Ley.
+
+En este caso se deberá identificar plenamente al proveedor de servicios en línea a cargo de la administración del sistema informático, sitio o plataforma de Internet en donde se encuentre alojado el contenido y la localización precisa del contenido en Internet, señalando el Localizador Uniforme de Recursos.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 16 SEXIES.- La autoridad que ordene las medidas de protección contempladas en este artículo deberá solicitar el resguardo y conservación lícita e idónea del contenido que se denunció de acuerdo con las características del mismo. Las plataformas digitales, medios de comunicación, redes sociales o páginas electrónicas darán aviso de forma inmediata al usuario que compartió el contenido, donde se establezca de forma clara y precisa que el contenido será inhabilitado por cumplimiento de una orden judicial.
+
+Una vez impuestas las medidas de protección correspondientes se estará al procedimiento previsto por el Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 16 SEPTIES.- La violencia digital será sancionada en la forma y términos que establezca el Código Penal para el Estado de Campeche.
 
 ## TÍTULO TERCERO. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-### CAPÍTULO II. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+### CAPÍTULO I. DEL OBJETO E INTEGRACIÓN DEL SISTEMA ESTATAL
 
 ###### ARTÍCULO 17.
 
@@ -321,13 +349,43 @@ IX. Los organismos y dependencias instituidos en el ámbito municipal para la pr
 
 X. La Delegación Estatal de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas;
 
-XI. El Instituto Electoral del Estado.
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2022)</small>
+
+XI. El Instituto Electoral del Estado de Campeche, a través de la o el Consejero Presidente o de la persona que designe para representarlo;
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2022)</small>
+
+XII. El Poder Legislativo, a través del Diputado o Diputada que presida la Comisión Permanente de Igualdad de Género del Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2022)</small>
+
+XIII. El Poder Judicial, a través de una magistrada designada por el Consejo de la Judicatura;
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2022)</small>
+
+XIV. Representante del Tribunal Electoral del Estado de Campeche;
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2022)</small>
+
+XV. La o el titular de la Comisión de Derechos Humanos del Estado de Campeche;
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2022)</small>
+
+XVI. Tres mujeres representantes de organizaciones civiles especializadas, con probada currícula en trabajo relativo a los Derechos Humanos de las Mujeres y un mínimo de experiencia de tres años, designadas por el Congreso a propuesta de las Comisiones Permanentes Unidas de Igualdad de Género, de Derechos Humanos y Asuntos de Familia y la de Atención a Grupos Vulnerables del Congreso del Estado; y
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2022)</small>
+
+XVII. Dos mujeres especializadas en los derechos humanos de las mujeres, representantes de instituciones académicas y de investigación, designadas por el Congreso del Estado, a propuesta de las Comisiones Unidas de Igualdad de Género y de Derechos Humanos y de Asuntos de Familia.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2022)</small>
+
+Los cargos a que se refieren las fracciones XVI y XVII serán honoríficos y las personas que los ocupen durarán tres años en ellos.
 
 ###### ARTÍCULO 19.
 
 La Secretaría Ejecutiva del Sistema Estatal elaborará el Reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
 
-### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
+### CAPÍTULO II. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### ARTÍCULO 20.
 
@@ -369,7 +427,7 @@ Se procurará la participación de los sectores público, social y privado, espe
 
 ## TÍTULO CUARTO. DE LA COMPETENCIA EN MATERIA DE PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA EN CONTRA DE LAS MUJERES
 
-### CAPÍTULO II. DE LA COMPETENCIA DE LOS MUNICIPIOS
+### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
 
 ###### ARTÍCULO 22.
 
@@ -575,9 +633,49 @@ XI. Difundir a través de diversos medios, los resultados del Sistema Estatal y 
 
 XII. Las demás previstas en esta ley y en otras disposiciones aplicables.
 
-### CAPÍTULO ÚNICO. DE LAS ÓRDENES DE PROTECCIÓN
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2021)</small>
+ARTÍCULO 30 BIS.- Corresponde Al Tribunal Superior de Justicia del Estado:
+
+I. Formar, actualizar y especializar a su personal en materia de derechos humanos de las mujeres, perspectiva de género y sensibilización respecto al trato a mujeres víctimas de violencia;
+
+II. Crear sistemas de registro que incorporen indicadores que faciliten el monitoreo de las tendencias socio-jurídicas de la violencia contra las mujeres y de su acceso a la justicia;
+
+III. Instaurar una cultura de igualdad y no discriminación, libre de estereotipos de género, de roles y lenguaje sexista;
+
+IV. Informar sobre los procedimientos judiciales en materia de violencia de género contra las mujeres;
+
+V. Coordinar, dirigir y administrar las órdenes y medidas de protección e informar sobre las circunstancias en cómo se ejecutan;
+
+VI. Alimentar el Banco Estatal de Datos en coordinación con el Instituto de la Mujer del Estado Campeche;
+
+VII. Emitir sus resoluciones con base en los derechos humanos de las mujeres, reconocidos en la constitución Política de los Estados Unidos Mexicanos, En la Constitución Política del Estado, en los Tratados Internacionales sobre derechos humanos de las mujeres; en la jurisprudencia internacional en la materia y bajo los principios de perspectiva de género, debido proceso y acceso a la justicia;
+
+VIII. Generar mecanismos y promover su implementación para la detección de violencia contra las mujeres; y
+
+IX. Las demás que le señalen otros ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 30 TER.- Corresponde al Instituto Electoral del Estado de Campeche:
+
+I. Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
+
+II. Prevenir y atender la violencia política contra las mujeres en razón de género;
+
+III. Garantizar la igualdad sustantiva y el pleno ejercicio de los derechos políticos y electorales de las mujeres;
+
+IV. Incorporar la perspectiva de género al monitoreo de las pre campañas y campañas políticas, en el ámbito de su competencia;
+
+V. Realizar campañas de difusión de las conductas, acciones u omisiones que conllevan a la violencia política en razón de género; la prevención, formas de denuncia y conciencia sobre su erradicación;
+
+VI. Gestionar ante el Instituto Nacional Electoral la capacitación de su personal y de las personas integrantes de mesas directivas de casilla, en la prevención y en su caso erradicación de la violencia política en razón de género;
+
+VII. Substanciar los procedimientos y remitir al Tribunal Electoral de Campeche para su sanción, de acuerdo con la normatividad aplicable, los expedientes relacionados con las conductas que constituyan violencia política contra las mujeres en razón de género; y
+
+VIII. Las demás que establezcan esta Ley y otras disposiciones aplicables
+
+### CAPÍTULO II. DE LA COMPETENCIA DE LOS MUNICIPIOS
 
 ###### ARTÍCULO 31.
 
@@ -597,17 +695,29 @@ VI. Apoyar la creación de programas de reeducación integral para los agresores
 
 VII. Promover programas educativos sobre la igualdad y la equidad entre los géneros para eliminar la violencia contra las mujeres;
 
-VIII. Apoyar la creación de refugios seguros para las víctimas;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2022)</small>
+
+VIII. Apoyar la creación de refugios seguros para las víctimas, garantizando que la atención a las mujeres indígenas sea realizada por mujeres y en su propia lengua;
 
 IX. Llevar a cabo programas de información a la población respecto de la violencia contra las mujeres;
 
-X. Celebrar convenios de coordinación y concertación con los sectores público, social y privado en la materia a que se refiere esta Ley; y
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2022)</small>
 
-XI. Las demás previstas en esta ley y en otras disposiciones aplicables.
+X. Celebrar convenios de coordinación y concertación con los sectores público, social y privado en la materia a que se refiere esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ABRIL DE 2022)</small>
+
+XI. Garantizar la formación y capacitación a quienes integran la corporación policial para el cumplimiento eficiente de su responsabilidad, teniendo como base los derechos humanos y cualquier protocolo de actuación que proteja a las víctimas; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE ABRIL DE 2022)</small>
+
+XII. Las demás previstas en esta ley y en otras disposiciones aplicables.
 
 ## TÍTULO QUINTO. DE LAS MEDIDAS DE PROTECCIÓN
 
-### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS
+### CAPÍTULO ÚNICO. DE LAS ÓRDENES DE PROTECCIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2021)</small>
 
 ###### ARTÍCULO 32.
 
@@ -763,7 +873,7 @@ Asimismo, se reforzarán las acciones que se contemplaron en un primer momento c
 
 ## TÍTULO SEXTO. DE LA ATENCIÓN A VÍCTIMAS Y DE LOS REFUGIOS
 
-### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS
+### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS
 
 ###### ARTÍCULO 33.
 
@@ -794,6 +904,8 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 ###### ARTÍCULO 35.
 
 El agresor deberá participar obligatoriamente en los programas de reeducación integral, cuando se le determine por mandato de autoridad competente.
+
+### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS
 
 ###### ARTÍCULO 36.
 
@@ -906,3 +1018,11 @@ P.O. 3 DE JUNIO DE 2021.
 Primero. El presente decreto entrará en vigor a los quince días después de su publicación en el Periódico Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 8 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 46 POR EL QUE “SE REFORMA LA FRACCIÓN IX AL ARTÍCULO 5; LA FRACCIÓN XI AL ARTÍCULO 18; LAS FRACCIONES VIII, X Y XI AL ARTÍCULO 31; Y SE ADICIONA UNA FRACCIÓN X AL ARTÍCULO 5; UN CAPÍTULO V TER DENOMINADO “DE LA VIOLENCIA DIGITAL Y MEDIATICA” CON LOS ARTÍCULOS 16 QUÁTER, 16 QUINQUIES, 16 SEXIES Y 16 SEPTIES AL TÍTULO SEGUNDO; LAS FRACCIONES XII, XIII, XIV, XV, XVI, XVII Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 18 Y LOS ARTÍCULOS 30 BIS Y 30 TER, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor a los tres días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
