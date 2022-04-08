@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-social-para-el-estado-de-puebla-52694"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-18"
-last_updated: "2020-10-02"
+last_updated: "2022-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2022.
 
 Ley publicada en la Cuarta Sección al Periódico Oficial del Estado de Puebla, el lunes 18 de diciembre de 2006.
 
@@ -39,7 +39,7 @@ EL HONORABLE QUINCUAGÉSIMO SEXTO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOB
 
 CONSIDERANDO
 
-.
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción II y 64 de la Constitución Política del Estado Libre y Soberano de Puebla, 17 fracción XI, 43 fracciones I y IV, 69 fracción II de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 21, 22 y 24 fracciones I y IV, del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla; se emite la siguiente:
 
@@ -99,9 +99,25 @@ VIII. Libre determinación y autonomía de los pueblos indígenas y sus comunida
 
 IX. Transparencia: La información relativa al desarrollo social es pública en los términos de las leyes en la materia. Las autoridades del Estado garantizarán que la información gubernamental sea objetiva, oportuna, sistemática y veraz;
 
-X. Perspectiva de género: Una visión científica, analítica y política sobre las mujeres y los hombres que se propone eliminar las causas de la opresión de género, como la desigualdad, la injusticia y la jerarquización de las personas basada en el género; planteándose por tanto la igualdad de género en el diseño y ejecución de las políticas públicas de desarrollo social; y
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2022)</small>
 
-XI. Interés superior de la niñez: De conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de los Derechos de Niñas, Niños y Adolescentes, en los tratados internacionales aplicables de los que el Estado Mexicano sea parte, la Constitución Política del Estado Libre y Soberano de Puebla y la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Puebla.
+X. Perspectiva de género: Una visión científica, analítica y política sobre las mujeres y los hombres que se propone eliminar las causas de la opresión de género, como la desigualdad, la injusticia y la jerarquización de las personas basada en el género; planteándose por tanto la igualdad de género en el diseño y ejecución de las políticas públicas de desarrollo social;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2022)</small>
+
+XI. Interés superior de la niñez: De conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de los Derechos de las Niñas, Niños y Adolescentes, en los tratados internacionales aplicables de los que el Estado Mexicano sea parte, la Constitución Política del Estado Libre y Soberano de Puebla y la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Puebla;
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2022)</small>
+
+XII. Igualdad de oportunidades: La cual se refiere al acceso que deben tener todas las personas, para que puedan gozar de las mismas condiciones, posibilidades y oportunidades en los programas que se desprendan de las políticas públicas implementadas en materia de desarrollo social;
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2022)</small>
+
+XIII. Corresponsabilidad: Misma que guarda relación con la participación y responsabilidad que comparten, tanto las personas servidoras públicas como las personas beneficiarias, derivado de la ejecución de acciones enfocadas al desarrollo social; y
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2022)</small>
+
+XIV. Cohesión social: Se refiere a las relaciones de cooperación, organización y solidaridad que se fomentan, a través de acciones de desarrollo social, entre las personas y los diferentes grupos sociales, en especial, aquellos que son más vulnerables.
 
 ###### Artículo 3.
 
@@ -842,3 +858,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Secretaría de Planeación y Finanzas del Gobierno del Estado de Puebla, deberá prever la suficiencia presupuestal, para el cumplimiento del presente Decreto, en su caso.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES X Y XI DEL ARTÍCULO 2 BIS; Y SE ADICIONAN LAS FRACCIONES XII, XIII Y XIV AL ARTÍCULO 2 BIS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
