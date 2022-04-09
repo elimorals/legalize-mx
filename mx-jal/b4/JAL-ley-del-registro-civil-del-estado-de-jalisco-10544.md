@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2021-10-30"
+last_updated: "2022-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -289,7 +289,7 @@ Artículo 22 bis.- Las autoridades municipales deberán pagar horas extras a los
 
 ### CAPITULO IV. De los procedimientos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2022)</small>
 
 ###### Artículo 23.
 
@@ -309,11 +309,19 @@ IV. Tutela y tutela voluntaria;
 
 V. Emancipación; y
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE ABRIL DE 2022)</small>
+
 VI. Pérdida o limitación de la capacidad legal para administrar bienes y el levantamiento de esta restricción;
 
-> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2022)</small>
 
-VII. Inscripciones generales y sentencias.
+VII. Inscripciones generales y sentencias; y
+
+(NOTA: EL 15 DE JUNIO 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 72/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A PARTIR DE LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE JALISCO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ABRIL DE 2022)</small>
+
+VIII. Levantamiento de una nueva acta de nacimiento DE PERSONA MAYOR DE EDAD, para el reconocimiento de identidad de género, previa la anotación correspondiente al acta de nacimiento primigenia.
 
 ###### Artículo 24.
 
@@ -1820,3 +1828,9 @@ P.O. 30 DE OCTUBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 24486/LXII/21 QUE (SIC) MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 8° DE LA LEY ORGÁNICA DE REGISTRO CIVIL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 9 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 28769/LXIII/22 SE REFORMA EL ARTÍCULO 23 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor a partir del siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
