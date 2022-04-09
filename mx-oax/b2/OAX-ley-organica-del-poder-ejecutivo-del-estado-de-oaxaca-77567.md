@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2021-09-18"
+last_updated: "2022-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -253,9 +253,9 @@ VII. (DEROGADA, P.O. 15 DE OCTUBRE DE 2016)
 
 Los subsecretarios, directores de área, coordinadores o sus equivalentes, jefes de departamento y jefes de oficina, deberán cumplir los mismos requisitos, salvo lo establecido en las fracciones II y III.
 
-> <small>(REFORMADO (N. DE E. REPUBLICADO], P.O. 15 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2022)</small>
 
-Todos serán nombrados con base en los principios de idoneidad, honorabilidad, equidad de género, apartidismo en el ejercicio de sus funciones y no discriminación.
+Todos serán nombrados con base en los principios de idoneidad, honorabilidad, paridad de género, apartidismo en el ejercicio de sus funciones y no discriminación; procurando la inclusión de personas con discapacidad.
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
 
@@ -3370,3 +3370,11 @@ P.O. 18 DE SEPTIEMBRE DE 2021.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 9 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 578.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN V DEL ARTÍCULO 79 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA; Y EL PÁRRAFO TERCERO DEL ARTÍCULO 21 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
