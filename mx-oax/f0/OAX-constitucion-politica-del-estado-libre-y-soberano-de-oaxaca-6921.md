@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2021-12-11"
+last_updated: "2022-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2022.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -2381,9 +2381,9 @@ III. Pedir a la Diputación Permanente la convocación de la Legislatura a perí
 
 IV. Instruir, cada vez que le sea solicitado por el Poder Legislativo, al Secretario o titular de la entidad, órgano desconcentrado u órgano auxiliar correspondiente, para que exponga lo relativo a sus responsabilidades y argumente lo conducente en las comisiones en las que se discutan leyes, decretos, planes, programas o proyectos relativos a sus respectivos ramos, así como cuando sean citados para responder a preguntas que se les formulen. En todo caso los integrantes del Ejecutivo no asistirán a las deliberaciones y votaciones de las comisiones legislativas;
 
-> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 9 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2022)</small>
 
-V. Nombrar y remover en los términos del artículo 88 de esta Constitución a las o los titulares de la (sic) Secretarías, de la Consejería Jurídica y a las y los servidores públicos del Gobierno del Estado, cuyas designaciones o destituciones no estén determinadas de otro modo por esta Constitución y las leyes que de ella deriven; dicha designación deberá garantizar el principio de paridad de género en los nombramientos de las personas titulares; y, si ello no fuere posible porque el número de nombramientos a expedir sea impar, será lo más cercano al equilibrio numérico, aplicando el principio de alternancia.
+V. Nombrar y remover en los términos del artículo 88 de esta Constitución a las o los titulares de las Secretarías, de la Consejería Jurídica y a las y los servidores públicos del Gobierno del Estado, cuyas designaciones o destituciones no estén determinadas de otro modo por esta Constitución y las leyes que de ella deriven; dicha designación deberá garantizar el principio de paridad de género en los nombramientos de las personas titulares; y, si ello no fuere posible porque el número de nombramientos a expedir sea impar, será lo más cercano al equilibrio numérico, aplicando el principio de alternancia; y procurará la inclusión de personas con discapacidad.
 
 > <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
@@ -6304,3 +6304,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO.- El Honorable Congreso del Estado de Oaxaca realizará las adecuaciones correspondientes en la legislación estatal para armonizar su contenido con lo dispuesto en el presente Decreto, en el plazo de noventa días contados a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 9 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 578.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN V DEL ARTÍCULO 79 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA; Y EL PÁRRAFO TERCERO DEL ARTÍCULO 21 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
