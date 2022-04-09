@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2021-05-06"
+last_updated: "2022-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2022.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -1705,11 +1705,11 @@ Concedida la autorización por la Secretaría de Relaciones Exteriores y satisfe
 
 ### CAPITULO I. Disposiciones generales
 
-(NOTA: EL 26 DE ENERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 28/2015, DECLARÓ POR VÍA DE CONSECUENCIA LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE ENERO DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2022)</small>
 
 ###### Art. 258.
 
-El matrimonio es una institución de carácter público e interés social, por medio de la cual UN HOMBRE Y UNA MUJER deciden compartir un estado de vida para la búsqueda de su realización personal y la fundación de una familia.
+El matrimonio es una institución de carácter público e interés social, por medio de la cual dos personas deciden de manera libre para realizar la comunidad de vida, para la búsqueda de su realización personal y la fundación de una familia con respeto, ayuda mutua e igualdad de derechos y obligaciones.
 
 ###### Art. 259.
 
@@ -1741,13 +1741,11 @@ Los esposos tienen el derecho natural e inalienable de fundar una familia y deci
 
 ### CAPITULO II. De los requisitos para contraer matrimonio
 
-(NOTA: EL 26 DE ENERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 28/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE ENERO DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2022)</small>
 
 ###### Art. 260.
 
-Para contraer matrimonio, EL HOMBRE Y LA MUJER necesitan contar con cuando menos dieciocho años de edad de conformidad a lo dispuesto por el artículo 45 de la Ley General de las Niñas, Niños y Adolescentes.
+Para contraer matrimonio, las dos personas necesitan contar con cuando menos dieciocho años de edad de conformidad a lo dispuesto por el artículo 45 de la Ley General de las Niñas, Niños y Adolescentes.
 
 ###### Art. 261.
 
@@ -1777,11 +1775,9 @@ Para contraer matrimonio, EL HOMBRE Y LA MUJER necesitan contar con cuando menos
 
 (DEROGADO, P.O. 4 DE ABRIL DE 2015)
 
-(NOTA: EL 26 DE ENERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 28/2015, DECLARÓ POR VÍA DE CONSECUENCIA LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE ENERO DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2008)</small>
-
-Art. 267 bis.- EL HOMBRE Y LA MUJER, acreditarán ante el Oficial del Registro Civil haber recibido el curso prematrimonial que no será menor de dos horas, cuyo contenido versará sobre los derechos y obligaciones que se contraen con el vínculo del matrimonio de acuerdo a los capítulos correspondientes de este código, el cual deberá contener un apartado sobre la igualdad y la equidad de género, así como de prevención, detección, atención, sanción y erradicación de violencia intrafamiliar. Dicho curso será diseñado e impartido por el Sistema Estatal para el Desarrollo Integral de la Familia.
+Art. 267 bis.- Las personas contrayentes acreditarán ante la o el Oficial del Registro Civil haber recibido el curso prematrimonial que no será menor de dos horas, cuyo contenido versará sobre los derechos y obligaciones que se contraen con el vínculo del matrimonio de acuerdo a los capítulos correspondientes de este código, el cual deberá contener un apartado sobre la igualdad y la equidad de género, así como de prevención, detección, atención, sanción y erradicación de violencia familiar y de género. Dicho curso será diseñado e impartido por el Sistema Estatal para el Desarrollo Integral de la Familia.
 
 ###### Art. 268.
 
@@ -19446,3 +19442,9 @@ P.O. 6 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28391/LXII/21 QUE REFORMA LOS ARTÍCULOS 404, 598, 778, 2846, 2954, 2972, 3023, 3038 Y 3040; ADICIONA EL ARTÍCULO 406 BIS; UN PÁRRAFO AL ARTÍCULO 497 Y EL ARTÍCULO 3096 BIS; Y DEROGA LOS ARTÍCULOS 2973, 3039 Y 3053 TODAS LAS ANTERIORES DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 9 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28770/LXIII/22 QUE REFORMA LOS ARTÍCULOS 258, 260 Y 267 BIS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO, RESPECTO DE LA FIGURA JURÍDICA DEL MATRIMONIO IGUALITARIO".]
+
+ÚNICO. El presente decreto entrará en vigor a partir del siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
