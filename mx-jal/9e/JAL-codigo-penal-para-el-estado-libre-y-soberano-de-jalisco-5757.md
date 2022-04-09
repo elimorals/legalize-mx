@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2021-09-09"
+last_updated: "2022-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -3957,6 +3957,14 @@ No serán consideradas como discriminatorias todas aquellas medidas tendientes a
 
 Al servidor público que, por las razones previstas en este artículo, niegue o retarde a una persona un trámite, servicio o prestación al que tenga derecho, se le aumentará en una mitad la pena prevista en el presente artículo y además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por el mismo tiempo de la pena de prisión impuesta.
 
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2022)</small>
+
+###### Art. 202 Ter.
+
+Se impondrá una multa por el equivalente de cincuenta a trescientas veces el valor de la unidad de medida y actualización o de treinta a cien jornadas de trabajo a favor de la comunidad, a la persona que obligue a otra que tenga definida su identidad o expresión de género y orientación sexual, a someterse a tratamientos que pretenda (sic) modificar o imponer la expresión o identidad de género, o la orientación sexual de la persona a través de las llamadas terapias de conversión o ECOSIG (Esfuerzos para Corregir la Orientación Sexual y la Identidad de Género).
+
+La sanción aumentará hasta una cuarta parte de la ya señalada en el párrafo anterior, en los casos en que esta conducta se realice en contra de personas que no cuenten con la capacidad de comprender el hecho.
+
 ### CAPITULO I. Disparo de arma de fuego sobre persona y ataque peligroso
 
 ###### Art. 203.
@@ -7140,3 +7148,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
 
 TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea agendado dentro de los plazos y términos que corresponden en su (sic) la Ley Orgánica del Poder Legislativo.
+
+P.O. 9 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28768/LXIII/22 QUE ADICIONA EL ARTÍCULO 202 TER DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor a partir del siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
