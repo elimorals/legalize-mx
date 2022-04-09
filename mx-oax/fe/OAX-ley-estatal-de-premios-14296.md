@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-premios-14296"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-05"
-last_updated: "2002-08-24"
+last_updated: "2022-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE PREMIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 5 de diciembre de 1998.
 
@@ -429,9 +429,17 @@ III. Actividades Artísticas;
 
 IV. Méritos Cívicos;
 
-V. Labor Social; y
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2022)</small>
 
-VI. Protección al Ambiente.
+V. Labor Social;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2022)</small>
+
+VI. Protección al Ambiente; e
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2022)</small>
+
+VII. Igualdad de Género y Diversidad Sexual.
 
 ###### ARTICULO 61.
 
@@ -532,3 +540,11 @@ UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicaci
 P.O. 24 DE AGOSTO DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 564.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES V Y VI, Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 60 DE LA LEY ESTATAL DE PREMIOS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
