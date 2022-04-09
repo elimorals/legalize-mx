@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ingresos-del-municipio-de-bocoyna-para-el-ejercicio-1549
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2021-12-25"
-last_updated: "2021-12-25"
+last_updated: "2022-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=154962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE INGRESOS DEL MUNICIPIO DE BOCOYNA PARA EL EJERCICIO FISCAL 2022 DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2022.
 
 Ley publicada en el Anexo del Número 103 del Periódico Oficial del Estado de Chihuahua, el sábado 25 de diciembre de 2021.
 
