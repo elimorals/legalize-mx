@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-universidad-politecnica-de-aguascalientes-50891"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-31"
-last_updated: "2006-05-31"
+last_updated: "2022-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE LA UNIVERSIDAD POLITECNICA DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LA UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 11 DE ABRIL DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 LEY DE LA UNIVERSIDAD POLlTECNICA DE AGUASCALlENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2022 (DEROGADA).
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 31 de mayo de 2006.
 
@@ -566,3 +568,39 @@ Luis Armando Reynoso Femat.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jorge Mauricio Martínez Estebanez.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 110.- SE EXPIDE LA "LEY DE LA UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga la Ley de la Universidad Politécnica de Aguascalientes, expedida mediante Decreto Número 165 por la LIX Legislatura del Poder Legislativo del Estado Libre y Soberano de Aguascalientes, publicada en el Periódico Oficial del Estado el día 31 de mayo de 2006.
+
+ARTÍCUO TERCERO. La Universidad Politécnica de Aguascalientes a la que se hace mención en la presente Ley, para todo efecto a que haya lugar, es el mismo organismo público descentralizado de la Administración Pública del Estado de Aguascalientes al que se hace referencia en la Ley de la Universidad Politécnica de Aguascalientes, emitida mediante el Decreto Número 165, publicado en el Periódico Oficial del Estado de Aguascalientes, el 31 de mayo de 2006, en consecuencia conservará los recursos humanos, financieros y materiales.
+
+###### ARTÍCULO CUARTO.
+
+La nueva integración de la Junta Directiva a que se refiere el artículo 14 de esta Ley, se instalará una vez que concluya el cargo por el que fueron designados los representantes a que se refiere la fracción III del artículo 7° de la Ley de la Universidad Politécnica de Aguascalientes que se abroga.
+
+Para efecto de lo anterior, el Presidente de la Junta Directiva de la Universidad Politécnica de Aguascalientes deberá designar a las personas distinguidas que integrarán la Junta Directiva de la propia UPA previamente a la sesión de instalación.
+
+La persona titualr de la Rectoría a que se refiere el artículo 20, así como las personas señaladas en la fracción IV del artículo 32, ambas disposiciones de la presente Ley, serán designadas una vez que concluyan el encargo por el que fueron nombradas las que actualmente lo desempeñan.
+
+###### ARTÍCULO QUINTO.
+
+La Junta Directiva de la Universidad Politécnica de Aguascalientes deberá realizar tanto las acciones necesarias como las reformas al Estatuto Orgánico de la propia UPA y demás normatividad institucional indispensable, a efecto de que las funciones, unidades administrativas y órganos de la UPA encuentren congruencia y armonía con la presente Ley, lo cual deberá realizarse en un término que no exceda de 120 días naturales a partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a la persona titular de la Rectoría de la Universidad Politécnica de Aguascalientes para que lleve a cabo las acciones necesarias tendentes a la inscripción de la presente Ley en el Registro Público de la Propiedad y del Comercio en el Estado de Aguascalientes, en el libro correspondiente a las Entidades Paraestatales.
+
+###### ARTÍCULO SÉPTIMO.
+
+Una vez que sean emitidos los Lineamientos por parte de la Contraloría del Estado en materia de la regulación de los Órganos Internos de Control, la Junta Directiva de la Entidad Paraestatal deberá emitir sus Lineamientos con apego a los expedidos por la Dependencia mencionada, en un término no mayor a 90 dias contados a partir de su publicación.
