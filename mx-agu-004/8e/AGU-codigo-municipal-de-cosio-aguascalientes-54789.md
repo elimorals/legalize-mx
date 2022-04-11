@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-cosio-aguascalientes-54789"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-19"
-last_updated: "2020-08-24"
+last_updated: "2022-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE COSÍO, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de marzo de 2007.
 
@@ -36,6 +36,8 @@ Que el Ayuntamiento de Cosío, Ags., en la primera sesión Ordinaria celebrada e
 CODIGO MUNICIPAL DE COSÍO, AGS.
 
 EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 CODIGO MUNICIPAL DE COSÍO, AGS.
 
@@ -2113,45 +2115,135 @@ IX.- Dirección de Seguridad Pública y Vialidad;
 
 X.- Contraloría Municipal y;
 
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
+
+XI.- La Dirección de Instancia de la Mujer.
+
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE ESTE PÁRRAFO QUEDÓ INMERSO CON EL ANTERIOR SEGUNDO PÁRRAFO. VÉASE LITERALIDAD DEL DECRETO, PUBLICADO EN EL P.O. DE 11 DE ABRIL DE 2022, PÁGINA 55.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2022)</small>
+
+ARTICULO 220 BIS.- La Dirección de Instancia de la Mujer, tiene las siguientes disposiciones generales:
+
 > <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2010)</small>
-
-XI.- La Instancia Municipal de las Mujeres de Cosío.
-
-> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2010)</small>
-
-ARTICULO 220 BIS.- Para el desarrollo social integral de la Mujer de Cosío se instituye el organismo público descentralizado de la administración municipal denominada Instancia Municipal de las Mujeres de Cosío, a la cual se otorga personalidad jurídica para todo efecto legal.
-
-Disposiciones Generales:
 
 I.- La Instancia Municipal de las Mujeres de Cosío, tendrá su domicilio legal en la Localidad de Cosío en el Municipio de Cosío, Aguascalientes.
 
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
 II.- El patrimonio de La Instancia Municipal de las Mujeres de Cosío, es propio y se integra por el presupuesto y los bienes muebles e inmuebles que le transmita en propiedad el Municipio de Cosío, recursos y apoyos que obtenga de instituciones públicas Estatales y/o Federales y/o privadas, así como por todos los bienes y derechos que adquiera por cualquier otro título y por las obligaciones que adquiera o le deriven de las disposiciones legales aplicables.
 
-III.- El Municipio Cosío, por conducto de la Presidencia Municipal, suministrará a La Instancia Municipal de las Mujeres de Cosío, los bienes, recursos e insumos necesarios para su funcionamiento administrativo, en la medida en que los recursos propios del mismo no resulten suficientes para tal efecto, por lo que en el Presupuesto de Egresos del Municipio Cosío (sic) se contemplará la partida que apruebe el H. Cabildo para su asignación a la Instancia.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
+
+III.- El Municipio Cosío, por conducto de la Presidencia Municipal, suministrará a La Dirección de Instancia de la Mujer, los bienes, recursos e insumos necesarios para su funcionamiento administrativo, por lo que en el Presupuesto de Egresos del Municipio Cosío (sic) se contemplará la partida que apruebe el H. Cabildo para su asignación a la Instancia.
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2010)</small>
 
 IV.- Para el cumplimiento de su objeto y ejercicio de sus atribuciones La Instancia Municipal de las Mujeres de Cosío, estará dotada de autonomía técnica y de gestión, por lo que sus proyectos y programas, actos y actividades serán decididos y ejecutados en los términos establecidos por sus órganos de dirección en los términos de este Código.
 
-V.- La Instancia Municipal de las Mujeres de Cosío, tiene como objeto el establecimiento y ejecución de proyectos y programas tendientes al desarrollo social de las mujeres, con el fin de propiciar la educación, formación y realización integral de las mujeres, con dignidad y equidad, en el conjunto de sus potencialidades como persona.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
 
-VI.- Los proyectos y programas de La Instancia Municipal de las Mujeres de Cosío, se formularán con base a lo previsto en materia de desarrollo social en el Plan de Gobierno Municipal.
+V.- La Dirección de Instancia de la Mujer, tiene como objeto el establecimiento y ejecución de proyectos y programas tendientes al desarrollo social de las mujeres, con el fin de propiciar la educación, formación y realización integral de las mujeres, con dignidad y equidad, en el conjunto de sus potencialidades como persona.
 
-VII.- En los proyectos y programas de La Instancia Municipal de las Mujeres de Cosío, se contemplará de manera prioritaria las actividades y acciones tendientes a evitar, prevenir y corregir la discriminación, desigualdad y maltrato a las mujeres, así como para promover la educación en el ejercicio y respeto de sus derechos, su dignidad y sus valores y para la promoción de su mejoramiento cultural, social y económico, incluyéndose la realización de estudios, análisis, investigaciones y diagnóstico sobre la problemática que afecta a las mujeres en el municipio de Cosío.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
 
-VIII.- La Instancia Municipal de las Mujeres de Cosío, podrá coordinarse con entidades o instituciones públicas o privadas, mediante los conventos de concertación conducentes al cumplimiento de su objeto y ejercicio de sus atribuciones.
+VI.- Los proyectos y programas de La Dirección de Instancia de la Mujer, se formularán con base a lo previsto en materia de desarrollo social en el Plan Municipal de Desarrollo correspondiente.
 
-IX.- En el ámbito de lo Municipal de las Mujeres de Cosío, La Instancia Municipal de las Mujeres de Cosío, actuará de manera coordinada con las dependencias de la administración pública municipal.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
 
-X.- La ejecución de los proyectos y programas para la realización de los actos y actividades propias del objeto y atribuciones de La Instancia Municipal de las Mujeres de Cosío, estará a cargo de una Directora General, quien contará con personal de apoyo y colaboración necesarios para el optimo desempeño de esta Dirección y que para tal efecto determine el H. Ayuntamiento de Cosío en su presupuesto de egresos a partir del año 2010.
+VII.- En los proyectos y programas de La Dirección de Instancia de la Mujer, se contemplará de manera prioritaria las actividades y acciones tendientes a evitar, prevenir y corregir la discriminación, desigualdad y maltrato a las mujeres, así como para promover la educación en el ejercicio y respeto de sus derechos, su dignidad y sus valores y para la promoción de su mejoramiento cultural, social y económico, incluyéndose la realización de estudios, análisis, investigaciones y diagnóstico sobre la problemática que afecta a las mujeres en el municipio de Cosío.
 
-XI.- La Directora General de La Instancia Municipal de las Mujeres de Cosío, será designada y removida por la ó él Presidente Municipal y designará y removerá al demás personal de La Instancia Municipal de las Mujeres de Cosío, a propuesta de la Directora General, estableciendo el organigrama, facultades y obligaciones de cada uno de los cargos respectivos, determinando las funciones que sean de confianza, mediante acuerdo que se publicará en el Periódico Oficial del Estado.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
 
-XII.- Para ser Directora General de La Instancia Municipal de las Mujeres de Cosío, se requiere ser mujer, preferentemente originaria del Municipio de Cosío y/o habitante del Municipio de Cosío con residencia efectiva y consecutiva mínima de cinco años anteriores al momento de la designación y haberse distinguido o haber participado reiteradamente en actos o actividades a favor de los derechos fundamentales y la dignificación dé las mujeres de Cosío y/o del Estado y/o del País.
+VIII.- La Dirección de Instancia de la Mujer, podrá coordinarse con entidades o instituciones públicas o privadas, mediante los convenios de concertación conducentes al cumplimiento de su objeto y ejercicio de sus atribuciones, a través de la persona facultada para ello.
 
-XIII.- La Directora General tendrá las facultades, dentro del marco de los proyectos y programas, de coordinarse, conducir, dirigir e instruir las actividades de La Instancia Municipal de las Mujeres de Cosío, y ejercerá las facultades legales de representación de la misma frente a terceros particulares y frente a toda clase de autoridades Estatales y Federales, materias y procedimientos, incluyendo los actos que requieran cláusula especial conforme a la ley.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
 
-XIV.- La distribución de la partida asignada en el presupuesto municipal a favor de La Instancia Municipal de las Mujeres de Cosío, será determinada dentro de los primeros quince días de enero de cada año, a propuesta de la Directora General.
+IX.- En el ámbito de lo Municipal de las Mujeres de Cosío, La Dirección de Instancia de la Mujer, actuará de manera coordinada con las dependencias de la administración pública municipal.
 
-XV.- Con el fin de conocer, analizar y evaluar la actividad de La Instancia Municipal de las Mujeres de Cosío, la Directora General rendirá Un informe trimestral al H. Ayuntamiento y al Presidente Municipal de Cosío de manera integral sobre la operación y funcionamiento de La Instancia Municipal de las Mujeres de Cosío, y se mandata a quien ocupe la Presidencia Municipal de Cosío para que incluya lo relativo a La Instancia Municipal de las Mujeres de Cosío, en el correspondiente informe anual de gobierno.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
+
+X.- La ejecución de los proyectos y programas para la realización de los actos y actividades propias del objeto y atribuciones de La Dirección de Instancia de la Mujer, estará a cargo de una Directora General, quien contará con personal de apoyo y colaboración necesarios para el óptimo desempeño de esta Dirección y que para tal efecto determine el H. Ayuntamiento de Cosío en su presupuesto de egresos.
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
+
+XI.- La Directora General de La Dirección de Instancia de la Mujer, será designada y removida por la ó él Presidente Municipal y designará y removerá al demás personal de La Dirección de Instancia de la Mujer, a propuesta de la Directora General, estableciendo el organigrama, facultades y obligaciones de cada uno de los cargos respectivos, determinando las funciones que sean de confianza.
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
+
+XII.- Para ser Directora General de La Dirección de Instancia de la Mujer, se requiere ser mujer, preferentemente originaria del Municipio de Cosío y/o habitante del Municipio de Cosío con residencia efectiva y consecutiva mínima de cinco años anteriores al momento de la designación y haberse distinguido o haber participado reiteradamente en actos o actividades a favor de los derechos fundamentales y la dignificación de las mujeres de Cosío y/o del Estado y/o del País.
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
+
+XIII.- La Directora General tendrá las facultades, dentro del marco de los proyectos y programas, de coordinarse, conducir, dirigir e instruir las actividades de La Dirección de Instancia de la Mujer.
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
+
+XIV.- La distribución de la partida asignada en el presupuesto municipal a favor de La Dirección de Instancia de la Mujer, será determinada dentro de los primeros quince días de enero de cada año, a propuesta de la Directora General.
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
+
+XV.- Con el fin de conocer, analizar y evaluar la actividad de La Dirección de Instancia de la Mujer, la Directora General rendirá Un informe trimestral al H. Ayuntamiento y al Presidente Municipal de Cosío de manera integral sobre la operación y funcionamiento de La Dirección de Instancia de la Mujer.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2022)</small>
+
+ARTICULO 220 TER.- La Dirección de Instancia de la Mujer, tiene las siguientes atribuciones:
+
+I.- Proponer planes y programas que permitan promover el desarrollo personal y profesional de las mujeres del Municipio, así como el ejercicio pleno en la sociedad;
+
+II.- Verificar que los presupuestos basados en resultados a favor de las mujeres se ejerzan conforme a los programas específicos orientados a este sector de la población;
+
+III.- Promover en la sociedad una cultura de no violencia y de no discriminación en contra de la mujer;
+
+IV.- Canalizar la atención médica de primera reacción a las mujeres víctimas de violencia, en las unidades médicas especializadas del Municipio o del Estado;
+
+V.- Fomentar mediante cursos, diplomados, pláticas y foros, la cultura de la denuncia contra la violencia, equidad de género, violencia familiar y derechos humanos;
+
+VI.- Establecer estrategias profesionales para hombres y mujeres, que incurran en violencia de género, con el propósito de concientizar y apoyar a evitar la reincidencia como parte del seguimiento de la seguridad e integridad humana;
+
+VII.- Atender e intervenir a solicitud de las y los ciudadanos del Municipio, en apoyo cuando estos se encuentren en situación de violencia de género, para lo cual deberá de coadyuvar con la Dirección de Seguridad Pública y Movilidad;
+
+VIII.- Dar seguimiento integral a las personas que sean víctimas de violencia de género, coadyuvando con las diferentes Dependencias de la Administración Pública Municipal y las Dependencias Estatales y Federales, buscando preservar los derechos humanos, así como los ambientes básicos de desarrollo;
+
+IX.- Promover la cultura dirigida a lograr la igualdad entre mujeres y hombres, mediante la perspectiva de género;
+
+X.- Vigilar que la orientación, el acompañamiento y apoyo jurídico se proporcionen de acuerdo con las disposiciones legales vigentes;
+
+XI.- Promover asesorías, pláticas o talleres en coordinación con las autoridades del sector salud, para impulsar una educación para la salud física, psicológica y reproductiva de la mujer;
+
+XII.- Dirigir, coordinar y supervisar la realización de pláticas y/o conferencias en materia de derechos y obligaciones de orden familiar tendientes a la protección de la mujer, en instituciones públicas y privadas;
+
+XIII.- Coordinar la difusión de programas y acciones que apoyen a las mujeres en situaciones de violencia: niñas, adolescentes, madres solteras, con discapacidad, adultas mayores y mujeres indígenas, así como orientar, canalizar y gestionar para que reciban servicios jurídicos integrales;
+
+XIV. Promover el desarrollo de habilidades productivas con talleres y cursos para elevar las condiciones culturales y socioeconómicas de las mujeres, a través de los diversos comités o consejos existentes;
+
+XV.- Fomentar toda clase de actos y eventos, que giren en torno al desarrollo y protección de la mujer;
+
+XVI.- Generar en coordinación con (sic) Sistema del Desarrollo Integral de la Familia del Municipio, la elaboración de programas y acciones que fortalezcan a la familia como eje de promoción de la igualdad de derechos, oportunidades y responsabilidades sin distinción de sexo;
+
+XVII.- Programar y ejecutar acciones que aseguren la equidad de género, la inclusión y el desarrollo integral de todos los sectores que conforman la población del Municipio;
+
+XVIII.- Impulsar programas que contengan como base la educación y el fomento de los valores, como herramienta fundamental para acceder a una igualdad de oportunidades, formando personas sensibles, tanto en sus deberes como en sus derechos;
+
+XIX.- Establecer medidas de protección integral para salvaguardar los derechos de los integrantes de la familia, mediante la prevención, atención y tratamiento de la violencia física, psicológica, sexual, patrimonial y económica, a fin de lograr su disminución y erradicación;
+
+XX.- Promover la paridad de género en la Administración Pública Municipal, así como medidas de igualdad y no discriminación.
+
+XXI.- Garantizar la vida laboral, la igualdad de trato y oportunidades entre mujeres y hombres, adoptando medidas dirigidas a la erradicación de cualquier tipo de discriminación laboral;
+
+XXII.- Diseñar, ejecutar y evaluar las políticas públicas para la prevención, atención, sanción y erradicación de la violencia contra las mujeres del Municipio;
+
+XXIII.- Establecer y aplicar el protocolo de intervención, para la prevención, atención y sanción en casos de violencia laboral, discriminación, hostigamiento y/o acoso sexual, dentro de la Administración Pública Municipal;
+
+XXIV.- Divulgar y garantizar el uso del lenguaje no sexista y la perspectiva de género en la Administración Pública Municipal;
+
+XXV.- Elaborar indicadores y estadísticas sobre el tema de género, así como de todos los campos de acción que sean de su competencia;
+
+XXVI.- Establecer y ejecutar medidas específicas para la atención de las mujeres en situación de violencia;
+
+XXVII.- Coadyuvar con el Ministerio Publico para asegurar el acceso pronto, expedito, transparente y eficaz a la justicia para las mujeres en situación de violencia; y
+
+XXVIII.- Realizar todas aquellas actividades que sean inherentes y aplicables al área de su competencia, así como las contenidas en otras disposiciones normativas aplicables y aquellas que le encomiende el Presidente Municipal.
 
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
 
@@ -2626,6 +2718,100 @@ III.- Unidad de Resolución de Procedimientos Administrativos.
 ARTICULO 243 TER.- Los Procedimientos de Responsabilidad Administrativa deberán llevarse a cabo, observando lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, para lo cual se entenderá como autoridad investigadora a la Unidad de Investigación y Recepción de Quejas y Denuncias; Autoridad Substanciadora a la Unidad de Substanciación de Procedimientos de Responsabilidad Administrativa y Autoridad Resolutora a la Unidad de Resolución de Procedimientos Administrativos.
 
 Para fungir como titular de la Unidad de Investigación y Recepción de Quejas y Denuncias, así como de la Unidad de Substanciación de Procedimientos de Responsabilidad Administrativa, y de la Unidad de Resolución de Procedimientos Administrativos, se designará respectivamente en cada una de esas áreas a persona distinta del Contralor Municipal, quienes deberán contar con Título y cédula profesional de Licenciado en Derecho o Contador Público.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2022)</small>
+
+ARTICULO 243 A.- La Coordinación Municipal de Planeación del Municipio de Cosío, Aguascalientes, en lo sucesivo COMUPLA, será la instancia técnica de evaluación a que se refiere el segundo párrafo del Artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y tendrán como propósito, en primera instancia: el propiciar que los recursos económicos se asignen en los respectivos presupuestos con los principios rectores de: legalidad, eficiencia, eficacia, disciplina, economía, transparencia y honestidad para satisfacer los objetivos a los que estén destinados; así como de racionalidad, austeridad, control, rendición de cuentas y perspectiva territorial y de género; y en segundo término: el evaluar que efectivamente el desempeño del gasto público haya sido a la luz de dichos principios.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2022)</small>
+
+ARTICULO 243 B.- La COMUPLA, será la encargada de crear y operar el Sistema de Evaluación del Desempeño Municipal, en aplicación a lo establecido por la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, normatividad que tiene por objeto normar y regular la formulación, presentación y aprobación de la Ley de Ingresos del Estado y, en su caso, de los Municipios; así como las acciones relativas a los procesos de programación, formulación, aprobación, ejercicio, contabilidad, información y evaluación del desempeño del Gasto Público contenido en el Presupuesto de Egresos del Estado y, en su caso, de los municipios, a fin de producir un efecto favorable en la actividad económica y la calidad de vida de la población.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2022)</small>
+
+ARTICULO 243 C.- El Sistema de Evaluación del Desempeño Municipal, se entiende como el conjunto, de elementos metodológicos que permitan realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en Indicadores de Desempeño que permitan conocer el impacto social de los programas.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2022)</small>
+
+ARTICULO 243 D.- Los recursos económicos de que disponga este Municipio, y sus Dependencias y demás Entidades que ejerzan el Gasto Público, serán sujetos al Sistema de Evaluación del Desempeño, con el propósito de orientar la operación de los programas presupuestarios al logro de resultados; con base en la Metodología del Marco Lógico, la cual establece los principios para la conceptualización y diseño de programas públicos y sus herramientas de monitoreo y evaluación, que se plasman en los Indicadores de Desempeño, de Gestión y Estratégicos.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2022)</small>
+
+ARTICULO 243 E.- La COMUPLA, será el órgano técnico de evaluación, integrado principalmente por la Contraloría Municipal, quien actuará en coordinación con la Tesorería Municipal, pues son éstas las unidades administrativas, que acorde a sus atribuciones previstas por los artículos 243 y 249, de este Código, por su orden, tienen a su cargo, funciones de auditoría y evaluación de operación respecto del actuar del Municipio, y sus Dependencias y demás Entidades que ejerzan el Gasto Público. El COMUPLA estará integrado de la siguiente manera:
+
+I.- PRESIDENTE: Presidente Municipal;
+
+II.- SECRETARIO EJECUTIVO: Contralor Municipal;
+
+III.- VOCAL: Tesorero Municipal;
+
+IV.- VOCAL: Secretario del Ayuntamiento;
+
+V.-VOCAL: Síndico Municipal;
+
+VI.- VOCAL: Director Jurídico.
+
+V (SIC).- VOCAL: Regidor de Hacienda.
+
+Cada uno de los integrantes podrá nombrar a un suplente, con excepción del Contralor Municipal y el Tesorero Municipal.
+
+Dentro de los 60 días de iniciada cada Administración Municipal, su Presidente, proveerá a la integración de este órgano.
+
+El COMUPLA, sesionará cuantas veces sea necesario, previa convocatoria por escrito, realizada con anticipación de 24 horas, que formule el Secretario Ejecutivo del mismo, debiéndose señalar el Orden del Día, a que se sujetará la sesión.
+
+Para que tengan validez las decisiones del COMUPLA, será necesario el voto favorable de la mayoría de los integrantes del mismo; en caso de empate, el Presidente Municipal tendrá voto de calidad.
+
+Las sesiones del COMUPLA se realizarán en el lugar que se indique en la convocatoria, debiéndose levantar un acta por el Secretario Ejecutivo del mismo, a la que se agregarán los documentos relacionados con las decisiones tomadas.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2022)</small>
+
+ARTICULO 243 F.- Corresponderá a la COMUPLA, lo siguiente:
+
+I.- Diseñar, coordinar y operar el Sistema de Evaluación del Desempeño;
+
+II.- Emitir los lineamientos para la operación del Sistema de Evaluación del Desempeño;
+
+III.- Emitir los lineamientos relativos a la participación de los evaluadores externos en el marco del Sistema de Evaluación del Desempeño;
+
+IV.- Formular un plan anual de Evaluación del Desempeño de los Programas Presupuestarios;
+
+V.- Revisar los Indicadores de Desempeño, tomando en cuenta la autoevaluación respecto, a la medición del grado de cumplimiento de dichos indicadores que realicen este Municipio, y sus Dependencias y demás Entidades, o bien, la efectuada por los evaluadores externos según corresponda;
+
+VI.- Emitir recomendaciones al Municipio, y sus Dependencias y demás Entidades, con base en los resultados de las evaluaciones a los Indicadores de Desempeño;
+
+VII.- Dar seguimiento al cumplimiento sobre las recomendaciones a que se refiere este Artículo;
+
+VIII.- Elaborar un informe anual que contenga los resultados de las evaluaciones realizadas en el año precedente; y
+
+IX.- Impartir a petición de parte capacitación en materia de Evaluación del Desempeño.
+
+X.- Las demás que señale este capítulo y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2022)</small>
+
+ARTICULO 243 G.- Las atribuciones que este Código le confiere a la COMUPLA en materia de Evaluación de Desempeño, son sin perjuicio de las que la legislación correspondiente confiera al Órgano Superior de Fiscalización del Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2022)</small>
+
+ARTICULO 243 H.- Son obligaciones del Municipio, y sus Dependencias y demás Entidades, en materia de Evaluación del Desempeño, las siguientes:
+
+I.- Elaborar y proponer a la COMUPLA, según corresponda, los Indicadores de Desempeño de los Programas Presupuestarios a su cargo conforme a los lineamientos señalados en el Artículo 243 F;
+
+II.- Autoevaluarse mediante la medición por sí mismos o a través de evaluadores externos, del grado de cumplimiento de los Indicadores de Desempeño;
+
+III.- Dar seguimiento y monitoreo de los Indicadores Estratégicos e Indicadores de Gestión de los Programas Presupuestarios;
+
+IV.- Atender las revisiones y recomendaciones de las Evaluaciones del Desempeño;
+
+V.- Informar trimestralmente a COMUPLA, los resultados de los Indicadores de Desempeño de los Programas Presupuestarios a su cargo, dentro de los diez días siguientes a la conclusión del periodo correspondiente, respecto de los indicadores de desempeño, cuya periodicidad de su cálculo así lo permita;
+
+VI.- Elaborar e implementar proyectos de mejora para incorporar en el diseño, adecuación y operación de los programas a su cargo, atendiendo los resultados de las evaluaciones e informar los avances con oportunidad; y
+
+VII.- Acordar con la COMUPLA, las adecuaciones a los Programas Presupuestarios en cumplimiento de las recomendaciones resultantes de los procesos de seguimiento y evaluación.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2022)</small>
+
+ARTICULO 243 I.- La interpretación y aplicación del Sistema de Evaluación del Desempeño Municipal, se regirá por las disposiciones de este código y, en su defecto, se aplicará supletoriamente la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios.
 
 APARTADO TERCERO
 
@@ -13650,3 +13836,15 @@ P.O. 24 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DE LA “REFORMA AL ARTÍCULO 243 TER DEL CÓDIGO MUNICIPAL DE COSÍO, AGS”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su aprobación en el H. Cabildo del Municipio de Cosío, Ags.
+
+P.O. 11 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO ÚNICO.- SE ADICIONAN LOS ARTÍCULO 243 A, 243 B, 243 C, 243 D, 243 E, 243 F, 243 G, 243 H, 243 I, DEL CÓDIGO MUNICIPAL DE COSIO, AGUASCALIENTES”.]
+
+ÚNICO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 11 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO POR EL QUE "SE REFORMAN LOS ARTÍCULOS 220, FRACCIÓN XI, 220 BIS, Y SE ADICIONA EL ARTÍCULO 220, TER, DEL CÓDIGO MUNICIPAL DE COSÍO, AGUASCALIENTES".]
+
+ÚNICO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
