@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2022-01-03"
+last_updated: "2022-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -905,11 +905,17 @@ Prescripción. Por la prescripción se extingue la acción penal y la potestad d
 
 Prescripción de la acción penal. El ejercicio de la acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de libertad que establezca la descripción típica que corresponda, pero en ningún caso será menor de tres años, y se contará a partir del momento en que se haya concretizado el resultado de lesión o de puesta en peligro del bien jurídico, si el delito es calificado de instantáneo; del momento en que se realizó el último acto de ejecución o se omitió la acción ordenada, si el delito se califica en grado de tentativa; desde el día en que se realizó la última conducta provocadora del resultado de lesión o de puesta en peligro del bien jurídico, si se trata de un delito continuado; y desde el momento en que deje de tener sus efectos, si se trata de delito permanente.
 
-El ejercicio de la acción penal será imprescriptible si el hecho encuadra en cualquiera de las variables o modalidades de la figura típica de secuestro.
+(NOTA: EL 3 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 73/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE ABRIL DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 109, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2022)</small>
+
+El ejercicio de la acción penal será imprescriptible si el hecho encuadra en los tipos penales de pornografía infantil o de incapaces, violación, o violación equiparada, ASÍ COMO EN CUALQUIERA DE LAS VARIABLES O MODALIDADES DE LA FIGURA TÍPICA DE SECUESTRO.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2022)</small>
 
 ###### ARTÍCULO 88.
 
-Prescripción en caso de concurso. En los casos de concurso real o ideal, los plazos de la prescripción se computarán separadamente para cada hecho punible, pero correrán en forma simultánea, salvo que uno de los hechos sea tipificado como de secuestro, en cualquiera de sus variables o modalidades, puesto que en este caso no opera la prescripción.
+Prescripción en caso de concurso. En los casos de concurso real o ideal, los plazos de la prescripción se computarán separadamente para cada hecho punible, pero correrán en forma simultánea, salvo que uno de los hechos sea tipificado bajo los supuestos previstos por el párrafo segundo del artículo 87 de este Código, puesto que en estos casos no opera la prescripción.
 
 ###### ARTÍCULO 89.
 
@@ -3546,3 +3552,11 @@ P.O. 3 DE ENERO DE 2022.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 11 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 109.- SE REFORMAN LOS ARTÍCULOS 87 SEGUNDO PÁRRAFO Y 88 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
