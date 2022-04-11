@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-142998"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2021-08-02"
+last_updated: "2022-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2022.
 
 Ley publicada en la Sección Primera al Número 21 del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
 
@@ -1111,11 +1111,11 @@ IV. Asegurar que se realicen ajustes razonables para las personas con discapacid
 
 V. Proporcionar a los educandos con aptitudes sobresalientes la atención que requieran de acuerdo con sus capacidades, intereses y necesidades. Por lo que para la identificación y atención educativa de los estudiantes con aptitudes sobresalientes, la Autoridad Educativa Estatal, con base a la disponibilidad presupuestal, establecerá los lineamientos para la evaluación diagnostica, los modelos pedagógicos y los mecanismos de acreditación, en la educación básica, media superior y superior. Sujetándose a los lineamientos del sistema educativo nacional.
 
-(NOTA: EL 28 DE OCTUBRE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2020 Y SUS ACUMULADAS 170/2020 Y 207/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE AGUASCALIENTES, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2022)</small>
 
 ###### Artículo 62.
 
-En el Sistema Educativo Estatal se atenderán las disposiciones en materia de accesibilidad señaladas en la presente Ley, la Ley General para la Inclusión de las Personas con Discapacidad, la Ley Federal para Prevenir y Eliminar la Discriminación y en las demás normas aplicables.
+En el Sistema Educativo Estatal se atenderán las disposiciones en materia de accesibilidad señaladas en la presente Ley, la Ley General para la Inclusión de las Personas con Discapacidad, la Ley de Integración Social y Productiva de Personas con Discapacidad del Estado de Aguascalientes, la Ley para Prevenir y Erradicar la Discriminación del Estado de Aguascalientes y demás normas aplicables.
 
 Con la finalidad de atender las disposiciones y llevar a cabo las acciones y medidas señaladas en el (sic) presente Sección el Gobierno del Estado asignará un presupuesto necesario para cumplir con los objetivos de la educación especial pública y distribuirlo eficientemente para lograr el desarrollo integral de las personas con necesidades educativas especiales. Para ello construirá, adaptará y mantendrá los edificios indispensables para este fin, buscará la creación de centros de atención múltiples para personas con discapacidad, en los municipios del interior, sin menoscabo de la participación privada. En caso de requerirlo las personas con necesidades educativas especiales podrán contar con beca de estudios.
 
@@ -1285,9 +1285,11 @@ En caso de que los docentes, el personal que labora en los planteles educativos,
 
 Cuando exista ausentismo del educando por cinco días consecutivos o siete acumulados en un mes, sin que exista justificación por escrito de madres y padres de familia o tutores, las autoridades escolares de las escuelas públicas y privadas del tipo básico informarán a la Autoridad Educativa Estatal, la cual emitirá una alerta temprana y será remitida a las Autoridades Correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2022)</small>
+
 ###### Artículo 80.
 
-Las Autoridades Educativas, en el ámbito de su competencia, promoverán la cultura de la paz y no violencia para generar una convivencia democrática basada en el respeto a la dignidad de las personas y de los derechos humanos. Realizarán acciones que favorezcan el sentido de comunidad y solidaridad, donde se involucren los educandos, los docentes, madres y padres de familia o tutores, así como el personal de apoyo y asistencia a la educación, y con funciones directivas o de supervisión para prevenir y atender la violencia que se ejerza en el entorno escolar.
+Las Autoridades Educativas, en el ámbito de su competencia, promoverán la cultura de la paz y no violencia para generar una convivencia democrática basada en el respeto a la dignidad de las personas y de los derechos humanos. Realizarán acciones que favorezcan el sentido de comunidad y solidaridad, donde se involucren los educandos, los docentes, madres y padres de familia o tutores, así como el personal de apoyo y asistencia a la educación, y con funciones directivas o de supervisión para prevenir y atender la violencia que se ejerza en el entorno escolar, de conformidad con lo dispuesto en la Ley para Prevenir Atender y Erradicar la Violencia Escolar en el Estado de Aguascalientes y demás normas aplicables.
 
 Para cumplir con lo establecido en este artículo, se llevarán a cabo, las acciones contempladas en el artículo 74 de la Ley General de Educación.
 
@@ -1307,9 +1309,9 @@ b) Coadyuvar en la aplicación de programas relacionados con salud mental infant
 
 c) Implementar programas de información dirigida a maestras, maestros, madres, padres y estudiantes, sobre los efectos adversos de los trastornos mentales y de las medidas para detectar, atender y prevenir aquellos factores que induzcan al suicidio;
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2022)</small>
 
-d) Celebrar los convenios interinstitucionales necesarios entre dependencias y con organizaciones de la sociedad civil para lograr los objetivos de la presente fracción; e
+d) Celebrar los convenios interinstitucionales necesarios entre dependencias y con organizaciones de la sociedad civil para lograr los objetivos de la presente sección; e
 
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
 
@@ -1525,9 +1527,11 @@ Cada Consejo Técnico Escolar contará con un Comité de Planeación y Evaluaci�
 
 ### Capítulo III. Del Financiamiento de la Educación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2022)</small>
+
 ###### Artículo 106.
 
-El Ejecutivo Federal y el gobierno de cada entidad federativa, con sujeción a las disposiciones de ingresos y gasto público correspondientes que resulten aplicables, concurrirán al financiamiento de la educación pública y de los servicios educativos en apego a lo establecida en el artículo 119 de la Ley General de Educación.
+El Ejecutivo Federal y el gobierno del Estado, con sujeción a las disposiciones de ingresos y gasto público correspondientes que resulten aplicables, concurrirán al financiamiento de la educación pública y de los servicios educativos conforme a lo dispuesto en el artículo 119 de la Ley General de Educación.
 
 Los recursos federales recibidos para la prestación de los servicios educativos a la entidad federativa no serán transferibles y deberán aplicarse íntegra, oportuna y exclusivamente a la prestación de servicios y demás actividades educativas en la propia entidad. El gobierno de cada entidad federativa publicará en su respectivo diario oficial, los recursos que la Federación le transfiera para tal efecto, en forma desagregada por nivel, programa educativo y establecimiento escolar.
 
@@ -1745,9 +1749,13 @@ III. Colaborar con las instituciones educativas en las que estén inscritos sus 
 
 IV. Informar a las autoridades educativas, los cambios que se presenten en la conducta y actitud de los educandos, para que se apliquen los estudios correspondientes, con el fin de determinar las posibles causas;
 
-V. Acudir a los llamados de las autoridades educativas y escolares relacionados con la revisión del progreso, desempeño y conducta de sus hijas, hijos o pupilos menores de dieciocho años; y
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
 
-VI. Promover la participación de sus hijas, hijos o pupilos menores de dieciocho años en la práctica de actividades físicas, de recreación, deportivas y de educación física dentro y fuera de los planteles educativos, como un medio de cohesión familiar y comunitaria.
+V. Acudir a los llamados de las autoridades educativas y escolares relacionados con la revisión del progreso, desempeño y conducta de sus hijas, hijos o pupilos menores de dieciocho años;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
+
+VI. Promover la participación de sus hijas, hijos o pupilos menores de dieciocho años en la práctica de actividades físicas, de recreación, deportivas y de educación física dentro y fuera de los planteles educativos, como un medio de cohesión familiar y comunitaria; y
 
 VII.- Fomentar en sus hijas, hijos o pupilos menores de dieciocho años, una cultura de respeto y reconocimiento a la autoridad del maestro o personal docente y administrativo de los planteles educativos, además de las normas de convivencia social de las escuelas.
 
@@ -2216,3 +2224,11 @@ P.O. 2 DE AGOSTO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 108.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 62, EL PÁRRAFO PRIMERO DEL ARTÍCULO 80, EL INCISO D) DEL ARTÍCULO 82, EL PÁRRAFO PRIMERO DEL ARTÍCULO 106 Y LAS FRACCIONES V Y VI DEL ARTÍCULO 125 DE LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES Y SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 6O DE LA LEY DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
