@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-proteccion-civil-del-estado-de-san-luis-9518
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-06"
-last_updated: "2021-11-18"
+last_updated: "2022-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de julio de 2013.
 
@@ -771,7 +771,9 @@ Los donativos en efectivo recibidos por las instituciones bancarias o financiera
 
 Las coordinaciones Estatal y municipales, en su caso, llevarán a cabo verificaciones de las condiciones de seguridad en bienes inmuebles, instalaciones y equipos, siguientes:
 
-I. Edificios departamentales de hasta cuatro unidades de vivienda, viviendas para cinco familias o más y edificaciones con habitaciones colectivas para más de veinte personas, como asilos, conventos, internados, fraternidades, hoteles, moteles, campamentos turísticos, y centros vacacionales;
+> <small>(REFORMADA, (P.O. 11 DE ABRIL DE 2022)</small>
+
+I. Inmuebles que sean destinados a casa habitación y que tengan cuatro unidades de vivienda o más, así como aquellos que concentren habitaciones individuales o colectivas para veinte personas o más, como es el caso de asilos, conventos, internados, fraternidades, hoteles, moteles, campamentos turísticos, centros vacacionales y centros para el tratamiento, rehabilitación, control, y reinserción social de personas con problemas de alcoholismo, tabaquismo y farmacodependencia;
 
 II. Escuelas y centros de estudios superiores en general;
 
@@ -1040,3 +1042,11 @@ P.O. 18 DE NOVIEMBRE DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis"
 
 SEGUDNO (SIC). Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0297.- SE REFORMA EL ARTÍCULO 62, EN SU FRACCIÓN I, DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
