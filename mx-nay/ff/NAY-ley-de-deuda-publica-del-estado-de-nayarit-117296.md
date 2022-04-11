@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-deuda-publica-del-estado-de-nayarit-117296"
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-21"
-last_updated: "2016-10-21"
+last_updated: "2022-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el viernes 21 de octubre de 2016.
 
@@ -63,7 +63,9 @@ VI. Deuda Estatal Garantizada: el Financiamiento de los Estados y Municipios con
 
 VII. Deuda Pública: cualquier Financiamiento contratado por lo (sic) Entes Públicos;
 
-VIII. Entes Públicos: El Poder Ejecutivo, Legislativo y Judicial del Estado, los organismos autónomos del Estado y sus Municipios; los Organismos Descentralizados Estatales o Municipales, las Empresas de Participación Estatal o Municipal Mayoritaria y fideicomisos públicos paraestatales o paramunicipales o cualquier otro ente sobre el que el Estado y sus Municipios tengan control sobre sus decisiones o acciones;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
+
+VIII. Entes Públicos: El Poder Ejecutivo, Legislativo y Judicial del Estado, los organismos autónomos del Estado y sus Municipios; las Universidades Públicas, los Organismos Descentralizados Estatales o Municipales, las Empresas de Participación Estatal o Municipal Mayoritaria y fideicomisos públicos paraestatales o paramunicipales o cualquier otro ente sobre el que el Estado y sus Municipios tengan control sobre sus decisiones o acciones;
 
 IX. Entidades Paraestatales de carácter estatal: Los Organismos Públicos descentralizados, las empresas de participación estatal mayoritaria, los fondos y Fideicomisos Públicos y demás organismos a los que con ese carácter se refiere la Ley Orgánica del Poder Ejecutivo del Estado;
 
@@ -153,13 +155,19 @@ I. Regular las bases sobre las cuales los Entes Públicos podrán celebrar finan
 
 II. Autorizar los montos máximos de los financiamientos u obligaciones que contraten los Entes Públicos, previo análisis de la capacidad de pago del Ente Público, del destino del financiamiento u obligación y, en su caso, del otorgamiento de recursos como fuente o garantía de pago;
 
-III. Verificar que las operaciones de deuda pública del Ejecutivo del Estado, los Municipios y los entes públicos se lleven a cabo conforme a las autorizaciones dadas y las disposiciones legales y administrativas que resultan aplicables;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
+
+III. Verificar que las operaciones de deuda pública de los Entes Públicos se lleven a cabo conforme a las autorizaciones dadas y las disposiciones legales y administrativas que resultan aplicables;
 
 IV. Autorizar al Ejecutivo del Estado y a los Municipios, para que lleven a cabo la afectación de las participaciones federales que les correspondan, como garantía o fuente de pago de los financiamientos u obligaciones constitutivos de deuda pública, en términos de las disposiciones legales y administrativas que resulten aplicables;
 
-V. Autorizar al Ejecutivo del Estado para que otorgue aval o garantía a los financiamientos u obligaciones constitutivos de deuda pública de sus Organismos Descentralizados, Empresas de Participación Estatal Mayoritaria, Fideicomisos Locales y de los Municipios;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
 
-VI. Hacer del conocimiento del Ejecutivo del Estado, los Municipios y los demás Entes Públicos cualquier observación que surja de la verificación que realice a las operaciones de deuda pública;
+V. Autorizar al Ejecutivo del Estado para que otorgue aval o garantía a los financiamientos u obligaciones constitutivos de deuda pública de sus Organismos Descentralizados, Empresas de Participación Estatal Mayoritaria, Fideicomisos Locales, Universidades Públicas y de los Municipios;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
+
+VI. Hacer del conocimiento del Ejecutivo del Estado, de las Universidades Públicas, de los Municipios y los demás Entes Públicos cualquier observación que surja de la verificación que realice a las operaciones de deuda pública;
 
 VII. Aprobar en el presupuesto de egresos del Estado, las partidas necesarias para cumplir con los financiamientos u obligaciones;
 
@@ -181,19 +189,27 @@ I. Someter a consideración del Congreso del Estado para su discusión y en su c
 
 II. Informar al Congreso del Estado, de forma previa a la remisión de las iniciativas de Ley de Ingresos y Presupuesto de Egresos sobre la situación de la Deuda Pública, así como rendir la Cuenta Pública;
 
-III. Otorgar en su caso y previa autorización de la legislatura local, el aval o garantía para los financiamientos u obligaciones a favor de los organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos locales y de los Municipios;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
 
-IV. Previa autorización del Congreso del Estado, llevar a cabo la afectación de las participaciones federales que corresponden (sic) Estado, como garantía o fuente de pago de los financiamientos u obligaciones contraídos por los organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos locales, así como de los Municipios, en términos de las disposiciones legales y administrativas que resulten aplicables;
+III. Otorgar en su caso y previa autorización de la legislatura local, el aval o garantía para los financiamientos u obligaciones a favor de las Universidades Públicas, los organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos locales y de los Municipios;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
+
+IV. Previa autorización del Congreso del Estado, llevar a cabo la afectación de las participaciones federales que corresponden al Estado, como garantía o fuente de pago de los financiamientos u obligaciones contraídos por las Universidades Públicas, los organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos locales, así como de los Municipios, en términos de las disposiciones legales y administrativas que resulten aplicables;
 
 V. Previa autorización del Congreso del Estado, afectar como garantía o fuente de pago de los financiamientos u obligaciones de los organismos públicos descentralizados, fideicomisos y empresas de participación municipal mayoritaria, las participaciones que correspondan a los Municipios, de conformidad con las disposiciones legales y administrativas aplicables.
 
 Para ello, los Municipios deberán adherirse o formalizar con el Ejecutivo Estatal, por conducto de la Secretaría de Administración, el acto o mecanismo jurídico correspondiente.
 
-VI. Previa autorización del Congreso del Estado, afectar como garantía o fuente de pago de los financiamientos u obligaciones constitutivos de deuda pública de los Municipios, sus organismos públicos descentralizadas (sic), fideicomisos y empresas de participación municipal mayoritaria, cualquier otro ingreso que les corresponda y se pueda afectar, de conformidad con las disposiciones legales y administrativas aplicables.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
 
-Para ello, los Municipios deberán adherirse o formalizar con el Ejecutivo Estatal, por conducto de la Secretaría de Administración, el acto o mecanismo jurídico correspondiente;
+VI. Previa autorización del Congreso del Estado, afectar como garantía o fuente de pago de los financiamientos u obligaciones constitutivos de deuda pública de las Universidades Públicas, los Municipios, sus organismos públicos descentralizadas (sic), fideicomisos y empresas de participación municipal mayoritaria, cualquier otro ingreso que les corresponda y se pueda afectar, de conformidad con las disposiciones legales y administrativas aplicables.
 
-VII. Aplicar y vigilar que los Municipios y los entes públicos destinen los recursos procedentes de los financiamientos u obligaciones constitutivos de deuda pública, a inversiones públicas productivas y al refinanciamiento o reestructura, incluyendo los gastos y costos relacionados con la contratación de dichos financiamientos u obligaciones, así como a las reservas que deban contemplarse en relación a las mismas;
+Para ello, las Universidades Públicas y los Municipios deberán adherirse o formalizar con el Ejecutivo Estatal, por conducto de la Secretaría de Administración, el acto o mecanismo jurídico correspondiente;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
+
+VII. Aplicar y vigilar que los Entes Públicos destinen los recursos procedentes de los financiamientos u obligaciones constitutivos de deuda pública, a inversiones públicas productivas y al refinanciamiento o reestructura, incluyendo los gastos y costos relacionados con la contratación de dichos financiamientos u obligaciones, así como a las reservas que deban contemplarse en relación a las mismas;
 
 VIII. Celebrar contratos y/o convenios, así como suscribir los documentos necesarios, para formalizar las operaciones de refinanciamiento y/o reestructuración de los créditos adquiridos por el Estado, en los que (sic) casos que correspondan;
 
@@ -205,9 +221,13 @@ XI. Asesorar a los Municipios o sus organismos descentralizados, fideicomisos y 
 
 XII. Constituir fideicomisos y afectar ingresos en los términos de ésta y demás Leyes relativas, así como la realización de los demás actos relacionados con su objeto;
 
-XIII. Determinar la viabilidad del otorgamiento de aval para los Municipios y las Entidades Paraestatales;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
 
-XIV. Verificar que los Municipios y los demás entes públicos efectúen de manera oportuna las amortizaciones del capital e intereses de los financiamientos u obligaciones contratados;
+XIII. Determinar la viabilidad del otorgamiento de aval para las Universidades Públicas, los Municipios y las Entidades Paraestatales;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
+
+XIV. Verificar que las Universidades Públicas, los Municipios y los demás Entes Públicos efectúen de manera oportuna las amortizaciones del capital e intereses de los financiamientos u obligaciones contratados;
 
 XV. Incluir en la cuenta pública la información financiera de la deuda pública del Estado;
 
@@ -295,9 +315,11 @@ IV. Previo a la contratación de cualquier financiamiento u obligación, entrega
 
 V. Las demás que establezcan esta Ley y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2022)</small>
+
 ###### ARTÍCULO 11.
 
-La fiscalización sobre el cumplimiento de lo dispuesto en esta Ley, corresponderá al Órgano de Fiscalización Superior del Estado, conforme a lo dispuesto en el artículo 121 de la Constitución Política del Estado Libre y Soberano de Nayarit y en el artículo 79 de la Constitución Política de los Estados Unidos Mexicanos.
+La fiscalización sobre el cumplimiento de lo dispuesto en esta Ley, corresponderá a la Auditoría Superior del Estado, conforme a lo dispuesto en el artículo 121 de la Constitución Política del Estado Libre y Soberano de Nayarit y en el artículo 79 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ### CAPÍTULO TERCERO. DE LA CONTRATACIÓN DE DEUDA PÚBLICA
 
@@ -435,9 +457,11 @@ Las Obligaciones a corto plazo a que se refiere el presente Capítulo no podrán
 
 ### CAPÍTULO QUINTO. DE LAS GARANTÍAS Y AVALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2022)</small>
+
 ###### ARTÍCULO 27.
 
-El Ejecutivo del Estado podrá garantizar, otorgar su aval o fungir como deudor solidario o subsidiario de los financiamientos u obligaciones que contraten los Municipios y las entidades paraestatales de carácter estatal, sólo si se cumplen con los requisitos siguientes:
+El Ejecutivo del Estado podrá garantizar, otorgar su aval o fungir como deudor solidario o subsidiario de los financiamientos u obligaciones que contraten las Universidades Públicas, los Municipios y las entidades paraestatales de carácter estatal, sólo si se cumplen con los requisitos siguientes:
 
 I. Que la Secretaría de Administración considere viable que el Ejecutivo del Estado otorgue la garantía solicitada y exista opinión favorable para ello, de la comisión intersecretarial de Gasto y Financiamiento;
 
@@ -451,9 +475,11 @@ V. Se encuentre al corriente en el cumplimiento de las obligaciones de inscripci
 
 VI. Los demás que se establezcan al respecto.
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2022)</small>
+
 ###### ARTÍCULO 28.
 
-Cuando los Municipios y las entidades paraestatales de carácter estatal requieran que el Ejecutivo del Estado funja como aval, deudor solidario o subsidiario u otorgue garantía de pago a su favor, deberán formular la solicitud a través de la Secretaría de Administración, la cual deberá acompañarse de los documentos que acrediten el cumplimiento de los requisitos previstos en el artículo 27 de esta Ley.
+Cuando las Universidades Públicas, los Municipios y las entidades paraestatales de carácter estatal requieran que el Ejecutivo del Estado funja como aval, deudor solidario o subsidiario u otorgue garantía de pago a su favor, deberán formular la solicitud a través de la Secretaría de Administración, la cual deberá acompañarse de los documentos que acrediten el cumplimiento de los requisitos previstos en el artículo 27 de esta Ley.
 
 ###### ARTÍCULO 29.
 
@@ -461,17 +487,27 @@ Para solicitar el aval o la garantía del Ejecutivo del Estado, como deudor soli
 
 Todas las autorizaciones que en materia de Deuda Pública concedan los Ayuntamientos, deberán otorgarse con la votación que se señala en la Ley Municipal para el Estado de Nayarit, con las condiciones y requisitos que se establecen para el Congreso del Estado, en los artículos 13, 14 y 16 de esta Ley.
 
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 29 BIS.- Las Universidades Públicas no podrán contratar Financiamientos y demás Obligaciones sin previa autorización de su autoridad competente que se formalizará en el acta correspondiente.
+
+Para ello, deberán solicitar la autorización al Congreso del Estado, y deberán contar con la autorización al Ejecutivo del Estado para que otorgue la garantía, el aval o fungir como deudor solidario o subsidiario.
+
 ###### ARTÍCULO 30.
 
 Las entidades paraestatales de carácter estatal que pretendan solicitar el aval o la garantía del Ejecutivo del Estado como deudor solidario o subsidiario, deberán contar con la autorización previa de las dos terceras partes de los miembros presentes de su órgano de gobierno, que se formalizará en el acta correspondiente.
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2022)</small>
+
 ###### ARTÍCULO 31.
 
-Cuando el Ejecutivo del Estado funja como aval, deudor solidario o subsidiario de los Municipios y entidades paraestatales de carácter estatal u otorgue garantías de los financiamientos u obligaciones a su cargo, estos tendrán la responsabilidad de llevar un registro y control interno de su deuda, así también deberán rendir la información financiera que le solicite la Secretaría de Administración, con la periodicidad que esta les indique o cuando menos trimestralmente.
+Cuando el Ejecutivo del Estado funja como aval, deudor solidario o subsidiario de las Universidades Públicas, los Municipios y entidades paraestatales de carácter estatal u otorgue garantías de los financiamientos u obligaciones a su cargo, estos tendrán la responsabilidad de llevar un registro y control interno de su deuda, así también deberán rendir la información financiera que le solicite la Secretaría de Administración, con la periodicidad que esta les indique o cuando menos trimestralmente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2022)</small>
 
 ###### ARTÍCULO 32.
 
-Cuando el Ejecutivo del Estado funja como aval, deudor solidario o subsidiario u otorgue garantía a los Municipios y las entidades paraestatales de carácter estatal, estos deberán inscribir los financiamientos y obligaciones en el Registro Estatal de Deuda Pública, dentro de los 10 días posteriores al de su contratación.
+Cuando el Ejecutivo del Estado funja como aval, deudor solidario o subsidiario u otorgue garantía a las Universidades Públicas, a los Municipios y las entidades paraestatales de carácter estatal, estos deberán inscribir los financiamientos y obligaciones en el Registro Estatal de Deuda Pública, dentro de los 10 días posteriores al de su contratación.
 
 Para la inscripción presentarán la documentación siguiente:
 
@@ -483,7 +519,9 @@ III. Copia certificada del acta de Cabildo o de la autorización del Órgano de 
 
 IV. Información sobre el destino de los recursos, y
 
-V. Cualquier otro requisito que en forma general determine el Ejecutivo del Estado a través de la Secretaría de Finanzas.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
+
+V. Cualquier otro requisito que en forma general determine el Ejecutivo del Estado a través de la Secretaría de Administración.
 
 ### CAPÍTULO SEXTO. DE LA DEUDA ESTATAL GARANTIZADA
 
@@ -667,7 +705,9 @@ VI. Tratándose de Obligaciones que se originen de la emisión de valores, basta
 
 VII. Encontrarse al corriente en el cumplimiento de las obligaciones de entrega de información a la Secretaría Federal, para la evaluación del Sistema de Alertas;
 
-VIII. Encontrarse al corriente en el cumplimiento de la obligación de publicar la información financiera de acuerdo con las disposiciones de la Ley General de Contabilidad Gubernamental y las normas expedidas por el Consejo Nacional de Armonización Contable al cual hace referencia dicha Ley. Para tal efecto, se deberá presentar la opinión del Órgano de Fiscalización Superior del Estado, en la que manifieste si el ente público cumple con dicha publicación, y
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
+
+VIII. Encontrarse al corriente en el cumplimiento de la obligación de publicar la información financiera de acuerdo con las disposiciones de la Ley General de Contabilidad Gubernamental y las normas expedidas por el Consejo Nacional de Armonización Contable al cual hace referencia dicha Ley. Para tal efecto, se deberá presentar la opinión de la Auditoría Superior del Estado, en la que manifieste si el ente público cumple con dicha publicación, y
 
 IX. Los demás requisitos que establezcan disposiciones legales y administrativas aplicables.
 
@@ -768,3 +808,11 @@ EN MATERIA DE DEUDA PÚBLICA
 ### CAPITULO NOVENO. DE LAS SANCIONES
 
 ## ARTÍCULOS TRANSITORIOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE NAYARIT".]
+
+ÚNICO. El Presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
