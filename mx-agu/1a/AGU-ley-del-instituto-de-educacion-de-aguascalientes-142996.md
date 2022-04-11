@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-educacion-de-aguascalientes-142996"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2020-05-25"
+last_updated: "2022-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
 
@@ -137,7 +137,9 @@ VII. Vigilar que la educación que impartan los particulares en el Estado sea co
 
 El patrimonio del IEA estará constituido por:
 
-I. Los planteles y demás bienes muebles e inmuebles para la prestación del servicio educativo en el Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
+
+I. Los planteles y demás bienes muebles e inmuebles destinados a la prestación del servicio público de educación en el Estado de Aguascalientes de los cuales cuentan en propiedad;
 
 II. Los recursos financieros y aportaciones extraordinarias que para su funcionamiento se requieran y que le serán otorgados por los Gobiernos Federal, Estatal y Municipales, según corresponda;
 
@@ -650,3 +652,13 @@ ELSA LUCIA ARMENDÁRIZ SILVA
 DIPUTADA SEGUNDA SECRETARIA
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 22 de mayo de 2020.- Martín Orozco Sandoval.- Rúbrica.- La Secretaria General de Gobierno, Mtra. Siomar Eline Estrada Cruz.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 108.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 62, EL PÁRRAFO PRIMERO DEL ARTÍCULO 80, EL INCISO D) DEL ARTICULO 82, EL PÁRRAFO PRIMERO DEL ARTÍCULO 106 Y LAS FRACCIONES V Y VI DEL ARTÍCULO 125 DE LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES Y SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 6o DE LA LEY DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
