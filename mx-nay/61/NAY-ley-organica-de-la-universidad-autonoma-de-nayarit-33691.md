@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-universidad-autonoma-de-nayarit-33691"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-23"
-last_updated: "2020-01-07"
+last_updated: "2022-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el sábado 23 de agosto de 2003.
 
@@ -349,9 +349,17 @@ XIII. Conocer, en su caso, el informe que rindan los secretarios de las dependen
 
 XIV. Conocer, en revisión, las decisiones de los Consejos de las unidades académicas sobre sanciones a miembros de la comunidad universitaria;
 
-XV. En los casos que expresamente disponga la legislación, conocer o revisar los procesos de elección de las autoridades y órganos universitarios, vigilando su oportuna integración y funcionamiento; y
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
 
-XVI. Las demás que esta ley, el Estatuto de Gobierno y los reglamentos o acuerdos específicos le otorguen.
+XV. En los casos que expresamente disponga la legislación, conocer o revisar los procesos de elección de las autoridades y órganos universitarios, vigilando su oportuna integración y funcionamiento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE ABRIL DE 2022)</small>
+
+XVI. Con la autorización del Congreso del Estado, autorizar la contratación de financiamientos u obligaciones en los términos y condiciones establecidas en la Ley de Deuda Pública para el Estado de Nayarit, así como la Ley de Disciplina Financiera, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE ABRIL DE 2022)</small>
+
+XVII. Las demás que esta ley, el Estatuto de Gobierno y los reglamentos o acuerdos específicos le otorguen.
 
 > <small>(ADICIONADO, P.O. 7 DE ENERO DE 2020)</small>
 
@@ -785,6 +793,12 @@ Para tal efecto, y de conformidad con la Ley correspondiente, se establecerá un
 
 La Universidad no podrá destinar menos del 40% cuarenta por ciento de su presupuesto, al ejercicio, crecimiento, desarrollo, e impulso de actividades, proyectos y programas académicos.
 
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2022)</small>
+
+Artículo 31 Ter
+
+La Universidad no podrá contratar empréstitos, financiamiento y demás obligaciones con personas físicas o morales dentro del sector público, privado o social, con las instituciones de banca múltiple o de desarrollo, y demás instituciones financieras o equivalentes, sin previa autorización del Congreso del Estado y con el aval del Ejecutivo del Estado, salvo la excepción por endeudamiento a corto plazo, en los términos previstos en las leyes aplicables.
+
 > <small>(REFORMADO, P.O. 7 DE ENERO DE 2020)</small>
 
 ###### Artículo 32.
@@ -1084,3 +1098,9 @@ TERCERO. La integración y funcionamiento del Colegio de Elección Universitario
 CUARTO. Para los efectos a que se refiere el artículo 32 de esta Ley, y a fin de hacer efectivo el contenido de dicho numeral, el Rector, en coordinación con la autoridad financiera de la Universidad, deberá presentar un diagnóstico y proponer al Consejo General Universitario un Programa de regularización laboral, cuya ejecución no exceda de un año, a partir de la entrada en vigor del presente Decreto.
 
 QUINTO. El Patronato Administrador del Impuesto Especial destinado a la Universidad, deberá recibir la administración de las fuentes de ingreso propias de la Universidad a que se refieren los Artículos 15 fracción XI y 21 fracción I, inciso c) del presente Decreto, en un término que no exceda de ciento ochenta días a partir de la entrada en vigor del presente decreto.
+
+P.O. 11 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE NAYARIT.”]
+
+ÚNICO. El Presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
