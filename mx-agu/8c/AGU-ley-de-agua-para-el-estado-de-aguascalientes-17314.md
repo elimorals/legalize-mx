@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2022-04-04"
+last_updated: "2022-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "AGU"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE ABRIL DE 2022 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2022.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 11 DE ABRIL DE 2022 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 28 DE MARZO DE 2022 Y 4 DE ABRIL DE 2022.]</small>
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -2483,17 +2483,17 @@ En dicha sesión el Consejo Directivo del Instituto deberá aprobar la estructur
 
 En congruencia con lo dispuesto en el presente Decreto, quedan derogadas y por tanto se dejan sin efecto las disposiciones que se contravengan al mismo.
 
-P.O. 28 DE MARZO DE 2022.
+P.O. 28 DE MARZO DE 2022 Y F. DE E. P.O. 11 DE ABRIL DE 2022.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 96.- SE REFORMA EL ARTÍCULO 92 B, ASÍ COMO LA FRACCIÓN III DEL ARTÍCULO 125 DE LA LEY DE AGUA DEL ESTADO DE AGUASCALIENTES”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 96.- SE REFORMA EL ARTÍCULO 92 B, ASÍ COMO LA FRACCIÓN III DEL ARTÍCULO 125 DE LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 4 DE ABRIL DE 2022.
+P.O. 4 DE ABRIL DE 2022 Y F. DE E. P.O. 11 DE ABRIL DE 2022.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 103.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 34 DE LA LEY DE AGUA POTABLE DEL ESTADO DE AGUASCALIENTES”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 103.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 34 DE LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
