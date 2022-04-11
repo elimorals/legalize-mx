@@ -4,7 +4,7 @@ identifier: "LGDFS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2018-06-05"
-last_updated: "2021-04-26"
+last_updated: "2022-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128842&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGDFS"
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ABRIL DE 2022.
 
 Ley publicada en la Edición Vespertina al Número 5 del Diario Oficial de la Federación, el martes 5 de junio de 2018.
 
@@ -78,7 +78,9 @@ XI. Promover la prevención y el manejo integral de los agentes disruptivos que 
 
 XII. Promover, en la política forestal, acciones afirmativas tendientes a garantizar la igualdad sustantiva de oportunidades para las mujeres, la población indígena, los jóvenes y las personas con capacidades diferentes, y
 
-XIII. Respetar, en el ámbito de la Ley, los derechos de las comunidades indígenas y comunidades equiparables, así como el uso y disfrute de sus recursos forestales en los términos de normatividad nacional aplicable y los instrumentos internacionales vinculantes.
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+XIII. Respetar, en el ámbito de la Ley, los derechos de las comunidades indígenas, afromexicanas y equiparables, así como el uso y disfrute de sus recursos forestales en los términos de normatividad nacional aplicable y los instrumentos internacionales vinculantes. Así como fomentar mecanismos de manejo y protección de los ecosistemas forestales de conformidad a sus prácticas y perspectivas, salvaguardando el conocimiento de las mismas, respetando sus derechos de consulta libre, previa e informada y su derecho de conocimiento fundamentado previo, según corresponda.
 
 ###### Artículo 3.
 
@@ -192,9 +194,23 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Acciones afirmativas: Medidas temporales, compensatorias o de promoción, a favor de personas o grupos específicos, para corregir situaciones patentes de desigualdad en el disfrute de derechos y garantizar la igualdad sustantiva de oportunidades, mientras subsistan dichas situaciones;
 
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+I Bis. Acahual: Asociación vegetal que se ubica en terrenos de uso agropecuario y tradicional que recupera la cobertura vegetal en sus periodos de descanso, debido al proceso de sucesión ecológica y que presenta diferencias de composición, tamaño o densidad con respecto a selvas y/o bosques como se definen en la presente Ley y que pueden utilizarse para el desarrollo de actividades silvícolas.
+
+En el Reglamento y las demás disposiciones que resulten aplicables se determinarán los criterios y lineamientos técnicos y/o bioculturales para su identificación y registro en términos de la presente Ley.
+
 II. Agentes disruptivos: Factores naturales o antropogénicos causantes de cambios drásticos en los ecosistemas forestales, como fuego, plagas, enfermedades o fenómenos hidrometeorológicos;
 
 III. Aprovechamiento forestal sustentable: La extracción realizada en los términos de esta Ley, de los recursos forestales del medio en que se encuentren, incluyendo los maderables y los no maderables, en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos por periodos indefinidos;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+III Bis. Árbol: Planta leñosa perenne con un solo tronco principal o, en el caso del monte bajo con varios tallos, que tengan una copa más o menos definida;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+III Bis 1. Arbusto: Planta leñosa perenne con una altura que sobrepasa generalmente los 0.5 metros pero no alcanza los 5 metros a su madurez y sin un solo vástago principal, ni una copa definida;
 
 IV. Áreas de Protección Forestal: Comprende los espacios forestales o boscosos colindantes a la zona federal y de influencia de nacimientos, corrientes, cursos y cuerpos de agua, o la faja de terreno inmediata a los cuerpos de propiedad particular, en la extensión que en cada caso fije la autoridad, de acuerdo con el Reglamento de esta Ley;
 
@@ -298,7 +314,9 @@ XLII. Producto forestal maderable: Es el bien obtenido del resultado de un proce
 
 XLIII. Programa de manejo forestal: Es el instrumento técnico de planeación y seguimiento que describe las acciones y procedimientos de manejo forestal sustentable;
 
-XLIV. Programa de Manejo del Fuego: Instrumento de planeación que define los objetivos y alcances de la prevención, detección, combate, e información relacionada con los incendios forestales, que considera la coordinación y concertación de las entidades públicas de los gobiernos federal, de las Entidades Federativas, de los Municipios, Demarcaciones Territoriales de la Ciudad de México, propietarios y poseedores del recurso forestal y sociedad civil organizada;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+XLIV. Programa de Manejo del Fuego: Instrumento de planeación que permite una gestión integrada del fuego, definiendo los objetivos y alcances de la prevención, detección, combate, e información relacionada con los incendios forestales, y que contempla la coordinación y concertación de las entidades públicas de los gobiernos federal, de las Entidades Federativas, de los Municipios, Demarcaciones Territoriales de la Ciudad de México, de las comunidades indígenas, afromexicanas y equiparables, de los propietarios y poseedores del recurso forestal, de la academia, del sector social y del privado, y de la sociedad civil en general;
 
 XLV. Recursos asociados: Las especies silvestres animales y vegetales, así como el agua, que coexisten en relación de interdependencia y funcionalidad con los recursos forestales;
 
@@ -336,7 +354,9 @@ LX. Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales;
 
 LX Bis. Selva: Ecosistema forestal de clima tropical en el que predominan especies leñosas perennes que se desarrollan en forma espontánea, excluyendo los acahuales y guamiles y que cuentan con las características para ser considerados terrenos forestales arbolados de acuerdo con esta Ley. En esta categoría se incluyen a todos los tipos de selva, manglar y palmar, de la clasificación del Instituto Nacional de Estadística y Geografía;
 
-LXI. Servicios ambientales: Beneficios que brindan los ecosistemas forestales de manera natural o por medio del manejo forestal sustentable, que pueden ser servicios de provisión, de regulación, de soporte o culturales, y que son necesarios para la supervivencia del sistema natural y biológico en su conjunto, y que proporcionan beneficios al ser humano;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+LXI. Servicios ambientales: Beneficios que brindan los ecosistemas forestales de manera natural o por medio del manejo forestal sustentable, que pueden ser servicios de provisión, de regulación, de soporte o culturales, y que son necesarios para la supervivencia del sistema natural y biológico en su conjunto, y que proporcionan beneficios al ser humano. Los ecosistemas forestales funcionan como sumideros de carbono prestando servicios ambientales de absorción, secuestro, fijación y almacenamiento del dióxido de carbono;
 
 LXII. Servicios forestales: Las actividades realizadas para ordenar, cultivar, proteger, conservar, restaurar y aprovechar los recursos y servicios ambientales de un ecosistema forestal, así como la asesoría y capacitación a los propietarios o poseedores de recursos forestales para su gestión; la asesoría y acompañamiento en el desarrollo de empresas y redes de agregación de valor, organización, administración y todas aquellas materias necesarias para el desarrollo integral del manejo forestal y el desarrollo sustentable de los territorios forestales;
 
@@ -348,7 +368,13 @@ LXV. Sistema de calificación para el manejo del fuego en ecosistemas forestales
 
 LXVI. Sistema de Comando de Incidentes: Es la combinación de instalaciones, equipamiento, personal, protocolos, procedimientos y comunicaciones operando en una estructura organizacional común, con la responsabilidad de administrar los recursos asignados para lograr efectivamente los objetivos operacionales pertinentes en un incidente;
 
-LXVII. Sistema Nacional de Información y Gestión Forestal: Es el instrumento de política nacional que tiene como objetivo, registrar, integrar, organizar y difundir la información relacionada con la materia forestal;
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+LXVI Bis. Sistema Nacional de Gestión Forestal: Es el instrumento de la Secretaría que permite la evaluación, controlar, sistematizar y dar seguimiento de los actos administrativos previstos en esta Ley;
+
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+LXVII. Sistema Nacional de Información Forestal: Es el instrumento de política nacional que tiene como objetivo, registrar, integrar, organizar y difundir la información relacionada con la materia forestal;
 
 LXVIII. Sistema Nacional de Mejoramiento Genético Forestal: Es el instrumento de coordinación promovido por la Comisión, para fortalecer la toma de decisiones entre los distintos actores del sector forestal, que permite cumplir con los objetivos de conservación, aprovechamiento, manejo integral sustentable y mejoramiento de los recursos genéticos forestales, que garanticen la preservación de la riqueza genética de los ecosistemas forestales del país, de conformidad con las demás disposiciones aplicables;
 
@@ -385,6 +411,10 @@ LXXVIII. Unidades Productoras de Germoplasma Forestal: Áreas establecidas en ro
 LXXIX. Uso doméstico: Es el aprovechamiento, sin propósitos comerciales, de los recursos forestales extraídos del medio natural en el que se encuentran, para usos rituales o satisfacer las necesidades de energía calorífica, vivienda, aperos de labranza y otros usos en la satisfacción de necesidades básicas en el medio rural;
 
 LXXX. Vegetación forestal: Es el conjunto de plantas y hongos que crecen y se desarrollan en forma natural, formando bosques, selvas, zonas áridas y semiáridas, y otros ecosistemas, dando lugar al desarrollo y convivencia equilibrada de otros recursos y procesos naturales;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+LXXX Bis. Vegetación Forestal de Zonas Áridas: Aquella que se desarrolla en forma espontánea en zonas de clima seco y muy seco. Se incluyen todos los tipos de matorral, selva baja espinosa y chaparral de la clasificación del Instituto Nacional de Estadística y Geografía, así como cualquier otro tipo de vegetación espontánea arbórea o arbustiva que ocurra en zonas con precipitación media anual inferior a 600 milímetros;
 
 > <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2020)</small>
 
@@ -516,11 +546,15 @@ XXXVI. Regular, controlar y evaluar la prestación de los servicios forestales;
 
 XXXVII. Regular el transporte de materias primas forestales, así como de productos forestales;
 
-XXXVIII. Expedir los avisos y permisos según corresponda para el combate y control de plagas y enfermedades forestales, así como los certificados y demás documentación fitosanitaria para la exportación e importación de recursos forestales;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+XXXVIII. Expedir los avisos y permisos según corresponda para el combate y control de plagas y enfermedades forestales, así como los certificados y demás documentación fitosanitaria para la exportación e importación de materias primas, productos y subproductos forestales;
 
 XXXIX. Expedir los certificados y demás documentación fitosanitaria para la exportación e importación de productos forestales maderables y no maderables;
 
-XL. Expedir las autorizaciones para el funcionamiento de centros de almacenamiento y/o transformación de materias primas forestales, sin perjuicio de las atribuciones que correspondan a las autoridades locales;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+XL. Expedir las autorizaciones para el funcionamiento de centros de almacenamiento y de transformación de materias primas forestales y centros no integrados a un centro de transformación primaria, sin perjuicio de las atribuciones que correspondan a las autoridades locales;
 
 XLI. Formular y aplicar medidas que fomenten las redes locales de valor y la generación de empleo, y
 
@@ -542,7 +576,9 @@ V. Impulsar en el ámbito de su jurisdicción el establecimiento de sistemas y p
 
 VI. Elaborar, monitorear y mantener actualizado el Inventario Estatal Forestal y de Suelos en coordinación con la Comisión, bajo los principios, criterios y lineamientos que se establezcan para el Inventario Nacional Forestal y de Suelos;
 
-VII. Integrar el Sistema Estatal de Información Forestal e incorporar su contenido al Sistema Nacional de Información y Gestión Forestal;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+VII. Integrar el Sistema Estatal de Información Forestal e incorporar su contenido al Sistema Nacional de Información Forestal;
 
 VIII. Compilar y procesar la información sobre uso doméstico de los recursos forestales e incorporarla al Sistema Estatal de Información Forestal;
 
@@ -594,7 +630,9 @@ XXXI. Participar, de conformidad con los acuerdos y convenios que se celebren co
 
 XXXII. Hacer del conocimiento de las autoridades competentes, y en su caso, denunciar las infracciones o delitos que se cometan en materia forestal;
 
-XXXIII. Elaborar estudios para, en su caso, recomendar al titular del Ejecutivo Federal a través de la Comisión, el establecimiento, modificación o levantamiento de vedas;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+XXXIII. Elaborar estudios para, en su caso, recomendar al titular del Ejecutivo Federal a través de la Secretaría, el establecimiento, modificación o levantamiento de vedas;
 
 XXXIV. Elaborar estudios para en su caso recomendar a la Federación el establecimiento de restricciones a la forestación y reforestación en su territorio;
 
@@ -624,7 +662,9 @@ V. Promover programas y proyectos de educación, capacitación, investigación y
 
 VI. Celebrar acuerdos y convenios de coordinación, cooperación y concertación en materia forestal;
 
-VII. Expedir las licencias o permisos, para el establecimiento de centros de almacenamiento y/o transformación de materias primas forestales en el ámbito de su competencia, considerando los criterios de política forestal;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+VII. Expedir previo a su instalación, las licencias o permisos, para el establecimiento de centros de almacenamiento y de transformación de materias primas forestales, así como de los centros no integrados a un centro de transformación primaria en el ámbito de su competencia, considerando los criterios de política forestal;
 
 VIII. Diseñar, desarrollar y aplicar incentivos para promover el desarrollo forestal, de conformidad con esta Ley y los lineamientos de la política forestal del país;
 
@@ -668,9 +708,13 @@ La Secretaría ejercerá las siguientes atribuciones:
 
 I. Formular y conducir la política nacional de desarrollo forestal sustentable y asegurar su congruencia con la política ambiental y de recursos naturales, así como las relacionadas con el desarrollo rural;
 
-II. Diseñar los instrumentos de política forestal previstos en esta Ley y operar los que correspondan a su competencia;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2022)</small>
 
-III. Elaborar el Programa Estratégico Forestal Nacional, con la participación de la Comisión en las materias de su competencia;
+II. Diseñar los instrumentos de política forestal a que se refiere esta Ley, así como operar y ejecutar los que correspondan a su competencia;
+
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+III. Elaborar el Programa Estratégico Forestal Nacional, con la participación de la Comisión, gobiernos de las Entidades Federativas, Municipios, las Demarcaciones Territoriales de la Ciudad de México, comunidades agrarias, indígenas y afromexicanas y la población interesada, así como ejecutarlo en el ámbito de su competencia;
 
 IV. Regular, establecer, integrar, operar y mantener actualizado el Registro Forestal Nacional, así como expedir los certificados de inscripción previstos en las disposiciones jurídicas aplicables;
 
@@ -678,7 +722,9 @@ V. Llevar el registro y promover la conservación de los árboles históricos y 
 
 VI. Emitir Normas Oficiales Mexicanas en materia forestal y vigilar su cumplimiento;
 
-VII. Establecer los lineamientos para elaborar e integrar el Sistema Nacional de Información y Gestión Forestal;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+VII. Establecer los lineamientos para elaborar e integrar el Sistema Nacional de Información Forestal y el Sistema Nacional de Gestión Forestal;
 
 VIII. Deslindar, poseer y administrar los terrenos nacionales forestales;
 
@@ -688,17 +734,37 @@ X. Promover la participación y coordinación de las autoridades competentes, pr
 
 XI. Expedir, por excepción, las autorizaciones de cambio de uso de suelo en terrenos forestales;
 
-XII. Imponer medidas de seguridad y sancionar a los infractores en materia forestal, así como hacer del conocimiento y en su caso, denunciar los delitos en dicha materia ante las autoridades competentes;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2022)</small>
 
-XIII. Otorgar, modificar, revocar, suspender y declarar la extinción o la caducidad de las autorizaciones, avisos y demás actos a que se refiere el artículo 68 de esta Ley;
+XII. Imponer medidas de seguridad, investigar, inspeccionar, vigilar, verificar y sancionar a los infractores en materia forestal, así como hacer del conocimiento y en su caso, denunciar los delitos en dicha materia ante las autoridades competentes;
+
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+XIII. Otorgar, modificar, revocar, suspender y declarar la extinción o la caducidad de las autorizaciones, avisos y demás actos a que se refiere esta Ley;
 
 XIV. Expedir los certificados y demás documentación fitosanitaria para la exportación e importación de materias primas y productos forestales;
 
 XV. Intervenir en foros internacionales, con la participación que corresponda a la Secretaría de Relaciones Exteriores y proponer a ésta la celebración de tratados y acuerdos internacionales en materia forestal;
 
-XVI. Regular el transporte de materias primas y productos forestales, y
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2022)</small>
 
-XVII. Las demás que le confieran la presente Ley y el Reglamento.
+XVI. Regular, expedir y validar la documentación con la que se acredite la legal procedencia de materias primas y productos forestales;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+XVII. Validar los estudios, que a su solicitud elabore la Comisión, para recomendar al Ejecutivo Federal el establecimiento, modificación o levantamiento de vedas forestales;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+XVIII. Definir instrumentos para promover un mercado de bienes y servicios ambientales;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+XIX. Regular, establecer, integrar, operar y mantener actualizado el Registro de la reducción o absorción de emisiones derivadas de la deforestación y degradación forestal, así como autorizar las transferencias de éstas a los mecanismos cooperativos y de comercio internacional de carbono, y
+
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+XX. Las demás que le confieren la presente Ley y el Reglamento.
 
 ### Capítulo II. De la Comisión Nacional Forestal y sus Atribuciones
 
@@ -708,9 +774,11 @@ La Comisión Nacional Forestal, es un organismo público descentralizado de la A
 
 El objeto de la Comisión es desarrollar, favorecer e impulsar las actividades productivas, de protección, conservación, restauración, aprovechamiento sustentable, producción, comercialización y educación técnica forestal, así como las cadenas productivas y redes de valor en materia forestal, que conforme a la presente Ley se declaran como áreas prioritarias del desarrollo, y participar en la formulación de los planes y programas y en la aplicación de la política de desarrollo forestal sustentable y sus instrumentos.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
 ###### Artículo 16.
 
-La Comisión tendrá su domicilio en la zona metropolitana de la ciudad de Guadalajara, Jalisco, pudiendo establecer delegaciones o gerencias regionales, estatales, así como representaciones en el extranjero que sean necesarias para cumplir con su objeto conforme a sus requerimientos y disponibilidad presupuestal.
+La Comisión tendrá su domicilio en la zona metropolitana de la ciudad de Guadalajara, Jalisco, pudiendo establecer promotorías, delegaciones o gerencias regionales, estatales, así como representaciones estatales, o en el extranjero que sean necesarias para cumplir con su objeto conforme a sus requerimientos y disponibilidad presupuestal.
 
 ###### Artículo 17.
 
@@ -776,7 +844,9 @@ V. Integrar, monitorear y mantener actualizado el Inventario Nacional Forestal y
 
 VI. Elaborar, integrar, organizar y mantener actualizada la zonificación de los terrenos forestales y preferentemente forestales, con base en el ordenamiento ecológico del territorio y en los criterios, metodología y procedimientos que, para tal efecto, establezca la Secretaría;
 
-VII. Elaborar e integrar, bajo los lineamientos que determine la Secretaría, el Sistema Nacional de Información y Gestión Forestal para incorporarlo en el Sistema Nacional de Información Ambiental y de los Recursos Naturales, y a los sistemas de información estadísticos y de información geográfica y documental;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+VII. Elaborar e integrar, bajo los lineamientos que determine la Secretaría, el Sistema Nacional de Información Forestal para incorporarlo en el Sistema Nacional de Información Ambiental y de los Recursos Naturales, y a los sistemas de información estadísticos y de información geográfica y documental;
 
 VIII. Participar en la elaboración de normas oficiales mexicanas respecto de las actividades del sector forestal y en su vigilancia y cumplimiento;
 
@@ -846,13 +916,19 @@ XXXIX. Fomentar la generación de oportunidades de empleo e ingreso para la pobl
 
 XL. Promover que, en los procesos de compra-venta gubernamentales, así como de los proveedores y contratistas del gobierno, se garantice la legal procedencia de materias primas y productos forestales y que estos sean preferentemente de origen nacional y cuenten con certificación forestal, y
 
-XLI. Las demás que le señale la presente Ley, el Reglamento y demás disposiciones legales aplicables.
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+XLI. Participar en el diseño, instrumentación y operación de los mecanismos cooperativos de reducción de emisiones en el sector forestal de acuerdo con los criterios y protocolos emitidos por la Secretaría para este objeto, y
+
+XLII. Las demás que le señale la presente Ley, el Reglamento y demás disposiciones legales aplicables.
 
 ### Capítulo III. De la Coordinación Interinstitucional
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
 ###### Artículo 21.
 
-La Federación, a través de la Secretaría o de la Comisión, en el ámbito de las atribuciones que les corresponde a cada una, podrá suscribir convenios o acuerdos de coordinación, con el objeto de que los gobiernos de las Entidades Federativas, con la participación, en su caso, de los Municipios, en el ámbito territorial de su competencia asuman las siguientes funciones:
+La Federación, a través de la Secretaría o de la Comisión, en el ámbito de las atribuciones que les corresponde a cada una, podrá suscribir convenios o acuerdos de coordinación, con el objeto de que los gobiernos de las Entidades Federativas, con la participación, en su caso, de los Municipios, y comunidades indígenas y afromexicanas, en el ámbito territorial de su competencia, asuman las siguientes funciones:
 
 I. Programar y operar las tareas de manejo del fuego en la entidad, así como los de control de plagas, enfermedades y especies exóticas invasoras en materia forestal;
 
@@ -869,6 +945,14 @@ VI. Recibir los avisos de plantaciones forestales comerciales y de aprovechamien
 VII. Autorizar el aprovechamiento de los recursos forestales maderables y no maderables, y
 
 VIII. Dictaminar, autorizar y evaluar los programas de manejo forestal, así como evaluar y asistir a los prestadores de servicios forestales.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+En los mismos términos podrá la Secretaría convenir con la Comisión que ésta asuma cualquiera de las atribuciones antes descritas.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+Los actos y procedimientos que se realicen al amparo de este artículo deberán de efectuarse de acuerdo con esta Ley, su Reglamento y las disposiciones que expida la Secretaría, debiéndose garantizar la plena integralidad con el Sistema Nacional de Gestión Forestal.
 
 ###### Artículo 22.
 
@@ -925,6 +1009,10 @@ Asimismo, la Comisión y la Comisión Nacional de Áreas Naturales Protegidas, s
 ###### Artículo 26.
 
 La Comisión y el Consejo Nacional de Ciencia y Tecnología se coordinarán para la atención de las necesidades afines de investigación básica, y formación de recursos de alto nivel del sector forestal, de acuerdo con la política nacional en la materia.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+La Comisión operará los Centros de Educación y Capacitación Forestal para brindar educación técnica media superior alineada a los objetivos de esta Ley y con los contenidos necesarios para que los egresados participen en la prestación de servicios forestales de calidad, de conformidad con la normatividad aplicable.
 
 ###### Artículo 27.
 
@@ -1070,9 +1158,13 @@ Son instrumentos de la política nacional en materia forestal, los siguientes:
 
 I. La Planeación del Desarrollo Forestal;
 
-II. El Sistema Nacional de Información y Gestión Forestal;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2022)</small>
 
-III. El Inventario Nacional Forestal y de Suelos;
+II. El Sistema Nacional de Información Forestal;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+III. El Sistema Nacional de Gestión Forestal;
 
 IV. La Zonificación Forestal;
 
@@ -1084,7 +1176,9 @@ VII. El Sistema Nacional de Monitoreo Forestal.
 
 En el diseño, elaboración, aplicación, evaluación y seguimiento de los instrumentos de política forestal, se deberán observar los objetivos y criterios de política forestal, así como las demás disposiciones previstas en esta Ley y en el Reglamento.
 
-La Comisión promoverá la participación de la sociedad en la planeación, aplicación y evaluación de los instrumentos de política forestal, conforme a lo previsto en la presente Ley.
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+La Secretaría y la Comisión, en el ámbito de sus atribuciones, garantizarán la participación de comunidades agrarias, indígenas y afromexicanas y la sociedad en la planeación, aplicación y evaluación de los instrumentos de política forestal, conforme a lo previsto en la presente Ley.
 
 #### Sección Primera. De la Planeación del Desarrollo Forestal
 
@@ -1104,7 +1198,9 @@ Los programas que elaboren los gobiernos de las Entidades Federativas, con visi�
 
 En la planeación del desarrollo forestal sustentable, se elaborarán estudios regionales forestales en cada Unidad de Manejo Forestal, y la Comisión promoverá su ejecución. La Comisión establecerá su contenido y procedimiento de autorización mediante acuerdo que expida su Director General.
 
-#### Sección Segunda. Del Sistema Nacional de Información y Gestión Forestal
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+#### Sección Segunda. Del Sistema Nacional de Información Forestal
 
 ###### Artículo 37.
 
@@ -1132,9 +1228,15 @@ VIII. Sobre investigaciones y desarrollo tecnológico;
 
 IX. Sobre organizaciones e instituciones de los sectores social y privado, así como de organismos públicos nacionales e internacionales relacionados con ese sector;
 
-X. Sobre proyectos de aprovechamiento forestal que no se basen exclusivamente en la explotación de recursos maderables, y
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2022)</small>
 
-XI. Las demás que se consideren estratégicas para la planeación y evaluación del desarrollo forestal sustentable.
+X. Sobre proyectos de aprovechamiento forestal que no se basen exclusivamente en la explotación de recursos maderables;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+XI. El contenido de los programas integrales de prevención y combate a la extracción y tala ilegal, y
+
+XII. Las demás que se consideren estratégicas para la planeación y evaluación del desarrollo forestal sustentable.
 
 Las autoridades federales, estatales y municipales deberán proporcionar al Sistema Nacional de Información Forestal, la información que recaben en el cumplimiento de sus atribuciones.
 
@@ -1150,9 +1252,27 @@ La Secretaría y la Comisión promoverán la creación de los Sistemas Estatales
 
 Toda persona tendrá derecho a que las autoridades en materia forestal pongan a su disposición la información forestal que les soliciten, en los términos previstos por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+#### Sección Segunda Bis. Del Sistema Nacional de Gestión Forestal
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+###### Artículo 41 Bis.
+
+El Sistema Nacional de Gestión Forestal será establecido, integrado y operado por la Secretaría.
+
+En caso de que se suscriban los convenios a los que hace referencia el artículo 21 de esta Ley, las dependencias y entidades que coadyuven con la Secretaría en la gestión de los actos previstos en esta Ley deberán integrar la información correspondiente al Sistema Nacional de Gestión Forestal en los términos y bajo las directrices técnicas que señale la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+###### Artículo 41 Bis 1.
+
+La Secretaría incorporará la información del Sistema Nacional de Gestión Forestal en el Sistema Nacional de Información Forestal de acuerdo con lo que se establezca en el Reglamento.
+
 #### Sección Tercera. Del Registro Forestal Nacional
 
-#### Sección Cuarta. Del Inventario Nacional Forestal y de Suelos
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
 
 ###### Artículo 42.
 
@@ -1160,13 +1280,13 @@ La Secretaría establecerá, integrará, organizará y mantendrá actualizado el
 
 El Registro Forestal Nacional será público y en él se inscribirán:
 
-I. Los programas de manejo forestal y los programas de manejo de plantaciones forestales comerciales, sus autorizaciones, modificaciones y cancelaciones, así como los documentos incorporados a la solicitud respectiva;
+I. Las autorizaciones de aprovechamiento de recursos forestales maderables, las modificaciones y sus refrendos;
 
-II. Los avisos de forestación, así como sus modificaciones o cancelaciones;
+II. Los avisos de plantaciones forestales comerciales;
 
 III. Las autorizaciones de cambio de uso de suelo de los terrenos forestales;
 
-IV. Los datos para la identificación de los prestadores de servicios técnicos forestales y auditores técnicos forestales;
+IV. Los certificados de inscripción de los prestadores de servicios forestales y auditores técnicos forestales;
 
 V. Los decretos que establezcan áreas naturales protegidas que incluyan terrenos forestales o preferentemente forestales;
 
@@ -1174,25 +1294,53 @@ VI. Los decretos que establezcan zonas de restauración en terrenos forestales;
 
 VII. Los decretos que establezcan vedas forestales;
 
-VIII. Los actos de transferencia de dominio, uso, usufructo o prestación de servicios que involucren recursos forestales, programas de manejo forestal, de manejo de plantaciones forestales comerciales y avisos de forestación;
+VIII. Avisos de colecta de germoplasma forestal con fines de conservación y restauración;
 
-IX. Las autorizaciones de funcionamiento de centros de almacenamiento y transformación, además de los centros de transformación móviles de materias primas forestales, y
+IX. Las unidades productoras de germoplasma forestal;
 
-X. Los demás actos y documentos que se señalen en el Reglamento de esta Ley.
+X. Autorizaciones y avisos de colecta de recursos biológicos forestales y genéticos forestales;
+
+XI. Autorizaciones y avisos de aprovechamientos no maderables;
+
+XII. Las autorizaciones de funcionamiento de centros de almacenamiento y transformación de materias primas forestales, incluyendo los centros de transformación móviles;
+
+XIII. Los informes anuales sobre la ejecución y desarrollo de los aprovechamientos forestales y de producción de plantaciones forestales;
+
+XIV. Los estudios y programas regionales forestales;
+
+XV. Las modificaciones, revocaciones, suspensiones y declaraciones de extinción o de caducidad de las autorizaciones, avisos y demás actos inscritos en el Registro; a que se refieren los artículos 68 y 69 de esta Ley;
+
+XVI. Las autorizaciones de funcionamiento de centros de comercialización y los no integrados a un centro de transformación primaria;
+
+XVII. El padrón de los prestadores de servicios forestales y los titulares de aprovechamientos a los que se refieren los artículos 73 y 104 de esta Ley;
+
+XVIII. Las unidades de manejo forestal;
+
+XIX. Los árboles históricos y notables del país;
+
+XX. Los avisos para el registro de acahuales y, en su caso, de aprovechamiento de recursos forestales provenientes de acahuales, y
+
+XXI. Los demás actos y documentos que se señalen en esta Ley y en su Reglamento.
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
 
 ###### Artículo 43.
 
-El Registro está obligado a proporcionar la información a todo solicitante, sin más exigencia que su previa identificación, y el pago de los derechos que correspondan, en los términos de las disposiciones legales aplicables.
+El Reglamento determinará los procedimientos para la inscripción, modificación de datos y otorgamiento de constancias de actos y documentos inscritos en el Registro.
+
+Los actos de transferencia de dominio, uso o usufructo de las autorizaciones o avisos se considerarán como una modificación de datos en el Registro.
+
+La Secretaría estará obligada a proporcionar la información a todo solicitante, sin más exigencia que su previa identificación, y el pago de los derechos que en su caso correspondan, en los términos de las disposiciones legales aplicables.
 
 ###### Artículo 44.
 
-El Reglamento correspondiente determinará los procedimientos para la inscripción y otorgamiento de constancias de actos y documentos inscritos en el Registro.
+(DEROGADO, D.O.F. 11 DE ABRIL DE 2022)
 
 ###### Artículo 45.
 
 En el marco de los principios de coordinación que establece esta Ley, el Registro Agrario Nacional estará obligado a dar parte al Registro, en los plazos que fije el Reglamento respectivo, de los actos previstos en el presente capítulo y que a aquél le corresponda inscribir. El Registro buscará asimismo la coordinación necesaria con los registros públicos de la propiedad, establecidos por los gobiernos de las Entidades Federativas o por los Municipios y las Demarcaciones Territoriales de la Ciudad de México en su caso, a fin de que éstos den parte a aquél de los actos que realicen y se relacionen con cualquiera de los enunciados en el artículo 42.
 
-#### Sección Quinta. De la Zonificación Forestal
+#### Sección Cuarta. Del Inventario Nacional Forestal y de Suelos
 
 ###### Artículo 46.
 
@@ -1246,7 +1394,7 @@ IV. Los impactos existentes en los ecosistemas por efecto de las actividades eco
 
 V. La delimitación de las Unidades de Manejo Forestal.
 
-#### Sección Sexta. Del Registro Forestal Nacional
+#### Sección Quinta. De la Zonificación Forestal
 
 ###### Artículo 49.
 
@@ -1254,7 +1402,7 @@ La Comisión deberá llevar a cabo la zonificación para efectos de planeación,
 
 En el Reglamento se determinarán los criterios, metodología y procedimientos para la integración, organización y actualización de la zonificación.
 
-#### Sección Séptima. De las Normas Oficiales Mexicanas en materia forestal
+#### Sección Sexta. Del Registro Forestal Nacional
 
 ###### Artículo 50.
 
@@ -1306,7 +1454,7 @@ El Reglamento determinará los procedimientos para la inscripción y otorgamient
 
 El Registro se coordinará con el Registro Agrario Nacional y los Registros Públicos de la Propiedad de las distintas Entidades Federativas para compartir y actualizar información de sus respectivos actos.
 
-#### Sección Primera. De los Trámites en Materia Forestal
+#### Sección Séptima. De las Normas Oficiales Mexicanas en materia forestal
 
 ###### Artículo 53.
 
@@ -1336,63 +1484,105 @@ X. Los demás que la presente Ley señale y las que resulten necesarias.
 
 ### Capítulo I. Disposiciones Comunes a los Procedimientos en Materia Forestal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
 ###### Artículo 54.
 
-Las autorizaciones y actos previstos en los artículos 68 y 69 de esta Ley, sólo se otorgarán a los propietarios de los terrenos y a las personas legalmente facultadas para poseerlos y usufructuarlos, así como a quienes legalmente se encuentren autorizados para los efectos.
+Las autorizaciones, avisos, informes y otros actos previstos en esta Ley, sólo se otorgarán a los propietarios y poseedores de los terrenos que legalmente tengan derecho a ello.
 
-Cuando la solicitud de una autorización o aviso en materia forestal sobre terrenos propiedad de un ejido o comunidad o comunidad indígena sea presentada por un tercero, éste deberá acreditar el consentimiento del núcleo agrario mediante el acuerdo de asamblea que lo autorice, de conformidad con la Ley Agraria.
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
 
-La autoridad, con la participación del Consejo correspondiente, podrá habilitar mecanismos de apoyo al dictamen de las solicitudes, avisos y atención de contingencias conforme a lo que establezca el Reglamento.
+Cuando la solicitud de una autorización o aviso en materia forestal sobre terrenos propiedad de un ejido o comunidad agraria, comunidad indígena o afromexicana sea presentada por un tercero, éste deberá acreditar el consentimiento del núcleo agrario o de la comunidad indígena o afromexicana mediante el acuerdo de asamblea que lo autorice, de conformidad con la Ley Agraria y la Constitución Política de los Estados Unidos Mexicanos, en lo que corresponde a comunidades indígenas y afromexicanas.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+Las disposiciones de este capítulo serán aplicables para la Comisión en los procedimientos que realice, así como para otras autoridades que en el marco de esta Ley asuman atribuciones de la Federación en materia forestal.
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+La Secretaría, con la participación del Consejo correspondiente, podrá habilitar mecanismos de apoyo al dictamen de las solicitudes, avisos y atención de contingencias conforme a lo que establezca el Reglamento, incluyendo la conformación de cuerpos colegiados multidisciplinarios e interinstitucionales que apoyen estos procesos. De igual forma, la Secretaría, con el apoyo de la Comisión, proporcionarán la información de campo, cartográfica y estadística con la que cuenten para agilizar el análisis.
 
 Los titulares de los derechos de propiedad uso o usufructo de terrenos en donde exista un área de protección, deberán de hacerlo del conocimiento del adquiriente, del fedatario o autoridad, ante quien se vaya a realizar el acto de transmisión de estos derechos y deberá hacerse constar esta situación en la escritura correspondiente.
 
-El Reglamento de esta Ley establecerá los documentos con los que se considerará acreditada la posesión o derecho para realizar las actividades señaladas en los artículos 68 y 69 de esta Ley.
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+El Reglamento de esta Ley establecerá los documentos con los que se considerará acreditada la posesión o derecho para realizar las actividades señaladas en esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ABRIL DE 2022)</small>
 
 ###### Artículo 55.
 
-Los trámites para obtener las autorizaciones y documentos señalados en los artículos 68 y 69 de esta Ley, podrán realizarse directamente en la Dependencia o Entidad que corresponda o mediante el uso de la tecnología de la información con que cuenten las instituciones para ese fin.
+Las solicitudes para obtener las autorizaciones, avisos, informes y otros documentos señalados en esta Ley, podrán presentarse en la Secretaría mediante el uso de la tecnología de la información con que cuenten para ese fin.
 
 La presentación de avisos y autorizaciones deberán acompañarse del comprobante de pago de derechos respectivo, de conformidad con las disposiciones aplicables.
 
-El Reglamento establecerá los requisitos que deban cumplirse para la presentación de las solicitudes, de los actos y autorizaciones previstos en los artículos 68 y 69 de esta Ley, así como los procedimientos que deban desahogarse y el contenido de las resoluciones o constancias que deban emitirse.
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+El Reglamento establecerá los requisitos que deban cumplirse para la presentación de las solicitudes para la obtención de autorizaciones, avisos, informes y otros documentos previstos en esta Ley, así como los procedimientos que deban desahogarse y el contenido de las resoluciones o constancias que deban emitirse.
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
 
 ###### Artículo 56.
 
-Los originales o copias certificadas de instrumentos jurídicos y actas de asamblea que sean presentados ante la Secretaría o la Comisión para el trámite de autorizaciones y avisos a que hace referencia esta Ley y su Reglamento, una vez cotejados, quedarán a disposición de los interesados en la oficina en que se haya realizado el trámite para su devolución.
+Los originales o copias certificadas de instrumentos jurídicos y actas de asamblea que sean presentados ante la Secretaría para el trámite de autorizaciones y avisos a que hace referencia esta Ley y su Reglamento, una vez cotejados, quedarán a disposición de los interesados en la oficina en que se haya realizado el trámite para su devolución.
 
 ###### Artículo 57.
 
 Las mediciones de las materias primas forestales, sus productos y subproductos, para efectos de lo dispuesto en la presente Ley y su Reglamento, deberán hacerse con el Sistema General de Unidades de Medida. En caso de madera en rollo o en escuadría se deberá realizar a su dimensión total.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
 ###### Artículo 58.
 
-El Consejo deberá emitir las opiniones que le sean solicitadas de conformidad con esta Ley y su Reglamento en un plazo no mayor a veinte días hábiles, contados a partir de la fecha de recepción de la solicitud, excepto en los casos en los que se establezca algún otro plazo en las disposiciones aplicables. Transcurrido este plazo sin que el Consejo emita su opinión, se entenderá que no tiene objeción alguna respecto a la materia de la consulta.
+El Consejo Estatal deberá emitir las opiniones que le sean solicitadas de conformidad con esta Ley y su Reglamento en un plazo no mayor a diez días hábiles, contados a partir de la fecha de recepción de la solicitud, excepto en los casos en los que se establezca algún otro plazo en las disposiciones aplicables. Transcurrido este plazo sin que el Consejo emita su opinión, se entenderá que no tiene objeción alguna respecto a la materia de la consulta.
+
+Los Consejos Estatales podrán acordar la constitución de grupos de trabajo para la emisión de estas opiniones. El acuerdo que emitan establecerá la forma en que deliberarán y comunicarán su resolución a la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
 
 ###### Artículo 59.
 
-La ejecución, desarrollo y cumplimiento de los programas de manejo forestal y los estudios técnicos justificativos estarán a cargo del titular de la autorización respectiva, así como de un prestador de servicios forestales, quien será responsable solidario con el titular.
+La ejecución, desarrollo y cumplimiento de los programas de manejo forestal y los estudios técnicos justificativos estarán a cargo del titular de la autorización respectiva, así como de un prestador de servicios forestales, quien será responsable solidario con el titular en los hechos que afirme y los actos que avale y las omisiones en que se incurra.
 
 ###### Artículo 60.
 
 La Secretaría y la Comisión establecerán los procedimientos y mecanismos necesarios, para que los títulos o documentos en los que consten las autorizaciones, sean traducidos a las lenguas de los solicitantes o titulares de aprovechamientos forestales pertenecientes a pueblos y comunidades indígenas, o bien, para asegurar que les sea interpretado su contenido.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
 ###### Artículo 61.
 
-Cuando una autorización pueda afectar el entorno ecológico de alguna comunidad indígena, la autoridad deberá recabar el parecer de los representantes de dicha comunidad.
+Cuando una autorización u otros actos previstos en la ley puedan afectar los derechos colectivos, de alguna comunidad indígena o afromexicana, la Secretaría en coordinación con otras instancias competentes, deberá verificar que por parte de los interesados se han establecido los procedimientos para consultas de manera previa, libre, informada y culturalmente adecuada en los términos de esta Ley y su Reglamento a fin de llegar a un acuerdo y obtener el consentimiento mutuamente acordado de las comunidades.
 
-La Comisión, en coordinación con las autoridades competentes, verificará que los aprovechamientos de recursos forestales se realicen garantizando los derechos que la ley reconozca a las comunidades indígenas.
+La Secretaría, en coordinación con la Comisión verificará que los aprovechamientos de recursos forestales se realicen garantizando los derechos de los pueblos y comunidades indígenas y afromexicanas en el mercado de los mecanismos de implementación y cumplimiento de los derechos y salvaguardas contenidos en esta Ley.
+
+De manera expresa para inscribir en el Registro información relacionada al conocimiento tradicional, que se señala en el artículo 38 de esta Ley, la Secretaría deberá atender de manera previa lo señalado en este artículo.
+
+En el Reglamento y las demás normas que resulten aplicables, la Secretaría establecerá los protocolos y demás lineamientos para atender esta disposición.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+###### Artículo 61 Bis.
+
+Cuando pretendan llevarse a cabo actividades previstas en esta Ley, a realizarse total o parcialmente en áreas naturales protegidas de competencia de la Federación, la Comisión o la Secretaría, según correspondan, solicitarán previo a la resolución, la opinión técnica correspondiente a la Comisión Nacional de Áreas Naturales Protegidas, la cual deberá ser tomada en cuenta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ABRIL DE 2022)</small>
 
 ###### Artículo 62.
 
-Las autorizaciones y actos a que se refieren los artículos 68 y 69 de esta Ley, podrán ser modificadas, suspendidas, revocadas, declaradas extintas o caducas por las autoridades que las hubieren emitido, previa audiencia que se conceda a los interesados para que rindan pruebas y aleguen lo que a su derecho convenga, por las causas previstas en la presente Ley, y de conformidad con los procedimientos que establezca el Reglamento y en lo no previsto se sujetará supletoriamente a lo establecido en la Ley Federal de Procedimiento Administrativo.
+Las autorizaciones, avisos, informes y otros actos previstos en esta Ley, podrán ser modificadas, suspendidas, revocadas, declaradas extintas o caducas, previa audiencia que se conceda a los interesados para que rindan pruebas y aleguen lo que a su derecho convenga, por las causas previstas en la presente Ley, y de conformidad con los procedimientos que establezca el Reglamento y en lo no previsto se sujetará supletoriamente a lo establecido en la Ley Federal de Procedimiento Administrativo.
 
 Una vez emitida la resolución que declare procedente cualquiera de los supuestos señalados en el párrafo anterior se solicitará al Registro Forestal Nacional llevar a cabo las anotaciones correspondientes.
 
-La Secretaría o la Comisión, cuando exista urgencia, atendiendo al interés social o al orden público, podrán imponer medidas provisionales de sanidad, remediación, conservación, restauración y mitigación de impactos adversos a los ecosistemas forestales.
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+La Secretaría, cuando exista urgencia, atendiendo al interés social o al orden público, podrá imponer medidas provisionales de sanidad, remediación, conservación, restauración y mitigación de impactos adversos a los ecosistemas forestales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ABRIL DE 2022)</small>
 
 ###### Artículo 63.
 
-Las autorizaciones y actos previstos en los artículos 68 y 69 de la presente Ley, podrán ser revocados por cualquiera de las causas siguientes:
+Las autorizaciones, avisos, informes y otros actos previstos en esta Ley, podrán ser revocados por cualquiera de las causas siguientes:
 
 I. Cuando se cedan o transfieran a un tercero sin autorización expresa de la Secretaría;
 
@@ -1414,9 +1604,11 @@ IX. Por resolución definitiva de autoridad judicial o jurisdiccional competente
 
 X. Los demás casos previstos en esta Ley o en las propias autorizaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
 ###### Artículo 64.
 
-Las autorizaciones y actos previstos en los artículos 68 y 69 de la presente Ley, se extinguen por cualquiera de las causas siguientes:
+Las autorizaciones, avisos, informes y otros actos previstos en la presente Ley, se extinguen por cualquiera de las causas siguientes:
 
 I. Vencimiento del término por el que se hayan otorgado;
 
@@ -1430,9 +1622,11 @@ V. Cuando se decreten áreas o vedas forestales en la superficie autorizada en l
 
 VI. Cualquiera otra prevista en las leyes o en la autorización misma, que hagan imposible o inconveniente su continuación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
 ###### Artículo 65.
 
-Las autorizaciones y actos previstos en los artículos 68 y 69 de la presente Ley, darán lugar a la suspensión por cualquiera de las causas siguientes:
+Las autorizaciones, avisos, informes y otros actos previstos en la presente Ley, darán lugar a la suspensión por cualquiera de las causas siguientes:
 
 I. Cuando exista conflicto respecto de la propiedad o posesión materia de la autorización ante alguna autoridad o instancia competente;
 
@@ -1442,15 +1636,21 @@ III. En los demás casos previstos en esta Ley, su Reglamento y en las Normas Of
 
 La suspensión se hará en los términos, condiciones y plazos que se establezcan en el Reglamento de la presente Ley.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
 ###### Artículo 66.
 
-Las autorizaciones y actos previstos en los artículos 68 y 69 de la presente Ley, caducan cuando no se ejerzan durante el término de su vigencia y en los demás casos previstos en esta Ley o en las propias autorizaciones.
+Las autorizaciones, avisos, informes y otros actos previstos en la presente Ley, caducan cuando no se ejerzan durante el término de su vigencia y en los demás casos previstos en esta Ley o en las propias autorizaciones.
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
 
 ###### Artículo 67.
 
-Las autorizaciones y actos previstos en los artículos 68 y 69 de la presente Ley, podrán ser modificados cuando varíen las condiciones que la autoridad consideró al momento de su otorgamiento, independientemente de que el titular haya dado lugar a dichas variaciones.
+Las autorizaciones, avisos, informes y otros actos previstos en la presente Ley, podrán ser modificados cuando varíen las condiciones que la autoridad consideró al momento de su otorgamiento, independientemente de que el titular haya dado lugar a dichas variaciones.
 
-#### Sección Segunda. Del Aprovechamiento de Recursos Forestales Maderables
+#### Sección Primera. De los Trámites en Materia Forestal
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
 
 ###### Artículo 68.
 
@@ -1458,47 +1658,59 @@ Corresponderá a la Secretaría emitir los siguientes actos y autorizaciones:
 
 I. Autorización de cambio de uso de suelo en terrenos forestales, por excepción;
 
-II. Autorización de colecta de recursos biológicos forestales;
+II. Autorización de colecta y uso de recursos biológicos o genéticos forestales con propósitos de investigación científica, comerciales y de utilización en biotecnología. Lo anterior de conformidad con lo dispuesto en esta Ley, su Reglamento y las disposiciones que resulten aplicables;
 
-III. Aviso de colecta de recursos biológicos forestales;
+III. Autorización de aprovechamiento de recursos maderables en terrenos forestales;
 
-IV. Certificado fitosanitario de exportación de materias primas, productos y subproductos forestales;
+IV. Autorización de aprovechamiento de recursos forestales no maderables, en los casos previstos por el artículo 85 de esta Ley;
 
-V. Hoja de requisitos fitosanitarios para la importación de materias primas, productos y subproductos forestales. Deberán establecerse específicamente para cada mercancía previamente en términos de lo dispuesto en la Ley de Comercio Exterior, mediante la publicación del instrumento jurídico correspondiente en el Diario Oficial de la Federación;
+V. Autorización de funcionamiento de centros de almacenamiento y transformación de materias primas forestales y de centros no integrados a un centro de transformación primaria;
 
-VI. Inscripción de prestadores de servicios forestales en el Registro Forestal Nacional, y
+VI. Expedición del certificado fitosanitario de exportación de materias primas, productos y subproductos forestales;
 
-VII. Los demás previstos en esta Ley y su Reglamento.
+VII. Emisión de la hoja de requisitos fitosanitarios para la importación de materias primas, productos y subproductos forestales. Deberán establecerse específicamente para cada mercancía previamente en términos de lo dispuesto en la Ley de Comercio Exterior, mediante la publicación del instrumento jurídico correspondiente en el Diario Oficial de la Federación;
+
+VIII. La Inscripción de prestadores de servicios forestales en el Registro Forestal Nacional, y
+
+IX. Las demás previstas en esta Ley y su Reglamento.
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
 
 ###### Artículo 69.
 
-Corresponderá a la Secretaría otorgar las siguientes autorizaciones:
+Corresponderá a la Secretaría recibir los siguientes avisos e informes:
 
-I. Cambio de uso de suelo en terrenos forestales, por excepción;
+I. Aviso para el establecimiento de plantaciones forestales comerciales;
 
-II. Aprovechamiento de recursos maderables en terrenos forestales y preferentemente forestales;
+II. Aviso de colecta y usos de los recursos biológicos o genéticos forestales, cuando se trate de los casos previstos en el párrafo tercero del artículo 86 de esta Ley;
 
-III. Establecimiento de plantaciones forestales comerciales en superficies mayores de 800 hectáreas, excepto aquellas en terrenos forestales temporales, y
+III. Aviso de aprovechamiento de recursos forestales no maderables no previstos en el artículo 85 de esta Ley;
 
-IV. Colecta y usos con fines comerciales o de investigación de los recursos genéticos.
+IV. Aviso de registro de acahuales o de aprovechamiento de recursos forestales provenientes de acahuales;
 
-Las autorizaciones a las que se refieren las fracciones I, II y III de este artículo podrán ser realizadas por las autoridades competentes de las Entidades Federativas, en los términos de los mecanismos de coordinación previstos en la presente Ley.
+V. Informes anuales sobre la ejecución y desarrollo de los aprovechamientos y las plantaciones forestales comerciales, y
 
-En tratándose de plantaciones forestales comerciales, se estará a lo dispuesto en los artículos 79, 80 y relativos de esta Ley, las cuales recibirán tratamientos de desregulación administrativa y fomento.
+VI. Aviso de colecta de germoplasma forestal para reforestación y forestación con fines de conservación o restauración.
+
+Tratándose de plantaciones forestales comerciales, se estará a lo dispuesto en los artículos 79, 80 y relativos de esta Ley, las cuales recibirán tratamientos de desregulación administrativa y fomento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ABRIL DE 2022)</small>
 
 ###### Artículo 70.
 
-La Secretaría y la Comisión realizarán los trámites para el otorgamiento de remisiones forestales o cualquier documento que acredite la legal procedencia y/o transportación de los recursos forestales que provengan de alguna de las actividades que respectivamente hubiesen autorizado.
+La Secretaría y la Comisión a solicitud expresa del interesado, realizarán los trámites necesarios para el otorgamiento de la documentación que acredite la legal procedencia y la transportación de los productos forestales y las materias primas obtenidos en términos de esta Ley y su Reglamento.
 
-Asimismo, llevarán a cabo la inscripción correspondiente en el Registro Forestal Nacional, así como sus modificaciones y cancelaciones correspondientes.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
 
 ###### Artículo 71.
 
-No se requiere autorización de la Comisión para realizar la remoción y el transporte de vegetación que provenga de terrenos diversos a los forestales. Los interesados podrán solicitar a la Comisión que verifique el tipo de vegetación y uso de suelo del terreno y emita la constancia respectiva, en los términos y conforme al procedimiento que establezca el Reglamento.
+Para el aprovechamiento de recursos que provenga de terrenos diversos a los forestales, los interesados podrán solicitar a la Secretaría verifique que el aprovechamiento proviene de un terreno diverso al forestal y emita el código de identificación que se asigne para identificar la procedencia del producto de vegetación que pretende extraerse, el cual sólo avalará la legal procedencia de los mismos y deberá utilizar el interesado en las remisiones forestales que obtenga para su transporte a cualquier destino.
 
-En su caso, la constancia respectiva contendrá el código de identificación que se asigne para identificar la procedencia del producto de vegetación que pretenda extraerse, el cual deberá utilizar el interesado en las remisiones forestales que obtenga para su transporte a cualquier destino.
+Lo anterior, en los términos y conforme al procedimiento que establezca el Reglamento.
 
-#### Sección Tercera. De las Plantaciones Forestales Comerciales
+#### Sección Segunda. Del Aprovechamiento de Recursos Forestales Maderables
 
 ###### Artículo 72.
 
@@ -1524,9 +1736,19 @@ La Secretaría integrará en el Registro un padrón, con vigencia limitada, de p
 
 Cuando los solicitantes cuenten con certificación del adecuado cumplimiento del programa de manejo forestal o alguna certificación de manejo forestal sustentable vigente al momento de la solicitud del trámite, la vigencia corresponderá a la planeación de las acciones establecidas en el programa de manejo aprobado.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
 ###### Artículo 74.
 
-La Secretaría deberá solicitar al Consejo Estatal de que se trate, opiniones y observaciones técnicas respecto de las solicitudes de autorización de aprovechamiento de recursos forestales maderables, previamente a que sean resueltas. El Consejo correspondiente contará con diez días hábiles para emitir su opinión. Transcurrido dicho término, se entenderá que no hay objeción alguna para expedir o negar la autorización.
+La Secretaría deberá solicitar al Consejo Estatal de que se trate, opiniones y observaciones técnicas respecto de las solicitudes de autorización de aprovechamiento de recursos forestales maderables, previamente a que sean resueltas. El Consejo correspondiente contará con veinte días hábiles para emitir su opinión. Transcurrido dicho término, se entenderá que no hay objeción alguna para expedir o negar la autorización.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+###### Artículo 74 Bis.
+
+Los titulares de aprovechamiento forestal maderable estarán obligados a presentar un informe sobre la ejecución, desarrollo y cumplimiento del programa de manejo forestal, en los términos que establezca el Reglamento de la presente Ley.
+
+En caso de no rendir el informe señalado en el párrafo anterior se negará la emisión de remisiones forestales para realizar el transporte de materias primas o productos forestales hasta en tanto esta obligación sea satisfecha.
 
 ###### Artículo 75.
 
@@ -1560,7 +1782,7 @@ V. Exista falsedad en la información proporcionada por los promoventes, respect
 
 VI. Cuando se presenten conflictos agrarios, de límites o de sobreposición de predios, en cuyo caso, la negativa sólo aplicará a las áreas en conflicto.
 
-#### Sección Cuarta. Del Aprovechamiento de los Recursos Forestales No Maderables
+#### Sección Tercera. De las Plantaciones Forestales Comerciales
 
 ###### Artículo 78.
 
@@ -1574,19 +1796,27 @@ Se promoverá el establecimiento de plantaciones forestales comerciales en terre
 
 Las plantaciones forestales comerciales en terrenos temporalmente forestales o preferentemente forestales requerirán de un aviso por escrito. El contenido del escrito y los requisitos del aviso se establecerán en el Reglamento.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
 ###### Artículo 81.
 
-Una vez presentado el aviso de plantación forestal comercial, la Secretaría emitirá una constancia de plantación en un plazo no mayor de diez días hábiles. Si después de este plazo la Secretaría no la ha emitido, el interesado quedará facultado a iniciar la plantación; y la Secretaría deberá expedir la constancia correspondiente, sin menoscabo de las responsabilidades en las que pueda incurrir con dicha omisión.
+Una vez presentado el aviso de plantación forestal comercial, en los términos establecidos en la Ley y el Reglamento, la Secretaría emitirá una constancia de plantación en un plazo no mayor de diez días hábiles. Si después de este plazo la Secretaría no la ha emitido, el interesado quedará facultado a iniciar la plantación; y la Secretaría deberá expedir la constancia correspondiente, sin menoscabo de las responsabilidades en las que pueda incurrir con dicha omisión.
+
+Lo anterior, sin perjuicio de lo establecido en la normatividad en materia de ordenamiento ecológico del territorio y de las áreas naturales protegidas, en la que se proponga establecer la plantación. En cuyo caso ésta no deberá iniciarse hasta que se expida la constancia correspondiente, la cual no será procedente cuando sea contraria a lo dispuesto con el ordenamiento ecológico aplicable, decreto de creación del área y del programa de manejo respectivo.
 
 ###### Artículo 82.
 
 La constancia de plantación forestal comercial facultará a sus titulares a realizar su aprovechamiento, cuando el titular lo juzgue conveniente.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
 ###### Artículo 83.
 
-El titular del aviso de plantación forestal comercial deberá informar anualmente a la Comisión, los volúmenes de materias primas que obtenga del aprovechamiento, en los términos del Reglamento.
+El titular del aviso de plantación forestal comercial deberá informar anualmente a la Secretaría, las superficies plantadas y los volúmenes de materias primas que obtenga del aprovechamiento y los demás datos que se requieran en los términos del Reglamento.
 
-#### Sección Quinta. De la Colecta y Uso de los Recursos Forestales
+La presentación de dicho informe será requisito obligatorio para la emisión de la documentación requerida para acreditar la legal procedencia de las materias primas forestales extraídas.
+
+#### Sección Cuarta. Del Aprovechamiento de los Recursos Forestales No Maderables
 
 ###### Artículo 84.
 
@@ -1604,7 +1834,7 @@ c) Plantas completas de las familias Agavaceae, Cactaceae, Cyatheaceae, Dicksoni
 
 El Reglamento establecerá los requisitos de la solicitud de autorización.
 
-#### Sección Sexta. Del Transporte, Almacenamiento y Transformación de las Materias Primas Forestales
+#### Sección Quinta. De la Colecta y Uso de los Recursos Forestales
 
 ###### Artículo 86.
 
@@ -1622,13 +1852,13 @@ Las colectas y usos con fines comerciales o de investigación de los recursos bi
 
 Cuando además se pretenda aprovechar los conocimientos, las innovaciones y las prácticas de los pueblos y comunidades indígenas y locales sobre los recursos biológicos forestales, deberá reconocerse la propiedad del conocimiento de los pueblos indígenas y presentar un convenio celebrado entre el solicitante de la autorización a que se refiere el artículo anterior y la comunidad titular del conocimiento, en el que se acredite que se cuenta con el consentimiento previo, expreso e informado de ésta.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
 ###### Artículo 88.
 
 El aprovechamiento de recursos y materias primas forestales para uso doméstico se sujetarán a lo que establezca el Reglamento.
 
-Las actividades agroforestales y silvopastoriles se sujetarán a lo que establezcan las Normas Oficiales Mexicanas que al respecto emita la Secretaría.
-
-Las actividades de pastoreo en terrenos forestales se sujetarán a lo que establezcan las Normas Oficiales Mexicanas que al respecto emita la Secretaría.
+En su caso podrán emitirse Normas Oficiales Mexicanas en dichas materias.
 
 ###### Artículo 89.
 
@@ -1638,9 +1868,7 @@ La Comisión promoverá el conocimiento tradicional del uso de los recursos fore
 
 El aprovechamiento de los recursos forestales, para usos domésticos y colecta para fines de investigación, en áreas que sean el hábitat de especies que se encuentren en alguna categoría de riesgo, deberá hacerse de manera que no se alteren las condiciones para la sobrevivencia, desarrollo y permanencia de dichas especies.
 
-#### Sección Séptima. Del Cambio de Uso de Suelo en Terrenos Forestales
-
-> <small>(REFORMADO PRIMERO PÁRRAFO, D.O.F. 26 DE ABRIL DE 2021)</small>
+#### Sección Sexta. Del Transporte, Almacenamiento y Transformación de las Materias Primas Forestales
 
 ###### Artículo 91.
 
@@ -1648,17 +1876,35 @@ Quienes realicen el aprovechamiento, transporte, almacenamiento, comercializaci�
 
 La autoridad establecerá los mecanismos y realizará las acciones que permitan garantizar la trazabilidad de las materias primas y productos forestales regulados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
 ###### Artículo 92.
 
-Para el funcionamiento de centros de almacenamiento y transformación de materias primas forestales y de centros no integrados a un centro de transformación primaria, se requiere de autorización de la Comisión de acuerdo con los requisitos y procedimientos previstos en el Reglamento de esta Ley, o en las Normas Oficiales Mexicanas que para tal efecto se expidan, los que comprenderán aspectos relacionados con contratos, cartas de abastecimiento, balances oferta-demanda, libros de registro de entradas y salidas e inscripciones en el registro. Lo anterior, con independencia de las licencias, autorizaciones o permisos que deban otorgar las autoridades locales.
+Para el funcionamiento de centros de almacenamiento y transformación de materias primas forestales y de centros no integrados a un centro de transformación primaria, se requiere de autorización de la Secretaría de acuerdo con los requisitos y procedimientos previstos en el Reglamento de esta Ley, o en las Normas Oficiales Mexicanas que para tal efecto se expidan, los que comprenderán aspectos relacionados con contratos, cartas de abastecimiento, balances oferta-demanda, libros de registro de entradas y salidas e inscripciones en el registro. Lo anterior, con independencia de las licencias, autorizaciones o permisos que deban otorgar las autoridades locales.
 
 El Reglamento establecerá las disposiciones para la regulación de los equipos móviles de transformación de productos forestales, garantizando un adecuado control y procedimientos expeditos que proporcionen las facilidades para su operación itinerante.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+###### Artículo 92 Bis.
+
+Los propietarios de los centros de almacenamiento y transformación de materias primas y productos forestales, deberán presentar durante los primeros diez días hábiles de los meses de julio y enero, un informe sobre los movimientos registrados durante el semestre anterior a la presentación del informe. En el Reglamento se determinarán los términos de su presentación.
+
+La omisión en la presentación de dos informes semestrales, la Secretaría revocará la autorización de funcionamiento de los centros de almacenamiento y transformación de materias primas y productos forestales; la misma medida se aplicará para aquellos centros que proporcionen información falsa a la Secretaría.
+
+#### Sección Séptima. Del Cambio de Uso de Suelo en Terrenos Forestales
+
+> <small>(REFORMADO PRIMERO PÁRRAFO, D.O.F. 26 DE ABRIL DE 2021)</small>
 
 ###### Artículo 93.
 
 La Secretaría solo podrá autorizar el cambio de uso de suelo en terrenos forestales por excepción, previa opinión técnica de los miembros del Consejo Estatal Forestal de que se trate y con base en los estudios técnicos justificativos cuyo contenido se establecerá en el Reglamento, los cuales demuestren que la biodiversidad de los ecosistemas que se verán afectados se mantenga, y que la erosión de los suelos, la capacidad de almacenamiento de carbono, el deterioro de la calidad del agua o la disminución en su captación se mitiguen en las áreas afectadas por la remoción de la vegetación forestal.
 
 En las autorizaciones de cambio de uso de suelo en terrenos forestales, la Secretaría deberá dar respuesta debidamente fundada y motivada a las opiniones técnicas emitidas por los miembros del Consejo Estatal Forestal de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+La Secretaría podrá emitir criterios y lineamientos en materia de cambio de uso de suelo en terrenos forestales, en el ámbito de sus atribuciones y de conformidad con lo establecido en esta Ley y su Reglamento.
 
 Las autorizaciones que se emitan deberán integrar un programa de rescate y reubicación de especies de la flora y fauna afectadas y su adaptación al nuevo hábitat conforme se establezca en el Reglamento. Dichas autorizaciones deberán sujetarse a lo que, en su caso, dispongan los programas de ordenamientos ecológicos correspondientes, las Normas Oficiales Mexicanas y demás disposiciones legales y reglamentarias aplicables.
 
@@ -1700,6 +1946,24 @@ Las diversas instancias del gobierno federal, de las entidades federativas y de 
 
 La Secretaría, con la participación de la Comisión, coordinará con diversas entidades públicas, acciones conjuntas para armonizar y eficientar los programas de construcciones de los sectores eléctrico, hidráulico y de comunicaciones, con el cumplimiento de la normatividad correspondiente.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+#### Sección Octava. Del Aviso de registro de acahuales y aprovechamiento de recursos forestales provenientes de acahuales
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+###### Artículo 100 Bis.
+
+El registro de acahuales y el de aprovechamiento de recursos forestales provenientes de los mismos se realizará mediante aviso que presenten los interesados.
+
+El registro previo es necesario para realizar el aprovechamiento de recursos forestales provenientes de acahuales. El aprovechamiento doméstico de recursos forestales provenientes de acahuales se sujetará a lo dispuesto en el Reglamento.
+
+La inscripción de los avisos de acahuales en el Registro se llevará a cabo si el aviso de éstos cumple los requisitos establecidos en el Reglamento y una vez que se hubieran realizado las verificaciones de gabinete y de campo necesarios.
+
+La Secretaría deberá solicitar al Consejo Estatal correspondiente, su opinión y las observaciones que considere en relación a los avisos de registro de acahuales y el aprovechamiento de recursos forestales provenientes de los mismos, previamente a que sean inscritos al Registro. El Consejo Estatal contará con diez días hábiles para emitir su opinión.
+
+La Secretaría contará con un plazo de sesenta días para emitir respuesta sobre el registro del aviso o, en su caso, negarlo.
+
 ### Capítulo II. De los Servicios Forestales
 
 ###### Artículo 101.
@@ -1728,9 +1992,17 @@ Asimismo, establecerá y ejecutará medidas para procurar el acceso a los elemen
 
 La Comisión, en coordinación con las Entidades Federativas, delimitarán las unidades de manejo forestal, tomando como base las semejanzas físicas, ambientales, sociales y económicas de un territorio, con el propósito de lograr una ordenación forestal sustentable, una planeación ordenada de las actividades forestales y el manejo eficiente de los recursos forestales.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
 ###### Artículo 106.
 
-Los mecanismos para fomentar la ordenación forestal, la planeación ordenada de las actividades forestales, el manejo forestal, así como la participación de los dueños y poseedores de los recursos forestales, titulares de aprovechamientos, prestadores de servicios forestales, dependencias de los tres órdenes de gobierno y demás actores del sector forestal, en las Unidades de Manejo Forestal, se establecerán en el Reglamento de la presente Ley.
+Los mecanismos para fomentar la ordenación forestal, la planeación ordenada de las actividades forestales, el manejo forestal, así como la participación de los dueños y poseedores de los recursos forestales, titulares de aprovechamientos, prestadores de servicios forestales, comunidades indígenas y afromexicanas, titulares de aprovechamientos, prestadores de servicios forestales, dependencias de los tres órdenes de gobierno y demás actores del sector forestal, en las Unidades de Manejo Forestal, se establecerán en el Reglamento de la presente Ley.
+
+En la planeación del desarrollo forestal sustentable, se elaborarán programas y estudios regionales forestales en cada Unidad de Manejo Forestal, y la Comisión promoverá su elaboración y ejecución.
+
+La Secretaría autorizará dichos programas y estudios regionales conforme al contenido y procedimiento que se establezca en el Reglamento de esta Ley.
+
+La Comisión promoverá que los gobiernos de las Entidades Federativas se coordinen a efecto de participar en la elaboración de dichos programas y estudios y propiciará la participación de los interesados.
 
 ### Capítulo IV. De la Certificación Forestal y de las Auditorías Técnicas Preventivas
 
@@ -1780,7 +2052,13 @@ La Secretaría expedirá los certificados fitosanitarios de exportación y la ho
 
 La Comisión emitirá las notificaciones relacionadas con la aplicación de medidas fitosanitarias para la prevención y el control de plagas y enfermedades forestales.
 
-Cuando por motivos de sanidad forestal sea necesario realizar la remoción de la vegetación forestal afectada, los propietarios y legítimos poseedores deberán desarrollar un programa de restauración forestal.
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+Cuando por motivos de sanidad forestal sea necesario realizar la remoción de la vegetación forestal afectada, los propietarios y legítimos poseedores deberán realizar acciones de restauración forestal, las cuales se precisarán en el informe técnico fitosanitario correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+Al término de los trabajos de sanidad forestal los obligados deberán presentar a más tardar treinta días contados desde que concluyeron los trabajos de sanidad forestal un informe sobre los resultados de la ejecución de los mismos.
 
 ###### Artículo 114.
 
@@ -1798,9 +2076,11 @@ Cuando los trabajos de sanidad forestal no se ejecuten o siempre que exista ries
 
 ### Capítulo II. De los Incendios Forestales y del Manejo del Fuego
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
 ###### Artículo 117.
 
-La Secretaría dictará las Normas Oficiales Mexicanas que regirán el manejo del fuego, para evaluar los daños, restaurar el área afectada por incendio y establecer los métodos de manejo del fuego en los terrenos forestales, temporalmente forestales, agropecuarios y colindantes, así como los procedimientos para establecer el Sistema de Calificación para el manejo del fuego y el Sistema de Comando de Incidentes para el manejo del fuego en ecosistemas forestales.
+La Secretaría dictará las Normas Oficiales Mexicanas que regirán el manejo del fuego, y permitan una gestión integrada del fuego, para evaluar los daños, restaurar el área afectada por incendio y establecer los métodos de manejo del fuego en los terrenos forestales, temporalmente forestales, agropecuarios y colindantes, así como los procedimientos para establecer el Sistema de Calificación para el manejo del fuego y el Sistema de Comando de Incidentes para el manejo del fuego en ecosistemas forestales.
 
 Quienes hagan uso del fuego en contravención de lo dispuesto en las normas mencionadas, recibirán las sanciones que prevé la presente Ley, sin perjuicio de las establecidas en los ordenamientos penales.
 
@@ -1840,15 +2120,25 @@ La Comisión, escuchando la opinión de los Consejos y tomando en cuenta los req
 
 Las acciones de dichos programas y los instrumentos económicos a que se refiere el párrafo anterior, serán incorporados en el Programa Especial Concurrente para el Desarrollo Rural Sustentable, incluyendo las previsiones presupuestarias de corto y mediano plazo, necesarias para su instrumentación, dando preferencia a los propietarios y poseedores de los recursos forestales para su ejecución.
 
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+###### Artículo 122 Bis.
+
+Los terrenos forestales seguirán considerándose como tales, aunque pierdan su cubierta forestal por acciones ilícitas, plagas, enfermedades, incendios, deslaves, huracanes, o cualquier otra causa. Los propietarios y poseedores emprenderán acciones para la restauración de dicha cubierta.
+
+En caso de que los acahuales se pretendan destinar a un uso agrícola o pecuario de manera permanente u otro uso distinto al forestal, los titulares de los avisos de registro de acahuales y, en su caso, de aprovechamiento de acahual, deberán solicitar la autorización de cambio de uso del suelo en terrenos forestales de conformidad con lo establecido en esta Ley y su Reglamento.
+
 ###### Artículo 123.
 
 Cuando se presenten procesos de degradación o desertificación, o graves desequilibrios ecológicos en terrenos forestales o preferentemente forestales, la Comisión formulará y ejecutará, en coordinación con las Entidades Federativas, los propietarios y legítimos poseedores, programas de restauración ecológica con el propósito de que se lleven a cabo las acciones necesarias para la recuperación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales, incluyendo el mantenimiento del régimen hidrológico y la prevención de la erosión y la restauración de los suelos forestales degradados, así como la implementación de mecanismos de evaluación y monitoreo de dichas acciones.
 
 Los propietarios y poseedores de terrenos forestales están obligados a realizar las acciones de restauración y conservación pertinentes y aquellas que para tal caso dicte la Comisión. En el caso de que éstos demuestren carecer de recursos, la Comisión los incorporará a los programas de apoyo que instrumente, de acuerdo a las asignaciones que para tal fin se contemplen en el Presupuesto de Egresos de la Federación o, en su caso, realizará por su cuenta, con acuerdo de los obligados, los trabajos requeridos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
 ###### Artículo 124.
 
-El Ejecutivo Federal, con base en los estudios técnicos que se elaboren para justificar la medida, previa opinión técnica de los Consejos y respetando la garantía de audiencia de ejidatarios, comuneros y demás propietarios y legítimos poseedores de los terrenos afectados, así como de los titulares de autorizaciones de aprovechamiento de recursos forestales maderables y forestación sobre dichos terrenos, podrá decretar, como medida de excepción, vedas forestales cuando éstas:
+El Ejecutivo Federal, con base en los estudios técnicos que se elaboren para justificar la medida, previa opinión técnica de los Consejos y respetando la garantía de audiencia y los derechos de ejidatarios, comuneros y demás propietarios y legítimos poseedores de los terrenos afectados, así como de los titulares de autorizaciones de aprovechamiento de recursos forestales maderables y forestación sobre dichos terrenos, podrá decretar, como medida de excepción, vedas forestales cuando éstas:
 
 I. Constituyan justificadamente modalidades para el manejo de los recursos forestales comprendidos en las declaratorias de áreas naturales protegidas;
 
@@ -1860,7 +2150,9 @@ IV. Tengan como finalidad la regeneración de terrenos incendiados.
 
 Se exceptuarán de las vedas los terrenos en los que se realice el aprovechamiento forestal o la plantación forestal comercial de conformidad con los instrumentos de manejo establecidos en la presente Ley, en tanto no se ponga en riesgo la biodiversidad, de acuerdo con los criterios e indicadores que al efecto se emitan.
 
-En este último caso la veda tendrá carácter precautorio, deberá referirse en forma específica al programa de manejo respectivo y sólo podrá abarcar la fracción del área forestal afectada por el riesgo a la biodiversidad. La Comisión solicitará a los titulares la modificación de los programas de manejo respectivos, segregando de los mismos las superficies afectadas. Así mismo se establecerá un programa que tenga como finalidad atacar las causas que originan la veda y asegurarse al término de la misma que dichas causas no se repitan.
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+En este último caso la veda tendrá carácter precautorio, deberá referirse en forma específica al programa de manejo respectivo y sólo podrá abarcar la fracción del área forestal afectada por el riesgo a la biodiversidad. La Secretaría solicitará a los titulares la modificación de los programas de manejo respectivos, segregando de los mismos las superficies afectadas. Así mismo se establecerá un programa que tenga como finalidad atacar las causas que originan la veda y asegurarse al término de la misma que dichas causas no se repitan.
 
 Los proyectos de veda deberán publicarse en el Diario Oficial de la Federación, y se notificarán previamente a los posibles afectados en forma personal cuando se conocieren sus domicilios; en caso contrario, se hará una segunda publicación la que surtirá efectos de notificación.
 
@@ -1876,9 +2168,15 @@ Los predios que se encuentren dentro de estas áreas de protección forestal, se
 
 Para tal efecto, la Comisión en atención a la solicitud de los interesados coordinará la elaboración de los estudios técnicos pertinentes con la participación de los gobiernos de las Entidades Federativas, de los Municipios, Demarcaciones Territoriales de la Ciudad de México, dependencias o entidades públicas, así como de los propietarios y poseedores, y propondrá a la Secretaría la emisión de la declaratoria respectiva.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
 ###### Artículo 126.
 
-La Secretaría emitirá Normas Oficiales Mexicanas tendientes a prevenir y controlar el sobrepastoreo en terrenos forestales; determinar coeficientes de agostadero; evaluar daños a suelos y pastos; regular los procesos de reforestación y restauración de áreas afectadas; y a compatibilizar las actividades silvopastoriles.
+La Secretaría y la Comisión con la participación de las dependencias competentes, propiciarán el conocimiento, difusión y adopción de las mejores prácticas de manejo y aprovechamiento forestal sustentable de los ecosistemas forestales.
+
+Las actividades agroforestales y silvopastoriles en terrenos forestales se sujetarán a lo que establezca (sic) las Normas Oficiales Mexicanas que al respecto emita la Secretaría, con el objeto de prevenir y controlar el sobrepastoreo en terrenos forestales, determinar coeficientes de agostadero; evaluar daños a suelos y vegetación forestal; regular los procesos de reforestación y restauración de áreas afectadas; y a compatibilizar las actividades silvopastoriles.
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
 
 ###### Artículo 127.
 
@@ -1886,7 +2184,9 @@ La forestación y reforestación que se realice con propósitos de conservación
 
 Las acciones de reforestación que se lleven a cabo en los terrenos forestales sujetos al aprovechamiento deberán incluirse en el programa de manejo forestal correspondiente. El prestador de servicios forestales que, en su caso, funja como encargado técnico será responsable solidario junto con el titular de la ejecución del programa en este aspecto.
 
-Los tres órdenes de gobierno se coordinarán para que, en el ámbito de sus respectivas competencias, instrumenten programas de restauración integral, así como para el monitoreo y seguimiento de los mismos. Se impulsará la reforestación con especies forestales preferentemente nativas.
+Los tres órdenes de gobierno se coordinarán para que, en el ámbito de sus respectivas competencias, instrumenten programas de restauración integral, así como para el monitoreo y seguimiento de éstos.
+
+Se impulsará la reforestación con especies forestales preferentemente nativas. La Secretaría establecerá el listado de especies forestales exóticas invasoras en actividades de reforestación.
 
 ###### Artículo 128.
 
@@ -1912,9 +2212,15 @@ Los propietarios y legítimos poseedores de terrenos forestales que, como result
 
 ### Capítulo V. Del Riesgo y Daños Ocasionados a los Recursos Forestales, al Medio Ambiente, Ecosistemas o sus Componentes
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
 ###### Artículo 132.
 
-Cuando la Comisión, con base en estudios técnicos, determine la existencia de un riesgo a los ecosistemas forestales, notificará a los propietarios y poseedores de terrenos forestales, o aquellos que resultaren afectados, la ejecución de las actividades necesarias para evitar o reducir la situación de riesgo, con el apercibimiento de que en caso de no realizarlas en el término que se conceda para ello, la Comisión realizará los trabajos correspondientes con cargo a los obligados. El monto de las erogaciones que se realicen será considerado como crédito fiscal y su recuperación será mediante el procedimiento económico coactivo correspondiente.
+Cuando la Secretaría, con base en estudios técnicos realizados con el apoyo de la Comisión, determine la existencia de un riesgo a los ecosistemas forestales, notificará a los propietarios y poseedores de terrenos forestales, o aquellos que resultaren afectados, la ejecución de las actividades necesarias para evitar o reducir la situación de riesgo, con el apercibimiento de que en caso de no realizarlas en el término que se conceda para ello, la Comisión realizará los trabajos correspondientes con cargo a los obligados.
+
+El monto de las erogaciones determinadas será considerado como crédito fiscal y su recuperación será por conducto de la autoridad competente, mediante el procedimiento económico coactivo correspondiente.
+
+Al término de ejecución de las actividades necesarias para evitar o reducir la situación de riesgo los obligados o, en su caso, la Comisión deberán presentar un informe sobre las actividades realizadas.
 
 ###### Artículo 133.
 
@@ -2009,6 +2315,20 @@ La Comisión promoverá y difundirá a nivel nacional, regional o local, según 
 Dentro de los incentivos económicos se podrá crear un bono que incentive la conservación del recurso forestal por el Fondo Forestal Mexicano de acuerdo a la disponibilidad de recursos, a fin de retribuir a los propietarios o poseedores de terrenos forestales por los bienes y servicios ambientales generados.
 
 El reglamento respectivo determinará los procedimientos de emisión y asignación de estos bonos, los cuales tendrán el carácter de títulos de crédito nominativos y, por lo tanto, adquirirán alguna de las formas que establece la Ley General de Títulos y Operaciones de Crédito.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+###### Artículo 138 Bis.
+
+La Secretaría está facultada para convenir acuerdos internacionales sobre mecanismos cooperativos de reducción de emisiones en el sector forestal, incluyendo las emisiones evitadas, con el apoyo técnico de la Comisión, y considerando la opinión de la Comisión Intersecretarial de Cambio Climático a través del grupo de trabajo respectivo. La Secretaría está facultada para convenir con los Gobiernos de las Entidades Federativas las formas de participación de éstas en dichos mecanismos, en lo que corresponde al territorio bajo su jurisdicción.
+
+En caso de que estos convenios impliquen la transferencia de reducción de emisiones, la Secretaría, considerará previamente la opinión técnica de la Comisión, el Instituto Nacional de Ecología y Cambio Climático, y la Comisión Nacional de Áreas Naturales Protegidas, en el ámbito de las atribuciones que les corresponda, con el fin de evitar doble contabilidad de emisiones y contribuir al eficaz cumplimiento de las Contribuciones Determinadas a Nivel Nacional.
+
+La Secretaría coordinará el diseño, instrumentación y operación de dichos acuerdos internacionales sobre mecanismos cooperativos de reducción de emisiones en el sector forestal con la participación que corresponda a la Comisión.
+
+Los recursos obtenidos del pago por resultados derivados de la reducción de emisiones se otorgarán conforme al programa de distribución de beneficios que, de manera participativa e incluyente, se elabore conforme a los objetivos, salvaguardas y criterios de la política forestal previstos en esta Ley.
+
+Los dueños y legítimos poseedores de los terrenos forestales podrán realizar la compensación o transferencia de emisiones a nivel nacional o internacional en mercados voluntarios, sujetándose a las disposiciones generales que establezca la Secretaría.
 
 ### Capítulo II. Del Fondo Forestal Mexicano
 
@@ -2218,9 +2538,23 @@ En las leyes locales de la materia y sus reglamentos, se establecerá la composi
 
 ### Capítulo I. De la Prevención y Vigilancia Forestal
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
 ###### Artículo 154.
 
-La prevención y vigilancia forestal corresponde a la Secretaría, a través de la Procuraduría Federal de Protección al Ambiente, y las autoridades administrativas, y tendrán, como función primordial, la salvaguarda y patrullaje de los recursos forestales; realizar los actos de investigación técnica, inspección, vigilancia y verificación del cumplimiento de las disposiciones y obligaciones contenidas en la presente Ley, su Reglamento y las Normas Oficiales Mexicanas de acuerdo a lo previsto en el Título Sexto de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+La prevención y vigilancia forestal corresponde a la Secretaría, a través de la Procuraduría Federal de Protección al Ambiente, que tendrá, como función la salvaguarda y patrullaje de los recursos forestales; realizar los actos de investigación técnica, inspección, vigilancia y verificación del cumplimiento de las disposiciones y obligaciones contenidas en la presente Ley, su Reglamento y las Normas Oficiales Mexicanas de acuerdo a lo previsto en el Título Sexto de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+La investigación podrá realizarse con motivo de una denuncia o durante los actos de inspección, vigilancia, operativos y verificación del cumplimiento de las disposiciones y obligaciones contenidas en la Ley, su Reglamento y las Normas Oficiales Mexicanas.
+
+El diagnóstico de Zonas Críticas Forestales será parte de la investigación técnica.
+
+Asimismo, impulsará la profesionalización y capacitación en materia forestal del personal que participe en las visitas y operativos de inspección.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+###### Artículo 154 Bis.
+
+De conformidad a lo previsto en el Título Sexto de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, toda persona podrá denunciar ante la Procuraduría, todo hecho, acto u omisión que produzca o pueda producir daños a los recursos forestales, o contravenga las disposiciones de la Ley.
 
 ### Capítulo II. De las Infracciones
 
@@ -2254,7 +2588,9 @@ XII. Causar daño o deterioro grave a los ecosistemas forestales;
 
 XIII. Extraer suelo forestal, en contravención a lo dispuesto en esta Ley, las Normas Oficiales Mexicanas o en las demás disposiciones legales y reglamentarias aplicables, o realizar cualquier acción que comprometa la regeneración y capacidad productiva de los terrenos forestales;
 
-XIV. Incumplir con la obligación de dar los avisos o presentar los informes a que se refiere esta Ley;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+XIV. Incumplir con la obligación de presentar en tiempo y forma los avisos o presentar los informes a que se refiere esta Ley;
 
 XV. Transportar, almacenar, transformar o poseer materias primas forestales, sin contar con la documentación o los sistemas de control establecidos para acreditar su legal procedencia;
 
@@ -2284,7 +2620,11 @@ XXVII. Depositar residuos peligrosos en terrenos forestales o preferentemente fo
 
 XXVIII. Carecer de la documentación o los sistemas de control establecidos para acreditar la legal procedencia de materias primas forestales, obtenidas en el aprovechamiento, y
 
-XXIX. Cualquier otra contravención a lo dispuesto en la presente Ley.
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+XXIX. Proporcionar información falsa a la Secretaría y a la Comisión, y
+
+XXX. Cualquier otra contravención a lo dispuesto en la presente Ley.
 
 ### Capítulo III. De las Sanciones
 
@@ -2294,7 +2634,9 @@ Las infracciones establecidas en el artículo anterior de esta Ley, serán sanci
 
 I. Amonestación;
 
-II. Imposición de multa;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+II. Imposición de multa, cuyos recursos serán destinados para realizar acciones de inspección y vigilancia forestal;
 
 III. Suspensión temporal, parcial o total, de las autorizaciones de aprovechamiento de recursos forestales o de la inscripción registral, o de las actividades de que se trate;
 
@@ -2308,21 +2650,51 @@ VII. Establecimiento de medidas de restauración en el área afectada.
 
 En el caso de las fracciones III y IV de este artículo, la Secretaría ordenará se haga la inscripción de la suspensión o revocación correspondiente en el Registro Forestal Nacional.
 
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+La Procuraduría podrá determinar el destino final a las materias primas forestales, productos forestales maderables o recursos forestales no maderables decomisados, una vez que se emita la resolución en el procedimiento administrativo y se encuentre firme por no haber sido impugnada, o bien habiéndose impugnado y agotado los medios de defensa, se haya declarado su validez.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+La Procuraduría podrá determinar algunos de los destinos previstos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, o bien transferir los bienes decomisados al Instituto Nacional para Devolver al Pueblo lo Robado, quien los podrá enajenar de conformidad con las disposiciones de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+Los recursos económicos provenientes de las multas y los obtenidos por los procedimientos de venta a que hace referencia el artículo 89 de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, se destinarán a la inspección y vigilancia forestal, de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+###### Artículo 156 Bis.
+
+Cuando la Procuraduría practique el aseguramiento de bienes, podrá designar como depositario al titular del aprovechamiento forestal, al prestador de servicios, al transportista, al responsable de centros de almacenamiento o de transformación o a cualquier otra persona, según las circunstancias de la diligencia que dé motivo al aseguramiento.
+
+La Procuraduría Federal de Protección al Ambiente y las autoridades administrativas podrán colocar sellos o marcas en los bienes y dictar las medidas para garantizar su cuidado.
+
 ###### Artículo 157.
 
 La imposición de las multas a que se refiere el artículo anterior, se determinará en la forma siguiente:
 
-I. Con el equivalente de 40 a 1000 veces la Unidad de Medida y Actualización, a quien cometa las infracciones señaladas en las fracciones V, VI, XIV, XVI, XVII, XX y XXIX del artículo 155 de esta Ley;
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2022)</small>
 
-II. Con el equivalente de 100 a 20,000 veces la Unidad de Medida y Actualización, a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, VII, VIII, X, XI, XIII, XV, XVIII, XXVI, XXVII y XXVIII del artículo 155 de esta Ley, y
+I. Con el equivalente de 40 a 3000 veces la Unidad de Medida y Actualización, a quien cometa las infracciones señaladas en las fracciones VI, XIV, XVII, XX y XXX del artículo 155 de esta Ley;
 
-III. Con el equivalente de 150 a 30,000 veces la Unidad de Medida y Actualización, a quien cometa las infracciones señaladas en las fracciones IX, XII, XIX, XXI, XXII, XXIII, XXIV y XXV del artículo 155 de esta Ley.
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+II. Con el equivalente de 100 a 30,000 veces la Unidad de Medida y Actualización, a quien cometa las infracciones señaladas en las fracciones I, II, IV, VIII, X, XI, XIII, XV, XVIII, XXVI, XXVII y XXVIII del artículo 155 de esta Ley, y
+
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+III. Con el equivalente de 150 a 30,000 veces la Unidad de Medida y Actualización, a quien cometa las infracciones señaladas en las fracciones III, V, VII, IX, XII, XVI, XIX, XXI, XXII, XXIII, XXIV, XXV y XXIX del artículo 155 de esta Ley.
 
 Para la imposición de multas servirá de base la Unidad de Medida y Actualización prevista en el párrafo sexto del Apartado B del artículo 26 de la Constitución Política de los Estados Unidos Mexicanos, al momento de cometerse la infracción.
 
-A los reincidentes se les aplicará el doble de las multas previstas en este artículo, según corresponda.
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
 
-La Secretaría, fundamentando y motivando plenamente su decisión, podrá otorgar al infractor la opción de pagar la multa o realizar trabajos o inversiones equivalentes en materia de conservación, protección o restauración de los recursos forestales, siempre y cuando se garanticen las obligaciones del infractor, éste no sea reincidente y no se trate de irregularidades que impliquen la existencia de riesgo inminente de daño o deterioro grave de los ecosistemas forestales.
+A los reincidentes se les aplicará el doble de las multas previstas en este artículo, según corresponda. Para conocer de las reincidencias la Procuraduría Federal de Protección al Ambiente deberá generar un catálogo de infractores, donde se incluya información de nombres, razón social, ubicación, superficies y coordenadas en UTM.
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+La Procuraduría Federal de Protección al Ambiente, fundamentando y motivando plenamente su decisión, podrá otorgar al infractor la opción de pagar la multa o realizar trabajos o inversiones equivalentes en materia de conservación, protección o restauración de los recursos forestales dentro de la cuenca hidrográfica, siempre y cuando se garanticen las obligaciones del infractor, éste no sea reincidente y no se trate de irregularidades que impliquen la existencia de riesgo inminente de daño o deterioro grave de los ecosistemas forestales cuya determinación podrá obtenerse mediante la investigación técnica previa y durante el procedimiento administrativo.
 
 ###### Artículo 158.
 
@@ -2340,9 +2712,11 @@ V. Las condiciones económicas, sociales y culturales del infractor, y
 
 VI. La reincidencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
 ###### Artículo 159.
 
-Cuando la Secretaría determine a través de las visitas de inspección, que existen daños al ecosistema, impondrá como sanción mínima al responsable la ejecución de las medidas de restauración correspondientes.
+Cuando la Procuraduría Federal de Protección al Ambiente determine a través de las visitas de inspección, que existe riesgo inminente de desequilibrio ecológico o daño grave a los recursos naturales, podrá ordenar las medidas de seguridad contenidas en el Título Sexto de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
 Cuando en una sola acta de inspección aparezca que se han cometido diversas infracciones, deberán ser sancionadas individualmente. Las actas que se levanten en casos de flagrancia, deberán hacer constar con precisión esta circunstancia.
 
@@ -2350,11 +2724,13 @@ En los casos de flagrancia la autoridad podrá levantar acta circunstanciada sin
 
 La amonestación sólo será aplicable a los infractores por primera vez, a criterio de la Secretaría y servirá de apoyo para incrementar la sanción económica a los reincidentes.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
 ###### Artículo 160.
 
-Cuando la gravedad de la infracción lo amerite, la Secretaría solicitará a las autoridades que los hubieren otorgado, la suspensión, modificación, revocación o cancelación de la concesión, permiso, licencia y en general de todas las autorizaciones otorgadas para la realización de las actividades calificadas como infracciones. Esta atribución la ejercerá directamente la Secretaría cuando le corresponda otorgar los instrumentos respectivos.
+Por la gravedad de la infracción la Procuraduría Federal de Protección al Ambiente podrá imponer como sanción la revocación de la autorización o inscripción registral, remitirá a la autoridad que la emitió o registró, copia certificada de la resolución en la que se determinó la sanción para que lleve a cabo la suspensión, modificación, revocación o cancelación de la concesión, permiso, licencia, registro y en general de todas las autorizaciones otorgadas para la realización de las actividades calificadas como infracciones. Esta atribución la ejercerá directamente la Secretaría cuando le corresponda otorgar los instrumentos respectivos.
 
-De igual manera, la Comisión podrá promover ante las autoridades federales o locales competentes, con base en los estudios que elabore, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos, turísticos o de cualquier actividad que afecte o pueda afectar los recursos forestales.
+De igual manera, la Procuraduría Federal de Protección al Ambiente podrá promover ante las autoridades federales o locales competentes, con base en los estudios que elabore la Comisión, la limitación o suspensión de la instalación o funcionamiento de industrias para regular el abasto de recursos forestales por cuencas hidrográficas, así como los comercios, servicios, desarrollos urbanos, turísticos o de cualquier actividad que afecte o pueda afectar los recursos forestales.
 
 ###### Artículo 161.
 
@@ -2384,7 +2760,9 @@ Primero. Los procedimientos y solicitudes que se encuentren en trámite se regir
 
 Segundo. El Ejecutivo Federal emitirá el Reglamento de la presente Ley, dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor.
 
-Tercero. La Comisión inscribirá en el Registro Forestal Nacional aquellas plantaciones forestales comerciales establecidas con anterioridad a la entrada en vigor de la Ley General de Desarrollo Forestal Sustentable y que no cuenten con el registro correspondiente. Para tal efecto, los interesados presentarán un aviso, en escrito libre, el cual contendrá nombre, denominación o razón social y domicilio del propietario o poseedor del predio, ubicación y denominación del predio, así como superficie y especies plantadas.
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+Tercero. La Secretaría inscribirá en el Registro Forestal Nacional aquellas plantaciones forestales comerciales establecidas con anterioridad a la entrada en vigor de la Ley General de Desarrollo Forestal Sustentable y que no cuenten con el registro correspondiente. Para tal efecto, los interesados presentarán un aviso ante la Secretaría con los requisitos de información y documentación previstos en el Reglamento dentro de un plazo que no exceda los trescientos sesenta y cinco días naturales contados a partir de la entrada en vigor de dicho Reglamento.
 
 Cuarto. La Comisión diseñará e implementará el Sistema Nacional de Monitoreo Forestal, a que se refiere el artículo 34, fracción VII en un plazo de un año a partir de la entrada en vigor de la presente Ley.
 
@@ -2415,3 +2793,27 @@ D.O.F. 26 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE".]
 
 Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Secretaría deberá actualizar y publicar en un plazo no mayor de ciento ochenta días naturales, contados a partir de la publicación de este Decreto, todas aquellas disposiciones reglamentarias y administrativas que se opongan al presente Decreto.
+
+D.O.F. 11 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE”.]
+
+Primero. El presente Decreto entrará en vigor a los sesenta días al de su publicación en el Diario Oficial de la Federación. Las autorizaciones expedidas con anterioridad a la publicación de la presente reforma de la Ley continuarán vigentes en los términos y condiciones en que fueron expedidas, y los procedimientos y solicitudes que se encuentren en trámite se continuarán tramitando en los términos de la Ley que se reforma.
+
+Segundo. El Ejecutivo Federal emitirá el Reglamento de la presente Ley, dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor.
+
+Tercero. Los avisos de registro de acahuales y de aprovechamiento de recursos forestales provenientes de los mismos deberán inscribirse, cuando proceda, en el Registro en un plazo no mayor a cuarenta y ocho meses a partir de la expedición del Reglamento. Posterior a dicho plazo se considerará concluido dicho Registro.
+
+Cuarto. La Secretaría deberá expedir el listado de especies forestales exóticas invasoras en actividades de reforestación en un plazo no mayor a dieciocho meses.
+
+Quinto. La Secretaría de Medio Ambiente y Recursos Naturales y la Comisión Nacional Forestal podrán instaurar un procedimiento de coordinación a fin de transmitir toda la información, procedimientos, expedientes, estadística y cualquier otra documentación que tengan en su poder, correspondiente a las atribuciones, competencias y facultades establecidas en esta Ley y su reforma.
+
+Sexto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado de los ejecutores de gasto correspondientes por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal como resultado de la entrada en vigor del presente Decreto.
