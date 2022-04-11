@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-la-comision-de-administracion-del-142407"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-04-02"
-last_updated: "2020-10-30"
+last_updated: "2022-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142407&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2020-03-30"
 ---
 # ACUERDO GENERAL DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION [POR EL QUE SE IMPLEMENTAN DIVERSAS MEDIDAS EN RELACION CON EL FUNCIONAMIENTO Y OPERACION DE LAS AREAS ADMINISTRATIVAS Y ORGANOS AUXILIARES DE LA COMISION DE ADMINISTRACION, CON MOTIVO DE LA CONTINGENCIA DERIVADA DE LA ENFERMEDAD POR EL VIRUS SARS-COV2 (COVID-19)]
 
-> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 4 DE AGOSTO DE 2020, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN QUE AUTORIZA LA REINCORPORACIÓN PRESENCIAL DEL PERSONAL ADSCRITO A LAS ÁREAS DE APOYO ADMINISTRATIVO, ÁREAS DE APOYO TÉCNICO-JURÍDICO Y ÓRGANOS AUXILIARES DE LA COMISIÓN DE ADMINISTRACIÓN, A LAS ACTIVIDADES LABORALES, BAJO LOS PROTOCOLOS DE SEGURIDAD SANITARIA QUE PERMITAN SALVAGUARDAR LA SALUD DEL PERSONAL DEL TRIBUNAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 11 DE ABRIL DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 4 DE AGOSTO DE 2020, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]
 
 ACUERDO GENERAL DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN POR EL QUE SE IMPLEMENTAN DIVERSAS MEDIDAS EN RELACIÓN CON EL FUNCIONAMIENTO Y OPERACIÓN DE LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS AUXILIARES DE LA COMISIÓN DE ADMINISTRACIÓN, CON MOTIVO DE LA CONTINGENCIA DERIVADA DE LA ENFERMEDAD POR EL VIRUS SARS-COV2 (COVID-19)
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN:11 DE ABRIL DE 2022 (ABROGADO).
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 2 de abril de 2020.
 
@@ -190,3 +192,15 @@ SEGUNDO. Publíquese en el Diario Oficial de la Federación, así como en la pá
 TERCERO. Se deroga el ACUERDO CUARTO del Acuerdo General de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación por el que se implementan diversas medidas en relación con el funcionamiento y operación de las áreas administrativas y órganos auxiliares de la Comisión de Administración, con motivo de la contingencia derivada de la enfermedad por el virus SARS-CoV2 (COVID-19), publicado en el Diario Oficial de la Federación el pasado dos de abril de dos mil veinte, en el cual se dispuso lo siguiente “Se suspenden los plazos y términos para que todos los servidores públicos del Tribunal Electoral del Poder Judicial de la Federación presenten su Declaración Patrimonial y de Intereses, en sus modalidades de inicial, modificación y conclusión hasta en tanto la Comisión de Administración determine lo conducente, dentro de los quince días hábiles posteriores a la regularización de las actividades”.
 
 CUARTO. Se deja sin efectos toda disposición que se oponga al presente Acuerdo.
+
+D.O.F. 11 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN QUE AUTORIZA LA REINCORPORACIÓN PRESENCIAL DEL PERSONAL ADSCRITO A LAS ÁREAS DE APOYO ADMINISTRATIVO, ÁREAS DE APOYO TÉCNICO-JURÍDICO Y ÓRGANOS AUXILIARES DE LA COMISIÓN DE ADMINISTRACIÓN, A LAS ACTIVIDADES LABORALES, BAJO LOS PROTOCOLOS DE SEGURIDAD SANITARIA QUE PERMITAN SALVAGUARDAR LA SALUD DEL PERSONAL DEL TRIBUNAL ELECTORAL”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Para su mayor difusión, publíquese en los Portales de Intranet e Internet del Tribunal Electoral del Poder Judicial de la Federación.
+
+TERCERO. Se abrogan los Acuerdos Generales de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación publicados en el Diario Oficial de la Federación en fechas 2 de abril de 2020, 11 de mayo de 2020, 4 de agosto de 2020, 6 de agosto de 2020, 30 de octubre de 2020 y 9 de noviembre del 2021, y cualquier disposición que se oponga al presente acuerdo.
+
+CUARTO. Se delega en la persona titular de la Secretaría Administrativa la facultad para resolver las situaciones no previstas en el presente Acuerdo General, informando de ello a los integrantes de la Comisión de Administración por conducto del Secretariado Técnico.
