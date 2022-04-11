@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-la-comision-de-administracion-del-143737"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-08-06"
-last_updated: "2020-08-06"
+last_updated: "2022-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143737&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2020-08-03"
 ---
 # ACUERDO GENERAL DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION [RELATIVO A LA CONTINUIDAD DE LAS MEDIDAS PARA EL FUNCIONAMIENTO Y OPERACION DE LAS AREAS ADMINISTRATIVAS Y ORGANOS AUXILIARES DE LA COMISION DE ADMINISTRACION, EN EL CONTEXTO DE LA CONTINGENCIA DERIVADA DE LA ENFERMEDAD POR EL VIRUS SARS-COV2 (COVID-19)]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN QUE AUTORIZA LA REINCORPORACIÓN PRESENCIAL DEL PERSONAL ADSCRITO A LAS ÁREAS DE APOYO ADMINISTRATIVO, ÁREAS DE APOYO TÉCNICO-JURÍDICO Y ÓRGANOS AUXILIARES DE LA COMISIÓN DE ADMINISTRACIÓN, A LAS ACTIVIDADES LABORALES, BAJO LOS PROTOCOLOS DE SEGURIDAD SANITARIA QUE PERMITAN SALVAGUARDAR LA SALUD DEL PERSONAL DEL TRIBUNAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 11 DE ABRIL DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN RELATIVO A LA CONTINUIDAD DE LAS MEDIDAS PARA EL FUNCIONAMIENTO Y OPERACIÓN DE LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS AUXILIARES DE LA COMISIÓN DE ADMINISTRACIÓN, EN EL CONTEXTO DE LA CONTINGENCIA DERIVADA DE LA ENFERMEDAD POR EL VIRUS SARS-COV2 (COVID-19)
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ABRIL DE 2022 (ABROGADO).
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 6 de agosto de 2020.
 
@@ -378,3 +380,17 @@ EL SUSCRITO, LICENCIADO ARTURO CAMACHO CONTRERAS, SECRETARIO DE LA COMISIÓN DE 
 C E R T I F I C A
 
 Que el presente documento integrado en 12 fojas, corresponde al ACUERDO GENERAL DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN RELATIVO A LA CONTINUIDAD DE LAS MEDIDAS PARA EL FUNCIONAMIENTO Y OPERACIÓN DE LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS AUXILIARES DE LA COMISIÓN DE ADMINISTRACIÓN, EN EL CONTEXTO DE LA CONTINGENCIA DERIVADA DE LA ENFERMEDAD POR EL VIRUS SARS-COV2 (COVID-19), aprobado mediante acuerdo 010/SE4(30-VII-2020), emitido por la Comisión de Administración, en su Cuarta Sesión Extraordinaria celebrada el 30 de julio de 2020, documento que obra en los archivos de la Dirección General de Asuntos Jurídicos. DOY FE.- Ciudad de México, 3 de agosto de 2020.- El Secretario de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, Arturo Camacho Contreras.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 11 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN QUE AUTORIZA LA REINCORPORACIÓN PRESENCIAL DEL PERSONAL ADSCRITO A LAS ÁREAS DE APOYO ADMINISTRATIVO, ÁREAS DE APOYO TÉCNICO-JURÍDICO Y ÓRGANOS AUXILIARES DE LA COMISIÓN DE ADMINISTRACIÓN, A LAS ACTIVIDADES LABORALES, BAJO LOS PROTOCOLOS DE SEGURIDAD SANITARIA QUE PERMITAN SALVAGUARDAR LA SALUD DEL PERSONAL DEL TRIBUNAL ELECTORAL”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Para su mayor difusión, publíquese en los Portales de Intranet e Internet del Tribunal Electoral del Poder Judicial de la Federación.
+
+TERCERO. Se abrogan los Acuerdos Generales de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación publicados en el Diario Oficial de la Federación en fechas 2 de abril de 2020, 11 de mayo de 2020, 4 de agosto de 2020, 6 de agosto de 2020, 30 de octubre de 2020 y 9 de noviembre del 2021, y cualquier disposición que se oponga al presente acuerdo.
+
+CUARTO. Se delega en la persona titular de la Secretaría Administrativa la facultad para resolver las situaciones no previstas en el presente Acuerdo General, informando de ello a los integrantes de la Comisión de Administración por conducto del Secretariado Técnico.
