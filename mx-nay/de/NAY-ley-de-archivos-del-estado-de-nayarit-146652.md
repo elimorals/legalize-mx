@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-archivos-del-estado-de-nayarit-146652"
 country: "mx"
 rank: "ley"
 publication_date: "2021-01-25"
-last_updated: "2022-01-19"
+last_updated: "2022-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY DE ARCHIVOS DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE ABRIL DE 2022 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE ARCHIVOS DEL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 11 DE ABRIL DE 2022.]</small>
 
 Ley publicada en la Sección Primera al Número 17 del Periódico Oficial del Estado de Nayarit, el lunes 25 de enero de 2021.
 
@@ -1351,7 +1351,9 @@ P.O. 19 DE ENERO DE 2022.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
-SEGUNDO. En un plazo que no deberá exceder de 60 días naturales posteriores a la entrada en vigor del presente Decreto, el Poder Ejecutivo emitirá el Reglamento Interior del organismo público descentralizado denominado Archivo General del Estado de Nayarit y el Reglamento de la Ley de Archivos del Estado de Nayarit, así como, se deberán armonizar todas las disposiciones normativas relacionadas con el presente Decreto.
+> <small>(F. DE E., P.O. 11 DE ABRIL DE 2022)</small>
+
+SEGUNDO. En un plazo que no deberá exceder de 60 días naturales posteriores a la entrada en vigor del presente Decreto, deberá emitirse por la autoridad correspondiente el Reglamento Interior del organismo público descentralizado denominado Archivo General del Estado de Nayarit y el Reglamento de la Ley de Archivos del Estado de Nayarit, así como, se deberán armonizar todas las disposiciones normativas relacionadas con el presente Decreto.
 
 Una vez cumplimentado lo señalado en el párrafo anterior, el titular del Poder Ejecutivo designará al titular del Archivo General del Estado de Nayarit en apego a los requisitos de elegibilidad y al periodo del cargo que señala la presente Ley.
 
