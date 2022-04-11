@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2021-05-08"
+last_updated: "2022-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -1177,9 +1177,11 @@ Para hacer efectivas las multas deberá girarse oficio a la Secretaría de Finan
 
 La Secretaría, sin perjuicio de las sanciones que procedan conforme a esta Ley y su Reglamento, hará del conocimiento de las autoridades correspondientes, los hechos u omisiones que pudieran constituir algún delito.
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2022)</small>
+
 ###### ARTICULO 102.
 
-Contra los actos y resoluciones dictados por la Secretaría, procederán el recurso de revisión previsto en la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí.
+Contra los actos y resoluciones dictados por la Secretaría, procederá el recurso de revisión previsto en el Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 ## TRANSITORIOS
 
@@ -1348,3 +1350,11 @@ P.O. 8 DE MAYO DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones contrarias al presente Decreto.
+
+P.O. 11 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0296.- SE REFORMA EL ARTÍCULO 102, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
