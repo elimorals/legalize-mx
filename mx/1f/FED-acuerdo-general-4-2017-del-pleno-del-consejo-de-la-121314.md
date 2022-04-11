@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-4-2017-del-pleno-del-consejo-de-la-121314"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-05-11"
-last_updated: "2017-05-11"
+last_updated: "2022-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121314&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-05-03"
 
 ACUERDO GENERAL 4/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL TRÁMITE DE LAS RESOLUCIONES EMITIDAS POR LOS JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN, CON RESIDENCIA EN LA CIUDAD DE MÉXICO, RESPECTO DE LOS JUICIOS DE AMPARO PROMOVIDOS A PARTIR DEL UNO DE ENERO DE DOS MIL QUINCE EN LOS QUE SE RECLAME LA INCONSTITUCIONALIDAD DE DIVERSAS DISPOSICIONES FISCALES, RELATIVAS A LA DENOMINADA CONTABILIDAD ELECTRÓNICA Y POR EL QUE SE ABROGA EL DIVERSO 5/2015
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ABRIL DE 2022.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 11 de mayo de 2017.
 
@@ -63,13 +63,19 @@ Los Juzgados Primero y Segundo de Distrito del Centro Auxiliar de la Primera Reg
 
 Los recursos interpuestos contra las sentencias definitivas serán tramitados por los Tribunales Colegiados de Circuito en materia Mixta y los diversos especializados o semi-especializados en materia Administrativa, distribuidos en los treinta y dos circuitos en que se divide el territorio de la República Mexicana; así como, los Tribunales Colegiados de Circuito Primero y Cuarto del Centro Auxiliar de la Primera Región, con residencia en la Ciudad de México, estos últimos en su carácter de órganos jurisdiccionales ordinarios.
 
-Los recursos integrados se remitirán para su resolución al resto de los Tribunales Colegiados de Circuito del Centro Auxiliar de la Primera Región y a los demás que integran los Centros Auxiliares Regionales en la República Mexicana, para lo cual deberá informarse previamente a la Secretaría Ejecutiva de Creación de Nuevos Órganos el número de asuntos que se encuentren en posibilidad de ser enviados, a efecto de que ésta determine la Oficina de Correspondencia del Centro Auxiliar a la que deberán ser remitidos conforme a las reglas que para su distribución se determinen.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 5/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2022)</small>
 
-Los Tribunales Colegiados de Circuito Sexto, Séptimo y Octavo del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos y, Naucalpan de Juárez, Estado de México; así como los que integran los restantes Centros Auxiliares Regionales en la República Mexicana, resolverán de manera mensual 54 (cincuenta y cuatro) asuntos que corresponderán a los recursos interpuestos en contra de las sentencias definitivas dictadas en los juicios de amparo en los que se reclamen disposiciones de las señaladas en el artículo 1 del presente Acuerdo, y 54 (cincuenta y cuatro) en los términos y condiciones determinados por la Comisión de Creación de Nuevos Órganos, de conformidad con el apoyo mensual que tienen establecido.
+Los recursos integrados, ya remitidos a los Tribunales Colegiados de Circuito de los Centros Auxiliares Regionales, serán resueltos por éstos, conforme a la cantidad que determine la Comisión de Creación de Nuevos Órganos, que puede ser adicional a las remesas de apoyo mensual.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 5/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2022)</small>
+
+Los recursos que no hayan sido remitidos a algún Tribunal Colegiado de Circuito de los Centros Auxiliares Regionales serán resueltos por el Tribunal Colegiado de Circuito en materia mixta, especializado o semi especializado al que le haya sido turnado el asunto originalmente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 5/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2022)</small>
 
 ###### Artículo 3.
 
-Los recursos interpuestos contra cualquier determinación diversa a la sentencia dictada en la audiencia constitucional, emitida durante la sustanciación de los juicios de amparo y sus respectivos incidentes de suspensión de los Juzgados Primero y Segundo de Distrito del Centro Auxiliar de la Primera Región, con residencia en la Ciudad de México, materia del presente Acuerdo, serán del conocimiento de los Tribunales Colegiados de Circuito Primero y Cuarto del Centro Auxiliar de la Primera Región, con residencia en la Ciudad de México, con independencia del año y lugar en que se hubiesen promovido, quienes adicionalmente deberán en su carácter de auxiliares apoyar con el dictado de sentencias en remesas de 54 (cincuenta y cuatro) asuntos de diversas materias, conforme a las reglas que determine la Comisión de Creación de Nuevos Órganos.
+Los recursos interpuestos contra cualquier determinación diversa a la sentencia dictada en la audiencia constitucional, emitida durante la sustanciación de los juicios de amparo y sus respectivos incidentes de suspensión de los Juzgados Primero y Segundo de Distrito del Centro Auxiliar de la Primera Región, con residencia en la Ciudad de México, materia del presente Acuerdo, serán del conocimiento de los Tribunales Colegiados de Circuito Primero y Cuarto del Centro Auxiliar de la Primera Región, con residencia en la Ciudad de México, con independencia de la fecha y lugar en que se hubiesen promovido.
 
 Los recursos interpuestos, distintos a los derivados de la audiencia constitucional, que se encuentren turnados a los Tribunales Colegiados de Circuito Primero y Cuarto del Centro Auxiliar de la Primera Región, con residencia en la Ciudad de México, a la entrada en vigor del presente Acuerdo, serán resueltos por éstos, con independencia del tipo de determinación de que se trate, así como del año y lugar en que se hayan promovido.
 
@@ -126,3 +132,13 @@ QUINTO. La Comisión de Creación de Nuevos Órganos resolverá cualquier cuesti
 SEXTO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 4/2017, del Pleno del Consejo de la Judicatura Federal, relativo al trámite de las resoluciones emitidas por los Juzgados Primero y Segundo de Distrito del Centro Auxiliar de la Primera Región, con residencia en la Ciudad de México, respecto de los juicios de amparo promovidos a partir del uno de enero de dos mil quince en los que se reclame la inconstitucionalidad de diversas disposiciones fiscales, relativas a la denominada “contabilidad electrónica” y por el que se abroga el diverso 5/2015, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de cinco de abril de dos mil diecisiete, por mayoría de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Jorge Antonio Cruz Ramos, Martha María del Carmen Hernández Álvarez, Alfonso Pérez Daza y J. Guadalupe Tafoya Hernández; con el voto en contra de la señora Consejera Rosa Elena González Tirado.- Ciudad de México, a tres de mayo de dos mil diecisiete.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 11 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 5/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 4/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL TRÁMITE DE LAS RESOLUCIONES EMITIDAS POR LOS JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN, CON RESIDENCIA EN LA CIUDAD DE MÉXICO, RESPECTO DE LOS JUICIOS DE AMPARO PROMOVIDOS A PARTIR DEL UNO DE ENERO DE DOS MIL QUINCE EN LOS QUE SE RECLAME LA INCONSTITUCIONALIDAD DE DIVERSAS DISPOSICIONES FISCALES, RELATIVAS A LA DENOMINADA CONTABILIDAD ELECTRÓNICA Y POR EL QUE SE ABROGA EL DIVERSO 5/2015".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
