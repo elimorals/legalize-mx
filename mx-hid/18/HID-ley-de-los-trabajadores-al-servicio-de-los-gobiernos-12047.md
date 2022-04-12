@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2021-09-13"
+last_updated: "2022-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
@@ -429,6 +429,12 @@ g) Propiciar cualquier medio que permita a los trabajadores el arrendamiento o c
 
 h) Constitución de depósitos en favor de los trabajadores con aportaciones sobre sus sueldos básicos o salarios, para integrar un fondo de la vivienda a fin de establecer sistemas de financiamiento que permitan otorgar a éstos, crédito barato y suficiente para que adquieran en propiedad o condominios, habitaciones cómodas e higiénicas para construirlas, repararlas o mejorarlas o para el pago de pasivos adquiridos por dichos conceptos;
 
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2022)</small>
+
+VI Bis. Proporcionar a los servidores públicos de su adscripción la capacitación en materia de primeros auxilios y protección civil que otorgue la Escuela Estatal de Protección Civil. Así mismo los titulares deben verificar que la capacitación señalada esté actualizada anualmente conforme a los planes y programas de estudio fijados por dicho centro educativo.
+
+Se concederá a los servidores públicos que reciban la capacitación, los días de licencia para la realización de los cursos teóricos, prácticos o las evaluaciones presenciales respectivas, sin que puedan exceder de 3 días consecutivos, y deben obtener y presentar a sus titulares, el documento comprobatorio de acreditación de la capacitación.
+
 VII. Conceder licencias a sus trabajadores, sin menoscabo de sus derechos y antigüedad y en los términos de las Condiciones Generales de Trabajo, en los siguientes casos:
 
 a) Para el desempeño de comisiones sindicales;
@@ -503,9 +509,13 @@ VI. Asistir puntualmente a sus labores;
 
 VII. No hacer propaganda de ninguna clase dentro de los edificios o lugares de trabajo; y
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE ABRIL DE 2022)</small>
 
-VIII. Asistir a los institutos de capacitación para mejorar su preparación y eficiencia y recibir capacitación permanente, entre otros temas, y de manera esencial, sobre derechos humanos, combate a la corrupción, igualdad y equidad de género y la prevención y eliminación de la discriminación, lo que les permitirá obtener mayores habilidades y aptitudes para proporcionar a las personas una atención más eficiente, respetuosa y un buen trato.
+VIII. Asistir a los institutos de capacitación para mejorar su preparación y eficiencia y recibir capacitación permanente entre otros temas, y de manera esencial, sobre primeros auxilios y protección civil, derechos humanos, combate a la corrupción, igualdad y equidad de género y la prevención y eliminación de la discriminación, lo que les permitirá obtener mayores habilidades y aptitudes para proporcionar a las personas una atención más eficiente, respetuosa y un buen trato.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2022)</small>
+
+En caso de omisión o negativa reiterada a cumplir con las capacitaciones a que se refiere este artículo, se procederá en los términos que establezca la Ley de Responsabilidades Administrativas que corresponda.
 
 ### CAPITULO VI. SUSPENSION Y TERMINACION DE LA RELACION LABORAL
 
@@ -1436,3 +1446,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su public
 SEGUNDO. Las reformas en materia de subcontratación entrarán en vigor el primero de en (sic) enero de 2022.
 
 TERCERO. Los titulares a que hace referencia el artículo 2, dentro de un plazo que no exceda de noventa días a la entrada en vigor del presente decreto, deberán emitir o adecuar lineamientos para la modalidad de trabajo a distancia.
+
+P.O. 12 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 184 POR EL QUE SE ADICIONA LA FRACCIÓN VI BIS AL ARTÍCULO 32; SE REFORMA EL PRIMER PÁRRAFO Y, SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN VIII, DEL ARTÍCULO 38 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
