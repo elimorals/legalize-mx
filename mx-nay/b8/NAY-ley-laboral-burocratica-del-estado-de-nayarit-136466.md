@@ -4,7 +4,7 @@ identifier: "NAY-ley-laboral-burocratica-del-estado-de-nayarit-136466"
 country: "mx"
 rank: "ley"
 publication_date: "2019-05-31"
-last_updated: "2019-07-31"
+last_updated: "2022-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY LABORAL BUROCRÁTICA DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE JULIO DE 2019.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2022.
 
 Ley publicada en la Sección Tercera del Número 106 del Periódico Oficial del Estado de Nayarit, el viernes 31 de mayo de 2019.
 
@@ -962,6 +960,14 @@ Clasificación de los trabajadores. El personal de cada Ente Público será clas
 Requisitos para solicitar y contratar una base. Los trabajadores a que se refiere el artículo 4 fracción I de esta ley, que tengan más de un año de trabajo, sin notas desfavorables, podrán solicitar a la Secretaría de Administración y Finanzas o su equivalente, la constancia que los acredite como aspirantes a obtener una base del nivel inicial al que se refiere el artículo anterior.
 
 El titular del Ente Público solo podrá convocar a los aspirantes, cuando lo justifiquen las necesidades del servicio, además, que las plazas estén presupuestalmente aperturadas o cuando éstas queden vacantes.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2022)</small>
+
+Cuando un Ente Público cuente con plazas presupuestalmente aperturadas o vacantes del nivel inicial y estas no alcancen a cubrirse una vez convocados los aspirantes a que se refiere el párrafo primero del presente artículo, se podrá emitir una nueva convocatoria respecto de las plazas que aun continúen disponibles, a la que podrán inscribirse también los trabajadores a que se refieren las fracciones III, IV y V del artículo 4 de esta ley, quienes deberán cumplir los requisitos contemplados en el párrafo primero de este artículo.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2022)</small>
+
+De no cubrirse las plazas vacantes con trabajadores a que se refiere el párrafo anterior, el Ente Público podrá convocar de manera pública y abierta a cualquier persona que reúna los requisitos para ocupar las plazas vacantes.
 
 Será nula y motivo de responsabilidad para el titular del Ente público toda contratación que contravenga lo dispuesto en el presente artículo.
 
@@ -3508,3 +3514,9 @@ Dado en las instalaciones de la Universidad Tecnológica de Nayarit, en el munic
 Atentamente Mesa Directiva: Dip. Ana Yusara Ramírez Salazar, Presidenta.- Rúbrica.- Dip. Manuel Ramón Salcedo Osuna, Secretario.- Rúbrica.- Dip. Erika Leticia Jiménez Aldaco, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los treinta y un días del mes de mayo del año dos mil diecinueve.- L.C. ANTONIO ECHEVARRÍA GARCÍA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Antonio Serrano Guzmán.- Rúbrica.
+
+P.O. 12 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA LOS PÁRRAFOS TERCERO Y CUARTO, RECORRIENDO EN SU ORDEN EL ACTUAL PÁRRAFO TERCERO AL QUINTO, DEL ARTÍCULO 101 DE LA LEY LABORAL BUROCRÁTICA DEL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
