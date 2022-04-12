@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-ministerio-publico-del-estado-de-hidalgo-10353
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-10"
-last_updated: "2021-05-10"
+last_updated: "2022-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2022.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -312,6 +312,12 @@ I. Aquellas que por disposición de la Constitución Política del Estado, deban
 II. Las señaladas dentro de los artículos 10 y 13 de esta Ley; y
 
 III. Las previstas en las fracciones I, II, III, V, VI, IX, X, XI, XII, XIII, XIV, XV, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXVIII, y XXXI del artículo 14.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 15 BIS 1. La Fiscalía Especializada en Delitos de Corrupción deberá contar con una Fiscalía Especial para la Investigación de Delitos de Tortura, que será competente para investigar los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros tratos o Penas Crueles, Inhumanos o Degradantes, con las facultades y obligaciones establecidas en esa norma, en el artículo 4 y 5 de la Ley Orgánica del Ministerio Público del Estado de Hidalgo, su Reglamento y demás normatividad aplicable.
+
+El personal que integre la Fiscalía Especial para la Investigación de Delitos de Tortura, deberá cumplir con los requisitos de ingreso y permanencia que establece la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros tratos o Penas Crueles, Inhumanos o Degradantes.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE JULIO DE 2017)</small>
 
@@ -964,3 +970,11 @@ P.O. 10 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 701 QUE REFORMA EL ARTÍCULO 2 PÁRRAFO TERCERO, 14 FRACCIÓN XIV Y 37 FRACCIÓN V DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 12 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 186 QUE ADICIONA EL ARTÍCULO 15 BIS 1, A LA SECCIÓN II DEL CAPÍTULO III DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Poder Ejecutivo del Estado de Hidalgo, de conformidad con su disponibilidad presupuestal y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley General de Contabilidad Gubernamental y la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Hidalgo, proveerá administrativamente lo necesario y realizará los ajustes presupuestales procedentes, para la creación y operación de la Fiscalía Especial para la Investigación del Delito de Tortura.
