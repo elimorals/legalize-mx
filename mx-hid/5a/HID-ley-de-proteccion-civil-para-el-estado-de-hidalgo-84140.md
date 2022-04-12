@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-civil-para-el-estado-de-hidalgo-84140"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2021-09-13"
+last_updated: "2022-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2022.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -157,6 +157,10 @@ XXXV.- Hospital Seguro: Establecimiento de salud cuyo (sic) servicios permanecen
 
 XXXV BIS.- Identificación de Riesgos: Reconocer y valorar las pérdidas o daños probables sobre los agentes afectables y su distribución geográfica, a través del análisis de los peligros y la vulnerabilidad;
 
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2022)</small>
+
+XXXV TER.- Infraestructura Estratégica: Aquella que es indispensable para la provisión de bienes y servicios públicos, y cuya destrucción o inhabilitación es una amenaza en contra de la seguridad estatal y ocasionaría una afectación a la población, sus bienes o entorno. La unidad mínima de dicha Infraestructura Estratégica es la Instalación vital;
+
 XXXVI.- Mitigación: Es toda acción orientada a disminuir el impacto o daños ante la presencia de un agente perturbador sobre un agente afectable;
 
 Peligro (amenaza): Es la probabilidad de que se presente un evento de cierta intensidad que pueda ocasionar daño a un sitio dado.
@@ -171,9 +175,9 @@ XXXVII.- Prevención: Conjunto de acciones y mecanismos implementados con antela
 
 XXXVII BIS.- Previsión: Tomar conciencia de los riesgos que pueden causarse y las necesidades para enfrentarlos a través de las etapas de identificación de riesgos, prevención, mitigación, preparación, atención de emergencias, recuperación y reconstrucción;
 
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2022)</small>
 
-XXXVII TER.- Protección Civil: El conjunto de acciones, principios, normas, políticas y procedimientos de identificación, previsión, prevención, preparación, auxilio, recuperación y reconstrucción, tendientes a proteger la integridad física, la salud y el patrimonio de las personas, así como la planta productiva, la prestación de servicios públicos y el medio ambiente. Lo anterior, ante la ocurrencia ante los riesgos, alto riesgo, emergencias o desastres; que sean originados por fenómenos antropogénicos o naturales, los cuales serán atendidos por las autoridades, organismos, dependencias e instituciones de carácter público, social o privado, grupos voluntarios y en general, por todas las personas que por cualquier motivo residan, habiten, o transiten en la Entidad;
+XXXVII TER.- Protección Civil: Es la acción solidaria y participativa, que en consideración tanto de los riesgos de origen natural o antrópico como de los efectos adversos de los agentes perturbadores, prevé la coordinación y concertación de los sectores público, privado y social en el marco del Sistema Nacional y Estatal, con el fin de crear un conjunto de disposiciones, planes, programas, estrategias, mecanismos y recursos para que de manera corresponsable, y privilegiando la Gestión Integral de Riesgos y la Continuidad de Operaciones, se apliquen las medidas y acciones que sean necesarias para salvaguardar la vida, integridad y salud de la población, así como sus bienes; la infraestructura, la planta productiva y el medio ambiente;
 
 XXXVIII.- Reconstrucción: La acción transitoria orientada a alcanzar el entorno de normalidad social y económica que prevalecía entre la población antes de sufrir los efectos producidos por un agente perturbador en un determinado espacio o jurisdicción, este proceso debe buscar en la medida de lo posible, la reducción de riesgos existentes, asegurando la no generación de nuevos riesgos y mejorando para ellos las condiciones preexistentes;
 
@@ -203,6 +207,54 @@ XLVII.- Vulnerabilidad: Susceptibilidad o propensión de un agente afectable a s
 
 La aplicación de la presente Ley, compete al Poder Ejecutivo del Estado, a través de la Secretaría de Gobierno y la Sub Secretaría, al Sistema Estatal de Protección Civil y a los Sistemas Municipales de Protección Civil.
 
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2022)</small>
+
+###### Artículo 3 Bis.
+
+Las políticas públicas en materia de protección civil, se ceñirán al Plan Nacional y Estatal de Desarrollo y al Sistema Estatal de Protección Civil, identificando para ello las siguientes prioridades:
+
+I. La identificación y análisis de riesgos como sustento para la implementación de medidas de prevención y mitigación;
+
+II. Promoción, desde la niñez, de una cultura de responsabilidad social dirigida a la protección civil con énfasis en la prevención y autoprotección respecto de los riesgos y peligros que representan los agentes perturbadores y su vulnerabilidad;
+
+III. Obligación del Estado en sus distintos órdenes de gobierno, para reducir los riesgos sobre los agentes afectables y llevar a cabo las acciones necesarias para la identificación y el reconocimiento de la vulnerabilidad de las zonas bajo su jurisdicción;
+
+IV. El fomento de la participación social para crear comunidades resilientes, y por ello capaces de resistir los efectos negativos de los desastres, mediante una acción solidaria, y recuperar en el menor tiempo posible sus actividades productivas, económicas y sociales;
+
+V. Incorporación de la gestión integral del riesgo, como aspecto fundamental en la planeación y programación del desarrollo y ordenamiento del estado para revertir el proceso de generación de riesgos;
+
+VI. El establecimiento de un sistema de certificación de competencias, que garantice un perfil adecuado en el personal responsable de la protección civil a nivel estatal y municipal.
+
+VII. El conocimiento y la adaptación al cambio climático, y en general a las consecuencias y afectos del calentamiento global provocados por el ser humano y la aplicación de las tecnologías,
+
+VIII. La atención prioritaria para la población vulnerable.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2022)</small>
+
+###### Artículo 3 Ter.
+
+La Gestión Integral de Riesgos considera, entre otras, las siguientes fases anticipadas a la ocurrencia de un agente perturbador:
+
+I. Conocimiento del origen y naturaleza de los riesgos, además de los procesos de construcción social de los mismos;
+
+II. Identificación de peligros, vulnerabilidades y riesgos, así como sus escenarios;
+
+III. Análisis y evaluación de los posibles efectos;
+
+IV. Revisión de controles para la mitigación del impacto;
+
+V. Acciones y mecanismos para la prevención y mitigación de riesgos;
+
+VI. Desarrollo de una mayor comprensión y concientización de los riesgos, y
+
+VII. Fortalecimiento de la resiliencia de la sociedad.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2022)</small>
+
+###### Artículo 3 Quater.
+
+El emblema distintivo de la protección civil en el estado deberá contener el adoptado en el ámbito nacional e internacional, conforme a la imagen institucional que se defina en el Reglamento de la Ley general de Protección Civil y solamente será utilizado por el personal y las instituciones autorizadas en los términos del propio Reglamento.
+
 ## TÍTULO SEGUNDO. Del Sistema Estatal de Protección Civil
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2020)</small>
@@ -213,7 +265,9 @@ El Sistema Estatal de Protección Civil, es el conjunto orgánico y articulado d
 
 I.- El Consejo Estatal de Protección Civil;
 
-II.- La Unidad Estatal de Protección Civil;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2022)</small>
+
+II.- La Coordinación Estatal de Protección Civil;
 
 III.- Comité Estatal de Emergencias;
 
@@ -221,7 +275,9 @@ IV.- Los Consejos Municipales de Protección Civil;
 
 V.- Los Sistemas Municipales de Protección Civil;
 
-VI.- Las Unidades Municipales de Protección Civil;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2022)</small>
+
+VI.- Las Coordinaciones Municipales de Protección Civil;
 
 VII.- Los Comités Municipales de Emergencias;
 
@@ -235,9 +291,9 @@ IX.- Grupos de Brigadistas;
 
 X.- Grupos Voluntarios; y
 
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2022)</small>
 
-XI.- Las asociaciones y agrupaciones de voluntarios y brigadistas comunitarios debidamente registrados ante la Unidad Estatal de Protección Civil.
+XI.- Las asociaciones y agrupaciones de voluntarios y brigadistas comunitarios debidamente registrados ante la Coordinación Estatal de Protección Civil.
 
 ###### Artículo 5.
 
@@ -351,7 +407,9 @@ XI.- Realizar auditorías operacionales, para supervisar la aplicación adecuada
 
 XII.- Crear un fondo de reserva para la elaboración de los atlas Estatal y Municipales, para la prevención y atención de desastres, de acuerdo a la disponibilidad presupuestaria, se asignará recursos para esta partida en el presupuesto de egresos del año correspondiente. Los ayuntamientos podrán acceder a los recursos del fondo de manera equitativa, pudiendo obtener hasta un cincuenta por ciento del costo del atlas de riesgo. Se dará preferencia a aquellos que no cuenten con dicho instrumento.
 
-XIII.- Vigilar que las autoridades y personal de la Administración Pública Estatal, Municipal, Organismos dependientes del Gobierno y Organismos sociales, colaboren en forma oportuna, proporcionando información real y fidedigna a la unidad Estatal de Protección Civil, para el cumplimiento de sus funciones;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2022)</small>
+
+XIII.- Vigilar que las autoridades y personal de la Administración Pública Estatal, Municipal, Organismos dependientes del Gobierno y Organismos sociales, colaboren en forma oportuna, proporcionando información real y fidedigna a la Coordinación Estatal de Protección Civil, para el cumplimiento de sus funciones;
 
 XIV.- Vigilar que los organismos públicos, privados y sociales, cumplan con los compromisos y obligaciones asumidas, con el Sistema Estatal de protección civil;
 
@@ -373,6 +431,14 @@ XX.- Fomentar, crear y determinar los lineamientos de operación, coordinación 
 
 XX BIS.- Vincular al Sistema Estatal con el Sistema Nacional de Protección Civil en los términos establecidos en la Ley General vigente; y
 
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2022)</small>
+
+XX TER.- Promover entre los Ayuntamientos y autoridades Municipales la creación y construcción de infraestructura y la distribución de equipamiento de protección civil, tendientes a fortalecer las herramientas de gestión del riesgo;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2022)</small>
+
+XX QUÁTER.- Promover que los Ayuntamientos y autoridades Municipales, elaboren y mantengan actualizados sus respectivos programas de protección civil y formen parte de sus planes de desarrollo.
+
 XXI.- Las demás que le señalen otras disposiciones legales.
 
 > <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
@@ -393,15 +459,43 @@ IV. Implementar el plan de acción, que incluya protocolos de actuación, reserv
 
 El consejo se reunirá en sesiones ordinarias, por lo menos dos veces al año y celebrará sesiones extraordinarias, las veces que sean necesarias, previa convocatoria del secretario técnico, en los plazos y términos que el consejo establezca.
 
-## TÍTULO CUARTO. DE LA UNIDAD ESTATAL DE PROTECCIÓN CIVIL
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2022)</small>
+
+###### Artículo 13 Bis.
+
+Los integrantes del Sistema Estatal de Protección Civil, deberán actuar con base en los siguientes principios:
+
+I. Prioridad en la protección a la vida, la salud y la integridad de las personas;
+
+II. Inmediatez, equidad, profesionalismo, eficacia y eficiencia en la prestación del auxilio y entrega de recursos a la población en caso de emergencia o desastre;
+
+III. Subsidiariedad, complementariedad, transversalidad y proporcionalidad en las funciones asignadas a las diversas instancias del gobierno;
+
+IV. Publicidad y participación social en todas las fases de la protección civil, pero particularmente en la de prevención;
+
+V. Establecimiento y desarrollo de una cultura de la protección civil, con énfasis en la prevención en la población en general;
+
+VI. Legalidad, control, eficacia, racionalidad, equidad, transparencia y rendición de cuentas en la administración de los recursos públicos;
+
+VII. Corresponsabilidad entre sociedad y gobierno, y
+
+VIII. Honradez y de respeto a los derechos humanos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE ABRIL DE 2022)</small>
+
+## TÍTULO CUARTO. DE LA COORDINACIÓN ESTATAL DE PROTECCIÓN CIVIL
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2022)</small>
 
 ###### Artículo 14.
 
-La Unidad Estatal de Protección Civil, es la Sub-secretaría de Protección Civil y Gestión de Riesgos, que se encarga de la elaboración, ejecución y seguimiento de los programas de prevención y atención de riesgos, en coordinación con dependencias, instituciones y organismos de los sectores público, privado y social, además de la red Estatal de brigadistas y grupos voluntarios.
+La Coordinación Estatal de Protección Civil, es la Subsecretaría de Protección Civil y Gestión de Riesgos, que se encarga de la elaboración, ejecución y seguimiento de los programas de prevención y atención de riesgos, en coordinación con dependencias, instituciones y organismos de los sectores público, privado y social, además de la red Estatal de brigadistas y grupos voluntarios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2022)</small>
 
 ###### Artículo 15.
 
-La Unidad Estatal de Protección Civil, contará con instalaciones, materiales, equipo, recursos humanos y financieros, suficientes para su eficaz funcionamiento y desarrollo, de acuerdo con el presupuesto autorizado y se integra de la siguiente manera:
+La Coordinación Estatal de Protección Civil, contará con instalaciones, materiales, equipo, recursos humanos y financieros, suficientes para su eficaz funcionamiento y desarrollo, de acuerdo con el presupuesto autorizado y se integra de la siguiente manera:
 
 I.- Una sub-Secretaría.
 
@@ -423,9 +517,11 @@ IX.- Dirección de Administración, recursos Financieros y Humanos.
 
 X.- Subdirección de Administración, recursos Financieros y Humanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2022)</small>
+
 ###### Artículo 16.
 
-La Unidad Estatal de Protección Civil tendrá las siguientes atribuciones:
+La Coordinación Estatal de Protección Civil tendrá las siguientes atribuciones:
 
 I.- Elaborar, promover y difundir programas preventivos en materia de protección civil, en sus aspectos normativos, operativo, de coordinación y de participación, hacia toda la población de la entidad;
 
@@ -443,7 +539,9 @@ VII.- Participar con voz y voto en las reuniones del Consejo Estatal;
 
 VIII.- Establecer el sistema de seguimiento y auto-evaluación, del Sistema Estatal de Protección Civil e informar al consejo sobre su avance;
 
-IX.- Coordinarse con el Sistema Nacional de Protección Civil, con las unidades Municipales de protección civil, con las dependencias, instituciones y organismos del sector público, privado y social;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2022)</small>
+
+IX.- Coordinarse con el Sistema Nacional de Protección Civil, con las coordinaciones municipales de protección civil, con las dependencias, instituciones y organismos del sector público, privado y social.
 
 X.- Presentar ante el Consejo Estatal, la propuesta del programa Estatal de Protección Civil;
 
@@ -499,35 +597,65 @@ II. Contar preferentemente con Título Profesional en la Licenciatura en Protecc
 
 III. En caso de no contar con licenciatura, contar con experiencia mínima comprobable de tres años en el área de Protección Civil, con cursos sobre protección civil, gestión integral de riesgos, prevención y atención de desastres o cualquier otro relacionado a protección civil.
 
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2022)</small>
 
 ###### Artículo 16 Ter.
 
-Corresponden al Subsecretario de Protección Civil y Gestión de Riesgos, las siguientes atribuciones:
+Corresponden al Titular de la Subsecretaria de Protección Civil y Gestión de Riesgos, las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
 I. Proponer al Ejecutivo del Estado, políticas y estrategias para el desarrollo de programas internos, especiales y regionales de protección civil;
 
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
 II. Promover la creación de las instancias, mecanismos, instrumentos y procedimientos de carácter técnico operativo, de servicios y logística que permitan prevenir y atender la eventualidad de un riesgo o peligro que representan los agentes perturbadores y la vulnerabilidad;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
 III. Coordinar los trabajos de Investigación, estudios y evaluación riesgos, peligros y vulnerabilidades, integrando y ampliando los conocimientos de tales acontecimientos en coordinación con las dependencias responsables;
 
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+
 IV. Proponer al Ejecutivo del Estado, de acuerdo a lo establecido del artículo 72 al 75 de la Ley de Protección Civil, las bases y lineamientos para la creación y administración del Fondo de Protección Civil para la prevención y atención de emergencias y desastres de origen natural, así como las donaciones recibidas de particulares e instituciones;
 
-V. Coordinar y asesorar a las Unidades de Protección Civil Municipales, así como a las dependencias, instituciones y grupos sociales;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2022)</small>
 
-VI. Coordinar, supervisar y evaluar todas las acciones que se realicen en el ejercicio de las funciones de la Unidad Estatal;
+V. Coordinar y asesorar a las Coordinaciones de Protección Civil Municipales, así como a las dependencias, instituciones y grupos sociales;
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2022)</small>
+
+VI. Coordinar, supervisar y evaluar todas las acciones que se realicen en el ejercicio de las funciones de la Coordinación Estatal;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
 VII. Apoyar y asesorar al Ministerio Público en materia de protección civil y querellarse ante éste cuando proceda, así como fungir como perito en la materia ante autoridades competentes;
 
-VIII. Coordinar las acciones de la Unidad Estatal, de las dependencias, organismos y Unidades Municipales en caso de que ocurran siniestros o desastres en el territorio del Estado y ordenar las medidas preventivas y de emergencia que se deban tomar por autoridades y civiles para proteger la vida y los bienes de las personas ante las calamidades;
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2022)</small>
 
-IX. Convocar y presidir reuniones de coordinación con las unidades municipales de protección civil en la Entidad;
+VII Bis. Supervisar en la elaboración y actualización de los Atlas Municipales de Riesgos;
 
-X. Ordenar visitas domiciliarias, así como autorizar al personal adscrito a la Unidad Estatal, a realizar las mismas, cuando así le sea requerido, o cuando considere que exista un riesgo. Así mismo, calificará y sancionará las faltas e infracciones a la Ley, en términos de lo que establece su Reglamento, y a las disposiciones;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2022)</small>
+
+VIII. Coordinar las acciones de la Coordinación Estatal, de las dependencias, organismos y Coordinaciones Municipales en caso de que ocurran siniestros o desastres en el territorio del Estado y ordenar las medidas preventivas y de emergencia que se deban tomar por autoridades y civiles para proteger la vida y los bienes de las personas ante las adversidades;
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2022)</small>
+
+IX. Convocar y presidir reuniones de coordinación con las coordinaciones municipales de protección civil en la entidad;
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2022)</small>
+
+X. Ordenar visitas domiciliarias, así como autorizar al personal adscrito a la Coordinación Estatal, a realizar las mismas, cuando así le sea requerido, o cuando considere que exista un riesgo. Así mismo, calificará y sancionará las faltas e infracciones a la Ley, en términos de lo que establece su Reglamento, y a las demás disposiciones;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
 XI. Proponer al Consejo Estatal de Protección Civil, los canales adecuados para informar a la población de manera oportuna, cuando se detecte que pueda ocurrir algún tipo de desastre que les afecte de manera directa o indirecta, así como las medidas de prevención, evacuación y, los refugios temporales que se habiliten para su seguridad;
 
-XII. Implementar anualmente, de manera coordinada con el Centro Nacional de Prevención de Desastres (CENAPRED) y la Escuela Nacional de Protección Civil (ENAPROC) cursos dirigidos a los titulares de las Unidades Municipales de Protección Civil sobre protección civil, gestión de riesgos, prevención y atención de desastres; y
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2022)</small>
+
+XII. Implementar anualmente, de manera coordinada con el Centro Nacional de Prevención de Desastres (CENAPRED) y la Escuela Nacional de Protección Civil (ENAPROC) cursos dirigidos a los titulares de las Coordinaciones Municipales de Protección Civil sobre protección civil, gestión de riesgos, prevención y atención de desastres; y
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
 XIII. Todas las demás que le confieran esta Ley, el Reglamento, y demás dispositivos jurídicos aplicables.
 
@@ -567,7 +695,9 @@ III.- Un Secretario Técnico, que será el Subsecretario de Protección Civil y 
 
 IV.- Los H. Cuerpos de Bomberos; y
 
-V.- Los titulares y representantes de las Dependencias Federales, Estatales y Municipales, red Estatal de brigadista, grupos voluntarios y organismos especializados en la atención de emergencias, previamente registrados por la Unidad Estatal de Protección Civil.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2022)</small>
+
+V.- Los titulares y representantes de las Dependencias Federales, Estatales y Municipales, red Estatal de brigadista, grupos voluntarios y organismos especializados en la atención de emergencias, previamente registrados por la Coordinación Estatal de Protección Civil.
 
 El Comité Estatal de Emergencias, contará para su eficaz funcionamiento, con instalaciones, equipo y materiales necesarios proporcionados por el Consejo Estatal.
 
@@ -593,7 +723,9 @@ El Sistema Municipal de Protección Civil estará integrado por:
 
 I.- El Consejo Municipal;
 
-II.- La Unidad Municipal de Protección Civil;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2022)</small>
+
+II.- La Coordinación Municipal de Protección Civil;
 
 III.- El Comité Municipal de Emergencias;
 
@@ -605,11 +737,11 @@ VI.- Los grupos voluntarios; y
 
 VII.- Los sectores público, privado y social.
 
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2022)</small>
 
 ###### Artículo 22 Bis.
 
-Para ocupar la Titularidad de la Unidad Municipal de Protección Civil, el aspirante deberá reunir los requisitos establecidos en el artículo 128 de la Ley Orgánica Municipal; asimismo tendrá las facultades y obligaciones que dispone el artículo 129 del mismo ordenamiento jurídico.
+Para ocupar la Titularidad de la Coordinación Municipal de Protección Civil, el aspirante deberá reunir los requisitos establecidos en el artículo 128 de la Ley Orgánica Municipal; asimismo tendrá las facultades y obligaciones que dispone el artículo 129 del mismo ordenamiento jurídico.
 
 ###### Artículo 23.
 
@@ -629,7 +761,9 @@ I.- Un Presidente, que será el Presidente Municipal;
 
 II.- Un Secretario Ejecutivo, que será el Secretario Municipal;
 
-III.- Un Secretario Técnico, que será el titular de la Unidad Municipal de Protección Civil;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2022)</small>
+
+III.- Un Secretario Técnico, que será el titular de la Coordinación Municipal de Protección Civil;
 
 IV.- El H. Cuerpo de Bomberos Municipal;
 
@@ -657,11 +791,23 @@ II.- Atender en forma inmediata las situaciones de emergencia que se presenten y
 
 III.- Concertar acciones con el H. Cuerpo de bomberos Municipal, red Municipal de brigadistas comunitarios, grupos voluntarios y con los sectores público, social y privado, en materia de protección civil y gestión de riesgos, conforme a lo que se establece en ésta Ley;
 
-IV.- Establecer acciones y comunicación con la unidad Estatal de protección civil, en caso de incumplimiento a los Reglamentos, Bandos y disposiciones Municipales, en materia de protección civil para los efectos legales conducentes;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2022)</small>
 
-V.- Regular y supervisar los eventos públicos con grandes concentraciones de personas, a fin de informar oportunamente a la unidad Estatal de protección civil, para prevenir y proteger a las personas en caso de ocurrir un desastre y;
+IV.- Establecer acciones y comunicación con la Coordinación Estatal de Protección Civil, en caso de incumplimiento a los Reglamentos, Bandos y disposiciones Municipales, en materia de protección civil para los efectos legales conducentes;
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2022)</small>
+
+V.- Regular y supervisar los eventos públicos con grandes concentraciones de personas, a fin de informar oportunamente a la Coordinación Estatal de Protección Civil, para prevenir y proteger a las personas en caso de ocurrir un desastre y;
 
 VI.- El Consejo Municipal se reunirá en sesiones ordinarias por lo menos dos veces al año, y celebraran sesiones extraordinarias las veces que sean necesarias.
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2022)</small>
+
+VII.- Ejercer las acciones que eviten los asentamientos humanos en zonas dictaminadas como de alto riesgo; y
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2022)</small>
+
+VIII.- Solicitar al Ejecutivo Estatal, en los términos que establece la presente Ley, la emisión de la Declaratoria de Emergencia.
 
 ###### Artículo 29.
 
@@ -679,17 +825,25 @@ Los Consejos Municipales de Protección Civil, tendrán la obligación de aplica
 
 Los Consejos Municipales de Protección Civil, en coordinación con la Subsecretaria y la Escuela Estatal en la materia, organizarán campañas educativas y culturales para prevenir y atender situaciones de emergencia, utilizando los medios más eficaces como la profesionalización, capacitaciones, conferencias en escuelas y en lugares públicos, así como la proyección de películas, exposición de carteles, publicación de folletos y cualquier otro medio de comunicación para promover y divulgar la información conveniente y necesaria.
 
-### Capítulo III. De la Unidad Municipal de Protección Civil
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE ABRIL DE 2022)</small>
+
+### Capítulo III. De la Coordinación Municipal de Protección Civil
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2022)</small>
 
 ###### Artículo 33.
 
-La Unidad Municipal de Protección Civil, es un órgano dependiente de la Administración Pública Municipal, que tiene a su cargo la atención de emergencias como primera respuesta; así como la elaboración, ejecución y seguimiento de los programas en ésta materia, coordinando sus acciones con el H. Cuerpo de Bomberos, red de brigadistas Municipales, grupos voluntarios y los sectores público, social y privado.
+La Coordinación Municipal de Protección Civil, es un órgano dependiente de la Administración Pública Municipal, que tiene a su cargo la atención de emergencias como primera respuesta; así como la elaboración, ejecución y seguimiento de los programas en esta materia, coordinando sus acciones con el H. Cuerpo de Bomberos, red de brigadistas Municipales, grupos voluntarios y los sectores público, social y privado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2022)</small>
 
 ###### Artículo 34.
 
-La Unidad Municipal de Protección Civil. Estará integrada por:
+La Coordinación Municipal de Protección Civil estará integrada por:
 
-I.- El titular de la unidad, que tendrá a su cargo funciones que no podrán ser compatibles con ninguna otra de la Administración Pública Municipal;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2022)</small>
+
+I.- El titular de la coordinación, que tendrá a su cargo funciones que no podrán ser compatibles con ninguna otra de la Administración Pública Municipal;
 
 II.- Un coordinador de planeación;
 
@@ -697,9 +851,11 @@ III.- Un coordinador de operación; y
 
 IV.- El personal que se le asigne para su correcto funcionamiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2022)</small>
+
 ###### Artículo 35.
 
-La Unidad Municipal de Protección Civil, tendrá las siguientes atribuciones:
+La Coordinación Municipal de Protección Civil, tendrá las siguientes atribuciones:
 
 I.- Identificar los riesgos, la vulnerabilidad y el grado de resiliencia propios de cada municipio así como ser el primer nivel de respuesta para la atención de todo tipo de emergencias que se susciten dentro del Municipio;
 
@@ -717,7 +873,9 @@ IV.- Establecer el sistema de información, que contenga los inventarios, direct
 
 V.- Participar con el Comité Municipal de Emergencias;
 
-VI.- Establecer los mecanismos de comunicación constante, en situaciones normales para la prevención y atención de emergencias con la unidad Estatal de protección civil;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2022)</small>
+
+VI.- Establecer los mecanismos de comunicación constante, en situaciones normales para la prevención y atención de emergencias con la Coordinación estatal de protección civil;
 
 VII.- Coordinar las acciones con el H. Cuerpo de Bomberos Municipal;
 
@@ -743,11 +901,15 @@ I.- Un Presidente, que será el Presidente Municipal;
 
 II.- Un Secretario Ejecutivo, que será el Secretario Municipal;
 
-III.- Un Secretario Técnico, que será el titular de la Unidad Municipal de Protección Civil;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2022)</small>
+
+III.- Un Secretario Técnico, que será el titular de la Coordinación Municipal de Protección Civil;
 
 IV.- H. Cuerpo de Bomberos Municipal; y
 
-V.- Los titulares y representantes de las Dependencias Federales, Estatales y Municipales, red Estatal y Municipal de brigadistas, grupos voluntarios y organismos especializados en la atención de emergencias, previamente registrados por la unidad Estatal de protección civil.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2022)</small>
+
+V.- Los titulares y representantes de las Dependencias Federales, Estatales y Municipales, red Estatal y Municipal de brigadistas, grupos voluntarios y organismos especializados en la atención de emergencias, previamente registrados por la Coordinación Estatal de protección civil.
 
 El Comité Municipal de Emergencias, contará para su funcionamiento con: instalaciones, equipo y materiales necesarios y suficientes proporcionados por el Consejo Municipal.
 
@@ -803,9 +965,11 @@ La Red Estatal de Brigadistas, es una estructura organizada y formada por volunt
 
 Los brigadistas, son las personas capacitadas en materias afines a la protección civil, que han sido registradas en la red Estatal de brigadistas, bajo la coordinación y supervisión de la subsecretaria, para apoyar a ésta en tareas y actividades propias de la materia.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2022)</small>
+
 ###### Artículo 44.
 
-La sub secretaría coordinará el funcionamiento de la red estatal de brigadistas. Para tal efecto, las unidades Estatal y Municipal de protección civil, deberán promover en el marco de sus competencias, la capacitación, organización y preparación de las personas que deseen constituirse en brigadistas Estatales y Municipales y realizar los trámites de registro en la red Estatal de brigadistas.
+La Subsecretaría coordinará el funcionamiento de la red estatal de brigadistas. Para tal efecto, las Coordinaciones Estatal y Municipal de protección civil, deberán promover en el marco de sus competencias, la capacitación, organización y preparación de las personas que deseen constituirse en brigadistas Estatales y Municipales y realizar los trámites de registro en la red Estatal de brigadistas.
 
 ## TÍTULO NOVENO. De los Grupos Voluntarios
 
@@ -829,7 +993,9 @@ III.- Coordinarse con las autoridades de protección civil que correspondan.
 
 Las personas que deseen desempeñar labores de protección civil, deberán integrarse o constituirse preferentemente en la red de brigadistas o en grupos voluntarios.
 
-Aquellos que no deseen integrarse a la red de brigadistas o un grupo voluntario, podrán registrarse individualmente en las unidades de protección civil correspondientes, precisando su actividad, oficio o profesión, así como su especialidad aplicable a tareas de protección civil.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2022)</small>
+
+Aquellos que no deseen integrarse a la red de brigadistas o un grupo voluntario, podrán registrarse individualmente en las coordinaciones de protección civil correspondientes, precisando su actividad, oficio o profesión, así como su especialidad aplicable a tareas de protección civil.
 
 ## TÍTULO DÉCIMO. De la Cultura de Protección Civil
 
@@ -895,9 +1061,11 @@ Cuando los hechos que motiven una denuncia, hubieren ocasionado daños y perjuic
 
 ## TÍTULO DÉCIMO SEGUNDO. De la Profesionalización de la Protección Civil
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2022)</small>
+
 ###### Artículo 57.
 
-La profesionalización de los integrantes de las Unidades Estatal y Municipales de Protección Civil será permanente y tendrá por objeto lograr una mejor y más eficaz prestación del servicio, así como el desarrollo integral de sus elementos mediante la institucionalización de un servicio civil de carrera.
+La profesionalización de los integrantes de las Coordinaciones Estatal y Municipales de Protección Civil será permanente y tendrá por objeto lograr una mejor y más eficaz prestación del servicio, así como el desarrollo integral de sus elementos mediante la institucionalización de un servicio civil de carrera.
 
 ###### Artículo 58.
 
@@ -905,9 +1073,11 @@ Para los efectos del Artículo anterior, el Estado y cada Municipio, se sujetar�
 
 En caso de que no exista dicha normatividad, se promoverá ante las instancias competentes, por conducto de la subsecretaria, que se cree un sistema civil de carrera para los servidores públicos responsables de la protección civil.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2022)</small>
+
 ###### Artículo 59.
 
-La normatividad correspondiente precisará y detallará todos los rubros que atañen al escalafón de mando y jerarquía de las unidades Estatal y Municipal de Protección Civil.
+La normatividad correspondiente precisará y detallará todos los rubros que atañen al escalafón de mando y jerarquía de las coordinaciones Estatal y Municipal de Protección Civil.
 
 ## TÍTULO DÉCIMO TERCERO
 
@@ -979,13 +1149,17 @@ Los fenómenos antropogénicos, son en esencia provocados por la actividad human
 
 Dichos fenómenos encuentran responsabilidad en su atención, regulación y supervisión en el marco de las competencias establecidas por las Leyes Federales, Estatales y Municipales a través de las instancias según correspondan.
 
-Las Unidades de Protección Civil Estatal y Municipal, promoverán con las diversas instancias del sistema nacional, para que desarrollen programas especiales destinados a reducir o mitigar los riesgos antropogénicos, así como de atención a la población en caso de contingencias derivadas de tales fenómenos.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2022)</small>
+
+Las Coordinaciones de Protección Civil Estatal y Municipal, promoverán con las diversas instancias del sistema nacional, para que desarrollen programas especiales destinados a reducir o mitigar los riesgos antropogénicos, así como de atención a la población en caso de contingencias derivadas de tales fenómenos.
 
 ## TÍTULO DÉCIMO QUINTO. Del Fondo de Protección Civil
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2022)</small>
+
 ###### Artículo 72.
 
-La Sub Secretaría, en coordinación con las unidades de protección civiles estatal y municipal, gestionara para formar el fondo de protección civil, cuya finalidad será el promover la inversión en capacitación, equipamiento y sistematización de las propias unidades.
+La Subsecretaría, en coordinación con las coordinaciones de protección civiles estatal y municipal, gestionará para formar el fondo de protección civil, cuya finalidad será el promover la inversión en capacitación, equipamiento y sistematización de las propias coordinaciones.
 
 ###### Artículo 73.
 
@@ -1017,9 +1191,11 @@ En caso de riesgo inminente, sin perjuicio de la omisión de una declaratoria de
 
 Las fuerzas armadas participarán en la atención de situaciones extraordinarias que requieran acciones inmediatas de protección civil dentro de cualquiera de los niveles de la estructura institucional, realizando las tareas que les competen aun cuando no se haya declarado un estado de emergencia o desastre.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2022)</small>
+
 ###### Artículo 77.
 
-Las Unidades Estatal y Municipales de Protección Civil, deberán aplicar las siguientes medidas de seguridad:
+Las Coordinaciones Estatal y Municipales de Protección Civil, deberán aplicar las siguientes medidas de seguridad:
 
 I.- Identificación y delimitación de lugares o zonas de riesgo;
 
@@ -1042,6 +1218,10 @@ VII.- El aislamiento temporal parcial o total del área afectada, precisando la 
 > <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
 VIII.- La suspensión de trabajos, actividades y servicios, precisando su temporalidad y en su caso, las acciones para el reinicio; y
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2022)</small>
+
+VIII Bis.- La suspensión parcial o total de actividades que provoquen Riesgo Inminente de conformidad con esta Ley; y
 
 IX.- Las demás que en materia de protección civil determinen las disposiciones reglamentarias y la legislación aplicable, tendientes a evitar que se generen o sigan causándose daños.
 
@@ -1084,6 +1264,28 @@ Las inspecciones y supervisiones de protección civil tienen el carácter de vis
 ###### Artículo 84.
 
 Las infracciones, sanciones y recursos en materia de protección civil serán resueltos de acuerdo a lo dispuesto en el Reglamento de esta Ley.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2022)</small>
+
+## TÍTULO DECIMO NOVENO. De Los Particulares
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2022)</small>
+
+###### Artículo 85.
+
+Los particulares que por su uso y destino concentren o reciban una afluencia masiva de personas, están obligadas a contar con una unidad interna de protección civil y elaborar un programa interno, en los términos que establezca esta Ley y su reglamento interno.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2022)</small>
+
+###### Artículo 86.
+
+Los responsables de la administración y operación de las actividades señaladas en el artículo anterior deberán integrar las unidades internas con su respectivo personal, de acuerdo con los requisitos que señale el reglamento interno de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2022)</small>
+
+###### Artículo 87.
+
+Toda persona física o moral deberá informar a las autoridades competentes, haciéndolo de forma directa de cualquier alto riesgo, siniestro o desastre que se presente o pudiera presentarse.
 
 ## TRANSITORIOS
 
@@ -1168,3 +1370,9 @@ PRIMERO.- El presente decreto entra en vigor a partir del día siguiente de su p
 SEGUNDO.- Se establece un plazo de noventa días hábiles para que el Ejecutivo estatal expida los Lineamientos de Señalización de Protección Civil en Sistema de escritura Braille.
 
 TERCERO.- La señalización mandatada en el presente Decreto deberá colocarse a más tarda (sic) en un plazo no mayor a 180 días hábiles, contados a partir de la publicación (sic) los Lineamientos de Señalización de Protección Civil en Sistema de escritura Braille.
+
+P.O. 12 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 182 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
