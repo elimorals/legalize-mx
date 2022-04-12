@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2022-03-28"
+last_updated: "2022-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -375,9 +375,9 @@ XVII.- Fomentar la realización de estudios e investigaciones sociales de la pro
 
 XVIII.- Llevar a cabo programas compensatorios orientados a beneficiar a las personas adultas mayores en situación de rezago y poner a su alcance los servicios sociales y asistenciales, así como la información sobre los mismos;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2022)</small>
 
-XIX.- Promover acciones con el fin de incentivar a la iniciativa privada e instrumentar a los sectores público y social para que integren a su ámbito laboral a las personas adultas mayores;
+XIX.- Promover acciones con el fin de incentivar a la iniciativa privada e instrumentar a los sectores público y social para que integren a su ámbito laboral a las personas adultas mayores. Para ello, se implementará la máxima difusión y actualización de una bolsa de trabajo;
 
 > <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
 
@@ -976,5 +976,11 @@ CUARTO.- Las referencias que contengan otros marcos normativos relativas a la Le
 P.O. 28 DE MARZO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 176 QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 35 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO Y, REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 17 Y ADICIONA UNA SEGUNDA FRACCIÓN AL ARTÍCULO 29 DE LA LEY DE ALBERGUES PRIVADOS PARA PERSONAS ADULTAS MAYORES”.]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 12 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 185 POR EL QUE SE REFORMA EL ARTÍCULO 15, FFRACCIÓN XIX, DE LA LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
