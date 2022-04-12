@@ -4,7 +4,7 @@ identifier: "LGCS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2018-05-11"
-last_updated: "2018-05-11"
+last_updated: "2022-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128332&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCS"
 
 LEY GENERAL DE COMUNICACIÓN SOCIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ABRIL DE 2022.
 
 Ley publicada en la Primera Sección al Número 8 del Diario Oficial de la Federación, el viernes 11 de mayo de 2018.
 
@@ -153,6 +153,10 @@ IV. Cumplir con las obligaciones que en materia electoral establezca la legislac
 V. Anunciar medidas preventivas de riesgos o que contribuyan a la eliminación de daños de cualquier naturaleza para la salud de las personas o el equilibrio ecológico y protección al ambiente, así como en materia de protección civil;
 
 VI. Difundir las lenguas nacionales y el patrimonio histórico de la Nación;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2022)</small>
+
+VI Bis. Utilizar un lenguaje incluyente, libre de discriminación eliminando cualquier tipo de violencia en contra de las mujeres;
 
 VII. Comunicar programas y actuaciones públicas, y
 
@@ -529,3 +533,11 @@ Octavo.- La Secretaría de Gobernación podrá celebrar convenios de colaboraci�
 Ciudad de México, a 25 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a ocho de mayo de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 12 DE ABRIL DE 2022.
+
+> <small>[N. DE E. DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN VI BIS AL ARTÍCULO 8 DE LA LEY GENERAL DE COMUNICACIÓN SOCIAL”.]</small>
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
