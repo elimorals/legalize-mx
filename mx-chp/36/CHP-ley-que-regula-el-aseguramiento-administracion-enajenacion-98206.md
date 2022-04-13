@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-regula-el-aseguramiento-administracion-enajenacion-9820
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-13"
-last_updated: "2013-11-13"
+last_updated: "2022-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98206&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE REGULA EL ASEGURAMIENTO, ADMINISTRACIÓN, ENAJENACIÓN Y DISPOSICIÓN FINAL DE VEHÍCULOS AUTOMOTORES, ACCESORIOS O COMPONENTES ABANDONADOS PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas el 13 de noviembre de 2013.
 
@@ -87,9 +87,11 @@ Los vehículos a que •se refiere este Capítulo, no serán considerados bienes
 
 ### Capítulo I. Generalidades
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2022)</small>
+
 ###### Artículo 6°.
 
-El Poder Ejecutivo a través del Instituto de la Consejería Jurídica y de Asistencia Legal, la Secretaría de Hacienda, la Secretaría de Seguridad y Protección Ciudadana, y la Secretaría de Salud; así como los Ayuntamientos, en el ámbito de sus respectivas competencias, quedan facultados para aplicar la presente Ley y demás disposiciones aplicables, asegurando el respeto de los derechos de los gobernados en lo relativo a los bienes referidos en este ordenamiento.
+El Ejecutivo del Estado, a través del Instituto del Patrimonio del Estado, la Secretaría de Hacienda, la Secretaría de Seguridad y Protección Ciudadana, la Secretaría de Salud y los Ayuntamientos, en el ámbito de sus respectivas competencias, quedan facultados para aplicar la presente Ley y demás disposiciones aplicables, asegurando el respeto de los derechos de los gobernados en lo relativo a los bienes en este ordenamiento.
 
 ###### Artículo 7°.
 
@@ -101,25 +103,31 @@ El aseguramiento, declaración de abandono, devolución y destrucción de vehíc
 
 La Comisión tendrá como objeto la supervisión, control y administración de los vehículos abandonados.
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2022)</small>
+
 ###### Artículo 9°.
 
-La Comisión estará integrada por:
+La Comisión estará integrada de la siguiente manera:
 
-I. El Titular del Instituto de la Consejería Jurídica y de Asistencia Legal, quien la presidirá.
+I. Un Presidente, que será el titular del Instituto del Patrimonio del Estado.
 
-II. El Titular de la Dirección de Patrimonio del Instituto de la Consejería Jurídica y de Asistencia Legal, quien fungirá como Secretario Técnico con voz pero sin voto.
+II. Un Secretario Técnico, que será el titular de la Dirección Operativa del Instituto del Patrimonio del Estado, quien contará con voz pero sin voto.
 
-III. El Titular de la Secretaría General de Gobierno, quien fungirá como vocal, con derecho a voz y voto.
+III. Los Vocales, con derecho a voz y voto, que serán los titulares de:
 
-IV. El Titular de la Secretaría de Hacienda, quien fungirá como vocal, con derecho a voz y voto.
+a) La Secretaría General de Gobierno.
 
-V. El Titular de la Secretaría de Medio Ambiente e Historia Natural, quien fungirá como vocal, con derecho a voz y voto.
+b) La Secretaría de Hacienda.
 
-VI. El Titular del (sic) la Secretaría de Seguridad y Protección Ciudadana, quien fungirá como vocal, con derecho a voz y voto.
+c) La Secretaría de Protección Civil.
 
-VII. El Titular de la Secretaría y/o Instituto de Salud en el Estado, quien fungirá como vocal, con derecho a voz y voto.
+d) La Secretaría de Medio Ambiente e Historia Natural.
 
-VIII. El Titular de la Procuraduría General de Justicia del Estado, quien fungirá como vocal, con derecho a voz y voto.
+e) La Secretaría de Salud.
+
+f) La Secretaría de Seguridad y Protección Ciudadana.
+
+g) La Fiscalía General del Estado de Chiapas.
 
 Los acuerdos y decisiones de la Comisión se aprobarán por mayoría de votos de sus integrantes y en caso de empate, el Presidente tendrá voto de calidad.
 
@@ -137,11 +145,15 @@ II. Supervisar el otorgamiento en depósito de vehículos abandonados, así como
 
 III. Emitir acuerdos y lineamientos generales para la debida administración de los vehículos abandonados, así como para su destino final.
 
-IV. Solicitar al Titular de la Procuraduría General de Justicia del Estado, informe sobre la existencia o inexistencia de alguna investigación de índole penal, en la que él o los vehículos abandonados figuren en calidad de asegurados.
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2022)</small>
+
+IV. Solicitar al titular de la Fiscalía General del Estado de Chiapas, informe sobre la existencia o inexistencia de alguna investigación de índole penal, en la que el o los vehículos abandonados figuren en calidad de asegurados.
 
 V. Solicitar al Secretario Técnico, la emisión de la Declaratoria de Abandono y Enajenación de Vehículos a favor del Estado.
 
-VI. Reducir el plazo establecido en el artículo 21 para la emisión la Declaratoria de Abandono, cuando la autoridad competente considere que existe un riesgo para la salud pública y/o el medio ambiente.
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2022)</small>
+
+VI. Reducir el plazo establecido en el artículo 21 de la presente Ley, para la emisión de la Declaratoria de Abandono y Enajenación de Vehículos a favor del Estado, cuando la autoridad competente considere que existe un riesgo para la salud pública y/o el medio ambiente.
 
 VII. Las demás que se señalen en esta Ley y disposiciones legales aplicables.
 
@@ -209,9 +221,11 @@ La autoridad facultada que haya asegurado el vehículo, accesorio o componente, 
 
 Los vehículos no motorizados, como bicicletas y similares que acompañaren al vehículo asegurado al momento de su depósito, podrán ser sujetos del procedimiento establecido en el presente Capítulo.
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2022)</small>
+
 ###### Artículo 21.
 
-Una vez transcurridos tres meses contados a partir de la fecha del aseguramiento, la Comisión deberá publicar en el Periódico Oficial y en al menos dos diarios de mayor circulación en el Estado, la Declaratoria de Abandono procedente, otorgando un término de tres días hábiles para efecto de que, quien se considere interesado o su legítimo representante, manifieste lo que a su interés convenga.
+Una vez transcurridos tres meses contados a partir de la fecha delaseguramiento (sic), la Comisión deberá publicar en el Periódico Oficial y en al menos dos diarios de mayor circulación en el Estado, la Declaratoria de Abandono y Enajenación de Vehículos a favor del Estado, otorgando un término de tres días hábiles para efecto de que, quien se considere interesado o su legítimo representante, manifieste lo que a su derecho convenga.
 
 ###### Artículo 22.
 
@@ -261,9 +275,11 @@ III. El número de control, folio o marca que le corresponda, así como la fecha
 
 ### Capítulo I. De la Devolución
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2022)</small>
+
 ###### Artículo 29.
 
-La devolución de vehículos, accesorios o componentes abandonados, procederá cuando el interesado o su legítimo representante, acredite su propiedad ante la Comisión, dentro de los términos establecidos en el presente ordenamiento y mediante los documentos idóneos.
+La devolución de vehículos, accesorios o componentes abandonados, procederá cuando el interesado o su legítimo representante, presente los documentos que acrediten su propiedad ante la Comisión, en los términos establecidos en la presente Ley y las disposiciones normativas que para tal efecto emita la Comisión.
 
 El Secretario Técnico notificará por escrito la resolución de la Comisión, sobre el pedimento de devolución al interesado o su legítimo representante, en el domicilio que hubiese señalado para tal efecto, dentro del término de cinco días hábiles contados a partir de la presentación de la documentación comprobatoria.
 
@@ -305,7 +321,9 @@ Estarán impedidas para participar en los procedimientos de enajenación estable
 
 I. Las inhabilitadas para desempeñar un empleo cargo o comisión en el servicio público.
 
-II. Aquellas que hubieren proporcionado información que resulte falsa, o que hayan actuado con dolo o mala fe, en cualquier etapa del procedimiento regulado por este ordenamiento, para lograr la adjudicación del o los vehículos, accesorios o componentes declarados abandonados.
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2022)</small>
+
+II. Aquellas que hubieren proporcionado información que resulte falsa, o que hayan actuado con dolo o mala fe, en cualquier etapa del procedimiento regulado por la presente Ley y las disposiciones normativas que para tal efecto emita la Comisión, para lograr la adjudicación del o los vehículos, accesorios o componentes declarados abandonados.
 
 III. Aquellas que sean declaradas en quiebra o concurso civil o mercantil.
 
@@ -323,9 +341,11 @@ VIII. Las demás que por cualquier causa se encuentren impedidas para ello por d
 
 Cualquier procedimiento de enajenación o acto que se realice en contra de lo dispuesto en esta Ley, será nulo de pleno derecho.
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2022)</small>
+
 ###### Artículo 37.
 
-Los servidores públicos que participen en la realización de los procedimientos de enajenación previstos en este ordenamiento, serán responsables por la inobservancia de las disposiciones establecidas en la misma, en términos de la Ley Estatal de Responsabilidades de los Servidores Públicos, sin perjuicio de la responsabilidad penal que corresponda conforme a las leyes.
+Los servicios públicos que participen en la realización de los procedimientos de enajenación previstos en la presente Ley, serán responsables por la inobservancia de las disposiciones establecidas en la misma, en términos de la Ley de Responsabilidades Administrativas para el Estado de Chiapas, sin perjuicio de la responsabilidad penal que corresponda conforme a las leyes.
 
 ## Transitorios
 
@@ -340,3 +360,13 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 44 de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas, a los doce días del mes de noviembre del año dos mil trece.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Óscar Eduardo Ramírez Aguilar, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY QUE REGULA EL ASEGURAMIENTO, ADMINISTRACIÓN, ENAJENACIÓ Y DISPOSICIÓN FINAL DE VEHÍCULOS AUTOMOTORES, ACCESORIOS O COMPONENTES ABANDONADOS PARA EL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
