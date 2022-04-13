@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-de-las-oficinas-del-registro-civil-del-8327"
 country: "mx"
 rank: "ley"
 publication_date: "1940-10-30"
-last_updated: "2018-10-30"
+last_updated: "2022-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial, el 30 de octubre de 1940.
 
@@ -97,13 +97,17 @@ VI.- Leer a los interesados con claridad las actas que autoricen, inmediatamente
 
 VII.- Dar aviso al Ejecutivo del Estado de las nuevas construcciones o reparaciones que sea necesario hacer en el Cementerio o Cementerios de su jurisdicción;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2022)</small>
 
-VIII.- Cerciorarse con la debida oportunidad de que las personas interesadas en los actos que intervengan o en la obtención de certificados y constancias relativas a actos ya autorizados, hayan cubierto previamente, en la Colecturía de Rentas, las cuotas correspondientes, en términos de los artículos 17 y 18 de la presente Ley; y
+VIII.- Cerciorarse con la debida oportunidad de que las personas interesadas en los actos que intervengan o en la obtención de certificados y constancias relativas a actos ya autorizados, hayan cubierto previamente, en la Colecturía de Rentas, las cuotas correspondientes, en términos de los artículos 17 y 18 de la presente Ley;
 
-> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2022)</small>
 
-IX.- Exhortar a quien presente al menor a registrar a que el nombre propio que vaya a otorgarle no sea peyorativo, discriminatorio, infamante, denigrante o carente de significado.
+IX.- Exhortar a quien presente al menor a registrar a que el nombre propio que vaya a otorgarle no sea peyorativo, discriminatorio, infamante, denigrante o carente de significado; y
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2022)</small>
+
+X.- Expedir el certificado de Deudor Alimentario Moroso cuando sea ordenado por la autoridad judicial.
 
 ###### Art. 10.
 
@@ -610,3 +614,19 @@ P O. 30 DE OCTUBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-125 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS; LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS; EL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS; Y EL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS, CON RELACIÓN A LA CREACIÓN Y REGULACIÓN DEL REGISTRO DE DEUDORES ALIMENTARIOS MOROSOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se concede un plazo de 90 días, a partir de la entrada en vigor del presente Decreto, para la creación y operación del Registro Estatal de Deudores Alimentarios Morosos por parte del Registro Civil del Estado, así como para emitir los lineamientos conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Inmediatamente después de que el Registro Estatal de Deudores Alimentarios Morosos entre en funciones se deberá dar trámite a las resoluciones judiciales que se hubieren efectuado durante el periodo existente entre la entrada en vigor de este decreto y el inicio de operaciones del referido Registro.
