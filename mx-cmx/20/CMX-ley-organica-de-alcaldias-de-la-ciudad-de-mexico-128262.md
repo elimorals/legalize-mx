@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-alcaldias-de-la-ciudad-de-mexico-128262"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2021-07-22"
+last_updated: "2022-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128262&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ABRIL DE 2022.
 
 Ley publicada en el Tomo I del Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -956,9 +956,13 @@ XII. Derechos Culturales, Recreativos y Educativos;
 
 XIII. De Igualdad Sustantiva.
 
-> <small>(ADICIONADA, G.O. 8 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2022)</small>
 
-XIV. Juventud.
+XIV. Juventud; y
+
+> <small>(ADICIONADA, G.O. 13 DE ABRIL DE 2022)</small>
+
+XV. Educación Física y Deporte.
 
 > <small>(REFORMADO, G.O. 12 DE OCTUBRE DE 2018)</small>
 
@@ -2391,6 +2395,16 @@ CUARTO. Cuando un acuerdo interinstitucional involucre la transferencia de recur
 G.O. 22 DE JULIO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 23 Y 25 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 13 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 3, PÁRRAFO PRIMERO; 17, FRACCIONES V Y IX; 23, FRACCIONES XVIII Y XXIV; 25, SEGUNDO PÁRRAFO; 49 BIS, PÁRRAFO PRIMERO Y 64; Y SE ADICIONA LA FRACCIÓN XXIV BIS AL ARTÍCULO 23, TODOS DE LA LEY DE EDUCACIÓN FÍSICA Y DEPORTE DE LA CIUDAD DE MÉXICO; Y SE MODIFICA LA FRACCIÓN XIV Y SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 71 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
