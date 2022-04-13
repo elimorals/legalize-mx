@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-de-44466"
 country: "mx"
 rank: "otro"
 publication_date: "1999-04-19"
-last_updated: "2022-03-11"
+last_updated: "2022-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44466&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,150 +19,86 @@ issue_date: "1999-03-23"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 6 (ARGENTINA, 2004)
 
-ACUERDO QUE MODIFICA AL DIVERSO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA INTERNAR A LA REPÚBLICA ARGENTINA, DURAZNOS EN ALMÍBAR EXCLUSIVAMENTE ENLATADOS O ENVASADOS Y PRODUCTOS DE HIERRO Y ACERO, ORIGINARIOS Y PROVENIENTES DE LOS ESTADOS UNIDOS MEXICANOS, CON LA PREFERENCIA ARANCELARIA ESTABLECIDA EN EL ANEXO III DEL DECIMOQUINTO PROTOCOLO ADICIONAL AL ACUERDO DE COMPLEMENTACIÓN ECONÓMICA NO. 6, CELEBRADO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPÚBLICA ARGENTINA
+ACUERDO QUE MODIFICA AL DIVERSO POR EL QUE SE DAN A CONOCER LAS PREFERENCIAS ARANCELARIAS DEL DECIMOQUINTO PROTOCOLO ADICIONAL AL ACUERDO DE COMPLEMENTACIÓN ECONÓMICA NO. 6, CELEBRADO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPÚBLICA ARGENTINA
 
-Acuerdo publicado en el Diario Oficial de la Federación, el viernes 11 de marzo de 2022.
+Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 13 de abril de 2022.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- ECONOMÍA.- Secretaría de Economía.
 
-Con fundamento en los artículos 34 fracciones I y XXXIII de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracciones III y V, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 26 y 31 del Reglamento de la Ley de Comercio Exterior; y 5 fracción XVII, del Reglamento Interior de la Secretaría de Economía, y
+Con fundamento en los artículos 133 de la Constitución Política de los Estados Unidos Mexicanos; 34, fracción XXXIII de la Ley Orgánica de la Administración Pública Federal; 5o., fracción X de la Ley de Comercio Exterior; 5, fracción XVII del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el 1 de enero de 2007 se publicó en el Diario Oficial de la Federación (DOF) el Acuerdo por el que se dan a conocer los cupos para internar a la República Argentina, duraznos en almíbar exclusivamente enlatados o envasados y productos de hierro y acero, originarios y provenientes de los Estados Unidos Mexicanos, con la preferencia arancelaria establecida en el anexo III del Decimoquinto Protocolo adicional al Acuerdo de Complementación Económica No. 6, celebrado entre los Estados Unidos Mexicanos y la República Argentina, con el objeto de fortalecer los mecanismos regionales de diálogo político y de integración económica, así como establecer los mecanismos adecuados para la administración de los acuerdos comerciales internacionales suscritos por los Estados Unidos Mexicanos.
+Que el 28 de diciembre de 1980 el Senado de la República aprobó el Tratado de Montevideo 1980 (Tratado), cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 31 de marzo de 1981, con objeto de dar continuidad al proceso de integración latinoamericano y establecer a largo plazo, en forma gradual y progresiva, un mercado común, para lo cual se instituyó la Asociación Latinoamericana de Integración.
 
-Que el 14 de enero de 2011 se publicó en el DOF el Decreto por el que se establece la Ventanilla Digital Mexicana de Comercio Exterior a través del cual se emitieron las disposiciones generales para el establecimiento de la Ventanilla Digital Mexicana de Comercio Exterior, que tiene por objeto permitir a los agentes de comercio exterior realizar, a través de un solo punto de entrada electrónico, todos los trámites de importación, exportación y tránsito de mercancías.
+Que en el marco del Tratado los Estados Unidos Mexicanos y la República Argentina suscribieron, el 24 de octubre de 1986, el Acuerdo de Complementación Económica No 6 (ACE No 6).
 
-Que el 17 de octubre de 2019 se publicó en el DOF el Reglamento Interior de la Secretaría de Economía, mismo que fue modificado mediante diverso publicado en el órgano de difusión oficial antes mencionado el 12 de abril de 2021, por medio del cual se cambiaron las denominaciones de algunas unidades administrativas de la Secretaría de Economía, entre ellas, la de la entonces Dirección General de Comercio Exterior ahora Dirección General de Facilitación Comercial y de Comercio Exterior, así como de las entonces Delegaciones y subdelegaciones federales que se transformaron en las Oficinas de Representación en las entidades federativas.
+Que el 24 de agosto de 2006 los Estados Unidos Mexicanos y la República Argentina suscribieron el Decimoquinto Protocolo Adicional al Acuerdo de Complementación Económica No 6, suscrito entre los Estados Unidos Mexicanos y la República Argentina (Decimoquinto Protocolo), mediante el cual se adoptó el texto ordenado y consolidado de dicho Acuerdo y se pactaron las disposiciones vigentes que rigen el comercio bilateral de las Partes, el cual se dio a conocer mediante Acuerdo publicado en el Diario Oficial de la Federación el 22 de noviembre de 2006.
 
-Que el 1 de julio de 2020 se publicó en el DOF la Ley de los Impuestos Generales de Importación y de Exportación (LIGIE), la cual establece la Tarifa arancelaria aplicable a la importación y exportación de mercancías en territorio nacional, y ha sido modificada mediante diversos publicados en el mismo órgano de difusión oficial el 24 de diciembre de 2020, el 22 de febrero de 2021, el 16 de julio de 2021, el 22 de octubre de 2021, el 18 y 22 de noviembre de 2021.
+Que el Artículo 3 del Decimoquinto Protocolo confirma la vigencia de los Anexos I y II del Programa de Liberación, exclusivamente en lo que se refiere a las preferencias arancelarias pactadas con anterioridad en el Acuerdo original y sus protocolos.
 
-Que el 17 de noviembre de 2020 se publicó en el DOF el Acuerdo por el que se dan a conocer los Números de Identificación Comercial (NICO) y sus tablas de correlación, el cual tiene por objeto dar a conocer los NICO en los que se clasifican las mercancías en función de las fracciones arancelarias y las anotaciones de los mismos y ha sido modificado mediante diversos publicados en el mismo órgano de difusión oficial el 27 de diciembre de 2020, 23 de febrero de 2021, 2 y 3 de diciembre de 2021.
+Que el 27 de diciembre de 2020 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se dan a conocer las preferencias arancelarias del Decimoquinto Protocolo Adicional al Acuerdo de Complementación Económica No. 6 celebrado entre los Estados Unidos Mexicanos y la República Argentina.
 
-Que el 18 de noviembre de 2020 se publicó en el DOF el Acuerdo por el que se dan a conocer las tablas de correlación entre las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación (TIGIE) 2012 y 2020, con el objeto de facilitar la aplicación de la nomenclatura arancelaria, mismo que fue modificado mediante diverso publicado en el mismo órgano de difusión oficial el 27 de diciembre de 2020.
+Que el 18 de marzo de 2022 los Estados Unidos Mexicanos y la República Argentina suscribieron el Decimosexto Protocolo Adicional al Acuerdo de Complementación Económica No 6 celebrado entre la República Argentina y los Estados Unidos Mexicanos (Decimosexto Protocolo), mediante el cual se acordó que los Estados Unidos Mexicanos otorgarán trato preferencial a la República Argentina conforme al Anexo II del ACE No 6 al frijol negro (porotos, alubias, judías, fréjoles) comunes (Phaseolus vulgaris), excepto para siembra, sin sujetar dicho tratamiento al cumplimiento del requisito de permiso previo de importación para un cupo de 50,000 toneladas durante el periodo comprendido entre el 1° de julio al 30 de noviembre de los años 2022, 2023 y 2024, respectivamente.
 
-Que ante la necesidad de otorgar mayor certidumbre jurídica en su aplicación, resulta necesario modificar el Acuerdo, a fin de armonizar las fracciones arancelarias contenidas en el mismo y actualizar las referencias de los trámites y de las unidades administrativas conforme a los cambios referidos en los Considerandos anteriores.
+Que en razón de lo anterior, resulta necesario dar a conocer a los operadores y autoridades aduaneras los tratamientos preferenciales acordados en el Décimo Sexto Protocolo, se expide el siguiente:
 
-Que en virtud de lo antes señalado, y en cumplimiento a lo establecido por la Ley de Comercio Exterior, las disposiciones a las que se refiere el presente instrumento fueron sometidas a la consideración de la Comisión de Comercio Exterior y opinadas por la misma, por lo que se expide el siguiente:
+ACUERDO QUE MODIFICA AL DIVERSO POR EL QUE SE DAN A CONOCER LAS PREFERENCIAS ARANCELARIAS DEL DECIMOQUINTO PROTOCOLO ADICIONAL AL ACUERDO DE COMPLEMENTACIÓN ECONÓMICA No. 6 CELEBRADO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPÚBLICA ARGENTINA
 
-ACUERDO QUE MODIFICA AL DIVERSO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA INTERNAR A LA REPÚBLICA ARGENTINA, DURAZNOS EN ALMÍBAR EXCLUSIVAMENTE ENLATADOS O ENVASADOS Y PRODUCTOS DE HIERRO Y ACERO, ORIGINARIOS Y PROVENIENTES DE LOS ESTADOS UNIDOS MEXICANOS, CON LA PREFERENCIA ARANCELARIA ESTABLECIDA EN EL ANEXO III DEL DECIMOQUINTO PROTOCOLO ADICIONAL AL ACUERDO DE COMPLEMENTACIÓN ECONÓMICA NO. 6, CELEBRADO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPÚBLICA ARGENTINA
+Único.- Se reforma la Tabla de las preferencias arancelarias porcentuales que otorgan los Estados Unidos Mexicanos a la República Argentina en el marco del Acuerdo de Complementación Económica No. 6 del Acuerdo por el que se dan a conocer las preferencias arancelarias del Decimoquinto Protocolo Adicional al Acuerdo de Complementación Económica No. 6 celebrado entre los Estados Unidos Mexicanos y la República Argentina, publicado en el Diario Oficial de la Federación el 27 de diciembre de 2020, en la fracción arancelaria de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, que a continuación se indica:
 
-ÚNICO.- Se reforman los artículos 1, en su cuadro; 4; 5, primer párrafo, y 6, y se adicionan los artículos 7 y 8 al Acuerdo por el que se dan a conocer los cupos para internar a la República Argentina, duraznos en almíbar exclusivamente enlatados o envasados y productos de hierro y acero, originarios y provenientes de los Estados Unidos Mexicanos, con la preferencia arancelaria establecida en el anexo III del Decimoquinto Protocolo adicional al Acuerdo de Complementación Económica No. 6, celebrado entre los Estados Unidos Mexicanos y la República Argentina, publicado en el Diario Oficial de la Federación el 1 de enero de 2007, para quedar como sigue:
+"Tabla de las preferencias arancelarias porcentuales que otorgan los Estados Unidos Mexicanos a la República Argentina en el marco del Acuerdo de Complementación Económica No. 6
 
-"ARTÍCULO 1.- …
+Fracción Descripción Observaciones Preferencia
 
-Descripción del producto
+Arancelaria arancelaria
 
-negociado/clasificación en
+porcentual
 
-fracción arancelaria TIGIE: Cupo por periodo:
+(1) (2) (3) (4)
 
-Duraznos en almíbar exclusivamente
+0713.33.99 Los demás. Frijol negro, excepto lo 100
 
-enlatados o envasados.
+comprendido en la fracción
 
-Fracción arancelaria:
+0713.33.01. Los sacos
 
-2008.70.01 10,000 toneladas anuales.
+de tela causan impuestos
 
-Productos intermedios de hierro
+separadamente.
 
-o acero sin alear.
+Frijol negro, excepto lo 100
 
-Fracciones arancelarias:
+comprendido en la fracción
 
-7207.12.02 y 7207.20.02
+0713.33.01. Los sacos
 
-(Excepto: Con espesor inferior o igual
+de tela causan impuestos
 
-a 185 mm, y anchura igual o superior
+separadamente.
 
-al doble del espesor). 90 mil toneladas, para
+Cupo: 50,000 toneladas
 
-todas las fracciones en
+durante el periodo comprendido
 
-conjunto.
+entre el 1° de julio al 30 de
 
-Productos laminados planos de
+noviembre de los años
 
-hierro o acero sin alear.
+2022, 2023 y 2024,
 
-Fracciones arancelarias:
+respectivamente. Este
 
-7209.15.04 (Excepto: Aceros cuyo
+cupo no estará sujeto al
 
-límite de resistencia a la deformación
+cumplimiento del requisito
 
-sea igual o superior a 355 MPa y
+de permiso previo de
 
-aceros para porcelanizar en partes
-
-expuestas),
-
-7209.16.01, 7209.17.01, 72.09.18.01,
-
-7209.25.01, 7209.26.01, 7209.27.01,
-
-7209.28.01, 7209.90.99, 7211.23.03,
-
-y 7211.29.99 (Excepto: Flejes de
-
-espesor igual o superior a 0.05 mm
-
-con un contenido de carbono inferior
-
-a 0.6%.). 50 mil toneladas, para
-
-todas las fracciones en
-
-conjunto.
-
-Productos laminados planos de
-
-hierro o acero sin alear, de
-
-anchura superior o igual a 600 mm,
-
-chapados o revestidos.
-
-Fracciones arancelarias:
-
-7210.30.02, 7210.49.99, 7210.61.01
-
-y 7210.70.02. 30 mil toneladas, para
-
-todas las fracciones en
-
-conjunto.
-
-###### ARTÍCULO 4.
-
-Los interesados en la obtención del cupo a que se refiere el presente Acuerdo deberán presentar el trámite de "Asignación Directa de cupo", mediante la modalidad de "Primero en tiempo, primero en derecho" a través de la Ventanilla Digital Mexicana de Comercio Exterior en la dirección electrónica www.ventanillaunica.gob.mx o presentar el formato SE-FO-03-033 "Asignación directa de cupo de importación y exportación" junto con la firma electrónica (e.firma) del interesado en la Oficina de Representación en la entidad federativa de la Secretaría de Economía que corresponda a su domicilio.
-
-Una vez que la Secretaría de Economía determine que se han cumplido los requisitos a que se refiere el párrafo anterior, emitirá la "Constancia de Registro" dentro de los siete días hábiles siguientes a la presentación de la solicitud del trámite.
-
-###### ARTICULO 5.
-
-Una vez autorizada la "Constancia de Registro", el interesado deberá presentar el trámite de "Expedición de certificados de cupo primero en tiempo, primero en derecho" a través de la Ventanilla Digital Mexicana de Comercio Exterior, en la dirección electrónica www.ventanillaunica.gob.mx o en la Oficina de Representación en la entidad federativa de la Secretaría de Economía que corresponda al domicilio del interesado, utilizando el formato SE-FO-03-013-5 "Solicitud de certificados de cupo (Obtenido por asignación directa)", adjuntando digitalizada la copia de la factura comercial y del conocimiento de embarque o carta de porte o guía aérea, según sea el caso y la firma electrónica (e.firma) del interesado. La Secretaría de Economía expedirá el certificado de cupo a más tardar en los siete días hábiles siguientes a la fecha de ingreso de la solicitud.
-
-…
-
-…
-
-###### ARTÍCULO 6.
-
-Los formatos a que se refiere el presente Acuerdo estarán a disposición de los interesados en las Oficinas de Representación en las entidades federativas de la Secretaría de Economía y en la página electrónica https://catalogonacional.gob.mx/.
-
-###### ARTÍCULO 7.
-
-Los certificados de cupo expedidos al amparo del presente Acuerdo son nominativos, intransferibles e improrrogables y no eximen del cumplimiento de otros requisitos y demás regulaciones y restricciones no arancelarias aplicables a las mercancías en la aduana de despacho.
-
-###### ARTÍCULO 8.
-
-La información referente a la evolución de las solicitudes y autorizaciones a que se refiere este Acuerdo, será publicada en el apartado de Transparencia disponible en el portal electrónico sobre facilitación comercial, del Servicio Nacional de Información de Comercio Exterior (SNICE), en la página electrónica: https://www.snice.gob.mx/cs/avi/snice/transparenciacomercioexterior.html."
+importación.
 
 ## TRANSITORIO
 
-ÚNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+ÚNICO.- El presente Acuerdo entrará en vigor el mismo día en el que entre en vigor el Decimosexto Protocolo Adicional al Acuerdo de Complementación Económica N° 6, celebrado entre la República Argentina y los Estados Unidos Mexicanos.
 
-Ciudad de México, a 8 de marzo de 2022.- La Secretaria de Economía, Tatiana Clouthier Carrillo.- Rúbrica.
+Ciudad de México, a 5 de abril de 2022.- La Secretaria de Economía, Tatiana Clouthier Carrillo.- Rúbrica.
