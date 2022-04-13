@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-adopciones-para-el-estado-de-tamaulipas-121276"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-08"
-last_updated: "2021-07-14"
+last_updated: "2022-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2022.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 8 de mayo de 2017.
 
@@ -205,7 +205,13 @@ IV. Tener medios de vida estables, suficientes y comprobables con acceso a servi
 
 V. No tener enfermedades degenerativas o incapacitantes graves, enfermedades crónicas que requieran condiciones de vida especiales, enfermedades que supongan tratamientos intensos, como radiológicos, químicos, o quirúrgicos; o enfermedades graves ya tratadas que puedan reproducirse; el juez debe valorar la situación particular de los adoptantes tomando en cuenta además los plazos previstos en los protocolos médicos y, en caso de que considere que procede la adopción, debe dictar las medidas de protección necesarias para salvaguardar el interés superior de la niñez. Lo anterior para evitar posible discriminación de adoptantes;
 
-VI. En caso de trastornos psiquiátricos en fase de remisión, se considerará prudencial que haya transcurrido un plazo de cinco años desde tal remisión, precisando de un informe del profesional correspondiente.
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2022)</small>
+
+VI. En caso de trastornos psiquiátricos en fase de remisión, se considerará prudencial que haya transcurrido un plazo de cinco años desde tal remisión, precisando de un informe del profesional correspondiente; y
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2022)</small>
+
+VII. Que ninguno de los adoptantes se encuentra inscrito en el registro de deudores alimentarios morosos.
 
 ###### ARTÍCULO 12.
 
@@ -668,3 +674,19 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 65-125 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS; LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS; EL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS; Y EL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS, CON RELACIÓN A LA CREACIÓN Y REGULACIÓN DEL REGISTRO DE DEUDORES ALIMENTARIOS MOROSOS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se concede un plazo de 90 días, a partir de la entrada en vigor del presente Decreto, para la creación y operación del Registro Estatal de Deudores Alimentarios Morosos por parte del Registro Civil del Estado, así como para emitir los lineamientos conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Inmediatamente después de que el Registro Estatal de Deudores Alimentarios Morosos entre en funciones se deberá dar trámite a las resoluciones judiciales que se hubieren efectuado durante el periodo existente entre la entrada en vigor de este decreto y el inicio de operaciones del referido Registro.
