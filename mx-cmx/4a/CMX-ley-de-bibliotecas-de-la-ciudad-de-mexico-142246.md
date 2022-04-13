@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-bibliotecas-de-la-ciudad-de-mexico-142246"
 country: "mx"
 rank: "ley"
 publication_date: "2020-03-18"
-last_updated: "2020-03-18"
+last_updated: "2022-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142246&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-03-17"
 
 LEY DE BIBLIOTECAS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 13 DE ABRIL DE 2022.
 
 Ley publicada en el Número 305 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 18 de marzo de 2020.
 
@@ -70,11 +70,19 @@ I. Alcaldías: Es el Órgano Político Administrativo de cada una de las demarca
 
 II. Bebéteca: Espacio destinado al acervo e instalaciones adecuadas para las niñas y niños entre los 0 a los 3 años de edad.
 
-III. Biblioteca de la Alcaldía: Las bibliotecas a cargo de la administración de los órganos políticos-administrativos de las demarcaciones territoriales.
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2022)</small>
 
-IV. Biblioteca de las Instituciones Públicas: Las bibliotecas administradas por instancias o dependencias del Gobierno de la Ciudad de México.
+III. Biblioteca: Espacio dispuesto para la consulta de acervos de publicaciones impresas, digitales o virtuales, o una combinación de ellas, de carácter general o especializado, catalogados y clasificados en los términos de normas técnicas y administrativas aplicables.
 
-V. Biblioteca Digital: Es el conjunto de libros en formato electrónico, audiolibros, revistas en formato electrónico para su consulta no sólo en internet, sino en dispositivos o aplicaciones móviles.
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2022)</small>
+
+IV. Biblioteca Pública: Biblioteca que presta servicios de consulta al público en general, de forma gratuita y sin discriminación y que, con base en los recursos a su disposición, desarrolla otras actividades que incluyen, préstamo a domicilio o interbibliotecario, fomento de la lectura, formación cultural, educativa y de uso de tecnologías de la información y comunicación, además de orientación e información bibliográfica y documental, que permitan a la población adquirir, transmitir, acrecentar y disfrutar de la información y el conocimiento.
+
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2022)</small>
+
+V. Biblioteca Digital: Colección en línea donde se almacenan y ponen a disposición para su consulta a través de internet, un conjunto de documentos, archivos, libros, publicaciones periódicas, audios, e imágenes en formato digital.
+
+La recopilación que se realice deberá observar los principios aceptados en el plano internacional sobre derechos de autor.
 
 VI. Bibliotecario: Persona que tiene a su cargo la colección, cuidado, ordenación, conservación, organización, operación y funcionamiento de una biblioteca, dando servicio a las y los usuarios atendiendo sus necesidades informativas, formativas o de recreación y que cuenta con los conocimientos técnicos o formales necesarios para ello.
 
@@ -94,7 +102,9 @@ XIII. Sala Infantil: Espacio destinado al acervo e instalaciones adecuadas para 
 
 XIV. Secretaría: Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México, autoridad especializada para la operación de la Red de Bibliotecas.
 
-XV. Usuario: Persona beneficiaria que sin distinción de origen, residencia, lengua, capacidades físicas, apariencia, edad, religión, ideología, condición social o preferencia sexual puede acceder al servicio de las bibliotecas.
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2022)</small>
+
+XV. Usuario: Persona beneficiaria que sin distinción de origen, residencia, lengua, capacidades físicas, apariencia, edad, religión, ideología, condición social o preferencia sexual puede acceder de forma gratuita a los servicios que ofrece la Red de Bibliotecas.
 
 ### CAPÍTULO II. DE LAS BIBLIOTECAS
 
@@ -228,21 +238,45 @@ VI. Proponer e impulsar todo tipo de proyectos bibliotecarios;
 
 VII. Conservar, actualizar y difundir el patrimonio bibliográfico;
 
-VIII. La promoción de la formación permanente del personal y las bibliotecas con medios adecuados para su actualización;
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2022)</small>
 
-IX. El impulso de la investigación científica y el desarrollo e innovación tecnológica dentro del ámbito bibliotecario;
+VIII. Fomentar la formación y capacitación permanente del personal de las bibliotecas, así como promover que las bibliotecas cuenten con los recursos humanos, materiales y económicos necesarios para su actualización y mantenimiento;
 
-X. Realización de proyectos de investigación, en cooperación con otras instituciones científicas y culturales;
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2022)</small>
 
-XI. Estimular a las y los bibliotecarios para que desde las bibliotecas públicas generen proyectos sociales para la mejora de su comunidad;
+IX. Impulsar la investigación científica y el desarrollo e innovación tecnológica dentro del ámbito bibliotecario;
 
-XII. Promocionar y difundir permanentemente los servicios y programas de la Red de Bibliotecas, con objeto de generar usuarios y fomentar el habitual uso de bibliotecas;
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2022)</small>
 
-XIII. Generar una base de datos en conjunto con la Agencia Digital de Innovación Pública de la Ciudad de México a efecto de eliminar y reducir trámites en la prestación de servicio público para la ciudadanía;
+X. Promover la realización de proyectos de investigación y colaboración con otras instituciones científicas y culturales, tanto nacionales como internacionales;
 
-XIV. Garantizar que las bibliotecas públicas tengan conexión (sic) internet; y
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2022)</small>
 
-XV. Promover la creación de una Biblioteca Digital que garantice el acceso remoto al acervo bibliográfico y audiovisual.
+XI. Impulsar la generación de proyectos sociales para la mejora de la comunidad desde las bibliotecas públicas;
+
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2022)</small>
+
+XII. Promocionar y difundir permanentemente los servicios y programas que ofrece la Red de Bibliotecas, con objeto de generar usuarios y fomentar el habitual uso de bibliotecas;
+
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2022)</small>
+
+XIII. Generar en conjunto con la Agencia Digital de Innovación Pública de la Ciudad de México, una base de datos de las personas usuarias que faciliten los servicios que prestan las bibliotecas públicas;
+
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2022)</small>
+
+XIV. Promover que las bibliotecas públicas estén en buen estado, que cuenten con conexión a internet y tengan un acervo actualizado, vigente y de interés para la comunidad;
+
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2022)</small>
+
+XV. Promover la creación y dar seguimiento al mantenimiento de Bibliotecas Digitales de la Red de Bibliotecas, que impulsen la digitalización del acervo con que cuentan, con la finalidad de que los usuarios tengan acceso a la mayor información posible;
+
+> <small>(ADICIONADA, G.O. 13 DE ABRIL DE 2022)</small>
+
+XVI. Promover vínculos con diferentes bibliotecas digitales, tanto públicas como privadas, nacionales e internacionales, con el fin de conformar redes de investigación en el ámbito bibliotecario; y
+
+> <small>(ADICIONADA, G.O. 13 DE ABRIL DE 2022)</small>
+
+XVII. Gestionar la donación de libros ante diversas instancias sociales, públicas y privadas, atendiendo los criterios y lineamientos aplicables por la Red de Bibliotecas.
 
 ###### Artículo 20.
 
@@ -277,3 +311,13 @@ La jefatura de Gobierno de la Ciudad contará con un plazo de noventa días, con
 Palacio Legislativo del Congreso de la Ciudad de México, a los veinticinco días del mes de febrero del año dos mil veinte. POR LA MESA DIRECTIVA.- DIPUTADA ISABELA ROSALES HERRERA, PRESIDENTA.- DIPUTADA MARTHA SOLEDAD VENTURA ÁVILA, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos; 32 apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 3 fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21, párrafo primero, de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los diecisiete días del mes de marzo del año dos mil veinte.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUIZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DE INCLUSIÓN Y BIENESTAR SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 13 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES III, IV, V Y XV DEL ARTÍCULO 3; VIII, IX, X, XI, XII, XIII, XIV Y XV DEL ARTÍCULO 19; Y SE ADICIONAN LAS FRACCIONES XVI Y XVII AL ARTÍCULO 19; TODOS DE LA LEY DE BIBLIOTECAS DE LA CIUDAD DE MÉXICO”.]
+
+Primero. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
