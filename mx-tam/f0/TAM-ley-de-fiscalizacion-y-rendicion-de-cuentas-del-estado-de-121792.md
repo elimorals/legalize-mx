@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12179
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-02"
-last_updated: "2020-06-24"
+last_updated: "2022-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2022.
 
 Ley publicada en el Anexo al Extraordinario del Periódico Oficial del Estado de Tamaulipas, el viernes 2 de junio de 2017.
 
@@ -1005,7 +1005,39 @@ La Comisión presentará directamente a la Auditoría un informe que contenga la
 
 Conforme a lo previsto por el artículo 76, fracción IV, párrafo tercero de la Constitución, el Congreso designará al Auditor por el voto de cuando menos las dos terceras partes de sus miembros presentes, a propuesta de la Junta de Coordinación Política del Congreso.
 
-El Auditor deberá contar con experiencia en materia de control presupuestal, auditoría financiera y régimen de responsabilidades de los servidores públicos, de por lo menos cinco años.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE ABRIL DE 2022)</small>
+
+Para ser Auditor Superior se requiere satisfacer los requisitos siguientes:
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2022)</small>
+
+I. Ser mexicano, en pleno ejercicio de sus derechos civiles y políticos;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2022)</small>
+
+II. Tener por lo menos treinta y cinco años cumplidos el día de la designación;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2022)</small>
+
+III. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión. Sin perjuicio de lo anterior, si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte seriamente la buena fama, inhabilitará para el cargo cualquiera que haya sido la pena;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2022)</small>
+
+IV. No haber sido Secretario de Estado federal o local, Fiscal General de Justicia, senador, diputado federal o local, dirigente de algún partido político, ni haber sido postulado para cargo de elección popular durante los últimos tres años al día de su nombramiento;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2022)</small>
+
+V. Contar al momento de su designación con una experiencia de cinco años en actividades o funciones relacionadas con el control y fiscalización del gasto público, política presupuestaria; evaluación del gasto público, del desempeño y de políticas públicas o administración financiera en el sector público;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2022)</small>
+
+VI. Contar el día de su designación, con título de antigüedad mínima de siete años, y cédula profesional de contador público, licenciado en economía, licenciado en administración o cualquier otro título profesional relacionado con las actividades de fiscalización expedidos por autoridad o institución legalmente facultada para ello; y
+
+(NOTA: EL 17 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 74/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 31 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2022)</small>
+
+VII. NO HABER SIDO INHABILITADO PARA DESEMPEÑAR UN EMPLEO, CARGO O COMISIÓN EN EL SERVICIO PÚBLICO, NI REMOVIDO DE ALGÚN CARGO DEL SECTOR PÚBLICO O PRIVADO POR CAUSA DIFERENTE A LA RENUNCIA.
 
 El titular de la Auditoría durará en su encargo ocho años y podrá ser nombrado para un nuevo período por una sola vez. Sólo podrá ser removido de su encargo por las causas graves que señale la ley, mediante el procedimiento que la misma establezca y con la votación requerida para su designación.
 
@@ -1206,6 +1238,14 @@ ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA
 P.O. 24 DE JUNIO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-111 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 9 Y ADICIONA EL ARTÍCULO 11 BIS, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-124 MEDIANTE EL CUAL SE REFORMA Y ADICIONA EL ARTÍCULO 86 DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
