@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2022-03-26"
+last_updated: "2022-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2022.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -3923,15 +3923,15 @@ VI.- Como abogado defensor de un inculpado o imputado, no ofrezca ni desahogue p
 
 Si el responsable de los delitos previstos en este artículo fuere defensor particular, se le aplicará, además, suspensión hasta por cinco años en el ejercicio de la profesión. Si fuese defensor público, se le destituirá del cargo y se le inhabilitará para desempeñar un empleo, cargo o comisión en el servicio público hasta por cinco años, salvo que la ley disponga otra cosa.
 
-### CAPITULO I. PRESENTACION DE DENUNCIAS O QUERELLAS FALSAS
+### CAPITULO X. DELITOS COMETIDOS POR PERSONAS SERVIDORAS PUBLICAS
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2022)</small>
 
 ###### Artículo 282.
 
 Al que por medio de la violencia física o moral haga efectivo su derecho, se le aplicará prisión de tres meses a un año.
 
-### CAPITULO II. IMPUTACION FALSA DE HECHOS Y SIMULACION DE PRUEBAS
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+### CAPITULO I. PRESENTACION DE DENUNCIAS O QUERELLAS FALSAS
 
 ###### Artículo 283.
 
@@ -3971,11 +3971,27 @@ II.- Cónyuge, concubina o concubinario o pariente consanguíneo en línea colat
 
 III.- Persona ligada con el delincuente por amor, respeto, gratitud o estrecha amistad.
 
-### CAPITULO III. FRAUDE PROCESAL
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE ABRIL DE 2022)</small>
+
+### CAPITULO II. IMPUTACION FALSA DE HECHOS Y SIMULACION DE PRUEBAS
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 285 Bis.
+
+Se impondrán de dos a seis años de prisión y de quinientos a mil días multa a la persona servidora pública que, de forma indebida, difunda, entregue, revele, publique, transmita, exponga, remita, distribuya, videograbe, audiograbe, fotografíe, filme, reproduzca, comercialice, oferte, intercambie o comparta imágenes, audios, videos, información reservada, documentos del lugar de los hechos o del hallazgo, indicios, evidencias, objetos, instrumentos relacionados con un procedimiento penal o con una investigación de hechos delictivos.
+
+Las sanciones previstas en el artículo anterior aumentarán en una tercera parte, si la información que se difunda:
+
+I. Sea con el fin de menoscabar la dignidad de las víctimas o de sus familiares;
+
+II. Se trate de cadáveres de mujeres, niñas o adolescentes, o
+
+III. Se refiera a las circunstancias de su muerte, de las lesiones o del estado de salud de la víctima.
 
 ## TITULO SEPTIMO. DELITOS CONTRA EL EJERCICIO LEGITIMO DE LA AUTORIDAD
 
-### CAPITULO IV. FALSEDAD ANTE AUTORIDAD
+### CAPITULO III. FRAUDE PROCESAL
 
 ###### Artículo 286.
 
@@ -3983,19 +3999,19 @@ Se aplicará prisión de dos a seis años y multa de trescientos a quinientos d�
 
 No se procederá contra el autor de este delito, sino cuando la inocencia del imputado se desprenda de resolución ejecutoriada.
 
-### CAPITULO V. VARIACION DEL NOMBRE O DOMICILIO
+### CAPITULO IV. FALSEDAD ANTE AUTORIDAD
 
 ###### Artículo 287.
 
 La misma pena del artículo anterior se impondrá al que con el propósito de que una persona sea inculpado o imputado ante la autoridad como responsable de un delito le impute falsamente un hecho, o simule en su contra la existencia de pruebas materiales que hagan presumir su responsabilidad.
 
-### CAPITULO VI. DISPOSICIONES COMUNES
+### CAPITULO V. VARIACION DEL NOMBRE O DOMICILIO
 
 ###### Artículo 288.
 
 Al que para obtener una resolución judicial o administrativa contraria a la ley, de la que derive algún perjuicio o beneficio indebidos, simule un acto jurídico o escrito judicial o altere algún elemento de prueba o realice cualquier otro acto tendiente a inducir a error a la autoridad, se le impondrá prisión de seis meses a cinco años y multa de cincuenta a cuatrocientos días multa.
 
-### CAPITULO I. IMPOSICION FORZADA DE UN ACTO ILEGAL
+### CAPITULO VI. DISPOSICIONES COMUNES
 
 ###### Artículo 289.
 
@@ -4019,7 +4035,7 @@ Al perito, intérprete o traductor, además de la pena prevista en los artículo
 
 Quien sea sentenciado por realizar alguna de las conductas establecidas en los artículos 286, 287, 289 y 291 de este Código, sólo en vía de ejecución de sanciones podrá obtener algunos de los beneficios penitenciarios.
 
-### CAPITULO II. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
+### CAPITULO I. IMPOSICION FORZADA DE UN ACTO ILEGAL
 
 ###### Artículo 292.
 
@@ -4029,11 +4045,7 @@ I.- Oculte o niegue su nombre o apellidos o se atribuya uno distinto del verdade
 
 II.- Oculte o niegue su domicilio o designe como tal uno distinto del verdadero.
 
-### CAPITULO III. OPOSICIÓN A QUE SE EJECUTEN TRABAJOS U OBRAS PÚBLICAS
-
-(NOTA: EL 8 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO, OCTAVO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 91/2019 Y SUS ACUMULADAS 92/2019 Y 93/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 1 DE AGOSTO DE 2019, FECHA EN QUE ENTRÓ EN VIGOR EL DECRETO 115 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2019)</small>
+### CAPITULO II. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
 ###### Artículo 293.
 
@@ -4041,15 +4053,19 @@ Cuando con base en la simulación de pruebas o en la denuncia, querella, imputac
 
 ## TITULO OCTAVO. DELITOS CONTRA EL RESPETO DE LOS SIMBOLOS INSTITUCIONALES
 
-### CAPITULO IV. QUEBRANTAMIENTO DE SELLOS
+### CAPITULO III. OPOSICIÓN A QUE SE EJECUTEN TRABAJOS U OBRAS PÚBLICAS
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+(NOTA: EL 8 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO, OCTAVO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 91/2019 Y SUS ACUMULADAS 92/2019 Y 93/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 1 DE AGOSTO DE 2019, FECHA EN QUE ENTRÓ EN VIGOR EL DECRETO 115 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 294.
 
 Se impondrá de dos a cinco años de prisión y multa de cien a trescientos días multa a quien obligue a la autoridad por medio de la violencia física o moral, a ejecutar un acto propio de sus atribuciones, sin los requisitos legales, o un acto que no esté dentro de sus atribuciones.
 
-### CAPITULO V. ULTRAJES A LA AUTORIDAD
+### CAPITULO IV. QUEBRANTAMIENTO DE SELLOS
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 295.
 
@@ -4071,7 +4087,7 @@ Cuando la ley autorice el empleo de medidas de apremio para hacer efectivos los 
 
 > <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 31 DE JULIO DE 2019)</small>
 
-### CAPITULO I. USO INDEBIDO DE CONDECORACIONES O UNIFORMES
+### CAPITULO V. ULTRAJES A LA AUTORIDAD
 
 ###### Artículo 299.
 
@@ -4081,7 +4097,7 @@ Las mismas penas se aplicarán a quien obstruya el acceso de personal o de maqui
 
 La pena se incrementará en una mitad más, cuando en la comisión del delito el sujeto activo, por sí o por interpósita persona, pida o exija dádivas, cuotas o la obtención de un empleo; cuando se utilice violencia o se cometa por dos o más personas.
 
-### CAPITULO II. ULTRAJES Y USO INDEBIDO DE INSIGNIAS PUBLICAS
+### CAPITULO I. USO INDEBIDO DE CONDECORACIONES O UNIFORMES
 
 ###### Artículo 300.
 
@@ -4095,9 +4111,7 @@ A quien siendo titular, propietario o responsable de una construcción de obra, 
 
 A quien siendo titular o propietario de una casa habitación en construcción, que quebrante los sellos de clausura, se le aplicarán de seis meses a dos años de prisión.
 
-### CAPITULO PRIMERO. DELITOS CONTRA EL EQUILIBRIO VITAL DE LA NATURALEZA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2020)</small>
+### CAPITULO II. ULTRAJES Y USO INDEBIDO DE INSIGNIAS PUBLICAS
 
 ###### Artículo 301.
 
@@ -4107,15 +4121,17 @@ Al que ultraje a una autoridad en el ejercicio de sus funciones o con motivo de 
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
 
-### CAPITULO SEGUNDO. MALTRATO O CRUELDAD EN CONTRA DE ANIMALES
+### CAPITULO PRIMERO. DELITOS CONTRA EL EQUILIBRIO VITAL DE LA NATURALEZA
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2020)</small>
 
 ###### Artículo 302.
 
 Se impondrá de noventa a ciento ochenta días de semilibertad, al que públicamente y sin derecho, use uniforme, insignia, distintivo o condecoración oficial.
 
-### CAPITULO UNICO. AFECTACION DE LA SEGURIDAD COLECTIVA POR INCENDIO, EXPLOSION O INUNDACION
+### CAPITULO SEGUNDO. MALTRATO O CRUELDAD EN CONTRA DE ANIMALES
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2019)</small>
 
 ###### Artículo 303.
 
@@ -4127,9 +4143,7 @@ Al que ultraje las insignias del Estado o de un municipio, o de cualesquiera de 
 
 > <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
 
-### CAPITULO I. INTERRUPCION O DIFICULTAMIENTO DEL SERVICIO PUBLICO DE COMUNICACION
-
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2019)</small>
+### CAPITULO UNICO. AFECTACION DE LA SEGURIDAD COLECTIVA POR INCENDIO, EXPLOSION O INUNDACION
 
 ###### Artículo 304.
 
@@ -4213,9 +4227,9 @@ Al servidor público que autorice o permita obras o actividades que contravengan
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 2019)</small>
 
-### CAPITULO I BIS. DE LA VERACIDAD DE LAS COMUNICACIONES A LOS SERVICIOS DE EMERGENCIA
+### CAPITULO I. INTERRUPCION O DIFICULTAMIENTO DEL SERVICIO PUBLICO DE COMUNICACION
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 304 Ter.
 
@@ -4255,7 +4269,9 @@ Se entenderá por métodos de extrema crueldad, todos aquellos que ocasionen les
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE JULIO DE 2020)</small>
 
-### CAPITULO II. SUPRESION DE DISPOSITIVOS O DE SEÑALES DE SEGURIDAD
+### CAPITULO I BIS. DE LA VERACIDAD DE LAS COMUNICACIONES A LOS SERVICIOS DE EMERGENCIA
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 305.
 
@@ -4267,9 +4283,7 @@ TITULO DECIMOPRIMERO
 
 DELITOS CONTRA LA SEGURIDAD Y VERACIDAD DE LA COMUNICACION
 
-### CAPITULO III. CONDUCCION INDEBIDA DE VEHICULOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+### CAPITULO II. SUPRESION DE DISPOSITIVOS O DE SEÑALES DE SEGURIDAD
 
 ###### Artículo 306.
 
@@ -4335,7 +4349,9 @@ Al que para la realización de actividades delictivas utilice instalaciones o me
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO IV. VIOLACION DE CORRESPONDENCIA
+### CAPITULO III. CONDUCCION INDEBIDA DE VEHICULOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 ###### Artículo 312 Bis.
 
@@ -4349,15 +4365,15 @@ En caso de reincidencia, se impondrá de dos a cuatro años de prisión y multa 
 
 El uso indebido de los medios de comunicación para movilizar cuerpos de emergencia protección civil, bomberos o elementos de las corporaciones de seguridad pública se perseguirá de oficio, debiendo proveer lo necesario el Fiscal del Ministerio Público.
 
-### CAPITULO V. VIOLACION DE LA COMUNICACION PRIVADA
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+### CAPITULO IV. VIOLACION DE CORRESPONDENCIA
 
 ###### Artículo 313.
 
 Se aplicará prisión de seis meses a dos años al que destruya, inutilice, quite o modifique algún dispositivo o señal de seguridad de una vía local de tránsito.
 
-### CAPITULO VI. INCUMPLIMIENTO DEL DEBER DE TRASLADAR COMUNICACIONES AL DESTINATARIO
+### CAPITULO V. VIOLACION DE LA COMUNICACION PRIVADA
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 314.
 
@@ -4367,9 +4383,7 @@ Al que, en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópi
 
 Si el vehículo es de transporte público de pasajeros, de carga o de transporte escolar, la prisión será de uno a tres años y la suspensión de uno a cuatro años.
 
-### CAPITULO VII. PRESTACION INDEBIDA DEL SERVICIO DE TRANSPORTE PUBLICO
-
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2019)</small>
+### CAPITULO VI. INCUMPLIMIENTO DEL DEBER DE TRASLADAR COMUNICACIONES AL DESTINATARIO
 
 ###### Artículo 315.
 
@@ -4377,13 +4391,15 @@ Al que abra o intercepte una comunicación escrita que no esté dirigida a él, 
 
 No se sancionará a quienes en ejercicio de la patria potestad, tutela o custodia, abran o intercepten las comunicaciones escritas dirigidas a las personas que se hallen bajo su patria potestad, tutela o custodia.
 
-### CAPITULO I. FALSIFICACION DE TITULOS O DOCUMENTOS DE CREDITO PUBLICO
+### CAPITULO VII. PRESTACION INDEBIDA DEL SERVICIO DE TRANSPORTE PUBLICO
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2019)</small>
 
 ###### Artículo 316.
 
 A quien intervenga una comunicación privada sin mandato de la autoridad judicial competente, se le impondrán de uno a cinco años de prisión y de trescientos a mil días multa.
 
-### CAPITULO II. FALSIFICACION DE SELLOS, MARCAS, CONTRASEÑAS O LLAVES Y OTROS
+### CAPITULO I. FALSIFICACION DE TITULOS O DOCUMENTOS DE CREDITO PUBLICO
 
 ###### Artículo 317.
 
@@ -4393,7 +4409,7 @@ Si de la omisión resulta un daño o perjuicio, la sanción se incrementará en 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE MAYO DE 2019)</small>
 
-### CAPITULO III. USURPACION DE PROFESION
+### CAPITULO II. FALSIFICACION DE SELLOS, MARCAS, CONTRASEÑAS O LLAVES Y OTROS
 
 ###### Artículo 317 Bis.
 
@@ -4409,7 +4425,7 @@ TITULO DECIMOSEGUNDO
 
 DELITOS CONTRA LA FE PUBLICA
 
-### CAPITULO I. FALSIFICACION DE DOCUMENTOS
+### CAPITULO III. USURPACION DE PROFESION
 
 ###### Artículo 318.
 
@@ -4421,9 +4437,7 @@ I.- Falsifique o altere, acciones, obligaciones u otros documentos de crédito p
 
 II.- Introduzca al Estado o ponga en circulación: obligaciones u otros documentos de crédito público estatales o municipales, o cupones de interés o de dividendos de esos títulos, falsificados o alterados.
 
-### CAPITULO II. USO DE DOCUMENTO FALSO
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+### CAPITULO I. FALSIFICACION DE DOCUMENTOS
 
 ###### Artículo 319.
 
@@ -4441,7 +4455,9 @@ III.- Use indebidamente los verdaderos sellos, marcas, llaves, estampillas, troq
 
 IV. Posea, custodie, detente o circule un vehículo con placas de circulación que en términos de las disposiciones aplicables han sido dadas de baja o que correspondan a otro vehículo.
 
-### CAPITULO III. USURPACION DEL USO DE DOCUMENTO
+### CAPITULO II. USO DE DOCUMENTO FALSO
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 320.
 
@@ -4451,7 +4467,7 @@ TITULO DECIMOTERCERO
 
 DELITOS CONTRA LA AUTENTICIDAD O VERACIDAD DOCUMENTAL
 
-### CAPITULO IV. DISPOSICIONES COMUNES
+### CAPITULO III. USURPACION DEL USO DE DOCUMENTO
 
 ###### Artículo 321.
 
@@ -4489,6 +4505,12 @@ I.- Produzca, por cualquier medio técnico, imágenes, textos o voces total o pa
 
 II.- Indebidamente produzca, por cualquier medio técnico, imágenes, textos o voces verdaderas.
 
+### CAPITULO IV. DISPOSICIONES COMUNES
+
+###### Artículo 324.
+
+Se aplicará prisión de seis meses a tres años y multa de sesenta a ciento veinte días multa al que, por sí o por medio de otro, use documento público o privado no auténtico o no veraz, o aproveche indebidamente una firma, rúbrica o sello plasmada documentalmente.
+
 ### CAPITULO I. ACCESO SIN AUTORIZACION
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2008)</small>
@@ -4497,9 +4519,9 @@ Artículo 326 bis.- Al que intercepte, interfiera, reciba, use o ingrese por cua
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
-###### Artículo 324.
+###### Artículo 325.
 
-Se aplicará prisión de seis meses a tres años y multa de sesenta a ciento veinte días multa al que, por sí o por medio de otro, use documento público o privado no auténtico o no veraz, o aproveche indebidamente una firma, rúbrica o sello plasmada documentalmente.
+Se aplicará prisión de seis meses a tres años y multa de sesenta a ciento veinte días multa al que, para obtener un beneficio o causar un daño, use un documento público o privado auténtico y veraz, expedido a favor de otra persona.
 
 ### CAPITULO II. DAÑO INFORMATICO
 
@@ -4513,9 +4535,17 @@ Cuando el activo tenga el carácter de encargado del manejo, administración o m
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
-###### Artículo 325.
+###### Artículo 326.
 
-Se aplicará prisión de seis meses a tres años y multa de sesenta a ciento veinte días multa al que, para obtener un beneficio o causar un daño, use un documento público o privado auténtico y veraz, expedido a favor de otra persona.
+Cuando alguno de los delitos previstos en este Título sea cometido por un servidor público en ejercicio de sus funciones o fedatario se le impondrá, además, destitución e inhabilitación para desempeñar un empleo, cargo o comisión de cualquier naturaleza en el servicio público de dos a cinco años.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+
+TITULO DECIMOTERCERO BIS
+
+DELITOS CONTRA LA SEGURIDAD EN LOS MEDIOS INFORMATICOS Y MAGNETICOS
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
 ### CAPITULO III. FALSIFICACION INFORMATICA
 
@@ -4539,18 +4569,6 @@ DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-###### Artículo 326.
-
-Cuando alguno de los delitos previstos en este Título sea cometido por un servidor público en ejercicio de sus funciones o fedatario se le impondrá, además, destitución e inhabilitación para desempeñar un empleo, cargo o comisión de cualquier naturaleza en el servicio público de dos a cinco años.
-
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE NOVIEMBRE DE 2002)</small>
-
-TITULO DECIMOTERCERO BIS
-
-DELITOS CONTRA LA SEGURIDAD EN LOS MEDIOS INFORMATICOS Y MAGNETICOS
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
-
 ### CAPITULO I. PEDERASTIA
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE OCTUBRE DE 2012)</small>
@@ -4562,12 +4580,6 @@ DELITOS CONTRA LA SEGURIDAD EN LOS MEDIOS INFORMATICOS Y MAGNETICOS
 ### CAPITULO III. OPERACIONES QUIRÚRGICAS Y ATENCIONES MÉDICAS INDEBIDAS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPÍTULO ÚNICO
-
-COMUNICACIÓN DE CONTENIDO SEXUAL CON PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA RESISTIRLO
-
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2020)</small>
 
 ###### Artículo 327.
 
@@ -4583,7 +4595,11 @@ A quien, sin llegar a la cópula o a la introducción vaginal, anal u oral de un
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MAYO DE 2003)</small>
 
-### CAPITULO I. PROFANACION DE CADAVER
+### CAPÍTULO ÚNICO
+
+COMUNICACIÓN DE CONTENIDO SEXUAL CON PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA RESISTIRLO
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2020)</small>
 
 ###### Artículo 329.
 
@@ -4637,7 +4653,7 @@ Si el corruptor tiene alguna relación de autoridad de hecho o de derecho sobre 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-### CAPITULO II. PROFANACION DE TUMBA
+### CAPITULO I. PROFANACION DE CADAVER
 
 ###### Artículo 334 Bis.
 
@@ -4663,7 +4679,7 @@ Para los efectos de este artículo, se entiende por pornografía infantil toda r
 
 ## TITULO UNICO
 
-### CAPITULO I. PORTACION Y FABRICACION DE ARMAS PROHIBIDAS
+### CAPITULO II. PROFANACION DE TUMBA
 
 ###### Artículo 334 Ter.
 
@@ -4673,9 +4689,7 @@ TITULO DECIMOQUINTO
 
 DELITOS CONTRA EL RESPETO A LOS MUERTOS
 
-### CAPITULO II. CONTRA LA SEGURIDAD Y EL ORDEN EN LOS CENTROS DE DETENCION O INTERNAMIENTO
-
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2011)</small>
+### CAPITULO I. PORTACION Y FABRICACION DE ARMAS PROHIBIDAS
 
 ###### Artículo 335.
 
@@ -4691,7 +4705,9 @@ III.- Ilegalmente sepulte o exhume un cadáver o restos humanos.
 
 Se aplicará prisión de seis meses a cuatro años al que realice actos de necrofilia. Si dichos actos consisten en la realización de la cópula la prisión será de tres a siete años.
 
-### CAPITULO I. ABANDONO DE LA PRESTACION DE SERVICIOS
+### CAPITULO II. CONTRA LA SEGURIDAD Y EL ORDEN EN LOS CENTROS DE DETENCION O INTERNAMIENTO
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2011)</small>
 
 ###### Artículo 337.
 
@@ -4703,7 +4719,7 @@ DELITOS CONTRA LA SEGURIDAD PUBLICA
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2011)</small>
 
-### CAPITULO II. NEGACION DE SERVICIO MEDICO
+### CAPITULO I. ABANDONO DE LA PRESTACION DE SERVICIOS
 
 ###### Artículo 338.
 
@@ -4713,9 +4729,7 @@ Las mismas sanciones se aplicarán a quien fabrique los citados objetos o comerc
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE JUNIO DE 2011)</small>
 
-### CAPITULO III. OPERACIONES QUIRURGICAS INDEBIDAS
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+### CAPITULO II. NEGACION DE SERVICIO MEDICO
 
 ###### Artículo 338 Bis.
 
@@ -4731,15 +4745,17 @@ TITULO DECIMOSEPTIMO
 
 DELITOS CONTRA LA PRESTACION ADECUADA DEL SERVICIO PROFESIONAL
 
-### CAPITULO IV. REQUERIMIENTO ARBITRARIO DE LA CONTRAPRESTACION
+### CAPITULO III. OPERACIONES QUIRURGICAS INDEBIDAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 339.
 
 Se aplicará prisión de uno a cuatro años y multa de cien a trescientos días multa al médico que habiéndose hecho cargo de la atención de un enfermo o de un lesionado, deje de prestar el tratamiento sin dar aviso inmediato a la autoridad competente o no cumpla con las obligaciones que le impone la legislación de la materia.
 
-### CAPITULO V. RETENCION DE CADAVER
+### CAPITULO IV. REQUERIMIENTO ARBITRARIO DE LA CONTRAPRESTACION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 340.
 
@@ -4751,7 +4767,7 @@ I.- Estando en presencia de un lesionado o habiendo sido requerido para atender 
 
 II.- Se niegue a prestar asistencia a un enfermo en caso de urgencia notoria, poniendo en peligro la vida o la salud de aquél, cuando por las circunstancias del caso, no pueda recurrir a otro médico ni a un servicio de salud.
 
-### CAPITULO VI. ENAJENACION FRAUDULENTA DE MEDICINAS NOCIVAS O INAPROPIADAS
+### CAPITULO V. RETENCION DE CADAVER
 
 ###### Artículo 341.
 
@@ -4765,9 +4781,7 @@ III. Sin autorización del paciente ni de la persona que ante la imposibilidad o
 
 IV. Engañando a alguien o aprovechándose del error en que éste se halle, proporcione servicios médicos o consultas con propósitos de lucro.
 
-### CAPITULO VII. DISPOSICIONES COMUNES
-
-> <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
+### CAPITULO VI. ENAJENACION FRAUDULENTA DE MEDICINAS NOCIVAS O INAPROPIADAS
 
 ###### Artículo 342.
 
@@ -4779,23 +4793,23 @@ I.- Impidan la salida de un paciente, cuando éste o sus familiares soliciten la
 
 II.- Retengan sin necesidad a un recién nacido.
 
-### CAPITULO UNICO. DELITOS ELECTORALES
+### CAPITULO VII. DISPOSICIONES COMUNES
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+> <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
 
 ###### Artículo 343.
 
 Se impondrá de ciento veinte a ciento ochenta días de trabajo en favor de la comunidad y multa de cien a trescientos días multa a los dueños, directores, administradores o encargados de cualquier centro de salud o agencia funeraria que, por cualquier motivo, retarden o nieguen la entrega de un cadáver, excepto cuando para la entrega sea necesaria la autorización de autoridad competente.
 
-### CAPITULO I. REBELION
+### CAPITULO UNICO. DELITOS ELECTORALES
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 344.
 
 Se aplicará de seis meses a un año de semilibertad y multa de veinte a cincuenta días multa a los dueños, encargados, empleados o dependientes de una farmacia que al surtir una receta sustituyan la medicina específicamente recetada por otra que sea dañina o evidentemente inapropiada al padecimiento para el cual se prescribió.
 
-### CAPITULO II. TERRORISMO
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+### CAPITULO I. REBELION
 
 ###### Artículo 345.
 
@@ -4805,7 +4819,9 @@ Además de las sanciones previstas en los capítulos I, II y III se aplicará su
 
 #### SECCION CUARTA. DELITOS CONTRA LA AUTONOMIA DEL PUEBLO DE TABASCO
 
-### CAPITULO III. SABOTAJE
+### CAPITULO II. TERRORISMO
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 346.
 
@@ -4849,7 +4865,7 @@ TITULO DECIMOCTAVO
 
 DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
 
-### CAPITULO IV. ASONADA O MOTIN
+### CAPITULO III. SABOTAJE
 
 ###### Artículo 355.
 
@@ -4907,7 +4923,7 @@ No se aplicará sanción a los que depongan las armas antes de ser tomados prisi
 
 A los extranjeros que cometan el delito de rebelión, además de las penas que les correspondan, se solicitará su expulsión de la República a las autoridades federales una vez cumplidas aquéllas.
 
-### CAPITULO V. SEDICION
+### CAPITULO IV. ASONADA O MOTIN
 
 ###### Artículo 362.
 
@@ -4927,9 +4943,7 @@ Artículo 362 bis 1.- Se aplicará pena de uno a nueve años de prisión y de ci
 
 Artículo 362 bis 2.- Al que instigue, incite o invite a policías ministeriales o miembros de las corporaciones policíacas en ejercicio, tanto en el ámbito estatal o municipal a la ejecución de los delitos a que se refiere este artículo, se le aplicará pena de cinco a cuarenta años de prisión.
 
-### CAPITULO VI. DELITOS CONTRA LAS ACTIVIDADES DE LAS INSTITUCIONES OFICIALES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
+### CAPITULO V. SEDICION
 
 ###### Artículo 363.
 
@@ -4948,6 +4962,10 @@ III.- Recursos esenciales que el Estado destine para el mantenimiento del orden 
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2012)</small>
 
 IV.- Las vías de comunicación del Estado.
+
+### CAPITULO VI. DELITOS CONTRA LAS ACTIVIDADES DE LAS INSTITUCIONES OFICIALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
 ###### Artículo 364.
 
@@ -5554,3 +5572,11 @@ Se derogan las disposiciones que se opongan al correspondiente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Los delitos que se hubieren cometido con anterioridad a la entrada en vigor del presente Decreto, se perseguirán y sancionarán conforme a las disposiciones normativas vigentes al momento de su comisión, toda vez que el delito de abigeato no se despenaliza, ni expulsa del Código Penal para el Estado de Tabasco, únicamente, se reubica, en el Título Décimo Primero denominado "Delitos contra la Producción Pecuaria", Capítulo Único denominado "Abigeato" y los artículos 205 bis, 205 ter, 205 quáter, 205 quintus, 205 sextus, 205 séptimus, 205 octavus, 205 novenus y 205 décimus que se adiciona al Libro Segundo del referido ordenamiento.
+
+P.O. 13 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 061 POR EL QUE "SE ADICIONA EL CAPÍTULO X, DENOMINADO "DELITOS COMETIDOS POR PERSONAS SERVIDORAS PÚBLICAS AL TÍTULO QUINTO, SECCIÓN TERCERA DEL LIBRO SEGUNDO Y SE ADICIONA EL ARTÍCULO 285 BIS AL CÓDIGO PENAL PARA EL ESTADO DE TABASCO".]
+
+PRIMERO. El correspondiente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
