@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2021-11-09"
+last_updated: "2022-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1605,33 +1605,13 @@ La prescripción producirá su efecto, aunque no la invoque el acusado.
 
 La autoridad la hará valer de oficio, sea cual fuere el estado del procedimiento.
 
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2022)</small>
 
-Si el delito se hubiese cometido en contra de una persona menor de dieciocho años de edad, el plazo para la prescripción comenzará a correr a partir del día en que la víctima cumpla la mayoría de edad.
+Si el delito se hubiese cometido en contra de una persona menor de dieciocho años de edad, el plazo para la prescripción comenzará a correr a partir del día en que la víctima cumpla la mayoría de edad, excepto cuando se trate de los delitos previstos en los artículos 192, 194 Bis, 194 Ter, 198 Bis, 199, 267, 270, 273 y 276 septies de este Código, los cuales serán imprescriptibles.
 
-> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2022)</small>
 
-La acción penal prescribirá en el término máximo de la sanción privativa de libertad del delito que se trate, en los siguientes casos:
-
-a) Corrupción de menores e incapaces, en términos de lo dispuesto en los artículos 192, 193 y 194 de este Código;
-
-b) Pornografía de menores de edad e incapaces, en términos de lo dispuesto en el artículo 194-Bis de este Código;
-
-c) Prostitución sexual de menores e incapaces, en términos de lo dispuesto en los artículos 194-Ter y 194-Quáter de este Código;
-
-d) Pederastia, en términos de lo dispuesto en el artículo 198 Bis de este Código;
-
-e) Lenocinio, en términos de lo dispuesto en el artículo 200 de este Código;
-
-f) Abuso sexual, en términos de lo dispuesto en el artículo 286 de este Código;
-
-g) Estupro, en términos de lo dispuesto en los artículos 270 y 271 de este Código;
-
-h) Violación, en términos de lo dispuesto en el artículo 274 párrafo segundo, y artículo 275 fracciones I, II y III, de este Código;
-
-i) Hostigamiento y acoso sexual, en términos del artículo 276 sexies de este Código; y
-
-j) Violación a la intimidad, en términos del artículo 276 Septies de este Código.
+Con relación al párrafo anterior, el tiempo para la prescripción de los delitos establecidos en los artículos 276 bis y 276 ter, será el término máximo de la sanción privativa de libertad señalado para cada delito.
 
 #### Sección I. PRESCRIPCION DE LA ACCION
 
@@ -1691,9 +1671,11 @@ Una vez consignada la averiguación, la prescripción se computará desde que el
 
 #### Sección II. PRESCRIPCION DE LA SANCION
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2022)</small>
+
 ###### ARTICULO 138.
 
-Los términos para la prescripción de las sanciones serán continuos y se contarán desde el día siguiente a aquél en que el condenado se sustraiga a la acción de la autoridad, si las sanciones son privativas de libertad, y si no lo son, desde la fecha de la sentencia firme.
+Los términos para la prescripción de las sanciones serán continuos y se contarán desde el día siguiente a aquel en que el condenado se sustraiga a la acción de la autoridad, si las sanciones son privativas de libertad, y si no lo son, desde la fecha de la sentencia firme, con excepción de lo dispuesto en el artículo 126 de este Código.
 
 ###### ARTICULO 139.
 
@@ -2657,6 +2639,10 @@ Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confian
 
 Cuando los delitos a que se refieren los artículos 209, 216, 218, 222, 228 y 230, del presente Código sean cometidos por servidores públicos electos popularmente o cuyo nombramiento esté sujeto a ratificación del Congreso del Estado, las penas previstas serán aumentadas hasta en un tercio.
 
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2022)</small>
+
+Serán imprescriptibles las sanciones establecidas en los artículos 216, 218, 220, 222, 226 y 230, de este Código.
+
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
 
 ARTICULO 208 BIS.- Para la individualización de las sanciones previstas en este Título, el juez tomará en cuenta, en su caso, el nivel jerárquico del servidor público y el grado de responsabilidad del encargo, su antigüedad en el empleo, sus antecedentes de servicio, sus percepciones, su grado de instrucción, la necesidad de reparar los daños y perjuicios causados por la conducta ilícita y las circunstancias especiales de los hechos constitutivos del delito. Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá dar lugar a una agravación de la pena.
@@ -2829,13 +2815,13 @@ Se aplicará la misma pena a cualquier persona que gestione, solicite a nombre o
 
 Al responsable del delito de cohecho se le sancionará en la forma siguiente:
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2022)</small>
 
-I.- Cuando la cantidad o el valor de la dádiva o promesa no exceda de tres mil veces el valor diario de la Unidad de Medida y Actualización o no sea valuable, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización; y
+I.- Cuando la cantidad o el valor de la dádiva o promesa no exceda de tres mil veces el valor diario de la Unidad de Medida y Actualización o no sea valuable, se impondrán de cuatro a diez años de prisión, multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2022)</small>
 
-II.- Cuando la cantidad o el valor de la dádiva, los bienes, promesa o prestación exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos a catorce años de prisión y de cien a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+II.- Cuando la cantidad o el valor de la dádiva, los bienes, promesa o prestación exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de cuatro a veinte años de prisión y de cien a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
 
@@ -2865,13 +2851,13 @@ IV.- Cualquier persona que sin tener el carácter de servidor público y estando
 
 Al responsable del delito de peculado se le impondrán las siguientes sanciones:
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2022)</small>
 
-I.- Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exceda de tres mil veces el valor diario de la Unidad de Medida y Actualización o no sea valuable, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización; y
+I.- Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exceda de tres mil veces el valor diario de la Unidad de Medida y Actualización o no sea valuable, se impondrán de cuatro a diez años de prisión, multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2022)</small>
 
-II.- Cuando el monto de lo distraído o de los fondos utilizados indebidamente excedan de tres mil días de salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos (sic) veces el valor diario de la Unidad de Medida y Actualización.
+II.- Cuando el monto de lo distraído o de los fondos utilizados indebidamente excedan de tres mil días de salario, se impondrán de diez a veinte años de prisión, multa de doscientos a cuatrocientos veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPITULO VIII. CONCUSION
 
@@ -2883,13 +2869,13 @@ Comete el delito de concusión el servidor público que con el carácter de tal 
 
 Al responsable del delito de concusión se le impondrán las siguientes sanciones:
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2022)</small>
 
-I.- Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivalente de tres mil veces el valor diario de la Unidad de Medida y Actualización o no sea valuable, se le impondrán de dos a seis años de prisión, multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización; y
+I.- Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivalente de tres mil veces el valor diario de la Unidad de Medida y Actualización o no sea valuable, se le impondrán de cuatro a diez años de prisión, multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2022)</small>
 
-II.- Cuando la cantidad o el valor de lo exigido indebidamente exceda de tres mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de seis a catorce años de prisión, multa de doscientas a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización.
+II.- Cuando la cantidad o el valor de lo exigido indebidamente exceda de tres mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de diez a veinte años de prisión, multa de doscientas a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2017)</small>
 
@@ -2939,9 +2925,9 @@ III.- El servidor público que teniendo a su cargo fondos públicos, les dé una
 
 Se impondrán las mismas sanciones previstas a cualquier persona que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o el servicio público o de otra persona participe, solicite o promueva la perpetración de cualquiera de los delitos previstos en este artículo.
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2022)</small>
 
-Al que cometa el delito a que se refiere el presente artículo, se le impondrán de seis meses a doce años de prisión y de treinta a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+Al que cometa el delito a que se refiere el presente artículo, se le impondrán de cuatro a catorce años de prisión y de treinta a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
 
@@ -2959,13 +2945,13 @@ Al que cometa el delito a que se refiere el presente artículo, se le impondrán
 
 Al responsable del delito de uso ilícito de atribuciones y facultades, se le impondrán las siguientes sanciones:
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2022)</small>
 
-I.- Cuando el monto a que asciendan las operaciones a que hace referencia este Artículo no exceda del equivalente de tres mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos, y
+I.- Cuando el monto a que asciendan las operaciones a que hace referencia este Artículo no exceda del equivalente de tres mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de cuatro a diez años de prisión, multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización y destitución e inhabilitación de cuatro a diez años para desempeñar otro empleo, cargo o comisión públicos; y
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2022)</small>
 
-II.- Cuando el monto a que asciendan las operaciones a que hace referencia este Artículo, exceda del equivalente de tres mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de seis a catorce años de prisión, multa de doscientas a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos.
+II.- Cuando el monto a que asciendan las operaciones a que hace referencia este Artículo, exceda del equivalente de tres mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de diez a veinte años de prisión, multa de doscientas a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización y destitución e inhabilitación de diez a veinte años para desempeñar otro empleo, cargo o comisión públicos.
 
 ### CAPITULO X. INTIMIDACION
 
@@ -3003,19 +2989,19 @@ III.- El servidor público que por sí o por interpósita persona, sustraiga, de
 
 Al responsable del delito de ejercicio abusivo de funciones se le impondrán las siguientes sanciones:
 
-((REFORMADA, P.O. 8 DE JUNIO DE 2017)
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2022)</small>
 
-I.- Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo no exceda de tres mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización;
+I.- Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo no exceda de tres mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de cuatro a diez años de prisión, multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2022)</small>
 
-II.- Cuando la cuantía de las operaciones exceda de tres mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de seis a catorce años de prisión, multa de doscientas a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización;
+II.- Cuando la cuantía de las operaciones exceda de tres mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de diez a veinte años de prisión, multa de doscientas a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización;
 
 III.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2022)</small>
 
-IV.- Cuando por cualquier circunstancia no sea posible determinar el monto de las operaciones que constituyan las conductas señaladas en el artículo que antecede, la sanción a imponer será de seis meses a tres años de prisión y multa de cuarenta a ochenta veces el valor diario de la Unidad de Medida y Actualización, destitución del empleo, cargo o comisión, e inhabilitación de uno a tres años para desempeñar otro de carácter público.
+IV.- Cuando por cualquier circunstancia no sea posible determinar el monto de las operaciones que constituyan las conductas señaladas en el artículo que antecede, la sanción a imponer será de dos a seis años de prisión y multa de cuarenta a ochenta veces el valor diario de la Unidad de Medida y Actualización, destitución del empleo, cargo o comisión, e inhabilitación de uno a tres años para desempeñar otro de carácter público.
 
 > <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2021)</small>
 
@@ -3067,13 +3053,13 @@ Al responsable del delito de enriquecimiento ilícito se le impondrán las sigui
 
 I.- Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se logre acreditar;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2022)</small>
 
-II.- Cuando el monto a que ascienda el enriquecimiento ilícito no exceda de tres mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización; y
+II.- Cuando el monto a que ascienda el enriquecimiento ilícito no exceda de tres mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de cuatro a diez años de prisión, multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2022)</small>
 
-III.- Cuando el monto a que ascienda el enriquecimiento ilícito exceda de tres mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de seis a catorce años de prisión, multa de doscientas a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización.
+III.- Cuando el monto a que ascienda el enriquecimiento ilícito exceda de tres mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de diez a veinte años de prisión, multa de doscientas a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ## TITULO NOVENO. DELITOS COMETIDOS EN EL DESEMPEÑO DE FUNCIONES JUDICIALES O ADMINISTRATIVAS
 
@@ -3973,6 +3959,10 @@ Comete el delito de abandono de obligaciones alimenticias el que sin motivo just
 
 Al responsable del delito de abandono de obligaciones alimenticias se le impondrá una sanción de un año a seis años de prisión, y multa de hasta 200 veces el valor diario de la Unidad de Medida y Actualización, PRIVACIÓN DE DERECHOS RELATIVOS A LA FAMILIA y entrega de las cantidades que no fueron oportunamente suministradas a la familia.
 
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2022)</small>
+
+Si el adeudo excede de sesenta días, el Juez ordenará al Registro Civil el ingreso de los datos del sentenciado en el Registro de Deudores Alimentarios Morosos.
+
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2021)</small>
 
 La misma pena y multa se aplicará a quien estando obligado a informar acerca de los ingresos de quienes deban cumplir con la obligación alimentaria desobedezcan la orden judicial de hacerlo o informen con datos falsos.
@@ -3988,6 +3978,10 @@ Si el obligado tiene un ingreso económico variable se tomará como base diaria 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 Si no se puede determinar el monto del ingreso económico del obligado, pero notoriamente es superior al salario mínimo de la región, el Juez establecerá un porcentaje tomando en cuenta el número de personas que tienen derecho a los alimentos y la capacidad económica del obligado.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2022)</small>
+
+Una vez que el sentenciado cumpla con la reparación del daño, el Juez a petición de parte deberá ordenar al Registro Civil la cancelación de la inscripción.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2021)</small>
 
@@ -7072,3 +7066,39 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-121 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 138; 217, PÁRRAFO PRIMERO, FRACCIONES I Y II; 219, FRACCIONES I Y II; 221, FRACCIONES I Y II; 222, PÁRRAFO TERCERO; 223, FRACCIONES I Y II; 227, PÁRRAFO PRIMERO, FRACCIONES I, II Y IV; Y 231, FRACCIONES II Y III; Y SE ADICIONA EL PÁRRAFO OCTAVO AL ARTÍCULO 208, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-122 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 126, PÁRRAFOS CUARTO Y QUINTO; Y 138 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS, EN MATERIA DE IMPRESCRIPTIBILIDAD DE LA ACCIÓN Y DE SANCIONES PENALES DE LOS DELITOS SEXUALES COMETIDOS CONTRA PERSONAS MENORES DE EDAD”.]
+
+###### ARTÍCULO PRIMERO.
+
+El Presente Decreto entrará en vigor al día siguiente de su publicación en al (sic) Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-125 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS; LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS; EL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS; Y EL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS, CON RELACIÓN A LA CREACIÓN Y REGULACIÓN DEL REGISTRO DE DEUDORES ALIMENTARIOS MOROSOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se concede un plazo de 90 días, a partir de la entrada en vigor del presente Decreto, para la creación y operación del Registro Estatal de Deudores Alimentarios Morosos por parte del Registro Civil del Estado, así como para emitir los lineamientos conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Inmediatamente después de que el Registro Estatal de Deudores Alimentarios Morosos entre en funciones se deberá dar trámite a las resoluciones judiciales que se hubieren efectuado durante el periodo existente entre la entrada en vigor de este decreto y el inicio de operaciones del referido Registro.
