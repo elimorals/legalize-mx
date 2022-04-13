@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-fisica-y-deporte-de-la-ciudad-de-mexico-57769"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-04"
-last_updated: "2021-12-03"
+last_updated: "2022-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57769&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-12-12"
 
 LEY DE EDUCACIÓN FÍSICA Y DEPORTE DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ABRIL DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 4 de enero de 2008.
 
@@ -98,11 +98,13 @@ X. Cultura física: Sistema de categorías desprendidas del (sic) la actividad m
 
 XI. Liga: Organismo deportivo que tiene como finalidad agrupar, coordinar y estimular la formación de equipos para la práctica de una disciplina, independientemente de la denominación que adopte.
 
-> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ABRIL DE 2022)</small>
 
 ###### Artículo 3.
 
-La función social del deporte y la educación física es la de fortalecer la interacción e integración de la sociedad, para desarrollar de manera armónica las aptitudes físicas e intelectuales de las personas que contribuyan a fomentar la solidaridad como valor social; además de promover y estimular la actividad y recreación física como medios importantes para la preservación de la salud y la prevención de enfermedades.
+La función social del deporte y la educación física es la de fortalecer la interacción de la sociedad, para desarrollar de manera armónica las aptitudes físicas e intelectuales de las personas que contribuyan a fomentar la solidaridad como valor social; además de promover y estimular la actividad y recreación física como medios importantes para la preservación de la salud física y mental, así como la prevención de enfermedades.
+
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2013)</small>
 
 Los titulares de las oficinas de dependencias de la Administración Pública local, tendrán la obligación de fomentar la práctica de actividades físicas o deportivas entre sus trabajadores; se promoverán, de acuerdo a las características de cada área y oficina, programas de activación física en donde se dediquen al menos 20 minutos de la jornada laboral para estas actividades.
 
@@ -264,7 +266,9 @@ III.- Cuidar y vigilar que la infraestructura deportiva utilizada en sus prácti
 
 IV.- Informar a la Institución competente sobre el uso de los apoyos materiales o financieros recibidos, considerándose éstos como etiquetados quedando prohibido su utilización para fines distintos a los que fueron destinados de conformidad con el Reglamento y las disposiciones del Sistema de Cultura Física y Deporte de la Ciudad de México.
 
-V.- Fomentar la participación organizada de la sociedad a través del deporte;
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2022)</small>
+
+V.- Fomentar la participación organizada de la sociedad a través del deporte, sin discriminación.
 
 VI.- Participar en el desarrollo de la cultura del deporte, conforme a lo dispuesto en esta Ley;
 
@@ -274,9 +278,9 @@ VII.- Mantener en óptimas condiciones de uso y mantenimiento las instalaciones 
 
 VIII.- Proporcionar la vigilancia y resguardo de las instalaciones; así como la seguridad para los deportistas que entrenen o compitan en ellas;
 
-> <small>(REFORMADA, G.O. 8 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2022)</small>
 
-IX.- Promover medidas necesarias para erradicar la violencia en todos los espacios deportivos y de recreación, además de fomentar los principios encaminados a la prevención de las adicciones y farmacodependencia.
+IX.- Promover medidas necesarias para erradicar la violencia y la discriminación en todos los espacios deportivos y de recreación, además de fomentar los principios encaminados a la prevención de las adicciones y farmacodependencia; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 8 DE AGOSTO DE 2013)</small>
 
@@ -402,9 +406,9 @@ XVI.- Promover entre la sociedad, alternativas de financiamiento que permitan in
 
 XVII.- Otorgar reconocimientos y estímulos a deportistas, incluidos los deportistas con discapacidad, en las entidades u organismos públicos sociales y privados de los Órganos Político-Administrativos de las Demarcaciones Territoriales de la Ciudad de México que se hayan distinguido en el deporte o en la difusión, promoción, fomento o investigación en materia deportiva;
 
-> <small>(REFORMADA, G.O. 3 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2022)</small>
 
-XVIII.- Efectuar verificaciones anuales a las instalaciones deportivas de la Ciudad de México, a efecto de que se encuentren en óptimas condiciones de uso y mantenimiento; así como equipadas con todos y cada uno de los elementos materiales necesarios para la práctica de cada especialidad; y en su caso podrán vetar el uso de cualquier instalación que no cumpla con los requisitos de seguridad; Dicha verificación se reportará en un informe anual que detallará las condiciones de la infraestructura deportiva y que estará públicamente disponible en el portal de Internet del Instituto.
+XVIII.- Efectuar verificaciones anuales a las instalaciones deportivas de la Ciudad de México, en coordinación con la unidad administrativa de Gestión Integral de Riesgos y Protección Civil de las alcaldías, a efecto de que se encuentren en óptimas condiciones de uso y mantenimiento; así como equipadas con todos y cada uno de los elementos materiales necesarios para la práctica de cada especialidad; y en su caso podrán vetar el uso de cualquier instalación que no cumpla con los requisitos de seguridad; dicha verificación se reportará en un informe anual que detallará las condiciones de la infraestructura deportiva y que estará públicamente disponible en el portal de Internet del Instituto.
 
 > <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -422,9 +426,13 @@ XXII. Contará en cada una de las demarcaciones territoriales con Unidades de In
 
 XXIII. Otorgar el aval para la realización de eventos deportivos selectivos y recreativos que se lleven a cabo en la Ciudad de México;
 
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2022)</small>
 
-XXIV. Fomentar programas para dar atención y eliminar la discriminación en el deporte y la actividad física en la Ciudad de México;
+XXIV. Fomentar programas y proponer políticas públicas para el desarrollo de la actividad física y el deporte en zonas con población en situación de pobreza, marginación y rezago social para dar atención y eliminar la discriminación en el deporte y la actividad física;
+
+> <small>(ADICIONADA, G.O. 13 DE ABRIL DE 2022)</small>
+
+XXIV Bis. Promover estrategias, metodologías, programas de investigación, contenidos, materiales, programas y planes institucionales en materia de cultura física y deporte;
 
 > <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -478,9 +486,9 @@ IX. Las dieciséis personas titulares de la Dirección del Área Deportiva de ca
 
 X. Una persona representante de la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México;
 
-> <small>(REFORMADO, G.O. 3 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.O. 13 DE ABRIL DE 2022)</small>
 
-Las personas representantes señaladas en las fracciones V, VI, VII y VIII serán nombrados por la persona titular de la Dirección General del Instituto del Deporte de la Ciudad de México, tomando como base su dinamismo en el fomento y desarrollo del deporte, y por su destacada labor deportiva o representatividad que se encuentren previamente inscritos en el Registro del Deporte de la Ciudad de México.
+Las personas representantes señaladas en las fracciones V, VI, VII y VIII serán nombradas por la persona titular de la Dirección General del Instituto del Deporte de la Ciudad de México, tomando como base su dinamismo en el fomento y desarrollo del deporte, la perspectiva de género y por su destacada labor deportiva o representatividad que se encuentren previamente inscritos en el Registro del Deporte de la Ciudad de México.
 
 Los integrantes del Consejo desempeñarán sus funciones de manera honorífica de acuerdo a las disposiciones previstas en el reglamento correspondiente.
 
@@ -822,11 +830,13 @@ El Instituto del Deporte podrá suscribir convenios con las universidades e inst
 
 Así como con el fin de hacer compatibles los estudios con los entrenamientos y la asistencia a competiciones del colectivo de deportistas de alto rendimiento, para la puesta en marcha de tutorías académicas que presten apoyo a quienes tengan dificultades para mantener el ritmo normal de asistencia.
 
-> <small>(ADICIONADO, G.O. 8 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ABRIL DE 2022)</small>
 
 ###### Artículo 49 Bis.
 
-El Instituto del Deporte promoverá ante las diversas instancias del Gobierno, el rescate y acondicionamiento de parques, plazas y demás espacios públicos en donde sea factible la instalación de equipos y accesorios especiales destinados a la práctica de la cultura física.
+El Instituto del Deporte promoverá ante las diversas instancias del Gobierno, el rescate y acondicionamiento de parques, plazas y demás espacios públicos en donde sea factible la instalación de equipos y accesorios especiales destinados a la práctica de la cultura física, procurando que sean accesibles bajo el principio de diseño universal.
+
+> <small>(ADICIONADO, G.O. 8 DE AGOSTO DE 2013)</small>
 
 Para ello, el Instituto promoverá entre la administración pública local y los sectores social y privado, convenios de colaboración que permitan la adecuación, equipamiento y uso de dichos espacios públicos con la finalidad de propiciar su rescate e incentivar el desarrollo de la cultura física de la comunidad.
 
@@ -962,9 +972,11 @@ Se declara de utilidad social e interés público la construcción, remodelació
 
 Los recursos obtenidos mediante autogenerados, obligatoriamente se deberán destinar para estos fines en las instalaciones deportivas en que fueron recaudados.
 
+> <small>(REFORMADO, G.O. 13 DE ABRIL DE 2022)</small>
+
 ###### Artículo 64.
 
-En la construcción de nuevas instalaciones deportivas, así como en el mejoramiento, equipamiento y rehabilitación de los actuales espacios se fomentará el uso de energías, tecnologías y combustibles alternativos.
+En la construcción de nuevas instalaciones deportivas, así como en el mejoramiento, equipamiento y rehabilitación de los actuales espacios se fomentará el uso de energías, tecnologías y combustibles alternativos y renovables.
 
 ###### Artículo 65.
 
@@ -1231,3 +1243,13 @@ G.O. 3 DE DICIEMBRE DE 2021.
 PRIMERO. Remítase a la Jefatura de Gobierno para su Promulgación y Publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 13 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 3, PÁRRAFO PRIMERO; 17, FRACCIONES V Y IX; 23, FRACCIONES XVIII Y XXIV; 25, SEGUNDO PÁRRAFO; 49 BIS, PÁRRAFO PRIMERO Y 64; Y SE ADICIONA LA FRACCIÓN XXIV BIS AL ARTÍCULO 23, TODOS DE LA LEY DE EDUCACIÓN FÍSICA Y DEPORTE DE LA CIUDAD DE MÉXICO; Y SE MODIFICA LA FRACCIÓN XIV Y SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 71 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
