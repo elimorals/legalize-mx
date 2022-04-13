@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-fondo-nacional-de-pensiones-de-los-8158
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-07"
-last_updated: "2015-05-29"
+last_updated: "2022-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81587&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-04-14"
 
 REGLAMENTO ORGÁNICO DEL FONDO NACIONAL DE PENSIONES DE LOS TRABAJADORES AL SERVICIO DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ABRIL DE 2022.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el martes 7 de junio de 2011.
 
@@ -3479,55 +3479,17 @@ El PENSIONISSSTE en la integración del Consejo de Administración, del Comité 
 
 La participación de los Consejeros Técnicos en los Comités de Inversión y de Riesgo Financiero de las Sociedades de Inversión y en el de Riesgo Operativo del PENSIONISSSTE, será conforme al procedimiento que al efecto apruebe el Consejo de Administración de las Sociedades de Inversión, a propuesta del Vocal Ejecutivo, los que podrán acordar la creación de órganos auxiliares que los apoyen en el cumplimiento de sus funciones, de acuerdo con los lineamientos que al efecto apruebe la Comisión Ejecutiva y expida el Director General, sin perjuicio de las obligaciones que en su caso determine la normatividad aplicable.
 
-> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2022)</small>
 
 ###### Artículo 181.
 
-El PENSIONISSSTE, en relación con las Sociedades de Inversión Básicas, vigilará que el Consejo de Administración de cada una de ellas, esté integrado por diez miembros con voz y voto considerando la participación siguiente:
+Los Consejos de Administración de las Sociedades de Inversión Básicas y Adicionales estarán integrados conforme lo establezca la normatividad aplicable a los Sistemas de Ahorro para el Retiro.
 
-I. El Director General, quien lo presidirá;
+La constitución de los Consejos de Administración de las Sociedades de Inversión y el procedimiento para la designación de sus miembros deberán ser aprobadas (sic) por la Comisión Ejecutiva del PENSIONISSSTE a propuesta del Vocal Ejecutivo, en la cual se deberán considerar tres representantes de las organizaciones de los trabajadores, uno de la Secretaría de Hacienda y Crédito Público y uno del Banco de México, que participen en la Comisión Ejecutiva.
 
-II. El Vocal Ejecutivo del PENSIONISSSTE, quien lo presidirá en ausencia del primero;
+###### Artículo 181 Bis.
 
-III. Tres Consejeros Técnicos que cumplan con los requisitos y formalidades establecidos por la CONSAR; y
-
-IV. Cinco Consejeros de la Comisión Ejecutiva del PENSIONISSSTE, quienes serán:
-
-a) Un representante de la Secretaría de Hacienda y Crédito Público;
-
-b) Un representante del Banco de México, y
-
-c) Tres representantes provenientes de las organizaciones de trabajadores.
-
-Para efecto de los Consejos de Administración de las Sociedades de Inversión Básicas, los miembros señalados en la fracción IV, tendrán un suplente que podrá cubrir sus ausencias y que deberá ser el mismo que tengan ante la Comisión Ejecutiva.
-
-El procedimiento para designar a los Consejeros Técnicos y a los Consejeros Miembros a los que hace referencia el presente artículo será aprobado por la Comisión Ejecutiva a propuesta del Vocal Ejecutivo.
-
-El Contralor Normativo y el o los Comisarios nombrados de conformidad con la Ley General de Sociedades Mercantiles, deberán ser convocados a todas las sesiones del Consejo de Administración de las Sociedades de Inversión Básicas en las cuales participarán con voz, pero sin voto.
-
-> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2014)</small>
-
-Artículo 181 bis. El PENSIONISSSTE, en relación con las Sociedades de Inversión Adicionales que constituya y opere, vigilará que el Consejo de Administración de cada una de ellas esté integrado por un mínimo de 8 miembros con voz y voto, considerando la participación siguiente:
-
-I. El Vocal Ejecutivo quien lo presidirá;
-
-II. El Subdirector de Inversiones, quien lo presidirá en ausencia del Vocal Ejecutivo;
-
-III. Un Consejero de la Comisión Ejecutiva, el cual será un representante de la Secretaría de Hacienda y Crédito Público;
-
-IV. El Secretario de Finanzas o su equivalente en la Entidad u organización del cual se administren los recursos correspondientes, o bien, el Director General del Instituto de Seguridad Social estatal respectivo, y
-
-V. Cuatro Consejeros Técnicos, de los cuales uno será designado directamente por el PENSIONISSSTE, pudiendo ser los tres restantes, representantes designados por las organizaciones de trabajadores de la Entidad de la que se administren los recursos correspondientes.
-
-Para efecto de los Consejos de Administración de las Sociedades de Inversión Adicionales, el miembro designado en la fracción III, tendrá un suplente que podrá cubrir sus ausencias, debiendo ser el mismo que tenga ante la Comisión Ejecutiva.
-
-Para efecto del integrante designado en la fracción IV, el nombramiento podrá recaer en un suplente que designe el Consejero titular.
-
-Para ocupar el cargo de Consejero Técnico a que se refiere la fracción V se requiere ser mexicano residente en territorio nacional, estar en pleno goce y ejercicio de sus derechos civiles y políticos, así como contar con experiencia técnica y administrativa.
-
-Los Consejeros Técnicos no deberán ser servidores públicos y deberán acreditar los demás requisitos que al efecto establezca la Ley del SAR, su Reglamento o las disposiciones de carácter general emitidas por CONSAR.
-
-El Contralor Normativo y el o los Comisarios nombrados de conformidad con la Ley General de Sociedades Mercantiles, deberán ser convocados a todas las sesiones del Consejo de Administración de las Sociedades de Inversión Adicionales en las cuales participarán con voz, pero sin voto.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 2022)
 
 ###### Artículo 182.
 
@@ -3762,3 +3724,9 @@ D.O.F. 29 DE MAYO DE 2015.
 PRIMERO. Esta reforma al Reglamento Orgánico del Fondo Nacional de Pensiones de los Trabajadores al Servicio del Estado entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a esta Reforma.
+
+D.O.F. 13 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO 60.1377.2022 MEDIANTE EL CUAL LA JUNTA DIRECTIVA APRUEBA LA REFORMA DEL REGLAMENTO ORGÁNICO DEL FONDO NACIONAL DE PENSIONES DE LOS TRABAJADORES AL SERVICIO DEL ESTADO”.]
+
+PRIMERO. Esta reforma al Reglamento Orgánico del Fondo Nacional de Pensiones de los Trabajadores al Servicio del Estado entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
