@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2022-03-02"
+last_updated: "2022-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -2754,6 +2754,10 @@ Los planes municipales de desarrollo precisarán los objetivos generales, estrat
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2020)</small>
 
 Los programas contemplados en el Plan Municipal de Desarrollo en todos los casos incorporarán la perspectiva de género desde el diseño y ejecución hasta la evaluación del desempeño institucional. También, deberá contener un programa que establezca estrategias para contribuir con la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2022)</small>
+
+El plan municipal de desarrollo contendrá programas, procesos, proyectos y protocolos tendientes a promover y garantizar la inclusión, accesibilidad de las personas con discapacidad, cuyo objeto se enfoque en la eliminación de barreras de toda índole y le impida el desarrollarse en un entorno equitativo y seguro.
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
@@ -6506,6 +6510,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 2 DE MARZO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-127 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XVII RECORRIÉNDOSE LA ACTUAL PARA SER XVIII AL ARTÍCULO 64, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-136 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO TERCERO, RECORRIENDO EL ACTUAL PÁRRAFO EN SU ORDEN NATURAL AL ARTÍCULO 184 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
