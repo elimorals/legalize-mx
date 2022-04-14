@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-para-el-acceso-a-los-servicios-del-tribunal-173062"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-05-29"
-last_updated: "2020-05-29"
+last_updated: "2022-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173062&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 REGLAMENTO PARA EL ACCESO A LOS SERVICIOS DEL TRIBUNAL ELECTRÓNICO DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2022.
 
 Reglamento publicado en la Edición Vespertina Extraordinario Número 4 del Periódico Oficial del Estado de Tamaulipas, el viernes 29 de mayo de 2020.
 
@@ -61,6 +61,10 @@ Administrador: Será el titular de la Dirección de Informática del Poder Judic
 
 Autorización: Es el consentimiento explícito del funcionario judicial facultado para ello y que permitirá al usuario solicitante realizar una función determinada.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE ABRIL DE 2022)</small>
+
+Carpeta electrónica: Es el conjunto de documentos digitalizados, promociones electrónicas, constancias actuariales y resoluciones realizadas en los sistemas de gestión del Poder Judicial, almacenados en sus bases de datos, constituyendo una copia electrónica fiel y exacta de los documentos que integran la carpeta física en los asuntos del Sistema Penal Acusatorio, por lo que éste prevalecerá sobre dicha copia.
+
 Consulta electrónica: Acto mediante el cual un usuario revisa la información que se encuentra en la base de datos del Tribunal Electrónico a la cual se le ha permitido el acceso.
 
 Contraseña de Firma Electrónica Avanzada: Es una clave compuesta de cuatro a ocho caracteres alfanuméricos asignada por el Usuario a un Certificado Digital y que contiene una Firma Electrónica Avanzada.
@@ -81,7 +85,9 @@ Notificación Personal Electrónica: Proceso mediante el cual se harán saber le
 
 Página Electrónica: Pantallas de acceso de los sistemas computacionales e información que mediante Internet pública el Poder Judicial del Estado.
 
-Promoción Electrónica: Escrito relacionado a un expediente en particular redactado y enviado por el Usuario a través del sistema Tribunal Electrónico.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2022)</small>
+
+Promoción Electrónica: Escrito relacionado a un expediente electrónico o carpeta electrónica en particular redactado y enviado por el Usuario a través del sistema Tribunal Electrónico.
 
 Servicios Accesorios: Los señalados en los artículos 38, 39, 40 y 41 de este Reglamento.
 
@@ -103,9 +109,13 @@ Usuario: Se denomina así a toda aquella persona que hace uso de los servicios d
 
 El sistema del Tribunal Electrónico, en términos de la Ley Orgánica del Poder Judicial del Estado, tendrá como principales servicios electrónicos los siguientes:
 
-a) La formación del expediente electrónico a través de la generación de las resoluciones judiciales en el sistema y la digitalización de documentos;
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2022)</small>
 
-b) La consulta de expedientes electrónicos;
+a) La formación del expediente electrónico o carpeta electrónica a través de la generación de las resoluciones judiciales en el sistema y la digitalización de documentos;
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2022)</small>
+
+b) La consulta de expedientes electrónicos o carpetas electrónicas;
 
 c) La recepción electrónica de promociones o peticiones diversas;
 
@@ -197,13 +207,17 @@ La base de datos del Tribunal Electrónico se mantendrá actualizada diariamente
 
 ### CAPÍTULO V. De la consulta de expedientes electrónicos
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2022)</small>
+
 ###### Artículo 14.
 
-Las partes en juicio podrán solicitar, de forma expresa, incluso desde la primera promoción, su interés de consultar electrónicamente el expediente en el que actúen.
+Las partes dentro de los procedimientos jurisdiccionales podrán solicitar, de forma expresa, incluso desde la primera promoción, su interés de consultar electrónicamente el expediente o carpeta en el que actúen.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2022)</small>
 
 ###### Artículo 15.
 
-Se requerirá autorización por cada expediente que se desee consultar electrónicamente.
+Se requerirá autorización por cada expediente electrónico o carpeta electrónica que se desee consultar electrónicamente.
 
 ###### Artículo 16.
 
@@ -211,7 +225,9 @@ Al contar con la autorización respectiva, se podrá consultar del Tribunal Elec
 
 Asimismo, el Usuario tendrá derecho a los servicios accesorios del sistema a que se refieren los artículos 38, 39, 40 y 41 de este Reglamento.
 
-Cuando haya una diferencia de carácter técnico relativo a captura de la información, será responsabilidad del administrador del sistema hacer esta corrección, una vez notificado de esa situación. Si la diferencia implica la existencia de una resolución judicial distinta en el expediente físico y en el expediente electrónico, se hará del conocimiento del Supremo Tribunal de Justicia o al Consejo de la Judicatura, según corresponda, para que se actúe en los términos del último párrafo del artículo 18 de este Reglamento.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2022)</small>
+
+Cuando haya una diferencia de carácter técnico relativo a captura de la información, será responsabilidad del administrador del sistema hacer esta corrección, una vez notificado de esa situación. Si la diferencia implica la existencia de una resolución judicial distinta en el expediente físico y en el expediente electrónico, o bien en la carpeta física y la carpeta electrónica, se hará del conocimiento del Supremo Tribunal de Justicia o al Consejo de la Judicatura, según corresponda, para que se actúe en los términos del último párrafo del artículo 19 de este Reglamento.
 
 ###### Artículo 17.
 
@@ -221,9 +237,11 @@ Para cuestiones estadísticas, cada acceso a la página electrónica del Tribuna
 
 Las resoluciones judiciales se generarán a través del sistema de gestión, con excepción de aquéllas que por su naturaleza se realicen fuera del recinto judicial, o bien, por fuerza mayor.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2022)</small>
+
 ###### Artículo 19.
 
-Las oficialías de partes, las centrales de actuarios, cuando la haya, y los juzgados tienen la obligación de digitalizar todos los documentos que se alleguen al expediente por las partes o por los funcionarios judiciales, sin excepción alguna y asegurándose del cumplimiento de la calidad de la imagen. En este caso el Secretario dará cuenta de las promociones recibidas, a más tardar dentro de veinticuatro horas.
+Las oficialías de partes, las centrales de actuarios, cuando la haya, los juzgados y las Salas de Audiencias del Sistema Penal Acusatorio y Oral, tienen la obligación de digitalizar todos los documentos que se alleguen al expediente o carpeta por las partes o por los funcionarios judiciales, sin excepción alguna y asegurándose del cumplimiento de la calidad de la imagen. En este caso el Secretario de Acuerdos o el Jefe de Unidad de Seguimiento de Causas, o quien haga sus veces, darán cuenta de las promociones recibidas, a más tardar dentro de veinticuatro horas.
 
 El Supremo Tribunal de Justicia y el Consejo de la Judicatura vigilarán el debido cumplimiento de este artículo en los términos de ley, fijando y sancionando la responsabilidad administrativa que corresponda.
 
@@ -231,53 +249,73 @@ El Supremo Tribunal de Justicia y el Consejo de la Judicatura vigilarán el debi
 
 Sólo podrán visualizarse las promociones una vez que haya sido publicado el acuerdo recaído a las mismas. Las resoluciones judiciales y las promociones ligadas a ellas estarán disponibles el mismo día de su publicación, para lo cual se hará una replicación en el sistema para actualizar la información.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2022)</small>
+
 ###### Artículo 21.
 
-Los usuarios autorizados para la visualización completa de expedientes electrónicos podrán ser dados de baja a petición propia, y tratándose de usuarios facultados sólo para oír y recibir notificaciones, a petición de la parte que dio dicha autorización. En los casos en que se nombre a un nuevo representante, el juzgado deberá dar de baja, en el sistema de consulta de expedientes electrónicos, al anterior representante, en su caso.
+Los usuarios autorizados para la visualización completa de expedientes electrónicos o carpetas electrónicas podrán ser dados de baja a petición propia, y tratándose de usuarios facultados sólo para oír y recibir notificaciones, a petición de la parte que dio dicha autorización. En los casos en que se nombre a un nuevo representante, el Secretario de Acuerdos o el Jefe de Unidad de Seguimiento de Causas, o quien haga sus veces, deberán dar de baja en el sistema de consulta de expedientes electrónicos o carpetas electrónicas, al anterior representante, en su caso.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2022)</small>
 
 ###### Artículo 22.
 
-El administrador del sistema mantendrá una estadística actualizada de la consulta de expedientes en forma general y particular. Igualmente es su responsabilidad generar herramientas para que la consulta a los expedientes electrónicos se realice en las condiciones idóneas para el continuo desarrollo del Tribunal Electrónico.
+El administrador del sistema mantendrá una estadística actualizada de la consulta electrónica de expedientes o carpetas en forma general y particular. Igualmente es su responsabilidad generar herramientas para que la consulta a los expedientes electrónicos o carpetas electrónicas se realice en las condiciones idóneas para el continuo desarrollo del Tribunal Electrónico.
 
 ### CAPÍTULO VI. Del envío de promociones electrónicas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2022)</small>
+
 ###### Artículo 23.
 
-El usuario que cuente con Certificado Digital podrá solicitar al órgano jurisdiccional correspondiente el acceso al servicio de Promoción Electrónica en cada expediente en el que sea parte o esté autorizado, cuando así lo desee. Para tal efecto deberá cumplir con lo siguiente:
+El usuario que cuente con Certificado Digital podrá solicitar al órgano jurisdiccional correspondiente el acceso al servicio de Promoción Electrónica en cada expediente o carpeta en el que sea parte o esté autorizado, cuando así lo desee. Para tal efecto deberá cumplir con lo siguiente:
 
 1. Presentar escrito dirigido a la autoridad que conoce del asunto, debiendo señalar el nombre del usuario con el cual se registró en el Tribunal Electrónico, y estampar su firma;
 
-2. Manifestar claramente su solicitud de presentar promociones vía electrónica, como lo indican los artículos 22 bis del Código de Procedimientos Civiles del Estado, así como en el 26 bis del Código de Procedimientos Penales, y los artículos 51,82 inciso b), y 87 del Código Nacional de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2022)</small>
+
+2. Manifestar claramente su solicitud de presentar promociones vía electrónica, como lo indican los artículos 22 bis del Código de Procedimientos Civiles del Estado, así como en el 26 bis del Código de Procedimientos Penales, y los artículos 51, 82 apartado I, inciso b), y 87 del Código Nacional de Procedimientos Penales.
 
 3. Hacer mención expresa del número de expediente en el cual solicita la autorización;
 
 4. Tratándose de varios usuarios autorizados se deberán señalar sus respectivos nombres de usuario, y;
 
-5. Deberá presentarse una solicitud por expediente.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2022)</small>
+
+5. Deberá presentarse una solicitud por expediente o carpeta.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2022)</small>
 
 ###### Artículo 24.
 
-Una vez presentada la solicitud y en caso de que la autoridad jurisdiccional que conoce del asunto considere procedente la misma, el servicio de Promoción Electrónica estará habilitado hasta que concluya el expediente o hasta que el usuario presente una promoción solicitando la cancelación de los mismos.
+Una vez presentada la solicitud y en caso de que la autoridad jurisdiccional que conoce del asunto considere procedente la misma, el servicio de Promoción Electrónica estará habilitado hasta que concluya el expediente o carpeta o hasta que el usuario presente una promoción solicitando la cancelación de los mismos.
 
 ###### Artículo 25.
 
 Únicamente serán válidas las promociones electrónicas emitidas con los Certificados Digitales otorgados por la entidad certificadora del Consejo de la Judicatura del Poder Judicial del Estado.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2022)</small>
+
 ###### Artículo 26.
 
-Cuando las partes del proceso han autorizado a una o más personas para presentar promociones, podrán revocar dicha autorización por petición escrita o promoción electrónica al juez o magistrado que conoce del procedimiento, quien deberá ordenar la cancelación en el sistema inmediatamente después de que se dicte el acuerdo de conformidad.
+Cuando las partes del proceso han autorizado a una o más personas para presentar promociones, podrán revocar dicha autorización por petición escrita o promoción electrónica al juez o magistrado que conoce del procedimiento, quien deberá ordenar la cancelación en el sistema inmediatamente después de que se dicte el acuerdo de conformidad. Dicha cancelación, deberá realizarse por el Secretario de Acuerdos o por el Jefe de Unidad de Seguimiento de Causas, o quien haga sus veces, según corresponda.
 
 ###### Artículo 27.
 
 El envío de promociones electrónicas se realizará mediante los programas de cómputo idóneos para esta función, los cuales usarán la tecnología de firma electrónica avanzada.
 
-A través del Tribunal Electrónico se podrán presentar promociones en los días u horas inhábiles, de acuerdo a lo especificado en los artículos 36 del Código del (sic) Procedimientos Civiles y 26 bis del Código de Procedimientos Penales del Estado y del Código Nacional de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2022)</small>
+
+A través del Tribunal Electrónico se podrán presentar promociones de los procedimientos jurisdiccionales únicamente en días hábiles y durante el horario de las 8:00 a las 24:00 horas, de acuerdo a lo especificado en los artículos 36 del Código de Procedimientos Civiles, 26 bis del Código de Procedimientos Penales del Estado y del Código Nacional de Procedimientos Penales. Sin embargo, los usuarios podrán consultar sus expedientes y acceder a sus notificaciones electrónicas en días inhábiles o en horario diverso al referido.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2022)</small>
 
 ###### Artículo 28.
 
-Los secretarios designados para revisar el módulo de recepción que se encuentra en las unidades de cómputo del juzgado, o de la sala, a primera hora laboral del día, así como al final de la jornada laboral, imprimirán las promociones que se hayan presentado en forma electrónica. El sistema adicionará a cada promoción la hora y fecha en que se generó, así como el usuario que presentó la misma.
+Los Secretarios o Jefes de Unidad de Seguimiento de Causas, o quien haga sus veces, designados para revisar el módulo de recepción que se encuentran en las unidades de cómputo del juzgado, salas de audiencias o de la Sala, a primera hora laboral del día, así como al final de la jornada laboral, imprimirán las promociones que se hayan presentado en forma electrónica. El sistema adicionará a cada promoción la hora y fecha en que se generó, así como el usuario que presentó la misma.
 
-Una vez impresas las promociones por el secretario, certificará con su firma que han sido recibidas por ese medio y procederá conforme a lo establecido en los artículos 23 del Código de Procedimientos Civiles y 26 del Código de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2022)</small>
+
+Una vez impresas las promociones por el Secretario de Acuerdos o el Jefe de Unidad de Seguimiento de Causas, o quien haga sus veces, en su caso, certificará con su firma que han sido recibidas por ese medio y procederá conforme a lo establecido en los artículos 23 del Código de Procedimientos Civiles y 26 del Código de Procedimientos Penales.
 
 El Supremo Tribunal de Justicia o el Consejo de la Judicatura, según sea el caso, impondrán la sanción correspondiente en caso de que no se cumpla lo previsto en este artículo.
 
@@ -287,25 +325,33 @@ Cuando por fallas técnicas propias del sistema del Tribunal Electrónico no sea
 
 ### CAPÍTULO VII. De las notificaciones electrónicas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2022)</small>
+
 ###### Artículo 30.
 
-El usuario que cuente con Certificado Digital, podrá solicitar al órgano jurisdiccional correspondiente el acceso al servicio de Notificación Personal Electrónica en cada expediente en el que sea parte o esté autorizado, cuando así lo desee el acceso al servicio de Notificación Personal Electrónica en cada expediente en el que sea parte o esté autorizado. Para tal efecto deberá cumplir con lo siguiente:
+El usuario que cuente con Certificado Digital, podrá solicitar al órgano jurisdiccional correspondiente el acceso al servicio de Notificación Personal Electrónica en cada expediente o carpeta en el que sea parte o esté autorizado, cuando así lo desee. Para tal efecto deberá cumplir con lo siguiente:
 
 1. Presentar escrito dirigido a la autoridad que conoce del asunto, debiendo señalar el nombre del usuario con el cual se registró en el Tribunal Electrónico, y estampar su firma;
 
-2. Manifestar claramente su solicitud de ser notificado electrónicamente, como lo indican los artículos 68 bis del Código de Procedimientos Civiles del Estado, así como el 96 del de Procedimientos Penales del Estado y artículo 82 inciso b) del Código Nacional de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2022)</small>
+
+2. Manifestar claramente su solicitud de ser notificado electrónicamente, como lo indican los artículos 68 bis del Código de Procedimientos Civiles del Estado, así como el 96 del de Procedimientos Penales del Estado y artículo 82, apartado I, inciso b), del Código Nacional de Procedimientos Penales.
 
 3. Hacer mención expresa del número de expediente o carpeta procesal en el cual solicita la autorización;
 
 4. Tratándose de varios usuarios autorizados se deberán señalar sus respectivos nombres de usuarios, siempre y cuando estén autorizados en el expediente para oír y recibir notificaciones, y
 
-5. Deberá presentarse una solicitud por expediente.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2022)</small>
+
+5. Deberá presentarse una solicitud por expediente o carpeta.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2022)</small>
 
 ###### Artículo 31.
 
-Una vez presentada la solicitud, la autoridad jurisdiccional que conoce del asunto, procederá de acuerdo a los artículos 68 bis del Código de Procedimientos Civiles y 96 del Código de Procedimientos Penales del Estado.
+Una vez presentada la solicitud, la autoridad jurisdiccional que conoce del asunto, procederá de acuerdo a los artículos 68 bis del Código de Procedimientos Civiles, 96 del Código de Procedimientos Penales del Estado y 82, apartado I, inciso c), del Código Nacional de Procedimientos Penales.
 
-En caso de resolver procedente la solicitud de Notificación Personal Electrónica estará habilitado hasta que concluya el expediente o hasta que el usuario presente una promoción solicitando la cancelación del mismo.
+En caso de resolver procedente la solicitud de Notificación Personal Electrónica estará habilitado hasta que concluya el expediente o carpeta o hasta que el usuario presente una promoción solicitando la cancelación del mismo.
 
 ###### Artículo 32.
 
@@ -319,9 +365,11 @@ El Tribunal Electrónico, por su reconocimiento legal, es un medio informativo q
 
 La notificación personal electrónica, se considera efectuada en la fecha, hora y minuto, que automáticamente el Tribunal Electrónico inserta en la cédula de notificación acorde con el servidor sicncronizado (sic) con la hora central de la Ciudad de México que provee Internet, al momento en que el usuario lo visualiza en la página web del Poder Judicial del Estado, la cual será agregada a los autos. Lo anterior se tendrá en cuenta para el cómputo de términos judiciales conforme a las leyes aplicables. En el entendido de que cuando el usuario se notifique en días u horas inhábiles, se iniciará el cómputo al día y hora hábil siguiente.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2022)</small>
+
 ###### Artículo 35.
 
-Quienes cuenten con la autorización para la notificación electrónica, están obligados a ingresar al sistema electrónico del Poder Judicial del Estado, todos los días y obtener la cédula de notificación con el registro a que se refiere el artículo anterior, en un plazo máximo de dos días hábiles a partir de que el órgano jurisdiccional la hubiere enviado. De no ingresar al sistema electrónico del Poder Judicial del Estado dentro del plazo señalado, el órgano jurisdiccional que corresponda tendrá por practicada la notificación surtiendo efectos al día posterior a los dos días hábiles siguientes, debiendo agregarse a los autos la constancia que el sistema del Tribunal Electrónico automáticamente genera, asentando la razón correspondiente el Secretario de Acuerdos.
+Quienes cuenten con la autorización para la notificación electrónica, están obligados a ingresar al sistema electrónico del Poder Judicial del Estado, todos los días y obtener la cédula de notificación con el registro a que se refiere el artículo anterior, en un plazo máximo de dos días hábiles a partir de que el órgano jurisdiccional la hubiere enviado. De no ingresar al sistema electrónico del Poder Judicial del Estado dentro del plazo señalado, el órgano jurisdiccional que corresponda tendrá por practicada la notificación surtiendo efectos al día posterior a los dos días hábiles siguientes, debiendo agregarse a los autos la constancia que el sistema del Tribunal Electrónico automáticamente genera, asentando la razón correspondiente el Secretario de Acuerdos, el Jefe de la Unidad de Seguimiento de Causas, o quien haga sus veces.
 
 ### CAPÍTULO VIII. De los medios de comunicación en el proceso
 
@@ -329,17 +377,23 @@ Quienes cuenten con la autorización para la notificación electrónica, están 
 
 Cuando se ordenen medios de comunicación en procesos llevados ante tribunales del estado, podrán enviarse a través del sistema Tribunal Electrónico. Estos documentos serán generados con la información contenida en la base de datos.
 
-Cuando se trate de exhortos o despachos se generará un expediente electrónico independiente al juicio de donde se derive.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2022)</small>
+
+Cuando se trate de exhortos o despachos se generará un expediente electrónico independiente al procedimiento jurisdiccional de donde se derive.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2022)</small>
 
 ###### Artículo 37.
 
-Una vez generado el medio de comunicación se enviará y recibirá a través de los módulos que indique el sistema, debiendo certificarse su recepción por el secretario de acuerdos que corresponda, de la misma forma que las promociones electrónicas. El envío por el sistema generará una constancia con los datos generales del medio de comunicación, mismos que se agregarán al expediente físico para que puedan computarse los términos respectivos. En el caso que para la diligenciación se requieran documentos anexos se prevendrá en ese sentido, radicándose una vez que sean presentados al órgano jurisdiccional. Tratándose del sistema penal acusatorio, dicha certificación será realizada por el jefe de seguimiento de causas, o en su caso, por el servidor judicial que realice dicha función.
+Una vez generado el medio de comunicación se enviará y recibirá a través de los módulos que indique el sistema, debiendo certificarse su recepción por el Secretario de Acuerdos, o quien haga sus veces, que corresponda, de la misma forma que las promociones electrónicas. El envío por el sistema generará una constancia con los datos generales del medio de comunicación, mismos que se agregarán al expediente o carpeta físicamente para que puedan computarse los términos respectivos. En el caso que para la diligenciación se requieran documentos anexos se prevendrá en ese sentido, radicándose una vez que sean presentados al órgano jurisdiccional. Tratándose del sistema penal acusatorio, dicha certificación será realizada por el Jefe de Unidad de Seguimiento de Causas, o en su caso, por el servidor judicial que realice dicha función.
 
 ### CAPÍTULO IX. De los servicios accesorios
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2022)</small>
+
 ###### Artículo 38.
 
-El Tribunal Electrónico generará una lista automática de expedientes que le han sido autorizados a cada usuario para consulta, a efecto de que se simplifique su revisión en la página de Internet. Esta lista se modificará en la medida que los juzgados o salas autoricen o revoquen el acceso a los expedientes electrónicos. De igual manera se dará una opción a los usuarios para que personalmente cancelen de esta lista los expedientes que deseen.
+El Tribunal Electrónico generará una lista automática de expedientes o carpetas que le han sido autorizados a cada usuario para consulta, a efecto de que se simplifique su revisión en la página de Internet. Esta lista se modificará en la medida que los juzgados, sistema de oralidad o Salas, autoricen o revoquen el acceso a los expedientes electrónicos o carpetas electrónicas. De igual manera se dará una opción a los usuarios para que personalmente cancelen de esta lista los expedientes o carpetas que deseen.
 
 ###### Artículo 39.
 
@@ -384,3 +438,19 @@ Así lo acordó el Pleno del Consejo de la Judicatura del Estado, con el voto qu
 Lo que se hace de su conocimiento para los efectos legales conducentes.
 
 Cd. Victoria, Tam, a 29 de Mayo de 2020.- ATENTAMENTE.- EL SECRETARIO EJECUTIVO.- LIC. ARNOLDO HUERTA RINCÓN.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE ABRIL DE 2022.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Primero.- Se reforman los artículos 3, 4, 14, 15, 16, 19, 21, 22, 23, 24, 26, 27, 28, 30, 31, 35, 36, 37 y 38 del Reglamento para el Acceso a los Servicios del Tribunal Electrónico del Poder Judicial del Estado de Tamaulipas, para en lo subsecuente quedar en los siguientes términos:
+
+[...]
+
+Segundo.- El presente acuerdo surtirá efectos a partir de esta propia fecha.
+
+Tercero.- Se declara que inicia el Servicio de Tribunal Electrónico en el Sistema Penal Acusatorio y Oral en la Tercera Región Judicial, que comprende las Salas de Audiencias de los Distritos Judiciales IV, XI y XIV, al considerarse que las condiciones materiales y técnicas lo permiten en dicha región; esto, a partir del uno de mayo del presente año.
+
+Cuarto.- Hágase del conocimiento de los órganos jurisdiccionales y administrativos, interesados, litigantes y público en general, así como a la (sic) al Fiscal General de Justicia del Estado, a la Comisión Estatal de Atención a las Víctimas del Estado y al Encargado de la Dirección General del Instituto de Defensoría Pública; publíquese el presente acuerdo en el Periódico Oficial del Estado, en los estrados de la Secretaría General de Acuerdos del Supremo Tribunal de Justicia, en los de la Secretaría Ejecutiva de este Consejo, así como en la página web del Poder Judicial del Estado de Tamaulipas, para los efectos legales conducentes.
