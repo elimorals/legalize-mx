@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1154
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-01"
-last_updated: "2021-12-27"
+last_updated: "2022-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 1 de julio de 2016.
 
@@ -1572,6 +1572,28 @@ i) Responsable de la ejecución de la obra por parte de la persona adjudicada y 
 j) Responsable de la ejecución de la obra por parte del sujeto obligado y sus datos de contacto.
 
 XI.- La información relativa a la Glosa de Gobierno.
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2022)</small>
+
+XII.- La información Detallada de los Patronatos de Museos o de cualquier otro tipo que ejerza recursos públicos, así como el concepto para lo cual son destinados:
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2022)</small>
+
+XIII.- En materia de Seguridad Publica, la información detallada de:
+
+1.- La Secretaría de Seguridad Pública del Estado;
+
+a) Número de detenciones;
+
+b) Número de órdenes de protección otorgadas por las autoridades competentes; y
+
+c) Numero de carpetas de supervisión que se trabajan en la Unidad de Medidas Cautelares y Suspensión Condicional del Proceso.
+
+2.- Las Secretarías de Seguridad Pública de los Municipios:
+
+a) Número de detenciones; y
+
+b) Número de órdenes de protección otorgadas por las autoridades competentes.
 
 Además de la información prevista en las fracciones anteriores, el Poder Ejecutivo deberá poner a disposición del público y actualizar la siguiente información:
 
@@ -3160,3 +3182,9 @@ P.O. 27 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 032. SE REFORMA EL TÍTULO CUARTO, POR ADICIÓN DE UN CAPÍTULO LL (SIC) BIS, DEL GOBIERNO ABIERTO, Y DEL ARTÍCULO 76 BIS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN”.]
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 110. SE ADICIONAN LAS FRACCIONES XII Y XIII DEL ARTÍCULO 96 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
