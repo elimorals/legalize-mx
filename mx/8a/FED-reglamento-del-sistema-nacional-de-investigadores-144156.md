@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sistema-nacional-de-investigadores-144156"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-09-21"
-last_updated: "2021-07-30"
+last_updated: "2022-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144156&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-09-07"
 
 REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ABRIL DE 2022.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 21 de septiembre de 2020.
 
@@ -843,13 +843,19 @@ Los apoyos económicos estarán exentos del pago del impuesto correspondiente, c
 
 Las y los integrantes del SNI podrán recibir el apoyo económico correspondiente cuando cumplan los siguientes requisitos:
 
-> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 15 DE ABRIL DE 2022)</small>
 
-I. Ser personal activo, vigente y remunerado en alguna institución pública de educación superior o centro de investigación del sector público en México.
+I. Ser personal activo, vigente y remunerado en alguna institución pública de educación superior o centro de investigación del sector público en México, salvo las excepciones previstas en esta fracción.
+
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
 
 Los servicios prestados deberán ser acreditados por medio de un comprobante de adscripción proporcionado en el formato y con las condiciones que establezca el CONACYT.
 
-Para las investigadoras y los investigadores que ocupen las Cátedras CONACYT, se entenderá que desarrollan las actividades de investigación humanística, científica y desarrollo tecnológico e innovación, en la institución beneficiada a la cual fueron comisionados por el CONACYT.
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 2022)</small>
+
+Se exceptúa de los requisitos previstos en el primer párrafo de esta fracción a las personas que formen parte del Programa de Investigadoras e Investigadores por México, así como a aquéllas que realicen Estancias Posdoctorales y cuenten con una beca del CONACYT para tales efectos. En estos casos se considerará como institución de adscripción aquélla en la que, conforme a la normativa aplicable, desarrollen las actividades de investigación humanística o científica, desarrollo tecnológico o innovación.
+
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
 
 Se exceptúa de los requisitos a los que se refiere esta fracción a las Investigadoras y los Investigadores Nacionales Eméritos.
 
@@ -1126,5 +1132,13 @@ D.O.F. 30 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE REFORMA EL REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES”.]
 
 PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Se derogan todas las disposiciones que se opongan al presente.
+
+D.O.F. 15 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMA EL REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES”.]
+
+ÚNICO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Se derogan todas las disposiciones que se opongan al presente.
