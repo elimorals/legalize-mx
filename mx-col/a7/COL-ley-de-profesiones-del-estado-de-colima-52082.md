@@ -4,7 +4,7 @@ identifier: "COL-ley-de-profesiones-del-estado-de-colima-52082"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-07"
-last_updated: "2019-12-07"
+last_updated: "2022-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LA LEY DE PROFESIONES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2022.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 7 de octubre de 2006.
 
@@ -1319,9 +1319,19 @@ Las actividades desempeñadas en las oficinas de los poderes del Estado o en los
 
 La Secretaría, a través de la Dirección, conforme al plan de Servicio Social Profesional, convocará a los profesionistas no colegiados que ejerzan en el Estado para participar en su ejecución.
 
-### CAPÍTULO IX. Del Consejo
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ABRIL DE 2022)</small>
 
-### CAPÍTULO X. De la Certificación Profesional
+### CAPÍTULO VIII BIS. De las Prácticas Profesionales
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 60 BIS. Para los efectos de esta Ley, por Prácticas Profesionales se entiende la actividad de carácter temporal y formativo que realicen las y los estudiantes fuera de la Institución Educativa con el fin de desarrollar, perfeccionar y consolidar las competencias adquiridas en el aula.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 60 BIS 1. Las empresas o instituciones del sector público o privado que participen en la formación de aptitudes, capacidades y experiencia de calidad de las y los estudiantes a través de las prácticas profesionales a que se refiere el Artículo 60 Bis de esta Ley, deberán considerarlas como experiencia laboral más no como una relación laboral, debiendo extender la constancia de terminación al concluir el periodo de práctica, que además describa las habilidades y capacidades adquiridas por el practicante durante dicho periodo.
+
+### CAPÍTULO IX. Del Consejo
 
 ###### ARTÍCULO 61.
 
@@ -1377,7 +1387,7 @@ La Secretaría resolverá sobre las impugnaciones planteadas con motivo de las r
 
 El funcionamiento del Consejo, estará determinado en el Reglamento, debiendo sesionar cuando menos tres veces al año.
 
-### CAPÍTULO XI. Del Mejoramiento Continuo
+### CAPÍTULO X. De la Certificación Profesional
 
 ###### ARTÍCULO 66.
 
@@ -1439,7 +1449,7 @@ El Consejo podrá hacer propuestas respecto al costo del proceso de certificaci�
 
 A efecto de que el profesionista certificado pueda obtener el refrendo correspondiente, deberá cumplir con los lineamientos de actualización profesional y acreditar la evaluación correspondiente.
 
-### CAPÍTULO XII. De las Visitas de Verificación
+### CAPÍTULO XI. Del Mejoramiento Continuo
 
 ###### ARTÍCULO 74.
 
@@ -1459,7 +1469,7 @@ II. La investigación e innovación para mejorar el ejercicio de la profesión; 
 
 III. La vinculación con instancias públicas y privadas.
 
-### CAPÍTULO XIII. De la Cancelación de Registro
+### CAPÍTULO XII. De las Visitas de Verificación
 
 ###### ARTÍCULO 77.
 
@@ -1505,7 +1515,7 @@ XII. El visitado, su representante o la persona con la que se haya entendido la 
 
 Para los efectos de las visitas de verificación, la cancelación de registros, la imposición de sanciones y el recurso administrativo, en lo no previsto por esta Ley y su Reglamento, se aplicará de manera supletoria la ley que en materia administrativa se aplique en el Estado.
 
-### CAPÍTULO XIV. De las Infracciones
+### CAPÍTULO XIII. De la Cancelación de Registro
 
 ###### ARTÍCULO 79.
 
@@ -1547,7 +1557,7 @@ La Secretaría también cancelará los registros a que alude esta Ley y su Regla
 
 La Secretaría, inscribirá en el libro de registro respectivo la anotación de cancelación, haciendo constar las causas que la motivan, debiendo publicarla en el Periódico Oficial del Estado dentro de los treinta días siguientes.
 
-### CAPÍTULO XV. De las Sanciones
+### CAPÍTULO XIV. De las Infracciones
 
 ###### ARTÍCULO 84.
 
@@ -1609,7 +1619,7 @@ VIII. Abstenerse de verificar el cumplimiento del Código de Ética por parte de
 
 IX. Incumplir con las obligaciones contenidas en esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
 
-### CAPÍTULO XVI. Del Recurso de Inconformidad
+### CAPÍTULO XV. De las Sanciones
 
 ###### ARTÍCULO 87.
 
@@ -1670,6 +1680,8 @@ IV. La reincidencia si la hubiese.
 ###### ARTÍCULO 91.
 
 Corresponde a la Secretaría la aplicación de las sanciones contenidas en el presente capítulo. Éstas no exentan de la responsabilidad que se pudiera derivar de alguna otra materia.
+
+### CAPÍTULO XVI. Del Recurso de Inconformidad
 
 ###### ARTÍCULO 92.
 
@@ -1928,3 +1940,11 @@ P.O. 7 DE DICIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO. El Ejecutivo Estatal contará con un plazo de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones respectivas a las disposiciones reglamentarias de estas leyes.
+
+P.O. 16 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 78.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 53 DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA, Y SE ADICIONA UN CAPÍTULO VIII BIS, A LA LEY DE PROFESIONES DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. La Secretaría de Educación y Cultura del Gobierno del Estado de Colima dispondrá las medidas que considere necesarias y suficientes para su cumplimiento, así como para hacer una amplia difusión del contenido de este Decreto.
