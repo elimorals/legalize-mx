@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2021-07-14"
+last_updated: "2022-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2022.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -629,13 +629,19 @@ Se deberá garantizar la paridad de género en los nombramientos de los cargos s
 
 La organización y funcionamiento del ayuntamiento y de la administración pública municipal será determinada de conformidad con esta Ley y el Reglamento del Gobierno Municipal que para tal efecto expida el ayuntamiento respectivo.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2022)</small>
+
 ###### ARTICULO 38.
 
-Los cabildos celebrarán sesiones cuantas veces sea necesario, para el oportuno despacho de los negocios de su competencia, las que no podrán ser menos de una vez cada quince días.
+Los cabildos celebrarán sesiones cuantas veces sea necesario, para el oportuno despacho de los negocios de su competencia, las que no podrán ser menos de una vez cada quince días, y que deberán ser video grabadas para generar constancia y quedar resguardadas en los archivos del Ayuntamientos (sic), salvo aquellas en las que se traten asuntos que por su relevancia deban ser privadas.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2022)</small>
 
 ###### ARTICULO 39.
 
-Las sesiones de los cabildos, serán públicas, salvo que exista motivo que justifique que sean privadas, lo cual será calificado previamente por el ayuntamiento. Las sesiones se celebrarán en la sala de cabildos o cuando la solemnidad lo requiera, en el lugar que sea declarado como recinto oficial. Los lugares en donde se llevan a cabo las sesiones, contarán con los espacios adecuados para la asistencia del público.
+Las sesiones de los cabildos, serán públicas, con pleno acceso a la ciudadanía, salvo que exista motivo que justifique que sean privadas, lo cual será calificado previamente por el ayuntamiento. Las sesiones se celebrarán en la sala de cabildos o cuando la solemnidad lo requiera, en el lugar que sea declarado como recinto oficial. Los lugares en donde se lleven a cabo las sesiones de cabildo contarán con los espacios adecuados para la asistencia del público.
+
+En caso de imposibilidad por causas de fuerza mayor, debidamente justificada, podrán utilizarse las Tecnológicas (sic) de la Información y Comunicación necesarias, para privilegiar que la ciudadanía tenga pleno acceso y conocimiento de las sesiones de cabildo.
 
 ###### ARTICULO 40.
 
@@ -1157,9 +1163,11 @@ Las faltas temporales de la presidenta o presidente municipal hasta por quince d
 
 Si alguno de los demás miembros del cabildo pide licencia o deja de desempeñar su cargo por cualquier causa, será sustituido temporal o definitivamente por su suplente y sólo en caso de impedimento o falta absoluta de éste, el cabildo designará por mayoría calificada a uno de los demás suplentes.
 
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2022)</small>
 
-ARTICULO 56 BIS.- La ausencia temporal o definitiva de alguno de los miembros del cabildo, será suplida de manera inmediata y, en ningún caso, ésta deberá exceder del término de tres días naturales posterior a la solicitud correspondiente.
+ARTICULO 56 BIS.- La ausencia temporal o definitiva de alguno de los miembros del cabildo, será suplida de manera inmediata y, en ningún caso, esta deberá exceder del término de tres días naturales posterior a la solicitud correspondiente.
+
+En caso de que un munícipe falte a cinco sesiones de manera ininterrumpida, sin causa justificada, será suspendido de su cargo y se llamará de inmediato al suplente para tomarle protesta de Ley, como lo dispone la Constitución en su artículo 90, fracción I, párrafo 11 inciso b) y el arábigo 35 fracción II de la Ley para Regular la Participación del Congreso en Asuntos Municipales.
 
 ###### ARTICULO 57.
 
@@ -2720,3 +2728,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los Ayuntamientos Municipales, adecuaran sus disposiciones reglamentarias, dentro de los 60 días naturales siguientes a la aprobación del presente decreto.
 
 TERCERO.- Se deroga el Decreto número 529 "Decreto para preparar la transmisión del Mando de los Gobiernos Municipales, publicado en el Periódico Oficial "El Estado de Colima" el sábado 30 de junio de 2012.
+
+P.O. 16 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 77.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 38, 39 Y 56 BIS DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
