@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-145350"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-25"
-last_updated: "2020-11-25"
+last_updated: "2022-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145350&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el miércoles 25 de noviembre de 2020.
 
@@ -746,6 +746,10 @@ XI. Los valores para la responsabilidad ciudadana y social, como el respeto por 
 Acompañamiento de los educandos en su trayectoria formativa
 
 1. El Personal docente acompañará a los educandos en sus trayectorias formativas en los distintos tipos, niveles, modalidades y opciones educativas, propiciando la construcción de aprendizajes interculturales, tecnológicos, científicos, humanísticos, sociales, biológicos, comunitarios y plurilingües, para acercarlos a la realidad, a efecto de interpretarla y participar en su transformación positiva.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2022)</small>
+
+2. En lo que respecta a su trayectoria formativa profesional, se entenderá también, por acompañamiento de los educandos, la implementación de programas de orientación vocacional, así como el de promover el establecimiento de acuerdos entre instituciones educativas y el sector productivo para impulsar las prácticas profesionales que permitan a los alumnos adquirir aptitudes, capacidades y experiencia de calidad, reforzar el aprendizaje del aula, identificar los intereses de especialización para el efecto de mejorar sus oportunidades de desarrollo profesional.
 
 ###### Artículo 54.
 
@@ -2150,3 +2154,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 RUBÉN PÉREZ ANGUIANO
 
 Firma.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 78.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 53 DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA, Y SE ADICIONA UN CAPÍTULO VIII BIS, A LA LEY DE PROFESIONES DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. La Secretaría de Educación y Cultura del Gobierno del Estado de Colima dispondrá las medidas que considere necesarias y suficientes para su cumplimiento, así como para hacer una amplia difusión del contenido de este Decreto.
