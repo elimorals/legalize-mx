@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-mitigacion-y-adaptacion-al-cambio-climatico-y-149749"
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-09"
-last_updated: "2021-06-09"
+last_updated: "2022-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149749&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-06-07"
 
 LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE ABRIL DE 2022.
 
 Ley publicada en el Número 614 de la Gaceta Oficial de la Ciudad de México, el miércoles 9 de junio de 2021.
 
@@ -328,7 +328,9 @@ Corresponde a las Alcaldías:
 
 I. Formular, conducir y evaluar la política de la Alcaldía en materia de cambio climático en concordancia con la política local y nacional;
 
-II. Formular y expedir el Programa de la Alcaldía en materia de cambio climático, además de vigilar y evaluar su cumplimiento;
+> <small>(REFORMADA, G.O. 18 DE ABRIL DE 2022)</small>
+
+II. Formular y expedir el Programa de la Alcaldía en materia de cambio climático dentro de los 180 días naturales contados a partir del día de inicio de cada periodo de gobierno, además de vigilar y evaluar su cumplimiento;
 
 III. Someter a consideración de la Secretaría el Programa que implementarán en su demarcación territorial para cumplir con las acciones contempladas en la presente Ley;
 
@@ -346,7 +348,9 @@ IX. Considerar criterios de cambio climático en la integración y actualizació
 
 X. Gestionar y administrar recursos para ejecutar acciones de mitigación y adaptación ante el cambio climático;
 
-XI. Informar y difundir permanentemente sobre la aplicación de su Programa de cambio climático;
+> <small>(REFORMADA, G.O. 18 DE ABRIL DE 2022)</small>
+
+XI. Informar y difundir de manera periódica y permanente los avances de las acciones y medidas de su Programa de cambio climático, conforme a los indicadores de seguimiento y metas establecidos;
 
 XII. Apoyar los programas y estrategias que formule la Comisión;
 
@@ -1413,3 +1417,13 @@ SÉPTIMO. Con el objetivo de lograr la neutralidad en emisiones de carbono hacia
 Palacio Legislativo del Congreso de la Ciudad de México, a los veinticinco días del mes de mayo del año dos mil veintiuno. POR LA MESA DIRECTIVA, DIPUTADA ANA PATRICIA BAEZ GUERRERO, PRESIDENTA, DIPUTADA DONAJI OFELIA OLIVERA REYES, SECRETARÍA, DIPUTADO PABLO MONTES DE OCA DEL OLMO, SECRETARIO (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III de la Constitución Política de los Estados Unidos Mexicanos; 32, apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 2 párrafo segundo, 3 fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21 párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los siete días del mes de junio del año dos mil veintiuno.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- LA SECRETARIA DE CULTURA, VANNESA BOHÓRQUEZ LÓPEZ.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, FADLALA AKABANI HNEIDE.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, CARLOS ALBERTO ULLOA PÉREZ.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUIZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- LA SECRETARIA DE INCLUSIÓN Y BIENESTAR SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA.- LA SECRETARIA DE LAS MUJERES, INGRID AURORA GÓMEZ SARACÍBAR.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JESÚS ANTONIO ESTEVA MEDINA.- FIRMA.- LA SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES, LAURA ITA ANDEHUI RUIZ MONDRAGÓN.- FIRMA.- LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, OMAR HAMID GARCÍA HARFUCH.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, HAYDEÉ SOLEDAD ARAGÓN MARTÍNEZ.- FIRMA.- EL SECRETARIO DE TURISMO, CARLOS MACKINLAY GROHMANN.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 18 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES II Y XI DEL ARTÍCULO 8 DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE DE LA CIUDAD DE MÉXICO”.]
+
+Primero.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
