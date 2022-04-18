@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-residuos-solidos-de-la-ciudad-de-mexico-antes-ley-de-301
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-22"
-last_updated: "2019-06-25"
+last_updated: "2022-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30102&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-05"
 
 LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 25 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 18 DE ABRIL DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 22 de abril de 2003.
 
@@ -318,9 +318,13 @@ VIII. Emitir los criterios, lineamientos, reglas y/o normas ambientales para el 
 
 IX. Suscribir convenios o acuerdos con cámaras industriales, comerciales y de otras actividades productivas, con grupos sociales, organizaciones no gubernamentales, así como con dependencias públicas u organismos privados, para llevar a cabo acciones tendientes a cumplir con los objetivos de la presente ley y su reglamento;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 18 DE ABRIL DE 2022)</small>
 
-X. Implementar permanentemente, entre la población, programas de difusión y promoción de la cultura de la separación de los residuos, así como su reducción, reutilización y reciclaje, en los que participen los sectores industriales y comerciales;
+X. Implementar permanentemente, entre la población, programas de difusión y promoción de la cultura de la separación de los residuos, así como su reducción, reutilización y reciclaje, en los que participen los sectores industriales y comerciales.
+
+> <small>(ADICIONADO, G.O. 18 DE ABRIL DE 2022)</small>
+
+Dichos programas de difusión y promoción deberán incluir, de forma provisional, el manejo de los residuos sólidos o de manejo especial que deriven de un evento, contingencia o emergencia sanitaria.
 
 > <small>(REFORMADA, G.O. 25 DE JUNIO DE 2019)</small>
 
@@ -1483,3 +1487,11 @@ Cuarto. A partir de la publicación del presente Decreto, la Secretaría de Medi
 Quinto. La Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México deberá instrumentar dentro de los 180 días posteriores a la publicación del presente decreto, un programa de asesoramiento a los productores de plástico de un solo uso, a efecto de que realicen una reconversión tecnológica, en la que se desarrollen alternativas de plásticos compostables. Para tal efecto se deberá prever en el Presupuesto de Egresos una partida suficiente para llevar a cabo dichas acciones.
 
 Sexto. Se derogan todas aquellas disposiciones que contravengan el contenido del presente decreto.
+
+G.O. 18 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO A LA FRACCIÓN X DEL ARTÍCULO 6 DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL".]
+
+Primero.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
