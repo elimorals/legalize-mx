@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-mejora-regulatoria-del-estado-y-municipios-de-san-136192
 country: "mx"
 rank: "ley"
 publication_date: "2019-05-15"
-last_updated: "2021-07-13"
+last_updated: "2022-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de mayo de 2019.
 
@@ -309,43 +309,77 @@ V. Las Encuestas, Información Estadística y Evaluación en Materia de Mejora R
 
 El Consejo Estatal es el órgano responsable de coordinar la política estatal en materia de mejora regulatoria y tendrá facultades para establecer las bases, principios y mecanismos para la efectiva coordinación en el ámbito estatal de la misma, para promover el uso de metodologías, instrumentos, programas y las buenas prácticas nacionales e internacionales en la materia; asimismo fungirá como órgano de vinculación con los sujetos obligados y con diversos sectores de la sociedad y estará integrado por:
 
-I. El Gobernador del Estado, quien lo presidirá;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
 
-II. El Titular de la Secretaría de Desarrollo Económico, quien fungirá como Vicepresidente y suplirá al presidente en sus ausencias;
+I. La persona que se desempeñe como titular del Poder Ejecutivo en el Estado, quien lo presidirá;
 
-III. El Comisionado de Mejora Regulatoria, quien fungirá como Secretario Ejecutivo;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
 
-IV. El Titular de la Secretaría General de Gobierno, quien fungirá como vocal;
+II. La persona que se desempeñe como titular de la Secretaría de Desarrollo Económico, quien estará a cargo de la Vicepresidencia y suplirá a la o el presidente en sus ausencias;
 
-V. El Titular de la Contraloría del Estado, quien fungirá como vocal;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
 
-VI. El Titular de la Secretaría de Finanzas, quien fungirá como vocal;
+III. La persona que se desempeñe como Comisionado de Mejora Regulatoria, quien fungirá como Secretario Ejecutivo;
 
-VII. El titular de la Secretaría de Ecología y Gestión Ambiental, quien fungirá como vocal;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
 
-VIII. El Oficial Mayor del Estado, quien fungirá como vocal;
+IV. La persona que se desempeñe como titular de la Secretaría General de Gobierno, quien fungirá como vocal;
 
-IX. El Titular de la Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos, quien fungirá como vocal;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
 
-X. El Titular de la Secretaría del Trabajo y Previsión Social, quien fungirá como vocal;
+V. La persona que se desempeñe como titular de la Contraloría del Estado, quien fungirá como vocal;
 
-XI. El Titular del Sistema de Financiamiento para el Desarrollo, quien fungirá como vocal;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
 
-XII. El Presidente del Supremo Tribunal de Justicia del Estado, quien fungirá como vocal;
+VI. La persona que se desempeñe como titular de la Secretaría de Finanzas, quien fungirá como vocal;
 
-XIII. El Presidente de la Junta de Coordinación Política del Congreso del Estado, quien fungirá como vocal;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
 
-XIV. Un Diputado Integrante de la Comisión de Desarrollo Económico, quien fungirá como vocal;
+VII. La persona que se desempeñe como titular de la Secretaría de Ecología y Gestión Ambiental, quien fungirá como vocal;
 
-XV. El Consejero Jurídico del Gobernador, quien fungirá como vocal;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
+
+VIII. La persona que se desempeñe como Oficial Mayor del Estado, quien fungirá como vocal;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
+
+IX. La persona que se desempeñe como titular de la Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos, quien fungirá como vocal;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
+
+X. La persona que se desempeñe como titular de la Secretaría del Trabajo y Previsión Social, quien fungirá como vocal;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
+
+XI. La persona que se desempeñe como titular del Sistema de Financiamiento para el Desarrollo, quien fungirá como vocal;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
+
+XII. La persona que presida el Supremo Tribunal de Justicia del Estado, quien fungirá como vocal;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
+
+XIII. La persona que presida la Junta de Coordinación Política del Congreso del Estado, quien fungirá como vocal;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
+
+XIV. Un Diputado o Diputada Integrante de la Comisión de Desarrollo Económico, quien fungirá como vocal;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
+
+XV. La persona que se desempeñe como Consejero Jurídico del Gobernador, quien fungirá como vocal;
 
 XVI. Dos Representantes del Sector Empresarial, quienes fungirán como vocales;
 
 XVII. Un representante del Sector Educativo, quien fungirá como vocal;
 
-XVIII. El Presidente del Colegio de Notarios del Estado de San Luis Potosí, quien fungirá como vocal, y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
 
-XIX. Un Presidente Municipal, designado por el Presidente del Consejo, en representación de los municipios de cada una las cuatro regiones del estado.
+XVIII. La persona que presida el Colegio de Notarios del Estado de San Luis Potosí, quien fungirá como vocal, y
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
+
+XIX. Una persona que se desempeñe como Presidenta o Presidente Municipal, designada por quien presida el Consejo, en representación de los municipios de cada una las cuatro regiones del Estado.
 
 A partir de la fracción IV del presente artículo, cada integrante titular nombrará a un suplente que solamente podrá ser de nivel jerárquico inmediato inferior y tendrá derecho a voz y voto.
 
@@ -1330,3 +1364,11 @@ P.O. 13 DE JULIO DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 18 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0298.- SE REFORMA EL ARTÍCULO 15 EN SUS FRACCIONES I A XV, XVIII Y XIX, DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
