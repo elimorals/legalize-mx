@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-especial-de-las-personas-adultas-69278"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-13"
-last_updated: "2021-11-22"
+last_updated: "2022-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -69,7 +69,9 @@ VII. Enfermedad: Al conjunto de fenómenos que producen la alteración o desviac
 
 VIII. Estado: El Estado de Aguascalientes;
 
-IX. Familia: A las personas ligadas por el parentesco entre sí;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
+
+IX. Familia: Los parientes de las personas adultas mayores, atendiendo a lo dispuesto por las reglas del parentesco estipuladas en el Código Civil del Estado de Aguascalientes;
 
 X. Geriatría: La rama de la medicina especializada en atender enfermedades propias de las personas adultas mayores;
 
@@ -303,15 +305,29 @@ G) A formar grupos y asociaciones de apoyo mutuo y de participación en la vida 
 
 ### CAPÍTULO I. De la Familia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2022)</small>
+
 ###### ARTÍCULO 6°.
 
-La familia de la persona adulta mayor deberá cumplir su función social, por tanto, de manera, constante y permanente, al hacerse cargo que cada uno de los adultos mayores que formen parte de ella, proporcionarán los elementos necesarios para su atención integral.
+Se reconoce a la familia como la institución fundamental en la que debe tener lugar la protección y desarrollo de la persona adulta mayor. La familia deberá respetar, fomentar y velar por el ejercicio pleno de los derechos de las personas adultas mayores.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2022)</small>
+
+La familia de la persona adulta mayor deberá cumplir su función social; por tanto, de manera constante y permanente deberá velar por cada una de las personas adultas mayores que formen parte de ella, siendo responsable de mantener y preservar su calidad de vida, así como proporcionar los satisfactores necesarios para su cuidado, atención y desarrollo integral.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 6 A.- El lugar idóneo para una persona adulta mayor es su hogar. Sólo en caso de prescripción médica, decisión personal o por falta de las condiciones propicias del lugar en donde vive, los familiares o cónyuge de la persona adulta mayor podrán solicitar su ingreso a alguna institución asistencial pública o privada, dedicada a la atención y cuidado de las personas adultas mayores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2022)</small>
 
 ###### ARTÍCULO 7°.
 
-La familia del adulto mayor será responsable de:
+La familia de la persona adulta mayor, con independencia de las que establezcan otras disposiciones legales, tendrá las obligaciones siguientes:
 
-I. Otorgar alimentos de conformidad con lo establecido en el Código Civil del Estado;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
+
+I. Proporcionar oportuna y adecuadamente los alimentos de conformidad con lo establecido en el Código Civil del Estado de Aguascalientes;
 
 II. Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor participe activamente, y promueva al mismo tiempo los valores que, incidan en sus necesidades afectivas, de protección y de apoyo;
 
@@ -327,9 +343,35 @@ V. Otorgar una estancia digna, adecuada a sus necesidades y requerimientos, de p
 
 VI. Fomentar su independencia, respetar sus decisiones y mantener su privacidad;
 
-VII. Gestionar ante las instancias públicas y privadas el reconocimiento y respeto a los derechos de los adultos mayores; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
 
-VIII. Contribuir a que se mantengan productivos y socialmente integrados.
+VII. Gestionar ante las instancias públicas y privadas el reconocimiento y respeto a los derechos de los adultos mayores;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
+
+VIII. Contribuir a que se mantengan productivos y socialmente integrados;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2022)</small>
+
+IX. Allegarse de elementos de información y orientación gerontológica y geriátrica necesaria para la asistencia permanente a las personas adultas mayores;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 18 DE ABRIL DE 2022)</small>
+
+X. Procurar que los cuidados proporcionados a las personas adultas mayores comprendan:
+
+a) El derecho a ser examinadas médicamente para el cuidado de su salud física y mental y recibir los medicamentos que requieran en caso de enfermedad;
+
+b) El derecho a ser sujetos de confidencialidad y participar en las decisiones que sobre su estado de salud se generen; y
+
+c) El derecho a tener una nutrición adecuada y apropiada;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2022)</small>
+
+XI. Asistir, ayudar y amparar a la personas adultas mayores en la carencia o enfermedad; y
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2022)</small>
+
+XII. Atender las necesidades psico-emocionales de la persona adulta mayor, ya sea que esta se encuentre en su domicilio, en el domicilio familiar o en alguna institución pública o privada, casa hogar, albergue, residencia o cualquier otro centro de atención para las personas adultas mayores, a efecto de mantener los lazos familiares.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
 
@@ -339,17 +381,25 @@ El Sistema para el Desarrollo Integral de la Familia del Estado, deberá institu
 
 ### CAPÍTULO II. De la Sociedad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2022)</small>
+
 ###### ARTÍCULO 9°.
 
-Cualquier miembro de la sociedad tiene el deber de auxiliar y apoyar a las personas adultas mayores en casos de necesidad o emergencia, tenga o no parentesco con ellos.
+Las personas adultas mayores no podrán ser socialmente discriminadas o marginadas en ningún espacio público o privado por razón de su origen étnico, nacionalidad, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra circunstancia, calidad o condición.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2022)</small>
+
+Cualquier miembro de la sociedad tiene el deber de auxiliar y apoyar a las personas adultas mayores en casos de necesidad o emergencia, tenga o no parentesco con ellas.
 
 ###### ARTÍCULO 10.
 
 Corresponde a la sociedad formar grupos de apoyo y asistencia social que, en coordinación con las autoridades federales, estatales y municipales o de manera independiente, colaboren en el mejoramiento de las condiciones de vida de los adultos mayores y particularmente promuevan la igualdad en el acceso al empleo, eliminando cualquier forma de discriminación.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2022)</small>
+
 ###### ARTÍCULO 11.
 
-Es un deber de la sociedad propiciar la participación de los adultos mayores en la vida social, reconociendo y estimulando la formación de asociaciones, consejos y organismos, con funciones de apoyo, asesoría y gestión en cuestiones comunitarias, particularmente en las relacionadas con el envejecimiento y la vejez.
+Es un deber de la sociedad propiciar la participación de las personas adultas mayores en la vida social, reconociendo y estimulando la formación de asociaciones, consejos y organismos, con funciones de apoyo, asesoría y gestión en cuestiones comunitarias, particularmente en las relacionadas con las personas adultas mayores.
 
 ###### ARTÍCULO 12.
 
@@ -359,9 +409,11 @@ Los organismos públicos y los privados no lucrativos dedicados a la atención d
 
 Corresponde a los grupos de la sociedad civil organizada en materia de atención a las personas adultas mayores, participar de manera coordinada y concertada con las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2022)</small>
+
 ###### ARTÍCULO 14.
 
-Los establecimientos que presten servicio a las personas adultas mayores deberán habilitar personal capacitado y espacios de acuerdo a sus necesidades y requerimientos, para proporcionar al adulto mayor un trato digno y estancia cómoda, dándole preferencia en su atención.
+Todo establecimiento que proporcione bienes o servicios al público en general deberán habilitar personal capacitado y contar con la infraestructura, mobiliario y equipo adecuados para facilitar el acceso y desplazamiento de las personas adultas mayores, brindándole un trato digno y estancia cómoda, dándole preferencia en su atención.
 
 ## TÍTULO CUARTO. FACULTADES Y OBLIGACIONES DE LAS AUTORIDADES
 
@@ -1272,3 +1324,11 @@ P.O. 22 DE NOVIEMBRE DE 2021.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al (sic) a partir del 1° de enero del 2022.
+
+P.O. 18 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 115.- SE REFORMA LA FRACCIÓN IX DEL ARTICULO 2°, EL PÁRRAFO PRIMERO DEL ARTÍCULO 6°, LAS FRACCIONES I, VII Y VIII DEL ARTÍCULO 7°, EL PRIMER PÁRRAFO DEL ARTÍCULO 9°, LOS ARTÍCULOS 11 Y 14; Y SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 6°, EL ARTÍCULO 6° A, LAS FRACCIONES IX, X, XI, XII AL ARTÍCULO 7° Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 9° DE LA LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
