@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg1418-2021-del-consejo-general-del-instituto-15046
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-08-05"
-last_updated: "2021-08-05"
+last_updated: "2022-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-07-22"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS DEL CONCURSO PÚBLICO PARA EL INGRESO AL SERVICIO PROFESIONAL ELECTORAL NACIONAL DEL SISTEMA DEL INSTITUTO NACIONAL ELECTORAL, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ABRIL DE 2022.
 
 Acuerdo publicado en el Número 4 del Diario Oficial de la Federación, el jueves 5 de agosto de 2021.
 
@@ -233,9 +233,11 @@ Subsistema del Concurso Público: Sistema de información que podrá ser utiliza
 
 Vacante: Cargo o puesto que ha sido incluido en la declaratoria de vacantes para concursarse a través de una Convocatoria.
 
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2022)</small>
+
 ###### Artículo 6.
 
-La DESPEN es el área encargada de llevar a cabo la operación y ejecución del Concurso Público, la cual podrá apoyarse en los órganos centrales y desconcentrados del Instituto, así como en otras instituciones y entes externos para realizar actividades específicas referidas en los presentes Lineamientos y las convocatorias que para tal efecto se emitan.
+La DESPEN es el área encargada de llevar a cabo la operación y ejecución del Concurso Público, la cual podrá apoyarse en los órganos centrales y desconcentrados del Instituto, así como en otras instituciones y entes externos para realizar actividades específicas referidas en los presentes Lineamientos y las convocatorias que para tal efecto se emitan; especialmente, con el objeto de disponer de instrumentos de evaluación pertinentes, confiables, válidos e imparciales que cumplan normas de seguridad, los cuales garanticen la adecuada selección de las personas aspirantes.
 
 ###### Artículo 7.
 
@@ -311,19 +313,23 @@ II. La prohibición de solicitar a las personas interesadas certificados médico
 
 III. Las ponderaciones que tendrán los instrumentos de evaluación.
 
-IV. Las modalidades de aplicación de los instrumentos de evaluación.
+> <small>(ADICIONADA, D.O.F. 18 DE ABRIL DE 2022)</small>
 
-V. Los criterios de desempate, los cuales deberán aplicarse con perspectiva de género.
+IV. Las calificaciones mínimas requeridas en los exámenes de conocimiento, según el cargo o puesto.
 
-VI. El procedimiento para las designaciones.
+V. Las modalidades de aplicación de los instrumentos de evaluación.
 
-VII. El procedimiento a seguir en la utilización de la lista de reserva.
+VI. Los criterios de desempate, los cuales deberán aplicarse con perspectiva de género.
 
-VIII. Los datos de contacto donde las personas aspirantes podrán solicitar a la DESPEN la resolución de dudas respecto de las convocatorias, que incluye números telefónicos y correo electrónico institucional.
+VII. El procedimiento para las designaciones.
 
-IX. Los medios electrónicos mediante los cuales la DESPEN realizará las notificaciones a las personas aspirantes.
+VIII. El procedimiento a seguir en la utilización de la lista de reserva.
 
-X. Todos aquellos que coadyuven al mejor desarrollo del Concurso Público.
+IX. Los datos de contacto donde las personas aspirantes podrán solicitar a la DESPEN la resolución de dudas respecto de las convocatorias, que incluye números telefónicos y correo electrónico institucional.
+
+X. Los medios electrónicos mediante los cuales la DESPEN realizará las notificaciones a las personas aspirantes.
+
+XI. Todos aquellos que coadyuven al mejor desarrollo del Concurso Público.
 
 ###### Artículo 22.
 
@@ -525,9 +531,11 @@ La DESPEN publicará en la página de Internet del Instituto la lista con los fo
 
 ### Capítulo Tercero. Aplicación del examen de conocimientos
 
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2022)</small>
+
 ###### Artículo 42.
 
-Para el diseño y elaboración del examen de conocimientos, la DESPEN podrá contar con el apoyo de instituciones externas. La Convocatoria respectiva señalará el valor de la ponderación que se le otorgará a este instrumento de evaluación.
+Para el diseño y elaboración del examen de conocimientos, la DESPEN podrá contar con el apoyo de instituciones externas que garanticen, por su capacidad técnica, metodológica y operativa, la pertinencia, confiabilidad, validez e imparcialidad de este instrumento de evaluación. La Convocatoria respectiva señalará el valor de la ponderación que se le otorgará a dicho instrumento de evaluación y la calificación requerida, conforme el cargo o puesto sujeto a concurso.
 
 ###### Artículo 43.
 
@@ -545,7 +553,9 @@ Si durante la aplicación del examen de conocimientos se presenta un caso fortui
 
 Una vez aplicado el examen de conocimientos, la DESPEN organizará las listas de resultados del examen de conocimientos de aspirantes mujeres y de aspirantes hombres, de acuerdo con los cargos o puestos sujetos a concurso, y las ordenará de mayor a menor calificación. Para determinar las personas aspirantes que pasarán a la siguiente etapa del Concurso Público, en el ordenamiento de cada lista de resultados se aplicarán los siguientes criterios:
 
-I. Obtener en el examen de conocimientos una calificación igual o mayor a 7.00, en una escala de cero a diez.
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2022)</small>
+
+I. Obtener en el examen de conocimientos una calificación igual o mayor a 7.00, en una escala de cero a diez, considerando el punto de corte establecido para el cargo o puesto.
 
 II. Ubicarse dentro del 33 por ciento de aspirantes que hayan obtenido las calificaciones más altas, agrupados según el cargo o puesto en concurso.
 
@@ -599,9 +609,11 @@ La DESPEN determinará en las convocatorias el tipo de evaluación psicométrica
 
 En la evaluación psicométrica se calificará a las personas aspirantes en una escala de cero a diez, con dos posiciones decimales. La calificación obtenida en esta evaluación tendrá la ponderación conforme a lo que se establezca en la Convocatoria respectiva.
 
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2022)</small>
+
 ###### Artículo 55.
 
-La DESPEN podrá apoyarse en una empresa o institución especializada para llevar a cabo el diseño, elaboración, calificación y, en su caso, la aplicación de la evaluación psicométrica.
+La DESPEN podrá apoyarse en una empresa o institución especializada que cuente con la capacidad técnica, metodológica y operativa para llevar a cabo el diseño, elaboración, calificación y, en su caso, la aplicación de la evaluación psicométrica, a fin de asegurar la calidad técnica de esta evaluación.
 
 ###### Artículo 56.
 
@@ -988,3 +1000,19 @@ b) Para cargos y puestos en Juntas Distritales Ejecutivas
 c) Para cargos y puestos en Direcciones Ejecutivas y Unidades Técnicas
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 5 DE AGOSTO DE 2021, PÁGINAS DE LA 180 A LA 181.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 18 DE ABRIL DE 2022.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LAS MODIFICACIONES A LOS LINEAMIENTOS DEL CONCURSO PÚBLICO PARA EL INGRESO AL SERVICIO PROFESIONAL ELECTORAL NACIONAL DEL SISTEMA DEL INSTITUTO NACIONAL ELECTORAL, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+Primero. Se aprueban las modificaciones a los Lineamientos del Concurso Público para el ingreso al Servicio Profesional Electoral Nacional del sistema del Instituto Nacional Electoral.
+
+Segundo. Las modificaciones a los Lineamientos referidas en el Punto Primero del presente acuerdo entrarán en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Tercero. Se instruye a la Dirección Ejecutiva del Servicio Profesional Electoral Nacional difundir a través del medio que estime más adecuado, el cual puede ser preferentemente de manera electrónica, las modificaciones a los Lineamientos referidos en el Punto Primero del presente Acuerdo.
+
+Cuarto. Publíquese el presente acuerdo en el Diario Oficial de la Federación, en la Gaceta Electoral, en NormaINE y en el portal de Internet del Instituto Nacional Electoral.
