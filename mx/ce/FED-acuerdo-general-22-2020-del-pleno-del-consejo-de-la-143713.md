@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-22-2020-del-pleno-del-consejo-de-la-143713"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-07-31"
-last_updated: "2022-01-17"
+last_updated: "2022-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143713&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-07-28"
 
 ACUERDO GENERAL 22/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LAS MEDIDAS NECESARIAS PARA REACTIVAR LA TOTALIDAD DE LAS ACTIVIDADES DEL CONSEJO EN EL CONTEXTO DE LA CONTINGENCIA POR EL VIRUS COVID-19
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ABRIL DE 2022.
 
 Acuerdo publicado en el Número 26 del Diario Oficial de la Federación, el viernes 31 de julio de 2020.
 
@@ -65,11 +65,11 @@ ACUERDO
 
 ### Capítulo I. Disposiciones generales
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 2/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE ENERO DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 8/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
 
 ###### Artículo 1.
 
-Vigencia. Con la finalidad de evitar la concentración de personas y, con ello, la propagación del virus que ocasiona la enfermedad Covid-19, las labores de las áreas administrativas del Consejo de la Judicatura Federal se sujetarán a las siguientes modalidades durante el período comprendido del 1 de agosto de 2020 al 1° de mayo de 2022.
+Vigencia. Con la finalidad de evitar la concentración de personas y, con ello, la propagación del virus que ocasiona la enfermedad Covid-19, las labores de las áreas administrativas del Consejo de la Judicatura Federal se sujetarán a las siguientes modalidades durante el período comprendido del 1 de agosto de 2020 al 5 de junio de 2022.
 
 ###### Artículo 2.
 
@@ -77,25 +77,41 @@ Esquemas de trabajo y medidas de control sanitario. Cada Consejera o Consejero, 
 
 I. Durante la contingencia, todas y todos los servidores públicos del Consejo desempeñarán su trabajo presencialmente o a distancia, de conformidad con la organización que se defina, salvo quienes gocen de licencias o disfruten de algún período vacacional.
 
-II. Con el objeto de evitar concentración de personas en las áreas administrativas, en cada una se diseñarán esquemas de trabajo presencial y de trabajo remoto, en el entendido de que bajo ninguna circunstancia podrá laborar de manera presencial y simultánea más de la cuarta parte del personal. Además, salvo los casos excepcionales que requieran labor presencial, deberá privilegiarse el trabajo a distancia, haciendo uso de las herramientas electrónicas que resulten necesarias, atendiendo las medidas de seguridad aplicables y salvaguardando la confidencialidad de la información a la que tenga acceso. En este sentido, la cantidad máxima de personas antes mencionada constituye un límite máximo y no mínimo.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 8/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
+
+II. Con el objeto de evitar concentración de personas en las áreas administrativas, en cada una se diseñarán esquemas de trabajo presencial y de trabajo remoto, en el entendido de que bajo ninguna circunstancia podrá laborar de manera presencial y simultánea más del 75% del personal. Además, salvo los casos excepcionales que requieran labor presencial, deberá privilegiarse el trabajo a distancia, haciendo uso de las herramientas electrónicas que resulten necesarias, atendiendo las medidas de seguridad aplicables y salvaguardando la confidencialidad de la información a la que tenga acceso. En este sentido, la cantidad máxima de personas antes mencionada constituye un límite máximo y no mínimo.
 
 III. Para disminuir el riesgo de contagio y facilitar el seguimiento de contactos que pueda haber tenido cada persona, se priorizarán guardias que se alternarán para el trabajo presencial, procurando que, de ser posible, una misma persona no esté en contacto con distintos equipos de trabajo. Asimismo, se buscará que, si la plantilla, las funciones y la organización del área administrativa lo permiten, quienes realicen labores presencialmente, puedan trabajar a distancia durante dos semanas antes de asistir nuevamente a una guardia presencial.
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 8/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
 
-IV. Son personas en situación de vulnerabilidad, las personas adultas mayores de 60 años, mujeres embarazadas o en estado de puerperio inmediato o lactancia, y personas con asma, obesidad, enfermedad cerebrovascular, diabetes, hipertensión, enfermedades cardiovasculares, enfermedades pulmonares crónicas, cáncer, inmunosupresión (adquirida o provocada), o con insuficiencia renal o hepática.
+IV. Se considera como persona en situación de vulnerabilidad quien reúna las siguientes condiciones:
 
-Si la persona manifiesta que carece de equipo de cómputo para realizar labores de forma remota, cada Consejera o Consejero, o titular de secretaría ejecutiva, órgano auxiliar y demás áreas administrativas del Consejo, podrá contactar a la Dirección General de Tecnologías de la Información con el objeto de coordinar el procedimiento para que se permita la salida del equipo de cómputo asignado a la o al servidor público respectivo, previa firma de la documentación necesaria de resguardo y responsabilidad.
+a) Se encuentre en situación de especial vulnerabilidad frente a la enfermedad Covid-19, es decir, personas adultas mayores de 60 años; mujeres embarazadas o en estado de puerperio inmediato o en lactancia; y personas con asma, obesidad, enfermedad cerebrovascular, diabetes, hipertensión, enfermedades cardiovasculares, enfermedades pulmonares crónicas, cáncer, inmunosupresión (adquirida o provocada), insuficiencia renal o hepática, conforme a los criterios y parámetros establecidos por la Dirección de Servicios Médicos, dependiente de la Dirección General de Servicios al Personal.
 
-Las y los titulares de las áreas administrativas otorgarán facilidades al personal a su cargo para acudir a consultas o tratamiento médico cuando así lo necesiten, en cuyo caso no reingresarán a su lugar de trabajo durante el resto de la jornada laboral.
+b) Por indicación médica, hubiera optado por no recibir la inmunización en las jornadas de vacunación que le correspondiera conforme a lo determinado por la Secretaría de Salud Federal, por considerarse una contraindicación médica.
 
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE AGOSTO DE 2021)</small>
+También se considera como persona en situación de vulnerabilidad a quien se ubique en la hipótesis de lactancia durante el periodo de una licencia médica emitida en su favor por maternidad; quien curse el tercer trimestre del embarazo; y quien padezca cáncer y haya requerido tratamiento quimioterapeútico en el mes previo.
 
-IV. Bis. Las personas en situación de vulnerabilidad que presten sus servicios en el Consejo de la Judicatura Federal, bajo protesta de decir verdad, comunicarán dicha circunstancia a las y los titulares de las áreas administrativas a los cuales se encuentren adscritos, y adjuntarán el diagnóstico médico o los estudios clínicos que acrediten tal situación.
+La condición de vulnerabilidad debe ser declarada bajo protesta de decir verdad ante la Dirección de Servicios Médicos y acreditada con la documentación que dicha unidad administrativa determine. Dicha Dirección se pronunciará sobre si, efectivamente, se actualiza la vulnerabilidad declarada. Lo anterior se presume bajo la más estricta responsabilidad de quien así lo haya declarado.
+
+Las y los servidores públicos deberán informar a su titular el momento en que la situación de vulnerabilidad deje de estar vigente, en caso de que esta sea transitoria.
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 8/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
+
+IV Bis. Las personas en situación de vulnerabilidad que presten sus servicios en el Consejo de la Judicatura Federal, bajo protesta de decir verdad, comunicarán dicha circunstancia a las y los titulares de las áreas administrativas a los cuales se encuentren adscritos, y adjuntarán el diagnóstico médico o los estudios clínicos que acrediten tal situación.
 
 Las y los titulares de las áreas administrativas podrán solicitar la opinión de Servicios Médicos respecto a las situaciones de vulnerabilidad del personal que tengan bajo su adscripción.
 
-Las y los servidores públicos que no tengan la posibilidad de dejar al cuidado de otra persona a sus hijas o hijos menores de 14 años de edad o con alguna discapacidad, también comunicarán tal situación bajo protesta de decir verdad a las y los titulares de las áreas administrativas a las cuales se encuentran adscritos.
+Las personas servidoras públicas que tengan hijas o hijos menores de 14 años de edad en educación básica, es decir, inicial, preescolar, primaria y secundaria, deberán informar a las y los titulares de las áreas administrativas a las cuales se encuentran adscritas, la necesidad de ser exentas de prestar labores presenciales.
+
+Para efectos de la exención, deberá justificarse, ante la persona titular, con la documentación o comunicaciones que emita la institución educativa la modalidad de prestación del servicio de educación. Es decir, si el esquema de clases es presencial, remoto, o híbrido; si hay variaciones al esquema a lo largo del año escolar; o si se instruye el aislamiento temporal del grupo o célula del o de la menor de edad; entre otros supuestos. Asimismo, la persona titular, de preferencia de común acuerdo con la persona trabajadora, podrá definir un esquema de trabajo presencial, remoto o mixto, que permita efectuar ajustes razonables, en función del horario escolar de las y los menores. En caso de que la persona trabajadora no acredite, por algún medio, la modalidad indicada por la institución educativa; o la determinación temporal de aislamiento, con la mayor anticipación posible, se incorporará a las labores presenciales conforme a la asignación de turno y horario escalonado para el trabajo presencial en las áreas administrativas.
+
+Si ambos cónyuges, concubina, concubinario o parejas son personas trabajadoras del Poder Judicial de la Federación, ya sea en órganos jurisdiccionales o áreas administrativas del Consejo de la Judicatura Federal, y comparten la guarda y custodia de hijas o hijos menores de 14 años en educación básica, propondrán a la o las personas titulares que se realicen de forma alternada la posibilidad de prestar sus servicios de manera presencial.
+
+En el caso de las personas a cargo del cuidado de otra persona con alguna discapacidad, que no tengan posibilidad de dejarla bajo el cuidado de algún tercero o tercera, deberán informar y justificar por el medio disponible tal situación. De igual forma, se procurará, bajo un principio de buena fe, acordar la posibilidad de prestar labores presenciales cuando haya esa posibilidad.
+
+Para efectos de la resolución de los conflictos que puedan derivarse de lo previsto en los tres párrafos anteriores, debe privilegiarse el consenso entre las personas trabajadoras y las titulares, teniendo en cuenta tanto el bienestar de las personas menores de edad o con discapacidad; como la prestación del servicio público. En caso de conflicto, éste deberá formularse ante la Comisión Especial, por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos. La propia Comisión podrá delegar la facultad de resolución de los mencionados conflictos.
 
 > <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE AGOSTO DE 2021)</small>
 
@@ -109,15 +125,15 @@ V. Cada área administrativa deberá llevar un censo del personal que utiliza me
 
 VI. Se suspende provisionalmente el registro de control de asistencia en el sistema “SIRCA”. No obstante, el acceso a y salida de los inmuebles del Consejo se controlará con un sistema de emisión de Códigos QR que se vinculará a los expedientes de la Dirección General de Recursos Humanos. Dicho sistema permitirá que cada persona adscrita a las distintas áreas administrativas del Consejo tramite un código vinculado a su expediente personal, sin el cual no será posible el acceso físico a y la salida de su lugar de trabajo.
 
-VII. En adición a lo anterior, el acceso del personal y, cuando resulte estrictamente necesario, de personas ajenas al Poder Judicial de la Federación y, en general, de la ciudadanía a los edificios del Consejo, se realizará conforme a los lineamientos emitidos por la Comisión Especial a propuesta de la Secretaría Ejecutiva de Administración, los cuales incluirán, como mínimo: (i) la habilitación de filtros sanitarios con medidas como el control de temperatura, tapetes sanitizantes y la dotación de insumos básicos como gel base alcohol al 70% y cubrebocas; (ii) la obligación de usar cubrebocas; y (iii) la prohibición de acceso a quienes presenten temperatura corporal igual o mayor a 37.5°C, o que hayan presentado tos, dolor de garganta, dificultad para respirar o escurrimiento nasal. La Comisión Especial también emitirá lineamientos para regular el uso de áreas comunes en aras de evitar la aglomeración de personas.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 8/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
 
-VIII. El horario laboral presencial del personal de guardia en las áreas administrativas será de seis horas, con ingresos escalonados en cuatro bloques: 8:00, 8:45, 9:30 y 10:15 horas, y salidas con las mismas características entre las 14:00, 14:45, 15:30 y 16:15 horas.
+VII. En adición a lo anterior, el acceso del personal y, cuando resulte estrictamente necesario, de personas ajenas al Poder Judicial de la Federación y, en general, de la ciudadanía a los edificios del Consejo, se realizará conforme a los lineamientos emitidos por la Comisión Especial a propuesta de la Secretaría Ejecutiva de Administración. La Comisión Especial también emitirá lineamientos para regular el uso de áreas comunes en aras de evitar la aglomeración de personas.
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 8/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
+
+VIII. El horario laboral presencial del personal de guardia en las áreas administrativas será de siete horas, con ingresos escalonados en cuatro bloques: 8:00, 8:45, 9:30 y 10:15 horas. Se mantendrán los horarios establecidos por la Comisión Especial mediante puntos para acuerdo a las áreas específicas que ya se hayan determinado. Asimismo, la propia Comisión proveerá lo relativo a la modulación de las salidas y reingresos del personal durante la jornada laboral.
 
 El horario correspondiente a cada área será autorizado por la Administración de cada edificio, salvo en el Edificio Sede, cuya definición corresponderá a la Secretaría General de la Presidencia por regla general, y a cada consejera y consejero por lo que hace a sus ponencias.
-
-Quedan prohibidas las salidas y reingresos durante la jornada laboral, salvo cuando se trate de personas cuyas funciones lo requieran.
-
-Si la o el titular de un área administrativa estima que las cargas de trabajo ameritan una presencia física más prolongada, podrán implementarse turnos de 8:30 a 14:30 horas, y de 15:00 pm a 19:00 horas, en cuyo caso cada equipo de trabajo deberá cuidar la sanitización de sus espacios de trabajo al iniciar y al concluir su jornada. Al respecto, deberá respetarse exhaustivamente el Lineamiento de Higiene para el manejo documental y de expedientes durante la Atención a la Emergencia Sanitaria por Coronavirus (COVID-19). Las personas de un turno no podrán estar presentes durante el transcurso del otro.
 
 IX. En la medida de lo posible, se evitará la atención al público de manera presencial y se privilegiará la atención vía telefónica, por correo electrónico o por videoconferencia.
 
@@ -157,7 +173,9 @@ En las labores de digitalización podrán usarse dispositivos móviles, conforme
 
 V. Todas las diligencias dentro de los procedimientos de naturaleza materialmente jurisdiccional, como los disciplinarios y laborales, se practicarán mediante el uso de herramientas tecnológicas que permitan su desahogo a distancia y sin presencia física de las personas interesadas, salvo que excepcionalmente se disponga lo contrario.
 
-VI. Las sesiones del Pleno, las Comisiones y los comités se llevarán a cabo mediante el uso de videoconferencias y, excepcionalmente, mediante los otros esquemas de actuación a distancia previstos en el presente Acuerdo.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 8/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
+
+VI. Las sesiones del Pleno, las Comisiones y los comités se llevarán a cabo mediante el esquema de actuación que cada presidencia defina, tras consulta con el órgano colegiado respectivo. En cualquier escenario, deberá evitarse la concentración innecesaria de personas, así como privilegiarse la sana distancia y el cumplimiento a los lineamientos de higiene establecidos por el Consejo.
 
 VII. Las áreas administrativas privilegiarán la generación y circulación de documentos de trabajo mediante el uso de herramientas tecnológicas, utilizando preferentemente las que para tal efecto ponga a su disposición la Dirección General de Tecnologías de la Información.
 
@@ -185,7 +203,9 @@ III. Salvo que el órgano colegiado respectivo acuerde otra cosa, las sesiones o
 
 El Ministro Presidente y las Consejeras y Consejeros que presidan cada Comisión definirán los días, horarios y logística de las sesiones del Pleno, la Comisión Especial y las Comisiones permanentes del Consejo, respectivamente. Corresponderá al Secretario Ejecutivo del Pleno y a las y los Secretarios Técnicos de Comisiones instrumentar las acciones necesarias para el correcto desarrollo de las sesiones.
 
-IV. Las sesiones extraordinarias podrán celebrarse por videoconferencia, por vía telefónica o mediante la remisión de un correo electrónico con la intención del voto, observaciones, comentarios o ajustes. En estos casos, desde la convocatoria se definirán los plazos previstos para tales efectos. Si no existe definición sobre el plazo, se presumirá que éste es de 48 horas contadas a partir de la recepción de la convocatoria.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 8/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
+
+IV. Las sesiones extraordinarias podrán celebrarse por videoconferencia, por vía telefónica o mediante la remisión de un correo electrónico con la intención del voto, observaciones, comentarios o ajustes; así como de manera presencial si las condiciones sanitarias y la urgencia del caso lo permiten, previa determinación de la persona presidenta del órgano que deba sesionar, siguiendo los lineamientos de higiene y sana distancia. En estos casos, desde la convocatoria se definirán los plazos previstos para tales efectos. Si no existe definición sobre el plazo, se presumirá que éste es de 48 horas contadas a partir de la recepción de la convocatoria.
 
 V. La Secretaría Ejecutiva, Técnica o el órgano respectivo, hará constar en un acta el sentido y observaciones que cada integrante manifieste.
 
@@ -409,7 +429,7 @@ VI. El acta de los factores de evaluación judicial será firmada electrónicame
 
 ###### Artículo 27.
 
-Consultas de turno. La Secretaría Ejecutiva de Creación de Nuevos Órganos tendrá facultades para dar respuesta a las consultas de turno relacionado, las cuales deberán formularse mediante escrito con firma electrónica, acompañado de las constancias digitalizadas, y remitido al correo electrónico alejandra.mendoza.nunez@correo.cjf.gob.mx. Si las constancias son muy voluminosas, pero están digitalizadas en el correspondiente expediente electrónico, el órgano consultante podrá señalar cuáles son las necesarias para la solución de la consulta. Cuando la respuesta a la consulta requiera de un criterio relevante o novedoso, la Secretaría la someterá a consideración de la Comisión de Creación de Nuevos Órganos.
+(DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 8/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)
 
 #### Sección Tercera. Visitas a distancia
 
@@ -714,3 +734,11 @@ PRIMERO. El presente Acuerdo entrará en vigor el 17 de enero de 2022.
 SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
 
 TERCERO. Se instruye a la Dirección General de Protección Civil y Salud en el Trabajo, para que continúe implementando las medidas de ventilación, limpieza y desinfección de oficinas y espacios de trabajo, así como áreas comunes, de conformidad con la Guía Técnica para el Retorno Seguro a las Actividades en los Órganos Jurisdiccionales y Áreas Administrativas del Consejo de la Judicatura Federal.
+
+D.O.F. 18 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 8/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR 22/2020, RELATIVO A LAS MEDIDAS NECESARIAS PARA REACTIVAR LA TOTALIDAD DE LAS ACTIVIDADES DEL CONSEJO EN EL CONTEXTO DE LA CONTINGENCIA POR EL VIRUS COVID-19, EN RELACIÓN CON EL PERIODO DE VIGENCIA Y LAS FACULTADES DE LA COMISIÓN ESPECIAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
