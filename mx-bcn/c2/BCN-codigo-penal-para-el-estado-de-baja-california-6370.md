@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2022-03-25"
+last_updated: "2022-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2022.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2271,7 +2271,9 @@ Artículo 184 TER.- Tipo y punibilidad.- Comete el delito de Hostigamiento Sexua
 
 Sí la persona que comete el delito descrito en el párrafo anterior fuere servidor público, docente en alguna institución educativa pública o privada de cualquier nivel, o ministro de culto y utilizase los medios o circunstancias que su función le proporciona para ejecutar el hostigamiento, además se le sancionará con la destitución e inhabilitación por un tiempo igual al de la pena corporal impuesta.
 
-Si la persona ofendida fuere menor (sic) dieciocho años o con alguna discapacidad, la pena de prisión se aumentará hasta en una tercera parte de la prevista y en este caso se perseguirá de oficio.
+> <small>(REFORMADO, P.O.18 DE ABRIL DE 2022)</small>
+
+Si la persona ofendida fuere menor de dieciocho años o con alguna discapacidad, la pena de prisión se aumentará hasta en una tercera parte de la prevista y en este caso se perseguirá de oficio.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
 
@@ -6299,11 +6301,11 @@ P.O. 25 DE MARZO DE 2022.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 920 POR EL QUE SE ADICIONA EL INCISO S QUINQUIES A LA FRACCIÓN I DEL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+P.O. 18 DE ABRIL DE 2022.
 
-ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 88 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE MODIFICA EL TERCER PÁRRAFO DEL ARTÍCULO 184-TER DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
-P.O. 30 DE MAYO DE 2024.
+ÚNICO. La presente reforma entrará en vigor el día siguiente a su publicación en el Periódico Oficial el Estado (sic).
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 937 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS INCISOS DE LA FRACCIÓN I DEL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
