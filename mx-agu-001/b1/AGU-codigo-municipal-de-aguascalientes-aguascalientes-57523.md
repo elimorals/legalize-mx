@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2022-02-21"
+last_updated: "2022-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1517,7 +1517,7 @@ Departamento de Atención Médica Prehospitalaria.
 
 Departamento de Bomberos.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
 
 X.- SECRETARÍA DE FINANZAS PÚBLICAS
 
@@ -1562,6 +1562,12 @@ Dirección de Información Financiera
 Departamento de Contabilidad.
 
 Departamento de Cuenta Pública.
+
+Dirección Jurídica
+
+Departamento de Asistencia y Gestión Legal
+
+Departamento de instrumentación Jurídica y Estudios Legislativos
 
 > <small>(REFORMADA, P.O. 21 DE MAYO DE 2018)</small>
 
@@ -15241,6 +15247,8 @@ La Secretaría podrá clausurar como medida de seguridad, las obras terminadas o
 
 ### CAPÍTULO II. De los Requisitos para Solicitar las Autorizaciones de Constancia de Alineamiento y Compatibilidad Urbanística, Fusión, Subdivisión y Relotificación de Predios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2022)</small>
+
 ###### ARTÍCULO 1103.
 
 Las disposiciones del presente Título, son de interés público y de observancia general y tienen por objeto regular la autorización, control y vigilancia de los usos del suelo dentro del Municipio de Aguascalientes.
@@ -15451,7 +15459,7 @@ X. Controlar y vigilar la zonificación y los usos del suelo que se deriven de l
 
 ###### ARTÍCULO 1109.
 
-Toda persona física o moral, publica o privada, para solicitar la autorización de alineamiento y compatibilidad urbanística deberá llenar y suscribir el formato que para ese efecto le señale la Secretaría, así como presentarle en la Ventanilla Única Multitrámite la siguiente documentación:
+Toda persona física o moral, pública o privada, para solicitar la autorización de alineamiento y compatibilidad urbanística deberá llenar y suscribir el formato que para ese efecto le señale la Secretaría, así como presentarle en la Ventanilla Única Multitrámite la siguiente documentación:
 
 I. Nombre, identificación oficial, denominación o razón social del solicitante y su domicilio;
 
@@ -15471,9 +15479,9 @@ VIII. Cuando lo aprecie necesario la Secretaría, también se deberá exhibir pl
 
 IX. Cuando se trate de solicitudes que señalen como uso del suelo propuesto fraccionamiento o condominio, se deberá presentar plano topográfico digitalizado, debidamente georeferenciado, especificando las vialidades colindantes y de liga al predio materia de la solicitud, así como elementos físicos existentes que faciliten su ubicación. Este requisito aplicará para presentar las solicitudes de informe de compatibilidad urbanística.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
 
-X. Cuando se trate de solicitudes que señalen como uso de suelo propuesto 'tiendas de conveniencia' o cualquier comercio similar, se deberá presentar el correspondiente estudio de impacto socio - económico el cual será expedido por la Secretaría de Desarrollo Social del Municipio de Aguascalientes, a través del que se dará a conocer el impacto o posibles repercusiones que pudiera generar la actividad solicitada respecto a las diversas tiendas de abarrotes o análogas que se encuentren dentro de una circunferencia de hasta tres cuadras.
+X. Cuando se trate de solicitudes que señalen como uso de suelo propuesto 'tiendas de conveniencia' o cualquier comercio similar, se deberá presentar el correspondiente estudio de impacto socio - económico el cual será expedido por la Secretaría de Economía Social y Turismo Municipal de Aguascalientes, a través del que se dará a conocer el impacto o posibles repercusiones que pudiera generar la actividad solicitada respecto a las diversas tiendas de abarrotes o análogas que se encuentren dentro de una circunferencia de hasta tres cuadras.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MAYO DE 2019)</small>
 
@@ -24407,9 +24415,9 @@ SEGUNDO: Las referencias que se hagan y las atribuciones que se otorgan en el pr
 
 P.O. 22 DE NOVIEMBRE DE 2021.
 
-## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
 
-PRIMERO.- Se instruye al Secretario del H. Ayuntamiento y Director General de Gobierno para que de conformidad a las facultades que me confiere el código municipal del municipio de Aguascalientes, someta a consideración, análisis y discusión y en su caso aprobación del H. Ayuntamiento Constitucional Municipal de Aguascalientes, el presente dictamen.
+PRIMERO.– Se instruye al Secretario del H. Ayuntamiento y Director General de Gobierno para que de conformidad a las facultades que me confiere el código municipal del municipio de Aguascalientes, someta a consideración, análisis y discusión y en su caso aprobación del H. Ayuntamiento Constitucional Municipal de Aguascalientes, el presente dictamen.
 
 SEGUNDO.- Las modificaciones al presente Código entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -24423,13 +24431,13 @@ QUINTO.- El personal adscrito a la Dirección de Salud Pública que sea trasferi
 
 La Secretaría de Administración llevará a cabo todos los actos legales y administrativos que se susciten con motivo de las presentes reformas, salvaguardando los derechos laborales de todos los empleados.
 
-SEXTO.- La Coordinación General de Salud, a más tardar el día 12 de diciembre del año en curso deberá de realizar la propuesta de adecuaciones presupuestales y administrativas que en su caso resulten y sean necesarias para su adecuado funcionamiento y dar debido cumplimiento a lo establecido en la presente reforma.
+SEXTO.– La Coordinación General de Salud, a más tardar el día 12 de diciembre del año en curso deberá de realizar la propuesta de adecuaciones presupuestales y administrativas que en su caso resulten y sean necesarias para su adecuado funcionamiento y dar debido cumplimiento a lo establecido en la presente reforma.
 
-SÉPTIMO.- La Secretaría de Finanzas Públicas Municipales y la Secretaría de Administración deberán llevar a cabo todos los actos legales y administrativos a efecto de que la Coordinación General de Salud, cuente con respectivas claves programáticas, presupuestos correspondientes y demás trámites legales y administrativos que se susciten con motivo de las presentes reformas, así mismo para que todos los bienes que actualmente posea la Dirección de Salud Pública, pasen a la nueva Coordinación General, a efecto de que este cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos adquisición de bienes y servicios, arrendamientos, gato (sic) fijo y corriente, así como todas y cada una de las erogaciones correspondientes
+SÉPTIMO.– La Secretaría de Finanzas Públicas Municipales y la Secretaría de Administración deberán llevar a cabo todos los actos legales y administrativos a efecto de que la Coordinación General de Salud, cuente con respectivas claves programáticas, presupuestos correspondientes y demás trámites legales y administrativos que se susciten con motivo de las presentes reformas, así mismo para que todos los bienes que actualmente posea la Dirección de Salud Pública, pasen a la nueva Coordinación General, a efecto de que este cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos adquisición de bienes y servicios, arrendamientos, gato (sic) fijo y corriente, así como todas y cada una de las erogaciones correspondientes
 
-OCTAVO.- La Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
+OCTAVO.– La Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
 
-NOVENO.- Para el ejercicio fiscal 2022, la Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
+NOVENO.– Para el ejercicio fiscal 2022, la Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
 
 DÉCIMO.- La Coordinación General de la Salud, dentro de los 60 días hábiles siguientes a la entrada en vigor de la presente reforma, deberá proponer al H. Ayuntamiento Constitucional del Municipio de Aguascalientes, el Reglamento Interno de la Coordinación, con el fin de que se encuentre conforme a la presente reforma.
 
@@ -24439,7 +24447,7 @@ DÉCIMO SEGUNDO.- Todos los trámites que hubiesen iniciado bajo la vigencia de 
 
 DÉCIMO TERCERO.- Las referencias que se hagan y las atribuciones que se otorgan en el presente Código, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, al anterior Director de Salud Pública, se entenderán hechas o conferidas a la actual Coordinación General de Salud.
 
-DÉCIMO CUARTO.- Las reformas a los Artículos 98, párrafo cuarto; y 113; se adiciona una fracción XXI que incluye tres incisos; un apartado décimo octavo denominado "De la Coordinación de Transparencia y Acceso a la Información del Municipio de Aguascalientes", que contendrá el actual Artículo 114 Quater, y un apartado décimo noveno denominado "De la Coordinación General de Salud" que contendrá el Artículo 114 Quinquies, ambos al Capítulo II del Título Segundo del Libro Primero, y se derogan los apartados catorce, quince, dieciséis y diecisiete de la fracción XV del artículo 98, todos del Código Municipal de Aguascalientes.
+DÉCIMO CUARTO.- Las reformas a los Artículos 98, párrafo cuarto; y 113; se adiciona una fracción XXI que incluye tres incisos; un apartado décimo octavo denominado “De la Coordinación de Transparencia y Acceso a la Información del Municipio de Aguascalientes”, que contendrá el actual Artículo 114 Quater, y un apartado décimo noveno denominado “De la Coordinación General de Salud” que contendrá el Artículo 114 Quinquies, ambos al Capítulo II del Título Segundo del Libro Primero, y se derogan los apartados catorce, quince, dieciséis y diecisiete de la fracción XV del artículo 98, todos del Código Municipal de Aguascalientes.
 
 DÉCIMO QUINTO.- Todas las disposiciones jurídicas del ámbito Municipal que se opongan al presente, se entienden reformadas en el sentido del contenido en el cuerpo del mismo, adecuando los nuevos nombres y funciones.
 
@@ -24479,17 +24487,17 @@ SEGUNDO.- Las modificaciones al presente Código entrarán en vigor al día sigu
 
 P.O. 21 DE FEBRERO DE 2022.
 
-## [N. DE E. TRANSITORIOS DEL "DICTAMEN QUE CONTIENE LA INICIATIVA DE REFORMA AL ARTÍCULO 98, PÁRRAFO CUARTO EN SUS INCISOS S) Y T), ADICIONÁNDOSE UN INCISO U), REFORMÁNDOSE SU FRACCIÓN VI, Y ADICIONÁNDOSE UNA FRACCIÓN XXII; ASIMISMO, SE ADICIONA UN APARTADO VIGÉSIMO DENOMINADO "DEL INSTITUTO MUNICIPAL DE SALUD MENTAL", QUE CONTENDRÁ EL ARTÍCULO 114 SEXIES, AL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+## [N. DE E. TRANSITORIOS DEL "DICTAMEN QUE CONTIENE LA INICIATIVA DE REFORMA AL ARTÍCULO 98, PÁRRAFO CUARTO EN SUS INCISOS S) Y T), ADICIONÁNDOSE UN INCISO U), REFORMÁNDOSE SU FRACCIÓN VI, Y ADICIONÁNDOSE UNA FRACCIÓN XXII; ASIMISMO, SE ADICIONA UN APARTADO VIGÉSIMO DENOMINADO “DEL INSTITUTO MUNICIPAL DE SALUD MENTAL”, QUE CONTENDRÁ EL ARTÍCULO 114 SEXIES, AL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
 
-PRIMERO.- Las presentes reformas y adiciones, iniciaran su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+PRIMERO.– Las presentes reformas y adiciones, iniciaran su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- El Presidente Municipal deberá designar al o la Directora del Instituto Municipal de Salud Mental, dentro de los siguientes treinta días hábiles contado (sic) a partir de que inicien su vigencia las presentes reformas y adiciones.
+SEGUNDO.– El Presidente Municipal deberá designar al o la Directora del Instituto Municipal de Salud Mental, dentro de los siguientes treinta días hábiles contado (sic) a partir de que inicien su vigencia las presentes reformas y adiciones.
 
 Una vez designado el o la Directora General del Instituto Municipal de Salud Mental, se deberán realizar los trámites respectivos para transferir a dicho Instituto, los recurso (sic) humanos, financieros y materiales del Departamento de Salud Mental perteneciente a la Dirección General del Sistema para el Desarrollo Integral de la Familia.
 
 No obstante, al iniciar su vigencia las presentes reformas y adiciones, todos los asuntos en trámite (sic) legales o administrativos de los que estuviera conociendo el Departamento de Salud Mental de referencia, serán competencia y deberán ser atendidos por el Instituto Municipal de Salud Mental.
 
-TERCERO.- El Instituto Municipal de Salud Mental, dentro de los sesenta días hábiles siguientes a la entrada en vigor de la presente reforma, deberá proponer al H. Ayuntamiento Constitucional del Municipio de Aguascalientes, el Reglamento Interno del Instituto, así como cualquier otro instrumento normativo o reforma, con el fin de que se encuentre conforme a la presente modificación.
+TERCERO.– El Instituto Municipal de Salud Mental, dentro de los sesenta días hábiles siguientes a la entrada en vigor de la presente reforma, deberá proponer al H. Ayuntamiento Constitucional del Municipio de Aguascalientes, el Reglamento Interno del Instituto, así como cualquier otro instrumento normativo o reforma, con el fin de que se encuentre conforme a la presente modificación.
 
 CUARTO.- Se faculta al o la titular de la (sic) del Instituto Municipal de Salud Mental, para firmar todos aquellos documentos y resoluciones que se originen con motivo de la sustanciación de los procedimientos con antelación a la vigencia de la presente reforma.
 
@@ -24497,11 +24505,11 @@ QUINTO.- El personal adscrito al Departamento de Salud Mental de la Dirección G
 
 La Secretaría de Administración llevará a cabo todos los actos legales y administrativos que se susciten con motivo de las presentes reformas, salvaguardando los derechos laborales de todos los empleados.
 
-SEXTO.- En el momento que inicie la vigencia legal del Reglamento y la estructura orgánica del Instituto Municipal de Salud Mental de Aguascalientes, todos los asuntos en trámite de tipo legal o administrativo, así como los recursos humanos, presupuestales y materiales del Departamento de Salud Mental perteneciente a la Dirección General del Sistema para el Desarrollo Integral de la Familia, serán competencia y pasarán a formar parte del patrimonio del citado Instituto en los términos del presente Acuerdo.
+SEXTO.– En el momento que inicie la vigencia legal del Reglamento y la estructura orgánica del Instituto Municipal de Salud Mental de Aguascalientes, todos los asuntos en trámite de tipo legal o administrativo, así como los recursos humanos, presupuestales y materiales del Departamento de Salud Mental perteneciente a la Dirección General del Sistema para el Desarrollo Integral de la Familia, serán competencia y pasarán a formar parte del patrimonio del citado Instituto en los términos del presente Acuerdo.
 
-SEPTIMO.- La Secretaría de Finanzas y la Secretaría de Administración, en el ámbito de sus respectivas competencias y dentro de los 60 días hábiles siguientes a que inicien su vigencia las presentes reformas y adiciones, deberán impulsar las adecuaciones presupuestales y administrativas que en su caso sean necesarias para el funcionamiento del Instituto Municipal de Salud Mental.
+SEPTIMO.– La Secretaría de Finanzas y la Secretaría de Administración, en el ámbito de sus respectivas competencias y dentro de los 60 días hábiles siguientes a que inicien su vigencia las presentes reformas y adiciones, deberán impulsar las adecuaciones presupuestales y administrativas que en su caso sean necesarias para el funcionamiento del Instituto Municipal de Salud Mental.
 
-OCTAVO.- Las referencias hechas al Departamento de Salud Mental de la Dirección General del Sistema para el Desarrollo Integral de la Familia, en las disposiciones reglamentarias, administrativas, contractuales y demás instrumentos legales, se entenderán realizadas al Instituto Municipal de Salud Mental.
+OCTAVO.– Las referencias hechas al Departamento de Salud Mental de la Dirección General del Sistema para el Desarrollo Integral de la Familia, en las disposiciones reglamentarias, administrativas, contractuales y demás instrumentos legales, se entenderán realizadas al Instituto Municipal de Salud Mental.
 
 P.O. 21 DE FEBRERO DE 2022.
 
@@ -24510,3 +24518,15 @@ P.O. 21 DE FEBRERO DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- Se Derogan las demás disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DE LA “CREACIÓN DE LA DIRECCIÓN JURÍDICA DE LA SECRETARÍA DE FINANZAS DEL MUNICIPIO DE AGUASCALIENTES”.]
+
+ÚNICO.- La presente reforma entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA AL ARTÍCULO 1109 FRACCIÓN X DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES”.]</small>
