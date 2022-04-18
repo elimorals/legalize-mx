@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-planeacion-del-estado-y-municipios-de-san-luis-potosi-26
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-24"
-last_updated: "2018-10-01"
+last_updated: "2022-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PLANEACIÓN DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 24 de noviembre de 2001.
 
@@ -405,6 +405,10 @@ De la misma forma, deberá consultarse a la población de las comunidades indíg
 
 El Plan Estatal de Desarrollo contendrá las estrategias, objetivos, prioridades del desarrollo estatal, las previsiones generales sobre los recursos a utilizar, la definición de instrumentos, responsables de su ejecución y los lineamientos de política general, sectorial y regional.
 
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2022)</small>
+
+El Plan Estatal de Desarrollo deberá apegarse a los criterios de, interés público, legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas, y transversalidad de la perspectiva de género.
+
 ###### ARTICULO 14.
 
 El Plan Estatal de Desarrollo deberá indicar los programas regionales, sectoriales, especiales e institucionales que habrán de elaborarse para la atención de los aspectos específicos y de interés general para el desarrollo de la Entidad y sus regiones.
@@ -770,3 +774,11 @@ PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el 
 SEGUNDO. Las dependencias y entidades de la administración pública estatal y municipal, organismos constitucionales autónomos y demás instituciones obligadas a reportar la información a que se refiere este Decreto al Banco Estatal de Indicadores de Género, comenzarán a dar cumplimiento a la misma, a partir del inicio de operaciones del referido Banco. La fecha de inicio de operaciones deberá ser notificada por escrito con cuando menos treinta días de anticipación a todas las dependencias, entidades, organismos constitucionales autónomos e instituciones obligadas de la administración pública estatal y a los municipios, por el Instituto de las Mujeres del Estado.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0300.- SE ADICIONA AL ARTÍCULO 13 EL PÁRRAFO SEGUNDO, DE LA LEY DE PLANEACIÓN DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
