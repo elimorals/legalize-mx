@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asistencia-social-para-el-estado-y-municipios-de-san-153
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-20"
-last_updated: "2021-12-20"
+last_updated: "2022-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 20 de diciembre de 2021.
 
@@ -423,21 +423,29 @@ El DIF Estatal operará los establecimientos públicos de asistencia social en l
 
 Asimismo, supervisará las actividades y los servicios de asistencia social que prestan las instituciones de asistencia social pública y privada, conforme lo establece la Ley General de Salud, el presente Ordenamiento y las demás disposiciones señaladas en el párrafo que antecede.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2022)</small>
+
 ###### ARTÍCULO 20.
 
-Con el objeto de procurar y proteger el interés superior de niñas, niños y adolescentes sujetos a adopción, que se encuentren albergados en centros de asistencia social públicos y privados autorizados, el DIF Estatal, constituirá e integrará el Consejo Técnico de Adopciones en términos de la normatividad vigente en la materia.
+Con el objeto de procurar y proteger el interés superior de niñas, niños y adolescentes sujetos a adopción, que se encuentren albergados en centros de asistencia social públicos y privados autorizados, el DIF Estatal, constituirá e integrará el Comité Técnico de Adopción en términos de la normatividad vigente en la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2022)</small>
 
 ###### ARTÍCULO 21.
 
-El Consejo Técnico de Adopciones es el órgano colegiado del Sistema para el Desarrollo Integral de la Familia del Estado, integrado por:
+El Comité Técnico de Adopción es el órgano colegiado de la Procuraduría de Protección de Niñas, Niños y Adolescentes, integrado por:
 
 I. Titular de la Junta Directiva del DIF Estatal: Presidencia Honoraria;
 
 II. Titular de la Dirección General del DIF Estatal: Presidencia Ejecutiva;
 
-III. Titular de la Dirección de Asuntos Jurídicos y Derechos Humanos del DIF Estatal, como Secretaría Técnica;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
 
-IV. Primera Consejería, Titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes;
+III. Titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes: Secretaría Técnica;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
+
+IV. Primera Consejería: Dirección de Asuntos Jurídicos y Derechos Humanos del DIF Estatal;
 
 V. Segunda Consejería: Dirección General del Centro de Asistencia Social Margarita Maza de Juárez;
 
@@ -449,21 +457,31 @@ VIII. Quinta Consejería: Titular del área de Gestión y Participación Social 
 
 IX. Sexta Consejería: Dirección de Integración Social de Personas con Discapacidad del DIF Estatal.
 
-El cargo de integrante del Consejo Técnico de Adopción es honorífico por lo que no se recibirá retribución, gratificación, emolumentos o compensación alguna. Quienes lo integren contarán con voz y voto y, en caso de empate, la Presidencia Honoraria tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2022)</small>
 
-Para el mejor desempeño de sus funciones, la persona que presida el Consejo Técnico de Adopciones, por conducto de la persona Titular de la Secretaria Técnica, podrá invitar a las sesiones a personas o instituciones que, en razón de su labor o profesión, posean conocimientos en la materia, así como también a los centros de asistencia social públicos y privados en donde se encuentren albergadas las niñas, niños y adolescentes beneficiarios del trámite de adopción, quienes serán considerados como invitados especiales y participarán en las sesiones del Consejo, con voz, pero sin voto.
+Quienes lo integren contarán con voz y voto y, en caso de empate, la Presidencia Honoraria tendrá voto de calidad. Para el mejor desempeño de sus funciones, la persona que presida el Comité Técnico de Adopciones, por conducto de la persona Titular de la Secretaria Técnica, podrá invitar a las sesiones a personas o instituciones que, en razón de su labor o profesión, posean conocimientos en la materia, quienes serán considerados como invitados especiales y participarán en las sesiones del Comité, con voz, pero sin voto.
+
+> <small>(DEROGADO DÉCIMO SEGUNDO PÁRRAFO, P.O. 18 DE ABRIL DE 2022)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2022)</small>
 
 ###### ARTÍCULO 22.
 
-Las atribuciones del Consejo Técnico de Adopciones son las siguientes:
+Las atribuciones del Comité Técnico de Adopción son las siguientes:
 
-I. Analizar el cumplimiento de los requisitos administrativos, los expedientes para adopción propuestos al Consejo Técnico de Adopciones por la Secretaria Técnica y los demás elementos propios del trámite administrativo, procurando en todo momento el interés de las niñas, niños y adolescentes susceptibles de adopción;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
 
-II. Declarar la idoneidad o lo que procesa en su caso de conformidad con los requisitos de adopción previa revisión y debate acerca del expediente administrativo de las personas solicitantes;
+I. Analizar el cumplimiento de los requisitos administrativos, los expedientes para adopción propuestos al Comité Técnico de Adopción por la Secretaria Técnica y los demás elementos propios del trámite administrativo, procurando en todo momento el interés de las niñas, niños y adolescentes susceptibles de adopción;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
+
+II. Declarar la idoneidad o lo que proceda en su caso de conformidad con los requisitos de adopción previa revisión y debate acerca del expediente administrativo de las personas solicitantes;
 
 III. Asignar a niñas, niños y adolescentes susceptibles de adopción albergados en las instituciones públicas a los solicitantes previamente declarados idóneos;
 
-IV. Ordenar a las áreas correspondientes o canalizar a servicios profesionales externos, para la realización de las investigaciones y estudios complementarios que permitan establecer el criterio del Consejo en relación a las personas solicitantes o a niñas, niños y adolescentes susceptibles de adopción;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
+
+IV. Ordenar a las áreas correspondientes o canalizar a servicios profesionales externos autorizados, para la realización de las investigaciones y estudios complementarios que permitan establecer el criterio del Comité en relación a las personas solicitantes o a niñas, niños y adolescentes susceptibles de adopción;
 
 V. Adoptar las medidas pertinentes en cada caso, en lo referente al acogimiento pre-adoptivo de las niñas, niños y adolescentes con las personas solicitantes;
 
@@ -1172,3 +1190,11 @@ J. GUADALUPE TORRES SÁNCHEZ
 El Secretario General de Gobierno
 
 (Rúbrica)
+
+P.O. 18 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0299.- SE REFORMAN LOS ARTÍCULOS 20, 21 EN SU PÁRRAFO PRIMERO Y EN SUS FRACCIONES III Y IV Y 22 EN SU PÁRRAFO PRIMERO Y EN SUS FRACCIONES I, II Y IV; Y DEROGA DEL ARTÍCULO 21 SU AHORA PÁRRAFO DÉCIMO SEGUNDO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
