@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2022-04-11"
+last_updated: "2022-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -2885,7 +2885,9 @@ IV. Comerciar o expender carnes o productos de animales para consumo humano, a l
 
 V. Expedir certificados oficiales de no presencia de sustancias beta-agonistas en animales o productos destinados al consumo humano, a los cuales se les haya administrado.
 
-En el caso de los atentados a la Salud Pública a que se refieren las Fracciones I, II y III se le aplicará al responsable de 3 a 6 años de prisión y de 400 a 800 días multa; en el caso de la Fracción IV se le aplicará al responsable de 1 a 3 años de prisión y de 250 a 500 días multa; y en el caso de la Fracción V, se le aplicará al responsable de 4 a 8 años de prisión y de 500 a 1000 días multa; en todos los casos, el responsable deberá hacer el pago total de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2022)</small>
+
+En el caso de los atentados a la Salud Pública a que se refieren las Fracciones I, II y III se le aplicará al responsable de 4 a 8 años de prisión y de 400 a 800 días multa; en el caso de la Fracción IV se le aplicará al responsable de 2 a 4 años de prisión y de 250 a 500 días multa; y en el caso de la Fracción V, se le aplicará al responsable de 5 a 10 años de prisión y de 500 a 1000 días multa; en todos los casos, el responsable deberá hacer el pago total de los daños y perjuicios ocasionados.
 
 Se exceptúa la responsabilidad del sujeto activo derivada de la Fracción IV, cuando no tenga conocimiento de que la carne o productos animales para consumo humano que comercializa o expende se encuentren contaminados con sustancias beta-agonistas.
 
@@ -3560,3 +3562,11 @@ P.O. 11 DE ABRIL DE 2022.
 ###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 193 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+– El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
