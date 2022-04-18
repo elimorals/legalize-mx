@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-21-2020-del-pleno-del-consejo-de-la-143712"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-07-31"
-last_updated: "2022-01-17"
+last_updated: "2022-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143712&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,11 @@ issue_date: "2020-07-28"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE MAYO DE 2022 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 ACUERDO GENERAL 21/2020, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA REANUDACIÓN DE PLAZOS Y AL REGRESO ESCALONADO EN LOS ÓRGANOS JURISDICCIONALES ANTE LA CONTINGENCIA POR EL VIRUS COVID-19
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ABRIL DE 2022.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 31 de julio de 2020.
 
@@ -79,11 +81,11 @@ ACUERDO
 
 ### CAPÍTULO I. Disposiciones generales
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 1/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE ENERO DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
 
 ###### Artículo 1.
 
-Vigencia. Con el objetivo de reanudar en su totalidad las actividades jurisdiccionales dentro del Poder Judicial de la Federación (en adelante "PJF"), mientras se garantiza la continuidad de las medidas tendientes a evitar la concentración de personas y la propagación del virus Covid-19, del 3 de agosto de 2020 al 1° de mayo de 2022, la actividad jurisdiccional se sujetará a las reglas establecidas en el presente Acuerdo.
+Vigencia. Con el objetivo de reanudar en su totalidad las actividades jurisdiccionales dentro del Poder Judicial de la Federación (en adelante "PJF"), mientras se garantiza la continuidad de las medidas tendientes a evitar la concentración de personas y la propagación del virus Covid-19, del 3 de agosto de 2020 al 5 de junio de 2022, la actividad jurisdiccional se sujetará a las reglas establecidas en el presente Acuerdo.
 
 ###### Artículo 2.
 
@@ -115,11 +117,15 @@ IX. En caso de requerimientos y apercibimientos a las autoridades responsables e
 
 Micrositio de servicios jurisdiccionales y proceso de generación de citas para consulta de expedientes o comparecencias. A partir del 3 de agosto de 2020 estará disponible en el Portal de Servicios en Línea un micrositio sobre "Servicios jurisdiccionales", dentro del cual las personas justiciables encontrarán los teléfonos, correos electrónicos institucionales y demás información de contacto de todos los órganos jurisdiccionales a cargo del Consejo de la Judicatura Federal (en adelante "Consejo"), así como las listas para sesión y de acuerdos.
 
-Adicionalmente, en dicho micrositio encontrarán el sistema "Agenda OJ", en el que aparecerán las fechas y horarios disponibles en cada órgano jurisdiccional para la generación de citas para consultar expedientes y el desahogo de comparecencias o requerimientos. La generación de citas será un proceso automatizado que otorgará a la persona a cuyo nombre se solicite, un Código QR que, a su vez, permitirá que ella y, en su caso, otra persona autorizada en el expediente respectivo, ingresen al órgano jurisdiccional. El acceso estará condicionado a que al menos una de las personas que acuda a la cita se identifique como la persona a cuyo nombre se generó, sin que la otra esté exenta de registrarse. El acceso podrá restringirse a quienes acudan fuera del horario previsto y a quienes no cumplan los requisitos para pasar los filtros sanitarios.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
+
+Adicionalmente, en dicho micrositio encontrarán el sistema "Agenda OJ", en el que aparecerán las fechas y horarios disponibles en cada órgano jurisdiccional para la generación de citas para consultar expedientes y el desahogo de comparecencias o requerimientos. La generación de citas será un proceso automatizado que otorgará a la persona a cuyo nombre se solicite, un Código QR que, a su vez, permitirá que ella y, en su caso, otra persona autorizada en el expediente respectivo, ingresen al órgano jurisdiccional. El acceso estará condicionado a que al menos una de las personas que acuda a la cita se identifique como la persona a cuyo nombre se generó, sin que la otra esté exenta de registrarse. El acceso podrá restringirse a quienes acudan fuera del horario previsto y a quienes no cumplan los requisitos que en su caso determine la Comisión Especial.
 
 El Código QR podrá presentarse electrónicamente en un dispositivo móvil o podrá llevarse impreso, y dará derecho a que un máximo de dos personas accedan al órgano jurisdiccional ante el cual se programó la cita, sin que puedan utilizar ese pase para visitar órganos distintos.
 
-El sistema permitirá generar citas cada media hora: una en la secretaría de acuerdos de cada tribunal colegiado de Circuito; dos en cada juzgado de Distrito, tribunal unitario de Circuito y ponencia de tribunal colegiado de Circuito; y tres en cada Centro de Justicia Penal Federal.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
+
+El sistema permitirá generar el número de citas que determine la Comisión Especial, de acuerdo con los esquemas de asistencia respectivos.
 
 ###### Artículo 4.
 
@@ -189,9 +195,11 @@ Reglas sobre actividad administrativa en órganos jurisdiccionales. El restablec
 
 Oficinas de Correspondencia Común (en adelante "OCC"). El trabajo y las labores de las OCC se regirán por las siguientes reglas:
 
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
+
 I. La recepción de todos los escritos iniciales que se presenten físicamente se hará mediante su depósito en los buzones judiciales colocados en todas las OCC del país, tanto en casos urgentes como no urgentes, salvo las precisiones del siguiente párrafo y la fracción III de este precepto.
 
-Los buzones judiciales estarán habilitados de las 8:30 a las 20:00 horas para recibir asuntos no urgentes. Los urgentes se podrán depositar en el buzón judicial de lunes a jueves hasta las 14:30, ya que a partir de las 14:31 y los viernes y fines de semana, deberán presentarse directamente al órgano de guardia.
+Los buzones judiciales estarán habilitados de las 8:30 a las 11:59 horas para recibir asuntos no urgentes. Los urgentes se podrán depositar en el buzón judicial de lunes a jueves hasta las 14:30, ya que a partir de las 14:31 y los viernes y fines de semana, deberán presentarse directamente al órgano de guardia.
 
 II. El personal adscrito a las OCC realizará labores presenciales y remotas, conforme al esquema descrito a continuación:
 
@@ -225,9 +233,11 @@ a) A las oficialías de partes de cada uno de los órganos jurisdiccionales a lo
 
 b) A los órganos jurisdiccionales únicos que operen con sus oficialías de partes y que se encuentren en localidades donde existan OCC, para recibir asuntos de término conforme a lo previsto en el inciso anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
+
 ###### Artículo 11.
 
-Funcionamiento de los buzones judiciales. Es responsabilidad exclusiva de las personas usuarias verificar que los asuntos que depositen en los buzones judiciales estén en sobre u otro empaque similar, debidamente firmados, integrados y dirigidos a los tribunales de Circuito o juzgados de Distrito a los que presta servicio la OCC de que se trate.
+Funcionamiento de los buzones judiciales. Es responsabilidad exclusiva de las personas usuarias verificar que los asuntos que depositen en los buzones judiciales estén en sobre u otro empaque similar, debidamente firmados, integrados y dirigidos a los tribunales de Circuito, juzgados de Distrito o Tribunales Laborales Federales a los que presta servicio la OCC de que se trate.
 
 Al realizar el depósito, la propia persona promovente genera su acuse con el reloj fechador que se encuentra integrado al buzón, mientras que la boleta de turno se enviará por correo electrónico a las partes que lo proporcionen. Con independencia de lo anterior, las personas promoventes pondrán (sic) consultar el turno de sus asuntos en los listados que se colocan físicamente en las OCC, en un espacio de libre consulta al público.
 
@@ -235,7 +245,9 @@ Al realizar el depósito, la propia persona promovente genera su acuse con el re
 
 Oficialías de partes comunes (en adelante "OPC"). En cada edificio sede de órganos jurisdiccionales se habilitarán OPC para la recepción de promociones presentadas físicamente, las cuales se colocarán en los espacios que las respectivas administraciones de los edificios señalen, previa opinión de la Dirección General de Protección Civil y Salud en el Trabajo, atendiendo a su accesibilidad para el público en general y a la necesidad de evitar que quienes acuden a presentar promociones y carecen de una cita, transiten hacia áreas cerradas en las que podrían generar mayor concentración de personas. Operarán con las siguientes reglas:
 
-I. Las OPC replicarán la división de turnos, en el entendido de que la del turno matutino prestará servicios de las 9:00 a las 14:00, exclusivamente para órganos que laboren por las mañanas, y la del turno vespertino lo hará de las 15:00 a las 19:00, solo para los órganos que laboren por las tardes.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
+
+I. Las OPC prestarán servicios de las 8:00 a las 15:00 horas, con excepción de los días inhábiles. Recibirán promociones dirigidas en específico a los órganos jurisdiccionales a los que presten servicio, lo cual no incluye aquéllas dirigidas genéricamente al órgano jurisdiccional en turno ni demandas nuevas (las cuales serán recibidas por las OCC).
 
 II. En todo caso, el personal encargado de recibir los documentos deberá asentar si estos cuentan con firma autógrafa, si son anexos, originales o copias, o cualquier otra cuestión relevante.
 
@@ -255,9 +267,11 @@ IX. La ubicación de cada OPC será definida por la administración de cada edif
 
 ### CAPÍTULO IV. Trabajo presencial y a distancia en los órganos jurisdiccionales
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
+
 ###### Artículo 13.
 
-Esquemas presencial y remoto. El trabajo en los órganos jurisdiccionales se desempeñará presencialmente o de manera remota. Al respecto, la jornada laboral sigue conservando la duración prevista en las Condiciones Generales de Trabajo, de modo que, por exclusión, quienes no estén laborando físicamente en el órgano jurisdiccional, ya sea porque concluyeron la parte presencial de su jornada o porque la misma se lleve en su totalidad a distancia, se consideran como parte del esquema de trabajo remoto o teletrabajo.
+Esquemas presencial y remoto. El trabajo en los órganos jurisdiccionales se desempeñará presencialmente o de manera remota. Al respecto, la jornada laboral sigue conservando la duración prevista en las Condiciones Generales de Trabajo, de modo que, por exclusión, quienes no estén laborando físicamente en el órgano jurisdiccional, ya sea porque concluyeron la parte presencial de su jornada o porque la misma se lleve en su totalidad a distancia, se consideran como parte del esquema de trabajo remoto o teletrabajo. Las y los titulares podrán adoptar las medidas de organización que estimen pertinentes para monitorear el trabajo a distancia.
 
 Lo anterior implica que, salvo que se encuentren gozando de un período vacacional o de alguna licencia, las personas deberán cumplir con las funciones que les sean encomendadas durante la vigencia del presente Acuerdo. Dicho personal deberá permanecer dentro de la jurisdicción del órgano de su adscripción, salvo autorización expresa de sus titulares.
 
@@ -269,25 +283,45 @@ En adición a lo anterior, se estima que, por regla general, las y los trabajado
 
 Trabajo presencial en los órganos jurisdiccionales. La asistencia física a los órganos jurisdiccionales atenderá las siguientes reglas:
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 9/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
 
-I. Las personas en situación de vulnerabilidad, es decir, personas adultas mayores de 60 años, mujeres embarazadas o en estado de puerperio inmediato o en lactancia, y personas con asma, obesidad, enfermedad cerebrovascular, diabetes, hipertensión, enfermedades cardiovasculares, enfermedades pulmonares crónicas, cáncer; inmunosupresión (adquirida o provocada), o con insuficiencia renal o hepática, que presten sus servicios en los órganos jurisdiccionales, bajo protesta de decir verdad, comunicarán dicha circunstancia a las y los titulares a los cuales se encuentren adscritos, y adjuntarán el diagnóstico médico o los estudios clínicos que acrediten tal situación.
+I. Se considera como persona en situación de vulnerabilidad quien reúna las siguientes condiciones:
 
-Las y los titulares de los órganos jurisdiccionales podrán solicitar la opinión de Servicios Médicos respecto a las situaciones de vulnerabilidad del personal que tengan bajo su adscripción.
+a) Se encuentre en situación de especial vulnerabilidad frente a la enfermedad Covid-19, es decir, personas adultas mayores de 60 años; mujeres embarazadas o en estado de puerperio inmediato o en lactancia; y personas con asma, obesidad, enfermedad cerebrovascular, diabetes, hipertensión, enfermedades cardiovasculares, enfermedades pulmonares crónicas, cáncer, inmunosupresión (adquirida o provocada), insuficiencia renal o hepática, conforme a los criterios y parámetros establecidos por la Dirección de Servicios Médicos, dependiente de la Dirección General de Servicios al Personal.
 
-Las y los servidores públicos que no tengan la posibilidad de dejar al cuidado de otra persona a sus hijas o hijos menores de 14 años de edad o con alguna discapacidad, también comunicarán tal situación bajo protesta de decir verdad a las y los titulares de los órganos jurisdiccionales a los cuales se encuentran adscritos.
+b) Por indicación médica, hubiera optado por no recibir la inmunización en las jornadas de vacunación que le correspondiera conforme a lo determinado por la Secretaría de Salud Federal, por considerarse una contraindicación médica.
 
-Dado que las personas que se encuentran en esta situación debieron declararlo así bajo protesta de decir verdad dentro del censo realizado para tal efecto por la Dirección General de Gestión Judicial, dicha situación se presume bajo la más estricta responsabilidad de quien así lo haya declarado.
+También se considera como persona en situación de vulnerabilidad a quien se ubique en la hipótesis de lactancia durante el periodo de una licencia médica emitida en su favor por maternidad; quien curse el tercer trimestre del embarazo; y quien padezca cáncer y haya requerido tratamiento quimioterapeútico en el mes previo.
 
-Salvo instrucción en contrario por parte de la Comisión Especial, las personas en situación de vulnerabilidad realizarán labores presenciales en las oficinas y espacios de trabajo de los órganos jurisdiccionales, cuando ya hubieren tenido la posibilidad de recibir el esquema completo de vacunación contra la COVID 19, conforme a los criterios establecidos en la Política Nacional de Vacunación, el calendario de vacunación aplicable en su localidad de residencia, y demás disposiciones emitidas por el Gobierno Federal.
+La condición de vulnerabilidad debe ser declarada bajo protesta de decir verdad ante la Dirección de Servicios Médicos y acreditada con la documentación que dicha unidad administrativa determine. Dicha Dirección se pronunciará sobre si, efectivamente, se actualiza la vulnerabilidad declarada. Lo anterior se presume bajo la más estricta responsabilidad de quien así lo haya declarado.
 
-Continuarán realizando labores a distancia las personas en situación de vulnerabilidad que aún no tengan la posibilidad de recibir el esquema completo de vacunación o que, teniéndola, no lo recibieron debido única y exclusivamente a una contraindicación médica, lo cual informarán a las y los titulares de los órganos jurisdiccionales a los cuales se encuentren adscritos, así como adjuntarán, en el caso de contraindicación médica, el diagnóstico o estudios clínicos correspondientes.
-
-Sin perjuicio de lo anterior, en el caso de labores calificadas o especializadas que tengan que realizarse presencialmente por personas en situación de vulnerabilidad que no hayan tenido la posibilidad de recibir el esquema completo de vacunación, la prestación de dichos servicios se realizará necesariamente de manera voluntaria.
+Las y los servidores públicos deberán informar a su titular el momento en que la situación de vulnerabilidad deje de estar vigente, en caso de que esta sea transitoria.
 
 II. El personal que se encuentre en las hipótesis previstas en la fracción anterior únicamente podrá tener encomendadas tareas cuya realización pueda practicarse a distancia, sin que ello implique su exclusión de la obligación de cumplir con su jornada laboral y con las exigencias acordes a su cargo, con los ajustes que, en su caso, implique su desempeño en vía remota.
 
-III. Con el objeto de evitar la concentración de personas en los órganos jurisdiccionales, deberá procurarse que labore presencialmente la menor cantidad de personas, quedando terminantemente prohibido que se presente de manera simultánea más del 25% del personal en tribunales colegiados de Circuito y del 30% en juzgados de Distrito, tribunales unitarios de Circuito y Centros de Justicia Penal Federal. Se precisa lo siguiente en torno a los porcentajes antes mencionados:
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
+
+Las personas servidoras públicas deberán informar a las y los titulares de los órganos jurisdiccionales a los cuales se encuentran adscritos si se ubican en el supuesto de la fracción anterior.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
+
+Las y los titulares de los órganos jurisdiccionales podrán solicitar la opinión de la Dirección de Servicios Médicos respecto de la situación de vulnerabilidad del personal que tengan bajo su adscripción.
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
+
+II Bis. Las personas servidoras públicas que tengan hijas o hijos menores de 14 años de edad en educación básica, es decir, inicial, preescolar, primaria y secundaria, deberán informar a las y los titulares de los órganos jurisdiccionales a los cuales se encuentran adscritos, la necesidad de ser exentas de prestar labores presenciales.
+
+Para efectos de la exención, deberá justificarse, ante la persona titular, con la documentación o comunicaciones que emita la institución educativa la modalidad de prestación del servicio de educación. Es decir, si el esquema de clases es presencial, remoto, o híbrido; si hay variaciones al esquema a lo largo del año escolar; o si se instruye el aislamiento temporal del grupo o célula del o de la menor de edad; entre otros supuestos. Asimismo, la persona titular, de preferencia de común acuerdo con la persona trabajadora, podrá definir un esquema de trabajo presencial, remoto o mixto, que permita efectuar ajustes razonables, en función del horario escolar de las y los menores. En caso de que la persona trabajadora no acredite, por algún medio, la modalidad indicada por la institución educativa; o la determinación temporal de aislamiento, con la mayor anticipación posible, se incorporará a las labores presenciales conforme a la asignación de turno y horario escalonado para el trabajo presencial en los órganos jurisdiccionales.
+
+Si ambos cónyuges, concubina, concubinario o parejas son personas trabajadoras del Poder Judicial de la Federación, ya sea en órganos jurisdiccionales o áreas administrativas del Consejo de la Judicatura Federal, y comparten la guarda y custodia de hijas o hijos menores de 14 años en educación básica, propondrán a la o las personas titulares que se realicen de forma alternada la posibilidad de prestar sus servicios de manera presencial.
+
+En el caso de las personas a cargo del cuidado de otra persona con alguna discapacidad, que no tengan posibilidad de dejarla bajo el cuidado de algún tercero o tercera, deberán informar y justificar por el medio disponible tal situación. De igual forma, se procurará, bajo un principio de buena fe, acordar la posibilidad de prestar labores presenciales cuando haya esa posibilidad.
+
+Para efectos de la resolución de los conflictos que puedan derivarse de lo previsto en los tres párrafos anteriores, debe privilegiarse el consenso entre las personas trabajadoras y las titulares, teniendo en cuenta tanto el bienestar de las personas menores de edad o con discapacidad; como la prestación del servicio público. En caso de conflicto, éste deberá formularse ante la Comisión Especial, por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos. La propia Comisión podrá delegar la facultad de resolución de los mencionados conflictos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
+
+III. Con el objeto de evitar la concentración de personas en los órganos jurisdiccionales, deberá procurarse que labore presencialmente la menor cantidad de personas, quedando terminantemente prohibido que se presente de manera simultánea más del 75% del personal en tribunales colegiados de Circuito y del 80% en los juzgados de Distrito, tribunales unitarios de Circuito, Tribunales Colegiados de Apelación, Centros de Justicia Penal Federal y Tribunales Laborales Federales. Se precisa lo siguiente en torno a los porcentajes antes mencionados:
 
 a) Representan límites máximos, debiendo cada titular procurar la menor asistencia posible dentro de la parte presencial de la jornada laboral.
 
@@ -295,15 +329,21 @@ b) La presencia permitida es para asistencia diaria a los órganos jurisdicciona
 
 c) El porcentaje habilitado resulta aplicable a todas las personas que acudan presencialmente, sin distinción, de modo que incluye a las y los titulares y al resto de quienes integran la plantilla del órgano jurisdiccional respectivo, inclusive a quienes se integren por un día a una OPC que se encuentre en el interior del edificio respectivo, conforme a lo dispuesto en el artículo 12, fracción IX. El personal de seguridad que, en su caso, acompañe a una o un servidor público, deberá mantenerse afuera del órgano jurisdiccional para evitar trasgredir las reglas de distanciamiento social, y observar las medidas sanitarias correspondientes.
 
-d) En el caso específico de los tribunales colegiados de Circuito, el porcentaje resulta aplicable individualmente a cada ponencia y a la secretaría de acuerdos, de modo que, si en una ponencia se estima que puede trabajarse con una presencia física inferior al 25% del total de su plantilla, el porcentaje sobrante no podrá ser aprovechado por o trasladado a otra.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
 
-e) Si el número de personas que integran una plantilla no es divisible exactamente conforme al porcentaje habilitado, se entenderá que puede acudir una persona más en juzgados de distrito y tribunales unitarios de Circuito, y una menos en tribunales colegiados de Circuito.
+d) En el caso específico de los Tribunales Colegiados, el porcentaje resulta aplicable individualmente a cada ponencia y a la secretaría de acuerdos, de modo que, si en una ponencia se estima que puede trabajarse con una presencia física inferior al 75% del total de su plantilla, el porcentaje sobrante no podrá ser aprovechado por o trasladado a otra.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
+
+e) Si el número de personas que integran una plantilla no es divisible exactamente conforme al porcentaje habilitado, se entenderá que puede acudir una persona más en órganos unitarios, y Tribunales Laborales Federales, y una menos en Tribunales Colegiados.
 
 IV. El personal que labore presencialmente deberá atender escrupulosamente los horarios y lineamientos para resguardar su salud, la de sus colegas y la de las personas justiciables, destacadamente el Lineamiento de Higiene para el manejo documental y de expedientes durante la Atención a Emergencia Sanitaria por Coronavirus (COVID-19).
 
 V. Se suspende provisionalmente el registro de control de asistencia en el sistema correspondiente (SIRCA). No obstante, el acceso y salida del personal de los órganos jurisdiccionales se controlará con un sistema de emisión de Códigos QR que se vinculará a los expedientes de la Dirección General de Recursos Humanos. Dicho sistema habilitará a cada servidor o servidora pública para que tramite un código vinculado a su expediente personal, sin el cual no será posible el acceso físico a o la salida de su lugar de trabajo.
 
-VI. Se habilitarán los controles de acceso a los inmuebles del Consejo que determinen sus áreas administrativas, aplicables tanto para el personal como para las personas justiciables, los cuales incluirán, como mínimo: (i) la instalación de filtros sanitarios con medidas como el control de temperatura, tapetes sanitizantes y la dotación de insumos básicos como gel base alcohol al 70% y cubrebocas; (ii) la obligación de usar cubrebocas; y (iii) la prohibición de acceso a quienes presenten temperatura corporal igual o mayor a 37.5°C, o que hayan presentado tos, dolor de garganta, dificultad para respirar o escurrimiento nasal.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
+
+VI. Se habilitarán los controles de acceso a los inmuebles del Consejo que en su caso determine la Comisión Especial.
 
 VII. Las y los titulares valorarán la pertinencia del otorgamiento de licencias oficiales, académicas y personales a quienes estén adscritos a sus ponencias y órganos jurisdiccionales.
 
@@ -313,59 +353,61 @@ IX. Si a juicio de la o el titular de un órgano jurisdiccional, el personal con
 
 X. Los órganos jurisdiccionales designados para cubrir guardias de turno, o aquéllos que deban atender algún asunto urgente, durante el periodo señalado para tal efecto, estarán exentos de fijar los turnos y horarios escalonados a que se refiere el artículo siguiente. En todo caso, deberán dar aviso a la oficina administrativa correspondiente sobre las personas que ingresarán al órgano jurisdiccional, sin que esta cantidad pueda en ningún motivo exceder lo previsto en la fracción III de este artículo, justificando esa circunstancia en la guardia o caso urgente correspondiente.
 
-XI. Se procurará que, si la plantilla, la potencial situación de vulnerabilidad frente al Covid-19 de parte del personal, las funciones y la organización del área administrativa lo permiten, quienes realicen labores presencialmente, puedan trabajar a distancia durante dos semanas antes de asistir nuevamente a una guardia presencial. También se procurará que una misma persona no esté en contacto con distintos equipos de trabajo.
+XI. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 25/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
 
 ###### Artículo 15.
 
-Turnos y horarios escalonados para el trabajo presencial. Las jornadas presenciales de todos los órganos jurisdiccionales a cargo del Consejo de la Judicatura Federal serán de seis horas. Como medida para evitar la concentración del personal, los órganos de cada edificio se dividirán hasta en ocho grupos, repartidos en dos turnos, cada uno de los cuales, a su vez, tendrá cuatro horarios de entrada y salida. Es importante enfatizar que el horario resulta aplicable al órgano jurisdiccional en su totalidad.
+Turnos y horarios escalonados para el trabajo presencial. Las jornadas presenciales de todos los órganos jurisdiccionales a cargo del Consejo de la Judicatura Federal serán de siete horas, en un turno matutino. A determinación de la Comisión Especial, podrá ampliarse hasta ocho horas. Como medida para evitar la concentración del personal, el ingreso del personal de los órganos jurisdiccionales de cada edificio tendrá cuatro horarios de entrada y salida. Es importante enfatizar que el horario resulta aplicable al órgano jurisdiccional en su totalidad.
 
-Grupo Turno Hora de entrada Hora de salida
+Hora de entrada Hora de salida
 
-1 7:45 13:45
+7:45 14:45
 
-2 8:30 14:30
+8:30 15:30
 
-3 Matutino 9:15 15:15
+9:15 16:15
 
-4 10:00 16:00
+10:00 17:00
 
-5 12:30 18:30
+El horario de ingreso a los Tribunales Laborales Federales será a partir de las 9:00 horas.
 
-6 Vespertino 13:15 19:15
-
-7 14:00 20:20
-
-8 14:45 20:45
-
-En el Anexo 1 del presente Acuerdo se definirán, a propuesta de la Secretaría Ejecutiva de Creación de Nuevos Órganos, los grupos a los que pertenece cada órgano jurisdiccional, lo cual implica la asignación de un turno y horario inamovible.
+Con base en las condiciones sanitarias que prevalezcan, la Comisión Especial podrá determinar la implementación de dos turnos, así como disminuir o variar los horarios, los porcentajes de asistencia y la extensión de la jornada laboral presencial.
 
 ###### Artículo 16.
 
 Acceso del personal a los órganos jurisdiccionales. De conformidad con lo dispuesto en el artículo 14, fracción V, el acceso del personal al órgano jurisdiccional de su adscripción se realizará necesaria e inevitablemente mediante la presentación del Código QR asociado a su expediente personal, ya sea de forma electrónica en un dispositivo móvil o impreso.
 
-Al respecto, la Dirección General de Protección Civil y Salud en el Trabajo definirá las rutas de acceso y salida que corresponderán a cada grupo, procurando evitar en la medida de lo posible la concentración de personas. Con la misma finalidad, el personal podrá ingresar al órgano jurisdiccional desde 5 minutos antes del inicio de su turno y hasta 35 minutos después de que haya iniciado.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
+
+Al respecto, la Dirección General de Protección Civil y Salud en el Trabajo definirá las rutas de acceso y salida que corresponderán a cada grupo, procurando evitar en la medida de lo posible la concentración de personas. Con la misma finalidad, el personal podrá ingresar al órgano jurisdiccional desde 15 minutos antes del inicio de su turno y hasta 35 minutos después de que haya iniciado.
 
 El sistema automáticamente impedirá el acceso fuera del horario habilitado y la asistencia de personas por encima de los límites autorizados, sin excepciones o salvedades, por lo que es responsabilidad absoluta de cada servidora o servidor público, y de las y los titulares, que se respeten las reglas antes establecidas.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
+
 ###### Artículo 17.
 
-Permanencia del personal durante su jornada presencial. Toda vez que el horario previsto para la jornada presencial es reducido, quedan prohibidas las salidas y reingresos durante dicha jornada, salvo para actuarias y actuarios, y quienes realicen funciones de notificación.
+Permanencia del personal durante su jornada presencial. Se procurará evitar las salidas y reingresos durante dicha jornada, salvo para personas titulares, actuarias y actuarios, y quienes realicen funciones de notificación, tratándose del demás personal deberá contarse con autorización o seguir los lineamientos que determine la persona Titular del órgano jurisdiccional.
 
 ###### Artículo 18.
 
 Responsabilidad por incumplimiento. El incumplimiento a las reglas aplicables al esquema de trabajo presencial podrá dar lugar al inicio de procedimientos de naturaleza laboral o disciplinaria para quien incurra en la falta, además de que podrá dar lugar a su expulsión del recinto físico durante el resto de ese día.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
+
 ###### Artículo 19.
 
-Modificaciones a las condiciones antes descritas. Durante la vigencia del presente Acuerdo, la Comisión Especial del Consejo estará facultada para modificar en un Circuito específico o en todo el país, el esquema de presencia controlada descrito en los artículos anteriores. Para ello, considerando si la contingencia sanitaria se agrava o disminuye conforme a la información disponible por parte de las instancias nacionales e internacionales en materia de salubridad, podrá implementar lo siguiente:
+Modificaciones a las condiciones antes descritas. Durante la vigencia del presente Acuerdo, la Comisión Especial del Consejo estará facultada para modificar en un Circuito específico, en todo el país, o en el órgano u órganos que se estime necesario, el esquema de presencia controlada descrito en los artículos anteriores. Para ello, considerando si la contingencia sanitaria se agrava o disminuye conforme a la información disponible por parte de las instancias nacionales e internacionales en materia de salubridad, podrá implementar lo siguiente:
 
 I. Esquema de contingencia: en caso de que se actualice el mayor riesgo, podrá regresarse al esquema implementado en el Acuerdo General 13/2020 del Pleno del Consejo de la Judicatura Federal, relativo al esquema de trabajo y medidas de contingencia en los órganos jurisdiccionales por el fenómeno de salud pública derivado del virus COVID-19.
 
-II. Esquema de presencia mínima: se mantienen la división por turnos, el escalonamiento de horarios y la duración de la jornada presencial, pero se reduce la presencia física a 4 personas por ponencia y a 3 en la secretaría de acuerdos en tribunales colegiados de Circuito, y a 6 personas en juzgados de Distrito y tribunales unitarios de Circuito. En este esquema podrán implementarse medidas como la suspensión de citas para consulta de expedientes y la ampliación de plazos, entre otras.
+II. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)
 
-III. Esquema de presencia moderada: se mantienen la división por turnos y el escalonamiento de horarios, pero se aumentan la jornada presencial a seis horas y el porcentaje habilitado para presencia física del personal jurisdiccional, sin que pueda autorizarse la presencia de más del 50%. En este esquema podrán implementarse medidas como un nuevo escalonamiento de horarios para que todos inicien durante el transcurso de la mañana, entre otras.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
+
+III. Esquema de presencia máxima: se mantiene el ingreso con escalonamiento de horarios, pero se aumenta la jornada presencial hasta ocho horas y el porcentaje habilitado para presencia física del personal jurisdiccional, sin que pueda autorizarse la presencia de más del 75% del personal en tribunales colegiados de Circuito y del 80% en los juzgados de Distrito, tribunales unitarios de Circuito, Tribunales Colegiados de Apelación, Centros de Justicia Penal Federal y Tribunales Laborales Federales. En este esquema la Comisión Especial podrá implementar medidas como un nuevo escalonamiento de horarios y aumento de asistencia presencial, entre otras.
 
 > <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 9/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE AGOSTO DE 2021)</small>
 
@@ -439,7 +481,9 @@ I. Se habilitará un espacio de manera destacada en el Portal del Consejo de la 
 
 II. En caso de haber cambiado la integración del órgano jurisdiccional, el aviso a las partes se dará mediante un acuerdo publicado junto con la lista en la que aparezca el asunto para sesionarse, indicando que los impedimentos que potencialmente pudieran actualizarse podrán formularse hasta antes de la sesión, mediante una promoción enviada desde el Portal de Servicios en Línea o presentada en la OPC correspondiente.
 
-III. Las sesiones se celebrarán, invariablemente, por videoconferencia y sin la presencia del público. La sesión por este medio generará los mismos efectos y alcances jurídicos que las que se realizan con la presencia física.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
+
+III. Las sesiones se celebrarán conforme al esquema que definan los Tribunales Colegiados y los Plenos de Circuito. Las sesiones que se lleven a cabo por videoconferencia, atenderán a lo dispuesto en el artículo 27 del Acuerdo General 12/2020 del Pleno del Consejo de la Judicatura Federal, que regula la integración y trámite del expediente electrónico y el uso de videoconferencias en todos los asuntos competencia de los órganos jurisdiccionales a cargo del Consejo.
 
 IV. Concluida la sesión y dentro de un plazo razonable, el registro respectivo se cargará en la Biblioteca Virtual de Sesiones, desde la cual las partes y el público en general podrán consultar el contenido de la sesión.
 
@@ -505,7 +549,9 @@ En la línea de lo anterior, se podrán habilitar espacios diversos a las salas 
 
 V. Mientras las juezas y jueces administradores se incorporan como jueces de control y de enjuiciamiento, y siempre que las cargas de trabajo lo permitan, quedan habilitadas las juezas y jueces en funciones de ejecución, para desempeñar dichas funciones. Ello quedará sujeto a que la administración del CJPF determine lo conducente.
 
-VI. En cada CJPF estará autorizada la asistencia de hasta el 30% del personal de manera simultánea.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
+
+VI. En cada CJPF estará autorizada la asistencia de hasta el 80% del personal de manera simultánea.
 
 VII. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal habilitará una línea de contacto directo para coadyuvar con los Centros de Justicia Penal Federal en la implementación de estas medidas1.
 
@@ -515,11 +561,11 @@ VII. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal habili
 
 La Comisión Especial podrá emitir lineamientos a fin de regular el acceso de personas a las audiencias que se lleven a cabo en los CJPF, con el propósito de controlar el aforo permitido.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 20/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ABRIL DE 2022)</small>
 
 ###### Artículo 33.
 
-Audiencias sin público. Al igual que ocurre en otras materias, las audiencias penales se celebrarán sin público, hasta en tanto la Comisión Especial determine otra cosa, momento en el que se podrán permitir con la asistencia de hasta el 50% del aforo permitido. No obstante, las personas interesadas podrán acceder al registro de la audiencia inmediatamente después de su celebración, mediante su solicitud de transparencia.
+Audiencias públicas. Para efectos de las audiencias públicas, se estará a los Lineamientos emitidos por la Comisión Especial.
 
 ###### Artículo 34.
 
@@ -722,3 +768,15 @@ SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Jud
 TERCERO. A partir del 17 de enero de 2022 el turno de guardia para la recepción de asuntos en días y horas inhábiles se regirá conforme al sistema de turno de guardias de juzgados de Distrito publicado en el enlace: http://www.cjf.gob.mx/sistemaTurnosGuardias.htm
 
 CUARTO. Se mantiene la distribución de los órganos jurisdiccionales en los ocho grupos generados según la división en turnos matutino y vespertino, y de cada uno en cuatro bloques de horarios, conforme al Anexo 1 del Acuerdo General 21/2020, cuyo contenido está disponible en el siguiente enlace: https://www.cjf.gob.mx/2020/distribucionOJ.pdf
+
+D.O.F. 18 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 7/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR 21/2020, RELATIVO A LA REANUDACIÓN DE PLAZOS Y AL REGRESO ESCALONADO EN LOS ÓRGANOS JURISDICCIONALES ANTE LA CONTINGENCIA POR EL VIRUS COVID-19, EN RELACIÓN CON EL PERIODO DE VIGENCIA Y LAS FACULTADES DE LA COMISIÓN ESPECIAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. Hasta que entren en operación en todo el país los Tribunales Colegiados de Apelación, las referencias hechas a estos órganos jurisdiccionales en este Acuerdo se entenderán aplicables a los Tribunales Unitarios de Circuito.
+
+CUARTO. A partir del 2 de mayo de 2022 el turno de guardia para la recepción de asuntos en días y horas inhábiles se regirá conforme al sistema de turno de guardias de juzgados de Distrito publicado en el enlace: http://www.cjf.gob.mx/sistemaTurnosGuardias.htm
