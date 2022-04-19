@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2021-11-08"
+last_updated: "2022-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -2541,17 +2541,13 @@ Se impondrá multa de uno a diez Unidades de Medida y Actualización, a las part
 
 #### SECCION CUARTA.- DELITOS COMETIDOS CONTRA FUNCIONARIOS PUBLICOS
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
-
 ###### Artículo 207.
 
-Al que cometa un delito en contra de un funcionario público, empleado o agente de la autoridad, en el acto de ejercer sus funciones o con motivo de éstas, se le impondrá sanción de un mes a tres años de prisión y multa de uno a diez Unidades de Medida y Actualización, además de la que corresponda imponerle por el delito cometido.
-
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+(DEROGADO, P.O. 19 DE ABRIL DE 2022)
 
 ###### Artículo 208.
 
-Los ultrajes hechos al Congreso del Estado, al Tribunal Superior de Justicia, o a un Cuerpo Colegiado de la Administración de Justicia o a cualquiera otra institución pública, se sancionarán con prisión de dos meses a dos años y multa de una a cinco Unidades de Medida y Actualización.
+(DEROGADO, P.O. 19 DE ABRIL DE 2022)
 
 #### SECCION QUINTA.- ENCUBRIMIENTO
 
@@ -7564,6 +7560,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES I Y II DEL ARTÍCULO 260, LAS FRACCIONES I, II Y III DEL 261, EL CUARTO Y QUINTO PÁRRAFOS DEL 278 QUATER, EL PRIMERO Y SEGUNDO PÁRRAFOS DEL 278 SEXIES Y EL 278 OCTIES, Y ADICIONA UN SEXTO PÁRRAFO AL ARTÍCULO 278 QUATER, TODOS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE DEROGA (SIC) LOS ARTÍCULOS 207 Y 208 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
