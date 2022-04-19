@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-publica-del-estado-de-puebla-69313"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-15"
-last_updated: "2021-09-02"
+last_updated: "2022-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de julio de 2009.
 
@@ -879,7 +879,9 @@ V.- Lugar a donde será trasladado el detenido.
 
 Las Academias y el Instituto serán responsables de aplicar los Programas Rectores de Profesionalización y tendrán, entre otras, las funciones siguientes:
 
-I.- Aplicar los procedimientos homologados del Sistema;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2022)</small>
+
+I.- Aplicar los procedimientos homologados del Sistema, impulsando una doctrina policial civil en la que la formación y el desempeño de los integrantes de las Instituciones Policiales se rijan por el servicio a la sociedad, la disciplina, el respeto a los derechos humanos, al imperio de la ley, al mando superior, y en lo conducente, a la perspectiva de género;
 
 II.- Capacitar en materia de investigación científica y técnica a los servidores públicos;
 
@@ -2414,3 +2416,11 @@ P.O. 2 DE SEPTIEMBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 39 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
