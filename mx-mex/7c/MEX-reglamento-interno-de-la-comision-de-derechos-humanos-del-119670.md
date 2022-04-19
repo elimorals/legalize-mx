@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-11967
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-02-14"
-last_updated: "2022-03-11"
+last_updated: "2022-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE ABRIL DE 2022.
 
 Reglamento publicado en la Sección Tercera al Número 28 de la Gaceta del Gobierno del Estado de México, el martes 14 de febrero de 2017.
 
@@ -141,7 +141,9 @@ III. Unidad de Comunicación Social;
 
 IV. Unidad de Logística; y
 
-V. (DEROGADA, G.G. 11 DE MARZO DE 2022)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE ABRIL DE 2022)</small>
+
+V. Coordinación de Asesores.
 
 > <small>(REFORMADO SU ACÁPITE, G.G. 11 DE MARZO DE 2022)</small>
 
@@ -153,7 +155,7 @@ Personal de las Visitadurías
 
 Para la atención de quejas y denuncias por violaciones a derechos humanos, así como para el despacho de los asuntos competencia del Organismo, y los que señale la Presidencia; la Primera Visitaduría General y la Segunda Visitaduría General, contarán con las Visitadurías, así como con las unidades administrativas que las necesidades del servicio requiera.
 
-> <small>(REFORMADO SU ACÁPITE, G.G. 11 DLE MARZO DE 2022)</small>
+> <small>(REFORMADO SU ACÁPITE, G.G. 11 DE MARZO DE 2022)</small>
 
 Visitadurías adscritas a la Primera Visitaduría General
 
@@ -165,9 +167,9 @@ Las Visitadurías Generales a cargo de la Primera Visitaduría General se organi
 
 I. La Visitaduría General sede Toluca, tendrá competencia en el territorio que comprenden los municipios de: Almoloya de Alquisiras; Almoloya de Juárez; Amanalco; Amatepec; Donato Guerra; Ixtapan del Oro; Lerma; Luvianos; Metepec; Ocoyoacac; Otzoloapan; Otzolotepec; San Mateo Atenco; San Simón de Guerrero; Santo Tomás; Sultepec; Tejupilco; Temascaltepec; Temoaya; Texcaltitlán; Tlatlaya; Toluca; Valle de Bravo; Villa de Allende; Villa Victoria; Xonacatlán; Zacazonapan; Zacualpan y Zinacantepec.
 
-> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2022)</small>
 
-II. La Visitaduría General sede Tlalnepantla, tendrá competencia en el territorio que comprenden los municipios de: Atizapán de Zaragoza; Cuautitlán Izcalli; Huehuetoca; Tepotzotlán; y Tlalnepantla de Baz;
+II. La Visitaduría General sede Tlalnepantla, tendrá competencia en el territorio que comprenden los municipios de: Cuautitlán Izcalli; Huehuetoca; Tepotzotlán; y Tlalnepantla de Baz;
 
 III. La Visitaduría General sede Chalco, tendrá competencia en el territorio que comprenden los municipios de: Amecameca; Atlautla; Ayapango; Cocotitlán; Chalco; Ecatzingo; Ixtapaluca; Juchitepec; Ozumba; Temamatla; Tenango del Aire; Tepetlixpa; Tlalmanalco y Valle de Chalco Solidaridad;
 
@@ -179,9 +181,9 @@ V. La Visitaduría General sede Ecatepec, tendrá competencia en el territorio q
 
 VI. La Visitaduría General sede Atlacomulco, tendrá competencia en el territorio que comprenden los municipios de: Acambay de Ruíz Castañeda; Aculco; Atlacomulco; Chapa de Mota; El Oro; Ixtlahuaca; Jilotepec; Jiquipilco; Jocotitlán; Morelos; Polotitlán; San Felipe del Progreso; San José del Rincón; Soyaniquilpan de Juárez; Temascalcingo y Timilpan;
 
-> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2022)</small>
 
-VII. La Visitaduría General sede Naucalpan, tendrá competencia en el territorio que comprenden los municipios de: Huixquilucan; Isidro Fabela; Jilotzingo; Naucalpan de Juárez; Nicolás Romero y Villa del Carbón;
+VII. La Visitaduría General sede Atizapán de Zaragoza, tendrá competencia en el territorio que comprenden los municipios de: Atizapán de Zaragoza; Huixquilucan; Isidro Fabela; Jilotzingo; Naucalpan de Juárez; Nicolás Romero y Villa del Carbón;
 
 VIII. La Visitaduría General sede Tenango del Valle, tendrá competencia en el territorio que comprenden los municipios de: Almoloya del Río; Atizapán; Calimaya; Capulhuac; Chapultepec; Coatepec Harinas; Ixtapan de la Sal; Joquicingo; Malinalco; Mexicaltzingo; Ocuilan; Rayón; San Antonio la Isla; Tenancingo; Tenango del Valle; Texcalyacac; Tianguistenco; Tonatico; Villa Guerrero; Xalatlaco; y Zumpahuacán; y
 
@@ -509,13 +511,13 @@ VI. Expedir copias certificadas de los documentos relacionados con los asuntos d
 
 VII. Autorizar e implementar acciones que permitan proteger, observar, estudiar, difundir y promover los derechos humanos con autoridades e instituciones públicas, así como con organismos públicos, sociales y privados;
 
-> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2022)</small>
 
-VIII. Auxiliar a la (sic) Visitadurías en la orientación y canalización de las Defensorías Municipales de Derechos Humanos, para mejorar el desempeño de sus funciones;
+VIII. Fungir como enlace con organizaciones no gubernamentales, instituciones públicas y privadas, autoridades federales, estatales y municipales, para llevar a cabo la suscripción de convenios encaminados al cumplimiento de los objetivos de la Comisión;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 11 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2022)</small>
 
-IX. Apoyar a la Secretaría Técnica del Consejo Consultivo, cuando así lo determine su titular;
+IX. Planear y supervisar políticas y procedimientos para la operación del Área Coordinadora de Archivos de la Comisión, acorde con las regulaciones aplicables en la materia;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 11 DE MARZO DE 2022)</small>
 
@@ -1261,27 +1263,9 @@ IV. Coordinar las reuniones y conferencias de prensa de la Presidencia y demás 
 
 V. Las demás que le confieren otras disposiciones y aquellas que le encomiende la Presidencia.
 
-> <small>(ADICIONADO, G.G. 18 DE ENERO DE 2019)</small>
+###### Artículo 28 Bis
 
-Atribuciones de la Unidad de Difusión de la Cultura
-
-###### Artículo 28 Bis.
-
-Corresponde a la Unidad de Difusión de la Cultura:
-
-I. Proponer y establecer estrategias, programas y acciones que permitan difundir la Cultura y el Arte, desde la perspectiva de los Derechos Humanos;
-
-II. Coordinarse, previa autorización de Presidencia, con instituciones estatales y municipales para diseñar y realizar actividades artísticas y culturales encaminadas a promocionar los Derechos Humanos;
-
-III. Implementar mecanismos encaminados a procurar el acceso de toda la población a los bienes y servicios culturales;
-
-IV. Colaborar, dentro del ámbito de su competencia, en la protección de los bienes artísticos e históricos de la Comisión;
-
-V. Fomentar convenios y apoyos para instaurar en la Comisión la oferta de actividades culturales y artísticas a la población en general;
-
-VI. Coordinar las acciones procedentes en torno a la organización y logística de eventos en los que tenga injerencia la Comisión y aquéllos que determine la Presidencia; y
-
-VII. Las demás que le confieran otras disposiciones y aquellas que le encomiende la Presidencia.
+(DEROGADO, G.G. 19 DE ABRIL DE 2022)
 
 > <small>(ADICIONADO, G.G. 18 DE ENERO DE 2019)</small>
 
@@ -2378,3 +2362,15 @@ PRIMERO. Publíquese este Acuerdo en el Periódico Oficial "Gaceta del Gobierno"
 SEGUNDO. Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO. Las acciones a que se refiere el punto SEGUNDO del presente Acuerdo, se podrán realizar en un plazo que no excederá de 60 días hábiles, contados a partir de la entrada en vigor del presente Acuerdo, atendiendo a la naturaleza de cada una de ellas y conforme a la suficiencia presupuestal con la que cuente el Organismo.
+
+G.G. 19 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO CODHEM/CC/4-2022/09 POR EL QUE SE REFORMA EL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese este Acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, así como en la Gaceta de Derechos Humanos, órgano informativo de la Comisión de Derechos Humanos del Estado de México.
+
+SEGUNDO. Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO. Las acciones a que se refiere el punto CUARTO del presente Acuerdo, se podrán realizar en un plazo que no excederá de 60 días hábiles, contados a partir de la entrada en vigor de este Acuerdo, atendiendo a la naturaleza de cada una de ellas y conforme a la suficiencia presupuestal con la que cuente el Organismo.
+
+CUARTO. La persona que sea designada como titular de la Coordinación de Asesores que, por este Acuerdo se crea, deberá contar con el nombramiento oficial correspondiente para que pueda ostentarse en el encargo.
