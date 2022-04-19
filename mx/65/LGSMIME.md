@@ -4,7 +4,7 @@ identifier: "LGSMIME"
 country: "mx"
 rank: "ley_general"
 publication_date: "1996-11-22"
-last_updated: "2020-04-13"
+last_updated: "2022-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9006&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSMIME"
 
 LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ABRIL DE 2022.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 22 de noviembre de 1996.
 
@@ -188,13 +188,19 @@ d) Cuando no se hayan agotado las instancias previas establecidas por las leyes,
 
 e) Cuando en un mismo escrito se pretenda impugnar más de una elección, salvo los casos señalados en los párrafos 2 y 3 del artículo 52 del presente ordenamiento;
 
-> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ABRIL DE 2022)</small>
 
-f) Cuando en el medio de impugnación se solicite, en forma exclusiva, la no aplicación de una norma general en materia electoral, cuya validez haya sido declarada por la Suprema Corte de Justicia de la Nación, en los términos de la fracción II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, y
+f) Cuando en el medio de impugnación se solicite, en forma exclusiva, la no aplicación de una norma general en materia electoral, cuya validez haya sido declarada por la Suprema Corte de Justicia de la Nación, en los términos de la fracción II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ABRIL DE 2022)</small>
 
-g) Cuando se pretenda impugnar resoluciones dictadas por las Salas del Tribunal en los medios de impugnación que son de su exclusiva competencia.
+g) Cuando se pretenda impugnar resoluciones dictadas por las Salas del Tribunal en los medios de impugnación que son de su exclusiva competencia, y
+
+(NOTA: EL 22 DE AGOSTO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 62/2022 Y SU ACUMULADA 77/2022, DECLARÓ LA INVALIDEZ DEL INCISO h) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2022)</small>
+
+h) CUANDO SE PRETENDA IMPUGNAR CUALQUIER ACTO PARLAMENTARIO DEL CONGRESO DE LA UNIÓN, SU COMISIÓN PERMANENTE O CUALQUIERA DE SUS CÁMARAS, EMITIDO POR SUS ÓRGANOS DE GOBIERNO, COMO LOS CONCERNIENTES A LA INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DE SUS ÓRGANOS Y COMISIONES LEGISLATIVAS.
 
 Artículo 11
 
@@ -1735,3 +1741,9 @@ D.O.F. 13 DE ABRIL DE 2020.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto se sujetarán al marco normativo aplicable a las dependencias y entidades competentes, así como a la disponibilidad presupuestaria de cada una de ellas para el ejercicio fiscal que corresponda, por lo que bajo ningún supuesto se autorizarán recursos adicionales para tales efectos.
+
+D.O.F. 19 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN INCISO H) AL NUMERAL 1 DEL ARTÍCULO 10 DE LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
