@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-del-colegio-militarizado-general-mariano-150
 country: "mx"
 rank: "codigo"
 publication_date: "2021-08-06"
-last_updated: "2021-08-06"
+last_updated: "2022-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DEL COLEGIO MILITARIZADO "GENERAL MARIANO ESCOBEDO" DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL CÓDIGO DE CONDUCTA DEL COLEGIO MILITARIZADO "GENERAL MARIANO ESCOBEDO" DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 20 DE ABRIL DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL COLEGIO MILITARIZADO “GENERAL MARIANO ESCOBEDO” DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2022 (ABROGADO).
 
-Código publicado en el Tomo CLVIII al Número 95 del Periódico Oficial del Estado de Nuevo León, el viernes 6 de agosto de 2021.
+Código publicado en el Número 95 del Periódico Oficial del Estado de Nuevo León, el viernes 6 de agosto de 2021.
 
 CÓDIGO DE CONDUCTA
 
@@ -386,3 +388,13 @@ Por tanto, mando se imprima, publique circule y se le dé el debido cumplimiento
 Gral. Bgda. D. E. M. Ret. José Manuel Zozaya Gallegos
 
 Director General Del Colegio Militarizado “General Mariano Escobedo”.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DEL COLEGIO MILITARIZADO GENERAL MARIANO ESCOBEDO DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Código de Conducta del Colegio Militarizado “General Mariano Escobedo” del Estado de Nuevo León, abrogo el Código de Conducta aprobado por el Comité de Ética y Prevención de Conflictos de Interés en su Primera Sesión Ordinaria celebrada el día 12 de Abril del 2021.
+
+SEGUNDO.- Hágase del conocimiento de todos los Servidores Públicos del Colegio Militarizado “General Mariano Escobedo” del Estado de Nuevo León, paro su cumplimiento.
