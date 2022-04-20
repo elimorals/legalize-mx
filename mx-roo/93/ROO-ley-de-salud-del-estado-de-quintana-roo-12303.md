@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-salud-del-estado-de-quintana-roo-12303"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2021-10-21"
+last_updated: "2022-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE SALUD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -61,9 +61,17 @@ IV.- La extensión de actitudes solidarias y responsables de la población en la
 
 V.- El disfrute de servicios de salud y asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
 
-VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud; y
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
 
-VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
+VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud, y
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+VIII.- La promoción de la salud y la prevención de las enfermedades.
 
 ###### ARTICULO 3o.
 
@@ -93,7 +101,9 @@ A.- En materia de Salubridad General:
 
 I.- La atención médica, preferentemente en beneficio de grupos vulnerables;
 
-II.- La atención materno-infantil;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+II.- La atención materno-infantil, incluyendo la promoción y fomento de la lactancia materna;
 
 III.- La prestación de servicios de planificación familiar;
 
@@ -223,7 +233,9 @@ El Sistema Estatal de Salud tiene los siguientes objetivos:
 
 I.- Llevar a cabo la vigilancia epidemiológica en el Estado.
 
-II.- Proporcionar servicios de Salud en las fases de promoción, prevención, curación y rehabilitación a toda la población del Estado, mejorando constantemente la calidad de los mismos y enfocando las acciones a los problemas sanitarios prioritarios y a los factores que condicionen y/o causen daños a la salud.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+II.- Proporcionar servicios de Salud en las fases de promoción, prevención, curación y rehabilitación a toda la población del Estado, mejorando constantemente la calidad de los mismos y enfocando las acciones a los problemas sanitarios prioritarios y a los factores que condicionen y/o causen daños a la salud, con especial interés en la promoción, implementación e impulso de acciones de atención integrada de carácter preventivo, acorde con la edad, sexo y factores de riesgo de las personas;
 
 III.- Contribuir al desarrollo demográfico armónico del Estado;
 
@@ -233,9 +245,21 @@ V.- Dar impulso al desarrollo de la familia y de la comunidad así como a la int
 
 VI.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente del Estado, que propicien el desarrollo satisfactorio de la vida;
 
-VII.- Impulsar en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud, y
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
 
-VIII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que prestan para su protección.
+VII.- Impulsar en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+VIII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que prestan para su protección;
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+IX.- Proporcionar orientación a la población respecto de la importancia de la alimentación nutritiva, suficiente y de calidad y su relación con los beneficios a la salud, y
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+X.- Diseñar y ejecutar políticas públicas que propicien la alimentación nutritiva, suficiente y de calidad, que contrarreste eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria.
 
 ###### ARTICULO 8o.
 
@@ -268,6 +292,10 @@ XII.- Apoyar la coordinación entre las instituciones de salud y las educativas 
 XIII.- Coadyuvar a que la formación y distribución de los recursos humanos para la salud sea congruente con las prioridades del Sistema Estatal de Salud;
 
 XIV.- Promover e impulsar la participación de la comunidad del Estado en el cuidado de su salud;
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+XIV Bis.- Promover e impulsar programas y campañas de información sobre los buenos hábitos alimenticios, una buena nutrición y la activación física para contrarrestar el sobrepeso, la obesidad y los trastornos de la conducta alimentaria.
 
 XV.- Impulsar la permanente actualización de las disposiciones legales en materia de salud; y
 
@@ -587,7 +615,9 @@ II.- La prevención y el control de las enfermedades transmisibles de atención 
 
 III.- La atención médica integral, que comprende actividades preventivas, curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias y la reconstrucción mamaria como rehabilitación para toda mujer a la que se le haya realizado una mastectomía como tratamiento del cáncer de mama.
 
-IV.- La atención materno infantil;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+IV.- La atención materno infantil, incluyendo la promoción y fomento de la Lactancia Materna;
 
 V.- La planificación familiar;
 
@@ -795,31 +825,57 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 ### CAPITULO V. ATENCION MATERNO-INFANTIL
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2022)</small>
 
 ###### ARTICULO 56.
 
-El objeto del presente capítulo es la protección materno-infantil y la promoción de la salud materna, que abarca el período que va del embarazo, parto y puerperio, en razón de la condición de vulnerabilidad en que se encuentra la mujer y el producto.
+El objeto del presente capítulo es la protección materno-infantil y la promoción de la salud materna, que abarca el período que va del embarazo, parto y puerperio, así como el periodo de lactancia, en razón de la condición de vulnerabilidad en que se encuentra la mujer, el producto, el recién nacido y el niño pequeño.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2021)</small>
 
 La atención materno-infantil tiene carácter prioritario, motivará al cumplimiento de los derechos reproductivos de la mujer, la no violencia obstétrica y los derechos de la niñez y comprende las siguientes acciones:
 
-I. La atención integral de la mujer durante el embarazo, el parto y el puerperio;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
 
-II. La atención del niño y la vigilancia de su crecimiento y desarrollo integral, incluyendo la promoción de la vacunación oportuna y atención prenatal;
+I. La atención integral de la mujer durante el embarazo, el parto y el puerperio, así como el periodo de lactancia, incluyendo la atención psicológica que requiera;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+II. La atención del niño y la vigilancia de su crecimiento y desarrollo integral, incluyendo la promoción y fomento de la lactancia materna, vacunación oportuna, atención prenatal, y
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2021)</small>
 
 III. La prevención y detección de las condiciones y enfermedades hereditarias y congénitas, incluyendo aquellas consideradas como raras y en su caso atención integral, que incluya la aplicación de la prueba del tamiz neonatal metabólico ampliado y su salud visual, además del seguimiento y acceso a los tratamientos;
 
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2021)</small>
+
 IV. La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados, y
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2021)</small>
 
 V. La promoción de la integración y del bienestar familiar.
 
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2022)</small>
+
+###### ARTICULO 56 Bis.
+
+Toda mujer embarazada, tiene derecho a obtener servicios de salud en los términos a que se refiere el Capítulo IV del Título Tercero de esta Ley y con estricto respeto de sus derechos humanos.
+
+Los servicios de salud a que hace referencia el artículo 34 de la presente Ley, prestarán atención expedita a las mujeres embarazadas que presenten una urgencia obstétrica, solicitada de manera directa o a través de la referencia de otra unidad médica, en las unidades con capacidad para la atención de urgencias obstétricas, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
+
+De igual forma, deberá proveerse, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil, cuando existan condiciones que impidan la lactancia materna, indicadas por el médico.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2022)</small>
+
 ###### ARTICULO 57.
 
-En los servicios de salud se promoverá la organización institucional de comités de prevención de la mortalidad materna-infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes.
+En los servicios de salud se promoverá la organización institucional de comités de prevención de la mortalidad materna e infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes, incluyendo la promoción y fomento de la Lactancia Materna.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2022)</small>
 
 ###### ARTICULO 58.
 
-La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, tutores o quienes ejerzan la patria potestad sobre ellos, el Estado y la sociedad en general.
+La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, madres, tutores o quienes ejerzan la patria potestad sobre ellos, el Estado y la sociedad en general.
 
 ###### ARTICULO 59.
 
@@ -827,17 +883,37 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
 
-II.- Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida y, en su caso la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil, y
+II.- Acciones de orientación y vigilancia institucional, capacitación, promoción y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida y, en su caso la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil, además de impulsar, la instalación de lactarios en los centros de trabajo de los sectores público y privado, coordinándose, para tal efecto, con las instancias competentes en la materia;
+
+Para efectos del párrafo anterior, los lactarios o salas de lactancia son los espacios privados, dignos, higiénicos y cálidos en los cuales las madres pueden amamantar, extraer su leche y conservarla, en términos de la normatividad que al efecto se expida, tanto en el ámbito federal, como en el local, espacios que, en la medida de lo conducente, deberán estar disponibles para los padres.
+
+Asimismo, informarán y capacitarán, tanto al personal de salud, como al público en general, sobre el Código Internacional de Comercialización de Sucedáneos de la Leche Materna, para proteger y promover la lactancia materna, sin menoscabo de lo que, sobre el particular, disponga la Ley General de Salud y sus reglamentos, así como las normas técnicas que, sobre esta materia, dicte la Secretaría de Salud Federal, o se encuentren contenidas en otros ordenamientos legales aplicables;
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+II. Bis.- Al menos un banco de leche humana en alguno de sus establecimientos de salud que cuente con servicios neonatales, de conformidad a lo que, para tal efecto, disponga la Ley General de Salud y sus reglamentos, así como las normas técnicas que, sobre esta materia, dicte la Secretaría de Salud Federal, o se encuentren contenidas en otros ordenamientos legales aplicables.
+
+Los servicios que presten los bancos de leche serán gratuitos y accederán a dichos servicios la madre, el padre, el tutor o quienes ejerzan la patria potestad, siendo obligación, de las instancias estatales y municipales, en el ámbito de sus respectivas competencias, promover la donación de leche humana, para abastecer a los bancos de leche.
 
 III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarréicos y las infecciones respiratorias agudas de los menores de 5 años.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2022)</small>
+
+###### ARTICULO 59 Bis.
+
+La Secretaría de Salud impulsará la participación de los sectores social y privado, así como de la sociedad en general, para el fortalecimiento de los servicios de salud en materia de atención materno-infantil, incluyendo lo relativo a la promoción de la Lactancia Materna.
+
+Para tal efecto, promoverá la creación de Redes de Apoyo a la Salud Materno-Infantil, tanto en el ámbito estatal, como en los Ayuntamientos, con la finalidad de facilitar el acceso a las mujeres embarazadas a información relativa a la prestación de servicios de atención médica en esta materia, y en su caso, brindarles apoyo para el acceso a ellos, incluyendo lo relativo a la promoción de la Lactancia Materna.
 
 ###### ARTICULO 60.
 
 Las Autoridades Sanitarias Estatales, Educativas y Laborales, en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
 
-I.- Los programas para padres destinados a promover la atención materno-infantil;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+I.- Los programas para padres destinados a promover la atención materno-infantil, incluyendo la lactancia Materna;
 
 II.- Las actividades recreativas de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
 
@@ -846,6 +922,44 @@ III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la 
 IV.- Acciones relacionadas con educación básica, alfabetización de adultos, accesos al agua potable y medios sanitarios de eliminación de excretas, y
 
 V.- Las demás que coadyuven a la salud materno-infantil.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2022)</small>
+
+###### ARTICULO 60 Bis.
+
+Para efectos de lo dispuesto por la fracción I del artículo anterior, los materiales informativos y educativos relativos a la alimentación de lactantes y niños pequeños, deberán incluir, al menos, los aspectos siguientes:
+
+a) Ventajas y superioridad de la lactancia materna.
+
+b) Información sobre la alimentación adecuada del grupo materno infantil.
+
+c) Importancia de la lactancia materna exclusiva durante los primeros seis meses y continua hasta los dos años.
+
+d) Recomendaciones para revertir la decisión de no amamantar.
+
+e) Información del uso de alimentos complementarios y prácticas de higiene.
+
+f) La importancia de introducir alimentos complementarios alrededor del sexto mes y riesgos sobre el uso del biberón.
+
+De igual forma, en los materiales informativos y educativos relativos a la alimentación de lactantes y niños pequeños con fórmula infantil, fórmulas de seguimiento o cualquier otro alimento o bebida suministrada con cuchara o taza, además de los previstos en los apartados anteriores, deberán incluirse los aspectos siguientes:
+
+a) Instrucciones para la preparación y uso correcto del producto, incluidas la limpieza y esterilización de los utensilios.
+
+b) Indicaciones para alimentar a los lactantes con vaso o taza.
+
+c) Riesgos que representa para la salud la alimentación con biberón y la preparación incorrecta del producto.
+
+d) Costo aproximado de alimentar al lactante y niño pequeño, exclusivamente con sucedáneos de la leche materna.
+
+Invariablemente, deberá evitarse que los materiales informativos y educativos, relativos a la alimentación de lactantes y niños pequeños:
+
+a) Inhiban directa o indirectamente la práctica de la lactancia materna.
+
+b) Den la impresión de que un producto determinado es equivalente o superior a la leche materna.
+
+c) Contengan el nombre o logotipo de cualquier producto determinado o de un fabricante o distribuidor específico.
+
+d) Incluyan imágenes o textos que estimulen el uso del biberón o desestimulen la lactancia materna.
 
 ###### ARTICULO 61.
 
@@ -1229,9 +1343,17 @@ II.- Nutrición;
 
 III.- Control de los efectos nocivos del ambiente en la salud:
 
-IV.- Salud ocupacional, y
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
 
-V.- Fomento sanitario.
+IV.- Salud Ocupacional;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+V.- Fomento Sanitario; y,
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+VI.- Lactancia Materna.
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
@@ -1245,9 +1367,9 @@ I.- Fomentar en la población el desarrollo de actividades y conductas que le pe
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
 
-III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgos de automedicación, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, donación de sangre, componentes sanguíneos, hemoderivados, órganos, tejidos y células troncales con fines terapéuticos, prevención de la discapacidad y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades.
+III.- Orientar y capacitar a la población preferentemente en materia de nutrición, lactancia materna, salud mental, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgos de automedicación, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, donación de sangre, componentes sanguíneos, hemoderivados, órganos, tejidos y células troncales con fines terapéuticos, prevención de la discapacidad y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades.
 
 > <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
@@ -3854,3 +3976,25 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicaci�
 SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO. La XVI Legislatura del Estado deberá hacer la asignación presupuestal correspondiente para que la implementación de lo establecido en el presente Decreto se lleve acabo (sic) a mas tardar el 1 de junio de 2022.
+
+P.O. 20 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 215, POR, EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES NORMATIVAS DE LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO; LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO; LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO; LA LEY PARA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DE QUINTANA ROO Y LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO, EN MATERIA DE LACTANCIA MATERNA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todos los ordenamientos legales que contravengan el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se otorga un plazo de noventa días a partir de la publicación del presente Decreto, para que las instituciones públicas que prestan servicios de salud destinados a la atención materno infantil, lleven a cabo las adecuaciones físicas y normativas para dar vigencia al mismo.
+
+###### ARTÍCULO CUARTO.
+
+La implementación de las acciones que resulten necesarias, derivado de la entrada en vigor del presente Decreto, deberán ser solventadas por las instancias públicas competentes, con cargo a los recursos financieros que les hayan sido asignados, en el ejercicio fiscal de que se trate, de conformidad a lo establecido en las disposiciones normativas aplicables, sin menoscabo de las ampliaciones presupuestales que les sean autorizadas, cuando así resulte conducente.
+
+La implementación de las acciones a las que se refiere el presente Decreto, deberán ser materializadas en su totalidad, a más tardar, en el ejercicio fiscal correspondiente al año 2023.
