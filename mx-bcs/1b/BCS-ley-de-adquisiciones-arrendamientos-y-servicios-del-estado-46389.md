@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-4638
 country: "mx"
 rank: "ley"
 publication_date: "2005-09-14"
-last_updated: "2019-12-20"
+last_updated: "2022-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2022.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 14 de septiembre de 2005.
 
@@ -729,9 +729,9 @@ Las Dependencias, Entidades y Organismos Autónomos, podrán optar por no llevar
 
 I. Podrá contratarse por adjudicación directa cuando el importe de cada operación no exceda del equivalente a la cantidad de dos mil trescientas cincuenta y un veces el valor diario de la Unidad de Medida y Actualización, siempre que las operaciones no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo;
 
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2022)</small>
 
-II. Podrá contratarse por invitación a cuando menos a tres personas, cuando el monto sea superior al equivalente a la cantidad de cuatro mil setecientas un veces el valor diario de la Unidad de Medida y Actualización, hasta el equivalente, a doce mil ochocientas veintiún veces el valor diario de la Unidad de Medida y Actualización, siempre que las operaciones no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo.
+II. Podrá contratarse por invitación a cuando menos a tres personas, cuando el monto sea superior al equivalente a la cantidad de dos mil trescientas cincuenta y un (sic) veces el valor diario de la Unidad de Medida y Actualización hasta el equivalente, a doce mil ochocientas veintiún veces el valor diario de la Unidad de Medida y Actualización, siempre que las operaciones no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo.
 
 ###### Artículo 54.
 
@@ -1280,3 +1280,11 @@ B.O. 20 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2654 SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 53 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS Y LA FRACCIÓN I DEL ARTÍCULO 40 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS, AMBAS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 Único.- El presente decreto entrará en vigor a partir del día 01 de enero del año 2020, previa publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2823 SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 53 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente decreto.
