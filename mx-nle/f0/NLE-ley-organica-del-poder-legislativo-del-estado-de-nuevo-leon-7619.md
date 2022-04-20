@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2022-03-04"
+last_updated: "2022-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -124,6 +124,10 @@ III.- Las demás que en materia de participación ciudadana les impongan ésta y
 ###### Artículo 1o.
 
 El Poder Legislativo del Estado de Nuevo León se deposita en un Congreso que se renovará cada tres años como lo establece el Artículo 46 de la Constitución Política Local.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2022)</small>
+
+El Poder Legislativo del Estado de Nuevo León se regirá bajo los principios del modelo de parlamento abierto. El Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León establecerá los mecanismos a los que hace referencia este artículo.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
 
@@ -1850,3 +1854,9 @@ P.O. 4 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 095. SE ADICIONA EL “TITULO NOVENO DE LA ATENCIÓN A LAS PERSONAS CON DISCAPACIDAD CAPÍTULO ÚNICO DEL APOYO EN LA INTERPRETACIÓN EN EL LENGUAJE DE SEÑAS MEXICANAS” Y EL ARTÍCULO 95, A LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN, ASÍ COMO TAMBIÉN SE REFORMAN LAS FRACCIONES XXVI, XXVII Y SE ADICIONA LA FRACCIÓN XXVIII AL ARTÍCULO 65 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de la Publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 112. SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 1° DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
