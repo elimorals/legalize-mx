@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-96-organica-del-consejo-ciudadano-del-transporte-984
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-23"
-last_updated: "2013-12-23"
+last_updated: "2022-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98470&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY NUMERO 96, ORGANICA DEL CONSEJO CIUDADANO DEL TRANSPORTE PUBLICO SUSTENTABLE DEL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SONORA, PUBLICADA EN LA B.O. DE 20 DE ABRIL DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL CONSEJO CIUDADANO DEL TRANSPORTE PÚBLICO SUSTENTABLE DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2022 (ABROGADA).
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 23 de diciembre de 2013.
 
@@ -332,3 +334,55 @@ Comuníquese al Titular del Poder Ejecutivo para su sanción y publicación en e
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la Ciudad de Hermosillo, Sonora, a los diecinueve días del mes de diciembre del año dos mil trece.- SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR DEL ESTADO.- GUILLERMO PADRÉS ELÍAS.- EL SECRETARIO DE GOBIERNO.- LIC. ROBERTO ROMERO LÓPEZ.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 20 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 83, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso a efecto de que realicen el cómputo respectivo y en caso de resultar aprobado (sic) la presente Ley por cuando menos la mayoría del número total de los Ayuntamientos de los Municipios del Estado, la remitan al titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica del Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado de Sonora de 23 de diciembre de 2013 y las disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Todas las atribuciones que se confieran en cualquier disposición constitucional y legal al Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora serán ejercidas por la unidad administrativa competente de la Secretaría de Infraestructura y Desarrollo Urbano a que se refiere la Ley de Transporte para el Estado de Sonora.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos humanos, materiales y financieros que actualmente se encuentran asignados al Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora se transfieren a la unidad administrativa referida en el artículo tercero transitorio de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+El Congreso del Estado, por conducto de la Comisión de Régimen Interno y Concertación Política, contará con un plazo máximo de 120 días naturales, contados a partir de la entrada en vigor de la presente Ley, para publicar en los medios de comunicación impresos de mayor circulación en el Estado y en el Boletín Oficial del Gobierno del Estado de Sonora, las bases y convocatoria para designar al Auditor Mayor del Instituto Superior de Auditoría y Fiscalización, en términos del artículo 67 de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+En los quince días siguientes a la entrada en vigor de la presente ley, la mesa directiva deberá someter al pleno la ratificación de los servidores públicos que actualmente desempeñan el cargo de contralores de los Organismos Constitucionalmente Autónomos para que puedan fungir como Titulares de los Órganos Internos de Control, exceptuando a las Instituciones de Educación Superior, en respecto al artículo 3° de la Constitución Política de los Estados Unidos Mexicanos.
+
+En caso de no lograr la ratificación por el voto de la mitad más uno de los diputados presentes, el Congreso del Estado a través de la mesa directiva, deberán emitir las convocatorias para que se presenten candidatos a ocupar la Titularidad de los Órganos Internos de Control de los Órganos Autónomos, dentro de los treinta días hábiles siguientes a la entrada en vigor de esta Ley.
+
+Los servidores públicos que actualmente desempeñan el cargo de contralores de los Organismos Autónomos y que no fueron ratificados, seguirán en su cargo hasta en tanto el Congreso del Estado no rinda protesta a los Titulares de los Órganos Internos de Control que se señalan en esta Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Hacienda asesorará a los Organismos Autónomos para efecto de la reasignación presupuestaria necesaria para la iniciación en funciones de sus respectivos Órganos Internos de Control.
+
+###### ARTÍCULO OCTAVO.
+
+La duración y el procedimiento de designación que se establece en el artículo 98 de la presente Ley aplicará para posteriores nombramientos.
+
+###### ARTÍCULO NOVENO.
+
+La duración y el procedimiento de designación que se establece en el artículo 113 de la presente Ley será aplicable a las siguientes designaciones que se efectué después de la entrada en vigor de este ordenamiento.
+
+###### ARTICULO DÉCIMO.
+
+Se derogan todas las normas que se opongan al proceso de designación y disposiciones contenidas en el presente decreto.
