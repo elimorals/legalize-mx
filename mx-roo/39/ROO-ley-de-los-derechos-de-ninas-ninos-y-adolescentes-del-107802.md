@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107802"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-30"
-last_updated: "2017-12-29"
+last_updated: "2022-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2022.
 
 Ley publicada en el Número 8 Ordinario Bis del Periódico Oficial del Estado de Quintana Roo, el jueves 30 de abril de 2015.
 
@@ -371,6 +371,10 @@ En materia de adopciones, las autoridades competentes estatales y municipales de
 
 I. Prever que niñas, niños y adolescentes sean adoptados en pleno respeto de sus derechos, de conformidad con el principio de interés superior de la niñez;
 
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2022)</small>
+
+Para el caso de adopción de niñas o niños menores a los 2 años de edad, deberán preverse las medidas necesarias, para garantizar su alimentación con leche materna, de conformidad a las disposiciones normativas aplicables.
+
 II. Asegurar que se escuche y tome en cuenta la opinión de niñas, niños y adolescentes de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, en términos de la Ley General y la presente Ley;
 
 III. Garantizar que se asesore jurídicamente, tanto a quienes consientan la adopción, como a quienes la acepten, a fin de que conozcan los alcances jurídicos, familiares y sociales de la misma;
@@ -427,7 +431,9 @@ Las autoridades estatales y municipales, para garantizar la igualdad sustantiva 
 
 I. Transversalizar la perspectiva de género en todas sus actuaciones y procurar la utilización de un lenguaje no sexista en sus documentos oficiales;
 
-II. Diseñar, implementar y evaluar programas, políticas públicas a través de acciones afirmativas tendentes a eliminar los obstáculos que impiden la igualdad de acceso y de oportunidades a la alimentación, a la educación y a la atención médica entre niñas, niños y adolescentes;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+II. Diseñar, implementar y evaluar programas, políticas públicas a través de acciones afirmativas tendentes a eliminar los obstáculos que impiden la igualdad de acceso y de oportunidades a la alimentación, lactancia materna, a la educación y a la atención médica entre niñas, niños y adolescentes;
 
 III. Implementar acciones específicas para alcanzar la eliminación de costumbres, tradiciones, prejuicios, roles y estereotipos sexistas o de cualquier otra índole que estén basadas en la idea de inferioridad;
 
@@ -477,9 +483,9 @@ En consecuencia, niñas, niños y adolescentes deberán ser protegidos contra to
 
 Para tal efecto, el Sistema DIF Estatal establecerá programas permanentes y gratuitos de asistencia y atención integral a niñas, niños y adolescentes que hayan sido víctimas de maltrato físico y psicológico y abuso sexual.
 
-###### Artículo 34.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2022)</small>
 
-Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo.
+Artículos 34. Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo, incluyendo su alimentación, con leche materna, de manera obligatoria en los primeros 6 meses de vida, y de manera preferencial, hasta los 2 años de edad, en los términos que dispongan las disposiciones aplicables.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
 
@@ -515,9 +521,11 @@ Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel pos
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias y de conformidad con las disposiciones aplicables, deberán garantizar el derecho a la seguridad social.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2022)</small>
+
 ###### Artículo 41.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deben desarrollar políticas para fortalecer la salud materno infantil, de la primera infancia y aumentar la esperanza de vida, así como de políticas y programas contra el uso ilícito de sustancias alcohólicas, estupefacientes y psicotrópicos.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deben desarrollar políticas para fortalecer la salud materno infantil, de la primera infancia y aumentar la esperanza de vida, incluyendo la lactancia materna, así como de políticas y programas contra el uso ilícito de sustancias alcohólicas, estupefacientes y psicotrópicos.
 
 #### SECCIÓN DÉCIMA. DEL DERECHO A LA INCLUSIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES CON DISCAPACIDAD
 
@@ -607,7 +615,9 @@ XVIII. Inculcarán en niñas, niños y adolescentes el respeto al medio ambiente
 
 XIX. Establecerán mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
 
-XX. Establecerán acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo nacional, y
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+XX. Establecerán acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas o en etapa de lactancia, faciliten su reingreso y promuevan su egreso del sistema educativo nacional, y
 
 XXI. Las demás que señalen la Ley de Educación del Estado de Quintana Roo, y demás disposiciones aplicables.
 
@@ -879,9 +889,11 @@ El Sistema DIF Estatal enviará al Sistema Nacional DIF, la información en el m
 
 El Sistema DIF Estatal y los Sistemas DIF Municipales tendrán la obligación de establecer un programa específico y prioritario para brindar a niñas, niños y adolescentes en situación de calle, las medidas de defensa jurídica de provisión, prevención, protección y asistencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2022)</small>
+
 ###### Artículo 81.
 
-El Sistema DIF Estatal y los Sistemas DIF Municipales impulsarán e implementarán medidas tendentes a prevenir y evitar que niñas, niños y adolescentes realicen actividades marginales o de supervivencia, procurando integrarlos a programas compensatorios, como los de becas, desayunos escolares, despensas, útiles escolares, entre otros; realizando las acciones que se requieran para protegerlos y evitar su explotación.
+El Sistema DIF Estatal y los Sistemas DIF Municipales impulsarán e implementarán medidas tendentes a prevenir y evitar que niñas, niños y adolescentes realicen actividades marginales o de supervivencia, procurando integrarlos a programas compensatorios, como los de becas, desayunos escolares, lactancia materna, despensas, útiles escolares, entre otros; realizando las acciones que se requieran para protegerlos y evitar su explotación.
 
 Asimismo, establecerán acciones de coordinación y concertación con organismos, instituciones e instancias competentes para generar la participación efectiva de la comunidad en las políticas en beneficio de niñas, niños y adolescentes en situación de calle.
 
@@ -903,9 +915,19 @@ Asimismo, promoverán acciones contra la explotación económica y el desempeño
 
 Niñas y niños en primera infancia gozarán de los derechos que establece la presente Ley y demás leyes que resulten aplicables.
 
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2022)</small>
+
+La lactancia materna es un derecho fundamental, universal, imprescriptible e inalienable de las niñas y niños. Constituye un proceso, en el cual el Estado y los sectores público, privado y social tienen la obligación de proveer su protección, apoyo y promoción, a efecto de garantizar la alimentación adecuada, la salud, el crecimiento y el desarrollo integral de los lactantes y niños pequeños.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2022)</small>
+
+Para los efectos a los que se refiere el párrafo anterior, el Estado implementará acciones afirmativas tendientes a proteger, apoyar y promover la práctica de la lactancia materna.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2022)</small>
+
 ###### Artículo 85.
 
-Los padres de familia, la familia, la comunidad, la sociedad en general y las autoridades competentes garantizarán que niñas y niños en primera infancia reciban estimulación para un desarrollo integral, encaminada optimizar sus capacidades cognitivas, físicas, emocionales, sociales, afectivas y lingüísticas.
+Los padres de familia, la familia, la comunidad, la sociedad en general y las autoridades competentes garantizarán que niñas y niños en primera infancia reciban estimulación para un desarrollo integral, encaminada a optimizar sus capacidades cognitivas, físicas, emocionales, sociales, afectivas y lingüísticas, así como el acceso a la alimentación con leche materna.
 
 ###### Artículo 86.
 
@@ -943,7 +965,9 @@ VII. Contribuir con la conservación y mejoramiento del medio ambiente en nuestr
 
 Son obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia, así como de las demás personas que por razón de sus funciones o actividades tengan bajo su cuidado niñas, niños o adolescentes, en proporción a su responsabilidad y, cuando sean instituciones públicas, conforme a su ámbito de competencia, las siguientes:
 
-I. Garantizar sus derechos alimentarios, el libre desarrollo de su personalidad y el ejercicio de sus derechos, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables. Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, habitación, educación, vestido, atención médica y psicológica preventiva integrada a la salud, asistencia médica y recreación;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+I. Garantizar sus derechos alimentarios, el libre desarrollo de su personalidad y el ejercicio de sus derechos, de conformidad con lo dispuesto en la presente ley y demás disposiciones aplicables. Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, incluyendo la lactancia materna, habitación, educación, vestido, atención médica y psicológica preventiva integrada a la salud, asistencia médica y recreación;
 
 II. Registrarlos dentro de los primeros sesenta días de vida;
 
@@ -1003,7 +1027,9 @@ IV. Contar con medidas de seguridad, protección y vigilancia necesarios para ga
 
 V. Alojar y agrupar a niñas, niños y adolescentes de acuerdo a su edad y sexo en las áreas de dormitorios, sin que por ningún motivo éstos puedan ser compartidos por adultos, salvo que necesiten ser asistidos por algún adulto;
 
-VI. Contar con espacios destinados especialmente para cada una de las actividades en las que participen niñas, niños y adolescentes;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+VI. Contar con espacios destinados especialmente para cada una de las actividades en las que participen niñas, niños y adolescentes, incluyendo aquellas relacionadas con la lactancia materna.
 
 VII. Atender los requerimientos establecidos por las autoridades de protección civil, salubridad y asistencia social;
 
@@ -1023,7 +1049,9 @@ I. Un entorno seguro, afectivo y libre de violencia;
 
 II. Cuidado y protección contra actos u omisiones que puedan afectar su integridad física o psicológica;
 
-III. Alimentación que les permita tener una nutrición equilibrada y que cuente con la periódica certificación de la autoridad sanitaria;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+III. Alimentación que les permita tener una nutrición equilibrada, incluyendo lo relativo a la lactancia materna, y que cuente con la periódica certificación de la autoridad sanitaria;
 
 IV. Atención integral y multidisciplinaria que le brinde servicio médico integral, atención de primeros auxilios, seguimiento psicológico, social, jurídico, entre otros;
 
@@ -1229,7 +1257,9 @@ V. Promover la formación, capacitación y profesionalización del personal de i
 
 VI. Colaborar en la búsqueda, localización y obtención de la información necesaria para acreditar o restablecer la identidad de niñas, niños y adolescentes;
 
-VII. Ofrecer orientación, cursos y asesorías gratuitas, así como servicios terapéuticos en materia de pareja, de maternidad y paternidad, entre otros;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+VII. Ofrecer orientación, cursos y asesorías gratuitas, así como servicios terapéuticos en materia de pareja, de maternidad y paternidad, entre otros, incluyendo la promoción y fomento de la lactancia materna;
 
 VIII. Proporcionar servicios de asistencia social, así como fomentar y promover la estabilidad y el bienestar familiar;
 
@@ -1471,7 +1501,9 @@ I. Participar en la elaboración del Programa de Protección Municipal;
 
 II. Realizar acciones de difusión que promuevan los derechos de niñas, niños y adolescentes en el municipio;
 
-III. Ofrecer orientación, cursos y asesorías gratuitas, así como servicios terapéuticos en materia de pareja, de maternidad y paternidad, entre otros;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+III. Ofrecer orientación, cursos y asesorías gratuitas, así como servicios terapéuticos en materia de pareja, de maternidad y paternidad, entre otros, incluyendo la promoción y fomento de la lactancia materna;
 
 IV. Auxiliar a la Procuraduría de Protección en la aplicación de medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones;
 
@@ -1808,3 +1840,25 @@ TERCERO. El Titular del Ejecutivo del Estado contará con un plazo de cuarenta d
 CUARTO. El Titular del Ejecutivo del Estado contará con un plazo de cuarenta días naturales, contados a partir de la fecha de publicación del presente Decreto, a efecto de realizar las ecuaciones pertinentes para asignar personal y presupuesto para que la Secretaría Ejecutiva del Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes pueda cumplir con sus funciones.
 
 QUINTO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 20 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 215 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES NORMATIVAS DE LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO, LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO; LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO; LA LEY PARA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DE QUINTANA ROO Y LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO, EN MATERIA DE LACTANCIA MATERNA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todos los ordenamientos legales que contravengan el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se otorga un plazo de noventa días a partir de la publicación del presente Decreto, para que las instituciones públicas que prestan servicios de salud destinados a la atención materno infantil, lleven a cabo las adecuaciones físicas y normativas para dar vigencia al mismo.
+
+###### ARTÍCULO CUARTO.
+
+La implementación de las acciones· que resulten necesarias, derivado de la entrada en vigor del presente Decreto, deberán ser solventadas por las instancias públicas competentes, con cargo a los recursos financieros que les hayan sido asignados, en el ejercicio fiscal de que se trate, de conformidad a lo establecido en las disposiciones normativas aplicables, sin menoscabo de las ampliaciones presupuestales que les sean autorizadas, cuando así resulte conducente.
+
+La implementación de las acciones a las que se refiere el presente Decreto, deberán ser materializadas en su totalidad, a más tardar, en el ejercicio fiscal correspondiente al año 2023.
