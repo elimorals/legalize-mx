@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-pesca-responsable-y-acuacultura-para-el-estado-de-93957"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-09"
-last_updated: "2017-07-04"
+last_updated: "2022-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,752 +21,902 @@ state: "ROO"
 ---
 # LEY DE PESCA RESPONSABLE Y ACUACULTURA PARA EL ESTADO DE QUINTANA ROO
 
-REGLAMENTO DE LA ACADEMIA DE POLlCIA, DEL ESTADO DE TAMAULIPAS
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-TEXTO ORIGINAL.
+LEY DE PESCA RESPONSABLE Y ACUACULTURA PARA EL ESTADO DE QUINTANA ROO
 
-Reglamento publicado en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 4 de julio del 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2022.
 
-TOMÁS YARRINGTON RUVALCABA, Gobernador Constitucional de el Estado Libre y Soberano de Tamaulipas, en ejercicio de las facultades que al Ejecutivo a mi cargo confieren los artículos 91, fracción V y 95 de la Constitución Política local, 2°, 10, 11 de la Ley Orgánica de la Administración Pública del Estado, y Segundo Transitorio de la Ley de Seguridad Pública para el Estado de Tamaulipas; y
+Ley publicada en el Número 21 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 9 de abril de 2013.
 
-C O N S I D E R A N D O
+LA HONORABLE XIII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO,
 
-UNICO.- Que la Ley de Seguridad Pública del Estado de Tamaulipas, expedida por la Quincuagésima Séptima Legislatura del Congreso Constitucional del Estado Libre y Soberano de Tamaulipas, mediante Decreto N° 173, de fecha 29 da (sic) marzo del presente año, y publicada en el Periódico oficial del Estado Extraordinario N° 2, de fecha 6 de abril del año en curso, establece en su Artículo Segundo Transitorio la obligación del titular del Poder Ejecutivo del Estado de expedir en un término que no exceda de noventa días el Reglamento de la Academia da Policía del Estado de Tamaulipas.
+DECRETA:
 
-En mérito de lo anterior, he tenido a bien expedir el siguiente:
+ÚNICO. Se expide la Ley de Pesca Responsable y Acuacultura para el Estado de Quintana Roo, para quedar como sigue:
 
-REGLAMENTO DE LA ACADEMIA DE POLlCIA, DEL ESTADO DE TAMAULIPAS
+Ley de Pesca Responsable y Acuacultura para el Estado de Quintana Roo
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO I. Disposiciones Generales
 
-### CAPITULO UNICO
+###### Artículo 1.
 
-###### ARTICULO 1°.
+La presente Ley es de orden público e interés social, tiene por objeto regular, fomentar y administrar el aprovechamiento y conservación de los recursos pesqueros y acuícolas, así como las actividades deportivo-recreativas acuáticas en el territorio estatal y sus municipios, en ejercicio de las atribuciones que le correspondan y bajo el principio de concurrencia prevista en la fracción XXIX-L del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y de la Ley General de Pesca y Acuacultura Sustentables.
 
-El presente ordenamiento se establece de conformidad con lo dispuesto por el Artículo 39 y Segundo Transitorio de la Ley de Seguridad Pública para el Estado de Tamaulipas.
+###### Artículo 2.
 
-###### ARTICULO 2°.
+Son sujetos de esta Ley, toda persona física o moral que, de manera individual o colectiva, realice cualquiera de las actividades de pesca o acuacultura previstas en esta Ley.
 
-Cuando en este ordenamiento se utilicen las palabras Dirección General y Academia, se refieren a la Dirección General de Seguridad Pública y a la Academia de Policía del Estado de Tamaulipas.
+###### Artículo 3.
 
-###### ARTICULO 3°.
+Esta Ley tiene como objetivos establecer las bases para:
 
-La Academia de Policía del Estado de Tamaulipas, la Institución dependiente de la Dirección General de Seguridad Pública del Estado, cuyo propósito es la preparación profesional de los aspirantes a integrar los cuerpos policiales preventivos de seguridad pública de la Entidad, a fin de formar agentes capacitados para prestar los servicios y desempeñar las diferentes actividades relacionadas con la prevención de ilícitos, protección, vigilancia o custodia de personas lugares y bienes o valores, incluyendo su traslado; así como la actualización del personal en servicio y la capacitación de maestros investigadores en la materia.
+I. Elaborar la Política Estatal de Pesca Responsable y Acuacultura, y los planes y programas a mediano y largo plazo;
 
-###### ARTICULO 4°.
+II. Promover el mejoramiento de la calidad de vida de los pescadores y acuacultores del Estado, a través de los programas que se instrumenten para el sector pesquero y acuícola;
 
-Todo aspirante a ingresar como agente de los cuerpos de policías preventivos estatales, deberá cumplir estrictamente con Curso Básico de Formación Policial, por el tiempo y bajo las condiciones que en su oportunidad determine la Dirección General y Dirección de la Academia, en coordinación con el Sistema Nacional Seguridad Pública, las cuales se establecerán en la convocatoria respectiva.
+III. Desarrollar la investigación científica y tecnológica en materia de pesca y acuacultura en el Estado;
 
-###### ARTICULO 5°.
+IV. Integrar y regular el funcionamiento del Consejo;
 
-Los elementos en activo de las corporaciones policiales preventivas de seguridad pública del Estado, podrán participar en los Cursos de Promoción, Actualización y Especialización que instrumente la Academia en sus instalaciones, en coordinación con cada dependencia y/o los municipios, también por el tiempo y bajo las condiciones que en su oportunidad se establezcan en el convenio respectivo.
+V. Establecer las bases para la creación, operación y funcionamiento de mecanismos de participación de los productores dedicados a las actividades pesqueras y acuícolas;
 
-### CAPITULO I. DEL PERSONAL DIRECTIVO, DOCENTE, ADMINISTRATIVO Y DE SERVICIOS
+VI. Procurar el derecho al acceso, uso y disfrute preferente de los recursos pesqueros y acuícolas de los lugares que ocupen y habiten las comunidades y pueblos indígenas, en los términos de la presente Ley;
 
-###### ARTICULO 6°.
+VII. La coordinación a través de convenios, entre las distintas dependencias y organismos de la administración pública federal, estatal y municipal, así como la participación de los productores pesqueros y acuícolas de la Entidad;
 
-Los Cursos Básico de Formación Policial, con Promoción, Actualización y Especialización que realice la Academia deberán ser estructuradas basándose en las áreas jurídicas, humanística y técnico-operativa, bajo los lineamientos que determine el Sistema Nacional de Seguridad Pública.
+VIII. Establecer las bases para la ordenación, conservación, la protección, la repoblación y el aprovechamiento sustentable de los recursos pesqueros y acuícolas, así como coadyuvar con las autoridades competentes en la protección y rehabilitación de los ecosistemas en que se encuentran dichos recursos;
 
-Deberán incluir además, actividades complementarias en aspectos sociales, culturales y de apoyo, a fin de relacionar al aspirante policía, con la comunidad a la que habrá de ser útil y fomentar su vocación de servicio.
+IX. Definir los lineamientos para celebrar con el gobierno federal los convenios y acuerdos de coordinación y colaboración con el fin de asumir las funciones previstas en el artículo 11 de la Ley General;
 
-###### ARTICULO 7°.
+X. Establecer el régimen de concesiones y permisos para la realización de actividades de pesca y acuacultura, en el marco de los convenios o acuerdos que se instituyan con la Federación; y,
 
-Los planes y programas que se diseñen y ejecute para lograr los fines antes mencionados, se regirán bajo los principio de legalidad, eficiencia, profesionalismo y honradez, previstos en la Constitución Política de los estados Unidos Mexicanos, el Sistema Nacional de Seguridad Pública, la Constitución Política del Estado de Tamaulipas y la Ley de Seguridad Pública para el Estado de Tamaulipas.
+XI. Establecer las infracciones y sanciones correspondientes por incumplimiento o violación a las disposiciones de esta Ley, y sus reglamentos.
 
-###### ARTICULO 8°.
+###### Artículo 4.
 
-La Bandera Nacional deberá izarse a las ocho horas en las fechas declaradas solemnes; a toda o media asta, según se trate de festividad o duelo, y diariamente, cuando el recinto aloje cadetes en Cursos Básicos de Formación Policial; debiendo arriarse a las dieciocho horas, siempre con los honores de ordenanza.
+Para los efectos de esta Ley, se entenderá por:
 
-### CAPITULO II. DEL CONSEJO TECNICO CONSULTIVO
+I. Acuacultura: El cultivo de flora y fauna acuáticas mediante el empleo de métodos y técnicas dirigidas a la reproducción controlada, preengorda y engorda de especies acuáticas, realizadas en instalaciones ubicadas en aguas dulces, marinas o salobres, que sean susceptibles de explotación comercial, científica ornamental o recreativa;
 
-###### ARTICULO 9°.
+II.- Agua Dulce Continental: Los cuerpos de agua permanentes que se encuentran en el interior del territorio del Estado, con excepción de las aguas continentales que abarquen dos o más entidades federativas, las que pasen de una a otra, y las transfronterizas sujetas a la jurisdicción federal;
 
-A efecto de mantener y preservar la confidencialidad de los asuntos y actividades que dentro de la Academia se lleven a cabo o se determinen, se instrumentará un estricto sistema de vigilancia hacia el interior y exterior de sus instalaciones.
+III.- Aviso de arribo: El documento en el que se reporta a la autoridad competente, los volúmenes de captura obtenidos por especie durante una jornada o viaje de pesca;
 
-###### ARTICULO 10°.
+IV.- Aviso de producción: El documento en el que se reporta a la autoridad competente, la producción obtenida en laboratorios acuícolas;
 
-Para dar cumplimiento a lo descrito en el artículo que antecede, se instalarán las casetas que se consideren pertinentes, las que deberán contar con los elementos que la superioridad determine, los cuales deberán tener a su servicio el equipo de radiocomunicación y material, que al respecto se autoricen.
+V.- Concesión: Es el Título que en ejercicio de sus facultades otorga la autoridad competente, a personas físicas o morales para llevar a cabo la pesca comercial de los recursos de la flora y fauna acuáticas en aguas de jurisdicción estatal, así como para la acuacultura, durante un periodo determinado en función de los resultados que prevean los estudios técnicos, económicos y sociales que presente el solicitante, de la naturaleza de las actividades a realizar, de la cuantía de las inversiones necesarias para ello y de su recuperación económica;
 
-###### ARTICULO 11.
+VI.- Consejo: El Consejo de Pesca y Acuacultura del Estado de Quintana Roo;
 
-El acceso al área administrativa de la Academia, se podrá autorizar al público en general o a integrantes de otras dependencias o corporaciones, procurando llevar un libro de control del registro de hora entrada y salida de cada persona; asunto a tratar; firma del visitante; descripción de una identificación con fotografía; y se le asignará un gafete que deberá portar durante el tiempo que dure su estancia en el interior. Por lo que respecta al resto de las instalaciones, serán de acceso restringido, salvo autorización superior.
+VII.- Cuarentena: El tiempo que determine la autoridad competente para mantener en observación los organismos acuáticos, para determinar su calidad sanitaria, en apego a las normas oficiales mexicanas u otras regulaciones que emita el Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
 
-###### ARTICULO 12.
+VIII.- Estado: El Estado Libre y Soberano de Quintana Roo;
 
-No podrán ingresar personas al interior de la Academia, que porten cualquier tipo de arma, aún y cuando pertenezcan a alguna corporación policial. En este último caso, previo cerciorarse que hay autorización oficial para su porte, deberán dejar su arma en la caseta de vigilancia y se le regresará al registrar su salida.
+IX.- Guía de pesca: El documento que ampara el transporte por vía terrestre, marítima o aérea de productos vivos, frescos, enhielados o congelados, provenientes de la acuacultura o de la pesca;
 
-###### ARTICULO 13.
+X.- Inocuidad: La garantía de que el consumo de los productos pesqueros y acuícolas, se encuentren libres de contaminación;
 
-En la Academia, se emitirá un instructivo de uso de las instalaciones y de la prestación de servicios, que habrá de señalar los derechos y obligaciones del personal docente, administrativo e internos, y los procedimientos y requisitos de acceso a sus instalaciones.
+XI.- (DEROGADA, P.O. 4 DE JULIO DE 2017)
 
-### CAPITULO I. DEL DIRECTOR
+XII.- Ley: La Ley de Pesca Responsable y Acuacultura para el Estado de Quintana Roo;
 
-###### ARTICULO 14.
+XIII.- Ley General: La Ley General de Pesca y Acuacultura Sustentables;
 
-Con la finalidad de preservar la seguridad física del personal en general y las instalaciones del plantel, deberán existir los instrumentos que se requieran para evitar accidentes e incendios, revisando periódicamente las instalaciones eléctricas, de gas y productos flamables, proporcionando extintores, instalando tomas de agua con el equipo que señalen las reglas elementales de protección civil y el señalamiento visible de rutas de evacuación.
+XIV.- Ordenamiento Pesquero: Conjunto de instrumentos cuyo objeto es regular y administrar las actividades pesqueras, induciendo el aprovechamiento sustentable de los recursos pesqueros y acuícolas, basado en la disponibilidad de los recursos pesqueros, información histórica de niveles de extracción, usos y potencialidades de desarrollo de actividades, capacidad pesquera o acuícola puntos de referencia para el manejo de las pesquerías y en forma congruente con el ordenamiento ecológico del territorio del Estado;
 
-###### ARTICULO 15.
+XV.- Permiso: El documento que otorga la autoridad competente, a las personas físicas o morales, para llevar a cabo las actividades de pesca y acuacultura que se señalan con la presente Ley;
 
-Para velar por la salud física y mental de los alumnos, y vigilar que se respeten las normas de higiene dentro de las instalaciones, se organizará en la Academia, un servicio medico permanente, dotado cuando menos de:
+XVI.- Pesca: El acto de extraer, capturar o recolectar, por cualquier método o procedimiento, especies biológicas o elementos biogénicos, cuyo medio de vida total, parcial o temporal, sea el agua;
 
-I. Un médico general;
+XVII.- Pesca Comercial: La captura y extracción que se efectúa con propósitos de beneficio económico;
 
-II. Dos enfermeras;
+XVIII.- Pesca de consumo doméstico: La captura y extracción de recursos pesqueros que se efectúa sin propósito de lucro y con el único objeto de obtener alimento para quien la realice y de sus dependientes, por tanto no podrá ser objeto de comercialización;
 
-III. Suficientes medicamentos del cuadro básico;
+XIX.- Pesca deportivo-recreativa: La que se practica con fines de esparcimiento o recreación con las artes de pesca previamente autorizadas por esta ley, reglamentos y las normas oficiales vigentes;
 
-IV. Instrumentos necesarios para prestar los primeros auxilios y un equipo de cirugía menor;
+XX.-·Recursos Acuícolas: Las especies acuáticas susceptibles del cultivo de sus productos y subproductos;
 
-V. Camas y camillas; (sic)
+XXI.-·Recursos Pesqueros: Las especies acuáticas, sus productos y subproductos, obtenidos mediante la extracción, captura o recolección, en su estado natural;
 
-### CAPITULO II. DEL JEFE DEL DEPARTAMENTO ACADEMICO
+XXII.- Registro Estatal: El Registro Estatal de Pesca y Acuacultura;
 
-###### ARTICULO 16.
+XXIII.- Reglamento: El Reglamento de la presente Ley;
 
-Se proporcionará a los alumnos tres veces al día, una alimentación balanceada, misma que será servida en el respectivo comedor, en horarios previamente establecidos. A los elementos que Estén arrestados, se les alimentará en el lugar en el que estén cumpliendo el arresto.
+XXIV.- Reglamentos: Los Reglamentos específicos que se emitan con motivo de las diferentes actividades de tipo pesquero;
 
-###### ARTICULO 17.
+XXV.- Repoblación: El acto de introducir organismos acuáticos vivos nativos en cualquiera de los estados de su ciclo de vida, en cuerpos de agua con fines de mantener, recuperar o incrementar las poblaciones naturales pesqueras;
 
-Los Servicios sanitarios constarán de:
+XXVI.- Sanidad: El conjunto de acciones, prácticas, procedimientos y medidas establecidas en normas oficiales, encaminadas a la prevención, diagnóstico, control y erradicación de las enfermedades que afectan a dichas especies;
 
-I. Regaderas y Lavabos, con agua fría y caliente;
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
 
-II. Escusados;
+XXVII. Secretaría: La Secretaría de Desarrollo Agropecuario, Rural y Pesca;
 
-III. Migintorios;
+XXVIII. Sistema Estatal: El Sistema Estatal de Información Pesquera y Acuícola;
 
-IV. Lavandería, con lavaderos bajo techo y tendederos techados, y al aire libre; y
+XXIX. Veda: El acto administrativo por el que se prohíbe llevar a cabo la pesca en un periodo o zona específica, establecido mediante acuerdos o normas oficiales, con el fin de resguardar los procesos de reproducción y reclutamiento de una especie, y
 
-V. Peluquería; (sic)
+XXX. Zona de Escasa prevalencia: Área geográfica determinada en donde se presenta una frecuencia mínima de casos recientes de una enfermedad en especies acuáticas, en una especie y periodos específicos.
 
-###### ARTICULO 18.
+###### Artículo 5.
 
-Las instalaciones en general de la Academia, deberán mantenerse siempre en absoluta limpieza, bajo la responsabilidad de quien determine la Dirección de la Academia.
+A falta de disposición expresa en esta Ley, se estará a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, en la Ley General, en la Constitución Política del Estado Libre y Soberano de Quintana Roo, en las disposiciones contenidas en el Reglamento que derive de este ordenamiento, los reglamentos específicos, así como las demás disposiciones en la materia.
 
-## TITULO SEGUNDO. DE LA ESTRUCTURA Y ORGANIZACIÓN
+### CAPÍTULO II. De la Competencia y sus Atribuciones
 
-###### ARTICULO 19.
+###### Artículo 6.
 
-A fin de lograr los objetivos de los programas de formación básica, actualización, especialización y profesionalización que al efecto se autoricen, la Academia contará con el personal directivo, docente y administrativo que le asigne el presupuesto de egresos en vigor.
+El Estado y los Municipios ejercerán sus atribuciones en materia de pesca y acuacultura sustentables de conformidad con la distribución de competencias prevista en esta Ley y en otros ordenamientos legales aplicables.
 
-###### ARTICULO 20.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
-El personal directivo estará constituido por:
+La aplicación de la presente Ley corresponde al Poder Ejecutivo a través de la Secretaría.
 
-I. Un Director;
+###### Artículo 7.
 
-II. Un Jefe del Departamento académico;
+Son autoridades en materia de pesca y acuacultura, las siguientes:
 
-III. Un Jefe del Departamento Técnico; y
+I.- El Poder Ejecutivo del Estado; y
 
-IV. Un Jefe del Departamento Administrativo.
+II.- Los Ayuntamientos.
 
-### CAPITULO III. DEL JEFE DEL DEPARTAMENTO ADMINISTRATIVO
+El Poder Ejecutivo y los Ayuntamientos en el ámbito de sus competencias, y para el ejercicio de sus atribuciones observarán y aplicarán los principios generales a que se refiere el artículo 17 de la Ley General.
 
-###### ARTICULO 21.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
 
-El personal docente lo constituirán:
+###### Artículo 8.
 
-I. Instructores del Curso Básico de Formación Policial; y
+El Poder Ejecutivo, a través de la Secretaría, tendrá las siguientes atribuciones:
 
-II. Instructores de, Cursos de Especialización y Actualización.
+I. Diseñar y aplicar la política, los instrumentos y los programas para la pesca y la acuacultura estatal, en concordancia con la Política Nacional de Pesca y Acuacultura Sustentables, vinculándolos con los programas nacionales, sectoriales y regionales, así como con su respectivo Plan Estatal de Desarrollo;
 
-###### ARTICULO 22.
+II. Formular y ejercer la política local de inspección y vigilancia pesquera y acuícola en el marco del Convenio específico signado con el Instituto en estas materias y participar de conformidad con los acuerdos y convenios que se celebren con la Federación en las acciones de prevención y combate a la pesca ilegal, así como en la formulación y evaluación del Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal;
 
-El personal administrativo estará formado por:
+III. Celebrar convenios o acuerdos de coordinación y colaboración con el gobierno federal en materia de pesca y acuacultura;
 
-I. Un Jefe de Disciplina y vigilancia;
+IV. Participar con las dependencias competentes de la Administración Pública Federal en la elaboración de planes de manejo y de normas oficiales de conformidad con la Ley Federal sobre Metrología y Normalización y otras disposiciones aplicables;
 
-II. Los Oficiales de Disciplina y vigilancia;
+V. Integrar el Consejo Estatal de Pesca y Acuacultura para promover la participación activa de las comunidades y los productores en la administración y manejo de los recursos pesqueros y acuícolas y participar en la operación del Fondo Mexicano para el Desarrollo Pesquero y Acuícola;
 
-III. Auxiliares administrativo; y
+VI. Establecer, operar y mantener actualizado el Sistema Estatal de Información Pesquera y Acuícola y participar en la integración del Sistema Nacional de Información Pesquera y Acuícola, de conformidad con las disposiciones legales aplicables, así como integrar y operar el sistema estadístico pesquero y acuícola estatal y proporcionar la información estadística local a las autoridades federales competentes para actualizar la Carta Nacional Pesquera y la Carta Nacional Acuícola;
 
-IV. Secretarias.
+VII. Establecer, operar y mantener actualizado el Registro Estatal de Pesca y Acuacultura con carácter público y participar en la integración del Registro Nacional de Pesca y Acuacultura, de conformidad con las disposiciones legales aplicables;
 
-###### ARTICULO 23.
+VIII. Promover y apoyar la construcción, mejora y equipamiento de embarcaciones y artes de pesca, así como la creación y operación de esquemas de financiamiento adecuados para el desarrollo integral de la actividad pesquera y acuícola;
 
-El personal escolar estará constituido por aquellos que hayan sido admitidos en la Academia, después de haber cubierto los requisitos necesarios para su ingreso, tanto al Curso de Formación Básica, como a los Cursos de Promoción, Actualización y Especialización.
+IX. Participar en la formulación e implementación de los programas de ordenamiento pesquero y acuícola;
 
-### CAPITULO IV. DEL JEFE DEL DEPARTAMENTO TECNICO
+X. Promover la investigación aplicada y la innovación tecnológica de la pesca y acuacultura;
 
-###### ARTICULO 24.
+XI. Promover el consumo de una mayor variedad de productos pesqueros y acuícolas;
 
-El personal de servicios estará integrado por:
+XII. La aplicación de los instrumentos de política acuícola, previstos en las leyes locales en la materia, así como en las materias que no estén expresamente atribuidas a la Federación;
 
-I. Un coordinador de Servicios;
+XIII. Coordinarse con la Federación, sus Municipios y con otras Entidades Federativas, para el ordenamiento territorial de los desarrollos acuícolas;
 
-I. Un Médico externo, y auxiliares;
+XIV. Promover mecanismos de participación pública de los productores en el manejo y conservación de los recursos pesqueros y acuícolas conforme a lo dispuesto en esta Ley y otras disposiciones jurídicas federales y locales aplicables;
 
-III. Un Psicólogo;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
 
-IV. Un Bibliotecario;
+XV. El ejercido (sic) de las funciones que les transfiera la Federación, conforme a lo dispuesto por la presente Ley;
 
-V. Un nutriólogo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ABRIL DE 2022)</small>
 
-VI. Dos ecónomos;
+XVI. Establecer, instrumentar e implementar programas estratégicos que garanticen a las y los pescadores un apoyo financiero para su sustento, de acuerdo a lo que determine la Secretaría, durante los periodos de veda;
 
-VII. Cocineros;
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2022)</small>
 
-VIII. Ayudantes de cocina;
+XVII. Impulsar el desarrollo de las mujeres en la actividad pesquera y acuícola; y
 
-IX. Un encargado de mantenimiento;
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE ABRIL DE 2022)</small>
 
-X. Intendentes;
+XVIII. Las demás que no estén otorgadas expresamente a la Federación y que se deriven de la aplicación de la Ley General.
 
-XI.- Un peluquero;
+### CAPÍTULO III. De la Concurrencia con la Federación, el Estado y los Municipios
 
-XII. Un jardinero; y
+###### Artículo 9.
 
-XIII. Vigilantes.
+El Poder Ejecutivo del Estado, para la consecución de los fines de la presente Ley, podrá celebrar convenios o acuerdos de coordinación en materia de pesca y acuacultura conforme a la Ley General, con la Federación.
 
-### CAPITULO V. DEL PERSONAL DOCENTE
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
-###### ARTICULO 25.
+Cuando, por razón de la materia se requiera la intervención de otras dependencias, la Secretaría ejercerá sus atribuciones en coordinación con las mismas.
 
-El Consejo Técnico Consultivo es el máximo órgano rector con que cuenta la Academia, mismo que se constituirá de la siguiente manera:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
 
-I. Un Presidente, que será el Director General de Seguridad Pública y tendrá voto de calidad en la toma de decisiones;
+###### Artículo 10.
 
-II. Un Secretario, que será el Director de la Academia;
+El Poder Ejecutivo del Estado, a través de la Secretaría, derivado de los convenios o acuerdos, podrá ejercer las siguientes funciones en materia de pesca y acuacultura:
 
-III. Tres Vocales, que serán representantes del personal docente del plantel; y
+I.- La administración de los permisos para la realización de pesca deportiva y recreativa;
 
-IV. Un Vocal, que será el representante del personal administrativo.
+II.- La administración sustentable de las especies sésiles, que se encuentren en el mar territorial frente a sus costas, que se determinen previamente en la Carta Nacional Pesquera y en la Carta Nacional Acuícola;
 
-### CAPITULO VI. DEL JEFE Y DE LOS OFICIALES DE DISCIPLINA Y VIGILANCIA
+III.- El ordenamiento territorial y la sanidad de los desarrollos acuícolas;
 
-###### ARTICULO 26.
+IV.- La realización de acciones operativas tendientes a cumplir con los fines previstos en esta Ley y en la Ley General; y,
 
-El Consejo Técnico Consultivo tiene como principal propósito vigilar y supervisar que se cumplan los objetivos del presente Reglamento, así como colaborar con la Dirección, en el estudio y solución de los problemas de interés general que se presenten en el funcionamiento de la Academia.
+V.- La inspección y vigilancia del cumplimiento de esta Ley, la Ley General y demás disposiciones que sean aplicables.
 
-Al efecto, gozará de las mas amplias facultades para examinar los expedientes de los alumnos y hojas de servicio del personal en general.
+###### Artículo 11.
 
-###### ARTICULO 27.
+Para la consecución de los objetivos de la presente Ley, el Estado podrá celebrar convenios o acuerdos de coordinación con los Municipios, con el objeto de establecer las bases para la asunción de las siguientes funciones:
 
-El Consejo Técnico Consultivo se reunirá en forma ordinaria una vez al mes, para lo cual la Dirección de la Academia deberá establecer el calendario de reuniones correspondiente, así como la orden del día y los asuntos a tratar, los cuales se harán del conocimiento de los consejeros, con oportunidad.
+I. Diseñar y aplicar la política y los programas municipales para la pesca y la acuacultura, vinculándolos con los programas nacionales, estatales y regionales, incluyendo el desarrollo de la acuacultura en áreas susceptibles;
 
-El Consejo podrá reunirse en forma extraordinaria, a convocatoria del Director General.
+II. Participar en la integración del Sistema Estatal de Información Pesquera y Acuícola y del Registro Estatal de Pesca y Acuacultura;
 
-### CAPITULO VII. DEL MEDICO Y PSICOLOGO
+III. Promover mecanismos de participación pública en el manejo y conservación de los recursos pesqueros y acuícolas;
 
-###### ARTICULO 28.
+IV. Proponer a través del Consejo Estatal de Pesca y Acuacultura, métodos y medidas para la conservación de los recursos pesqueros y la repoblación de las áreas de pesca;
 
-De todos los asuntos que conozca o en que intervenga el Consejo Técnico Consultivo, se deberá elaborar acta circunstanciada, la que deberá ser firmada por los intervinientes.
+V. Participar en la formulación de los programas de ordenamiento pesquero y acuícola;
 
-###### ARTICULO 29.
+VI. En coordinación con el Gobierno Estatal, participar en las acciones de sanidad acuícola, en los términos de esta Ley y de la legislación local;
 
-Los integrantes del Consejo Técnico Consultivo tienen la obligación de ejecutar los trabajos de orden disciplinario, académico, pedagógico y administrativo que se les encomiende y que acuerde dicho órgano rector; asimismo, tienen el deber de presentar propuestas, planes y proyectos de trabajo, cuyo beneficio sea en favor de la Academia.
+VII. Promover y fomentar la actividad acuícola, en armonía con la preservación del ambiente y la conservación de la biodiversidad; y,
 
-## TITULO TERCERO. DE LOS DEBERES Y ATRIBUCIONES
+VIII. Participar, de conformidad con los acuerdos y convenios que se celebren con las autoridades competentes, en la inspección y vigilancia en su jurisdicción.
 
-###### ARTICULO 30.
+###### Artículo 12.
 
-El Director de la Academia es responsable de la administración, disciplina y buen funcionamiento de la misma. Al efecto, aparte de lo previsto en el Artículo 43 de la Ley de Seguridad Pública para el Estado de Tamaulipas, tendrá los deberes y atribuciones siguientes:
+El Poder Ejecutivo del Estado y los Ayuntamientos podrán celebrar los instrumentos legales necesarios para el ejercicio de la actividad pesquera y acuícola, a efecto de que estos últimos asuman de forma concurrente con la autoridad estatal las facultades y atribuciones que sean viablemente delegables dentro de su jurisdicción para mejorar la productividad en el sector, siempre y cuando garantice que cuenta con los recursos humanos capacitados y la estructura institucional específica para atender las funciones que asumiría.
 
-I. Vigilar que se promueva una educación integral de los alumnos en los aspectos intelectual, moral y físico;
+###### Artículo 13.
 
-II. Coordinar el trabajo que efectúe el personal de Academia, velando siempre por el mejor funcionamiento de ésta;
+Las contribuciones que por el aprovechamiento de los recursos pesqueros y acuícolas se generen, así como los que se obtengan por el otorgamiento de concesiones o permisos y por cualquier otro concepto relacionado con esta actividad y cuya administración se efectúe por el Estado, ingresará a su hacienda pública, con base en lo señalado en la Ley en la materia, y procurando que los recursos captados se destinen a fideicomisos de apoyo a la actividad pesquera.
 
-III. Mantener actualizados los planes y programas con estudio, de conformidad con los lineamientos que determine el Sistema Nacional de Seguridad Pública;
+Los convenios y acuerdos de coordinación que suscriba el Estado con la Federación para los efectos de administración u otorgamiento de concesiones o permisos reservados a la segunda, deberán publicarse en el Periódico Oficial del Estado de Quintana Roo.
 
-IV. Girar instrucciones a quien corresponda, para efectos de vigilar permanentemente que las instalaciones del plantel estén siempre en óptimas condiciones materiales, de manera que permitan a su personal y alumnos, un desarrollo integral y armónico;
+### CAPÍTULO IV. De la Política Estatal de Pesca y Acuacultura
 
-V. Ordenar a quien corresponda, la elaboración de un plan de contingencias, a fin de prevenir accidentes y estar preparados en casos de desastres o incendios, incluso realizando periódicamente simulacros de evacuación;
+###### Artículo 14.
 
-VI. Velar por la salud física y mental de los alumnos, y vigilar que se respeten las normas de higiene dentro de las instalaciones;
+En la planeación estatal del desarrollo, se deberá incorporar la política estatal de pesca y acuacultura que se establezca de conformidad con esta Ley y las demás disposiciones en la materia.
 
-VII. Proponer al Director General de Seguridad Pública en el Estado, las actividades que en beneficio de la Academia estime necesarias;
+En la planeación y realización de las acciones a cargo de las dependencias y entidades de la Administración Pública Estatal, conforme a sus respectivas esferas de competencia, así como en el ejercicio de las atribuciones que las leyes confieran al Estado para regular, promover, restringir, prohibir, orientar y en general, inducir las acciones de los particulares en los campos económico y social, se observarán los lineamientos de política estatal de pesca y acuacultura que establezcan el Plan Estatal de Desarrollo y los programas que de él se deriven.
 
-VIII. Autorizar y firmar, en unión, de quien determine la superioridad, las constancias y diplomas de estudios;
+Las medidas, programas e instrumentos económicos relativos al desarrollo de la actividad pesquera y acuícola, deberán sujetarse a las disposiciones en la materia para el ejercicio fiscal que corresponda, y deberán asegurar su eficacia, selectividad y transparencia. En todo caso, los programas e instrumentos económicos deberán prever la canalización efectiva y suficiente de apoyos para fomentar las actividades pesquera y acuícola.
 
-IX. Autorizar la baja da los alumnos y permisos al personal en general;
+###### Artículo 15.
 
-X. Autorizar la salida de la escolta de los símbolos patrios, para su participación en eventos cívicos externos;
+El Estado, con la colaboración de los productores pesqueros y acuícolas, en coordinación con los Municipios y otras instituciones públicas formulará, operará y evaluará el Programa Integral de Inspección y Vigilancia Pesquera y Acuícola para el Combate a la Pesca Ilegal, especialmente en las zonas sobreexplotadas y de repoblación, para enfrentarla con diversas acciones, así como para prevenir actos sancionados por la presente Ley y otras disposiciones aplicables.
 
-XI. Fomentar el intercambio cultural, académico y deportivo, en coordinación con otras academias del policial y cuerpos policiales del país y/o del extranjero; y
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
-XII. Las demás que se señalen las disposiciones jurídicas y reglamentarias aplicables.
+La Secretaría dispondrá de los recursos humanos, técnicos, financieros y materiales necesarios para la ejecución de las acciones previstas en el Programa Integral de Inspección y Vigilancia Pesquera y Acuícola para el Combate a la Pesca Ilegal y promoverá la participación de las demás dependencias y entidades de la Administración Pública Estatal y de los Municipios, en los términos de la distribución de competencias y de los acuerdos o convenios que para tal efecto se celebren.
 
-### CAPITULO I. GENERALIDADES
+### CAPÍTULO V. Del Consejo de Pesca y Acuacultura
 
-###### ARTICULO 31.
+###### Artículo 16.
 
-El Jefe del Departamento Académico tendrá las obligaciones siguientes:
+El Consejo es un órgano de apoyo, coordinación, consulta, promoción y análisis del Instituto, para la formulación y evaluación de las acciones que se desarrollen en materia pesquera y acuícola en el Estado.
 
-I. Coordinar el trabajo y mantener una constante supervisión, a efecto de que se cumplan los objetivos que la Dirección le indique;
+###### Artículo 17.
 
-II. Vigilar la orientación pedagógica y doctrinal de la Academia, supervisando que las evaluaciones de los alumnos se otorguen con la mayor equidad;
+El Consejo se integrará de la siguiente forma:
 
-III. Llevar a acuerdo con el Director todos los asuntos cuya naturaleza lo amerite, e informar de lo que haya resuelto por sí mismo;
+I. Un Presidente, que será el titular del Poder Ejecutivo;
 
-IV. Controlar la aplicación de métodos y desarrollo de programas de educación, informando detallada y oportunamente a la Dirección;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-V. Reunir los datos necesarios para los informes ordinarios y extraordinarios que debe rendir el Director;
+II.- Un Vicepresidente, que será el Titular de la Secretaría de Desarrollo Agropecuario, Rural y Pesca, quien fungirá como suplente en ausencia del Presidente;
 
-VI. Presentar al Director, periódicamente, su opinión sobre la labor pedagógica desarrollada por cada instructor;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-VII. Coordinar y supervisar la elaboración, de horarios de clase, credenciales, constancias de trabajo, listas de asistencia que deberán entregarse a los maestros e instructores, publicación de listas de resultados de exámenes, control de asistencia del personal docente, distribución de grupos y asignación de aulas;
+III.- Un Secretario Técnico, que será un Representante de la Secretaría de Desarrollo Agropecuario, Rural y Pesca con nivel inmediato inferior al del Titular;
 
-VIII. Proponer el alta, baja o la remoción del personal penal docente atendiendo a las necesidades de la Academia;
+IV. El titular de la Secretaría de Medio Ambiente;
 
-IX. Supervisar la elaboración e impresión del material didáctico y de apoyo, que las necesidades del proceso enseñanza-aprendizaje de la Academia requiera;
+VI (SIC). El titular de la Procuraduría del Medio Ambiente;
 
-X. Realizar los estudios y evaluaciones que se requieran, para decidir quienes son los alumnos que integrarán la escolta que custodiarán los símbolos patrios, en las ceremonias que se lleven a cabo, tanto en el propio plantel, como en algún otro evento al que se invite a la Academia;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-XI. Coordinar y tener actualizado el Cuadro de Honor de la Institución, que será formado con los nombres y fotografías de los alumnos con mas alto grado de aprovechamiento, y se exhibirá en la recepción de las oficinas de la Dirección; y
+VII.- El Titular de la Secretaría de Turismo;
 
-XII. Las demás que le señalen las disposiciones jurídicas y reglamentarias aplicables.
+VIII. Un Diputado integrante de la Comisión de Desarrollo Rural y Pesquero del H. Congreso del Estado;
 
-###### ARTICULO 32.
+IX. Vocales de la sociedad civil, que a invitación del Presidente serán:
 
-El Jefe del Departamento Administrativo tendrá los deberes y atribuciones siguientes:
+a) Un representante de una institución de educación superior o de investigación en materia de pesca o acuacultura;
 
-I. Coordinar el trabajo que le encomiende la Dirección y mantener una constante supervisión a efecto de que se cumplan los objetivos que se le indiquen;
+b) El titular de la Cámara Nacional de la Industria Pesquera;
 
-II. Llevar a acuerdo con el Director todos los asuntos cuya naturaleza lo amerite, e informar de lo que haya resuelto por sí mismo;
+c) El titular de la Unión de Permisionarios;
 
-III. Reunir los datos necesarios para los informes ordinarios y extraordinarios que debe rendir el Director;
+d) El titular de la Federación Regional de Sociedades Cooperativa de la Industria Pesquera del Estado de Quintana Roo, S. C. de R. L.;
 
-IV. Elaborar el presupuesto de la Academia;
+e) El Presidente del Comité Estatal de Pesca Deportiva; y,
 
-V. Proporcionar los recursos materiales necesarios de la Academia, al personal que lo requiera;
+f) Un Representante No Gubernamental del Sistema Producto Acuícola.
 
-VI. Realizar los trámites administrativos que se requieran para el buen funcionamiento de la Academia;
+Los vocales de la sociedad civil serán propuestos por un período de tres años, mediante los procedimientos que determine el Reglamento de esta Ley. Estos tendrán derecho a voz y a voto.
 
-VII. Coordinar y supervisar el control de asistencia del personal administrativo y de servicios de la Institución;
+En las sesiones del Consejo se podrá invitar a un representante de la Comisión Nacional de Pesca, quien tendrá participación con voz, en los asuntos que se atiendan en el órgano colegiado, pero sin voto en las decisiones de éste.
 
-VIII. Coordinar y supervisar el funcionamiento de la cocina y el comedor;
+Cada miembro propietario designará un suplente quien asistirá a las sesiones del Consejo Estatal en ausencia del primero, con todas las facultades y derechos que a este corresponda.
 
-IX. Realizar y mantener actualizado el registro y control de todos los vehículos, bienes muebles e inmuebles, que forman el patrimonio de la Academia; y,
+Los miembros propietarios y suplentes del Consejo Estatal serán a título honorífico.
 
-X. Las demás que le señalen las disposiciones jurídicas y reglamentarias aplicables.
+###### Artículo 18.
 
-###### ARTÍCULO 33.
+Le compete al Consejo:
 
-Son deberes y atribuciones del Jefe del Departamento Técnico:
+I.- Contribuir o impulsar en el marco de las respectivas competencias y de acuerdo a los convenios celebrados, el desarrollo sustentable de los recursos pesqueros y acuícolas que se desarrollan en aguas de jurisdicción federal ubicadas en el Estado;
 
-I. Coordinar el trabajo que le encomiende la Dirección y mantener una constante supervisión a efecto de que se cumplan los objetivos que se le indiquen;
+II.- Promover el aprovechamiento sustentable de los recursos pesqueros y acuícolas en el Estado, basados en el conocimiento científico y tecnológico, con el cuidado y conservación del medio ambiente y considerando los factores económicos y sociales de la región;
 
-II. Llevar a acuerdo con el Director todos los asuntos cuya naturaleza lo amerite, e informar de lo que haya resuelto por sí mismo;
+III.- Promover la coordinación entre la autoridad federal, estatal y municipal, así como la participación concertada de los sectores productivos, centros de enseñanzas e instituciones de investigación;
 
-III. Reunir les (sic) datos necesarios para les (sic) informes ordinarios y extraordinarios que debe rendir el Director;
+IV.- Proponer a la autoridad competente mecanismos de participación ordenada en las actividades de pesca y acuacultura en el Estado, sin contravenir las disposiciones legales, normativas y administrativas aplicables; y
 
-IV. Integrar los expedientes de los alumnos, respecto de su aprovechamiento dentro de la Academia;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
-V. Informar al Consejo Estatal de Seguridad Pública, las altas y bajas del personal que participe en los Cursos Básicos de Formación Policial, Promoción, Actualización y Especialización, para su inscripción en el registro correspondiente;
+V.- Coadyuvar con la Secretaría en los mecanismos de participación de los productores dedicados a las actividades pesqueras y acuícolas.
 
-VI. Elaborar cuadros estadísticos y gráficas de información referentes al nivel de aprovechamiento de los alumnos;
+###### Artículo 19.
 
-VII. Mantener comunicación constante y permanente con los alumnos, para informarles del sistema integral de enseñanza-aprendizaje y recabar sus opiniones y sugerencias;
+El Consejo sesionará en forma ordinaria al menos una vez cada tres meses y en forma extraordinaria, cuando a juicio del Presidente sea necesario.
 
-VIII. Realizar una constante investigación para la actualización de la enseñanza;
+###### Artículo 20.
 
-IX. Determinar las estrategias de enseñanza-aprendizaje para el mejor aprovechamiento de los alumnos;
+Las demás funciones del Consejo se harán de acuerdo a lo establecido en los términos que dicte el Reglamento de la presente Ley.
 
-X. Supervisar la enseñanza de las diferentes materias y áreas, vigilando la forma como la imparten los instructores;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JULIO DE 2017)</small>
 
-XI. Convocar al personal docente para la solución de problemas de enseñanza;
+### CAPÍTULO VI. De la Secretaría de Desarrollo Agropecuario, Rural y Pesca
 
-XII. Elaborar el archivo y registro de ex-alumnos, para mantener el control del personal egresado y satisfacer la demanda de recursos humanos de la Dirección General de Seguridad Pública, así como de los alumnos que por diferentes motivos causaron baja de la academia sin haber terminado el curso;
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
-XIII. Coordinarse con el Consejo Estatal de Seguridad Pública, para la aplicación de los planes y programas de estudio que determine el Sistema Nacional de Seguridad Pública; y,
+###### Artículo 21.
 
-XIV. Las demás que le señalen las disposiciones jurídicas y reglamentarias aplicables.
+La Secretaría de Desarrollo Agropecuario Rural y Pesca forma parte de la Administración Pública Central.
 
-###### ARTICULO 34.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
 
-El personal docente de la Academia tendrá los deberes y atribuciones siguientes:
+###### Artículo 22.
 
-I. Fomentar en los alumnos, el desarrollo de sus habilidades y destrezas para el adecuado empleo de las técnicas, tácticas y procedimientos da protección y vigilancia, así como para la operación de los equipos e instrumentos necesarios que se requieren para el desempeño de las funciones del policía;
+La Secretaría tendrá las siguientes facultades y obligaciones:
 
-II. II (SIC). Inculcar en los alumnos, el desarrollo de sus actitudes y valores éticos que les permitan asumir de manera consciente y comprometida, las funciones y responsabilidades que habrán de tener como agentes de policía en materia de seguridad pública, con pleno respeto a los principios de actuación establecidos;
+I. Proponer, y ejecutar la Política de Pesca y Acuacultura en el Estado, en congruencia con la Política Nacional en la materia;
 
-IlI. III (SIC). Previo al inicio del curso, presentar al Director de la Academia, por escrito, el método de enseñanza que habrá de observar en el desarrollo del plan de trabajo de su área o materia; asimismo, la relación del material didáctico, libros de texto y de apoyo, que habrán de requerirse en el proceso enseñanza aprendizaje, y los requerimientos que habrán de ocuparse durante el curso, y su justificación;
+II. Promover convenios o acuerdos de coordinación y colaboración con el gobierno federal, con el objeto de que el Estado asuma funciones o atribuciones reservadas para la federación en la Ley General, y aquellas que tengan como finalidad la realización de acciones conjuntas;
 
-IV. Evaluar con la mayor exactitud y honradez, el aprovechamiento de los alumnos;
+III. Fomentar la acuacultura como actividad de desarrollo en la entidad;
 
-V. Procurar la congruencia entre la teoría y la práctica, respecto a su asignatura;
+IV. Fomentar entre los productores el uso de artes de pesca selectivos y ambientalmente seguros para conservar y mantener la disponibilidad de recursos pesqueros;
 
-VI. Fomentar el respeto, orden y disciplina en el aula escolar donde imparte su enseñanza, reportando inmediatamente al Oficial de guardia en turno por escrito, el o los casos que lo ameriten;
+V. Promover el aprovechamiento integral, responsable y sustentable de las especies de flora y fauna acuáticas;
 
-VII. Fomentar la elaboración del periódico mural de la Institución, de acuerdo a la temporada y/o la: (sic) fechas cívicas mas importantes;
+VI. Participar en la operación del Fondo Mexicano para el Desarrollo Pesquero y Acuícola, de conformidad con lo previsto en sus lineamientos y esta ley;
 
-VIII. Participar en conferencias, cursos de preparación y/o actualización correspondientes a su asignatura, cuyas experiencias después deberán compartir con los alumnos de la Academia; y,
+VII. Participar en coordinación con la autoridad federal en la formulación e implementación de los programas de ordenamiento pesquero y acuícola que se realicen en esta entidad;
 
-IX. Las demás que le señalen las disposiciones jurídicas y reglamentarias aplicables.
+VIII. Integrar el Consejo Estatal de Pesca y Acuacultura, para promover la participación activa de las comunidades y los productores;
 
-###### ARTICULO 35.
+IX. Participar en la elaboración, formulación y ejecución de programas, planes, proyectos y en general en políticas de inspección y vigilancia pesquera y acuícola que no estén expresamente atribuidas a la federación;
 
-Son deberes y atribuciones del jefe de disciplina y vigilancia:
+X. Promover la organización y capacitación en las actividades del sector pesquero y acuícola, así como las medidas para incrementar la productividad, y la prestación de servicios de asesoría y capacitación;
 
-I. Tener bajo su mando al cuerpo de Oficiales de la Academia;
+XI. Coordinar la organización y desarrollo de exposiciones, ferias, y eventos de interés para el sector pesquero y acuícola;
 
-II. Organizar al cuerpo de alumnos en unidades básicas, similares a las de las corporaciones de la Policía Preventiva;
+XII. Promover entre los habitantes del Estado, el consumo de productos pesqueros y acuícolas, sobre todo en especies que abunden en la entidad, destacando sus beneficios y valor nutritivo;
 
-III. Conservar la disciplina del cuerpo de alumnos en todas las actividades realizadas dentro y fuera de la Academia, de acuerdo con el presente Reglamento;
+XIII. Desarrollar programas para fomentar vinculaciones entre la inversión nacional y extranjera y las empresas originadas en la entidad, e intensificar la competitividad, especialmente dirigida al sector pesquero;
 
-IV. Supervisar la instrucción física que se imparta a los alumnos de la Academia;
+XIV. Fomentar la ejecución de obras e infraestructura básica, constitución de unidades y laboratorios para la producción de organismos destinados al cultivo de especies acuícolas y pesqueras, incluidas plantas de conservación y transformación industrial;
 
-V. Proponer estímulos y distinciones a los alumnos sobresalientes e imponer sanciones disciplinarias a quienes infrinjan el Reglamento, previa acuerdo y autorización del Director;
+XV. Proponer la expedición, modificación y actualización de normas oficiales mexicanas en favor del sector acuícola y pesquero, tomando en cuenta la sustentabilidad para el aprovechamiento de los recursos que se traten;
 
-VI. Organizar los servicios de vigilancia, internos y externos, que proporcione la Academia;
+XVI. Promover mecanismos y esquemas de financiamiento adecuados para el desarrollo integral de las actividades pesqueras y acuícolas;
 
-VII. Hacer que se cumplan las órdenes e instrucciones recibidas de la Dirección;
+XVII. Fomentar la igualdad de oportunidades entre hombres y mujeres, en las actividades de pesca y acuacultura; y,
 
-VIII. Mantener constante vigilancia a efecto de evitar todo abuso a los alumnos;
+XVIII. Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos sobre la materia.
 
-IX. Rendir diariamente un parte de novedades al Director;
+###### Artículo 23.
 
-X. Elaborar el rol de guardias;
+(DEROGADO, P.O. 4 DE JULIO DE 2017)
 
-XI. Conocerlos (sic) horarios de clases, para la distribución de tiempo y el cumplimiento de los deberes de servicio de los alumnos;
+### CAPÍTULO VII. Del Fomento a la Pesca
 
-XII. Mantener el orden en el interior de la Academia y de la seguridad de las instalaciones de la misma;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
 
-XIII. Decidir en ausencia de sus superiores los asuntos de urgencia o imprevistos que se presenten, debiendo dar cuenta a la brevedad posible, la determinación tomada a la superioridad; y
+###### Artículo 24.
 
-XIV. Las demás que les encomiende el Director y/o que le señalen las disposiciones jurídicas y reglamentarias aplicables.
+La Secretaría, en coordinación con las dependencias y entidades de la Administración Pública Estatal competentes, y en lo que corresponda, con los Municipios, realizará las acciones necesarias para fomentar y promover el desarrollo de la pesca y la acuacultura, en todas sus modalidades y niveles de inversión, y para tal efecto:
 
-###### ARTICULO 36.
+I.- Coadyuvará con las instituciones dedicadas a la investigación en reproducción, genética, nutrición, sanidad y extensionismo, entre otros, para apoyar a las personas y organizaciones que se dediquen a esas actividades;
 
-Son deberes y obligaciones de los Oficiales de Disciplina y Vigilancia:
+II.- Asesorará a los acuacultores para que el cultivo y explotación de la flora y fauna acuática, se realicen de acuerdo con las prácticas que las investigaciones científicas y tecnológicas aconsejen; así como en materia de construcción de infraestructura, adquisición y operación de plantas de conservación y transformación industrial, insumos, artes y equipos de cultivo y demás bienes que requiera el desarrollo de la actividad acuícola;
 
-I. Rendir diariamente un parte de novedades al Jefe de Disciplina y Vigilancia ocurridas en su guardia;
+III.- Fomentará, promoverá y realizará acciones tendientes a:
 
-II. Permanecer en servicio durante el tiempo asignado por el superior inmediato, hasta que sea relevado del mismo;
+a. Formular y ejecutar de (sic) programas estatales de apoyo financiero para el desarrollo de la pesca y la acuacultura, que incluyan, entre otros aspectos, la producción de especies comestibles y ornamentales de agua dulce, estuarinas y marinas, la reconversión productiva, la transferencia tecnológica y la importación de tecnologías de ciclo completo probadas y amigables con el ambiente;
 
-III. Vigilar el aseo de las diferentes áreas y presentación de los alumnos; y
+b. Apoyar en la construcción de parques de acuacultura, así como de unidades de producción, centros acuícolas y laboratorios dedicados a la producción de organismos destinados al ornato, al cultivo y repoblación de las especies de la flora y fauna acuática;
 
-IV. Las demás que les encomiende el Director y Jefe de Disciplina y Vigilancia de la Academia, y/o las que le señalen las disposiciones jurídicas y reglamentarias aplicables.
+c. Apoyar la construcción, mejora y equipamiento de embarcaciones y de artes de pesca selectiva y ambientalmente seguras, mediante la ejecución de programas de sustitución y modernización de las mismas;
 
-### CAPITULO II. DE LAS EVALUACIONES
+d. Coadyuvar con las autoridades competentes en la construcción de infraestructura portuaria pesquera, así como en el mejoramiento de la infraestructura existente;
 
-###### ARTICULO 37.
+e. Colaborar con las instituciones dedicadas a la investigación científica y tecnológica en pesca y acuacultura;
 
-Son deberes y atribuciones del Medico de la Academia.
+f. Formular y ejecutar los programas estatales de fomento y difusión de la acuacultura, de la maricultura, de la comercialización y consumo de productos pesqueros y acuícolas, tendientes a dar valor agregado a los productos generados por la pesca y la acuacultura;
 
-I. Formular como toda oportunidad, las solicitudes de suficientes medicamentos del cuadro básico, de instrumentos necesarios para prestar los primeros auxilios y el equipo de cirugía menor, material de curación e instrumental en general que se requiera, para el área de atención médica;
+g. Organizar económicamente a los productores y demás agentes relacionados con el sector, a través de mecanismos de comunicación, concertación y planeación;
 
-II. En caso de alumnos incapacitados, emitir inmediatamente la constancia respectiva, en la que se describa con toda precisión la situación y remitirla al Departamento Académico;
+h. Contribuir, en el ámbito de su competencia, en la realización de obras de rehabilitación ambiental en sistemas lagunarios costeros con la participación de las autoridades competentes;
 
-III. Proporcionar asistencia médica de urgencia al personal de Academia;
+i. Promover, ante las instancias competentes, la aplicación de estímulos fiscales, económicos de apoyo financiero necesarios para el desarrollo productivo y competitivo de la pesca y la acuacultura;
 
-IV. Llevar el control del despacho y utilización de medicinas en los libros de registro asignados;
+j. Impulsar acciones para la formación de capital humano que se vincule con organizaciones de productores que participen en las cadenas productivas acuícolas y pesqueras, incluyendo a las instituciones educativas afines a esta actividad;
 
-V. Elaborar y aplicar los exámenes médicos de admisión; y
+k. Favorecer la creación de figuras organizativas para la promoción comercial de los productos pesqueros y acuícolas en los mercados nacional e internacional;
 
-VI. Las demás que les encomiende el Director y/o que le señalen las disposiciones jurídicas reglamentarias aplicables.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2022)</small>
 
-###### ARTICULO 38.
+l. Proporcionar asistencia técnica y capacitación a los grupos sociales organizados a fin de determinar el sistema de cultivo que mejor se adapte a sus localidades y necesidades, así como el tipo de actividad acuícola que les procure mayor bienestar;
 
-Son deberes y atribuciones del Psicólogo de la Academia:
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2022)</small>
 
-I. Elaborar y aplicar los exámenes psicométricos de admisión;
+m. Establecer acciones conjuntas para el fortalecimiento de las redes de valor, en coordinación con los diversos comités sistema-producto acuícolas y pesqueros, y
 
-II. Colaborar mediante orientaciones, pláticas y conferencias en la formación integral de los alumnos;
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2022)</small>
 
-III. Someter a consideración del director la baja de aquellos alumnos que a su juicio lo amerite; y
+n. Establecer, instrumentar e implementar programas estratégicos que garanticen a las y los pescadores un apoyo financiero para el sustento de sus familias, durante los periodos de veda.
 
-IV. Las demás que les encomiende el director y/o que le señalen las disposiciones jurídicas y reglamentarias aplicables.
+IV. Promover el ordenamiento de la pesca y acuacultura e instrumentar servicios de investigación y adaptación al cambio tecnológico;
 
-## TITULO CUARTO. DE LA ENSEÑANZA
+V. Observar, en los convenios, acuerdos o programas que realice, la normatividad federal que le sean aplicables; y,
 
-###### ARTICULO 39.
+VI. Impulsar una mayor participación del esfuerzo pesquero en actividades turísticas y de pesca deportiva - recreativa.
 
-La enseñanza de las diversas asignaturas, será teórica y/o práctica de acuerdo con la naturaleza de cada una.
+### CAPÍTULO VIII. De la Investigación y Capacitación Pesquera y Acuícola
 
-###### ARTICULO 40.
+###### Artículo 25.
 
-La duración de los Cursos Básicos de Formación Policial y de Promoción, Actualización y Especialización, será por el tiempo que determine la superioridad, cumpliendo siempre los lineamientos que al respecto fije el Sistema Nacional de Seguridad Pública.
+El Estado promoverá la investigación científica y tecnológica en pesca y acuacultura, así como la capacitación en estas materias, las cuales tendrán como propósitos esenciales:
 
-###### ARTICULO 41.
+I. La conservación, protección, restauración y aprovechamiento sustentable de los recursos pesqueros y acuícolas del Estado;
 
-La Academia expedirá las constancias en forma de diplomas, a quienes hayan terminado satisfactoriamente los cursos; correspondientes.
+II. La promoción de nuevas artes y métodos de pesca selectivos y ambientalmente seguros aprobados por las autoridades competentes;
 
-#### Sección primera. De las sanciones para los alumnos
+III. El coadyuvar con las autoridades ambientales con el objeto de que la pesca y los cultivos de especies acuícolas, se lleven a cabo en equilibrio con el medio ambiente;
 
-###### ARTICULO 69.
+IV. La investigación en materia de sanidad e inocuidad acuícola y pesquera; y,
 
-Las sanciones para los alumnos son las siguientes:
+V. El Contribuir con las autoridades competentes para el establecimiento de medidas encaminadas a protección de especies pesqueras sobreexplotadas.
 
-I. Amonestación;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2022)</small>
 
-II. Arrestos
+### CAPÍTULO IX. Del Programa Estatal de Desarrollo en Materia de Pesca y Acuacultura
 
-III. Degradación; o
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2022)</small>
 
-IV. IV.- (SIC) Baja.
+###### Artículo 26.
 
-###### ARTICULO 70.
+El Programa Estatal de Desarrollo, en materia de pesca y acuacultura, debe emitirse en congruencia con el Plan Nacional de Desarrollo, Programa Nacional de Pesca y Acuacultura, Plan Estatal de Desarrollo, así como de aquellos que incidan en el ordenamiento del desarrollo pesquero y acuícola en el Estado. Será autorizado por el Ejecutivo del Estado, previa elaboración y análisis de la Secretaría.
 
-Para los efectos de este Reglamento, se establecen los siguientes conceptos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2022)</small>
 
-I. Amonestación.- Es el acto por el cual el Director de la Academia advierte al alumno la omisión o defecto en el cumplimiento de sus deberes, exhortándolo a corregirse;
+###### Artículo 27.
 
-II. Arresto.- Es la acción disciplinaria que priva al alumno de sus franquicias, por tiempo determinado;
+El Programa Estatal de Desarrollo en materia de pesca y acuacultura, contemplará de manera enunciativa pero no limitativa, los siguientes aspectos:
 
-III. Degradación.- Consiste en la privación de la categoría que el alumno ostente en el momento de cometer la infracción; y
+I.- El establecimiento de acciones de planeación y programación del desarrollo pesquero y acuícola en la entidad;
 
-IV. Baja.- Es la separación definitiva del alumno, de la Academia.
+II.- Los mecanismos de promoción para adaptación y transferencia tecnológica para la pesca y la acuacultura;
 
-###### ARTICULO 71.
+III.- El aprovechamiento integral de los cuerpos de agua y el ordenamiento de la pesca deportiva;
 
-Para el cumplimiento de la medida disciplinaria consistente en arresto, deberá destinarse un área específica, la cual estará separada del resto de las instalaciones.
+IV.- Subprogramas de modernización de infraestructura portuaria y pesquera;
 
-###### ARTICULO 72.
+V.- Mejoramiento y ampliación de centros de acopio y canales de distribución de productos pesqueros y acuícolas;
 
-Todo alumno que haya sido dado de baja en la Academia por cualquier causa, no podrá volver a causar alta en la misma.
+VI.- Organización, capacitación y desarrollo de las cadenas productivas y planes de manejo de los recursos pesqueros y acuícolas;
 
-###### ARTICULO 42.
+VII.- Funcionamiento e Integración del Programa de Inspección y Vigilancia;
 
-Para apreciar los conocimientos adquiridos por los alumnos, se aplicarán las siguientes evaluaciones:
+VIII.- La promoción de actividades productivas complementarias que generen ingresos adicionales a las comunidades pesqueras y acuícolas;
 
-I. A los alumnos del Curso Básico de formación Policial, se les aplicara evaluaciones mensuales que realizará el responsable de la materia o área, las que se promediaran para aprobar el curso;
+IX.- La inclusión de mecanismos que implementen las buenas prácticas en la operación de cultivos acuícolas, capacitación y asistencia técnica integral;
 
-II. Evaluaciones especiales, las que se realizaran a alumnos que por causas justificadas no se hayan presentado a los exámenes en su debido oportunidad; y,
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
 
-III. Evaluaciones de fin de curso, cuando se trate de cursos de especialización o actualización.
+X.- Esquemas de integración de las cadenas productivas y valor agregado;
 
-###### ARTICULO 43.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
 
-Los alumnos que recurran a medios deshonestos al efectuarse las evaluaciones, no serán acreditados y los instructores titulares de la materia darán cuenta a la superioridad, para la aplicación de la sanción correspondiente.
+XI.- Elaboración de estudios o diagnóstico dinámico de las poblaciones pesqueras; y
 
-###### ARTICULO 44.
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2022)</small>
 
-Todos los alumnos tienen obligación de presentar los exámenes orales o escritos que les corresponden, de acuerdo con el presente Reglamento.
+XII.- La inclusión de mecanismos de apoyos financieros para las y los pescadores en los periodos de veda.
 
-###### ARTICULO 45.
+### CAPÍTULO X. Del Sistema Estatal de Información Pesquera y Acuícola
 
-Loa (sic) alumnos cuyo aprovechamiento no sea satisfactorio, quedarán a disposición del Consejo Técnico Consultivo de la Institución.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
-###### ARTICULO 46.
+###### Artículo 28.
 
-El alumno que faltare justificadamente en el período de evaluaciones, deberá presentar su examen en una fecha especial sujetándose al resultado que en ella obtenga.
+La Secretaría integrará el Sistema Estatal, que tendrá por objeto organizar, actualizar y difundir la información sobre actividades del sector que se desarrollen en el Estado.
 
-#### Sección segunda. De las sanciones para el personal docente, administrativo y de servicios
+###### Artículo 29.
 
-###### ARTICULO 73.
+El Sistema Estatal se integrará con:
 
-El personal administrativo, docente y de servicios, que labore para la Academia, deberá observar las normas de conducta y disposiciones disciplinarias que rigen la organización del plantel, independientemente de otros lineamientos jurídicos y reglamentarios aplicables.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
 
-###### ARTICULO 74.
+I.- El Programa Estatal de Desarrollo en materia de pesca y acuacultura;
 
-El personal administrativo, docente y de servicios que labore para la Academia, tiene la obligación de cumplir las órdenes y disposiciones que emanen de la Dirección General.
+II.- La Carta Estatal Pesquera y Acuícola;
 
-###### ARTICULO 75.
+III.- El Registro Estatal de Pesca y Acuacultura;
 
-Las sanciones disciplinarias que se aplicarán al personal que incurra en alguna infracción de las previstas en el presente Reglamento, y que serán calificadas por el Director, serán las que a continuación se indican:
+IV.- El Programa de Emplacamiento de Embarcaciones Menores;
 
-I. Amonestación;
+V.- El Programa de Empadronamiento y Credencialización de Pescadores Activos del Litoral Quintanarroense;
 
-II. Apercibimiento;
+VI.- El Informe de la situación general de la pesca y acuacultura en el Estado e indicadores de su desarrollo;
 
-III. Suspensión sin goce de sueldo, hasta por un término de noventa días; o
+VII.- El anuario estadístico de pesca y acuacultura; y,
 
-IV. Destitución.
+VIII.- Las demás que considere el Instituto relacionadas con el sector pesquero y acuícola.
 
-###### ARTICULO 76.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
-La aplicación de las sanciones de referencia, se hará al personal que incurra en desobediencia, negligencia, irresponsabilidad, maltrato a los alumnos o compañeros, indiscreción de los asuntos bajo su responsabilidad, uso indebido de los instrumentos de trabajo e impuntualidad en su horario, sin perjuicio de la responsabilidad penal y/o administrativa correspondientes.
+###### Artículo 30.
 
-## TITULO OCTAVO. DE LOS SERVICIOS ESPECIALES
+La Secretaría, de conformidad con lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Quintana Roo, deberá difundir la información señalada en el artículo anterior.
 
-### CAPITULO UNICO
+### CAPÍTULO XI. Del Registro Estatal de Pesca y Acuacultura
 
-###### ARTICULO 77.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
 
-La Biblioteca tendrá la organización que determine el Consejo Técnico Consultivo de la Academia. Al efecto, se realizarán las gestiones que se requieran ante quien corresponda, a fin de dotar a la misma del material bibliográfico suficiente, para que los alumnos puedan realizar los trabajos de investigación y estudio, que exijan los planes y programas en vigor. Igualmente, deberán emitirse por la Dirección de la Academia, los lineamientos u observaciones mínimas que deben cumplir los usuarios, a fin de conservar los libros y material ahí existente, así como la disciplina que debe imperar en dicho recinto.
+###### Artículo 31.
 
-###### ARTICULO 78.
+El Registro Estatal estará a cargo de la Secretaría, tendrá carácter público y tiene por objeto la inscripción, organización, difusión y actualización obligatoria de la siguiente información relativa a la actividad pesquera y acuícola:
 
-La organización de la cocina y el comedor se regirá por los lineamientos internos que dicte la Dirección de la Academia. Deberán tener el equipo e instalaciones elementales que se requieran, para su utilización óptima, oportuna y eficiente.
+I.- Las personas físicas o morales que se dediquen a la pesca y la acuacultura en el Estado, con excepción de las personas físicas que realicen actividades de pesca para consumo doméstico;
 
-###### ARTICULO 79.
+II.- Las personas físicas o morales que se dediquen a la acuacultura, con excepción de aquellas que lo hagan con especies de ornato y realicen la acuacultura de traspatio, con excepción de aquellas que realicen dichas actividades en sistema extensivo;
 
-El gimnasio del plantel deberá contar con los aparatos e instalaciones elementales e indispensables, para el desarrollo de la educación física integral de los alumnos. Deberá procurarse que cuente con la infraestructura necesaria, que les permita a éstos fortalecer el acondicionamiento físico que se requiere para complementar y fomentar su crecimiento intelectual, en un medio ambiente adecuado para su desarrollo y bienestar. Su equipamiento, organización y funcionamiento, serán responsabilidad de la Dirección de la Academia.
+III.- Los prestadores de servicios dedicados a la pesca deportivo-recreativa;
 
-T R A N S I T O R I O S:
+IV.- La información sobre permisos y concesiones que en términos de la Ley General se expidan;
 
-###### ARTICULO PRIMERO.
+V.- Las embarcaciones dedicadas a la actividad pesquera en el Estado;
 
-El presente Reglamento entrará en vigor al día siguiente de su expedición.
+VI.- Las unidades de producción acuícola, incluyendo parques, granjas y laboratorios en el Estado;
 
-###### ARTICULO SEGUNDO.
+VI (SIC).- Las personas físicas o morales que cuenten con certificados de sanidad, inocuidad o calidad;
 
-El presente Reglamento deroga los Reglamentos anteriores de la Academia.
+VII.- Las escuelas pesqueras y los centros dedicados a la investigación o enseñanza en materia de flora y fauna acuáticas aprovechables para la pesca y acuacultura; y,
 
-Dado en la residencia del Poder Ejecutivo del Estado, a los cinco días del mes de julio del año dos mil, en Ciudad Victoria, Tamaulipas.
+VIII.- Las personas físicas que realicen actividades de pesca deportiva a través de torneos organizados en el Estado.
 
-ATENTAMENTE
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
-SUFRAGIO EFECTIVO. NO REELECCIÓN
+###### Artículo 32.
 
-EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO: LIC. TOMAS YARRINGTON RUVALCABA: EL C. SECRETARIO GENERAL DE GOBIERNO.- LIC. HOMERO DIAZ RODRIGUEZ. Rúbricas.
+La Secretaría expedirá el certificado de registro correspondiente. Los Ayuntamiento contribuirán a la integración, actualización y funcionamiento del Registro, en la forma y términos que establezcan las disposiciones reglamentarias.
 
-###### ARTICULO 47.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2022)</small>
 
-El alumno que en forma injustificada incurra en inasistencias del diez por ciento de sus clases, entre dos períodos de evaluaciones, será dado de baja, y si se tratara de elemento activo, la Dirección de la Academia dará conocimiento del hecho al Jefe de la Corporación, para los efectos legales a que haya lugar.
+###### Artículo 33.
 
-### CAPITULO I. DE LOS REQUISITOS DE INGRESO
+La Secretaría en forma semestral, remitirá la información del Registro Estatal a la Secretaría de Agricultura y Desarrollo Rural del gobierno federal, para la actualización del Registro Nacional.
 
-###### ARTICULO 48.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
-Las evaluaciones mensuales, parciales, especiales y finales, serán calificadas con la escala decimal del cero al diez; la calificación mínima aprobatoria es seis, con excepción de los recursos de promoción, en que la calificación será de "acreditado' o "no acreditado".
+###### Artículo 34.
 
-###### ARTICULO 49.
+Las personas físicas o morales que se dediquen a las actividades reguladas por esta Ley, están obligados a registrarse ante la Secretaría, para la integración y actualización del Registro Estatal.
 
-Todos los trabajos de investigación y estudio que elaboren los alumnos durante el curso correspondiente, serán propiedad de la Academia y pasarán a formar parte de la Biblioteca del plantel.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
-### CAPITULO II. DE LAS OBLIGACIONES
+###### Artículo 35.
 
-###### ARTICULO 50.
+El Estado, a través de la Secretaría, integrará una Red de Información Acuícola, que concentrará la información de los diversos organismos y entidades respecto a esta actividad e incluirá, entre otros, la identificación de las especies y ubicación de áreas apropiadas para la acuacultura, los planes de ordenamiento, y en su caso, los estudios de factibilidad realizados, los resultados de los proyectos de investigación, así como las estadísticas de producción e información de precios, oferta y demanda de los productos acuícolas.
 
-Los alumnos que no acrediten tres materias en los exámenes mensuales o parciales, tendrán derecho a presentar nuevamente en fecha especial, pero si no acreditaran mas de tres materias, serán dados de baja de la Academia; si se tratare de elemento en activo, la Dirección de esta última, lo hará del conocimiento del Jefe de la Corporación respectiva.
+###### Artículo 36.
 
-###### ARTICULO 51.
+La organización y funcionamiento del Registro se determinarán en las disposiciones reglamentarias que deriven de esta Ley.
 
-Al finalizar el tiempo fijado para un examen escrito, el profesor o Instructor debe recogerlos tal corno se encuentre, procediendo a calificarlos.
+### CAPÍTULO XII. De las concesiones y permisos de Pesca y Acuacultura
 
-###### ARTICULO 52.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
-Las calificaciones que correspondan a los exámenes aplicados, deben entregarse a la Dirección en un plazo que no excederá de tres días.
+###### Artículo 37.
 
-###### ARTICULO 53.
+El Estado a través de la Secretaría podrá otorgar concesiones y permisos para la realización de actividades pesqueras y acuícolas previstas en la presente Ley, previo el cumplimiento de los requisitos establecidos en la misma y conforme a los panes, según corresponda.
 
-Durante los exámenes queda estrictamente prohibido a los alumnos comunicarse entre sí o cualquier otra persona que entre o esté fuera del aula de clases; cualquier infracción a esta disposición hará que el examen que (sic) se anule.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
-## TITULO QUINTO. DE LOS ALUMNOS
+###### Artículo 38.
 
-### CAPITULO III. DE LOS DERECHOS
+Se requiere permiso de la Secretaría para la realización de pesca en su modalidad deportivo- recreativa.
 
-###### ARTICULO 54.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
 
-Los aspirantes a ingresar a las corporaciones policiales preventivas de seguridad pública del Estado, deberán cumplir con el Curso de Formación Básica que se llevará a cabo en la Academia y reunir los siguientes requisitos:
+###### Artículo 39.
 
-I. Ser ciudadano mexicano por nacimiento, en pleno goce y ejercicio de sus derechos civiles y políticos;
+No se requerirá concesión o permiso de la Secretaría para realizar pesca de consumo doméstico, su resultado, no podrá comercializarse.
 
-II. Tener entre 19 y 30 años de edad, al momento de entregar su documentación;
+Sólo podrá efectuarse con redes y líneas manuales que pueda utilizar individualmente el pescador, observando y respetando las vedas y las Normas Oficiales que expida la autoridad federal en la materia.
 
-III. Estatura mínima de 1.70 metros;
+Las cantidades permitidas por pesquería o especie se especificarán en el Reglamento de la presente Ley, y en las Normas Oficiales Mexicanas que expida la autoridad federal competente.
 
-IV. Acreditar haber cumplido con el servicio militar nacional;
+###### Artículo 40.
 
-V. Acreditar estudios concluidos de bachillerato o equivalente;
+Son obligaciones del concesionario y el permisionario:
 
-VI. No consumir substancias psicotrópicas, estupefacientes, ni padecer alcoholismo;
+I. Portar la concesión o en su caso, el permiso y una identificación oficial durante la actividad;
 
-VII. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
+II. Cumplir con las especificaciones contenidas en la concesión o en su caso, el permiso; y
 
-VIII. No estar suspendido, ni haber sido destituido o inhabilitado como servidor público, o haber causado baja por cese en alguna institución relacionada con seguridad pública en el país;
+III. Las demás que se establezcan en esta Ley y en las demás disposiciones aplicables.
 
-IX. Gozar de buena salud física y mental;
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
-X. Aprobar los exámenes de selección; y
+###### Artículo 41.
 
-XI. Los demás que determine la convocatoria que en su oportunidad se expida.
+Las concesiones y los permisos que otorgue la Secretaría serán personales e intransferibles y no podrá constituirse sobre ellos ningún gravamen en el Reglamento de la presente Ley se regulará el procedimiento mediante el cual se entregue la concesión o el permiso y en su caso, la revocación de los mismos.
 
-###### ARTICULO 55.
+#### SECCIÓN I. De la pesca deportivo - recreativa
 
-Los elementos en activo de las corporaciones policiales preventivas de seguridad pública del Estado, que participen en los cursos de promoción, actualización y especialización que instrumente la Academia, en coordinación con cada dependencia y/o los municipios, serán seleccionados por la Institución a la que pertenecen y conservarán sus derechos corno empleados de las mismas, por el tiempo que dure el curso.
+###### Artículo 42.
 
-###### ARTICULO 56.
+El Gobierno del Estado con apoyo del Consejo fomentarán y promoverán la práctica y el desarrollo de la pesca deportivo-recreativa con la participación de los prestadores de servicios en esta modalidad de pesca y sectores interesados, para lo que llevará a cabo las siguientes acciones:
 
-Los alumnos tendrán las siguientes obligaciones:
+I. Promoverá la construcción de la infraestructura necesaria para esta actividad;
 
-I. Guardar en todos sus actos, dentro y fuera de la Academia, disciplina, lealtad y vocación;
+II. Apoyará las medidas de conservación y protección necesarias, en particular de las especies destinadas de manera exclusiva a la pesca deportivo-recreativa;
 
-II. Portar el uniforme completo dentro y fuera del plantel, con excepción de las franquicias;
+III. Promoverá y fomentará la realización torneos de pesca deportivo-recreativa;
 
-III. Desempeñar las comisiones y servicios que les sean ordenados por la superioridad;
+IV. Propiciará la celebración de convenios con organizaciones y prestadores de servicios, para que los pescadores deportivos protejan las especies; y
 
-IV. Asistir puntualmente a sus clases;
+V. Fomentará la práctica de capturar y liberar especies.
 
-V. Respetar los horarios que al efecto asigne la Dirección de la academia, para el desarrollo de las distintas actividades;
+###### Artículo 43.
 
-VI. Informar al Oficial de guardia de cualquier maltrato que reciban en menoscabo de su dignidad;
+La pesca deportivo-recreativa deberá realizarse en forma responsable para asegurar la conservación y gestión efectiva de los recursos acuáticos vivos, con el fin de evitar la explotación excesiva y prevenir efectos dañinos sobre el entorno y el sistema ecológico.
 
-VII. Mantener en estado de completa limpieza el área asignada a su servicio, ya sean dormitorios, sanitarios, baños, aulas, biblioteca, gimnasio y laboratorio;
+###### Artículo 44.
 
-VIII. Conocer el presente Reglamento y estudiar las leyes, reglamentos y disposiciones aplicables, a efecto de estar siempre en aptitud de ejercer sus derechos y de cumplir fielmente con las obligaciones que emanen de dichos ordenamientos;
+Los permisos de pesca deportivo-recreativa tendrán una vigencia desde un día hasta un año.
 
-IX. Honrar el uniforme queque (sic) porte, dentro y fuera del plantel, conduciéndose en forma tal que sus acciones no sean motivo de juicio desfavorable para él o para la Academia; dentro del plan (sic) siempre deberá portarse el uniforme, excepto cuando previamente sea autorizado utilizar otro vestuario;
+###### Artículo 45.
 
-X. Procurar completa higiene tanto en su persona, como en sus efectos personales, su cama, armamento asignado y su calzado, manteniéndolos siempre aseados y en buen estado;
+Quienes realicen pesca deportivo-recreativa no deberán comercializar los recursos pesqueros capturados al amparo del permiso correspondiente.
 
-XI. Conservar su pelo corto, sin barba;
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
-XII. Se prohíbe pronunciar palabras obscenas y dirigirse a sus compañeros o al personal en general, por apodos o sobrenombres, dentro y fuera del plantel; y
+###### Artículo 46.
 
-XIII. Las demás que les encomienden sus superiores.
+La Secretaría podrá promover y organizar torneo de pesca deportivo-recreativa. Las personas interesadas en participar en dichos torneos tendrán que tramitar el permiso correspondiente.
 
-###### ARTICULO 57.
+#### SECCIÓN II. De la Pesca Comercial
 
-Los alumnos tendrán derecho a:
+###### Artículo 47.
 
-I. Recibir uniforme, alimentación, alojamiento por el tiempo que se requiera, cuando estén en calidad de internos;
+El Gobierno del Estado, con apoyo del Consejo, realizará las acciones necesarias para fomentar y promover el desarrollo de la Pesca Comercial, con la participación de los pescadores del sector social y privado, realizando las siguientes acciones:
 
-II. Recibir servicio y atención, médica integral;
+I. La formulación y ejecución de programas de apoyo financiero para el desarrollo de la pesca comercial, que incluyan, la producción de especies comestibles estuarinas y marinas, la reconversión productiva y la transferencia tecnológica;
 
-III. Percibir una beca mientras dure el Curso Básico de Formación Policial, la que se determinará en base al presupuesto que fije el Sistema Nacional de Seguridad Pública y/o las autoridades competentes.
+II. Impulsar acciones para la formación de capital humano que se vincule con organizaciones de productores que participan en las cadenas productivas pesqueras;
 
-IV. Recibir la constancia con validez oficial correspondiente, al concluir los estudios realizados;
+III. Favorecer la creación de figuras organizativas para la promoción comercial de los productos pesqueros en los mercados nacional e internacional;
 
-V. Gozar de franquicia los alumnos del Curso Básico Formación Policial, los días sábados y domingos, siempre y cuando no interfieran con servicios autorizados o rol de guardia;
+IV. Establecer acciones conjuntas para el fortalecimiento de las redes de valor, en coordinación con los diversos comités sistema-producto pesqueros;
 
-VI. Recibir visitas los internos, en el lugar, días y horario que previamente autorice la Dirección; y,
+V. Impulsar el desarrollo de proyectos de investigación y desarrollo tecnológico que fortalezca al sector pesquero;
 
-VII. Les demás que les determine el Director y/o que señalen las disposiciones jurídicas y reglamentarias, aplicables.
+VI. Impulsar una administración y un marco legal eficiente para el desarrollo del sector en Quintana Roo;
 
-## TITULO SEXTO. DE LAS DISTINCIONES Y ESTIMULOS A LOS ALUMNOS Y AL PERSONAL DOCENTE
+VII. Fortalecer las capacidades productivas y financieras de la actividad pesquera del Estado;
 
-### CAPITULO UNICO
+VIII. Mejorar la comercialización de los productos pesqueros locales a través de esquemas que generen valor agregado y mayor presencia en los mercados externos;
 
-###### ARTICULO 58.
+IX. Promover la modernización tecnológica de la infraestructura del sector pesquero del Estado;
 
-Al ingresar a la academia, los alumnos ostentaran el grado de cadete Tercero, ascenderán a Cadete Segundo, aquellos que demuestren aptitud para comandar al personal de alumnos; aquel que allá manifestado tener dotes de mando, claro sentido del deber y excelencia académica, será ascendido a Cadete primero.
+X. Generar las condiciones para diversificar las actividades productivas en las comunidades asentadas en las zonas costeras y ribereñas del Estado;
 
-###### ARTICULO 59.
+XI. Promover el desarrollo de la pesca de altura, capacitando personal e investigando las existencias de recursos pesqueros;
 
-Se hará entrega de una mención especial, tomando en cuenta el aprovechamiento académico, a aquellos que hayan obtenido los cinco primeros lugares en su generación.
+XII. Optimización de la flota existente dentro de los programas de construcción, mantenimiento y mejoramiento de los barcos;
 
-###### ARTICULO 60.
+XIII. Promover la capacidad industrial instalada en el Estado con el propósito de establecer las condiciones que permitan aprovechar de manera integral la captura y su transformación en productos para cubrir la demanda de alimentos y de insumos industriales;
 
-El Director de la Academia concederá diploma al merito, al personal docente o administrativo que, a criterio del consejo Técnico Constitutivo del plantel, hubiese desempeñado su cargo o función con excelencia o efectué labores extraordinarias y/o relevantes en beneficio de la institución.
+XIV. Promover campañas en los medios impresos y de publicidad en los medios masivos de comunicación para la comercialización de productos pesqueros;
 
-## TITULO SÉPTIMO. DE LA DISCIPLINA Y SANCIONES
+XV. Reglamentar el adecuado manejo de los productos pesqueros que permita contar con normas de calidad tanto para los que se comercializan en estado fresco y refrigerado, como para los elaborados;
 
-### CAPITULO I. DE LA DISCIPLINA
+XVI. Promover la creación de un fideicomiso que atienda en forma particular las necesidades crediticias y financieras del sector; y
 
-###### ARTICULO 61.
+XVII. Vincular las actividades científicas con el proceso productivo y la explotación racional de los recursos pesqueros.
 
-La disciplina de la Academia se regirá con fundamento en lo previsto en este Reglamento y en las disposiciones legales conducentes, y con la finalidad de inculcar en el alumno y personal docente y administrativo, una conducta de respeto, digna y recta. Para ello, se darán a conocer las debidas indicaciones, que deberán observarse con buen modo y diligencia.
+### CAPÍTULO XIII. De la Propiedad y Legal Procedencia
 
-###### ARTICULO 62.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
-Los alumnos del Curso Básico de Formación Policial permanecerán en calidad de internos, pudiendo salir de los límites de la Academia, sólo cuando gocen de franquicia o permiso especial.
+###### Artículo 48.
 
-###### ARTICULO 63.
+A la Secretaría le corresponde coadyuvar con las autoridades federales en las disposiciones de acreditación de la legal propiedad de los productos pesqueros y acuícolas en la entidad, regulados conforme a la Ley General, según corresponda, en los términos y requisitos establecidos en los convenios respectivos.
 
-El alumno de la Academia que incurra en un ilícito y sea consignado y/o declarado por la instancia competente, como presunto responsable, será suspendido en sus derechos como cadete y será dado de baja, si se declara que es plenamente responsable.
+###### Artículo 49.
 
-###### ARTICULO 64.
+Toda persona está obligada a denunciar ante las autoridades competentes cualquier irregularidad o delitos identificados en las actividades pesqueras y acuícolas, para lo cual las autoridades en materia de pesca y acuacultura establecerán mecanismos para la recepción oportuna de las mismas.
 
-Todo alumno que infrinja lo establecido en el presente Reglamento se hará acreedor a una sanción disciplinaria, de conformidad a la magnitud de su falta o conducta.
+### CAPÍTULO XIV. Del Fomento a la Acuacultura
 
-###### ARTICULO 65.
+###### Artículo 50.
 
-Los alumnos deberán guardar el debido respeto a sus superiores, al personal docente y administrativo, y a las personas que se encuentren de visita.
+En materia de acuacultura, son objetivos de esta Ley:
 
-###### ARTICULO 66.
+I. Fomentar el desarrollo de la acuacultura como una actividad productiva que permita la diversificación pesquera, para ofrecer opciones de empleo en el medio rural;
 
-Se prohíbe a los alumnos introducir a las instalaciones o ingerir durante el internado, cigarros, cerveza, bebidas alcohólicas, drogas o substancias de las prohibidas por la ley; no se permitirá introducir aparatos eléctricos, ni revistas o material impreso distinto al proceso de formación académica.
+II. Promover la realización de estudios tendientes a la definición de sitios para su realización, su tecnificación y diversificación, orientándola para incrementar su eficiencia productiva reduciendo los impactos ambientales y buscando nuevas tecnologías que permitan ampliar el número de especies que se cultiven;
 
-###### ARTICULO 67.
+III. Fomentar el aprovechamiento de manera responsable, integral y sustentable de los recursos acuícolas, para asegurar su producción óptima y su disponibilidad; y
 
-Está prohibido a los alumnos tener en posesión, dentro de la Academia, arma de cualquier clasificación.
+IV. Difundir y fomentar la calidad y la diversidad de los recursos acuícolas.
 
-###### ARTICULO 68.
+###### Artículo 51.
 
-Se prohíbe a los alumnos asistir uniformados a lugares que atenten contra la moral pública, salvo que sean requeridos para la prestación de un servicio de vigilancia o policial.
+El Estado promoverá, con apego en lo dispuesto en la Ley General, el crecimiento ordenado de la acuacultura, atendiendo principalmente a las áreas o zonas con potencial para desarrollar esta actividad, mediante la expedición de permisos por especie o grupos de especies, conforme a lo previsto en los convenios de coordinación que suscriba con la Federación.
 
-### CAPITULO II. DE LAS SANCIONES
+###### Artículo 52.
+
+El Estado podrá convenir acciones que propicien el ordenamiento territorial de los desarrollos acuícolas ubicados en aguas continentales, en los términos de la Ley General.
+
+###### Artículo 53.
+
+El Estado podrá establecer un plan de manejo acuícola, como instrumentos de planeación, conforme a lo dispuesto en la Ley General, con el propósito de garantizar la productividad, la funcionalidad y sustentabilidad del medio natural.
+
+### CAPÍTULO XV. De la Sanidad, Calidad e Inocuidad
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
+###### Artículo 54.
+
+La Secretaría participará en coordinación con las autoridades federales en el desarrollo de las medidas necesarias para la protección y combate permanente de las enfermedades, buscando con ello, la conservación de la salud humana, induciendo el cumplimiento de las disposiciones legales y las medidas de seguridad y sanidad establecidas.
+
+###### Artículo 55.
+
+Para la coordinación y aplicación de las medidas sanitarias, se atenderá a la declaratoria emitida por la autoridad federal competente del estatus sanitario que corresponda, como zona libre, zona en vigilancia, zona de escasa prevalencia o zona infectada con relación a las especies acuáticas de la entidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
+
+###### Artículo 56.
+
+La Secretaría podrá participar en la medida de su competencia con propuestas en la integración de las normas oficiales con relación a los siguientes asuntos:
+
+I. Campañas sanitarias, entendidas como el conjunto de medidas para prevenir, controlar o erradicar enfermedades de las especies acuáticas vivas en un área o zona determinada;
+
+II. La cuarentena, siendo una medida basada en el aislamiento, observación y restricción de movilización de especies acuáticas vivas, por la sospecha o existencia de una enfermedad de las mismas, sujeta a control;
+
+III. El diagnóstico e identificación de enfermedades de las especies acuáticas;
+
+IV. La retención y disposición de especies acuáticas vivas, sus productos, subproductos y productos químicos farmacéuticos, biológicos y alimenticios, para uso o consumo de dichas especies, que puedan ocasionar enfermedades; y,
+
+V. Las que resulten eficaces para la atención de cada caso de enfermedad de las especies acuáticas.
+
+###### Artículo 57.
+
+Ante la presencia de enfermedades en las especies acuáticas vivas en un área o zona determinada, el Instituto deberá dar aviso de inmediato al Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria y sus órganos auxiliares en el Estado, para su atención, con independencia de las acciones de saneamiento que determine.
+
+### CAPÍTULO XVI. De la Inspección y Vigilancia
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
+###### Artículo 58.
+
+Para verificar y comprobar el cumplimiento de esta Ley, sus disposiciones reglamentarias, las normas oficiales que de ella deriven, la Secretaría conforme a su competencia realizará los actos de inspección y vigilancia, por conducto del personal debidamente autorizado.
+
+###### Artículo 59.
+
+En las labores de inspección y vigilancia del cumplimiento de esta Ley y de las disposiciones que de ella deriven, se podrán utilizar todos aquellos instrumentos que aporten los descubrimientos y avances científicos y tecnológicos, siempre que su utilización no se encuentre restringida o prohibida por la ley.
+
+Los elementos que arrojen los instrumentos a que se refiere este Artículo se considerarán como medios de prueba, y tendrán el valor probatorio que se determine en las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
+###### Artículo 60.
+
+Corresponderá a la Secretaría, la inspección y vigilancia del cumplimiento de la Ley General y demás disposiciones que de ella deriven, conforme a los acuerdos de coordinación que se establezcan con la autoridad federal competente en la materia.
+
+### CAPÍTULO XVII. De las Infracciones, Sanciones y Medios de Defensa
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
+
+###### Artículo 61.
+
+Las infracciones a los preceptos de esta Ley y sus reglamentos, se sancionarán administrativamente por la Secretaría conforme a su competencia y serán:
+
+I.- Amonestación con apercibimiento;
+
+II.- Multa de treinta a dos mil veces el Salario Mínimo Diario General vigente en el Estado; y,
+
+III.- Suspensión o revocación de los permisos y autorizaciones correspondientes.
+
+###### Artículo 62.
+
+Las sanciones administrativas a que se refiere el artículo anterior se aplicarán sin perjuicio, en su caso, de las penas que correspondan cuando los actos u omisiones constitutivos de infracciones sean también constitutivos de delito, en los términos de las disposiciones penales aplicables y sin perjuicio de la responsabilidad ambiental que pudiera resultar.
+
+Los criterios de la imposición de las sanciones y sus correspondientes infracciones a que se refiere el artículo anterior, será conforme lo establezca el reglamento de ésta Ley.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+
+###### Artículo 63.
+
+Los interesados afectados por los actos o resoluciones de la Secretaría podrán interponer el recurso dispuesto en la Ley de Procedimiento Administrativo del Estado de Quintana Roo.
+
+ARTÍCULOS TRANSITORIOS:
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Queda facultado el Ejecutivo del Estado para que en un término no mayor de noventa días hábiles contados a partir de la entrada en vigor de la presente Ley, expida las disposiciones reglamentarias correspondientes.
+
+TERCERO.- El Consejo Estatal de Pesca y Acuacultura del Estado de Quintana Roo deberá instalarse dentro de los sesenta días siguientes a partir de la entrada en vigor de la presente ley.
+
+CUARTO.- En tanto no sea decretada la creación del Instituto de Pesca y Acuacultura del Estado de Quintana Roo, todas las facultades que le son conferidas al Instituto en esta Ley, serán atraídas por la Unidad Administrativa responsable de la Pesca y la Acuacultura, de la Secretaría de Desarrollo Económico.
+
+QUINTO.- Los asuntos no previstos en la presente Ley serán resueltos en los términos del Reglamento de la misma; en tanto se expide, las dudas y controversias serán resueltas por la Secretaría de Desarrollo Económico.
+
+SEXTO.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+SALÓN DE SESIONES DEL HONORABLE PODER LEGISLATIVO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS DIECINUEVE DIAS DEL MES DE MARZO DE DOS MIL TRECE.
+
+DIPUTADO PRESIDENTE: M. A. RAMÓN LOY ENRIQUEZ
+
+DIPUTADA SECRETARIA: LIC. ALONDRA MARIBELL HERRERA PAVÓN
+
+CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 91 FRACCIÓN II Y 93 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUINTANA ROO Y 11 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO, MANDO SE PUBLIQUE EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO, EL DECRETO NÚMERO: 256 POR EL QUE SE EXPIDE LA LEY DE PESCA RESPONSABLE Y ACUACULTURA PARA EL ESTADO DE QUINTANA ROO. EXPEDIDO POR LA XIII LEGISLATURA DEL ESTADO A LOS DIECINUEVE DÍAS DEL MES DE MARZO DEL AÑO DOS MIL TRECE. DADO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS NUEVE DÍAS DEL MES DE ABRIL DEL AÑO DOS MIL TRECE.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUINTANA ROO.
+
+LIC. ROBERTO BORGE ANGULO.
+
+EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
+
+M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA.
+
+EL SECRETARIO DE DESARROLLO ECONOMICO DEL ESTADO DE QUINTANA ROO.
+
+ING. FRANCISCO JAVIER DÍAZ CARVAJAL.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 077 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PESCA RESPONSABLE Y ACUACULTURA PARA EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- La Secretaría de Desarrollo Agropecuario, Rural y Pesca cuenta con un plazo de treinta días hábiles contados a partir de la fecha de instalación, para la expedición del Reglamento Interior y de noventa días para los Manuales de Organización y Procedimientos.
+
+TERCERO.- Se establece un plazo de treinta días hábiles contados a partir de la fecha de publicación del presente Decreto, para que el Titular del Poder Ejecutivo determine la adecuación y armonización del marco jurídico de las dependencias implicadas, que con motivo del presente Decreto corresponda.
+
+CUARTO.- Los compromisos, programas y procedimientos administrativos y/o legales que, en materia de pesca y acuacultura, correspondían a la Secretaría de Desarrollo Económico a la entrada en vigor del presente Decreto, serán transferidos y asumidos por la Secretaría de Desarrollo Agropecuario, Rural y Pesca.
+
+QUINTO.- Los órganos administrativos, con sus recursos humanos, materiales y financieros, que, a la entrada en vigor del presente Decreto, se encuentren asignados a la Secretaría de Desarrollo Económico, serán transferidos a la Secretaría de Desarrollo Agropecuario, Rural y Pesca.
+
+SEXTO.- El personal de la Secretaría de Desarrollo Económico, que en aplicación de este Decreto pase a la Secretaría de Desarrollo Agropecuario, Rural y Pesca en ninguna forma resultarán afectados en los derechos y prestaciones laborales que hayan adquirido con motivo de su relación laboral con la Administración Pública Estatal.
+
+SÉPTIMO.- El Gobierno del Estado deberá hacer las previsiones presupuestales necesarias para la operación el cumplimiento del presente Decreto, para ello la Secretaría de Finanzas y Planeación deberá realizar los ajustes necesarios tendientes a que el presupuesto otorgado a la Secretaría de Desarrollo Económico para el ejercicio fiscal 2017, sea transferido a la Secretaría de Desarrollo Agropecuario, Rural y Pesca, y las previsiones presupuestales en el proyecto de presupuesto de egresos correspondiente al próximo ejercicio fiscal, así como prever lo correspondiente para los ejercicios presupuestales subsecuentes.
+
+OCTAVO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 20 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 220 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PESCA RESPONSABLE Y ACUACULTURA PARA EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 1 de enero de 2023, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. A partir del ejercicio fiscal 2023, el Ejecutivo del Estado de Quintana Roo, incluirá en el Proyecto del Presupuesto de Egresos del Gobierno del Estado de Quintana Roo los recursos necesarios para la ejecución de los programas estratégicos que garanticen a las y los pescadores, un apoyo financiero para su sustento, durante los periodos de veda.
+
+TERCERO. Se derogan las disposiciones legales que contravengan lo establecido en el presente Decreto.
