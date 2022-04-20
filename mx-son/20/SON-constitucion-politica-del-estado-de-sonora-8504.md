@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2021-11-04"
+last_updated: "2022-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2022.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -129,6 +129,10 @@ Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienest
 
 Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible.
 
+> <small>(ADICIONADO, B.O. 20 DE ABRIL DE 2022)</small>
+
+Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
+
 > <small>(REFORMADO, B.O. 29 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 2.
@@ -157,7 +161,9 @@ IV.- La inobservancia a las disposiciones en materia de acceso a la información
 
 V.- El Instituto Sonorense de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, es un organismo público autónomo, especializado, imparcial, colegiado e independiente en sus decisiones y funcionamiento, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, que será responsable de garantizar el ejercicio de los derechos de acceso a la información pública y la protección de datos personales en posesión de los sujetos obligados en los términos de la legislación vigente.
 
-En su funcionamiento el organismo garante se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2022)</small>
+
+En su funcionamiento el organismo garante se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad y contará con un Órgano Interno de Control, cuyo titular será designado conforme a lo dispuesto en la fracción XV del artículo 64 de esta Constitución.
 
 El organismo garante tiene competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales en el ámbito de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, incluidas sociedades, organizaciones e instituciones de derecho privado con participación estatal y municipal, así como cualquier persona física, moral o sindicato que reciba, administre y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, sin perjuicio de las demás atribuciones que fijen las leyes. También conocerá de los recursos que interpongan los particulares respecto de los actos de autoridad que determinen la reserva, confidencialidad, inexistencia o negativa de la información, en los términos que establezcan las leyes en la materia.
 
@@ -459,7 +465,9 @@ La elección a gobernador del Estado, de los diputados al Congreso del Estado y 
 
 La organización de las elecciones es una función estatal que se realiza a través de un organismo público autónomo denominado Instituto Estatal Electoral y de Participación Ciudadana, dotado de personalidad jurídica y patrimonio propios, integrado por ciudadanos y partidos políticos. En el ejercicio de esa función estatal, por parte de las autoridades electorales, la certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad serán principios rectores.
 
-El Instituto Estatal Electoral y de Participación Ciudadana será autoridad en la materia, independiente en sus decisiones y funcionamiento y profesional en su desempeño. El Consejo General será su máximo órgano de dirección y se integrará por un consejero Presidente y seis consejeros electorales con derecho a voz y voto, designados por el Instituto Nacional Electoral, en los términos que señala (sic) Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2022)</small>
+
+El Instituto Estatal Electoral y de Participación Ciudadana será autoridad en la materia, independiente en sus decisiones y funcionamiento y profesional en su desempeño. El Consejo General será su máximo órgano de dirección y se integrará por un consejero Presidente y seis consejeros electorales con derecho a voz y voto, designados por el Instituto Nacional Electoral, en los términos que señala la Constitución Política de los Estados Unidos Mexicanos. De igual manera, el Instituto Estatal Electoral contará con un Órgano Interno de Control, cuyo titular será designado conforme a lo dispuesto en la fracción XV del artículo 64 de esta Constitución.
 
 Los siete consejeros electorales durarán en su encargo un período de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, en los términos dispuestos en las leyes aplicables.
 
@@ -517,7 +525,9 @@ La ley establecerá un sistema de nulidades y medios de impugnación de los que 
 
 El Tribunal Estatal Electoral tendrá plena autonomía operativa y de decisión, así como personalidad jurídica y patrimonio propios. Será la máxima autoridad jurisdiccional en materia electoral y de procesos de participación ciudadana, funcionará de manera permanente y tendrá a su cargo la sustanciación y resolución, en única instancia, de los medios de impugnación que establezcan las leyes aplicables, así como la resolución de los procedimientos sancionadores ordinarios y juicios orales sancionadores en materia electoral en los términos que establezca la ley.
 
-El Tribunal se integrará por tres magistrados propietarios los cuales serán designados por la Cámara de Senadores, en términos de la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables.
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2022)</small>
+
+El Tribunal se integrará por tres magistrados propietarios los cuales serán designados por la Cámara de Senadores, en términos de la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables. De igual manera, el Tribunal contará con un Órgano Interno de Control, cuyo titular será designado conforme a lo dispuesto en la fracción XV del artículo 64 de esta Constitución.
 
 La organización y competencia del Tribunal Estatal Electoral será fijada por la ley.
 
@@ -1033,7 +1043,13 @@ XIII Bis. Para conocer, substanciar y resolver los procedimientos relativos a la
 
 XIV. Para trasladar, provisionalmente, fuera de la ciudad de Hermosillo, la residencia de los Poderes del Estado.
 
-XV. (DEROGADA, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADA, B.O. 15 DE MARZO DE 2004)
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 20 DE ABRIL DE 2022)</small>
+
+XV. Llevar a cabo el procedimiento de designación, mediante voto de la mitad más uno de los diputados presentes, de los Titulares de los Órganos Internos de Control de los Organismos Autónomos reconocidos en esta Constitución, los cuáles durarán en su encargo por un periodo de cuatro años a partir de la toma de protesta respectiva y podrán ser ratificados por una sola ocasión. Si al concluir el primer período, el Congreso del Estado no ha realizado un nuevo nombramiento, se entenderá ratificado de manera tácita.
+
+El Congreso del Estado emitirá una convocatoria pública para la designación de dichos cargos, con base en los principios de legalidad, eficiencia, objetividad, calidad, imparcialidad y equidad. La convocatoria no será necesaria en caso de ratificación.
+
+El Pleno del Congreso del Estado, por el voto de la mitad más uno de los legisladores presentes, resolverá de las renuncias, de las solicitudes de licencia y de las remociones de los Titulares de los Órganos Internos de Control a que se refiere esta fracción.
 
 XVI. Para resolver sobre la renuncia de sus propios miembros y la del Gobernador, y para conceder licencias a unos y otro.
 
@@ -1097,13 +1113,13 @@ La aprobación y ejecución de nuevas Obligaciones Financieras derivadas de la l
 
 Toda propuesta de aumento o creación de gasto del presupuesto de Egresos deberá acompañarse con la correspondiente fuente de ingresos distinta al financiamiento o compensarse con reducciones en previsiones de gasto.
 
-> <small>(REFORMADA, B.O. 13 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2022)</small>
 
-Los Organismos Autónomos reconocidos en la presente Constitución, salvo el caso (sic) Instituto Estatal Electoral y de Participación Ciudadana que deberá sujetarse a las previsiones contenidas en el artículo 22 de esta Constitución, no podrán recibir una cantidad menor a la establecida en el último Presupuesto de Egresos publicado en el Boletín Oficial del Gobierno del Estado de Sonora.
+Los organismos autónomos reconocidos en la presente constitución deberán establecer en su normatividad interna los principios de austeridad, eficiencia, eficacia, economía honradez, además deberán crear y transparentar los indicadores de resultados del ejercicio de sus atribuciones, debiendo proporcionar al Congreso, cualquier información que éste les requiera respecto al manejo de sus respectivos presupuestos.
 
-> <small>(REFORMADA, B.O. 13 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2022)</small>
 
-En caso de que el Congreso no apruebe en tiempo la Ley de Ingresos y Presupuesto de Ingresos o el Presupuesto de Egresos, continuarán en vigor la última Ley de Ingresos y Presupuesto de Ingresos y el último Presupuesto de Egresos que hayan sido publicados en el Boletín Oficial del Gobierno del Estado de Sonora, excepto el Instituto Estatal Electoral y de Participación Ciudadana cuyo presupuesto se regirá por las disposiciones legales aplicables.
+En caso de que el Congreso no apruebe en tiempo la Ley de Ingresos y Presupuesto de Ingresos o el Presupuesto de Egresos, continuarán en vigor la última Ley de Ingresos y Presupuesto de Ingresos y el último Presupuesto de Egresos que hayan sido publicados en el Boletín Oficial del Gobierno del Estado de Sonora, excepto los recursos públicos que deban destinarse exclusivamente al financiamiento público de los partidos políticos, lo cual se regirá por las disposiciones legales aplicables.
 
 XXIII. (DEROGADA, B.O. 4 DE NOVIEMBRE DE 2021)
 
@@ -1335,25 +1351,21 @@ H) Ejercer las atribuciones referidas a los apartados D, F y G con respecto a lo
 
 El Auditor Mayor del Instituto Superior de Auditoría y Fiscalización será designado por las dos terceras partes de los diputados presentes en la sesión correspondiente, y los Auditores Adjuntos por más de la mitad de los diputados presentes en la sesión correspondiente, a propuesta del Auditor Mayor.
 
-> <small>(REFORMADO, B.O. 13 DE ENERO DE 2017)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, B.O. 20 DE ABRIL DE 2022)</small>
 
-El Comité Ciudadano de Evaluación del Desempeño Legislativo integrará una propuesta de al menos cinco candidatos al cargo de Auditor Mayor y la remitirá al Titular del Poder Ejecutivo del Estado, quien integrará una terna que enviará al Congreso del Estado para su designación.
+> <small>(DEROGADO QUINTO PÁRRAFO, B.O. 20 DE ABRIL DE 2022)</small>
 
-> <small>(REFORMADO, B.O. 13 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2022)</small>
 
-Si el Titular del Poder Ejecutivo no recibe la lista en el plazo de treinta días a partir de la ausencia definitiva del Auditor Mayor, enviará libremente al Congreso del Estado una terna y designará provisionalmente al Auditor Mayor quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Auditor Mayor designado podrá formar parte de la terna.
-
-> <small>(REFORMADO, B.O. 4 DE NOVIEMBRE DE 2021)</small>
-
-El Auditor Mayor y los auditores adjuntos durarán en su encargo siete años.
+El Auditor Mayor y los auditores adjuntos durarán en su encargo siete años y podrán ser nombrados, nuevamente, por una sola vez. El Congreso emitirá la convocatoria respectiva sesenta días naturales antes de la conclusión del término por el cual fue designado. Dichos funcionarios solo podrán ser removidos por el Congreso por las causas graves que al efecto se determinen en la ley y por la misma mayoría que cada uno requiere para su nombramiento. En caso de ausencia definitiva del Auditor Mayor, el Congreso del Estado, en un plazo de 120 días, deberá emitir la convocatoria respectiva.
 
 > <small>(REFORMADO, B.O. 13 DE ENERO DE 2017)</small>
 
 La ley definirá formas alternativas de designación del Auditor Mayor y de los auditores adjuntos del Instituto Superior de Auditoria y Fiscalización para la hipótesis de que, en un plazo breve, no se reúna la votación cameral requerida para dicho nombramiento. La falta de votos para el nombramiento referido nunca podrá ocasionar la permanencia en el encargo de quien haya ejercido la función en el periodo que concluye.
 
-> <small>(REFORMADO, B.O. 4 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2022)</small>
 
-El Instituto Superior de Auditoría y Fiscalización contará con un Órgano de Control Interno cuyo titular será designado por las dos terceras partes de los diputados presentes en la sesión del pleno del Congreso del Estado correspondiente, a propuesta de la Comisión de Régimen Interno y Concertación Política, por un término de 4 años.
+El Instituto Superior de Auditoría y Fiscalización contará con un Órgano Interno de Control cuyo titular será designado conforme a lo dispuesto en la fracción XV del artículo 64 de esta Constitución.
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL B.O. DE 27 DE NOVIEMBRE DE 2017, PÁGINA 8.]</small>
 
@@ -1361,13 +1373,9 @@ El Instituto Superior de Auditoría y Fiscalización contará con un Órgano de 
 
 El Instituto Superior de Auditor (sic) y Fiscalización asignará a su Órgano de Control Interno el 3% de su presupuesto anual para la operación y funcionamiento de su estructura, entre ellas las áreas de auditoría interna, investigación y substanciación, cuyos titulares serán designados por el Titular del Órgano de Control.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL B.O. DE 27 DE NOVIEMBRE DE 2017, PÁGINA 8.]</small>
+> <small>(DEROGADO NOVENO PÁRRAFO, B.O. 20 DE ABRIL DE 2022)</small>
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 27 DE NOVIEMBRE DE 2017)</small>
-
-El Titular del Órgano de Control del Instituto Superior de Auditoría y Fiscalización presentará a la Comisión de Fiscalización, en la primera quincena del mes de septiembre de cada año, un informe que contenga los resultados del ejercicio de su encargo.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, B.O. 13 DE ENERO DE 2017)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 13 DE ENERO DE 2017)</small>
 
 #### SECCION II.. Del Tribunal de Justicia Administrativa
 
@@ -1379,19 +1387,51 @@ El Tribunal de Justicia Administrativa funcionará mediante una Sala Superior, l
 
 Artículo 67 TER. (DEROGADO, B.O. 4 DE NOVIEMBRE DE 2021)
 
-#### SECCION I.
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 20 DE ABRIL DE 2022)</small>
 
-Elección y Funcionamiento.
+#### SECCIÓN III. DE LOS ÓRGANOS INTERNOS DE CONTROL DE LOS ORGANISMOS AUTÓNOMOS
+
+> <small>(ADICIONADO, B.O. 20 DE ABRIL DE 2022)</small>
+
+Artículo 67 QUATER. Los Órganos Internos de Control son responsables del control y evaluación del desarrollo administrativo y financiero de los Organismos Constitucionalmente Autónomos, así como del cumplimiento de las obligaciones de los servidores públicos de dichos organismos, los cuales estarán a cargo, respectivamente, de un titular denominado Contralor Interno, que será designado en términos de la fracción XV del artículo 64 de esta Constitución y deberán contar con la asignación presupuestal suficiente para la operación y funcionamiento de su estructura, incluyendo las áreas de auditoría interna, investigación y sustanciación, cuyos titulares, al igual que su personal serán designados por el Contralor Interno.
+
+Los Órganos Internos de Control tendrán, de manera respectiva, al menos, las siguientes atribuciones:
+
+I.- Proponer y aplicar las normas y criterios en materia de control y evaluación que debe observar el Organismo Autónomo;
+
+II.- Establecer y operar un sistema de quejas, denuncias o sugerencias relacionadas con las funciones del Organismo Autónomo y darles el seguimiento oportuno;
+
+III.- Instaurar procedimientos administrativos a los servidores públicos del Organismo Autónomo que infrinjan la ley, dictando las sanciones administrativas que correspondan en términos de la ley de responsabilidades vigente;
+
+IV.- Promover ante el Tribunal de Justicia Administrativa las sanciones que correspondan por faltas graves cometidas por los servidores públicos del Organismo Autónomo;
+
+V.- Practicar, por sí o a través de auditores externos, auditorías para verificar el desempeño y cumplimiento de metas e indicadores del Organismo Autónomo, así como la debida aplicación de los recursos a su cargo;
+
+VI.- Requerir a los servidores públicos del Organismo Autónomo la documentación e información que resulte necesaria para el cumplimiento de sus funciones y atribuciones. La omisión de dichos servidores públicos en entregar la información o documentación que les sean requeridas, o entregarla de manera extemporánea, será causal de responsabilidad en términos de la ley de responsabilidades vigente;
+
+VII.- Presentar denuncias y querellas ante la autoridad competente, en contra de quien resulte responsable por la probable comisión de delitos imputables a los servidores públicos del Organismo Autónomo;
+
+VIII.- Llevar el registro y resguardo de las declaraciones patrimoniales y de intereses de los servidores públicos del Organismo Autónomo;
+
+IX.- Administrar su presupuesto de manera autónoma;
+
+X.- Presentar ante el Congreso del Estado, solicitud para remover al Titular en caso de incurrir en las causas graves que se establecen en las leyes correspondientes;
+
+XI.- Participar en los actos de entrega recepción de los servidores públicos del Organismo Autónomo;
+
+XII.- Implementar políticas eficaces de ética pública, política de integridad y conducta institucional para los servidores públicos del Organismo Autónomo;
+
+XIII.- Presentar a la Comisión de Fiscalización del Congreso del Estado, en la primera quincena del mes de septiembre de cada año, un informe que contenga los resultados del ejercicio de su encargo y asistir cuando así se le requiera.
+
+XIV.- Las demás que establezca esta Constitución y otras leyes.
 
 ### CAPITULO III.
 
 Poder Ejecutivo.
 
-#### SECCION II.
+#### SECCION I.
 
-Hacienda del Estado.
-
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+Elección y Funcionamiento.
 
 ###### Artículo 68.
 
@@ -1721,11 +1761,11 @@ Todas las leyes, decretos, reglamentos, circulares, acuerdos y órdenes que susc
 
 Articulo 82 A. (DEROGADO, B.O. 18 DE JUNIO DE 1977)
 
-#### SECCION III.
+#### SECCION II.
 
-Instrucción Pública.
+Hacienda del Estado.
 
-> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 83.
 
@@ -1757,11 +1797,11 @@ Sólo los empleados de Hacienda manejarán caudales del Estado.
 
 Los funcionarios y empleados de Hacienda, que tengan manejo de caudales públicos, serán responsables directos de su uso, de acuerdo con la Ley respectiva.
 
-#### SECCION IV.
+#### SECCION III.
 
-Ministerio Público.
+Instrucción Pública.
 
-> <small>(REFORMADO, B.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 89.
 
@@ -1803,11 +1843,11 @@ Artículo 94 A. La enseñanza normal será protegida preferentemente por el Gobi
 
 Es obligación del Gobierno del Estado fomentar y difundir la Enseñanza Universitaria.
 
-#### SECCION V.
+#### SECCION IV.
 
-Defensoría de Oficio.
+Ministerio Público.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 23 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 95.
 
@@ -1873,41 +1913,31 @@ Los fiscales especializados en materia de delitos electorales y anticorrupción,
 
 El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la ley y su respectiva reglamentación. La aplicación de los criterios de oportunidad deberá ser autorizada por el Fiscal General o por el servidor público en quien se delegue esta facultad.
 
-> <small>(REFORMADO, B.O. 4 DE NOVIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, B.O. 20 DE ABRIL DE 2022)</small>
+
+La Fiscalía General del Estado contará con un Órgano Interno de Control cuyo titular será designado conforme a lo dispuesto en la fracción XV del artículo 64 de esta Constitución.
+
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2022)</small>
 
 ###### Artículo 98.
 
-El Fiscal General durará en su encargo nueve años. Los Fiscales Especializados durarán en su encargo cuatro años con posibilidad de ser ratificados por las dos terceras partes de los presentes en la sesión correspondiente del Congreso del Estado por un período más.
+El Fiscal General durará en su encargo seis años y los Fiscales Especializados durarán en su encargo cuatro años. Tendrán la posibilidad de ser ratificados por las dos terceras partes de los Diputados presentes en la sesión correspondiente del Congreso del Estado por un periodo más.
 
-El Fiscal y Fiscales Especializados serán designados y removidos conforme a lo siguiente:
+El Fiscal y los Fiscales Especializados serán designados por el Congreso del Estado mediante el voto de las dos terceras partes de los Diputados presentes en la sesión correspondiente, a propuesta del titular del Poder Ejecutivo.
 
-I.- A partir de la ausencia definitiva, el Congreso del Estado contará con veinte días para integrar una lista de al menos cinco candidatos al cargo, aprobada por las dos terceras partes de los miembros presentes, la cual enviará al Comité Ciudadano de Seguridad Pública del Estado.
+A partir de la ausencia definitiva del Fiscal General o alguno de los Fiscales Especializados, el Titular del Ejecutivo contará con diez días naturales para presentar al Congreso la nueva propuesta.
 
-El Comité Ciudadano de Seguridad Pública del Estado, una vez recibida la lista referida en el párrafo anterior, contará con diez días para validar la lista de candidatos o en su caso, remitir sus observaciones al Congreso del Estado para que éste proceda a formular una nueva propuesta dentro del mismo plazo referido en el párrafo anterior, respecto de los candidatos que no hayan sido validados.
+El Congreso deberá realizar la designación correspondiente en un plazo improrrogable de treinta días naturales, a partir de que reciba la propuesta del Gobernador. Si finaliza dicho plazo sin que el Congreso haya realizado la designación, se entenderá la aprobación tácita del nombramiento.
 
-Una vez que el Comité Ciudadano de Seguridad Pública del Estado valide la lista propuesta por el Congreso del Estado, la remitirá al titular del Poder Ejecutivo.
+Ante el rechazo de la propuesta enviada por el Titular del Ejecutivo, éste enviará una nueva, la cual requerirá para su aprobación una votación de la mitad más uno de los legisladores presentes.
 
-Si el Ejecutivo no recibe la lista en el plazo de treinta días a partir de la ausencia definitiva, enviará libremente al Congreso del Estado una terna y designará provisionalmente a quien habrá de ejercer las funciones correspondientes, hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el ciudadano designado podrá formar parte de la terna.
+El Fiscal General presentará, en lo individual y de forma anual, a los Poderes Legislativo y Ejecutivo del Estado, un informe de actividades. Además, deberá comparecer ante el Congreso cuando se le cite a rendir cuentas o a informar sobre su gestión.
 
-II.- Una vez que el Ejecutivo reciba la lista validada por el Comité Ciudadano de Seguridad Pública del Estado, a que se refiere la fracción anterior, dentro de los diez días siguientes el Ejecutivo formulará una terna y la enviará a la consideración del Congreso del Estado.
+La ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía General y de las Fiscalías Especializadas, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
-III.- El Congreso del Estado, con base en la terna y previa comparecencia de las personas propuestas, designará por el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.
+El Fiscal General, así como sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
 
-En caso de que el Ejecutivo no envíe la terna a que se refiere la fracción anterior, el Congreso del Estado tendrá diez días para designar de entre los candidatos validados por el Comité Ciudadano de Seguridad Pública del Estado de la lista que señala la fracción I.
-
-Si el Congreso del Estado no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará de entre los candidatos que integren la lista o, en su caso, la terna respectiva.
-
-IV.- El Fiscal General de Justicia del Estado y los Fiscales Especializados podrán ser removidos por el Ejecutivo Estatal por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría simple de los miembros presentes del Congreso del Estado dentro de un plazo de diez días hábiles, en cuyo caso será restituido en el ejercicio de sus funciones. Si el Congreso del Estado no se pronuncia al respecto, se entenderá que no existe objeción.
-
-V.- En los recesos del Congreso del Estado, la Diputación Permanente lo convocará de inmediato a sesiones extraordinarias para la designación o formulación de objeción a la remoción según sea el caso.
-
-VI.- Las ausencias del Fiscal General de Justicia del Estado y de los Fiscales Especializados serán suplidas en los términos que determiné la ley.
-
-La ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
-
-El Fiscal General de Justicia del Estado presentará anualmente a los Poderes Legislativo y Ejecutivo del Estado un informe de actividades. Comparecerá ante el Congreso del Estado cuando se le cite a rendir cuentas o a informar sobre su gestión.
-
-El Fiscal General de Justicia del Estado y sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
+El Fiscal General y los Fiscales Especializados podrán ser removidos por el voto de las dos terceras partes de los Diputados presentes en la sesión correspondiente por las causas graves que establezca la ley.
 
 > <small>(REFORMADO, B.O. 28 DE NOVIEMBRE DE 2016)</small>
 
@@ -1961,9 +1991,11 @@ III. Ser licenciado en derecho con título legalmente expedido.
 
 Artículo 105 A. En el ejercicio de sus funciones, el personal de la Fiscalía General de Justicia del Estado y de las fiscalías especializadas observará las obligaciones inherentes a su calidad de servidores públicos, de acuerdo a sus obligaciones específicas, y actuará con la diligencia necesaria para una pronta y eficaz procuración e impartición de justicia.
 
-#### SECCIÓN VI. Transporte Público Sustentable
+#### SECCION V.
 
-> <small>(ADICIONADO, B.O. 20 DE FEBRERO DE 2014)</small>
+Defensoría de Oficio.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 106.
 
@@ -1995,11 +2027,13 @@ El Jefe de Defensores rendirá la protesta de Ley ante el Ejecutivo y será subs
 
 Para ser Defensor de Oficio se necesitan los mismos requisitos que para ser Agente del Ministerio Público.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 20 DE FEBRERO DE 2014)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 20 DE ABRIL DE 2022)</small>
+
+#### SECCIÓN VI. Transporte Público Sustentable
 
 ###### Artículo 111 Bis.
 
-Para efectos de garantizar la sustentabilidad en el servicio de transporte público, entendida en las dimensiones técnicas, sociales, económicas y ambientales, el Estado contará con el Consejo Ciudadano del Transporte Público Sustentable, como un órgano autónomo, dotado de personalidad jurídica y patrimonio propios, integrado por Consejeros Técnicos Ciudadanos que serán nombrados, removidos y reemplazados, en los términos que ordene la Ley respectiva y tendrá, entre otras atribuciones, la de establecer las tarifas de transporte público, en relación con las normas generales de calidad a la que habrá de apegarse la prestación del servicio público de transporte, así como el seguimiento a los ordenamientos en materia de transparencia.
+(DEROGADO, B.O. 20 DE ABRIL DE 2022)
 
 > <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
@@ -2033,13 +2067,13 @@ Los magistrados y los jueces percibirán una remuneración adecuada e irrenuncia
 
 El Supremo Tribunal de Justicia se compondrá de siete Magistrados Propietarios y siete Suplentes y funcionará en Pleno, en Salas o en Comisiones.
 
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2022)</small>
 
-Los Magistrados del Supremo Tribunal de Justicia designados podrán ser reelectos y, si lo fueren, sólo podrán ser privados del cargo en los términos del Título Sexto de esta Constitución.
+Los Magistrados del Supremo Tribunal de Justicia durarán en su encargo seis años y serán sustituidos de manera escalonada, salvo que se actualice el supuesto previsto en el párrafo que antecede. Si por cualquier motivo no se hace nombramiento o los designados no se presentan al desempeño de su cargo, continuaran en funciones los individuos que formen el Supremo Tribunal de Justicia, hasta que tomen posesión los nuevamente nombrados. Los Magistrados nombrados para concluir el período de otro, por falta definitiva o absoluta de éste, desempeñarán sus funciones hasta la conclusión del período de aquél.
 
-> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2022)</small>
 
-Los Magistrados del Supremo Tribunal de Justicia durarán en su encargo nueve años y serán sustituidos de manera escalonada, salvo que se actualice el supuesto previsto en el párrafo que antecede. Si por cualquier motivo no se hace nombramiento o los designados no se presentan al desempeño de su cargo, continuarán en funciones los individuos que formen el Supremo Tribunal de Justicia, hasta que tomen posesión los nuevamente nombrados. Los Magistrados nombrados para concluir el período de otro, por falta definitiva o absoluta de éste, desempeñarán sus funciones hasta la conclusión del período de aquél.
+Los Magistrados del Supremo Tribunal de Justicia designados podrán ser reelectos y, si lo fueren, solo podrán ser privados del cargo en los términos del Título Sexto de esta Constitución.
 
 > <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
 
@@ -2213,7 +2247,9 @@ III. Coadyuvar al establecimiento de las garantías necesarias para asegurar que
 
 La Comisión se integrará por un Presidente, una Secretaría Ejecutiva, Visitadores Generales, así como Visitadores Adjuntos y el personal profesional, técnico y administrativo necesario para la realización de sus funciones.
 
-La Comisión, para el mejor desempeño de sus responsabilidades, contará con un Consejo Consultivo, el cual será electo en los términos de la Ley reglamentaria que para sus alcances y efectos legales el Congreso apruebe.
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2022)</small>
+
+La Comisión, para el mejor desempeño de sus responsabilidades, contará con un Consejo Consultivo, el cual será electo en los términos de la Ley reglamentaria que para sus alcances y efectos legales el Congreso apruebe. De igual manera, contará con un Órgano Interno de Control, cuyo titular será designado conforme a lo dispuesto en la fracción XV del artículo 64 de esta Constitución.
 
 El Congreso del Estado, aprobará una Ley complementaria en materia de Derechos Humanos, que regule el funcionamiento y actuación de la Comisión Estatal de Derechos Humanos para el Estado de Sonora.
 
@@ -2741,6 +2777,10 @@ Los recursos económicos de que disponga el Gobierno del Estado, los municipios,
 
 Los resultados del ejercicio de dichos recursos serán evaluados por el Instituto Superior de Auditoría y Fiscalización, con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos del párrafo anterior. Lo anterior, sin menoscabo de lo dispuesto en el artículo 67 de esta Constitución.
 
+> <small>(ADICIONADO, B.O. 20 DE ABRIL DE 2022)</small>
+
+Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
 > <small>(REFORMADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
 Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimiento, reglas, requisitos y demás elementos para acreditar la economía, eficacia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
@@ -2781,9 +2821,23 @@ Ningún individuo debe desempeñar dos cargos de elección popular; pero el elec
 
 Jamás podrán reunirse en una persona dos encargos por los que se disfrute sueldo o remuneración; excepto en los ramos de Instrucción y Beneficencia Públicas, ya se consideren sólos o unidos a otro ramo.
 
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2022)</small>
+
 ###### Artículo 153.
 
-Todo funcionario y empleado público recibirá una compensación por sus servicios, que será determinada por la Ley. Esta compensación no es renunciable.
+Todo servidor público recibirá una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
+
+Dicha remuneración será determinada anual y equitativamente en el Presupuesto de Egresos del Estado, bajo las siguientes bases:
+
+I.- Se considera remuneración toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+
+II.- Ningún servidor público estatal o municipal podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Presidente de la República en el presupuesto correspondiente.
+
+III.- Ningún servidor público estatal o municipal podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República en el presupuesto correspondiente.
+
+IV.- No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
+
+V.- Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
 ###### Artículo 154.
 
@@ -4220,3 +4274,53 @@ B.O. 4 DE NOVIEMBRE DE 2021.
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
 
 Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y en su caso de resultar aprobada la presente Ley por las dos terceras partes de los ayuntamientos de los Municipios del Estado, la remitan al titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 20 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 83, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado (sic) Sonora, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado del Estado (sic) de Sonora.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y en caso de resultar aprobado la presente Ley por cuando menos la mayoría del número total de los Ayuntamientos de los Municipios del Estado, la remitan al titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica del Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado de Sonora de 23 de diciembre de 2013 y las disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Todas las atribuciones que se confieran en cualquier disposición constitucional y legal al Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora serán ejercidas por la unidad administrativa competente de la Secretaría de Infraestructura y Desarrollo Urbano a que se refiere la Ley de Transporte para el Estado de Sonora.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos humanos, materiales y financieros que actualmente se encuentran asignados al Consejo Ciudadano del Transporte Público Sustentable del Estado de Sonora se transfieren a la unidad administrativa referida en el artículo tercero transitorio de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+El Congreso del Estado, por conducto de la Comisión de Régimen Interno y Concertación Política, contará con un plazo máximo de 120 días naturales, contados a partir de la entrada en vigor de la presente Ley, para publicar en los medios de comunicación impresos de mayor circulación en el Estado y en el Boletín Oficial del Gobierno del Estado de Sonora, las bases y convocatoria para designar al Auditor Mayor del Instituto Superior de Auditoría y Fiscalización, en términos del artículo 67 de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+En los quince días siguientes a la entrada en vigor de la presente ley, la mesa directiva deberá someter al pleno la ratificación de los servidores públicos que actualmente desempeñan el cargo de contralores de los Organismos Constitucionalmente Autónomos para que puedan fungir como Titulares de los Órganos Internos de Control, exceptuando a las Instituciones de Educación Superior, en respecto al artículo 3o de la Constitución Política de los Estados Unidos Mexicanos.
+
+En caso de no lograr la ratificación por el voto de la mitad más uno de los diputados presentes, el Congreso del Estado a través de la mesa directiva, deberán emitir las convocatorias para que se presenten candidatos a ocupar la Titularidad de los Órganos Internos de Control de los Órganos Autónomos, dentro de los treinta días hábiles siguientes a la entrada en vigor de esta Ley.
+
+Los servidores públicos que actualmente desempeñan el cargo de contralores de los Organismos Autónomos y que no fueron ratificados, seguirán en su cargo en tanto el Congreso del Estado no rinda protesta a los Titulares de los Órganos Internos de Control que se señalan en esta Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Hacienda asesorará a los Organismos Autónomos para efecto de la reasignación presupuestaria necesaria para la iniciación en funciones de sus respectivos Órganos Internos de Control.
+
+###### ARTÍCULO OCTAVO.
+
+La duración y el procedimiento de designación que se establece en el artículo 98 de la presente Ley aplicará para posteriores nombramientos.
+
+###### ARTÍCULO NOVENO.
+
+La duración y el procedimiento de designación que se establece en el artículo 113 de la presente Ley será aplicable a las siguientes designaciones que se efectué después de la entrada en vigor de este ordenamiento.
+
+###### ARTÍCULO DÉCIMO.
+
+Se derogan todas las normas que se opongan al proceso de designación y disposiciones contenidas en el presente decreto.
