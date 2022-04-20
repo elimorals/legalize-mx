@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-educacion-del-estado-de-quintana-roo-100533"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-27"
-last_updated: "2019-08-09"
+last_updated: "2022-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,19 +21,19 @@ state: "ROO"
 ---
 # LEY DE EDUCACION DEL ESTADO DE QUINTANA ROO
 
-REGLAMENTO DE MERCADOS DEL MUNICIPIO DE LOS CABOS
+LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2022.
 
-Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de julio de 1981.
+Ley Publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 27 de febrero de 2014.
 
-EL C. PROFR. HECTOR PALACIOS AVILES PRESIDENTE DEL H. AYUNTAMIENTO CONSTITUCIONAL DEL MUNICIPIO DE LOS CABOS, ESTADO DE BAJA CALIFORNIA SUR,
+DECRETO NÚMERO: 093
 
-A SUS HABITANTES HACE SABER:
+POR EL QUE SE EXPIDE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO.
 
-QUE EL PROPIO H. AYUNTAMIENTO CONSTITUCIONAL DE LOS CABOS, EN USO DE LAS FACULTADES QUE LE CONCEDEN LOS ARTICULOS 148, FRACCIÓN II DE LA CONSTITUCION POLITICA DEL ESTADO, Y EL XXVI, FRACCIÓN II, DE LA LEY ORGANICA MUNICIPAL, HA TENIDO A BIEN APROBAR EL SIGUIENTE:
+LA HONORABLE XIV LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTAN (SIC) ROO,
 
-REGLAMENTO DE MERCADOS
+D E C R E T A:
 
 ###### ARTÍCULO ÚNICO.
 
@@ -43,37 +43,7 @@ LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
-###### ARTICULO 1o.
-
-El funcionamiento de los mercados en el Municipio de Los Cabos, constituye un servicio público cuya prestación será realizada por el Ayuntamiento de Los Cabos a través de su Secretaría General.
-
-###### ARTICULO 2o.
-
-Para los efectos de este Reglamento se considera mercado público, el lugar o local que es propiedad Municipal, donde concurran una diversidad de comerciantes o consumidores con libre competencia, cuya oferta y demanda se refieren principalmente a los artículos de primera necesidad.
-
-###### ARTICULO 3o.
-
-La Secretaría General del Ayuntamiento a través de los Delegados Municipales y de los Administradores de los Mercados, es la Dependencia encargada de la aplicación del presente Reglamento.
-
-###### ARTICULO 4o.
-
-Habrá un administrador en cada uno de los mercados públicos que existan en el municipio de Los Cabos, y tendrá las siguientes atribuciones:
-
-I.- Representará los intereses del Ayuntamiento en los mercados.
-
-II.- Son responsables de abrir, y cerrar al público las puertas de los mercados con sujeción al horario que dicte el Ayuntamiento.
-
-III.- Mantener con el auxilio de la Policía Municipal el orden dentro de los mercados.
-
-IV.- Atender y resolver dentro del ámbito de su competencia, las peticiones de los locatarios.
-
-V.- Rendir mensualmente al Secretario General y al Tesorero del Ayuntamiento un informe de las actividades por él realizadas y las necesidades del mercado.
-
-VI.- Cobrar e ingresar cada 15 días, o como la Tesorería General disponga, la recaudación por concepto de derecho de piso, así como la recuperación por concepto de energía eléctrica y los impuestos por comercio que señala la Ley de Hacienda Municipal.
-
-VII.- Solicitar oportunamente a la Tesorería Municipal talonarios de recibos oficiales y las formas de padrones para el control de los pagos de los locatarios, recibos utilizados y la existencia de los mismos.
+### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
@@ -179,35 +149,7 @@ La educación que impartan el Estado, sus organismos descentralizados y los part
 
 La aplicación y la vigilancia del cumplimiento de esta ley, corresponde a las autoridades educativas estatales y de los municipios, en los términos que la misma establece.
 
-### CAPITULO II. DISPOSICIONES QUE REGULAN EL EJERCICIO DEL COMERCIO DE LOS MERCADOS
-
-###### ARTICULO 5o.
-
-Los comerciantes en los mercados públicos tendrán obligación de mantener aseados los puestos en que efectúen sus actividades comerciales, esta obligación comprende también la parte exterior de sus locales.
-
-###### ARTICULO 6o.
-
-Los locales deberán tener la forma, color y dimensiones que determine el Ayuntamiento.
-
-###### ARTICULO 7o.
-
-Dentro de los mercados se prohíbe el comercio de alcohol y bebidas embriagantes, así como la posesión o venta de materiales inflamables o explosivos.
-
-###### ARTICULO 8o.
-
-La actividad comercial de los mercados deberá realizarse en forma ordenada, para tal efecto los locatarios se concretarán a utilizar el espacio destinado para cada local, quedando prohibido ocupar con marquesinas rótulos, cajones canastos o cualquier otro objeto, los pasillos, banquetas, corredores o cualquier otro lugar de tránsito, o acceso dentro de los mercados.
-
-###### ARTICULO 9o.
-
-Los comerciantes deberán sujetarse para el ejercicio del comercio al giro que se señalan en su licencia de funcionamiento.
-
-###### ARTICULO 10o.
-
-En los mercados públicos no podrán ejercer el comercio los vendedores ambulantes, salvo autorización expresa del Ayuntamiento.
-
-###### ARTICULO 11o.
-
-Unicamente con autorización del Ayuntamiento otorgado por la Secretaria General del mismo, podrán realizarse trabajos de electricidad en los puestos, cuando la naturaleza de esos trabajos, puedan causar algún daño a la instalación general del mercado.
+### CAPÍTULO II. DE LOS FINES DE LA EDUCACIÓN
 
 ###### Artículo 12.
 
@@ -243,7 +185,9 @@ X. Impulsar la creación artística y propiciar la adquisición, el enriquecimie
 
 XI. Fomentar la educación en materia de nutrición y estimular la educación física y la práctica del deporte;
 
-XII. Desarrollar actitudes solidarias en los individuos y crear conciencia sobre la preservación de la salud, el ejercicio responsable de la sexualidad, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios y adicciones, fomentando el conocimiento de sus causas, riesgos y consecuencias;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+XII. Desarrollar actitudes solidarias en los individuos y crear conciencia sobre la preservación de la salud, el ejercicio responsable de la sexualidad, la planeación familiar y la paternidad responsable, así como la importancia de la lactancia materna, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios y adicciones, fomentando el conocimiento de sus causas, riesgos y consecuencias;
 
 XIII. Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales;
 
@@ -269,63 +213,7 @@ XX. Realizar acciones educativas y preventivas a fin de evitar que se cometan il
 
 XXI. Fomentar la educación vial, a fin de que se refuercen los conocimientos, comprensión y respeto a las normas y hábitos de prevención de accidentes viales, así como la protección de todos los habitantes en la vía pública ya sean conductores, pasajeros o peatones.
 
-### CAPITULO III. DE LOS LOCALES DENTRO DE LOS MERCADOS
-
-###### ARTICULO 12o.
-
-Para ser locatario de cualquiera de los mercados públicos propiedad del Ayuntamiento de Los Cabos, se requiere:
-
-1o.- Presentar en la Secretaría General del Ayuntamiento, una solicitud en la que deberá asentarse, nombre, domicilio, estado civil, edad y el giro a que se destinará el funcionamiento de dicho local.
-
-2o.- Comprobar ser Mexicano de nacimiento.
-
-3o.- Tener capacidad jurídica para contratar y,
-
-4o.- No ser infractor habitual del Bando de Policía y Buen Gobierno del Municipio de Los Cabos.
-
-###### ARTICULO 13o.
-
-Aprobada que sea la solicitud que menciona el artículo anterior, deberá presentarse licencia de funcionamiento, expedida por los servicios coordinados de salud pública en el Estado.
-
-###### ARTICULO 14o.
-
-Los comerciantes en los mercados deberán refrendar en el mes de enero de cada año su licencia de funcionamiento, ante la Tesorería General del Municipio.
-
-###### ARTICULO 15o.
-
-La Secretaría General del Ayuntamiento, en ningún caso concederá al mismo comerciante más de un local dentro del mercado, únicamente en casos especiales que lo amerite.
-
-###### ARTICULO 16o.
-
-Los comerciantes a que se refiere este Reglamento no podrán traspasar a terceras personas, sus derechos sobre las licencias de funcionamiento, como tampoco podrán traspasar o ceder locales de que dispongan los mercados.
-
-###### ARTICULO 17o.
-
-El cambio de giro de las actividades mercantiles de los locatarios de los mercados, requiere autorización expresa del Ayuntamiento.
-
-###### ARTICULO 18o
-
-Para los efectos de este Reglamento, serán nulos los traspasos o giros comerciales realizados entre particulares.
-
-###### ARTICULO 19o.
-
-Se prohíbe arrendar o sub-arrendar los locales dentro de los mercados.
-
-###### ARTICULO 20o.
-
-En caso de fallecimiento del propietario de una licencia comercial podrá explotar dicho (sic) licencia la persona que compruebe tener los derechos sucesorios.
-
-###### ARTICULO 21o.
-
-Toda mejora que haga el locatario en la accesoria que tenga destinada dentro de su local quedara a beneficio del Ayuntamiento.
-
-###### ARTICULO 22o.
-
-Cuando hubiera necesidad de efectuar obras de construcción, remodelación o de conservación relativos (sic) a los servicios públicos dentro del mercado, serán removidos los puestos que en cualquier forma obstaculicen la ejecución de estas obras.
-
-###### ARTICULO 23o.
-
-En ningún caso podrá ser alterado el diseño arquitectónico de los mercados, ni se les agregara construcción alguna, que altere su diseño original, salvo acuerdo del H. Cabildo del Ayuntamiento.
+### CAPÍTULO III. DEL CRITERIO QUE ORIENTARÁ A LA EDUCACIÓN
 
 ###### Artículo 13.
 
@@ -341,19 +229,7 @@ III. Contributivo a la mejor convivencia humana, tanto por los elementos que apo
 
 IV. De calidad, con base en el mejoramiento constante y el máximo logro académico de los alumnos; debiendo existir congruencia entre los objetivos, resultados y procesos del Sistema Educativo, conforme a las dimensiones de eficacia, eficiencia, equidad, impacto, pertinencia, relevancia y suficiencia.
 
-### CAPITULO IV. DE LAS SANCIONES
-
-###### ARTICULO 24o.
-
-En ningún caso el pago de impuestos, productos o derechos de los locatarios de los mercados, legitimara la realización de actos que constituyen infracciones a las disposiciones de este Reglamento, o a las del Bando de Policía y Buen Gobierno.
-
-###### ARTICULO 25o.
-
-Las violaciones del presente Reglamento, serán sancionadas a juicio de la Secretaría General con una multa de $100.00 a $5,000.00 pesos atendiendo a la gravedad de la falta.
-
-###### ARTICULO 26o.
-
-Independientemente de la sanción económica a que hace mención el artículo anterior, el Ayuntamiento a través de la Secretaría general, podrá clausurar temporal o definitivamente el local comercial, y en él último de los casos antes señalados, operar conjuntamente, la cancelación de la licencia de funcionamiento expedida por la Tesorería Municipal.
+### CAPÍTULO IV. DE LA CALIDAD DE LA EDUCACIÓN
 
 ###### Artículo 14.
 
@@ -371,67 +247,7 @@ V. Vigilar que las instituciones educativas funcionen en apego a las normas inst
 
 VI. Contemplar en la política educativa que se establezca en el plan estatal de desarrollo y en el plan sectorial de educación, como prioridad que todos los programas y actores de la educación se comprometan a superar la calidad de la misma, con una visión estratégica de Estado.
 
-### CAPITULO V. DE LOS RECURSOS
-
-###### ARTICULO 27o.
-
-Contra las sanciones o resoluciones dictadas por la Secretaría General del Ayuntamiento, procederá únicamente el recurso de reconsideración que será interpuesto en un término no mayor de 5 días hábiles, después de notificada la sanción o resolución al infractor.
-
-###### ARTICULO 28o.
-
-El recurso que se menciona en el Artículo anterior deberá ser interpuesto ante el C. Presidente Municipal, quien después de escuchar al infractor, resolverá en un término de 5 días hábiles.
-
-###### ARTICULO 29o.
-
-Para los efectos de este Reglamento se consideraran días hábiles todos los días del año, a excepción de los domingos y días festivos.
-
-## ARTICULOS TRANSITORIOS
-
-ARTICULO PRIMERO El presente Reglamento de Mercados entrará en vigor al dia siguiente de su publicación en el Boletín Oficial de Gobierno del Estado de Baja California Sur.
-
-ARTICULO SEGUNDO Se derogan todas las disposiciones Municipales que se opongan al presente Reglamento.
-
-ARTICULO TERCERO Para los efectos de publicidad que señala la Fraccion I, del Artículo 27 de la Ley Orgánica Municipal, la misma deberá realizarse por conducto del C. Presidente Municipal.
-
-DADO EN EL SALON DE CABILDOS DEL H. AYUNTAMIENTO CONSTITUCIONAL DEL MUNICIPIO DE LOS CABOS ESTADO DE BAJA CALIFORNIA SUR, A LOS VEINTICINCO DIAS DEL MES DE MAYO DE 1981.
-
-C.PROFR. HECTOR PALACIOS AVILES
-
-PRESIDENTE MUNICIPAL
-
-C. JUAN MANUEL DOMINGUEZ VERDUZCOSINDICO
-
-C. GILDARDO COTA OJEDA
-
-PRIMER REGIDOR
-
-C. CARLOS PELAEZ COTA
-
-SEGUNDO REGIDOR
-
-C. MANUEL BURGOIN CASTRO
-
-TERCER REGIDOR
-
-C. PROFRA. DOLORES FISHER ARIPEZ
-
-CUARTO REGIDOR
-
-C. RAFAELA ARAMBURO TOSTADO
-
-QUINTO REGIDOR
-
-C. RODRIGO MIRANDA AMADOR
-
-SEXTO REGIDOR
-
-C. RICARDO RUIZ CASESSUS
-
-SEPTIMO REGIDOR
-
-C. PROFR. GILBERTO RODRIGUEZ DEL ROSAL
-
-SECRETARIO GENERALSECRETARIO GENERAL
+### CAPÍTULO V. DE LA EQUIDAD EN LA EDUCACIÓN
 
 ###### Artículo 15.
 
@@ -485,9 +301,25 @@ XVIII. Apoyarán y desarrollarán programas, cursos y actividades que fortalezca
 
 XIX. Establecerán, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo, con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural;
 
-XX. Impulsarán esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria, y
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2019)</small>
 
-XXI. Llevarán a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
+XX. Impulsarán esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2019)</small>
+
+XXI. Llevarán a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2019)</small>
+
+XXII. Expedir el Programa Especial de Seguridad de Emergencia Escolar, en coordinación con las determinaciones de la Secretaría de Educación Pública y conforme a las determinaciones técnicas que establezca el Instituto de Infraestructura Física Educativa del Estado y el Sistema Estatal de Protección Civil, a través del cual se organice a la comunidad escolar para su seguridad, de tal manera que cada una de las escuelas tenga conocimiento de las situaciones de riesgo en las que se encuentra y cuente con los elementos indispensables para adoptar las medidas preventivas y correctivas necesarias;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2019)</small>
+
+XXIII. Vigilar que tanto en el interior como en los alrededores de los planteles escolares se garantice la integridad física y moral de la comunidad educativa en materia de protección civil y señalamientos viales, con la finalidad de que exista un entorno seguro para la misma, y
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2019)</small>
+
+XXIV. Realizar en los planteles educativos con apoyo del Sistema Estatal de Protección Civil de Quintana Roo, y/o Sistemas Municipales de Protección Civil cuando menos una vez cada seis meses, simulacros que permitan la prevención de riesgos, emergencias o desastres, así como orientar al personal directivo, administrativo y académico del plantel educativo sobre métodos y acciones para evitar o minimizar los daños y riesgos en caso de que éstos se presenten.
 
 ###### Artículo 17.
 
@@ -647,7 +479,9 @@ XIX. Celebrar convenios con la autoridad educativa federal para unificar, amplia
 
 XX. Fomentar la educación en materia de nutrición y estimular la educación física y la práctica del deporte;
 
-XXI. Promover y desarrollar programas, así como acciones educativas y preventivas, para crear conciencia sobre la preservación de la salud, el ejercicio responsable de la sexualidad, la paternidad responsable, y asimismo que propicien el rechazo a los vicios y adicciones, fomentando el conocimiento de sus causas, riesgos y consecuencias, así como para evitar que se cometan ilícitos y actos de violencia en contra de los alumnos, docentes e infraestructura;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+XXI. Promover y desarrollar programas, así como acciones educativas y preventivas, para crear conciencia sobre la preservación de la salud, el ejercicio responsable de la sexualidad, la paternidad responsable, así como la importancia de la lactancia materna, y asimismo que propicien el rechazo a los vicios y adicciones, fomentando el conocimiento de sus causas, riesgos y consecuencias, así como para evitar que se cometan ilícitos y actos de violencia en contra de los alumnos, docentes e infraestructura;
 
 XXII. Promover y supervisar la realización de actos cívicos escolares que fortalezcan la identidad nacional y estatal, fomenten la solidaridad internacional y formen en los alumnos actitudes de compromiso para la consolidación de una nación soberana e independiente;
 
@@ -881,7 +715,7 @@ El alumno es sujeto activo en el proceso formativo, tanto en lo individual como 
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
 
-Para que éste logre el desarrollo armónico de su personalidad, deberá asegurársele la participación activa en dicho proceso, estimulando su iniciativa, su sentido de responsabilidad social, el cuidado de su cuerpo mediante la sana práctica del deporte en cualquiera de sus expresiones y su espiritu creador, a fin de alcanzar los fines a que se refiere el artículo 12 de esta Ley. Para ello, el Sistema Educativo implementará el Marco de Convivencia Escolar y los Protocolos respectivos, según corresponda.
+Para que éste logre el desarrollo armónico de su personalidad, deberá asegurársele la participación activa en dicho proceso, estimulando su iniciativa, su sentido de responsabilidad social, el cuidado de su cuerpo mediante la sana práctica del deporte en cualquiera de sus expresiones y su espíritu creador, a fin de alcanzar los fines a que se refiere el artículo 12 de esta Ley. Para ello, el Sistema Educativo implementará el Marco de Convivencia Escolar y los Protocolos respectivos, según corresponda.
 
 Se consideran alumnos de una escuela a quienes habiendo cumplido con todos los requisitos para ingresar al plantel educativo, hayan quedado inscritos en la misma.
 
@@ -2506,3 +2340,31 @@ P.O. 22 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 312 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 9 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 341 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE QUINTANA ROO, DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO Y DE LA LEY DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE QUINTANA ROO, EN MATERIA DE PROTECCIÓN CIVIL ESCOLAR”.]
+
+ÚNICO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 20 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 215 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES NORMATIVAS DE LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO; LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO; LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO; LA LEY PARA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DE QUINTANA ROO Y LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO, EN MATERIA DE LACTANCIA MATERNA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todos los ordenamientos legales que contravengan el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se otorga un plazo de noventa días a partir de la publicación del presente Decreto, para que las instituciones públicas que prestan servicios de salud destinados a la atención materno infantil, lleven a cabo las adecuaciones físicas y normativas para dar vigencia al mismo.
+
+###### ARTÍCULO CUARTO.
+
+La implementación de las acciones que resulten necesarias, derivado de la entrada en vigor del presente Decreto, deberán ser solventadas por las instancias públicas competentes, con cargo a los recursos financieros que les hayan sido asignados, en el ejercicio fiscal de que se trate, de conformidad a lo establecido en las disposiciones normativas aplicables, sin menoscabo de las ampliaciones presupuestales que les sean autorizadas, cuando así resulte conducente.
+
+La implementación de las acciones a las que se refiere el presente Decreto, deberán ser materializadas en su totalidad, a más tardar, en el ejercicio fiscal correspondiente al año 2023.
