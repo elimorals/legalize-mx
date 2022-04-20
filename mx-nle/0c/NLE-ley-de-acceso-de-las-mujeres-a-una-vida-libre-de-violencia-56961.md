@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2022-01-26"
+last_updated: "2022-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -595,7 +595,9 @@ VII. Elaborar, coordinar y aplicar el Programa, auxiliándose de las demás auto
 
 VIII. Asegurar la difusión y promoción de los derechos de las mujeres indígenas con base en el reconocimiento de la composición pluricultural del Estado;
 
-IX. Asegurar el respeto, la difusión y promoción de los derechos de las mujeres con discapacidad;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+IX. Asegurar el respeto, mediante difusión y promoción de los derechos de las mujeres con discapacidad, tanto en lengua de señas mexicanas como oral y formatos accesibles para todos los tipos de discapacidades.
 
 X. Vigilar que los usos y costumbres de toda la sociedad no atenten contra los derechos humanos de las mujeres;
 
@@ -1754,3 +1756,9 @@ P.O. 26 DE ENERO DE 2022.
 PRIMERO.- EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las autoridades señaladas en el presente Decreto deberán realizar las adecuaciones normativas, administrativas, técnicas y presupuestales necesarias a fin de dar cumplimiento a éste Decreto.
+
+P.O. 20 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 41. SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 31 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
