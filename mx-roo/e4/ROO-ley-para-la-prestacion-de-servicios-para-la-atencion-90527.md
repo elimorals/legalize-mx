@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-la-prestacion-de-servicios-para-la-atencion-90527"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-30"
-last_updated: "2019-05-28"
+last_updated: "2022-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY PARA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DEL PERIÓDICO OFICIAL: 28 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DEL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 30 de octubre de 2012.
 
@@ -237,13 +237,17 @@ El Consejo Municipal se integrará con los Titulares de las siguientes dependenc
 
 I. El Sistema Municipal para el Desarrollo Integral de la Familia; quien lo presidirá;
 
-II. Los regidores del Ayuntamiento, cuyas funciones se relacionen con la niñez y el desarrollo familiar;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+II. Los regidores del Ayuntamiento, cuyas funciones se relacionen con la niñez, el desarrollo familiar, salud y protección civil;
 
 III. La Dependencia de la administración municipal en materia de protección civil;
 
 IV. Presidencia del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo;
 
-V. Las Dependencias y entidades de la administración pública municipal cuya competencia u objeto se relacione directamente con la niñez y el desarrollo familiar;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+V. Las Dependencias y entidades de la administración pública municipal cuya competencia u objeto se relacione directamente con la niñez, el desarrollo familiar y la salud;
 
 VI. La Comisión de Derechos Humanos del Estado de Quintana Roo.
 
@@ -265,13 +269,17 @@ II. Municipios.
 
 De conformidad con la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil y la presente ley, le corresponde al Ejecutivo del Estado las siguientes atribuciones:
 
-I. Elaborar, aprobar, ejecutar y evaluar el programa del Estado en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil, de conformidad con el objeto de la presente Ley y los fines del Consejo;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+I. Elaborar, aprobar, ejecutar y evaluar el programa del Estado en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil, de conformidad con el objeto de la presente Ley y los fines del Consejo, así como las demás disposiciones normativas que resulten aplicables;
 
 II. Coordinar y operar el Registro Estatal;
 
 III. Apoyar a los Centros de Atención que prestan servicios para la atención, cuidado y desarrollo integral de las niñas y niños;
 
-IV. Expedir la licencia para la instalación y funcionamiento de los Centros de Atención, previo cumplimiento de los requisitos establecidos en esta Ley;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+IV. Expedir la licencia para la instalación y funcionamiento de los Centros de Atención, previo cumplimiento de los requisitos establecidos en esta Ley, así como las demás disposiciones normativas que resulten aplicables;
 
 V. Verificar, en el ámbito de su competencia, que la prestación de los servicios cumpla con los estándares de calidad y seguridad que exige el principio de interés superior de la niñez;
 
@@ -283,15 +291,21 @@ VIII. Asesorar a los gobiernos municipales que lo soliciten, en la elaboración,
 
 IX. Realizar exámenes con la finalidad de identificar el perfil psicológico, el grado de coeficiente intelectual y de valores morales, así como el grado de responsabilidad, creatividad, superación y compromiso del personal que tiene a su cuidado a las niñas y los niños;
 
-X. Celebrar convenios de coordinación en la materia con los demás órdenes de gobierno, para alcanzar los fines de la presente Ley;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
 
-XI. Promover y celebrar convenios de concertación con los sectores privado y social, las acciones tendientes a favorecer la prestación de servicios para la atención, cuidado y desarrollo integral infantil, en los términos de la presente Ley;
+X. Celebrar convenios de coordinación en la materia con los demás órdenes de gobierno, para alcanzar los fines de la presente Ley, así como las demás disposiciones normativas que resulten aplicables;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+XI. Promover y celebrar convenios de concertación con los sectores privado y social, las acciones tendientes a favorecer la prestación de servicios para la atención, cuidado y desarrollo integral infantil, en los términos de la presente Ley así como las demás disposiciones normativas que resulten aplicables;
 
 XII. Fomentar, realizar y difundir estudios e investigaciones en la materia;
 
 XIII. Implementar, en coordinación con el Consejo Nacional, el Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento;
 
-XIV. Vigilar el estricto cumplimiento de esta ley, así como las disposiciones que se dicten con base en ella, sin perjuicio de las facultades que en la materia competan a las dependencias y entidades federales o municipales;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+XIV. Vigilar el estricto cumplimiento de esta ley, así como las disposiciones que se dicten con base en ella, sin perjuicio de las facultades que en la materia competan a las dependencias y entidades federales o municipales, así como las demás disposiciones normativas que resulten aplicables;
 
 XV. Decretar, en el ámbito de su competencia, las medidas precautorias necesarias a los Centros de Atención;
 
@@ -311,13 +325,17 @@ XIX. Se coordinará con la Federación para implementar el Programa Integral de 
 
 XX. Las demás que le señale esta Ley y las leyes aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2022)</small>
+
 ###### Artículo 18.
 
-Corresponde a los Municipios, en el ámbito de su competencia y de conformidad con lo dispuesto en la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil y esta Ley, las siguientes atribuciones:
+Corresponde a los Municipios, en el ámbito de su competencia y de conformidad con lo dispuesto en la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil y esta Ley, así como las demás disposiciones normativas que resulten aplicables, las siguientes atribuciones:
 
 I. Formular, conducir y evaluar la política municipal en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil, en congruencia con la política estatal y federal en la materia;
 
-II. Elaborar, aprobar, ejecutar y evaluar el programa municipal en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil, de conformidad con el objeto de la presente Ley y los fines del Consejo Municipal. Para tal efecto se considerarán las directrices previstas en el plan estatal de desarrollo y el programa estatal de prestación de servicios para la atención, cuidado y desarrollo integral infantil correspondientes;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+II. Elaborar, aprobar, ejecutar y evaluar el programa municipal en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil, de conformidad con el objeto de la presente Ley y los fines del Consejo Municipal, así como las demás disposiciones normativas que resulten aplicables. Para tal efecto se considerarán las directrices previstas en el plan estatal de desarrollo y el programa estatal de prestación de servicios para la atención, cuidado y desarrollo integral infantil correspondientes;
 
 III. Coadyuvar en la integración y operación del Registro Estatal, debiendo remitir la información necesaria al Sistema para el Desarrollo Integral de la Familia del Estado cada tres meses;
 
@@ -325,9 +343,13 @@ IV. Supervisar, en materia de protección civil, a los Centros de Atención y em
 
 V. Determinar los indicadores que permitan evaluar la aplicación del programa a que se refiere la fracción II de este artículo;
 
-VI. Celebrar convenios de coordinación en la materia con los demás órdenes de gobierno, para alcanzar los fines de la presente Ley;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
 
-VII. Promover y celebrar convenios de concertación con los sectores privado y social, para las acciones tendientes a favorecer la prestación de servicios para la atención, cuidado y desarrollo integral infantil, en los términos de la presente Ley;
+VI. Celebrar convenios de coordinación en la materia con los demás órdenes de gobierno, para alcanzar los fines de la presente Ley, así como las demás disposiciones normativas que resulten aplicables;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+VII. Promover y celebrar convenios de concertación con los sectores privado y social, para las acciones tendientes a favorecer la prestación de servicios para la atención, cuidado y desarrollo integral infantil, en los términos de la presente Ley, así como las demás disposiciones normativas que resulten aplicables;
 
 VIII. Fomentar, realizar y difundir estudios e investigaciones en la materia;
 
@@ -337,7 +359,9 @@ IX. Vigilar el cumplimiento de esta Ley y demás disposiciones aplicables en su 
 
 X. Decretar las medidas precautorias necesarias a los Centros de Atención, correspondiente en cualquier modalidad o tipo y en materia de protección civil;
 
-XI. Imponer las sanciones, en el ámbito de su competencia, a las que se refieren la presente Ley y las legislaciones municipales que de ella deriven, respecto de los prestadores de servicios para la atención, cuidado y desarrollo integral infantil, en cualquiera de sus Modalidades y Tipos;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+XI. Imponer las sanciones, en el ámbito de su competencia, a las que se refieren la presente Ley y las legislaciones municipales que de ella deriven, así como las demás disposiciones normativas que resulten aplicables respecto de los prestadores de servicios para la atención, cuidado y desarrollo integral infantil, en cualquiera de sus Modalidades y Tipos;
 
 XII. Hacer del conocimiento de la autoridad competente toda aquella información que pueda constituir un hecho ilícito, y
 
@@ -427,7 +451,9 @@ III. Fomento al cuidado de la salud;
 
 IV. Atención médica en caso de urgencia, la cual podrá brindarse en el Centro de Atención o a través de instituciones de salud públicas o privadas;
 
-V. Alimentación adecuada y suficiente para su nutrición;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+V. Alimentación adecuada y suficiente para su nutrición, incluyendo, en su caso, lo relativo a la lactancia materna.
 
 VI. Fomento a la comprensión y ejercicio de los derechos de niñas y niños;
 
@@ -890,3 +916,25 @@ P.O. 28 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 319 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY PARA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DE QUINTANA ROO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 20 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 215, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES NORMATIVAS DE LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO; LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO; LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO; LA LEY PARA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DE QUINTANA ROO Y LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO, EN MATERIA DE LACTANCIA MATERNA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todos los ordenamientos legales que contravengan el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se otorga un plazo de noventa días a partir de la publicación del presente Decreto, para que las instituciones públicas que prestan servicios de salud destinados a la atención materno infantil, lleven a cabo las adecuaciones físicas y normativas para dar vigencia al mismo.
+
+###### ARTÍCULO CUARTO.
+
+La implementación de las acciones que resulten necesarias, derivado de la entrada en vigor del presente Decreto, deberán ser solventadas por las instancias públicas competentes, con cargo a los recursos financieros que les hayan sido asignados, en el ejercicio fiscal de que se trate, de conformidad a lo establecido en las disposiciones normativas aplicables, sin menoscabo de las ampliaciones presupuestales que les sean autorizadas, cuando así resulte conducente.
+
+La implementación de las acciones a las que se refiere el presente Decreto, deberán ser materializadas en su totalidad, a más tardar, en el ejercicio fiscal correspondiente al año 2023.
