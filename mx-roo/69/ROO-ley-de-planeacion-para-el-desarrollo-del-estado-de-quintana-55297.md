@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-planeacion-para-el-desarrollo-del-estado-de-quintana-552
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-30"
-last_updated: "2020-11-04"
+last_updated: "2022-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de marzo de 2007.
 
@@ -41,11 +41,11 @@ LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
 
 ### Capítulo Único
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2022)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto regular la planeación para el desarrollo de la entidad, contemplando las condiciones especiales de desventaja en las regiones insulares, así como establecer las normas, principios y bases para la integración y funcionamiento del Sistema de Planeación Democrática del Estado de Quintana Roo, como un mecanismo permanente, racional y sistemático de acciones, para la transformación de la realidad del Estado en lo político, social, ambiental, cultural, económico, educativo y deportivo.
+La presente Ley es de orden público e interés social y tiene por objeto regular la planeación para el desarrollo de la entidad, contemplando las condiciones especiales de desventaja en las regiones insulares, así como establecer las normas, principios y bases para la integración y funcionamiento del Sistema de Planeación Democrática del Estado de Quintana Roo, como un mecanismo permanente, racional y sistemático de acciones, para la transformación de la realidad del Estado en lo político, social, salud, ambiental, cultural, económico, educativo y deportivo.
 
 ###### Artículo 2.
 
@@ -207,21 +207,23 @@ V. Islas. Extensión natural de tierra rodeada de agua, que se encuentra sobre e
 
 VI. Planeación democrática. Es el proceso mediante el cual se llevan a cabo, de manera permanente y sistemática, los mecanismos de participación social para la planeación, orientados a promover la participación activa de la ciudadanía en las decisiones para definir objetivos, estrategias, metas y prioridades de desarrollo. Tiene como propósito fundamental generar nuevas formas de vinculación, corresponsabilidad, gestión y trabajo entre sociedad y gobierno, a fin de mejorar los efectos de las acciones del sector público;
 
-VII. Planeación estatal del desarrollo. Es el proceso continuo, permanente e integral, evaluable mediante criterios e indicadores, por medio del cual se regulan, dirigen, articulan, ordenan y sistematizan las acciones de la actividad colectiva de carácter político, ambiental, cultural, económico, social, educativo y deportivo que corresponden a las autoridades y órganos responsables de la planeación, con la participación efectiva de la sociedad, orientadas a lograr el perfeccionamiento paulatino de la calidad de vida y bienestar de todos y cada uno de los individuos que conforman la sociedad quintanarroense y de sus generaciones futuras, de acuerdo con las normas, principios y objetivos establecidos por la Constitución Política de los Estados Unidos Mexicanos y la del Estado de Quintana Roo, los Planes Estatal y Municipales, los programas que de éstos se deriven y las demás disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+VII. Planeación estatal del desarrollo. Es el proceso continuo, permanente e integral, evaluable mediante criterios e indicadores, por medio del cual se regulan, dirigen, articulan, ordenan y sistematizan las acciones de la actividad colectiva de carácter político, ambiental, cultural, económico, social, salud, educativo y deportivo que corresponden a las autoridades y órganos responsables de la planeación, con la participación efectiva de la sociedad, orientadas a lograr el perfeccionamiento paulatino de la calidad de vida y bienestar de todos y cada uno de los individuos que conforman la sociedad quintanarroense y de sus generaciones futuras, de acuerdo con las normas, principios y objetivos establecidos por la Constitución Política de los Estados Unidos Mexicanos y la del Estado de Quintana Roo, los Planes Estatal y Municipales, los programas que de éstos se deriven y las demás disposiciones legales aplicables;
 
 VIII. Política pública. Conjunto de estrategias, programas y acciones de gobierno y de la sociedad que, de manera integral y con una visión común, articulan procesos que potencien y garanticen el bienestar y calidad de vida para la sociedad, y
 
 IX. Vertiente. Es el conjunto de acciones que en un mismo sentido llevarán a cabo las autoridades y órganos responsables de la planeación, sus relaciones entre sí y con los sectores social y privado que en ella participan, para la instrumentación del proceso de planeación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2022)</small>
 
 ###### Artículo 8.
 
-La planeación deberá llevarse a cabo como un medio para el eficaz y eficiente desempeño de la responsabilidad de las autoridades y órganos encargados de la planeación, con relación al desarrollo integral y sustentable de la entidad y deberá tender a la consecución de los fines y objetivos políticos, ambientales, culturales, económicos, sociales, educativos y deportivos contenidos en la Constitución Política de los Estados Unidos Mexicanos y en la particular del Estado de Quintana Roo, guardando congruencia con los lineamientos generales en materia de planeación que rijan al país. Para ello, estará basada en los siguientes principios rectores:
+La planeación deberá llevarse a cabo como un medio para el eficaz y eficiente desempeño de la responsabilidad de las autoridades y órganos encargados de la planeación, con relación al desarrollo integral y sustentable de la entidad y deberá tender a la consecución de los fines y objetivos políticos, ambientales, culturales, económicos, sociales, salud, educativos y deportivos contenidos en la Constitución Política de los Estados Unidos Mexicanos y en la (sic) particular del Estado de Quintana Roo, guardando congruencia con los lineamientos generales en materia de planeación que rijan al país. Para ello, estará basada en los siguientes principios rectores:
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
 
-I. La consolidación de la democracia como sistema de vida, fundado en el constante mejoramiento de las condiciones de vida del pueblo en lo político, ambiental, cultural, económico, social, educativo y deportivo, impulsando su participación activa y comprometida tanto en la planeación como en la ejecución de las actividades del Gobierno contempladas en los Planes Estatal y Municipales y en los programas;
+I. La consolidación de la democracia como sistema de vida, fundado en el constante mejoramiento de las condiciones de vida del pueblo en lo político, ambiental, cultural, económico, social, salud, educativo y deportivo, impulsando su participación activa y comprometida tanto en la planeación como en la ejecución de las actividades del Gobierno contempladas en los Planes Estatal y Municipales y en los programas;
 
 II. El fortalecimiento del pacto federal y del municipio libre, para lograr un desarrollo equilibrado del estado y la consolidación de su soberanía política y económica, congruente con los objetivos del país;
 
@@ -237,13 +239,13 @@ VI. Como Estado fronterizo, la preservación de la cultura nacional, su defensa 
 
 VII. El uso y aprovechamiento óptimo y racional de los recursos naturales, técnicos, financieros y humanos con que cuenta el estado y sus municipios, con el fin de alcanzar su desarrollo sustentable;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
 
-VIII. La continuidad de los programas derivados de los Planes Estatal y Municipales vigentes, entendiendo por esto, que para la modificación de los mismos deberá de realizarse necesariamente un estudio político, ambiental, cultural, económico, social, educativo y deportivo que justifique dicha modificación;
+VIII. La continuidad de los programas derivados de los Planes Estatal y Municipales vigentes, entendiendo por esto, que para la modificación de los mismos deberá de realizarse necesariamente un estudio político, ambiental, cultural, económico, social, de salud, educativo y deportivo que justifique dicha modificación;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
 
-IX. La universalidad de la planeación del desarrollo, que deberá contemplar las diferentes fases o etapas del proceso político, ambiental, cultural, económico, social, educativo y deportivo previendo las consecuencias que producirá la instrumentación de sus acciones, en el entorno sociopolítico del Estado;
+IX. La universalidad de la planeación del desarrollo, que deberá contemplar las diferentes fases o etapas del proceso político, ambiental, cultural, económico, social, de salud, educativo y deportivo previendo las consecuencias que producirá la instrumentación de sus acciones, en el entorno sociopolítico del Estado;
 
 X. La unidad y coordinación de los programas regionales, sectoriales, institucionales, especiales y operativos anuales, que emanen de los Planes Estatal y Municipales, formando en su conjunto un todo orgánico, funcional y compatible;
 
@@ -1193,11 +1195,11 @@ Los Programas Estatales y Municipales que se deriven de los Planes Estatal y Mun
 
 #### Sección Primera. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2022)</small>
 
 ###### Artículo 66.
 
-El Proceso de Planeación es el conjunto de etapas en las que se establecen directrices, se definen estrategias y se seleccionan alternativas y cursos de acción en función de objetivos generales, políticos, ambientales, culturales, económicos, sociales, educativos y deportivos, tomando en consideración la disponibilidad de recursos reales y potenciales.
+El Proceso de Planeación es el conjunto de etapas en las que se establecen directrices, se definen estrategias y se seleccionan alternativas y cursos de acción en función de objetivos generales, políticos, ambientales, culturales, económicos, sociales, de salud, educativos y deportivos, tomando en consideración la disponibilidad de recursos reales y potenciales.
 
 ###### Artículo 67.
 
@@ -1211,11 +1213,11 @@ III. Control, seguimiento, evaluación y actualización.
 
 #### Sección Segunda. De la Formulación
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2022)</small>
 
 ###### Artículo 68.
 
-La formulación es el conjunto de actividades que se desarrollan para la elaboración, validación, aprobación y publicación de los Planes Estatal y Municipales y de sus programas respectivos. Comprende la preparación y diagnóstico político, social, ambiental, cultural, económico, educativo y deportivo de carácter global, regional, sectorial e institucional; la definición de los objetivos y las prioridades del desarrollo, considerando las propuestas de los particulares, organismos, instituciones y representantes del sector social y privado, el señalamiento de estrategias y políticas congruentes entre sí.
+La formulación es el conjunto de actividades que se desarrollan para la elaboración, validación, aprobación y publicación de los Planes Estatal y Municipales y de sus programas respectivos. Comprende la preparación y diagnóstico político, social, de salud, ambiental, cultural, económico, educativo y deportivo de carácter global, regional, sectorial e institucional; la definición de los objetivos y las prioridades del desarrollo, considerando las propuestas de los particulares, organismos, instituciones y representantes del sector social y privado, el señalamiento de estrategias y políticas congruentes entre sí.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
@@ -1519,11 +1521,11 @@ Los convenios que se celebren conforme a esta sección, se considerarán de dere
 
 Los convenios de concertación sobre la planeación del desarrollo, que se celebren en los términos de esta sección deberán publicarse en el Periódico Oficial del Estado de Quintana Roo.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2022)</small>
 
 ###### Artículo 107.
 
-La vertiente de inducción comprende los actos que realizan las Dependencias y Entidades de la Administración Pública Estatal y Municipal y los Órganos Autónomos, en la ejecución de aquellos instrumentos y acciones políticos, ambientales, culturales, económicos, sociales, educativos y deportivos para fomentar, promover, regular, restringir, orientar, prohibir y, en general, inducir las acciones de los particulares, organismos, instituciones y representantes del sector social y privado en materia económica y social, ajustándose a los objetivos y prioridades de los Planes Estatal y Municipales y de los Programas respectivos que de éstos se deriven.
+La vertiente de inducción comprende los actos que realizan las Dependencias y Entidades de la Administración Pública Estatal y Municipal y los Órganos Autónomos, en la ejecución de aquellos instrumentos y acciones políticos, ambientales, culturales, económicos, sociales, de salud, educativos y deportivos para fomentar, promover, regular, restringir, orientar, prohibir y, en general, inducir las acciones de los particulares, organismos, instituciones y representantes del sector social y privado en materia económica y social, ajustándose a los objetivos y prioridades de los Planes Estatal y Municipales y de los Programas respectivos que de estos se deriven.
 
 ###### Artículo 108.
 
@@ -1543,11 +1545,11 @@ La fase de control y seguimiento tiene como finalidad vigilar que se logren los 
 
 La fase de evaluación, de acuerdo a los resultados de la fase anterior, tiene como finalidad obtener conclusiones cualitativas y cuantitativas sobre el cumplimiento de los objetivos de los Planes Estatal y Municipales y de los Programas que de ellos se deriven, mediante el cotejo de previsiones y resultados, alcances e impacto, de los programas, políticas y estrategias.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2022)</small>
 
 ###### Artículo 112.
 
-En la fase de actualización se adecuarán los Planes Estatal y Municipales y los programas que de ellos se deriven a las transformaciones del entorno político, social, ambiental, cultural, económico, educativo y deportivo del Estado y Municipios, según corresponda.
+En la fase de actualización se adecuarán los Planes Estatal y Municipales y los programas que de ellos se deriven a las transformaciones del entorno político, social, de salud, ambiental, cultural, económico, educativo y deportivo del Estado y Municipios, según corresponda.
 
 ###### Artículo 113.
 
@@ -1887,20 +1889,24 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
 
-###### ARTICULO PRIMERO.
+P.O. 20 DE ABRIL DE 2022.
 
-El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 215 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES NORMATIVAS DE LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO; LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO; LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO; LA LEY PARA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DE QUINTANA ROO Y LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO, EN MATERIA DE LACTANCIA MATERNA".]
 
-###### ARTICULO SEGUNDO.
+###### ARTÍCULO PRIMERO.
 
-Se derogan las disposiciones que se opongan al presente Reglamento.
+El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
-###### ARTICULO TERCERO.
+###### ARTÍCULO SEGUNDO.
 
-En tanto se expidan los Manuales necesarios para la aplicación del presente Reglamento, el Director General de la Promotora queda facultado para resolver las cuestiones que los mismos deban regular.
+Se derogan todos los ordenamientos legales que contravengan el presente Decreto.
 
-Tlaxcala de Xicohténcatl a 7 de Abril de 1986
+###### ARTÍCULO TERCERO.
 
-C.P. RUMEL HERNANDEZ AVENDAÑO
+Se otorga un plazo de noventa días a partir de la publicación del presente Decreto, para que las instituciones públicas que prestan servicios de salud destinados a la atención materno infantil, lleven a cabo las adecuaciones físicas y normativas para dar vigencia al mismo.
 
-Director General.
+###### ARTÍCULO CUARTO.
+
+La implementación de las acciones que resulten necesarias, derivado de la entrada en vigor del presente Decreto, deberán ser solventadas por las instancias públicas competentes, con cargo a los recursos financieros que les hayan sido asignados, en el ejercicio fiscal de que se trate, de conformidad a lo establecido en las disposiciones normativas aplicables, sin menoscabo de las ampliaciones presupuestales que les sean autorizadas, cuando así resulte conducente.
+
+La implementación de las acciones a las que se refiere el presente Decreto, deberán ser materializadas en su totalidad, a más tardar, en el ejercicio fiscal correspondiente al año 2023.
