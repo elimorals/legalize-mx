@@ -4,7 +4,7 @@ identifier: "FED-ley-de-mineria-antes-ley-minera-99"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-26"
-last_updated: "2014-08-11"
+last_updated: "2022-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-06-24"
 
 LEY MINERA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ABRIL DE 2022.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de junio de 1992.
 
@@ -39,11 +39,11 @@ L E Y M I N E R A
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2022)</small>
 
 ###### ARTICULO 1°.
 
-La presente Ley es reglamentaria del artículo 27 constitucional en materia minera y sus disposiciones son de orden público y de observancia en todo el territorio nacional. Su aplicación corresponde al Ejecutivo Federal por conducto de la Secretaría de Economía, a quien en lo sucesivo se le denominará la Secretaría.
+La presente Ley es reglamentaria del artículo 27 constitucional en materia minera y sus disposiciones son de orden público y de observancia en todo el territorio nacional. Su aplicación corresponde al Ejecutivo Federal por conducto de la Secretaría de Economía, a quien en lo sucesivo se le denominará la Secretaría, salvo lo relativo a la exploración, la explotación, beneficio y el aprovechamiento del litio, que quedará a cargo del organismo público descentralizado a que se refiere el artículo 10 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
 
@@ -129,6 +129,18 @@ V.- Los productos derivados de la descomposición de las rocas, cuando su explot
 
 VI.- La sal que provenga de salinas formadas en cuencas endorréicas.
 
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2022)</small>
+
+ARTICULO 5º BIS.- Se declara de utilidad pública el litio, por lo que no se otorgarán concesiones, licencias, contratos, permisos o autorizaciones en la materia. Serán consideradas zonas de reserva minera aquéllas en que haya yacimientos de litio.
+
+Se reconoce que el litio es patrimonio de la Nación y su exploración, explotación, beneficio y aprovechamiento se reserva en favor del pueblo de México.
+
+Las cadenas de valor económico del litio se administrarán y controlarán por el Estado a través del organismo público señalado en el artículo 10 de esta Ley.
+
+El Servicio Geológico Mexicano auxiliará al organismo público descentralizado encargado de la exploración, explotación, beneficio y aprovechamiento del litio en la ubicación y reconocimiento de las áreas geológicas en las que existan reservas probables del litio.
+
+En la exploración, explotación, beneficio y aprovechamiento del litio y de sus cadenas de valor será deber del Estado mexicano proteger y garantizar la salud de los mexicanos, el medio ambiente y los derechos de los pueblos originarios, comunidades indígenas y afromexicanas.
+
 ###### ARTICULO 6º.
 
 La exploración, explotación y beneficio de los minerales o sustancias a que se refiere esta Ley son de utilidad pública, serán preferentes sobre cualquier otro uso o aprovechamiento del terreno, con sujeción a las condiciones que establece la misma, y únicamente por ley de carácter federal podrán establecerse contribuciones que graven estas actividades.
@@ -203,15 +215,21 @@ La Secretaría formulará los programas de fomento a la pequeña y mediana miner
 
 El Reglamento de esta Ley establecerá los mecanismos para la instrumentación de los programas y acciones previstos por este artículo y precisará las características del pequeño y mediano minero por mineral o sustancia, con base en sus ingresos por ventas, el tonelaje total que extraigan o su participación en la producción nacional.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2022)</small>
 
 ###### ARTICULO 9°.
 
-Para promover el mejor aprovechamiento de los recursos minerales y generar la información geológica básica de la Nación, la Secretaría se apoyará en el Servicio Geológico Mexicano, organismo público descentralizado con personalidad jurídica y patrimonio propios, coordinado sectorialmente por dicha dependencia.
+Para promover el mejor aprovechamiento de los recursos minerales y generar la información geológica básica de la Nación, la Secretaría y el organismo a que se refiere el artículo 10 de esta Ley se apoyarán en el Servicio Geológico Mexicano, organismo público descentralizado con personalidad jurídica y patrimonio propios, coordinado sectorialmente por dicha dependencia.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
 
 El Servicio Geológico Mexicano tendrá su domicilio legal en Pachuca, Hidalgo. Su patrimonio se integrará con las aportaciones del Gobierno Federal, las primas por descubrimiento y las contraprestaciones económicas que provengan de los concursos a que se refiere esta Ley, los ingresos por los servicios que proporcione y los bienes que adquiera por cualquier otro título.
 
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
 La administración del Servicio Geológico Mexicano estará a cargo de un Órgano de Gobierno y de su Director General.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
 
 El Órgano de Gobierno estará integrado por:
 
@@ -229,17 +247,31 @@ Un representante de la Secretaría de Energía;
 
 Un representante del Fideicomiso de Fomento Minero;
 
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
 Asimismo, asistirán como invitados, con voz pero sin voto y previa invitación nominativa del Presidente del Órgano de Gobierno, hasta tres representantes de organizaciones del sector privado minero mexicano, un representante de los sindicatos del sector minero y un representante de organizaciones de la minería social.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
 
 Para la validez de sus reuniones se requerirá de la asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría de asistentes sean representantes de la administración pública federal. Sus resoluciones se tomarán por mayoría de los miembros presentes y, en caso de empate, el Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
 El Director General será designado por el Presidente de la República, a través del titular de la Secretaría, debiendo recaer en persona que reúna los requisitos indicados en la Ley Federal de las Entidades Paraestatales.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
 
 Las facultades y obligaciones del Órgano de Gobierno y las del Director General de la dependencia serán las establecidas por la Ley Federal de las Entidades Paraestatales y su Reglamento, así como las indicadas en el Reglamento de esta Ley y el Estatuto Orgánico del organismo.
 
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
 La vigilancia del Servicio Geológico Mexicano estará a cargo de un Comisario Público, propietario y suplente, designados por la Secretaría de la Función Pública, quienes asistirán con voz pero sin voto a las reuniones del Órgano de Gobierno; las atribuciones del Comisario serán las indicadas en la Ley Federal de las Entidades Paraestatales y su Reglamento. Las bases de la organización del organismo así como las facultades y funciones que correspondan a las distintas áreas del mismo se regirán por su Estatuto Orgánico.
 
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
+
 Las relaciones laborales de los servidores públicos del Servicio Geológico Mexicano se regirán por el apartado A) del artículo 123 constitucional y sus leyes reglamentarias.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
 
 Para el cumplimiento de su objeto señalado en el párrafo primero de este Artículo, el Servicio Geológico Mexicano tendrá las siguientes funciones:
 
@@ -301,15 +333,19 @@ XXVI. Realizar las actividades que le confieren expresamente otras leyes.
 
 De las Concesiones, Asignaciones y Reservas Mineras.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2022)</small>
 
 ###### ARTICULO 10.
 
-La exploración y explotación de los minerales o sustancias a que se refiere el artículo 4, así como de las salinas formadas directamente por las aguas marinas provenientes de mares actuales, superficial o subterráneamente, de modo natural o artificial, y de las sales y subproductos de éstas, sólo podrá realizarse por personas físicas de nacionalidad mexicana, ejidos y comunidades agrarias, pueblos y comunidades indígenas a que se refiere el artículo 2o. Constitucional reconocidos como tales por las Constituciones y Leyes de las Entidades Federativas, y sociedades constituidas conforme a las leyes mexicanas, mediante concesiones mineras otorgadas por la Secretaría.
+Con excepción del litio y demás minerales declarados como estratégicos por el Estado, en términos de los artículos 27 y 28 constitucionales, la exploración y explotación de los minerales o sustancias a que se refiere el artículo 4, así como de las salinas formadas directamente por las aguas marinas provenientes de mares actuales, superficial o subterráneamente, de modo natural o artificial, y de las sales y subproductos de éstas, sólo podrá realizarse por personas físicas de nacionalidad mexicana, ejidos y comunidades agrarias, pueblos y comunidades indígenas a que se refiere el artículo 2o. constitucional reconocidos como tales por las Constituciones y Leyes de las Entidades Federativas, y sociedades constituidas conforme a las leyes mexicanas, mediante concesiones mineras otorgadas por la Secretaría.
 
 > <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2005)</small>
 
 La exploración del territorio nacional con el objeto de identificar y cuantificar los recursos minerales potenciales de la Nación se llevará a cabo por el Servicio Geológico Mexicano, por medio de asignaciones mineras que serán expedidas únicamente a favor de este organismo por la Secretaría y cuyo título deberá publicarse en el Diario Oficial de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2022)</small>
+
+La exploración, explotación, beneficio y aprovechamiento del litio quedan exclusivamente a cargo del Estado, y se llevarán a cabo por el organismo público descentralizado que determine el Ejecutivo Federal en términos de las disposiciones aplicables. El cumplimiento de la legislación y Tratados Internacionales en materia de protección al medio ambiente y derechos de los pueblos originarios, comunidades indígenas y afromexicanas será escrupuloso por parte de dicho organismo público.
 
 Por causas de utilidad pública o para la satisfacción de necesidades futuras del país podrán establecerse zonas de reservas mineras, mediante decreto del Ejecutivo Federal publicado en el Diario Oficial de la Federación. Sobre las zonas incorporadas a dichas reservas no se otorgarán concesiones ni asignaciones mineras.
 
@@ -1184,3 +1220,15 @@ La Secretaría y la Secretaría de Energía podrán elaborar reglas para que las
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. La Cámara de Diputados realizará las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
+
+D.O.F. 20 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY MINERA”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias que se opongan a este ordenamiento.
+
+Tercero.- El Ejecutivo Federal, dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Decreto, emitirá conforme a la Ley Federal de las Entidades Paraestatales, el instrumento de creación del organismo público descentralizado a que se refiere el artículo 10 de la Ley.
+
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, incluyendo la creación del organismo señalado en el párrafo anterior, se cubrirán mediante movimientos compensados, conforme a las disposiciones jurídicas aplicables, con cargo al presupuesto de la dependencia que asuma las funciones de coordinación sectorial del citado organismo de acuerdo con el Decreto de creación, por lo que no se autorizarán ampliaciones al presupuesto del ramo correspondiente para el presente ejercicio fiscal para estos efectos.
