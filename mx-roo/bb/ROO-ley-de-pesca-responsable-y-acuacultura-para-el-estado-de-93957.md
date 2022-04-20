@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-pesca-responsable-y-acuacultura-para-el-estado-de-93957"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-09"
-last_updated: "2017-07-04"
+last_updated: "2022-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE PESCA RESPONSABLE Y ACUACULTURA PARA EL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PESCA RESPONSABLE Y ACUACULTURA PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2022.
 
 Ley publicada en el Número 21 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 9 de abril de 2013.
 
@@ -195,9 +197,21 @@ XIII. Coordinarse con la Federación, sus Municipios y con otras Entidades Feder
 
 XIV. Promover mecanismos de participación pública de los productores en el manejo y conservación de los recursos pesqueros y acuícolas conforme a lo dispuesto en esta Ley y otras disposiciones jurídicas federales y locales aplicables;
 
-XV. El ejercido de las funciones que les transfiera la Federación, conforme a lo dispuesto por la presente Ley; y,
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
 
-XVI. Las demás que no estén otorgadas expresamente a la Federación y que se deriven de la aplicación de la Ley General.
+XV. El ejercido (sic) de las funciones que les transfiera la Federación, conforme a lo dispuesto por la presente Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ABRIL DE 2022)</small>
+
+XVI. Establecer, instrumentar e implementar programas estratégicos que garanticen a las y los pescadores un apoyo financiero para su sustento, de acuerdo a lo que determine la Secretaría, durante los periodos de veda;
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+XVII. Impulsar el desarrollo de las mujeres en la actividad pesquera y acuícola; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE ABRIL DE 2022)</small>
+
+XVIII. Las demás que no estén otorgadas expresamente a la Federación y que se deriven de la aplicación de la Ley General.
 
 ### CAPÍTULO III. De la Concurrencia con la Federación, el Estado y los Municipios
 
@@ -441,9 +455,17 @@ j. Impulsar acciones para la formación de capital humano que se vincule con org
 
 k. Favorecer la creación de figuras organizativas para la promoción comercial de los productos pesqueros y acuícolas en los mercados nacional e internacional;
 
-l. Proporcionar asistencia técnica y capacitación a los grupos sociales organizados a fin de determinar el sistema de cultivo que mejor se adapte a sus localidades y necesidades, así como el tipo de actividad acuícola que les procure mayor bienestar; y,
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2022)</small>
 
-m. Establecer acciones conjuntas para el fortalecimiento de las redes de valor, en coordinación con los diversos comités sistema-producto acuícolas y pesqueros.
+l. Proporcionar asistencia técnica y capacitación a los grupos sociales organizados a fin de determinar el sistema de cultivo que mejor se adapte a sus localidades y necesidades, así como el tipo de actividad acuícola que les procure mayor bienestar;
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2022)</small>
+
+m. Establecer acciones conjuntas para el fortalecimiento de las redes de valor, en coordinación con los diversos comités sistema-producto acuícolas y pesqueros, y
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2022)</small>
+
+n. Establecer, instrumentar e implementar programas estratégicos que garanticen a las y los pescadores un apoyo financiero para el sustento de sus familias, durante los periodos de veda.
 
 IV. Promover el ordenamiento de la pesca y acuacultura e instrumentar servicios de investigación y adaptación al cambio tecnológico;
 
@@ -467,17 +489,21 @@ IV. La investigación en materia de sanidad e inocuidad acuícola y pesquera; y,
 
 V. El Contribuir con las autoridades competentes para el establecimiento de medidas encaminadas a protección de especies pesqueras sobreexplotadas.
 
-### CAPÍTULO IX. Del Programa Estatal de Pesca Responsable y Acuacultura
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+### CAPÍTULO IX. Del Programa Estatal de Desarrollo en Materia de Pesca y Acuacultura
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2022)</small>
 
 ###### Artículo 26.
 
-El Programa Estatal de Pesca Responsable y Acuacultura deberá emitirse en congruencia con el Plan Nacional de Desarrollo, Programa Nacional de Pesca y Acuacultura, Plan Estatal de Desarrollo, así como de aquellos que incidan en el ordenamiento del desarrollo pesquero y acuícola en el Estado. Será autorizado por el Ejecutivo del Estado, previa elaboración y análisis de la Secretaría.
+El Programa Estatal de Desarrollo, en materia de pesca y acuacultura, debe emitirse en congruencia con el Plan Nacional de Desarrollo, Programa Nacional de Pesca y Acuacultura, Plan Estatal de Desarrollo, así como de aquellos que incidan en el ordenamiento del desarrollo pesquero y acuícola en el Estado. Será autorizado por el Ejecutivo del Estado, previa elaboración y análisis de la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2022)</small>
 
 ###### Artículo 27.
 
-El Programa Estatal de Pesca Responsable y Acuacultura, contemplará de manera enunciativa pero no limitativa, los siguientes aspectos:
+El Programa Estatal de Desarrollo en materia de pesca y acuacultura, contemplará de manera enunciativa pero no limitativa, los siguientes aspectos:
 
 I.- El establecimiento de acciones de planeación y programación del desarrollo pesquero y acuícola en la entidad;
 
@@ -497,9 +523,17 @@ VIII.- La promoción de actividades productivas complementarias que generen ingr
 
 IX.- La inclusión de mecanismos que implementen las buenas prácticas en la operación de cultivos acuícolas, capacitación y asistencia técnica integral;
 
-X.- Esquemas de integración de las cadenas productivas y valor agregado; y,
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
 
-XI.- Elaboración de estudios o diagnóstico dinámico de las poblaciones pesqueras.
+X.- Esquemas de integración de las cadenas productivas y valor agregado;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+XI.- Elaboración de estudios o diagnóstico dinámico de las poblaciones pesqueras; y
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+XII.- La inclusión de mecanismos de apoyos financieros para las y los pescadores en los periodos de veda.
 
 ### CAPÍTULO X. Del Sistema Estatal de Información Pesquera y Acuícola
 
@@ -513,7 +547,9 @@ La Secretaría integrará el Sistema Estatal, que tendrá por objeto organizar, 
 
 El Sistema Estatal se integrará con:
 
-I.- El Programa Estatal de Pesca Responsable y Acuacultura;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+I.- El Programa Estatal de Desarrollo en materia de pesca y acuacultura;
 
 II.- La Carta Estatal Pesquera y Acuícola;
 
@@ -567,11 +603,11 @@ VIII.- Las personas físicas que realicen actividades de pesca deportiva a trav�
 
 La Secretaría expedirá el certificado de registro correspondiente. Los Ayuntamiento contribuirán a la integración, actualización y funcionamiento del Registro, en la forma y términos que establezcan las disposiciones reglamentarias.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2022)</small>
 
 ###### Artículo 33.
 
-La Secretaría en forma semestral, remitirá la información del Registro Estatal a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación del gobierno federal, para la actualización del Registro Nacional.
+La Secretaría en forma semestral, remitirá la información del Registro Estatal a la Secretaría de Agricultura y Desarrollo Rural del gobierno federal, para la actualización del Registro Nacional.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
@@ -874,3 +910,13 @@ SEXTO.- El personal de la Secretaría de Desarrollo Económico, que en aplicaci�
 SÉPTIMO.- El Gobierno del Estado deberá hacer las previsiones presupuestales necesarias para la operación el cumplimiento del presente Decreto, para ello la Secretaría de Finanzas y Planeación deberá realizar los ajustes necesarios tendientes a que el presupuesto otorgado a la Secretaría de Desarrollo Económico para el ejercicio fiscal 2017, sea transferido a la Secretaría de Desarrollo Agropecuario, Rural y Pesca, y las previsiones presupuestales en el proyecto de presupuesto de egresos correspondiente al próximo ejercicio fiscal, así como prever lo correspondiente para los ejercicios presupuestales subsecuentes.
 
 OCTAVO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 20 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 220 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PESCA RESPONSABLE Y ACUACULTURA PARA EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 1 de enero de 2023, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. A partir del ejercicio fiscal 2023, el Ejecutivo del Estado de Quintana Roo, incluirá en el Proyecto del Presupuesto de Egresos del Gobierno del Estado de Quintana Roo los recursos necesarios para la ejecución de los programas estratégicos que garanticen a las y los pescadores, un apoyo financiero para su sustento, durante los periodos de veda.
+
+TERCERO. Se derogan las disposiciones legales que contravengan lo establecido en el presente Decreto.
