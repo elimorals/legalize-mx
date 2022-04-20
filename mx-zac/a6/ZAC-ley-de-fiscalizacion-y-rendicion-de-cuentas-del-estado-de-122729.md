@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12272
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-15"
-last_updated: "2017-07-15"
+last_updated: "2022-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122729&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2022.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio del 2017.
 
@@ -39,7 +39,7 @@ DECRETA
 
 RESULTANDOS
 
-[…]
+[...]
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE ZACATECAS
 
@@ -64,6 +64,10 @@ V. Establecer las bases para la organización, competencia, atribuciones y funci
 VI. Conocer, investigar y substanciar la comisión de faltas administrativas que detecte en sus funciones de fiscalización en términos de esta Ley y la Ley General de Responsabilidades Administrativas.
 
 Para efectos de este artículo, la Auditoría Superior del Estado podrá fiscalizar las operaciones que involucren recursos públicos a través de contrataciones, subsidios, transferencias, donativos, fideicomisos, fondos, mandatos, asociaciones público-privadas o cualquier otra figura jurídica y el otorgamiento de garantías sobre empréstitos del Estado y Municipios, entre otras operaciones.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2022)</small>
+
+Para el ejercicio de sus atribuciones la Auditoría Superior del Estado podrá utilizar medios electrónicos en cualquiera de sus funciones.
 
 ###### Artículo 2.
 
@@ -95,9 +99,15 @@ VI. Auditoría del desempeño: Evaluación de una actividad institucional que ti
 
 VII. Auditoría Superior del Estado: Es la Entidad de Fiscalización de la Legislatura del Estado con autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Zacatecas, la presente Ley y otros ordenamientos aplicables;
 
-VIII. Autonomía de gestión: La facultad de la Auditoría Superior del Estado para decidir sobre su organización interna, estructura y funcionamiento, así como la administración de sus recursos humanos, materiales y financieros que utilice para la ejecución de sus atribuciones;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+VIII. Autonomía de gestión: La facultad de la Auditoría Superior del Estado para decidir sobre su organización interna, estructura, funcionamiento y resoluciones, así como la administración de sus recursos humanos, materiales y financieros que utilice para la ejecución de sus atribuciones;
 
 IX. Autonomía técnica: La facultad de la Auditoría Superior del Estado para resolver sobre la planeación, programación, ejecución, informe y seguimiento en el proceso de la fiscalización superior;
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+IX Bis. Buzón Digital: Plataforma tecnológica de comunicación bidireccional entre la Auditoría Superior del Estado y los Entes Públicos y las Entidades fiscalizadas, que funciona en los términos del Reglamento y otras disposiciones emitidas por la Auditoría Superior del Estado;
 
 X. Citaciones: Solicitud que se formula a las personas físicas y morales, públicas o privadas, para que se presenten en el lugar, fecha y hora que señale la Auditoría Superior del Estado en el ejercicio de sus funciones de investigación y revisión;
 
@@ -403,7 +413,9 @@ XI. Contratar auditores externos y requerir a los mismos copia de los informes y
 
 XII. Requerir a terceros que hubieran contratado con las Entidades fiscalizadas obra pública, bienes o servicios mediante cualquier título legal y a cualquier entidad o persona física o moral, pública o privada, o aquellas que hayan sido subcontratados por terceros, la información relacionada con la documentación justificativa y comprobatoria del ejercicio de recursos públicos, incluyendo aquella que demuestre la existencia de la operación, la entrega del bien o servicio, la compra-venta, el precio, las especificaciones técnicas, entre otros, por medio de la realización de las compulsas correspondientes;
 
-XIII. Solicitar, obtener y tener acceso a toda la información y documentación, que a juicio de la Auditoría Superior del Estado sea necesaria para llevar a cabo la auditoría correspondiente, sin importar el carácter de confidencial o reservado de la misma, que obren en poder de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ABRIL DE 2022)</small>
+
+XIII. Solicitar, obtener y tener acceso a toda la información y documentación, a través de medios físicos o electrónicos mediante herramientas tecnológicas, que a juicio de la Auditoría Superior del Estado sea necesaria para llevar a cabo la auditoría correspondiente, sin importar el carácter de confidencial o reservado de la misma, que obren en poder de:
 
 a) Las Entidades fiscalizadas;
 
@@ -478,6 +490,42 @@ XXXVII. Solicitar a terceros la información de precios, características de pro
 XXXVIII. La Auditoría Superior del Estado fiscalizará las participaciones federales conforme a la facultad establecida en los artículos 79 fracción I, 115 fracción IV y 116 fracción II de la Constitución Política de los Estados Unidos Mexicanos, y 71 fracción II de la Constitución del Estado Libre y Soberano de Zacatecas, conforme a su Programa Anual de Auditoría, y
 
 XXXIX. Las demás que les sean conferidas por esta Ley o cualquier otro ordenamiento.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2022)</small>
+
+###### Artículo 29 Bis.
+
+Los procesos de fiscalización a que hace referencia esta Ley, podrán ser realizados por la Auditoría Superior del Estado de manera presencial o por medios electrónicos a través de las herramientas tecnológicas y de conformidad con el reglamento.
+
+La Auditoría Superior del Estado contará con un buzón digital, a través del cual, de manera enunciativa más no limitativa, realizará la notificación de solicitudes de información preliminar, órdenes de auditoría, e informes individuales que contengan acciones, previsiones o recomendaciones, así como, en su caso, cualquier acto que se emita, los cuales constarán en documentos digitales.
+
+Las Entidades fiscalizadas presentarán solicitudes o darán atención a requerimientos de información de la Auditoría Superior del Estado a través de documentos o archivos digitales certificados enviados a través del buzón digital o celebrarán los actos que se requieran dentro del proceso de fiscalización superior.
+
+Los procesos de fiscalización que se realicen a través de medios electrónicos mediante las herramientas tecnológicas constarán en expedientes electrónicos o digitales.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2022)</small>
+
+###### Artículo 29 Ter.
+
+Las disposiciones relativas a la auditoría presencial le serán aplicables, en lo conducente, a la auditoría realizada a través de medios digitales o electrónicos, sin perjuicio de que de manera particular se esté a lo siguiente:
+
+I. Previo al inicio de la auditoría por medios digitales la Auditoría Superior del Estado requerirá por escrito a la Entidad fiscalizada, el nombre, cargo, registro federal de contribuyentes y correo o dirección electrónica del servidor público que fungirá como enlace o coordinador para la atención de la auditoría;
+
+II. Una vez recibida la información a que hace referencia la fracción anterior, la Auditoría Superior del Estado enviará por única ocasión, al correo o dirección electrónica designada, un aviso de confirmación que servirá para corroborar la autenticidad y correcto funcionamiento de éste;
+
+III. Los servidores públicos de la Entidad fiscalizada que se encuentren autorizados para tal efecto harán uso del buzón digital para el desahogo de la auditoría por medios electrónicos o digitales, y deberán consultarlo a más tardar dentro de los dos días hábiles siguientes a aquél en que reciban un aviso electrónico enviado por la Auditoría Superior del Estado;
+
+IV. Las notificaciones digitales, se tendrán por realizadas cuando se genere el acuse de recibo digital de notificación del acto de autoridad de que se trate, en el que se hará constar la fecha y hora en que recibe el servidor público de la Entidad fiscalizada, se autenticó para abrir el documento a notificar, o bien, se tuvo por notificado;
+
+V. Ante la falta de consulta de la notificación digital, ésta se tendrá por realizada al tercer día hábil siguiente, contado a partir del día en que fue enviado el referido aviso. Será responsabilidad de las Entidades fiscalizadas mantener vigente la cuenta de correo electrónico señalada para efectos de notificación de los actos derivados de la auditoría por medios electrónicos o digitales.
+
+En caso de que la Entidad fiscalizada cambie la cuenta de correo electrónico, deberán notificarlo a la Auditoría Superior del Estado dentro de los cinco días hábiles siguientes a dicho cambio;
+
+VI. En los documentos electrónicos o digitales, la firma electrónica avanzada amparada por un certificado vigente sustituirá a la firma autógrafa del firmante, garantizará la integridad del documento y producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio;
+
+VII. Cuando la Auditoría Superior del Estado por caso fortuito o fuerza mayor, se vea impedida para continuar con la auditoría por medios digitales o electrónicos, ésta se suspenderá hasta que la causa desaparezca, lo cual se deberá publicar en la página de internet de la Auditoría Superior acompañada de la fundamentación y motivación correspondiente.
+
+En caso de que la auditoría pueda continuar por la vía presencial, ésta se cambiará de modalidad para cumplir con el mandato constitucional en tiempo y forma. En el mismo sentido, el cambio de una auditoría presencial a una digital podrá realizarse en cualquier tiempo fundando y motivando debidamente la determinación.
 
 ###### Artículo 30.
 
@@ -613,9 +661,11 @@ Los términos fijados por periodos y aquellos en que se señale una fecha determ
 
 Si el último día del plazo o en la fecha determinada, las oficinas ante las que se vaya a hacer el trámite permanecen cerradas durante el horario de labores, se prorrogará el plazo hasta el siguiente día hábil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2022)</small>
+
 ###### Artículo 53.
 
-Se notificarán personalmente o por correo certificado con acuse de recibo:
+Se notificarán personalmente, por medios electrónicos o por correo certificado con acuse de recibo:
 
 I. Los requerimientos a aquellos que deban cumplirlos;
 
@@ -635,11 +685,15 @@ VIII. La imposición de las multas.
 
 Por medio de edictos en el caso de la fracción IV, cuando la persona a quien deba notificarse hubiese desaparecido, se ignore su domicilio o se encuentre fuera del Estado.
 
-Las notificaciones a los Entes Públicos se harán por oficio y serán válidas con el sello de recibido, podrán realizarse mediante correo certificado con acuse de recibo.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2022)</small>
+
+Los oficios dirigidos a los Entes Públicos se considerarán notificados cuando en ellos conste el sello de recibido del ente público destinatario o bien cuando conste el acuse de recibido con firma autógrafa de quien recibe o firma electrónica avanzada si fueron enviados por correo certificado con acuse de recibo o por medios electrónicos, respectivamente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2022)</small>
 
 ###### Artículo 54.
 
-Los actos no contemplados en el artículo anterior, exceptuando los actos del procedimiento de revisión y fiscalización que se sujetarán a las disposiciones previstas dentro de esta Ley, serán notificados mediante lista que se fije en los Estrados.
+Los actos no contemplados en el artículo anterior, exceptuando los actos del procedimiento de revisión y fiscalización que se sujetarán a las disposiciones previstas dentro de esta Ley, serán notificados mediante lista que se fije en los Estrados o en los medios electrónicos que la Auditoría Superior del Estado, establezca de conformidad con el Reglamento que para tal efecto emita.
 
 La notificación mediante lista se realizará dejando fijo en los Estrados de la Auditoría Superior del Estado, ubicados en un área de acceso al público, una copia del documento a notificar, levantando una razón en autos para hacer constar la fecha y hora en que se fijó la lista y la copia del documento.
 
@@ -659,6 +713,10 @@ En el momento de la notificación se entregará al notificado o a la persona con
 
 De las diligencias en que se realice la notificación, el notificador levantará en forma circunstanciada la cédula de notificación.
 
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2022)</small>
+
+La notificación por medios electrónicos para su validez deberá realizarse conforme a lo dispuesto en los artículos 29 Bis y 29 Ter de la presente Ley.
+
 ###### Artículo 57.
 
 Las notificaciones por edictos se realizarán por tres veces consecutivas en el Periódico Oficial, Órgano de Gobierno del Estado y en uno de los de mayor circulación en el Estado, en este último, con intervalos de tres días entre las publicaciones.
@@ -669,9 +727,27 @@ Las notificaciones surtirán efectos al día siguiente en que fueron hechas.
 
 La notificación de la orden de auditoría surtirá efectos en la misma fecha de entrega a la Entidad Fiscalizada.
 
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2022)</small>
+
+###### Artículo 58 Bis.
+
+Las notificaciones por medios electrónicos deberán cumplir con lo dispuesto en la Ley de Firma Electrónica del Estado de Zacatecas, garantizando que las firmas electrónicas que se utilicen cumplan con las características de autenticidad, integridad, no repudio y confidencialidad.
+
+Para los efectos del párrafo anterior, la Auditoría Superior del Estado será la autoridad certificadora del Poder Legislativo.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2022)</small>
+
+###### Artículo 58 Ter.
+
+Las copias, impresiones o reproducciones que deriven del microfilm, disco óptico, medios magnéticos, digitales, electrónicos o magneto ópticos de documentos que tenga en su poder la Auditoría Superior del Estado, tienen el mismo valor probatorio que los originales, siempre que dichas copias, impresiones o reproducciones sean certificadas por servidor público competente, sin necesidad de cotejo con los originales. Asimismo, se presumirá como cierta la información contenida en las bases de datos que contengan, las que obren en su poder o a las que tengan acceso.
+
 ###### Artículo 59.
 
 La manifestación de conocer el acto o resolución que haga la persona a quien va dirigida la notificación o su representante legal, surtirá efectos de notificación en forma, desde la fecha en que manifieste haber tenido tal conocimiento, si ésta es anterior a aquélla en que debiera surtir efectos la notificación, de acuerdo con el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2022)</small>
+
+Cuando los servidores públicos adscritos a las Entidades fiscalizadas no acudan a las citaciones efectuadas por la Auditoría Superior del Estado, dicha circunstancia se asentará en el acta que se levante, sin que esto afecte la validez y valor probatorio de la diligencia que se practique.
 
 ### CAPÍTULO IV. DE LOS INFORMES INDIVIDUALES
 
@@ -849,7 +925,9 @@ Las denuncias podrán presentarse ante la Legislatura del Estado o directamente 
 
 Las denuncias que se presenten deberán estar fundadas con documentos y evidencias mediante los cuales se presuma el manejo, aplicación o custodia irregular de recursos públicos o de su desvío, en los supuestos establecidos en esta Ley.
 
-El escrito de denuncia deberá contar, como mínimo, con los siguientes elementos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ABRIL DE 2022)</small>
+
+El escrito de denuncia podrá presentarse de forma presencial o a través de medios electrónicos y deberá contar, como mínimo, con los siguientes elementos:
 
 I. El ejercicio en que se presentan los presuntos hechos irregulares, y
 
@@ -872,6 +950,10 @@ IV. La comisión recurrente de irregularidades en el ejercicio de los recursos p
 V. Inconsistencia en la información financiera o programática de cualquier entidad fiscalizada que oculte o pueda originar daños o perjuicios a su patrimonio.
 
 La Auditoría Superior del Estado informará al denunciante la resolución que tome sobre la procedencia de iniciar la revisión correspondiente.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2022)</small>
+
+En el caso de las denuncias a través de medios electrónicos, la respuesta se realizará por el mismo medio de conformidad con las disposiciones aplicables.
 
 ###### Artículo 76.
 
@@ -1113,7 +1195,11 @@ III. Administrar los bienes y recursos a cargo de la Auditoría Superior del Est
 
 IV. Aprobar, modificar y publicar en el Periódico Oficial, Órgano del Gobierno del Estado, el Programa Anual de Auditoría de la entidad a su cargo, y hacerlo del conocimiento a la Comisión;
 
-V. Expedir de conformidad con lo establecido en esta Ley y hacerlo del conocimiento a la Comisión, el Reglamento Interior de la Auditoría Superior del Estado, en el que se distribuirán las atribuciones a sus unidades administrativas y sus titulares, así como todo lo concerniente a la organización y funcionamiento del órgano a su cargo, y publicarlo en el Periódico Oficial, Órgano del Gobierno del Estado;
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2022)</small>
+
+V. Expedir de conformidad con lo establecido en esta Ley y hacerlo del conocimiento a la Comisión, el Reglamento Interior de la Auditoría Superior del Estado, en el que se distribuirán las atribuciones a sus unidades administrativas y sus titulares, así como todo lo concerniente a la organización y funcionamiento del órgano a su cargo, y publicarlo en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Asimismo, expedir el Reglamento aplicable a los procesos de fiscalización superior por medios electrónicos, así como la normatividad relativa a los protocolos de seguridad que para tal efecto se implementen. La información y documentación así obtenida, tendrá pleno valor probatorio;
 
 VI. Expedir los manuales de organización y procedimientos que se requieran para la debida organización y funcionamiento de la Auditoría Superior del Estado, mismos que deberán ser publicados en el Periódico Oficial, Órgano del Gobierno del Estado;
 
@@ -1328,3 +1414,21 @@ DADO en la Sala de Sesiones de la Honorable Sexagésima Segunda Legislatura del 
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 Dado en el despacho del Poder Ejecutivo del Estado, a los catorce días del mes de julio del año dos mil diecisiete. GOBERNADOR DEL ESTADO DE ZACATECAS.- ALEJANDRO TELLO CRISTERNA. SECRETARIA GENERAL DE GOBIERNO.- FABIOLA GILDA TORRES RODRÍGUEZ. Rubricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 809.- SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE ZACATECAS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente en que entre en vigor el Decreto número 766 mediante el cual se reforma el artículo 71 de la Constitución Política del Estado Libre y Soberano de Zacatecas.
+
+Segundo. Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto, la Auditoría Superior del Estado expedirá el reglamento y otras normas aplicables a los procesos de fiscalización superior por medios electrónicos, así como la normatividad relativa al buzón digital.
+
+En ese mismo plazo, se modificará el Reglamento Interior de la Auditoría Superior del Estado, para armonizarlo a este Decreto.
+
+Tercero. La Auditoría Superior del Estado implementará un proceso de capacitación para sus servidores públicos, así como para los Entes Públicos, con el objeto de que los procesos de fiscalización superior por medios electrónicos, se realicen de forma eficiente.
+
+Cuarto. En el Presupuesto de Egresos del Estado de Zacatecas para el Ejercicio Fiscal 2022, el Poder Legislativo establecerá los recursos necesarios para el desarrollo del proceso de fiscalización superior por medios electrónicos.
+
+Quinto. Se derogan las disposiciones que contravengan este decreto.
