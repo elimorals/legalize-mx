@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-42844
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2022-03-28"
+last_updated: "2022-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de enero de 2005.
 
@@ -117,9 +117,9 @@ d) En situación de riesgo o desamparo: cuando por problemas de salud, abandono,
 
 e) Pensionados: cuando en virtud de un sistema de seguridad social, tengan otorgada pensión.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
 
-XI. Violencia contra las Personas Adultas Mayores: Cualquier acción u omisión que le cause daño o sufrimiento, psicológico, físico, sexual, patrimonial o económico.
+XI. Violencia contra las Personas Adultas Mayores: Cualquier acción u omisión que le cause daño o sufrimiento, psicoemocional, físico, sexual, patrimonial o económico.
 
 > <small>(ADICIONADO, P.O. 3 DE MAYO DE 2019)</small>
 
@@ -127,15 +127,25 @@ XI. Violencia contra las Personas Adultas Mayores: Cualquier acción u omisión 
 
 Los tipos de violencia contra las Personas Adultas Mayores son:
 
-I.- Violencia Psicológica: El trastorno mental que provoque modificaciones a la personalidad, o a la conducta, o ambas, resultante de la agresión;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
 
-II.- Violencia Física: El acto que causa daño corporal no accidental a la víctima, usando la fuerza física o algún otro medio que pueda provocar o no lesiones, ya sean internas o externas o ambas, en base al dictamen emitido por los especialistas en la materia;
+I.- Violencia psicoemocional: Toda acción u omisión que puede consistir en prohibiciones, coacciones, condicionamientos, intimidaciones, insultos, amenazas, desdén, indiferencia, descuido reiterado, chantaje, humillaciones, comparaciones destructivas abandono o actitudes devaluatorias, entre otras; que provoquen en la persona adulta mayor, alteración autocognitiva y autovalorativa o alteraciones en alguna esfera o área de su estructura psíquica;
 
-III.- Violencia Sexual: el acto que degrada o daña la sexualidad de la víctima; atentando contra su libertad, dignidad e integridad física configurando una expresión de abuso de poder que presupone la supremacía del agresor sobre la víctima, denigrándola y considerándola como de menor valía o como objeto; en base del dictamen emitido por los especialistas en la materia;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
 
-IV.- Violencia Patrimonial: La acción u omisión que daña intencionalmente el patrimonio o afecta la supervivencia de la víctima; puede consistir en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes, valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar daños a bienes individuales y comunes;
+II.- La violencia física: Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas o ambas, en base al dictamen emitido por los especialistas en la materia;
 
-V.- Violencia Económica: es toda acción u omisión del agresor que controle o este encaminada a controlar u ocultar el ingreso de sus percepciones económica (sic) o de la víctima.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+III.- La violencia sexual: Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física, configurando una expresión de abuso de poder que presupone la supremacía del agresor sobre la víctima, denigrándola y considerándola como de menor valía o como objeto; en base del dictamen emitido por los especialistas en la materia;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+IV.- La violencia patrimonial: Es cualquier acto u omisión que afecta intencionalmente la supervivencia o el patrimonio de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima; hecha excepción de que medie acto de autoridad fundado o motivado;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+V.- La violencia económica: Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral; y
 
 > <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
 
@@ -561,35 +571,75 @@ Para el cumplimiento de su objeto el Instituto tendrá las siguientes facultades
 
 I. Proponer y ejecutar políticas públicas a favor de las personas adultas mayores;
 
-II. Impulsar las acciones que promuevan el desarrollo humano integral de las personas adultas mayores, coadyuvando para que sus capacidades sean valoradas y aprovechadas en el desarrollo comunitario, económico y social del Estado, en coordinación con las demás dependencias y entidades Públicas Estatales;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ABRIL DE 2022)</small>
 
-III. Empoderar a las personas adultas mayores a fin de que participen en las acciones orientadas a su bienestar y desarrollo;
+II. Establecer dentro de su programa anual de trabajo, acciones enfocadas a la prevención, detección y erradicación de cualquier tipo de violencia en contra de las personas adultas mayores;
 
-IV. Promover los derechos de las personas adultas mayores, en coordinación con el Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ABRIL DE 2022)</small>
 
-V. Promover la inclusión laboral de las personas adultas mayores en conjunto con la Secretaría de Economía y Trabajo del Estado;
+III. Crear campañas y acciones concretas de sensibilización e información, sobre las diversas formas de violencia en contra de las personas adultas mayores a fin de identificar, prevenir y concientizar a la sociedad acerca del derecho de las personas adultas mayores a vivir una vida libre de violencia;
 
-VI. Promover los beneficios que ofrece la credencial del Instituto Nacional para las Personas Adultas Mayores (INAPAM);
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ABRIL DE 2022)</small>
 
-VII. Coadyuvar en el diseño de programas de prevención y protección, que contribuyan a brindar una mejor atención a las personas adultas mayores, en coordinación con las demás dependencias y entidades Públicas Estatales;
+IV. Brindar asesoría jurídica y asistencia psicológica interdisciplinaria, de manera gratuita para los adultos mayores víctimas de violencia y maltrato;
 
-VIII. Impulsar la realización de investigaciones y publicaciones sobre temas gerontológicos y geriátricos; así como elaborar y mantener actualizado el diagnóstico sobre las problemáticas y necesidades de las personas adultas mayores;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ABRIL DE 2022)</small>
 
-IX. Fungir como órgano de consulta y asesoría para las instituciones públicas y privadas que realicen acciones o programas relacionados con las personas adultas mayores;
+V. Remitir a las autoridades correspondientes cualquier denuncia de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y, en general, cualquier acto que perjudique a los adultos mayores;
 
-X. Convocar a las dependencias y entidades de las administraciones públicas estatal y municipales, así como a personas físicas y morales, a efecto de que formulen propuestas y opiniones respecto de las políticas, programas y acciones de atención en la materia y en el programa de trabajo del Instituto;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE ABRIL DE 2022)</small>
 
-XI. Impulsar la creación de institutos municipales de atención a las personas adultas mayores;
+VI. Impulsar las acciones que promuevan el desarrollo humano integral de las personas adultas mayores, coadyuvando para que sus capacidades sean valoradas y aprovechadas en el desarrollo comunitario, económico y social del Estado, en coordinación con las demás dependencias y entidades Públicas Estatales;
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE ABRIL DE 2022)</small>
 
-XII. Impulsar y promover en el Estado la creación de centros de atención Gerontológica y Geriátrica;
+VII. Empoderar a las personas adultas mayores a fin de que participen en las acciones orientadas a su bienestar y desarrollo;
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE ABRIL DE 2022)</small>
 
-XIII. Celebrar convenios, contratos, acuerdos y todo tipo de actos jurídicos que sean necesarios para el cumplimiento de su objeto; y
+VIII. Promover los derechos de las personas adultas mayores, en coordinación con el Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE ABRIL DE 2022)</small>
+
+IX. Promover la inclusión laboral de las personas adultas mayores en conjunto con la Secretaría de Economía y Trabajo del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE ABRIL DE 2022)</small>
+
+X. Promover los beneficios que ofrece la credencial del Instituto Nacional para las Personas Adultas Mayores (INAPAM);
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE ABRIL DE 2022)</small>
+
+XI. Coadyuvar en el diseño de programas de prevención y protección, que contribuyan a brindar una mejor atención a las personas adultas mayores, en coordinación con las demás dependencias y entidades Públicas Estatales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE ABRIL DE 2022)</small>
+
+XII. Impulsar la realización de investigaciones y publicaciones sobre temas gerontológicos y geriátricos; así como elaborar y mantener actualizado el diagnóstico sobre las problemáticas y necesidades de las personas adultas mayores;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE ABRIL DE 2022)</small>
+
+XIII. Fungir como órgano de consulta y asesoría para las instituciones públicas y privadas que realicen acciones o programas relacionados con las personas adultas mayores;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE ABRIL DE 2022)</small>
+
+XIV. Convocar a las dependencias y entidades de las administraciones públicas estatal y municipales, así como a personas físicas y morales, a efecto de que formulen propuestas y opiniones respecto de las políticas, programas y acciones de atención en la materia y en el programa de trabajo del Instituto;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE ABRIL DE 2022)</small>
+
+XV. Impulsar la creación de institutos municipales de atención a las personas adultas mayores;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE ABRIL DE 2022)</small>
+
+XVI. Impulsar y promover en el Estado la creación de centros de atención Gerontológica y Geriátrica;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE ABRIL DE 2022)</small>
+
+XVII. Celebrar convenios, contratos, acuerdos y todo tipo de actos jurídicos que sean necesarios para el cumplimiento de su objeto;
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2022)</small>
+
+XVIII. Impulsar y promover la capacitación necesaria sobre el uso de las nuevas tecnologías de la información y comunicación. Para lo anterior, el Instituto podrá crear la Academia Digital para el Adulto Mayor así como la realización de convenios con otras secretarías e instituciones para que dicha capacitación tenga validez oficial; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE ABRIL DE 2022)</small>
 
 XIV. Las demás que establezca esta ley o que sean necesarias para el cumplimiento del objeto del Instituto, y las que establezcan otros ordenamientos jurídicos.
 
@@ -829,9 +879,11 @@ Las Personas Adultas Mayores, tendrán derecho a obtener tarifas preferenciales 
 
 Las tarifas preferenciales a las que las Personas Adultas Mayores tienen derecho, no podrán ser aumentadas por el Poder Ejecutivo del Estado hasta que transcurra por lo menos un periodo de seis años contados a partir de la última modificación.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2022)</small>
+
 ###### Artículo 35.
 
-La Agencia para la Racionalización y Modernización del Sistema de Transporte Público de Nuevo León, promoverá la celebración de convenios de colaboración con los concesionarios para que las unidades de transporte público se adapten a las necesidades de las Personas Adultas Mayores.
+El Instituto de Movilidad y Accesibilidad de Nuevo León, promoverá la celebración de convenios de colaboración con los concesionarios para que las unidades de transporte público se adapten a las necesidades de las Personas Adultas Mayores.
 
 ### CAPÍTULO III. DE LA PROTECCIÓN AL PATRIMONIO, DESCUENTOS, SUBSIDIOS Y PAGO
 
@@ -883,9 +935,11 @@ La Secretaría Desarrollo Social del Estado de Nuevo León, promoverá la celebr
 
 ### CAPÍTULO ÚNICO. DE LA ASISTENCIA SOCIAL
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2022)</small>
+
 ###### Artículo 41.
 
-Toda persona que tenga conocimiento de que una Persona Adulta Mayor se encuentre en situación de riesgo o desamparo podrá pedir que se apliquen de inmediato las medidas necesarias para su protección y atención.
+Toda persona que tenga conocimiento de que una Persona Adulta Mayor se encuentre en situación de riesgo o desamparo dará aviso a la Procuraduría de la Defensa del Adulto Mayor para que ésta a su vez solicite que se apliquen de inmediato las medidas necesarias para su protección y atención.
 
 ###### Artículo 42.
 
@@ -1226,3 +1280,9 @@ P.O. 28 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 103. SE REFORMAN LAS FRACCIONES XI Y XII DEL ARTÍCULO 10; SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 10, Y UN ARTÍCULO 38 BIS, TODOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN".]
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 111. SE REFORMAN LA FRACCIÓN XI DEL ARTÍCULO 3o, LAS FRACCIONES I, II, III, IV Y V DEL ARTÍCULO 3o BIS, LAS FRACCIONES II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII Y XIX DEL ARTÍCULO 24, EL ARTICULO 35 Y 41; Y POR ADICCIÓN (SIC) LAS FRACCIONES XV, XVI, XVII, XVIII Y XIX DEL ARTÍCULO 24, TODOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
