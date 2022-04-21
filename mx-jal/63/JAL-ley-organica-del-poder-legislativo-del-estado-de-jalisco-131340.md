@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-131340
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-11-08"
-last_updated: "2022-02-19"
+last_updated: "2022-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2022.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 8 de noviembre de 2018.
 
@@ -1467,7 +1467,9 @@ IV. Derechos Humanos y Pueblos Originarios;
 
 V. Desarrollo Productivo Regional;
 
-VI. Educación, Cultura y Deporte;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2022)</small>
+
+VI. Educación, Cultura, Deporte y Juventud;
 
 VII. Estudios Legislativos y Reglamentos;
 
@@ -1597,7 +1599,9 @@ IV. Los planes, programas y políticas de apoyo financiero a las actividades par
 
 ###### Artículo 85.
 
-1. Corresponde a la Comisión de Educación, Cultura y Deporte, el conocimiento, estudio y en su caso dictamen de los asuntos relacionados con:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE ABRIL DE 2022)</small>
+
+1. Corresponde a la Comisión de Educación, Cultura, Deporte y Juventud, el conocimiento, estudio y en su caso dictamen de los asuntos relacionados con:
 
 I. La legislación en materia de educación, de promoción de las bellas artes, manifestaciones artísticas, culturales y de patrimonio cultural; de apoyo a la juventud y fomento al deporte; así como de los asuntos relacionados con el Sistema Educativo Estatal;
 
@@ -4042,3 +4046,15 @@ P.O. 19 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28739/LXIII/22 QUE REFORMA EL ARTÍCULO 132 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 21 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28755/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA LA FACCIÓN VI DEL ARTÍCULO 79 Y EL PARRAFO 1 DEL ARTÍCULO 85 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en el periódico oficial "El Estado de Jalisco".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor a partir de su aprobación.
