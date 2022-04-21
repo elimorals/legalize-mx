@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-cementerios-crematorios-y-servicios-156516"
 country: "mx"
 rank: "reglamento"
 publication_date: "2022-03-11"
-last_updated: "2022-03-11"
+last_updated: "2022-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=156516&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2022-03-10"
 ---
 # REGLAMENTO DE CEMENTERIOS, CREMATORIOS Y SERVICIOS FUNERARIOS EN LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE MAYO DE 2022 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 22 DE ABRIL DE 2022 Y EL 6 DE MAYO DE 2022 EN EL NÚMERO 835 BIS, PÁGINAS DE LA 6 A LA 7 Y EL NÚMERO 845 BIS, PÁGINA 7, RESPECTIVAMENTE, EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS.]</small>
 
 REGLAMENTO DE CEMENTERIOS, CREMATORIOS Y SERVICIOS FUNERARIOS EN LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE ABRIL DE 2022.
 
 Reglamento publicado en el No. 808 Bis de la Gaceta Oficial de la Ciudad de México, el viernes 11 de marzo de 2022.
 
@@ -46,19 +46,31 @@ Las disposiciones contenidas en el presente Reglamento son de orden público, in
 
 Los cadáveres y restos humanos, como sujetos de derecho a la memoria, no podrán ser objeto de propiedad y siempre serán tratados con respeto, dignidad y consideración.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE ABRIL DE 2022)</small>
+
 ###### Artículo 2.
 
-El presente Reglamento tiene por objeto regular el establecimiento, funcionamiento, conservación, operación, administración y vigilancia del servicio público de cementerios en cualquiera de sus modalidades, incluyendo los crematorios, así como el funcionamiento y la prestación de servicios funerarios en la Ciudad de México.
+El presente Reglamento tiene por objeto regular el establecimiento, funcionamiento, conservación, operación, administración y vigilancia de los cementerios y crematorios, así como el funcionamiento y la prestación de servicios funerarios en la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 21 DE ABRIL DE 2022)</small>
+
+Se exceptúa de este Reglamento lo relacionado con la operación, administración y cuidados de los cementerios comunitarios.
+
+> <small>(REFORMADO, G.O. 21 DE ABRIL DE 2022)</small>
 
 ###### Artículo 3.
 
-La administración y cuidado de los panteones comunitarios se normará de conformidad con lo establecido en el artículo 59 apartado F numeral 1 de la Constitución Política de la Ciudad de México.
+Los pueblos y barrios originarios y comunidades indígenas residentes tienen derecho a mantener y desarrollar sus sistemas o instituciones políticas, económicas y sociales; a disfrutar de forma segura de sus propios medios de subsistencia y desarrollo; a dedicarse a sus actividades económicas tradicionales y a expresar libremente su identidad cultural, creencias religiosas, rituales, prácticas, costumbres y su propia cosmovisión.
+
+La administración y cuidado de los panteones comunitarios es facultad y responsabilidad de los pueblos y barrios originarios.
+
+> <small>(REFORMADO, G.O. 21 DE ABRIL DE 2022)</small>
 
 ###### Artículo 4.
 
 La aplicación del presente Reglamento corresponde, en el ámbito de su competencia, a la Administración Pública, así como al Tribunal Superior de Justicia y la Fiscalía General de Justicia, todas de la Ciudad de México.
 
-El establecimiento, registro, funcionamiento, conservación y operación de los cementerios constituye un servicio público que comprende las modalidades de inhumación, exhumación, reinhumación, cremación de cadáveres, trituración de restos áridos, alojamiento de restos humanos y/o restos humanos áridos o cremados y demás tecnologías que tengan por finalidad la modificación de los restos humanos y/o restos humanos áridos.
+El establecimiento, registro, funcionamiento, conservación y operación de los cementerios constituye un servicio público. El servicio público de cementerios comprende las modalidades de inhumación, exhumación, reinhumación, cremación de cadáveres, trituración de restos áridos, alojamiento de restos humanos y/o restos humanos áridos o cremados.
 
 El control sanitario de los cementerios, en cualquiera de sus modalidades y sin perjuicio de la intervención sobre la materia, compete a las Secretarías de Salud, tanto local como federal, en términos de la Ley General de Salud, la Ley de Salud de la Ciudad de México y demás normativa aplicable.
 
@@ -178,6 +190,10 @@ XLVI. Policía de Investigación: cuerpos de Policía especializados en la inves
 
 XLVII. Prestadores de servicios externos: persona física que presta sus servicios en los cementerios civiles de forma ocasional, mediante una remuneración, sin que exista entre ésta y el Gobierno de la Ciudad de México o las alcaldías, relación obrero patronal regulada en la Ley Federal del Trabajo;
 
+> <small>(ADICIONADA, G.O. 21 DE ABRIL DE 2022)</small>
+
+XLVII bis. Pueblos y barrios originarios: son aquellos que descienden de poblaciones asentadas en el territorio actual de la Ciudad de México desde antes de la colonización y del establecimiento de las fronteras actuales y que conservan sus propias instituciones sociales, económicas, culturales y políticas, sistemas normativos propios, tradición histórica, territorialidad y cosmovisión, o parte de ellas;
+
 XLVIII. Reglamento: Reglamento de Cementerios, Crematorios y Servicios Funerarios en la Ciudad de México;
 
 XLIX. Reinhumación: procedimiento consistente en sepultar restos humanos o restos humanos áridos previamente exhumados;
@@ -206,7 +222,9 @@ LX. Servicios Funerarios: servicios prestados por personas físicas o morales, d
 
 LXI. Sistema: Sistema de Registro de Cementerios, Crematorios y Servicios Funerarios de la Ciudad de México;
 
-LXII. Traslado: transportación de un cadáver, restos humanos o restos áridos o cremados de la Ciudad de México a cualquier parte de la República o del extranjero, previa autorización de la Agencia de Protección Sanitaria;
+> <small>(REFORMADA, G.O. 21 DE ABRIL DE 2022)</small>
+
+LXII. Traslado: transportación de un cadáver, restos humanos o restos áridos o cremados dentro del territorio de la Ciudad de México o de la misma a cualquier parte de la República o del extranjero, previa autorización de la Agencia de Protección Sanitaria;
 
 LXIII. Ventanilla virtual de denuncias: portal oficial de internet, cuya finalidad es que la ciudadanía pueda interponer denuncia ante el órgano interno de control de la alcaldía, por la operación y servicios que brinden los cementerios civiles; y
 
@@ -424,7 +442,9 @@ La Secretaría de Administración, a través de la Dirección General de Adminis
 
 La Contraloría deberá difundir en todos los cementerios civiles la Ventanilla virtual de denuncias, así como resolver las denuncias recibidas.
 
-### CAPÍTULO III. ADMINISTRACIÓN Y VIGILANCIA DE LOS CEMENTERIOS EN CUALQUIERA DE SUS MODALIDADES
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 21 DE ABRIL DE 2022)</small>
+
+### CAPÍTULO III. ADMINISTRACIÓN Y VIGILANCIA DE LOS CEMENTERIOS
 
 ###### Artículo 22.
 
@@ -436,9 +456,11 @@ II. Comunitarios: aquellos cuya operación, administración y mantenimiento corr
 
 III. Concesionados: aquellos que son administrados por personas físicas o morales del sector privado, de nacionalidad mexicana, de acuerdo con las bases establecidas en el título de concesión, las disposiciones de la Ley del Régimen Patrimonial y del Servicio Público y este Reglamento.
 
+> <small>(REFORMADO, G.O. 21 DE ABRIL DE 2022)</small>
+
 ###### Artículo 23.
 
-En los cementerios civiles, comunitarios y concesionados, dependiendo del alcance de su autorización, se llevarán a cabo las inhumaciónes de cadáveres, restos humanos, restos humanos áridos o cremados y permanencia de restos humanos cumplidos, sin importar su procedencia.
+En los cementerios civiles, comunitarios y concesionados, dependiendo del alcance de su autorización, se llevarán a cabo las inhumaciónes de cadáveres, restos humanos, restos humanos áridos o cremados y permanencia de restos humanos cumplidos.
 
 Los cementerios históricos o artísticos serán aquellos que, siendo civiles o concesionados, han sido clasificados así por la autoridad federal competente en función a los valores afectos al patrimonio cultural de la Nación.
 
@@ -574,9 +596,13 @@ II. Nombre y domicilio de la persona finada;
 
 III. Edad, sexo y nacionalidad de la persona finada;
 
-IV. Huella digital del cadáver y/o cualquier otra seña particular que le haga identificable;
+> <small>(REFORMADA, G.O. 21 DE ABRIL DE 2022)</small>
 
-V. Número de folio del acta de defunción emitida por el Registro Civil;
+IV. Huella digital del cadáver y/o cualquier otra seña particular que le haga identificable por el médico certificante de la defunción, que cuente con cédula profesional;
+
+> <small>(REFORMADA, G.O. 21 DE ABRIL DE 2022)</small>
+
+V. Número de folio del certificado de defunción emitido por el médico certificante de la defunción, que cuente con cédula profesional;
 
 VI. Causa de fallecimiento y número de certificado médico de defunción;
 
@@ -600,13 +626,21 @@ I. Nombre y firma de la persona que realiza la cremación;
 
 II. Nombre de la persona finada que será cremada;
 
-III. Huella digital del cadáver y/o cualquier otra seña particular que le haga identificable;
+> <small>(REFORMADA, G.O. 21 DE ABRIL DE 2022)</small>
 
-IV. Número de folio del acta de defunción emitida por el Registro Civil;
+III. Huella digital del cadáver y/o cualquier otra seña particular que le haga identificable por el médico certificante;
 
-V. Causa de fallecimiento y número del certificado médico de defunción;
+> <small>(REFORMADA, G.O. 21 DE ABRIL DE 2022)</small>
 
-VI. Número de la Boleta de Inhumación;
+IV. Número de folio del certificado de defunción emitido por el médico certificante de la defunción, que cuente con cédula profesional;
+
+> <small>(REFORMADA, G.O. 21 DE ABRIL DE 2022)</small>
+
+V. Causa de fallecimiento descrita en el certificado médico de defunción;
+
+> <small>(REFORMADA, G.O. 21 DE ABRIL DE 2022)</small>
+
+VI. Número de la Boleta de cremación;
 
 VII. Edad, género, estado civil, fecha de nacimiento, en su caso, profesión y domicilio exacto del lugar del fallecimiento;
 
@@ -752,7 +786,9 @@ V. INVEA.
 
 Asimismo, podrán asistir como invitados, representantes de las demás dependencias, órganos y entidades que componen la Administración Pública Centralizada y Paraestatal local.
 
-Con la finalidad de escuchar a los actores involucrados en el establecimiento, funcionamiento, conservación, operación y vigilancia tanto del servicio público de cementerios, como de servicios funerarios, se podrá invitar a representantes de las asociaciones civiles, asociaciones religiosas y empresas interesadas en exponer las problemáticas que desean someter ante la Comisión; cuya participación será honorífica.
+> <small>(REFORMADO, G.O. 21 DE ABRIL DE 2022)</small>
+
+Con la finalidad de escuchar a los actores involucrados en el establecimiento, funcionamiento, conservación, operación y vigilancia tanto del servicio público de cementerios, como de servicios funerarios, se podrá invitar a representantes de los pueblos y barrios originarios, de las asociaciones civiles, asociaciones religiosas y empresas interesadas en exponer las problemáticas que desean someter ante la Comisión; cuya participación será honorífica.
 
 ###### Artículo 42.
 
@@ -796,9 +832,11 @@ En el caso de cementerios, en cualquiera de sus modalidades, que cuenten con vel
 
 Para eficientar la prestación del servicio público de cementerios, los custodios deberán proporcionar datos de su identidad, domicilio y teléfono, para que sea ingresados en el Sistema, bajo el apercibimiento de que, en caso de no hacerlo, se le notificará por la vía que establezca la autoridad, tales como estrados de los cementerios o medios digitales autorizados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE ABRIL DE 2022)</small>
+
 ###### Artículo 48.
 
-La prestación del servicio de inhumaciones, exhumaciones cremaciones y alojamiento de restos cremados en columbario, en cementerios públicos se desarrollará de las 8:00 a las 15:00 horas de lunes a domingo. Los cementerios concesionados serán de acuerdo con los lineamientos aprobados en el manual operativo Dichos horarios podrán modificarse en caso de emergencias sanitarias u otro evento extraordinario, cuya determinación será notificada a la Dirección General.
+La prestación del servicio de inhumaciones, exhumaciones cremaciones y alojamiento de restos cremados en columbario, en cementerios civiles se desarrollará de las 8:00 a las 15:00 horas de lunes a domingo o, en su caso, de conformidad con lo establecido en el Manual de Operación. Los cementerios concesionados serán de acuerdo con los lineamientos aprobados en el manual operativo Dichos horarios podrán modificarse en caso de emergencias sanitarias u otro evento extraordinario, cuya determinación será notificada a la Dirección General.
 
 Ninguna persona ajena a la oficina de panteones podrá permanecer dentro de los cementerios en horarios distintos al establecido en el presente ordenamiento, de violarse esta disposición, se hará de conocimiento inmediato a las autoridades correspondientes para proceder conforme a derecho. Lo anterior, a excepción de mandato por autoridad competente.
 
@@ -912,9 +950,13 @@ En los procedimientos de inhumación o cremación prestados por las Alcaldías y
 
 I. El personal administrativo verificará los documentos presentados, consistentes en:
 
-a) Acta de Defunción y Boleta de inhumación o cremación, expedidas por la persona Juzgadora del Registro Civil;
+> <small>(REFORMADO, G.O. 21 DE ABRIL DE 2022)</small>
 
-b) Permiso sanitario, expedido por la Agencia de Protección Sanitaria;
+a) Certificado de Defunción y Boleta del Registro Civil;
+
+> <small>(REFORMADO, G.O. 21 DE ABRIL DE 2022)</small>
+
+b) Permiso sanitario, expedido por la Agencia de Protección Sanitaria, dentro de las 48 horas siguientes a la muerte de la persona o posterior a las 48 horas de la defunción, previa presentación de la respectiva tesis de embalsamiento.
 
 c) Documentos que acrediten la titularidad de la fosa donde se pretende efectuar la inhumación;
 
@@ -1034,9 +1076,11 @@ III. Sistema de disposición de residuos líquidos: sistemas sanitarios adecuado
 
 IV. Sistema de servicios públicos: garantizar el suministro continuo de agua para consumo humano, así como contar con tanques de almacenamiento, energía eléctrica y servicios sanitarios. En caso de suministrar agua para lavado y riego de las tumbas y osarios ésta contará con una señalización visible e inequívoca que contenga la advertencia “No apta para consumo humano”.
 
+> <small>(REFORMADO, G.O. 21 DE ABRIL DE 2022)</small>
+
 ###### Artículo 71.
 
-Las bardas circundantes de de (sic) los cementerios, deberá ser de, al menos, 2 metros de altura, asimismo, para realizar cualquier obra dentro de los cementerios, las Alcaldías deberán presentar ante la Dirección General los permisos y autorizaciones establecidos en el Reglamento de Construcciones vigente en la Ciudad de México y demás disposiciones aplicables.
+Las bardas circundantes de de (sic) los cementerios, deberá ser de, al menos, 2 metros y medio de altura, asimismo, para realizar cualquier obra dentro de los cementerios, las Alcaldías deberán presentar ante la Dirección General los permisos y autorizaciones establecidos en el Reglamento de Construcciones vigente en la Ciudad de México y demás disposiciones aplicables.
 
 ###### Artículo 72.
 
@@ -1262,9 +1306,13 @@ Todo el público podrá tener acceso al cementerio dentro de los horarios autori
 
 Tanto las alcaldías como los concesionarios que presten el servicio público de cementerios, deberá mantener pavimentadas las vías internas de circulación de peatones, vehículos y zonas de estacionamiento.
 
+> <small>(REFORMADO, G.O. 21 DE ABRIL DE 2022)</small>
+
 ###### Artículo 107.
 
-Todo cadáver que acceda a cementerios en cualquiera de sus modalidades, para efectos de inhumación o cremación, deberá ser transportado hasta los mismos en un vehículo que cuente con el permiso especial emitida (sic) por la Secretaría de Movilidad; además, es obligatorio que su transportación sea en ataúd.
+Todo cadáver que acceda a cementerios y crematorios, en cualquiera de sus modalidades, para efectos de inhumación o cremación, deberá ser transportado hasta los mismos en un vehículo que cuente con el permiso especial emitido por la Secretaría de Movilidad; además, es obligatorio que su transportación sea en ataúd.
+
+En los cementerios comunitarios se respetarán las prácticas de transportación de las personas fallecidas, siempre y cuando se respeten las disposiciones sanitarias.
 
 ### CAPÍTULO XIV. AUTORIZACIÓN PARA LAS INHUMACIONES, EXHUMACIONES, REINHUMACIONES, CREMACIONES Y DISPOSICIÓN DE RESTOS HUMANOS CUMPLIDOS EN EL MEMORIAL CORRESPONDIENTE
 
@@ -1410,13 +1458,25 @@ La Comisión emitirá los protocolos y medidas sanitarias especiales en el manej
 
 ### CAPÍTULO XVI. DERECHO DE USO SOBRE FOSAS, GAVETAS, CRIPTAS, NICHOS Y MEMORIAL
 
+> <small>(REFORMADO, G.O. 21 DE ABRIL DE 2022)</small>
+
 ###### Artículo 127.
 
-En los cementerios civiles y comunitarios la temporalidad mínima confiere el derecho de uso sobre una fosa durante siete años refrendable por dos períodos iguales, que será la temporalidad máxima; al término de los cuales volverá al dominio pleno de la Ciudad de México, a través de las Alcaldías. Tratándose de criptas familiares y nichos se aplicará el sistema de temporalidad refrendable, los refrendos a los que refiere el presente artículo se harán por cada gaveta ocupada.
+En los cementerios civiles la temporalidad mínima confiere el derecho de uso sobre fosas se proporcionará mediante los sistemas de temporalidades mínima y máxima, de conformidad con las siguientes características:
+
+I. Mínima: confiere el derecho de uso sobre una fosa durante siete años, al término de los cuales volverá al dominio pleno del Gobierno de la Ciudad de México;
+
+II. Máxima: confiere el derecho de uso sobre una fosa durante un plazo de siete años, refrendable por dos períodos iguales al final de los cuales volverá al dominio pleno del Gobierno de la Ciudad de México;
+
+III. Prorrogable: confiere el derecho de uso sobre una cripta familiar o un nicho durante siete años y refrendable cada siete años por tiempo indefinido, de conformidad con lo establecido en el Manual operativo.
+
+En el caso de las temporalidades mínimas y máximas la persona titular podrá solicitar la exhumación de los restos humanos cumplidos una vez que hayan transcurrido los plazos.
+
+> <small>(REFORMADO, G.O. 21 DE ABRIL DE 2022)</small>
 
 ###### Artículo 128.
 
-La temporalidad del derecho de uso sobre fosas, criptas y nichos, será contado a partir de la fecha de la celebración del convenio, de acuerdo con las bases establecidas en el título relativo.
+La temporalidad del derecho de uso sobre fosas, criptas y nichos, será contado a partir de la fecha de celebración del convenio, de acuerdo con lo establecido en el Manual operativo.
 
 ###### Artículo 129.
 
@@ -1466,11 +1526,13 @@ Se podrá autorizar la construcción de criptas familiares, siempre que el Manua
 
 ###### Artículo 138.
 
-Cada persona usuaria podrá adquirir únicamente una cripta familiar de las medidas y especificaciones establecidas.
+(DEROGADO, G.O. 21 DE ABRIL DE 2022)
+
+> <small>(REFORMADO, G.O. 21 DE ABRIL DE 2022)</small>
 
 ###### Artículo 139.
 
-La persona titular del derecho de uso sobre una fosa, gaveta, cripta familiar o nicho, deberá presentar, ante la oficina de cementerios correspondiente, la solicitud de refrendo cada siete años, durante los primeros treinta días siguientes al vencimiento del período anterior. En este caso se extingue el derecho de uso sobre la fosa, gaveta, cripta familiar o nicho por la omisión del refrendo dentro del plazo establecido.
+La persona titular del derecho de uso sobre una fosa, gaveta, cripta familiar o nicho, deberá presentar, ante la oficina de cementerios correspondiente, la solicitud de refrendo cada siete años, durante los primeros treinta días siguientes al vencimiento del período anterior. En este caso se extingue el derecho de uso sobre la fosa, gaveta, cripta familiar o nicho por la omisión del refrendo dentro del plazo establecido o de conformidad con lo establecido en el Manual de operativo.
 
 ###### Artículo 140.
 
@@ -1740,4 +1802,18 @@ DÉCIMO CUARTO. Las y los trabajadores que estén adscritos a oficinas territori
 
 DÉCIMO QUINTO. La Dirección General, en coordinación con la Agencia Digital de Innovación Pública, a la entrada en vigor del presente Reglamento, implementarán acciones de capacitación a las instituciones y concesionarios interesados para el uso correcto y eficiente del Sistema de Registro de Servicios Funerarios.
 
+> <small>(ADICIONADO, G.O. 21 DE ABRIL DE 2022)</small>
+
+DÉCIMO SEXTO. Las Criptas familiares que existen a la fecha de publicación del presente Decreto conservarán los derechos adquiridos.
+
 Dado en la sede de la Jefatura de Gobierno de la Ciudad de México, a los 10 días del mes de marzo de 2022. LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE GOBIERNO, MARTÍ BATRES GUADARRAMA.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE LA CONTRALORÍA GENERAL, JUAN JOSÉ SERRANO MENDOZA.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, RAFAEL GREGORIO GÓMEZ CRUZ.- FIRMA.- LA SECRETARIA DE CULTURA, CLAUDIA CURIEL DE ICAZA.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS.- FIRMA.- LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, OMAR HAMID GARCÍA HARFUCH.- FIRMA.- EL CONSEJERO JURÍDICO Y DE SERVICIOS LEGALES, NÉSTOR VARGAS SOLANO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 21 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE CEMENTERIOS, CREMATORIOS Y SERVICIOS FUNERARIOS EN LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
