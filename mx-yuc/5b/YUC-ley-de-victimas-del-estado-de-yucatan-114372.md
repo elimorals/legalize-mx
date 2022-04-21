@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-victimas-del-estado-de-yucatan-114372"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-02"
-last_updated: "2021-06-23"
+last_updated: "2022-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2022.
 
 Ley publicada en el Suplemento I del Diario Oficial del Estado de Yucatán, el lunes 2 de Mayo de 2016.
 
@@ -137,9 +137,7 @@ Las medidas de ayuda inmediata, que comprenden las de alojamiento y alimentació
 
 Las medidas se brindarán en los términos de las reglas de operación de los programas a cargo de las dependencias y entidades de la Administración Pública estatal o municipal.
 
-> <small>(ADICIONADO, D.O. 14 DE FEBRERO DE 2018)</small>
-
-Las dependencias y entidades de la Administración Pública estatal deberán instrumentar programas para proporcionar medidas de ayuda, asistencia, atención y protección, a las víctimas de tortura, con especial énfasis en aquellas que se encuentran privadas de su libertad, en términos de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O. 21 DE ABRIL DE 2022)</small>
 
 ###### Artículo 8.
 
@@ -331,9 +329,13 @@ XII. Implementar los mecanismos de control, con la participación de la sociedad
 
 XIII. Brindar capacitación a los asesores jurídicos en materias relacionadas con la atención y protección de víctimas.
 
-> <small>(REFORMADA, D.O. 14 DE FEBRERO DE 2018)</small>
+> <small>(ADICIONADA, D.O. 21 DE ABRIL DE 2022)</small>
 
-XIV. Las demás que establezcan esta ley; la Ley General de Víctimas; la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes; el Código de la Administración Pública de Yucatán, su reglamento y el estatuto orgánico.
+XIV. Proporcionar las medidas de ayuda, asistencia y atención por sí misma, o en coordinación con otras instituciones competentes; así como garantizar la reparación integral a las víctimas del delito de tortura en los términos previstos en la Ley General de Víctimas; la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2022)</small>
+
+XV. Las demás que establezcan esta ley; el Código de la Administración Pública de Yucatán, su reglamento y el estatuto orgánico.
 
 ###### Artículo 23.
 
@@ -475,7 +477,9 @@ Contenido del programa especial
 
 La elaboración y contenido del programa especial se apegará a lo dispuesto en la Ley de Planeación para el Desarrollo del Estado de Yucatán.
 
-El programa especial guardará congruencia con los instrumentos internacionales de protección de las víctimas, las disposiciones legales federales en la materia y las establecidas en esta ley.
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2022)</small>
+
+El programa especial guardará congruencia con los instrumentos internacionales de protección de las víctimas, las disposiciones legales federales en la materia y las establecidas en esta ley e integrará un apartado de atención a víctimas de tortura, con especial atención a las víctimas de tortura que se encuentren privadas de su libertad.
 
 ###### Artículo 34.
 
@@ -906,3 +910,15 @@ Los recursos humanos, materiales, financieros y presupuestales con que cuenta la
 Décimo noveno. Previsiones presupuestales
 
 El Congreso deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a lo dispuesto en este decreto.
+
+D.O. 21 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN; LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN; LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA; LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN Y LA LEY DE SALUD DEL ESTADO DE YUCATÁN, EN MATERIA DE TORTURA Y TRATOS CRUELES, INHUMANOS Y DEGRADANTES”.]
+
+Entrada en vigor.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Derogación expresa.
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
