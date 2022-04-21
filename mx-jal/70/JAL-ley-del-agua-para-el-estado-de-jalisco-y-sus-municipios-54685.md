@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-agua-para-el-estado-de-jalisco-y-sus-municipios-54685"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-24"
-last_updated: "2022-04-07"
+last_updated: "2022-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2022.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 24 de febrero de 2007.
 
@@ -35,11 +35,13 @@ EL CONGRESO DEL ESTADO DECRETA:
 
 SE CREA LA LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS.
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2022)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de observancia general en todo el territorio del Estado de Jalisco; sus disposiciones son de orden público e interés social y regulan la explotación, uso, aprovechamiento, preservación y reutilización del agua, la administración de las aguas de jurisdicción estatal, la distribución, control y valoración de los recursos hídricos y la conservación, protección y preservación de su cantidad y calidad, en términos del desarrollo sostenible de la entidad.
+La presente Ley es de observancia general en todo el territorio del Estado de Jalisco; sus disposiciones son de orden público e interés social y regulan la explotación, uso, aprovechamiento, preservación y reutilización del agua, la administración de las aguas de jurisdicción estatal, la distribución, control y valoración de los recursos hídricos y la conservación, protección y preservación de su cantidad y calidad, en términos del desarrollo sostenible y sustentable de la entidad.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 18 DE AGOSTO DE 2012)</small>
 
 El objeto de la presente Ley es:
 
@@ -283,7 +285,9 @@ La autoridad y administración en materia de aguas de jurisdicción estatal y de
 
 Es de interés público la constitución e integración del Sistema Estatal del Agua, como el instrumento para la coordinación del desarrollo hídrico de la Entidad, que estará a cargo de la Comisión Estatal y comprenderá:
 
-I. La definición y establecimiento de las políticas que permitan el desarrollo sustentable de la entidad, conforme a lo dispuesto por la Ley Estatal de Equilibrio Ecológico y Protección al Ambiente;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2022)</small>
+
+I. La definición y establecimiento de las políticas que permitan el desarrollo sustentable y sostenible de la entidad, conforme a lo dispuesto por la Ley Estatal de Equilibrio Ecológico y Protección al Ambiente;
 
 II. La definición de políticas para la gestión de las aguas de jurisdicción estatal, considerando las disposiciones contenidas en la Ley Estatal de Equilibrio Ecológico y Protección al Ambiente y las leyes federales en la materia;
 
@@ -299,7 +303,9 @@ VII. La proposición de políticas públicas, estrategias, programas, proyectos 
 
 VIII. La proposición de políticas públicas, estrategias, programas, proyectos para el manejo y conservación de la infraestructura hidráulica ubicada en el Estado;
 
-IX. La proposición de políticas públicas, estrategias, lineamientos, programas, instrumentos específicos, metodologías y procesos para el establecimiento y operación sustentable de un sistema financiero integral para el desarrollo hídrico del Estado;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2022)</small>
+
+IX. La proposición de políticas públicas, estrategias, lineamientos, programas, instrumentos específicos, metodologías y procesos para el establecimiento y operación sustentable y sostenible de un sistema financiero integral para el desarrollo hídrico del Estado;
 
 X. La consolidación del conjunto de bases de datos y demás información pública que conformarán el Sistema Estatal de Información del Agua; y
 
@@ -331,7 +337,9 @@ En los términos de la fracción IX del artículo 8, el Sistema Estatal Financie
 
 I. Establecer la coordinación entre los diversos sectores e instituciones vinculados con los recursos hídricos y su gestión, así como con las economías y finanzas del agua;
 
-II. Definir los mecanismos específicos de generación de recursos financieros que contribuyan a alcanzar el desarrollo sustentable del recurso hídrico;
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2022)</small>
+
+II. Definir los mecanismos específicos de generación de recursos financieros que contribuyan a alcanzar el desarrollo sustentable y sostenible del recurso hídrico;
 
 III. Valorar el agua en términos sociales, económicos, financieros y ambientales, reflejar el verdadero valor del agua y promover la corresponsabilidad social que conlleva su gestión integrada con equidad y sustentabilidad;
 
@@ -471,9 +479,11 @@ VII. La coordinación con las autoridades federales competentes para el efecto d
 
 VIII. La captación, tratamiento y uso eficiente del agua pluvial como recurso alterno.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2022)</small>
+
 ###### Artículo 17.
 
-En la formulación e integración de la programación hídrica estatal a que se refiere este capitulo, se tendrán en cuenta los criterios necesarios para garantizar el desarrollo integral sustentable y la debida consideración a la cuota natural de renovación de las aguas que la Comisión determine con apego a las normas oficiales mexicanas en la materia y con apoyo en los estudios que al efecto realice, en el marco de las cuencas hidrológicas y acuíferos, como unidades básicas para la gestión del recurso hídrico del Estado.
+En la formulación e integración de la programación hídrica estatal a que se refiere este capítulo, se tendrán en cuenta los criterios necesarios para garantizar el desarrollo integral sustentable y sostenible, así como la debida consideración a la cuota natural de renovación de las aguas que la Comisión determine con apego a las normas oficiales mexicanas en la materia y con apoyo en los estudios que al efecto realice, en el marco de las cuencas hidrológicas y acuíferos, como unidades básicas para la gestión del recurso hídrico del Estado.
 
 ###### Artículo 18.
 
@@ -1177,9 +1187,9 @@ V. Promover y conseguir los consensos de los usuarios y de la sociedad en la exp
 
 VI. Participar en la administración de las aguas estatales en la forma que establezca el Reglamento de la Ley y el marco jurídico que rige al sector;
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2022)</small>
 
-VII. Promover el uso eficiente y sustentable del agua, y de manera particular, promover el (sic) reutilización y recirculación de las aguas servidas; y
+VII. Promover el uso eficiente, sustentable y sostenible del agua, y de manera particular, promover la reutilización y recirculación de las aguas servidas; y
 
 VIII. Seleccionar a los representantes de los diferentes tipos de uso para participar en el Consejo Estatal del Agua.
 
@@ -2168,3 +2178,9 @@ P.O. 7 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28750/LXIII/22 QUE REFORMA EL ARTÍCULO 105 DE LA LEY PARA (SIC) DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 21 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28761/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 1, 8, 11, 17, 60 DE LA LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
