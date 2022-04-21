@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2021-11-06"
+last_updated: "2022-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -795,21 +795,15 @@ III. Cuando el paciente cumpla la mayoría de edad.
 
 ### CAPITULO IV. De los sueldos
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
-
-###### Artículo 45.
-
-Sueldo es la remuneración o retribución que debe pagarse al servidor público por los servicios prestados. Dicha remuneración debe ser adecuada, irrenunciable y proporcional a sus responsabilidades por el desempeño de su función, empleo, cargo o comisión.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2018)</small>
-
-Los sueldos de los servidores públicos deberán determinarse respetando el principio de trabajo igual salario igual, eliminando las diferencias salariales entre hombres y mujeres.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2022)</small>
 
 ###### Art. 45.
 
-Sueldo es la remuneración o retribución que debe pagarse al servidor público por los servicios prestados.
+Sueldo es la remuneración o retribución que debe pagarse a la persona servidora pública por los servicios prestados. Dicha remuneración debe ser adecuada, irrenunciable y proporcional a sus responsabilidades por el desempeño de su función, empleo, cargo o comisión.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE ABRIL DE 2022)</small>
+
+Los sueldos de las personas servidoras públicas deberán determinarse respetando el principio de trabajo igual salario igual, eliminando las diferencias salariales entre mujeres y hombres. En todo caso se garantizará la observancia del principio de igualdad salarial previsto en la legislación.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -834,6 +828,10 @@ IV. Las remuneraciones y sus tabuladores serán públicos, respetando los datos 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
 V. Ningún servidor público podrá percibir remuneración adicional alguna por el desempeño de los cargos, comisiones, representaciones o alguna otra función similar, que ocupe de manera inherente, derivada o complementaria al cargo principal;
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2022)</small>
+
+En la definición de las remuneraciones se implementará una política de igualdad y no discriminación, con perspectiva de género, a fin de que los sueldos y otras percepciones aplicables comprendidas en el concepto de remuneración sean los mismos entre mujeres y hombres.
 
 El sueldo de los servidores públicos, en ningún caso puede ser disminuido, pero si puede permanecer sin variaciones las anualidades que sean necesarias, a fin de ajustarse a los principios establecidos en el presente artículo.
 
@@ -966,6 +964,10 @@ III. Dispersión de la población;
 IV. Desarrollo socioeconómico; y
 
 V. Número de servidores públicos.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2022)</small>
+
+Art. 46 bis 4. A trabajo de igual valor corresponde igual remuneración bajo el principio de igualdad sustantiva.
 
 ###### Art. 47.
 
@@ -3190,3 +3192,9 @@ P.O. 6 DE NOVIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28497/LXII/21 QUE MODIFICA LA MINUTA DE DECRETO NÚMERO 28436/LXII/21 POR EL CUAL SE REFORMA EL ARTÍCULO 16 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO Y SE REFORMAN LOS ARTÍCULOS 15, 35 Y SE ADICIONA UN 23 BIS DE LA PROPIA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO, ARTÍCULO 46 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y 99 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 21 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28771/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, LEY ESTATAL PARA LA IGUALDAD ENTRE LAS MUJERES Y HOMBRES; LEY ORGÁNICA DEL PODER EJECUTIVO; LEY ORGÁNICA DEL PODER JUDICIAL; Y LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO Y SUS MUNICIPIOS, TODAS LEYES DEL ESTADO DE JALISCO, EN MATERIA DE IGUALDAD SALARIAL, NO DISCRIMINACIÓN Y VIOLENCIA LABORAL CONTRA LAS MUJERES”.]
+
+ÚNICO. El presente decreto entrará en vigor a partir del siguiente día de su publicación en el periódico oficial "El Estado de Jalisco"
