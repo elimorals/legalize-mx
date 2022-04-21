@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-alcaldias-de-la-ciudad-de-mexico-128262"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2022-04-13"
+last_updated: "2022-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128262&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE ABRIL DE 2022.
 
 Ley publicada en el Tomo I del Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -1490,6 +1490,10 @@ La Alcaldía implementará los mecanismos electrónicos necesarios en materia de
 
 Lo anterior sin dejar de buscar la constante innovación, instrumentación e implementación de nuevas tecnologías aplicadas a la apertura de datos públicos que los hagan interactivos.
 
+> <small>(ADICIONADO, G.O. 21 DE ABRIL DE 2022)</small>
+
+A efecto de garantizar el derecho de las personas a relacionarse y comunicarse, mediante el uso de medios electrónicos y, tecnologías de la información y comunicación de uso generalizado, las Alcaldías, deberán asegurar el uso efectivo del Autenticador Digital Único para la gestión de trámites, servicios y demás actos jurídicos y administrativos, en términos de lo establecido en la Ley de Ciudadanía Digital de la Ciudad de México.
+
 ## TÍTULO VIII. DE LOS RECURSOS PÚBLICOS DE LAS ALCALDÍAS
 
 ### CAPÍTULO I. DE LOS INGRESOS DE LAS ALCALDÍAS
@@ -2411,3 +2415,11 @@ PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promu
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO CUARTO, AL ARTÍCULO 124 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
