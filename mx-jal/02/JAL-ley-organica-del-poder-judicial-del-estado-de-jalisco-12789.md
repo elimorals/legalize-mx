@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2021-12-16"
+last_updated: "2022-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -474,6 +474,12 @@ Artículo 16 M.- El Poder Judicial del Gobierno del Estado se sujetará a los si
 I. El Plan General del Poder Judicial, su actualización o modificación, se publicará dentro de los seis meses a partir de su aprobación; y
 
 II. El programa operativo anual será aprobado a más tardar el día 25 de octubre, del año anterior a su aplicación.
+
+> <small>(ADICIONADO, P.O.21 DE ABRIL DE 2022)</small>
+
+Artículo 16 N.- El Poder Judicial del Estado de Jalisco implementará una política de igualdad y no discriminación, con perspectiva de género, de forma transversal y equitativa en el desempeño de sus atribuciones, programas y acciones, con el objeto de garantizar a las mujeres y hombres, el ejercicio y goce de sus derechos humanos, en igualdad de condiciones y velará por que los órganos a su cargo así lo hagan.
+
+Para ello, diseñará políticas públicas para lograr la igualdad sustantiva, laboral y salarial entre mujeres y hombres, debiendo garantizar la igualdad sustantiva y el trabajo digno, y atendiendo al principio de igualdad salarial contenido en la legislación, a fin de que los sueldos y otras percepciones aplicables comprendidas en el concepto de remuneración sean los mismos para todas las personas bajo el criterio de progresividad y proporcionalidad.
 
 ## TÍTULO SEGUNDO. DEL SUPREMO TRIBUNAL DE JUSTICIA
 
@@ -2099,13 +2105,19 @@ XXXVIII. Acordar de conformidad con el Presupuesto de Egresos, el número necesa
 
 XXXIX. Establecer número y límites territoriales de los partidos y distritos judiciales según corresponda a la asignación en que se divide territorio del Estado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2022)</small>
 
-XL. Remover o cambiar de adscripción a las y los jueces; y
+XL. Remover o cambiar de adscripción a las y los jueces;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2022)</small>
+
+XLI. Implementar una política de igualdad y no discriminación, con perspectiva de género, de forma transversal y equitativa en el desempeño de sus atribuciones, programas y acciones, con el objeto de garantizar a las mujeres y hombres, el ejercicio y goce de sus derechos humanos, en igualdad de condiciones y velar por que los órganos a su cargo así lo hagan;
+
+Para ello, diseñará políticas públicas para lograr la igualdad sustantiva, laboral y salarial entre mujeres y hombres, debiendo garantizar la igualdad sustantiva y el trabajo digno, y atendiendo al principio de igualdad salarial contenido en la legislación, a fin de que los sueldos y otras percepciones aplicables comprendidas en el concepto de remuneración sean los mismos para todas las personas bajo el criterio de progresividad y proporcionalidad; y
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE OCTUBRE DE 2019)</small>
 
-XLI. Desempeñar cualquier otra función que la ley encomiende al Consejo de la Judicatura del Poder Judicial del Estado.
+XLII. Desempeñar cualquier otra función que la ley encomiende al Consejo de la Judicatura del Poder Judicial del Estado.
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2007)</small>
 
@@ -4138,3 +4150,9 @@ P.O. 16 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28728/LXIII/21 QUE REFORMA LOS ARTÍCULOS 31, 33, 34, 37, 40 Y 45; Y ADICIONA LOS ARTÍCULOS 30 BIS, 30 BIS 1, 30 BIS 2, 30 BIS 3, 30 BIS 4, 30 BIS 5, 30 BIS 6, 30 BIS 7, 30 BIS 8, 30 BIS 9, 30 BIS 10, 30 BIS 11, 30 BIS 12, 30 BIS 13 Y 30 BIS 14, Y SE CAMBIA LA DENOMINACIÓN DEL TÍTULO SEGUNDO, TODOS DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIAS (SIC) DEL ESTADO DE JALISCO; Y REFORMA AL ARTÍCULO 196 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO, Y REFORMA EL ARTÍCULO 97 FRACCIÓN III DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
 
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 21 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 28771/LXIII/22 SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; LEY ORGÁNICA DEL PODER EJECUTIVO; LEY ORGÁNICA DEL PODER JUDICIAL; Y LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO Y SUS MUNICIPIOS, TODAS LEYES DEL ESTADO DE JALISCO, EN MATERIA DE IGUALDAD SALARIAL, NO DISCRIMINACIÓN Y VIOLENCIA LABORAL CONTRA LAS MUJERES".]
+
+ÚNICO. El presente decreto entrará en vigor a partir del siguiente día de su publicación en el periódico oficial "El Estado de Jalisco"
