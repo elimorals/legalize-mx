@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-1143
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-02"
-last_updated: "2020-01-09"
+last_updated: "2022-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2022.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 2 de mayo de 2016.
 
@@ -403,6 +403,10 @@ X. Propiciar la coordinación interinstitucional para el cumplimiento de los pro
 
 XI. Desarrollar políticas públicas y programas interdisciplinarios de prevención social de la violencia y la delincuencia para personas adolescentes, con base en los criterios y las disposiciones establecidos en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
+> <small>(ADICIONADA, D.O. 21 DE ABRIL DE 2022)</small>
+
+XII. Implementar programas y acciones para prevenir y fortalecer el combate de los delitos de tortura y tratos crueles, inhumanos y degradantes, dando cumplimiento al título quinto “De la Prevención de los Delitos” de la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
 ###### Artículo 27.
 
 Nombramiento
@@ -473,7 +477,9 @@ Los integrantes de las instituciones de seguridad pública tendrán las obligaci
 
 Además de las obligaciones establecidas en el párrafo anterior, los integrantes de las instituciones de seguridad pública que intervengan en la detención de alguna persona adolescente tendrán las dispuestas en el artículo 74 de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
-Adicionalmente, los integrantes de las instituciones policiales tendrán las obligaciones específicas establecidas en el artículo 41 de la ley general.
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2022)</small>
+
+Adicionalmente, los integrantes de las instituciones policiales tendrán las obligaciones específicas establecidas en el artículo 41 de la ley general y la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes.
 
 > <small>(ADICIONADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
@@ -1624,3 +1630,15 @@ D.O. 9 DE ENERO DE 2020.
 Artículo primero. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+D.O. 21 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 489/2022 POR EL QUE SE MODIFICA LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN Y LA LEY DE SALUD DEL ESTADO DE YUCATÁN, EN MATERIA DE TORTURA Y TRATOS CRUELES, INHUMANOS Y DEGRADANTES”.]
+
+Entrada en vigor.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Derogación expresa.
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
