@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-para-la-igualdad-entre-mujeres-y-hombres-75928"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-05"
-last_updated: "2021-09-09"
+last_updated: "2022-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2022.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 5 de agosto de 2010.
 
@@ -69,13 +69,33 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Acciones afirmativas: conjunto de medidas de carácter temporal encaminadas a acelerar la igualdad de hecho entre mujeres y hombres;
 
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2022)</small>
 
-II. Perspectiva de Género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género, y
+II. Brecha de género: es una medida que muestra la distancia existente entre mujeres y hombres respecto a un mismo indicador. Se utiliza para reflejar la brecha existente entre los sexos respecto a las oportunidades de acceso y control de recursos económicos, sociales, culturales y políticos, entre otros.
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN II], P.O. 21 DE ABRIL DE 2020)
+Estos indicadores de forma enunciativa más no limitativa pueden ser los siguientes: el salario, la ocupación laboral, la participación política, los servicios de salud, la educación, la violencia contra las mujeres y las niñas, el acceso a la justicia, entre otros.
 
-III. Transversalidad: proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres, cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en instituciones públicas y privadas.
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2022)</small>
+
+III. Igualdad de Género: Situación en la cual mujeres y hombres acceden con las mismas
+
+(sic) posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2022)</small>
+
+IV. Igualdad Salarial: Concepto que refiere que la remuneración será siempre igual por un trabajo de igual valor, sin distinguir el sexo, el género, la raza, la identidad de género, la preferencia u orientación sexual, la edad, las discapacidades, la condición social, económica, de salud o jurídica, ni (sic) ningún otro motivo que atente contra la dignidad humana;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2022)</small>
+
+V. Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN II], P.O. 21 DE ABRIL DE 2022)</small>
+
+VI. Perspectiva de Género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN III], P.O. 21 DE ABRIL DE 2022)</small>
+
+VII. Transversalidad: proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres, cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en instituciones públicas y privadas; (sic)
 
 ###### Artículo 5.
 
@@ -143,6 +163,10 @@ El principio de igualdad de trato y oportunidades entre mujeres y hombres, se ga
 
 No constituirá discriminación en el acceso al empleo, una diferencia de trato basada en una característica relacionada con el género cuando, debido a la naturaleza de las actividades o al contexto en el que se lleven a cabo, dicha característica constituya un requisito profesional esencial y determinante.
 
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2022)</small>
+
+Lo anterior comprende el principio de igualdad de remuneración por trabajo de igual valor, que significa fijar las mismas remuneraciones globales y elementos que componen a éstas para trabajos iguales o a los que se atribuya el mismo valor; implica evaluar los trabajos y sus remuneraciones mediante criterios objetivos que contemplen como factores las competencias, calificaciones, responsabilidades, funciones, cargas de trabajo, necesidad de formación, esfuerzos y condiciones de trabajo, y eliminar cualquier discriminación o cualquier posible impacto negativo sobre la remuneración de la situación familiar, de las responsabilidades familiares y de cuidados y de cualesquier otras situaciones o características asociadas con el sexo o el género de la persona trabajadora.
+
 ###### Artículo 15.
 
 Para los efectos de esta Ley, se entenderá por discriminación, cualquier tipo de distinción, exclusión o restricción, que tenga por objeto o por resultado anular o menoscabar el reconocimiento, goce o ejercicio de los derechos humanos, libertades e igualdad de oportunidades de las personas en las esferas política, económica, social, cultural y civil o en cualquier otra esfera; en concordancia con los instrumentos nacionales e internacionales ratificados por el Estado Mexicano.
@@ -177,6 +201,10 @@ Los Poderes Públicos del Estado de Jalisco garantizarán el acceso a la justici
 
 Los Poderes Públicos del Estado de Jalisco y los organismos auxiliares de la administración pública estatal, en el ámbito de su competencia, adoptarán medidas específicas, razonables y proporcionadas en favor de las mujeres para hacer efectivo su derecho constitucional a la igualdad de trato y oportunidades y corregir situaciones de desigualdad de hecho respecto de los hombres.
 
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2022)</small>
+
+De igual forma, promoverán la aplicación de las Normas Mexicanas en Igualdad Laboral y No Discriminación.
+
 ## TÍTULO IV
 
 ### CAPÍTULO PRIMERO. PRINCIPIOS GENERALES DE LAS POLÍTICAS PÚBLICAS PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES
@@ -191,13 +219,17 @@ I. Generar las condiciones para la construcción de relaciones de igualdad de tr
 
 II. Promover el desarrollo pleno y el respeto a los derechos de los niños, niñas y adolescentes;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2022)</small>
 
-III. Reconocer y garantizar la participación ciudadana y los mecanismos de control social para el cumplimiento de las políticas de igualdad de trato y oportunidades; y
+III. Reconocer y garantizar la participación ciudadana y los mecanismos de control social para el cumplimiento de las políticas de igualdad de trato y oportunidades;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2022)</small>
+
+IV. Diseñar, implementar, ejecutar y evaluar políticas públicas y medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad y no discriminación en las condiciones de trabajo entre mujeres y hombres, particularmente, para eliminar en los sectores público, privado y social la brecha de género, en especial la (sic) salarial; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2021)</small>
 
-IV. Reconocer y promover el derecho humano a la paz.
+V. Reconocer y promover el derecho humano a la paz.
 
 ###### Artículo 24.
 
@@ -727,7 +759,9 @@ CRITERIOS DE ACTUACIÓN
 
 Los Poderes Públicos del Estado, en el ámbito de sus respectivas competencias y en aplicación del principio de igualdad de trato y oportunidades entre mujeres y hombres, deberán:
 
-I. Promover la erradicación de cualquier tipo de discriminación con el fin de ofrecer condiciones de igualdad efectiva entre mujeres y hombres en los procesos de selección, contratación y ascensos en el servicio civil de carrera;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2022)</small>
+
+I. Promover la erradicación de cualquier tipo de discriminación con el fin de ofrecer condiciones de igualdad sustantiva entre mujeres y hombres en los procesos de selección, contratación y ascensos en el servicio civil de carrera, incluido el sueldo o salario;
 
 II. Promover medidas que posibiliten la conciliación de la vida personal, familiar y laboral, sin menoscabo de la promoción profesional;
 
@@ -952,3 +986,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
 
 TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen (sic) será votado en la sesión que sea agendado (sic) dentro de los plazos y términos que corresponden en su (sic) la Ley Orgánica del Poder Legislativo.
+
+P.O. 21 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28771/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, LEY ESTATAL PARA LA IGUALDAD ENTRE LAS MUJERES Y HOMBRES; LEY ORGÁNICA DEL PODER EJECUTIVO; LEY ORGÁNICA DEL PODER JUDICIAL; Y LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO Y SUS MUNICIPIOS, TODAS LEYES DEL ESTADO DE JALISCO, EN MATERIA DE IGUALDAD SALARIAL, NO DISCRIMINACIÓN Y VIOLENCIA LABORAL CONTRA LAS MUJERES".]
+
+ÚNICO. El presente decreto entrará en vigor a partir del siguiente día de su publicación en el periódico oficial "El Estado de Jalisco"
