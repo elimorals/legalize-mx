@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-salud-del-estado-de-yucatan-11965"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-16"
-last_updated: "2021-07-06"
+last_updated: "2022-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE SALUD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2022.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 16 de marzo de 1992.
 
@@ -281,9 +281,15 @@ V.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente de l
 
 VI.- Impulsar en el ámbito estatal, un sistema de administración y desarrollo de recursos humanos, para la salud de las personas;
 
-VII.- Coadyuvar a la modificación de los patrones culturales que determinan los hábitos, costumbres y actitudes, relacionados con la salud y el uso de los servicios que se proporcionen para su protección, y
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2022)</small>
 
-VIII.- Contribuir en la consecución de los fines previstos en la Ley de Prevención.
+VII.- Coadyuvar a la modificación de los patrones culturales que determinan los hábitos, costumbres y actitudes, relacionados con la salud y el uso de los servicios que se proporcionen para su protección;
+
+> <small>(ADICIONADA, D.O. 21 DE ABRIL DE 2022)</small>
+
+VIII.- Implementar un programa encaminado a la prevención de la tortura, tratos inhumanos, crueles y degradantes; y en caso de presumir que una persona ha sido víctima de la tortura lo hará del conocimiento de las autoridades competentes; y
+
+IX.- Contribuir en la consecución de los fines previstos en la Ley de Prevención.
 
 > <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
@@ -3752,3 +3758,15 @@ Este decreto entrará en vigor el día siguiente de su publicación en el Diario
 Artículo segundo. Derogación tácita.
 
 Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se opongan a este decreto.
+
+D.O. 21 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 489/2022 POR EL QUE SE MODIFICA LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN Y LA LEY DE SALUD DEL ESTADO DE YUCATÁN, EN MATERIA DE TORTURA Y TRATOS CRUELES, INHUMANOS Y DEGRADANTES".]
+
+Entrada en vigor.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Derogación expresa.
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
