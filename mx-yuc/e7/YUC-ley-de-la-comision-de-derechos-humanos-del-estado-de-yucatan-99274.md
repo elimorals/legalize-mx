@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-la-comision-de-derechos-humanos-del-estado-de-yucatan-99
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-28"
-last_updated: "2018-02-14"
+last_updated: "2022-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99274&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2022.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 28 de febrero de 2014.
 
@@ -1027,6 +1027,10 @@ Quejas relacionadas con violaciones a la integridad personal
 
 Tratándose de una queja por violaciones a la integridad personal, como la tortura y otros tratos y penas crueles, inhumanos y degradantes se deberá investigar y documentar inmediatamente después de recibida la queja correspondiente y se deberán remitir los eventuales peritajes y recomendaciones a los órganos de procuración de justicia y judiciales competentes, en su caso.
 
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2022)</small>
+
+Asimismo, cuando le sea solicitado, deberá prestar los servicios de peritos oficiales o independientes acreditados en la especialidad médica y psicológica, a fin de documentar los signos físicos o psicológicos que presente la Víctima y el grado en que dichos hallazgos médicos y psicológicos se correlacionen con la comisión de actos de tortura, bajo los estándares previstos en el Protocolo de Estambul y la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos y Degradantes.
+
 ###### Artículo 59.
 
 Quejas presentadas por organizaciones de la sociedad civil
@@ -1455,6 +1459,12 @@ Obligación de cumplir con las peticiones
 
 Las autoridades y servidores públicos de carácter estatal y municipal, involucrados en asuntos de la competencia de la comisión, o que por razón de sus funciones o actividades puedan proporcionar información pertinente, deberán cumplir en sus términos con las peticiones de la comisión.
 
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2022)</small>
+
+Artículo 107 bis. Obligación de permitir las supervisiones
+
+Las autoridades y servidores públicos de carácter estatal y municipal deberán brindar el acceso inmediato a visitadores de la Comisión, a los lugares de privación de la libertad para que realicen acciones de inspección y supervisión en cumplimiento de sus obligaciones.
+
 ###### Artículo 108.
 
 Información reservada
@@ -1488,6 +1498,10 @@ Denuncia a autoridades
 La comisión deberá hacer del conocimiento de las autoridades superiores competentes, los actos u omisiones en que incurran las autoridades o los servidores públicos, durante y con motivo de las investigaciones que realice, para el efecto de que le sean aplicadas las sanciones administrativas que correspondan. La autoridad superior deberá informar a la comisión sobre las medidas o sanciones disciplinarias impuestas.
 
 La comisión solicitará al órgano de control interno correspondiente, en cualquier caso, el inicio del procedimiento de responsabilidades que deba instruirse en contra del servidor público respectivo.
+
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2022)</small>
+
+En el caso de tener conocimiento de conductas constitutivas de tortura y actos crueles inhumanos o degradantes denunciará inmediatamente ante las instancias competentes y procurará que se garanticen los derechos de la víctima.
 
 ###### Artículo 112.
 
@@ -1674,3 +1688,15 @@ Se abroga la Ley para Prevenir y Sancionar la Tortura del Estado de Yucatán, pu
 Tercero. Delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes
 
 El fiscal general deberá ajustar la normativa interna de la Fiscalía General del Estado para adscribir la función de persecución e investigación de los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes a una fiscalía investigadora.
+
+D.O. 21 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 489/2022 POR EL QUE SE MODIFICA LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN Y LA LEY DE SALUD DEL ESTADO DE YUCATÁN, EN MATERIA DE TORTURA Y TRATOS CRUELES, INHUMANOS Y DEGRADANTES”.]
+
+Entrada en vigor.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Derogación expresa.
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
