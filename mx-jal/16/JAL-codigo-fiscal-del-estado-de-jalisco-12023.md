@@ -4,7 +4,7 @@ identifier: "JAL-codigo-fiscal-del-estado-de-jalisco-12023"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-12-16"
-last_updated: "2021-10-26"
+last_updated: "2022-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO FISCAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2022.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 16 de diciembre de 1997.
 
@@ -2923,15 +2923,7 @@ V. Bienes muebles cuyo costo de recuperación valor sea equivalente o superior a
 
 VI. Cuando se trate de bienes que hubieren causado abandono a favor del fisco estatal.
 
-VII. Cuando se trate de vehículos y artículos varios que por su naturaleza ilícita o administrativa no se tenga la necesidad de someterse a Procedimientos administrativos de Ejecución, como a continuación se describe y deban ser compactados, de conformidad con lo establecido en el artículo 182-A del presente Código:
-
-a) Vehículos y artículos varios que cuenten con alteraciones en sus números de identificación o sin números de identificación.
-
-b) Vehículos y artículos varios por sus características físicas y mecánicas se identifiquen como en condición C2 o C3 (Reparación Mayor), Pts (Partes) o Ch (Chatarra).
-
-c) Vehículos y artículos varios extranjeros sin placas de circulación, que portan placas de circulación de otros Estados o de otro País que sean de modelo de fabricación anterior al año 2010 y/o que haya ingresado de forma ilegal al país.
-
-d) Vehículos y artículos varios que no cumplan con los requerimientos establecidos por las Autoridades en el ámbito de Ecología para continuar circulando de forma normal en el Estado.
+VII. (DEROGADA, P.O. 21 DE ABRIL DE 2022)
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2021)</small>
 
@@ -3508,6 +3500,12 @@ P.O. 26 DE OCTUBRE DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. A partir de la entrada en vigor del presente decreto, será aplicable lo dispuesto en los artículos 182 fracción IV y VII para aquellos vehículos que ya se encuentren en guarda y custodia y hayan sido dictaminados no aptos para circulación en términos del diverso 182-A.
+
+P.O. 21 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28757/LXIII/22 DEL CONGRESO DEL ESTADO QUE DEROGA UNA FRACCIÓN VII CORRESPONDIENTE AL ARTÍCULO 182 DEL CÓDIGO FISCAL DEL ESTADO DE JALISCO".]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 ###### ARTICULO PRIMERO
 
