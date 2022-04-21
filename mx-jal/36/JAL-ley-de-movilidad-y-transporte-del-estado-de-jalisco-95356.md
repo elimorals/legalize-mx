@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2022-03-19"
+last_updated: "2022-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2022.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -3255,9 +3255,9 @@ El registro estatal expedirá, a quienes las soliciten, copias certificadas de l
 
 Procederá aplicar como medida de seguridad, además de las sanciones que resulten por las infracciones cometidas, el retiro de la circulación de un vehículo, mismo que será puesto bajo resguardo de los depósitos autorizados, ya sean públicos o concesionados para esos fines, en los siguientes casos:
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2022)</small>
 
-I. Circule sin las dos placas a la vista y en el lugar dispuesto por el fabricante del vehículo, o que alguna de éstas se encuentren alteradas o doblada, u ocultas total o parcialmente por cualquier medio, incluyendo aditamentos de cualquier material, micas o etiquetas o calcomanías que obstruyan o distorsionen su vista total o parcialmente, o se encuentren en la vía pública sin el permiso o autorización según sea su caso; de igual forma, tratándose de transporte público, deberán coincidir los elementos de identificación de las concesiones, permisos y autorizaciones, con los que presente el vehículo en cuestión;
+I. Circule sin las dos placas a la vista y en un lugar diferente al dispuesto por el fabricante del vehículo, o que alguna de éstas se encuentre (sic) alteradas, dobladas, o que no sean visibles en su totalidad los caracteres de la matrícula; o que se sobreponga aditamento o cualquier material que distorsione la plena identificación de los caracteres de la matrícula, o se encuentren en la vía pública sin el permiso o autorización según sea su caso; de igual forma, tratándose de transporte público, deberán coincidir los elementos de identificación de las concesiones, permisos y autorizaciones, con los que presente el vehículo en cuestión;
 
 II. El vehículo porte placas sobrepuestas;
 
@@ -4682,3 +4682,11 @@ P.O. 19 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28743/LXIII/22 QUE REFORMA EL ARTÍCULO 1° DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 21 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28759/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 169 FRACCIÓN I DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El titular del Poder Ejecutivo del Estado de Jalisco, dispondrá de 30 días naturales para realizar las modificaciones reglamentarias que deriven del presente decreto.
