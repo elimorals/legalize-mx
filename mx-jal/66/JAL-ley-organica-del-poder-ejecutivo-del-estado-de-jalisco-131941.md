@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-131941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2021-12-31"
+last_updated: "2022-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2022.
 
 Ley publicada en la Edición Especial al Número 24 Quater del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -1629,9 +1629,9 @@ V. Vigilar y verificar, a través de las visitas de inspección, el cumplimiento
 
 VI. Prevenir, investigar y sancionar en los términos de la normatividad aplicable en el ámbito de sus competencias, las violaciones a la normatividad en materia de trabajo en el Estado;
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2022)</small>
 
-VII. Vigilar de forma conjunta con la Secretaría de Igualdad Sustantiva entre mujeres y hombres que no exista discriminación laboral por cualquier motivo, por parte de patrones o empleadores, promoviendo entre estos últimos la igualdad y la no discriminación tanto en la oferta de empleos, como en la estabilidad, remuneración y desarrollo laboral, y en su caso reparar las violaciones a los derechos humanos en materia de discriminación laboral motivada por el origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil, los antecedentes penales, o cualquier otra que atente contra la dignidad humana;
+VII. Vigilar de forma conjunta con la Secretaría de Igualdad Sustantiva entre mujeres y hombres que no exista discriminación laboral por cualquier motivo, por parte de patrones o empleadores, promoviendo entre estos últimos la igualdad y la no discriminación tanto en la oferta de empleos, como en la estabilidad, remuneración y desarrollo laboral, y en su caso reparar las violaciones a los derechos humanos en materia de discriminación laboral motivada por el origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil, los antecedentes penales, o cualquier otra que atente contra la dignidad humana; así como promover las certificaciones en igualdad laboral y no discriminación previstas en las Normas Mexicanas;
 
 VIII. Proponer la actualización de las medidas de seguridad e higiene en los centros de trabajo del Estado y promover su verificación a través de visitas de inspección;
 
@@ -3222,3 +3222,9 @@ DÉCIMO PRIMERO. El organismo público descentralizado Agencia de Coinversión p
 DÉCIMO SEGUNDO. Las referencias que en cualquier otro ordenamiento se establezca en relación a los entes que se extinguen, se tendrán por hechas a la Agencia de Coinversión para el Desarrollo Sostenible de Jalisco.
 
 DÉCIMO TERCERO. Las disposiciones reglamentarias vigentes, seguirán aplicándose en tanto no se opongan al presente decreto.
+
+P.O. 21 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28771/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, LEY ESTATAL PARA LA IGUALDAD ENTRE LAS MUJERES Y HOMBRES; LEY ORGÁNICA DEL PODER EJECUTIVO; LEY ORGÁNICA DEL PODER JUDICIAL; Y LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO Y SUS MUNICIPIOS, TODAS LEYES DEL ESTADO DE JALISCO, EN MATERIA DE IGUALDAD SALARIAL, NO DISCRIMINACIÓN Y VIOLENCIA LABORAL CONTRA LAS MUJERES”.]
+
+ÚNICO. El presente decreto entrará en vigor a partir del siguiente día de su publicación en el periódico oficial "El Estado de Jalisco"
