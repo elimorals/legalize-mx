@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-139113"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-11-09"
-last_updated: "2021-11-18"
+last_updated: "2022-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2021.
-
-(ESTE DECRETO ES UNA REPUBLICACIÓN EN EL PERIÓDICO OFICIAL DE 18 DE NOVIEMBRE DE 2021 DEL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2021.)
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2022.
 
 Reglamento publicado en la Sección XXII del número 20 del Periódico Oficial del Estado de Jalisco, el sábado 9 de noviembre de 2020.
 
@@ -883,7 +881,9 @@ VI. Esté imposibilitado para asistir por caso fortuito o fuerza mayor.
 
 ###### Artículo 47.
 
-1. Una vez aprobado el turno a comisiones de una iniciativa o asunto, la Coordinación de Procesos Legislativos y Asuntos Jurídicos debe notificarlo por oficio al presidente de la comisión o comisiones correspondientes, indicando el carácter de cada comisión, y en su caso poner a disposición el archivo electrónico editable de la iniciativa, a más tardar al día hábil siguiente al turno.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2022)</small>
+
+1. Una vez aprobado el turno a comisiones de una iniciativa o asunto, la Coordinación de Procesos Legislativos debe notificarlo por oficio al presidente de la comisión o comisiones correspondientes, indicando el carácter de cada comisión, y en su caso poner a disposición el archivo electrónico editable de la iniciativa, a más tardar al día hábil siguiente al turno.
 
 2. Cuando la iniciativa proponga reformar varias leyes, el turno a las comisiones coadyuvantes es sólo para la parte de la iniciativa que le competa por su materia y así debe señalarse en el turno respectivo.
 
@@ -1149,9 +1149,17 @@ I. El Secretario General;
 
 II. Las coordinaciones del área legislativa, que son:
 
-a) La Coordinación de Procesos Legislativos y Asuntos Jurídicos; y
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2022)</small>
 
-b) La Coordinación de Comunicación Social y Atención Ciudadana;
+a) La Coordinación de Procesos Legislativos;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE ABRIL DE 2022)</small>
+
+b) La Coordinación de Asuntos Jurídicos; y
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 21 DE ABRIL DE 2022)</small>
+
+c) La Coordinación de Comunicación Social y Atención Ciudadana;
 
 III. Las coordinaciones del área administrativa, que son:
 
@@ -1253,7 +1261,9 @@ XXVIII. Realizar notificaciones, comunicaciones, citaciones y requerimientos, po
 
 XXIX. Llevar los procedimientos jurídicos que le correspondan o le sean encomendados;
 
-XXX. Vigilar que se brinde el debido soporte jurídico a la Mesa Directiva, por parte de la Coordinación de Procesos Legislativos y Asuntos Jurídicos;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2022)</small>
+
+XXX. Vigilar que se brinde el debido soporte jurídico a la Mesa Directiva, por parte de la Coordinación de Asuntos Jurídicos;
 
 XXXI. Proveer apoyo para la organización y realización de las sesiones de comisión;
 
@@ -1333,9 +1343,11 @@ LXVI. Realizar las acciones tendientes a garantizar la protección de los datos 
 
 LXVII. Las demás que establezcan otras disposiciones aplicables o que le confiera la Asamblea.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2022)</small>
+
 ###### Artículo 74.
 
-1. Las ausencias del Secretario General son suplidas por el titular de la Coordinación de Procesos Legislativos y Asuntos Jurídicos, y en ausencia de éste, por el titular de la Coordinación de Administración y Finanzas.
+1. Las ausencias del Secretario General son suplidas por el titular de la Coordinación de Asuntos Jurídicos, y en ausencia de éste, por el titular de la Coordinación de Procesos Legislativos.
 
 ### Capítulo III. Coordinaciones de la Secretaría General
 
@@ -2589,7 +2601,9 @@ VII. Llevar el seguimiento de los asuntos de la comisión;
 
 VIII. Auxiliar al presidente, en la organización de foros, consultas, mesas de trabajo, conferencias y demás eventos que acuerde la comisión;
 
-IX. Elaborar, en conjunto con la Coordinación de Procesos Legislativos y Asuntos Jurídicos, los proyectos de minutas derivadas de los dictámenes presentados por la comisión y aprobados por la Asamblea;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2022)</small>
+
+IX. Elaborar, en conjunto con la Coordinación de Procesos Legislativos, los proyectos de minutas derivadas de los dictámenes presentados por la comisión y aprobados por la Asamblea;
 
 X. Elaborar los proyectos de informes que deban presentar el presidente o la comisión;
 
@@ -2655,9 +2669,11 @@ VI. La demás información oficial que autorice la Mesa Directiva.
 
 1. El INFOLEJ es el órgano oficial de publicación y consulta permanente de las iniciativas y asuntos en proceso que conoce el Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2022)</small>
+
 ###### Artículo 145.
 
-1. La Coordinación de Procesos Legislativos y Asuntos Jurídicos debe alimentar, actualizar, corregir y publicar la información y documentación del INFOLEJ.
+1. La Coordinación de Procesos Legislativos debe alimentar, actualizar, corregir y publicar la información y documentación del INFOLEJ.
 
 ###### Artículo 146.
 
@@ -2769,7 +2785,9 @@ XI. Un enlace al Diario de los Debates, correspondiente a las sesiones a que se 
 
 XII. La demás información y documentos que señale el manual respectivo.
 
-2. Si existen documentos considerados como reservados o confidenciales en su totalidad por la legislación correspondiente, únicamente se hace pública una leyenda que funde y motive la causa, y los documentos originales quedan a disposición de los diputados y las diputadas para su revisión y consulta en la Coordinación de Procesos Legislativos y Asuntos Jurídicos.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2022)</small>
+
+2. Si existen documentos considerados como reservados o confidenciales en su totalidad por la legislación correspondiente, únicamente se hace pública una leyenda que funde y motive la causa, y los documentos originales quedan a disposición de los diputados y las diputadas para su revisión y consulta en la Coordinación de Procesos Legislativos.
 
 ### Capítulo III. Sistema de Información de Procesos
 
@@ -2821,13 +2839,11 @@ VIII. Las comunicaciones oficiales relativas al proceso legislativo del decreto 
 
 1. La Gaceta es el órgano oficial de publicación, difusión y consulta de las sesiones y eventos de la Asamblea, las comisiones y comités, y los demás órganos del Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2022)</small>
+
 ###### Artículo 155.
 
-1. La Coordinación de Procesos Legislativos y Asuntos Jurídicos debe administrar la Gaceta y otorgar las cuentas de usuario respectivas a los órganos facultados a publicar en la Gaceta.
-
-2. La Jefatura de Apoyo Informático de la Coordinación de Servicios Generales debe dar el soporte técnico a la Gaceta.
-
-3. Las áreas correspondientes deben alimentar, actualizar, corregir y publicar la información y documentación respectiva en la Gaceta, bajo su responsabilidad directa.
+1. La Coordinación de Procesos Legislativos debe administrar la Gaceta y otorgar las cuentas de usuario respectivas a los órganos facultados a publicar en la Gaceta.
 
 ###### Artículo 156.
 
@@ -4592,3 +4608,15 @@ Cuando la Ley Orgánica del Poder Legislativo del Estado de Jalisco y otras disp
 ###### ARTÍCULO CUARTO.
 
 Se instruye al Secretario General del Congreso del Estado y a las instancias correspondientes para que en el término de 30 días naturales para que se lleven a cabo las medidas administrativas, presupuestales, así como las adecuaciones conducentes a los manuales de organización y procedimientos y demás disposiciones necesarias para dar cumplimiento al presente decreto.
+
+P.O. 21 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28756/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA DIVERSOS ARTÍCULOS DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en el periódico oficial "El Estado de Jalisco".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial.
