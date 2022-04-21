@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-la-fiscalia-general-del-estado-de-yucatan-103753"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-29"
-last_updated: "2021-09-06"
+last_updated: "2022-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2022.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 29 de noviembre de 2014.
 
@@ -326,6 +326,16 @@ El vicefiscal especializado en Combate a la Corrupción, durará en su cargo sie
 La vicefiscalía contará con el personal sustantivo, directivo, administrativo y auxiliar capacitados para el debido cumplimiento de sus funciones, así como con las unidades administrativas necesarias para el seguimiento de las investigaciones; se auxiliará en su operación de las unidades administrativas de la Fiscalía General del Estado previstas en el reglamento de esta ley.
 
 El reglamento de esta ley preverá lo relacionado con las atribuciones y funcionamiento de la vicefiscalía y de las unidades administrativas que lo compongan.
+
+> <small>(ADICIONADA, D.O. 21 DE ABRIL DE 2022)</small>
+
+###### Artículo 11 Quáter.
+
+La Vicefiscalía Especializada en Delitos de Tortura y Actos Crueles, Inhumanos y Degradantes es la Unidad Administrativa Especializada en Delitos de Tortura y Actos Crueles, Inhumanos y Degradantes, Órgano de la Fiscalía General del Estado que cuenta con autonomía técnica y operativa para el conocimiento, investigación y persecución de delitos de tortura y actos crueles inhumanos y degradantes.
+
+La Unidad Administrativa Especializada en Delitos de Tortura y Actos Crueles Inhumanos y Degradantes, contará con el personal indispensable y debidamente capacitado para el debido cumplimiento de sus funciones.
+
+La competencia, las obligaciones y facultades de la Unidad a la que hace referencia el párrafo anterior se regirá por lo previsto en esta ley y en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
 
 ### Capítulo III. Servicio profesional de carrera
 
@@ -684,3 +694,15 @@ Artículo primero. Este decreto entrará en vigor el día siguiente al de su pub
 Artículo segundo. La fiscalía contará con 120 días (sic) partir del día siguiente de su publicación en el Diario Oficial del Gobierno del Estado para poner en funcionamiento el Registro de Deudores Alimentarios Morosos de Yucatán.
 
 Artículo tercero. Se derogan las disposiciones emitidas con anterioridad que se opongan al presente decreto.
+
+D.O. 21 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 489/2022 POR EL QUE SE MODIFICA LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN Y LA LEY DE SALUD DEL ESTADO DE YUCATÁN, EN MATERIA DE TORTURA Y TRATOS CRUELES, INHUMANOS Y DEGRADANTES”.]
+
+Entrada en vigor.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Derogación expresa.
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
