@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-libre-y-soberano-de-jalisco-142912"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2021-10-02"
+last_updated: "2022-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2022.
 
 Ley publicada en la Edición Especial al Número 50 Bis del Periódico Oficial del Estado de Jalisco, el viernes 15 de mayo de 2020.
 
@@ -1755,9 +1755,13 @@ Para la admisión, promoción y reconocimiento del personal docente o con funcio
 
 Atribuciones para lograr la equidad en educación
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 21 DE ABRIL DE 2022)</small>
+
 ###### Artículo 118.
 
 Las autoridades educativas estatal y municipales, prestarán servicios educativos con equidad y excelencia. Las medidas que adopte para tal efecto estarán dirigidas, de manera prioritaria, a quienes pertenezcan a grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual o prácticas culturales.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 21 DE ABRIL DE 2022)</small>
 
 Para tal efecto realizarán entre otras, las siguientes acciones:
 
@@ -1795,9 +1799,17 @@ XIV. Adoptar las medidas para que, con independencia de su nacionalidad o condic
 
 XV. Promover medidas para facilitar y garantizar la incorporación y permanencia a los servicios educativos públicos a las niñas, niños, adolescentes y jóvenes que hayan sido repatriados a nuestro país, regresen voluntariamente o enfrenten situaciones de desplazamiento o migración interna;
 
-XVI. Proporcionar a los educandos los libros de texto gratuitos y materiales educativos impresos o en formatos digitales para la educación básica, garantizando su distribución; y
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2022)</small>
 
-XVII. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia.
+XVI. Proporcionar a los educandos los libros de texto gratuitos y materiales educativos impresos o en formatos digitales para la educación básica, garantizando su distribución;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2022)</small>
+
+XVII. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ABRIL DE 2022)</small>
+
+XVIII. Otorgar en coordinación con la Secretaria de Salud, productos para la gestión menstrual en las escuelas públicas pertenecientes al sistema educativo estatal de forma gratuita y accesible a niñas, jóvenes y personas menstruantes, priorizando aquellos centros educativos que se encuentren en zonas de escasos recursos.
 
 Consejo Nacional de Autoridades Educativas
 
@@ -2416,3 +2428,13 @@ P.O. 2 DE OCTUBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28444/LXII/21 DEL CONGRESO DEL ESTADO QUE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 16, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 81 Y ADICIONA LA FRACCIÓN III RECORRIÉNDOSE DE MANERA SUCESIVA LA FRACCIÓN IV A LA VII DEL ARTÍCULO 126 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco"
+
+P.O. 21 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28763/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 45, 92 Y 113 DE LA LEY DE SALUD DEL ESTADO DE JALISCO, Y 118 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El cumplimiento del presente decreto para el ejercicio fiscal 2022 se realizará con la suficiencia presupuestal establecida en el programa presupuestario 811 Fomento de la salud de los alumnos de Educación Básica en su indicador nivel componente identificado como 19 Total de alumnas de educación básica y media superior atendidas.
+
+TERCERO. El Poder Ejecutivo deberá considerar los recursos necesarios para el cumplimiento de este decreto en los ejercicios fiscales subsecuentes.
