@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2021-07-06"
+last_updated: "2022-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2022.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -199,7 +199,9 @@ II. Violencia psicológica. Es cualquier acto u omisión que dañe la estabilida
 
 III. Violencia patrimonial. Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima;
 
-IV. Violencia económica. Es toda acción u omisión de la persona agresora que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar, privar o restringir sus percepciones económicas, la administración de sus bienes propios, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2022)</small>
+
+IV. Violencia económica. Es toda acción u omisión de la persona agresora que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar, privar o restringir sus percepciones económicas, la administración de sus bienes propios, que provocan o perpetúan la brecha de género, así como todo tipo de discriminación económica por razón de género;
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
@@ -225,11 +227,15 @@ La violencia contra las mujeres se manifiesta en distintos ámbitos y modalidade
 
 I. Violencia familiar en contra de las mujeres, se considera a la ejercida dentro o fuera del domicilio de la víctima, cometida por la persona agresora con quien se tiene o se ha tenido un parentesco por consanguinidad o afinidad, o derivada de una relación de concubinato o matrimonio o de hecho;
 
-II. Violencia Laboral, es la ejercida por las personas que tienen un vínculo laboral o análogo con la víctima, independientemente de la relación jerárquica; y consiste en la acción u omisión que atenta contra la igualdad y dignidad del receptor y por tanto daña su autoestima, salud, integridad, libertad y seguridad e impide su desarrollo armónico;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2022)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE DICIEMBRE DE 2015)</small>
+II. Violencia Laboral, es la ejercida por las personas que tienen un vínculo laboral o análogo con la víctima, independientemente de la relación jerárquica; y consiste en la acción u omisión que atenta contra la igualdad y dignidad de la persona receptora y por tanto daña su autoestima, salud, integridad, libertad y seguridad e impide su desarrollo armónico. Se puede manifestar a través de la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales del trabajo.
 
-Además la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a las mujeres de llevar a cabo el período de lactancia o cualquier otra forma de discriminación prevista en la ley, asimismo se considerará violencia laboral solicitar como requisito de contratación examen de ingravidez;
+Constituye, también, violencia laboral, las acciones u omisiones que directa o indirectamente perpetúen la brecha salarial de género, o la percepción de un salario menor por trabajo igual o de igual valor, inobservando el principio de proporcionalidad, dentro de un mismo centro laboral; así como preguntar el historial salarial en el proceso de contratación o de la relación laboral.
+
+Además, la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a las mujeres de llevar a cabo el período de lactancia o cualquier otra forma de discriminación prevista en la ley, asimismo se considerará violencia laboral solicitar como requisito de contratación examen de ingravidez.
+
+Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño.
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -1916,3 +1922,9 @@ P.O. 6 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28411/LXII/21 QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 9 DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 21 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28771/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, LEY ESTATAL PARA LA IGUALDAD ENTRE LAS MUJERES Y HOMBRES; LEY ORGÁNICA DEL PODER EJECUTIVO; LEY ORGÁNICA DEL PODER JUDICIAL; Y LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO Y SUS MUNICIPIOS, TODAS LEYES DEL ESTADO DE JALISCO, EN MATERIA DE IGUALDAD SALARIAL, NO DISCRIMINACIÓN Y VIOLENCIA LABORAL CONTRA LAS MUJERES”.]
+
+ÚNICO. El presente decreto entrará en vigor a partir del siguiente día de su publicación en el periódico oficial "El Estado de Jalisco”
