@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-131939"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-05"
-last_updated: "2021-09-30"
+last_updated: "2022-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2022.
 
 Ley publicada en el Número 24 Bis Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -631,9 +631,13 @@ De la Prestación de Servicios en la Infancia y Adolescencia.
 
 1. La atención infantil abarca los servicios de salud prestados al individuo desde su nacimiento y desarrollo hasta la mayoría de edad, con especial énfasis en la prevención de enfermedades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE ABRIL DE 2022)</small>
+
 ###### Artículo 45.
 
 Obligaciones de la Secretaría.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE ABRIL DE 2022)</small>
 
 1. Es obligación de la Secretaría de Salud, en materia de salud infantil:
 
@@ -641,9 +645,17 @@ I. Promover la vacunación universal y oportuna;
 
 II. Proporcionar atención a las enfermedades hereditarias y congénitas, con detección y tratamiento tempranos;
 
-III. Realizar acciones para diagnosticar y ayudar a resolver el problema de salud de los niños en las escuelas públicas y privadas, en coordinación con la Secretaría de Educación; y
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2022)</small>
 
-IV. Promover la integración y el bienestar familiar.
+III. Realizar acciones para diagnosticar y ayudar a resolver el problema de salud de los niños en las escuelas públicas y privadas, en coordinación con la Secretaría de Educación;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2022)</small>
+
+IV. Promover la integración y el bienestar familiar; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ABRIL DE 2022)</small>
+
+V. Coadyuvar con la Secretaría de Educación para otorgar en las escuelas públicas pertenecientes al sistema educativo estatal productos para la gestión menstrual a niñas, jóvenes y personas menstruantes, priorizando aquellos centros educativos que se encuentren en zonas de escasos recursos.
 
 ###### Artículo 46.
 
@@ -1227,11 +1239,15 @@ Atención Integral de la Salud de la Mujer. Coordinación.
 
 1. La Secretaría de Salud, y los organismos públicos descentralizados y desconcentrados, en coordinación con el sector público federal y el privado, realizarán anualmente el Programa de Atención Integral de la Mujer.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE ABRIL DE 2022)</small>
+
 ###### Artículo 92.
 
 Atención Integral de la Salud de la Mujer. Acciones.
 
-1. La Secretaría de Salud en coordinación con el Instituto Jalisciense de las Mujeres, diseñarán los instrumentos rectores que regulen las acciones en torno a la atención de los problemas de salud específicos de la mujer, mismo que deberá contener los siguientes apartados:
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2022)</small>
+
+1. La Secretaría de Salud en coordinación con la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, diseñarán los instrumentos rectores que regulen las acciones en torno a la atención de los problemas de salud específicos de la mujer, mismo que deberá contener los siguientes apartados:
 
 I. El diagnóstico situacional de las necesidades en materia de salud de las mujeres en el estado;
 
@@ -1509,9 +1525,13 @@ V. De la prestación del servicio de cuidados paliativos.
 
 #### SECCIÓN SEGUNDA. DE LA EDUCACIÓN PARA LA SALUD
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE ABRIL DE 2022)</small>
+
 ###### Artículo 113.
 
 Educación para la Salud. Programas.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE ABRIL DE 2022)</small>
 
 1. La educación para la salud tiene por objeto:
 
@@ -1521,9 +1541,9 @@ II. Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 III. Proporcionar a la población información sobre los riesgos del uso de medicamentos fuera de lo prescrito y sus efectos en el abuso de los mismos;
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2022)</small>
 
-IV. Orientar y capacitar a la población, preferentemente, en materia de nutrición y combate a la obesidad, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, riesgos del consumo de alcohol durante el embarazo, alcoholismo, inhalantes y otras substancias tóxicas, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención, habilitación y rehabilitación de la discapacidad y detección oportuna de enfermedades, enfermedades raras y, catastróficas.; y
+IV. Orientar y capacitar a la población, preferentemente, en materia de nutrición y combate a la obesidad, salud mental, salud bucal, educación menstrual, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, riesgos del consumo de alcohol durante el embarazo, alcoholismo, inhalantes y otras substancias tóxicas, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención, habilitación y rehabilitación de la discapacidad y detección oportuna de enfermedades, enfermedades raras y, catastróficas; y
 
 V. Fomentar en la población la cultura de la donación de sangre, órganos y tejidos.
 
@@ -4682,3 +4702,13 @@ Noveno. La Contraloría del Estado deberá realizar una auditoría al organismo 
 Décimo. Se autoriza al Titular del Ejecutivo para efectuar las modificaciones reglamentarias necesarias en un término de 120 días naturales contados a partir del inicio de vigencia del presente decreto.
 
 Décimo Primero. El Titular del Ejecutivo del estado deberá garantizar el respeto a los derechos adquiridos por parte de los trabajadores del consejo que se extingue y publicitar, paso a paso, el proceso de extinción y liquidación del mismo.
+
+P.O. 21 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28763/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 45, 92 Y 113 DE LA LEY DE SALUD DEL ESTADO DE JALISCO, Y 118 DE LA LEY DE EDUCACION DEL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO.- El cumplimiento del presente decreto para el ejercicio fiscal 2022 se realizará con la suficiencia presupuestal establecida en el programa presupuestario 811 Fomento de la salud de los alumnos de Educación Básica en su indicador nivel componente identificado como 19 Total de alumnas de educación básica y media superior atendidas.
+
+TERCERO. El Poder Ejecutivo deberá considerar los recursos necesarios para el cumplimiento de este decreto en los ejercicios fiscales subsecuentes.
