@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-sistema-para-el-desarrollo-integral-13321
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-02-06"
-last_updated: "2019-02-06"
+last_updated: "2022-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133216&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-02-01"
 
 ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE ABRIL DE 2022.
 
 Estatuto publicado en el No. 25 de la Gaceta Oficial de la Ciudad de México, el miércoles 6 de febrero de 2019.
 
@@ -486,7 +486,9 @@ XVIII. Proponer a la Dirección General la celebración de convenios o acuerdos 
 
 XIX. Establecer de acuerdo a los lineamientos y directrices fijados por la Dirección General, las políticas orientadas a promover y fomentar el mejoramiento de las condiciones sociales del individuo, la familia y la comunidad, primordialmente en zonas de vulnerabilidad y/o marginación social en la Ciudad de México;
 
-XX. Vigilar en términos administrativos y operativos que los Centros de Desarrollo Comunitario, Centros Familiares, Centros de Bienestar Social y Urbano, Centros de Capacitación para Instructores y Técnicos y Áreas Operativas de Medicina Preventiva y las purificadoras de agua para consumo humano, cumplan con las políticas, normas, reglamentos, programas y servicios que le han sido encomendados;
+> <small>(REFORMADA, G.O. 21 DE ABRIL DE 2022)</small>
+
+XX. Vigilar en términos administrativos y operativos que los Centros DIF Ciudad de México, Centros de Capacitación para Instructores y Técnicos y Áreas Operativas de Medicina Preventiva y las purificadoras de agua para consumo humano, cumplan con las políticas, normas, reglamentos, programas y servicios que le han sido encomendados;
 
 XXI. Promover en los espacios señalados en la fracción anterior, el bienestar, la participación comunitaria y familiar, y las demás que se establezcan para dar cumplimiento a la atención de la población;
 
@@ -757,3 +759,15 @@ Ciudad de México al primer día del mes de febrero del dos mil diecinueve.
 LICDA. ESTHELA DAMIÁN PERALTA
 
 DIRECTORA GENERAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 21 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL QUE SE DA A CONOCER LA REFORMA A SU ESTATUTO ORGÁNICO”.]
+
+PRIMERO.- La reforma al Estatuto entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia de la Ciudad de México con la reforma correspondiente, podrá ser consultado en la dirección electrónica https://www.dif.cdmx.gob.mx/dependencia/marco-normativo, apartado Marco Normativo del portal electrónico del DIF Ciudad de México.
+
+TERCERO.- La Dirección Ejecutiva de Administración y Finanzas en el DIF Ciudad de México, realizará las adecuaciones y gestiones ante la Secretaría de Administración y Finanzas para la modificación del Manual Administrativo del Organismo; así como las unidades administrativas harán lo correspondiente con los demás ordenamientos que sean necesarios para el adecuado desarrollo de sus funciones.
