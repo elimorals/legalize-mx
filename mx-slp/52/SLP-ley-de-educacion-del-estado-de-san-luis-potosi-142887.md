@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-142887"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-14"
-last_updated: "2021-04-13"
+last_updated: "2022-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de mayo de 2020.
 
@@ -195,9 +195,15 @@ VII. Promover la comprensión, el aprecio, el conocimiento y enseñanza de la pl
 
 VIII. Inculcar el respeto por la naturaleza, a través de la generación de capacidades y habilidades que aseguren el manejo integral, la conservación y el aprovechamiento de los recursos naturales, el desarrollo sostenible y la resiliencia frente al cambio climático;
 
-IX. Fomentar la honestidad, el civismo y los valores necesarios para transformar la vida pública del país y de la Entidad federativa de San Luis Potosí, y
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2022)</small>
 
-X. Todos aquellos que contribuyan al bienestar y desarrollo del país y del Estado.
+IX. Fomentar la honestidad, el civismo y los valores necesarios para transformar la vida pública del país y de la Entidad federativa de San Luis Potosí;
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2022)</small>
+
+X. Fomentar entre las instituciones educativas, los padres de familia y los educandos, la cultura del ahorro, de la preservación y restauración del equilibrio ecológico, así como del desarrollo sustentable, entre otras acciones, como la de evitar el uso del plástico en el forro de libros y libretas, y
+
+XI. Todos aquellos que contribuyan al bienestar y desarrollo del país y del Estado.
 
 ###### ARTÍCULO 14.
 
@@ -2062,5 +2068,13 @@ P.O. 13 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1156.- SE REFORMA EL ARTÍCULO 104 EN SUS FRACCIONES XVII Y XVIII; Y ADICIONA A LOS ARTÍCULOS 94 UN PÁRRAFO Y 104 LA FRACCIÓN XIX, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0301.- SE REFORMA EL ARTÍCULO 13 EN SU FRACCIÓN IX; Y ADICIONA AL MISMO ARTÍCULO 13 UNA FRACCIÓN, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
