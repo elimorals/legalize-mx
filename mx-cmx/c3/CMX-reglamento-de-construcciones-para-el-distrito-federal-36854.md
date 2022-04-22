@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-construcciones-para-el-distrito-federal-36854"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-29"
-last_updated: "2021-12-10"
+last_updated: "2022-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36854&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-01-27"
 
 REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 10 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE ABRIL DE 2022.
 
 Reglamento publicado en el Número Ter de la Gaceta Oficial del Distrito Federal, el jueves 29 de enero de 2004.
 
@@ -1717,6 +1717,10 @@ IX. En pozos de exploración para estudios varios y obras de jardinería;
 X. Tapiales que invadan la acera en una medida menor de 0.5 m, y
 
 XI. Obras similares a las anteriores cuando no afecten elementos estructurales.
+
+> <small>(ADICIONADA, G.O. 22 DE ABRIL DE 2022)</small>
+
+XII. Las obras generadas de los programas del Gobierno Central de la Ciudad de México tendientes al mejoramiento de los barrios, colonias, pueblos y unidades habitacionales con bajo desarrollo social y alta marginalidad en la Ciudad de México.
 
 ###### ARTÍCULO 63.
 
@@ -3981,6 +3985,14 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 G.O. 10 DE DICIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL PARA SIMPLIFICAR TRÁMITES DE CONSTRUCCIÓN E IMPLEMENTAR MECANISMOS DE TRANSPARENCIA Y RENDICIÓN DE CUENTAS EN MATERIA DE SEGURIDAD ESTRUCTURAL EN INMUEBLES PERTENECIENTES AL SECTOR EDUCATIVO".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 22 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 62 DEL REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL A FIN DE DISMINUIR Y SIMPLIFICAR TRÁMITES PARA EL MEJORAMIENTO DE BARRIOS, COLONIAS, PUEBLOS Y UNIDADES HABITACIONALES CON BAJO DESARROLLO SOCIAL Y ALTA MARGINALIDAD EN LA CIUDAD DE MÉXICO”.]
 
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
