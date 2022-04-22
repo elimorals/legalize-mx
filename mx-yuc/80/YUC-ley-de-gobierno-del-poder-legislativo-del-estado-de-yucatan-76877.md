@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-del-poder-legislativo-del-estado-de-yucatan-768
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-04"
-last_updated: "2020-07-22"
+last_updated: "2022-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE ABRIL DE 2022.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 4 de octubre de 2010.
 
@@ -855,7 +855,9 @@ c) Cuestiones de finanzas públicas estatales y municipales; y
 
 d) Las solicitudes que afecten de alguna forma el patrimonio del Estado o los municipios, así como la autorización de financiamientos y afectación de ingresos del Poder Ejecutivo del Estado y de los ayuntamientos.
 
-V.- DESARROLLO ECONÓMICO Y FOMENTO AL EMPLEO. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con el crecimiento económico del Estado a través del comercio, la industria, el turismo y el empleo, en lo referente a:
+> <small>(REFORMADO ESTE PÁRRAFO, D.O. 22 DE ABRIL DE 2022)</small>
+
+V.- DESARROLLO ECONÓMICO Y FOMENTO AL EMPLEO. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con el crecimiento económico del Estado a través del comercio, la industria y el empleo, en lo referente a:
 
 a) El desarrollo sustentable de todos los sectores involucrados en materia económica en Yucatán;
 
@@ -871,7 +873,7 @@ f) La política de organización cooperativa y de cualquier otro tipo;
 
 g) La producción y comercialización de productos naturales e industriales, y
 
-h) La actividad turística.
+h) (DEROGADO, D.O. 22 DE ABRIL DE 2022).
 
 VI.- DESARROLLO AGROPECUARIO. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con las actividades orientadas al cultivo del campo, la crianza de animales, apicultura, avícola y el aprovechamiento de los recursos pesqueros para consumo o producción, en lo referente a:
 
@@ -1043,9 +1045,9 @@ d) El fomento y estímulo de las manifestaciones de creatividad artística e int
 
 e) Lo relativo al fomento y desarrollo de las actividades artesanales de las distintas regiones de la entidad;
 
-> <small>(ADICIONADA, D.O. 9 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO ESTE PÁRRAFO, D.O. 22 DE ABRIL DE 2022)</small>
 
-XVI.- CULTURA FÍSICA Y DEPORTE.- Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con:
+XVI.- JUVENTUD, CULTURA FÍSICA Y DEPORTE. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con:
 
 a) Los temas relativos al deporte;
 
@@ -1055,9 +1057,85 @@ c) Realización de actividades que promuevan y fortalezcan la cultura física en
 
 d) La formación integral de los ciudadanos que contribuya a su desarrollo físico, psicológico, social y cultural, así como su vinculación y participación activa en la vida nacional, social, económica y política.
 
-> <small>(ADICIONADO, D.O. 9 DE OCTUBRE DE 2015)</small>
+> <small>(ADICIONADO, D.O. 22 DE ABRIL DE 2022)</small>
 
-Los asuntos que no estén descritos en las fracciones que anteceden, pero que guardan relación con los temas competencia de las Comisiones, serán turnados para su estudio, análisis y dictamen a la Comisión correspondiente.
+e) La promoción ante las instancias correspondientes, Instituciones, Organismos Públicos y Privados, Estatales o Nacionales, de la participación de la juventud en la vida social, política, económica y cultural de la entidad, con el fin de procurar (sic) desarrollo integral;
+
+> <small>(ADICIONADO, D.O. 22 DE ABRIL DE 2022)</small>
+
+f) La gestión de asuntos, demandas, opiniones y propuestas de la juventud, así como la atención integral de los problemas que le son propios, y
+
+> <small>(ADICIONADO, D.O. 22 DE ABRIL DE 2022)</small>
+
+g) Lo referente a medidas para la prevención, atención y erradicación de la farmacodependencia y las adicciones entre jóvenes.
+
+> <small>(ADICIONADA, D.O. 22 DE ABRIL DE 2022)</small>
+
+XVII.- TURISMO Y PROMOCIÓN INTERNACIONAL. Tendrá por objeto estudiar, analizar y dictaminar sobre las iniciativas relacionadas con el turismo, así como de los asuntos en materia de promoción internacional del Estado vinculadas con el mismo, para lo cual conocerá todo lo relativo a:
+
+a) Los criterios de coordinación en la entidad que repercutan en asuntos de la materia.
+
+b) El desarrollo de los proyectos turísticos, su impacto económico y social en la entidad.
+
+c) El crecimiento económico y social a través de mecanismos turísticos.
+
+d) Los problemas en el sector a fin de plantear soluciones.
+
+e) Impulsar las acciones turísticas mediante la coordinación de las autoridades involucradas en el mismo.
+
+f) El impulso, fortalecimiento y preservación de la actividad turística, sin detrimento del ambiente, imagen urbana o derechos humanos.
+
+g) El incremento o mejora en la calidad de las actividades de servicios turísticos en el Estado, así como las bases normativas para la regulación de rutas, recorridos y exhibiciones turísticas de competencia estatal y el impulso desde el ámbito municipal; así como el conocimiento sobre la promoción del legado histórico, riqueza gastronómica y lugares turísticos.
+
+h) El fortalecimiento de la difusión nacional e internacional de los destinos turísticos del estado.
+
+i) El establecimiento de estrategias o mecanismos para ampliar y consolidar las ventajas competitivas en materia turística y comercial del estado a nivel nacional e internacional.
+
+j) El impulso de instrumentos de cooperación nacional e internacional con organismos del sector turístico que permitan el crecimiento económico y social del Estado.
+
+k) Coadyuvar en la difusión, promoción y ejecución de convenios y tratados internacionales signados por el Ejecutivo Federal en los que tenga intervención el Estado de Yucatán.
+
+l) Coadyuvar con las demás comisiones del Congreso cuyos asuntos sean o puedan llegar a ser de carácter internacional, y
+
+m) Las demás que por conducto de la Mesa Directiva del Congreso del Estado le sean turnados.
+
+> <small>(ADICIONADA, D.O. 22 DE ABRIL DE 2022)</small>
+
+XVIII.- DESARROLLO HUMANO E INCLUSIÓN DE LOS GRUPOS EN SITUACIÓN DE VULNERABILIDAD, la cual tendrá por objeto estudiar, analizar y dictaminar sobre los asuntos relacionados con las reformas a las leyes en esta materia, para lo cual conocerá todo lo relativo a:
+
+a) A los mecanismos de garantía de los derechos de las personas con discapacidad, en términos de la Constitución Política de los Estados Unidos Mexicanos, así como de los tratados, convenciones e instrumentos internacionales en la materia.
+
+b) Acciones legislativas en favor de la inclusión social, política, económica de las personas con discapacidad en el marco de legislación y de las políticas públicas.
+
+c) Medidas que promuevan, garanticen, protejan y respeten la igualdad y no discriminación de las personas con discapacidad.
+
+d) La participación de las personas con discapacidad, sus familias, personas físicas o morales y las organizaciones de la sociedad civil cuyo objeto sea su atención o la promoción de sus derechos, cuando se analice la legislación referente a sus derechos.
+
+e) El desarrollo integral de las personas con discapacidad, de manera plena y autónoma.
+
+f) Fomentar la integración social de las personas con discapacidad, a través del ejercicio de sus derechos civiles y políticos.
+
+g) El pleno goce y ejercicio de los derechos fundamentales de las personas con discapacidad.
+
+h) Impulsar la adopción de acciones afirmativas de las personas con discapacidad para participar plenamente en la vida política, económica, social y cultural.
+
+i) Promover los derechos de la niñez.
+
+j) Los asuntos relacionados con adolescentes y jóvenes en condición de vulnerabilidad.
+
+k) Todos los asuntos relacionados a los derechos del adulto mayor.
+
+l) Cuestiones que se refieran a los pueblos originarios y afrodescendientes.
+
+m) Atender el desarrollo social integrando a todos los grupos, comunidades y personas atendiendo a quienes requieran la asistencia del Estado.
+
+n) Promover el desarrollo Humano de cada persona o comunidad valorando sus particularidades y contexto donde se desenvuelve, y
+
+ñ) Las demás que por conducto de la Mesa Directiva del Congreso del Estado le sean turnados.
+
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2022)</small>
+
+Los asuntos que no estén descritos en las fracciones que anteceden, pero que guardan relación con los temas de competencia de las Comisiones, serán turnados para su estudio, análisis y dictamen a la Comisión correspondiente.
 
 ###### Artículo 44.
 
@@ -2000,3 +2078,27 @@ Artículo primero. Este decreto entrará en vigor el día siguiente al de su pub
 Artículo segundo. Se instruye al Director General de Administración y Finanzas del Honorable Congreso del Estado de Yucatán para que (sic) un plazo no mayor a 15 días, contados a partir de la entrada en vigor de este decreto para que (sic) presente a la Junta de Gobierno y Coordinación Política y a la Presidencia de la Mesa Directiva, la plataforma tecnológica que habrá de funcionar para las sesiones a las que se refiere este decreto.
 
 Artículo tercero. La Secretaría General y la Dirección de Administración y Finanzas del Poder Legislativo en conjunto con el área encargada del sistema informático legislativo deberán realizar, periódicamente, simulacros de Sesiones Fuera del Recinto Legislativo mediante el uso de las tecnologías de la información y la comunicación a efecto de mantener actualizadas a las y los diputados en el uso y metodología de las mismas.
+
+D.O. 22 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 490/2022 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, EN MATERIA DE COMISIONES PERMANENTES”.]
+
+Entrada en Vigor.
+
+Artículo primero. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Integración.
+
+Artículo segundo. Los integrantes de las actuales Comisiones especiales de Turismo y, la de Desarrollo Humano e Inclusión de los Grupos en Situación de Vulnerabilidad, pasarán a integrar las Comisiones Permanentes de Turismo y Promoción Internacional que se adiciona en este Decreto mediante la fracción XVII del artículo 43 de la Ley de Gobierno del Poder Legislativo del Estado de Yucatán; y la de Desarrollo Humano e Inclusión de los Grupos en Situación de Vulnerabilidad que se adiciona en este Decreto mediante la fracción XVIII del artículo 43 de la Ley de Gobierno del Poder Legislativo del Estado de Yucatán, quienes durarán en sus funciones todo el periodo constitucional de la Sexagésima Tercera Legislatura del Honorable Congreso del Estado de Yucatán.
+
+Abrogación.
+
+Artículo tercero. Se abroga el Acuerdo de fecha 13 de marzo del año 2019, publicado en el Diario Oficial del Gobierno del Estado el 19 de marzo de 2019, mediante el cual, se crearon entre otras, las Comisiones Especiales de Turismo y la de Desarrollo Humano e Inclusión de los Grupos en Situación de Vulnerabilidad.
+
+Continuación de asuntos pendientes.
+
+Artículo cuarto. Los asuntos pendientes de resolución que les fueron turnadas (sic) a las Comisiones especiales que se abrogan y las que les sean turnadas hasta el momento de la entrada en vigor de este decreto, continuarán con los trámites respectivos, en las nuevas comisiones permanentes según corresponda.
+
+Cláusula derogatoria.
+
+Artículo quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
