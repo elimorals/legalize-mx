@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2022-02-25"
+last_updated: "2022-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -667,21 +667,25 @@ La transmisión de la propiedad que corresponda al pago en especie al fisco, deb
 
 ### CAPITULO V. IMPUESTO SOBRE SERVICIOS DE HOSPEDAJE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2022)</small>
+
 ###### ARTICULO 29.
 
-Es objeto de este impuesto el pago por el servicio de hospedaje que se reciba en hoteles, moteles, suites posadas, campamentos, paraderos de casas rodantes y de tiempo compartido, así como en toda clase de establecimientos que presten servicios de esta naturaleza.
+Es objeto de este impuesto el ingreso por el pago del servicio de hospedaje que presten los hoteles, moteles, suites posadas, campamentos, paraderos de casas rodantes y de tiempo compartido, así como en toda clase de establecimientos que presten servicios de esta naturaleza, incluyendo departamentos, casas y villas particulares, de forma parcial o total.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2020)</small>
 
 Para efectos de este impuesto, se consideran servicios de hospedaje la prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación. No se consideran servicios de hospedaje, el albergue o alojamientos prestados por hospitales, clínicas, asilos, conventos, seminarios, internados y aquellos prestados por establecimientos con fines no lucrativos.
 
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2022)</small>
 
-Cuando el servicio de hospedaje se preste a través o con intención de una persona física o moral con carácter de intermediario, promotor o facilitador en el cobro de contraprestaciones por el servicio de hospedaje por medio de aplicaciones, plataformas digitales y similares, éste deberá retener y enterar el impuesto.
+Cuando el servicio de hospedaje se preste a través o con intervención de una persona física o moral con carácter de intermediario, promotor o facilitador en el cobro de las contraprestaciones por el servicio de hospedaje por medio de aplicaciones, plataformas digitales y similares, éste deberá retener y enterar el impuesto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2022)</small>
 
 ###### ARTICULO 30.
 
-Son sujetos al pago del impuesto que establece este capítulo todas las personas físicas o morales que dentro del Estado de San Luis Potosí reciban los servicios mencionados en el artículo anterior.
+Son sujetos al pago del impuesto que establece este capítulo, las personas físicas y morales que en el Estado de San Luis Potosí reciban ingresos por otorgar los servicios enunciados en el artículo anterior.
 
 > <small>(ADICIONADO, P.O. 4 DE JULIO DE 2020)</small>
 
@@ -703,19 +707,15 @@ Para estos efectos, el prestador del servicio de hospedaje deberá realizar el d
 
 Tratándose de servicios de hospedaje bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto el monto de los pagos que se reciban por cuotas considerando únicamente el importe desglosado del servicio de hospedaje.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2022)</small>
 
 ###### ARTICULO 32.
 
-El impuesto se calculará y determinará aplicando a la base que señala el artículo anterior, una tasa del tres por ciento.
+El impuesto se calculará y determinará aplicando a la base que señala el artículo anterior, la tasa del tres por ciento.
 
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2020)</small>
+La retención a la que se refiere el párrafo último del artículo 29 de esta Ley, será del tres por ciento del importe pagado por el servicio total del hospedaje de conformidad con el artículo anterior.
 
-En el caso de los prestadores de servicio de hospedaje ofertados a través de plataformas digitales contemplados por esta Ley, la tasa será del 1.5%.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2020)</small>
-
-La retención a la que se refiere el párrafo último del artículo 29 de este capítulo, se deberá efectuar hasta por el monto total del impuesto causado.
+Cuando el servicio de hospedaje sea pagado a los intermediarios, promotoras o facilitadoras a través de las aplicaciones, plataformas tecnológicas y similares, y el prestador de servicio de hospedaje no pueda acreditarlo, la retención se considerará como pago definitivo.
 
 ###### ARTICULO 33.
 
@@ -725,11 +725,11 @@ Este impuesto se causará en el momento de pago por la prestación del servicio 
 
 La retención a la que se refiere el párrafo último del artículo 29 de este capítulo, se realizará en el momento del pago por la prestación del servicio de hospedaje recibido, a través de las aplicaciones, plataformas tecnológicas y similares.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2022)</small>
 
 ###### ARTICULO 34.
 
-Los prestadores de servicios de hospedaje, deberán calcular el impuesto y trasladarlo al momento del cobro; mensualmente enterarán el monto recaudado mediante declaración provisional, a cuenta del impuesto anual, utilizando los formatos aprobados por la Secretaría de Finanzas. Las declaraciones se presentarán en las oficinas recaudadoras o establecimientos autorizados, correspondientes al domicilio del prestador de los servicios de hospedaje en los plazos siguientes:
+Los prestadores de servicios de hospedaje deberán calcular el impuesto y trasladarlo al momento del cobro, y enterar el monto recaudado por cada mes de calendario, mediante declaración que presentarán ante las oficinas recaudadoras o establecimientos autorizados, correspondientes al domicilio del prestador de los servicios de hospedaje, utilizando para tal efecto, los formatos aprobados por la Secretaría de Finanzas. La declaración se presentará en los plazos siguientes:
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2020)</small>
 
@@ -743,7 +743,7 @@ II. Tratándose de personas morales a más tardar el día 17 siguiente al mes en
 
 III. Tratándose de personas físicas o morales obligadas a retener y enterar el impuesto en términos del párrafo último del artículo 29 de este capítulo, a más tardar el día 17 siguiente al mes en que se cause y retenga el impuesto.
 
-El impuesto del ejercicio, deducidos los pagos provisionales, se pagará mediante declaración ante la Oficina Recaudadora correspondiente al domicilio fiscal del contribuyente dentro de los tres meses siguientes al cierre del ejercicio.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 22 DE ABRIL DE 2022)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -3578,6 +3578,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 25 DE FEBRERO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0270.- SE REFORMA EL ARTÍCULO 64 EN SU FRACCIÓN I, EL INCISO G), DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 22 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0303.- SE REFORMAN LOS ARTÍCULOS 29, 30, 32, Y 34; Y DEROGA DEL ARTÍCULO 34 EL PÁRRAFO QUINTO, DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
