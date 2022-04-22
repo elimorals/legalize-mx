@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129830"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-17"
-last_updated: "2020-11-30"
+last_updated: "2022-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 17 de julio de 2018.
 
@@ -5977,7 +5977,9 @@ VI. La Unidad de Protección Civil municipal o su equivalente;
 
 VII. El Instituto Municipal de Planeación o su equivalente;
 
-VIII. En su caso el H. Cuerpo de Bomberos, cuando así se requiera a juicio de la Dirección Municipal, y
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2022)</small>
+
+VIII. El H. Cuerpo de Bomberos, y
 
 IX. Del fraccionador a través de la Cámara Mexicana de la Industria y la Construcción (CMIC) y/o la Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda (CANADEVI), quien fungirá como testigo de la transparencia y cumplimiento de los términos que establece este Título y contará con voz, pero no con voto.
 
@@ -6906,3 +6908,11 @@ P.O. 30 DE NOVIEMBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido por el presente Decreto.
+
+P.O. 22 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0302.- SE REFORMA EL ARTÍCULO 427 EN SU FRACCIÓN VIII, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan lo dispuesto al presente Decreto.
