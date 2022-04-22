@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2021-06-05"
+last_updated: "2022-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -1551,7 +1551,9 @@ Además de lo señalado en el artículo 84 de la presente Ley, el Poder Legislat
 
 I. Agenda legislativa;
 
-II. La Gaceta Parlamentaria que contendrá el orden del día de la sesión del Pleno; y el sentido de la votación de cada diputado en las votaciones nominales y económicas; las iniciativas de, ley, decreto, acuerdo económico; acuerdo administrativo; puntos de acuerdo; y dictámenes de las comisiones; decretos y acuerdos aprobados;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2022)</small>
+
+II. La Gaceta Parlamentaria que contendrá el orden del día de la sesión del Pleno; y el sentido de la votación de cada diputada y diputado en las votaciones nominales y económicas; con periodicidad mensual un concentrado con información sobre el sentido de las votaciones de cada diputada y diputado en las votaciones nominales y económicas, en relación con cada uno de los asuntos votados; las iniciativas de, ley, decreto, acuerdo económico; acuerdo administrativo; puntos de acuerdo; y dictámenes de las comisiones; decretos y acuerdos aprobados;
 
 III. Orden del Día de cada una de sus sesiones del Pleno; de las comisiones y los comités;
 
@@ -1559,7 +1561,9 @@ IV. El Diario de los Debates;
 
 V. Las versiones estenográficas;
 
-VI. La asistencia de a cada una de las sesiones del Pleno, de las comisiones y comités;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2022)</small>
+
+VI. La asistencia de a cada una de las sesiones del Pleno, de las comisiones y comités; y con periodicidad mensual un concentrado con información sobre la asistencia de cada diputada y diputado a las reuniones de las comisiones y comités de las que formen parte, así como de la Junta de Coordinación Política;
 
 VII. La información relativa a la programación de las sesiones del Pleno, de las comisiones y comités, incluyendo fecha y hora de las mismas;
 
@@ -3180,3 +3184,11 @@ P.O. 5 DE JUNIO DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 22 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0306.- SE REFORMA EL ARTÍCULO 86 EN SUS FRACCIONES II Y VI, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
