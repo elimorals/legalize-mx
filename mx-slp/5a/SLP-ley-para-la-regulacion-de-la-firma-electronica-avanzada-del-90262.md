@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-regulacion-de-la-firma-electronica-avanzada-del-902
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-16"
-last_updated: "2017-04-13"
+last_updated: "2022-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA REGULACIÓN DE LA FIRMA ELECTRÓNICA AVANZADA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de octubre de 2012.
 
@@ -33,7 +33,9 @@ Decreto 1163
 
 LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA
 
-EXPOSICION DE MOTIVOS.
+EXPOSICION DE MOTIVOS
+
+[...]
 
 Ahora bien, para que una firma electrónica avanzada pueda tener validez debe estar certificada por la autoridad correspondiente o en su caso, por el prestador de servicios de certificación. El certificado es el documento o registro informático que contiene información mínima sobre el titular de la firma electrónica avanzada.
 
@@ -71,49 +73,53 @@ Los sujetos mencionados en las fracciones I a V, aplicarán los criterios y proc
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Acuse de Recibo: Toda comunicación generada por el sistema de información del destinatario, automatizada o no, que basta al emisor que se ha recibido el mensaje de datos o el documento electrónico;
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2022)</small>
 
-II. Autoridad Certificadora: La dependencia o instancia de gobierno que le corresponde otorgar, revocar, suspender, o extinguir, los certificados de firma electrónica avanzada y las autorizaciones de prestación de servicios de certificación;
+I. Actos: las comunicaciones, trámites, servicios, actos jurídicos y administrativos, así como procedimientos administrativos, en los cuales los particulares y los poderes, Ejecutivo, Legislativo, y Judicial, sus dependencias y entidades; los ayuntamientos, sus dependencias y entidades; y los organismos constitucionales autónomos, utilicen la firma electrónica avanzada;
 
-III. Certificado de Firma Electrónica Avanzada: El documento emitido y firmado electrónicamente por la autoridad certificadora, o por el prestador de servicios de certificación, mediante el cual se confirma el vínculo existente entre el titular y su firma electrónica avanzada;
+II. Acuse de Recibo: Toda comunicación generada por el sistema de información del destinatario, automatizada o no, que basta al emisor que se ha recibido el mensaje de datos o el documento electrónico;
 
-IV. Código Único de Identificación: Es el conjunto de caracteres que se utiliza para identificar al titular de la firma electrónica avanzada. Es asignado por la autoridad certificadora, para confeccionar el registro o censo de las mismas;
+III. Autoridad Certificadora: La dependencia o instancia de gobierno que le corresponde otorgar, revocar, suspender, o extinguir, los certificados de firma electrónica avanzada y las autorizaciones de prestación de servicios de certificación;
 
-V. Datos de Creación de la Firma Electrónica Avanzada o Clave Privada: Los caracteres únicos que el titular genera con cualquier tecnología de manera secreta y utiliza para codificar la firma electrónica avanzada, a fin de lograr un vínculo entre él y citada firma;
+IV. Certificado de Firma Electrónica Avanzada: El documento emitido y firmado electrónicamente por la autoridad certificadora, o por el prestador de servicios de certificación, mediante el cual se confirma el vínculo existente entre el titular y su firma electrónica avanzada;
 
-VI. Datos de Verificación de Firma Electrónica Avanzada o Clave Pública: Los caracteres, como códigos o claves criptográficas, que se utilizan para identificar la firma electrónica avanzada;
+V. Código Único de Identificación: Es el conjunto de caracteres que se utiliza para identificar al titular de la firma electrónica avanzada. Es asignado por la autoridad certificadora, para confeccionar el registro o censo de las mismas;
 
-VII. Destinatario: La persona designada por el titular para recibir el mensaje de datos o documento electrónico;
+VI. Datos de Creación de la Firma Electrónica Avanzada o Clave Privada: Los caracteres únicos que el titular genera con cualquier tecnología de manera secreta y utiliza para codificar la firma electrónica avanzada, a fin de lograr un vínculo entre él y citada firma;
 
-VIII. Dispositivo de Creación de Firma Electrónica Avanzada: El programa o sistema informático que sirve para aplicar los actos de creación de la firma;
+VII. Datos de Verificación de Firma Electrónica Avanzada o Clave Pública: Los caracteres, como códigos o claves criptográficas, que se utilizan para identificar la firma electrónica avanzada;
 
-IX. Dispositivo de Verificación de Firma Electrónica Avanzada: El programa o sistema informático que sirve para aplicar los actos de verificación de la firma;
+VIII. Destinatario: La persona designada por el titular para recibir el mensaje de datos o documento electrónico;
 
-X. Documento electrónico: Todo soporte que contenga información con caracteres alfanuméricos, en formato de video, imagen, audio, o cualquier otro formato tecnológicamente disponible, que pueda ser transmitido a través de medios electrónicos;
+IX. Dispositivo de Creación de Firma Electrónica Avanzada: El programa o sistema informático que sirve para aplicar los actos de creación de la firma;
 
-XI. Emisor: La persona que actúa, a título propio, y envía, o genera, un mensaje de datos o un documento electrónico;
+X. Dispositivo de Verificación de Firma Electrónica Avanzada: El programa o sistema informático que sirve para aplicar los actos de verificación de la firma;
 
-XII. Encriptamiento: Medida de seguridad o de protección, mediante algoritmos complejos, que es usada para almacenar o transferir información que no debe ser accesible a terceros;
+XI. Documento electrónico: Todo soporte que contenga información con caracteres alfanuméricos, en formato de video, imagen, audio, o cualquier otro formato tecnológicamente disponible, que pueda ser transmitido a través de medios electrónicos;
 
-XIII. Fecha Electrónica: El conjunto de datos en forma electrónica, utilizados como medio para constatar la fecha y hora en que un mensaje de datos, o documento electrónico, es enviado por el titular, o recibido por el destinatario;
+XII. Emisor: La persona que actúa, a título propio, y envía, o genera, un mensaje de datos o un documento electrónico;
 
-XIV. Firma Electrónica Avanzada: Conjunto de datos y caracteres electrónicos que identifican inequívocamente al emisor de la misma como autor legítimo de ésta, con valor y efectos jurídicos a los de la firma autógrafa;
+XIII. Encriptamiento: Medida de seguridad o de protección, mediante algoritmos complejos, que es usada para almacenar o transferir información que no debe ser accesible a terceros;
 
-XV. Medios Electrónicos: Son los dispositivos tecnológicos para transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas o de cualquier otro instrumento o tecnología;
+XIV. Fecha Electrónica: El conjunto de datos en forma electrónica, utilizados como medio para constatar la fecha y hora en que un mensaje de datos, o documento electrónico, es enviado por el titular, o recibido por el destinatario;
 
-XVI. Mensaje de Datos: Es la información generada, enviada, recibida o archivada por medios electrónicos, ópticos, o cualquier otra tecnología y en general, por cualquier documento que se encuentre en soporte electrónico y firmado electrónicamente;
+XV. Firma Electrónica Avanzada: Conjunto de datos y caracteres electrónicos que identifican inequívocamente al emisor de la misma como autor legítimo de ésta, con valor y efectos jurídicos a los de la firma autógrafa;
 
-XVII. Prestador de Servicios de Certificación: Es la persona física o moral, autorizada por la autoridad certificadora para expedir certificados de firma electrónica avanzada;
+XVI. Medios Electrónicos: Son los dispositivos tecnológicos para transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas o de cualquier otro instrumento o tecnología;
 
-XVIII. Registros de Certificados de Firma Electrónica Avanzada: Son los padrones que integran la información relativa a los certificados de firma electrónica avanzada, expedidos por las autoridades certificadoras o por los prestadores de servicios de certificación;
+XVII. Mensaje de Datos: Es la información generada, enviada, recibida o archivada por medios electrónicos, ópticos, o cualquier otra tecnología y en general, por cualquier documento que se encuentre en soporte electrónico y firmado electrónicamente;
 
-XIX. Registro Público de Prestadores de Servicios de Certificación: Es una base de datos a nivel estatal, que tiene como propósito otorgar seguridad jurídica a los actos relacionados con la firma electrónica avanzada y que contiene la información relativa a los prestadores de servicios de certificación;
+XVIII. Prestador de Servicios de Certificación: Es la persona física o moral, autorizada por la autoridad certificadora para expedir certificados de firma electrónica avanzada;
 
-XX. Sello electrónico: El mensaje de datos que acredita que un documento electrónico fue recibido por el destinatario y estará sujeto a la misma regulación aplicable al uso de la firma electrónica avanzada;
+XIX. Registros de Certificados de Firma Electrónica Avanzada: Son los padrones que integran la información relativa a los certificados de firma electrónica avanzada, expedidos por las autoridades certificadoras o por los prestadores de servicios de certificación;
 
-XXI. Sistemas de Información: Son aquellos programas diseñados para enviar, recibir, capturar, almacenar, custodiar, reproducir, administrar y trasmitir la información de los mensajes de datos o documentos electrónicos, y
+XX. Registro Público de Prestadores de Servicios de Certificación: Es una base de datos a nivel estatal, que tiene como propósito otorgar seguridad jurídica a los actos relacionados con la firma electrónica avanzada y que contiene la información relativa a los prestadores de servicios de certificación;
 
-XXII. Titular: Es la persona propietaria de la firma electrónica avanzada conforme al certificado respectivo.
+XXI. Sello electrónico: El mensaje de datos que acredita que un documento electrónico fue recibido por el destinatario y estará sujeto a la misma regulación aplicable al uso de la firma electrónica avanzada;
+
+XXII. Sistemas de Información: Son aquellos programas diseñados para enviar, recibir, capturar, almacenar, custodiar, reproducir, administrar y trasmitir la información de los mensajes de datos o documentos electrónicos, y
+
+XXIII. Titular: Es la persona propietaria de la firma electrónica avanzada conforme al certificado respectivo.
 
 ###### ARTICULO 4°.
 
@@ -768,3 +774,11 @@ P.O. 13 DE ABRIL DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 22 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0305.- SE ADICIONA AL ARTÍCULO 3° UNA FRACCIÓN, DE LA LEY PARA LA REGULACIÓN DE LA FIRMA ELECTRÓNICA AVANZADA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
