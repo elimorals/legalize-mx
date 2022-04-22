@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-y-bienestar-animal-para-la-116690"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-28"
-last_updated: "2021-12-27"
+last_updated: "2022-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 28 de septiembre de 2016.
 
@@ -205,7 +205,9 @@ XLI. Tenencia Responsable. Conjunto de derechos y responsabilidades que conlleva
 
 XLII. Vehículos de Tracción Animal. Carros, carretas, instrumentos de labranza o carretones que para su movilización requieren ser tirados o jalados por un animal.
 
-XLIII. Crueldad Animal. La conducta de maltrato animal o violencia ejercida en contra de los animales que implique la mutilación que ponga en peligro la vida, tortura, envenenamiento, tormentos, privación habitual o continua del sustento necesario para el animal, tal como el agua, alimento, atención médica o refugio, dar muerte por métodos no previstos en esta Ley, que los cause o promueva que se trate de esta manera a cualquier animal.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2022)</small>
+
+XLIII. Crueldad animal. La conducta de maltrato animal o violencia ejercida en contra de los animales que implique la mutilación parcial o total de su cuerpo, la alteración de su integridad física con el objeto de transformar su apariencia o conseguir un fin estético, tortura, envenenamiento, tormentos, privación habitual o continua del sustento necesario para el animal, tal como el agua, alimento, atención médica o refugio, dar muerte por métodos no previstos en esta Ley, que los cause o promueva que se trate de esta manera a cualquier animal.
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
 
@@ -637,6 +639,8 @@ Queda estrictamente prohibido el privar de alimento, agua, aire, luz o espacio a
 
 ### CAPÍTULO VI. DEL MALTRATO Y CRUELDAD CONTRA LOS ANIMALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2022)</small>
+
 ### CAPÍTULO VII. DE LA REPRODUCCIÓN Y ENAJENACIÓN DE ANIMALES DE COMPAÑÍA
 
 ###### Artículo 22.
@@ -669,7 +673,7 @@ Todo animal rescatado por las autoridades de la calle o que se encuentre en cond
 
 ###### Artículo 27.
 
-Será sujeto de sanción cualquier acto de maltrato o crueldad contra los animales, cuando afecten su salud, altere su comportamiento natural o le causen la muerte.
+Será sujeto de sanción cualquier acto de maltrato o crueldad contra los animales, cuando afecten su salud o apariencia física, altere su comportamiento o instinto natural o le causen la muerte.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE ENERO DE 2020)</small>
 
@@ -689,9 +693,25 @@ III. Encadenar, enjaular, sujetar o limitar la movilidad de los animales, sin qu
 
 IV. Cometer actos depravados, anormales o sexuales a un animal;
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2022)</small>
 
-V. Mutilar cualquier parte del cuerpo de un animal, salvo que sea por cuestiones de salud, control natal, identificación o marcaje de la especie de que se trate o sea por motivos de piedad, lo cual deberá acreditarse;
+V. Mutilar total o parcialmente cualquier parte del cuerpo de un animal, alterar su integridad física, así mismo las intervenciones quirúrgicas cuyo objeto sea modificar la apariencia de un animal con fines estéticos, tales como:
+
+a) La mutilación de la cola o rabo;
+
+b) La mutilación de las orejas;
+
+c) La sección de las cuerdas vocales;
+
+d) La extirpación de uñas y dientes; y
+
+e) Cualquier otra que altere su integridad física, su comportamiento o instinto natural.
+
+Lo anterior salvo que sea por cuestiones de salud, control natal, identificación o marcaje de la especie de que se trate o sea por motivos de piedad, lo cual deberá acreditarse.
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2022)</small>
+
+V Bis. Alterar de manera temporal o permanente la piel de los animales domésticos mediante la realización de tatuajes con fines estéticos o la colocación de piercings o perforaciones, quedando exceptuados los casos previstos dentro de la presente ley.
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
 
@@ -2062,3 +2082,9 @@ SEGUNDO.- El Estado deberá coordinarse con los 51 Municipios, en un término qu
 TERCERO.- Los Municipios, darán cumplimiento a lo ordenado en el presente Decreto, en un plazo no mayor a 2-dos años, contados a partir de la entrada en vigor del presente Decreto. Lo cual se realizará de acuerdo a su partida presupuestal destinada para esta materia.
 
 CUARTO.- Los Municipios tendrán un plazo no mayor a 1-un año, contado a partir de la entrada en vigor del presente Decreto, para realizar las reformas necesarias y ajustar sus reglamentos a las disposiciones modificadas de esta Ley, o bien, emitir el reglamento municipal respectivo.
+
+P.O. 22 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 122. SE REFORMAN LA FRACCIÓN XLIII DEL ARTÍCULO 3, Y PRIMER PÁRRAFO Y LA FRACCIÓN V DEL ARTÍCULO 27 Y SE ADICIONA LA FRACCIÓN V BIS AL ARTÍCULO 27 TODOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado
