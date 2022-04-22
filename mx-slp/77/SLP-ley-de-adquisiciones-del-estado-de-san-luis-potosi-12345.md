@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-adquisiciones-del-estado-de-san-luis-potosi-12345"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2019-08-06"
+last_updated: "2022-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el miércoles 29 de enero de 1997.
 
@@ -51,9 +51,17 @@ I.- El Poder Legislativo;
 
 II.- El Poder Ejecutivo y sus organismos;
 
-III.- El Poder Judicial; y
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2022)</small>
 
-IV.- Los ayuntamientos y sus organismos.
+III.- El Poder Judicial;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2022)</small>
+
+IV.- Los ayuntamientos y sus organismos, y
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2022)</small>
+
+V.- Los organismos constitucionales autónomos.
 
 ###### ARTICULO 2o.
 
@@ -902,5 +910,13 @@ P.O. 6 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0224.- SE REFORMA EL ARTÍCULO 14 DE LA LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0304.- SE REFORMA EL ARTÍCULO 1° EN SUS FRACCIONES III Y IV; Y ADICIONA AL MISMO ARTÍCULO 1° LA FRACCIÓN V, DE LA LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
