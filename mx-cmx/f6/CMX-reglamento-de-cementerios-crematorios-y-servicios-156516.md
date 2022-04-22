@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-cementerios-crematorios-y-servicios-156516"
 country: "mx"
 rank: "reglamento"
 publication_date: "2022-03-11"
-last_updated: "2022-04-21"
+last_updated: "2022-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=156516&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2022-03-10"
 ---
 # REGLAMENTO DE CEMENTERIOS, CREMATORIOS Y SERVICIOS FUNERARIOS EN LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 22 DE ABRIL DE 2022 Y EL 6 DE MAYO DE 2022 EN EL NÚMERO 835 BIS, PÁGINAS DE LA 6 A LA 7 Y EL NÚMERO 845 BIS, PÁGINA 7, RESPECTIVAMENTE, EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS.]</small>
-
 REGLAMENTO DE CEMENTERIOS, CREMATORIOS Y SERVICIOS FUNERARIOS EN LA CIUDAD DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE ABRIL DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 22 DE ABRIL DE 2022.]</small>
 
 Reglamento publicado en el No. 808 Bis de la Gaceta Oficial de la Ciudad de México, el viernes 11 de marzo de 2022.
 
@@ -402,7 +402,9 @@ Corresponde al INVEA:
 
 I. Practicar visitas de verificación administrativa en la prestación de los servicios funerarios y cementerios, así como aplicar sanciones, en el ámbito de sus atribuciones;
 
-II. Ordenar y ejecutar las medidas de seguridad e imponer las sanciones previstas en las leyes;
+(REFORMADA, G.O. 22 DE ABRIL DE 2022) (F. DE E., G.O. 22 DE ABRIL DE 2022)
+
+II. Ordenar y ejecutar las medidas de seguridad e imponer las sanciones previstas en las leyes; así como implementar acciones de prevención, información y supervisión encaminadas al cumplimiento del presente Reglamento.
 
 III. Vigilar y verificar administrativamente el cumplimiento de las disposiciones de este Reglamento en materia de crematorios, así como aplicar las sanciones que correspondan; y
 
@@ -1817,3 +1819,9 @@ G.O. 21 DE ABRIL DE 2022.
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 22 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DE LA “FE DE ERRATAS AL DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE CEMENTERIOS, CREMATORIOS Y SERVICIOS FUNERARIOS EN LA CIUDAD DE MÉXICO, PUBLICADO EL 21 DE ABRIL DE 2022 EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO NO. 834 BIS”.]
+
+ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
