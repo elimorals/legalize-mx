@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-las-personas-con-discapacidad-en-el-1097
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-24"
-last_updated: "2021-12-04"
+last_updated: "2022-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 24 de agosto de 2015.
 
@@ -311,9 +311,11 @@ III. Proporcionar información y asesoría de servicios y programas sociales y l
 
 ### CAPÍTULO IV. DERECHO A LA EDUCACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2022)</small>
+
 ###### Artículo 17.
 
-Las instituciones encargadas de la educación pública y privada en el Estado de Oaxaca garantizarán el derecho a la educación y el acceso a personas con discapacidad, prohibiéndose cualquier forma de discriminación en planteles, centros educativos, centros de atención infantil o del personal docente o administrativo. Para tales efectos, realizarán las siguientes acciones:
+El Instituto Estatal de Educación Pública de Oaxaca, la Coordinación General de Educación Media Superior, Superior Ciencia y Tecnología y las universidades públicas y privadas en el Estado garantizarán el derecho a la educación y el acceso a personas con discapacidad, prohibiéndose cualquier forma de discriminación en los planteles, centros educativos, centros de atención infantil o del personal docente o administrativo. Para tales efectos, realizarán las siguientes acciones:
 
 I. Diseñar, ejecutar, implementar y evaluar un sistema de educación inclusiva en todos los niveles educativos, que garantice la educación significativa de las personas con discapacidad en igualdad de condiciones con las demás personas.
 
@@ -333,7 +335,9 @@ VIII. Proporcionar a los estudiantes con discapacidad materiales y ayudas técni
 
 IX. Equipar los planteles y centros educativos con libros en Braille, materiales didácticos, apoyo de intérpretes de Lengua de Señas Mexicana o especialistas en sistema Braille, equipos computarizados con tecnología para personas con discapacidad y todo lo necesario para lograr una educación significativa;
 
-X. Incluir la enseñanza del Sistema de Escritura Braille y la Lengua de Señas Mexicana en la educación pública y privada, fomentando la producción y distribución de libros de texto gratuitos en Sistema de Escritura Braille, macrotipos, materiales visuales y textos audibles que complementen los conocimientos de los alumnos con discapacidad;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2022)</small>
+
+X. Incluir la enseñanza del Sistema de Escritura Braille y un modelo de educación bilingüe entre la Lengua de Señas Mexicana y el Español o las lenguas indígenas, de acuerdo al contexto cultural en la educación pública y privada; así como realizar la producción y distribución de materiales educativos gratuitos en el Sistema de Escritura Braille y en la Lengua de Señas Mexicana, macrotipos, materiales visuales y textos audibles que complementen los conocimientos de los alumnos con discapacidad;
 
 XI. Promover que estudiantes con discapacidad, cuando así lo requieran, para realizar su servicio social o prácticas profesionales cuenten con el apoyo humano y material según los principios de accesibilidad universal y ajustes razonables.
 
@@ -1094,3 +1098,11 @@ P.O. 4 DE DICIEMBRE DE 2021.
 PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 Segundo. - Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 588.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN X DEL ARTÍCULO 17 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
