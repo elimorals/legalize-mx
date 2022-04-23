@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111577"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2021-12-04"
+last_updated: "2022-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 16 de diciembre de 2015.
 
@@ -179,19 +179,23 @@ XXXI. Sistema Local de Protección: El Sistema de Protección de Niñas, Niños 
 
 XXXII. Sistemas DIF Municipales: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Oaxaca;
 
-XXXIII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+XXXIIII. Sistema Municipal de Protección: El Sistema de Protección de niñas, niños y adolescentes de cada municipio;
 
-XXXIV. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes;
+XXXIV. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2022)</small>
 
-XXXV. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte, y
+XXXV. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes,
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2022)</small>
+
+XXXVI. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte; y
 
 > <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-XXXVI. Registro Estatal de Agresores: El Registro Estatal de Agresores Sexuales de Niñas, Niños y Adolescentes.
+XXXVII. Registro Estatal de Agresores: El Registro Estatal de Agresores Sexuales de Niñas, Niños y Adolescentes.
 
 ###### Artículo 7.
 
@@ -1931,33 +1935,53 @@ VII. Difundir y desarrollar el conocimiento y respeto de los derechos de niñas,
 
 VIII. Las demás que le otorguen otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2022)</small>
+
 ###### Artículo 115.
 
-Los Sistemas Municipales se integrarán de conformidad con lo dispuesto en el Artículo 138 de la Ley General y ejercerán las atribuciones previstas en el Artículo 119 de dicho ordenamiento.
+Los Sistemas Municipales de Protección se integrarán de conformidad con lo dispuesto en el Artículo 138 de la Ley General y ejercerán las atribuciones previstas en el Artículo 119 de dicho ordenamiento.
 
-Contarán con un programa de atención y un área o servidores públicos que señale La Ley Orgánica Municipal.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE ABRIL DE 2022)</small>
 
-El eje rector de los Sistemas Municipales será el fortalecimiento familiar con el fin de proteger de forma integral los derechos de niñas, niños y adolescentes de esta entidad.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2022)</small>
+
+Los Sistemas Municipales de Protección tendrán como atribución la propuesta de políticas públicas al Cabildo, así como realizar el seguimiento y evaluación de las acciones desarrolladas por las áreas, entidades y dependencias municipales con el fin de garantizar la protección, prevención y restitución integral de los derechos de niñas, niños y adolescentes en el marco de su competencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2022)</small>
 
 ###### Artículo 116.
 
-Cada Sistema Municipal de Protección Integral contará con una Secretaría Ejecutiva, cuyo titular será nombrado y removido libremente por el Presidente Municipal. Deberá ser ciudadano mexicano; tener más de treinta años; contar con título profesional debidamente registrado y experiencia en materia de asistencia social, quedando exceptuados de este último requisito los municipios de usos y costumbres o sistemas normativos internos.
+Cada Sistema Municipal de Protección contará con una Secretaría Ejecutiva, cuyo titular será nombrado y removido libremente por el Presidente Municipal. Deberá ser ciudadana o ciudadano mexicano; tener más de treinta años; contar con título profesional debidamente registrado y experiencia en materia de asistencia social, quedando exceptuados de este último requisito los municipios de usos y costumbres o sistemas normativos internos.
 
-> <small>(F. DE E., P.O. 13 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2022)</small>
 
-Los Sistemas Municipales de Protección Integral funcionarán de acuerdo a los lineamientos establecidos por el Sistema Local.
+La Secretaría Ejecutiva coordinará los esfuerzos de las dependencias, entidades y áreas municipales para el cumplimiento de los acuerdos y responsabilidades del Sistema Municipal de Protección, fungirá como su Secretaría Técnica y deberá garantizar la participación de los sectores social y privado, así como de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2022)</small>
+
+###### Artículo 116 Bis.
+
+Los Sistemas Municipales de Protección funcionarán de acuerdo a la reglamentación municipal que para dicho efecto expidan los Municipios en el ejercicio de sus facultades reglamentarias.
+
+Los Municipios podrán crear, como parte de los Sistemas Municipales de Protección y para el mejor desempeño de sus funciones, un Comité Municipal de la Primera Infancia y un Comité Municipal de la Adolescencia, que fungirán como órganos de consulta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2022)</small>
 
 ###### Artículo 117.
 
-Los Sistemas Municipales se reunirán ordinariamente cada tres meses y de forma extraordinaria cuando así lo determine su Presidente a través de su Secretaría Técnica. Para sesionar válidamente se requerirá un quórum de la mayoría de sus miembros y la asistencia de su Presidente; sus decisiones se tomarán por mayoría de votos y, en caso de empate, para los municipios del sistema de partidos políticos el Presidente tendrá voto de calidad.
+Los Sistemas Municipales de Protección se reunirán ordinariamente cada tres meses y de forma extraordinaria cuando así lo determine su Presidente a través de su Secretaría Técnica. Para sesionar válidamente se requerirá un quórum de la mayoría de sus miembros y la asistencia de su Presidente; sus decisiones se tomarán por mayoría de votos y, en caso de empate, para los municipios del sistema de partidos políticos el Presidente tendrá voto de calidad.
 
 En casos excepcionales, el Presidente Municipal podrá ser suplido por el Síndico.
 
-En los municipios del sistema de partidos políticos, los integrantes del Sistema Municipal de Protección Integral nombrarán un suplente que deberá tener el nivel inmediato inferior al que le corresponda a su titular.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2022)</small>
+
+En los municipios del sistema de partidos políticos, los integrantes del Sistema Municipal de Protección nombrarán un suplente que deberá tener el nivel inmediato inferior al que le corresponda a su titular.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2022)</small>
 
 ###### Artículo 118.
 
-El Sistema Municipal de Protección Integral se integra de:
+El Sistema Municipal de Protección se integra de:
 
 I. El Presidente Municipal, quien lo presidirá;
 
@@ -1985,13 +2009,15 @@ El Presidente del Sistema podrá invitar a las sesiones respectivas a representa
 
 En las sesiones del Sistema Municipal participarán de forma permanente, sólo con voz, niñas, niños y adolescentes, que serán seleccionados por el propio Sistema. De igual forma, se podrá invitar a personas o instituciones, nacionales o internacionales, especializadas en la materia.
 
-La coordinación operativa del Sistema Municipal recaerá en un área administrativa de la Sindicatura Municipal que ejercerá las funciones de Secretaría Ejecutiva la cual deberá garantizar la participación de los sectores social y privado, así como de niñas, niños y adolescentes.
+> <small>(DEROGADO OCTAVO PÁRRAFO, P.O. 23 DE ABRIL DE 2022)</small>
 
 Quedan exceptuados de dicha forma y procedimiento de integración los municipios de usos y costumbres o sistemas normativos internos, será la asamblea comunitaria quien decida su integración.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2022)</small>
+
 ###### Artículo 119.
 
-Los ayuntamientos contarán con un programa de atención de niñas, niños o adolescentes, y contarán con un área administrativa y/o servidor público que funja como autoridad de primer contacto con niñas, niños o adolescentes, que será el enlace con las instancias locales y federales competentes.
+Los Ayuntamientos contarán con un área administrativa que será la encargada de garantizar el interés superior de los niños, niñas y adolescentes en términos de la Ley Orgánica Municipal, que fungirá como autoridad de primer contacto y que serán el enlace con las instancias locales y federales competentes. Dicha área deberá contar con un programa de atención para dicho fin.
 
 La instancia a que se refiere el presente artículo coordinará a los servidores públicos municipales cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos contenidos en la presente Ley, a efecto de que se dé vista a la Procuraduría Estatal de Protección de forma inmediata.
 
@@ -2001,17 +2027,21 @@ La Defensoría de los Derechos Humanos del Pueblo de Oaxaca, en el ámbito de su
 
 ### CAPÍTULO II. DEL PROGRAMA LOCAL Y MUNICIPAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2022)</small>
+
 ###### Artículo 121.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, a través del Sistema Local y los Sistemas Municipales de Protección Integral, así como los sectores privado y social, participarán en la elaboración y ejecución de los Programas Estatal y Municipales, según corresponda.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, a través del Sistema Local y los Sistemas Municipales de Protección, así como los sectores privado y social, participarán en la elaboración y ejecución de los Programas Estatal y Municipales, según corresponda.
 
 Deberán Incluir mecanismos transparentes que permitan su evaluación y seguimiento, así como de participación ciudadana, mismos que serán publicados en el Periódico Oficial del Gobierno del Estado.
 
 ### CAPÍTULO III. DE LA EVALUACIÓN Y DIAGNÓSTICO
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2022)</small>
+
 ###### Artículo 122.
 
-Corresponderá a las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, la evaluación de las políticas de desarrollo social vinculadas con la protección de los derechos de niñas, niños y adolescentes, en términos de lo establecido en la Constitución Estatal, esta Ley, el Programa Estatal de Protección Integral y las demás disposiciones aplicables.
+Corresponderá a las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, desarrollar un diagnóstico sobre la niñez y adolescencia, así como realizar la evaluación de las políticas de desarrollo social vinculadas con la protección de los derechos de niñas, niños y adolescentes, en términos de lo establecido en la Constitución Estatal, esta Ley, el Programa Estatal de Protección Integral y las demás disposiciones aplicables.
 
 ###### Artículo 123.
 
@@ -2496,3 +2526,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 23 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 589.- MEDIANTE EL CUAL REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
