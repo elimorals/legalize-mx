@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-responsabilidad-administrativa-de-los-servidores-7834"
 country: "mx"
 rank: "ley"
 publication_date: "1983-07-13"
-last_updated: "2019-06-15"
+last_updated: "2022-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7834&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE RESPONSABILIDAD ADMINISTRATIVA DE LOS SERVIDORES PÚBLICOS, REGLAMENTARIA DEL ARTÍCULO 68, DEL TÍTULO VII, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 13 de julio de 1983.
 
@@ -101,9 +101,11 @@ VII.- Las omisiones de carácter grave en los términos de la fracción anterior
 
 VIII.- Las violaciones sistemáticas o graves a los planes, programas y presupuestos de la Administración Pública del Estado de los Municipios de los organismos paraestatales y las normas que determinan el manejo de los recursos económicos de esas entidades públicas.
 
-No procede el juicio por la mera expresión de ideas. de ideas (sic).
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE ESTE PÁRRAFO QUEDÓ INMERSO CON EL ANTERIOR PENÚLTIMO PÁRRAFO. VÉASE LITERALIDAD DEL DECRETO NÚMERO 063, PUBLICADO EN EL DE P.O. 23 DE ABRIL DE 2022, PÁGINA 29.]</small>
 
-El Congreso del Estado valorará la existencia y gravedad de los actos u omisiones a que se refiere este artículo. Cuando aquello tenga carácter delictuoso se formulará la declaración de procedencia a la que alude la presente Ley y se estará a lo dispuesto por la Legislación Penal.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2022)</small>
+
+No procede el juicio por la mera expresión de ideas. El Congreso del Estado valorará la existencia y gravedad de los actos u omisiones a que se refiere este artículo.
 
 ART. 8.- Si la resolución que se dicte en el juicio político es condenatoria, se sancionará al servidor público con destitución. Podrá también imponerse inhabilitación para el ejercicio de empleos, cargos o comisiones en el servicio público desde uno hasta veinte años.
 
@@ -119,25 +121,35 @@ ART. 10.- Corresponde a la camara de Diputados instruir el procedimientomrelativ
 
 ART. 11.- Al proponer la Junta de Coordinación Política de la Cámara de Diputados la integración de las comisiones ordinarias para el despacho de los asuntos, propondrá también la integración de una comisión para substanciar los procedimientos consignados en la presente Ley y en los términos de su reglamento.
 
-ART. 12.- Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba podrá formular por escrito denuncia ante la camara dde (sic) Diputados por las conductas a que se refiere el artículo 7o. presentados la denuncia y ratificada dentro de los cinco días siguientes naturales se turnará con la documentación que la acompañe, en su caso a las comisiones de Gobernación, Legislativa y de puntos constitucionales y de justicia, para que dictaminen si la conducta atribuida corresponde a las enumeradas por aquellos preceptos y si el inculpado esta comprendido entre los servidores públicos a que se refiere el artículo 2o. Así como la (sic) si la denuncia es procedente y por lo tanto amerita la incoación del procedimiento.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2022)</small>
 
-Una vez acreditados estos elementos, la denuncia se turnará a la comisión instructora de la ccamara (sic).
+ART. 12.- Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba podrá formular por escrito denuncia ante la Cámara de Diputados por las conductas a que se refiere el artículo 7. Presentada la denuncia y ratificada dentro de los cinco días siguientes naturales se turnará con la documentación que la acompañe, en su caso, a la Comisión Ordinaria de Gobernación y Puntos Constitucionales, para que dictaminen si la conducta atribuida corresponde a las enumeradas por aquellos preceptos y si el inculpado esta comprendido entre los servidores públicos a que se refiere el artículo 2, así como si la denuncia es procedente y por lo tanto amerita la incoación del procedimiento.
+
+Una vez acreditados estos elementos, la denuncia se turnará a la Comisión Ordinaria Instructora de la Cámara, Justicia y Gran Jurado, Reglamento y Prácticas Parlamentarias.
 
 Las denuncias anónimas no producirán ningún efecto.
 
-ART. 13.- La sección instructora practicará todas las diligencias necesarias para la comprobación de la conducta o hechos materia de aquella, estableciendo las características y circunstancias del caso, precisado la intervención que haya tenido el servidor público denunciado.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2022)</small>
 
-Dentro de los tres días siguientes naturales a la ratificación de la denuncia, la sección informará al denunciado sobre el motivo de la denuncia haciéndole saber su garantía de defensa y que deberá, a su elección, comparecer o informar por escrito, dentro de los siete días naturales siguientes a la notificación.
+ART. 13.- La Comisión Ordinaria Instructora de la Cámara, Justicia y Gran Jurado, Reglamento y Prácticas Parlamentarias, practicará todas las diligencias necesarias para comprobación de la conducta o hechos materia de aquella, estableciendo las características y circunstancias del caso, precisando la intervención que haya tenido el servidor público denunciado.
 
-ART. 14.- La sección instructora abrirá un período de pruebas de treinta días naturales, dentro del cual recibirá las pruebas que ofrezcan el denunciante y el servidor público, así como las que la propia sección estime necesarias.
+Dentro de los tres días siguientes naturales a la ratificación de la denuncia, la Comisión Ordinaria Instructora de la Cámara, Justicia y Gran Jurado, Reglamento y Prácticas Parlamentarias, informará al denunciado sobre el motivo de la denuncia haciéndole saber su garantía de defensa y que deberá, a su elección, comparecer o informar por escrito, dentro de los siete días naturales siguientes a la notificación.
 
-Si al concluir al plaxo (sic) señalado no hubiese sido posible recibir las pruebas ofrecidas oportunamente o es preciso allegarse otras, la sección instructora podrá ampararlo en la medida que resulte estrictamente necesaria. En todo caso, la sección instructora calificará la pertenencia de las pruebas, desechándose las que a su juicio sean improcedentes.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2022)</small>
+
+ART. 14.- La Comisión Ordinaria Instructora de la Cámara, Justicia y Gran Jurado, Reglamento y Prácticas Parlamentarias, abrirá un período de pruebas de treinta días naturales, dentro del cual recibirá las pruebas que ofrezcan el denunciante y el servidor público, así como las que la propia sección estime necesarias.
+
+Si al concluir al plazo señalado no hubiese sido posible recibir las pruebas ofrecidas oportunamente o es preciso allegarse otras, la Comisión Ordinaria Instructora de la Cámara, Justicia y Gran Jurado, Reglamento y Prácticas Parlamentarias, podrá ampararlo en la medida que resulte estrictamente necesaria. En todo caso, la citada comisión calificará la pertinencia de las pruebas, desechándose las que a su juicio sean improcedentes.
 
 ART. 15.- Terminada la instrucción del procedimiento se pondrá el expediente a la vista del denunciante por un plazo de tres días naturales y por otros (sic) tanto a la del servidor público y sus defensores a fin de que tome los datos que requieran para formular alegatos, que deberán presentar por escrito dentro de los seis días naturales siguientes a la conclusión del segundo plazo mencionado.
 
-ART. 16.- Transcurrido el plazo para la presentación de alegatos, se hayan o no entregado a estos, la sección instructora formulará sus conclusiones en vista de las constancias del procedimiento. Para este efecto analizará clara y metódicamente la conducta o los hechos imputados y hará las consideraciones jurídicas que procedan para justificar, en su caso, la conclusión o la continuación del procedimiento.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2022)</small>
 
-ART. 17.- Si de las constancias del procedimiento se desprende la inocencia del encausado, las conclusiones de la sección instructora terminarán proponiendo que se declare que no ha lugar a proceder en su contra por la conducta materia de la denuncia que dio origen al procedimiento.
+ART. 16.- Transcurrido el plazo para la presentación de alegatos, se hayan o no entregado a (sic) estos, la Comisión Ordinaria Instructora de la Cámara, Justicia y Gran Jurado, Reglamento y Prácticas Parlamentarias, formulará sus conclusiones en vista de las constancias del procedimiento. Para este efecto analizará clara y metódicamente la conducta o los hechos imputados y hará las consideraciones jurídicas que procedan para justificar, en su caso, la conclusión o la continuación del procedimiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2022)</small>
+
+ART. 17.- Si de las constancias del procedimiento se desprende la inocencia del encausado, las conclusiones de la Comisión Ordinaria Instructora de la Cámara, Justicia y Gran Jurado, Reglamento y Prácticas Parlamentarias, terminarán proponiendo que se declare que no da lugar a proceder en su contra por la conducta materia de la denuncia que dio origen al procedimiento.
 
 Si de las constancias aparece la probable responsabilidad del servidor público, las conclusiones terminarán proponiendo la aprobacción (sic) de lo siguiente:
 
@@ -151,13 +163,19 @@ IV.- Que en caso de ser aprobadas las conclusiones, se envié la declaración co
 
 De igual manera deberán asentarse en las conclusiones las circunstancias que hubieren en los hechos.
 
-ART. 18.- Una vez emitidas las conclusiones a que se refieren los artículos procedentes, la sección instructora las entregará al Secretario de la Camara de Diputaddos (sic) para que dé cuenta al Presidente de la misma, quien anunciará que dicha camara debe reunirse y resolver sobre la denuncia, dentro de los días naturales siguientes, lo que hará saber el Secretario al denunciante y al servidor público denunciado, para que se presenten, asistido el segundo de su defensor a fin de que aleguen lo que convenga a sus derechos.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2022)</small>
 
-ART. 19.- La sección instructora deberá practicar toda las diligencias y formular sus conclusiones hasta entregarlas al secretario de la carama (sic), conforme a los artículos anteriores dentro del plazo de sesenta días naturales, contados desde el día siguiente a la fecha en que se le haya turnado la denuncia a no ser que por causa razonable y fundada se encuentre impedida para hacerlo. En este caso podrá solicitar de la camara que se amplíe el plazo por el tiempo indispensable para perfeccionar la instrucción. El nuevo plazo que se concede no excederá de quince días.
+ART. 18.- Una vez emitidas las conclusiones a que se refieren los artículos precedentes, la Comisión Ordinaria Instructora de la Cámara, Justicia y Gran Jurado, Reglamento y Prácticas Parlamentarias, las entregará a la Secretaría de Asuntos Parlamentarios de la Cámara de Diputados para que dé cuenta al Presidente de la Mesa Directiva, quien anunciará que dicha cámara debe reunirse y resolver sobre la denuncia, dentro de los días naturales siguientes, lo que hará saber la Secretaría de Asuntos Parlamentarios al denunciante y al servidor público denunciado para que se presenten, asistido el segundo de su defensor a fin de que aleguen lo que convenga a sus derechos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2022)</small>
+
+ART. 19.- La Comisión Ordinaria Instructora de la Cámara, Justicia y Gran Jurado, Reglamento y Prácticas Parlamentarias deberá practicar todas las diligencias y formular sus conclusiones hasta entregarlas al secretario de la Cámara, conforme a los artículos anteriores, dentro de un plazo de sesenta días naturales, contados desde el día siguiente a la fecha en que se le haya turnado la denuncia a no ser que por causa razonable y fundada se encuentre impedida para hacerlo. En este caso podrá solicitar de la Cámara que se amplíe el plazo por el tiempo indispensable para perfeccionar la instrucción.
 
 Los plazos a que se refiere este artículo se entienden comprendidos dentro del Período ordinario de sesiones de la camara, o bien dentro del siguiente ordinario o extraordinario que se convoque.
 
-ART. 20.- El día señalado conforme al artículo 18, la camara de Diputaddos (sic) se erigirá en un órgano de acusación previa declaración de su presidente.; (sic) Enseguida la secretaria dará lectura pública a las constancias procedimentales de estas, o a una síntesis que contenga los puntos sustancciales (sic) de estas, así como a las conclusiones de la sección instructora. Acto continuo se concederá la palabra al denunciante y enseguida al servidor público o a su defensor o a ambos sí así lo solicitaren, para que aleguen lo que convenga a sus derechos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2022)</small>
+
+ART. 20.- El día señalado conforme al artículo 18, la Cámara de Diputados se erigirá en un órgano de acusación previa declaración de su presidente; enseguida la secretaría dará lectura pública a las constancias procedimentales de estas, o a una síntesis que contenga los puntos sustanciales de éstas, así como a las conclusiones de la Comisión Ordinaria Instructora de la Cámara, Justicia y Gran Jurado, Reglamento y Prácticas Parlamentarias. Acto continuo se concederá la palabra al denunciante y enseguida al servidor público o a su defensor o a ambos si así lo solicitaren, para que aleguen lo que convenga a sus derechos.
 
 El denunciante podrá replicar y, si lo hiciere, el imputado y su defensor podran hacer uso de la palabra en último término.
 
@@ -448,3 +466,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 23 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 063 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 7, ÚLTIMO PÁRRAFO, 12, 13, 14, 16, 17, PÁRRAFO PRIMERO, 18, 19, PÁRRAFO PRIMERO, Y 20, PÁRRAFO PRIMERO, DE LA LEY DE RESPONSABILIDAD ADMINISTRATIVA DE LOS SERVIDORES PÚBLICOS, REGLAMENTARIA DEL ARTÍCULO 68, DEL TÍTULO VII, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
