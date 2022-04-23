@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-acceso-a-la-informacion-publica-y-buen-150
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-04"
-last_updated: "2021-09-04"
+last_updated: "2022-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2022.
 
 Ley publicada en el No. 36 del Periódico Oficial del Estado de Oaxaca, el sábado 4 de septiembre de 2021.
 
@@ -425,7 +425,9 @@ V. Las cantidades económicas recibidas por concepto de depósitos judiciales y 
 
 VI. Las tesis y ejecutorias publicadas a través del órgano o medio de difusión, en su caso;
 
-VII. Las versiones públicas de las sentencias que sean de interés público;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2022)</small>
+
+VII. Las versiones públicas de todas las sentencias emitidas;
 
 VIII. Las versiones estenográficas de las sesiones públicas, en su caso;
 
@@ -2306,3 +2308,13 @@ OCTAVO. Se derogan todas las disposiciones normativas que se opongan al presente
 "Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 28 de Julio de 2021.- Dip. Arsenio Lorenzo Mejía García, Presidente.- Dip. Rocio Machuca Rojas, Secretaria.- Dip. Saúl Cruz Jiménez, Secretario.- Dip. Maritza Escarlet Vásquez Guerra, Secretaria.- Rúbricas."
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 29 de Julio de 2021. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Ing. Francisco Javier García López.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 590.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN VII DEL ARTÍCULO 23 DE LA LEY DETRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
