@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2022-04-02"
+last_updated: "2022-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -91,7 +91,9 @@ A.- En materia de Salubridad General:
 
 I.- El control y vigilancia de la prestación de servicios y de establecimientos de salud de los servicios públicos a la población en general; servicios sociales y privados sea cual fuere la forma en que se contraten y otros que se presten de conformidad con lo que establezca la autoridad sanitaria;
 
-II.- La atención médica, preferentemente en beneficio de grupos vulnerables;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2022)</small>
+
+II.- La atención médica preferente y oportuna a las mujeres embarazadas, en labor de parto o con alguna emergencia obstétrica, solicitada de manera directa o a través de la referencia de otra unidad médica, en las unidades con capacidad para la atención de urgencias obstétricas, sean o no derechohabientes o se encuentren afiliados a algún esquema de aseguramiento. Así mismo en beneficio de grupos vulnerables.
 
 III.- La atención infantil;
 
@@ -261,7 +263,9 @@ II.- Coordinar los programas de servicios de salud de las dependencias y entidad
 
 III.- Apoyar la coordinación de los programas y servicios de salud de toda dependencia o entidad pública estatal en los términos de la legislación aplicable y de los acuerdos de coordinación que en su caso se celebren.
 
-En el caso de los programas y servicios de instituciones federales de seguridad social, el apoyo se realizará tomando en cuenta lo que establezcan las leyes que rigen el funcionamiento de éstas.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2022)</small>
+
+En el caso de los programas y servicios de instituciones federales de seguridad social, el apoyo se realizará tomando en cuenta el derecho humano a la salud, así como lo que establezcan las leyes que rigen el funcionamiento de éstas.
 
 IV.- Impulsar la desconcentración y descentralización de los servicios de salud a los Municipios;
 
@@ -293,9 +297,9 @@ XV.- Impulsar la permanente actualización de las disposiciones legales en mater
 
 XVI.- Las demás atribuciones, afines a las anteriores que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables; y
 
-> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2022)</small>
 
-XVII.- Diseñar, promover e impulsar políticas públicas para prevenir, combatir y erradicar la obesidad y la desnutrición.
+XVII.- Diseñar, promover e impulsar políticas públicas para prevenir, combatir y erradicar la muerte materna, obesidad y la desnutrición.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -3892,3 +3896,11 @@ P.O. 2 DE ABRIL DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
+
+P.O. 23 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 581.- MEDIANTE EL CUAL REFORMAN LA FRACCIÓN II DEL APARTADO A DEL ARTÍCULO 4, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN III y LA FRACCIÓN XVII DEL ARTÍCULO 7, TODOS DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
