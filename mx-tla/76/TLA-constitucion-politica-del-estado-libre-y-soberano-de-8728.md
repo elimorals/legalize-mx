@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2022-04-01"
+last_updated: "2022-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 1 DE ABRIL DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -439,6 +437,10 @@ d) Se establecerán mecanismos de acceso a la información y procedimientos de r
 
 e) Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos;
 
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2022)</small>
+
+Los sujetos obligados cuya función es la administración e impartición de justicia del Estado, acompañarán adicionalmente a las versiones públicas de las resoluciones que emitan, una versión con lenguaje sencillo y de fácil lectura.
+
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2016)</small>
 
 f) Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales;
@@ -497,13 +499,17 @@ El interés superior de la niñez será una consideración primordial para todas
 
 En los casos en que exista vulneración o restricción de derechos de niñas, niños o adolescentes, deberá darse intervención a la autoridad especializada, con la finalidad de instrumentar las acciones necesarias para restituir sus derechos, así como para lograr una reparación integral;
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2022)</small>
 
-XIII. Decidir libremente, bajo las prescripciones y excepciones que marque la ley de la materia; sobre sus órganos, tejidos y células para destinarlos a la donación o para recibirlos en trasplante, sin fines de lucro y con el propósito de reducir la morbi-mortalidad por padecimientos susceptibles de ser corregidos mediante este procedimiento. Para tal efecto, el Estado promoverá la cultura de la donación de órganos, tejidos y células y proveerá los procedimientos necesarios para su acceso y aplicación; y
+XIII. Decidir libremente, bajo las prescripciones y excepciones que marque la ley de la materia; sobre sus órganos, tejidos y células para destinarlos a la donación o para recibirlos en trasplante, sin fines de lucro y con el propósito de reducir la morbimortalidad por padecimientos susceptibles de ser corregidos mediante este procedimiento. Para tal efecto, el Estado promoverá la cultura de la donación de órganos, tejidos y células y proveerá los procedimientos necesarios para su acceso y aplicación;
 
-> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2022)</small>
 
-XIV. Nadie podrá ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento. En los juicios y procedimientos seguidos en forma de juicio en los que se establezca como regla la oralidad, bastará con que quede constancia de ellos en cualquier medio que dé certeza de su contenido y del cumplimiento de lo previsto en este párrafo.
+XIV. Nadie podrá ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento. En los juicios y procedimientos seguidos en forma de juicio en los que se establezca como regla la oralidad, bastará con que quede constancia de ellos en cualquier medio que dé certeza de su contenido y del cumplimiento de lo previsto en este párrafo; y
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2022)</small>
+
+XV. Toda persona tendrá derecho a que las resoluciones de los órganos jurisdiccionales y las provenientes de cualquier otra autoridad del Estado, sean emitidas en un lenguaje sencillo que cualquier persona pueda comprender, en medíos impresos o electrónicos, mediante audio, en Sistema de escritura Braille, Lengua de Señas Mexicana o traducción a lenguas indígenas, procurando en todo momento su accesibilidad.
 
 > <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2019)</small>
 
@@ -2063,25 +2069,29 @@ La administración, vigilancia y disciplina en el Tribunal de Justicia Administr
 
 Las decisiones o resoluciones del Consejo serán impugnadas por la vía administrativa o jurisdiccional que corresponda.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE ABRIL DE 2022)</small>
+
+### CAPITULO IV. DE LA JUSTICIA EN EL ESTADO
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2022)</small>
+
+###### ARTICULO 85 Bis.
+
+El Poder Judicial del Estado, así como el Tribunal de Justicia Administrativa, regirán su actuar bajo el modelo de Justicia Abierta, con base en los principios de transparencia y rendición de cuentas, participación ciudadana y colaboración, colocando a la persona como eje en la impartición de justicia, en los términos de sus respectivas leyes orgánicas.
+
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-### CAPITULO I. DEL INSTITUTO TLAXCALTECA DE ELECCIONES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2015)</small>
-
 ## TITULO VII. DE LOS MUNICIPIOS
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-### CAPITULO II. DE LA COMISION ESTATAL DE DERECHOS HUMANOS
+### CAPITULO I. DEL INSTITUTO TLAXCALTECA DE ELECCIONES
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 86.
 
@@ -2325,9 +2335,11 @@ La Ley Municipal determinará las demás facultades y obligaciones de los Ayunta
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2015)</small>
 
-### CAPITULO III. DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE TLAXCALA
+### CAPITULO II. DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2021)</small>
 
 ###### ARTICULO 95.
 
@@ -2475,9 +2487,9 @@ El órgano jurisdiccional local en materia electoral se compondrá de tres magis
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-### CAPITULO I. DESARROLLO Y PLANEACION
+### CAPITULO III. DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE TLAXCALA
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 96.
 
@@ -2513,9 +2525,9 @@ El titular de la Comisión y los integrantes del Consejo Consultivo durarán en 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ABRIL DE 2016)</small>
 
-### CAPITULO II. DE LAS FINANZAS PUBLICAS
+### CAPITULO I. DESARROLLO Y PLANEACION
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 97.
 
@@ -2547,47 +2559,21 @@ El Instituto contará con un Consejo Consultivo, conformado por cinco Consejeros
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
+### CAPITULO II. DE LAS FINANZAS PUBLICAS
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+
 ### CAPITULO UNICO. DEL ORGANO DE FISCALIZACION SUPERIOR
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
-
-### CAPITULO I. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
 ## TITULO IX. DE LA ECONOMIA Y LAS FINANZAS DEL ESTADO
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-### CAPITULO II. DEL SISTEMA ESTATAL ANTICORRUPCION
+### CAPITULO I. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
-
-ARTICULO 112 BIS.- El Sistema Anticorrupción del Estado de Tlaxcala es la instancia de coordinación entre las autoridades estatales y municipales competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos en el Estado. Participará, colaborará y asistirá en sus funciones al Sistema Nacional Anticorrupción, en los términos previstos por la ley.
-
-Para el cumplimiento de su objeto, el Sistema Anticorrupción del Estado de Tlaxcala se sujetará a las siguientes bases mínimas:
-
-I. Contará con un Comité Coordinador que estará integrado por los titulares del Órgano de Fiscalización Superior , de la Fiscalía Especializada en Combate a la Corrupción, de la Contraloría del Ejecutivo, del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado; el Magistrado Presidente del Tribunal de Justicia Administrativa; así como por un representante del Consejo de la Judicatura del Poder Judicial del Estado y por un representante del Comité de Participación Ciudadana, quien lo presidirá.
-
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
-
-II. El Comité de Participación Ciudadana deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción, bajo el principio de paridad de género, en los términos que establezca la Ley.
-
-III. Corresponderá al Comité Coordinador, en los términos que determine la ley:
-
-a) El establecimiento de mecanismos de coordinación entre las autoridades estatales, municipales y federales;
-
-b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;
-
-c) La determinación de los mecanismos de suministros, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes del estado y sus municipios;
-
-d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades del estado y sus municipios en materia de fiscalización y control de los recursos públicos;
-
-e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
-
-Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como el mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas, en los términos previstos en la ley.
-
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 98.
 
@@ -2627,9 +2613,35 @@ Los planes de desarrollo estatal como los municipales, se orientarán para logra
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-### CAPITULO I. DE LA REFORMA
+### CAPITULO II. DEL SISTEMA ESTATAL ANTICORRUPCION
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+ARTICULO 112 BIS.- El Sistema Anticorrupción del Estado de Tlaxcala es la instancia de coordinación entre las autoridades estatales y municipales competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos en el Estado. Participará, colaborará y asistirá en sus funciones al Sistema Nacional Anticorrupción, en los términos previstos por la ley.
+
+Para el cumplimiento de su objeto, el Sistema Anticorrupción del Estado de Tlaxcala se sujetará a las siguientes bases mínimas:
+
+I. Contará con un Comité Coordinador que estará integrado por los titulares del Órgano de Fiscalización Superior , de la Fiscalía Especializada en Combate a la Corrupción, de la Contraloría del Ejecutivo, del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado; el Magistrado Presidente del Tribunal de Justicia Administrativa; así como por un representante del Consejo de la Judicatura del Poder Judicial del Estado y por un representante del Comité de Participación Ciudadana, quien lo presidirá.
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
+
+II. El Comité de Participación Ciudadana deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción, bajo el principio de paridad de género, en los términos que establezca la Ley.
+
+III. Corresponderá al Comité Coordinador, en los términos que determine la ley:
+
+a) El establecimiento de mecanismos de coordinación entre las autoridades estatales, municipales y federales;
+
+b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;
+
+c) La determinación de los mecanismos de suministros, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes del estado y sus municipios;
+
+d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades del estado y sus municipios en materia de fiscalización y control de los recursos públicos;
+
+e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
+
+Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como el mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas, en los términos previstos en la ley.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 101.
 
@@ -2687,9 +2699,9 @@ La Hacienda Pública ejercerá la facultad económico-coactiva para hacer efecti
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-### CAPITULO II. DE LA INVIOLABILIDAD DE LA CONSTITUCION
+### CAPITULO I. DE LA REFORMA
 
-> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 104.
 
@@ -2760,6 +2772,10 @@ Durante el ejercicio de su encargo, el Auditor de Fiscalización Superior no pod
 ## TITULO XI. DE LOS SERVIDORES PUBLICOS Y LOS PARTICULARES
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JULIO DE 2017)</small>
+
+### CAPITULO II. DE LA INVIOLABILIDAD DE LA CONSTITUCION
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 ###### ARTICULO 107.
 
@@ -4036,6 +4052,22 @@ En términos de lo previsto por el artículo 120 de la Constitución Política d
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto iniciará su vigencia el día siguiente al de su publicación, en el Periódico Oficial del Gobierno del Estado; sin embargo, no será aplicable a los diputados, al Gobernador del Estado, a los Magistrados, al Presidente de la Comisión Estatal de los Derechos Humanos, ni a los Consejeros integrantes del Consejo General del Instituto Tlaxcalteca de Elecciones, que se encuentren en ejercicio de sus funciones, o cuyo nombramiento esté vigente, al momento de la aprobación de este Decreto por el Congreso del Estado, específicamente por el tiempo para el que, en la actualidad, hayan sido electos o nombrados.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 25 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 92.- SE REFORMAN LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 19, Y SE ADICIONAN UN SEGUNDO PÁRRAFO AL INCISO E) DE LA FRACCIÓN V; UNA FRACCIÓN XV AL ARTÍCULO 19; UN CAPÍTULO IV DENOMINADO DE LA JUSTICIA EN EL ESTADO AL TÍTULO VI, CON EL ARTÍCULO 85 BIS, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto a los sesenta ayuntamientos de los municipios del Estado, para los efectos previstos en el artículo 120, párrafo primero, de la Constitución Política del Estado Libre y Soberano de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
 
 ###### ARTÍCULO TERCERO.
 
