@@ -4,7 +4,7 @@ identifier: "SON-ley-estatal-de-responsabilidades-del-estado-de-sonora-122668"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2020-10-29"
+last_updated: "2022-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY ESTATAL DE RESPONSABILIDADES DEL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE RESPONSABILIDADES Y SANCIONES PARA EL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 26 DE ABRIL DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ESTATAL DE RESPONSABILIDADES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ABRIL DE 2022 (ABROGADO).
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el martes 18 de julio de 2017.
 
@@ -2544,3 +2546,27 @@ B.O. 29 DE OCTUBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 26 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE RESPONSABILIDADES Y SANCIONES PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Estatal de Responsabilidades publicada en el Boletín Oficial del Gobierno del Estado de Sonora, número 5, Sección III, de fecha 18 de julio de 2017.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones a la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios o a la Ley Estatal de Responsabilidades, se entenderán referidas a la Ley de Responsabilidades y Sanciones para el Estado de Sonora.
+
+###### ARTÍCULO CUARTO.
+
+La autoridad sustanciadora, deberá tomar en cuenta el plazo de prescripción que garantice el debido cumplimiento de los fines de la Ley, sin perjudicar al orden público y el interés social y la esfera jurídica de los ciudadanos, en atención a lo establecido en el artículo 1°, párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### ARTÍCULO QUINTO.
+
+Todos aquellos Entes Públicos obligados a garantizar el cumplimiento de la presente ley, deberán realizar las adecuaciones administrativas y reglamentarias, de conformidad con lo previsto en la misma, en un plazo no mayor a 90 días naturales contados a partir de su entrada en vigor.
