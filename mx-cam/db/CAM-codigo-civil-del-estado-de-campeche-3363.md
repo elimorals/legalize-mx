@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2021-06-11"
+last_updated: "2022-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2022.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -1055,37 +1055,31 @@ De los requisitos para contraer matrimonio.
 
 ###### Art. 150.
 
-La promesa de matrimonio que se hace por escrito y es aceptada, constituye los esponsales.
+(DEROGADO, P.O. 26 DE ABRIL DE 2022)
 
 ###### Art. 151.
 
-Sólo pueden celebrar esponsales el hombre que ha cumplido dieciséis años y la mujer que ha cumplido catorce.
+(DEROGADO, P.O. 26 DE ABRIL DE 2022)
 
 ###### Art. 152.
 
-Cuando los prometidos son menores de edad, los esponsales no producen efectos jurídicos si no han consentido en ellos sus representantes legales.
+(DEROGADO, P.O. 26 DE ABRIL DE 2022)
 
 ###### Art. 153.
 
-Los esponsales no producen obligación de contraer matrimonio; pero podrá estipularse en ellos que los prometidos quedarán sujetos a las penas que convengan para el caso de no cumplirse la promesa; penas que tendrán lugar cuando la falta de cumplimiento sea injustificada a juicio de la autoridad judicial.
+(DEROGADO, P.O. 26 DE ABRIL DE 2022)
 
 ###### Art. 154.
 
-El que sin causa grave, a juicio del juez, rehusare cumplir su compromiso de matrimonio o difiera indefinidamente su cumplimiento, pagará los gastos que la otra parte hubiere hecho con motivo del matrimonio proyectado.
-
-En la misma responsabilidad incurrirá el prometido que diere motivo grave para el rompimiento de los esponsales.
-
-También pagará el prometido que sin causa grave falte a su compromiso, una indemnización a título de reparación moral, cuando por la duración del noviazgo, la intimidad establecida entre los prometidos, la publicidad de las relaciones, la proximidad del matrimonio u otras causas semejantes, el rompimiento de los esponsales cause un grave daño a la reputación del prometido inocente.
-
-La indemnización será prudentemente fijada en cada caso por el juez, teniendo en cuenta los recursos del prometido culpable y la gravedad del perjuicio causado al inocente.
+(DEROGADO, P.O. 26 DE ABRIL DE 2022)
 
 ###### Art. 155.
 
-Las acciones a que se refiere el artículo que precede, sólo pueden ejercitarse dentro de un año, contado desde el día de la negativa a la celebración del matrimonio.
+(DEROGADO, P.O. 26 DE ABRIL DE 2022)
 
 ###### Art. 156.
 
-Si el matrimonio no se celebra, tienen derecho los prometidos a exigir la devolución de lo que se hubieren donado con motivo de su concertado matrimonio. Este derecho durará un año, contado desde el rompimiento de los esponsales.
+(DEROGADO, P.O. 26 DE ABRIL DE 2022)
 
 ### CAPITULO III.
 
@@ -1589,6 +1583,8 @@ Estas donaciones no se anularán por la superveniencia de hijos, pero se reducir
 
 De la disolución del matrimonio.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2022)</small>
+
 ###### Art. 249.
 
 Son causas de nulidad de un matrimonio:
@@ -1753,19 +1749,23 @@ Del parentesco.
 
 El matrimonio se disolverá:
 
-I.- Por la declaración de ausencia legalmente hecha, o la de presunción de muerte, en los casos de excepción en que no se necesita para que se haga ésta, que proceda la declaración de ausencia;
+I. Por la declaración de ausencia legalmente hecha;
 
-II.- (DEROGADA, P.O. 28 DE ABRIL DE 1981)
+II. Por la declaración de presunción de muerte legalmente hecha;
 
-III.- Por divorcio.
+III. Por la muerte de uno de los cónyuges; y
+
+IV. Por el Divorcio.
 
 ###### Art. 279.
 
-En virtud de la disolución del matrimonio, cada cónyuge recobra su entera capacidad para contraer nuevo matrimonio, salvas las limitaciones que establece la ley.
+(DEROGADO, P.O. 26 DE ABRIL DE 2022)
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2022)</small>
 
 ###### Art. 280.
 
-La declaración de ausencia o presunción de muerte a que se refiere la fracción I del artículo 278, disolverá de pleno derecho la unión matrimonial.
+La declaración de ausencia o presunción de muerte a que se refieren las fracciones I y II del artículo 278, disolverán de pleno derecho la unión matrimonial.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2016)</small>
 
@@ -1781,13 +1781,19 @@ El Oficial del Registro Civil, previa identificación de los consortes, levantar
 
 El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos o no han liquidado su sociedad conyugal, y entonces aquellos sufrirán las penas que establezca la legislación en la materia.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1981)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE ABRIL DE 2022)</small>
 
-Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento ocurriendo al Juez competente en los términos que ordena el Código de Procedimientos Civiles.
+Las y los cónyuges que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden solicitar el divorcio por mutuo consentimiento o el divorcio sin expresión de causa, ocurriendo al Juez competente.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2022)</small>
+
+El divorcio por mutuo consentimiento es cuando se solicita de común acuerdo y el divorcio sin expresión de causa es cuando cualquiera de los cónyuges lo solicita sin la necesidad de señalar la razón que lo motiva a pedirlo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2022)</small>
 
 ###### Art. 282.
 
-Los cónyuges que se encuentren en el caso del párrafo último del artículo anterior, están obligados a presentar al Juzgado un convenio en que se fijen los siguientes puntos:
+Las y los cónyuges que soliciten el divorcio por mutuo consentimiento, están obligados a presentar al Juzgado un convenio en que se fijen los siguientes puntos:
 
 I.- Designación de persona a quien sean confiados los hijos del matrimonio, tanto durante el procedimiento como después de ejecutoriada la disolución;
 
@@ -1797,13 +1803,25 @@ III.- La cantidad que a título de alimentos un cónyuge debe pagar al otro dura
 
 IV.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriada la disolución, así como la designación de liquidadores. A ese efecto, se acompañará un inventario y avalúo de todos los bienes de la sociedad;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2022)</small>
 
-V.- La casa que servirá de habitación a cada uno de los cónyuges durante el procedimiento y
+V.- La casa que servirá de habitación a cada uno de los cónyuges durante el procedimiento;
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2022)</small>
 
-VI.- El compromiso expreso de los cónyuges de no realizar actos de manipulación sobre los menores tendientes a provocar rechazo, rencor o distanciamiento hacia el otro cónyuge o los familiares de éste.
+VI.- El compromiso expreso de los cónyuges de no realizar actos de manipulación sobre los menores tendientes a provocar rechazo, rencor o distanciamiento hacía el otro cónyuge o los familiares de éste, y
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2022)</small>
+
+VII.- También deberán señalar la pensión compensatoria a que tendrá derecho uno de los cónyuges en términos del artículo 304 y, en su caso, la compensación patrimonial señalada en el artículo 305.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2022)</small>
+
+Art. 282 bis.- El Juez podrá exhortar a los cónyuges solicitantes a que modifiquen el convenio presentado en caso de que contravenga alguna disposición legal o suplir la deficiencia de las partes.
+
+Las limitaciones formales de la prueba que rigen en la materia civil, no deben aplicarse en los casos de divorcio respecto del o los convenios propuestos.
+
+En el caso de que los cónyuges no lleguen a un acuerdo, el divorcio por mutuo consentimiento seguirá la suerte del divorcio sin expresión de causa.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1981)</small>
 
@@ -1825,115 +1843,67 @@ Asimismo, los cónyuges deben evitar cualquier acto de manipulación encaminado 
 
 Dentro de la convivencia, de manera recíproca, deberá evitarse todo acto de manipulación de parte de cualquiera de los progenitores o ascendientes encaminado a producir en un menor de edad rechazo, rencor o distanciamiento hacia el otro progenitor o los familiares de éste. Cuando el Juez tenga conocimiento de este tipo de actos tomará las medidas necesarias de seguridad, seguimiento y, en su caso, ordenará las terapias psicológicas procedentes con el fin de salvaguardar la integridad física y emocional del menor.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1981)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2022)</small>
 
 ###### Art. 286.
 
-Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar divorciarse por mutuo consentimiento sino pasado un año desde su reconciliación.
+Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo antes del dictado de la sentencia.
 
 ###### Art. 287.
 
-Son causas de divorcio:
+(DEROGADO, P.O. 26 DE ABRIL DE 2022)
 
-I.- El adulterio debidamente probado de uno de los cónyuges;
-
-II.- El hecho de que la mujer dé a luz durante el matrimonio, un hijo concebido antes de celebrarse este contrato y que judicialmente sea declarado ilegítimo;
-
-III.- La propuesta del marido para prostituir a su mujer, no sólo cuando el mismo marido la haya hecho directamente, sino cuando se pruebe que ha recibido dinero o cualquiera otra remuneración con el objeto expreso de permitir que otro tenga relaciones carnales con su mujer;
-
-IV.- La incitación a la violencia hecha por un cónyuge al otro para cometer algún delito, aunque no sea de incontinencia carnal;
-
-V.- Los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, así como la tolerancia en su corrupción;
-
-VI.- Padecer sífilis, tuberculosis, lepra o cualquiera otra enfermedad crónica o incurable que sea, además, contagiosa o hereditaria, y la impotencia que sobrevenga después de celebrado el matrimonio y sea incurable;
-
-VII.- Padecer enajenación mental incurable;
-
-VIII.- El abandono del domicilio conyugal, sin motivo justificado, por más de seis meses;
-
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1981)</small>
-
-IX.- La separación del hogar conyugal originada por una causa que sea bastante para pedir el divorcio, si se prolonga por más de un año sin que el cónyuge que se separó entable la demanda de divorcio;
-
-X.- La sevicia, las amenazas o las injurias graves de un cónyuge para el otro;
-
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1975)</small>
-
-XI.- La negativa injustificada de los cónyuges a cumplir las obligaciones señaladas en el artículo 175 y el incumplimiento, sin justa causa, de la sentencia ejecutoriada, por alguno de los cónyuges, en el caso del artículo 179;
-
-XII.- La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merzeca (sic) pena mayor de dos años de prisión;
-
-XIII.- Haber cometido uno de los cónyuges un delito que no sea político, pero que sea infamante, por el cual tenga que sufrir una pena de prisión mayor de dos años;
-
-XIV.- Los hábitos de juego o de embriaguez o el uso indebido y persistente de drogas enervantes, cuando amenazan causar la ruina de la familia, o constituyen un continuo motivo de desavenencia conyugal;
-
-XV.- Cometer un cónyuge contra la persona o los bienes del otro, un acto que sería punible si se tratara de persona extraña, siempre que tal acto tenga señalada en la ley una pena que pase de un año de prisión;
-
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1981)</small>
-
-XVI.- El mutuo consentimiento;
-
-XVII.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 2006)
-
-XVIII.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 2006)
-
-XIX.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 2006)
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
-
-XX.- La separación de los cónyuges por más de dos años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos; y
-
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2007)</small>
-
-XXI.- Las conductas de violencia familiar cometidas por un cónyuge contra el otro o hacia los hijos de ambos o de alguno de ellos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
-
-Para efectos de este artículo se considera violencia familiar el acto de poder u omisión, recurrente, intencional y cíclico, dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional o sexualmente a cualquier miembro de la familia, dentro o fuera del domicilio familiar, realizado por quien con él tenga parentesco de consanguinidad o una relación derivada de matrimonio, y que tenga por efecto causar daño en cualquiera de las modalidades señaladas en la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Campeche.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2022)</small>
 
 ###### Art. 288.
 
-En los juicios de divorcio, si los consortes tuvieren en común hijos menores de edad, desde su inicio se dará la correspondiente intervención a los representantes del Ministerio Público y de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, quienes tendrán el deber de hacer al juez del conocimiento las peticiones y propuestas que consideren pertinentes en beneficio de dichos menores, de conformidad con las disposiciones legales aplicables.
+Tanto en la solicitud de divorcio por mutuo consentimiento, como en el divorcio sin expresión de causa, si los consortes tuvieren en común hijos menores de edad, desde su inicio se dará la correspondiente intervención a los representantes del Ministerio Público y de la Procuraduría de Protección de Niñas, Niños y Adolescentes, quienes tendrán el deber de hacer al juez del conocimiento las peticiones y propuestas que consideren pertinentes en beneficio de dichos menores de edad, de conformidad con las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2022)</small>
+
+Art. 288 bis.- La o el cónyuge que unilateralmente promueva el divorcio sin expresión de causa, podrá acompañar a su solicitud una propuesta de convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial.
+
+La propuesta del convenio deberá contener como mínimo los puntos mencionados en el artículo 282 del presente Código Civil.
+
+Recibida la solicitud de divorcio, el juez proveerá mediante resolución declaratoria la disolución del vínculo matrimonial y dictará las medidas pertinentes de conformidad con el artículo 298, mismas que quedarán vigentes hasta en tanto exista una determinación que las revoque o modifique.
+
+Seguidamente se dará vista a la otra parte del contenido del convenio para que, en el término de tres días, manifieste su conformidad.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2022)</small>
+
+Art. 288 ter.- En caso de que las y los cónyuges manifiesten su conformidad respecto del Convenio presentado a la solicitud de divorcio sin expresión de causa, y éste no contravenga ninguna disposición legal, el Juez lo deberá aprobar de plano y lo elevará a calidad de cosa juzgada.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2022)</small>
+
+Art. 288 quater.- De no existir convenio entre las y los cónyuges que acuerden las consecuencias jurídicas y efectos del divorcio o de no llegar a un acuerdo, quedarán subsistentes las medidas dictadas, dejando a salvo los derechos de las partes para que los hagan valer por la vía legal correspondiente.
 
 ###### Art. 289.
 
-Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causa que no haya justificado o que haya resultado insuficiente, el demandado tiene a su vez el derecho de pedir el divorcio; pero no podrá hacerlo sino pasados tres meses de la notificación de la última sentencia. Durante esos tres meses, los cónyuges no están obligados a vivir juntos.
+(DEROGADO, P.O. 26 DE ABRIL DE 2022)
 
 ###### Art. 290.
 
-Cualquiera de los esposos puede pedir el divorcio por el adulterio de su cónyuge. Esta acción dura seis meses, contados desde que se tuvo conocimiento del adulterio.
+(DEROGADO, P.O. 26 DE ABRIL DE 2022)
 
 ###### Art. 291.
 
-Son causas de divorcio los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, ya lo sean éstos de ambos, ya de uno sólo de ellos. La tolerancia en la corrupción que da derecho a pedir el divorcio, debe consistir en actos positivos, y no en simples omisiones.
+(DEROGADO, P.O. 26 DE ABRIL DE 2022)
 
 ###### Art. 292.
 
-Para que pueda pedirse el divorcio por causa de enajenación mental que se considere incurable, es necesario que hayan transcurrido dos años desde que comenzó a padecerse la enfermedad.
+(DEROGADO, P.O. 26 DE ABRIL DE 2022)
 
 ###### Art. 293.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2016)
 
-(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010) (F. DE E., P.O. 10 DE DICIEMBRE DE 2010)
-
 ###### Art. 294.
 
-El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a él, y dentro de los seis meses siguientes al día en que hayan llegado a su noticia los hechos en que se funde la demanda.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-Al admitir la demanda de divorcio, el juez dictará de inmediato las medidas provisionales y ordenará, con apercibimiento de ley, la celebración de una junta de avenio en la que exhortará a los cónyuges a la reconciliación y les hará saber los efectos legales de la disolución del matrimonio y las consecuencias sociales de la desintegración de la familia. Además, deberá apercibir a los cónyuges para evitar cualquier acto de manipulación, encaminado a producir en un menor de edad rencor o rechazo hacia el otro progenitor y los familiares de éste.
-
-De no presentarse alguna de las partes, se aplicarán los medios de apremio, hasta lograr su comparecencia; excepto cuando se desconozca el domicilio del cónyuge demandado o cuando se haya invocado como causal de divorcio las previstas en las fracciones X y XXI del artículo 287 del presente ordenamiento.
+(DEROGADO, P.O. 26 DE ABRIL DE 2022)
 
 ###### Art. 295.
 
-Ninguna de las causas enumeradas en el artículo 287 puede alegarse para pedir el divorcio cuando haya mediado perdón expreso o tácito.
+(DEROGADO, P.O. 26 DE ABRIL DE 2022)
 
 ###### Art. 296.
 
@@ -1941,39 +1911,55 @@ La reconciliación de los cónyuges pone término al juicio de divorcio en cualq
 
 ###### Art. 297.
 
-El cónyuge que no haya dado causa al divorcio, puede antes de que se pronuncie la sentencia que ponga fin al litigio, prescindir de sus derechos; más, en este caso, no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos aunque sean de la misma especie.
+(DEROGADO, P.O. 26 DE ABRIL DE 2022)
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2022)</small>
 
 ###### Art. 298.
 
-Al admitirse la demanda de divorcio, o antes, si hubiere urgencia, se dictarán provisionalmente y sólo mientras dure el juicio, las disposiciones siguientes:
+Al admitirse la solicitud de divorcio sin expresión de causa, o antes, si hubiere urgencia, se dictarán las medidas siguientes:
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1981)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2022)</small>
 
-I.- Autorizar, cuando lo juzgue conveniente, la separación de los cónyuges, procurando, siempre que fuere posible, que sea la cónyuge quien permanezca en la casa conyugal, mientras dure el juicio;
+I.- Determinar, teniendo en cuenta el interés familiar y lo que más convenga a las y los menores de edad, cuál de los cónyuges continuará en el uso de la vivienda familiar, procurando, siempre que fuere posible, que sea el cónyuge que tenga bajo sus cuidados a las hijas y los hijos quien permanezca en la casa conyugal;
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
 
 II.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+
 III.- Las que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes, ni en los de la sociedad conyugal, en su caso;
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
 
 IV.- Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta;
 
-V.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio, propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El juez, previo el procedimiento que fije el Código respectivo, resolverá lo conveniente.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2022)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+V.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio, propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El juez, previo el procedimiento que fije el Código respectivo, resolverá lo conveniente, tomando en cuenta la opinión de las y los menores de edad. No será obstáculo para la preferencia maternal en la custodia, el hecho de que la madre carezca de recursos económicos;
 
-> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 26 DE ABRIL DE 2022)</small>
 
-VI.- En los casos en que el Juez lo considere pertinente, de conformidad con los hechos expuestos y las causales invocadas en la demanda, con el fin de salvaguardar la integridad y seguridad de los interesados tomará las siguientes medidas:
+VI.- En los casos en que el Juez lo considere pertinente, con el fin de salvaguardar la integridad y seguridad de las y los interesados tomará las siguientes medidas:
 
-a) Prohibir al cónyuge demandado ir a lugar determinado, tal como el domicilio o el lugar donde trabajan o estudian los agraviados; y
+a) Prohibir a uno de los cónyuges ir a lugar determinado, tal como el domicilio o el lugar donde trabajan o estudian los agraviados;
 
-b) Prohibir que el cónyuge demandado se acerque a los agraviados a la distancia que considere pertinente.
+b) Prohibir que uno de los cónyuges se acerque a los agraviados a la distancia que considere pertinente; y
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+c) Todas las medidas necesarias para salvaguardar la integridad y pleno desarrollo integral de las y los menores de edad, así como de las y los cónyuges, incluyendo las medidas de protección en caso de violencia familiar o violencia de género, de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Campeche, la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Campeche, y demás legislación aplicable;
 
-Cuando los hijos queden al cuidado de uno de los cónyuges, éste deberá evitar conductas que promuevan la separación, rechazo o falta de convivencia de los hijos con el cónyuge separado o los familiares de éste; el Juez vigilará el cumplimiento de lo anterior y, en su caso, podrá revocar de inmediato la custodia. Salvo peligro grave para el normal desarrollo de los hijos, los menores de siete años deberán quedar al cuidado de la madre.
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2022)</small>
+
+VII.- Establecer, teniendo presente el interés superior de los menores de edad, quienes serán escuchados, las modalidades del derecho de visita o convivencia con sus progenitores; y
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2022)</small>
+
+VIII.- Dictar las medidas necesarias de seguridad, seguimiento y, en su caso, ordenar las terapias psicológicas procedentes con el fin de salvaguardar la integridad física y emocional de las y los menores de edad, de conformidad con el último párrafo del artículo 285.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2022)</small>
+
+Cuando los hijos queden al cuidado de uno de los cónyuges, éste deberá evitar conductas que promuevan la separación, rechazo o falta de convivencia de los hijos con el cónyuge separado o los familiares de éste; el Juez vigilará el cumplimiento de lo anterior y, en su caso, podrá revocar la custodia.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
@@ -2005,7 +1991,7 @@ En su caso, el juez de lo familiar, en protección de los menores, dictará las 
 
 ###### Art. 302.
 
-El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+(DEROGADO, P.O. 26 DE ABRIL DE 2022)
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
@@ -2013,33 +1999,59 @@ El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado 
 
 En ejecución de sentencia se procederá a la división de los bienes comunes y se adoptarán las medidas necesarias para asegurar las obligaciones que queden pendientes entre los divorciados.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2022)</small>
 
 ###### Art. 304.
 
-En los casos de divorcio, el juez, tomando en cuenta las circunstancias del caso, y entre ellas la capacidad para trabajar de los cónyuges y su situación económica, sentenciará al culpable al pago de alimentos en favor del inocente. Este derecho lo disfrutará en tanto viva honestamente y no contraiga nupcias. Además, cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
+Al decretarse el divorcio, el juez en dicha resolución deberá decidir sobre el pago de una pensión compensatoria a favor de la o el cónyuge siempre que se haya dedicado durante el matrimonio a las tareas domésticas, ya sea mediante la ejecución material de las mismas o a través de diversas funciones de dirección y gestión de la economía del hogar o bien, se haya dedicado a la atención y cuidado de las y los hijos.
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+La pensión a que se refiere el párrafo anterior será determinada aun cuando la o el cónyuge haya invertido alguna parte de su tiempo al trabajo remunerado fuera del hogar.
 
-En el caso de la fracción XX del artículo 287 ninguno de los cónyuges tendrá derecho a alimentos o a la indemnización prevista en el párrafo anterior. La obligación alimentaria únicamente la tendrán ambos para con sus hijos en los términos previstos por este Código.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1981)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2022)</small>
 
 ###### Art. 305.
 
-En el divorcio por mutuo consentimiento, salvo pacto en contrario, los cónyuges no tienen derecho a pensión alimenticia ni a la indemnización que concede el artículo anterior.
+La pensión compensatoria consistirá en una cantidad de dinero a entregar en forma periódica, cuyo monto será determinado por el juez tomando en cuenta las siguientes circunstancias:
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1981)</small>
+a) La edad y el estado de salud de las y los cónyuges;
+
+b) Nivel de vida de la pareja;
+
+c) Calificación profesional y posibilidad de acceso a un empleo de la o el cónyuge acreedor;
+
+d) Duración del matrimonio;
+
+e) Dedicación pasada y futura a la familia;
+
+f) Ingresos económicos de la o el cónyuge deudor y necesidades de la o el cónyuge acreedor;
+
+g) Así como otras circunstancias especiales del caso que el juez considere.
+
+En la resolución se fijarán las bases para actualizar la pensión y las garantías para su efectividad.
+
+Quien solicite una pensión compensatoria tiene a su favor la presunción de necesitarla.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2022)</small>
+
+Art. 305 bis.- A falta de prueba, la determinación de la pensión compensatoria debe estar sustentada en métodos válidos de argumentación jurídica por constituir una causa objetiva, real y legítima de necesidad alimentaria de la o el ex cónyuge.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2022)</small>
+
+Art. 305 ter.- El derecho a la pensión compensatoria subsistirá por un tiempo igual al que duró el matrimonio, salvo que la relación familiar haya iniciado con anterioridad a la celebración del mismo, por lo que en este supuesto deberá considerarse esta temporalidad al fijar el plazo en que continuará la obligación alimentaria compensatoria, o hasta en tanto la o el cónyuge se encuentre en posibilidades de proporcionarse a sí mismo los medios necesarios para su subsistencia.
+
+En determinadas situaciones extraordinarias podrá decretarse una pensión compensatoria vitalicia a favor de la o el cónyuge acreedor, en virtud de que, por su edad, estado de salud o la propia duración del matrimonio le sea imposible obtener por sí solo los medios suficientes para su subsistencia.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2022)</small>
+
+Art. 305 quater.- En el caso de que uno de los cónyuges se encuentre en la hipótesis prevista en el artículo 304, tendrá derecho, además, a una compensación patrimonial que podrá consistir hasta en el cincuenta por ciento de la propiedad de los bienes inmuebles adquiridos durante la vigencia del matrimonio con el trabajo conjunto de la familia, cuando éstos sean propiedad exclusiva de la o el otro cónyuge, debiendo el juez tomar en consideración las particularidades de cada caso.
+
+La compensación patrimonial a que se refiere el párrafo anterior tiene efectos complementarios y no excluyentes respecto de la pensión compensatoria fijada conforme a los artículos 304, 305, 305 BIS y 305 TER.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2022)</small>
 
 ###### Art. 306.
 
-En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio, sin más obligación, por parte de la mujer, que sujetarse a lo que establece el artículo 169.
-
-El cónyuge que haya dado causa al divorcio no podrá volver a casarse sino después de dos años, a contar desde que se decretó el divorcio.
-
-En los casos de divorcio por mutuo consentimiento para que los cónyuges puedan volver a contraer matrimonio, es indispensable que haya transcurrido un año, contado desde que se decretó el divorcio.
-
-En el caso de que el nuevo matrimonio se contraiga con el cónyuge de que se divorció, no son necesarios los requisitos previstos por este artículo.
+En virtud del divorcio, las y los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
 
 ###### Art. 307.
 
@@ -2119,11 +2131,13 @@ La ley no reconoce más parentesco que los de consanguinidad, afinidad y el civi
 
 El parentesco de consanguinidad es el que existe entre personas que descienden de un mismo progenitor.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2022)</small>
 
 ###### Art. 311.
 
-El parentesco de afinidad es el que se contrae entre los cónyuges con los parientes de éstos.
+El parentesco de afinidad es el que se contrae por matrimonio o concubinato, entre la o el cónyuge o la y el concubino y los parientes del otro cónyuge o concubino.
+
+Disuelto el matrimonio o el concubinato, desaparece el parentesco por afinidad.
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
 
@@ -16498,3 +16512,19 @@ P.O. 11 DE JUNIO DE 2021.
 PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al contenido de este decreto.
+
+P.O. 26 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 48 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 278, EL PRIMER PÁRRAFO DEL ARTÍCULO 280, LAS FRACCIONES V Y VI DEL ARTÍCULO 282, LOS ARTÍCULOS 286 Y 288, EL PRIMER PÁRRAFO, LAS FRACCIONES I, V, VI DEL ARTÍCULO 298, LOS ARTÍCULOS 304, 305, 306 Y 311, SE ADICIONAN LOS PÁRRAFOS CUARTO Y QUINTO AL ARTÍCULO 281, UNA FRACCIÓN VII AL ARTÍCULO 282, 282 BIS, LOS ARTÍCULOS 288 BIS, 288 TER, 288 QUATER, LAS FRACCIONES VII Y VIII AL ARTÍCULO 298, LOS ARTÍCULOS 305 BIS, 305 TER Y 305 QUATER, Y SE DEROGAN LOS ARTÍCULOS 279, 287, 289, 290, 291, 292, 294, 295, 297 Y 302, TODOS DEL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE".]
+
+Primero. El presente Decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y normativas que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 26 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 49 POR EL QUE “SE DEROGAN LOS ARTÍCULOS 150, 151, 152, 153, 154, 155 Y 156 DEL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
