@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-14121
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-07"
-last_updated: "2021-12-02"
+last_updated: "2022-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 7 de diciembre de 1998.
 
@@ -233,9 +233,9 @@ Las dependencias, entidades, ayuntamientos y entidades paramunicipales, ejecutar
 
 En la contratación que para la ejecución de las obras, así como para la contratación de servicios relacionados con estas, las dependencias de los poderes del Estado, entidades paraestatales, ayuntamientos y entidades paramunicipales, considerarán en igualdad de condiciones y circunstancias a los contratistas, ya sean personas físicas o morales, que reuniendo las condiciones legales, técnicas y económicas y encontrándose registradas en el padrón de contratistas de obras públicas del Estado tengan su domicilio fiscal, operación y arraigo en el Estado.
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2022)</small>
 
-En la ejecución de las obras que las dependencias de la administración pública, entidades paraestatales, y entidades paramunicipales pretendan realizar, deberán verificar previamente a la realización de la obra que pretendan ejecutar, el contar con personal, equipo y disponibilidad presupuestal suficiente para ello. La suma del importe de los recursos a ejercer en obras por administración directa no deberá exceder del 15% quince por ciento del total de los recursos que a cada dependencia o entidad se le asignen conforme al presupuesto de egresos del año de que se trate, tratándose de Ayuntamientos y entidades paramunicipales, se estará a lo que para ello disponga el cabildo o bien el órgano de gobierno de las entidades.
+En la ejecución de las obras que las dependencias de la administración pública, entidades paraestatales, y entidades paramunicipales pretendan realizar, deberán verificar previamente a la realización de la obra que pretendan ejecutar, el contar con personal, equipo y disponibilidad presupuestal suficiente para ello. La suma del importe de los recursos a ejercer en obras por administración directa no deberá exceder del 15% quince por ciento del total de los recursos que a cada dependencia o entidad se le asignen conforme al presupuesto de egresos del año de que se trate, exceptuando el presupuesto asignado a las obras por cooperación que realice la Secretaría, cuyo porcentaje podrá ser hasta del 25% veinticinco por ciento de su presupuesto anual asignado; tratándose de ayuntamientos y entidades paramunicipales, se estará a lo que para ello disponga el Cabildo o bien el órgano de gobierno de las entidades.
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2015)</small>
 
@@ -1514,3 +1514,13 @@ El presente Decreto, entrará en vigor el día siguiente al de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría en un término no mayor de sesenta días hábiles, elaborará y publicará por conducto del Ejecutivo del Estado de Michoacán, las reglas de operación de las obras públicas por cooperación.
+
+P.O. 27 DE ABRIL DE 2022.
+
+[N. DE E DECRETO NÚMERO 139 POR EL QUE “SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 7° DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS”.].
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado contará con 30 días hábiles para reformar la normatividad interna de la Secretaría de Comunicaciones y Obras Públicas a lo mandatado en el presente Decreto.
+
+TERCERO. Los recursos destinados a las Obras por Cooperación, independientemente de su origen, si es Federal, Estatal, Municipal o de los beneficiarios, se sujetarán a lo establecido en la Ley de Obra Pública y Servicios Relacionados con la Misma para el Estado de Michoacán de Ocampo y sus Municipios en materia de transparencia y rendición de cuentas, así como a los lineamientos específicos emitidos por la Secretaría del ramo, mismos que serán explícitos en materia de las responsabilidades que asumen las autoridades y los beneficiarios.
