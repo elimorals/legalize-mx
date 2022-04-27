@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-educacion-del-estado-de-quintana-roo-100533"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-27"
-last_updated: "2022-04-20"
+last_updated: "2022-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE EDUCACION DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 27 DE ABRIL DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2022 (ABROGADA).
 
 Ley Publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 27 de febrero de 2014.
 
@@ -2368,3 +2370,31 @@ Se otorga un plazo de noventa días a partir de la publicación del presente Dec
 La implementación de las acciones que resulten necesarias, derivado de la entrada en vigor del presente Decreto, deberán ser solventadas por las instancias públicas competentes, con cargo a los recursos financieros que les hayan sido asignados, en el ejercicio fiscal de que se trate, de conformidad a lo establecido en las disposiciones normativas aplicables, sin menoscabo de las ampliaciones presupuestales que les sean autorizadas, cuando así resulte conducente.
 
 La implementación de las acciones a las que se refiere el presente Decreto, deberán ser materializadas en su totalidad, a más tardar, en el ejercicio fiscal correspondiente al año 2023.
+
+P.O. 27 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 234 POR EL QUE SE EXPIDE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO".]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se abroga la Ley de Educación del Estado de Quintana Roo, publicada el 27 de febrero de 2014 en el Periódico Oficial del Estado de Quintana Roo y se derogan todas las disposiciones contenidas en las leyes secundarias y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general del Estado de Quintana Roo, contrarias a este Decreto.
+
+Tercero. La Secretaría deberá emitir y adecuar los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en esta Ley, en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor. Hasta su emisión, seguirán aplicándose para la operación y funcionamiento de los servicios que se presten y se deriven de aquellos en lo que no contravengan a esta Ley.
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de esta ley continuarán, hasta su conclusión, regidos con los reglamentos, acuerdos y demás disposiciones de carácter general en los cuales se fundamentaron.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo en el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes.
+
+Quinto. Las autoridades educativas, en coordinación con las autoridades correspondientes que sean parte en los procesos de consulta, realizarán éstas de buena fe y de manera previa, libre e informada, de conformidad con los artículos 2° de la Constitución Política de los Estados Unidos Mexicanos, 6 del Convenio 169 de la OIT y 4 numeral 3 de la Convención sobre los Derechos de las Personas con Discapacidad y demás ordenamientos estatales, nacionales e internacionales en la materia, en pueblos y comunidades indígenas y afromexicanas concernientes a la integración de la porción normativa referente a la educación indígena, así como a las personas con discapacidad para integrar la porción normativa concerniente a la educación inclusiva, consultas que no estarán limitadas a los citados apartados normativos, sino que podrán ser de manera integral de la Ley de Educación del Estado de Quintana Roo, con énfasis en los apartados relativos a educación indígena y educación inclusiva; hasta en tanto, las autoridades educativas continuarán proporcionando los servicios de educación correspondientes.
+
+Sexto. La Comisión Estatal de Planeación y Coordinación del Sistema de Educación Media Superior del Estado de Quintana Roo prevista en el artículo 30 de esta Ley deberá quedar instalada en un plazo de sesenta días contados a partir de la entrada en vigor del mismo, así como expedidos los lineamientos correspondientes.
+
+Séptimo. El sistema integral de formación, capacitación y actualización del Estado de Quintana Roo, previsto en el artículo 84 de esta Ley deberá instalarse antes de finalizar el año 2022.
+
+Octavo. Hasta que la Autoridad Educativa Federal publique los lineamientos correspondientes para los diferentes temas que se mencionan en esta Ley, se seguirá aplicando la normatividad aplicable con el fin de continuar con el servicio de educación.
+
+Noveno. El Programa Educativo Estatal previsto en el artículo 101 de esta Ley se presentará en un plazo no mayor a sesenta días contados a partir de la entrada en vigor de esta ley. Dicho Programa se actualizará en el caso de los cambios de administración del Poder Ejecutivo Estatal y observará lo establecido en la Ley de Educación para el Estado de Quintana Roo.
+
+Décimo. En razón de la entrada en vigor de la presente ley, la Legislatura del Estado expedirá la Ley de Educación Superior del Estado de Quintana Roo, en armonización con la Ley General de Educación Superior.
+
+Décimo Primero. En cumplimiento a lo establecido en la fracción XIV del artículo 105 de la presente Ley, la Legislatura del Estado deberá expedir la ley específica para proveer la gratuidad de uniformes, útiles escolares y mochilas en el nivel educativo básico.
