@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1300
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-07"
-last_updated: "2021-10-02"
+last_updated: "2022-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2022.
 
 Ley publicada en el Suplemento 7 al Número 54 del Periódico Oficial del Estado de Zacatecas, el sábado 7 de julio de 2018.
 
@@ -73,13 +73,13 @@ El año legislativo se computará del ocho de septiembre al siete de septiembre 
 
 La presente Ley, su reglamentación y otros documentos internos, sus reformas y adiciones, no necesitarán de promulgación del Gobernador del Estado, ni podrán ser objeto de veto.
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2022)</small>
 
 ###### Artículo 5 Bis.
 
 En los casos que se presenten contingencias relativas a la salubridad, protección civil o seguridad pública, que pongan en riesgo la vida o integridad física de quienes integran la Legislatura del Estado, las y los Diputados podrán continuar con los trabajos legislativos en sesiones virtuales.
 
-Los medios tecnológicos, procedimientos, lineamientos y reglamentación para el desarrollo de las sesiones virtuales serán determinados por la Comisión de Régimen Interno y Concertación Política y la Presidencia de la Mesa Directiva.
+Los medios tecnológicos, procedimientos, lineamientos y reglamentación para el desarrollo de las sesiones virtuales serán determinados por la Junta de Coordinación Política y la Presidencia de la Mesa Directiva.
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2021)</small>
 
@@ -167,9 +167,9 @@ La Legislatura comunicará inmediatamente al Instituto Electoral del Estado y al
 
 La Comisión Instaladora, de conformidad con la presente Ley, la Ley de Entrega-Recepción del Estado y el Reglamento General, tendrá a su cargo:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE ABRIL DE 2022)</small>
 
-I. Recibir, de la Comisión de Régimen Interno y Concertación Política, la siguiente documentación:
+I. Recibir, de la Junta de Coordinación Política, la siguiente documentación:
 
 a) Los expedientes provenientes de los Consejos Distritales Electorales relativos a cada cómputo distrital y en los que se contengan las actas originales y cualquier otra documentación de la elección de Gobernador del Estado;
 
@@ -243,9 +243,9 @@ Sin perjuicio de lo establecido en la Ley de Entrega-Recepción del Estado, el p
 
 I. La fase de integración del paquete de entrega recepción, que consta de la siguiente documentación:
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2022)</small>
 
-a) Los informes anuales que la Comisión de Régimen Interno y Concertación Política, a través de las unidades administrativas, debe integrar y remitir a la Asamblea durante el ejercicio constitucional, así como la relación de asuntos pendientes de todas las comisiones;
+a) Los informes anuales que la Junta de Coordinación Política, a través de las unidades administrativas, debe integrar y remitir a la Asamblea durante el ejercicio constitucional, así como la relación de asuntos pendientes de todas las comisiones;
 
 b) Los informes anuales de la Dirección de Administración y Finanzas;
 
@@ -263,17 +263,17 @@ III. La fase de revisión y cotejo del paquete documental de entrega-recepción 
 
 IV. La aprobación y validación del paquete de entrega-recepción se realizará, en lo conducente, de conformidad con la Ley de Entrega-Recepción del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2022)</small>
 
 ###### Artículo 17.
 
-La Comisión de Régimen Interno y Concertación Política, a través de la Dirección de Procesos Legislativos y Asuntos Jurídicos y de la Dirección de Apoyo Parlamentario, deberá integrar, a más tardar el quince de agosto del último año del ejercicio legislativo, un informe que contenga relación de asuntos legislativos y jurídicos pendientes, así como la documentación correspondiente que formará parte del paquete de entrega-recepción.
+La Junta de Coordinación Política, a través de la Dirección de Procesos Legislativos y Asuntos Jurídicos y de la Dirección de Apoyo Parlamentario, deberá integrar, a más tardar el quince de agosto del último año del ejercicio legislativo, un informe que contenga relación de asuntos legislativos y jurídicos pendientes, así como la documentación correspondiente que formará parte del paquete de entrega-recepción.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2022)</small>
 
 ###### Artículo 18.
 
-La Comisión de Planeación, Patrimonio y Finanzas entregará, a más tardar el quince de agosto del último año de ejercicio, a la Comisión de Régimen Interno y Concertación Política, informe que contenga:
+El Órgano de Administración y Finanzas entregará, a más tardar el quince de agosto del último año de ejercicio, a la Junta de Coordinación Política, informe que contenga:
 
 I. Presupuesto ejercido, por ejercer y cuentas pendientes;
 
@@ -287,11 +287,11 @@ IV. Los demás documentos que den cuenta del estado de la administración de la 
 
 Dicha información formará parte del paquete de entrega-recepción.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2022)</small>
 
 ###### Artículo 19.
 
-La Comisión de Régimen Interno y Concertación Política remitirá a la Auditoría Superior del Estado un informe del ejercicio presupuestal hasta el treinta y uno de julio del tercer año de ejercicio autorizado por la Comisión de Planeación, Patrimonio y Finanzas, mismo que formará parte del citado paquete.
+La Junta de Coordinación Política remitirá a la Auditoría Superior del Estado un informe del ejercicio presupuestal hasta el treinta y uno de julio del tercer año de ejercicio autorizado por el Órgano de Administración y Finanzas, mismo que formará parte del citado paquete.
 
 Por ningún motivo, una vez autorizado el paquete documental de entrega-recepción, se realizarán transferencias o compras, salvo lo necesario para el gasto corriente.
 
@@ -491,9 +491,9 @@ XI. Incorporar la perspectiva de género en las políticas, procesos, estrategia
 
 XII. Declarar la suspensión de actividades legislativas presenciales cuando se presenten contingencias relativas a la salubridad, protección civil o seguridad pública, que pongan en riesgo la vida o integridad física de quienes integran la Legislatura del Estado;
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2022)</small>
 
-XIII. Autorizar a la Comisión de Régimen Interno y Concertación Política para que, en conjunto con la Presidencia de la Mesa Directiva, determine los medios tecnológicos, procedimientos, lineamientos y reglamentación conforme a los cuales se desarrollarán las sesiones virtuales, y
+XIII. Autorizar a la Junta de Coordinación Política para que, en conjunto con la Presidencia de la Mesa Directiva, determine los medios tecnológicos, procedimientos, lineamientos y reglamentación conforme a los cuales se desarrollarán las sesiones virtuales, y
 
 XIV. Las demás que le confiera la Constitución estatal y las leyes del estado.
 
@@ -551,7 +551,9 @@ XIV. Emitir su voto en el sentido que crean conveniente, tanto en las resolucion
 
 XV. De acuerdo con la previsión presupuestal anual, contar con el apoyo para el desempeño de sus funciones;
 
-XVI. Participar con voz en todas las comisiones;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2022)</small>
+
+XVI. Participar con voz en todas las comisiones, su intervención deberá registrarse con anticipación en el orden del día correspondiente;
 
 XVII. Proponer a la Asamblea el análisis, evaluación y seguimiento de las acciones de gobierno, la realización de obras y la prestación de servicios públicos, en los términos de la Constitución estatal;
 
@@ -703,7 +705,9 @@ IV. Por motivo de fuerza mayor calificado por la Legislatura.
 
 Los grupos parlamentarios son las formas de organización que deberán adoptar los diputados con igual partido político, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en la Legislatura; se conformarán por dos o más diputados y sólo podrá haber uno por cada partido político que cuente con diputados en la Legislatura.
 
-Los diputados que dejen de pertenecer a un grupo parlamentario, sin integrarse a otro existente, serán considerados como diputados sin partido y sin representación en la Comisión de Régimen Interno y Concertación Política, se les guardarán las mismas consideraciones que a los demás legisladores, y se les apoyará en lo individual, conforme a las posibilidades presupuestales de la Legislatura, para el desempeño de sus funciones de representación popular.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2022)</small>
+
+Las diputadas y diputados que dejen de pertenecer a un grupo parlamentario, sin integrarse a otro existente, serán considerados como diputados sin partido y sin representación en la Junta de Coordinación Política, se les guardarán las mismas consideraciones que a los demás legisladores, y se les apoyará en lo individual, conforme a las posibilidades presupuestales de la Legislatura, para el desempeño de sus funciones de representación popular.
 
 Los diputados de una o varias afiliaciones partidarias podrán constituir un sólo grupo parlamentario. Estos grupos parlamentarios se tendrán por constituidos cuando cuatro o más diputados decidan integrarlo.
 
@@ -885,9 +889,11 @@ El dictamen deberá emitirse en un plazo no mayor de cuarenta días naturales co
 
 Los asuntos serán dictaminados invariablemente conforme al orden cronológico en que fueron turnados, excepto los calificados por el Pleno como de urgente resolución, así como aquellos que versen sobre conflicto en la designación de contralores municipales y los que se refieran a sustituciones y suplencias de servidores públicos de elección popular, que también serán considerados de urgente resolución, una vez que así lo apruebe la mayoría de sus integrantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2022)</small>
+
 ###### Artículo 61.
 
-En caso de que no se formulara dictamen en los plazos dispuestos salvo los asuntos de carácter financiero, presupuestal, de rendición de cuentas, responsabilidades y seguridad pública o aquellos que versen sobre reformas a la Constitución estatal, la Comisión de Régimen Interno y Concertación Política deberá proponer al Pleno el envío inmediato del asunto a diversa comisión para que en un plazo no mayor a los veinte días naturales emita el dictamen.
+En caso de que no se formulara dictamen en los plazos dispuestos salvo los asuntos de carácter financiero, presupuestal, de rendición de cuentas, responsabilidades y seguridad pública o aquellos que versen sobre reformas a la Constitución estatal, la Junta de Coordinación Política deberá proponer al Pleno el envío inmediato del asunto a diversa comisión para que en un plazo no mayor a los veinte días naturales emita el dictamen.
 
 Una vez transcurridos dichos términos, la Comisión o Comisiones Dictaminadoras deberán emitir un dictamen definitivo dando a conocer al Pleno, en todo caso, aquellos asuntos que por su naturaleza sean inviables legislativa o jurídicamente y no sea posible dictaminarlos, solicitando su archivo definitivo y, en consecuencia, no podrán volverse a presentar durante el siguiente período ordinario.
 
@@ -1023,7 +1029,9 @@ El día en que la Legislatura inicie su periodo ordinario de sesiones, el Presid
 
 En los periodos ordinarios la Legislatura deberá celebrar sesiones cuantas veces sea necesario para el oportuno y eficaz despacho de los negocios de su competencia y, por lo menos, dos veces a la semana.
 
-En la apertura de los periodos ordinarios, los grupos parlamentarios, previo acuerdo de la Comisión de Régimen Interno y Concertación Política, podrán presentar su posicionamiento en un tiempo que no excederá de diez minutos para cada participante.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2022)</small>
+
+En la apertura de los periodos ordinarios, los grupos parlamentarios, previo acuerdo de la Junta de Coordinación Política, podrán presentar su posicionamiento en un tiempo que no excederá de diez minutos para cada participante.
 
 #### Sección Octava. Sesiones
 
@@ -1187,13 +1195,19 @@ Toda resolución deberá emitirse previo dictamen que contenga el acuerdo jurisd
 
 ### Capítulo Primero. Clasificación de las comisiones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2022)</small>
+
 ###### Artículo 102.
 
-La Legislatura del Estado integrará tantas comisiones como requiera el cumplimiento de sus funciones legislativas y éstas podrán ser:
+La Legislatura del Estado integrará las comisiones legislativas y órganos de gobierno y administración que se requieran para el cumplimiento de sus funciones legislativas y de régimen interno y éstas podrán ser:
 
-I. De gobierno;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2022)</small>
 
-II. De administración;
+I. De gobierno, que será la Junta de Coordinación Política;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2022)</small>
+
+II. De Administración, que será el Órgano de Administración y Finanzas;
 
 III. Legislativas, y
 
@@ -1201,9 +1215,11 @@ IV. Especiales.
 
 ### Capítulo Segundo. Órganos y Comisión de Gobierno
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2022)</small>
+
 ###### Artículo 103.
 
-La Legislatura tendrá como órganos de gobierno a la Mesa Directiva, la Comisión de Régimen Interno y Concertación Política y, en los periodos de receso, la Comisión Permanente.
+La Legislatura tendrá como órganos de gobierno a la Mesa Directiva, la Junta de Coordinación Política y, en los periodos de receso, la Comisión Permanente.
 
 #### Sección Primera. Mesa Directiva
 
@@ -1243,9 +1259,11 @@ Corresponde a la Mesa Directiva, bajo la autoridad de su Presidente, preservar l
 
 El Presidente de la Mesa Directiva tendrá la representación de la Legislatura, así como la responsabilidad de conducir bajo su mandato, el desarrollo de las sesiones y procedimientos de la Legislatura. Hará respetar la inmunidad constitucional de sus miembros y velará por la inviolabilidad del recinto parlamentario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2022)</small>
+
 ###### Artículo 112.
 
-Son atribuciones del Presidente de la Mesa Directiva:
+Son atribuciones de la Presidencia de la Mesa Directiva:
 
 I. La representación política de la Legislatura ante los Poderes Ejecutivo y Judicial del Estado, así como con los ayuntamientos y demás organismos, órganos y dependencias de los tres órdenes de gobierno;
 
@@ -1257,7 +1275,9 @@ IV. Dar curso reglamentario a las iniciativas, dictámenes, propuestas, comunica
 
 V. Conducir los debates, deliberaciones y mociones;
 
-VI. Cumplimentar el orden del día para las sesiones, para lo cual tomará en consideración las propuestas de la Comisión de Régimen Interno y Concertación Política;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2022)</small>
+
+VI. Cumplimentar el orden del día para las sesiones, para lo cual tomará en consideración las propuestas de la Junta de Coordinación Política;
 
 VII. Requerir a los diputados para que concurran a las sesiones de la Legislatura e imponer, en su caso, las medidas o sanciones que correspondan;
 
@@ -1335,39 +1355,49 @@ XV. Expedir, previa autorización del Presidente, las certificaciones que solici
 
 XVI. Las demás que establezca esta Ley, su Reglamento General y demás disposiciones o acuerdos que emita la Legislatura.
 
-### Capítulo Tercero. Comisión de Régimen Interno y Concertación Política
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ABRIL DE 2022)</small>
+
+### Capítulo Tercero. Junta de Coordinación Política
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2022)</small>
 
 ###### Artículo 115.
 
-La Comisión de Régimen Interno y Concertación Política es el órgano plural y colegiado de gobierno permanente, encargado de dirigir y optimizar el ejercicio de las funciones legislativas, políticas y administrativas de la Legislatura. Se integrará por los coordinadores de los grupos parlamentarios reconocidos y autorizados en términos de esta Ley, los cuales gozarán de voz y voto ponderado, de los cuales uno deberá ser el presidente quien tendrá voto de calidad en caso de empate y será electo de entre sus miembros.
+La Junta de Coordinación Política es el órgano plural y colegiado de gobierno permanente, encargado de dirigir y optimizar el ejercicio de las funciones legislativas, políticas y administrativas de la Legislatura. Se integrará por los coordinadores de los grupos parlamentarios reconocidos y autorizados en términos de esta Ley, los cuales gozarán de voz y voto ponderado, de los cuales uno deberá ser el presidente quien tendrá voto de calidad en caso de empate y será electo de entre sus miembros.
 
 La búsqueda del consenso será el criterio de su actuación. Adoptará sus decisiones por mayoría, mediante el sistema de voto ponderado, de acuerdo con el número de diputados que integran el grupo parlamentario que representan.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2022)</small>
+
 ###### Artículo 116.
 
-En la segunda sesión del primer periodo de sesiones ordinarias correspondiente al año de su instalación, cada grupo parlamentario representado en la Legislatura, propondrá a los diputados que integrarán la Comisión de Régimen Interno y Concertación Política.
+En la segunda sesión del primer periodo de sesiones ordinarias correspondiente al año de su instalación, cada grupo parlamentario representado en la Legislatura, propondrá a las diputadas y diputados que integrarán la Junta de Coordinación Política.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2022)</small>
 
 ###### Artículo 117.
 
-Los integrantes de la Comisión de Régimen Interno y Concertación Política podrán ser removidos del cargo cuando así lo considere la mayoría del grupo del que provienen o, en su caso, el Pleno por falta grave a juicio de la Asamblea.
+Quiénes integren la Junta de Coordinación Política podrán ser removidos del cargo cuando así lo considere la mayoría del grupo del que provienen o, en su caso, el Pleno por falta grave a juicio de la Asamblea.
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2019)</small>
+Las legisladoras y legisladores que integren la Junta de Coordinación Política no podrán formar parte de otro Órgano de Gobierno o administración.
 
-Los legisladores que integren la Comisión de Régimen Interno y Concertación Política no podrán formar parte de otra Comisión de Gobierno o administración.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2022)</small>
 
 ###### Artículo 118.
 
-La Comisión de Régimen Interno y Concertación Política tendrá, de entre los que la integran, un Presidente y el número de Secretarios que conformen dicha Comisión.
+La Junta de Coordinación Política tendrá una Presidencia y las Secretarías que se determinen, electas de entre quienes la integran.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2022)</small>
 
 ###### Artículo 119.
 
-La Presidencia de la Comisión de Régimen Interno y Concertación Política será rotativa y de acuerdo con el principio de paridad de género; se respetará la proporcionalidad en la representación de los grupos parlamentarios. Se renovará cada seis meses conforme al calendario y en el orden que por acuerdo determine el Pleno.
+La Presidencia de la Junta de Coordinación Política será rotativa y de acuerdo con el principio de paridad de género; se respetará la proporcionalidad en la representación de los grupos parlamentarios. Se renovará cada seis meses conforme al calendario y en el orden que por acuerdo determine el Pleno.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2022)</small>
 
 ###### Artículo 120.
 
-Son atribuciones de la Comisión de Régimen Interno y Concertación Política, que se ejercerán a través del Presidente en turno:
+Son atribuciones de la Junta de Coordinación Política, que se ejercerán a través de la Presidencia en turno:
 
 I. Coordinar las relaciones políticas de la Legislatura con los poderes federales, estatales, municipales y demás organismos;
 
@@ -1379,7 +1409,9 @@ IV. Solicitar a la Comisión Permanente se convoque a período extraordinario de
 
 V. Proponer al Pleno, la designación y remoción del Auditor Superior del Estado;
 
-VI. Expedir los nombramientos de los titulares de los órganos administrativos, técnicos y personal de apoyo de la Legislatura, previas propuestas de las Comisiones de Vigilancia, de Planeación, Patrimonio y Finanzas y la de Estudios Legislativos y Prácticas Parlamentarias en sus respectivos ámbitos, una vez que el Pleno los autorice;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2022)</small>
+
+VI. Expedir los nombramientos de los titulares de los órganos administrativos, técnicos y personal de apoyo de la Legislatura, previas propuestas de la Comisión de Vigilancia, del Órgano de Administración y Finanzas y la Comisión de Estudios Legislativos y Prácticas Parlamentarias en sus respectivos ámbitos, una vez que el Pleno los autorice;
 
 VII. Presentar iniciativas de ley, decreto o acuerdo;
 
@@ -1393,21 +1425,25 @@ XI. Coordinar las relaciones de la Legislatura con órganos similares;
 
 XII. Proponer a la Legislatura la sustitución de los integrantes de las comisiones cuando exista causa justificada para ello;
 
-XIII. Recibir y evaluar los informes anuales de las comisiones, asimismo el financiero mensual de la Comisión de Planeación, Patrimonio y Finanzas;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2022)</small>
+
+XIII. Recibir y evaluar los informes anuales de las comisiones, asimismo el financiero mensual del Órgano de Administración y Finanzas;
 
 XIV. Coordinar con la Mesa Directiva la conformación del orden del día y desarrollo del trabajo legislativo;
 
 XV. Coordinar la planeación y desarrollo de la agenda legislativa;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2022)</small>
 
-XVI. Analizar, modificar y aprobar, a partir del sexto día hábil de septiembre, el anteproyecto de Presupuesto de Egresos de la Legislatura que formule la Comisión de Planeación, Patrimonio y Finanzas. El anteproyecto deberá ser aprobado por el Pleno y enviarse como proyecto de presupuesto de egresos al Ejecutivo del Estado, a más tardar el último día hábil del mes de septiembre del año inmediato anterior al que deban ejercerse, para que forme parte del Presupuesto de Egresos del Estado, de conformidad con la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado y sus Municipios;
+XVI. Analizar, modificar y aprobar, a partir del sexto día hábil de septiembre, el anteproyecto de Presupuesto de Egresos de la Legislatura que formule el Órgano de Administración y Finanzas. El anteproyecto deberá ser aprobado por el Pleno y enviarse como proyecto de presupuesto de egresos al Ejecutivo del Estado, a más tardar el último día hábil del mes de septiembre del año inmediato anterior al que deban ejercerse, para que forme parte del Presupuesto de Egresos del Estado, de conformidad con la Ley de Austeridad, Disciplina y Responsabilidad Financiera del Estado de Zacatecas y sus Municipios;
 
 XVII. Coadyuvar en las acciones en materia de Parlamento Abierto, así como dar a conocer a los representantes de cada grupo parlamentario, los compromisos que se establezcan, para su cumplimiento;
 
 XVIII. Coordinar la relación con los medios de comunicación y propiciar que la actividad de la Legislatura se difunda con objetividad en todo el territorio del Estado;
 
-XIX. Asumir las atribuciones que no estén expresamente conferidas a la Mesa Directiva o la Comisión de Planeación, Patrimonio y Finanzas, y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2022)</small>
+
+XIX. Asumir las atribuciones que no estén expresamente conferidas a la Mesa Directiva o al Órgano de Administración y Finanzas, y
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
 
@@ -1455,29 +1491,33 @@ Cuando deba convocarse a periodo extraordinario de sesiones de la Legislatura en
 
 Al concluir el periodo de receso, el Presidente de la Comisión Permanente rendirá a la Asamblea, en la primera sesión del periodo ordinario que corresponda, un informe circunstanciado de los expedientes recibidos, el trámite que se les haya dado, así como de los que sólo debe de conocer el Pleno, y se abstendrá en éstos de emitir opinión alguna.
 
-### Capítulo Quinto. Comisión de Planeación, Patrimonio y Finanzas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ABRIL DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2020)</small>
+### Capítulo Quinto. Órgano de Administración y Finanzas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2022)</small>
 
 ###### Artículo 129.
 
-La Comisión de Planeación, Patrimonio y Finanzas se integrará por dos diputados de cada grupo parlamentario, los que gozarán de voz y voto ponderado. La Presidencia de la Comisión será rotativa y de acuerdo con el principio de paridad de género. Se renovará cada seis meses respetando la proporcionalidad de la representación de los grupos parlamentarios, conforme al calendario y en el orden que por acuerdo determine el Pleno.
+El Órgano de Administración y Finanzas se integrará por dos diputadas o diputados de cada grupo parlamentario, uno será suplente y otro titular, quienes gozarán de voz y voto ponderado. La Presidencia será rotativa y de acuerdo con el principio de paridad de género. Se renovará cada seis meses respetando la proporcionalidad de la representación de los grupos parlamentarios, conforme al calendario y en el orden que por acuerdo determine el Pleno.
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2022)</small>
 
-Los integrantes de la Comisión de Planeación, Patrimonio y Finanzas no podrán formar parte de otra Comisión de Gobierno o administración.
+Quiénes integren la Junta de Coordinación Política no podrán formar parte de otro Órgano de Gobierno o Administración.
 
-Esta Comisión sesionará por lo menos una vez por semana y conocerá de los asuntos siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE ABRIL DE 2022)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE JUNIO DE 2021)</small>
+Este Órgano sesionará, por lo menos, una vez por semana y conocerá de los asuntos siguientes:
 
-I. Revisar, modificar y aprobar, dentro de los primeros cinco días hábiles del mes de septiembre de cada año, el anteproyecto de presupuestos de ingresos y egresos del Poder Legislativo, y remitirlo a la Comisión de Régimen Interno y Concertación Política.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2022)</small>
 
-De conformidad con el artículo 65, fracción IV, segundo párrafo de la Constitución estatal, no podrán presupuestarse recursos para ayudas sociales;
+I. Revisar, modificar y aprobar, dentro de los primeros cinco días hábiles del mes de septiembre de cada año, el anteproyecto de presupuestos de ingresos y egresos del Poder Legislativo, y remitirlo a la Junta de Coordinación Política.
 
 II. Establecer los lineamientos del ejercicio, administración y control de los recursos del Poder Legislativo;
 
-III. Informar mensualmente del ejercicio del Presupuesto a la Comisión de Régimen Interno y Concertación Política, trimestral y anualmente al Pleno;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2022)</small>
+
+III. Informar mensualmente del ejercicio del Presupuesto a la Junta de Coordinación Política, trimestral y anualmente al Pleno;
 
 IV. Supervisar permanentemente a la Dirección de Administración y Finanzas en el cumplimiento de los objetivos y metas planteados;
 
@@ -1505,7 +1545,9 @@ XI. Verificar, por conducto de la Dirección de Administración y Finanzas, que 
 
 XII. Vigilar que las erogaciones de las unidades administrativas se ajusten a sus programas presupuestarios anuales, así como a los calendarios y montos autorizados, y verificar su correcto ejercicio, y
 
-XIII. Las demás que le asigne esta Ley, su Reglamento General, así como los acuerdos del Pleno, Mesa Directiva o Comisión de Régimen Interno y Concertación Política.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2022)</small>
+
+XIII. Las demás que le asigne esta Ley, su Reglamento General, así como los acuerdos del Pleno, Mesa Directiva o Junta de Coordinación Política.
 
 ### Capítulo Sexto. Comisiones Legislativas
 
@@ -1589,9 +1631,9 @@ I. Recibir, analizar, estudiar, discutir y dictaminar los asuntos que les turne 
 
 II. Elaborar su programa de trabajo y entregarlo a la Asamblea dentro del término de treinta días naturales contados a partir de la integración de la misma;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2022)</small>
 
-III. Presentar ante el Pleno y la Comisión de Régimen Interno y Concertación Política, por conducto de su presidente, informe escrito anual de actividades;
+III. Presentar ante el Pleno y la Junta de Coordinación Política, por conducto de su Presidencia, informe escrito anual de actividades;
 
 IV. Emitir sus dictámenes agotando todos los pasos, de conformidad con el asunto de que se trate y al procedimiento señalado en esta Ley y en el Reglamento General. Todo dictamen deberá estar firmado por los integrantes de las mismas o, en su caso, por la mayoría. Si alguno de ellos disiente de una resolución, podrá expresar su punto de vista por escrito y firmarlo como voto particular y dirigirlo al presidente de la Legislatura para que sea puesto a consideración de la Asamblea, cuando se presente el dictamen motivo de dicho voto particular;
 
@@ -1613,9 +1655,11 @@ XI. Invitar a reunión de la Comisión al diputado o diputados promoventes de un
 
 XII. Las demás que señale esta Ley, las disposiciones reglamentarias o los acuerdos del Pleno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2022)</small>
+
 ###### Artículo 133.
 
-Los Presidentes de las comisiones legislativas tienen las siguientes facultades y obligaciones:
+Las Presidencias de las comisiones legislativas tienen las siguientes facultades y obligaciones:
 
 I. Presentar programa de trabajo por cada año de ejercicio e informar al Pleno del desarrollo del mismo;
 
@@ -1635,13 +1679,13 @@ VII. Presentar a la Asamblea, los acuerdos, resoluciones o dictámenes de los as
 
 VIII. Salvaguardar los documentos y expedientes de los asuntos que le sean turnados para su estudio;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2022)</small>
 
-IX. Presentar el informe anual ante el Pleno y la Comisión de Régimen Interno y Concertación Política, y
+IX. Presentar el informe anual ante el Pleno y a la Junta de Coordinación Política,
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2022)</small>
 
-X. Celebrar sesiones de trabajo de carácter virtual, cuando se hubiere declarado la suspensión de actividades legislativas, en términos del artículo 26, fracción XII, de esta Ley, observando, en lo conducente, los lineamientos y la reglamentación emitidos por la Comisión de Régimen Interno, y
+X. Celebrar sesiones de trabajo de carácter virtual, cuando se hubiere declarado la suspensión de actividades legislativas, en términos del artículo 26, fracción XII, de esta Ley, observando, en lo conducente, los lineamientos y la reglamentación emitidos por la Junta de Coordinación Política; y
 
 XI. Las demás que señala esta Ley y las disposiciones reglamentarias aplicables.
 
@@ -2139,7 +2183,9 @@ Corresponde a la Comisión de Parlamento Abierto el conocimiento y dictamen de l
 
 I. Los que se refieran a las iniciativas de ley, reformas, adiciones o puntos de acuerdo relacionados con los mecanismos de Parlamento Abierto;
 
-II. Elaborar el proyecto de lineamientos para la implementación del Parlamento Abierto en la Legislatura y someterlos, por conducto de la Comisión de Régimen Interno y Concertación Política, a la aprobación del Pleno;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2022)</small>
+
+II. Elaborar el proyecto de lineamientos para la implementación del Parlamento Abierto en la Legislatura y someterlos, por conducto de la Junta de Coordinación Política, a la aprobación del Pleno;
 
 III. Vigilar que se cumplan los principios de Parlamento Abierto en la Legislatura;
 
@@ -2339,7 +2385,9 @@ II. La Dirección de Apoyo Parlamentario, apoyará las funciones relativas al pr
 
 III. La Dirección de Procesos Legislativos y Asuntos Jurídicos, será la encargada de asesorar técnicamente a las comisiones legislativas en materia de iniciativas, dictámenes y expedición de leyes, decretos o acuerdos; realizar estudios e investigaciones en materia legislativa, finanzas públicas y estudios municipales; proporcionar a la Dirección de Apoyo Parlamentario los productos legislativos elaborados en la misma, para que una vez aprobados por el Pleno o la instancia que corresponda, formen parte de los sistemas legislativos de información del Poder Legislativo, así como asistir a la instancia que tiene la representación jurídica de la Asamblea en los asuntos jurisdiccionales en los que ésta intervenga, y
 
-IV. La Dirección de Administración y Finanzas, apoyará las funciones relativas al desarrollo de la actividad administrativa interna de la Legislatura bajo la supervisión y lineamientos que señale la Comisión de Planeación, Patrimonio y Finanzas.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2022)</small>
+
+IV. La Dirección de Administración y Finanzas, apoyará las funciones relativas al desarrollo de la actividad administrativa interna de la Legislatura bajo la supervisión y lineamientos que señale el Órgano de Administración y Finanzas.
 
 ###### Artículo 168.
 
@@ -2425,9 +2473,11 @@ Corresponde a la Comisión de Vigilancia, supervisar que las funciones de la Aud
 
 ### Capítulo Único. Requisitos y Proceso de Designación del Titular del Órgano Interno de Control
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2022)</small>
+
 ###### Artículo 176.
 
-El Poder Legislativo del Estado contará con un Órgano Interno de Control con autonomía técnica y de gestión, que estará adscrito administrativamente a la Comisión de Régimen Interno y Concertación Política y que tendrá a su cargo las atribuciones que establece la Ley General del Sistema Nacional Anticorrupción, la Ley General, la Ley del Sistema Estatal Anticorrupción de Zacatecas, la presente Ley y otras disposiciones aplicables.
+El Poder Legislativo del Estado contará con un Órgano Interno de Control con autonomía técnica y de gestión, que estará adscrito administrativamente a la Junta de Coordinación Política y que tendrá a su cargo las atribuciones que establece la Ley General del Sistema Nacional Anticorrupción, la Ley General, la Ley del Sistema Estatal Anticorrupción de Zacatecas, la presente Ley y otras disposiciones aplicables.
 
 ###### Artículo 177.
 
@@ -2752,3 +2802,15 @@ Artículo tercero. Los manuales de organización y procedimientos, así como la 
 Dichos ordenamientos de igual forma establecerán, los mecanismos de coordinación de las actividades asignadas a las áreas administrativas a que se refiere el presente instrumento legislativo.
 
 Artículo cuarto. Dentro del término de quince días deberá reasignarse el personal que actualmente labora en la Secretaría General de la Legislatura.
+
+P.O. 27 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 92.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA Y DEL REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo tercero. La organización y procedimientos de la legislatura se actualizarán inmediatamente después de la publicación del presente Decreto, pudiendo armonizar los reglamentos y manuales internos a más tardar el 31 de diciembre de 2022.
+
+Artículo cuarto. Hasta en tanto no se actualicen al presente Decreto los manuales y reglamentos internos, se entenderá por Comisión de Régimen Interno y Concertación Política a la Junta de Coordinación Política y, por Comisión de Planeación Patrimonio y Finanzas, al Órgano de Administración y Finanzas.
