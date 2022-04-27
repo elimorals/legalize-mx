@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-constitucional-en-materia-de-gobierno-y-12616
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-31"
-last_updated: "2020-11-11"
+last_updated: "2022-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2022.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 31 de enero de 2018.
 
@@ -125,9 +125,11 @@ Para la modificación, creación y supresión de los Municipios, se estará a lo
 
 El gobierno de un Municipio de nueva creación, será designado por el Congreso del Estado, a través de un Concejo Municipal, el cual fungirá hasta la fecha en que deba tomar posesión el Ayuntamiento que resulte electo en elecciones municipales que se realicen conforme a los plazos y términos señalados por las disposiciones electorales respectivas.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2022)</small>
+
 ###### Artículo 17.
 
-El Concejo municipal del nuevo municipio deberá integrarse con equidad de género y la inclusión de los diferentes grupos representativos, debiendo cumplir los mismos requisitos señalados para ser miembro de un Ayuntamiento, con un mínimo de tres y un máximo de cinco personas, entre los vecinos que gocen de buena reputación y sobresalgan por sus méritos culturales y sociales.
+El Concejo municipal del nuevo municipio deberá integrarse, observando el principio de paridad de género y la inclusión de los diferentes grupos representativos, debiendo cumplir los mismos requisitos señalados para ser miembro de un Ayuntamiento, con un mínimo de tres y un máximo de cinco personas, entre los vecinos que gocen de buena reputación y sobresalgan por sus méritos culturales y sociales.
 
 ###### Artículo 18.
 
@@ -419,7 +421,9 @@ I.- Aprobar el proyecto del Plan de Desarrollo Municipal correspondiente a su pe
 
 Además, aprobar el informe de evaluación de nivel de cumplimiento de su Plan de Desarrollo Municipal para su remisión al Congreso del Estado.
 
-Dentro del presupuesto anual de egresos se deberán considerar acciones y recursos destinados a elevar el índice de desarrollo humano de los habitantes y comunidades más necesitados.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2022)</small>
+
+El Presupuesto de Egresos se deberá elaborar conforme a lo establecido en la legislación aplicable, considerando acciones y recursos destinados a elevar el índice de desarrollo humano de los habitantes y comunidades más necesitadas, incorporando la perspectiva de género, equidad y no discriminación.
 
 Además este plan de desarrollo deberá ser elaborado por funcionarios públicos municipales certificados por instituciones autorizadas por CONOCER especializadas en administración pública residentes en el Estado, con el objeto de garantizar que sean elaborados con mecanismos homogéneos de calidad en el servicio público municipal en toda la entidad federativa, para establecer políticas públicas de alto impacto que propongan respuestas eficientes y cercanas a las necesidades de la ciudadanía del Estado de Chiapas.
 
@@ -569,7 +573,9 @@ LXIV.- Autorizar al Presidente Municipal para que afecte los ingresos y/o el der
 
 LXV.- Autorizar la celebración de los convenios y contratos necesarios para el beneficio del Municipio, los cuales deberán estar suscritos por el Presidente Municipal y el Secretario del Ayuntamiento;
 
-LXVI.- Crear una área encargada de fomentar y vigilar la equidad de género, en todos los ámbitos y niveles de decisión de la administración pública municipal, garantizando el respeto mutuo, la superación igualitaria y la convivencia armónica entre la mujer y el hombre;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2022)</small>
+
+LXVI.- Establecer, en concordancia con la Política Nacional y Estatal, una instancia encargada de fomentar políticas y acciones para el logro de la igualdad sustantiva, en todos los ámbitos y niveles de decisión de la administración pública municipal, transversalizando la igualdad de género, impulsando la no discriminación y el acceso de las mujeres a una vida libre de violencia.
 
 LXVII. Emitir las disposiciones legales que regulen al organismo público encargado de realizar todas las actividades necesarias, directa o indirectamente, al cumplimiento de la prestación del servicio público de agua potable y alcantarillado.
 
@@ -885,7 +891,9 @@ XI.- De Contratación de Obras, Adquisiciones, Arrendamientos y Servicios;
 
 XII.- De Agricultura, Ganadería y Silvicultura.
 
-XIII.- De equidad de género;
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2022)</small>
+
+XIII.- De Igualdad de Género y Acceso a una Vida Libre de Violencia.
 
 XIV.- De Planeación para el Desarrollo, y;
 
@@ -1071,7 +1079,9 @@ VIII. Promover el mejoramiento y el establecimiento de nuevos servicios público
 
 IX. Llevar el registro en que los vecinos manifestarán sus propiedades, industrias, profesión u ocupación, haciéndolo del conocimiento del Ayuntamiento.
 
-X. Actuar como conciliadores en los conflictos que se les presentaren.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2022)</small>
+
+X. Actuar como conciliadores en los conflictos que se les presenten; en caso de presentarse algún conflicto derivado de la manifestación de algún tipo de violencia contra las mujeres, no procederá la mediación y conciliación, debiendo canalizar a las afectadas y remitir el asunto a la Instancia Municipal de las Mujeres.
 
 XI. Coadyuvar con las autoridades Federales, Estatales y Municipales en el desempeño de sus atribuciones;
 
@@ -1459,7 +1469,55 @@ XIII. Dar cumplimiento a lo establecido a la Ley que fija las Bases para la Entr
 
 XIV. Las demás que les señalen esta Ley, sus reglamentos y demás disposiciones legales aplicables.
 
-### Capítulo I. De la Hacienda Municipal
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE ABRIL DE 2022)</small>
+
+### Capítulo XVI. De la Instancia Municipal de las Mujeres
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2022)</small>
+
+###### Artículo 97 Ter.
+
+La Instancia Municipal de las Mujeres, será la encargada de establecer, promover y fortalecer al interior de la Administración Pública Municipal, la transversalidad de la perspectiva de género y la evaluación de las políticas públicas institucionales enfocadas a asegurar la igualdad sustantiva e inclusión social de los derechos humanos de las mujeres, y tendrá por objeto:
+
+I. Promover acciones en coordinación con los Órganos Administrativos de la Administración Pública Municipal, así como con las Dependencias y Entidades de la Administración Pública Estatal, relativas a la transversalización de la perspectiva de género para el logro de la igualdad sustantiva.
+
+II. Promover el desarrollo integral de las mujeres para lograr su plena incorporación a la vida económica, política, cultural y social en el Municipio.
+
+III. Fomentar acciones que promuevan la no discriminación y contribuyan a la igualdad de oportunidades y de trato entre mujeres y hombres.
+
+IV. Fungir como órgano de apoyo, capacitación y asesoría del Ayuntamiento, en materia de igualdad de género, implementando la perspectiva de género y erradicación de la violencia contra las mujeres.
+
+V. Promover la incorporación de la perspectiva de género en la planeación y en las etapas de ejecución de programas y proyectos municipales, con el fin de eliminar las brechas de desigualdad subsistentes.
+
+Para la organización y funcionamiento de la Instancia Municipal de las Mujeres, los Ayuntamientos podrán disponer de los recursos humanos, financieros y materiales con que cuentan, sin que resulte necesario realizar erogaciones o crear estructura administrativa adicional.
+
+Conforme a la suficiencia presupuestaria, los Ayuntamientos podrán establecer la Instancia Municipal de las Mujeres dentro de su estructura administrativa, debiendo para tal efecto, realizar los trámites presupuestales y administrativos que resulten necesarios. En este supuesto, la designación de la persona titular de la Instancia Municipal de las Mujeres, se realizará a propuesta del Presidente Municipal y deberá ser aprobada por el Ayuntamiento.
+
+En caso de no contar el Ayuntamiento con disponibilidad presupuestal para el establecimiento del órgano administrativo dentro de la estructura administrativa, la persona titular de la Instancia Municipal de las Mujeres, será designada por el Presidente Municipal de entre las personas servidoras públicas del Ayuntamiento, misma que deberá contar con conocimientos en perspectiva de género, derechos humanos de las mujeres, o en su caso, en estrategias de prevención y atención a las diversas formas de manifestación de la violencia contra las mujeres.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2022)</small>
+
+###### Artículo 97 Quater.
+
+La persona titular de la Instancia Municipal de las Mujeres tendrá las siguientes atribuciones:
+
+I. Promover la perspectiva de género en el ámbito económico, político, cultural y social del Municipio.
+
+II. Celebrar, o en su caso, participar en la celebración de convenios de colaboración o cualquier otro mecanismo con Dependencias y Entidades de la Administración Pública Estatal y/o Federal, instituciones u organizaciones públicas o privadas, para llevar a cabo programas o proyectos que propicien el desarrollo integral de las mujeres.
+
+III. Gestionar ante las autoridades Estatales y Federales, la ejecución de programas para lograr en el Municipio la igualdad sustantiva y la erradicación de las diversas formas de manifestación de violencia contra las mujeres.
+
+IV. Promover y realizar acciones de prevención, detección y atención de los diversos tipos de violencia contra las mujeres, suscitadas en el ámbito público o privado.
+
+V. Elaborar en coordinación con los Órganos Administrativos del Ayuntamiento, el Plan Municipal para la Igualdad entre Mujeres y Hombres, con la participación de la Comisión de Igualdad de Género y Acceso a una Vida Libre de Violencia.
+
+VI. Impulsar y coordinar la generación de datos estadísticos con las diversas áreas estratégicas.
+
+VII. Promover la capacitación y asesoría del personal adscrito a los diversos Órganos Administrativos del Ayuntamiento, en materia de igualdad de género, perspectiva de género y erradicación de la violencia contra las mujeres.
+
+VIII. Coordinar las acciones de colaboración entre el Ayuntamiento y la instancia estatal normativa en materia de igualdad de género, con el objeto de obtener información general sobre casos de violencia contra las mujeres, a través de un sistema estadístico, para la elaboración de diagnósticos municipales, regionales y estatales.
+
+IX. Las demás que le otorguen las leyes, reglamentos y demás ordenamientos legales y administrativos.
 
 ## Título Quinto. De las Responsabilidades de los Servidores Públicos Municipales
 
@@ -1499,7 +1557,7 @@ II. Fortalecer y consolidar la capacitación de los servidores públicos municip
 
 III. Maximizar los recursos humanos, materiales y financieros con los que cuenta el Municipio.
 
-### Capítulo II. De la Administración Pública Paramunicipal
+### Capítulo I. De la Hacienda Municipal
 
 ###### Artículo 104.
 
@@ -1627,7 +1685,7 @@ II.- Detectar cualquier irregularidad en perjuicio del fisco municipal o los con
 
 III.- Investigar si tanto el tesorero como sus empleados cumplen con sus obligaciones y atienden al público con la debida diligencia.
 
-### Capítulo I. Del Patrimonio Del Municipio
+### Capítulo II. De la Administración Pública Paramunicipal
 
 ###### Artículo 121.
 
@@ -1693,7 +1751,7 @@ En lo no previsto, le serán aplicables las disposiciones señaladas en esta ley
 
 ## Título Séptimo. De los Bienes del Municipio
 
-### Capítulo II. De los Bienes del Dominio Público
+### Capítulo I. Del Patrimonio Del Municipio
 
 ###### Artículo 126.
 
@@ -1703,7 +1761,7 @@ I.- Bienes del dominio público; y
 
 II.- Bienes del dominio privado.
 
-### Capítulo III. De los Bienes de Dominio Privado
+### Capítulo II. De los Bienes del Dominio Público
 
 ###### Artículo 127.
 
@@ -1723,7 +1781,7 @@ V.- Los muebles propiedad del municipio que por su naturaleza, no sean normalmen
 
 Los bienes inmuebles de dominio público, son inalienables e imprescriptibles, solo podrán ser enajenados conforme a las disposiciones jurídicas aplicables, y previo decreto de desincorporación dictado por el Congreso del Estado, cuando dejen de servir para el fin al que hayan sido destinados.
 
-### Capítulo I. De los Asentamientos Humanos
+### Capítulo III. De los Bienes de Dominio Privado
 
 ###### Artículo 129.
 
@@ -1745,7 +1803,7 @@ Corresponde al Ayuntamiento, previo acuerdo del Congreso del Estado, administrar
 
 ## Título Octavo. De los Asentamientos Humanos
 
-### Capítulo II. De las Obras Públicas
+### Capítulo I. De los Asentamientos Humanos
 
 ###### Artículo 131.
 
@@ -1753,9 +1811,7 @@ Los Ayuntamientos, de acuerdo con la Ley General de Asentamientos Humanos, orden
 
 El ayuntamiento Municipal, para autorizar la creación de un centro de población, observará que éste cumpla con los requisitos establecidos en su reglamento de construcción y normas técnicas de las mismas; así mismo dicho proyecto obligatoriamente deberá contar con el dictamen de protección civil emitido por el Instituto de (sic) para la gestión integral de Riesgos de Desastres del Estado de Chiapas, instancia facultada y responsable de operar el Sistema Estatal de Protección Civil, también reconocida bajo su carácter de Unidad Estatal.
 
-### Capítulo III. Del Órgano Interno de Control Municipal
-
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+### Capítulo II. De las Obras Públicas
 
 ###### Artículo 132.
 
@@ -1791,7 +1847,9 @@ El Órgano de Fiscalización Superior del Congreso del Estado, en ejercicio de l
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MAYO DE 2020)</small>
 
-### Capítulo IV. De la Consejería Jurídica Municipal
+### Capítulo III. Del Órgano Interno de Control Municipal
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
 
 ###### Artículo 135.
 
@@ -1817,7 +1875,7 @@ La fiscalización y evaluación del ejercicio de los recursos públicos del Ayun
 
 La función de revisión y fiscalización tiene carácter técnico, autónomo, externo y permanente, y será ejercida conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
 
-### Capítulo V. De los Servicios Municipales
+### Capítulo IV. De la Consejería Jurídica Municipal
 
 ###### Artículo 139.
 
@@ -1837,7 +1895,7 @@ Para ser titular de la Consejería Jurídica Municipal se deben reunir los requi
 
 Dependerá directamente del Presidente Municipal.
 
-### Capítulo I. Plan municipal para la Igualdad entre mujeres y hombres
+### Capítulo V. De los Servicios Municipales
 
 ###### Artículo 141.
 
@@ -1963,9 +2021,27 @@ La administración del rastro, estará a cargo de un responsable que designará 
 
 #### Sección VII. Calles, parques y jardines y su equipamiento
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2022)</small>
+
 ###### Artículo 161.
 
-El servicio público de calles, parques, jardines y su equipamiento, comprende el alineamiento, trazo, construcción, ampliación y mantenimiento de las vías públicas, así como el establecimiento, ampliación, conservación y mantenimiento de áreas verdes, espacios recreativos, plazas, monumentos, fuentes y la ornamentación de las áreas y vías públicas.
+El servicio público de calles, parques, jardines y su equipamiento, comprende el alineamiento, trazo, construcción, nomenclatura, denominación, ampliación y mantenimiento de las vías públicas; así como el establecimiento, nomenclatura, denominación, ampliación, conservación y mantenimiento de áreas verdes, espacios recreativos, plazas, monumentos, fuentes y la ornamentación de las áreas y vías públicas.
+
+Los Ayuntamientos, para la asignación y reconocimiento de la nomenclatura y denominación de las vías públicas, deberán observar lo siguiente:
+
+I. El nombre propuesto no deberá repetirse con el de otras vías públicas o espacios públicos dentro del territorio municipal.
+
+II. No asignar un nombre distinto cuando sean continuidad de otra vía existente, respetando en toda su extensión el primer nombre asignado.
+
+III. El nombre propuesto no deberá estar compuesto por conceptos, vocablos o palabras en un idioma extranjero, a excepción de nombres propios de personas que hayan contribuido al desarrollo cultural, histórico, social, científico, deportivo o económico del Estado o del Ayuntamiento, y que sea comprensible en sus vocablos.
+
+IV. No deberá contener palabras ofensivas, injuriosas o contrarias a las buenas costumbres.
+
+V. Procurar que la nomenclatura o denominación, en su caso, fomente el conocimiento de fechas o acontecimientos con valor histórico; así como otorgar el reconocimiento a los héroes o personalidades destacadas del País, Estado o Municipio.
+
+VI. No deberán denominar a las vías públicas y/o espacios públicos, con nombres de servidores públicos federales, estatales o municipales en funciones, así como de sus cónyuges o parientes consanguíneos o por afinidad.
+
+VII. Podrán considerarse nombres de ex servidores públicos, siempre que se acredite haber dejado cualquier cargo público, por lo menos con cinco años con antelación, para tal efecto deberá valorarse el currículum, así como justificar su aportación al desarrollo histórico, social, cultural o económico en beneficio de la sociedad.
 
 ###### Artículo 162.
 
@@ -2053,7 +2129,7 @@ VI.- Las demás que dispongan las leyes de la materia y el Ayuntamiento a travé
 
 En el caso del Secretario de Planeación Municipal o su equivalente deberá contar con carrera universitaria terminada preferentemente en las ramas de administración, administración pública, economía, sociología o afín, preferentemente con especialidad en planeación estratégica o tener dos años comprobables de haber trabajado en materia de planeación gubernamental o municipal. Además, contar con la certificación de capacitación y competencia laboral expedida por un centro certificador de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas.
 
-### Capítulo II. De los Planes de Desarrollo Económico Municipal
+### Capítulo I. Plan municipal para la Igualdad entre mujeres y hombres
 
 ###### Artículo 176.
 
@@ -2063,7 +2139,7 @@ El gobierno municipal elaborará e implementara políticas públicas integrales 
 
 Para promover relaciones de respeto e igualdad entre los géneros, visibilizar a las mujeres, y prevenir la violencia y discriminación contra cualquier persona, en la presente Ley, se utilizará el genérico masculino por efectos gramaticales, por lo que se entenderá que se hace referencia a mujeres y a hombres por igual.
 
-### Capítulo III. Del Desarrollo Urbano Municipal
+### Capítulo II. De los Planes de Desarrollo Económico Municipal
 
 ###### Artículo 178.
 
@@ -2075,7 +2151,7 @@ Impulsará políticas que promuevan la creación de empleos para activar el crec
 
 Los gobiernos estatal y municipal promoverán el establecimiento y creación de industrias sostenibles y promoverán la investigación e innovación científica en este sentido; asimismo, se impulsará el turismo ecológico y de aventura.
 
-### Capítulo IV. De los Consejos de Participación y Colaboración Vecinal
+### Capítulo III. Del Desarrollo Urbano Municipal
 
 ###### Artículo 180.
 
@@ -2103,7 +2179,7 @@ Cuando los terrenos de un ejido se encuentren ubicados en el área de crecimient
 
 La incorporación de las tierras ejidales al desarrollo urbano deberá sujetarse a las leyes, reglamentos y planes vigentes en materia de asentamientos humanos.
 
-### Capítulo V. De los Planes para el Aprovechamiento de los Recursos Naturales
+### Capítulo IV. De los Consejos de Participación y Colaboración Vecinal
 
 ###### Artículo 184.
 
@@ -2121,9 +2197,11 @@ V.- De municipio;
 
 Los consejos son asociaciones de vecinos para participar y colaborar con las autoridades en la consecución del bien común, la preservación, el mantenimiento y el restablecimiento de la tranquilidad, la seguridad y la salubridad públicas, y en general del orden público.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2022)</small>
+
 ###### Artículo 185.
 
-Los consejos de participación y colaboración vecinal, a que se refiere la fracción primera del artículo anterior, se integrarán por todos los vecinos con residencia mínima de seis meses en la manzana, o unidad habitacional; sin distinción de nacionalidad, credos políticos y religiosos.
+Los Consejos de Participación y Colaboración Vecinal a que se refiere la fracción I del artículo anterior, se integrarán por todos los vecinos con residencia mínima de seis meses en la manzana o unidad habitacional, sin ningún tipo de distinción de nacionalidad, origen étnico, orientación sexual, credos políticos, religiosos o de alguna otra naturaleza, procurando en todo momento la participación igualitaria de mujeres y hombres.
 
 ###### Artículo 186.
 
@@ -2335,7 +2413,7 @@ XIX.- Intervenir, dictaminar y resolver acerca de los conflictos que se susciten
 
 XX.- Las demás que le confieran la presente ley los reglamentos y bandos municipales y otras disposiciones legales aplicables.
 
-### Capítulo VI. Del Gobierno Digital Municipal
+### Capítulo V. De los Planes para el Aprovechamiento de los Recursos Naturales
 
 ###### Artículo 207.
 
@@ -2349,7 +2427,7 @@ El ordenamiento del territorio municipal, debe contribuir al desarrollo y consol
 
 El Municipio fomentará el ejercicio responsable de los derechos de uso, disfrute y aprovechamiento de los recursos naturales, flora y fauna silvestres, en los términos y con las modalidades que establece la Constitución Política de los Estados Unidos Mexicanos, y las leyes respectivas.
 
-### Capítulo I. Del Bando y los Reglamentos
+### Capítulo VI. Del Gobierno Digital Municipal
 
 ###### Artículo 210.
 
@@ -2467,7 +2545,7 @@ El Defensor Municipal de Derechos Humanos presentará por escrito a la Comisión
 
 Los Ayuntamientos tendrán facultades para aprobar, de acuerdo con la Ley, los Bandos de Policía y Gobierno, los Reglamentos, Circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, para la organización la administración pública municipal, regularán las materias, procedimientos, funciones y atribuciones, que permitan satisfacer el bien común y aseguren la participación ciudadana y vecinal.
 
-### Capítulo II. De las Atribuciones de la Secretaria de Juventud, Recreación y Deporte Municipal
+### Capítulo I. Del Bando y los Reglamentos
 
 ###### Artículo 214.
 
@@ -2479,7 +2557,7 @@ El Municipio como persona jurídica de Derecho Público, debe regular, entre otr
 
 El bando de policía y buen gobierno lo constituye el conjunto de normas que regulan de manera específica, el funcionamiento del Gobierno Municipal, así como todo lo relativo a la vida comunitaria municipal, que garanticen la tranquilidad, inclusión y seguridad de los habitantes del Municipio.
 
-### Capítulo III. De las Sanciones
+### Capítulo II. De las Atribuciones de la Secretaria de Juventud, Recreación y Deporte Municipal
 
 ###### Artículo 216.
 
@@ -2497,7 +2575,7 @@ Desempeñara sus funciones bajo una agenda de trabajo que impulse a los jóvenes
 
 Celebrar acuerdos y convenios de colaboración con organizaciones privadas y sociales, para el desarrollo de proyectos que beneficien a la juventud.
 
-### Capítulo I. De las Suplencias
+### Capítulo III. De las Sanciones
 
 ###### Artículo 220.
 
@@ -2505,7 +2583,7 @@ Compete a la autoridad administrativa la aplicación de las sanciones por las in
 
 ## Título Décimo Tercero. De las Suplencias, Desaparición de los Ayuntamientos y Responsabilidades de los Servidores Públicos Municipales
 
-### Capítulo II. De la Suspensión Definitiva de los Integrantes de los Ayuntamientos
+### Capítulo I. De las Suplencias
 
 ###### Artículo 221.
 
@@ -2531,7 +2609,7 @@ Las faltas temporales de los agentes y subagentes municipales serán suplidas po
 
 Los titulares de las dependencias serán suplidos por quien designe el Presidente Municipal.
 
-### Capítulo III. De la Renovación del Cargo a los Integrantes del Ayuntamiento
+### Capítulo II. De la Suspensión Definitiva de los Integrantes de los Ayuntamientos
 
 ###### Artículo 224.
 
@@ -2562,6 +2640,8 @@ En el caso de que la totalidad de los integrantes del ayuntamiento se encuentren
 ###### Artículo 225.
 
 Cuando por cualesquier otras causas no comprendidas en esta Ley, el Ayuntamiento dejare de funcionar normalmente, desacate reiteradamente la Legislación Estatal o Federal, o quebrante los principios del régimen federal o de la Constitución Política del Estado, el Congreso del Estado lo suspenderá definitivamente, nombrara un consejo municipal en los términos de la presente ley, y demás disposiciones aplicables.
+
+### Capítulo III. De la Renovación del Cargo a los Integrantes del Ayuntamiento
 
 ###### Artículo 226.
 
@@ -2642,3 +2722,13 @@ P.O. 11 DE NOVIEMBRE DE 2020.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 27 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 134 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero. La Instancia Municipal de las Mujeres deberá quedar integrada en los municipios del Estado de Chiapas, dentro de los noventa días posteriores a la publicación del presente Decreto.
