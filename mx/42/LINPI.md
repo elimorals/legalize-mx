@@ -4,7 +4,7 @@ identifier: "LINPI"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-04"
-last_updated: "2018-12-04"
+last_updated: "2022-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131900&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LINPI"
 
 LEY DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2022.
 
 Ley publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación, el martes 4 de diciembre de 2018.
 
@@ -238,9 +238,13 @@ El Instituto tendrá las áreas administrativas necesarias para garantizar la at
 
 La Junta de Gobierno estará integrada por:
 
-I. El Titular del Poder Ejecutivo y su suplente será el Titular del Instituto;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-II. El o la titular de cada una de las siguientes Secretarías de Estado:
+I. La persona Titular del Poder Ejecutivo y su suplente será la persona Titular del Instituto;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 28 DE ABRIL DE 2022)</small>
+
+II. La persona titular de cada una de las siguientes Secretarías de Estado:
 
 a) Gobernación;
 
@@ -266,9 +270,13 @@ k) Relaciones Exteriores.
 
 III. Una representación del Consejo Nacional de Pueblos Indígenas.
 
-La persona titular de la Comisión de Asuntos Indígenas de la Cámara de Senadores, así como de la Comisión de Pueblos Indígenas de la Cámara de Diputados del Congreso de la Unión; participarán como invitados permanentes con derecho a voz sin voto.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-En los casos a los que se refieren las fracciones I y II, cada miembro propietario contará con un suplente. Los suplentes tendrán derecho a voz y voto en ausencia de su titular.
+La persona titular de la Comisión de Asuntos Indígenas del Senado de la República, así como de la Comisión de Pueblos Indígenas de la Cámara de Diputados del Congreso de la Unión; participarán como invitadas permanentes con derecho a voz sin voto.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+En los casos a los que se refieren las fracciones I y II, cada integrante contará con una persona suplente. Las personas suplentes tendrán derecho a voz y voto en ausencia de su titular.
 
 ###### Artículo 13.
 
@@ -306,11 +314,13 @@ XI. Aprobar las disposiciones y criterios para racionalizar el gasto administrat
 
 XII. Aprobar el Estatuto Orgánico del Instituto.
 
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
 ###### Artículo 16.
 
-El Director o Directora General del Instituto será designado y removido por el Presidente de la República, de quien dependerá directamente, debiendo reunir los requisitos previstos en el artículo 21 de la Ley Federal de las Entidades Paraestatales.
+La persona titular de la Dirección General del Instituto será designada y removida por la persona titular de la Presidencia del Ejecutivo Federal, de quien dependerá directamente, debiendo reunir los requisitos previstos en el artículo 21 de la Ley Federal de las Entidades Paraestatales.
 
-Además de los requisitos señalados, el Director o Directora General deberá pertenecer a un pueblo indígena o afromexicano y preferentemente hablar una lengua indígena. Asimismo, deberá tener la experiencia y los conocimientos relacionados con el objeto del Instituto, que le permitan desarrollar sus actividades con solvencia profesional y técnica.
+Además de los requisitos señalados, la persona titular de la Dirección General deberá pertenecer a un pueblo indígena o afromexicanos y preferentemente hablar una lengua indígena. Asimismo, deberá tener la experiencia y los conocimientos relacionados con el objeto del Instituto, que le permitan desarrollar sus actividades con solvencia profesional y técnica.
 
 ###### Artículo 17.
 
@@ -390,6 +400,10 @@ El Instituto establecerá los Centros Coordinadores de Pueblos Indígenas en cad
 
 Cada Centro contará con un Consejo Regional de Pueblos Indígenas, que analizará, opinará y hará propuestas al Centro sobre las políticas, programas y acciones públicas para el reconocimiento e implementación de los derechos y el desarrollo de los pueblos indígenas.
 
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+Cada Consejo Regional de Pueblos Indígenas deberá integrarse de manera paritaria, con una mayoría de representantes indígenas.
+
 ###### Artículo 22.
 
 El patrimonio del Instituto se integrará con:
@@ -434,7 +448,9 @@ Para el debido funcionamiento del Mecanismo y el cumplimiento de sus atribucione
 
 El Mecanismo está integrado por las dependencias, entidades, organismos, instituciones y demás participantes, que se enlistan a continuación:
 
-I. Un representante de las siguientes dependencias y entidades:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 28 DE ABRIL DE 2022)</small>
+
+I. Una persona representante de las siguientes dependencias y entidades:
 
 a) Secretaría de Gobernación, quien lo presidirá;
 
@@ -478,27 +494,49 @@ s) Instituto Nacional de las Mujeres, e
 
 t) Instituto Nacional de Antropología e Historia;
 
-II. Un representante del Instituto Nacional Electoral;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-III. Un representante del Instituto Federal de Telecomunicaciones;
+II. Una persona representante del Instituto Nacional Electoral;
 
-IV. Un representante del Consejo Nacional de Evaluación de la Política de Desarrollo Social;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-V. Un representante del Consejo Nacional para Prevenir la Discriminación;
+III. Una persona representante del Instituto Federal de Telecomunicaciones;
 
-VI. Un representante del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-VII. Un representante de la Comisión de Asuntos Indígenas de la Cámara de Senadores y un representante de la Comisión de Pueblos Indígenas de la Cámara de Diputados del Congreso de la Unión;
+IV. Una persona representante del Consejo Nacional de Evaluación de la Política de Desarrollo Social;
 
-VIII. Un representante del Consejo de la Judicatura Federal;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-IX. Un representante de la Comisión Nacional de los Derechos Humanos;
+V. Una persona representante del Consejo Nacional para Prevenir la Discriminación;
 
-X. El o la Titular de la Dirección General del Instituto, quien fungirá como Secretario Técnico;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-XI. La persona que presida el Consejo Nacional de Pueblos Indígenas y cuatro de sus integrantes, elegidos de conformidad con lo que establezca su Reglamento.
+VI. Una persona representante del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes;
 
-Los integrantes del Mecanismo antes mencionados serán los titulares de las instituciones que representan o, en suplencia, un servidor público con el nivel mínimo de Subsecretario o equivalente.
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+VII. Una persona representante de la Comisión de Asuntos Indígenas del Senado de la República y un representante de la Comisión de Pueblos Indígenas de la Cámara de Diputados del Congreso de la Unión;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+VIII. Una persona representante del Consejo de la Judicatura Federal;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+IX. Una persona representante de la Comisión Nacional de los Derechos Humanos;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+X. La persona Titular de la Dirección General del Instituto, quien fungirá como Secretaria o Secretario Técnico, y
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+XI. La persona que presida el Consejo Nacional de Pueblos Indígenas y cuatro de sus integrantes, elegidos conforme al principio de paridad de género y de acuerdo con lo que establezca su Reglamento.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+Las personas integrantes del Mecanismo antes mencionado serán las titulares de las instituciones que representan o, en suplencia, el subsecretario, subsecretaría o equivalente.
 
 ###### Artículo 29.
 
@@ -537,3 +575,17 @@ Noveno. Cualquier referencia que en otras disposiciones jurídicas y administrat
 Ciudad de México, a 28 de noviembre de 2018.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Dip. Mariana Dunyaska García Rojas, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a los cuatro días del mes de diciembre de dos mil dieciocho.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 28 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN, LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, LA LEY GENERAL DE VÍCTIMAS, LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS, LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS, LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES, LA LEY DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS, LA LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS Y LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, EN MATERIA DE PARIDAD DE GÉNERO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+Tercero. El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
+
+Cuarto. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
