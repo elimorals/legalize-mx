@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2022-04-26"
+last_updated: "2022-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2022.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -3167,17 +3167,19 @@ Solamente por falta o impedimento de todos los llamados preferentemente, entrar�
 
 Mientras estuviere el hijo en la patria potestad, no podrá dejar la casa de los que la ejercen, sin permiso de ellos o decreto de la autoridad competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2022)</small>
+
 ###### Art. 436.
 
-A las personas que tienen al hijo bajo su patria potestad, incumbe la obligación de educarlo convenientemente.
+Las niñas, niños y adolescentes tienen derecho a recibir, crianza, atención, cuidado, educación y orientación para su correcto desarrollo, buscando su bienestar, crecimiento saludable y armonioso por parte de quienes ejerzan la patria potestad o custodia, sobre aquellos.
 
 Cuando llegue a conocimiento del Ministerio Público que las personas de que se trata no cumplan dicha obligación, promoverá lo que corresponda en beneficio del menor.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2022)</small>
 
 ###### Art. 437.
 
-Para los efectos del artículo anterior, los que ejerzan la patria potestad o tengan hijos bajo su custodia, tienen la responsabilidad primordial de la crianza, educación y el correcto desarrollo; así como la obligación de observar una conducta que favorezca su bienestar, crecimiento saludable y armonioso, garantizándoles una vida libre de toda forma de violencia.
+Para los efectos del artículo anterior, queda prohibido el castigo corporal o humillante como forma de corrección o disciplina de niñas, niños y adolescentes, debiéndose garantizar una vida libre de toda forma de violencia.
 
 ###### Art. 438.
 
@@ -16528,3 +16530,15 @@ P.O. 26 DE ABRIL DE 2022.
 PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 28 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 56 POR EL QUE “SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 436 Y EL ARTÍCULO 437 DEL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a los quince días después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga cualquier disposición que contravenga la presente Ley.
