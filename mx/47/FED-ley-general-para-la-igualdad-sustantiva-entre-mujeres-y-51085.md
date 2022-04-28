@@ -4,7 +4,7 @@ identifier: "FED-ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-51085"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-08-02"
-last_updated: "2022-03-30"
+last_updated: "2022-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51085&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-07-27"
 
 LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de agosto de 2006.
 
@@ -41,11 +41,11 @@ SE EXPIDE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
 
 ###### Artículo 1.
 
-La presente Ley tiene por objeto regular y garantizar la igualdad de oportunidades y de trato entre mujeres y hombres, proponer los lineamientos y mecanismos institucionales que orienten a la Nación hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo el empoderamiento de las mujeres y la lucha contra toda discriminación basada en el sexo. Sus disposiciones son de orden público e interés social y de observancia general en todo el Territorio Nacional.
+La presente Ley tiene por objeto regular y garantizar la igualdad de oportunidades y de trato entre mujeres y hombres, proponer los lineamientos y mecanismos institucionales que orienten a la Nación hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo el empoderamiento de las mujeres, la paridad de género y la lucha contra toda discriminación basada en el sexo. Sus disposiciones son de orden público e interés social y de observancia general en todo el Territorio Nacional.
 
 ###### Artículo 2.
 
@@ -233,9 +233,13 @@ La Política Nacional que desarrolle el Ejecutivo Federal deberá considerar los
 
 I. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida; económico, político, saludable, social y cultural;
 
-II. Asegurar que la planeación presupuestal incorpore la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos y acciones para la igualdad entre mujeres y hombres;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-III. Fomentar la participación y representación política equilibrada entre mujeres y hombres;
+II. Asegurar que la planeación presupuestal incorpore la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos y acciones para la igualdad y la paridad entre mujeres y hombres;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+III. Fomentar la participación y representación política paritaria, libre y equilibrada entre mujeres y hombres;
 
 IV. Promover la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres;
 
@@ -343,9 +347,17 @@ I. Promover la igualdad entre mujeres y hombres y contribuir a la erradicación 
 
 II. Contribuir al adelanto de las mujeres;
 
-III. Coadyuvar a la modificación de estereotipos que discriminan y fomentan la violencia de género, y
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-IV. Promover el desarrollo de programas y servicios que fomenten la igualdad entre mujeres y hombres.
+III. Coadyuvar a la modificación de estereotipos que discriminan y fomentan la violencia de género;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+IV. Promover el desarrollo de programas y servicios que fomenten la igualdad entre mujeres y hombres, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+V. Dar seguimiento a la implementación del principio constitucional de paridad de género; y en tal virtud deberá presentar un informe anual de los avances en la materia.
 
 ###### Artículo 27.
 
@@ -477,7 +489,9 @@ III. Evaluar por medio del área competente de la Comisión Nacional de los Dere
 
 IV. Promover participación y representación equilibrada entre mujeres y hombres dentro de las estructuras de los partidos políticos;
 
-V. Fomentar la participación equitativa de mujeres y hombres en altos cargos públicos;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+V. Fomentar la participación equitativa y paritaria de mujeres y hombres en altos cargos públicos, aplicando el principio de paridad de género en la integración de los órganos directivos, consultivos y de representación social en las dependencias y entidades de la Administración Pública Federal, y de las Entidades Federativas y Municipios;
 
 VI. Desarrollar y actualizar estadísticas desagregadas por sexo, sobre puestos decisorios y cargos directivos en los sectores público, privado y de la sociedad civil, y
 
@@ -708,3 +722,15 @@ D.O.F. 30 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD, DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES Y DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES".]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN, LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, LA LEY GENERAL DE VÍCTIMAS, LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS, LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS, LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES, LA LEY DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS, LA LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS Y LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, EN MATERIA DE PARIDAD DE GÉNERO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+Tercero. El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
+
+Cuarto. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
