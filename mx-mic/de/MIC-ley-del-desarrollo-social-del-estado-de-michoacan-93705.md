@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-desarrollo-social-del-estado-de-michoacan-93705"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-11"
-last_updated: "2020-12-04"
+last_updated: "2022-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2022.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el jueves 11 de abril de 2013.
 
@@ -457,15 +457,17 @@ La elección de las personas que integran las diversas organizaciones estará su
 
 ### CAPÍTULO V. ZONAS DE ATENCIÓN PRIORITARIA
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2022)</small>
+
 ###### ARTÍCULO 28.
 
-Se consideran zonas de atención prioritaria las áreas o regiones que sean de carácter predominantemente rural o urbano, cuya población registre índices de pobreza, marginación, indicativos de existencia de marcadas insuficiencias y rezagos en los ejercicios de los derechos para el desarrollo social.
+Se consideran zonas de atención prioritaria las áreas o regiones que sean de carácter predominantemente rural o urbano, cuya población registre índices de pobreza, emigración, marginación, indicativos de existencia de marcadas insuficiencias y rezagos en los ejercicios de los derechos para el desarrollo social. Su determinación se orientará por los criterios de resultados que para tal efecto defina el Instituto Nacional de Estadística y Geografía, el Consejo Nacional de Población y el CONEVAL, señalados en la Ley General de Desarrollo Social y deberá en todo tiempo promover la eficacia cuantitativa y cualitativa de los ejecutores de la política social.
 
-Su determinación se orientará por los criterios de resultados que para tal efecto defina el CONEVAL, señalados en la Ley General de Desarrollo Social y deberá en todo tiempo, promover la eficacia cuantitativa y cualitativa de los ejecutores de la política social.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2022)</small>
 
 ###### ARTÍCULO 29.
 
-El Gobernador a través de las dependencias en la materia, revisarán anualmente las zonas de atención prioritaria, teniendo como referente las evaluaciones de resultados y los estudios de medición de la pobreza que emita el CONEVAL, así como las recomendaciones del Consejo Consultivo e informará al Congreso del Estado sobre su modificación para los efectos de asignaciones del proyecto de Presupuesto de Egresos del Estado.
+El Gobernador a través de las dependencias en la materia, revisarán anualmente las zonas de atención prioritaria, teniendo como referente las evaluaciones de resultados y los estudios de medición de la pobreza que emita el CONEVAL, el Consejo Nacional de Población y los datos estadísticos de emigración que genere el Instituto Nacional de Estadística y Geografía, así como las recomendaciones del Consejo Consultivo e informará al Congreso del Estado sobre su modificación para los efectos de asignaciones del proyecto de Presupuesto de Egresos del Estado.
 
 ### CAPÍTULO VI. PLANEACIÓN Y PRESUPUESTO DEL DESARROLLO SOCIAL
 
@@ -828,3 +830,9 @@ P.O. 4 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes.
+
+P.O. 28 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 143.- ARTÍCULO PRIMERO. SE REFORMAN LOS ARTÍCULOS 10 Y 14 FRACCIÓN I, DE LA LEY DE FINANCIAMIENTO RURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO. SE REFORMAN LOS ARTÍCULOS 28 Y 29 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
