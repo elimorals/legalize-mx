@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2021-10-21"
+last_updated: "2022-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -2973,6 +2973,10 @@ A fin de determinar el monto de la indemnización a que se refiere esta fracció
 
 II. La suspensión, modificación o demolición de las construcciones, obras o actividades, que hubieren dado lugar al delito ambiental respectivo.
 
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2022)</small>
+
+III. La reparación del daño y/o compensación en los términos de la Ley de Responsabilidad Ambiental del Estado de Quintana Roo.
+
 Tratándose de los delitos previstos en este título, el trabajo a favor de la comunidad, consistirá en actividades relacionadas con la protección al ambiente o la restauración de los recursos naturales.
 
 ### CAPITULO II. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO DE VEHICULOS
@@ -4946,3 +4950,23 @@ P.O. 21 DE OCTUBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
+
+P.O. 28 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 229, POR EL QUE SE EXPIDE LA LEY DE RESPONSABILIDAD AMBIENTAL DEL ESTADO DE QUINTANA ROO; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE QUINTANA ROO, Y SE ADICIONA LA FRACCIÓN III AL ARTÍCULO 179 SEPTIES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Poder Ejecutivo del Estado, por conducto de la Secretaría de Ecología y Medio Ambiente, tendrá un plazo de noventa días naturales contados a partir de la publicación del presente Decreto a efecto de constituir el Fondo de Responsabilidad Ambiental del Estado de Quintana Roo.
+
+TERCERO. La Secretaría de Ecología y Medio Ambiente y la Procuraduría Estatal de Protección al Ambiente, deberán realizar las adecuaciones necesarias a sus reglamentos y disposiciones administrativas en un término de noventa días naturales a partir de la publicación del presente Decreto, a efecto de dar cumplimiento a lo establecido en el mismo.
+
+CUARTO. El Poder Judicial del Estado de Quintana Roo deberá dar capacitación especializada en materia de normatividad ambiental al personal de cada uno de los juzgados de primera instancia en materia civil del Estado.
+
+QUINTO. La adición realizada al Código Penal para el Estado Libre y Soberano de Quintana Roo, entrará en vigor a los ciento ochenta días naturales, contados a partir de la publicación del presente Decreto.
+
+SEXTO. Las autoridades correspondientes deberán hacer las modificaciones presupuestales pertinentes para dar cumplimiento a lo establecido en el presente Decreto.
+
+SÉPTIMO. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones vigentes al momento de iniciarse.
+
+OCTAVO. Se derogan todas las disposiciones normativas que se opongan a lo previsto en el presente Decreto.
