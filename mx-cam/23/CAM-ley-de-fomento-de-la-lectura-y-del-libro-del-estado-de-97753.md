@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-fomento-de-la-lectura-y-del-libro-del-estado-de-97753"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-20"
-last_updated: "2013-12-20"
+last_updated: "2022-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # LEY DE FOMENTO DE LA LECTURA Y DEL LIBRO DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE FOMENTO DE LA LECTURA Y DEL LIBRO DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR TREINTA DÍAS DESPUÉS DE SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 20 de diciembre de 2013.
 
@@ -51,7 +51,9 @@ Esta Ley es de observancia general en el Estado de Campeche; sus disposiciones s
 
 La presente Ley tiene por objeto:
 
-I. Fomentar y promover la lectura;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2022)</small>
+
+I. Fomentar y promover la lectura, la escritura y las bibliotecas;
 
 II. Promover la producción, distribución, difusión, calidad y preservación del libro, así como facilitar el acceso a su lectura a toda la población;
 
@@ -65,7 +67,9 @@ VI. Establecer criterios que permitan generar políticas públicas para todas la
 
 VII. Aportar elementos para elevar la calidad de la educación, garantizar el acceso, en igualdad de condiciones, al libro en todo el Estado de Campeche para aumentar su disponibilidad y acercarlo al lector; y
 
-VIII. Fomentar a la industria editora incentivando la edición, distribución y comercialización del libro y las publicaciones periódicas.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2022)</small>
+
+VIII. Fomentar a la industria editora incentivando la edición, distribución y comercialización del libro y las publicaciones periódicas, la creación cultural, literaria y científica.
 
 ###### Artículo 3.
 
@@ -107,11 +111,19 @@ XIV. Red de Bibliotecas: todas las bibliotecas públicas que operan bajo la Coor
 
 XV. Bibliotecas escolares y de aula: Los acervos bibliográficos que la Secretaría de Educación Pública Federal y la Secretaría de Educación del Estado, selecciona, adquiere y distribuye para su uso durante los procesos de enseñanza y aprendizaje en las aulas y las escuelas públicas de educación básica; y
 
-XVI. Salas de lectura: Los espacios alternos y las escuelas y bibliotecas coordinadas por voluntarios de la sociedad civil, donde la comunidad tiene acceso gratuito al libro y a otros materiales impresos, así como a diversas actividades encaminadas al fomento de la lectura.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2022)</small>
+
+XVI. Bibliotecas móviles: Cualquier servicio de biblioteca que no permanece fijo en un punto, cuyo objetivo es acercar los servicios bibliotecarios e impulsar el fomento a la lectura en comunidades remotas o aisladas, zonas con población dispersa o baja densidad poblacional o bien, en zonas urbanas que no poseen acceso a bibliotecas locales, utilizando diversas estrategias y medios de transporte; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE ABRIL DE 2022)</small>
+
+XVII. Salas de lectura: Los espacios alternos y las escuelas y bibliotecas coordinadas por voluntarios de la sociedad civil, donde la comunidad tiene acceso gratuito al libro y a otros materiales impresos, así como a diversas actividades encaminadas al fomento de la lectura.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2022)</small>
 
 ###### Artículo 5.
 
-Consagrada por la Constitución Política de los Estados Unidos Mexicanos, la libertad de imprenta garantiza que es inviolable la libertad de escribir, editar y publicar libros sobre cualquier materia, sin más limitación que la establecida en la misma.
+Consagrada por la Constitución Política de los Estados Unidos Mexicanos, la libertad de imprenta garantiza que es inviolable la libertad de escribir, editar y publicar libros sobre cualquier materia, propiciando el acceso a la lectura y el libro a toda la población.
 
 Ninguna autoridad estatal o municipal puede prohibir, restringir, ni obstaculizar la promoción, creación, edición, producción, distribución o difusión de libros.
 
@@ -123,9 +135,17 @@ Son autoridades encargadas de la aplicación de la presente Ley en el ámbito de
 
 A. La Secretaría de Educación del Estado;
 
-B. La Secretaría de Cultura del Estado; y
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE ABRIL DE 2022)</small>
 
-C. Los Gobiernos Municipales.
+B. La Secretaría de Bienestar;
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2022)</small>
+
+C. El Instituto de Cultura y Artes del Estado; y
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE ABRIL DE 2022)</small>
+
+D. Los gobiernos municipales.
 
 ###### Artículo 7.
 
@@ -157,9 +177,11 @@ X. Producir y transmitir programas de radio, televisión e internet dedicados a 
 
 XI. Cualquier otra medida conducente al fomento de la lectura y el libro. Se establece que el Sistema de Radio y Televisión de Campeche (TRC), será el órgano coadyuvante para la producción y transmisión de los contenidos relacionados con la promoción y difusión de las acciones tendientes a fomentar la lectura en el Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2022)</small>
+
 ###### Artículo 9.
 
-Corresponde a la Secretaría de Cultura:
+Corresponde al Instituto de Cultura y Artes del Estado:
 
 I. Promover la lectura, publicación y distribución de libros con contenidos de calidad; así como la existencia de ellos en todas las bibliotecas del Estado;
 
@@ -169,13 +191,17 @@ III. Fomentar y promover, en coordinación con la Secretaría de Educación del 
 
 IV. Generar convenios de colaboración con la Secretaría de Educación del Estado y los Ayuntamientos de la Entidad, a efecto de invertir recursos en materia de infraestructura para la creación de bibliotecas públicas en las zonas rurales, en los barrios y las zonas indígenas del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2022)</small>
+
 ###### Artículo 10.
 
-Corresponde a las Secretarías de Educación y de Cultura del Estado, poner en práctica las políticas y estrategias que se establezcan en el Programa Estatal de Fomento de la Lectura y del Libro, así como impulsar la creación, edición, producción, difusión, venta y exportación del libro campechano.
+Corresponde a la Secretaría de Educación y al Instituto de Cultura y Artes del Estado de Campeche, poner en práctica las políticas y estrategias que se establezcan en el Programa Estatal de Fomento de la Lectura y el Libro, así como impulsar la creación, edición, producción, difusión, venta y exportación del libro campechano.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2022)</small>
 
 ###### Artículo 11.
 
-Las Secretarías de Educación y de Cultura del Estado, de manera enunciativa más no limitativa, establecerán todas las medidas que estén a su alcance para generar el acrecentamiento del hábito de la lectura, promoviendo la creación de acervos familiares de literatura y la venta de libros a bajo costo en ferias regionales, en coordinación con las instancias locales y/o federales correspondientes, dando el seguimiento correspondiente a las estrategias que se lleven a efecto para la realización de estas acciones.
+La Secretaría de Educación y el Instituto de Cultura y Artes del Estado de Campeche, de manera enunciativa más no limitativa, establecerán todas las medidas que estén a su alcance para generar el acrecentamiento del hábito de la lectura, promoviendo la creación de acervos familiares de literatura y la venta de libros a bajo costo en ferias regionales, en coordinación con las instancias locales y/o federales correspondientes, dando el seguimiento correspondiente a las estrategias que se lleven a efecto para la realización de estas acciones.
 
 ### CAPÍTULO III. DEL CONSEJO ESTATAL PARA EL FOMENTO DE LA LECTURA Y DEL LIBRO
 
@@ -183,19 +209,23 @@ Las Secretarías de Educación y de Cultura del Estado, de manera enunciativa m�
 
 Se crea el Consejo Estatal para el Fomento de la Lectura y del Libro, con carácter de órgano consultivo de la Secretaría de Educación del Estado, con el objeto fomentar las actividades y trabajos relacionados con la creación de una cultura de estímulo a la lectura y el libro, así como facilitar el acceso a este último.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2022)</small>
+
 ###### Artículo 13.
 
 El Consejo Estatal para el Fomento de la Lectura y del Libro, estará integrado por:
 
-I. Un Presidente, que será el Gobernador del Estado;
+I. Una o un Presidente que será la o el Gobernador del Estado;
 
-II. Un Primer Vicepresidente, que será el Secretario de Educación del Estado;
+II. Una o un Primer Vicepresidente que será el o la titular de la Secretaría de Educación;
 
-III. Un Segundo Vicepresidente, que será el Secretario de Cultura del Estado;
+III. Una o un Segundo Vicepresidente que será el o la titular de la Secretaría de Bienestar;
 
-IV. Un Secretario Ejecutivo, que será el Subsecretario de Educación Básica de la Secretaría de Educación del Estado; y
+IV. Una o un Tercer Vicepresidente que será el o la titular del Instituto de Cultura y Artes del Estado de Campeche;
 
-V. Los vocales que serán los titulares o los representantes de:
+V. Una o un Secretario Ejecutivo que será la o el subsecretario de Educación Básica de la Secretaría de Educación; y
+
+VI. Las y los vocales que serán las o los titulares o las o los representantes de:
 
 a) La Comisión de Educación del Congreso del Estado;
 
@@ -203,13 +233,13 @@ b) La Comisión de Cultura del Congreso del Estado;
 
 c) Dos personas del ámbito académico de reconocido prestigio y experiencia en la promoción de la lectura;
 
-d) El Director General de Bibliotecas del Estado; y
+d) La Dirección General de Bibliotecas del Estado; y
 
-e) Los titulares de las direcciones de cultura de los gobiernos municipales o área equivalente.
+e) Las Direcciones de Cultura de los gobiernos municipales o áreas equivalentes.
 
 Los cargos de dicho Consejo son honoríficos, es decir, quienes los ejercen no perciben remuneración alguna por desempeñarlos.
 
-Para el caso de los funcionarios que formen parte del Consejo, esta actividad se encuentra dentro de las obligaciones de su encargo.
+Para el caso de las o los funcionarios que formen parte del Consejo, esta actividad se encuentra dentro de las obligaciones de su encargo.
 
 ###### Artículo 14.
 
@@ -283,9 +313,11 @@ Las bibliotecas públicas reconocerán la libertad de investigar y garantizarán
 
 Las bibliotecas públicas del Estado de Campeche deben operar anteponiendo la eficiencia, la calidad y orientación en el servicio, basadas en normas, recomendaciones y directrices especializadas en la materia y funcionarán como una red a la vez conectada con otras bibliotecas de otras instituciones y ciudades.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2022)</small>
+
 ###### Artículo 26.
 
-Las bibliotecas promoverán programas periódicos para el descarte. La Secretaría de Cultura del Estado podrá utilizarlos con apego a las políticas y directrices nacionales en la materia y buscará la concertación de mecanismos administrativos y legales actualizados, que permitan la desincorporación de los acervos como bienes de consumo, a fin de que el proceso de selección de los materiales corresponda a criterios de descarte debidamente regulados, y en tanto las autoridades estatales ofrezcan alternativas de reaprovechamiento, reasignación, reciclado de papel o desecho de los materiales, según corresponda, favoreciendo con ello la actualización de acervos y la creación de colecciones estatales que coadyuven a la preservación de la memoria local.
+Las Bibliotecas promoverán programas periódicos para el descarte. El Instituto de Cultura y Artes del Estado podrá utilizarlos con apego a las políticas y directrices nacionales en la materia y buscará la concertación de mecanismos administrativos y legales actualizados que permitan la desincorporación de los acervos como bienes de consumo, a fin de que el proceso de selección de los materiales corresponda a criterios de descarte debidamente regulados, y en tanto las autoridades estatales ofrezcan alternativas de reaprovechamiento, reasignación, reciclado de papel o desecho de los materiales, según corresponda, favoreciendo con ello la actualización de acervos y la creación de colecciones estatales que coadyuven a la preservación de la memoria local.
 
 ###### Artículo 27.
 
@@ -295,9 +327,13 @@ I.- Las colecciones de la biblioteca, independientemente de su procedencia, debe
 
 II.- Actualización y diversificación constante de las colecciones.
 
-III.- Establecer un depósito legal de por lo menos el diez por ciento del total de ejemplares de las publicaciones que editen el Gobierno del Estado, los ayuntamientos, las dependencias de la administración pública centralizada y descentralizada y los organismos del sector social y privado; será dirigido a la Secretaría de Cultura, área que tendrá la facultad de seleccionar aquellos materiales útiles y convenientes para la biblioteca pública.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2022)</small>
 
-IV.- Promover que las ediciones que publique el Gobierno Estatal a través del organismo que designe para tal fin, se distribuyan en toda la red estatal por conducto de la Secretaria de Cultura del Estado.
+III.- Establecer un depósito legal de por lo menos el diez por ciento del total de ejemplares de las publicaciones que editen el Gobierno del Estado, los ayuntamientos, las dependencias de la administración pública centralizada y descentralizada y los organismos del sector social y privado, será dirigido al Instituto de Cultura y Artes del Estado, área que tendrá la facultad de seleccionar aquellos materiales útiles y convenientes para la biblioteca pública.
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2022)</small>
+
+IV.- Promover que las ediciones que publique el Gobierno del Estado a través del organismo que designe para tal fin se distribuyan en toda la red estatal por conducto del Instituto de Cultura y Artes del Estado.
 
 V.- Desarrollo y adquisición de colección braille, de audio y multimedia.
 
@@ -371,9 +407,17 @@ Las bibliotecas que se encuentren dentro del sistema penitenciario serán consid
 
 Las bibliotecas elaborarán y llevarán a cabo programas culturales a fin de dar promoción a las obras de autores locales, nacionales e internacionales a fin de fomentar la lectura.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2022)</small>
+
 ###### Artículo 33.
 
-El Gobierno del Estado cuando lo considere conveniente implementará bibliotecas móviles en cualquier modalidad con el propósito de garantizar el acceso a los servicios bibliotecarios en aquellos lugares que aún no cuentan con una biblioteca próxima a su domicilio.
+El Gobierno del Estado implementará e incentivará la creación de bibliotecas móviles en cualquier modalidad, con el propósito de garantizar el acceso a un acervo bibliográfico, promover y generar espacios para la lectura, el acceso al conocimiento y a diversas expresiones culturales, generando oportunidades para las y los artistas, narradores, cuentacuentos y talleristas, así como para la ciudadanía en general, en aquellos lugares que no cuentan con una biblioteca próxima a su domicilio.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2022)</small>
+
+###### Artículo 33 Bis.
+
+Corresponde a la Secretaría de Educación, la Secretaría del Bienestar y al Instituto de Cultura y Artes del Estado de Campeche, en coordinación con los Ayuntamientos definir las estrategias para el establecimiento y operación de las bibliotecas móviles en el estado.
 
 ###### Artículo 34.
 
@@ -382,6 +426,10 @@ La red deberá contar con tecnología de punta que permita la conectividad al in
 ###### Artículo 35.
 
 Corresponde al Gobierno del Estado y a los Municipios mejorar y fortalecer las bibliotecas públicas mediante el mantenimiento permanente de la infraestructura, la dotación de mobiliario y acervo, así como el reforzamiento y actualización periódica de los recursos informáticos y de telecomunicaciones a fin de favorecer los servicios digitales y la consulta por internet, apoyar programas nacionales de alfabetización informática y promover estrategias para la formación de usuarios de la información.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2022)</small>
+
+De igual manera, deberá considerar acervo en lengua indígena y bibliotecarios bilingües.
 
 ###### Artículo 36.
 
@@ -402,3 +450,13 @@ C. Jorge José Sáenz de Miera Lara, Diputado Presidente.- C. Carlos Martin Ruiz
 En cumplimiento de lo dispuesto por los artículos 48,49 y 71 fracción VIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique para su debida observancia
 
 Dado en Palacio de Gobierno del Estado en San Francisco de Campeche, Campeche a los cinco días del mes de noviembre del año dos mil trece.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO (SIC) WILLIAN ROBERTO SARMIENTO URBINA.- RUBRICAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 51 POR EL QUE "SE REFORMA (SIC) LAS FRACCIONES I Y VIII DEL ARTÍCULO 2, LA FRACCIÓN XVI DEL ARTÍCULO 4; EL PÁRRAFO PRIMERO DEL ARTÍCULO 5; LOS INCISOS B Y C DEL ARTÍCULO 6; EL PRIMER PÁRRAFO DEL ARTÍCULO 9; LOS ARTÍCULOS 10, 11, 13, 26, LAS FRACCIONES III Y IV DEL ARTÍCULO 27 Y EL ARTÍCULO 33; SE ADICIONA UNA FRACCIÓN XVII AL ARTÍCULO 4; UN INCISO D AL ARTÍCULO 6; UN ARTÍCULO 33 BIS Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 35 TODAS A LA LEY DE FOMENTO DE LA LECTURA Y EL LIBRO DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
