@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-60679"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-03-03"
-last_updated: "2021-03-16"
+last_updated: "2022-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2022.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 3 de marzo de 2008.
 
@@ -1141,9 +1141,9 @@ IV. Municipalizar servicios públicos;
 
 V. Participar con el Estado en la formulación y aplicación de programas de transporte público de pasajeros, cuando deban ejecutarse dentro del territorio del municipio;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2022)</small>
 
-VI. Llevar un registro de terrenos o inmuebles que carezcan de construcción o en construcción sin terminar, que cuenten en su interior con maleza, basura o escombros, con relación a lo que disponen los artículos 85-A, 85-B, 85-C y 85-D de la Ley de Hacienda de los Municipios del Estado de Campeche;
+VI. Llevar un registro de terrenos o inmuebles que carezcan de construcción o en construcción sin terminar y con construcción desocupada, que cuenten en su interior con maleza, basura o escombros, con relación a lo que disponen los artículos 85-A, 85-B, 85-C y 85-D de la Ley de Hacienda de los Municipios del Estado de Campeche; y
 
 > <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 2 DE OCTUBRE DE 2018)</small>
 
@@ -2179,6 +2179,24 @@ La prestación de los servicios públicos a cargo del Municipio la realizará el
 
 El Ayuntamiento conforme a lo previsto en la Sección Segunda de este Capítulo, podrá autorizar a particulares para prestar algún servicio público municipal.
 
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2022)</small>
+
+ARTÍCULO 162 BIS. - Las personas físicas o morales propietarias o poseedores de lotes baldíos ubicados en zonas urbanas, que incumplan con lo previsto en el artículo 85-C de la Ley de Hacienda de los Municipios del Estado de Campeche, podrán ser requeridas por las autoridades municipales con la finalidad de dar cumplimiento a ello, cuando la omisión constituya condiciones de insalubridad o inseguridad.
+
+En caso de que persista la negativa y ello, la autoridad municipal competente podrá realizar el servicio de manera extraordinaria, con las sanciones correspondientes, previa notificación por cualquier medio indubitable al propietario o poseedor del inmueble y conforme a la siguiente pirámide de atención prioritaria:
+
+I. Cuando exista un reporte por parte de la comunidad sobre emergencias, faltas y delitos que tenga conocimiento de conformidad con el artículo 219 de la Ley de Seguridad Pública del Estado de Campeche vinculados con un lote baldío, deberá ser atendido en un lapso no mayor a 15 días posteriores a tener conocimiento del reporte.
+
+II. Cuando se encuentre un plantel educativo de cualquier nivel escolar o biblioteca pública en la zona urbana, en un lapso no mayor a 30 días naturales posteriores a las fechas establecidas en los ordenamientos vigentes.
+
+III. Cuando se encuentre infraestructura de Salud en la zona urbana, en un lapso no mayor a 60 días naturales posteriores a las fechas establecidas en los ordenamientos vigentes.
+
+IV. Cuando se encuentre infraestructura Deportiva y juegos infantiles en la zona urbana, en un lapso no mayor a 90 días naturales posteriores a las fechas establecidas en los ordenamientos vigentes.
+
+V. Cuando se encuentren monumentos históricos en la zona urbana, en un lapso no mayor a 120 días naturales posteriores a las fechas establecidas en los ordenamientos vigentes.
+
+VI. Los lotes baldíos o inmuebles que carezcan de construcción, en construcción sin terminar y con construcción desocupada que cuenten en su interior con maleza, basura o escombros en la zona urbana, en un lapso no mayor al año fiscal correspondiente.
+
 ###### ARTÍCULO 163.
 
 La supervisión de los servicios públicos a cargo del Municipio que no sean objeto de concesión la realizará el Presidente Municipal con la participación que corresponda a los Regidores, a las autoridades auxiliares y a las dependencias municipales. El Órgano Interno de Control tendrá al respecto las atribuciones que conforme a las leyes y los reglamentos municipales le correspondan.
@@ -2630,3 +2648,19 @@ PRIMERO.- El presente decreto entrará a los quince días después de su publica
 SEGUNDO.- Los municipios del Estado, en la medida de sus posibilidades deberán hacer ajustes presupuestales necesarios para la aplicación de lo dispuesto en la fracción VIII del artículo 106 del presente decreto.
 
 TERCERO.- Se derogan todas las disposiciones legales, en lo que se opongan al contenido del presente decreto.
+
+P.O. 28 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57 SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 105; SE ADICIONA EL ARTÍCULO 162 BIS A LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO. - El presente decreto entrará en vigor el día uno de enero de (sic) año dos mil veintitrés, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. - En un término de 120 días contados a partir de la entrada en vigor del presente decreto, los Ayuntamientos deberán regular en su normatividad interior la prevención, procedimiento y sanción con la finalidad de hacer efectiva la pirámide de atención prioritaria a que se refiere el artículo 162 Bis de la Ley Orgánica de los Municipios del Estado de Campeche, considerando al menos, lo siguiente:
+
+I. Calendario de la pirámide de atención prioritaria;
+
+II. Las reglas de ordenamiento de los terrenos o inmuebles que se encuentren en zonas urbanas que carezcan de construcción, en construcción sin terminar y con construcción desocupada; que cuenten en su interior con maleza, basura o escombros, dichas reglas deberán cubrir por lo menos los siguientes apartados: prevención en materia de salud pública, imagen urbana, medio ambiente y la seguridad pública, y
+
+III. Los cobros, multas y en su caso beneficios para el servicio de limpia que proporcionen los Ayuntamientos por incumplimiento de sus poseedores o propietarios.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
