@@ -4,7 +4,7 @@ identifier: "LGV"
 country: "mx"
 rank: "ley_general"
 publication_date: "2013-01-09"
-last_updated: "2022-02-18"
+last_updated: "2022-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90708&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGV"
 
 LEY GENERAL DE VÍCTIMAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 9 de enero de 2013.
 
@@ -1402,53 +1402,69 @@ El Sistema Nacional de Atención a Víctimas estará integrado por las instituci
 
 I. Poder Ejecutivo:
 
-a) El Presidente de la República, quien lo presidirá;
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-b) El Presidente de la Comisión de Justicia de la Conferencia Nacional de Gobernadores, y
+a) La persona titular de la Presidencia de la República, quien lo presidirá;
 
-c) El Secretario de Gobernación.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+b) La persona titular de la Presidencia de la Comisión de Justicia de la Conferencia Nacional de Gobernadores, y
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+c) La persona titular de la Secretaría de Gobernación.
 
 II. Poder Legislativo:
 
-a) El Presidente de la Comisión de Justicia de la Cámara de Diputados;
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-b) El Presidente de la Comisión de Justicia de la Cámara de Senadores, y
+a) La persona titular de la Presidencia de la Comisión de Justicia de la Cámara de Diputados;
 
-c) Un integrante del poder legislativo de los estados y de la Asamblea Legislativa del Distrito Federal.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+b) La persona titular de la Presidencia de la Comisión de Justicia del Senado de la República, y
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+c) Una persona integrante del poder legislativo de los estados y del Congreso de la Ciudad de México.
 
 III. Poder Judicial:
 
-a) El Presidente del Consejo de la Judicatura Federal.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+a) La persona titular de la Presidencia del Consejo de la Judicatura Federal.
 
 IV. Organismos Públicos:
 
-a) El Presidente de la Comisión Nacional de los Derechos Humanos, y
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+a) La persona titular de la Presidencia de la Comisión Nacional de los Derechos Humanos, y
 
-b) Un representante de organismos públicos de protección de los derechos humanos de las entidades federativas.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-V. La Comisión Ejecutiva de Atención a Víctimas y un representante de las comisiones ejecutivas locales.
+b) Una persona representante de organismos públicos de protección de los derechos humanos de las entidades federativas.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+V. La Comisión Ejecutiva de Atención a Víctimas y una persona representante de las comisiones ejecutivas locales.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
 
 ###### Artículo 83.
 
-Los integrantes del Sistema se reunirán en Pleno o en comisiones las cuales se deberán crear de conformidad con lo establecido en el Reglamento de esta Ley.
+Quienes integren el Sistema se reunirán en Pleno o en comisiones las cuales se deberán crear de conformidad con lo establecido en el Reglamento de esta Ley.
 
-El Pleno se reunirá por lo menos una vez cada seis meses a convocatoria de su Presidente, quien integrará la agenda de los asuntos a tratar y en forma extraordinaria, cada que una situación urgente así lo requiera. Los integrantes tienen obligación de comparecer a las sesiones.
+El Pleno se reunirá por lo menos una vez cada seis meses a convocatoria de su Presidencia quien integrará la agenda de los asuntos a tratar y en forma extraordinaria, cada que una situación urgente así lo requiera. Las personas integrantes tienen obligación de comparecer a las sesiones.
 
-El quórum para las reuniones del Sistema se conformará con la mitad más uno de sus integrantes. Los acuerdos se tomarán por la mayoría de los integrantes presentes con derecho a voto.
+El quórum para las reuniones del Sistema se conformará con la mitad más una de sus personas integrantes. Los acuerdos se tomarán por la mayoría de las personas presentes con derecho a voto.
 
-Corresponderá al Presidente del Sistema la facultad de promover en todo tiempo la efectiva coordinación y funcionamiento del Sistema. Los integrantes del mismo podrán formular propuestas de acuerdos que permitan el mejor funcionamiento del Sistema.
+Corresponderá a la Presidencia del Sistema la facultad de promover en todo tiempo la efectiva coordinación y funcionamiento del Sistema. Las personas integrantes del mismo podrán formular propuestas de acuerdos que permitan el mejor funcionamiento del Sistema.
 
-El Presidente del Sistema será suplido en sus ausencias por el Secretario de Gobernación. Los integrantes del Sistema deberán asistir personalmente.
+La persona que presida el Sistema será suplida en sus ausencias por la persona titular de la Secretaría de Gobernación. Quienes integren el Sistema deberán asistir personalmente.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+Tendrán el carácter de personas invitadas a las sesiones del Sistema o de las comisiones previstas en esta Ley, las instituciones u organizaciones privadas o sociales, los colectivos o grupos de víctimas o las demás instituciones nacionales o extranjeras, que por acuerdo de la persona titular de la Comisión Ejecutiva deban participar en la sesión que corresponda.
 
-Tendrán el carácter de invitados a las sesiones del Sistema o de las comisiones previstas en esta Ley, las instituciones u organizaciones privadas o sociales, los colectivos o grupos de víctimas o las demás instituciones nacionales o extranjeras, que por acuerdo del Titular de la Comisión Ejecutiva deban participar en la sesión que corresponda.
-
-El Reglamento establecerá el mecanismo de invitación correspondiente. Los invitados acudirán a las reuniones con derecho a voz pero sin voto.
+El Reglamento establecerá el mecanismo de invitación correspondiente. Las personas invitadas acudirán a las reuniones con derecho a voz, pero sin voto.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -1500,11 +1516,11 @@ II. Los bienes muebles e inmuebles que le sean asignados, y
 
 III. Los demás ingresos, rendimientos, bienes, derechos y obligaciones que adquiera o se le adjudiquen por cualquier título jurídico.
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
 
 ###### Artículo 84 Ter.
 
-La Comisión Ejecutiva cuenta con una Junta de Gobierno y un Comisionado Ejecutivo para su administración, así como con una Asamblea Consultiva, como órgano de consulta y vinculación con las víctimas y la sociedad.
+La Comisión Ejecutiva cuenta con una Junta de Gobierno y un Comisionado o Comisionada Ejecutiva para su administración, así como con una Asamblea Consultiva, como órgano de consulta y vinculación con las víctimas y la sociedad.
 
 > <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
@@ -1512,7 +1528,9 @@ La Comisión Ejecutiva cuenta con una Junta de Gobierno y un Comisionado Ejecuti
 
 La organización y funcionamiento de la Junta de Gobierno se regirá por lo dispuesto en esta Ley y las demás disposiciones aplicables, estará integrada de la siguiente manera:
 
-I. Un representante de las siguientes secretarías de Estado:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 28 DE ABRIL DE 2022)</small>
+
+I. Una persona representante de las siguientes secretarías de Estado:
 
 a) Gobernación quien la presidirá;
 
@@ -1522,13 +1540,21 @@ c) Educación Pública;
 
 d) Salud;
 
-II. Cuatro representantes de la Asamblea Consultiva, designados por ésta, y
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-III. El titular de la Comisión Ejecutiva.
+II. Cuatro personas representantes de la Asamblea Consultiva, designadas por ésta, y
 
-Las y los integrantes referidos en la fracción I del párrafo anterior, serán las personas titulares de cada Institución y sus suplentes tendrán el nivel de Subsecretaría, Dirección General o su equivalente. En sus decisiones los integrantes tendrán derecho a voz y voto.
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-La Junta de Gobierno contará con un Secretario Técnico.
+III. La persona titular de la Comisión Ejecutiva.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+Las personas integrantes referidas en la fracción I del párrafo anterior, serán las personas titulares de cada Institución y sus suplentes tendrán el nivel de Subsecretaría, Dirección General o su equivalente. En sus decisiones las personas integrantes tendrán derecho de voz y voto. En la integración de la Junta de Gobierno se garantizará en todo momento el principio de paridad de género establecido en el artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+La Junta de Gobierno contará con una Secretaría Técnica.
 
 > <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
@@ -1536,9 +1562,9 @@ La Junta de Gobierno contará con un Secretario Técnico.
 
 La Junta de Gobierno celebrará sesiones ordinarias por lo menos cuatro veces al año y las extraordinarias que propondrá su Presidente, el Comisionado Ejecutivo o al menos 3 de sus integrantes.
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-Artículo 84 Sexíes. La Junta de Gobierno sesionará válidamente con la asistencia de la mayoría de sus integrantes, siempre que esté presente el Presidente de la Junta de Gobierno. Los acuerdos se adoptarán por mayoría de votos de los miembros presentes.
+Artículo 84 Sexíes. La Junta de Gobierno sesionará válidamente con la asistencia de la mayoría de sus integrantes, siempre que esté presente la persona Titular de la Presidencia de la Junta de Gobierno. Los acuerdos se adoptarán por mayoría de votos de sus integrantes presentes.
 
 > <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
@@ -1546,11 +1572,17 @@ Artículo 84 Sexíes. La Junta de Gobierno sesionará válidamente con la asiste
 
 La Junta de Gobierno tendrá exclusivamente las siguientes atribuciones:
 
-I. Aprobar y modificar su reglamento de sesiones, con base en la propuesta que presente el Comisionado Ejecutivo;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-II. Aprobar las disposiciones normativas que el Comisionado Ejecutivo someta a su consideración en términos de la Ley y el Reglamento;
+I. Aprobar y modificar su reglamento de sesiones, con base en la propuesta que presente el Comisionado o Comisionada Ejecutiva;
 
-III. Definir los criterios, prioridades y metas de la Comisión Ejecutiva que proponga el Comisionado Ejecutivo;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+II. Aprobar las disposiciones normativas que el Comisionado o Comisionada Ejecutiva someta a su consideración en términos de la Ley y el Reglamento;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+III. Definir los criterios, prioridades y metas de la Comisión Ejecutiva que proponga el Comisionado o Comisionada Ejecutiva;
 
 IV. Conocer de los convenios y acuerdos de colaboración, coordinación y concertación que celebre la Comisión Ejecutiva de acuerdo con esta Ley, y
 
@@ -1564,37 +1596,43 @@ En ningún caso la Junta de Gobierno tendrá competencia para conocer de los rec
 
 La Asamblea Consultiva es un órgano de opinión y asesoría de las acciones, políticas públicas, programas y proyectos que desarrolle la Comisión Ejecutiva.
 
+(REPUBLICADO, D.O.F. 28 DE ABRIL DE 2022)
+
 La Asamblea Consultiva estará integrada por nueve representantes de colectivos de víctimas, organizaciones de la sociedad civil y académicos quienes serán electos por la Junta de Gobierno y cuyo cargo tendrá carácter honorífico.
 
 Para efectos del párrafo anterior, la Comisión Ejecutiva emitirá una convocatoria pública, que establecerá los criterios de selección, la cual deberá ser publicada en el Diario Oficial de la Federación.
 
 La convocatoria para integrar la Asamblea Consultiva atenderá a un criterio de representación regional rotativa de cuando menos una institución, organización, colectivo o grupo por región.
 
-Las bases de la convocatoria pública deben ser emitidas por el Comisionado Ejecutivo y atender, cuando menos, a criterios de experiencia nacional o internacional en trabajos de protección, atención, asistencia, justicia, verdad y reparación integral de víctimas; desempeño destacado en actividades profesionales, de servicio público, sociedad civil o académicas así como experiencia laboral, académica o de conocimientos especializados, en materias afines a la Ley.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-La elección de los miembros de la Asamblea Consultiva deberá garantizar el respeto a los principios que dan marco a esta Ley, especialmente los de paridad y enfoque diferencial.
+Las bases de la convocatoria pública deben ser emitidas por la Comisionada o el Comisionado Ejecutivo y atender, cuando menos, a criterios de experiencia nacional o internacional en trabajos de protección, atención, asistencia, justicia, verdad y reparación integral de víctimas; desempeño destacado en actividades profesionales, de servicio público, sociedad civil o académicas, así como experiencia laboral o de conocimientos especializados, en materias afines a la Ley.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+La elección de las personas que integren la Asamblea Consultiva deberá garantizar el respeto a los principios que dan marco a esta Ley, especialmente los de paridad y enfoque diferencial.
 
 Las funciones de la Asamblea Consultiva estarán previstas en el Reglamento de la Ley, las personas integrantes durarán en su cargo cuatro años, y podrán ser ratificadas sólo por un período igual, en los términos de lo dispuesto en dicho ordenamiento.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
 
 ###### Artículo 85.
 
-La Comisión Ejecutiva estará a cargo de un Comisionado Ejecutivo elegido por el voto de las dos terceras partes de los miembros presentes de la Cámara de Senadores, de la terna que enviará el Ejecutivo Federal, previa consulta pública a los colectivos de víctimas, expertos y organizaciones de la sociedad civil especializadas en la materia.
+La Comisión Ejecutiva estará a cargo de una Comisionada o Comisionado Ejecutivo quien se elegirá por el voto de las dos terceras partes de los miembros presentes del Senado de la República, de la terna que enviará el Ejecutivo Federal, previa consulta pública a los colectivos de víctimas, personas expertas y organizaciones de la sociedad civil especializadas en la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2022)</small>
 
 ###### Artículo 86.
 
-Para ser Comisionado Ejecutivo se requiere:
+Para ser Comisionada o Comisionado Ejecutivo se requiere:
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-I. Ser ciudadano mexicano;
+I. Contar con ciudadanía mexicana;
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-II. No haber sido condenado por la comisión de un delito doloso o inhabilitado como servidor público;
+II. No haber sido condenada o condenado por la comisión de un delito doloso o inhabilitado como servidora o servidor público;
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
 
@@ -1608,13 +1646,13 @@ IV. Contar con título profesional, y
 
 V. No haber desempeñado cargo de dirección nacional o estatal en algún partido político, dentro de los dos años previos a su designación.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-En la elección del Comisionado Ejecutivo, deberá garantizarse el respeto a los principios que dan marco a esta Ley, especialmente los de enfoque transversal de género y diferencial.
+En la elección de la titularidad de la Comisión Ejecutiva, deberá garantizarse el respeto a los principios que dan marco a esta Ley, especialmente los de enfoque transversal de género y diferencial.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-El Comisionado Ejecutivo se desempeñará en su cargo por cinco años sin posibilidad de reelección. Durante el mismo no podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
+La persona titular de la Comisión Ejecutiva se desempeñará en su cargo por cinco años sin posibilidad de reelección. Durante el mismo no podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
 
 > <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
@@ -3501,3 +3539,15 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. A partir de la entrada en vigor del presente Decreto, los Congresos de las Entidades Federativas contarán con un plazo de 120 días para armonizar su respectiva legislación conforme a lo establecido en este Decreto.
 
 Tercero. Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda.
+
+D.O.F. 28 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN, LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, LA LEY GENERAL DE VÍCTIMAS, LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS, LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS, LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES, LA LEY DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS, LA LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS Y LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, EN MATERIA DE PARIDAD DE GÉNERO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+Tercero. El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
+
+Cuarto. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
