@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-prevenir-combatir-y-sancionar-toda-forma-de-56440"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2017-12-08"
+last_updated: "2022-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACION EN EL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -239,7 +241,13 @@ XXXII. Limitar las oportunidades de empleo por antecedentes penales, salvo en lo
 
 XXXIII. Exigir la Carta de No antecedentes Penales como requisito para el ingreso a Centros educativos públicos o privados;
 
-XXXIV. En general cualquier otra conducta discriminatoria en términos del artículo 6 de esta Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2022)</small>
+
+XXXIV. Prohibir, limitar o restringir el acto de amamantar en espacios públicos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE ABRIL DE 2022)</small>
+
+XXXV. En general cualquier otra conducta discriminatoria en términos del artículo 6 de esta Ley.
 
 ### CAPÍTULO III. MEDIDAS GENERALES A FAVOR DE LA IGUALDAD DE OPORTUNIDADES
 
@@ -556,3 +564,11 @@ P.O. 8 DE DICIEMBRE DE 2017.
 PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales y reglamentarías que se opongan al presente decreto.
+
+P.O. 28 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 54 POR EL QUE “SE REFORMA LA FRACCIÓN XXXIV Y SE ADICIONA UNA FRACCIÓN XXXV AL ARTÍCULO 15 DE LA LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
