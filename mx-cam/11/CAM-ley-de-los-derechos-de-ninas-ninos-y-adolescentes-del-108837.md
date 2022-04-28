@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108837"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2021-06-16"
+last_updated: "2022-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 2 de junio de 2015.
 
@@ -1781,11 +1781,49 @@ XVI. Las demás que encomiende el Presidente o el Sistema Estatal de Protección
 
 #### SECCIÓN TERCERA. DE LOS SISTEMAS MUNICIPALES DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2022)</small>
+
 ###### Artículo 126.
 
 Los Sistemas Municipales de Protección de Niñas, Niños y Adolescentes serán presididos por los presidentes municipales y estarán integrados por las dependencias e instituciones vinculadas con la protección de niñas, niños y adolescentes.
 
-Los Sistemas Municipales de Protección contarán con una Secretaría Ejecutiva y garantizarán la participación del sector social y privado, así como de niñas, niños y adolescentes.
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2022)</small>
+
+Artículo 126 bis. Los Sistemas Municipales de Protección Integral, de manera enunciativa más no limitativa tendrán las siguientes atribuciones:
+
+I. Garantizar la transversalidad de los derechos de niñas, niños y adolescentes en la elaboración con perspectiva de la infancia y adolescencia, de programas sectoriales o, en su caso, institucionales específicos, así como en las políticas y acciones de la administración pública municipal;
+
+II. Difundir el marco jurídico estatal, nacional e internacional de protección a los derechos de niñas, niños y adolescentes;
+
+III. Integrar a los sectores público, social y privado en la definición e instrumentación de políticas para la protección de niñas, niños y adolescentes;
+
+IV. Generar los mecanismos necesarios para garantizar la participación directa y efectiva de niñas, niños y adolescentes en los procesos de elaboración de programas y políticas municipales para la protección integral de sus derechos;
+
+V. Establecer en sus presupuestos, rubros destinados a la protección de los derechos de niñas, niños y adolescentes, los cuales tendrán una realización progresiva;
+
+VI. Participar en la formulación, ejecución e instrumentación de programas, estrategias y acciones en materia de protección y ejercicio de los derechos de niñas, niños y adolescentes con la participación de los sectores público, social y privado, así como de niñas, niños y adolescentes;
+
+VII. Garantizar la participación de niñas, niños y adolescentes en el ejercicio de sus derechos humanos, tomando en consideración las medidas especiales que se requieran;
+
+VIII. Fortalecer las acciones de corresponsabilidad y cercanía entre las instancias públicas y privadas con niñas, niños y adolescentes;
+
+IX. Administrar el sistema municipal de información y coadyuvar en la integración del sistema de información a nivel estatal;
+
+X. Realizar acciones de formación y capacitación de manera sistémica y continua sobre el conocimiento y respeto de los derechos humanos de niñas, niños y adolescentes, principalmente con aquellas personas que trabajan desde los diversos ámbitos en la garantía de sus derechos;
+
+XI. Celebrar convenios de coordinación en la materia, para el cumplimiento de los objetivos de la presente Ley;
+
+XII. Auxiliar a la Procuraduría de Protección, a través de su representación municipal, en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones;
+
+XIII. Elaborar, por conducto de sus Secretarías Ejecutivas, el proyecto del Programa Municipal de Protección de Niñas, Niños y Adolescentes, y una vez acordado por sus integrantes, someterlo a la aprobación del Cabildo;
+
+XIV. Asegurar la ejecución coordinada por parte de sus integrantes del Programa Municipal de Protección de Niñas, Niños y Adolescentes, con la participación de los sectores público, social y privado, así como de niñas, niños y adolescentes, y emitir un informe anual sobre los avances de dicho Programa y remitirlo al Sistema Estatal de Protección, y
+
+XV. Las demás que les otorguen otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2022)</small>
+
+Artículo 126 ter. Los Sistemas Municipales de Protección contarán con una Secretaría Ejecutiva y garantizarán la participación del sector social y privado, así como de niñas, niños y adolescentes.
 
 ###### Artículo 127.
 
@@ -2004,3 +2042,13 @@ P.O. 16 DE JUNIO DE 2021.
 PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
+
+P.O. 28 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 50 SE REFORMA EL ARTÍCULO 126; Y SE ADICIONAN LOS ARTÍCULOS 126 BIS Y 126 TER; TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Ayuntamientos, en el ámbito de sus respectivas competencias, contarán con un plazo de noventa días contados a partir de que entre en vigor el presente decreto, para realizar las adecuaciones reglamentarias, presupuestales y normativas necesarias, que se deriven del mismo.
+
+TERCERO.- Se derogan todas las disposiciones que contravenga lo dispuesto en el presente decreto.
