@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-financiamiento-rural-para-el-estado-de-michoacan-de-5974
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-12"
-last_updated: "2019-10-14"
+last_updated: "2022-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE FINANCIAMIENTO RURAL PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el martes 12 de febrero de 2008.
 
@@ -201,9 +201,11 @@ III. Las Entidades de ahorro y crédito popular; y,
 
 IV. Los intermediarios financieros no bancarios.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2022)</small>
+
 ###### Artículo 10.
 
-La organización del Sistema Estatal será dependiente de la Secretaría y concentrara sus funciones en la gestión con las instituciones e intermediarios financieros bancarios y no bancarios, el establecimiento de oficinas, sucursales y ventanillas bancarias, en municipios y comunidades de alta y muy alta marginación que no cuenten con servicios bancarios y financieros.
+La organización del Sistema Estatal será dependiente de la Secretaría y concentrará sus funciones en la gestión con las instituciones e intermediarios financieros bancarios y no bancarios, el establecimiento de oficinas, sucursales y ventanillas bancarias, en municipios y comunidades con elevados niveles de emigración y los de alta y muy alta marginación que no cuenten con servicios bancarios y financieros.
 
 ###### Artículo 11.
 
@@ -247,9 +249,9 @@ VII. La Comisión Estatal del Agua y Gestión de Cuencas del Estado de Michoacá
 
 Son atribuciones del Titular del Poder Ejecutivo del Estado, entre otras:
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2022)</small>
 
-I. Expedir y actualizar el Programa Estatal de Financiamiento Rural, con el propósito de definir, concertar, impulsar, coordinar y evaluar las acciones a realizar en materia de financiamiento rural. Su difusión será anual y obligatoria, además deberá mandatar, se dé a conocer a través de la Secretaría y las oficinas, sucursales y ventanillas bancarias, en municipios y comunidades de alta y muy alta marginación que se instalen de conformidad con el artículo 10 de esta Ley;
+I. Expedir y actualizar el Programa Estatal de Financiamiento Rural, con el propósito de definir, concertar, impulsar, coordinar y evaluar las acciones a realizar en materia de financiamiento rural. Su difusión será anual y obligatoria, además deberá mandatar, se dé a conocer a través de la Secretaría y las oficinas, sucursales y ventanillas bancarias, en municipios y comunidades con elevados niveles de emigración y los de alta y muy alta marginación que se instalen de conformidad con el artículo 10 de esta Ley;
 
 II. Fomentar la participación organizada de los actores rurales para la instrumentación, crecimiento y consolidación del Sistema Estatal;
 
@@ -548,3 +550,9 @@ P.O. 14 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 170.- ARTÍCULO ÚNICO.- SE REFORMAN LOS ARTÍCULOS 14 FRACCIONES I Y III, 26, 27 Y 28 DE LA LEY DE FINANCIAMIENTO RURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
+
+P.O. 28 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 143.- ARTÍCULO PRIMERO. SE REFORMAN LOS ARTÍCULOS 10 Y 14 FRACCIÓN I, DE LA LEY DE FINANCIAMIENTO RURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO. SE REFORMAN LOS ARTÍCULOS 28 Y 29 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
