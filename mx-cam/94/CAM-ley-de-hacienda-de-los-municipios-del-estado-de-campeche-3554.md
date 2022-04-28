@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "2021-01-18"
+last_updated: "2022-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -1609,11 +1609,11 @@ Para los efectos del presente artículo, el Municipio de Champotón, formará pa
 
 #### SECCION TERCERA BIS. POR CONTROL Y LIMPIEZA DE LOTES BALDIOS
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2022)</small>
 
 ###### ARTÍCULO 85-A.
 
-Es objeto de este derecho, los servicios que proporcionen los municipios, a los propietarios o poseedores de terrenos o inmuebles que carezcan de construcción o en construcción sin terminar, que cuenten en su interior con maleza, basura o escombros.
+Es objeto de este derecho, los servicios que proporcionen los municipios a los propietarios o poseedores de terrenos o inmuebles que carezcan de construcción, en construcción sin terminar y con construcción desocupada que cuenten en su interior con maleza, basura o escombros.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
@@ -1621,19 +1621,37 @@ Es objeto de este derecho, los servicios que proporcionen los municipios, a los 
 
 Son sujetos de este derecho, las personas físicas o morales propietarias o poseedoras de terrenos o inmuebles, que no realicen conforme lo disponen los ordenamientos municipales, la adecuada limpieza de los mismos y que cuenten en su interior con maleza, basura o escombros.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2022)</small>
 
 ###### ARTÍCULO 85-C.
 
-El monto del derecho se cubrirá por cada servicio de limpieza que realice el Ayuntamiento, aplicándose la cuota de 1 a 500 días de salario mínimo por metro cuadrado, dependiendo del tipo de limpieza que se requiera
+El monto del derecho se cubrirá por cada servicio de limpieza que realice el Ayuntamiento, aplicándose la cuota de 7 a 500 del valor diario de Unidades de Medida y Actualización por metro cuadrado, dependiendo del tipo de limpieza que se requiera.
 
-Para efectos de desmonte, deshierba o limpieza de lotes baldíos a cargo de los particulares, éstas se llevarán a cabo durante los meses de junio y octubre de cada año, de acuerdo a las leyes ambientales del Estado de Campeche.
+> <small>(REFORMADO P.O. 28 DE ABRIL DE 2022)</small>
+
+Para efectos de desmonte, deshierba o limpieza de lotes baldíos a cargo de los particulares, éstas se llevarán a cabo por lo menos dos veces al año, durante los meses de junio y octubre de cada año, de acuerdo a las leyes ambientales del Estado de Campeche.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2022)</small>
+
+En el caso de los servicios de limpieza extraordinaria diferentes a las señaladas en el párrafo anterior porque se estén provocando situaciones de insalubridad o inseguridad, se aplicará la cuota equivalente al doble de los derechos que le correspondería pagar por la prestación del servicio ordinario.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2022)</small>
+
+Para la imposición de las multas a que se refiere el presente artículo se valorarán previamente las condiciones de los grupos sociales en situación de vulnerabilidad establecidos en la presente y los ordenamientos vigentes.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 85-D.
 
 Los derechos a que se refiere esta sección deberán pagarse en la Tesorería Municipal respectiva o a sus recaudadores autorizados en el municipio, al concluir la limpieza correspondiente o en su defecto, de manera conjunta con el Impuesto Predial.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2022)</small>
+
+Asimismo, la Autoridad Municipal competente impondrá una multa del doble de los derechos que le correspondería pagar por casos de reincidencia.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2022)</small>
+
+Donde la reincidencia se entenderá como el incumplimiento a partir de la segunda ocasión por parte de las personas físicas o morales propietarias o poseedoras de terrenos o inmuebles, que no realicen conforme lo disponen los ordenamientos municipales la adecuada limpieza de los mismos y que cuenten en su interior con maleza, basura o escombros. Para determinar la reincidencia sólo se considerarán las infracciones cometidas en los últimos cinco años.
 
 #### SECCION CUARTA. POR SERVICIO DE ALUMBRADO PUBLICO
 
@@ -3060,3 +3078,19 @@ P.O. 18 DE ENERO DE 2021.
 PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 28 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 57 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 85-A Y 85-C; SE ADICIONA (SIC) LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 85-C; LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 85-D DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día uno de enero de (sic) año dos mil veintitrés, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un término de 120 días contados a partir de la entrada en vigor del presente decreto, los Ayuntamientos deberán regular en su normatividad interior la prevención, procedimiento y sanción con la finalidad de hacer efectiva la pirámide de atención prioritaria a que se refiere el artículo 162 Bis de la Ley Orgánica de los Municipios del Estado de Campeche, considerando al menos, lo siguiente:
+
+I. Calendario de la pirámide de atención prioritaria;
+
+II. Las reglas de ordenamiento de los terrenos o inmuebles que se encuentren en zonas urbanas que carezcan de construcción, en construcción sin terminar y con construcción desocupada; que cuenten en su interior con maleza, basura o escombros, dichas reglas deberán cubrir por lo menos los siguientes apartados: prevención en materia de salud pública, imagen urbana, medio ambiente y la seguridad pública, y
+
+III. Los cobros, multas y en su caso beneficios para el servicio de limpia que proporcionen los Ayuntamientos por incumplimiento de sus poseedores o propietarios.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
