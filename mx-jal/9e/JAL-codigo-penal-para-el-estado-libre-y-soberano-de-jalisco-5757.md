@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2022-04-09"
+last_updated: "2022-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,13 @@ state: "JAL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE ABRIL DE 2023 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE MAYO DE 2022 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -5417,7 +5421,9 @@ Los delitos electorales, las sanciones, la distribución de competencias y las f
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO UNICO. (ADICIONADO, P.O. 12 DE JUNIO DE 2003) (F. DE E., P.O. 12 DE JULIO DE 2003)
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2022)</small>
 
 ###### Art. 270.
 
@@ -5591,11 +5597,27 @@ Para los fines del artículo que antecede se tomará en cuenta el monto de lo de
 
 ###### Art. 289.
 
-Para los efectos del presente Título, se estará a las definiciones establecidas en la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Jalisco, así como las determinadas en los ordenamientos aplicables.
+Para los efectos del presente Título, se estará a las definiciones establecidas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y en (sic) Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Jalisco, así como las determinadas en los ordenamientos aplicables.
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2005)</small>
+Inmediatamente que el Ministerio Público o el servidor público encargado de practicar diligencias de investigación tenga conocimiento de la probable existencia de uno de los delitos establecidos en el presente título, iniciará sus actuaciones atendiendo las reglas establecidas en el Código Nacional de Procedimientos Penales, con el objeto de evitar que se agraven los daños cometidos, dando intervención a la Secretaría de Medio Ambiente y Desarrollo Territorial, a la Procuraduría Estatal del Medio Ambiente o al ayuntamiento en cuyo territorio se den los hechos presuntamente constitutivos de delito, para que determinen la gravedad del daño ambiental y las acciones de su competencia.
 
-Inmediatamente que el Ministerio Público o el servidor público encargado de practicar diligencias de averiguación previa tenga conocimiento de la probable existencia de uno de los delitos establecidos en el presente título, iniciará sus actuaciones atendiendo las reglas establecidas en el Código de Procedimientos Penales, con el objeto de evitar que se agraven los daños cometidos, dando intervención a la Secretaría de Medio Ambiente para el Desarrollo Sustentable, o al ayuntamiento en cuyo territorio se den los hechos presuntamente constitutivos de delito, para que determinen la gravedad del daño ambiental y las acciones de su competencia.
+Las penas previstas de multas en los delitos del presente capítulo, se aplicarán de manera directa a la restauración del ecosistema afectado.
+
+A los servidores públicos responsables de los delitos contenidos en este capítulo se les aumentará en un tercio las penas establecidas para dichos delitos.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2022)</small>
+
+###### Art. 289 Bis.
+
+Comete el delito de ecocidio quien:
+
+I. Provoque la destrucción o pérdida total de un ecosistema que abarque una superficie de cuando menos diez hectáreas;
+
+III. (SIC) Provoque un daño a un ecosistema cuya afectación y sus impactos al menos cuatro meses.
+
+Al responsable del delito de ecocidio se le impondrá una pena de tres a diez años de prisión y una multa de quinientas a cincuenta mil veces el valor diario de la Unidad de Medida y Actualización.
+
+Las penas anteriores aumentaran en un tercio cuando el ecocidio sea en áreas naturales protegidas, así declaradas por la autoridad competente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2019)</small>
 
@@ -7154,3 +7176,9 @@ P.O. 9 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28768/LXIII/22 QUE ADICIONA EL ARTÍCULO 202 TER DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor a partir del siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 28 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 28760/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 289 Y SE ADICIONA EL ARTÍCULO 289 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación el periódico oficial "El Estado de Jalisco".
