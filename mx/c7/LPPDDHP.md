@@ -4,7 +4,7 @@ identifier: "LPPDDHP"
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-25"
-last_updated: "2021-05-20"
+last_updated: "2022-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88346&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPPDDHP"
 
 LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 25 de junio de 2012.
 
@@ -96,29 +96,27 @@ La Junta de Gobierno es la instancia máxima del Mecanismo y principal órgano d
 
 Las resoluciones que emita la Junta de Gobierno serán obligatorias para las autoridades federales, cuya intervención sea necesaria para satisfacer Medidas de Prevención, Medidas Preventivas, Medidas de Protección y Medidas Urgentes de Protección previstas en esta Ley.
 
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
 ###### Artículo 5.
 
-La Junta de Gobierno está conformada por nueve miembros permanentes con derecho a voz y voto, y serán:
+La Junta de Gobierno está conformada por nueve integrantes permanentes con derecho a voz y voto, procurando observar el principio de paridad de género, y serán:
 
-I. Un representante de la Secretaría de Gobernación;
+I. Una persona representante de la Secretaría de Gobernación;
 
-> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+II. Una persona representante de la Fiscalía General de la República;
 
-II. Un representante de la Fiscalía General de la República, quien participará dentro del sistema con pleno respeto a la autonomía constitucional que le confiere a la institución el artículo 102, Apartado A, de la Constitución Política de los Estados Unidos Mexicanos;
+III. Una persona representante de la Secretaría de Seguridad y Protección Ciudadana;
 
-III. Un representante de la Secretaría de Seguridad Pública;
+IV. Una persona representante de la Secretaría de Relaciones Exteriores;
 
-IV. Un representante de la Secretaría de Relaciones Exteriores;
+V. Una persona representante de la Comisión Nacional de los Derechos Humanos, y
 
-V. Un representante de la Comisión Nacional de los Derechos Humanos, y
+VI. Cuatro personas representantes del Consejo Consultivo elegidas de entre sus integrantes conforme al principio de paridad de género.
 
-VI. Cuatro representantes del Consejo Consultivo elegidos de entre sus miembros.
+Las cuatro personas representantes del Poder Ejecutivo Federal deberán tener un nivel mínimo de titular de Subsecretaría y la de la Comisión Nacional de los Derechos Humanos, de titular de Visitaduría o sus equivalentes.
 
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
-
-Los tres representantes del Poder Ejecutivo Federal deberán tener un nivel mínimo de Subsecretario; en el caso de la Fiscalía General de la República, se deberá atender a lo que señala la Ley de la Fiscalía General de la República; y el de la Comisión Nacional de Derechos Humanos, el de Visitador o sus equivalentes.
-
-El representante de la Secretaría de Gobernación presidirá la Junta de Gobierno y en aquellos casos en que no sea posible su presencia se elegirá un presidente sustituto para esa única ocasión de entre los miembros permanentes.
+La persona representante de la Secretaría de Gobernación presidirá la Junta de Gobierno y en aquellos casos en que no sea posible su presencia se elegirá una presidenta o presidente sustituto para esa única ocasión de entre sus integrantes permanentes.
 
 ###### Artículo 6.
 
@@ -178,9 +176,11 @@ XVII. (DEROGADA, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
 ### Capítulo III. Consejo Consultivo
 
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
 ###### Artículo 9.
 
-El Consejo Consultivo es el órgano de consulta de la Junta de Gobierno y estará integrado por nueve consejeros, uno de ellos será el presidente por un periodo de dos años y se elegirá por mayoría simple por el mismo Consejo. En ausencia del presidente, el Consejo elegirá a un presidente interino por el tiempo que dure la ausencia o hasta que culmine el periodo. En la integración del Consejo se buscará un equilibrio entre personas expertas en la defensa de los derechos humanos y del ejercicio de la libertad de expresión y el periodismo.
+El Consejo Consultivo es el órgano de consulta de la Junta de Gobierno y estará integrado por nueve consejeras y consejeros; entre quienes se elegirá por mayoría simple del mismo Consejo y por un periodo de dos años, a la persona titular de la Presidencia. En ausencia de la persona titular de la Presidencia, el Consejo elegirá a quien ocupe interinamente la Presidencia por el tiempo que dure la ausencia o hasta que culmine el periodo. En la integración del Consejo se garantizará el principio de paridad de género y se buscará un equilibrio entre personas expertas en la defensa de los derechos humanos y del ejercicio de la libertad de expresión y el periodismo.
 
 ###### Artículo 10.
 
@@ -813,3 +813,15 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 28 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN, LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, LA LEY GENERAL DE VÍCTIMAS, LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS, LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS, LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES, LA LEY DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS, LA LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS Y LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, EN MATERIA DE PARIDAD DE GÉNERO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+Tercero. El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
+
+Cuarto. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
