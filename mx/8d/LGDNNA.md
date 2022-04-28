@@ -4,7 +4,7 @@ identifier: "LGDNNA"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-12-04"
-last_updated: "2022-03-23"
+last_updated: "2022-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103786&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDNNA"
 
 LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de diciembre de 2014.
 
@@ -1470,11 +1470,15 @@ V. Acordar y coordinar con las instituciones que corresponda el cumplimiento del
 
 VI. Dar seguimiento a cada una de las acciones del plan de restitución de derechos, hasta cerciorarse de que todos los derechos de la niña, niño o adolescente se encuentren garantizados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
 ###### Artículo 124.
 
-Los requisitos para ser nombrado titular de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, son los siguientes:
+Los requisitos para ser nombrada o nombrado titular de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, son los siguientes:
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+I. Ser persona ciudadana mexicana en pleno goce de sus derechos civiles y políticos;
 
 II. Tener más de 35 años de edad;
 
@@ -1482,9 +1486,13 @@ III. Contar con título profesional de licenciatura en derecho debidamente regis
 
 IV. Contar con al menos cinco años de experiencia en materia de procuración de justicia o defensa de niñas, niños y adolescentes;
 
-V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-El nombramiento de Procurador Federal de Protección de Niñas, Niños y Adolescentes deberá ser aprobado por la Junta de Gobierno del Sistema Nacional DIF, a propuesta de su Titular.
+V. No haber sido sentenciada o sentenciado por delito doloso o inhabilitada o inhabilitado como servidora o servidor público.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+El nombramiento de la persona titular de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes deberá ser aprobado por la Junta de Gobierno del Sistema Nacional DIF, a propuesta de quien sea su Titular.
 
 > <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
 
@@ -1552,53 +1560,89 @@ El Sistema Nacional de Protección Integral estará conformado por:
 
 A. Poder Ejecutivo Federal:
 
-I. El Presidente de la República, quien lo presidirá;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-II. El Secretario de Gobernación;
+I. La persona Titular del Ejecutivo Federal, quien lo presidirá;
 
-III. El Secretario de Relaciones Exteriores;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-IV. El Secretario de Hacienda y Crédito Público;
+II. La persona Titular de la Secretaría de Gobernación;
 
-V. El Secretario del Desarrollo Social;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-VI. El Secretario de Educación Pública;
+III. La persona Titular de la Secretaría de Relaciones Exteriores;
 
-VII. El Secretario de Salud;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-VIII. El Secretario del Trabajo y Previsión Social, y
+IV. La persona Titular de la Secretaría de Hacienda y Crédito Público;
 
-IX. El Titular del Sistema Nacional DIF.
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+V. La persona Titular de la Secretaría de Bienestar;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+VI. La persona Titular de la Secretaría de Educación Pública;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+VII. La persona Titular de la Secretaría de Salud;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+VIII. La persona Titular de la Secretaría del Trabajo y Previsión Social, y
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+IX. La persona Titular del Sistema Nacional DIF.
 
 B. Entidades Federativas:
 
-I. Los Gobernadores de los Estados, y
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2017)</small>
+I. Las Gobernadoras y los Gobernadores de los Estados, y
 
-II. El Jefe de Gobierno de la Ciudad de México.
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+II. La Jefa o el Jefe de Gobierno de la Ciudad de México.
 
 C. Organismos Públicos:
 
-I. El Fiscal General de la República;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-II. El Presidente de la Comisión Nacional de los Derechos Humanos, y
+I. La persona titular de la Fiscalía General de la República;
 
-III. El Comisionado Presidente del Instituto Federal de Telecomunicaciones.
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-D. Representantes de la sociedad civil que serán nombrados por el Sistema, en los términos del reglamento de esta Ley.
+II. La persona titular de la presidencia de la Comisión Nacional de los Derechos Humanos, y
 
-Para efectos de lo previsto en el apartado D, el reglamento deberá prever los términos para la emisión de una convocatoria pública, que contendrá las etapas completas para el procedimiento, sus fechas límites y plazos.
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-Serán invitados permanentes a las sesiones del Sistema Nacional de Protección Integral, los Presidentes de las Mesas Directivas de las Cámaras de Diputados y Senadores del Congreso de la Unión, un representante del Poder Judicial de la Federación, así como representantes de la Comisión Nacional de Tribunales Superiores de Justicia de los Estados Unidos Mexicanos, las asociaciones de municipios, legalmente constituidas, quienes intervendrán con voz pero sin voto.
+III. La Comisionada o el Comisionado Presidente del Instituto Federal de Telecomunicaciones.
 
-El Presidente de la República, en casos excepcionales, podrá ser suplido por el Secretario de Gobernación, en los términos previstos por la fracción I del artículo 27 de la Ley Orgánica de la Administración Pública Federal.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-Los integrantes del Sistema Nacional de Protección Integral nombrarán un suplente que deberá tener el nivel de subsecretario o equivalente.
+D. Personas representantes de la sociedad civil que serán nombradas por el Sistema, en los términos del reglamento de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-El Presidente del Sistema podrá invitar a las sesiones respectivas a representantes de otras dependencias y entidades de la Administración Pública Federal, de los órganos con autonomía constitucional, de los gobiernos de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, según la naturaleza de los asuntos a tratar quienes intervendrán con voz pero sin voto.
+Para efectos de lo previsto en el apartado D, el reglamento deberá prever los términos para la emisión de una convocatoria pública, la cual deberá realizarse conforme al principio de paridad, y que contendrá las etapas completas para el procedimiento, sus fechas límites y plazos.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+Serán invitadas permanentes a las sesiones del Sistema Nacional de Protección Integral, las Presidencias de las Mesas Directivas de las Cámaras de Diputados y Senadores del Congreso de la Unión, una persona representante del Poder Judicial de la Federación, así como representantes de la Comisión Nacional de Tribunales Superiores de Justicia de los Estados Unidos Mexicanos, las asociaciones de municipios, legalmente constituidas, quienes intervendrán con voz, pero sin voto.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+La persona titular del Ejecutivo Federal, en casos excepcionales, podrá ser suplida por la persona titular de la Secretaría de Gobernación, en los términos previstos por la fracción I del artículo 27 de la Ley Orgánica de la Administración Pública Federal.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+Las personas integrantes del Sistema Nacional de Protección Integral nombrarán una persona suplente, que deberá tener el nivel de titular de subsecretaría o equivalente.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+Quien presida el Sistema podrá invitar a las sesiones respectivas a personas representantes de otras dependencias y entidades de la Administración Pública Federal, de los órganos con autonomía constitucional, de los gobiernos de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, según la naturaleza de los asuntos a tratar quienes intervendrán con voz, pero sin voto.
 
 En las sesiones del Sistema Nacional de Protección Integral, participarán de forma permanente, sólo con voz, niñas, niños y adolescentes, que serán seleccionados por el propio Sistema. De igual forma, se podrá invitar a personas o instituciones, nacionales o internacionales, especializadas en la materia.
 
@@ -2377,6 +2421,18 @@ D.O.F. 23 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VI AL ARTÍCULO 47 DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN, LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, LA LEY GENERAL DE VÍCTIMAS, LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS, LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS, LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES, LA LEY DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS, LA LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS Y LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, EN MATERIA DE PARIDAD DE GÉNERO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+Tercero. El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
+
+Cuarto. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
 
 ### Capítulo Décimo Sexto. Del Derecho de Asociación y Reunión
 
