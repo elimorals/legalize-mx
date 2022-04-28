@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-organismo-publico-descentralizado-152457"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-11-13"
-last_updated: "2021-11-13"
+last_updated: "2022-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ state: "JAL"
 
 LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2022.
 
-Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 13 de noviembre de 2021
+Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 13 de noviembre de 2021.
 
 Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.
 
@@ -361,29 +361,59 @@ XXI. Las demás que establezcan otras disposiciones legales o reglamentarias apl
 
 T R A N S I T O R I O S
 
-PRIMERO. El presente decreto entrará en vigor el día 1 de mayo de 2022, previa su publicación en el periódico oficial “El Estado de Jalisco”.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2022)</small>
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. La Junta de Gobierno del Centro de Conciliación deberá instalarse en un plazo no mayor a tres días hábiles, contados a partir del día siguiente de la entrada en vigor del presente decreto.
 
-TERCERO. El titular del Poder Ejecutivo deberá expedir el Reglamento Interno del Centro de Conciliación, al día siguiente de la entrada en vigor del presente decreto para los efectos legales correspondientes.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2022)</small>
+
+TERCERO. La Junta de Gobierno del Centro de Conciliación Laboral deberá aprobar y remitir al titular del Poder Ejecutivo, su Reglamento Interno dentro de los quince días siguientes de la entrada en vigor del presente decreto.
+
+El titular del Poder Ejecutivo, a su vez, deberá expedir el Reglamento Interno del Centro de Conciliación, dentro de los cinco días hábiles siguientes a que haya sido remitido por la Junta de Gobierno, para los efectos legales correspondientes.
 
 CUARTO. El titular del Poder Ejecutivo deberá designar a la persona titular de la Dirección General del Centro al día siguiente de la entrada en vigor del presente decreto.
 
-QUINTO. Se autoriza al Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de la Hacienda Pública y en su caso de la Secretaría de Administración, así como al Presidente del Supremo Tribunal de Justicia del Estado, a efectuar las adecuaciones presupuestales, programáticas y administrativas necesarias y según corresponda, a fin de dar cumplimiento al presente decreto.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2022)</small>
 
-SEXTO. Los expedientes que al momento de la entrada en vigor del presente decreto se encuentren en trámite ante la Secretaría del Trabajo y Previsión Social, serán concluidos por ésta de conformidad con las disposiciones legales aplicables. El Centro no admitirá a trámite solicitudes de procedimientos conciliatorios respecto de procedimientos que se estén sustanciando ante la Secretaría del Trabajo y Previsión Social.
+QUINTO. Se autoriza al Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de la Hacienda Pública y en su caso de la Secretaría de Administración, así como al Presidente del Supremo Tribunal de Justicia del Estado y al Consejo de la Judicatura del Estado, a efectuar las adecuaciones presupuestales, programáticas y administrativas necesarias tanto para la instalación, como la puesta en marcha del Centro de Conciliación Laboral y los Tribunales Laborales del Poder Judicial del Estado, según corresponda, a fin de dar cumplimiento al presente decreto.
 
-SÉPTIMO. El Centro de Conciliación Laboral y los Tribunales Laborales del Poder Judicial del Estado entrarán en funciones el 2 de mayo de 2022, previa declaratoria del Congreso del Estado, de conformidad a lo establecido por el artículo transitorio Vigésimo Cuarto, del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva, publicado en el Diario Oficial de la Federación el 1 de mayo de 2019.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2022)</small>
+
+SEXTO. Los expedientes que al día anterior a que entre funciones del Centro de Conciliación se encuentren en trámite ante la Secretaría del Trabajo y Previsión Social, serán concluidos por ésta de conformidad con las disposiciones legales aplicables. El Centro no admitirá a trámite solicitudes de procedimientos conciliatorios respecto de procedimientos que se estén sustanciando ante la Secretaría del Trabajo y Previsión Social.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2022)</small>
+
+SÉPTIMO. Las atribuciones del Centro de Conciliación Laboral establecidas en las fracciones I, II, III, IV, V y XV del artículo 7 de la presente Ley, serán aplicables hasta el 3 de octubre de 2022. De igual forma, los juzgados Laborales entrarán en funciones hasta el 3 de octubre de 2022.
+
+Lo anterior, previa declaratoria del Congreso del Estado, de conformidad a lo establecido por el artículo transitorio Vigésimo Cuarto, del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva, publicado en el Diario Oficial de la Federación el 1 de mayo de 2019.
 
 OCTAVO. El Centro de Conciliación Laboral y los Tribunales Laborales del Poder Judicial del Estado deberán contar con los sistemas electrónicos para garantizar que los procedimientos a su cargo sean ágiles y efectivos. Asimismo, deberán crear las plataformas electrónicas que albergarán los buzones electrónicos y las aplicaciones digitales necesarios para operar la conectividad por medios electrónicos con las autoridades laborales.
 
 NOVENO. Los Tribunales Laborales del Poder Judicial del Estado conocerán de los asuntos que les correspondan conforme a lo establecido por la Ley Federal del Trabajo y los artículos Transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva publicado en el Diario Oficial de la Federación el 1 de mayo de 2019, conforme a la competencia territorial que determine el Consejo de la Judicatura.
 
-DÉCIMO. El Poder Judicial del Estado deberá concretar y publicar las modificaciones al Reglamento de la Ley Orgánica del Poder Judicial del Estado de Jalisco y a su reglamento interno al día siguiente de la entrada en vigor del presente decreto.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2022)</small>
+
+DÉCIMO. El Poder Judicial del Estado deberá concretar y publicar las modificaciones al Reglamento de la Ley Orgánica del Poder Judicial del Estado de Jalisco y a su reglamento interno dentro de los noventa días siguientes de la entrada en vigor del presente decreto.
 
 DÉCIMO PRIMERO. Los derechos laborales de las y los trabajadores que se vean involucradas (sic) en esta transición deberán ser respetados en su totalidad. Las autoridades llevarán a cabo todas las acciones de carácter administrativo para garantizar que se protejan y conserven los derechos de seguridad social, de acuerdo con las leyes aplicables.
 
-DÉCIMO SEGUNDO. El Consejo de la Judicatura deberá´ ajustar o expedir los acuerdos generales necesarios dentro de un plazo de 180 posteriores a la entrada en vigor del presente decreto.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2022)</small>
+
+DÉCIMO SEGUNDO. El Consejo de la Judicatura deberá ajustar o expedir los acuerdos generales necesarios dentro de un plazo de ciento veinte días posteriores a la entrada en vigor del presente decreto.
+
+El Consejo de la Judicatura del Estado deberá publicar los acuerdos en el medio oficial conforme a la normativo y, concretamente el acuerdo que defina la competencia territorial, tanto en el Boletín Judicial como en el periódico oficial "El Estado de Jalisco".
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2022)</small>
+
+DÉCIMO TERCERO. El Consejo de la Judicatura deberá designar a las y los jueces laborales antes de la entrada en funciones de los tribunales laborales.
+
+Para tal efecto deberá realizar las convocatorias que correspondan de carácter público y abierto, garantizando el derecho de participar a todas las personas en igualdad de oportunidades, incluyendo al personal de las Juntas de Conciliación y Arbitraje.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2022)</small>
+
+DÉCIMO CUARTO. El Centro de Conciliación Laboral deberá designar a quienes fungirán en el cargo de conciliadores laborales, siguiendo el procedimiento establecido en la Ley Federal del Trabajo antes de la entrada en funciones de dicho centro.
 
 SALÓN DE SESIONES DEL CONGRESO DEL ESTADO GUADALAJARA, JALISCO, 28 DE OCTUBRE DE 2021.
 
@@ -422,3 +452,11 @@ JUAN ENRIQUE IBARRA PEDROZA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28776/LXIII/22 QUE REFORMA DIVERSOS TRANSITORIOS DEL DECRETO 28505/LXII/21 QUE CREA LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE JALISCO Y SE ADICIONAN LOS ARTÍCULOS TRANSITORIOS DÉCIMO TERCERO Y DÉCIMO CUARTO”]
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
