@@ -4,7 +4,7 @@ identifier: "LGMDFP"
 country: "mx"
 rank: "ley_general"
 publication_date: "2017-11-17"
-last_updated: "2021-05-20"
+last_updated: "2022-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124480&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGMDFP"
 
 LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 17 de noviembre de 2017.
 
@@ -744,19 +744,29 @@ II. Cuatro especialistas de reconocido prestigio en la protección y defensa de 
 
 III. Cuatro representantes de organizaciones de la sociedad civil de derechos humanos.
 
-Los integrantes a que se refieren las fracciones anteriores deben ser nombrados por el Senado de la República previa consulta pública con las organizaciones de Familiares, de las organizaciones defensoras de los derechos humanos, de los grupos organizados de Víctimas y expertos en las materias de esta Ley.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+Las personas integrantes a que se refieren las fracciones anteriores deben ser nombrados por el Senado de la República previa consulta pública con las organizaciones de Familiares, de las organizaciones defensoras de los derechos humanos, de los grupos organizados de Víctimas y de las personas expertas en las materias de esta Ley, garantizando en todo momento el principio de paridad de género.
 
 La duración de su función será de tres años, sin posibilidad de reelección, y no deberán desempeñar ningún cargo como servidor público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
 ###### Artículo 61.
 
-Los integrantes del Consejo Ciudadano ejercerán su función en forma honorífica, y no deben recibir emolumento o contraprestación económica alguna por su desempeño.
+Quienes integren el Consejo Ciudadano ejercerán su función en forma honorífica, y no deben recibir emolumento o contraprestación económica alguna por su desempeño.
 
-Los integrantes del Consejo Ciudadano deben elegir a quien coordine los trabajos de sus sesiones, por mayoría de votos, quien durará en su encargo un año.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
 
-El Consejo Ciudadano emitirá sus reglas de funcionamiento en las que determinará los requisitos y procedimientos para nombrar a su Secretario Técnico, la convocatoria a sus sesiones bimestrales y contenidos del orden del día de cada sesión.
+Quienes integren el Consejo Ciudadano deben elegir a quien coordine los trabajos de sus sesiones, por mayoría de votos, quien durará en su encargo un año.
 
-Las recomendaciones, propuestas y opiniones del Consejo Ciudadano deberán ser comunicadas a los integrantes del Sistema Nacional, y podrán ser consideradas para la toma de decisiones. El integrante del Sistema Nacional que determine no adoptar las recomendaciones que formule el Consejo Ciudadano, deberá explicar las razones para ello.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+El Consejo Ciudadano emitirá sus reglas de funcionamiento en las que determinará los requisitos y procedimientos para nombrar a la persona titular de la Secretaría Técnica, la convocatoria a sus sesiones bimestrales y contenidos del orden del día de cada sesión.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+Las recomendaciones, propuestas y opiniones del Consejo Ciudadano deberán ser comunicadas a quienes integren el Sistema Nacional, y podrán ser consideradas para la toma de decisiones. Quien formando parte del Sistema Nacional determine no adoptar las recomendaciones que formule el Consejo Ciudadano, deberá explicar las razones para ello.
 
 La Secretaría de Gobernación proveerá al Consejo Ciudadano de los recursos financieros, técnicos, de infraestructura y humanos necesarios para el desempeño de sus funciones.
 
@@ -2213,3 +2223,15 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 28 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN, LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, LA LEY GENERAL DE VÍCTIMAS, LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS, LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS, LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES, LA LEY DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS, LA LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS Y LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, EN MATERIA DE PARIDAD DE GÉNERO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+Tercero. El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
+
+Cuarto. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
