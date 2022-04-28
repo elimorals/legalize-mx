@@ -4,7 +4,7 @@ identifier: "LGDFS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2018-06-05"
-last_updated: "2022-04-11"
+last_updated: "2022-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128842&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGDFS"
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2022.
 
 Ley publicada en la Edición Vespertina al Número 5 del Diario Oficial de la Federación, el martes 5 de junio de 2018.
 
@@ -2332,9 +2332,11 @@ Los dueños y legítimos poseedores de los terrenos forestales podrán realizar 
 
 ### Capítulo II. Del Fondo Forestal Mexicano
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
 ###### Artículo 139.
 
-El Fondo Forestal Mexicano será el instrumento para promover la conservación, incremento, aprovechamiento sustentable y restauración de los recursos forestales y sus recursos asociados, facilitando el acceso a los servicios financieros en el mercado, impulsando proyectos que contribuyan a la integración y competitividad de la cadena productiva y desarrollando los mecanismos de cobro y pago de bienes y servicios ambientales. Para garantizar un manejo más eficiente de los recursos del Fondo, se podrán utilizar los servicios de la banca privada.
+El Fondo Forestal Mexicano será el instrumento para promover la conservación, incremento, aprovechamiento sustentable y restauración de los recursos forestales y sus recursos asociados, facilitando el acceso a los servicios financieros en el mercado, impulsando proyectos que contribuyan a la integración y competitividad de la cadena productiva, desarrollando los mecanismos de cobro y pago de bienes y servicios ambientales y realizando acciones para la prevención, adaptación y mitigación del cambio climático en materia forestal. Para garantizar un manejo más eficiente de los recursos del Fondo, se podrán utilizar los servicios de la banca privada.
 
 El Fondo Forestal Mexicano operará a través de un Comité Mixto, en él habrá una representación equilibrada y proporcionada del sector público federal, así como de las organizaciones privadas y sociales de productores forestales.
 
@@ -2360,7 +2362,9 @@ VII. La transferencia de recursos de los usuarios de las cuencas hidrográficas,
 
 VIII. Los demás recursos que obtenga por cualquier otro concepto.
 
-Los recursos que el Fondo Forestal Mexicano obtenga por el cobro de bienes y servicios ambientales se entregarán directamente a los proveedores de dichos servicios y una parte se destinará a cubrir los costos de esta operación. Los recursos obtenidos por concepto de compensación ambiental para actividades de reforestación o restauración y su mantenimiento podrán también ser utilizados para la protección de los recursos forestales.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+Los recursos que el Fondo Forestal Mexicano obtenga por el cobro de bienes y servicios ambientales se entregarán directamente a los proveedores de dichos servicios y una parte se destinará a cubrir los costos de esta operación. Los recursos obtenidos por concepto de compensación ambiental para actividades de reforestación o restauración y su mantenimiento podrán también ser utilizados para la protección de los recursos forestales y la prevención, adaptación y mitigación del cambio climático en los ecosistemas forestales.
 
 Las aportaciones y donaciones que las personas físicas o morales de carácter privado hagan al Fondo Forestal Mexicano serán deducibles del Impuesto sobre la Renta.
 
@@ -2817,3 +2821,9 @@ Cuarto. La Secretaría deberá expedir el listado de especies forestales exótic
 Quinto. La Secretaría de Medio Ambiente y Recursos Naturales y la Comisión Nacional Forestal podrán instaurar un procedimiento de coordinación a fin de transmitir toda la información, procedimientos, expedientes, estadística y cualquier otra documentación que tengan en su poder, correspondiente a las atribuciones, competencias y facultades establecidas en esta Ley y su reforma.
 
 Sexto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado de los ejecutores de gasto correspondientes por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal como resultado de la entrada en vigor del presente Decreto.
+
+D.O.F. 28 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 139 Y EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 140 DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
