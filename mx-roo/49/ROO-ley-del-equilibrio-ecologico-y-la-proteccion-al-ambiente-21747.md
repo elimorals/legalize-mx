@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-21747"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-29"
-last_updated: "2021-10-21"
+last_updated: "2022-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21747&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 29 de junio de 2001.
 
@@ -325,7 +325,9 @@ Artículo 4 ter. Corresponde al Gobernador Constitucional del Estado de Quintana
 
 I. Formular, conducir y evaluar la política ambiental en el Estado, conforme al Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo del Estado, las características del lugar, los programas sectoriales correspondientes y los convenios internacionales;
 
-II. Proponer la creación de un fondo estatal de protección al ambiente para la investigación, estudio y atención de aquellos asuntos que en materia ambiental se consideren de interés para el Estado;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2022)</small>
+
+II. Proponer la creación de un fondo estatal de protección al ambiente para la investigación, estudio y atención de aquellos asuntos que en materia ambiental se considere de interés para el Estado, así como un fondo de responsabilidad ambiental para el pago de la reparación de los daños que sean ocasionados al ambiente;
 
 III. Promover la participación ciudadana en materia ambiental a través de los órganos de representación ciudadana e instrumentos de participación ciudadana, así como de las organizaciones sociales, pueblos indígenas, ejidos, comunidades, empresas e instituciones académicas;
 
@@ -429,13 +431,17 @@ XXXVI.- Participar en emergencias y contingencias ambientales, conforme a las po
 
 XXXVII.- La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente le confiera la Ley General, esta Ley u otros ordenamientos legales en concordancia con ellas y que no estén otorgados expresamente a la Federación;
 
-> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2022)</small>
 
-XXXVIII.- Establecer las medidas necesarias para hacer frente al cambio climático deben basarse en consideraciones pertinentes de orden científico, técnico y económico, y revaluarse continuamente conforme a los avances en la materia, y
+XXXVIII.- Establecer las medidas necesarias para hacer frente al cambio climático que deben basarse en consideraciones pertinentes de orden científico, técnico y económico, y revaluarse continuamente conforme a los avances en la materia;
 
-> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2022)</small>
 
-XXXIX.- Elaborar, difundir y aplicar un programa de sustitución de plásticos, con la finalidad de reducir el consumo de bolsas, envases, embalajes o empaques de plástico que se utilicen en establecimientos mercantiles y que se entreguen para la contención, transporte y envase de mercancías, asimismo, deberá informar y fomentar la educación de los habitantes del Estado, sobre el impacto negativo que producen los plásticos en el medio ambiente.
+XXXIX.- Elaborar, difundir y aplicar un programa de sustitución de plásticos, con la finalidad de reducir el consumo de bolsas, envases, embalajes o empaques de plástico que se utilicen en establecimientos mercantiles y que se entreguen para la contención, transporte y envase de mercancías, asimismo, deberá informar y fomentar la educación de los habitantes del Estado, sobre el impacto negativo que producen los plásticos en el medio ambiente, y
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2022)</small>
+
+XL.- Expedir las normas técnicas estatales ambientales para la preservación, conservación, remediación y restauración de la calidad ambiental, incluyendo lo relativo a los efectos del cambio climático, que sean más estrictas que las normas oficiales mexicanas o que se refieran a aspectos no previstos por éstas.
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2016)</small>
 
@@ -1295,15 +1301,19 @@ Son instrumentos de mercado las concesiones, autorizaciones, licencias y permiso
 
 Las prerrogativas derivadas de los instrumentos de mercado serán transferibles, no gravables y quedarán sujetos al interés público y al aprovechamiento sustentable de los recursos naturales.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2022)</small>
+
 ###### Artículo 55.
 
-El Estado creará el Fondo Estatal de Protección al Ambiente, con la finalidad de generar recursos económicos para facilitar el cumplimiento de los objetivos establecidos en el Programa Estatal del Ambiente.
+El Estado creará el Fondo Estatal de Protección al Ambiente con la finalidad de generar recursos económicos para facilitar el cumplimiento de los objetivos establecidos en el Programa Estatal del Ambiente, así como el Fondo de Responsabilidad Ambiental, para el pago de la reparación de los daños que sean ocasionados al ambiente, de conformidad a la Ley de Responsabilidad Ambiental del Estado de Quintana Roo.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2022)</small>
 
 ###### Artículo 56.
 
-El responsable del manejo del Fondo Estatal de Protección al Ambiente, será un Consejo Técnico, cuyo funcionamiento y operación se realizará conforme al reglamento que al efecto se expida, en el que se determinarán sus lineamientos.
+Los responsables del manejo del Fondo Estatal de Protección al Ambiente y el Fondo de Responsabilidad Ambiental, serán consejos técnicos, cuyo funcionamiento y operación se realizará conforme al reglamento que al efecto se expida, así como por lo dispuesto en la Ley de Responsabilidad Ambiental del Estado de Quintana Roo.
 
-El Consejo Técnico informará en forma semestral a la opinión pública, sobre los recursos económicos ingresados, así como su manejo y destino.
+Los consejos técnicos informarán en forma semestral a la opinión pública, sobre los recursos económicos ingresados, así como su manejo y destino.
 
 ###### Artículo 57.
 
@@ -3488,3 +3498,23 @@ P.O. 21 DE OCTUBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Los Ayuntamientos deberán emitir las disposiciones reglamentarias para dar cumplimiento a lo establecido en el presente Decreto, en un plazo no mayor a 180 días naturales posteriores a la entrada en vigor del mismo.
+
+P.O. 28 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 229 POR EL QUE SE EXPIDE LA LEY DE RESPONSABILIDAD AMBIENTAL DEL ESTADO DE QUINTANA ROO; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE QUINTANA ROO, Y SE ADICIONA LA FRACCIÓN III AL ARTÍCULO 179 SEPTIES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Poder Ejecutivo del Estado, por conducto de la Secretaría de Ecología y Medio Ambiente, tendrá un plazo de noventa días naturales contados a partir de la publicación del presente Decreto a efecto de constituir el Fondo de Responsabilidad Ambiental del Estado de Quintana Roo.
+
+TERCERO. La Secretaría de Ecología y Medio Ambiente y la Procuraduría Estatal de Protección al Ambiente, deberán realizar las adecuaciones necesarias a sus reglamentos y disposiciones administrativas en un término de noventa días naturales a partir de la publicación del presente Decreto, a efecto de dar cumplimiento a lo establecido en el mismo.
+
+CUARTO. El Poder Judicial del Estado de Quintana Roo deberá dar capacitación especializada en materia de normatividad ambiental al personal de cada uno de los juzgados de primera instancia en materia civil del Estado.
+
+QUINTO. La adición realizada al Código Penal para el Estado Libre y Soberano de Quintana Roo, entrará en vigor a los ciento ochenta días naturales, contados a partir de la publicación del presente Decreto.
+
+SEXTO. Las autoridades correspondientes deberán hacer las modificaciones presupuestales pertinentes para dar cumplimiento a lo establecido en el presente Decreto.
+
+SEPTIMO. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones vigentes al momento de iniciarse.
+
+OCTAVO. Se derogan todas las disposiciones normativas que se opongan a lo previsto en el presente Decreto.
