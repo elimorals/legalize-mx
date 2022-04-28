@@ -4,7 +4,7 @@ identifier: "LGDLPI"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-03-13"
-last_updated: "2022-01-17"
+last_updated: "2022-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29246&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDLPI"
 
 LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 13 de marzo de 2003.
 
@@ -200,33 +200,29 @@ l) Celebrar convenios, con apego a la Constitución Política de los Estados Uni
 
 La administración del Instituto Nacional de Lenguas Indígenas estará a cargo de un Consejo Nacional, como órgano colectivo de gobierno, y un Director General responsable del funcionamiento del propio Instituto. El domicilio legal del Instituto será la Ciudad de México, Distrito Federal.
 
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
 ###### ARTÍCULO 16.
 
-El Consejo Nacional se integrará con: siete representantes de la administración pública federal, tres representantes de escuelas, instituciones de educación superior y universidades indígenas, y tres representantes de instituciones académicas y organismos civiles que se hayan distinguido por la promoción, preservación y defensa del uso de las lenguas indígenas.
+El Consejo Nacional se integrará de manera paritaria, con: siete representantes de la Administración Pública Federal, tres representantes de escuelas, instituciones de educación superior y universidades indígenas, y tres representantes de instituciones académicas y organismos civiles que se hayan distinguido por la promoción, preservación y defensa del uso de las lenguas indígenas. Para garantizar el principio de paridad de género, el total de integrantes del Consejo Nacional no deberá exceder de 7 personas del mismo género.
 
-Los representantes de la Administración Pública Federal son los siguientes:
+Quienes representan a la Administración Pública Federal son:
 
-> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+1).- La persona titular de la Secretaría de Cultura, quien lo presidirá en su carácter de titular de la coordinadora de sector, con fundamento en lo establecido en la Ley Federal de las Entidades Paraestatales.
 
-1).- El Secretario de Cultura, quien lo presidirá en su carácter de titular de la coordinadora de sector, con fundamento en lo establecido en la Ley Federal de Entidades Paraestatales.
+2).- Una persona representante de la Secretaría de Hacienda y Crédito Público con el nivel de Subsecretaría.
 
-2).- Un representante de la Secretaría de Hacienda y Crédito Público con el nivel de Subsecretario.
+3).- Una persona representante de la Secretaría de Bienestar.
 
-3).- Un representante de la Secretaría de Desarrollo Social.
+4).- Una persona representante de la Secretaría de Infraestructura, Comunicaciones y Transportes.
 
-4).- Un representante de la Secretaría de Comunicaciones y Transportes.
+5).- Una persona representante de la Secretaría de Educación Pública.
 
-> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+6).- Una persona representante del Instituto Nacional de los Pueblos Indígenas.
 
-5).- Un representante de la Secretaría de Educación Pública.
+7).- Una persona representante de la Secretaría de Relaciones Exteriores.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2022)</small>
-
-6).- Un representante del Instituto Nacional de los Pueblos Indígenas.
-
-7).- Un representante de la Secretaría de Relaciones Exteriores.
-
-El Director General será designado por el Presidente de los Estados Unidos Mexicanos, a propuesta de una terna presentada por el Consejo Nacional y podrá permanecer en el cargo por un periodo máximo de 6 años; preferentemente hablante nativo de alguna lengua indígena; con experiencia relacionada con alguna de las actividades sustantivas del Instituto y gozar de reconocido prestigio profesional y académico en la investigación, desarrollo, difusión y uso de las lenguas indígenas.
+La persona titular de la Dirección General será designada por la persona titular de la Presidencia del Ejecutivo Federal, a propuesta de una terna integrada de manera paritaria y presentada por el Consejo Nacional, y podrá permanecer en el cargo por un periodo máximo de 6 años; debiendo ser preferentemente una persona hablante nativa de alguna lengua indígena; con experiencia relacionada con alguna de las actividades sustantivas del Instituto y gozar de reconocido prestigio profesional y académico en la investigación, desarrollo, difusión y uso de las lenguas indígenas.
 
 ###### ARTÍCULO 17.
 
@@ -234,15 +230,17 @@ Las reglas de funcionamiento del órgano de gobierno, la estructura administrati
 
 El órgano de gobierno se reunirá cada seis meses de manera ordinaria, y de manera extraordinaria cuando sea convocado por su Presidente; se integrará por la mayoría de sus integrantes, y sus decisiones se adoptarán con la mayoría de los presentes.
 
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
 ###### ARTÍCULO 18.
 
-Para el cumplimiento de sus atribuciones el Director General tendrá las facultades de dominio, de administración y para pleitos y cobranzas, incluyendo las que requieran de cláusula especial, sin más limitaciones que las específicas que le llegue a imponer en forma general el Estatuto o temporales por parte del Consejo Nacional.
+Para el cumplimiento de sus atribuciones la persona titular de la Dirección General tendrá las facultades de dominio, de administración y para pleitos y cobranzas, incluyendo las que requieran de cláusula especial, sin más limitaciones que las específicas que le llegue a imponer en forma general el Estatuto o temporales por parte del Consejo Nacional.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
 
 ###### ARTÍCULO 19.
 
-El órgano de vigilancia administrativa del Instituto Nacional de Lenguas Indígenas estará integrado por un Comisario Público Propietario y un Suplente, designados por la Secretaría de la Función Pública.
+El órgano de vigilancia administrativa del Instituto Nacional de Lenguas Indígenas estará integrado por una Comisaria o Comisario Público Propietario y su correspondiente persona Suplente, designadas por la Secretaría de la Función Pública, en observancia al principio de paridad de género.
 
 ###### ARTÍCULO 20.
 
@@ -373,3 +371,15 @@ D.O.F. 17 DE ENERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 16, NUMERAL 6) DE LA LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN, LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, LA LEY GENERAL DE VÍCTIMAS, LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS, LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS, LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES, LA LEY DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS, LA LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS Y LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, EN MATERIA DE PARIDAD DE GÉNERO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+Tercero. El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
+
+Cuarto. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
