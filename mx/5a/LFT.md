@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "2022-04-05"
+last_updated: "2022-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2022.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el miércoles 1 de abril de 1970.
 
@@ -1482,7 +1482,9 @@ VII. Expedir cada quince días, a solicitud de los trabajadores, una constancia 
 
 VIII. Expedir al trabajador que lo solicite o se separe de la empresa, dentro del término de tres días, una constancia escrita relativa a sus servicios;
 
-IX. Conceder a los trabajadores el tiempo necesario para el ejercicio del voto en las elecciones populares y para el cumplimiento de los servicios de jurados, electorales y censales, a que se refiere el artículo 5°., de la Constitución, cuando esas actividades deban cumplirse dentro de sus horas de trabajo;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+IX. Conceder a los trabajadores el tiempo necesario para el ejercicio del voto en las elecciones populares, los procesos de revocación de mandato y para el cumplimiento de los servicios de jurados, electorales y censales, a que se refiere el artículo 5o., de la Constitución, cuando esas actividades deban cumplirse dentro de sus horas de trabajo;
 
 X. Permitir a los trabajadores faltar a su trabajo para desempeñar una comisión accidental o permanente de su sindicato o del Estado, siempre que avisen con la oportunidad debida y que el número de trabajadores comisionados no sea tal que perjudique la buena marcha del establecimiento. El tiempo perdido podrá descontarse al trabajador a no ser que lo compense con un tiempo igual de trabajo efectivo. Cuando la comisión sea de carácter permanente, el trabajador o trabajadores podrán volver al puesto que ocupaban, conservando todos sus derechos, siempre y cuando regresen a su trabajo dentro del término de seis años. Los substitutos tendrán el carácter de interinos, considerándolos como de planta después de seis años;
 
@@ -2734,7 +2736,9 @@ III. Proporcionar alojamiento y alimentos cuando el buque sea llevado a puerto e
 
 IV. Pagar los costos de la situación de fondos a los familiares de los trabajadores, cuando el buque se encuentre en el extranjero;
 
-V. Conceder a los trabajadores el tiempo necesario para el ejercicio del voto en las elecciones populares, siempre que la seguridad del buque lo permita y no se entorpezca su salida en la fecha y hora fijadas;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+V. Conceder a los trabajadores el tiempo necesario para el ejercicio del voto en las elecciones populares y los procesos de revocación de mandato, siempre que la seguridad del buque lo permita y no se entorpezca su salida en la fecha y hora fijadas;
 
 VI. Permitir a los trabajadores que falten a sus labores para desempeñar comisiones del Estado o de su sindicato, en las mismas condiciones a que se refiere la fracción anterior;
 
@@ -6253,6 +6257,10 @@ III. Colaborar con los trabajadores y el patrón en la difusión de las normas s
 ###### Artículo 512.
 
 En los reglamentos de esta Ley y en los instructivos que las autoridades laborales expidan con base en ellos, se fijarán las medidas necesarias para prevenir los riesgos de trabajo y lograr que éste se preste en condiciones que aseguren la vida y la salud de los trabajadores.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+En los casos en los que existe un alto riesgo que implique la pérdida de la vida o se comprometa seriamente la salud del trabajador, considerando, sobre todo la naturaleza del trabajo, las disposiciones reglamentarias o normativas considerarán el uso de la tecnología y de las herramientas de trabajo que sean innovadoras y que coadyuven a las labores de seguridad en los centros de trabajo.
 
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -13879,3 +13887,15 @@ D.O.F. 5 DE ABRIL DE 2022.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- La Secretaría del Trabajo y Previsión Social contará con un plazo de 180 días posteriores a la entrada en vigor del presente Decreto para elaborar y publicar una Norma Oficial Mexicana a efecto de clasificar las actividades a que se refiere el artículo 176, fracción II, numeral 8 a fin de determinar aquéllas de menor riesgo.
+
+D.O.F. 28 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 132 Y LA FRACCIÓN V DEL ARTÍCULO 204 DE LA LEY FEDERAL DEL TRABAJO”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 512 DE LA LEY FEDERAL DEL TRABAJO”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
