@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-y-bienestar-animal-del-estado-de-quintana-139
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2019-11-25"
+last_updated: "2022-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2022.
 
 Ley publicada en el Número 133 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 25 de noviembre de 2019.
 
@@ -661,9 +661,17 @@ IX. El uso y tránsito de animales en vehículos de tracción animal en vialidad
 
 X. La comercialización de animales enfermos, con lesiones, traumatismos, fracturas y heridas;
 
-XI. La celebración y realización de espectáculos circenses públicos o privados, fijos o itinerantes, en los cuales se utilicen animales silvestres y/o domésticos, con fines de diversión, exhibición, manejo, adiestramiento y entretenimiento; sean éstos con o sin fines de lucro, y
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2022)</small>
 
-XII. Las corridas de toros, vaquillas o novillos y becerros, las peleas de gallos y el entrenamiento de animales para su utilización en este tipo de espectáculos.
+XI. La celebración y realización de espectáculos circenses públicos o privados, fijos o itinerantes, en los cuales se utilicen animales silvestres y/o domésticos, con fines de diversión, exhibición, manejo, adiestramiento y entretenimiento; sean éstos con o sin fines de lucro;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2022)</small>
+
+XII. Las corridas de toros, vaquillas o novillos y becerros, las peleas de gallos y el entrenamiento de animales para su utilización en este tipo de espectáculos, y
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2022)</small>
+
+XIII. La exhibición de ejemplares de animales silvestres en vías públicas, así como su interacción o contacto con cualquier miembro el público en general.
 
 Los actos antes mencionados en el presente artículo se consideran infracciones y serán sancionados de conformidad con el Título Octavo de la presente Ley y demás ordenamientos reglamentarios aplicables.
 
@@ -1279,9 +1287,11 @@ IV. Arresto hasta por treinta y seis horas.
 
 La violación a las disposiciones contenidas en los artículos 32 fracciones I y II, 40 fracciones I, III, IV, V, VI y IX, 61, 65 y 70 fracciones I y II, serán sancionadas con multa de diez a cincuenta veces el valor diario de la Unidad de Medida y Actualización, con independencia de las demás sanciones que de acuerdo a los artículos 119 y 123 pudiera determinar en su resolución la autoridad competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2022)</small>
+
 ###### Artículo 121.
 
-La violación a las disposiciones contenidas en los artículos 39, 40 fracciones II, VII, VIII, X y XI, 70 fracciones III y IV, 83, 85 y 86, serán sancionadas con multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización, con independencia de las demás sanciones que de acuerdo a los artículos 119 y 123 pudiera determinar en su resolución la autoridad competente.
+La violación a las disposiciones contenidas en los artículos 39, 40 fracciones II, VII, VIII, X, XI y XIII, 70 fracciones III y IV, 83, 85, y 86, serán sancionadas con multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización, con independencia de las demás sanciones que de acuerdo a los artículos 119 y 123 pudiera determinar en su resolución la autoridad competente.
 
 Para el caso de la reincidencia, se estará a lo dispuesto en el Código de Justicia Administrativa del Estado de Quintana Roo.
 
@@ -1384,3 +1394,19 @@ EN CUMPLIMIENTO DE LAS OBLIGACIONES QUE ME IMPONEN LOS ARTÍCULOS 91 FRACCIÓN I
 DADO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS VEINTISIETE DÍAS DEL MES DE JUNIO DEL AÑO DOS MIL DIECINUEVE
 
 EL GOBERNADOR DEL ESTADO DE QUINTANA ROO, C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ, RUBRICA; EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO, LIC. FRANCISCO XAVIER LÓPEZ MENA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 231 POR EL QUE SE REFORMAN LAS FRACCIONES XI Y XII DEL ARTÍCULO 40 Y EL ARTÍCULO 121; Y SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 40, TODOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DEL ESTADO DE QUINTANA ROO."]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Las autorizaciones y permisos expedidos previo a la entrada en vigor del presente Decreto, se mantendrán vigentes por el plazo y en los términos establecidos en los mismos.
+
+TERCERO. A partir de la fecha de entrada en vigor del presente Decreto, no se autorizará el uso de las vías públicas para la exhibición o manejo de ejemplares de vida silvestre, ni para la toma de fotos o videos con ejemplares de vida silvestre.
+
+CUARTO. A partir de la fecha de entrada en vigor del presente Decreto, no se renovarán, ni se otorgarán licencias de funcionamiento para establecimientos que realicen uso de las vías públicas para la exhibición o manejo de ejemplares de vida silvestre, ni para la toma de fotos o videos con ejemplares de vida silvestre, o para establecimientos que permitan el manejo de, interacción con o contacto con ejemplares de vida silvestre por el público en general y/o el manejo fuera de su encierro.
+
+QUINTO. Se derogan las disposiciones que se opongan al presente Decreto.
