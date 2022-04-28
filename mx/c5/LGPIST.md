@@ -4,7 +4,7 @@ identifier: "LGPIST"
 country: "mx"
 rank: "ley_general"
 publication_date: "2017-06-26"
-last_updated: "2021-05-20"
+last_updated: "2022-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122146&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPIST"
 
 LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 26 de junio de 2017.
 
@@ -734,7 +734,9 @@ Para garantizar su autonomía y especialización, el Mecanismo Nacional de Preve
 
 I. La persona titular de la Comisión Nacional, quien lo presidirá.
 
-II. Un Comité Técnico integrado por cuatro personas expertas en la prevención de la tortura e independientes.
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+II. Un Comité Técnico integrado por cuatro personas expertas en la prevención de la tortura e independientes, en su designación se garantizará el principio de paridad de género.
 
 El Reglamento determinará en todo aquello que no esté establecido en esta Ley, la estructura, integración y funcionamiento del Mecanismo Nacional de Prevención.
 
@@ -746,7 +748,9 @@ El Mecanismo Nacional de Prevención contará con los recursos humanos, material
 
 El Director Ejecutivo, así como el personal del Mecanismo Nacional de Prevención, deberán poseer experiencia y especialización en materia de prevención e investigación de la tortura y otros tratos o penas crueles, inhumanos o degradantes.
 
-El Reglamento establecerá los elementos generales para que el personal del Mecanismo Nacional de Prevención esté integrado por profesionales que integren un grupo de trabajo multidisciplinario, procurando el equilibrio de género, y sea incluyente al considerar a los grupos étnicos y minoritarios del país.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
+
+El Reglamento establecerá los elementos generales para que el personal del Mecanismo Nacional de Prevención esté integrado por profesionales que integren un grupo de trabajo multidisciplinario, en cuya integración se garantizará el principio de paridad de género, y sea incluyente al considerar a los grupos étnicos y minoritarios del país.
 
 ###### Artículo 76.
 
@@ -1123,3 +1127,15 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 28 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN, LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, LA LEY GENERAL DE VÍCTIMAS, LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS, LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS, LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES, LA LEY DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS, LA LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS Y LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, EN MATERIA DE PARIDAD DE GÉNERO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+Tercero. El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
+
+Cuarto. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
