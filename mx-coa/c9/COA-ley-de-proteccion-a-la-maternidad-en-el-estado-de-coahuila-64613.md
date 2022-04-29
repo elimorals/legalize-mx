@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-a-la-maternidad-en-el-estado-de-coahuila-6461
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-24"
-last_updated: "2019-10-29"
+last_updated: "2022-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCIÓN A LA MATERNIDAD EN EL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 24 de octubre de 2008.
 
@@ -439,6 +439,10 @@ Con independencia de las disposiciones de seguridad social previstas en otras le
 
 Asimismo, los descansos extraordinarios de media hora para lactancia, se hacen extensivos a todas las madres trabajadoras, estudiantes, funcionarias públicas, representantes populares, y en cualquier otro ámbito de su desarrollo.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+Artículo 26 BIS.- Se considerará como acto discriminatorio en todo el estado coahuilense el prohibir, negar, limitar o restringir el acto de amamantar en espacios públicos o privados.
+
 ### CAPITULO VI. DE LOS DERECHOS EN RELACION CON LA INFANCIA TEMPRANA
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2019)</small>
@@ -640,3 +644,9 @@ P.O. 29 DE OCTUBRE DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 29 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 222.- SE ADICIONA EL ARTÍCULO 26 BIS DE LA LEY DE PROTECCIÓN A LA MATERNIDAD EN EL ESTADO DE COAHUILA”.]
+
+Único.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
