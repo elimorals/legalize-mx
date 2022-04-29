@@ -4,7 +4,7 @@ identifier: "COA-ley-de-igualdad-entre-mujeres-y-hombres-en-el-estado-de-94480"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2021-02-23"
+last_updated: "2022-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -49,9 +49,9 @@ La presente ley es de orden público e interés social y de observancia general 
 
 Es reglamentaria del párrafo sexto del artículo 173, de la Constitución Política del Estado de Coahuila de Zaragoza, en el que se reconoce la igualdad de derechos del hombre y de la mujer en todos los ámbitos de la vida cultural, social, jurídica, política y económica.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2022)</small>
 
-Tiene como eje principal, que las mujeres y los hombres son iguales en dignidad humana y homogéneos en derechos y deberes, así como proponer los lineamientos y mecanismos institucionales que orienten al Estado hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo el empoderamiento de las mujeres y la lucha contra toda discriminación basada en el sexo, con respeto entre las personas y sus culturas.
+Tiene como eje principal, que las mujeres y los hombres son iguales ante la ley y por objeto proponer los lineamientos y mecanismos institucionales que orienten al Estado hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo el empoderamiento de las mujeres y la lucha contra toda discriminación basada en el sexo, con respeto entre las personas y sus culturas.
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
 
@@ -1666,5 +1666,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 23 DE FEBRERO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 973.- SE REFORMA FRACCIÓN III Y SE ADICIONA LA FRACCIÓN IV DEL ARTÍCULO 19 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 221.- SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 1 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
