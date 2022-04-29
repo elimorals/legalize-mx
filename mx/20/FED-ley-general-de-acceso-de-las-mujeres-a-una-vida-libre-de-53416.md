@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-53416"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-02-01"
-last_updated: "2021-06-01"
+last_updated: "2022-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-01-31"
 
 LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE ABRIL DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de febrero de 2007.
 
@@ -45,35 +45,71 @@ LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ENERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ABRIL DE 2022)</small>
 
 ###### ARTÍCULO 1.
 
-La presente ley tiene por objeto establecer la coordinación entre la Federación, las entidades federativas, la Ciudad de México y los municipios para prevenir, sancionar y erradicar la violencia contra las mujeres, así como los principios y modalidades para garantizar su acceso a una vida libre de violencia que favorezca su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación, así como para garantizar la democracia, el desarrollo integral y sustentable que fortalezca la soberanía y el régimen democrático establecidos en la Constitución Política de los Estados Unidos Mexicanos.
+La presente ley tiene por objeto establecer la coordinación entre la Federación, las entidades federativas, las demarcaciones territoriales de la Ciudad de México y los municipios para prevenir, sancionar y erradicar las violencias contra las mujeres, adolescentes y niñas, así como los principios y mecanismos para el pleno acceso a una vida libre de violencias, así como para garantizar el goce y ejercicio de sus derechos humanos y fortalecer el régimen democrático establecido en la Constitución Política de los Estados Unidos Mexicanos.
 
 Las disposiciones de esta ley son de orden público, interés social y de observancia general en la República Mexicana.
 
-> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ABRIL DE 2022)</small>
 
 ###### ARTÍCULO 2.
 
-La Federación, las entidades federativas, la Ciudad de México y los municipios, en el ámbito de sus respectivas competencias expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en Materia de Derechos Humanos de las Mujeres, ratificados por el Estado mexicano.
+La Federación, las entidades federativas, las demarcaciones territoriales de la Ciudad de México y los municipios, en el ámbito de sus respectivas competencias expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en Materia de Derechos Humanos de las Mujeres, ratificados por el Estado mexicano.
+
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+La Federación, las entidades federativas, las demarcaciones territoriales de la Ciudad de México y los municipios deberán instrumentar las medidas presupuestales y administrativas necesarias y suficientes de carácter extraordinario para hacer frente a la Alerta de Violencia de Género contra las mujeres.
 
 ###### ARTÍCULO 3.
 
 Todas las medidas que se deriven de la presente ley, garantizarán la prevención, la atención, la sanción y la erradicación de todos los tipos de violencia contra las mujeres durante su ciclo de vida y para promover su desarrollo integral y su plena participación en todas las esferas de la vida.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ABRIL DE 2022)</small>
+
 ###### ARTÍCULO 4.
 
-Los principios rectores para el acceso de todas las mujeres a una vida libre de violencia que deberán ser observados en la elaboración y ejecución de las políticas públicas federales y locales son:
+Los principios rectores para el acceso de todas las mujeres, adolescentes y niñas a una vida libre de violencias que deberán ser observados en la elaboración y ejecución de las políticas públicas federales y locales son:
 
-I. La igualdad jurídica entre la mujer y el hombre;
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
 
-II. El respeto a la dignidad humana de las mujeres;
+I. La igualdad jurídica, sustantiva, de resultados y estructural;
+
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+II. La dignidad de las mujeres;
 
 III. La no discriminación, y
 
-IV. La libertad de las mujeres.
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+IV. La libertad de las mujeres;
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+V. La universalidad, la interdependencia, la indivisibilidad y la progresividad de los derechos humanos;
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+VI. La perspectiva de género;
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+VII. La debida diligencia;
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+VIII. La interseccionalidad;
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+IX. La interculturalidad, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+X. El enfoque diferencial.
 
 ###### ARTÍCULO 5.
 
@@ -93,13 +129,39 @@ VI. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo de
 
 VII. Agresor: La persona que inflige cualquier tipo de violencia contra las mujeres;
 
-VIII. Derechos Humanos de las Mujeres: Refiere a los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todos las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará) y demás instrumentos internacionales en la materia;
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+VIII. Derechos Humanos de las Mujeres: Refiere a los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos de la Niñez, la Convención sobre los Derechos de las Personas con Discapacidad, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem do Pará) y demás instrumentos internacionales en la materia;
 
 IX. Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
-X. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades, y
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
 
-XI. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer.
+X. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio (sic) de conciencia, inclusión, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
+
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+XI. Misoginia: Son conductas de odio hacia las mujeres, las adolescentes y las niñas y se manifiestan en actos violentos y crueles contra ellas por el hecho de serlo;
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+XII. Muertes evitables: Conjunto de muertes que no deberían haber ocurrido en presencia de servicios de salud eficaces, con exámenes rutinarios para la detección temprana y tratamientos adecuados;
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+XIII. Interseccionalidad: Herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades creando múltiples ejes de diferencias que se intersectan en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión y privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades;
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+XIV. Interculturalidad: El enfoque intercultural parte del reconocimiento y respeto de las diferencias culturales existentes, bajo la concepción de que las culturas pueden ser diferentes entre sí pero igualmente válidas, no existiendo culturas superiores ni inferiores. Está orientado a abordar las particularidades de las mujeres de los pueblos indígenas, afrodescendientes y otros grupos étnicos diferenciados y su relación con la sociedad dominante, más allá de la coexistencia de culturas;
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+XV. Enfoque diferencial: Tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por género, edad, etnia o discapacidad; así como las vulneraciones específicas a sus derechos humanos en tanto pertenecientes a grupos sociales o culturales específicos. Lo anterior con el objetivo de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+XVI. Debida diligencia: La obligación de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora.
 
 ###### ARTÍCULO 6.
 
@@ -349,63 +411,221 @@ Dentro de los cinco días siguientes a la imposición de las medidas de protecci
 
 ### CAPÍTULO V. DE LA VIOLENCIA FEMINICIDA Y DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ABRIL DE 2022)</small>
+
 ###### ARTÍCULO 21.
 
-Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado y puede culminar en homicidio y otras formas de muerte violenta de mujeres.
+Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, las adolescentes y las niñas, producto de la violación de sus derechos humanos y del ejercicio abusivo del poder, tanto en los ámbitos público y privado, que puede conllevar impunidad social y del Estado. Se manifiesta a través de conductas de odio y discriminación que ponen en riesgo sus vidas o culminan en muertes violentas como el feminicidio, el suicidio y el homicidio, u otras formas de muertes evitables y en conductas que afectan gravemente la integridad, la seguridad, la libertad personal y el libre desarrollo de las mujeres, las adolescentes y las niñas.
 
-> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2022)</small>
 
-En los casos de feminicidio se aplicarán las sanciones previstas en el artículo 325 del Código Penal Federal.
+En los casos de feminicidio se aplicarán las sanciones previstas en la legislación penal sustantiva.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ABRIL DE 2022)</small>
 
 ###### ARTÍCULO 22.
 
-Alerta de violencia de género: Es el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad.
+Alerta de Violencia de Género contra las mujeres: Es el conjunto de acciones gubernamentales coordinadas, integrales, de emergencia y temporales realizadas entre las autoridades de los tres órdenes y niveles de gobierno, para enfrentar y erradicar la violencia feminicida en un territorio determinado; así como para eliminar el agravio comparado, resultado de las desigualdades producidas por ordenamientos jurídicos o políticas públicas que impiden el reconocimiento o ejercicio de los derechos humanos de las mujeres, las adolescentes y las niñas, a fin de garantizar su pleno acceso al derecho a una vida libre de violencias.
+
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+El procedimiento para la emisión de la Alerta de Violencia de Género contra las mujeres deberá ser pronto y expedito, atendiendo a la situación de urgencia de los hechos documentados que motiva su solicitud y al territorio especificado en la misma, así como al principio de debida diligencia.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2022)</small>
 
 ###### ARTÍCULO 23.
 
-La alerta de violencia de género contra las mujeres tendrá como objetivo fundamental garantizar la seguridad de las mismas, el cese de la violencia en su contra y eliminar las desigualdades producidas por una legislación que agravia sus derechos humanos, por lo que se deberá:
+La Alerta de Violencia de Género contra las mujeres tendrá como objetivos:
 
-I. Establecer un grupo interinstitucional y multidisciplinario con perspectiva de género que dé el seguimiento respectivo;
+I. Garantizar la vida, la integridad, la libertad y la seguridad, así como el acceso a la justicia de las mujeres, adolescentes y niñas;
 
-II. Implementar las acciones preventivas, de seguridad y justicia, para enfrentar y abatir la violencia feminicida;
+II. Generar las condiciones y políticas públicas que contribuyan a la disminución y cese de la violencia feminicida en su contra, y
 
-III. Elaborar reportes especiales sobre la zona y el comportamiento de los indicadores de la violencia contra las mujeres;
+III. Eliminar la desigualdad y discriminación producidas por ordenamientos jurídicos o políticas públicas que agravian los derechos humanos de las mujeres, adolescentes y niñas.
 
-IV. Asignar los recursos presupuestales necesarios para hacer frente a la contingencia de alerta de violencia de género contra las mujeres, y
+Para cumplir con estos objetivos, las autoridades correspondientes, en el ámbito de sus competencias deberán:
 
-V. Hacer del conocimiento público el motivo de la alerta de violencia de género contra las mujeres, y la zona territorial que abarcan las medidas a implementar.
+A. Hacer del conocimiento público el motivo de la Alerta de Violencia de Género contra las mujeres, y la zona territorial que abarquen las acciones que deberán realizarse;
+
+B. Implementar las acciones y medidas preventivas, correctivas, de atención, de seguridad, de procuración e impartición de justicia, de reparación del daño y legislativas que correspondan;
+
+C. Elaborar un Programa de Acciones Estratégicas de cumplimiento, que deberá hacerse del conocimiento público y que contendrá:
+
+a) El motivo de la Alerta de Violencia de Género contra las mujeres;
+
+b) Las acciones que deberán desempeñar para hacer frente a la violencia feminicida o al agravio comparado, la ruta de acción, los plazos para su ejecución y la asignación de responsabilidades definidas para cada uno de los poderes y órdenes de gobierno, según corresponda;
+
+c) Los indicadores de seguimiento y cumplimiento de las acciones que deben realizar las autoridades federales, de las entidades federativas, municipios o demarcaciones territoriales de la Ciudad de México;
+
+D. Elaborar informes por lo menos cada seis meses para dar cuenta de los avances en el cumplimiento de las medidas establecidas en la Declaratoria, y
+
+E. Asignar los recursos presupuestales necesarios y suficientes para hacer frente a la Declaratoria de Alerta de Violencia de Género contra las mujeres; para tal efecto la Cámara de Diputados y los Congresos Estatales deberán aprobar una partida presupuestal para este fin y darán seguimiento a su ejercicio efectivo.
+
+El procedimiento de la Alerta de Violencia de Género contra las mujeres deberá observar en todo momento los principios de transparencia, máxima publicidad y acceso a la información, así como la protección de datos personales, durante la totalidad de las etapas del procedimiento.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2022)</small>
 
 ###### ARTÍCULO 24.
 
-La declaratoria de alerta de violencia de género contra las mujeres, se emitirá cuando:
+La Alerta de Violencia de Género contra las mujeres, se emitirá cuando:
 
-I. Los delitos del orden común contra la vida, la libertad, la integridad y la seguridad de las mujeres, perturben la paz social en un territorio determinado y la sociedad así lo reclame;
+I. Exista un contexto de violencia feminicida caracterizado por el incremento persistente de hechos o delitos que involucren violaciones a los derechos a la vida, la libertad, la integridad y la seguridad de las mujeres, adolescentes y niñas en un territorio determinado;
 
-II. Exista un agravio comparado que impida el ejercicio pleno de los derechos humanos de las mujeres, y
+II. Existan omisiones documentadas y reiteradas por parte de las autoridades gubernamentales del cumplimiento de sus obligaciones en materia de prevención, atención, sanción, y acceso a la justicia para las mujeres, adolescentes y niñas, de conformidad con lo establecido en esta ley, y
 
-III. Los organismos de derechos humanos a nivel nacional o de las entidades federativas, los organismos de la sociedad civil y/o los organismos internacionales, así lo soliciten.
+III. Exista un agravio comparado que impida el ejercicio pleno de los derechos humanos de las mujeres, adolescentes y niñas.
+
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+###### ARTÍCULO 24 Bis.
+
+La Alerta de Violencia de Género contra las mujeres iniciará su trámite:
+
+I. A solicitud de organismos públicos autónomos de derechos humanos u organismos internacionales de protección de los derechos humanos;
+
+II. A solicitud de organizaciones de la sociedad civil legalmente constituidas o por colectivos o grupos de familiares de víctimas a través de una persona representante, o
+
+III. A partir de la identificación por parte de la Comisión Nacional para Prevenir, Atender y Erradicar la Violencia contra las Mujeres del incremento persistente de hechos o delitos que involucren violaciones a los derechos a la vida, libertad, integridad y seguridad de las mujeres, las adolescentes y las niñas en un territorio determinado o la existencia de un agravio comparado.
+
+A fin de garantizar el análisis expedito y la tramitación oportuna, cuando se presenten diversas solicitudes de Alerta de Violencia de Género contra las mujeres y exista identidad en las autoridades o hechos constitutivos de violencia contra las mujeres, las adolescentes y las niñas, se podrán acumular tanto el trámite, como las medidas que deberán ser adoptadas.
+
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+###### ARTÍCULO 24 Ter.
+
+La solicitud de Alerta de Violencia de Género contra las mujeres deberá contener al menos lo siguiente:
+
+I. Narración de los hechos de violencia cometidos contra las mujeres, adolescentes y niñas, sustentados con información documentada, datos estadísticos oficiales, testimonios u otra información que sustente las afirmaciones señaladas en la solicitud;
+
+II. Territorio específico sobre el cual se señalan los hechos de violencia;
+
+III. Las autoridades responsables de atender la violencia señalada, y
+
+IV. Los demás requisitos de forma que se establezcan en el Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+###### ARTÍCULO 24 Quáter.
+
+Una vez admitida la solicitud de Alerta de Violencia de Género contra las mujeres, se conformará un Grupo Interinstitucional y Multidisciplinario integrado por la Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres, el Instituto Nacional de las Mujeres, el Mecanismo para el adelanto de las mujeres de la entidad federativa sobre la cual se presenta la solicitud de Alerta de Violencia de Género contra las mujeres, la Comisión Nacional de los Derechos Humanos, las organizaciones de la sociedad civil, incluidas las solicitantes, así como personas e instituciones que se consideren especialistas en derechos humanos de las mujeres.
+
+El Grupo Interinstitucional y Multidisciplinario tendrá como objetivo fundamental analizar, valorar y emitir recomendaciones que mejoren la implementación de acciones que se generen con motivo de la Alerta de Violencia de Género contra las mujeres, a través de las siguientes acciones:
+
+a) Proponer a la Secretaría de Gobernación las acciones y medidas preventivas, correctivas, de seguridad, de procuración e impartición de justicia, de reparación del daño y legislativas que correspondan, para ser establecidas en la Alerta de Violencia de Género contra las mujeres;
+
+b) Brindar asesoría técnica a las autoridades encargadas de instrumentar las medidas señaladas en la Alerta de Violencia de Género contra las mujeres;
+
+c) Analizar y dictaminar los informes periódicos presentados por las autoridades responsables de cumplir con la Alerta de Violencia de Género contra las mujeres;
+
+d) Realizar reuniones de trabajo con las autoridades responsables de la implementación de las medidas establecidas en la Alerta de Violencia de Género contra las mujeres;
+
+e) Solicitar, cuando existe un incumplimiento a las medidas de la Alerta de Violencia de Género contra las mujeres por parte de las autoridades, a la Secretaría de Gobernación emita un extrañamiento y se presenten las denuncias ante las instancias correspondientes a fin de que se determine la responsabilidad de las personas servidoras públicas, y
+
+f) Proponer la modificación, actualización y levantamiento parcial o total de medidas establecidas en la Alerta de Violencia de Género contra las mujeres.
+
+Se deberán realizar las medidas necesarias para garantizar que el Grupo Interinstitucional y Multidisciplinario se integre de conformidad con lo señalado en el presente artículo.
+
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+###### ARTÍCULO 24 Quinquies.
+
+El Grupo Interinstitucional y Multidisciplinario tendrá 30 días naturales para realizar un análisis sobre los hechos de violencia señalados en la solicitud; cuando del análisis realizado se desprenda la procedencia de la Alerta de Violencia de Género contra las mujeres, se deberán elaborar conclusiones que incluyan propuestas de acciones y medidas preventivas, correctivas, de atención, de seguridad, de procuración e impartición de justicia y de reparación del daño, según corresponda. Y, en su caso, las propuestas de adecuaciones legislativas y normativas necesarias.
+
+El Grupo Interinstitucional y Multidisciplinario deberá escuchar a las víctimas de los casos de violencia contra las mujeres que se analizan, a fin de incorporar en las conclusiones y medidas a adoptar, sus necesidades y propuestas.
+
+En caso de considerar la improcedencia de la Alerta de Violencia de Género contra las mujeres, se presentarán por escrito los argumentos que sustenten dicha determinación.
+
+El tiempo entre la admisión de la solicitud de la Alerta de Violencia de Género contra las mujeres y la Declaratoria no podrá exceder los 45 días naturales.
+
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+###### ARTÍCULO 24 Sexies.
+
+En los casos donde la Secretaría de Gobernación, a través de la Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres, identifique y documente alguna circunstancia de procedencia de la Alerta de Violencia de Género contra las mujeres, se podrá emitir sin que se requiera la conformación del Grupo Interinstitucional y Multidisciplinario.
+
+En aquellos casos, donde el Grupo Interinstitucional y Multidisciplinario no culmine el Informe de conclusiones en el periodo establecido, la Secretaría de Gobernación a través de la Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres, realizará el informe correspondiente y, en su caso, podrá emitir la Alerta de Violencia de Género contra las mujeres.
+
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+###### ARTÍCULO 24 Septies.
+
+La Declaratoria de Alerta de Violencia de Género contra las mujeres, deberá incluir lo siguiente:
+
+I. El motivo de la misma;
+
+II. La información que sustenta la determinación;
+
+III. Las acciones y medidas preventivas, correctivas, de seguridad, de procuración e impartición de justicia, de atención, de reparación del daño y legislativas propuestas por el Grupo Interinstitucional y Multidisciplinario;
+
+IV. La solicitud a las autoridades responsables, de la asignación o reorientación de recursos presupuestales, humanos y materiales necesarios para hacer frente a la misma, y
+
+V. El territorio que abarcan las medidas a implementar y, en su caso, las autoridades responsables de su cumplimiento.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2022)</small>
 
 ###### ARTÍCULO 25.
 
-Corresponderá al gobierno federal a través de la Secretaría de Gobernación declarar la alerta de violencia de género y notificará la declaratoria al Poder Ejecutivo de la entidad federativa de que se trate.
+Corresponderá al gobierno federal, a través de la Secretaría de Gobernación, declarar la Alerta de Violencia de Género contra las mujeres.
+
+La persona titular de la Secretaría de Gobernación notificará a las personas titulares de los poderes Ejecutivo, Legislativo y Judicial, así como a la instancia de procuración de justicia de las demarcaciones territoriales de la Ciudad de México, o de los municipios de la entidad federativa en que se emita la Alerta de Violencia de Género contra las mujeres.
+
+Una vez notificada la Alerta, las autoridades federales, de las entidades federativas, municipios o demarcaciones territoriales de la Ciudad de México, deberán, de manera inmediata y coordinada con el Grupo Interinstitucional y Multidisciplinario, implementar el Programa de Acciones Estratégicas de cumplimiento.
+
+El Programa de Acciones Estratégicas deberá contener, al menos las siguientes características:
+
+I. Estar alineado a la política integral y programas locales para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
+
+II. Las acciones para hacer frente a la violencia feminicida o al agravio comparado;
+
+III. Los plazos para su ejecución;
+
+IV. La asignación de responsabilidades a las autoridades competentes;
+
+V. Los recursos presupuestales destinados para dichas actividades;
+
+VI. Los indicadores de evaluación, seguimiento y cumplimiento de las acciones, o
+
+VII. La estrategia de difusión en la entidad federativa de los resultados alcanzados.
+
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+###### ARTÍCULO 25 Bis.
+
+La Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres dará acompañamiento y seguimiento a la Alerta de Violencia de Género contra las mujeres.
+
+Para el levantamiento de medidas, atendiendo a la naturaleza de las mismas, se tendrá que acreditar fehacientemente su cumplimento, a través de la incorporación en las políticas públicas o legislación, y/o de la disminución sostenida de la violencia identificada en la Declaratoria de la Alerta de Violencia de Género contra las mujeres.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ABRIL DE 2022)</small>
 
 ###### ARTÍCULO 26.
 
-Ante la violencia feminicida, el Estado mexicano deberá resarcir el daño conforme a los parámetros establecidos en el Derecho Internacional de los Derechos Humanos y considerar como reparación:
+Ante la violencia feminicida, el Estado mexicano deberá resarcir el daño conforme a los parámetros establecidos en los Tratados Internacionales en materia de derechos humanos en los que el Estado mexicano sea parte, y en la Ley General de Víctimas y considerar como reparación:
 
-I. El derecho a la justicia pronta, expedita e imparcial: Se deben investigar las violaciones a los derechos de las mujeres y sancionar a los responsables;
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+I. El derecho a la justicia pronta, expedita e imparcial: Se deben investigar todas las violaciones a derechos humanos vinculadas a la violencia feminicida, sancionar a las personas responsables y reparar el daño;
 
 II. La rehabilitación: Se debe garantizar la prestación de servicios jurídicos, médicos y psicológicos especializados y gratuitos para la recuperación de las víctimas directas o indirectas;
 
-III. La satisfacción: Son las medidas que buscan una reparación orientada a la prevención de violaciones. Entre las medidas a adoptar se encuentran:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 29 DE ABRIL DE 2022)</small>
+
+III. La satisfacción y no repetición: Son las medidas que buscan una reparación orientada a la prevención de violaciones y erradicación de la impunidad ante la violencia contra las mujeres. Entre las medidas a adoptar se encuentran:
 
 a) La aceptación del Estado de su responsabilidad ante el daño causado y su compromiso de repararlo;
 
-b) La investigación y sanción de los actos de autoridades omisas o negligentes que llevaron la violación de los derechos humanos de las Víctimas a la impunidad;
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2022)</small>
 
-c) El diseño e instrumentación de políticas públicas que eviten la comisión de delitos contra las mujeres, y
+b) La investigación de las personas servidoras públicas cuyas acciones u omisiones conllevaron a la violación de los derechos humanos de las víctimas y la impunidad, para sancionarlos conforme a la normatividad correspondiente;
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+c) El diseño e instrumentación de políticas públicas enfocadas a la prevención, persecución, y seguimiento de la comisión de delitos cometidos contra las mujeres. Asimismo, las relativas a garantizar los derechos de los familiares a ser informados de manera oportuna de las acciones que las autoridades realicen tendientes a sancionar a los presuntos responsables, y
 
 d) La verificación de los hechos y la publicidad de la verdad.
+
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+Toda medida reparatoria deberá tener un enfoque transformador del contexto y cultura discriminatoria, siempre con el objetivo de erradicarla.
 
 ### CAPÍTULO VI. DE LAS ÓRDENES DE PROTECCIÓN
 
@@ -683,7 +903,7 @@ Asimismo, se reforzarán las acciones que se contemplaron en un primer momento c
 
 ### CAPÍTULO I. DEL SISTEMA NACIONAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ENERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ABRIL DE 2022)</small>
 
 ## TITULO III
 
@@ -691,9 +911,15 @@ Asimismo, se reforzarán las acciones que se contemplaron en un primer momento c
 
 ###### ARTÍCULO 35.
 
-La Federación, las entidades federativas, la Ciudad de México y los municipios, se coordinarán para la integración y funcionamiento del Sistema, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, se coordinarán para la integración y funcionamiento del Sistema, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 
-Todas las medidas que lleve a cabo el Estado deberán ser realizadas sin discriminación alguna. Por ello, considerará el idioma, edad, condición social, preferencia sexual, o cualquier otra condición, para que puedan acceder a las políticas públicas en la materia.
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+El Sistema Nacional, ante la situación de emergencia identificada a partir de las declaratorias de Alerta de Violencia de Género contra las mujeres, constituirá una Comisión Especial con el objetivo de verificar y promover que existan en las entidades federativas los elementos institucionales, normativos y estructurales de prevención, atención, sanción y erradicación con el fin de prever la posible contingencia generada por la violencia feminicida o el agravio comparado.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+Todas las medidas que lleve a cabo el Estado deberán ser realizadas sin discriminación alguna. Por ello, considerará la etnia, el idioma, edad, condición social, de salud, de discapacidad, preferencia sexual, o cualquier otra condición, para que puedan acceder a las políticas públicas en la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE ABRIL DE 2020)</small>
 
@@ -857,9 +1083,9 @@ II. Diseñar la política integral con perspectiva de género para promover la c
 
 III. Elaborar el Programa en coordinación con las demás autoridades integrantes del Sistema;
 
-> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
 
-IV. Formular las bases para la coordinación entre las autoridades federales, locales, de la Ciudad de México y municipales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+IV. Formular las bases para la coordinación entre las autoridades federales, locales, municipales y de las demarcaciones territoriales de la Ciudad de México para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
 V. Coordinar y dar seguimiento a las acciones de los tres órdenes de gobierno en materia de protección, atención, sanción y erradicación de la violencia contra las mujeres;
 
@@ -885,9 +1111,73 @@ XIV. Celebrar convenios de cooperación, coordinación y concertación en la mat
 
 XV. Las demás previstas para el cumplimiento de la presente ley.
 
-#### Sección Tercera.. De la Secretaría de Desarrollo Social
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 29 DE ABRIL DE 2022)</small>
 
-#### Sección Cuarta.. De la Secretaría de Seguridad Pública
+#### Sección Segunda Bis.. De la Comisión Nacional Para Prevenir y Erradicar la Violencia Contra las Mujeres
+
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+###### ARTÍCULO 42 Bis.
+
+Corresponde a la Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres:
+
+I. Dar seguimiento al Programa, en coordinación con las demás autoridades que integran el Sistema Nacional;
+
+II. Proponer las bases para la coordinación entre las autoridades federales, locales, municipales y de las demarcaciones territoriales de la Ciudad de México, para la prevención, atención, sanción y erradicación de la violencia contra las mujeres, las adolescentes y las niñas;
+
+III. Auxiliar a la persona titular de la Secretaría de Gobernación a coordinar, con pleno respeto a los ámbitos de competencia, las acciones de los tres órdenes de gobierno en materia de protección, atención, sanción y erradicación de la violencia contra las mujeres, las adolescentes y las niñas, y dar seguimiento a las mismas;
+
+IV. Proponer la política integral con perspectiva de género para promover la cultura de respeto a los derechos humanos de las mujeres, las adolescentes y las niñas;
+
+V. Coordinar y dar seguimiento, a través de la Secretaría Ejecutiva del Sistema, a los trabajos de promoción y defensa de los derechos humanos de las mujeres, que lleven a cabo las dependencias y entidades de la Administración Pública Federal;
+
+VI. Establecer, utilizar, supervisar y mantener, en coordinación con la Secretaría Ejecutiva, todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
+
+VII. Evaluar la eficacia de las acciones del Programa y, en su caso, proponer el rediseño de las acciones y medidas para avanzar en la eliminación de las violencias contra las mujeres, las adolescentes y las niñas;
+
+VIII. Proponer la política integral de prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres, las adolescentes y las niñas;
+
+IX. Coordinar, a través de la Secretaría Ejecutiva del Sistema, la realización del Diagnóstico Nacional sobre todas las formas de violencia de género contra las mujeres, las adolescentes y las niñas;
+
+X. Promover la elaboración de estudios complementarios sobre la violencia contra las mujeres, las adolescentes y las niñas;
+
+XI. Acordar con la Dirección General de Comunicación Social de la Secretaría de Gobernación, la política de difusión del Sistema y el Programa que se refieren en esta ley;
+
+XII. Celebrar convenios, que se relacionen con el ejercicio de sus atribuciones, previo dictamen de la Unidad de Asuntos Jurídicos de la Secretaría de Gobernación;
+
+XIII. Instalar Unidades de Atención a víctimas de violencia de género contra las mujeres, adolescentes y niñas en cualquier parte del territorio nacional;
+
+XIV. Auxiliar a la persona titular de la Secretaría de Gobernación en la supervisión del Sistema; y someter a su consideración el proyecto de informe a que se refiere el artículo 54, fracción II;
+
+XV. Coordinarse con las autoridades competentes para atender los asuntos de carácter internacional relacionados con la política en materia del derecho a una vida libre de violencias;
+
+XVI. Promover la observancia de los principios del Derecho Internacional de los Derechos Humanos de las mujeres, así como el cumplimiento de las obligaciones del Estado mexicano derivadas de los Tratados Internacionales de los que forma parte;
+
+XVII. Analizar y sistematizar la información sobre las condiciones políticas, jurídicas, económicas, sociales y culturales que han dado lugar a la violencia contra las mujeres, las adolescentes y las niñas en el país;
+
+XVIII. Establecer mecanismos de coordinación con las Fiscalías Federal y de las entidades federativas a fin de promover acciones para favorecer el acceso a la justicia de las mujeres;
+
+XIX. Impulsar en los Poderes Judiciales de la Federación y las entidades federativas acciones que favorezcan el acceso a la justicia para las mujeres, las adolescentes y las niñas;
+
+XX. Promover una justicia especializada para las mujeres, adolescentes y niñas víctimas de violencia de género;
+
+XXI. Promover, a través de los poderes legislativos, reformas en materia del derecho de las mujeres, las adolescentes y las niñas a una vida libre de violencias;
+
+XXII. Promover la atención y escucha a las mujeres y niñas víctimas de violencia de género, por parte de las instituciones federales y locales, a fin de que sus derechos sean respetados y garantizados;
+
+XXIII. Coordinar el mecanismo para la tortura sexual en contra de mujeres;
+
+XXIV. Coordinar el Banco Nacional de casos de violencia contra las mujeres;
+
+XXV. Instrumentar un mecanismo de alerta temprana en casos de violencia contra las mujeres, las adolescentes y las niñas;
+
+XXVI. Impulsar, en coordinación con las entidades federativas, los Centros de Justicia para las Mujeres en todo el territorio nacional;
+
+XXVII. Establecer y coordinar el modelo de atención que se implementará en los Centros de Justicia para las Mujeres, y
+
+XXVIII. Las demás que le confieran otras disposiciones aplicables.
+
+#### Sección Tercera.. De la Secretaría de Desarrollo Social
 
 ###### ARTÍCULO 43.
 
@@ -911,7 +1201,7 @@ VIII. Celebrar convenios de cooperación, coordinación y concertación en la ma
 
 IX. Las demás previstas para el cumplimiento de la presente ley.
 
-#### Sección Quinta.. De la Secretaría de Educación Pública
+#### Sección Cuarta.. De la Secretaría de Seguridad Pública
 
 ###### ARTÍCULO 44.
 
@@ -945,7 +1235,7 @@ XI. Realizar una página de Internet específica en la cual se encuentren los da
 
 XII. Las demás previstas para el cumplimiento de la presente ley.
 
-#### Sección Sexta.. De la Secretaría de Salud
+#### Sección Quinta.. De la Secretaría de Educación Pública
 
 ###### ARTÍCULO 45.
 
@@ -987,31 +1277,7 @@ XV. Celebrar convenios de cooperación, coordinación y concertación en la mate
 
 XVI. Las demás previstas para el cumplimiento de la presente ley.
 
-#### Sección Séptima.. De la Secretaría del Trabajo y Previsión Social
-
-> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2012)</small>
-
-ARTÍCULO 46 BIS.- Corresponde a la Secretaría del Trabajo y Previsión Social:
-
-I. Impulsar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia de trabajo y previsión social;
-
-II. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres;
-
-III. Promover la cultura de respeto a los derechos humanos de las mujeres en el ámbito laboral;
-
-IV. Diseñar y difundir materiales que promuevan la prevención, atención y erradicación de la violencia contra las mujeres en los centros de trabajo;
-
-V. Orientar a las víctimas de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres;
-
-VI. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
-
-VII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
-
-VIII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa, y
-
-IX. Las demás previstas para el cumplimiento de la presente ley.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 4 DE JUNIO DE 2015)</small>
+#### Sección Sexta.. De la Secretaría de Salud
 
 ###### ARTÍCULO 46.
 
@@ -1059,6 +1325,32 @@ XIV. Las demás previstas para el cumplimiento de la presente ley.
 
 > <small>(ADICIONADA [N. DE E. COMPRENDE EL ARTÍCULO 46 BIS], D.O.F. 4 DE JUNIO DE 2015)</small>
 
+#### Sección Séptima.. De la Secretaría del Trabajo y Previsión Social
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2012)</small>
+
+ARTÍCULO 46 BIS.- Corresponde a la Secretaría del Trabajo y Previsión Social:
+
+I. Impulsar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia de trabajo y previsión social;
+
+II. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres;
+
+III. Promover la cultura de respeto a los derechos humanos de las mujeres en el ámbito laboral;
+
+IV. Diseñar y difundir materiales que promuevan la prevención, atención y erradicación de la violencia contra las mujeres en los centros de trabajo;
+
+V. Orientar a las víctimas de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres;
+
+VI. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
+
+VII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+VIII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa, y
+
+IX. Las demás previstas para el cumplimiento de la presente ley.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 4 DE JUNIO DE 2015)</small>
+
 #### Sección Octava.. De la Secretaría de Desarrollo Agrario, Territorial y Urbano
 
 > <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2015)</small>
@@ -1086,8 +1378,6 @@ VIII. Las demás previstas para el cumplimiento de la presente ley.
 #### Sección Novena.. De la Fiscalía General de la República
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
-
-#### Sección Décima.. Del Instituto Nacional de las Mujeres
 
 ###### ARTÍCULO 47.
 
@@ -1143,9 +1433,7 @@ XII. Las demás previstas para el cumplimiento de la presente ley.
 
 (REUBICADA [N. DE E. ANTES SECCIÓN OCTAVA], D.O.F. 4 DE JUNIO DE 2015)
 
-#### Sección Décima Bis.. Del Instituto Nacional Electoral y los Organismos Públicos Locales Electorales
-
-> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+#### Sección Décima.. Del Instituto Nacional de las Mujeres
 
 ###### ARTÍCULO 48.
 
@@ -1175,9 +1463,9 @@ X. Las demás previstas para el cumplimiento de la ley.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 13 DE ABRIL DE 2020)</small>
 
-#### Sección Décima Primera.. De las Entidades Federativas
+#### Sección Décima Bis.. Del Instituto Nacional Electoral y los Organismos Públicos Locales Electorales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ENERO DE 2021)</small>
+> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 48 Bis.
 
@@ -1191,13 +1479,17 @@ III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que cons
 
 (REUBICADA [N. DE E. ANTES SECCIÓN NOVENA], D.O.F. 4 DE JUNIO DE 2015)
 
-#### Sección Décima Segunda.. De los Municipios
+#### Sección Décima Primera.. De las Entidades Federativas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 49.
 
 Corresponde a las entidades federativas y a la Ciudad de México, de conformidad con lo dispuesto por esta ley y los ordenamientos locales aplicables en la materia:
 
-I. Instrumentar y articular sus políticas públicas en concordancia con la política nacional integral desde la perspectiva de género para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+I. Instrumentar y articular sus políticas públicas y acciones en concordancia con la política nacional integral desde la perspectiva de género para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
 
 II. Ejercer sus facultades reglamentarias para la aplicación de la presente ley;
 
@@ -1233,11 +1525,13 @@ XV. Promover investigaciones sobre las causas y las consecuencias de la violenci
 
 XVI. Revisar y evaluar la eficacia de las acciones, las políticas públicas, los programas estatales, con base en los resultados de las investigaciones previstas en la fracción anterior;
 
-> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
 
-XVII. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de las mujeres, en la ejecución de los programas estatales;
+XVII. Impulsar la participación de las organizaciones sociales dedicadas a la promoción y defensa de los derechos humanos de las mujeres, en la ejecución de los programas estatales;
 
-XVIII. Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre la prevención, atención y sanción de la violencia contra mujeres, a fin de mejorar los mecanismos para su erradicación;
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+XVIII. Recibir de las organizaciones sociales, las propuestas y recomendaciones sobre la prevención, atención y sanción de la violencia contra mujeres, a fin de mejorar los mecanismos para su erradicación;
 
 XIX. Proporcionar a las instancias encargadas de realizar estadísticas, la información necesaria para la elaboración de éstas;
 
@@ -1261,21 +1555,29 @@ c) Incorporación de la perspectiva de género en los servicios periciales; elim
 
 XXIII. Crear un registro público sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características socio demográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
 
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+XXIV. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres, niñas y adolescentes desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual;
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+XXV. Realizar las acciones necesarias para implementar las medidas establecidas en la Alerta de Violencia de Género contra las mujeres, y
+
 > <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
 
-XXIV. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual, y
-
-> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
-
-XXV. Las demás aplicables a la materia, que les conceda la ley u otros ordenamientos legales.
+XXVI. Las demás aplicables a la materia, que les conceda la ley u otros ordenamientos legales.
 
 Las autoridades federales, harán las gestiones necesarias para propiciar que las autoridades locales reformen su legislación, para considerar como agravantes los delitos contra la vida y la integridad corporal cometidos contra mujeres.
 
-(REUBICADA [N. DE E. ANTES SECCIÓN DÉCIMA], D.O.F. 4 DE JUNIO DE 2015)
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+#### Sección Décima Segunda.. De los Municipios y Demarcaciones Territoriales de la Ciudad de México
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ABRIL DE 2022)</small>
 
 ###### ARTÍCULO 50.
 
-Corresponde a los municipios, de conformidad con esta ley y las leyes locales en la materia y acorde con la perspectiva de género, las siguientes atribuciones:
+Corresponde a los municipios y a las demarcaciones territoriales de la Ciudad de México, de conformidad con esta ley y las leyes locales en la materia y acorde con la perspectiva de género, las siguientes atribuciones:
 
 I. Instrumentar y articular, en concordancia con la política nacional y estatal, la política municipal orientada a erradicar la violencia contra las mujeres;
 
@@ -1297,9 +1599,17 @@ VIII. Participar y coadyuvar en la prevención, atención y erradicación de la 
 
 IX. Llevar a cabo, de acuerdo con el Sistema, programas de información a la población respecto de la violencia contra las mujeres;
 
-X. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
 
-XI. La atención de los demás asuntos que en materia de violencia contra las mujeres que les conceda esta ley u otros ordenamientos legales.
+X. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+XI. Realizar las acciones necesarias para implementar las medidas establecidas en la Alerta de Violencia de Género contra las mujeres, y
+
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+XII. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta ley u otros ordenamientos legales.
 
 ### CAPÍTULO V. DE LOS REFUGIOS PARA LAS VICTIMAS DE VIOLENCIA
 
@@ -1648,3 +1958,15 @@ D.O.F. 1 DE JUNIO DE 2021.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Los Congresos de las entidades federativas en el ámbito de sus competencias, contarán con un plazo de 180 días a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones legislativas que correspondan.
+
+D.O.F. 29 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, EN MATERIA DE ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Quedará sin efecto cualquier disposición que se oponga al presente ordenamiento.
+
+Tercero. El Ejecutivo Federal, en un plazo que no exceda de sesenta días naturales después de publicado el presente Decreto, deberá reformar el Reglamento de la ley en aquellas partes que resulten necesarias para la implantación de este ordenamiento a través de un proceso participativo, tomando en cuenta la experiencia de quienes han participado en las alertas solicitadas.
+
+Cuarto. Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado para los ejecutores de gasto correspondientes, para el presente ejercicio fiscal y los subsecuentes.
