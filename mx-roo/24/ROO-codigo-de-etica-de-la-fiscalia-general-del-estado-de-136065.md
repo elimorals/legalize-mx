@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-etica-de-la-fiscalia-general-del-estado-de-136065"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-03-29"
-last_updated: "2019-03-29"
+last_updated: "2022-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO DE ÉTICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2022.
 
 Código publicado al Número 6 del Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 2019.
 
@@ -51,7 +51,9 @@ PRIMERO. El presente Código de Ética tiene por objeto orientar a los servidore
 
 SEGUNDO. El presente Código de Ética es de observancia obligatoria y aplicación general para todos los servidores públicos de la Fiscalía General del Estado de Quintana Roo.
 
-TERCERO. Para los efectos de los presentes Lineamientos, se entenderá por:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2022)</small>
+
+TERCERO. Para los efectos de este Código de Ética, se entenderá por:
 
 I. Código de Ética: El Código de Ética de los Servidores Públicos de la Fiscalía General del Estado de Quintana Roo, a que se refiere el presente Acuerdo.
 
@@ -59,7 +61,9 @@ II. Conflicto de interés: La posible afectación del desempeño imparcial y obj
 
 III. Directrices: Orientaciones para la práctica de cada uno de los principios, previstas en el artículo 7 de la Ley General de Responsabilidades Administrativas.
 
-IV. Órgano Interno de Control: Órganos Internos de Control de los entes públicos de las órdenes de gobierno, de conformidad con el artículo 3, fracción VI de la Ley General del Sistema Nacional Anticorrupción y 3, fracción X, de la Ley General de Responsabilidades Administrativas.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2022)</small>
+
+IV. Órgano Interno de Control: El Órgano Interno de Control de la Fiscalía General del Estado de Quintana Roo.
 
 V. Personas Servidoras Públicas: Aquellas que desempeñan un empleo, cargo o comisión en la Fiscalía General del Estado de Quintana Roo.
 
@@ -67,11 +71,23 @@ VI. Sistema: Sistema Estatal Anticorrupción.
 
 VII. Valores: Cualidad o conjunto de cualidades por las que una persona servidora pública es apreciada o bien considerada en el servicio público.
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2022)</small>
+
+VIII. Principios Rectores del Servicio Público: Normas de carácter constitucional y legal, que orientan y regulan el actuar de las personas servidoras públicas de la Fiscalía General, en el desempeño de su empleo, cargo o comisión.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2022)</small>
+
+IX. Reglas de Integridad: Son las establecidas con estructura lógica en relación a los principios rectores y valores bien delimitados para la Fiscalía General, de tal modo que permitan enfrentar dilemas éticos ante una situación dada, enfocados de manera específica al ejercicio de sus funciones, atribuciones y facultades.
+
 ### CAPÍTULO II. DE LOS CÓDIGOS DE ÉTICA
 
 CUARTO. El Código de Ética constituirá un elemento de la política de integridad de los entes públicos, para el fortalecimiento de un servicio público ético e íntegro. Será el instrumento que contendrá los principios y valores considerados como fundamentales para la definición del rol del servicio público y que buscará incidir en el comportamiento y desempeño de las personas servidoras públicas, para formar una ética e identidad profesional compartida y un sentido de orgullo de pertenencia al servicio público.
 
 El Código de Ética establecerá mecanismos de capacitación de las personas servidoras públicas en el razonamiento sobre los principios y valores que deberán prevalecer en la toma de decisiones y en el correcto ejercicio de la función pública en una situación dada.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2022)</small>
+
+#### SECCIÓN ÚNICA. DE LOS PRINCIPIOS RECTORES DEL SERVICIO PÚBLICO
 
 QUINTO. El Código de Ética contiene los principios constitucionales, legales y éticos que deben observar los Servidores Públicos y, asimismo, rigen a la Fiscalía General del Estado de Quintana Roo:
 
@@ -141,6 +157,34 @@ SEXTO: Todo servidor público de la Fiscalía General del Estado tendrá la obli
 
 16. Trabajo en equipo: Las personas servidoras públicas de la Fiscalía General del Estado de Quintana Roo deben cumplir los fines y objetivos del servicio público en base a la cooperación y el trabajo en equipo. Deberán promover el compañerismo, la solidaridad y el sentido de cuerpo y de pertenencia al servicio público. Buscando incrementar la posibilidad de un trabajo bien hecho a partir de la complementariedad, la coordinación, la comunicación, la confianza y el compromiso.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+17. Responsabilidad: Las personas servidoras públicas de la Fiscalía General del Estado de Quintana Roo deben cumplir en tiempo y forma con sus labores para lograr los objetivos institucionales.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+18. Compromiso: Las personas servidoras públicas de la Fiscalía General del Estado de Quintana Roo deben asumir con esfuerzo y voluntad los objetivos de lo planeado.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+19. Vocación de Servicio: Las personas servidoras públicas de la Fiscalía General del Estado de Quintana Roo deben asumir la responsabilidad de servir a la sociedad, dando prioridad a las demandas sociales y desempeñar sus actividades con dignidad, entrega y convicción.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+20. Solidaridad: Las personas servidoras públicas de la Fiscalía General del Estado de Quintana Roo deben actuar de forma desinteresada, vinculando en todo momento su actuar al logro del bien común.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+21. Tolerancia: Las personas servidoras públicas de la Fiscalía General del Estado de Quintana Roo deben respetar la pluralidad de ideas, creencias o prácticas de las personas en general, las personas servidoras públicas de todos los niveles jerárquicos, cuando las mismas sean diferentes a las propias; permitiendo un intercambio de opiniones para construir consensos que generen conocimiento conjunto y una convivencia armónica.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+22. Unidad: Las personas servidoras públicas de la Fiscalía General del Estado de Quintana Roo deben desempeñar sus funciones en un ambiente de colaboración con el fin de sumar esfuerzos para el logro de los objetivos y metas de la institución de manera eficaz y eficiente.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+23. Justicia: Las personas servidoras públicas de la Fiscalía General del Estado de Quintana Roo deben conocer, respetar y hacer valer los derechos de las personas, promoviendo las conductas íntegras y condenando las infracciones a las normas éticas de conducta de la institución.
+
 ### CAPÍTULO IV. DE LAS DIRECTRICES
 
 SÉPTIMO. El Código de Ética de la Fiscalía General del Estado de Quintana Roo, promoverá el conocimiento y aplicación de las directrices que establece el artículo 7 de la Ley General de Responsabilidades Administrativas.
@@ -175,23 +219,49 @@ OCTAVO. Las siguientes Reglas de Integridad deberán regir la conducta de los se
 
 13. Comportamiento Digno; Las personas servidoras públicas de la Fiscalía General del Estado de Quintana Roo en el desempeño de su empleo, cargo, comisión o función, se conducen en forma digna sin proferir expresiones, adoptar comportamientos, usar lenguaje o realizar acciones de hostigamiento o acoso sexual, manteniendo para ello, una actitud de respeto hacia las personas con las que tiene o guarda relación en la Fiscalía General del Estado.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+OCTAVO BIS. Las personas servidoras públicas bajo lo dispuesto en la regla de integridad de comportamiento digno, no deberán realizar conductas que impliquen acoso sexual, hostigamiento sexual, o cualquier otra forma de violencia que constituya una violación a los derechos humanos, con el objeto de generar ambientes laborales seguros que privilegien el respeto de las personas.
+
 ### CAPÍTULO VI. DE LA APLICACIÓN Y CUMPLIMIENTO DEL CÓDIGO DE ÉTICA
 
 NOVENO. Para la aplicación del Código de Ética, el ente público, previa aprobación de su respectivo Órgano Interno de Control, emitirá un Código de Conducta, en el que se especificará de manera puntual y concreta la forma en que las personas servidoras públicas aplicarán los principios, valores y reglas de integridad contenidas en el Código de Ética.
 
 Los principios rectores, valores y reglas de integridad se vincularán con la misión, visión, objetivos y atribuciones del ente público en particular; con el fin de que se generen mecanismos de identificación de las actividades que desempeñan las personas servidoras públicas que conforman la Fiscalía General del estado de Quintana Roo.
 
-DÉCIMO. La Fiscalía General del Estado de Quintana Roo podrá integrar un Comité de Ética o figura análoga, para lo cual el Órgano Interno de Control regulará su integración, organización, atribuciones y funcionamiento.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+DÉCIMO. La Fiscalía General del Estado de Quintana Roo podrá integrar un Comité de Ética y de Prevención de Conflictos de Interés o figura análoga, para lo cual el Órgano Interno de Control regulará su integración, organización, atribuciones y funcionamiento.
 
 DÉCIMO PRIMERO. El Órgano Interno de Control y el Comité de Ética o figura análoga en el ámbito de sus atribuciones, darán cumplimiento, y vigilarán la observancia de lo previsto en este Código de Ética.
 
-### CAPÍTULO V (SIC). DE LOS MECANISMOS DE CAPACITACIÓN Y DIFUSIÓN
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 29 DE ABRIL DE 2022)</small>
 
-DÉCIMO SEGUNDO. Para la divulgación, conocimiento y apropiación del Código de ética y el Código de Conducta de la Fiscalía General del Estado de Quintana Roo, deberá establecer, en conjunto con el Comité de Ética o figura análoga, un programa para la divulgación de dichos instrumentos y la capacitación que refuerce la prevención y sensibilización para evitar la materialización de riesgos éticos y, en su caso, refuerce la formación ética necesaria para su prevención.
+### CAPÍTULO VII. DE LOS MECANISMOS DE CAPACITACIÓN Y DIFUSIÓN
 
-Los mecanismos de capacitación a que se refiere el párrafo anterior, se impartirán de manera presencial o virtual, y podrán consistir en cursos, conferencias o cualquier otra dinámica que facilite el conocimiento y sensibilización en los principios, valores y de integridad que rigen el ejercicio del servicio público.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2022)</small>
+
+DÉCIMO SEGUNDO. Para la divulgación, conocimiento y apropiación del Código de ética y el Código de Conducta de la Fiscalía General del Estado de Quintana Roo, el Comité de Ética y de Prevención de Conflictos de Interés o análogo, deberá establecer un programa para la divulgación de dichos instrumentos y la capacitación que refuerce la prevención y sensibilización para evitar la materialización de riesgos éticos y, en su caso, refuerce la formación ética necesaria para su prevención.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+Los mecanismos de capacitación a que se refiere el párrafo anterior, se impartirán de manera presencial o virtual, a todas las personas servidoras públicas y podrán consistir en cursos, conferencias o cualquier otra dinámica que facilite el conocimiento y sensibilización en los principios, valores y reglas de integridad que rigen el ejercicio del servicio público.
 
 DÉCIMO TERCERO. El Órgano Interno de Control y la Fiscalía General del Estado de Quintana Roo deberá difundir y publicar en sus páginas de internet y en el periódico oficial del Estado de Quintana Roo el contenido de los Códigos de Ética y de Conducta; así como hacerlo del conocimiento de los servidores públicos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ABRIL DE 2022)</small>
+
+### CAPÍTULO VIII. DE LA CONSULTA E INTERPRETACIÓN
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+DÉCIMO CUARTO. El Órgano Interno de Control, interpretará para efectos administrativos el presente Código, y resolverá los casos no previstos en el mismo.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+DÉCIMO QUINTO. Cualquier persona servidora pública o particular podrá hacer del conocimiento del Órgano Interno de Control, los incumplimientos al Código de Ética, quien determinará si se actualiza una falta administrativa, sin perjuicio de las acciones que en derecho correspondan conforme a las leyes aplicables.
+
+El Comité de Ética y de Prevención de Conflictos de Interés, será una instancia de carácter preventiva, que podrá emitir recomendaciones encaminadas a mejorar el clima organizacional y evitar la reiteración de la o las conductas contrarias al contenido de este Código.
 
 T R A N S I T O R I O S
 
@@ -200,3 +270,17 @@ PRIMERO. El presente Acuerdo tendrá una vigencia indefinida y entrará en vigor
 SEGUNDO. Se abroga el Acuerdo 01/2018 emitido por la Titular del Órgano Interno de Control, mediante el cual emitió el Código de Ética y Reglas de Integridad de la Fiscalía General del Estado de Quintana Roo, dejando sin efecto todas las disposiciones jurídicas y administrativas que contravengan el presente Acuerdo.
 
 DADO EN LAS OFICINAS QUE OCUPA EL ÓRGANO INTERNO DE CONTROL DE LA FISCALÍA GENERAL DEL ESTADO, A LOS OCHO DÍAS DEL MES DE FEBRERO DE DOS MIL DIECINUEVE, LA TITULAR DEL ÓRGANO INTERNO DE CONTROL, M.D.E. AIDA LETICIA LEÓN CANTO. (Rubrica).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE MODIFICA EL CÓDIGO DE ÉTICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Quedan derogadas las disposiciones que se contrapongan al contenido del Código de Ética de la Fiscalía General del Estado de Quintana Roo, publicado en el Periódico Oficial del Estado de Quintana Roo el 29 de marzo de 2019.
+
+TERCERO. La Fiscalía General del Estado de Quintana Roo deberá publicar los Lineamientos Generales para la Integración y Funcionamiento del Comité de Ética y de Prevención de Conflictos de Interés, para Propiciar la Integridad de las Personas Servidoras Públicas de la Fiscalía General del Estado de Quitana Roo, a través del Comité de Ética y de Prevención de Conflictos de Interés, en un plazo de 15 días naturales contados a partir de la entrada en vigor del presente acuerdo.
+
+CUARTO. El Comité de Ética y de Prevención de Conflictos de Interés de la Fiscalía General del Estado de Quintana Roo deberá estar constituido en los términos de los Lineamientos Generales para la Integración y Funcionamiento del Comité de Ética y de Prevención de Conflictos de Interés, para Propiciar la Integridad de las Personas Servidoras Públicas de la Fiscalía General del Estado de Quintana Roo y para implementar acciones permanentes que Favorezcan su Comportamiento Ético, en un plazo de 40 días hábiles contados a partir de la entrada en vigor del presente Acuerdo.
