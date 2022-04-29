@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-sistema-publico-de-radiodifusion-del-1096
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-09-03"
-last_updated: "2015-09-03"
+last_updated: "2022-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109681&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-04-08"
 ---
 # ESTATUTO ORGANICO DEL SISTEMA PUBLICO DE RADIODIFUSION DEL ESTADO MEXICANO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO, PUBLICADO EN EL D.O.F. DE 29 DE ABRIL DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE ABRIL DE 2022 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 3 de septiembre de 2015.
 
@@ -1828,3 +1830,19 @@ TABLA DE CONTENIDO
 Firman por duplicado en la Ciudad de México, el 8 de abril de 2015, de conformidad con lo establecido en los artículos 15 fracción X y 21 fracción XIII de la Ley del Sistema Público de Radiodifusión del Estado Mexicano y artículo 29 del Reglamento de Sesiones de la Junta de Gobierno del Sistema Público de Radiodifusión del Estado Mexicano, los miembros de la Junta de Gobierno asistentes a su Segunda Sesión Ordinaria del año 2015, como constancia de su aprobación, al margen de todas sus hojas útiles. Rúbrica.
 
 El Presidente del Sistema Público de Radiodifusión del Estado Mexicano, Armando Antonio Carrillo Lavat.- Rúbrica.- El Suplente del Representante de la Secretaría de Gobernación, Amadeo Díaz Moguel.- Rúbrica.- La Representante del Consejo Ciudadano, Lidia Camacho Camacho.- Rúbrica.- El Suplente del Representante de la Secretaría de Educación Pública, Raúl Contreras Zubieta Franco.- Rúbrica.- La Suplente del Representante de la Secretaría de Salud, Hilda Santos Padrón.- Rúbrica.- El Representante del Consejo Ciudadano, Javier Esteinou Madrid.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 29 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO”.]
+
+Primero. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga el Estatuto Orgánico del Sistema Público de Radiodifusión del Estado Mexicano aprobado por su Junta de Gobierno en la Sesión Ordinaria de fecha 8 de abril de 2015 y publicado en el Diario Oficial de la Federación el 3 de septiembre de 2015.
+
+Tercero. Se derogan las disposiciones internas de carácter administrativo que se opongan a lo previsto por este Estatuto Orgánico.
+
+Cuarto. La estructura administrativa establecida en el presente Estatuto Orgánico podrá operar hasta el momento en que sea aprobada por las instancias correspondientes y estará sujeta a suficiencia presupuestal.
+
+No obstante lo anterior, para el correcto funcionamiento y operación del Sistema Público de Radiodifusión del Estado Mexicano, así como para cumplir con su objeto y desempeñar las atribuciones que le confiere la Ley, mientras no sea aprobada la estructura administrativa establecida en el presente Estatuto, las facultades conferidas a las unidades administrativas por el presente Estatuto que no estén autorizadas, serán ejercidas por los servidores públicos contratados a través del Programa de Honorarios autorizado por la Junta de Gobierno del Sistema.
