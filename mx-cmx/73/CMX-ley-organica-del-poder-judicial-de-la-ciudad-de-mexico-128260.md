@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-poder-judicial-de-la-ciudad-de-mexico-128260"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2021-11-29"
+last_updated: "2022-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128260&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ABRIL DE 2022.
 
 Ley publicada en el Tomo I al Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -352,13 +352,17 @@ VIII. Participar y obtener resultado favorable en el concurso de oposición, as�
 
 (DEROGADO, G.O. 2 DE SEPTIEMBRE DE 2021)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ABRIL DE 2022)</small>
+
 ###### Artículo 24.
 
-Para ejercer la titularidad de la Secretaría de Acuerdos en los Juzgados y en las Salas del Tribunal Superior de Justicia, así como para la de Proyectista de Segunda Instancia, se requiere:
+Para ejercer la titularidad de la Secretaría tanto de Acuerdos, como de Instrucción, según corresponda, en los Juzgados, Tribunales Laborales y en las Salas del Tribunal Superior de Justicia, así como para la de Proyectista de Segunda Instancia, se requiere:
 
 I. Tener la ciudadanía mexicana en pleno ejercicio de sus derechos civiles y políticos;
 
-II. Contar con Título de Licenciado en Derecho con cédula profesional expedida por la autoridad o Institución legalmente facultada para ello;
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2022)</small>
+
+II. Contar con Título de licenciatura en Derecho con cédula profesional expedida por la autoridad o Institución legalmente facultada para ello;
 
 III. Tener dos años de práctica profesional, contados desde la fecha de expedición del título.
 
@@ -804,9 +808,11 @@ Las sentencias en los asuntos a que se refieren las fracciones anteriores, se pr
 
 Cualquiera de las Magistradas o Magistrados podrá determinar que el fallo se realice en forma colegiada en razón del criterio que se va a establecer o por otra circunstancia.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2022)</small>
+
 ###### Artículo 56.
 
-Las Salas en materia laboral, conocerán de los asuntos que la Ley Federal del Trabajo y demás disposiciones jurídicas aplicables les establezcan en competencia específica.
+Las Salas que integran el Poder Judicial de la Ciudad de México, que al efecto determine el Consejo de la Judicatura, conocerán de las excusas y recusaciones, que se planteen en los conflictos laborales.
 
 ###### Artículo 57.
 
@@ -1098,29 +1104,45 @@ A falta de disposición expresa en lo establecido por esta Ley se estará a lo d
 
 El Consejo de la Judicatura a través de acuerdos generales y considerando la carga de trabajo de estos juzgados y las necesidades de presupuesto, establecerá cuando menos un juzgado de tutela en cada una de las demarcaciones territoriales.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2022)</small>
+
 ###### Artículo 78.
 
-Los juzgados Laborales conocerán de todos aquellos conflictos que el artículo 123, apartado A, fracción XXXI, de la Constitución Política de los Estados Unidos Mexicanos no tenga reservados como competencia del Poder Judicial de la Federación y que sea la competencia local en la Ciudad de México.
+El sistema de justicia laboral se integra por Tribunales Laborales para Conflictos Individuales, y para Conflictos Colectivos, los cuales tendrán la competencia para conocer de las controversias de acuerdo a su naturaleza.
+
+I. Los Tribunales Laborales para Conflictos Individuales conocerán:
+
+De los conflictos que el artículo 123 apartado A fracción XXXI de la Constitución Política de los Estados Unidos Mexicanos no tenga reservados como competencia del Poder Judicial de la Federación, que sea la competencia local en la Ciudad de México y que constituya un conflicto individual, y
+
+II. Los Tribunales Laborales para Conflictos Colectivos conocerán de todos aquellos conflictos que el artículo 123, apartado A, fracción XXXI, de la Constitución Política de los Estados Unidos Mexicanos no tenga reservados como competencia del Poder Judicial de la Federación, que sea la competencia local en la Ciudad de México y que constituya un conflicto colectivo.
 
 ### CAPÍTULO II. DE LA ORGANIZACIÓN INTERNA DE LOS JUZGADOS Y ÓRGANOS JURISDICCIONALES ORALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ABRIL DE 2022)</small>
+
 ###### Artículo 79.
 
-Cada uno de los Juzgados a que se refiere este capítulo, contará con el siguiente personal:
+Cada uno de los Juzgados o Tribunales Laborales a que se refiere este capítulo, contará con el siguiente personal:
 
 I. Un Titular, Jueza o Juez, que atenderá proporcional y equitativamente las cargas de trabajo con el objeto de lograr que el conocimiento de los asuntos a su cargo, se realice de manera inmediata y expedita;
 
-II. Las y los Secretarios de Acuerdos, Conciliadores, Proyectistas y Actuarios que requiera el servicio, y tratándose de Juzgados de Proceso Oral en materia Familiar, las Secretarías Judiciales y Auxiliares que requiera el servicio; y
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2022)</small>
+
+II. Las y los Secretarios de Acuerdos o Instructores, Conciliadores, Proyectistas y Actuarios que requiera el servicio, y tratándose de Juzgados de Proceso Oral en materia Familiar, las Secretarías Judiciales y Auxiliares que requiera el servicio; y
 
 III. Las personas servidoras públicas de la administración de justicia que autorice el presupuesto.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2022)</small>
+
 ###### Artículo 80.
 
-La persona Titular de la Secretaría de Acuerdos que determine el Juzgador, será el jefe inmediato de la oficina en el orden administrativo, dirigirá las labores de ella conforme a las instrucciones de su superior jerárquico y lo suplirá en sus ausencias, cuando no excedan de un mes.
+La persona Titular de la Secretaría de Acuerdos o de instrucción que determine el Juzgador, será el jefe inmediato de la oficina en el orden administrativo, dirigirá las labores de ella conforme a las instrucciones de su superior jerárquico y lo suplirá en sus ausencias, cuando no excedan de un mes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ABRIL DE 2022)</small>
 
 ###### Artículo 81.
 
-Son obligaciones de la o el Secretario de Acuerdos y de las y los Secretarios Auxiliares.
+Son obligaciones de las personas titulares de las Secretarías de Acuerdos o de Instrucción, así como de las y los Secretarios Auxiliares.
 
 I. Formular los proyectos de acuerdo, realizar emplazamientos y notificaciones cuando lo ordene el órgano jurisdiccional;
 
@@ -1184,21 +1206,29 @@ III. Autorizar las diligencias en que intervengan y dar fe de las resoluciones p
 
 IV. Sustituir al Titular de la Secretaría de Acuerdos en sus ausencias temporales,
 
-V. Notificar en el Juzgado, personalmente a las partes, en los juicios o asuntos que se ventilen ante él, en los términos del Código de Procedimientos Civiles vigente en la Ciudad de México;
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2022)</small>
 
-VI. Auxiliar a la o al Secretario de Acuerdos a realizar aquellas certificaciones inherentes a la función de dicha persona servidora pública;
+V. Notificar en el Juzgado, personalmente a las partes, en los juicios o asuntos que se ventilen ante él, en los términos del Código de Procedimientos Civiles vigente en la Ciudad de México y para el caso de los Tribunales Laborales, conforme a lo establecido en la Ley Federal del Trabajo;
+
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2022)</small>
+
+VI. Auxiliar a la o al Secretario de Acuerdos a realizar aquellas certificaciones inherentes a la función de dichas personas servidoras públicas; las personas auxiliares de los Secretarios Instructores, actuarán de conformidad con la Ley Federal del Trabajo;
 
 VII. Preparar adecuada y eficientemente todo lo concerniente a la audiencia de conciliación y dar cuenta al Juzgador por lo menos con tres días de anticipación a la celebración de la misma; y
 
 VIII. Las demás que su superior jerárquico y esta Ley les encomienden, incluyendo emplazamientos y notificaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ABRIL DE 2022)</small>
+
 ###### Artículo 85.
 
-Las personas Secretarias Actuarias estarán adscritos (sic) a cada Juzgado y tendrán las obligaciones siguientes:
+Las personas Secretarias Actuarias estarán adscritas a cada Juzgado o Tribunal Laboral y tendrán las obligaciones siguientes:
 
 I. Concurrir diariamente al Juzgado de adscripción en el horario previsto;
 
-II. Recibir de la Secretaría de Acuerdos los expedientes de notificaciones o diligencias que deban llevarse a cabo fuera de la oficina del propio Juzgado, firmando en el libro respectivo;
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2022)</small>
+
+II. Recibir de la Secretaría de Acuerdos o de Instrucción, según sea el caso, los expedientes de notificaciones o diligencias que deban llevarse a cabo fuera de la oficina del propio Juzgado, firmando en el libro respectivo;
 
 III. Hacer las notificaciones y practicar las diligencias decretadas por las y los Jueces, bajo la responsabilidad de la fe pública que les corresponda y dentro de las horas hábiles del día, entendiéndose por éstas las que median desde las siete hasta las diecinueve horas, devolviendo los expedientes dentro de las veinticuatro horas siguientes, previas las anotaciones en el libro respectivo. Durante las notificaciones y diligencias podrán llevar a cabo el procedimiento de mediación y, en su caso, redactar los acuerdos respectivos que hayan convenido las partes, en los términos de la Ley de la materia; y
 
@@ -1556,6 +1586,8 @@ Asimismo, conforme a las disposiciones que emita e l (sic) Consejo de la Judicat
 
 ### CAPÍTULO II. DE LAS Y LOS JUECES Y PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN DE JUSTICIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ABRIL DE 2022)</small>
+
 ###### Artículo 108.
 
 Las ausencias temporales de las y los Magistrados del Tribunal Superior de Justicia, en las diversas funciones que las leyes les encomienden, se suplirán en los términos siguientes:
@@ -1582,13 +1614,15 @@ En todo caso y mientras se hace la designación, la ausencia será suplida en lo
 
 ###### Artículo 111.
 
-Las y los Jueces serán suplidos en sus ausencias que no excedan de un mes, por la persona Secretaria de Acuerdos respectivo (sic), en los términos del artículo 80 de esta Ley.
+Las y los Jueces serán suplidos en sus ausencias que no excedan de un mes, por la persona Secretaria de Acuerdos o de Instrucción, según corresponda, en los términos del artículo 80 de esta Ley.
 
 Tratándose de las ausencias de Las y los Jueces de Proceso Oral en materia Familiar, éstas serán suplidas por la persona Secretaria Judicial que estos determinen.
 
 Si la ausencia excede de un mes, pero no de tres meses, el Consejo de la Judicatura nombrará una Jueza o Juez interino. Si estos (sic) tuviera que seguir desempeñando el cargo después de transcurridos los tres meses, deberá sujetarse a examen en términos del artículo 281 de esta Ley, y se tendrá en cuenta también su actitud durante el desempeño del servicio público.
 
-Los Titulares de las Secretarías, a su vez, serán suplidos por los Conciliadores o por testigos de asistencia; el superior jerárquico deberá nombrar de inmediato y de manera provisional a una persona que ocupe la Secretaría de Acuerdos que lo sustituya.
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2022)</small>
+
+Las personas titulares de las Secretarías, a su vez, serán suplidas por las y los Conciliadores o por testigos de asistencia; el superior jerárquico deberá nombrar de inmediato y de manera provisional a una persona que ocupe la Secretaría de Acuerdos o de Instrucción que le sustituya.
 
 De igual manera las personas Secretarias Judiciales, serán suplidos (sic) por las personas Secretarias Auxiliares de Juzgado de Proceso Oral en materia Familiar, que al efecto determine el Juzgador.
 
@@ -1936,9 +1970,11 @@ En aquellos casos en que el expediente haya de remitirse únicamente para su deb
 
 Al devolver el Archivo Judicial un expediente para su radicación en el juzgado, el Titular del órgano jurisdiccional al dictar el primer auto que recaiga a esa remisión deberá hacer del conocimiento de las partes sobre la posibilidad de que una vez concluido en su totalidad el expediente, será destruido, previa digitalización del mismo.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2022)</small>
+
 ###### Artículo 167.
 
-Habrá en el archivo siete secciones: civil, familiar, penal, administrativa, laboral y constitucional y del Consejo de la Judicatura, mismas que se dividirán de acuerdo con el reglamento respectivo.
+Habrá en el archivo ocho secciones: civil, familiar, penal, administrativa, laboral y constitucional y del Consejo de la Judicatura, mismas que se dividirán de acuerdo con el reglamento respectivo.
 
 ###### Artículo 168.
 
@@ -3446,6 +3482,10 @@ X. Secretaria o Secretario de Acuerdos de Sala;
 
 XI. Secretaria o Secretario Proyectista de Sala;
 
+> <small>(ADICIONADA, G.O. 29 DE ABRIL DE 2022)</small>
+
+XI Bis. Secretaria o Secretario Instructor de Tribunales Laborales;
+
 XII. Jueza o Juez; y
 
 XIII. Magistrada o Magistrado
@@ -4122,13 +4162,17 @@ VI. En el caso de los Titulares de las Secretarías en el ramo penal, no revisar
 
 VII. Las señaladas en las fracciones VII, XIV y XVI al XX del artículo 344.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ABRIL DE 2022)</small>
+
 ###### Artículo 350.
 
-Son faltas de los Titulares de las Secretarías de Acuerdos del ramo civil, familiar y de extinción de dominio, las fijadas en el artículo anterior y, además las siguientes:
+Son faltas de las personas titulares de las Secretarías del ramo civil, familiar, de extinción de dominio y laboral, las fijadas en el artículo anterior y, además las siguientes:
 
 I. No turnar a la persona Secretaria Actuaria adscrita los expedientes que requieran notificación personal o la práctica de alguna diligencia;
 
-II. No hacer a las partes las notificaciones personales en términos de ley; que procedan cuando concurran al Juzgado o Tribunal;
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2022)</small>
+
+II. No hacer a las partes las notificaciones personales en términos de ley, que procedan cuando concurran al Juzgado o Tribunal;
 
 III. No mostrar a las partes los expedientes sin causa justificada, cuando lo soliciten, mediante el vale de resguardo respectivo y previa identificación oficial vigente, o exigir requisitos no contemplados en la ley para tal efecto;
 
@@ -4879,3 +4923,13 @@ G.O. 29 DE NOVIEMBRE DE 2021.
 Primero. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 29 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 24, PRIMER PÁRRAFO Y SU FRACCIÓN II, 56, 78, 79 PÁRRAFO PRIMERO Y SU FRACCIÓN II, 80, 81 PÁRRAFO PRIMERO; SE REFORMAN LAS FRACCIONES V Y VI DEL ARTÍCULO 84; SE REFORMAN LOS ARTÍCULOS, 85 PÁRRAFO PRIMERO Y SU FRACCIÓN II, 111 PÁRRAFOS PRIMERO Y CUARTO, 167; SE ADICIONA LA FRACCIÓN XI BIS DEL ARTÍCULO 277; Y SE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN II DEL ARTÍCULO 350, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al momento de su publicación en la Gaceta Oficial de la Ciudad de México. Los Tribunales Laborales de la Ciudad de México, iniciarán sus funciones a más tardar el 3 de octubre de 2022.
+
+TERCERO. Se derogan todas las disposiciones que contravengan el presente Decreto.
