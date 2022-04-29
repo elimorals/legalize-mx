@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-centro-de-conciliacion-laboral-del-estado-1557
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-02-18"
-last_updated: "2022-02-18"
+last_updated: "2022-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=155739&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE ABRIL DE 2022.
 
 Ley publicada en el Extraordinario Número 9 del Boletín Oficial del Estado de Baja California Sur, el viernes 18 de febrero de 2022.
 
@@ -715,7 +715,9 @@ T R A N S I T O R I O S:
 
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
-Artículo Segundo. Sin perjuicio de lo establecido en el Artículo Primero Transitorio, el Centro de Conciliación Laboral del Estado de Baja California Sur, iniciara su función conciliatoria prevista en el artículo 7 de la presente Ley, el 1° de mayo de 2022.
+> <small>(REFORMADO, B.O. 29 DE ABRIL DE 2022)</small>
+
+Artículo Segundo. Sin perjuicio de lo establecido en el Artículo Primero Transitorio, el Centro de Conciliación Laboral del Estado de Baja California Sur, iniciará su función conciliatoria prevista en el artículo 7 de la presente Ley, a más tardar el 03 de octubre de 2022, fecha prevista en el Decreto aprobado por el Senado de la República, en su calidad de Cámara Revisora, el 26 de abril de 2022, por el que se reformó el artículo Quinto Transitorio del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de Justicia Laboral, libertad Sindical y Negociación Colectiva", publicado este último en el Diario Oficial de la Federación el 1 de mayo 2019.
 
 Artículo Tercero. Para efectos del inicio de la función conciliatoria y debida operación del Centro de Conciliación Laboral del Estado de Baja California Sur, dentro del plazo indicado en el Artículo Transitorio Segundo del presente Decreto, se deberán llevar a cabo las siguientes acciones:
 
@@ -723,17 +725,23 @@ a) El Ejecutivo del Estado dentro del plazo de quince días naturales siguientes
 
 b) Dentro de los diez días siguientes a la designación que se realice de la persona Titular del Centro de Conciliación Laboral del Estado de Baja California Sur, se deberá llevar a cabo por única ocasión la instalación preparatoria de la Junta de Gobierno del Centro de Conciliación a fin de llevar a cabo de inmediato las acciones necesarias para la creación de la estructura orgánica y funcional del organismo que se crea, en plena observancia a las disposiciones aplicables. Para estos efectos el Titular del Centro de Conciliación Laboral, deberá realizar la convocatoria respectiva a los integrantes de la Junta de Gobierno;
 
-c) Asimismo deberá de llevarse a cabo el proceso de selección, designación, nombramiento, capacitación y adscripción del personal del Centro de Conciliación Laboral del Estado de Baja California Sur y sus delegaciones. En la inteligencia que estos entraran en funciones el 01 de mayo de 2022, fecha de entrada de operación del Centro de Conciliación.
+> <small>(REFORMADO, B.O. 29 DE ABRIL DE 2022)</small>
+
+c) Asimismo deberá de llevarse a cabo el proceso de selección, designación, nombramiento, capacitación y adscripción del personal del Centro de Conciliación Laboral del Estado de Baja California Sur y sus delegaciones.
 
 Artículo Cuarto. Para efectos de dar cumplimiento a lo dispuesto en el Artículo Transitorio Tercero, la Secretaría de Finanzas y Administración del Gobierno del Estado de Baja California Sur, deberá proveer los recursos suficientes y necesarios para el cumplimiento de este fin, así como una vez entrando en funciones y operación el Centro de Conciliación Laboral del Estado de Baja California Sur, deberá ministrar de acuerdo a la programación presupuestaria los recursos necesarios para que éste logre la consecución de su objeto.
 
 Artículo Quinto. La persona Titular de la Dirección General, en un plazo no mayor a treinta días naturales, contados a partir de la publicación de la Declaratoria de inicio de operaciones del Centro de Conciliación Laboral, deberá someter a consideración de la Junta de Gobierno, el Reglamento Interior del Centro de Conciliación Laboral del Estado de Baja California Sur, para su aprobación y emisión.
 
-De igual forma dentro del plazo antes indicado, la persona Titular de la Dirección General deberá presentar para su aprobación a la Junta de Gobierno los proyectos de los programas y políticas generales de trabajo para el ejercicio fiscal 2022, que orienten las actividades del Centro de Conciliación Laboral del Estado de Baja California Sur, los cuales deberán ser aprobados a más tardar el día 15 de julio de 2022.
+> <small>(REFORMADO, B.O. 29 DE ABRIL DE 2022)</small>
+
+De igual forma dentro del plazo antes indicado, la persona Titular de la Dirección General deberá presentar para su aprobación a la Junta de Gobierno los proyectos de los programas y políticas generales de trabajo para el ejercicio fiscal 2023, que orienten las actividades del Centro de Conciliación Laboral del Estado de Baja California Sur, los cuales deberán ser aprobados a más tardar 15 días naturales posteriores al término señalado en el párrafo anterior.
 
 Artículo Sexto. El servicio profesional entrará en vigor un año después de la creación del Centro de Conciliación Laboral del Estado de Baja California Sur, y su implementación será gradual conforme a los lineamientos y manuales que presente el Director General o Directora General del Centro de Conciliación Laboral del Estado de Baja California Sur, y que sean aprobados por la Junta de Gobierno; durante el procedimiento de contratación, se actualizará y capacitará a todo el personal con la finalidad de dar cumplimiento a los principios y valores en que se sostiene el servicio profesional que requiere el Centro de Conciliación Laboral del Estado de Baja California Sur.
 
-Artículo Séptimo. En cumplimiento del Artículo Transitorio Décimo Tercero del Decreto No. 2805 por el que se Reforman y Adicionan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Baja California Sur, emitido por el H. Congreso del Estado de Baja California Sur en fecha 14 de diciembre del año 2021, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el 27 de diciembre de 2021; El H. Congreso del Estado de Baja California Sur, deberá emitir la Declaratoria de entrada en funciones del Centro de Conciliación Laboral del Estado de Baja California Sur, a más tardar el día 30 de abril de 2022, lo anterior acorde a lo establecido en el Artículo Transitorio Segundo del presente Decreto. Dicha Declaratoria deberá ser ampliamente difundida en todo el territorio del Estado y publicarse en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+> <small>(REFORMADO, B.O. 29 DE ABRIL DE 2022)</small>
+
+Artículo Séptimo. En cumplimiento del Artículo Transitorio Décimo Tercero del Decreto No. 2805 por el que se Reforman y Adicionan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Baja California Sur, emitido por el H. Congreso del Estado de Baja California Sur en fecha 14 de diciembre del año 2021, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el 27 de diciembre de 2021; el H. Congreso del Estado de Baja California Sur, deberá emitir la Declaratoria de entrada en funciones del Centro de Conciliación Laboral del Estado de Baja California Sur, a más tardar el día anterior al término señalado en el Artículo Segundo Transitorio del presente Decreto. Dicha Declaratoria deberá ser ampliamente difundida en todo el territorio del Estado y publicarse en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Artículo Octavo. Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a lo establecido en el presente decreto.
 
@@ -758,3 +766,11 @@ VÍCTOR MANUEL CASTRO COSÍO
 SECRETARIO GENERAL DE GOBIERNO
 
 HOMERO DAVIS CASTRO
+
+B.O. 29 DE ABRIL 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2824 SE REFORMAN LOS ARTÍCULOS TRANSITORIOS TERCERO Y DÉCIMO TERCERO DEL DECRETO 2805, POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR; EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO 2816, POR EL CUAL SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR; Y LOS ARTÍCULOS TRANSITORIOS SEGUNDO, EL INCISO C) DEL ARTÍCULO TERCERO, SEGUNDO PÁRRAFO DE ARTÍCULO QUINTO Y ARTÍCULO SÉPTIMO TODOS DEL RÉGIMEN TRANSITORIO DEL DECRETO 2817, POR EL CUAL SE EXPIDE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El Presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
