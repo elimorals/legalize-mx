@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-notariado-para-el-estado-de-nayarit-43497"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-29"
-last_updated: "2021-07-28"
+last_updated: "2022-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DEL NOTARIADO PARA EL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 29 DE ABRIL DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL NOTARIADO PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2022 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de enero de 2005.
 
@@ -2236,3 +2238,39 @@ P.O. 28 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL NOTARIADO PARA EL ESTADO DE NAYARIT".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 29 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DEL NOTARIADO PARA EL ESTADO DE NAYARIT".]
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se abroga la Ley del Notariado del Estado de Nayarit, publicada en el Periódico Oficial del Estado de Nayarit el 29 de enero de 2005 y se derogan las disposiciones contrarias a esta ley.
+
+TERCERO. Para la correcta implementación de la presente ley, las Autoridades Notariales, el Notariado y las instituciones de la función notarial tendrán un plazo de 180 días hábiles a partir de la entrada en vigor de la presente ley, para realizar las adecuaciones y gestiones pertinentes. El Colegio podrá solicitar al titular del Poder Ejecutivo Estatal una prórroga por un periodo igual de tiempo, hasta treinta días antes del vencimiento del plazo anterior, la que deberá tener una debida justificación técnica y jurídica; el titular del Poder Ejecutivo podrá o no autorizar dicha prórroga.
+
+CUARTO. Las personas titulares de las Notarías del Estado de Nayarit podrán seguir utilizando los sellos que actualmente utilizan, para el desempeño de su función sin necesidad de cambiarlos con motivo de la presente ley, en el entendido de que cuando se actualice cualesquiera de los supuestos por los cuales deba generarse un nuevo sello, éste deberá ajustarse a los términos de esta ley.
+
+QUINTO. Las Patentes que en su momento fueron expedidas en favor de las actuales personas titulares de las Notarías del Estado de Nayarit mantendrán su vigencia y efectos y tendrán el carácter de permanentes y vitalicias, sin necesidad de reexpedirlas, siempre y cuando no se actualicen los supuestos de cesación del ejercicio de la función notarial.
+
+SEXTO. Se respetarán los derechos adquiridos y todos los asuntos y trámites iniciados durante la vigencia de la Ley del Notariado que se abroga; serán válidos y seguirán su tramitación conforme a las disposiciones anteriores que les sean aplicables hasta su conclusión.
+
+SÉPTIMO. El único medio de acceso al Notariado es el examen de oposición; las personas nombradas como Notarias o Notarios Suplentes, continuarán fungiendo como tales, conservando los derechos y facultades que les confiere la ley que se abroga y para efecto de lograr ser Notaria o Notario Titular, será por medio de examen de oposición.
+
+OCTAVO. El titular del Poder Ejecutivo deberá expedir el Reglamento de la presente ley en un plazo de 180 días hábiles, contados a partir de la entrada en vigor de la presente ley.
+
+NOVENO. En un plazo de sesenta días hábiles contados a partir de la entrada en vigor de la presente ley el Honorable Congreso del Estado de Nayarit deberá realizar las reformas o iniciativas correspondientes en materia de gobierno digital y las demás necesarias para dar cumplimiento a la presente ley.
+
+DÉCIMO. Los exámenes de Patente de aspirante al ejercicio notarial que hubieren sido autorizados por el titular del Poder Ejecutivo, así como los procedimientos en donde se hubiese decretado la vacancia de una Notaría con anterioridad a la vigencia de ésta ley, se continuarán tramitando hasta su conclusión conforme a la legislación que se abroga.
+
+DÉCIMO PRIMERO. El Colegio de Notarios del Estado de Nayarit deberá convocar en el término de seis meses a partir de la publicación de la presente ley, a una Asamblea General para dar a conocer la presente ley y realizar las reformas a sus ordenamientos respectivos.
+
+DÉCIMO SEGUNDO. En tanto no se expida a las Notarias o Notarios su respectivo Certificado de Firma Electrónica Notarial, para todos los fines previstos en esta ley, podrán hacer uso de su correspondiente certificado de Firma Electrónica Avanzada que les haya expedido el Servicio de Administración Tributaria.
+
+El Gobierno del Estado de Nayarit podrá celebrar con la Secretaría de Hacienda y Crédito Público, a través del Servicio de Administración Tributaria, los convenios que resulten necesarios para el cumplimiento de los fines de esta ley.
+
+Para efectos del plazo a que se refiere el artículo 82 de la ley, esté será de un año a partir de la entrada en vigor de la presente ley.
+
+DÉCIMO TERCERO. Los procedimientos administrativos instaurados por quejas presentadas en contra de Notarias o Notarios hasta antes de la vigencia de la presente ley, les serán aplicables las disposiciones relativas de la Ley del Notariado para el Estado de Nayarit que se abroga. Las quejas administrativas que se presenten a partir de la vigencia de la presente ley, les serán aplicables las disposiciones contenidas en este ordenamiento, independientemente de la fecha en que se atribuya la comisión de la falta.
+
+DÉCIMO CUARTO. Lo dispuesto en esta ley en materia de Sistema Informático, Firma Electrónica Notarial, archivo electrónico, Índice Electrónico y Apéndice Electrónico de Cotejos entrará en vigor en un plazo de un año a partir de la vigencia de la presente ley.
