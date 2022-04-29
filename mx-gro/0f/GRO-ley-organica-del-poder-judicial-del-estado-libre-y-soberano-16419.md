@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-judicial-del-estado-libre-y-soberano-164
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-05-24"
-last_updated: "2019-11-22"
+last_updated: "2022-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16419&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 129
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 24 de mayo de 2000.
 
@@ -89,15 +89,13 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 1
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2022)</small>
 
 ###### ARTICULO 1o.
 
-Esta Ley es de orden público y de observancia general, tiene por objeto la organización y regulación del funcionamiento del Poder Judicial del Estado, a quien corresponde interpretar y aplicar las leyes en asuntos civiles, familiares y penales del Fuero Común y en materia de justicia para adolescentes; así como en materia federal, cuando la Constitución de los Estados Unidos Mexicanos y las leyes federales lo faculten, y ejercer las atribuciones de carácter administrativo.
+Esta Ley es de orden público y de observancia general, tiene por objeto la organización y regulación del funcionamiento del Poder Judicial del Estado, a quien corresponde interpretar y aplicar las leyes en asuntos civiles, familiares, laborales, penales del Fuero Común, y en materia de justicia para adolescentes; así como en materia federal, cuando la Constitución Política de los Estados Unidos Mexicanos y las leyes federales lo faculten, y ejercer las atribuciones de carácter administrativo.
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
-
-Asimismo, garantizar el derecho a una efectiva impartición de justicia en materia civil, penal, familiar y para adolescentes por medio de magistrados y jueces independientes, imparciales, especializados y profesionales.
+Asimismo, garantizar el derecho a una efectiva impartición de justicia en materia civil, penal, familiar, laboral y para adolescentes por medio de magistrados y jueces independientes, imparciales, especializados y profesionales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
 
@@ -108,6 +106,14 @@ El Poder Judicial del Estado se integra por el Tribunal Superior de Justicia, el
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
 Los Juzgados de Primera Instancia serán Civiles, Familiares, Penales, Mixtos, de Control, Tribunales de enjuiciamiento, de Ejecución Penal, de Justicia para Adolescentes y los que, con cualquier otra denominación, se creen.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+El Poder Judicial del Estado contará con Tribunales Laborales Unitarios que conocerán en única instancia y tendrán la competencia que establezca la Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+Para efectos de los derechos, obligaciones y faltas administrativas que establece esta ley, los Jueces Laborales se equiparan, en lo conducente, a los Jueces de Primera Instancia del Estado.
 
 ###### ARTICULO 3o.
 
@@ -175,9 +181,9 @@ XIX.- La autoridad de medidas cautelares y de la suspensión condicional del pro
 
 El Tribunal Superior de Justicia tiene jurisdicción en todo el territorio del Estado y su sede en la Capital del mismo, excepto en los casos previstos en la Constitución Política Local.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2022)</small>
 
-La competencia de cada uno de los órganos jurisdiccionales se fijará con arreglo a esta Ley, Código Procesal Civil del Estado, Código Nacional de Procedimientos Penales, Ley de Justicia para Adolescentes, Ley de Ejecución Penal y demás leyes y reglamentos aplicables.
+La competencia de cada uno de los órganos jurisdiccionales se fijará con arreglo a esta Ley, Código Procesal Civil del Estado, Código Nacional de Procedimientos Penales, Ley de Justicia para Adolescentes, Ley de Ejecución Penal, Ley Federal del Trabajo y demás leyes y reglamentos aplicables.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
@@ -347,113 +353,121 @@ VI.- Conocer y calificar la recusación o la excusa conjunta o de la mayoría de
 
 VII.- Resolver los conflictos de competencia o de cualquier otra índole que surjan entre las diversas Salas del Tribunal, teniendo voz pero no voto, los Magistrados de las Salas en conflicto;
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2022)</small>
+
+VIII.- Conocer y calificar las excusas y recusaciones de las y los Juzgadores y Secretarios Instructores de los Tribunales Laborales;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2022)</small>
+
+IX.- Resolver los conflictos de competencia que surjan entre los Tribunales Laborales del Estado;
+
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-VIII.- Nombrar y remover a los Secretarios General y Auxiliar de Acuerdos del Tribunal Superior de Justicia, al Administrador General de los Tribunales del Sistema Penal Acusatorio, y demás personal necesario;
+X.- Nombrar y remover a los Secretarios General y Auxiliar de Acuerdos del Tribunal Superior de Justicia, al Administrador General de los Tribunales del Sistema Penal Acusatorio, y demás personal necesario;
 
 > <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-IX.- Determinar el número, creación o supresión, organización y funcionamiento, así como especialización y competencia territorial, en su caso, de los juzgados en los Distritos Judiciales. Para ello se realizará el diagnóstico de su funcionamiento, demanda, y otros requerimientos, cada tres años en los Distritos Judiciales. Como efecto de este, se propondrá y / o aprobará, en su caso, la ampliación o reducción de Juzgados en las instancias y materias que considere pertinente; Crear y suprimir plazas de servidores públicos del Poder Judicial. Al efecto elaborará, contemplara y solicitará, en el presupuesto anual del Poder Judicial dichas necesidades. Dicha ampliación técnicamente será previamente justificada, ello de acuerdo a la disponibilidad presupuestal existente.
+XI.- Determinar el número, creación o supresión, organización y funcionamiento, así como especialización y competencia territorial, en su caso, de los juzgados en los Distritos Judiciales. Para ello se realizará el diagnóstico de su funcionamiento, demanda, y otros requerimientos, cada tres años en los Distritos Judiciales. Como efecto de este, se propondrá y / o aprobará, en su caso, la ampliación o reducción de Juzgados en las instancias y materias que considere pertinente; Crear y suprimir plazas de servidores públicos del Poder Judicial. Al efecto elaborará, contemplara y solicitará, en el presupuesto anual del Poder Judicial dichas necesidades. Dicha ampliación técnicamente será previamente justificada, ello de acuerdo a la disponibilidad presupuestal existente.
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-X.- Conocer, en sesión pública y solemne, el informe anual de labores del Poder Judicial, que presente el Presidente del Tribunal Superior de Justicia, en el mes de diciembre de cada año;
+XII.- Conocer, en sesión pública y solemne, el informe anual de labores del Poder Judicial, que presente el Presidente del Tribunal Superior de Justicia, en el mes de diciembre de cada año;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-XI.- Nombrar a los jueces ordinarios o del sistema penal acusatorio, previo examen, propuesta y dictamen del Consejo de la Judicatura. En el nom-bramiento (sic) de los jueces se ga-rantizará (sic) el respeto al principio de equidad de género.
+XIII.- Nombrar a los jueces ordinarios o del sistema penal acusatorio, previo examen, propuesta y dictamen del Consejo de la Judicatura. En el nom-bramiento (sic) de los jueces se ga-rantizará (sic) el respeto al principio de equidad de género.
 
-XII.- Nombrar a los Secretarios de Acuerdos, Auxiliares, Proyectistas, Actuarios y demás Personal de confianza de las Salas del Tribunal Superior de Justicia;
+XIV.- Nombrar a los Secretarios de Acuerdos, Auxiliares, Proyectistas, Actuarios y demás Personal de confianza de las Salas del Tribunal Superior de Justicia;
 
-XIII.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
+XV.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
-XIV.- Crear las comisiones necesarias que coadyuven a la buena marcha de la impartición de la justicia;
-
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
-
-XV.- Designar al magistrado que integrará el Consejo de la Judicatura, conforme a lo dispuesto en la Constitución Política local;
-
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
-
-XVI.- Adscribir, readscribir y comisionar a los Jueces y a los Secretarios de Acuerdos, Actuarios, Proyectistas y demás personal de confianza del Poder Judicial, cuando las necesidades del servicio así lo exijan;
-
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
-
-XVII.- Vigilar el funcionamiento jurisdiccional de las Salas y Juzgados;
-
-XVIII.- Podrá acordar la práctica de visitas a los Juzgados; reclusorios preventivos y de ejecución de sanciones, designando al Magistrado que deba encargarse de esta visita o al Juez de Primera Instancia, cuando se trate de Juzgado de Paz; sin perjuicio, de lo que la Ley establece sobre esta materia, para el Consejo de la Judicatura;
-
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
-
-XIX.- Llamar a su presencia, o pedir informes a los Jueces, sobre asuntos relacionados con la administración de justicia; así como solicitar en cualquier tiempo, expedientes o copia de ellos, siempre que no se interrumpan los términos de Ley;
-
-XX.- Conocer y resolver las excitativas de justicia que se promuevan en contra de los Magistrados Numerarios y Supernumerarios;
-
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
-
-XXI.- Resolver sobre las renuncias de los Jueces; Secretario General de Acuerdos, Auxiliares, Secretarios de Acuerdos de las Salas, Actuarios, Proyectistas y demás personal de confianza del Poder Judicial;
+XVI.- Crear las comisiones necesarias que coadyuven a la buena marcha de la impartición de la justicia;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-XXII.- Resolver sobre las licencias con o sin goce de sueldo que soliciten los magistrados por más de quince días y hasta por noventa días;
-
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
-
-XXIII.- Conceder licencia improrrogable al Presidente del Tribunal hasta por sesenta días; concluido ese plazo, si no se reincorpora, se designará Presidente interino.
+XVII.- Designar al magistrado que integrará el Consejo de la Judicatura, conforme a lo dispuesto en la Constitución Política local;
 
 > <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-XXIV.- Conceder a los jueces licencias con goce de sueldo o sin él, por más de quince días y hasta por dos meses;
+XVIII.- Adscribir, readscribir y comisionar a los Jueces y a los Secretarios de Acuerdos, Actuarios, Proyectistas y demás personal de confianza del Poder Judicial, cuando las necesidades del servicio así lo exijan;
 
-XXV.- Expedir los reglamentos para el funcionamiento del Poder Judicial y modificarlos, en su caso, cuando sea necesario para mejorar la administración de justicia;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XIX.- Vigilar el funcionamiento jurisdiccional de las Salas y Juzgados;
+
+XX.- Podrá acordar la práctica de visitas a los Juzgados; reclusorios preventivos y de ejecución de sanciones, designando al Magistrado que deba encargarse de esta visita o al Juez de Primera Instancia, cuando se trate de Juzgado de Paz; sin perjuicio, de lo que la Ley establece sobre esta materia, para el Consejo de la Judicatura;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XXI.- Llamar a su presencia, o pedir informes a los Jueces, sobre asuntos relacionados con la administración de justicia; así como solicitar en cualquier tiempo, expedientes o copia de ellos, siempre que no se interrumpan los términos de Ley;
+
+XXII.- Conocer y resolver las excitativas de justicia que se promuevan en contra de los Magistrados Numerarios y Supernumerarios;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XXIII.- Resolver sobre las renuncias de los Jueces; Secretario General de Acuerdos, Auxiliares, Secretarios de Acuerdos de las Salas, Actuarios, Proyectistas y demás personal de confianza del Poder Judicial;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XXIV.- Resolver sobre las licencias con o sin goce de sueldo que soliciten los magistrados por más de quince días y hasta por noventa días;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XXV.- Conceder licencia improrrogable al Presidente del Tribunal hasta por sesenta días; concluido ese plazo, si no se reincorpora, se designará Presidente interino.
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XXVI.- Conceder a los jueces licencias con goce de sueldo o sin él, por más de quince días y hasta por dos meses;
+
+XXVII.- Expedir los reglamentos para el funcionamiento del Poder Judicial y modificarlos, en su caso, cuando sea necesario para mejorar la administración de justicia;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2018)</small>
 
-XXVI.- Autorizar, en casos justificados, a los Secretarios de acuerdos, encargados del despacho de un juzgado de primera instancia, en cualquier materia, para que, en ausencia del juez, emitan sentencia definitiva;
+XXVIII.- Autorizar, en casos justificados, a los Secretarios de acuerdos, encargados del despacho de un juzgado de primera instancia, en cualquier materia, para que, en ausencia del juez, emitan sentencia definitiva;
 
-XXVII.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
+XXIX.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
-XXVIII.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
+XXX.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
-XXIX.- Conocer y resolver de las acusaciones o quejas que se presenten en contra del Presidente del Tribunal y de los Magistrados de las Salas;
+XXXI.- Conocer y resolver de las acusaciones o quejas que se presenten en contra del Presidente del Tribunal y de los Magistrados de las Salas;
 
-XXX.- Dirimir los conflictos jurídicos que surjan entre municipios; entre éstos y cualquiera de los Poderes del Estado, o entre los propios Poderes del Estado, siempre que la resolución de tales conflictos no sea de la competencia de la Suprema Corte de Justicia de la Nación;
-
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
-
-XXXI. - Formular su proyecto de presupuesto de egresos anual para integrarlo al que le presente el Consejo de la Judicatura para el resto del Poder Judicial y remitirlo al Gobernador para que lo incorpore al presupuesto de egresos correspondiente.
-
-XXXII.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
-
-XXXIII.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
-
-XXXIV.- Presentar iniciativas sobre esta Ley Orgánica ante la Legislatura del Estado;
-
-XXXV.- Conocer y resolver los conflictos laborales suscitados entre el Poder Judicial y sus servidores públicos, a partir del dictamen que le presente la Comisión Substanciadora del propio Poder Judicial;
-
-XXXVI.- Nombrar Delegados en los juicios de amparo que se promuevan contra actos del Pleno; nombrar representantes con carácter de mandatarios para que representen al Tribunal Superior de Justicia en los conflictos laborales suscitados entre el Poder Judicial y sus servidores públicos;
-
-XXXVII.- Autorizar al Presidente para que a nombre del Pleno del Tribunal otorgue poderes generales o especiales;
-
-XXXVIII.- Autorizar al Presidente para que a nombre del Pleno del Tribunal Superior, celebre convenios que coadyuven a la buena administración de justicia;
+XXXII.- Dirimir los conflictos jurídicos que surjan entre municipios; entre éstos y cualquiera de los Poderes del Estado, o entre los propios Poderes del Estado, siempre que la resolución de tales conflictos no sea de la competencia de la Suprema Corte de Justicia de la Nación;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-XXXIX.- Solicitar al Consejo de la Judicatura expida los reglamentos y acuerdos generales para la debida regulación de su organización, funcionamiento, administración y competencias;
+XXXIII. - Formular su proyecto de presupuesto de egresos anual para integrarlo al que le presente el Consejo de la Judicatura para el resto del Poder Judicial y remitirlo al Gobernador para que lo incorpore al presupuesto de egresos correspondiente.
 
-XL.- Solicitar al Consejo de la Judicatura se investigue la conducta de los Jueces;
+XXXIV.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
-XLI.- Revisar, confirmar, modificar o revocar, en su caso, por el voto de cuando menos doce de sus integrantes, los acuerdos generales que expida el Consejo de la Judicatura. La resolución recaída a los mismos, deberá estar debidamente fundada y motivada;
+XXXV.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
-XLII.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
+XXXVI.- Presentar iniciativas sobre esta Ley Orgánica ante la Legislatura del Estado;
+
+XXXVII.- Conocer y resolver los conflictos laborales suscitados entre el Poder Judicial y sus servidores públicos, a partir del dictamen que le presente la Comisión Substanciadora del propio Poder Judicial;
+
+XXXVIII.- Nombrar Delegados en los juicios de amparo que se promuevan contra actos del Pleno; nombrar representantes con carácter de mandatarios para que representen al Tribunal Superior de Justicia en los conflictos laborales suscitados entre el Poder Judicial y sus servidores públicos;
+
+XXXIX.- Autorizar al Presidente para que a nombre del Pleno del Tribunal otorgue poderes generales o especiales;
+
+XL.- Autorizar al Presidente para que a nombre del Pleno del Tribunal Superior, celebre convenios que coadyuven a la buena administración de justicia;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-XLIII.- Solicitar al Gobernador del Estado, el nombramiento de magistrado del Tribunal Superior de Justicia.
+XLI.- Solicitar al Consejo de la Judicatura expida los reglamentos y acuerdos generales para la debida regulación de su organización, funcionamiento, administración y competencias;
+
+XLII.- Solicitar al Consejo de la Judicatura se investigue la conducta de los Jueces;
+
+XLIII.- Revisar, confirmar, modificar o revocar, en su caso, por el voto de cuando menos doce de sus integrantes, los acuerdos generales que expida el Consejo de la Judicatura. La resolución recaída a los mismos, deberá estar debidamente fundada y motivada;
+
+XLIV.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XLV.- Solicitar al Gobernador del Estado, el nombramiento de magistrado del Tribunal Superior de Justicia.
 
 > <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-XLIV.- Las demás que le confieran las Leyes.
+XLVI.- Las demás que le confieran las Leyes.
 
 ### CAPITULO III. DEL PRESIDENTE DEL TRIBUNAL
 
@@ -707,15 +721,27 @@ Las Salas del Tribunal Superior de Justicia, tendrán Secretarios de Acuerdos, S
 
 En cada Cabecera de Distrito habrá cuando menos un Juzgado de Primera Instancia de jurisdicción mixta; excepto en aquellos en que la demanda del servicio exija el establecimiento de Juzgados por materia, que podrá ser Civil, Familiar, Penal o de justicia para adolescentes.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+Los Juzgados y Tribunales en materia penal del sistema acusatorio y los de justicia para adolescentes, así como los Tribunales Laborales tendrán la demarcación territorial que se determinen en la normatividad correspondiente.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
 
 ###### ARTICULO 33.
 
 Los juzgados de primera instancia se integrarán con un juez, secretarios de acuerdos y demás personal que sea necesario para el cumplimiento de sus funciones. No obstante, los tribunales de enjuiciamiento y de justicia para adolescentes se integrarán con el número de jueces y personal especializado que se requieran de acuerdo a las necesidades del trabajo y asi lo determine el Pleno del Tribunal Superior de Justicia.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE ABRIL DE 2022)</small>
+
+Los Tribunales Laborales estarán conformados por un Juez, Secretario Instructor, Secretario de Estudio, Secretarios Auxiliares, Actuario, Coordinador Técnico Administrativo, Auxiliar de Control de Gestión, Técnico de Audio y Video, Oficial de Partes, Archivista, y los oficiales administrativos y demás personal que sean necesarios para su funcionamiento.
+
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
 Cuando los jueces, por disposición de la ley, sean fedatarios de sus propios actos, podrá prescindirse de los secretarios de acuerdos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE ABRIL DE 2022)</small>
+
+Podrá operar una central de actuarios en los casos que se requiera para el mejor despacho de los asuntos.
 
 ###### ARTICULO 34.
 
@@ -723,11 +749,11 @@ Los Jueces de Primera Instancia, durarán en su cargo seis años contados a part
 
 Podrán ser designados nuevamente por otro período de seis años y en caso de que fueran ratificados concluído este segundo período, solamente podrán ser privados de sus cargos en los términos del Título Décimo Tercero de la Constitución Política local.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2022)</small>
 
-###### ARTICULO 35.
+###### ARTÍCULO 35.
 
-Para ser Juez de Primera Instancia, se requiere cumplir con los mismos requisitos de los Magistrados del Tribunal Superior de Justicia, con excepción de la edad y tiempo de ejercicio de la profesión, que serán de veinticinco años de edad y tener tres años de práctica profesional.
+Para ser Juez de Primera Instancia se requiere cumplir con los mismos requisitos de los Magistrados del Tribunal Superior de Justicia, con excepción de la edad y tiempo de ejercicio de la profesión, que serán de treinta años de edad y de cinco años, al menos, en la antigüedad del título y cédula profesionales.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
 
@@ -745,9 +771,15 @@ V.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
 Estarán impedidos para ocupar el cargo de juez de primera instancia los que hayan ocupado el cargo de gobernador del Estado, secretario de despacho del Ejecutivo, Procurador o Fiscal General, Senador, Diputado federal o local, o Presidente municipal, durante los dos años previos al día de su nombramiento.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
 Los nombramientos de Jueces serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios como funcionario profesional judicial y que se hayan conducido con eficiencia y probidad en la administración de justicia o que lo merezcan por honorabilidad, competencia y antecedentes en otras ramas de profesión jurídica.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
 Los aspirantes a ocupar el cargo, deberán someterse a examen de oposición teórico-práctico que aplicará el Consejo de la Judicatura Estatal, conforme al reglamento correspondiente.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
 Se exceptuarán del examen de oposición a quienes hayan fungido como Jueces de Primera Instancia o Magistrados del Tribunal Superior de Justicia, siempre que no exceda de seis años de la separación del cargo a la fecha en que solicita su nuevo ingreso.
 
@@ -791,9 +823,9 @@ Los tribunales colegiados estarán conformados por el número de jueces que se r
 
 El coordinador distribuirá la carga de trabajo, aplicando los criterios que hayan fijado los jueces con anterioridad y buscando siempre la mayor equidad, especialmente para asumir las responsabilidades del turno del tribunal o del Circuito. Cuando no se pongan de acuerdo, el Tribunal Superior de Justicia del Estado, fijará las reglas.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2022)</small>
 
-Los jueces de control, tribunales de enjuiciamiento, y jueces de ejecución penal, podrán tener competencia y jurisdicción en dos o más distritos judiciales, o incluso en todo el territorio del Estado, cuando así lo determine el Pleno del Tribunal Superior de Justicia.
+Los jueces de control, tribunales de enjuiciamiento, jueces de ejecución penal y tribunales laborales podrán tener competencia y jurisdicción en dos o más distritos judiciales, o incluso en todo el territorio del Estado, cuando así lo determine el órgano correspondiente del Poder Judicial.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
@@ -1051,6 +1083,18 @@ X.- Resolver, por vía de incidente, los reclamos que formulen los internos sobr
 
 XI.- Las demás que les confieran las leyes.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+###### ARTÍCULO 40 Octies.
+
+Los Jueces Laborales conocerán:
+
+I.- De las diferencias o los conflictos entre trabajadores y patrones a que se refiere la fracción XX, apartado A, del artículo 123 de la Constitución General;
+
+II.- De los asuntos que señalen la Ley Federal del Trabajo y otras disposiciones aplicables en materia laboral; y
+
+III.- De las demás cuestiones que les encomienden esta Ley y otros preceptos normativos.
+
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 41.
@@ -1071,11 +1115,15 @@ También les es aplicable lo previsto en el párrafo primero del artículo anter
 
 Cuando por excusa o recusación deje de conocer un Juez de Primera Instancia, conocerá del asunto el Juez que siga en número de igual materia y grado dentro del propio Distrito. Cuando en éste no exista un Juez de la materia que pueda conocer, o dejen de hacerlo los que existan, conocerá el Juez de otra materia que por turno designe el Presidente del Tribunal. Cuando se trate de excusa o recusación de un Juez Mixto de Primera Instancia, conocerá el Juez del mismo grado del distrito más próximo que designe el Tribunal en Pleno, prefiriéndose al del ramo al que concierne el asunto, si lo hubiere.
 
-###### ARTICULO 44.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2022)</small>
 
-Son atribuciones y obligaciones de los Jueces de Primera Instancia:
+###### ARTÍCULO 44.
 
-I.- Proponer al Pleno del Tribunal, los nombramientos de los Secretarios de Acuerdos, Actuarios y Proyectistas, de entre las personas calificadas de aptas por el Consejo de la Judicatura, para el desempeño de esos cargos, con excepción del personal de confianza a que se refiere la fracción XVI del artículo 16 de la presente Ley;
+Son atribuciones y obligaciones de los Jueces de Primera Instancia, y de los Jueces de Tribunales Laborales, en lo conducente, las siguientes:
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2022)</small>
+
+I.- Proponer al Pleno del Consejo de la Judicatura, para su aprobación, en su caso, los nombramientos de los Secretarios de Acuerdos, Actuarios y Proyectistas; Secretarios Instructores, Secretarios de Estudio, Secretarios Auxiliares de Instrucción y de Sala y Actuarios de Tribunales Laborales, según corresponda, de entre las personas calificadas de aptas por dicho Consejo para el desempeño de esos cargos, de acuerdo con la prelación correspondiente.
 
 II.- Proponer al Consejo de la Judicatura Estatal al personal administrativo, para que éste lo nombre;
 
@@ -1085,17 +1133,17 @@ IV.- Reunirse mensualmente con los Jueces de Paz de su adscripción, a efecto de
 
 V.- Remitir oportunamente al archivo judicial del Estado, los expedientes que ordena esta Ley;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2022)</small>
 
-VI.- Disponer lo necesario a efecto de que se continúe el trámite de las causas penales y de justicia para adolescentes, asuntos civiles y familiares hasta su terminación;
+VI.- Disponer lo necesario a efecto de que se continúe el trámite de las causas penales y de justicia para adolescentes, asuntos civiles, familiares y laborales hasta su terminación;
 
 VII.- Practicar las diligencias que les encomiende el Tribunal Superior de Justicia y las autoridades judiciales de la Federación; así como cumplimentar los exhortos, despachos y requisitorias que oficialmente reciban y estuvieren legalmente requisitados;
 
 VIII.- Dentro del plazo de tres días dar aviso al Tribunal Superior de Justicia de las causas o expedientes que radiquen;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2022)</small>
 
-IX.- Dentro de los primeros cinco días del mes, remitir al Tribunal Superior de Justicia un informe detallado de las causas penales y de justicia para adolescentes, de los asuntos civiles, mercantiles y familiares en que hubieren actuado; así como rendir con la debida oportunidad, los datos estadísticos que les soliciten las autoridades Federales y Estatales;
+IX.- Dentro de los primeros cinco días del mes, remitir al Tribunal Superior de Justicia un informe detallado de las causas penales y de justicia para adolescentes, de los asuntos civiles, mercantiles, familiares y laborales en que hubieren actuado; así como rendir con la debida oportunidad, los datos estadísticos que les soliciten las autoridades Federales y Estatales;
 
 X.- Llevar los libros de control que señale el Reglamento Interior del Tribunal Superior de Justicia;
 
@@ -1183,9 +1231,15 @@ Los Jueces de Paz actuarán con Secretarios de Acuerdos o testigos de asistencia
 
 Los Secretarios, tendrán fe pública en todo lo relativo al ejercicio de su cargo; igual fe tendrán los empleados que, en cada caso, autorice el Tribunal Superior de Justicia, Sala, Magistrado o Juez para desempeñar funciones secretariales.
 
-###### ARTICULO 53.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2022)</small>
 
-Para ser Secretario General o Auxiliar de Acuerdos, Secretario de las Salas o Proyectistas del Tribunal Superior de Justicia; Secretarios de Acuerdos o Proyectistas de los Juzgados de Primera Instancia, se requieren los mismos requisitos que se exigen para ser Juez de Primera Instancia, excepto el examen de oposición.
+###### ARTÍCULO 53.
+
+Para ser Secretario General o Auxiliar de Acuerdos del Tribunal Superior de Justicia; se requieren los mismos requisitos que se exigen para ser Juez de Primera Instancia, excepto el examen de oposición.
+
+Para ser Secretario de las Salas o Proyectistas de los Juzgados de Primera Instancia; Secretarios Instructores, Secretarios de Estudio o Secretarios Auxiliares de Tribunales Laborales, se requieren los mismos requisitos que se exigen para ser Juez de Primera Instancia, excepto el de la edad, que será de al menos 28 años.
+
+Los requisitos para ocupar los cargos de Coordinador Técnico Administrativo, Auxiliar de Control de Gestión, y Técnico de Audio y Video de Tribunal Laboral serán los que determine el Consejo de la Judicatura en el reglamento o acuerdo correspondiente.
 
 ###### ARTICULO 54.
 
@@ -1237,9 +1291,11 @@ IV.- Auxiliar al Secretario de Acuerdos de la Sala en sus funciones;
 
 V.- Las demás que les confiera esta Ley, el Reglamento Interior, el Pleno o el Presidente del Tribunal o los de las Salas.
 
-###### ARTICULO 57.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2022)</small>
 
-Los Proyectistas tendrán a su cargo la elaboración de los proyectos que les encomienden los Magistrados o Jueces de su adscripción.
+###### ARTÍCULO 57.
+
+Los Proyectistas tendrán a su cargo la elaboración de los proyectos que les encomienden los Magistrados o Jueces de su adscripción. Los Secretarios de Estudio elaborarán los proyectos que les encomienden los jueces de Tribunales Laborales.
 
 La designación de los Proyectistas de Sala, se hará preferentemente de entre los servidores públicos que se encuentren en funciones en el Poder Judicial, respetando la carrera judicial.
 
@@ -1291,13 +1347,67 @@ XIV.- Las que les señale el Reglamento Interior del Tribunal Superior de Justic
 
 El Pleno del Tribunal Superior de Justicia podrá autorizar, en casos justificados, al Secretario de acuerdos, encargado del despacho, en cualquier materia, para que emita sentencia definitiva.
 
-###### ARTICULO 60.
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2022)</small>
 
-Son obligaciones y atribuciones de los Secretarios Actuarios de los Juzgados Civiles y Familiares, las siguientes:
+###### ARTÍCULO 59 Bis.
 
-I.- Recibir las actuaciones que les sean turnadas y practicar las notificaciones, ejecuciones, aseguramientos, requerimientos, lanzamientos que procedan con arreglo a derecho y las demás diligencias ordenadas por los Jueces; y
+Son atribuciones y obligaciones de los Secretarios Instructores de los Tribunales Laborales, las siguientes:
 
-II.- Devolver las actuaciones, previas las anotaciones correspondientes.
+I.- Dirigir las actividades necesarias para la tramitación y seguimiento de los procedimientos judiciales, en el ámbito de su competencia;
+
+II.- Admitir o prevenir con inmediatez las demandas derivadas de conflictos de trabajo;
+
+III.- Adoptar las medidas necesarias para la debida atención de personas en condiciones de vulnerabilidad que intervengan en los procedimientos judiciales, dentro del ámbito de su competencia;
+
+IV.- Ordenar al Secretario Actuario el desahogo de visitas, traslados y notificaciones;
+
+V.- Admitir y proveer respecto de las pruebas ofrecidas por las partes;
+
+VI.- Dictar las providencias cautelares que resulten procedentes;
+
+VII.- Dictar las resoluciones conducentes hasta antes de la audiencia preliminar;
+
+VIII.- Verificar que las notificaciones personales estén debidamente practicadas;
+
+IX.- Hacer constar oralmente el registro, fecha, hora y lugar de las audiencias, el nombre de quienes intervendrán y tomar la protesta de ley a las partes;
+
+X.- Vigilar que la conducta del personal a su cargo se ajuste a lo dispuesto en esta Ley, el Código de Ética y el Reglamento Interior del Tribunal Superior de Justicia;
+
+XI.- Informar al Juez de las faltas administrativas cometidas por el personal a su cargo;
+
+XII.- Despachar los exhortos, requisitorias y colaboraciones que reciba el Tribunal, observando las formalidades procesales correspondientes;
+
+XIII.- Registrar, administrar, dar seguimiento y supervisar el cumplimiento de los amparos que se promuevan contra resoluciones o sentencia definitivas, de conformidad con la Ley de Amparo;
+
+XIV.- Expedir copias certificadas de registros y actuaciones procesales a los interesados;
+
+XV.- Certificar las actas que se generen a través del sistema de gestión judicial;
+
+XVI.- Auxiliar al Juez en los casos que determine la Ley Federal del Trabajo;
+
+XVII.- Administrar la agenda del Juez, a fin de realizar el registro de las audiencias ordenadas en los asuntos de su competencia;
+
+XVIII.- Disponer la tramitación inmediata del escrito de emplazamiento a huelga en los términos de la Ley Federal del Trabajo; y
+
+XIX.- Las demás que le confiera esta Ley, la Ley Federal del Trabajo, los acuerdos emitidos por el Pleno del Consejo de la Judicatura, las que le asigne el Juez y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+###### ARTÍCULO 59 Ter.
+
+Los Secretarios Auxiliares de los Tribunales Laborales apoyarán a los Secretarios Instructores en el cumplimiento de su función.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+###### ARTÍCULO 60.
+
+Son obligaciones y atribuciones de los Secretarios Actuarios de los Juzgados Civiles, Familiares y Laborales, las siguientes:
+
+I.- Recibir las actuaciones que les sean turnadas y practicar las notificaciones, ejecuciones, aseguramientos, requerimientos, lanzamientos que procedan con arreglo a derecho y las demás diligencias ordenadas por los Jueces;
+
+II.- Devolver las actuaciones, previas las anotaciones correspondientes; y
+
+III.- Las demás que se deriven de otras disposiciones aplicables.
 
 ###### ARTICULO 61.
 
@@ -1315,9 +1425,11 @@ Los Secretarios y demás empleados de la Administración de Justicia del Estado,
 
 Los Secretarios, Proyectistas, Actuarios y demás empleados del Poder Judicial, en bien de la Administración de Justicia, tienen la obligación de asistir a sus labores en horas del despacho y también en las extraordinarias cuando la función lo requiera, desempeñando las mismas con eficacia conforme a las órdenes que reciban.
 
-###### ARTICULO 64.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2022)</small>
 
-En aquellos Distritos Judiciales en los que se establezcan dos o más Juzgados Civiles, Familiares o Penales, funcionará previo acuerdo del Consejo de la Judicatura, una Oficialía de Partes Común, la cual recibirá y turnará alternativamente y por riguroso orden numérico al Juzgado que corresponda para su conocimiento y trámite respectivo los asuntos de su competencia.
+###### ARTÍCULO 64.
+
+En aquellos Distritos Judiciales en los que se establezcan dos o más Juzgados Civiles, Familiares, Laborales o Penales funcionará, previo acuerdo del Consejo de la Judicatura, una Oficialía de Partes Común, la cual recibirá y turnará alternativamente y por riguroso orden numérico al Juzgado que corresponda para su conocimiento y trámite respectivo los asuntos de su competencia.
 
 ### CAPITULO VIII. DE LA CARRERA JUDICIAL
 
@@ -1339,11 +1451,11 @@ IV.- El sistema salarial, y
 
 V.- Los programas para la capacitación, actualización y desarrollo de los servidores públicos del Poder Judicial.
 
-###### ARTICULO 66.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+###### ARTÍCULO 66.
 
 La carrera judicial comprende las siguientes categorías:
-
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
 I.- Titulares de los órganos:
 
@@ -1353,11 +1465,13 @@ b).- Juez de Primera Instancia del Estado;
 
 c).- Juez de Control;
 
-d) Juez de Ejecución de las Penas y Medidas de Seguridad;
+d).- Juez de Ejecución de las Penas y Medidas de Seguridad;
 
-e) Juez de Justicia Integral para Adolescentes; y
+e).- Juez de Tribunal Laboral;
 
-f).- Juez de Paz;
+f).- Juez de Justicia Integral para el Adolescente; y
+
+g).- Juez de Paz.
 
 II.- Auxiliares de los órganos:
 
@@ -1367,23 +1481,27 @@ b).- Secretario de Acuerdos y Proyectista de Sala;
 
 c).- Secretario de Acuerdos y Proyectista de Juzgado de Primera Instancia;
 
-d).- Secretario de Acuerdos y Proyectista de Juzgado de Paz; y
+d).- Secretario Instructor de Tribunal Laboral;
 
-e).- Actuario.
+e).- Secretario de Estudio, Secretario Auxiliar de Instrucción y Secretario Auxiliar de Sala, de Tribunal Laboral;
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+f).- Secretario de Acuerdos y Proyectista de Juzgado de Paz; y
+
+g).- Actuario.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2022)</small>
 
 ###### ARTICULO 67.
 
-Las designaciones para cubrir las plazas vacantes de Jueces de Primera Instancia, Jueces de Control, de Ejecución y de Justicia Integral para Adolescentes, Jueces de Paz, Secretarios de Acuerdos, Proyectistas y Actuarios de Primera Instancia, ya sean definitivas o de carácter interino, deberán realizarse en la forma y bajo las condiciones establecidas en la presente Ley y en el Reglamento correspondiente.
+Las designaciones para cubrir las plazas vacantes de Jueces de Primera Instancia, Jueces de Control, de Ejecución y de Justicia Integral para Adolescentes, Jueces de Paz, Secretarios de Acuerdos, Proyectistas y Actuarios de Primera Instancia; de Secretarios Instructores, Secretarios de Estudio, Secretarios Auxiliares de Instrucción y de Sala, y Actuarios de Tribunales Laborales, ya sean definitivas o de carácter interino, deberán realizarse en la forma y bajo las condiciones establecidas en la presente Ley y en el Reglamento correspondiente.
 
 ### CAPITULO IX. DE LOS IMPEDIMENTOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2022)</small>
 
-###### ARTICULO 68.
+###### ARTÍCULO 68.
 
-Los magistrados, jueces de primera instancia, jueces de control, de enjuiciamiento, de ejecución, de justicia para adolescentes y jueces de paz y los miembros del Consejo de la Judicatura, independientemente de las causas de impedimento que señalen las normas procedimentales, están impedidos para conocer de los asuntos sometidos a su consideración, por alguna de las siguientes causas:
+Los magistrados, jueces de primera instancia, jueces de control, de enjuiciamiento, de ejecución, de justicia para adolescentes, jueces de tribunales laborales y jueces de paz y los miembros del Consejo de la Judicatura, independientemente de las causas de impedimento que señalen las normas procedimentales, están impedidos para conocer de los asuntos sometidos a su consideración, por alguna de las siguientes causas:
 
 I.- Tener parentesco por consanguinidad en línea recta sin limitación de grado, en línea colateral hasta el cuarto grado y por afinidad hasta el segundo grado, con alguno de los interesados, sus representantes, patronos o defensores;
 
@@ -1437,11 +1555,15 @@ II.- El Secretario General de Acuerdos y el Secretario Auxiliar;
 
 III.- El Secretario General y el Secretario Auxiliar del Consejo de la Judicatura;
 
-IV.- Los Jueces de Primera Instancia del Estado, y los Conciliadores;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2022)</small>
+
+IV.- Los Jueces de Primera Instancia del Estado, los Jueces de Tribunales Laborales y los Conciliadores;
 
 V.- Los Secretarios de Acuerdos, Proyectistas de Salas, los Secretarios auxiliares y los Actuarios del Tribunal;
 
-VI.- Los Secretarios de Acuerdos, Proyectistas y Actuarios de los Juzgados de Primera Instancia;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2022)</small>
+
+VI.- Los Secretarios de Acuerdos, Proyectistas y Actuarios de los Juzgados de Primera Instancia, y los Secretarios Instructores, Secretarios Auxiliares de Instrucción y de Sala, Secretarios de Estudio y Actuarios de los Tribunales Laborales;
 
 VII.- Los Jueces de Paz, los Secretarios de Acuerdos, Proyectistas y Actuarios de los Juzgados de Paz;
 
@@ -1605,91 +1727,95 @@ VI.- Expedir acuerdos generales para el adecuado ejercicio de sus funciones. Asi
 
 VII.- Proponer al Pleno, para su aprobación, los reglamentos interiores en materia administrativa, de Examen de Oposición para ocupar el cargo de Juez de Primera Instancia, de Paz y demás Servidores Públicos, de la carrera judicial, de escalafón, de regímenes disciplinarios y los que sean necesarios para el buen funcionamiento del Poder Judicial;
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2022)</small>
+
+VIII.- Emitir las disposiciones normativas correspondientes para el funcionamiento de la justicia digital y el uso de la firma electrónica certificada en el Poder Judicial del Estado;
+
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-VIII.- Nombrar y remover libremente al Secretario General del Consejo, al Administrador General de Tribunales del Sistema Penal Acusatorio, a los Administradores de Tribunal, al Secretario Auxiliar y demás personal de confianza;
+IX.- Nombrar y remover libremente al Secretario General del Consejo, al Administrador General de Tribunales del Sistema Penal Acusatorio, a los Administradores de Tribunal, al Secretario Auxiliar y demás personal de confianza;
 
-IX.- Proponer los cambios de adscripción de los servidores públicos del Poder Judicial, de acuerdo con las necesidades del servicio;
+X.- Proponer los cambios de adscripción de los servidores públicos del Poder Judicial, de acuerdo con las necesidades del servicio;
 
-X.- Recibir, tramitar y resolver las quejas de carácter administrativo por faltas en el despacho de los asuntos que se tramitan ante las Salas del Tribunal Superior de Justicia, Juzgados y dependencias a su cargo, excepto cuando se trate de quejas contra Magistrados; de igual manera, procederá por lo que hace a la responsabilidad de servidores públicos del Poder Judicial, en los términos de la Ley respectiva.
+XI.- Recibir, tramitar y resolver las quejas de carácter administrativo por faltas en el despacho de los asuntos que se tramitan ante las Salas del Tribunal Superior de Justicia, Juzgados y dependencias a su cargo, excepto cuando se trate de quejas contra Magistrados; de igual manera, procederá por lo que hace a la responsabilidad de servidores públicos del Poder Judicial, en los términos de la Ley respectiva.
 
 Cuando la sanción impuesta al Servidor Público sea la suspensión, o destitución del cargo, o inhabilitación para ocupar otro, el Pleno del Tribunal podrá revocar, modificar o confirmar fundando y motivando debidamente según el caso, dicha sanción;
 
-XI.- Proponer al Pleno del Tribunal, estímulos y recompensas a los servidores públicos del Poder Judicial, que se hayan destacado en el desempeño de su cargo;
+XII.- Proponer al Pleno del Tribunal, estímulos y recompensas a los servidores públicos del Poder Judicial, que se hayan destacado en el desempeño de su cargo;
 
-XII.- Vigilar el funcionamiento del Organo que realice labores de compilación y sistematización de leyes, tesis, ejecutorias y jurisprudencia; así como, de la estadística e informática, de las bibliotecas y del archivo general;
+XIII.- Vigilar el funcionamiento del Organo que realice labores de compilación y sistematización de leyes, tesis, ejecutorias y jurisprudencia; así como, de la estadística e informática, de las bibliotecas y del archivo general;
 
-XIII.- Solicitar al Pleno del Tribunal Superior de Justicia o a las Salas, la información y opiniones que requiera para el mejor desempeño de sus funciones;
+XIV.- Solicitar al Pleno del Tribunal Superior de Justicia o a las Salas, la información y opiniones que requiera para el mejor desempeño de sus funciones;
 
-XIV.- Dictar las bases generales de organización y funcionamiento de sus órganos auxiliares;
+XV.- Dictar las bases generales de organización y funcionamiento de sus órganos auxiliares;
 
-XV.- Nombrar y remover a los visitadores;
+XVI.- Nombrar y remover a los visitadores;
 
-XVI.- Dictar las disposiciones generales y necesarias para el ingreso, estímulos, capacitación, ascenso y promociones por escalafón y remoción del personal administrativo del Poder Judicial;
+XVII.- Dictar las disposiciones generales y necesarias para el ingreso, estímulos, capacitación, ascenso y promociones por escalafón y remoción del personal administrativo del Poder Judicial;
 
-XVII.- Ordenar visitas periódicas a los Juzgados, para observar la conducta y desempeño técnico del personal, recibiendo las quejas que hubiese contra ellos y ejercer las atribuciones que señala esta Ley, dando cuenta de ello al Pleno del Tribunal Superior de Justicia;
+XVIII.- Ordenar visitas periódicas a los Juzgados, para observar la conducta y desempeño técnico del personal, recibiendo las quejas que hubiese contra ellos y ejercer las atribuciones que señala esta Ley, dando cuenta de ello al Pleno del Tribunal Superior de Justicia;
 
-XVIII.- Elaborar estudios acerca de leyes relacionadas con la organización y funcionamiento de la administración de justicia;
+XIX.- Elaborar estudios acerca de leyes relacionadas con la organización y funcionamiento de la administración de justicia;
 
-XIX.- Establecer Oficialías de Partes Común, cuando así lo demanden las necesidades del servicio;
+XX.- Establecer Oficialías de Partes Común, cuando así lo demanden las necesidades del servicio;
 
-XX.- Conocer de las renuncias de los servidores públicos de confianza, de base y demás personal administrativo del Poder Judicial del Estado, con excepción de lo previsto en esta materia para el Pleno del Tribunal Superior;
+XXI.- Conocer de las renuncias de los servidores públicos de confianza, de base y demás personal administrativo del Poder Judicial del Estado, con excepción de lo previsto en esta materia para el Pleno del Tribunal Superior;
 
-XXI.- Conceder licencia por más de quince días, con goce de sueldo o sin él, al personal de confianza, de base, y demás administrativos del Poder Judicial, con excepción de lo reservado al respecto para el Pleno del Tribunal Superior;
+XXII.- Conceder licencia por más de quince días, con goce de sueldo o sin él, al personal de confianza, de base, y demás administrativos del Poder Judicial, con excepción de lo reservado al respecto para el Pleno del Tribunal Superior;
 
-XXII.- Nombrar y remover, a propuesta del titular del área, al personal administrativo del Poder Judicial;
-
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
-
-XXIII.- Establecer las bases para el ingreso, la formación, capacitación, actualización, especialización y certificación de los servidores públicos del Poder Judicial y de quienes aspiren a pertenecer al mismo, así como de los programas académicos y de investigación, y expedir los documentos oficiales que acrediten estos, auxiliándose para tal efecto del Instituto para el Mejoramiento Judicial;
-
-XXIV.- Supervisar la aplicación y evaluación de los exámenes de oposición que se practiquen a los aspirantes de nuevo ingreso o para promover al personal en funciones a cargo superior, se hagan con imparcialidad, objetividad y excelencia académica, en los términos del reglamento de examen de oposición;
-
-XXV.- Establecer con aprobación del Pleno del Tribunal, los términos, cuantía y condiciones del haber por retiro de los Magistrados y Jueces, con sujeción a lo dispuesto en el reglamento respectivo;
-
-XXVI.- Conferir comisiones a sus miembros;
-
-XXVII.- Autorizar anualmente, el calendario oficial de labores del Poder Judicial;
-
-XXVIII.- Señalar los dos períodos de vacaciones anual de diez días hábiles cuando menos, para cada uno, de los que gozarán los servidores públicos del Poder Judicial;
-
-XXIX.- Autorizar al Presidente, para que a nombre del Consejo otorgue poderes generales o especiales;
-
-XXX.- Cuando se lo solicite el Pleno del Tribunal, investigar la conducta de los jueces;
-
-XXXI.- Llevar un control individual de las resoluciones emitidas por los Jueces, cuando éstas sean confirmadas, modificadas o revocadas por sus Superiores, para el efecto de proponer las medidas necesarias para una buena administración de justicia;
-
-XXXII.- Designar a los Jueces de Primera Instancia de los Ramos Civil y Penal, respectivamente, que integrarán la Comisión Técnica de la Coordinación General de Peritos;
-
-XXXIII.- Establecer los Libros de Gobierno que habrán de llevar las Salas y los Juzgados; así como, los datos que se habrán de consignar en los mismos, proponiendo al H. Pleno expida para tal efecto el Reglamento correspondiente; y
+XXIII.- Nombrar y remover, a propuesta del titular del área, al personal administrativo del Poder Judicial;
 
 > <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-XXXIV.- Dictar las medidas necesarias para el correcto funcionamiento del Centro Estatal de Mecanismos Alternativos de Solución de Controversias y ejercer las demás atribuciones en materia de mecanismos alternativos de solución de controversias que deriven en esta Ley y la ley de la materia, y
+XXIV.- Establecer las bases para el ingreso, la formación, capacitación, actualización, especialización y certificación de los servidores públicos del Poder Judicial y de quienes aspiren a pertenecer al mismo, así como de los programas académicos y de investigación, y expedir los documentos oficiales que acrediten estos, auxiliándose para tal efecto del Instituto para el Mejoramiento Judicial;
+
+XXV.- Supervisar la aplicación y evaluación de los exámenes de oposición que se practiquen a los aspirantes de nuevo ingreso o para promover al personal en funciones a cargo superior, se hagan con imparcialidad, objetividad y excelencia académica, en los términos del reglamento de examen de oposición;
+
+XXVI.- Establecer con aprobación del Pleno del Tribunal, los términos, cuantía y condiciones del haber por retiro de los Magistrados y Jueces, con sujeción a lo dispuesto en el reglamento respectivo;
+
+XXVII.- Conferir comisiones a sus miembros;
+
+XXVIII.- Autorizar anualmente, el calendario oficial de labores del Poder Judicial;
+
+XXIX.- Señalar los dos períodos de vacaciones anual de diez días hábiles cuando menos, para cada uno, de los que gozarán los servidores públicos del Poder Judicial;
+
+XXX.- Autorizar al Presidente, para que a nombre del Consejo otorgue poderes generales o especiales;
+
+XXXI.- Cuando se lo solicite el Pleno del Tribunal, investigar la conducta de los jueces;
+
+XXXII.- Llevar un control individual de las resoluciones emitidas por los Jueces, cuando éstas sean confirmadas, modificadas o revocadas por sus Superiores, para el efecto de proponer las medidas necesarias para una buena administración de justicia;
+
+XXXIII.- Designar a los Jueces de Primera Instancia de los Ramos Civil y Penal, respectivamente, que integrarán la Comisión Técnica de la Coordinación General de Peritos;
+
+XXXIV.- Establecer los Libros de Gobierno que habrán de llevar las Salas y los Juzgados; así como, los datos que se habrán de consignar en los mismos, proponiendo al H. Pleno expida para tal efecto el Reglamento correspondiente; y
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XXXV.- Dictar las medidas necesarias para el correcto funcionamiento del Centro Estatal de Mecanismos Alternativos de Solución de Controversias y ejercer las demás atribuciones en materia de mecanismos alternativos de solución de controversias que deriven en esta Ley y la ley de la materia, y
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-XXXV.- Nombrar al Defensor General del Instituto de la Defensoría Pública del Estado, de acuerdo al procedimiento establecido en el artículo 168 de la Constitución Política local, así como a los integrantes del Consejo Consultivo del mismo, de carácter honorífico, que se integrará con cinco miembros, conforme al estatuto y al reglamento interior del citado instituto.
+XXXVI.- Nombrar al Defensor General del Instituto de la Defensoría Pública del Estado, de acuerdo al procedimiento establecido en el artículo 168 de la Constitución Política local, así como a los integrantes del Consejo Consultivo del mismo, de carácter honorífico, que se integrará con cinco miembros, conforme al estatuto y al reglamento interior del citado instituto.
 
 > <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-XXXVI.- Seleccionar, nombrar y adscribir a los defensores públicos, visitadores y asesores jurídicos del Instituto de la Defensoría Pública del Estado que se requieran para el adecuado cumplimiento de sus funciones y de acuerdo al presupuesto asignado, en términos del estatuto y del reglamento interior del mismo; así como capacitarlos y resolver sobre su promoción y permanencia, conforme a lo dispuesto en la ley y reglamentación correspondientes.
+XXXVII.- Seleccionar, nombrar y adscribir a los defensores públicos, visitadores y asesores jurídicos del Instituto de la Defensoría Pública del Estado que se requieran para el adecuado cumplimiento de sus funciones y de acuerdo al presupuesto asignado, en términos del estatuto y del reglamento interior del mismo; así como capacitarlos y resolver sobre su promoción y permanencia, conforme a lo dispuesto en la ley y reglamentación correspondientes.
 
 > <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-XXXVII.- Otorgar prestaciones, estímulos y determinar las responsabilidades de los defensores públicos y asesores jurídicos del Instituto de la Defensoría Pública del Estado, de acuerdo con su estatuto y reglamento interior.
+XXXVIII.- Otorgar prestaciones, estímulos y determinar las responsabilidades de los defensores públicos y asesores jurídicos del Instituto de la Defensoría Pública del Estado, de acuerdo con su estatuto y reglamento interior.
 
 > <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-XXXVIII.- Nombrar al demás personal jurídico y administrativo del Instituto de la Defensoría Pública del Estado, de acuerdo al estatuto y reglamento correspondientes.
+XXXIX.- Nombrar al demás personal jurídico y administrativo del Instituto de la Defensoría Pública del Estado, de acuerdo al estatuto y reglamento correspondientes.
 
 > <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-XXXIX. Administrar, transparentar y rendir los informes necesarios con relación al Fondo Auxiliar para la Administración de Justicia;
+XL. Administrar, transparentar y rendir los informes necesarios con relación al Fondo Auxiliar para la Administración de Justicia;
 
 > <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-XL.- Las demás facultades que las Leyes o Reglamentos le otorguen.
+XLI.- Las demás facultades que las Leyes o Reglamentos le otorguen.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
@@ -2115,9 +2241,9 @@ IV.- Revisar los Libros de Gobierno a fin de comprobar si se encuentran en orden
 
 V.- Verificar que los procesados con libertad caucional estén cumpliendo con la obligación de presentarse en los plazos fijados;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2022)</small>
 
-VI.- Examinar si en forma y términos establecidos por la Ley, se han dictado las resoluciones y acuerdos en las causas penales y de justicia para adolescentes, así como en los expedientes civiles o familiares, y si se han practicado, en igual forma, las notificaciones y diligencias ordenadas;
+VI.- Examinar si en forma y términos establecidos por la Ley, se han dictado las resoluciones y acuerdos en las causas penales y de justicia para adolescentes, así como en los expedientes civiles, familiares o laborales, y si se han practicado, en igual forma, las notificaciones y diligencias ordenadas;
 
 VII.- De toda visita de inspección deberá levantarse acta circunstanciada, en la cual se harán constar las irregularidades que se hubiesen encontrado, las quejas o denuncias presentadas en contra de los titulares y demás servidores del órgano de que se trate. Asimismo, los titulares y demás servidores públicos del órgano podrán hacer las manifestaciones que estimen pertinentes respecto de la visita o del contenido de ésta.
 
@@ -2321,11 +2447,11 @@ ARTICULO 106 Terdecies.- El Administrador General y los Administradores de Tribu
 
 ### CAPITULO I. DE LAS INASISTENCIAS Y SUPLENCIAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2022)</small>
 
-###### ARTICULO 107.
+###### ARTÍCULO 107.
 
-Los Magistrados del Tribunal Superior de Justicia, en los casos de recusación, impedimento, excusa legal o falta temporal por licencia, serán sustituidos de conformidad con lo estipulado por la Constitución Política Local. Las faltas de los Jueces de Primera Instancia por renuncia, término del encargo, cambio de adscripción, licencia o vacaciones, serán cubiertas por el Secretario del Juzgado que para ese efecto determine el Presidente del Tribunal y aquél tendrá todas las facultades del Titular, pero para dictar sentencia definitiva deberá ser autorizado previamente, en casos justificados, por el Pleno del Tribunal superior de Justicia. Si la licencia dura más de treinta días se designará Juez Interino.
+Los Magistrados del Tribunal Superior de Justicia, en los casos de recusación, impedimento, excusa legal o falta temporal por licencia, serán sustituidos de conformidad con lo estipulado por la Constitución Política Local. Las faltas de los Jueces de Primera Instancia por renuncia, término del encargo, cambio de adscripción, licencia o vacaciones, serán cubiertas por el Secretario del Juzgado que para ese efecto determine el Presidente del Tribunal y aquél tendrá todas las facultades del Titular, pero para dictar sentencia definitiva deberá ser autorizado previamente, en casos justificados, por el Pleno del Tribunal Superior de Justicia. Si la licencia dura más de treinta días se designará Juez Interino. Las faltas de los Jueces de Tribunales Laborales, generadas en los mismos supuestos que las de los Jueces de Primera Instancia, serán cubiertas por un Juez de la misma materia.
 
 Las faltas temporales no previstas en el párrafo anterior, serán cubiertas por el Secretario de mayor antigüedad.
 
@@ -2441,9 +2567,83 @@ IV.- No remitir al archivo general del Tribunal, al terminar el año, los expedi
 
 Por la comisión de las faltas señaladas en este artículo, por la primera vez, se aplicará sanción de apercibimiento; por la segunda, multa hasta de cincuenta días de salario mínimo y por tercera ocasión, suspensión hasta por tres meses.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+###### ARTÍCULO 114 Bis.
+
+Son faltas de los Secretarios Instructores de los Tribunales Laborales las siguientes:
+
+I.- Descuidar o impedir el trámite de los asuntos laborales a su cargo;
+
+II.- Dictar fuera de los plazos de ley, sin causa justificada, los acuerdos o providencias cautelares que resulten procedentes;
+
+III.- Asentar en autos las certificaciones que procedan de oficio o por mandato judicial, sin sujetarse a los plazos señalados en la ley o abstenerse de hacerla;
+
+IV.- Retardar la entrega de los expedientes para su notificación personal o su diligenciación;
+
+V.- Rehusarse a mostrar los expedientes a las partes, cuando lo soliciten o cuando se hubiese publicado en el medio respectivo la resolución correspondiente;
+
+VI.- Descuidar la conservación de los expedientes, registros, escritos, documentos, objetos y valores que tengan a su cargo;
+
+VII.- Abstenerse de dar cuenta a su superior de las faltas u omisiones que hubiesen observado en el personal a su cargo; y
+
+VIII.- Incumplir las demás obligaciones que les señalen las disposiciones legales aplicables.
+
+Por la comisión de las faltas señaladas en este artículo, por la primera vez, se aplicará sanción de apercibimiento; por la segunda, multa hasta de cincuenta días de salario mínimo y por tercera ocasión, suspensión hasta por tres meses.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+###### ARTÍCULO 114 Ter.
+
+Son faltas de los Secretarios de Estudio de los Tribunales Laborales las siguientes:
+
+I.- Omitir presentar a su superior, en el tiempo establecido para ello, los proyectos de resolución encomendados;
+
+II.- Descuidar la conservación de los expedientes que les hayan sido turnados; y
+
+III.- Abstenerse de dar cuenta a su superior de las faltas u omisiones que hubiesen observado en el personal a su cargo.
+
+Por la comisión de las faltas señaladas en este artículo, por la primera vez, se aplicará sanción de apercibimiento; por la segunda, multa hasta de cincuenta días de salario mínimo y por tercera ocasión, suspensión hasta por tres meses.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+###### ARTÍCULO 114 Quater.
+
+Son faltas de los Secretarios Auxiliares de Instrucción de los Tribunales Laborales las siguientes:
+
+I.- Descuidar o impedir el trámite de los asuntos laborales en los que deban apoyar al Secretario Instructor;
+
+II.- Descuidar la conservación de los expedientes, registros, escritos, documentos, objetos y valores que tengan a su cargo por indicación del Secretario Instructor;
+
+III.- Abstenerse de dar cuenta a su superior de las faltas u omisiones que hubiesen observado en el personal a su cargo; y
+
+IV.- Incumplir las demás obligaciones que les señalen las disposiciones legales aplicables.
+
+Por la comisión de las faltas señaladas en este artículo, por la primera vez, se aplicará sanción de apercibimiento; por la segunda, multa hasta de cincuenta días de salario mínimo y por tercera ocasión, suspensión hasta por tres meses.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+###### ARTÍCULO 114 Quinquies.
+
+Son faltas de los Secretarios Auxiliares de Sala de los Tribunales Laborales las siguientes:
+
+I.- Descuidar el control o desarrollo de las audiencias del Tribunal;
+
+II.- Impedir el trámite de los asuntos laborales en los que deban apoyar al Secretario Instructor;
+
+III.- Omitir brindar apoyo al Juez o al Secretario Instructor en aquellos asuntos en los que deban auxiliarlos;
+
+IV.- Abstenerse de dar cuenta a su superior de las faltas u omisiones que hubiesen observado en el personal a su cargo; y
+
+V.- Incumplir las demás obligaciones que les señalen las disposiciones legales aplicables.
+
+Por la comisión de las faltas señaladas en este artículo, por la primera vez, se aplicará sanción de apercibimiento; por la segunda, multa hasta de cincuenta días de salario mínimo y por tercera ocasión, suspensión hasta por tres meses.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2022)</small>
+
 ###### ARTICULO 115.
 
-También se consideran faltas de los Secretarios Actuarios de las Salas, de los Juzgados y de los Secretarios de Acuerdos de los Ramos Civil y Familiar, cuando en los Juzgados de su adscripción no existan Actuarios, las siguientes:
+También se consideran faltas de los Secretarios Actuarios de las Salas, de los Juzgados y de los Tribunales Laborales, y de los Secretarios de Acuerdos de los Ramos Civil y Familiar, cuando realicen funciones de Actuario, las siguientes:
 
 I.- No hacer con la debida oportunidad y sin causa justificada las notificaciones personales, ni llevar a cabo las diligencias de sus atribuciones, cuando deban efectuarse fuera del Juzgado o del Tribunal;
 
@@ -2617,11 +2817,11 @@ En contra de esta resolución no procede recurso alguno.
 
 ### CAPITULO UNICO. DE LAS VISITAS GENERALES, ESPECIALES Y EXTRAORDINARIAS
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2022)</small>
 
-###### ARTICULO 141.
+###### ARTÍCULO 141.
 
-El Consejo de la Judicatura deberá practicar por lo menos una visita general cada año a los Juzgados de Primera Instancia y Juzgados de Paz, de lo cual deberán rendir informe al Pleno del Tribunal Superior de Justicia del Estado.
+El Consejo de la Judicatura deberá practicar por lo menos una visita general cada año a los Juzgados de Primera Instancia, Tribunales Laborales y Juzgados de Paz, de lo cual deberán rendir informe al Pleno del Tribunal Superior de Justicia del Estado.
 
 ###### ARTICULO 142.
 
@@ -2840,3 +3040,21 @@ SEGUNDA.- Remítase al titular del Poder Ejecutivo para su conocimiento para los
 TERCERO.- Comuníquese al Poder Judicial del Estado Libre y Soberano de Guerrero.
 
 CUARTO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
+
+P.O. 29 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 177, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 129, EN MATERIA DE JUSTICIA LABORAL”.]
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Los Tribunales Laborales entrarán en funcionamiento cuando lo determine el acuerdo de creación correspondiente.
+
+TERCERO.- Remítase a la Titular del Poder Ejecutivo del Estado de Guerrero, para su conocimiento y para los efectos legales conducentes.
+
+CUARTO.- Los Plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura realizarán, conforme a las disposiciones aplicables, y en el ámbito de su competencia, las designaciones de los jueces, secretarios instructores y demás personal que deban integrar los tribunales laborales.
+
+QUINTO.- El Consejo de la Judicatura y el Tribunal Superior de Justicia, en su caso, deberán tomar las providencias presupuestales y financieras necesarias de acuerdo al impacto presupuestal.
+
+SEXTO.- El Consejo de la Judicatura y el Tribunal Superior de Justicia, en su caso, deben elaborar y/o actualizar el Acuerdo y/o Reglamento correspondiente, en un término no mayor a noventa días a partir de la entrada en vigor del presente decreto.
+
+SÉPTIMO.- Publíquese y désele amplia difusión a través de la Dirección de Comunicación del Honorable Congreso del Estado Libre y Soberano de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor conocimiento.
