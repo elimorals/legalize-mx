@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2021-10-29"
+last_updated: "2022-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de marzo de 2016.
 
@@ -1107,17 +1107,17 @@ XVIII. Procuraduría para Niños, Niñas y la Familia;
 
 XIX. Secretaría de Turismo y Desarrollo de Pueblos Mágicos;
 
-> <small>[N. DE E. EL CONTENIDO DE LA FRACCIÓN XX ES SIMILAR A LA FRACCIÓN XXI.]</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2022)</small>
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE ENERO DE 2021)</small>
+XX. Centro de Justicia y Empoderamiento para las Mujeres del Estado de Coahuila de Zaragoza;
 
-XX. Centro de Justicia y Empoderamiento para las Mujeres en Coahuila.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2022)</small>
 
-> <small>[N. DE E. EL CONTENIDO DE LA FRACCIÓN XXI ES SIMILAR A LA FRACCIÓN XX.]</small>
+XXI. Instituto Electoral de Coahuila; e
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2022)</small>
 
-XXI. Centro de Justicia y Empoderamiento para las Mujeres.
+XXII. Institutos o instancias de las mujeres de los 38 municipios del Estado de Coahuila.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2020)</small>
 
@@ -1195,31 +1195,33 @@ La Secretaría Técnica del Consejo, elaborará el proyecto de reglamento para e
 
 El Programa Estatal, es el instrumento que contiene las acciones, planes y programas que llevarán a cabo las entidades públicas, de manera coordinada para prevenir, atender y erradicar la violencia contra las mujeres.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2022)</small>
+
 ###### Artículo 47.
 
-El Programa Estatal, deberá ser congruente con los planes Estatal y Nacional de Desarrollo, así como con los demás instrumentos y disposiciones aplicables a la materia. Se conformará, por lo menos, conforme a las estrategias y acciones siguientes:
+El Programa Estatal, deberá ser congruente con los planes Estatal y Nacional de Desarrollo, así como con los demás instrumentos y disposiciones aplicables a la materia.
+
+El mismo será aprobado por el Sistema Estatal, y su vigencia será de diez años, sin perjuicio de que periódicamente se realicen adecuaciones y adaptaciones necesarias para el logro de su objetivo, además deberá ser revisado anualmente dentro del sistema estatal en conjunto con sus indicadores de medición.
+
+El Programa Estatal se conformará por lo menos con las estrategias y acciones siguientes:
 
 I. Fomentar el conocimiento y el respeto al derecho de toda persona a una vida sin violencia, y la observancia en todo momento, circunstancia y ámbito de los derechos humanos de las mujeres;
 
 II. Transformar los modelos socioculturales de conducta de hombres y mujeres, incluyendo la propuesta y formulación de programas de educación formal y no formal, respectivamente, en todos los niveles y modalidades, con la finalidad de erradicar estereotipos que permitan o toleren la violencia contra las mujeres;
 
-III. Impulsar la educación y capacitación con perspectiva de género a todas las instituciones que integran el Sistema Estatal;
+III. Impulsar la educación y capacitación con perspectiva de género a todas las instituciones que integran el Sistema Estatal; así como promover y garantizar la capacitación accesible y permanente a la ciudadanía en materia de erradicación de la violencia contra las mujeres y masculinidades responsables y no violentas, a través de todos los medios disponibles;
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 2021)</small>
+IV. Proporcionar, a través de las autoridades e instituciones públicas o privadas, la atención gratuita y especializada a las víctimas de violencia que garantice un servicio de carácter sensible, con apego a lo establecido en sus respectivos reglamentos internos;
 
-IV. Impulsar la educación y capacitación con perspectiva de género a todas las instituciones que integran el Sistema Estatal; así como promover y garantizar la capacitación accesible y permanente a la ciudadanía en materia de erradicación de la violencia contra las mujeres y masculinidades responsables y no violentas, a través de todos los medios disponibles.
+V. Ofrecer a las víctimas de violencia y a las personas agresoras, el acceso a programas eficaces de reeducación, rehabilitación y capacitación, de forma tal que les permitan participar plenamente en la vida pública y social;
 
-V. Proporcionar, a través de las autoridades e instituciones públicas o privadas, la atención gratuita y especializada a las víctimas de violencia que garantice un servicio de carácter sensible, con apego a lo establecido en sus respectivos reglamentos internos;
+VI. Exhortar a los medios de comunicación para que apliquen criterios adecuados de difusión que favorezcan la erradicación de la violencia contra las mujeres en todas sus formas y contribuyan a garantizar el respeto a su dignidad;
 
-VI. Ofrecer a las víctimas de violencia y a las personas agresoras, el acceso a programas eficaces de reeducación, rehabilitación y capacitación, de forma tal que les permitan participar plenamente en la vida pública y social;
+VII. Garantizar la investigación y recopilación de estadísticas y demás información pertinente sobre las causas, consecuencias y frecuencia de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir y eliminar este tipo de violencia;
 
-VII. Exhortar a los medios de comunicación para que apliquen criterios adecuados de difusión que favorezcan la erradicación de la violencia contra las mujeres en todas sus formas y contribuyan a garantizar el respeto a su dignidad;
+VIII. Evaluar el cumplimiento de los objetivos propuestos en el propio programa; y
 
-VIII. Garantizar la investigación y recopilación de estadísticas y demás información pertinente sobre las causas, consecuencias y frecuencia de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir y eliminar este tipo de violencia;
-
-IX. Evaluar el cumplimiento de los objetivos propuestos en el propio programa; y
-
-X. Promover en la comunidad la cultura de denuncia de la violencia contra las mujeres.
+IX. Promover en la comunidad la cultura de denuncia de la violencia contra las mujeres.
 
 ### CAPÍTULO VII. DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
@@ -1559,6 +1561,20 @@ XIII. (DEROGADA, P.O. 19 DE OCTUBRE DE 2018)
 
 XIV. Las demás previstas para el cumplimiento de esta Ley.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+###### Artículo 56 Bis.
+
+Corresponde al Instituto Electoral de Coahuila:
+
+I. Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
+
+II. Incorporar la perspectiva de género al monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas en radio y televisión que difundan noticias, durante los procesos electorales;
+
+III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género; y
+
+IV. Las demás que dentro de sus competencias permitan prevenir, atender y sancionar la violencia política contra las mujeres.
+
 ###### Artículo 57.
 
 Corresponde a los municipios de la Entidad, de conformidad con esta Ley acorde con la perspectiva de género, las siguientes atribuciones:
@@ -1588,6 +1604,32 @@ IX. Llevar a cabo, de acuerdo con el Sistema Estatal, programas de información 
 X. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
 
 XI. La atención de los demás asuntos que en materia de violencia contra las mujeres que les conceda esta Ley u otros ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2022)</small>
+
+###### Artículo 57 Bis.
+
+Corresponde a los institutos o Instancias municipales de las mujeres, como mecanismos para el adelanto de las mujeres dentro del ámbito municipal:
+
+I. Proponer a las autoridades encargadas de la aplicación de la presente ley, los programas, las medidas y las acciones que consideren pertinentes, con la finalidad de prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
+
+II. Promover el impulso de la instalación de un Sistema Municipal de acceso de las mujeres a una vida libre de violencia, y el Programa Municipal de acceso de las mujeres a una vida libre de violencia;
+
+III. Colaborar con las instituciones del Sistema en el diseño y evaluación del modelo de atención a víctimas de violencia de género y el modelo de atención en los refugios;
+
+IV. Impulsar la creación de unidades de atención y protección a las víctimas de violencia prevista en la ley;
+
+V. Canalizar a las víctimas a programas reeducativos integrales que les permitan participar activamente en la vida pública, privada y social;
+
+VI. Promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas, sea proporcionada por especialistas en la materia, sin prejuicios ni discriminación alguna;
+
+VII. Difundir la cultura de respeto a los derechos humanos de las mujeres y promover que las instancias de procuración de justicia garanticen la integridad física de quienes denuncian;
+
+VIII. Impulsar la coordinación con las autoridades de los tres órdenes de gobierno, para asegurarse que las mujeres en situación de violencia de su municipio sean atendidas o en su caso canalizadas a las instancias competentes;
+
+IX. Promover la celebración de convenios de cooperación, coordinación y concertación en la materia; y
+
+X. Las demás previstas para el cumplimiento de la ley.
 
 ###### Artículo 58.
 
@@ -2604,3 +2646,15 @@ P.O. 29 DE OCTUBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 99.- SE REFORMAN LAS FRACCIONES XI Y XIII AL ARTÍCULO 6, LA FRACCIÓN III DEL ARTÍCULO 7, LA FRACCIÓN XII DEL ARTÍCULO 12, LA FRACCIÓN II DEL ARTÍCULO 50, LA FRACCIÓN XVIII Y XIX DEL ARTÍCULO 55 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 71; SE ADICIONAN LA FRACCIÓN XV, XVI Y XVII ASÍ COMO UN SEGUNDO PÁRRAFO AL ARTÍCULO 3, LAS FRACCIONES XLIII, XLIV, XLV, XLVI, XLVII, XLVIII, XLIX, Y L AL ARTÍCULO 6, LA FRACCIÓN IX DEL ARTÍCULO 50, RECORRIENDO LA ULTERIOR, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 224.- SE REFORMAN LAS FRACCIONES XX Y XXI DEL ARTÍCULO 41, EL ARTÍCULO 47; SE ADICIONA, LA FRACCIÓN XXII DEL ARTÍCULO 41 Y LOS ARTÍCULOS 56 BIS Y 57 BIS, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
