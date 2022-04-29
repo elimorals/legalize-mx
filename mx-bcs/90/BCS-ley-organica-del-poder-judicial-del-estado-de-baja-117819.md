@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-117819"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-31"
-last_updated: "2022-02-18"
+last_updated: "2022-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE ABRIL DE 2022.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de diciembre de 2016.
 
@@ -4711,10 +4711,20 @@ B.O. 18 DE FEBRERO DE 2022.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
-SEGUNDO.- Los Juzgados Laborales, atendiendo al contenido y términos del Artículo Tercero transitorio de la reforma a la Constitución Política para el Estado Libre y Soberano de Baja California Sur, que consta en el Decreto 2805, aprobado por el Honorable Congreso del Estado el día 14 de diciembre de 2021, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el día 27 de diciembre del mismo año 2021, iniciaran sus funciones a más tardar el 1º de mayo de 2022.
+> <small>(REFORMADO, B.O. 29 DE ABRIL DE 2022)</small>
+
+SEGUNDO.- Los Juzgados Laborales, atendiendo al contenido y términos del Artículo transitorio de la reforma a la Constitución Política para el Estado Libre y Soberano de Baja California Sur, que consta en el Decreto 2805, aprobado por el Honorable Congreso del Estado el 14 de diciembre de 2021, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el día 27 de diciembre del mismo año 2021, iniciaran sus funciones a más tardar el 03 de octubre de 2022, fecha prevista en el Decreto aprobado por el Senado de la República en su calidad de Cámara Revisora, el 26 de abril de 2022, por el que se reformó el artículo Quinto Transitorio del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva", publicado este último en el Diario Oficial de la Federación el 1 de mayo 2019.
 
 TERCERO.- Los artículos relativos a la creación y facultades de la Coordinación Estatal de Gestión, los Coordinadores de Gestión Jurídico Administrativa de Juzgado y la reorganización administrativa de los Juzgados Penales del Sistema Acusatorio, entrarán en vigor a los 45 días naturales contados a partir de la publicación del Presente Decreto.
 
 CUARTO.- Dentro de los 45 días naturales contados a partir de la publicación del presente Decreto, el Pleno del Consejo de la Judicatura en el Estado de Baja California Sur, deberá emitir mediante Acuerdo General, los lineamientos relativos a la reorganización Administrativa de los Juzgados Penales del Sistema Acusatorio.
 
 QUINTO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 29 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2824 SE REFORMAN LOS ARTÍCULOS TRANSITORIOS TERCERO Y DÉCIMO TERCERO DEL DECRETO 2805, POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR; EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO 2816, POR EL CUAL SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR; Y LOS ARTÍCULOS TRANSITORIOS SEGUNDO, EL INCISO C) DEL ARTÍCULO TERCERO, SEGUNDO PÁRRAFO DE (SIC) ARTÍCULO QUINTO Y ARTÍCULO SÉPTIMO TODOS DEL RÉGIMEN TRANSITORIO DEL DECRETO 2817, POR EL CUAL SE EXPIDE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El Presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
