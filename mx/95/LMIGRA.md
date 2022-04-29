@@ -4,7 +4,7 @@ identifier: "LMIGRA"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-25"
-last_updated: "2021-05-20"
+last_updated: "2022-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81425&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LMIGRA"
 
 LEY DE MIGRACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE ABRIL DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 25 de mayo de 2011.
 
@@ -528,7 +528,9 @@ La internación regular al país se efectuará en el momento en que la persona p
 
 Para entrar y salir del país, los mexicanos y extranjeros deben cumplir con los requisitos exigidos por la presente Ley, su Reglamento y demás disposiciones jurídicas aplicables.
 
-Corresponde de forma exclusiva al personal del Instituto vigilar la entrada y salida de los nacionales y extranjeros y revisar la documentación de los mismos.
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+
+Corresponde de forma exclusiva al personal del Instituto vigilar la entrada y salida de los nacionales y extranjeros y revisar la documentación de los mismos, para lo cual se podrán auxiliar de herramientas tecnológicas automatizadas, observando lo dispuesto en el artículo 16 de esta Ley.
 
 ###### Artículo 36.
 
@@ -1977,3 +1979,9 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 29 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 35 DE LA LEY DE MIGRACIÓN".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, para que el personal del Instituto Nacional de Migración pueda auxiliarse de herramientas tecnológicas automatizadas en la vigilancia de entrada y salida de nacionales y extranjeros.
