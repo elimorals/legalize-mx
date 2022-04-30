@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-sistema-estatal-anticorrupcion-de-zacatecas-122732"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-15"
-last_updated: "2019-11-23"
+last_updated: "2022-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2022.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio de 2017.
 
@@ -75,7 +75,7 @@ VIII. Establecer las políticas para la promoción de una cultura de integridad 
 
 IX. Establecer los lineamientos para la elaboración de políticas públicas y acciones permanentes encaminadas a asegurar en el servicio público un comportamiento ético y de responsabilidad, y determinar los principios básicos conforme a los cuales se deberán desempeñar los servidores públicos, con base en lo previsto por la Ley General del Sistema Nacional Anticorrupción y las disposiciones del Sistema Nacional;
 
-X. Establecer los lineamientos para el Sistema Estatal de Fiscalización;
+X. (DEROGADA, P.O. 30 DE ABRIL DE 2022)
 
 XI. Determinar mecanismos de suministros, intercambio, sistematización y actualización de la información que generen las instituciones estatales y municipales competentes en materia de fiscalización, control de recursos, combate a la corrupción y faltas administrativas;
 
@@ -117,7 +117,7 @@ XIV. Secretaría Técnica: Secretaría Técnica de la Comisión Ejecutiva perten
 
 XV. Sistema Estatal: Sistema Estatal Anticorrupción;
 
-XVI. Sistema de Fiscalización: Sistema Estatal de Fiscalización, y
+XVI. (DEROGADA, P.O. 30 DE ABRIL DE 2022)
 
 XVII. Sistema Nacional: El Sistema Nacional Anticorrupción.
 
@@ -569,103 +569,65 @@ XI. Integrar los sistemas de información necesarios para que los resultados de 
 
 XII. Proveer a la Comisión Ejecutiva los insumos necesarios para la elaboración de las propuestas dirigidas al Comité Coordinador. Podrá solicitar la información que estime pertinente, de oficio o a solicitud de los miembros de la Comisión.
 
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE ABRIL DE 2022)</small>
+
 ## TÍTULO TERCERO. SISTEMA ESTATAL DE FISCALIZACIÓN
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE ABRIL DE 2022)</small>
 
 ### CAPÍTULO I. INTEGRACIÓN Y FUNCIONAMIENTO
 
 ###### Artículo 44.
 
-El Sistema Estatal de Fiscalización tiene por objeto establecer acciones y mecanismos de coordinación entre sus integrantes, en el ámbito de sus respectivas competencias, para que promuevan el intercambio de información, ideas y experiencias encaminadas a avanzar en el desarrollo de la fiscalización de los recursos públicos.
+(DEROGADO, P.O. 30 DE ABRIL DE 2022)
 
 ###### Artículo 45.
 
-Son integrantes del Sistema de Fiscalización:
-
-I. La Auditoría;
-
-II. La Secretaría de la Función Pública del Gobierno del Estado;
-
-III. Los órganos de control interno de los Municipios, y
-
-IV. Los órganos de control interno de los organismos constitucionales autónomos.
+(DEROGADO, P.O. 30 DE ABRIL DE 2022)
 
 ###### Artículo 46.
 
-Para el cumplimiento del objeto a que se refiere el artículo anterior los integrantes del Sistema de Fiscalización deberán:
-
-I. Crear un sistema electrónico que permita ampliar la cobertura e impacto de la fiscalización de los recursos estatales y municipales, mediante la construcción de un modelo de coordinación entre el Sistema Estatal y el Sistema de Fiscalización, y
-
-II. Informar al Comité Coordinador sobre los avances en la fiscalización de recursos estatales y municipales.
-
-Todos los entes públicos fiscalizadores y fiscalizados deberán apoyar en todo momento a los Sistemas Estatal y Nacional, en los términos que establezcan la Ley General Anticorrupción y esta Ley, en la implementación de mejoras para la fiscalización de los recursos estatales y municipales.
+(DEROGADO, P.O. 30 DE ABRIL DE 2022)
 
 ###### Artículo 47.
 
-El Sistema de Fiscalización contará con un Comité Rector del Sistema de Fiscalización conformado por la Auditoría, la Secretaría de la Función Pública del Gobierno del Estado y siete miembros rotatorios de entre los órganos internos de control de los Municipios, que serán elegidos por periodos de dos años, por consenso de la Secretaría y la Auditoría.
-
-El Comité Rector del Sistema de Fiscalización será presidido de manera dual por el Auditor Superior del Estado y el titular de la Secretaría de la Función Pública, o por los representantes que de manera respectiva designen para estos efectos.
+(DEROGADO, P.O. 30 DE ABRIL DE 2022)
 
 ###### Artículo 48.
 
-Para el ejercicio de las facultades del Sistema de Fiscalización en materia de fiscalización y control de los recursos públicos, el Comité Rector del Sistema de Fiscalización ejecutará las siguientes acciones:
-
-I. El diseño, aprobación y promoción de políticas integrales en la materia;
-
-II. La instrumentación de mecanismos de coordinación entre todos los integrantes del Sistema de Fiscalización, y
-
-III. La integración e instrumentación de mecanismos de suministro, intercambio, sistematización y actualización de la información que en materia de fiscalización y control de recursos públicos generen las instituciones competentes en dichas materias.
+(DEROGADO, P.O. 30 DE ABRIL DE 2022)
 
 ###### Artículo 49.
 
-El Comité Rector del Sistema de Fiscalización emitirá las normas que regulen su funcionamiento.
+(DEROGADO, P.O. 30 DE ABRIL DE 2022)
 
 ###### Artículo 50.
 
-El Comité Rector del Sistema de Fiscalización podrá invitar a participar en actividades específicas del Sistema de Fiscalización a los órganos internos de control, así como a cualquier otra instancia que realice funciones de control, auditoría y fiscalización de recursos públicos.
+(DEROGADO, P.O. 30 DE ABRIL DE 2022)
 
 ###### Artículo 51.
 
-Los integrantes del Sistema de Fiscalización deberán homologar los procesos, procedimientos, técnicas, criterios, estrategias, programas y normas profesionales en materia de auditoría y fiscalización.
-
-Asimismo, el Sistema de Fiscalización promoverá entre sus miembros la homologación y aplicación de las normas profesionales aprobadas por el Sistema Nacional de Fiscalización.
+(DEROGADO, P.O. 30 DE ABRIL DE 2022)
 
 ###### Artículo 52.
 
-Conforme a los lineamientos que emita el Sistema Nacional de Fiscalización para la mejora institucional en materia de fiscalización, las reglas específicas contenidas en los códigos de ética y demás lineamientos de conducta, los integrantes del Sistema de Fiscalización aprobarán e implementarán las medidas para el fortalecimiento y profesionalización del personal de los órganos de fiscalización.
-
-Para tal fin, el Sistema de Fiscalización fomentará el establecimiento de un programa de capacitación coordinado, que permita incrementar la calidad profesional del personal auditor y mejorar los resultados de la auditoría y fiscalización.
+(DEROGADO, P.O. 30 DE ABRIL DE 2022)
 
 ###### Artículo 53.
 
-El Sistema de Fiscalización propiciará el intercambio de información que coadyuve al desarrollo de sus respectivas funciones.
+(DEROGADO, P.O. 30 DE ABRIL DE 2022)
 
 ###### Artículo 54.
 
-Los integrantes del Sistema de Fiscalización en el ámbito de sus respectivas atribuciones:
-
-I. Identificarán áreas comunes de auditoría y fiscalización, para que contribuyan a la elaboración de sus respectivos programas anuales de trabajo y el cumplimiento de los mismos de manera coordinada;
-
-II. Revisarán los ordenamientos legales que regulan su actuación para que, en su caso, realicen propuestas de mejora que permitan un mayor impacto en el combate a la corrupción, y
-
-III. Elaborarán y adoptarán un marco de referencia que contenga criterios generales para la prevención, detección y disuasión de actos de corrupción e incorporar las mejores prácticas para fomentar la rendición de cuentas en la gestión gubernamental.
+(DEROGADO, P.O. 30 DE ABRIL DE 2022)
 
 ###### Artículo 55.
 
-Para el fortalecimiento del Sistema de Fiscalización, sus integrantes atenderán las siguientes directrices:
-
-I. La coordinación de trabajo efectiva;
-
-II. El fortalecimiento institucional;
-
-III. Evitar duplicidades y omisiones en el trabajo de los órganos de fiscalización, en un ambiente de profesionalismo;
-
-IV. Mayor cobertura de la fiscalización de los recursos públicos, y
-
-V. Emitir información relevante en los reportes de auditoría y fiscalización, con lenguaje sencillo y accesible, que contribuya a la toma de decisiones públicas, la mejora de la gestión gubernamental y los resultados de la fiscalización.
+(DEROGADO, P.O. 30 DE ABRIL DE 2022)
 
 ###### Artículo 56.
 
-Los integrantes del Sistema de Fiscalización celebrarán reuniones ordinarias cada seis meses y extraordinarias cuantas veces sea necesario, a convocatoria de la presidencia, a fin de dar seguimiento al cumplimiento de los objetivos y acciones planteados en la presente Ley y demás legislación aplicable y para ello, podrán valerse de los medios de presencia virtual que consideren pertinentes.
+(DEROGADO, P.O. 30 DE ABRIL DE 2022)
 
 ### CAPÍTULO II. PLATAFORMA DIGITAL ESTATAL
 
@@ -693,7 +655,9 @@ II. Sistema de los servidores públicos que intervengan en procedimientos de con
 
 III. Sistema de servidores públicos y particulares sancionados;
 
-IV. Sistema de información y comunicación del Sistema Estatal y del Sistema de Fiscalización;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2022)</small>
+
+IV. Sistema de información y comunicación del Sistema Estatal;
 
 V. Sistema de denuncias públicas de faltas administrativas y hechos de corrupción, y
 
@@ -721,11 +685,15 @@ Las sanciones impuestas por faltas administrativas graves serán del conocimient
 
 Los registros de las sanciones por faltas administrativas no graves, quedarán únicamente registradas para efectos de verificación de reincidencias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2022)</small>
+
 ###### Artículo 65.
 
-El Sistema de información y comunicación del Sistema Estatal y del Sistema de Fiscalización será la herramienta digital que permita centralizar la información de todos los órganos integrantes de los mismos.
+El Sistema de información y comunicación del Sistema Estatal será la herramienta digital que permita centralizar la información de todos los órganos integrantes de los mismos.
 
-Deberá contemplar, al menos, los programas anuales de auditorías de los órganos de fiscalización, los informes públicos en términos de las disposiciones legales aplicables, así como la base de datos que permita el adecuado intercambio de información entre los miembros del Sistema de Fiscalización.
+> <small>(REFORMADO. P.O. 30 DE ABRIL DE 2022)</small>
+
+Deberá contemplar, al menos, los programas anuales de auditorías de los órganos de fiscalización, los informes públicos en términos de las disposiciones legales aplicables, así como la base de datos que permita el adecuado intercambio de información.
 
 El funcionamiento del sistema de información a que hace alusión el presente artículo, se sujetará a los mecanismos que emita el Comité Coordinador respecto a la Plataforma Estatal.
 
@@ -840,3 +808,11 @@ P.O. 23 DE NOVIEMBRE DE 2019.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de (sic) Gobierno del Estado de Zacatecas.
 
 Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 30 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 91.- SE DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan a este Decreto.
