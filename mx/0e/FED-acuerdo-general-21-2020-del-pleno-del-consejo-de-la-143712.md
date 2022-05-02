@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-21-2020-del-pleno-del-consejo-de-la-143712"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-07-31"
-last_updated: "2022-04-18"
+last_updated: "2022-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143712&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,11 +21,11 @@ issue_date: "2020-07-28"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE MAYO DE 2022 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ACUERDO GENERAL 21/2020, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA REANUDACIÓN DE PLAZOS Y AL REGRESO ESCALONADO EN LOS ÓRGANOS JURISDICCIONALES ANTE LA CONTINGENCIA POR EL VIRUS COVID-19
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ABRIL DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 2 DE MAYO DE 2022.]</small>
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 31 de julio de 2020.
 
@@ -199,7 +199,9 @@ Oficinas de Correspondencia Común (en adelante "OCC"). El trabajo y las labores
 
 I. La recepción de todos los escritos iniciales que se presenten físicamente se hará mediante su depósito en los buzones judiciales colocados en todas las OCC del país, tanto en casos urgentes como no urgentes, salvo las precisiones del siguiente párrafo y la fracción III de este precepto.
 
-Los buzones judiciales estarán habilitados de las 8:30 a las 11:59 horas para recibir asuntos no urgentes. Los urgentes se podrán depositar en el buzón judicial de lunes a jueves hasta las 14:30, ya que a partir de las 14:31 y los viernes y fines de semana, deberán presentarse directamente al órgano de guardia.
+> <small>(F. DE E., D.O.F. 2 DE MAYO DE 2022)</small>
+
+Los buzones judiciales estarán habilitados de las 8:30 a las 23:59 horas para recibir asuntos no urgentes. Los urgentes se podrán depositar en el buzón judicial de lunes a jueves hasta las 14:30, ya que a partir de las 14:31 y los viernes y fines de semana, deberán presentarse directamente al órgano de guardia.
 
 II. El personal adscrito a las OCC realizará labores presenciales y remotas, conforme al esquema descrito a continuación:
 
