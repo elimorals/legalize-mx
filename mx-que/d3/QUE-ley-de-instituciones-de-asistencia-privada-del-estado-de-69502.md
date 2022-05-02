@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-instituciones-de-asistencia-privada-del-estado-de-69502"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-24"
-last_updated: "2021-10-08"
+last_updated: "2022-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de julio de 2009.
 
@@ -427,13 +425,11 @@ XII. Entregar un informe anual de actividades a la Junta, en el mes de marzo de 
 
 XIII. Destinar los bienes y recursos de la institución, únicamente para los fines para los que fue constituida;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2022)</small>
 
-XIV. Inscribir a la institución en el Registro de instituciones de asistencia privada de la Junta;
+XIV. Inscribir a la institución en el Registro Estatal de las Organizaciones de la Sociedad Civil establecido en la Ley de Fomento de las Organizaciones de la Sociedad Civil del Estado de Querétaro, así como mantener actualizada su inscripción en el mismo;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
-
-XV. Mantener actualizado el registro de la institución ante la Junta;
+XV. (DEROGADA, P.O. 2 DE MAYO DE 2022)
 
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
@@ -665,21 +661,13 @@ XVI. Otorgar las autorizaciones que procedan a favor de las instituciones, en lo
 
 XVII. Fomentar la obtención de aportaciones y donativos a favor de las instituciones de asistencia privada;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+XVIII. (DEROGADA, P.O. 2 DE MAYO DE 2022)
 
-XVIII. Establecer y actualizar un registro de las instituciones de asistencia privada;
+XIX. (DEROGADA, P.O. 2 DE MAYO DE 2022)
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+XX. (DEROGADA, P.O. 2 DE MAYO DE 2022)
 
-XIX. Elaborar y publicar anualmente el directorio de instituciones de asistencia privada debidamente registradas;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
-
-XX. Expedir el certificado anual de registro a favor de las instituciones de asistencia privada;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
-
-XXI. Dejar sin efectos la inscripción en el registro de las instituciones de asistencia privada;
+XXI. (DEROGADA, P.O. 2 DE MAYO DE 2022)
 
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
@@ -1204,3 +1192,17 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 2 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE CREA LA LEY DE FOMENTO A LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE QUERÉTARO; DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE QUERÉTARO; Y REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. El titular de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado de Querétaro, una vez instalado el Consejo Estatal para el Fomento de las Organizaciones de la Sociedad Civil, deberá emitir la convocatoria para la conformación del Comité Técnico Consultivo a que hace referencia el presente ordenamiento.
+
+Artículo Cuarto. Envíese al Titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Quinto. La aprobación de la presente disposición normativa no implica adecuaciones o incremento al Presupuesto de Egresos del Estado de Querétaro para el ejercicio presupuestal 2022; en razón de lo anterior las unidades administrativas sujetas de la Ley materializarán su entrada en vigor conforme a la disponibilidad financiera del presente ejercicio fiscal 2022 y en los subsecuentes lo que para tal efecto presupuesten dentro del Presupuesto de Egresos del Estado de Querétaro, dentro del ejercicio fiscal que corresponda.
