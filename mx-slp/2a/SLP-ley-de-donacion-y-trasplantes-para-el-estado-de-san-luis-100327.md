@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-donacion-y-trasplantes-para-el-estado-de-san-luis-100327
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-25"
-last_updated: "2021-12-27"
+last_updated: "2022-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DONACIÓN Y TRASPLANTES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 25 de marzo de 2014.
 
@@ -1123,17 +1123,21 @@ La vigilancia sanitaria se realizará conforme a lo que establece la Ley General
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO 67.
 
-Las violaciones a las disposiciones contenidas en esta Ley serán sancionadas administrativamente por las autoridades competentes; lo anterior, sin perjuicio de las penas que correspondan cuando sean hechos constitutivos de delitos. Los funcionarios públicos que trasgredan la presente Ley, además de las sanciones antes referidas, serán sancionados en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+Las violaciones a las disposiciones contenidas en esta Ley serán sancionadas administrativamente por las autoridades competentes; lo anterior, sin perjuicio de las penas que correspondan cuando sean hechos constitutivos de delitos. Los funcionarios públicos que trasgredan la presente Ley, además de las sanciones antes referidas, serán sancionados en los términos de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
 
 ###### ARTÍCULO 68.
 
 Los procedimientos para la aplicación de las medidas de seguridad y sanciones se ajustarán a lo establecido en la Ley General de Salud, la Ley Estatal de Salud y demás ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO 69.
 
-Contra los actos y resoluciones definitivas emitidas por las autoridades en aplicación de esta Ley, procederán, de manera optativa, el Recurso de Revisión que establece la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí, o el juicio contencioso administrativo en términos de lo dispuesto por la Ley de Justicia Administrativa del Estado.
+Contra los actos y resoluciones definitivas emitidas por las autoridades en aplicación de esta Ley, procederán, de manera optativa, el Recurso de Revisión, o el juicio contencioso administrativo en términos de lo dispuesto por el Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 T R A N S I T O R I O S
 
@@ -1216,3 +1220,11 @@ P.O. 27 DE DICIEMBRE DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 2 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0309.- SE REFORMAN LOS ARTÍCULOS 67 Y 69, DE LA LEY DE DONACIÓN Y TRASPLANTES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
