@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2022-04-05"
+last_updated: "2022-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -2167,9 +2167,11 @@ III. La prevención específica en cada caso y la vigilancia de su cumplimiento,
 
 IV. Las demás que sean necesarias para la prevención, tratamiento y control de las enfermedades bucodentales que se presenten en la población.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2022)</small>
+
 ###### ARTICULO 123.
 
-Las autoridades sanitarias, en coordinación con las autoridades de educación, elaborarán programas y campañas para prevenir y controlar las enfermedades bucodentales en la población escolar.
+Las autoridades sanitarias, en coordinación con las autoridades de educación, elaborarán programas y campañas para promover y fomentar la educación sobre la salud bucodental, y la práctica de los hábitos de higiene dental para prevenir y controlar las enfermedades bucodentales en la población escolar.
 
 ### CAPITULO VI. Accidentes
 
@@ -4740,6 +4742,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 5 DE ABRIL DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0294.- SE REFORMAN LOS ARTÍCULOS 14 EN SU FRACCIÓN XII, 106 Y 363, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 2 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0308.- SE REFORMA EL ARTÍCULO 123, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
