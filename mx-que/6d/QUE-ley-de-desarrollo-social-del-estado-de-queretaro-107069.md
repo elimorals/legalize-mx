@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-desarrollo-social-del-estado-de-queretaro-107069"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-27"
-last_updated: "2021-10-08"
+last_updated: "2022-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUERÉTARO EL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de marzo de 2015.
 
@@ -103,7 +101,7 @@ XIII. Políticas Públicas: las estrategias, programas y acciones del gobierno y
 
 XIV. Programa Social: el instrumento que conjuga acciones y proyectos gubernamentales coherentes con las políticas públicas, tendiente a contribuir y fortalecer las condiciones y oportunidades de diferentes sectores de la población, para satisfacer sus necesidades individuales y sociales, que permitan elevar su calidad de vida;
 
-XV. Registro: el Registro Estatal de Organizaciones de la Sociedad, integrado por las organizaciones referidas en la fracción IX de este artículo;
+XV. (DEROGADA, P.O. 2 DE MAYO DE 2022)
 
 XVI. Secretaría: la Secretaría de Desarrollo Social del Poder Ejecutivo del Estado;
 
@@ -679,37 +677,17 @@ El Estado de Querétaro podrá realizar acciones e inversiones conjuntas con dif
 
 Las organizaciones legalmente constituidas podrán recibir recursos o fondos públicos para operar proyectos para el desarrollo social, quedando sujetas a la supervisión control y vigilancia de las autoridades competentes, conforme a las disposiciones jurídicas aplicables.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE MAYO DE 2022)</small>
+
 ### Capítulo II. Registro Estatal de Organizaciones de la Sociedad
 
 ###### Artículo 46.
 
-La Secretaría constituirá y mantendrá actualizado el Registro Estatal de Organizaciones de la Sociedad, con el objeto de asentar los datos de las organizaciones que contribuyan con sus acciones al desarrollo social de la entidad.
-
-El Registro tendrá las finalidades siguientes:
-
-I. Contar con bases de datos fidedignas que permitan medir el impacto de la promoción y participación social para el desarrollo social;
-
-II. Reconocer las acciones que lleven a cabo las organizaciones, para el otorgamiento de apoyos y estímulos públicos;
-
-III. Mantener un control sobre los recursos asignados a las organizaciones registradas, para dar transparencia en su aplicación;
-
-IV. Dar seguimiento al cumplimiento de las acciones contempladas en el convenio suscrito con la autoridad correspondiente; y
-
-V. Garantizar la transparencia e imparcialidad en la aplicación de recursos.
+(DEROGADO , P.O. 2 DE MAYO DE 2022)
 
 ###### Artículo 47.
 
-Las organizaciones inscritas en el Registro, tendrá las obligaciones siguientes:
-
-I. Informar a la Secretaría cualquier modificación a su objeto, domicilio, representación legal o estatutos, en un plazo máximo de quince días hábiles contados a partir de que ocurra la misma;
-
-II. Mantener a disposición de las autoridades competentes, la información relativa a las actividades que realicen, así como las facilidades necesarias para la supervisión correspondiente;
-
-III. Destinar la totalidad de los recursos programados y otorgados al cumplimiento de las acciones concertadas o respecto de las cuales se expida la constancia de objeto social;
-
-IV. Abstenerse de efectuar actividades, proselitismo o propaganda con fines políticos; y
-
-V. Las demás que se establezcan en el convenio que suscriban con la autoridad correspondiente.
+(DEROGADO, P.O. 2 DE MAYO DE 2022)
 
 ### Capítulo III. Padrón Estatal de Beneficiarios
 
@@ -1112,3 +1090,17 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 2 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE CREA LA LEY DE FOMENTO A LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE QUERÉTARO; DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE QUERÉTARO; Y REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. El titular de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado de Querétaro, una vez instalado el Consejo Estatal para el Fomento de las Organizaciones de la Sociedad Civil, deberá emitir la convocatoria para la conformación del Comité Técnico Consultivo a que hace referencia el presente ordenamiento.
+
+Artículo Cuarto. Envíese al Titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Quinto. La aprobación de la presente disposición normativa no implica adecuaciones o incremento al Presupuesto de Egresos del Estado de Querétaro para el ejercicio presupuestal 2022; en razón de lo anterior las unidades administrativas sujetas de la Ley materializarán su entrada en vigor conforme a la disponibilidad financiera del presente ejercicio fiscal 2022 y en los subsecuentes lo que para tal efecto presupuesten dentro del Presupuesto de Egresos del Estado de Querétaro, dentro del ejercicio fiscal que corresponda.
