@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-planeacion-para-el-desarrollo-del-estado-de-145634"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2020-12-28"
+last_updated: "2022-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 28 de diciembre de 2020.
 
@@ -151,9 +151,17 @@ II. Sustentabilidad y sostenibilidad: relativas a la conservación y mantenimien
 
 III. Transparencia y Combate a la Corrupción: relativa a transparencia, fiscalización ciudadana, escrutinio social y rendición de cuentas sobre la administración y el manejo de los recursos públicos, con el propósito de asegurar que se ejerzan de manera planificada, responsable, con apego al marco legal aplicable y en beneficio de la sociedad;
 
-IV. Igualdad sustantiva de derechos entre mujeres y hombres: como la garantía del ejercicio pleno de los derechos universales y la capacidad de hacerlos efectivos en la vida cotidiana de la ciudadanía; y
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2022)</small>
 
-V. Gobernanza y Participación Ciudadana: como la instauración y crecimiento de un Estado y una sociedad incluyente, en la que se hagan efectivos el acceso y la participación de todos los grupos y sectores vulnerables en cada uno de los aspectos de la vida social y estatal, mediante la apertura de espacios democráticos que sirvan de vía para ello para la consolidación del Sistema Estatal de Planeación Democrática.
+IV. Igualdad sustantiva de derechos entre mujeres y hombres: como la garantía del ejercicio pleno de los derechos universales y la capacidad de hacerlos efectivos en la vida cotidiana de la ciudadanía;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2022)</small>
+
+V. Gobernanza y Participación Ciudadana: como la instauración y crecimiento de un Estado y una sociedad incluyente, en la que se hagan efectivos el acceso y la participación de todos los grupos y sectores vulnerables en cada uno de los aspectos de la vida social y estatal, mediante la apertura de espacios democráticos que sirvan de vía para ello para la consolidación del Sistema Estatal de Planeación Democrática, y
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2022)</small>
+
+VI. Interés superior de los niños, niñas y adolescentes: Como el instrumento que garantice de manera plena los derechos de niñas, niños y adolescentes y su desarrollo integral.
 
 ###### Artículo 6°.
 
@@ -1394,3 +1402,13 @@ MARGARITA GALLEGOS SOTO.
 DIPUTADA SEGUNDA SECRETARIA.
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 24 de diciembre de 2020.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Lic. Juan Manuel Flores Femat.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 116.- SE REFORMAN LAS FRACCIONES IV Y V Y ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 5° DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
