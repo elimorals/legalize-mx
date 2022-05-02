@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-organizacion-y-funcionamiento-de-las-128333"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-11"
-last_updated: "2018-08-23"
+last_updated: "2022-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128333&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2018-02-07"
 
 REGLAMENTO PARA LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS COMISIONES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MAYO DE 2022.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 11 de mayo de 2018.
 
@@ -245,7 +245,11 @@ Las comisiones permanentes del Instituto, son:
 
 9. Vinculación con el Sistema Nacional de Transparencia.
 
-10. Vinculación con Nuevos Sujetos Obligados.
+[INFOMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-20-04-2022.10.zip]
+
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2022)</small>
+
+10. Criterios
 
 11. Vinculación y Promoción del Derecho.
 
@@ -421,13 +425,25 @@ Los directores generales, directores de área o titulares de las unidades admini
 
 I. Participar en las sesiones de las comisiones relacionadas con la materia de su competencia;
 
-II. Preparar y entregar al Secretario Técnico de la Comisión de que se trate, los proyectos de acuerdo,
+> <small>[N. DE E. INFOMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-20-04-2022.10.zip]</small>
 
-III. resolución, programas, informes, dictámenes, así como los demás documentos que le sean solicitados para el adecuado desarrollo de los trabajos de la comisión;
+> <small>[N. DE E. SE ADVIERTE QUE LA ANTERIOR FRACCIÓN III, QUEDÓ INMERSA EN LA PRESENTE FRACCIÓN.]</small>
 
-IV. Proporcionar asesoría técnica a las comisiones sobre los asuntos afines a sus atribuciones y competencias, y
+> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2022)</small>
 
-V. Las demás que deriven del Estatuto Orgánico o correspondan a la naturaleza, funciones y denominación de la comisión.
+II. Preparar y entregar al Secretario Técnico de la Comisión de que se trate, los proyectos de acuerdo, resolución, programas, informes, dictámenes, así como los demás documentos que le sean solicitados para el adecuado desarrollo de los trabajos de la comisión;
+
+> <small>[N. DE E. INFOMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-20-04-2022.10.zip]</small>
+
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN IV], D.O.F. 2 DE MAYO DE 2022)</small>
+
+III. Proporcionar asesoría técnica a las comisiones sobre los asuntos afines a sus atribuciones y competencias, y
+
+> <small>[N. DE E. INFOMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-20-04-2022.10.zip]</small>
+
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN V], D.O.F. 2 DE MAYO DE 2022)</small>
+
+IV. Las demás que deriven del Estatuto Orgánico o correspondan a la naturaleza, funciones y denominación de la comisión.
 
 ###### Artículo 14.
 
@@ -443,7 +459,11 @@ A propuesta de los comisionados integrantes, el Comisionado Coordinador podrá d
 
 El Comisionado Coordinador, indicará al Secretario Técnico que elabore la convocatoria correspondiente.
 
-Las convocatorias se realizarán por escrito y serán notificadas a los comisionados integrantes, así como a la Presidencia del Instituto. Cuando se trate de sesiones ordinarias, la convocatoria se hará con cuarenta y ocho horas de anticipación y, para el caso de reuniones extraordinarias, se notificará con veinticuatro horas de anticipación.
+> <small>[N. DE E. INFOMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-20-04-2022.10.zip]</small>
+
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2022)</small>
+
+Las convocatorias se realizarán por escrito o medios electrónicos y serán notificadas a los comisionados integrantes, así como a la Presidencia del Instituto. Cuando se trate de sesiones ordinarias, la convocatoria se hará con cuarenta y ocho horas de anticipación y, para el caso de reuniones extraordinarias, se notificará con veinticuatro horas de anticipación.
 
 No se requerirá convocatoria previa, cuando se trate de sesiones extraordinarias y esté presente la totalidad de los comisionados integrantes de la comisión.
 
@@ -551,7 +571,11 @@ Agotada la discusión sobre algún asunto del orden del día que requiera de vot
 
 Las decisiones de las comisiones se adoptarán por mayoría de votos de los comisionados integrantes presentes. En caso de empate, el Comisionado Coordinador, o quien fuera designado por éste para suplirle en funciones en caso de ausencia, tendrá voto de calidad.
 
-Los comisionados integrantes expresarán su voto a favor o en contra. En caso de estar en desacuerdo con el sentido de la votación, podrán emitir un voto particular en el que expongan los argumentos que motivaron su disenso.
+> <small>[N. DE E. INFOMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-20-04-2022.10.zip]</small>
+
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2022)</small>
+
+Los comisionados integrantes expresarán su voto a favor o en contra. En caso de estar en desacuerdo con el sentido de la votación, podrán emitir votos particulares o disidentes, en los que expongan los argumentos que motivaron su disenso.
 
 Los comisionados integrantes deberán emitir su voto con relación a los asuntos que así lo ameriten y que sean sometidos a su consideración, por tanto, sólo podrán eximirse cuando exista un impedimento legal.
 
@@ -608,3 +632,33 @@ El presente Acuerdo y su anexo pueden ser consultados en la dirección electrón
 www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf
 
 CUARTO. El presente Acuerdo entrará en vigor al día siguiente de la fecha de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE MAYO DE 2022.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO MEDIANTE EL CUAL SE APRUEBAN DIVERSAS MODIFICACIONES AL REGLAMENTO PARA LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS COMISIONES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+PRIMERO. Se modifica el Reglamento para la Organización y Funcionamiento de las Comisiones del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, publicado en el Diario Oficial de la Federación el once de mayo de 2018, en los términos del ANEXO ÚNICO, el cual forma parte integral del presente.
+
+SEGUNDO. Se instruye a la Dirección General de Asuntos Jurídicos para que realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en el Diario Oficial de la Federación.
+
+TERCERO. Se instruye a la Secretaría Técnica del Pleno, para que, por conducto de la Dirección General de Atención al Pleno, realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en el portal de internet del Instituto.
+
+El presente acuerdo y su Anexo Único, podrán ser consultados en las direcciones electrónicas siguientes:
+
+https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-20-04-2022.10.zip
+
+Contenido del Archivo ZIP
+
+1. ACT-PUB-20-04-2022.10.pdf
+
+2. Anexo Único.docx
+
+www.dof.gob.mx/2022/INAI/ACT-PUB-20-04-2022-10.zip
+
+CUARTO. Se instruye a la Secretaria Técnica del Pleno que, con fundamento en lo dispuesto en el artículo 45, fracción IV, de la Ley Federal de Transparencia y Acceso a la Información Pública, expida certificación del presente Acuerdo, para agilizar su cumplimiento.
+
+QUINTO. El presente Acuerdo entrará en vigor al día siguiente de la fecha de su publicación en el Diario Oficial de la Federación.
+
+SEXTO. Se deroga toda disposición de igual o menor jerarquía que contravenga el presente Acuerdo.
