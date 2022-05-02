@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-prevenir-atender-y-erradicar-la-violencia-escolar-9881
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-17"
-last_updated: "2019-06-10"
+last_updated: "2022-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA ESCOLAR EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de febrero de 2014.
 
@@ -141,9 +141,11 @@ XXI. Violencia Escolar: Son los actos producidos entre los estudiantes o hacia l
 
 ### CAPÍTULO II. Violencia Escolar
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO 4°.
 
-Son tipos de violencia escolar:
+La violencia escolar puede ser generada individual o colectivamente cuando se cometen acciones negativas o actos agresivos, sin ser éstos respuesta a una acción predeterminada, contra uno o varios estudiantes, docentes o personal administrativo, conforme a los siguientes tipos:
 
 I. En las personas: Las lesiones que causen cualquier alteración en la salud y que son producidas por una causa externa, infringidas entre estudiantes susceptibles de causar daño;
 
@@ -710,3 +712,11 @@ P.O. 10 DE JUNIO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 117.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 4° DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA ESCOLAR EN EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
