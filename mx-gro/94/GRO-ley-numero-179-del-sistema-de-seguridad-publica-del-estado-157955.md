@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-179-del-sistema-de-seguridad-publica-del-estado-1579
 country: "mx"
 rank: "ley"
 publication_date: "2022-04-14"
-last_updated: "2022-04-14"
+last_updated: "2022-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "GRO"
 ---
 # LEY NUMERO 179 DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-> <small>[N. DE E. ESTE ORDENAMIENTO CUENTA CON UNA SEGUNDA PUBLICACIÓN ACTUALIZADA DEL PERIÓDICO OFICIAL NÚMERO 35 DE FECHA 3 DE MAYO DE 2022.]</small>
+> <small>[N. DE E. ESTE ORDENAMIENTO ES UNA REPUBLICACIÓN ACTUALIZADA DE LA PUBLICACIÓN DEL PERIÓDICO OFICIAL EDICIÓN EXTRAORDINARIA DE FECHA 14 DE ABRIL DE 2022.]</small>
 
 LEY NUMERO 179 DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
 TEXTO ORIGINAL.
 
-Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de Guerrero, el jueves 14 de abril de 2022.
+Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de Guerrero, el jueves 14 de abril de 2022. (REPUBLICADA EN EL P.O. 3 DE MAYO DE 2022).
 
 LEY NUMERO 179 DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO.
 
@@ -37,7 +37,7 @@ Que el H. Congreso Local, se ha servido comunicarme que,
 
 LA SEXAGÉSIMA TERCERA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, Y:
 
-1. C O N S I D E R A N D O
+1.C O N S I D E R A N D O
 
 [...]
 
@@ -1449,7 +1449,7 @@ a) Renuncia;
 
 b) Muerte o incapacidad permanente; o
 
-d(sic) Jubilación o retiro.
+d) (sic) Jubilación o retiro.
 
 Al concluir el servicio, el personal de la institución policial deberá entregar al servidor público designado para tal efecto, toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o custodia mediante acta de entrega recepción, excepto cuando ocurra la baja por muerte.
 
@@ -2070,3 +2070,29 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 MTRO. LUDWIG MARCIAL REYNOSO NÚÑEZ.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NUMERO 179 DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. La presente Ley entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Lo dispuesto en los artículos 1, fracción II, 8, fracción IV, 17, fracción XXIV, el artículo 30, fracción VIII, de la presente Ley, surtirá sus efectos una vez aprobados los Decretos que contengan las reformas y adiciones reformas al Artículo 14 de la Constitución Política del Estado Libre y Soberano de Guerrero, y a la Ley número 701 de Reconocimiento, Derechos y Cultura de los Pueblos y Comunidades Indígenas del Estado de Guerrero, ambas en materia de Seguridad Comunitaria.
+
+TERCERO. Se abroga la Ley Número 777 del Sistema de Seguridad Pública del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado número 168 alcance I, de fecha 24 de agosto de 2018.
+
+CUARTO. Los ayuntamientos municipales deberán hacer las previsiones presupuestales necesarias para el cumplimiento de la presente Ley, y en un plazo que no exceda de ciento ochenta días a partir de la entrada en vigor de esta Ley, deberán adecuar sus ordenamientos jurídicos a las prescripciones contenidas en la Ley, sin perjuicio de sus facultades constitucionales.
+
+QUINTO. Se derogan todas las disposiciones legales que contravengan esta Ley; en materia de seguridad privada hasta en tanto no se expida la normatividad específica continuará su vigencia.
+
+SEXTO. Los procedimientos iniciados antes de la entrada en vigor de la presente Ley se seguirán tramitando hasta su conclusión conforme a las disposiciones de la Ley que se abroga.
+
+SÉPTIMO. El Congreso del Estado deberá aprobar a más tardar en la segunda quincena del mes de mayo del año 2022, las reformas al Artículo 14 de la Constitución Política del Estado Libre y Soberano de Guerrero, y a la Ley número 701 de Reconocimiento, Derechos y Cultura de los Pueblos y Comunidades Indígenas del Estado de Guerrero, ambas en materia de Seguridad Comunitaria.
+
+OCTAVO. Remítase a la Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes.
+
+NOVENO. En vías de cumplimiento a la Resolución recaída a la Acción de Inconstitucionalidad 81/2018, remítase a la Suprema Corte de Justicia de la Nación para su conocimiento y efectos legales conducentes.
+
+DÉCIMO. Remítase al Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado, para su observancia y conocimiento general.
