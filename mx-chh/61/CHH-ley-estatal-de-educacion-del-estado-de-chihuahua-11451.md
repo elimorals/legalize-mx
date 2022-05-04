@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2021-09-04"
+last_updated: "2022-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2022.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -113,6 +113,10 @@ XIII. Competencia: Conjunto de habilidades, conocimientos, destrezas y aptitudes
 
 XIV. Sistema de Competencias Educativas: Conjunto de procesos o elementos para la detección oportuna de capacidades y habilidades de los estudiantes a fin de impulsar su desarrollo; tanto para perfilar una carrera, como para prepararlos para la vida.
 
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2022)</small>
+
+XV. Educación en gestión menstrual: Los conocimientos y acciones tendientes a disminuir brechas de desigualdad en el proceso educativo para las mujeres con motivo de la menstruación.
+
 > <small>(REFORMADO, P.O. 13 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 3.
@@ -199,9 +203,9 @@ VII. Fomentar actitudes que estimulen la investigación y la innovación cientí
 
 VIII. Promover la apreciación y expresión artística, y difundir los bienes y valores de la cultura universal, en especial aquellos que constituyen el patrimonio cultural de la Entidad y de la Nación;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2022)</small>
 
-IX. Desarrollar actitudes que permitan crear conciencia sobre la preservación de la salud, la planeación familiar, la paternidad y maternidad responsables, así como los riesgos y consecuencias que conlleva el ejercicio de la sexualidad a temprana edad y de los embarazos no planeados; lo anterior sin menoscabo de la libertad, del respeto absoluto a la vida, la dignidad y los derechos humanos;
+IX. Desarrollar actitudes que permitan crear conciencia sobre la preservación de la salud, la higiene y gestión menstrual, la planeación familiar, la paternidad y maternidad responsables, así como los riesgos y consecuencias que conlleva el ejercicio de la sexualidad a temprana edad y de los embarazos no planeados; lo anterior sin menoscabo de la libertad, del respeto absoluto a la vida, la dignidad y los derechos humanos;
 
 X. Fomentar el cuidado de la naturaleza, la valoración y preservación del medio ambiente mediante el conocimiento del desarrollo sustentable de la Entidad, propiciando el uso racional de los recursos naturales, en especial el cuidado del agua, a fin de preservar el equilibrio ecológico;
 
@@ -4484,3 +4488,11 @@ Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpet
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0210/2022 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE EDUCACIÓN Y LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
