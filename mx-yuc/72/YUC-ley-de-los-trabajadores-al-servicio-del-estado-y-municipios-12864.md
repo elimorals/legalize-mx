@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-los-trabajadores-al-servicio-del-estado-y-municipios-128
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-03"
-last_updated: "2021-12-31"
+last_updated: "2022-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE MAYO DE 2022.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 3 de diciembre de 1987.
 
@@ -1063,11 +1063,13 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 ### CAPITULO I
 
-> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 128.
 
-El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, es la autoridad encargada de conocer y resolver los conflictos que se susciten en la aplicación de esta Ley, con la integración, competencia y atribuciones que establece la Ley Orgánica del Poder Judicial del Estado de Yucatán.
+El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, es la autoridad encargada de conocer y resolver los conflictos que se susciten en la aplicación de esta Ley, a excepción de los (sic) aquellos que surjan entre el Poder Judicial y sus personas servidoras públicas, que serán resueltos por el Consejo de la Judicatura y los que se susciten entre el Tribunal Superior de Justicia y sus empleados, que serán resueltos por el propio Tribunal Superior de Justicia.
+
+El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios contará con la integración, competencia y atribuciones que establece la Ley Orgánica del Poder Judicial del Estado de Yucatán.
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -1079,11 +1081,17 @@ El personal jurisdiccional del Tribunal de los Trabajadores al Servicio del Esta
 
 (DEROGADO, D.O. 4 DE MAYO DE 2011)
 
-> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 131.
 
-El Magistrado Presidente del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios será suplido por el Secretario General de Acuerdos del Tribunal en sus faltas temporales y, en su caso, en definitiva, hasta en tanto el Congreso del Estado expide un nuevo nombramiento.
+En caso de ausencia temporal de una Magistrada o Magistrado del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios que no exceda tres meses, o para suplencia en pleno, la función será cubierta por la persona servidora pública del Tribunal que determine el pleno, a propuesta de la misma Magistrada o Magistrado. Quienes se desempeñen como Magistradas o Magistrados suplentes tendrán las mismas facultades y atribuciones que establece la ley para las Magistradas y Magistrados titulares.
+
+En caso de ausencias injustificadas de las magistradas o magistrados del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios por un periodo mayor a tres meses, por retiro forzoso, muerte, renuncia o destitución, se procederá en los términos de lo previsto en la Constitución Política del Estado de Yucatán.
+
+Las ausencias temporales de la Magistrada o Magistrado Presidente del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios serán suplidas por la Magistrada o Magistrado suplente que haya elegido el pleno.
+
+En caso de falta absoluta de la Magistrada o Magistrado Presidente del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, se procederá en términos del párrafo anterior, hasta en tanto se designe a una nueva magistrada o magistrado.
 
 ###### ARTICULO 132.
 
@@ -1191,9 +1199,11 @@ Los términos comenzarán a correr al día siguiente al en que surta efecto la n
 
 La parte interesada presentará su demanda por escrito que contendrá: el nombre y domicilio del actor; el nombre y domicilio del demandado; el objeto de la demanda y una relación de los hechos, con las copias simples de la misma y de la documentación conexa que considere pertinente para el caso y ofrecerá las pruebas que convengan a sus intereses.
 
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+
 ###### ARTICULO 146.
 
-Presentada la demanda el Tribunal proveerá ordenando la notificación y traslado a la parte contraria, con entrega de las copias simples exhibidas, y fijará día y hora para la celebración de la audiencia de conciliación y de demanda y excepciones que tendrá lugar a más tardar, a los 15 días hábiles siguientes a la notificación del proveído; cuando el domicilio del demandado se encontrara fuera del lugar en que radica el Tribunal, se ampliará este término en un día más por cada cuarenta kilómetros de distancia o fracción que exceda la mitad.
+Presentada la demanda la Magistrada o Magistrado Presidente del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios turnará el expediente a la Magistrada o Magistrado ponente que corresponda, ordenando la notificación y traslado a la parte contraria, con entrega de las copias simples exhibidas, y fijará día y hora para la celebración de la audiencia de conciliación y de demanda y excepciones que tendrá lugar a más tardar, a los 15 días hábiles siguientes a la notificación del proveído; cuando el domicilio del demandado se encontrara fuera del lugar en que radica el Tribunal, se ampliará este término en un día más por cada cuarenta kilómetros de distancia o fracción que exceda la mitad.
 
 ###### ARTICULO 147.
 
@@ -1203,27 +1213,43 @@ Si no hubiere acuerdo entre las partes, continuará el procedimiento y la parte 
 
 Si a la audiencia no concurre el actor, su demanda se tendrá por reproducida íntegramente, si es el demandado quien no concurre o resultare mal representado, la demanda se tendrá por contestada en sentido afirmativo, salvo prueba en contrario.
 
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+
 ###### ARTICULO 148.
 
-Planteada la litis con la demanda, sus modificaciones o ampliaciones en su caso y la contestación a la misma, es potestad del Tribunal cerrar la audiencia para continuarla en un nuevo día y hora para la fase de pruebas, alegatos y resolución.
+Planteada la litis con la demanda, sus modificaciones o ampliaciones en su caso y su contestación, es potestad de la Magistrada o Magistrado ponente del Tribunal cerrar la audiencia para continuarla en un nuevo día y hora para la fase de pruebas, alegatos y resolución.
 
 ###### ARTICULO 149.
 
 La fase de pruebas, alegatos y resolución comenzará con la ratificación de las pruebas ofrecidas, por las partes y se dará vista recíprocamente a la actora y a la demandada de las pruebas ofrecidas, para que aleguen lo que a sus derechos convenga sobre las mismas. Y, a continuación, se declarará cerrado el período de prueba. En la propia audiencia o en las siguientes que se fijen para tal efecto, se llevará al cabo el perfeccionamiento de las que requieran tal trámite, comenzando con las de la parte actora, para desahogar, terminadas las mismas, las de la parte demandada.
 
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+
 ###### ARTICULO 150.
 
-Perfeccionada la última prueba en la audiencia respectiva, las partes presentarán sus alegatos en forma verbal o escrita y el Tribunal podrá dictar su resolución sobre el conflicto en la propia audiencia o si lo considerase necesario, fijará fecha y hora para la resolución en un término que no excederá de un mes.
+Perfeccionada la última prueba en la audiencia respectiva, las partes presentarán sus alegatos en forma verbal o escrita y la Magistrada o Magistrado ponente del Tribunal formulará el proyecto de resolución en la propia audiencia o dentro de los veinte días naturales siguientes y lo someterá al Pleno del Tribunal.
+
+El día señalado para la sesión del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, que se celebrará con la presencia del Secretario General de Acuerdos quien dará fe, la Magistrada o el Magistrado ponente dará cuenta del proyecto de resolución; la Magistrada o Magistrado Presidente pondrá a discusión el asunto; se dará lectura a las constancias que señalen las Magistradas y los Magistrados, y, estando suficientemente debatido, se procederá a la votación; acto continuo, la Magistrada o Magistrado Presidente hará la declaración que corresponda y la o el Secretario General de Acuerdos fijará fecha y hora para dar a conocer a las partes, personalmente, el laudo.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+ARTICULO 150 bis.- La resolución se tomará por unanimidad o mayoría de votos. En este último caso, la Magistrada o Magistrado que no esté conforme con el sentido del laudo deberá formular su voto particular dentro del plazo de diez días naturales siguientes al de la firma del engrose, voto en el que expresará las razones que lo fundamentan.
+
+Transcurrido el plazo señalado en el párrafo anterior sin que se haya emitido el voto particular, se asentará razón en autos y se continuará el trámite correspondiente.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+ARTICULO 150 ter.- Si no fuera aprobado el proyecto, pero la Magistrada o Magistrado ponente acepta las modificaciones propuestas en la sesión, procederá a redactar el laudo con base en los términos de la discusión. Si el voto de la mayoría de las Magistradas y los Magistrados fuera en sentido distinto al del proyecto, una o uno de ellos redactarán el laudo. En ambos casos el plazo para redactar el laudo será de diez días naturales, debiendo quedar en autos constancia del proyecto original.
 
 ###### ARTICULO 151.
 
 El Tribunal apreciará en conciencia las pruebas que le presenten, sin sujetarse a reglas fijas para su estimación y resolverá los asuntos a verdad sabida y buena fé guardada, debiendo expresar en su laudo las consideraciones en que funde su decisión.
 
-> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 152.
 
-Antes de pronunciarse el laudo, el Magistrado Presidente del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios podrá solicitar mayor información, así como también, ordenar el desahogo de pruebas que estime para mejor proveer; en este caso, acordará la práctica de las diligencias necesarias para tal efecto.
+Hasta antes de aprobarse el laudo por el Pleno del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, la Magistrada o Magistrado ponente podrá solicitar mayor información, así como ordenar el desahogo de las pruebas que estime pertinentes para mejor proveer; en este caso, acordará la práctica de las diligencias necesarias para tal efecto.
 
 ###### ARTICULO 153.
 
@@ -1247,11 +1273,11 @@ Todos los términos correrán a partir del día hábil siguiente a aquél en que
 
 El Tribunal sancionará la alteración del orden, y las faltas de respeto hacia el mismo en forma verbal o por escrito, sancionándolas, según la gravedad de la falta, con amonestación, expulsión del local del Tribunal o económicamente, a criterio del mismo, con una cantidad mínima de cien pesos, cuando se trate de trabajadores y de mil pesos cuando se trate de funcionarios.
 
-> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 158.
 
-El Magistrado Presidente del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, deberá excusarse cuando tenga impedimento legal y en este caso, será suplido en el asunto por el Secretario General de Acuerdos del propio Tribunal.
+Las Magistradas y Magistrados del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios deberán excusarse cuando tengan impedimento legal y, en este caso, serán suplidas o suplidos en el asunto por la Magistrada o Magistrado que determine el Pleno del propio Tribunal.
 
 > <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
 
@@ -1320,6 +1346,192 @@ III.- Destitución del puesto.
 ###### ARTICULO 165.
 
 Las sanciones por faltas laborales se deben imponer previa audiencia del interesado y considerando las circunstancias en que tuvo lugar la falta cometida.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O. 4 DE MAYO DE 2022)</small>
+
+## TÍTULO DÉCIMO PRIMERO. DE LAS Y LOS SERVIDORES PÚBLICOS DEL PODER JUDICIAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 4 DE MAYO DE 2022)</small>
+
+### CAPÍTULO I. Disposiciones Generales
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+###### ARTICULO 166.
+
+El presente capítulo deberá aplicarse a todas las personas empleadas por el Poder Judicial del Estado de Yucatán, independientemente del órgano al que sean adscritas, en la medida en que no les sean aplicables disposiciones más favorables de otras normas burocráticas laborales.
+
+Para el ingreso y la promoción de los servidores públicos en órganos no jurisdiccionales del Poder Judicial, se sujetará a las previsiones que esta Ley establece en el Título Tercero, Capítulos I y II, para el escalafón.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+###### ARTICULO 167.
+
+Las condiciones generales de trabajo, deberán determinar hasta qué punto las garantías en ellas previstas se aplican a los empleados de alto nivel que, por sus funciones, se considera normalmente que poseen poder decisorio o desempeñan cargos directivos o a los empleados cuyas obligaciones son de naturaleza altamente confidencial.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+###### ARTICULO 168.
+
+A los efectos del presente Capítulo la expresión empleado del Poder Judicial del Estado de Yucatán, designa a toda persona física que presta a cualquiera de los órganos que integran el Poder Judicial del Estado, un trabajo personal subordinado.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+###### ARTICULO 169.
+
+A los efectos del presente Capítulo, la expresión Sindicato, designa a la organización titular de la relación laboral en el Poder Judicial de Yucatán, cualquiera que sea su composición, que tenga por objeto fomentar y defender los intereses de los empleados públicos del Poder Judicial de Yucatán.
+
+La titularidad de la relación laboral en el Poder Judicial del Estado de Yucatán, la tendrá el Sindicato mayoritario, al cual se le expedirá la constancia correspondiente por la Comisión de Conflictos Laborales del Poder Judicial del Estado.
+
+En caso de que exista conflicto de cuál es el Sindicato mayoritario, se realizará una prueba de recuento por la Comisión de Conflictos Laborales del Poder Judicial del Estado, quien resolverá de plano.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+###### ARTICULO 170.
+
+Las condiciones generales de trabajo, serán fijadas de común acuerdo por el Poder Judicial del Estado de Yucatán y el Sindicato titular de la relación laboral, para lo cual se adoptarán las medidas adecuadas para el pleno desarrollo y utilización del procedimiento de negociación entre la máxima autoridad judicial y la organización sindical correspondiente, o de cualesquiera otros métodos que permitan a los representantes de los empleados judiciales participar activamente en la determinación de dichas condiciones.
+
+La solución de los conflictos que se planteen con motivo de la determinación de las condiciones generales de trabajo se resolverán por la Comisión de Asuntos Laborales del Poder Judicial del Estado, por medio de la negociación entre las partes o mediante procedimientos independientes e imparciales, tales como la mediación, la conciliación y el arbitraje, establecidos de modo que inspiren la confianza de las partes.
+
+En la elaboración de las condiciones generales de trabajo, se tomará en cuenta lo establecido en la Constitución Política de los Estados Unidos Mexicanos, las Normas Internacionales del Trabajo, los Tratados Internacionales de los que el Estado Mexicano sea parte, la presente Ley, en lo que no se oponga a este capítulo y demás disposiciones jurídicas aplicables, las cuales tendrán obligatoriedad para los órganos jurisdiccionales, auxiliares, unidades administrativas, trabajadores y Sindicatos, todos del Poder Judicial del Estado de Yucatán.
+
+Las Condiciones Generales de Trabajo, serán autorizadas y revisadas cada 2 años o antes, a solicitud del Sindicato titular de la relación laboral, por una comisión mixta conformada por al menos seis personas, tres nombradas por el Poder Judicial y otras tres designadas por el Sindicato titular de la relación laboral.
+
+En el caso de las prestaciones económicas, incluido el salario, éstas serán revisadas cada año, en el mes de septiembre, por la comisión antes mencionada.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+###### ARTICULO 171.
+
+Los servidores públicos del Poder Judicial gozarán de protección contra la discriminación antisindical. Dicha protección se ejercerá especialmente contra todo acto que tenga por objeto:
+
+I.- Sujetar el empleo del servidor público a la condición de que no se afilie a un sindicato o a que deje de ser miembro de éste;
+
+II.- Despedir a un empleado público, o ser sujeto a medidas perjudiciales en el empleo, a causa de su afiliación a una organización sindical de empleados públicos o de su participación en las actividades normales de tal organización.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+###### ARTICULO 172.
+
+El Sindicato, gozará de completa independencia respecto de las autoridades públicas del Poder Judicial, por lo que recibirá una adecuada protección contra todo acto de injerencia de cualquier autoridad en su constitución, funcionamiento o administración.
+
+Se consideran actos de injerencia a los efectos de este artículo, principalmente los destinados a fomentar la constitución de organizaciones de trabajadores dominadas por autoridades del Poder Judicial, o a sostener económicamente, o en otra forma, organizaciones de empleados públicos con objeto de colocar estas organizaciones bajo el control de las autoridades del Poder Judicial.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+###### ARTICULO 173.
+
+Los representantes del Sindicato, gozarán de protección eficaz contra todo acto que pueda perjudicarlos, incluido el despido por razón de su condición de representantes de los trabajadores, de sus actividades como tales, de su afiliación al sindicato, o de su participación en la actividad sindical, siempre que dichos representantes actúen conforme a las leyes, las condiciones generales de trabajo u otros acuerdos comunes en vigor.
+
+El Poder Judicial de Yucatán, concederá a los representantes del Sindicato, las facilidades apropiadas para permitirles el desempeño rápido y eficaz de sus funciones durante sus horas de trabajo o fuera de ellas, en ningún caso se podrá prohibir el acceso a los representantes sindicales a las instalaciones del Poder Judicial.
+
+La concesión de tales facilidades no deberá perjudicar el funcionamiento eficaz del servicio público.
+
+Los representantes del Sindicato, son las personas nombradas o elegidas por los trabajadores afiliados al mismo.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+###### ARTICULO 174.
+
+Los servidores públicos del Poder Judicial, al igual que los demás trabajadores, gozarán de los derechos civiles y políticos esenciales para el ejercicio normal de la libertad sindical, a reserva solamente de las obligaciones que se deriven de su condición y de la naturaleza de sus funciones.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+###### ARTICULO 175.
+
+Las condiciones generales de trabajo del Poder Judicial del Estado de Yucatán, se sujetarán a lo dispuesto en el Capítulo II del Título Cuarto de esta Ley.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+###### ARTICULO 176.
+
+El ingreso, permanencia, promoción y remoción de los servidores públicos del Poder Judicial, se efectuará a través de la carrera judicial en la forma que determine su reglamento que emita el Poder judicial, el cual tendrá por objeto su organización y adecuado desempeño en las funciones propias de dicho Poder, tomando en consideración el desarrollo profesional de los servidores públicos, la calificación de habilidades, capacidades y desempeño a efecto de garantizar la estabilidad y seguridad en el empleo; fomentar la vocación de servicio y promover la capacitación permanente del personal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 4 DE MAYO DE 2022)</small>
+
+### CAPÍTULO II. De los Conflictos entre el Poder Judicial y sus Servidores Públicos
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+###### ARTICULO 177.
+
+Los conflictos entre el Poder Judicial del Estado y las personas servidoras públicas, serán resueltos por la Comisión de Conflictos Laborales del Poder Judicial del Estado. Las resoluciones de la Comisión podrán ser impugnadas mediante el correspondiente recurso de revocación que se presente ante el Pleno del Tribunal Superior de Justicia del Estado por lo que respecta a sus personas trabajadoras o ante el Pleno del Consejo de la Judicatura del Estado tratándose de sus personas empleadas. La resolución de este recurso será definitiva e inatacable.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+###### ARTICULO 178.
+
+Las cuestiones relativas a la substanciación de los asuntos a que hace referencia este capítulo, incluido el recurso de revocación, se regularán a través de los acuerdos generales que para tal efecto emita el Pleno del Tribunal Superior de Justicia del Estado o el Consejo de la Judicatura del Estado, según corresponda.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+###### ARTICULO 179.
+
+La Comisión de Conflictos Laborales del Poder Judicial del Estado se integrará conforme a lo siguiente:
+
+I.- Tratándose de conflictos laborales de personas servidoras públicas del Tribunal Superior de Justicia del Estado, por las siguientes personas representantes:
+
+a) Una persona del Tribunal Superior de Justicia del Estado, nombrada por su Pleno, quien la presidirá;
+
+b) Una persona del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, nombrada por su Pleno;
+
+c) Una persona trabajadora de confianza, nombrada por el Consejo de la Judicatura, y
+
+d) Dos personas trabajadoras sindicalizadas, del Poder Judicial del Estado.
+
+II.- Tratándose de conflictos laborales de personas servidoras públicas del Consejo de la Judicatura del Estado, por las siguientes personas representantes:
+
+a) Una persona del Consejo de la Judicatura, nombrada por su Pleno, quien la presidirá;
+
+b) Una persona del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, nombrada por su Pleno;
+
+c) Una persona trabajadora de confianza, nombrada por el Pleno del Tribunal Superior de Justicia, y
+
+d) Dos personas trabajadoras sindicalizadas, del Poder Judicial del Estado.
+
+Las personas sindicalizadas, así como la persona del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, y la persona trabajadora de confianza a las que hacen referencia en los incisos b), c) y d) de las fracciones I y II de este artículo, serán las mismas personas en ambos supuestos.
+
+Las personas integrantes de la Comisión de Conflictos Laborales del Poder Judicial que falten definitiva o temporalmente, serán suplidas por las personas que al efecto designen las instituciones que están facultadas para nombrarlas.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+###### ARTICULO 180.
+
+Las personas integrantes de la Comisión de Conflictos Laborales del Poder Judicial del Estado deberán reunir los requisitos siguientes:
+
+I.- Estar en pleno goce de sus derechos civiles y políticos; y
+
+II.- Ser persona trabajadora del Poder Judicial.
+
+Las personas a las que se refieren el artículo 177 de esta Ley, durarán en su encargo tres años.
+
+Las personas integrantes de la comisión a que se refiere este artículo únicamente podrán ser removidas por causas justificadas y por quienes las designaron.
+
+La designación, representación e integración en la Comisión de Conflictos Laborales del Poder Judicial del Estado, será honorífica, por lo que no se percibirá remuneración, emolumento o compensación alguna.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+###### ARTICULO 181.
+
+La Comisión de Conflictos Laborales del Poder Judicial del Estado se reunirá cuantas veces sea necesario, para conocer y resolver, por mayoría, los conflictos laborales que se le presenten.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+###### ARTICULO 182.
+
+La Comisión de Conflictos Laborales del Poder Judicial del Estado, se sujetará a las disposiciones del Capítulo III del Título Octavo de esta Ley, para la tramitación de los expedientes y para la ejecución y cumplimiento de sus resoluciones tendrá las facultades que contempla el Capítulo Único del Título Noveno de esta Ley.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+###### ARTICULO 183.
+
+Desahogado el proceso laboral correspondiente, la audiencia se reducirá a la lectura y discusión del proyecto de resolución del caso y a su votación por la Comisión de Conflictos Laborales del Poder Judicial del Estado. Si fuere aprobado en todas sus partes o con alguna modificación, pasará a la persona presidenta de la comisión para su cumplimiento.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+###### ARTICULO 184.
+
+En los conflictos laborales en los que se tengan que desahogar pruebas fuera de la sede de la Comisión de Conflictos Laborales del Poder Judicial del Estado, actuarán como auxiliares las personas juezas en materia laboral, con la intervención de una persona representante del sindicato. La persona servidora pública afectada tendrá derecho a estar presente.
 
 T R A N S I T O R I O S:
 
@@ -1510,3 +1722,77 @@ Las obligaciones que se generen con motivo de la entrada en vigor de este decret
 Artículo séptimo. Procedimientos y asuntos en trámite
 
 Los procedimientos y los asuntos que en materia laboral se encontrasen en trámite en la Junta Local de Conciliación y Arbitraje del estado a la entrada en vigor de este decreto, se substanciarán y resolverán por este órgano hasta su total conclusión, conforme a las disposiciones anteriores que les resultasen aplicables, independientemente de la instalación y puesta en marcha del Centro de Conciliación Laboral del Estado de Yucatán y de los Tribunales Laborales del Poder Judicial del Estado.
+
+D.O. 4 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 496/2022 POR EL QUE SE MODIFICAN LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN Y LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN, EN MATERIA DE REFORMA AL PODER JUDICIAL DEL ESTADO DE YUCATÁN”.]
+
+Artículo Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. Obligación normativa
+
+El Poder Judicial del Estado de Yucatán deberá realizar las modificaciones pertinentes a su normativa interna para armonizarla a las disposiciones de este decreto dentro de los ciento ochenta días siguientes a su entrada en vigor.
+
+Artículo Tercero. Ternas para magistradas y magistrados
+
+La persona titular del Poder Ejecutivo enviará, a partir de la entrada en vigor de este decreto y hasta el 31 de enero de 2024, las ternas para la designación de las cuatro personas que ocuparán las nuevas magistraturas del Tribunal Superior de Justicia del Estado de Yucatán, creadas en términos de lo previsto en este decreto.
+
+Artículo Cuarto. Presentación de ternas
+
+La persona titular del Poder ejecutivo enviará, a partir de la entrada en vigor de este decreto y hasta el 1 de septiembre de 2022, las ternas para la designación de las dos personas que ocuparán las nuevas magistraturas del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios.
+
+Artículo Quinto. Derechos adquiridos
+
+El Magistrado presidente del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios que fue designado previo a la entrada en vigor de este decreto continuará en funciones por el tiempo por el que fue designado, pero con el cargo de Magistrado.
+
+Artículo Sexto. Magistradas y Magistrados en funciones
+
+Por única ocasión, y derivado del cambio de la regulación del haber por retiro, a fin de no afectarlos en sus derechos, las Magistradas y Magistrados del Tribunal Superior de Justicia del Estado de Yucatán en funciones que no hayan cumplido quince años en el cargo o que los cumplan dentro de los cuarenta y cinco días naturales de la entrada en vigor de este decreto contarán con un plazo de sesenta días naturales, contado a partir de la entrada en vigor de este decreto, para solicitar al pleno del referido tribunal su retiro anticipado, en el primer caso, o su retiro, en el segundo, con el haber por retiro vitalicio regulado en las disposiciones vigentes previo a la entrada en vigor de este decreto.
+
+Por única ocasión, las Magistradas y Magistrados del Tribunal Superior de Justicia del Estado de Yucatán en funciones que hayan sido nombrados conforme a la Ley Orgánica del Poder Judicial del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 13 de marzo de 1992, y que a la entrada en vigor de este decreto lleven más de quince años en el cargo o treinta años o más al servicio del Estado, aun cuando no hubieren cumplido los quince años en el cargo de Magistrada o Magistrado, contarán con un plazo de sesenta días naturales, contado a partir de la entrada en vigor de este decreto, para solicitar al Pleno del Tribunal Superior de Justicia del Estado de Yucatán su retiro, con el haber por retiro vitalicio e irreductible que les corresponde por sus años de servicio, equivalente al sueldo nominal de las Magistradas y los Magistrados del Tribunal Superior de Justicia del Estado de Yucatán en activo.
+
+El Pleno del Tribunal Superior de Justicia del Estado de Yucatán turnará el (sic) Consejo de la Judicatura las solicitudes de retiro de las magistradas y magistrados que reciba en los términos de este artículo y éste realizará las gestiones para otorgar el haber por retiro que corresponda. La Presidencia del Tribunal deberá notificar a los Poderes Ejecutivo y Legislativo, la aceptación definitiva de la solicitud de retiro de las magistradas y magistrados en términos de lo establecido en este decreto, para el inicio del proceso de designación correspondiente
+
+En caso de no optar por el retiro anticipado a que se refiere el párrafo primero de este artículo, las Magistradas y Magistrados del Tribunal Superior de Justicia del Estado de Yucatán seguirán en funciones por el término que le reste a su encargo y se sujetarán a lo previsto en los artículos 64 de la Constitución Política del Estado de Yucatán y 170 de la Ley Orgánica del Poder Judicial del Estado de Yucatán, reformados mediante este decreto.
+
+Artículo Séptimo. Presidencia del Tribunal
+
+Por única ocasión, el pleno del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios deberá seleccionar a la Magistrada o Magistrado presidente y a su suplente dentro de los treinta días naturales siguientes a la designación de las Magistradas y Magistrados a que se refiere el artículo transitorio cuarto. La Magistrada o Magistrado presidente electo en términos de este párrafo entrará en funciones el primer lunes del mes siguiente al de la elección.
+
+Artículo Octavo. Incremento presupuestal del Poder Judicial
+
+Se autoriza al Poder Ejecutivo del Estado, a través de la Secretaría de Administración y Finanzas, para realizar las transferencias y adecuaciones necesarias a efecto de ampliar el presupuesto del Tribunal Superior de Justicia del Estado de Yucatán, para la creación de las nuevas plazas de las Magistradas y Magistrados, así como la provisión de los recursos administrativos, humanos, materiales estrictamente necesarios para su adecuado funcionamiento, y al Consejo de la Judicatura del Poder Judicial del Estado, para el otorgamiento de los haberes por retiro de las Magistradas y Magistrados del Tribunal Superior de Justicia del Estado de Yucatán que lo soliciten, conforme a lo previsto en este decreto.
+
+De igual manera, se autoriza al Poder Ejecutivo del Estado, a través de la Secretaría de Administración y Finanzas, para realizar el pago del haber por retiro vitalicio que se otorgue a las Magistradas y Magistrados del Tribunal Superior de Justicia del Estado de Yucatán que se encuentren en el supuesto previsto en el segundo párrafo del artículo sexto transitorio de este Decreto, con cargo a la partida correspondiente del Presupuesto de Egresos del Gobierno del Estado de Yucatán, a partir de que el Pleno del referido tribunal apruebe el otorgamiento de dicho haber.
+
+Los Presupuestos de Egresos del Gobierno del Estado de Yucatán deberán prever recursos suficientes para garantizar la entrega de los haberes por retiro y las plazas a que se refiere este decreto.
+
+Artículo Noveno. Integración provisional del Tribunal Superior de Justicia del Estado de Yucatán
+
+Por única ocasión, para efectos de lo previsto en el artículo 64, párrafo tercero, de la Constitución Política del Estado de Yucatán y 28 de la Ley Orgánica del Poder Judicial del Estado de Yucatán, el Tribunal Superior de Justicia del Estado de Yucatán, a partir de la entrada en vigor de este decreto continuará integrado por once Magistradas y Magistrados y su número aumentará de manera progresiva hasta en tanto el Congreso del Estado de Yucatán nombre a las cuatro nuevas personas titulares de las magistraturas del referido tribunal, para alcanzar quince integrantes.
+
+Artículo Décimo. Elaboración del Proyecto de Presupuesto del Poder Judicial del Estado para el ejercicio fiscal 2023
+
+Se establece un plazo máximo de 3 años para que el Consejo de la Judicatura cumpla plenamente lo establecido en el artículo 83 de la Ley Orgánica del Poder Judicial del Estado de Yucatán, por lo que deberá, año con año y de forma gradual, incrementar el número de jueces de primera instancia hasta cumplir con los criterios establecidos en la referida disposición y mantener actualizado el número de juzgados de acuerdo a los mismos criterios.
+
+El Poder Judicial a través del Consejo de la Judicatura en uso de las facultades previstas en la Ley Orgánica del Poder Judicial del Estado de Yucatán, podrá, en la elaboración del Proyecto de Presupuesto del Poder Judicial del Estado para el ejercicio fiscal 2023 y bajo su entera competencia, determinar de ser necesario y procedente la creación de nuevos juzgados de primera instancia, considerando los criterios previstos en la ley de mérito.
+
+Artículo Décimo Primero. De la Comisión de Conflictos Laborales del Poder Judicial del Estado
+
+El Poder Judicial del Estado de Yucatán contará con un plazo de ciento ochenta días naturales para expedir las disposiciones que regulen el procedimiento de revocación a que se refiere este decreto.
+
+Deberá llevar a cabo las gestiones necesarias para la integración de la Comisión de Conflictos Laborales del Poder Judicial del Estado a partir de los ciento ochenta días naturales siguientes a la entrada en vigor de este decreto.
+
+La Comisión de Conflictos Laborales del Poder Judicial del Estado deberá emitir su reglamento interno dentro de los noventa días naturales siguientes a su integración e instalación.
+
+Los asuntos relativos a conflictos laborales del Poder Judicial con sus servidoras o servidores públicos, que se encuentren en trámite ante el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios de Yucatán, serán concluidos por este tribunal conforme a las disposiciones vigentes previo a la entrada en vigor de este decreto.
+
+Artículo Décimo Segundo. Implementación de un sistema tecnológico
+
+El Pleno del Consejo de la Judicatura implementará en forma gradual el sistema tecnológico al que se refiere el artículo 72 de la Constitución Política del Estado de Yucatán, el cual permitirá el acceso en línea a los Juzgados de primera y segunda instancia en todas las materias en todo el Estado de Yucatán.
+
+Artículo Décimo Tercero. Derogación Tácita
+
+Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
