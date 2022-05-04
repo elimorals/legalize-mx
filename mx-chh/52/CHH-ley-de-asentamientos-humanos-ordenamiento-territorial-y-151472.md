@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-asentamientos-humanos-ordenamiento-territorial-y-151472"
 country: "mx"
 rank: "ley"
 publication_date: "2021-10-02"
-last_updated: "2021-10-02"
+last_updated: "2022-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2022.
 
 Ley publicada en el Folleto Anexo del Número 79 del Periódico Oficial del Estado de Chihuahua, el sábado 2 de octubre de 2021.
 
@@ -3149,6 +3149,14 @@ A las edificaciones subutilizadas se les fijará una tasa en función del potenc
 
 La mecánica para la determinación de los inmuebles sujetos al cobro anotado, se establecerá en la reglamentación de esta Ley, considerando al menos: ubicación, centro histórico, elementos de infraestructura y servicios, así como, entre otros elementos, el tiempo transcurrido, desde la municipalización correspondiente.
 
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2022)</small>
+
+###### Artículo 190 Bis.
+
+Los propietarios registrales o poseedores de los baldíos y/o edificaciones subutilizadas, deterioradas física o funcionalmente, o no ocupadas, deberán delimitar e implementar estructuras al inmueble a fin de imposibilitar el tránsito por estos.
+
+Asimismo, están obligados a su limpieza, desmonte, despalme y deshierbe para mantenerlos en condiciones seguras e higiénicas, tanto en el interior como en el espacio público exterior que les corresponde en su delimitación.
+
 Beneficios a predios y edificaciones
 
 ###### Artículo 191.
@@ -5247,6 +5255,10 @@ b) Cuando se cambie el uso de suelo en edificaciones menores a cien metros cuadr
 
 c) Cuando se incumpla con la obligación de proporcionar los informes que solicite la autoridad competente, se haga con falsedad, o fuera del tiempo que se hubiere concedido para ese efecto.
 
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2022)</small>
+
+d) A los propietarios registrales o poseedores de los baldíos y/o edificaciones subutilizadas, deterioradas física o funcionalmente, o no ocupadas, que incumplan con lo estipulado en el segundo párrafo del artículo 190 Bis de la presente Ley. Si el municipio interviene en el cumplimiento de la obligación referida, se agregará a la multa, el costo del servicio realizado.
+
 II. Multa de veinte veces el valor diario de la Unidad de Medida y Actualización vigente y hasta el veinticinco por ciento del valor comercial del inmueble u obra de que se trate, cuando se realice una acción urbanística sin contar con la autorización correspondiente.
 
 III. Multa de cincuenta a dos mil veces el valor diario de la Unidad de Medida y Actualización vigente:
@@ -5702,3 +5714,17 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintitrés días del mes de septiembre del año dos mil veintiuno.
 
 LA GOBERNADORA CONSTITUCIONAL DEL ESTADO. MTRA. MARÍA EUGENIA CAMPOS GALVÁN. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. CÉSAR GUSTAVO JÁUREGUI MORENO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/RFLEY/0211/2022 II P.O., MEDIANTE EL CUAL SE ADICIONAN EL ARTÍCULO 190 BIS; Y AL ARTÍCULO 349, FRACCIÓN I, EL INCISO D), DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los municipios, a partir de la entrada en vigor de la presente Disposición, podrán realizar las acciones y adecuaciones necesarias a sus reglamentos que permitan la correcta aplicación de este Decreto, en el ámbito de su competencia.
