@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2021-09-29"
+last_updated: "2022-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -4373,9 +4373,11 @@ P.O. 29 DE SEPTIEMBRE DE 2021.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo dispuesto por los artículos transitorios siguientes.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-La Legislatura del Estado, previo al día primero de mayo de dos mil veintidós, emitirá la declaratoria de entrada en funciones de los Tribunales Laborales. Dicha declaratoria deberá ser ampliamente difundida en todo el territorio del Estado y publicarse en el Periódico Oficial del Estado.
+La Legislatura del Estado, emitirá la declaratoria de entrada en funciones de los Tribunales Laborales, sin sobrepasar el plazo legal que al efecto se establece en el respectivo régimen transitorio de la Ley Federal del Trabajo para su cumplimiento. Dicha declaratoria deberá ser ampliamente difundida en todo el territorio del Estado y publicarse en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO TERCERO.
 
@@ -4392,3 +4394,11 @@ El Consejo de la Judicatura del Estado proveerá lo conducente para contar con l
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente Decreto.
+
+P.O. 4 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-164 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NO. LXIV-795 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, EN MATERIA DE TRIBUNALES LABORALES, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL 29 DE SEPTIEMBRE DE 2021”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
