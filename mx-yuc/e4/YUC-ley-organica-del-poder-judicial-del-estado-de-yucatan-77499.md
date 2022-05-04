@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-judicial-del-estado-de-yucatan-77499"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-24"
-last_updated: "2021-12-31"
+last_updated: "2022-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE MAYO DE 2022.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 24 de noviembre de 2010.
 
@@ -123,15 +123,15 @@ Independencia
 
 Los magistrados y los jueces emitirán sus resoluciones conforme a la certeza de los hechos y de acuerdo con el derecho aplicable, al margen de presiones de los otros poderes, de las partes o grupos sociales, individuos o de los propios miembros del Poder Judicial.
 
-> <small>(REFORMADO, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
 
 Autonomía financiera
 
 ###### Artículo 9.
 
-El presupuesto asignado al Poder Judicial del Estado no podrá ser inferior al dos por ciento de la parte del gasto programable del presupuesto de egresos que corresponda, a los recursos de libre disposición; entendiéndose como aquéllos que no tengan destino específico establecido por las leyes de coordinación fiscal o cualquier otra disposición legal aplicable en la materia, tanto del ámbito federal como estatal, ni se destinen al pago de la deuda pública, ni al pago de jubilaciones o pensiones.
+El presupuesto asignado al Poder Judicial no podrá ser inferior al dos por ciento del total del gasto programable, el cual no será disminuido respecto del año anterior y se fijará anualmente, en la forma y términos que establezca la ley; en su ejercicio se observará el principio de autonomía de gestión. Una vez elaborado su presupuesto anual, el Poder Judicial del Estado lo enviará al Congreso del Estado de Yucatán para su aprobación.
 
-El monto total asignado no podrá ser menor que el asignado en el año inmediato anterior, y se fijará anualmente en la forma y términos que se establezcan en la Constitución local y la ley.
+Los recursos de libre disposición son aquellos que no tengan destino específico establecido por las leyes de coordinación fiscal o cualquier otra disposición legal aplicable en la materia, tanto del ámbito federal como estatal, ni se destinen al pago de la deuda pública, ni al pago de jubilaciones o pensiones.
 
 Estabilidad del cargo
 
@@ -185,11 +185,13 @@ Adicionalmente, para el cumplimiento de sus funciones no jurisdiccionales, el Po
 
 ### CAPÍTULO IV. De los magistrados del Tribunal Superior de Justicia del Estado
 
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+
 Duración del cargo
 
 ###### Artículo 16.
 
-Los magistrados del Tribunal Superior de Justicia durarán en el ejercicio de su cargo seis años, contados a partir de la fecha en que rindan el Compromiso Constitucional, al término de los cuales podrán ser ratificados por un segundo período de hasta nueve años más y durante el ejercicio de su cargo sólo podrán ser removidos en los términos que establezcan la Constitución Política del Estado y las leyes en materia de responsabilidades de los servidores públicos.
+Las Magistradas y los Magistrados del Tribunal Superior de Justicia durarán en el ejercicio de su cargo quince años, contados a partir de la fecha en que rindan el Compromiso Constitucional, y durante el ejercicio de su cargo sólo podrán ser removidos en los términos que establezcan la Constitución Política del Estado y las leyes en materia de responsabilidades correspondientes.
 
 Nombramiento y requisitos para ser magistrado
 
@@ -217,7 +219,15 @@ Renuncia
 
 El cargo de magistrado del Tribunal Superior de Justicia del Estado, sólo es renunciable por causa grave calificada así por el Congreso del Estado o, en los recesos de éste, por la Diputación Permanente.
 
-Será causa de retiro forzoso de los magistrados del Tribunal Superior de Justicia del Estado, padecer incapacidad, ya sea física o mental, que les impida desempeñar el encargo, en la forma que dispongan las leyes.
+(NOTA: EL 27 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE MAYO DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+
+Será causa de retiro forzoso de las Magistradas y los Magistrados del Tribunal Superior de Justicia del Estado haber cumplido quince años en el cargo de Magistrada o Magistrado del referido tribunal O TREINTA AÑOS AL SERVICIO DEL ESTADO o padecer incapacidad, ya sea física o mental, que impida desempeñar el encargo, en la forma que dispongan las leyes.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+Las Magistradas y los Magistrados que se encuentren en el supuesto de retiro forzoso tendrán derecho al haber por retiro, en términos de esta ley.
 
 ## TÍTULO SEGUNDO. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
@@ -287,9 +297,11 @@ El órgano emisor del precedente obligatorio ordenará su notificación inmediat
 
 Interrupción de la obligatoriedad de precedentes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE MAYO DE 2022)</small>
+
 ###### Artículo 26.
 
-Los precedentes se interrumpen y dejan de tener carácter obligatorio, cuando se pronuncie ejecutoria en contrario de por lo menos ocho magistrados, si se trata de los sustentados por el Pleno; y por unanimidad de votos, tratándose de los que establezcan las Salas Colegiadas.
+Los precedentes se interrumpen y dejan de tener carácter obligatorio, cuando se pronuncie ejecutoria en contrario de por lo menos el 70% del total de Magistradas y Magistrados que integran el Tribunal, si se trata de los sustentados por el Pleno; y por unanimidad de votos, tratándose de los que establezcan las Salas Colegiadas.
 
 En el caso de los precedentes que establezcan las Salas Unitarias, su obligatoriedad se interrumpirá cuando se pronuncie ejecutoria en contrario.
 
@@ -297,9 +309,11 @@ En todo caso, en la ejecutoria respectiva deberán expresarse los motivos en que
 
 Modificación de precedentes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE MAYO DE 2022)</small>
+
 ###### Artículo 27.
 
-La modificación de los precedentes obligatorios deberán sustentarse en tres sentencias ejecutorias ininterrumpidas por otra en contrario, que hayan sido aprobadas por lo menos por ocho magistrados, si se tratara de los emitidos por el Pleno o por unanimidad en el caso de los emitidos por Salas Colegiadas.
+La modificación de los precedentes obligatorios deberán sustentarse en tres sentencias ejecutorias ininterrumpidas por otra en contrario, que hayan sido aprobadas por lo menos por el 70% del total de Magistradas y Magistrados que integran el tribunal, si se tratara de los emitidos por el Pleno o por unanimidad en el caso de los emitidos por Salas Colegiadas.
 
 En el caso de las Salas Unitarias, la modificación de los precedentes obligatorios se deberá sustentar en cinco resoluciones ejecutorias ininterrumpidas por otra en contrario.
 
@@ -307,11 +321,11 @@ En el caso de las Salas Unitarias, la modificación de los precedentes obligator
 
 Composición y quórum de funcionamiento
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE MAYO DE 2022)</small>
 
 ###### Artículo 28.
 
-El Pleno del Tribunal Superior de Justicia se compondrá de once magistradas y magistrados, pero bastará la presencia de siete miembros para que pueda funcionar, con excepción de los casos en los que se requiera mayoría calificada de al menos 8 magistrados. Cuando las ausencias de los titulares obedezcan a las licencias temporales contempladas en el artículo 18 de esta Ley, formarán parte del Pleno del Tribunal Superior de Justicia los magistrados suplentes.
+El Pleno del Tribunal Superior de Justicia se compondrá de quince Magistradas y Magistrados, pero bastará la presencia de, al menos, el 60% del total de las Magistradas y Magistrados que integran el Tribunal para que pueda funcionar, con excepción de los casos en los que se requiera mayoría calificada de al menos el 70% del total de Magistradas y Magistrados que integran el Tribunal. Cuando las ausencias de los titulares obedezcan a las licencias temporales contempladas en el artículo 18 de esta Ley, formarán parte del Pleno del Tribunal Superior de Justicia las Magistradas y Magistrados suplentes.
 
 Las sesiones serán presididas por el Presidente del Tribunal y en caso de ausencias accidentales de éste, el Pleno nombrará de entre sus integrantes quien deberá presidirlas.
 
@@ -377,9 +391,19 @@ XXII.- Instrumentar estímulos a la productividad del personal adscrito al Tribu
 
 XXIII.- Acordar la contratación de servicios externos de asesoría, para el perfeccionamiento de la actividad jurisdiccional y de la que corresponde a las diferentes áreas del Tribunal Superior de Justicia del Estado;
 
-XXIV.- Presentar la cuenta pública, con la documentación respectiva y en los términos establecidos en la Ley de la materia, y
+> <small>(REFORMADA, D.O. 4 DE MAYO DE 2022)</small>
 
-XXV.- Las demás que establezca la Constitución Política del Estado, esta Ley y demás ordenamientos.
+XXIV.- Presentar la cuenta pública, con la documentación respectiva y en los términos establecidos en la Ley de la materia;
+
+> <small>(ADICIONADA, D.O. 4 DE MAYO DE 2022)</small>
+
+XXV.- Designar a su representante ante la Comisión de Conflictos Laborales del Poder Judicial del Estado;
+
+> <small>(ADICIONADA, D.O. 4 DE MAYO DE 2022)</small>
+
+XXVI.- Conocer y resolver el recurso de revocación contra las resoluciones que emita la Comisión de Conflictos Laborales del Poder Judicial del Estado, en los conflictos de trabajo suscitados entre el Tribunal Superior de Justicia del Estado y sus servidoras y servidores públicos, en términos del párrafo vigésimo del artículo 64 de la Constitución Política del Estado de Yucatán, con excepción de los conflictos relativos a las demás servidoras y servidores públicos del Poder Judicial del Estado, en los términos de los artículos 166 a 175 de la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán, en aquello que fuere conducente. La resolución de este recurso será definitiva e inatacable, y
+
+XXVII.- Las demás que establezca la Constitución Política del Estado, esta Ley y demás ordenamientos.
 
 Sesiones del Pleno
 
@@ -388,6 +412,14 @@ Sesiones del Pleno
 Las sesiones del Pleno son ordinarias o extraordinarias.
 
 La discusión de los asuntos en sesión del Pleno del Tribunal Superior de Justicia del Estado de Yucatán, se llevará de acuerdo al Reglamento de Sesiones que emita el Pleno.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+Todas las sesiones del Pleno deberán ser transmitidas y difundidas por las plataformas digitales y redes sociales oficiales del mismo Tribunal, salvaguardando en todo momento, los datos personales o sensibles de las partes involucradas en los asuntos que sean materia de la discusión.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+El Pleno, con el voto de la mayoría presente en la sesión, podrá reservarse la transmisión y difusión por razones de seguridad o causa de fuerza mayor.
 
 Adopción de decisiones
 
@@ -519,15 +551,21 @@ Las salas, según su materia y la legislación aplicable, conocerán de apelacio
 
 En la materia laboral, el Pleno determinará mediante acuerdos generales la sala o salas competentes para conocer de los conflictos competenciales y de las recusaciones que las partes promuevan contra los secretarios instructores o los titulares de los Tribunales Laborales conforme a la Ley Federal del Trabajo.
 
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+
 Toma de decisiones en Sala Colegiada
 
 ###### Artículo 43.
 
-Las resoluciones de las Salas Colegiadas se tomarán en discusión que podrá ser pública por unanimidad o mayoría de votos de sus integrantes, quienes no podrán abstenerse de votar sino cuando tenga excusa o impedimento legal. El magistrado que disintiere de la mayoría deberá formular voto particular que se insertará al final de la ejecutoria respectiva si fuere presentado dentro de los cinco días siguientes a la fecha del acuerdo.
+Las resoluciones de las Salas Colegiadas se tomarán por unanimidad o mayoría de votos de las magistradas y los magistrados presentes, quienes solo se abstendrán de votar cuando tengan excusa o impedimento legal. La Magistrada o Magistrado que disintiere de la mayoría deberá formular voto particular que se insertará al final de la ejecutoria respectiva si fuere presentado dentro de los cinco días siguientes a la fecha del acuerdo. En caso de que no se presente el voto particular, por escrito, en el plazo señalado en este artículo, se tendrá por no formulado para los efectos de la ejecutoria respectiva.
 
-> <small>(REFORMADO, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+Las sesiones y resoluciones de las Salas Colegiadas serán públicas, salvo las excepciones establecidas en la Constitución Federal, en la local y en las leyes correspondientes y cuando así lo determinen las Magistradas y Magistrados, por mayoría simple, en los casos en que a su juicio así lo exija la moral o el interés público.
 
-Los magistrados listarán los asuntos que se resolverán en su orden en sesión que podrá ser pública. Los proyectos desechados o retirados para mejor estudio deberán discutirse en un plazo menor a quince días, no pudiendo retirarse un mismo negocio por más de una vez.
+Las sesiones de las Salas colegiadas serán públicas y deberán transmitirse, así como difundirse por las plataformas digitales y redes sociales oficiales del Tribunal, resguardando en todo momento los datos personales o sensibles de las partes involucradas en los asuntos que se discutan.
+
+Las resoluciones de las Salas colegiadas serán públicas, salvo excepciones establecidas en la Constitución Federal, en la local y en las leyes correspondientes y cuando así lo determinen, por mayoría simple, las Magistradas y Magistrados presentes en la sesión, en los casos en los que, a su juicio, así lo exija la moral o el interés público.
+
+Las magistradas y los magistrados listarán los asuntos que se resolverán en su orden en sesión. Los proyectos desechados o retirados para mejor estudio deberán discutirse en un plazo menor a quince días, no pudiendo retirarse un mismo negocio por más de una vez.
 
 La lista se fijará en los estrados del tribunal, identificando los asuntos, el día y la hora de inicio de la sesión, y el orden en que se discutirán.
 
@@ -843,37 +881,83 @@ El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios está
 
 Contará con plena autonomía en el dictado de sus resoluciones, las cuales serán definitivas e inatacables.
 
-> <small>(ADICIONADO SU EPÍGRAFE, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
 
 Integración del tribunal
 
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
-
 ###### Artículo 77.
 
-El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, estará integrado por un Magistrado al que se le denominará Presidenta o Presidente, y para el cumplimiento de sus atribuciones contará con el personal jurídico y administrativo que al efecto determine la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán.
+El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios estará integrado por tres Magistradas y Magistrados y, para el cumplimiento de sus atribuciones, contará con el personal jurídico y administrativo que al efecto determine la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán. En la designación de las Magistradas y Magistrados de este tribunal deberá observarse el principio de paridad de género, por lo que no podrá haber más de dos del mismo sexo.
 
-Para conocer de la administración, vigilancia y disciplina en el Tribunal de los Trabajadores al Servicio del Estado y Municipios de Yucatán, éste contará con una Comisión Especial integrada por su Presidenta o Presidente y dos miembros del Consejo de la Judicatura y, en lo conducente, tendrá las atribuciones que esta Ley establece al Pleno del Consejo.
+El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios contará con una Magistrada o Magistrado Presidente que, junto con su suplente, será elegida o elegido de entre sus integrantes por la votación mayoritaria de su Pleno para un periodo de cuatro años, conforme a las reglas previstas en el artículo 36 de esta ley.
 
-Disposiciones relativas a los magistrados
+Las Magistradas y Magistrados del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, cuando funcione en pleno, podrán conocer y aceptar, en su caso, la renuncia de la Magistrada o Magistrado Presidente a dicho cargo, sin que esta implique la renuncia a ser Magistrada o Magistrado.
+
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+
+Disposiciones relativas a las Magistradas y Magistrados
 
 ###### Artículo 78.
 
-Son aplicables al Magistrado del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, las disposiciones contenidas en el Capítulo Cuarto del Título Primero de esta Ley, sin perjuicio de lo que la legislación aplicable disponga.
+Son aplicables a las Magistradas y Magistrados del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios las disposiciones contenidas en el Capítulo Cuarto del Título Primero de esta Ley, sin perjuicio de lo que la legislación aplicable disponga.
 
-Facultades del Magistrado del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+
+Facultades de la Magistrada o Magistrado Presidente del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios
 
 ###### Artículo 79.
 
-Las facultades del Magistrado del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, son las siguientes:
+La Magistrada o Magistrado Presidente del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios tendrá las facultades siguientes:
 
-I.- Representar legalmente al Tribunal en los asuntos relacionados con la actividad jurisdiccional de su competencia;
+I.- Representar legalmente al Tribunal de los Trabajadores al Servicio del Estado y de los Municipios en los asuntos relacionados con la actividad jurisdiccional de su competencia;
 
-II.- Presidir y dirigir todas las audiencias y actos del mismo;
+II.- Presidir y dirigir todas las audiencias y actos en Pleno del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios;
 
-III.- Conservar el orden y la disciplina que debe imperar en las actuaciones del Tribunal, y
+III.- Conservar el orden y la disciplina que debe imperar en las actuaciones del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios;
 
-IV.- Las demás que le confieren las Leyes.
+IV.- Turnar los expedientes a cada una de las Magistradas y Magistrados que integran el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, en forma equitativa;
+
+V.- Proponer la formación de Comisiones Especializadas conformadas por Magistradas y Magistrados, para el despacho de asuntos de importancia o urgentes;
+
+VI.- Rendir los informes relativos a los amparos que se interpongan en contra de los laudos y de las resoluciones dictadas por el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios;
+
+VII.- Tramitar la correspondencia oficial del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios; y
+
+VIII.- Las demás facultades y obligaciones que determinen esta Ley, la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán, los reglamentos, acuerdos y otras disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+Facultades de las Magistradas o Magistrados del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios
+
+Artículo 79 bis.- Las Magistradas o Magistrados del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios tendrán las siguientes facultades:
+
+I.- Concurrir, participar y votar, cuando corresponda, en las sesiones del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios;
+
+II.- Integrar el Pleno para resolver, colegiadamente, los asuntos de su competencia;
+
+III.- Prevenir, admitir, desechar o tener por no presentada la demanda o su ampliación, si no se ajustan a la ley;
+
+IV.- Admitir o tener por no presentada la contestación de la demanda o de su ampliación o, en su caso, desecharlas;
+
+V.- Desahogar las audiencias de conciliación y de demanda y excepciones, y de pruebas, alegatos y resolución en los juicios de su competencia;
+
+VI.- Atender los expedientes que la Magistrada o Magistrado Presidente le turne para su estudio y elaborar el proyecto de resolución respectivo;
+
+VII.- Disponer de los medios de apremio que establece la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán;
+
+VIII.- Admitir, desechar o tener por no ofrecidas las pruebas;
+
+IX.- Declarar la caducidad de la instancia por desistimiento de la parte actora, en términos del artículo 154 de la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán;
+
+X.- Formular voto particular o razonado en caso de disentir respecto a la decisión sobre un proyecto aprobado por la mayoría y solicitar que se agregue al expediente;
+
+XI.- Determinar los asuntos que estimen pertinentes sean incluidos en el orden del día de las sesiones del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios;
+
+XII.- Conservar los bienes que conformen el mobiliario del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios;
+
+XIII.- Actuar con apego a la legislación aplicable; y
+
+XIV.- Las demás facultades y obligaciones que determinen esta Ley, la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán, los reglamentos, acuerdos y otras disposiciones legales y normativas aplicables.
 
 Competencia específica
 
@@ -893,13 +977,15 @@ V.- Efectuar el registro de las condiciones generales de trabajo, reglamentos de
 
 VI.- Las demás que se deriven de ésta y otras leyes.
 
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+
 Comisión
 
 ###### Artículo 81.
 
-La administración, vigilancia y disciplina en el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios corresponderá a una Comisión del Consejo de la Judicatura, que estará integrada por el Magistrado del Tribunal, quien la presidirá, y por dos miembros del Consejo de la Judicatura.
+La administración, vigilancia y disciplina en el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios corresponderá a una Comisión del Consejo de la Judicatura, que estará integrada por la Magistrada o Magistrado Presidente del Tribunal, quien la presidirá, y por dos miembros del Consejo de la Judicatura y, en lo conducente, tendrá las atribuciones que esta Ley otorga al Pleno del Consejo.
 
-El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, contará con un Secretario de Acuerdos, secretarios de estudio y cuenta, actuarios, oficiales de partes y demás funcionarios judiciales que sean necesarios acorde a las necesidades del trabajo y del presupuesto, según disponga la Comisión Especial del Consejo de la Judicatura.
+El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios contará con un Secretario General de Acuerdos, secretarios de estudio y cuenta, actuarios, oficiales de partes y demás funcionarios judiciales que sean necesarios acorde a las necesidades del trabajo y del presupuesto según disponga la Comisión Especial del Consejo de la Judicatura.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -933,11 +1019,13 @@ Asimismo, en este sistema podrán conformarse, para la ágil atención de los pr
 
 En materia de justicia para adolescentes, existirán, en términos de la legislación procesal penal, jueces de control, jueces de los tribunales de juicio oral y jueces de ejecución de sentencia especializados, quienes tendrán, en sus respectivos ámbitos de competencia, las facultades y obligaciones establecidas en los dos párrafos anteriores de este artículo, en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y en las demás disposiciones legales y normativas aplicables.
 
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+
 Número de juzgados
 
 ###### Artículo 83.
 
-El Consejo de la Judicatura determinará el número de juzgados de primera instancia, conforme a las necesidades de trabajo y de acuerdo al presupuesto, así como su ubicación y la materia o materias de las que deban conocer.
+El Consejo de la Judicatura determinará el número de juzgados de primera instancia, así como su ubicación y la materia o materias de las que deban conocer. Para lo anterior, deberá considerar la disponibilidad presupuestaria, así como observar entre otros parámetros: el censo poblacional, el rezago administrativo, y el incremento en las necesidades de trabajo jurisdiccional.
 
 Cambio de sede
 
@@ -1060,6 +1148,10 @@ Personal de los juzgados
 El personal de cada uno de los juzgados de primera instancia se compondrá, de jueces, secretarios, actuarios y técnicos judiciales, así como de los demás empleados que determine el pleno del Consejo de la Judicatura, conforme a las necesidades del servicio y acorde a las previsiones del presupuesto, según disponga la legislación aplicable y las disposiciones reglamentarias de esta Ley.
 
 Tratándose del sistema acusatorio y oral, además de los jueces de control y de juicio oral, los juzgados se integrarán con un administrador, coordinadores de sala, coordinadores de causas, analistas, personal de atención al público, notificadores, técnicos y demás personal que establezcan las disposiciones reglamentarias, de acuerdo con la disponibilidad presupuestal.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+
+En la determinación de los aumentos salariales del personal del Poder Judicial, se deberá contemplar que estos se homologuen a los que se realicen dentro del Poder Ejecutivo y del Poder Legislativo garantizando la dignidad laboral de sus trabajadores.
 
 Secretarios de acuerdos de los juzgados de primera instancia
 
@@ -1209,19 +1301,23 @@ Competencia en razón de materia
 
 ###### Artículo 98.
 
-El Pleno del Consejo de la Judicatura nombrará juezas o jueces de paz en los municipios del Estado y en las localidades de éstos.
+El Pleno del Consejo de la Judicatura nombrará juezas o jueces de paz en todos los municipios del Estado donde no hubiere jueza o juez de primera instancia.
 
-En las localidades donde hubiere jueza o juez de primera instancia, no podrá haber los de paz.
+El Pleno de la Judicatura deberá emitir una convocatoria pública en donde establezca el número de vacantes disponibles, así como el lugar de su adscripción. La designación se realizará mediante un examen de oposición. El pleno deberá emitir mediante acuerdo las bases para concursar por las plazas disponibles debiendo garantizar la transparencia en todo el proceso.
 
 > <small>(ADICIONADO SU EPÍGRAFE, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 Duración en el cargo
 
-> <small>(REFORMADO, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO 496/2022 PUBLICADO EN EL D.O. 4 DE MAYO DE 2022, PÁGINAS DE LA 12 A LA 13.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE MAYO DE 2022)</small>
 
 ###### Artículo 99.
 
-Los jueces de paz durarán en su cargo tres años, pudiendo ser reelectos.
+Los jueces de paz durarán en su cargo seis años, pudiendo ser reelectos.
+
+… (sic)
 
 > <small>(ADICIONADO SU EPÍGRAFE, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
@@ -1303,11 +1399,9 @@ En caso de faltas que excedan de un mes, el Pleno del Consejo de la Judicatura n
 
 ### CAPÍTULO II. De los Jueces de Paz
 
-> <small>(ADICIONADO SU EPÍGRAFE, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
 
 Nombramiento
-
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
 
 ###### Artículo 105.
 
@@ -1473,11 +1567,19 @@ XXIX.- Recibir el informe mensual del Centro Estatal de Solución de Controversi
 
 XXX.- Captar, validar, resguardar, explorar, explotar y difundir la información estadística, en el ámbito de su competencia, relativa a la actividad jurisdiccional y administrativa, a través del área de planeación;
 
-> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, D.O. 4 DE MAYO DE 2022)</small>
 
-XXXI.- Incorporar la perspectiva de género, de forma transversal y equitativa en el desempeño de sus atribuciones, programas y acciones, con el objeto de garantizar a las mujeres y hombres, el ejercicio y goce de sus derechos humanos, en igualdad de condiciones, y vigilar que las áreas y órganos jurisdiccionales y administrativos a su cargo también incorporen la perspectiva de género en el ámbito de sus respectivas competencias, y
+XXXI.- Incorporar la perspectiva de género, de forma transversal y equitativa en el desempeño de sus atribuciones, programas y acciones, con el objeto de garantizar a las mujeres y hombres, el ejercicio y goce de sus derechos humanos, en igualdad de condiciones, y vigilar que las áreas y órganos jurisdiccionales y administrativos a su cargo también incorporen la perspectiva de género en el ámbito de sus respectivas competencias;
 
-XXXII.- Las demás que expresamente establezcan esta Ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, D.O. 4 DE MAYO DE 2022)</small>
+
+XXXII.- Designar, a propuesta de su presidenta o presidente, a la persona representante del Poder Judicial del Estado ante la Comisión de Conflictos Laborales del Poder Judicial del Estado, para los efectos señalados en la fracción siguiente;
+
+> <small>(ADICIONADA, D.O. 4 DE MAYO DE 2022)</small>
+
+XXXIII.- Conocer y resolver el recurso de revocación contra las resoluciones que emita la Comisión de Conflictos Laborales del Poder Judicial del Estado, en los conflictos de trabajo suscitados entre el Consejo de la Judicatura y sus servidoras y servidores públicos, en términos del párrafo vigésimo del artículo 64 de la Constitución Política del Estado de Yucatán y de los artículos 166 a 176 de la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán, en aquello que fuere conducente. La resolución de este recurso será definitiva e inatacable, y
+
+XXXIV.- Las demás que expresamente establezcan esta Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO II. Del Pleno del Consejo de la Judicatura
 
@@ -1499,7 +1601,9 @@ IV.- Suscribir los convenios, acuerdos, dictámenes y demás resoluciones que ap
 
 V.- Para los efectos del Artículo 34 de la Constitución Política del Estado de Yucatán, rendir durante los primeros diez días de los meses de julio y enero los informes del movimiento contable del ejercicio de su presupuesto;
 
-VI.- Someter ante el Pleno del Consejo, oportunamente, los nombramientos de servidores públicos para cubrir las vacantes o plazas de nueva creación, incluso, tratándose de ascensos;
+> <small>(REFORMADA, D.O. 4 DE MAYO DE 2022)</small>
+
+VI.- Someter ante el Pleno del Consejo, oportunamente, los nombramientos de servidores públicos para cubrir las vacantes o plazas de nueva creación, incluso, tratándose de ascensos; así como el de la persona representante del Consejo de la Judicatura del estado, ante la correspondiente Comisión de Conflictos Laborales del Poder Judicial del Estado;
 
 VII.- Dar cuenta al Pleno del Consejo de las correcciones disciplinarias que imponga y vigilar que se cumplan las que imponga el Pleno, así como vigilar que se lleve un registro de las mismas;
 
@@ -2201,15 +2305,21 @@ Faltas absolutas y temporales
 
 ###### Artículo 170.
 
-Los magistrados del Poder Judicial del Estado que hayan ejercido sus funciones por el plazo de quince años, tendrán derecho a un haber por retiro vitalicio, conforme a las bases que se establezcan en este capítulo.
+Las Magistradas y los Magistrados del Poder Judicial del Estado al finalizar su encargo, tendrán derecho a un haber por retiro por el término de un año contado a partir del día siguiente al de la conclusión de sus funciones y conforme a las bases que se establezcan en este capítulo.
 
-Los magistrados del Poder Judicial que hubieren cumplido 30 años al servicio del Estado, tendrán derecho al haber de retiro a que se refiere el párrafo anterior aún cuando no hubieren cumplido los 15 años en el cargo de Magistrado.
+(NOTA: EL 27 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2022, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE MAYO DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Las Magistradas y los Magistrados del Poder Judicial QUE HUBIEREN CUMPLIDO TREINTA AÑOS AL SERVICIO DEL ESTADO, tendrán derecho al haber por retiro a que se refiere el párrafo anterior aun cuando no hubieren cumplido los quince años en el cargo de Magistrada o Magistrado.
+
+Las Magistradas y los Magistrados del Poder Judicial que padecieren de incapacidad física o mental, que les impida desempeñar el cargo, tendrán derecho al haber por retiro a que se refiere el párrafo primero de este artículo.
 
 Integración del haber
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE MAYO DE 2022)</small>
+
 ###### Artículo 171.
 
-El haber por retiro vitalicio será equivalente al sueldo nominal que corresponda a los magistrados del Tribunal Superior de Justicia en activo, durante los dos primeros años, y el 80 por ciento de éste, a partir del tercer año del retiro.
+El haber por retiro será equivalente al sueldo nominal que corresponda a las magistradas y los magistrados del Tribunal Superior de Justicia en activo.
 
 El Consejo de la Judicatura establecerá los mecanismos correspondientes para la implementación de un fondo destinado al otorgamiento del haber de retiro de magistrados a que se refiere este capítulo, así como al apoyo de retiro digno de los jueces de primera instancia y de ejecución de sentencias.
 
@@ -2219,11 +2329,13 @@ Suspensión temporal
 
 Será causa de suspensión temporal del derecho, si el Magistrado en retiro desempeña otro cargo o empleo público en el Estado o Municipio, con excepción de la docencia.
 
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+
 Prohibición
 
 ###### Artículo 173.
 
-Los Magistrados en retiro, durante dos años, no podrán ser abogados patronos o litigantes ante los órganos del Poder Judicial del Estado, sino en causa propia, de su cónyuge, ascendientes o descendientes, siempre y cuando el negocio tenga carácter de ocasional y obtengan autorización del Pleno; en caso de incumplimiento, perderán en forma definitiva el derecho a percibir el emolumento económico a que se refiere este Título.
+Las Magistradas y Magistrados en retiro, por el plazo de un año contado a partir del día siguiente al de la conclusión de sus funciones, no podrán ser abogados patronos o litigantes ante los órganos del Poder Judicial del Estado, sino en causa propia, de su cónyuge, ascendientes o descendientes, siempre y cuando el negocio tenga carácter de ocasional y obtengan autorización del Pleno; en caso de incumplimiento, perderán en forma definitiva el derecho a percibir el emolumento económico a que se refiere este Título.
 
 TÍTULO DÉCIMOPRIMERO
 
@@ -2231,7 +2343,9 @@ DE LA CARRERA JUDICIAL
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
-Del Haber por retiro
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+
+Del haber por retiro
 
 ###### Artículo 174.
 
@@ -2329,11 +2443,13 @@ Trabajadores de confianza
 
 Los funcionarios y empleados del Poder Judicial serán responsables de las faltas que pudieran resultar en el ejercicio de sus funciones, independientemente de la responsabilidad penal o patrimonial que pudiera resultar de dichas faltas.
 
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+
 Juicios
 
 ###### Artículo 185.
 
-Los juicios con motivo de la responsabilidad en que incurran los funcionarios y empleados del Poder Judicial del Estado se sustanciarán de acuerdo con lo que dispone esta Ley y la de Responsabilidades de los Servidores Públicos del Estado de Yucatán.
+Los juicios con motivo de la responsabilidad en que incurran los funcionarios y empleados del Poder Judicial del Estado se sustanciarán de acuerdo con lo que dispone esta Ley y la de Responsabilidades Administrativas del Estado de Yucatán y demás disposiciones aplicables.
 
 Causales específicas de responsabilidad
 
@@ -2678,3 +2794,79 @@ Las obligaciones que se generen con motivo de la entrada en vigor de este decret
 Artículo séptimo. Procedimientos y asuntos en trámite
 
 Los procedimientos y los asuntos que en materia laboral se encontrasen en trámite en la Junta Local de Conciliación y Arbitraje del estado a la entrada en vigor de este decreto, se substanciarán y resolverán por este órgano hasta su total conclusión, conforme a las disposiciones anteriores que les resultasen aplicables, independientemente de la instalación y puesta en marcha del Centro de Conciliación Laboral del Estado de Yucatán y de los Tribunales Laborales del Poder Judicial del Estado.
+
+D.O. 4 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 496/2022 POR EL QUE SE MODIFICAN LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN Y LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN, EN MATERIA DE REFORMA AL PODER JUDICIAL DEL ESTADO DE YUCATÁN”.]
+
+Artículo Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. Obligación normativa
+
+El Poder Judicial del Estado de Yucatán deberá realizar las modificaciones pertinentes a su normativa interna para armonizarla a las disposiciones de este decreto dentro de los ciento ochenta días siguientes a su entrada en vigor.
+
+Artículo Tercero. Ternas para magistradas y magistrados
+
+La persona titular del Poder Ejecutivo enviará, a partir de la entrada en vigor de este decreto y hasta el 31 de enero de 2024, las ternas para la designación de las cuatro personas que ocuparán las nuevas magistraturas del Tribunal Superior de Justicia del Estado de Yucatán, creadas en términos de lo previsto en este decreto.
+
+Artículo Cuarto. Presentación de ternas
+
+La persona titular del Poder ejecutivo enviará, a partir de la entrada en vigor de este decreto y hasta el 1 de septiembre de 2022, las ternas para la designación de las dos personas que ocuparán las nuevas magistraturas del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios.
+
+Artículo Quinto. Derechos adquiridos
+
+El Magistrado presidente del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios que fue designado previo a la entrada en vigor de este decreto continuará en funciones por el tiempo por el que fue designado, pero con el cargo de Magistrado.
+
+(NOTA: EL 27 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2022, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO SEXTO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE MAYO DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Artículo Sexto. MAGISTRADAS Y MAGISTRADOS EN FUNCIONES
+
+POR ÚNICA OCASIÓN, Y DERIVADO DEL CAMBIO DE LA REGULACIÓN DEL HABER POR RETIRO, A FIN DE NO AFECTARLOS EN SUS DERECHOS, LAS MAGISTRADAS Y MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE YUCATÁN EN FUNCIONES QUE NO HAYAN CUMPLIDO QUINCE AÑOS EN EL CARGO O QUE LOS CUMPLAN DENTRO DE LOS CUARENTA Y CINCO DÍAS NATURALES DE LA ENTRADA EN VIGOR DE ESTE DECRETO CONTARÁN CON UN PLAZO DE SESENTA DÍAS NATURALES, CONTADO A PARTIR DE LA ENTRADA EN VIGOR DE ESTE DECRETO, PARA SOLICITAR AL PLENO DEL REFERIDO TRIBUNAL SU RETIRO ANTICIPADO, EN EL PRIMER CASO, O SU RETIRO, EN EL SEGUNDO, CON EL HABER POR RETIRO VITALICIO REGULADO EN LAS DISPOSICIONES VIGENTES PREVIO A LA ENTRADA EN VIGOR DE ESTE DECRETO.
+
+POR ÚNICA OCASIÓN, LAS MAGISTRADAS Y MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE YUCATÁN EN FUNCIONES QUE HAYAN SIDO NOMBRADOS CONFORME A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, PUBLICADA EN EL DIARIO OFICIAL DEL GOBIERNO DEL ESTADO DE YUCATÁN EL 13 DE MARZO DE 1992, Y QUE A LA ENTRADA EN VIGOR DE ESTE DECRETO LLEVEN MÁS DE QUINCE AÑOS EN EL CARGO O TREINTA AÑOS O MÁS AL SERVICIO DEL ESTADO, AUN CUANDO NO HUBIEREN CUMPLIDO LOS QUINCE AÑOS EN EL CARGO DE MAGISTRADA O MAGISTRADO, CONTARÁN CON UN PLAZO DE SESENTA DÍAS NATURALES, CONTADO A PARTIR DE LA ENTRADA EN VIGOR DE ESTE DECRETO, PARA SOLICITAR AL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE YUCATÁN SU RETIRO, CON EL HABER POR RETIRO VITALICIO E IRREDUCTIBLE QUE LES CORRESPONDE POR SUS AÑOS DE SERVICIO, EQUIVALENTE AL SUELDO NOMINAL DE LAS MAGISTRADAS Y LOS MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE YUCATÁN EN ACTIVO.
+
+EL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE YUCATÁN TURNARÁ EL (SIC) CONSEJO DE LA JUDICATURA LAS SOLICITUDES DE RETIRO DE LAS MAGISTRADAS Y MAGISTRADOS QUE RECIBA EN LOS TÉRMINOS DE ESTE ARTÍCULO Y ÉSTE REALIZARÁ LAS GESTIONES PARA OTORGAR EL HABER POR RETIRO QUE CORRESPONDA. LA PRESIDENCIA DEL TRIBUNAL DEBERÁ NOTIFICAR A LOS PODERES EJECUTIVO Y LEGISLATIVO, LA ACEPTACIÓN DEFINITIVA DE LA SOLICITUD DE RETIRO DE LAS MAGISTRADAS Y MAGISTRADOS EN TÉRMINOS DE LO ESTABLECIDO EN ESTE DECRETO, PARA EL INICIO DEL PROCESO DE DESIGNACIÓN CORRESPONDIENTE
+
+EN CASO DE NO OPTAR POR EL RETIRO ANTICIPADO A QUE SE REFIERE EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO, LAS MAGISTRADAS Y MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE YUCATÁN SEGUIRÁN EN FUNCIONES POR EL TÉRMINO QUE LE RESTE A SU ENCARGO Y SE SUJETARÁN A LO PREVISTO EN LOS ARTÍCULOS 64 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN Y 170 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, REFORMADOS MEDIANTE ESTE DECRETO.
+
+Artículo Séptimo. Presidencia del Tribunal
+
+Por única ocasión, el pleno del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios deberá seleccionar a la Magistrada o Magistrado presidente y a su suplente dentro de los treinta días naturales siguientes a la designación de las Magistradas y Magistrados a que se refiere el artículo transitorio cuarto. La Magistrada o Magistrado presidente electo en términos de este párrafo entrará en funciones el primer lunes del mes siguiente al de la elección.
+
+Artículo Octavo. Incremento presupuestal del Poder Judicial
+
+Se autoriza al Poder Ejecutivo del Estado, a través de la Secretaría de Administración y Finanzas, para realizar las transferencias y adecuaciones necesarias a efecto de ampliar el presupuesto del Tribunal Superior de Justicia del Estado de Yucatán, para la creación de las nuevas plazas de las Magistradas y Magistrados, así como la provisión de los recursos administrativos, humanos, materiales estrictamente necesarios para su adecuado funcionamiento, y al Consejo de la Judicatura del Poder Judicial del Estado, para el otorgamiento de los haberes por retiro de las Magistradas y Magistrados del Tribunal Superior de Justicia del Estado de Yucatán que lo soliciten, conforme a lo previsto en este decreto.
+
+De igual manera, se autoriza al Poder Ejecutivo del Estado, a través de la Secretaría de Administración y Finanzas, para realizar el pago del haber por retiro vitalicio que se otorgue a las Magistradas y Magistrados del Tribunal Superior de Justicia del Estado de Yucatán que se encuentren en el supuesto previsto en el segundo párrafo del artículo sexto transitorio de este Decreto, con cargo a la partida correspondiente del Presupuesto de Egresos del Gobierno del Estado de Yucatán, a partir de que el Pleno del referido tribunal apruebe el otorgamiento de dicho haber.
+
+Los Presupuestos de Egresos del Gobierno del Estado de Yucatán deberán prever recursos suficientes para garantizar la entrega de los haberes por retiro y las plazas a que se refiere este decreto.
+
+Artículo Noveno. Integración provisional del Tribunal Superior de Justicia del Estado de Yucatán
+
+Por única ocasión, para efectos de lo previsto en el artículo 64, párrafo tercero, de la Constitución Política del Estado de Yucatán y 28 de la Ley Orgánica del Poder Judicial del Estado de Yucatán, el Tribunal Superior de Justicia del Estado de Yucatán, a partir de la entrada en vigor de este decreto continuará integrado por once Magistradas y Magistrados y su número aumentará de manera progresiva hasta en tanto el Congreso del Estado de Yucatán nombre a las cuatro nuevas personas titulares de las magistraturas del referido tribunal, para alcanzar quince integrantes.
+
+Artículo Décimo. Elaboración del Proyecto de Presupuesto del Poder Judicial del Estado para el ejercicio fiscal 2023
+
+Se establece un plazo máximo de 3 años para que el Consejo de la Judicatura cumpla plenamente lo establecido en el artículo 83 de la Ley Orgánica del Poder Judicial del Estado de Yucatán, por lo que deberá, año con año y de forma gradual, incrementar el número de jueces de primera instancia hasta cumplir con los criterios establecidos en la referida disposición y mantener actualizado el número de juzgados de acuerdo a los mismos criterios.
+
+El Poder Judicial a través del Consejo de la Judicatura en uso de las facultades previstas en la Ley Orgánica del Poder Judicial del Estado de Yucatán, podrá, en la elaboración del Proyecto de Presupuesto del Poder Judicial del Estado para el ejercicio fiscal 2023 y bajo su entera competencia, determinar de ser necesario y procedente la creación de nuevos juzgados de primera instancia, considerando los criterios previstos en la ley de mérito.
+
+Artículo Décimo Primero. De la Comisión de Conflictos Laborales del Poder Judicial del Estado
+
+El Poder Judicial del Estado de Yucatán contará con un plazo de ciento ochenta días naturales para expedir las disposiciones que regulen el procedimiento de revocación a que se refiere este decreto.
+
+Deberá llevar a cabo las gestiones necesarias para la integración de la Comisión de Conflictos Laborales del Poder Judicial del Estado a partir de los ciento ochenta días naturales siguientes a la entrada en vigor de este decreto.
+
+La Comisión de Conflictos Laborales del Poder Judicial del Estado deberá emitir su reglamento interno dentro de los noventa días naturales siguientes a su integración e instalación.
+
+Los asuntos relativos a conflictos laborales del Poder Judicial con sus servidoras o servidores públicos, que se encuentren en trámite ante el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios de Yucatán, serán concluidos por este tribunal conforme a las disposiciones vigentes previo a la entrada en vigor de este decreto.
+
+Artículo Décimo Segundo. Implementación de un sistema tecnológico
+
+El Pleno del Consejo de la Judicatura implementará en forma gradual el sistema tecnológico al que se refiere el artículo 72 de la Constitución Política del Estado de Yucatán, el cual permitirá el acceso en línea a los Juzgados de primera y segunda instancia en todas las materias en todo el Estado de Yucatán.
+
+Artículo Décimo Tercero. Derogación Tácita
+
+Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
