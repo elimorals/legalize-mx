@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1252
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-30"
-last_updated: "2020-12-12"
+last_updated: "2022-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2022.
 
 Ley publicada en el Suplemento al Número 104 del Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre de 2017.
 
@@ -701,7 +701,9 @@ Acatarán las instrucciones que se les dicten para tal efecto, cumplirán las ac
 
 Los Fiscales Especializados en Materia de Delitos Electorales, de Combate a la Corrupción; de Derechos Humanos, Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes; de Desaparición forzada de personas y desaparición cometida por particulares, y Trata de Personas, serán nombrados y removidos en los términos establecidos en la Constitución del Estado y en esta Ley. El plazo que tendrá la Legislatura del Estado para objetar la decisión del Fiscal General será de diez días hábiles.
 
-Al momento de su designación los Fiscales Especializados deberán tener 30 años cumplidos y contar con título profesional de Licenciado en Derecho o afín y cédula profesional debidamente registrados.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2022)</small>
+
+Al momento de su designación, los Fiscales Especializados deberán tener 30 años cumplidos y contar con titulo profesional de grado académico maestría en área del derecho o afin y cédula profesional debidamente registrados.
 
 #### Sección Primera. Fiscalía Especializada en Atención de Delitos Electorales
 
@@ -1902,3 +1904,11 @@ Artículo Segundo. El Instituto Electoral del Estado de Zacatecas y el Tribunal 
 Artículo Tercero. Las dependencias del Poder Ejecutivo del Estado, los Ayuntamientos, los Organismos Autónomos y los demás Entes Públicos a los que este Decreto les señala alguna atribución u obligación, deberán armonizar su normatividad interna en un plazo que no exceda de 90 días a partir de la entrada en vigor del presente Decreto.
 
 Artículo Cuarto. Se derogan todas aquellas disposiciones contrarias al presente Decreto.
+
+P.O. 4 DE MAYO DE 2022.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO NO. 98.- SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
