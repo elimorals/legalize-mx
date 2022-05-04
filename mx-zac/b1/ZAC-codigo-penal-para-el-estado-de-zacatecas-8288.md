@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2021-08-11"
+last_updated: "2022-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2022.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -2365,7 +2365,9 @@ VI. Se deje cicatriz permanente en alguna parte del cuerpo;
 
 VII. Se tengan documentados antecedentes o denuncia de violencia familiar cometidos por el mismo agresor contra la víctima; o
 
-VIII. Exista imposibilidad material de la víctima de denunciar.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2022)</small>
+
+VIII. Exista imposibilidad material de la víctima de denunciar o se cometa violencia vicaria.
 
 > <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
 
@@ -4112,3 +4114,11 @@ QUINTO. Los apicultores que ya cuentan con apiarios instalados en el Estado, en 
 SEXTO. Los apicultores que ya estén instalados y que no se encuentren registrados, tendrán un plazo de ciento ochenta días para obtener su registro ante la Secretaría.
 
 SÉPTIMO. El Programa Estatal deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, dentro de los ciento veinte días naturales posteriores a la entrada en vigor del presente ordenamiento.
+
+P.O. 4 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 95.- REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE ZACATECAS, DEL CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS Y DEL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
