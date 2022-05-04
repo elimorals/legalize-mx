@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2022-02-02"
+last_updated: "2022-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2022.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -387,6 +387,10 @@ Las autoridades estatales y municipales en el ámbito de sus respectivas compete
 
 Niñas, niños o adolescentes podrán ser integrados a una familia de acogimiento, preferentemente con la que tenga vínculos de parentesco o afectivos y como última opción se realizará en una institución de asistencia social.
 
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2022)</small>
+
+Las autoridades estatales deberán desarrollar campañas permanentes de socialización y promoción de la certificación de familias de acogida para que estas brinden el cuidado, protección y bienestar social por tiempo limitado a aquellas niñas, niños y adolescentes por la temporalidad necesaria previa al aseguramiento de su vida en familia permanente.
+
 ###### Artículo 30.
 
 Niñas, niños y adolescentes cuyas familias estén separadas, tendrán derecho a convivir o mantener relaciones personales y contacto directo con sus familiares de modo regular, excepto en los casos en que el órgano jurisdiccional competente determine que ello es contrario al interés superior de la niñez, sin perjuicio de las medidas cautelares y de protección que se dicten por las autoridades competentes en los procedimientos respectivos, en los que se deberá garantizar el derecho de audiencia de todas las partes involucradas, en especial de niñas, niños y adolescentes.
@@ -485,7 +489,7 @@ V. Las autoridades estatales y municipales en el ámbito de sus respectivas comp
 
 ###### Artículo 38.
 
-Tratándose de adopción internacional, la legislación deberá disponer lo necesario para asegurar que los derechos de niñas, niños y adolescentes que sean adoptados sean garantizados en todo momento y se ajusten (sic) el interés superior de la niñez, así como garantizar que esta adopción no sea realizada para fines de venta, sustracción, retención u ocultación ilícita, tráfico, trata de personas, explotación, las peores formas de trabajo infantil o cualquier ilícito en contra de los mismos.
+Tratándose de adopción internacional, la legislación deberá disponer lo necesario para asegurar que los derechos de niñas, niños y adolescentes que sean adoptados sean garantizados en todo momento y se ajusten el interés superior de la niñez, así como garantizar que esta adopción no sea realizada para fines de venta, sustracción, retención u ocultación ilícita, tráfico, trata de personas, explotación, las peores formas de trabajo infantil o cualquier ilícito en contra de los mismos.
 
 En los procedimientos judiciales de adopción internacional deberá requerirse el informe de adoptabilidad por parte del Sistema Nacional DIF o del DIF Estatal y, una vez que el órgano jurisdiccional competente otorgue la adopción, previa solicitud de los adoptantes, la Secretaría de Relaciones Exteriores expedirá la certificación correspondiente, de conformidad con los tratados internacionales.
 
@@ -875,7 +879,9 @@ VI. Prevenir el delito y las adicciones, mediante el diseño y ejecución de pro
 
 VII. Emprender, en cooperación con quienes ejerzan la patria potestad, tutela o guarda y custodia, así como con grupos de la comunidad, la planificación, organización y desarrollo de actividades extracurriculares que sean de interés para niñas, niños y adolescentes.
 
-VIII. Impartir educación sexual integral conforme a la edad, el desarrollo evolutivo, cognoscitivo y madurez, abordando conocimientos sobre la reproducción humana, planificación familiar y prevención de enfermedades de transmisión sexual, entre otros.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2022)</small>
+
+VIII. Impartir educación sexual integral conforme a la edad, el desarrollo evolutivo, cognoscitivo y madurez, abordando conocimientos sobre la reproducción humana, planificación familiar, higiene y gestión menstrual, y prevención de enfermedades de transmisión sexual, entre otros.
 
 IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos.
 
@@ -2634,3 +2640,23 @@ P.O. 2 DE FEBRERO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0210/2022 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE EDUCACIÓN Y LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVII/RFLEY/0214/2022 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 29, EL PÁRRAFO SEXTO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Siguiendo los procedimientos que resulten aplicables, en su caso, háganse las previsiones presupuestales a que hubiere lugar, necesarias o pertinentes para el cumplimiento del presente Decreto.
