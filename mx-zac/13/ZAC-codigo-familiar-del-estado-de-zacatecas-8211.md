@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2021-12-29"
+last_updated: "2022-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2022.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -1801,11 +1801,11 @@ ARTICULO 240 OCTIES.- Para el caso que los solicitantes del divorcio administrat
 
 ### CAPITULO DECIMO CUARTO. DEL CONCUBINATO
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 241.
 
-El concubinato es un matrimonio de hecho, es la unión entre un hombre y una mujer libres de matrimonio y sin los impedimentos que la Ley señala para celebrarlo, que de manera pública y permanente, hacen vida en común, como si estuvieran casados, si tal unión perdura durante más de dos años o procrearen hijos.
+El concubinato es un matrimonio de hecho, es la unión entre dos personas libres de matrimonio y sin los impedimentos que la Ley señala para celebrarlo, que, de manera pública y permanente, hacen vida en común, como si estuvieran casados, si tal unión perdura durante más de dos años o procrearen hijos.
 
 ###### ARTICULO 242.
 
@@ -1859,9 +1859,11 @@ El parentesco de afinidad es el que se contrae por el matrimonio, entre el varó
 
 Disuelto el matrimonio desaparece el parentesco por afinidad.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2022)</small>
+
 ###### ARTICULO 248.
 
-Se asimila al parentesco por afinidad la relación que resulta del concubinato, entre el concubinario y los parientes de la concubina y entre los parientes de éste con aquélla. Esta asimilación sólo comprende los parientes consanguíneos en línea recta ascendiente o descendiente sin limitación de grado; y su único efecto es constituir un impedimento para el matrimonio.
+Se asimila al parentesco por afinidad la relación que resulta del concubinato. Esta asimilación sólo comprende los parientes consanguíneos en línea recta ascendiente o descendiente sin limitación de grado; y su único efecto es constituir un impedimento para el matrimonio.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
@@ -2101,7 +2103,13 @@ V. Violencia económica: Privación intencionada y no justificada legalmente de 
 
 VI. Violencia patrimonial: Acto u omisión encaminado a apropiarse o destruir el patrimonio de la pareja o de cualquier miembro de la familia sin autorización, mismos que pueden consistir en el abuso de los ingresos, el apoderamiento, despojo, transformación, sustracción, destrucción, desaparición retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos, y
 
-VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la libertad, dignidad o integridad de la familia.
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2022)</small>
+
+VII. Violencia vicaria, consistente en cualquier acto u omisión, por parte de la pareja o ex pareja sentimental de una mujer que inflija a personas con las que ésta tenga lazos de parentesco civil, por consanguinidad hasta el cuarto grado o por afinidad hasta el segundo grado, un daño, menoscabo o sufrimiento de cualquier naturaleza con el propósito de causar perjuicio o daño psicológico, patrimonial, físico o de cualquier otra índole a la mujer;
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2022)</small>
+
+VIII. Cualesquiera otras formas análogas que lesionen o sea (sic) susceptibles de dañar la libertad, dignidad o integridad de la familiar (sic).
 
 Serán considerados como violencia en los términos de este artículo, los actos que causen el mismo daño a un menor de edad, o se empleen medidas inadecuadas para reprenderlo, aunque se argumente como justificación la educación y formación del menor, en el uso del derecho de corregir.
 
@@ -5258,3 +5266,19 @@ P.O. 29 DE DICIEMBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 4 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 95.- REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE ZACATECAS, DEL CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS Y DEL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 4 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 96.- SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
