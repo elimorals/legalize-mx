@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-civil-del-estado-de-zacatecas-8277"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-24"
-last_updated: "2021-09-08"
+last_updated: "2022-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2022.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 1986.
 
@@ -5395,7 +5395,9 @@ Se llama arrendador al que da el bien en arrendamiento y arrendatario el que lo 
 
 1763.- La renta o precio del arrendamiento puede consistir en una suma de dinero o cualquiera otra cosa equivalente, con tal que sea cierta y determinada.
 
-1764.- El arrendamiento debe otorgarse por escrito cuando la renta pase del equivalente a cincuenta cuotas del salario mínimo vigente en el lugar de la ubicación del inmueble, ya sea rústico o urbano; si la renta pasare de dicha cantidad, el contrato se otorgará en escritura pública.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2021)</small>
+
+1764.- El arrendamiento debe otorgarse por escrito cuando se trate de bienes inmuebles, en cuyo caso se inscribirá ante la autoridad municipal facultada para llevar a cabo dicha inscripción, conforme a lo establecido en el Apartado G, del artículo 1810 de este Código. En caso de que el monto del arrendamiento supere el valor diario de trescientas ocho unidades de medida y actualización vigente en el lugar de la ubicación del inmueble, ya sea rústico o urbano, el contrato deberá otorgarse en escritura pública.
 
 1765.- La falta de contrato de arrendamiento otorgado por escrito, será imputable al arrendador.
 
@@ -8316,5 +8318,13 @@ P.O. 8 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 690.- SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 1938 DEL CÓDIGO CIVIL DEL ESTADO DE ZACATECAS”.]
 
 Artículo primero. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 4 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 97.- SE REFORMA UN DISPOSITIVO DEL CÓDIGO CIVIL DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
