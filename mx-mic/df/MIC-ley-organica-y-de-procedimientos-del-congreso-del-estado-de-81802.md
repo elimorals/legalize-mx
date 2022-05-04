@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2022-04-01"
+last_updated: "2022-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2022.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -785,13 +785,15 @@ Las Comisiones deberán contar para el desempeño de sus funciones, con los elem
 
 Todas las Comisiones son colegiadas y se integrarán procurando reflejar la pluralidad del Congreso hasta con un máximo de cinco Diputados, presididas por el primero de los nombrados a propuesta de la Junta. Las comisiones especiales se integrarán por el número de diputados que disponga su acuerdo de creación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2022)</small>
 
 ###### ARTÍCULO 54.
 
-Las comisiones de Dictamen se constituyen a propuesta de la Junta la que se presentará al Pleno, a más tardar en la cuarta sesión del primer año legislativo, determinando su integración y presidencias.
+Las comisiones de Dictamen se constituyen a propuesta de la Junta la que se presentará al Pleno, a más tardar en la cuarta sesión del primer año legislativo. Tratándose de comisiones creadas en fecha posterior a dicha sesión, deberán constituirse en la sesión inmediata siguiente a aquella en la que se haya aprobado el decreto correspondiente.
 
-Las comisiones podrán ser reestructuradas total o parcialmente, siguiendo el mismo procedimiento de este artículo.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2022)</small>
+
+En ambos casos se determinará su integración y presidencias. Las comisiones podrán ser reestructuradas total o parcialmente, siguiendo el mismo procedimiento de este artículo.
 
 En caso de que algún Diputado se separe del Grupo parlamentario al que pertenecía en el momento de integrarse las Comisiones, el Coordinador del Grupo parlamentario podrá proponer su sustitución a la Junta.
 
@@ -934,6 +936,10 @@ XIX. Justicia;
 XX. Migración;
 
 XXI. Programación, Presupuesto y Cuenta Pública;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2022)</small>
+
+XXI Bis. Protección a la Niñez y Adolescencia;
 
 XXII. Pueblos Indígenas;
 
@@ -1588,6 +1594,34 @@ IX. Recibir de la Comisión Inspectora de la Auditoría Superior de Michoacán y
 X. Los asuntos señalados en la Ley de Fiscalización Superior de Michoacán;
 
 XI. Los que se refieran al Plan Estatal de Desarrollo del Estado; y,
+
+XII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2022)</small>
+
+ARTÍCULO 87 BIS. Corresponde a la Comisión de Protección a la Niñez y Adolescencia, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+
+I. Los que se relacionen con la promoción, defensa y preservación de los derechos de las niñas, niños y adolescentes;
+
+II. Dictaminar las iniciativas, propuestas de acuerdo y comunicaciones, en materia de niñez y adolescencia;
+
+III. Los relativos a garantizar y vigilar el respeto pleno al interés superior de la niñez y adolescencia, así como sus derechos, previstos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales, en la normatividad general y estatal en la materia, así como en la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo;
+
+IV. Los relativos a denuncias sobre violación de derechos de las niñas, niños y adolescentes, para su conocimiento y canalización, en su caso;
+
+V. Las acciones encaminadas a promover el respeto de los derechos de las niñas, niños y adolescentes a través de la vinculación interinstitucional y la sociedad civil;
+
+VI. Revisar la legislación del Estado, con el objeto de establecer propuestas tendientes a garantizar los derechos de las niñas, niños y adolescentes;
+
+VII. Apoyar y colaborar en el diseño y ejecución de programas a favor de las niñas, niños y adolescentes a nivel estatal y municipal;
+
+VIII. Recomendar a las instituciones públicas y privadas de asistencia social, las medidas tendientes al desarrollo integral de niñas, niños y adolescentes;
+
+IX. Emitir anualmente durante el mes de abril, la convocatoria pública, para la integración (sic) Parlamento Infantil y organizar dicho evento, en conjunto con la Comisión de Educación;
+
+X. Conocer y dictaminar aquellos informes que tengan relación con la niñez y la adolescencia;
+
+XI. Invitar a otras entidades, dependencias, instituciones, ayuntamientos y organismos para tratar asuntos relativos a su área de competencia; y,
 
 XII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
 
@@ -4324,3 +4358,23 @@ Primero. El presente Decreto entrará en vigor al momento de su aprobación, con
 Segundo. En lo referente al Tercer Informe Anual de Resultados y Avances al Plan de Persecución de Delitos, deberá aplicarse lo establecido en el presente Decreto. Para lo cual, la Comisión de Igualdad Sustantiva y de Género, solicitará el turno respectivo.
 
 Tercero. Dese cuenta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 4 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 153 POR EL QUE “SE REFORMA EL ARTÍCULO 54, Y SE ADICIONA LA FRACCIÓN XXI BIS AL ARTÍCULO 62 Y EL ARTÍCULO 87 BIS, DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al momento de su aprobación, conforme a lo dispuesto en el artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+Segundo. La Junta de Coordinación Política, presentará al Pleno para su aprobación correspondiente, la Propuesta de Acuerdo para la integración de la Comisión de Protección a la Niñez y Adolescencia de la Septuagésima Quinta Legislatura del Congreso del Estado de Michoacán de Ocampo.
+
+Tercero. La instalación formal de la Comisión de Protección a la Niñez y Adolescencia, se realizará posterior a su elección, en un acto presidido por el Presidente del Congreso o por cualquier otro Miembro de la Mesa Directiva.
+
+Cuarto. A partir de la instalación de la Comisión de Protección a la Niñez y Adolescencia, se avocará al estudio, análisis y dictamen de las iniciativas, comunicaciones y propuestas de acuerdo que se encuentren pendientes de dictamen en la materia de su competencia, previo turno formal (sic) realice la Presidencia de la Mesa Directiva.
+
+Quinto. Por única ocasión, para los fines de la fracción I del artículo 61, de la Ley Orgánica y de Procedimientos del Congreso del Estado de Michoacán de Ocampo, la Comisión de Protección a la Infancia y Adolescencia, tendrá un plazo no mayor a noventa días hábiles para su presentación ante la Conferencia.
+
+Sexto. A partir de su instalación, de manera inmediata se deberá atender a lo establecido a los artículos 27 y 30 del Reglamento de Comisiones y Comités.
+
+Séptimo. Para los fines de la convocatoria para la integración del Parlamento Infantil, la Comisión de Protección a la Niñez y Adolescencia, hará lo concerniente a partir del año 2023 y subsecuentes.
+
+Octavo. Dése cuenta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
