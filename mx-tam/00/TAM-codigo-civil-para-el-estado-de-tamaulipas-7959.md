@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2022-04-13"
+last_updated: "2022-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2022.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -312,6 +312,10 @@ Si el nacimiento ocurriere en un establecimiento de reclusión, el Oficial del R
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2018)</small>
 
 En todos los casos que se requiera, el Oficial del Registro Civil está obligado a registrar en el acta de nacimiento el nombre solicitado, con estricto apego a las formas orales, funcionales y simbólicas de comunicación pertenecientes a las lenguas indígenas.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2022)</small>
+
+El Oficial del Registro Civil expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
 
 > <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
 
@@ -10604,3 +10608,11 @@ Se concede un plazo de 90 días, a partir de la entrada en vigor del presente De
 ###### ARTÍCULO TERCERO.
 
 Inmediatamente después de que el Registro Estatal de Deudores Alimentarios Morosos entre en funciones se deberá dar trámite a las resoluciones judiciales que se hubieren efectuado durante el periodo existente entre la entrada en vigor de este decreto y el inicio de operaciones del referido Registro.
+
+P.O. 5 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-151 MEDIANTE EL CUAL SE DECLARAN PROCEDENTES LAS OBSERVACIONES PARCIALES DEL TITULAR DEL EJECUTIVO DEL ESTADO DE TAMAULIPAS, EN RELACIÓN AL DECRETO NÚMERO 65-138, MEDIANTE EL CUAL SE ADICIONAN LOS PÁRRAFOS QUINTO Y SEXTO AL ARTÍCULO 59 DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS; POR LO QUE DERIVADO DE LA APROBACIÓN DE LAS OBSERVACIONES FORMULADAS SE HACE NECESARIO DESECHAR EL PÁRRAFO SEXTO ADICIONADO AL ARTÍCULO 59 DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS, DEL DECRETO NÚMERO 65-138, PARA DARLE COHERENCIA NORMATIVA NECESARIA PARA SU APLICACIÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
