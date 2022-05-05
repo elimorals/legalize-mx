@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2022-02-06"
+last_updated: "2022-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2022.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -87,9 +87,15 @@ Las autoridades del Estado de Durango están obligadas a reparar las violaciones
 
 El Estado de Durango reconoce, protege y garantiza el derecho a la vida de todo ser humano, al sustentar expresamente que desde el momento de la fecundación entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural, salvo las excepciones que establezca la ley.
 
-En el Estado de Durango toda persona tiene derecho a la libertad y a la seguridad personal. Nadie estará sometido a esclavitud alguna.
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2022)</small>
+
+En el Estado de Durango toda persona tiene derecho a la libertad y a la seguridad personal, así como a la paz y a la seguridad pública. Nadie estará sometido a esclavitud alguna.
 
 En consecuencia, quedan abolidas la pena de muerte, la esclavitud o servidumbre y la trata de personas en todas sus formas.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2022)</small>
+
+Para la consecución de la paz, el Estado y sus municipios priorizarán la prevención y fortalecerán el componente reactivo de la seguridad pública, realizarán y promoverán acciones de paz positiva, mediante el enriquecimiento de sus instituciones, el respeto a los derechos humanos, la participación social, cohesión familiar y comunitaria, y la seguridad ciudadana.
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 2021)</small>
 
@@ -102,6 +108,10 @@ Se reconoce y garantiza a toda persona el derecho a la integridad física, psíq
 ###### Artículo 5.
 
 Todas las personas son iguales ante la ley y gozan de los mismos derechos. En consecuencia, queda prohibido todo tipo de discriminación por origen étnico, lugar de nacimiento, género, edad, identidad cultural, condición social o de salud, religión, opiniones, preferencias políticas, orientación sexual, identidad de género, estado civil, estado de gravidez o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2022)</small>
+
+Todas las personas tienen derecho a la paz, teniendo como obligación procurarla y fomentarla.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JULIO DE 2021)</small>
 
@@ -329,9 +339,9 @@ En el caso de las etnias duranguenses, la educación será bilingüe y respetar�
 
 El Estado promoverá la educación superior, la investigación científica y tecnológica y la difusión de la cultura.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2022)</small>
 
-La educación pública será laica y gratuita; su objetivo será el pleno desarrollo de la personalidad y las capacidades de los estudiantes; promoverá la conservación y difusión del patrimonio artístico, histórico, científico y cultural de Durango; estimulará el pensamiento crítico e impulsará el conocimiento y respeto de los derechos humanos, el amor a la patria y a Durango, la solidaridad, la justicia, la democracia y la tolerancia, la igualdad de género, la preservación de la naturaleza y el respeto a la ley.
+La educación pública será laica y gratuita; su objetivo será el pleno desarrollo de la personalidad y las capacidades de los estudiantes; promoverá la conservación y difusión del patrimonio artístico, histórico, científico y cultural de Durango; estimulará el pensamiento crítico e impulsará el conocimiento y respeto de los derechos humanos, la cultura de paz, el amor a la patria y a Durango, la solidaridad, la justicia, la democracia y la tolerancia, la igualdad de género, la preservación de la naturaleza y el respeto a la ley.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1195,7 +1205,7 @@ f) Expedir las bases legales que señale cuales serán los supuestos en los que 
 
 II. De fiscalización, vigilancia y combate a la corrupción:
 
-a) Recibir la cuenta pública del Ejecutivo, los órganos constitucionales autónomos y los ayuntamientos.
+a) Recibir la cuenta pública del Ejecutivo, los órganos constitucionales, autónomos y los ayuntamientos.
 
 b) Revisar, discutir y aprobar, en su caso, con vista del informe que rinda la Entidad de Auditoría Superior del Estado, la cuenta pública que anualmente le presentarán, el Ejecutivo, los órganos constitucionales autónomos y los ayuntamientos del Estado, sobre sus respectivos ejercicios presupuestales.
 
@@ -4230,3 +4240,15 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 El Congreso del Estado deberá realizar los ajustes legales correspondientes para dar cumplimiento al presente decreto en un plazo que no exceda de 180 días a partir de la entrada en vigor del mismo.
+
+P.O. 5 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 97.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 3, 5 Y 22 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
