@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2022-02-24"
+last_updated: "2022-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2022.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -2695,7 +2695,9 @@ d) En votación económica inmediata, el Congreso determinará si se admite o no
 
 2. La dispensa consiste en la omisión de alguna o algunas de las fases del procedimiento parlamentario.
 
-3. La dispensa del turno del asunto a comisiones para la formulación de dictamen sólo podrá autorizarse cuando se trate de asuntos de obvia o de urgente resolución, por medio del voto de la mayoría de los legisladores presentes en el Pleno, pero si se tratara de asuntos relacionados con adiciones o reformas a la Constitución Política de los Estados Unidos Mexicanos o la Constitución Política del Estado se requerirá el voto de las dos terceras partes de los integrantes del Pleno.
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2022)</small>
+
+3. La dispensa del turno del asunto a comisiones para la formulación de dictamen sólo podrá autorizarse cuando se trate de asuntos de obvia o de urgente resolución, por medio del voto de las dos terceras partes de los legisladores presentes en el Pleno, pero si se tratara de asuntos relacionados con adiciones o reformas a la Constitución Política de los Estados Unidos Mexicanos o la Constitución Política del Estado se requerirá el voto de las dos terceras partes de los integrantes del Pleno.
 
 4. La petición de dispensa de las fases del procedimiento podrá formularla cualquiera de los miembros del Congreso, sea en forma verbal o escrita, señalándose invariablemente el motivo y fundamento de su solicitud, o plantearse por el presidente de la Mesa Directiva en ejercicio de sus facultades de dirección parlamentaria.
 
@@ -3682,3 +3684,11 @@ P.O. 24 DE FEBRERO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y será publicado en el Periódico Oficial del Estado.
+
+P.O. 5 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-152 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO 3 DEL ARTÍCULO 148 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición, y será publicado en el Periódico Oficial del Estado.
