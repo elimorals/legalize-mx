@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-y-erradicar-la-discriminacion-en-el-43186"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-29"
-last_updated: "2021-09-30"
+last_updated: "2022-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2022.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2004.
 
@@ -149,9 +149,17 @@ m) Impedir su acceso a la justicia o generar cualquier tipo de violencia contra 
 
 n) Aplicar cualquier tipo de uso o costumbre que atente contra su dignidad e integridad;
 
-ñ) Impedir la libre elección de cónyuge, y
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2022)</small>
 
-o) Ofender, ridiculizar, hostigar o promover la violencia en su contra a través de mensajes e imágenes en los medios de comunicación.
+ñ) Impedir la libre elección de cónyuge;
+
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2022)</small>
+
+o) Ofender, ridiculizar, hostigar o promover la violencia en su contra a través de mensajes e imágenes en los medios de comunicación; y
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2022)</small>
+
+p) Prohibir, limitar o restringir el acto de amamantar en espacios públicos.
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2008)</small>
 
@@ -646,3 +654,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Para dar cumplimiento a lo dispuesto en el presente decreto, el Titular del Poder Ejecutivo del Estado contará con un plazo que no excederá de 30 días hábiles posteriores a la entrada en vigor del presente decreto para, de ser el caso, armonizar el contenido reglamentario de la presente Ley.
+
+P.O. 5 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-154 MEDIANTE EL CUAL SE REFORMAN LOS INCISOS Ñ) Y O), Y SE ADICIONA EL INCISO P) AL PÁRRAFO 1 DEL ARTÍCULO 9 DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
