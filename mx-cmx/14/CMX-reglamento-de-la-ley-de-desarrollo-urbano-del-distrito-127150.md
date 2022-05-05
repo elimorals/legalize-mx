@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-desarrollo-urbano-del-distrito-127150"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-03-15"
-last_updated: "2021-07-27"
+last_updated: "2022-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127150&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-03-05"
 
 REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE MAYO DE 2022.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el jueves 15 de marzo de 2018.
 
@@ -1024,9 +1024,21 @@ VIII. La autorización de uso y ocupación, estará condicionada a la formalizac
 
 IX. La obligación a que se refiere este artículo, independientemente de la forma o modalidad en que se cumpla, es adicional a las obligaciones derivadas de las medidas de integración urbana a que se condicione el dictamen de estudio de impacto urbano o urbano ambiental del proyecto correspondiente;
 
-X. Las transmisiones a título gratuito para formalizar la inscripción de vías públicas no podrán ser consideradas como cumplimiento de la obligación a que se refiere este artículo; y
+> <small>(REFORMADA, G.O. 5 DE MAYO DE 2022)</small>
 
-XI. No se realizarán inscripciones de subdivisiones en los Planos de Alineamiento y Derechos de Vía, de aquellos predios cuyos propietarios o causahabientes se encuentren obligados en los términos de este artículo, hasta en tanto se acredite ante la Secretaría el cumplimiento de la obligación correspondiente.
+X. Las transmisiones a título gratuito para formalizar la inscripción de vías públicas no podrán ser consideradas como cumplimiento de la obligación a que se refiere este artículo;
+
+> <small>(REFORMADA, G.O. 5 DE MAYO DE 2022)</small>
+
+XI. No se realizarán inscripciones de subdivisiones en los Planos de Alineamiento y Derechos de Vía, de aquellos predios cuyos propietarios o causahabientes se encuentren obligados en los términos de este artículo, hasta en tanto se acredite ante la Secretaría el cumplimiento de la obligación correspondiente, y
+
+> <small>(ADICIONADA, G.O. 5 DE MAYO DE 2022)</small>
+
+XII. Las personas interesadas en donar predios para que sean destinados a la construcción de vivienda de interés social o popular en la Ciudad de México, en beneficio de personas en situación de riesgo inminente y/o damnificadas por emergencias y/o desastres podrán, previo a la donación, solicitar a la Secretaría que la superficie a donar sea considerada en la proporción que corresponda como parte del cumplimiento de la obligación a que se refiere este artículo, respecto de trámites de evaluación de estudio de impacto urbano y/o subdivisiones que realicen con posterioridad.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN XII, G.O. 5 DE MAYO DE 2022.]</small>
+
+La Secretaría deberá solicitar a la Secretaría de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México, su opinión técnica de riesgo sobre la idoneidad del predio a donar.
 
 ###### Artículo 81.
 
@@ -2541,3 +2553,11 @@ G.O. 27 DE JULIO DE 2021.
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 5 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 80 DEL REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
