@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2022-03-02"
+last_updated: "2022-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -139,43 +139,47 @@ C).- La atención de la madre, del infante aún desde el momento de su concepci�
 
 D).- La prestación de servicios de planificación familiar;
 
-E).- La salud mental;
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2022)</small>
 
-F).- La organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud;
+E).- La prevención, información, orientación, investigación, atención, control y vigilancia en materia de embarazo temprano, así como el fomento de la importancia de acudir a las citas médicas;
 
-G).- La promoción de la formación de recursos humanos para la salud;
+F).- La salud mental;
+
+G).- La organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud;
+
+H).- La promoción de la formación de recursos humanos para la salud;
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
-H).- La coordinación de la investigación para la salud y el control de éstas en seres humanos. Asimismo, el control sanitario de la disposición de órganos, tejidos y sus componentes, células y cadáveres humanos;
+I).- La coordinación de la investigación para la salud y el control de éstas en seres humanos. Asimismo, el control sanitario de la disposición de órganos, tejidos y sus componentes, células y cadáveres humanos;
 
-I).- La información relativa a las condiciones, recursos y servicios de salud;
+J).- La información relativa a las condiciones, recursos y servicios de salud;
 
-J).- La educación para la salud;
+K).- La educación para la salud;
 
-K).- La orientación y vigilancia en materia de nutrición;
+L).- La orientación y vigilancia en materia de nutrición;
 
-L).- La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
+M).- La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
 
-M).- La salud ocupacional y el saneamiento básico;
+N).- La salud ocupacional y el saneamiento básico;
 
-N).- La prevención y el control de enfermedades transmisibles;
+O).- La prevención y el control de enfermedades transmisibles;
 
-O).- La prevención y el control de las enfermedades no transmisibles y accidentes;
+P).- La prevención y el control de las enfermedades no transmisibles y accidentes;
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-P).- La asistencia social, prevención de la invalidez y la rehabilitación de las personas con discapacidad;
+Q).- La asistencia social, prevención de la invalidez y la rehabilitación de las personas con discapacidad;
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
 
-Q).- Participar con las autoridades federales en el desarrollo de los programas contra el alcoholismo, el tabaquismo, la farmacodependencia y la ludopatía;
+R).- Participar con las autoridades federales en el desarrollo de los programas contra el alcoholismo, el tabaquismo, la farmacodependencia y la ludopatía;
 
-R).- El control sanitario de publicidad de las actividades, productos y servicios a los que se refiere la Ley General de Salud;
+S).- El control sanitario de publicidad de las actividades, productos y servicios a los que se refiere la Ley General de Salud;
 
-S).- El control sanitario de los establecimientos que procesen alimentos, bebidas no alcohólicas y alcohólicas; y
+T).- El control sanitario de los establecimientos que procesen alimentos, bebidas no alcohólicas y alcohólicas; y
 
-T).- Las demás que establezca la Ley General de Salud y otros ordenamientos legales aplicables.
+U).- Las demás que establezca la Ley General de Salud y otros ordenamientos legales aplicables.
 
 II.- De Salubridad Local:
 
@@ -1604,6 +1608,28 @@ III.- La prevención específica en cada caso y la vigilancia de su cumplimiento
 IV.- La realización de estudios epidemiológicos; y
 
 V.- Las demás que sean necesarias para la prevención, tratamiento, control y rehabilitación de los padecimientos que se presenten en la población.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2022)</small>
+
+###### ARTICULO 89 Bis.
+
+La diabetes tipo 1 tendrá carácter prioritario y por consiguiente la Secretaría garantizará que la población que sufre de ese padecimiento sea debidamente atendida, bajo los más altos estándares médicos y clínicos.
+
+Para tales efectos esta autoridad sanitaria se encargará de:
+
+I.- Vigilar, coordinar y promover que los estudios, programas, acciones y demás medidas sean de manera permanente;
+
+II.- Fomentar, promover, concientizar desarrollar campañas de difusión y sensibilización para la sociedad relacionadas con la enfermedad referida en el presente artículo;
+
+III.- Normar el desarrollo de los programas y actividades de educación en la materia, relacionadas con la enfermedad referida;
+
+IV.- Incorporar en sus presupuestos de manera claramente identificada los recursos que se destinen a un programa específico y prioritario de atención integral a la diabetes tipo 1;
+
+V.- Desarrollar la investigación permanente y sistemática sobre los tratamientos en la enfermedad referida en el presente artículo;
+
+VI.- Establecer un sistema de comunicación constante y seguimiento médico de los derechohabientes detectados en los casos de diabetes tipo 1; y
+
+VII.- Las demás que sean necesarias para asegurar el acceso a los mejores tratamientos en el ejercicio de la protección al derecho de acceso a la salud y acceso a la tecnología en ese padecimiento.
 
 ### CAPITULO SEGUNDO. DE LA ASISTENCIA SOCIAL
 
@@ -3784,6 +3810,26 @@ El presente decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 2 DE MARZO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-128 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES V Y VI, Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 29 DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 65-153 MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 89 BIS A LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En el Presupuesto de Egresos del Estado, cada año deberán considerarse los recursos necesarios a fin de dar cumplimiento al objeto del presente Decreto. Para ese mismo efecto y por lo que corresponde al presente ejercicio fiscal 2022, el Ejecutivo del Estado realizará las reasignaciones presupuestales conducentes para garantizar su observancia y aplicación.
+
+P.O. 5 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-156 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 34, PÁRRAFO 1, FRACCIÓN VI DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; Y SE ADICIONA EL INCISO E) A LA FRACCIÓN I DEL ARTÍCULO 3° RECORRIÉNDOSE LAS SUBSECUENTES EN SU ORDEN NATURAL DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
