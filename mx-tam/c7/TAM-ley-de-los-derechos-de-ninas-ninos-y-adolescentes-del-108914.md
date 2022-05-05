@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2022-04-13"
+last_updated: "2022-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2022.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -533,7 +533,9 @@ IV.- Adoptar medidas tendentes a la eliminación de las prácticas culturales, u
 
 V.- Desarrollar la atención sanitaria preventiva, la orientación a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, y la educación y servicios en materia de salud sexual y reproductiva;
 
-VI.- Establecer las medidas tendentes a prevenir embarazos de las niñas y las adolescentes;
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2022)</small>
+
+VI.- Establecer las medidas tendientes a prevenir, informar, orientar, atender, controlar y vigilar en materia de embarazo temprano, en donde se considere fundamental que las niñas y adolescentes acudan a sus citas médicas;
 
 VII.- Asegurar la prestación de servicios de atención médica respetuosa, efectiva e integral durante el embarazo, parto y puerperio, así como para sus hijas e hijos, y promover la lactancia materna exclusiva dentro de los primeros seis meses y complementaria hasta los dos años, así como garantizar el acceso a métodos anticonceptivos;
 
@@ -1704,3 +1706,11 @@ Se concede un plazo de 90 días, a partir de la entrada en vigor del presente De
 ###### ARTÍCULO TERCERO.
 
 Inmediatamente después de que el Registro Estatal de Deudores Alimentarios Morosos entre en funciones se deberá dar trámite a las resoluciones judiciales que se hubieren efectuado durante el periodo existente entre la entrada en vigor de este decreto y el inicio de operaciones del referido Registro.
+
+P.O. 5 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-156 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 34, PÁRRAFO 1, FRACCIÓN VI DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; Y SE ADICIONA EL INCISO E) A LA FRACCIÓN I DEL ARTÍCULO 3° RECORRIÉNDOSE LAS SUBSECUENTES EN SU ORDEN NATURAL DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
