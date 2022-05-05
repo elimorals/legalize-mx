@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2021-09-30"
+last_updated: "2022-05-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -445,13 +445,17 @@ XXIII.- Participar con la autoridad educativa federal en la operación de los me
 
 XXIV.- Fomentar y supervisar el uso responsable de las tecnologías de la información y la comunicación, en las Instituciones que integran el Sistema Educativo Estatal, con base en los lineamientos generales que emita la autoridad educativa federal;
 
-> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2022)</small>
 
-XXV.- Promover, con base en la capacidad presupuestal, la implementación de programas educativos en materia de primeros auxilios, simulacros y prevención de accidentes, en coordinación con las autoridades estatales y municipales competentes; y
+XXV.- Promover, con base en la capacidad presupuestal, la implementación de programas educativos en materia de primeros auxilios, simulacros y prevención de accidentes, en coordinación con las autoridades estatales y municipales competentes;
+
+> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2022)</small>
+
+XXVI.- Fomentar entre los educandos la honestidad y la integridad para fortalecer el tejido social, así como para evitar y combatir la corrupción, además de difundir la función del Sistema Estatal Anticorrupción y las autoridades que lo integran; y
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2014)</small>
 
-XXVI.- Las demás que le establezcan las disposiciones aplicables.
+XXVII.- Las demás que le establezcan las disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 7 DE MARZO DE 2014)</small>
 
@@ -2416,3 +2420,11 @@ P.O. 30 DE SEPTIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-155 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXV, Y SE ADICIONA LA FRACCIÓN XXVI, RECORRIÉNDOSE LA ACTUAL XXVI PARA SER XXVII DEL ARTÍCULO 12 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
