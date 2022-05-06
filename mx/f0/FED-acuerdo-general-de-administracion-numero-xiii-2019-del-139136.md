@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-xiii-2019-del-139136"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-11-20"
-last_updated: "2019-11-20"
+last_updated: "2022-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139136&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-11-12"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION NUMERO XIII/2019 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE ESTABLECE LA DENOMINACION DE LA DIRECCION GENERAL DE JUSTICIA TV CANAL DEL PODER JUDICIAL DE LA FEDERACION Y DE LA DIRECCION GENERAL DE DERECHOS HUMANOS Y SE CREA LA UNIDAD GENERAL DE ADMINISTRACION DEL CONOCIMIENTO JURIDICO]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 6 DE MAYO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XIII/2019 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE DOCE DE NOVIEMBRE DE DOS MIL DIECINUEVE, POR EL QUE SE ESTABLECE LA DENOMINACIÓN DE LA DIRECCIÓN GENERAL DE JUSTICIA TV CANAL DEL PODER JUDICIAL DE LA FEDERACIÓN Y DE LA DIRECCIÓN GENERAL DE DERECHOS HUMANOS Y SE CREA LA UNIDAD GENERAL DE ADMINISTRACIÓN DEL CONOCIMIENTO JURÍDICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MAYO DE 2022 (ABROGADO).
 
 Acuerdo publicado en el Diario Oficial de la Federación, el 20 de noviembre de 2019.
 
@@ -84,3 +86,29 @@ Así lo acordó y firma el señor Ministro Arturo Zaldívar Lelo de Larrea, Pres
 El Ministro, Presidente Arturo Zaldívar Lelo de Larrea.- Rúbrica.- El Director General de Asuntos Jurídicos, Juan Sebastián Francisco de Asís Mijares Ortega.- Rúbrica.
 
 EN LA CIUDAD DE MÉXICO A DOCE DE NOVIEMBRE DE DOS MIL DIECINUEVE, EL LICENCIADO JUAN SEBASTIÁN FRANCISCO DE ASÍS MIJARES ORTEGA, DIRECTOR GENERAL DE ASUNTOS JURÍDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CON FUNDAMENTO EN LOS ARTÍCULOS 9, FRACCIÓN X, Y 35, FRACCIÓN XX, DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que la presente copia constante de siete fojas útiles, concuerda fiel y exactamente con el original del ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XIII/2019 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE DOCE DE NOVIEMBRE DE DOS MIL DIECINUEVE, POR EL QUE SE ESTABLECE LA DENOMINACIÓN DE LA DIRECCIÓN GENERAL DE JUSTICIA TV CANAL DEL PODER JUDICIAL DE LA FEDERACIÓN Y DE LA DIRECCIÓN GENERAL DE DERECHOS HUMANOS Y SE CREA LA UNIDAD GENERAL DE ADMINISTRACIÓN DEL CONOCIMIENTO JURÍDICO, mismo que obra en los archivos de la Dirección General a mi cargo.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 6 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN".]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación, expedido el ocho de mayo de dos mil quince y publicado en el Diario Oficial de la Federación el quince de mayo siguiente, y sus modificaciones y adiciones, así como se derogan las demás disposiciones jurídicas que se opongan al presente Reglamento.
+
+TERCERO. Se abroga el Acuerdo General de Administración de veintidós de junio de dos mil quince, del Presidente de la Suprema Corte de Justicia de la Nación, por el que delega sus atribuciones de representación en diversos servidores públicos de la Secretaría Jurídica de la Presidencia del Alto Tribunal.
+
+CUARTO. Se abroga el Acuerdo General de Administración número I/2019 del Presidente de la Suprema Corte de Justicia de la Nación, de veintiocho de enero de dos mil diecinueve, por el que se modifica orgánica y funcionalmente su estructura administrativa y sus reformas.
+
+QUINTO. Se abroga el Acuerdo General de Administración número XIII/2019 del Presidente de la Suprema Corte de Justicia de la Nación, de doce de noviembre de dos mil diecinueve, por el que se establece la denominación de la Dirección General de Justicia TV Canal del Poder Judicial de la Federación y de la Dirección General de Derechos Humanos y se crea la Unidad General de Administración del Conocimiento Jurídico.
+
+SEXTO. Se deja sin efectos el Acuerdo del Presidente de la Suprema Corte de Justicia de la Nación acordado y firmado ante el Secretario de la Presidencia de fecha doce de mayo de dos mil once, a través del cual se determinó la integración del Consejo Consultivo Interinstitucional del Canal Judicial, se establecieron las reglas para su funcionamiento y ordenó que se convocara a la primera sesión de dicho Consejo Consultivo.
+
+SÉPTIMO. Las referencias que otras disposiciones jurídicas hagan a los órganos y áreas que se suprimen, crean o readscriben, se entenderán hechas al órgano o área que asume sus atribuciones, de conformidad con el presente Reglamento.
+
+OCTAVO. Se instruye a la Oficialía Mayor, en coordinación con los órganos y áreas, a realizar las acciones necesarias para adecuar las estructuras orgánicas conforme a las disposiciones del presente Reglamento.
+
+NOVENO. Las Direcciones Generales de Logística y Protocolo, y de Gestión Administrativa, continuarán prestando apoyo a las mismas categorías de personas que asistían conforme al Reglamento que se abroga.
+
+DÉCIMO. Publíquese este Reglamento en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
