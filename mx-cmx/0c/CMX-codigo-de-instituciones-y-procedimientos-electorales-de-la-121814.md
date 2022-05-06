@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-instituciones-y-procedimientos-electorales-de-la-1218
 country: "mx"
 rank: "codigo"
 publication_date: "2017-06-07"
-last_updated: "2020-07-29"
+last_updated: "2022-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121814&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-06-06"
 
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 29 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 6 DE MAYO DE 2022.
 
 Código publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 7 de junio de 2017.
 
@@ -6806,9 +6806,11 @@ Los Consejos Distritales, dentro del ámbito de su competencia, velarán por la 
 
 Al interior y exterior de las oficinas, edificios y locales ocupados por los órganos de Gobierno de la Ciudad de México y los poderes públicos no podrá fijarse, pegarse ni distribuirse propaganda electoral de ningún tipo o que haga alusión a algún candidato o Partido Político, aún después de concluido el proceso electoral.
 
+> <small>(REFORMADO, G.O. 6 DE MAYO DE 2022)</small>
+
 ###### Artículo 403.
 
-Los Partidos Políticos, Coaliciones y Candidatos, previo convenio con la autoridad correspondiente, colocarán propaganda electoral observando las reglas siguientes:
+Los Partidos Políticos, Coaliciones y Personas Candidatas, colocarán propaganda electoral observando las reglas siguientes:
 
 I. Podrá colgarse en elementos del equipamiento urbano, bastidores y mamparas siempre que no se dañe el equipamiento, se impida la visibilidad de conductores de vehículos, se impida la circulación de peatones, o ponga en riesgo la integridad física de las personas;
 
@@ -6826,7 +6828,7 @@ Se entiende por lugares de uso común los que son propiedad del Gobierno de la C
 
 Estos lugares serán repartidos en forma igualitaria y por sorteo entre los Partidos Políticos, Coaliciones y Candidatos sin partido registrados, conforme al procedimiento acordado por el Consejo General en sesión que celebren los Consejos Distritales a más tardar en la última semana del mes de marzo del año de la elección.
 
-Se entiende por mobiliario urbano todos aquellos elementos urbanos complementarios, ya sean fijos, permanentes, móviles o temporales, ubicados en vía pública o en espacios públicos que sirven de apoyo a la infraestructura y al equipamiento urbanos y que refuerzan la imagen de la ciudad, tales como bancas, para buses (sic), cabinas telefónicas, buzones de correo, columnas, carteleras publicitarias con anuncios e información turística, social y cultural, unidades de soporte múltiple con nomenclatura, postes con nomenclatura y placas de nomenclatura, sanitarios públicos, bebedores, quioscos para venta de periódicos, libros, revistas, dulces, flores y juegos de azar para la asistencia pública, vallas, bolardos, rejas, casetas de vigilancia, semáforos y cualquier otro elemento que cumpla con esta finalidad, recipientes para basura, recipientes para basura clasificada, contenedores, postes de alumbrado, unidades de soporte múltiple, parquímetros, soportes para bicicletas, muebles para aseo de calzado, para sitios de automóviles de alquiler y mudanza, protectores para árboles, jardineras y macetas.
+Se entiende por mobiliario urbano todos aquellos elementos urbanos complementarios, ya sean fijos, permanentes, móviles o temporales, ubicados en vía pública o en espacios públicos que sirven de apoyo a la infraestructura y al equipamiento urbano y que refuerzan la imagen de la ciudad, tales como bancas, para buses, (sic) cabinas telefónicas, buzones de correo, columnas, carteleras publicitarias con anuncios e información turística, social y cultural, unidades de soporte múltiple con nomenclatura, postes con nomenclatura y placas de nomenclatura, sanitarios públicos, bebedores, quioscos para venta de periódicos, libros, revistas, dulces, flores y juegos de azar para la asistencia pública, vallas, bolardos, rejas, casetas de vigilancia, semáforos y cualquier otro elemento que cumpla con esta finalidad, recipientes para basura, recipientes para basura clasificada, contenedores, postes de alumbrado, unidades de soporte múltiple, parquímetros, soportes para bicicletas, muebles para aseo de calzado, para sitios de automóviles de alquiler y mudanza, protectores para árboles, jardineras y macetas.
 
 Los Consejos Distritales, dentro del ámbito de su competencia, velarán por la observancia de esta disposición y adoptarán las medidas a que hubiere lugar con el fin de asegurar a Partidos Políticos, Coaliciones y las y los candidatos el pleno ejercicio de sus derechos en la materia y el respeto a la propaganda colocada por los mismos en lugares de uso común.
 
@@ -7857,3 +7859,11 @@ SEXTO.- Los subsecuentes nombramientos que se lleven a cabo con motivo de la apl
 SÉPTIMO.- Para garantizar el principio de paridad de género en la postulación de candidaturas a los cargos de elección popular en los próximos procesos electorales, el Instituto Electoral aplicará los lineamientos utilizados en el Proceso Electoral Ordinario 2017-2018.
 
 Los Distritos Electorales y Demarcaciones Territoriales se ordenarán de mayor a menor conforme al porcentaje de votación obtenido en el proceso electoral anterior, y se dividirán en tres bloques de competitividad, y en caso de remanente, éste se considerará en el bloque de competitividad alta.
+
+G.O. 6 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 403 DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO”.]
+
+Primero. Remítase el presente Decreto a (sic) Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
