@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-i-2019-del-133214"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-02-06"
-last_updated: "2021-03-25"
+last_updated: "2022-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133214&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-01-29"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION NUMERO I/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE MODIFICA ORGANICA Y FUNCIONALMENTE SU ESTRUCTURA ADMINISTRATIVA]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 6 DE MAYO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO I/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTIOCHO DE ENERO DE DOS MIL DIECINUEVE, POR EL QUE SE MODIFICA ORGÁNICA Y FUNCIONALMENTE SU ESTRUCTURA ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MAYO DE 2022 (ABROGADO).
 
 Acuerdo publicado en el Número 3 del Diario Oficial de la Federación, el miércoles 6 de febrero de 2019.
 
@@ -166,3 +168,27 @@ SEGUNDO. Se derogan las demás disposiciones jurídicas que se opongan al presen
 TERCERO. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense al Acuerdo General de Administración número I/2019, del Presidente de la Suprema Corte de Justicia de la Nación, de veintiocho de enero de dos mil diecinueve, por el que se modifica orgánica y funcionalmente su estructura administrativa, a fin de que el contenido de éste se encuentre debidamente actualizado; dicha actualización deberá realizarse en el archivo respectivo del portal de este Alto Tribunal, así como del resto de medios análogos que éste administre.
 
 CUARTO. Publíquese este Acuerdo General de Administración en el Semanario Judicial de la Federación y su Gaceta, en el Diario Oficial de la Federación, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
+
+D.O.F. 6 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación, expedido el ocho de mayo de dos mil quince y publicado en el Diario Oficial de la Federación el quince de mayo siguiente, y sus modificaciones y adiciones, así como se derogan las demás disposiciones jurídicas que se opongan al presente Reglamento.
+
+TERCERO. Se abroga el Acuerdo General de Administración de veintidós de junio de dos mil quince, del Presidente de la Suprema Corte de Justicia de la Nación, por el que delega sus atribuciones de representación en diversos servidores públicos de la Secretaría Jurídica de la Presidencia del Alto Tribunal.
+
+CUARTO. Se abroga el Acuerdo General de Administración número I/2019 del Presidente de la Suprema Corte de Justicia de la Nación, de veintiocho de enero de dos mil diecinueve, por el que se modifica orgánica y funcionalmente su estructura administrativa y sus reformas.
+
+QUINTO. Se abroga el Acuerdo General de Administración número XIII/2019 del Presidente de la Suprema Corte de Justicia de la Nación, de doce de noviembre de dos mil diecinueve, por el que se establece la denominación de la Dirección General de Justicia TV Canal del Poder Judicial de la Federación y de la Dirección General de Derechos Humanos y se crea la Unidad General de Administración del Conocimiento Jurídico.
+
+SEXTO. Se deja sin efectos el Acuerdo del Presidente de la Suprema Corte de Justicia de la Nación acordado y firmado ante el Secretario de la Presidencia de fecha doce de mayo de dos mil once, a través del cual se determinó la integración del Consejo Consultivo Interinstitucional del Canal Judicial, se establecieron las reglas para su funcionamiento y ordenó que se convocara a la primera sesión de dicho Consejo Consultivo.
+
+SÉPTIMO. Las referencias que otras disposiciones jurídicas hagan a los órganos y áreas que se suprimen, crean o readscriben, se entenderán hechas al órgano o área que asume sus atribuciones, de conformidad con el presente Reglamento.
+
+OCTAVO. Se instruye a la Oficialía Mayor, en coordinación con los órganos y áreas, a realizar las acciones necesarias para adecuar las estructuras orgánicas conforme a las disposiciones del presente Reglamento.
+
+NOVENO. Las Direcciones Generales de Logística y Protocolo, y de Gestión Administrativa, continuarán prestando apoyo a las mismas categorías de personas que asistían conforme al Reglamento que se abroga.
+
+DÉCIMO. Publíquese este Reglamento en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
