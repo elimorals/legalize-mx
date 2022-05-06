@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2022-03-25"
+last_updated: "2022-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MAYO DE 2022.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -145,9 +145,9 @@ XX. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres 
 
 XXI. Formación General: Premisas teóricas, metodológicas y conceptos fundamentales sobre la perspectiva de género que deben recibir todas y todos los servidores públicos que integran la administración pública local, con la finalidad de incorporar esta visión al diseño, ejecución, seguimiento y evaluación de las políticas, las acciones y los programas de su competencia, así como en sus relaciones laborales;
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 6 DE MAYO DE 2022)</small>
 
-XXII. Especialización: Son los conocimientos específicos construidos desde la perspectiva de género que deben articularse con la disciplina académica de las y los funcionarios, a fin de aplicar y asegurar la igualdad entre mujeres y hombres, los derechos humanos de las mujeres y el derecho a una vida libre de violencia. La Secretaría de la Mujer será la instancia encargada de diseñar e instrumentar, en colaboración con el Instituto de Profesionalización de los Servidores Públicos del Poder Ejecutivo del Gobierno del Estado de México, programas de formación, capacitación y profesionalización con perspectiva de género de las y los servidores públicos, a través de cursos, seminarios, talleres, diplomados y/o especialidades académicas;
+XXII. Especialización: Son los conocimientos específicos construidos desde la perspectiva de género que deben articularse con la disciplina académica de las y los funcionarios, a fin de aplicar y asegurar la igualdad entre mujeres y hombres, los derechos humanos de las mujeres y el derecho a una vida libre de violencia. La Secretaría de las Mujeres será la instancia encargada de diseñar e instrumentar, en colaboración con el Instituto de Profesionalización de los Servidores Públicos del Poder Ejecutivo del Gobierno del Estado de México, programas de formación, capacitación y profesionalización con perspectiva de género de las y los servidores públicos, a través de cursos, seminarios, talleres, diplomados y/o especialidades académicas;
 
 XXIII. Actualización: Proceso permanente de formación, desde la perspectiva de género, con la finalidad de incorporar a la administración y gestión pública los avances y nuevas perspectivas en materia de igualdad, equidad y derechos humanos de las mujeres; la formación, especialización y actualización deben entenderse como parte de un proceso integral y continúo de comprensión y conocimiento de la perspectiva de género;
 
@@ -785,13 +785,13 @@ Todas las medidas que lleven a cabo sus integrantes deberán realizarse sin disc
 
 El Sistema Estatal se conformará por las y los representantes de:
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 6 DE MAYO DE 2022)</small>
 
-I. La Secretaría de la Mujer, que fungirá como Presidenta;
+I. La Secretaría de las Mujeres, que fungirá como Presidenta;
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 6 DE MAYO DE 2022)</small>
 
-II. La Secretaría Ejecutiva del Sistema, a cargo de quien designe la persona titular de la Secretaría de la Mujer
+II. La Secretaría Ejecutiva del Sistema, a cargo de quien designe la persona titular de la Secretaría de las Mujeres;
 
 III. Todas las dependencias de la administración pública estatal;
 
@@ -847,7 +847,7 @@ VI. Las relacionadas con las anteriores que sean necesarias para incrementar la 
 
 DEL PROGRAMA INTEGRAL PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES Y PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MAYO DE 2022)</small>
 
 ###### Artículo 36 Bis.
 
@@ -859,17 +859,17 @@ En caso de existir la presencia de un hecho que atente, vulnere o menoscabe la s
 
 El mecanismo tendrá por objeto dirigir y verificar el debido seguimiento para que las dependencias y organismos de los tres poderes del Estado, los organismos autónomos y las instancias municipales que lo conformen, realicen acciones de seguridad, prevención y justicia, de acuerdo al ámbito de su respectiva competencia, así como aquellas que marca el título quinto de este ordenamiento legal. Si dicho mecanismo se instaura como consecuencia de una Declaratoria de Alerta de Violencia de Género contra las Mujeres, se deberá atender a lo dispuesto por la misma.
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 6 DE MAYO DE 2022)</small>
 
 ###### Artículo 36 Quáter.
 
-Para la conformación del mecanismo, la o el titular del Poder Ejecutivo, por conducto de la persona titular de la Secretaría de la Mujer, convocará a las y los titulares de los tres poderes del Estado, a las dependencias y organismos del Ejecutivo Estatal, a los organismos autónomos, así como a las y los presidentes municipales que correspondan, a fin de implementar el mecanismo de seguimiento de las medidas de seguridad, prevención y justicia, para atender y erradicar la violencia contra las niñas, adolescentes y mujeres, mismos que se reunirán de manera semanal, con la finalidad de verificar los avances y el cumplimiento con el que se cuenta por parte de cada una de las áreas responsables.
+Para la conformación del mecanismo, la o el titular del Poder Ejecutivo, por conducto de la persona titular de la Secretaría de las Mujeres, convocará a las y los titulares de los tres poderes del Estado, a las dependencias y organismos del Ejecutivo Estatal, a los organismos autónomos, así como a las y los presidentes municipales que correspondan, a fin de implementar el mecanismo de seguimiento de las medidas de seguridad, prevención y justicia, para atender y erradicar la violencia contra las niñas, adolescentes y mujeres, mismos que se reunirán de manera semanal, con la finalidad de verificar los avances y el cumplimiento con el que se cuenta por parte de cada una de las áreas responsables.
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 6 DE MAYO DE 2022)</small>
 
 ###### Artículo 36 Quinquies.
 
-El mecanismo será coordinado por la persona titular de la Secretaría de la Mujer, quien además fungirá como representante del Gobierno del Estado de México ante las instancias nacionales que así lo requieran, cuando se traten asuntos relacionados con los objetivos del mecanismo.
+El mecanismo será coordinado por la persona titular de la Secretaría de las Mujeres, quien además fungirá como representante del Gobierno del Estado de México ante las instancias nacionales que así lo requieran, cuando se traten asuntos relacionados con los objetivos del mecanismo.
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -891,7 +891,7 @@ La implementación del mecanismo culminará hasta que la o el titular del Poder 
 
 ###### Artículo 37.
 
-El Programa deberá ser elaborado por el Sistema Estatal y coordinado por el Ejecutivo Estatal a través de la Secretaría de la Mujer y es el mecanismo que contiene las acciones que en forma planeada y coordinada deberán realizar las dependencias, los organismos auxiliares y los organismos autónomos del Estado, en el corto, mediano y largo plazo. Deberá ser expedido por el titular del Ejecutivo, será congruente con el Plan Estatal de Desarrollo y el Programa Nacional que en esta materia se establezca a nivel federal, y contendrá las acciones con perspectiva de género para:
+El Programa deberá ser elaborado por el Sistema Estatal y coordinado por el Ejecutivo Estatal a través de la Secretaría de las Mujeres y es el mecanismo que contiene las acciones que en forma planeada y coordinada deberán realizar las dependencias, los organismos auxiliares y los organismos autónomos del Estado, en el corto, mediano y largo plazo. Deberá ser expedido por la o el titular del Ejecutivo, será congruente con el Plan Estatal de Desarrollo y el Programa Nacional que en esta materia se establezca a nivel federal, y contendrá las acciones con perspectiva de género para:
 
 I. Impulsar y fomentar el conocimiento, la promoción y el respeto a los Derechos Humanos de las mujeres y las niñas;
 
@@ -957,9 +957,9 @@ VIII. Coordinar la creación de programas de reeducación y reinserción social 
 
 IX. Garantizar una adecuada coordinación con los municipios con la finalidad de erradicar la violencia de género;
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 6 DE MAYO DE 2022)</small>
 
-X. Realizar a través de la Secretaría de la Mujer y con el apoyo de las instancias locales, campañas de información, con énfasis de la protección integral de los Derechos Humanos de las mujeres y las niñas, en el conocimiento de las leyes, las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten;
+X. Realizar a través de la Secretaría de las Mujeres y con el apoyo de las instancias locales, campañas de información, con énfasis de la protección integral de los Derechos Humanos de las mujeres y las niñas, en el conocimiento de las leyes, las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten;
 
 XI. Impulsar la formación y actualización de acuerdos interinstitucionales de coordinación entre las diferentes instancias de gobierno, de manera que sirvan de cauce para lograr la atención integral de las víctimas;
 
@@ -1001,11 +1001,11 @@ XXVI Bis. Crear Unidades de Igualdad de Género y Erradicación de la Violencia 
 
 XXVII. Las demás que le confieran esta Ley u otros ordenamientos aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MAYO DE 2022)</small>
 
 ###### Artículo 41.
 
-Corresponde a la Secretaría de la Mujer:
+Corresponde a la Secretaría de las Mujeres:
 
 I. Difundir la Ley en español y en los dialectos preponderantes de la Entidad;
 
@@ -1463,7 +1463,7 @@ V. Las demás que le confiera esta Ley u otros ordenamientos aplicables.
 
 ### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS DE VIOLENCIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MAYO DE 2022)</small>
 
 ###### Artículo 54.
 
@@ -1577,7 +1577,7 @@ La persona agresora deberá participar obligatoriamente en los programas de reed
 
 ###### Artículo 58.
 
-Los refugios impulsados por organizaciones civiles deberán funcionar de acuerdo con el Programa Estatal y el Modelo de Atención aprobados por el Sistema Estatal. La Secretaría de la Mujer propondrá al Sistema Estatal, el Modelo de Atención.
+Los refugios impulsados por organizaciones civiles deberán funcionar de acuerdo con el Programa Estatal y el Modelo de Atención aprobados por el Sistema Estatal. La Secretaría de las Mujeres propondrá al Sistema Estatal, el Modelo de Atención.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 18 DE MARZO DE 2011)</small>
 
@@ -2096,3 +2096,19 @@ QUINTO. Los Ayuntamientos deberán rendir un informe a la Legislatura, por condu
 SEXTO. Los Ayuntamientos deberán asignar los recursos presupuestales necesarios para dar cumplimiento a lo dispuesto en el presente Decreto.
 
 SÉPTIMO. La Legislatura deberá prever los recursos presupuestales para dar cumplimiento a lo dispuesto en el presente Decreto.
+
+G.G. 6 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 51.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO, LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO, LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO, LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO, LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO Y LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Ejecutivo del Estado expedirá las disposiciones jurídicas reglamentarias correspondientes de conformidad a lo establecido en el presente Decreto, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, financieras, presupuestales, contables de transferencia y documentación a la Secretaría de la Mujer se entenderán hechas a la Secretaría de las Mujeres.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de la Mujer serán atendidos hasta su conclusión por la Secretaría de las Mujeres.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de la Mujer de conformidad con las disposiciones jurídicas aplicables.
