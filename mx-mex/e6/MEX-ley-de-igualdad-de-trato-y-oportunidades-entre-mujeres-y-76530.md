@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-igualdad-de-trato-y-oportunidades-entre-mujeres-y-76530"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-06"
-last_updated: "2020-09-29"
+last_updated: "2022-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MAYO DE 2022.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 6 de septiembre de 2010.
 
@@ -55,11 +55,11 @@ Esta Ley es de orden público, interés social y de observancia general en el Es
 
 La aplicación de esta Ley corresponde a las autoridades estatales y municipales, de conformidad con sus respectivas competencias debiendo tomar las medidas presupuestales y administrativas para garantizar la igualdad de trato y oportunidades entre mujeres y hombres.
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 6 DE MAYO DE 2022)</small>
 
 ###### Artículo 3.
 
-La rectoría y operación de la política en materia de igualdad en el Estado estará a cargo del Ejecutivo Estatal, quien la ejercerá a través de la Secretaría de la Mujer, en términos de las disposiciones de esta Ley y sin perjuicio de las competencias que tengan atribuidas otras dependencias.
+La rectoría y operación de la política en materia de igualdad en el Estado estará a cargo del Ejecutivo Estatal, quien la ejercerá a través de la Secretaría de las Mujeres, en términos de las disposiciones de esta Ley y sin perjuicio de las competencias que tengan atribuidas otras dependencias.
 
 ###### Artículo 4.
 
@@ -235,13 +235,13 @@ XIX. Las demás que sean necesarias para el cumplimiento de su objeto.
 
 El Sistema Estatal se integrará por los representantes de las instancias siguientes:
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 6 DE MAYO DE 2022)</small>
 
-I. La Secretaría de la Mujer, que fungirá como Presidenta;
+I. La Secretaría de las Mujeres, que fungirá como Presidenta;
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 6 DE MAYO DE 2022)</small>
 
-II. La Secretaría Ejecutiva del Sistema, a cargo de quien designe la persona titular de la Secretaría de la Mujer;
+II. La Secretaría Ejecutiva del Sistema, a cargo de quien designe la persona titular de la Secretaría de las Mujeres;
 
 III. Todas las dependencias de la administración pública estatal;
 
@@ -321,11 +321,11 @@ Los Sistemas Municipales deberán coordinarse con el Sistema Estatal, con la fin
 
 El Programa Integral, es el mecanismo que contiene las acciones que en forma planeada y coordinada deberán realizar los integrantes del Sistema Estatal, en el corto, mediano y largo plazo, tomando en cuenta las necesidades y particularidades específicas de la desigualdad en los ámbitos público y privado, así como en las zonas rurales y urbanas con el propósito de erradicarla.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MAYO DE 2022)</small>
 
 ###### Artículo 21.
 
-El Programa Integral deberá ser elaborado por el Sistema Estatal y coordinado por el Ejecutivo Estatal, a través de la Secretaría de la Mujer, señalando los objetivos y estrategias para alcanzar la igualdad de trato y oportunidades entre mujeres y hombres, en términos de lo previsto por esta Ley, por lo que deberá:
+El Programa Integral deberá ser elaborado por el Sistema Estatal y coordinado por el Ejecutivo Estatal, a través de la Secretaría de las Mujeres, señalando los objetivos y estrategias para alcanzar la igualdad de trato y oportunidades entre mujeres y hombres, en términos de lo previsto por esta Ley, por lo que deberá:
 
 I. Establecer las líneas de acción prioritarias y metas para lograr la igualdad de trato y oportunidades entre mujeres y hombres; y
 
@@ -359,11 +359,11 @@ IV. Promover la participación de la sociedad en la planeación, diseño, aplica
 
 V. Las demás necesarias para el cumplimiento del objeto de la Ley y las que le confieran otras disposiciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MAYO DE 2022)</small>
 
 ###### Artículo 26.
 
-Son atribuciones de la Secretaría de la Mujer, las siguientes:
+Son atribuciones de la Secretaría de las Mujeres, las siguientes:
 
 I. Coordinar, instrumentar y fomentar las acciones afirmativas que posibiliten la no discriminación, la Igualdad de trato y oportunidades entre mujeres y hombres y la transversalidad de la perspectiva de género en los ámbitos público, social y privado;
 
@@ -577,11 +577,11 @@ VII. Las demás que se establezcan en otras disposiciones jurídicas.
 
 ### CAPÍTULO DÉCIMO. EL MODELO DE EQUIDAD Y GÉNERO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MAYO DE 2022)</small>
 
 ###### Artículo 35.
 
-Será la Secretaría de la Mujer la que propondrá el modelo que contenga los mecanismos de ejecución para impulsar la certificación, para lo que deberá:
+Será la Secretaría de las Mujeres la que propondrá el modelo que contenga los mecanismos de ejecución para impulsar la certificación, para lo que deberá:
 
 I. Definir los lineamientos de gestión con perspectiva de género; y
 
@@ -734,3 +734,19 @@ DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se
 DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
 
 DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
+
+G.G. 6 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 51.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, LEY DE ACCESO DE LAS MUJERES A UNA VIDA DE VIOLENCIA DEL ESTADO DE MÉXICO, LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO, LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO, LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO, LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO, LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN, TRATAMIENTO COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO Y LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las disposiciones jurídicas reglamentarias correspondientes de conformidad a lo establecido en el presente Decreto, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, financieras, presupuestales, contables de transferencia y documentación a la Secretaría de la Mujer se entenderán hechas a la Secretaría de las Mujeres.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de la Mujer serán atendidos hasta su conclusión por la Secretaría de las Mujeres.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de la Mujer de conformidad con las disposiciones jurídicas aplicables.
