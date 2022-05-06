@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-en-materia-de-administracion-de-la-107813"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-05-15"
-last_updated: "2019-08-29"
+last_updated: "2022-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107813&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-05-11"
 ---
 # REGLAMENTO ORGANICO EN MATERIA DE ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 6 DE MAYO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MAYO DE 2022 (ABROGADO).
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 15 de mayo de 2015.
 
@@ -43,7 +45,7 @@ CUARTO. Que ante la necesidad de instrumentar un nuevo modelo organizacional, el
 
 QUINTO. Que en términos de dicho instrumento se ordenó la modificación del Reglamento Interior en Materia de Administración de la Suprema Corte de Justicia de la Nación.
 
-SEXTO. Que posteriormente, en el transcurso del plazo relativo a esa finalidad, en conjunción con diversos cambios a la normativa en materia de Transparencia, se emitió el Acuerdo General de Administración 03/2015 por el que se redefinió la estructura orgánica y funcional de la administración de este Alto Tribunal.
+SEXTO Que posteriormente, en el transcurso del plazo relativo a esa finalidad, en conjunción con diversos cambios a la normativa en materia de Transparencia, se emitió el Acuerdo General de Administración 03/2015 por el que se redefinió la estructura orgánica y funcional de la administración de este Alto Tribunal.
 
 SÉPTIMO. Que ante la necesidad de dotar de eficacia al nuevo modelo organizacional sustentado principalmente en la especialización de las diversas materias a cargo de los órganos de naturaleza administrativa, a efecto de delimitar las tareas y responsabilidades que permitan la eficaz definición, conducción y coordinación de sus funciones, así como el fortalecimiento en la toma de decisiones; se expide el presente.
 
@@ -255,7 +257,7 @@ Los demás Comités de Ministros se sujetarán a las facultades que establezcan 
 
 ### CAPÍTULO CUARTO. DE LAS ATRIBUCIONES DE LOS TITULARES DE LOS ÓRGANOS Y ÁREAS
 
-###### Artículo 8o.
+###### Artículo 8.
 
 Los titulares de los órganos tendrán las siguientes atribuciones:
 
@@ -291,7 +293,7 @@ XV. Evaluar la operación de las áreas bajo su cargo y, en su caso, instrumenta
 
 XVI. Las demás que le confieran las disposiciones aplicables, así como las que le sean encomendadas por el Presidente, el Pleno o los Comités de Ministros.
 
-###### Artículo 9o.
+###### Artículo 9.
 
 Los titulares de las áreas tendrán las siguientes atribuciones:
 
@@ -1409,11 +1411,11 @@ Artículo Primero. El presente Reglamento Orgánico en Materia de Administració
 
 Artículo Segundo. Se derogan las disposiciones normativas internas previas en relación con la materia de regulación, que se opongan a lo dispuesto en el presente Reglamento Orgánico en Materia de Administración.
 
-Artículo Tercero. En tanto se emiten las disposiciones que se ordenen con el nuevo modelo administrativo plasmado en el presente Reglamento Orgánico en Materia de Administración, las referencias que en la normativa vigente se hagan a las áreas que se suprimen, crean o modifican sus atribuciones, se entenderán hechas a aquellos que con ese carácter las asumen, por lo que su titular las ejercerá plenamente.
+Artículo Tercero: En tanto se emiten las disposiciones que se ordenen con el nuevo modelo administrativo plasmado en el presente Reglamento Orgánico en Materia de Administración, las referencias que en la normativa vigente se hagan a las áreas que se suprimen, crean o modifican sus atribuciones, se entenderán hechas a aquellos que con ese carácter las asumen, por lo que su titular las ejercerá plenamente.
 
-Artículo Cuarto. Mientras se expide la normativa correspondiente, la mención de los Comités a que se refiere el artículo 2, fracción II del presente Reglamento, también comprenderá a las Comisiones administrativas previstas en las disposiciones internas.
+Artículo Cuarto: Mientras se expide la normativa correspondiente, la mención de los Comités a que se refiere el artículo 2, fracción II del presente Reglamento, también comprenderá a las Comisiones administrativas previstas en las disposiciones internas.
 
-Artículo Quinto. Hasta la expedición de la referida normativa, la facultad del Oficial Mayor contenida en la fracción XXI del artículo 20 del presente, se entenderá hecha respecto de los Comités y Comisiones administrativas que presida o coordine, de acuerdo a las disposiciones vigentes.
+Artículo Quinto: Hasta la expedición de la referida normativa, la facultad del Oficial Mayor contenida en la fracción XXI del artículo 20 del presente, se entenderá hecha respecto de los Comités y Comisiones administrativas que presida o coordine, de acuerdo a las disposiciones vigentes.
 
 Artículo Sexto. Publíquese en el Semanario Judicial de la Federación y su Gaceta y en el Diario Oficial de la Federación, así como en medios electrónicos, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
@@ -1610,3 +1612,27 @@ PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su f
 SEGUNDO. Se derogan los artículos 30, fracción XII y 33, fracción VIII del Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación, únicamente en cuanto a la recepción y trámite de las denuncias o quejas, así como todas aquellas disposiciones que se opongan a lo previsto en el presente Acuerdo.
 
 TERCERO. Publíquese en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet e Intranet de la Suprema Corte de Justicia de la Nación.
+
+D.O.F. 6 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación, expedido el ocho de mayo de dos mil quince y publicado en el Diario Oficial de la Federación el quince de mayo siguiente, y sus modificaciones y adiciones, así como se derogan las demás disposiciones jurídicas que se opongan al presente Reglamento.
+
+TERCERO. Se abroga el Acuerdo General de Administración de veintidós de junio de dos mil quince, del Presidente de la Suprema Corte de Justicia de la Nación, por el que delega sus atribuciones de representación en diversos servidores públicos de la Secretaría Jurídica de la Presidencia del Alto Tribunal.
+
+CUARTO. Se abroga el Acuerdo General de Administración número I/2019 del Presidente de la Suprema Corte de Justicia de la Nación, de veintiocho de enero de dos mil diecinueve, por el que se modifica orgánica y funcionalmente su estructura administrativa y sus reformas.
+
+QUINTO. Se abroga el Acuerdo General de Administración número XIII/2019 del Presidente de la Suprema Corte de Justicia de la Nación, de doce de noviembre de dos mil diecinueve, por el que se establece la denominación de la Dirección General de Justicia TV Canal del Poder Judicial de la Federación y de la Dirección General de Derechos Humanos y se crea la Unidad General de Administración del Conocimiento Jurídico.
+
+SEXTO. Se deja sin efectos el Acuerdo del Presidente de la Suprema Corte de Justicia de la Nación acordado y firmado ante el Secretario de la Presidencia de fecha doce de mayo de dos mil once, a través del cual se determinó la integración del Consejo Consultivo Interinstitucional del Canal Judicial, se establecieron las reglas para su funcionamiento y ordenó que se convocara a la primera sesión de dicho Consejo Consultivo.
+
+SÉPTIMO. Las referencias que otras disposiciones jurídicas hagan a los órganos y áreas que se suprimen, crean o readscriben, se entenderán hechas al órgano o área que asume sus atribuciones, de conformidad con el presente Reglamento.
+
+OCTAVO. Se instruye a la Oficialía Mayor, en coordinación con los órganos y áreas, a realizar las acciones necesarias para adecuar las estructuras orgánicas conforme a las disposiciones del presente Reglamento.
+
+NOVENO. Las Direcciones Generales de Logística y Protocolo, y de Gestión Administrativa, continuarán prestando apoyo a las mismas categorías de personas que asistían conforme al Reglamento que se abroga.
+
+DÉCIMO. Publíquese este Reglamento en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
