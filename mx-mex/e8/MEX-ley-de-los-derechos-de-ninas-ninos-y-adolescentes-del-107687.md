@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107687"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2022-04-08"
+last_updated: "2022-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MAYO DE 2022.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 7 de mayo de 2015.
 
@@ -1799,9 +1799,9 @@ I. El titular del Ejecutivo Estatal.
 
 II. El titular de la Secretaría General de Gobierno.
 
-> <small>(ADICIONADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 6 DE MAYO DE 2022)</small>
 
-II Bis. La persona titular de la Secretaría de la Mujer.
+II Bis. La persona titular de la Secretaría de las Mujeres;
 
 III. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
 
@@ -1865,9 +1865,9 @@ Para efectos de lo previsto en el apartado G, el Presidente del Sistema Estatal 
 
 Serán invitados permanentes a las sesiones del Sistema Estatal de Protección Integral, cuatro representantes de la Red Estatal de Difusores Infantiles, en el que participarán una niña, un niño, una adolescente y un adolescente, cuyas opiniones serán tomadas en cuenta en los asuntos de su interés conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez, así como los demás que sean determinados, quienes intervendrán con voz pero sin voto.
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 6 DE MAYO DE 2022)</small>
 
-El Gobernador del Estado podrá ser suplido por la persona titular de la Secretaría de la Mujer.
+La persona Titular del Ejecutivo Estatal podrá ser suplida por la persona titular de la Secretaría de las Mujeres.
 
 Los integrantes del Sistema Estatal de Protección Integral nombrarán un suplente que deberá tener un nivel jerárquico inmediatamente inferior.
 
@@ -1887,11 +1887,11 @@ Para el mejor cumplimiento de sus funciones, el Sistema Estatal de Protección I
 
 #### Sección Segunda. De la Secretaría Ejecutiva
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MAYO DE 2022)</small>
 
 ###### Artículo 100.
 
-La coordinación operativa del Sistema Estatal de Protección Integral recaerá en un órgano administrativo desconcentrado de la Secretaría de la Mujer, que ejercerá las funciones de Secretaría Ejecutiva.
+La coordinación operativa del Sistema Estatal de Protección Integral recaerá en un órgano administrativo desconcentrado de la Secretaría de las Mujeres, que ejercerá las funciones de Secretaría Ejecutiva.
 
 Las (sic) Secretaría Ejecutiva tendrá las siguientes atribuciones:
 
@@ -2270,3 +2270,19 @@ TERCERO. Los Sistemas Municipales DIF harán las previsiones presupuestarias nec
 CUARTO. El requisito referente a la capacitación y aprobación de la evaluación de conocimientos para las personas titulares de las Procuradurías de Protección Municipal dicha capacitación podrá ser solicitada mediante oficio por las o los Presidentes Municipales o las personas titulares de los Sistemas Municipales DIF en funciones, y la o el servidor público deberá solicitar al Instituto Hacendario del Estado de México la evaluación para obtener la certificación de la competencia laboral, teniendo un plazo de seis meses a partir de la publicación del presente decreto.
 
 QUINTO. El Ejecutivo del Estado a través del Sistema para el Desarrollo Integral de la Familia del Estado de México, implementará estrategias de capacitación para brindar el curso especializado, evaluación y en su caso, la certificación de competencia laboral a los servidores públicos que la requieran.
+
+G.G. 6 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 51.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO, LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO, LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO, LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO, LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO Y LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Ejecutivo del Estado expedirá las disposiciones jurídicas reglamentarias correspondientes de conformidad a lo establecido en el presente Decreto, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, financieras, presupuestales, contables de transferencia y documentación a la Secretaría de la Mujer se entenderán hechas a la Secretaría de las Mujeres.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de la Mujer serán atendidos hasta su conclusión por la Secretaría de las Mujeres.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de la Mujer de conformidad con las disposiciones jurídicas aplicables.
