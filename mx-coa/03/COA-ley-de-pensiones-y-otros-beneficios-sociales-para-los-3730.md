@@ -4,7 +4,7 @@ identifier: "COA-ley-de-pensiones-y-otros-beneficios-sociales-para-los-3730"
 country: "mx"
 rank: "ley"
 publication_date: "1993-08-10"
-last_updated: "2022-01-14"
+last_updated: "2022-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 10 de agosto de 1993.
 
@@ -569,9 +569,7 @@ El hombre o la mujer divorciados o que no se encuentre vigente el pacto civil, n
 
 Los derechos a percibir pensión se pierden para los beneficiarios del trabajador o pensionado por alguna de las siguientes causas:
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2022)</small>
-
-I.- Cuando el cónyuge pensionado contraiga nupcias o celebre pacto civil de solidaridad o llegare a vivir en concubinato;
+I. (DEROGADA, P.O. 6 DE MAYO DE 2022).
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2022)</small>
 
@@ -1490,3 +1488,9 @@ En un posible reingreso de un trabajador en transición que se haya separado y h
 ###### ARTÍCULO NOVENO.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 6 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 225.- SE DEROGA LA FRACCIÓN I DEL ARTÍCULO 45 DE LA LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
