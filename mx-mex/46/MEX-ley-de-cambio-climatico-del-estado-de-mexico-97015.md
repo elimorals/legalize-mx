@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-cambio-climatico-del-estado-de-mexico-97015"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-19"
-last_updated: "2020-09-29"
+last_updated: "2022-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MAYO DE 2022.
 
 Ley publicada en la Sección Octava de la Gaceta del Gobierno del Estado de México, el jueves 19 de diciembre de 2013.
 
@@ -95,7 +95,9 @@ IX. Ley: La Ley de Cambio Climático del Estado de México;
 
 X. Ley General: La Ley General de Cambio Climático;
 
-XI. PACMUN: El Programa de Acción Climática de los Municipios;
+> <small>(REFORMADA, G.G. 6 DE MAYO DE 2022)</small>
+
+XI. PROMACC: A los Programas Municipales de Cambio Climático;
 
 XII. PEACC: El Programa Estatal de Acción ante el Cambio Climático del Estado de México;
 
@@ -199,7 +201,9 @@ Corresponde a los Ayuntamientos el ejercicio de las atribuciones siguientes:
 
 I. Formular, conducir y evaluar la política municipal en materia de cambio climático, en concordancia con la política nacional y estatal;
 
-II. Formular y expedir el PACMUN, vigilar y evaluar su cumplimiento;
+> <small>(REFORMADA, G.G. 6 DE MAYO DE 2022)</small>
+
+II. Formular y expedir el PROMACC, así como vigilar y evaluar su cumplimiento;
 
 III. Formular e instrumentar políticas y acciones para enfrentar al cambio climático en congruencia con el Plan Nacional de Desarrollo, la Estrategia Nacional, el Programa Especial de Cambio Climático, el Plan Estatal de Desarrollo, el PEACC y con las leyes aplicables, en las materias de su competencia;
 
@@ -211,7 +215,9 @@ VI. Desarrollar estrategias, programas y proyectos integrales de mitigación de 
 
 VII. Realizar campañas de educación e información, en coordinación con las autoridades federales y estatales, con el apoyo del Instituto, para sensibilizar a la población sobre los efectos adversos del cambio climático;
 
-VIII. Promover la participación corresponsable de la sociedad en la planeación, ejecución y vigilancia de las políticas del cambio climático y los PACMUN;
+> <small>(REFORMADA, G.G. 6 DE MAYO DE 2022)</small>
+
+VIII. Promover la participación corresponsable de la sociedad en la planeación, ejecución y vigilancia de las políticas del cambio climático y de los PROMACC;
 
 IX. Promover el fortalecimiento de capacidades institucionales y sectoriales para la adaptación al cambio climático, así como para la mitigación de las emisiones de gases de efecto invernadero, con el apoyo del Instituto;
 
@@ -229,7 +235,9 @@ XV. Coadyuvar con la Secretaría en la integración del Registro Estatal, propor
 
 XVI. Elaborar y publicar un reporte anual sobre las medidas de ahorro y eficiencia energética adoptadas en instalaciones y áreas administrativas municipales, y sus resultados, con el apoyo del Instituto;
 
-XVII. Incorporar en el PACMUN los resultados de las evaluaciones y recomendaciones de la Secretaría;
+> <small>(REFORMADA, G.G. 6 DE MAYO DE 2022)</small>
+
+XVII. Incorporar en su PROMACC los resultados de las evaluaciones y recomendaciones de la Secretaría;
 
 XVIII. Vigilar y promover en el ámbito de su competencia, el cumplimiento de esta Ley, sus disposiciones reglamentarias y los demás ordenamientos que deriven de ella; y
 
@@ -253,11 +261,15 @@ III. Prestar apoyo científico y técnico a la Secretaría para el diseño y eva
 
 IV. Promover y difundir criterios, metodologías y tecnologías en materia de cambio climático, eficiencia energética y energías renovables;
 
-V. Impulsar la formación de recursos humanos calificados, a fin de atender la problemática estatal respecto al cambio climático, la eficiencia energética y las energías renovables, en coordinación con el Consejo Mexiquense de Ciencia y Tecnología;
+> <small>(REFORMADA, G.G. 6 DE MAYO DE 2022)</small>
+
+V. Impulsar la formación de recursos humanos calificados, a fin de atender la problemática estatal respecto al cambio climático, la eficiencia energética y las energías renovables, en coordinación con el Consejo Mexiquense de Ciencia y Tecnología y demás instituciones competentes en la materia;
 
 VI. Suscribir convenios de coordinación y de concertación con instituciones académicas, de investigación, públicas o privadas, nacionales o extranjeras, para la ejecución de acciones y proyectos para el fortalecimiento de capacidades de las dependencias y entidades de la Administración Pública Estatal y de los Ayuntamientos, en materia de cambio climático, eficiencia energética y energías renovables;
 
-VII. Realizar por sí mismo o por conducto de terceros, evaluaciones periódicas de las capacidades de las dependencias y entidades de la Administración Pública Estatal y de los Ayuntamientos, en materia de cambio climático, eficiencia energética y energías renovables;
+> <small>(REFORMADA, G.G. 6 DE MAYO DE 2022)</small>
+
+VII. Realizar por sí mismo o por conducto de terceros, evaluaciones anuales de las capacidades de las dependencias y entidades de la Administración Pública Estatal y de los Ayuntamientos, en materia de cambio climático, eficiencia energética y energías renovables;
 
 VIII. Integrar el Subsistema de Información, y presentarlo a la Secretaría para su incorporación al Sistema Estatal de Información Pública Ambiental;
 
@@ -446,6 +458,10 @@ q) Secretaría de Justicia y Derechos Humanos
 La Comisión, por acuerdo de sus integrantes, podrá invitar a sus sesiones a otros representantes de los gobiernos federal, de otras entidades federativas o de los Ayuntamientos, así como a personas físicas y representantes de organizaciones e instituciones relacionadas con la materia de cambio climático, cuando se estime conveniente por la naturaleza de los asuntos a tratar.
 
 Los invitados participarán con voz pero sin voto.
+
+> <small>(ADICIONADO, G.G. 6 DE MAYO DE 2022)</small>
+
+Por cada una de las personas integrantes, la Comisión aprobará una persona suplente propuesta por la propietaria, que deberá tener un nivel inmediato inferior a ella y quien en ausencia de la persona titular, fungirá con voz y voto. El cargo de integrante de la Comisión será honorífico.
 
 ###### Artículo 17.
 
@@ -887,7 +903,9 @@ I. Asesorar a la Comisión, al titular del Poder Ejecutivo del Estado, a las dep
 
 II. Recomendar a la Comisión políticas, programas, acciones, proyectos y estudios específicos en materia de cambio climático;
 
-III. Apoyar a la Comisión en la revisión del proyecto de PEACC;
+> <small>(REFORMADA, G.G. 6 DE MAYO DE 2022)</small>
+
+III. Apoyar a la Comisión en la revisión y actualización del proyecto de PEACC;
 
 IV. Opinar sobre los avances y resultados de la ejecución del PEACC;
 
@@ -913,13 +931,25 @@ II. Un Secretario Técnico, que será el Director General del Instituto;
 
 III. Un representante por cada una de las siguientes dependencias:
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 6 DE MAYO DE 2022)</small>
 
-a) Secretaría de la Mujer;
+a) Coordinación General de Protección Civil y Gestión Integral del Riesgo;
 
-b) Instituto Mexiquense de la Juventud; y
+> <small>(REFORMADO, G.G. 6 DE MAYO DE 2022)</small>
 
-c) Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México.
+b) Instituto Mexiquense de la Pirotecnia;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE MAYO DE 2022)</small>
+
+c) Consejo Estatal de Población del Estado de México;
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 6 DE MAYO DE 2022)</small>
+
+d) Instituto Mexiquense de la Juventud, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], G.G. 6 DE MAYO DE 2022)</small>
+
+e) Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México.
 
 IV. Para la integración no gubernamental del Consejo, se invitará a formar parte del mismo a miembros de:
 
@@ -931,9 +961,13 @@ c) Organizaciones de carácter social y privado vinculadas con la adaptación al
 
 d) Agrupaciones de productores y empresarios; y
 
-e) Personas físicas con reconocido prestigio en materia (sic) adaptación al cambio climático, así como a la mitigación de las emisiones de gases de efecto invernadero.
+> <small>(REFORMADO, G.G. 6 DE MAYO DE 2022)</small>
 
-Los integrantes mencionados en la fracción III serán nombrados por las dependencias a las que representan. Los integrantes previstos en la fracción IV se incorporarán al Consejo a invitación que les formule el Titular del Poder Ejecutivo del Estado.
+e) Personas físicas con reconocido prestigio en materia de adaptación al cambio climático, así como a la mitigación de las emisiones de gases de efecto invernadero.
+
+> <small>(REFORMADO, G.G. 6 DE MAYO DE 2022)</small>
+
+Los integrantes mencionados en la fracción III serán nombrados por las dependencias a las que representan. Las personas integrantes previstas en la fracción IV se incorporarán al Consejo a invitación que les formule la persona Secretaria Técnica, previo acuerdo con la Presidencia del Consejo.
 
 Los integrantes del Consejo podrán designar a un suplente, comunicándolo por escrito al Secretario Técnico.
 
@@ -945,9 +979,11 @@ El Consejo sesionará en forma ordinaria 2 veces al año, por lo menos, o cada v
 
 El ejercicio de los cargos previstos en el presente Artículo será de manera honoraria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MAYO DE 2022)</small>
+
 ###### Artículo 48.
 
-El Comité de Planeación para el Desarrollo del Estado de México promoverá la participación corresponsable e informada de los habitantes del Estado de México, grupos y organizaciones sociales y privados, en la elaboración, ejecución y evaluación del PEACC, de conformidad con la Ley de Planeación del Estado de México y Municipios.
+El Comité de Planeación para el Desarrollo del Estado de México promoverá la participación corresponsable e informada de los habitantes del Estado de México, grupos y organizaciones sociales y privados, en la elaboración, actualización, ejecución y evaluación del PEACC, de conformidad con la Ley de Planeación del Estado de México y Municipios.
 
 Para ello, dicha entidad procurará la equidad de género y la participación de los sectores de la población más vulnerables al cambio climático, así como a representantes de instituciones académicas y centros de investigación.
 
@@ -989,23 +1025,29 @@ En caso de reincidencia, el monto de la multa será por el equivalente a siete m
 
 La multa será independiente de cualquier otra responsabilidad que pudiera derivarse en los órdenes civil y penal. La Secretaría o los Ayuntamientos deberán hacer dichos actos del conocimiento de las autoridades competentes.
 
+> <small>(REFORMADO, G.G. 6 DE MAYO DE 2022)</small>
+
 ###### Artículo 53.
 
-Los servidores públicos encargados de la aplicación y vigilancia del cumplimiento de la presente Ley, en caso de incumplimiento de sus disposiciones, serán sancionados de acuerdo a las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, y demás legislación que resulte aplicable, sin perjuicio de la responsabilidad civil o penal en la que pudiesen incurrir.
+Las personas servidoras públicas encargadas de la aplicación y vigilancia del cumplimiento de la presente Ley, en caso de incumplimiento de sus disposiciones, serán sancionadas de acuerdo con las disposiciones de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, y demás legislación que resulte aplicable, sin perjuicio de la responsabilidad civil o penal en la que pudiesen incurrir.
+
+> <small>(REFORMADO, G.G. 6 DE MAYO DE 2022)</small>
 
 ###### Artículo 54.
 
-Los servidores públicos serán sancionados por la autoridad o autoridades competentes en caso de negligencia, dolo o mala fe, en los siguientes supuestos:
+Las personas servidoras públicas serán sancionadas por la autoridad o autoridades competentes en caso de negligencia, dolo o mala fe, en los siguientes supuestos:
 
-I. Cuando no se registre en tiempo y forma la información proporcionada por las personas físicas o jurídicas colectivas responsables de las fuentes emisoras de competencia estatal o municipal sujetas a reporte;
+I. Cuando no registren en tiempo y forma la información proporcionada por las personas físicas o jurídicas colectivas responsables de las fuentes emisoras de competencia estatal o municipal sujetas a reporte;
 
-II. Cuando se altere, total o parcialmente, la información proporcionada por las personas físicas o jurídicas colectivas responsables de las fuentes emisoras de competencia estatal o municipal sujetas a reporte, y que por ello se causen daños o perjuicios a sus intereses o el de terceros; y
+II. Cuando alteren, total o parcialmente, la información proporcionada por las personas físicas o jurídicas colectivas responsables de las fuentes emisoras de competencia estatal o municipal sujetas a reporte, y que por ello se causen daños o perjuicios a sus intereses o el de terceros, y
 
-III. Cuando los procedimientos de inspección y vigilancia previstos en la presente Ley se lleven a cabo de manera irregular o en ellos se registre información falsa o se omita la valoración de actos ilícitos.
+III. Cuando lleven a cabo de manera irregular los procedimientos de inspección y vigilancia previstos en la presente Ley o en ellos se registre información falsa o se omita la valoración de actos ilícitos.
+
+> <small>(REFORMADO, G.G. 6 DE MAYO DE 2022)</small>
 
 ###### Artículo 55.
 
-Los servidores públicos serán responsables del manejo de la información a la que tengan acceso con motivo de la operación del Inventario y del Registro y, en su caso, serán sancionados de acuerdo a las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios.
+Las personas servidoras públicas serán responsables del manejo de la información a la que tengan acceso con motivo de la operación del Inventario y del Registro, así como del manejo de datos personales, para lo cual se estará a lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de México y Municipios.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -1234,3 +1276,29 @@ DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se
 DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
 
 DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
+
+G.G. 6 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 51.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO, LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO, LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO, LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO, LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO Y LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Ejecutivo del Estado expedirá las disposiciones jurídicas reglamentarias correspondientes de conformidad a lo establecido en el presente Decreto, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, financieras, presupuestales, contables de transferencia y documentación a la Secretaría de la Mujer se entenderán hechas a la Secretaría de las Mujeres.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de la Mujer serán atendidos hasta su conclusión por la Secretaría de las Mujeres.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de la Mujer de conformidad con las disposiciones jurídicas aplicables.
+
+G.G. 6 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 54.- POR EL QUE SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 4, LAS FRACCIONES II, VIII Y XVII DEL ARTÍCULO 8, LAS FRACCIONES V Y VII DEL ARTÍCULO 10, LA FRACCIÓN III DEL ARTÍCULO 46, LOS INCISOS A), B) Y C) DE LA FRACCIÓN III, EL INCISO E) DE LA FRACCIÓN IV Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 47, EL PRIMER PÁRRAFO DEL ARTÍCULO 48, LOS ARTÍCULOS 53, 54 Y 55; Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 16, Y LOS INCISOS D) Y E) A LA FRACCIÓN III DEL ARTÍCULO 47, DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Titular del Ejecutivo del Estado y los Titulares de los Ayuntamientos, por conducto de los órganos competentes, adecuarán las disposiciones jurídicas reglamentarias correspondientes en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
