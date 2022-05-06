@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-de-10167"
 country: "mx"
 rank: "ley"
 publication_date: "1991-09-07"
-last_updated: "2010-02-04"
+last_updated: "2022-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO: UNIVERSIDAD TECNOLÓGICA DE NEZAHUALCÓYOTL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 25 DE ENERO DE 2010.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 4 DE FEBRERO DE 2010.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 6 DE MAYO DE 2022.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el sábado 7 de septiembre de 1991.
 
@@ -53,9 +51,9 @@ ARTICULO 3° El domicilio de la Universidad estará situado en el Municipio de N
 
 ARTICULO 4° La Universidad de Nezahualcóyotl tendrá como objeto:
 
-> <small>(REFORMADA, G.G. 28 DE JUNIO DE 1996)</small>
+> <small>(REFORMADA, G.G. 6 DE MAYO DE 2022)</small>
 
-I.- Impartir educación tecnológica de tipo superior para la formación de recursos humanos, aptos para la aplicación de conocimientos y la solución creativa de los problemas, con un sentido de innovación en la incorporación de los avances científicos y tecnológicos, de acuerdo con los requerimientos del desarrollo económico y social de la región, el estado y el país;
+I. Impartir educación tecnológica de tipo superior, incluyendo Licenciatura, Especialidad, Maestría y Doctorado, para la formación de recursos humanos, aptos para la aplicación de conocimientos y la solución creativa de los problemas, con un sentido de innovación en la incorporación de los avances científicos y tecnológicos, de acuerdo con los requerimientos del desarrollo económico y social de la región, el estado y el país;
 
 > <small>(REFORMADA, G.G. 28 DE JUNIO DE 1996)</small>
 
@@ -486,3 +484,13 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
 
 CUARTO.- A partir del inicio de la vigencia de este Decreto, el Ejecutivo del Estado dispondrá de noventa días naturales para llevar a cabo las modificaciones correspondientes a los Reglamentos de los Organismos Públicos Descentralizados a que se refiere el presente Decreto, y demás disposiciones que deban adecuarse en virtud del presente Decreto.
+
+G.G. 6 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 52.- POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 4, DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO UNIVERSIDAD TECNOLÓGICA DE NEZAHUALCÓYOTL”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo a la disponibilidad presupuestal, de manera progresiva en términos de la Ley General de Educación Superior y de conformidad con la demanda que exista para el presente ejercicio fiscal y los subsecuentes.
