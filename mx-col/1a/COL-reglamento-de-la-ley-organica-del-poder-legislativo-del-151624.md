@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-151624"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-10-09"
-last_updated: "2021-10-30"
+last_updated: "2022-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE COLIMA EL 7 DE MAYO DE 2022.]</small>
 
 Reglamento publicado en la Edición Ordinaria del Periódico Oficial del Estado de Colima, el sábado 9 de octubre de 2021.
 
@@ -359,9 +361,11 @@ Si no se logra la mayoría simple para elegir a los miembros de la Directiva, se
 
 Una vez efectuada la elección de los integrantes de la Mesa Directiva, el Secretario General del Congreso la comunicará mediante circular a los Titulares de los Poderes Ejecutivo y Judicial, a los organismos autónomos, a los Ayuntamientos de la entidad, a la Secretaría de Gobernación, a las Cámaras del Congreso de la Unión y a los Congresos de los Estados.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2022)</small>
+
 ###### Artículo 24.
 
-El Presidente y el Vicepresidente se renovarán cada periodo ordinario de sesiones, pudiendo ser reelectos para el periodo ordinario inmediato; por lo tanto, en la última sesión de cada periodo ordinario de sesiones, deberán elegirse a los Diputados que ocuparán la Presidencia y la Vicepresidencia, o en su caso, serán reelectos los que estén en funciones. La elección se efectuará en los términos señalados por el artículo anterior. Los Secretarios y Suplentes se elegirán en los mismos términos previstos.
+La Presidencia y Vicepresidencia de la Mesa Directiva se renovarán mensualmente dentro de un periodo ordinario, pudiendo reelegirse por única ocasión para ese cargo en el mismo Periodo Ordinario de Sesiones, por lo que, en la última sesión de cada mes, deberán elegirse a las Diputadas o Diputados que ocuparán la Presidencia y Vicepresidencia de la Mesa Directiva o, en su caso, serán reelectos los que están en funciones. La elección se efectuará en los términos del artículo anterior. Las Secretarías y Suplencias durarán en su cargo todo el periodo ordinario de sesiones para el que fueron electas.
 
 ###### Artículo 25.
 
@@ -375,9 +379,11 @@ En caso de ausencia de uno o los dos Secretarios a una sesión, entrarán en su 
 
 Cuando a una sesión no concurran el Presidente ni el Vicepresidente, antes de que se inicie esta, los Diputados designarán de entre ellos, siguiendo el procedimiento del artículo 23 de este Reglamento a un Presidente y a un Vicepresidente que fungirán sólo durante esa sesión. Mientras se efectúa la elección, presidirá uno de los Secretarios, quien previamente verificará la existencia del quórum legal.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2022)</small>
+
 ###### Artículo 27.
 
-Si la ausencia del Presidente y del Vicepresidente se presenta en la primera sesión de un periodo ordinario de sesiones y fuere motivada por la falta de la elección a que se refiere el artículo 24 de este Reglamento, continuarán en sus cargos los designados para el período inmediato anterior, hasta en tanto se elija a los que deberán ocuparlos en ese periodo.
+Si la ausencia del Presidente y del Vicepresidente se presenta en la primera sesión del mes y fuere motivada por la falta de la elección a que se refiere el artículo 24 de este Reglamento, continuarán en sus cargos los designados para el mes inmediato anterior, hasta en tanto se elija a los que deberán ocuparlos en ese mes.
 
 ###### Artículo 28.
 
@@ -411,9 +417,11 @@ IX. Las demás que determine este Reglamento o los acuerdos que internamente emi
 
 Cuando el Presidente haga uso de la palabra para ejercer las funciones y atribuciones que le son propias, lo hará sin pedirla. Si desea tomar parte en las deliberaciones de algún asunto en particular, se sujetará a las reglas prescritas para los demás Diputados y a lo dispuesto por el artículo 25 de este Reglamento, debiendo ser suplido momentáneamente en el presídium por el Vicepresidente.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2022)</small>
+
 ###### Artículo 31.
 
-Cuando se materialice la hipótesis prevista por el artículo 43 de la Ley concerniente al Presidente, o en su caso, la prevista por artículo 46 de la Ley relativa a los Secretarios, un Diputado presentará la moción correspondiente, a la que por lo menos deberán adherirse tres Diputados más; de reunirse este requisito, el Presidente la someterá a discusión del Pleno y de ser aprobada por el voto nominal de las (sic) mayoría absoluta, se procederá a su remoción, siendo sustituido inmediatamente por el Vicepresidente, quien ocupará la Presidencia por el resto del período correspondiente, y en el caso de remoción de Secretarios, serán sustituidos por el o los suplentes.
+Cuando se materialice la hipótesis prevista por el artículo 43 de la Ley concerniente al Presidente, o en su caso, la prevista por artículo 46 de la Ley relativa a los Secretarios, un Diputado presentará la moción correspondiente, a la que por lo menos deberán adherirse tres Diputados más; de reunirse este requisito, el Presidente la someterá a discusión del Pleno y de ser aprobada por el voto nominal de las (sic) mayoría absoluta, se procederá a su remoción, siendo sustituido inmediatamente por el Vicepresidente, quien ocupará la Presidencia por el resto del mes correspondiente, y en el caso de remoción de Secretarios, serán sustituidos por el o los suplentes.
 
 #### SECCIÓN SEGUNDA. DE LA SECRETARÍA
 
@@ -607,9 +615,11 @@ Las comisiones se encargarán de estudiar y analizar los asuntos de su competenc
 
 Cuando alguna Comisión estime conveniente demorar o suspender el curso de un expediente por más tiempo del señalado por los artículos 125 de la Ley, y 51 y 52 de este Reglamento o no pudiere despacharlo en ese término, dará cuenta a la Mesa Directiva para que esta resuelva lo conducente.
 
+> <small>(F. DE E., P.O. 7 DE MAYO DE 2022)</small>
+
 ###### Artículo 54.
 
-Las Comisiones del Congreso serán colegiadas, integradas por tres Diputados, quedando el primero de los nombrados como Presidente y los dos siguientes como Secretarios, a excepción de las Comisiones de Responsabilidades; de Desarrollo Económico; de Educación y Cultura; de Salud y Deporte; de Estudios Legislativos y Puntos Constitucionales; de Hacienda, Fiscalización y Cuenta Pública; de Presupuesto y Disciplina Financiera; de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado; de Anticorrupción y Transparencia Gubernamental; y Peticiones y Participación Ciudadana, que se integrarán por cinco Diputados, en estas los Diputados restantes tendrán el carácter de vocales.
+Las Comisiones del Congreso serán colegiadas, integradas por tres Diputados, quedando el primero de los nombrados como Presidente y los dos siguientes como Secretarios, a excepción de las Comisiones de Responsabilidades; de Desarrollo Económico; de Educación, Cultura, Ciencia y Tecnología; de Salud y Deporte; de Estudios Legislativos y Puntos Constitucionales; de Hacienda, Fiscalización y Cuenta Pública; de Presupuesto y Disciplina Financiera; de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado; de Anticorrupción y Transparencia Gubernamental; y Peticiones y Participación Ciudadana, que se integrarán por cinco Diputados, en estas los Diputados restantes tendrán el carácter de vocales.
 
 ###### Artículo 55.
 
@@ -1085,9 +1095,11 @@ La Comisión Permanente podrá celebrar sus reuniones en el Recinto Legislativo 
 
 #### SECCIÓN PRIMERA. DEL ÓRGANO SUPERIOR DE AUDITORÍA Y FISCALIZACIÓN GUBERNAMENTAL DEL ESTADO
 
+> <small>(F. DE E., P.O. 7 DE MAYO DE 2022)</small>
+
 ###### Artículo 91.
 
-El Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado ejecutará sus funciones de revisión y fiscalización en coordinación, en lo que corresponda, con la Comisión de Fiscalización y Cuenta Pública del Congreso y, su vigilancia y supervisión estará a cargo de la Comisión de Vigilancia de dicho órgano. Sus atribuciones y facultades estarán consignadas en la Ley de Fiscalización Superior y Rendición de Cuentas del Estado y el Reglamento respectivo.
+El Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado ejecutará sus funciones de revisión y fiscalización en coordinación, en lo que corresponda, con la Comisión de Hacienda, Fiscalización y Cuenta Pública del Congreso y, su vigilancia y supervisión estará a cargo de la Comisión de Vigilancia de dicho órgano. Sus atribuciones y facultades estarán consignadas en la Ley de Fiscalización Superior y Rendición de Cuentas del Estado y el Reglamento respectivo.
 
 ###### Artículo 92.
 
@@ -1289,9 +1301,13 @@ La persona titular de la Unidad de Igualdad y Equidad de Género cuenta con las 
 
 I. Promover acciones para institucionalizar la igualdad y la equidad entre mujeres y hombres, y para hacer efectivo en el Congreso del Estado el acceso de las mujeres a una vida libre de violencia;
 
-II. Coordinar esfuerzos con la Comisión de Igualdad y Equidad de Género, para auxiliar a esta en sus funciones;
+> <small>(F. DE E., P.O. 7 DE MAYO DE 2022)</small>
 
-III. Informar mensualmente a la Comisión de Igualdad y Equidad de Género del Congreso de las acciones, políticas y programas efectuados para alcanzar la igualdad y equidad de género dentro del Congreso;
+V (SIC). Coordinar esfuerzos con la Comisión de Bienestar, Inclusión Social y Equidad de Género, para auxiliar a esta en sus funciones;
+
+> <small>(F. DE E., P.O. 7 DE MAYO DE 2022)</small>
+
+VI (SIC). Informar mensualmente a la Comisión de Bienestar, Inclusión Social y Equidad de Género del Congreso de las acciones, políticas y programas efectuados para alcanzar la igualdad y equidad de género dentro del Congreso;
 
 IV. Impulsar las acciones y las estrategias encaminadas a institucionalizar el lenguaje incluyente como parte del trabajo cotidiano de todas las áreas que integran el Congreso del Estado, para contribuir a que los documentos legislativos se redacten evitando un uso sexista del lenguaje;
 
@@ -1301,7 +1317,9 @@ VI. Coordinar la formación, capacitación y certificación del personal adminis
 
 VII. Crear y administrar un sistema informativo, de registro, seguimiento y evaluación de la situación de igualdad sustantiva entre mujeres y hombres, así como de violencia contra las mujeres, al interior del Congreso;
 
-VIII. Elaborar y remitir a la Comisión de Igualdad y Equidad de Género del Congreso los informes de evaluación periódica que den cuenta de los resultados y nivel de cumplimiento de los objetivos, estrategias y políticas ejecutadas para promover la igualdad y equidad de género y el acceso de las mujeres a una vida libre de violencia en el Congreso; y
+> <small>(F. DE E., P.O. 7 DE MAYO DE 2022)</small>
+
+VIII. Elaborar y remitir a la Comisión de Bienestar, Inclusión Social y Equidad de Género del Congreso los informes de evaluación periódica que den cuenta de los resultados y nivel de cumplimiento de los objetivos, estrategias y políticas ejecutadas para promover la igualdad y equidad de género y el acceso de las mujeres a una vida libre de violencia en el Congreso; y
 
 IX. Las demás que le confieran la Ley, el Pleno, la Directiva o la Junta de Gobierno.
 
@@ -2281,9 +2299,11 @@ Para aplicar las sanciones establecidas en el artículo anterior, se solventará
 
 ### CAPÍTULO I. DE LA GACETA PARLAMENTARIA
 
+> <small>(F. DE E., P.O. 7 DE MAYO DE 2022)</small>
+
 ###### Artículo 223.
 
-La Gaceta Parlamentaria es el medio informativo interno del Congreso, que contiene la información sobre los asuntos y el trabajo parlamentario a realizarse en las sesiones del Pleno de la Legislatura y que tiene como objeto orden y darlos a conocer.
+La Gaceta Parlamentaria es el medio informativo interno del Congreso, que contiene la información sobre los asuntos y el trabajo parlamentario a realizarse en las sesiones del Pleno de la Legislatura y que tiene como objeto darlos a conocer.
 
 Su contenido será difundido permanentemente de manera electrónica en la página oficial del Congreso del Estado. Dicha información tendrá que ser remitida a los correos oficiales de los Diputados.
 
@@ -2421,8 +2441,18 @@ RUBÉN PÉREZ ANGUIANO
 
 Firma.
 
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
 P.O. 30 DE OCTUBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 6.- POR EL QUE SE REFORMA EL ARTÍCULO 91 FRACCIÓN II, 94 FRACCIÓN II Y 97 FRACCIÓN II DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y EL ARTÍCULO 49 FRACCIÓN II DE SU REGLAMENTO.]
 
 ÚNICO.- El presente decreto entrará en vigor en el momento de su aprobación, por el Pleno del H. Congreso del Estado de Colima y deberá publicarse en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 7 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 81.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA Y SU REGLAMENTO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación, de conformidad con lo establecido en el artículo 3 de la Ley Orgánica del Poder Legislativo del Estado.
+
+SEGUNDO. Una vez aprobado el presente Decreto, deberá ordenarse su publicación en el Periódico Oficial “El Estado de Colima”.
