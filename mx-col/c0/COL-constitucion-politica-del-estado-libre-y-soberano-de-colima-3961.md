@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2021-11-24"
+last_updated: "2022-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2022.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -142,6 +142,10 @@ XIII. A acceder a un transporte público de calidad, digno y eficiente el Estado
 > <small>(ADICIONADA, P.O. 18 DE MAYO DE 2019)</small>
 
 XIV. Al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. La Ley establecerá la forma, términos y condiciones en que se ejercerá este derecho.
+
+> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN XIV], P.O. 7 DE MAYO DE 2022)</small>
+
+Bajo ninguna circunstancia podrá suspenderse de forma absoluta el acceso y disposición de agua en casas habitación, el Estado tiene la obligación inalienable de garantizar el acceso al mínimo vital de agua potable como un derecho humano. La Ley establecerá la forma, términos y condiciones en que se ejercerá este derecho.
 
 Artículo 3°
 
@@ -2303,9 +2307,9 @@ Los gobiernos del Estado y los municipios impartirán la educación de tipo bás
 
 Corresponde al Estado la rectoría de la educación, la impartida por éste, además de obligatoria, será universal, inclusiva, pública, gratuita y laica.
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2022)</small>
 
-La educación se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a todos los derechos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional, en la independencia y en la justicia; promoverá la honestidad, los valores y la mejora continua del proceso de enseñanza aprendizaje.
+La educación se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a todos los derechos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional, en la independencia y en la justicia; promoverá la honestidad, los valores y la mejora continua del proceso de enseñanza aprendizaje; además como parte de la formación integral de las niñas, niños, adolescentes y jóvenes, el Estado garantizará que reciban educación ambiental, que fomentará la enseñanza en el cuidado del medio ambiente, los ecosistemas, la fauna, la flora, el correcto manejo de residuos, y demás actividades tendientes a que se cuide y se preserve la naturaleza, de conformidad con lo que se disponga en la ley correspondiente.
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2020)</small>
 
@@ -3942,6 +3946,12 @@ SEGUNDO. La disposición prevista en el artículo 79, apartado B, párrafo cuart
 TERCERO. Los juicios o procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto continuarán tramitándose hasta su conclusión conforme al ordenamiento jurídico vigente aplicable al momento de su inicio.
 
 CUARTO. El Congreso del Estado deberá realizar las adecuaciones normativas que correspondan para dar cumplimiento a lo previsto en el presente decreto, dentro del plazo de noventa días naturales siguientes a la entrada en vigor del mismo.
+
+P.O. 7 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 79.- POR EL QUE SE REFORMA EL ARTÍCULO 97, PÁRRAFO TERCERO Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XIV DEL ARTÍCULO 2, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTÍCULO ÚNICO.
 
