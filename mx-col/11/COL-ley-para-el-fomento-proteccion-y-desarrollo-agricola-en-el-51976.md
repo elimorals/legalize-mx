@@ -4,7 +4,7 @@ identifier: "COL-ley-para-el-fomento-proteccion-y-desarrollo-agricola-en-el-5197
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2010-10-09"
+last_updated: "2022-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY PARA EL FOMENTO, PROTECCION Y DESARROLLO AGRICOLA EN EL ESTADO DE COLIMA
 
-LEY PARA EL FOMENTO, PROTECCION Y DESARROLLO AGRICOLA EN EL ESTADO DE COLIMA
+LEY PARA EL FOMENTO, PROTECCIÓN Y DESARROLLO AGRÍCOLA EN EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2022.
 
 Ley publicada en el Suplemento No. 4 del Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -485,7 +485,9 @@ I. Adoptar las medidas necesarias a fin de disminuir la incidencia de plagas y e
 
 II. Observar la normatividad Federal y Estatal en materia de sanidad, en especial la relativa a las Normas Oficiales Mexicanas y dispositivos de emergencia, así como participar de las campañas, programas y acciones establecidas para estos efectos por las autoridades competentes;
 
-III. Utilizar métodos de control y agroquímicos autorizados por la Comisión Intersecretarial para el Control del Proceso y Uso de Plaguicidas y Sustancias Tóxicas;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2022)</small>
+
+III. Utilizar métodos de control y agroquímicos autorizados por la Comisión Intersecretarial para el Control del Proceso y Uso de Plaguicidas y Sustancias Tóxicas; además de ello se observará la prohibición de utilizar plaguicidas altamente peligrosos o aquellas sustancias o compuestos que estén prohibidos en tratados internacionales de los que el Estado mexicano sea parte.
 
 IV. Observar las disposiciones relativas al cuidado y protección del entorno ecológico; y
 
@@ -642,3 +644,9 @@ P.O. 12 DE MAYO DE 2007.
 P.O. 9 DE OCTUBRE DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 80.- POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA, Y SE REFORMA EL ARTÍCULO 23, FRACCIÓN III DE LA LEY PARA EL FOMENTO, PROTECCIÓN Y DESARROLLO AGRÍCOLA EN EL ESTADO DE COLIMA".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
