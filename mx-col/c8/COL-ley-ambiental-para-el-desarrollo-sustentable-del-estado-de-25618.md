@@ -4,7 +4,7 @@ identifier: "COL-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-2561
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2021-09-04"
+last_updated: "2022-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2022.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 15 de junio de 2002.
 
@@ -239,73 +239,81 @@ LXIV. Pepena: La acción de recoger entre los residuos sólidos aquellos que ten
 
 LXV. Peritos ambientales: Las personas que prestan servicios profesionales con conocimientos científicos, teóricos y/o prácticos en materias ambientales;
 
-LXVI. Plan de manejo de residuos sólidos: El instrumento de gestión integral de residuos sólidos que contiene el conjunto de acciones, procedimientos y medios dispuestos para facilitar la devolución y acopio de productos de consumo que al desecharse se convierten en residuos sólidos, lograr la minimización de la generación de éstos, así como la máxima valorización posible de materiales y subproductos contenidos en los mismos, bajo criterios de eficiencia ambiental, económica y social;
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2022)</small>
 
-LXVII. Preservación: El conjunto de políticas y medidas estrictamente necesarias y fundamentadas en el estudio científico y el desarrollo sustentable, para mantener las condiciones que propician la evolución y continuidad de los ecosistemas, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de su hábitat natural;
+LXVI. Plaguicida: Cualquier sustancia o mezcla de sustancias que se destine a controlar cualquier plaga, incluidos los vectores que transmiten las enfermedades humanas y de animales, las especies no deseadas que causen perjuicio o que interfieran con la producción agropecuaria y forestal, así como las sustancias defoliantes y las desecantes como lo son herbicidas;
 
-LXVIII. Prestador de servicios de impacto ambiental: La persona que elabora informes de factibilidad, manifestaciones o estudios de impacto ambiental o de riesgo por cuenta propia o de terceros y que es responsable de la información y del contenido de los mismos;
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2022)</small>
 
-LXIX. Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+LXVII. Plaguicida altamente peligroso: Aquellos que debido a sus características intrínsecas o particulares representan riesgos o generan afectaciones graves, agudas, subcrónicas, crónicas o irreversibles particularmente para la salud o el medio ambiente, de acuerdo con los sistemas de clasificación internacionalmente aceptados, o por estar previstos en tratados, acuerdos o convenciones internacionales;
 
-LXX. Protección: El conjunto de políticas y medidas para mejorar el ambiente, prevenir y controlar su deterioro;
+LXVIII. Plan de manejo de residuos sólidos: El instrumento de gestión integral de residuos sólidos que contiene el conjunto de acciones, procedimientos y medios dispuestos para facilitar la devolución y acopio de productos de consumo que al desecharse se convierten en residuos sólidos, lograr la minimización de la generación de éstos, así como la máxima valorización posible de materiales y subproductos contenidos en los mismos, bajo criterios de eficiencia ambiental, económica y social;
 
-LXXI. Reciclaje: La transformación de los materiales o subproductos contenidos en los residuos sólidos a través de distintos procesos que permiten restituir su valor económico;
+LXIX. Preservación: El conjunto de políticas y medidas estrictamente necesarias y fundamentadas en el estudio científico y el desarrollo sustentable, para mantener las condiciones que propician la evolución y continuidad de los ecosistemas, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de su hábitat natural;
 
-LXXII. Recolección: La acción de recibir los residuos sólidos de sus generadores y trasladarlos a las instalaciones para su transferencia, tratamiento o disposición final;
+LXX. Prestador de servicios de impacto ambiental: La persona que elabora informes de factibilidad, manifestaciones o estudios de impacto ambiental o de riesgo por cuenta propia o de terceros y que es responsable de la información y del contenido de los mismos;
 
-LXXIII. Recolección selectiva: La acción de recolectar los residuos sólidos de manera separada en residuos sólidos orgánicos, inorgánicos y de manejo especial;
+LXXI. Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
-LXXIV. Recurso biológico: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano;
+LXXII. Protección: El conjunto de políticas y medidas para mejorar el ambiente, prevenir y controlar su deterioro;
 
-LXXV. Recurso genético: El material genético de valor real o potencial;
+LXXIII. Reciclaje: La transformación de los materiales o subproductos contenidos en los residuos sólidos a través de distintos procesos que permiten restituir su valor económico;
 
-LXXVI. Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del ser humano;
+LXXIV. Recolección: La acción de recibir los residuos sólidos de sus generadores y trasladarlos a las instalaciones para su transferencia, tratamiento o disposición final;
 
-LXXVII. Región ecológica: La unidad del territorio estatal que comparte características ecológicas comunes;
+LXXV. Recolección selectiva: La acción de recolectar los residuos sólidos de manera separada en residuos sólidos orgánicos, inorgánicos y de manejo especial;
 
-LXXVIII. Relleno sanitario: La obra de infraestructura que aplica métodos de ingeniería para la disposición final de los residuos sólidos, ubicada en sitios adecuados al ordenamiento ecológico y territorial mediante el cual los residuos sólidos se esparcen y compactan al menor volumen práctico posible y se cubren con material natural o sintético para prevenir o reducir la liberación de contaminantes al ambiente, procesos de combustión no controlada, la generación de malos olores, la proliferación de fauna nociva y demás problemas ambientales y sanitarios;
+LXXVI. Recurso biológico: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano;
 
-LXXIX. Residuo orgánico: Todo residuo sólido biodegradable;
+LXXVII. Recurso genético: El material genético de valor real o potencial;
 
-LXXX. Residuo inorgánico: Todo residuo sólido que no tenga características de residuo orgánico y que pueda ser susceptible a un proceso de valorización para su reutilización y reciclaje, tales como vidrio, papel, cartón, plásticos, laminados de materiales reciclables, aluminio y metales no peligrosos y demás no considerados como de manejo especial;
+LXXVIII. Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del ser humano;
 
-LXXXI. Residuo sólido: Material, producto o subproducto que se descarte o deseche y que sea susceptible de ser aprovechado o requiera sujetarse a métodos de tratamiento o disposición final, que no estén considerados como peligrosos y que se encuentran bajo las categorías de residuos urbanos y residuos de manejo especial a los que esta Ley hace referencia;
+LXXIX. Región ecológica: La unidad del territorio estatal que comparte características ecológicas comunes;
 
-LXXXII. Residuo peligroso: Todo aquel residuo, en cualquier estado físico, que por sus características corrosivas, tóxicas, venenosas, reactivas, explosivas, inflamables o irritantes, representan un peligro para la salud, el equilibrio ecológico o el ambiente;
+LXXX. Relleno sanitario: La obra de infraestructura que aplica métodos de ingeniería para la disposición final de los residuos sólidos, ubicada en sitios adecuados al ordenamiento ecológico y territorial mediante el cual los residuos sólidos se esparcen y compactan al menor volumen práctico posible y se cubren con material natural o sintético para prevenir o reducir la liberación de contaminantes al ambiente, procesos de combustión no controlada, la generación de malos olores, la proliferación de fauna nociva y demás problemas ambientales y sanitarios;
 
-LXXXIII. Restauración: El conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+LXXXI. Residuo orgánico: Todo residuo sólido biodegradable;
 
-LXXXIV. Reutilización: El empleo de un residuo sólido previamente utilizado, sin que medie un proceso de transformación;
+LXXXII. Residuo inorgánico: Todo residuo sólido que no tenga características de residuo orgánico y que pueda ser susceptible a un proceso de valorización para su reutilización y reciclaje, tales como vidrio, papel, cartón, plásticos, laminados de materiales reciclables, aluminio y metales no peligrosos y demás no considerados como de manejo especial;
 
-LXXXV. Secretaría: La Secretaría de Desarrollo Urbano;
+LXXXIII. Residuo sólido: Material, producto o subproducto que se descarte o deseche y que sea susceptible de ser aprovechado o requiera sujetarse a métodos de tratamiento o disposición final, que no estén considerados como peligrosos y que se encuentran bajo las categorías de residuos urbanos y residuos de manejo especial a los que esta Ley hace referencia;
 
-LXXXVI. Servicio de limpia: Los sistemas de recolección, transporte, transferencia, tratamiento y disposición final de residuos sólidos;
+LXXXIV. Residuo peligroso: Todo aquel residuo, en cualquier estado físico, que por sus características corrosivas, tóxicas, venenosas, reactivas, explosivas, inflamables o irritantes, representan un peligro para la salud, el equilibrio ecológico o el ambiente;
 
-LXXXVII. Servicios ambientales: Los beneficios de interés social que se derivan de la vida silvestre y su hábitat, tales como la regulación climática, la conservación de los ciclos hidrológicos, la fijación de nitrógeno, la formación de suelo, la captura de carbono, el control de la erosión, la polinización de plantas, el control biológico de plagas o la degradación de residuos orgánicos;
+LXXXV. Restauración: El conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+
+LXXXVI. Reutilización: El empleo de un residuo sólido previamente utilizado, sin que medie un proceso de transformación;
+
+LXXXVII. Secretaría: La Secretaría de Desarrollo Urbano;
+
+LXXXVIII. Servicio de limpia: Los sistemas de recolección, transporte, transferencia, tratamiento y disposición final de residuos sólidos;
+
+LXXXIX. Servicios ambientales: Los beneficios de interés social que se derivan de la vida silvestre y su hábitat, tales como la regulación climática, la conservación de los ciclos hidrológicos, la fijación de nitrógeno, la formación de suelo, la captura de carbono, el control de la erosión, la polinización de plantas, el control biológico de plagas o la degradación de residuos orgánicos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-LXXXVIII. Servicios ambientales hidrológicos: son los beneficios directos e indirectos que recibe la población como resultado de la conservación, manejo y gestión responsable de ecosistemas naturales en áreas de importancia hídrica, tales como la provisión de agua, la restauración de sitios degradados en el área de captación hídrica, la recuperación de suelos y de ecosistemas forestales, la protección de la biodiversidad, el cuidado de la belleza natural para la recreación y el ecoturismo, así como la educación y la investigación;
+XC. Servicios ambientales hidrológicos: son los beneficios directos e indirectos que recibe la población como resultado de la conservación, manejo y gestión responsable de ecosistemas naturales en áreas de importancia hídrica, tales como la provisión de agua, la restauración de sitios degradados en el área de captación hídrica, la recuperación de suelos y de ecosistemas forestales, la protección de la biodiversidad, el cuidado de la belleza natural para la recreación y el ecoturismo, así como la educación y la investigación;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-LXXXIX. Tratamiento: Los procedimientos mecánicos, físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos sólidos y se reduce su volumen o peligrosidad, para su posterior aprovechamiento total o parcial;
+XCI. Tratamiento: Los procedimientos mecánicos, físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos sólidos y se reduce su volumen o peligrosidad, para su posterior aprovechamiento total o parcial;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XC. Unidad de Medida y Actualización: La unidad de medida y actualización vigente en el Estado;
+XCII. Unidad de Medida y Actualización: La unidad de medida y actualización vigente en el Estado;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XCI. Vocación natural: Las condiciones que presenta un ecosistema para sostener una o varias actividades sin que produzcan desequilibrios ecológicos;
+XCIII. Vocación natural: Las condiciones que presenta un ecosistema para sostener una o varias actividades sin que produzcan desequilibrios ecológicos;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XCII.- Cédula de Operación Anual: Es un mecanismo de reporte anual mediante el cual los responsables de las fuentes fijas de competencia estatal dan a conocer a la autoridad ambiental las actualizaciones sobre su operación y deriva de las obligaciones fijadas en la licencia local de funcionamiento; y
+XCIV. Cédula de Operación Anual: Es un mecanismo de reporte anual mediante el cual los responsables de las fuentes fijas de competencia estatal dan a conocer a la autoridad ambiental las actualizaciones sobre su operación y deriva de las obligaciones fijadas en la licencia local de funcionamiento; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XCIII.- Licencia Local de Funcionamiento: Es un trámite de regulación obligatoria, mediante el cual las fuentes fijas de competencia estatal que emiten o puedan emitir radiaciones electromagnéticas, olores, humos, ruido, vibraciones, gases o partículas sólidas o líquidas a la atmósfera dan cumplimiento a las obligaciones ambientales establecidas en la Ley.
+XCV. Licencia Local de Funcionamiento: Es un trámite de regulación obligatoria, mediante el cual las fuentes fijas de competencia estatal que emiten o puedan emitir radiaciones electromagnéticas, olores, humos, ruido, vibraciones, gases o partículas sólidas o líquidas a la atmósfera dan cumplimiento a las obligaciones ambientales establecidas en la Ley.
 
 ###### ARTÍCULO 4º.
 
@@ -2213,9 +2221,9 @@ V. El vertimiento de residuos sólidos en cuerpos y corrientes de agua de jurisd
 
 VI. La disposición final de lodos generados en los sistemas de tratamiento de aguas que se descarguen en cuerpos de agua y bienes de jurisdicción estatal o municipal; y
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2022)</small>
 
-VII. La aplicación de fertilizantes y sustancias tóxicas cuando afecten o puedan afectar mantos acuíferos, cuerpos de agua y bienes de jurisdicción estatal o municipal y sistemas de drenaje y alcantarillado. En todos los casos, se prohíbe la utilización de insecticidas o plaguicidas agrícolas que contengan neonicotinoides.
+VII. La aplicación de fertilizantes de síntesis química y sustancias tóxicas cuando afecten o puedan afectar mantos acuíferos, cuerpos de agua y bienes de jurisdicción estatal o municipal y sistemas de drenaje y alcantarillado. En todos los casos, se prohíbe la utilización de insecticidas o plaguicidas agrícolas que contengan neonicotinoides; así como plaguicidas altamente peligrosos o aquellas sustancias o compuestos que estén prohibidos en tratados internacionales de los que el Estado mexicano sea parte.
 
 ###### ARTÍCULO 148.
 
@@ -3130,3 +3138,9 @@ SEGUNDO.- La transición será gradual, hasta lograr la sustitución, eliminaci�
 a) En las inmediaciones de áreas naturales y áreas naturales protegidas, parques naturales, lagunas, esteros, ríos, grutas, reservas ecológicas y centros de apicultura del Estado, en un plazo de un año a partir de la entrada en vigor del presente Decreto.
 
 b) En el resto del territorio, en un plazo de dos años contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 7 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 80.- POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA, Y SE REFORMA EL ARTÍCULO 23, FRACCIÓN III DE LA LEY PARA EL FOMENTO, PROTECCIÓN Y DESARROLLO AGRÍCOLA EN EL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
