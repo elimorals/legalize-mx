@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-proteccion-de-los-derechos-de-las-personas-104529"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2021-11-20"
+last_updated: "2022-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2022.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de diciembre de 2014.
 
@@ -177,9 +177,15 @@ III.- La violencia patrimonial. Es cualquier acto u omisión que afecta la super
 
 IV.- La violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la persona adulta mayor. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
-V.- La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la persona adulta mayor y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder, y;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2022)</small>
 
-VI.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las personas adultas mayores.
+V.- La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la persona adulta mayor y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder;
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2022)</small>
+
+VI.- Violencia Familiar. Es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir dentro de los tipos de violencia descritos en las fracciones I, II, III, IV y V del presente artículo, a los adultos mayores, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, noviazgo o mantenga o haya mantenido una relación análoga con la víctima, y;
+
+VII.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las personas adultas mayores.
 
 ### CAPÍTULO II. DE LOS PRINCIPIOS RECTORES PARA LA ATENCIÓN DE LAS PERSONAS ADULTAS MAYORES Y LA PROTECCIÓN DE SUS DERECHOS
 
@@ -902,3 +908,11 @@ P.O. 20 DE NOVIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 7 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 607.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN V; Y SE ADICIONA LA FRACCIÓN VI RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 7 BIS DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
