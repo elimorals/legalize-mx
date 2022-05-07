@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-151623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-09"
-last_updated: "2021-10-30"
+last_updated: "2022-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE MAYO DE 2022.]</small>
 
 Ley publicada en el Suplemento Núm. 4 al Núm. 77 del Periódico Oficial del Estado de Colima, el sábado 9 de octubre de 2021.
 
@@ -495,9 +497,11 @@ El Presidente de la Mesa Directiva es el Presidente del Congreso del Estado, exp
 
 El Presidente responderá solo ante el Pleno cuando en el ejercicio de sus atribuciones se aparte de las disposiciones que las rigen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2022)</small>
+
 ###### Artículo 41.
 
-El Presidente y Vicepresidente durarán en sus cargos por todo el periodo ordinario de sesiones por el que hubieren sido nombrados, pudiendo ser reelectos para el periodo ordinario inmediato.
+La Presidencia y Vicepresidencia se elegirán y ejercerán por un mes, pudiendo reelegirse por única ocasión para ese cargo en el mismo Periodo Ordinario de Sesiones.
 
 El Vicepresidente suplirá las ausencias del Presidente en sesión o cuando este debiere abandonar el Recinto; si en esta última hipótesis no se encontrare presente el Vicepresidente, el Pleno, existiendo quórum verificado por un Secretario, nombrará un Presidente para dicha sesión. En estos casos, el Vicepresidente estará facultado a firmar las resoluciones que expida el Congreso y la correspondencia que tenga el carácter de urgente y así lo requiera.
 
@@ -559,9 +563,11 @@ XXV. Proponer la modificación del orden del día, cuando se trate de casos de o
 
 XXVI. Las demás que se deriven de esta Ley, el Reglamento o de las disposiciones o acuerdos que emita el Congreso.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2022)</small>
+
 ###### Artículo 43.
 
-En términos del segundo párrafo del artículo 40 de esta Ley, el Presidente de la Mesa Directiva podrá ser removido por el Pleno cuando de manera reiterada infrinja las disposiciones de esta Ley o su Reglamento. Para que la remoción proceda, se requiere mayoría absoluta, y se observará el procedimiento previsto por el artículo 31 del Reglamento. El Vicepresidente cubrirá la Presidencia por el resto del período.
+En términos del segundo párrafo del artículo 40 de esta Ley, el Presidente de la Mesa Directiva podrá ser removido por el Pleno cuando de manera reiterada infrinja las disposiciones de esta Ley o su Reglamento. Para que la remoción proceda, se requiere mayoría absoluta, y se observará el procedimiento previsto por el artículo 31 del Reglamento. El Vicepresidente cubrirá la Presidencia por el resto del mes.
 
 #### SECCIÓN SEGUNDA. DE LA SECRETARÍA
 
@@ -859,6 +865,8 @@ Para la integración de las Comisiones permanentes, el Grupo Parlamentario que t
 
 Las Comisiones permanentes estarán integradas por tres Diputados, actuando el primero de los nombrados como Presidente y los dos siguientes como Secretarios. El encargo de sus integrantes será por el término de la Legislatura.
 
+> <small>(F. DE E. [N. DE E. REPUBLICADO], P.O. 7 DE MAYO DE 2022)</small>
+
 Las Comisiones de Responsabilidades; de Desarrollo Económico; de Educación, Cultura, Ciencia y Tecnología; de Salud y Deporte; de Estudios Legislativos y Puntos Constitucionales; de Hacienda, Fiscalización y Cuenta Pública; de Presupuesto y Disciplina Financiera; de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado; de Anticorrupción y Transparencia Gubernamental; y de Peticiones y Participación Ciudadana, se integrarán por cinco Diputados de conformidad con los términos que señalen esta Ley y el Reglamento.
 
 Las Comisiones de Hacienda, Fiscalización y Cuenta Pública; de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado; y de Anticorrupción y Transparencia Gubernamental, serán presididas por Diputados pertenecientes a Grupos Parlamentarios de partidos políticos distintos al de la persona titular del Poder Ejecutivo. Un Grupo Parlamentario no podrá ostentar al mismo tiempo la Presidencia de más de una de las comisiones señaladas; en caso de que no fuera posible cumplir con esta condición, la Presidencia de las comisiones citadas podrá recaer en un Diputado único, sin partido o independiente, siempre que sea de un partido político distinto al que pertenezca la persona titular del Poder Ejecutivo.
@@ -887,9 +895,11 @@ Las Comisiones, por medio de su Presidente, de estimarlo conveniente para el des
 
 Las Comisiones podrán establecer subcomisiones o grupos de trabajo para el cumplimiento de sus tareas. En la constitución de las subcomisiones se buscará reflejar la pluralidad de los Grupos Parlamentarios representados en la Comisión.
 
+> <small>(F. DE E., P.O. 7 DE MAYO DE 2022)</small>
+
 ###### Artículo 78.
 
-El Presidente de cada Comisión presentará anualmente, al inicio de cada año de ejercicio constitucional, el Plan de Trabajo de la Comisión que preside. Además, al finalizar el segundo periodo de sesiones de cada año, rendirá un informe a la Junta de Gobierno, que por lo menos deberá contener:
+El Presidente de cada Comisión presentará anualmente, al inicio de cada año de ejercicio constitucional, el Programa de Trabajo de la Comisión que preside. Además, al finalizar el segundo periodo de sesiones de cada año, rendirá un informe a la Junta de Gobierno, que por lo menos deberá contener:
 
 I. El señalamiento y descripción de las iniciativas que les fueron turnadas durante los periodos que se reportan;
 
@@ -1049,7 +1059,9 @@ a) Al Diputado Presidente de la Comisión de Presupuesto y Disciplina Financiera
 
 b) Al Diputado Presidente de la Comisión de Estudios Legislativos y Puntos Constitucionales, o el Diputado integrante de la Comisión que este designe;
 
-c) Al Diputado Presidente de la Comisión de Educación y Cultura, o el Diputado integrante de la Comisión que este designe;
+> <small>(F. DE E., P.O. 7 DE MAYO DE 2022)</small>
+
+c) Al Diputado Presidente de la Comisión de Educación, Cultura, Ciencia y Tecnología, o el Diputado integrante de la Comisión que este designe;
 
 d) Al Diputado Presidente de la Comisión de Justicia, Gobernación y Poderes, o el Diputado integrante de la Comisión que este designe; y
 
@@ -1470,3 +1482,11 @@ P.O. 30 DE OCTUBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 6.- POR EL QUE SE REFORMA EL ARTÍCULO 91 FRACCIÓN II, 94 FRACCIÓN II Y 97 FRACCIÓN II DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y EL ARTÍCULO 49 FRACCIÓN II DE SU REGLAMENTO”.]
 
 ÚNICO.- El presente decreto entrará en vigor en el momento de su aprobación, por el Pleno del H. Congreso del Estado de Colima y deberá publicarse en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 7 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 81.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA Y SU REGLAMENTO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación, de conformidad con lo establecido en el artículo 3 de la Ley Orgánica del Poder Legislativo del Estado.
+
+SEGUNDO. Una vez aprobado el presente Decreto, deberá ordenarse su publicación en el Periódico Oficial “El Estado de Colima”.
