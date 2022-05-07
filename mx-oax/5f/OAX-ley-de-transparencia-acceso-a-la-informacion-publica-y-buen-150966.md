@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-acceso-a-la-informacion-publica-y-buen-150
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-04"
-last_updated: "2022-04-23"
+last_updated: "2022-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2022.
 
 Ley publicada en el No. 36 del Periódico Oficial del Estado de Oaxaca, el sábado 4 de septiembre de 2021.
 
@@ -588,6 +588,10 @@ XIV. Las versiones públicas de los contratos celebrados con las empresas a quie
 XV. El atlas municipal de riesgos;
 
 XVI. Las ordenanzas y reglamentos municipales aprobados y vigentes;
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2022)</small>
+
+El Bando de Policía y Gobierno deberá publicarse o ponerse a disposición del público, dentro de los 90 días siguientes del inicio de cada administración municipal.
 
 XVII. Los planes de desarrollo municipal; y
 
@@ -2314,6 +2318,14 @@ Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cump
 P.O. 23 DE ABRIL DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 590.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN VII DEL ARTÍCULO 23 DE LA LEY DETRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 7 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 608.- MEDIANTE EL CUAL ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XVI DEL ARTÍCULO 30 DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
