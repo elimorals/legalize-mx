@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-instituciones-y-procedimientos-electorales-del-122750"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2021-11-13"
+last_updated: "2022-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2022.
 
 Ley publicada en la Segunda Sección al Número 22 del Periódico Oficial del Estado de Oaxaca, el sábado 3 de junio de 2017.
 
@@ -3363,7 +3363,9 @@ Artículo 176
 
 2.- Los partidos políticos harán uso del tiempo en radio y televisión que conforme a esta Ley les corresponda para la difusión de sus procesos de selección interna de candidatos a cargos de elección popular, de conformidad con las reglas y pautas que determine el INE.
 
-3.- Cuando en el proceso interno de un partido exista un solo precandidato registrado a un cargo de elección popular, no podrá realizar actos de precampaña, en ninguna modalidad y bajo ningún concepto. El partido de que se trate conservará y ejercerá sus derechos de acceso a radio y televisión, difundiendo mensajes institucionales en los que no podrá hacer mención, en forma alguna al precandidato único. La violación a lo anterior será sancionada con la negativa de registro como candidato.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2022)</small>
+
+3.- Cuando en el proceso interno de un partido exista una sola persona precandidata registrada a un cargo de elección popular, podrá realizar actos de precampaña. El partido de que se trate podrá ejercer sus derechos de acceso a radio y televisión de conformidad con las reglas y pautas que determine el INE, para la difusión de mensajes institucionales dirigidos a la militancia y podrá hacer mención, de la persona precandidata única.
 
 4.- Queda prohibido a los precandidatos a candidaturas a cargos de elección popular, en todo tiempo, la contratación o adquisición de propaganda o cualquier otra forma de promoción personal en radio y televisión. La violación a esta norma se sancionará con la negativa de registro como precandidato o, en su caso con la cancelación de dicho registro. De comprobarse la violación a esta norma en fecha posterior a la de postulación del candidato por el partido de que se trate, el Instituto Estatal negará el registro legal del infractor.
 
@@ -6306,3 +6308,11 @@ P.O. 13 DE NOVIEMBRE DE 2021.
 PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. - Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 7 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 606.- MEDIANTE EL CUAL REFORMA EL NUMERAL 3 DEL ARTÍCULO 176 DE LA LEY INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor el día 06 de junio de 2022.
