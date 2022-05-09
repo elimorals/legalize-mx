@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-asistencia-social-para-el-estado-de-baja-california-2661
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2021-04-16"
+last_updated: "2022-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 18 de noviembre de 2005.
 
@@ -723,9 +723,31 @@ Son Instituciones de Asistencia Social Privada, las personas morales que con fin
 
 Se consideran actos de asistencia social privada, los establecidos en el artículo 4º de esta Ley, ejecutados por los particulares.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO 49.
 
-Las Instituciones de Asistencia Social Privada, gozarán de las exenciones, estímulos, subsidios y prerrogativas fiscales y administrativas que establezcan las leyes.
+Las instituciones de Asistencia Social Privada, tendrán derecho a acceder a los recursos públicos contemplados en las partidas que se asignen con dicho fin en el Presupuesto de Egresos del Estado y de los Municipios, así como a estímulos fiscales, exenciones, subsidios, y apoyos económicos que otorguen dichas autoridades, incluyendo los acordados o convenidos con la Federación, para la realización y fomento de sus actividades, de conformidad con las disposiciones legales aplicables en la materia.
+
+De igual manera, les corresponderá participar en el diseño y aplicación de las políticas públicas y normas para el ejercicio de los recursos públicos a que se refiere el párrafo anterior.
+
+Los mecanismos para el fortalecimiento de las Instituciones de Asistencia Social Privada, deberán incluir la simplificación de trámites administrativos, así como la reducción o exención de cobros o derechos por el pago de servicios públicos que requieran para la realización de sus fines o actividades, de conformidad con la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2022)</small>
+
+ARTÍCULO 49 BIS.- El otorgamiento de recursos públicos a las Instituciones de Asistencia Social Privada, se sujetará a reglas de operación expedidas por las autoridades correspondientes, las cuales incluirán dentro de sus bases el mecanismo de convocatoria, a fin de que puedan presentar sus proyectos de trabajo, de conformidad con las disposiciones legales aplicables, utilizando en todo caso criterios que aseguren:
+
+I. Condiciones de acceso igualitarias y equitativas;
+
+II. Transparencia en el proceso de selección;
+
+III. Difusión a través del Periódico Oficial del Estado, de los órganos municipales respectivos y, en su caso, de los diarios de mayor circulación estatal;
+
+IV. Imparcialidad y debida fundamentación y motivación en su asignación;
+
+V. Claridad en los aspectos técnicos por los cuales se otorgarán los recursos.
+
+Se exceptúa de lo anterior, las asignaciones directas que establezca el Presupuesto de Egresos del Estado o Municipios en favor de las Instituciones de Asistencia Social Privada que correspondan.
 
 ###### ARTÍCULO 50.
 
@@ -1478,3 +1500,9 @@ P.O. 16 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 216 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN VI DEL ARTÍCULO 5 DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- El presente decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 96 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 49 Y SE ADICIONA UN NUMERAL 49 BIS A LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
