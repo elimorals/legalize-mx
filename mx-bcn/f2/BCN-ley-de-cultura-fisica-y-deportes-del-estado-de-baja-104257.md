@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-cultura-fisica-y-deportes-del-estado-de-baja-104257"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2020-11-27"
+last_updated: "2022-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104257&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2022.
 
 Ley publicada en la Sección VIII del Periódico Oficial del Estado de Baja California, el miércoles 31 de diciembre de 2014.
 
@@ -397,7 +397,9 @@ I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos, con residencia m�
 
 II.- Acreditar conocimientos y experiencia en materia de cultura física y deporte para el buen desempeño de su función;
 
-III.- (DEROGADA, P.O. 27 DE NOVIEMBRE DE 2020)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MAYO DE 2022)</small>
+
+III.- Contar con título profesional o cédula profesional en cualquier (sic) de las áreas que comprendan el estudio de la cultura física y el deporte;
 
 IV.- No encontrarse inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
 
@@ -2130,3 +2132,9 @@ TERCERO.- El Ejecutivo del Estado de Baja California expedirá el Reglamento par
 CUARTO.- El Pleno deberá expedir las reglas de operación y funcionamiento de la CAADE dentro de los noventa días naturales siguientes a la entrada en vigor de su Reglamento.
 
 QUINTO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 9 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 91 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 22 DE LA LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
