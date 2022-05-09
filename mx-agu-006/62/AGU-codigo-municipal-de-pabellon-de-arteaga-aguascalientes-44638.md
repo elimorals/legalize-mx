@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2021-08-09"
+last_updated: "2022-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2022.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -11905,11 +11905,11 @@ IV.- Previo acuerdo de coordinación con las autoridades estatales, implementar 
 
 V.- Integrar y mantener actualizado el inventario de fuentes fijas y móviles emisoras de contaminantes a la atmósfera, que estén ubicadas en el territorio del Municipio.
 
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2022)</small>
 
-ARTICULO 683 BIS.- Se prohíbe detonar o encender cohetes, juegos pirotécnicos, o elevar aeróstatos en fiestas particulares, festividades religiosas, cívicas, políticas y sociales tanto públicas como privadas.
+ARTICULO 683 BIS.- El uso artificios pirotécnicos o aeróstatos en fiestas particulares, festividades religiosas, cívicas, políticas y sociales tanto públicas como privadas solo se permitirá cuando se dé previo aviso a la Secretaría del Ayuntamiento, quien deberá determinar, a través de la instancia correspondiente, las medidas de protección civil y seguridad que sean necesarias para garantizar la seguridad de la población.
 
-Quedan excluidos los artificios pirotécnicos para señales de auxilio, emergencias, uso de las Fuerzas Armadas, de Seguridad y/o Defensa Civil, los artificios pirotécnicos para la lucha antigranizo y los destinados al uso industrial o minero o el que toda otra actividad productiva o extractiva pudiere hacer de materiales explosivos siempre que sean utilizados en el ejercicio de dichas funciones.
+Quedan excluidos de la disposición contenida en el párrafo anterior, los artificios pirotécnicos para señales de auxilio, emergencias, uso de las Fuerzas Armadas, de Seguridad y/o Defensa Civil, los artificios pirotécnicos para la lucha antigranizo y los destinados al uso industrial o minero o el que toda otra actividad productiva o extractiva pudiere hacer de materiales explosivos siempre que sean utilizados en el ejercicio de dichas funciones.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -29486,3 +29486,9 @@ P.O. 9 DE AGOSTO DE 2021.
 PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- Se derogan todas las disposiciones de carácter reglamentario municipal que se opongan a lo dispuesto en el presente acuerdo.
+
+P.O. 9 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR MEDIO DEL CUAL SE REFORMA DEL ARTÍCULO 683-BIS DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA”.]
+
+ÚNICO: La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
