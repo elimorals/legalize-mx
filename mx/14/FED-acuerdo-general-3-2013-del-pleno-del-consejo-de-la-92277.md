@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2022-03-04"
+last_updated: "2022-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MAYO DE 2022.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -217,7 +217,9 @@ VI. SEXTO CIRCUITO:
 
 3. Quince juzgados de Distrito especializados en el Estado de Puebla: uno de procesos penales federales; nueve de amparo en materia civil, administrativa y de trabajo y de juicios federales y cinco de amparo en materia penal; los trece primeros con residencia en San Andrés Cholula y los dos restantes, con residencia en Puebla, Puebla.
 
-4. Un Juzgado de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en San Andrés Cholula.
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 6 /2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE MAYO DE 2022)</small>
+
+4. Un Juzgado de Distrito en Materia Mercantil, especializado en juicios orales, con residencia en San Andrés Cholula.
 
 VII. SEPTIMO CIRCUITO:
 
@@ -485,7 +487,9 @@ XXVII. VIGESIMO SEPTIMO CIRCUITO:
 
 3. Nueve Juzgados de Distrito en el Estado de Quintana Roo, dos con residencia en Chetumal y siete con sede en Cancún.
 
-4. Un Juzgado de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en Cancún.
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 6 /2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE MAYO DE 2022)</small>
+
+4. Un Juzgado de Distrito en Materia Mercantil, especializado en juicios orales, con residencia en Cancún.
 
 XXVIII. VIGESIMO OCTAVO CIRCUITO:
 
@@ -8772,3 +8776,17 @@ QUINTO. A partir del inicio de funciones de los Juzgados de Distrito en Materia 
 Los juzgados de Distrito mixtos, semiespecializados y especializados de todo el país mantendrán la competencia necesaria para seguir actuando, hasta su conclusión y archivo definitivo, en los concursos mercantiles y amparos indirectos relacionados con ellos que, a la fecha de inicio de funciones de los nuevos órganos en materia de concursos mercantiles, se encuentren en trámite y deban conservar, en términos del presente Acuerdo.
 
 SEXTO. La Visitaduría Judicial, en coordinación con la Dirección General de Estadística Judicial, elaborará e implementará modelos específicos de informes y actas de visita para la práctica de las inspecciones a los Juzgados de Distrito en Materia de Concursos Mercantiles, a fin de evaluar en forma adecuada su desempeño.
+
+D.O.F. 9 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 6/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DENOMINACIÓN DE LOS JUZGADOS DE DISTRITO EN MATERIA MERCANTIL ESPECIALIZADOS EN JUICIOS DE CUANTÍA MENOR EN SAN ANDRÉS CHOLULA, PUEBLA Y CANCÚN, QUINTANA ROO, A LA DENOMINACIÓN DE JUZGADOS DE DISTRITO EN MATERIA MERCANTIL FEDERAL, ESPECIALIZADOS EN JUICIOS ORALES; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo previsto en el artículo siguiente.
+
+SEGUNDO. El presente Acuerdo entrará en vigor el día de su aprobación para las Direcciones Generales de Gestión Judicial; de Tecnologías de la Información, de Recursos Humanos y para la Coordinación de Administración Regional, para que, en el ámbito de su competencia, realicen de forma coordinada todas las acciones correspondientes para la instrumentación de la modificación aquí autorizada.
+
+TERCERO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal, en Intranet e Internet.
+
+CUARTO. Los Juzgados de Distrito en Materia Mercantil Especializados en Juicios Orales con sede en San Andrés Cholula, Puebla y Cancún, Quintana Roo, así como las respectivas Oficinas de Correspondencia Común que les presta servicio, fijarán avisos en lugar visible con relación a la medida objeto del presente Acuerdo.
+
+QUINTO. Las menciones hechas en otros Acuerdos Generales y normatividad del Consejo de la Judicatura a los Juzgados Primero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con sede en San Andrés Cholula, Puebla y al Juzgado Segundo de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con sede en Cancún, Quintana Roo, se entenderán referidas al Juzgado de Distrito en Materia Mercantil Federal en el Estado de Puebla, Especializado en Juicios Orales, y al Juzgado de Distrito en Materia Mercantil Federal en el Estado de Quintana Roo, Especializado en Juicios Orales, respectivamente.
