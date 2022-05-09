@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2022-04-05"
+last_updated: "2022-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 5 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 9 DE MAYO DE 2022.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -1353,9 +1353,29 @@ c) Proponer acciones coordinadas con los organismos públicos y sociales protect
 
 d) Promover la coordinación y colaboración entre los tres niveles de gobierno, para la atención de los asuntos de su competencia;
 
-e) Promover las normas municipales para que en las relaciones laborales se evite cualquier forma de acoso, hostigamiento y discriminación; y
+> <small>(REFORMADO, G.M. 9 DE MAYO DE 2022)</small>
 
-f) Observar que los espacios y obras públicas municipales, y espectáculos que se realicen en el Municipio, garanticen la accesibilidad universal de las personas.
+e) Promover las normas municipales para que en las relaciones laborales se evite cualquier forma de acoso, hostigamiento y discriminación;
+
+> <small>(REFORMADO, G.M. 9 DE MAYO DE 2022)</small>
+
+f) Observar que los espacios y obras públicas municipales, y espectáculos que se realicen en el Municipio, garanticen la accesibilidad universal de las personas;
+
+> <small>(ADICIONADO, G.M. 9 DE MAYO DE 2022)</small>
+
+g) Vigilar que las políticas públicas y programas municipales que implemente el Gobierno Municipal garanticen la transversalidad en la perspectiva de género;
+
+> <small>(ADICIONADO, G.M. 9 DE MAYO DE 2022)</small>
+
+h) Solicitar a las dependencias competentes, la elaboración de diagnósticos que permitan conocer la situación actual de las mujeres en relación con los ejes rectores establecidos en el Plan Municipal de Desarrollo y Gobernanza Guadalajara;
+
+> <small>(ADICIONADO, G.M. 9 DE MAYO DE 2022)</small>
+
+i) Vigilar la adecuada difusión y publicación de normas, planes y programas que guarden relación con la Igualdad de Género; y
+
+> <small>(ADICIONADO, G.M. 9 DE MAYO DE 2022)</small>
+
+j) Proponer y dictaminar las iniciativas en materia de perspectiva de género, así como formular los lineamientos generales para garantizar la igualdad y el respeto a la diversidad e inclusión.
 
 VII. Desarrollo Social, Humano y Participación Ciudadana:
 
@@ -7892,3 +7912,13 @@ Tercero. Se instruye al Organismo Público Descentralizado de la Administración
 Cuarto. Las referencias o menciones contenidas en otros reglamentos, disposiciones municipales, convenios y demás instrumentos jurídicos respecto al Organismo Público Descentralizado de la Administración Pública Municipal, denominado Consejo Social de Cooperación para el Desarrollo Urbano, se entenderán referidas al Organismo Público Descentralizado de la Administración Pública Municipal, denominado Consejo de Colaboración Municipal de Guadalajara.
 
 Quinto. Una vez publicadas las presentes reformas remítanse un tanto de las mismas al Congreso del Estado de Jalisco, para los efectos contemplados en el artículo 42, fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 9 DE MAYO DE 2022.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE SE “REFORMA AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA”.]</small>
+
+Primero. Publíquese la presente reforma en la Gaceta Municipal de Guadalajara.
+
+Segundo. Esta reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicada la aludida reforma, remítase una copia al Congreso del Estado de Jalisco para efectos de lo ordenado en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
