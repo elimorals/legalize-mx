@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-coordinacion-fiscal-del-estado-de-baja-california-2763"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2021-04-30"
+last_updated: "2022-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2022.
 
 Ley publicada en la Sección Décimo Primera del Periódico Oficial del Estado de Baja California, el jueves 31 de diciembre de 1987.
 
@@ -63,13 +63,17 @@ Para los efectos de esta Ley, son participaciones federales, las asignaciones qu
 
 DE LAS PARTICIPACIONES FEDERALES Y ESTATALES A LOS MUNICIPIOS.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 3o.
 
-Los Municipios recibirán el equivalente al 20%, de las cantidades que perciba el Estado por concepto de participaciones federales, dentro del ejercicio de que se trate, derivadas del Fondo General de Participaciones, del Fondo de Fiscalización y del Fondo del Impuesto Especial Sobre Producción y Servicios, emanado de los actos o actividades a que se refiere al artículo 3-A de la Ley de Coordinación Federal.
+Los Municipios recibirán el equivalente al 20%, de las cantidades que perciba el Estado por concepto de participaciones federales, dentro del ejercicio de que se trate, derivadas del Fondo General de Participaciones, del Fondo de Fiscalización y del Fondo del Impuesto Especial Sobre Producción y Servicios, emanado de los actos o actividades a que se refiere al artículo 3-A de la Ley de Coordinación Fiscal.
 
-De la misma forma, los Municipios percibirán el 20% del importe total que reciba el Estado derivado del Impuesto Sobre Tenencia o Uso de Vehículos e Impuesto Sobre Automóviles Nuevos. Asimismo, percibirán el 100% del Fondo de Fomento Municipal a que se refiere la Ley de Coordinación Fiscal Federal.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2022)</small>
+
+De la misma forma, los Municipios percibirán el 20% del importe total que reciba el Estado derivado del Impuesto Sobre Automóviles Nuevos e Impuesto Sobre la Renta por la enajenación de bienes inmuebles a que se refiere el artículo 126 de la Ley del Impuesto Sobre la Renta. Asimismo, percibirán el 100% del Fondo de Fomento Municipal a que se refiere la Ley de Coordinación Fiscal y el 100% del Impuesto Sobre la Renta a que hace referencia el artículo 3-B de la Ley de Coordinación Fiscal respecto al personal que preste o desempeñe un servicio personal subordinado en el municipio o demarcación territorial de que se trate, en los términos establecidos en el referido artículo.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
 
 Los ingresos que correspondan a los Municipios de acuerdo a los párrafos anteriores, serán distribuidos entre los mismos, en los términos de la presente Ley.
 
@@ -89,29 +93,37 @@ II.- El 30% en proporción directa al número de habitantes de que tenga cada Mu
 
 BIS.- El 20% del total que perciba el Estado de la recaudación derivada de la aplicación de las cuotas por la venta final al público en general en territorio nacional de gasolina y diesel, previstas en el artículo 2º.-A, fracción II, de la Ley del Impuesto Sobre Producción y Servicios, será distribuido entre los Municipios de acuerdo a las siguientes reglas:
 
-I.- El 70%, en proporción directa al número de habitantes que tenga cada Municipio, el cual se tomará de la información oficial más reciente al inicio de cada ejercicio fiscal, entre la que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, y el Consejo Estatal de Población.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2022)</small>
+
+I. El 70%, en proporción directa al número de habitantes que tenga cada Municipio, el cual se tomará de la información oficial más reciente al inicio de cada ejercicio fiscal, entre la que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía, o la dependencia federal que en sustitución de ésta lo publique.
 
 II.- El 20%, en proporción a la recaudación del Impuesto Predial que obtenga cada Municipio, durante el ejercicio anterior para el cual se efectúa el cálculo.
 
-III.- El 10%, en proporción inversa al número de habitantes que tenga cada Municipio, el cual se tomará de la información oficial más reciente al inicio de cada ejercicio fiscal, entre la que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, y el Consejo Estatal de Población.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2021)</small>
+III. El 10%, en proporción inversa al número de habitantes que tenga cada Municipio, el cual se tomará de la información oficial más reciente al inicio de cada ejercicio fiscal, entre la que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía o la dependencia federal que en sustitución de ésta lo publique.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 5o.
 
-Las participaciones serán cubiertas en efectivo, no en obra, sin condicionamiento alguno y no podrán ser objeto de reducciones salvo lo dispuesto, por el Artículo 9o. de la Ley Federal de Coordinación Fiscal. Se calcularán para cada ejercicio fiscal y serán entregadas por conducto de la Secretaría de Hacienda, a más tardar dentro de los cinco días siguientes a aquél en que el Estado las reciba como pagos provisionales o derivadas de los ajustes cuatrimestrales y del ajuste definitivo anual.
+Las participaciones serán cubiertas en efectivo, no en obra, sin condicionamiento alguno y no podrán ser objeto de reducciones salvo lo dispuesto, por el Artículo 9o. de la Ley de Coordinación Fiscal. Se calcularán para cada ejercicio fiscal y serán entregadas por conducto de la Secretaría de Hacienda, a más tardar dentro de los cinco días siguientes a aquél en que el Estado las reciba como pagos provisionales o derivadas de los ajustes cuatrimestrales y del ajuste definitivo anual.
 
 El retraso dará lugar al pago de intereses, a la tasa de recargos que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones, de conformidad con lo establecido por el Ordenamiento Federal a que se refiere el primer párrafo de este Artículo.
 
 La liquidación definitiva se determinará a más tardar dentro de los seis meses siguientes al cierre de cada ejercicio fiscal, tomando en cuenta las cantidades que se hubieren afectado provisionalmente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 6o.
 
-El 20% del total que reciba el Estado por concepto de participación federal derivada de la recaudación del Impuesto Sobre Tenencia o Uso de Vehículos, que se obtenga en Territorio Estatal, será distribuido en proporción a la recaudación obtenida en cada uno de los municipios durante el ejercicio fiscal anterior, por el mismo concepto.
+El 20 %, del total que reciba el Estado por concepto de participación federal derivada del Impuesto Sobre la Renta por la enajenación de bienes inmuebles a que se refiere el artículo 126 de la Ley del Impuesto Sobre la Renta, será distribuido en proporción a la recaudación obtenida y la población en cada uno de los municipios durante el ejercicio fiscal anterior, por el mismo concepto. Lo anterior, de acuerdo a las siguientes reglas:
 
-El 20% del total de la recaudación del Impuesto Sobre Automóviles Nuevos, se distribuirá a los Municipios aplicando el factor que les corresponda en la distribución del Impuesto Sobre Tenencia o Uso de Vehículos.
+I. El 80% en proporción directa a la suma de la recaudación obtenida por cada Municipio del Impuesto Sobre la Renta por enajenación de bienes inmuebles, durante el ejercicio anterior para el cual se efectúa el cálculo.
+
+II. El 20%, en proporción directa al número de habitantes que tenga cada Municipio, el cual se tomará de la última información oficial que hubiera dado a conocer al inicio de cada ejercicio fiscal, el Instituto Nacional de Estadística y Geografía o la dependencia federal que en sustitución de ésta lo publique.
+
+El 20% del total de la recaudación del Impuesto Sobre Automóviles Nuevos y del Fondo Compensatorio del Impuesto Sobre Automóviles Nuevos, se distribuirá a los Municipios aplicando el factor que les corresponda en la distribución del Impuesto Estatal Sobre Tenencia o Uso de Vehículos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -139,19 +151,21 @@ A partir del año 2002, el importe que corresponda a cada Municipio en los térm
 
 El 9% del total recaudado por el Impuesto Sobre Servicios de Hospedaje, será distribuido entre los Municipios en proporción a la recaudación obtenida en cada uno de ellos en el ejercicio fiscal anterior, por el mismo concepto.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 8o.
 
-Las participaciones estatales, las derivadas del Impuesto Sobre Tenencia o Uso de Vehículos e Impuesto Sobre Automóviles Nuevos, así como de la venta final al público en general en territorio nacional de gasolinas y diesel, prevista en el artículo 2o.- A, fracción II, de la Ley del Impuesto Especial sobre Producción y Servicios, se calcularán mensualmente y serán entregadas por conducto de la Secretaría de Hacienda del Estado, a más tardar el decimoquinto día del mes siguiente a aquel en que el Estado las recaude.
+Las participaciones estatales y las derivadas del Impuesto Sobre Automóviles Nuevos, se calcularán mensualmente y serán entregadas por conducto de la Secretaría de Hacienda del Estado, a más tardar el decimoquinto día del mes siguiente a aquel en que el Estado las recaude.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 9o.
 
-Las participaciones que correspondan a los Municipios son inembargables, no podrán afectarse a fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas por los mismos con autorización de la Legislatura Local, a favor de las Instituciones de Crédito que operen en Territorio Nacional, así como de las personas físicas o morales de nacionalidad mexicana. En tratándose de participaciones Federales, deberán además, ser inscritas a petición del Municipio, ante la Secretaría de Hacienda y Crédito Público, en los términos del Artículo 9o. de la Ley Federal de Coordinación Fiscal.
+Las participaciones que correspondan a los Municipios son inembargables, no podrán afectarse a fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas por los mismos con autorización de la Legislatura Local, a favor de las Instituciones de Crédito que operen en Territorio Nacional, así como de las personas físicas o morales de nacionalidad mexicana. En (sic) tratándose de participaciones Federales, deberán además, ser inscritas a petición del Municipio, ante la Secretaría de Hacienda y Crédito Público, en los términos del Artículo 9o. de la Ley de Coordinación Fiscal.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2022)</small>
 
-La compensación entre el derecho de los municipios a recibir participaciones y las obligaciones que tengan con el Estado o con la Federación sólo podrá llevarse a cabo si existe Acuerdo entre las partes interesadas o cuando así lo autorice la Ley Federal de Coordinación Fiscal.
+La compensación entre el derecho de los municipios a recibir participaciones y las obligaciones que tengan con el Estado o con la Federación sólo podrá llevarse a cabo si existe Acuerdo entre las partes interesadas o cuando así lo autorice la Ley de Coordinación Fiscal.
 
 Las deudas de los Municipios derivadas de ajustes en participaciones no están sujetas a lo dispuesto en este artículo y serán objeto de compensación.
 
@@ -159,11 +173,11 @@ Las deudas de los Municipios derivadas de ajustes en participaciones no están s
 
 Los recursos del Fondo de Aportaciones para el Fortalecimiento de Municipios y de las Demarcaciones Territoriales del Distrito Federal deberán destinarse a lo dispuesto en la Ley de Coordinación Fiscal, y podrán afectarse como garantía del cumplimiento de las obligaciones de pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, a cargo de las Comisiones Estatales de Servicios Públicos, previa autorización de los Ayuntamientos, y posterior aprobación y autorización de la Legislatura del Estado. En caso de incumplimiento en la obligación del pago de derechos y aprovechamientos por concepto de Agua, la Comisión Nacional del Agua podrá solicitar al Ejecutivo del Estado, a través de la Secretaría de Hacienda, previa acreditación del incumplimiento, la retención y pago del adeudo con cargo a recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, siempre y cuando el adeudo tenga la antigüedad a que se refiere la Ley de Coordinación Fiscal.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 10o.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Hacienda, publicará anualmente en el Periódico Oficial del Estado y en el periódico de mayor circulación en la Entidad, las participaciones que hubieren correspondido a cada uno de los Municipios, durante el ejercicio fiscal del año inmediato anterior.
+El Ejecutivo del Estado, por conducto de la Secretaría de Hacienda, publicará anualmente en el Periódico Oficial del Estado, las participaciones que hubieren correspondido a cada uno de los Municipios, durante el ejercicio fiscal del año inmediato anterior.
 
 ### CAPITULO III
 
@@ -356,3 +370,11 @@ P.O. 30 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 221 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA DE REFORMA A LOS ARTÍCULOS 5, 8, 9, 10, 11 Y 13 DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 9 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 94 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3, 4 BIS, 5, 6, 8, 9 Y 10 DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
