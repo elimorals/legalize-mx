@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2021-06-29"
+last_updated: "2022-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2022.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -463,9 +463,9 @@ i).- La educación para la salud;
 
 j).- La orientación y vigilancia en materia de nutrición, dando mayor importancia a los programas de nutrición destinados a los niños y niñas;
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2022)</small>
 
-k).- La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre, poniendo especial atención a los riesgos que produce la exposición a la radiación ultravioleta y otras similares;
+k).- La prevención y el control de los efectos nocivos de los factores ambientales en la salud de la persona, poniendo especial atención a los riesgos que produce la exposición a la radiación ultravioleta y otras similares;
 
 l).- La salud ocupacional y el saneamiento básico;
 
@@ -3237,11 +3237,11 @@ II.- En caso de epidemia grave, y
 
 III.- Si existiere peligro de invasión de dichos padecimientos en el Estado.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 269.
 
-Los gobiernos del Estado o de los municipios podrán ordenar o proceder a la vacunación de animales que puedan constituirse en transmisores de enfermedades al hombre o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
+Los gobiernos del Estado o de los municipios podrán ordenar o proceder a la vacunación de animales que puedan constituirse en transmisores de enfermedades al ser humano o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
 
 ###### ARTICULO 270.
 
@@ -4128,3 +4128,11 @@ P.O. 29 DE JUNIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 9 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 120.- SE REFORMA EL INCISO K) DE LA FRACCIÓN IV DEL APARTADO A DEL ARTÍCULO 28 Y EL ARTÍCULO 269 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES, Y SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 4o DE LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
