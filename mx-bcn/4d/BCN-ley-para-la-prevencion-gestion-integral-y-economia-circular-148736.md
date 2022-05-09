@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-prevencion-gestion-integral-y-economia-circular-148
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-26"
-last_updated: "2021-03-26"
+last_updated: "2022-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY PARA LA PREVENCION, GESTION INTEGRAL Y ECONOMIA CIRCULAR DE LOS RESIDUOS DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA LA PREVENCIÓN, GESTIÓN INTEGRAL Y ECONOMÍA CIRCULAR DE LOS RESIDUOS DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2022.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 26 de marzo de 2021.
 
@@ -205,7 +207,9 @@ LVII. Residuos Sólidos Urbanos: Los generados en las casas habitación, que res
 
 LVIII. Responsabilidad compartida diferenciada: Consiste en la gestión y manejo integral de los residuos mediante la corresponsabilidad social y complementaria a la responsabilidad extendida del productor y los sistemas de gestión aplicables; En su ejecución participarán de manera conjunta, coordinada y diferenciada, productores, distribuidores, consumidores y usuarios, bajo un esquema de factibilidad y eficiencia ambiental, tecnológica, económica y social;
 
-LIX. Secretaría: Secretaría de Economía Sustentable y Turismo;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2022)</small>
+
+LIX.- Secretaría: Secretaría de Medio Ambiente y Desarrollo Sustentable;
 
 LX. Sector Informal: Se define como el conjunto de actores económicos que operan fuera del marco regulatorio y fiscal;
 
@@ -769,9 +773,11 @@ Toda persona física o moral, cuya actividad sea la extracción, transformación
 
 Los parques y jardines de los Ayuntamientos son los beneficiarios prioritarios de la composta producida con los biorresiduos que recolecta el servicio municipal. Por ende, las podas de parques y jardines, también se incorporarán a las plantas de aprovechamiento energético de biorresiduos.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2022)</small>
+
 ###### Artículo 43.
 
-La recolección selectiva de los neumáticos y otros materiales aprovechables para el coprocesamiento, estarán a cargo de los Ayuntamientos y prestadores de servicio autorizados por la Secretaría, quienes en el marco de responsabilidad compartida diferenciada deberán coordinar con las y los productores, comercializadores o distribuidores del producto, el manejo, depósito y conducción para su disposición final.
+La recolección selectiva de los neumáticos y otros residuos de manejo especial estarán a cargo de los Ayuntamientos y la Secretaría en el ámbito de sus respectivas competencias, así como de los prestadores de servicio autorizados por la Secretaría, quienes en el marco de responsabilidad compartida diferenciada deberán coordinar con las y los productores, comercializadores o distribuidores del producto, el manejo, depósito y conducción para su disposición final.
 
 ## TÍTULO QUINTO. DEL MANEJO DE RESIDUOS
 
@@ -787,13 +793,19 @@ Deben establecerse restricciones a la incineración o al coprocesamiento mediant
 
 Todo proceso de tratamiento o coprocesamiento, instalado en el Estado debe cumplir con las Normas Oficiales Mexicanas, la legislación aplicable y los Tratados Internacionales de los que México sea parte.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2022)</small>
+
 ###### Artículo 45.
 
-El sitio de transferencia tiene por finalidad optimizar los costos y operaciones de recolección y transporte de residuos.
+La estación de transferencia tiene por finalidad separar los residuos de manejo especial susceptibles de ser valorizados, así como optimizar los costos y operaciones de su recolección y transporte.
 
-En esta instalación se traspasan los residuos de los vehículos recolección hacia un vehículo de mayor capacidad para su transporte al lugar de disposición final. Los sitios de transferencia no podrán ser rehabilitados como sitios de disposición final, a excepción de casos de fuerza mayor.
+En esta instalación se traspasan los residuos de los vehículos de recolección hacia un vehículo de mayor capacidad para su transporte al lugar de disposición final. La estación de transferencia no podrá ser rehabilitada como sitios de disposición final, a excepción de casos de fuerza mayor.
 
 La estación de transferencia no podrá ser utilizada para actividades de aprovechamiento energético de biorresiduos, aun cuando la planta de aprovechamiento esté localizada en el mismo predio que aquella. Cuando exista complementariedad operativa entre ambas plantas, se podrán autorizar por la Secretaría como un único proyecto integrado.
+
+Para la instalación de una estación de transferencia de residuos de manejo especial, se considerará el tipo de residuo de manejo especial de que se trate, de conformidad con la clasificación prevista en el artículo 19 de la Ley General para la Prevención y Gestión Integral de los Residuos.
+
+Para la instalación de una estación de transferencia de residuos de manejo especial también se considerará la capacidad financiera del Poder Ejecutivo del Estado, en caso de incapacidad, la persona titular de dicho poder público promoverá a través de inversión privada la instalación de estaciones de transferencia de residuos de manejo especial.
 
 ###### Artículo 46.
 
@@ -1204,3 +1216,11 @@ GOBERNADOR DEL ESTADO
 AMADOR RODRÍGUEZ LOZANO
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 89 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULO 3, 43 Y 45 A LA LEY PARA LA PREVENCIÓN, GESTIÓN INTEGRAL Y ECONOMÍA CIRCULAR DE LOS RESIDUOS DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor a los 365 días posteriores a su publicación en el Periódico Oficial del Estado.
