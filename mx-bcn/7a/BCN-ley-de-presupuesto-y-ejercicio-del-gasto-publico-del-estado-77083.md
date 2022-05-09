@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-y-ejercicio-del-gasto-publico-del-estado-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2022-03-04"
+last_updated: "2022-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2022.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
@@ -821,7 +821,9 @@ c) Los pagos realizados a proveedores de bienes y servicios y aquellos en los qu
 
 d) Las relativas a gastos menores y a gastos diversos sujetos a comprobación, que podrán realizarse en efectivo siempre que se apeguen a la normatividad específica y que se realicen a través de fondos revolventes cuyos reembolsos se realicen mediante cheques nominativos o transferencias electrónicas a las cuentas individuales de los responsables de la administración de dichos fondos; y,
 
-e) Los pagos a personas físicas beneficiarias de programas de ayudas sociales, en cuyo caso los mismos deberán realizarse a través de cheque nominativo y con la leyenda "NO NEGOCIABLE".
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2022)</small>
+
+e) Los pagos a personas físicas beneficiarias de programas de ayudas sociales, en cuyo caso los mismos deberán realizarse a través de cheque nominativo y con la leyenda "NO NEGOCIABLE" o mediante operaciones electrónicas, de conformidad con las reglas de operación que para tales efectos emitan los sujetos de esta Ley en el ámbito de sus respectivas competencias.
 
 ###### ARTÍCULO 63.
 
@@ -1484,3 +1486,9 @@ P.O. 4 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 85 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 82 FRACCIÓN I, ÚLTIMO PÁRRAFO, DE LA LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California
+
+P.O. 9 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 97 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 62, INCISO E) DE LA LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California."
