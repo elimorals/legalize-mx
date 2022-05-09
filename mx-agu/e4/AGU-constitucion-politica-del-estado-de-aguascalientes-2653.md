@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2021-12-27"
+last_updated: "2022-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -47,11 +47,13 @@ Declaraciones.
 
 El Estado de Aguascalientes es parte integrante de los Estados Unidos Mexicanos; en consecuencia, acatará las disposiciones del Pacto Federal, siendo autónomo en su régimen interno.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2022)</small>
 
 ###### Artículo 2o.
 
-En el Estado de Aguascalientes, todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en el Derecho Internacional en materia de Derechos Humanos, en las leyes generales expedidas por el Congreso de la Unión, la presente Constitución y en las leyes locales, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la propia Constitución Federal establece.
+En el Estado de Aguascalientes el respeto a la dignidad humana es la base de los derechos humanos. Todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en el Derecho Internacional en materia de Derechos Humanos, en las leyes generales expedidas por el Congreso de la Unión, la presente Constitución y en las leyes locales, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la propia Constitución Federal establece.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
 
 Las normas relativas a los derechos humanos se interpretarán siempre de conformidad con la Constitución Política de los Estados Unidos Mexicanos, con los tratados internacionales de la materia y con la presente Constitución, favoreciendo en todo tiempo a las personas la protección más amplia.
 
@@ -72,6 +74,10 @@ Toda persona tiene derecho al reconocimiento de su personalidad jurídica. Ningu
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE MARZO DE 2021)</small>
 
 Toda persona tiene los deberes y las obligaciones correlativas a los derechos que esta Constitución y demás leyes les reconocen. Por ende, toda persona está llamada a contribuir al cumplimiento de las tareas comunitarias y de labor social, en la medida de sus capacidades y posibilidades, como el medio para el pleno desarrollo de su personalidad.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2022)</small>
+
+Queda prohibida toda discriminación motivada por el origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 > <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2021)</small>
 
@@ -743,9 +749,9 @@ XXXVI.- Expedir leyes que instituyan la justicia de lo contencioso - administrat
 
 XXXVII.- Elegir a los Comisionados del Instituto de Transparencia del Estado de Aguascalientes, mediante el voto de las dos terceras partes de los diputados presentes en el Pleno, previa convocatoria que emita la Junta de Coordinación Política a fin de realizar una amplia consulta a la sociedad para recibir propuestas de candidatos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2022)</small>
 
-XXXVIII.- Designar, por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los organismos con autonomía reconocida en ésta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado previa convocatoria que emita la Junta de Coordinación Política a fin de realizar una consulta a la sociedad para recibir propuestas de candidatos; y
+XXXVIII.- Designar, por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los organismos con autonomía reconocida en ésta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado previa convocatoria que emita la Junta de Coordinación Política a fin de realizar una consulta a la sociedad para recibir propuestas de candidatos, lo anterior con excepción del Titular del Órgano Interno de Control del Tribunal Electoral; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE DICIEMBRE DE 2018)</small>
 
@@ -3516,6 +3522,26 @@ P.O. 4 DE OCTUBRE DE 2021.
 P.O. 27 DE DICIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 23.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 71 Y SE ADICIONAN DOS ÚLTIMOS PÁRRAFOS AL ARTÍCULO 4 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES. (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL Y DECRETO)
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 9 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 85.- SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN SÉPTIMO PÁRRAFO AL ARTÍCULO 2° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES. (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL Y DECRETO)".]
+
+###### ARTÍCULO PRIMERO.
+
+Una vez cubiertos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el Artículo Primero del presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Artículo Segundo del presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 9 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 89.- SE REFORMA LA FRACCIÓN XXXVIII DEL ARTÍCULO 27 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTICULO ÚNICO.
 
