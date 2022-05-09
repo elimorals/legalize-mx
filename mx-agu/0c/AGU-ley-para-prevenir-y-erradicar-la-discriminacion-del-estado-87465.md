@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-prevenir-y-erradicar-la-discriminacion-del-estado-8746
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-23"
-last_updated: "2020-12-21"
+last_updated: "2022-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87465&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de abril de 2012.
 
@@ -57,11 +57,11 @@ Es obligación de los Poderes Ejecutivo, Legislativo y Judicial, Ayuntamientos y
 
 Esta Ley tiene por objetivo crear mecanismos para prevenir y erradicar cualquier tipo de discriminación en el Estado, en términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, los Tratados Internacionales de los que el Estado Mexicano es parte y de las leyes aplicables a la materia.
 
-> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2022)</small>
 
-###### ARTÍCULO 4°.
+###### ARTICULO 4°.
 
-En términos de esta Ley, queda prohibida en el Estado de Aguascalientes, toda forma de discriminación, entendiéndose como todo acto u omisión realizada por particulares, servidores públicos de los poderes ejecutivo, legislativo y judicial; ayuntamientos, organismos autónomos o cualquier entidad de los poderes públicos estatales o municipales que generen negación, exclusión, distinción, menoscabo, impedimento o restricción de los derechos fundamentales de las personas, minorías o grupos, con la intención o sin ella, por la acción u omisión, sin motivo o causa que sea racionalmente justificada, así como aquella basada en el origen étnico o social, la nacionalidad, características genéticas, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, opiniones, orientación sexual, género, estado civil, edad, apariencia física, ocupación o actividad, antecedentes penales o cualquier otra que atente contra la dignidad humana y tenga por efecto impedir, anular o menoscabar el reconocimiento, goce o ejercicio, de los derechos, libertades y la igualdad real de oportunidades de las personas.
+En términos de esta Ley queda prohibida en el Estado de Aguascalientes, toda forma de discriminación, entendida como toda distinción, exclusión, restricción o preferencia, que por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo.
 
 ###### ARTÍCULO 5º.
 
@@ -450,3 +450,15 @@ El Comité Coordinador de Integración Social y Productiva de las Personas con D
 ###### ARTÍCULO TERCERO.
 
 A más tardar, a los 365 días siguientes a la publicación del presente Decreto, se deberá brindar la atención especializada a personas con discapacidad en las instituciones obligadas, en caso de que no se cuente con esto se considerará una práctica discriminatoria de acuerdo a la Ley para Prevenir y Erradicar la Discriminación del Estado de Aguascalientes.
+
+P.O. 9 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 85 QUE REFORMA EL ARTÍCULO 4° DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+Una vez cubiertos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el Artículo Primero del presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Artículo Segundo del presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
