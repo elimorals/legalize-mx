@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-jge349-2016-de-la-junta-general-ejecutiva-del-12078
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-04-10"
-last_updated: "2019-09-06"
+last_updated: "2022-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120783&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2017-03-28"
 
 INE/JGE349/2016. ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA EL MANUAL DE ORGANIZACIÓN GENERAL DEL INSTITUTO NACIONAL ELECTORAL
 
-> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 6 DE SEPTIEMBRE DE 2019, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 9 DE MAYO DE 2022, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MAYO DE 2022.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 10 de abril de 2017.
 
@@ -80,3 +80,33 @@ CUARTO.- Se instruye a la Dirección Ejecutiva de Administración para que haga 
 QUINTO.- El Acuerdo INE/JGE349/2016 abrogó el Manual aprobado según Acuerdo JGE186/2013 de fecha 11 de diciembre de 2013, con excepción de los objetivos y funciones de Director de Área hasta Jefe de Departamento de las áreas adscritas a las unidades administrativas del Instituto Nacional Electoral, los cuales quedarán vigentes, en tanto no se emitan los Manuales de Organización específicos correspondientes.
 
 SEXTO.- Publíquese el presente Acuerdo, en el Diario Oficial de la Federación, en la NormaINE y en el portal de internet del Instituto Nacional Electoral, así como un extracto del mismo, con la liga electrónica para la ubicación del Anexo en el DOF.
+
+D.O.F. 9 DE MAYO DE 2022.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL " EXTRACTO DEL ACUERDO INE/JGE257/2021 DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL INSTITUTO NACIONAL ELECTORAL, APROBADO MEDIANTE ACUERDO INE/JGE349/2016", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDOS
+
+PRIMERO.- Se aprueba la actualización del Manual de Organización General del Instituto Nacional Electoral, aprobado mediante Acuerdo INE/JGE349/2016, el cual se anexa al presente Acuerdo y forma parte integrante del mismo, junto con su Dictamen Técnico.
+
+SEGUNDO.- El presente Manual entrará en vigor al día siguiente de su aprobación por la Junta General Ejecutiva.
+
+(...)
+
+QUINTO.- Publíquese el presente Acuerdo en la Gaceta Electoral, NormaINE y en el portal de internet del Instituto Nacional Electoral, así como un extracto del mismo, con la liga electrónica para la ubicación del Anexo en el Diario Oficial de la Federación.
+
+El presente Acuerdo fue aprobado en sesión ordinaria de la Junta General Ejecutiva celebrada el 13 de diciembre de 2021, por votación unánime, (...) El Consejero Presidente del Consejo General y Presidente de la Junta General Ejecutiva del Instituto Nacional Electoral, Dr. Lorenzo Córdova Vianello.- Rúbrica.- El Secretario Ejecutivo y Secretario de la Junta General Ejecutiva del Instituto Nacional Electoral, Lic. Edmundo Jacobo Molina. - Rúbrica.
+
+El acuerdo completo y sus anexos que forman parte del mismo se encuentran disponibles para su consulta en las siguientes direcciones electrónicas:
+
+DOF: www.dof.gob.mx/2022/INE/JGEord202112_13_ap_5_1.pdf
+
+INE Acuerdo:
+
+https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/126276/JGEor202112-13-ap-5-1.pdf?sequence=1&isAllowed=y
+
+Manual General de Organización del Instituto Nacional Electoral
+
+https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/126276/JGEor202112-13-ap-5-1-Manual.pdf?sequence=3&isAllowed=y
+
+Ciudad de México, a 22 de enero de 2022.- Directora Ejecutiva de Administración, Ana Laura Martínez de Lara.- Rúbrica.
