@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-asistencia-social-y-de-17254"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-10"
-last_updated: "2021-08-02"
+last_updated: "2022-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2000.
 
@@ -93,7 +93,9 @@ VII.- Personas con discapacidad por causa de ceguera, debilidad visual, sordera,
 
 VIII.- Personas Adultas Mayores, con incapacidad, marginados, sujetos a maltrato o que tengan bajo su custodia a menores de 18 años;
 
-IX.- Indigentes;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2022)</small>
+
+IX.- Personas en situación de calle;
 
 X.- Personas que por su extrema ignorancia requieran de servicios asistenciales;
 
@@ -1776,3 +1778,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Ejecutivo en el Estado deberá emitir en un término no mayor a ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, los lineamientos que tengan por objeto la implementación de políticas que favorezcan y garanticen herramientas para la crianza positiva en el hogar y en los entornos de desarrollo de las niñas, niños y adolescentes.
+
+P.O. 9 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 120.- SE REFORMA EL INCISO K) DE LA FRACCIÓN IV DEL APARTADO A DEL ARTÍCULO 28 Y EL ARTÍCULO 269 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES, Y SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 4o DE LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
