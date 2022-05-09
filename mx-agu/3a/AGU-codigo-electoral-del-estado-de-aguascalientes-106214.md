@@ -4,7 +4,7 @@ identifier: "AGU-codigo-electoral-del-estado-de-aguascalientes-106214"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-03-02"
-last_updated: "2020-07-09"
+last_updated: "2022-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "AGU"
 
 CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 9 DE JULIO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2022.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de marzo de 2015.
 
@@ -5705,13 +5703,13 @@ La integración del Tribunal; elección, requisitos y remociones de los magistra
 
 El Tribunal se integrará por tres magistrados propietarios. El Magistrado Presidente será designado por votación mayoritaria de los magistrados del propio Tribunal, durará en ese encargo dos años y no podrá ser reelecto en el periodo inmediato siguiente.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2022)</small>
 
-El Tribunal contará con una Contraloría Interna, como su Órgano Interno de Control, la cual tendrá el carácter de órgano auxiliar, y no podrá encontrarse administrativamente adscrita a una área, unidad administrativa o servidor público alguno de la estructura jurisdiccional y administrativa; así como será la encargada de vigilar el cumplimiento de las disposiciones legales y reglamentarias en materia de responsabilidades administrativas, a través de la realización de auditorías y revisiones.
+El Tribunal contará con una Contraloría Interna, como su Órgano Interno de Control, la cual tendrá el carácter de órgano auxiliar, y no podrá encontrarse administrativamente adscrita a ninguna área, unidad administrativa, y/o servidor público alguno de la estructura jurisdiccional y administrativa; así como será la encargada de vigilar el cumplimiento de las disposiciones legales y reglamentarias en materia de responsabilidades administrativas, a través de la realización de auditorías y revisiones.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2022)</small>
 
-El Contralor Interno del Tribunal será designado por el Congreso del Estado, conforme a lo previsto en el artículo 27 fracción XXXVIII de la Constitución, y durará en su encargo 4 años. Para su elección deberá reunir los mismos requisitos que el presente Código le establece al Contralor Interno del Instituto Estatal Electoral; y las facultades del titular y del personal de la Contraloría Interna del Tribunal estarán previstas en el Reglamento Interior del Tribunal.
+El Contralor Interno del Tribunal será designado por mayoría de votos del Pleno del Tribunal, y durará en su encargo 4 años. Para su elección deberá reunir los mismos requisitos que el presente Código le establece al Contralor Interno del Instituto Estatal Electoral; y las facultades del titular y del personal de la Contraloría Interna del Tribunal estarán previstas en el Reglamento Interior del Tribunal.
 
 > <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 13 DE MAYO DE 2019)</small>
 
@@ -5749,9 +5747,9 @@ II. Conceder licencias a los Magistrados hasta por tres meses existiendo causa j
 
 III. Establecer las reglas para la distribución de los asuntos entre los Magistrados;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2022)</small>
 
-IV. Nombrar al Secretario General de Acuerdos, a los Secretarios de Estudio, Actuarios y al personal administrativo del Tribunal; con excepción del Titular de la Contraloría Interna del Tribunal, mismo que será nombrado y removido por el Congreso del Estado;
+IV. Nombrar al Secretario General de Acuerdos, al Contralor Interno, a los Secretarios de Estudio, Actuarios y al personal administrativo del Tribunal;
 
 V. Aprobar el proyecto del Presupuesto de Egresos del Tribunal, que deberá elaborar el Presidente del Tribunal;
 
@@ -6572,3 +6570,11 @@ SEGUNDO.- El Instituto Estatal Electoral deberá expedir un formato para la reco
 TERCERO.- Para efectos del Artículo 74 párrafo tercero del Código Electoral que se reforma por el presente Decreto, el Proceso Electoral Local correspondiente a las elecciones a celebrarse en el año 2021, el Consejo declarará por única ocasión el inicio del Proceso electoral en la primera semana del mes de noviembre de 2020.
 
 CUARTO.- Los procesos y asuntos que se encuentren en trámite por el Instituto o el Tribunal a la entrada en vigor del presente decreto, deberán resolverse conforme a la legislación vigente al momento de su inicio.
+
+P.O. 9 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 89.- SE REFORMA LA FRACCIÓN XXXVIII DEL ARTÍCULO 27 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES. (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL Y DECRETO)”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
