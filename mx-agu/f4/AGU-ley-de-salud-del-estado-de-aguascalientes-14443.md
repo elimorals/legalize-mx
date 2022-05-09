@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2021-06-29"
+last_updated: "2022-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2022.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -501,9 +501,9 @@ i).- La educación para la salud;
 
 j).- La orientación y vigilancia en materia de nutrición, dando mayor importancia a los programas de nutrición destinados a los niños y niñas;
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2022)</small>
 
-k).- La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre, poniendo especial atención a los riesgos que produce la exposición a la radiación ultravioleta y otras similares;
+k).- La prevención y el control de los efectos nocivos de los factores ambientales en la salud de la persona, poniendo especial atención a los riesgos que produce la exposición a la radiación ultravioleta y otras similares;
 
 l).- La salud ocupacional y el saneamiento básico;
 
@@ -3277,11 +3277,11 @@ II.- En caso de epidemia grave, y
 
 III.- Si existiere peligro de invasión de dichos padecimientos en el Estado.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 269.
 
-Los gobiernos del Estado o de los municipios podrán ordenar o proceder a la vacunación de animales que puedan constituirse en transmisores de enfermedades al hombre o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
+Los gobiernos del Estado o de los municipios podrán ordenar o proceder a la vacunación de animales que puedan constituirse en transmisores de enfermedades al ser humano o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
 
 ###### ARTICULO 270.
 
@@ -4169,33 +4169,13 @@ P.O. 29 DE JUNIO DE 2021.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 6/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL SEXTO TRIBUNAL UNITARIO DEL QUINTO CIRCUITO, CON RESIDENCIA EN HERMOSILLO, SONORA; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS DEL CIRCUITO Y SEDE INDICADOS”.]
+P.O. 9 DE MAYO DE 2022.
 
-PRIMERO. El presente Acuerdo entrará en vigor el uno de agosto de dos mil diecisiete, con excepción de lo previsto en el transitorio TERCERO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 120.- SE REFORMA EL INCISO K) DE LA FRACCIÓN IV DEL APARTADO A DEL ARTÍCULO 28 Y EL ARTÍCULO 269 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES, Y SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 4o DE LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR”.]
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+###### ARTÍCULO ÚNICO.
 
-TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
-
-CUARTO. El Instituto Federal de Defensoría Pública, en su ámbito de competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
-
-QUINTO. Se reforma el numeral SEGUNDO, fracción V, número 2, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-“SEGUNDO. ...
-
-I. a IV. ...
-
-V. ...
-
-1. ...
-
-2. Seis tribunales unitarios con sede en Hermosillo.
-
-3. ...
-
-VI. a XXXII. ...”
-
-D.O.F. 20 DE JULIO DE 2017.
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 7/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES PARA ESTABLECER LA ADSCRIPCIÓN DE LOS JUECES DE DISTRITO CON COMPETENCIA EN EJECUCIÓN, EN LOS CENTROS DE JUSTICIA PENAL FEDERAL.”]
 
