@@ -4,7 +4,7 @@ identifier: "LDPAM"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-25"
-last_updated: "2022-03-30"
+last_updated: "2022-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25062&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDPAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 25 de junio de 2002.
 
@@ -247,6 +247,10 @@ a. A tener una atención preferente en los establecimientos públicos y privados
 b. Los servicios y establecimientos de uso público deberán implementar medidas para facilitar el uso y/o acceso adecuado.
 
 c. A contar con asientos preferentes en los establecimientos que prestan servicios al público y en los servicios de autotransporte de pasajeros.
+
+> <small>(ADICIONADA, D.O.F. 10 DE MAYO DE 2022)</small>
+
+X. De la información, plural, oportuna y accesible, la cual será garantizada por el Estado.
 
 ## TÍTULO TERCERO. DE LOS DEBERES DEL ESTADO, LA SOCIEDAD Y LA FAMILIA
 
@@ -1081,3 +1085,9 @@ D.O.F. 30 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD, DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES Y DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN X AL ARTÍCULO 5o. DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
