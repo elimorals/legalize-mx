@@ -4,7 +4,7 @@ identifier: "LPERC"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "2022-03-29"
+last_updated: "2022-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPERC"
 
 LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 1975.
 
@@ -78,9 +78,9 @@ I.- Condecoración Miguel Hidalgo;
 
 II.- Orden Mexicana del Aguila Azteca;
 
-> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2022)</small>
 
-II Bis.- De Ciencias;
+II Bis.- De Ciencias, "José Mario Molina Pasquel y Henríquez";
 
 > <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -124,9 +124,9 @@ XIII (sic).- De Trabajo y Cultura Indígena;
 
 XIV.- De Derechos Humanos;
 
-> <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2022)</small>
 
-XV.- De Preservación del Medio Ambiente;
+XV.- Al Mérito Ecológico;
 
 > <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2004)</small>
 
@@ -432,17 +432,21 @@ En casos especiales, a juicio del Consejo, podrá conferirse la Orden Mexicana d
 
 A los diplomáticos extranjeros acreditados en México, sólo se les otorgará la Orden al término de su misión, siempre que hayan permanecido en el país dos años continuos como mínimo. El Consejo otorgará la Condecoración con base en la valoración de la labor desempeñada en el país.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE MAYO DE 2022)</small>
 
-### CAPITULO VII. Premio Nacional de Ciencias
+### CAPITULO VII. Premio Nacional de Ciencias, "José Mario Molina Pasquel y Henríquez"
 
-> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 44.
 
-Habrá Premio Nacional de Ciencias en cada uno de los siguientes campos:
+Habrá Premio Nacional de Ciencias, "José Mario Molina Pasquel y Henríquez" en cada uno de los siguientes campos:
+
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
 I. Ciencias Físico-Matemáticas y Naturales, y
+
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
 II. Tecnología, Innovación y Diseño.
 
@@ -452,11 +456,11 @@ II. Tecnología, Innovación y Diseño.
 
 Merecerán estos premios quienes, por sus producciones o trabajos docentes de investigación o de divulgación, hayan contribuido al progreso de la ciencia, de la tecnología y de la innovación.
 
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2022)</small>
+
 ###### ARTICULO 46.
 
-El premio se tramitará en la Secretaría de Educación Pública, cuyo titular presidirá el Consejo de Premiación. Este se integrará, además, con el Rector de la Universidad Nacional Autónoma de México, el de la Universidad Autónoma Metropolitana, los Directores Generales del Instituto Politécnico Nacional y del Consejo Nacional de Ciencia y Tecnología y por sendos representantes de la Asociación Nacional de Universidades e Institutos de Enseñanza Superior y del Colegio Nacional.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+El premio se tramitará en la Secretaría de Educación Pública, cuyo titular presidirá el Consejo de Premiación. Este se integrará, además, con el Rector de la Universidad Nacional Autónoma de México, el de la Universidad Autónoma Metropolitana, los Directores Generales del Instituto Politécnico Nacional y del Consejo Nacional de Ciencia y Tecnología y por sendos representantes de la Asociación Nacional de Universidades e Institutos de Enseñanza Superior y del Colegio Nacional y por los presidentes de las comisiones de Ciencia y Tecnología de las Cámaras del Congreso de la Unión.
 
 ###### ARTICULO 47.
 
@@ -479,6 +483,10 @@ El Consejo integrará un Jurado por cada campo de premiación. A tal fin dará p
 ###### ARTICULO 51.
 
 La convocatoria fijará plazos dentro de los cuales las instituciones y agrupaciones incluidas en la lista que prevé el artículo 49, podrán ampliar informaciones ante el Consejo.
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 2022)</small>
+
+El premio se entregará el 7 de octubre de cada año.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1112,21 +1120,37 @@ Para tal efecto, el Premio se tramitará ante el organismo federal protector de 
 
 En casos excepcionales y cuando las circunstancias así lo ameriten, el Premio Nacional de Derechos Humanos podrá ser otorgado post mortem, para honrar la memoria de defensores de los derechos humanos que hayan luchado por la vigencia efectiva de las garantías consignadas en la Constitución Política de los Estados Unidos Mexicanos, así como lo establecido en las convenciones internacionales suscritas por el Gobierno de la República en materia de derechos humanos.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE MAYO DE 2022)</small>
 
-### CAPITULO XX. Premio Nacional de Preservación del Medio Ambiente
+### CAPITULO XX. Premio al Mérito Ecológico
 
-> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 113.
 
-El Premio Nacional de Preservación del Medio Ambiente es el reconocimiento que el gobierno federal otorga a las personas, agrupaciones y comunidades, que se han destacado por su trabajo, empeño y dedicación en favor de la defensa, conservación y preservación del medio ambiente, así como del uso racional de los recursos naturales y de las acciones tendientes al desarrollo sustentable. El Premio Nacional de Preservación del Medio Ambiente consistirá en diploma, medalla y numerario.
+El Premio al Mérito Ecológico, es el reconocimiento nacional que el gobierno federal otorga a las personas, instituciones, organizaciones públicas y privadas y comunidades, que han realizado acciones, proyectos y/o programas ambientales trascendentes que contribuyen a la sustentabilidad en nuestro país. El Premio al Mérito Ecológico consistirá en un diploma, medalla y podrá adicionarse un numerario.
 
-> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 114.
 
-El Premio Nacional de Preservación del Medio Ambiente se entregará en las siguientes categorías:
+El Premio al Mérito Ecológico, se entregará en las siguientes categorías:
+
+I.- Comunitaria;
+
+II.- Cultura y Comunicación Ambiental;
+
+III.- Educación Ambiental Formal;
+
+IV.- Educación Ambiental No Formal;
+
+V.- Individual, y
+
+VI.- Investigador.
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 2022)</small>
+
+ARTICULO 114 BIS.- Cada categoría del Premio al Mérito Ecológico podrá referirse a cualquiera de los siguientes temas:
 
 I.- Preservación y Calidad del Aire;
 
@@ -1136,23 +1160,19 @@ III.- Conservación y Uso del Suelo;
 
 IV.- Biodiversidad;
 
-V.- (DEROGADA, D.O.F. 12 DE ENERO DE 2006)
+V.- Preservación;
 
-VI.- (DEROGADA, D.O.F. 12 DE ENERO DE 2006)
+VI.- Desarrollo Sustentable, y
 
-VII.- Preservación;
+VII.- Reuso, Reutilización y Reciclaje.
 
-VIII.- Desarrollo Sustentable, y
-
-IX.- Reuso, Reutilización y Reciclaje.
-
-> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 115.
 
-Para la entrega del Premio Nacional de Preservación del Medio Ambiente, el Consejo de Premiación se integrará con un representante de la Secretaría de Medio Ambiente y Recursos Naturales, quien lo presidirá, un representante de la Secretaría de Educación Pública, un representante de la Secretaría de Economía, un representante de cada una de las Cámaras del Congreso de la Unión, que sean integrantes de las Comisiones competentes, un representante de la Comisión Nacional del Agua, un representante de la Procuraduría Federal de Protección al Ambiente y un representante del Instituto Nacional de Ecología, que realizará la función de Secretario Técnico del Consejo de Premiación.
+Para la entrega del Premio al Mérito Ecológico, el Consejo de Premiación se integrará por nueve miembros integrados por las personas titulares de la Secretaría de Medio Ambiente y Recursos Naturales, quien lo presidirá, un representante de cada una de las Cámaras del Congreso de la Unión, que sean integrantes de las Comisiones competentes, del Instituto Nacional de Ecología y Cambio Climático y de la Comisión Nacional del Agua y reconocidos representantes de cada una de las categorías que integran el Premio.
 
-La convocatoria para el otorgamiento de este premio, podrá considerar la participación de sociedades mercantiles o cooperativas, pero en ese caso el Premio no consistirá en numerario, sino que únicamente se integrará por la medalla y el diploma que acredite que le fue concedido el reconocimiento a que se hicieron merecedoras.
+El Premio al Mérito Ecológico será entregado de forma anual y preferentemente en la celebración del Día Mundial del Medio Ambiente.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE JUNIO DE 2004)</small>
 
@@ -1519,3 +1539,13 @@ D.O.F. 29 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 72 DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los trámites para la entrega del Premio al Mérito Ecológico, del Premio Nacional de Preservación del Medio Ambiente y del Premio Nacional de Ciencias que se hayan iniciado antes de la entrada en vigor del presente Decreto continuarán su trámite conforme a las disposiciones jurídicas vigentes correspondientes al año que se curse.
+
+Tercero.- Quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general contrarias a este Decreto, en consecuencia, las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado a los ejecutores de gasto responsables, por lo que no se requerirán recursos adicionales y no se incrementará el presupuesto de éstas para el presente ejercicio fiscal ni posteriores.
