@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2021-12-09"
+last_updated: "2022-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -581,13 +581,17 @@ XV. Proponer al Consejo el proyecto de Reglamento Interno de la Comisión;
 
 XVI. Promover y fortalecer las relaciones de la Comisión con instituciones públicas o privadas, organizaciones civiles o sociales, en todos los órdenes de gobierno dentro (sic) nacional y a nivel internacional;
 
-> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2022)</small>
 
-XVII. Asistir a las sesiones solemnes de los ayuntamientos en la que los jefes de las coordinaciones municipales de los Derechos Humanos, rindan informe de actividades o, en su caso, asignar al funcionario de la Comisión que lo represente en dicho acto, y
+XVII. Asistir a las sesiones solemnes de los ayuntamientos en la que los jefes de las coordinaciones municipales de los Derechos Humanos, rindan informe de actividades o, en su caso, asignar al funcionario de la Comisión que lo represente en dicho acto;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2022)</small>
+
+XVIII. Recibir, en su caso, las renuncias voluntarias de las y los integrantes del Consejo, y remitirlas al Congreso del Estado para los efectos conducentes, y
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2014)</small>
 
-XVIII. Las demás que se deriven de las anteriores; las que sean necesarias para la consecución de los fines de la Comisión; y las que le otorgue la presente Ley y otros ordenamientos.
+XIX. Las demás que se deriven de las anteriores; las que sean necesarias para la consecución de los fines de la Comisión; y las que le otorgue la presente Ley y otros ordenamientos.
 
 ###### ARTICULO 34.
 
@@ -631,9 +635,11 @@ Sin perjuicio de otras responsabilidades en que incurra, ni de la aplicación de
 
 El Consejo está compuesto por ciudadanas y ciudadanos, siendo el representante de la sociedad civil, que discute, guía, decide y supervisa las políticas públicas en materia de Derechos Humanos. Las resoluciones del Consejo se tomarán por el voto del cincuenta por ciento más uno de los consejeros presentes, salvo las excepciones que establece esta Ley, y aquéllas que establezca el propio órgano colegiado en sus lineamientos.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2022)</small>
+
 ###### ARTICULO 40.
 
-El Consejo estará compuesto por nueve ciudadanas y ciudadanos consejeros y la persona titular de la Presidencia, que serán designadas por el Congreso del Estado. Todos los integrantes del Consejo tendrán derecho a voz y voto en los asuntos que se traten en las sesiones respectivas. La persona que presida la Comisión también presidirá el Consejo y tendrá el voto de calidad.
+El Consejo estará compuesto por diez personas ciudadanas consejeras y la persona titular de la Presidencia, quienes serán designadas y removidas por el Congreso del Estado. Todos los integrantes del Consejo tendrán derecho a voz y voto en los asuntos que se traten en las sesiones respectivas. La persona que presida la Comisión también presidirá el Consejo y tendrá el voto de calidad.
 
 ###### ARTICULO 41.
 
@@ -707,17 +713,23 @@ Las y los consejeros suplentes pueden solicitar a la Presidencia toda la informa
 
 Las mismas reglas aplicadas para seleccionar a las y los consejeros titulares, se usarán para designar a quienes sean suplentes.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2022)</small>
+
 ###### ARTICULO 47.
 
-Todas las y los consejeros serán designadas por el Congreso del Estado y durarán cuatro años en su cargo. Las personas Consejeras serán electas en el mismo procedimiento de elección y designación de la persona titular de la Presidencia.
+Las y los integrantes del Consejo serán designadas por el Congreso del Estado, durarán cuatro años en su cargo, y podrán ser reelectos por única ocasión para un segundo período de cuatro años, y podrán ser removidos por el Congreso del Estado por el incumplimiento de cualquiera de las obligaciones, funciones o responsabilidades que la Ley les atribuya, así como por la realización de cualquier acto que constituya una violación a derechos humanos o cualquier otro acto que resulte contrario al objeto de la Comisión.
+
+Las personas Consejeras serán electas en el mismo procedimiento de elección y designación de la persona titular de la Presidencia.
 
 ###### ARTICULO 48.
 
-Las y los Consejeros podrán ser reelectos por única ocasión para un segundo período de cuatro años.
+(DEROGADO, P.O. 10 DE MAYO DE 2022)
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 49.
 
-El cargo de las y los consejeros es gratuito. La Comisión dotará a las y los consejeros que no radiquen en la Capital del Estado, de los apoyos económicos necesarios para su traslado y estancia en la misma cuando se les cite a las sesiones del Consejo y, en general, los apoyos económicos necesarios para el cumplimiento de sus funciones.
+El cargo de Consejera y Consejero es renunciable, y honorífico por lo que no recibirán retribución alguna por su ejercicio. La Comisión dotará a las y los integrantes del Consejo que no radiquen en la Capital del Estado, de los apoyos económicos necesarios para su traslado y estancia en la misma cuando se les cite a las sesiones del Consejo y, en general, los apoyos económicos necesarios para el cumplimiento de sus funciones.
 
 ###### ARTICULO 50.
 
@@ -1944,5 +1956,13 @@ P.O. 9 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0140.- SE REFORMA EL ARTÍCULO 16 EN SUS FRACCIONES VI, VIII Y IX; Y ADICIONA AL MISMO ARTÍCULO 16 LA FRACCIÓN X DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0311.- SE REFORMAN LOS ARTÍCULOS 33, EN SU FRACCIÓN XVII, 40, 47 Y 49; ADICIONA AL ARTÍCULO 33 UNA FRACCIÓN; Y DEROGA EL ARTÍCULO 48, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
