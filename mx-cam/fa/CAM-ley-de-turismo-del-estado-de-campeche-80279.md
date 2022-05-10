@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-turismo-del-estado-de-campeche-80279"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-04"
-last_updated: "2021-07-12"
+last_updated: "2022-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE TURISMO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 4 de marzo de 2011.
 
@@ -127,7 +127,9 @@ VIII. Ley General: Ley General de Turismo.
 
 IX. Ordenamiento Turístico del Territorio Estatal: Es el instrumento de la política turística bajo el enfoque social, ambiental y territorial, cuya finalidad es conocer e inducir el uso de suelo y las actividades productivas con el propósito de lograr el aprovechamiento ordenado y sustentable de los recursos turísticos, de conformidad con las disposiciones jurídicas aplicables en materia de medio ambiente y asentamientos humanos.
 
-X. Prestadores de Servicios Turísticos: Las personas físicas o morales que habitualmente proporcionen o contraten con el Turista, la prestación de servicios a que se refiere esta Ley y su Reglamento.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2022)</small>
+
+X. Prestadores de Servicios Turísticos: Las personas físicas o morales que habitualmente proporcionen o contraten con el Turista, la prestación de servicios a que se refiere esta Ley y su Reglamento, incluyendo los ofertados por medio de plataformas digitales, aplicaciones o cualquier otro medio tecnológico similar.
 
 XI. Programa: Programa Sectorial de Turismo Federal.
 
@@ -153,7 +155,9 @@ Las definiciones no contenidas en este apartado, serán descritas en el Reglamen
 
 Se consideran servicios turísticos, entre otros, los prestados a través de:
 
-I. Hoteles, moteles, albergues y demás establecimientos de hospedaje, así como campamentos y paradores de casas rodantes que presten servicios a Turistas.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2022)</small>
+
+I. Hoteles, moteles, albergues, casas, departamentos y demás establecimientos de hospedaje, así como campamentos y paradores de casas rodantes que presten servicios a Turistas, incluyendo los ofertados por medio de plataformas digitales, aplicaciones o cualquier otro medio tecnológico similar.
 
 II. Agencias, operadores, comisionistas y mayoristas de viajes, asesores e intermediarios en la reservación y contratación de servicios turísticos.
 
@@ -948,3 +952,11 @@ PRIMERO.- El presente decreto entrará en vigor a treinta días después de su p
 SEGUNDO.- La Secretaría de Turismo de la Administración Pública Estatal, elaborará el Atlas Turístico del Estado y tomará las previsiones presupuestales necesarias para ese propósito.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto
+
+P.O. 10 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 60 POR EL QUE “SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 5 Y LA FRACCIÓN I DEL ARTÍCULO 6 DE LA LEY DE TURISMO DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
