@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-proteccion-y-bienestar-de-los-animales-del-142226"
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-27"
-last_updated: "2022-04-08"
+last_updated: "2022-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "CAM"
 ---
 # LEY PARA LA PROTECCION Y BIENESTAR DE LOS ANIMALES DEL ESTADO DE CAMPECHE
 
-[NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL 1° DE ENERO DE 2019, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL.]
-
-[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2022.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Campeche, el jueves 27 de septiembre de 2018.
 
@@ -141,7 +139,13 @@ b) Adiestramiento, entrenamiento y demás prácticas y manejo relacionados con e
 
 VIII. Velar por el bienestar de los animales depositados en albergues o refugios; y
 
-IX. Las demás que le confieran otras disposiciones legales y reglamentarias aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MAYO DE 2022)</small>
+
+IX. Procurar, en coordinación con cada uno de los Municipios del Estado, la Instalación de los Centros de Bienestar Animal; para tal efecto se podrá generar convenios con entidades públicas o privadas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MAYO DE 2022)</small>
+
+X. Las demás que le confieran otras disposiciones legales y reglamentarias aplicables.
 
 ###### ARTÍCULO 5°.
 
@@ -559,6 +563,88 @@ La Procuraduría y la autoridad municipal, mediante los convenios de coordinaci�
 
 En aquellos casos en que como resultado del ejercicio de sus atribuciones la Procuraduría o la autoridad municipal tengan conocimiento de actos u omisiones que pudiesen constituir delitos en materia ambiental, formularán ante el Ministerio Público denuncia por escrito conforme a los términos y condiciones previstos en esta legislación.
 
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2022)</small>
+
+ARTÍCULO 62 BIS.- Las visitas de inspección podrán ser ordinarias y extraordinarias, las cuales se determinarán con arreglo a lo dispuesto por la Ley de Procedimiento Administrativo para el Estado y los Municipios de Campeche.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2022)</small>
+
+ARTÍCULO 62 TER.- El personal autorizado como inspector para realizar las visitas de inspección, deberá contar con el documento oficial que lo acredite como tal, así como estar previsto de orden escrita debidamente fundada y motivada, con firma autógrafa expedida por la autoridad competente, en la que se precisará el lugar o las zonas que habrán de inspeccionarse, el objeto de la visita, el alcance que deba tener y el personal técnico o de apoyo, en su caso, que estará involucrado.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2022)</small>
+
+ARTÍCULO 62 QUATER.- Al iniciar la visita de inspección, la o el inspector se identificará debidamente con la persona con quien se entienda la diligencia, exhibiéndole para tal efecto identificación vigente con fotografía expedida por la autoridad competente, la orden respectiva, entregándole copia de la misma con firma autógrafa y requiriéndole que en el acto designe dos testigos, los cuales deberán estar presentes durante todo el desarrollo de la visita de inspección. Si la persona con la que se entiende la diligencia no designa testigos, o bien éstos no aceptan su nombramiento, el personal acreditado como inspector podrá nombrarlos. En el caso de que no fuera posible encontrar en el lugar de la visita persona alguna que pudiera ser designada como testigo, el personal actuante deberá asentar estas circunstancias en el acta correspondiente, sin que por esto afecte su validez.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2022)</small>
+
+ARTÍCULO 62 QUINQUIES.- Las y los propietarios, responsables, funcionarios, empleados encargados u ocupantes del establecimiento, lugar o zona objeto de verificación o la persona con quien se atienda la diligencia, están obligados a permitir el acceso y dar facilidades a las y los inspectores, así como proporcionar toda clase de información al personal acreditado como inspector para el desarrollo de la diligencia, con excepción de lo relativo a derechos de propiedad industrial o de patentes que sean confidenciales conforme a la Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2022)</small>
+
+ARTÍCULO 62 SEXIES.- La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguien obstaculice o se oponga a la práctica de la diligencia, independientemente de las acciones legales a que haya lugar.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2022)</small>
+
+ARTÍCULO 62 SEPTIES.- En toda visita de inspección se levantará acta circunstanciada en la que se hará constar de forma detallada los hechos u omisiones que se hayan detectado durante la diligencia, así como las medidas de seguridad que en su caso se hubiesen adoptado para salvaguardar la integridad física o vida del animal.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2022)</small>
+
+ARTÍCULO 62 OCTIES.- Queda estrictamente prohibido nombrar como depositario de los animales asegurados a la o el propietario, poseedor o encargado de los animales que se encuentren en situación de maltrato.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2022)</small>
+
+ARTÍCULO 62 NONIES.- Con base en los resultados que arroje la visita de inspección, la o el inspector estará facultado para que, en caso de que advierta la existencia de algún caso de maltrato o crueldad que ponga en riesgo la integridad física o la vida de los animales, dicte en ese mismo acto y asiente en el acta las medidas correctivas de inmediata aplicación, señale las medidas de seguridad que correspondan y emplace a la o el infractor para llevar a cabo el procedimiento administrativo respectivo. Una vez concluidas las diligencias, y con base en los resultados que arroje la visita de inspección, la autoridad competente, advirtiendo algún caso de maltrato o crueldad, fundada y motivadamente, procederá a la aplicación de las medidas de seguridad que correspondan y a fincar las sanciones administrativas correspondientes, conforme a lo dispuesto en la presente Ley. Concluida la inspección, se dará oportunidad a la persona con la que se entendió la diligencia para que en el mismo acto formule observaciones en relación con los hechos u omisiones asentadas en el acta respectiva.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2022)</small>
+
+ARTÍCULO 62 DECIES.- La persona con quien se entendió la diligencia, las y los testigos si los hubiera y el personal responsable de la inspección deberán firmarán (sic) el acta correspondiente. Si la persona con quien se entendió la diligencia o las y los testigos se negaren a firmar el acta, o el interesado se negara a aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte la validez de la diligencia. De toda acta se dejará copia a la persona con quien se entendió la diligencia.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2022)</small>
+
+ARTÍCULO 62 UNDECIES.- En las actas de inspección se hará constar lo siguiente:
+
+I. Nombre completo, denominación o razón social de a quien se le realiza la visita;
+
+II. Hora, día, mes y año en que inicie y concluya la diligencia;
+
+III. Calle, número, población o colonia, teléfono u otra forma de comunicación disponible, Municipio y código postal del lugar en que se practique la visita;
+
+IV. Número y fecha de la orden que motivó la visita;
+
+V. Nombre e identificación del personal acreditado como inspector que realizó la diligencia;
+
+VI. Nombre y calidad o cargo de la persona con quien se entendió la diligencia;
+
+VII. Nombre y domicilio de las personas que fungieron como testigos;
+
+VIII. Datos relativos a los hechos u omisiones observados durante la actuación;
+
+IX. Anexar todo tipo de evidencia a la que se allegue la o el inspector para documentar el motivo de la visita, las cuales son enunciativas mas no limitativas como videos, fotografías y grabaciones de audio;
+
+X. Referencia a si se aplicaron medidas correctivas de inmediata aplicación y medidas de seguridad para salvaguardar la integridad física, incluyendo el decomiso de los animales incautados;
+
+XI. Declaración de la o el visitado, si quisiera hacerla;
+
+XII. Señalar las infracciones que se actualizaron derivado de la inspección, de conformidad con lo establecido por la ley; y
+
+XIII. Nombre, huella o firma y datos de la identificación de quienes intervinieron en la diligencia y así quisieran hacerlo.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2022)</small>
+
+ARTÍCULO 62 DUODECIES.- Con base en los resultados que arroje la visita de inspección, la autoridad competente emplazará, mediante notificación personal a la o el presunto infractor o a su representante legal debidamente acreditado, para que adopte de inmediato las medidas correctivas o de urgente aplicación, necesarias para cumplir con las disposiciones jurídicas aplicables, para que en el término de 5 días hábiles, contados a partir de la fecha de la notificación, exprese lo que a sus intereses convenga y, en su caso, ofrezca las pruebas con relación a los hechos contenidos en el acta de inspección.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2022)</small>
+
+ARTÍCULO 62 TERDECIES.- Admitidas y desahogadas las pruebas ofrecidas por la o el interesado, o habiendo transcurrido el plazo a que se refiere el artículo anterior, sin que haya hecho uso de ese derecho, se pondrán a su disposición las actuaciones para que, en un plazo de 3 días hábiles, presente por escrito sus alegatos.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2022)</small>
+
+ARTÍCULO 62 QUATERDECIES.- Recibidos los alegatos o transcurrido el término para presentarlos, la autoridad correspondiente procederá a dictar, fundada y motivadamente, la resolución administrativa que corresponda, dentro de los siguientes 10 días hábiles, misma que se notificará a la o el interesado personalmente. En la resolución administrativa correspondiente se señalarán las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado a la o el infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor conforme a esta Ley y sus reglamentos.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2022)</small>
+
+ARTÍCULO 62 QUINDECIES.- Dentro de los 5 días hábiles que sigan al vencimiento del plazo otorgado a la o el infractor para subsanar las deficiencias o irregularidades observadas, éste deberá comunicar por escrito y en forma detallada acompañando las pruebas respectivas a la autoridad, haber dado cumplimiento a las medidas ordenadas en los términos del requerimiento respectivo.
+
 ### CAPÍTULO XIV. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### ARTÍCULO 63.
@@ -754,3 +840,11 @@ P.O. 8 DE ABRIL DE 2022.
 Primero.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 10 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 61 POR EL QUE "SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 4°, Y SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 4; LOS ARTÍCULOS 62 BIS, 62 TER, 62 QUATER, 62 QUINQUIES, 62 SEXIES, 62 SEPTIES, 62 OCTIES, 62 NONIES, 62 DECIES, 62 UNDECIES, 62 DUODECIES, 62 TERDECIES, 62 QUATERDECIES Y 62 QUINDECIES DE LA LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
