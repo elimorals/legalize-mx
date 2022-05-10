@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-atencion-a-victimas-para-el-estado-de-san-luis-potosi-12
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-28"
-last_updated: "2021-09-13"
+last_updated: "2022-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 28 de julio de 2017.
 
@@ -1079,9 +1079,15 @@ El Reglamento establecerá el mecanismo de invitación correspondiente. Los invi
 
 ### CAPÍTULO III. DE LA ESTRUCTURA OPERATIVA DEL SISTEMA DE ATENCIÓN A VÍCTIMAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO 84.
 
-La Comisión Ejecutiva Estatal de Atención a Víctimas del Estado de San Luis Potosí es un organismo público descentralizado con personalidad jurídica y patrimonio propios; con autonomía técnica, de gestión y contará con los recursos que le asigne el Presupuesto de Egresos del Estado. Las relaciones de trabajo entre la Comisión Ejecutiva Estatal y sus trabajadores se regirán por el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, y sus trabajadores contarán con los beneficios y servicios de seguridad social que las leyes de la materia determinan.
+La Comisión Ejecutiva Estatal de Atención a Víctimas del Estado de San Luis Potosí es un organismo público descentralizado con personalidad jurídica y patrimonio propios; con autonomía técnica, de gestión, y contará con los recursos que le asigne el Presupuesto de Egresos del Estado, del cual se procurará su progresividad con el fin de que no sea menor al del ejercicio fiscal anterior, con el objetivo de cumplir con las obligaciones de la Comisión Ejecutiva Estatal, así como con la reparación a las víctimas.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2022)</small>
+
+Las relaciones de trabajo entre la Comisión Ejecutiva Estatal y sus trabajadores se regirán por el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, y sus trabajadores contarán con los beneficios y servicios de seguridad social que las leyes de la materia determinan.
 
 Las medidas y reparaciones que dicte el Comisionado Ejecutivo Estatal, serán determinadas en los términos de esta Ley.
 
@@ -2402,5 +2408,13 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1254.- SE REFORMA EL ARTÍCULO 6° EN SU FRACCIÓN XVI, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0312.- SE REFORMA EL ARTÍCULO 84 EN SU PÁRRAFO PRIMERO; Y ADICIONA AL MISMO ARTÍCULO 84 UN PÁRRAFO, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
