@@ -4,7 +4,7 @@ identifier: "LDFEFM"
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-27"
-last_updated: "2018-01-30"
+last_updated: "2022-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114325&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LDFEFM"
 
 LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2022.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el miércoles 27 de abril de 2016.
 
@@ -95,6 +95,10 @@ XI. Financiamiento: toda operación constitutiva de un pasivo, directo o conting
 XII. Financiamiento Neto: la suma de las disposiciones realizadas de un Financiamiento, y las Disponibilidades, menos las amortizaciones efectuadas de la Deuda Pública;
 
 XIII. Fuente de pago: los recursos utilizados por los Entes Públicos para el pago de cualquier Financiamiento u Obligación;
+
+> <small>(ADICIONADA, D.O.F. 10 DE MAYO DE 2022)</small>
+
+XIII Bis. Gastos y costos relacionados con la contratación: aquellos que estén relacionados con la celebración del Financiamiento, que, de manera enunciativa mas no limitativa, son: comisiones de apertura, comisiones por disposición, comisiones por estructuración, costos por la contratación de calificadoras, de instrumentos derivados y garantías de pago, sin incluir honorarios por asesoría profesional, técnica, legal y financiera.
 
 XIV. Gasto corriente: las erogaciones que no tienen como contrapartida la creación de un activo, incluyendo, de manera enunciativa, el gasto en servicios personales, materiales y suministros, y los servicios generales, así como las transferencias, asignaciones, subsidios, donativos y apoyos;
 
@@ -405,6 +409,10 @@ Las autorizaciones a las que se hace mención en dichos artículos serán realiz
 ###### Artículo 22.
 
 Los Entes Públicos no podrán contraer, directa o indirectamente, Financiamientos u Obligaciones con gobiernos de otras naciones, con sociedades o particulares extranjeros, ni cuando deban pagarse en moneda extranjera o fuera del territorio nacional. Asimismo, sólo podrán contraer Obligaciones o Financiamientos cuando se destinen a Inversiones públicas productivas y a Refinanciamiento o Reestructura, incluyendo los gastos y costos relacionados con la contratación de dichas Obligaciones y Financiamientos, así como las reservas que deban constituirse en relación con las mismas.
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 2022)</small>
+
+Para efectos de lo anterior, los entes públicos, sólo podrán destinar hasta un 0.15 por ciento del monto de los Financiamientos para cubrir los Gastos y costos relacionados con la contratación.
 
 Cuando las Obligaciones se deriven de esquemas de Asociaciones Público-Privadas, el destino podrá ser la contratación de servicios, cuyo componente de pago incluya la Inversión pública productiva realizada.
 
@@ -957,3 +965,11 @@ Cuarto.- En lo correspondiente al segundo párrafo del artículo 14 de la Ley de
 El tercer párrafo del artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, entrará en vigor a partir del ejercicio fiscal 2019.
 
 Para efectos del cuarto párrafo del artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, sólo se considerarán los Ingresos de libre disposición destinados a un fin específico en términos de las leyes que a la fecha de la entrada en vigor del presente Decreto se encuentren vigentes.
+
+D.O.F. 10 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal, en un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto, realizará las modificaciones reglamentarias necesarias para la observancia de lo dispuesto en el presente Decreto.
