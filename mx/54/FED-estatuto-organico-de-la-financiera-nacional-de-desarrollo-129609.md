@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-12960
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-07-30"
-last_updated: "2022-03-30"
+last_updated: "2022-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129609&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2018-07-18"
 ---
 # ESTATUTO ORGANICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE MAYO DE 2022 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MARZO DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 11 DE MAYO DE 2022.]</small>
 
 Estatuto publicado en la Segunda Sección al Número 21 del Diario Oficial de la Federación, el lunes 30 de julio de 2018.
 
@@ -393,7 +393,7 @@ Corresponde a la Dirección Ejecutiva de Administración Integral de Riesgos:
 
 I. Dirigir el proceso de administración de riesgos para que considere todos los riesgos en que incurre la Financiera dentro de sus diversas unidades de negocio;
 
-> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+(REFORMADA, D.O.F. 30 DE MARZO DE 2022) (F. DE E., D.O.F. 11 DE MAYO DE 2022)
 
 II. Asegurar que la Dirección Ejecutiva de Administración Integral de Riesgos realice las acciones necesarias para responder en tiempo y forma a las supervisiones y/o auditorías en materia de riesgos realizadas a la Financiera;
 
@@ -565,7 +565,9 @@ VII. Instruir estrategias de coordinación técnica dirigidas a las Gerencias de
 
 Para tales efectos, las Gerencias de Coordinación Regional Jurídica dependerán en materia técnica y decisoria a la Dirección de Unidad Corporativa Jurídica y Fiduciaria, cuyas resoluciones vincularán en todo momento a dichas Gerencias;
 
-VIII. Proponer al Director General el nombramiento, remoción, cambio de adscripción y promoción, de conformidad con la normatividad institucional, de los Gerentes de Coordinación Regional Jurídica de la Financiera, de los servidores públicos adscritos a dichas Gerencias Jurídicas, así como de los Ejecutivos Jurídicos de las Agencias de Crédito Rural;
+> <small>(F. DE E., D.O.F. 11 DE MAYO DE 2022)</small>
+
+VIII. Proponer al Director General el nombramiento, remoción, cambio de adscripción y promoción, de conformidad con la normatividad institucional, de los Gerentes de Coordinación Regional Jurídica de la Financiera, de los servidores públicos adscritos a dichas Gerencias Jurídicas, así como de los Ejecutivos Jurídicos de las Agencias Locales de Crédito Rural;
 
 > <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
@@ -689,7 +691,9 @@ IV. Diseñar programas de trabajo que permitan evaluar los procedimientos de oto
 
 V. Diseñar y establecer criterios, indicadores, y parámetros de medición de resultados que permita generar información estadística de los procesos jurídicos que se lleven a cabo en las Gerencias de Coordinación Regional Jurídica para la adecuada toma de decisiones;
 
-VI. Proponer las remociones, reubicaciones, reasignaciones y cambios de radicaciones de los Gerentes de Coordinación Regional Jurídica, de los servidores públicos adscritos a dichas Gerencias Jurídicas, así como de los Ejecutivos Jurídicos de las Agencias de Crédito Rural;
+> <small>(F. DE E., D.O.F. 11 DE MAYO DE 2022)</small>
+
+VI. Proponer las remociones, reubicaciones, reasignaciones y cambios de radicaciones de los Gerentes de Coordinación Regional Jurídica, de los servidores públicos adscritos a dichas Gerencias Jurídicas, así como de los Ejecutivos Jurídicos de las Agencias Locales de Crédito Rural;
 
 VII. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
@@ -1131,9 +1135,9 @@ XIV. Dirigir la instrumentación de productos y programas de atención a los seg
 
 XV. Evaluar el cumplimiento de las metas y objetivos asignados a las Coordinaciones Regionales conforme a las prioridades establecidas en la fracción XI del presente artículo;
 
-> <small>(ADICIONADA, D.O.F. 23 DE JUNIO DE 2021)</small>
+(ADICIONADA, D.O.F. 23 DE JUNIO DE 2021) (F. DE E., D.O.F. 11 DE MAYO DE 2022)
 
-XVI. Establecer, coordinar y evaluar las acciones y resultados de las Coordinaciones Regionales, Agencias Estatales de Crédito Rural, Agencias de Crédito Rural y Módulos, respecto al portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera;
+XVI. Establecer, coordinar y evaluar las acciones y resultados de las Coordinaciones Regionales, Agencias Estatales de Crédito Rural, Agencias Locales de Crédito Rural y Módulos, respecto al portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera;
 
 > <small>(ADICIONADA, D.O.F. 23 DE JUNIO DE 2021)</small>
 
@@ -1155,9 +1159,9 @@ XXI. Proponer al Director General de la Financiera, las medidas de ajuste que se
 
 XXII. Diseñar y proponer estrategias de participación de la Financiera en foros, eventos, convenios e iniciativas de cooperación para promover la participación de instituciones y organismos en proyectos productivos que fortalezcan el desarrollo del sector agropecuario, rural, forestal y pesquero mexicano, así como dar seguimiento al cumplimiento de las obligaciones que de ellos se derive;
 
-> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+(REFORMADA, D.O.F. 30 DE MARZO DE 2022) (F. DE E., D.O.F. 11 DE MAYO DE 2022)
 
-XXIII. Establecer comunicación con organismos e instituciones orientadas a la inversión y financiamiento de proyectos productivos del sector agropecuario, rural, forestal y pesquero a fin de diseñar de manera conjunta los negocios que eleven la productividad en los sectores, así como la aplicación de las mejores prácticas en coordinación con los Directores de Unidades Corporativas o áreas competentes, y
+XXIII. Establecer comunicación con organismos e instituciones orientadas a la inversión y financiamiento de proyectos productivos del sector agropecuario, rural, forestal y pesquero a fin de diseñar de manera conjunta los negocios que eleven la productividad en los sectores, así como la aplicación de las mejores prácticas en coordinación con las Direcciones de Unidades Corporativas o áreas competentes, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 22 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1209,11 +1213,17 @@ II. Participar en la promoción de acciones para la mejora continua e innovació
 
 III. Participar en la evaluación del cumplimiento de las metas y objetivos asignados a las Coordinaciones Regionales conforme a las prioridades establecidas en la fracción I del presente artículo;
 
-IV. Generar recomendaciones de mejora operativa para las Coordinaciones Regionales y Agencias de Crédito Rural a fin de lograr las metas planteadas;
+> <small>(F. DE E., D.O.F. 11 DE MAYO DE 2022)</small>
 
-V. Aplicar los esquemas de coordinación para la planeación, evaluación y seguimiento de la operación de las Coordinaciones Regionales y Agencias de Crédito Rural;
+IV. Generar recomendaciones de mejora operativa para las Coordinaciones Regionales y Agencias Locales de Crédito Rural a fin de lograr las metas planteadas;
 
-VI. Brindar la asesoría necesaria a las Coordinaciones Regionales y Agencias de Crédito Rural sobre la metodología de evaluación aplicada, y
+> <small>(F. DE E., D.O.F. 11 DE MAYO DE 2022)</small>
+
+V. Aplicar los esquemas de coordinación para la planeación, evaluación y seguimiento de la operación de las Coordinaciones Regionales y Agencias Locales de Crédito Rural;
+
+> <small>(F. DE E., D.O.F. 11 DE MAYO DE 2022)</small>
+
+VI. Brindar la asesoría necesaria a las Coordinaciones Regionales y Agencias Locales de Crédito Rural sobre la metodología de evaluación aplicada, y
 
 > <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
 
@@ -1475,15 +1485,9 @@ VIII. Colaborar en la optimización de los procedimientos de contribuciones a te
 
 IX. Contribuir en el desarrollo de las acciones correspondientes para el registro de estructura orgánica e inventario de plazas de conformidad con la normatividad aplicable, y
 
-> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ÉSTA FRACCIÓN ES SIMILAR A LA FRACCIÓN XI.]</small>
+(REFORMADA, D.O.F. 30 DE MARZO DE 2022) (F. DE E., D.O.F. 11 DE MAYO DE 2022)
 
-X. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que les encomiende el Director General Adjunto de Administración y/o el Director Ejecutivo de Recursos Humanos.
-
-> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ÉSTA FRACCIÓN ES SIMILAR A LA FRACCIÓN X.]</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 30 DE MARZO DE 2022)</small>
-
-XI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que les encomiende el Director de Unidad Corporativa de Administración y/o el Director Ejecutivo de Recursos Humanos.
+X. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que les encomiende el Director de Unidad Corporativa de Administración y/o el Director Ejecutivo de Recursos Humanos.
 
 ###### ARTÍCULO 51.
 
@@ -2033,9 +2037,9 @@ Corresponde a las Coordinaciones Regionales:
 
 I. Coordinar la promoción, ejecución y seguimiento de los productos y programas de crédito en su circunscripción territorial correspondiente; a fin de lograr las metas de negocios y los objetivos de atención a usuarios en apoyo a las decisiones de la Dirección General y las Direcciones de Unidades Corporativas;
 
-> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2021)</small>
+(REFORMADA, D.O.F. 23 DE JUNIO DE 2021) (F. DE E., D.O.F. 11 DE MAYO DE 2022)
 
-II. Coordinar y evaluar las acciones, así como los resultados de las Agencias Estatales de Crédito Rural y Agencias de Crédito Rural, referente al portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera;
+II. Coordinar y evaluar las acciones, así como los resultados de las Agencias Estatales de Crédito Rural y Agencias Locales de Crédito Rural adscritas a su circunscripción, referente al portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera;
 
 > <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2021)</small>
 
@@ -2073,9 +2077,9 @@ Para el ejercicio de dichas atribuciones, contarán con las Gerencias Regionales
 
 XIV. Informar a la Dirección de Unidad Corporativa de Promoción de Negocios y Coordinación Regional, previo a la autorización de la instancia correspondiente, las operaciones que pudiesen estar vinculadas con el objeto de las Instituciones de Banca de Desarrollo;
 
-> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2022)</small>
+(REFORMADA, D.O.F. 30 DE MARZO DE 2022) (F. DE E., D.O.F. 11 DE MAYO DE 2022)
 
-XV. Proponer a la Dirección de Unidad Corporativa de Promoción de Negocios y Coordinación Regional, el nombramiento y remoción, de conformidad con la normatividad institucional, de los servidores públicos con nivel de Gerente, Agente Estatal de Crédito Rural, Agente de Crédito, así como el personal adscrito a las mismas, con excepción de las Gerencias referidas en las fracciones VIII, del artículo 23, VI, del artículo 34 y XIII Bis 6, del artículo 52 del presente Estatuto y de los servidores públicos adscritos a éstas;
+XV. Proponer a la Dirección de Unidad Corporativa de Promoción de Negocios y Coordinación Regional, el nombramiento y remoción, de conformidad con la normatividad institucional, de los servidores públicos con nivel de Gerente, Agente Estatal de Crédito Rural, Agente Local de Crédito Rural adscrito a su circunscripción, así como el personal adscrito a las mismas, con excepción de las Gerencias referidas en las fracciones VIII, del artículo 23, VI, del artículo 34 y XIII Bis 6, del artículo 52 del presente Estatuto y de los servidores públicos adscritos a éstas;
 
 XVI. Expedir copias certificadas de los documentos originales que obren en los archivos de sus respectivas Coordinaciones Regionales, y
 
@@ -2091,7 +2095,9 @@ I. Coordinar y llevar a cabo la aplicación de los productos, programas y apoyos
 
 II. Verificar que el proceso de originación, autorización, contratación, disposición y supervisión se realice con oportunidad, a fin de asegurar la calidad en el proceso crediticio;
 
-III. Coordinar, en su caso, las acciones y resultados de las Agencias de Crédito Rural, en los aspectos de portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera;
+> <small>(F. DE E., D.O.F. 11 DE MAYO DE 2022)</small>
+
+III. Coordinar, en su caso, las acciones y resultados de las Agencias Locales de Crédito Rural adscritas a su circunscripción, en los aspectos de portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera;
 
 IV. Coordinar y vincular los diferentes programas con los gobiernos estatales y municipales de su adscripción;
 
@@ -2099,7 +2105,9 @@ V. Representar a la Financiera en las comisiones que se le asignen, así como le
 
 VI. Analizar y proponer al Coordinador Regional la apertura, reubicación y clausura de Agencias y Módulos en su adscripción estatal;
 
-VII. Apoyar las gestiones específicas que realicen las agencias de Crédito Rural y Módulos en el ámbito de su competencia;
+> <small>(F. DE E., D.O.F. 11 DE MAYO DE 2022)</small>
+
+VII. Apoyar las gestiones específicas que realicen las Agencias Locales de Crédito Rural adscritas a su circunscripción y Módulos en el ámbito de su competencia;
 
 VIII. Atender de manera directa las solicitudes de financiamiento, asesoría y capacitación que presenten los Productores y los Intermediarios Financieros Rurales;
 
@@ -2119,9 +2127,11 @@ XV. Definir acciones de coordinación para la operación de los productos y mode
 
 XVI. Realizar las demás funciones y/o responsabilidades dentro del ámbito de su competencia, que se deriven de las disposiciones aplicables, así como de aquellas que le encomiende su superior jerárquico.
 
+> <small>(F. DE E., D.O.F. 11 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO 67.
 
-Corresponde a las Agencias de Crédito Rural a través de los Ejecutivos de Financiamiento Rural, el ejercicio de las atribuciones señaladas en las fracciones VIII, IX, X, XI y XIV del artículo 66 del presente Estatuto, además de llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables.
+Corresponde a las Agencias Locales de Crédito Rural a través de los Ejecutivos de Financiamiento Rural, el ejercicio de las atribuciones señaladas en las fracciones VIII, IX, X, XI y XIV del artículo 66 del presente Estatuto, además de llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables.
 
 ###### ARTÍCULO 68.
 
@@ -2527,23 +2537,25 @@ El Comité de Recuperación de Cartera tendrá las facultades establecidas en la
 
 ### CAPÍTULO I. DE LAS SUPLENCIAS
 
-> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2022)</small>
+(REFORMADO, D.O.F. 30 DE MARZO DE 2022) (F. DE E., D.O.F. 11 DE MAYO DE 2022)
 
 ###### ARTÍCULO 92.
 
-En las ausencias del Director General, éste será suplido por los Directores de Unidades Corporativas o por las unidades administrativas directamente adscritas a la Dirección General, de acuerdo con el ámbito de competencia que les corresponda.
+En las ausencias del Director General, éste será suplido por los titulares de las Direcciones de Unidades Corporativas o por las unidades administrativas directamente adscritas a la Dirección General, de acuerdo con el ámbito de competencia que les corresponda.
 
-En los juicios de amparo o, en cualquier otro procedimiento jurisdiccional o contencioso administrativo, inclusive en materia laboral, el Director General podrá ser suplido por el Director de Unidad Corporativa Jurídica Fiduciaria.
+> <small>(F. DE E., D.O.F. 11 DE MAYO DE 2022)</small>
+
+En los juicios de amparo o, en cualquier otro procedimiento jurisdiccional o contencioso administrativo, inclusive en materia laboral, el Director General podrá ser suplido por el Director de Unidad Corporativa Jurídica y Fiduciaria.
 
 Los Directores de Unidades Corporativas y el Coordinador General serán suplidos en sus ausencias o vacancias por los Directores Ejecutivos, en los asuntos de su respectiva competencia o, en su caso, por los Subdirectores Corporativos correspondientes.
 
 ### CAPÍTULO II. DEL EJERCICIO DE LAS ATRIBUCIONES
 
-> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2022)</small>
+(REFORMADO, D.O.F. 30 DE MARZO DE 2022) (F. DE E., D.O.F. 11 DE MAYO DE 2022)
 
 ###### ARTÍCULO 93.
 
-Las atribuciones encomendadas por este Estatuto a los Directores de Unidades Corporativas, podrán, previo acuerdo, ser ejercidas conjuntamente por ellos, con Directores Ejecutivos, Subdirectores Corporativos o Gerentes, de la Dirección de Unidad Corporativa correspondiente.
+Las atribuciones encomendadas por este Estatuto a los titulares de las Direcciones de Unidades Corporativas, podrán, previo acuerdo, ser ejercidas conjuntamente por ellos, con Directores Ejecutivos, Subdirectores Corporativos o Gerentes, de la Dirección de Unidad Corporativa correspondiente.
 
 ## TRANSITORIOS
 
@@ -2594,3 +2606,11 @@ D.O.F. 30 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DE LAS “REFORMAS DE DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO”.]
 
 PRIMERO.- Las presentes reformas y adiciones del Estatuto Orgánico entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “NOTA ACLARATORIA A LAS REFORMAS DE DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO, PUBLICADAS EL 30 DE MARZO DE 2022”.]
+
+PRIMERO.- Las presentes modificaciones entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Todas las referencias que dentro de Políticas, Lineamientos, Manuales, Reglas, Procedimientos, Circulares y cualquier otro documento y/o instrumento normativo, emitidos con anterioridad a estas modificaciones por la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, hagan mención a (i) cualquier Dirección General Adjunta, se entenderá en lo sucesivo a la Dirección de Unidad Corporativa, según su competencia y respectiva denominación; (ii) el Titular de la Unidad para la Administración Integral de Riesgos, se entenderá que corresponde en lo sucesivo a la Dirección Ejecutiva de Administración Integral de Riesgos; (iii) el Auditor Interno, se entenderá que corresponde en lo sucesivo a la Dirección Ejecutiva de Auditoría Interna; (iv) la Unidad de Prevención de Lavado de Dinero y Combate al Financiamiento al Terrorismo, se entenderá que corresponde en lo sucesivo al Titular del Área de Prevención de Lavado de Dinero y Combate al Financiamiento al Terrorismo; y (v) las Agencias de Crédito Rural, se entenderá que corresponden en lo sucesivo a las Agencias Locales de Crédito Rural; y en todos los casos sin necesidad de modificar o ajustar dicha normatividad.
