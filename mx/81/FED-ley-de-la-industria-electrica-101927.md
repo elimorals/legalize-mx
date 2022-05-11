@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-industria-electrica-101927"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-11"
-last_updated: "2021-03-09"
+last_updated: "2022-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101927&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-08-11"
 
 LEY DE LA INDUSTRIA ELÉCTRICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
 
 Ley publicada en la Primera Sección de la Edición Vespertina del Diario Oficial de la Federación, el lunes 11 de agosto de 2014.
 
@@ -1217,7 +1217,9 @@ c) Implementar programas para el desarrollo de proveedores y contratistas nacion
 
 d) Impulsar el cierre de brechas de capacidad técnica y de Calidad de las empresas, a través de programas de apoyo para asistencia técnica y financiera, y
 
-e) Integrar un consejo consultivo, encabezado por la Secretaría de Economía, con representantes de la Secretaría, la CRE, académicos y representantes del sector privado o de la industria.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE MAYO DE 2022)</small>
+
+e) Integrar un consejo consultivo, encabezado por la Secretaría de Economía, con personas representantes de la Secretaría, la CRE, de la academia y del sector privado o de la industria, quienes serán designadas garantizando el principio de paridad de género.
 
 Dicho consejo apoyará en la definición de políticas, criterios y metodologías para el diagnóstico de la oferta de productos, bienes y servicios; la promoción de la industria nacional; la formación de cadenas productivas regionales y nacionales, y el desarrollo del talento de los recursos humanos, la innovación y la tecnología, y
 
@@ -2328,3 +2330,13 @@ Tercero. La Secretaría de Energía, la Comisión Reguladora de Energía y el Ce
 Cuarto. Los permisos de autoabastecimiento, con sus modificaciones respectivas, otorgados o tramitados al amparo de la Ley del Servicio Público de Energía Eléctrica, que continúen surtiendo sus efectos jurídicos, obtenidos en fraude a la ley, deberán ser revocados por la Comisión Reguladora de Energía mediante el procedimiento administrativo correspondiente. En su caso, los permisionarios podrán tramitar un permiso de generación, conforme a lo previsto en la Ley de la Industria Eléctrica.
 
 Quinto. Los Contratos de Compromiso de Capacidad de Generación de Energía Eléctrica y Compraventa de Energía Eléctrica suscritos con productores independientes de energía al amparo de la Ley del Servicio Público de Energía Eléctrica, deberán ser revisados a fin de garantizar su legalidad y el cumplimiento del requisito de rentabilidad para el Gobierno Federal establecido en los artículos 74, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos, 32 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y 18 de la Ley Federal de Deuda Pública. En su caso, dichos contratos deberán ser renegociados o terminados en forma anticipada.
+
+D.O.F. 11 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DE LA LEY GENERAL DE SALUD, DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, DE LA LEY GENERAL DE CAMBIO CLIMÁTICO, DE LA LEY ORGÁNICA DE LA PROCURADURÍA DE LA DEFENSA DEL CONTRIBUYENTE, DE LA LEY ORGÁNICA DEL SEMINARIO DE CULTURA MEXICANA, DE LA LEY DE LA AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCIÓN AL MEDIO AMBIENTE DEL SECTOR HIDROCARBUROS, DE LA LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES, DE LA LEY QUE CREA LA AGENCIA DE NOTICIAS DEL ESTADO MEXICANO, DE LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO, DE LA LEY DE INSTITUCIONES DE SEGUROS Y DE FIANZAS, DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO, DE LA LEY DE LA INDUSTRIA ELÉCTRICA, DE LA LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PÁRRAFO OCTAVO DEL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMÍA, DE LA LEY DE LA CASA DE MONEDA DE MÉXICO, DE LA LEY DE CONCURSOS MERCANTILES, DE LA LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS, DE LA LEY DE AGUAS NACIONALES, DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY GENERAL DE DESARROLLO SOCIAL, DE LA LEY ORGÁNICA DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO, DE LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO, DE LA LEY FEDERAL DE VARIEDADES VEGETALES, DE LA LEY FEDERAL DE SANIDAD VEGETAL, DE LA LEY FEDERAL DE SANIDAD ANIMAL, DE LA LEY FEDERAL DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL, DE LA LEY ORGÁNICA DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA, DE LA LEY DE PROTECCIÓN AL AHORRO BANCARIO, DE LA LEY DE LOS INSTITUTOS NACIONALES DE SALUD, DE LA LEY DE CIENCIA Y TECNOLOGÍA, EN MATERIA DE PARIDAD DE GÉNERO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
