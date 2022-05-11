@@ -4,7 +4,7 @@ identifier: "LFFAOSC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2004-02-09"
-last_updated: "2018-04-24"
+last_updated: "2022-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36697&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFFAOSC"
 
 LEY FEDERAL DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 9 de febrero de 2004.
 
@@ -410,17 +410,25 @@ El Consejo concurrirá anualmente con la Comisión para realizar una evaluación
 
 El Consejo estará integrado de la siguiente forma:
 
-I. Un servidor público que designe la Comisión, quien lo presidirá;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
 
-II. Nueve representantes de organizaciones, cuya presencia en el Consejo será por tres años, renovándose por tercios cada año. La Comisión emitirá la convocatoria para elegir a los representantes de las organizaciones inscritas en el Registro, en la cual deberán señalarse los requisitos de elegibilidad, atendiendo a criterios de representatividad, antigüedad, membresía y desempeño de las organizaciones;
+I. Una servidora o un servidor público que designe la Comisión, quien lo presidirá;
 
-III. Cuatro representantes de los sectores académico, profesional, científico y cultural; la Comisión emitirá las bases para la selección de estos representantes;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
 
-IV. Dos representantes del Poder Legislativo Federal, uno por cada Cámara, cuyo desempeño legislativo sea afín a la materia que regula esta ley, y
+II. Nueve representantes de organizaciones, cuya elección se realizará garantizando el principio de paridad y su presencia en el Consejo será por tres años, renovándose por tercios cada año. La Comisión emitirá la convocatoria para elegir a las personas representantes de las organizaciones inscritas en el Registro, en la cual deberán señalarse los requisitos de elegibilidad, atendiendo a criterios de representatividad, antigüedad, membresía y desempeño de las organizaciones;
 
-> <small>(REFORMADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
 
-V. Un Secretario Ejecutivo, designado por el Presidente del Consejo con base en la terna propuesta por los integrantes del mismo.
+III. Cuatro representantes de los sectores académico, profesional, científico y cultural; la Comisión emitirá las bases para la selección de las personas representantes, observando el principio de paridad de género;
+
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
+
+IV. Dos personas representantes del Poder Legislativo Federal, una por cada Cámara, cuyo desempeño legislativo sea afín a la materia que regula esta ley, y
+
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
+
+V. Una Secretaría Ejecutiva, designada por la persona titular de la Presidencia del Consejo con base en la terna propuesta por las personas integrantes del mismo.
 
 ###### Artículo 28.
 
@@ -545,3 +553,13 @@ D.O.F. 24 DE ABRIL DE 2018.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- El Ejecutivo Federal, a más tardar a los noventa días naturales siguientes a la entrada en vigor del presente Decreto, deberá realizar las modificaciones a las disposiciones reglamentarias correspondientes.
+
+D.O.F. 11 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DE LA LEY GENERAL DE SALUD, DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, DE LA LEY GENERAL DE CAMBIO CLIMÁTICO, DE LA LEY ORGÁNICA DE LA PROCURADURÍA DE LA DEFENSA DEL CONTRIBUYENTE, DE LA LEY ORGÁNICA DEL SEMINARIO DE CULTURA MEXICANA, DE LA LEY DE LA AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCIÓN AL MEDIO AMBIENTE DEL SECTOR HIDROCARBUROS, DE LA LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES, DE LA LEY QUE CREA LA AGENCIA DE NOTICIAS DEL ESTADO MEXICANO, DE LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO, DE LA LEY DE INSTITUCIONES DE SEGUROS Y DE FIANZAS, DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO, DE LA LEY DE LA INDUSTRIA ELÉCTRICA, DE LA LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PÁRRAFO OCTAVO DEL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMÍA, DE LA LEY DE LA CASA DE MONEDA DE MÉXICO, DE LA LEY DE CONCURSOS MERCANTILES, DE LA LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS, DE LA LEY DE AGUAS NACIONALES, DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY GENERAL DE DESARROLLO SOCIAL, DE LA LEY ORGÁNICA DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO, DE LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO, DE LA LEY FEDERAL DE VARIEDADES VEGETALES, DE LA LEY FEDERAL DE SANIDAD VEGETAL, DE LA LEY FEDERAL DE SANIDAD ANIMAL, DE LA LEY FEDERAL DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL, DE LA LEY ORGÁNICA DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA, DE LA LEY DE PROTECCIÓN AL AHORRO BANCARIO, DE LA LEY DE LOS INSTITUTOS NACIONALES DE SALUD, DE LA LEY DE CIENCIA Y TECNOLOGÍA, EN MATERIA DE PARIDAD DE GÉNERO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
