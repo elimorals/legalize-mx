@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-consejo-nacional-de-ciencia-y-tecnologia-24878
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-05"
-last_updated: "2014-05-20"
+last_updated: "2022-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24878&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-06-03"
 
 LEY ORGÁNICA DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 5 de junio de 2002.
 
@@ -155,27 +155,35 @@ La Ley Federal de las Entidades Paraestatales se aplicará al CONACyT en lo que 
 
 ###### ARTÍCULO 5.
 
-La Junta de Gobierno del CONACyT estará integrada por trece miembros que serán:
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], D.O.F. 11 DE MAYO DE 2022)</small>
 
-I. Un representante de la Secretaría de Hacienda y Crédito Público;
+La Junta de Gobierno del CONACyT se conformará garantizando el principio de paridad de género por trece integrantes que serán:
 
-II. Un representante de la Secretaría de Economía;
+I. Una persona representante de la Secretaría de Hacienda y Crédito Público;
 
-III. Un representante de la Secretaría de Educación Pública;
+II. Una persona representante de la Secretaría de Economía;
 
-IV. Un representante de la Secretaría de Medio Ambiente y Recursos Naturales;
+III. Una persona representante de la Secretaría de Educación Pública;
 
-V. Un representante de la Secretaría de Energía;
+IV. Una persona representante de la Secretaría de Medio Ambiente y Recursos Naturales;
 
-VI. Un representante de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y
+V. Una persona representante de la Secretaría de Energía;
 
-VII. Un representante de la Secretaría de Salud.
+VI. Una persona representante de la Secretaría de Agricultura y Desarrollo Rural, y
 
-Se invitará a formar parte de la Junta de Gobierno al Secretario General de la Asociación Nacional de Universidades e Instituciones de Educación Superior, a un miembro del Foro Consultivo Científico y Tecnológico, así como a dos investigadores en funciones preferentemente de los dos niveles superiores del Sistema Nacional de Investigadores y a dos representantes del sector productivo, los cuales serán propuestos por el Director General del CONACyT. Cada miembro propietario contará con un suplente.
+VII. Una persona representante de la Secretaría de Salud.
 
-Las sesiones serán presididas por quien determine el Presidente de la República de entre los titulares de las dependencias del Ejecutivo Federal que tengan mayor actividad científica y tecnológica y tendrá voto de calidad en caso de empate.
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
 
-Los representantes propietarios de las dependencias y entidades de la Administración Pública Federal deberán ser los Subsecretarios o nivel equivalente, que tengan la responsabilidad de las funciones de promoción de la investigación científica y desarrollo tecnológico en dichas dependencias y entidades. En el caso de los suplentes deberán contar con el nivel jerárquico de Director General o equivalente. A las sesiones de la Junta de Gobierno se podrá invitar con voz pero sin voto a servidores públicos y a científicos o especialistas que, por la naturaleza de los asuntos a tratar, acuerde la propia Junta de Gobierno.
+Se invitará a formar parte de la Junta de Gobierno a la persona titular de la Secretaría General de la Asociación Nacional de Universidades e Instituciones de Educación Superior, a una persona integrante del Foro Consultivo Científico y Tecnológico, así como a dos personas investigadoras en funciones preferentemente de los dos niveles superiores del Sistema Nacional de Investigadores y a dos personas representantes del sector productivo, quienes serán propuestas por la persona titular de la Dirección General del CONACyT. Cada persona propietaria contará con una suplente que deberá ser del mismo género que la propietaria.
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
+
+Las sesiones serán presididas por quien determine la Presidencia de la República de entre las personas titulares de las dependencias del Ejecutivo Federal que tengan mayor actividad científica y tecnológica y tendrá voto de calidad en caso de empate.
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
+
+Las personas propietarias de las dependencias y entidades de la Administración Pública Federal deberán ser las Subsecretarias o Subsecretarios o nivel equivalente, que tengan la responsabilidad de las funciones de promoción de la investigación científica y desarrollo tecnológico en dichas dependencias y entidades. En el caso de las personas suplentes deberán contar con el nivel jerárquico de Dirección General o equivalente. A las sesiones de la Junta de Gobierno se podrá (sic) invitar con voz pero sin voto a personas servidoras públicas y a científicas, científicos o especialistas que, por la naturaleza de los asuntos a tratar, acuerde la propia Junta de Gobierno.
 
 El Estatuto Orgánico del CONACyT reglamentará lo contenido en este artículo.
 
@@ -189,7 +197,9 @@ II. Aprobar las políticas y los programas del CONACyT a propuesta del Director 
 
 III. Aprobar el dictamen que presente el Director General a que se refiere la fracción XIV del artículo 2 de esta Ley;
 
-IV. Analizar y, en su caso, aprobar las reglas de operación y reglamentación interna del Sistema Nacional de Investigadores que para tal efecto le presente el Director General;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
+
+IV. Analizar y, en su caso, aprobar las reglas de operación y reglamentación interna del Sistema Nacional de Investigadores que para tal efecto le presente la Dirección General, mismas que deberán contener criterios que garanticen el principio de paridad de género.
 
 V. Aprobar la distribución del presupuesto anual definitivo del CONACyT, el programa de inversiones y el calendario de gasto, de acuerdo con el presupuesto total autorizado;
 
@@ -199,9 +209,13 @@ VII. Decidir el uso y destino de los recursos autogenerados y la aplicación de 
 
 VIII. Autorizar la apertura de cuentas de inversión financiera, las que siempre serán en renta fija;
 
-IX. Nombrar, a propuesta del Director General, a los servidores públicos del CONACyT que ocupen cargos en las dos jerarquías administrativas inferiores a la de aquél, y ser informada de su remoción;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
 
-X. Aprobar y modificar la estructura básica de la entidad de acuerdo con el monto total autorizado de su presupuesto de servicios personales, así como definir los lineamientos y normas para conformar la estructura ocupacional y salarial, las conversiones de plazas y renivelaciones de puestos y categorías, conforme a las normas generales que expida la Secretaría de Hacienda y Crédito Público;
+IX. Nombrar, a propuesta de la Dirección General, a las servidoras y los servidores públicos del CONACyT que ocupen cargos en las dos jerarquías administrativas inferiores a quien dirija este Consejo, y ser informada de su remoción, los nombramientos deberán de realizarse en apego al principio de paridad de género;
+
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
+
+X. Aprobar y modificar la estructura básica de la entidad de acuerdo con el monto total autorizado de su presupuesto de servicios personales, así como definir los lineamientos y normas para conformar la estructura ocupacional y salarial, las conversiones de plazas y renivelaciones de puestos y categorías, conforme al principio de paridad de género y a las normas generales que expida la Secretaría de Hacienda y Crédito Público;
 
 XI. Aprobar, a propuesta del Director General, la administración desconcentrada de funciones, programas y recursos;
 
@@ -279,7 +293,9 @@ El Director General del CONACyT fungirá como Secretario Ejecutivo del Consejo G
 
 ###### ARTÍCULO 10.
 
-El Foro Consultivo Científico y Tecnológico fungirá como órgano interno de apoyo y asesoría institucional, el cual tendrá las siguientes funciones para auxiliar a la Junta de Gobierno y al Director General:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE MAYO DE 2022)</small>
+
+El Foro Consultivo Científico y Tecnológico fungirá como órgano interno de apoyo y asesoría institucional, deberá integrarse de manera paritaria y tendrá las siguientes funciones para auxiliar a la Junta de Gobierno y la Dirección General:
 
 I. Apoyar las actividades del CONACyT y formular sugerencias tendientes a su mejor desempeño;
 
@@ -400,3 +416,13 @@ TERCERO. El CONACyT contará con un plazo no mayor a 18 meses a partir de la exp
 El CONACyT procurará y promoverá la homologación de la normativa existente en los Estados e Instituciones que por su actividad estén sujetas a las disposiciones establecidas en este Decreto, ésta homologación deberá ejecutarse en el tiempo señalado en el párrafo anterior.
 
 CUARTO. El CONACyT dentro de su presupuesto anual, preverá los recursos necesarios para la creación, impulso y fortalecimiento de las plataformas tecnológicas, así como para el fortalecimiento del Consorcio Nacional de Recursos de Información Científica y Tecnológica, en lo conducente a las disposiciones establecidas en el presente Decreto.
+
+D.O.F. 11 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DE LA LEY GENERAL DE SALUD, DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, DE LA LEY GENERAL DE CAMBIO CLIMÁTICO, DE LA LEY ORGÁNICA DE LA PROCURADURÍA DE LA DEFENSA DEL CONTRIBUYENTE, DE LA LEY ORGÁNICA DEL SEMINARIO DE CULTURA MEXICANA, DE LA LEY DE LA AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCIÓN AL MEDIO AMBIENTE DEL SECTOR HIDROCARBUROS, DE LA LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES, DE LA LEY QUE CREA LA AGENCIA DE NOTICIAS DEL ESTADO MEXICANO, DE LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO, DE LA LEY DE INSTITUCIONES DE SEGUROS Y DE FIANZAS, DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO, DE LA LEY DE LA INDUSTRIA ELÉCTRICA, DE LA LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PÁRRAFO OCTAVO DEL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMÍA, DE LA LEY DE LA CASA DE MONEDA DE MÉXICO, DE LA LEY DE CONCURSOS MERCANTILES, DE LA LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS, DE LA LEY DE AGUAS NACIONALES, DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY GENERAL DE DESARROLLO SOCIAL, DE LA LEY ORGÁNICA DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO, DE LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO, DE LA LEY FEDERAL DE VARIEDADES VEGETALES, DE LA LEY FEDERAL DE SANIDAD VEGETAL, DE LA LEY FEDERAL DE SANIDAD ANIMAL, DE LA LEY FEDERAL DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL, DE LA LEY ORGÁNICA DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA, DE LA LEY DE PROTECCIÓN AL AHORRO BANCARIO, DE LA LEY DE LOS INSTITUTOS NACIONALES DE SALUD, DE LA LEY DE CIENCIA Y TECNOLOGÍA, EN MATERIA DE PARIDAD DE GÉNERO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
