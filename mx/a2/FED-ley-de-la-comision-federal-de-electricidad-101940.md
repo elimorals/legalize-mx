@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-federal-de-electricidad-101940"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-11"
-last_updated: "2015-02-16"
+last_updated: "2022-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101940&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL ACUERDO POR EL QUE SE EMITE LA DECLARATORIA A QUE SE REFIERE EL DÉCIMO CUARTO TRANSITORIO DE LA LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD, PUBLICADO EN EL D.O.F. DE 16 DE FEBRERO DE 2015, LA SECRETARÍA DE ENERGÍA DECLARA QUE SE ENCUENTRA EN FUNCIONES EL NUEVO CONSEJO DE ADMINISTRACIÓN DE LA COMISIÓN FEDERAL DE ELECTRICIDAD Y ESTÁN EN OPERACIÓN LOS MECANISMOS DE FISCALIZACIÓN, TRANSPARENCIA Y RENDICIÓN DE CUENTAS QUE PREVÉ LA CITADA LEY.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
 
 Ley publicada en la Segunda Sección de la Edición Vespertina del Diario Oficial de la Federación, el lunes 11 de agosto de 2014.
 
@@ -237,27 +237,45 @@ La Comisión Federal de Electricidad difundirá en su portal de Internet una ver
 
 #### Sección Segunda. Integración y Funcionamiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE MAYO DE 2022)</small>
+
 ###### Artículo 14.
 
-El Consejo de Administración estará integrado por diez consejeros, conforme a lo siguiente:
+El Consejo de Administración estará integrado, procurando observar el principio de paridad, por diez consejeras y consejeros, conforme a lo siguiente:
 
-I. El titular de la Secretaría de Energía, quien lo presidirá y tendrá voto de calidad y el titular de la Secretaría de Hacienda y Crédito Público;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
 
-II. Tres consejeros del Gobierno Federal designados por el Ejecutivo Federal;
+I. La persona titular de la Secretaría de Energía, quien lo presidirá y tendrá voto de calidad y la persona titular de la Secretaría de Hacienda y Crédito Público;
 
-III. Cuatro Consejeros Independientes designados por el Ejecutivo Federal y ratificados por el Senado de la República, quienes ejercerán sus funciones de tiempo parcial y no tendrán el carácter de servidores públicos, y
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
 
-IV. Un consejero designado por los trabajadores de la Comisión Federal de Electricidad y sus empresas productivas subsidiarias.
+II. Tres personas consejeras del Gobierno Federal designadas conforme al principio de paridad de género por el Ejecutivo Federal;
 
-Para efectos de lo dispuesto en la fracción III anterior, el Ejecutivo Federal enviará la designación acompañada de la documentación que acredite el cumplimiento de los requisitos para ocupar el cargo. La Cámara de Senadores ratificará, en su caso, mediante el voto favorable de las dos terceras partes de sus miembros presentes, la designación respectiva, sin la comparecencia de la persona designada, dentro del improrrogable plazo de treinta días naturales siguientes a la recepción del nombramiento.
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
 
-Si no se alcanzaren los votos mencionados o la Cámara de Senadores no resolviere dentro del plazo señalado, se entenderá rechazado el nombramiento respectivo, en cuyo caso el Ejecutivo Federal enviará una nueva designación a ratificación de la Cámara de Senadores, en términos del párrafo anterior. Si esta segunda designación fuere también rechazada conforme a este párrafo, el Ejecutivo Federal hará la designación del consejero independiente directamente.
+III. Cuatro personas consejeras independientes, cuya designación por el Ejecutivo Federal y ratificación por el Senado de la República deberá garantizar el principio de paridad, quienes ejercerán sus funciones de tiempo parcial y no tendrán el carácter de personas servidoras públicas, y
+
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
+
+IV. Una persona consejera designada por los trabajadores de la Comisión Federal de Electricidad y sus empresas productivas subsidiarias.
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
+
+Para efectos de lo dispuesto en la fracción III anterior, el Ejecutivo Federal enviará la designación acompañada de la documentación que acredite el cumplimiento de los requisitos para ocupar el cargo. El Senado de la República ratificará, en su caso, mediante el voto favorable de las dos terceras partes de sus integrantes presentes, la designación respectiva, sin la comparecencia de la persona designada, dentro del improrrogable plazo de treinta días naturales siguientes a la recepción del nombramiento.
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
+
+Si no se alcanzaren los votos mencionados o el Senado de la República no resolviere dentro del plazo señalado, se entenderá rechazado el nombramiento respectivo, en cuyo caso el Ejecutivo Federal enviará una nueva designación a ratificación al Senado de la República, en términos del párrafo anterior. Si esta segunda designación fuere también rechazada conforme a este párrafo, el Ejecutivo Federal hará la designación de la persona consejera independiente directamente.
 
 El plazo previsto en los dos párrafos anteriores correrá siempre que el Senado de la República se encuentre en sesiones.
 
-En la designación de los consejeros señalados en las fracciones II y III se velará por que la composición del Consejo de Administración sea diversificada, de acuerdo a la preparación, experiencia y capacidad de sus integrantes.
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
 
-Los miembros del Consejo de Administración contarán con los recursos humanos y materiales necesarios para el cumplimiento de sus funciones, conforme a las reglas que emita el propio Consejo.
+En la designación de las personas consejeras señaladas en las fracciones II y III se velará por que la composición del Consejo de Administración sea diversificada, de acuerdo a la preparación, experiencia y capacidad de sus integrantes.
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
+
+Las personas integrantes del Consejo de Administración contarán con los recursos humanos y materiales necesarios para el cumplimiento de sus funciones, conforme a las reglas que emita el propio Consejo.
 
 ###### Artículo 15.
 
@@ -525,19 +543,23 @@ III. Estrategia e Inversiones, y
 
 IV. Adquisiciones, Arrendamientos, Obras y Servicios.
 
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
+
 ###### Artículo 40.
 
-Los comités del Consejo de Administración estarán conformados por un mínimo de tres y un máximo de cinco consejeros, de los cuales al menos dos serán independientes, salvo aquellos cuya integración esté prevista expresamente en esta Ley. Serán presididos y tendrán la integración y funciones que determine el Consejo de Administración, por resolución adoptada por mayoría de siete de sus miembros, sin perjuicio de las señaladas en esta Ley, y funcionarán conforme a las reglas que emita el propio Consejo.
+Los comités del Consejo de Administración estarán integrados procurando observar el principio de paridad por un mínimo de tres y un máximo de cinco personas consejeras y consejeros, de los cuales al menos dos serán independientes, salvo aquellos cuya integración esté prevista expresamente en esta Ley. Serán presididos y tendrán la integración y funciones que determine el Consejo de Administración, por resolución adoptada por mayoría de siete de sus integrantes, sin perjuicio de las señaladas en esta Ley, y funcionarán conforme a las reglas que emita el propio Consejo.
 
-Los Comités podrán solicitar al Director General toda la información que requieran para el adecuado ejercicio de sus funciones, misma que deberá ser entregada o puesta a disposición en el plazo que al efecto determine el Consejo de Administración en las reglas señaladas en el párrafo anterior.
+Los Comités podrán solicitar a la Dirección General de la Comisión Federal de Electricidad toda la información que requieran para el adecuado ejercicio de sus funciones, misma que deberá ser entregada o puesta a disposición en el plazo que al efecto determine el Consejo de Administración en las reglas señaladas en el párrafo anterior.
 
-Los Comités podrán autorizar la asistencia de un representante del Director General a sus sesiones, como invitado con voz pero sin voto, cuando lo estimen conveniente para el ejercicio de sus funciones.
+Los Comités podrán autorizar la asistencia de una persona representante de la Dirección General a sus sesiones, como invitada con voz pero sin voto, cuando lo estimen conveniente para el ejercicio de sus funciones.
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
 
 ###### Artículo 41.
 
-El Comité de Auditoría estará integrado por tres consejeros independientes y será presidido, de manera rotatoria cada año, por uno de ellos, según lo determine el Consejo de Administración. El Comité tendrá las funciones señaladas en el artículo 50 de esta Ley.
+El Comité de Auditoría estará integrado procurando observar el principio de paridad, por tres personas consejeras independientes y será presidido, de manera rotatoria cada año, por cada integrante, según lo determine el Consejo de Administración. El Comité tendrá las funciones señaladas en el artículo 51 de esta Ley.
 
-Podrán asistir a sus sesiones como invitados, con derecho a voz pero sin voto, un representante del Director General, el titular de la Auditoría Interna, el titular del área jurídica, o cualquier otra persona, cuando se considere conveniente y apropiado en razón del tema a discutirse.
+Podrán asistir a sus sesiones como invitadas o invitados, con derecho a voz pero sin voto, una persona representante de la Dirección General; la persona titular de la Auditoría Interna, del área jurídica, o cualquier otra persona, cuando se considere conveniente y apropiado en razón del tema a discutirse.
 
 ###### Artículo 42.
 
@@ -851,13 +873,19 @@ VII. Privilegiar procesos competitivos para la adquisición de los insumos y ser
 
 La fusión, creación, liquidación o escisión de empresas productivas subsidiarias y empresas filiales, así como la transferencia de activos se hará teniendo como principal objetivo la creación de valor económico para la Nación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE MAYO DE 2022)</small>
+
 ###### Artículo 62.
 
-Los consejos de administración de las empresas productivas subsidiarias deberán integrarse por no menos de cinco ni más de siete miembros, cuidando que exista mayoría de miembros que representen al Gobierno Federal y que se prevea la participación de consejeros independientes. Asimismo, deberá preverse, al menos, la existencia de un Comité de Auditoría y de una Auditoría Interna.
+Los consejos de administración de las empresas productivas subsidiarias deberán integrarse procurando observar el principio de paridad, por no menos de cinco ni más de siete integrantes, cuidando que exista mayoría de representantes del Gobierno Federal y que se prevea la participación de consejeras y consejeros independientes. Asimismo, deberá preverse, al menos, la existencia de un Comité de Auditoría y de una Auditoría Interna.
 
-Los requisitos previstos en los artículos 19 y 20 de esta Ley, serán aplicables a los consejeros del Gobierno Federal y los consejeros independientes, respectivamente, que integren los consejos de administración de las empresas productivas subsidiarias.
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
 
-Los miembros de los consejos de administración de las empresas productivas subsidiarias estarán sujetos al mismo régimen de responsabilidades que esta Ley prevé para los integrantes del Consejo de Administración de la Comisión Federal de Electricidad.
+Los requisitos previstos en los artículos 19 y 20 de esta Ley, serán aplicables a las consejeras y los consejeros independientes y del Gobierno Federal, respectivamente, que integren los consejos de administración de las empresas productivas subsidiarias.
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
+
+Las personas integrantes de los consejos de administración de las empresas productivas subsidiarias se sujetarán al régimen de responsabilidades que esta Ley prevé para las y los integrantes del Consejo de Administración de la Comisión Federal de Electricidad.
 
 Las facultades de decisión que no se encuentren expresamente reservadas en esta Ley para el Consejo de Administración y el Director General de la Comisión Federal de Electricidad, serán ejercidas por los órganos de administración y dirección de las empresas productivas subsidiarias.
 
@@ -1616,3 +1644,13 @@ La Secretaría de Energía declara que se encuentra en funciones el nuevo Consej
 ## TRANSITORIO
 
 ÚNICO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DE LA LEY GENERAL DE SALUD, DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, DE LA LEY GENERAL DE CAMBIO CLIMÁTICO, DE LA LEY ORGÁNICA DE LA PROCURADURÍA DE LA DEFENSA DEL CONTRIBUYENTE, DE LA LEY ORGÁNICA DEL SEMINARIO DE CULTURA MEXICANA, DE LA LEY DE LA AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCIÓN AL MEDIO AMBIENTE DEL SECTOR HIDROCARBUROS, DE LA LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES, DE LA LEY QUE CREA LA AGENCIA DE NOTICIAS DEL ESTADO MEXICANO, DE LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO, DE LA LEY DE INSTITUCIONES DE SEGUROS Y DE FIANZAS, DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO, DE LA LEY DE LA INDUSTRIA ELÉCTRICA, DE LA LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PÁRRAFO OCTAVO DEL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMÍA, DE LA LEY DE LA CASA DE MONEDA DE MÉXICO, DE LA LEY DE CONCURSOS MERCANTILES, DE LA LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS, DE LA LEY DE AGUAS NACIONALES, DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY GENERAL DE DESARROLLO SOCIAL, DE LA LEY ORGÁNICA DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO, DE LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO, DE LA LEY FEDERAL DE VARIEDADES VEGETALES, DE LA LEY FEDERAL DE SANIDAD VEGETAL, DE LA LEY FEDERAL DE SANIDAD ANIMAL, DE LA LEY FEDERAL DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL, DE LA LEY ORGÁNICA DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA, DE LA LEY DE PROTECCIÓN AL AHORRO BANCARIO, DE LA LEY DE LOS INSTITUTOS NACIONALES DE SALUD, DE LA LEY DE CIENCIA Y TECNOLOGÍA, EN MATERIA DE PARIDAD DE GÉNERO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
