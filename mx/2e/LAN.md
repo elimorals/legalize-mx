@@ -4,7 +4,7 @@ identifier: "LAN"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-01"
-last_updated: "2020-01-06"
+last_updated: "2022-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAN"
 
 LEY DE AGUAS NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 1 de diciembre de 1992.
 
@@ -502,13 +502,17 @@ a. Un Consejo Técnico, y
 
 b. Un Director General.
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 10.
 
-El Consejo Técnico de "la Comisión" estará integrado por los titulares de las Secretarías de Medio Ambiente y Recursos Naturales, quien lo presidirá; Hacienda y Crédito Público; de Desarrollo Social; de Energía; de Economía; de Salud; y de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; así como del Instituto Mexicano de Tecnología del Agua y de la Comisión Nacional Forestal. Por cada representante propietario se designará a los suplentes necesarios con nivel de Subsecretario o equivalente. A propuesta del Consejo Técnico, el Titular del Ejecutivo Federal designará como miembros del propio Consejo, a dos representantes de los gobiernos de los estados y a un representante de una Organización Ciudadana de prestigio y experiencia relacionada con las funciones de "la Comisión". El Consejo Técnico se organizará y operará conforme a las reglas que expida para tal efecto.
+El Consejo Técnico de "la Comisión" estará integrado por las personas titulares de las Secretarías de Medio Ambiente y Recursos Naturales, quien lo presidirá; Hacienda y Crédito Público; de Bienestar; de Energía; de Economía; de Salud; y de Agricultura y Desarrollo Rural; así como del Instituto Mexicano de Tecnología del Agua y de la Comisión Nacional Forestal. Por cada persona representante propietaria se designará a las suplencias necesarias con nivel de Subsecretaría o equivalente. A propuesta del Consejo Técnico, la persona Titular del Ejecutivo Federal designará como miembros del propio Consejo, observando el principio de paridad de género, a dos representantes de los gobiernos de los estados y a un representante de una Organización Ciudadana de prestigio y experiencia relacionada con las funciones de "la Comisión".
 
-El Consejo Técnico cuando así lo considere conveniente, podrá invitar a sus sesiones a los titulares de las demás dependencias y entidades de la Administración Pública Federal y a otros representantes de los estados, de los municipios, de los usuarios y de la sociedad organizada, los cuales podrán intervenir con voz, pero sin voto. En las sesiones del Consejo Técnico, participará con voz, pero sin voto, el Director General de "la Comisión".
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
+
+El Consejo Técnico cuando así lo considere conveniente, podrá invitar a sus sesiones a las personas titulares de las demás dependencias y entidades de la Administración Pública Federal y a otras personas representantes de los estados, de los municipios, de los usuarios y de la sociedad organizada, quienes podrán intervenir con voz, pero sin voto. En las sesiones del Consejo Técnico, participará con voz, pero sin voto, la persona titular de la Dirección General de "la Comisión".
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 La periodicidad y forma de convocatoria de las sesiones del Consejo Técnico se hará conforme a lo dispuesto en el Reglamento Interior de "la Comisión".
 
@@ -3541,3 +3545,13 @@ D.O.F. 6 DE ENERO DE 2020.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 11 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DE LA LEY GENERAL DE SALUD, DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, DE LA LEY GENERAL DE CAMBIO CLIMÁTICO, DE LA LEY ORGÁNICA DE LA PROCURADURÍA DE LA DEFENSA DEL CONTRIBUYENTE, DE LA LEY ORGÁNICA DEL SEMINARIO DE CULTURA MEXICANA, DE LA LEY DE LA AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCIÓN AL MEDIO AMBIENTE DEL SECTOR HIDROCARBUROS, DE LA LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES, DE LA LEY QUE CREA LA AGENCIA DE NOTICIAS DEL ESTADO MEXICANO, DE LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO, DE LA LEY DE INSTITUCIONES DE SEGUROS Y DE FIANZAS, DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO, DE LA LEY DE LA INDUSTRIA ELÉCTRICA, DE LA LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PÁRRAFO OCTAVO DEL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMÍA, DE LA LEY DE LA CASA DE MONEDA DE MÉXICO, DE LA LEY DE CONCURSOS MERCANTILES, DE LA LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS, DE LA LEY DE AGUAS NACIONALES, DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY GENERAL DE DESARROLLO SOCIAL, DE LA LEY ORGÁNICA DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO, DE LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO, DE LA LEY FEDERAL DE VARIEDADES VEGETALES, DE LA LEY FEDERAL DE SANIDAD VEGETAL, DE LA LEY FEDERAL DE SANIDAD ANIMAL, DE LA LEY FEDERAL DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL, DE LA LEY ORGÁNICA DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA, DE LA LEY DE PROTECCIÓN AL AHORRO BANCARIO, DE LA LEY DE LOS INSTITUTOS NACIONALES DE SALUD, DE LA LEY DE CIENCIA Y TECNOLOGÍA, EN MATERIA DE PARIDAD DE GÉNERO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
