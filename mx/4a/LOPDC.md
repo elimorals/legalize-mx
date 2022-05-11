@@ -4,7 +4,7 @@ identifier: "LOPDC"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-09-04"
-last_updated: "2009-09-07"
+last_updated: "2022-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPDC"
 
 LEY ORGANICA DE LA PROCURADURIA DE LA DEFENSA DEL CONTRIBUYENTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -158,15 +158,19 @@ V. No haber sido condenado por sentencia irrevocable, por delito intencional que
 
 VI. Ser de reconocida competencia profesional y honorabilidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE MAYO DE 2022)</small>
+
 ###### Artículo 8.
 
-El Procurador de la Defensa del Contribuyente está obligado a:
+La persona titular de la Procuraduría de la Defensa del Contribuyente está obligada a:
 
 I. Velar por el cumplimiento de las funciones de la Procuraduría;
 
 II. Ejercer con probidad los recursos presupuestales que se le asignen;
 
-III. Determinar los nombramientos de los asesores;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
+
+III. Determinar los nombramientos de las personas que prestarán sus servicios de asesoría;
 
 IV. Elaborar y presentar al Órgano de Gobierno, para su aprobación, el proyecto de presupuesto de la Procuraduría. Dicha aprobación estará sujeta a las reglas que para el efecto se establezcan en el Estatuto Orgánico;
 
@@ -188,17 +192,21 @@ XII. Las demás que se determinen en cualquier otra disposición.
 
 Las funciones establecidas en las fracciones IV, VI, VII, IX y X, son indelegables.
 
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
+
 ###### Artículo 9.
 
-La designación del Procurador de la Defensa del Contribuyente, será realizada por el Senado de la República o, en su caso, por la Comisión Permanente del Congreso de la Unión, de entre la terna que someta a su consideración el Presidente de la República.
+La designación de la persona titular de la Procuraduría de la Defensa del Contribuyente, será realizada por el Senado de la República o, en su caso, por la Comisión Permanente del Congreso de la Unión, de entre la terna que someta a su consideración la persona titular de la Presidencia de la República.
 
-El Procurador de la Defensa del Contribuyente durará en su encargo cuatro años y podrá ser ratificado para un segundo período. Podrá ser destituido y sujeto a responsabilidad por las causas y conforme a las disposiciones aplicables de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, sin perjuicio de la responsabilidad penal en que pudiere incurrir.
+La persona titular de la Procuraduría de la Defensa del Contribuyente durará en su encargo cuatro años y podrá ser ratificada para un segundo período. Podrá ser destituida y sujeta a responsabilidad por las causas y conforme a las disposiciones aplicables de la Ley General de Responsabilidades Administrativas, sin perjuicio de la responsabilidad penal en que pudiere incurrir.
 
-El Procurador de la Defensa del Contribuyente, durante el ejercicio de su encargo, no podrá desempeñar ningún otro cargo público, de elección popular, empleo o comisión, salvo que se trate de actividades estrictamente académicas.
+La persona titular de la Procuraduría de la Defensa del Contribuyente, durante el ejercicio de su encargo, no podrá desempeñar ningún otro cargo público, de elección popular, empleo o comisión, salvo que se trate de actividades estrictamente académicas.
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
 
 ###### Artículo 10.
 
-Los asesores jurídicos deberán reunir para su nombramiento, los mismos requisitos que el Procurador, exceptuando las fracciones III y IV del artículo 7, ya que será necesario que cuenten con experiencia acreditada en materia fiscal por un período continuo de dos años inmediato anterior a su nombramiento.
+Las y los asesores jurídicos deberán reunir para su nombramiento, los mismos requisitos que la persona titular de la Procuraduría de la Defensa del Contribuyente, exceptuando las fracciones III y IV del artículo 7, ya que será necesario que cuenten con experiencia acreditada en materia fiscal por un período continuo de dos años inmediato anterior a su nombramiento, en la selección se deberá garantizar el principio de paridad de género.
 
 ###### Artículo 11.
 
@@ -212,29 +220,29 @@ III.- Llevar un registro y expediente de control por cada caso que se le present
 
 IV.- Las demás que resulten de la naturaleza de su función, de la disposición de la Ley y las que les sean encomendadas por el Procurador de la Defensa del Contribuyente.
 
-Artículo. 12.- El Órgano de Gobierno de la Procuraduría es un cuerpo colegiado que se integra de la siguiente manera:
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
 
-I.- El Procurador de la Defensa del Contribuyente, quien tendrá voto de calidad en caso de empate en las decisiones del Órgano de Gobierno, y
+###### Artículo 12.
 
-> <small>(REFORMADA, D.O.F. 7 DE SEPTIEMBRE DE 2009)</small>
+El Órgano de Gobierno de la Procuraduría es un cuerpo colegiado integrado, procurando observar el principio de paridad, por:
 
-II.- Seis consejeros independientes, los cuales serán designados por el titular del Ejecutivo Federal.
+I.- La persona titular de la Procuraduría de la Defensa del Contribuyente, quien tendrá voto de calidad en caso de empate en las decisiones del Órgano de Gobierno, y
 
-> <small>(REFORMADO, D.O.F. 7 DE SEPTIEMBRE DE 2009)</small>
+II.- Seis personas que fungirán como consejeras o consejeros independientes, quienes serán designadas por la persona titular del Ejecutivo Federal.
 
-El Presidente de la República preservará un adecuado equilibrio al designar a dichos consejeros, tomando en cuenta a los representantes de las principales universidades del país, a los representantes de asociaciones profesionales, así como a las principales cámaras empresariales. Estos nombramientos deberán recaer en personas que cuenten con amplia experiencia en la materia tributaria y quienes por sus conocimientos, honorabilidad, prestigio profesional y experiencia sean ampliamente reconocidos y puedan constituir a mejorar las funciones de la Procuraduría.
+La persona titular de la Presidencia de la República preservará un adecuado equilibrio al designar a dichas consejeras y consejeros, tomando en cuenta a las representaciones de las principales universidades del país, a las representaciones de asociaciones profesionales, así como a las principales cámaras empresariales, observando en todo momento el principio de paridad de género. Estos nombramientos deberán recaer en personas que cuenten con amplia experiencia en la materia tributaria y quienes por sus conocimientos, honorabilidad, prestigio profesional y experiencia sean ampliamente reconocidos y puedan contribuir a mejorar las funciones de la Procuraduría.
 
-Al aceptar el cargo cada consejero independiente deberá suscribir un documento donde declare, bajo protesta de decir verdad, que no tiene impedimento alguno para desempeñarse como consejero, así como aceptar los derechos y obligaciones derivados de tal cargo.
+Al aceptar el cargo cada consejera o consejero independiente deberá suscribir un documento donde declare, bajo protesta de decir verdad, que no tiene impedimento alguno para desempeñarse como consejera o consejero, así como aceptar los derechos y obligaciones derivados del mismo.
 
-Los consejeros independientes deberán cumplir para su nombramiento, los mismos requisitos que el Procurador, exceptuando lo dispuesto en la fracción III del artículo 7.
+Las personas que funjan como consejeras y consejeros independientes deberán cumplir para su nombramiento, los mismos requisitos que quien encabece la Procuraduría, exceptuando lo dispuesto en la fracción III del artículo 7.
 
-Cada Consejero Independiente tendrá un suplente. El suplente se designará junto con el nombramiento del consejero independiente de que se trate. El cargo de consejero es honorífico y durará en su encargo hasta cuatro años.
+Cada persona que funja como consejera o consejero independiente tendrá una suplencia. Esa suplencia se designará junto con el nombramiento de la consejería independiente de que se trate y deberá ser del mismo género para mantener el principio de paridad. El cargo de consejera o consejero es honorífico y durará en su encargo hasta cuatro años.
 
-El Órgano de Gobierno sesionará de manera ordinaria, cuando menos, una vez cada tres meses y extraordinariamente cuando sea necesario. En ambos casos, se requiere un quórum de mayoría simple de sus integrantes para su funcionamiento, y las resoluciones que adopten para su validez serán tomadas por la mitad más uno de los consejeros presentes con derecho a voto.
+El Órgano de Gobierno sesionará de manera ordinaria, cuando menos, una vez cada tres meses y extraordinariamente cuando sea necesario. En ambos casos, se requiere un quórum de mayoría simple de sus integrantes para su funcionamiento, y las resoluciones que adopten para su validez serán tomadas por la mitad más uno de sus integrantes presentes con derecho a voto.
 
-Todos los miembros del Órgano de Gobierno tienen derecho de voz y voto.
+Todas las personas integrantes del Órgano de Gobierno tienen derecho de voz y voto.
 
-Las sesiones del Órgano de Gobierno serán convocadas por el Procurador, o mediante solicitud que formulen a éste cuando menos tres de sus miembros. Las demás reglas para el debido funcionamiento del Órgano de Gobierno se establecerán en el Estatuto Orgánico.
+Las sesiones del Órgano de Gobierno serán convocadas por la persona titular de la Procuraduría, o mediante solicitud formulada por cuando menos tres de sus integrantes. Las reglas para el debido funcionamiento del Órgano de Gobierno se establecerán en el Estatuto Orgánico.
 
 ###### Artículo 13.
 
@@ -417,3 +425,13 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 7 DE SEPTIEMBRE DE 2009.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DE LA LEY GENERAL DE SALUD, DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, DE LA LEY GENERAL DE CAMBIO CLIMÁTICO, DE LA LEY ORGÁNICA DE LA PROCURADURÍA DE LA DEFENSA DEL CONTRIBUYENTE, DE LA LEY ORGÁNICA DEL SEMINARIO DE CULTURA MEXICANA, DE LA LEY DE LA AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCIÓN AL MEDIO AMBIENTE DEL SECTOR HIDROCARBUROS, DE LA LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES, DE LA LEY QUE CREA LA AGENCIA DE NOTICIAS DEL ESTADO MEXICANO, DE LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO, DE LA LEY DE INSTITUCIONES DE SEGUROS Y DE FIANZAS, DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO, DE LA LEY DE LA INDUSTRIA ELÉCTRICA, DE LA LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PÁRRAFO OCTAVO DEL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMÍA, DE LA LEY DE LA CASA DE MONEDA DE MÉXICO, DE LA LEY DE CONCURSOS MERCANTILES, DE LA LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS, DE LA LEY DE AGUAS NACIONALES, DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY GENERAL DE DESARROLLO SOCIAL, DE LA LEY ORGÁNICA DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO, DE LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO, DE LA LEY FEDERAL DE VARIEDADES VEGETALES, DE LA LEY FEDERAL DE SANIDAD VEGETAL, DE LA LEY FEDERAL DE SANIDAD ANIMAL, DE LA LEY FEDERAL DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL, DE LA LEY ORGÁNICA DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA, DE LA LEY DE PROTECCIÓN AL AHORRO BANCARIO, DE LA LEY DE LOS INSTITUTOS NACIONALES DE SALUD, DE LA LEY DE CIENCIA Y TECNOLOGÍA, EN MATERIA DE PARIDAD DE GÉNERO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
