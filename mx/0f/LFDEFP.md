@@ -4,7 +4,7 @@ identifier: "LFDEFP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1998-05-28"
-last_updated: "2021-06-07"
+last_updated: "2022-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11736&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFDEFP"
 
 LEY FEDERAL DE DEFENSORÍA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el jueves 28 de mayo de 1998.
 
@@ -374,9 +374,11 @@ Los servicios que se realicen por prestadores de servicio social en todo momento
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
+
 ###### Artículo 23.
 
-El Instituto Federal de Defensoría Pública contará con una Junta Directiva, un Director General y las unidades administrativas y personal técnico que para el adecuado desempeño de sus funciones se determinen en el presupuesto.
+El Instituto Federal de Defensoría Pública contará con una Junta Directiva, una Dirección General y las unidades administrativas y personal técnico que para el adecuado desempeño de sus funciones se determinen en el presupuesto.
 
 ###### Artículo 24.
 
@@ -392,17 +394,21 @@ Para el adecuado cumplimiento de sus funciones, el Instituto Federal de Defensor
 
 ### CAPÍTULO II. De la Junta Directiva
 
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
+
 ###### Artículo 27.
 
-La Junta Directiva estará integrada por el Director General del Instituto Federal de Defensoría Pública, quien la presidirá y por seis profesionales del Derecho de reconocido prestigio, nombrados por el Consejo de la Judicatura Federal, a propuesta de su Presidente.
+La Junta Directiva estará integrada por la persona titular de la Dirección General del Instituto Federal de Defensoría Pública, quien la presidirá y por seis personas profesionales del Derecho de reconocido prestigio, nombrados por el Consejo de la Judicatura Federal, a propuesta de su Presidencia, observando el principio de paridad de género.
 
-Los miembros de la Junta Directiva realizarán sus funciones de manera personal e indelegable. Durarán en su cargo tres años y podrán ser reelectos por una sola ocasión.
+Las personas que integren la Junta Directiva realizarán sus funciones de manera personal e indelegable. Durarán en su cargo tres años y podrán reelegirse por una sola ocasión.
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
 
 ###### Artículo 28.
 
-La Junta Directiva sesionará con un mínimo de cuatro miembros y tomará sus decisiones por mayoría de votos de los miembros presentes. En caso de empate el Director General tendrá voto de calidad.
+La Junta Directiva sesionará con un mínimo de cuatro integrantes y tomará sus decisiones por mayoría de votos de las personas integrantes que se encuentren presentes. En caso de empate la persona titular de la Dirección General tendrá voto de calidad.
 
-Las sesiones ordinarias se verificarán cuando menos cada seis meses, sin perjuicio de que puedan convocarse por el Director General o mediante solicitud que a éste formulen por lo menos tres miembros de la Junta Directiva, cuando se estime que hay razones de importancia para ello.
+Las sesiones ordinarias se verificarán cuando menos cada seis meses, sin perjuicio de que puedan convocarse por la persona titular de la Dirección General o mediante solicitud que a éste formulen por lo menos tres integrantes de la Junta Directiva, cuando se estime que hay razones de importancia para ello.
 
 ###### Artículo 29.
 
@@ -436,49 +442,67 @@ XI. Examinar y aprobar los informes periódicos que someta a su consideración e
 
 XII. Las demás que le otorgue esta Ley y otras disposiciones jurídicas aplicables.
 
-### CAPÍTULO III. Del Director General
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 11 DE MAYO DE 2022)</small>
+
+### CAPÍTULO III. De la Dirección General
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
 
 ###### Artículo 30.
 
-El Director General del Instituto Federal de Defensoría Pública será nombrado por el Consejo de la Judicatura Federal, a propuesta de su Presidente y durará tres años en su cargo, pudiendo ser reelecto.
+La persona titular de la Dirección General del Instituto Federal de Defensoría Pública será nombrada por el Consejo de la Judicatura Federal, a propuesta de su Presidencia, y durará tres años en su cargo, pudiendo ser reelecta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE MAYO DE 2022)</small>
 
 ###### Artículo 31.
 
-El Director General del Instituto deberá reunir para su designación, los requisitos siguientes:
+La persona titular de la Dirección General del Instituto deberá reunir para su designación, los requisitos siguientes:
 
-I. Ser ciudadano mexicano por nacimiento, no haber adquirido otra nacionalidad y estar en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
+
+I. Contar con la ciudadanía mexicana por nacimiento, no haber adquirido otra nacionalidad y estar en pleno ejercicio de sus derechos civiles y políticos;
 
 II. Tener cuando menos treinta años de edad, el día de su designación;
 
-III. Acreditar experiencia de tres años en el ejercicio de la abogacía, relacionada especialmente, con las materias afines a sus funciones; y poseer, al día de la designación, título y cédula profesional de licenciado en derecho, expedido por la autoridad o institución legalmente facultada para ello con antigüedad mínima de cinco años computada al día de su designación, y
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
 
-IV. Gozar de buena reputación, prestigio profesional y no haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año. Empero, si se tratare de ilícitos como el robo, fraude, falsificación, abuso de confianza u otro que lesione seriamente la buena fama de la persona en el concepto público, inhabilitará a ésta para ocupar el cargo cualquiera que haya sido la penalidad impuesta.
+III. Acreditar experiencia de tres años en el ejercicio de la abogacía, relacionada especialmente, con las materias afines a sus funciones; y poseer, al día de la designación, título y cédula profesional de licenciatura en derecho, expedido por la autoridad o institución legalmente facultada para ello con antigüedad mínima de cinco años computada al día de su designación, y
 
-El Consejo de la Judicatura Federal procurará preferir, en igualdad de circunstancias, a quien haya desempeñado el cargo de defensor público o similar.
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+IV. Gozar de buena reputación, prestigio profesional y no contar con condena por delito doloso con sanción privativa de libertad mayor de un año. Empero, si se tratare de ilícitos como el robo, fraude, falsificación, abuso de confianza u otro que lesione seriamente la buena fama de la persona en el concepto público, inhabilitará a ésta para ocupar el cargo cualquiera que haya sido la penalidad impuesta.
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
+
+El Consejo de la Judicatura Federal procurará preferir, en igualdad de circunstancias, a quien haya desempeñado el cargo en la defensoría pública o similar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE MAYO DE 2022)</small>
 
 ###### Artículo 32.
 
-El director general del Instituto Federal de Defensoría Pública tendrá las atribuciones siguientes:
+La persona titular de la Dirección General del Instituto Federal de Defensoría Pública tendrá las atribuciones siguientes:
 
 I. Organizar, dirigir, evaluar y controlar los servicios de defensoría pública que preste el Instituto Federal de Defensoría Pública, así como sus unidades administrativas;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
 
-II. Dar seguimiento a los asuntos penales cuya defensa esté a cargo de los defensores públicos federales, mediante el sistema que corresponda;
+II. Dar seguimiento a los asuntos penales cuya defensa esté a cargo de la defensoría pública federal, mediante el sistema que corresponda;
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
 
-III. Particularmente dar seguimiento a los asuntos penales que se estén asistiendo por defensores públicos federales a efecto de conocer si los procesados o imputados con derecho a libertad caucional o medida cautelar distinta a la prisión preventiva están haciendo uso de esa prerrogativa, si cumplen con la obligación de presentarse en los plazos fijados, así como si los procesos se encuentran suspendidos o ha transcurrido el término de prescripción de la acción penal;
+III. Particularmente dar seguimiento a los asuntos penales que se estén asistiendo por la defensoría pública federal a efecto de conocer si las personas procesadas o imputadas con derecho a libertad caucional o medida cautelar distinta a la prisión preventiva están haciendo uso de esa prerrogativa, si cumplen con la obligación de presentarse en los plazos fijados, así como si los procesos se encuentran suspendidos o ha transcurrido el término de prescripción de la acción penal;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
 
-IV. Enviar las quejas que se presenten contra los defensores públicos y asesores jurídicos al Consejo de la Judicatura Federal, para que éste investigue la probable responsabilidad de los empleados del Instituto Federal de Defensoría Pública;
+IV. Enviar las quejas que se presenten contra las defensoras y los defensores públicos, así como las presentadas contra las asesoras y los asesores jurídicos al Consejo de la Judicatura Federal, para que éste investigue la probable responsabilidad de las y los empleados del Instituto Federal de Defensoría Pública;
 
-V. Vigilar que se cumplan todas y cada una de las obligaciones impuestas a los defensores públicos y asesores jurídicos; determinando, si han incurrido en alguna causal de responsabilidad por parte de éstos o de los empleados del Instituto Federal de Defensoría Pública;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
 
-VI. Proponer a la Junta Directiva las políticas que estime convenientes para la mayor eficacia de la defensa de los inculpados;
+V. Vigilar que se cumplan todas y cada una de las obligaciones impuestas a las defensoras y defensores públicos, así como a las asesoras y asesores jurídicos; determinando, si han incurrido en alguna causal de responsabilidad por parte de éstos o de las personas trabajadoras del Instituto Federal de Defensoría Pública;
+
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
+
+VI. Proponer a la Junta Directiva las políticas que estime convenientes para la mayor eficacia de la defensa de las personas inculpadas;
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
@@ -492,7 +516,9 @@ IX. Promover y fortalecer las relaciones del Instituto Federal de Defensoría P�
 
 X. Proponer a la Junta Directiva el proyecto de Plan Anual de Capacitación y estímulos del Instituto Federal de Defensoría Pública; así como un programa de difusión de los servicios del Instituto;
 
-XI. Elaborar un informe anual de labores sobre las actividades integrales desarrolladas por todos y cada uno de los defensores públicos y asesores jurídicos que pertenezcan al Instituto Federal de Defensoría Pública, el cual deberá ser publicado;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
+
+XI. Elaborar un informe anual de labores sobre las actividades integrales desarrolladas por todos y cada una de las defensorías públicas y asesorías jurídicas que pertenezcan al Instituto Federal de Defensoría Pública, el cual deberá ser publicado;
 
 XII. Elaborar la propuesta de anteproyecto de presupuesto que se someta a la consideración de la Junta Directiva, y
 
@@ -500,17 +526,23 @@ XIII. Las demás que sean necesarias para cumplir con el objeto de esta Ley.
 
 ### CAPÍTULO IV. De las Unidades Administrativas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE MAYO DE 2022)</small>
+
 ###### Artículo 33.
 
-Los titulares de las Unidades Administrativas, deberán reunir para su designación, los siguientes requisitos:
+Las personas titulares de las Unidades Administrativas deberán reunir para su designación, los siguientes requisitos:
 
-I. Ser ciudadano mexicano y estar en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
+
+I. Contar con la ciudadanía mexicana y estar en pleno ejercicio de sus derechos civiles y políticos;
 
 II. Ser mayor de treinta años de edad, el día de su nombramiento;
 
 III. Tener título profesional legalmente expedido y registrado y experiencia en la materia, de acuerdo con las funciones que deba desempeñar, cuando menos con cinco años de antigüedad, y
 
-IV. Gozar de buena reputación, prestigio profesional y no haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año o cualquier otro delito que dañe la buena fama de la persona, cualquiera que haya sido la pena.
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
+
+IV. Gozar de buena reputación, prestigio profesional y no contar con condena por delito doloso con sanción privativa de libertad mayor de un año o cualquier otro delito que dañe la buena fama de la persona, cualquiera que haya sido la pena.
 
 ### CAPÍTULO V. De los impedimentos
 
@@ -863,3 +895,13 @@ Décimo Segundo. Se abroga la Ley Orgánica del Poder Judicial de la Federación
 (NOTA: EL 16 DE NOVIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 95/2021 Y SU ACUMULADA 105/2021, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO DÉCIMO TERCERO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE NOVIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 DÉCIMO TERCERO. CON EL FIN DE IMPLEMENTAR LA REFORMA CONSTITUCIONAL AL PODER JUDICIAL DE LA FEDERACIÓN PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 11 DE MARZO DE 2021 Y LAS LEYES REGLAMENTARIAS A LAS QUE SE REFIERE EL PRESENTE DECRETO, LA PERSONA QUE A SU ENTRADA EN VIGOR OCUPE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL DURARÁ EN ESE ENCARGO HASTA EL 30 DE NOVIEMBRE DE 2024. ASIMISMO, EL CONSEJERO DE LA JUDICATURA FEDERAL NOMBRADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL 1 DE DICIEMBRE DE 2016 CONCLUIRÁ SU ENCARGO EL 30 DE NOVIEMBRE DE 2023; EL CONSEJERO DE LA JUDICATURA FEDERAL NOMBRADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL 24 DE FEBRERO DE 2019 CONCLUIRÁ SUS FUNCIONES EL 23 DE FEBRERO DE 2026; EL CONSEJERO DE LA JUDICATURA FEDERAL NOMBRADO POR EL EJECUTIVO FEDERAL EL 18 DE NOVIEMBRE DE 2019 CONCLUIRÁ EL 17 DE NOVIEMBRE DE 2026; LAS CONSEJERAS DE LA JUDICATURA FEDERAL DESIGNADAS POR EL SENADO DE LA REPÚBLICA EL 20 DE NOVIEMBRE DE 2019 CONCLUIRÁN SU ENCARGO EL 19 DE NOVIEMBRE DE 2026; Y EL CONSEJERO DE LA JUDICATURA FEDERAL DESIGNADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL 1 DE DICIEMBRE DE 2019 DURARÁ EN FUNCIONES HASTA EL 30 DE NOVIEMBRE DE 2026.
+
+D.O.F. 11 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DE LA LEY GENERAL DE SALUD, DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, DE LA LEY GENERAL DE CAMBIO CLIMÁTICO, DE LA LEY ORGÁNICA DE LA PROCURADURÍA DE LA DEFENSA DEL CONTRIBUYENTE, DE LA LEY ORGÁNICA DEL SEMINARIO DE CULTURA MEXICANA, DE LA LEY DE LA AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCIÓN AL MEDIO AMBIENTE DEL SECTOR HIDROCARBUROS, DE LA LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES, DE LA LEY QUE CREA LA AGENCIA DE NOTICIAS DEL ESTADO MEXICANO, DE LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO, DE LA LEY DE INSTITUCIONES DE SEGUROS Y DE FIANZAS, DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO, DE LA LEY DE LA INDUSTRIA ELÉCTRICA, DE LA LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PÁRRAFO OCTAVO DEL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMÍA, DE LA LEY DE LA CASA DE MONEDA DE MÉXICO, DE LA LEY DE CONCURSOS MERCANTILES, DE LA LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS, DE LA LEY DE AGUAS NACIONALES, DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY GENERAL DE DESARROLLO SOCIAL, DE LA LEY ORGÁNICA DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO, DE LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO, DE LA LEY FEDERAL DE VARIEDADES VEGETALES, DE LA LEY FEDERAL DE SANIDAD VEGETAL, DE LA LEY FEDERAL DE SANIDAD ANIMAL, DE LA LEY FEDERAL DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL, DE LA LEY ORGÁNICA DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA, DE LA LEY DE PROTECCIÓN AL AHORRO BANCARIO, DE LA LEY DE LOS INSTITUTOS NACIONALES DE SALUD, DE LA LEY DE CIENCIA Y TECNOLOGÍA, EN MATERIA DE PARIDAD DE GÉNERO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
