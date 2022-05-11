@@ -4,7 +4,7 @@ identifier: "LBOGM"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-18"
-last_updated: "2020-11-06"
+last_updated: "2022-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43992&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LBOGM"
 
 LEY DE BIOSEGURIDAD DE ORGANISMOS GENETICAMENTE MODIFICADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 18 de marzo de 2005.
 
@@ -410,17 +410,19 @@ V. La Secretaría Ejecutiva de la CIBIOGEM contará con la estructura orgánica 
 
 VI. La CIBIOGEM también contará con un Comité Técnico integrado por los coordinadores, directores generales o equivalentes competentes en la materia que designen los titulares de las dependencias y entidades que formen parte de la CIBIOGEM. Dicho Comité podrá proponer la creación de subcomités especializados para la atención de asuntos específicos y tendrá las atribuciones que se determinen en las disposiciones reglamentarias que deriven de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO 20.
 
-Se crea el Consejo Consultivo Científico de la CIBIOGEM que fungirá como órgano de consulta obligatoria de la propia CIBIOGEM en aspectos técnicos y científicos en biotecnología moderna y bioseguridad de OGMs. Se integrará por un conjunto de expertos en diferentes disciplinas, provenientes de centros, instituciones de investigación, academias o sociedades científicas de reconocido prestigio, que ejercerán su función a título personal, con independencia de la institución, asociación o empresa de la que formen parte o en la que presten sus servicios. Dichos expertos manifestarán expresamente en carta compromiso, al momento de ser designados como integrantes del Consejo Consultivo Científico, no tener ningún conflicto de interés.
+Se crea el Consejo Consultivo Científico de la CIBIOGEM que fungirá como órgano de consulta obligatoria de la propia CIBIOGEM en aspectos técnicos y científicos en biotecnología moderna y bioseguridad de OGMs. Se integrará por un conjunto de personas expertas en diferentes disciplinas, provenientes de centros, instituciones de investigación, academias o sociedades científicas de reconocido prestigio, que ejercerán su función a título personal, con independencia de la institución, asociación o empresa de la que formen parte o en la que presten sus servicios. Dichas personas expertas manifestarán expresamente en carta compromiso, al momento de ser designadas como integrantes del Consejo Consultivo Científico, no tener ningún conflicto de interés.
 
-La selección de los integrantes del Consejo Consultivo Científico se realizará mediante convocatoria pública que emitan conjuntamente el CONACyT y el Foro Consultivo Científico y Tecnológico previsto en la Ley de Ciencia y Tecnología. Entre las funciones del Consejo Consultivo se preverá la formulación de protocolos de investigación, análisis y metodologías y dictámenes técnicos, que podrán ser remunerados.
+La selección de las personas integrantes del Consejo Consultivo Científico se realizará mediante convocatoria pública que emitan conjuntamente el CONACyT y el Foro Consultivo Científico y Tecnológico previsto en la Ley de Ciencia y Tecnología, garantizando el principio de paridad de género. Entre las funciones del Consejo Consultivo se preverá la formulación de protocolos de investigación, análisis y metodologías y dictámenes técnicos, que podrán ser remunerados. Las funciones específicas del Consejo Consultivo y los mecanismos para que la renovación de sus integrantes sea progresiva y escalonada, se establecerán en las disposiciones reglamentarias que deriven de esta Ley. Los dictámenes técnicos que emita el Consejo Consultivo Científico deberán ser considerados por la CIBIOGEM en las decisiones que adopte.
 
-Las funciones específicas del Consejo Consultivo y los mecanismos para que la renovación de sus miembros sea progresiva y escalonada, se establecerán en las disposiciones reglamentarias que deriven de esta Ley. Los dictámenes técnicos que emita el Consejo Consultivo Científico deberán ser considerados por la CIBIOGEM en las decisiones que adopte.
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
 
 ###### ARTÍCULO 21.
 
-Se crea el Consejo Consultivo Mixto de la CIBIOGEM que fungirá como órgano auxiliar de consulta y opinión de la propia CIBIOGEM. Se integrará por representantes de asociaciones, cámaras o empresas de los sectores privado, social y productivo. Su función fundamental será conocer y opinar sobre aspectos sociales, económicos, y otros aspectos relativos a las políticas regulatorias y de fomento, así como sobre las prioridades en la normalización y el mejoramiento de trámites y procedimientos en materia de bioseguridad de los OGMs. Las funciones específicas del Consejo Consultivo Mixto y los mecanismos para la incorporación de sus integrantes serán establecidas por la CIBIOGEM.
+Se crea el Consejo Consultivo Mixto de la CIBIOGEM que fungirá como órgano auxiliar de consulta y opinión de la propia CIBIOGEM. Se integrará garantizando el principio de paridad de género, por representantes de asociaciones, cámaras o empresas de los sectores privado, social y productivo. Su función fundamental será conocer y opinar sobre aspectos sociales, económicos, y otros aspectos relativos a las políticas regulatorias y de fomento, así como sobre las prioridades en la normalización y el mejoramiento de trámites y procedimientos en materia de bioseguridad de los OGMs. Las funciones específicas del Consejo Consultivo Mixto y los mecanismos para la incorporación de sus integrantes serán establecidas por la CIBIOGEM.
 
 ###### ARTÍCULO 22.
 
@@ -1541,3 +1543,13 @@ A partir del 1o. de enero de 2021, el Fideicomiso Fondo de Desastres Naturales n
 Los remanentes de recursos de este Fideicomiso se deberán concentrar a más tardar el 30 de junio de 2021, por concepto de aprovechamientos, a la Tesorería de la Federación y se destinarán por la Secretaría de Hacienda y Crédito Público para la atención de desastres naturales, así como para cubrir las obligaciones pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
 
 Vigésimo. Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los actos jurídicos que se requieran, en coordinación con las Entidades Federativas en las que se localizan las citadas cajas de ahorro, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización que hayan sido reportados por la SHCP.
+
+D.O.F. 11 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DE LA LEY GENERAL DE SALUD, DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, DE LA LEY GENERAL DE CAMBIO CLIMÁTICO, DE LA LEY ORGÁNICA DE LA PROCURADURÍA DE LA DEFENSA DEL CONTRIBUYENTE, DE LA LEY ORGÁNICA DEL SEMINARIO DE CULTURA MEXICANA, DE LA LEY DE LA AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCIÓN AL MEDIO AMBIENTE DEL SECTOR HIDROCARBUROS, DE LA LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES, DE LA LEY QUE CREA LA AGENCIA DE NOTICIAS DEL ESTADO MEXICANO, DE LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO, DE LA LEY DE INSTITUCIONES DE SEGUROS Y DE FIANZAS, DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO, DE LA LEY DE LA INDUSTRIA ELÉCTRICA, DE LA LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PÁRRAFO OCTAVO DEL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMÍA, DE LA LEY DE LA CASA DE MONEDA DE MÉXICO, DE LA LEY DE CONCURSOS MERCANTILES, DE LA LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS, DE LA LEY DE AGUAS NACIONALES, DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY GENERAL DE DESARROLLO SOCIAL, DE LA LEY ORGÁNICA DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO, DE LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO, DE LA LEY FEDERAL DE VARIEDADES VEGETALES, DE LA LEY FEDERAL DE SANIDAD VEGETAL, DE LA LEY FEDERAL DE SANIDAD ANIMAL, DE LA LEY FEDERAL DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL, DE LA LEY ORGÁNICA DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA, DE LA LEY DE PROTECCIÓN AL AHORRO BANCARIO, DE LA LEY DE LOS INSTITUTOS NACIONALES DE SALUD, DE LA LEY DE CIENCIA Y TECNOLOGÍA, EN MATERIA DE PARIDAD DE GÉNERO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
