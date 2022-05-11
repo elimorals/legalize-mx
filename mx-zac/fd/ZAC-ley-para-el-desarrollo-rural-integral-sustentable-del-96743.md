@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-el-desarrollo-rural-integral-sustentable-del-96743"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-30"
-last_updated: "2021-08-11"
+last_updated: "2022-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2022.
 
 Ley publicada en el Suplemento 2 del Periódico Oficial del Estado de Zacatecas, el sábado 30 de noviembre de 2013.
 
@@ -1141,6 +1141,10 @@ Obras de infraestructura productiva
 
 El Ejecutivo del Estado, en coordinación con el Consejo Zacatecano, promoverá la creación y restauración de obras de infraestructura productiva tales como pozos, bordos, represas, bodegas para centros de acopio así como adquisición o reparación de maquinaria y equipo.
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2022)</small>
+
+Con el auxilio de las autoridades municipales en materia de protección civil y las dependencias y entidades federales competentes, así como con el apoyo de los Consejos Regionales y Municipales, vigilar el buen estado de dicha infraestructura, con el objeto de evitar riesgos en la población derivados de alguna contingencia por daños en la infraestructura.
+
 Inventario
 
 ###### Artículo 72.
@@ -1155,7 +1159,9 @@ III. Patios o terrenos de maniobras;
 
 IV. Basculas de gran tonelaje;
 
-V. Presas y Sistemas de Riego;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2022)</small>
+
+V. Presas, Bordos y Sistemas de Riego;
 
 VI. Caminos rurales;
 
@@ -1630,3 +1636,11 @@ QUINTO. Los apicultores que ya cuentan con apiarios instalados en el Estado, en 
 SEXTO. Los apicultores que ya estén instalados y que no se encuentren registrados, tendrán un plazo de ciento ochenta días para obtener su registro ante la Secretaría.
 
 SÉPTIMO. El Programa Estatal deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, dentro de los ciento veinte días naturales posteriores a la entrada en vigor del presente ordenamiento.
+
+P.O. 11 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 100. SE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se derogan aquellas disposiciones que contravengan el presente Decreto.
