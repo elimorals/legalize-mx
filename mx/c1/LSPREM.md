@@ -4,7 +4,7 @@ identifier: "LSPREM"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-14"
-last_updated: "2021-05-20"
+last_updated: "2022-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101768&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LSPREM"
 
 LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el lunes 14 de julio de 2014.
 
@@ -226,29 +226,31 @@ II. El Presidente.
 
 La Presidencia contará con la estructura administrativa que se establezca en el Estatuto Orgánico. Los cargos en la Junta de Gobierno serán de carácter honorífico.
 
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
+
 ###### Artículo 14.
 
-La Junta de Gobierno se integrará por:
+La Junta de Gobierno se integrará conforme al principio de paridad de género por:
 
-a) El Presidente del Sistema;
+a) La persona que presida el Sistema;
 
-b) Un representante de la Secretaría de Gobernación;
+b) Una persona representante de la Secretaría de Gobernación;
 
-c) Un representante de la Secretaría de Educación Pública;
+c) Una persona representante de la Secretaría de Educación Pública;
 
-d) Un representante de la Secretaría de Salud, y
+d) Una persona representante de la Secretaría de Salud, y
 
-e) Tres representantes del Consejo Ciudadano.
+e) Tres personas representantes del Consejo Ciudadano.
 
-Los representantes del Ejecutivo Federal deberán tener nivel mínimo de Director General y sus respectivos suplentes el nivel jerárquico inmediato inferior, los cuales contarán con las mismas facultades que los propietarios en caso de ausencia de éstos.
+Las y los representantes del Ejecutivo Federal deberán tener nivel mínimo de Dirección General y las personas que las y los suplan el nivel jerárquico inmediato inferior, quienes contarán con las mismas facultades que sus propietarias o propietarios en caso de ausencia.
 
-Los integrantes designados por el Consejo Ciudadano durarán en su encargo cuatro años, pudiendo ser ratificados por otro período igual.
+Las y los integrantes designados por el Consejo Ciudadano durarán en su encargo cuatro años, con posibilidad de ratificación por otro período igual.
 
-La Presidencia de la Junta de Gobierno estará a cargo del Presidente del Sistema.
+La Presidencia de la Junta de Gobierno estará a cargo de quien presida el Sistema.
 
-La Junta de Gobierno adoptará sus decisiones por mayoría de votos de los integrantes presentes. El Presidente de la Junta tendrá voto de calidad en caso de empate.
+La Junta de Gobierno adoptará sus decisiones por mayoría de votos de sus integrantes presentes. La Presidencia de la Junta tendrá voto de calidad en caso de empate.
 
-Los integrantes de la Junta de Gobierno deberán excusarse de participar en la atención, tramitación o resolución de cualquier asunto de la competencia de dicho órgano colegiado, cuando exista algún interés personal, familiar o de negocios, incluyendo aquéllos en los que pueda resultar un beneficio para él, su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte.
+Las y los integrantes de la Junta de Gobierno deberán excusarse de participar en la atención, tramitación o resolución de cualquier asunto de la competencia de dicho órgano colegiado, cuando exista algún interés personal, familiar o de negocios, incluyendo aquéllos en los que puedan recibir un beneficio personal, su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles; o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte.
 
 ###### Artículo 15.
 
@@ -408,13 +410,15 @@ XXXI. Las demás que esta Ley, el Estatuto Orgánico u otros ordenamientos le co
 
 El Sistema contará con un Consejo Ciudadano con el objeto de asegurar su independencia y una política editorial imparcial y objetiva en su gestión, para lo cual contará con facultades de opinión y asesoría de las acciones, políticas, programas y proyectos que desarrolle el sistema.
 
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
+
 ###### Artículo 23.
 
-El Consejo Ciudadano se integrará por nueve consejeros que serán elegidos mediante una amplia consulta pública por el voto de dos terceras partes de los miembros presentes de la Cámara de Senadores o, en sus recesos, de la Comisión Permanente. Los consejeros desempeñarán su encargo de manera honorífica.
+El Consejo Ciudadano se integrará conforme al principio de paridad de género por nueve consejeras y consejeros elegidos mediante una amplia consulta pública por el voto de dos terceras partes de integrantes presentes del Senado de la República o, en sus recesos, de la Comisión Permanente. Este encargo tendrá el carácter de honorífico.
 
-El cargo de consejero será por cinco años.
+El cargo de consejera o consejero será por cinco años.
 
-Los consejeros desempeñarán su encargo en forma escalonada, por lo que anualmente serán sustituidos los dos de mayor antigüedad en el cargo, salvo que fuesen ratificados por el Senado para un segundo periodo.
+Las personas consejeras desempeñarán su encargo en forma escalonada, por lo que anualmente serán sustituidas las dos de mayor antigüedad en el cargo, salvo que fuesen ratificadas por el Senado para un segundo periodo.
 
 ###### Artículo 24.
 
@@ -460,15 +464,21 @@ IX. Vigilar y emitir informes públicos sobre el cumplimiento de la Junta de Gob
 
 X. Las demás que señalen las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE MAYO DE 2022)</small>
+
 ###### Artículo 26.
 
-Los miembros podrán ser substituidos de su cargo antes de la conclusión de su período, en los siguientes casos:
+Las personas que integren el Consejo Ciudadano podrán ser substituidas de su cargo antes de la conclusión de su período, en los siguientes casos:
 
 I. Dejar de asistir en forma injustificada a tres sesiones consecutivas o seis aisladas en un plazo de dos años;
 
 II. No cumplir o violentar los fines del Sistema, o
 
 III. Renunciar expresamente.
+
+> <small>(ADICIONADO, D.O.F. 11 DE MAYO DE 2022)</small>
+
+En la sustitución se deberá aplicar el principio de paridad de género.
 
 ###### Artículo 27.
 
@@ -831,3 +841,13 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 11 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DE LA LEY GENERAL DE SALUD, DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, DE LA LEY GENERAL DE CAMBIO CLIMÁTICO, DE LA LEY ORGÁNICA DE LA PROCURADURÍA DE LA DEFENSA DEL CONTRIBUYENTE, DE LA LEY ORGÁNICA DEL SEMINARIO DE CULTURA MEXICANA, DE LA LEY DE LA AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCIÓN AL MEDIO AMBIENTE DEL SECTOR HIDROCARBUROS, DE LA LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES, DE LA LEY QUE CREA LA AGENCIA DE NOTICIAS DEL ESTADO MEXICANO, DE LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO, DE LA LEY DE INSTITUCIONES DE SEGUROS Y DE FIANZAS, DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO, DE LA LEY DE LA INDUSTRIA ELÉCTRICA, DE LA LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PÁRRAFO OCTAVO DEL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMÍA, DE LA LEY DE LA CASA DE MONEDA DE MÉXICO, DE LA LEY DE CONCURSOS MERCANTILES, DE LA LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS, DE LA LEY DE AGUAS NACIONALES, DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY GENERAL DE DESARROLLO SOCIAL, DE LA LEY ORGÁNICA DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO, DE LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO, DE LA LEY FEDERAL DE VARIEDADES VEGETALES, DE LA LEY FEDERAL DE SANIDAD VEGETAL, DE LA LEY FEDERAL DE SANIDAD ANIMAL, DE LA LEY FEDERAL DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL, DE LA LEY ORGÁNICA DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA, DE LA LEY DE PROTECCIÓN AL AHORRO BANCARIO, DE LA LEY DE LOS INSTITUTOS NACIONALES DE SALUD, DE LA LEY DE CIENCIA Y TECNOLOGÍA, EN MATERIA DE PARIDAD DE GÉNERO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
