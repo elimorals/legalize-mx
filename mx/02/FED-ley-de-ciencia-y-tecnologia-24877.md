@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ciencia-y-tecnologia-24877"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-05"
-last_updated: "2020-11-06"
+last_updated: "2022-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24877&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-06-03"
 
 LEY DE CIENCIA Y TECNOLOGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 5 de junio de 2002.
 
@@ -63,9 +63,9 @@ II. Determinar los instrumentos mediante los cuales el Gobierno Federal cumplir�
 
 III. Establecer los mecanismos de coordinación de acciones entre las dependencias y entidades de la Administración Pública Federal y otras instituciones que intervienen en la definición de políticas y programas en materia de desarrollo científico, tecnológico e innovación, o que lleven a cabo directamente actividades de este tipo;
 
-> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
 
-IV. Establecer las instancias y los mecanismos de coordinación con los gobiernos de las entidades federativas, así como de vinculación y participación de la comunidad científica y académica de las instituciones de educación superior, de los sectores público, social y privado para la generación y formulación de políticas de promoción, difusión, desarrollo y aplicación de la ciencia, la tecnología y la innovación, así como para la formación de profesionales en estas áreas;
+IV. Establecer las instancias y los mecanismos de coordinación con los gobiernos de las entidades federativas, así como de vinculación y participación de la comunidad científica y académica de las instituciones de educación superior, de los sectores público, social y privado para la generación y formulación de políticas de promoción, difusión, desarrollo y aplicación de la ciencia, la tecnología y la innovación, así como para la formación de profesionales en estas áreas, procurando observar el principio de paridad de género.
 
 > <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
 
@@ -203,27 +203,49 @@ XIV. Diseminación, la transmisión de información científica, tecnológica y 
 
 Se crea el Consejo General de Investigación Científica, Desarrollo Tecnológico e Innovación, como órgano de política y coordinación que tendrá las facultades que establece esta Ley. Serán miembros permanentes del Consejo General:
 
-I. El Presidente de la República, quien lo presidirá;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
 
-II. Los titulares de las Secretarías de Relaciones Exteriores, de Hacienda y Crédito Público, de Medio Ambiente y Recursos Naturales, de Energía, de Economía, de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, de Comunicaciones y Transportes, de Educación Pública, y de Salud;
+I. La persona titular de la Presidencia de la República, quien lo presidirá;
 
-III. El Director General del CONACyT, en su carácter de Secretario Ejecutivo del propio Consejo General;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
 
-IV. El Coordinador General del Foro Consultivo Científico y Tecnológico;
+II. Las personas titulares de las Secretarías de Relaciones Exteriores, de Hacienda y Crédito Público, de Medio Ambiente y Recursos Naturales, de Energía, de Economía, de Agricultura y Desarrollo Rural, de Infraestructura, Comunicaciones y Transportes, de Educación Pública, y de Salud;
 
-V. El Presidente de la Academia Mexicana de Ciencias;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
 
-VI. Un representante de la Conferencia Nacional de Ciencia y Tecnología;
+III. La persona que ocupe la Dirección General del CONACyT, en su carácter de Secretaría Ejecutiva del propio Consejo General;
 
-VII. Tres representantes del sector productivo que tengan cobertura y representatividad nacional, mismos que serán designados por el Presidente de la República a propuesta del Secretario de Economía, y se renovarán cada tres años;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
 
-VIII. Un representante del Sistema de Centros Públicos de Investigación, y
+IV. La persona Coordinadora General del Foro Consultivo Científico y Tecnológico;
 
-IX. El Secretario General Ejecutivo de la Asociación Nacional de Universidades e Instituciones de Educación Superior.
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
 
-Asimismo, el Consejo General contará con la participación a título personal de dos miembros que se renovarán cada tres años y que serán invitados por el Presidente de la República, a propuesta del Secretario Ejecutivo. Estos miembros tendrán derecho a voz y voto y podrán ser integrantes del sector científico y tecnológico. Para formular dichas propuestas, el Secretario Ejecutivo llevará a cabo un procedimiento de auscultación, conjuntamente con el Coordinador General del Foro Consultivo, de tal manera que cada una de dichas personas cuente con la trayectoria y méritos suficientes, además de ser representativos de los ámbitos científico o tecnológico.
+V. La persona titular de la Presidencia de la Academia Mexicana de Ciencias;
 
-El Presidente de la República podrá invitar a participar a las sesiones del Consejo General a personalidades del ámbito científico, tecnológico y empresarial que puedan aportar conocimientos o experiencias a los temas de la agenda del propio Consejo General, quienes asistirán con voz pero sin voto.
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
+
+VI. Una persona representante de la Conferencia Nacional de Ciencia y Tecnología;
+
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
+
+VII. Tres personas representantes del sector productivo que tengan cobertura y representatividad nacional, mismas que serán designadas por la persona titular de la Presidencia de la República a propuesta de la Secretaría de Economía, y se renovarán cada tres años;
+
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
+
+VIII. Una persona representante del Sistema de Centros Públicos de Investigación, y
+
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
+
+IX. La persona titular de la Secretaría General Ejecutiva de la Asociación Nacional de Universidades e Instituciones de Educación Superior.
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
+
+Asimismo, el Consejo General contará con la participación a título personal de dos integrantes, de diferente género, que se renovarán cada tres años y se invitarán por la persona titular de la Presidencia de la República, a propuesta de la Secretaría Ejecutiva. Estas personas tendrán derecho a voz y voto y deberán ser integrantes del sector científico y tecnológico. Para formular dichas propuestas, la persona titular de la Secretaría Ejecutiva llevará a cabo un procedimiento de auscultación, conjuntamente con la Coordinación General del Foro Consultivo, de tal manera que cada una de las personas propuestas cuente con la trayectoria y méritos suficientes, además de ser representativos de los ámbitos científico o tecnológico.
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
+
+La persona titular de la Presidencia de la República podrá invitar a participar a las sesiones del Consejo General a personalidades del ámbito científico, tecnológico y empresarial que puedan aportar conocimientos o experiencias a los temas de la agenda del propio Consejo General, quienes asistirán con voz, pero sin voto.
 
 Los miembros del Consejo General desempeñarán sus funciones de manera honorífica, por lo que no recibirán remuneración alguna por su participación en el mismo.
 
@@ -251,7 +273,9 @@ VI. Aprobar y formular propuestas de políticas y mecanismos de apoyo a la cienc
 
 VII. Definir esquemas generales de organización para la eficaz atención, coordinación y vinculación de las actividades de investigación, desarrollo tecnológico e innovación en los diferentes sectores de la Administración Pública Federal y con los diversos sectores productivos y de servicios del país, así como los mecanismos para impulsar la descentralización de estas actividades;
 
-VIII. Aprobar los criterios y estándares institucionales para la evaluación del ingreso y permanencia en la Red Nacional de Grupos y Centros de Investigación, así como para su clasificación y categorización, a que se refiere el artículo 30 de la Ley;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
+
+VIII. Aprobar los criterios y estándares institucionales procurando incorporar el principio de paridad, para la evaluación del ingreso y permanencia en la Red Nacional de Grupos y Centros de Investigación, así como para su clasificación y categorización, a que se refiere el artículo 30 de la Ley;
 
 IX. Establecer un sistema independiente para la evaluación de la eficacia, resultados e impactos de los principios, programas e instrumentos de apoyo a la investigación científica, el desarrollo tecnológico y la innovación;
 
@@ -349,9 +373,9 @@ III. La toma de decisiones, desde la determinación de políticas generales y pr
 
 IV. Los instrumentos de apoyo a la ciencia, la tecnología y la innovación deberán ser promotores de la descentralización territorial e institucional, procurando el desarrollo armónico de la potencialidad científica, tecnológica y de innovación del país, y buscando asimismo, el crecimiento y la consolidación de las comunidades científica y académica en todas las entidades federativas, en particular las de las instituciones públicas;
 
-> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
 
-V. Las políticas, instrumentos y criterios con los que el Gobierno Federal fomente y apoye la investigación científica, el desarrollo tecnológico y la innovación deberán buscar el mayor efecto benéfico, de estas actividades, en la enseñanza y el aprendizaje de la ciencia y la tecnología, en la calidad de la educación, particularmente de la educación superior, en la vinculación con el sector productivo y de servicios, así como incentivar la participación equilibrada y sin discriminación entre mujeres y hombres y el desarrollo de las nuevas generaciones de investigadores y tecnólogos;
+V. Las políticas, instrumentos y criterios con los que el Gobierno Federal fomente y apoye la investigación científica, el desarrollo tecnológico y la innovación deberán buscar el mayor efecto benéfico, de estas actividades, en la enseñanza y el aprendizaje de la ciencia y la tecnología, en la calidad de la educación, particularmente de la educación superior, en la vinculación con el sector productivo y de servicios, así como incentivar la participación equilibrada, paritaria y sin discriminación entre mujeres y hombres en el desarrollo de las nuevas generaciones de investigadores y tecnólogos;
 
 > <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
 
@@ -689,9 +713,9 @@ Se constituye el Foro Consultivo Científico y Tecnológico como órgano autóno
 
 I. Tendrá por objeto promover la expresión de la comunidad científica, académica, tecnológica y del sector productivo, para la formulación de propuestas en materia de políticas y programas de investigación científica, desarrollo tecnológico e innovación;
 
-> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
 
-II. Estará integrado por científicos, tecnólogos, empresarios y por representantes de las organizaciones e instituciones de carácter nacional, regional o local, públicas y privadas, reconocidas por sus tareas permanentes en la investigación científica, desarrollo tecnológico e innovación, quienes participarán, salvo en los casos previstos en esta Ley, de manera voluntaria y honorífica;
+II. Estará integrado por científicos, tecnólogos, empresarios y por representantes de las organizaciones e instituciones de carácter nacional, regional o local, públicas y privadas, reconocidas por sus tareas permanentes en la investigación científica, desarrollo tecnológico e innovación, y en su selección se procurará observar el principio de paridad de género, quienes participarán, salvo en los casos previstos en esta Ley, de manera voluntaria y honorífica;
 
 III. En su integración se observarán los criterios de pluralidad, de renovación periódica y de representatividad de las diversas áreas y especialidades de la comunidad científica y tecnológica y de los sectores social y privado, así como de equilibrio entre las diversas regiones del país;
 
@@ -699,13 +723,13 @@ III. En su integración se observarán los criterios de pluralidad, de renovaci�
 
 IV. Tendrá una organización basada en comités de trabajo integrados por especialistas en los diversos temas de la ciencia y la tecnología;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
 
-V. Contará con una mesa directiva formada por veinte integrantes, diecisiete de los cuales serán los titulares que representen a las siguientes organizaciones: la Academia Mexicana de Ciencias, A. C.; la Academia Mexicana de Ingeniería, A. C.; la Academia Nacional de Medicina, A. C.; la Asociación Mexicana de Directivos de la Investigación Aplicada y Desarrollo Tecnológico, A.C.; la Asociación Nacional de Universidades e Instituciones de Educación Superior; la Confederación Nacional de Cámaras Industriales; el Consejo Nacional Agropecuario; la Confederación Patronal de la República Mexicana; la Cámara Nacional de la Industria de la Transformación, y un representante de la Red Nacional de Consejos y Organismos Estatales de Ciencia y Tecnología, A.C.; la Universidad Nacional Autónoma de México; el Instituto Politécnico Nacional; el Centro de Investigación y Estudios Avanzados del Instituto Politécnico Nacional; la Academia Mexicana de la Lengua; la Academia Mexicana de Historia; el Sistema de Centros Públicos de Investigación y el Consejo Mexicano de Ciencias Sociales.
+V. Contará con una mesa directiva formada por veinte personas integrantes, diecisiete de las cuáles serán las personas titulares que representen a las siguientes organizaciones: la Academia Mexicana de Ciencias, A. C.; la Academia Mexicana de Ingeniería, A. C.; la Academia Nacional de Medicina, A. C.; la Asociación Mexicana de Directivos de la Investigación Aplicada y Desarrollo Tecnológico, A.C.; la Asociación Nacional de Universidades e Instituciones de Educación Superior; la Confederación Nacional de Cámaras Industriales; el Consejo Nacional Agropecuario; la Confederación Patronal de la República Mexicana; la Cámara Nacional de la Industria de la Transformación, y un representante de la Red Nacional de Consejos y Organismos Estatales de Ciencia y Tecnología, A.C.; la Universidad Nacional Autónoma de México; el Instituto Politécnico Nacional; el Centro de Investigación y Estudios Avanzados del Instituto Politécnico Nacional; la Academia Mexicana de la Lengua; la Academia Mexicana de Historia; el Sistema de Centros Públicos de Investigación y el Consejo Mexicano de Ciencias Sociales.
 
-Los otros tres integrantes, quienes actuarán a título personal, serán investigadores, representantes uno de ellos de las ciencias exactas o naturales, uno de las ciencias sociales o humanidades y uno de la ingeniería o tecnología. Estos integrantes se renovarán cada tres años y serán seleccionados por los propios miembros del Sistema Nacional de Investigadores, a través de convocatoria que expidan conjuntamente el CONACyT y el Foro Consultivo, la que cuidará se logre un adecuado equilibrio regional.
+Las otras tres personas integrantes, quienes actuarán a título personal, serán investigadores, representantes uno de ellos de las ciencias exactas o naturales, uno de las ciencias sociales o humanidades y uno de la ingeniería o tecnología. Estos integrantes se renovarán cada tres años y serán seleccionados por los propios miembros del Sistema Nacional de Investigadores, a través de convocatoria que garantice la selección paritaria y que expidan conjuntamente el CONACyT y el Foro Consultivo, la que cuidará se logre un adecuado equilibrio regional.
 
-La mesa directiva será coordinada por quien elijan sus propios integrantes, renovándose la presidencia cada dos años. En sus sesiones de trabajo y de acuerdo a la naturaleza de los asuntos a tratar, la mesa directiva podrá invitar a participar a los especialistas de áreas, disciplinas o sectores relacionados con dichos asuntos que estime pertinente;
+La mesa directiva será coordinada por quien elijan las personas integrantes, renovándose la presidencia cada dos años. En sus sesiones de trabajo y de acuerdo a la naturaleza de los asuntos a tratar, la mesa directiva podrá invitar a participar a los especialistas de áreas, disciplinas o sectores relacionados con dichos asuntos que estime pertinente;
 
 VI. La mesa directiva contará con un secretario técnico que será designado por el Director General del CONACyT, de una terna propuesta por la mesa directiva. Éste auxiliará a la mesa directiva en la organización y desarrollo de los trabajos de los comités especializados y de los procesos de consulta del Foro y tendrá las facultades legales para la celebración de todos los actos jurídicos necesarios para la administración de los recursos que se asignen para el funcionamiento del Foro;
 
@@ -833,17 +857,19 @@ El Secretario Técnico del Comité tendrá las facultades legales para la celebr
 
 ### CAPÍTULO VIII. Relaciones entre la Investigación y la Educación
 
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
+
 ###### Artículo 42.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2013)</small>
+El gobierno federal apoyará la investigación científica y tecnológica que contribuya significativamente a desarrollar un sistema de educación, formación y consolidación de recursos humanos de alta calidad en igualdad de oportunidades y acceso entre mujeres y hombres, garantizando el principio de paridad de género.
 
-El gobierno federal apoyará la investigación científica y tecnológica que contribuya significativamente a desarrollar un sistema de educación, formación y consolidación de recursos humanos de alta calidad en igualdad de oportunidades y acceso entre mujeres y hombres.
+La Secretaría de Educación Pública y el CONACyT establecerán los mecanismos de coordinación y colaboración necesarios para apoyar conjuntamente los estudios de posgrado, poniendo atención especial al incremento de su calidad; la formación y consolidación de grupos académicos de investigación, y la investigación científica básica en todas las áreas del conocimiento y el desarrollo tecnológico. Estos mecanismos se aplicarán tanto en las instituciones de educación superior como en la Red Nacional de Grupos y Centros de Investigación, conforme al principio de paridad de género.
 
-La Secretaría de Educación Pública y el CONACyT establecerán los mecanismos de coordinación y colaboración necesarios para apoyar conjuntamente los estudios de posgrado, poniendo atención especial al incremento de su calidad; la formación y consolidación de grupos académicos de investigación, y la investigación científica básica en todas las áreas del conocimiento y el desarrollo tecnológico. Estos mecanismos se aplicarán tanto en las instituciones de educación superior como en la Red Nacional de Grupos y Centros de Investigación.
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
 
 ###### Artículo 43.
 
-Con el objeto de integrar investigación y educación, los centros públicos de investigación asegurarán a través de sus ordenamientos internos la participación de sus investigadores en actividades de enseñanza. Las instituciones de educación superior promoverán, a través de sus ordenamientos internos, que sus académicos de carrera, profesores e investigadores participen en actividades de enseñanza frente a grupo, tutoreo de estudiantes, investigación o aplicación innovadora del conocimiento.
+Con el objeto de integrar investigación y educación, los centros públicos de investigación asegurarán, a través de sus ordenamientos internos la participación de sus investigadores en actividades de enseñanza, promoviendo el principio de paridad de género. Las instituciones de educación superior promoverán, a través de sus ordenamientos internos, que sus académicos de carrera, profesores e investigadores participen paritariamente en actividades de enseñanza frente a grupo, tutoreo de estudiantes, investigación o aplicación innovadora del conocimiento.
 
 ###### Artículo 44.
 
@@ -933,9 +959,11 @@ Los centros públicos de investigación se regirán por esta Ley y por sus instr
 
 Los ingresos que generen los centros públicos de investigación derivados de los servicios, bienes y productos de investigación y desarrollo tecnológico, incluyendo la capacitación para la formación de recursos humanos calificados, que presten o produzcan directamente o en colaboración con otras entidades públicas o privadas, serán destinados a los proyectos autorizados por sus órganos de gobierno.
 
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
+
 ###### Artículo 55.
 
-Los centros públicos de investigación contarán con sistemas integrales de profesionalización, que comprenderán catálogos de puestos, mecanismos de acceso y promociones, tabulador de sueldos, programas de desarrollo profesional y actualización permanente de su personal científico, tecnológico, académico y administrativo, así como las obligaciones e incentivos al desempeño y productividad del trabajo científico y tecnológico. La organización, funcionamiento y desarrollo de estos sistemas se regirán por las normas generales que proponga el CONACyT y que establezca la Secretaría de Hacienda y Crédito Público y las específicas que en cada centro expida su órgano de gobierno.
+Los centros públicos de investigación contarán con sistemas integrales de profesionalización, que comprenderán catálogos de puestos, mecanismos de acceso y promociones conforme al principio de paridad de género, tabulador de sueldos, programas de desarrollo profesional y actualización permanente de su personal científico, tecnológico, académico y administrativo, así como las obligaciones e incentivos al desempeño y productividad del trabajo científico y tecnológico. La organización, funcionamiento y desarrollo de estos sistemas se regirán por las normas generales que proponga el CONACyT y que establezca la Secretaría de Hacienda y Crédito Público y las específicas que en cada centro expida su órgano de gobierno.
 
 ###### Artículo 56.
 
@@ -1346,3 +1374,13 @@ A partir del 1o. de enero de 2021, el Fideicomiso Fondo de Desastres Naturales n
 Los remanentes de recursos de este Fideicomiso se deberán concentrar a más tardar el 30 de junio de 2021, por concepto de aprovechamientos, a la Tesorería de la Federación y se destinarán por la Secretaría de Hacienda y Crédito Público para la atención de desastres naturales, así como para cubrir las obligaciones pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
 
 Vigésimo. Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los actos jurídicos que se requieran, en coordinación con las Entidades Federativas en las que se localizan las citadas cajas de ahorro, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización que hayan sido reportados por la SHCP.
+
+D.O.F. 11 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DE LA LEY GENERAL DE SALUD, DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, DE LA LEY GENERAL DE CAMBIO CLIMÁTICO, DE LA LEY ORGÁNICA DE LA PROCURADURÍA DE LA DEFENSA DEL CONTRIBUYENTE, DE LA LEY ORGÁNICA DEL SEMINARIO DE CULTURA MEXICANA, DE LA LEY DE LA AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCIÓN AL MEDIO AMBIENTE DEL SECTOR HIDROCARBUROS, DE LA LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES, DE LA LEY QUE CREA LA AGENCIA DE NOTICIAS DEL ESTADO MEXICANO, DE LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO, DE LA LEY DE INSTITUCIONES DE SEGUROS Y DE FIANZAS, DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO, DE LA LEY DE LA INDUSTRIA ELÉCTRICA, DE LA LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PÁRRAFO OCTAVO DEL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMÍA, DE LA LEY DE LA CASA DE MONEDA DE MÉXICO, DE LA LEY DE CONCURSOS MERCANTILES, DE LA LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS, DE LA LEY DE AGUAS NACIONALES, DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY GENERAL DE DESARROLLO SOCIAL, DE LA LEY ORGÁNICA DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO, DE LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO, DE LA LEY FEDERAL DE VARIEDADES VEGETALES, DE LA LEY FEDERAL DE SANIDAD VEGETAL, DE LA LEY FEDERAL DE SANIDAD ANIMAL, DE LA LEY FEDERAL DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL, DE LA LEY ORGÁNICA DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA, DE LA LEY DE PROTECCIÓN AL AHORRO BANCARIO, DE LA LEY DE LOS INSTITUTOS NACIONALES DE SALUD, DE LA LEY DE CIENCIA Y TECNOLOGÍA, EN MATERIA DE PARIDAD DE GÉNERO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
