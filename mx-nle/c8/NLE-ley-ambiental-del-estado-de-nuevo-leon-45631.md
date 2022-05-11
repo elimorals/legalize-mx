@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2021-12-27"
+last_updated: "2022-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -2289,9 +2289,9 @@ Cuando la Secretaría emita la alerta de contingencia atmosférica, en base a lo
 
 Cuando la Secretaría advierta una concentración de contaminantes dañinos para la salud, y emita la Alerta de Contingencia Atmosférica, deberá informar de manera inmediata a la Secretaría de Educación a fin de que ésta tome las medidas necesarias dentro de los planteles educativos.
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2022)</small>
 
-De manera independiente de la emisión de una Alerta de Contingencia Atmosférica, la Secretaría deberá dar a conocer y difundir diariamente por medios electrónicos oficiales la calidad del aire de acuerdo a los sistemas de monitoreo ambiental.
+De manera independiente de la emisión de una Alerta de Contingencia Atmosférica, la Secretaría deberá dar a conocer y difundir de forma inmediata por medios electrónicos oficiales, medios de comunicación y aplicaciones digitales la calidad del aire de acuerdo a los sistemas de monitoreo ambiental.
 
 > <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2017)</small>
 
@@ -2977,6 +2977,8 @@ II. Tratándose de actividades relacionadas con los servicios públicos municipa
 
 ### CAPÍTULO VIII. CONTINGENCIAS AMBIENTALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2022)</small>
+
 ###### Artículo 187.
 
 Quedan prohibidas las emisiones contaminantes provenientes de cualquier fuente fija o móvil, ocasionadas por ruido, vibraciones, olores perjudiciales, energía térmica y lumínica y radiaciones electromagnéticas en cuanto rebasen los límites máximos establecidos en las Normas Oficiales Mexicanas o en las Normas Ambientales Estatales.
@@ -3047,7 +3049,7 @@ Los Municipios deberán incorporar en sus bandos de policía y buen gobierno y r
 
 ###### Artículo 191.
 
-El Estado y los Municipios, de manera coordinada, participarán y tomarán las medidas necesarias para hacer frente a las situaciones de contingencia ambiental, conforme a las políticas y programas en materia ambiental, así como de protección civil que establezca el Ejecutivo del Estado.
+El Estado y los Municipios, de manera coordinada, participarán en la medición de la calidad del aire de forma permanente para lograr tomar las medidas necesarias para hacer frente a las situaciones de contingencia ambiental, conforme a las políticas y programas en materia ambiental, así como de protección civil que establezca el Ejecutivo del Estado.
 
 El Estado intervendrá cuando la magnitud o gravedad de los desequilibrios ecológicos o efectos negativos al ambiente afecten el territorio de dos o más Municipios.
 
@@ -3057,11 +3059,17 @@ El Estado intervendrá cuando la magnitud o gravedad de los desequilibrios ecol�
 
 La Secretaría emitirá programas de contingencia ambiental en los que se establecerán las condiciones ante las cuales es procedente la determinación de estado de contingencia, así como las medidas aplicables para hacerles frente.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2022)</small>
+
 ###### Artículo 193.
 
-Las autoridades competentes podrán declarar contingencia ambiental cuando se presente una concentración de contaminantes o un riesgo ambiental, derivado de actividades humanas o fenómenos naturales, que puedan afectar la salud de la población o al ambiente de acuerdo con las Normas Ambientales Estatales y los elementos técnicos aplicables.
+Las autoridades competentes deberán declarar contingencia ambiental cuando se presente una concentración de contaminantes o un riesgo ambiental, derivado de actividades humanas o fenómenos naturales, que puedan afectar la salud de la población o al ambiente de acuerdo con las Normas Ambientales Estatales y los elementos técnicos aplicables.
 
-La declaratoria y las medidas que se aplicarán deberán darse a conocer a través de los medios de comunicación masiva y de los instrumentos que se establezcan para tal efecto. Dichas medidas entrarán en vigor y se instrumentarán en los términos que se precisen en el Reglamento de esta Ley y en los respectivos programas de contingencia ambiental.
+La declaratoria y las medidas que se aplicarán deberán darse a conocer de forma inmediata y en tiempo real con un mensaje de alerta ambiental para la población, esto a través de medios de comunicación masivos, así como medios electrónicos de los gobiernos estatales y municipales y cualquier otros métodos o instrumento que permita conocer con prontitud sobre la contingencia ambiental, al igual que los instrumentos que se establezcan para tal efecto.
+
+Para el mejor cumplimiento de lo estipulado en el párrafo inmediato anterior, las autoridades competentes podrán celebrar acuerdos o contratos con particulares para difundir en tiempo real la Alerta de Contingencia Atmosférica a través de los sistemas habilitados en las plataformas digitales y redes sociales de mayor difusión en el Estado.
+
+Dichas medidas entrarán en vigor y se instrumentarán en los términos que se precisen en el Reglamento de esta Ley y en los respectivos programas de contingencia ambiental.
 
 ###### Artículo 194.
 
@@ -4132,3 +4140,9 @@ P.O. 27 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 025. SE REFORMAN LAS FRACCIONES LIV Y LV DEL ARTÍCULO 8, Y LAS FRACCIONES XXXI Y XXXII DEL ARTÍCULO 9; Y SE ADICIONAN LAS FRACCIONES LVI AL ARTÍCULO 8 Y LA XXXIII AL ARTÍCULO 9, TODOS DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 123. SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 126 BIS 13, PRIMER PÁRRAFO DEL ARTÍCULO 191 Y EL ARTÍCULO 193 TODOS DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
