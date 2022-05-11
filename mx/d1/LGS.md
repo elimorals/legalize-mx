@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2022-03-30"
+last_updated: "2022-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 24 DE DICIEMBRE DE 2018.
 
@@ -508,11 +508,11 @@ C. Corresponde a la Federación y a las entidades federativas la prevención del
 
 (DEROGADO, D.O.F. 7 DE MAYO DE 1997)
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 15.
 
-El Consejo de Salubridad General es un órgano que depende directamente del Presidente de la República en los términos del artículo 73, fracción XVI, base 1a. de la Constitución Política de los Estados Unidos Mexicanos. Está integrado por un presidente que será el Secretario de Salud, un secretario y trece vocales titulares, dos de los cuales serán los presidentes de la Academia Nacional de Medicina y de la Academia Mexicana de Cirugía, y los vocales que su propio reglamento determine. Los miembros del Consejo serán designados y removidos por el Presidente de la República, quien deberá nombrar para tales cargos, a profesionales especializados en cualquiera de las ramas sanitarias.
+El Consejo de Salubridad General es un órgano que depende directamente de la persona titular de la Presidencia de la República en los términos del artículo 73, fracción XVI, base 1a. de la Constitución Política de los Estados Unidos Mexicanos. Está integrado por una presidencia que será la persona titular de la Secretaría de Salud, una secretaría y trece vocalías titulares, dos de las cuáles serán las presidentas o presidentes de la Academia Nacional de Medicina y de la Academia Mexicana de Cirugía, y las vocalías que su propio reglamento determine, observando el principio de paridad de género. Las personas integrantes del Consejo serán designadas y removidas por la persona titular de la Presidencia de la República, quien deberá nombrar para tales cargos, a profesionistas con especialidad en cualquiera de las ramas sanitarias.
 
 ###### ARTICULO 16.
 
@@ -602,11 +602,9 @@ II. Los recursos financieros que le sean asignados, así como aquellos que, en l
 
 Los ingresos que la Comisión Federal para la Protección contra Riesgos Sanitarios obtenga por concepto de donativos nacionales e internacionales, rescate de seguros y otros ingresos de carácter excepcional podrán ser recuperados por dicha Comisión y destinados a su gasto de operación conforme a lo que establezca el Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente.
 
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
 
-###### ARTICULO 17 Bis 2.
-
-Al frente de la Comisión Federal para la Protección contra Riesgos Sanitarios estará un Comisionado Federal el cual será nombrado por el Presidente de la República, a propuesta del Secretario de Salud; siendo la Secretaría de Salud a quien corresponderá la supervisión de este órgano desconcentrado.
+ARTICULO 17 bis 2.- Al frente de la Comisión Federal para la Protección contra Riesgos Sanitarios estará una persona Comisionada Federal, quien será nombrada por la persona titular de la Presidencia de la República, a propuesta de la persona titular de la Secretaría de Salud; siendo la Secretaría de Salud a quien corresponderá la supervisión de este órgano desconcentrado, su conformación será conforme al principio de paridad.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -9537,3 +9535,13 @@ D.O.F. 30 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD, DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES Y DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DE LA LEY GENERAL DE SALUD, DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, DE LA LEY GENERAL DE CAMBIO CLIMÁTICO, DE LA LEY ORGÁNICA DE LA PROCURADURÍA DE LA DEFENSA DEL CONTRIBUYENTE, DE LA LEY ORGÁNICA DEL SEMINARIO DE CULTURA MEXICANA, DE LA LEY DE LA AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCIÓN AL MEDIO AMBIENTE DEL SECTOR HIDROCARBUROS, DE LA LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES, DE LA LEY QUE CREA LA AGENCIA DE NOTICIAS DEL ESTADO MEXICANO, DE LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO, DE LA LEY DE INSTITUCIONES DE SEGUROS Y DE FIANZAS, DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO, DE LA LEY DE LA INDUSTRIA ELÉCTRICA, DE LA LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PÁRRAFO OCTAVO DEL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMÍA, DE LA LEY DE LA CASA DE MONEDA DE MÉXICO, DE LA LEY DE CONCURSOS MERCANTILES, DE LA LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS, DE LA LEY DE AGUAS NACIONALES, DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY GENERAL DE DESARROLLO SOCIAL, DE LA LEY ORGÁNICA DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO, DE LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO, DE LA LEY FEDERAL DE VARIEDADES VEGETALES, DE LA LEY FEDERAL DE SANIDAD VEGETAL, DE LA LEY FEDERAL DE SANIDAD ANIMAL, DE LA LEY FEDERAL DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL, DE LA LEY ORGÁNICA DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA, DE LA LEY DE PROTECCIÓN AL AHORRO BANCARIO, DE LA LEY DE LOS INSTITUTOS NACIONALES DE SALUD, DE LA LEY DE CIENCIA Y TECNOLOGÍA, EN MATERIA DE PARIDAD DE GÉNERO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
