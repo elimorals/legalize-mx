@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2022-03-01"
+last_updated: "2022-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -89,9 +89,17 @@ VII. Será inclusiva, al tomar en cuenta las diversas capacidades, circunstancia
 
 VIII. Será intelectual, al promover la convivencia armónica entre personas y comunidades sobre la base del respeto a sus diferentes concepciones, opiniones, tradiciones, costumbres y modos de vida y del reconocimiento de sus derechos, en un marco de inclusión social;
 
-IX. Será integral porque educará para la vida y estará enfocada a las capacidades y desarrollo de las habilidades cognitivas, socioemocionales y físicas de las personas que les permitan alcanzar su bienestar y contribuir al desarrollo social, y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2022)</small>
 
-X. Será de excelencia, orientada al mejoramiento permanente de los procesos formativos que propicien el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico, así como el fortalecimiento de los lazos entre escuela y comunidad.
+IX. Será integral porque educará para la vida y estará enfocada a las capacidades y desarrollo de las habilidades cognitivas, socioemocionales y físicas de las personas que les permitan alcanzar su bienestar y contribuir al desarrollo social;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2022)</small>
+
+X. Será de excelencia, orientada al mejoramiento permanente de los procesos formativos que propicien el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico, así como el fortalecimiento de los lazos entre escuela y comunidad, y
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2022)</small>
+
+XI. Será con perspectiva de género, consistente en la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2021)</small>
 
@@ -217,9 +225,9 @@ X.- Implementar estrategias de prevención de adicciones partiendo de la educaci
 
 XI.- Coadyuvar a prevenir, combatir y erradicar el alcoholismo, tabaquismo, drogadicción o cualquier otro tipo de conducta adictiva que perturbe la percepción y comportamiento de las personas, señalando los detrimentos a la salud física así como a la integridad emocional, social y económica que conlleva el uso de sustancias dañinas independientemente de que su consumo se encuentre regulado por la ley;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2022)</small>
 
-XII.- Fomentar en los alumnos, docentes y madres y padres de familia, la cultura de la salud, promoviendo la educación física, la práctica del deporte, los hábitos de higiene y la sana alimentación, como parte integral de una vida saludable;
+XII.- Fomentar en los alumnos, docentes y madres y padres de familia, la cultura de la salud, promoviendo la educación física, la práctica del deporte, los hábitos de higiene personal y hábitos para una correcta higiene bucal, como también la sana alimentación, como parte integral de una vida saludable;
 
 > <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
@@ -315,11 +323,11 @@ XII.- Secretaría, a la Secretaría de Educación en el Estado.
 
 ### CAPITULO II. DEBERES Y ATRIBUCIONES DEL ESTADO
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 8o.
 
-La autoridad educativa estatal ejercerá las facultades que en materia educativa le confiere la Constitución Federal, la Constitución Local, la Ley Orgánica, la Ley General, la Ley de las Maestras y los Maestros, la Ley de Mejora Continua de la Educación, y las derivadas de la presente Ley.
+La autoridad educativa estatal ejercerá las facultades que en materia educativa le confiere la Constitución Federal, la Constitución Local, la Ley Orgánica, la Ley General, la Ley de las Maestras y los Maestros, la Ley de Mejora Continua de la Educación, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, Ley General para la Igualdad Entre Mujeres y Hombres, y sus correlativas en el Estado, así como las derivadas de la presente Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
@@ -335,9 +343,9 @@ III.- Establecer y fomentar las bibliotecas, hemerotecas, videotecas y talleres 
 
 IV.- Expedir títulos, grados académicos, certificados y diplomas;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2022)</small>
 
-V.- Promover y difundir la cultura, los derechos humanos, el deporte, las actividades cívicas, artísticas, recreativas y sociales;
+V.- Promover y difundir con perspectiva de género la cultura, los derechos humanos, el deporte, las actividades cívicas, artísticas, recreativas y sociales;
 
 VI.- Otorgar, negar o revocar, autorización a los particulares para impartir educación;
 
@@ -873,9 +881,17 @@ c).- Métodos de evaluación permanente;
 
 d).- Proyectos estratégicos;
 
-e).- Líneas de acción, y
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2022)</small>
 
-d) (sic).- La participación directa de los diversos sectores sociales involucrados en el proceso educativo.
+e).- Líneas de acción;
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2022)</small>
+
+f).- La participación directa de los diversos sectores sociales involucrados en el proceso educativo, y
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2022)</small>
+
+g).- Mecanismos para la paz y no violencia.
 
 > <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
 
@@ -1844,5 +1860,11 @@ CUARTO.- Comuníquese el presente Decreto a la Secretaría de Educación del Est
 P.O. 1 DE MARZO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE PROMOCIÓN DEL EMPRENDIMIENTO, EL FOMENTO DE LA CULTURA DEL AHORRO Y LA EDUCACIÓN FINANCIERA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+P.O. 11 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE NAYARIT, EN MATERIA DE PERSPECTIVA DE GÉNERO Y SALUD BUCAL”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
