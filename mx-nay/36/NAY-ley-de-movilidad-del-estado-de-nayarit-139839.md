@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-movilidad-del-estado-de-nayarit-139839"
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-07"
-last_updated: "2021-08-06"
+last_updated: "2022-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE MOVILIDAD DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2022.
 
 Ley publicada en la Sección quinta del Número 003 del Periódico Oficial del Estado de Nayarit, el martes 7 de enero de 2020.
 
@@ -4569,9 +4569,17 @@ r) Insultar al personal de tránsito;
 
 s) Por transitar con carga o elementos que sobresalgan en la parte posterior, sin el señalamiento autorizado;
 
-t) Ampararse con folio vencido, y
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2022)</small>
 
-u) Por participar en choque o volcamiento, causando daños si es responsable, con independencia de las demás responsabilidades legales que le resulten.
+t) Ampararse con folio vencido;
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2022)</small>
+
+u) Por participar en choque o volcamiento, causando daños si es responsable, con independencia de las demás responsabilidades legales que le resulten, y
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2022)</small>
+
+v) Por no respetar la distancia de al menos 1.5 metros de separación lateral entre su vehículo automotor y un ciclista, en los términos a que hace referencia el artículo 140 de esta ley, considerando las circunstancias especiales del caso y el riesgo producido.
 
 IV. Se sancionará con multa de treinta hasta cien veces la UMA por:
 
@@ -4792,3 +4800,13 @@ P.O. 6 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL ESTADO DE NAYARIT".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 11 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA El ARTÍCULO 432 DE LA LEY DE MOVILIDAD DEL ESTADO DE NAYARIT”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Los Ayuntamientos deberán armonizar sus respectivos reglamentos en materia de tránsito y movilidad en lo referente al presente Decreto dentro de los noventa días contados a partir de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+TERCERO. Durante el periodo de 90 días naturales posteriores a la entrada en vigor del presente Decreto, los Ayuntamientos emprenderán campañas de información, concientización y respeto al ciclista; así mismo, durante el mismo plazo, las autoridades viales solo podrán amonestar a los infractores.
