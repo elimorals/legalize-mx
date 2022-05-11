@@ -4,7 +4,7 @@ identifier: "LISF"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-04"
-last_updated: "2018-06-22"
+last_updated: "2022-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93451&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISF"
 
 LEY DE INSTITUCIONES DE SEGUROS Y DE FIANZAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
 
 Ley publicada en la Segunda y Tercera Sección del Diario Oficial de la Federación, el jueves 4 de abril de 2013.
 
@@ -5256,27 +5256,43 @@ Las Delegaciones Regionales de la Comisión podrán realizar, dentro del área d
 
 #### SECCIÓN II. DE LA JUNTA DE GOBIERNO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO 368.
 
-La Junta de Gobierno de la Comisión estará integrada por el Presidente de la Comisión, quien lo será también de la Junta de Gobierno, tres vicepresidentes nombrados por éste, y nueve vocales conforme a lo siguiente:
+La Junta de Gobierno de la Comisión estará integrada por la persona titular de la Presidencia de la Comisión, quien lo será también de la Junta de Gobierno, tres vicepresidencias nombradas por ésta, garantizando el principio de paridad de género, y nueve vocalías conforme a lo siguiente:
 
-I. Cuatro vocales designados por la Secretaría;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
 
-II. Un vocal designado por la Comisión Nacional Bancaria y de Valores;
+I. Cuatro vocalías designadas por la Secretaría;
 
-III. Un vocal designado por la Comisión Nacional del Sistema de Ahorro para el Retiro;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
 
-IV. Un vocal designado por el Banco de México, y
+II. Una vocalía designada por la Comisión Nacional Bancaria y de Valores;
 
-V. Dos vocales independientes.
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
 
-Por cada vocal propietario se nombrará un suplente, quien en todo caso deberá ser un funcionario con el rango inmediato inferior al del miembro propietario. Los vocales a que se refieren las fracciones I a IV de este artículo, deberán ocupar, cuando menos, el cargo de director general de la Administración Pública Federal o su equivalente. Los vocales independientes a que se refiere la fracción V de este precepto, así como sus suplentes, serán designados por la Secretaría y no podrán ser servidores públicos.
+III. Una vocalía designada por la Comisión Nacional del Sistema de Ahorro para el Retiro;
+
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
+
+IV. Una vocalía designada por el Banco de México, y
+
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2022)</small>
+
+V. Dos vocalías independientes.
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
+
+Por cada vocalía titular se nombrará una suplencia, quien en todo caso deberá ser una funcionaria o un funcionario con el rango inmediato inferior al de la persona titular. Las vocalías a que se refieren las fracciones I a IV de este artículo, deberán ocupar, cuando menos, un cargo de dirección general de la Administración Pública Federal o su equivalente. Las vocalías independientes a que se refiere la fracción V de este precepto, así como sus suplentes, serán designadas por la Secretaría y no podrán ser personas servidoras públicas. En la designación de las vocalías referidas en las fracciones I y V se garantizará el principio de paridad de género.
 
 Sin perjuicio de lo señalado en el último párrafo del artículo 371 de la presente Ley, no podrán fungir como vocales, propietarios o suplentes, de la Junta de Gobierno de la Comisión: las personas que ostenten un cargo, mandato, comisión o cualquier otro título jurídico otorgado por alguna Institución de Seguros, por una Institución de Fianzas o por una Sociedad Mutualista, así como por cualquiera otra de las personas o entidades sujetas a la inspección y vigilancia de la Comisión; o las personas que funjan como auditores externos o actuarios independientes que dictaminen sobre la situación y suficiencia de las reservas técnicas de alguna Institución o Sociedad Mutualista, o quienes actúen como expertos independientes que opinen sobre los modelos internos de una Institución.
 
 La Junta de Gobierno de la Comisión podrá constituir comités con fines específicos, los cuales se integrarán y funcionarán de conformidad con las normas que, en su caso, determine la propia Junta de Gobierno.
 
-La Junta de Gobierno de la Comisión, a propuesta del Presidente, nombrará un secretario y un prosecretario de actas, quienes deberán ser servidores públicos de la Comisión.
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
+
+La Junta de Gobierno de la Comisión, a propuesta de la persona titular de la Presidencia, nombrará una secretaría y una prosecretaría de actas, quienes deberán ser personas servidoras públicas de la Comisión.
 
 ###### ARTÍCULO 369.
 
@@ -7159,3 +7175,13 @@ Segundo.- El Ejecutivo Federal elaborará a través del o de los institutos que 
 Tercero.- El estudio mencionado en el artículo anterior será con cargo al presupuesto del Instituto o Dependencia que el Ejecutivo Federal designe para su realización.
 
 Cuarto.- Las Instituciones de Seguros y Sociedades Mutualistas autorizadas tendrán un plazo de 180 días naturales contados a partir del vencimiento del plazo establecido en el Artículo Transitorio Segundo, para presentar a registro ante la Comisión Nacional de Seguros y Fianzas la o las coberturas de que se trata.
+
+D.O.F. 11 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DE LA LEY GENERAL DE SALUD, DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, DE LA LEY GENERAL DE CAMBIO CLIMÁTICO, DE LA LEY ORGÁNICA DE LA PROCURADURÍA DE LA DEFENSA DEL CONTRIBUYENTE, DE LA LEY ORGÁNICA DEL SEMINARIO DE CULTURA MEXICANA, DE LA LEY DE LA AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCIÓN AL MEDIO AMBIENTE DEL SECTOR HIDROCARBUROS, DE LA LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES, DE LA LEY QUE CREA LA AGENCIA DE NOTICIAS DEL ESTADO MEXICANO, DE LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO, DE LA LEY DE INSTITUCIONES DE SEGUROS Y DE FIANZAS, DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO, DE LA LEY DE LA INDUSTRIA ELÉCTRICA, DE LA LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PÁRRAFO OCTAVO DEL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMÍA, DE LA LEY DE LA CASA DE MONEDA DE MÉXICO, DE LA LEY DE CONCURSOS MERCANTILES, DE LA LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS, DE LA LEY DE AGUAS NACIONALES, DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY GENERAL DE DESARROLLO SOCIAL, DE LA LEY ORGÁNICA DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO, DE LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO, DE LA LEY FEDERAL DE VARIEDADES VEGETALES, DE LA LEY FEDERAL DE SANIDAD VEGETAL, DE LA LEY FEDERAL DE SANIDAD ANIMAL, DE LA LEY FEDERAL DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL, DE LA LEY ORGÁNICA DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA, DE LA LEY DE PROTECCIÓN AL AHORRO BANCARIO, DE LA LEY DE LOS INSTITUTOS NACIONALES DE SALUD, DE LA LEY DE CIENCIA Y TECNOLOGÍA, EN MATERIA DE PARIDAD DE GÉNERO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
