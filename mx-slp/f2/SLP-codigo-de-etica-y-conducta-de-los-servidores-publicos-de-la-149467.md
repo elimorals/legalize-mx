@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-etica-y-conducta-de-los-servidores-publicos-de-la-149
 country: "mx"
 rank: "codigo"
 publication_date: "2020-09-02"
-last_updated: "2020-09-02"
+last_updated: "2022-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO DE ÉTICA Y CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA AUDITORÍA SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2022.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 2 de septiembre de 2020.
 
@@ -51,13 +51,19 @@ VI. Que las facultades del Comité Coordinador del Sistema Nacional Anticorrupci
 
 VII. Que será obligación de los entes públicos crear y mantener condiciones que permitan la actuación ética basada en los principios legales y constitucionales que rigen al servicio público fomentando de manera imperante la honestidad, la eficacia, el profesionalismo, la transparencia y la legalidad, de tal manera que la sociedad tenga una confianza plena en el buen servicio del servidor público, por lo que se expide el siguiente:
 
-CODIGO DE ETICA Y CONDUCTA DE LOS SERVIDORES PUBLICOS DE LA AUDITORIA SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ.
+> <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACIÓN], P.O. 12 DE MAYO DE 2022)</small>
+
+CÓDIGO DE ÉTICA Y CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA AUDITORIA SUPERIOR DEL ESTADO.
 
 PRIMERO.- Este acuerdo tiene por objeto emitir el Código de Ética y Conducta para los servidores públicos de la Auditoria Superior del Estado de San Luis Potosí.
 
 SEGUNDO.- El Órgano Interno de Control de la Auditoria Superior del Estado de San Luis Potosí, de acuerdo a lo establecido por el artículo 16 de la Ley General de Responsabilidades Administrativas en relación al artículo 16 de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí emite el presente Código de Ética y Conducta, conforme a los lineamientos que emite el comité coordinador del sistema nacional anticorrupción y publicado en el Diario Oficial de la Federación el 12 de octubre del 2018, para que, este ente público en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.
 
-Objeto
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE MAYO DE 2022)</small>
+
+OBJETO Y MISIÓN
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 12 DE MAYO DE 2022)</small>
 
 El Código de Ética y Conducta tiene como objeto preservar su autonomía técnica y de gestión con base en los principios y valores definidos en el presente instrumento y demás normas reglamentarias para el desempeño de las funciones de los servidores públicos.
 
@@ -68,6 +74,10 @@ Infundir la certeza y el claro entendimiento que de no conducirse de acuerdo con
 Proyectar con ejemplo la utilización honrada, racional y transparente del presupuesto y recursos asignados, bajo la observancia estricta de los principios y normas que regulan nuestra función fundamental para el Estado.
 
 Impulsar la integridad como el principal valor y principio de actuación.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2022)</small>
+
+El Código de Ética y Conducta tiene como Misión el asegurar el cumplimiento de objetivos y metas de la Auditoria Superior del Estado de San Luis Potosí, a través de la verificación y evaluación de la gestión pública, la promoción de la integridad, el apego a la normativa y la inclusión ciudadana.
 
 AMBITO DE APLICACIÓN
 
@@ -125,11 +135,17 @@ VIII. Valores: Cualidad o conjunto de cualidades por las que una persona servido
 
 IX. Lineamientos: lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas, emitidos por el Comité Coordinador del Sistema Nacional Anticorrupción publicado en el Diario Oficial de la Federación el 12 de Octubre del año 2018.
 
-PRINCIPIOS RECTORES DEL SERVICIO PÚBLICO.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE MAYO DE 2022)</small>
+
+PRINCIPIOS RECTORES DEL SERVICIO PÚBLICO
 
 Estos corresponden a los principios éticos de la Norma Internacional de las Entidades Fiscalizadoras Superiores ISSAI 30 y; a los principios constitucionales y legales que rigen al servicio público, que se enlistan en el apartado quinto de los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas.
 
+> <small>(ADICIONADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 12 DE MAYO DE 2022)</small>
+
 a) LEGALIDAD
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 12 DE MAYO DE 2022)</small>
 
 Este responde al principio de Legalidad, que es cumplir y actuar de acuerdo a las Leyes, Reglamentos, Códigos, Manuales y Normas. Así como evitar cualquier conducta que pueda desacreditar a la entidad de fiscalización superior que se representa.
 
@@ -138,6 +154,26 @@ La Auditoría Superior del Estado de San Luis Potosí, con este Código de Étic
 Los servidores públicos de la Auditoría Superior del Estado de San Luis Potosí cumplirán con las Leyes, Reglamentos y Normatividad aplicable en sus funciones, de igual manera cumplir con el presente Código de Ética y Conducta establecido por la misma Auditoría Superior. El personal no debe involucrarse en una conducta que desacredite a la Auditoría Superior del Estado de San Luis Potosí, dentro y fuera de las oficinas o instalaciones donde se realicen sus funciones y actividades como servidores públicos.
 
 El personal de la Auditoría Superior del Estado de San Luis Potosí informará a sus superiores sobre cualquier conflicto que surja entre los requisitos éticos de la Auditoría Superior del Estado de San Luis Potosí y de su profesión, funciones y actividades.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2022)</small>
+
+Marco Jurídico:
+
+- Constitución Política de los Estados Unidos Mexicanos.
+
+- Ley General de Responsabilidades Administrativas.
+
+- Ley General del Sistema Nacional Anticorrupción.
+
+- Constitución Política del Estado Libre y Soberano de San Luis Potosí.
+
+- Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí.
+
+- Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
+
+- Ley del Sistema Estatal Anticorrupción de San Luis Potosí.
+
+- Reglamento Interno de la Auditoria Superior del Estado de San Luis Potosí.
 
 b) HONRADEZ
 
@@ -165,11 +201,19 @@ Nos referimos a eficiencia como la utilización racional y efectiva de los recur
 
 Los servidores públicos de la Auditoría Superior del Estado de San Luis Potosí actuarán en apego a los planes y programas previamente establecidos y optimizarán el uso y la asignación de los recursos públicos en el desarrollo de sus actividades para lograr los objetivos propuestos.
 
+> <small>(ADICIONADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 12 DE MAYO DE 2022)</small>
+
 f) ECONOMÍA
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 12 DE MAYO DE 2022)</small>
 
 La economía se refiere al proceso mediante el cual se busca la forma de obtener el mayor rendimiento posible empleando la mínima cantidad de recursos, o reduciendo costos.
 
 Los servidores públicos de la Auditoría Superior del Estado de San Luis Potosí en el ejercicio del gasto público administrarán los bienes, recursos y servicios públicos con legalidad, austeridad y disciplina, satisfaciendo los objetivos y metas a los que estén destinados, siendo éstos de interés social.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2022)</small>
+
+Utilización de Recursos. Cuidar los recursos humanos, materiales, financieros y tecnológicos, reconociendo que pertenecen al Estado y actuando como administrador de los mismos, teniendo la política de austeridad como premisa en el manejo y empleo de ellos. Planeando las actividades para obtener los mejores resultados en eficiencia y efectividad con racionalidad y ahorro controlando y utilizando con eficiencia, honestidad, transparencia y apego a la legalidad, los recursos de la Auditoria Superior del Estado.
 
 g) DISCIPLINA
 
@@ -177,9 +221,15 @@ Es la capacidad de actuar ordenada y perseverantemente para conseguir un bien. E
 
 Los servidores públicos de la Auditoría Superior del Estado de San Luis Potosí desempeñarán su empleo, cargo o comisión, de manera ordenada, metódica y perseverante, con el propósito de obtener los mejores resultados en el servicio o bienes ofrecidos.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE MAYO DE 2022)</small>
+
 h) PROFESIONALISMO
 
-Para este principio los servidores públicos de la Auditoría Superior del Estado de San Luis Potosí deberán conocer, actuar y cumplir con las funciones, atribuciones y comisiones encomendadas de conformidad con las leyes, reglamentos y demás disposiciones jurídicas atribuibles a su empleo, cargo o comisión, observando en todo momento disciplina, integridad y respeto, tanto a las demás personas servidoras públicas como a las y los particulares con los que llegare a tratar.
+Para este principio los servidores públicos de la Auditoría Superior del Estado de San Luis Potosí deberán conocer, actuar y cumplir con las funciones, atribuciones y comisiones encomendadas de conformidad con las leyes, reglamentos y demás
+
+Disposiciones jurídicas atribuibles a su empleo, cargo o comisión, observando en todo momento disciplina, integridad y respeto, tanto a las demás personas servidoras públicas como a las y los particulares con los que llegare a tratar.
+
+Carta Compromiso. Todo el personal que labore o preste sus servicios en la Auditoria Superior del Estado, suscribirá una carta compromiso, para efecto de cumplir con lo establecido en el Código Ética y Conducta de los Servidores Públicos de la Auditoria Superior del Estado.
 
 i) OBJETIVIDAD
 
@@ -193,11 +243,19 @@ La transparencia se entiende como el deber de informar a la ciudadanía el actua
 
 Todo servidor público de la Auditoría Superior del Estado de San Luis Potosí, por medio de los mecanismos, canales, medios, circunstancias y plazos que establece la Ley, debe permitir y garantizar el acceso a la información, sin más límite del que imponga el interés público y los derechos de protección de datos personales señalados por las Leyes aplicables. Ello implica respetar las estipulaciones y restricciones señaladas por la Ley en la materia.
 
+> <small>(ADICIONADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 12 DE MAYO DE 2022)</small>
+
 k) RENDICIÓN DE CUENTAS
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 12 DE MAYO DE 2022)</small>
 
 Entenderemos con este valor de la confidencialidad como el dar cuentas claras del trabajo realizado y explicar a la sociedad las acciones realizadas, aceptando consecuentemente la responsabilidad de las mismas.
 
 Los servidores públicos de la Auditoría Superior del Estado de San Luis Potosí, mantendrán una actitud que les permita asumir la responsabilidad de su función de manera adecuada y en beneficio de la sociedad. Ello los obliga a contribuir a través de sus funciones, en incrementar la eficiencia, eficacia, calidad y oportunidad en el ejercicio (sic) los recursos públicos de este Órgano de Fiscalización Superior.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2022)</small>
+
+Uso y Manejo de la Información y Datos. Colaborar en la administración y elaboración de los informes, reportes o cualquier información que me sea requerida con el objetivo de que la Auditoria Superior del Estado, atienda satisfactoriamente la demandas de información, siempre que ésta no sea reservada de acuerdo a la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, procurando su confiabilidad y oportunidad. Proporcionando la información en los términos que señalan las normas y la legislación vigente, con respecto a mis responsabilidades y en atención a una instrucción. Administrando la información a mi cargo, evitando su destrucción, saturación, ocultamiento o la utilización indebida de la misma.
 
 l) COMPETENCIA POR MERITO
 
@@ -225,11 +283,15 @@ Este principio ético, constituye el principal valor a promover e impulsar en nu
 
 La Auditoría Superior del Estado de San Luis Potosí enfatizará, demostrará, apoyará y promoverá la integridad. De igual manera, garantizar que el ambiente interno sea propicio para que el personal responda a las infracciones a la integridad en el momento oportuno y adecuado.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE MAYO DE 2022)</small>
+
 o) EQUIDAD
 
 La equidad promueve la igualdad, más allá de las diferencias. Se relaciona con la justicia social, ya que defiende las mismas condiciones y oportunidades para todas las personas, sin distinción, solo adaptándose en los casos particulares.
 
 Los servidores públicos de la Auditoría Superior del Estado de San Luis Potosí procurarán que toda persona acceda con justicia e igualdad al uso, disfrute y beneficio de los bienes, servicios, recursos y oportunidades.
+
+En base a la equidad de género, se debe garantiza que tanto las mujeres como hombres servidoras públicas de este órgano fiscalizador, accedan con las mismas condiciones, posibilidades y oportunidades a los bienes y servicios, así como a los programas y beneficios institucionales, y a los empleos, cargos y comisiones dentro de la Auditoria Superior del Estado.
 
 p) INDEPENDENCIA
 
@@ -289,7 +351,11 @@ MECANISMOS DE CAPACITACION Y DIFUSION DEL CODIGO DE ETICA Y DE LAS POLITICAS DE 
 
 Por último, los mecanismos de capacitación y difusión de la Política de Integridad en el que está incluido el presente Código de Ética y Conducta, estarán definidos anualmente conforme al plan de trabajo del Comité de Integridad de la Auditoría Superior del Estado. En este se promoverá el conocimiento y aplicación de la Política de Integridad y facilitará su eficacia en la prevención de la corrupción.
 
+> <small>(ADICIONADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 12 DE MAYO DE 2022)</small>
+
 CÓDIGO DE CONDUCTA
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 12 DE MAYO DE 2022)</small>
 
 Independientemente de su formación, funciones y actividades, todo servidor público de la Auditoría Superior del Estado de San Luis Potosí, una vez apegado a las normas de comportamiento ético, manifestará la conducta que refuerce y garantice a la sociedad la alta calidad en su desempeño profesional.
 
@@ -300,6 +366,8 @@ El propósito principal de este Código de Conducta es infundir en el personal u
 El presente Código deberá ser observado en cualquier lugar, situación o contexto donde el personal realice funciones relacionadas con la Auditoría Superior del Estado de San Luis Potosí y actuar con la máxima diligencia, eficacia y eficiencia en las comisiones y servicios que le sean encomendados, absteniéndose de realizar cualquier acto, conducta u omisión que cause deficiencias en el trabajo y en consecuencia, suspensión del mismo o implique abuso o ejercicio indebido del empleo, cargo o comisión.
 
 La aplicación de este Código no limita el alcance de las demás disposiciones federales y locales que los servidores públicos están obligados a cumplir, ni de otros Códigos Profesionales que en su caso resulten aplicables.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 12 DE MAYO DE 2022)</small>
 
 El personal de la Auditoría Superior del Estado de San Luis Potosí, encabezado por su Titular y en todos sus niveles, cargos y comisiones, se comprometen a las reglas conductuales siguientes:
 
@@ -403,11 +471,27 @@ Estas consideraciones son acciones preventivas a manera de salvaguardar los valo
 
 35. Abstenerse de utilizar información, bienes y servicios institucionales para atender asuntos de carácter privado.
 
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2022)</small>
+
+36. Seguridad, Higiene, Salud Pública. Conocer y aplicar las medidas de seguridad con base en los principios de la materia; Observar y gestionar que se cumplan las medidas de seguridad establecidas, así como el avisar a mi superior cuando existan condiciones o actos inseguros que pongan en riesgo la integridad física de cualquier persona. Acudir inmediatamente a recibir atención médica para prevenir contagios de Covid–19, cuando se presenten síntomas y ejecutar todas las medidas planteadas por la Secretaría de Salud y los Servicios de Salud del Estado de San Luis Potosí.
+
+Utilizar racionalmente el agua, la energía eléctrica, el combustible, los implementos de oficina que estén a mi disposición. Haciendo un uso racional de la energía eléctrica apagando las lámparas, los equipos electrónicos y eléctricos, cuando no se utilicen.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2022)</small>
+
+37. Participar en el combate a la corrupción. El comportamiento de los servidores públicos de la Auditoria Superior del Estado debe ser un ejemplo de integridad, con aspiración a la excelencia en el servicio público reconociéndose como un factor central de consolidación de la nueva ética pública, desde el ámbito de las atribuciones, manteniendo un firme compromiso con el combate a la corrupción, y denunciando cualquier acto u omisión contrario a la Ley o la Ética, del que se tenga conocimiento.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2022)</small>
+
+38. Ejercer adecuadamente el cargo público. Los servidores públicos de la Auditoria Superior del Estado, deben conducirse con rectitud, conforme a sus atribuciones y con imparcialidad, sin utilizar su empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho, ventaja a favor de su cónyuge, concubina, concubinario o conviviente, parientes consanguíneos o civiles, o para terceras personas con los que se tengan relaciones personales, profesionales, laborales, de negocios, o para socios o sociedades de las que formen parte, así como el no buscar o aceptar compensaciones o prestaciones adicionales, así como dadivas, obsequios o regalos de cualquier persona u organización, en razón del ejercicio de las labores.
+
 Asimismo este Órgano Interno de Control de Auditoria Superior del Estado da cumplimiento a la disposición séptima del capítulo segundo del acuerdo publicado en el Diario Oficial de la Federación el 12 de octubre del año 2018 por el que se dan a conocer los lineamientos para la emisión del Código de Ética y Conducta a que se refiere el artículo 16 de la Ley General de Responsabilidades administrativas, mismo que refiere, que el Código de Conducta que emitan las Secretarias y los Órganos Internos de Control promoverá el conocimiento y aplicación de las directrices que establece el artículo 7 de la Ley General de Responsabilidades Administrativas;
 
 Los Servidores Públicos observarán en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público. Para la efectiva aplicación de dichos principios, los Servidores Públicos observarán las siguientes:
 
-DIRECTRICES QUE RIGEN LA ACTUACION DE LOS SERVIDORES PUBLICOS.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE MAYO DE 2022)</small>
+
+DIRECTRICES QUE RIGEN LA ACTUACIÓN DE LOS SERVIDORES PÚBLICOS.
 
 I. Actuar conforme a lo que las leyes, reglamentos y demás disposiciones jurídicas les atribuyen a su empleo, cargo o comisión, por lo que deben conocer y cumplir las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones;
 
@@ -425,6 +509,10 @@ VII. Promover, respetar, proteger y garantizar los derechos humanos establecidos
 
 VIII. Corresponder a la confianza que la sociedad les ha conferido; tendrán una vocación absoluta de servicio a la sociedad, y preservarán el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general;
 
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2022)</small>
+
+VIII. BIS Compromisos con la Sociedad. El servicio público es una labor de honor, parte de un gobierno abierto, honesto, eficaz y transparente, por lo que se debe actuar conforme a una cultura de servicio orientada a la eficacia de gestión, un orden y disciplina en uso de los recursos públicos y evaluación constante de su desempeño.
+
 IX. Evitar y dar cuenta de los intereses que puedan entrar en conflicto con el desempeño responsable y objetivo de sus facultades y obligaciones;
 
 X. Se abstendrán de asociarse con inversionistas, contratistas o empresarios nacionales o extranjeros, para establecer cualquier tipo de negocio privado que afecte el desempeño imparcial y objetivo en razón de intereses personales o familiares, hasta el cuarto grado por consanguinidad o afinidad;
@@ -435,9 +523,13 @@ XII. Abstenerse de intervenir o promover, por sí o por interpósita persona, en
 
 XIII. Abstenerse de realizar cualquier trato o promesa privada que comprometa al Estado mexicano.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE MAYO DE 2022)</small>
+
 ACCIONES EN CASO DE INCUMPLIMIENTO.
 
 En caso de que se incumpla con las disposiciones previstas en el presente Código de Ética y Código de Conducta, el Comité de Integridad de la Auditoría Superior del Estado de San Luis Potosí, conforme a las disposiciones establecidas en la normativa interna de las Reglas de Integridad, realizará las acciones correspondientes, con objeto de canalizar y proceder en términos de las disposiciones legales aplicables.
+
+Por medio de una Denuncia cualquier persona puede hacer del conocimiento, por presuntos incumplimientos al Código Ética y Conducta de los Servidores Públicos de la Auditoria Superior del Estado, mediante escrito o de manera personal ante el Órgano Interno de Control, el cual dará vista al Comité de Integridad, iniciando así las acciones correspondientes, con objeto de canalizar y proceder en términos de las disposiciones legales aplicables.
 
 ## TRANSITORIOS
 
@@ -452,3 +544,13 @@ LICENCIADA ROSALBA SALAZAR MIRANDA
 TITULAR DEL ORGANO INTERNO DE CONTROL DE LA AUDITORIA SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO ADMINISTRATIVO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO DE ÉTICA Y CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA AUDITORÍA SUPERIOR DEL ESTADO”.]
+
+PRIMERO.- El presente acuerdo administrativo entra en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan al presente Acuerdo.
