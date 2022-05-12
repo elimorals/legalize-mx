@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2022-04-18"
+last_updated: "2022-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2022.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2543,9 +2543,9 @@ El delito de robo de uso se perseguirá por querella de parte ofendida.
 
 Robo Calificado.- Se aplicará al delincuente la misma pena del robo con violencia, adicionando a su vez las penas previstas en este artículo, en los casos siguientes:
 
-(NOTA: EL 10 DE MAYO DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 47/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 13 DE FEBRERO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 173, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE MAYO DE 2022)</small>
 
-I.- SE IMPONDRÁ DE DOS A SIETE AÑOS:
+I.- Se impondrá prisión de dos a siete años:
 
 a) Cuando el delito se cometa en edificio, vivienda, aposento o cuartos que estén habitados o destinados para habitación comprendiéndose en esta denominación no solo los que estés (sic) fijados sino también los movibles, sea cual fuere la materia de que están construidos;
 
@@ -6306,3 +6306,9 @@ P.O. 18 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 88 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE MODIFICA EL TERCER PÁRRAFO DEL ARTÍCULO 184-TER DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor el día siguiente a su publicación en el Periódico Oficial el Estado (sic).
+
+P.O. 12 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 105 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 208 FRACCIÓN I DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
