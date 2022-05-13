@@ -4,7 +4,7 @@ identifier: "LGMDFP"
 country: "mx"
 rank: "ley_general"
 publication_date: "2017-11-17"
-last_updated: "2022-04-28"
+last_updated: "2022-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124480&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGMDFP"
 
 LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MAYO DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 17 de noviembre de 2017.
 
@@ -68,6 +68,10 @@ IV. Crear la Comisión Nacional de Búsqueda y ordenar la creación de Comisione
 
 V. Garantizar la protección integral de los derechos de las Personas Desaparecidas hasta que se conozca su suerte o paradero; así como la atención, la asistencia, la protección y, en su caso, la reparación integral y las garantías de no repetición, en términos de esta Ley y la legislación aplicable;
 
+> <small>(ADICIONADA, D.O.F. 13 DE MAYO DE 2022)</small>
+
+V Bis. Crear el Centro Nacional de Identificación Humana como una unidad administrativa, con independencia técnico-científica, adscrita a la Comisión Nacional de Búsqueda;
+
 VI. Crear el Registro Nacional de Personas Desaparecidas y No Localizadas, y
 
 VII. Establecer la forma de participación de los Familiares en el diseño, implementación, monitoreo y evaluación de las acciones de búsqueda e identificación de Personas Desaparecidas y No Localizadas; así como garantizar la coadyuvancia en las etapas de la investigación, de manera que puedan verter sus opiniones, recibir información, aportar indicios o evidencias.
@@ -82,6 +86,10 @@ Para efectos de esta Ley se entiende por:
 
 I. Banco Nacional de Datos Forenses: a la herramienta del Sistema Nacional que concentra las bases de datos de las Entidades Federativas y de la Federación; así como, otras bases de datos que tengan información forense relevante para la búsqueda e identificación de Personas Desaparecidas y No Localizadas;
 
+> <small>(ADICIONADA, D.O.F. 13 DE MAYO DE 2022)</small>
+
+I Bis. Centro Nacional: al Centro Nacional de Identificación Humana adscrito orgánicamente a la Comisión Nacional de Búsqueda;
+
 II. Comisión Ejecutiva: a la Comisión Ejecutiva de Atención a Víctimas;
 
 III. Comisiones de Víctimas: a las Comisiones de Atención a Víctimas de las Entidades Federativas;
@@ -93,6 +101,18 @@ V. Comisiones Locales de Búsqueda: a las Comisiones de Búsqueda de Personas en
 VI. Consejo Ciudadano: al Consejo Nacional Ciudadano, órgano del Sistema Nacional de Búsqueda de Personas;
 
 VII. Declaración Especial de Ausencia: a la Declaración Especial de Ausencia por Desaparición;
+
+> <small>(ADICIONADA, D.O.F. 13 DE MAYO DE 2022)</small>
+
+VII Bis. Enfoque de identificación humana complementario: al Sistema forense que combina la investigación forense de pequeña, moderada escala, individualizado o tradicional con una de enfoque integral de investigación forense de gran escala. Ambos se complementan y si las circunstancias lo exigen, pueden combinarse;
+
+> <small>(ADICIONADA, D.O.F. 13 DE MAYO DE 2022)</small>
+
+VII Ter. Enfoque individualizado o tradicional: al Sistema forense multidisciplinario en el que se busca la identificación humana contrastando (sic) información caso por caso;
+
+> <small>(ADICIONADA, D.O.F. 13 DE MAYO DE 2022)</small>
+
+VII Quater. Enfoque masivo o a gran escala: al Sistema forense multidisciplinario de identificación humana, que tiene como objetivo analizar toda la información forense disponible y útil para la identificación, priorizando los procedimientos técnicos que aumenten las probabilidades de identificación, incluyendo el análisis de toda la información ante mortem y post mortem disponible, basado en el contexto de cada caso;
 
 VIII. Entidades Federativas: a las partes integrantes de la Federación a que se refiere el artículo 43 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -372,6 +392,8 @@ Las penas aplicables para los delitos establecidos en los artículos 34 y 35 de 
 
 ### CAPÍTULO SEGUNDO. DE LA COMISIÓN NACIONAL DE BÚSQUEDA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE MAYO DE 2022)</small>
+
 ###### Artículo 37.
 
 A quien oculte, deseche, incinere, sepulte, inhume, desintegre o destruya, total o parcialmente, restos de un ser humano o el cadáver de una persona, con el fin de ocultar la comisión de un delito, se le impondrá pena de quince a veinte años de prisión y de mil a mil quinientos días multa.
@@ -476,6 +498,10 @@ V. El Registro Administrativo de Detenciones;
 
 VI. La Alerta Amber;
 
+> <small>(ADICIONADA, D.O.F. 13 DE MAYO DE 2022)</small>
+
+VI Bis. El Centro Nacional;
+
 VII. El Protocolo Homologado de Búsqueda y los protocolos previstos en el artículo 73 de esta Ley, y
 
 VIII. Otros registros necesarios para su operación en términos de lo que prevé esta Ley.
@@ -506,6 +532,10 @@ X. Evaluar el cumplimiento de los lineamientos que regulen el funcionamiento del
 
 XI. Evaluar el cumplimiento de los lineamientos que regulen el funcionamiento del Registro Nacional de Fosas;
 
+> <small>(ADICIONADA, D.O.F. 13 DE MAYO DE 2022)</small>
+
+XI Bis. Evaluar el cumplimiento de la implementación del Centro Nacional y generar mecanismos y acuerdos para coadyuvar con el logro de su objetivo;
+
 XII. Recomendar a las Procuradurías Locales el empleo de técnicas y tecnologías para mejorar las acciones de búsqueda, así como la evaluación de las mismas;
 
 XIII. Proporcionar la información que sea solicitada por el Consejo Ciudadano para el ejercicio de sus funciones;
@@ -524,7 +554,7 @@ XVII. Las demás que se requieran para el cumplimiento de los objetivos de esta 
 
 ###### Artículo 50.
 
-La Comisión Nacional de Búsqueda es un órgano administrativo desconcentrado de la Secretaría de Gobernación, que determina, ejecuta y da seguimiento a las acciones de búsqueda de Personas Desaparecidas y No Localizadas, en todo el territorio nacional, de conformidad con lo dispuesto en esta Ley. Tiene por objeto impulsar los esfuerzos de vinculación, operación, gestión, evaluación y seguimiento de las acciones entre autoridades que participan en la búsqueda, localización e identificación de personas.
+La Comisión Nacional de Búsqueda es un órgano administrativo desconcentrado de la Secretaría de Gobernación, que determina, ejecuta y da seguimiento a las acciones de búsqueda de Personas Desaparecidas y No Localizadas, en todo el territorio nacional. Esto incluye, además de la búsqueda en vida, la búsqueda forense con fines de identificación de cuerpos y restos humanos desde la perspectiva individualizada o generalizada a través de un enfoque masivo o a gran escala o, en su caso, de identificación humana complementario y de la operación de un Centro Nacional con competencia en todo el territorio nacional, el cual debe interconectarse y compartir la información con el resto de las herramientas precisadas en el artículo 48 de la presente Ley y demás disposiciones jurídicas aplicables.
 
 Todas las autoridades, en el ámbito de sus competencias, están obligadas a colaborar de forma eficaz con la Comisión Nacional de Búsqueda para el cumplimiento de esta Ley.
 
@@ -619,6 +649,38 @@ XXIV. Mantener comunicación continua y permanente con el Mecanismo de Apoyo Ext
 XXV. Evaluar las políticas y estrategias para la búsqueda y localización de Personas Desaparecidas o No Localizadas, así como vigilar su cumplimiento por parte de las instituciones federales y Entidades Federativas;
 
 XXVI. Conocer y opinar sobre las políticas y estrategias para la identificación de personas localizadas con vida y personas fallecidas localizadas en fosas comunes y clandestinas, así como vigilar su cumplimiento por parte de las instituciones federales y Entidades Federativas;
+
+> <small>(ADICIONADA, D.O.F. 13 DE MAYO DE 2022)</small>
+
+XXVI Bis. Diseñar, ejecutar y dar seguimiento a las acciones de búsqueda forense con fines de identificación humana en coadyuvancia con las Comisiones Locales de Búsqueda, la Fiscalía, las Fiscalías Especializadas y las instituciones que presten servicios forenses y otras instancias creadas con el fin de contribuir a la identificación humana dentro del Sistema Nacional;
+
+> <small>(ADICIONADA, D.O.F. 13 DE MAYO DE 2022)</small>
+
+XXVI Ter. Recuperar, recolectar, resguardar, trasladar, transportar y analizar con fines de identificación humana los cuerpos, restos humanos y muestras óseas con fines de procesamiento genético;
+
+> <small>(ADICIONADA, D.O.F. 13 DE MAYO DE 2022)</small>
+
+XXVI Quater. Resguardar, a través del Centro Nacional, la información tendiente a la identificación humana la cual, una vez procesada, será remitida a la autoridad competente y dada a conocer a las familias interesadas en términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 13 DE MAYO DE 2022)</small>
+
+XXVI Quinquies. Solicitar a las instituciones de los tres órdenes de gobierno, servicios forenses o periciales, Fiscalía, Fiscalías Especializadas y demás autoridades competentes la información concerniente a la búsqueda de personas desaparecidas, incluida la de identificación de cuerpos y restos humanos que tengan bajo su resguardo, sin perjuicio del cumplimiento de las obligaciones en materia de protección de datos personales y reserva de información pública;
+
+> <small>(ADICIONADA, D.O.F. 13 DE MAYO DE 2022)</small>
+
+XXVI Sexies. Realizar campañas de toma de muestras referenciales con fines de procesamiento a nivel nacional, que permitan recabar información genética de los familiares de Personas Desaparecidas o No Localizadas, sin necesidad de denuncia;
+
+> <small>(ADICIONADA, D.O.F. 13 DE MAYO DE 2022)</small>
+
+XXVI Septies. Emitir los lineamientos que regulen el procesamiento de la información proporcionada por la Fiscalía, las Fiscalías y demás autoridades competentes;
+
+> <small>(ADICIONADA, D.O.F. 13 DE MAYO DE 2022)</small>
+
+XXVI Octies. Coordinar la operación del Centro Nacional en términos de esta Ley, su Reglamento y demás disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 13 DE MAYO DE 2022)</small>
+
+XXVI Nonies. Inspeccionar centros de resguardo, cementerios, fosas comunes y todo sitio en el que se encuentren cuerpos o restos humanos e indicios biológicos sin identificar;
 
 XXVII. Celebrar, de conformidad con las disposiciones aplicables, convenios de coordinación, colaboración y concertación, o cualquier otro instrumento jurídico necesarios para el cumplimiento de los objetivos del Sistema Nacional, así como de sus atribuciones;
 
@@ -878,6 +940,10 @@ II. Mantener coordinación con la Comisión Nacional de Búsqueda para realizar 
 
 III. Dar aviso de manera inmediata, a través del Registro Nacional, a la Comisión Nacional de Búsqueda sobre el inicio de una investigación de los delitos materia de esta Ley, a fin de que se inicien las acciones correspondientes a la búsqueda; así como compartir la información relevante, de conformidad con el Protocolo Homologado de Investigación y demás disposiciones aplicables;
 
+> <small>(ADICIONADA, D.O.F. 13 DE MAYO DE 2022)</small>
+
+III Bis. Proporcionar a la Comisión Nacional de Búsqueda la información ministerial y pericial que ésta le solicite, tendiente a la búsqueda de personas con fines de identificación humana y entregar al Centro Nacional la información correspondiente bajo los criterios de homologación definidos por la Comisión;
+
 IV. Mantener comunicación continua y permanente con la Comisión Nacional de Búsqueda y las Comisiones Locales de Búsqueda, a fin de compartir información que pudiera contribuir en las acciones para la búsqueda y localización de personas, en términos de las disposiciones aplicables;
 
 V. Informar de manera inmediata a la Comisión Nacional de Búsqueda o a la Comisión Local de Búsqueda, según sea el caso, la localización o identificación de una Persona;
@@ -907,6 +973,12 @@ XVI. Establecer mecanismos de cooperación destinados al intercambio de informac
 XVII. Localizar a las familias de las personas fallecidas identificadas no reclamadas, en coordinación con las instituciones correspondientes, para poder hacer la entrega de cadáveres o restos humanos, conforme a lo señalado por el Protocolo Homologado de Investigación y demás normas aplicables;
 
 XVIII. Solicitar a las autoridades jurisdiccionales competentes la autorización para la realización de las exhumaciones en cementerios, fosas o de otros sitios en los que se encuentren o se tengan razones fundadas para creer que se encuentran cadáveres o restos humanos de Personas Desaparecidas;
+
+> <small>(ADICIONADA, D.O.F. 13 DE MAYO DE 2022)</small>
+
+XVIII Bis. Realizar las investigaciones que requieran control judicial solicitadas por la Comisión Nacional de Búsqueda o las Comisiones Locales de Búsqueda, en el contexto de la búsqueda forense de personas desaparecidas con un enfoque masivo o a gran escala o, en su caso, de identificación humana complementario (sic).
+
+Las investigaciones deben realizarse en un término no mayor de setenta y dos horas salvo que, por su naturaleza, se requiera un término mayor, en cuyo caso lo podrá ampliar hasta ciento cuarenta y cuatro horas;
 
 XIX. Solicitar a las autoridades jurisdiccionales competentes el traslado de las personas internas a otros centros de reclusión salvaguardando sus derechos humanos, siempre que esta medida favorezca la búsqueda o localización de las Personas Desaparecidas o a la investigación de los delitos materia de esta Ley, en términos de la Ley Nacional de Ejecución Penal;
 
@@ -2235,3 +2307,19 @@ Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que 
 Tercero. El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
 
 Cuarto. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+
+D.O.F. 13 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Centro Nacional deberá comenzar a operar a los noventa días siguientes de la entrada en vigor del presente Decreto.
+
+Tercero.- Iniciada la operación del Centro Nacional, la Comisión Nacional de Búsqueda tendrá noventa días para emitir los Lineamientos a que se refiere la fracción XXVI Septies del artículo 53 de la presente Ley.
+
+Cuarto.- El Sistema Nacional y la Conferencia Nacional de Procuración de Justicia tendrán ciento ochenta días para realizar las adecuaciones necesarias en el Protocolo Homologado de Investigación y el Protocolo Homologado de Búsqueda, respectivamente, conforme al presente Decreto.
+
+Quinto.- Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Sexto.- Las erogaciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal y cualquier otro ente público en el ámbito de sus competencias, para dar cumplimiento a lo dispuesto en el presente Decreto, deberán cubrirse con cargo a sus respectivos presupuestos aprobados para el presente ejercicio fiscal y subsecuentes, por lo que no se incrementarán sus respectivos presupuestos regularizables.
