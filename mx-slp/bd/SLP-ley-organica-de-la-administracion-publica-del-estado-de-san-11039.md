@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2021-12-27"
+last_updated: "2022-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -267,9 +267,9 @@ XVI. Contraloría General del Estado;
 
 XVII. La Secretaría de Salud;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
 
-XVIII. Secretaría de Seguridad Pública, y
+XVIII. Secretaría de Seguridad y Protección Ciudadana, y
 
 > <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
@@ -1283,99 +1283,63 @@ XIX. Promover, organizar y participar en conferencias, convenciones, encuentros 
 
 XX. Las demás que le confieran las leyes y reglamentos vigentes.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
-ARTICULO 41 QUATER. A la Secretaría de Seguridad Pública le corresponde el despacho de los siguientes asuntos:
+ARTICULO 41 QUATER. A la Secretaría de Seguridad y Protección Ciudadana, dependencia de carácter civil, disciplinado, y profesional, le corresponde el despacho de los siguientes asuntos:
 
-I. Formular y proponer al titular del Poder Ejecutivo, políticas integrales, sistemáticas, continuas y evaluables; así como programas y estrategias, en materia de seguridad pública;
+I. Formular y proponer al titular del Poder Ejecutivo, políticas integrales, sistemáticas, continuas y evaluables; así como programas y estrategias, en materia de seguridad ciudadana de acuerdo con la Ley del Sistema de Seguridad Pública del Estado;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+II. Organizar y supervisar bajo su adscripción a la Guardia Civil Estatal, el desempeño honesto de su personal y aplicar su régimen civil, disciplinado y profesional, con el objeto de salvaguardar la vida, la integridad y el patrimonio de las personas y prevenir la comisión de delitos;
 
-II. Planear, organizar, y ejecutar, los programas, y acciones relativas a la protección de los habitantes, el orden público, a la prevención de los delitos y conductas antisociales, en la que deban participar las diferentes instituciones policiales, así como del sistema penitenciario, y del sistema integral de justicia para adolescentes;
+III. Crear los cuerpos de seguridad necesarios, especializados, asignándoles los propósitos y funciones que sean convenientes, quienes estarán bajo el mando y subordinación directa e inmediata de la Guardia Civil Estatal.; (sic)
 
-III. Garantizar que los actos de los particulares se desarrollen dentro de los límites de respeto a la vida privada, a la paz y a la moral pública, y proteger los derechos de las personas;
+IV. Planear, organizar y ejecutar los programas y acciones relativas a la protección de las personas que habitan o transitan en el Estado, el orden público, a la prevención de los delitos y conductas antisociales, en la que deban participar las diferentes instituciones policiales;
 
-IV. Representar, a través de su titular, al Gobernador del Estado, en el Sistema Nacional de Seguridad Pública, en ausencia, o suplencia del mismo;
+V. Planear, organizar y ejecutar los programas y acciones relativas al sistema penitenciario, y al sistema integral de justicia para adolescentes;
 
-V. (DEROGADA, P.O. 28 DE MARZO DE 2012)
+VI. Garantizar que los actos de los particulares se desarrollen dentro de los límites de respeto a la vida privada, a la paz y a la moral pública y proteger los derechos de las personas;
 
-VI. (DEROGADA, P.O. 28 DE MARZO DE 2012)
+VII. Representar, a través de su titular, al Gobernador Constitucional del Estado en el Sistema Nacional de Seguridad Pública, en ausencia, o suplencia de éste;
 
-VII. Fungir como coordinador operativo de los cuerpos de seguridad pública estatales, y municipales, en los casos en que celebre con éstos los convenios respectivos para tal fin;
+VIII. Fungir como coordinador operativo de los cuerpos de seguridad pública estatales y municipales, en los casos en que celebre con éstos los convenios respectivos para tal fin;
 
-VIII. Regular y autorizar la portación de armas conforme a la licencia oficial colectiva otorgada por la Secretaría de la Defensa Nacional;
+IX. Regular y autorizar la portación de armas conforme a la licencia oficial colectiva otorgada por la Secretaría de la Defensa Nacional;
 
-IX. (DEROGADA, P.O. 28 DE MARZO DE 2012)
+X. Autorizar, normar y vigilar el funcionamiento de los organismos de coordinación auxiliares en materia de seguridad pública;
 
-X. (DEROGADA, P.O. 28 DE MARZO DE 2012)
+XI. Planear, organizar, regular y vigilar los sistemas de vialidad y tránsito en el ámbito de competencia del Estado y en coordinación con los ayuntamientos cuando se trate de la esfera de competencia de los municipios, conforme a las disposiciones jurídicas aplicables;
 
-XI. (DEROGADA, P.O. 28 DE MARZO DE 2012)
+XII. Aplicar en el Estado, las normas, políticas y programas que deriven de la Ley General del Sistema Nacional de Seguridad Pública;
 
-XII. (DEROGADA, P.O. 28 DE MARZO DE 2012)
+XIII. Emitir conforme a los lineamientos federales, las normas técnicas que regirán en el Estado, en cuanto a las características que debe reunir el personal de seguridad pública, así como de su desarrollo permanente y de los instrumentos, equipos, instalaciones y recursos en general, que se apliquen para el desempeño de sus funciones;
 
-XIII. (DEROGADA, P.O. 28 DE MARZO DE 2012)
+XIV. Vigilar que en las instituciones de seguridad pública, estatales y municipales, se aplique homogénea y permanentemente, el protocolo de certificación correspondiente, aprobado por el Centro Nacional de Certificación y Acreditación y atendiendo a los principios de legalidad, eficiencia, profesionalismo y honradez;
 
-XIV. (DEROGADA, P.O. 28 DE MARZO DE 2012)
+XV. Proponer al titular del Poder Ejecutivo del Estado, las políticas y medidas que propicien una conducta policial basada en los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, y la normatividad que de ella emane; además de garantizar la sanción de manera enérgica y eficaz cualquier abuso o desviación en la conducta policial; así como aplicar y dirigir dichas políticas en el ámbito de su competencia;
 
-XV. Autorizar, normar y vigilar el funcionamiento de los organismos de coordinación auxiliares en materia de seguridad pública;
+XVI. Supervisar las funciones y vigilar la aplicación de las resoluciones emitidas por la Comisión de Honor y Justicia de las diversas corporaciones de seguridad en el Estado, en los términos de ley;
 
-XVI. Planear, organizar, regular y vigilar los sistemas de vialidad y tránsito en el ámbito de competencia del Estado, y en coordinación con los ayuntamientos cuando se trate de la esfera de competencia de los municipios, conforme a las disposiciones jurídicas aplicables;
+XVII. Otorgar y regular las autorizaciones a empresas para que puedan prestar servicios privados de seguridad en el Estado, así como supervisar su funcionamiento;
 
-XVII. Aplicar en el Estado las normas, políticas y programas que deriven de la Ley General del Sistema Nacional de Seguridad Pública;
+XVIII. Auxiliar a las autoridades federales, estatales y municipales, en materia de prevención y auxilio en caso de catástrofes naturales de conformidad a la Ley del Sistema de Protección Civil del Estado y a la Ley General de Protección Civil;
 
-XVIII. (DEROGADA, P.O. 28 DE MARZO DE 2012)
+XIX. Atender de manera expedita las denuncias y quejas ciudadanas con relación al ejercicio de sus atribuciones;
 
-XIX. Emitir conforme a los lineamientos federales las normas técnicas que regirán en el Estado, en cuanto a las características que deban reunir el personal de seguridad pública, así como de su desarrollo permanente, y de los instrumentos, equipos, instalaciones y recursos en general, que se apliquen para el desempeño de sus funciones;
+XX. Administrar los recursos que le sean asignados a efecto de realizar una equitativa distribución de los mismos, entre las diferentes áreas que la integran, asignando de acuerdo a las necesidades y requerimientos de cada una de ellas, los recursos financieros, humanos y materiales de que disponga, de acuerdo a la normatividad existente para tal efecto;
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2011)</small>
+XXI. Otorgar a los tribunales el auxilio que soliciten para el ejercicio de sus funciones;
 
-XX. Vigilar que en las instituciones de seguridad pública, estatales, y municipales, se aplique homogénea y permanentemente, el protocolo de certificación correspondiente, aprobado por el Centro Nacional de Certificación y Acreditación, y atendiendo a los principios de legalidad, eficiencia, profesionalismo y honradez;
+XXII. Elaborar el protocolo de revisión, evaluación y control para el cumplimiento de las funciones de los elementos de seguridad pública estatal y municipal, en la garantía, respeto y protección de los derechos humanos;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
+XXIII. Rendir informe semestral de los resultados y avances del cumplimiento de los lineamientos y acciones realizadas en materia de seguridad, ante el pleno del Consejo Estatal de Seguridad Pública;
 
-XXI. Proponer al titular del Ejecutivo del Estado, las políticas y medidas que propicien una conducta policial basada en los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, y la normatividad que de ella emane; además de sancionar de manera enérgica y eficaz cualquier abuso o desviación en la conducta policial; así como aplicar y dirigir dichas políticas en el ámbito de su competencia;
+XXIV. Administrar el Sistema Penitenciario; aplicar el modelo de reinserción social; y tramitar por acuerdo del Gobernador Constitucional del Estado las solicitudes de extradición y traslado de internos;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
+XXV. Administrar y operar el Sistema Penitenciario sobre la base del respeto a los derechos humanos, el trabajo, la capacitación para el mismo, la educación, la salud y el deporte, como medios para procurar la reinserción social de las personas privadas de su libertad; en corresponsabilidad con otras instituciones y órganos, brindar el apoyo para prevenir la reincidencia, así como coadyuvar con las autoridades jurisdiccional y administrativa del Estado, en términos de la Ley Nacional de Ejecución Penal y del Código Nacional de Procedimientos Penales;
 
-XXII. Conducir las funciones, y vigilar la aplicación de las resoluciones emitidas por la Comisión de Honor y Justicia de las diversas corporaciones de seguridad en el Estado, en los términos de ley;
+XXVI. Vigilar y coordinar, a través de la Coordinación Especializada en Justicia Penal para Adolescentes, el funcionamiento de los centros de internamiento para adolescentes y de los centros de ejecución de medidas en libertad, así como elaborar los planes individualizados de ejecución y llevar a cabo las medidas de sanción aprobadas por el Juez de Ejecución Especializado en Justicia Penal para Adolescentes, y
 
-XXIII. Otorgar y regular las autorizaciones a empresas para que puedan prestar servicios privados de seguridad en el Estado, así como supervisar su funcionamiento;
-
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
-
-XXIV. Auxiliar a las autoridades federales, estatales y municipales, en materia de prevención y auxilio en caso de catástrofes naturales de conformidad a la Ley de Protección Civil;
-
-XXV. Atender de manera expedita las denuncias y quejas ciudadanas con relación al ejercicio de sus atribuciones;
-
-XXVI. Administrar los recursos que le sean asignados a efecto de realizar una equitativa distribución de los mismos, entre las diferentes áreas que la integran, asignando de acuerdo a las necesidades y requerimientos de cada una de ellas, los recursos financieros, humanos y materiales de que disponga, de acuerdo a la normatividad existente para tal efecto;
-
-XXVII. Otorgar a los tribunales el auxilio que soliciten para el ejercicio de sus funciones;
-
-XXVIII. (DEROGADA, P.O. 28 DE MARZO DE 2012)
-
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2011)</small>
-
-XXIX. Elaborar el protocolo de revisión, evaluación y control para el cumplimiento de los elementos de seguridad pública estatal, y municipal, en la garantía, respeto y protección de los derechos humanos;
-
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2011)</small>
-
-XXX. Rendir informe semestral de los resultados y avances del cumplimiento de los lineamientos y acciones realizadas en materia de seguridad, ante el pleno del Consejo Estatal de Seguridad Pública, y
-
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
-
-XXXI. Administrar el Sistema Penitenciario; aplicar el modelo de reinserción social; y tramitar por acuerdo del Gobernador del Estado las solicitudes de extradición y traslado de internos;
-
-> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2018)</small>
-
-XXXI BIS. Administrar y operar el Sistema Penitenciario sobre la base del respeto a los derechos humanos, el trabajo, la capacitación para el mismo, la educación, la salud y el deporte, como medios para procurar la reinserción social de las personas privadas de su libertad; en corresponsabilidad con otras instituciones y órganos, brindar el apoyo para prevenir la reincidencia, así como coadyuvar con las autoridades jurisdiccional y administrativa del Estado, en términos de la Ley Nacional de Ejecución Penal y del Código Nacional de Procedimientos Penales;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2019)</small>
-
-XXXII. Vigilar y coordinar, a través de la Coordinación Especializada en Justicia Penal para Adolescentes, el funcionamiento de los centros de internamiento para adolescentes, y de los centros de ejecución de medidas en libertad; así como elaborar los planes individualizados de ejecución, y ejecutar las medidas de sanción aprobadas por el Juez de Ejecución Especializado en Justicia Penal para Adolescentes, y
-
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2012)</small>
-
-XXXIII. Las demás que les sean encomendadas por el titular del Ejecutivo, le confiera esta Ley y otras disposiciones legales aplicables.
+XXVII. Las demás que les sean encomendadas por el titular del Poder Ejecutivo del Estado, le confiera esta Ley y otras disposiciones legales aplicables.
 
 ###### ARTICULO 42.
 
@@ -2122,6 +2086,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 27 DE DICIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0252.- SE REFORMA EL ARTÍCULO 41 TER EN SU FRACCIÓN IV DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA LOS ARTÍCULOS, 4º EN SUS FRACCIONES, XX, Y XXI, 13 EN EL APARTADO A SU FRACCIÓN II, 27 BIS EN SU FRACCIÓN V, 30, Y 51 EN SU FRACCIÓN I; ADICIONA A LOS ARTÍCULOS, 4º EN SUS FRACCIONES, XXII A XXV, 5º EN SU APARTADO A LA FRACCIÓN II BIS, Y EL TÍTULO TERCERO BIS “DE LA PRESTACIÓN DE SERVICIOS DE SALUD, MEDICAMENTOS Y DEMÁS INSUMOS ASOCIADOS PARA LAS PERSONAS SIN SEGURIDAD SOCIAL” CON EL ARTÍCULO 67 SEPTIES; Y DEROGA EL TÍTULO DÉCIMO PRIMERO Y SUS CAPÍTULOS I, II, III, V, VI, VII, Y VIII, ASÍ COMO LOS ARTÍCULOS, 151, 152, 152 BIS, 153 A 163, Y 165 A 178 DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0314.- SE REFORMA Y ADICIONA EL ARTÍCULO 88, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 31 Y 41 QUÁTER, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 2°, 5°, 10, 13, 14, 15, 16, 21, 22, 27, 35, 44, 47, 48, 51, 77, 117, 156 Y 170, SE ADICIONAN LOS ARTÍCULOS 2° TER, 2° QUÁTER Y 2° QUINQUE Y SE ADICIONA A LOS ARTÍCULOS 5°, 10, 13, 14, 27 Y 47, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ Y; SE REFORMAN LOS ARTÍCULOS 2°, 6°, 8° Y 43, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
