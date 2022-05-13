@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-instituciones-y-procedimientos-electorales-del-101698"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-28"
-last_updated: "2020-07-23"
+last_updated: "2022-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE MAYO DE 2022 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE MAYO DE 2022.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el sábado 28 de junio de 2014.
 
@@ -6089,9 +6091,13 @@ Se considerará reincidente al infractor que habiendo sido declarado responsable
 
 Las multas deberán ser pagadas en la Agencia de Administración Fiscal de Yucatán; si el infractor no cumple con su obligación, el Instituto podrá solicitar a la autoridad competente la aplicación del procedimiento de cobro relativo. En el caso de los partidos políticos, el monto de las mismas se restará de sus ministraciones de gasto ordinario conforme a lo que se determine en la resolución.
 
-> <small>(ADICIONADO, D.O. 18 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, D.O. 13 DE MAYO DE 2022)</small>
 
-Los recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador electoral considerados en esta Ley, serán destinados a la Secretaría de Investigación, Innovación y Educación Superior del Estado de Yucatán; estos recursos serán utilizados para el fortalecimiento de su infraestructura, implementación y desarrollo de programas y proyectos estratégicos en materia de ciencia, tecnología e innovación en los términos de las disposiciones aplicables.
+Los recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador electoral considerados en esta Ley, serán destinados a la Secretaría de Investigación, Innovación y Educación Superior del Estado de Yucatán; estos recursos serán aplicados para el fortalecimiento de la infraestructura de ciencia, tecnología, innovación y educación superior; para la implementación y desarrollo de programas y proyectos estratégicos en materia de ciencia, tecnología e innovación; y para la ejecución de políticas públicas y programas para mejorar la calidad de la educación superior y elevar la eficiencia terminal, en los términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O. 13 DE MAYO DE 2022)</small>
+
+Los recursos mencionados en el párrafo previo también podrán aplicarse como recursos concurrentes en programas nacionales e internacionales que tengan como objetivo los conceptos mencionados en el párrafo anterior.
 
 ### CAPÍTULO IV. Del procedimiento especial sancionador
 
@@ -6752,3 +6758,11 @@ Lo anterior, con excepción de lo dispuesto en los artículos 116 segundo párra
 Artículo segundo. Derogación tácita
 
 Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este decreto.
+
+D.O. 13 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 497/2022 POR EL QUE SE MODIFICA LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, EN MATERIA DE DESTINO DE RECURSOS OBTENIDOS POR LA APLICACIÓN DE SANCIONES ECONÓMICAS DERIVADAS DE INFRACCIONES COMETIDAS POR SUJETOS DEL RÉGIMEN SANCIONADOR ELECTORAL”.]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
