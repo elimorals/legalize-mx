@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2022-04-01"
+last_updated: "2022-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -59,11 +59,11 @@ III. Integrar el Sistema Estatal de Seguridad Pública, que contribuirá con el 
 
 IV. Establecer las bases mínimas a que estarán sujetas las instituciones de seguridad pública estatal y municipal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 2°.
 
-La seguridad pública es una función a cargo del Estado y los ayuntamientos, que tiene como fines salvaguardar la integridad y derechos de las personas; así como preservar las libertades, el orden y la paz; comprende la prevención especial y general de los delitos, la investigación para hacerla efectiva, la sanción de las infracciones administrativas, así como la investigación y persecución de los delitos, además de la reinserción social de las personas privadas de la libertad y el apoyo a los órganos jurisdiccionales y aquellos encargados de la supervisión de libertades en términos de esta Ley, y de la Ley Nacional de Ejecución Penal, y del Código Nacional de Procedimientos Penales.
+La seguridad pública es una función a cargo del Estado y los municipios, que tiene como fines salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas; así como contribuir a (sic) generación y preservación del orden público, la paz social, la prevención, investigación y persecución de los delitos, la sanción de las infracciones administrativas, además de la reinserción social de las personas privadas de la libertad y el apoyo a los órganos jurisdiccionales y aquellos encargados de la supervisión de libertades en términos de esta Ley, de la Ley Nacional de Ejecución Penal, y del Código Nacional de Procedimientos Penales.
 
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 2017)</small>
 
@@ -78,6 +78,48 @@ Además de los fines que estipula el párrafo primero de este artículo, la segu
 ###### ARTICULO 2 Bis.
 
 Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional; se regirán por los principios de legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos previstos en la Constitución Federal. Deberán fomentar la participación ciudadana y rendir cuentas en términos de ley y demás normas aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2022)</small>
+
+###### ARTICULO 2° Ter.
+
+La seguridad ciudadana es un proceso articulado, coordinado e impulsado por el Gobierno del Estado, en coordinación con el Gobierno Federal, en colaboración con los ayuntamientos y en proximidad permanente con la ciudadanía, con el fin de resguardar la libertad, los derechos humanos, la legalidad, el orden público y las garantías de las personas, por medio del fortalecimiento del Estado de Derecho, la prevención de los delitos, la promoción y el respeto de los derechos humanos y la erradicación de la violencia.
+
+La seguridad ciudadana tiene por objeto:
+
+I. Recuperar, preservar y mantener la paz social, la tranquilidad de las familias y el orden público;
+
+II. Proteger la integridad, la dignidad, la sana convivencia social, la ausencia de conductas antisociales y los derechos humanos de los habitantes;
+
+III. Preservar las libertades públicas;
+
+IV. Proteger la vida, integridad física de las personas y comunidades, así como su patrimonio;
+
+V. Llevar a cabo la prevención general y especial de los delitos, así como coadyuvar en concordancia con las leyes aplicables en la investigación y persecución de estos;
+
+VI. Sancionar infracciones administrativas;
+
+VII. Implementar políticas, programas, y acciones que en materia de reinserción social emita el Consejo Nacional;
+
+VIII. Garantizar el acceso a una vida libre de violencia y la protección de las personas frente a riesgos y amenazas que atenten contra sus derechos y libertades;
+
+IX. Preservar la convivencia y el fomento de la cohesión social, y
+
+X. Apoyar en las tareas que se les encomienden que tengan fundamento legal y que formen parte del fortalecimiento del Estado de Derecho.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2022)</small>
+
+###### ARTICULO 2° Quáter.
+
+Las acciones emprendidas en materia de Seguridad Ciudadana, tendrán como eje central a la persona y sus derechos humanos, observando y respetando el ejercicio de los derechos de ciudadanía, de las libertades y los derechos fundamentales, así como el fomento de una cultura de paz.
+
+La actuación de los elementos que conformen la Secretaría de Seguridad y Protección Ciudadana se ejecutará en cumplimiento de la Ley que Establece los Principios para el Uso de la Fuerza Pública del Estado y se llevarán a cabo observando la legislación aplicable en materias de derechos humanos, principio pro persona, y cultura de la legalidad.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2022)</small>
+
+ARTICULO 2° Quinque. Para el cumplimiento de los objetivos de prevención, el gobierno estatal y los municipios en coordinación con la Federación, desarrollarán políticas en materia de prevención social del delito con carácter integral, que impacten sobre las causas que generan la comisión de éstos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas.
+
+Las acciones de seguridad ciudadana se realizarán en términos de esta Ley, de la Ley Nacional de Ejecución Penal, y del Código Nacional de Procedimientos Penales.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2018)</small>
 
@@ -111,9 +153,13 @@ IV. Consejo Estatal: Consejo Estatal de Seguridad Pública;
 
 V. Cuerpos de seguridad: estructura del personal con funciones operativas o sustantivas dentro de las tareas de seguridad pública, que se encuentra bajo subordinación del mando dentro de la escala jerárquica;
 
-VI. Dirección: la Dirección General de Seguridad Pública del Estado;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
 
-VII. Director: el titular de la Dirección General de Seguridad Pública del Estado;
+VI. Guardia Civil: la Guardia Civil Estatal;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+VII. Comandante: la persona titular de la Guardia Civil Estatal;
 
 > <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2018)</small>
 
@@ -123,7 +169,15 @@ VII BIS. Coordinación Especializada: la Coordinación Especializada en Justicia
 
 VII TER. Coordinador Especializado: el titular de la Coordinación Especializada en Justicia Penal para Adolescentes;
 
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2022)</small>
+
+VII QUÁTER. Dirección de Tecnología: la Dirección General de Tecnologías de la Información e Inteligencia en Seguridad Pública;
+
 VIII. Elemento de seguridad pública: Los integrantes de los cuerpos de seguridad pública que ostenten ese carácter mediante nombramiento o instrumento jurídico equivalente, expedido por autoridad competente;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2022)</small>
+
+VIII BIS. Guardia Civil Estatal: autoridad de seguridad pública, de carácter civil, disciplinada y profesional, adscrita a la Secretaría de Seguridad y Protección Ciudadana;
 
 > <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
 
@@ -137,13 +191,21 @@ IX BIS. Policía Investigadora: es el cuerpo de seguridad integrado por elemento
 
 IX TER. Policía Procesal: son los elementos de seguridad al mando de la Secretaría o de la Dirección; los que estarán, en todos los casos, facultados para la atención de requerimientos del Ministerio Público, o del Poder Judicial, en el desahogo de investigación de delitos y de cualquier acción relacionada con el proceso penal acusatorio adversarial, de conformidad con lo que establece el Código Nacional de Procedimientos Penales, la Ley Nacional de Ejecución Penal, y las demás disposiciones legales aplicables al caso;
 
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2022)</small>
+
+IX QUÁTER. Policía Cibernética: está constituida por elementos de la Dirección General de Tecnologías en Seguridad Pública de la Secretaría de Seguridad y Protección Ciudadana y es la encargada de prevenir, atender y combatir incidentes que se cometen a través de medios digitales, además de coadyuvar con las Fiscalías, así como autoridades jurisdiccionales;
+
 X. Presidente: presidente municipal en los ayuntamientos de la Entidad;
 
 XI. Registro Estatal: banco de datos del personal de las instituciones de seguridad pública;
 
-XII. Secretaría: Secretaría de Seguridad Pública del Gobierno Estatal;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
 
-XIII. Secretario: Secretario de Seguridad Pública del Estado;
+XII. Secretaría: Secretaría de Seguridad y Protección Ciudadana;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+XIII. Secretario: titular de la Secretaría de Seguridad y Protección Ciudadana;
 
 XIV. Secretario ejecutivo: titular del Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública, y
 
@@ -179,13 +241,17 @@ Son autoridades en materia de seguridad pública en el Estado:
 
 I. El Gobernador del Estado;
 
-II. El Secretario de Seguridad Pública;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+II. El titular de la Secretaría de Seguridad y Protección Ciudadana;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 III. La Fiscalía General del Estado;
 
-IV. El Director General de Seguridad Pública del Estado;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+IV. El titular de la Guardia Civil Estatal;
 
 V. El Director General de Prevención y Reinserción Social;
 
@@ -193,11 +259,21 @@ V. El Director General de Prevención y Reinserción Social;
 
 V BIS. El Coordinador Especializado en Justicia Penal para Adolescentes;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2022)</small>
 
-VI. El Director General de la Policía Investigadora, y
+V TER. El titular de la Policía Cibernética;
 
-VII. Los directores de los centros de reclusión estatal, y alcaides de los centros de reclusión distrital.
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2022)</small>
+
+V QUÁTER. El titular de la Dirección General de Tecnologías de la Información e Inteligencia en Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+VI. El titular de la Dirección General de Métodos de Investigación, y
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+VII. El titular de la Dirección General de Prevención y Reinserción Social del Estado.
 
 ###### ARTICULO 11.
 
@@ -247,9 +323,11 @@ IX. Representar al Estado ante el Consejo Nacional, y
 
 X. Las demás que le confieren esta Ley y los ordenamientos legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2022)</small>
+
 ###### ARTICULO 13.
 
-El Secretario de Seguridad Pública será designado por el Gobernador del Estado; y debe cumplir los siguientes requisitos:
+El Secretario de Seguridad y Protección Ciudadana será designado por el Gobernador del Estado y debe cumplir los siguientes requisitos:
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
@@ -270,6 +348,10 @@ V. Gozar de buena reputación, y no haber sido condenado por delito alguno, y
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE OCTUBRE DE 2021)</small>
 
 VI. Contar con exámenes de control y confianza acreditados satisfactoriamente, conforme a las disposiciones reglamentarias de dicho examen, así como sus actualizaciones.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2022)</small>
+
+El titular de la Secretaría podrá ser de formación militar o civil.
 
 ###### ARTICULO 14.
 
@@ -323,25 +405,33 @@ XIII. Implementar el modelo homologado de unidad de policía cibernética, aprob
 
 XIV. Disponer la colaboración con la Fiscalía General del Estado para el cumplimiento de las medidas de protección de sujetos procesales, a través de la Policía Procesal;
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
 
-XV. Celebrar convenios con instituciones educativas públicas y privadas, con el fin de fomentar e impulsar la formación educativa de los elementos de seguridad pública, y
+XV. Celebrar convenios con instituciones educativas públicas y privadas, con el fin de fomentar e impulsar la formación educativa de los elementos de seguridad pública;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2022)</small>
+
+XVI. Implementar las políticas, programas y acciones que dicte el Consejo Estatal de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2022)</small>
+
+XVII. Fomentar entre el personal a su cargo el ejercicio de sus funciones con estricto apego a los derechos humanos, la igualdad de género, al debido proceso y a las demás garantías aplicables, y
 
 > <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-XVI. Las demás que le señalen las disposiciones jurídicas y reglamentos aplicables.
+XVIII. Las demás que le señalen las disposiciones jurídicas y reglamentos aplicables.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 15.
 
-Las atribuciones del Fiscal General del Estado; el Director; el Director General de Prevención y Reinserción Social; el Coordinador Especializado en Justicia Penal para Adolescentes; y el Director General de la Policía Investigadora, estarán previstas en su propia ley o reglamentos.
+Las atribuciones del Fiscal General del Estado; el Director; el Director General de Prevención y Reinserción Social; el Coordinador Especializado en Justicia Penal para Adolescentes; y el Director General de Métodos de Investigación, estarán previstas en su propia ley o reglamentos.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 16.
 
-El Secretario; el Fiscal General del Estado; el Director; el Director General de Prevención y Reinserción Social; el Coordinador Especializado en Justicia Penal para Adolescentes; y el Director General de la Policía Investigadora, serán los encargados de ejecutar las disposiciones que el Ejecutivo dicte en cumplimiento de este Ordenamiento.
+El Secretario; el Fiscal General del Estado; el Director; el Director General de Prevención y Reinserción Social; el Coordinador Especializado en Justicia Penal para Adolescentes; y el Director General de Métodos de Investigación, serán los encargados, en vía de coordinación, de ejecutar las disposiciones que el Poder Ejecutivo del Estado dicte en cumplimiento de este Ordenamiento.
 
 ###### ARTICULO 17.
 
@@ -403,37 +493,59 @@ El secretario del ayuntamiento, y los titulares de las instituciones de segurida
 
 Los presidentes municipales proporcionarán al Ejecutivo, por conducto de la Dirección, la información y documentación de su personal, vehículos, armamento y equipos policíacos con que cuenten, así como los requeridos para registrar e incluir su armamento en la licencia oficial colectiva para la portación de armas de fuego.
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
+
 ###### ARTICULO 21.
 
-En los términos que establece ésta Ley, y el reglamento respectivo, la policía preventiva estará al mando del presidente municipal así como del titular de dicha corporación, quien tendrá las atribuciones señaladas en los reglamentos correspondientes. Dicha policía deberá acatar las órdenes que el Gobernador del Estado les transmita, a través del Secretario, en los casos en que aquél juzgue como de fuerza mayor o alteración grave del orden público.
+En los términos que establece esta Ley y el reglamento respectivo, la policía preventiva estará al mando del presidente municipal, así como del titular de dicha corporación, quien tendrá las atribuciones señaladas en los reglamentos correspondientes.
+
+La policía preventiva deberá acatar las órdenes que el Gobernador del Estado les transmita, a través del Secretario de Seguridad y Protección Ciudadana, en los casos en que aquél juzgue como de fuerza mayor, alteración grave del orden público o cuando así lo determine el Consejo Estatal de Seguridad Pública.
+
+Lo anterior podrá realizarse de manera coordinada con los cuerpos policiacos reconocidos en esta Ley y en aquéllas disposiciones administrativas que emita la persona titular del Poder Ejecutivo del Estado.
 
 ## TITULO TERCERO. DE LOS CUERPOS DE SEGURIDAD PUBLICA
 
 ### Capítulo I. De su Clasificación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2022)</small>
+
 ###### ARTICULO 22.
 
-Los cuerpos de seguridad pública son:
+Los cuerpos de seguridad pública son los siguientes:
 
 I. En el ámbito estatal:
 
-a) La Dirección General de Seguridad Pública del Estado; y la policía urbana, bancaria e industrial, en coordinación con aquélla.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+a) La Guardia Civil Estatal.
 
-b) La policía investigadora.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
-c) Los agentes del Ministerio Público.
+b) La Policía Urbana, Bancaria e Industrial, en coordinación con la Guardia Civil Estatal.
 
-d) Los peritos.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MAYO DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
+c) La Dirección General de Métodos de Investigación.
 
-e) Los cuerpos de seguridad y custodia de los centros estatales y distritales de reclusión y del Centro de Internamiento para Adolescentes.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+d) Los Agentes del Ministerio Público.
 
-f) La policía procesal.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
+
+e) Los Peritos.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
+
+f) Los Cuerpos de Seguridad y Custodia de los Centros Estatales de Reclusión y del Centro de Internamiento para Adolescentes.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
+
+g) La Policía Procesal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MAYO DE 2022)</small>
+
+h) Los que el Gobernador del Estado determine por Decreto o Acuerdo Administrativo.
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
@@ -461,9 +573,11 @@ Los cuerpos de seguridad serán objeto de evaluación constante para conocer con
 
 ### Capítulo II. De sus Atribuciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2022)</small>
+
 ###### ARTICULO 27.
 
-Son atribuciones operativas de la Dirección:
+Son atribuciones operativas de la Guardia Civil:
 
 I. Mantener el orden, la paz y la tranquilidad pública en el Estado;
 
@@ -493,9 +607,23 @@ X. Coordinarse con otras corporaciones policiales para prestarse auxilio recípr
 
 XI. Realizar acciones de auxilio a la población en caso de siniestros o accidentes, en coordinación con los programas de protección civil;
 
-XII. Coordinarse con los prestadores de servicios privados de seguridad, con el mando de la policía urbana, bancaria e industrial, y
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
 
-XIII. Las demás que le atribuyen la presente Ley y otros ordenamientos aplicables.
+XII. Coordinarse con los prestadores de servicios privados de seguridad, con el mando de la policía urbana, bancaria e industrial;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2022)</small>
+
+XIII. Implementar estrategias de grupos de élite y operaciones de seguridad ciudadana para la restauración del orden en el Estado;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2022)</small>
+
+XIV. Llevar a cabo acciones de proximidad social y vinculación ciudadana.
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2022)</small>
+
+XV. Coordinarse con la Guardia Nacional y todas las autoridades federales en materia de seguridad, en la dirección y planeación de estrategias especiales de seguridad, y
+
+XVI. Las demás que le atribuyen la presente Ley y otros ordenamientos aplicables.
 
 ###### ARTICULO 28.
 
@@ -589,11 +717,13 @@ Estas deberán llevar en el reverso la firma del titular de los respectivos cuer
 
 Los servidores públicos a que se refiere este artículo incurrirán en responsabilidad, cuando expidan credenciales a personas que no pertenezcan a las instituciones de seguridad pública.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 35.
 
-Las autoridades de seguridad pública del Estado dictarán las medidas conducentes, para brindar la protección necesaria a los siguientes servidores públicos estatales: Gobernador del Estado; Fiscal General; Secretario General de Gobierno; Secretario de Seguridad Pública; Director General de Seguridad Pública del Estado; Director General de Prevención y Reinserción Social; y Director General de la Policía Investigadora del Estado.
+Las autoridades de seguridad pública del Estado dictarán las medidas conducentes, para brindar la protección necesaria a los siguientes servidores públicos estatales: Gobernador del Estado; Fiscal General; Secretario General de Gobierno; Secretario de Seguridad y Protección Ciudadana; titular de la Guardia Civil Estatal; Director General de Prevención y Reinserción Social y el Director General de Métodos de Investigación.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2020)</small>
 
 Asimismo, brindarán servicio de protección a aquéllas personas que la autoridad electoral determine conforme a la ley. Esta protección se orientará a salvaguardar la integridad física y la de sus familias de las personas a que se refiere el párrafo anterior, durante el ejercicio de su cargo; queda prohibido comisionar, o desviar del servicio, a personal operativo, bienes muebles y armamento de seguridad pública, para ejecutar actos de escolta a servidores públicos, o a particulares, distintos a los señalados en este artículo, salvo disposición expresa por mandato judicial; o a petición fundada de alguno de los poderes del Estado, y acatará las disposiciones de las autoridades competentes para brindar protección, a las víctimas u ofendidos por el delito, así como a sus familiares o personas relacionadas con el hecho, y a los testigos del mismo.
 
@@ -661,7 +791,9 @@ I. El Gobernador del Estado, quien lo presidirá;
 
 II. El Secretario General de Gobierno;
 
-III. El Secretario de Seguridad Pública;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+III. El titular de la Secretaría de Seguridad y Protección Ciudadana;
 
 IV. El Comandante de la XII Zona Militar;
 
@@ -669,7 +801,9 @@ IV. El Comandante de la XII Zona Militar;
 
 V. El Fiscal General del Estado;
 
-VI. El Director General de Seguridad Pública del Estado;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+VI. El titular de la Guardia Civil Estatal;
 
 VII. El Director General de Prevención y Reinserción Social;
 
@@ -789,31 +923,37 @@ V. El titular del organismo que realice las funciones de seguridad pública muni
 
 VI. Un representante de la Fiscalía General del Estado;
 
-VII. Un representante de la Dirección General de Seguridad Pública del Estado;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+VII. Un representante de la Guardia Civil Estatal;
 
-VIII. Un representante de la Dirección General de la Policía Investigadora;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
 
-IX. Un representante de la Secretaría de Seguridad Pública del Estado, que a su vez representará al Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública;
+VIII. Un representante de la Dirección General de Métodos de Investigación;
 
-X. Un representante de la Dirección General de Prevención y Reinserción Social;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2018)</small>
+IX. Un representante de la Secretaría de Seguridad y Protección Ciudadana;
 
-X BIS. Un representante de la Coordinación Especializada en Justicia Penal para Adolescentes;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MAYO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+X. Un representante del Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública;
 
-XI. El Secretario Ejecutivo del Consejo Municipal;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE MAYO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+XI. Un representante de la Dirección General de Prevención y Reinserción Social;
 
-XII. El presidente municipal podrá invitar al titular de la XII Zona Militar, o al representante que éste designe, y
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN X BIS], P.O. 13 DE MAYO DE 2022)</small>
 
-> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+XII. Un representante de la Coordinación Especializada en Justicia Penal para Adolescentes;
 
-XIII. En el caso de los municipios cabecera de Distrito Judicial, se invitará al alcaide del centro de reclusión distrital.
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+XIII. El Secretario Ejecutivo del Consejo Municipal, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE MAYO DE 2022)</small>
+
+XIV. El presidente municipal podrá invitar al titular de la XII Zona Militar, o al representante que éste designe.
 
 ###### ARTICULO 48.
 
@@ -831,7 +971,9 @@ IV. Un representante de la Fiscalía General del Estado;
 
 V. Los titulares de seguridad pública preventiva de los municipios participantes;
 
-VI. Un representante de la Secretaría de Seguridad Pública del Estado;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+VI. Un representante de la Secretaría de Seguridad y Protección Ciudadana~ (sic)
 
 VII. Los secretarios ejecutivos de los municipios participantes, quienes fungirán como secretarios del consejo en forma alterna, y
 
@@ -913,7 +1055,9 @@ La coordinación de los cuerpos de seguridad pública en caso de siniestro y acc
 
 Los integrantes de las instituciones de seguridad pública en el Estado y los ayuntamientos, por la naturaleza de su función, y atendiendo a lo establecido en lo conducente por los artículos, 123 Apartado B fracción XIII de la Constitución Política de los Estados Unidos Mexicanos; y 89 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, tendrán el carácter de agentes depositarios de autoridad. Por tanto, su relación con la administración pública será de carácter administrativo, y se regirá por lo establecido en esta Ley y demás ordenamientos aplicables.
 
-Las instituciones de seguridad pública deberán garantizar para su personal, al menos las prestaciones previstas para los trabajadores al servicio del Estado y municipios; generarán, de acuerdo a sus necesidades y con cargo a sus presupuestos, una normatividad de régimen complementario de seguridad social y reconocimientos, de acuerdo a lo previsto en el artículo 123 apartado B fracción XIII párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
+
+Las instituciones de seguridad pública deberán generar para su personal, de acuerdo a sus necesidades y con cargo a sus presupuestos, una normatividad de régimen complementario de seguridad social y reconocimientos, de acuerdo a lo previsto en el artículo 123 apartado B fracción XIII párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2019)</small>
 
@@ -1399,19 +1543,11 @@ Las instituciones de seguridad pública se sujetarán al Programa Rector de Prof
 
 Los planes de estudio para la profesionalización se integrarán por el conjunto de contenidos teóricos y prácticos estructurados en unidades didácticas de enseñanza y aprendizaje, que estarán comprendidos en el programa rector en los que se incluyan, entre otros, talleres de resolución de casos.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 77.
 
-La Secretaría de Seguridad Pública contará con la Academia que tendrá como objeto:
-
-I. La preparación de los aspirantes a integrar los cuerpos de seguridad pública;
-
-II. La actualización y profesionalización del personal de las instituciones de seguridad pública;
-
-III. La capacitación del personal operativo de las empresas de seguridad privada, y
-
-IV. La capacitación de los docentes e investigadores en materia de seguridad pública y privada.
+La Secretaría de Seguridad y Protección Ciudadana, contará con la Academia, que tendrá por objeto la preparación de los aspirantes a integrar los cuerpos de seguridad, así como la actualización y profesionalización del personal de las instituciones de seguridad, y la capacitación de docentes e investigadores en materia de seguridad.
 
 ###### ARTICULO 78.
 
@@ -1827,11 +1963,11 @@ XI. Daños causados al material y equipo, y
 
 XII. Grado de instrucción del presunto infractor.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 117.
 
-En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la remoción es injustificada, en ningún caso procederá reincorporación o reinstalación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiese promovido de conformidad con el artículo 123, Apartado B, fracción XIII de la Constitución Política de los Estados Unidos Mexicanos. El Tribunal Estatal de Justicia Administrativa en ningún caso ordenará la reincorporación de los integrantes de las instituciones de seguridad pública; en este caso, sólo podrá obligar a pagar la indemnización, y las demás prestaciones a que tenga derecho en términos del artículo 54 de esta Ley, y hasta por un periodo no mayor a doce meses posteriores a la remoción injustificada. Tal circunstancia será inscrita en el Registro Nacional correspondiente.
+En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la remoción es injustificada, en ningún caso procederá la reincorporación o reinstalación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiese promovido de conformidad con el artículo 123, Apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos. El Tribunal Estatal de Justicia Administrativa en ningún caso ordenará la reincorporación de los integrantes de las instituciones de seguridad pública. Tal circunstancia será inscrita en el Registro Nacional correspondiente.
 
 ###### ARTICULO 118.
 
@@ -2385,7 +2521,9 @@ VII. Sistemas de transporte masivo de personas, y
 
 VIII. Las demás de carácter estatal o municipal que ordene el Consejo Estatal de Seguridad Pública, o los ayuntamientos, en su caso.
 
-Los entes a que se refiere este artículo, en coordinación con la Secretaría de Seguridad Pública del Estado, procurarán la unificación u homologación tecnológica de sus sistemas y dispositivos de videovigilancia entre sí.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
+
+Los entes a que se refiere este artículo, en coordinación con la Secretaría de Seguridad y Protección Ciudadana, procurarán la unificación u homologación tecnológica de sus sistemas y dispositivos de video vigilancia entre sí.
 
 > <small>(ADICIONADO, P.O. 3 DE JULIO DE 2018)</small>
 
@@ -2529,11 +2667,11 @@ Cuando se comentan (sic) infracciones al presente capítulo por parte del person
 
 Cuando se cometan infracciones a este capítulo por parte de particulares y prestadores de servicios de seguridad privada que tengan a su cargo la captura, almacenamiento y análisis de la información captada mediante los sistemas de video vigilancia pública, se aplicarán los procedimientos y sanciones contenidas en su propia normatividad, así como en las disposiciones normativas vigentes en el Estado.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 170.
 
-Las sanciones establecidas en el presente capítulo, serán independientes de las que resulten por la comisión de delitos contenidos en la legislación penal, o civil, del orden estatal y/o federal o la que resulte de la Ley de Responsabilidades Administrativas para el Estado de San Luís Potosí.
+Las sanciones establecidas en el presente capítulo, serán independientes de las que resulten por la comisión de delitos contenidos en la legislación penal o civil, del orden estatal y/o federal o la que resulte de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2017)</small>
 
@@ -2956,3 +3094,33 @@ P.O. 1 DE ABRIL DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0314.- SE REFORMA Y ADICIONA EL ARTÍCULO 88, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 31 Y 41 QUÁTER, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 2°, 5°, 10, 13, 14, 15, 16, 21, 22, 27, 35, 44, 47, 48, 51, 77, 117, 156 Y 170, SE ADICIONAN LOS ARTÍCULOS 2° TER, 2° QUÁTER Y 2° QUINQUE Y SE ADICIONA A LOS ARTÍCULOS 5°, 10, 13, 14, 27 Y 47, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ Y; SE REFORMAN LOS ARTÍCULOS 2°, 6°, 8° Y 43, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Todas las menciones a la Secretaría de Seguridad Pública; y a la Dirección General de Seguridad Pública del Estado, en la normativa correspondiente, se entenderán referidas a la Secretaría de Seguridad y Protección Ciudadana; y a la Guardia Civil Estatal, respectivamente.
+
+CUARTO. Todas las menciones efectuadas a la Dirección General de Seguridad Pública del Estado, en la normativa correspondiente, se entenderán referidas a la Guardia Civil Estatal.
+
+QUINTO. Todas las menciones efectuadas al Director General de Seguridad Pública del Estado, en la normativa correspondiente, se entenderán referidas al Comandante de la Guardia Civil Estatal.
+
+SEXTO. Todos los convenios y actos jurídicos celebrados por la Secretaría de Seguridad Pública; y la Dirección General de Seguridad Pública del Estado, se entenderán como vigentes y obligarán en sus términos a la Secretaría de Seguridad y Protección Ciudadana; así como a la Guardia Civil Estatal, respectivamente, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente.
+
+SÉPTIMO. Los procedimientos de responsabilidad administrativa, de separación, remoción de cargo, o cualquier otro, iniciados con antelación a la entrada en vigor del presente Decreto, serán resueltos en términos de las disposiciones legales con los que se les dio inicio.
+
+OCTAVO. El Poder Ejecutivo del Estado, debe expedir los reglamentos y disposiciones que deriven de este Decreto, en un plazo máximo de ciento ochenta días, contados a partir de la entrada en vigor del mismo y, hasta en tanto, serán aplicables las disposiciones normativas vigentes.
+
+NOVENO. Los bienes muebles e inmuebles, recursos presupuestales y financieros que, en su caso, formen parte de la Secretaría de Seguridad Pública; y de la Dirección General de Seguridad Pública del Estado, formarán parte de la Secretaría de Seguridad y Protección Ciudadana; y de la Guardia Civil Estatal, respectivamente.
+
+DÉCIMO. El personal de la Secretaría de Seguridad Pública; así como el de la Dirección General de Seguridad Pública del Estado, formará parte de la Secretaría de Seguridad y Protección Ciudadana; y de la Guardia Civil Estatal, respectivamente, sin detrimento o menoscabo de sus derechos ya adquiridos.
+
+DÉCIMO PRIMERO. Hasta en tanto se realicen los trámites necesarios ante las instancias competentes, la licencia oficial colectiva de armas de fuego se entenderá subsistente en favor de la Secretaría de Seguridad y Protección Ciudadana; y la Guardia Civil Estatal.
+
+DÉCIMO SEGUNDO. El presupuesto ya asignado y programado a la Secretaría de Seguridad Pública; y a la Dirección General de Seguridad Pública del Estado, se entenderá subrogado en favor de la Secretaría de Seguridad y Protección Ciudadana; y de la Guardia Civil Estatal, respectivamente.
+
+DÉCIMO TERCERO. Las estructuras orgánicas internas de la Secretaría de Seguridad Pública; y de la Dirección General de Seguridad Pública del Estado, se entenderán subsumidas a la Secretaría de Seguridad y Protección Ciudadana; y a la Guardia Civil Estatal, respectivamente, hasta en tanto no se efectúen las modificaciones reglamentarias y administrativas que correspondan.
