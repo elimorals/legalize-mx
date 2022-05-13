@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2022-05-02"
+last_updated: "2022-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -189,9 +189,9 @@ II BIS. La prestación de los servicios de salud, medicamentos y demás insumos 
 
 III. La atención e información sobre el ejercicio responsable de la sexualidad y reproducción humanas, métodos anticonceptivos, planificación familiar desde sexto año de primaria, y en las clínicas y hospitales de todos los niveles;
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
 
-IV. La salud mental, los trastornos alimenticios, y el suicidio;
+IV. La salud mental, los trastornos alimenticios, la prevención y atención del suicidio;
 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -4750,6 +4750,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 2 DE MAYO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0308.- SE REFORMA EL ARTÍCULO 123, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0315.- SE REFORMA EL ARTÍCULO 5° EN EL APARTADO A SU FRACCIÓN IV, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
