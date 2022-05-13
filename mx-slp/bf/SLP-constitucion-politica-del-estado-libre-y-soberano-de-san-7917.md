@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2021-08-13"
+last_updated: "2022-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2022.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -1563,13 +1563,17 @@ La ley y los reglamentos establecerán la organización y las atribuciones de la
 
 Para la preservación de la tranquilidad y el orden público se organizará la fuerza competente de seguridad pública, en los términos y con las corporaciones que establezcan las leyes relativas.
 
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
-La seguridad pública es una función a cargo del Estado y los municipios, que comprende la prevención de los delitos; la investigación y persecución para hacerla efectiva; así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a las garantías y los derechos humanos reconocidos en esta Constitución.
+La seguridad pública es una función del Estado y los municipios, cuyos fines son salvaguardar la vida, la integridad, las libertades, y el patrimonio de las personas, así como contribuir a la generación y preservación del orden público y la paz social, de conformidad con lo previsto en la Constitución Federal, la propia del Estado y las leyes en la materia. La seguridad pública comprende la prevención, investigación y persecución de los delitos; la reinserción social; así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias que esta Constitución señala. La actuación de las instituciones de seguridad pública se regirá por los principios de, legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en esta Constitución.
 
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
-Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional; deberán coordinarse entre sí para cumplir los objetivos de la seguridad pública, y conformarán el Sistema Nacional de Seguridad Pública en los términos de la Ley General de Sistema Nacional de Seguridad Pública, así como de la correspondiente ley local en la materia.
+Las instituciones de seguridad pública, incluyendo la Guardia Civil Estatal, serán de carácter civil, disciplinado y profesional. El Ministerio Público y las instituciones policiales deberán coordinarse entre sí para cumplir los fines de la seguridad pública y conformarán el Sistema Estatal de Seguridad Pública, que contribuirá con el Sistema Nacional de Seguridad Pública, y estará sujeto a las bases mínimas establecidas por la Constitución Federal, la propia del Estado, y leyes que de ellas emanan.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2022)</small>
+
+La ley de la materia determinará la estructura orgánica y de dirección de la Guardia Civil Estatal, que estará adscrita a la Secretaría de Seguridad y Protección Ciudadana, ambas podrán contar con mando militar, con licencia especial.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 2015)</small>
 
@@ -3484,6 +3488,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 13 DE AGOSTO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1232.- SE REFORMA EL ARTÍCULO 58, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0314.- SE REFORMA Y ADICIONA EL ARTÍCULO 88, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 31 Y 41 QUÁTER, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 2°, 5°, 10, 13, 14, 15, 16, 21, 22, 27, 35, 44, 47, 48, 51, 77, 117, 156 Y 170, SE ADICIONAN LOS ARTÍCULOS 2° TER, 2° QUÁTER Y 2° QUINQUE Y SE ADICIONA A LOS ARTÍCULOS 5°, 10, 13, 14, 27 Y 47, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ Y; SE REFORMAN LOS ARTÍCULOS 2°, 6°, 8° Y 43, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
