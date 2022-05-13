@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2021-11-10"
+last_updated: "2022-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2022.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -61,7 +61,9 @@ En los términos del artículo 115 fracción II inciso e) de la Constitución Po
 
 La prestación del servicio público de tránsito corresponde en el ámbito de sus respectivas competencias, al Ejecutivo del Estado, y a los ayuntamientos.
 
-Cuando exista manifiesta imposibilidad de algún ayuntamiento para prestar el servicio de tránsito por razones económicas o administrativas, el Ejecutivo del Estado, previo convenio con los ayuntamientos respectivos, de conformidad con lo establecido en el párrafo tercero de la fracción III del artículo 114 de la Constitución Política del Estado, y en los términos que al efecto establecen los artículos 144 y 145 de la Ley Orgánica del Municipio Libre, podrá hacerse cargo de este servicio, en forma total o parcial, por el tiempo estrictamente necesario, a través de la Secretaría de Seguridad Pública del Estado, por conducto de la Dirección General de Seguridad Pública del Estado.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
+
+Cuando exista manifiesta imposibilidad de algún ayuntamiento para prestar el servicio de tránsito por razones económicas o administrativas, el Ejecutivo del Estado, previo convenio con los ayuntamientos respectivos, de conformidad con lo establecido en el párrafo tercero de la fracción III del artículo 114 de la Constitución Política del Estado, y en los términos que al efecto establecen los artículos 144 y 145 de la Ley Orgánica del Municipio Libre, podrá hacerse cargo de este servicio, en forma total o parcial, por el tiempo estrictamente necesario, a través de la Secretaría de Seguridad y Protección Ciudadana, por conducto de la Guardia Civil Estatal.
 
 A falta del convenio a que se refiere el párrafo anterior, el Honorable Congreso del Estado determinará, conforme al procedimiento que establece el ordenamiento antes citado, y previa solicitud del ayuntamiento correspondiente, los casos en que el Ejecutivo deberá asumir tal servicio.
 
@@ -117,13 +119,19 @@ XI. Desguace: desmontar o deshacer cualquier estructura, especialmente automóvi
 
 XII. Dictamen: conclusión a la que ha llegado el perito tras el análisis de objeto de prueba de acuerdo al arte, ciencia o técnicas por él dominadas;
 
-XIII. Dirección: dirección de Seguridad Pública del Estado;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
 
-XIV. Director: titular de la Dirección General de Seguridad Pública del Estado;
+XIII. Guardia Civil: la Guardia Civil Estatal;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+XIV. Comandante: la persona titular de la Guardia Civil Estatal;
 
 XV. Dispositivos para el control de tránsito: señalamientos, marcas, semáforos y otros medios similares que se utilizan para regular y guiar el tránsito de personas, semovientes y vehículos;
 
-XVI. Elemento: funcionario de la Dirección General de Seguridad Pública del Estado, con atribuciones operativas para vigilar el tránsito de vehículos y peatones;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+XVI. Elemento: funcionario de la Guardia Civil Estatal, con atribuciones operativas para vigilar el tránsito de vehículos y peatones;
 
 XVII. Engomado: elemento de alta seguridad que se adhiere a las ventanas de los vehículos para permitir la identificación de elementos relacionados con el mismo;
 
@@ -183,7 +191,9 @@ XXXIV. Registro público vehicular: es un registro de información a nivel nacio
 
 XXXV. Reglamento: Reglamento de la Dirección General de Tránsito
 
-XXXVI. Secretaría: Secretaría de Seguridad Pública del Estado;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+XXXVI. Secretaría: Secretaría de Seguridad y Protección Ciudadana;
 
 XXXVII. Tarjeta de circulación: documento oficial expedido por la autoridad competente que identifica al vehículo por sus características e individualiza al propietario;
 
@@ -215,11 +225,13 @@ Son autoridades estatales en materia de tránsito:
 
 I. El titular del Poder Ejecutivo de Estado;
 
-II. El titular de la Secretaría de Seguridad Pública, y
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
+II. El titular de la Secretaría de Seguridad y Protección Ciudadana, y
 
-III. El Director.
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+III. El titular de la Guardia Civil Estatal.
 
 ###### ARTICULO 9°.
 
@@ -677,15 +689,19 @@ III. Cuando se compruebe que el solicitante tiene el hábito de consumir estupef
 
 Las licencias y placas para conducir expedidas por las autoridades de otros estados o países donde exista reciprocidad, tendrán la misma validez que las expedidas conforme a esta Ley, siempre y cuando sean oficiales.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 43.
 
-Los elementos de seguridad pública del Estado, y los agentes de tránsito municipales, sólo podrán retener licencias, y/o tarjetas de circulación, así como inmovilizar o arrastrar vehículos, en los casos previstos en esta Ley.
+Los elementos de la Guardia Civil Estatal, y los agentes de tránsito municipales, sólo podrán retener licencias, y/o tarjetas de circulación, así como inmovilizar o arrastrar vehículos, en los casos previstos en esta Ley.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
 Sin perjuicio de lo anterior, no se podrán retener dichos documentos o inmovilizar o arrastrar vehículos, con la finalidad de conseguir la garantía del pago de una multa, salvo lo dispuesto por los artículos, 44, 46, y 87 de esta Ley.
 
-En ningún caso los elementos de seguridad pública del Estado y los agentes de tránsito municipales, podrán retener o quitar las placas de los vehículos.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
+
+En ningún caso los elementos de la Guardia Civil Estatal y los agentes de tránsito municipales, podrán retener o quitar las placas de los vehículos.
 
 ### Capítulo III. De la Retención, Suspensión y Cancelación de las Licencias
 
@@ -1914,3 +1930,11 @@ P.O. 10 DE NOVIEMBRE DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0314.- SE REFORMA Y ADICIONA EL ARTÍCULO 88, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 31 Y 41 QUÁTER, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 2°, 5°, 10, 13, 14, 15, 16, 21, 22, 27, 35, 44, 47, 48, 51, 77, 117, 156 Y 170, SE ADICIONAN LOS ARTÍCULOS 2° TER, 2° QUÁTER Y 2° QUINQUE Y SE ADICIONA A LOS ARTÍCULOS 5°, 10, 13, 14, 27 Y 47, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ Y; SE REFORMAN LOS ARTÍCULOS 2°, 6°, 8° Y 43, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
