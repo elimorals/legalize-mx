@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proyectos-de-inversion-y-de-prestacion-de-servicios-6078
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-10"
-last_updated: "2021-07-29"
+last_updated: "2022-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2022.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 10 de abril de 2008.
 
@@ -43,15 +43,27 @@ LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALIS
 
 La presente Ley es de orden público e interés social y tiene por objeto regular el desarrollo de las asociaciones público-privadas, que se realicen para implementar proyectos de infraestructura o de prestación de servicios públicos, cuando en ellas participe el Estado de Jalisco o alguno de sus Municipios.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MAYO DE 2022)</small>
+
+Los principios de los proyectos de las asociaciones público-privadas y coinversión deberán observar los principios de transparencia, rendición de cuentas y máxima publicidad.
+
 Los proyectos de asociación público-privada regulados por este Ordenamiento, son aquéllos que se realicen bajo algún esquema de asociación, para establecer una relación contractual de largo plazo, entre instancias del sector público y del sector privado, para la prestación de servicios que se encuentren a cargo de las dependencias y entidades del Poder Ejecutivo del Estado de Jalisco, o de los Municipios, en los que se utilice infraestructura dotada total o parcialmente por el sector privado y que mejoren la calidad de vida de los habitantes del Estado y coadyuven al incremento en la infraestructura e inversiones en la Entidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MAYO DE 2022)</small>
+
+Los proyectos regulados en esta ley incluyen los esquemas de coinversión entre empresas y entidades del sector privado y el Gobierno del Estado de Jalisco o los municipios, para el desarrollo de infraestructura o la prestación de los servicios referidos en el párrafo anterior.
 
 Los esquemas de asociación público-privada regulados en la presente Ley son opcionales y podrán utilizarse en relación con actividades cuya legislación específica prevea la libre participación del sector privado, o bien, mediante el otorgamiento de permisos, autorizaciones o concesiones, para la prestación de los servicios correspondientes.
 
-Los proyectos de asociación público privada que regula este ordenamiento, deberán contar con diversos estudios y/o análisis, que permitan definir la viabilidad económica, jurídica y ambiental para la ejecución del Proyecto, análisis de rentabilidad social, índice de elegibilidad, análisis de riesgos, análisis del comparador público privado - valor por dinero. Para determinar el tipo de estudios y/o análisis requeridos, deberán considerarse los montos de inversión que se encuentren regulados en los Lineamientos que para tal efecto haya emitido la Secretaría y a falta de ellos deberán observarse los montos previstos por los Lineamientos emitidos por la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
+
+Los proyectos de asociación público privada que regula este ordenamiento, deberán contar con diversos estudios y/o análisis, que permitan definir la viabilidad económica, jurídica y ambiental para la ejecución del Proyecto, análisis de rentabilidad social, índice de elegibilidad, análisis de riesgos, análisis del comparador público privado - valor por dinero. Para determinar el tipo de estudios y/o análisis requeridos, deberán considerarse los montos de inversión que se encuentren regulados en los Lineamientos que para tal efecto haya emitido la Secretaría de la Hacienda Pública y a falta de ellos deberán observarse los montos previstos por los Lineamientos emitidos por la Secretaría de Hacienda y Crédito Público.
 
 Corresponde la aplicación de esta Ley al titular del Poder Ejecutivo de manera directa o a través de las dependencias y entidades de la administración pública estatal que estén facultados por la ley para realizar obra pública o concesionar servicios públicos.
 
-Los ayuntamientos deberán expedir sus reglamentos municipales del régimen de asociación pública privada. Dichos reglamentos no podrán exigir menos requisitos que los establecidos en esta Ley, así como los regulados en los Lineamientos que para tal efecto haya emitido la Secretaría y a falta de ellos, los Lineamientos emitidos por la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
+
+Los ayuntamientos deberán expedir sus reglamentos municipales del régimen de asociación pública privada. Dichos reglamentos no podrán exigir menos requisitos que los establecidos en esta Ley, así como los regulados en los Lineamientos que para tal efecto haya emitido la Secretaría de la Hacienda Pública y a falta de ellos, los Lineamientos emitidos por la Secretaría de Hacienda y Crédito Público.
 
 A falta de reglamento municipal los ayuntamientos podrán aplicar de forma supletoria el reglamento que expida el Poder Ejecutivo del Estado cuando realicen contratos de asociación pública privada.
 
@@ -77,7 +89,9 @@ Además de los estudios y/o análisis indicados en el artículo que precede, par
 
 Para los fines de esta ley se entiende por:
 
-I. Proyectos de inversión: El conjunto de acciones técnico-económicas para resolver necesidades de infraestructura para el desarrollo, que requieren la aplicación eficiente y eficaz de un conjunto de recursos materiales, financieros y tecnológicos, que son aportados por la iniciativa privada en un porcentaje no inferior al sesenta por ciento, en asociación con entidades públicas, cuya recuperación financiera se fijará en mediano y largo plazo; responde a una decisión sobre uso de recursos públicos y privados con alguno o algunos de los objetivos, de incrementar, mantener o mejorar la producción de bienes públicos o la prestación de servicios públicos;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+I. Proyectos de inversión: el conjunto de acciones técnico-económicas para resolver necesidades de infraestructura para el desarrollo, que requieren la aplicación eficiente y eficaz de un conjunto de recursos materiales, financieros y tecnológicos, que son aportados por la iniciativa privada en un porcentaje de al menos el treinta y cinco por ciento del monto total del proyecto, en asociación con entidades públicas, cuya recuperación financiera se fijará en mediano y largo plazo; responde a una decisión sobre (sic) uso de recursos públicos y privados con alguno o algunos de los objetivos, de incrementar, mantener o mejorar la producción de bienes públicos o la prestación de servicios públicos;
 
 II. Proyectos de prestación de servicios públicos: El conjunto de acciones técnico-económicas, que son desarrolladas por un particular para resolver necesidades básicas y proporcionar a la comunidad los servicios o funciones que originalmente son deber del Estado proporcionarlos, indispensables para garantizar la efectividad de los derechos individuales y colectivos;
 
@@ -87,9 +101,13 @@ IV. Reglamento: el reglamento de esta ley;
 
 V. Evaluación socioeconómica de proyectos: el estudio y valoración que deberá llevarse a cabo para desarrollar un proyecto de conformidad con lo estipulado en el articulado del presente ordenamiento;
 
-VI. Comités: los comités para la adjudicación de proyectos;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
 
-VII. Entidad: El Poder Ejecutivo del Estado, sus secretarías, órganos desconcentrados, empresas de participación estatal mayoritaria, organismos públicos descentralizados y fideicomisos públicos, así como cualquier otro ente perteneciente a la administración pública estatal;
+VI. Comité de Adjudicación: Los comités para la adjudicación de proyectos;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+VII. Entidad: el Poder Ejecutivo del Estado, sus secretarías, órganos desconcentrados, empresas de participación estatal mayoritaria, organismos públicos descentralizados y fideicomisos públicos, así como cualquier otro ente perteneciente a la administración pública estatal o en su caso la administración Municipal;
 
 VIII. Licitante: una o más personas físicas o jurídicas de los sectores social o privado que participen en cualquiera de los procedimientos que prevé esta ley para la adjudicación de proyectos;
 
@@ -99,13 +117,21 @@ IX. Proveedor: cualquier Licitante que sea adjudicatario de un contrato conforme
 
 X. Proyecto: cualquier proyecto desarrollado por una entidad bajo la modalidad de asociación público-privada;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
 
-XI. Proyecto de referencia: proyecto ejecutivo de inversión o desarrollo, distinto al de asociación público-privada, que contenga los elementos técnicos y financieros necesarios para confrontarlo con el proyecto, en aras de determinar la manera más eficiente, eficaz y efectiva posible para la solución a los problemas y servicios que pretenden atender; y
+XI. Proyecto de referencia: proyecto ejecutivo de inversión o desarrollo, distinto al de asociación público-privada, que contenga los elementos técnicos y financieros necesarios para confrontarlo con el proyecto, en aras de determinar la manera más eficiente, eficaz y efectiva posible para la solución a los problemas y servicios que pretenden atender;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
 
-XII. Secretaría: la Secretaría de Administración.
+XII. Consejo: El Consejo de Evaluación y Seguimiento;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2022)</small>
+
+XIII. Comité Administrador: El Comité Administrador de los proyectos adjudicados; y
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2022)</small>
+
+XIV. Coinversión: la modalidad de asociación en la que una persona física o jurídica del sector privado y un ente público realizan acciones para resolver necesidades de infraestructura para el desarrollo, con el objeto de incrementar, mantener y mejorar la producción de bienes públicos o la prestación de servicios, aportando recursos económicos, materiales y humanos en cualquier proporción.
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
@@ -119,7 +145,9 @@ I. Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios de
 
 II. La Ley del Presupuesto, Contabilidad y Gasto Público del Estado de Jalisco;
 
-III. La Ley de Planeación para el Estado de Jalisco y sus Municipios;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+III. La Ley de Planeación Participativa para el Estado de Jalisco y sus Municipios;
 
 IV. Código Urbano para el Estado de Jalisco;
 
@@ -157,11 +185,25 @@ VI. Que la prestación de los servicios a cargo del proveedor se realice con act
 
 VII. Que el proveedor debe ser responsable total o parcialmente de la inversión y el financiamiento respectivo que, en su caso, sean necesarios para el desarrollo del proyecto, y
 
-VIII. Que el plazo de vigencia del contrato en que se formalice el proyecto sea de un mínimo de cinco años y un máximo de treinta y cinco años.
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+VIII. Que el plazo de vigencia del contrato en que se formalice el proyecto sea de un mínimo de cinco años y un máximo de cuarenta años.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 13 DE MAYO DE 2022)</small>
+
+La vigencia de cada una de las autorizaciones para la prestación de los servicios se sujetará a lo siguiente:
+
+a) Cuando el plazo inicial máximo que establezca la ley que regula la autorización sea menor o igual al plazo de cuarenta años, aplicará este último;
+
+b) Cuando la ley que rige la autorización establezca un plazo inicial máximo mayor al de cuarenta años, aplicará el plazo mayor; y
+
+c) Independientemente del plazo inicial por el que se otorgue la autorización, su duración, con las prórrogas que en su caso se otorguen conforme a la ley de la materia, no podrá exceder el plazo máximo señalado por dicha ley.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### Artículo 5°.
 
-Cada una de las entidades que pretendan realizar un proyecto será responsable de organizar los trabajos que se requieran para la estructuración del mismo. De igual forma, por cada Proyecto que pretenda realizar, deberá designar a un grupo de trabajo administrador del mismo. Los lineamientos generales para la constitución, organización y funcionamiento de los grupos de trabajo se establecerán en el reglamento de esta ley.
+Los proyectos estarán a cargo de la Entidad del Estado o del municipio en cuyo sector o ámbito de competencia se ubique. La entidad que pretenda realizar un proyecto será responsable de organizar y coordinar los trabajos que se requieran para la estructuración del mismo.
 
 ### CAPÍTULO III. De la evaluación socioeconómica de proyectos
 
@@ -193,15 +235,19 @@ II. La justificación y congruencia con el Plan Estatal de Desarrollo y el progr
 
 III. Viabilidad jurídica y ambiental, considerando las autorizaciones necesarias, así como los inmuebles, bienes y derechos para el desarrollo del proyecto, así como la preservación y conservación del equilibrio ecológico y, en su caso, la posible afectación de las áreas naturales o zonas protegidas, asentamientos humanos y desarrollo urbano del Proyecto, por parte de las autoridades competentes en la materia;
 
-IV. Análisis costo-beneficio, que permitirá demostrar que los proyectos son susceptibles de generar un beneficio social neto positivo, considerando los costos y beneficios directos e indirectos que se generan para la sociedad;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
 
-Los tipos de análisis costo-beneficio deberán ser regulados en los Lineamientos que para tal efecto emita la Secretaría y a falta de ellos, deberán observarse los Lineamientos que para tal efecto haya emitido la Secretaría de Hacienda y Crédito Público;
+IV. Análisis costo-beneficio, que permitirá demostrar que los proyectos son susceptibles de generar un beneficio social neto positivo, considerando los costos y beneficios directos e indirectos que se generan para la sociedad, así como que éstos derivan en un mayor beneficio para el Estado que el que se obtendría en caso de ser desarrollado bajo esquemas tradicionales:
+
+Los tipos de análisis costo-beneficio deberán ser regulados en los Lineamientos que para tal efecto emita la Secretaría de la Hacienda Pública y a falta de ellos, deberán observarse los Lineamientos que para tal efecto haya emitido la Secretaría de Hacienda y Crédito Público;
 
 V. La viabilidad económica y financiera del Proyecto, tomando en consideración los estudios y análisis tales como:
 
 a) Índice de Elegibilidad;
 
-b) Análisis de Riesgos; y
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
+
+b) Análisis de Transferencia de Riesgos; y
 
 c) Análisis del Comparador Público Privado-Valor por Dinero;
 
@@ -215,7 +261,9 @@ IX. El Modelo de Contrato que contenga los elementos principales, incluyendo:
 
 a) Descripción de los servicios que prestará el inversionista proveedor;
 
-b) Duración del contrato, que no podrá ser menor a cinco, ni mayor a treinta años;
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
+
+b) Duración del contrato;
 
 c) Las características, especificaciones, estándares técnicos, niveles de desempeño y calidad para la ejecución de la obra y prestación de los servicios;
 
@@ -241,13 +289,15 @@ i) Obligaciones de pago que asumirán las partes en caso de terminación anticip
 
 Además de los estudios y análisis indicados en este artículo, para los proyectos señalados en el artículo 1° Bis, se necesita contar con la autorización previa del Consejo Directivo del Consejo Estatal de Ciencia y Tecnología de Jalisco, para poder desarrollar el proyecto.
 
-El Reglamento de esta Ley y los Lineamientos y Metodologías que para tal efecto emita la Secretaría y a falta de éstos, los pronunciados por la Secretaría de Hacienda y Crédito Público, establecerán los demás aspectos que deberán cubrir: el índice de elegibilidad, el análisis del comparador público privado - valor por dinero, el análisis costo beneficio (rentabilidad social o evaluación socioeconómica) y el análisis de riesgos y sus respectivos montos.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2019)</small>
+El Reglamento de esta Ley y los Lineamientos y Metodologías que para tal efecto emita la Secretaría de la Hacienda Pública y a falta de éstos, los pronunciados por la Secretaría de Hacienda y Crédito Público, establecerán los demás aspectos que deberán cubrir: el índice de elegibilidad, el análisis del comparador público privado- valor por dinero, el análisis costo beneficio (rentabilidad social o evaluación socioeconómica) y el análisis de riesgos y sus respectivos montos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### Artículo 9°.
 
-Antes de iniciar el proceso de adjudicación de un contrato y de aprobación ante el Congreso del Estado, las entidades que pretendan realizar un proyecto deberán contar, en el caso de las entidades estatales con el dictamen favorable de la Secretaría de Administración del Estado de Jalisco y en el caso de las entidades Municipales con el dictamen favorable del Tesorero Municipal o Encargado de la Hacienda Municipal, y la aprobación por la mayoría calificada de su Ayuntamiento; Los dictámenes se elaborarán con base en:
+Antes de iniciar el proceso de adjudicación de un contrato y de aprobación ante el Congreso del Estado, las entidades que pretendan realizar un proyecto deberán contar, en el caso de las entidades estatales con el dictamen favorable de la Secretaría de la Hacienda Pública y en el caso de las entidades Municipales con el dictamen favorable del Tesorero Municipal o Encargado de la Hacienda Municipal, y la aprobación por la mayoría calificada de su Ayuntamiento. Los dictámenes se elaborarán con base en:
 
 > <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
@@ -265,83 +315,77 @@ III. El impacto que en las finanzas públicas tendrán las obligaciones de pago 
 
 IV. La congruencia del proyecto con las directrices establecidas en el Plan Estatal de Desarrollo o en su caso en el Plan Municipal de Desarrollo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2019)</small>
-
 ###### Artículo 9° Bis.
 
-Toda persona inscrita en el padrón de proveedores y/o contratistas del Estado de Jalisco o en caso de las entidades municipales en el padrón de proveedores y/o de contratista (sic) del municipio correspondiente tendrá derecho a proponer al Estado, por conducto de la Secretaría de Administración del Estado de Jalisco, o a los Municipios por conducto de sus Tesorerías Municipales, la realización de uno o más proyectos bajo la modalidad de Asociación Público Privada; en cuyo caso, acreditará además de las previsiones anteriores las economías, ventajas y beneficio directo en aumento de cobertura o calidad de servicios públicos de su propuesta.
+(DEROGADO, P.O. 13 DE MAYO DE 2022)
 
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2022)</small>
 
-Formalizada la presentación de una oferta no solicitada, la persona de que se trate podrá requerir y obtener la información pública necesaria para la elaboración del proyecto y análisis financiero de prefactibilidad que sea necesario del sector público, así como a participar con voz, pero sin voto, en las reuniones de Grupo de trabajo Administrador del proyecto que se conforme para el análisis y evaluación de las mismas.
+###### Artículo 9°. Ter.
 
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+Cualquier interesado en realizar un Proyecto podrá inscribirse en el padrón de proveedores o contratistas del Estado de Jalisco o en caso de entidades Municipales en el padrón de Proveedores o Contratistas del Municipio correspondiente, para presentar un proyecto bajo la modalidad de asociación público privada a la Entidad del Sector Público que corresponda, acompañando a la misma un estudio de prefactibilidad que contenga lo siguiente:
 
-La recepción de una oferta no solicitada, su análisis, estudio, proyección, presupuestación y presentación para aprobación no generará derecho alguno a la persona promovente ni obligaciones de ningún tipo para el Estado o entidades que reciban la misma ni se entenderá vinculante o sujeto a afirmativa o negativa ficta alguna.
-
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-La inversión que en estudios, proyecciones técnicas financieras, anteproyectos constructivos, arquitectónicos o de cualquier otra índole correrán a cargo del ofertante, por lo que no le serán reembolsables, sin perjuicio del derecho a incluir su monto dentro del monto total del financiamiento del proyecto y de la contraprestación planteada.
-
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
-
-En caso de las entidades estatales la Secretaría de Administración del Estado de Jalisco, emitirá lineamientos generales para la recepción de ofertas no solicitadas, su registro, su análisis objetivo e imparcial, así como, en su caso, su desechamiento o reserva, así como solución de controversias entre los ofertantes para el caso de prelación en proyectos con objeto (sic) similares o complementarios, en el caso de las entidades Municipales los lineamientos generales los emitirán sus Ayuntamientos con aprobación de mayoría calificada.
-
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-Cualquier modificación a un contrato de prestación de servicios, requerirá de la autorización previa de la Secretaría, tratándose de dependencias y entidades estatales.
-
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-Tratándose de Ayuntamientos, las modificaciones deberán ser autorizadas con mayoría calificada, contando con la opinión previa del Tesorero municipal o encargado de la Hacienda Pública Municipal.
-
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-En caso de que la modificación implique exceder la afectación patrimonial plurianual establecida a través del decreto aprobatorio, a que se refiere el artículo 15 de esta ley, se requerirá de la aprobación previa del Congreso del Estado.
-
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-###### Artículo 9° Ter.
-
-Cualquier interesado en realizar un Proyecto podrá inscribirse en el padrón de proveedores o contratistas del Estado de Jalisco o en caso de entidades Municipales en el padrón de Proveedores o Contratistas del Municipio correspondiente, para presentar un proyecto bajo la modalidad de asociación público privada a la Dependencia o Entidad del Sector Público que corresponda, acompañando a la misma un estudio de prefactibilidad que contenga lo siguiente:
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 I. La descripción del Proyecto propuesto, con sus características y viabilidad técnicas;
 
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
 II. La descripción de las autorizaciones que, en su caso, resultarían necesarias para desarrollar el Proyecto, con especial mención en las de uso de suelo;
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 III. La viabilidad y alternativas de estructuras jurídicas del Proyecto, incluyendo sus modalidades;
 
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
 IV. La justificación socioeconómica del Proyecto;
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 V. Las estimaciones de inversión y aportaciones, en efectivo y en especie, tanto estatales y de los particulares como, en su caso, municipales o federales, en las que se haga referencia al costo estimado de adquisición de los inmuebles, bienes y derechos necesarios para el Proyecto;
 
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
 VI. La viabilidad económica y financiera del Proyecto; y
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 VII. Las características esenciales del Contrato a celebrarse.
 
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
 El Reglamento señalará los alcances de los requisitos antes mencionados.
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 Para efecto de lo anterior, las Entidades y/o los Ayuntamientos podrán señalar, mediante acuerdo publicado en el Periódico Oficial “El Estado de Jalisco”, así como en la Gaceta Oficial del Municipio y en los lugares visibles de la cabecera municipal tratándose de los Ayuntamientos y en sus páginas de Internet respectivas, los sectores, subsectores, ámbitos geográficos, tipo de proyectos y demás elementos de las propuestas que estén dispuestos a recibir. En estos casos, sólo se analizarán las propuestas que atiendan los elementos citados.
 
-Las propuestas no solicitadas que cumplan con los requisitos, serán analizadas y evaluadas conforme a lo previsto por el Reglamento para tal efecto.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+Las propuestas no solicitadas que cumplan con los requisitos serán analizadas y evaluadas por la entidad competente según la materia de la propuesta no solicitada, conforme a lo previsto por el Reglamento para tal efecto.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### Artículo 10.
 
-Tratándose de proyectos a cargo de entidades municipales, cuando éstas requieran que el Poder Ejecutivo funja como garante, avalista o deudor solidario y/o se establezca como garantía y/o fuente de pago directa o indirecta de algún proyecto, participaciones y/o aportaciones federales que por ley le correspondan a estos, justificarán en la solicitud que hagan ante la Secretaría la necesidad, idoneidad y viabilidad financiera del proyecto así como la congruencia del mismo con el contenido del Plan Municipal de Desarrollo. Para ello, recabarán la opinión del encargado de la Hacienda Municipal, así como la del comité o entidad municipal competente, mismas que deberán ser adjuntadas a la solicitud de aprobación del proyecto de que se trate.
+Tratándose de proyectos a cargo de entidades municipales, cuando éstas requieran que el Poder Ejecutivo funja como garante, avalista o deudor solidario y/o se establezca como garantía y/o fuente de pago directa o indirecta de algún proyecto, participaciones y/o aportaciones federales que por ley le correspondan a estos, justificarán en la solicitud que hagan ante la Secretaría de la Hacienda Pública la necesidad, idoneidad y viabilidad financiera del proyecto; de igual manera, la congruencia del mismo con el contenido del Plan Municipal de Desarrollo, para lo cual, recabarán la opinión del encargado de la Hacienda Municipal, así como la del comité o entidad municipal competente, mismas que deberán ser adjuntadas a la solicitud de aprobación del proyecto de que se trate.
 
 ### CAPÍTULO IV. De la presupuestación
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### Artículo 11.
 
-La Secretaría deberá emitir, dentro de los lineamientos generales que contengan los criterios y políticas de finanzas públicas y de ejercicio del gasto, la metodología que se utilizará para evaluar el impacto del proyecto en el gasto específico de la entidad contratante correspondiente, así como el impacto del proyecto en el gasto público y en el presupuesto de egresos del Estado.
+La Secretaría de la Hacienda Pública deberá emitir, dentro de los lineamientos generales que contengan los criterios y políticas de finanzas públicas y de ejercicio del gasto, la metodología que se utilizará para evaluar el impacto del proyecto en el gasto específico de la entidad contratante correspondiente, así como el impacto del proyecto en el gasto público y en el presupuesto de egresos del Estado.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 Para tal efecto, en la planeación de los proyectos las entidades deberán ajustarse a lo siguiente:
 
-I. Las disposiciones de la Ley de Planeación para el Estado de Jalisco y sus Municipios;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+I. Las disposiciones la Ley de Planeación Participativa para el Estado de Jalisco y sus Municipios;
 
 II. Los objetivos y prioridades del Plan Estatal de Desarrollo y, en su caso, planes municipales de desarrollo, así como los programas que de él se deriven;
 
@@ -349,7 +393,11 @@ III. Los objetivos, metas y previsiones de recursos contemplados en sus respecti
 
 IV. Al estimado a pagar por año, que no deberá exceder el 20% del presupuesto anual asignado para gasto corriente a la entidad contratante; y
 
-V. La Secretaría emitirá lineamientos que contengan criterios y políticas prudenciales de finanzas públicas y de gasto que deberán observar las entidades contratantes en la contratación de proyectos, los cuales serán obligatorios para los Municipios y demás entidades que pretendan contratar proyectos cuya fuente de pago sea directa o indirectamente la afectación de participaciones o aportaciones federales o estatales.
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+V. A los lineamientos que emita la Secretaría de la Hacienda Pública, que contengan criterios y políticas prudenciales de finanzas públicas y de gasto, serán obligatorios para los Municipios y demás entidades que pretendan contratar para los proyectos cuya fuente de pago sea directa o indirectamente la afectación de participaciones o aportaciones federales o estatales.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 El ejercicio del gasto público para los proyectos de inversión y de prestación de servicios se sujetará a las disposiciones especificas del presupuesto de egresos del Estado o de los municipios, según sea el caso, para el ejercicio fiscal correspondiente, así como lo previsto en esta Ley y su Reglamento, la Ley del Presupuesto, Contabilidad y Gasto Público del Estado de Jalisco, la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, según sea el caso, y las demás disposiciones legales y administrativas aplicables.
 
@@ -361,23 +409,39 @@ Los pagos por servicios que las entidades contratantes deban realizar al amparo 
 
 Las entidades contratantes deberán incluir en las matrices de indicadores del desempeño y en su proyecto de presupuesto de egresos, las cantidades que por la celebración de los contratos deban pagar durante el año presupuestal correspondiente. Asimismo, deberán incluir un anexo que especifique el monto aproximado a pagarse por concepto de valor de terminación en caso de una terminación anticipada por incumplimiento, fuerza mayor u otras causas de terminación, cuando así lo contemple el contrato.
 
-El Estado y los Municipios, con la previa aprobación del Congreso, podrá afectar como fuente de pago o en garantía sus ingresos derivados de contribuciones, productos, aprovechamientos, accesorios u otros conceptos susceptibles de afectación, para el cumplimiento de las obligaciones de pago que se deriven de los contratos.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
+
+El Estado y los Municipios, con la previa aprobación del Congreso, y en su caso cumpliendo con las disposiciones de la legislación federal aplicables, podrán afectar como fuente de pago o en garantía sus ingresos derivados de participaciones en impuestos e ingresos federales, contribuciones, productos, aprovechamientos, accesorios u otros conceptos susceptibles de afectación, para el cumplimiento de las obligaciones de pago que se deriven de los contratos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MAYO DE 2022)</small>
+
+Del mismo modo, con dicha aprobación, podrán establecer cualquier tipo de Fuente de Pago, Fuente de Pago Alterna, Garantía u otro tipo de mecanismos para asegurar el cumplimiento de sus obligaciones contractuales. En este sentido, para la implementación de lo antes señalado, se podrán constituir fideicomisos de administración, garantía, fuente de pago y/o fuente de pago alterna, así como cualquier otro mecanismo permitido por la ley.
 
 ### CAPÍTULO V. De la aprobación ante el Congreso del Estado
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### Artículo 13.
 
-Todo proyecto de inversión en infraestructura o de prestación de servicio de las entidades estatales o municipales, para que se contrate bajo la modalidad de asociación público-privada, deberá ser sometido a la previa aprobación del Congreso del Estado, respecto a:
+Todo proyecto de inversión en infraestructura o de prestación de servicio de las entidades estatales o municipales, para que se contrate bajo la modalidad de asociación público-privada o coinversión, deberá ser sometido a la previa aprobación del Congreso del Estado por dos terceras parte (sic) de los presentes, respecto a:
+
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 I. El techo financiero para la realización del proyecto, así como del monto estimado de los pagos a realizarse en cada ejercicio fiscal;
 
-II. La afectación de ingresos que en su caso sea necesaria para hacer frente a los pagos periódicos que deberá realizar la entidad contratante al proveedor con motivo del proyecto durante los ejercicios fiscales que abarque el contrato correspondiente;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
 
-III. Los términos generales del contrato de asociación público privada en que se instrumente el proyecto, estos son: el objeto general del proyecto y el plazo del mismo; y
+II. La afectación de ingresos y el esquema de garantías que en su caso sean necesarias para hacer frente a los pagos periódicos que deberá realizar la entidad contratante al proveedor con motivo del proyecto durante los ejercicios fiscales que abarque el contrato correspondiente;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+III. Los términos generales del contrato en que se instrumente el proyecto, estos son: el objeto general del proyecto y el plazo del mismo; y
+
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 IV. La transmisión de los bienes del dominio del Estado o de la entidad contratante al proyecto así como las condiciones, en su caso, para su reversión.
+
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 Las entidades estatales y municipales podrán afectar los ingresos provenientes de participaciones federales que les correspondan, al pago de las obligaciones contraídas en términos de lo señalado en el presente artículo, siempre y cuando cumplan con los mecanismos, requisitos y hasta por los porcentajes que establezcan las leyes federales y estatales que regulan el otorgamiento de garantías con cargo al Fondo General de Participaciones
 
@@ -391,19 +455,23 @@ I. Una exposición de motivos;
 
 II. El proyecto, acompañado de la información técnica y financiera que corresponda;
 
-III. El proyecto de referencia, acompañada de la información técnica y financiera correspondiente;
+III. (DEROGADA, P.O. 13 DE MAYO DE 2022)
 
-IV. El Modelo de Contrato incluyendo los elementos principales y lo establecido en la fracción IX artículo 8 de esta ley y, en su caso, el régimen para prorrogarlos;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+IV. Los términos generales del contrato de asociación público privada en que se instrumente el proyecto, estos son: el objeto general del proyecto y el plazo del mismo;
 
 V. El techo financiero para el cumplimiento de las obligaciones derivadas de la realización del proyecto;
 
 VI. El techo financiero necesario para hacer frente a las obligaciones de pago que sean contraídas en el contrato durante los ejercicios fiscales en que el mismo se encuentre vigente;
 
-VII. Una proyección que demuestre que la entidad contratante o bien el Municipio, tendrá los recursos suficientes para cubrir dicha contraprestación y sus demás compromisos durante la vigencia del contrato en que se formalice el proyecto;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+VII. El dictamen favorable de la Secretaría de la Hacienda Pública, con los que se avale el proyecto para el caso de la Entidad o bien de la Tesorería Municipal o del encargado de la Hacienda Municipal, incluyendo la capacidad de pago de la entidad contratante;
 
 VIII. Una clasificación detallada de las obligaciones que se deriven del Proyecto. Los contratos de Asociación Público Privada y/o Proyectos de Inversión no serán considerados como deuda pública en tanto las obligaciones a cargo de la entidad contratante queden sujetas al cumplimiento de las obligaciones a cargo del proveedor correspondiente; por lo que, en su caso en el proyecto se especificará cuáles obligaciones deban ser, por su naturaleza, consideradas como deuda pública en los términos de la ley en la materia; y
 
-IX. La opinión de la Subsecretaría de Planeación y el dictamen favorable de la Subsecretaría de Finanzas de la Secretaría, con los que se avale el proyecto para el caso de la Entidad, o bien de la dependencia o instancia correspondiente para el Municipio;
+IX. (DEROGADA, P.O. 13 DE MAYO DE 2022)
 
 ###### Artículo 15.
 
@@ -411,11 +479,11 @@ Una vez autorizado el proyecto por el Pleno del Congreso, se publicará en el pe
 
 ### Capítulo VI. Del Comité de Adjudicación
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### Artículo 16.
 
-Cuando en el Presupuesto de Egresos del Poder Ejecutivo o por Decreto específico, el Congreso del Estado autorice la contratación de un proyecto, para el caso de las entidades estatales la Secretaría de Administración del Estado de Jalisco, constituirá un Comité de Adjudicación, que funcionará como órgano colegiado de consulta, asesoría, análisis, opinión, orientación y resolución en el procedimiento de licitación y adjudicación de los proyectos autorizados, en caso de las Entidades Municipales dichos comités de adjudicación serán constituidos por el Presidente Municipal.
+Cuando el Congreso del Estado autorice la contratación de un proyecto, se integrará, el Comité de Adjudicación Estatal o Municipal, según corresponda, que funcionará como órgano colegiado de consulta, asesoría, análisis, opinión, orientación y resolución en el procedimiento de licitación y adjudicación de los proyectos autorizados.
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
@@ -443,61 +511,63 @@ IX. Emitir opinión, en su caso, respecto de los precios de los inmuebles que se
 
 X. Las demás que sean conferidas por la normatividad aplicable o acuerdo del titular del Poder Ejecutivo del Estado.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### Artículo 18.
 
-El Comité de Adjudicación, para el cumplimiento de sus atribuciones, funciones y objetivos, estará conformado por un representante de las entidades públicas y los organismos del sector privado siguientes:
+El Comité de Adjudicación, para el cumplimiento de sus atribuciones, funciones y objetivos, estará conformado por un representante de las entidades públicas siguientes:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE MAYO DE 2019)</small>
+A. En el caso de las entidades estatales por el titular de la Secretaría de Administración, quien fungirá como Presidente, así como por un representante de las entidades públicas siguientes:
 
-A.- En el caso de las entidades estatales por el titular de la Secretaría de Administración, quien fungirá como Presidente, así como por un representante de las entidades públicas y los organismos del sector privado siguientes:
+I. Secretaría de la Hacienda Pública;
 
-I. Secretaria de Infraestructura y Obra Pública;
+II. Secretaría de Infraestructura y Obra Pública;
 
-II. Secretaría de Desarrollo Económico;
+III. Secretaría de Desarrollo Económico; y
 
-III. Contraloría del Estado;
+IV. Consejería Jurídica;
 
-IV. Cámara Nacional de Comercio;
+Todos los integrantes tienen derecho a voz y voto.
 
-V. Consejo de Cámaras Industriales de Jalisco;
+La Contraloría del Estado participará en las sesiones del Comité solo con derecho a voz.
 
-VI. Centro Empresarial de Jalisco, S.P.;
+Por cada integrante propietario se nombrará, previamente y por escrito, un suplente.
 
-VII. (DEROGADA, P.O. 11 DE MAYO DE 2019)
+El Comité de Adjudicación contará con un Secretario Técnico designado por su Presidente.
 
-B.- Los Comités de Adjudicación constituidos por sus Ayuntamientos estarán conformados por el Tesorero Municipal o encargado de a (sic) Hacienda Municipal, quien fungirá como Presidente del Comité, así como por un representante de las entidades públicas y los organismos del sector privado siguientes:
+B. Los Comités de Adjudicación constituidos por sus Ayuntamientos estarán conformados por el Tesorero Municipal o encargado de a (sic) Hacienda Municipal, quien fungirá como Presidente del Comité, así como por un representante de las entidades públicas siguientes:
 
-I. El Director de Obras Públicas o quien realice funciones similares;
+I. El titular de la Sindicatura;
 
-II. El Contralor Municipal o quien realice funciones similares;
+II. El Director de Obras Públicas o quien realice funciones similares;
 
-III. Cámara Nacional de Comercio;
+III. El Director de Administración o quien haga sus veces; y
 
-IV. Consejo de Cámaras Industriales de Jalisco;
+IV. El Director de Desarrollo Económico o quien haga sus veces.
 
-V. Centro Empresarial de Jalisco, S.P.; y
+Todos los integrantes tienen derecho a voz y voto.
 
-VI. (DEROGADA, P.O. 11 DE MAYO DE 2019)
+El Contralor Municipal o quien realice funciones similares participará solo con derecho a voz
 
-El Comité de Adjudicación, a petición de cualquiera de sus integrantes, podrá invitar a las personas que por sus conocimientos y aptitudes considere necesarias para el mejor cumplimiento de sus actividades.
+Por cada integrante propietario se nombrará, previamente y por escrito, un suplente.
 
-Por cada vocal propietario se nombrará, previamente y por escrito, un suplente.
+El Comité de Adjudicación contará con un Secretario Técnico designado por su Presidente.
 
-Todos los integrantes tienen derecho a voz y voto, excepto quienes asistan en calidad de invitados, quienes participarán únicamente con derecho a voz.
+El Comité de Adjudicación, a petición de cualquiera de sus integrantes, podrá invitar a las personas que por sus conocimientos y aptitudes considere necesarias para el mejor cumplimiento de sus actividades, quienes participarán únicamente con derecho a voz.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### Artículo 19.
 
 Los cargos en el Comité de Adjudicación serán honoríficos y, por lo tanto, no remunerados.
 
-Los representantes de organismos de la sociedad civil que forman parte del Comité de Adjudicación, carecen de la calidad de servidores públicos.
-
 ###### Artículo 20.
 
 El Comité de Adjudicación sesionará de manera ordinaria de conformidad con el calendario anual que se determine para cada proyecto en particular, y extraordinariamente cuantas veces sea necesario.
 
-Las sesiones serán válidas con la asistencia de la mayoría de sus integrantes y, tratándose de segunda convocatoria, a la que se citará dentro de las veinticuatro horas siguientes, con el número de los concurrentes, y los acuerdos que se tomen en ellas tendrán plena validez.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
+
+Las sesiones serán válidas con la asistencia de la mayoría de sus integrantes.
 
 > <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 29 DE JULIO DE 2021)</small>
 
@@ -545,15 +615,19 @@ V. Coordinar la ejecución de las resoluciones emitidas por el Comité de
 
 Adjudicación y vigilar su cumplimiento;
 
-VI. Recibir las acreditaciones de los vocales y de sus respectivos suplentes ante el Comité de Adjudicación;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+VI. Recibir las acreditaciones de los integrantes y de sus respectivos suplentes ante el Comité de Adjudicación;
 
 VII. Ejercer su voto de calidad, en caso de empate en las sesiones del Comité de Adjudicación, y
 
 VIII. Las demás que le otorguen otras disposiciones legales o reglamentarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2022)</small>
+
 ###### Artículo 24.
 
-Los vocales del Comité de Adjudicación tendrán las siguientes funciones:
+Los integrantes del Comité de Adjudicación tendrán las siguientes funciones:
 
 I. Analizar los casos y asuntos que se sometan a su consideración y se consignen en el orden del día, apoyando su análisis en los informes y documentos que los sustenten o fundamenten;
 
@@ -583,25 +657,23 @@ Los municipios deberán tener el visto bueno del Comité de Adjudicación estata
 
 ### CAPÍTULO VII. Del procedimiento de adjudicación
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### Artículo 28.
 
-El procedimiento de adjudicación podrá iniciarse cuando la entidad ejecutora cuente previamente con:
+El procedimiento de adjudicación podrá iniciarse cuando la entidad ejecutora cuente previamente con la publicación del decreto de aprobación del Congreso del Estado en el Periódico Oficial "El Estado de Jalisco.
 
-I. La publicación del decreto de aprobación del Congreso del Estado en el Periódico Oficial "El Estado de Jalisco"; y
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
-
-II. La opinión y el dictamen favorable emitidos por la Secretaría de Administración del Estado de Jalisco, en el caso de entidades estatales y del Tesorero Municipal o encargado de la Hacienda municipal en el caso de las Entidades Municipales.
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### Artículo 29.
 
-La entidad contratante adjudicará los proyectos mediante los procedimientos de contratación siguientes:
+La adjudicación de los proyectos se realizará mediante los procedimientos de contratación siguientes:
 
-I. En los casos previstos por el artículo 38 de esta ley, por adjudicación directa; y
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+I. En los casos previstos por el artículo 38 de esta ley, por adjudicación directa o por invitación (sic) al menos tres personas; y
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 II. En los demás casos licitación Pública, ya sea local, nacional o internacional.
 
@@ -627,9 +699,11 @@ II. Se designe un representante común para todos los efectos del procedimiento 
 
 III. De adjudicarse el Contrato, se especifique en el mismo, las obligaciones de cada persona, en el entendido de que su responsabilidad será solidaria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2022)</small>
+
 ###### Artículo 34.
 
-En la evaluación de las propuestas, serán considerados como parte de la solvencia de la propuesta, en los términos de la Ley de Adquisiciones y Enajenaciones del Gobierno del Estado, los siguientes aspectos:
+En la evaluación de las propuestas, serán considerados como parte de la solvencia de la propuesta, en los términos de la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios, los siguientes aspectos:
 
 I. La situación personal: que el proponente no haya sido condenado, mediante sentencia firme, por delitos relacionados con delincuencia organizada, corrupción, operaciones con recursos de procedencia ilícita o fraude;
 
@@ -653,47 +727,67 @@ II. Deberá preverse un equilibrio entre los criterios de evaluación referentes
 
 III. Se podrá otorgar una puntuación adicional al oferente que prevea la subcontratación de micro, pequeñas y medianas empresas, para la prestación del servicio;
 
-IV. Tratándose de proyectos cuya estructuración tenga origen en una Oferta no Solicitada, se deberá otorgar una puntuación adicional al oferente, que en ningún caso será superior al 15 por ciento del total de la puntuación, haciéndose pública esta circunstancia en las bases de licitación y en la convocatoria del proyecto; y
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+IV. Tratándose de proyectos cuya estructuración renga (sic) origen en una propuesta no solicitada, se deberá otorgar una puntuación adicional al oferente, que en ningún caso será superior al 15 por ciento del total de la puntuación, haciéndose pública esta circunstancia en las bases de licitación y en la convocatoria del proyecto; y
 
 V. La adjudicación del Contrato será para el oferente con mayor puntaje, de acuerdo con el sistema establecido en las bases.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### Artículo 36.
 
-El contrato se adjudicará al oferente cuya propuesta se ajuste a los criterios establecidos en esta Ley y en (sic) Ley de Adquisiciones y Enajenaciones del Estado de Jalisco, siempre y cuando el oferente garantice satisfactoriamente la solvencia del proyecto, así como el cumplimiento de las obligaciones legales, financieras y técnicas requeridas para la ejecución del mismo. En igualdad de condiciones, se preferirá al oferente local frente a cualquier otro.
+El contrato se adjudicará al oferente cuya propuesta se ajuste a los criterios establecidos en esta Ley, siempre y cuando el oferente garantice satisfactoriamente la solvencia del proyecto, así como el cumplimiento de las obligaciones legales, financieras y técnicas requeridas para la ejecución del mismo. En igualdad de condiciones, se preferirá al oferente local frente a cualquier otro.
 
-Se considera igualdad de condiciones cuando la variación en el puntaje final entre los oferentes en cuestión, no sea superior al cinco por ciento.
+Las bases de la licitación de cada proyecto establecerán los criterios para resolver los supuestos de igualdad de condiciones.
 
 ###### Artículo 37.
 
 Se tomarán en consideración para evaluar las propuestas, los mecanismos y soluciones técnicas generados por el proveedor para garantizar la continua prestación del servicio de que se trate, así como la calidad y seguridad del mismo.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### Artículo 38.
 
-La entidad estatal excepcionalmente podrá celebrar el Contrato a través del procedimiento de adjudicación directa, en los siguientes casos:
+El Comité de Adjudicación podrá adjudicar proyectos, a través del procedimiento de invitación a cuando menos tres personas o adjudicación directa, sin sujetarse al proceso de licitación pública a que se refiere esta ley, en los siguientes casos:
+
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 I. Que en el mercado sólo exista un posible oferente, o se trate de una persona que posea la titularidad exclusiva de las patentes, derechos de autor u otros derechos exclusivos;
 
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
 II. Se realicen con fines exclusivamente de seguridad pública, o su contratación mediante licitación o concurso ponga en riesgo la seguridad pública, en los términos de las leyes de la materia;
+
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 III. Existan circunstancias que puedan provocar pérdidas o costos adicionales importantes, cuantificables y comprobables;
 
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
 IV. Se haya rescindido un proyecto adjudicado a través de concurso, antes de su inicio, en cuyo caso el proyecto podrá adjudicarse al concursante que haya obtenido el segundo o ulteriores lugares, siempre que la diferencia en precio con la propuesta inicialmente ganadora no sea superior al diez por ciento. Tratándose de concursos con puntos y porcentajes para la evaluación, se podrá adjudicar a la propuesta que siga en calificación a la del ganador;
+
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 V. Se trate de la sustitución de un desarrollador por causas de terminación anticipada o rescisión de un proyecto de asociación público-privada en marcha; y
 
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
 VI. En el caso de que se acredite la celebración de una alianza estratégica que lleven a cabo las dependencias y entidades con personas jurídicas dedicadas a la ingeniería, la investigación y a la transferencia y desarrollo de tecnología, a fin de aplicar las innovaciones tecnológicas en la infraestructura estatal o municipal.
 
-La entidad estatal deberá acreditar los supuestos a los que se refieren las fracciones I, II, III y VI; mediante dictamen emitido por un tercero competente en la materia.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
-No procederá la adjudicación directa tratándose de proyectos no solicitados a que se refiere el artículo 9° Bis de esta Ley.
+El Comité de Adjudicación deberá acreditar los supuestos a los que se refieren las fracciones I, II, III y VI; mediante dictamen emitido por un tercero competente en la materia.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
+
+No procederá la adjudicación directa tratándose de proyectos no solicitados a que se refiere el artículo 9º Ter de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### Artículo 39.
 
-La selección del procedimiento que realice la entidad deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia que aseguren las mejores condiciones para la entidad.
+La selección del procedimiento que realice El Comité de Adjudicación deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia que aseguren las mejores condiciones para la entidad.
 
 La acreditación de los criterios mencionados y la justificación de las razones para el ejercicio del procedimiento seleccionado, deberán constar en escrito firmado por la autoridad responsable del proceso de adjudicación.
 
@@ -701,25 +795,37 @@ En cualquier supuesto se invitará a personas que cuenten con capacidad de respu
 
 ### CAPÍTULO VIII. De los Contratos
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### Artículo 40.
 
-Los contratos de asociación pública-privada son de derecho público.
+Los contratos de asociación pública-privada o de coinversión son de derecho público.
 
-El contrato de asociación pública privada puede incluir, entre otros:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE MAYO DE 2022)</small>
+
+El contrato de asociación pública privada o de coinversión puede incluir, entre otros:
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 I. La realización de estudios técnicos especializados;
 
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
 II. La realización de infraestructura pública y/o su equipamiento; o
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 III. La concesión de servicios públicos.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
-Una vez otorgada la aprobación para la contratación del proyecto, la entidad ejecutora remitirá a la Secretaría de Administración del Estado de Jalisco, en el caso de las entidades estatales y al Tesorero Municipal o encargado de la Hacienda municipal en el caso de las entidades municipales, el modelo de contrato para el proyecto respectivo. El modelo deberá ser un contrato integral que describa todas y cada una de las obligaciones y derechos del inversionista proveedor y de la entidad. Lo anterior, sin perjuicio de que existan otros contratos, convenios o concesiones que regulen aspectos del proyecto distinto de la prestación de los servicios y de la posibilidad de celebrar posteriores adecuaciones jurídicas, financieras y técnicas al contrato o al proyecto en general, sin exceder las condiciones generales de contratación autorizadas y previa justificación.
+Una vez otorgada la aprobación para la contratación del proyecto, la Consejería Jurídica y la Secretaría de la Hacienda Pública en el caso de las entidades estatales, y la Sindicatura y la Tesorería Municipal o el encargado de la Hacienda municipal en el caso de las entidades municipales, validarán el contrato para el proyecto respectivo. El contrato deberá ser un contrato integral que describa todas y cada una de las obligaciones y derechos del inversionista proveedor y de la entidad. Lo anterior, sin perjuicio de que existan otros contratos, convenios o concesiones que regulen aspectos del proyecto distinto de la prestación de los servicios y de la posibilidad de celebrar posteriores adecuaciones jurídicas, financieras y técnicas al contrato o al proyecto en general, sin exceder las condiciones generales de contratación autorizadas y previa justificación.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 El contrato deberá elaborarse con base en los elementos materia de la aprobación del proyecto. Todos los elementos del contrato, incluyendo la asignación de derechos y obligaciones de las partes bajo el mismo, deberán ser congruentes y consistentes con la descripción contenida en la documentación presentada para la aprobación del proyecto.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 La Secretaría podrá realizar las observaciones y ajustes al proyecto del contrato y actos jurídicos accesorios para la instrumentación del proyecto, en sus componentes jurídicos y financieros.
 
@@ -743,9 +849,11 @@ Las previsiones presupuestales correspondientes a las obligaciones de pago multi
 
 Las Entidades deberán prever en los contratos preferentemente el pago de contraprestaciones a partir de la efectiva recepción de los servicios o disponibilidad de la infraestructura, salvo que se trate de pagos directamente relacionados con la amortización del financiamiento obtenido por el proveedor o amortización de la inversión privada realizada para la ejecución del Contrato en cuyo caso se atenderá al calendario o términos pactados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2022)</small>
+
 ###### Artículo 44.
 
-El contrato podrá prever que los precios se encuentren sujetos a ajustes anuales por virtud de variaciones en índices de precios al insumo, siempre y cuando se establezca una metodología de comprobación de incrementos de precios que permita una determinación apropiada de los mejores precios disponibles en el mercado. En su caso, deberá especificarse en el contrato el mecanismo de ajuste y el índice o índices aplicables.
+El contrato podrá prever que los precios se encuentren sujetos a ajustes anuales por virtud de variaciones en índices de precios siempre y cuando se establezca una metodología de comprobación de incrementos de precios que permita una determinación apropiada de los mejores precios disponibles en el mercado. En su caso, deberá especificarse en el contrato el mecanismo de ajuste y el índice o índices aplicables.
 
 En todo caso, la entidad contratante será el propietario de los derechos de autor del proyecto materia del contrato.
 
@@ -787,27 +895,47 @@ II. La adquisición, forzosa u opcional, de dichos bienes por parte de la entida
 
 Cualquier modificación que pudiere surgir como resultado de las juntas de aclaraciones o negociaciones del proyecto y del contrato con los licitantes, deberá presentarse para su autorización al Comité de Adjudicación.
 
-En la etapa de ejecución de los proyectos, cualquier adecuación jurídica, financiera o técnica a los contratos, respecto del originalmente suscrito se presentará ante la dependencia o Entidad involucrada en el proyecto, para que ésta a su vez lo presente ante la Secretaría General de Gobierno, en el caso de proyectos estatales y, ante el ayuntamiento, en los casos de proyectos del orden municipal.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
+
+En la etapa de ejecución de los proyectos, cualquier adecuación jurídica, financiera o técnica a los contratos, respecto del originalmente suscrito podrá realizarlo el Comité Administrador siempre que no asuma mayores compromisos a los establecidos en el decreto aprobatorio.
 
 En caso de que se modifiquen las condiciones del contrato y que impliquen mayores compromisos a lo establecido en el decreto aprobatorio, deberán solicitar la autorización al Congreso.
 
 El reglamento de esta Ley desarrollará los demás aspectos relacionados con las características, elementos y procedimientos de autorización interna de los contratos.
 
-### CAPÍTULO IX. De la evaluación y seguimiento
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE MAYO DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+### CAPÍTULO IX. De la Ejecución del Proyecto
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2022)</small>
+
+###### Artículo 47 Bis.
+
+Una vez adjudicado un proyecto, el Ejecutivo del Estado o el Presidente Municipal, constituirá mediante acuerdo, un Comité Administrador del proyecto, de carácter interinstitucional y multidisciplinario, para el seguimiento, evaluación y verificación del cumplimiento de los compromisos asumidos por las partes.
+
+El Comité Administrador se integrará al menos con las dependencias normativas y ejecutoras que tengan relación con los aspectos técnicos, jurídicos y financieros del proyecto y contará con las atribuciones que se establecen en esta ley y el Reglamento.
+
+Dentro de los diez días hábiles siguientes a que se integre el Comité Administrador, éste deberá informar al Congreso del Estado la adjudicación del proyecto, remitiendo para tal efecto el expediente respectivo, y rendirá semestralmente un informe sobre los avances y la situación general del proyecto.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### Artículo 48.
 
-Los contratos respectivos deben invariablemente contener un apartado en el cual se establezcan los mecanismos, metodologías y fórmulas para evaluar la eficiencia, eficacia, efectividad del inversionista o proveedor y la rentabilidad social y económica de la prestación del servicio durante la vigencia del contrato respectivo, así como los mecanismos para que, en su caso, la ciudadanía beneficiaria de los servicios sea tomada en consideración, para que las entidades públicas evalúen constantemente el grado de satisfacción con la prestación de los servicios de que se trate.
+Los contratos respectivos deben invariablemente contener un apartado en el cual se establezcan los mecanismos, metodologías y fórmulas para evaluar la eficiencia, eficacia, efectividad del inversionista o proveedor, la rentabilidad social y económica de la prestación del servicio durante la vigencia del contrato respectivo, así como los mecanismos para que, en su caso, la ciudadanía beneficiaria de los servicios sea tomada en consideración, para que las entidades públicas evalúen constantemente el grado de satisfacción con la prestación de los servicios de que se trate.
 
-Será competencia de la Secretaría en el caso de las entidades estatales, coordinar todas aquellas actividades necesarias para el seguimiento, evaluación y verificación del cumplimiento de los compromisos asumidos tanto por el inversionista proveedor, como de la entidad a través de la entidad ejecutora y demás instancias de gobierno que participen en la ejecución del mismo, en caso de las entidades municipales la coordinación de estas actividades será competencia del Tesorero o encargado de la Hacienda Municipal.
+Será competencia del Comité Administrador, coordinar todas aquellas actividades necesarias para el seguimiento, evaluación y verificación del cumplimiento de los compromisos asumidos por el inversionista proveedor, la entidad ejecutora y demás instancias de gobierno que participen en la ejecución del mismo,
 
-Para tales efectos, la Secretaría en el caso de las entidades estatales, y el Tesorero o encargado de la Hacienda Municipal en caso de las entidades municipales podrán realizar visitas de verificación, así como requerir tanto al inversionista proveedor como a las demás instancias públicas o privadas involucradas en la ejecución del proyecto, cualquier información que considere necesaria para el seguimiento y evaluación de los compromisos asumidos, así como del comportamiento financiero del proyecto.
+Para lo anterior, el Comité Administrador deberá integrar el expediente de ejecución de obra desde el inicio hasta la culminación del proyecto.
+
+Para tales efectos, el Comité Administrador podrá ordenar visitas de inspección y supervisión, así como requerir tanto al inversionista proveedor como a las demás instancias públicas o privadas involucradas en la ejecución del proyecto, cualquier información que considere necesaria para el seguimiento y evaluación de los compromisos asumidos, así como del comportamiento financiero del proyecto.
+
+El Comité Administrador a que se refiere este Capítulo, se extinguirá una vez que se concluya el proyecto y se extingan en su totalidad las obligaciones derivadas de los contratos.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### Artículo 49.
 
-Para el caso de que los inversionistas o proveedores no cumplan con las metas y objetivos establecidos dentro del contrato respectivo, las entidades públicas calcularán y ejecutaran los descuentos respectivos que resulten aplicables, conforme a lo que se establezca en el contrato.
+Para el caso de que los inversionistas o proveedores no cumplan con las metas y objetivos establecidos dentro del contrato respectivo, el Comité Administrador calculará y ejecutará los descuentos respectivos que resulten aplicables, conforme a lo que se establezca en el contrato.
 
 ###### Artículo 50.
 
@@ -817,19 +945,79 @@ La aplicación de los mecanismos, metodologías y fórmulas a que hacen referenc
 
 Los mecanismos, metodologías y fórmulas que establezcan las partes para evaluar el desempeño de los inversionistas o proveedores durante la vigencia de los contratos serán públicos, así como los resultados que se deriven de ello.
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
+
 ###### Artículo 52.
 
-Los mecanismos, metodologías y fórmulas para la evaluación a que hacen referencia los artículos anteriores, serán ejecutados por la entidad pública contratante o por quien ésta lo determine.
+Los mecanismos, metodologías y fórmulas para la evaluación a que hacen referencia los artículos anteriores, serán ejecutados por el Comité Administrador.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### Artículo 53.
 
-En el caso de que los proveedores o inversionistas incumplan constantemente con las metas y los objetivos establecidos en el contrato, derivado del resultado obtenido por virtud de los mecanismos, metodologías y fórmulas pactadas, la entidad pública contratante podrá rescindir en la esfera administrativa el contrato, sin sanción para ella.
+En el caso de que los proveedores o inversionistas incumplan constantemente con las metas y los objetivos establecidos en el contrato, derivado del resultado obtenido por virtud de los mecanismos, metodologías y fórmulas pactadas, el Comité Administrador podrá rescindir en la esfera administrativa el contrato, sin sanción para ella.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MAYO DE 2022)</small>
+
+### CAPÍTULO IX BIS. Del Consejo de Evaluación y Seguimiento
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2022)</small>
+
+###### Artículo 53 Bis.
+
+El Comité Administrador contará con un Consejo de Evaluación y Seguimiento, como instancia de consulta, análisis, opinión y evaluación de los proyectos, y para brindar apoyo y seguimiento en las etapas de ejecución, desarrollo y culminación de los proyectos que las entidades realicen al amparo de esta ley.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2022)</small>
+
+###### Artículo 53 Ter.
+
+El Consejo, estará integrado como sigue:
+
+I. Un representante del Gobierno del Estado o del Municipio, según corresponda, designado por el Gobernador o el Presidente Municipal, quien lo presidirá;
+
+II. Además con un representante de:
+
+a) La Cámara Nacional de Comercio, Servicios y Turismo de Guadalajara;
+
+b) El Consejo de Cámaras Industriales de Jalisco;
+
+c) El Centro Empresarial de Jalisco, S.P.;
+
+d) La Cámara Mexicana de la Industria de la Construcción, Delegación Jalisco; y
+
+III. Un representante de un Organismo reconocido en materia de transparencia y combate a la corrupción;
+
+IV. Una persona académica representante de una universidad; y
+
+V. Una persona especialista.
+
+Las y los integrantes señalados en las fracciones III, IV y V, serán designados por invitación de (sic) persona titular del Gobierno del Estado o de la Presidencia Municipal, según sea el caso.
+
+Sus actuaciones se acordarán por mayoría de votos de los miembros presentes en la sesión respectiva, teniendo el Presidente voto de calidad en caso de empate.
+
+Las sesiones del Consejo serán válidas cuando concurran al menos cinco de sus miembros, siempre que se encuentre entre los asistentes su Presidente.
+
+El Consejo sesionará de conformidad con lo que establezca el Reglamento.
+
+A las sesiones del Consejo se podrán invitar los integrantes del Comité Administrador que corresponda y a personas físicas o jurídicas con reconocida experiencia en la planeación, ejecución y desarrollo de proyectos de inversión para infraestructura y de prestación de servicios, sólo con derecho a voz.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2022)</small>
+
+###### Artículo 53 Quáter.
+
+El Consejo tendrá las funciones siguientes:
+
+I. Realizar análisis y emitir opiniones sobre los proyectos materia de la presente ley;
+
+II. Dar seguimiento y evaluar los avances de los proyectos materia de la presente ley, hasta su culminación;
+
+III. Realizar evaluaciones sobre los resultados de los proyectos materia de la presente ley y sobre los beneficios que con ellos se obtuvieron; y
+
+IV. Las demás que establezca el Reglamento.
+
+Para el cumplimiento de sus atribuciones, el Consejo podrá solicitar al Comité Administrador la realización o contratación externa de una o más evaluaciones en cualquier etapa del proyecto.
 
 ### CAPÍTULO X. Del registro y de los bienes
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-### CAPÍTULO XI. De extinción del contrato
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
@@ -837,7 +1025,9 @@ En el caso de que los proveedores o inversionistas incumplan constantemente con 
 
 Las entidades mantendrán el registro administrativo de todos sus contratos que sean celebrados al amparo de esta Ley.
 
-La afectación de participaciones en ingresos federales o estatales por parte de los municipios, requerirán previamente del dictamen favorable de la Secretaría a que se refiere la fracción III del artículo 9° de esta Ley, y con base a los lineamientos que contengan criterios y políticas prudenciales de finanzas públicas y de gasto a que se refiere el artículo 10 fracción V de esta Ley.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
+
+La afectación de participaciones en ingresos federales o estatales por parte de los municipios, requerirán previamente del dictamen favorable de la Secretaría de la Hacienda Pública, y con base a los lineamientos que contengan criterios y políticas prudenciales de finanzas públicas y de gasto a que se refiere el artículo 10 fracción V de esta Ley.
 
 Asimismo, el Poder Ejecutivo del Estado y los Ayuntamientos deberán registrar los contratos que formalicen bajo el esquema de asociación público-privada y sus modificaciones, en el registro de obligaciones financieras y de deuda pública que establezca la ley de la materia.
 
@@ -849,9 +1039,21 @@ Para el desarrollo de un proyecto, las entidades podrán conceder el uso, usufru
 
 Las Entidades podrán adquirir bienes, contratar trabajos y/o estudios previos así como servicios de asesoría que requieran para implementar los Proyectos de conformidad con los procedimientos de contratación previstos en esta Ley, cubriendo con cargo a sus respectivos presupuestos autorizados los gastos necesarios para tales efectos. El importe de estos gastos de proyección, planeación y estructuración preliminares se podrán incluir dentro de las contraprestaciones exigibles al proveedor, en cuyo caso su financiamiento deberá incluirse en las proyecciones financieras del proyecto.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MAYO DE 2022)</small>
+
+La dependencia o entidad podrá optar por celebrar contratos citados a través de invitación a cuando menos tres personas, o mediante adjudicación directa, en adición a los supuestos previstos en la citada Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MAYO DE 2022)</small>
+
+No será necesaria la autorización del Comité de Adquisiciones, Arrendamientos y Servicios del Sector Público de la dependencia o entidad contratante, siempre que el monto de los honorarios pactados no exceda del equivalente al cuatro por ciento del costo total estimado del proyecto, ni del equivalente a nueve millones quinientas mil Unidades de Inversión, lo que resulte menor.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE MAYO DE 2022)</small>
+
 Los servicios de asesoría vinculados a la estructuración de asociaciones público privadas se deberán adjudicar a despachos o asesores que acrediten experiencia en proyectos o esquemas de contratación pública similares a los regulados por esta Ley, preferentemente en proyectos ya concluidos y en operación.
 
-### CAPÍTULO XII. De los mecanismos para la solución de controversias
+### CAPÍTULO XI. De extinción del contrato
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 56.
 
@@ -917,9 +1119,7 @@ En los casos de proyectos en que se tenga por objeto la prestación de un servic
 
 En este supuesto, la entidad deberá elaborar un proyecto de finiquito dentro de los diez días hábiles siguientes a que surta efectos el rescate y, en su caso, pagará una indemnización al adjudicatario, de conformidad con las fórmulas y en los plazos que establezca el contrato respectivo. La indemnización no podrá ser superior al monto de la inversión asociada con el proyecto, el costo del financiamiento obtenido y los accesorios pactados en el contrato.
 
-### Capítulo XIII. De la Información
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+### CAPÍTULO XII. De los mecanismos para la solución de controversias
 
 ###### Artículo 60.
 
@@ -953,13 +1153,15 @@ Vencido dicho plazo, si no se hace dicha solicitud, quedará firme la última pr
 
 La comisión conciliadora actuará de acuerdo a las normas previstas en la Ley de Justicia Alternativa del Estado de Jalisco y demás disposiciones aplicables.
 
-### Capítulo XIV. De las infracciones y sanciones
+### Capítulo XIII. De la Información
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2022)</small>
 
 ###### Artículo 66.
 
-La entidad deberá publicar en el Periódico Oficial "El Estado de Jalisco", o en el medio oficial de divulgación municipal, según corresponda, la resolución del procedimiento de adjudicación y las características del contrato, en términos de lo establecido en el Artículo 8 de esta Ley, dentro de los treinta días posteriores a su expedición o suscripción, respectivamente.
+La entidad deberá publicar en el periódico oficial "El Estado de Jalisco", o en el medio oficial de divulgación municipal, según corresponda, la resolución del procedimiento de adjudicación y las características del contrato, dentro de los treinta días posteriores a su expedición o suscripción, respectivamente.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 No será objeto de publicación información de los inversionistas proveedores que por disposiciones legales deba mantenerse como reservada o confidencial o aquélla de contenido económico o financiero que pudiera afectar al Estado o Municipio en futuras negociaciones o proyectos, así como componentes técnicos o de diseño protegidos por derechos de propiedad intelectual.
 
@@ -981,9 +1183,9 @@ La Secretaría, en el caso de las entidades estatales y del Tesorero o encargado
 
 De conformidad con la normatividad interna, los órganos de control interno, en el ejercicio de sus facultades, podrán verificar en cualquier tiempo que la entidad ejecutora de oportuno seguimiento y supervise que la prestación de los servicios se realice conforme a los objetivos y metas que se hayan establecido cuando se solicitó la aprobación del proyecto, lo pactado en el contrato, en esta Ley o en otras disposiciones aplicables.
 
-### Capítulo XV. De la instancia de inconformidad
+### Capítulo XIV. De las infracciones y sanciones
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 70.
 
@@ -1014,6 +1216,10 @@ II. El carácter intencional o no de la acción u omisión constitutiva de la in
 III. La gravedad o circunstancia de la infracción, y
 
 IV. La situación económica del infractor.
+
+### Capítulo XV. De la instancia de inconformidad
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 73.
 
@@ -1118,3 +1324,15 @@ P.O. 29 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28427/LXII/21 QUE ADICIONA LOS ARTÍCULOS 39 Y 56 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO, 49 DE LA LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO, 10 DE LA LEY PARA LA PROMOCIÓN DE INVERSIÓNES EN EL ESTADO DE JALISCO, 46 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 20 DE LA LEY DE PROYECTOS DE INVERSIÓN Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 19 DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, 31 DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO, 152 DE LA LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO Y 55 DE LA LEY DE TURISMO PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 13 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28784/LXIII/22 QUE MODIFICA DIVERSOS ARTÍCULOS DE LA LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. El titular del Poder Ejecutivo del Estado deberá expedir y publicar las modificaciones correspondientes al Reglamento de la Ley de Proyectos de Inversión y de Prestación de Servicios del Estado de Jalisco, en un plazo que no deberá exceder de noventa días contados a partir de la fecha de su entrada en vigor.
+
+Tercero. La Secretaría de la Hacienda Púbica dentro de los ciento cincuenta días siguientes a la entrada en vigor del presente decreto deberá emitir y publicar los Lineamientos y Metodologías a que se refiere la Ley de Proyectos de Inversión y de Prestación de Servicios del Estado de Jalisco.
+
+Cuarto. Los contratos de asociación público privada celebrados con anterioridad a la entrada en vigor del presente decreto, se regularán por las disposiciones vigentes al momento de su iniciación
