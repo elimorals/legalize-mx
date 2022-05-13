@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2022-03-07"
+last_updated: "2022-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2022.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -87,13 +87,17 @@ XVI. Estimular las inversiones aprovechando racionalmente los recursos naturales
 
 XVII. Promover la atracción de inversión nacional y extranjera;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
 
-XVIII. Fortalecer los sectores económicos estratégicos que sean altamente competitivos, a través de esquemas de agrupamientos empresariales, clústeres y cadenas de valor relacionados con los sectores de la Secretaría de Desarrollo Económico, y
+XVIII. Fortalecer los sectores económicos estratégicos que sean altamente competitivos, a través de esquemas de agrupamientos empresariales, clústeres y cadenas de valor relacionados con los sectores de la Secretaría de Desarrollo Económico;
 
-> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
 
-XIX. Fomentar la inversión de equipos y componentes para impulsar el aprovechamiento de energías renovables y su transformación eficiente.
+XIX. Fomentar la inversión de equipos y componentes para impulsar el aprovechamiento de energías renovables y su transformación eficiente, y
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2022)</small>
+
+XX. Impulsar y promover, el comercio de bienes o servicios por medio del uso de los medios digitales, para fortalecer el comercio electrónico en el Estado.
 
 ###### ARTÍCULO 3°.
 
@@ -251,41 +255,43 @@ La provisión del servicio de internet gratuito, también se podrá realizar por
 
 El Consejo es el órgano permanente de consulta, análisis, asesoría, opinión y proposición de, prioridades en la política económica, y otorgamiento de estímulos e incentivos para el desarrollo económico en el Estado.
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO 15.
 
 El Consejo estará integrado de manera honorífica y permanente por las siguientes personas:
 
-I. El titular del Ejecutivo del Estado, quien fungirá como presidente;
+I. Quien ocupe la titularidad del Ejecutivo del Estado, y que fungirá en la Presidencia del Consejo;
 
-II. El Secretario de Desarrollo Económico, quien fungirá como secretario ejecutivo;
+II. Quien ocupe la titularidad de la Secretaría de Desarrollo Económico, y quien fungirá como secretario ejecutivo;
 
-III. El Secretario de Trabajo y Previsión Social;
+III. Quien ocupe la titularidad de la Secretaría del Trabajo y Previsión Social;
 
-IV. El Secretario de Turismo;
+IV. Quien ocupe la titularidad de la Secretaría de Turismo;
 
-V. El Presidente de la Comisión de Desarrollo Económico y Social, del Honorable Congreso del Estado;
+V. La persona que presida la Comisión de Desarrollo Económico y Social del Honorable Congreso del Estado;
 
-VI. El Presidente de la Cámara Nacional de la Industria de la Construcción, Delegación San Luis Potosí;
+VI. La persona que presida la Cámara Nacional de la Industria de la Construcción, Delegación San Luis Potosí;
 
-VII. El Presidente de la Cámara Nacional de la Industria de Transformación, Delegación San Luis Potosí;
+VII. La persona que presida la Cámara Nacional de la Industria de transformación, Delegación San Luis Potosí;
 
-VIII. El Presidente del Centro Empresarial de San Luis Potosí;
+VIII. La persona que presida el Centro Empresarial de San Luis Potosí;
 
-IX. El Presidente de la Cámara Nacional de Comercio, Servicios y Turismo, Delegación San Luis Potosí;
+IX. La persona que presida la Cámara Nacional de Comercio, Servicios y Turismo, Delegación San Luis Potosí;
 
-X. El Presidente de la Cámara Nacional de la Industria de Restaurantes y Alimentos Condimentados, Delegación San Luis Potosí;
+X. La persona que presida la Cámara Nacional de la Industria de Restaurantes y Alimentos Condimentados, Delegación San Luis Potosí;
 
-XI. El Presidente de la Cámara Mexicana de la Industria de la Construcción, Delegación San Luis Potosí;
+XI. La persona que presida la Confederación Patronal de la República Mexicana, Delegación San Luis Potosí;
 
-XII. El Presidente de la Confederación Patronal de la República Mexicana, Delegación San Luis Potosí;
+XII. La persona que presida Industriales Potosinos A.C.;
 
-XIII. El Presidente de Industriales Potosinos A.C.;
+XIII. La Presidenta de la Asociación Mexicana de Mujeres Empresarias en San Luis Potosí;
 
-XIV. El Presidente del principal organismo empresarial, de cada una de las zonas del Estado: altiplano; huasteca; centro y media; que serán designados por el Consejo, en términos del Reglamento de esta Ley, y
+XIV. La persona que presida el principal organismo empresarial de cada una de las zonas del Estado: altiplano; huasteca; centro; y media que serán designadas por el Consejo, en términos del Reglamento de esta Ley, y
 
-XV. Tres directivos de instituciones de educación superior en el Estado, que designará el Consejo.
+XV. Tres personas que ocupen la directiva de instituciones de educación superior en el Estado, que designará el Consejo.
 
-Los miembros del Consejo tendrán voz y voto.
+Quienes integran el Consejo tendrán voz y voto; y los acuerdos serán públicos y válidos.
 
 ###### ARTÍCULO 16.
 
@@ -301,7 +307,9 @@ II. Poner a consideración del Ejecutivo, políticas públicas y estrategias par
 
 III. Sugerir acciones de desarrollo que promuevan la inversión y creación de empleos bien remunerados;
 
-IV. Plantear acciones para impulsar la innovación, así como el desarrollo científico y tecnológico para la modernización y competitividad de las empresas;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+IV. Plantear acciones para impulsar la innovación, así como el desarrollo científico y tecnológico para la modernización y competitividad de las empresas y del comercio electrónico;
 
 V. Proponer al Ejecutivo un programa anual de incentivos y estímulos a la inversión y el empleo, en donde se contemplen las políticas públicas necesarias para elevar la competitividad, sobre todo en aquellos sectores definidos como estratégicos;
 
@@ -745,7 +753,9 @@ IV. Fomentar entre las MIPYMES los procedimientos, prácticas y normas que contr
 
 V. Estimular los procesos de desregulación, simplificación administrativa y descentralización;
 
-VI. Asesorar contínua y permanente sobre la tramitación de los procedimientos necesarios para su óptimo funcionamiento;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+
+VI. Asesorar continua y permanentemente sobre la tramitación de los procedimientos necesarios para su óptimo funcionamiento, y capacitar sobre la utilización de medios digitales para fortalecer el uso del comercio electrónico;
 
 VII. Impulsar la especialización de los procesos productivos y productos con ventajas competitivas;
 
@@ -1094,5 +1104,21 @@ P.O. 7 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0279.- SE REFORMAN LOS ARTÍCULOS 13, EN SU FRACCIÓN VII, 64 EN SU FRACCIÓN XVII Y 70 EN SUS FRACCIONES IV Y V; Y ADICIONA A LOS ARTÍCULOS 13 UNA FRACCIÓN, ÉSTA COMO VIII, 64 UNA FRACCIÓN ÉSTA COMO XVIII Y 70 LA FRACCIÓN VI, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0318.- SE REFORMA EL ARTÍCULO 15, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0319.- SE REFORMAN LOS ARTÍCULOS 2° EN SUS FRACCIONES XVIII Y XIX, 17 EN SU FRACCIÓN IV Y 64 FRACCIÓN VI; Y ADICIONA AL ARTÍCULO 2° LA FRACCIÓN XX, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
