@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-justicia-administrativa-para-el-estado-y-municipios-1063
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2020-12-30"
+last_updated: "2022-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 1997.
 
@@ -1163,15 +1163,17 @@ II.- Cuando siendo diferentes las partes el acto impugnado sea el mismo, ya sea 
 
 III.- Cuando se impugnen actos o resoluciones que sean antecedente o consecuencia de otros, independientemente de que las partes sean o no las mismas y los agravios sean o no diversos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2022)</small>
+
 ###### Artículo 64.
 
-Las partes podrán promover el incidente de acumulación hasta antes de la celebración de la audiencia del juicio. La acumulación podrá tramitarse de oficio.
+Las partes podrán promover el incidente de acumulación hasta antes de que se pronuncie la sentencia del juicio. La acumulación podrá tramitarse de oficio; sin que esta proceda respecto de juicios que se encuentren en diversa instancia.
 
 La acumulación se tramitará ante el Magistrado que esté conociendo el juicio primeramente promovido, aportándose las pruebas conducentes. Dicho magistrado resolverá lo que proceda en el plazo de tres días hábiles.
 
 Una vez decretada la acumulación, el Magistrado que conozca del juicio más reciente, deberá enviar los autos al que conoció del primer juicio, en un plazo que no excederá de tres días hábiles.
 
-No procede la acumulación cuando en alguno de los juicios ya se hubiere celebrado la audiencia o se encuentre en diversa instancia.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 13 DE MAYO DE 2022)</small>
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -2878,3 +2880,9 @@ P.O. 30 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 129. SE REFORMA EL PÁRRAFO PRIMERO Y SE DEROGA EL PÁRRAFO CUARTO DEL ARTÍCULO 64 DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
