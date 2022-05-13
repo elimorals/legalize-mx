@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2021-12-31"
+last_updated: "2022-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE MAYO DE 2022 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE MAYO DE 2022.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -2373,9 +2375,13 @@ En ambos casos se privará al infractor de sus derechos de familia.
 
 Comete el delito de violencia familiar, el cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o por afinidad hasta el cuarto grado, adoptante, adoptado o persona que mantenga o haya mantenido una relación de hecho o de pareja con la víctima, que ejerza cualquier acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera económica, física, patrimonial, psicológica o sexual, en contra de un miembro de la familia, dentro o fuera del domicilio familiar.
 
-> <small>(REFORMADO, D.O. 3 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, D.O. 13 DE MAYO DE 2022)</small>
 
-A quien cometa el delito de violencia familiar se le impondrá de dos a siete años de prisión y, en su caso, la pérdida del derecho de pensión alimenticia y la privación del régimen de convivencia, patria potestad, custodia o tutela según corresponda.
+A quien cometa el delito de violencia familiar se le impondrá de tres a ocho años de prisión.
+
+> <small>(ADICIONADO, D.O. 13 DE MAYO DE 2022)</small>
+
+Cuando la víctima se encuentre embarazada o hasta los 6 meses posteriores al parto; se aumentará la pena hasta en dos terceras partes de la pena máxima.
 
 > <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
 
@@ -4751,6 +4757,10 @@ XII.- Cuando el sujeto activo mediante engaños tenga comunicación con la víct
 
 XIII.- La situación de vulnerabilidad en la que se encontraba la víctima al momento de la comisión del delito por el imputado.
 
+> <small>(ADICIONADA, D.O. 13 DE MAYO DE 2022)</small>
+
+XIV.- Cuando la víctima se encuentre embarazada.
+
 > <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 A quien cometa el delito de feminicidio se le impondrán de treinta y dos a cuarenta y cinco años de prisión y de mil quinientos a dos mil quinientos días- multa.
@@ -4774,6 +4784,10 @@ Además de las sanciones descritas en este artículo, el sujeto activo perderá 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE AGOSTO DE 2021)</small>
 
 Quien intente dolosamente privar de la vida a una mujer por las razones de género establecidas en este artículo y no lo lograra por cualquier circunstancia, se le considerará como tentativa de feminicidio.
+
+> <small>(ADICIONADO, D.O. 13 DE MAYO DE 2022)</small>
+
+Igualmente se considerará como tentativa de feminicidio a quien teniendo la intención de privar de la vida a una mujer embarazada, provoque el nacimiento prematuro del producto, alteraciones a su salud, ya sea de forma temporal o permanente; o su muerte.
 
 > <small>(REFORMADO, D.O. 19 DE JUNIO DE 2017)</small>
 
@@ -5686,3 +5700,11 @@ Las obligaciones que se generen con motivo de la entrada en vigor de este decret
 Artículo séptimo. Procedimientos y asuntos en trámite
 
 Los procedimientos y los asuntos que en materia laboral se encontrasen en trámite en la Junta Local de Conciliación y Arbitraje del estado a la entrada en vigor de este decreto, se substanciarán y resolverán por este órgano hasta su total conclusión, conforme a las disposiciones anteriores que les resultasen aplicables, independientemente de la instalación y puesta en marcha del Centro de Conciliación Laboral del Estado de Yucatán y de los Tribunales Laborales del Poder Judicial del Estado.
+
+D.O. 13 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 498/2022 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE PROTECCIÓN A LA MUJER EMBARAZADA”.]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
