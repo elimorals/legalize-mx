@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-adquisiciones-del-estado-de-san-luis-potosi-12345"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2022-04-22"
+last_updated: "2022-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el miércoles 29 de enero de 1997.
 
@@ -220,6 +220,26 @@ Las instituciones deberán verificar que los bienes o servicios que en su contra
 ###### ARTICULO 11.
 
 Las instituciones, en el ámbito de sus atribuciones, determinarán las adquisiciones, arrendamientos o servicios de uso generalizado que en forma consolidada deban adquirirse o contratarse, con el objeto de obtener las mejores condiciones en cuanto a precio, calidad y oportunidad.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2022)</small>
+
+Tratándose de adquisiciones de madera, muebles y suministros de oficina fabricados con madera, deberán requerirse certificados otorgados por terceros previamente registrados ante la Secretaría de Medio Ambiente y Recursos Naturales, o ante la autoridad ambiental competente, que garanticen el origen y el manejo sustentable de los aprovechamientos forestales de donde proviene dicha madera.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2022)</small>
+
+En cuanto a los suministros de oficina fabricados con madera, se entenderá como aquéllos que se elaboren con dicho material y se incorporen al inventario de las dependencias y entidades, por ser necesarios para el desempeño de las funciones encomendadas a los servidores públicos.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2022)</small>
+
+Se considerará que un bien forma parte del inventario de la dependencia o entidad, cuando a éste se le asigne un número que permita identificarlo de manera individual y distinguirlo de los bienes de consumo.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2022)</small>
+
+En las adquisiciones de papel para uso de oficina, este deberá contener un mínimo de cincuenta por ciento de fibras de material reciclado o de fibras naturales no derivadas de la madera o de materias primas provenientes de aprovechamientos forestales manejados de manera sustentable en el territorio nacional, que se encuentren certificadas conforme a lo dispuesto en los párrafos que anteceden o de sus combinaciones y elaborados en procesos con blanqueado libre de cloro.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2022)</small>
+
+Debiendo las instituciones procurar que, en la adquisición de madera, muebles y suministros de oficina fabricados con madera, se cumpla con los principios de reducir, reciclar y reutilizar el manejo de los mismos, con la finalidad de cumplir con una economía circular más acertada.
 
 ###### ARTICULO 12.
 
@@ -918,5 +938,13 @@ P.O. 22 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0304.- SE REFORMA EL ARTÍCULO 1° EN SUS FRACCIONES III Y IV; Y ADICIONA AL MISMO ARTÍCULO 1° LA FRACCIÓN V, DE LA LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0317.- SE ADICIONA LOS PÁRRAFOS SEGUNDO A SEXTO DEL ARTÍCULO 11, DE LA LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
