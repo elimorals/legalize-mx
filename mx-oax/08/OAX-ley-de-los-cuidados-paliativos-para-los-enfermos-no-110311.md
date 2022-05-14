@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-cuidados-paliativos-para-los-enfermos-no-110311"
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-09"
-last_updated: "2015-10-09"
+last_updated: "2022-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS CUIDADOS PALIATIVOS PARA LOS ENFERMOS NO CURABLES O EN SITUACIÓN TERMINAL DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 9 de octubre de 2015.
 
@@ -165,7 +165,13 @@ El Estado o los particulares, previa autorización de la autoridad competente, p
 
 Los enfermos no curables o en situación terminal, tendrán los siguientes derechos:
 
-I. Recibir información clara, oportuna y suficiente sobre las condiciones y efectos de su enfermedad, tipos de tratamientos o procedimientos médicos por los cuales puede optar según la enfermedad que padezca, a fin de que el enfermo no curable o en situación terminal esté en condiciones de realizar o no su declaración de voluntad. En la medida en que el paciente lo permita, dicha información se hará del conocimiento de personas vinculadas a él, por razones familiares o de hecho;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE MAYO DE 2022)</small>
+
+I. Recibir información clara, oportuna y suficiente sobre las condiciones y efectos de su enfermedad, tipos de tratamientos o procedimientos médicos por los cuales puede optar según la enfermedad que padezca, a fin de que el enfermo no curable o en situación terminal esté en condiciones de realizar o no su declaración de voluntad. En la medida en que el paciente lo permita, dicha información se hará del conocimiento de personas vinculadas a él, por razones familiares o de hecho.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2022)</small>
+
+Recibir información clara, oportuna y veraz, sobre los nuevos medicamentos, tratamientos y estudios clínicos que pudieran restablecer en alguna medida su salud, pudiendo someterse nuevamente a un tratamiento curativo;
 
 II. Realizar su declaración de voluntad en los términos de la Ley de la materia;
 
@@ -376,3 +382,13 @@ LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
 Al C. . .
 
 NOTA: Las presentes firmas corresponden al Decreto N° 1327.- por el que la Sexagésima Segunda Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, primero rechaza el Veto Total al Decreto 1301, se toman en cuenta las observaciones hechas por el Titular del Ejecutivo del Estado y se modifica el Decreto 1301; y segundo insiste en las reformas a los artículos 292, 293, 294, 295 y 296; y adiciona el artículo 323 Bis, del Código Penal para el Estado Libre y Soberano de Oaxaca.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 614.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONA EL PÁRRAFO SEGUNDO A LA FRACCIÓN I DEL ARTÍCULO 11 DE LA LEY DE LOS CUIDADOS PALIATIVOS PARA LOS ENFERMOS NO CURABLES O EN SITUACIÓN TERMINAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
