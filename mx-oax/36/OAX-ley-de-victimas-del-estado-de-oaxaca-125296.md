@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-victimas-del-estado-de-oaxaca-125296"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-09"
-last_updated: "2021-08-28"
+last_updated: "2022-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "OAX"
 ---
 # LEY DE VICTIMAS DEL ESTADO DE OAXACA
 
-> <small>[N. DE E. EL PRESENTE DECRETO DE REFORMA ES UNA REIMPRESIÓN DEL PUBLICADO EN EL PERIÓDICO OFICIAL NO. 45 OCTAVA SECCIÓN DE FECHA 10 DE NOVIEMBRE DE 2018.]</small>
-
 LEY DE VÍCTIMAS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2022.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de diciembre de 2017.
 
@@ -1777,9 +1775,11 @@ V. Formular denuncias o querellas;
 
 VI. Representar a la víctima en todo procedimiento jurisdiccional o administrativo derivado de un hecho victimizante.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2022)</small>
+
 ###### Artículo 127.
 
-La Asesoría Jurídica Estatal se integrará por los abogados, peritos, profesionales y técnicos de las diversas disciplinas que se requieren para la defensa de los derechos previstos en esta Ley.
+La Asesoría Jurídica Estatal se integrará por los abogados, peritos, intérpretes o traductores lingüísticos, profesionales y técnicos de las diversas disciplinas que se requieren para la defensa de los derechos previstos en esta Ley.
 
 La Asesoría Jurídica Estatal para el cumplimiento de los objetos de la presente Ley contará con un servicio civil de carrera que comprende la selección, ingreso, adscripción, permanencia, formación, promoción, capacitación, prestaciones, estímulos y sanciones, en términos del Reglamento.
 
@@ -2111,9 +2111,11 @@ Para el cumplimiento de lo descrito se aplicarán los programas existentes en lo
 
 La Asesoría Jurídica Estatal de Atención a Víctimas es un órgano dependiente de la Comisión Ejecutiva Estatal, con autonomía técnica y operativa, y será el área especializada en asesoría jurídica para víctimas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2022)</small>
+
 ###### Artículo 169.
 
-La Asesoría Jurídica estará integrada por asesores jurídicos de atención a víctimas, peritos y profesionistas técnicos de diversas disciplinas que se requieran para la defensa de los derechos de las víctimas.
+La Asesoría Jurídica estará integrada por asesores jurídicos de atención a víctimas, peritos, intérpretes o traductores lingüísticos y profesionistas técnicos de diversas disciplinas que se requieran para la defensa de los derechos de las víctimas.
 
 Con independencia de lo anterior, cuando no se cuente con el personal profesional necesario, la Asesoría Jurídica Estatal podrá contar, de manera excepcional, con el servicio de particulares para ejercer las funciones de asesores jurídicos, en términos de lo dispuesto en el artículo 122 y 126 de esta Ley.
 
@@ -2133,11 +2135,15 @@ V. Celebrar convenios de coordinación con todos aquellos que pueden coadyuvar e
 
 VI. Las demás que se requiera para la defensa de los derechos de las víctimas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2022)</small>
+
 ###### Artículo 171.
 
-La víctima tendrá derecho a solicitar a la Comisión Ejecutiva Estatal, que le proporcione un Asesor Jurídico en caso de que no quiera o no pueda contratar a un abogado particular, el cual elegirá libremente desde el momento de su ingreso al Registro Estatal. En este caso, la Comisión Ejecutiva Estatal deberá nombrarle uno a través de la Asesoría Jurídica Estatal.
+La víctima tendrá derecho a solicitar a la Comisión Ejecutiva Estatal, que le proporcione un Asesor Jurídico en caso de que no quiera o no pueda contratar a un abogado particular, el cual elegirá libremente desde el momento de su ingreso al Registro Estatal. En este caso, la Comisión Ejecutiva Estatal deberá nombrarle uno a través de la Asesoría Jurídica Estatal, así como un intérprete o traductor lingüístico cuando la víctima no comprenda el idioma español o tenga discapacidad auditiva, verbal o visual.
 
-La víctima tendrá el derecho de que su abogado comparezca a todos los actos en los que ésta sea requerida.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2022)</small>
+
+La víctima tendrá el derecho de que su abogado comparezca a todos los actos en los que ésta sea requerida y de contar con un intérprete o traductor de su lengua, cuando así lo requiera.
 
 El servicio de la Asesoría Jurídica será gratuito y se prestará a todas las víctimas que quieran o pueden contratar a un abogado particular y en especial a:
 
@@ -2308,3 +2314,11 @@ P.O. 28 DE AGOSTO DE 2021.
 PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. - Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 14 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 613.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 127, EL PÁRRAFO PRIMERO DEL ARTÍCULO 169, Y LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 171 DE LA LEY DE VÍCTIMAS DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
