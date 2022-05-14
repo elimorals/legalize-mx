@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-bienestar-y-desarrollo-social-del-estado-de-94442"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-18"
-last_updated: "2021-12-04"
+last_updated: "2022-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 18 de mayo de 2013.
 
@@ -267,7 +267,9 @@ Para efectos de la presente Ley, los grupos o sectores que merecen especial aten
 
 I. Las comunidades, municipios, regiones, microrregiones o asociación de estos, que por sus características e índices de pobreza, marginación o de desarrollo social y humano, constituyan zonas de atención prioritaria; además las que teniendo los aspectos considerados, presenten conflictos sociales o agrarios;
 
-II. La población indígena, niñas y niños, adolescentes, mujeres en particular las madres solteras, adultos mayores, migrantes, personas con discapacidad, personas en condiciones de pobreza alimentaria y/o patrimonial o aquellos que se encuentren en situación de vulnerabilidad social; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2022)</small>
+
+II. La población indígena, niñas y niños, adolescentes, mujeres en particular las madres solteras, adultos mayores, migrantes, familias de personas migrantes oaxaqueñas, personas con discapacidad, personas en condiciones de pobreza alimentaria y/o patrimonial o aquellos que se encuentren en situación de vulnerabilidad social; y
 
 III. Los individuos o grupos que lo requieran según condiciones de desastre, dinámica geográfica y social del Estado.
 
@@ -1688,3 +1690,11 @@ P.O. 4 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan o contravengan al presente Decreto.
+
+P.O. 14 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 610.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 8 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
