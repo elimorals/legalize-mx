@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fomento-a-las-actividades-artesanales-del-estado-de-9443
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-27"
-last_updated: "2021-12-04"
+last_updated: "2022-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2022.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2013.
 
@@ -441,9 +441,17 @@ III. …
 
 IV. Reconocer oficialmente la trayectoria artesanal, y,
 
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2022)</small>
+
+V. Promover el establecimiento, apertura, operación y funcionamiento de mercados regionales de artesanías, en donde las personas artesanas puedan exponer, exhibir y vender sus artesanías;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2022)</small>
+
+VI. Celebrar convenios de colaboración con instancias estatales, municipales o privadas, para el establecimiento, apertura y funcionamiento de los mercados regionales de artesanías;
+
 > <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2018)</small>
 
-V. Las demás que a juicio del Instituto tengan los mismos efectos de la política artesanal en Oaxaca.
+VII. Las demás que a juicio del Instituto tengan los mismos efectos de la política artesanal en Oaxaca.
 
 Artículo 41 (sic).- El Instituto diseñará políticas públicas para cumplir con los estándares nacionales e internacionales en materia de acceso a la información y transparencia en cuanto al tema de la producción artesanal. Estas políticas públicas incluirán la transparencia y rendición de cuentas de la asignación, eficacia, eficiencia y manejo del Fondo Artesanal.
 
@@ -594,3 +602,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO.- Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+P.O. 14 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 609.- MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES V Y VI AL ARTÍCULO 39, RECORRIÉNDOSE LA SUBSECUENTE DE LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
