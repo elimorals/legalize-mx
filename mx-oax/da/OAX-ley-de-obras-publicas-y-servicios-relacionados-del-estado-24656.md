@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-obras-publicas-y-servicios-relacionados-del-estado-24656
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-11"
-last_updated: "2021-12-04"
+last_updated: "2022-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 11 de septiembre del 2001.
 
@@ -307,7 +307,9 @@ X.- La ejecución, que deberá incluir el costo estimado de la obra que se reali
 
 XI.- Los trabajos de conservación, mantenimiento preventivo y correctivo de los bienes inmuebles a ejecutar;
 
-XII.- Las instalaciones para que las personas discapacitadas puedan acceder y transitar por los inmuebles que sean construidos; las que según la naturaleza de la obra, podrán constituir en rampas, puertas, elevadores, pasamanos, asideras y otras instalaciones análogas a las anteriores que coadyuven al cumplimiento de tales fines;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2022)</small>
+
+XII.- Las instalaciones para que las personas con discapacidad puedan acceder y transitar por los inmuebles que sean construidos; las que, según la naturaleza de la obra, podrán constituir en rampas, puertas, elevadores, pasamanos, asideras, pavimento podotáctil y otras instalaciones análogas a las anteriores que coadyuven al cumplimiento de tales fines;
 
 XIII.- Los convenios de coordinación entre Dependencias, Entidades o Ayuntamientos que intervengan en su ejecución; y,
 
@@ -1676,3 +1678,11 @@ P.O. 4 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
+
+P.O. 14 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 615.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 20 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria del H. Congreso del Estado y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
