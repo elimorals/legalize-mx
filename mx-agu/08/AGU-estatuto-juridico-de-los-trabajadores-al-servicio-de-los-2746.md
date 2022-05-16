@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2021-04-05"
+last_updated: "2022-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2022.
 
 Estatuto publicado en el Suplemento de la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -721,13 +721,21 @@ Los trabajadores tendrán derecho a una prima no menor del 25% sobre los salario
 
 El salario es la retribución que debe pagarse al trabajador a cambio de los servicios prestados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2022)</small>
+
 ###### ARTICULO 48.
 
-El salario será uniforme para cada una de las categorías de trabajadores señaladas en los presupuestos de egresos respectivos.
+El salario será igual para cada una de las categorías de trabajadores señaladas en los presupuestos de egresos respectivos.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2022)</small>
+
+A trabajo igual, desempeñado en puesto, jornada y condiciones de eficiencia también iguales, debe corresponder salario igual entre trabajadoras y trabajadores, sin excepción alguna.
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 49.
 
-El salario uniforme fijado en los términos del artículo anterior, no podrá modificarse por condiciones de edad, sexo o nacionalidad.
+El salario fijado en los términos del artículo anterior, no podrá modificarse por condiciones de edad, sexo, género o nacionalidad.
 
 ###### ARTICULO 50.
 
@@ -2290,3 +2298,11 @@ P.O. 5 DE ABRIL DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 125.- SE REFORMAN LOS ARTÍCULOS 4° FRACCIONES VIII Y IX; LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO SEGUNDO PARA QUEDAR "ÁMBITO EDUCATIVO, CIENCIA Y TECNOLOGÍA"; 21; 24 FRACCIONES XI, XII Y XIII; Y SE ADICIONAN UNA FRACCIÓN X AL ARTÍCULO 4°; UN PÁRRAFO SEGUNDO AL ARTÍCULO 14; Y LAS FRACCIONES XIV Y XV AL ARTÍCULO 24 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES Y SE REFORMAN LOS ARTÍCULOS 48, PÁRRAFO PRIMERO Y 49; Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 48 DEL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
