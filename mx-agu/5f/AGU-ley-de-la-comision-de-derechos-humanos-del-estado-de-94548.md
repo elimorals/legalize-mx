@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-comision-de-derechos-humanos-del-estado-de-94548"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-10"
-last_updated: "2021-09-20"
+last_updated: "2022-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de junio de 2013.
 
@@ -227,7 +227,9 @@ V. La Visitaduría;
 
 VI. Dirección de Educación en Derechos Humanos;
 
-VII. Contraloría Interna; y
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2022)</small>
+
+VII. El Órgano Interno de Control; y
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
 
@@ -569,13 +571,13 @@ VIII. Fungir como Secretario Técnico del Consejo;
 
 IX. Establecer y operar el sistema de informática de la Comisión;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2022)</small>
 
-X. Proporcionar el apoyo, asistencia y atención que requiera a la Contraloría Interna, a efecto de que pueda cumplir con las atribuciones que le señalen las leyes, reglamentos y demás disposiciones aplicables;
+X. Proporcionar el apoyo, asistencia y atención que requiera el Órgano Interno de Control, a efecto de que pueda cumplir con las atribuciones que le señalen las leyes, reglamentos y demás disposiciones aplicables;
 
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2022)</small>
 
-XI. Coadyuvar con la Contraloría Interna para garantizar que todas las áreas de la Comisión le proporcionen el apoyo, asistencia y atención que requiera para el debido desempeño de sus atribuciones; y
+XI. Coadyuvar con el Órgano Interno de Control para garantizar que todas las áreas de la Comisión le proporcionen el apoyo, asistencia y atención que requiera para el debido desempeño de sus atribuciones; y
 
 > <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2015)</small>
 
@@ -653,19 +655,29 @@ La Presidencia proveerá los recursos humanos y materiales necesarios para el cu
 
 La Comisión podrá solicitar el acceso a los medios de comunicación para la divulgación de sus funciones y actividades.
 
-### CAPÍTULO VIII. De la Contraloría Interna
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE MAYO DE 2022)</small>
+
+### CAPÍTULO VIII. Del Órgano Interno de Control
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2022)</small>
 
 ###### ARTÍCULO 36.
 
-La Contraloría Interna será la instancia encargada de sustanciar y resolver los procedimientos establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado y demás actividades que señale la presente Ley.
+El Órgano Interno de Control es la instancia administrativa encargada de promover, evaluar y fortalecer el funcionamiento adecuado del control interno de la Comisión.
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2022)</small>
 
 ###### ARTÍCULO 37.
 
-El Contralor Interno será nombrado por la Comisión Legislativa de entre una terna que el Presidente elegirá previa convocatoria pública. Durará cuatro años y podrá ser ratificado una vez, en cuyo caso desempeñará el cargo por cuatro años más.
+El titular del Órgano Interno de Control de la Comisión desempeñará su encargo por un periodo de cuatro años, y podrá ser ratificado por una sola ocasión. En ese caso desempeñará el cargo por cuatro años más.
+
+El titular del Órgano Interno de Control será designado conforme a lo dispuesto por el artículo 27 fracción XXXVIII de la Constitución Política del Estado, y con arreglo al procedimiento previsto por las secciones Primera y Segunda del Capítulo V, del Título V de la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2022)</small>
 
 ###### ARTÍCULO 38.
 
-Para ser Contralor Interno se requiere:
+Para ser titular del Órgano Interno de Control se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
@@ -675,11 +687,11 @@ III. Tener título profesional de Licenciado en Derecho, Contabilidad o Administ
 
 IV. No haber sido condenado por delito doloso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2022)</small>
 
 ###### ARTÍCULO 39.
 
-La Contraloría Interna se sujetará a los principios de certeza, legalidad, objetividad, honestidad, exhaustividad y transparencia; asimismo tendrá las siguientes atribuciones y obligaciones:
+El Órgano Interno de Control se sujetará a los principios de certeza, legalidad, objetividad, honestidad, exhaustividad y transparencia; asimismo tendrá las siguientes atribuciones y obligaciones:
 
 I. Llevar el registro de las leyes, acuerdos, reglamentos, manuales, instructivos y demás normas a las que deba sujetarse la Comisión, así como controlar, fiscalizar e inspeccionar su cumplimiento;
 
@@ -699,7 +711,9 @@ VIII. Presentar las denuncias que correspondan ante el Ministerio Público;
 
 IX. Intervenir en la entrega y recepción de las distintas áreas de la Comisión; y
 
-X. Las demás funciones que le atribuyan la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, otras disposiciones legales y reglamentarias, así como aquellas que le confiera el Presidente.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2022)</small>
+
+X. Las demás funciones que le atribuyan la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y cualquier otra disposición legal y reglamentaria aplicable.
 
 ## TÍTULO TERCERO. PROCEDIMIENTOS
 
@@ -1234,3 +1248,19 @@ P.O. 20 DE SEPTIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 123.- SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 11 Y LAS FRACCIONES X Y XI DEL ARTÍCULO 31; SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO VIII "DEL ÓRGANO INTERNO DE CONTROL", Y SE REFORMAN LOS ARTÍCULOS 36, 37, 38 PRIMER PÁRRAFO; 39 PRIMER PÁRRAFO Y FRACCIÓN X, DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Comisión de Derechos Humanos del Estado de Aguascalientes contará con un plazo de quince días naturales contados a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a su normatividad reglamentaria e interna a fin de adecuarla con las modificaciones legales aprobadas.
