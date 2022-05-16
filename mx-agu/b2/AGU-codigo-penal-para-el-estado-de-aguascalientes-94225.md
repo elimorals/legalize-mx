@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2022-04-18"
+last_updated: "2022-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1917,9 +1917,17 @@ Aumento de sanción. La punibilidad establecida en el Artículo anterior se aume
 
 I. Si el daño se causa en bienes con valor científico, artístico o destinados al servicio público;
 
-II. Si se utiliza para la destrucción o deterioro de los bienes inundación, incendio o explosión; o
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2022)</small>
 
-III. Si el daño se causa en forma total o parcial respecto de programas, archivos, bases de datos o cualquier otro elemento intangible contenido en sistemas o redes de computadoras, soportes lógicos o cualquier medio magnético.
+II. Si se utiliza para la destrucción o deterioro de los bienes inundación, incendio o explosión;
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2022)</small>
+
+III. Si el daño se causa en forma total o parcial respecto de programas, archivos, bases de datos o cualquier otro elemento intangible contenido en sistemas o redes de computadoras, soportes lógicos o cualquier medio magnético; o
+
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2022)</small>
+
+IV. Si el daño se produce a la infraestructura o equipamiento urbano, así como al mobiliario que se encuentre dentro de estos.
 
 ### CAPÍTULO VI. Tipos Penales Protectores de la Estética Urbana
 
@@ -3570,3 +3578,11 @@ P.O. 18 DE ABRIL DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 – El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 124.- SE REFORMAN LAS FRACCIONES II Y III Y SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 152 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
