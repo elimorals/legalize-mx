@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2022-05-11"
+last_updated: "2022-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE MAYO DE 2022.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 24 DE DICIEMBRE DE 2018.
 
@@ -1002,6 +1002,38 @@ Los usuarios tienen derecho a decidir libremente sobre la aplicación de los pro
 
 Los usuarios de los servicios públicos de salud en general, contarán con facilidades para acceder a una segunda opinión.
 
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2022)</small>
+
+El consentimiento informado, que constituye el núcleo del derecho a la salud, tanto desde la perspectiva de la libertad individual como de las salvaguardas para el disfrute del mayor estándar de salud.
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2022)</small>
+
+El consentimiento informado es la conformidad expresa de una persona, manifestada por escrito, para la realización de un diagnóstico o tratamiento de salud.
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2022)</small>
+
+Todos los prestadores de servicios de salud, públicos o privados, están obligados a comunicar a la persona, de manera accesible, oportuna y en lenguaje comprensible, la información veraz y completa, incluyendo los objetivos, los posibles beneficios y riesgos esperados, y las alternativas de tratamiento, para asegurar que los servicios se proporcionen sobre la base del consentimiento libre e informado.
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2022)</small>
+
+Una vez garantizada la comprensión de la información a través de los medios y apoyos necesarios, la población usuaria de los servicios de salud tiene el derecho de aceptarlos o rechazarlos.
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2022)</small>
+
+En situaciones en las que una persona no pueda dar su consentimiento para un tratamiento en un momento específico por ningún medio, no exista un documento de voluntad anticipada, y su salud se encuentre en tal estado que, si el tratamiento no se administra de inmediato, su vida estaría expuesta a un riesgo inminente o su integridad física a un daño irreversible, el prestador de servicios de salud procederá de inmediato para preservar la vida y salud del usuario, dejando constancia en el expediente clínico, otorgando informe justificado a los Comités de Ética y a la autoridad judicial competente.
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2022)</small>
+
+En el caso de las niñas, niños y adolescentes constituye una obligación por parte de los prestadores de servicios de atención a la salud implementar los apoyos y ajustes razonables, adecuados a su edad para que su voluntad y preferencias sean tomadas en cuenta en la determinación del tipo de intervenciones encaminadas a garantizar su recuperación y bienestar.
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2022)</small>
+
+Se entenderá como ajustes razonables a las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales.
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2022)</small>
+
+No se entenderá que la persona no puede dar su consentimiento cuando se estime que está en un error o que no tiene conciencia de lo que hace.
+
 > <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 51 Bis 3.
@@ -1086,7 +1118,7 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 ### CAPITULO VII. Salud Mental
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 61.
 
@@ -1414,141 +1446,207 @@ II. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2019)
 
 ###### ARTICULO 72.
 
-La prevención y atención de los trastornos mentales y del comportamiento es de carácter prioritario. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control multidisciplinario de dichos trastornos, así como otros aspectos relacionados con el diagnóstico, conservación y mejoramiento de la salud mental.
+La salud mental y la prevención de las adicciones tendrán carácter prioritario dentro de las políticas de salud y deberán brindarse conforme a lo establecido en la Constitución y en los tratados internacionales en materia de derechos humanos. El Estado garantizará el acceso universal, igualitario y equitativo a la atención de la salud mental y de las adicciones a las personas en el territorio nacional.
 
-Para los efectos de esta Ley, se entiende por salud mental el estado de bienestar que una persona experimenta como resultado de su buen funcionamiento en los aspectos cognoscitivos, afectivos y conductuales, y, en última instancia el despliegue óptimo de sus potencialidades individuales para la convivencia, el trabajo y la recreación.
+Toda persona tiene derecho a gozar del más alto nivel posible de salud mental, sin discriminación por motivos de origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad, la expresión de género, la filiación política, el estado civil, el idioma, los antecedentes penales o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-La atención de los trastornos mentales y del comportamiento deberá brindarse con un enfoque comunitario, de reinserción psicosocial y con estricto respeto a los derechos humanos de los usuarios de estos servicios.
+Para los efectos de esta Ley, se entiende por salud mental un estado de bienestar físico, mental, emocional y social determinado por la interacción del individuo con la sociedad y vinculado al ejercicio pleno de los derechos humanos; y por adicción a la enfermedad física y psico-emocional que crea una dependencia o necesidad hacia una sustancia, actividad o relación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2022)</small>
+
+###### ARTICULO 72 Bis.
+
+El propósito último de los servicios de salud mental es la recuperación y el bienestar, el despliegue óptimo de sus potencialidades individuales para la convivencia, el trabajo y la recreación.
+
+La recuperación varía de persona a persona, de acuerdo con las preferencias individuales, significa el empoderamiento de la persona para poder tener una vida autónoma, superando o manejando el trauma.
+
+La atención a la salud mental deberá brindarse con un enfoque comunitario, de recuperación y con estricto respeto a los derechos humanos de los usuarios de estos servicios, en apego a los principios de interculturalidad, interdisciplinariedad, integralidad, intersectorialidad, perspectiva de género y participación social.
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2022)</small>
+
+###### ARTICULO 72 Ter.
+
+La atención de la salud mental y las adicciones del comportamiento comprende todas las acciones a las que se refiere el artículo 33 de esta Ley.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, D.O.F. 16 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 73.
 
-Para la promoción de la salud mental y la atención de las personas con trastornos mentales y del comportamiento, la Secretaría de Salud, las instituciones de salud y los gobiernos de las entidades federativas, en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
+Los servicios y programas en materia de salud mental y adicciones deberán privilegiar la atención comunitaria, integral, interdisciplinaria, intercultural, intersectorial, con perspectiva de género y participativa de las personas desde el primer nivel de atención y los hospitales generales.
 
-> <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES PRIMER PÁRRAFO], D.O.F. 16 DE MAYO DE 2022)</small>
 
-I. El desarrollo de actividades educativas, socioculturales y recreativas con carácter permanente que contribuyan a la salud mental, preferentemente a grupos en situación de vulnerabilidad.
+La Secretaría de Salud, las instituciones de salud y los gobiernos de las entidades federativas, en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
 
-> <small>(REFORMADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2022)</small>
 
-II. La difusión de las orientaciones para la promoción de la salud mental, así como el conocimiento y prevención de los trastornos mentales y del comportamiento;
+I. El desarrollo de actividades educativas, socioculturales y recreativas con carácter permanente que contribuyan a la salud mental y a la prevención de adicciones, preferentemente a grupos en situación de vulnerabilidad;
 
-> <small>(REFORMADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2022)</small>
 
-III. La realización de programas para la prevención y control del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencia;
+II. La difusión de las orientaciones para la promoción de la salud mental, así como el conocimiento y prevención de los trastornos mentales y por consumo de sustancias psicoactivas, y de adicciones;
 
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2022)</small>
 
-IV. Las acciones y campañas de promoción de los derechos de las personas con trastornos mentales y del comportamiento, así como de sensibilización para reducir el estigma y la discriminación, a fin de favorecer el acceso oportuno de la atención;
+III. La realización de programas para la prevención y control del uso de sustancias psicoactivas y de adicciones;
 
-> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2022)</small>
 
-V. La implementación estratégica y gradual de servicios de salud mental en establecimientos de la red del Sistema Nacional de Salud en todos sus niveles de atención, que permita abatir la brecha de atención;
+IV. Las acciones y campañas de promoción de los derechos de la población, sobre salud mental y adicciones, así como de sensibilización para reducir el estigma y la discriminación, a fin de favorecer el acceso oportuno de la atención;
 
-> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2022)</small>
 
-V Bis. La promoción de programas de atención, que consideren, entre otros, los hospitales de día, servicios de consulta externa, centros de día, casas de medio camino y talleres protegidos;
+V. La implementación estratégica de servicios de atención de salud mental y adicciones en establecimientos de la red integral de servicios de salud del Sistema Nacional de Salud, que permita abatir la brecha de atención;
+
+V Bis. (DEROGADA, D.O.F. 16 DE MAYO DE 2022)
 
 > <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2013)</small>
 
 VI. La investigación multidisciplinaria en materia de salud mental;
 
-> <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2022)</small>
 
-VII. La participación de observadores externos para vigilar el pleno respeto de los derechos humanos de las personas con trastornos mentales y del comportamiento, que son atendidas en los establecimientos de la red del Sistema Nacional de Salud;
+VII. La participación de observadores externos en derechos humanos y la implementación de un mecanismo de supervisión y el desarrollo de programas que promuevan, protejan y garanticen los derechos humanos en cualquier establecimiento de salud;
 
-> <small>(ADICIONADA, D.O.F. 4 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2022)</small>
 
-VIII. La detección de los grupos poblacionales en riesgo de sufrir trastornos mentales y del comportamiento, preferentemente niñas, niños y adolescentes, y
+VIII. La detección de los grupos poblacionales en riesgo de presentar trastornos mentales y por consumo de sustancias psicoactivas, y de adicciones, preferentemente niñas, niños y adolescentes y miembros de grupos vulnerables;
 
-IX. Las demás acciones que directa o indirectamente contribuyan a la prevención, atención y fomento de la salud mental de la población.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 16 DE MAYO DE 2022)</small>
 
-> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+IX. El desarrollo de equipos de respuesta inmediata para situaciones de crisis, capacitados en técnicas para atenuar el escalamiento de crisis;
+
+> <small>(ADICIONADA, D.O.F. 16 DE MAYO DE 2022)</small>
+
+X. La capacitación y educación en salud mental al personal de salud en el Sistema Nacional de Salud;
+
+> <small>(ADICIONADA, D.O.F. 16 DE MAYO DE 2022)</small>
+
+XI. El desarrollo de acciones y programas para detectar, atender y prevenir el suicidio, y
+
+(REUBICADA, D.O.F. 16 DE MAYO DE 2022)
+
+XII. Las demás acciones que directa o indirectamente contribuyan a la prevención, atención, recuperación y fomento de la salud mental de la población.
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2022)</small>
+
+###### ARTICULO 73 Bis.
+
+Las instituciones públicas del Sistema Nacional de Salud deberán brindar acceso a los servicios de atención de salud mental y por consumo de sustancias psicoactivas, y de adicciones en cumplimiento con los principios siguientes:
+
+I. Cercanía al lugar de residencia de la población usuaria de los servicios de salud mental y las personas con consumo de sustancias psicoactivas, y de adicciones;
+
+II. Respeto a la dignidad y a los derechos humanos de las personas, con un enfoque de género, equidad, interseccionalidad e interculturalidad, poniendo énfasis en la prevención, detección temprana y promoción de la salud mental, incluyendo acciones enfocadas a la prevención de trastornos por el consumo de sustancias psicoactivas y de adicciones;
+
+III. Promover y desarrollar medidas para la toma de conciencia sobre la salud mental, la erradicación de estigmas y estereotipos, para la concientización de la sociedad y el personal de salud, a fin de disminuir todo tipo de discriminación hacia la población usuaria de los servicios de salud mental y las personas con consumo de sustancias psicoactivas, y de adicciones;
+
+IV. Reducción del daño de los diversos factores de riesgo que vive la población usuaria de los servicios de salud mental y las personas con consumo de sustancias psicoactivas, y de adicciones;
+
+V. Atención prioritaria a la población en situación de vulnerabilidad como las niñas, niños, adolescentes, mujeres, personas adultas mayores, personas con discapacidad, indígenas, afromexicanas, personas en situación de calle y pobreza, migrantes, víctimas de violencia y personas discriminadas por su orientación sexual o su identidad de género;
+
+VI. Atención primaria a la salud como el eje principal sobre el que se estructure la atención comunitaria de la salud mental y de adicciones, en el marco del modelo de atención de la salud;
+
+VII. Acceso y atención integral continua e interdisciplinaria que requiera la población usuaria de los servicios de salud mental y las personas con consumo de sustancias psicoactivas, y de adicciones, y
+
+VIII. Participación de los familiares y de las organizaciones de usuarios de ayuda mutua para la atención.
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2022)</small>
+
+###### ARTICULO 73 Ter.
+
+Para combatir los estereotipos u otras ideas o imágenes ampliamente difundidas, sobresimplificadas y con frecuencia equivocadas sobre la población que requiere de los servicios de salud mental y adicciones, las autoridades de salud mental y proveedores de servicios llevarán a cabo:
+
+I. Programas de capacitación para profesionales de la salud mental, profesorado y autoridades educativas;
+
+II. Difusión de campañas de comunicación social en lenguaje claro, formatos accesibles y con pertinencia lingüística en los diferentes medios de comunicación, tanto convencionales, como otras tecnologías de la información, dirigidas hacia la población en general para enfatizar una imagen respetuosa de la dignidad y los derechos humanos de la población que requiere de los servicios de salud mental y adicciones, con protección a la confidencialidad y el derecho a no identificarse como persona con discapacidad psicosocial;
+
+III. Programas educativos en salud mental con enfoque de derechos humanos y perspectiva de género para familias, escuelas y centros de trabajo, y
+
+IV. Programas en los medios de comunicación masiva en lenguaje claro, formatos accesibles y con pertinencia lingüística.
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 74.
 
-La atención de los trastornos mentales y del comportamiento comprende:
+Para garantizar el acceso y continuidad de la atención de la salud mental y adicciones, se deberá de disponer de establecimientos ambulatorios de atención primaria y servicios de psiquiatría en hospitales generales, hospitales regionales de alta especialidad e institutos nacionales de salud.
 
-I. La atención de personas con trastornos mentales y del comportamiento, la evaluación diagnóstica integral y tratamientos integrales, y la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas;
+Asimismo, para eliminar el modelo psiquiátrico asilar, no se deberán construir más hospitales monoespecializados en psiquiatría; y los actuales hospitales psiquiátricos deberán, progresivamente, convertirse en centros ambulatorios o en hospitales generales dentro de la red integrada de servicios de salud.
 
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
-
-II. La organización, operación y supervisión de establecimientos dedicados al estudio, tratamiento y rehabilitación de personas con trastornos mentales y del comportamiento, y
-
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
-
-III. La reintegración de la persona con trastornos mentales y del comportamiento a su familia y comunidad, mediante la creación de programas sociales y asistenciales como residencias y talleres protegidos, en coordinación con otros sectores, para la debida atención de estos pacientes.
-
-> <small>(ADICIONADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 74 Bis.
 
-La persona con trastornos mentales y del comportamiento tendrá los siguientes derechos:
+La Secretaría de Salud, de acuerdo con el enfoque de derechos humanos, deberá hacer explícitas las intervenciones prioritarias de salud mental y adicciones que permita garantizar el acceso a las acciones de prevención y atención en la materia.
 
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2022)</small>
 
-I. Derecho a la mejor atención disponible en materia de salud mental y acorde con sus antecedentes culturales, lo que incluye el trato sin discriminación y con respeto a la dignidad de la persona, en establecimientos de la red del Sistema Nacional de Salud;
+###### ARTICULO 74 Ter.
 
-II. Derecho a contar con un representante que cuide en todo momento sus intereses. Para esto, la autoridad judicial deberá cuidar que no exista conflicto de intereses por parte del representante;
+La población usuaria de los servicios de salud mental tendrán los derechos siguientes:
 
-III. Derecho al consentimiento informado de la persona o su representante, en relación al tratamiento a recibir. Esto sólo se exceptuará en el caso de internamiento involuntario, cuando se trate de un caso urgente o cuando se compruebe que el tratamiento es el más indicado para atender las necesidades del paciente;
+I. Derecho a la mejor atención disponible en materia de salud mental con perspectiva intercultural, pertinencia lingüística y perspectiva de género, lo que incluye el trato sin discriminación y con respeto a la dignidad de la persona, en establecimientos de la red del Sistema Nacional de Salud;
 
-IV. Derecho a que le sean impuestas únicamente las restricciones necesarias para garantizar su protección y la de terceros. En todo caso, se deberá procurar que el internamiento sea lo menos restrictivo posible y a que el tratamiento a recibir sea lo menos alterador posible;
+II. Derecho a contar con mecanismos de apoyo en la toma de decisiones y a directrices de voluntad anticipada sobre el consentimiento informado;
 
-V. Derecho a que el tratamiento que reciba esté basado en un plan prescrito individualmente con historial clínico, revisado periódicamente y modificado llegado el caso;
+III. Derecho al consentimiento informado de la persona con relación al tratamiento a recibir;
+
+IV. Derecho a no ser sometido a medidas de aislamiento, contención coercitiva o cualquier práctica que constituya tratos crueles, inhumanos o degradantes y, en su caso, ser sujeto a medios para atenuar el escalamiento de crisis;
+
+V. Derecho a un diagnóstico integral e interdisciplinario y a un tratamiento basado en un plan prescrito individualmente con historial clínico, revisado periódicamente y modificado de acuerdo con la evolución del paciente, que garantice el respeto a su dignidad de persona humana y sus derechos humanos;
 
 VI. Derecho a no ser sometido a tratamientos irreversibles o que modifiquen la integridad de la persona;
 
-VII. Derecho a ser tratado y atendido en su comunidad o lo más cerca posible al lugar en donde habiten sus familiares o amigos, y
+VII. Derecho a ser tratado y atendido en su comunidad o lo más cerca posible al lugar en donde habiten sus familiares o amigos;
 
-VIII. Derecho a la confidencialidad de la información psiquiátrica sobre su persona.
+VIII. Derecho a la confidencialidad de la información sobre su salud;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2013)</small>
+IX. Derecho a tener acceso y disponibilidad a servicios de salud mental y adicciones, y
+
+X. Los derechos establecidos en la legislación nacional y los tratados y convenciones internacionales, vinculantes, de los que México forma parte.
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 75.
 
-El internamiento de personas con trastornos mentales y del comportamiento, como último recurso terapéutico, se ajustará a principios éticos, sociales, de respeto a los derechos humanos y a los requisitos que determine la Secretaría de Salud y demás disposiciones jurídicas aplicables.
+El internamiento de la población usuaria de los servicios de salud mental y las personas con consumo de sustancias psicoactivas, y de adicciones, como último recurso terapéutico, se ajustará a principios éticos, sociales, de respeto a los derechos humanos, la dignidad de la persona, así como los requisitos que determine la Secretaría de Salud y demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+El internamiento sólo podrá llevarse a cabo de manera voluntaria y cuando aporte mayores beneficios terapéuticos para la persona que el resto de las intervenciones posibles; se realizará por el tiempo estrictamente necesario y en el Hospital General o de pediatría más cercano al domicilio del usuario.
 
-Será involuntario el internamiento, cuando por encontrarse la persona impedida para solicitarlo por sí misma, por incapacidad transitoria o permanente, sea solicitado por un familiar, tutor, representante legal o, a falta de los anteriores, otra persona interesada, que en caso de urgencia solicite el servicio y siempre que exista la intervención de un médico calificado, que determine la existencia de un trastorno mental y del comportamiento y que debido a dicho trastorno existe un peligro grave o inmediato para sí mismo o para terceros.
+Por ningún motivo el internamiento puede ser indicado o prolongado, si tiene el fin de resolver problemas familiares, sociales, laborales o de vivienda y de cuidado del paciente.
 
-> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+En el caso de niñas, niños o adolescentes se privilegiarán alternativas comunitarias; en caso de que exista la justificación clínica para el internamiento, este se llevará a cabo en hospitales generales o en hospitales de pediatría, asimismo se recabará la opinión de niñas, niños o adolescentes y se dejará registro en la historia clínica. En caso de no estar de acuerdo con el internamiento la institución, junto con la madre, el padre o tutor, deberán valorar otras alternativas de atención.
 
-La decisión de internar a una persona deberá ser notificada a su representante, así como a la autoridad judicial.
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2022)</small>
 
-> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+###### ARTICULO 75 Bis.
 
-El internamiento involuntario será revisado por la autoridad judicial a petición de la persona internada o de su representante. La resolución de la autoridad judicial deberá estar fundada en dictamen pericial y, en caso de que se resuelva la terminación del internamiento, deberá establecer un plazo para que se ejecute la misma. En todo caso, durante dicho procedimiento deberá garantizarse la defensa de los intereses de la persona internada.
+Todo tratamiento e internamiento de la población usuaria de los servicios de salud mental y las personas con consumo de sustancias psicoactivas, y de adicciones, deberá prescribirse previo consentimiento informado.
 
-> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+Los prestadores de servicios de salud mental, públicos o privados, están obligados a comunicar a la persona, de manera accesible, oportuna y en lenguaje comprensible, la información veraz y completa, incluyendo los objetivos, los beneficios, los posibles riesgos, y las alternativas de un determinado tratamiento, para asegurar que los servicios se proporcionen sobre la base del consentimiento libre e informado. Una vez garantizada la comprensión de la información a través de los medios y apoyos necesarios, la población usuaria de los servicios de salud mental tiene el derecho de aceptarlos o rechazarlos.
 
-Las autoridades sanitarias deberán coordinarse con los organismos públicos de protección a los derechos humanos para que los establecimientos dedicados a la atención y tratamiento de las personas con trastornos mentales y del comportamiento sean supervisados continuamente, a fin de garantizar el respeto a los derechos de las personas internadas.
+La persona con trastornos mentales y por consumo de sustancias psicoactivas, y de adicciones, es quien ostenta el derecho a consentir o denegar el permiso para cualquier tratamiento o internamiento, por lo que deberá presumirse que todos los pacientes tienen capacidad de discernir y deberán agotarse los esfuerzos para permitir que una persona acepte voluntariamente el tratamiento o el internamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2022)</small>
+
+###### ARTICULO 75 Ter.
+
+En previsión de requerir en el futuro servicios de atención médica, las personas tienen derecho a elaborar su voluntad anticipada en la que podrán determinar el tipo de acciones que desean sean tomadas para su tratamiento, o su negativa a recibir un tratamiento. En dicha manifestación de voluntad anticipada se establecerá, en su caso, la forma, alcance, duración y directrices de dicho apoyo, así como el momento o circunstancias en que su designación de apoyos a futuro surtirá eficacia. La persona podrá revocar en cualquier tiempo el contenido de la voluntad anticipada previamente adoptada.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 76.
 
-La Secretaría de Salud establecerá las normas oficiales mexicanas para los establecimientos que prestan atención a las personas con trastornos mentales y del comportamiento, de la red del Sistema Nacional de Salud.
+La Secretaría de Salud establecerá las normas oficiales mexicanas para los establecimientos que prestan atención a la población usuaria de los servicios de salud mental y con consumo de sustancias psicoactivas, y de adicciones, de la red del Sistema Nacional de Salud de conformidad con los principios establecidos en esta ley.
 
 > <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
 A estos efectos, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 77.
 
-Los padres, tutores, quienes ejercen la patria potestad o quienes ostenten la representación legal de personas con trastornos mentales y del comportamiento, serán responsables de la guardia o custodia. Las autoridades educativas y cualquier persona que esté en contacto con las personas con trastornos mentales y del comportamiento, procurarán la oportuna y debida atención de los mismos.
-
-> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2015)</small>
-
-A estos efectos, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de las personas con trastornos mentales y del comportamiento, con énfasis en niñas, niños, adolescentes y personas adultas mayores.
-
-> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
-
-En caso de que el diagnóstico confirme la existencia de un trastorno mental y del comportamiento, y que se requiera el internamiento del menor, deberá respetarse lo dispuesto por el artículo 75 de esta Ley y dicho internamiento deberá efectuarse en un establecimiento o área específicamente destinada a la atención de menores. De igual manera, se deberán tomar las medidas necesarias a fin de proteger los derechos que consigna la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+Los establecimientos del Sistema Nacional de Salud elaborarán programas para la atención de los familiares y el círculo social cercano de las personas que experimentan dificultades psicoemocionales o condiciones de salud mental, sin que puedan traducirse en la afectación de la voluntad y preferencias de estas últimas. Los programas podrán versar sobre canalizaciones a servicios, psicoterapias breves, promoción de apoyos grupales, entre otros.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
 
@@ -3534,16 +3632,6 @@ Todos los documentos a que se refiere este título se regirán de acuerdo a lo q
 
 ### CAPITULO I. Consejo Nacional Contra las Adicciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2015)</small>
-
-ARTICULO 184 BIS.- Se crea el Consejo Nacional Contra las Adicciones, que tendrá por objeto promover y apoyar las acciones de los sectores público, social y privado tendientes a la prevención y combate de los problemas de salud pública causados por las Adicciones que regula la presente Ley, así como proponer y evaluar los programas a que se refieren los artículos 185 y 191 de esta Ley, así como el Programa contra el Tabaquismo previsto en la Ley General para Control del Tabaco. Dicho Consejo estará integrado por el Secretario de Salud, quien lo presidirá, por los titulares de las dependencias y entidades de la Administración Pública Federal cuyas atribuciones tengan relación con el objeto del Consejo y por representantes de organizaciones sociales y privadas relacionadas con la salud. El Secretario de Salud podrá invitar, cuando lo estime conveniente, a los titulares de los gobiernos de las entidades federativas a asistir a las sesiones del Consejo.
-
-> <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 1987)</small>
-
-La organización y funcionamiento del Consejo se regirán por las disposiciones que expida el Ejecutivo Federal.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE ABRIL DE 2015)</small>
-
 ###### ARTICULO 166 Bis 13.
 
 Las Instituciones del Sistema Nacional de Salud:
@@ -3836,7 +3924,7 @@ V.- Las demás que determine la propia Secretaría.
 
 ## TITULO DECIMO PRIMERO. Programas Contra las Adicciones
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 16 DE MAYO DE 2022)</small>
 
 ### CAPITULO IV. Programa Contra la Farmacodependencia
 
@@ -3844,9 +3932,9 @@ V.- Las demás que determine la propia Secretaría.
 
 ###### ARTICULO 184 Bis.
 
-Se crea el Consejo Nacional Contra las Adicciones, que tendrá por objeto promover y apoyar las acciones de los sectores público, social y privado tendientes a la prevención y combate de los problemas de salud pública causados por las adicciones que regula el presente Título, así como proponer y evaluar los programas a que se refieren los artículos 185, 188 y 191 de esta Ley. Dicho Consejo estará integrado por el Secretario de Salud, quien lo presidirá, por los titulares de las dependencias y entidades de la Administración Pública Federal cuyas atribuciones tengan relación con el objeto del Consejo y por representantes de organizaciones sociales y privadas relacionadas con la salud. El Secretario de Salud podrá invitar, cuando lo estime conveniente, a los titulares de los gobiernos de las entidades federativas a asistir a las sesiones del Consejo.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2022)
 
-La organización y funcionamiento del Consejo se regirán por las disposiciones que expida el Ejecutivo Federal.
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE ABRIL DE 2015)</small>
 
 ### CAPITULO I. Disposiciones Comunes
 
@@ -9545,3 +9633,15 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
 
 Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+
+D.O.F. 16 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD, EN MATERIA DE SALUD MENTAL Y ADICCIONES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Para la ejecución y cumplimiento de las disposiciones contenidas en el presente Decreto, se realizarán de forma gradual y progresiva en los tres niveles de atención, considerando los recursos disponibles.
+
+Tercero. El Ejecutivo Federal tendrá un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto para emitir las disposiciones reglamentarias que permitan proveer en la esfera administrativa lo previsto en el presente Decreto y actualizar las ya existentes con el fin de su armonización incluidas las normas oficiales mexicanas en la materia.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado de los ejecutores de gasto correspondientes, y en caso de que se realice alguna modificación a la estructura orgánica de los mismos, ésta deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Decreto.
