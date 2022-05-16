@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1422
 country: "mx"
 rank: "ley"
 publication_date: "2020-03-16"
-last_updated: "2022-03-21"
+last_updated: "2022-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de marzo de 2020.
 
@@ -145,9 +145,17 @@ VI.- Sostenibilidad Social: la permanente búsqueda por lograr la cohesión entr
 
 VII.- Paridad: la permanente búsqueda por lograr una relación de igualdad entre mujeres y hombres;
 
-VIII.- Transversalidad: principio que busca garantizar la igualdad en las políticas públicas y las prácticas de carácter legislativo, ejecutivo, administrativo y reglamentario, tendientes a la homogeneización de principios, conceptos y acciones en el logro del Principio de Igualdad de Trato y Oportunidades; y
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2022)</small>
 
-IX.- Los demás establecidos en la Constitución Política de los Estados Unidos Mexicanos, los instrumentos internacionales ratificados por el Estado Mexicano, la legislación federal, y la Constitución Política del Estado de Aguascalientes; relativos a la materia.
+VIII.- Transversalidad: principio que busca garantizar la igualdad en las políticas y las prácticas de carácter legislativo, ejecutivo, administrativo y reglamento, tendientes a la homogeneización de principios, conceptos y acciones en el logro del Principio de Igualdad de Trato y Oportunidades;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MAYO DE 2022)</small>
+
+IX.- Igualdad Salarial: A trabajo igual, desempeñado en puesto, jornada y condiciones de eficiencia también iguales, debe corresponder salario igual entre trabajadoras y trabajadores, sin excepción alguna; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE MAYO DE 2022)</small>
+
+X.- Los demás establecidos en la Constitución Política de los Estados Unidos Mexicanos, los instrumentos internacionales ratificados por el Estado Mexicano, la legislación federal, y la Constitución Política del Estado de Aguascalientes; relativos a la materia.
 
 ###### Artículo 5°.
 
@@ -249,11 +257,17 @@ IV.- Crear las Unidades de Género conforme a lo dispuesto en la presente Ley, p
 
 V.- Observar la integración del principio de igualdad de trato y de oportunidades en el conjunto de las políticas económicas, laborales y sociales, con el fin de evitar la segregación laboral. Así como, eliminar las diferencias remuneratorias por medio del impulso de políticas y prácticas equitativas de salarios entre ambos sexos por un trabajo de igual valor, de acuerdo con lo establecido en el artículo 23 de la presente Ley.
 
-### CAPÍTULO II. ÁMBITO EDUCATIVO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE MAYO DE 2022)</small>
+
+### CAPÍTULO II. ÁMBITO EDUCATIVO, CIENCIA Y TECNOLOGÍA
 
 ###### Artículo 14.
 
 El Estado, conforme a la Ley de Educación para el Estado de Aguascalientes, garantizará un igual derecho a la educación de mujeres y hombres a través de la integración activa, en los objetivos y en las actuaciones educativas, de la Igualdad de Trato y Oportunidades entre mujeres y hombres, evitando que se produzcan desigualdades.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2022)</small>
+
+El Estado de acuerdo con la Ley de Ciencia, Tecnológica, Innovación y Sociedad del Conocimiento para el Estado de Aguascalientes, garantizará el diseño e instrumentación de acciones y estrategias para eliminar las brechas de desigualdad en el acceso, el uso y las habilidades en materia de ciencia, tecnología e innovación entre mujeres y hombres.
 
 ###### Artículo 15.
 
@@ -321,9 +335,11 @@ El Estado, conforme a la Ley de Cultura Física y Deporte del Estado de Aguascal
 
 ### CAPÍTULO VI. ÁMBITO RURAL
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2022)</small>
+
 ###### Artículo 21.
 
-El Estado, conforme a la Ley para el Desarrollo Pecuario del Estado de Aguascalientes, promoverá actividades rurales que favorezcan la efectiva la (sic) igualdad de oportunidades entre mujeres y hombres.
+El Estado, conforme a la Ley para el Desarrollo Pecuario del Estado de Aguascalientes, promoverá actividades rurales que favorezcan la efectiva igualdad de oportunidades entre mujeres y hombre, así como el uso, goce y disfrute de la tierra, su participación en el desarrollo rural y en sus beneficios.
 
 ### CAPÍTULO VII. ÁMBITO ECONÓMICO
 
@@ -359,11 +375,25 @@ IX.- Diseñar, en el ámbito de su competencia, políticas y programas de desarr
 
 X.- Proponer, en el ámbito de su competencia, el otorgamiento de estímulos a las empresas que hayan garantizado la igualdad entre mujeres y hombres;
 
-XI.- Garantizar el derecho a la denuncia por violación a la presente Ley en el ámbito laboral y económico; y
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2022)</small>
 
-XII.- Difundir, previo consentimiento de las personas físicas o morales, los planes que apliquen éstas en materia de igualdad entre mujeres y hombres; y
+XI.- Garantizar el derecho a la denuncia por violación a la presente Ley en el ámbito laboral y económico;
 
-XIII.- Promover condiciones de trabajo que eviten el acoso y hostigamiento sexual y su prevención y atención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2022)</small>
+
+XII. Difundir, previo consentimiento de las personas físicas o morales, los planes que apliquen éstas en materia de igualdad entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2022)</small>
+
+XIII.- Promover condiciones de trabajo que eviten el acoso y hostigamiento sexual y su prevención y atención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación; y
+
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2022)</small>
+
+XIV.- Promover la igualdad de oportunidades entre mujeres y hombres en el uso y aprovechamiento de los derechos reales de propiedad; y
+
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2022)</small>
+
+XV.- Promover acciones que eliminen las asimetrías de género, raza, etnia, preferencia sexual y cualquier otro tipo de discriminación en el acceso y permanencia al mercado laboral, en la toma de decisiones y en la distribución de las remuneraciones.
 
 ###### Artículo 25.
 
@@ -784,3 +814,11 @@ P.O. 21 DE MARZO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 125.-SE REFORMAN LOS ARTÍCULOS 4° FRACCIONES VIII Y IX; LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO SEGUNDO PARA QUEDAR “AMBITO EDUCATIVO, CIENCIA Y TECNOLOGÍA”; 21; 24 FRACCIONES XI, XII Y XIII; Y SE ADICIONAN UNA FRACCIÓN X AL ARTÍULO 4°; UN PÁRRAFO SEGUNDO AL ARTÍCULO 14; Y LAS FRACCIONES XIV Y XV AL ARTÍCULO 24 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES Y SE REFORMAN LOS ARTÍCULOS 48, PÁRRAFO PRIMERO Y 49; Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 48 DEL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
