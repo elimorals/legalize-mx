@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2022-03-25"
+last_updated: "2022-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE MAYO DE 2022.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1261,9 +1261,13 @@ XXIII. Rendir un informe anual sobre el cumplimiento de su Programa Municipal pa
 
 XXIV. Presidir el Comité Municipal de Dictámenes de Giro a que se refiere la Ley de Competitividad y Ordenamiento Comercial del Estado de México, y
 
+> <small>(ADICIONADA, G.G. 16 DE MAYO DE 2022)</small>
+
+XXV. Firmar las Actas de Cabildo, y
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 5 DE ENERO DE 2021)</small>
 
-XXV. Las demás que le confieran esta Ley y otros ordenamientos.
+XXVI. Las demás que le confieran esta Ley y otros ordenamientos.
 
 ###### Artículo 49.
 
@@ -1383,9 +1387,13 @@ XV. Revisar las relaciones de rezagos para que sean liquidados;
 
 XVI. Revisar el informe mensual que le remita el Tesorero, y en su caso formular las observaciones correspondientes.
 
+> <small>(ADICIONADA, G.G. 16 DE MAYO DE 2022)</small>
+
+XVII. Firmar las Actas de Cabildo, y
+
 > <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2012)</small>
 
-XVII. Las demás que les señalen las disposiciones aplicables.
+XVIII. Las demás que les señalen las disposiciones aplicables.
 
 En el caso de que sean dos los síndicos que se elijan, uno estará encargado de los ingresos de la hacienda municipal y el otro de los egresos. El primero tendrá las facultades y obligaciones consignadas en las fracciones I, IV, V, y XVI y el segundo, las contenidas en las fracciones II, III, VI, VII, VIII, IX, X y XII entendiéndose que se ejercerán indistintamente las demás.
 
@@ -1419,7 +1427,11 @@ V. Proponer al ayuntamiento, alternativas de solución para la debida atención 
 
 VI. Promover la participación ciudadana en apoyo a los programas que formule y apruebe el ayuntamiento;
 
-VII. Las demás que les otorgue esta Ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, G.G. 16 DE MAYO DE 2022)</small>
+
+VII. Firmar las Actas de Cabildo, y
+
+VIII. Las demás que les otorgue esta Ley y otras disposiciones aplicables.
 
 ### CAPITULO CUARTO. De las Autoridades Auxiliares
 
@@ -5600,3 +5612,11 @@ QUINTO. Los Ayuntamientos deberán rendir un informe a la Legislatura, por condu
 SEXTO. Los Ayuntamientos deberán asignar los recursos presupuestales necesarios para dar cumplimiento a lo dispuesto en el presente Decreto.
 
 SÉPTIMO. La Legislatura deberá prever los recursos presupuestales para dar cumplimiento a lo dispuesto en el presente Decreto.
+
+G.G. 16 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 55.- POR EL QUE SE ADICIONA UNA FRACCIÓN XXV Y LA ACTUAL XXV, PASA A SER LA FRACCIÓN XXVI DEL ARTÍCULO 48, UNA FRACCIÓN XVII Y LA ACTUAL XVII PASA A SER LA FRACCIÓN XVIII DEL ARTÍCULO 53, UNA FRACCIÓN VII Y LA ACTUAL VII PASA A SER LA FRACCIÓN VIII DEL ARTÍCULO 55, TODAS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
