@@ -4,7 +4,7 @@ identifier: "LFPED"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2003-06-11"
-last_updated: "2022-05-13"
+last_updated: "2022-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31735&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPED"
 
 LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MAYO DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de junio de 2003.
 
@@ -56,7 +56,9 @@ I. Ajustes razonables: Las modificaciones y adaptaciones necesarias y adecuadas 
 
 II. Consejo: El Consejo Nacional para Prevenir la Discriminación;
 
-III. Discriminación: Para los efectos de esta ley se entenderá por discriminación toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 17 DE MAYO DE 2022)</small>
+
+III. Discriminación: Para los efectos de esta ley se entenderá por discriminación toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud física o mental, jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo;
 
 También se entenderá como discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia;
 
@@ -212,17 +214,17 @@ XXVIII. Realizar o promover violencia física, sexual, o psicológica, patrimoni
 
 XXIX. Estigmatizar o negar derechos a personas con adicciones; que han estado o se encuentren en centros de reclusión, o en instituciones de atención a personas con discapacidad mental o psicosocial;
 
-> <small>(ADICIONADA, D.O.F. 20 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 2022)</small>
 
-XXX. Negar la prestación de servicios financieros a personas con discapacidad y personas adultas mayores;
+XXX. Negar la prestación de servicios financieros a personas con discapacidad y personas adultas mayores o por motivo de la condición de salud física o mental;
 
-> <small>(ADICIONADA, D.O.F. 20 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 2022)</small>
 
-XXXI. Difundir sin consentimiento de la persona agraviada información sobre su condición de salud;
+XXXI. Difundir sin consentimiento de la persona agraviada información sobre su condición y antecedentes de salud física o mental, o sobre cualquier otro dato personal sensible;
 
-> <small>(ADICIONADA, D.O.F. 20 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 2022)</small>
 
-XXXII. Estigmatizar y negar derechos a personas con VIH/SIDA;
+XXXII. Estigmatizar y negar derechos a personas con VIH/SIDA, o cualquier condición o antecedentes de salud física o mental;
 
 > <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
 
@@ -1563,5 +1565,11 @@ Cuarto. Todas las obligaciones que se generen con la entrada en vigor del presen
 D.O.F. 13 DE MAYO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE DEROGA LA FRACCIÓN I DEL ARTÍCULO 26 DE LA LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 1 Y 9 DE LA LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
