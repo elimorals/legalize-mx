@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2021-07-31"
+last_updated: "2022-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -4326,7 +4326,9 @@ Para efecto de lo anterior, dichas autoridades establecerán y difundirán las f
 
 El traslado físico de los expedientes de todas las dependencias tanto federales como locales deberá concluir en un plazo no mayor a un año posterior al inicio de las funciones registrales de dicho Centro Federal; dicho Centro establecerá los mecanismos de coordinación conducentes con las autoridades referidas y emitirá los lineamientos necesarios para garantizar que la transferencia de expedientes y registros se realice bajo condiciones que brinden seguridad, certeza, exactitud, transparencia, publicidad y confiabilidad al procedimiento de entrega-recepción.
 
-Quinto. Plazo de inicio de funciones de la Autoridad Conciliadora Local y Tribunales Locales. Los Centros de Conciliación locales y los Tribunales del Poder Judicial de las Entidades Federativas iniciarán actividades dentro del plazo máximo de tres años a partir de la entrada en vigor del presente decreto, en términos de lo que establezca su propia normatividad y posibilidades presupuestales, conforme a lo que determinen sus poderes locales. Los Centro (sic) de Conciliación locales deberán entrar en operación en cada entidad federativa, en la misma fecha en que lo hagan los Tribunales Locales, conforme a las disposiciones previstas en el presente Decreto.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2022)</small>
+
+Quinto. Plazo de inicio de funciones de la Autoridad Conciliadora Local y Tribunales Locales. Los Centros de Conciliación locales y los Tribunales del Poder Judicial de las Entidades Federativas iniciarán actividades a más tardar el 3 de octubre de 2022, en términos de lo que establezca su propia normatividad y posibilidades presupuestales, conforme a lo que determinen sus poderes locales. Los Centros de Conciliación locales deberán entrar en operación en cada entidad federativa, en la misma fecha en que lo hagan los Tribunales Locales, conforme a las disposiciones previstas en el presente Decreto.
 
 Sexto. Plazo para el inicio de funciones de la Autoridad Conciliadora Federal y Tribunales Federales. Dentro del plazo máximo de cuatro años a partir de la entrada en vigor de este Decreto, cada delegación u oficina regional del Centro Federal de Conciliación y Registro Laboral iniciará la tramitación de solicitudes de conciliación que sean de su competencia al mismo tiempo que los Tribunales del Poder Judicial de la Federación inicien su operación en el circuito judicial al que correspondan. Cada circuito judicial iniciará sus funciones en el orden y secuencia en que se determine en las declaratorias que emita el Senado de la República, a propuesta del Consejo de la Judicatura Federal, conforme a las disposiciones previstas en el presente Decreto.
 
@@ -4605,5 +4607,11 @@ Décimo. Las dependencias y entidades de la Administración Pública Federal inv
 D.O.F. 31 DE JULIO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS TRANSITORIOS PRIMERO, TERCERO, CUARTO, QUINTO, SEXTO Y SÉPTIMO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES; DEL CÓDIGO FISCAL DE LA FEDERACIÓN; DE LA LEY DEL IMPUESTO SOBRE LA RENTA; DE LA LEY DEL IMPUESTO AL VALOR AGREGADO; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY REGLAMENTARIA DE LA FRACCIÓN XIII BIS DEL APARTADO B, DEL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE SUBCONTRATACIÓN LABORAL, PUBLICADO EL 23 DE ABRIL DE 2021”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE LA DEFENSORÍA PÚBLICA, DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES Y DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE JUSTICIA LABORAL, LIBERTAD SINDICAL Y NEGOCIACIÓN COLECTIVA", PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 1 DE MAYO DE 2019”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
