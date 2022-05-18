@@ -4,7 +4,7 @@ identifier: "COL-ley-que-regula-el-uso-de-cubrebocas-y-demas-medidas-para-143872
 country: "mx"
 rank: "ley"
 publication_date: "2020-08-22"
-last_updated: "2020-08-22"
+last_updated: "2022-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE REGULA EL USO DE CUBREBOCAS Y DEMÁS MEDIDAS PARA PREVENIR LA TRANSMISIÓN DE LA ENFERMEDAD PROVOCADA POR EL VIRUS SARSCOV- 2 (COVID-19) EN EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 22 de agosto de 2020.
 
@@ -57,13 +57,19 @@ DECRETO NO. 305
 
 Objeto de esta ley
 
-1. La presente ley es de orden público y de observancia general en el territorio del Estado de Colima, y tiene como objeto establecer como medida de prevención y cuidado a la salud pública, el uso obligatorio de cubrebocas en las personas, así como otras medidas para prevenir la transmisión y riesgos de contagio del virus SARS-CoV-2 (en adelante COVID-19), durante el tiempo que permanezca la emergencia sanitaria ocasionada por dicha pandemia y hasta que la autoridad sanitaria estatal declare oficialmente su conclusión.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2022)</small>
+
+1. La presente ley es de orden público y de observancia general en el territorio del Estado de Colima, y tiene como objeto establecer como medida de prevención y cuidado a la salud pública, el uso obligatorio de cubrebocas en las personas en los términos del artículo 2 de la misma, así como otras medidas para prevenir la transmisión y riesgos de contagio del virus SARS-CoV-2 (en adelante COVID-19), durante el tiempo que permanezca la emergencia sanitaria ocasionada por dicha pandemia y hasta que la autoridad sanitaria estatal declare oficialmente su conclusión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2022)</small>
 
 ###### Artículo 2.
 
-Obligatoriedad del uso de cubrebocas
+Obligatoriedad de las medidas sanitarias
 
-1. El uso de cubrebocas es obligatorio para todas las personas que se encuentren en el territorio del Estado de Colima, en vías y espacios públicos o de uso común, en el interior de establecimientos ya sea de comercio, industria o servicios, centros de trabajo de cualquier ramo, centros comerciales, considerados como esenciales o no esenciales; así como para usuarios, operadores y conductores de los servicios de transporte de pasajeros y transporte de carga en las modalidades señaladas en la ley de la materia.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2022)</small>
+
+1. Para los efectos de la presente Ley, corresponderá al Comité Estatal de Seguridad en Salud Pública del Estado determinar sobre la obligatoriedad tanto del uso de cubrebocas como de las demás medidas sanitarias que correspondan para todas las personas que se encuentren en el territorio del Estado de Colima, de conformidad con los acuerdos que esta emita en virtud de la evolución de contagios del virus COVID-19.
 
 2. La obligatoriedad de usar cubrebocas no sustituye las medidas adicionales dictadas por la autoridad sanitaria, como es el resguardo domiciliario y solo salir por razones esenciales o de emergencia. También continúa la medida de sana distancia de dos metros de otras personas, así como las recomendaciones de que, al toser o estornudar, cubrirse con el ángulo interior del brazo, el evitar tocarse la nariz, la boca, los ojos y cara en general y de lavarse las manos con agua y jabón frecuentemente, así como usar gel antibacterial y demás medidas sanitarias que haya emitido o emita la autoridad sanitaria correspondiente.
 
@@ -91,7 +97,9 @@ III. Cubrebocas médicos: a los cubrebocas que se encuentran certificados de con
 
 Uso correcto de cubrebocas
 
-1. Es obligatorio el uso de cubrebocas para:
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2022)</small>
+
+1. De conformidad con el artículo 2, el uso de cubrebocas será obligatorio para:
 
 I. La población en general que se encuentre en entornos y situaciones públicas, donde no se puedan aplicar medidas de contención como el distanciamiento físico, deberán utilizar, en todo momento, por lo menos, cubrebocas higiénicos;
 
@@ -149,9 +157,13 @@ XII. Lavarse las manos después de quitarse el cubrebocas.
 
 Medidas a tomar en oficinas públicas, privadas y cualquier centro de trabajo
 
-1. Los servidores públicos de las dependencias y entidades de la Administración Pública Estatal y municipal, de los poderes Ejecutivo, Legislativo y Judicial; así como de cualquier otra oficina pública, privada y cualquier centro de trabajo, deberán portar, por lo menos, cubrebocas higiénicos, cuando se encuentren en funciones; además, se deberán observar y cumplir todas las medidas y prácticas sanitarias emitidas por las autoridades sanitarias.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2022)</small>
 
-2. Es obligatorio para todas las personas que ingresen a oficinas públicas, privadas o cualquier centro de trabajo a realizar un trámite, solicitar un servicio, o cualquier otra actividad, el uso, por lo menos, de cubrebocas higiénicos. En caso de que alguna persona pretenda ingresar sin cubrebocas, se le informará e instruirá que, por disposición oficial, no podrá acceder ni recibir atención hasta que lo porte; y dependiendo de la disponibilidad y capacidad financiera de la oficina correspondiente, se le podrá otorgar cubrebocas de manera gratuita, ponderando en todo momento a las personas con mayor índice de vulnerabilidad.
+1. Los servidores públicos de las dependencias y entidades de la Administración Pública Estatal y municipal, de los poderes Ejecutivo, Legislativo y Judicial; así como de cualquier otra oficina pública, privada y cualquier centro de trabajo, con base en lo que determine el Comité Estatal de Seguridad en Salud Pública del Estado portarán, por lo menos, cubrebocas higiénicos, cuando se encuentren en funciones; además, se deberán observar y cumplir todas las medidas y prácticas sanitarias emitidas por las autoridades sanitarias.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2022)</small>
+
+2. Será obligatorio, de conformidad con el artículo 2, para todas las personas que ingresen a oficinas públicas, privadas o cualquier centro de trabajo a realizar un trámite, solicitar un servicio, o cualquier otra actividad, el uso, por lo menos, de cubrebocas higiénicos. En caso de que alguna persona pretenda ingresar sin cubrebocas, se le informará e instruirá que, por disposición oficial, no podrá acceder ni recibir atención hasta que lo porte; y dependiendo de la disponibilidad y capacidad financiera de la oficina correspondiente, se le podrá otorgar cubrebocas de manera gratuita, ponderando en todo momento a las personas con mayor índice de vulnerabilidad.
 
 ###### Artículo 8.
 
@@ -160,6 +172,10 @@ Medidas a tomar en el transporte público de pasajeros
 1. Los conductores de las unidades del servicio de transporte público de pasajeros deberán usar de manera obligatoria, por lo menos, cubrebocas higiénicos durante su jornada laboral; no prestar el servicio a usuarios que no porten por lo menos cubrebocas higiénicos; además, deberán contar en cada unidad con alcohol en gel con una concentración mínima del 70% y asegurarse que cada usuario que ingrese lo utilice; y sanitizar la unidad al término de cada ruta.
 
 2. Los concesionarios o permisionarios del servicio de transporte público de pasajeros deberán asegurarse y vigilar el cumplimiento de la medida señalada anteriormente, de cuyo incumplimiento puede hacerse acreedor de las sanciones señaladas en el Capítulo III de esta ley.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2022)</small>
+
+3. El uso obligatorio del cubrebocas a que se refiere este artículo se sujetará a lo dispuesto en el artículo 2.
 
 ###### Artículo 9.
 
@@ -174,6 +190,10 @@ Medidas a tomar en los establecimientos comerciales, industrial, empresarial, de
 4. En los establecimientos citados en el punto 1 deben de fijarse en todos los accesos anuncios gráficos o por escrito que indiquen la obligación de portar cubrebocas y, para poder acceder y recibir atención, también preferentemente emplear tapetes sanitizantes, además de ubicar dentro del establecimiento mensajes alusivos al lavado de manos, uso de alcohol en gel, estornudo de etiqueta y la conservación de distancia, y cumplir con las demás medidas sanitarías que emita la autoridad correspondiente.
 
 5. El cumplimiento de lo previsto en este artículo, así como las demás medidas que al efecto se encuentren vigentes o emita la autoridad federal en la materia será un requisito para que se autorice la expedición o refrendo de licencias de funcionamiento de establecimientos comerciales, industriales y de servicios por parte de la autoridad municipal que corresponda, la cual podrá coordinarse con la autoridad sanitaria competente para llevar a cabo las visitas e inspección para verificar su estricto cumplimiento.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2022)</small>
+
+6. El uso obligatorio del cubrebocas a que se refiere este artículo se sujetará a lo dispuesto en el artículo 2.
 
 ###### Artículo 10.
 
@@ -330,3 +350,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 RUBÉN PÉREZ ANGUIANO
 
 Firma.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 99.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, PÁRRAFO PRIMERO; 2, PÁRRAFO PRIMERO; 5, PÁRRAFO PRIMERO; Y 7 PÁRRAFOS PRIMERO Y SEGUNDO; Y SE ADICIONAN EL PÁRRAFO 3 DEL ARTÍCULO 8; Y EL PÁRRAFO 6 AL ARTÍCULO 9, DE LA LEY QUE REGULA EL USO DE CUBREBOCAS Y DEMÁS MEDIDAS PARA PREVENIR LA TRANSMISIÓN DE LA ENFERMEDAD PROVOCADA POR EL VIRUS SARS-COV-2 (COVID-19) EN EL ESTADO DE COLIMA".]
+
+ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "El Estado de Colima".
