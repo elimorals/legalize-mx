@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-a-los-animales-para-el-estado-de-san-luis-148
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-23"
-last_updated: "2021-08-05"
+last_updated: "2022-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 23 de marzo de 2021.
 
@@ -87,51 +87,57 @@ V. Permitir la socialización con seres humanos u otros animales de compañía, 
 
 Para efectos de la presente Ley, se entenderá por:
 
-I. Acoger o adoptar: acto mediante el cual una institución pública o privada legalmente establecida, transfiere la propiedad o posesión, así como la responsabilidad de cuidado y protección de un animal de compañía, a las asociaciones protectoras de animales, las cuales adquieren las obligaciones a las que la presente Ley se refiere;
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2022)</small>
 
-II. Animal: todas aquellas especies y subespecies clasificadas dentro de este reino, destinadas para compañía y aprovechamiento por el hombre;
+I. Abandono de animales: renuncia de la propiedad que se tenga sobre un animal, o pérdida voluntaria de la posesión que sobre el mismo se tenga; o conducta voluntaria que consiste en incumplir de forma total o parcial los deberes de asistencia y cuidado que una persona ha decidido realizar en beneficio de un animal doméstico o cualquier otro que no sea silvestre, ya sea por compra o adopción, que traiga como resultado la exposición al peligro o que se coloquen en condiciones que pueda peligrar su vida o integridad;
 
-III. Animal de compañía: Todo animal conservado y adaptado por el ser humano para su acompañamiento y que vive bajo sus cuidados, sin riesgo para su vida y la de la comunidad; sin que ello, implique beneficios económicos o alimenticios para su cuidador u otros, aunque sí un beneficio personal, ya que dado el comportamiento y adaptabilidad de los animales de compañía en su interacción con los humanos, brindan beneficios directos a su salud física, mental y sensorial, siendo esto una consecuencia positiva para el propio ser humano;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2022)</small>
 
-IV. Animal en adopción: Todo aquel que ha sido entregado mediante dicho procedimiento;
+II. Acoger o adoptar: acto mediante el cual una institución pública o privada legalmente establecida, transfiere la propiedad o posesión, así como la responsabilidad de cuidado y protección de un animal de compañía, a las asociaciones protectoras de animales, las cuales adquieren las obligaciones a las que la presente Ley se refiere
 
-V. Animal Feral: El animal doméstico que al quedar fuera del control del ser humano se establece en hábitat de la vida silvestre, sin que forzosamente deba sacrificarse y pudiendo ser nuevamente domesticado al igual que sus descendientes;
+III. Animal: todas aquellas especies y subespecies clasificadas dentro de este reino, destinadas para compañía y aprovechamiento por el hombre;
 
-VI. Animal Silvestre: Especie no doméstica, que vive en un hábitat silvestre y se allega por si sola sus cuidados y alimentos;
+IV. Animal de compañía: Todo animal conservado y adaptado por el ser humano para su acompañamiento y que vive bajo sus cuidados, sin riesgo para su vida y la de la comunidad; sin que ello, implique beneficios económicos o alimenticios para su cuidador u otros, aunque sí un beneficio personal, ya que dado el comportamiento y adaptabilidad de los animales de compañía en su interacción con los humanos, brindan beneficios directos a su salud física, mental y sensorial, siendo esto una consecuencia positiva para el propio ser humano;
 
-VII. Bienestar animal: estado en el que el animal tiene satisfechas sus necesidades biológicas, de salud, de comportamiento y fisiológicas, frente a cambios en su ambiente generalmente impuestos por el ser humano;
+V. Animal en adopción: Todo aquel que ha sido entregado mediante dicho procedimiento;
 
-VIII. Campañas: acciones públicas realizadas de manera periódica y sistemática por la autoridad en el ámbito de sus respectivas competencias, o por quien ella designe, para el control, prevención o erradicación de enfermedades transmisibles o no al ser humano por lo (sic) animales, así como acciones para difundir los de este y controlar su aumento poblacional;
+VI. Animal Feral: El animal doméstico que al quedar fuera del control del ser humano se establece en hábitat de la vida silvestre, sin que forzosamente deba sacrificarse y pudiendo ser nuevamente domesticado al igual que sus descendientes;
 
-IX. CERAZ. Es el Centro de Esterilización, Control de Rabia y otras Zoonosis;
+VII. Animal Silvestre: Especie no doméstica, que vive en un hábitat silvestre y se allega por si sola sus cuidados y alimentos;
 
-X. Comunidades Armónicas: Modelo para crear relaciones pacíficas entre los seres vivos, fomentando la cultura de respeto y tolerancia hacia todo ser vivo;
+VIII. Bienestar animal: estado en el que el animal tiene satisfechas sus necesidades biológicas, de salud, de comportamiento y fisiológicas, frente a cambios en su ambiente generalmente impuestos por el ser humano;
 
-XI. Consejo Consultivo Mixto: Es el órgano colegiado y plural, integrado por diversos sectores de la sociedad civil, que tiene como propósito proponer y analizar estrategias dirigidas a la protección animal, coadyuvar en su implementación y emitir su opinión en cualquier problemática relativa a la competencia de esta Ley.
+IX. Campañas: acciones públicas realizadas de manera periódica y sistemática por la autoridad en el ámbito de sus respectivas competencias, o por quien ella designe, para el control, prevención o erradicación de enfermedades transmisibles o no al ser humano por lo (sic) animales, así como acciones para difundir los de este y controlar su aumento poblacional;
 
-Las opiniones que emita dicho órgano, así como las estrategias y propuestas de este Consejo, deberán ser tomadas en cuenta por las autoridades involucradas como eje rector;
+X. CERAZ. Es el Centro de Esterilización, Control de Rabia y otras Zoonosis;
 
-XII. Hogar temporal: Lugar, predio, finca, refugio o casa de entrega responsable o similar, en el que por un tiempo permanecen los animales para su rehabilitación física, esterilización o cuidado de cualquier índole;
+XI. Comunidades Armónicas: Modelo para crear relaciones pacíficas entre los seres vivos, fomentando la cultura de respeto y tolerancia hacia todo ser vivo;
 
-XIII. Hostigar: Dar golpes o causar molestias a los animales por cualquier medio; o realizar acciones que cambien su conducta normal;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2022)</small>
 
-XIV. Maltrato: todo acto u omisión que ocasione dolor o sufrimiento, que afecte el bienestar animal, ponga en peligro su vida o afecte gravemente su salud, así como la sobreexplotación de su trabajo;
+XII. Consejo Consultivo Mixto: Es el órgano colegiado y plural, integrado por diversos sectores de la sociedad civil, que tiene como propósito proponer y analizar estrategias dirigidas a la protección animal, coadyuvar en su implementación y emitir su opinión en cualquier problemática relativa a la competencia de esta Ley. Las opiniones que emita dicho órgano, así como las estrategias y propuestas de este Consejo, deberán ser tomadas en cuenta por las autoridades involucradas como eje rector;
 
-XV. Padrón de Animales Comunitarios: Es el registro que deberán tener los Ayuntamientos de los animales en situación de calle que son salvaguardados por un Protector Comunitario;
+XIII. Hogar temporal: Lugar, predio, finca, refugio o casa de entrega responsable o similar, en el que por un tiempo permanecen los animales para su rehabilitación física, esterilización o cuidado de cualquier índole;
 
-XVI. Perro de Asistencia: Es aquel que ha sido adiestrado individualmente en instituciones y centros especializados, nacionales o del extranjero, para llevar a cabo actividades de apoyo a personas con discapacidad;
+XIV. Hostigar: Dar golpes o causar molestias a los animales por cualquier medio; o realizar acciones que cambien su conducta normal;
 
-XVII. Programa Animal Comunitario (PAC): Es el procedimiento que se compone por las acciones de atrapa, esteriliza y regresa; consiste en brindar cuidados como atención médica, esterilización, vacunación, alimentación y desparasitación, entre otros. Así como un monitoreo constante a animales en situación de calle que se encuentren o vayan a registrarse en el Padrón de Animales Comunitarios;
+XV. Maltrato: todo acto u omisión que ocasione dolor o sufrimiento, que afecte el bienestar animal, ponga en peligro su vida o afecte gravemente su salud, así como la sobreexplotación de su trabajo;
 
-XVIII. Protección a los Animales: todas aquellas acciones encaminadas a brindarles un aceptable estado de salud física y psicológica;
+XVI. Padrón de Animales Comunitarios: Es el registro que deberán tener los Ayuntamientos de los animales en situación de calle que son salvaguardados por un Protector Comunitario;
 
-XIX. Protector de los animales comunitarios: persona que deberá registrarlos, para así protegerlos y evitar que sean capturados por cualquier persona y/o institución. Incluso promover su adopción;
+XVII. Perro de Asistencia: Es aquel que ha sido adiestrado individualmente en instituciones y centros especializados, nacionales o del extranjero, para llevar a cabo actividades de apoyo a personas con discapacidad;
 
-XX. Sacrificio Humanitario: matanza de animales para el consumo o no humano; para evitar su sufrimiento; utilizando personal capacitado y con métodos físicos o químicos, que produzcan mínimo dolor;
+XVIII. Programa Animal Comunitario (PAC): Es el procedimiento que se compone por las acciones de atrapa, esteriliza y regresa; consiste en brindar cuidados como atención médica, esterilización, vacunación, alimentación y desparasitación, entre otros. Así como un monitoreo constante a animales en situación de calle que se encuentren o vayan a registrarse en el Padrón de Animales Comunitarios;
 
-XXI. Tortura a los animales: ocasionar dolor físico, con el fin de obtener de éste una acción, como medio de castigo o sin razón alguna, y
+XIX. Protección a los Animales: todas aquellas acciones encaminadas a brindarles un aceptable estado de salud física y psicológica;
 
-XXII. Trato digno y respetuoso: todo trato digno, de atención o cuidado que se otorgue a un animal, en los términos de esta Ley.
+XX. Protector de los animales comunitarios: persona que deberá registrarlos, para así protegerlos y evitar que sean capturados por cualquier persona y/o institución. Incluso promover su adopción;
+
+XXI. Sacrificio Humanitario: matanza de animales para el consumo o no humano; para evitar su sufrimiento; utilizando personal capacitado y con métodos físicos o químicos, que produzcan mínimo dolor;
+
+XXII. Tortura a los animales: ocasionar dolor físico, con el fin de obtener de éste una acción, como medio de castigo o sin razón alguna, y
+
+XXIII. Trato digno y respetuoso: todo trato digno, de atención o cuidado que se otorgue a un animal, en los términos de esta Ley.
 
 En dicho trato, se contempla la castración y esterilización, canina o felina; entendiéndose por castración a la técnica que consiste en una intervención quirúrgica en la cual se produce la extirpación de los testículos en los machos y de los ovarios u ovarios y útero en la hembra.
 
@@ -927,9 +933,11 @@ Cuando se haga entrega de un animal a una asociación o al Centro de Esterilizac
 
 El Centro publicará en redes sociales y medios de comunicación a los perros y gatos bajo su custodia, para promover su adopción y evitar que puedan ser sujetos a sacrificio; asimismo, las diversas Asociaciones podrán apoyar en la promoción de las adopciones e incluso, acoger de manera temporal para su posterior adopción.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO 114.
 
-Queda prohibido el abandono de cualquier animal. Quien sea sorprendido en ello, se le impondrá una multa de 10 a 100 días de UMA; sin perjuicio de la sanción penal correspondiente.
+Queda prohibido el abandono de cualquier animal. Quien sea sorprendido en ello, se le impondrá una multa de 20 a 200 días de UMA; sin perjuicio de la sanción penal correspondiente.
 
 ###### ARTÍCULO 115.
 
@@ -1116,5 +1124,13 @@ P.O. 5 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1223.- SE REFORMA EL ARTÍCULO 6°, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0322.- SE REFORMA EL ARTÍCULO 114; Y ADICIONA AL ARTÍCULO 4° UNA FRACCIÓN, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 317 BIS EN SU PÁRRAFO PRIMERO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
