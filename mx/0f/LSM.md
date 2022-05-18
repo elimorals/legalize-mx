@@ -4,7 +4,7 @@ identifier: "LSM"
 country: "mx"
 rank: "ley"
 publication_date: "1940-09-11"
-last_updated: "2022-01-17"
+last_updated: "2022-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2573&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSM"
 
 LEY DEL SERVICIO MILITAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2022.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 11 de septiembre de 1940.
 
@@ -56,9 +56,11 @@ A los extranjeros que deban prestar servicios militares en México, se les aplic
 
 La Secretaría de la Defensa Nacional prestará toda clase de ayuda a las autoridades educativas de los Estados en que no haya coordinación con la Federación en esta materia, para el cumplimiento de las funciones de instrucción militar a que se refiere la fracción I del artículo 31 de la Constitución Política de los Estados Unidos Mexicanos, a fin de intensificar la eficacia de la instrucción, de unificar los sistemas para impartirla y de controlar los resultados.
 
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2022)</small>
+
 ###### ARTICULO 4o.
 
-Los preliminares del alistamiento de cada clase para el servicio de las armas, se llevarán a cabo durante el segundo semestre del año en que cumplan los individuos 18 años de edad, comenzando su servicio militar el 1o. de enero del año siguiente. Sus obligaciones militares terminan el 31 de diciembre del año en que cumplan los 45 años de edad.
+Los preliminares del alistamiento de cada clase para el servicio de las armas, se llevarán a cabo durante el segundo semestre del año en que cumplan los individuos 18 años de edad, comenzando su servicio militar el 1o. de enero del año siguiente. Sus obligaciones militares terminan el 31 de diciembre del año en que cumplan los 40 años de edad.
 
 ###### ARTICULO 5o.
 
@@ -70,7 +72,7 @@ Hasta los 30 años, en la 1a. Reserva.
 
 Hasta los 40 años, en la 2a. Reserva.
 
-Hasta los 45 años, en la Guardia Nacional.
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 18 DE MAYO DE 2022)</small>
 
 Las clases y oficiales servirán en la 1a. Reserva hasta los 33 y 36 años respectivamente y hasta los 45 y 50 en la 2a. Reserva.
 
@@ -80,7 +82,7 @@ ARTICULO 5 BIS- En tiempo de paz, los mexicanos por nacimiento que adquieran otr
 
 ###### ARTICULO 6o.
 
-En caso de guerra internacional, los mexicanos de más de 45 años de edad, hasta el límite que exijan las circunstancias, pueden ser llamados a servir en la Guardia Nacional, de acuerdo con sus condiciones físicas.
+(DEROGADO, D.O.F. 18 DE MAYO DE 2022)
 
 ###### ARTICULO 7o.
 
@@ -162,9 +164,9 @@ I.- Hacer una solicitud.
 
 II.- Ser mexicano mayor de 18 y menor de 30 años de edad, y hasta los 40 años para el personal de especialistas del Ejército.
 
-Se admitirán menores de 18 y mayores de 16 años de edad, en las unidades de transmisiones para su preparación como técnicos mediante contrato con el Estado que no deberá exceder de 5 años.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 18 DE MAYO DE 2022)</small>
 
-III.- Ser soltero, viudo o divorciado sin hijos.
+III. (DEROGADA, D.O.F. 18 DE MAYO DE 2022)
 
 IV.- Satisfacer los requisitos que determine el Reglamento de esta Ley.
 
@@ -455,3 +457,9 @@ D.O.F. 17 DE ENERO DE 2022.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- El reclutamiento voluntario solo podrá llevarse a cabo a partir de los dieciocho años, sin excepciones.
+
+D.O.F. 18 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SERVICIO MILITAR”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
