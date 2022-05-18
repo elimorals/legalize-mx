@@ -4,7 +4,7 @@ identifier: "GUA-codigo-reglamentario-de-desarrollo-urbano-para-el-municipio-758
 country: "mx"
 rank: "codigo"
 publication_date: "2010-08-06"
-last_updated: "2021-09-30"
+last_updated: "2022-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2022.
 
 Código publicado en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 6 de agosto de 2010.
 
@@ -232,6 +232,10 @@ XLI. Dictamen Técnico: Opinión técnica emitida por la autoridad competente o 
 XLII. Dirección: A la Dirección General de Desarrollo Urbano del Municipio;
 
 XLIII. Dirección de Obra: La Dirección General de Obra Pública del Municipio;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2022)</small>
+
+XLIII-A. Distrito León MX: Complejo urbano de la ciudad de León, Guanajuato, integrado por el Centro de Congresos y Exposiciones Poliforum León, la Feria Estatal de León, el Parque y Centro de Ciencias Explora, el Fórum Cultural Guanajuato, la Biblioteca Central Estatal y la Unidad de Artes de la Universidad de Guanajuato;
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2018)</small>
 
@@ -2228,6 +2232,10 @@ Para los nuevos fraccionamientos en los cuales se contemplen ejes metropolitanos
 ###### Artículo 95-A.
 
 El uso y destino de suelo en predios podrá otorgarse de acuerdo a la ubicación del predio por la zona en la que se encuentra, en caso de que el predio tenga frente a una vialidad con uso por corredor, se podrá otorgar el uso de suelo por el mismo corredor, con excepción de los predios que tengan clasificación de destino de equipamiento.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2022)</small>
+
+Al predio Distrito León MX podrá otorgarse uso y destino de suelo por corredor.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2020)</small>
 
@@ -9192,3 +9200,9 @@ SEGUNDO: Todos los procedimientos y demás asuntos relacionados con las materias
 TERCERO: Los centros de rehabilitación de adicciones que a la entrada en vigor del presente reglamento acrediten que ya se encontraban funcionando y no cuenten con permiso de uso de suelo dispondrán del plazo de un año para adecuar sus instalaciones y dar cumplimiento a lo establecido en esta norma.
 
 CUARTO: Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas municipales que se opongan a las presentes reformas, adiciones y derogaciones al presente ordenamiento.
+
+P.O. 18 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO MEDIANTE EL CUAL SE ADICIONAN LA FRACCIÓN XLIII-A AL ARTÍCULO 2 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 95-A, AL CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO”.]
+
+Artículo Único. Las presentes adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
