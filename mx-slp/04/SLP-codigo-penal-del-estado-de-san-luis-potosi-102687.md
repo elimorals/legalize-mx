@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2022-03-24"
+last_updated: "2022-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2022.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -1645,15 +1645,21 @@ Si el ofendido es ascendiente, descendiente, cónyuge, concubina, concubinario, 
 
 ### CAPÍTULO III BIS. Lesiones Cometidas contra la Mujer en Razón de su Género
 
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2022)</small>
 
-ARTÍCULO 142 BIS. Al que cause lesiones a una mujer en razón de su género, se le impondrá pena de siete a catorce años de prisión, y sanción pecuniaria de doscientos a quinientos días del valor de la unidad de medida y actualización. Se considera que existen razones de género cuando concurra alguna de las siguientes circunstancias:
+ARTÍCULO 142 BIS. Al que cause lesiones a una mujer en razón de su género, se le impondrá pena de ocho a veinte años de prisión, y sanción pecuniaria de cuatrocientos a setecientos días del valor de la unidad de medida y actualización. Se considera que existen razones de género cuando concurra alguna de las siguientes circunstancias:
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
 I. Que las lesiones causadas sean infamantes, degradantes o una mutilación, o
 
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+
 II. Que previo a la lesión infringida existan datos que establezcan que se han cometido amenazas, acoso o violencia del sujeto activo contra la víctima.
 
-Si entre el sujeto activo y la víctima existió una relación sentimental, afectiva o de confianza; de parentesco, laboral, docente o cualquiera que implique subordinación o superioridad, y se acredita que en virtud de esa relación fueron infringidas las lesiones infamantes, degradantes o mutilaciones, se impondrán de nueve a dieciocho años de prisión, y multa de trescientos a seiscientos días del valor de la unidad de medida y actualización.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2022)</small>
+
+Si entre el sujeto activo y la víctima existió una relación sentimental, afectiva o de confianza; de parentesco, laboral, docente o cualquiera que implique subordinación o superioridad, y se acredita que en virtud de esa relación fueron infringidas las lesiones infamantes, degradantes o mutilaciones, se impondrán de doce a veintiún años de prisión, y multa de quinientos a ochocientos días del valor de la unidad de medida y actualización.
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
 
@@ -4065,9 +4071,11 @@ Para los efectos de este artículo se entiende por animal doméstico, a aquél q
 
 Para los efectos de este artículo se entiende por animal silvestre, aquél que subsiste sujeto a los procesos de selección natural y que se desarrolla libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y, por ello, sean susceptibles de captura y apropiación.
 
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2022)</small>
 
-ARTÍCULO 317 BIS. Quien abandone a un animal doméstico poniendo en riesgo su vida o integridad, será castigado con pena de seis meses a un año de prisión, y sanción pecuniaria de cien a doscientos días del valor de la unidad de medida y actualización.
+ARTÍCULO 317 BIS. A quien abandone un animal doméstico o de compañía, poniendo en riesgo la vida o integridad de éste, se le impondrá una pena de dieciocho meses a tres años de prisión, y sanción pecuniaria de cien a doscientos días del valor de la unidad de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2017)</small>
 
 Los delitos previstos en el presente capítulo se perseguirán de oficio.
 
@@ -5762,5 +5770,21 @@ P.O. 24 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0288.- SE REFORMA EL ARTÍCULO 187 EN SU PÁRRAFO PRIMERO DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0320.- SE REFORMA EL ARTÍCULO 142 BIS EN SUS PÁRRAFOS PRIMERO Y CUARTO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0322.- SE REFORMA EL ARTÍCULO 114; Y ADICIONA AL ARTÍCULO 4° UNA FRACCIÓN, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 317 BIS EN SU PÁRRAFO PRIMERO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
