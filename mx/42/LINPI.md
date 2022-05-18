@@ -4,7 +4,7 @@ identifier: "LINPI"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-04"
-last_updated: "2022-04-28"
+last_updated: "2022-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131900&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LINPI"
 
 LEY DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2022.
 
 Ley publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación, el martes 4 de diciembre de 2018.
 
@@ -264,9 +264,17 @@ h) Educación Pública;
 
 i) Salud;
 
-j) Desarrollo Agrario, Territorial y Urbano, y
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2022)</small>
 
-k) Relaciones Exteriores.
+j) Desarrollo Agrario, Territorial y Urbano;
+
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2022)</small>
+
+k) Relaciones Exteriores, y
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2022)</small>
+
+l) Cultura.
 
 III. Una representación del Consejo Nacional de Pueblos Indígenas.
 
@@ -589,3 +597,9 @@ Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que 
 Tercero. El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
 
 Cuarto. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+
+D.O.F. 18 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN INCISO L) A LA FRACCIÓN II DEL ARTÍCULO 12 DE LA LEY DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
