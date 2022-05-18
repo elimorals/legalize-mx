@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2022-04-22"
+last_updated: "2022-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -673,7 +673,9 @@ IX. Presentar el informe anual de la CEGAIP al Congreso del Estado;
 
 La CEGAIP contará con un Órgano Interno de Control, que tiene encomendada la función, control y vigilancia de los servidores públicos de ésta, para lo cual contará con autonomía técnica y de gestión para decidir sobre su funcionamiento.
 
-En el ejercicio de sus atribuciones la persona titular de la Contraloría Interna, se abstendrá de interferir en el desempeño de las funciones y en el ejercicio de las atribuciones de la CEGAIP.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2022)</small>
+
+En el ejercicio de sus atribuciones la persona titular del órgano interno de control, se abstendrá de interferir en el desempeño de las funciones y en el ejercicio de las atribuciones de la CEGAIP.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2019)</small>
 
@@ -705,11 +707,17 @@ III. Gozar de buena reputación y no haber sido condenado por delito que haya am
 
 IV. No haber sido gobernador del Estado, titular de alguna de las dependencias y entidades que conforman la administración pública del Estado, Fiscal o Procurador General de Justicia del Estado, senador, diputado federal o local, presidente municipal, o dirigente de un partido político o asociación religiosa, durante el año previo al día de su elección;
 
-V. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2022)</small>
 
-VI. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello;
+V. Contar al momento de su elección con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos;
 
-VII. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación, a despachos que hubieren prestado sus servicios a la CEGAIP o haber fungido como consultor o auditor externo de la CEGAIP en lo individual durante ese periodo, y
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2022)</small>
+
+VI. Contar al día de su elección, con antigüedad mínima de cinco años, con título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2022)</small>
+
+VII. No pertenecer o haber pertenecido en los cuatro años anteriores a su elección, a despachos que hubieren prestado sus servicios a la CEGAIP o haber fungido como consultor o auditor externo de la CEGAIP en lo individual durante ese periodo, y
 
 VIII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
 
@@ -719,11 +727,11 @@ VIII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el 
 
 La persona titular del Órgano Interno de Control será elegida, previa convocatoria pública, por el Congreso del Estado, con el voto de la mayoría de sus miembros presentes. Durará en su encargo cuatro años, y podrá ser reelecta por una sola ocasión; así mismo, no podrá ser removida sino por los casos y causas que establezcan las leyes de la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2022)</small>
 
 ###### ARTÍCULO 41.
 
-En la elección de la persona titular del Órgano Interno de Control, el Congreso del Estado se sujetará a lo siguiente:
+En la elección de la persona titular del órgano interno de control, el Congreso del Estado se sujetará a lo siguiente:
 
 I. Nombrará una comisión especial de cinco legisladores, encargada de sustanciar el procedimiento en los términos del presente artículo;
 
@@ -3188,6 +3196,14 @@ SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 P.O. 22 DE ABRIL DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0306.- SE REFORMA EL ARTÍCULO 86 EN SUS FRACCIONES II Y VI, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0321.- SE REFORMAN LOS ARTÍCULOS 37 EN SU PÁRRAFO SEGUNDO, 39 EN SUS FRACCIONES V, VI Y VII Y 41 EN SU PÁRRAFO PRIMERO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
