@@ -4,7 +4,7 @@ identifier: "FED-ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-51085"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-08-02"
-last_updated: "2022-04-29"
+last_updated: "2022-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51085&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-07-27"
 
 LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de agosto de 2006.
 
@@ -237,9 +237,9 @@ I. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida
 
 II. Asegurar que la planeación presupuestal incorpore la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos y acciones para la igualdad y la paridad entre mujeres y hombres;
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2022)</small>
 
-III. Fomentar la participación y representación política paritaria, libre y equilibrada entre mujeres y hombres;
+III. Fomentar la participación y representación política paritaria entre mujeres y hombres;
 
 IV. Promover la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres;
 
@@ -475,11 +475,15 @@ XII. Promover condiciones de trabajo que eviten el acoso sexual y su prevención
 
 XIII. Promover la participación de mujeres rurales en programas sectoriales en materia agraria.
 
-### CAPÍTULO TERCERO. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA EQUILIBRADA DE LAS MUJERES Y LOS HOMBRES
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 18 DE MAYO DE 2022)</small>
+
+### CAPÍTULO TERCERO. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA PARITARIA DE LAS MUJERES Y LOS HOMBRES
+
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2022)</small>
 
 ###### Artículo 35.
 
-La Política Nacional propondrá los mecanismos de operación adecuados para la participación equitativa entre mujeres y hombres en la toma de decisiones políticas y socioeconómicas.
+La Política Nacional propondrá los mecanismos de operación adecuados para la participación paritaria entre mujeres y hombres en la toma de decisiones políticas y socioeconómicas.
 
 ###### Artículo 36.
 
@@ -489,17 +493,23 @@ I. Favorecer el trabajo parlamentario con la perspectiva de género;
 
 II. Garantizar que la educación en todos sus niveles se realice en el marco de la igualdad entre mujeres y hombres y se cree conciencia de la necesidad de eliminar toda forma de discriminación;
 
-III. Evaluar por medio del área competente de la Comisión Nacional de los Derechos Humanos, la participación equilibrada entre mujeres y hombres en los cargos de elección popular;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2022)</small>
 
-IV. Promover participación y representación equilibrada entre mujeres y hombres dentro de las estructuras de los partidos políticos;
+III. Evaluar por medio del área competente de la Comisión Nacional de los Derechos Humanos, la participación paritaria entre mujeres y hombres en los cargos de elección popular;
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2022)</small>
 
-V. Fomentar la participación equitativa y paritaria de mujeres y hombres en altos cargos públicos, aplicando el principio de paridad de género en la integración de los órganos directivos, consultivos y de representación social en las dependencias y entidades de la Administración Pública Federal, y de las Entidades Federativas y Municipios;
+IV. Promover participación y representación paritaria entre mujeres y hombres dentro de las estructuras de los partidos políticos;
+
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2022)</small>
+
+V. Fomentar la participación paritaria de mujeres y hombres en altos cargos públicos;
 
 VI. Desarrollar y actualizar estadísticas desagregadas por sexo, sobre puestos decisorios y cargos directivos en los sectores público, privado y de la sociedad civil, y
 
-VII. Fomentar la participación equilibrada y sin discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos en el servicio civil de carrera de los poderes Ejecutivo, Legislativo y Judicial.
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2022)</small>
+
+VII. Fomentar la participación paritaria y sin discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos en el servicio civil de carrera de los poderes Ejecutivo, Legislativo y Judicial.
 
 ### CAPÍTULO CUARTO. DE LA IGUALDAD DE ACCESO Y EL PLENO DISFRUTE DE LOS DERECHOS SOCIALES PARA LAS MUJERES Y LOS HOMBRES
 
@@ -744,3 +754,11 @@ D.O.F. 29 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 17 DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 17, 35 Y 36 DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
