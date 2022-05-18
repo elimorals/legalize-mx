@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1247
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-06"
-last_updated: "2021-12-24"
+last_updated: "2022-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. EL 8 DE MARZO DE 2023, SE PUBLICÓ EN LA “GACETA LEGISLATIVA DEL H. CONGRESO DEL ESTADO DE NUEVO LEÓN” EL DECRETO NÚMERO 340 DE LA LXXVI LEGISLATURA DEL CONGRESO DEL ESTADO DE DICHA ENTIDAD; EL CUAL, AÚN NO HA SIDO PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, POR LO QUE AÚN NO HA SIDO COMPILADO Y SISTEMATIZADO.]</small>
+
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2022.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el miércoles 6 de diciembre de 2017.
 
@@ -373,9 +375,17 @@ LII. Fijar criterios y medidas administrativas para la simplificación de los tr
 
 LIII. Integrar el Comité de adquisiciones de la Fiscalía General;
 
-LIV. Aprobar el Programa Anual de Adquisiciones de la Fiscalía General; y
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2022)</small>
 
-LV. Las demás que con este carácter le encomiende esta Ley, el Reglamento Interior de la Fiscalía General y otras disposiciones normativas aplicables.
+LIV. Aprobar el Programa Anual de Adquisiciones de la Fiscalía General;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2022)</small>
+
+LV. Capacitar al personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres, tipos de violencia contra las mujeres, delitos que se cometen por razones de género, protocolos de actuación y atención a mujeres víctimas de violencia, perfiles y patrones de conducta de víctimas y victimarios, así como de lineamientos para la integración adecuada de carpetas de investigación; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE MAYO DE 2022)</small>
+
+LVI. Las demás que con este carácter le encomiende esta Ley, el Reglamento Interior de la Fiscalía General y otras disposiciones normativas aplicables.
 
 ###### ARTÍCULO 15.
 
@@ -1308,3 +1318,9 @@ P.O. 24 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 023. SE ADICIONA CON UN SEGUNDO Y TERCER PÁRRAFO EL ARTÍCULO 198 BIS 30 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN; Y SE REFORMA EL ARTÍCULO 81 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 126. SE REFORMAN LAS FRACCIONES LIV Y LV Y SE ADICIONA LA FRACCIÓN LVI AL ARTÍCULO 14 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
