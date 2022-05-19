@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2021-12-26"
+last_updated: "2022-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -481,6 +481,10 @@ IX. Conceder y expedir licencias para el funcionamiento de espectáculos, establ
 
 X.- Expedir cartas de origen, atendiendo a las prevenciones de esta Ley así como a los requisitos que se establezcan en la normatividad de cada Ayuntamiento.
 
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2022)</small>
+
+XI. La promoción, difusión y efectiva implementación de la perspectiva de género en los procesos de planeación, programación, elaboración de presupuestos, diseño de acciones y políticas públicas y evaluación de la administración pública municipal.
+
 C). EN MATERIA DE HACIENDA PÚBLICA MUNICIPAL:
 
 I. Aprobar su iniciativa de Ley de Ingresos para el ejercicio fiscal que corresponda y remitirla al Congreso del Estado a más tardar el día último del mes de octubre del año respectivo.
@@ -568,6 +572,10 @@ XVIII. Ampliar la cobertura de programas orientados a la promoción de las micro
 > <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
 
 XIX. Regular las actividades económicas de los particulares de conformidad con los principios de la mejora regulatoria.
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2022)</small>
+
+XX. Impulsar la transversalidad de la perspectiva de género en el desarrollo e implementación de los procesos de planeación, programación, elaboración de presupuestos, diseño de acciones y políticas públicas y evaluación dentro de la administración pública municipal.
 
 En lo conducente y de conformidad a los fines señalados en el párrafo tercero, del artículo 27 de la Constitución Federal, expedirá los reglamentos y disposiciones administrativas que fueren necesarios.
 
@@ -2355,11 +2363,13 @@ VI. Con apoyo de la Comisión Estatal de Derechos Humanos del Estado de Durango,
 
 VII. Las demás que le otorguen otras disposiciones legales o reglamentarias.
 
-> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2022)</small>
 
 ###### Artículo 229.
 
-El Ayuntamiento establecerá enlaces institucionales de coordinación con dependencias de otros municipios, el Estado y la Federación a fin de desarrollar programas de protección de los derechos de las mujeres, con el propósito de prevenir y combatir la violencia contra la mujer, la discriminación por razón de género y las condiciones inequitativas hacia las mujeres.
+El Ayuntamiento establecerá enlaces institucionales de coordinación con dependencias de otros municipios, el Estado y la Federación a fin de desarrollar programas de protección de los derechos de las mujeres, con el propósito de prevenir, combatir y erradicar la violencia en contra de las mismas, además de la discriminación por razón de género y las condiciones inequitativas hacia las mujeres.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2020)</small>
 
 Asimismo procurará la equidad de género en la conformación laboral de las diversas áreas de la administración pública municipal.
 
@@ -2610,3 +2620,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 124.- QUE CONTIENE REFORMA Y ADICIONES A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
