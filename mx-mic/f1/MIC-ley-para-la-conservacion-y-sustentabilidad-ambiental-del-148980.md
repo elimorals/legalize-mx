@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-conservacion-y-sustentabilidad-ambiental-del-148980
 country: "mx"
 rank: "ley"
 publication_date: "2021-04-05"
-last_updated: "2021-04-05"
+last_updated: "2022-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2022.
 
 Ley publicada en la Novena Sección del Número 43 del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 5 de abril de 2021.
 
@@ -123,7 +123,7 @@ XIII. Eliminar la utilización de artículos de plástico de un solo uso, así c
 
 XIV. El Fondo Ambiental del Estado de Michoacán de Ocampo.
 
-###### Artículo 4°.
+###### Artículo 4º.
 
 Para efectos de esta Ley se consideran las definiciones previstas en la Ley General del Equilibrio Ecológico y Protección al Ambiente, Ley General para la Prevención y Gestión Integral de los Residuos, la Ley General de Cambio Climático, Ley para la Prevención y Gestión Integral de Residuos en el Estado de Michoacán de Ocampo, y la Ley de Cambio Climático del Estado de Michoacán de Ocampo, además de las siguientes:
 
@@ -165,23 +165,27 @@ XVIII. Consumo Sustentable: Actividades productivas necesarias para generar un b
 
 XIX. Contaminación: A la presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico;
 
-XX. Contaminante: A toda materia o energía en cualesquiera de sus estados físicos y formas, que al incorporarse o actuar en la atmosfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural;
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2022)</small>
 
-XXI. Contingencia Ambiental: A la situación derivada de actividades humanas o fenómenos naturales, que pone en peligro la integridad de uno o varios ecosistemas y así como de las poblaciones;
+XX. Contaminación acústica: La presencia en el ambiente de sonidos molestos e intempestivos que rebasen los límites máximos permisibles señalados en las normas oficiales, que para efecto emitan las autoridades competentes; o aquel que, por su intensidad, duración o frecuencia, impliquen daño, riesgo o perjudique a las personas, con independencia de la cual sea la fuente que los origine;
 
-XXII. Corredor Biológico Cultural: Mecanismo de coordinación y colaboración para unir esfuerzos, capacidades y recursos para conservar y manejar sustentablemente las áreas naturales protegidas, ecosistemas prioritarios y la biodiversidad, buscando su conectividad al interior del Estado y con otras entidades federativas, respetando y fomentando las buenas prácticas de manejo de los recursos naturales de las comunidades;
+XXI. Contaminante: A toda materia o energía en cualesquiera de sus estados físicos y formas, que al incorporarse o actuar en la atmosfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural;
 
-XXIII. Daño Ambiental: Es un deterioro de las condiciones naturales que altera o modifica negativamente el medio ambiente, sus recursos, el equilibrio de los ecosistemas, la salud humana o los bienes o valores ambientales colectivos;
+XXII. Contingencia Ambiental: A la situación derivada de actividades humanas o fenómenos naturales, que pone en peligro la integridad de uno o varios ecosistemas y así como de las poblaciones;
 
-XXIV. Desarrollo Sustentable: Al proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social, que tiende a mejorar la calidad de vida y la productividad de las personas, y que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
+XXIII. Corredor Biológico Cultural: Mecanismo de coordinación y colaboración para unir esfuerzos, capacidades y recursos para conservar y manejar sustentablemente las áreas naturales protegidas, ecosistemas prioritarios y la biodiversidad, buscando su conectividad al interior del Estado y con otras entidades federativas, respetando y fomentando las buenas prácticas de manejo de los recursos naturales de las comunidades;
 
-XXV. Ecología: La ciencia que estudia las relaciones existentes entre los seres vivos y el ambiente;
+XXIV. Daño Ambiental: Es un deterioro de las condiciones naturales que altera o modifica negativamente el medio ambiente, sus recursos, el equilibrio de los ecosistemas, la salud humana o los bienes o valores ambientales colectivos;
 
-XXVI. Efectos adversos del cambio climático: Variaciones en el medio ambiente, que tienen efectos nocivos significativos en la composición, capacidad de recuperación, productividad de los ecosistemas, en la salud y bienestar humano y en el funcionamiento de los sistemas socioeconómicos;
+XXV. Desarrollo Sustentable: Al proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social, que tiende a mejorar la calidad de vida y la productividad de las personas, y que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
 
-XXVII. Energías limpias: La energía limpia es el sistema de producción de energía con exclusión de cualquier contaminación o la gestión mediante la que nos deshacemos de todos los residuos peligrosos. Las energías limpias son entonces, aquellas que no generan residuos;
+XXVI. Ecología: La ciencia que estudia las relaciones existentes entre los seres vivos y el ambiente;
 
-XXVIII. Energías renovables: Aquellas cuya fuente reside en fenómenos de la naturaleza, procesos o materiales susceptibles de ser transformados en energía aprovechable por el ser humano, que se regeneran naturalmente, por lo que se encuentran disponibles en forma continua o periódica y que al ser generadas no liberan emisiones contaminantes. Se consideran fuentes de energía renovables, de manera enunciativa más no limitativa, las siguientes:
+XXVII. Efectos adversos del cambio climático: Variaciones en el medio ambiente, que tienen efectos nocivos significativos en la composición, capacidad de recuperación, productividad de los ecosistemas, en la salud y bienestar humano y en el funcionamiento de los sistemas socioeconómicos;
+
+XXVIII. Energías limpias: La energía limpia es el sistema de producción de energía con exclusión de cualquier contaminación o la gestión mediante la que nos deshacemos de todos los residuos peligrosos. Las energías limpias son entonces, aquellas que no generan residuos;
+
+XXIX. Energías renovables: Aquellas cuya fuente reside en fenómenos de la naturaleza, procesos o materiales susceptibles de ser transformados en energía aprovechable por el ser humano, que se regeneran naturalmente, por lo que se encuentran disponibles en forma continua o periódica y que al ser generadas no liberan emisiones contaminantes. Se consideran fuentes de energía renovables, de manera enunciativa más no limitativa, las siguientes:
 
 a) El viento;
 
@@ -197,103 +201,103 @@ f) Las bioenergéticas derivadas de los procesos de producción de origen vegeta
 
 g) Las generadas por mecanismos cinegéticos manipulados por el hombre mediante la fracción.
 
-XXIX. Especie: La unidad básica de clasificación taxonómica, formada por un conjunto de individuos que presentan características morfológicas, etnológicas y fisiológicas similares, que son capaces de reproducirse entre sí y generar descendencia fértil, compartiendo requerimientos de hábitat semejantes;
+XXX. Especie: La unidad básica de clasificación taxonómica, formada por un conjunto de individuos que presentan características morfológicas, etnológicas y fisiológicas similares, que son capaces de reproducirse entre sí y generar descendencia fértil, compartiendo requerimientos de hábitat semejantes;
 
-XXX. Estado: El Estado Libre y Soberano de Michoacán de Ocampo;
+XXXI. Estado: El Estado Libre y Soberano de Michoacán de Ocampo;
 
-XXXI. Estudio de Estado: Diagnóstico de la Biodiversidad presente en el Estado;
+XXXII. Estudio de Estado: Diagnóstico de la Biodiversidad presente en el Estado;
 
-XXXII. Estudio de Daño Ambiental: El análisis de la relación causal entre hechos, naturales o no, actos u omisiones, y el impacto negativo al medio ambiente, que define sus cualidades, cuantificación y medidas de compensación y, en el caso de que esta no sea posible, la reparación del daño ambiental causado;
+XXXIII. Estudio de Daño Ambiental: El análisis de la relación causal entre hechos, naturales o no, actos u omisiones, y el impacto negativo al medio ambiente, que define sus cualidades, cuantificación y medidas de compensación y, en el caso de que esta no sea posible, la reparación del daño ambiental causado;
 
-XXXIII. Estudio de Impacto Ambiental: Documento mediante el cual se da a conocer, con base en estudios, el posible impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
+XXXIV. Estudio de Impacto Ambiental: Documento mediante el cual se da a conocer, con base en estudios, el posible impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
 
-XXXIV. Estrategia Estatal: Estrategia para la Conservación y Uso Sustentable de la Diversidad Biológica del Estado de Michoacán;
+XXXV. Estrategia Estatal: Estrategia para la Conservación y Uso Sustentable de la Diversidad Biológica del Estado de Michoacán;
 
-XXXV. Evaluación de Daño Ambiental: Valoración sistemática y metodológica de los daños ambientales y sus medidas de resarcimiento o en su caso compensación contenidas en el Estudio de Daño Ambiental derivado de procedimientos administrativos de inspección y vigilancia;
+XXXVI. Evaluación de Daño Ambiental: Valoración sistemática y metodológica de los daños ambientales y sus medidas de resarcimiento o en su caso compensación contenidas en el Estudio de Daño Ambiental derivado de procedimientos administrativos de inspección y vigilancia;
 
-XXXVI. Evaluación de Impacto Ambiental: Procedimiento mediante el cual la Secretaría determina la autorización y viabilidad ambiental de los estudios de impacto ambiental;
+XXXVII. Evaluación de Impacto Ambiental: Procedimiento mediante el cual la Secretaría determina la autorización y viabilidad ambiental de los estudios de impacto ambiental;
 
-XXXVII. Fuentes Fijas: Los establecimientos que se encuentran estacionarios y tengan como finalidad desarrollar actividades industriales, mercantiles y de servicios que generen o puedan generar emisiones contaminantes al ambiente;
+XXXVIII. Fuentes Fijas: Los establecimientos que se encuentran estacionarios y tengan como finalidad desarrollar actividades industriales, mercantiles y de servicios que generen o puedan generar emisiones contaminantes al ambiente;
 
-XXXVIII. Fuentes Móviles: Los vehículos automotores que emitan contaminantes al ambiente;
+XXXIX. Fuentes Móviles: Los vehículos automotores que emitan contaminantes al ambiente;
 
-XXXIX. Gases de Efecto Invernadero: Componentes gaseosos de la atmósfera, que absorbe y emite radiación infrarroja;
+XL. Gases de Efecto Invernadero: Componentes gaseosos de la atmósfera, que absorbe y emite radiación infrarroja;
 
-XL. Hábitat Natural: Las zonas terrestres o acuáticas diferenciadas por sus características geográficas, abióticas y bióticas;
+XLI. Hábitat Natural: Las zonas terrestres o acuáticas diferenciadas por sus características geográficas, abióticas y bióticas;
 
-XLI. Instrumentos Económicos: Los mecanismos normativos y administrativos de carácter fiscal, financiero o de mercado, mediante los cuales las personas asumen los beneficios y costos ambientales que generan sus actividades económicas, incentivándolas a realizar acciones que favorezcan el ambiente;
+XLII. Instrumentos Económicos: Los mecanismos normativos y administrativos de carácter fiscal, financiero o de mercado, mediante los cuales las personas asumen los beneficios y costos ambientales que generan sus actividades económicas, incentivándolas a realizar acciones que favorezcan el ambiente;
 
-XLII. Ley: La Ley para la Conservación y Sustentabilidad Ambiental del Estado de Michoacán de Ocampo;
+XLIII. Ley: La Ley para la Conservación y Sustentabilidad Ambiental del Estado de Michoacán de Ocampo;
 
-XLIII. Ley General: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+XLIV. Ley General: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-XLIV. Licencia Ambiental Única: El acto administrativo por medio del cual la Secretaría autoriza el ejercicio de actividades a las Fuentes fijas que emitan o puedan emitir ruido, vibraciones, olores, gases, energía térmica, lumínica, radiaciones electromagnéticas, partículas sólidas o líquidas al ambiente o que en la producción, procesamiento, transporte, almacenamiento, uso o disposición final empleen sustancias sujetas a reporte;
+XLV. Licencia Ambiental Única: El acto administrativo por medio del cual la Secretaría autoriza el ejercicio de actividades a las Fuentes fijas que emitan o puedan emitir ruido, vibraciones, olores, gases, energía térmica, lumínica, radiaciones electromagnéticas, partículas sólidas o líquidas al ambiente o que en la producción, procesamiento, transporte, almacenamiento, uso o disposición final empleen sustancias sujetas a reporte;
 
-XLV. Límites Máximos Permisibles: Es la medida de la concentración o grado de elementos, sustancias o parámetros físicos, químicos y biológicos, que caracterizan a un efluente o una emisión, que al ser excedida puede causar daños a la salud, al bienestar humano y al medio ambiente;
+XLVI. Límites Máximos Permisibles: Es la medida de la concentración o grado de elementos, sustancias o parámetros físicos, químicos y biológicos, que caracterizan a un efluente o una emisión, que al ser excedida puede causar daños a la salud, al bienestar humano y al medio ambiente;
 
-XLVI. Medidas Correctivas: Son aquellas acciones impuestas por parte de la Procuraduría al infractor, que tienen como objeto la corrección de la irregularidad observada dentro de los aspectos del medio ambiente y del equilibrio ecológico, considerando el procedimiento administrativo correspondiente;
+XLVII. Medidas Correctivas: Son aquellas acciones impuestas por parte de la Procuraduría al infractor, que tienen como objeto la corrección de la irregularidad observada dentro de los aspectos del medio ambiente y del equilibrio ecológico, considerando el procedimiento administrativo correspondiente;
 
-XLVII. Medidas de Urgente Aplicación: Son acciones de ejecución inmediata impuestas al presunto infractor, en cualquier momento durante el procedimiento administrativo y hasta antes de que se emita la resolución, determinadas por la Procuraduría a efecto de evitar que se continúen produciendo daños al medio ambiente en los términos establecidos en la presente Ley;
+XLVIII. Medidas de Urgente Aplicación: Son acciones de ejecución inmediata impuestas al presunto infractor, en cualquier momento durante el procedimiento administrativo y hasta antes de que se emita la resolución, determinadas por la Procuraduría a efecto de evitar que se continúen produciendo daños al medio ambiente en los términos establecidos en la presente Ley;
 
-XLVIII. Mejores Técnicas Disponibles: Son aquellas tecnologías utilizadas en una instalación junto con la forma en que la instalación esté diseñada, construida, mantenida, explotada y paralizada, y siempre que sean las más eficaces para alcanzar un alto nivel de protección del medio ambiente en su conjunto y que puedan ser aplicadas en condiciones económica y técnicamente viables;
+XLIX. Mejores Técnicas Disponibles: Son aquellas tecnologías utilizadas en una instalación junto con la forma en que la instalación esté diseñada, construida, mantenida, explotada y paralizada, y siempre que sean las más eficaces para alcanzar un alto nivel de protección del medio ambiente en su conjunto y que puedan ser aplicadas en condiciones económica y técnicamente viables;
 
-XLIX. Normas Ambientales Estatales: La regulación técnica de observancia obligatoria en el Estado, expedida por la Secretaría, conforme a lo dispuesto en la presente Ley y su Reglamento, que establece reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, proceso, instalación, sistema, actividad, servicio o método de producción u operación;
+L. Normas Ambientales Estatales: La regulación técnica de observancia obligatoria en el Estado, expedida por la Secretaría, conforme a lo dispuesto en la presente Ley y su Reglamento, que establece reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, proceso, instalación, sistema, actividad, servicio o método de producción u operación;
 
-L. Normas Oficiales Mexicanas: La regulación técnica de observancia obligatoria expedida por las dependencias competentes, conforme a las finalidades establecidas en el artículo 40 de la Ley Federal sobre Metrología y Normalización, que establece reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, proceso, instalación, sistema, actividad, servicio o método de producción u operación; así como aquellas relativas a terminología, simbología, embalaje, marcado o etiquetado y las que se refieran a su cumplimiento o aplicación;
+LI. Normas Oficiales Mexicanas: La regulación técnica de observancia obligatoria expedida por las dependencias competentes, conforme a las finalidades establecidas en el artículo 40 de la Ley Federal sobre Metrología y Normalización, que establece reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, proceso, instalación, sistema, actividad, servicio o método de producción u operación; así como aquellas relativas a terminología, simbología, embalaje, marcado o etiquetado y las que se refieran a su cumplimiento o aplicación;
 
-LI. Ordenamiento Ecológico Territorial: El instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección, conservación y restauración del medio ambiente, así como el aprovechamiento sustentable de los recursos naturales;
+LII. Ordenamiento Ecológico Territorial: El instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección, conservación y restauración del medio ambiente, así como el aprovechamiento sustentable de los recursos naturales;
 
-LII. Patrimonio Ambiental: Son los ecosistemas del patrimonio común de la sociedad y de su equilibrio depende la vida y las posibilidades productivas del Estado, cuya preservación es responsabilidad de las autoridades estatales y municipales;
+LIII. Patrimonio Ambiental: Son los ecosistemas del patrimonio común de la sociedad y de su equilibrio depende la vida y las posibilidades productivas del Estado, cuya preservación es responsabilidad de las autoridades estatales y municipales;
 
-LIII. Patrimonio Natural: Los monumentos o zonas naturales constituidos por formaciones físicas, biológicas, geológicas y fisiográficas, que tengan un valor universal excepcional desde el punto de vista estético o científico, de acuerdo con la Convención sobre la Protección del Patrimonio Mundial, Cultural y Natural, de la Organización de las Naciones Unidas para la Educación la Ciencia y la Cultura;
+LIV. Patrimonio Natural: Los monumentos o zonas naturales constituidos por formaciones físicas, biológicas, geológicas y fisiográficas, que tengan un valor universal excepcional desde el punto de vista estético o científico, de acuerdo con la Convención sobre la Protección del Patrimonio Mundial, Cultural y Natural, de la Organización de las Naciones Unidas para la Educación la Ciencia y la Cultura;
 
-LIV. Plan de Manejo: Instrumento cuyo objetivo es minimizar la generación y maximizar la valorización de residuos sólidos urbanos, residuos de manejo especial y residuos peligrosos específicos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, con fundamento en el Diagnóstico Básico para la Gestión Integral de Residuos, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables e involucra a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a los niveles de gobierno;
+LV. Plan de Manejo: Instrumento cuyo objetivo es minimizar la generación y maximizar la valorización de residuos sólidos urbanos, residuos de manejo especial y residuos peligrosos específicos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, con fundamento en el Diagnóstico Básico para la Gestión Integral de Residuos, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables e involucra a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a los niveles de gobierno;
 
-LV. Plásticos degradables: Materiales plásticos a los que se incluyen aditivos catalizadores que propician su descomposición en múltiples etapas. Incluye los plásticos oxodegradables, fotodegradables, hidrodegradables y termodegradables, de manera enunciativa más no limitativa;
+LVI. Plásticos degradables: Materiales plásticos a los que se incluyen aditivos catalizadores que propician su descomposición en múltiples etapas. Incluye los plásticos oxodegradables, fotodegradables, hidrodegradables y termodegradables, de manera enunciativa más no limitativa;
 
-LVI. Procuraduría: La Procuraduría de Protección al Ambiente del Estado de Michoacán de Ocampo;
+LVII. Procuraduría: La Procuraduría de Protección al Ambiente del Estado de Michoacán de Ocampo;
 
-LVII. Productos desechables: Aquellos productos plásticos o derivados principalmente del poliestireno o del polietileno, cuya vida útil sea de un solo uso o por un corto periodo de tiempo antes de ser desechado los cuales serán de manera enunciativa más no limitativa, bolsas, tenedores, cucharas, cuchillos, palitos mezcladores, platos, popotes o pajitas, bastoncillos para hisopos de algodón, globos y varillas para globos, vasos y sus tapas, charolas para transportar alimentos, artículos de higiene fabricados total o parcialmente de plástico, dentro de la presente Ley quedan excluidos los artículos para la gestión menstrual;
+LVIII. Productos desechables: Aquellos productos plásticos o derivados principalmente del poliestireno o del polietileno, cuya vida útil sea de un solo uso o por un corto periodo de tiempo antes de ser desechado los cuales serán de manera enunciativa más no limitativa, bolsas, tenedores, cucharas, cuchillos, palitos mezcladores, platos, popotes o pajitas, bastoncillos para hisopos de algodón, globos y varillas para globos, vasos y sus tapas, charolas para transportar alimentos, artículos de higiene fabricados total o parcialmente de plástico, dentro de la presente Ley quedan excluidos los artículos para la gestión menstrual;
 
-LVIII. Productos plásticos de un solo uso: Aquellos plásticos, que están diseñados para ser usados por una sola vez, que no están sujetos a un plan de manejo obligatorio y que no son reutilizables, reciclables, compostables, ni son susceptibles de valoración o aprovechamiento;
+LIX. Productos plásticos de un solo uso: Aquellos plásticos, que están diseñados para ser usados por una sola vez, que no están sujetos a un plan de manejo obligatorio y que no son reutilizables, reciclables, compostables, ni son susceptibles de valoración o aprovechamiento;
 
-LIX. Programa de Educación Sustentable del Estado de Michoacán: Es el Instrumento rector mediante el cual la Secretaría establecerá el proceso de formación dirigido a la sociedad para facilitar la percepción integrada del medio ambiente con la finalidad de lograr conductas que lleven a alcanzar el desarrollo sustentable, incluyendo los conocimientos, hábitos, costumbres y actitudes que respeten y fomenten las buenas prácticas de manejo ambiental de la sociedad;
+LX. Programa de Educación Sustentable del Estado de Michoacán: Es el Instrumento rector mediante el cual la Secretaría establecerá el proceso de formación dirigido a la sociedad para facilitar la percepción integrada del medio ambiente con la finalidad de lograr conductas que lleven a alcanzar el desarrollo sustentable, incluyendo los conocimientos, hábitos, costumbres y actitudes que respeten y fomenten las buenas prácticas de manejo ambiental de la sociedad;
 
-LX. Proveedor de Servicios Ambientales: Son aquellos que contribuyen a la conservación de los ecosistemas que son fuente de los servicios ambientales;
+LXI. Proveedor de Servicios Ambientales: Son aquellos que contribuyen a la conservación de los ecosistemas que son fuente de los servicios ambientales;
 
-LXI. Región Ecológica Prioritaria: La unidad territorial que por sus características o por los procesos naturales que contiene sea indispensable su conservación, restauración o protección;
+LXII. Región Ecológica Prioritaria: La unidad territorial que por sus características o por los procesos naturales que contiene sea indispensable su conservación, restauración o protección;
 
-LXII. Resiliencia: Capacidad o elasticidad de un ecosistema para mantener su estructura organizativa, funcional y de imagen ante influencias externas;
+LXIII. Resiliencia: Capacidad o elasticidad de un ecosistema para mantener su estructura organizativa, funcional y de imagen ante influencias externas;
 
-LXIII. Restauración Ecológica: Es la recuperación asistida de ecosistemas que han sido degradados, dañados o destruidos por diferentes factores, atendiendo aspectos como la estructura, función, imagen y la dinámica del ecosistema;
+LXIV. Restauración Ecológica: Es la recuperación asistida de ecosistemas que han sido degradados, dañados o destruidos por diferentes factores, atendiendo aspectos como la estructura, función, imagen y la dinámica del ecosistema;
 
-LXIV. Riesgo Ambiental: La posibilidad inminente de daño ambiental producida por fenómenos naturales o una acción humana;
+LXV. Riesgo Ambiental: La posibilidad inminente de daño ambiental producida por fenómenos naturales o una acción humana;
 
-LXV. Secretaría: La Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial;
+LXVI. Secretaría: La Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial;
 
-LXVI. Servicios Ambientales: Son el producto de procesos ecológicos de los ecosistemas naturales, los cuales suministran a la humanidad una gran e importante gama de beneficios tangibles e intangibles y servicios gratuitos de carácter socioambiental de los que dependemos, entre ellos generación de oxígeno, agua y demás elementos que emanan de la naturaleza provocando un bien común, estos pueden ser valores, bienes o servicios;
+LXVII. Servicios Ambientales: Son el producto de procesos ecológicos de los ecosistemas naturales, los cuales suministran a la humanidad una gran e importante gama de beneficios tangibles e intangibles y servicios gratuitos de carácter socioambiental de los que dependemos, entre ellos generación de oxígeno, agua y demás elementos que emanan de la naturaleza provocando un bien común, estos pueden ser valores, bienes o servicios;
 
-LXVII. Sistemas de Gestión Ambiental: Es la conjunción de la estructura organizacional con los planes, responsabilidades, prácticas y procedimientos para la implementación de criterios ambientales que reduzcan el impacto negativo sobre el ambiente de las organizaciones públicas y privadas;
+LXVIII. Sistemas de Gestión Ambiental: Es la conjunción de la estructura organizacional con los planes, responsabilidades, prácticas y procedimientos para la implementación de criterios ambientales que reduzcan el impacto negativo sobre el ambiente de las organizaciones públicas y privadas;
 
-LXVIII. Sistema de Información: El Sistema de Información Ambiental y de Recursos Naturales y Biodiversidad en el Estado;
+LXIX. Sistema de Información: El Sistema de Información Ambiental y de Recursos Naturales y Biodiversidad en el Estado;
 
-LXIX. Sistema de Monitoreo de la Calidad del Aire en Michoacán: El conjunto organizado de recursos humanos, técnicos y administrativos empleados para observar el comportamiento de la calidad del aire en el Estado de Michoacán;
+LXX. Sistema de Monitoreo de la Calidad del Aire en Michoacán: El conjunto organizado de recursos humanos, técnicos y administrativos empleados para observar el comportamiento de la calidad del aire en el Estado de Michoacán;
 
-LXX. Sistema Estatal: El Sistema Estatal de Áreas para la Conservación del Patrimonio Natural y Patrimonio Ambiental;
+LXXI. Sistema Estatal: El Sistema Estatal de Áreas para la Conservación del Patrimonio Natural y Patrimonio Ambiental;
 
-LXXI. Tecnologías Limpias: Los procesos productivos, de manejo o transformación de recursos naturales o de manejo de residuos en general, que minimizan o evitan impactos o riesgos ambientales, previenen, controlan y abaten la contaminación, y propician el aprovechamiento sustentable de los recursos naturales;
+LXXII. Tecnologías Limpias: Los procesos productivos, de manejo o transformación de recursos naturales o de manejo de residuos en general, que minimizan o evitan impactos o riesgos ambientales, previenen, controlan y abaten la contaminación, y propician el aprovechamiento sustentable de los recursos naturales;
 
-LXXII. Tratamiento de Agua Residual: El proceso a que se (sic) residuales, con el objeto de disminuir o eliminar perjudiciales que se les hayan incorporado;
+LXXIII. Tratamiento de Agua Residual: El proceso a que se (sic) residuales, con el objeto de disminuir o eliminar perjudiciales que se les hayan incorporado;
 
-LXXIII. Un Sólo Uso: Se entiende como que aquellos productos de plástico, sintéticos y derivados del poliestireno que su vida útil no sea de más de un día, y que sean desechables, y no biodegradables;
+LXXIV. Un Sólo Uso: Se entiende como que aquellos productos de plástico, sintéticos y derivados del poliestireno que su vida útil no sea de más de un día, y que sean desechables, y no biodegradables;
 
-LXXIV. Vehículo Altamente Contaminante: Vehículo que rebasa los límites máximos permisibles de emisión contaminantes, establecidos en las Normas Oficiales Mexicanas correspondientes;
+LXXV. Vehículo Altamente Contaminante: Vehículo que rebasa los límites máximos permisibles de emisión contaminantes, establecidos en las Normas Oficiales Mexicanas correspondientes;
 
-LXXV. Vehículo Ostensiblemente Contaminante: Vehículo automotor en circulación que en forma visible y ostensiblemente emite humo negro o azul de manera constante;
+LXXVI. Vehículo Ostensiblemente Contaminante: Vehículo automotor en circulación que en forma visible y ostensiblemente emite humo negro o azul de manera constante;
 
-LXXVI. Vida Silvestre: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como los ferales; y,
+LXXVII. Vida Silvestre: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como los ferales; y,
 
-LXXVII. Zonificación: El instrumento técnico de planeación que puede ser utilizado en el establecimiento de las áreas naturales protegidas, que permite orden (sic) su territorio en función del grado de conservación y representatividad de los ecosistemas, la vocación natural del terreno de uso actual y potencial, con los objetivos dispuestos en la misma declaratoria.
+LXXVIII. Zonificación: El instrumento técnico de planeación que puede ser utilizado en el establecimiento de las áreas naturales protegidas, que permite orden (sic) su territorio en función del grado de conservación y representatividad de los ecosistemas, la vocación natural del terreno de uso actual y potencial, con los objetivos dispuestos en la misma declaratoria.
 
 ### CAPÍTULO II. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
@@ -1921,6 +1925,8 @@ El incumplimiento de lo anterior será sujeto a medidas de seguridad y/o sancion
 
 DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN GENERADA POR RUIDO, VIBRACIONES, ENERGÍA TÉRMICA, LUMÍNICA, VISUAL, RADIACIONES ELECTROMAGNÉTICAS Y OLORES PERJUDICIALES
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2022)</small>
+
 ###### Artículo 162.
 
 Quedan prohibidas las emisiones de ruido, vibraciones, energía térmica y lumínica, cuando rebasen los límites máximos establecidos en las normas oficiales mexicanas o en las normas ambientales estatales.
@@ -1928,6 +1934,34 @@ Quedan prohibidas las emisiones de ruido, vibraciones, energía térmica y lumí
 En la operación o funcionamiento de instalaciones que generen ruido, vibraciones, energía térmica, energía lumínica, radiaciones electromagnéticas y olores perjudiciales, deberán llevarse a cabo acciones preventivas y correctivas para evitar los efectos nocivos de tales contaminantes en el ambiente. Debiendo presentar la manifestación de impacto ambiental en términos de esta Ley.
 
 Las autoridades estatales o municipales, en los ámbitos de sus competencias, adoptarán las medidas para impedir que se transgredan dichos límites y, en su caso, aplicarán las sanciones correspondientes.
+
+Los responsables de fuentes fijas y móviles que contaminen por emisión de ruido o vibraciones, energía térmica, lumínica y olores, estarán obligados a utilizar equipos y sistemas que controlen las emisiones a la atmósfera, para que éstas no rebasen los niveles máximos permisibles establecidos en las normas oficiales.
+
+Los responsables de fuentes fijas de contaminación acústica deberán contar con un sistema de monitoreo y medición de decibeles que muestre a los usuarios los niveles de emisión sonora a que están expuestos.
+
+Los decibeles se medirán en Ponderación A, de acuerdo a lo establecido en la Norma Oficial, desde el exterior de cualquiera de los inmuebles vecinos a aquel en que se genere ruido, o bien en el área pública; atendiendo las indicaciones para ellos especificadas en las normas, los respectivos reglamentos y atendiendo los lineamientos técnicos de los equipos.
+
+Las autoridades estatales y municipales responsables en la materia deberán contar con un sistema de atención, disponible las 24 horas, para recibir y atender reportes de contaminación acústica, debiendo acudir a verificar los decibeles y levantar constancia para en caso de que el nivel sonoro rebase la norma.
+
+En los casos de competencia municipal, cuando la infracción se cometa en casa habitación, propiedad privada sin giro comercial, la autoridad municipal deberá acudir al domicilio y realizar las gestiones que correspondan.
+
+En los casos de vehículos automotores de servicio privado y público que generen contaminación acústica, que rebasen los límites máximos permisibles, la autoridad municipal podrá sancionar conforme al reglamento correspondiente.
+
+La flagrancia será sancionada de inmediato con la infracción correspondiente.
+
+Las personas físicas y jurídicas podrán denunciar ante la Secretaría y los gobiernos municipales, según corresponda, todo hecho violatorio del presente artículo.
+
+> <small>[N. DE E. VÉASE TABLA EN LA SEXTA SECCIÓN DEL P.O. DE 19 DE MAYO DE 2022, PÁGINA 2.]</small>
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2022)</small>
+
+###### Artículo 162 Bis.
+
+Los municipios dentro de sus facultades establecerán una zonificación en función de la contaminación acústica permitida, la que deberán considerar para la emisión de las licencias de giro y funcionamiento.
+
+Las autoridades municipales en el ámbito de su competencia deberán realizar las inspecciones correspondientes a los giros comerciales y, en su caso, en propiedad privada, cuando se rebasen los límites de emisión de ruidos.
+
+Las autoridades competentes deberán respetar los usos y costumbres, garantizando el sano equilibrio y la tranquilidad de las personas y animales.
 
 ###### Artículo 163.
 
@@ -2597,7 +2631,9 @@ Las medidas de seguridad podrán ser:
 
 I. La suspensión temporal, parcial o total de obras o actividades;
 
-II. La clausura temporal, parcial o total de las fuentes contaminantes, así como de las instalaciones en las que se manejen o almacenen especímenes, productos o subproductos de especies de vida silvestre o se desarrollen actividades que den lugar a los supuestos a que se refieren las fracciones del presente artículo;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
+
+II. La clausura temporal, parcial o total de las fuentes contaminantes, y en su caso, de las instalaciones en que se manejen o almacenen recursos naturales, materiales, substancias contaminantes o se genere ruido superior a lo que establece la norma o se desarrollen las actividades que den lugar a los supuestos a que se refiere el primer párrafo de este artículo; y,
 
 III. La prohibición de actos de uso;
 
@@ -2627,7 +2663,9 @@ III. Clausura temporal o definitiva, parcial o total, cuando:
 
 a) El infractor no hubiere cumplido en los plazos y condiciones impuestos por la autoridad, con las medidas correctivas o de seguridad ordenadas;
 
-b) En los casos de reincidencia cuando las infracciones generen efectos negativos al ambiente; o,
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2022)</small>
+
+b) En los casos de reincidencia cuando las infracciones generen efectos negativos al ambiente o a la Salud;
 
 c) Se trate de desobediencia reiterada en tres o más ocasiones, al cumplimiento de alguna o algunas medidas de seguridad o correctivas impuestas por la autoridad;
 
@@ -2838,3 +2876,13 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRE
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 17 diecisiete días del mes de marzo del año 2021 dos mil veintiuno.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ING. SILVANO AUREOLES CONEJO.- EL SECRETARIO DE GOBIERNO.- C. ARMANDO HURTADO ARÉVALO.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 141 POR EL QUE "SE ADICIONA LA FRACCIÓN XX, RECORRIÉNDOSE EN SU ORDEN LAS FRACCIONES SUBSECUENTES AL ARTÍCULO 4°; SE REFORMA EL ARTÍCULO 162; SE ADICIONA EL 162 BIS; Y, SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 235 Y EL INCISO B) DE LA FRACCIÓN III DEL ARTÍCULO 236, DE LA LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. En un término de 60 días naturales los 112 ayuntamientos y el Consejo Mayor de Cheran deberán emitir el reglamento correspondiente.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno Constitucional del Estado de Michoacán de Ocampo.
