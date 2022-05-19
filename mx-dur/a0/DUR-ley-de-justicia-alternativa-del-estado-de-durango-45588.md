@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-justicia-alternativa-del-estado-de-durango-45588"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-14"
-last_updated: "2017-03-05"
+last_updated: "2022-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45588&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 14 de julio de 2005.
 
@@ -183,11 +183,13 @@ Los centros de justicia alternativa del Poder Judicial, atenderán gratuitamente
 
 Los particulares podrán prestar sus servicios profesionales como Especialistas Independientes en la solución de conflictos, a través de los Procedimientos Alternativos previstos en esta Ley, siempre y cuando cumplan con los requisitos que la misma establece.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2022)</small>
 
 ###### Artículo 10.
 
-Son susceptibles de solución a través de los Procedimientos Alternativos, las controversias jurídicas de naturaleza civil, familiar y mercantil, siempre y cuando no contravengan disposiciones de orden público, no se trate de derechos irrenunciables y no se afecten derechos de terceros.
+Son susceptibles de solución a través de los Procedimientos Alternativos, las controversias jurídicas de naturaleza civil, familiar y mercantil, además de las que surjan entre condóminos de acuerdo a lo establecido en los ordenamientos respectivos, siempre y cuando no contravengan disposiciones de orden público, no se trate de derechos irrenunciables y no se afecten derechos de terceros.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2009)</small>
 
 Los derechos y obligaciones pecuniarios de los menores o incapaces, serán susceptibles de someterse a los Procedimientos Alternativos por conducto de quienes ejerzan sobre ellos la patria potestad o tutela, sin embargo, el convenio resultante deberá someterse a autorización judicial con intervención del Ministerio Público.
 
@@ -251,11 +253,11 @@ Los especialistas que conduzcan un Procedimiento Alternativo estarán impedidos 
 
 ### CAPÍTULO I. DEL CENTRO ESTATAL Y DE LOS CENTROS DISTRITALES DE JUSTICIA ALTERNATIVA
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2022)</small>
 
 ###### Artículo 19.
 
-El Centro Estatal es el órgano del Poder Judicial con autonomía técnica para conocer y solucionar, a través de los procedimientos previstos en este ordenamiento, los conflictos en materia civil, familiar, mercantil y penal que le planteen los particulares, le remita el órgano jurisdiccional u otra institución, en los términos de esta Ley.
+El Centro Estatal es el órgano del Poder Judicial con autonomía técnica para conocer y solucionar, a través de los procedimientos previstos en este ordenamiento, los conflictos en materia civil, familiar, mercantil y penal, además de los que se susciten entre condóminos, de acuerdo a lo establecido en los ordenamientos respectivos, que le planteen los particulares, le remita el órgano jurisdiccional u otra institución, en los términos de esta Ley.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2009)</small>
 
@@ -1386,3 +1388,15 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 19 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 126.- QUE CONTIENE REFORMAS A LA FRACCIÓN VII DEL ARTÍCULO 31 DE LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO, SE REFORMAN LOS ARTÍCULOS 10 Y 19 DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE DURANGO Y SE REFORMAN LOS ARTÍCULOS 114 Y 116 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto.
