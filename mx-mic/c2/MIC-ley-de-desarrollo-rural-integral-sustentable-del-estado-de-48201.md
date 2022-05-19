@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-rural-integral-sustentable-del-estado-de-4820
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-18"
-last_updated: "2020-06-30"
+last_updated: "2022-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 18 de enero de 2006.
 
@@ -127,7 +127,9 @@ XIV. Reforzar todas aquellas acciones tendientes al fomento del desarrollo rural
 
 Para los efectos de esta Ley, se entiende por:
 
-I. Actividades rurales: Los procesos productivos primarios basados en recursos naturales renovables: Agricultura, ganadería, silvicultura, pesca y acuacultura; de transformación y de servicios del sector rural;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
+
+I. Actividades Rurales: Los procesos productivos primarios basados en recursos naturales renovables: Agricultura, que incluye cultivos inocuos en tierra y en sustratos inertes sin tierra; ganadería, silvicultura, pesca y acuacultura, de transformación y de servicios del sector rural;
 
 II. Actividades económicas: Las actividades agropecuarias y otras actividades productivas, industriales, comerciales y de servicios;
 
@@ -1666,3 +1668,9 @@ Artículo Primero. El Presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo. El Programa Estatal de Apoyo para los Jornaleros Agrícolas y sus Familias, ser elaborado por la Secretaría en un plazo de 120 días a partir de la publicación del presente Decreto.
 
 Artículo Tercero. En el Presupuesto Egresos de la Secretaría de Desarrollo Rural y Agroalimentario se deberá destinar una partida especial para la aplicación del Programa Estatal de Apoyo para los Jornaleros Agrícolas y sus Familias.
+
+P.O. 19 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 138 POR EL QUE “SE REFORMA LA FRACCIÓN I, DEL ARTÍCULO 6, DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
