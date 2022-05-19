@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2022-03-31"
+last_updated: "2022-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -2361,7 +2361,7 @@ Para la procedencia de la acción correspondiente, se requiere previa querella d
 
 ### CAPÍTULO II BIS (SIC). VIOLACIÓN A LA INTIMIDAD SEXUAL
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2022)</small>
 
 ###### Artículo 182.
 
@@ -2395,29 +2395,53 @@ Si el sujeto pasivo del delito de acoso es un menor de dieciocho años o estuvie
 
 ###### Artículo 182 Ter.
 
-Comete el delito de violación a la intimidad sexual quien, por cualquier medio, difunda, exponga, divulgue, almacene, comparta, distribuya, compile, comercie, solicite, haga circular, oferte o publique, o amenace con difundir, imágenes, audios o videos de contenido real, manipulado y/o alterado de una persona desnuda parcial o totalmente o cualquier contenido erótico o sexual, ya sea impreso, grabado o digital, sin el consentimiento de la víctima, o que haya sido obtenido bajo engaño o manipulación.
+Comete delito de violación a la intimidad sexual quien, por cualquier medio, difunda, exponga, divulgue, almacene, comparta, distribuya, compile, comercie, solicite, haga circular, oferte o publique, o amenace con difundir, imágenes, audios o videos de contenido real, manipulado y/o alterado de una persona desnuda parcial o totalmente o cualquier contenido erótico o sexual, ya sea impreso, grabado o digital, sin el consentimiento de la víctima, o que haya sido obtenido sin consentimiento o sin autorización, bajo engaño o manipulación.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
 
 Esta conducta se sancionará de cuatro a ocho años de prisión y multa de doscientos ochenta y ocho a quinientos setenta y seis Unidades de Medida y Actualización.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 19 DE MAYO DE 2022)</small>
+
 Las mismas penas se aumentarán hasta en una mitad cuando:
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2019)</small>
 
 I. El delito sea cometido por el cónyuge o por persona con la que esté, o haya estado unida a la víctima por alguna relación de afectividad, aún sin convivencia;
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
 II. Cuando el sujeto activo mantenga una relación familiar, laboral, docente o educativa, o de carácter político;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2019)</small>
 
 III. Cuando aprovechando su condición de responsable o encargado de algún establecimiento de servicio público realice alguna de las conductas establecidas en el presente artículo;
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
 IV. Cuando aprovechando su condición de responsable o encargado de algún medio de comunicación impreso, grabado, digital, radiofónico o televisión en cualquiera de sus modalidades, difunda, compile, publicite, o reproduzca material intimo sin su consentimiento;
 
-V. El sujeto activo se desempeñe como servidor público o integrante de las instituciones de Seguridad Pública;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
+
+V. Cuando el sujeto activo se desempeñe como servidor público o integrante de las instituciones de Seguridad Pública, o se ostente como tal;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2019)</small>
 
 VI. Cuando se amenace con la publicación o un bloqueo de la difusión del contenido a cambio de un nuevo intercambio sexual o económico, reciba o condicione a cambio de cualquier beneficio de la publicación de este contenido;
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
 VII. Se cometa en contra de una persona que debido a la desigualdad estructural enfrenta discriminación, exclusión, maltrato, abuso, violencia y mayores obstáculos para el pleno ejercicio de sus derechos y libertades fundamentales, y a aquella que esté en situación de vulnerabilidad social; por su condición cultural y/o persona indígena;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2019)</small>
 
 VIII. A quien con violencia física o moral obligue a la víctima a fabricar el contenido íntimo, sexual o erótico publicado sin consentimiento, y;
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2019)</small>
+
 IX. Cuando se cometa contra persona menor de edad o persona que no tenga la capacidad de comprender el significado del hecho, en este supuesto el delito se perseguirá de oficio.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
 
 En estos casos el Ministerio Público o la autoridad judicial dictarán las medidas que consideren pertinentes a efecto de retirar inmediatamente el contenido que fue o es difundido por cualquier medio, para salvaguardar la intimidad de la víctima.
 
@@ -2463,7 +2487,7 @@ Si resultan hijos a consecuencia de la comisión de alguno de los delitos previs
 
 ### CAPÍTULO II. OMISIÓN DE CUIDADO
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2022)</small>
 
 ###### Artículo 188.
 
@@ -2493,11 +2517,13 @@ Al que sabiendo que padece una enfermedad grave en periodo infectante, ponga en 
 
 ###### Artículo 190.
 
-Se impondrá de tres meses a dos años de prisión y multa de dieciocho a ciento cuarenta y cuatro veces la Unidad de Medida y Actualización y se le privará de la patria potestad o de la tutela, al que abandone a una persona incapaz de valerse por sí misma, o mayor de setenta años, o menor de edad o de la persona que no tenga la capacidad de comprender el significado del hecho, teniendo la obligación de cuidarla. Si el sujeto activo fuere ascendiente o tutor de la víctima, se le privará del derecho de heredar respecto a la persona abandonada.
+Se impondrá de tres meses a dos años de prisión y multa de dieciocho a ciento cuarenta y cuatro veces la Unidad de Medida y Actualización y se le privará de la patria potestad, o de la tutela, o custodia al que abandone a una persona incapaz de valerse por sí misma, o persona mayor de sesenta y cinco años o más, o menores de edad, o de la persona que no tenga la capacidad de comprender el significado del hecho, teniendo la obligación de cuidarla, o por si misma exponiéndola a un peligro en su integridad física, teniendo la obligación de cuidarla. Si el sujeto activo fuere ascendiente o tutor de la víctima, se le privará del derecho de heredar respecto a la persona abandonada.
 
-Al familiar que omita el cuidado a una persona mayor de sesenta años, o menor de edad o de la persona que no tenga la capacidad de comprender al significado del hecho estando éste obligado legalmente de prestarle cuidados y alimentos, y que con motivo de esta conducta ponga en peligro la vida, salud o integridad de la persona, se le impondrá de un año a tres años de prisión y multa de setenta y dos a doscientos dieciséis veces la Unidad de medida y Actualización.
+Al familiar o cualquier persona que omita el cuidado de una persona incapaz de valerse por sí misma, o persona mayor de sesenta y cinco años o más, o menores de edad, o que no tenga la capacidad de comprender el significado del hecho, estando este obligado legalmente de prestarle cuidados y alimentos, y que ejerza sobre el cualquier tipo de maltrato físico o trato humillante, y que con motivo de esta conducta ponga en peligro la vida, salud o integridad de la persona, se le impondrá de un año a tres años de prisión y multa de setenta y dos a doscientos dieciséis veces la Unidad de medida y Actualización.
 
-Si con motivo de la omisión de cuidado dispuesta en el párrafo anterior, sobreviene la muerte de la persona mayor de sesenta años, o menor de edad o de la persona que no tenga la capacidad de comprender el significado del hecho, se le impondrá la pena de dos a cinco años de prisión y multa de ciento cuarenta y cuatro a trescientos sesenta veces la Unidad de Medida y Actualización.
+Si con motivo de la omisión de cuidado dispuesta en el párrafo anterior, sobreviene la muerte de la persona mayor de sesenta y cinco años, o menor de edad o de la persona que no tenga la capacidad de comprender el significado del hecho, se le impondrá la pena de dos a cinco años de prisión y multa de ciento cuarenta y cuatro a trescientos sesenta veces la Unidad de Medida y Actualización.
+
+Al familiar o cualquier persona que condiciones (sic) a una persona mayor de sesenta y cinco años o más, el acceso y permanencia a su propio domicilio, o cualquiera de sus bienes inmuebles, le restrinja o condicione el uso de sus bienes muebles; presiones (sic) por medio de violencia física o moral para que teste o cambie su testamento a favor de un tercero, disponga sin autorización de sus recursos económicos, o sustraiga, despoje, retenga o condicione la entrega de documentos de identidad o acceso a los servicios de salud y asistencia social, se le impondrá de tres a seis años de prisión y de trescientas a quinientas veces la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2021)</small>
 
@@ -3583,6 +3609,8 @@ III. A quien venda bebidas alcohólicas adulteradas a menores de edad, a sabiend
 
 Se impondrá de uno a cinco años de prisión y multa de setenta y dos a trescientas sesenta veces la Unidad de Medida y Actualización, a toda persona que con ánimo de acaparamiento, almacene artículos de consumo necesario, por un período mayor de tres meses sin efectuar operaciones de venta.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 19 DE MAYO DE 2022)</small>
+
 No se procederá penalmente en contra de las personas que incurran en la conducta anterior cuando:
 
 I.- A pesar de haber ofrecido sus artículos en venta al público a los precios oficiales, no hubo compradores;
@@ -3593,9 +3621,17 @@ Se consideran artículos de consumo necesario todos los comestibles de primera n
 
 La misma pena de prisión se impondrá a quien desobedezca las disposiciones de la autoridad dictadas con el fin de controlar la venta de artículos alimenticios, a precios oficiales y asimismo a los comerciantes, que estando autorizados únicamente a realizar sus mercancías al menudeo, efectúen también operaciones de mayoreo.
 
-Cuando los productores, distribuidores, comisionistas, comerciantes y en general cualquiera persona, con el fin de obtener lucro inmoderado, concierten actos tendientes a elevar en forma exagerada los precios de las mercancías de consumo necesario, serán sancionados de dos a nueve años de prisión y multa de ciento cuarenta y cuatro a seiscientas cuarenta y ocho veces la Unidad de Medida y Actualización.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2022)</small>
 
-Los comerciantes, los distribuidores y los comisionistas que reincidan en cualquiera de los actos delictuosos enumerados en artículos anteriores y aun cuando hayan sufrido las penas establecidas por esta Ley, serán castigados además con la cancelación de la licencia respectiva, para que puedan ejercitar actos de comercio en toda la Entidad.
+Cuando los productores, distribuidores, comisionistas, comerciantes y en general cualquiera persona, con el fin de obtener lucro inmoderado, concierten o ejecuten actos tendientes a elevar en forma exagerada los precios de las mercancías de consumo necesario, serán sancionados de dos a nueve años de prisión y multa de ciento cuarenta y cuatro a seiscientas cuarenta y ocho veces la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE MAYO DE 2022)</small>
+
+Cuando el lucro inmoderado o aumento exagerado de precios se realice sobre productos de higiene personal, medicamento o insumos médicos, bienes destinados a la prevención de propagación o contagio de enfermedades o cualquier artículo de primera necesidad, se le aumentara la señalada en el párrafo anterior hasta a mitad
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2022)</small>
+
+Los comerciantes, los distribuidores y los comisionistas que reincidan en cualquiera de los actos delictuosos enumerados en artículos anteriores y aun cuando hayan sufrido las penas establecidas por este Código, serán castigados además con la cancelación de la licencia respectiva, para que puedan ejercitar (sic) actos de comercio en toda la Entidad.
 
 ### CAPÍTULO II. DELITOS CONTRA LA GESTIÓN AMBIENTAL
 
@@ -5159,7 +5195,13 @@ VI. No otorgue la libertad provisional bajo caución durante la averiguación pr
 
 VII. Practique cateos o visitas domiciliarias fuera de los casos autorizados por la ley; o,
 
-VIII. Fabrique, altere o simule elementos de prueba para incriminar o exculpar a otro.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
+
+VIII. Fabrique, altere o simule elementos de prueba para incriminar o exculpar a otro; o,
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2022)</small>
+
+IX. A la persona servidora pública que en ejercicio de sus funciones de forma indebida difunda, entregue, revele, publique, transmita, exponga, remita, distribuya, videograbe, audiograbe, fotografíe, filme, reproduzca, comercialice, oferte, intercambie o comparta imágenes, audios, videos, información reservada, documentos del lugar de los hechos o del hallazgo, indicios, evidencias, objetos, instrumentos relacionados con el procedimiento penal o productos con uno o varios hechos, señalados por la Ley como delitos.
 
 ### CAPÍTULO VI. DELITOS COMETIDOS EN EL ÁMBITO DE LA EJECUCIÓN PENAL
 
@@ -6738,3 +6780,33 @@ P.O. 31 DE MARZO DE 2022.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 127.- QUE CONTIENE REFORMAS Y ADICIONES AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 128.- QUE CONTIENE REFORMA AL ARTÍCULO 182 TER, DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 127.- QUE CONTIENE REFORMAS Y ADICIONES AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 130.- QUE CONTIENE REFORMA AL ARTÍCULO 172 BIS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
