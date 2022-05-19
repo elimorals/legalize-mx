@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2021-06-18"
+last_updated: "2022-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -515,7 +515,9 @@ c) La iniciativa popular es el derecho de los ciudadanos para presentar iniciati
 
 II. Asociarse individual y libremente para participar en forma pacífica en los asuntos políticos del Estado y de las demás prerrogativas consignadas en los artículos 35 y 41 de la Constitución General de la República.
 
-III. Los nayaritas serán preferidos a los que no lo sean, en igualdad de circunstancias.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
+
+III. Las y los nayaritas serán preferidos a los que no lo sean, observando el principio de paridad de género y en igualdad de circunstancias, para toda clase de concesiones, empleos, cargos o comisiones del Gobierno.
 
 ###### Art. 18.
 
@@ -673,13 +675,17 @@ III. (DEROGADA, P.O. 10 DE JUNIO DE 2016)
 
 IV. Ser originario del Estado o tener residencia efectiva no menor de 5 años inmediatamente anteriores al día de la elección EN EL MUNICIPIO AL QUE CORRESPONDA EL DISTRITO QUE VAYA A REPRESENTAR;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
 
-V. No estar suspendido en sus derechos políticos; y
+V. No estar suspendido en sus derechos políticos.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
 
-VI. No ser ministro de algún culto religioso.
+VI. No ser ministro de algún culto religioso, y
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2022)</small>
+
+VII. No estar inscrita o inscrito en el Registro de Deudores Alimentarios Morosos en el Estado de Nayarit o en otra entidad federativa; ni en el Registro Nacional de Personas Sancionadas en Materia de Violencia Política contra las Mujeres en Razón de Género.
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
@@ -929,9 +935,9 @@ VII. Aprobar las leyes de ingresos de los municipios, revisar y fiscalizar sus c
 
 VIII. Constituirse en Colegio Electoral para designar al gobernador provisional, interino o sustituto según lo establece esta Constitución; y convocar a elecciones ordinarias y extraordinarias en los términos previstos por la ley.
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
 
-IX. Designar a los Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia del Estado, a los Magistrados Numerarios y Supernumerarios del Tribunal de Justicia Administrativa, al Fiscal General, al Fiscal Especializado en Materia de Delitos Electorales, al Fiscal Especializado en Combate a la Corrupción y al Secretario de Seguridad Pública, al titular del Centro de Conciliación Laboral del Estado de Nayarit y ratificar al titular de la Secretaría del Poder Ejecutivo Estatal responsable del control interno con base en las propuestas que haga el Gobernador en los términos de esta Constitución y las leyes aplicables.
+IX. Observar el principio de paridad de género para la designación de los Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia del Estado, a los Magistrados Numerarios y Supernumerarios del Tribunal de Justicia Administrativa, al Fiscal General, al Fiscal Especializado en Materia de Delitos Electorales, al Fiscal Especializado en Combate a la Corrupción y al Secretario de Seguridad Pública, al titular del Centro de Conciliación Laboral del Estado de Nayarit y ratificar al titular de la Secretaría del Poder Ejecutivo Estatal responsable del control interno con base en las propuestas que haga el Gobernador en los términos de esta Constitución y las leyes aplicables.
 
 X. Recibir a los mismos funcionarios, la protesta de guardar y hacer guardar la Constitución General, la Particular del Estado y las leyes que de ambas emanen.
 
@@ -1031,9 +1037,9 @@ XXXVI. Conceder licencia al Gobernador, a los Diputados y demás servidores púb
 
 XXXVII. (DEROGADA, P.O. 15 DE OCTUBRE DE 2011)
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
 
-XXXVIII. Evaluar el cumplimiento del Plan Estatal de Desarrollo en los términos de la ley.
+XXXVIII. Evaluar el cumplimiento del Plan Estatal de Desarrollo en los términos de la ley, y
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -1225,11 +1231,17 @@ III.- No ser Secretario o Subsecretario del Despacho del Poder Ejecutivo Estatal
 
 IV. No pertenecer al estado eclesiástico ni ser Ministro de algún culto religioso.
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
 
-V. No estar suspendido en sus derechos políticos; y
+V. No estar suspendido en sus derechos políticos;
 
-VI. No haber figurado directa ni indirectamente en alguna sedición, cuartelazo, motín o asonada.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
+
+VI. No haber figurado directa ni indirectamente en alguna sedición, cuartelazo, motín o asonada, y
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2022)</small>
+
+VII. No estar inscrita o inscrito en el Registro de Deudores Alimentarios Morosos en el Estado de Nayarit o en otra entidad federativa, ni en el Registro Nacional de Personas Sancionadas en Materia de Violencia Política contra las Mujeres en Razón de Género.
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 1980)</small>
 
@@ -1459,11 +1471,11 @@ Las relaciones entre el Poder Ejecutivo y los Poderes Legislativo y Judicial, se
 
 El Gobernador, en el ejercicio de sus funciones constitucionales, podrá dar a conocer sus resoluciones a través de los Secretarios del Despacho, cuando así lo estime pertinente o lo disponga la ley.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2022)</small>
 
 ###### Art. 74.
 
-Para ser Secretario General de Gobierno o Secretario del Despacho se requiere: ser ciudadano mexicano por nacimiento, originario del estado o vecino de él, en pleno goce de sus derechos, mayor de veinticinco años de edad, no ser militar en servicio activo, ni ministro de algún culto religioso y preferentemente contar con título profesional.
+Para ser Secretario General de Gobierno o Secretario del Despacho, se requiere: ser ciudadano mexicano por nacimiento, originario del estado o vecino de él, en pleno goce de sus derechos, mayor de veinticinco años de edad, no ser militar en servicio activo, ni ministro de algún culto religioso y preferentemente contar con título profesional. Además, no estar inscrita o inscrito en el Registro de Deudores Alimentarios Morosos en el Estado de Nayarit o en otra entidad federativa; ni en el Registro Nacional de Personas Sancionadas en Materia de Violencia Política contra las Mujeres en Razón de Género.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
 
@@ -1521,11 +1533,9 @@ El Secretario General de Gobierno substituirá al Gobernador en las faltas no pr
 
 El ejercicio de la función jurisdiccional corresponde al Poder Judicial, en el ámbito de su competencia y se deposita en el Tribunal Superior de Justicia y en los Juzgados que la ley determine.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2022)</small>
 
-El Tribunal Superior de Justicia, se integrará por trece Magistradas y Magistrados Numerarios de manera paritaria y funcionará en Pleno o en Salas, Colegiadas o Unitarias. (1)
-
-(1) Reserva aprobada por el Pleno de la Honorable Asamblea Legislativa, de la sesión pública virtual celebrada el día 11 de septiembre de 2020.
+El Tribunal Superior de Justicia, se integrará por trece Magistradas y Magistrados Numerarios, observando el principio de paridad de género y funcionará en Pleno o en Salas, Colegiadas o Unitarias.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2020)</small>
 
@@ -1589,19 +1599,29 @@ IV.- (DEROGADA, P.O. 10 DE JUNIO DE 2016)
 
 V.- Los demás que con base en la Constitución Federal, esta Constitución y demás leyes, se le confieran.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2022)</small>
 
 ###### Art. 83.
 
-Para ser designado Magistrado del Tribunal Superior de Justicia, se necesita:
+Para ser designada como Magistrada o Magistrado del Tribunal Superior de Justicia, se necesita:
+
+> <small>(REFORMADA P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 I.- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles;
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
 II.- Tener cuando menos treinta y cinco años cumplidos al día de la designación;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 III.- Poseer al día de la designación, con antigüedad mínima de diez años, título profesional de Licenciado en Derecho, expedido por autoridad o institución legalmente autorizada para ello;
 
-IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público inhabilitará para el cargo, cualquiera que haya sido la pena;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena. Además, no estar inscrita o inscrito en el Registro de Deudores Alimentarios Morosos en el Estado de Nayarit o en otra entidad federativa; ni en el Registro Nacional de Personas Sancionadas en Materia de Violencia Política contra las Mujeres en Razón de Género;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 V.- Haber residido en el país durante los dos años anteriores al día de la designación; y
 
@@ -1609,7 +1629,11 @@ V.- Haber residido en el país durante los dos años anteriores al día de la de
 
 VI.- No haber sido Secretario del Despacho del Poder Ejecutivo, Fiscal General o Diputado local, durante el año previo al día de la designación.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
 Para la designación de los Magistrados del Tribunal Superior de Justicia, el Gobernador someterá una terna a consideración del Congreso, quien previa comparecencia de las personas propuestas elegirá al Magistrado que deba cubrir la vacante. La elección se hará por el voto de las dos terceras partes de los diputados presentes en la sesión, dentro del improrrogable término de treinta días. Si el Congreso no resolviere dentro de ese plazo, ocupará el cargo de Magistrado la persona que, dentro de dicha terna, designe el Gobernador.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 Si la Legislatura rechaza la totalidad de la terna propuesta, el Gobernador someterá a su consideración una nueva, en los términos del párrafo anterior. Si esta segunda tampoco es aceptada, ocupará el cargo la persona que dentro de esa terna designe el Gobernador.
 
@@ -1643,9 +1667,9 @@ La planeación del desarrollo institucional, evaluación, administración, vigil
 
 4.- Podrá expedir acuerdos para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO [N. DE DE. ESTE PÁRRAFO], P.O. 19 DE MAYO DE 2022)</small>
 
-5.- El Consejo de la Judicatura se integrará por cinco miembros, de los cuales, uno será el Presidente del Tribunal Superior de Justicia quien a su vez lo será del Consejo; un Magistrado electo por el Pleno del Tribunal Superior de Justicia, quien durará en su encargo dos años con posibilidad de relección hasta en una ocasión; un Juez de Primera Instancia electo por el Consejo de la Judicatura por un periodo de cuatro años, mediante procedimiento de insaculación y en sesión pública, de entre quienes se registren en la convocatoria; un Consejero nombrado por el Congreso del Estado a propuesta de la Comisión de Gobierno, mediante el voto de las dos terceras partes de los diputados presentes en la sesión; y un Consejero designado por el titular del Poder Ejecutivo Estatal. En el caso del consejero nombrado por el Congreso del Estado, se designará a un suplente al momento de la elección del consejero propietario.
+5.- El Consejo de la Judicatura se integrará por cinco miembros, de los cuales, uno será el Presidente del Tribunal Superior de Justicia quien a su vez lo será del Consejo; un Magistrado electo por el Pleno del Tribunal Superior de Justicia, quien durará en su encargo dos años con posibilidad de relección hasta en una ocasión; un Juez de Primera Instancia electo por el Consejo de la Judicatura por un periodo de cuatro años, mediante procedimiento de insaculación y en sesión pública, de entre quienes se registren en la convocatoria; un Consejero nombrado por el Congreso del Estado a propuesta de la Comisión de Gobierno, mediante el voto de las dos terceras partes de los diputados presentes en la sesión; y un Consejero designado por el titular del Poder Ejecutivo Estatal. En el caso del consejero nombrado por el Congreso del Estado, se designará a un suplente al momento de la elección del consejero propietario. En la integración del Consejo se observará el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1947,11 +1971,17 @@ II. Tener cuando menos 35 años cumplidos al día de la designación;
 
 III. Poseer al día de la designación con antigüedad mínima de 10 años, título profesional de licenciado en derecho, expedido por autoridad o institución legalmente autorizada para ello;
 
-IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
 
-V. Ser originario del Estado o haber residido en el durante los dos años anteriores al día de la designación, y
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena. Además, no estar inscrita o inscrito en el Registro de Deudores Alimentarios Morosos en el Estado de Nayarit o en otra entidad federativa; ni en el Registro Nacional de Personas Sancionadas en Materia de Violencia Política contra las Mujeres en Razón de Género;
 
-VI. No haber sido Secretario de Despacho del Poder Ejecutivo, o haber desempeñado cargo de elección popular, durante el año previo al día de la designación.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
+
+V. Ser originario del Estado o haber residido en el durante los dos años anteriores al día de la designación;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
+
+VI. No haber sido Secretario de Despacho del Poder Ejecutivo, o haber desempeñado cargo de elección popular, durante el año previo al día de la designación, y
 
 VII. No haber ocupado el cargo de Magistrado del Tribunal Superior de Justicia o Consejero de la Judicatura, durante el año previo al día de la designación.
 
@@ -2081,25 +2111,41 @@ Si la falta fuere definitiva, entrará provisionalmente en funciones el Magistra
 
 No podrá entrar en funciones el magistrado supernumerario que con posterioridad a su nombramiento, haya sido vinculado a proceso por hechos que constituyan delitos cometidos por servidores públicos, ni aquellos que cuenten con una medida cautelar vigente de suspensión provisional en procedimiento de responsabilidad administrativa, o esté inhabilitado para ejercer el servicio público, cualquiera que sea la vía de responsabilidad en que se decrete.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2022)</small>
 
 ###### Art. 105.
 
-Para ser magistrado del Tribunal de Justicia Administrativa, se requiere:
+Para ser Magistrado del Tribunal de Justicia Administrativa, se requiere:
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
 I.- Ser mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
 II.- Tener cuando menos treinta años cumplidos al día de la designación;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
 III.- Ser licenciado en derecho, con al menos siete años de antigüedad al día de la designación;
 
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
 IV.- Tener por lo menos cinco años de experiencia profesional, preferentemente, en materia administrativa o fiscal;
 
-V.- Ser de notoria buena conducta y honorabilidad manifiesta y no haber sido condenado en sentencia ejecutoriada por delito intencional que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza o alguno otro que lastime seriamente la fama en el servicio público inhabilitará para el cargo, cualquiera que haya sido la pena;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
+
+V.- Ser de notoria buena conducta y honorabilidad manifiesta y no haber sido condenado en sentencia ejecutoriada por delito intencional que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza o alguno otro que lastime seriamente la fama en el servicio público inhabilitará para el cargo, cualquiera que haya sido la pena. Además, no estar inscrita o inscrito en el Registro de Deudores Alimentarios Morosos en el Estado de Nayarit o en otra entidad federativa; ni en el Registro Nacional de Personas Sancionadas en Materia de Violencia Política contra las Mujeres en Razón de Género;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
 VI.- Ser originario del Estado de Nayarit o haber residido en el mismo, durante los dos años anteriores al día de la designación;
 
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+
 VII.- No haber tenido el cargo de diputado local durante el año previo al día de la designación, ni haber sido Fiscal General, o haber pertenecido a las fuerzas armadas, y
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
 VIII.- No ser ministro de algún culto religioso, a menos que se haya separado formal y definitivamente de su ministerio, cuando menos cinco años anteriores al día de la designación.
 
@@ -2107,13 +2153,23 @@ VIII.- No ser ministro de algún culto religioso, a menos que se haya separado f
 
 Para la designación de Magistrados, el Gobernador someterá las ternas a consideración del Congreso, quien previa comparecencia de las personas propuestas elegirá a los Magistrados que deban cubrir cada una de las vacantes. La elección se hará por el voto de las dos terceras partes de los diputados presentes en la sesión, dentro del improrrogable término de treinta días. Si el Congreso no resolviere dentro de ese plazo, ocuparán el cargo de Magistrados las personas que, dentro de dichas ternas, designe el Gobernador.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)</small>
+
 Si la Legislatura rechaza alguna o la totalidad de las ternas propuestas, el Gobernador someterá a su consideración unas nuevas, en los términos del párrafo anterior. Si estas segundas tampoco son aceptadas, ocuparán el cargo las personas que dentro de esas ternas designe el Gobernador.
 
 ## TITULO SEXTO
 
 ### CAPITULO UNICO. De los Municipios
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2022)</small>
+
+Art 106.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por una o un Presidente Municipal, una o un Síndico y el número de Regidurías que la ley determine, de conformidad con el principio de paridad de género. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2022)</small>
+
+En la designación de las personas titulares de las dependencias que integran la Administración Centralizada del Municipio, los Ayuntamientos deberán observar el principio de paridad de género en los términos que establezca la ley en la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
 
 ###### Art. 106.
 
@@ -2197,11 +2253,17 @@ IV. No ser Gobernador, Secretario o Subsecretario del Despacho del Poder Ejecuti
 
 En el caso de los servidores públicos del Poder Judicial y Consejo de la Judicatura Estatal y Federal, así como consejeros y magistrados electorales del estado señalados anteriormente, el término de su separación se computará un año antes de la elección.
 
-Para el caso de los integrantes de ayuntamientos que aspiren a la elección por un periodo adicional, deberán separarse del cargo por lo menos noventa días antes del día de la elección, y
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2007)</small>
+Para el caso de los integrantes de ayuntamientos que aspiren a la elección por un periodo adicional, deberán separarse del cargo por lo menos noventa días antes del día de la elección.
 
-V. No estar suspendido en sus derechos políticos.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
+
+V. No estar suspendido en sus derechos políticos, y
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2022)</small>
+
+VI. No estar inscrita o inscrito en el Registro de Deudores Alimentarios Morosos en el Estado de Nayarit o en otra entidad federativa; ni en el Registro Nacional de Personas Sancionadas en Materia de Violencia Política contra las Mujeres en Razón de Género.
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 2001)</small>
 
@@ -2507,17 +2569,17 @@ III. Tener cuando menos treinta y cinco años cumplidos al día de la designaci�
 
 IV. Contar con experiencia de al menos cinco años en materia de control, auditoría financiera y de responsabilidades;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
 
-V. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+V. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena. Además, no estar inscrita o inscrito en el Registro de Deudores Alimentarios Morosos en el Estado de Nayarit o en otra entidad federativa; ni en el Registro Nacional de Personas Sancionadas en Materia de Violencia Política contra las Mujeres en Razón de Género;
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
 
-VI. No haber sido Gobernador, Magistrado, Fiscal General, miembro del Consejo de la Judicatura, Senador, Diputado Federal o local, Presidente, Regidor, Síndico o dirigente de algún partido político, ni haber sido postulado para cargo de elección popular en el año inmediato a la propia designación.
+VI. No haber sido Gobernador, Magistrado, Fiscal General, miembro del Consejo de la Judicatura, Senador, Diputado Federal o local, Presidente, Regidor, Síndico o dirigente de algún partido político, ni haber sido postulado para cargo de elección popular en el año inmediato a la propia designación;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
 
-VII. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe conforme a lo establecido en la Constitución Federal y la ley de la materia;
+VII. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe conforme a lo establecido en la Constitución Federal y la ley de la materia, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE AGOSTO DE 2008)</small>
 
@@ -4388,3 +4450,15 @@ SEGUNDO.- Comuníquese el presente Decreto, al titular del Poder Ejecutivo del E
 TERCERO.- De conformidad a lo dispuesto por el artículo 85 numeral 5 objeto de la presente reforma, el Congreso del Estado procederá a designar a la persona suplente, para efectos de cubrir en su caso las ausencias que se presentaren, sin que la ocupación de la persona suplente pueda exceder el tiempo de nombramiento de la persona titular.
 
 CUARTO.- Remítase el presente Decreto a los Ayuntamientos del Estado de Nayarit, para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit.
+
+P.O. 19 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, EN MATERIA DE PARIDAD DE GÉNERO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- La integración de los órganos públicos estatales y áreas administrativas municipales, habrá de realizarse de manera progresiva y equitativa hasta garantizar el principio de paridad de género, a partir de las nuevas designaciones y nombramientos que correspondan, sin que lo anterior implique la prohibición absoluta de designación de un género en específico, siempre que se avance en alcanzar la igualdad sustantiva.
+
+TERCERO.- Dentro de los 180 días naturales posteriores a la publicación oficial del presente Decreto, los Ayuntamientos de la Entidad deberán emitir o adecuar los reglamentos municipales y adoptar las medidas que resulten necesarias para garantizar el cumplimiento del mismo.
+
+CUARTO.- Para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit remítase el presente Decreto a los veinte Ayuntamientos de la entidad.
