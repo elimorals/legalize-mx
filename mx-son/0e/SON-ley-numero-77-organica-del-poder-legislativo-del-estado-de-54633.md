@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2021-11-11"
+last_updated: "2022-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE MAYO DE 2022.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -1090,6 +1090,34 @@ IV.- Puntos resolutivos;
 V.- Proyecto de texto de ley, decreto o acuerdo; y
 
 VI.- Fecha, nombre y firma de los diputados integrantes de la o las comisiones que lo emiten.
+
+> <small>(ADICIONADO, B.O. 19 DE MAYO DE 2022)</small>
+
+ARTÍCULO 98 BIS.- Para el desahogo de los temas del orden del día de la sesión de Comisión, se estará al siguiente procedimiento:
+
+I.- La persona que presida la Comisión dará la bienvenida a las y los integrantes de la Comisión;
+
+II.- La o el Secretario de Comisión correspondiente hará el pase de lista de asistencia y realizará la declaratoria de quórum inicial;
+
+III.- La o el Secretario de Comisión correspondiente dará lectura al orden del día, posteriormente la persona que presida la Comisión lo someterá a la aprobación de las y los integrantes de la Comisión;
+
+IV.- Aprobado el orden (sic) día se procederá el (sic) desahogo de los puntos contemplados dentro de la mismo (sic);
+
+V.- Cuando en el desahogo del orden del día de la sesión se vaya a someter al análisis, discusión y votación (sic) un dictamen, la persona que presida la Comisión podrá_solicitar al Secretario Técnico_que resuma y dé cuenta a las y los integrantes de la Comisión del contenido del dictamen.
+
+La lectura del dictamen se realizará en el siguiente orden:
+
+1) Los antecedentes de la iniciativa objeto del dictamen;
+
+2) Las consideraciones que sustenten el apoyo, modificación o rechazo del contenido de la iniciativa objeto de dictamen; y
+
+3) Los puntos resolutivos del dictamen.
+
+VI.- Una vez agotada la lectura del dictamen, la persona que presida la comisión someterá a votación el dictamen en lo general y en lo particular;
+
+VII.- La o el diputado que disienta del voto de la mayoría deberá estarse a lo dispuesto por el artículo 100 de la presente ley, y
+
+VIII.- Una vez agotados los temas del orden del día, se dará por concluida la sesión.
 
 > <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
 
@@ -2427,6 +2455,10 @@ V.- Una persona con experiencia en el tema de igualdad de género.
 
 VI.- Una persona con experiencia en el tema de Ciencia y Tecnología.
 
+> <small>(ADICIONADA, B.O. 19 DE MAYO DE 2022)</small>
+
+VII.- Una persona con experiencia en los temas de inclusión y personas con discapacidad.
+
 > <small>(ADICIONADO, B.O. 9 DE MAYO DE 2019)</small>
 
 Los jóvenes que hayan integrado el Parlamento Juvenil, podrán ser llamados para ser parte del comité seleccionador para posteriores parlamentos, con la finalidad de considerar la opinión y experiencia desarrollada por los mismos, esto a efecto de enriquecer y fortalecer la figura en cuestión.
@@ -2463,9 +2495,9 @@ II.- Las fechas de registro y de elección.
 
 III.- El proceso o mecanismo de selección.
 
-> <small>(ADICIONADA, B.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, B.O. 19 DE MAYO DE 2022)</small>
 
-IV.- Del mecanismo para que se privilegie la igualdad de género en la elección.
+IV.- Del mecanismo para que se privilegie la igualdad de género, inclusión y grupos étnicos en la elección.
 
 > <small>(ADICIONADA, B.O. 9 DE MAYO DE 2019)</small>
 
@@ -3109,11 +3141,17 @@ SEGUNDO.- El Congreso del estado por conducto de la Comisión de Régimen Intern
 
 TERCERO.- Se ratifica la integración de la Mesa Directiva que se encuentre en funciones a la fecha de entrada en vigor del presente Decreto.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE ABUSO SEXUAL”.]
+B.O. 19 DE MAYO DE 2022.
 
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+> <small>[N. DE E. EL “DECRETO NÚMERO 35, QUE ADICIONA UN ARTÍCULO 98 BIS A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 4 DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE SONORA.]</small>
 
-P.O. 9 DE DICIEMBRE DE 2022.
+B.O. 19 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 41, QUE ADICIONA Y MODIFICA DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, RESPECTO AL TIPO PENAL DE FEMINICIDIO CON RELACIÓN A SUS AGRAVANTES DE TENTATIVA".]
 
