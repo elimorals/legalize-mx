@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-manejo-de-los-recursos-publicos-del-estado-de-10428
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2021-12-23"
+last_updated: "2022-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 20 de diciembre de 2014.
 
@@ -115,6 +115,10 @@ X. Gasto corriente: el que así considera la Ley de Disciplina Financiera de las
 
 XI. Gasto público: la totalidad de las erogaciones aprobadas en el presupuesto de egresos del Estado o de los Municipios, según corresponda, que permiten dar cumplimiento a su plan de desarrollo;
 
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+Conforme a la programación de los recursos, el gasto público podrá ser ejercido a corto o largo plazo conforme a la normativa aplicable a su contratación.
+
 > <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 XII. Gasto social: las erogaciones orientadas a los servicios de salud, educación, procuración de justicia, asistencia social, obra social, concertación, seguridad, cultura, recreación, deporte, investigación y desarrollo económico. Asimismo, incluye la inversión en obras y acciones que determine el titular del Poder Ejecutivo del Estado;
@@ -163,9 +167,9 @@ XXII. Poderes: los Poderes Legislativo, Ejecutivo y Judicial del Estado de Quer�
 
 XXII. Bis. Presupuesto aprobado: el Presupuesto de Egresos del Estado o Municipio, aprobado por la Legislatura o el Ayuntamiento, respectivamente, incluyendo las adecuaciones a los montos que específicamente se autoricen en el Decreto o el Acuerdo, según corresponda;
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-XXIII. Recursos públicos o fondos públicos: los ingresos que con base en las leyes de ingresos obtengan el Estado y los municipios, según sea el caso, así como cualquier bien que conforme la hacienda pública de que se trate;
+XXIII. Recursos públicos o fondos públicos: los ingresos que con base en las leyes de ingresos obtenga el Estado y los municipios, según sea el caso; las transferencias, asignaciones, así como cualquier bien que conforme la hacienda pública de que se trate;
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
@@ -205,13 +209,23 @@ La vigilancia y verificación del correcto y transparente ejercicio del gasto p�
 
 Las funciones previstas en el artículo anterior, respecto del ejercicio de los recursos públicos por parte de los Poderes Legislativo y Judicial, los organismos constitucionales autónomos, tribunales administrativos y los municipios, correrán a cargo de los órganos que resulten competentes de conformidad con lo previsto en sus respectivas leyes orgánicas o disposiciones análogas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2022)</small>
+
 ###### Artículo 7.
 
-Sólo se podrán constituir, modificar o extinguir fideicomisos públicos, con la autorización expresa del Gobernador del Estado.
+Sólo podrán constituir, modificar o extinguir fideicomisos públicos, los titulares de las dependencias o entidades del Poder Ejecutivo del Estado que designe el Gobernador mediante acuerdo administrativo que deberá publicarse en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 La Secretaría y/o quien designe el Gobernador del Estado, serán los fideicomitentes del Poder Ejecutivo del Estado.
 
 En el caso de los municipios será el ayuntamiento quien autorice la creación, modificación o extinción de los fideicomisos públicos y designe al fideicomitente.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+Los fideicomisos podrán constituirse con las aportaciones de recursos públicos o privados, así como con la incorporación de bienes inmuebles patrimonio del Poder Ejecutivo del Estado o Municipio de que se trate. De igual manera, su constitución podrá vincularse con compromisos contractuales de los sujetos de la Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+Los fideicomitentes deberán de reportar de manera semestral a la Secretaría la información correspondiente a los fideicomisos, respecto a los recursos públicos que integren los mismos, a través del sistema de información a cargo de ésta.
 
 > <small>(ADICIONADO, P.O. 9 DE MAYO DE 2018)</small>
 
@@ -609,7 +623,17 @@ Los Sujetos de la Ley no podrán efectuar ningún egreso que no esté previsto e
 
 Los Presupuestos de Egresos del Estado y de los municipios no deberán contener partidas presupuestales secretas o confidenciales o cuyo fin no sea claro y específico.
 
-En los Presupuestos de Egresos del Estado y de los municipios, se incluirán las partidas necesarias para solventar obligaciones que constituyan deuda pública del Estado y de las demás entidades que cuenten con la garantía del Estado, cuando dichas obligaciones hayan sido incurridas en ejercicios fiscales anteriores y comprendan dos o más ejercicios fiscales, conforme a lo autorizado por las leyes y decretos correspondientes, así como las que se deriven de los proyectos de inversión y prestación de servicios aprobados conforme a la ley.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
+
+En los Presupuestos de Egresos del Estado y de los municipios, se incluirán las partidas necesarias para solventar obligaciones que constituyan deuda pública del Estado, y de las demás entidades que cuenten con la garantía del Estado, cuando dichas obligaciones hayan sido incurridas en ejercicios fiscales anteriores y comprendan dos o más ejercicios fiscales, conforme a lo autorizado por las leyes y decretos correspondientes, así como las que se deriven de compromisos plurianuales contratados en términos de la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+En los Presupuestos de Egresos del Estado y de los municipios se deberá prever, el gasto correspondiente a los compromisos plurianuales que se autoricen en los términos del artículo 55 TER de esta Ley, los cuales se deriven de contratos de obra pública, adquisiciones, arrendamientos, servicios de cualquier índole, así como concesiones.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+Los compromisos excedentes no cubiertos, de los compromisos antes señalados, tendrán preferencia respecto de otras previsiones de gasto, quedando sujetos a la disponibilidad presupuestaria anual.
 
 ###### Artículo 39.
 
@@ -631,7 +655,9 @@ c) Ingresos y gastos reales del primero de octubre del año anterior al treinta 
 
 II. La que señalen la Ley General de Contabilidad Gubernamental y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-III. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2016)
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2022)</small>
+
+III. Los gastos que correspondan a los compromisos plurianuales;
 
 IV. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2016)
 
@@ -799,6 +825,16 @@ El contrato de fideicomiso o el fondo de pensiones y jubilaciones que se constit
 
 III. El incumplimiento a lo establecido en las fracciones anteriores por parte de los titulares de las dependencias y ejecutores de gasto, será sancionado en términos de lo que señalen las disposiciones jurídicas aplicables en materia de responsabilidades administrativas.
 
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+###### Artículo 54 Bis.
+
+Las dependencias y entidades, así como los municipios, podrán llevar a cabo todos los trámites necesarios para realizar contrataciones de adquisiciones, arrendamientos, servicios de cualquier índole, obra pública y concesiones, con el objeto de que los recursos se ejerzan oportunamente en los ejercicios fiscales que correspondan pudiendo establecer compromisos plurianuales.
+
+Las dependencias y entidades, podrán solicitar a la Secretaría o su equivalente en las entidades la autorización presupuestal para convocar, adjudicar y, en su caso, formalizar tales contratos, en su caso la autorización de los compromisos plurianuales debiendo éstos ser contemplados por los ejecutores del gasto en sus propuestas de presupuesto de egresos que correspondan.
+
+Las contrataciones estarán sujetas a la suficiencia presupuestal o a la autorización de compromisos plurianuales, por lo que sus efectos estarán condicionados a la existencia de los recursos presupuestarios respectivos, sin que la no realización de la referida condición suspensiva origine responsabilidad alguna para las partes.
+
 > <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 55.
@@ -826,6 +862,26 @@ Atendiendo a su autonomía presupuestal, en el caso de los Poderes Legislativo y
 ###### Artículo 55 Bis.
 
 Corresponde a las oficialías mayores o equivalentes de los Sujetos de la Ley, emitir las disposiciones administrativas que permitan la racionalidad en el ejercicio del gasto corriente, establecer los mecanismos de control para una adecuada gestión y manejo de dicho gasto, de los almacenes y los inventarios, así como emitir los lineamientos en materia del ejercicio de recursos tratándose de servicios personales.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+###### Artículo 55 Ter.
+
+Los ejecutores de gasto deberán solicitar la autorización de la Secretaria o en su caso la equivalente de los sujetos de la Ley, para la celebración de compromisos plurianuales de adquisiciones, arrendamientos, servicios de cualquier índole, obras públicas y concesiones, durante el ejercicio fiscal siempre que:
+
+I. Justifiquen que su celebración representa ventajas económicas, simplificación administrativa o que sus términos o condiciones sean más favorables;
+
+II. Justifiquen el plazo de la contratación de que se trate; y
+
+III. Desglosen el gasto a precios del año para el ejercicio fiscal correspondiente y de los subsecuentes.
+
+La Secretaria o en su caso la dependencia encargada de las finanzas públicas de los Municipios, expedirá la suficiencia presupuestal y la viabilidad financiera de los compromisos plurianuales.
+
+Las dependencias y entidades deberán informar a la Secretaría de la Contraloría o en su caso al Órgano Interno de Control que corresponda, así como a la Secretaría o su equivalente en los Municipios, sobre la celebración de los contratos a que se refiere este artículo, dentro de los 30 días hábiles posteriores a su formalización.
+
+Los Poderes, organismos constitucionales autónomos y municipios, a través de sus respectivas dependencias encargadas de las finanzas públicas, podrán autorizar la celebración de compromisos plurianuales siempre y cuando cumplan con lo dispuesto en el presente artículo y demás disposiciones aplicables.
+
+Los ejecutores de gasto deberán de incluir en sus propuestas de presupuesto de egresos, conforme al ejercicio fiscal que corresponda, los compromisos plurianuales generados por éstos, remitiéndolos de manera integral a la Secretaría o su equivalente en los sujetos de la Ley. La Secretaría o su equivalente en los sujetos de la Ley propondrá su incorporación en el Proyecto de Presupuesto de Egresos del ejercicio fiscal que corresponda.
 
 ###### Artículo 56.
 
@@ -1279,11 +1335,13 @@ El presente capítulo regula el Sistema de Alertas que se establece como mecanis
 
 Dicho Sistema será administrado por la Entidad Superior de Fiscalización del Estado de Querétaro. Para tal efecto, dicho ente podrá emitir las disposiciones administrativas que correspondan.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 109.
 
-El Sistema de Alertas deberá revelar, el saldo pendiente por pagar, así como los compromisos de pago de los siguientes tres ejercicios fiscales, derivados de créditos, financiamientos, arrendamientos puros o financieros, y de cualquier otro instrumento jurídico que contemple obligaciones plurianuales de pago y de contratos de asociaciones público privadas.
+El Sistema de Alertas deberá revelar, el saldo pendiente por pagar, así como los compromisos de pago de los siguientes tres ejercicios fiscales, derivados de créditos, financiamientos, arrendamientos puros o financieros, y de cualquier otro instrumento jurídico que contemple compromisos plurianuales o contratos de asociaciones público privadas.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 De igual forma, el Sistema de Alertas deberá revelar la situación que guardan las observaciones emitidas por los entes fiscalizadores.
 
@@ -2306,3 +2364,81 @@ XXV. Para los Asentamientos en proceso de regularización con la Comisión de Re
 ###### ARTÍCULO DÉCIMO.
 
 Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 20 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE GOBIERNO DIGITAL Y EL EJERCICIO DE FUNCIONES PÚBLICAS".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Las disposiciones legales y administrativas expedidas en la materia regulada por esta Ley, vigentes al momento de la publicación de la misma, se mantendrán en vigor en lo que no se opongan a la misma, hasta en tanto se expidan las disposiciones que deban sustituirlas.
+
+Artículo Cuarto. Los sujetos de la Ley, en cumplimiento del objeto de la misma, deberán desarrollar e implementar los portales, plataformas, aplicaciones, o cualquier otra herramienta tecnológica para efectos de sus trámites y servicios, en un plazo no mayor a dos años contados a partir del día en que entre en vigor la presente Ley.
+
+Artículo Quinto. Las facultades que de conformidad con la presente Ley deban ejercer los sujetos de la Ley, las llevarán a cabo a través de los órganos o instancias que correspondan, de conformidad con el ámbito de competencia respectivo.
+
+Artículo Sexto. Dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente ordenamiento, se deberá instalar la Comisión Estatal de Gobierno Digital.
+
+Artículo Séptimo. Los Sujetos de la Ley deberán realizar las adecuaciones a sus reglamentos, disposiciones administrativas y demás normatividad que sea necesaria para dar cumplimiento a la presente Ley, a más tardar a los 360 días naturales siguientes a la entrada en vigor de la misma.
+
+Artículo Octavo. Se autoriza a la Secretaría para realizar las adecuaciones presupuestarias que se requieran para dar cumplimiento a las disposiciones comprendidas en esta Ley.
+
+Artículo Noveno. Con la finalidad de dar cumplimiento a lo establecido por el artículo 4 primer párrafo de la Ley del Notariado del Estado de Querétaro, los Notarios nombrados con anterioridad al inicio de vigencia tendrán derecho a la asignación de un número.
+
+Los Notarios que tengan a su cargo el protocolo más antiguo, conservarán el número de la Notaría a la que hayan sido designados.
+
+Los Notarios que tengan a su cargo protocolo con menor antigüedad dentro de una misma Notaría, se les asignará el número que de manera consecutiva y progresiva corresponda, considerando el último número de la demarcación notarial y el de la Notaría al que originariamente fueron designados.
+
+En congruencia con lo anterior, la asignación de números a los Notarios deberá comenzar de la siguiente manera:
+
+a) Para la demarcación notarial de Querétaro, la asignación comienza desde el número 39 al 76.
+
+b) Para la demarcación notarial de San Juan del Río, la asignación comienza desde el número 12 al 22.
+
+c) Para la demarcación notarial de Cadereyta de Montes, la asignación comienza desde el número 3 al 4.
+
+d) Para la demarcación notarial de Tolimán, la asignación comienza desde el número 3 al 4.
+
+e) Para la demarcación notarial de Amealco de Bonfil, la asignación comienza desde el número 3 al 4.
+
+f) Para la demarcación notarial de Jalpan de Serra, la asignación comienza desde el número 3 al 4.
+
+Los Notarios nombrados con anterioridad al inicio de la vigencia de la presente Reforma, conservarán su demarcación notarial.
+
+La asignación de los números a los Notarios designados con anterioridad al inicio de la presente Reforma, autoriza la actualización del nombramiento, en la que se precise el número correspondiente, atendiendo a lo expuesto en los párrafos anteriores.
+
+En apego a lo establecido por los artículos 11 y 23 de la Ley del Notariado del Estado de Querétaro, los Notarios a los que se les haya asignado número deberán realizar las gestiones para la actualización de su sello.
+
+Los Notarios que tengan autorizada una licencia al momento de la entrada en vigor de la presente Ley, podrán realizar la sustitución de su sello, comunicaciones y demás gestiones, una vez que reinicien sus funciones. No obstante, se procederá con la actualización de su nombramiento en los términos señalados anteriormente.
+
+Los Notarios nombrados con anterioridad al inicio de la vigencia de la presente Ley, podrán realizar las gestiones y comunicaciones oficiales de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro, para asociarse en los términos de la presente Ley.
+
+Los Notarios que opten por no asociarse, deberán informar dentro de un plazo de hasta seis meses, a la Secretaría de Gobierno del Poder Ejecutivo del Estado, el domicilio en que se instalará su Notaría dentro de la demarcación notarial a la que hayan sido asignados, así como la designación de su suplente en los términos de la presente Ley.
+
+Los Notarios que opten por no asociarse, tendrán un plazo de 90 días, contados a partir de la entrada en vigor de esta Ley, para la designación de su suplente. Si transcurrido el plazo, el Notario no presenta el acuerdo de suplencia mencionado, la Secretaría de Gobierno del Poder Ejecutivo del Estado, previa opinión del Consejo de Notarios del Estado, oficiosamente le nombrará un Notario Suplente.
+
+Artículo Décimo. A efecto de dar cumplimiento a lo establecido en el Artículo Transitorio inmediato anterior, permanecerán en cada Notaría los protocolos existentes a la fecha de entrada en vigor de la presente Ley, por lo que se realizará para este efecto, una diligencia de entrega recepción del protocolo, de la que se levantará el acta correspondiente, y donde se relacionarán de manera rigurosa los trámites pendientes de concluir por parte del Notario a quien se le asignará nuevo número de Notaría.
+
+En la mencionada diligencia, se recogerá el sello del Notario al que se le haya asignado nuevo número de Notaría, para su destrucción, deberán de asistir a ésta, la persona titular de la Dirección del Archivo General de Notarías que será el representante de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro que se designe para ese efecto, así como el Notario que conserva el número de Notaría, y el Notario al que se le haya designado nuevo número.
+
+Artículo Décimo Primero. Mientras continúe en funciones, cada Notario seguirá siendo responsable de la conclusión de los Instrumentos que hayan pasado ante su fe.
+
+El Notario que conserve el número de Notaría que tenía asignada a la entrada en vigor de la presente Ley, permitirá que el otro Notario que haya actuado en el Protocolo de dicha Notaría concluya los Instrumentos pasados ante su fe.
+
+Los Notarios a quienes se asigne nuevo número, además de actuar en su nuevo Protocolo, quedan obligados a concluir los Instrumentos que pasaron ante su fe antes de la entrada en vigor de la presente Ley, en cuyo caso actuarán con su nuevo sello, dejando expresamente asentada la razón de ello.
+
+Una vez terminados los trámites pendientes, el Notario al que se le asignó nuevo número de Notaría, deberá de informarlo a la Secretaría de Gobierno y al Director del Archivo General de Notarías, para efectos de su clausura y resguardo en el Archivo General de Notarías.
+
+A las diligencias de clausura del protocolo, deberá (sic) de asistir las personas señaladas en el artículo transitorio inmediato anterior. De la mencionada diligencia se levantará el acta correspondiente.
+
+Artículo Décimo Segundo. Los Notarios en funciones, en el plazo de 180 días siguientes a partir de la vigencia de esta Ley, deberán de dar cabal cumplimiento a la fracción V del artículo 22 de esta Ley.
+
+Artículo Décimo Tercero. Los Notarios en funciones que tuvieren folios no utilizados de su protocolo anterior, podrán utilizarlos como parte de su nuevo protocolo, para lo cual deberán dar aviso al Archivo General de Notarías y al Consejo de Notarios del Estado, en el término de diez días sobre cuántos y cuáles folios autorizados y sin autorizar se tienen sin usar, a efecto de que dichos folios puedan ser legalmente utilizados asentando razón de ello tanto en el anterior como en el nuevo protocolo. Cuando se utilice el último de dichos folios, se anotará en el nuevo protocolo, que se inicia la utilización de los folios con el nuevo número de Notaría asignado.
+
+Artículo Décimo Cuarto. Las hojas de testimonio que deberán utilizar los Notarios, en los términos a que se refiere el artículo 90 de esta Ley, deberán comenzar a utilizarlas dentro del plazo de 180 días contados a partir de la entrada en vigor de la presente Ley.
+
+Artículo Décimo Quinto. La Secretaría de Gobierno del Poder Ejecutivo, dictará las provisiones necesarias para el cumplimiento de lo dispuesto en la presente Ley, atendiendo a las circunstancias que se presenten con motivo de la asignación de los números a los Notarios.
+
+Artículo Décimo Sexto. Las contrataciones de servicios integrales a largo plazo previstos en la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro o compromisos plurianuales, celebradas en el ejercicio fiscal 2022, les serán aplicables las disposiciones contenidas en los Artículos Tercero, Cuarto y Quinto de la presente Ley.
