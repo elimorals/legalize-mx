@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-etica-de-los-servidores-publicos-del-poder-136483"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-05-31"
-last_updated: "2019-05-31"
+last_updated: "2022-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136483&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, PUBLICADO EN EL B.O. DE 20 DE MAYO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADO EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2022 (ABROGADO).
 
 Código publicado en el Número 25 del Boletín Oficial del Estado de Baja California Sur, el viernes 31 de mayo de 2019.
 
@@ -264,3 +266,19 @@ La Paz, Baja California Sur, a 08 de abril de 2019.- La Contralora General, Soni
 Sonia Murillo Manríquez
 
 Contralora General
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 20 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EXPIDE EL CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+PRIMERO. El presente Código entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Se abroga el Código de Ética de los Servidores Públicos del Poder Ejecutivo del Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 31 de mayo del 2019.
+
+TERCERO. Las dependencias y entidades que a la entrada en vigor del presente Código de Ética hayan implementado acciones efectivas para que la totalidad de las personas servidoras públicas suscribieran la Carta Compromiso conforme al Código de Ética de los Servidores Públicos del Poder Ejecutivo del Estado de Baja California Sur que se abroga, no estarán obligadas a implementarlas nuevamente, salvo aquellos casos en que no se hubiere concretado la suscripción de dicho documento, o tratándose de personas de nuevo ingreso.
+
+CUARTO. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código de Ética, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+SÉPTIMO (SIC). La normativa que rige a los Comités de Ética, así como a los mecanismos de coordinación y evaluación permanecerán vigentes, salvo disposición en contrario.
