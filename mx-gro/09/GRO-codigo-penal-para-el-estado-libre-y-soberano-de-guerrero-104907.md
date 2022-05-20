@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2021-09-03"
+last_updated: "2022-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2022.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -1751,51 +1751,69 @@ Cuando el cónyuge, concubina, concubinario o pareja sentimental, instigue o ayu
 
 Concepto de aborto
 
-Aborto es la muerte del producto de la concepción en cualquier momento del embarazo.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
+
+Aborto es la interrupción del embarazo.
 
 ###### Artículo 155.
 
 Aborto con consentimiento
 
-A quien hiciere abortar a una mujer con consentimiento de ésta, se le impondrán de uno a tres años de prisión.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
+
+A quien practique el aborto a una mujer transcurridas las doce semanas de embarazo, con consentimiento de ésta, se le impondrá de seis meses a dos años de prisión, con excepción de las excluyentes de responsabilidad.
 
 ###### Artículo 156.
 
 Aborto sin consentimiento
 
-A quien hiciere abortar a una mujer sin su consentimiento, se le impondrán de tres a ocho años de prisión. Si mediare violencia física o moral se impondrán de seis a nueve años de prisión.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
+
+A quien hiciere abortar a una mujer sin su consentimiento, en cualquier momento del embarazo, se le impondrán de tres a ocho años de prisión. Si mediare violencia física o moral se impondrán de seis a nueve años de prisión.
 
 ###### Artículo 157.
 
 Aborto específico
 
-Si el aborto lo causare un médico cirujano, comadrón o partera, enfermero o practicante, además de las consecuencias jurídicas que le correspondan conforme a este capítulo, se le suspenderá por el tiempo de la pena de prisión impuesta en el ejercicio de su profesión u oficio.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
+
+Si el aborto lo causare un médico cirujano, comadrón o partera, enfermero o practicante, y se practicase sin el consentimiento de la mujer embarazada, además de las consecuencias jurídicas que le correspondan conforme al artículo anterior, se le suspenderá por el tiempo de la pena de prisión impuesta en el ejercicio de su profesión u oficio.
 
 ###### Artículo 158.
 
-Aborto voluntario
-
-A la mujer que voluntariamente practique su aborto o consienta en que otro la haga abortar, se le impondrán de uno a tres años de prisión. En este caso, el delito de aborto sólo se sancionará cuando se haya consumado.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
-
-La autoridad judicial podrá imponer hasta una tercera parte de la pena prevista en este artículo, ponderando, además de lo dispuesto en el artículo 74, el estado de salud de la mujer, su instrucción y demás condiciones personales, las circunstancias en que se produjo la concepción, el tiempo que hubiere durado el embarazo, la posición y condición de género, y en general, todos los elementos que conduzcan a resolver equitativamente el asunto.
+(DEROGADO, P.O. 20 DE MAYO DE 2022)
 
 ###### Artículo 159.
 
 Excluyentes de responsabilidad específicas
 
-La responsabilidad penal por el delito de aborto se excluye en los siguientes casos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MAYO DE 2022)</small>
 
-I. Cuando el embarazo sea resultado de una violación o de una inseminación artificial no consentida, caso en el cual bastará la comprobación de los hechos por parte del Ministerio Público para autorizar su práctica;
+La responsabilidad penal por el delito de aborto con consentimiento se excluye en los siguientes casos:
 
-II. Cuando de no provocarse el aborto, la mujer embarazada corra peligro de afectación grave a su salud a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-III. Cuando a juicio de dos médicos especialistas exista razón suficiente para diagnosticar que el producto presenta alteraciones genéticas o congénitas que puedan dar como resultado daños físicos o mentales, al límite que puedan poner en riesgo la sobrevivencia del mismo, siempre que se tenga el consentimiento de la mujer embarazada; o,
+I. Cuando el embarazo sea resultado de una violación o de una inseminación artificial no consentida, sin necesidad de que exista denuncia por dichos delitos;
 
-IV. Que sea resultado de una conducta culposa de la mujer embarazada.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-En estos casos, los médicos tendrán la obligación de proporcionar a la mujer embarazada, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos; así como de los apoyos y alternativas existentes, con la finalidad de que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable.
+II. Cuando de no provocarse el aborto, la mujer embarazada corra peligro de afectación a su salud o esté en riesgo su vida, situación que deberá asentarse en el dictamen que emita el médico que la asista;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
+
+III. Cuando a juicio de un médico especialista en la materia, sustentado en estudios específicos, exista razón suficiente para diagnosticar que el producto presenta alteraciones genéticas o congénitas que puedan dar como resultado daños físicos o mentales, siempre que se tenga el consentimiento de la mujer embarazada;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
+
+IV. Que sea resultado de una conducta culposa de la mujer embarazada; o
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2022)</small>
+
+V. Cuando se acredite por cualquier medio que alguna autoridad le hubiese negado a la mujer embarazada la posibilidad de interrumpir su embarazo dentro de las primeras doce semanas de la gestación.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
+
+En estos casos, los médicos tendrán la obligación de proporcionar a la mujer embarazada, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos.
 
 ## Título Segundo. Procreación asistida, inseminación artificial y manipulación genética
 
@@ -1895,7 +1913,9 @@ No se procederá contra la madre que entregue a su hijo por ignorancia o pobreza
 
 Abandono injustificado de mujer embarazada
 
-Se impondrá de seis meses a tres años de prisión, multa de ciento cincuenta a quinientas veces el Valor Diario de la Unidad de Medida y Actualización, y privación de derechos familiares, a quien, a pesar de que este cuente a su disposición de recursos materiales para su subsistencia, abandone a una mujer a la que sabe ha embarazado, si ésta carece de los recursos necesarios para atender a su alimentación, habitación y salud.
+(NOTA: EL 4 DE NOVIEMBRE DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 146/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE SEPTIEMBRE DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 843, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Se impondrá de seis meses a tres años de prisión, multa de ciento cincuenta a quinientas veces el Valor Diario de la Unidad de Medida y Actualización, Y PRIVACIÓN DE DERECHOS FAMILIARES, a quien, a pesar de que este cuente a su disposición de recursos materiales para su subsistencia, abandone a una mujer a la que sabe ha embarazado, si ésta carece de los recursos necesarios para atender a su alimentación, habitación y salud.
 
 Pudiéndose incrementar un tercio de las sanciones especificadas en el párrafo anterior, cuando derivado del abandono resultare con lesiones o se haya puesto en riesgo la salud de la mujer embarazada o en riesgo la salud del producto concebido.
 
@@ -5038,3 +5058,15 @@ PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicac
 SEGUNDO.- Remítase al titular del Poder Ejecutivo para su conocimiento para los efectos legales conducentes.
 
 TERCERO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
+
+P.O. 20 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 180 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499 , EN MATERIA DE ABORTO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- En un período máximo de 120 días contados a partir de la entrada en vigor del presente Decreto, el Congreso del Estado de Guerrero armonizará, conforme a las disposiciones del presente Decreto, la Ley número 1212 de Salud del Estado de Guerrero.
+
+TERCERO.- Comuníquese al Ejecutivo del Estado para los efectos legales conducentes.
+
+CUARTO.- Publíquese en el Periódico Oficial del Gobierno del Estado y en la Página Web Oficial de este Honorable Congreso, para su conocimiento general.
