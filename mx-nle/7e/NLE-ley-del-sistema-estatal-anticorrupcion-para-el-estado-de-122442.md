@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-sistema-estatal-anticorrupcion-para-el-estado-de-122442
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-06"
-last_updated: "2021-02-19"
+last_updated: "2022-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 6 de julio de 2017.
 
@@ -723,11 +723,27 @@ La Ley de Gobierno Municipal establecerá las bases para que los municipios del 
 
 Los municipios del Estado emitirán un Reglamento Municipal Anticorrupción, conforme a los principios de la Ley General, de la Ley de Gobierno Municipal y de esta Ley; así mismo deberán contar con un Código de Ética y Conducta para los Servidores Públicos del Gobierno Municipal correspondiente, en el que se contengan los principios y valores que deberán observar los servidores públicos de ese Gobierno Municipal, el cual deberá ser aprobado por el Ayuntamiento y publicado en el Periódico Oficial del Estado y, en su caso, en la Gaceta Municipal correspondiente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MAYO DE 2022)</small>
+
+El Reglamento Municipal Anticorrupción deberá incluir, como mínimo, lo siguiente:
+
+I. Principios rectores y bases para la prevención de hechos de corrupción y faltas administrativas;
+
+II. Medidas encaminadas para la detección, combate y disuasión de la corrupción;
+
+III. Acciones permanentes que promuevan la cultura de la rendición de cuentas y transparencia en el control de los recursos públicos; y
+
+IV. Programas de capacitación para los servidores públicos municipales en materia de prevención y combate a la corrupción.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 20 DE MAYO DE 2022)</small>
+
 Los municipios difundirán de manera permanente entre sus servidores públicos, los principios y valores a que se refieren el artículo 5 de esta Ley y harán constar por escrito que la relación de los mismos les fueron entregados a cada servidor público, lo cual deberá constar en su expediente laboral.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 20 DE MAYO DE 2022)</small>
 
 Los municipios realizarán capacitaciones frecuentes sobre anticorrupción y el Código de Ética y Conducta, debiendo reportarlas conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León.
 
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2019)</small>
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 20 DE MAYO DE 2022)</small>
 
 En apoyo a lo dispuesto por este artículo, los municipios crearán la Comisión Anticorrupción.
 
@@ -922,3 +938,13 @@ P.O. 19 DE FEBRERO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 160. SE REFORMAN LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO Y SE ADICIONA UN PÁRRAFO SEXTO AL ARTÍCULO 43, DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN PARA EL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, los municipios deberán realizar las adecuaciones normativas correspondientes.
+
+TERCERO.- Quedan derogadas todas las disposiciones que contravengan el presente Decreto.
