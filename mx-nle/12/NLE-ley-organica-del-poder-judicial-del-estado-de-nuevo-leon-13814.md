@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-judicial-del-estado-de-nuevo-leon-13814"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-08"
-last_updated: "2018-01-22"
+last_updated: "2022-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 8 de febrero de 1999.
 
@@ -41,11 +41,11 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEÓN
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### ARTÍCULO 1.
 
-Esta Ley es de orden público y tiene por objeto regular la organización y funcionamiento del Poder Judicial del Estado, a quien corresponde ejercer las atribuciones que le competen en materia de control constitucional local, en los asuntos de orden civil, familiar, penal, de adolescentes infractores y en los del orden federal en los casos en que las leyes de la materia le confiera jurisdicción.
+Esta Ley es de orden público y tiene por objeto regular la organización y funcionamiento del Poder Judicial del Estado, a quien corresponde ejercer las atribuciones que le competen en materia de control constitucional local, en los asuntos de orden civil, familiar, penal, de adolescentes infractores, laboral y en los del orden federal en los casos en que la ley de la materia le confiera jurisdicción.
 
 ###### ARTÍCULO 2.
 
@@ -139,23 +139,21 @@ XVI. Los Juzgados de Jurisdicción Concurrente;
 
 XVII. Los Juzgados de Juicio Oral Mercantil;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MAYO DE 2022)</small>
 
-> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2012)</small>
+XVIII. Los Juzgados Laborales;
 
-XVIII. Los Juzgados de Jurisdicción Mixta;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE MAYO DE 2022)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XIX. Los Juzgados de Jurisdicción Mixta;
 
-> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE MAYO DE 2022)</small>
 
-XIX. Los Juzgados Supernumerarios; y
+XX. Los Juzgados Supernumerarios; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE MAYO DE 2022)</small>
 
-> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2012)</small>
-
-XX. Los Juzgados Menores.
+XXI. Los Juzgados Menores.
 
 En el Poder Judicial habrá un Consejo de la Judicatura del Estado el cual tendrá las atribuciones que le señala la Constitución Política del Estado y esta Ley.
 
@@ -228,6 +226,12 @@ Las partidas presupuestales asignadas al Poder Judicial serán ejercidas en form
 ###### ARTÍCULO 5.
 
 En los órganos del Poder Judicial del Estado, se considerarán como días inhábiles: los sábados y domingos, el 1° de enero, 5 de febrero, 21 de marzo, 1° de mayo, 5 de mayo, 16 de septiembre, 20 de noviembre, 25 de diciembre, así como aquellos que se determinen en el calendario oficial o cuando se suspendan las labores por orden del Tribunal Superior de Justicia, durante los cuales no se practicarán actuaciones judiciales, salvo en los casos expresamente considerados en la Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+ARTÍCULO 5 BIS.- El Tribunal Superior de Justicia y el Consejo de la Judicatura, en el ámbito de sus respectivas competencias, podrán establecer criterios de operación relacionados con el Tribunal Virtual y determinar los servicios que se prestarán por ese medio.
+
+Asimismo, podrán autorizar la práctica de actos judiciales por vía electrónica y, en su caso, su autenticación a través de la tecnología de firma electrónica o algún otro componente que se estime apropiado para esos fines. Lo mismo será aplicable para las áreas y trámites administrativos.
 
 ### CAPÍTULO SEGUNDO. DE LA DISTRITACIÓN JUDICIAL
 
@@ -315,7 +319,9 @@ Corresponde al Pleno:
 
 I. Ejercer las atribuciones que establece el artículo 96 de la Constitución Política del Estado, con excepción de las atribuidas a las Salas;
 
-II. Calificar en cada caso la recusación de un Magistrado, en los términos que disponen los Códigos de Procedimientos Civiles y Penales y demás leyes;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
+
+II. Calificar en cada caso la recusación de un Magistrado o Juez, en los términos que disponen los Códigos de Procedimientos Civiles y Penales y demás leyes;
 
 III. Exigir al Presidente del Tribunal el fiel cumplimiento de sus obligaciones y señalar la responsabilidad en que incurra en el ejercicio de sus funciones;
 
@@ -409,9 +415,7 @@ XIII. Cuidar que la secretaría respectiva lleve un Libro en el que se tome raz�
 
 XIV. Recibir las quejas que se le presenten por la conducta del personal del Tribunal Superior de Justicia y las áreas a su cargo, y presentarlas al Pleno para los efectos legales correspondientes, llevando registro de éstas;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
-
-XV. Turnar las controversias de inconstitucionalidad local y las acciones de inconstitucionalidad local, al Magistrado que determine para la instrucción del juicio y la elaboración del proyecto de sentencia correspondiente; y
+XV. (DEROGADA, P.O. 20 DE MAYO DE 2022)
 
 > <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2004)</small>
 
@@ -671,17 +675,17 @@ XV. Los Jueces de Jurisdicción Concurrente;
 
 XVI. Los Jueces de Juicio Oral Mercantil;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MAYO DE 2022)</small>
 
-> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2012)</small>
+XVII. Los Jueces de lo Laboral;
 
-XVII. Los Jueces de Jurisdicción Mixta que funcionen en los diversos Distritos Judiciales donde no existan Juzgados para cada una de las materias; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE MAYO DE 2022)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XVIII. Los Jueces de Jurisdicción Mixta que funcionen en los diversos Distritos Judiciales donde no existan Juzgados para cada una de las materias; y
 
-> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2012)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE MAYO DE 2022)</small>
 
-XVIII. Los Jueces Supernumerarios.
+XIX. Los Jueces Supernumerarios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2004)</small>
 
@@ -969,6 +973,16 @@ ARTÍCULO 36 BIS 8.- Los Jueces de Juicio Oral Mercantil conocerán de los asunt
 
 ARTÍCULO 36 BIS 9.- Los Jueces en Materia de Narcomenudeo conocerán de los delitos contra la salud, en su modalidad de narcomenudeo, en los términos que señale la Ley General de Salud.
 
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+ARTÍCULO 36 BIS 10.- Corresponde a los Jueces de lo Laboral:
+
+I. Conocer y resolver los conflictos de trabajo que se susciten dentro de su jurisdicción, que no sean competencia federal, entre trabajadores y patrones, solo entre aquellos o solo entre estos, derivado de las relaciones de trabajo o de hechos relacionados con ellas, en los términos y lineamientos que señale la Ley Federal del Trabajo y demás leyes aplicables.
+
+II. Conocer y tramitar los exhortos, suplicatorias, requisitorias y despachos relacionados con el derecho laboral; y
+
+III. Ejercer las demás atribuciones que esta Ley y otros ordenamientos jurídicos le otorguen.
+
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 37.
@@ -977,13 +991,11 @@ Para el efecto de agilizar y mejorar la impartición de justicia, el Consejo de 
 
 Los Juzgados Supernumerarios conocerán los negocios y casos correspondientes según su materia que constituyan rezago. Agotado éste o en vías de extinguirse, el Consejo de la Judicatura, queda facultado, a propuesta del Tribunal Superior de Justicia, para asignarlo como Juzgado Permanente con el número que corresponda o bien acordar su desaparición.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### ARTÍCULO 38.
 
-Los Jueces Mixtos tendrán las atribuciones y funciones que las leyes señalan para los Jueces de lo Civil, de Juicio Civil Oral, de lo Familiar, de Juicio Familiar Oral, de lo Penal, de Preparación de lo Penal, de Control, de Jurisdicción Concurrente y de Juicio Oral Mercantil, así como los demás que les encomiende esta Ley u otros ordenamientos jurídicos vigentes.
+Los Jueces Mixtos tendrán las atribuciones y funciones que las leyes señalan para los Jueces de lo Civil, de Juicio Civil Oral, de lo Familiar, de Juicio Familiar Oral, de lo Penal, de Preparación de lo Penal, de Control, de Jurisdicción Concurrente, de Juicio Oral Mercantil y de lo Laboral, así como los demás que les encomiende esta Ley u otros ordenamientos jurídicos vigentes.
 
 ###### ARTÍCULO 39.
 
@@ -1019,11 +1031,15 @@ Para ser Secretario de Juzgado de Primera Instancia se necesitan los mismos requ
 
 El Primer Secretario será el jefe inmediato de la oficina en el orden administrativo y dirigirá las labores de acuerdo con las instrucciones y determinaciones del Juez, a quien sustituirá en sus faltas temporales en los términos de esta ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+Lo anterior será aplicable para los Secretarios Instructores en el caso de los Juzgados Laborales, quienes, además, tendrán las atribuciones que les confiere la Ley Federal del Trabajo, así como las establecidas en el artículo siguiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### ARTÍCULO 44.
 
-Son atribuciones de los Secretarios de los Juzgados de lo Civil, de lo Familiar y de Jurisdicción Concurrente:
+Son atribuciones de los Secretarios de los Juzgados de lo Civil, de lo Familiar, de Jurisdicción Concurrente y Laborales:
 
 I. Designar al servidor público judicial encargado de recibir los escritos que se presenten, quien asentará al calce la razón del día y hora de la presentación, expresando las fojas que contengan los documentos que se acompañan; así mismo deberán poner razón idéntica en la copia cuando se exhiba, así como su firma y el sello del Juzgado, para que dicha copia quede en poder del propio interesado para su resguardo;
 
@@ -1099,13 +1115,17 @@ IV. Las demás que la ley o los otros ordenamientos jurídicos les otorguen.
 
 Los asistentes jurídicos de los Juzgados de Control, Juicio Oral del sistema acusatorio y Ejecución de Sanciones Penales tendrán las facultades que determine el Consejo de la Judicatura mediante acuerdos generales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO 46.
 
-Los Actuarios que funcionen en los diversos juzgados de primera instancia deberán cumplir con los requisitos establecidos en el artículo 29 de esta Ley y tendrán las siguientes obligaciones:
+Los Actuarios que funcionen en los diversos juzgados de primera instancia o en forma centralizada en la Unidad de Medios de Comunicación Judicial, deberán cumplir con los requisitos establecidos en el artículo 29 de esta Ley y tendrán las siguientes obligaciones:
 
 I. Concurrir diariamente al lugar donde presten sus servicios, durante las horas que fije el titular de la oficina;
 
-II. Recibir de los Secretarios los expedientes de notificaciones personales o de diligencias que deban llevarse al (sic) cabo fuera de la oficina, firmando los comprobantes de recepción;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
+
+II. Recibir los expedientes de notificaciones personales o de diligencias que deban llevarse a cabo fuera de la oficina, firmando los comprobantes de recepción;
 
 III. Hacer las notificaciones personales y practicar las diligencias que se decreten, dentro de las horas hábiles, devolviendo los expedientes, previas las anotaciones en el libro correspondiente;
 
@@ -1129,9 +1149,9 @@ IX. Notificar, bajo su responsabilidad, dentro del término de veinticuatro hora
 
 X. No retener bajo ningún motivo los expedientes pasado el término señalado para la diligenciación de los mismos, o que el juez conceda, en su caso; y
 
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-XI. Las demás que las leyes o los ordenamientos jurídicos impongan y las que los jueces determinen.
+XI. Las demás que las leyes, ordenamientos jurídicos, reglamentos y acuerdos les impongan, así como las que los jueces y sus titulares determinen.
 
 ###### ARTÍCULO 47.
 
@@ -1151,13 +1171,15 @@ V. La fecha de la devolución del expediente.
 
 Los Magistrados y los Jueces inspeccionarán personalmente, una vez al mes por lo menos, el libro a que se refiere el artículo anterior y si notaren alguna deficiencia deberán hacerlo del conocimiento del Consejo de la Judicatura para los efectos a que hubiere lugar, independientemente de la revisión que el Consejo pudiera hacer en términos de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2022)</small>
+
+ARTÍCULO 48 BIS.- Los Juzgados de Juicio Oral Penal Colegiados estarán a cargo de los asuntos que en materia penal establezcan las leyes, así como los que determine el Consejo de la Judicatura. Serán integrados por tres jueces de Juicio Oral Penal de Primera Instancia.
+
+I. (DEROGADA, P.O. 20 DE MAYO DE 2022)
+
+II. (DEROGADA, P.O. 20 DE MAYO DE 2022)
+
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
-
-ARTÍCULO 48 BIS.- Los Juzgados de Juicio Oral Penal Colegiados estarán a cargo de los asuntos que en materia penal establezcan las leyes. Serán integrados por tres jueces de Juicio Oral Penal de Primera Instancia, quienes serán designados anualmente por el pleno del Consejo de la Judicatura, considerando la opinión del Tribunal Superior de Justicia, atendiendo el procedimiento siguiente:
-
-I. El Pleno del Consejo de la Judicatura mediante sorteo hará la selección de entre toda la plantilla de jueces de juicio oral penal de primera instancia, con independencia de la adscripción que tengan; y
-
-II. Posteriormente resolverá lo referente a la competencia territorial que tendrán para efectos de la integración del juzgado colegiado.
 
 La función de los jueces que integren los Juzgados de Juicio Oral Penal Colegiados se realizará sin menoscabo de las funciones que les correspondan al frente del juzgado de primera instancia al que estén adscritos.
 
@@ -1227,6 +1249,20 @@ VIII. Dar a conocer la sentencia en sesión pública y previa convocatoria a las
 
 IX. Las demás que se desprendan de las disposiciones de carácter general.
 
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+ARTÍCULO 48 BIS 6.- Cuando los Juzgados se constituyan para actuar en forma colaborativa se integrará con el número de jueces que determine el Consejo de la Judicatura, quienes podrán intervenir individual e indistintamente en todos los actos de los procesos judiciales a cargo del órgano jurisdiccional y sus decisiones serán unitarias.
+
+El Consejo de la Judicatura establecerá sus reglas de operación y funcionamiento.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+ARTÍCULO 48 BIS 7.- Para el mejor desarrollo de las funciones que tienen encomendadas y atendiendo a las necesidades del servicio, los Juzgados podrán contar con un sistema de organización basado en el modelo de Gestión Judicial, adecuado a su materia.
+
+El consejo de la Judicatura determinará su forma de operación y funcionamiento, velando por el máximo aprovechamiento de los recursos humanos y materiales disponibles.
+
+El Consejo de la Judicatura podrá implementar un sistema de procesamiento de información, electrónico o virtual, que permita la consulta, actuación y substanciación de asuntos jurisdiccionales de todas las materias conforme a las reglas de operación y funcionamiento que para tal efecto establezca, con el fin de garantizar que los procedimientos a su cargo sean ágiles y efectivos.
+
 ### CAPÍTULO SEGUNDO. DE LOS JUZGADOS MENORES
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2004)</small>
@@ -1273,15 +1309,13 @@ Son aplicables para los juzgados menores lo dispuesto en los artículos del 39 a
 
 ### CAPÍTULO TERCERO. DE LAS OFICIALÍAS DE PARTES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### ARTÍCULO 53.
 
-Habrá una Oficialía de Partes encargada de distribuir los negocios que se inicien en los Juzgados de Primera Instancia de lo Civil, Familiar y de Jurisdicción Concurrente, en aquellos distritos en los que haya más de dos juzgados en cada una de estas materias.
+Habrá una Oficialía de Partes encargada de distribuir los negocios que se inicien en los Juzgados de Primera Instancia y Menores, en aquellos distritos en los que haya más de dos juzgados en cada materia.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2006)</small>
-
-Los Juzgados Menores tendrán Oficialía de Partes en aquellos distritos, o municipios en su caso, en los que haya más de dos juzgados de esta instancia.
+El Consejo de la Judicatura, atendiendo a las necesidades del servicio, podrá implementar mecanismos de recepción a través de medios virtuales, así como de buzones judiciales, estableciendo sus reglas de operación y funcionamiento.
 
 ###### ARTÍCULO 54.
 
@@ -1421,13 +1455,19 @@ En el caso de que no existiera lista de peritos en el arte o ciencia de que se t
 
 Sin perjuicio de lo que disponen las leyes procesales respectivas acerca de las obligaciones que correspondan a los auxiliares de que se ocupa el presente título; éstos cuando tengan manejo de bienes, deberán rendir una cuenta mensual al Juzgado respectivo, del movimiento y estado de dichos bienes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2022)</small>
+
+ARTÍCULO 79 BIS.- El Centro Estatal de Convivencia Familiar será un órgano del Consejo de la Judicatura del Estado, con autonomía técnica y operativa, que tiene por objetivo facilitar la convivencia paterno-filial en los casos que a juicio de los titulares de los Juzgados y Salas de lo Familiar, así como del Sistema para el Desarrollo Integral de la Familia, ésta no pueda cumplirse de manera libre y se considere necesario velar por el interés superior del menor.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
+
+Los servicios que este Centro brinde serán prestados de forma gratuita y se proporcionarán en los términos establecidos en su reglamento interno, en esta Ley y en las demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
+
+El Centro Estatal de Convivencia Familiar estará integrado por su titular, así como por el personal necesario para el cumplimiento de sus funciones.
+
 > <small>(ADICIONADO, P.O. 19 DE MAYO DE 2008)</small>
-
-ARTÍCULO 79 BIS.- El Centro Estatal de Convivencia Familiar será un órgano del Consejo de la Judicatura del Estado, con autonomía técnica y operativa, que tiene por objetivo facilitar la convivencia paterno-filial en los casos que a juicio de los titulares de los Juzgados y Salas de lo Familiar, así como del Sistema para el Desarrollo Integral de la Familia, ésta no pueda cumplirse de manera libre y se considere necesario el interés superior del menor.
-
-Los servicios que este Centro brinde serán prestados de forma gratuita y se proporcionaran en sus propios espacios e instalaciones.
-
-El Centro Estatal de Convivencia Familiar estará integrado además de su Titular, así como del personal necesario para el cumplimiento de sus funciones.
 
 Para ser Director del Centro Estatal de Convivencia Familiar se deberán reunir los requisitos señalados por las fracciones I, II, IV y V del artículo 98 de la Constitución Política del Estado de Nuevo León, además deberá poseer título con antigüedad de cinco años a nivel licenciatura con especialidad en menores y/o relaciones familiares, preferentemente en cualesquiera de las siguientes ramas: Derecho, Psicología o Trabajo Social; y acreditar la experiencia y capacidad indispensable para el desempeño del cargo.
 
@@ -1521,9 +1561,9 @@ Corresponde al Pleno del Consejo de la Judicatura del Estado:
 
 I.- Ejercer las atribuciones que le confiere la Constitución Política del Estado;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-II.- Conocer e investigar las quejas o denuncias administrativas, e imponer las sanciones que procedan, contra los servidores públicos del Poder Judicial, con excepción de los del Tribunal Superior de Justicia y las áreas a cargo de éste, tomando en consideración lo previsto por este ordenamiento y la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios;
+II.- Conocer e investigar las quejas o denuncias administrativas, e imponer las sanciones que procedan, contra los servidores públicos del Poder Judicial, con excepción de los del Tribunal Superior de Justicia y las áreas a cargo de éste, tomando en consideración lo previsto por este ordenamiento y demás leyes aplicables;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
 
@@ -1551,25 +1591,37 @@ VIII. Establecer la normatividad y los criterios para modernizar las estructuras
 
 IX. Coordinar y supervisar el funcionamiento de las áreas a su cargo;
 
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-X. Aprobar el plan de trabajo anual del Centro Estatal de Métodos Alternos para la Solución de Conflictos;
+X. Aprobar el plan de trabajo anual del Instituto de Mecanismos Alternativos para la Solución de Controversias;
 
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-XI. Aprobar los convenios de colaboración interinstitucional propuestos por el Centro Estatal de Métodos Alternos para la Solución de Conflictos;
+XI. Aprobar los convenios de colaboración interinstitucional propuestos por el Instituto de Mecanismos Alternativos para la Solución de Controversias;
 
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-XII. Aprobar el Reglamento del Centro Estatal de Métodos Alternos para la Solución de Conflictos, así como sus posteriores modificaciones;
+XII. Aprobar el Reglamento del Instituto de Mecanismos Alternativos para la Solución de Controversias, así como sus posteriores modificaciones;
 
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-XIII. Determinar aquellos juzgados de primera instancia y menores que serán especializados en una materia y los que serán mixtos, considerando la opinión del Tribunal Superior de Justicia; y
+XIII. Determinar aquellos juzgados de primera instancia y menores que serán especializados en una materia y los que serán mixtos, considerando la opinión del Tribunal Superior de Justicia;
 
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MAYO DE 2022)</small>
 
-XIV. Las demás que le confieran las disposiciones legales.
+XIV. Aprobar el Plan Anual de Capacitación para los servidores públicos judiciales y para quienes estén interesados en el mejoramiento del sistema de carrera judicial.
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2022)</small>
+
+XV. Asignar el grado de Especialidad, Maestría o Doctorado, según sea el caso, a sus programas de formación, capacitación, actualización, especialización o investigación, los cuales tendrán reconocimiento oficial.
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2022)</small>
+
+XVI. Expedir las certificaciones y títulos acordes al grado académico concedido, en los términos que disponga la Dirección General de Profesiones; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE MAYO DE 2022)</small>
+
+XVII. Las demás que le confieran las disposiciones legales.
 
 #### SECCIÓN TERCERA. DEL PRESIDENTE DEL CONSEJO
 
@@ -1735,13 +1787,13 @@ III. Comprobarán si se encuentran debidamente asegurados los instrumentos y obj
 
 IV. Revisarán los libros de gobierno a fin de determinar si se encuentran en orden y contienen los datos requeridos;
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-V. Harán constar el número de asuntos penales, de adolescentes infractores, civiles, familiares y de jurisdicción concurrente que se hayan tramitado y de Juicios de Amparo que se hayan promovido en contra del órgano visitado durante el tiempo que comprende la revisión, determinarán si los procesados que disfrutan de libertad caucional han cumplido con la obligación de presentarse en los plazos fijados y si en algún proceso en suspenso transcurrió el tiempo de prescripción de la acción penal;
+V. Harán constar el número de asuntos penales, de adolescentes infractores, civiles, familiares, de jurisdicción concurrente y laborales que se hayan tramitado y de juicios de amparo que se hayan promovido en contra del órgano visitado durante el tiempo que comprende la revisión, determinarán si los procesados que disfrutan de libertad caucional han cumplido con la obligación de presentarse en los plazos fijados y si en algún proceso en suspenso transcurrió el tiempo de prescripción de la acción penal;
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-VI. Examinarán los expedientes formados con motivo de las causas penales, de adolescentes infractores, civiles, familiares y de jurisdicción concurrente que se estime conveniente y que permitan hacer una evaluación general a fin de verificar que las resoluciones y acuerdos han sido dictados y cumplidos oportunamente; que las notificaciones y diligencias se efectuaron en los plazos legales; que los exhortos y despachos han sido diligenciados y si se han observado los términos constitucionales y demás garantías que la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado otorgan a los procesados; y
+VI. Examinarán los expedientes formados con motivo de las causas penales, de adolescentes infractores, civiles, familiares, de jurisdicción concurrente y laborales que se estime conveniente y que permitan hacer una evaluación general a fin de verificar que las resoluciones y acuerdos han sido dictados y cumplidos oportunamente; que las notificaciones y diligencias se efectuaron en los plazos legales; que los exhortos y despachos han sido diligenciados y si se han observado los términos constitucionales y demás garantías que la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado otorgan a los procesados; y
 
 VII. Recomendar en caso de advertir que en un proceso se venció el término para dictar sentencia, que ésta se pronuncie a la brevedad, haciéndose constar en el expediente revisado.
 
@@ -1769,15 +1821,19 @@ I. Si el impedimento fuere de un Magistrado de una de las Salas Unitarias del Tr
 
 II. Si el impedimento fuere de un Magistrado de una Sala Colegiada del Tribunal Superior de Justicia, conocerá del asunto el Magistrado que determine el Pleno;
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MAYO DE 2022)</small>
 
-III. Si el impedimento fuere de los jueces de primera instancia, ya sea en las materias civil, familiar, penal, o de jurisdicción concurrente, en los distritos en los que exista más de un juzgado de la misma materia, del juez impedido pasará al que le siga en número, tomando en todo caso las medidas adecuadas para salvaguardar la especialización requerida en materia de asuntos de adolescentes infractores. Dentro del mismo distrito se entenderá por juzgado siguiente en número del juzgado con número mayor, el juzgado con número menor.
+III. Si el impedimento fuere de los jueces de primera instancia, ya sea en las materias civil, familiar, penal, de jurisdicción concurrente o laboral, en los distritos en los que exista más de un juzgado de la misma materia, del juez impedido pasará al que le siga en número, tomando en todo caso las medidas adecuadas para salvaguardar la especialización requerida en materia de asuntos de adolescentes infractores. Dentro del mismo distrito se entenderá por juzgado siguiente en número, el juzgado con número mayor. En caso de que se trate del juzgado mayor en número, se entenderá por juzgado siguiente, el primero de la numeración.
 
 Impedidos todos los jueces de un mismo distrito o existiendo un solo juzgado en él, del juez impedido pasará al que determine el Tribunal Superior de Justicia considerando la menor distancia entre ambos juzgados; y
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-IV. Si el impedido fuere un Juez Menor se turnará el negocio al que le siga en número. En los municipios en donde haya un sólo Juez, será turnado al del municipio más cercano.
+IV. Si el impedido fuere un Juez Menor se turnará el negocio al que le siga en número, en términos de lo establecido en la fracción anterior.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+En los municipios en donde haya un sólo Juez, será turnado al del municipio más cercano.
 
 ###### ARTÍCULO 113.
 
@@ -1921,7 +1977,13 @@ VI. Las demás que establezca el Consejo de la Judicatura.
 
 Los servidores públicos del Poder Judicial tienen derecho a las vacaciones que establece la Ley del Servicio Civil y demás ordenamientos aplicables.
 
-En los juzgados penales los períodos de vacaciones se disfrutarán en forma escalonada, a efecto que no se interrumpa el desempeño de la función, conforme lo determine el Tribunal Superior de Justicia.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
+
+En los juzgados que conocen de la materia penal los periodos de vacaciones se disfrutarán en forma escalonada, a efecto que no se interrumpa el desempeño de la función, conforme lo determine el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+En los juzgados de las demás materias podrán establecerse guardias para la atención de casos urgentes durante el periodo vacacional, conforme lo determine el Consejo de la Judicatura.
 
 ## TÍTULO SÉPTIMO. DE LA CARRERA JUDICIAL
 
@@ -1947,37 +2009,49 @@ IV. Secretario de Juzgado de Primera Instancia;
 
 V. Secretario de Juzgado Menor;
 
-VI. Actuario; y,
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-VII. Escribiente.
+VI. Actuario;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MAYO DE 2022)</small>
+
+VII. Asistente Jurídico; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE MAYO DE 2022)</small>
+
+VIII. Escribiente.
 
 ### CAPÍTULO SEGUNDO. DE LAS DESIGNACIONES
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO 127.
 
-Los Magistrados serán designados por el H. Congreso del Estado a propuesta del Titular del Poder Ejecutivo, quien podrá considerar entre otros candidatos, aquellos que le presente el Consejo de la Judicatura como resultado del análisis y evaluación que hubiese realizado.
+Los Magistrados serán designados por el H. Congreso del Estado, conforme al procedimiento previsto para tal efecto en la Constitución Política del Estado.
 
 ###### ARTÍCULO 128.
 
 El ingreso y promoción para las categorías de Juez de Primera Instancia ya sea especializado por materia o mixto y Juez Menor se realizará conforme al procedimiento de designación establecido en la Constitución para lo cual el Consejo realizará concursos de oposición.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### ARTÍCULO 129.
 
-El ingreso y permanencia en las categorías señaladas en las fracciones III a VII del artículo 126, se sujetará a lo siguiente:
+El ingreso y permanencia en las categorías señaladas en las fracciones III a VIII del artículo 126, se sujetará a lo siguiente.
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2000)</small>
 
 I. Para el ingreso, el acreditamiento de un examen de aptitud.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2000)</small>
+
 Los servidores públicos en las categorías señaladas tendrán una designación provisional hasta por dos años.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
-Para el nombramiento definitivo se considerará el resultado aprobatorio de la evaluación que el Consejo de la Judicatura haga al interesado, acerca de la calidad y trayectoria en el desempeño de la función, así como lo establecido en los reglamentos aplicables.
+Para el nombramiento definitivo se considerará el resultado aprobatorio de la evaluación que el Consejo de la Judicatura haga al interesado, acerca de la calidad y trayectoria en el desempeño de la función, así como lo establecido en los reglamentos aplicables. Si no se da el nombramiento definitivo en los últimos noventa días del período de designación provisional, cesarán en sus funciones.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2004)</small>
-
-El Pleno del Tribunal Superior de Justicia o el Magistrado titular de la Sala, en su caso, una vez cumplidos los trámites señalados con anterioridad, harán la designación provisional o definitiva de los servidores públicos adscritos a las áreas a su cargo.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 20 DE MAYO DE 2022)</small>
 
 > <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2004)</small>
 
@@ -1991,7 +2065,11 @@ Si no se da el nombramiento definitivo en los últimos quince días del período
 
 El trámite para el nombramiento definitivo podrá iniciarse de oficio por el Consejo de la Judicatura, o a petición del interesado o del titular del órgano jurisdiccional al que se encuentra adscrito.
 
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2000)</small>
+
 II. Para la permanencia, se atenderá a lo preceptuado al respecto en los reglamentos del Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2000)</small>
 
 El Consejo de la Judicatura tendrá la facultad de comprobar la veracidad de la información que los aspirantes hubieren proporcionado, así como de los demás datos que deban ser tomados en cuenta para los efectos de lo dispuesto en el presente artículo.
 
@@ -2117,17 +2195,19 @@ XIII. Las demás que le confiera el Pleno del Consejo de la Judicatura.
 
 ## TÍTULO NOVENO. DEL ARCHIVO JUDICIAL
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO 137.
 
-El Archivo Judicial del Estado dependerá del Consejo de la Judicatura y éste designará al titular del mismo.
+El Archivo Judicial del Estado dependerá del Consejo de la Judicatura y éste designará al titular del mismo. Tendrá a su cargo las áreas de correspondencia, los archivos de trámite, concentración e histórico, así como las demás que se estimen conducentes, en los términos de su reglamentación interna.
 
 ###### ARTÍCULO 138.
 
 Se depositarán en el Archivo Judicial:
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-I. Todos los expedientes del orden civil, familiar, penal, de adolescentes infractores, constitucional local, y de jurisdicción concurrente, totalmente concluidos por el Tribunal Superior de Justicia o los juzgados de dichos ramos;
+I. Todos los expedientes del orden civil, familiar, penal, de adolescentes infractores, constitucional local, de jurisdicción concurrente y laboral, totalmente concluidos por el Tribunal Superior de Justicia o los juzgados de dichos ramos;
 
 II. Los expedientes que, aún cuando no estén concluidos, hayan dejado de tramitarse por cualquier motivo durante un año;
 
@@ -2135,11 +2215,11 @@ III. Cualquier otro expediente concluido que conforme a la ley deba conservarse 
 
 IV. Los demás documentos que las leyes establezcan o el Consejo de la Judicatura acuerde.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### ARTÍCULO 139.
 
-Habrá en el archivo departamentos individuales para los ramos civil, familiar, penal, de adolescentes infractores, constitucional local y de jurisdicción concurrente.
+Habrá en el archivo departamentos individuales para los ramos civil, familiar, penal, de adolescentes infractores, constitucional local, de jurisdicción concurrente y laboral. Los tribunales y áreas administrativas podrán ordenar la destrucción o depuración de los expedientes y otros documentos, conforme a los lineamientos que para tal efecto emitan el Tribunal Superior de Justicia y el Consejo de la Judicatura, en el ámbito de sus respectivas competencias.
 
 ###### ARTÍCULO 140.
 
@@ -2189,11 +2269,11 @@ El titular recibirá de los órganos jurisdiccionales el material que deba publi
 
 ### CAPÍTULO SEGUNDO. DE LA REVISTA JURÍDICA
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### ARTÍCULO 148.
 
-Se editará una publicación que se denominará "Revista Jurídica", que tendrá por objeto dar a conocer las tesis más importantes que en materia civil, familiar, penal, de adolescentes infractores, constitucional local y de jurisdicción concurrente, sustenten los diversos órganos jurisdiccionales de la Entidad, así como los criterios dictados en uso de las facultades establecidas por el artículo 96 fracción V de la Constitución Política del Estado. También contendrá ejecutorias importantes que sustenten autoridades que conocen del Juicio de Amparo, en relación a la Legislación de Nuevo León, y trabajos de investigación jurídica. Esta publicación deberá hacerse por lo menos cada seis meses.
+Se editará una publicación que se denominará "Revista Jurídica", que tendrá por objeto dar a conocer las tesis más importantes que en materia civil, familiar, penal, de adolescentes infractores, constitucional local, de jurisdicción concurrente y laboral, sustenten los diversos órganos jurisdiccionales de la Entidad, así como los criterios dictados en uso de las facultades establecidas por el artículo 96, fracción V, de la Constitución Política del Estado. También contendrá ejecutorias importantes que sustenten autoridades que conocen del juicio de amparo, en relación a la legislación de Nuevo León, y trabajos de investigación jurídica. Esta publicación deberá hacerse por lo menos cada seis meses.
 
 ###### ARTÍCULO 149.
 
@@ -2209,65 +2289,91 @@ La revista estará a disposición de los interesados previo el pago correspondie
 
 El Consejo de la Judicatura mediante reglamento o acuerdos generales proveerá lo no establecido en la presente ley en todo lo concerniente a la Revista Jurídica y establecerá todas aquellas disposiciones para la adecuada distribución y difusión de la misma.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MAYO DE 2022)</small>
 
-## TÍTULO DÉCIMO PRIMERO. DEL CENTRO ESTATAL DE MÉTODOS ALTERNOS PARA LA SOLUCIÓN DE
+## TÍTULO DÉCIMO PRIMERO. DEL INSTITUTO DE MECANISMOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONTROVERSIAS
 
-CONFLICTOS
-
-> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### ARTÍCULO 152.
 
-El Consejo de la Judicatura contará con un Centro Estatal de Métodos Alternos para la Solución de Conflictos, responsable de la prestación de este servicio en el Poder Judicial del Estado, conforme a lo dispuesto en esta Ley y en la ley de la materia.
+El Consejo de la Judicatura contará con un Instituto de Mecanismos Alternativos para la Solución de Controversias, responsable de la prestación de este servicio en el Poder Judicial del Estado, conforme a lo dispuesto en esta Ley, en la ley de la materia, su reglamento y demás ordenamientos jurídicos aplicables.
 
-La organización y funcionamiento del Centro Estatal se regirá por esta Ley y demás disposiciones legales aplicables.
+La organización y funcionamiento del Instituto de Mecanismos Alternativos para la Solución de Controversias se regirá por esta Ley, la ley de la materia, su reglamento y demás disposiciones legales aplicables.
 
-> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### ARTÍCULO 153.
 
-El Centro Estatal de Métodos Alternos para la Solución de Conflictos tendrá las siguientes atribuciones:
+El Instituto de Mecanismos Alternativos para la Solución de Controversias tendrá las siguientes atribuciones:
 
-I. Prestar servicios de métodos alternos para la solución de conflictos, en los términos de las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-II. Certificar y refrendar el certificado de los prestadores de servicios de métodos alternos para la solución de conflictos que así lo deseen, en los términos de la ley de la materia;
+I. Prestar servicios de mecanismos alternativos para la solución de controversias, en los términos de las disposiciones legales aplicables;
 
-III. Coordinar con el Instituto de la Judicatura la impartición de cursos de capacitación en métodos alternos para la solución de conflictos;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-IV. Proporcionar los apoyos requeridos, material y legalmente posibles, para la búsqueda de soluciones a los conflictos, en los asuntos sometidos a este Centro;
+II. Certificar y refrendar el certificado de los prestadores de servicios de mecanismos alternativos para la solución de controversias que así lo deseen, en los términos de la ley de la materia;
 
-V. Difundir la cultura de los métodos alternos para la solución de conflictos;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-VI. Integrar información estadística relativa a la aplicación de los métodos alternos para la solución de conflictos en el Estado; y
+III. Coordinar con el Instituto de la Judicatura la impartición de cursos de capacitación en mecanismos alternativos para la solución de controversias;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
+
+IV. Proporcionar los apoyos requeridos, material y legalmente posibles, para la búsqueda de soluciones a los conflictos, en los asuntos sometidos al conocimiento del Instituto;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
+
+V. Difundir la cultura de los mecanismos alternativos para la solución de controversias;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
+
+VI. Integrar información estadística relativa a la aplicación de los mecanismos alternativos para la solución de controversias; y
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2004)</small>
 
 VII. Las demás previstas en los ordenamientos legales aplicables.
 
-> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### ARTÍCULO 154.
 
-El Centro Estatal tendrá como titular a un Director y contará con el personal que determine el Consejo de la Judicatura, de conformidad con las disposiciones presupuestarias.
+El Instituto de Mecanismos Alternativos para la Solución de Controversias tendrá como titular a un Director o Directora y contará con el personal que determine el Consejo de la Judicatura, de conformidad con las disposiciones presupuestarias.
 
-El Director será designado por el Pleno del Consejo de la Judicatura, y deberá tener título profesional de licenciado en derecho, experiencia en métodos alternos para la solución de conflictos, gozar de buena reputación y no haber sido condenado por delito intencional.
+La persona titular de la Dirección será designada por el Pleno del Consejo de la Judicatura, y deberá tener título profesional de licenciado en derecho, experiencia en mecanismos alternativos para la solución de controversias, gozar de buena reputación y no haber sido condenado por delito intencional.
 
-> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### ARTÍCULO 155.
 
-Son facultades y obligaciones del Director del Centro Estatal:
+Son facultades y obligaciones de la Dirección del Instituto de Mecanismos Alternativos para la Solución de Controversias:
 
-I. Dirigir y coordinar las actividades del Centro;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-II. Elaborar el plan anual de trabajo del Centro contemplando objetivos, programas, y metas a cumplir y someterlo a la aprobación del Consejo de la Judicatura;
+I. Dirigir y coordinar las actividades del Instituto;
 
-III. Llevar el registro actualizado de los (sic) personas que cuenten con certificación para prestar servicios de métodos alternos para la solución de conflictos;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-IV. Informar al Presidente del Consejo de la Judicatura acerca de las actividades del Centro;
+II. Elaborar el plan anual de trabajo del Instituto contemplando objetivos, programas, y metas a cumplir y someterlo a la aprobación del Consejo de la Judicatura;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
+
+III. Llevar el registro actualizado de las personas que cuenten con certificación para prestar servicios de mecanismos alternativos para la solución de controversias;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
+
+IV. Informar a la Presidencia del Consejo de la Judicatura acerca de las actividades del Instituto;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2004)</small>
 
 V. Celebrar acuerdos de colaboración interinstitucionales, con la previa aprobación del Pleno del Consejo de la Judicatura;
 
-VI. Certificar los convenios derivados de los métodos alternos para la solución de conflictos, en los términos que determine la ley de la materia; y
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
+
+VI. Ratificar y sancionar los convenios derivados de los mecanismos alternativos para la solución de controversias, en los términos que determine la ley de la materia; y
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2004)</small>
 
 VII. Las demás que establezcan las disposiciones legales.
 
@@ -2488,3 +2594,9 @@ Tercero.- El otorgamiento y pago del haber de retiro a que se refiere el artícu
 Cuarto.- El Poder Judicial del Estado tomará las previsiones presupuestarias necesarias para pagar el haber de retiro a que se refiere el artículo 17 de esta Ley Orgánica del Poder Judicial a quienes tengan derecho; para lo cual, podrá manejar los recursos respectivos a través de un fondo o fideicomiso, los cuales deberán incluirse en una partida especial, dentro del presupuesto anual.
 
 Quinto.- En caso de que algún Magistrado del Tribunal Superior de Justicia ratificado en términos Constitucionales, después de su retiro, llegare a ocupar algún otro empleo, cargo o comisión de cualquier naturaleza en alguna institución o dependencia pública de carácter estatal en Nuevo León, se le suspenderá temporalmente el pago del haber de retiro a que se refiere el artículo 17 de esta Ley Orgánica del Poder Judicial. El periodo de la suspensión comprenderá solamente el tiempo de ejercicio en el diverso cargo público y no deberá computarse para efectos de su otorgamiento en los términos de ley.
+
+P.O. 20 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 134. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
