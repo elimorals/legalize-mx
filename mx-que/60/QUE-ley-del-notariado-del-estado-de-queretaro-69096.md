@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-notariado-del-estado-de-queretaro-69096"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-26"
-last_updated: "2020-06-01"
+last_updated: "2022-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "QUE"
 
 LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 26 de junio de 2009.
 
@@ -63,19 +63,25 @@ La función notarial corresponde al Poder Ejecutivo del Estado, cuyo ejercicio l
 
 El Notario es un auxiliar de la función pública, investido de fe pública, autorizado para autenticar los actos y los hechos, a los que los interesados deben o quieren dar autenticidad, conforme a las leyes.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2019)</small>
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+El Poder Ejecutivo del Estado emitirá el nombramiento de Notario para el despacho de la Notaría, en la cual actuará en su protocolo bajo su responsabilidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 4.
 
-Habrá dos Notarios Titulares investidos con la misma fe, personalidad y capacidad jurídica para actuar indistintamente dentro de una Notaría.
+Cada Notaría será atendida por un Notario, excepto por los casos de asociación y suplencia de Notarios, así como las actuaciones que corresponden al Director del Archivo General de Notarías conforme a la presente Ley.
 
-Los Notarios Titulares actuarán en un protocolo independiente y bajo su responsabilidad.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
-Será Notario Titular, aquél a cuyo favor el Poder Ejecutivo del Estado extiende el nombramiento respectivo para el despacho de la Notaría.
+Queda prohibido ser Notario de dos o más Notarías.
 
-En cada Notaría no podrán ejercer más de dos Notarios Titulares, del modo que esta Ley preceptúa.
+(DEROGADO, P.O. 20 DE MAYO DE 2022).
 
-Queda prohibido ser Notario Titular de dos o más Notarías al mismo tiempo.
+(DEROGADO, P.O. 20 DE MAYO DE 2022).
+
+(DEROGADO, P.O. 20 DE MAYO DE 2022).
 
 ###### Artículo 5.
 
@@ -103,7 +109,13 @@ La dirección del notariado queda a cargo del Poder Ejecutivo del Estado, a trav
 
 Los Notarios son auxiliares del fisco del Estado, para la liquidación y cobro de las contribuciones estatales que se generen con motivo de los actos que ante ellos se otorguen y serán obligados solidarios de su pago, en los términos que señalen las leyes respectivas, siempre que hayan sido expensados previamente.
 
-Los Notarios deberán de hacer constar en el instrumento notarial respectivo, la fecha en que se hizo del conocimiento del cliente las contribuciones estatales que se originen con motivo del acto para el que fueron contratados e incluirse en el apéndice la constancia firmada por su cliente.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
+
+Los Notarios deberán de hacer constar la fecha en que se hizo del conocimiento del cliente las contribuciones estatales que se originen con motivo del acto para el que fueron contratados e incluirse en el apéndice la constancia firmada por su cliente; de igual forma dejará constancia en aquél, de la fecha en la que fue expensado para efectuar dichas contribuciones.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+Los Notarios deberán de llevar un registro actualizado por cada instrumento notarial, de los montos recibidos por los interesados en sus servicios notariales, por conceptos de contribuciones expensadas, honorarios y gastos, así como de los montos satisfechos a las instituciones o entidades correspondientes, relativos a contribuciones. En dicho registro deberá indicar las fechas, montos recibidos y erogados, conceptos, nombre del contribuyente o del solicitante del servicio, instrumento notarial, acto jurídico, la forma de la recepción y erogación de los pagos, y demás datos necesarios.
 
 La constancia deberá contener los requisitos siguientes:
 
@@ -141,19 +153,33 @@ VI. Amealco de Bonfil: comprende los municipios de Amealco de Bonfil y Huimilpan
 
 La Notaría deberá asentarse en la demarcación notarial para la cual fue nombrado el Notario, sin que pueda operar una oficina notarial en una demarcación notarial distinta.
 
-En cada demarcación notarial no podrá haber más de una Notaría por cada treinta mil habitantes.
+(DEROGADO, P.O. 20 DE MAYO DE 2022).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 10.
 
-El Poder Ejecutivo del Estado creará el número de Notarías que se requieran en cada demarcación notarial.
+El Titular del Poder Ejecutivo del Estado de Querétaro, podrá crear el número de Notarias atendiendo indistintamente cualquiera de los siguientes criterios:
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2022)</small>
+
+I. Una Notaría en cada demarcación Notarial por cada veinticinco mil habitantes;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2022)</small>
+
+II. El crecimiento económico en los municipios comprendidos dentro de la demarcación Notarial en que vaya a operar la Notaría, en razón del número de instrumentos Notariales que se inscribieron en el Registro Público de la Propiedad, que reflejen un incremento de treinta por ciento en los dos años inmediatos anteriores.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+Para el debido cumplimiento de este artículo, la Secretaría de Gobierno del Poder Ejecutivo del Estado, podrá consultar o solicitar la información respectiva a las instancias federales, estatales y municipales correspondientes.
 
 ###### Artículo 11.
 
 La oficina del Notario Público se denominará Notaría Pública; llevará el número que le corresponda en la demarcación notarial que le determine el Poder Ejecutivo del Estado y deberá estar abierta todos los días hábiles, por lo menos seis horas.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
-En lugar visible al exterior, ostentará un rótulo que contenga las palabras "Notaría Pública"; el número que le corresponda; el nombre y apellidos de los Notarios Titulares.
+En lugar visible al exterior, ostentará un rótulo que contenga las palabras "Notaría Pública", el número que le corresponda, el nombre y apellidos del Notario. Cuando exista acuerdo de asociación con otro Notario, el rótulo deberá especificar los nombres y apellidos de los Notarios Asociados, así como los números de sus Notarías.
 
 La Notaría deberá establecerse en un local adecuado, seguro y de fácil acceso al público.
 
@@ -163,9 +189,9 @@ El Notario, para el mejor desempeño de sus funciones, podrá auxiliarse de los 
 
 Asimismo, con el propósito de dar seguridad a la información almacenada a través de medios electrónicos, producida con motivo de la actividad notarial, el Notario, bajo su responsabilidad, deberá prever la existencia de los respaldos que sean necesarios.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
-El Notario deberá informar a la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro y al Instituto de la Función Registral del Estado de Querétaro, el domicilio de la Notaría, en un plazo de cinco días hábiles previos al inicio de sus funciones en el domicilio.
+El Notario deberá informar a la Secretaría de Gobierno del Poder Ejecutivo del Estado y al Director del Archivo General de Notarías, el domicilio de la Notaría, en un plazo de cinco días hábiles previos al inicio de sus funciones en el domicilio.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2019)</small>
 
@@ -183,9 +209,9 @@ La operación de una oficina notarial en domicilio distinto al declarado como No
 
 Tener el sello y folios autorizados en blanco en un domicilio distinto al de la Notaría, será considerado como operación de una oficina notarial para efectos del párrafo anterior, salvo los casos de excepción previstos por la Ley.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
-Se prohíbe a quienes carecen del nombramiento de Notario Público, utilizar publicidad que induzca a los particulares a la creencia de que en un establecimiento o comercio, se realizan trámites o servicios inherentes a la función notarial o que deban comprenderse propios de esta.
+Se prohíbe a quienes no cuenten con nombramiento de Notario que los autorice para ejercer la función, utilizar publicidad que induzca a los particulares a la creencia de que, en un establecimiento o comercio, se realizan trámites o servicios inherentes a la función notarial o que deban comprenderse propios de esta.
 
 ### Capítulo Tercero. De los Notarios
 
@@ -261,11 +287,11 @@ Comprobados los requisitos a que se refieren los artículos anteriores, el Gober
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE FEBRERO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 20.
 
-El nombramiento se publicará por una sola vez en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" y en alguno de los periódicos de mayor circulación en el Estado. Además, se comunicará por oficio al Tribunal Superior de Justicia, al Fiscal General del Estado, al Director General del Instituto de la Función Registral del Estado de Querétaro, a los Presidentes Municipales de la demarcación notarial donde el Notario nombrado deberá desempeñar su función, a las oficinas de las autoridades fiscales municipales, estatales y federales de la residencia del Notario y al Consejo de Notarios.
+El nombramiento se publicará por la Secretaría de Gobierno del Poder Ejecutivo del Estado a través del Archivo General de Notarías, por una sola vez en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" y en alguno de los periódicos de mayor circulación en el Estado. Además, se comunicará por oficio al Poder Judicial del Estado, al Fiscal General del Estado, al Director del Archivo General de Notarías, a los Presidentes Municipales de la demarcación Notarial donde el Notario nombrado deberá desempeñar su función, a las oficinas de las autoridades fiscales municipales, estatales y federales de la residencia del Notario y al Consejo de Notarios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
 
@@ -313,13 +339,21 @@ VII. Las licencias concedidas a los Notarios;
 
 VIII. Las anotaciones al expediente personal de los Notarios;
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-IX. Registro del sello del Notario, especificando el color de la tinta que usará el mismo, y
+IX. Registro del sello del Notario, especificando el color de la tinta que usará el mismo;
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-X. Los cambios de sello del Notario.
+X. Los cambios de sello y de tinta del Notario;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2022)</small>
+
+XI. Los acuerdos de asociación que celebren y las previsiones en cuanto a la suplencia; y
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2022)</small>
+
+XII. La fianza requerida para el inicio de sus funciones, así como las actualizaciones a la misma.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
 
@@ -333,57 +367,57 @@ El Notario, antes de iniciar el ejercicio de sus funciones, deberá:
 
 I. Rendir ante el Gobernador del Estado o la persona que éste designe, la protesta de Ley correspondiente.
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-II. Registrar su nombramiento ante el Instituto de la Función Registral del Estado de Querétaro, exhibiendo todos los documentos para la apertura de su expediente en el "Registro de Notarios";
+II. Registrar su nombramiento ante el Archivo General de Notarías, exhibiendo todos los documentos para la apertura de su expediente en el "Registro de Notarios";
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-III. Entregar y recoger, en el Instituto de la Función Registral del Estado de Querétaro, las hojas foliadas y selladas que le remita el Consejo de Notarios, para su autorización mediante perforaciones o cualquier otro medio indubitable, que serán los folios que utilizará en su Protocolo;
+III. Solicitar al Archivo General de Notarías, la autorización de los folios proveídos por el Consejo de Notarios, mediante perforaciones o cualquier otro medio indubitable, que serán los folios que utilizará en su Protocolo;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-IV. Registrar su sello y firma en la Secretaría de Gobierno del Poder Ejecutivo del Estado, en el Tribunal Superior de Justicia, en el Instituto de la Función Registral del Estado de Querétaro, en los Municipios donde vaya a ejercer sus funciones, en las oficinas del Estado, correspondientes a dichos Municipios y en las oficinas federales dependientes de la Secretaría de Hacienda; y
+IV. Registrar su sello y firma en la Secretaría de Gobierno del Poder Ejecutivo del Estado, en el Poder Judicial del Estado, en el Archivo General de Notarías, en los Municipios donde vaya a ejercer sus funciones, en las oficinas del Estado correspondientes a dichos Municipios y en las oficinas federales dependientes de la Secretaría de Hacienda y Crédito Público;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MAYO DE 2022)</small>
 
-V. Solicitar el levantamiento del acta de inicio de funciones y apertura de protocolo, al Director General del Instituto de la Función Registral del Estado de Querétaro.
+V. Presentar ante la Secretaría de Gobierno a través del Archivo General de Notarías, fianza otorgada a favor de las autoridades competentes, que garantice su responsabilidad profesional por la función notarial, por la cantidad que resulte de multiplicar por veinte mil veces la Unidad de Medida y Actualización vigente a la fecha de la constitución de la misma; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE MAYO DE 2022)</small>
+
+VI. Solicitar el levantamiento del acta de inicio de funciones y apertura de protocolo al Director del Archivo General de Notarías, cuando ésta proceda
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 23.
 
-El sello es el símbolo del Estado, en el ejercicio de la función notarial. A cada Notario Titular se le asignará un sello, el cual deberá utilizar en la autorización de los instrumentos que pasen ante su fe. Será de forma circular; tendrá un diámetro de cuatro centímetros; representará el Escudo Nacional en el centro y tendrá inscrito, en derredor, el nombre y apellidos del Notario, el número de la Notaría y la demarcación notarial en que el Notario despacha.
+El sello es el símbolo del Estado en el ejercicio de la función notarial. A cada Notario se le asignará un sello, el cual deberá utilizar en la autorización de los instrumentos que pasen ante su fe. Será de forma circular; tendrá un diámetro de cuatro centímetros; representará el Escudo Nacional en el centro y tendrá inscrito, en derredor, el nombre y apellidos del Notario, el número de la Notaría y la demarcación notarial en que el Notario despacha.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2019)</small>
+El Archivo General de Notarías proveerá del sello citado a costa del Notario. Solo podrá haber un sello por cada Notario, mismo que, salvo en los casos que expresamente autoriza esta Ley, deberá permanecer siempre en la Notaría.
 
-El Instituto de la Función Registral del Estado de Querétaro proveerá del sello citado, a costa del Notario. Solo podrá haber un sello por cada Notario, mismo que, salvo en los casos que expresamente autoriza esta Ley, deberá permanecer siempre en la Notaría.
+El Notario informará por escrito al Archivo General de Notarías el color de la tinta que identificará su sello y no podrá cambiarse, sino previa notificación por escrito, que deberá ser cinco días antes en que se lleve a cabo el cambio de color de tinta.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
-
-El Notario informará por escrito al Instituto de la Función Registral del Estado de Querétaro el color de la tinta que identificará su sello y no podrá cambiarse, sino previa notificación por escrito.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 24.
 
-En caso de extravío, alteración, deterioro o destrucción del sello, el Notario, previa autorización del Secretario de Gobierno del Poder Ejecutivo del Estado de Querétaro, solicitará al Instituto de la Función Registral del Estado de Querétaro se le provea otro a su costa, en el que se pondrá un signo especial que lo diferencie del anterior. Aunque aparezca el antiguo sello, no podrá hacerse uso de él, debiendo el Notario entregarlo personalmente al Instituto de la Función Registral del Estado de Querétaro, para que se destruya, levantándose de esta diligencia un acta por duplicado.
+En caso de extravío, alteración, deterioro o destrucción del sello, el Notario, previa autorización del Secretario de Gobierno del Poder Ejecutivo del Estado, solicitará al Archivo General de Notarías se le provea otro a su costa, en el que se pondrá un signo especial que lo diferencie del anterior. Aunque aparezca el antiguo sello, no podrá hacerse uso de él, debiendo el Notario entregarlo personalmente al citado Archivo General, para que se destruya, levantándose de esta diligencia un acta por duplicado.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
-El Instituto de la Función Registral del Estado de Querétaro, podrá requerir el remplazo del sello del Notario, cuando aprecie su deterioro o para incrementar sus características de seguridad.
+El Archivo General de Notarías podrá requerir el reemplazo del sello del Notario, cuando aprecie su deterioro o para incrementar sus características de seguridad.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2019)</small>
 
 En caso de fallecimiento del Notario, se procederá oficiosamente a la destrucción del sello.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
-Un ejemplar del acta quedará depositado en el Instituto de la Función Registral del Estado de Querétaro y otro en poder del Notario o de quien represente la sucesión del Notario, según sea el caso.
+Un ejemplar del acta quedará depositado en el Archivo General de Notarías y otro en poder del Notario o de quien represente la sucesión del Notario, según sea el caso.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
-En caso de extravío, alteración, deterioro o destrucción del sello, el Notario deberá informar inmediatamente a la Secretaría de Gobierno y al Instituto de la Función Registral del Estado de Querétaro.
+En caso de extravío, alteración, deterioro o destrucción del sello, el Notario deberá informar inmediatamente a la Secretaría de Gobierno del Poder Ejecutivo del Estado y al Archivo General de Notarías.
 
 ###### Artículo 25.
 
@@ -391,9 +425,9 @@ El ejercicio del Notariado es incompatible:
 
 I. Con el ejercicio de cualquier cargo público de elección popular;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-II. Con el cargo de titular de las diversas dependencias del Poder Ejecutivo Estatal y las correspondientes Municipales; Oficialía Mayor, Magistrado Propietario del Tribunal Superior de Justicia y Magistrado Propietario del Tribunal de Justicia Administrativa; Juez o Secretario; Fiscal General del Estado o Fiscal; funcionario o empleado fiscal; Director General del Instituto de la Función Registral del Estado de Querétaro; Presidente de la Defensoría de los Derechos Humanos del Estado de Querétaro; Delegado Federal; titular de las áreas jurídicas de cualquier dependencia del Poder Ejecutivo del Estado y sus homólogos en los Municipios; Defensor Público y cualquier otro cargo que, conforme a la Ley correspondiente, señale prohibición de ejercer actividades diversas al mismo;
+II. Con el cargo o puesto en el servicio público de cualquiera de los tres niveles de gobierno y cualquier otro cargo que, conforme a la Ley correspondiente, señale prohibición de ejercer actividades diversas al mismo;
 
 III. Con los empleos o comisiones de particulares que pongan al Notario en dependencia de cualquier persona; y
 
@@ -429,9 +463,13 @@ El Notario está obligado a ejercer sus funciones cuando al efecto sea requerido
 
 I. Si el acto que debería autorizar está prohibido por la Ley o el documento correspondiente no reúne los requisitos de forma que la misma señala, si es manifiestamente contrario a las buenas costumbres o si corresponde su autorización, exclusivamente a otro fedatario;
 
-II. Si en el acto intervienen o tienen interés él mismo, su cónyuge, sus parientes consanguíneos en línea recta sin limitación de grado o en la colateral hasta el cuarto grado inclusive o sus afines hasta el segundo grado o de personas de quienes alguno de ellos fuere apoderado o representante legal en el acto correspondiente; y
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-III. Cuando el Notario haya intervenido como abogado de alguno de los interesados en el negocio judicial del que emane el instrumento, siempre y cuando se trate de asuntos contenciosos.
+II. Si en el acto intervienen o tienen interés él mismo, su cónyuge, sus parientes consanguíneos en línea recta sin limitación de grado o en la colateral hasta el cuarto grado inclusive o sus afines hasta el segundo grado o de personas de quienes alguno de ellos fuere apoderado o representante legal en el acto correspondiente; igual prohibición tiene el Notario, si en el acto interviene o tiene interés su Notario Asociado o su Suplente cuando actúe en el protocolo del suplido, o cualquiera de los parientes o allegados de cualquiera de éstos que se mencionan en esta fracción, y
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
+
+III. Cuando el Notario, su Asociado o su suplente cuando actúe en el protocolo del suplido, hayan intervenido como abogado de alguno de los interesados en el negocio judicial del que emane el instrumento, siempre y cuando se trate de asuntos contenciosos.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE FEBRERO DE 2019)</small>
 
@@ -455,23 +493,87 @@ El Notario tiene el deber de explicar a las partes, el valor y las consecuencias
 
 Se aplicará la pena prevista en el Código Penal del Estado de Querétaro, por el delito de falsedad ante autoridades, a quien realice ante el Notario la conducta descrita en dicho precepto, a cuyo efecto éste deberá apercibir y tomar la protesta de ley a los declarantes, dejando constancia de ello en el instrumento.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 35.
 
-El Notario debe empezar a ejercer sus funciones dentro del plazo de treinta días, contados desde la fecha en que el Director General del Instituto de la Función Registral del Estado de Querétaro, tome razón del nombramiento del Notario interesado en el libro de Registro de Notarías. Para ello, el Notario dará aviso al público por medio del Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" y en alguno de los periódicos de mayor circulación en el Estado. Además, lo comunicará a la Secretaría de Gobierno del Poder Ejecutivo del Estado, al Tribunal Superior de Justicia y al Instituto de la Función Registral del Estado de Querétaro.
+El Notario debe empezar a ejercer sus funciones dentro del plazo de treinta días, contados desde la fecha en que el Director del Archivo General de Notarías, tome razón del nombramiento del Notario interesado en el libro de Registro de Notarios. Para ello, el Notario dará aviso al público por medio del Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" y en alguno de los periódicos de mayor circulación en el Estado. Además, lo comunicará a la Secretaría de Gobierno del Poder Ejecutivo del Estado, al Poder Judicial del Estado y al Archivo General de Notarías.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2019)</small>
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
 
-### Capítulo Quinto. De los Notarios Adscritos
+Igualmente, dentro de los noventa días siguientes al inicio del ejercicio de sus funciones, deberá comunicar por escrito su acuerdo de suplencia a la Secretaría de Gobierno del Poder Ejecutivo del Estado y al Consejo de Notarios del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+Si transcurrido el plazo previsto en el párrafo anterior el Notario no presenta el acuerdo de suplencia mencionado, la Secretaría de Gobierno del Poder Ejecutivo del Estado, previa opinión del Consejo de Notarios del Estado, oficiosamente le nombrará un Notario Suplente.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MAYO DE 2022)</small>
+
+### CAPÍTULO QUINTO. DE LOS NOTARIOS ASOCIADOS Y SUPLENTES
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 36.
 
-(DEROGADO, P.O. 20 DE FEBRERO DE 2019)
+Los Notarios podrán celebrar acuerdo de asociación con algún otro Notario de la misma Demarcación Notarial, con el objeto de brindar el servicio en la misma oficina y protocolo.
+
+Se considerará Asociante, el Notario que tenga el protocolo de mayor antigüedad. En el supuesto que las fechas de apertura de los protocolos de ambos Notarios sean coincidente (sic) o cercanas, el Notario Asociante será el Notario con el nombramiento más antiguo.
+
+Dejará de funcionar la oficina notarial del Asociado y no se utilizará el protocolo de éste, debiendo depositarlo para su guarda y custodia en el Archivo General de Notarías mientras el acuerdo de asociación esté vigente.
+
+Los Notarios Asociados se suplirán recíprocamente en sus faltas temporales.
+
+El acuerdo de asociación de Notarios, previo visto bueno del Consejo de Notarios del Estado, se presentará ante la Secretaría de Gobierno del Poder Ejecutivo del Estado, para que de encontrarlo ajustado a Derecho lo autorice y se le dé publicidad al acto de su celebración a través del Periódico Oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
+
+Los acuerdos de asociación deberán sujetarse a lo siguiente:
+
+I. Podrán asociarse hasta dos Notarios, que actuarán indistintamente en el protocolo mencionado a partir de la fecha de publicación del acuerdo de asociación, habiéndolo comunicado a las autoridades a que se refiere el artículo 22 fracción IV de esta Ley.
+
+Cada Notario participante del acuerdo de asociación utilizará su propio sello, pero en cada actuación que el Notario Asociado realice, deberá dejar asentado que lo hace en tal calidad;
+
+II. Dentro del protocolo del Asociante, a continuación del último instrumento asentado y en hoja de notas complementarias, los Asociados levantarán constancia que haga referencia al acuerdo de asociación, la que será comunicada al Director del Archivo General de Notarías. En los mismos términos se procederá en el protocolo del Notario Asociado que quedará temporalmente en desuso;
+
+III. Cada uno de los Notarios Asociados será responsable de sus actuaciones;
+
+IV. Deberá especificar que el domicilio de la oficina única en la que ejercerán la función los Notarios Asociados será el del Asociante;
+
+V. El acuerdo de asociación se interrumpirá por voluntad de una de las partes o por la suspensión de cualquiera de ellas del ejercicio de la función notarial por más de tres meses. Volverá a surtir efecto cuando desaparezcan las causas que motivaron la interrupción.
+
+Deberá comunicarse a la Secretaría de Gobierno del Poder Ejecutivo del Estado, la causa que motive la interrupción del acuerdo, así como la cesación de la misma;
+
+VI. El acuerdo de asociación notarial concluirá por voluntad de alguna de las partes o por la falta definitiva de uno de los Notarios Asociados por las causas a que se refiere esta Ley.
+
+En el caso de la conclusión de la asociación notarial por voluntad de las partes, el acuerdo de asociación dejará de surtir efectos a partir del momento de suscripción del convenio que así lo determine; si sólo uno de los Notarios sea quien lo termine, al momento de que lo notifique al otro Notario. En cualquier caso, se levantará constancia en el protocolo a continuación del último instrumento y se dará aviso a la Secretaría de Gobierno del Poder Ejecutivo del Estado, en un plazo de veinticuatro horas por cualquiera de las partes.
+
+La constancia de terminación del acuerdo de asociación se comunicará al Director del Archivo General de Notarias quien tomará nota en el Libro de Registro de Notarios, señalando la fecha en que dejó de surtir sus efectos el acuerdo y deberá publicarlo en el Periódico Oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga";
+
+VII. Al concluir el acuerdo de asociación notarial, el Notario que quede a cargo del protocolo en que se actuaba, continuará los trámites de los instrumentos públicos pendientes que hubieren sido autorizados por el Notario faltante;
+
+VIII. Cuando concluya el acuerdo de asociación como consecuencia de la falta definitiva de cualquiera de los Notarios que se encuentren Asociados, el Notario que se quede en funciones, continuará usando el mismo Protocolo en que se haya actuado. Si el Protocolo perteneciere al Notario faltante, quien se quede en funciones podrá optar por gestionar dentro de los siguientes treinta días ante el Titular del Poder Ejecutivo del Estado, el cambio de número en su nombramiento y proveerse de nuevo sello, con el número de la Notaría que correspondía al Notario faltante, o bien, reiniciar funciones en su Notaria de origen. Mientras se define lo anterior, seguirá actuando como Asociado. La Notaría que quede vacante conforme a lo anterior deberá ser cubierta en los términos de esta Ley, y
+
+IX. La terminación de los acuerdos de asociación, deberá comunicarse a las autoridades mencionadas en el artículo 22 fracción IV de esta Ley y publicarse por una sola vez en el Periódico Oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga" y en uno de los diarios de mayor circulación en la Entidad.
+
+Los convenios de asociación precisados en el presente artículo, no podrán establecer como beneficiarios a personas que no tengan nombramiento de Notario y tampoco a Notarios distintos de los que conformaron la asociación.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 37.
 
-(DEROGADO, P.O. 20 DE FEBRERO DE 2019)
+El Notario que opte por no celebrar acuerdo de asociación, deberá acordar suplencia con otro Notario, que ejerza la función dentro de la misma Demarcación Notarial, lo anterior para suplirse recíprocamente en sus ausencias temporales, en todo tiempo, dando aviso de ello a la Secretaría de Gobierno del Poder Ejecutivo del Estado, al Archivo General de Notarías y al Consejo de Notarios del Estado de Querétaro.
+
+En caso de que el acordado suplente por causas justificadas no pueda realizar la suplencia, y no haya otro notario en funciones en la misma demarcación notarial, la Secretaría de Gobierno del Poder Ejecutivo del Estado, designará como suplente a un Notario de la demarcación notarial más cercana.
+
+La suplencia se regirá por lo siguiente:
+
+I. Mientras subsista un acuerdo de suplencia, los Notarios que lo celebraron deberán suplirse entre sí y no podrán suplir a otro Notario, salvo la autorización de la Secretaría de Gobierno del Poder Ejecutivo del Estado, en los supuestos del artículo 107 de esta Ley y en el caso que el Notario no presentare el acuerdo respectivo.
+
+En tales casos, la Secretaría de Gobierno del Poder Ejecutivo del Estado, designará al suplente previa opinión del Consejo de Notarios del Estado;
+
+II. El Notario suplente actuará en lugar del suplido durante sus ausencias temporales, en las oficinas y en el protocolo de éste, pero utilizando su propio sello, señalando de manera expresa que actúa en calidad de suplente, en cada actuación que realice, y
+
+III. Cuando ejerza la suplencia, el Notario suplente tendrá las mismas funciones del Notario suplido respecto de los instrumentos que él autorice definitivamente y obren en el protocolo del Notario suplido, aun en el caso de que el Notario suplido hubiese cesado en funciones. Igual facultad tendrá respecto de todos los tomos del protocolo e instrumentos autorizados de manera definitiva antes de la suplencia, que obren en la Notaría del Notario suplido, sin que en este último caso el Notario suplente tenga responsabilidad alguna respecto de aquellos instrumentos o documentos cotejados que hubieren sido autorizados por el Notario a quien suple, siendo la única función y responsabilidad del Notario suplente la de autenticar que la copia certificada, certificación, testimonio o constancia de que se trate, coincide con su original o documento respectivo y que lo ha cotejado.
+
+Para todos los efectos legales, en ningún caso se considerará al Notario suplente patrón substituto de el o los empleados que presten o le hayan prestado servicios personales subordinados al Notario a quien se suple, por lo que las relaciones y responsabilidades laborales, en términos de la Legislación Laboral, continúan entre ellos y el Notario a quien se suple, aun cuando éste haya cesado en funciones.
 
 ### Capítulo Sexto. Del Protocolo
 
@@ -509,39 +611,35 @@ El sello del Notario se imprimirá en el margen superior derecho del anverso de 
 
 Toda actuación del Notario deberá hacerse constar en su Protocolo, conforme a los procedimientos y formalidades establecidos para tal efecto en esta Ley. Sin embargo, en cumplimiento del servicio notarial, podrá expedir constancias, certificaciones, informes, copias certificadas y todo tipo de comunicación respecto de cualquier instrumento, documento, anotación o inscripción que obre en su protocolo, sin necesidad de hacerlo constar en el mismo. En este caso, se hará constar en el documento que al efecto se expida, el número del instrumento o del registro del cotejo a que pertenece y los demás datos que permitan su localización dentro del protocolo.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
+
 ###### Artículo 42.
 
-Para integrar el Protocolo, el Consejo de Notarios del Estado, a costa de cada Notario, le proveerá de los folios necesarios para asentar los instrumentos, los cuales tendrán las características que se señalan en esta Ley.
+Para integrar el Protocolo, el Consejo de Notarios del Estado, a costa de cada Notario, le proveerá de los folios necesarios para asentar los instrumentos, los cuales tendrán las características que se señalan en esta Ley. De igual modo, le proveerá a su costa las hojas de testimonio que deberá utilizar en el ejercicio de su función.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+El Archivo General de Notarías y el Consejo de Notarios del Estado, determinarán las especificaciones y medidas de seguridad que deberán de contener los folios y el papel sobre el que se expidan testimonios, mismas que deberán de ser observadas por los Notarios. Así mismo, ambos deberán de acordar los mecanismos necesarios para el debido control de la expedición y autorización de folios.
 
-El Instituto de la Función Registral del Estado de Querétaro y el Consejo de Notarios, determinarán las especificaciones y medidas de seguridad que deberán de contener los folios y el papel sobre el que se expidan testimonios, mismas que deberán de ser observadas por los Notarios. Así mismo el Instituto de la Función Registral del Estado de Querétaro deberá de acordar los mecanismos necesarios para el debido control de la expedición y autorización de folios.
+Previo a su utilización, los Notarios deberán presentar al Archivo General de Notarías los folios correspondientes, a efecto de que cada uno sea autorizado mediante perforaciones o cualquier otro medio indubitable.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+Los folios son propiedad del Estado, a partir del momento en que sean autorizados por (sic) Archivo General de Notarías, pero su manejo queda bajo la estricta responsabilidad del Notario durante el tiempo que deba conservarlos en los términos de esta Ley.
 
-Previo a su utilización, los Notarios deberán presentar al Instituto de la Función Registral del Estado de Querétaro los folios correspondientes, a efecto de que cada uno sea autorizado mediante perforaciones o cualquier otro medio indubitable.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
-
-Los folios son propiedad del Estado, a partir del momento en que sean autorizados por el Instituto de la Función Registral del Estado de Querétaro, pero su manejo queda bajo la estricta responsabilidad del Notario durante el tiempo que deba conservarlos en los términos de esta Ley.
-
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 43.
 
-Al iniciar la formación de un tomo, el Notario hará constar el lugar y la fecha en que se inicia, el número que le corresponde dentro de la serie de los que sucesivamente se han abierto ante su fe, el lugar en donde está situada la Notaría y la mención de que el tomo se formará con los instrumentos debidamente autorizados.
+Al iniciar la formación de un tomo, el Notario hará constar el lugar y la fecha en que se inicia, el número que le corresponde dentro de la serie de los que sucesivamente se han abierto ante su fe, el lugar en donde está situada la Notaría y la mención de que el tomo se formará con los instrumentos debidamente autorizados por el Notario o por quien legalmente lo sustituya.
 
-La hoja en la que se asiente la razón a que se refiere este artículo no irá foliada, se encuadernará antes del primer folio del tomo, deberá ser firmada por el Notario que actúe en el protocolo y se imprimirá el sello de autorizar.
+La hoja en la que se asiente la razón a que se refiere este artículo no irá foliada, se encuadernará antes del primer folio del tomo, deberá ser firmada por el Notario o Notarios que actúen en el protocolo y se imprimirá el sello de autorizar.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 44.
 
-Los folios en los que se asienten los instrumentos serán uniformes, de iguales características para todas las Notarías del Estado, con las medidas que sean determinadas por el Consejo de Notarios en acuerdo con el Instituto de la Función Registral del Estado de Querétaro, con un margen de dos centímetros y medio de su orilla externa y otro de tres centímetros en su orilla interna, por donde se encuadernarán, separando dichos márgenes con una línea de color.
+Los folios en los que se asienten los instrumentos serán uniformes, de iguales características para todas las Notarías del Estado, con las medidas que sean determinadas por el Consejo de Notarios en acuerdo con el Archivo General de Notarías, con un margen de dos centímetros y medio de su orilla externa y otro de tres centímetros en su orilla interna, por donde se encuadernarán, separando dichos márgenes con una línea de color.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
-Los folios estarán numerados progresivamente respecto de cada Notario Titular, anteponiendo el número de la Notaría en la cual serán utilizados, la demarcación asignada, el nombre del Notario y tendrán impreso o grabado el escudo del Consejo de Notarios del Estado.
+Los folios estarán numerados progresivamente respecto de cada Notario, anteponiendo el número de la Notaría en la cual serán utilizados, la demarcación asignada, el nombre del Notario y tendrán impreso o grabado el escudo del Consejo de Notarios del Estado.
 
 > <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2020)</small>
 
@@ -555,11 +653,11 @@ Para asentar las escrituras y actas en los folios, podrá utilizarse cualquier p
 
 La parte utilizable del folio deberá aprovecharse al máximo posible, no deberán dejarse espacios en blanco y los renglones que se impriman deberán quedar a igual distancia unos de otros.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 46.
 
-En caso de extravío, robo o destrucción total o parcial de folios, el Notario deberá de hacerlo de conocimiento inmediato por escrito al Instituto de la Función Registral del Estado de Querétaro y actuar conforme a las siguientes reglas:
+En caso de extravío, robo o destrucción total o parcial de folios, el Notario deberá de hacerlo de conocimiento inmediato por escrito al Archivo General de Notarías y actuar conforme a las siguientes reglas:
 
 I. En el caso de folios en los que no se haya asentado ningún instrumento o habiéndolo hecho no hayan sido firmados por ninguno de los otorgantes y en los folios de numeración inmediata posterior no se hubiere asentado algún instrumento, el Notario asentará constancia en el primer folio posterior, en la que se señale cuáles fueron los folios que no pudieron ser utilizados y la causa de ello;
 
@@ -587,7 +685,9 @@ Todo instrumento se iniciará al principio de un folio y si al final del último
 
 Se tendrá por fecha de terminación del tomo la misma en la que haya sido asentado el último de sus instrumentos y se procederá de la siguiente forma:
 
-I. Dentro de los cinco días hábiles siguientes a la fecha de terminación del tomo, el Notario deberá de informar al Instituto de la Función Registral del Estado de Querétaro, por escrito o por el medio que determine el propio Instituto, de la terminación del mismo, señalando lo siguiente:
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
+
+I. Dentro de los cinco días hábiles siguientes a la fecha de terminación del tomo, el Notario deberá de informar al Archivo General de Notarías, por escrito o por el medio que determine el propio Archivo, de la terminación del mismo, señalando lo siguiente:
 
 a) El número de tomo;
 
@@ -643,27 +743,27 @@ VI. El número de la primera y última escritura que contiene; y
 
 VII. El año de emisión de los instrumentos notariales que contiene.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
-El Instituto de la Función Registral del Estado de Querétaro y el Consejo de Notarios emitirán los lineamientos para la encuadernación de los tomos de los protocolos, mismos que deberán ser observados por los Notarios.
+El Archivo General de Notarías y el Consejo de Notarios emitirán los lineamientos para la encuadernación de los tomos de los protocolos, mismos que deberán ser observados por los Notarios.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
-Dentro de los treinta días naturales siguientes a la fecha en que deba estar encuadernado cada tomo, el Notario deberá enviarlo al Instituto de la Función Registral del Estado de Querétaro. El Instituto revisará que reúna las características de encuadernación señaladas y las previstas en los lineamientos, así como la exactitud de la razón que cierra el tomo conforme a la información que el Notario haya proporcionado, autorizándolo con su firma y sello y lo devolverá al Notario dentro de los quince días hábiles siguientes a la fecha de su recepción.
+Dentro de los treinta días naturales siguientes a la fecha en que deba estar encuadernado cada tomo, el Notario deberá enviarlo al Archivo General de Notarías. Éste revisará que reúna las características de encuadernación señaladas y las previstas en los lineamientos, así como la exactitud de la razón que cierra el tomo conforme a la información que el Notario haya proporcionado, autorizándolo con su firma y sello y lo devolverá al Notario dentro de los quince días hábiles siguientes a la fecha de su recepción.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
-La omisión de entregar al Instituto de la Función Registral del Estado de Querétaro el tomo del Protocolo, en el plazo establecido en el párrafo anterior, será causa para no autorizar nuevos folios e imponer una sanción administrativa por el Secretario de Gobierno, al recibir el informe del Instituto de la Función Registral del Estado de Querétaro.
+La omisión de entregar al Archivo General de Notarías el tomo del Protocolo, en el plazo establecido en el párrafo anterior, será causa para no autorizar nuevos folios e imponer una sanción administrativa por el Secretario de Gobierno del Poder Ejecutivo del Estado, al recibir el informe del referido Archivo General.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
-Bajo la responsabilidad del Notario, los folios y libros que presente al Instituto de la Función Registral del Estado de Querétaro, deberán de estar en buen estado de conservación y libres de cualquier sustancia que pudiera poner en riesgo el acervo notarial.
+Bajo la responsabilidad del Notario, los folios y libros que presente al Archivo General de Notarías, deberán de estar en buen estado de conservación y libres de cualquier sustancia que pudiera poner en riesgo el acervo Notarial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 50.
 
-En el último folio utilizado de cada escritura, si hubiere necesidad, el Notario pondrá, después de la autorización preventiva y la definitiva, el encabezado "Notas Complementarias" y ahí consignará las notas de expedición de testimonio, de su inscripción en el Instituto de la Función Registral del Estado de Querétaro y las demás que deban hacerse conforme a las disposiciones aplicables.
+En el último folio utilizado de cada escritura, si hubiere necesidad, el Notario pondrá, después de la autorización preventiva y la definitiva, el encabezado "Notas Complementarias" y ahí consignará las notas de expedición de testimonio, de su inscripción en el Registro Público de la Propiedad y las demás que deban hacerse conforme a las disposiciones aplicables.
 
 Si la parte final del folio no fuere suficiente, la autorización definitiva o las anotaciones se asentarán al final del instrumento, en una o varias hojas comunes de medidas y calidad semejante a los folios, anotando en éstas el número del instrumento a que corresponda, las cuales deberán ser firmadas y selladas por el Notario.
 
@@ -699,11 +799,11 @@ Los documentos del Apéndice se arreglarán por legajos, poniéndose en cada uno
 
 Los legajos del Apéndice debidamente ordenados, se empastarán para formar un cuaderno por cada tomo, a menos que por el número de hojas que contenga, sea conveniente subdividirlo. Tal encuadernado deberá realizarse dentro de los seis meses siguientes a la fecha de terminación del tomo de protocolo a que pertenecen, identificándolos por el número del propio tomo.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 54.
 
-Los documentos del Apéndice no podrán desglosarse. Los conservará el Notario y seguirán a su tomo respectivo, cuando éstos deban ser entregados definitivamente al Instituto de la Función Registral del Estado de Querétaro.
+Los documentos del Apéndice no podrán desglosarse. Los conservará el Notario y seguirán a su tomo respectivo, cuando éstos deban ser entregados definitivamente al Archivo General de Notarías.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
 
@@ -759,37 +859,41 @@ Para el cotejo de un documento con su copia escrita, fotográfica, fotostática 
 
 Cuando por cualquier circunstancia haya lugar a clausurar un Protocolo, esta diligencia se efectuará siempre con la intervención del Director del Archivo General de Notarías. Al cerrar los libros del Protocolo, se asentará razón en folios de la causa que motiva la clausura, agregando todas las circunstancias que estime convenientes, suscribiendo dicha razón con su firma.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 59.
 
-El Director General del Instituto de la Función Registral del Estado de Querétaro procurará que en el inventario correspondiente se incluyan todos los libros que conforme a la Ley deban llevarse, los valores depositados, el remanente que exista por concepto de pago de impuestos, derechos, precios o cualquier otro pendiente por realizarse derivado de su función, los testamentos cerrados que estuviesen en guarda con expresión del estado de sus cubiertas y sellos, los títulos, expedientes y cualesquiera otros documentos de su archivo y clientela. Además formará otro inventario de los muebles, valores y documentos personales del Notario, para que sean entregados a quien corresponda.
+El Director del Archivo General de Notarías procurará que en el inventario correspondiente se incluyan todos los libros que conforme a la Ley deban llevarse, los valores depositados, el remanente que exista por concepto de pago de impuestos, derechos o cualquier otro pendiente por realizarse derivado de su función, los testamentos cerrados que estuviesen en guarda con expresión del estado de sus cubiertas y sellos, los títulos, expedientes y cualesquiera otros documentos de su archivo y clientela. Además, formará otro inventario de los muebles, valores y documentos varios que se encuentren en la Notaría, para que sean entregados a quien corresponda.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 60.
 
-El Notario que reciba una Notaría, deberá hacerlo por riguroso inventario, con asistencia del Director General del Instituto de la Función Registral del Estado. De esta diligencia, con inclusión del inventario, se levantará y firmará acta por triplicado, remitiéndose un ejemplar a la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro, otro al Instituto de la Función Registral del Estado de Querétaro y el último quedará en poder del Notario que recibe.
+El Notario que reciba una Notaría, deberá hacerlo por riguroso inventario, con asistencia del Director del Archivo General de Notarías. De esta diligencia, con inclusión del inventario, se levantará y firmará acta por triplicado, remitiéndose un ejemplar a la Secretaría de Gobierno del Poder Ejecutivo del Estado, otro al mencionado Archivo General y el último quedará en poder del Notario que recibe y que se asentará en el protocolo.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 61.
 
-El Notario que se encuentre en cualquiera de las situaciones a que se refiere el presente Capítulo, tiene derecho a asistir a la clausura del Protocolo y a la entrega de la respectiva Notaría. Si la vacante es por causa de muerte o de delito, asistirá a la clausura, formación del inventario y entrega, además del Director General del Instituto de la Función Registral del Estado, el Fiscal que designe el Fiscal General del Estado.
+El Notario que se encuentre en cualquiera de las situaciones a que se refiere el presente Capítulo, tiene derecho a asistir a la clausura del Protocolo y a la entrega de la respectiva Notaría. Si la vacante es por causa de muerte o de delito, asistirá a la clausura, formación del inventario y entrega, además del Director del Archivo General de Notarías, el Fiscal que designe el Fiscal General del Estado.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 62.
 
-(DEROGADO, P.O. 20 DE FEBRERO DE 2019)
+En el caso de que el Notario faltante hubiere sido el Asociado, no se clausurará el Protocolo del Asociante, quien asentará constancia en el tomo que tuviere en uso, razón de haber dejado de actuar el Asociado, expresando la fecha y la causa de ello.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 63.
 
-En el caso de suspensión o que se deje sin efectos el nombramiento de un Notario, mientras no exista sustituto, el Director General del Instituto de la Función Registral del Estado de Querétaro recogerá el Protocolo, el sello y demás documentos correspondientes, debiendo en todos los casos, destruir el sello, levantando el acta circunstanciada correspondiente. Mientras se nombra al Notario, el Director General del Instituto de la Función Registral del Estado de Querétaro, expedirá los testimonios y hará las anotaciones y cancelaciones que fueran procedentes.
+En el caso de suspensión o que se deje sin efectos el nombramiento de un Notario, mientras no exista sustituto, el Director del Archivo General de Notarías recogerá el Protocolo, el sello y demás documentos correspondientes, debiendo en todos los casos, destruir el sello, levantando el acta circunstanciada correspondiente. Mientras se nombra al Notario, el Director del Archivo General de Notarías expedirá los testimonios y hará las anotaciones y cancelaciones que fueran procedentes.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 64.
 
-(DEROGADO, P.O. 20 DE FEBRERO DE 2019)
+Las disposiciones de este Capítulo son aplicables plenamente al Notario suplente que, en substitución se encuentre al frente del despacho de la Notaría.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2019)</small>
 
@@ -821,9 +925,9 @@ I. Expresará el lugar y fecha en que se extienda la escritura, su nombre y apel
 
 II. Indicará la hora en los casos en que la ley así lo prevenga;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-III. Consignará los antecedentes y certificará que ha tenido a la vista los documentos que le hubieren presentado para la formación de la escritura. Si se tratare de inmuebles, relacionará, cuando menos, el último título de propiedad del bien o del derecho a que se refiere la escritura y citará los datos de su inscripción en el Instituto de la Función Registral del Estado de Querétaro o expresará que aún no está registrada;
+III. Consignará los antecedentes y certificará que ha tenido a la vista los documentos que le hubieren presentado para la formación de la escritura. Si se tratare de inmuebles, relacionará, cuando menos, el último título de propiedad del bien o del derecho a que se refiere la escritura y citará los datos de su inscripción en el Registro Público de la Propiedad o expresará que aún no está registrada;
 
 IV. Al citar el nombre del Notario ante cuya fe se haya pasado algún instrumento, mencionará el número de la Notaría de que se trata y la fecha del acto;
 
@@ -863,11 +967,13 @@ Para que el Notario haga constar que conoce a los comparecientes, deberá valers
 
 I. Por la certificación que haga, bajo su responsabilidad, de que los conoce personalmente;
 
-II. Por la presentación de documentos oficiales con fotografía que hagan los comparecientes; y
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+II. Por la presentación de documentos oficiales con fotografía que hagan los comparecientes.
 
-El Notario deberá cerciorarse de que la documentación e información proporcionada por los comparecientes para identificarse sea coincidente y refleje una realidad jurídica consistente. En el supuesto de que los documentos, información y demás datos proporcionados por los comparecientes sean ambiguos, incongruentes, contradictorios o insuficientes, el Notario deberá abstenerse de otorgar el instrumento.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
+
+El Notario deberá revisar que la documentación e información proporcionada por los comparecientes para identificarse sea coincidente y refleje una realidad jurídica consistente. En el supuesto de que los documentos, información y demás datos proporcionados por los comparecientes sean ambiguos, incongruentes, contradictorios o insuficientes, el Notario deberá abstenerse de otorgar el instrumento.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2018)</small>
 
@@ -911,9 +1017,9 @@ El Notario deberá autorizar definitivamente la escritura al pie de la misma, cu
 
 La autorización contendrá la fecha y el lugar en que se haga, la firma y sello del Notario, así como las demás menciones que otras leyes prescriban.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
-Si el Notario que hubiere autorizado preventivamente una escritura dejare de actuar, el suplente podrá autorizarla definitivamente o, en su caso, podrá hacerlo el Director General del Instituto de la Función Registral del Estado de Querétaro, requiriéndole para tal afecto al Notario en funciones, informe si existe algún impedimento para su autorización definitiva.
+Si el Notario que hubiere autorizado preventivamente una escritura dejare de actuar, quien lo supla en el ejercicio de sus funciones, podrá autorizarla definitivamente o, en su caso, podrá hacerlo el Director del Archivo General de Notarías por causa legalmente justificada, requiriéndole para tal afecto al Notario en funciones, informe si existe algún impedimento para su autorización definitiva.
 
 ###### Artículo 76.
 
@@ -931,9 +1037,9 @@ Si en una escritura se hacen constar varios actos jurídicos, el Notario deberá
 
 Las notas complementarias llevarán la firma y el sello del Notario.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
-Al pie de la escritura, habiéndola autorizado, el Notario asentará una nota complementaria con la razón de a quien o quienes se haya expedido el testimonio y otra, en su caso, en la que extractará la constancia asentada en el testimonio respectivo por el Instituto de la Función Registral del Estado de Querétaro.
+Al pie de la escritura, habiéndola autorizado, el Notario asentará una nota complementaria con la razón de a quien o quienes se haya expedido el testimonio y otra, en su caso, en la que extractará la constancia asentada en el testimonio respectivo por el Registro Público de la Propiedad.
 
 ###### Artículo 79.
 
@@ -949,23 +1055,23 @@ I. Si el acto revocado o renunciado consta en su Protocolo y la escritura está 
 
 II. Cuando el acto revocado o renunciado conste en Protocolo a cargo de otro Notario del Estado de Querétaro, lo comunicará por escrito a aquél, para que dicho Notario proceda en los términos de la fracción anterior;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-III. Si el tomo del Protocolo de que se trate, es de la Notaría a su cargo o de otra del Estado de Querétaro, ya estuviere depositado en definitiva en el Instituto de la Función Registral del Estado de Querétaro, la comunicación de la revocación o renuncia será enviada al responsable del citado Instituto para que éste haga la anotación complementaria indicada; y
+III. Si el tomo del Protocolo de que se trate, es de la Notaría a su cargo o de otra del Estado de Querétaro, ya estuviere depositado en definitiva en el Archivo General de Notarías, la comunicación de la revocación o renuncia será enviada al responsable del citado Archivo para que éste haga la anotación complementaria indicada, y
 
 IV. Si el poder o mandato renunciado o revocado constare en el protocolo y fuese del Estado de Querétaro, el Notario sólo hará ver al interesado la conveniencia de la anotación indicada y será a cargo de éste último procurar dicha anotación.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
-Todo Notario, al autorizar un poder o mandato otorgado por personas físicas y a consecuencia del cual el apoderado o mandatario esté facultado para realizar actos de dominio sobre bienes inmuebles, dará aviso electrónico de ello, dentro de los tres días hábiles siguientes, al Instituto de la Función Registral del Estado de Querétaro, utilizando los sistemas informáticos y formatos que se determinen. Lo mismo se hará cuando se trate de la revocación o renuncia de los citados poderes o mandatos.
+Todo Notario, al autorizar un poder o mandato otorgado por personas físicas y a consecuencia del cual el apoderado o mandatario esté facultado para realizar actos de dominio sobre bienes inmuebles, dará aviso electrónico de ello, dentro de los tres días hábiles siguientes, al Archivo General de Notarías, utilizando los sistemas informáticos y formatos que se determinen. Lo mismo se hará cuando se trate de la revocación o renuncia de los citados poderes o mandatos.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
-El Instituto de la Función Registral del Estado de Querétaro llevará un registro especial denominado "Registro de Avisos de Poderes Notariales" y transmitirá por medios electrónicos al Registro Nacional de Avisos de Poderes Notariales, los avisos proporcionados por los Notarios a que se refiere el párrafo anterior.
+El Archivo General de Notarías llevará un registro especial denominado "Registro de Avisos de Poderes Notariales" y transmitirá por medios electrónicos al Registro Nacional de Avisos de Poderes Notariales, los avisos proporcionados por los Notarios a que se refiere el párrafo anterior.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
-Cuando el compareciente actúe en representación voluntaria de otra persona física, el Notario, antes de autorizar el acto o negocio jurídico de que se trate consultará telemáticamente el Registro de Avisos de Poderes Notariales del Instituto de la Función Registral del Estado de Querétaro, que estará vinculado electrónicamente con el Registro Nacional de Avisos de Poderes Notariales, a efecto de comprobar que no consta la revocación del poder o mandato exhibido y, en su caso, los términos de éste, salvo que, bajo su responsabilidad, no estime necesario realizar la consulta.
+Cuando el compareciente actúe en representación voluntaria de otra persona física, el Notario, antes de autorizar el acto o negocio jurídico de que se trate consultará telemáticamente el Registro de Avisos de Poderes Notariales del Archivo General de Notarías, que estará vinculado electrónicamente con el Registro Nacional de Avisos de Poderes Notariales, a efecto de comprobar que no consta la revocación del poder o mandato exhibido y, en su caso, los términos de éste, en caso de no realizar lo anterior, será acreedor a sanción administrativa.
 
 Las obligaciones a que se refiere este artículo podrán coordinarse con otros Estados o con la Federación.
 
@@ -973,11 +1079,11 @@ Las obligaciones a que se refiere este artículo podrán coordinarse con otros E
 
 La obligación que tiene el Notario de redactar por escrito las cláusulas de los testamentos públicos abiertos no implica el deber de escribirlas por sí mismo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 81.
 
-Todo Notario, al autorizar un testamento, a más tardar dentro de los tres días hábiles siguientes a su otorgamiento, dará aviso de ello al Instituto de la Función Registral del Estado de Querétaro, utilizando los sistemas informáticos y formatos que éste determine, expresando:
+Todo Notario, al autorizar un testamento, a más tardar dentro de los tres días hábiles siguientes a su otorgamiento, dará aviso de ello al Archivo General de Notarías, utilizando los sistemas informáticos y formatos que éste determine, expresando:
 
 I. El nombre y demás generales del testador;
 
@@ -987,17 +1093,27 @@ III. En caso de que el testador manifieste los nombres de sus padres y su Clave 
 
 Si el testamento fuere cerrado, expresará además en el aviso, el lugar o persona en cuyo poder se deposite.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
-El aviso a que hace referencia el presente artículo podrá ser enviado por el Notario ante quien se otorgó testamento, mediante documento por él firmado y sellado, o bien, de manera electrónica, mediante el uso de sistemas informáticos que el Consejo de Notarios del Estado acuerde con el Instituto de la Función Registral del Estado de Querétaro, siendo esta dependencia la responsable de la operación.
+El aviso a que hace referencia el presente artículo podrá ser enviado por el Notario ante quien se otorgó testamento, mediante documento por él firmado y sellado, o bien, de manera electrónica, mediante el uso de sistemas informáticos que el Consejo de Notarios del Estado acuerde con el Archivo General de Notarías, siendo esta dependencia la responsable de la operación. Los sistemas informáticos referidos en el primer párrafo de este artículo, permitirán la captura, almacenamiento, custodia, manejo y seguridad de la información que se desprenda de los avisos.
 
 Tratándose de Notarios que ejerzan sus funciones fuera de la capital del Estado, dichos avisos podrán ser enviados por correo certificado con acuse de recibo, antes del vencimiento del plazo establecido.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
-El Instituto de la Función Registral del Estado de Querétaro llevará un registro especial denominado “Registro de Avisos de Testamentos”, destinando a asentar las inscripciones relativas con los datos que se mencionan y las transmitirá, por medios electrónicos, al Registro Nacional de Avisos de Testamentos.
+El Archivo General de Notarías llevará un Registro especial denominado "Registro de Avisos de Testamentos", destinando a asentar las inscripciones relativas con los datos que se mencionan y las transmitirá, por medios electrónicos, al Registro Nacional de Avisos de Testamentos.
 
-El Notario ante quien se inicie un juicio sucesorio recabará del Archivo General de Notarías, la información por escrito de si hay en el Registro de Avisos de Testamento, anotación referente de haberse otorgado alguno por la persona de cuya sucesión se trate en el Estado o en otra entidad federativa.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
+
+El Notario ante quien se inicie la tramitación de una sucesión a bienes, recabará del Archivo General de Notarías, la información por escrito de si hay en el Registro de Avisos de Testamento, anotación referente de haberse otorgado alguno por la persona de cuya sucesión se trate en el Estado o en otra entidad federativa.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+El Director del Archivo General de Notarías solicitará a su vez información al Registro Nacional de Avisos de Testamentos, sobre la existencia o inexistencia de alguna disposición testamentaria otorgada en otra entidad federativa, agregando el reporte de búsqueda respectivo a su informe local.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+Las obligaciones a que se refiere este artículo podrán coordinarse con otras Entidades o la Federación. En caso de no avisar en tiempo al Archivo General de Notarías, será acreedor a sanción administrativa.
 
 ###### Artículo 82.
 
@@ -1077,7 +1193,9 @@ I. Testimonios o copias impresas, por cualquier medio de reproducción que sea l
 
 II. Certificaciones de los instrumentos o documentos que consten en su Protocolo, haciendo constar el número del instrumento al que pertenece; y
 
-III. Las certificaciones respecto de la razón de existencia de uno o varios documentos que se le exhibieran para acreditar la personalidad de los otorgantes o interesados en una escritura o acta.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
+
+III. Las certificaciones respecto de la razón de existencia de uno o varios documentos que se le exhibieran para acreditar la personalidad de los otorgantes o interesados en una escritura o acta que el Notario asiente, en la reproducción total o parcial, lo que será suficiente para dejar acreditada la personalidad; bastando para ello relacionar en la escritura o acta respectiva, el número y fecha de la escritura cuyo testimonio o copia se le exhiba y el nombre y número del Notario ante quien se haya otorgado, o la autoridad y procedimiento de que se deriven, en caso de ser copias certificadas expedidas respecto de constancias de algún procedimiento judicial.
 
 Toda certificación será autorizada por el Notario, con su firma y sello.
 
@@ -1085,15 +1203,15 @@ Toda certificación será autorizada por el Notario, con su firma y sello.
 
 El Notario en funciones deberá realizar la autorización definitiva y la expedición de los testimonios que se encuentren en guarda definitiva. El Archivo General de Notarías pondrá a disposición de dicho notario el libro de protocolo para asentar en él las notas correspondientes.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
-El Archivo General de Notarías podrá expedir los testimonios de las escrituras o actas notariales que consten en los protocolos cuyo depósito y conservación le encomienda la presente Ley.
+El Archivo General de Notarías, por causas justificadas y de imposibilidad legal del notario, podrá expedir los testimonios de las escrituras o actas notariales que consten en los protocolos cuyo depósito y conservación le encomienda la presente Ley.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 90.
 
-Las hojas del testimonio tendrán la misma calidad y dimensiones que fije esta Ley para los folios del Protocolo y los renglones se asentarán en la misma forma. El Instituto de la Función Registral del Estado de Querétaro y el Consejo de Notarios, fijarán las medidas de seguridad que deban contener las hojas del testimonio.
+Las hojas de testimonio tendrán la misma calidad y dimensiones que fije esta Ley para los folios del Protocolo y los renglones se asentarán en la misma forma. Serán provistas a cada Notario, a su costa, por el Consejo de Notarios del Estado y contendrán las medidas de seguridad, uniformes para todos los Notarios, que acuerde el propio Consejo de Notarios del Estado.
 
 Capítulo Decimoprimero
 
@@ -1163,7 +1281,9 @@ III. Si lo autoriza fuera de su demarcación;
 
 IV. Si no está autorizado con la firma y sello del Notario; y
 
-V. Si faltare algún otro requisito que produzca la nulidad por disposición expresa de la ley.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
+
+V. Si no fuere expedido en las hojas señaladas en el artículo 90 de esta Ley o si faltare algún otro requisito que produzca la nulidad por disposición expresa de la ley.
 
 ###### Artículo 98.
 
@@ -1185,25 +1305,37 @@ El Notario que fuere designado o electo para el desempeño de otro cargo públic
 
 Concluido su encargo, el Notario deberá dar aviso de reiniciación en el ejercicio de la función notarial, en un plazo no mayor de cinco meses. Si no lo hace se entenderá que renuncia al nombramiento de Notario.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 101.
 
-Los Notarios Titulares asignados a la Notaría, se suplirán recíprocamente en sus faltas temporales, previo aviso a la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro.
+Los Notarios se suplirán en sus faltas temporales, conforme a lo dispuesto en los artículos 36 y 37 de esta Ley.
 
 ###### Artículo 102.
 
 Son causas de suspensión de un Notario, en el ejercicio de sus funciones:
 
-I. La sujeción a proceso en el que haya sido declarado formalmente preso por delito en que no procede la libertad caucional, mientras no se pronuncie sentencia definitiva;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-II. La sanción administrativa impuesta por el Poder Ejecutivo del Estado, por sí o a solicitud del Consejo de Notarios, por faltas comprobadas en el ejercicio de sus funciones; y
+I. Ser vinculado a proceso con prisión preventiva, mientras no se pronuncie sentencia definitiva;
 
-III. Los impedimentos físicos o intelectuales transitorios, que coloquen al Notario en la imposibilidad de actuar por tiempo mayor de dos años.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
+
+II. La sanción administrativa impuesta por el Poder Ejecutivo del Estado, por sí o a solicitud del Consejo de Notarios, por faltas comprobadas en el ejercicio de sus funciones;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
+
+III. Los impedimentos físicos o intelectuales transitorios, que coloquen al Notario en la imposibilidad de actuar por tiempo mayor de dos años, y
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2022)</small>
+
+IV. No mantener vigente o actualizada la fianza en los términos de los artículos 115 y 116 de esta Ley, siempre que, habiendo sido apercibido por escrito, el Notario no cumpla dicha obligación.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 103.
 
-El Juez que instruya un proceso en contra de cualquier Notario, dará aviso a la Secretaría de Gobierno y al Consejo de Notarios en caso de que el Notario sea declarado formalmente preso, informando si procede o no la libertad caucional.
+El Juez que instruya un proceso en contra de cualquier Notario, dará aviso a la Secretaría de Gobierno del Poder Ejecutivo del Estado y al Consejo de Notarios del Estado en caso de que el Notario sea vinculado a proceso con prisión preventiva.
 
 ###### Artículo 104.
 
@@ -1217,9 +1349,11 @@ Capítulo Decimotercero
 
 De la cesación definitiva o terminación del cargo de Notario
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
+
 ###### Artículo 105.
 
-Quedará sin efecto el nombramiento de Notario, si dentro del término de treinta días hábiles siguientes al de su protesta, no establece la Notaría y fija su residencia dentro de su demarcación.
+Quedará sin efecto el nombramiento de Notario, si dentro del término de treinta días hábiles siguientes al de su protesta, no establece la Notaría y fija su residencia dentro de su demarcación, así como cuando no constituya la fianza señalada en el artículo 22 fracción V de la presente Ley.
 
 ###### Artículo 106.
 
@@ -1237,7 +1371,9 @@ II. Fallecimiento del Notario;
 
 III. Sentencia judicial de inhabilitación o de destitución del Notario; y
 
-IV. Condena del Notario a pena corporal por delito intencional.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
+
+IV. Ser condenado a pena de prisión por delito doloso mediante sentencia firme.
 
 ###### Artículo 108.
 
@@ -1247,11 +1383,19 @@ Bastará que el Notario se encuentre comprendido en alguno de los casos previsto
 
 Los encargados de las oficinas del Registro Civil ante quienes se diere aviso del fallecimiento de un Notario, lo comunicarán inmediatamente al Poder Ejecutivo del Estado y al Consejo de Notarios.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 110.
 
-Cuando un Notario cese en su cargo por cualquier causa, el Instituto de la Función Registral del Estado de Querétaro lo publicará por una vez en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+Cuando un Notario cese en su cargo por cualquier causa, el Director del Archivo General de Notarías lo publicará por una vez en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+Ante la cesación, se acordará la cancelación de la fianza constituida, siempre que no haya procedimiento alguno que importe responsabilidad pecuniaria para el Notario pendiente de resolución.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+La cancelación de la fianza deberá solicitarse por el Notario cesante o por parte legítima, debiendo publicarse la petición en el Periódico Oficial, "La Sombra de Arteaga" por una sola vez, así como en un diario de mayor circulación. Transcurridos 180 días de la publicación sin que hubiere reclamación de quien tuviere interés legítimo, se hará la cancelación. En caso de oposición, la fianza sólo se cancelará cuando la misma se declare infundada.
 
 Capítulo Decimocuarto
 
@@ -1271,17 +1415,21 @@ II. Multa de veinte a mil veces el valor diario de la UMA;
 
 III. Suspensión del ejercicio de la función hasta por seis meses; y
 
-IV. Separación definitiva del cargo.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
+
+IV. Separación definitiva del cargo, lo que implica que el nombramiento como Notario queda sin efectos.
 
 Estas sanciones administrativas podrán aplicarse sin seguir el orden de su enumeración y atendiendo sólo a la gravedad de la falta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2022)</small>
+
 ###### Artículo 112.
 
-Para aplicar a los Notarios las sanciones administrativas a que se refiere el artículo anterior, el Poder Ejecutivo del Estado se auxiliará de la Comisión de Honor y Justicia del Consejo de Notarios, que estará integrada con por lo menos dos ex presidentes del mismo, el Presidente y Secretario en funciones, fungiendo el primero de los nombrados como Presidente de dicha Comisión.
+Para aplicar a los Notarios las sanciones administrativas a que se refiere el artículo anterior, el Poder Ejecutivo del Estado se auxiliará de la Comisión de Honor y Justicia del Consejo de Notarios, que estará integrada por lo menos con dos ex presidentes del mismo, el Presidente y Secretario en funciones, fungiendo el primero de los nombrados como Presidente de dicha Comisión.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
-El Poder Ejecutivo del Estado, a través de la Secretaría de Gobierno, podrá ordenar oficiosamente o a petición de parte, visitas, inspecciones o instruir actuaciones que practicarán el Instituto de la Función Registral del Estado de Querétaro o la persona designada expresamente para tal efecto. En todo caso se concederá el derecho de audiencia al Notario afectado y deberá escucharse la opinión de la Comisión de Honor y Justicia.
+El Poder Ejecutivo del Estado, a través de la Secretaría de Gobierno, podrá ordenar oficiosamente o a petición de parte, visitas, inspecciones o instruir actuaciones que practicarán el Archivo General de Notarías, el servidor público o la persona designada expresamente para tal efecto. En todo caso se concederá el derecho de audiencia al Notario afectado y deberá escucharse la opinión de la Comisión de Honor y Justicia.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2018)</small>
 
@@ -1321,17 +1469,41 @@ Los procedimientos iniciados oficiosamente por la Secretaría de Gobierno del Po
 
 Son delitos en que pueden incurrir los Notarios, aquellos del orden común que se les atribuyan en el ejercicio de sus funciones.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
+
 ###### Artículo 115.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+La fianza a que se refiere la fracción V del artículo 22, garantizará ante la Autoridad competente, exclusivamente la responsabilidad profesional por la función notarial. Los Notarios deberán obtener dicha fianza del Consejo de Notarios conforme a las reglas que éste determine.
+
+El Consejo de Notarios podrá determinar no afianzar a Notarios en particular o retirarles la fianza, cuando exista razón fundada para ello; en tales casos, el Notario del que se trate, deberá obtener la fianza de institución legalmente autorizada.
+
+La fianza se aplicará de la siguiente manera:
+
+I. Por la cantidad que corresponda y en forma preferente, al pago de multas y otras responsabilidades administrativas cuando, ante la negativa del Notario, se deba hacer el pago forzoso a las autoridades fiscales u otras autoridades;
+
+II. En el orden determinado por la autoridad judicial, cuando se deba cubrir a un particular o al fisco, el monto fijado por sentencia firme condenatoria por responsabilidad civil, penal o fiscal en contra del Notario. Para tal efecto, el interesado deberá exhibir copia certificada de dicha sentencia ante la autoridad competente; y
+
+III. Por la cantidad remanente que se cubrirá a las Autoridades competentes por la responsabilidad administrativa del Notario en los casos de revocación del nombramiento que hubiere quedado firme.
+
+En los casos previstos en la fracción II de este artículo, la autoridad judicial está obligada a ordenar expresamente a la Secretaría de Finanzas del Poder Ejecutivo del Estado, se haga efectiva la fianza a que se refiere el artículo 22 y su aplicación al pago al que hubiere sido condenado el Notario.
+
+La Secretaría de Gobierno del Poder Ejecutivo del Estado, remitirá el documento que acredite la constitución de la fianza a la Secretaría de Finanzas del Estado de Querétaro, y en su caso, solicitará se haga efectiva la misma, así como la aplicación de las cantidades que correspondan conforme a las fracciones anteriores.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 116.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+Es obligación del Notario mantener vigente y actualizar su fianza en el mes de febrero de cada año. Asimismo, deberá mantenerla vigente durante el año siguiente a aquel en que haya dejado de ejercer la función Notarial en forma definitiva.
+
+La correspondiente póliza de fianza y sus actualizaciones, será resguardada por la Secretaría de Gobierno del Estado, a través del Archivo General de Notarías. La omisión en que incurra el Notario a esta disposición será sancionada por la Autoridad administrativa en términos de la presente Ley.
+
+En el contrato de fianza correspondiente se celebrará en todo caso en el concepto de que el fiador renuncia a los beneficios de orden y excusión.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 117.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2018)
+En las asociaciones o sociedades que los notarios constituyan relacionadas con la función notarial, únicamente podrán participar como socios o asociados los Notarios, por lo que queda excluida cualquier otra persona que carezca de nombramiento como tal.
 
 ###### Artículo 118.
 
@@ -1341,23 +1513,25 @@ Son delitos en que pueden incurrir los Notarios, aquellos del orden común que s
 
 ### Capítulo Único. De la Directiva
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 119.
 
-En el Estado habrá un Consejo de Notarios, órgano auxiliar de la función pública, con personalidad jurídica y patrimonio propio, que estará integrado por todos los Notarios Titulares en ejercicio. Su Directiva estará integrada por un Presidente, un Secretario, un Tesorero, un Primer Vocal y un Segundo Vocal.
+En el Estado habrá un Consejo de Notarios, órgano auxiliar de la función pública, con personalidad jurídica y patrimonio propio, que estará integrado por todos los Notarios en ejercicio. Su Directiva estará integrada por un Presidente, un Secretario, un Tesorero y cuatro vocales.
 
 ###### Artículo 120.
 
 La elección de la directiva se hará dentro de los primeros quince días del mes de enero de cada año par en las instalaciones del Consejo de Notarios.
 
-Las faltas temporales del Presidente, serán suplidas por el Secretario; las de éste, por el Primer Vocal y las del Tesorero por el Segundo Vocal.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2019)</small>
+Las faltas temporales del Presidente, serán suplidas por el Secretario; las de éste, y las del Tesorero, por el Vocal que el Presidente designe.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### Artículo 121.
 
-Se convocará a la elección, por medio de circular que el Secretario dirigirá con quince días de anticipación a todos los Notarios Titulares en ejercicio.
+Se convocará a la elección, por medio de circular que el Secretario dirigirá con quince días de anticipación a todos los Notarios en ejercicio.
 
 ###### Artículo 122.
 
@@ -1389,7 +1563,13 @@ II. Estudiar los asuntos que le encomiende el Gobernador;
 
 III. Resolver las consultas que le hicieren los Notarios del Estado, referentes al ejercicio de sus funciones; y
 
-IV. Las demás que le confieren esta Ley y sus reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MAYO DE 2022)</small>
+
+IV. Determinar con la opinión de la Comisión de Honor y Justicia, los requisitos para el afianzamiento a que se refiere los Artículo (sic) 22 fracción V, 115 y 116, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE MAYO DE 2022)</small>
+
+V. Las demás que le confieren esta Ley y sus reglamentos.
 
 ###### Artículo 128.
 
@@ -2114,3 +2294,81 @@ Artículo Segundo. Las disposiciones aplicables a la firma electrónica de los s
 Artículo Tercero. Las disposiciones aplicables a la la (sic) firma electrónica notarial, así como las relacionadas con el apéndice electrónico, folio electrónico, protocolo electrónico, registro de cotejos electrónico y demás trámites a través de medios electrónicos, se implementarán gradualmente conforme a las bases y lineamientos que publique el Archivo General de Notarías, de conformidad con la suficiencia presupuestal y las capacidades para desarrollar la infraestructura tecnológica.
 
 Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+P.O. 20 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE "LA LEY QUE REFORMA, ADICIONA Y DEROGA, DIVERSAS DISPOSICIONES EN MATERIA DE GOBIERNO DIGITAL Y EL EJERCICIO DE FUNCIONES PÚBLICAS".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Las disposiciones legales y administrativas expedidas en la materia regulada por esta Ley, vigentes al momento de la publicación de la misma, se mantendrán en vigor en lo que no se opongan a la misma, hasta en tanto se expidan las disposiciones que deban sustituirlas.
+
+Artículo Cuarto. Los sujetos de la Ley, en cumplimiento del objeto de la misma, deberán desarrollar e implementar los portales, plataformas, aplicaciones, o cualquier otra herramienta tecnológica para efectos de sus trámites y servicios, en un plazo no mayor a dos años contados a partir del día en que entre en vigor la presente Ley.
+
+Artículo Quinto. Las facultades que de conformidad con la presente Ley deban ejercer los sujetos de la Ley, las llevarán a cabo a través de los órganos o instancias que correspondan, de conformidad con el ámbito de competencia respectivo.
+
+Artículo Sexto. Dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente ordenamiento, se deberá instalar la Comisión Estatal de Gobierno Digital.
+
+Artículo Séptimo. Los Sujetos de la Ley deberán realizar las adecuaciones a sus reglamentos, disposiciones administrativas y demás normatividad que sea necesaria para dar cumplimiento a la presente Ley, a más tardar a los 360 días naturales siguientes a la entrada en vigor de la misma.
+
+Artículo Octavo. Se autoriza a la Secretaría para realizar las adecuaciones presupuestarias que se requieran para dar cumplimiento a las disposiciones comprendidas en esta Ley.
+
+Artículo Noveno. Con la finalidad de dar cumplimiento a lo establecido por el artículo 4 primer párrafo de la Ley del Notariado del Estado de Querétaro, los Notarios nombrados con anterioridad al inicio de vigencia tendrán derecho a la asignación de un número.
+
+Los Notarios que tengan a su cargo el protocolo más antiguo, conservarán el número de la Notaría a la que hayan sido designados.
+
+Los Notarios que tengan a su cargo (sic) protocolo con menor antigüedad dentro de una misma Notaría, se les asignará el número que de manera consecutiva y progresiva corresponda, considerando el último número de la demarcación notarial y el de la Notaría al que originariamente fueron designados.
+
+En congruencia con lo anterior, la asignación de números a los Notarios deberá comenzar de la siguiente manera:
+
+a) Para la demarcación notarial de Querétaro, la asignación comienza desde el número 39 al 76.
+
+b) Para la demarcación notarial de San Juan del Río, la asignación comienza desde el número 12 al 22.
+
+c) Para la demarcación notarial de Cadereyta de Montes, la asignación comienza desde el número 3 al 4.
+
+d) Para la demarcación notarial de Tolimán, la asignación comienza desde el número 3 al 4.
+
+e) Para la demarcación notarial de Amealco de Bonfil, la asignación comienza desde el número 3 al 4.
+
+f) Para la demarcación notarial de Jalpan de Serra, la asignación comienza desde el número 3 al 4.
+
+Los Notarios nombrados con anterioridad al inicio de la vigencia de la presente Reforma, conservarán su demarcación notarial.
+
+La asignación de los números a los Notarios designados con anterioridad al inicio de la presente Reforma, autoriza la actualización del nombramiento, en la que se precise el número correspondiente, atendiendo a lo expuesto en los párrafos anteriores.
+
+En apego a lo establecido por los artículos 11 y 23 de la Ley del Notariado del Estado de Querétaro, los Notarios a los que se les haya asignado número deberán realizar las gestiones para la actualización de su sello.
+
+Los Notarios que tengan autorizada una licencia al momento de la entrada en vigor de la presente Ley, podrán realizar la sustitución de su sello, comunicaciones y demás gestiones, una vez que reinicien sus funciones. No obstante, se procederá con la actualización de su nombramiento en los términos señalados anteriormente.
+
+Los Notarios nombrados con anterioridad al inicio de la vigencia de la presente Ley, podrán realizar las gestiones y comunicaciones oficiales de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro, para asociarse en los términos de la presente Ley.
+
+Los Notarios que opten por no asociarse, deberán informar dentro de un plazo de hasta seis meses, a la Secretaría de Gobierno del Poder Ejecutivo del Estado, el domicilio en que se instalará su Notaría dentro de la demarcación notarial a la que hayan sido asignados, así como la designación de su suplente en los términos de la presente Ley.
+
+Los Notarios que opten por no asociarse, tendrán un plazo de 90 días, contados a partir de la entrada en vigor de esta Ley, para la designación de su suplente. Si transcurrido el plazo, el Notario no presenta el acuerdo de suplencia mencionado, la Secretaría de Gobierno del Poder Ejecutivo del Estado, previa opinión del Consejo de Notarios del Estado, oficiosamente le nombrará un Notario Suplente.
+
+Artículo Décimo. A efecto de dar cumplimiento a lo establecido en el Artículo Transitorio inmediato anterior, permanecerán en cada Notaría los protocolos existentes a la fecha de entrada en vigor de la presente Ley, por lo que se realizará para este efecto, una diligencia de entrega recepción del protocolo, de la que se levantará el acta correspondiente, y donde se relacionarán de manera rigurosa los trámites pendientes de concluir por parte del Notario a quien se le asignará nuevo número de Notaría.
+
+En la mencionada diligencia, se recogerá el sello del Notario al que se le haya asignado nuevo número de Notaría, para su destrucción, deberán de asistir a ésta, la persona titular de la Dirección del Archivo General de Notarías que será el representante de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro que se designe para ese efecto, así como el Notario que conserva el número de Notaría, y el Notario al que se le haya designado nuevo número.
+
+Artículo Décimo Primero. Mientras continúe en funciones, cada Notario seguirá siendo responsable de la conclusión de los Instrumentos que hayan pasado ante su fe.
+
+El Notario que conserve el número de Notaría que tenía asignada a la entrada en vigor de la presente Ley, permitirá que el otro Notario que haya actuado en el Protocolo de dicha Notaría concluya los Instrumentos pasados ante su fe.
+
+Los Notarios a quienes se asigne nuevo número, además de actuar en su nuevo Protocolo, quedan obligados a concluir los Instrumentos que pasaron ante su fe antes de la entrada en vigor de la presente Ley, en cuyo caso actuarán con su nuevo sello, dejando expresamente asentada la razón de ello.
+
+Una vez terminados los trámites pendientes, el Notario al que se le asignó nuevo número de Notaría, deberá de informarlo a la Secretaría de Gobierno y al Director del Archivo General de Notarías, para efectos de su clausura y resguardo en el Archivo General de Notarías.
+
+A las diligencias de clausura del protocolo, deberá de asistir las personas señaladas en el artículo transitorio inmediato anterior. De la mencionada diligencia se levantará el acta correspondiente.
+
+Artículo Décimo Segundo. Los Notarios en funciones, en el plazo de 180 días siguientes a partir de la vigencia de esta Ley, deberán de dar cabal cumplimiento a la fracción V del artículo 22 de esta Ley.
+
+Artículo Décimo Tercero. Los Notarios en funciones que tuvieren folios no utilizados de su protocolo anterior, podrán utilizarlos como parte de su nuevo protocolo, para lo cual deberán dar aviso al Archivo General de Notarías y al Consejo de Notarios del Estado, en el término de diez días sobre cuántos y cuáles folios autorizados y sin autorizar se tienen sin usar, a efecto de que dichos folios puedan ser legalmente utilizados asentando razón de ello tanto en el anterior como en el nuevo protocolo. Cuando se utilice el último de dichos folios, se anotará en el nuevo protocolo, que se inicia la utilización de los folios con el nuevo número de Notaría asignado.
+
+Artículo Décimo Cuarto. Las hojas de testimonio que deberán utilizar los Notarios, en los términos a que se refiere el artículo 90 de esta Ley, deberán comenzar a utilizarlas dentro del plazo de 180 días contados a partir de la entrada en vigor de la presente Ley.
+
+Artículo Décimo Quinto. La Secretaría de Gobierno del Poder Ejecutivo, dictará las provisiones necesarias para el cumplimiento de lo dispuesto en la presente Ley, atendiendo a las circunstancias que se presenten con motivo de la asignación de los números a los Notarios.
+
+Articulo Décimo Sexto. Las contrataciones de servicios integrales a largo plazo previstos en la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro o compromisos plurianuales, celebradas en el ejercicio fiscal 2022, les serán aplicables las disposiciones contenidas en los Artículos Tercero, Cuarto y Quinto de la presente Ley.
