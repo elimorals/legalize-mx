@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-gobierno-municipal-del-estado-de-nuevo-leon-108317"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-27"
-last_updated: "2022-03-28"
+last_updated: "2022-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de mayo de 2015.
 
@@ -485,9 +485,17 @@ b) Garantizar el derecho a la igualdad, a la integridad personal y a la vida;
 
 c) Garantizar el derecho al honor, a la vida privada y a la dignidad;
 
-d) Procurar la integridad física, emocional y de salud, de los gobernados; y
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
-e) Garantizar los derechos del niño; procurando el derecho a las medidas de protección que su condición de menor requieren por parte de su familia, de la sociedad y del Municipio.
+d) Procurar la integridad física, emocional y de salud de los gobernados;
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
+
+e) Garantizar los derechos del niño; procurando el derecho a las medidas de protección que su condición de menor requieren por parte de su familia, de la sociedad y del Municipio; y
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+f) Promover espacios físicos dentro de los centros de población dedicados al establecimiento de huertos urbanos a fin de impulsar la transición hacia el desarrollo sustentable.
 
 X. En materia de Transparencia, Fiscalización y Contabilidad Gubernamental:
 
@@ -2814,3 +2822,9 @@ P.O. 28 DE MARZO DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los Municipios en un plazo no mayor de 120-ciento veinte días naturales contados a partir de la entrada en vigor de este Decreto deberán realizar las reformas necesarias para ajustar sus Reglamentos Municipales a las disposiciones del presente Decreto.
+
+P.O. 20 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 149. SE REFORMA LOS INCISOS D) Y E) Y SE ADICIONA EL INCISO F) DE LA FRACCIÓN IX DEL ARTÍCULO 33 DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
