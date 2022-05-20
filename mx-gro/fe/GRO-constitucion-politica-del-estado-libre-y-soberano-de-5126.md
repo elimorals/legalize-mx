@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2020-06-30"
+last_updated: "2022-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2022.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -455,173 +455,181 @@ V. Con el Estado de Oaxaca: por laudo pronunciado por particular el 28 de abril 
 
 La base de la división territorial y de organización política, administrativa y de gobierno del Estado de Guerrero es el Municipio Libre, la ley de la materia determinará el ejercicio de sus competencias conforme a esta Constitución y a la (sic) Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 27.
 
 Los municipios integrantes del Estado de Guerrero conservarán la extensión territorial que les reconoce la ley de la materia, y que son:
 
-1. Acapulco de Juárez
+1. Acapulco de Juárez.
 
-2. Acatepec
+2. Acatepec.
 
-3. Ahuacuotzingo
+3. Ahuacuotzingo.
 
-4. Ajuchitlán del Progreso
+4. Ajuchitlán del Progreso.
 
-5. Alcozauca de Guerrero
+5. Alcozauca de Guerrero.
 
-6. Alpoyeca
+6. Alpoyeca.
 
 7. Apaxtla de Castrejón
 
-8. Arcelia
+8. Arcelia.
 
-9. Atenango del Río
+9. Atenango del Río.
 
-10. Atlamajalcingo del Monte
+10. Atlamajalcingo del Monte.
 
-11. Atlixtac
+11. Atlixtac.
 
-12. Atoyac de Álvarez
+12. Atoyac de Álvarez.
 
-13. Ayutla de los Libres
+13. Ayutla de los Libres.
 
-14. Azoyú
+14. Azoyú.
 
-15. Benito Juárez
+15. Benito Juárez.
 
-16. Buenavista de Cuéllar
+16. Buenavista de Cuéllar.
 
-17. Coahuayutla de José María Izazaga
+17. Coahuayutla de José María Izazaga.
 
-18. Cochoapa el Grande
+18. Cochoapa el Grande.
 
-19. Cocula
+19. Cocula.
 
-20. Copala
+20. Copala.
 
-21. Copalillo
+21. Copalillo.
 
-22. Copanatoyac
+22. Copanatoyac.
 
-23. Coyuca de Benítez
+23. Coyuca de Benítez.
 
-24. Coyuca de Catalán
+24. Coyuca de Catalán.
 
-25. Cuajinicuilapa
+25. Cuajinicuilapa.
 
-26. Cualac
+26. Cualac.
 
-27. Cuautepec
+27. Cuautepec.
 
-28. Cuetzala del Progreso
+28. Cuetzala del Progreso.
 
-29. Cutzamala de Pinzón
+29. Cutzamala de Pinzón.
 
-30. Chilapa de Álvarez
+30. Chilapa de Álvarez.
 
-31. Chilpancingo de los Bravo
+31. Chilpancingo de los Bravo.
 
-32. Eduardo Neri
+32. Eduardo Neri.
 
-33. Florencio Villarreal
+33. Florencio Villarreal.
 
-34. General Canuto A. Neri
+34. General Canuto A. Neri.
 
-35. General Heliodoro Castillo
+35. General Heliodoro Castillo.
 
-36. Huamuxtitlán
+36. Huamuxtitlán.
 
-37. Huitzuco de los Figueroa
+37. Huitzuco de los Figueroa.
 
-38. Iguala de la Independencia
+38. Iguala de la Independencia.
 
-39. Igualapa
+39. Igualapa.
 
-40. Iliatenco
+40. Iliatenco.
 
-41. Ixcateopan de Cuauhtémoc
+41. Ixcateopan de Cuauhtémoc.
 
-42. José Joaquín de Herrera
+42. José Joaquín de Herrera.
 
-43. Juan R. Escudero
+43. Juan R. Escudero.
 
-44. Juchitán
+44. Juchitán.
 
-45. La Unión de Isidoro Montes de Oca
+45. La Unión de Isidoro Montes de Oca.
 
-46. Leonardo Bravo
+46. Las Vigas.
 
-47. Malinaltepec
+47. Leonardo Bravo.
 
-48. Marquelia
+48. Malinaltepec.
 
-49. Mártir de Cuilapan
+49. Marquelia.
 
-50. Metlatónoc
+50. Mártir de Cuilapan.
 
-51. Mochitlán
+51. Metlatónoc.
 
-52. Olinalá
+52. Mochitlán.
 
-53. Ometepec
+53. Ñuu Savi.
 
-54. Pedro Ascencio Alquisiras
+54. Olinalá.
 
-55. Petatlán
+55. Ometepec.
 
-56. Pilcaya
+56. Pedro Ascencio Alquisiras.
 
-57. Pungarabato
+57. Petatlán.
 
-58. Quechultenango
+58. Pilcaya.
 
-59. San Luis Acatlán
+59. Pungarabato.
 
-60. San Marcos
+60. Quechultenango.
 
-61. San Miguel Totolapan
+61. San Luis Acatlán.
 
-62. Taxco de Alarcón
+62. San Marcos.
 
-63. Tecoanapa
+63. San Miguel Totolapan.
 
-64. Tecpan de Galeana
+64. San Nicolás.
 
-65. Teloloapan
+65. Santa Cruz del Rincón.
 
-66. Tepecoacuilco de Trujano
+66. Taxco de Alarcón.
 
-67. Tetipac
+67. Tecoanapa.
 
-68. Tixtla de Guerrero
+68. Tecpan de Galeana.
 
-69. Tlacoachistlahuaca
+69. Teloloapan.
 
-70. Tlacoapa
+70. Tepecoacuilco de Trujano.
 
-71. Tlalchapa
+71. Tetipac.
 
-72. Tlalixtaquilla de Maldonado
+72. Tixtla de Guerrero.
 
-73. Tlapa de Comonfort
+73. Tlacoachistlahuaca.
 
-74. Tlapehuala
+74. Tlacoapa.
 
-75. Xalpatláhuac
+75. Tlalchapa.
 
-76. Xochihuehuetlán
+76. Tlalixtaquilla de Maldonado.
 
-77. Xochistlahuaca
+77. Tlapa de Comonfort.
 
-78. Zapotitlán Tablas
+78. Tlapehuala.
 
-79. Zihuatanejo de Azueta
+79. Xalpatláhuac.
 
-80. Zirándaro
+80. Xochihuehuetlán.
 
-81. Zitlala
+81. Xochistlahuaca.
+
+82. Zapotitlán Tablas.
+
+83. Zihuatanejo de Azueta.
+
+84. Zirándaro.
+
+85. Zitlala.
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -5310,3 +5318,17 @@ TERCERO. En tanto el Pleno del Tribunal Superior de Justicia determine el númer
 CUARTO. Remítase al Titular del Poder Ejecutivo, para su conocimiento y efectos legales correspondientes.
 
 QUINTO. Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
+
+P.O. 20 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 161 POR EL QUE SE APRUEBA LA ADICIÓN DE LOS NUEVOS MUNICIPIOS DE SANTA CRUZ DEL RINCÓN, SAN NICOLÁS, ÑUU SAVI Y LAS VIGAS AL ARTÍCULO 27 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN EL LUGAR QUE CONFORME AL ORDEN ALFABÉTICO LES CORRESPONDE”.]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Con fundamento en el artículo 199 numeral 1, fracción III de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase el presente Decreto a los municipios del Estado para los efectos legales a que haya lugar.
+
+TERCERO.- Para la conformación de los ayuntamientos instituyentes de los nuevos municipios de Santa Cruz del Rincón, San Nicolas, Ñuu Savi y Las vigas, el Congreso del Estado deberá atender el principio de paridad en su conformación y deberán ser encabezados, dos por mujeres y dos por hombres y la conformación de los demás ediles, en términos paritarios conforme al número que corresponda.
+
+CUARTO.- Remítase a la titular del Poder Ejecutivo para su conocimiento (sic) efectos legales correspondientes.
+
+QUINTO.- Publíquese en el portal web del Congreso, para conocimiento general.
