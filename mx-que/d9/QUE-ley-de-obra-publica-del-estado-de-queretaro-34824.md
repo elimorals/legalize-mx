@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-obra-publica-del-estado-de-queretaro-34824"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-12"
-last_updated: "2021-12-23"
+last_updated: "2022-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 12 de noviembre de 2003.
 
@@ -127,9 +127,9 @@ I.- La construcción, instalación, conservación, mantenimiento, reparación y 
 
 II.- Los servicios relacionados con la misma, incluidos los trabajos que tengan por objeto: concebir, diseñar, proyectar y calcular los elementos que integren un proyecto de obra pública, así como los relativos a la investigación, asesorías y consultorías, la dirección y supervisión de la ejecución de las obras, los estudios que tengan por objeto rehabilitar, corregir o incrementar las eficiencias de las instalaciones y los trabajos de exploración, conservación, rescate y desarrollo de los recursos naturales que se encuentren adheridos al suelo o inmersos en el subsuelo.
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-III.- Los proyectos integrales que comprendan desde la ejecución de los estudios previos necesarios hasta su cabal terminación;
+III.- Los proyectos integrales que comprendan desde la ejecución de los estudios previos necesarios hasta su cabal terminación; o aquellos que impliquen la prestación de servicios relacionados con las mismas a largo plazo.
 
 IV.- Los trabajos de infraestructura urbana o agropecuaria.
 
@@ -139,9 +139,19 @@ VI.- Las actividades relacionadas con la obra pública que se desarrollen por en
 
 VII.- Todos aquellos de naturaleza análoga.
 
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2022)</small>
+
+VIII.- Las asociadas a proyectos de infraestructura que impliquen compromisos plurianuales o estimaciones programadas en los términos de esta Ley.
+
+En las construcciones y adecuaciones que se ejecuten en los servicios integrales a largo plazo, no se considerará aplicable esta Ley, debiendo regirse por la ley que regula su contratación y las disposiciones que para tal efecto se emitan.
+
 ###### ARTÍCULO 3.
 
 La inversión en obra pública se sujetará a lo previsto en la normatividad que regula al gasto público, al ejercicio de los presupuestos de egresos del Estado y los Municipios, así como en lo previsto en la ley de la materia y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+Para los proyectos de infraestructura que impliquen contrataciones a largo plazo o estimaciones programadas en los términos de esta Ley, se podrán generar certificados de avance de obra por parte de la Secretaría de Desarrollo Urbano y Obras Públicas y su equivalente en los Municipios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
@@ -149,9 +159,17 @@ La inversión en obra pública se sujetará a lo previsto en la normatividad que
 
 La aplicación de la presente Ley corresponde al Poder Ejecutivo del Estado, a través de las dependencias competentes en las materias de finanzas pública (sic), desarrollo urbano y obras públicas, contraloría, y a los municipios, en el ámbito de la competencia que les corresponda, sin perjuicio de la intervención que competa a otras dependencias estatales o municipales.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
 
-Para la aplicación de la presente Ley, a la Secretaría de Finanzas del Poder Ejecutivo le compete la suficiencia presupuestal y el pago de las obras realizadas, previa autorización de la dependencia ejecutora. En el caso de entidades y municipios, a la dependencia o unidad encargada de las finanzas públicas le compete la suficiencia presupuestal y el pago de las obras realizadas, previa autorización de la dependencia ejecutora.
+Para la aplicación de la presente Ley, a la Secretaría de Finanzas del Poder Ejecutivo otorgará la suficiencia presupuestal o la viabilidad de compromisos plurianuales, así como el pago de las obras realizadas, previa autorización de la dependencia ejecutora.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MAYO DE 2022)</small>
+
+Las entidades, en el ámbito de su competencia realizarán la confirmación de suficiencia presupuestal, así como el pago de las obras que les correspondan como ejecutores del gasto, en tanto, para los compromisos plurianuales será la Secretaría de Finanzas quien emitirá las condiciones de su viabilidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MAYO DE 2022)</small>
+
+Los municipios, a través de la dependencia o unidad encargada de las finanzas públicas otorgará la suficiencia presupuestal, la viabilidad de compromisos plurianuales, así como el pago de las obras realizadas, previa autorización de la dependencia ejecutora.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
@@ -201,7 +219,9 @@ Los actos, contratos y convenios que las dependencias, entidades o Municipios re
 
 En los contratos y servicios de obra pública que regula la presente ley, se preferirá en igualdad de condiciones y circunstancias a los contratistas, ya sean personas físicas o morales, con domicilio fiscal, operación y arraigo en el Estado, quienes deberán acreditar además lo siguiente:
 
-I.- Poseer una experiencia mínima de dos años en el ejercicio de la actividad a desarrollar en el Estado de Querétaro la que podrá ser avalada por clientes de dos años anteriores y tener establecida en éste, con la misma antigüedad la administración principal de su actividad al momento de realizarse la invitación o convocatoria;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
+
+I.- Poseer una experiencia mínima de dos años en el ejercicio de la actividad a desarrollar, la que podrá ser avalada por clientes de dos años anteriores o acreditar la misma antigüedad en el desarrollo de la actividad en la entidad;
 
 II.- Contar con capacidad financiera, técnica y de respuesta inmediata para la ejecución de la obra; y
 
@@ -607,7 +627,9 @@ IV.- Las fechas, horarios y lugar para inscripción, adquisición, costo y forma
 
 V.- Fecha estimada de inicio y terminación de los trabajos.
 
-VI.- Información sobre los porcentajes a otorgar por concepto de anticipo, los cuales no serán inferiores al 30% ni excederán el 50%, así como la forma de pago de los trabajos.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
+
+VI.- Información sobre los porcentajes a otorgar por concepto de anticipo, los cuales no serán inferiores al 20% ni excederán el 50%, así como la forma de pago de los trabajos.
 
 VII.- Capital contable solicitado y garantías generales solicitadas.
 
@@ -683,9 +705,13 @@ VIII.- La indicación de que ninguna de las condiciones en las bases de la licit
 
 IX.- Relación de materiales y equipos de instalación permanente que en su caso proporcionará la convocante.
 
-X.- Origen de los fondos para realizar los trabajos y el importe autorizado para el primer ejercicio, en el caso de que las obras rebasen un ejercicio presupuestal.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
 
-XI.- Forma, términos y condiciones de pago de los trabajos objeto de contrato.
+X.- Origen de los fondos para realizar los trabajos y el importe autorizado para el primer ejercicio, en el caso de que las obras rebasen un ejercicio presupuestal, deberán fijarse los compromisos correspondientes a los ejercicios siguientes en términos de la viabilidad a que se refiere el segundo párrafo del artículo 4 de esta Ley.
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
+
+XI.- Forma, términos, condiciones de pago de los trabajos objeto de contrato y, en su caso, los términos de referencia para los esquemas de contratos a largo plazo con reconocimiento de costos de financiamiento de los contratistas vinculados a pagos diferidos en las estimaciones o en el monto total del contrato.
 
 XII.- Porcentaje, forma y términos del o los anticipos que se concedan.
 
@@ -877,9 +903,39 @@ I.- A precios unitarios, en cuyo caso el monto total de los trabajos ejecutados 
 
 II.- A precio alzado, en cuyo caso el monto total de los trabajos por efectuar será previamente establecido a través de la propuesta de los contratistas y el cual quedará fijo.
 
-En ambas modalidades, la ejecución de los trabajos se deberá cumplir en el plazo contractualmente establecido.
+REFORMADO [N. DE E. ADICIONADO -EL CONTENIDO DE ESTE PÁRRAFO ES IDÉNTICO AL SEGUNDO PÁRRAFO DEL PRESENTE ARTÍCULO-] , P.O. 20 DE MAYO DE 2022)
 
-Las proposiciones que presenten los contratistas para la celebración de estos contratos deberán estar desglosadas por grupo de actividades, de acuerdo con los catálogos de conceptos que apliquen en cada caso.
+La ejecución de los trabajos se deberá cumplir en el plazo contractualmente establecido.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+Las proposiciones que presenten los contratistas para la celebración de estos contratos deberán estar desglosadas por grupo de actividades, de acuerdo con los catálogos de conceptos y términos de referencia que apliquen en cada caso.
+
+La convocante por ... (SIC)
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2022)</small>
+
+III. Las demás modalidades contractuales que determine la Secretaría de Desarrollo Urbano y Obras Públicas o se establezcan en acuerdos y convenios que celebren el Estado o los Municipios.
+
+En las modalidades de contratación, se podrá establecer lo siguiente:
+
+a) Los esquemas en los que se reconozcan los costos de financiamiento a contratistas vinculados a pagos diferidos en las estimaciones o en el monto total del contrato que determine la Secretaría o la autoridad municipal en su respectiva competencia.
+
+b) Las condiciones conforme a las cuales sus pagos se determinen a plazos preestablecidos.
+
+c) La expedición de certificados de avance de obra.
+
+> <small>(REFORMADO [N. DE E. EL CONTENIDO DE ESTE PÁRRAFO ES IDÉNTICO AL SEGUNDO PÁRRAFO DE LA FRACCIÓN II DEL PRESENTE ARTÍCULO-], P.O. 20 DE MAYO DE 2022)</small>
+
+La ejecución de los trabajos se deberá cumplir en el plazo contractualmente establecido.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
+
+Las proposiciones que presenten los contratistas para la ejecución de las obras públicas deberán estar desglosadas por grupo de actividades principales, tanto en sus aspectos técnicos y económicos, con base en los catálogos de conceptos o términos de referencia, de conformidad al calendario de ejecución de los trabajos.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+Las dependencias y entidades podrán incorporar las modalidades de contratación que tiendan a garantizar al Gobierno del Estado o a los Municipios las mejores condiciones en la ejecución de la obra.
 
 La convocante por ningún motivo podrá modificar las condiciones de contratación pactadas y publicadas desde la convocatoria de licitación.
 
@@ -971,17 +1027,23 @@ Las garantías otorgadas a favor de la Secretaría de Finanzas del Poder Ejecuti
 
 El Poder, entidad o dependencia contratante intervendrá en los procedimientos y juicios ante los tribunales competentes, por oposición al pago que formulen las compañías afianzadoras
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO 56.
 
-En tanto que los contratos de obra pública se encuentren vigentes y en ejecución dentro de los plazos establecidos y sea el caso de que por requerimientos de la obra, debidamente justificados y suscritos por las partes en la bitácora correspondiente, resulte necesaria la modificación o la ampliación en el alcance originalmente contratado, la contratante podrá autorizar, bajo su responsabilidad, dicha modificación o ampliación siempre y cuando no se rebase el veinticinco por ciento del monto original; en caso de no alterar el proyecto ni las condiciones de la obra, se podrán celebrar convenios adicionales entre las partes. Estos convenios deberán ser autorizados bajo la responsabilidad del titular de la dependencia, entidad o municipio.
+En tanto que los contratos de obra pública se encuentren vigentes y en ejecución dentro de los plazos establecidos y sea el caso de que por requerimientos de la obra, debidamente justificados y suscritos por las partes, resulte necesaria la modificación o la ampliación en el alcance originalmente contratado, la contratante podrá autorizar, bajo su responsabilidad, dicha modificación o ampliación siempre y cuando no se rebase el veinticinco por ciento del plazo y monto original.
 
-El monto y el plazo de ejecución de la modificación al contrato original deberán formalizarse a través del contrato modificatorio suscrito en tiempo y forma; la ausencia de este documento no podrá anular el derecho del contratista para exigir la remuneración de los conceptos adicionales ejecutados, debidamente asentados y autorizados en la bitácora de la obra.
+El monto y el plazo de ejecución de la ampliación al contrato original, deberán formalizarse a través del convenio modificatorio suscrito en tiempo y forma; la ausencia de este documento no podrá anular el derecho del contratista para exigir la remuneración de los conceptos adicionales ejecutados, debidamente asentados y autorizados en la bitácora de la obra.
 
-Lo anterior corresponderá a conceptos nuevos, repetitivos o incremento en los volúmenes y ejecutados al amparo del contrato original así como del expediente técnico respectivo, mismos que se actualizarán de conformidad con los nuevos requerimientos.
+Si derivado de circunstancias ajenas a las partes, resulta necesaria la actualización en el programa calendarizado de ejecución, tal situación deberá hacerse constar en un convenio modificatorio debidamente justificado que actualice dicho programa, el cual no alterará la fecha de término pactada.
 
-Los precios contemplados en la modificación o ampliación del contrato no aceptarán variación alguna en lo relativo a los factores de (sic) indirectos financiamiento y utilidad.
+Previo a la suscripción del convenio modificatorio de la ampliación correspondiente, el contratista deberá otorgar las garantías adicionales respectivas.
 
-Previo a la suscripción del contrato modificatorio o a la ampliación correspondiente, el contratista deberá otorgar las garantías adicionales correspondientes.
+Tratándose de modificaciones que atiendan a conceptos no contemplados en el catálogo original, e incremento en los volúmenes, éstos se autorizarán cuando así se requiera, debiendo integrarse las constancias o validaciones correspondientes al expediente técnico de la obra o servicio de que se trate.
+
+En la ampliación y modificación de las condiciones originales contractuales, se deberá observar en todo momento, que no existan características que alteren el proyecto y condiciones de la obra pública y/o servicio relacionado con la misma.
+
+Los precios contemplados en la modificación o amplicación del contrato no aceptarán variación alguna en lo relativo a los factores de indirectos, financiamiento y utilidad.
 
 Los ajustes o incrementos de los precios unitarios contratados, serán sobre la base de lo estipulado en esta ley; dichos ajustes no se considerarán en el monto de la modificación o ampliación del contrato original.
 
@@ -1153,9 +1215,11 @@ Previo al inicio de la ejecución de las obras, la contratante establecerá la r
 
 Durante la fase de ejecución de la obra, el supervisor mantendrá al corriente los asientos en bitácora, con el representante del contratista, lo cual corresponderá a los hechos relevantes que sucedan durante el avance normal en este tipo de trabajos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO 59.
 
-Las estimaciones de los trabajos ejecutados serán elaboradas y presentadas por el contratista a la dependencia, entidad o municipio contratante por períodos acordes al programa y duración de los trabajos contratados, en plazos no mayores a un mes, acompañadas de la documentación necesaria que acredite la procedencia de su pago.
+Las estimaciones de los trabajos ejecutados serán elaboradas y presentadas por el contratista a la dependencia, entidad o municipio contratante, por períodos acordes al programa y duración de los trabajos contratados, en plazos no mayores a un mes, acompañadas de la documentación necesaria que acredite la procedencia de su pago. Tratándose de compromisos plurianuales de estimaciones programadas, el plazo de su presentación será de acuerdo a lo establecido en los términos de su contratación.
 
 > <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2008)</small>
 
@@ -2390,3 +2454,81 @@ XXV. Para los Asentamientos en proceso de regularización con la Comisión de Re
 ###### ARTÍCULO DÉCIMO.
 
 Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 20 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE GOBIERNO DIGITAL Y EL EJERCICIO DE FUNCIONES PÚBLICAS".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Las disposiciones legales y administrativas expedidas en la materia regulada por esta Ley, vigentes al momento de la publicación de la misma, se mantendrán en vigor en lo que no se opongan a la misma, hasta en tanto se expidan las disposiciones que deban sustituirlas.
+
+Artículo Cuarto. Los sujetos de la Ley, en cumplimiento del objeto de la misma, deberán desarrollar e implementar los portales, plataformas, aplicaciones, o cualquier otra herramienta tecnológica para efectos de sus trámites y servicios, en un plazo no mayor a dos años contados a partir del día en que entre en vigor la presente Ley.
+
+Artículo Quinto. Las facultades que de conformidad con la presente Ley deban ejercer los sujetos de la Ley, las llevarán a cabo a través de los órganos o instancias que correspondan, de conformidad con el ámbito de competencia respectivo.
+
+Artículo Sexto. Dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente ordenamiento, se deberá instalar la Comisión Estatal de Gobierno Digital.
+
+Artículo Séptimo. Los Sujetos de la Ley deberán realizar las adecuaciones a sus reglamentos, disposiciones administrativas y demás normatividad que sea necesaria para dar cumplimiento a la presente Ley, a más tardar a los 360 días naturales siguientes a la entrada en vigor de la misma.
+
+Artículo Octavo. Se autoriza a la Secretaría para realizar las adecuaciones presupuestarias que se requieran para dar cumplimiento a las disposiciones comprendidas en esta Ley.
+
+Artículo Noveno. Con la finalidad de dar cumplimiento a lo establecido por el articulo 4 primer párrafo de la Ley del Notariado del Estado de Querétaro, los Notarios nombrados con anterioridad al inicio de vigencia tendrán derecho a la asignación de un número.
+
+Los Notarios que tengan a su cargo el protocolo más antiguo, conservarán el número de la Notaría a la que hayan sido designados.
+
+Los Notarios que tengan a su cargo protocolo con menor antigüedad dentro de una misma Notaría, se les asignará el número que de manera consecutiva y progresiva corresponda, considerando el último número de la demarcación notarial y el de la Notaría al que originariamente fueron designados.
+
+En congruencia con lo anterior, la asignación de números a los Notarios deberá comenzar de la siguiente manera:
+
+a) Para la demarcación notarial de Querétaro, la asignación comienza desde el número 39 al 76.
+
+b) Para la demarcación notarial de San Juan del Río, la asignación comienza desde el número 12 al 22.
+
+c) Para la demarcación notarial de Cadereyta de Montes, la asignación comienza desde el número 3 al 4.
+
+d) Para la demarcación notarial de Tolimán, la asignación comienza desde el número 3 al 4.
+
+e) Para la demarcación notarial de Amealco de Bonfil, la asignación comienza desde el número 3 al 4.
+
+f) Para la demarcación notarial de Jalpan de Serra, la asignación comienza desde el número 3 al 4.
+
+Los Notarios nombrados con anterioridad al inicio de la vigencia de la presente Reforma, conservarán su demarcación notarial.
+
+La asignación de los números a los Notarios designados con anterioridad al inicio de la presente Reforma, autoriza la actualización del nombramiento, en la que se precise el número correspondiente, atendiendo a lo expuesto en los párrafos anteriores.
+
+En apego a lo establecido por los artículos 11 y 23 de la Ley del Notariado del Estado de Querétaro, los Notarios a los que se les haya asignado número deberán realizar las gestiones para la actualización de su sello.
+
+Los Notarios que tengan autorizada una licencia al momento de la entrada en vigor de la presente Ley, podrán realizar la sustitución de su sello, comunicaciones y demás gestiones, una vez que reinicien sus funciones. No obstante, se procederá con la actualización de su nombramiento en los términos señalados anteriormente.
+
+Los Notarios nombrados con anterioridad al inicio de la vigencia de la presente Ley, podrán realizar las gestiones y comunicaciones oficiales de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro, para asociarse en los términos de la presente Ley.
+
+Los Notarios que opten por no asociarse, deberán informar dentro de un plazo de hasta seis meses, a la Secretaría de Gobierno del Poder Ejecutivo del Estado, el domicilio en que se instalará su Notaría dentro de la demarcación notarial a la que hayan sido asignados, así como la designación de su suplente en los términos de la presente Ley.
+
+Los Notarios que opten por no asociarse, tendrán un plazo de 90 días, contados a partir de la entrada en vigor de esta Ley, para la designación de su suplente. Si transcurrido el plazo, el Notario no presenta el acuerdo de suplencia mencionado, la Secretaría de Gobierno del Poder Ejecutivo del Estado, previa opinión del Consejo de Notarios del Estado, oficiosamente le nombrará un Notario Suplente.
+
+Artículo Décimo. A efecto de dar cumplimiento a lo establecido en el Artículo Transitorio inmediato anterior, permanecerán en cada Notaría los protocolos existentes a la fecha de entrada en vigor de la presente Ley, por lo que se realizará para este efecto, una diligencia de entrega recepción del protocolo, de la que se levantará el acta correspondiente, y donde se relacionarán de manera rigurosa los trámites pendientes de concluir por parte del Notario a quien se le asignará nuevo número de Notaría.
+
+En la mencionada diligencia, se recogerá el sello del Notario al que se le haya asignado nuevo número de Notaría, para su destrucción, deberán de asistir a ésta, la persona titular de la Dirección del Archivo General de Notarías que será el representante de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro que se designe para ese efecto, así como el Notario que conserva el número de Notaria, y el Notario al que se le haya designado nuevo número.
+
+Artículo Décimo Primero. Mientras continúe en funciones, cada Notario seguirá siendo responsable de la conclusión de los Instrumentos que hayan pasado ante su fe.
+
+El Notario que conserve el número de Notaría que tenía asignada a la entrada en vigor de la presente Ley, permitirá que el otro Notario que haya actuado en el Protocolo de dicha Notaría concluya los Instrumentos pasados ante su fe.
+
+Los Notarios a quienes se asigne nuevo número, además de actuar en su nuevo Protocolo, quedan obligados a concluir los Instrumentos que pasaron ante su fe antes de la entrada en vigor de la presente Ley, en cuyo caso actuarán con su nuevo sello, dejando expresamente asentada la razón de ello.
+
+Una vez terminados los trámites pendientes, el Notario al que se le asignó nuevo número de Notaría, deberá de informarlo a la Secretaría de Gobierno y al Director del Archivo General de Notarías, para efectos de su clausura y resguardo en el Archivo General de Notarías.
+
+A las diligencias de clausura del protocolo, deberá (sic) de asistir las personas señaladas en el artículo transitorio inmediato anterior. De la mencionada diligencia se levantará el acta correspondiente.
+
+Artículo Décimo Segundo. Los Notarios en funciones, en el plazo de 180 días siguientes a partir de la vigencia de esta Ley, deberán de dar cabal cumplimiento a la fracción V del artículo 22 de esta Ley.
+
+Artículo Décimo Tercero. Los Notarios en funciones que tuvieren folios no utilizados de su protocolo anterior, podrán utilizarlos como parte de su nuevo protocolo, para lo cual deberán dar aviso al Archivo General de Notarías y al Consejo de Notarios del Estado, en el término de diez días sobre cuántos y cuáles folios autorizados y sin autorizar se tienen sin usar, a efecto de que dichos folios puedan ser legalmente utilizados asentando razón de ello tanto en el anterior como en el nuevo protocolo. Cuando se utilice el último de dichos folios, se anotará en el nuevo protocolo, que se inicia la utilización de los folios con el nuevo número de Notaría asignado.
+
+Artículo Décimo Cuarto. Las hojas de testimonio que deberán utilizar los Notarios, en los términos a que se refiere el artículo 90 de esta Ley, deberán comenzar a utilizarlas dentro del plazo de 180 días contados a partir de la entrada en vigor de la presente Ley.
+
+Artículo Décimo Quinto. La Secretaría de Gobierno del Poder Ejecutivo, dictará las provisiones necesarias para el cumplimiento de lo dispuesto en la presente Ley, atendiendo a las circunstancias que se presenten con motivo de la asignación de los números a los Notarios.
+
+Artículo Décimo Sexto. Las contrataciones de servicios integrales a largo plazo previstos en la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro o compromisos plurianuales, celebradas en el ejercicio fiscal 2022, les serán aplicables las disposiciones contenidas en los Artículos Tercero, Cuarto y Quinto de la presente Ley.
