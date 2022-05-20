@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-asociaciones-publico-privadas-para-el-estado-de-109858"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-18"
-last_updated: "2021-10-08"
+last_updated: "2022-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109858&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 18 de septiembre de 2015.
 
@@ -123,7 +121,9 @@ XIX. Entidades: Los organismos descentralizados, las empresas de participación 
 
 XX. Estado: El Estado de Querétaro;
 
-XXI. Largo Plazo: La relación contractual con duración igual o mayor a tres años;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
+
+XXI. Largo Plazo: La relación contractual determinada en la presente Ley, que exceda del periodo constitucional del Poder Ejecutivo del Estado y de los Municipios en su caso;
 
 XXII. Legislatura del Estado: El Poder Legislativo del Estado de Querétaro;
 
@@ -162,6 +162,10 @@ En lo no previsto por esta Ley, su Reglamento y las disposiciones que de ellos e
 > <small>(ADICIONADO, P.O. 30 DE MAYO DE 2016)</small>
 
 Asimismo, se estará a lo dispuesto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2022)</small>
+
+Será opcional la sujeción a los esquemas de Asociación Público Privada regulados en la presente Ley.
 
 ###### Artículo 8.
 
@@ -1576,3 +1580,81 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 20 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE GOBIERNO DIGITAL Y EL EJERCICIO DE FUNCIONES PÚBLICAS".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Las disposiciones legales y administrativas expedidas en la materia regulada por esta Ley, vigentes al momento de la publicación de la misma, se mantendrán en vigor en lo que no se opongan a la misma, hasta en tanto se expidan las disposiciones que deban sustituirlas.
+
+Artículo Cuarto. Los sujetos de la Ley, en cumplimiento del objeto de la misma, deberán desarrollar e implementar los portales, plataformas, aplicaciones, o cualquier otra herramienta tecnológica para efectos de sus trámites y servicios, en un plazo no mayor a dos años contados a partir del día en que entre en vigor la presente Ley.
+
+Artículo Quinto. Las facultades que de conformidad con la presente Ley deban ejercer los sujetos de la Ley, las llevarán a cabo a través de los órganos o instancias que correspondan, de conformidad con el ámbito de competencia respectivo.
+
+Artículo Sexto. Dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente ordenamiento, se deberá instalar la Comisión Estatal de Gobierno Digital.
+
+Artículo Séptimo. Los Sujetos de la Ley deberán realizar las adecuaciones a sus reglamentos, disposiciones administrativas y demás normatividad que sea necesaria para dar cumplimiento a la presente Ley, a más tardar a los 360 días naturales siguientes a la entrada en vigor de la misma.
+
+Artículo Octavo. Se autoriza a la Secretaría para realizar las adecuaciones presupuestarias que se requieran para dar cumplimiento a las disposiciones comprendidas en esta Ley.
+
+Artículo Noveno. Con la finalidad de dar cumplimiento a lo establecido por el artículo 4 primer párrafo de la Ley del Notariado del Estado de Querétaro, los Notarios nombrados con anterioridad al inicio de vigencia tendrán derecho a la asignación de un número.
+
+Los Notarios que tengan a su cargo el protocolo más antiguo, conservarán el número de la Notaría a la que hayan sido designados.
+
+Los Notarios que tengan a su cargo protocolo con menor antigüedad dentro de una misma Notaría, se les asignará el número que de manera consecutiva y progresiva corresponda, considerando el último número de la demarcación notarial y el de la Notaría al que originariamente fueron designados.
+
+En congruencia con lo anterior, la asignación de números a los Notarios deberá comenzar de la siguiente manera:
+
+a) Para la demarcación notarial de Querétaro, la asignación comienza desde el número 39 al 76.
+
+b) Para la demarcación notarial de San Juan del Río, la asignación comienza desde el número 12 al 22.
+
+c) Para la demarcación notarial de Cadereyta de Montes, la asignación comienza desde el número 3 al 4.
+
+d) Para la demarcación notarial de Tolimán, la asignación comienza desde el número 3 al 4.
+
+e) Para la demarcación notarial de Amealco de Bonfil, la asignación comienza desde el número 3 al 4.
+
+f) Para la demarcación notarial de Jalpan de Serra, la asignación comienza desde el número 3 al 4.
+
+Los Notarios nombrados con anterioridad al inicio de la vigencia de la presente Reforma, conservarán su demarcación notarial.
+
+La asignación de los números a los Notarios designados con anterioridad al inicio de la presente Reforma, autoriza la actualización del nombramiento, en la que se precise el número correspondiente, atendiendo a lo expuesto en los párrafos anteriores.
+
+En apego a lo establecido por los artículos 11 y 23 de la Ley del Notariado del Estado de Querétaro, los Notarios a los que se les haya asignado número deberán realizar las gestiones para la actualización de su sello.
+
+Los Notarios que tengan autorizada una licencia al momento de la entrada en vigor de la presente Ley, podrán realizar la sustitución de su sello, comunicaciones y demás gestiones, una vez que reinicien sus funciones. No obstante, se procederá con la actualización de su nombramiento en los términos señalados anteriormente.
+
+Los Notarios nombrados con anterioridad al inicio de la vigencia de la presente Ley, podrán realizar las gestiones y comunicaciones oficiales de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro, para asociarse en los términos de la presente Ley.
+
+Los Notarios que opten por no asociarse, deberán informar dentro de un plazo de hasta seis meses, a la Secretaría de Gobierno del Poder Ejecutivo del Estado, el domicilio en que se instalará su Notaría dentro de la demarcación notarial a la que hayan sido asignados, así como la designación de su suplente en los términos de la presente Ley.
+
+Los Notarios que opten por no asociarse, tendrán un plazo de 90 días, contados a partir de la entrada en vigor de esta Ley, para la designación de su suplente. Si transcurrido el plazo, el Notario no presenta el acuerdo de suplencia mencionado, la Secretaría de Gobierno del Poder Ejecutivo del Estado, previa opinión del Consejo de Notarios del Estado, oficiosamente le nombrará un Notario Suplente.
+
+Artículo Décimo. A efecto de dar cumplimiento a lo establecido en el Artículo Transitorio inmediato anterior, permanecerán en cada Notaría los protocolos existentes a la fecha de entrada en vigor de la presente Ley, por lo que se realizará para este efecto, una diligencia de entrega recepción del protocolo, de la que se levantará el acta correspondiente, y donde se relacionarán de manera rigurosa los trámites pendientes de concluir por parte del Notario a quien se le asignará nuevo número de Notaría.
+
+En la mencionada diligencia, se recogerá el sello del Notario al que se le haya asignado nuevo número de Notaría, para su destrucción, deberán de asistir a ésta, la persona titular de la Dirección del Archivo General de Notarías que será el representante de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro que se designe para ese efecto, así como el Notario que conserva el número de Notaría, y el Notario al que se le haya designado nuevo número.
+
+Artículo Décimo Primero. Mientras continúe en funciones, cada Notario seguirá siendo responsable de la conclusión de los Instrumentos que hayan pasado ante su fe.
+
+El Notario que conserve el número de Notaría que tenía asignada a la entrada en vigor de la presente Ley, permitirá que el otro Notario que haya actuado en el Protocolo de dicha Notaría concluya los Instrumentos pasados ante su fe.
+
+Los Notarios a quienes se asigne nuevo número, además de actuar en su nuevo Protocolo, quedan obligados a concluir los Instrumentos que pasaron ante su fe antes de la entrada en vigor de la presente Ley, en cuyo caso actuarán con su nuevo sello, dejando expresamente asentada la razón de ello.
+
+Una vez terminados los trámites pendientes, el Notario al que se le asignó nuevo número de Notaría, deberá de informarlo a la Secretaría de Gobierno y al Director del Archivo General de Notarías, para efectos de su clausura y resguardo en el Archivo General de Notarías.
+
+A las diligencias de clausura del protocolo, deberá (sic) de asistir las personas señaladas en el artículo transitorio inmediato anterior. De la mencionada diligencia se levantará el acta correspondiente.
+
+Artículo Décimo Segundo. Los Notarios en funciones, en el plazo de 180 días siguientes a partir de la vigencia de esta Ley, deberán de dar cabal cumplimiento a la fracción V del artículo 22 de esta Ley.
+
+Artículo Décimo Tercero. Los Notarios en funciones que tuvieren folios no utilizados de su protocolo anterior, podrán utilizarlos como parte de su nuevo protocolo, para lo cual deberán dar aviso al Archivo General de Notarías y al Consejo de Notarios del Estado, en el término de diez días sobre cuántos y cuáles folios autorizados y sin autorizar se tienen sin usar, a efecto de que dichos folios puedan ser legalmente utilizados asentando razón de ello tanto en el anterior como en el nuevo protocolo. Cuando se utilice el último de dichos folios, se anotará en el nuevo protocolo, que se inicia la utilización de los folios con el nuevo número de Notaría asignado.
+
+Artículo Décimo Cuarto. Las hojas de testimonio que deberán utilizar los Notarios, en los términos a que se refiere el artículo 90 de esta Ley, deberán comenzar a utilizarlas dentro del plazo de 180 días contados a partir de la entrada en vigor de la presente Ley.
+
+Artículo Décimo Quinto. La Secretaría de Gobierno del Poder Ejecutivo, dictará las provisiones necesarias para el cumplimiento de lo dispuesto en la presente Ley, atendiendo a las circunstancias que se presenten con motivo de la asignación de los números a los Notarios.
+
+Artículo Décimo Sexto. Las contrataciones de servicios integrales a largo plazo previstos en la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro o compromisos plurianuales, celebradas en el ejercicio fiscal 2022, les serán aplicables las disposiciones contenidas en los Artículos Tercero, Cuarto y Quinto de la presente Ley.
