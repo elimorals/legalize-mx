@@ -4,7 +4,7 @@ identifier: "QUE-codigo-urbano-del-estado-de-queretaro-88087"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-05-31"
-last_updated: "2021-10-08"
+last_updated: "2022-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,9 +27,7 @@ state: "QUE"
 
 CÓDIGO URBANO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 31 de mayo de 2012.
 
@@ -411,27 +409,17 @@ Los Municipios podrán coordinarse mediante la suscripción de convenios, con el
 
 En el Título Quinto de este ordenamiento, se establecerán las atribuciones y competencias del Poder Ejecutivo del Estado y de los Municipios de la Entidad en la realización y ejecución de obra pública y acciones de urbanización, dentro del territorio del Estado, sin perjuicio de la intervención que corresponda a otras dependencias federales.
 
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
+
 #### Sección Quinta. De las Autoridades en Materia de Agua Potable, Alcantarillado, Saneamiento, Disposición de Aguas Residuales y Tratadas
 
 ###### Artículo 21.
 
-La Comisión Estatal de Aguas es el organismo coordinador y coadyuvante con autoridades federales, estatales o municipales, en todas las actividades que de una manera u otra participen en la planeación, estudios, proyectos, construcción y operación de sistemas o instalaciones de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas y servicios relacionados con éstos, para beneficio de los habitantes del Estado, para lo cual tendrá los órganos y las atribuciones que se establecen en el Título Sexto de este ordenamiento, sin perjuicio de lo que se establezca en los reglamentos respectivos.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 22.
 
-En lo que se refiere a los Municipios, cuando éstos tengan su organismo operador, para los efectos del artículo anterior, los mismos tendrán las atribuciones que se establezcan en el reglamento que se expida para tal fin, así como las señaladas en el presente Código.
-
-Se considera de interés social:
-
-I. La planeación, programación, estudios, proyectos, diseños, construcción, rehabilitación, mantenimiento, conservación y ampliación de las obras y servicios necesarios para la operación y administración de los sistemas de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas;
-
-II. La adquisición, utilización y aprovechamiento de las obras hidráulicas y de cualquier otra índole que sean de propiedad privada y que se requieran para la eficiente prestación de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas que estén establecidos o por establecerse;
-
-III. La prevención y control de la contaminación de las aguas ubicadas dentro del territorio del Estado, con excepción de las de propiedad nacional;
-
-IV. La adquisición de los bienes muebles o inmuebles que sean necesarios para la planeación, programación, construcción, rehabilitación, ampliación, mejoramiento, conservación, desarrollo, operación y mantenimiento de los sistemas de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas, incluyendo las instalaciones y equipamientos conexos, caminos de acceso, zonas de protección, servidumbres y derechos de paso; y
-
-V. La operación, inspección, supervisión, control y vigilancia de los sistemas de prestación de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 #### Sección Sexta. De las Autoridades en Caminos, Carreteras y Otras Vialidades
 
@@ -4203,701 +4191,325 @@ Podrán efectuarse a través del sistema de captación, las obras a las que se r
 
 Las obras que se realicen mediante el sistema de captación, serán financiadas a través de los tributos que las leyes impongan a quienes se beneficien de manera particular, como consecuencia de la ejecución de las mismas.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
+
 ## Título Sexto. De la Prestación de los Servicios de Agua Potable, Alcantarillado, Saneamiento y Disposición de sus Aguas Residuales y Tratadas
 
-### Capítulo Segundo. De la Comisión Estatal de Aguas
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
+
+### Capitulo Segundo. De la Comisión Estatal de Aguas
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
 
 ###### Artículo 393.
 
-El presente Título tiene por objeto establecer las disposiciones generales que regulan:
-
-I. La prestación de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas, y servicios relacionados con éstos; así como establecer las bases generales de regulación de las aguas de jurisdicción estatal; y
-
-II. Las bases para el cobro de los derechos por los servicios prestados y de los derechos de infraestructura, así como los señalados en el presente Título.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 394.
 
-Corresponde originalmente a los Municipios la prestación de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas, quienes lo harán por conducto de la Comisión Estatal de Aguas. Dicho organismo estará facultado para planear, programar, construir, mantener, administrar, operar, conservar, rehabilitar y controlar los sistemas para la prestación de esos servicios en el ámbito de su circunscripción territorial y de acuerdo al Plan Estatal de Desarrollo, en los términos de la legislación federal y del presente Código, de los Reglamentos correspondientes y de las disposiciones jurídicas que rijan la gestión de las aguas en el Estado de Querétaro.
-
-Los objetivos a desarrollar, serán contar con la planeación financiera integral y la autosuficiencia necesaria, elevar el nivel de los servicios, fortalecer la administración de los sistemas para prestar dichos servicios y asegurar las características y especificaciones en ampliaciones realizadas por terceros para el buen funcionamiento y beneficio de los usuarios.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 395.
 
-La Comisión Estatal de Aguas realizará los estudios técnico-financieros que determinen la factibilidad de crear administraciones municipales o intermunicipales, dependientes de la propia Comisión.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 396.
 
-Es causa de utilidad pública:
-
-I. La planeación, programación, estudios, proyectos, diseños, construcción, rehabilitación, mantenimiento, conservación y ampliación de las obras y servicios necesarios para la operación y administración de los sistemas de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas;
-
-II. La adquisición, utilización y aprovechamiento de las obras hidráulicas y de cualquier otra índole que sean de propiedad privada y que se requieran para la eficiente prestación de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas, que estén establecidos o por establecerse;
-
-III. La prevención y control de la contaminación de las aguas ubicadas dentro del territorio del Estado, con excepción de las de propiedad Nacional;
-
-IV. La adquisición de los bienes muebles o inmuebles que sean necesarios para la planeación, programación, construcción, rehabilitación, ampliación, mejoramiento, conservación, desarrollo, operación y mantenimiento de los sistemas de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas, incluyendo las instalaciones y equipamientos conexos, caminos de acceso, zonas de protección, servidumbres y derechos de paso; y
-
-V. La operación, inspección, supervisión, control y vigilancia de los sistemas de prestación de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 397.
 
-El titular del Poder Ejecutivo del Estado podrá decretar la expropiación, ocupación temporal, parcial o total o la limitación de los derechos de dominio de los bienes de propiedad privada, cuando se requiera para la prestación de los servicios materia del presente Título y cuando exista causa de utilidad pública.
-
-La expropiación se realizará en beneficio de la Comisión Estatal de Aguas, la cual tendrá la obligación de cubrir la indemnización correspondiente en los términos de la Ley de la materia.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 398.
 
-Previa autorización de su órgano de gobierno, la Comisión Estatal de Aguas, podrá contratar con terceros, a fin de prestar de manera eficiente los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas; siguiendo el procedimiento señalado para el otorgamiento de concesiones.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 399.
 
-En los términos establecidos en la Ley de la Administración Pública Paraestatal del Estado de Querétaro, la Comisión Estatal de Aguas se podrá asociar con terceros para prestar los servicios de agua potable, alcantarillado y saneamiento y disposición de sus aguas residuales y tratadas, previa autorización de su órgano de gobierno; siguiendo el procedimiento señalado para el otorgamiento de concesiones.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 400.
 
-Para efecto de lo dispuesto en los artículos 398, 399 y 401 de este Código, los terceros con quienes se contrate, deberán contar con capacidad técnica y financiera que garantice la adecuada prestación de los servicios inherentes.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 401.
 
-La Comisión Estatal de Aguas podrá concesionar los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas, en términos de lo que dispone este Código.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
 
 ### Capítulo Tercero. De los Servicios
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
 
 #### Sección Primera. De sus Atribuciones
 
 ###### Artículo 402.
 
-La Comisión Estatal de Aguas de Querétaro es un Organismo Público Descentralizado con personalidad jurídica y patrimonio propio, que cuenta con autonomía técnica y orgánica, siendo la autoridad en materia de servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas.
-
-Asimismo, coadyuva con autoridades federales, estatales y municipales en todas las actividades concernientes a la planeación, estudios, proyectos, diseño, construcción, rehabilitación, ampliación, mejoramiento, conservación, desarrollo, administración, mantenimiento, operación, regulación y control de sistemas, equipamientos o instalaciones, así como en la prevención y control de la contaminación de las aguas, para la prestación de los servicios mencionados en el presente artículo, incluyendo la gestión del recurso para beneficio de los habitantes del Estado.
-
-Para el cumplimiento del presente Título, de las demás disposiciones contenidas en este Código y diversos ordenamientos que se relacionen con los servicios mencionados en el párrafo anterior, la Comisión Estatal de Aguas tendrá las siguientes atribuciones:
-
-I. Planear, programar, estudiar, proyectar, diseñar, construir, rehabilitar, ampliar, mejorar, conservar, desarrollar, administrar, mantener, operar, regular y controlar los sistemas de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas, así como los medios alternos de distribución de agua a través de carros cisterna, regulando las tarifas, precios, formas y procedimientos de distribución a través del Reglamento correspondiente.
-
-Asimismo, podrá realizar procesos de producción, conducción, distribución, comercialización y consumo de agua purificada para embotellamiento y envasado, de acuerdo con las normas oficiales mexicanas que correspondan, obteniendo las licencias y autorizaciones que se requieran;
-
-II. Coordinarse con las autoridades competentes en todos los programas, proyectos y acciones relativas a la prestación de los servicios materia del presente Título y, en su caso, llevar a cabo la suscripción de los convenios de coordinación o cooperación para la construcción de obras nuevas, rehabilitaciones, ampliaciones o mejoras en sistemas de agua potable, alcantarillado, saneamiento y disposición de aguas residuales y tratadas, y servicios relacionados con éstos;
-
-III. Realizar los estudios que determinen los requerimientos futuros de caudales y volúmenes para la prestación de los servicios que proporciona, así como coordinarse con las autoridades competentes para tales efectos.
-
-Dentro de éstos, se consideran los estudios de factibilidad de suministro de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas, para nuevos usuarios, desarrolladores y solicitantes del servicio;
-
-IV. Controlar los sistemas y proporcionar los servicios de agua potable, alcantarillado, saneamiento y disposición de aguas residuales y tratadas en los Municipios, conforme a los términos del presente Título;
-
-V. Aprobar las tarifas para el cobro de los derechos por la prestación de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas; así como aplicar en la forma que establece el presente Título, las actualizaciones o ajustes correspondientes y aprobar las contribuciones que deberán aportar los beneficiados por obras hidráulicas;
-
-VI. Determinar las zonas de aplicación de las tarifas de uso doméstico;
-
-VII. Cobrar los derechos derivados de la prestación de los servicios que tiene encomendados la Comisión Estatal de Aguas, así como de las contribuciones por la realización de obras, instalaciones y equipamientos necesarios para tales fines, incluso a través del procedimiento administrativo de ejecución en los términos que señala este Título y demás ordenamientos legales;
-
-VIII. Establecer las políticas, procedimientos, estrategias, metodologías, instrumentos analíticos diversos, incluyendo modelos y algoritmos de cálculo y las correspondientes normas técnicas aplicables en la prestación de los servicios y construcción de las obras a que se refiere el presente Título, a las que se deberá ajustar;
-
-IX. Realizar los estudios, proyectos y diseños para determinar un mejor uso y distribución de las aguas en la prestación del servicio de agua potable;
-
-X. Solicitar al titular del Poder Ejecutivo del Estado la expropiación, ocupación temporal, total o parcial o la limitación de los derechos de dominio en los términos de la ley de la materia, de aquellos bienes que sea indispensable afectar en cumplimiento del objeto de la Comisión Estatal de Aguas;
-
-XI. Otorgar concesiones para la prestación de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y las tratadas;
-
-XII. Celebrar con terceros, previa autorización de su órgano de gobierno, contratos de prestación de servicios para la construcción, posesión, operación y administración de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas; siguiendo el procedimiento señalado para las concesiones;
-
-XIII. Formular y mantener actualizado el inventario de los bienes muebles, inmuebles, recursos hidráulicos y padrón de usuarios que integran los sistemas de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas;
-
-XIV. Promover la participación ciudadana con el fin de desarrollar una nueva cultura del agua, así como aprobar un porcentaje presupuestal en los programas específicos que se requieran, para difundir información sobre los servicios que se prestan;
-
-XV. Representar al Estado ante las autoridades federales en materia de agua, así como promover y gestionar recursos para obras públicas y programas diversos en materia de prestación de servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas;
-
-XVI. Obtener créditos para mejorar la prestación de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas, y servicios relacionados con éstos;
-
-XVII. Elaborar y mantener actualizado el programa estatal de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas;
-
-XVIII. Elaborar y ejecutar el programa operativo anual para cada uno de los sistemas;
-
-XIX. Promover el desarrollo y autosuficiencia administrativa, técnica, financiera y jurídica de la Comisión Estatal de Aguas;
-
-XX. Operar y mantener actualizado el sistema estatal de información de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas;
-
-XXI. Aprobar las factibilidades para el establecimiento de centros de población, desarrollos inmobiliarios, subdivisión y lotificación de predios e inmuebles en general, para la prestación de los servicios a nuevos usuarios. Asimismo, autorizar y avalar los proyectos hidráulicos de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas.
-
-Dichas factibilidades serán previas a cualquier autorización de desarrollo inmobiliario en la Entidad;
-
-XXII. Celebrar contratos y convenios con los tres órdenes de gobierno, en materia de proyectos, diseños, construcción de obras nuevas, rehabilitaciones, ampliaciones o mejoras en sistemas de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas, así como aquellos que se deriven, de conformidad con lo dispuesto en éste Título;
-
-XXIII. Administrar los sistemas y proporcionar servicios relacionados con la prestación de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas;
-
-XXIV. Dictar las condiciones que deben cumplir los usuarios para prevenir y controlar la contaminación de aguas residuales descargadas a los sistemas de alcantarillado a cargo de la Comisión Estatal de Aguas, así como realizar la cuantificación y pago de los derechos respectivos;
-
-XXV. Otorgar los permisos o las licencias a personas físicas o morales, para que usen o aprovechen las aguas residuales que corren por los sistemas de alcantarillado de la Comisión Estatal de Aguas, para su tratamiento posterior por parte del usuario. En caso de que dichas aguas se hayan incorporado a los regulados por las leyes federales, será competencia exclusiva de la Federación, deslindándose la Comisión Estatal de Aguas de un aprovechamiento contrario a las disposiciones legales federales;
-
-XXVI. Proporcionar los servicios de mantenimiento de infraestructura de agua potable y alcantarillado, a partir del límite exterior del predio del usuario hacia la conexión con las fuentes o líneas de abastecimiento o colectores de aguas; y
-
-XXVII. Las demás que expresamente se contengan en su Decreto de creación y demás disposiciones legales aplicables.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 403.
 
-La Comisión Estatal de Aguas se integra de la forma siguiente:
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
-I. Un Consejo Directivo;
-
-II. Un Vocal Ejecutivo;
-
-III. Administraciones municipales o intermunicipales; y
-
-IV. Un Órgano Interno de Control.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
 
 #### Sección Segunda. De sus Órganos de Gobierno
 
 ###### Artículo 404.
 
-El Consejo Directivo es la máxima autoridad de la Comisión Estatal de Aguas y estará integrado por:
-
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
-
-I. Un Presidente, que será el Gobernador del Estado de Querétaro o el Comisionado General de Entidades Paraestatales;
-
-II. Un Secretario, que será el Vocal Ejecutivo de la Comisión Estatal de Aguas;
-
-III. Un Vocal Secretario, que será el titular de la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo del Estado;
-
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
-
-IV. Un Vocal, que será el titular de la Secretaría de Finanzas del Poder Ejecutivo del Estado;
-
-V. Un Vocal, que será el representante de los Municipios, cuyo cargo recaerá en el Presidente Municipal de Querétaro;
-
-VI. Un Vocal, que será el representante de los usuarios de los servicios en el Estado, quien será designado por los miembros del Consejo Directivo reunidos en sesión, a propuesta de una terna que presente el Vocal Ejecutivo de la Comisión Estatal de Aguas;
-
-VII. Un Vocal, que será el representante de la Cámara Nacional de Comercio, Servicios y Turismo de Querétaro;
-
-VIII. Un Vocal, que será el representante de la Federación de Colegios de Profesionistas en el Estado;
-
-IX. Un Vocal, que será el representante de la Cámara Nacional de la Industria de la Transformación, Delegación Querétaro;
-
-X. Un Vocal, que será el representante de la Cámara Nacional de la Vivienda;
-
-XI. Un Vocal, que será el Coordinador de los Consejos de Concertación Ciudadana en el Estado; y
-
-XII. Un Comisario, que será el titular de la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
-
-Los integrantes propietarios podrán designar un suplente con carácter de permanente, el cual estará facultado para adoptar decisiones y asumir compromisos al seno del Consejo Directivo.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 405.
 
-Son facultades del Consejo Directivo:
-
-I. Establecer las políticas generales y estrategias para el funcionamiento de la Comisión Estatal de Aguas y aprobar los programas de obras que se ejecuten;
-
-II. Aprobar la realización de análisis, diagnósticos y estudios diversos, para determinar, en términos de caudal, volumen y calidad de las aguas, un mejor uso y distribución de dichos recursos en la prestación de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas;
-
-III. Aprobar un porcentaje anual de los recursos a cargo de la Comisión Estatal de Aguas, para promover la participación ciudadana en la cultura del agua; difundir la información sobre el estado que guarda la administración y las condiciones del suministro de los servicios que se prestan; así como para contribuir a la educación en materia hídrica en el Estado o en los Municipios, según sea el caso;
-
-IV. Aprobar las tarifas para el cobro a los usuarios de los derechos por la prestación de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas, así como de los demás servicios relacionados con aquellos, incluyendo las contribuciones que deberán aportar los beneficiados por la realización de las obras que se requieren;
-
-V. Aprobar la concertación de créditos cuyo monto en el ejercicio fiscal correspondiente sean superiores al diez por ciento del presupuesto de la propia Comisión Estatal de Aguas, cumpliendo, además, con las disposiciones que a este respecto establezcan la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, la Ley de la Administración Pública Paraestatal del Estado de Querétaro y la Ley de Deuda Pública del Estado de Querétaro;
-
-VI. Aprobar el programa anual de obra que le proponga el Vocal Ejecutivo de la Comisión Estatal de Aguas, para la prestación de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas;
-
-VII. Aprobar el proyecto de presupuesto anual de egresos de la Comisión Estatal de Aguas y las inversiones y demás erogaciones ordinarias y extraordinarias que ésta haya realizado;
-
-VIII. Aprobar los estados financieros y los balances anuales e informes generales y especiales que presente el Vocal Ejecutivo;
-
-IX. Aprobar los manuales administrativos, así como los instrumentos normativos necesarios para el adecuado funcionamiento de la Comisión Estatal de Aguas;
-
-X. Aprobar de forma unánime el otorgamiento de concesiones, mismas que serán expresas y determinadas, estableciendo la forma, términos, condiciones y obligaciones que deberán contener;
-
-XI. Aprobar la división del territorio del Estado para la competencia de las administraciones de la Comisión Estatal de Aguas;
-
-XII. Resolver sobre los asuntos que le sean planteados por el Vocal Ejecutivo y cuya decisión no sea competencia de éste; y
-
-XIII. Las demás que expresamente se contengan en su Decreto de creación y otras disposiciones legales aplicables.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 406.
 
-Compete al Vocal Ejecutivo la ejecución de los acuerdos y decisiones del Consejo Directivo, así como de las políticas, estrategias, metodologías, procesos, instrumentos analíticos diversos, normas correspondientes y criterios en la administración de sistemas y la prestación de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 407.
 
-El Vocal Ejecutivo es el representante legal de la Comisión Estatal de Aguas de Querétaro, contando, para el ejercicio de sus funciones, con las facultades de un mandatario general para pleitos y cobranzas, actos de administración y de dominio, con todas las facultades generales y especiales, aún cuando requieran cláusula especial, con facultades para articular y absolver posiciones; estando facultado para sustituir en todo o en parte el mandato, con excepción de las facultades para realizar actos de dominio, en que se requerirá la aprobación del Consejo Directivo.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 408.
 
-Son facultades del Vocal Ejecutivo:
-
-I. La coordinación de la prestación en el Estado de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas;
-
-II. La coordinación de la recaudación de los derechos derivados de los servicios señalados en la fracción anterior, con el apoyo de los órganos respectivos de la Comisión Estatal de Aguas y de terceros, conforme sea necesario o conveniente;
-
-III. La coordinación de las actividades técnicas, administrativas, financieras y jurídicas de la Comisión Estatal de Aguas, para lograr el mejor funcionamiento, eficiencia y cumplimiento de su objeto; debiendo presentar para su aprobación al Consejo Directivo, el Programa anual de obra;
-
-IV. Elaborar y presentar al Consejo Directivo para su aprobación, los manuales administrativos, así como los instrumentos normativos necesarios para el adecuado funcionamiento de la Comisión Estatal de Aguas;
-
-V. Seleccionar, contratar y nombrar al personal necesario para el cumplimiento del objeto de la Comisión Estatal de Aguas, señalándoles sus facultades y obligaciones en los términos del ordenamiento legal respectivo, así como determinar su remoción;
-
-VI. La autorización de la inversión y demás erogaciones que correspondan al ejercicio del presupuesto y someter a la aprobación del Consejo Directivo las erogaciones extraordinarias que se requieran;
-
-VII. La presentación trimestral al Consejo Directivo de los informes generales y especiales, y estados financieros; y anualmente los balances finales. De igual forma, podrá presentar informes extraordinarios, a petición del propio Consejo;
-
-VIII. La representación legal de la Comisión Estatal de Aguas, en los términos del artículo 407 de este Código y demás disposiciones legales aplicables;
-
-IX. La realización de los actos de dominio sobre bienes muebles e inmuebles propiedad de la Comisión Estatal de Aguas, previa aprobación del Consejo Directivo;
-
-X. La elaboración y presentación del proyecto de presupuesto anual de egresos de la Comisión Estatal de Aguas, para la aprobación del Consejo Directivo;
-
-XI. Someter a la aprobación del Consejo Directivo, la concertación de créditos cuyo monto en el ejercicio fiscal correspondiente, sea inferior al diez por ciento del presupuesto de la propia Comisión Estatal de Aguas, cumpliendo además con las disposiciones legales aplicables;
-
-XII. La determinación y cobro del monto de los servicios especiales relacionados con la prestación de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas;
-
-XIII. La propuesta al Consejo Directivo, de las medidas pertinentes para mejorar el funcionamiento de la Comisión Estatal de Aguas de Querétaro, así como los programas respectivos a su implementación;
-
-XIV. En casos de emergencia derivados de caso fortuito o fuerza mayor, bajo su más estricta responsabilidad, podrá decretar las medidas pertinentes para salvaguardar la prestación de los servicios y la seguridad de las personas, pudiendo realizar las erogaciones extraordinarias que el caso amerite, en el entendido que deberán ser hechas del conocimiento del Consejo Directivo en su siguiente sesión, para su fiscalización y aprobación;
-
-XV. Hacer cumplir los manuales de procedimientos, así como la normatividad legal, relacionada con la prestación de los servicios a que se refiere el presente Título;
-
-XVI. Representar al Estado de Querétaro, en lo relativo a los recursos hídricos y del servicio prestado;
-
-XVII. Ejecutar, requerir, solicitar y presentar las reclamaciones de fianzas ante las instituciones afianzadoras, en su carácter de autoridad ejecutora, requirente o solicitante; y
-
-XVIII. Las demás que expresamente se le asignen en este Título, las que acuerde el Consejo Directivo de la Comisión Estatal de Aguas, así como las previstas en las disposiciones legales aplicables.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 409.
 
-El Vocal Ejecutivo de la Comisión Estatal de Aguas, será designado y removido libremente por el titular del Poder Ejecutivo del Estado.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 410.
 
-Para la administración de los sistemas y prestación de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas, la Comisión Estatal de Aguas instalará las administraciones que se requieran, previo estudio de factibilidad.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 411.
 
-El Vocal Ejecutivo de la Comisión Estatal de Aguas, designará a los titulares de las administraciones municipales o intermunicipales, las cuales contarán con el personal necesario para el cumplimiento de su objeto.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 412.
 
-Los titulares de las administraciones municipales o intermunicipales, realizarán sus actividades e informarán de las mismas al Vocal Ejecutivo de la Comisión Estatal de Aguas, en los términos que señale la normatividad aplicable.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 413.
 
-El Órgano Interno de Control de la Comisión Estatal de Aguas, se conforma por titular designado por la Secretaría de la Contraloría del Poder Ejecutivo del Estado y tendrá las atribuciones que le confiere la Ley de la Administración Pública Paraestatal del Estado de Querétaro, este Código y demás disposiciones legales aplicables.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
 
 #### Sección Tercera. Del Patrimonio
 
 ###### Artículo 414.
 
-El Patrimonio de la Comisión Estatal de Aguas se integra por:
-
-I. Las aportaciones que reciba de cualquiera de los tres órdenes de gobierno, así como de los particulares;
-
-II. Los créditos y otros compromisos financieros que se obtengan para el cumplimiento de sus fines;
-
-III. Los ingresos que obtenga por la prestación de los servicios, así como de asesoría, estudios, proyectos y demás actividades afines con la prestación de los servicios que se señalan en este Código y aquellas que el Consejo Directivo determine para el mejor cumplimiento de su objeto;
-
-IV. Las donaciones, herencias, legados, subsidios, cooperaciones, asignaciones, concesiones, aportaciones y adjudicaciones a favor de la Comisión Estatal de Aguas;
-
-V. Los bienes muebles e inmuebles, derechos y obligaciones; y
-
-VI. Las contraprestaciones con motivo de las concesiones parciales que se otorguen y/o que sean generadas por cualquier acto contractual.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 415.
 
-En los procedimientos jurisdiccionales en que sea parte la Comisión Estatal de Aguas, estará exenta de prestar garantía alguna respecto del mandamiento de ejecución o providencia de embargo, se estará a lo que establezcan las leyes de la materia.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 416.
 
-Los bienes inmuebles que integran el patrimonio de la Comisión Estatal de Aguas de Querétaro, sólo podrán gravarse para la obtención de créditos destinados a mejorar la prestación de los servicios respectivos.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
 
 ### Capítulo Cuarto. De las Tarifas y Derechos
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
 
 #### Sección Primera. Del Servicio de Agua Potable
 
 ###### Artículo 417.
 
-Son usos específicos correspondientes a la prestación del servicio de agua potable a que se refiere el presente Código Urbano, los siguientes:
-
-I. Doméstico;
-
-II. Comercial;
-
-III. Industrial;
-
-IV. Público Oficial;
-
-V. Público Concesionado;
-
-VI. Escuelas y Centros de Enseñanza;
-
-VII. Hidrantes Colectivos;
-
-VIII. Beneficencias Públicas y de Asistencia Privada; y
-
-IX. Ganadero.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 418.
 
-La tarifa del uso doméstico se clasifica en zonas socioeconómicas que son:
-
-I. Alta;
-
-II. Media;
-
-III. Económica; y
-
-IV. Apoyo social.
-
-Las zonas y formas a las cuales se aplicarán las tarifas mencionadas serán determinadas por el Consejo Directivo.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 419.
 
-En los lugares donde se encuentre disponible el servicio de agua potable, están obligados a contratarlo:
-
-I. Los propietarios de los inmuebles destinados a uso doméstico;
-
-II. Los propietarios de los inmuebles destinados a usos comerciales e industriales, incluyendo los prestadores de servicios de distinta índole; y
-
-III. Los propietarios de inmuebles que no cuenten con construcción y que en su periferia linde con la infraestructura pública y red de distribución de agua potable que forme parte del sistema administrado por la Comisión Estatal de Aguas de Querétaro y que cuente con disponibilidad de agua para la prestación del servicio; en este caso, la conexión de la toma se realizará hasta que se requiera por necesidades del inmueble, sin menoscabo de aplicar lo dispuesto en el presente Título en materia de cobro mínimo de acuerdo a la tarifa oficial vigente.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 420.
 
-Los poseedores de bienes inmuebles, cuya posesión derive de contratos traslativos de usos o de dominio, deberán realizar la contratación a que hace referencia el artículo anterior, siempre y cuando los propietarios no la hayan realizado.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 421.
 
-En tanto no se cumpla con la obligación a que se refiere el artículo 419 de este Código, la Comisión Estatal de Aguas de Querétaro, estará facultada para aplicar el cobro mínimo de acuerdo a la tarifa oficial vigente.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 422.
 
-Será objeto de sanción, en los términos que este Código establezca, el abastecimiento de agua mediante fuentes alternas, en cualquiera de los casos en que exista obligación de contratar el servicio, conforme a lo dispuesto por el artículo 419 de este Código.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 423.
 
-Los obligados a contratar el servicio de agua potable, deberán hacerlo en los siguientes plazos:
-
-I. Treinta días naturales siguientes a la fecha en que por cualquier medio se les haya hecho del conocimiento que ha quedado disponible el servicio en la red de distribución; quedando en tanto restringido el servicio hasta su contratación, con llave de corte cerrada en el sitio donde se ubica el inmueble;
-
-II. Treinta días naturales siguientes a partir de la fecha en que tome posesión o adquiera en propiedad el inmueble; y
-
-III. De quince días naturales, en los demás casos no considerados en las fracciones anteriores.
-
-En el caso de construcción a realizarse en el inmueble respectivo, la contratación deberá tramitarse con antelación al inicio de obras, sujetándose la contratación al procedimiento de factibilidad vigente en la Comisión Estatal de Aguas.
+L(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 424.
 
-Al establecerse el servicio de agua potable en las localidades, comunidades o poblaciones que carecen de éste, la Comisión Estatal de Aguas podrá optar por hacer del conocimiento de los futuros usuarios, a través de la publicación del aviso de establecimiento del servicio, por una vez en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga” o en dos de los diarios de mayor circulación en la localidad. Dicha publicación surtirá efectos de notificación a los beneficiarios o usuarios potenciales del servicio. El aviso señalará los requisitos y lugares para celebrar el contrato, así como el procedimiento respectivo.
-
-Tratándose de desarrollos inmobiliarios construidos en zonas de consolidación, que por su ubicación geográfica no tenga acceso a los medios de comunicación referidos en el párrafo anterior, la notificación para la contratación del servicio podrá realizarse a través de los medios de comunicación disponibles.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 425.
 
-Los interesados solicitarán los servicios de agua potable, alcantarillado, saneamiento y disposición de las aguas residuales y tratadas, debiendo cubrir los requisitos que la Comisión Estatal de Aguas establezca. En los casos en que no se cumpla con los requisitos, se prevendrá a los interesados para que den cumplimiento dentro del plazo de tres días, contados a partir de que haya surtido efectos la notificación de la prevención.
-
-Transcurrido el plazo señalado en el párrafo que antecede, sin que se cumpla la prevención, la Comisión Estatal de Aguas de Querétaro desechará la solicitud, debiendo presentarse nuevamente por cuenta del solicitante, sin que esto implique la ampliación del plazo para realizar la contratación.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 426.
 
-Cumplidos los requisitos por el interesado, la Comisión Estatal de Aguas haya aprobado los requisitos, formalizará la contratación, debiendo el solicitante pagar los derechos de infraestructura y conexión y demás pagos que correspondan de acuerdo al tipo de servicio contratado.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 427.
 
-Cuando el desarrollador inmobiliario haya realizado las obras de infraestructura que se requieran para la prestación de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas, la Comisión Estatal de Aguas realizará la instalación y conexión de la toma dentro de los diez días siguientes a la fecha de la contratación referida, con excepción de los inmuebles no construidos, en los cuales no existirá obligación de realizar instalación y conexión hasta que se vaya a iniciar la construcción correspondiente que requiera la prestación del servicio, sin perjuicio de que la Comisión Estatal de Aguas pueda aplicar lo dispuesto en el presente Título, en materia de cobro mínimo de acuerdo a la tarifa que se encuentre vigente.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 428.
 
-Las características de la conexión e instalación de la toma, deberán corresponder con aquellas que se hayan determinado en forma general para la población y en caso especial las que se determinen como resultado de practicar la o las visitas de inspección necesarias ordenadas por la Comisión Estatal de Aguas.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 429.
 
-Para cada predio, giro o establecimiento, deberá instalarse una toma independiente que estará asociada con un contrato específico, con las características de conexión que se requieran, conforme al uso, localidad y naturaleza del predio y con el o los dispositivos de medición que determine e instale la Comisión Estatal de Aguas.
-
-En los condominios se establecerá una toma general para todo el condominio, además de las tomas individuales que puedan instalarse.
-
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2014)</small>
-
-En caso de condominios horizontales y verticales deberán instalarse un número de tomas y medidores equivalentes al número de unidades privativas que conforman el condominio, por lo cual, el constructor o desarrollador deberá edificar la infraestructura hidráulica independiente para todos y cada uno de los locales, departamentos, casas o unidades privativas, de tal forma que esta infraestructura permita a la Comisión Estatal de Aguas instalar los aparatos medidores correspondientes en los límites del condominio con la vía pública.
-
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2014)</small>
-
-En los demás casos de condominios diferentes a los señalados en el párrafo anterior, la contratación individual estará sujeta a las condiciones que establezca la Comisión Estatal de Aguas en el convenio que se suscriba para tal efecto. Principalmente deberá establecerse el acta de Asamblea condominal, donde los condóminos, manifiesten su consentimiento para individualizarse y responsabilizarse de sus consumos.
-
-Los constructores o desarrolladores deberán someter a la revisión y aprobación de la Comisión Estatal de Aguas, los proyectos hidráulicos para la construcción del condominio, debiendo ceñirse en el mismo, a las especificaciones técnicas que para tal efecto se determinen.
-
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2014)</small>
-
-Una vez realizada la individualización de tomas, los condóminos estarán obligados al pago del suministro de agua potable, alcantarillado y saneamiento, con base en las lecturas que arroje el aparato medidor individual instalado en cada unidad privativa, así como al pago proporcional de las diferencias registradas, en su caso, por el área común, a través del aparato medidor que pudiera para tal efecto encontrarse instalado.
-
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2014)</small>
-
-En su caso, el pago de las diferencias señaladas en el párrafo anterior, podrá hacerse mediante el cargo realizado a los recibos individuales de cada uno de los condóminos, dividiéndose en partes iguales entre el número de contratos que conformen el condominio.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 430.
 
-En el caso de la construcción de nuevos fraccionamientos y cuando la Comisión Estatal de Aguas determine la posibilidad de la introducción de agua tratada para el uso en el retrete y en las áreas verdes del mismo, el desarrollador deberá instalar doble línea, una para la introducción del agua potable y otra para el agua tratada.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 431.
 
-Para los efectos de aplicación de lo dispuesto en el artículo anterior, en forma precisa se considerará que hay un solo predio, uso del suelo, giro o establecimiento, cuando concurran las siguientes características:
-
-I. Que se trate de un solo inmueble construido o sin construir;
-
-II. Que exista un solo propietario o una copropiedad pro indiviso que pueda demostrarse en forma fehaciente;
-
-III. Que esté destinado a un solo uso, actividad económica o social o un destino único, para lo cual se verificará en forma explícita el uso del suelo; y
-
-IV. Que exista la factibilidad técnica de poder suministrar el servicio mediante una toma independiente y conexión respectiva, en relación con cualquier parámetro exterior.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 432.
 
-La Comisión Estatal de Aguas podrá autorizar previamente y por escrito una derivación, entendiéndose como aquella ramificación provisional de una infraestructura hidráulica preexistente, ya sea de agua potable o para el reuso de aguas residuales y tratadas, solamente bajo las siguientes circunstancias:
-
-I. En los casos que se requiera suministrar el servicio de agua potable o tratada para un predio, giro o establecimiento colindante, para el cual el sistema no cuente con infraestructura de distribución para otorgar el servicio. En tales casos, deberá también verificarse la solución para el vertido de las aguas residuales;
-
-II. Cuando se trate de espectáculos, eventos especiales como ferias, concursos y exhibiciones o para el establecimiento de diversiones públicas temporales, siempre que cuenten con el permiso correspondiente, previamente otorgado por la autoridad facultada para su funcionamiento; y
-
-III. En los demás casos no contemplados, mediante el estudio detallado de la situación específica y con la aprobación del Vocal Ejecutivo, previa opinión técnica favorable proporcionada por la Comisión Estatal de Aguas.
-
-En tales casos, deberá también verificarse la solución para el vertido de las aguas residuales.
-
-En los supuestos de derivación previstos en el presente artículo, también deberá contarse previamente con la autorización por escrito del propietario del predio, giro o establecimiento del que deriven, quien al conceder dicha autorización estará obligado solidariamente a pagar los derechos que corresponda en forma plena y oportuna.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 433.
 
-La Comisión Estatal de Aguas autorizará las derivaciones en cualquiera de las circunstancias contenidas en el artículo anterior, siempre y cuando no representen alguna afectación al sistema que administra, ni tampoco afectaciones a terceros y mediante el pago de los derechos por el permiso correspondiente y el otorgamiento de la garantía que fije la Comisión Estatal de Aguas.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 434.
 
-Invariablemente los propietarios o poseedores de los predios, establecimientos o giros que sean titulares de los contratos de suministro de servicios, tendrán las siguientes obligaciones para con la Comisión Estatal de Aguas de Querétaro:
-
-I. Efectuar el pago oportuno de los derechos por cualquiera de los servicios que le sean suministrados;
-
-II. Informar del cambio de propietario, el cambio de uso del suelo, el cambio de giro comercial o industrial o de la baja de estos últimos, dentro de los treinta días siguientes a la fecha en que suceda. En caso de que la Comisión Estatal de Aguas considere procedentes las modificaciones solicitadas, en términos de los servicios que presta, realizará las adecuaciones pertinentes a sus sistemas de información y administración para los fines que correspondan.
-
-Para el caso de cambio de giro o uso, el usuario deberá pagar los diferenciales por derechos de infraestructura, cuando el nuevo giro o uso, implique un gasto mayor de agua del autorizado en la contratación inicial;
-
-III. Realizar un uso racional y eficiente del agua potable. Tratándose de casas, comercios, clubes sociales y deportivos, jardines, canchas deportivas, industrias, fábricas, escuelas, universidades, institutos de educación básica, media o superior, colegios, sean públicos o privados, para el riego de sus áreas verdes, deben utilizar única y exclusivamente agua tratada, quedando prohibido para todos estos supuestos el uso de agua potable, siempre y cuando exista la infraestructura necesaria y correspondiente de agua tratada para su disposición; sólo en los casos en que el área verde tenga una superficie menor a veinte metros cuadrados la Comisión Estatal de Aguas autorizará el riego con agua potable;
-
-IV. Reportar cualquier fuga que identifiquen en la vía pública o en las redes administradas por la Comisión Estatal de Aguas;
-
-V. Mantener en buen estado la infraestructura hidráulica interna de sus domicilios;
-
-VI. Utilizar aditamentos economizadores de agua en los sistemas sanitarios, regaderas y llaves, con el objeto de evitar pérdidas, fugas y desperdicios de agua;
-
-VII. Garantizar el funcionamiento adecuado de la infraestructura interna del predio;
-
-VIII. Cumplir con la normatividad para el uso eficiente del agua;
-
-IX. Queda prohibido el uso de agua potable para el lavado de banquetas, patios y automóviles con agua corriente en uso de manguera que implique su desperdicio; y
-
-X. Queda prohibido a los usuarios la manipulación, alteración o modificación a las interconexiones de la red pública de agua potable a los predios; así como el realizar derivaciones o interconexiones antes del medidor para otros predios o para evadir los dispositivos de medición instalados por la Comisión Estatal de Aguas.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 435.
 
-Las tomas, los aparatos medidores y sus dispositivos deben instalarse afuera del predio, giro o establecimiento, en el límite frontal del mismo, ubicándose en lugar visible, para facilitar las lecturas, pruebas de funcionamiento, reparaciones y su posible sustitución cuando corresponda.
-
-Los usuarios de los servicios están obligados a realizar o permitir que se realicen, según corresponda, las modificaciones, instalaciones o adecuaciones que la Comisión Estatal de Aguas considere necesarias para el cumplimiento de lo dispuesto en el párrafo anterior, siempre y cuando se justifique la medida por dicha Comisión.
-
-En caso que las tomas instaladas requieran modificación, corresponde al usuario el pago del importe de los trabajos materiales o equipos que al efecto se realicen, previa determinación de la Comisión Estatal de Aguas, misma que deberá ser notificada al usuario.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 436.
 
-Instalada la toma y hecha la conexión respectiva hasta la construcción del inmueble, la Comisión Estatal de Aguas hará la apertura de la cuenta y expediente administrativo de dicha toma a nombre del usuario correspondiente en el padrón de usuarios, para efecto de llevar la regulación y control de las tomas domiciliarias y realizar la administración de esa conexión en particular, en términos de lectura de medidor e historial de consumos, facturación y cobro de los servicios que se presten o, en su caso, realizar el cobro del consumo mínimo.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 437.
 
-Cualquier modificación que se pretenda hacer en el predio, uso del suelo, giro o establecimiento que afecte directa o indirectamente al sistema de agua potable, queda sujeto a la autorización previa y por escrito otorgada por la Comisión Estatal de Aguas, aplicándose los plazos y procedimientos establecidos para la instalación y conexión del servicio de agua potable. Se aplicará esta disposición en forma análoga para los casos de conexiones para el reuso de aguas residuales y las tratadas.
-
-Queda prohibida la instalación de equipos o dispositivos de succión directa en la tubería de los predios directamente conectados con el sistema. Se permite la instalación de equipos hidroneumáticos y sistemas análogos para presurizar el agua en las tuberías, siempre y cuando sea al interior de un predio, sin afectar en forma alguna el funcionamiento de los dispositivos de medición ya instalados.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 438.
 
-En ningún caso el propietario o poseedor del predio o quien lo habite, podrá operar por sí mismo el cambio del sistema, instalación, supresión o conexión para el servicio de agua potable. Cuando ello ocurriera, será causa suficiente para determinar la supresión temporal de los servicios e instalaciones que se hubieren realizado, sin perjuicio de que la Comisión Estatal de Aguas pueda hacer del conocimiento del Ministerio Público los hechos presuntamente constitutivos de delitos sancionados por el Código Penal para el Estado de Querétaro.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 439.
 
-La Comisión Estatal de Aguas podrá limitar el suministro de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas, cuando el usuario de los mismos no realice el pago correspondiente a la cuota por los servicios suministrados; lo anterior, siempre que se haya hecho del conocimiento del usuario el importe del adeudo y su fecha de vencimiento a través del recibo correspondiente o mediante cualquier medio impreso o de cualquier otra índole.
-
-La Comisión Estatal de Aguas cobrará los costos administrativos de la reconexión de los servicios, así como los materiales empleados para tal efecto, los que serán reflejados en el recibo correspondiente, reinstalando el suministro de los servicios; lo anterior, salvo que fundada y motivadamente se le haga saber a la Comisión que se trata de causas graves imputables al usuario, supuesto en el cual no se reinstalarán los mismos.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 440.
 
-Son causas para la limitación de los servicios:
-
-I. La falta de pago de los derechos correspondientes al suministro de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas, por un periodo de dos o más meses consecutivos;
-
-II. La negativa del usuario a realizar los trámites de regularización del uso de los servicios, en los casos de uso distinto al contratado;
-
-III. El robo de fluidos;
-
-IV. El desperdicio reiterado de agua potable o tratada; y
-
-V. Por fugas internas.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 441.
 
-El contrato para el suministro o prestación de los servicios, sin perjuicio de las acciones legales que la Comisión Estatal de Aguas ejercite para la recuperación del adeudo que el usuario tenga, podrá darse por terminado por cualquiera de las causas siguientes:
-
-I. A petición del usuario, únicamente en el uso doméstico lo que implica la pérdida de los derechos adquiridos por la contratación;
-
-II. Por la resolución de la Comisión Estatal de Aguas en los casos siguientes:
-
-a) Por persistencia durante más de tres meses en cualquiera de las causas de limitación de suministro reguladas en el artículo anterior.
-
-b) Por incumplimiento del usuario en las cláusulas del contrato de suministro o de prestación del servicio.
-
-c) Por cambio en el uso de los servicios contratados e instalaciones para los que contrató el servicio.
-
-La reanudación del suministro después de haberse dado por terminado el contrato por cualquiera de las causas señaladas anteriormente, sólo podrá efectuarse mediante nueva solicitud, suscripción de nuevo contrato y mediante el pago de los derechos correspondientes.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 442.
 
-No se podrá realizar la interconexión del servicio cuando el inmueble aún no se encuentre construido, salvo que se destine a la construcción del inmueble.
-
-En los casos de inmuebles deshabitados y durante el periodo en que el inmueble se encuentre en esa situación, sin terminar la construcción, los propietarios o poseedores de los mismos, tendrán la obligación de pagar el consumo que se determine en función del aparato medidor que se tenga instalado, a falta de éste, la determinación del importe por pagar se realizará de acuerdo al consumo mínimo de la zona en que se ubique el inmueble, el cual se determinará con base en el consumo promedio de la colonia, de acuerdo al uso contratado y conforme a la tarifa aplicable a dicho consumo.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 443.
 
-La Comisión Estatal de Aguas mantendrá actualizado el padrón de usuarios y registro de tomas y conexiones, en los términos del presente Título. Dicho padrón contendrá el nombre del usuario, ubicación del predio, giro o establecimiento y uso del agua.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 444.
 
-Los medidores, dispositivos y aditamentos de medición serán instalados y retirados únicamente por personal designado por la Comisión Estatal de Aguas, en los términos del presente Código.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 445.
 
-Al instalarse el aparato o dispositivo de medición, éste quedará bajo la custodia del usuario del predio donde se instale y será su responsabilidad el cuidado y buen funcionamiento del mismo, así como el de la instalación y el equipo, cuidando no limitar la accesibilidad de los mismos. En caso de alteración, daño intencional, robo del sistema de medición o en el supuesto de que dicho sistema no funcione por negligencia o mala fe del usuario, éste estará obligado a pagar en forma oportuna y total el costo del retiro, reparación o sustitución y de la colocación del sistema o dispositivos de medición.
-
-Cuando se compruebe fehacientemente que el daño sea fortuito, la Comisión Estatal de Aguas asumirá los costos.
-
-Considerando la vida útil de los medidores, que es de 5 años, éstos serán instalados y sustituidos por la Comisión Estatal de Aguas con cargo a los usuarios, antes de que termine el periodo de vida útil de los mismos.
-
-El costo del medidor y sus aditamentos será cargado en forma explícita en el recibo siguiente a la fecha de su instalación o sustitución, según corresponda y, en todo momento serán propiedad de la Comisión Estatal de Aguas.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 446.
 
-Los requisitos que deberán cumplir los solicitantes del servicio de agua potable, serán acreditar la propiedad del inmueble, copia de la identificación oficial del solicitante y, en su caso, aquellos que fije administrativamente la Comisión Estatal de Aguas, haciéndolo del conocimiento del usuario de manera fundada, motivada y justificada, incluyendo, pero no quedando limitado, a la existencia de buenas condiciones de la red interna de tuberías en el inmueble de que se trate, con el fin de evitar fugas y desperdicio de dicho líquido, así como que el servicio que se pretende contratar se ajuste a los usos descritos en la presente sección.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
 
 #### Sección Segunda. Del Servicio de Alcantarillado
 
 ###### Artículo 447.
 
-El alcantarillado es el servicio que presta la Comisión Estatal de Aguas o el Municipio, a los usuarios de agua potable y a terceros sobre las aguas residuales que generen, con el propósito de conducir, evacuar y alejar las aguas residuales resultantes de estos servicios o de la explotación de fuentes de abastecimiento concesionadas por la autoridad federal, a través de una red de conductos, generalmente tuberías, conduciéndose a una planta de tratamiento o a un sitio de vertido.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 448.
 
-Están obligados a contratar el servicio de alcantarillado:
-
-I. Los propietarios de inmuebles que cuenten o deban contratar el servicio de agua potable; y
-
-II. Las personas que realicen aprovechamientos de agua de concesiones federales o que provengan o se obtengan de fuente distinta a la que provee el sistema de agua potable, pero que requieran el sistema de alcantarillado para realizar el vertido de sus afluentes.
-
-Se exceptúa de lo dispuesto en las fracciones anteriores, cuando el sistema que administra la Comisión Estatal de Aguas no cuente con la infraestructura para la prestación del servicio de alcantarillado y los usuarios cuenten con permiso de descarga emitido por la autoridad federal, en términos de Ley, a una corriente o cuerpo de agua de propiedad nacional que no se encuentre conectado a sistema alguno de jurisdicción estatal, previa aceptación explícita por parte de la Comisión Estatal de Aguas.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 449.
 
-Los términos, condiciones y obligaciones a que deben sujetarse los usuarios para la contratación y prestación del servicio de alcantarillado, serán semejantes a los que se señalan a los usuarios para la prestación del servicio de agua potable y en cuanto a la determinación del volumen de agua residual descargado, será conforme al gasto máximo instantáneo o el determinado conforme al medidor volumétrico, instalado por la Comisión Estatal de Aguas.
-
-De manera específica, las características de la conexión e instalación de la línea de descarga para los usuarios domésticos, deberán corresponder a aquellas que se hayan determinado en forma general para la población en el caso de los usuarios no domésticos, deberán ser acorde al giro y tamaño de sus instalaciones y en caso especial las que se determinen como resultado de practicar la o las visitas de inspección ordenadas por la Comisión Estatal de Aguas.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 450.
 
-Son obligaciones de los usuarios, en materia de descargas de aguas:
-
-I. Cumplir con el Reglamento para el Control de las Descargas de Aguas Residuales a los Sistemas de Alcantarillado del Estado de Querétaro o la normatividad que se encuentre vigente para tal efecto;
-
-II. Contar con permiso de descarga en los términos establecidos en el Reglamento para el Control de las Descargas de Aguas Residuales a los Sistemas de Alcantarillado del Estado de Querétaro;
-
-III. Instalar o construir un registro afuera de sus instalaciones, por cada una de sus descargas, a requerimiento de la Comisión Estatal de Aguas, con la finalidad de su monitoreo y muestreo, o bien, contar con un elemento hidráulico de medición para dicho fin;
-
-IV. Instalar las líneas de descargas necesarias para la adecuada separación de cada una de las aguas que reciba la Comisión Estatal de Aguas. Cuando no exista separación, la descarga será considerada como agua residual;
-
-V. Instalar un medidor totalizador y de registro continuo, compatible con el elemento hidráulico de medición primaria, en cada una de sus líneas de descargas;
-
-VI. Instalar los elementos necesarios para la prevención y control de la contaminación de las aguas residuales que son vertidas a los sistemas de alcantarillado del Estado, tales como trampas de grasas y aceites, trampas de sólidos y de ser necesario sistemas de tratamiento de aguas residuales acordes a la naturaleza y tipo de descarga;
-
-VII. Realizar el vertido de las aguas residuales, en la forma y términos señalados en el Reglamento para el Control de las Descargas de Aguas Residuales a los Sistemas de Alcantarillado del Estado de Querétaro, sobre todo en caso de usuarios industriales, que requieran un tratamiento previo, por las condiciones en las que concluyen sus procesos productivos y las características del agua que desechan; y
-
-VIII. Permitir la realización de inspecciones y verificaciones periódicas de sus instalaciones y condiciones de su agua residual por parte de la Comisión Estatal de Aguas.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 451.
 
-La Comisión Estatal de Aguas podrá limitar el servicio de alcantarillado en los siguientes casos:
-
-I. Cuando en el inmueble respectivo no exista construcción que implique la utilización de dicho servicio;
-
-II. Cuando no se cumpla plena y oportunamente con los requisitos y obligaciones en materia de descargas;
-
-III. Cuando no se cumpla en forma plena y continua con la normatividad aplicable o condiciones particulares de descarga autorizadas;
-
-IV. Cuando no se cubran los derechos por concepto de la prestación del servicio de alcantarillado o los necesarios para que la Comisión Estatal de Aguas realice el saneamiento correspondiente de las aguas residuales vertidas; y
-
-V. Cuando se incumpla con el Reglamento para el Control de las Descargas de Aguas Residuales a los Sistemas de Alcantarillado Sanitario del Estado de Querétaro.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 452.
 
-La limitación del servicio de alcantarillado se realizará en la forma y términos del Reglamento para el Control de las Descargas de Aguas Residuales a los Sistemas de Alcantarillado del Estado de Querétaro y demás disposiciones legales aplicables.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)p
 
 ###### Artículo 453.
 
-Queda prohibido a los usuarios descargar al sistema de alcantarillado, aguas fuera de los parámetros establecidos en la normatividad aplicable, así como todo tipo de desechos sólidos, líquidos o sustancias que alteren química, física o biológicamente los efluentes y los cuerpos receptores y que por sus características pongan en peligro el funcionamiento del sistema o la seguridad civil.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
-La contravención al presente artículo será sancionada conforme a lo dispuesto en el presente Código, la normatividad en materia de protección civil y las demás leyes en la materia, sin perjuicio de la determinación de las responsabilidades de derecho común en que pudiera incurrir el responsable.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
 
 #### Sección Tercera. Del Servicio de Saneamiento
 
 ###### Artículo 454.
 
-Los usuarios del sistema de alcantarillado, están obligados a cumplir con la normatividad aplicable y las condiciones particulares de descarga fijadas por las autoridades competentes, así como con el pago de derechos por los servicios recibidos.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 455.
 
-La Comisión Estatal de Aguas podrá realizar visitas de inspección o verificación de manera periódica a los inmuebles de los usuarios y tomar muestras de las descargas que vierte el usuario para su análisis, a efecto de verificar que cumpla con la normatividad aplicable y así determinar las sanciones que se puedan imponer a los usuarios.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 456.
 
-La Comisión Estatal de Aguas está facultada para verificar que los proyectos y obras, equipamiento e instalaciones realizados por los usuarios para el saneamiento de aguas residuales que se descarguen en el sistema de alcantarillado, cumplan con la normatividad aplicable.
-
-En todo caso, quienes realicen el saneamiento de sus aguas residuales, están obligados a cumplir con la normatividad aplicable, debiendo acreditar que se encuentran al corriente en el cumplimiento de los pagos que en derecho les corresponde.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 457.
 
-Están exentos de realizar el pago de los derechos por concepto de saneamiento, aquellos usuarios del sistema que puedan demostrar fehacientemente que sus descargas al sistema de alcantarillado de la Comisión Estatal de Aguas, cumplen plena y continuamente con las normas técnicas ecológicas o condiciones particulares de descarga fijadas y cuenten con el permiso de descargas de aguas residuales expedido por la Comisión Estatal de Aguas.
-
-La comprobación correspondiente, se hará en la forma y términos que determine la Comisión Estatal de Aguas, debiendo el usuario pagar previa y oportunamente los costos de dicha comprobación.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 458.
 
-La Comisión Estatal de Aguas incluirá en el padrón de usuarios, los volúmenes y condiciones de descarga de las tomas que se encuentren conectadas al alcantarillado sanitario.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
-La Comisión Estatal de Aguas publicará anualmente en su portal de internet, el compendio de normas técnicas ecológicas vigentes en la Entidad, tratándose de descargas de aguas residuales crudas o tratadas.
-
-Asimismo, llevará el censo de las condiciones particulares de descarga fijadas, incluyendo sus modificaciones o actualizaciones.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
 
 #### Sección Cuarta. De la Inspección y Verificación
 
 ###### Artículo 459.
 
-La Comisión Estatal de Aguas, realizará las inspecciones, verificaciones y procedimientos necesarios para el cumplimiento de las disposiciones legales aplicables, conforme a lo previsto en la Ley de Procedimientos Administrativos del Estado de Querétaro.
-
-Para tal efecto, se podrá contar con el número de inspectores necesarios para realizar la inspección y vigilancia del exacto cumplimiento del presente Título.
-
-Dichos inspectores podrán ser los expresamente contratados para tal fin, o bien podrá comisionarse al personal que así se designe para que pueda realizar las inspecciones y verificaciones necesarias.
-
-Son facultades de los inspectores:
-
-I. Verificar que los usos de los servicios correspondan fehacientemente con los contratados y las instalaciones sean las autorizadas por la Comisión Estatal de Aguas;
-
-II. Vigilar las condiciones que guarda la instalación de los dispositivos de medición y su correcto funcionamiento y que el diámetro de la toma y el diámetro e infraestructura adicional sobre la línea de descarga corresponda con el autorizado;
-
-III. Detectar la existencia de tomas y descargas de aguas residuales clandestinas y de fugas de agua, en el predio donde se practique la inspección, continuando las diligencias hasta su regularización;
-
-IV. Realizar las visitas de inspección para vigilar el exacto cumplimiento de este Título, en apego a lo dispuesto en el siguiente artículo y la Ley de Procedimientos Administrativos vigente del Estado de Querétaro;
-
-V. Realizar el monitoreo y los muestreos respectivos de calidad del agua que se descarga, las condiciones en que se realizan dichos vertidos y que cada línea de descarga sea empleada para verter el tipo, calidad y cantidad que fue autorizada, es decir, verificar que las descargas de proceso, sanitarias y pluviales sean vertidas correctamente al alcantarillado o infraestructura existente; y
-
-VI. Las demás que expresamente se señalen en este Código, los reglamentos correspondientes y las leyes en la materia.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 460.
 
-La Comisión Estatal de Aguas aplicará a los usuarios de los servicios, las sanciones que correspondan por la comisión u omisión de acciones contrarias a lo previsto por el presente Código y la reglamentación respectiva.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
 
 ### Capítulo Quinto. De las Concesiones
 
@@ -4905,403 +4517,171 @@ La Comisión Estatal de Aguas aplicará a los usuarios de los servicios, las san
 
 ###### Artículo 461.
 
-Por la prestación de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas, los usuarios están obligados al pago total y oportuno de los derechos resultantes de la aplicación de las tarifas aprobadas por la Comisión Estatal de Aguas de Querétaro.
-
-Con relación al establecimiento de las tarifas a aplicarse por parte de los organismos públicos prestadores de los servicios se estará a lo dispuesto en su decreto de creación o cualquier procedimiento establecido por los mismos y en lo no previsto se estará a lo dispuesto en el presente Capítulo.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 461 Bis.
 
-La tarifa correspondiente a los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas, aplicable para las dependencias y entidades de la Administración Pública del Estado, será la que establezca el Órgano de Gobierno de la Comisión Estatal de Aguas.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 462.
 
-Las tarifas por los servicios se fijarán en forma proporcional y equitativa, considerando de manera integral todos y cada uno de los costos de construcción, operación, administración, mantenimiento, sustitución, conservación, volumen de agua consumido, uso autorizado y, en su caso, el volumen de agua residual descargado conforme al gasto máximo instantáneo o el determinado conforme al medidor volumétrico instalado por la Comisión Estatal de Aguas para tal efecto.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 463.
 
-El Vocal Ejecutivo realizará los estudios socio-económicos y tarifarios, a efecto de determinar los costos de operación referidos en el artículo anterior, para proponer al Consejo Directivo las tarifas aplicables para el pago de los derechos correspondientes.
-
-Del mismo modo, propondrá las zonas de aplicación de las tarifas de uso doméstico, tomando en cuenta el nivel socioeconómico de la zona, las características de construcción de los inmuebles, los servicios de que gozan y demás circunstancias que sean necesarias valorar para una adecuada aplicación de las tarifas.
-
-El Consejo Directivo de la Comisión Estatal de Aguas, analizará los estudios socio-económicos que le fueran presentados y, en su caso, fijará las tarifas que aplicarán a los servicios prestados por la Comisión Estatal de Aguas, así como las zonas de aplicación.
-
-Cada trimestre, la Comisión Estatal de Aguas ajustará las tarifas que se incrementarán en forma proporcional a los factores de aumento del costo del personal, inflación, costos de electricidad, financiamiento, reactivos, materiales diversos empleados en la prestación del servicio, equipos e instalaciones.
-
-Dicho ajuste, se operará y aplicará en forma automática por la Comisión Estatal de Aguas, sin necesidad del acuerdo respectivo de su Consejo Directivo y, en consecuencia, tampoco requerirá de la publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 464.
 
-El acuerdo que contenga las tarifas fijadas por el Consejo Directivo de la Comisión Estatal de Aguas, determinará la fecha de entrada en vigor de las mismas, debiendo realizarse su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 465.
 
-La determinación de las tarifas por la prestación de los servicios de alcantarillado, se hará con base en la tasa accesoria al costo del servicio de agua potable que se determine en los estudios socio-económicos, para establecer las tarifas que realice la Comisión Estatal de Aguas, que considerará el costo de construcción, operación, administración, mantenimiento, sustitución y conservación, el volumen de agua residual y el uso autorizado; lo anterior, para aquellos usuarios que cuenten con un contrato para la prestación de los servicios.
-
-Dicha tarifa será aplicable para aquellos usuarios de este servicio que realicen aprovechamientos de una fuente distinta a la del sistema de agua potable a cargo de la Comisión Estatal de Aguas; así también, para los usuarios que se encuentren en los supuestos establecidos en el Reglamento para el Control de las Descargas de Aguas Residuales a los Sistemas de Alcantarillado del Estado de Querétaro, la determinación del cobro correspondiente se realizará con base a la determinación del volumen de agua residual descargado, será conforme al gasto máximo instantáneo o el determinado conforme al medidor volumétrico, instalado por la Comisión Estatal de Aguas en el punto de descarga.
-
-El procedimiento anterior, es independiente del cobro por descargar agua residual por arriba de los parámetros contenidos en las condiciones generales de descarga o algún contaminante específico fijado en las condiciones particulares de descarga, siendo aplicable para tal fin las tarifas y sanciones que para tal efecto establezca la Comisión Estatal de Aguas, el Reglamento para el Control de las Descargas de Aguas Residuales a los Sistemas de Alcantarillado del Estado de Querétaro y el presente Código.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 466.
 
-La tarifa de derechos por servicios prestados por la Comisión Estatal de Aguas, para el saneamiento de los efluentes descargados en la red de alcantarillado sanitario, se aplicará con base en la tasa accesoria al costo del servicio de agua potable, que se determine en los estudios socio-económicos para establecer tarifas que realice la Comisión Estatal de Aguas para aquellos usuarios que tengan celebrado contrato para el suministro o prestación de los servicios.
-
-Dicha tarifa será también aplicable para aquellos usuarios del servicio de saneamiento que realicen aprovechamientos de una fuente distinta a la del sistema de agua potable a cargo de la Comisión Estatal de Aguas, así también, para los usuarios que se encuentren en los supuestos establecidos en el Reglamento para el Control de las Descargas de Aguas Residuales a los Sistemas de Alcantarillado del Estado de Querétaro.
-
-En estos supuestos, la determinación del cobro correspondiente se realizará con base en lo establecido en el artículo que antecede y en función del nivel de los sólidos suspendidos totales expresados en partes por millón y por kilogramo de demanda química de oxígeno, en estricto apego de lo que dispone la Ley Federal de Derechos en cuanto a calidad de agua. Esta se determinará e integrará en los términos señalados en los artículos que preceden.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 467.
 
-La tarifa para el cobro de los derechos a los usuarios, por el uso o aprovechamiento de las aguas residuales que corren por los sistemas de drenaje y alcantarillado de la Comisión Estatal de Aguas será determinada por su Consejo Directivo y se aplicará de acuerdo al volumen que registre el sistema de medición que la propia Comisión Estatal de Aguas establezca o en su defecto con base a las determinaciones presuntivas establecidas en el presente Código.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
 
 #### Sección Segunda. De los Derechos
 
 ###### Artículo 468.
 
-Los derechos que deberán pagar los usuarios por la prestación de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas se clasifican en:
-
-I. De contratación:
-
-a) Del servicio de agua potable.
-
-b) Del servicio de alcantarillado.
-
-c) Del servicio de saneamiento.
-
-d) Del servicio de disposición de aguas residuales y tratadas;
-
-II. De conexión:
-
-a) De una toma particular al sistema de agua potable, a cargo de la Comisión Estatal de Aguas.
-
-b) De una descarga particular al sistema de alcantarillado y saneamiento.
-
-c) De una conexión para la extracción de aguas residuales de los sistemas de alcantarillado a cargo de la Comisión Estatal de Aguas.
-
-III. De prestación de servicios:
-
-a) De agua potable de uso doméstico.
-
-b) Uso comercial.
-
-c) Uso industrial.
-
-d) Uso público oficial.
-
-e) Uso público concesionado.
-
-f) Uso en escuelas y centros de enseñanza públicos y privados.
-
-g) Hidrante colectivo.
-
-h) Uso en Instituciones de Beneficencia Pública y Privada.
-
-i) Uso ganadero;
-
-IV. De alcantarillado;
-
-V. De saneamiento;
-
-VI. De disposición de aguas residuales y tratadas;
-
-VII. Servicios relacionados con la prestación de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas;
-
-VIII. Por elaboración, supervisión, validación o autorización de proyectos hidráulicos;
-
-IX. Por supervisión a obras hidráulicas diversas;
-
-X. Por cancelación, supresión, reconexión o interconexión de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas;
-
-XI. Por instalación, sustitución o reposición de aparato medidor;
-
-XII. Por adaptación, modificación o mejora de infraestructura hidráulica;
-
-XIII. Por la construcción de obras hidráulicas con carácter de utilidad pública; y
-
-XIV. Por infraestructura para la prestación de los servicios a nuevos usuarios o de aquellos usuarios existentes sujetos a un procedimiento de regularización por uso diferente al autorizado en el contrato de prestación de servicios o por diferencias entre el gasto autorizado en el contrato o factibilidad de servicios y el consumido, de acuerdo a los registros históricos con que cuente la Comisión Estatal de Aguas de Querétaro, quién podrá exigir el pago de este derecho.
-
-Lo dispuesto en las fracciones anteriores, conforme a la siguiente clasificación de usuarios:
-
-a) Industriales y comerciales.
-
-b) Domésticos individuales y constituidos como fraccionamientos, desarrollos urbanos diversos, nuevos centros de población e inmuebles diversos y condominios, conforme a lo previsto en el presente Código Urbano.
-
-c) Público Oficiales.
-
-d) Público Concesionados.
-
-e) De escuelas y centros de enseñanza públicas.
-
-f) De instituciones de beneficencia.
-
-g) Ganaderos.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 469.
 
-El derecho de conexión para la recepción de los servicios respectivos, sean de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas, incluye el costo del material necesario para la instalación de los servicios, mano de obra, corte y reparación del pavimento.
-
-Las obras, adecuaciones, equipamiento e instalaciones al interior de los domicilios de los usuarios, serán realizados por cargo y cuenta de éstos.
-
-El derecho por infraestructura para la prestación de los servicios a nuevos usuarios, estará basado en la determinación y análisis del costo marginal de litro por segundo que determine la Comisión Estatal de Aguas conforme a las tarifas que sean aprobadas por el Consejo Directivo, en el cual se considerarán los costos de inversión en infraestructura hidráulica que establezca la Comisión Estatal de Aguas.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 470.
 
-Las tarifas para el cobro de los derechos por el servicio de agua potable, alcantarillado y saneamiento, serán aplicadas por rangos de consumo.
-
-Las tarifas correspondientes a la disposición de aguas residuales serán determinadas en función del volumen descargado o utilizado.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 471.
 
-La verificación del consumo de agua suministrada en los predios, giros o establecimientos, se hará utilizando aparatos medidores y sus dispositivos complementarios, que serán instalados y retirados por personal de la Comisión Estatal de Aguas o por terceros que hubieren sido designados por ésta para tal propósito, previa comprobación de su correcto funcionamiento. La carencia de aparato medidor, genera la responsabilidad del usuario, por tal motivo, se instalará un medidor y se contabilizarán los siguientes tres meses para determinar el estimado que deberá pagar el usuario.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
 
 #### Sección Tercera. Del Cobro de los Derechos
 
 ###### Artículo 472.
 
-La Comisión Estatal de Aguas emitirá, dentro de los treinta días hábiles siguientes al de la prestación de los servicios correspondientes, el recibo que contenga el nombre del usuario, el domicilio, el o los servicios proporcionados, el período de prestación, el volumen utilizado, la tarifa aplicable, la fecha límite para realizar el pago y el monto a pagar. El recibo deberá contener en su reverso la motivación y la fundamentación que la ley obliga. Dicho recibo se entregará al menos con ocho días de anticipación a la fecha límite de pago, en el domicilio donde se presta el servicio.
-
-Tratándose de aguas residuales para su reuso, el recibo deberá contener adicionalmente a los datos señalados en el párrafo anterior, el volumen extraído, el volumen descargado y la carga contaminante determinada.
-
-En caso de que por cualquier causa imputable al usuario, no se pagara el importe señalado en el recibo correspondiente dentro del plazo otorgado, por única vez y cobrando los recargos correspondientes en términos de las disposiciones fiscales aplicables, en el recibo siguiente se le desglosará el concepto de adeudo anterior.
-
-El usuario estará obligado al pago del monto total amparado en el recibo respectivo, incluyendo el adeudo referido.
-
-La Comisión Estatal de Aguas está facultada para limitar la prestación de los servicios cuando por causa imputable al usuario no se hayan pagado plena y oportunamente los recibos correspondientes. El pago parcial del monto adeudado no será motivo para dejar de aplicar lo dispuesto en el presente párrafo.
-
-Invariablemente, los pagos se realizarán en los lugares que para tal efecto indique el propio recibo, en el entendido que esta condición no podrá ser esgrimida como causal para justificar la omisión del pago respectivo.
-
-Si el recibo no hubiere sido pagado por causas imputables a la Comisión Estatal de Aguas, no procederá el cobro de recargos, ni la limitación del servicio.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 473.
 
-Los usuarios están obligados a acreditar el pago de los servicios que se le hayan prestado durante los cinco años inmediatos anteriores al mes en que les sea requerido por la Comisión Estatal de Aguas.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 474.
 
-La Comisión Estatal de Aguas, dentro de su ámbito de competencia, tendrá facultades para determinar créditos fiscales a su favor, por la prestación de los servicios públicos a su cargo y para proceder a su cobro por la vía administrativa de ejecución conforme a lo dispuesto en el Código Fiscal del Estado de Querétaro. La Comisión Estatal de Aguas o la Junta de Agua Potable y Alcantarillado Municipal de San Juan del Río, Querétaro, dentro de su ámbito de competencia, a través de la dirección encargada de la medición, facturación y control de los recibos, será quien realice la determinación, liquidación y ejecución de los créditos fiscales o a través de en quien recaiga la autorización o delegación expresa que realice el Vocal Ejecutivo.
-
-> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO TERCERO DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL FACTOR DE CÁLCULO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO" PUBLICADO EN EL P.O. 16 DE DICIEMBRE DE 2016, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO, SALARIO MÍNIMO GENERAL DE LA ZONA O FACTOR DE CÁLCULO EN LAS NORMAS LOCALES VIGENTES, EN TANTO NO SE REFORMEN PARA CONTEMPLAR LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN, A PARTIR DE LA ENTRADA EN VIGOR DE LA PRESENTE LEY.]</small>
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 475.
 
-El cobro de los derechos por la prestación de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas, será administrado y ejercido directamente por la Comisión Estatal de Aguas. Esta institución no estará facultada para exentar a ninguna persona física o moral del pago de los derechos correspondientes.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
-Se exceptúan de lo dispuesto en el párrafo anterior las personas morales constituidas legalmente como instituciones de asistencia privada o asociaciones civiles, que operen programas de asistencia social en beneficio de los grupos vulnerables, que no persigan propósitos de lucro y sin designación individual de beneficiarios, quienes pagarán mensualmente un salario mínimo general, por concepto de derechos por suministro de agua potable, siempre y cuando los derechos que se cubran, correspondan al bien inmueble propiedad de dichas instituciones y que sea destinado directamente al cumplimiento de sus objetivos.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
 
 #### Sección Cuarta. De la Determinación Presuntiva del Pago de los Derechos
 
 ###### Artículo 476.
 
-Para los efectos de la determinación presuntiva del importe correspondiente al pago de los derechos por la prestación de los servicios a que se refiere el presente Título, éste se calculará considerando indistintamente lo siguiente:
-
-I. El volumen que señale la factibilidad o el contrato de servicios celebrado con la Comisión Estatal de Aguas, sea para agua potable y reuso de aguas residuales o el permiso de descarga respectivo al alcantarillado, incluyendo el saneamiento de las aguas residuales;
-
-II. Los volúmenes que señale el dispositivo de medición o que provenga de alguno de los pagos efectuados durante el mismo ejercicio, incorporando las modificaciones que en su caso se hubieren realizado con motivo del ejercicio de las facultades de comprobación;
-
-III. Calculando el volumen totalizado de agua que el usuario pudiere haber obtenido ya sea suministro vía red, abastecimiento con fuente propia o vía carros cisterna durante el período para el cual se efectúe la determinación, considerando las características de sus instalaciones y el tipo de uso al que se destinen los servicios y fluidos utilizados;
-
-IV. En su defecto, con base en el promedio de descargas que determine la inspección realizada por la Comisión Estatal de Aguas, tomando en consideración los volúmenes establecidos de agua potable, tanto vía red como fuente alterna, durante los 3 últimos meses y a las mediciones realizadas durante la inspección; y
-
-V. Los demás medios directos o indirectos que puedan ser utilizados para determinar presuntivamente el monto del cobro de los derechos por la prestación de los servicios, incluyendo, en su caso, el índice de exactitud del aparato de medición verificado en el laboratorio.
-
-La Comisión Estatal de Aguas determinará y exigirá el pago del monto de los derechos por la prestación de los servicios, con base en la determinación que se haya estimado del volumen utilizado.
-
-Para el caso correspondiente, podrán hacerse las revisiones, análisis y determinaciones que en derecho proceda, cuando el usuario acredite la existencia fehaciente de problemas en la medición o facturación, conforme a los procedimientos establecidos en la Comisión Estatal de Aguas.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 477.
 
-Procederá la determinación presuntiva de volumen del consumo de agua o de descarga en los siguientes casos:
-
-I. Cuando no se tenga instalado aparato de medición o éste no funcione en forma adecuada, según comprobación realizada en el laboratorio de la Comisión Estatal de Aguas por el personal técnico que sea designado, o bien, exista imposibilidad material para tomar la lectura del medidor o alguna irregularidad en la lectura de dicho dispositivo. En todo caso, se considera imputable al usuario el hecho de que el aparato medidor no esté instalado conforme a lo establecido en las normas hidráulicas y en el presente ordenamiento;
-
-II. Cuando estén rotos los sellos del aparato medidor o se haya alterado su instalación por personal que no hubiere sido designado por la Comisión Estatal de Aguas o se haya alterado, manipulado, dañado o entorpecido su funcionamiento, según la inspección respectiva o pruebas de laboratorio que así lo acrediten;
-
-III. Cuando el contribuyente no efectúe oportunamente el pago de derechos por la prestación de los servicios respectivos; y
-
-IV. Cuando se oponga a la verificación o lectura del aparato medidor o no aporte la información o documentación que le solicite la Comisión Estatal de Aguas en relación con el servicio que le es prestado.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 478.
 
-Cuando no pueda determinarse el volumen de agua consumida o descargada y no se pueda cuantificar el monto del pago según lo dispuesto en los artículos anteriores, dichos montos se calcularán conforme al promedio de metros cúbicos usados o descargados en los tres meses inmediatos anteriores a los aforos realizados durante la inspección o, en su caso, conforme al promedio de consumo de la zona o colonia en donde se encuentre ubicado el predio o en donde se goce del servicio. Esta disposición es aplicable para los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
 
 #### Sección Quinta. De la Inversión de las Obras
 
 ###### Artículo 479.
 
-Las obras que se realicen o rehabiliten para el suministro de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas, serán efectuadas directamente por la Comisión Estatal de Aguas o con la participación económica o de cualquier índole de la Federación, Estado, Municipios o los beneficiarios. En todos los casos, los proyectos respectivos deberán ser autorizados previamente y sujetos a la supervisión de obra de la Comisión Estatal de Aguas.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 480.
 
-Cuando a solicitud de los beneficiarios se requiera planear, estudiar, proyectar, diseñar, programar, construir, ampliar, rehabilitar o conservar una obra para la prestación de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas, la Comisión Estatal de Aguas ordenará, con cargo a su presupuesto o a los beneficiarios, según se convenga, la realización de los estudios de factibilidad de la obra y del costo de realización de la misma.
-
-Una vez determinada la viabilidad de la obra, se procederá a realizar el proyecto y diseño hasta el nivel ejecutivo. Con base en lo anterior, se realizará la estimación del costo de la obra y la Comisión Estatal de Aguas procederá a concertar su realización con la Federación, Estado, Municipios o beneficiarios, a través del convenio respectivo, en el que se detallarán las aportaciones, demás compromisos y responsabilidades que asuma cada uno de los participantes.
-
-Todas aquellas obras que tengan por objeto corregir o extraer líneas de conducción alojadas debajo de inmuebles construidos, serán con cargo a los usuarios.
-
-La Comisión Estatal de Aguas no podrá realizar con su presupuesto la reubicación de líneas alojadas debajo de inmuebles ya construidos, por las servidumbres legales que afectan a los mismos, por lo que toda reubicación deberá ser realizada con cargo al usuario que sufra dicha afectación, incluyéndose los costos del proyecto, permisos, liberaciones y ejecución de la obra. Lo anterior, sin perjuicio de las acciones que pueda ejercer el usuario.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 481.
 
-Las obras por cooperación que se realicen con motivo de lo establecido en el presente Título, se regularán por lo dispuesto en el Título Quinto del presente Código.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE MAYO DE 2022)</small>
 
 ### Capítulo Primero. Disposiciones Generales
 
 ###### Artículo 482.
 
-En los casos en que lo proponga la Comisión y con la aprobación del ayuntamiento del Municipio en que se ubiquen los servicios a que se viene haciendo mención; se podrá concesionar a los particulares la prestación de aquellos siempre y cuando los concesionarios garanticen condiciones de prestación de los servicios equivalentes o superiores a las que proporcione la administración municipal.
-
-Los servicios concesionados estarán en todo tiempo sujetos al presente Código, la Ley Orgánica Municipal del Estado de Querétaro y los reglamentos respectivos, así como las bases que se fijen al interesado a propuesta de la Comisión.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 483.
 
-El procedimiento para otorgar concesiones, se sujetará a lo siguiente:
-
-I. El interesado deberá presentar solicitud acompañada de los siguientes documentos:
-
-a) En caso de ser persona moral, los documentos que acrediten su legal existencia; que su objeto social le permite ser titular de la concesión; así como la personalidad del promovente.
-
-b) Los documentos que acrediten contar con los elementos técnicos y financieros que le permitan asumir las obligaciones que se establezcan en el título de concesión para la prestación del servicio.
-
-c) Manifestar su conformidad con la garantía que al efecto se le fije, para la debida prestación de los servicios, objeto de la concesión, en caso de que se le otorgue.
-
-d) Los estudios de factibilidad con los que a juicio del solicitante, se justifica el otorgamiento de la concesión.
-
-e) Los demás que fije la Comisión Estatal de Aguas, acorde al tipo de servicios a concesionar;
-
-II. Recibida la solicitud, el Vocal Ejecutivo ordenará la realización de los estudios de factibilidad técnica y financiera, para determinar la viabilidad del otorgamiento de la concesión solicitada, cuyo costo deberá ser cubierto por el solicitante;
-
-III. Concluidos los estudios a que se refiere la fracción anterior, el Vocal Ejecutivo solicitará la aprobación del Ayuntamiento del Municipio en que habrá de prestarse el servicio, la que deberá emitirse en un término no mayor a quince días hábiles, a cuyo efecto le será turnada copia certificada del expediente;
-
-IV. Concluido el plazo a que se refiere la fracción anterior, el Vocal Ejecutivo en un plazo no mayor a quince días hábiles, emitirá el dictamen correspondiente en el que se determine la viabilidad de la concesión, la que turnará al Consejo Directivo para efecto de su aprobación.
-
-En caso de que se determine la inviabilidad de la concesión, se notificará al interesado a efecto de que haga valer los medios de impugnación establecidos en la Ley de Procedimientos Administrativos del Estado de Querétaro y la Ley de Enjuiciamiento de lo Contencioso Administrativo del Estado de Querétaro;
-
-V. El Consejo Directivo emitirá Acuerdo por el que apruebe o rechace el dictamen a que hace referencia la fracción anterior;
-
-VI. De ser procedente el otorgamiento de la concesión, establecerá de forma clara y precisa las obligaciones y derechos a cargo del concesionario, así como su vigencia, la que en ningún caso podrá ser mayor a diez años, remitiendo el Acuerdo al Vocal Ejecutivo para la expedición del título de concesión; y
-
-VII. El Acuerdo a que se refiere la fracción V, deberá ser notificado de forma personal al interesado para los efectos legales correspondientes.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 484.
 
-Los concesionarios tendrán las obligaciones que se señalen de manera expresa en el título de concesión correspondiente, pero en todo caso será su obligación:
-
-I. Prestar los servicios que tiene encomendados;
-
-II. Cumplir con todas y cada una de las disposiciones legales vigentes, de naturaleza estatal o federal en cuanto a la regulación de las aguas;
-
-III. Aplicar las tarifas expedidas por la Comisión Estatal de Aguas a los usuarios de los servicios a su cargo;
-
-IV. Realizar el cobro a los usuarios de las tarifas por la prestación de los servicios a su cargo;
-
-V. Realizar los estudios, proyectos y diseños para determinar un mejor uso y distribución de las aguas en la prestación del servicio de agua potable;
-
-VI. Formular y mantener actualizado el inventario de los bienes muebles, inmuebles y padrón de usuarios que integran el sistema a su cargo;
-
-VII. Desarrollar el saneamiento de las aguas residuales, cumpliendo con la normativa federal al respecto;
-
-VIII. Promover la participación de sus usuarios para desarrollar una nueva cultura del agua;
-
-IX. Invertir recursos para construir, ampliar o mejorar obras hidráulicas, para planes y programas diversos en materia de prestación de servicios a su cargo;
-
-X. Elaborar y mantener actualizado su plan de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas;
-
-XI. Mantener actualizado un sistema de información de los servicios de agua potable, alcantarillado, saneamiento y disposición de sus aguas residuales y tratadas a su cargo;
-
-XII. Realizar el mantenimiento de infraestructura de agua potable y alcantarillado, a partir del límite exterior del predio del usuario hacia la conexión con la fuente o colector;
-
-XIII. Realizar el pago de derechos correspondiente, por concepto del otorgamiento de la concesión; y
-
-XIV. Cubrir el importe que se fije por metro cúbico explotado como contraprestación a la Comisión Estatal de Aguas.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 485.
 
-El concesionario deberá garantizar, mediante fianza otorgada por compañía afianzadora, por la cantidad que determine la Comisión Estatal de Aguas, la adecuada prestación de los servicios concesionados, así como la causación de daños y perjuicios que pudiera sufrir la Comisión Estatal de Aguas por el uso inadecuado de la red, estando obligado el concesionario a conservar la fianza hasta por un plazo de dos años posteriores a la extinción de la concesión.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 486.
 
-Para los efectos señalados en el artículo 482, la Comisión Estatal de Aguas reconocerá a los prestadores de los servicios tal carácter, siempre que se haya otorgado concesión expresamente determinada, que la misma se encuentre legalmente vigente y que cuente con los títulos de concesión necesarios, vigentes y expresamente destinados para la explotación, uso o aprovechamiento de las aguas nacionales del subsuelo en uso público urbano, otorgado por la Comisión Nacional del Agua para el abastecimiento de su sistema.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 487.
 
-En todos los casos, la Comisión Estatal de Aguas se constituirá en Comisario y Órgano Normativo, con facultades de supervisión, control y vigilancia en la administración de sistemas y en la prestación de los servicios mencionados.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 488.
 
-La Comisión Estatal de Aguas será la encargada de determinar la viabilidad, continuidad o revocación de la Concesión, siempre y cuando no se garanticen los servicios públicos a la población o se hayan sobrepasado los objetivos, costos, necesidades o características de su otorgamiento.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 489.
 
-Queda prohibido al concesionario:
-
-I. Ceder a terceros, gravar, transferir o enajenar la concesión;
-
-II. Transmitir los derechos y obligaciones que se derivan de la concesión;
-
-III. Afectar, transmitir o comprometer los bienes muebles y servicios, con los que se realiza la prestación de los servicios integrales de agua potable, alcantarillado, saneamiento y reuso de aguas residuales;
-
-IV. Verter las aguas residuales en condiciones distintas a las establecidas por la legislación, reglamentos y normatividad;
-
-V. Verter las aguas residuales en lugares distintos a los expresamente permitidos y señalados o de los que no medie autorización expresa; y
-
-VI. Otorgar las factibilidades y certificados de conexión de los servicios de agua potable, alcantarillado, saneamiento y reuso de aguas residuales.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 490.
 
-Son causas de extinción de la concesión:
-
-I. Por conclusión del plazo por el que fue otorgada;
-
-II. Por renuncia del concesionario;
-
-III. Por incumplimiento de obligaciones a cargo del concesionario;
-
-IV. Por conclusión de la necesidad de la concesión;
-
-V. Por la prestación de los servicios en condiciones inferiores o no semejantes a las que realiza la Comisión Estatal de Aguas;
-
-VI. Por la necesidad de que sea la Comisión Estatal de Aguas, quien realice la prestación de los servicios integrales de agua potable, alcantarillado y saneamiento;
-
-VII. Por destrucción, agotamiento o desaparición de los elementos necesarios para el ejercicio de la concesión;
-
-VIII. Por ser sujeto de liquidación o concurso mercantil el concesionario;
-
-IX. Por fusión o escisión del concesionario sin autorización expresa de la Comisión Estatal de Aguas;
-
-X. Por la suspensión por más de cinco días de los servicios integrales de agua potable, alcantarillado y saneamiento objeto de la concesión, a excepción de caso fortuito o fuerza mayor;
-
-XI. Cuando el concesionario carezca de los elementos materiales, técnicos y financieros para la prestación de los servicios concesionados;
-
-XII. Por no mantener vigente las garantías otorgadas y requeridas en la concesión;
-
-XIII. Por causa de utilidad pública; y
-
-XIV. Por disolución, liquidación o extinción de la Comisión Estatal de Aguas.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 491.
 
-En caso de que se actualice alguno de los supuestos establecidos en el artículo anterior, la Comisión Estatal de Aguas notificará al concesionario las presuntas violaciones a las bases de la concesión, a fin de que éste, en un término de diez días hábiles contados a partir del siguiente al en que surta efectos la notificación en términos de lo dispuesto por la Ley de Procedimientos Administrativos del Estado de Querétaro, manifieste lo que a su interés convenga y ofrezca las pruebas que estime pertinentes.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 492.
 
-Serán admisibles en el procedimiento de revocación de concesión, los medios de prueba establecidos en la Ley de Procedimientos Administrativos del Estado de Querétaro, las que deberán ofertarse con el escrito a que se refiere el artículo anterior y en los términos previstos por el ordenamiento legal referido.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 493.
 
-El Vocal Ejecutivo, en un término de tres días, deberá proveer sobre la admisión de las pruebas ofrecidas, las que deberán desahogarse en un plazo no mayor a veinte días hábiles.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 494.
 
-Concluido el periodo probatorio, el concesionario contará con un plazo de cinco días para alegar lo que a su derecho convenga.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 495.
 
-Concluido el periodo de alegatos, los haya o no producido el concesionario, el Vocal Ejecutivo pondrá el asunto en estado de resolución, la que deberá dictarse en un término no mayor a treinta días hábiles.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ###### Artículo 496.
 
-Contra la resolución dictada en el procedimiento de revocación de concesión, proceden los medios de impugnación establecidos en la Ley de Procedimientos Administrativos del Estado de Querétaro y Ley de Enjuiciamiento de lo Contencioso Administrativo del Estado de Querétaro.
+(DEROGADO, P.O. 21 DE MAYO DE 2022)
 
 ## Título Séptimo. De las Carreteras, Caminos y otras Vialidades
 
@@ -6264,3 +5644,25 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 21 DE MAYO DE 2022.
+
+[N. DE TRANSITORIOS DEL POR EL QUE "SE DEROGA LA SECCIÓN QUINTA Y SUS ARTÍCULOS, DEL CAPITULO TERCERO, DEL TÍTULO PRIMERO, ASÍ COMO EL TITULO SEXTO Y SUS ARTÍCULOS, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley deberá publicarse en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. La presente Ley entrará el vigor el día 1 primero de julio del año 2022.
+
+Artículo Tercero. El Decreto por el que se crea la Comisión Estatal de Aguas, publicado en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" en fecha 13 de marzo de 1980, y sus reformas, continuarán vigentes en sus términos a la entrada en vigor de la presente Ley.
+
+Artículo Cuarto. Las disposiciones que actualmente rigen a la Comisión Estatal de Aguas, continuarán vigentes y aplicables hasta en tanto se emitan aquellas que conforme a la presente Ley deban emitirse, en todo aquello que no se contraponga a la presente Ley.
+
+Artículo Quinto. Seguirán produciendo sus efectos legales aquellas concesiones para la prestación de los servicios públicos, así como todo tipo de permisos, constancias y demás autorizaciones, así como los contratos, convenios y demás instrumentos o actos jurídicos que se hayan otorgado conforme a las disposiciones vigentes con anterioridad a la entrada en vigor de la presente Ley.
+
+Artículo Sexto. La Comisión Estatal de Aguas, seguirá aplicando las cuotas y tarifas aprobadas por su Consejo Directivo a la fecha de inicio de la vigencia del presente Decreto por la prestación de los servicios públicos a su cargo, las que se actualizarán en los términos previstos en las disposiciones que los regulen en esta materia
+
+Artículo Séptimo. El Organismo Operador del Sistema de Agua Potable del municipio de San Juan del Río, seguirá aplicando las cuotas y tarifas que hayan sido aprobadas en la Ley de Ingresos del Municipio de San Juan del Rio, Oro., para el ejercicio fiscal 2022 a la fecha de inicio de la vigencia de la presente Ley por la prestación de los servicios públicos a su cargo, las que se actualizarán en los términos previstos en las disposiciones que los regulen en esta materia.
+
+Artículo Octavo. Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, serán concluidos por la Comisión Estatal de Aguas con todos sus alcances, efectos y facultades de conformidad con las disposiciones vigentes a la entrada en vigor del presente decreto y atendiendo a su competencia.
+
+Artículo Noveno. Los prestadores de servicios y concesionarios, implementarán y difundirán programas que fomenten la regularización e instalación de tomas y medidores individualizados, para aquellas unidades privativas existentes, que se encuentren bajo el régimen condominal.
