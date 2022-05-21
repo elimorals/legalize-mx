@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-las-personas-con-discapacidad-en-el-1097
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-24"
-last_updated: "2022-04-23"
+last_updated: "2022-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 24 de agosto de 2015.
 
@@ -615,9 +615,17 @@ Las autoridades estatales y municipales adoptarán medidas efectivas y pertinent
 
 I. Las personas con discapacidad tengan la oportunidad de elegir su lugar de residencia y dónde y con quién vivir, en igualdad de condiciones con las demás personas, y no se vean obligadas a vivir con arreglo a un sistema de vida específico;
 
-II. Las personas con discapacidad tengan acceso a una variedad de servicios de asistencia domiciliaria, residencial y otros servicios de apoyo de la comunidad, incluida la asistencia personal necesaria para facilitar su existencia y su inclusión en la comunidad y evitar su aislamiento o separación de ésta; y
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2022)</small>
 
-III. Las instalaciones y los servicios comunitarios para la población en general estén a disposición de las personas con discapacidad en igualdad de condiciones que las demás personas y tengan en cuenta sus necesidades.
+II. Las personas con discapacidad tengan acceso a una variedad de servicios de asistencia domiciliaria, residencial y otros servicios de apoyo de la comunidad, incluida la asistencia personal necesaria para facilitar su existencia y su inclusión en la comunidad y evitar su aislamiento o separación de ésta;
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2022)</small>
+
+III. Las instalaciones y los servicios comunitarios para la población en general estén a disposición de las personas con discapacidad en igualdad de condiciones que las demás personas y tengan en cuenta sus necesidades; y
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2022)</small>
+
+IV. Las autoridades estatales y municipales que brindan asesoría y orientación, contarán entre su personal por lo menos con un intérprete de Legua de Señas Mexicana y deberán hacer uso de ellos en los eventos públicos que organicen.
 
 ###### Artículo 42.
 
@@ -1106,3 +1114,11 @@ P.O. 23 DE ABRIL DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 539.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES II Y III; Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 41 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
