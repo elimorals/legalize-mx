@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111577"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2022-04-23"
+last_updated: "2022-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 16 de diciembre de 2015.
 
@@ -1987,15 +1987,19 @@ I. El Presidente Municipal, quien lo presidirá;
 
 II. Síndico Municipal;
 
-III. La Regiduría de Hacienda;
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2022)</small>
 
-IV. La Regiduría de Obras;
+III. La Regiduría de Derechos Humanos;
 
-V. La Regiduría de Salud;
+IV. La Regiduría de Hacienda;
 
-VI. La Regiduría de Educación; y
+V. La Regiduría de Obras;
 
-VII. Agentes municipales.
+VI. La Regiduría de Salud;
+
+VII. La Regiduría de Educación; y
+
+VIII. Agentes municipales.
 
 Los representantes de la sociedad civil que serán nombrados por el Sistema Municipal.
 
@@ -2007,7 +2011,9 @@ Los integrantes del Sistema Municipal nombrarán un suplente que deberá tener e
 
 El Presidente del Sistema podrá invitar a las sesiones respectivas a representantes de otras dependencias y entidades de la administración municipal, según la naturaleza de los asuntos a tratar quienes intervendrán con voz pero sin voto.
 
-En las sesiones del Sistema Municipal participarán de forma permanente, sólo con voz, niñas, niños y adolescentes, que serán seleccionados por el propio Sistema. De igual forma, se podrá invitar a personas o instituciones, nacionales o internacionales, especializadas en la materia.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2022)</small>
+
+En las sesiones del Sistema Municipal participarán de forma permanente, y en igualdad de condiciones niñas, niños y adolescentes, que serán seleccionados por el propio Sistema. De igual forma, se podrá invitar a personas o instituciones, nacionales o internacionales, especializadas en la materia.
 
 > <small>(DEROGADO OCTAVO PÁRRAFO, P.O. 23 DE ABRIL DE 2022)</small>
 
@@ -2534,3 +2540,11 @@ P.O. 23 DE ABRIL DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 21 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 540.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SÉPTIMO Y SE ADICIONA LA FRACCIÓN III RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES AL ARTÍCULO 118 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
