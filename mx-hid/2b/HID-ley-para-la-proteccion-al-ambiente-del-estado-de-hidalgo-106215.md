@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-106215
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2021-09-13"
+last_updated: "2022-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -612,6 +612,10 @@ XVII. La erradicación de la pobreza es necesaria para el proceso de desarrollo 
 XVIII. Las mujeres cumplen una importante función en la protección, preservación y aprovechamiento sustentable de los recursos naturales y en el desarrollo. Su completa participación es esencial para impulsar el proceso de un desarrollo sustentable;
 
 XIX. El control y la prevención de la contaminación ambiental, el adecuado aprovechamiento de los elementos naturales y el mejoramiento del entorno natural en los asentamientos humanos, son elementos fundamentales para elevar la calidad de la vida de la población;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2022)</small>
+
+XIX BIS. Promover una mayor equidad e igualdad social, con perspectiva intercultural y de género, en la distribución de costos y beneficios asociados a los objetivos de la política ambiental.
 
 XX. Es interés del Estado de Hidalgo que las actividades que se llevan a cabo dentro de su territorio, no afecten el equilibrio ecológico de otros Estados o zona de jurisdicción federal; y
 
@@ -3410,3 +3414,9 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 744 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 23 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 198 QUE ADICIONA LA FRACCIÓN XIX BIS DEL ARTÍCULO 10 DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
