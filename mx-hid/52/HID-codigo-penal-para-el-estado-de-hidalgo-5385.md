@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2021-11-22"
+last_updated: "2022-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -2661,23 +2661,35 @@ Este delito sólo se perseguirá por querella del ofendido o del legítimo repre
 
 ### CAPITULO IX. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2022)</small>
 
-ARTICULO 243 BIS.- Comete el delito de violencia familiar quien ejerza cualquier tipo de violencia física, psicológica, sexual, económica o patrimonial que ocurra o haya ocurrido dentro o fuera del domicilio o lugar que habite, en contra de:
+ARTICULO 243 BIS.- Comete el delito de violencia familiar quien ejerza cualquier tipo de violencia física, psicológica, sexual, económica, patrimonial o vicaria que ocurra o haya ocurrido dentro o fuera del domicilio o lugar que habite, en contra de:
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2013)</small>
 
 I.- El o la cónyuge, el o la ex-cónyuge, la concubina, ex-concubina, el concubinario o ex concubinario;
 
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2013)</small>
+
 II.- El pariente consanguíneo en línea recta ascendente o descendente sin límite de grado o el pariente colateral consanguíneo o afín hasta el cuarto grado;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2013)</small>
 
 III.- El adoptante o adoptado; o
 
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2013)</small>
+
 IV.- El incapaz sobre el que se es tutor.
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2013)</small>
 
 A quién cometa el delito de violencia familiar, se le impondrá de uno a seis años de prisión, multa de 50 a 100 días y perderá el derecho de pensión alimenticia. Asimismo, se sujetará a tratamiento psicoterapéutico reeducativo especializado para personas agresoras que refiere la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Hidalgo, el que en ningún caso excederá del tiempo impuesto en la pena de prisión.
 
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
 
 En caso de que la víctima sea menor de edad, incapaz o persona mayor de sesenta años, se aumentará en una mitad la pena que corresponda.
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2013)</small>
 
 No se justifica en ningún caso como tratamiento médico o rehabilitación la violencia hacia cualquier persona con algún trastorno mental o adicción.
 
@@ -2714,6 +2726,14 @@ III.- Violencia Patrimonial: Cualquier acción u omisión de sustracción, destr
 IV.- Violencia Sexual: Cualquier acción u omisión que atenta contra la libertad, dignidad sexual e integridad psicofísica, ya sea que genere o no daño; y
 
 V.- Violencia Económica: Toda acción u omisión que afecta la economía de la víctima y se manifiesta a través de limitaciones encaminadas a controlar sus ingresos económicos o en la restricción o condicionamiento de los recursos económicos.
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2022)</small>
+
+VI.- Violencia Vicaria: Es el daño provocado a una mujer a través de una acción u omisión que afecte física o psicológicamente a sus hijas, hijos, persona con la que tenga otro parentesco o relación afectiva.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN VI, P.O. 23 DE MAYO DE 2022.]</small>
+
+La persona generadora de esta violencia será aquella con quien la mujer mantenga o haya mantenido una relación de hecho, matrimonio, concubinato, o de parentesco por consanguinidad o afinidad, con o sin convivencia.
 
 ARTICULO 243 QUINTUS.- (DEROGADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)
 
@@ -4730,3 +4750,9 @@ PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicac
 SEGUNDO. Las averiguaciones previas, carpetas de investigación y procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando y ejecutando conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen.
 
 TERCERO. El Poder Ejecutivo del Estado dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, deberá implementar las medidas necesarias para difundir el contenido de la presente reforma, con la finalidad de prevenir a la ciudadanía para que tomen las precauciones correspondientes al adquirir un vehículo de motor, y así eviten incurrir en una conducta ilícita o ser víctimas de otras.
+
+P.O. 23 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 193 QUE ADICIONA Y REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO Y DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
