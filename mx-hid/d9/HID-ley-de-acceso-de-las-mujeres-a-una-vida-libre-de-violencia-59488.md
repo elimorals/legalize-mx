@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2021-12-27"
+last_updated: "2022-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -261,6 +261,12 @@ Para efectos del presente Capítulo se entenderá por Tecnologías de la informa
 
 XI Bis. Violencia Simbólica.- Es la violencia amortiguada, insensible e invisible para sus propias víctimas, que se ejerce mediante la expresión, emisión o difusión de mensajes, signos, valores icónicos e ideas con patrones estereotipados y simbólicos, que se transmiten, reproducen, justifican o naturalizan la subordinación, desigualdad, discriminación y violencia contra las mujeres en la sociedad; y
 
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2022)</small>
+
+XI Ter. Violencia vicaria: Es el daño provocado a una mujer a través de una acción u omisión que afecte física o psicológicamente a sus hijas, hijos, persona con la que tenga otro parentesco o relación afectiva.
+
+La persona generadora de esta violencia será aquella con quien la mujer mantenga o haya mantenido una relación de pareja, parentesco por consanguinidad o afinidad, o derivada de una relación de concubinato, noviazgo, matrimonio, o de hecho, con o sin convivencia.
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE OCTUBRE DE 2019)</small>
 
 XII. Cualquier otra forma que lesione o sea susceptible de dañar la dignidad, integridad o libertad de la mujer.
@@ -286,6 +292,10 @@ III.- La prohibición para iniciar o continuar con actividades escolares, labora
 IV.- La imposición vocacional en el ámbito escolar; y
 
 V.- El propiciar un estado de riesgo de las mujeres.
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2022)</small>
+
+VI.- El daño ocasionado a las mujeres a través del que se provoque a sus seres queridos, y especialmente a sus hijas o hijos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1846,3 +1856,9 @@ SEGUNDO. La Procuraduría General de Justicia del Estado deberá emitir los line
 TERCERO. La Procuraduría General de Justicia del Estado deberá establecer los lineamientos para emitir la duración de las órdenes de protección establecidas en el artículo 25 bis, en un periodo no mayor a los 180 días posteriores a la entrada en vigor del presente Decreto.
 
 CUARTO. La Procuraduría General de Justicia del Estado deberá celebrar los convenios establecidos en el artículo 32 con las 31 entidades de la República Mexicana, para efectos de que las órdenes de protección puedan solicitarse en cualquier entidad federativa distinta a donde ocurrieron los hechos, sin que la competencia en razón del territorio pueda ser usada como excusa para no recibir la solicitud, en un periodo no mayor a los 365 días posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 23 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 193 QUE ADICIONA Y REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO Y DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
