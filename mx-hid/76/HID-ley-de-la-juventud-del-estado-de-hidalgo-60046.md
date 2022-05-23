@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-juventud-del-estado-de-hidalgo-60046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2019-04-01"
+last_updated: "2022-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -37,7 +37,9 @@ QUE CONTIENE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO.
 
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política del Estado Libre y Soberano de Hidalgo, D E C R E T A:
 
-ANTECEDENTES...
+ANTECEDENTES
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE HONORABLE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -263,13 +265,17 @@ VI.- Elegir la profesión u oficio de su preferencia, así como especializarse;
 
 VII.- Adquirir una beca para realizar sus estudios correspondientes, cumpliendo con los requerimientos que, para tal efecto, señalen las instancias competentes;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2022)</small>
 
-VIII.- Que sean evaluadas sus aptitudes, habilidades y conocimientos; y
+VIII.- Que sean evaluadas sus aptitudes, habilidades y conocimientos;
 
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MAYO DE 2022)</small>
 
-IX.- Las demás que señalen las disposiciones legales aplicables.
+IX.- A tener acceso a la educación financiera; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE MAYO DE 2022)</small>
+
+X.- Las demás que señalen las disposiciones legales aplicables.
 
 ###### Artículo 22.
 
@@ -547,7 +553,9 @@ El Instituto tendrá por objeto:
 
 I.- Incorporar plenamente a los jóvenes al desarrollo del Estado, a través de políticas y programas relativos a la juventud, considerando las características y necesidades de las diferentes regiones que conforman la Entidad; y
 
-II.- Fomentar la práctica de diversas actividades que propicien la superación intelectual, cultural, profesional y económica de la juventud.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2022)</small>
+
+II.- Fomentar la práctica de diversas actividades que propicien la superación intelectual, cultural, profesional, económica y financiera de la juventud.
 
 ###### Artículo 58.
 
@@ -603,9 +611,13 @@ XXII.- Promover en conjunto con los municipios la Instancia Municipal de Juventu
 
 XXIII.- Establecer mecanismos consultivos de participación ciudadana; como lo son: foros, congresos, coloquios, consultas, entre otros, en los temas que por demanda de las y los jóvenes se requiera la intervención del Gobierno del Estado de Hidalgo, a efecto de tomar en cuenta la opinión de la juventud; y
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MAYO DE 2022)</small>
 
-XXIV.- Las demás que le sean conferidas en la presente Ley y demás disposiciones legales aplicables.
+XXIV.- Promover la Educación Financiera; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE MAYO DE 2022)</small>
+
+XXV.- Las demás que le sean conferidas en la presente Ley y demás disposiciones legales aplicables.
 
 ### CAPÍTULO II. DE LOS ÓRGANOS DE ADMINISTRACIÓN
 
@@ -1102,3 +1114,9 @@ P.O. 1 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 176 QUE REFORMA DIVERSOS ORDENAMIENTOS DEL ESTADO DE HIDALGO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 23 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 189 POR EL QUE SE REFORMAN LAS FRACCIONES VIII Y IX, DEL ARTÍCULO 21; LA FRACCIÓN II, DEL ARTÍCULO 57 Y, LA FRACCIÓN XXIV DEL ARTÍCULO 58; Y SE ADICIONA LA FRACCIÓN X, AL ARTÍCULO 21 Y, LA FRACCIÓN XXV AL ARTÍCULO 58; TODOS DE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
