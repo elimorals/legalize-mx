@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-fisica-deporte-y-recreacion-para-el-estado-65691
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2018-07-02"
+last_updated: "2022-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -125,7 +125,9 @@ V.- COMUDE.- Los Consejos Municipales del Deporte de los 84 Ayuntamientos, estar
 
 VI.- Cultura Física.- Conjunto de costumbres, conocimientos, ideas, valores y elementos materiales, sobre educación física y deportes encaminada al pleno desarrollo de las facultades corporales;
 
-VII.- Deporte.- Actividad y ejercicio físicos individuales o de conjunto institucionalizada y reglamentada, que con fines competitivos o recreativos se sujetan a reglas previamente establecidas y coadyuvan a la formación integral del individuo y al desarrollo y conservación de sus facultades físicas y mentales;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2022)</small>
+
+VII.- Deporte.- Actividad y ejercicio físicos individuales o de conjunto institucionalizada y reglamentada, que con fines competitivos o recreativos se sujetan a reglas previamente establecidas y coadyuvan a la formación integral de la persona y al desarrollo y conservación de sus facultades físicas y mentales;
 
 VIII.- Educación Física.- Actividad programada en el sistema educativo, por medio de la cual se adquiere, transmite y acrecienta la cultura física que contribuya al mejoramiento de la salud y de los procesos formativos;
 
@@ -249,11 +251,11 @@ V.- Garantizar mecanismos de igualdad de oportunidades en la práctica deportiva
 
 VI.- Promover la cultura de la educación física y el deporte entre los habitantes del Estado.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2022)</small>
 
 ###### Artículo 14.
 
-Se reconoce el derecho de todo individuo al conocimiento, difusión y práctica del deporte, en términos de lo dispuesto en el Artículo 3 de la presente ley.
+Se reconoce el derecho de toda persona al conocimiento, difusión y práctica del deporte, en términos de lo dispuesto en el Artículo 3 de la presente ley.
 
 ###### Artículo 15.
 
@@ -649,9 +651,11 @@ Toda persona física o moral que se dedique a la práctica de alguna disciplina 
 
 La participación de los equipos, clubes y ligas deportivas que formen parte del Sistema Estatal de Cultura Física, Deporte y Recreación, tendrá carácter obligatorio en los torneos que se convoquen, con el fin de formar las selecciones Municipales, como etapa previa a los campeonatos Estatales selectivos para representar al Estado de Hidalgo.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2022)</small>
+
 ###### Artículo 52.
 
-También podrán pertenecer al Sistema Estatal de Cultura Física, Deporte y Recreación, los organismos deportivos que constituyan agrupaciones de individuos, que tengan por objeto el desarrollo de actividades vinculadas a la cultura física, a la educación física, al deporte y al esparcimiento, aún cuando su fin no implique necesariamente la competencia deportiva.
+También podrán pertenecer al Sistema Estatal de Cultura Física, Deporte y Recreación, los organismos deportivos que constituyan agrupaciones de las personas, que tengan por objeto el desarrollo de actividades vinculadas a la cultura física, a la educación física, al deporte y al esparcimiento, aún cuando su fin no implique necesariamente la competencia deportiva.
 
 ###### Artículo 53.
 
@@ -1481,6 +1485,8 @@ Corresponde al Instituto Hidalguense del Deporte, programar cursos de formación
 
 DE LAS INFRACCIONES.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2022)</small>
+
 ###### Artículo 166.
 
 Los centros educativos públicos y privados deben promover libremente las actividades relacionadas con el deporte, siempre y cuando no contravengan el espíritu y la letra de esta Ley y sus disposiciones reglamentarias.
@@ -1501,7 +1507,7 @@ DE LAS INFRACCIONES, SANCIONES Y RECURSOS.
 
 ###### Artículo 169.
 
-Son infracciones de las y los deportistas, entrenadores, preparadores físicos, directivos y árbitros o sus organizaciones, la rudeza innecesaria que no tenga el carácter de delito, usar o promover el uso de sustancias y métodos que pongan en peligro la salud física y mental del individuo.
+Son infracciones de las y los deportistas, entrenadores, preparadores físicos, directivos y árbitros o sus organizaciones, la rudeza innecesaria que no tenga el carácter de delito, usar o promover el uso de sustancias y métodos que pongan en peligro la salud física y mental de las personas.
 
 ###### Artículo 170.
 
@@ -1698,3 +1704,11 @@ P.O. 2 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 450 QUE ADICIONA UNA FRACCIÓN IX BIS AL ARTÍCULO 9 A LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 23 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 196 POR EL QUE SE REFORMA EL ARTÍCULO 6 EN SU FRACCIÓN VII, ARTÍCULOS 14, 52 Y 169 DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
