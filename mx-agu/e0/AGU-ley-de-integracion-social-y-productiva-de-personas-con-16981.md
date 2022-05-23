@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-integracion-social-y-productiva-de-personas-con-16981"
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2020-12-21"
+last_updated: "2022-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de febrero de 2000.
 
@@ -637,11 +637,11 @@ Los procesos de rehabilitación serán prestados tomando en cuenta la coordinaci
 
 ### CAPITULO X. Integración a la Vida Productiva
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 56.
 
-Los Gobiernos Estatal y Municipales, sus entidades paraestatales, así como los Poderes Legislativo y Judicial, deberán contratar y capacitar como mínimo el tres por ciento de su planta laboral a personas con alguna discapacidad, quienes deberán presentar el certificado médico de discapacidad correspondiente, supeditándose a esta cuota laboral todos los reglamentos secundarios y municipales; los gobiernos mencionados harán las modificaciones pertinentes a sus políticas internas, e infraestructura adecuada para crear espacios laborales inclusivos.
+Los Gobiernos Estatal y Municipales, sus entidades paraestatales, así como los Poderes Legislativo y Judicial, y los Órganos Constitucionales Autónomos deberán contratar y capacitar como mínimo el cinco por ciento de su planta laboral a personas con alguna discapacidad, supeditándose a esta cuota laboral todos los reglamentos secundarios y municipales; los gobiernos mencionados harán las modificaciones pertinentes a sus políticas internas, e infraestructura adecuada para crear espacios laborales inclusivos.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
 
@@ -966,3 +966,35 @@ El Comité Coordinador de Integración Social y Productiva de las Personas con D
 ###### ARTÍCULO TERCERO.
 
 A más tardar, a los 365 días siguientes a la publicación del presente Decreto, se deberá brindar la atención incluyente especializada a personas con discapacidad en las instituciones obligadas, en caso de que no se cuente con esto se considerará una práctica discriminatoria de acuerdo a la Ley para Prevenir y Erradicar la Discriminación del Estado de Aguascalientes.
+
+P.O. 23 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 128.- SE REFORMA EL ARTÍCULO 56, PÁRRAFO PRIMERO DE LA LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La observancia del contenido del artículo 56 del presente Decreto, será aplicable de manera gradual y progresiva a partir de las nuevas designaciones, nombramientos y/o contrataciones de los trabajadores a los que se refiere la fracción I del artículo 2 y el artículo 7 del Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados, según corresponda, de la siguiente manera:
+
+A. Para el Poder Legislativo, a partir del 15 de septiembre del 2024;
+
+B. Para el Poder Ejecutivo, de manera gradual a partir del 01 de octubre de 2022, de la siguiente manera:
+
+a) El 3.5% teniendo como fecha límite el 31 de diciembre de 2023.
+
+b) El 4% a más tardar el 31 de diciembre de 2024.
+
+c) El 4.5% al 31 de diciembre de 2025.
+
+d) El 5% a más tardar al 31 de diciembre de 2026.
+
+Lo anterior hasta alcanzar el porcentaje del cinco por ciento como fecha límite el 31 de diciembre de 2026;
+
+C. Para los Ayuntamientos, a partir del 15 de octubre de 2024 teniendo como fecha límite para alcanzar el cinco por ciento el 14 de octubre de 2027;
+
+D. Para el Poder Judicial a partir del 1° de enero de 2023, de manera progresiva a partir de las nuevas designaciones y nombramientos que corresponda, de conformidad con la normatividad correspondiente;
+
+E. Por lo que hace a los Órganos Constitucionales Autónomos, habrá de realizarse de manera progresiva a partir del año 2023, respecto de las nuevas designaciones y nombramientos que corresponda, de conformidad con la normatividad correspondiente.
+
+TERCERO.- Las relaciones laborales existentes con anterioridad al inicio de vigencia del presente Decreto entre los trabajadores y los entes señalados en el párrafo anterior, no se modificarán o terminarán con motivo de la reforma al artículo 56 de esta Ley.
+
+CUARTO.- La contratación de personas con discapacidad se realizará de acuerdo con la disponibilidad presupuestaria ante la existencia de vacantes en los distintos cargos.
