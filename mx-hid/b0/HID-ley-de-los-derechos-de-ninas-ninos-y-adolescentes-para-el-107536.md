@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2022-03-10"
+last_updated: "2022-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -987,9 +987,19 @@ En todos los casos se respetará el derecho a la intimidad de niñas, niños y a
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias y de conformidad con las disposiciones aplicables, deberán garantizar el derecho a la seguridad social.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2022)</small>
+
 ###### Artículo 51.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deben desarrollar políticas para fortalecer la salud materno infantil y aumentar la esperanza de vida.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deben desarrollar políticas para fortalecer la salud materno infantil y aumentar la esperanza de vida y comprende, entre otras, las siguientes acciones:
+
+I. La atención del niño y la vigilancia de su crecimiento y desarrollo integral, incluyendo la promoción de la vacunación oportuna, la atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas;
+
+II. La aplicación del tamiz neonatal ampliado;
+
+III. El diagnóstico oportuno y atención temprana de la displasia en el desarrollo de la cadera; y
+
+IV. La atención de la salud visual, bucal, auditiva y mental.
 
 ### Capítulo Décimo Primero. Del Derecho a la Educación
 
@@ -1063,7 +1073,9 @@ VI. Adaptar el sistema educativo a las condiciones, intereses y contextos espec�
 
 VII. Establecer acciones afirmativas para garantizar el derecho a la educación de niñas, niños y adolescentes de grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales;
 
-VIII. Prestar servicios educativos en condiciones de normalidad mínima, entendida ésta como el conjunto de condiciones indispensables que deben cumplirse en cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje de los educandos;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2022)</small>
+
+VIII. Prestar servicios educativos en condiciones óptimas, entendida ésta como el conjunto de condiciones indispensables que deben cumplirse en cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje que coadyuve al pleno desarrollo de los educandos;
 
 IX. Implementar mecanismos para la atención, canalización y seguimiento de los casos que constituyan violaciones al derecho a la educación de niñas, niños y adolescentes;
 
@@ -1133,7 +1145,9 @@ Para efectos del párrafo anterior, las autoridades estatales y municipales, en 
 
 I. Diseñar estrategias y acciones para la detección temprana, contención, prevención y erradicación del acoso o la violencia escolar en todas sus manifestaciones, que contemplen la participación de los sectores público, privado y social, así como indicadores y mecanismos de seguimiento, evaluación y vigilancia;
 
-II. Desarrollar actividades de capacitación para servidores públicos y para el personal administrativo y docente;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2022)</small>
+
+II. Desarrollar actividades de capacitación, sensibilización y formación sobre equidad e igualdad de género, prevenir y atender los diferentes tipos de violencia y cultura para la paz, dirigidos a servidores públicos y para el personal administrativo y docente a fin de eliminar la reproducción de roles estereotipados de género, se impulse la igualdad sustantiva y se promueva el derecho a una vida libre de violencia de las niñas, niños y adolescentes;
 
 III. Establecer mecanismos gratuitos de atención, asesoría, orientación y protección de niñas, niños y adolescentes involucrados en una situación de acoso o violencia escolar; y
 
@@ -2437,8 +2451,20 @@ P.O. 26 DE ABRIL DE 2021.
 
 P.O. 10 DE MARZO DE 2022.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 4 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 4 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 23 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUMERO 188 (SIC) QUE SE REFORMA LA LEY DE SALUD PARA EL ESTADO DE HIDALGO Y LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 23 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 199 POR EL QUE SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 56 Y LA FRACCIÓN II DEL ARTÍCULO 58 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
