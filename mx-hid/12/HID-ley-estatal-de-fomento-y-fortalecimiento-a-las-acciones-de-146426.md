@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-fomento-y-fortalecimiento-a-las-acciones-de-1464
 country: "mx"
 rank: "ley"
 publication_date: "2021-01-20"
-last_updated: "2022-03-28"
+last_updated: "2022-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ESTATAL DE FOMENTO Y FORTALECIMIENTO A LAS ACCIONES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
 
 Ley publicada en el Alcance Cuatro del Periódico Oficial del Estado de Hidalgo, el miércoles 20 de enero de 2021.
 
@@ -166,6 +166,10 @@ IV. Igualdad de género:
 a. Promoción de la igualdad, identidad y equidad de género;
 
 b. Implementar acciones de prevención y atención de violencia de género.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2022)</small>
+
+c. Creación y funcionamiento, conforme con la legislación y normatividad aplicable, de refugios para mujeres víctimas de violencia, así como de sus hijas e hijos;
 
 V. Derechos humanos, sociedad incluyente y cohesión social:
 
@@ -506,3 +510,9 @@ P.O. 28 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA EL INICISO (SIC) G A LA FRACCIÓN I DEL ARTÍCULO 6 DE LA LEY ESTATAL DE FOMENTO Y FORTALECIMIENTO A LAS ACCIONES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE HIDALGO".]
 
 PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 23 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 197 QUE ADICIONA EL INCISO C A LA FRACCIÓN IV DEL ARTÍCULO 6 DE LA LEY ESTATAL DE FOMENTO Y FORTALECIMIENTO A LAS ACCIONES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
