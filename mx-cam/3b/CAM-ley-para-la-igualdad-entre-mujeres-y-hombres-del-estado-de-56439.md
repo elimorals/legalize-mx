@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-5643
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2016-12-22"
+last_updated: "2022-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -61,9 +61,11 @@ Son principios rectores de la presente Ley: la igualdad sustantiva y de género,
 
 Son sujetos de los derechos que establece esta Ley, las mujeres y los hombres que se encuentren en territorio estatal que por razón de su sexo, edad, género, estado civil, profesión, cultura, origen étnico o nacional, condición social, salud, religión, preferencia sexual, diversidad sexual, opinión o discapacidad, se encuentren con algún tipo de desventaja ante la violación del principio de igualdad que esta Ley tutela.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2022)</small>
+
 ###### Artículo 4.
 
-En lo no previsto en esta Ley, se aplicará en forma supletoria y en lo conducente, las disposiciones de la Ley de la Comisión de Derechos Humanos del Estado, de la Ley del Instituto de la Mujer del Estado y los demás ordenamientos aplicables en la materia.
+En lo no previsto en esta Ley, se aplicará en forma supletoria y en lo conducente, las disposiciones de la Ley para Prevenir, Combatir y Sancionar toda forma de Discriminación en el Estado, de la Ley de la Comisión de Derechos Humanos del Estado, de la Ley del Instituto de la Mujer del Estado, de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado, de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado, así como de los instrumentos internacionales ratificados por el Estado mexicano y los demás ordenamientos aplicables en la materia.
 
 ###### Artículo 5.
 
@@ -664,3 +666,11 @@ P.O. 22 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 99 POR EL QUE “SE ADICIONAN LAS FRACCIONES XI Y XII DEL ARTÍCULO 5, UN SEGUNDO PÁRRAFO AL ARTÍCULO 6 Y SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 29 Y LA FRACCIÓN VIII DEL ARTÍCULO 30 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CAMPECHE”.]
 
 ÚNICO.- El presente decreto entrará en vigor a los tres días de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 63 POR EL QUE "SE REFORMA EL ARTÍCULO 4 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
