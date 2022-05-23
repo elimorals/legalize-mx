@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-la-comision-estatal-de-los-derechos-humanos-de-baja-1244
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-31"
-last_updated: "2020-02-29"
+last_updated: "2022-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE MAYO DE 2022.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de octubre de 2017
 
@@ -319,13 +319,21 @@ VI.- Un Órgano Interno de Control; y
 
 VII.- El personal técnico y administrativo que resulte necesario para el desempeño de las funciones y atribuciones de la Comisión Estatal y que su presupuesto le permita.
 
-> <small>(REFORMADO, B.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, B.O. 23 DE MAYO DE 2022)</small>
 
-Quienes sean servidores públicos de la Comisión Estatal de los Derechos Humanos, con excepción del personal que se enuncia en la fracción VII del artículo inmediato anterior, no podrán desempeñar otro empleo, cargo o comisión en ningún nivel de la administración pública estatal, paraestatal, municipal, paramunicipal, órgano autónomo o cualquier otra actividad remunerada dentro del sector privado, salvo la docencia.
+Quienes desempeñen los cargos de Presidente, Visitador General, Visitador Regional, Secretario o Secretaria Ejecutiva y Titular del Órgano de Control, no podrán desempeñar otro empleo, cargo o comisión en ningún nivel de la administración pública estatal, paraestatal, municipal, paramunicipal, órgano autónomo o cualquier otra actividad remunerada dentro del sector privado, salvo la docencia.
 
-> <small>(REFORMADO, B.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, B.O. 23 DE MAYO DE 2022)</small>
 
-Los cargos de la Comisión Estatal de los Derechos Humanos serán remunerados, exceptuando los del Consejo Consultivo.
+Los cargos de la Comisión Estatal de los Derechos Humanos serán remunerados, exceptuando los cargos de las Consejeras y Consejeros.
+
+> <small>(ADICIONADO, B.O. 23 DE MAYO DE 2022)</small>
+
+El personal que se asigne para ocupar los cargos enunciados en las fracciones III, IV, V y VI de este artículo, deberá asignarse en observancia y conforme al principio de paridad de género.
+
+> <small>(ADICIONADO, B.O. 23 DE MAYO DE 2022)</small>
+
+Queda estrictamente prohibida la asignación de cargos de la Comisión, así como la contratación de personal o servicios, a quienes no acrediten capacidad y experiencia técnica para el desempeño del cargo y sus funciones.
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE FEBRERO DE 2020)</small>
 
@@ -415,9 +423,9 @@ Por motivos de ausencia temporal hasta por treinta días naturales de quien pres
 
 Quien presida la Comisión Estatal de los Derechos Humanos tendrá las siguientes facultades y obligaciones:
 
-> <small>(REFORMADA, B.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, B.O. 23 DE MAYO DE 2022)</small>
 
-I.- Ejercer y delegar la representación legal de la Comisión Estatal de los Derechos Humanos;
+I.- Actuar como representante de la Comisión Estatal de Derechos Humanos y delegar la representación sólo en casos que sea necesario y comunicarlo al Consejo Consultivo;
 
 II.- Presidir el Consejo;
 
@@ -425,17 +433,17 @@ III.- Aprobar y emitir recomendaciones públicas, autónomas, así como los acue
 
 IV.- Presentar al Consejo los informes y proyectos de recomendación para su opinión;
 
-> <small>(REFORMADA, B.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, B.O. 23 DE MAYO DE 2022)</small>
 
-V.- Presentar al Consejo el plan anual de trabajo para su opinión;
+V.- Proponer y presentar al Consejo el plan anual de trabajo para su aprobación;
 
-> <small>(REFORMADA, B.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, B.O. 23 DE MAYO DE 2022)</small>
 
-VI.- Presentar al Consejo para su opinión el proyecto de reglamento interno, los manuales de organización, procedimientos y de servicios al público de la Comisión Estatal de los Derechos Humanos, que deberán actualizarse cada vez que así se considere necesario para el buen desempeño de este organismo público autónomo.
+VI.- Presentar al Consejo Consultivo para su aprobación el proyecto de Reglamento Interno, los manuales de organización, de procedimientos y de servicios al público de la Comisión Estatal de Derechos Humanos, que deberán actualizarse cada vez que así se considere necesario para el buen desempeño de este organismo público autónomo;
 
-> <small>(REFORMADA, B.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, B.O. 23 DE MAYO DE 2022)</small>
 
-VII.- Elaborar y proponer el presupuesto anual de la Comisión Estatal de los Derechos Humanos, mismo que deberá comunicarse para su opinión al Consejo Consultivo, para su posterior remisión al Ejecutivo del Estado, para su trámite respectivo.
+VII.- Elaborar y proponer el presupuesto anual de la Comisión Estatal de los Derechos Humanos, mismo que deberá presentar para su aprobación al Consejo, para su posterior remisión al Titular del Poder Ejecutivo en los términos que fue aprobado; para su trámite respectivo;
 
 > <small>(REFORMADA, B.O. 29 DE FEBRERO DE 2020)</small>
 
@@ -451,7 +459,9 @@ XII.- Nombrar, dirigir y coordinar a los Visitadores y al Secretario Técnico, a
 
 XIII.- Distribuir y delegar funciones a los Visitadores, Secretaría Ejecutiva y demás funcionarios de la Comisión;
 
-XIV.- Presentar anualmente un informe general al Congreso del Estado, sobre las actividades de la Comisión y la situación que guardan los derechos humanos en la entidad, así como comparecer ante dicho Poder. Este informe que posteriormente a haberse rendido ante el Congreso deberá hacerse público, contendrá al menos una descripción resumida del número y características de las quejas y denuncias que se hayan presentado, los resultados de la labor de mediación y conciliación, las investigaciones realizadas, las recomendaciones emitidas que hayan sido rechazadas, cumplidas y las pendientes de cumplir, los acuerdos de no responsabilidad que hubiesen emitido, los informes o publicaciones realizadas y los resultados logrados así como estadísticas y demás casos que se consideren de interés;
+> <small>(REFORMADA, B.O. 23 DE MAYO DE 2022)</small>
+
+XIV.- Presentar anualmente un informe general al Congreso del Estado, sobre las actividades de la Comisión y la situación que guardan los derechos humanos en la entidad, así como comparecer ante dicho Poder. Este informe que posteriormente a haberse rendido ante el Congreso deberá hacerse público, contendrá al menos una descripción resumida del número y características de las quejas y denuncias que se hayan presentado, los resultados de la labor de mediación y conciliación, las investigaciones realizadas, las recomendaciones emitidas que hayan sido rechazadas, cumplidas y las pendientes de cumplir, los acuerdos de no responsabilidad que hubiesen emitido, los informes o publicaciones realizadas y los resultados logrados así como estadísticas, las opiniones y recomendaciones del Consejo Consultivo y demás casos que se consideren de interés;
 
 XV.- Promover las relaciones de la Comisión con organismos públicos, privados o sociales, nacionales e internacionales, en la materia de su competencia;
 
@@ -473,9 +483,9 @@ XXI.- Convocar de manera ordinaria y extraordinaria al Consejo Consultivo;
 
 XXII.- Reabrir expedientes o ampliar de forma excepcional los plazos para desahogar algún procedimiento cuando sea plenamente justificado;
 
-> <small>(REFORMADA, B.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, B.O. 23 DE MAYO DE 2022)</small>
 
-XXIII.- Informar al Consejo Consultivo la creación, supresión o reorganización de las áreas administrativas de la Comisión Estatal de los Derechos Humanos acorde a las necesidades laborales y capacidades presupuestarias.
+XXIII.- Proponer al Consejo para su aprobación la creación, supresión o reorganización de las áreas administrativas de la Comisión Estatal de los Derechos Humanos acorde a las necesidades laborales y capacidades presupuestarias;
 
 XXIV.- Las demás relacionadas con las obligaciones y atribuciones de la Comisión.
 
@@ -523,17 +533,17 @@ XI.- No haber sido inhabilitado para desempeñarse dentro de la administración 
 
 XII.- Los requisitos anteriores deberán cumplirse también durante el ejercicio de su cargo.
 
-> <small>(REFORMADO, B.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, B.O. 23 DE MAYO DE 2022)</small>
 
 ###### Artículo 25.
 
-Para la elección de quienes ocuparán la titularidad del Consejo Consultivo de la Comisión Estatal de los Derechos Humanos, se seguirá el mismo procedimiento que el señalado para la elección de quien ocupe la Presidencia de la Comisión Estatal, salvo que la elección será por la votación de la mayoría del Pleno del Congreso del Estado presentes en la sesión;
+Para la elección de quienes integren el Consejo Consultivo de la Comisión Estatal de los Derechos Humanos, se seguirá el mismo procedimiento que el señalado para la elección de quien ocupe la Presidencia de la Comisión Estatal, salvo que la elección será por la votación de la mayoría del Pleno del Congreso del Estado presentes en la sesión.
 
-> <small>(REFORMADO, B.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, B.O. 23 DE MAYO DE 2022)</small>
 
 ###### Artículo 26.
 
-Quienes integren el Consejo Consultivo duraran en su encargo cuatro años, pudiendo ser reelectos mediante el mismo procedimiento por el que fueron electos la primera vez. Las Consejeras y los Consejeros solo podrán ser reelectos por un periodo igual.
+Los Consejeros y las Consejeras durarán en su encargo cuatro años, pudiendo ser reelectos mediante el mismo procedimiento por el que fueron electos la primera vez y solo podrán ser reelectos una vez por un periodo igual.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE FEBRERO DE 2020)</small>
 
@@ -547,13 +557,13 @@ I.- Conocer y opinar sobre los proyectos de recomendaciones e informes que les p
 
 II.- Conocer y opinar sobre el plan anual de trabajo que le sea presentado por la Presidencia de la Comisión Estatal de los Derechos Humanos;
 
-> <small>(REFORMADA, B.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, B.O. 23 DE MAYO DE 2022)</small>
 
-III.- Conocer y opinar sobre el proyecto de reglamento interno, los manuales de organización, de procedimientos y de servicios al público, de la Comisión Estatal de los Derechos Humanos, que les sean presentados;
+III.- Aprobar, en su caso, el proyecto de reglamento interno, los manuales de organización, de procedimientos y de servicios al público, de la Comisión Estatal de los Derechos Humanos, que les sean presentados;
 
-> <small>(REFORMADA, B.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, B.O. 23 DE MAYO DE 2022)</small>
 
-IV.- Conocer y opinar sobre el informe mensual de las actividades de la Comisión Estatal de los Derechos Humanos que les sea presentado por el titular de la misma, con el fin de hacer las observaciones correspondientes para el mejor desempeño del organismo;
+IV.- Analizar y evaluar el informe mensual de las actividades de la Comisión Estatal de los Derechos Humanos que les sea presentado por quien presida la misma, con el fin de hacer las observaciones correspondientes para el mejor desempeño del organismo;
 
 > <small>(REFORMADA, B.O. 29 DE FEBRERO DE 2020)</small>
 
@@ -561,9 +571,9 @@ V.- Conocer y opinar acerca del presupuesto anual de la Comisión Estatal de los
 
 VI.- Conocer y emitir su opinión sobre el informe que el Presidente de la Comisión deberá rendir ante el Congreso del Estado;
 
-> <small>(REFORMADA, B.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, B.O. 23 DE MAYO DE 2022)</small>
 
-VII.- Conocer y opinar sobre el trabajo de los visitadores haciendo las recomendaciones respectivas para mejorar el desempeño y elevar la eficiencia de los mismos;
+VII.- Conocer y evaluar el trabajo de las visitadurías de la Comisión, haciendo las recomendaciones respectivas para mejorar el desempeño y elevar la eficiencia de los mismos;
 
 VIII.- Solicitar al Presidente de la Comisión reuniones de carácter extraordinario;
 
@@ -573,11 +583,21 @@ X.- Acceder a la información relativa a quejas, denuncias y recomendaciones cua
 
 XI.- Proponer al titular de la Comisión la atención a grupos sociales vulnerables o a conductas que se consideren violatorias de los derechos humanos para ser atendidas de manera especial si así lo considera el titular de la institución;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, B.O. 23 DE MAYO DE 2022)</small>
 
-XII.- A petición de quien presida la Comisión Estatal de los Derechos Humanos, quienes integren el Consejo Consultivo, podrán atender representaciones y comisiones de trabajo. Para el desempeño de dichas funciones deberá fijarse una asignación presupuestal a consideración del titular de la Presidencia.
+XII.- A petición de quien presida la Comisión Estatal de Los Derechos Humanos, quienes integren el Consejo Consultivo, podrán atender representaciones y comisiones de trabajo. Para el desempeño de dichas funciones deberá fijarse una asignación presupuestal a consideración del titular de la Presidencia;
 
-XIII.- Las demás que las leyes y reglamentos le otorguen.
+> <small>(ADICIONADA, B.O. 23 DE MAYO DE 2022)</small>
+
+XIII.- Analizar y evaluar el trabajo de la Secretaría Ejecutiva, incluyendo los contenidos educativos y de promoción de los derechos humanos, haciendo las recomendaciones respectivas para mejorar el desempeño y elevar la eficiencia de los mismos;
+
+> <small>(ADICIONADA, B.O. 23 DE MAYO DE 2022)</small>
+
+XIV.- - (sic) Conocer y evaluar el trabajo del Órgano Interno de Control, haciendo las recomendaciones respectivas para mejorar el desempeño y elevar la eficiencia del mismo, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 23 DE MAYO DE 2022)</small>
+
+XV.- Las demás que esta ley le otorgue.
 
 > <small>(REFORMADO, B.O. 29 DE FEBRERO DE 2020)</small>
 
@@ -585,25 +605,37 @@ XIII.- Las demás que las leyes y reglamentos le otorguen.
 
 Para que el Consejo Consultivo sesione válidamente deberán presentarse al menos cuatro de sus integrantes, incluido entre ellos quien ocupe la titularidad de la Comisión Estatal de los Derechos Humanos. Las decisiones se tomaran por acuerdo de la mayoría de los integrantes presentes, teniendo la Presidencia el voto de calidad en caso de empate.
 
+> <small>(ADICIONADO, B.O. 23 DE MAYO DE 2022)</small>
+
+Para los efectos de esta disposición, la totalidad de las Consejeras y Consejeros deberán haber sido debidamente convocados.
+
 > <small>(REFORMADO, B.O. 29 DE FEBRERO DE 2020)</small>
 
 ###### Artículo 29.
 
 Quienes integren el Consejo Consultivo podrán presentar solicitudes y deberán someterse a consideración de sus integrantes en la sesión ordinaria o extraordinaria que se efectúe posterior a su recepción, que se desahogarán en términos de lo establecido en el artículo anterior.
 
-> <small>(REFORMADO, B.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(ADICIONADO, B.O. 23 DE MAYO DE 2022)</small>
+
+Para que una solicitud por parte del Consejo al titular de la Comisión sea válida, deberá ser respaldada por al menos tres de las cinco Consejerías.
+
+> <small>(REFORMADO, B.O. 23 DE MAYO DE 2022)</small>
 
 ###### Artículo 30.
 
-El Consejo Consultivo sesionará de manera ordinaria una vez al mes y extraordinaria cada vez que el propio Consejo determine a solicitud de alguno de sus miembros.
+El Consejo sesionará de manera ordinaria una vez al mes y extraordinaria cada vez que el propio Consejo así lo determine a solicitud de alguno o alguna de sus integrantes. Para la celebración de las sesiones ordinarias, el Consejo elaborará un calendario, acordando para ello, una vez al año las mejores fechas para estas sesiones.
 
-> <small>(ADICIONADO, B.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, B.O. 23 DE MAYO DE 2022)</small>
 
 ###### Artículo 30 Bis.
 
-La convocatoria a sesiones del Consejo Consultivo deberá publicarse en los estrados de la Comisión Estatal de los Derechos Humanos, por lo menos con 48 horas antes de la celebración de la misma, notificándose vida electrónica o personalmente en el domicilio de quienes integren el propio Consejo Consultivo.
+La convocatoria a sesiones ordinarias del Consejo deberá emitirse y notificarse a sus integrantes con de (sic) 5 días de anticipación y deberá además publicarse en los estrados de la Comisión Estatal de los Derechos Humanos con la misma anticipación, notificándose por vía electrónica con acuse de recibo o personalmente en el domicilio de quienes integren el propio Consejo y publicarse en los estrados de la Comisión Estatal de los Derechos Humanos.
 
-Quien ocupe la Secretaría Ejecutiva de la Comisión Estatal de los Derechos Humanos, realizará funciones de secretaria de acuerdos en las sesiones del Consejo Consultivo; elaborará las actas de sesiones y dependerá de quien presida el Consejo Consultivo.
+En caso de urgencia, será posible emitir convocatoria a sesiones extraordinarias del Consejo la cual deberá emitirse y notificarse a sus integrantes con al menos 24 horas de anticipación y deberá además publicarse en los estrados de la Comisión Estatal de los Derechos Humanos con la misma anticipación, notificándose por vía electrónica o personalmente en el domicilio de quienes integren el propio Consejo.
+
+A la convocatoria deberá anexarse el informe mensual de las actividades de la Comisión y cualquier otro documento que se pretenda analizar en la sesión, con la finalidad de que sus integrantes estén en posibilidad de emitir su opinión informada al respecto.
+
+Quien ocupe la Secretaría Ejecutiva de la Comisión Estatal de los Derechos Humanos, realizará funciones de secretaria de acuerdos en las sesiones del Consejo; elaborará las actas de sesiones y las someterá para aprobación y en su caso firma de sus integrantes que hayan estado presentes en dicha sesión del Consejo. Las actas de las sesiones del Consejo, deberán notificarse a quienes integran el Consejo a más tardar en 3 días hábiles siguiente (sic) de su firma.
 
 > <small>(REFORMADO, B.O. 29 DE FEBRERO DE 2020)</small>
 
@@ -611,41 +643,39 @@ Quien ocupe la Secretaría Ejecutiva de la Comisión Estatal de los Derechos Hum
 
 De manera extraordinaria quien ocupe la Visitaduría General de la Comisión Estatal de los Derechos Humanos sustituirá en las sesiones, a quien presida el Consejo Consultivo, en términos de lo dispuesto en el artículo 21, último párrafo de esta Ley.
 
-Para ello, quien presida la Comisión Estatal de los Derechos Humanos deberá de informar la determinación por escrito a integrantes del Consejo Consultivo, señalando las causas y el tiempo de su ausencia. Si la ausencia de quien ocupe la titularidad de la Comisión Estatal, fuera mayor a 30 días naturales el Consejo Consultivo deberá notificar tal condición al Congreso del Estado para que se proceda en términos del artículo 21, párrafo cuarto de esta Ley.
+> <small>(REFORMADO, B.O. 23 DE MAYO DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE FEBRERO DE 2020)</small>
+Para ello, quien presida la Comisión Estatal de los Derechos Humanos deberá de informar la determinación por escrito a quienes integran el Consejo, señalando las causas y el tiempo de su ausencia. Si la ausencia de quien ocupe la titularidad de la Comisión Estatal, fuera mayor a 15 días hábiles el Consejo deberá notificar tal condición al Congreso del Estado para que se proceda en términos del artículo 21, párrafo cuarto de esta Ley y el Consejo deberá aprobar la designación de quien habrá de cubrir tal vacante de manera interina.
+
+> <small>(REFORMADO, B.O. 23 DE MAYO DE 2022)</small>
 
 ###### Artículo 32.
 
-El Consejo Consultivo, por conducto de quien presida la Comisión Estatal de los Derechos Humanos, podrá solicitar al Congreso del Estado, la remoción y sustitución de integrantes del propio Consejo Consultivo, cuando incurra en alguna de las causas previstas en el presente artículo.
+El Consejo Consultivo, por conducto de quien presida la Comisión Estatal de los Derechos Humanos, podrá solicitar al Congreso del Estado, la remoción y sustitución de integrantes del propio Consejo, cuando incurra en alguna de las causas previstas en el presente artículo. Siempre y cuando se demuestre fehacientemente el incumplimiento que se les atribuye.
 
-> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], B.O. 29 DE FEBRERO DE 2020)</small>
+No obstante, lo anterior, quienes Integran el Consejo no dejarán de ejercer su función hasta que el Congreso del Estado haya acordado su remoción y sustitución.
 
-Quienes Integran el Consejo Consultivo dejaran de ejercer su función, cuando incumplan los requisitos bajo los que fueron electos o por alguna de las causas siguientes:
+Son causales para solicitar la remoción y sustitución de un integrante del Consejo:
 
-I.- Por atribuirse, sin así corresponder, la titularidad de representación del Consejo Consultivo o de la Comisión Estatal de los Derecho Humanos;
+I.- Por atribuirse, sin así corresponderle, la representación del Consejo o de la Comisión Estatal de los Derecho Humanos;
 
-II.- Por difundir los asuntos internos relacionados con quejas y denuncias que sean del conocimiento de la Comisión Estatal de los Derecho Humanos;
+II.- Por difundir de manera reiterada y sin autorización de la víctima, información sensible de las víctimas en relación a las quejas y denuncias de las que tenga conocimiento;
 
-III.- Por usar información de la Comisión Estatal de los Derechos Humanos o de los procedimientos tramitados ante ella, en beneficio propio o ajeno, ya sea en su labor profesional o en cualquier otra situación indebida;
+III.- Por pronunciarse en contra de algún derecho humano o en contra de cualquiera de los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos.
 
-IV.- Por concluir el periodo para el cual fueron electos;
+IV.- Por votar en contra de acuerdos que promuevan los derechos humanos;
 
 V.- Por renuncia;
 
 VI.- Por faltar sin causa justificada a tres sesiones consecutivas o cuatro acumuladas en un año;
 
-VII.- Por acciones u omisiones que violen derechos humanos; y
+VII.- Por acciones u omisiones que promuevan o justifiquen la violación de derechos humanos; y
 
-VIII.- Por aprobar acuerdos que atenten la pluralidad, diversidad y tolerancia de la sociedad civil.
+VIII.- Por aprobar acuerdos que atenten en contra de la pluralidad, diversidad y tolerancia.
 
-> <small>(ADICIONADO, B.O. 29 DE FEBRERO DE 2020)</small>
+Se consideran como faltas a las sesiones del Consejo cuando sus integrantes se hubieren convocado debidamente a la sesión y no se presenten ni tengan causa justificada para su ausencia, aun cuando no se hubiere reunido el quórum correspondiente para la sesión y ésta no se hubiere llevado a cabo, para lo cual quien ejerza funciones de la Secretaría de Acuerdos, deberá levantar acta circunstanciada en la que se precise las asistencias e inasistencias y demás hechos que se consideren necesarios, las que deberán ser en todo caso aprobadas y firmadas por quienes hayan asistido.
 
-Se consideran como faltas a las sesiones del Consejo Consultivo cuando hubiere sido convocado a la sesión y no se presente, aun cuando no se hubiere reunido el quórum correspondiente, para lo cual quien ejerza funciones de la Secretaría de acuerdos, deberá levantar acta circunstanciada en la que se precise las asistencias e inasistencias y demás hechos que se consideren necesarios.
-
-> <small>(ADICIONADO, B.O. 29 DE FEBRERO DE 2020)</small>
-
-Cuando existan tres faltas consecutivas de integrantes del Consejo Consultivo a las sesiones ordinarias, esta condición será considerada falta definitiva, lo que dará lugar a proceder en términos del artículo 25 de esta Ley.
+Una vez que sea definitiva la resolución del Congreso del Estado que determine la remoción y substitución del o la integrante del Consejo que corresponda, entonces se dará lugar a proceder en términos del artículo 25 de esta Ley.
 
 ### Capítulo cuarto. De la Secretaría Ejecutiva
 
@@ -667,11 +697,13 @@ Quien ocupe la titularidad de la Secretaria Ejecutiva será también secretario 
 
 Para ocupar la Titularidad de la Secretaria Ejecutiva de la Comisión Estatal de los Derechos Humanos se deberán cubrir los mismos requisitos que para ser integrantes del Consejo Consultivo, además de contar con título profesional de Licenciatura en derecho o carreras afines a la administración pública.
 
-> <small>(REFORMADO, B.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, B.O. 23 DE MAYO DE 2022)</small>
 
 ###### Artículo 36.
 
-La designación de quien ocupe el cargo de la Secretaria Ejecutiva, la realizará quien ocupe la Titularidad la Comisión Estatal de los Derechos Humanos, previo análisis del perfil requerido y la documentación que acredite dicha competencia a ocupar el cargo, respetando el principio de paridad de género.
+Para llevar a cabo la elección de quien ocupe el cargo de la Secretaría Ejecutiva, quien presida la Comisión deberá presentar al Consejo al menos tres propuestas de candidaturas a ocupar el cargo, siendo electa la persona quien obtenga la mayoría de votos de los integrantes del Consejo.
+
+Quienes integran el Consejo podrán también presentar propuestas de candidaturas. Todas las propuestas de candidaturas deberán cumplir con el perfil requerido y presentar la documentación que acredite dicha competencia para ocupar el cargo. La elección y la designación se deberán realizar respetando el principio de paridad de género.
 
 ###### Artículo 37.
 
@@ -1195,11 +1227,11 @@ Los proyectos antes mencionados deberán ser conocidos y por quien ocupe la Titu
 
 La recomendación será pública y no tendrá carácter de imperativo para la autoridad o servidora o servidor público al cual se dirija, por lo que no podrá por sí misma anular, modificar o dejar sin efecto los actos contra los cuales se hubiera interpuesto la queja o denuncia.
 
-> <small>(REFORMADO, B.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, B.O. 23 DE MAYO DE 2022)</small>
 
 ###### Artículo 78.
 
-Al servidor o servidora pública o autoridad a quien se le haya dirigido la Recomendación, informará en los siguientes diez días hábiles a partir de haber recibido la notificación, si la acepta o no; de ser así, entregará a la Comisión Estatal de los Derechos Humanos dentro de los diez días hábiles siguientes las pruebas correspondientes de que ha cumplido con dicha Recomendación. Este plazo podrá ampliarse de considerarse necesario solicitándolo a la servidora o servidor público por escrito a la Comisión Estatal de los Derechos Humanos, quien determinará si la naturaleza del asunto requiere de dicha ampliación.
+Al servidor o servidora pública o autoridad a quien se le haya dirigido la Recomendación, informará en los siguientes cinco días hábiles a partir de haber recibido la notificación, si la acepta o no; de ser aceptada entregará a la Comisión Estatal de los Derechos Humanos dentro de los diez días hábiles siguientes las pruebas correspondientes de que ha cumplido con dicha Recomendación. Este plazo podrá ampliarse de considerarse necesario solicitándolo la servidora o servidor público por escrito a la Comisión Estatal de los Derechos Humanos, quien determinará si la naturaleza del asunto requiere de dicha ampliación.
 
 > <small>(REFORMADO, B.O. 29 DE FEBRERO DE 2020)</small>
 
@@ -1304,6 +1336,10 @@ Todas la autoridades y servidoras y servidores públicos de las administraciones
 ###### Artículo 89.
 
 La correspondencia dirigida a la Comisión Estatal de los Derechos Humanos, desde cualquier centro de reinserción, detención o custodia, estatal o municipal, no podrá ser objeto de censura de ningún tipo por parte de las personas servidoras públicas de dichos centros.
+
+> <small>(ADICIONADO, B.O. 23 DE MAYO DE 2022)</small>
+
+Las personas servidoras públicas que ejerzan censura a las comunicaciones dirigidas a la Comisión, escuchen o interfieran las conversaciones que se establezcan con sus funcionarios, serán sujetos de las responsabilidades establecidas en las Leyes correspondientes.
 
 > <small>(REFORMADO, B.O. 29 DE FEBRERO DE 2020)</small>
 
@@ -1468,3 +1504,11 @@ B.O. 29 DE FEBRERO DE 2020.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su Publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+B.O. 23 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2825 SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 16, FRACCIONES I, V, VI, VII, XIV Y XXIII DEL ARTÍCULO 22, ARTÍCULOS 25, 26, 27 EN SUS FRACCIONES III, IV, VII Y XII, 30, 30 BIS, SEGUNDO PÁRRAFO DEL ARTÍCULO 31, 32, 36, 78 Y SE ADICIONAN LOS PÁRRAFOS CUARTO Y QUINTO AL ARTÍCULO 16, FRACCIONES XIII, XIV Y XV AL ARTÍCULO 27; UN PÁRRAFO SEGUNDO AL ARTÍCULO 28; UN SEGUNDO PÁRRAFO AL ARTÍCULO 29; Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 89 DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE BAJA CALIFORNIA SUR”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su Publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
