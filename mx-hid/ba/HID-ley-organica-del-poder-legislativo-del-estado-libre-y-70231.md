@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2020-08-17"
+last_updated: "2022-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -999,9 +999,9 @@ XXVI.- Comisión de Transparencia y Anticorrupción;
 
 XXVII.- Comisión de Cultura;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2022)</small>
 
-XXVIII.- Comisión de los Adultos Mayores;
+XXVIII.- Comisión de las Personas Adultas Mayores;
 
 > <small>(REFORMADA, P.O. 17 DE MARZO DE 2014)</small>
 
@@ -1597,9 +1597,9 @@ Todas las Iniciativas de Leyes y Decretos, deberán presentarse al Presidente de
 
 I.- Formularse por escrito, firmadas por el o los autores;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2022)</small>
 
-II.- Deberán contener exposición de motivos; en la que se expresará el objeto, utilidad y los elementos en que se fundamenten y sustenten además de un análisis sobre los principios constitucionales en que se apoye; y
+II.- Deberán contener exposición de motivos, en la que se expresará el objeto, utilidad y los elementos en que se fundamenten y sustenten, además de un análisis sobre los principios constitucionales en que se apoye; así como, una estimación sobre el impacto presupuestario del proyecto contenido en la Iniciativa;
 
 III.- Contener Proyecto del articulado.
 
@@ -1769,7 +1769,9 @@ II.- El nombre de la Comisión o Comisiones Legislativas que lo suscriban y su f
 
 III.- Antecedentes;
 
-IV.- Considerandos sobre los principios constitucionales, legales y/o lógicos en que se apoye la iniciativa o asunto, así como aquellos que sustenten la aprobación, modificación o rechazo de su contenido;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2022)</small>
+
+IV.- Considerandos sobre los principios constitucionales, legales y/o lógicos en que se apoye la iniciativa o asunto, en su caso, estimación sobre el impacto presupuestario del proyecto, así como aquellos que sustenten la aprobación, modificación o rechazo de su contenido;
 
 V.- Puntos resolutivos;
 
@@ -2838,3 +2840,17 @@ P.O. 17 DE AGOSTO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se abroga el Reglamento de Sesiones No Presenciales (Virtuales) de la LXIV Legislatura del Congreso del Estado de Hidalgo.
+
+P.O. 23 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 192 QUE REFORMA LA FRACCIÓN XXVIII DEL ARTÍCULO 77 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO; ASÍ COMO, EL PRIMER PÁRRAFO Y, LA FRACCIÓN I, DEL ARTÍCULO 53 Y, LA FRACCIÓN I, DEL ARTÍCULO 54, AMBOS DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 23 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 194 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. En tanto el Congreso del Estado de Hidalgo no cuente con un órgano o unidad técnica de estudios en materia de finanzas públicas, la Comisión de Estudio y Dictamen respectiva, solicitará el apoyo de la Secretaria de Finanzas Públicas del Poder Ejecutivo para la realización de los estudios de impacto presupuestario de las iniciativas que deba dictaminar.
