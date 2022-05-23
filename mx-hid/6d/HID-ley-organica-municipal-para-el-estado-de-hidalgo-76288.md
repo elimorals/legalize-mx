@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2022-03-28"
+last_updated: "2022-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -2447,7 +2447,9 @@ a) No haber sido condenado por delitos dolosos o faltas administrativas graves;
 
 b) No ser ministro de culto religioso; y
 
-c) Acreditar conocimientos en materia ambiental ecológica.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2022)</small>
+
+c) Contar con título profesional o de profesional técnico, relacionado con la materia, y con experiencia mínima de un año en temas medio ambientales
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -3237,13 +3239,13 @@ La justicia cotidiana tiene por objeto privilegiar la solución de los conflicto
 
 En sus procedimientos, el Conciliador Municipal deberá observar la legislación en la materia.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2022)</small>
 
-El Presidente designará y removerá de su cargo al Conciliador Municipal, quien preferentemente deberá estar certificado o certificada por el Consejo de la Judicatura del Poder Judicial.
+El Presidente designará y removerá de su cargo al Conciliador Municipal.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2022)</small>
 
-El Ayuntamiento, garantizará que toda persona sin distinciones de origen étnico, lengua, sexo, edad, condición social, religión ó estado civil tenga derecho a los métodos de justicia administrativa.
+El Ayuntamiento, garantizará que toda persona sin distinciones de origen étnico o nacional, género, discapacidades, lengua, sexo, preferencias sexuales, edad, condición social o de salud, religión, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas, tenga acceso a los procedimientos administrativos municipales en esta materia.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -3257,17 +3259,21 @@ Se entiende y reconoce como sistema normativo indígena, aquél que comprende re
 
 Los requisitos para ser conciliador Municipal serán:
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2022)</small>
 
-I.- Tener estudios terminados de licenciada o licenciado en derecho, excepto que en el Municipio de que se trate no exista profesionista en ese ramo;
+I.- Contar con título y cédula profesional de licenciatura en derecho; con experiencia mínima de un año en el ejercicio de su profesión; salvo que en el municipio de que se trate no exista profesionista en ese ramo;
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
 II.- No estar condenado por delito doloso; y
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2022)</small>
 
-III.- No estar inhabilitado para desempeñarse en un cargo, empleo o comisión en el servicio público.
+III.- No estar condenado por delito doloso; y
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2022)</small>
+
+IV. Contar preferentemente con la certificación o certificaciones que las autoridades estatales emitan en la materia.
 
 La integración, organización y funcionamiento de la instancia administrativa conciliadora será la que se establezca en el reglamento que al efecto expida el Ayuntamiento, de acuerdo al presupuesto asignado.
 
@@ -3888,3 +3894,15 @@ P.O. 28 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 178 QUE REFORMA LA FRACCIÓN X BIS DEL ARTÍCULO 69; SE ADICIONA LA FRACCIÓN XIV BIS AL ARTÍCULO 67; Y SE DEROGA LA FRACCIÓN VIII BIS DEL ARTÍCULO 69 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 23 DE MAYO DE 2022.
+
+[N. DE. E. TRANSITORIO DEL “DECRETO NÚMERO 187 POR EL QUE SE REFORMA EL ARTÍCULO 118 TER, INCISO C, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 23 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 195 POR EL QUE SE REFORMA EL ARTÍCULO 160 Y LAS FRACCIONES I Y III DEL ARTÍCULO 161; Y SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 161, DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
