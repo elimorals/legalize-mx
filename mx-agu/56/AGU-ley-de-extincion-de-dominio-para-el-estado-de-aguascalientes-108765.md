@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-extincion-de-dominio-para-el-estado-de-aguascalientes-10
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-22"
-last_updated: "2017-07-03"
+last_updated: "2022-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE EXTINCION DE DOMINIO PARA EL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 127, PUBLICADO EN EL PERIÓDICO OFICIAL DE 23 DE MAYO DE 2022, LA PRESENTE LEY HA SIDO ABROGADA.]</small>
+
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022 (ABROGADO).
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2015.
 
@@ -1000,3 +1002,11 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 127.- SE ABROGA LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
