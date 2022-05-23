@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2021-07-06"
+last_updated: "2022-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -491,9 +491,9 @@ XIII.- Operar módulos de información y orientación al turista;
 
 XIV.- Recibir y canalizar las quejas de los turistas nacionales y extranjeros, para su atención ante la autoridad competente;
 
-> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2022)</small>
 
-XIV Bis.- Promover el impulso de las micro, pequeñas y medianas empresas turísticas que se encuentren dentro de su territorio;
+XIV Bis.- Promover e impulsar, con la máxima difusión a las micro, pequeñas y medianas empresas turísticas que se encuentran dentro de su territorio;
 
 > <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
 
@@ -1254,3 +1254,9 @@ P.O. 6 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 719 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO".]
 
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 23 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 191 POR EL QUE SE REFORMA LA FRACCIÓN XIV BIS DEL ARTICULO 9 DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
