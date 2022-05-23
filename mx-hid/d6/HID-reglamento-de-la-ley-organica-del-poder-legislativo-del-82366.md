@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-la-ley-organica-del-poder-legislativo-del-82366"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-01"
-last_updated: "2020-08-17"
+last_updated: "2022-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 1 de agosto de 2011.
 
@@ -645,11 +645,15 @@ I.- Conocer y emitir resolutivos de los asuntos que le sean turnados en materia 
 
 II.- Las demás que le sean conferidas por el Pleno del Congreso y la Diputación Permanente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO 53.
 
-Corresponde a la Comisión de Adultos Mayores:
+Corresponde a la Comisión de las Personas Adultas Mayores:
 
-I.- Conocer y emitir resolutivos de los asuntos que le sean turnados en materia de atención y tutela de los derechos de los adultos mayores; y
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2022)</small>
+
+I. Conocer y emitir resolutivos de los asuntos que le sean turnados en materia de atención y tutela de las personas adultas mayores; y
 
 II.- Las demás que le sean conferidas por el Pleno del Congreso y la Diputación Permanente.
 
@@ -659,7 +663,9 @@ II.- Las demás que le sean conferidas por el Pleno del Congreso y la Diputació
 
 Corresponde a la Comisión de Desarrollo Social y Humano:
 
-I.- Conocer y emitir resolutivos de los asuntos que le sean turnados relacionados con el combate a la pobreza y protección a los grupos vulnerables, con énfasis en atención a mujeres, niños, discapacitados, adultos mayores, indígenas y demás grupos marginados, para el mejoramiento de las condiciones de vida y bienestar de la población; y
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2022)</small>
+
+I.- Conocer y emitir resolutivos de los asuntos que le sean turnados relacionados con el combate a la pobreza y protección a los grupos vulnerables, con énfasis en atención a mujeres, niños, discapacitados, personas adultas mayores, indígenas y demás grupos marginados, para el mejoramiento de las condiciones de vida y bienestar de la población; y
 
 II.- Las demás que le sean conferidas por el Pleno del Congreso y la Diputación Permanente.
 
@@ -1604,3 +1610,9 @@ P.O. 17 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO. 417 QUE ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO".]
 
 ÚNICO. Envíese el presente Decreto al Ejecutivo para su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 23 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 192 QUE REFORMA LA FRACCIÓN XXVIII DEL ARTÍCULO 77 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO; ASÍ COMO, EL PRIMER PÁRRAFO Y, LA FRACCIÓN I, DEL ARTÍCULO 53 Y, LA FRACCIÓN I, DEL ARTÍCULO 54, AMBOS DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
