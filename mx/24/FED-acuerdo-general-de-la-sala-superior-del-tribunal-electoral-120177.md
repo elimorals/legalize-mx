@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-la-sala-superior-del-tribunal-electoral-1201
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-03-16"
-last_updated: "2017-03-16"
+last_updated: "2022-05-23"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120177&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,9 +18,11 @@ scjn_last_update: "2022-05-23"
 ---
 # ACUERDO GENERAL DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION NUMERO 2/2017, DE NUEVE DE MARZO DE DOS MIL DIECISIETE, RELATIVO AL REGISTRO Y TURNO DE LOS ASUNTOS PRESENTADOS ANTE LAS SALAS DE ESTE ORGANO JURISDICCIONAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL 2/2022 DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, POR EL QUE SE EMITEN LOS LINEAMIENTOS PARA EL TURNO ALEATORIO DE LOS MEDIOS DE IMPUGNACIÓN, PUBLICADO EN EL D.O.F. DE 23 DE MAYO DE 2022, EL PRESENTE ACUERDO QUEDA SIN EFECTOS.]</small>
+
 ACUERDO GENERAL DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN NÚMERO 2/2017, DE NUEVE DE MARZO DE DOS MIL DIECISIETE, RELATIVO AL REGISTRO Y TURNO DE LOS ASUNTOS PRESENTADOS ANTE LAS SALAS DE ESTE ÓRGANO JURISDICCIONAL.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2022 (SIN EFECTOS).
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 16 de marzo de 2017.
 
@@ -107,3 +109,17 @@ SEGUNDO. Para su debido conocimiento y cumplimiento, publíquese en el Diario Of
 Así lo acordaron, por unanimidad de votos las Magistradas y los Magistrados que integran la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación. La Secretaria General de Acuerdos autoriza y da fe.
 
 La Magistrada Presidenta, Janine M. Otálora Malassis.- Rúbrica.- Los Magistrados: Felide de la Mata Pizaña, Felipe Alfredo Fuentes Barrera, Indalfer Infante Gonzales, Reyes Rodríguez Mondragón, Mónica Aralí Soto Fregoso, José Luis Vargas Valdez.- Rúbricas.- La Secretaria General de Acuerdos, María Cecilia Sánchez Barreiro.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. DE 23 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 2/2022 DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, POR EL QUE SE EMITEN LOS LINEAMIENTOS PARA EL TURNO ALEATORIO DE LOS MEDIOS DE IMPUGNACIÓN”.]
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de la publicación, en el Diario Oficial de la Federación, de la reforma a los artículos 70 y 71 del Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación, en materia de turno aleatorio.
+
+SEGUNDO. Queda sin efectos el ACUERDO GENERAL DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN NÚMERO 2/2017, DE NUEVE DE MARZO DE DOS MIL DIECISIETE, RELATIVO AL REGISTRO Y TURNO DE LOS ASUNTOS PRESENTADOS ANTE LAS SALAS DE ESTE ÓRGANO JURISDICCIONAL, así como cualquier disposición incompatible con las reglas establecidas en este acuerdo.
+
+TERCERO. Para su debido conocimiento, publíquese en el Diario Oficial de la Federación, en los estrados de las salas del Tribunal Electoral del Poder Judicial de la Federación, así como en las páginas institucionales de Internet e Intranet de este Tribunal Electoral.
+
+Así, por unanimidad de votos, lo acordaron las magistradas y los magistrados que integran la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, el trece de mayo de dos mil veintidós, ante la subsecretaria general de acuerdos, quien autoriza y da fe.
