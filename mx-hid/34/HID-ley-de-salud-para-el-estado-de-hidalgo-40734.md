@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2022-03-28"
+last_updated: "2022-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -538,6 +538,8 @@ VI. Las demás que, directa o indirectamente contribuyan a tratar la infertilida
 > <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
 
 Artículo 142 Undecies 5.- El origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, no pueden ser motivo para impedir o anular el ejercicio de los derechos reproductivos de las parejas o personas con infertilidad. Lo anterior, a efecto de garantizar el respeto a los derechos humanos de las personas, así como a los preceptos señalados en la Carta de los Derechos Generales de los Pacientes.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2022)</small>
 
 ### CAPÍTULO II BIS. DE LAS INSTITUCIONES EDUCATIVAS QUE EXPENDAN ALIMENTOS
 
@@ -1563,7 +1565,69 @@ Artículo 142 Sexties.- La atención y tratamiento de los trastornos mentales de
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2018)</small>
 
-## TITULO CUARTO
+## TITULO TERCERO QUATER. ATENCIÓN MATERNO INFANTIL
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2022)</small>
+
+Artículo 142 Undecies 6.- La atención materno-infantil tiene carácter prioritario y comprende, entre otras, las siguientes acciones:
+
+I. La atención integral de la mujer durante el embarazo, el parto y el puerperio, incluyendo la atención psicológica que requiera;
+
+II. La prevención de la transmisión del VIH/Sida y otras infecciones de transmisión sexual, en mujeres embarazadas a fin de evitar la transmisión perinatal;
+
+III. La atención del niño y la vigilancia de su crecimiento y desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas;
+
+IV. La aplicación del tamiz neonatal ampliado;
+
+V. El diagnóstico oportuno y atención temprana de la displasia en el desarrollo de la cadera; y,
+
+VI. La atención de la salud visual, bucal, auditiva y mental.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2022)</small>
+
+Artículo 142 Undecies 7.- Toda mujer embarazada tiene derecho a obtener servicios de salud con estricto respeto de los derechos humanos, sin violencia ni discriminación y con perspectiva de género.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2022)</small>
+
+Artículo 142 Undecies 8.- En los Servicios de Salud se promoverá la organización institucional de Comités de Prevención de la Mortalidad Materna e Infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2022)</small>
+
+Artículo 142 Undecies 9.- La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, tutores o quienes ejerzan la patria potestad sobre ellos, el Estado y la sociedad en general.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2022)</small>
+
+Artículo 142 Undecies 10.- En la organización y operación de los Servicios de Salud destinados a la atención materno-infantil, las autoridades sanitarias estatales en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
+
+I. Acciones tendientes a fomentar la práctica de la lactancia materna, así como erradicar la discriminación hacia las mujeres que la realicen en vías y espacios públicos
+
+II. Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento;
+
+III. Acciones de ayuda alimentaria directa, tendiente a mejorar el estado nutricional materno infantil;
+
+IV. Al menos un banco de leche humana en el estado en alguno de los establecimientos de salud que cuente con servicios neonatales;
+
+V. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas en los menores de 5 años;
+
+VI. Acciones de capacitación para fortalecer la competencia técnica de las parteras tradicionales, para la atención del embarazo, parto y puerperio; y
+
+VII. Acciones para informar y posibilitar cuando la infraestructura lo permita, el acompañamiento de las mujeres embarazadas por una persona de su confianza y elección durante el trabajo de parto, parto y puerperio, incluyendo el procedimiento de cesárea, en las instituciones de salud públicas y privadas, las cuales deberán tomar las medidas de higiene y seguridad necesarias.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2022)</small>
+
+Artículo 142 Undecies 11.- La Secretaría de Salud impulsará la participación de los sectores social y privado, así como de la sociedad en general, para el fortalecimiento de los servicios de salud en materia de atención materno-infantil. Para tal efecto promoverá la creación de Redes de Apoyo a la Salud Materno Infantil, con la finalidad de facilitar el acceso a las mujeres embarazadas a información en la materia.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2022)</small>
+
+Artículo 142 Undecies 12.- Las autoridades sanitarias, educativas y laborales del Estado, en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
+
+I. Los programas para padres de familia destinados a promover la atención materno infantil;
+
+II. Las actividades recreativas, de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
+
+III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas; y,
+
+IV. Las demás que coadyuven a la protección de la salud materno- infantil.
 
 ### CAPITULO IV
 
@@ -1686,6 +1750,8 @@ VIII. Los demás que le confieran la normatividad aplicable.
 Artículo 142 Undecies.- En casos de urgencia médica y que exista incapacidad de las personas con enfermedades raras no infecto-contagiosas crónicas o crónico-degenerativas y de las personas enfermas en situación terminal, para expresar su consentimiento, y en ausencia de familiares, representante legal, tutor o persona de confianza, la decisión de aplicar un procedimiento médico quirúrgico o tratamiento necesario, será tomada por dos integrantes del personal médico autorizado en términos de las disposiciones aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2021)</small>
+
+## TITULO CUARTO
 
 ## TITULO QUINTO. VIGILANCIA SANITARIA
 
@@ -2346,3 +2412,9 @@ P.O. 28 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 179 QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 16 QUÁTER DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 23 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 188 QUE SE REFORMA LA LEY DE SALUD PARA EL ESTADO DE HIDALGO Y LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
