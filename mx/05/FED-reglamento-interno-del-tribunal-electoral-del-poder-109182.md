@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-del-tribunal-electoral-del-poder-109182"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-07"
-last_updated: "2019-05-14"
+last_updated: "2022-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109182&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-08-03"
 
 REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2022.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de agosto de 2015.
 
@@ -1179,39 +1179,51 @@ Se eximirá de pago a las partes que aduzcan que las copias solicitadas se exhib
 
 ### CAPÍTULO I. De las Reglas de Turno
 
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2022)</small>
+
 ###### Artículo 70.
 
-De conformidad con lo previsto en los artículos 19, párrafo 1, inciso a), de la Ley General y 476, párrafo segundo de la Ley General de Instituciones, las Presidencias de las Salas, en el respectivo ámbito de competencia, turnarán de inmediato a las y los Magistrados Instructores los expedientes de los medios de impugnación o denuncias que sean promovidos y demás asuntos de su competencia para su sustanciación y formulación del proyecto de sentencia que corresponda, atendiendo a lo siguiente:
+De conformidad con lo previsto en los artículos 19, párrafo 1, inciso a), de la Ley General y 476, párrafo segundo de la Ley General de Instituciones, y los lineamientos que emita, mediante acuerdo general, el pleno de la Sala Superior, las presidencias de las salas, en su respectivo ámbito de competencia, turnarán de inmediato a las magistraturas instructoras los expedientes de los medios de impugnación o denuncias que sean promovidos y demás asuntos de su competencia para su sustanciación y formulación del proyecto de sentencia que corresponda, atendiendo a lo siguiente:
 
-I. Los asuntos se turnarán mediante acuerdo de su Presidencia entre las y los Magistrados que la integran, en riguroso orden alfabético de apellidos, en orden cronológico y sucesivo de presentación de cada tipo de medio de impugnación o denuncia, conforme con la fecha y hora de su recepción del escrito u oficio de remisión en la Oficialía de Partes de la Sala respectiva;
+I. Los asuntos se turnarán de forma aleatoria mediante acuerdo de su presidencia entre las magistraturas que la integran, en orden de presentación de cada tipo de medio de impugnación o denuncia, conforme con la fecha y hora de su recepción del escrito u oficio de remisión en la Oficialía de Partes de la sala respectiva;
 
-II. Cuando se advierta que entre dos o más juicios, recursos o denuncias existe conexidad en la causa, por estarse controvirtiendo el mismo acto o resolución, o bien, se aduzca respecto de actos o resoluciones similares, una misma pretensión y causa de pedir, y por economía procesal se considere conveniente su estudio en una misma Ponencia, la Presidencia de la Sala respectiva turnará el o los expedientes a la o el Magistrado que haya sido instructor en el primero de ellos, sin que proceda compensación, salvo que por su número, urgencia o complejidad se estime conveniente que deba turnarse conforme lo previsto en la fracción inmediata anterior;
+II. Cuando se advierta que entre dos o más juicios, recursos o denuncias existe conexidad en la causa, porque se controvierte el mismo acto o resolución, o bien, se aduzca respecto de actos o resoluciones similares, una misma pretensión y causa de pedir, y por economía procesal se considere conveniente su estudio en una misma ponencia, la presidencia de la sala respectiva turnará el o los expedientes a la magistratura que haya sido instructora en el primero de ellos, sin que proceda compensación, salvo que por su número, urgencia o complejidad se estime conveniente que deba turnarse conforme lo previsto en la fracción inmediata anterior;
 
-III. De los juicios de revisión constitucional electoral relacionados con el resultado final y validez de las elecciones de Gubernaturas y de Jefatura de Gobierno del Distrito Federal, se llevará un registro de turno independiente en orden alfabético, exceptuando a quien ya hubiera instruido un asunto de tales características, en cuyo caso, el expediente se deberá turnar a la o el Magistrado que siga de acuerdo al orden indicado;
+III. De los juicios o recursos relacionados con el resultado final y validez de las elecciones de gubernaturas y de la Jefatura de Gobierno de la Ciudad de México, se llevará un registro independiente de turno aleatorio, que se ajustará a lo dispuesto en la fracción I;
 
-IV. Los expedientes de contradicción de criterios y de solicitud de ejercicio de facultad de atracción, se turnarán entre las y los Magistrados integrantes de la Sala Superior, en riguroso orden alfabético de apellidos y en orden cronológico y sucesivo de presentación, salvo que la o el Magistrado a quien corresponda el conocimiento haya sido quien formuló la denuncia de probable contradicción o solicitó el ejercicio de la facultad de atracción, casos en los cuales el asunto se deberá turnar a la o el Magistrado que siga en orden alfabético;
+De igual forma, se llevará un registro independiente de turno aleatorio, tratándose de medios de impugnación relacionados con la asignación de diputaciones locales por el principio de representación proporcional;
 
-V. Los asuntos en los cuales la Sala Superior haya determinado ejercer la facultad de atracción se turnarán en riguroso orden alfabético de apellidos y en orden cronológico y sucesivo de remisión de cada juicio o recurso, salvo que la o el Magistrado a quien corresponda el conocimiento haya sido Ponente en la solicitud respectiva, en cuyo caso el asunto deberá turnarse a la o el Magistrado que siga en el orden alfabético;
+IV. Los expedientes de contradicción de criterios y de solicitud de ejercicio de facultad de atracción, se turnarán entre las magistraturas integrantes de la Sala Superior, de forma aleatoria y en orden cronológico y sucesivo de presentación. En el caso de que una magistratura de Sala Superior sea quien formuló la denuncia de probable contradicción o solicitó el ejercicio de la facultad de atracción, no se le considerará para efectos del turno;
 
-VI. En caso de ausencia de alguna o algún Magistrado con motivo del cumplimiento de una comisión oficial, licencia o por el disfrute de alguno de los periodos vacacionales a que se refiere el artículo 223 de la Ley Orgánica, y si dicha ausencia no es mayor de una semana calendario, se continuará con el turno habitual de expedientes a su Ponencia, salvo en casos urgentes. En caso de exceder el lapso mencionado, se le suspenderá el turno durante la semana anterior al inicio de la ausencia y se reanudará en la semana previa a su regreso;
+V. Los asuntos en los cuales la Sala Superior haya determinado ejercer la facultad de atracción se turnarán de forma aleatoria;
 
-VII. En caso de que alguna o algún Magistrado se ausente de sus funciones, en atención a los plazos electorales y por acuerdo de la Presidencia de la Sala respectiva, se podrán returnar los expedientes de su Ponencia a otra para que se continúe su sustanciación, hasta en tanto se reincorpore a sus actividades la o el Magistrado designado originalmente. Para estos efectos, se seguirá rigurosamente el mismo orden de asignación previsto en la fracción I;
+VI. En caso de ausencia de alguna magistratura con motivo de una licencia o por el disfrute de alguno de los periodos vacacionales a que se refiere el artículo 204 de la Ley Orgánica, y si dicha ausencia no es mayor de una semana calendario, se continuará con el turno habitual de expedientes a su ponencia, salvo en casos urgentes. En caso de exceder el lapso mencionado, se le suspenderá el turno durante la semana anterior al inicio de la ausencia y se reanudará en la semana previa a su regreso.
 
-VIII. En los casos de cumplimiento de sentencia, de cualquier promoción o incidente posterior a la fecha de la sentencia, relacionadas con el expediente, el turno corresponderá a la o el Magistrado Ponente. Si en los supuestos anteriores, la o el Magistrado respectivo se encontrara ausente y la urgencia del asunto lo amerite, el turno se hará en términos de la fracción I;
+Cuando se reciba un medio de impugnación vinculado con uno diverso, previamente turnado a la ponencia de una magistratura que se encuentre suspendido en el turno, por economía procesal, con independencia de dicha suspensión, el asunto se turnará conforme lo previsto en la fracción II de este artículo. Esto, salvo que se trate de algún asunto que, por su urgencia, deba de resolverse a la brevedad.
+
+Se entiende por casos o asuntos urgentes los que tengan término perentorio, o bien causen definitividad o algún daño irreparable;
+
+VII. En caso de que alguna magistratura se ausente de sus funciones, en atención a los plazos electorales y por acuerdo de la presidencia de la sala respectiva, se podrán turnar los expedientes de su ponencia a otra para que se continúe su sustanciación, hasta en tanto se reincorpore a sus actividades la magistratura designada originalmente. Para estos efectos, se seguirá el turno aleatorio previsto en la fracción I;
+
+VIII. En los casos de cumplimiento de sentencia, de cualquier promoción o incidente posterior a la fecha de la sentencia, relacionadas con el expediente, el turno corresponderá a la magistratura ponente o a quien hubiera realizado el engrose respectivo. Si en los supuestos anteriores, la magistratura respectiva se encuentra o estará ausente y la urgencia del asunto lo amerita, el turno se hará en términos de la fracción I;
 
 IX. En caso de que se impugnen actos o resoluciones emitidas con motivo de una sentencia del Tribunal Electoral, el turno se efectuará conforme a las reglas establecidas en la fracción I, salvo que algún incidente respecto del cumplimiento de la sentencia de fondo esté pendiente de resolución y resulte aplicable lo previsto en la fracción II;
 
-X. Los asuntos en los cuales se ordene el cambio de vía del medio impugnativo y la competencia se surta a favor de la misma Sala, serán turnados a la o el Magistrado que haya fungido como Ponente en el expediente primigenio;
+X. Los asuntos en los cuales se ordene el cambio de vía del medio impugnativo y la competencia se surta a favor de la misma Sala, serán turnados a la magistratura que haya fungido como ponente en el expediente primigenio, salvo cuando el cambio de vía tenga como efecto ordenar la apertura de un incidente relacionado con el cumplimiento de una sentencia, en cuyo caso se estará a lo señalado en la fracción VIII;
 
-XI. Los expedientes integrados con motivo de un acuerdo de escisión, se turnarán a la o el Magistrado Instructor en el asunto en que se haya dictado el acuerdo mencionado, salvo que la escisión tenga como efecto ordenar la apertura de un incidente relacionado con el cumplimiento de una sentencia, en cuyo caso se estará a lo señalado en la fracción VIII;
+XI. Los expedientes integrados con motivo de un acuerdo de escisión, se turnarán a la magistratura instructora en el asunto en que se haya dictado el acuerdo mencionado, salvo que la escisión tenga como efecto ordenar la apertura de un incidente relacionado con el cumplimiento de una sentencia, en cuyo caso se estará a lo señalado en la fracción VIII;
 
-XII. El orden en el turno de expedientes se podrá modificar en razón del equilibrio en las cargas de trabajo o cuando la naturaleza de los asuntos así lo requiera, conforme a las reglas que dicte la Sala Superior mediante Acuerdo General; y
+XII. En los casos de recepción masiva de medios de impugnación, el turno se realizará de forma aleatoria. La totalidad de los medios de impugnación serán distribuidos de forma equitativa de manera que se distribuyan las cargas de trabajo de manera eficiente entre las magistraturas;
 
-XIII. En los casos de impedimentos y excusas, las reglas del turno se regularán a través del Acuerdo General que emita la Sala Superior, en términos de la Ley Orgánica.
+XIII. En los casos de impedimento y excusas, el turno se asignará de forma aleatoria. El sistema de turno aleatorio no considerará a la magistratura que presentó la excusa o respecto de quien se solicitó el impedimento; y
+
+XIV. En los casos de algún returno, derivado del rechazo de algún proyecto de resolución, deberá realizarse el turno aleatorio sin considerar a la magistratura instructora de la propuesta rechazada, ni a las y los integrantes del pleno que, en su caso, hubiesen votado a favor de esa propuesta.
+
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2022)</small>
 
 ###### Artículo 71.
 
-Los escritos de los medios de impugnación recibidos en las Salas del Tribunal Electoral sin el trámite previsto en los artículos 17 y 18 de la Ley General, previa integración y registro del expediente respectivo, se turnarán conforme a las reglas previstas en el artículo 70 de este Reglamento, para que la o el Magistrado correspondiente determine el trámite que en derecho proceda.
+La presidencia de las salas del Tribunal Electoral turnará los medios de impugnación recibidos en sus oficialías de partes y, en los casos que no se cuente con el trámite previsto en los artículos 17 y 18 de la Ley General, lo requerirán.
 
 ### CAPÍTULO II. De los Requerimientos
 
@@ -4014,3 +4026,13 @@ Respecto de los servidores públicos cuya obligación hubiere iniciado antes de 
 CUARTO. Se instruye a la Secretaría Administrativa del Tribunal Electoral del Poder Judicial de la Federación para que realice todas las gestiones necesarias para proveer los recursos humanos, materiales, tecnológicos y financieros para la implementación de la presente reforma, atendiendo a la disponibilidad presupuestal, debiendo informar a la Comisión de Administración sobre el cumplimiento de esta instrucción.
 
 QUINTO. Para su difusión publíquese en las páginas de Intranet e Internet del Tribunal Electoral del Poder Judicial de la Federación.
+
+D.O.F. 23 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LAS “ACTA DE SESIÓN PRIVADA DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, MEDIANTE LA QUE SE ACORDÓ RESPECTO DE LA REFORMA AL REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, EN MATERIA DE TURNO ALEATORIO”.]
+
+PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a las presentes reformas.
+
+TERCERO. Publicar las reformas al Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación en el Diario Oficial de la Federación.
