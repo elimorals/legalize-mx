@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2021-06-15"
+last_updated: "2022-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -251,9 +251,9 @@ Acompañarán al escrito a que se refiere el Artículo 26 de este ordenamiento, 
 
 I.- Acta de nacimiento de los presuntos cónyuges, constancia de identificación personal y en su defecto, un dictamen médico que compruebe su edad expedido por una institución pública, cuando por su aspecto sea notorio que alguno de los contrayentes sea menor de dieciocho años;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2022)</small>
 
-II.- Certificado médico expedido por una institución pública, especificando no padecer enfermedad de riesgo, contagiosa, crónica degenerativa e incurable;
+II.- Certificado médico expedido por una institución pública.
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -339,7 +339,7 @@ VI.- Los sellos correspondientes;
 
 VII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
-VIII.- El resultado de los certificados médicos a que se refiere el Artículo 28 fracción II de este ordenamiento; y
+VIII.- (DEROGADA, P.O. 23 DE MAYO DE 2022)
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -3444,3 +3444,9 @@ P.O. 15 DE JUNIO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. El Ejecutivo del Estado, cuenta con 180 días a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones reglamentarias y administrativas, a fin de establecer e iniciar la operación del Registro de Deudoras y Deudores Alimentarios Morosos.
+
+P.O. 23 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 190 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
