@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-premios-que-otorga-el-congreso-del-estado-de-57668"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2022-04-04"
+last_updated: "2022-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -297,6 +297,28 @@ Una vez aprobados los dictámenes por el Pleno, los acuerdos respectivos serán 
 
 El Congreso del Estado, por sí o a propuesta de la Comisión de Postulaciones, podrá declarar desierto uno o varios de los premios.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2022)</small>
+
+### CAPÍTULO V. Del Reconocimiento a las Legisladoras
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2022)</small>
+
+###### ARTÍCULO 21.
+
+El Congreso reconocerá la entrega, oficio, trayectoria y dedicación de todas aquellas Diputadas integrantes del Poder Legislativo del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2022)</small>
+
+###### ARTÍCULO 22.
+
+El reconocimiento a las Legisladoras, consistirá en colocar su fotografía y nombre en el salón ubicado en el lado poniente del Vestíbulo del inmueble sede del Poder Legislativo, al cual, se le denomina "SALON LEGISLADORAS".
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2022)</small>
+
+###### ARTÍCULO 23.
+
+El reconocimiento mencionado en el artículo anterior, se realizará únicamente en el primer año de ejercicio constitucional de la Legislatura correspondiente, en un evento que será convocado para el día ocho de marzo.
+
 TRANSITORIOS:
 
 ###### ARTÍCULO PRIMERO.
@@ -392,3 +414,15 @@ P.O. 4 DE ABRIL DE 2022.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 126.- SE ADICIONA UN CAPÍTULO V DENOMINADO "DEL RECONOCIMIENTO A LAS LEGISLADORAS" Y SE ADICIONAN LOS ARTÍCULOS 21, 22 Y 23 A LA LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Durante la Sexagésima Quinta Legislatura el reconocimiento señalado en el presente Decreto se realizará el 8 de marzo de 2023
