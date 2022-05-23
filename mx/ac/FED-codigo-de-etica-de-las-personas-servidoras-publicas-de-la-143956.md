@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-etica-de-las-personas-servidoras-publicas-de-la-14395
 country: "mx"
 rank: "codigo"
 publication_date: "2020-09-02"
-last_updated: "2020-09-02"
+last_updated: "2022-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143956&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2020-08-13"
 
 CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA FISCALÍA GENERAL DE LA REPÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2022 (ABROGADO).
 
 Código publicado en el Diario Oficial de la Federación, el miércoles 2 de septiembre de 2020.
 
@@ -244,3 +244,17 @@ TERCERO. Una vez concluidos los asuntos que se refiere el numeral anterior, se p
 CUARTO. Las personas Titulares de las Unidades Administrativas de la Fiscalía General de la República deberán establecer las medidas necesarias y pertinentes para dar debido cumplimiento a lo establecido en el presente Acuerdo.
 
 Ciudad de México, a 13 de agosto de 2020.- El Titular del Órgano Interno de Control de la Fiscalía General de la República, Arturo Serrano Meneses.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 23 DE MAYO DE 2022.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Con la publicación del presente Acuerdo se abroga el Código de Ética, publicado en el Diario Oficial de la Federación el 2 de septiembre de 2020.
+
+TERCERO. Las personas servidoras públicas Titulares de las Unidades Administrativas de la Fiscalía General de la República deberán establecer las medidas necesarias y pertinentes para dar debido cumplimiento a lo establecido en el presente Acuerdo.
+
+CUARTO. Los asuntos que se encuentren en trámite, iniciados previo a la entrada en vigor del presente Acuerdo, serán resueltos por el Comité de Ética que conoció de dichos asuntos.
+
+QUINTO. La Fiscalía General de la República realizará las gestiones necesarias para que se emita un Código de Conducta para las personas servidoras públicas de la Fiscalía General de la República, en el que se especificará de manera puntual y concreta la forma en que se aplicarán los principios, valores y Reglas de Integridad para el ejercicio de la Procuración de Justicia contenidas en el presente Código de Ética.
