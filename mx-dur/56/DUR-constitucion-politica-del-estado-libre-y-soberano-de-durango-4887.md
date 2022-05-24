@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2022-05-05"
+last_updated: "2022-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2022.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -159,7 +159,9 @@ El ejercicio de este derecho sólo puede estar sujeto a las restricciones previs
 
 ###### Artículo 11.
 
-Los servidores públicos estatales y municipales respetarán el ejercicio del derecho de petición, siempre que se formule por escrito, de manera pacífica y respetuosa.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Las y los servidores públicos estatales y municipales respetarán el ejercicio del derecho de petición, siempre que se formule por escrito, de manera pacífica y respetuosa.
 
 La autoridad a quien se haya formulado está obligada a recibir y dar respuesta a toda petición, de manera motivada y fundada, dentro del término que señale la ley y que en ningún caso excederá de treinta días hábiles, contados a partir de la fecha en que se presentó la solicitud.
 
@@ -797,17 +799,25 @@ Son duranguenses:
 
 I. Las personas nacidas en el Estado de Durango.
 
-II. Los mexicanos que tengan una residencia mínima de cinco años en el Estado.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
 
-III. Los mexicanos hijos de padre o madre duranguense, nacidos en otra entidad federativa o en el extranjero.
+II. Las o los mexicanas o mexicanos que tengan una residencia mínima de cinco años en el Estado.
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+
+III. Las o los mexicanas o mexicanos hijos de padre o madre duranguense, nacidos en otra entidad federativa o en el extranjero.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 55.
 
-Son ciudadanos del Estado los Duranguenses que hayan cumplido dieciocho años de edad.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
-La calidad de ciudadano duranguense se pierde por:
+Son ciudadanas o ciudadanos del Estado los Duranguenses que hayan cumplido dieciocho años de edad.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
+
+La calidad de ciudadana o ciudadano duranguense se pierde por:
 
 I. Sentencia condenatoria que imponga esa pena.
 
@@ -815,7 +825,9 @@ II. Solicitar la ciudadanía de otro Estado.
 
 III. Cualesquiera de las causas de pérdida de la ciudadanía mexicana establecidas en la Constitución Política de los Estados Unidos Mexicanos.
 
-Los derechos de los Ciudadanos duranguenses se suspenden:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
+
+Los derechos de las o los ciudadanas o ciudadanos duranguenses se suspenden:
 
 I. Por no dar debido cumplimiento a las obligaciones que impone el artículo 57 de esta Constitución, salvo causa justificada. Esta suspensión durará un año y se impondrá además de las otras penas que por el mismo medio señale la ley.
 
@@ -871,7 +883,9 @@ VI. Ser promotores de la cultura de legalidad del Estado.
 
 Toda persona que permanente o transitoriamente, se encuentre en el territorio duranguense, tiene obligación de acatar y cumplir sus leyes y las disposiciones de sus autoridades, así como de prestar auxilio a los funcionarios cuando para ello sea legalmente requerida.
 
-Los extranjeros que se encuentren en el territorio del Estado tendrán los mismos derechos y obligaciones que los duranguenses, de acuerdo con la presente Constitución.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Las y los extranjeros que se encuentren en el territorio del Estado tendrán los mismos derechos y obligaciones que las y los duranguenses, de acuerdo con la presente Constitución.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -949,11 +963,15 @@ El Escudo e Himno de Durango deben estar vinculados a la identidad duranguense, 
 
 ###### Artículo 63.
 
-Las elecciones de Gobernador del Estado, diputados, e integrantes de los ayuntamientos se realizarán mediante sufragio universal, libre, secreto y directo. La jornada comicial tendrá lugar el primer domingo de junio del año que corresponda.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Las elecciones de Gobernador o Gobernadora del Estado, diputados y diputadas, e integrantes de los ayuntamientos se realizarán mediante sufragio universal, libre, secreto y directo. La jornada comicial tendrá lugar el primer domingo de junio del año que corresponda.
 
 Los tiempos de campañas no deberán exceder de sesenta días, la ley fijará su duración; las precampañas no podrán prolongarse más de las dos terceras partes de las respectivas campañas electorales.
 
-Los partidos políticos tendrán derecho a postular candidaturas comunes para la elección de gobernador, diputados de mayoría y planillas de ayuntamientos.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Los partidos políticos tendrán derecho a postular candidaturas comunes para la elección de gobernador o gobernadora, diputados y diputadas de mayoría y planillas de ayuntamientos.
 
 La ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos locales que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado o los municipios, según corresponda; en el caso del financiamiento público a partidos nacionales, debe reintegrarse al Estado el patrimonio adquirido con financiamiento público estatal, reportándolo en la rendición de cuentas al Instituto Nacional Electoral.
 
@@ -963,7 +981,9 @@ La organización, preparación, desarrollo y vigilancia de los procesos electora
 
 Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos, en los términos que expresamente señalen la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables.
 
-Los ciudadanos duranguenses tienen el derecho de estar representados en todos los organismos que tengan a su cargo funciones electorales y de participación ciudadana.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Las y los ciudadanas y ciudadanos duranguenses tienen el derecho de estar representados en todos los organismos que tengan a su cargo funciones electorales y de participación ciudadana.
 
 La ley tipificará los delitos en materia electoral y determinará las penas que por ellos se impongan.
 
@@ -971,7 +991,9 @@ La ley tipificará los delitos en materia electoral y determinará las penas que
 
 ###### Artículo 64.
 
-Los servidores públicos estatales y municipales, en el ámbito de sus competencias y con sujeción a la ley, garantizarán la libertad del sufragio y la imparcialidad en el uso de los recursos públicos; y estarán obligados a abstenerse de participar para influir en la equidad de la competencia entre los partidos políticos.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Las y los servidores públicos estatales y municipales, en el ámbito de sus competencias y con sujeción a la ley, garantizarán la libertad del sufragio y la imparcialidad en el uso de los recursos públicos; y estarán obligados a abstenerse de participar para influir en la equidad de la competencia entre los partidos políticos.
 
 El incumplimiento en que incurra cualquier servidor público dará lugar a la aplicación de las sanciones previstas por la ley.
 
@@ -995,9 +1017,13 @@ El Estado promoverá la representación paritaria de mujeres y hombres en los ca
 
 El Congreso del Estado, representa al pueblo duranguense y ejerce las funciones del Poder legislativo.
 
-El Congreso del Estado se compondrá de veinticinco diputados electos en su totalidad cada tres años en los términos de esta Constitución y de la ley, los diputados integrarán legislaturas. Por cada Diputado propietario se elegirá un suplente.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
-De los veinticinco diputados, quince serán electos bajo el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, y diez bajo el principio de representación proporcional, mediante listas votadas en la circunscripción plurinominal que corresponderá a la totalidad del territorio del Estado.
+El Congreso del Estado se compondrá de veinticinco diputadas y diputados electos en su totalidad cada tres años en los términos de esta Constitución y de la ley, los diputados integrarán legislaturas. Por cada Diputado propietario se elegirá un suplente.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+De los veinticinco diputadas y diputados, quince serán electos bajo el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, y diez bajo el principio de representación proporcional, mediante listas votadas en la circunscripción plurinominal que corresponderá a la totalidad del territorio del Estado.
 
 Ningún partido político podrá contar con más de quince diputados asignados por los dos principios de representación a que se refiere el párrafo anterior.
 
@@ -1015,7 +1041,9 @@ La determinación de los distritos electorales locales y su división en seccion
 
 ###### Artículo 68.
 
-La elección de los diputados de representación proporcional, se llevará a cabo mediante el sistema de listas votadas en la circunscripción plurinominal que corresponderá a la totalidad del territorio del Estado; la cual deberá sujetarse a lo que disponga la legislación electoral, de conformidad con las siguientes bases:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
+
+La elección de las y los diputadas y diputados de representación proporcional, se llevará a cabo mediante el sistema de listas votadas en la circunscripción plurinominal que corresponderá a la totalidad del territorio del Estado; la cual deberá sujetarse a lo que disponga la legislación electoral, de conformidad con las siguientes bases:
 
 I. Para obtener la inscripción de sus listas, el partido político que lo solicite, deberá acreditar que tiene su registro y que participa con candidatos a diputados por mayoría relativa en por lo menos once distritos electorales uninominales.
 
@@ -1027,11 +1055,15 @@ II. Tendrá derecho a que le sean asignados diputados electos según el principi
 
 ###### Artículo 69.
 
-Para ser Diputado se requiere:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
 
-I. Ser ciudadano duranguense por nacimiento, con residencia efectiva de tres años al día de la elección, o ciudadano duranguense con residencia efectiva dentro del territorio del Estado que no sea menor de cinco años inmediatamente anteriores al día de la elección, en pleno ejercicio de sus derechos políticos y civiles.
+Para ser Diputada o Diputado se requiere:
 
-Los duranguenses que tengan la calidad de migrantes, no requerirán de la residencia efectiva dentro del territorio del Estado prevista en esta fracción. La ley establecerá los requisitos para ser considerado duranguense migrante.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+
+I. Ser ciudadana o ciudadano duranguense por nacimiento, con residencia efectiva de tres años al día de la elección, o ciudadano duranguense con residencia efectiva dentro del territorio del Estado que no sea menor de cinco años inmediatamente anteriores al día de la elección, en pleno ejercicio de sus derechos políticos y civiles.
+
+Las y los duranguenses que tengan la calidad de migrantes, no requerirán de la residencia efectiva dentro del territorio del Estado prevista en esta fracción. La ley establecerá los requisitos para ser considerado duranguense migrante.
 
 II. Saber leer y escribir.
 
@@ -1043,43 +1075,45 @@ V. No ser Ministro de algún culto religioso.
 
 VI. No haber sido condenado por la comisión de delito doloso.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
 ###### Artículo 70.
 
-Los diputados podrán ser electos de manera consecutiva hasta por cuatro periodos sucesivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Las y los diputados podrán ser electos de manera consecutiva hasta por cuatro periodos sucesivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 71.
 
-Los diputados son inviolables por las opiniones que manifiesten en el desempeño de sus cargos y jamás podrán ser reconvenidos por ellas. Sin embargo, se podrá proceder penalmente contra un miembro de la Legislatura, en el caso de delitos considerados como graves por las leyes.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Las y los diputados son inviolables por las opiniones que manifiesten en el desempeño de sus cargos y jamás podrán ser reconvenidos por ellas. Sin embargo, se podrá proceder penalmente contra un miembro de la Legislatura, en el caso de delitos considerados como graves por las leyes.
 
 El Presidente del Congreso velará por el respeto al fuero de sus miembros y por la inviolabilidad del recinto en donde se reúnan a sesionar.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
 ###### Artículo 72.
 
-Los diputados durante el periodo de su encargo, no pueden desempeñar ninguna otra comisión o empleo de la Federación, del Estado o de los municipios, por el cual se disfrute sueldo, se exceptúa de esta prohibición los cargos o comisiones de oficio y de índole docente y científica. La infracción de esta disposición será castigada con la pérdida del carácter de Diputado.
+Las y los diputados durante el periodo de su encargo, no pueden desempeñar ninguna otra comisión o empleo de la Federación, del Estado o de los municipios, por el cual se disfrute sueldo, se exceptúa de esta prohibición los cargos o comisiones de oficio y de índole docente y científica. La infracción de esta disposición será castigada con la pérdida del carácter de Diputada o Diputado.
 
-Los diputados no pueden celebrar contrato alguno con el Estado, ni obtener concesión de bienes públicos que implique privilegio. No podrán intervenir como directores, administradores o gerentes de empresas que contraten con el Estado obras, suministros o prestación de servicios públicos. La infracción a esta prohibición será castigada en los términos de la ley.
+Las Diputadas y los Diputados no pueden celebrar contrato alguno con el Estado, ni obtener concesión de bienes públicos que implique privilegio. No podrán intervenir como directores, administradores o gerentes de empresas que contraten con el Estado obras, suministros o prestación de servicios públicos. La infracción a esta prohibición será castigada en los términos de la ley.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
 ###### Artículo 73.
 
-Los diputados que no concurran a una sesión del Pleno o de alguna Comisión, sin causa justificada o sin permiso del Congreso del Estado, no tendrán derecho a la remuneración correspondiente al día en que falten.
+Las Diputadas y los Diputados que no concurran a una sesión del Pleno o de alguna Comisión, sin causa justificada o sin permiso del Congreso del Estado, no tendrán derecho a la remuneración correspondiente al día en que falten.
 
-Los diputados que sin licencia dejen de concurrir injustificadamente por más de tres sesiones consecutivas, quedarán suspendidos de su encargo definitivamente.
+Las Diputadas y los Diputados que sin licencia dejen de concurrir injustificadamente por más de tres sesiones consecutivas, quedarán suspendidos de su encargo definitivamente.
 
-La falta absoluta de algún Diputado propietario y de su respectivo suplente, se cubrirá: en el caso de los de mayoría relativa, el Congreso del Estado convocará a elecciones extraordinarias en los términos de esta Constitución, siempre que esta circunstancia no ocurra dentro del último año de ejercicio constitucional; en el caso de los diputados de representación proporcional la ausencia será cubierta por la fórmula de candidatos del mismo partido que siga en el orden de la lista respectiva.
+La falta absoluta de algún Diputado o Diputada propietario y de su respectivo suplente, se cubrirá: en el caso de los de mayoría relativa, el Congreso del Estado convocará a elecciones extraordinarias en los términos de esta Constitución, siempre que esta circunstancia no ocurra dentro del último año de ejercicio constitucional; en el caso de los diputados de representación proporcional la ausencia será cubierta por la fórmula de candidatos del mismo partido que siga en el orden de la lista respectiva.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
 ###### Artículo 74.
 
-Los diputados representan los intereses de los ciudadanos; procurarán intervenir en la solución de los problemas que afecten a sus representados, promoviendo la realización de acciones que permitan el mejoramiento y desarrollo de las comunidades. Durante los periodos de receso, deberán, a los que les fuera confiado, atender las labores que les encomiende la Comisión Permanente.
+Las Diputadas y los Diputados representan los intereses de los ciudadanos; procurarán intervenir en la solución de los problemas que afecten a sus representados, promoviendo la realización de acciones que permitan el mejoramiento y desarrollo de las comunidades. Durante los periodos de receso, deberán, a los que les fuera confiado, atender las labores que les encomiende la Comisión Permanente.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1091,7 +1125,9 @@ El Congreso del Estado podrá trasladar su sede provisionalmente, cuando así lo
 
 ###### Artículo 76.
 
-El Congreso del Estado, a través de la Legislatura que corresponda, se instalará a partir del primero de septiembre del año de la elección para sesionar ordinariamente del primero de septiembre al 15 de diciembre y del quince de febrero al treinta y uno de mayo de cada año, funcionando en periodos extraordinarios cuando así lo convoque su Comisión Permanente, para tratar exclusivamente los asuntos que los motiven y se precisen en la convocatoria correspondiente. El Congreso del Estado deberá instalarse y sesionar con la concurrencia de la mayoría de los diputados que lo integran.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+El Congreso del Estado, a través de la Legislatura que corresponda, se instalará a partir del primero de septiembre del año de la elección para sesionar ordinariamente del primero de septiembre al 15 de diciembre y del quince de febrero al treinta y uno de mayo de cada año, funcionando en periodos extraordinarios cuando así lo convoque su Comisión Permanente, para tratar exclusivamente los asuntos que los motiven y se precisen en la convocatoria correspondiente. El Congreso del Estado deberá instalarse y sesionar con la concurrencia de la mayoría de las Diputadas y los Diputados que lo integran.
 
 Las sesiones serán públicas, con excepción de los casos señalados por la ley.
 
@@ -1109,11 +1145,17 @@ Dentro del primer periodo ordinario de sesiones que siga a la instalación de la
 
 ###### Artículo 78.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
+
 El derecho de iniciar leyes y decretos compete a:
 
-I. Los diputados.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
 
-II. El Gobernador del Estado.
+I. Las Diputadas y los diputados.
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+
+II. La Gobernadora o Gobernador del Estado.
 
 III. El Tribunal Superior de Justicia, en los asuntos relativos a su organización y funcionamiento.
 
@@ -1121,9 +1163,13 @@ IV. Los órganos constitucionales autónomos, en los asuntos relativos a su func
 
 V. Los municipios, en los asuntos relativos a la administración municipal.
 
-VI. Los ciudadanos duranguenses mediante iniciativa popular, en los términos que establezca la ley.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
 
-El Gobernador del Estado tiene derecho a presentar hasta tres iniciativas de carácter preferente durante cada año de ejercicio constitucional. Dichas iniciativas deben ser sometidas a discusión y votación en un periodo que no excederá de noventa días, de lo contrario, se tendrán por aprobadas en los términos presentados por el Ejecutivo, debiendo el Presidente del Congreso del Estado hacer la correspondiente declaratoria.
+VI. Las y los ciudadanos duranguenses mediante iniciativa popular, en los términos que establezca la ley.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+La Gobernadora o el Gobernador del Estado tiene derecho a presentar hasta tres iniciativas de carácter preferente durante cada año de ejercicio constitucional.
 
 No podrán incluirse como iniciativas preferentes las que modifiquen disposiciones constitucionales.
 
@@ -1175,6 +1221,8 @@ VI. Los decretos que contengan reformas a esta Constitución.
 
 ###### Artículo 82.
 
+> <small>(REFORMADO [N. DE E REPUBLICADO ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
+
 El Congreso del Estado tiene facultades para legislar en todo aquello que no esté expresamente establecido como atribución del Congreso de la Unión o alguna de sus cámaras; además tiene las siguientes:
 
 I. Hacendarias y de presupuesto:
@@ -1205,13 +1253,15 @@ f) Expedir las bases legales que señale cuales serán los supuestos en los que 
 
 II. De fiscalización, vigilancia y combate a la corrupción:
 
-a) Recibir la cuenta pública del Ejecutivo, los órganos constitucionales, autónomos y los ayuntamientos.
+a) Recibir la cuenta pública del Ejecutivo, los órganos constitucionales autónomos y los ayuntamientos.
 
 b) Revisar, discutir y aprobar, en su caso, con vista del informe que rinda la Entidad de Auditoría Superior del Estado, la cuenta pública que anualmente le presentarán, el Ejecutivo, los órganos constitucionales autónomos y los ayuntamientos del Estado, sobre sus respectivos ejercicios presupuestales.
 
 c) Coordinar y evaluar por medio de la Comisión correspondiente, el desempeño de las funciones de la Entidad de Auditoría Superior del Estado.
 
-d) Para citar a los secretarios del despacho del Ejecutivo, al Fiscal General, a los titulares de las entidades de la administración pública estatal o municipal, a los titulares de los organismos constitucionales autónomos y demás servidores públicos previstos en esta Constitución, para que emitan opinión cuando se discuta una ley o informen cuando se estudie cualquier asunto concerniente a sus respectivos ramos.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+d) Para citar a las personas titulares de las Secretarias de Despacho del Ejecutivo, a la persona titular de la Fiscalía General del Estado, a las personas titulares de las entidades de la administración pública estatal o municipal, a las personas titulares de los organismos constitucionales autónomos y demás servidores públicos previstos en esta Constitución, para que emitan opinión cuando se discuta una ley o informen cuando se estudie cualquier asunto concerniente a sus respectivos ramos.
 
 e) Citar, a solicitud de la Comisión de Derechos Humanos del Estado, a las autoridades o servidores públicos que no acepten o incumplan las recomendaciones de dicha Comisión, esto a fin de que comparezcan ante el Pleno Legislativo en sesión pública, a explicar el motivo de su negativa.
 
@@ -1257,19 +1307,33 @@ l) Designar, por el voto de las dos terceras partes de sus integrantes presentes
 
 III. De nombramiento y ratificación de servidores públicos:
 
-a) Nombrar al titular de la Entidad de Auditoría Superior del Estado, a los magistrados del Poder Judicial del Estado, a los consejeros y comisionados de los órganos constitucionales autónomos, y en su caso a los presidentes municipales sustitutos.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
-b) Ratificar al Fiscal General del Estado.
+a) Nombrar al titular de la Entidad de Auditoría Superior del Estado, a las magistradas y los magistrados del Poder Judicial del Estado, a las consejeras y los consejeros y comisionadas y comisionados de los órganos constitucionales autónomos, y en su caso a las y los presidentes municipales sustitutos.
 
-c) Designar a los magistrados electorales, mediante el procedimiento que establece la ley.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
-d) Proponer a los consejeros de la Judicatura, a que se refiere la fracción III del artículo 125 de esta Constitución.
+b) Ratificar a la persona titular de la Fiscalía General del Estado.
 
-e) Tomar protesta al Gobernador del Estado y a los servidores públicos que se determine en esta Constitución y en las leyes.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
-f) Resolver sobre las renuncias o licencias que presenten el Gobernador del Estado, los diputados, los magistrados y los comisionados y consejeros de los órganos constitucionales autónomos, en los términos de esta Constitución y de la ley.
+c) Designar a las magistradas y los magistrados electorales, mediante el procedimiento que establece la ley.
 
-g) Nombrar Gobernador del Estado Provisional, Interino o Substituto.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+d) Proponer a las consejeras y los consejeros de la Judicatura, a que se refiere la fracción III del artículo 125 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+e) Tomar protesta a la Gobernadora o Gobernador del Estado y a los servidores públicos que se determine en esta Constitución y en las leyes.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+f) Resolver sobre las renuncias o licencias que presenten la Gobernadora o el Gobernador del Estado, las diputadas y los diputados, las magistradas y los magistrados y las comisionadas y los comisionados, consejeras y consejeros de los órganos constitucionales autónomos, en los términos de esta Constitución y de la ley.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+g) Nombrar Gobernadora o Gobernador del Estado Provisional, Interino o Substituto.
 
 IV. En materia municipal:
 
@@ -1287,13 +1351,15 @@ d) Nombrar al Concejo Municipal, en el caso de declarar la desaparición de un A
 
 e) Intervenir en los casos de falta definitiva de los presidentes municipales, en los términos establecidos en la ley.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
+
 V. Otras facultades:
 
 a) Erigirse en Jurado de Acusación en los casos de presunta responsabilidad política y penal.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
-b) Ratificar al Fiscal General del Estado, al Secretario responsable del control interno del Ejecutivo del Estado y al Fiscal Especializado en Combate a la Corrupción con la aprobación de las dos terceras partes de los diputados presentes;
+b) Ratificar a las personas titulares de la Fiscalía General del Estado, a la persona titular de la Secretaria responsable del control interno del Ejecutivo del Estado y a la persona titular de la Fiscalía Especializada en Combate a la Corrupción con la aprobación de las dos terceras partes de las diputadas y los diputados presentes.
 
 c) Convocar a elecciones ordinarias y extraordinarias.
 
@@ -1301,11 +1367,13 @@ d) Cambiar provisionalmente, en caso necesario, la residencia de los poderes del
 
 e) Conceder distinciones u honores por servicios distinguidos prestados al Estado y la Nación, en los términos de la ley.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
-f) Integrar comisiones para investigar el funcionamiento de cualquier órgano de la administración pública estatal o municipal. Los resultados de las investigaciones se harán de conocimiento del Pleno del Congreso del Estado, y en su caso, del Gobernador del Estado y de los ayuntamientos, así como a la Entidad de Auditoría Superior del Estado y a la Fiscalía Especializada en Combate a la Corrupción, y podrán dar lugar a responsabilidades políticas o de otro tipo.
+f) Integrar comisiones para investigar el funcionamiento de cualquier órgano de la administración pública estatal o municipal. Los resultados de las investigaciones se harán de conocimiento del Pleno del Congreso del Estado, y en su caso, de la Gobernadora o Gobernador del Estado y de los ayuntamientos, así como a la Entidad de Auditoría Superior del Estado y a la Fiscalía Especializada en Combate a la Corrupción, y podrán dar lugar a responsabilidades políticas o de otro tipo.
 
-g) Autorizar al Gobernador del Estado para:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
+
+g) Autorizar a la Gobernadora o Gobernador del Estado para:
 
 1. Ausentarse del territorio estatal por más de treinta días.
 
@@ -1321,27 +1389,41 @@ j) Expedir la ley que regule el Centro Estatal de Conciliación Laboral en térm
 
 k) Las demás que le confieren la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución y las leyes.
 
-> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
 
-VI.- Durante los periodos de receso del Congreso, la representación del Poder Legislativo radicará en una Comisión Permanente, que se integrará por cinco diputados propietarios y sus respectivos suplentes.
+VI.- Durante los periodos de receso del Congreso, la representación del Poder Legislativo radicará en una Comisión Permanente, que se integrará por cinco diputados o diputadas propietarios y sus respectivos suplentes.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2017)</small>
 
 Dicha Comisión deberá nombrarse en la última sesión de un periodo ordinario, integrándose de la forma que establezca la ley y que fungirá durante todo el receso, aún cuando el Congreso funcione en periodos extraordinarios.
 
-Cada una de las formas de organización parlamentaria, y en su caso, diputado independiente, acreditarán un representante con voz ante la Comisión Permanente, la Ley Orgánica del Congreso determinará cuales de ellas tendrá derecho a voto.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Cada una de las formas de organización parlamentaria, y en su caso, diputada o diputado independiente, acreditarán un representante con voz ante la Comisión Permanente, la Ley Orgánica del Congreso determinará cuales de ellas tendrá derecho a voto.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2017)</small>
 
 De su instalación, se dará noticia a los titulares de los Poderes Ejecutivo y Judicial del Estado, al Poder Legislativo Federal, a las Legislaturas de las otras entidades federativas y a los Ayuntamientos de los Municipios del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2017)</small>
 
 La Comisión Permanente deberá instalarse el día de su elección y su funcionamiento será determinado por la ley.
 
 > <small>[N. DE E. PERTENECE A LA FRACCIÓN VI]</small>
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 26 DE ENERO DE 2017)</small>
+
 La Comisión Permanente tendrá las siguientes atribuciones:
 
 I.- Llevar la correspondencia;
 
-II.- Tomar la protesta de ley, en su caso, al Gobernador, a los Magistrados del Tribunal Superior de Justicia, del Tribunal de Menores Infractores, al Titular de la Entidad de Auditoría Superior del Estado, del Tribunal de Justicia Fiscal y Administrativa y a los integrantes de la Comisión Estatal de Derechos Humanos del Estado de Durango;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
 
-III.- Recibir los avisos de ausencia del Gobernador y conceder las autorizaciones o, en su caso, licencias que soliciten el Gobernador y los Magistrados del Tribunal Superior de Justicia, Magistrados Electorales, del Tribunal de Justicia Fiscal y Administrativa y del Tribunal de Menores Infractores y miembros del Consejo de la Judicatura;
+II.- Tomar la protesta de ley, en su caso, a la Gobernadora o Gobernador, a las Magistradas y Magistrados del Tribunal Superior de Justicia, del Tribunal de Menores Infractores, al Titular de la Entidad de Auditoría Superior del Estado, del Tribunal de Justicia Administrativa y a las y los integrantes de la Comisión Estatal de Derechos Humanos del Estado de Durango;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+
+III.- Recibir los avisos de ausencia de la Gobernadora o Gobernador y conceder las autorizaciones o, en su caso, licencias que soliciten la Gobernadora o el Gobernador y las Magistradas y los Magistrados del Tribunal Superior de Justicia, Magistradas y Magistrados Electorales, del Tribunal de Justicia Fiscal y Administrativa y del Tribunal de Menores Infractores y miembros del Consejo de la Judicatura;
 
 IV.- Acordar por sí o a pedimento del Ejecutivo, la celebración de períodos extraordinarios de sesiones del Congreso;
 
@@ -1355,7 +1437,9 @@ VII.- Las demás que le confiera esta Constitución y las leyes.
 
 ###### Artículo 83.
 
-El Congreso del Estado, en los días posteriores a la entrega del informe de gestión gubernamental que rinda el Gobernador del Estado, citará a los Secretarios de Despacho y, en su caso, a los titulares de las Entidades de la Administración Pública, con motivo de la glosa y para informar sobre sus respectivos ramos, quienes estarán obligados a comparecer, ya sea ante el Pleno o ante las comisiones legislativas, según sea el requerimiento.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+El Congreso del Estado, en los días posteriores a la entrega del informe de gestión gubernamental que rinda la Gobernadora o el Gobernador del Estado, citará a las personas titulares de las Secretarias de Despacho y, en su caso, a los titulares de las Entidades de la Administración Pública, con motivo de la glosa y para informar sobre sus respectivos ramos, quienes estarán obligados a comparecer, ya sea ante el Pleno o ante las comisiones legislativas, según sea el requerimiento.
 
 La Ley Orgánica del Congreso establecerá el procedimiento general mediante el cual se desarrollará la glosa del informe del Poder Ejecutivo, así como la comunicación de las preguntas, posicionamientos y recomendaciones que resulten.
 
@@ -1437,15 +1521,21 @@ El Poder Ejecutivo del Estado, aplicará el procedimiento administrativo de ejec
 
 ###### Artículo 88.
 
-El Auditor Superior durará en su encargo siete años. Será electo por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, y deberá cumplir con los siguientes requisitos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos.
+La persona titular de la Entidad de Auditoría Superior del Estado durará en su encargo siete años. Será electo por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, y deberá cumplir con los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+
+I. Ser ciudadana mexicana o ciudadano mexicano en pleno ejercicio de sus derechos.
 
 II. Tener cuando menos treinta y cinco años cumplidos al día de su designación.
 
 III. Poseer título profesional de licenciatura y experiencia en materia de control, auditoría financiera y de responsabilidades de por lo menos cinco años al momento de la designación.
 
-IV. No haber sido titular de alguna de las secretarías de despacho del Ejecutivo estatal, Fiscal General del Estado, Magistrado, Diputado o titular de algún ente fiscalizable durante los dos años previos al de su designación.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+
+IV. No haber sido titular de alguna de las secretarías de despacho del Ejecutivo estatal, Fiscal General del Estado, Magistrada o Magistrado, Diputada o Diputado o titular de algún ente fiscalizable durante los dos años previos al de su designación.
 
 V. No haber sido dirigente de un partido político, durante los últimos seis años.
 
@@ -1461,27 +1551,31 @@ Durante el ejercicio de su cargo no podrá formar parte de ningún partido polí
 
 #### Sección primera. De la elección y requisitos
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
 ###### Artículo 89.
 
-Se deposita el ejercicio del Poder Ejecutivo en una sola persona que se denominará Gobernador del Estado.
+Se deposita el ejercicio del Poder Ejecutivo en una sola persona que se denominará Gobernadora o Gobernador del Estado.
 
-El Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo; ni aún con el carácter de interino, provisional o substituto. La persona que haya sido Gobernador del Estado interino, sustituto o provisional, no podrá ocupar la gubernatura en el período inmediato, con ningún carácter.
+La Gobernadora o el Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo; ni aún con el carácter de interino, provisional o substituto. La persona que haya sido Gobernador del Estado interino, sustituto o provisional, no podrá ocupar la gubernatura en el período inmediato, con ningún carácter.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
 ###### Artículo 90.
 
-La elección de Gobernador del Estado será directa, a través del voto universal, libre, secreto e intransferible de los ciudadanos que cumplan con los requisitos que establece la ley.
+La elección de Gobernadora o Gobernador del Estado será directa, a través del voto universal, libre, secreto e intransferible de los ciudadanos que cumplan con los requisitos que establece la ley.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 91.
 
-Para ser Gobernador del Estado se requiere:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
 
-I. Ser ciudadano duranguense por nacimiento en pleno goce de sus derechos y haber residido en el Estado al menos durante los últimos tres años anteriores al día de la elección o siendo ciudadano mexicano por nacimiento, tener una residencia efectiva en el Estado, no menor de cinco años anteriores al día de la elección.
+Para ser Gobernadora o Gobernador del Estado se requiere:
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+
+I. Ser ciudadana o ciudadano duranguense por nacimiento en pleno goce de sus derechos y haber residido en el Estado al menos durante los últimos tres años anteriores al día de la elección o siendo ciudadano mexicano por nacimiento, tener una residencia efectiva en el Estado, no menor de cinco años anteriores al día de la elección.
 
 II. Tener treinta años cumplidos al día de la elección.
 
@@ -1489,45 +1583,51 @@ III. No pertenecer al estado eclesiástico, ni ser ministro de algún culto.
 
 IV. No estar en servicio activo, en caso de pertenecer al Ejército, cuando menos un año antes del día de la elección.
 
-V. No ser Secretario o Subsecretario, Consejero o Comisionado de un órgano constitucional autónomo, Magistrado o Consejero del Poder Judicial, Auditor Superior del Estado, Presidente Municipal, Síndico o Regidor del Ayuntamiento, servidor público de mando superior de la Federación, a menos de que se separe de su puesto cuando menos ciento veinte días antes del día de la elección.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+
+V. No ser Secretaria o Secretario o Subsecretario, Consejera o Comisionada Consejero o Comisionado de un órgano constitucional autónomo, Magistrada o Consejera o Magistrado o Consejero del Poder Judicial, Auditor Superior del Estado, Presidente Municipal, Síndico o Regidor del Ayuntamiento, servidor público de mando superior de la Federación, a menos de que se separe de su puesto cuando menos ciento veinte días antes del día de la elección.
 
 VI. No haya sido condenado por la comisión de delito doloso.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
 ###### Artículo 92.
 
-El Gobernador del Estado tomará posesión de su cargo a las once horas del día quince de septiembre siguiente a la elección y durará en él seis años.
+La Gobernadora o Gobernador del Estado tomará posesión de su cargo a las once horas del día quince de septiembre siguiente a la elección y durará en él seis años.
 
-El ciudadano electo o designado Gobernador del Estado protestará guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ellas emanen, ante el Congreso del Estado, si ello no fuera posible lo hará ante el Pleno del Tribunal Superior de Justicia del Estado.
+La ciudadana electa o el ciudadano electo o designado Gobernadora o Gobernador del Estado protestará guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ellas emanen, ante el Congreso del Estado, si ello no fuera posible lo hará ante el Pleno del Tribunal Superior de Justicia del Estado.
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MAYO DE 2022)</small>
 
-#### Sección segunda. De las faltas y licencias del Gobernador del Estado
+#### Sección segunda. De las faltas y licencias de la Gobernadora o el Gobernador del Estado
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
 ###### Artículo 93.
 
-En caso de falta o de incapacidad absolutas del Gobernador del Estado, el Secretario General de Gobierno ocupará su lugar, en tanto el Congreso del Estado dentro de los sesenta días siguientes nombra a la persona que lo sustituya, de acuerdo a las siguientes bases:
+En caso de falta o de incapacidad absolutas de la Gobernadora o el Gobernador del Estado, la persona Titular de la Secretaría General de Gobierno ocupará su lugar, en tanto el Congreso del Estado dentro de los sesenta días siguientes nombra a la persona que lo sustituya, de acuerdo a las siguientes bases:
 
-I. En caso de falta absoluta ocurrida en los dos primeros años del período respectivo, el Congreso del Estado, concurriendo cuando menos las dos terceras partes del total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos, un Gobernador del Estado interino; el mismo Congreso del Estado expedirá, dentro de los diez días siguientes al de la designación de Gobernador del Estado interino, la convocatoria para la elección del Gobernador del Estado que deba concluir el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones, un plazo no menor de noventa días ni mayor de ciento veinte días.
+I. En caso de falta absoluta ocurrida en los dos primeros años del período respectivo, el Congreso del Estado, concurriendo cuando menos las dos terceras partes del total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos, una Gobernadora o Gobernador del Estado interino; el mismo Congreso del Estado expedirá, dentro de los diez días siguientes al de la designación de Gobernador del Estado interino, la convocatoria para la elección del Gobernador del Estado que deba concluir el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones, un plazo no menor de noventa días ni mayor de ciento veinte días.
 
-II. Cuando la falta de Gobernador del Estado ocurriese en los últimos cuatro años del período respectivo, el Congreso del Estado, concurriendo cuando menos las dos terceras partes del total de sus miembros, nombrará mediante escrutinio secreto y por mayoría absoluta de votos, al Gobernador del Estado sustituto que deberá concluir el período.
+II. Cuando la falta de Gobernadora o Gobernador del Estado ocurriese en los últimos cuatro años del período respectivo, el Congreso del Estado, concurriendo cuando menos las dos terceras partes del total de sus miembros, nombrará mediante escrutinio secreto y por mayoría absoluta de votos, a la Gobernadora o Gobernador del Estado sustituto que deberá concluir el período.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
 ###### Artículo 94.
 
-Si al comenzar un periodo constitucional no se presentase el Gobernador del Estado electo, o la elección no estuviere hecha o declarada válida el quince de septiembre, cesará el Gobernador del Estado cuyo periodo haya concluido y se encargará del Poder Ejecutivo, en calidad de interino, el que designe el Congreso del Estado, procediéndose conforme a lo dispuesto en el artículo anterior. El Secretario General de Gobierno saliente se encargará del despacho, en tanto se lleva a cabo la designación.
+Si al comenzar un periodo constitucional no se presentase la Gobernadora o el Gobernador del Estado electo, o la elección no estuviere hecha o declarada válida el quince de septiembre, cesará la Gobernadora o el Gobernador del Estado cuyo periodo haya concluido y se encargará del Poder Ejecutivo, en calidad de interino, el que designe el Congreso del Estado, procediéndose conforme a lo dispuesto en el artículo anterior. La persona titular de la Secretaría General de Gobierno saliente se encargará del despacho, en tanto se lleva a cabo la designación.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 95.
 
-El Gobernador del Estado podrá ausentarse del territorio estatal hasta por quince días; cuando se ausente por un término mayor deberá informar previamente de los motivos al Congreso del Estado.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
-Para que el Gobernador del Estado se pueda ausentar del Estado por más de treinta días, se requiere autorización del Congreso del Estado.
+La Gobernadora o el Gobernador del Estado podrá ausentarse del territorio estatal hasta por quince días; cuando se ausente por un término mayor deberá informar previamente de los motivos al Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Para que la Gobernadora o el Gobernador del Estado se pueda ausentar del Estado por más de treinta días, se requiere autorización del Congreso del Estado.
 
 Tratándose de giras de trabajo al extranjero deberá a su regreso entregar al Congreso del Estado un informe de las gestiones realizadas y los resultados obtenidos.
 
@@ -1535,11 +1635,15 @@ Tratándose de giras de trabajo al extranjero deberá a su regreso entregar al C
 
 ###### Artículo 96.
 
-En las faltas temporales del Gobernador del Estado que no excedan de sesenta días, el Secretario General de Gobierno se hará cargo del despacho del Poder Ejecutivo.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+En las faltas temporales de la Gobernadora o el Gobernador del Estado que no excedan de sesenta días, la persona titular de la Secretaría General de Gobierno se hará cargo del despacho del Poder Ejecutivo.
 
 Cuando las faltas excedan de dicho plazo, el Congreso del Estado designará Gobernador Provisional, quien lo suplirá hasta el término de la licencia.
 
-El Gobernador del Estado podrá desempeñar otra comisión o empleo de la Federación, del Estado o de los municipios, por los cuales se disfrute sueldo, con licencia previa del Congreso del Estado, y cesará de sus funciones mientras dure la nueva ocupación.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+La Gobernadora o el Gobernador del Estado podrá desempeñar otra comisión o empleo de la Federación, del Estado o de los municipios, por los cuales se disfrute sueldo, con licencia previa del Congreso del Estado, y cesará de sus funciones mientras dure la nueva ocupación.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1547,15 +1651,17 @@ El Gobernador del Estado podrá desempeñar otra comisión o empleo de la Federa
 
 El cargo de Gobernador del Estado no es renunciable. Sólo por causa justificada, el Congreso del Estado podrá conceder licencia hasta la terminación del período respectivo.
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MAYO DE 2022)</small>
 
-#### Sección tercera. De las facultades y obligaciones del Gobernador del Estado
+#### Sección tercera. De las facultades y obligaciones de la Gobernadora o Gobernador del Estado
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 98.
 
-Son facultades y obligaciones del Gobernador del Estado:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
+
+Son facultades y obligaciones de la Gobernadora o Gobernador del Estado:
 
 I. Cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, las leyes que de ellas emanen y los tratados internacionales suscritos por el Estado mexicano.
 
@@ -1563,13 +1669,17 @@ II. Publicar, cumplir y hacer cumplir las leyes decretadas por el Congreso del E
 
 III. Dirigir la administración del Gobierno del Estado, mediante la ejecución de las políticas públicas, derivadas de la legislación y de los planes y programas de desarrollo.
 
-IV. Nombrar y remover libremente a los secretarios de despacho y demás servidores públicos del Poder Ejecutivo, cuyo nombramiento o remoción no estén determinados de otro modo en esta Constitución o en las leyes.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
 
-V. Proponer al Consejero de la Judicatura, a que se refiere la fracción III del artículo 125 de esta Constitución.
+IV. Nombrar y remover libremente a las personas titulares de las Secretarías de despacho y demás servidores públicos del Poder Ejecutivo, cuyo nombramiento o remoción no estén determinados de otro modo en esta Constitución o en las leyes.
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
 
-VI. Proponer al Congreso del Estado a los magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa y del Tribunal para Menores Infractores.
+V. Proponer a la Consejera o Consejero de la Judicatura, a que se refiere la fracción III del artículo 125 de esta Constitución.
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+
+VI. Proponer al Congreso del Estado a las magistradas y los magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa y del Tribunal para Menores Infractores.
 
 VII. Planear y conducir el desarrollo integral del Estado; formular, ejecutar, controlar y evaluar el Plan Estratégico, el Plan Estatal de Desarrollo, planes sectoriales, metropolitanos y regionales, y los programas que de éstos se deriven. En los procesos de planeación metropolitana y regional deberá consultarse a los ayuntamientos.
 
@@ -1649,7 +1759,9 @@ XXXVIII. Las demás que señale esta Constitución, la Constitución Política d
 
 ###### Artículo 99.
 
-Para el despacho de los asuntos que le compete al Ejecutivo estatal, contará con las dependencias, entidades y organismos que determine la ley.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Para el despacho de los asuntos que le compete al Ejecutivo Estatal, contará con las dependencias, entidades y organismos que determine la ley; en el nombramiento de titulares de las Secretarías de Despacho deberá garantizarse la observancia del principio de paridad de género.
 
 La administración pública del Estado será centralizada y paraestatal.
 
@@ -1661,11 +1773,15 @@ El Estado contará con un Centro de Conciliación laboral que tendrá la integra
 
 ###### Artículo 100.
 
-Para ocupar el cargo de Secretario General de Gobierno, además de los requisitos para ser Gobernador del Estado, se deberán cumplir los siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
+
+Para ocupar el cargo de titular de la Secretaría General de Gobierno, además de los requisitos para ser Titular del Poder Ejecutivo, se deberán cumplir los siguientes:
 
 I. Poseer Título Profesional de licenciatura.
 
-II. No haber sido Gobernador del Estado por elección popular ordinaria o extraordinaria en el periodo inmediato anterior.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+
+II. No haber sido Gobernadora o Gobernador del Estado por elección popular ordinaria o extraordinaria en el periodo inmediato anterior.
 
 III. Ser de reconocida probidad.
 
@@ -1673,11 +1789,15 @@ III. Ser de reconocida probidad.
 
 ###### Artículo 101.
 
-El Congreso del Estado, por sí o a solicitud de una cuarta parte de sus miembros, podrá citar a los Secretarios del Despacho del Ejecutivo, al Fiscal General, a los titulares de las Entidades de la Administración Pública Estatal y a los titulares de los Organismos a los que esta Constitución reconoce autonomía para que comparezcan, rindan informe, o respondan a los cuestionamientos que les formule el Congreso del Estado, previa solventación del procedimiento que fije la ley o el acuerdo parlamentario correspondiente.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+El Congreso del Estado, por sí o a solicitud de una cuarta parte de sus miembros, podrá citar a las personas titulares de las Secretarías del Despacho del Ejecutivo, a la persona Titular de la Fiscalía General del Estado, a las personas titulares de las Entidades de la Administración Pública Estatal y a las personas titulares de los Organismos a los que esta Constitución reconoce autonomía para que comparezcan, rindan informe, o respondan a los cuestionamientos que les formule el Congreso del Estado, previa solventación del procedimiento que fije la ley o el acuerdo parlamentario correspondiente.
 
 Igual obligación tendrán, cuando se discuta una ley o se estudie un negocio concerniente a su respectivo ramo, debiendo enviarles la Mesa Directiva respectiva, el citatorio correspondiente, con anticipación razonable y haciéndole saber el motivo exacto de su comparecencia.
 
-Los titulares de las dependencias, entidades y organismos del Gobierno Estatal, deberán proporcionar al Congreso del Estado, la información o documentación que les sea requerida mediante pregunta por escrito, la cual deberá ser respondida en un término no mayor a quince días. El cumplimiento de esta obligación se realizará de conformidad con la ley.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Las personas titulares de las dependencias, entidades y organismos del Gobierno Estatal, deberán proporcionar al Congreso del Estado, la información o documentación que les sea requerida mediante pregunta por escrito, la cual deberá ser respondida en un término no mayor a quince días. El cumplimiento de esta obligación se realizará de conformidad con la ley.
 
 > <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1709,7 +1829,9 @@ La Fiscalía Especializada en Combate a la Corrupción, contará con autonomía 
 
 ###### Artículo 103.
 
-El Fiscal General será designado por el titular del Poder Ejecutivo del Estado con la ratificación del Congreso del Estado.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+La o el Fiscal General será designado por el titular del Poder Ejecutivo del Estado con la ratificación del Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2017)</small>
 
@@ -1719,9 +1841,13 @@ El Fiscal General presentará anualmente al Congreso del Estado un programa de t
 
 ###### Artículo 104.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
+
 Para ser Fiscal General del Estado se requiere:
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+
+I. Ser ciudadana mexicana o ciudadano mexicano en pleno goce de sus derechos.
 
 II. Ser mayor de treinta y cinco años de edad.
 
@@ -1747,7 +1873,9 @@ El Poder Judicial del Estado, es autónomo y en el ejercicio de sus funciones, a
 
 El Poder Judicial se deposita, para su ejercicio, en el Tribunal Superior de Justicia, el Tribunal Laboral Burocrático, el Tribunal de Menores Infractores, el Tribunal de Justicia Laboral, los juzgados de Primera Instancia, y municipales, y el Centro Estatal de Justicia Alternativa.
 
-El Presidente del Tribunal Superior de Justicia representa al Poder Judicial, sus actividades se dirigirán a vigilar el estricto cumplimiento de las determinaciones del Tribunal Superior de Justicia y a cuidar de la administración de justicia, conforme a las atribuciones y obligaciones que le fijen las leyes.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+La Presidenta o el Presidente del Tribunal Superior de Justicia representa al Poder Judicial, sus actividades se dirigirán a vigilar el estricto cumplimiento de las determinaciones del Tribunal Superior de Justicia y a cuidar de la administración de justicia, conforme a las atribuciones y obligaciones que le fijen las leyes.
 
 Siguiendo el mismo trámite de elección señalado para la Presidencia, el Tribunal Superior elegirá para el mismo período, un Vicepresidente, que tendrá iguales atribuciones y obligaciones que aquél en el ejercicio de la suplencia.
 
@@ -1759,23 +1887,29 @@ El procedimiento judicial será oral en aquellas controversias cuya naturaleza j
 
 La ley fijará los términos en que sea obligatoria la jurisprudencia que establezcan los tribunales del Poder Judicial del Estado de Durango.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
 ###### Artículo 106.
 
-La ley garantizará la independencia judicial, incluida la de los magistrados y jueces en el ejercicio de sus funciones, por lo que en ello no se someterán a mandato alguno de cualquier órgano o ente del Poder Judicial. Igualmente se garantizará la plena ejecución de sus resoluciones.
+La ley garantizará la independencia judicial, incluida la de las magistradas, los magistrados y jueces en el ejercicio de sus funciones, por lo que en ello no se someterán a mandato alguno de cualquier órgano o ente del Poder Judicial. Igualmente se garantizará la plena ejecución de sus resoluciones.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 107.
 
-Los magistrados, consejeros y jueces estarán impedidos para el ejercicio de la abogacía, salvo en causa propia, durante el ejercicio de su encargo. Tampoco podrán desempeñar ningún otro cargo, empleo o comisión, excepto los de carácter académico, científico u honorífico.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Las magistradas, los magistrados, consejeras, consejeros y jueces estarán impedidos para el ejercicio de la abogacía, salvo en causa propia, durante el ejercicio de su encargo. Tampoco podrán desempeñar ningún otro cargo, empleo o comisión, excepto los de carácter académico, científico u honorífico.
 
 Al vencimiento de su nombramiento, tendrán derecho a un haber por retiro y no podrán actuar como patronos, abogados o representantes ante los tribunales del Poder Judicial del Estado, dentro del año siguiente a la fecha de ese vencimiento.
 
-Durante la vigencia del cargo, los magistrados y jueces recibirán una remuneración suficiente, que propicie la total entrega de sus funciones, además dicha remuneración no podrá ser disminuida durante el ejercicio de su encargo.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
-Los magistrados del Poder Judicial y los consejeros de la Judicatura, podrán desempeñar otra comisión o empleo de la Federación, del Estado o de los municipios, por los cuales se disfrute sueldo, con licencia previa del Congreso del Estado, y cesarán de sus funciones mientras dure la nueva ocupación.
+Durante la vigencia del cargo, las magistradas, los magistrados y jueces recibirán una remuneración suficiente, que propicie la total entrega de sus funciones, además dicha remuneración no podrá ser disminuida durante el ejercicio de su encargo.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Las magistradas, los magistrados del Poder Judicial, las consejeras y los consejeros de la Judicatura, podrán desempeñar otra comisión o empleo de la Federación, del Estado o de los municipios, por los cuales se disfrute sueldo, con licencia previa del Congreso del Estado, y cesarán de sus funciones mientras dure la nueva ocupación.
 
 > <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1785,21 +1919,29 @@ Los magistrados del Poder Judicial y los consejeros de la Judicatura, podrán de
 
 ###### Artículo 108.
 
-El Tribunal Superior de Justicia, funciona en Pleno y en salas, y se integra con diecinueve magistrados numerarios y ocho supernumerarios; estos últimos suplirán a aquellos en sus faltas temporales y también temporalmente en sus faltas definitivas, a cuyo efecto serán llamados sucesiva y progresivamente, de acuerdo al procedimiento que se determine en la Ley Orgánica del Poder Judicial.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
-Los magistrados del Tribunal Superior de Justicia, serán designados de acuerdo con el siguiente procedimiento:
+El Tribunal Superior de Justicia, funciona en Pleno y en salas, y se integra con diecinueve magistradas y magistrados numerarios y ocho supernumerarios; estos últimos suplirán a aquellos en sus faltas temporales y también temporalmente en sus faltas definitivas, a cuyo efecto serán llamados sucesiva y progresivamente, de acuerdo al procedimiento que se determine en la Ley Orgánica del Poder Judicial.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
+
+Las magistradas y los magistrados del Tribunal Superior de Justicia, serán designados de acuerdo con el siguiente procedimiento:
 
 El titular del Poder Ejecutivo propondrá al Congreso del Estado los candidatos para su aprobación, de cada tres magistrados que se propongan por lo menos uno deberá ser de carrera judicial.
 
-La aprobación se realizará por el voto secreto de las dos terceras partes de los diputados presentes, en la sesión que corresponda, dentro de los cinco días siguientes a la fecha de la propuesta.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+La aprobación se realizará por el voto secreto de las dos terceras partes de las diputadas y los diputados presentes, en la sesión que corresponda, dentro de los cinco días siguientes a la fecha de la propuesta.
 
 En caso de que, transcurrido el plazo de cinco días, el Congreso del Estado no acepte a las personas para ocupar las magistraturas, o se abstenga de resolver o no se obtenga la citada votación de las dos terceras partes, el Ejecutivo del Estado, en un plazo de diez días, presentará otra propuesta y la aprobación se efectuará en los términos del párrafo anterior.
 
-Si presentada la segunda propuesta, el Congreso del Estado no la acepta, o no obtenga los votos requeridos dentro de los plazos señalados, en ese mismo acto, la aprobación se llevará a cabo mediante el voto secreto de cuando menos la mitad más uno de los diputados asistentes a la sesión; de no reunirse esa votación, el Ejecutivo, dentro de los diez días posteriores a la celebración de la sesión, realizará la designación que tendrá carácter definitiva. Para el efecto de tener integrado el Pleno del Tribunal Superior de Justicia, los magistrados que vayan a concluir su encargo continuarán en el desempeño de esa responsabilidad hasta en tanto se haga la designación.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2015)</small>
+Si presentada la segunda propuesta, el Congreso del Estado no la acepta, o no obtenga los votos requeridos dentro de los plazos señalados, en ese mismo acto, la aprobación se llevará a cabo mediante el voto secreto de cuando menos la mitad más uno de los diputados asistentes a la sesión; de no reunirse esa votación, el Ejecutivo, dentro de los diez días posteriores a la celebración de la sesión, realizará la designación que tendrá carácter definitiva. Para el efecto de tener integrado el Pleno del Tribunal Superior de Justicia, las magistradas y los magistrados que vayan a concluir su encargo continuarán en el desempeño de esa responsabilidad hasta en tanto se haga la designación.
 
-La renuncia de los magistrados se presentará ante el Congreso del Estado, quien de encontrarla procedente, notificará al Gobernador del Estado, a efecto de que envíe la propuesta para la sustitución del mismo. En este caso, se observará el procedimiento señalado en el presente artículo, para los efectos de la nueva designación, la que de presentarse después del transcurso de cuatro años del periodo previsto en esta Constitución, lo será para uno nuevo.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+La renuncia de las magistradas y los magistrados se presentará ante el Congreso del Estado, quien, de encontrarla procedente notificará a la persona titular del Poder Ejecutivo, a efecto de que envíe la propuesta para la sustitución del mismo. En este caso, se observará el procedimiento señalado en el presente artículo, para los efectos de la nueva designación, la que, de presentarse después del transcurso de cuatro años del periodo previsto en esta Constitución, lo será para uno nuevo.
 
 > <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2015)</small>
 
@@ -1811,9 +1953,13 @@ En los casos de terminación del encargo previstos por esta Constitución, opera
 
 El pleno del Tribunal determinará la conformación y competencia de las salas así como sus titulares.
 
-Los magistrados del Tribunal Superior de Justicia durarán en su cargo seis años, y podrán ser ratificados, previo procedimiento de evaluación de su desempeño por parte del Congreso del Estado, a partir de la información y elementos que proporcione el Tribunal Superior de Justicia.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
-Los magistrados terminarán su encargo en cualquiera de los siguientes supuestos:
+Las magistradas y los magistrados del Tribunal Superior de Justicia durarán en su cargo seis años, y podrán ser ratificados, previo procedimiento de evaluación de su desempeño por parte del Congreso del Estado, a partir de la información y elementos que proporcione el Tribunal Superior de Justicia.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
+
+Las magistradas y los magistrados terminarán su encargo en cualquiera de los siguientes supuestos:
 
 I. Al determinarse incapacidad física o mental que impida el buen desempeño de sus funciones.
 
@@ -1825,17 +1971,25 @@ IV. Al cum plir (sic) seis años en el cargo, si no fueren ratificados.
 
 V. En los demás casos que establezca esta Constitución y la ley de responsabilidades.
 
-Los Magistrados en retiro son aquellos que habiendo sido ratificados concluyan su encargo.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
-Será Presidente del Tribunal Superior de Justicia el Magistrado que designe el Pleno; durará en su encargo seis años y podrá ser reelecto sólo por término igual y rendirá protesta ante el Pleno del Tribunal, y mientras ejerza su función no integrará Sala.
+Las magistradas y los Magistrados en retiro son aquellos que habiendo sido ratificados concluyan su encargo.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Será Presidenta o Presidente del Tribunal Superior de Justicia la Magistrada o Magistrado que designe el Pleno; durará en su encargo seis años y podrá ser reelecto sólo por término igual y rendirá protesta ante el Pleno del Tribunal, y mientras ejerza su función no integrará Sala.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 110.
 
-Para ser Magistrado del Tribunal Superior de Justicia se requiere:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
 
-I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles.
+Para ser Magistrada o Magistrado del Tribunal Superior de Justicia se requiere:
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+
+I. Ser ciudadana mexicana o ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles.
 
 II. Tener cuando menos treinta y cinco años cumplidos el día de la designación.
 
@@ -1845,13 +1999,19 @@ IV. Gozar de buena reputación y no haber sido condenado por delito que amerite 
 
 V. Haber residido en la entidad durante los dos años anteriores al día de la designación.
 
-VI. No haber sido Gobernador del Estado, titular de alguna de las secretarías de despacho del Ejecutivo, Fiscal General, Diputado, Diputado Federal, Senador, Presidente, Síndico o Regidor de Ayuntamiento, o Consejero o Comisionado de algunos de los organismos constitucionales autónomos, durante el año previo al día de la elección.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+
+VI. No haber sido Gobernador del Estado, titular de alguna de las secretarías de despacho del Ejecutivo, Fiscal General, Diputada, Diputado, Diputada Federal, Diputado Federal, Senadora, Senador, Presidente, Síndico o Regidor de Ayuntamiento, o Consejera, Consejero o Comisionada o Comisionado de algunos de los organismos constitucionales autónomos, durante el año previo al día de la elección.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE MAYO DE 2022)</small>
 
 VII. No haber ocupado cargo directivo de ningún partido político, en los últimos tres años.
 
 Estos nombramientos, deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales, en el ejercicio de la actividad jurídica.
 
-Los magistrados del Tribunal Superior de Justicia, rendirán la protesta de ley ante el Congreso del Estado.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Las magistradas y los magistrados del Tribunal Superior de Justicia, rendirán la protesta de ley ante el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
 
@@ -1867,9 +2027,13 @@ El Tribunal Superior de Justicia tendrá la competencia que establezca esta Cons
 
 El Tribunal Superior de Justicia, tendrá las siguientes facultades y obligaciones:
 
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+
 I. En lo no previsto en la presente constitución y las leyes relativas y por lo que respecta a la función que tiene encomendada, fijar criterios y reglas suficientes para atender las imprevisiones que pudieran surgir en su aplicación.
 
-II. Conceder licencias a los magistrados para separarse de su cargo en los términos de ley, y que sean diferentes a las previstas en el artículo 107 de esta Constitución.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+
+I. (SIC) Conceder licencias a las magistradas y los magistrados para separarse de su cargo en los términos de ley, y que sean diferentes a las previstas en el artículo 107 de esta Constitución.
 
 III. Expedir su reglamento interior.
 
@@ -1907,9 +2071,13 @@ El Tribunal de Justicia Administrativa es la autoridad jurisdiccional dotada de 
 
 ###### Artículo 115.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE MAYO DE 2022)</small>
+
 El Tribunal de Justicia Administrativa, se integrará con tres magistrados numerarios y tres magistrados supernumerarios, quienes suplirán a los propietarios en sus ausencias.
 
-Los magistrados serán designados por el Ejecutivo del Estado y ratificados por el voto de las dos terceras partes de los integrantes presentes del Congreso. Durarán en su encargo 6 años improrrogables. Los magistrados solo podrán ser removidos de sus cargos por las causas graves que señale la Ley.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Las magistradas y los magistrados serán designados por el Ejecutivo del Estado y ratificados por el voto de las dos terceras partes de los integrantes presentes del Congreso. Durarán en su encargo 6 años improrrogables. Los magistrados solo podrán ser removidos de sus cargos por las causas graves que señale la Ley.
 
 Los requisitos para ocupar el cargo y la forma de elección, así como los casos de renuncia y terminación del encargo, serán los mismos que establecen esta Constitución y la Ley, para los Magistrados del Tribunal Superior de Justicia.
 
@@ -1933,7 +2101,9 @@ La ley establecerá las normas para su organización y funcionamiento.
 
 La resolución de las diferencias o los conflictos entre trabajadores y patrones, relativas al apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, estará a cargo del Tribunal de Justicia Laboral, cuyos integrantes serán designados atendiendo a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y la legislación aplicable.
 
-Los jueces del Tribunal de Justicia Laboral deberán contar con capacidad y experiencia en materia laboral, sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Las y los jueces del Tribunal de Justicia Laboral deberán contar con capacidad y experiencia en materia laboral, sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
 
 La ley establecerá el número de jueces integrantes del Tribunal de Justicia Laboral, así como las normas para su organización y funcionamiento de conformidad con la legislación aplicable.
 
@@ -1947,15 +2117,21 @@ La ley establecerá el número de jueces integrantes del Tribunal de Justicia La
 
 El Tribunal para Menores Infractores es la autoridad jurisdiccional dotada de autonomía en sus resoluciones y competente para resolver sobre las conductas tipificadas como delitos cometidas por las personas que tengan entre doce años cumplidos y menos de dieciocho años de edad.
 
-Para el ejercicio de sus atribuciones, el Tribunal para Menores Infractores se integrará por un Magistrado propietario de la Sala Unitaria, un Magistrado Supernumerario, los jueces, los jueces Especializados para Menores, los jueces de Ejecución para Menores, la Unidad de Diagnostico, además del personal jurídico y administrativo necesario para su adecuado funcionamiento.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
-Los magistrados del Tribunal para Menores Infractores, serán electos mediante el procedimiento y con los requisitos que señale la ley. Durarán en su encargo seis años y podrán ser ratificados en una sola ocasión por igual período, previa evaluación de su desempeño por parte del Congreso del Estado.
+Para el ejercicio de sus atribuciones, el Tribunal para Menores Infractores se integrará por una Magistrada o Magistrado propietario de la Sala Unitaria, una Magistrada o Magistrado Supernumerario, las y los jueces, las y los jueces Especializados para Menores, las y los jueces de Ejecución para Menores, la Unidad de Diagnostico, además del personal jurídico y administrativo necesario para su adecuado funcionamiento.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Las magistradas y los magistrados del Tribunal para Menores Infractores, serán electos mediante el procedimiento y con los requisitos que señale la ley. Durarán en su encargo seis años y podrán ser ratificados en una sola ocasión por igual período, previa evaluación de su desempeño por parte del Congreso del Estado.
 
 > <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2015)</small>
 
 En caso de renuncia o terminación del encargo después del transcurso de cuatro años de iniciado el encargo, la nueva designación será por un nuevo periodo.
 
-Los jueces en materia de menores, serán nombrados previo examen por oposición y en base a lo dispuesto por la ley, la cual además establecerá las bases para la organización y funcionamiento del Tribunal.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Las y los jueces en materia de menores, serán nombrados previo examen por oposición y en base a lo dispuesto por la ley, la cual además establecerá las bases para la organización y funcionamiento del Tribunal.
 
 (REUBICADA [N. DE E. ANTES SECCIÓN SÉPTIMA], P.O. 24 DE JUNIO DE 2014)
 
@@ -2035,7 +2211,9 @@ Las resoluciones que fueren aprobadas por dos votos, únicamente tendrán efecto
 
 ###### Artículo 121.
 
-Los jueces serán nombrados por el Consejo de la Judicatura, previo examen por oposición; dichos nombramientos recaerán en aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia, o que lo merezcan por su honorabilidad, competencia y antecedentes dentro de la profesión jurídica.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Las y los jueces serán nombrados por el Consejo de la Judicatura, previo examen por oposición; dichos nombramientos recaerán en aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia, o que lo merezcan por su honorabilidad, competencia y antecedentes dentro de la profesión jurídica.
 
 El número de jueces, el proceso para su designación, su competencia, la jurisdicción territorial, el lugar de residencia y sus atribuciones se precisarán en la ley.
 
@@ -2045,7 +2223,9 @@ El número de jueces, el proceso para su designación, su competencia, la jurisd
 
 Para ser Juez de primera instancia se requiere:
 
-I. Ser ciudadano duranguense, en pleno ejercicio de sus derechos políticos y civiles.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+
+I. Ser ciudadana o ciudadano duranguense, en pleno ejercicio de sus derechos políticos y civiles.
 
 II. Ser mayor de veintiocho años y tener una residencia efectiva en el Estado de cuando menos dos años, inmediatos anteriores a la fecha de la designación.
 
@@ -2057,9 +2237,13 @@ IV. No haber sido condenado por delito doloso.
 
 ###### Artículo 123.
 
-Los jueces serán adscritos por el Consejo de la Judicatura, con base en criterios objetivos y de acuerdo a los requisitos y procedimientos que establezca la ley. Durarán tres años en el ejercicio de su encargo, al término de los cuales, podrán ser ratificados y si fueran por segunda ocasión o promovidos a cargos superiores, sólo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca la ley.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
-La readscripción de los jueces la hará el Consejo de la Judicatura mediante el concurso de méritos, con base en criterios objetivos, requisitos y procedimientos que establezca la ley.
+Las y los jueces serán adscritos por el Consejo de la Judicatura, con base en criterios objetivos y de acuerdo a los requisitos y procedimientos que establezca la ley. Durarán tres años en el ejercicio de su encargo, al término de los cuales, podrán ser ratificados y si fueran por segunda ocasión o promovidos a cargos superiores, sólo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca la ley.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+La readscripción de las y los jueces la hará el Consejo de la Judicatura mediante el concurso de méritos, con base en criterios objetivos, requisitos y procedimientos que establezca la ley.
 
 Las decisiones del Consejo en materia de designación y readscripción de jueces podrán ser impugnadas por los interesados ante el Tribunal Superior de Justicia.
 
@@ -2077,27 +2261,37 @@ El Consejo de la Judicatura, es un órgano desconcentrado del Tribunal Superior 
 
 ###### Artículo 125.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
+
 El Consejo de la Judicatura se integrará por:
 
-I. El Presidente del Tribunal Superior de Justicia, quien lo presidirá.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+
+I. La Presidenta o el Presidente del Tribunal Superior de Justicia, quien lo presidirá.
 
 II. Dos jueces de primera instancia.
 
 III. Tres profesionales de reconocido prestigio, que deberán poseer título con grado de licenciatura en cualquiera rama afín a las funciones propias del Consejo; dos serán propuestos por el Congreso del Estado, y el otro por el Gobernador del Estado.
 
-Para la designación de los consejeros propuestos por el Gobernador y el Congreso del Estado, se estará a los requisitos del artículo 122 de esta Constitución, con excepción del Título de Licenciado en Derecho.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
-Los consejeros designados, sólo podrán ser removidos en los términos del Título séptimo de esta Constitución.
+Para la designación de los consejeros propuestos por la persona Titular del Poder Ejecutivo y el Congreso del Estado, se estará a los requisitos del artículo 122 de esta Constitución, con excepción del Título de Licenciado en Derecho.
 
-Los jueces nombrados consejeros o comisionados en otro cargo no interrumpen su carrera judicial.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+Las consejeras y los consejeros designados, sólo podrán ser removidos en los términos del Título séptimo de esta Constitución.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Las y los jueces nombrados consejeros o comisionados en otro cargo no interrumpen su carrera judicial.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
 ###### Artículo 126.
 
-Los consejeros, a excepción del Presidente, durarán en el cargo cinco años, no podrán ser nombrados para el período inmediato y serán sustituidos de manera escalonada. Aquellos que pertenezcan al Poder Judicial no desempeñarán la función jurisdiccional, con excepción del Presidente.
+Las consejeras y los consejeros, a excepción del Presidente, durarán en el cargo cinco años, no podrán ser nombrados para el período inmediato y serán sustituidos de manera escalonada. Aquellos que pertenezcan al Poder Judicial no desempeñarán la función jurisdiccional, con excepción del Presidente.
 
-Los consejeros no representarán a quien los propone y ejercerán su función con independencia e imparcialidad.
+Las consejeras y los consejeros no representarán a quien los propone y ejercerán su función con independencia e imparcialidad.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2105,7 +2299,9 @@ Los consejeros no representarán a quien los propone y ejercerán su función co
 
 La ley fijará las bases para la formación y actualización de funcionarios, así como para el desarrollo, extensión y cumplimiento de los sistemas y programas que sustenten la carrera judicial, la cual se regulará esencialmente por principios de excelencia, objetividad, equidad, profesionalismo, imparcialidad e independencia.
 
-Los jueces municipales serán designados por el Consejo de la Judicatura en los términos que señala esta Constitución y la ley.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Las y los jueces municipales serán designados por el Consejo de la Judicatura en los términos que señala esta Constitución y la ley.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2173,15 +2369,17 @@ IV. Rendir ante el Congreso del Estado un informe anual por escrito de labores y
 
 ###### Artículo 131.
 
-Los titulares y los integrantes de sus consejos, comisiones u órganos directivos, consultivos o de gobierno serán designados, en forma escalonada, conforme a las reglas y procedimientos señalados por la ley, mediante el voto de las dos terceras partes de los miembros del Congreso del Estado presentes. Para tal efecto, se deberá realizar un procedimiento de convocatoria pública amplia y transparente, en los términos de la ley.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Las y los titulares y los integrantes de sus consejos, comisiones u órganos directivos, consultivos o de gobierno serán designados, en forma escalonada, conforme a las reglas y procedimientos señalados por la ley, mediante el voto de las dos terceras partes de los miembros del Congreso del Estado presentes, atendiendo a la paridad de género. Para tal efecto, se deberá realizar un procedimiento de convocatoria pública amplia y transparente, en los términos de la ley.
 
 Durante el ejercicio de su cargo sólo podrán ser removidos en los términos del Título séptimo de esta Constitución.
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
 ###### Artículo 132.
 
-Los titulares de los órganos constitucionales autónomos, deberán concurrir al Congreso del Estado a solicitud expresa de éste, para que informen cuando se discuta una ley, se estudie un asunto concerniente a sus respectivos ramos o para que respondan a interpelaciones o preguntas.
+Las personas titulares de los órganos constitucionales autónomos, deberán concurrir al Congreso del Estado a solicitud expresa de éste, para que informen cuando se discuta una ley, se estudie un asunto concerniente a sus respectivos ramos o para que respondan a interpelaciones o preguntas.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2397,7 +2595,9 @@ La organización y funcionamiento del Instituto se realizará en los términos e
 
 ###### Artículo 147.
 
-Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y el número de regidores y síndicos que la ley determine. Para el Presidente Municipal, Síndico y Regidor propietario, se elegirá un suplente. Todos los regidores propietarios serán considerados como representantes populares, con idéntica categoría e igualdad de derechos y obligaciones. En la elección de los ayuntamientos se contemplará el principio de la representación proporcional.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por una Presidenta o Presidente Municipal y el número de regidores y síndicos que la ley determine. Para el Presidente Municipal, Síndico y Regidor propietario, se elegirá un suplente. Todos los regidores propietarios serán considerados como representantes populares, con idéntica categoría e igualdad de derechos y obligaciones. En la elección de los ayuntamientos se contemplará el principio de la representación proporcional.
 
 El Ayuntamiento se renovará en su totalidad cada tres años e iniciará sus funciones el primero de septiembre posterior a la elección.
 
@@ -2409,27 +2609,31 @@ Los municipios estarán investidos de personalidad jurídica y manejarán su pat
 
 ###### Artículo 148.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
+
 Para ser electos presidentes, síndicos o regidores de un Ayuntamiento, se requiere:
 
-I. Ser ciudadano duranguense, en pleno ejercicio de sus derechos, originario del Municipio y con residencia efectiva de tres años, o ciudadano duranguense con residencia efectiva que no sea menor de cinco años inmediatamente anteriores al día de la elección.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+
+I. Ser ciudadana o ciudadano duranguense, en pleno ejercicio de sus derechos, originario del Municipio y con residencia efectiva de tres años, o ciudadano duranguense con residencia efectiva que no sea menor de cinco años inmediatamente anteriores al día de la elección.
 
 II. Ser mayor de veintiún años de edad al día de la elección.
 
-III. En el caso de ser Secretario o Subsecretario, Diputado en ejercicio, Magistrado, Consejero de la Judicatura, Comisionado o Consejero de un órgano constitucional autónomo, funcionario municipal de mando superior, servidor público de mando superior de la Federación, o militar en servicio activo, deberá separarse del cargo noventa días antes de la elección.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+
+III. En el caso de ser Secretaria, Secretario o Subsecretaria, Subsecretario, Diputada o Diputado en ejercicio, Magistrada, Magistrado, Consejera, Consejero de la Judicatura, Comisionada, Comisionado, Consejera o Consejero de un órgano constitucional autónomo, funcionario municipal de mando superior, servidor público de mando superior de la Federación, o militar en servicio activo, deberá separarse del cargo noventa días antes de la elección.
 
 IV. No ser Ministro d e (sic) algún culto religioso.
 
 V. No haya sido condenado por la comisión de delito doloso.
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
 ###### Artículo 149.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
+Las y los presidentes municipales, regidores y síndicos de los ayuntamientos, podrán ser electos para el mismo cargo por un periodo adicional, siempre y cuando el periodo del mandato de los ayuntamientos no sea superior a tres años. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-Los presidentes municipales, regidores y síndicos de los ayuntamientos, podrán ser electos para el mismo cargo por un periodo adicional, siempre y cuando el periodo del mandato de los ayuntamientos no sea superior a tres años. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
-
-El Presidente del Ayuntamiento es el representante jurídico del mismo y tiene el carácter de ejecutor de las resoluciones y acuerdos del propio cuerpo edilicio.
+La Presidenta o el Presidente del Ayuntamiento es el representante jurídico del mismo y tiene el carácter de ejecutor de las resoluciones y acuerdos del propio cuerpo edilicio.
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2655,29 +2859,43 @@ III. Los órganos de Control Interno de los Municipios, quienes concurrirán a t
 
 El Consejo Coordinador es la instancia responsable de establecer mecanismos de coordinación entre los integrantes del Sistema Local Anticorrupción, y tendrá bajo su encargo el diseño, promoción y evaluación de políticas públicas en materia de combate a la corrupción y tendrá las facultades que le señale la legislación aplicable.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
+
 Son integrantes del Consejo Coordinador:
 
 I. Un representante del Consejo de Participación Ciudadana, quien lo presidirá;
 
-II. El titular de la Entidad de Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
 
-III. El titular de la Fiscalía Especializada en Combate a la Corrupción;
+II. La persona titular de la Entidad de Auditoría Superior del Estado;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+
+III. La persona titular de la Fiscalía Especializada en Combate a la Corrupción;
 
 IV. El responsable del control interno del Poder Ejecutivo;
 
 V. Un representante del Consejo de la Judicatura del Poder Judicial del Estado;
 
-VI. El Comisionado Presidente del Instituto Duranguense de Acceso a la Información y Protección de Datos Personales, y
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
 
-VII. El Presidente del Tribunal de Justicia Administrativa.
+VI. La Comisionada o Comisionado Presidente del Instituto Duranguense de Acceso a la Información y Protección de Datos Personales, y
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+
+VII. La Presidenta o Presidente del Tribunal de Justicia Administrativa.
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
 
 Artículo 163 Quintus.-
 
-El Consejo de Participación Ciudadana estará integrado por cinco ciudadanos de probidad y prestigio que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción. El procedimiento para la designación de integrantes deberá ser solventado conforme lo establezca la Ley de la materia.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
-Los integrantes del Consejo de Participación Ciudadana no podrán ocupar, durante el tiempo de su gestión, un empleo, cargo o comisión de cualquier naturaleza, en los gobiernos federal, local o municipal, ni cualquier otro empleo que les impida el libre ejercicio de los servicios que prestarán.
+El Consejo de Participación Ciudadana estará integrado por cinco ciudadanas y ciudadanos de probidad y prestigio que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción. El procedimiento para la designación de integrantes deberá ser solventado conforme lo establezca la Ley de la materia y deberá atenderse al principio de paridad de género.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Las y los integrantes del Consejo de Participación Ciudadana no podrán ocupar, durante el tiempo de su gestión, un empleo, cargo o comisión de cualquier naturaleza, en los gobiernos federal, local o municipal, ni cualquier otro empleo que les impida el libre ejercicio de los servicios que prestarán.
 
 Durarán en su encargo cinco años, sin posibilidad de reelección y serán renovados de manera escalonada, y sólo podrán ser removidos por alguna de las causas establecidas en la normatividad relativa a los actos de particulares vinculados con faltas administrativas graves.
 
@@ -2689,9 +2907,9 @@ Durarán en su encargo cinco años, sin posibilidad de reelección y serán reno
 
 ###### Artículo 164.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
-El día 1 de septiembre de cada año, el Gobernador del Estado asistirá a la sede del Poder Legislativo a rendir un informe de la gestión gubernamental a su cargo y de las actividades realizadas durante el año inmediato anterior; en dicha sesión escuchará los posicionamientos de las formas de organización partidista y podrá responder los cuestionamientos que se le formulen. La Ley Orgánica del Congreso establecerá la forma en que se desarrolle esta sesión.
+El día 1 de septiembre de cada año, la persona Titular del Poder Ejecutivo del Estado asistirá a la sede del Poder Legislativo a rendir un informe de la gestión gubernamental a su cargo y de las actividades realizadas durante el año inmediato anterior; en dicha sesión escuchará los posicionamientos de las formas de organización partidista y podrá responder los cuestionamientos que se le formulen. La Ley Orgánica del Congreso establecerá la forma en que se desarrolle esta sesión.
 
 Los informes de gestión a que se refiere el párrafo anterior, deberán señalar los resultados obtenidos, con base en lo establecido en los planes y programas, haciendo mención expresa de los indicadores y metas que den cuenta del cumplimiento de los objetivos.
 
@@ -2701,15 +2919,17 @@ Los informes de gestión a que se refiere el párrafo anterior, deberán señala
 
 El órgano de gobierno interior de administración y de representación política del Congreso del Estado, anualmente dará cuenta ante el Pleno de los resultados de la gestión legislativa realizada. El informe anual tendrá como referente los objetivos y metas establecidas en el plan de desarrollo institucional de la Legislatura de que se trate y el programa anual de trabajo respectivo.
 
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
-Los diputados deben rendir un informe anual del ejercicio de sus funciones ante el órgano de gobierno interior del Congreso del Estado, y si así lo estiman pertinente, ante sus representados. Los diputados de mayoría relativa podrán hacerlo, además, ante los ayuntamientos de los municipios comprendidos en sus respectivos distritos electorales.
+Las y los diputados deben rendir un informe anual del ejercicio de sus funciones ante el órgano de gobierno interior del Congreso del Estado, y si así lo estiman pertinente, ante sus representados. Las y los diputados de mayoría relativa podrán hacerlo, además, ante los ayuntamientos de los municipios comprendidos en sus respectivos distritos electorales.
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 166.
 
-El Gobernador, entregará al Congreso del Estado un informe sobre la situación que guarda la administración pública del Estado y los avances en el cumplimiento del Plan Estatal de Desarrollo.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+La persona titular del Poder Ejecutivo del Estado, entregará al Congreso del Estado un informe sobre la situación que guarda la administración pública del Estado y los avances en el cumplimiento del Plan Estatal de Desarrollo.
 
 Al término de su gestión constitucional, entregará una Memoria, con los documentos y anexos necesarios, de evaluación general de los resultados obtenidos durante su mandato, con base en los objetivos y metas fijadas en los planes estratégico y estatal de desarrollo.
 
@@ -2717,9 +2937,9 @@ Al término de su gestión constitucional, entregará una Memoria, con los docum
 
 ###### Artículo 167.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
-En la fecha que determine su Ley Orgánica, el Poder Judicial del Estado rendirá el informe anual sobre la situación que guarde la administración de justicia en el Estado, el que será rendido por el Magistrado Presidente ante el Pleno del Tribunal Superior de Justicia. Dicho documento tendrá como referente las políticas públicas y los lineamientos generales de la planeación institucional en materia de impartición de justicia, señalados en el Plan de Desarrollo Estratégico del Poder Judicial del Estado, las acciones previstas en el Programa Anual de Actividades correspondiente e incluirá los movimientos de ingresos y egresos del Fondo Auxiliar.
+En la fecha que determine su Ley Orgánica, el Poder Judicial del Estado rendirá el informe anual sobre la situación que guarde la administración de justicia en el Estado, el que será rendido por la Magistrada o Magistrado Presidente ante el Pleno del Tribunal Superior de Justicia. Dicho documento tendrá como referente las políticas públicas y los lineamientos generales de la planeación institucional en materia de impartición de justicia, señalados en el Plan de Desarrollo Estratégico del Poder Judicial del Estado, las acciones previstas en el Programa Anual de Actividades correspondiente e incluirá los movimientos de ingresos y egresos del Fondo Auxiliar.
 
 Una vez aprobado el informe, el Tribunal Superior de Justicia lo enviará por escrito al Congreso del Estado.
 
@@ -2735,7 +2955,9 @@ La Ley Orgánica del Congreso determinará el procedimiento para analizar el con
 
 ###### Artículo 169.
 
-Los presidentes municipales deberán rendir un informe a sus respectivos ayuntamientos, sobre el estado que guarde la administración pública municipal a su cargo, con base al programa anual de trabajo y el presupuesto anual contenido en la Ley de Ingresos; así como del avance en el cumplimiento de los objetivos y metas del Plan Municipal de Desarrollo y de los programas municipales derivados del mismo.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Las y los presidentes municipales deberán rendir un informe a sus respectivos ayuntamientos, sobre el estado que guarde la administración pública municipal a su cargo, con base al programa anual de trabajo y el presupuesto anual contenido en la Ley de Ingresos; así como del avance en el cumplimiento de los objetivos y metas del Plan Municipal de Desarrollo y de los programas municipales derivados del mismo.
 
 Al término del periodo constitucional de cada Ayuntamiento, sus presidentes municipales entregarán una Memoria, con los documentos y anexos necesarios de evaluación general de los resultados obtenidos durante su mandato. Una vez analizado el informe anual por el Ayuntamiento respectivo, éste lo remitirá por escrito al Congreso del Estado para su examen, posicionamientos y recomendaciones que en su caso le formule.
 
@@ -2787,9 +3009,9 @@ En el caso de la Cuenta Pública que remita el Ejecutivo sólo se podrá ampliar
 
 ###### Artículo 173.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
-El Gobernador del Estado, los secretarios de despacho y los subsecretarios, los recaudadores de rentas, el Fiscal General y los vicefiscales, los diputados, los magistrados, los consejeros de la judicatura, los jueces, los consejeros o comisionados y los secretarios ejecutivos y técnicos de los órganos constitucionales autónomos, los presidentes, regidores, síndicos, tesoreros y secretarios de los ayuntamientos, así como todos los demás servidores públicos que determine la ley de responsabilidades, deberán presentar ante la autoridad que corresponda, bajo protesta de decir verdad, una declaración pública anual de su estado patrimonial, la que deberá contener: una relación escrita de sus bienes inmuebles, valores, depósitos en numerario, acciones de sociedad, bonos o títulos financieros, vehículos y en general, los bienes que integran su patrimonio.
+La Gobernadora o Gobernador del Estado, las y los secretarios de despacho y las y los subsecretarios, los recaudadores de rentas, la persona titular de la Fiscalía General del Estado y los vicefiscales, las diputadas, los diputados, las magistradas, los magistrados, las consejeras, los consejeros de la judicatura, las juezas, los jueces, las consejeras, las comisionadas, los consejeros o comisionados y las secretarias ejecutivas, los secretarios ejecutivos y técnicos de los órganos constitucionales autónomos, las y los presidentes, regidores, síndicos, tesoreros y secretarios de los ayuntamientos, así como todos los demás servidores públicos que determine la ley de responsabilidades, deberán presentar ante la autoridad que corresponda, bajo protesta de decir verdad, una declaración pública anual de su estado patrimonial, la que deberá contener: una relación escrita de sus bienes inmuebles, valores, depósitos en numerario, acciones de sociedad, bonos o títulos financieros, vehículos y en general, los bienes que integran su patrimonio.
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2831,9 +3053,9 @@ Para la investigación, substanciación y sanción de las responsabilidades admi
 
 ###### Artículo 176.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
-Para proceder penalmente contra el Gobernador del Estado, las y los diputados, las y los magistrados del Poder Judicial, las y los consejeros del Consejo de la Judicatura, las y los jueces de Primera Instancia, las y los jueces del Tribunal para Menores Infractores, las y los secretarios de Despacho, el o la Fiscal General del Estado y las y los presidentes municipales, el Congreso del Estado declarará por mayoría absoluta de los integrantes de la Legislatura si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra las diputadas, los diputados, las magistradas, los magistrados del Poder Judicial, las consejeras, los consejeros del Consejo de la Judicatura, los jueces de Primera Instancia, los jueces del Tribunal para Menores Infractores, las personas titulares de las Secretarios (sic) de Despacho del Poder Ejecutivo, la o el Fiscal General del Estado y las o los presidentes municipales, el Congreso del Estado declarará por mayoría absoluta de los integrantes de la Legislatura si ha o no lugar a proceder contra el inculpado.
 
 Si la resolución del Congreso del Estado fuese negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
@@ -2887,11 +3109,11 @@ Las sanciones se determinarán acorde a la gravedad del hecho y consistirán en 
 
 No podrán imponerse por la misma conducta sanciones de igual naturaleza en diversos procedimientos.
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
 ###### Artículo 179.
 
-Todo ciudadano, bajo su más estricta responsabilidad y aportando elementos de prueba, podrá denunciar por escrito ante el Congreso del Estado, las conductas que considere ilícitas cometidas por servidores públicos, que den origen a la sustanciación de los procedimientos administrativo y de juicio político.
+Toda ciudadana y todo ciudadano, bajo su más estricta responsabilidad y aportando elementos de prueba, podrá denunciar por escrito ante el Congreso del Estado, las conductas que considere ilícitas cometidas por servidores públicos, que den origen a la sustanciación de los procedimientos administrativo y de juicio político.
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -4252,3 +4474,19 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 585.- QUE CONTIENE REFORMA A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado deberá realizar los ajustes legales correspondientes para dar cumplimiento al presente decreto en un plazo que no exceda de 90 días a partir de la entrada en vigor del mismo.
