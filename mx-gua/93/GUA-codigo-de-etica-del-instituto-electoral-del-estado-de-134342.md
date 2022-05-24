@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-etica-del-instituto-electoral-del-estado-de-134342"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-03-08"
-last_updated: "2019-03-08"
+last_updated: "2022-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # CODIGO DE ETICA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE JUNIO DE 2022 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2022.
 
 Código publicado en la Segunda Parte del Número 49 del Periódico Oficial del Estado de Guanajuato, el viernes 8 de marzo de 2019.
 
@@ -61,19 +63,25 @@ Por lo anteriormente expuesto, y con fundamento en las disposiciones previamente
 
 Código de Ética del Instituto Electoral del Estado de Guanajuato
 
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2022)</small>
+
+## Título I "Ética en el servicio público"
+
 ### Capítulo I. Disposiciones Generales
 
-Ámbito de Aplicación
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
 ###### Artículo 1.
 
-Este Código es de observancia obligatoria y aplicación general para las y los servidores públicos del Instituto Electoral del Estado de Guanajuato, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño en el marco de sus atribuciones, funciones y responsabilidades.
+Este Código es de observancia obligatoria y aplicación general para las personas servidoras públicas del Instituto Electoral del Estado de Guanajuato, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño en el marco de sus atribuciones, funciones y responsabilidades.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
 Objeto
 
 ###### Artículo 2.
 
-El presente Código tiene por objeto normar la actuación de las y los servidores públicos del Instituto respecto a los principios éticos que han de regir su desempeño en el desarrollo de sus actividades dentro del Instituto, ello a fin de garantizar y promover el más alto grado de honestidad y moralidad en el ejercicio de las funciones del Estado.
+El presente Código tiene por objeto establecer los valores institucionales, reglas de integridad, principios de actuación y directrices de ética que deben observar las personas servidoras públicas del Instituto respecto a los principios éticos que han de regir su desempeño en el desarrollo de sus actividades dentro del mismo, ello a fin de garantizar y promover el más alto grado de honestidad y moralidad en el ejercicio de las funciones del Estado, así como difundir la cultura de integridad en el servicio público.
 
 Glosario
 
@@ -97,11 +105,17 @@ g) Ley General: Ley General de Responsabilidades Administrativas;
 
 h) Órgano Interno de Control: El Órgano Interno de Control del Instituto Electoral del Estado de Guanajuato;
 
-i) Principios: Son las normas o ideas fundamentales que rigen el pensamiento o la conducta de los servidores públicos;
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
-j) Servidor público del Instituto: Toda persona que desempeña un empleo, cargo o comisión de cualquier naturaleza en el Instituto, de forma permanente o eventual, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones;
+i) Principios: Son las normas o ideas fundamentales que rigen el pensamiento o la conducta de las personas servidoras públicas;
 
-k) Valores: Son aquellas actitudes, prácticas y cualidades positivas adquiridas socialmente a partir de los principios y la educación, que influyen en el juicio moral de los servidores públicos al tomar decisiones;
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+j) Persona servidora pública del Instituto: Toda persona que desempeña un empleo, cargo o comisión de cualquier naturaleza en el Instituto, de forma permanente o eventual, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones;
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+k) Valores: Son aquellas actitudes, prácticas y cualidades positivas adquiridas socialmente a partir de los principios y la educación, que influyen en el juicio moral de las personas servidoras públicas al tomar decisiones;
 
 ### Capítulo II. Función, Actividades, Misión y Visión del Instituto
 
@@ -135,19 +149,23 @@ Objetivos y atribuciones
 
 Los objetivos y atribuciones del Instituto se encuentran regulados por lo dispuesto en la Constitución General, Constitución Local y en la Ley de Instituciones.
 
-Actuación de los Servidores
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Actuación de las personas servidoras públicas
 
 ###### Artículo 8.
 
-Las y los servidores públicos del Instituto, deben actuar bajo los principios, valores y reglas de integridad de este Código, a fin de contribuir al logro de la Misión, Visión, Objetivos y Atribuciones del Instituto.
+Las personas servidoras públicas del Instituto, deben actuar bajo los principios, valores y reglas de integridad de este Código, a fin de contribuir al logro de la Misión, Visión, Objetivos y Atribuciones.
 
 ### Capítulo III. Principios y Valores
 
 Principios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2022)</small>
+
 ###### Artículo 9.
 
-Los principios a los que deben ajustar su actuar las y los servidores públicos del Instituto en el desempeño de su empleo, cargo o comisión, son:
+Los principios a los que deben ajustar su actuar las personas servidoras públicas del Instituto en el desempeño de su empleo, cargo o comisión, son:
 
 a) Legalidad: Las personas servidoras públicas del Instituto hacen sólo aquello que las normas expresamente les confieren y en todo momento someten su actuación a las facultades que las leyes, reglamentos y demás disposiciones jurídicas atribuyen a su empleo, cargo o comisión, por lo que conocen y cumplen las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones.
 
@@ -181,9 +199,11 @@ o) Equidad: Las personas servidoras públicas del Instituto procurarán que toda
 
 Valores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2022)</small>
+
 ###### Artículo 10.
 
-Las y los servidores públicos del Instituto habrán de internalizar como propios en el ejercicio de sus funciones los valores siguientes:
+Las personas servidoras públicas del Instituto habrán de internalizar como propios en el ejercicio de sus funciones los valores siguientes:
 
 a) Interés público: Las personas servidoras públicas del Instituto actúan buscando en todo momento la máxima atención de las necesidades y demandas de la sociedad por encima de intereses y beneficios particulares, ajenos a la satisfacción colectiva.
 
@@ -203,73 +223,109 @@ h) Liderazgo: Las personas servidoras públicas del Instituto son guía, ejemplo
 
 ### Capítulo IV. Reglas de Integridad
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
 Reglas de integridad
 
 ###### Artículo 11.
 
-Para el ejercicio del servicio público el actuar de las y los servidores púbicos (sic) del Instituto, se componen por los supuestos siguientes:
+. Para el ejercicio del servicio público el actuar de las personas servidoras públicas del Instituto, se compone por los supuestos siguientes:
 
-a) Actuación pública. La o el servidor público del Instituto que desempeña un empleo, cargo o comisión, conduce su actuación con legalidad, honradez, imparcialidad, disciplina, profesionalismo, objetividad, integridad, economía y equidad sin ostentación y con una clara orientación al interés público.
+a) Actuación pública. La persona servidora pública del Instituto que desempeña un empleo, cargo o comisión, conduce su actuación con legalidad, honradez, imparcialidad, disciplina, profesionalismo, objetividad, integridad, economía y equidad sin ostentación y con una clara orientación al interés público.
 
-b) Información pública. La o el servidor público del Instituto que desempeña un empleo, cargo o comisión, conduce su actuación conforme al principio de transparencia, resguardando la documentación e información institucional que tiene bajo su responsabilidad.
+b) Información pública. La persona servidora pública del Instituto que desempeña un empleo, cargo o comisión, conduce su actuación conforme al principio de transparencia, acceso a la información y protección de datos personales resguardando la documentación e información institucional que tiene bajo su responsabilidad.
 
-c) Contrataciones públicas, licencias, permisos, autorizaciones y concesiones. La o el servidor público del Instituto que con motivo de su empleo, cargo o comisión, participa en contrataciones públicas, licencias, permisos, autorizaciones y concesiones, se conduce con legalidad, honradez, imparcialidad, transparencia y rendición de cuentas, orienta sus decisiones a las necesidades e intereses de la sociedad y garantiza las mejores condiciones para llevar a cabo las actividades del Instituto.
+c) Contrataciones públicas, licencias, permisos, autorizaciones y concesiones. La persona servidora pública del Instituto que, con motivo de su empleo, cargo o comisión, participa en contrataciones públicas, licencias, permisos, autorizaciones y concesiones, se conduce con legalidad, honradez, imparcialidad, transparencia y rendición de cuentas, orienta sus decisiones a las necesidades e intereses de la sociedad y garantiza las mejores condiciones para llevar a cabo las actividades del Instituto.
 
-d) Programa y presupuesto institucional. La o el servidor público del Instituto que con motivo de su empleo, cargo o comisión o a través de subordinados, participan en las actividades de los programas anuales de trabajo y en el ejercicio del presupuesto del Instituto, deberá sujetar su actuar a los principios de legalidad, honradez, eficiencia, economía, profesionalismo, rendición de cuentas y eficacia, garantizando las mejores condiciones para realizar las actividades y ejercer el presupuesto del Instituto.
+d) Programa y presupuesto institucional. La persona servidora pública del Instituto que con motivo de su empleo, cargo o comisión o a través de subordinados, participan en las actividades de los programas anuales de trabajo y en el ejercicio del presupuesto, deberá sujetar su actuar a los principios de legalidad, honradez, eficiencia, economía, profesionalismo, rendición de cuentas y eficacia, garantizando las mejores condiciones para realizar las actividades y ejercer el presupuesto del Instituto.
 
-e) Trámites y servicios. La o el servidor público del Instituto que con motivo de su empleo, cargo o comisión participe en la prestación de trámites y en el otorgamiento de servicios, atenderá a cualquier persona de forma imparcial, integra, equitativa, respetuosa, sin discriminación y responsable.
+e) Trámites y servicios. La persona servidora pública del Instituto que con motivo de su empleo, cargo o comisión participe en la prestación de trámites y en el otorgamiento de servicios, atenderá a cualquier persona de forma imparcial, íntegra, equitativa, respetuosa, sin discriminación y responsable.
 
-f) Recursos humanos. La o el servidor público del Instituto que por el desempeño de su empleo, cargo o comisión participe en procedimientos de recursos humanos, se apegará a los principios de legalidad, imparcialidad, profesionalismo, transparencia, competencia por mérito, equidad, igualdad y no discriminación.
+f) Recursos humanos. La persona servidora pública del Instituto que, por el desempeño de su empleo, cargo o comisión participe en procedimientos de recursos humanos, se apegará a los principios de legalidad, imparcialidad, profesionalismo, transparencia, competencia por mérito, equidad, igualdad y no discriminación.
 
-g) Administración de bienes muebles e inmuebles. La o el servidor público del Instituto que con motivo de su empleo, cargo o comisión, participe en procedimientos de baja, enajenación, transferencia o destrucción de bienes muebles o de administración de bienes inmuebles, administra los recursos con honradez, imparcialidad, eficiencia, economía, transparencia y rendición de cuentas para satisfacer los objetivos a los que están destinados.
+g) Administración de bienes muebles e inmuebles. La persona servidora pública del Instituto que, con motivo de su empleo, cargo o comisión, participe en procedimientos de baja, enajenación, transferencia o destrucción de bienes muebles o de administración de bienes inmuebles, administra los recursos con honradez, imparcialidad, eficiencia, economía, transparencia y rendición de cuentas para satisfacer los objetivos a los que están destinados.
 
-h) Procesos de evaluación. La o el servidor público del Instituto que con motivo de su empleo, cargo o comisión, participe en procesos de evaluación, se apegará en todo momento a los principios de legalidad, honradez, imparcialidad, objetividad, transparencia, competencia por mérito, igualdad y no discriminación.
+h) Procesos de evaluación. La persona servidora pública del Instituto que, con motivo de su empleo, cargo o comisión, participe en procesos de evaluación, se apegará en todo momento a los principios de legalidad, honradez, imparcialidad, objetividad, transparencia, competencia por mérito, igualdad y no discriminación.
 
-i) Control interno. La o el servidor público del Instituto que en el ejercicio de su empleo, cargo o comisión, participe en procesos en materia de control interno, o que genere, obtenga, utilice y comunique información suficiente, oportuna, confiable y de calidad relacionada con dichos procesos, deberá apegarse a los principios de legalidad, honradez, lealtad, imparcialidad, eficiencia, economía, profesionalismo, transparencia y rendición de cuentas y eficacia.
+i) Control interno. La persona servidora pública del Instituto que, en el ejercicio de su empleo, cargo o comisión, participe en procesos en materia de control interno, o que genere, obtenga, utilice y comunique información suficiente, oportuna, confiable y de calidad relacionada con dichos procesos, deberá apegarse a los principios de legalidad, honradez, lealtad, imparcialidad, eficiencia, economía, profesionalismo, transparencia y rendición de cuentas y eficacia.
 
-j) Procedimiento administrativo. La o el servidor público del Instituto que en el ejercicio de su empleo, cargo o comisión, participa en investigaciones y procedimientos administrativos respeta las formalidades esenciales del procedimiento y la garantía de audiencia conforme a los principios de legalidad, honradez, imparcialidad, objetividad, integridad, igualdad y sin discriminación.
+j) Procedimiento administrativo. La persona servidora pública del Instituto que, en el ejercicio de su empleo, cargo o comisión, participa en investigaciones y procedimientos administrativos respeta las formalidades esenciales del procedimiento y la garantía de audiencia conforme a los principios de legalidad, honradez, imparcialidad, objetividad, integridad, igualdad y sin discriminación.
 
-k) Desempeño permanente con integridad. La o el servidor público del Instituto que desempeña un empleo, cargo o comisión, debe conducirse bajo los principios y valores de este Código, a fin de dar certeza plena de su actuar frente a las personas en general.
+k) Desempeño permanente con integridad. La persona servidora pública del Instituto que desempeña un empleo, cargo o comisión, debe conducirse bajo los principios y valores de este Código, a fin de dar certeza plena de su actuar frente a las personas en general.
 
-l) Cooperación con la integridad. La o el servidor público del Instituto, en el desempeño de su empleo, cargo o comisión, cooperará y propiciará el trabajo en equipo en su área de labores, a fin de que el Instituto alcance su función, actividades, misión y visión. Además, cualquier servidor público o servidora pública del Instituto colaborará con las instancias encargadas de vigilar el cumplimiento de los principios y valores intrínsecos al servicio público, en el fortalecimiento de la cultura ética y de servicio a la sociedad. Son acciones que, de manera enunciativa y no limitativa, hacen posible propiciar un servicio público íntegro, las siguientes:
+l) Cooperación con la integridad. La persona servidora pública del Instituto, en el desempeño de su empleo, cargo o comisión, cooperará y propiciará el trabajo en equipo en su área de labores, a fin de que el Instituto alcance su función, actividades, misión y visión. Además, cualquier persona servidora pública del Instituto colaborará con las instancias encargadas de vigilar el cumplimiento de los principios y valores intrínsecos al servicio público, en el fortalecimiento de la cultura ética y de servicio a la sociedad. Son acciones que, de manera enunciativa y no limitativa, hacen posible propiciar un servicio público íntegro, las siguientes:
 
 I. Detectar áreas sensibles o vulnerables a la corrupción.
 
 II. Proponer, en su caso, adoptar cambios a las estructuras y procesos a fin de inhibir ineficiencias, corrupción y conductas antiéticas.
 
-III. Recomendar, diseñar y establecer mejores prácticas a favor del servicio público.
+III. Recomendar, diseñar y establecer mejores prácticas en favor del servicio público.
 
-m) Comportamiento digno. La o el servidor público en el desempeño de su empleo, cargo, comisión o función, se conduce en forma digna sin proferir expresiones, adoptar comportamientos, usar lenguaje o realizar acciones de hostigamiento o acoso sexual o laboral, manteniendo para ello una actitud de respeto hacia las personas con las que tiene o guarda relación en la función pública.
+m) Comportamiento digno. La persona servidora pública en el desempeño de su empleo, cargo, comisión o función, se conduce en forma digna sin proferir expresiones, adoptar comportamientos, usar lenguaje o realizar acciones de hostigamiento o acoso sexual o laboral, manteniendo para ello una actitud de respeto hacia las personas con las que tiene o guarda relación en la función pública.
 
 ### Capítulo V. Directrices
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
 ###### Artículo 12.
 
-Para la efectiva aplicación y conocimiento de los principios referidos en el artículo 9 del presente Código, los servidores públicos del Instituto se ajustarán a las directrices referidas en los artículos 7 de la Ley General y 7 de la Ley del Estado.
+Para la efectiva aplicación y conocimiento de los principios referidos en el artículo 9 del presente Código, las personas servidoras públicas del Instituto se ajustarán a las directrices referidas en los artículos 7 de la Ley General y 7 de la Ley del Estado, siendo las siguientes:
+
+I. Actuar conforme a lo que las leyes, reglamentos y demás disposiciones jurídicas les atribuyen a su empleo, cargo o comisión, por lo que deben conocer y cumplir las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones.
+
+II. Conducirse con rectitud sin utilizar su empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceras personas, ni buscar o aceptar compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización.
+
+III. Satisfacer el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población.
+
+IV. Dar a las personas en general el mismo trato, por lo que no concederán privilegios o preferencias a organizaciones o personas, ni permitirán que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva.
+
+V. Actuar conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades.
+
+VI. Administrar los recursos públicos que estén bajo su responsabilidad, sujetándose a los principios de austeridad, eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
+
+VII. Promover, respetar, proteger y garantizar los derechos humanos establecidos en la Constitución.
+
+VIII. Corresponder a la confianza que la sociedad les ha conferido; tendrán una vocación absoluta de servicio a la sociedad, y preservarán el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general;
+
+IX. Evitar y dar cuenta de los intereses que puedan entrar en conflicto con el desempeño responsable y objetivo de sus facultades y obligaciones.
+
+X. Se abstendrán de asociarse con inversionistas, contratistas o empresarios nacionales o extranjeros, para establecer cualquier tipo de negocio privado que afecte el desempeño imparcial y objetivo en razón de intereses personales o familiares, hasta el cuarto grado por consanguinidad o afinidad;
+
+XI. Separarse legalmente de los activos e intereses económicos que afecten de manera directa el ejercicio de sus responsabilidades en el servicio público y que constituyan conflicto de intereses, de acuerdo con lo establecido en la Ley, en forma previa a la asunción de cualquier empleo, cargo o comisión.
+
+XII. Abstenerse de intervenir o promover, por sí o por interpósita persona, en la selección, nombramiento o designación para el servicio público de personas con quienes tenga parentesco por filiación hasta el cuarto grado o por afinidad hasta el segundo grado, y
+
+XIII. Abstenerse de realizar cualquier trato o promesa privada que comprometa al Estado mexicano.
+
+La separación de activos o intereses económicos a que se refiere la fracción XI de este artículo deberá comprobarse mediante la exhibición de los instrumentos legales conducentes, mismos que deberán incluir una cláusula que garantice la vigencia de la separación durante el tiempo de ejercicio del cargo y hasta por un año posterior a haberse retirado del empleo, cargo o comisión.
 
 ### Capítulo VI. Principios de la Función Electoral
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
 Principios de la Función Electoral
 
 ###### Artículo 13.
 
-Los principios de la función electoral son normas básicas e indispensables que rigen el actuar de los servidores públicos del Instituto, siendo estos los siguientes:
+Los principios de la función electoral son normas básicas e indispensables que rigen el actuar de las personas servidoras públicas del Instituto, siendo estos los siguientes:
 
-a) Certeza: Consiste en que las y los servidores públicos del Instituto cuenten con facultades expresas de modo que todos los participantes en el proceso electoral conozcan previamente con claridad y seguridad las reglas a que su propia actuación y la de las autoridades electorales están sujetas.
+a) Certeza: Consiste en que las personas servidoras públicas del Instituto cuenten con facultades expresas de modo que todos los participantes en el proceso electoral conozcan previamente con claridad y seguridad las reglas a que su propia actuación y la de las autoridades electorales están sujetas.
 
-b) Imparcialidad: Consiste en que en el ejercicio de sus funciones las y los servidores públicos del Instituto eviten irregularidades, desviaciones o la proclividad partidista.
+b) Imparcialidad: Consiste en que en el ejercicio de sus funciones las personas servidoras públicas del Instituto eviten irregularidades, desviaciones o la proclividad partidista.
 
-c) Independencia. Entendida como aquella situación institucional que permite a las y los servidores públicos del Instituto emitir sus decisiones con plena imparcialidad y en estricto apego a la normatividad aplicable al caso, sin tener que acatar o someterse a indicaciones, instrucciones, sugerencias o insinuaciones provenientes de superiores jerárquicos, de otros poderes del Estado o de personas con las que guardan alguna relación de afinidad política, social o cultural.
+c) Independencia. Entendida como aquella situación institucional que permite a las personas servidoras públicas del Instituto emitir sus decisiones con plena imparcialidad y en estricto apego a la normatividad aplicable al caso, sin tener que acatar o someterse a indicaciones, instrucciones, sugerencias o insinuaciones provenientes de superiores jerárquicos, de otros poderes del Estado o de personas con las que guardan alguna relación de afinidad política, social o cultural.
 
-d) Legalidad: La garantía formal para que los ciudadanos y las y los servidores públicos del Instituto actúen en estricto apego a las disposiciones consignadas en la ley, de tal manera que no se emitan o desplieguen conductas caprichosas o arbitrarias al margen del texto normativo.
+d) Legalidad: La garantía formal para que los ciudadanos y las personas servidoras públicas del Instituto actúen en estricto apego a las disposiciones consignadas en la ley, de tal manera que no se emitan o desplieguen conductas caprichosas o arbitrarias al margen del texto normativo.
 
 e) Máxima publicidad: Implica la facilidad de acceso, exhaustividad en la búsqueda, localización, generación y entrega de la información solicitada.
 
-Asimismo, cualquier información que de acuerdo con la ley es pública, conserva esa calidad y naturaleza, por lo que debe darse a conocer, con excepción de la confidencial, esto es, aquella que contiene datos de las personas que conciernan a su vida íntima o privada, o que generen su identificación por parte de terceros.
+Asimismo, cualquier información que de acuerdo con la ley es pública, conserva esa calidad y naturaleza, por lo que debe darse a conocer, con excepción de la confidencial, esto es, aquella que contiene datos de las personas que conciernan a su vida íntima o privada, o que generen su identificación por parte de terceras personas.
 
-f) Objetividad: Obliga a que las normas y mecanismos del proceso electoral que diseñen las y los servidores públicos del Instituto estén elaboradas para evitar conflictos relativos a los actos previos de la jornada electoral, durante su desarrollo y en las etapas posteriores a la misma.
+f) Objetividad: Obliga a que las normas y mecanismos del proceso electoral que diseñen las personas servidoras públicas del Instituto estén elaboradas para evitar conflictos relativos a los actos previos de la jornada electoral, durante su desarrollo y en las etapas posteriores a la misma.
 
 ### Capítulo VII. Principios Complementarios
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
 Principios Complementarios
 
@@ -277,13 +333,13 @@ Principios Complementarios
 
 Durante el proceso electoral, es imprescindible para que una elección se considere producto del ejercicio popular de la soberanía, dentro del sistema jurídico-político construido en la Constitución General y en las Leyes Electorales del Estado, la obediencia de los siguientes principios:
 
-a) Equidad en la contienda electoral: El principio de equidad en la contienda electoral supone que el servidor público o la servidora pública propiciará que las condiciones materiales y reglas de la competencia electoral, no favorezcan ni perjudiquen indebidamente a alguno de los participantes.
+a) Equidad en la contienda electoral: El principio de equidad en la contienda electoral supone que la persona servidora pública propiciará que las condiciones materiales y reglas de la competencia electoral, no favorezcan ni perjudiquen indebidamente a alguno de los participantes.
 
 b) Elecciones libres, auténticas y periódicas: En el terreno político estos principios implican que el elector debe quedar libre de ciertas formas explícitas de coacción.
 
 En ese sentido, las libertades elementales consisten en que:
 
-I. El voto no se vea influido por intimidación ni soborno. Es decir, que el ciudadano no reciba castigo ni recompensa por su voto individual.
+I. El voto no se vea influido por intimidación ni soborno. Es decir, que la ciudadanía no reciba castigo ni recompensa por su voto individual.
 
 II. Emita su voto en el escenario antes mencionado, garantizado por sus libertades públicas.
 
@@ -291,7 +347,7 @@ III. Vote con pleno conocimiento de las propuestas políticas derivado de una eq
 
 c) Sufragio universal, libre, secreto y directo:
 
-I. Universalidad del sufragio. Se funda en el principio de un hombre, un voto. Con base en este principio, se pretende la máxima extensión del cuerpo electoral para asegurar la coincidencia del electorado activo con la capacidad de derecho público.
+I. Universalidad del sufragio. Se funda en el principio de una persona, un voto. Con base en este principio, se pretende la máxima extensión del cuerpo electoral para asegurar la coincidencia del electorado activo con la capacidad de derecho público.
 
 II. Libertad de sufragio. Su principal componente es la vigencia efectiva de las libertades políticas, se traduce en que el voto no debe estar sujeto a presión, intimidación o coacción alguna.
 
@@ -311,45 +367,247 @@ Bases e Integración
 
 El Órgano Interno de Control emitirá las bases mediante las cuales se regule la integración, organización, atribuciones y funcionamiento del Comité de Ética y Conducta.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
 Código de Conducta
 
 ###### Artículo 17.
 
-El Comité elaborará un Código de Conducta, que será de observancia obligatoria para los y las servidores públicos del Instituto, el cual deberá ser aprobado por el Órgano Interno de Control.
+El Comité elaborará un Código de Conducta, que será de observancia obligatoria para las personas servidoras públicas del Instituto, el cual deberá ser aprobado por el Órgano Interno de Control.
 
-El Código de Conducta es el instrumento mediante el cual se aplicará el presente Código, y en él se especificará la forma en que las y los servidores públicos del Instituto aplicaran los principios, valores y reglas de integridad en su actuar para el desempeño de su empleo, cargo o comisión en el Instituto.
+El Código de Conducta es el instrumento mediante el cual se aplicará el presente Código, y en él se especificará la forma en que las personas servidoras públicas del Instituto aplicaran los principios, valores, reglas de integridad y directrices en su actuar para el desempeño de su empleo, cargo o comisión en el Instituto.
 
 ### Capítulo IX. Mecanismos de capacitación y difusión de los Códigos de Ética y de Conducta
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
 Del Programa Anual
 
 ###### Artículo 18.
 
-El Comité elaborará un Programa de actividades, el cual tendrá como fin la divulgación de los Códigos de Ética y de Conducta, así como la capacitación, prevención y sensibilización de las y los servidores públicos del Instituto, a fin de evitar la materialización de riesgos éticos y, en su caso, fortalecer la formación del juicio ético necesario para su prevención.
+El Comité elaborará un Programa de actividades, el cual tendrá como fin la divulgación de los Códigos de Ética y de Conducta, así como la capacitación, prevención y sensibilización de las personas servidoras públicas del Instituto, a fin de evitar la materialización de riesgos éticos y, en su caso, fortalecer la formación del juicio ético necesario para su prevención.
 
-El Programa de actividades al que se refiere el párrafo anterior contendrá cursos, talleres, conferencias, seminarios o cualquier otro mecanismo que se impartirán de manera presencial o virtual, y tendrán como objetivo que se facilite el conocimiento y sensibilización en los principios, valores y reglas de integridad que rigen el ejercicio del servicio público.
+El Programa de actividades al que se refiere el párrafo anterior contendrá cursos, talleres, conferencias, seminarios o cualquier otro mecanismo que se impartirán de manera presencial o virtual, y tendrán como objetivo que se facilite el conocimiento y sensibilización en los principios, valores, reglas de integridad y directrices que rigen el ejercicio del servicio público.
 
-A efecto de promover el conocimiento y aplicación del presente Código y que éste facilite su eficacia en la prevención de la corrupción, el Comité difundirá sus mecanismos de capacitación a través de los medios de comunicación interna del Instituto; así mismo, recabará de las y los servidores públicos del Instituto, la “Declaración de conocimiento y apego al Código de Ética”.
+A efecto de promover el conocimiento y aplicación del presente Código y que éste facilite su eficacia en la prevención de la corrupción, el Comité difundirá sus mecanismos de capacitación a través de los medios de comunicación institucionales; así mismo, recabará de las personas servidoras públicas del Instituto, la "Declaración de conocimiento y apego al Código de Ética”.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
 De la promoción y reconocimientos
 
 ###### Artículo 19.
 
-Para la promoción de la ética en el servicio público del Instituto, como una tarea y un compromiso asumidos personal y colectivamente, el Comité promoverá la transversalización de las reglas de integridad pública a través de la sensibilización, la divulgación y la capacitación, así como la promoción de un liderazgo ético que reconozca a todas las personas como factores centrales en la consolidación de la nueva ética pública.
+Para la promoción de la ética en el servicio público, como una tarea y un compromiso asumidos personal y colectivamente, el Comité promoverá la transversalización de las reglas de integridad pública a través de la sensibilización, la divulgación y la capacitación, así como la promoción de un liderazgo ético que reconozca a todas las personas como factores centrales en la consolidación de la nueva ética pública.
 
-Se reconocerá de manera particular a aquellas personas que, en su desempeño, motiven a sus compañeros y compañeras en la práctica de los valores del servicio público. A fin de realizar lo anterior, el Comité emitirá una convocatoria anual que contendrá las bases para el reconocimiento de los servidores públicos antes referidos.
+Se reconocerá de manera particular a aquellas personas que, en su desempeño, motiven a la práctica de los valores del servicio público. A fin de realizar lo anterior, el Comité emitirá una convocatoria anual que contendrá las bases para el reconocimiento de las personas servidoras públicas antes referidas.
 
-### Capítulo X. Denuncias y Sanciones
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 2022)</small>
 
-Denuncia
+## Título II "Ética profesional del Órgano Interno de Control"
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 2022)</small>
+
+### Capítulo I. Principios y valores del Órgano Interno de Control
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Ámbito de aplicación
 
 ###### Artículo 20.
 
-Cualquier persona puede hacer del conocimiento ante el Órgano Interno de Control presuntos incumplimientos al Código y Código de Conducta.
+El presente Titulo es de observancia obligatoria para todas las personas integrantes del Órgano Interno de Control, en el desempeño de sus actividades.
+
+En la contratación de auditorías externas a nombre del Órgano Interno de Control, en apego a sus facultades, deberá solicitar que el contrato mediante el cual se requiera la realización de servicios, la persona o empresa a contratar se comprometa con los valores, principios y demás requisitos éticos señalados en este Título.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Misión, Visión y Objetivos
 
 ###### Artículo 21.
 
-La inobservancia de las disposiciones contenidas en el presente Código o al Código de Conducta darán lugar a las sanciones que para tal efecto señalen los dispositivos jurídicos aplicables, respetándose en todo momento lo previsto por la Constitución General, la Ley General, Ley de Instituciones y la Ley del Estado.
+El Órgano Interno de Control, tendrá la misión, visión y objetivos siguientes:
+
+Misión: Colaborar en el buen desempeño de la función primordial del Instituto, a través de la fiscalización de la gestión administrativa, la vigilancia sobre el cumplimiento de las obligaciones y el apego a la legalidad e integridad de las personas servidoras públicas en el desempeño de sus funciones coadyuvando a la elevación de los niveles de eficiencia, eficacia, calidad, transparencia y rendición de cuentas del ente e impulsar la mejora continua de los procesos administrativos y servicios públicos en el ámbito de sus atribuciones.
+
+Visión: Contribuir al abatimiento de la corrupción en el Instituto, promoviendo la transparencia en la gestión y el desempeño honesto, eficaz y eficiente de las áreas que lo conforman.
+
+Objetivos:
+
+1. Ejercer su autonomía técnica y de gestión con responsabilidad, profesionalismo, visión estratégica y capacidad auditora;
+
+2. Impulsar la cultura de la rendición de cuentas en la gestión gubernamental, con una actitud constructiva, sin incurrir en actitudes prepotentes y hostiles hacia las áreas fiscalizadas; y
+
+3. Predicar con el ejemplo, mediante la utilización honrada y racional de los recursos que le sean asignados.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Finalidad de los principios y valores
+
+###### Artículo 22.
+
+Los valores y principios del Órgano Interno de Control establecidos en el presente Título obedecen a Normas Internacionales de carácter técnico y profesional, cuya finalidad es la siguiente:
+
+1. Generar altas expectativas y confianza en la ejecución de la actividad de fiscalización: El personal del Órgano Interno de Control deberá actuar como modelo e inspirar confianza y credibilidad.
+
+2. Contar con profesionales con los más altos estándares éticos: El personal del Órgano Interno de Control se regirá por un conjunto de valores y principios que sirvan como fundamento para su actuar, reconociendo el entorno específico de las funciones que desempeña.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Valores y principios éticos
+
+###### Artículo 23.
+
+El personal del Órgano Interno de Control debe aplicar su juicio profesional en las circunstancias a las que se enfrenta, seguir los lineamientos pertinentes establecidos en el presente Título y apegarse a las reglas de conducta establecidas en la Norma ISSAI 130, emitida por la Organización Internacional de Entidades Fiscalizadoras Superiores INTOSAI, bajo los siguientes:
+
+a. Los valores éticos: definen lo que es importante y, por lo tanto, deben impulsar las decisiones del personal del Órgano Interno de Control;
+
+b. Los principios éticos: guían la manera en cómo deben llevarse a cabo los valores éticos en la práctica y, por lo tanto, lo que debe ser el comportamiento adecuado.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Valores fundamentales
+
+###### Artículo 24.
+
+El actuar del personal del Órgano Interno de Control estará basado en cinco valores éticos que contienen en su definición los principios éticos:
+
+1. Integridad: Actuar con honestidad, de forma confiable, de buena fe y a favor del interés público.
+
+2. Independencia y objetividad: Actuar de manera imparcial y objetiva, libre de influencias o circunstancias que comprometan o puedan ser vistas como comprometedoras del juicio profesional.
+
+3. Confidencialidad y Transparencia: Manejar la información de forma adecuada y con apego a la normativa en materia de transparencia y protección de datos personales, equilibrando este actuar con el derecho de acceso a la información y rendición de cuentas.
+
+4. Competencia: Adquirir y mantener conocimientos actualizados que permitan el desarrollo de habilidades apropiadas para sus funciones, actuando con seguimiento a las normas aplicables.
+
+5. Comportamiento profesional: Cumplir con las leyes, regulaciones y convenciones, y evitar cualquier acción que pueda desacreditar la profesión y de manera adversa la buena reputación del Órgano Interno de Control y del Instituto.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 2022)</small>
+
+### CAPÍTULO II. Riesgos y controles
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Factores de riesgo
+
+###### Artículo 25.
+
+El Órgano Interno de Control deberá identificar y establecer controles para disminuir los riesgos que pudieran constituir amenazas o vulnerabilidades de incumplimiento a los valores éticos de su personal, que pueden estar influenciados por los siguientes factores los cuales pueden ser reales o percibidos:
+
+1. Influencia política y presión de áreas auditadas u otras partes;
+
+2. Intereses personales;
+
+3. Sesgo inapropiado basado en decisiones previas del personal del Órgano Interno de Control;
+
+4. Promoción de los intereses de las áreas auditadas u otras partes;
+
+5. Relaciones o vínculos cercanos.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Control de riesgos
+
+###### Artículo 26.
+
+Previo a la asignación de actividades al personal del Órgano Interno de Control se identificarán probables riesgos que amenacen a cualquiera de los cinco valores éticos y se pondrán en marcha controles adecuados para prevenir y eliminar un comportamiento poco ético.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Sistema de Control de Ética
+
+###### Artículo 27.
+
+El Órgano Interno de Control contará con un Sistema de Control de Ética y riesgos compuesto por lo siguiente:
+
+a) Los valores y sus principios éticos contenidos en este Título.
+
+b) Estrategias y procedimientos específicos para guiar, dirigir y controlar el comportamiento ético del personal del Órgano Interno de Control.
+
+c) Procedimiento de control ética e identificación de riesgos de incumplimiento al presente Título y su mitigación;
+
+d) Mecanismos de protección de la identidad de las personas denunciantes, las cuales pueden ser cualquier persona física o moral, o la persona servidora pública que acude ante el órgano interno de control, con el fin de denunciar actos u omisiones que pudieran constituir faltas administrativas.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Estrategias para el comportamiento ético
+
+###### Artículo 28.
+
+El Órgano Interno de Control establecerá como estrategia para guiar, dirigir y controlar el comportamiento ético de su personal, la elaboración y difusión de materiales relativos a los valores éticos y comportamientos íntegros señalados en el presente Título.
+
+1. Previo al inicio una auditoría, investigación, sustanciación o resolución de algún asunto se aplicará un cuestionario al personal que será designado para ejecutarla, con el fin de detectar si existe algún riesgo de conflicto de interés con terceras personas que serán sujetas a dicha actividad y se procurará rotar al personal de apoyo en tanto sea posible;
+
+2. Se firmará por parte del personal designado una declaratoria bajo protesta a decir verdad que se encuentra libre de influencias o conflictos de interés para ejecutar la actividad que en su caso corresponda, así como su negativa a recibir cualquier tipo de regalo que no se encuentre contemplado en las remuneraciones del personal o en alguna convocatoria establecida dentro del Instituto;
+
+3. La misma declaratoria incluirá el compromiso de apego a los valores éticos que regulan la función de fiscalización de acuerdo con el presente código y a las Normas Profesionales del Sistema Nacional de Fiscalización;
+
+4. Durante cada actividad la persona superior jerárquica que corresponda supervisará a quienes se designe como responsables de ejecutarla y en caso de detectarse algún conflicto o riesgo de incumplimiento a los valores éticos, hará de conocimiento a la persona titular del Órgano Interno de Control quien dictará las medidas conducentes y de ser necesario sustituirá a quien deba ejecutarla.
+
+5. El personal del Órgano Interno de Control en su comportamiento promoverá la cultura de integridad y minimización de riesgos de incumplimiento: y
+
+6. El personal podrá abstenerse de realizar alguna actividad cuando manifieste que existe algún conflicto de interés o algún riesgo detectado, informándose a la persona superior jerárquica para que determine lo conducente.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Declaratoria de comportamiento ejemplar
+
+Artículo 30 (SIC). Las personas que integran el Órgano Interno de Control deberán firmar una Declaratoria de comportamiento ejemplar que contenga como mínimo lo establecido en los numerales 2 y 3 del artículo anterior, así como lo siguiente:
+
+A) Colocar la ética como una prioridad mediante acciones claras, consistentes y permanentes implementando estrategias para promover la ética, dando el ejemplo, manteniendo un alto nivel de profesionalismo, responsabilidad y transparencia en la toma de decisiones, fomentando un entorno de aprendizaje abierto y mutuo.
+
+B) Proporcionar un entorno en el que el personal del Instituto experimente un trato equitativo que propicie las buenas relaciones entre personas, reconociendo el buen comportamiento ético, asegurando que las políticas y los procedimientos se aplicarán sistemáticamente y de manera justa.
+
+C) Externar un buen ejemplo mediante un actuar honesto, fiable, de buena fe y en búsqueda del interés público. En el curso de su trabajo, deberán ser personas dignas de confianza, ajustarse a las políticas y normas establecidas por el Instituto.
+
+D) Cuidar de ejercer las responsabilidades y usar de las potestades, la información y los recursos a su disposición únicamente en beneficio del interés público. No utilizar su posición para obtener favores o beneficios personales para sí o para terceras personas.
+
+E) Estar al tanto de las vulnerabilidades de integridad para mitigarlas y actuar en consecuencia.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Selección de personal
+
+###### Artículo 31.
+
+En los procesos de selección de personal del Órgano Interno de Control se solicitará al área de recursos humanos realizar una evaluación de perfil ético en las personas aspirantes, siendo uno de los criterios relevantes para la identificación del rasgo idóneo.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Evaluación del comportamiento ético
+
+###### Artículo 32.
+
+Dentro del Órgano Interno de Control se establecerá en diciembre de cada año una evaluación al comportamiento ético observado en su personal, que correrá a cargo del superior jerárquico, las personas compañeras del mismo órgano interno y, en su caso, las personas titulares de área auditadas. Se entregarán reconocimientos al comportamiento ético sobresaliente, asimismo, deberá servir para el diseño de políticas .de fomento a la ética.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 2022)</small>
+
+## Título III "Denuncias y Sanciones”
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 2022)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2022)</small>
+
+Interpretación del Código
+
+###### Artículo 33.
+
+El Órgano Interno de Control es el facultado para resolver consultas relativas a la aplicación de las disposiciones del presente Código.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 20], P.O. 24 DE MAYO DE 2022)</small>
+
+Denuncia
+
+Articulo 34 Cualquier persona puede poner en conocimiento del Órgano Interno de Control presuntos incumplimientos al Código de Ética y Código de Conducta inclusive de manera anónima o solicitando la reserva de su identidad.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 21], P.O. 24 DE MAYO DE 2022)</small>
+
+Sanciones
+
+###### Artículo 35.
+
+La inobservancia de las disposiciones contenidas en el presente Código o al Código de Conducta darán lugar a las sanciones que para tal efecto señalen los dispositivos jurídicos aplicables, respetándose en todo momento lo previsto por la Constitución General, la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas para el Estado de Guanajuato.
 
 ## Artículo Transitorio
 
@@ -362,3 +620,15 @@ Segundo. Publíquese en el Periódico Oficial del Estado de Guanajuato, el porta
 La elección la haces tú.
 
 Guanajuato, Gto., a los 10 días del mes de febrero de dos mil diecinueve. - La Titular del Órgano Interno de Control del Instituto Electoral del Estado de Guanajuato, Mtra. Ileana Catalina Arriola Sánchez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE “REFORMAS AL CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO”.]
+
+Primero La reforma al presente Código entrará en vigor a partir del día siguiente a su publicación.
+
+Segundo. Comuníquese al Consejo General del Instituto Electoral del Estado de Guanajuato, para su conocimiento.
+
+Tercero. Publíquese en el Periódico Oficial del Estado de Guanajuato, el portal electrónico del Instituto Electoral del Estado de Guanajuato.
