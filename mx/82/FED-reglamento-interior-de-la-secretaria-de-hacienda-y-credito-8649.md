@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-hacienda-y-credito-8649
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-09-11"
-last_updated: "2021-12-21"
+last_updated: "2022-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8649&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1996-09-06"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MAYO DE 2022.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 11 de septiembre de 1996.
 
@@ -9199,7 +9199,11 @@ Los ejecutores de gasto, por conducto de sus unidades responsables, deberán rea
 
 Los derechos de los trabajadores serán respetados conforme a la legislación y normativa aplicables.
 
-Sexto. Para efectos de lo previsto en el último párrafo del artículo 38 del presente Reglamento, para agilizar la organización y colaboración entre las referidas autoridades federales, la Secretaría de la Defensa Nacional y la Secretaría de Marina podrán constituir fideicomisos públicos sin estructura, que servirán como vehículos financieros para recibir y administrar los recursos que deriven de cualquier otro vehículo que reciba la contraprestación prevista en el artículo 16 de la Ley Aduanera, con objeto de que con cargo a los patrimonio (sic) de los fideicomisos que lleguen a constituirse, se realicen los pagos correspondientes a los servicios u obra pública contratados para los puntos de entrada y salida del país que coordinan, en cumplimiento estricto a lo previsto en el artículo 16 de la Ley Aduanera.
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2022)</small>
+
+Sexto. Para efectos de lo previsto en el último párrafo del artículo 38 del presente Reglamento, la Secretaría de la Defensa Nacional y la Secretaría de Marina podrán participar como Unidades Responsables en los vehículos financieros, tales como fideicomisos públicos sin estructura, constituidos en términos del artículo 9 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que sirvan para recibir y administrar los recursos que deriven de cualquier otro vehículo financiero que reciba la contraprestación prevista en el artículo 16 de la Ley Aduanera.
+
+Lo anterior, con el objeto de que, con cargo a los patrimonios de los fideicomisos constituidos o que lleguen a constituirse, las dependencias mencionadas realicen los pagos, directamente o a través de terceros, correspondientes a los servicios u obra pública contratados por dichas dependencias, que guarden relación con las aduanas que coordinan, incluyendo los gastos necesarios para su proyección, realización, ejecución, comunicación, modernización y, en su caso, mantenimiento, en términos de las disposiciones aplicables.
 
 Séptimo. Los asuntos que a la entrada en vigor del presente instrumento jurídico se encuentren en trámite en la Administración General de Aduanas, las Aduanas y las unidades administrativas que de éstas dependan, así como aquéllos atendidos por las unidades administrativas del Servicio de Administración Tributaria que modifiquen sus atribuciones en virtud de la entrada en vigor del presente Reglamento por ser competencia de la Agencia Nacional de Aduanas de México, se tramitarán hasta su conclusión por dicha Agencia, sus Aduanas y las unidades administrativas que de éstas dependan, en el ámbito que a cada una corresponda de conformidad con su Reglamento Interior vigente.
 
@@ -9208,3 +9212,13 @@ Octavo. Las referencias que se hagan y las atribuciones que se otorgan en decret
 Para efecto de los contratos de fideicomisos públicos en los que la Administración General de Aduanas del Servicio de Administración Tributaria funja como unidad responsable, la Agencia deberá llevar a cabo todas las gestiones necesarias con la finalidad de que se modifiquen dentro de los 90 días naturales siguientes a la entrada en vigor del presente Reglamento.
 
 Noveno. Los asuntos derivados de denuncias presentadas en contra de los servidores públicos de la Administración General de Aduanas que se encuentren en trámite en la Administración General de Evaluación se trasladarán a la Dirección General de Evaluación de la Agencia Nacional, de conformidad con la legislación aplicable.
+
+D.O.F. 24 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO Y DEL REGLAMENTO INTERIOR DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA, Y POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA AGENCIA NACIONAL DE ADUANAS DE MÉXICO", PUBLICADO EL 21 DE DICIEMBRE DE 2021”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Secretaría de la Defensa Nacional deberá llevar a cabo los actos administrativos necesarios para la transferencia de los recursos humanos, materiales y financieros necesarios para la creación de la plaza de la persona titular de la Dirección General de Procesamiento Electrónico de Datos Aduaneros prevista en este Decreto. Dicha transferencia deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto autorizado a los ejecutores de gasto correspondientes y no se autorizarán recursos adicionales.
+
+Tercero. Se deroga toda disposición que se oponga al presente Decreto.
