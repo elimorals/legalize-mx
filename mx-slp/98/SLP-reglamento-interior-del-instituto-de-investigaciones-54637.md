@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-instituto-de-investigaciones-54637"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-08"
-last_updated: "2014-02-25"
+last_updated: "2022-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2022.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 8 de febrero de 2007.
 
@@ -81,9 +81,11 @@ X. Presentar al Comité un informe mensual de las actividades desarrolladas; y a
 
 XI. Difundir, en el ámbito de su competencia, los resultados del desarrollo de la base de datos de la legislación estatal y de los programas de investigación, a través de publicaciones especializadas;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
 
-XII. Elaborar, preparar, e impartir cursos por lo menos una vez al año, relacionados con elementos técnicos para elaboración de iniciativas, y conocimientos básicos del proceso legislativo para los diputados, luego de su toma de protesta al cargo, a fin de que cuenten con conocimientos y habilidades necesarias para cumplir con sus funciones parlamentarias bajo criterios de eficacia y legalidad, y
+XII. Impartir, y organizar, cursos de capacitación para las diputadas y los diputados, por lo menos cada semestre, relativos a: los elementos técnicos para la elaboración de iniciativas; conocimientos básicos del proceso legislativo; obligaciones y responsabilidades; así como de las funciones del Poder Legislativo. A fin de conocer y cumplir las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones.
+
+Para los efectos del párrafo anterior el Instituto elaborará un “Programa de Capacitación Semestral”, que describirá el contenido y duración de los cursos que se llevarán a cabo cada semestre, y
 
 > <small>(ADICIONADA, P.O. 11 DE JULIO DE 2013)</small>
 
@@ -374,5 +376,13 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 25 DE FEBRERO DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0323.- SE REFORMA EL ARTÍCULO 165, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 3º EN SU FRACCIÓN XII, DEL REGLAMENTO INTERIOR DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL CONGRESO DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
