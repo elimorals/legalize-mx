@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-agencia-nacional-de-aduanas-de-153261
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-12-21"
-last_updated: "2021-12-21"
+last_updated: "2022-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153261&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-12-21"
 
 REGLAMENTO INTERIOR DE LA AGENCIA NACIONAL DE ADUANAS DE MÉXICO
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MAYO DE 2022.
 
 Reglamento publicado en la Edición Vespertina del Número 21 del Diario Oficial de la Federación, el martes 21 de diciembre de 2021.
 
@@ -229,7 +229,15 @@ b) Dirección de Procedimientos Aduaneros;
 
 c) Dirección de Procedimientos Penales y Especiales;
 
-X. Unidad de Administración y Finanzas:
+> <small>(ADICIONADA, D.O.F. 24 DE MAYO DE 2022)</small>
+
+X. Dirección General de Procesamiento Electrónico de Datos Aduaneros:
+
+a) Dirección del Centro de Procesamiento Electrónico de Datos;
+
+b) Dirección del Centro de Formación Aduanera;
+
+XI. Unidad de Administración y Finanzas:
 
 a) Dirección de Recursos Humanos;
 
@@ -623,9 +631,13 @@ XXV. Supervisar el cumplimiento de las estrategias y procedimientos que competan
 
 XXVI. Entrevistar y aplicar, con la Unidad de Administración y Finanzas, las pruebas que se requieran a los candidatos a servidores públicos adscritos a las Aduanas;
 
-XXVII. Participar con la Unidad de Administración y Finanzas, en el diseño, organización e instrumentación de los programas de capacitación para el personal adscrito a las Aduanas, y
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2022)</small>
 
-XXVIII. Participar, con las Direcciones de la Agencia, en los asuntos relativos a la operación aduanera que no impliquen la interpretación jurídica de las disposiciones aduaneras, en materia de servicios aduanales y del despacho aduanero a que se refiere el artículo 35 de la Ley Aduanera.
+XXVII. Participar con la Unidad de Administración y Finanzas, en el diseño, organización e instrumentación de los programas de capacitación para el personal adscrito a las Aduanas, excepto en lo relativo al Centro de Formación Aduanera;
+
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2022)</small>
+
+XXVIII. Participar, con las Direcciones de la Agencia, en los asuntos relativos a la operación aduanera que no impliquen la interpretación jurídica de las disposiciones aduaneras, en materia de servicios aduanales y del despacho aduanero a que se refiere el artículo 35 de la Ley Aduanera, y
 
 XXIX. Auxiliar a la Dirección General de Modernización, Equipamiento e Infraestructura Aduanera en el ejercicio de sus facultades.
 
@@ -845,39 +857,29 @@ XIX. Proponer, en coordinación con la Unidad de Administración y Finanzas y de
 
 XX. Proveer, en conjunto con la Dirección General de Tecnologías de la Información, los sistemas, equipos, redes y dispositivos informáticos y de comunicaciones que den soporte a las funciones operativas y administrativas de las aduanas;
 
-XXI. Instrumentar y, en su caso, autorizar proyectos de tecnología de control de inspección no intrusiva en el reconocimiento aduanero o en la verificación de mercancía en transporte, así como las acciones que de estos proyectos deriven, considerando los servicios de soporte y mantenimiento especializado que coadyuven en la operación aduanera;
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2022)</small>
 
-XXII. Ordenar y practicar:
+XXI. Instrumentar y, en su caso, autorizar proyectos de tecnología de control de inspección no intrusiva en el reconocimiento aduanero o en la verificación de mercancía en transporte al interior de la Aduana, así como las acciones que de estos proyectos deriven, considerando los servicios de soporte y mantenimiento especializado que coadyuven en la operación aduanera;
 
-a) Actos de revisión, reconocimiento, verificación, inspección y vigilancia, para cerciorarse del cumplimiento de las disposiciones jurídicas que regulan la entrada y salida del territorio nacional de mercancías y medios de transporte, y
+XXII. (DEROGADA, D.O.F. 24 DE MAYO DE 2022)
 
-b) El despacho aduanero y los hechos y actos que deriven de éste o de dicha entrada o salida, en el ámbito de su competencia, así como del cumplimiento de los requisitos y las obligaciones inherentes a las autorizaciones, concesiones y patentes a que se refiere la Ley Aduanera;
+XXIII. (DEROGADA, D.O.F. 24 DE MAYO DE 2022)
 
-XXIII. Verificar el cumplimiento de las regulaciones y restricciones no arancelarias en las mercancías de comercio exterior, inclusive las normas oficiales mexicanas.
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2022)</small>
 
-Declarar que las mercancías, vehículos, embarcaciones o aeronaves pasan a propiedad del Fisco Federal.
+XXIV. Verificar y supervisar los servicios autorizados que facilitan el reconocimiento aduanero empleando tecnología no intrusiva, y
 
-Además, inspeccionar y vigilar los recintos fiscales y fiscalizados y, en este último caso, vigilar el cumplimiento de los requisitos y las obligaciones derivadas de la concesión o autorización otorgada para prestar los servicios de manejo, almacenaje y custodia de mercancías de comercio exterior.
+XXV. (DEROGADA, D.O.F. 24 DE MAYO DE 2022)
 
-Verificar ante el Servicio de Administración Tributaria el domicilio que los contribuyentes declaren en el pedimento, la transmisión electrónica o en el aviso consolidado que establece la Ley Aduanera;
+XXVI. (DEROGADA, D.O.F. 24 DE MAYO DE 2022)
 
-XXIV. Verificar y supervisar los servicios autorizados que facilitan el reconocimiento aduanero empleando tecnología no intrusiva;
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2022)</small>
 
-XXV. Dar a conocer a los contribuyentes, responsables solidarios, productores, importadores, exportadores y demás obligados en materia aduanera, los hechos u omisiones imputables a éstos, conocidos con motivo del ejercicio de sus facultades de comprobación en el despacho aduanero y hacer constar dichos hechos y omisiones en las actas u oficios que para tal efecto se levanten, en términos de la Ley Aduanera y demás disposiciones jurídicas aplicables;
+XXVII. Colaborar con la Dirección General de Investigación Aduanera en la planeación y organización de estrategias que permitan crear e instrumentar mecanismos y sistemas para prevenir y combatir conductas ilícitas relacionadas con la entrada y salida de mercancías del territorio nacional.
 
-XXVI. Mantener comunicación y colaborar con las autoridades aduaneras o de comercio exterior de otros países, así como asistir a las personas servidoras públicas de la Agencia en sus relaciones con dichas autoridades, respecto de asuntos relacionados con la entrada y salida de mercancías del territorio nacional, en el ámbito de su competencia;
+XXVIII. (DEROGADA, D.O.F. 24 DE MAYO DE 2022)
 
-XXVII. Colaborar con la Dirección General de Investigación Aduanera en la planeación y organización de estrategias que permitan crear e instrumentar mecanismos y sistemas para prevenir y combatir conductas ilícitas relacionadas con la entrada y salida de mercancías del territorio nacional;
-
-XXVIII. Participar con otras autoridades en la prevención de ilícitos en las aduanas, recintos fiscales y fiscalizados, secciones aduaneras, garitas y puntos de revisión aduaneros y en los aeropuertos, puertos marítimos y terminales ferroviarias o de autotransporte de carga o de pasajeros, autorizados para el tráfico internacional, y
-
-XXIX. Analizar, detectar y dar seguimiento respecto de los asuntos a que se refiere este artículo y con las demás autoridades competentes, sobre:
-
-a) Las operaciones específicas de comercio exterior en las que se presuma la comisión de cualquier ilícito en cuanto al valor, origen, clasificación arancelaria de mercancías;
-
-b) La evasión en el pago de los ingresos federales aduaneros, y
-
-c) El incumplimiento de regulaciones y restricciones no arancelarias inclusive normas oficiales mexicanas e infracciones administrativas.
+XXIX. (DEROGADA, D.O.F. 24 DE MAYO DE 2022)
 
 Lo anterior, para la debida aplicación del programa de control aduanero, así como dar seguimiento a las denuncias presentadas.
 
@@ -905,7 +907,9 @@ Compete a las siguientes unidades administrativas de la Dirección General de Mo
 
 I. A las direcciones de Modernización Aduanera 1, 2, 3 y 4, las señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, XI, XII y XIII del artículo 23 de este Reglamento, y
 
-II. A las direcciones de Equipamiento e Infraestructura Aduanera 1, 2, 3 y 4, las señaladas en las fracciones XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXVIII y XXIX del artículo 23 de este Reglamento.
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2022)</small>
+
+II. A las direcciones de Equipamiento e Infraestructura Aduanera 1, 2, 3 y 4, las señaladas en las fracciones IV, V, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, y XXIV del artículo 23 de este Reglamento.
 
 #### Sección IX. De la Dirección General Jurídica de Aduanas
 
@@ -1181,13 +1185,21 @@ La Dirección General de Tecnologías de la Información estará a cargo de un D
 
 Compete a las siguientes unidades administrativas de la Dirección General de Tecnologías de la Información ejercer las atribuciones que a continuación se señalan:
 
-I. A la Dirección de Planeación de Tecnologías de la Información, las señaladas en las fracciones I, II, III, IV, V, VI y VII del artículo 27 de este Reglamento;
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2022)</small>
 
-II. A la Dirección de Procesos de Tecnologías de la Información, las señaladas en las fracciones VIII, IX, X, XI, XII, XIII, XIV y XV del artículo 27 de este Reglamento;
+I. A la Dirección de Planeación de Tecnologías de la Información, las señaladas en las fracciones I, II, III, IV, V, VI y VII del artículo 29 de este Reglamento;
 
-III. A la Dirección de Soporte Tecnológico y Soluciones de Negocio, las señaladas en las fracciones XVI, XVII, XVIII, XIX, XX y XXI del artículo 27 de este Reglamento, y
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2022)</small>
 
-IV. A la Dirección de Seguridad de la Información, las señaladas en las fracciones XXII, XXIII, XXIV, XXV, XXVI, XXVII y XXVIII del artículo 27 de este Reglamento.
+II. A la Dirección de Procesos de Tecnologías de la Información, las señaladas en las fracciones VIII, IX, X, XI, XII, XIII, XIV y XV del artículo 29 de este Reglamento
+
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2022)</small>
+
+III. A la Dirección de Soporte Tecnológico y Soluciones de Negocio, las señaladas en las fracciones XVI, XVII, XVIII, XIX, XX y XXI del artículo 29 de este Reglamento, y
+
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2022)</small>
+
+IV. A la Dirección de Seguridad de la Información, las señaladas en las fracciones XXII, XXIII, XXIV, XXV, XXVI, XXVII y XXVIII del artículo 29 de este Reglamento.
 
 #### Sección XII. De la Dirección General de Planeación Aduanera
 
@@ -1357,9 +1369,59 @@ II. A la Dirección de Evaluación de Procedimientos Aduaneros, las señaladas e
 
 III. A la Dirección de Procedimientos Penales y Especiales, las señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX con excepción de la suscripción del nombramiento de los servidores públicos adscritos a la Dirección General de Evaluación, XXIII, XXIV, XXVI, XXIX, XXXI, XXXII, XL, XLII y XLIV del artículo 33 de este Reglamento.
 
-#### Sección XIV. De la Unidad de Administración y Finanzas
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 24 DE MAYO DE 2022)</small>
 
-#### Sección XV. De las Aduanas
+#### Sección XIII Bis. De la Dirección General de Procesamiento Electrónico de Datos Aduaneros
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2022)</small>
+
+###### Artículo 34 Bis.
+
+Le compete a la Dirección General de Procesamiento Electrónico de Datos Aduaneros:
+
+I. Fortalecer los principios de identidad y lealtad institucional en el personal civil y militar que se desempeñen como autoridades aduaneras;
+
+II. Fortalecer el respeto a las instituciones, símbolos patrios, cultura, tradiciones durante el desempeño de sus actividades;
+
+III. Fomentar valores y principios como el amor a la patria, honradez, honestidad, transparencia y redición de cuentas, y
+
+IV. Vigilar y supervisar que el personal a su cargo observe una conducta con apego a derecho e irrestricto respeto a los derechos humanos.
+
+V. Mantener comunicación y colaborar con las autoridades aduaneras o de comercio exterior de otros países, así como asistir a las personas servidoras públicas de la Agencia en sus relaciones con dichas autoridades, respecto de asuntos relacionados con la entrada y salida de mercancías del territorio nacional, en el ámbito de su competencia;
+
+VI. Colaborar y coordinarse con las demás unidades administrativas de la Agencia y de la Secretaría, las dependencias y entidades de la Administración Pública Federal y las autoridades de las entidades federativas y municipios, de conformidad con la legislación aduanera y demás disposiciones jurídicas aplicables. Lo anterior, respecto de la aplicación de las medidas de seguridad y control en los aeropuertos, puertos marítimos, terminales ferroviarias o de autotransporte de carga o de pasajeros y cruces fronterizos autorizados para el tráfico internacional. Para ello, deberán coordinarse con las dependencias y entidades de la Administración Pública Federal que lleven a cabo sus funciones en dichos lugares;
+
+VII. Planear, organizar, establecer, dirigir y controlar estrategias que permitan crear e instrumentar mecanismos y sistemas para prevenir y combatir conductas ilícitas relacionadas con la entrada y salida de mercancías del territorio nacional, y estudiar, analizar e investigar conductas vinculadas con el contrabando de mercancías y emitir, con las unidades administrativas de la Agencia, estrategias y alternativas tendientes a combatir dichas conductas;
+
+VIII. Participar con otras autoridades en la prevención de ilícitos en las aduanas, recintos fiscales y fiscalizados, secciones aduaneras, garitas y puntos de revisión aduaneros y en los aeropuertos, puertos marítimos y terminales ferroviarias o de autotransporte de carga o de pasajeros, autorizados para el tráfico internacional;
+
+IX. Analizar, detectar y dar seguimiento respecto de los asuntos a que se refiere este artículo y con las demás autoridades competentes, sobre:
+
+a) Las operaciones específicas de comercio exterior en las que se presuma la comisión de cualquier ilícito en cuanto al valor, origen, clasificación arancelaria de mercancías;
+
+b) La evasión en el pago de los ingresos federales aduaneros, y
+
+c) El incumplimiento de regulaciones y restricciones no arancelarias inclusive normas oficiales mexicanas e infracciones administrativas,
+
+Lo anterior, para la debida aplicación del programa de control aduanero, así como dar seguimiento a las denuncias presentadas;
+
+X. Dirigir y administrar el Centro de Procesamiento de Datos, así como administrar los Centros de Monitoreo de las Aduanas y su personal;
+
+XI. Proponer a la Dirección General Jurídica de Aduanas la firma de acuerdos, convenios o tratados internacionales en materia de intercambio de información de inteligencia en materia aduanera, así como a los funcionarios que representarán a la Agencia en los centros de inteligencia aduaneros de otros países de conformidad con dichos instrumentos;
+
+XII. Dirigir y administrar el Centro de Formación Aduanera;
+
+XIII. Reclutar, seleccionar y formar a personal civil y militar como oficial de comercio exterior, a través del Centro de Formación Aduanera;
+
+XIV. Formar y capacitar a personal civil y militar para desempeñarse en puestos estratégicos en las diferentes Aduanas del país;
+
+XV. Coordinar con las instituciones de la Administración Pública Federal, a través de convenios específicos de capacitación, el apoyo de instructores de la Agencia en aspectos de entrenamiento, entrevistas e inspecciones;
+
+A la Dirección del Centro de Procesamiento Electrónico de Datos le corresponderán las atribuciones señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X y XI.
+
+A la Dirección del Centro de Formación Aduanera le corresponderán las atribuciones señaladas en las fracciones I, II, III, IV, XII, XIII, XIV y XV.
+
+#### Sección XIV. De la Unidad de Administración y Finanzas
 
 ###### Artículo 35.
 
@@ -1381,7 +1443,9 @@ VII. Analizar y verificar la información que remitan las unidades administrativ
 
 VIII. Tramitar y solicitar ante las autoridades competentes la licencia para la portación de armas de fuego, así como los permisos que requiera el personal adscrito a la Agencia para portar dichas armas en el ejercicio de las atribuciones que tenga conferidas;
 
-IX. Diseñar, organizar e instrumentar los programas de capacitación de los servidores públicos que coadyuven al adecuado desempeño de sus funciones y a su promoción y ascenso, así como elaborar y aplicar las políticas, normas y programas de becas para dichos servidores, y celebrar contratos con los becarios;
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2022)</small>
+
+IX. Diseñar, organizar e instrumentar los programas de capacitación de los servidores públicos que coadyuven al adecuado desempeño de sus funciones y a su promoción y ascenso, así como elaborar y aplicar las políticas, normas y programas de becas para dichos servidores, y celebrar contratos con los becarios, excepto en lo relativo al diseño, organización e instrumentación de los programas de capacitación de los servidores públicos que brinda el Centro de Formación Aduanera;
 
 X. Desarrollar programas que permitan evaluar y mejorar la cultura organizacional, y fomentar los valores y principios de la Agencia;
 
@@ -1409,7 +1473,9 @@ XXI. Expedir y suscribir las credenciales oficiales de identificación del perso
 
 XXII. Emitir lineamientos para la formulación de los manuales de organización, general y específicos, de procedimientos y de servicios al público de las unidades administrativas de la Agencia;
 
-XXIII. Normar, operar y difundir los sistemas, procesos y procedimientos en materia de administración de personal y capacitación, que deberán observar las unidades administrativas de la Agencia, así como supervisar y evaluar los resultados de los mismos;
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2022)</small>
+
+XXIII. Normar, operar y difundir los sistemas, procesos y procedimientos en materia de administración de personal y capacitación, que deberán observar las unidades administrativas de la Agencia, así como supervisar y evaluar los resultados de los mismos, excepto en lo relacionado a la capacitación que proporciona el Centro de Formación Aduanera;
 
 XXIV. Definir los procesos, programas y acciones en materia de organización y modernización administrativa de la Agencia;
 
@@ -1485,7 +1551,7 @@ V. A la Dirección de Asuntos Laborales, las señaladas en las fracciones XXV, X
 
 VI. A la Dirección de Fideicomisos, las señaladas en las fracciones II, IV, VI, XXVIII, XXXVII, XXXVIII, XXXIX, XL y XLI del artículo 35 de este Reglamento.
 
-#### Sección XVI. Del Órgano Interno de Control
+#### Sección XV. De las Aduanas
 
 ###### Artículo 37.
 
@@ -1603,13 +1669,19 @@ Las Aduanas podrán ubicar su sede en cualquier municipio que corresponda a la e
 
 Para una mejor organización y colaboración de las autoridades federales que ejercen sus atribuciones en los puntos de entrada y salida del país, las autoridades que actúan en las aduanas serán coordinadas como se indica a continuación:
 
-I. Las aduanas fronterizas a que se refiere el artículo 37, apartado A de este Reglamento y la aduana a que se refiere el Apartado C, fracción II, de dicho ordenamiento, serán coordinadas por la Secretaría de la Defensa Nacional;
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2022)</small>
 
-II. Las aduanas marítimas a que se refiere el artículo 37, Apartado B de este Reglamento, y la aduana a que se refiere el Apartado C, fracción I y XII, de dicho ordenamiento, serán coordinadas por la Secretaría de Marina, y
+I. Las aduanas fronterizas a que se refiere el artículo 37, Apartado A de este Reglamento y las aduanas interiores a que se refiere el artículo 37, Apartado C, fracciones II, III, IV, V, VI, VII, VIII, IX, X y XI de dicho ordenamiento, serán coordinadas por la Secretaría de la Defensa Nacional y
 
-III. Las aduanas interiores a que se refiere el artículo 37, Apartado C, fracciones III a la XI de este Reglamento, serán coordinadas por la Agencia Nacional de Aduanas de México.
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2022)</small>
 
-Para agilizar la organización y colaboración entre las referidas autoridades federales, podrán auxiliarse de vehículos financieros que les permitan recibir y administrar los recursos cuyo destino sea lo previsto en el artículo 16 de la Ley Aduanera.
+II. Las aduanas marítimas a que se refiere el artículo 37, Apartado B de este Reglamento, y la aduana a que se refiere el Apartado C, fracción I y XII, de dicho ordenamiento, serán coordinadas por la Secretaría de Marina.
+
+III. (DEROGADA, D.O.F. 24 DE MAYO DE 2022)
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2022)</small>
+
+Para lo anterior, las autoridades federales señaladas en el presente artículo podrán auxiliarse de vehículos financieros sin estructura, constituidos en términos del artículo 9 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que servirán para recibir y administrar los recursos que deriven de cualquier otro vehículo financiero que reciba la contraprestación prevista en el artículo 16 de la Ley Aduanera.
 
 ###### Artículo 39.
 
@@ -1633,7 +1705,9 @@ V. Otorgar o cancelar las autorizaciones para que las personas y los objetos pue
 
 VI. Habilitar días y horas inhábiles para el despacho aduanero; autorizar los gafetes de identificación de las personas que presten servicios o que deban tener acceso a los recintos fiscales o fiscalizados;
 
-VII. Ordenar y practicar, actos de revisión, reconocimiento, verificación, inspección y vigilancia, para cerciorarse del cumplimiento de las disposiciones jurídicas que regulan la entrada y salida del territorio nacional de mercancías y medios de transporte, el despacho aduanero y los hechos y actos que deriven de éste o de dicha entrada o salida, así como del cumplimiento de los requisitos y las obligaciones inherentes a las autorizaciones, concesiones y patentes a que se refiere la Ley Aduanera;
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2022)</small>
+
+VII. Ordenar y practicar, actos de revisión, reconocimiento, verificación de mercancía en transporte al interior de la Aduana, inspección y vigilancia, para cerciorarse del cumplimiento de las disposiciones jurídicas que regulan la entrada y salida del territorio nacional de mercancías y medios de transporte, el despacho aduanero y los hechos y actos que deriven de éste o de dicha entrada o salida, así como del cumplimiento de los requisitos y las obligaciones inherentes a las autorizaciones, concesiones y patentes a que se refiere la Ley Aduanera;
 
 VIII. Ordenar y realizar la inspección y vigilancia permanente en el manejo, transporte o tenencia de las mercancías en los recintos fiscales o fiscalizados;
 
@@ -1695,9 +1769,9 @@ XXVII. Tramitar y resolver los procedimientos administrativos en materia aduaner
 
 XXVIII. Entregar a los interesados las mercancías objeto de una infracción a la Ley Aduanera, cuando dichas mercancías no estén sujetas a prohibiciones o restricciones y se garantice el interés fiscal;
 
-XXIX. Transferir a la instancia competente, en términos de la legislación aplicable, los bienes embargados o asegurados en el ejercicio de sus atribuciones, que hayan pasado a propiedad del Fisco Federal o de los que pueda disponer en términos de la normativa correspondiente.
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2022)</small>
 
-Asimismo, realizar, de conformidad con las políticas, procedimientos y criterios que al efecto se emitan, la asignación, donación o destrucción de los bienes embargados cuando no puedan ser transferidos a la instancia competente de acuerdo con las disposiciones jurídicas aplicables;
+XXIX. Transferir a la instancia competente, en términos de la legislación aplicable, los bienes abandonados, retenidos, embargados o asegurados en el ejercicio de sus atribuciones, que hayan pasado a propiedad del Fisco Federal o de los que pueda disponer en términos de la normativa correspondiente, y realizar, de conformidad con las políticas, procedimientos y criterios que al efecto se emitan, la asignación, donación o destrucción de los bienes embargados cuando no puedan ser transferidos a la instancia competente de acuerdo con las disposiciones jurídicas aplicables;
 
 XXX. Evaluar y, en su caso, aceptar las garantías que se otorguen respecto de los ingresos federales aduaneros que se causen con motivo de la entrada o salida del territorio nacional de mercancías y medios de transporte, de acuerdo con los lineamientos que emita el Servicio de Administración Tributaria;
 
@@ -1717,9 +1791,11 @@ XXXIV. Tramitar y registrar las importaciones o internaciones temporales de veh�
 
 XXXV. Tramitar y registrar la toma de muestras de mercancías en depósito ante la aduana;
 
-XXXVI. Coordinar los programas en materia de seguridad aduanera;
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2022)</small>
 
-XXXVII. Participar con otras autoridades en la prevención de ilícitos en las aduanas, recintos fiscales y fiscalizados, secciones aduaneras, garitas y puntos de revisión aduaneros y en los aeropuertos, puertos marítimos y terminales ferroviarias o de autotransporte de carga o de pasajeros, autorizados para el tráfico internacional, y
+XXXVI. Coordinar los programas en materia de seguridad aduanera, y
+
+XXXVII. (DEROGADA, D.O.F. 24 DE MAYO DE 2022)
 
 XXXVIII. Coadyuvar en la vigilancia del cumplimiento de obligaciones de las personas autorizadas en términos del segundo párrafo del artículo 16 de la Ley Aduanera y de los dictaminadores aduaneros, así como en la integración del expediente respectivo.
 
@@ -1727,9 +1803,13 @@ XXXVIII. Coadyuvar en la vigilancia del cumplimiento de obligaciones de las pers
 
 Compete a los verificadores, incluidos los técnicos, adscritos a las aduanas, lo siguiente:
 
-I. Las facultades establecidas en las fracciones VIII, X, XI, XII, XIII, XIV, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXIX, XXXI, XXXIV y XXXV del artículo 25 de este Reglamento, y
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2022)</small>
+
+I. Las facultades establecidas en las fracciones VIII, X, XI, XII, XIII, XIV, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXIX, XXXI, XXXIV y XXXV del artículo 40 de este Reglamento, y
 
 II. Practicar el reconocimiento aduanero de las mercancías, recibir de los particulares, responsables solidarios y terceros con ellos relacionados catálogos y demás elementos que le permitan identificar las mercancías, a fin de verificar el cumplimiento de las disposiciones jurídicas en materia aduanera y llevar a cabo los actos necesarios para cerciorarse del cumplimiento de las disposiciones jurídicas que regulan la entrada y salida del territorio nacional de mercancías y medios de transporte, el despacho aduanero y los hechos y actos que deriven de éste o de dicha entrada o salida.
+
+#### Sección XVI. Del Órgano Interno de Control
 
 ###### Artículo 42.
 
@@ -1741,9 +1821,11 @@ Las personas servidoras públicas y las unidades administrativas de la Agencia e
 
 ### CAPÍTULO III. De las Suplencias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE MAYO DE 2022)</small>
+
 ###### Artículo 43.
 
-La persona titular de la Agencia será suplida en sus ausencias por las personas titulares de las Direcciones y Unidad de Administración y Finanzas a que se refiere el artículo 3, apartado B, de este Reglamento, en el orden indicado.
+La persona titular de la Agencia será suplida en sus ausencias por las personas titulares de las Direcciones y Unidad de Administración y Finanzas a que se refiere el artículo 4, apartado B, de este Reglamento, en el orden indicado.
 
 La persona titular de la Agencia será suplida en sus ausencias por la Dirección General Jurídica de Aduanas exclusivamente para interponer ante los Tribunales Colegiados de Circuito los recursos de revisión a que se refiere la Ley Federal de Procedimiento Contencioso Administrativo en contra de las sentencias emitidas por el Pleno, Sección o Salas Regionales o Especializadas del Tribunal Federal de Justicia Administrativa que se dicten en los juicios contenciosos administrativos.
 
@@ -1775,7 +1857,11 @@ Los ejecutores de gasto, por conducto de sus unidades responsables, deberán rea
 
 Los derechos de los trabajadores serán respetados conforme a la legislación y normativa aplicables.
 
-Sexto. Para efectos de lo previsto en el último párrafo del artículo 38 del presente Reglamento, para agilizar la organización y colaboración entre las referidas autoridades federales, la Secretaría de la Defensa Nacional y la Secretaría de Marina podrán constituir fideicomisos públicos sin estructura, que servirán como vehículos financieros para recibir y administrar los recursos que deriven de cualquier otro vehículo que reciba la contraprestación prevista en el artículo 16 de la Ley Aduanera, con objeto de que con cargo a los patrimonio (sic) de los fideicomisos que lleguen a constituirse, se realicen los pagos correspondientes a los servicios u obra pública contratados para los puntos de entrada y salida del país que coordinan, en cumplimiento estricto a lo previsto en el artículo 16 de la Ley Aduanera.
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2022)</small>
+
+Sexto. Para efectos de lo previsto en el último párrafo del artículo 38 del presente Reglamento, la Secretaría de la Defensa Nacional y la Secretaría de Marina podrán participar como Unidades Responsables en los vehículos financieros, tales como fideicomisos públicos sin estructura, constituidos en términos del artículo 9 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que sirvan para recibir y administrar los recursos que deriven de cualquier otro vehículo financiero que reciba la contraprestación prevista en el artículo 16 de la Ley Aduanera.
+
+Lo anterior, con el objeto de que, con cargo a los patrimonios de los fideicomisos constituidos o que lleguen a constituirse, las dependencias mencionadas realicen los pagos, directamente o a través de terceros, correspondientes a los servicios u obra pública contratados por dichas dependencias, que guarden relación con las aduanas que coordinan, incluyendo los gastos necesarios para su proyección, realización, ejecución, comunicación, modernización y, en su caso, mantenimiento, en términos de las disposiciones aplicables.
 
 Séptimo. Los asuntos que a la entrada en vigor del presente instrumento jurídico se encuentren en trámite en la Administración General de Aduanas, las Aduanas y las unidades administrativas que de éstas dependan, así como aquéllos atendidos por las unidades administrativas del Servicio de Administración Tributaria que modifiquen sus atribuciones en virtud de la entrada en vigor del presente Reglamento por ser competencia de la Agencia Nacional de Aduanas de México, se tramitarán hasta su conclusión por dicha Agencia, sus Aduanas y las unidades administrativas que de éstas dependan, en el ámbito que a cada una corresponda de conformidad con su Reglamento Interior vigente.
 
@@ -1786,3 +1872,15 @@ Para efecto de los contratos de fideicomisos públicos en los que la Administrac
 Noveno. Los asuntos derivados de denuncias presentadas en contra de los servidores públicos de la Administración General de Aduanas que se encuentren en trámite en la Administración General de Evaluación se trasladarán a la Dirección General de Evaluación de la Agencia Nacional, de conformidad con la legislación aplicable.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de diciembre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Rogelio Ramírez de la O.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 24 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO Y DEL REGLAMENTO INTERIOR DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA, Y POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA AGENCIA NACIONAL DE ADUANAS DE MÉXICO", PUBLICADO EL 21 DE DICIEMBRE DE 2021”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Secretaría de la Defensa Nacional deberá llevar a cabo los actos administrativos necesarios para la transferencia de los recursos humanos, materiales y financieros necesarios para la creación de la plaza de la persona titular de la Dirección General de Procesamiento Electrónico de Datos Aduaneros prevista en este Decreto. Dicha transferencia deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto autorizado a los ejecutores de gasto correspondientes y no se autorizarán recursos adicionales.
+
+Tercero. Se deroga toda disposición que se oponga al presente Decreto.
