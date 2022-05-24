@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2022-03-30"
+last_updated: "2022-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -5899,6 +5899,32 @@ Para la regulación del Estacionamiento Rotativo además de las normas previstas
 
 Para el cobro del uso de estacionamiento en la vía pública la SEMOVINFRA clasificará las zonas de estacionómetros o del Estacionamiento Rotativo; de acuerdo a la demanda de espacios, así como los horarios de operación.
 
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2022)</small>
+
+###### Artículo 322 Quater.
+
+Para garantizar el uso equitativo de la vía pública a todas las personas usuarias, queda prohibido el reservar lugares de estacionamiento cuando no se cuente con los permisos otorgados por la autoridad correspondiente; cualquier obstáculo fijo, semifijo o móvil que impida la circulación será removido de forma inmediata por la persona infractora a petición del Agente de Tránsito o Policía Preventiva.
+
+En caso de resistencia los objetos serán retirados por el Agente de Tránsito o Policía Preventivo, no procederá la devolución de los mismos y cuando se requiera de maniobras para remover dichos obstáculos los gastos correrán a cargo de la persona física o moral infractora.
+
+Se amonestará a la persona física o moral infractora cuando no existan antecedentes en esta falta, en caso de reincidencia se impondrán las sanciones previstas en el Tabulador de Infracciones y Sanciones del artículo 354 del presente Código.
+
+Se exceptúan de este precepto las instituciones educativas, en los horarios de entrada y salida del alumnado.
+
+En el caso específico de los establecimientos comerciales que reiteradamente su personal opte por el apartado de lugares en la vía pública, además de imponerse la multa correspondiente por reincidencia en la misma en un periodo de un año, la Dirección de Control de Tránsito hará del conocimiento a la Unidad de Normatividad y Regulación Comercial, para que aplique la sanción correspondiente a los establecimientos referidos en el Capítulo 14, artículo 617, fracción III, de este Código.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2022)</small>
+
+###### Artículo 322 Quinquies.
+
+Incurre en infracción administrativa al estacionamiento en vía pública la persona que:
+
+I. Omita el pago de los estacionómetros;
+
+II. Introduzca objetos diferentes a los autorizados en los estacionómetros; y
+
+III. Dañe u obstruya el funcionamiento de los estacionómetros;
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2017)</small>
 
 ###### Artículo 323.
@@ -6865,7 +6891,7 @@ De las infracciones en general y otras obligaciones.
 
 > <small>[N. DE E. VÉASE F. DE E. A LA TABLA EN LA TERCERA SECCIÓN DEL P.O. 14 DE JULIO DE 2015, PÁGINA 3.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, EN LA TERCERA SECCIÓN DEL P.O. 31 DE OCTUBRE DE 2016, PÁGINAS DE LA 7 A LA 15; DÉCIMO SÉPTIMA SECCIÓN DEL P.O. 30 DE DICIEMBRE DE 2019, PÁGINA 23; Y TERCERA SECCIÓN DEL P.O. 17 DE MARZO DE 2022, PÁGINA 19.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, EN LA TERCERA SECCIÓN DEL P.O. 31 DE OCTUBRE DE 2016, PÁGINAS DE LA 7 A LA 15; DÉCIMO SÉPTIMA SECCIÓN DEL P.O. 30 DE DICIEMBRE DE 2019, PÁGINA 23; Y TERCERA SECCIÓN DEL P.O. 17 DE MARZO DE 2022, PÁGINA 19; TERCERA SECCIÓN DEL P.O. 24 DE MAYO DE 2022, PÁGINA DE LA 9 A LA 10.]</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -10623,9 +10649,17 @@ b) Los establecimientos que obstaculicen las acciones de verificación, inspecci
 
 c) Los establecimientos que no hayan refrendado oportunamente la Licencia de Funcionamiento;
 
-d) Los establecimientos que sean sorprendidos por la Autoridad con menores de edad y/o al menos un menor ebrio; y
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
-e) Las demás que señale la Autoridad correspondiente.
+d) Los establecimientos que sean sorprendidos por la Autoridad con menores de edad y/o al menos un menor ebrio;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 2022)</small>
+
+e) Los establecimientos que su personal sea sancionado reiteradamente por la falta administrativa prevista en el artículo 322 Quáter; y
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE MAYO DE 2022)</small>
+
+f) Las demás que señale la autoridad correspondiente.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -27285,43 +27319,33 @@ XVI. Permitir que un automóvil en el que no viaje una persona con capacidad dif
 
 XVII. La violación de cualquier otra obligación en materia de los estacionamientos establecida en este Capítulo y, no señalada específicamente.
 
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
-
 ###### Artículo 1686 Bis.
 
-Incurre en infracción administrativa al estacionamiento en vía pública la persona que:
+(DEROGADO, P.O. 24 DE MAYO DE 2022)
 
-I. Omita el pago de los estacionómetros;
-
-II. Se estacione en lugares prohibidos;
-
-III. Introduzca objetos diferentes a los autorizados en los estacionómetros;
-
-IV. Dañe u obstruya el funcionamiento de los estacionómetros;
-
-V. Ocupe el espacio destinado a dos aparatos estacionómetros omitiendo el pago de uno de ellos; y
-
-VI. Obstaculice condicione o impida el estacionamiento en la vía pública.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO SU ACÁPITE, P.O. 24 DE MAYO DE 2022)</small>
 
 ###### Artículo 1687.
 
-Las infracciones a los preceptos de este Capítulo, señaladas en los artículos 1686 y 1686 bis, serán sancionadas administrativamente por las autoridades competentes, con una o más de las siguientes sanciones:
+Las infracciones a los preceptos de este Capítulo señaladas en el artículo 1686 serán sancionadas administrativamente por las autoridades competentes, con una o más de las siguientes sanciones:
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
 
-I. Multa del equivalente al valor diario de 25 a 35 unidades de medida y actualización al momento de determinar la infracción, a quien realice las conductas previstas en las fracciones IV, VI, XIII y XVII del artículo 1686, así como las fracciones I y V del artículo 1686 bis de éste Capítulo;
+I. Multa del equivalente al valor diario de 25 a 35 unidades de medida y actualización al momento de determinar la infracción, a quien realice las conductas previstas en las fracciones IV, VI, XIII y XVII del artículo 1686;
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
 
-II. Multa del equivalente al valor diario de 36 a 50 unidades de medida y actualización al momento de determinar la infracción, a quien realice las conductas previstas en las fracciones VIII, XII, XIV, XV y XVI del artículo 1686, así como las fracciones II y III del artículo 1686 bis de este Capítulo;
+II. Multa del equivalente al valor diario de 36 a 50 unidades de medida y actualización al momento de determinar la infracción, a quien realice las conductas previstas en las fracciones VIII, XII, XIV, XV y XVI del artículo 1686;
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
 
-III. Multa del equivalente al valor diario de 50 a 70 unidades de medida y actualización al momento de determinar la infracción, a quien realice las conductas previstas en las fracciones I, II, III, V, VII, IX, y X del artículo 1686, así como las fracciones IV y VI del artículo 1686 Bis de este Capítulo;
+III. Multa del equivalente al valor diario de 50 a 70 unidades de medida y actualización al momento de determinar la infracción, a quien realice las conductas previstas en las fracciones I, II, III, V, VII, IX, y X del artículo 1686;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 26 DE FEBRERO DE 2007)</small>
 
 IV. Clausura total o parcial, definitiva o temporal del estacionamiento; y
+
+> <small>(REFORMADA Y REUBICADA, P.O. 26 DE FEBRERO DE 2007)</small>
 
 V. Arresto administrativo hasta por treinta y seis horas.
 
@@ -40014,3 +40038,11 @@ PRIMERO. La presente reforma entrará en vigor a partir del día siguiente de su
 SEGUNDO. Para efectos recaudatorios la denominación de tianguis tradicionales se entenderá como mercados temporales.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 24 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 22 DE ABRIL DE 2022, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE INFRAESTRUCTURA, MOVILIDAD Y SERVICIOS PÚBLICOS, POR EL QUE ADICIONAN, REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA, RELACIONADAS CON LA VÍA PÚBLICA LIBRE DE OBSTÁCULOS Y ELEMENTOS QUE IMPIDAN, DIFICULTEN, GENEREN UN RIESGO U OBSTACULICEN EL TRÁNSITO PEATONAL Y VEHICULAR".]
+
+PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
