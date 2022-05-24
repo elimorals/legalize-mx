@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2021-08-30"
+last_updated: "2022-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -259,19 +259,19 @@ XIX. Las demás que establezcan las leyes.
 
 ### Capítulo III. De las Atribuciones en Relación con el Poder Judicial
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
 ###### ARTICULO 17.
 
-Las atribuciones del Congreso del Estado en su relación con el Poder Judicial son:
+Las atribuciones del Congreso del Estado respecto al Poder Judicial son:
 
-I. Nombrar, a propuesta del Ejecutivo, a los magistrados del Supremo Tribunal de Justicia, conforme al procedimiento que establece la ley de la materia;
+I. Nombrar, a propuesta del Ejecutivo, a las y los magistrados del Supremo Tribunal de Justicia, conforme al procedimiento que establece la ley de la materia;
 
-II. Nombrar a un Consejero del Consejo de la Judicatura; y ratificar a los propuestos por los poderes Ejecutivo y Judicial, conforme lo establece la Constitución Política del Estado;
+II. Nombrar a una o un Consejero del Consejo de la Judicatura; y ratificar a las personas propuestas por los poderes, Ejecutivo; y Judicial, conforme lo establece la Constitución Política del Estado;
 
-III. (DEROGADA, P.O. 10 DE MARZO DE 2020)
+III. Recibir la protesta de las y los magistrados del Supremo Tribunal de Justicia, de las y los consejeros del Consejo de la Judicatura del Poder Judicial, y
 
-IV. Recibir la protesta de los magistrados del Supremo Tribunal de Justicia, de los consejeros del Consejo de la Judicatura del Poder Judicial y del Tribunal Electoral del Poder Judicial del Estado, y
-
-V. Calificar las renuncias de los magistrados y consejeros de los tribunales señalados en las fracciones anteriores, así como conocer y resolver las solicitudes de destitución de los mismos, en los términos de la Constitución.
+IV. Calificar las renuncias de las y los magistrados, del Supremo Tribunal de Justicia, y consejeras o consejeros del Consejo de la Judicatura, así como conocer y resolver las solicitudes de destitución de los mismos, en los términos de la Constitución.
 
 ### Capítulo IV. De las Atribuciones en Relación con los Municipios
 
@@ -599,9 +599,11 @@ El Gobernador del Estado en el acto de posesión de su cargo rendirá la protest
 
 Acto seguido el Presidente del Congreso declarará: "SI ASI LO HICIERE, QUE EL PUEBLO DE SAN LUIS POTOSI SE LO RECONOZCA; Y SI NO, QUE SE LO DEMANDE."
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
 ###### ARTICULO 49.
 
-El Congreso del Estado contará con el plazo de treinta días que establece el artículo 96 de la Constitución Política del Estado, para efectuar el nombramiento de magistrados del Supremo Tribunal de Justicia del Estado y del Tribunal de lo Contencioso Administrativo, una vez recibidas las propuestas del titular del Ejecutivo. En caso de no hacerlo se estará a lo dispuesto en el citado artículo. Igualmente, designará a propuesta del Supremo Tribunal de Justicia, a los magistrados del Tribunal Electoral. Transcurrido el plazo indicado sin la emisión de dichos nombramientos, se tendrá por designadas a las personas propuestas.
+El Congreso del Estado contará con el plazo de treinta días que establece el artículo 96 de la Constitución Política del Estado, para efectuar el nombramiento de magistrados del Supremo Tribunal de Justicia del Estado; y del Tribunal Estatal de Justicia Administrativa, una vez recibidas las propuestas del titular del Ejecutivo. En caso de no hacerlo se estará a lo dispuesto en el citado artículo. Transcurrido el plazo indicado sin la emisión de dichos nombramientos, se tendrá por designadas a las personas propuestas.
 
 ## TITULO SEXTO. DE LOS DIPUTADOS Y GRUPOS PARLAMENTARIOS
 
@@ -619,29 +621,41 @@ La infracción a lo señalado en el primer párrafo de este artículo, traerá c
 
 Los legisladores electos del Congreso del Estado que sin causa justificada no se presenten a ocupar su cargo, quedarán privados de las prerrogativas de ciudadano y de todo empleo público por el tiempo que duraría su encargo, en los términos que establece la Constitución.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
 ###### ARTICULO 52.
 
-El diputado que no concurra a tres sesiones plenarias consecutivas, o acumule diez faltas en el periodo de un año sin previa licencia del Congreso o sin causa justificada a juicio de la Directiva, cesará en el desempeño de su cargo. En ese caso será llamado, desde luego, su suplente, quien tendrá derecho a percibir las dietas correspondientes.
+La diputada o el diputado que no asista a tres sesiones plenarias consecutivas, o acumule diez faltas en el periodo de un año sin previa licencia del Congreso o sin causa justificada a juicio de la Directiva, cesará en el desempeño de su cargo. En ese caso se llamará, desde luego, a la persona suplente, quien tendrá derecho a percibir las dietas correspondientes.
 
-Se sancionará con amonestación pública a los diputados que tengan el mismo número de faltas injustificadas a que se refiere el párrafo anterior, tratándose de las reuniones formales de las comisiones del Congreso a las que hayan sido citados oportunamente conforme al Reglamento.
+Las causas que justifican las inasistencias son:
 
-Se entiende por causa justificada:
+I. Enfermedad, afecciones, u otros motivos de salud;
 
-I. La incapacidad por enfermedad;
+II. Gestación, maternidad, y paternidad, y
 
-II. La asistencia a eventos en que se represente al Congreso del Estado, y
+III. El cumplimiento de encomiendas autorizadas por los órganos de decisión, dirección, o trabajo parlamentario del Congreso.
 
-III. El cumplimiento de alguna función encomendada por los órganos de decisión, dirección, o trabajo parlamentario del Congreso.
+El escrito de inasistencia se presentará ante la Directiva, previo a la Sesión de que se trate, al que se adjuntará, constancia médica, o el oficio de encomienda, en su caso.
 
-El aviso de inasistencia deberá presentarse por escrito, previamente a la sesión o reunión a la que se falte, exponiendo el motivo de la misma a la Directiva, quien deberá calificarla y conceder o no la licencia respectiva.
+La Directiva deberá calificar y, conceder o no, la licencia respectiva.
 
-La ausencia sin previo aviso sólo se tendrá por justificada cuando, por incomunicación, caso fortuito o fuerza mayor, la imposibilidad de asistir a la sesión o a la reunión haya sido manifiesta.
+La ausencia sin previo aviso sólo se tendrá por justificada cuando, por incomunicación, caso fortuito o fuerza mayor, la imposibilidad de asistir a la sesión haya sido manifiesta.
 
-Si la falta fuere del Presidente del Congreso, el aviso deberá darlo a alguno de los vicepresidentes o, en ausencia de éstos, a los secretarios.
+En el supuesto que la falta fuere de quien preside la Directiva, el aviso se hará a las vicepresidentas o los vicepresidentes y, en ausencia de éstos, a las secretarias o los secretarios.
 
-Tratándose de la inasistencia justificada de un diputado a una reunión formal a alguna de las Comisiones de las que forme parte, el Presidente del Congreso lo hará del conocimiento del Presidente o Secretario de la comisión respectiva.
+Las faltas injustificadas a las sesiones de Pleno serán reducidas de las percepciones de las diputadas o los diputados en lo equivalente a un día de trabajo.
 
-Cada falta injustificada a las sesiones de Pleno o de las comisiones, será reducida de las percepciones de los diputados en lo equivalente a un día de trabajo.
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2022)</small>
+
+ARTICULO 52 BIS. Tratándose de inasistencia de las legisladoras o los legisladores, a las reuniones de comisión o comité, se presentará escrito ante quien los presida, adjuntando constancia médica, o el oficio de encomienda, en su caso.
+
+Las faltas a las reuniones de comisión o comité, serán reducidas de las percepciones de las diputadas o los diputados en lo equivalente a un día de trabajo.
+
+La ausencia sin previo aviso sólo se tendrá por justificada cuando, por incomunicación, caso fortuito o fuerza mayor, la imposibilidad de asistir a la sesión haya sido manifiesta.
+
+Si la falta fuere de la presidenta o presidente de la comisión o comité, el escrito y sus anexos deberán presentarse a la vicepresidenta o el vicepresidente y, en ausencia de éstos, a la secretaria o el secretario.
+
+Las faltas injustificadas a las reuniones de comisiones o comités, serán reducidas de las percepciones de las diputadas o los diputados en lo equivalente a un día de trabajo.
 
 ###### ARTICULO 53.
 
@@ -2844,3 +2858,27 @@ P.O. 30 DE AGOSTO DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que opongan al presente Decreto.
+
+P.O. 24 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0324.- SE REFORMA EL ARTÍCULO 49, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0325.- SE REFORMA EL ARTÍCULO 52 Y ADICIONA EL ARTÍCULO 52 BIS, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0326.- SE REFORMA EL ARTÍCULO 17, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
