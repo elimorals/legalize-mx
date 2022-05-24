@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2021-08-30"
+last_updated: "2022-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2022.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -1463,7 +1463,9 @@ III. Elaborar el citatorio y el orden del día de las reuniones de la comisión 
 
 IV. Citar a los integrantes de su comisión o comité para el desempeño de su cometido;
 
-V. Llevar el control mensual de las asistencias de los diputados que integran la comisión o comité y reportar sus faltas al Presidente de la Directiva, para que éste proceda conforme a la ley y el Reglamento;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+
+V. Llevar el control mensual de las asistencias de las diputadas y los diputados que integran la comisión o comité; y reportar, en su caso, las faltas injustificadas a la presidenta o presidente de la Directiva, para que proceda conforme a la ley;
 
 VI. Llevar el control trimestral del número de reuniones;
 
@@ -1477,9 +1479,15 @@ IX. Firmar el libro de registro que para tal efecto debe mantener actualizado la
 
 X. Firmar los requerimientos de información y documentación, así como la correspondencia de la comisión;
 
-XI. Enlistar los expedientes que tenga en su poder y se encuentren sin resolución al término del periodo de sesiones, y entregarlo a la Directiva, y
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
 
-XII. Las demás que le atribuya la ley y este Reglamento.
+XI. Enlistar los expedientes que tenga en su poder y se encuentren sin resolución al término del periodo de sesiones, y entregarlo a la Directiva;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2022)</small>
+
+XII. Calificar las inasistencias de las diputadas y los diputados a las reuniones de comisión o comité, conforme a los supuestos establecidos en la Ley Orgánica, y reportar sus faltas a la presidenta o presidente de la Directiva, para que proceda conforme a la ley, y
+
+XIII. Las demás que le atribuya la ley y este Reglamento.
 
 ###### ARTICULO 147.
 
@@ -1777,31 +1785,27 @@ Las solicitudes de información serán recibidas y atendidas conforme a la ley d
 
 ### CAPITULO UNICO. DE LOS DIPUTADOS
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+
 ###### ARTICULO 165.
 
-Los legisladores que integran el Congreso del Estado deberán cumplir con las siguientes disposiciones:
+Las legisladoras y los legisladores que integran el Congreso del Estado, deberán cumplir con las siguientes disposiciones:
 
-I. Estar presentes en todas las sesiones que celebre el Congreso;
+I. Asistir puntualmente a todas las sesiones que celebre el Congreso;
 
-II. Sólo por las causas enunciadas en la Ley Orgánica y en este Reglamento, los diputados podrán dejar de asistir a las sesiones que celebre el Congreso, y en tales casos, habrán de hacerlas del conocimiento del Presidente de la Directiva;
+II. Hacer del conocimiento de la legisladora o el legislador que presida la Directiva, las causas que justifiquen su inasistencia a sesiones plenarias, con los documentos que establece la ley;
 
-III. Durante las sesiones plenarias, solicitar permiso al Presidente del Congreso o, en su caso, al Pleno, para poder salir del recinto legislativo;
+III. Solicitar permiso a la diputada o diputado que presida la Directiva, durante el desarrollo de las sesiones plenarias, para retirarse del recinto legislativo;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2013)</small>
+IV. Observar respeto y disciplina durante las sesiones plenarias, así como en las reuniones de comisiones o comités:
 
-IV. Guardar compostura durante las sesiones;
+V. Cumplir las encomiendas que le sean asignadas por los órganos de decisión, dirección, o trabajo parlamentario del Congreso;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2013)</small>
+VI. Asistir semestralmente, durante el término que permanezca en el cargo, y una vez que haya tomado protesta, a los cursos de capacitación que instrumente o imparta el Instituto de Investigaciones Legislativas.
 
-V. Cuando se informe al Congreso que un diputado se encuentra enfermo, el Presidente del Congreso designará una comisión de dos diputados, para que lo visiten e informen de su estado de salud;
+Para los efectos del párrafo anterior, el Instituto de Investigaciones Legislativas, elaborará un “Programa de Capacitación Semestral”, que describirá el contenido y duración de los cursos que se llevarán a cabo cada semestre, y
 
-> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2013)</small>
-
-VI. Asistir, una vez al año, a los cursos de capacitación y formación que instrumente e imparta el Instituto de Investigaciones Legislativas del Congreso del Estado, durante todo el tiempo que dure en el cargo para el cual fue electo, una vez que haya tomado protesta, y
-
-> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2013)</small>
-
-VII. Las demás que se deriven de esta Ley y otros ordenamientos aplicables.
+VII. Las demás que deriven de esta Ley y otros ordenamientos aplicables.
 
 ###### ARTICULO 166.
 
@@ -2972,3 +2976,19 @@ P.O. 30 DE AGOSTO DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que opongan al presente Decreto.
+
+P.O. 24 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0327.-SE REFORMA EL ARTÍCULO 146 EN SUS FRACCIONES V Y XI; Y ADICIONA AL MISMO ARTÍCULO 146 UNA FRACCIÓN, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0323.- SE REFORMA EL ARTÍCULO 165, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 3° EN SU FRACCIÓN XII, DEL REGLAMENTO INTERIOR DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL CONGRESO DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
