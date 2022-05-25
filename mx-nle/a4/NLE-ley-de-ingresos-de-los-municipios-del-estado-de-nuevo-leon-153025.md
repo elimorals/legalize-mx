@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-ingresos-de-los-municipios-del-estado-de-nuevo-leon-1530
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2021-12-23"
-last_updated: "2021-12-23"
+last_updated: "2022-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN PARA EL EJERCICIO FISCAL 2022
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 23 de diciembre de 2021.
 
@@ -186,6 +186,8 @@ c) Sin perjuicio de lo anterior, los Ayuntamientos que determinen adherirse a es
 II. El programa contempla los siguientes montos máximos:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 21 DE DICIEMBRE DE 2021, PÁGINAS DE LA 15 A LA 21.]</small>
+
+> <small>[N. DE E. VEÁSE REFORMAS A LA TABLA EN EL P.O. DE 25 DE MAYO DE 2022, PÁGINA 4.]</small>
 
 III. Las operaciones de financiamiento a contraerse individualmente por cada Municipio se celebrarán por alguno de los siguientes plazos: 3 (tres), 5 (cinco), 10 (diez), 15 (quince) y hasta 20 (veinte) años contados a partir de su formalización. En operaciones superiores a 5 años, se podrá establecer un plazo de gracia en el pago de capital no mayor a 12 (doce) meses, únicamente para los casos cuyo destino sea la Inversión Pública Productiva.
 
@@ -582,3 +584,13 @@ DR. JAVIER LUIS NAVARRO VELASCO
 EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 CARLOS ALBERTO GARZA IBARRA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 135. SE REFORMA EL PUNTO 5 DE LA TABLA INTEGRADA EN LA FRACCIÓN II DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 8 DE LA LEY DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente al de la publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Cualquier referencia a la Clave de Registro con número "P19-0115002" contenida en el Decreto Núm. 048 publicado en el Periódico Oficial del Estado en fecha de 12 de enero del 2022, se tendrá por precisada en los términos del presente Decreto.
