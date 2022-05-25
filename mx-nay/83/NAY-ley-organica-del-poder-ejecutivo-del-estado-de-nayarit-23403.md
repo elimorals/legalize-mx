@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2022-03-01"
+last_updated: "2022-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE NAYARIT EL 1 DE MARZO DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -53,9 +51,9 @@ LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
 La presente Ley establece las bases para la organización y el funcionamiento de la Administración Pública Estatal, Centralizada y Paraestatal. Estas administrarán sus recursos con base en los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2022)</small>
 
-El Despacho del Gobernador del Estado y las Secretarías del Despacho integran la Administración Pública Centralizada a las cuales, para los efectos de esta Ley, se les denominará genéricamente dependencias.
+El Despacho del Ejecutivo y las Secretarías integran la Administración Pública Centralizada, a las cuales, para los efectos de esta Ley, se les denominará genéricamente como dependencias.
 
 Para atender de manera eficiente el despacho de los asuntos de su competencia, las dependencias de la Administración Pública Centralizada, podrán contar con órganos administrativos desconcentrados, que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito de competencia que se determine en cada caso, ya sea en su acuerdo de creación, en su reglamento interior o en las disposiciones legales que se dicten.
 
@@ -105,19 +103,25 @@ El Gobernador del Estado esta facultado para resolver las dudas que surjan sobre
 
 Asimismo, tendrá atribuciones para, en el ejercicio de sus funciones, emitir decretos administrativos tendientes a crear las dependencias y organismos auxiliares que resulten indispensables para el buen despacho del Poder Ejecutivo del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2022)</small>
 
 ###### Artículo 8o.
 
-Para el ejercicio de sus funciones, el Gobernador del Estado contará con el apoyo directo, de una Jefatura de Oficina, la Secretaría Particular, la Secretaría Particular del Despacho del Ejecutivo, así como las unidades administrativas, de asesoría, apoyo técnico y de coordinación que él mismo determine, de conformidad con el presupuesto de egresos.
+Para el ejercicio de sus funciones, el Gobernador del Estado contará con el apoyo directo, de una Coordinación General de Asesores y Políticas Públicas del Despacho del Ejecutivo, una Coordinación General Jurídica, la Oficina del Despacho del Ejecutivo, la Secretaría Particular, la Secretaría Particular del Despacho del Ejecutivo, así como las unidades administrativas que el mismo determine, de conformidad con el presupuesto de egresos y el Reglamento Interior del Despacho del Ejecutivo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2022)</small>
 
-El Gobernador del Estado designará al Jefe de Oficina para sus tareas y para el seguimiento permanente de las políticas públicas y su evaluación periódica, con el objeto de aportar elementos para la toma de decisiones, sin perjuicio de las atribuciones que ejercen las dependencias y entidades de la Administración Pública Estatal en el ámbito de sus respectivas competencias.
+El Gobernador del Estado designará a la persona titular de la Oficina del Despacho, a la persona titular de la Coordinación General de Asesores y Políticas Públicas del Despacho del Ejecutivo, así como a la persona titular de la Coordinación General Jurídica del Gobernador.
 
 > <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 29 DE MAYO DE 2019)</small>
 
 Las atribuciones de estas unidades se determinarán en los acuerdos administrativos que para el efecto emita el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2022)</small>
+
+###### Artículo 8o Bis.
+
+La persona titular de la Coordinación General Jurídica será enlace institucional con el Congreso del Estado y demás dependencias, entidades e instituciones, municipales y federales que determine la persona titular del Poder Ejecutivo Estatal.
 
 ###### Artículo 9o.
 
@@ -2892,3 +2896,11 @@ Asimismo, para efectos de cumplir con las obligaciones normativas al marco jurí
 DÉCIMO PRIMERO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán su despacho por las unidades administrativas responsables de los mismos, de conformidad con las disposiciones vigentes al momento de su inicio.
 
 DÉCIMO SEGUNDO. La Secretaría del Trabajo y Justicia Laboral será la Dependencia encargada de coordinar y vigilar el funcionamiento de la Junta Local y las Juntas Especiales de Conciliación y Arbitraje, de las comisiones que se formen para regular las relaciones obrero patronal y del Tribunal de Conciliación y Arbitraje, durante el tiempo que estás instancias continúen ejerciendo sus facultades y atribuciones previstas en la Constitución General de la República y la Ley Federal del Trabajo; y en el caso del Tribunal de Conciliación y Arbitraje, de conformidad con el Estatuto Jurídico para los Trabajadores al Servicio del Estado, Municipios e Instituciones Descentralizadas de Carácter Estatal.
+
+P.O. 25 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Dentro del plazo de 30 días hábiles contados a partir de la entrada en vigor del presente Decreto, el Despacho del Ejecutivo y la Secretaría de Administración y Finanzas deberán realizar las adecuaciones tanto administrativas como presupuestales para la integración y funcionamiento de la Coordinación General de Asesores y Políticas Públicas del Despacho del Ejecutivo y la Coordinación General Jurídica del Gobernador.
