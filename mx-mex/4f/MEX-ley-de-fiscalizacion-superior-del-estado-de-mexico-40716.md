@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fiscalizacion-superior-del-estado-de-mexico-40716"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-26"
-last_updated: "2021-02-03"
+last_updated: "2022-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE MAYO DE 2022.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 26 de agosto de 2004.
 
@@ -41,11 +41,13 @@ LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO.
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE MAYO DE 2022)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés general y tiene por objeto regular la actuación del Órgano Superior de Fiscalización del Estado de México, como la Entidad Estatal de Fiscalización en términos de la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de México, competente en materia de revisión y fiscalización de los fondos, cuentas públicas, deuda pública y actos relativos al ejercicio y aplicación de los recursos públicos de las entidades fiscalizables del Estado de México, asimismo, regular su organización, funcionamiento y atribuciones.
+Esta Ley es de orden público e interés general y tiene por objeto regular la actuación, organización, funcionamiento y atribuciones del Órgano Superior de Fiscalización del Estado de México, como la Entidad Estatal de Fiscalización, su competencia en materia de revisión y fiscalización de los fondos y fideicomisos públicos, cuentas públicas, deuda pública, y de los actos relativos al ejercicio y aplicación de los recursos públicos de las entidades fiscalizables del Estado de México, en términos de lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de México.
+
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
 Adicionalmente, la evaluación y vigilancia por parte de la Legislatura; así como sus atribuciones para promover las responsabilidades que sean procedentes ante el Tribunal Estatal de Justicia Administrativa y la Fiscalía Especializada en Combate a la Corrupción y todas aquéllas que se establezcan en otras leyes aplicables.
 
@@ -71,7 +73,9 @@ VI. Organismos Autónomos: A los organismos que por disposición constitucional 
 
 VII. Organismos Auxiliares: A los organismos públicos descentralizados, empresas de participación estatal y fideicomisos públicos asimilados de la administración pública estatal y municipal.
 
-VIII. Cuenta Pública: Los informes que rinden anualmente a la Legislatura, el Gobernador y los Presidentes Municipales, respecto de los resultados y la situación financiera del ejercicio fiscal inmediato anterior;
+> <small>(REFORMADA, G.G. 25 DE MAYO DE 2022)</small>
+
+VIII. Cuenta Pública: Los informes que rinden anualmente a la Legislatura, el Gobernador y los Presidentes Municipales, respecto de los resultados y la situación financiera del ejercicio fiscal inmediato anterior según corresponda;
 
 IX. Gestión Financiera: A la actividad de las Entidades Fiscalizables respecto de la administración, manejo, custodia y aplicación de los recursos públicos que utilicen para alcanzar los objetivos contenidos en sus planes y programas, en el periodo que corresponde a una cuenta pública;
 
@@ -79,15 +83,19 @@ IX. Gestión Financiera: A la actividad de las Entidades Fiscalizables respecto 
 
 X. Fiscalización: A la revisión que realiza el órgano Superior, conforme a esta Ley y las disposiciones constitucionales y legales aplicables.
 
-> <small>(REFORMADA, G.G. 27 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, G.G. 25 DE MAYO DE 2022)</small>
 
-XI. Informe Trimestral: Al documento físico y/o electrónico que trimestralmente presentan las entidades fiscalizables sobre la situación económica, las finanzas públicas, y en su caso deuda pública para su análisis al Órgano Superior, a través de las tesorerías municipales y la Secretaría de Finanzas y, en su caso, las áreas competentes;
+XI. Informe Trimestral: Al documento físico o electrónico que trimestralmente presentan las entidades fiscalizables, a través de las tesorerías municipales y de la Secretaría de Finanzas o equivalentes, sobre la situación económica, las finanzas públicas y, en su caso, respecto a la deuda pública, para su análisis por el Órgano Superior;
 
 XII. Informe de Resultados: Al documento que contiene el resultado de la fiscalización de las cuentas públicas, que el Organo Superior, por conducto de la Comisión, presenta a la Legislatura;
 
-> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, G.G. 25 DE MAYO DE 2022)</small>
 
-XIII. Informes de auditorías: Aquellos que emita el Órgano Superior, en su caso, derivados de denuncias y solicitudes de la Legislatura.
+XIII. Informe de Auditoría: Al documento técnico mediante el cual se presentan los datos que identifican los resultados finales obtenidos con las observaciones determinadas en la auditoría a la entidad fiscalizada;
+
+> <small>(ADICIONADA, G.G. 25 DE MAYO DE 2022)</small>
+
+XIII Bis. Informe de Seguimiento: Al documento técnico en el que se notifica a las entidades fiscalizadas la situación que guardan las observaciones o, en su caso, su solventación, a la conclusión de la etapa de aclaración;
 
 > <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -171,11 +179,15 @@ V. Los fideicomisos previstos en el artículo 3 fracción XVII del Código Finan
 
 VI. Cualquier entidad, persona física o jurídica colectiva, pública o privada, mandato, fondo u otra figura análoga que haya captado, recaudado, administrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente con recursos públicos del Estado o Municipios, o en su caso de la federación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE MAYO DE 2022)</small>
 
 ###### Artículo 5.
 
-La fiscalización superior se podrá realizar de manera contemporánea a la ejecución de actos de gobierno y la aplicación de recursos públicos en los casos que corresponda, así como de manera posterior al término de cada ejercicio fiscal y a la presentación de las cuentas públicas, de manera externa, independiente y autónoma de cualquier forma de control y evaluación internos de las entidades fiscalizables y de conformidad con lo establecido en la presente Ley.
+La fiscalización que realice el Órgano Superior se podrá realizar de manera contemporánea en los casos que corresponda.
+
+> <small>(ADICIONADO, G.G. 25 DE MAYO DE 2022)</small>
+
+En el caso de las cuentas públicas, la fiscalización se llevará a cabo de manera posterior al término de cada ejercicio fiscal, una vez que el programa anual de auditorías sea comunicado a la Comisión y publicado en el Periódico Oficial “Gaceta del Gobierno” a más tardar el 20 de febrero.
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -197,17 +209,19 @@ A falta de disposición expresa en esta Ley, se aplicarán en forma supletoria, 
 
 ### CAPITULO PRIMERO. DE LAS ATRIBUCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.G. 25 DE MAYO DE 2022)</small>
+
 ###### Artículo 8.
 
 El Órgano Superior tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, G.G. 25 DE MAYO DE 2022)</small>
 
-I. Fiscalizar en todo momento los ingresos y egresos de las entidades fiscalizables a efecto de comprobar que su recaudación, administración, desempeño, niveles de deuda y aplicación se apegue a las disposiciones legales, administrativas, presupuestales, financieras y de planeación aplicables;
+I. Fiscalizar, en todo momento, respecto del año inmediato anterior, los ingresos y egresos de las entidades fiscalizables a efecto de comprobar que su recaudación, administración, desempeño, niveles de deuda y aplicación se apegue a las disposiciones legales, administrativas, presupuestales, financieras y de planeación aplicables;
 
-> <small>(REFORMADA, G.G. 16 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, G.G. 25 DE MAYO DE 2022)</small>
 
-II. Fiscalizar, en todo momento, el ejercicio, la custodia y aplicación de los recursos estatales y municipales así como los recursos federales en términos de los convenios correspondientes;
+II. Fiscalizar, en todo momento, respecto del año inmediato anterior, el ejercicio, la custodia y aplicación de los recursos estatales y municipales, así como los recursos federales, en términos de los convenios correspondientes;
 
 > <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -263,9 +277,13 @@ XIV. Verificar que las cuentas públicas, los informes trimestrales y la informa
 
 XV. Rendir los informes a la Comisión sobre el resultado de la revisión de los informes trimestrales sobre los ingresos obtenidos y aplicación de recursos de las entidades fiscalizables, así como de las revisiones a las que se refieren las fracciones I y II del presente artículo;
 
-XVI. Requerir, según corresponda, a los titulares de la Secretaría de la Contraloría del Poder Ejecutivo y de los demás órganos de control interno de las entidades fiscalizables, en términos de las disposiciones legales aplicables, los dictámenes de acciones de control y evaluación por ellos practicadas, relacionados con las cuentas públicas que el Organo Superior esté fiscalizando, así como las observaciones y recomendaciones formuladas, las sanciones impuestas y los seguimientos practicados;
+> <small>(REFORMADA, G.G. 25 DE MAYO DE 2022)</small>
 
-XVII. Requerir, según corresponda, por conducto de los titulares de la Secretaría de la Contraloría del Poder Ejecutivo y de los demás órganos de control interno de las entidades fiscalizables, a los profesionistas independientes y auditores externos que sean autorizados legalmente, los dictámenes de las auditorías y revisiones por ellos practicadas;
+XVI. Requerir, según corresponda, a los titulares de la Secretaría de la Contraloría del Poder Ejecutivo y de los órganos internos de control de las entidades fiscalizables, en términos de las disposiciones legales aplicables, los dictámenes de acciones de control y evaluación por ellos practicadas, relacionados con las cuentas públicas que el Órgano Superior esté fiscalizando, así como las observaciones y recomendaciones formuladas, las sanciones impuestas y los seguimientos practicados;
+
+> <small>(REFORMADA, G.G. 25 DE MAYO DE 2022)</small>
+
+XVII. Requerir, según corresponda, por conducto de los titulares de la Secretaría de la Contraloría del Poder Ejecutivo y de los órganos internos de control de las entidades fiscalizables, a los profesionistas independientes y auditores externos que sean autorizados legalmente, los dictámenes de las auditorías y revisiones por ellos practicadas;
 
 XVIII. Requerir, en su caso, a los terceros que hubieren contratado obras, bienes o servicios, mediante cualquier título legal, con las entidades fiscalizables, la información relacionada con la documentación justificativa y comprobatoria de las cuentas públicas, con la única finalidad de realizar la compulsa correspondiente;
 
@@ -409,9 +427,9 @@ I. Representar legalmente al Organo Superior ante toda clase de autoridades y pe
 
 II. Ejercer las atribuciones del Organo Superior, en términos de la Constitución Política del Estado Libre y Soberano de México, la presente Ley, el Reglamento y demás disposiciones legales aplicables;
 
-> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 25 DE MAYO DE 2022)</small>
 
-III. Emitir y entregar a la Legislatura, por conducto de la Comisión, los informes relativos a la revisión de las cuentas públicas, en los plazos y términos previstos por la Ley. Así mismo, deberá publicitar dicho documento de manera inmediatamente posterior a la entrega que realice a la Comisión;
+III. Emitir y entregar a la Legislatura, por conducto de la Comisión, los informes relativos a la revisión de las cuentas públicas, en los plazos y términos previstos por la Ley; así como publicar en la página de internet oficial del Órgano Superior dichos documentos el día de su entrega a la Comisión;
 
 IV. Formular los pliegos de observaciones y recomendaciones necesarias a las entidades fiscalizables, así como verificar su debida cumplimentación;
 
@@ -873,17 +891,27 @@ Para el correcto ejercicio de sus funciones de la Unidad, dispondrá de los serv
 
 ### CAPITULO PRIMERO. DE LAS CUENTAS PUBLICAS
 
-> <small>(REFORMADO, G.G. 27 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE MAYO DE 2022)</small>
 
 ###### Artículo 32.
 
-Las cuentas públicas estatal y municipal, deberán presentarse conforme a lo establecido en la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y demás disposiciones aplicables; así mismo, las entidades fiscalizables deberán presentar los informes trimestrales dentro de los veinte días hábiles posteriores al término del trimestre correspondiente.
+Las cuentas públicas estatal y municipales, deberán presentarse conforme a lo establecido en la Ley General de Contabilidad Gubernamental, en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, en el Código Financiero del Estado de México y Municipios, el Manual Único de Contabilidad Gubernamental para las Dependencias y Entidades Públicas del Gobierno y Municipios del Estado de México, y demás disposiciones aplicables.
+
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2020)</small>
 
 El Gobernador del Estado, por conducto del titular de la dependencia competente, presentará a la Legislatura la cuenta pública del Gobierno del Estado del ejercicio fiscal inmediato anterior, a más tardar el treinta de abril de cada año.
 
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2020)</small>
+
 Los presidentes municipales presentarán a la Legislatura las cuentas públicas de sus respectivos municipios, del ejercicio fiscal inmediato anterior, dentro de los quince primeros días del mes de marzo de cada año.
 
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2020)</small>
+
 Si el día del vencimiento de los plazos señalados, corresponde a un día inhábil, se podrá presentar al día hábil inmediato siguiente.
+
+> <small>(ADICIONADO, G.G. 25 DE MAYO DE 2022)</small>
+
+La Legislatura deberá remitir las Cuentas Públicas al Órgano Superior el día hábil siguiente a su recepción.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
@@ -893,9 +921,11 @@ La Secretaría de Finanzas y las tesorerías municipales, en el ámbito de sus r
 
 Los microfilms y los archivos guardados mediante procesamiento electrónico a que se refiere el párrafo anterior, tendrán el valor que, en su caso, establezcan las disposiciones legales aplicables a las operaciones en que aquellos se apliquen.
 
+> <small>(REFORMADO, G.G. 25 DE MAYO DE 2022)</small>
+
 ###### Artículo 34.
 
-El Organo Superior conservará en su poder las cuentas públicas del Estado y municipios de cada ejercicio fiscal y los informes de resultados de su revisión, en tanto no prescriban las responsabilidades derivadas de las irregularidades que se observen en las operaciones objeto de revisión. Asimismo, conservará las copias autógrafas de los pliegos que formulen y copias de los trámites que hubiere realizado ante las instancias competentes para la presentación de denuncias o querellas penales derivadas del ejercicio de sus funciones.
+El Órgano Superior conservará en su poder las cuentas públicas del Estado y de los municipios de cada ejercicio fiscal, así como los informes de resultados de su revisión y los informes de auditoría y de denuncias que correspondan, en tanto no prescriban las responsabilidades derivadas de las irregularidades que se observen en las operaciones objeto de revisión. Asimismo, conservará las copias autógrafas de los pliegos que formule y copias de los trámites que hubiere realizado ante las instancias competentes para la presentación de denuncias o querellas penales derivadas del ejercicio de sus funciones.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 1 DE OCTUBRE DE 2019)</small>
 
@@ -969,19 +999,21 @@ Respecto de los informes trimestrales el Órgano Superior, podrá emitir los res
 
 El Órgano Superior, en ejercicio de sus atribuciones de fiscalización, podrá realizar revisiones y auditorías en relación con el ejercicio fiscal sujeto a revisión.
 
-> <small>(REFORMADO, G.G. 1 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, G.G. 25 DE MAYO DE 2022)</small>
 
 ###### Artículo 40.
 
-Revisados por la Comisión las Cuentas Públicas y el Informe de Resultados referido en el artículo 50 del presente ordenamiento, y una vez que se haya elaborado el dictamen de aquéllas, y que dicho dictamen sea votado por el Pleno, el Órgano Superior procederá en términos de lo dispuesto en esta Ley, en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+Revisado por la Comisión el Informe de Resultados referido en el artículo 50 del presente ordenamiento, y una vez que se haya (sic) elaborado y aprobados por el Pleno de la Legislatura los dictámenes correspondientes, el Órgano Superior procederá en términos de lo dispuesto en esta Ley, en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
-El dictamen relativo a las Cuentas Públicas deberá contener un análisis pormenorizado y estar sustentado en las conclusiones técnicas de los Informes de Resultados de las Cuentas Públicas, recuperando las discusiones técnicas realizadas en la Comisión; su estructura considerará antecedentes, considerandos y resolutivos.
+El dictamen relativo a las cuentas públicas deberá contener un análisis pormenorizado y estar sustentado en las conclusiones técnicas de los informes de resultados de las Cuentas Públicas, recuperando las discusiones técnicas realizadas en la Comisión. Su estructura considerará antecedentes, considerandos y resolutivos.
 
-Si el dictamen de la cuenta pública es aprobado por el Pleno de la Legislatura, quedará por concluida la revisión de la cuenta pública. De no aprobarse, la Comisión sesionará de forma extraordinaria para analizar y discutir nuevamente el contenido de la Cuenta Pública. Al efecto, la Comisión podrá solicitar mayor información al Órgano Superior, sobre la aplicación de los recursos públicos y los resultados obtenidos con ellos. Por consiguiente, formulará un nuevo dictamen que deberá presentar al Pleno de la Legislatura para su respectiva calificación.
+Si el dictamen de las cuentas públicas es aprobado por el Pleno de la Legislatura, quedará concluida la revisión correspondiente. De no aprobarse, la Comisión sesionará de forma extraordinaria para analizar y discutir nuevamente el contenido de dicho informe. Al efecto, la Comisión podrá solicitar mayor información al Órgano Superior sobre la aplicación de los recursos públicos y los resultados obtenidos con ellos, sin que se entienda, para todos los efectos legales, como una modificación al Informe de Resultados. Por consiguiente, formulará un nuevo dictamen que deberá presentar al Pleno de la Legislatura para su respectiva calificación.
+
+> <small>(REFORMADO, G.G. 25 DE MAYO DE 2022)</small>
 
 ###### Artículo 41.
 
-Cuando conforme a esta Ley y demás disposiciones legales aplicables, los órganos de control interno de las entidades fiscalizables deban colaborar con el Organo Superior en lo que concierne a la revisión de las cuentas públicas, deberá establecerse una coordinación entre ésta y aquellos, a fin de garantizar el intercambio de información que sea necesario y otorgar las facilidades que permitan al Organo de Superior de Fiscalización el ejercicio de sus funciones.
+Cuando conforme a esta Ley y demás disposiciones legales aplicables, los órganos internos de control de las entidades fiscalizables deban colaborar con el Órgano Superior en lo que concierne a la revisión de las cuentas públicas, deberá establecerse una coordinación entre ésta y aquéllos, a fin de garantizar el intercambio de información que sea necesario y otorgar las facilidades que permitan al Órgano Superior el ejercicio de sus funciones.
 
 ###### Artículo 42.
 
@@ -1004,6 +1036,14 @@ V. Las autoridades hacendarias.
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
 El Órgano Superior tendrá acceso a la información que las disposiciones legales consideren como de carácter reservado o confidencial cuando esté relacionada directamente con la captación, recaudación, administración, manejo, custodia, ejercicio, aplicación de recursos públicos y la deuda pública, estando obligado a mantener la misma reserva, en términos de las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 25 DE MAYO DE 2022)</small>
+
+Cuando esta Ley no prevea plazo específico para la atención de sus requerimientos de información, el Órgano Superior, otorgará un plazo de cinco a diez días hábiles, contados a partir del día hábil siguiente a aquel en que surta efectos la notificación.
+
+> <small>(ADICIONADO, G.G. 25 DE MAYO DE 2022)</small>
+
+Cuando las entidades fiscalizables, derivado de la complejidad de la información solicitada, requieran de un plazo mayor para su atención, deberán solicitar la prórroga debidamente justificada ante el Órgano Superior; el plazo que se otorgue será improrrogable. Esta ampliación no podrá exceder el plazo previsto originalmente.
 
 > <small>(ADICIONADO, G.G. 3 DE FEBRERO DE 2021)</small>
 
@@ -1069,15 +1109,15 @@ Dichos documentos estarán disponibles en las oficinas de la Tesorería Municipa
 
 ### CAPITULO CUARTO. DEL INFORME DE RESULTADOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE MAYO DE 2022)</small>
 
 ###### Artículo 50.
 
-El Órgano Superior tendrá un plazo improrrogable que vence el 30 de enero del año siguiente en que se entreguen las cuentas públicas, para presentar el Informe de Resultados ante la Comisión de Vigilancia del Órgano Superior de Fiscalización, mismo que tendrá el carácter público y, en consecuencia, deberá ser publicado en medios electrónicos de manera inmediatamente posterior a su entrega; mientras ello no suceda, el Órgano Superior deberá guardar reserva de sus actuaciones e informaciones.
+El Órgano Superior tendrá un plazo improrrogable que vence el 15 de noviembre del año en que se entreguen las cuentas públicas, para presentar el Informe de Resultados ante la Comisión de Vigilancia del Órgano Superior de Fiscalización, mismo que tendrá el carácter público y, en consecuencia, deberá ser publicado en medios electrónicos de manera inmediatamente posterior a su entrega; mientras ello no suceda, el Órgano Superior deberá guardar reserva de sus actuaciones e información.
 
-> <small>(REFORMADO, G.G. 27 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, G.G. 25 DE MAYO DE 2022)</small>
 
-La revisión, análisis, aclaración y discusión del informe a que hace referencia el párrafo anterior, y el estudio del contenido de la cuenta pública, servirán como principal instrumento para que la Comisión de Vigilancia del Órgano Superior de Fiscalización elabore el dictamen de las cuentas públicas, el cual deberá presentarse ante el Pleno de la Legislatura para su votación y emisión del decreto que tenga por fiscalizadas y calificadas las cuentas públicas del Estado y municipios a más tardar el 10 de marzo del año en que se presente dicho informe.
+La revisión, análisis, aclaración y discusión del informe a que hace referencia el párrafo anterior, y el estudio del contenido de la cuenta pública, servirán como principal instrumento para que la Comisión de Vigilancia del Órgano Superior de Fiscalización elabore el dictamen de las cuentas públicas, el cual deberá presentarse ante el Pleno de la Legislatura para su votación y emisión del decreto que tenga por fiscalizadas y calificadas las cuentas públicas del Estado y municipios a más tardar el 30 de noviembre del año en que se presente dicho informe.
 
 > <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2019)</small>
 
@@ -1121,9 +1161,9 @@ VII. Las irregularidades que se detecten en el uso y manejo de los recursos; y
 
 VIII. Las observaciones y recomendaciones que se deriven de la revisión.
 
-> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 25 DE MAYO DE 2022)</small>
 
-Para el caso de las revisiones especiales que puedan realizarse de manera contemporánea a la ejecución de actos de gobierno y la aplicación de fondos públicos federales, estatales o municipales de conformidad con los artículos 5 y 8 en sus fracciones I y II de esta Ley, el Órgano Superior de Fiscalización del Estado de México, deberá informar a la Comisión de la Legislatura, sobre los resultados obtenidos de la misma.
+Para el caso de las revisiones contemporáneas, el Órgano Superior deberá informar a la Comisión sobre los resultados obtenidos de las mismas, en un plazo no mayor a noventa días hábiles, contados a partir del día hábil siguiente a aquél en que reciba la solicitud.
 
 El informe de resultados deberá elaborarse considerando los principios de contabilidad gubernamental y las disposiciones legales aplicables.
 
@@ -1137,33 +1177,55 @@ El Órgano Superior en el informe de resultados, dará cuenta por medio de la Co
 
 ### CAPITULO QUINTO. DE LAS ACCIONES Y RECOMENDACIONES DERIVADAS DE LA FISCALIZACION
 
-> <small>(REFORMADO, G.G. 27 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE MAYO DE 2022)</small>
 
 ###### Artículo 53.
 
-Si del ejercicio de las atribuciones de fiscalización del Órgano Superior, se observa alguna probable irregularidad, daño y/o perjuicio a la hacienda pública estatal o municipal, o al patrimonio de las entidades fiscalizadas, procederá lo siguiente:
+Si del ejercicio de las atribuciones de fiscalización del Órgano Superior, se detecta alguna probable irregularidad procederá a emitir las observaciones siguientes:
+
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2020)</small>
 
 I. Acciones y previsiones, incluidas solicitudes de aclaración, pliegos de observaciones, informes de presunta responsabilidad administrativa, promociones del ejercicio de la facultad de comprobación fiscal, promociones de responsabilidad administrativa sancionatoria, denuncias de hechos ante la Fiscalía General de Justicia del Estado de México y denuncias de juicio político; atendiendo a los principios del debido proceso, así como a la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México; y
 
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2020)</small>
+
 II. Recomendaciones.
 
-> <small>(REFORMADO, G.G. 27 DE JULIO DE 2020)</small>
+> <small>(ADICIONADO, G.G. 25 DE MAYO DE 2022)</small>
+
+###### Artículo 53 Bis.
+
+El Órgano Superior, previo a la presentación del Informe de Resultados, entregará a las entidades fiscalizadas los resultados preliminares que se deriven de la fiscalización de la Cuenta Pública, a efecto de que dichas entidades presenten, en un plazo no mayor a cinco días hábiles, las justificaciones y aclaraciones que correspondan.
+
+Una vez que el Órgano Superior valore las justificaciones, aclaraciones y demás información a que hace referencia el párrafo anterior, en un plazo máximo de 10 días hábiles posteriores, podrá determinar la procedencia de eliminar, rectificar o ratificar las observaciones preliminares, para efectos de la emisión de los resultados finales.
+
+Posterior a la entrega de los resultados finales, el Órgano Superior contará con treinta días hábiles a efecto de notificar a las entidades fiscalizadas el informe de auditoría.
+
+> <small>[N. DE E. SE ADVIERTE QUE DEL ANÁLISIS AL DECRETO NÚMERO 58 PUBLICADO EN LA G.G. EL 25 DE MAYO DE 2022, EL ANTERIOR SEGUNDO PÁRRAFO SE FUSIONÓ PARA FORMAR PARTE DEL ACTUAL PRIMER PÁRRAFO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE MAYO DE 2022)</small>
 
 ###### Artículo 54.
 
-La etapa de aclaración tiene como finalidad que la entidad fiscalizada, solvente o aclare el contenido de las observaciones.
+La etapa de aclaración tiene como finalidad que la entidad fiscalizada, solvente o aclare el contenido de las observaciones. La etapa de aclaración se desarrollará de la siguiente manera:
 
-La etapa de aclaración se desarrollará de la siguiente manera:
+> <small>(REFORMADA, G.G. 25 DE MAYO DE 2022)</small>
 
-I. El Órgano Superior, formulará y entregará el contenido de las observaciones, del posible daño y/o perjuicio a la hacienda pública estatal o municipal, o al patrimonio de las entidades fiscalizadas dentro de los informes de auditoría; para que, dentro del plazo de treinta días hábiles, aclare, solvente o manifieste lo que a su derecho convenga;
+I. El Órgano Superior, formulará y entregará el contenido de las observaciones dentro de los informes de auditoría; para que la entidad fiscalizada, dentro del plazo de treinta días hábiles, aclare, solvente o manifieste lo que a su derecho convenga;
 
 II. A través de las solicitudes de aclaración, el Órgano Superior, requerirá a la entidad fiscalizada para que presente, dentro del plazo a que se refiere la fracción anterior, la información adicional para atender las observaciones que se hayan realizado;
 
-III. Si las observaciones que derivaron en una solicitud de aclaración han quedado solventadas, el daño y/o perjuicio reparado, el Órgano Superior, emitirá el dictamen de solventación, de lo contrario, formulará el pliego de observaciones, otorgando el plazo previsto en la fracción I de este artículo;
+> <small>(REFORMADA, G.G. 25 DE MAYO DE 2022)</small>
 
-IV. El Órgano Superior, tratándose de los pliegos de observaciones, determinará en cantidad líquida los posibles daños o perjuicios, o ambos a la hacienda pública estatal o municipal, o en su caso al patrimonio de las entidades fiscalizadas;
+III. Si las observaciones que derivaron en una solicitud de aclaración han quedado solventadas, el Órgano Superior, emitirá el dictamen de solventación, de lo contrario, formulará el pliego de observaciones, otorgando el plazo previsto en la fracción I de este artículo.
+
+IV. (DEROGADA, G.G. 25 DE MAYO DE 2022)
 
 V. Una vez agotado el procedimiento previo, investigado y substanciado, el Órgano Superior, promoverá el informe de presunta responsabilidad administrativa ante el Tribunal de Justicia Administrativa del Estado de México; la denuncia de hechos ante la Fiscalía General de Justicia del Estado de México, la denuncia de juicio político ante la Legislatura, o los informes de auditoría ante el órgano interno de control competente, en los términos del Título Quinto de esta Ley.
+
+> <small>(ADICIONADO, G.G. 25 DE MAYO DE 2022)</small>
+
+El Órgano Superior deberá emitir el informe de seguimiento, en un plazo máximo de ciento veinte días hábiles contados a partir de la conclusión de la etapa de aclaración señalada en la fracción I, sobre las respuestas emitidas por las entidades fiscalizadas, en caso de no hacerlo se tendrán por atendidas las acciones.
 
 > <small>(ADICIONADO, G.G. 27 DE JULIO DE 2020)</small>
 
@@ -1814,3 +1876,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO.- Los procedimientos que se encuentren en trámite, se substanciaran conforme a la normatividad aplicable en su momento.
+
+G.G. 25 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 58.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO Y DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Los plazos previstos para la presentación del Informe de Resultados, y la revisión, discusión y calificación de las Cuentas Públicas serán aplicables para el ejercicio fiscal 2021.
