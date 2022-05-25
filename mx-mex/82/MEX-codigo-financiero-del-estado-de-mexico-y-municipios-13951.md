@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2022-02-08"
+last_updated: "2022-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "MEX"
 
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE MAYO DE 2022.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -16659,19 +16659,39 @@ Las Dependencias, Entidades Públicas y Organismos Autónomos, de acuerdo con su
 
 En caso de que no se proporcione la información o la que reciban no cumpla con la forma y plazos establecidos por éstas, podrán suspender la ministración de recursos, hasta en tanto se regularicen.
 
-> <small>(REFORMADO, G.G. 26 DE ENERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE MAYO DE 2022)</small>
 
 ###### Artículo 350.
 
-La Secretaría y las Tesorerías, enviarán para su análisis y evaluación al Órgano Superior de Fiscalización del Estado de México, de manera trimestral dentro de los primeros veinte días hábiles posteriores al término del periodo a informar y para el trimestre correspondiente al cierre del ejercicio fiscal, el envío se alineará con el plazo de entrega de la cuenta pública respectiva, la siguiente información:
+La Secretaría y las tesorerías enviarán al Órgano Superior, de manera trimestral, dentro de los primeros veinte días hábiles posteriores al término del trimestre que se informa, para su análisis, la siguiente información:
+
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2021)</small>
 
 I. Patrimonial.
 
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2021)</small>
+
 II. Presupuestal.
+
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2021)</small>
 
 III. De la obra pública.
 
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2021)</small>
+
 IV. De nómina.
+
+> <small>(ADICIONADA, G.G. 25 DE MAYO DE 2022)</small>
+
+V. Avance del cumplimiento del Plan de Desarrollo del Estado de México.
+
+> <small>(ADICIONADO, G.G. 25 DE MAYO DE 2022)</small>
+
+Los informes trimestrales deberán contener la evolución de las finanzas públicas integradas con los comentarios correspondientes y los estados financieros consolidados, así como un reporte de los ingresos y egresos de los organismos auxiliares.
+
+> <small>(ADICIONADO, G.G. 25 DE MAYO DE 2022)</small>
+
+El informe trimestral correspondiente al cuarto trimestre se entregará junto con las Cuentas Públicas del ejercicio fiscal de que se trate.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE ENERO DE 2021)</small>
 
@@ -16715,13 +16735,19 @@ Se adicionará a dichos informes un apartado especial sobre las reasignaciones r
 
 El Poder Ejecutivo a través de la Secretaría, comparecerá en las reuniones trimestrales de análisis y evaluación de los informes presentados que, celebren el Órgano Superior de Fiscalización de la Legislatura y las Comisiones Legislativas respectivas.
 
-> <small>(REFORMADO, G.G. 26 DE ENERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE MAYO DE 2022)</small>
 
 ###### Artículo 353.
 
-Con base en los estados contables y presupuestales, se formulará la cuenta pública, para su presentación a la Legislatura.
+Con base en los estados contables y presupuestales se formulará la Cuenta Pública para su presentación a la Legislatura.
 
-Las áreas competentes de los poderes Legislativo y Judicial, así como de los organismos electorales, de la Comisión de Derechos Humanos del Estado de México, del Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, de la Universidad Autónoma del Estado de México, del Tribunal de Justicia Administrativa del Estado de México y de la Fiscalía General de Justicia del Estado de México, remitirán oportunamente los estados contables y presupuestales a que se refiere el párrafo anterior, al Poder Ejecutivo para su incorporación a la cuenta pública estatal.
+> <small>(REFORMADO, G.G. 25 DE MAYO DE 2022)</small>
+
+Las áreas competentes de los poderes Legislativo y Judicial, así como de los organismos electorales, de la Comisión de Derechos Humanos del Estado de México, del Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, de la Universidad Autónoma del Estado de México, del Tribunal de Justicia Administrativa del Estado de México, y de la Fiscalía General de Justicia del Estado de México, remitirán los estados contables y presupuestales a que se refiere el párrafo anterior al Poder Ejecutivo, a través de la Secretaría, en los plazos y términos que determine la Secretaría para tal efecto, para su incorporación a la Cuenta Pública estatal.
+
+> <small>(ADICIONADO, G.G. 25 DE MAYO DE 2022)</small>
+
+Tratándose de los informes trimestrales, la documentación a que se refiere el párrafo anterior será remitida a la Secretaría, dentro de los quince días hábiles siguientes a la conclusión de cada trimestre, con excepción de los poderes Legislativo y Judicial, y Organismos Autónomos, quienes los enviarán directamente al Órgano Superior de Fiscalización del Estado de México.
 
 ###### Artículo 354.
 
@@ -19167,8 +19193,6 @@ CUARTO.- Los artículos 60 E y 60 H no serán aplicables para vehículos cuyo mo
 
 I. En el caso de automóviles de uso particular y embarcaciones la determinación será atendiendo al número de cilindros del motor, conforme a lo siguiente:
 
-.
-
 Tratándose de aeronaves se pagará una cuota fija, conforme a lo siguiente:
 
 Tipo de vehículo Cuota
@@ -19714,3 +19738,13 @@ Primero.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 Segundo.- Se dejan sin efecto las disposiciones de igual o menor jerarquía que contravengan o se opongan al mismo.
 
 Tercero.- Hágase del conocimiento de las Dependencias de la Administración Pública del Gobierno del Estado de México y de las Unidades Administrativas de la Subsecretaría de Ingresos.
+
+G.G. 25 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 58.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO Y DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNCIPIOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Los plazos previstos para la presentación del Informe de Resultados, y la revisión, discusión y calificación de las Cuentas Públicas serán aplicables para el ejercicio fiscal 2021.
