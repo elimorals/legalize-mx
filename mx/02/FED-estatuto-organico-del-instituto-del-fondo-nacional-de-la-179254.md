@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-de-la-179254
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-05-22"
-last_updated: "2020-05-22"
+last_updated: "2022-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=179254&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-05-05"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MAYO DE 2022.
 
 Estatuto publicado en el Número 15 del Diario Oficial de la Federación, el viernes 22 de mayo de 2020.
 
@@ -139,7 +139,17 @@ XXII. Realizar evaluaciones periódicas de la operación de las Delegaciones, en
 
 XXIII. Constituir a través de la figura jurídica correspondiente, centros de investigación, análisis estadísticos, agencias, comisiones especiales o cualquier otra unidad que permita llevar a cabo estudios y publicaciones relacionados con el quehacer del Instituto, y
 
-XXIV. Las demás que le señalen la Ley del Infonavit y sus disposiciones reglamentarias o que le sean encomendadas por la Asamblea o el Consejo de Administración.
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+XXIV. Proponer al Comité de Auditoría el establecimiento, diseño y actualizaciones al Sistema de Control Interno Institucional. El Comité de Auditoría, a su vez lo someterá a aprobación del Consejo de Administración;
+
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+XXV. Garantizar el mantenimiento, supervisión y cumplimiento del Sistema de Control Interno Institucional, y
+
+(REUBICADA, D.O.F. 25 DE MAYO DE 2022)
+
+XXVI. Las demás que le señalen la Ley del Infonavit y sus disposiciones reglamentarias o que le sean encomendadas por la Asamblea o el Consejo de Administración.
 
 ###### ARTÍCULO 5.
 
@@ -263,7 +273,9 @@ IV. Difundir y vigilar el cumplimiento de la normatividad institucional;
 
 V. Coordinar sus actividades con las diversas áreas del Infonavit, así como con instituciones públicas, privadas o sociales;
 
-VI. Implementar, aplicar y mantener el Sistema de Control Interno en la operación de los procesos, así como lo que corresponda a los proveedores y prestadores de servicios, en el ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+VI. Ejecutar y mantener el Sistema de Control Interno en la operación de los procesos, así como lo que corresponda a los proveedores y prestadores de servicios, en el ámbito de su competencia;
 
 VII. Desempeñar las atribuciones y comisiones que el Director o Directora General le delegue o encomiende y mantenerlo informado sobre el desarrollo de las mismas;
 
@@ -271,7 +283,9 @@ VIII. Promover el desarrollo del personal a su cargo;
 
 IX. Suscribir los contratos, convenios y demás instrumentos jurídicos relativos a las contrataciones requeridas en el área a su cargo;
 
-X. Proporcionar la información solicitada por autoridad competente y expedir constancias de los documentos originales que obren en sus archivos. Asimismo, expedir, a petición del interesado, copias certificadas de los documentos originales que obren en los archivos de las respectivas áreas del Instituto, en términos de lo dispuesto en las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+X. Proporcionar la información solicitada por autoridad competente y expedir constancias de los documentos originales o en copia simple que obren en sus archivos. Asimismo, expedir, a petición del interesado, copias certificadas de los documentos originales que obren en los archivos de las respectivas áreas del Instituto, en términos de lo dispuesto en las disposiciones jurídicas aplicables;
 
 XI. Suscribir los documentos relativos al ejercicio de sus funciones y los que le correspondan por delegación o suplencia;
 
@@ -309,7 +323,9 @@ IV. Difundir y vigilar el cumplimiento de la normatividad institucional;
 
 V. Coordinar sus actividades con las diversas áreas del Infonavit, así como con instituciones públicas, privadas o sociales;
 
-VI. Implementar, aplicar y mantener el Sistema de Control Interno en la operación de los procesos, así como lo que corresponda a los proveedores y prestadores de servicios, en el ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+VI. Ejecutar y mantener el Sistema de Control Interno en la operación de los procesos, así como lo que corresponda a los proveedores y prestadores de servicios, en el ámbito de su competencia;
 
 VII. Suscribir los documentos relativos al ejercicio de sus funciones y de las que le correspondan por suplencia;
 
@@ -371,19 +387,35 @@ XI. Para efectos de lo establecido en las fracciones V y VII, mantener una vincu
 
 Respecto a la representación del Infonavit, tendrá las siguientes facultades y funciones:
 
-I. Intervenir con la representación que le compete en los juicios y conflictos jurídicos, incluyendo lo correspondiente a la recuperación judicial de la cartera hipotecaria en los que el Infonavit sea parte; esta representación podrán ejercerla el Coordinador General Jurídico, el Gerente Senior Jurídico Consultivo, el Gerente Senior Jurídico Contencioso, el Gerente Senior de Recuperación Especializada, el Gerente de Servicios Legales, el Gerente Jurídico Contencioso, Civil y Mercantil, el Gerente de Denuncias, Investigaciones Especiales y Asuntos Penales;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+I. Intervenir con la representación que le compete en los juicios y/o conflictos jurídicos, incluyendo lo correspondiente a la recuperación judicial de la cartera hipotecaria en los que el Infonavit sea parte, esta representación podrán ejercerla el Coordinador General Jurídico, el Gerente Senior Jurídico Consultivo, el Gerente Senior Jurídico Contencioso, el Gerente Senior de Recuperación Especializada, el Gerente de Servicios Legales, el Gerente Jurídico Contencioso, Civil y Mercantil, el Gerente de Denuncias, Investigaciones Especiales y Asuntos Penales;
 
 II. Interponer las acciones legales que correspondan y gestionar su solución, con el propósito de salvaguardar los intereses y el patrimonio del Instituto, así como, la administración, coordinación y control de todos los procedimientos de carácter judicial, a excepción de los establecidos en el artículo 41 de este Estatuto Orgánico;
 
-III. Coordinar y administrar los procedimientos de carácter judicial en los que el Instituto sea parte, a excepción de los que corresponden a actos que realice en su carácter de organismo fiscal autónomo.
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
 
-IV. Establecer los mecanismos para la administración y control de los poderes que otorgue el Director o Directora General, así como las revocaciones de éstos, y
+III. Coordinar y administrar los procedimientos legales o de carácter judicial en los que el Instituto sea parte, a excepción de los que corresponden a actos que realice en su carácter de organismo fiscal autónomo;
 
-V. Coordinar las relaciones institucionales con la Comisión Nacional de los Derechos Humanos.
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
 
-VI. Tramitar y resolver las denuncias contra proveedores por posibles incumplimientos del Código de Ética que le sean turnados por la Contraloría General.
+IV. Establecer los mecanismos para la administración y control de los poderes que otorgue el Director o Directora General, así como las revocaciones de éstos;
 
-VII. Llevar a cabo todas las acciones tendientes a la protección de la propiedad intelectual e industrial del Infonavit y su defensa legal.
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+V. Coordinar las relaciones institucionales con la Comisión Nacional de los Derechos Humanos, así como con el Instituto Nacional de Transparencia, Acceso a la Información y de Protección de Datos Personales;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+VI. Tramitar y resolver las denuncias o querellas contra proveedores por posibles incumplimientos del Código de Ética que le sean turnados por la Contraloría General;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+VII. Llevar a cabo todas las acciones tendientes a la protección de la propiedad intelectual e industrial del Infonavit y su defensa legal, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+VIII. Intervenir, representar, administrar, coordinar y/o supervisar los procedimientos legales o de carácter judicial para la defensa del patrimonio de los Fideicomisos en que el Instituto sea parte o tenga un interés jurídico.
 
 ###### ARTÍCULO 18.
 
@@ -417,7 +449,13 @@ II. Dirigir y supervisar las actividades jurídicas de los abogados que atiendan
 
 III. Emitir opiniones, estrategias o criterios legales respecto de asuntos que le sean sometidos a su consideración, a fin de contribuir al cumplimiento de los fines institucionales, y
 
-IV. Elaborar los contratos y convenios que celebre el Instituto, emitiendo el dictamen que corresponda y opinando sobre la interpretación, rescisión, nulidad y demás aspectos legales relacionados con dichos documentos.
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+IV. Elaborar los contratos y convenios que celebre el Instituto, emitiendo el dictamen que corresponda y opinando sobre la interpretación, rescisión, nulidad y demás aspectos legales relacionados con dichos documentos, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+V. Validar y aprobar los contratos de fideicomisos en que el Instituto sea parte o tenga un interés jurídico y los convenios modificatorios, con excepción de los fideicomisos de garantía cuyo fin sea garantizar las obligaciones de pago derivadas de los créditos otorgados por el Instituto a los derechohabientes; así como tener a su cargo el registro institucional de fideicomisos.
 
 ###### ARTÍCULO 21.
 
@@ -437,9 +475,11 @@ Para efectos de lo establecido en el artículo 16, el Secretario o Secretaria Ge
 
 ### Capítulo V. De la Contraloría General
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO 24.
 
-Respecto a la implantación y cumplimiento del Sistema de Control Interno, tendrá las siguientes facultades y funciones:
+Respecto al diseño, establecimiento, supervisión y cumplimiento de la ejecución y mantenimiento del Sistema de Control Interno, tendrá las siguientes facultades y funciones:
 
 I. Difundir los objetivos y lineamientos del Sistema de Control Interno al personal del Infonavit;
 
@@ -453,7 +493,9 @@ V. En el caso de desviaciones o incumplimientos a la normatividad, por iniciativ
 
 VI. Contar con un registro permanentemente actualizado de los objetivos del Sistema de Control Interno, de los lineamientos para su implantación, así como de los manuales que se consideren relevantes para la operación acorde al objeto del Infonavit;
 
-VII. Proveer al menos dos veces al año un reporte de su gestión, a la Dirección General y al Comité de Auditoría;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+VII. Proveer al menos dos veces al año un reporte de su gestión, a la Dirección General y al Comité de Auditoría, y
 
 VIII. Participar en calidad de testigo en los eventos de entrega-recepción de oficinas y transmisión del conocimiento.
 
@@ -553,9 +595,11 @@ II. Establecer y administrar los métodos para asegurar la consistencia operativ
 
 III. Establecer y administrar métodos para asegurar la consistencia de los elementos operativos al implantar nuevos productos y servicios;
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO 32.
 
-Para efectos de lo establecido en los artículos 24, fracción V, 26, 27 y 29, la Contraloría General se auxiliará y/o será asistido (sic) para el trámite y resolución de los asuntos de su competencia por la Gerencia Sénior de Investigación y Sanciones, quien podrá ejercer las facultades y funciones establecidas en los referidos artículos de manera directa.
+Para efectos de lo establecido en los artículos 24, fracción V, 26, 27 y 29, la Contraloría General se auxiliará y/o será asistido (sic) para el trámite y resolución de los asuntos de su competencia por la Gerencia Sénior de Investigación y Sanciones, quien podrá ejercer las facultades y funciones establecidas en los referidos artículos de manera directa y con el auxilio de las Gerencias adscritas a dicha Gerencia Sénior conforme a la normativa interna.
 
 ### Capítulo VI. De la Subdirección General de Planeación Financiera y Fiscalización
 
@@ -589,15 +633,21 @@ III. Coordinar la elaboración del Informe Anual de Actividades;
 
 IV. Elaborar y dar seguimiento a la planeación financiera del Infonavit;
 
-V. Desarrollar las iniciativas, alianzas, convenios y estudios con centros de investigación, fundaciones, universidades, instituciones públicas, privadas y organismos internacionales, que permitan al Instituto generar el entendimiento y la implementación de las mejores prácticas globales para el cumplimiento de los objetivos institucionales;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+V. Promover y/o desarrollar iniciativas, acuerdos y estudios con centros de investigación, fundaciones, universidades, instituciones públicas, privadas y organismos internacionales, que permitan al Instituto identificar las mejores prácticas globales y evaluar el cumplimiento de los objetivos institucionales;
 
 VI. Llevar a cabo análisis, diagnósticos y estudios económicos relacionados con su quehacer institucional;
 
-VII. Realizar una evaluación anual sobre el impacto de las políticas de otorgamiento del crédito Infonavit;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
 
-VIII. Proponer indicadores y mecanismos de monitoreo como herramienta de orientación y referencia sobre la calidad de las viviendas, del conjunto habitacional y del entorno urbano, que satisfaga los requerimientos de los diferentes usuarios de la información y sean utilizados con carácter informativo, y
+VII. Realizar una evaluación anual sobre el impacto de las políticas de otorgamiento del crédito Infonavit, y
 
-IX. Tener a su cargo la administración y resguardo de la biblioteca institucional.
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+VIII. Coordinar las acciones operativas de la Administración para la atención de los requerimientos formulados por entidades fiscalizadoras competentes al Instituto.
+
+IX. (DEROGADA, D.O.F. 25 DE MAYO DE 2022)
 
 ###### ARTÍCULO 35.
 
@@ -615,11 +665,15 @@ I. Establecer y administrar los procesos, métodos y herramientas para identific
 
 II. Evaluar el impacto de las iniciativas y proyectos estratégicos institucionales en el cumplimiento de los objetivos institucionales;
 
-III. Mantener y resguardar el repositorio de información institucional, para dar seguimiento a los indicadores y metas de las unidades administrativas del Instituto;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+III. Mantener y resguardar el repositorio de información para dar seguimiento a los indicadores institucionales;
 
 IV. Establecer y operar los mecanismos y herramientas para la administración y seguimiento de iniciativas y proyectos institucionales, y
 
-V. Llevar a cabo el adecuado seguimiento del desempeño financiero de las Delegaciones, así como de su cumplimiento respecto a las metas del Tablero de Gestión Estratégica, a través de las gerencias de planeación financiera que se conformen en todas las entidades.
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+V. Llevar a cabo el seguimiento de la alineación de las Delegaciones a los objetivos institucionales que les corresponden.
 
 ###### ARTÍCULO 37.
 
@@ -637,17 +691,19 @@ IV. Administrar las relaciones del Infonavit con inversionistas, agencias califi
 
 Con relación a la identificación de necesidades de los usuarios, sus facultades y funciones son:
 
-I. Incorporar los resultados de servicio de cada canal y los indicadores de satisfacción de los usuarios a los mecanismos de seguimiento, evaluación y consecuencias del Infonavit;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+I. Incorporar los resultados de servicio de cada canal y los indicadores de satisfacción de los usuarios a los mecanismos de seguimiento, evaluación y consecuencias del Infonavit, y
 
 II. Realizar investigación experimental para mejorar el modelo de crédito y cobranza de la institución, en coordinación con las Subdirecciones Generales de Gestión de Cartera y Crédito;
 
-III. Generar y publicar investigación aplicada en temas de construcción de vivienda y sus materiales, desarrollo urbano, regeneración urbana, movilidad y transporte, gestión del suelo, mercado laboral, economía urbana y mejores prácticas normativas de vivienda;
+III. (DEROGADA, D.O.F. 25 DE MAYO DE 2022)
 
-IV. Proponer iniciativas normativas que incidan en la innovación y calidad de la vivienda;
+IV. (DEROGADA, D.O.F. 25 DE MAYO DE 2022)
 
-V. Diseñar y supervisar proyectos de mejora y aprovechamiento de espacios públicos, unidades habitacionales, entre otros, y
+V. (DEROGADA, D.O.F. 25 DE MAYO DE 2022)
 
-VI. Recomendar iniciativas para la construcción de vivienda que cumpla con los criterios internacionales de vivienda adecuada.
+VI. (DEROGADA, D.O.F. 25 DE MAYO DE 2022)
 
 ###### ARTÍCULO 39.
 
@@ -793,7 +849,9 @@ III. Analizar y evaluar el impacto, alcance y desempeño de las opciones de fina
 
 IV. Las demás que le señalen las disposiciones normativas institucionales y, en general todas aquellas relativas al cumplimiento de los objetivos del Infonavit, que sean afines con los artículos y las fracciones que anteceden y que le encomiende el Director o Directora General.
 
-### Capítulo VIII. Subdirección General de Gestión de Cartera
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 25 DE MAYO DE 2022)</small>
+
+### Capítulo VIII. De la Subdirección General de Gestión de Cartera
 
 ###### ARTÍCULO 52.
 
@@ -823,25 +881,41 @@ XI. Ejecutar las acciones pertinentes o gestionar las autorizaciones requeridas 
 
 XII. En coordinación con la Subdirección General de Operaciones, supervisar, monitorear y apoyar las actividades que en materia de recuperación del crédito que realizan las áreas competentes de las Delegaciones y de los Cesi, a fin de dar atención, soporte y seguimiento a la ejecución y desarrollo de los programas sustantivos de la Institución en beneficio de los usuarios del Infonavit.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO 53.
 
-Respecto a la administración de la vivienda recuperada, sus facultades y funciones son:
+Respecto a la administración de activos recuperados de créditos otorgados en términos del artículo 42, fracción II de la Ley, sus facultades y funciones son:
 
-I. Ofrecer, instrumentar y monitorear soluciones inmobiliarias individuales o en paquete, y, de manera conjunta con la Subdirección General de Crédito, establecer los mecanismos para promover la venta de vivienda adjudicada siempre y cuando éstas impliquen una recuperación que considere la situación real de los inmuebles;
+I. Ofrecer, instrumentar y monitorear soluciones inmobiliarias individuales o en paquete, y, de manera conjunta con la Subdirección General de Crédito, establecer los mecanismos para promover la venta de activos recuperados, siempre y cuando éstas impliquen una recuperación que considere la situación real de los inmuebles;
 
-II. Incorporar a las soluciones inmobiliarias aquellas estrategias de rehabilitación orientadas a preservar o mejorar el entorno urbano, con base en las políticas establecidas por la Dirección General o el Consejo de Administración, y de manera conjunta con la Subdirección General de Administración y Recursos Humanos;
+II. Incorporar a las soluciones inmobiliarias aquellas estrategias de rehabilitación orientadas a preservar o mejorar el entorno urbano, con base en las políticas establecidas por la Dirección General o el Consejo de Administración;
 
-III. Someter a la autorización del Consejo de Administración, a través del Comité de Riesgos, las propuestas de soluciones de cobranza e inmobiliarias que impliquen una recuperación inferior al valor de avalúo, y
+III. Someter a la autorización del Consejo de Administración, a través del Comité de Riesgos, las propuestas de soluciones de cobranza e inmobiliarias que impliquen una recuperación inferior al valor de avalúo;
 
-IV. Someter, en coordinación con la Secretaría General y Jurídica, a la autorización del Consejo de Administración, a través del Comité de Riesgos, las propuestas de comodato o donaciones a favor de entidades gubernamentales, instituciones de asistencia pública o asociaciones civiles, siempre y cuando se sujeten a la condición de que dichos inmuebles serán utilizados, exclusivamente, para fines sociales que favorezcan a la comunidad en la que se ubican o sirvan para brindar seguridad, rehabilitar o mejorar el entorno habitacional.
+IV. Someter, en coordinación con la Secretaría General y Jurídica, a la autorización del Consejo de Administración, a través del Comité de Riesgos, las propuestas de comodato o donaciones a favor de entidades gubernamentales, instituciones de asistencia pública o asociaciones civiles, siempre y cuando se sujeten a la condición de que dichos inmuebles serán utilizados, exclusivamente, para fines sociales que favorezcan a la comunidad en la que se ubican o sirvan para brindar seguridad, rehabilitar o mejorar el entorno socioespacial;
+
+V. Elaborar estudios, estrategias y/o instrumentos de planeación urbana relacionados con temas de rehabilitación de vivienda y regeneración socioespacial, desarrollo urbano, movilidad, transporte y gestión del suelo;
+
+VI. Proponer y ejecutar iniciativas que incidan en la mejora de las condiciones y calidad de la vivienda y su entorno urbano;
+
+VII. Diseñar, ejecutar y supervisar proyectos de mejora y aprovechamiento de espacios públicos, unidades habitacionales y desarrollo urbano, y
+
+VIII. Establecer y a través de terceros, ejecutar las acciones de rehabilitación y reconstrucción de la vivienda recuperada para que se cumpla con los criterios nacionales de vivienda adecuada, de conformidad con lo aprobado por el Consejo de Administración.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2022)</small>
 
 ###### ARTÍCULO 54.
 
-Respecto de las acciones de rehabilitación, mantenimiento y atención de desastres naturales:
+Respecto de las acciones de rehabilitación de vivienda, regeneración urbana y atención de desastres naturales:
 
-I. Ejecutar, administrar y evaluar, de acuerdo con los procedimientos que se establezcan, el proceso de rehabilitación y mejoramiento de unidades habitacionales del Infonavit;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
 
-II. Fomentar, de acuerdo con los procedimientos que se establezcan, el mantenimiento de las viviendas y de la imagen urbana de los conjuntos habitacionales del Infonavit;
+I. Ejecutar, administrar y evaluar, de acuerdo con los procedimientos que se establezcan, el proceso de rehabilitación y mejoramiento de unidades habitacionales;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+II. Fomentar, de acuerdo con los procedimientos que se establezcan, el mantenimiento de las viviendas y de la imagen urbana de unidades habitacionales;
 
 III. Instrumentar, de acuerdo con los procedimientos que se establezcan, las acciones de rehabilitación de las viviendas con crédito vigente que sean afectadas por desastres naturales, en coordinación con la Subdirección General de Planeación Financiera y Fiscalización, y
 
@@ -1005,7 +1079,9 @@ Respecto a la situación patrimonial de los trabajadores del Infonavit, deberá 
 
 Respecto a la administración de los recursos materiales y servicios, sus facultades y funciones son:
 
-I. Administrar los bienes muebles e inmuebles del Infonavit destinados a oficinas administrativas, conforme al esquema de sustentabilidad y protección civil;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+I. Administrar los bienes muebles e inmuebles patrimoniales del Infonavit;
 
 II. Establecer los mecanismos de custodia de los expedientes de crédito y su administración, así como la forma para ser consultados y/o su entrega temporal ante requerimientos de originales por área o entidad facultada para ello, asimismo, administrar con el apoyo de la Subdirección General de Tecnologías de Información, los archivos de concentración e históricos de documentos del Infonavit, exceptuando los expedientes de Crédito y de Recaudación Fiscal;
 
@@ -1017,9 +1093,13 @@ V. Ejecutar y administrar los procesos para la contratación de asesores y/o des
 
 VI. Administrar y coordinar las acciones necesarias para proporcionar los bienes y servicios requeridos por las diversas áreas del Infonavit;
 
-VII. Administrar la reserva territorial del Instituto, y
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
 
-VIII. Fungir como área coordinadora de archivos en términos de la Ley General de Archivos.
+VII. Fungir como área coordinadora de archivos en términos de la Ley General de Archivos, y
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+VIII. Normar, supervisar y controlar los procesos de constitución, operación y extinción de fideicomisos.
 
 ###### ARTÍCULO 68.
 
@@ -1069,19 +1149,41 @@ Las facultades y funciones de la Subdirección General de Comunicación son:
 
 I. Proponer la imagen institucional de los productos, materiales y eventos del Infonavit;
 
-II. Establecer las políticas de comunicación institucional, desarrollar campañas de difusión y actuar como enlace con los medios masivos de comunicación;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
 
-III. Establecer y dirigir los medios para evaluar la percepción de la sociedad respecto de los servicios que proporciona el Infonavit;
+II. Establecer las políticas de comunicación institucional, interna y externa, desarrollar campañas de difusión y actuar como enlace con los medios masivos de comunicación;
 
-IV. Coordinar los eventos institucionales nacionales e internacionales que sean solicitados por la Dirección General o el personal directivo;
+(REUBICADA, D.O.F. 25 DE MAYO DE 2022)
 
-V. Establecer la normatividad en materia de comunicación interna, así como validar la difusión y/o publicación que propongan las unidades administrativas en la materia;
+III. Coordinar los eventos institucionales nacionales e internacionales que sean solicitados por la Dirección General o el personal directivo;
 
-VI. Establecer la normatividad en materia de diseño, control y contenido editorial, así como del desarrollo audiovisual y experiencia del usuario de los canales digitales del Instituto, y hacerlo de conocimiento del Consejo de Administración;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
 
-VII. Emitir los lineamientos para el uso de la imagen y marcas del Infonavit, de conformidad con las acciones de protección de la propiedad intelectual e industrial que determine la Secretaría General y Jurídica, y
+IV. Establecer la normatividad en materia de comunicación interna, administrar los canales de comunicación interna y validar la difusión y/o publicación de contenidos que propongan las unidades administrativas en la materia;
 
-VIII. Aprobar con la Secretaría General y Jurídica el otorgamiento de los permisos para el uso de la imagen y marcas del Infonavit.
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+V. Normar, supervisar y validar el diseño, control y contenido editorial, así como del desarrollo audiovisual y experiencia del usuario de los canales de atención y comunicación; y hacerlo de conocimiento del Consejo de Administración;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+VI. Normar, administrar y supervisar el uso de la imagen y marcas del Infonavit, de conformidad con las acciones de protección de la propiedad intelectual e industrial que determine la Secretaría General y Jurídica;
+
+(REUBICADA, D.O.F. 25 DE MAYO DE 2022)
+
+VII. Aprobar con la Secretaría General y Jurídica el otorgamiento de los permisos para el uso de la imagen y marcas del Infonavit;
+
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+VIII. Administrar y operar en coordinación con la Subdirección General de Tecnologías de Información el portal Institucional;
+
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+IX. Definir y ejecutar la estrategia de difusión cultural y académica del Infonavit, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2022)</small>
+
+X. Administrar y coordinar el funcionamiento del Museo Nacional de la Vivienda, el Centro de Información Documental-Biblioteca del Infonavit y coordinar las redes de colaboración cultural y académica con instituciones sociales, públicas, privadas y organismos nacionales e internacionales.
 
 ### Capítulo XII. De la Subdirección General de Tecnologías de Información
 
@@ -1182,3 +1284,15 @@ QUINTO. La Subdirección General de Administración y Recursos Humanos deberá e
 SEXTO. Se ordena su publicación en el Diario Oficial de la Federación.
 
 Dado en la Ciudad de México, el día 5 de mayo de dos mil veinte.- El Director General, Carlos Martínez Velázquez.- Rúbrica.- El Secretario General y Jurídico, Rogerio Castro Vázquez.- Rúbrica.- El Coordinador General Jurídico, Óscar Javier Priego Berezaluce.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 25 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE APRUEBAN LAS MODIFICACIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES".]
+
+Primero. Las presentes modificaciones al Estatuto fueron aprobadas en la sesión ordinaria 125 de la Asamblea General, celebrada el día 28 de abril de 2022 y entrarán en vigor a partir de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las demás disposiciones del Estatuto Orgánico del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, publicado en el Diario Oficial de la Federación el 22 de mayo de 2020 que no hubiesen sido objeto de cambios en términos del presente Acuerdo permanecerán vigentes.
+
+Tercero. Se ordena su publicación en el Diario Oficial de la Federación.
