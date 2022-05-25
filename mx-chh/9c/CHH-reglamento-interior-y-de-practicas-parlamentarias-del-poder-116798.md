@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-y-de-practicas-parlamentarias-del-poder-116
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-01"
-last_updated: "2022-01-29"
+last_updated: "2022-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2022.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 1 de octubre de 2016.
 
@@ -777,7 +777,9 @@ ARTÍCULO 74 BIS. El Buzón Legislativo Ciudadano es un mecanismo de consulta pe
 
 I. En el portal de internet del Congreso se dispondrá de un espacio digital donde se podrá opinar sobre cualquier iniciativa de Ley, en los términos del artículo 58 de la Constitución Política del Estado.
 
-II. No serán motivo de consulta por medio del Buzón Legislativo Ciudadano, las que se refieran a las materias fiscal y presupuestaria, además de las que ameriten su resolución temporal inmediata, por acuerdo de la o las Comisiones de dictamen.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2022)</small>
+
+II. No serán motivo de consulta por medio del Buzón Legislativo Ciudadano, las que ameriten su resolución temporal inmediata, por acuerdo de la o las Comisiones de dictamen.
 
 III. Las opiniones se recibirán en cualquier momento, hasta antes de que la o las Comisiones dictaminen.
 
@@ -1880,3 +1882,15 @@ P.O. 29 DE ENERO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a los 90 días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVII/RFDEC/0243/2022 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO SEGUNDO DEL DECRETO N° LXVII/RFLEY/0190/2022 I P.E., REFERENTE AL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO, EN SU ARTÍCULO 74 BIS, FRACCIÓN II".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el mismo día en que lo haga el Decreto No. LXVII/RFLEY/0190/2022 I P.E.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Periódico Oficial del Estado.
