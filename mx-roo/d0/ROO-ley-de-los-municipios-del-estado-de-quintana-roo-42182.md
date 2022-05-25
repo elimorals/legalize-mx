@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2022-04-08"
+last_updated: "2022-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2022.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -1497,51 +1497,63 @@ Del procedimiento para la Suspensión y Desaparición de los Ayuntamientos y de 
 
 En cualquiera de los supuestos a que se refiere el presente Título, se deberá presentar la solicitud por escrito ante la Secretaría de la Legislatura del Estado y en todo caso señalar con amplitud, las causas que a su juicio motiven la incoación del procedimiento y un mínimo de elementos probatorios que hagan probable la conducta denunciada.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO 111.
 
-Hecha la solicitud respectiva, el promovente deberá ratificarla dentro de los tres días hábiles siguientes a su presentación; una vez ratificada será turnada junto con la documentación que la acompañe, a la Comisión de Justicia de la Legislatura del Estado para que esta califique los requisitos de procedencia.
+Hecha la solicitud respectiva, el promovente deberá ratificarla dentro de los tres días hábiles siguientes a su presentación; una vez ratificada será turnada en un plazo no mayor a siete días, junto con la documentación que la acompañe, a la Comisión de Justicia de la Legislatura del Estado para que, dentro de un término máximo de veinte días hábiles, ésta califique los requisitos de procedencia. Constituyen requisitos básicos de procedencia:
 
-a) Constituyen requisitos básicos de procedencia:
+a) Que contenga el nombre, identificación y la firma autógrafa del solicitante.
 
-b) Que contenga el nombre, identificación y la firma autógrafa del solicitante;
+b) Que la solicitud sea ratificada en tiempo y forma.
 
-c) Que la solicitud sea ratificada en tiempo y forma;
+c) Que se funde en alguna de las causas previstas en este Título; y
 
-d) Que se funde en alguna de las causas previstas en este Título; y
+d) Que se acompañe o se señalen en su caso, según la naturaleza del asunto, los elementos mínimos que hagan probable la causa invocada.
 
-Que se acompañe o se señalen en su caso, según la naturaleza del asunto, los elementos mínimos que hagan probable la causa invocada.
-
-Si a juicio de la Comisión de Justicia la solicitud no reúne los requisitos de procedencia para que se abra un procedimiento, lo desechará de plano, sin que proceda recurso alguno contra dicha resolución.
+Si a juicio de la Comisión de Justicia la solicitud no reúne los requisitos de procedencia para que se abra un procedimiento, la desechará de plano y publicará el acuerdo de desecho de forma física en los estrados del Poder Legislativo y de forma electrónica en el portal del Poder Legislativo dentro de un plazo no mayor a tres días hábiles siguientes a la aprobación del acuerdo de desecho mencionado, sin que proceda recurso alguno contra dicha resolución.
 
 En ningún caso se dará curso a denuncias anónimas.
 
-Si a juicio de la Comisión de Justicia estos elementos se cumplen, lo notificará al miembro del Ayuntamiento de que se trate, o al Síndico del mismo si se dirige en contra del Ayuntamiento en sí, acompañando copia de la solicitud formulada y de los anexos.
+Si a juicio de la Comisión de Justicia estos elementos se cumplen, se dictará el acuerdo de procedencia de la solicitud respectiva y lo notificará al miembro del Ayuntamiento de que se trate, o al Síndico del mismo, si se dirige en contra del Ayuntamiento, en un plazo máximo de cinco días hábiles posteriores a la aprobación del mencionado acuerdo, acompañando copia de la solicitud formulada y de los anexos.
 
-Notificados y enterados del contenido de la solicitud, los miembros de los Ayuntamientos y, en su caso, el Síndico, dispondrán de un plazo de cinco días hábiles para responder en esta etapa del procedimiento lo que a su derecho convenga.
+Notificados y enterados del contenido de la solicitud, los miembros de los Ayuntamientos y, en su caso, el Síndico, dispondrán de un plazo de cinco días hábiles contados a partir del día siguiente de la notificación del acuerdo de procedencia de la solicitud respectiva, para responder en esta etapa del procedimiento lo que a su derecho convenga.
 
 En los procedimientos previstos en este Título, podrán ser oídos por la Legislatura los miembros del Ayuntamiento contra los que no se hayan instaurado tales procedimientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO 112.
 
-Agotado el término de cinco días hábiles o tan luego como se haya obtenido la respuesta a la que se refiere el penúltimo párrafo del artículo que antecede, la Comisión de Justicia presentará al pleno de la Legislatura, el dictamen donde proponga:
+Agotado el término de cinco días hábiles o tan luego como se haya obtenido la respuesta a la que se refiere el penúltimo párrafo del artículo que antecede, la Comisión de Justicia presentará al Pleno de la Legislatura, dentro de un plazo no mayor de cinco días hábiles, el dictamen donde proponga:
 
 I. Si procede o no la incoación del procedimiento de mérito; y
 
 II. Si resulta procedente la suspensión provisional y la forma en que habrán de cubrirse provisoriamente las vacantes, durante la tramitación del procedimiento.
 
-La Legislatura del Estado, dictará la resolución que a su juicio sea procedente.
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2022)</small>
+
+La Legislatura del Estado, dentro del plazo de diez días hábiles siguientes a la presentación del dictamen al Pleno, dictará la resolución que a su juicio sea procedente y misma que deberá publicarse dentro de ese mismo plazo, de forma física en los estrados del Poder Legislativo y de forma electrónica en el portal del Poder Legislativo.
 
 En caso de que resulte necesaria la suspensión, ésta no podrá hacerse efectiva hasta en tanto no se le otorgue la garantía de audiencia al o a los miembros en contra de quienes se haya iniciado el procedimiento, salvo que los denunciados hayan renunciado a la misma al no dar respuesta a la Comisión de Justicia.
 
 Cuando el procedimiento se haya instaurado en contra del Ayuntamiento, la garantía de audiencia se le otorgará por conducto de su Síndico y dicha garantía se le otorgará también para que manifieste lo que a su interés convenga cuando el procedimiento se haya iniciado en contra de uno o de varios de sus miembros.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO 113.
 
-De resultar procedente el inicio del procedimiento se abrirá un periodo de instrucción de 30 días hábiles a cargo de la Comisión de Justicia, quien concluido dicho término presentará al pleno de la Legislatura dictamen donde proponga la resolución definitiva que estima procedente.
+De resultar procedente el inicio del procedimiento, se abrirá un periodo de instrucción a cargo de la Comisión de Justicia de treinta días hábiles, contados a partir del día siguiente de la resolución emitida por la Legislatura, que tendrá como finalidad la presentación de las pruebas y alegatos de las partes.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2022)</small>
+
+La Comisión de Justicia, dentro del plazo máximo de diez días hábiles siguientes a la conclusión del periodo de instrucción, presentará al Pleno de la Legislatura el dictamen donde proponga la resolución definitiva que estima procedente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2022)</small>
 
 ###### ARTÍCULO 114.
 
-La Legislatura habrá de pronunciarse en definitiva en un término no mayor de tres meses.
+La Legislatura habrá de pronunciarse en definitiva en un término no mayor de treinta días hábiles siguientes a la presentación de la resolución.
 
 Las resoluciones que emita la Legislatura del Estado en los procedimientos previstos en este Título tendrán el carácter de definitivas.
 
@@ -1891,9 +1903,17 @@ VII. Instrumentar con señalamientos el tránsito de vehículos y peatones del M
 
 VIII. Administrar y vigilar los Centros de Retención Municipal;
 
-IX. Auxiliar al Ministerio Público en la investigación y persecución de los delitos y en la aprehensión de los criminales cuando lo soliciten; y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2022)</small>
 
-X. Las demás que le señalen las leyes, reglamentos, el Bando de Policía y Gobierno y disposiciones y/o acuerdos del propio Ayuntamiento.
+IX. Auxiliar al Ministerio Público en la investigación y persecución de los delitos y en la aprehensión de los criminales cuando lo soliciten;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MAYO DE 2022)</small>
+
+X. Contar con grupos especializados para la atención de la violencia familiar y de género, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE MAYO DE 2022)</small>
+
+XI. Las demás que le señalen las leyes, reglamentos, el Bando de Policía y Gobierno y disposiciones y/o acuerdos del propio Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
@@ -3500,3 +3520,19 @@ PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el 
 SEGUNDO. Los Ayuntamientos realizarán las adecuaciones reglamentarias que correspondan para la atención de la materia de las nuevas denominaciones de las comisiones ordinarias de Desarrollo urbano y de Movilidad.
 
 TERCERO. Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 25 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 235 POR EL QUE SE REFORMAN: EL ARTÍCULO 111, LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 112, EL PÁRRAFO PRIMERO DEL ARTÍCULO 113 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 114; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 113, TODOS DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 25 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 237 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA Y DE LA LEY DE LOS MUNICIPIOS, AMBOS ORDENAMIENTOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
