@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-nayarit-77
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-23"
-last_updated: "2020-04-13"
+last_updated: "2022-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE ABRIL DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el sábado 23 de octubre de 2010.
 
@@ -361,9 +359,17 @@ X. Establecimiento del principio de la competitividad estatal, mediante el otorg
 
 XI. Promoción del desarrollo integral de la infraestructura de investigación, para aumentar las capacidades en materia de investigación científica e innovación en el Estado;
 
-XII. Fomento de centros interactivos de ciencia y tecnología, para el desarrollo de la cultura social de la ciencia, la tecnología y la innovación, y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2022)</small>
 
-XIII. Vinculación con el desarrollo educativo estatal, el fomento a las vocaciones científicas y tecnológicas desde la educación básica.
+XII. Fomento de centros interactivos de ciencia y tecnología, para el desarrollo de la cultura social de la ciencia, la tecnología y la innovación;
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2022)</small>
+
+XIII. Vinculación con el desarrollo educativo estatal, el fomento a las vocaciones científicas y tecnológicas desde la educación básica, y
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2022)</small>
+
+XIV. Fomento de la igualdad de género en el diseño, implementación y evaluación de políticas de ciencia, tecnología e innovación.
 
 ###### Artículo 15.
 
@@ -425,9 +431,17 @@ V. La vinculación de la educación científica y tecnológica con los sectores 
 
 VI. Apoyar la capacidad y el fortalecimiento de las actividades de investigación científica y desarrollo tecnológico que lleven a cabo las instituciones públicas de educación superior, las que realizarán sus fines de acuerdo a los principios, planes, programas y normas internas que dispongan sus ordenamientos específicos;
 
-VII. La creación, el financiamiento y la operación del Fondo que se instituye en la presente ley, y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2022)</small>
 
-VIII. Los programas educativos y de normalización, los estímulos fiscales, facilidades en materia administrativa y de comercio exterior, el régimen de propiedad intelectual, en los términos de las leyes específicas aplicables, así como en los instrumentos internacionales suscritos y ratificados por el Estado Mexicano, en materia de investigación científica y desarrollo tecnológico.
+VII. La creación, el financiamiento y la operación del Fondo que se instituye en la presente ley;
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2022)</small>
+
+VIII. Los programas educativos y de normalización, los estímulos fiscales, facilidades en materia administrativa y de comercio exterior, el régimen de propiedad intelectual, en los términos de las leyes específicas aplicables, así como en los instrumentos internacionales suscritos y ratificados por el Estado Mexicano, en materia de investigación científica y desarrollo tecnológico, y
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2022)</small>
+
+IX. Impulsar el diseño, implementación y evaluación de políticas y programas de ciencia, tecnología e innovación para la igualdad de género.
 
 ### Capítulo II. Del Sistema Integrado de Información
 
@@ -1014,3 +1028,9 @@ SEGUNDO.- Comuníquese el presente Decreto al titular del Poder Ejecutivo del Es
 TERCERO.- Comuníquese el presente Decreto a las personas titulares de las dependencias y entidades de la Administración Pública Estatal, referidas en los artículos 8 y 31, respectivamente, para los efectos conducentes.
 
 CUARTO.- Comuníquese el presente Decreto al Consejo de Ciencia y Tecnología del Estado de Nayarit, para los efectos conducentes.
+
+P.O. 25 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE POLÍTICAS DE CIENCIA, TECNOLOGÍA E INNOVACIÓN CON FOMENTO A LA IGUALDAD DE GÉNERO”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
