@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2022-04-28"
+last_updated: "2022-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -1447,7 +1447,9 @@ Bajo el nombre de lesión se comprende no solamente las heridas, excoriaciones, 
 
 Al que cause a otro un daño en su integridad corporal o en su salud física o mental que no ponga en peligro la vida y tarde en sanar hasta quince días, y no se encuentre en alguna de las hipótesis de los artículos siguientes, se le impondrá de diez a cincuenta días multa o trabajo en favor de la comunidad de cinco a veinticinco días, según proceda a juicio del juzgador.
 
-Si tarda en sanar más de quince días, se le impondrá prisión de seis meses a tres años y multa de veinticinco a cien días multa.
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2022)</small>
+
+Si tarda en sanar más de quince días, se le impondrá prisión de seis meses a tres años y de veinticinco a cien días multa.
 
 ###### ARTICULO 100.
 
@@ -1455,9 +1457,13 @@ Las lesiones que no pongan en peligro la vida, cualquiera que sea su tiempo de d
 
 I.- De uno a cuatro años de prisión y de veinticinco a cien días multa, si deja cicatrizar (sic) notable y permanente.
 
-II.- De dos a cinco años de prisión y multa de treinta a ciento veinte días multa, cuando disminuyan las facultades o el normal funcionamiento de órganos o miembros, cuando produzcan incapacidad temporal de hasta un año para trabajar, o
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2022)</small>
 
-III.- De dos a nueve años de prisión y multas de treinta a ciento veinte días multa, si producen la pérdida definitiva de cualquier función orgánica, miembro, órgano o facultad, o causen una enfermedad segura o probablemente incurable o deformida (sic) incorregible, o incapacidad por más de un año permanente para trabajar.
+II.- De dos a cinco años de prisión y de treinta a ciento veinte días multa, cuando disminuyan las facultades o el normal funcionamiento de órganos o miembros, cuando produzcan incapacidad temporal de hasta un año para trabajar, o
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2022)</small>
+
+III.- De dos a nueve años de prisión y de treinta a ciento veinte días multa, si producen la pérdida definitiva de cualquier función orgánica, miembro, órgano o facultad, o causen una enfermedad segura o probablemente incurable o deformidad incorregible, o incapacidad por más de un año permanente para trabajar.
 
 Si se produjeren varios de los resultados previstos en este artículo solamente se aplicará la pena correspondiente al de mayor gravedad.
 
@@ -1581,9 +1587,9 @@ La misma pena se impondrá a quien no estando en condiciones de prestar el auxil
 
 Al que abandone una persona incapaz de valerse por sí misma, teniendo la obligación de cuidarla se le aplicará prisión de seis meses a tres años.
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2022)</small>
 
-Cuando el abandono a que se refiere el primer párrafo de este artículo tenga como sujeto pasivo a una persona adulta mayor de sesenta años, y sea realizado por parte de los descendientes consanguíneos en línea recta o cualquier otro familiar que, conforme a la legislación civil, tenga la obligación de cuidarlo, se le impondrá multa de 30 a 100 días y trabajo en favor de la comunidad de tres meses a un año.
+Cuando el abandono a que se refiere el primer párrafo de este artículo tenga como sujeto pasivo a una persona adulta mayor de sesenta años, y sea realizado por parte de los descendientes consanguíneos en línea recta o cualquier otro familiar que, conforme a la legislación civil, tenga la obligación de cuidarlo, se le impondrá de 30 a 100 días multa y trabajo en favor de la comunidad de tres meses a un año.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
@@ -1611,9 +1617,11 @@ A quien realice las conductas señaladas en las fracciones I, II, III y IV, se l
 
 Si el sujeto activo del delito fuera servidor público, además de las penas señaladas en el párrafo primero y las que correspondan a la ley de la materia, se le podrá inhabilitar para el ejercicio de la profesión médica hasta por un año.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2022)</small>
+
 ###### ARTICULO 113.
 
-Al que sabiendo que padece algún mal grave y transmisible ponga por cualquier medio en peligro de contagio la salud de otro, se le impondrá de seis meses a un año de prisión o multa de diez a cincuenta días. Si la puesta en peligro es violado un deber de cuidado, solo se pondrá al agente a disposición de las autoridades sanitarias para su tratamiento médico adecuado.
+Al que sabiendo que padece algún mal grave y transmisible ponga por cualquier medio en peligro de contagio la salud de otro, se le impondrá de seis meses a un año de prisión o de diez a cincuenta días multa. Si la puesta en peligro es violando un deber de cuidado, solo se pondrá al agente a disposición de las autoridades sanitarias para su tratamiento médico adecuado.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
@@ -1643,7 +1651,9 @@ Si el delito se realiza con violencia o resulta un embarazo, se impondrá de cin
 
 QUÁTER.- Comete el delito de esterilidad provocada, quien sin el consentimiento de una persona practique en ella procedimientos quirúrgicos con el propósito de provocar esterilidad.
 
-Este delito se sancionará con una pena de cuatro a siete años de prisión y multa de cuarenta a ciento veinte días, más la reparación del daño.
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2022)</small>
+
+Este delito se sancionará con una pena de cuatro a siete años de prisión y de cuarenta a ciento veinte días multa, más la reparación del daño.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE JUNIO DE 2009)</small>
 
@@ -1761,11 +1771,11 @@ Se debe entender como persona ligada por algún vínculo con el ofendido, a los 
 
 Este delito se perseguirá previa querella.
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2022)</small>
 
-###### ARTICULO 123 Bis.
+###### ARTÍCULO 123
 
-Se sancionará de uno a cuatro años de prisión y multa de veinte a doscientos días multa a quien lleve a cabo la actividad de cobranza extrajudicial ilegal.
+BIS.- Se sancionará de uno a cuatro años de prisión y de veinte a doscientos días multa a quien lleve a cabo la actividad de cobranza extrajudicial ilegal.
 
 Si utiliza además documentos o sellos falsos, la pena y la sanción económica aumentarán una mitad.
 
@@ -1881,9 +1891,9 @@ Cuando el acoso sexual se cometa contra una persona menor de dieciocho años de 
 
 Si el sujeto activo fuese servidor público, docente o parte del personal administrativo de cualquier institución educativa o de asistencia social, el delito será perseguible de oficio, y además de las penas señaladas, se le destituirá del cargo y se le inhabilitará para ocupar cualquier otro en el sector público hasta por dos años, en caso de reincidencia, la inhabilitación será definitiva.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2022)</small>
 
-Al que reincidiere en la comisión de este delito, se le aplicará el doble de la pena de prisión señalada en los párrafos anteriores y quinientos días de multa.
+Al que reincidiere en la comisión de este delito, se le aplicará el doble de la pena de prisión señalada en los párrafos anteriores y quinientos días multa.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
@@ -1911,9 +1921,9 @@ ARTICULO 130 TER. Comete el delito de hostigamiento sexual aquella persona que v
 
 Cuando el hostigamiento sexual se cometa contra una persona menor de dieciocho años de edad, o con alguna discapacidad, o que no tenga la capacidad de comprender el significado del hecho, o por cualquier causa no pueda resistirlo, la pena de prisión se aumentará hasta en una tercera parte de la prevista en el párrafo anterior y se perseguirá de oficio.
 
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2022)</small>
 
-Al que reincidiere en la comisión de este delito, se le aplicará el doble de la pena de prisión señalada en los párrafos anteriores y quinientos días de multa.
+Al que reincidiere en la comisión de este delito, se le aplicará el doble de la pena de prisión señalada en los párrafos anteriores y quinientos días multa.
 
 (NOTA: EL 23 DE MARZO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 80/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 6 DE ABRIL DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 098, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -1975,7 +1985,7 @@ ARTICULO 130 SEXIES 1. A quien, empleando cualquier tipo de violencia, amenace o
 
 ### CAPITULO UNICO. DISCRIMINACIÓN
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2022)</small>
 
 ### CAPITULO II (SIC). CALUMNIA
 
@@ -2007,19 +2017,33 @@ Una vez que tenga conocimiento el Ministerio Público de los delitos señalados 
 
 ###### ARTICULO 132.
 
-Se sancionará con pena de dos a cuatro años de prisión o de cien a doscientos días de trabajo a favor de la comunidad y multa de cien a doscientos días, al que por razón de género, edad, raza, estado civil, orientación sexual, idioma, ideología, discapacidades, condición social, condición de salud, religión, origen étnico o nacional, embarazo, trabajo o profesión, posición económica, características físicas o cualquier otra que atente contra la dignidad humana, limite, menoscabe, anule o ponga en riesgo, los derechos, libertades y seguridad de la persona al:
+Se sancionará con pena de dos a cuatro años de prisión o de cien a doscientos días de trabajo en favor de la comunidad y de cien a doscientos días multa, al que por razón de género, edad, raza, estado civil, orientación sexual, idioma, ideología, discapacidades, condición social, condición de salud, religión, origen étnico o nacional, embarazo, trabajo o profesión, posición económica, características físicas o cualquier otra que atente contra la dignidad humana, limite, menoscabe, anule o ponga en riesgo, los derechos, libertades y seguridad de la persona al:
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 I.- Provocar o incitar al odio o la violencia;
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
 II.- Negar un servicio o prestación a la que se tenga derecho, debiéndose entender que toda persona tiene derecho a los servicios o prestaciones que se ofrecen al público en general;
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 III.- Humillar, denigrar o excluir a alguna persona o grupos de personas; y
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
 IV.- Negar o restringir derechos laborales o de otra naturaleza.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 Al Servidor público que por alguna de las razones señaladas en el párrafo primero de este artículo, retarde o niegue a una persona un trámite, servicio o prestación al que tenga derecho, se le impondrán de tres a seis años de prisión y se le destituirá e inhabilitará para el desempeño de cualquier cargo, empleo o comisión públicos, por un tiempo igual al de la privación de libertad impuesta.
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
 Se exceptúan de esta discriminación, todas aquellas medidas tendientes a la protección de los grupos socialmente desfavorecidos o en riesgo.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 Este delito se perseguirá por querella.
 
@@ -2085,9 +2109,11 @@ I.- Se apodere de una cosa de su propiedad si ésta se halle por cualquier títu
 
 II.- Aproveche energía eléctrica o algún fluido, sin consentimiento de la persona que legalmente pueda disponer de aquellos.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2022)</small>
+
 ###### ARTICULO 144.
 
-Al que se le imputare el hecho de haberse apoderado de una cosa mueble ajena, sin consentimiento del dueño o el legítimo poseedor y acredite haberla tomado con el solo fin de usarla temporalmente y no para apropiársela o venderla, se le aplicará de seis a nueve meses de prisión o multa de quince a sesenta días, siempre que justifique no haberse negado a devolverla si se le requirió para ello. Como reparación del daño, además, pagará al ofendido el doble del alquiler, arrendamiento o intereses de la cosa usada.
+Al que se le imputare el hecho de haberse apoderado de una cosa mueble ajena, sin consentimiento del dueño o el legítimo poseedor y acredite haberla tomado con el solo fin de usarla temporalmente y no para apropiársela o venderla, se le aplicará de seis a nueve meses de prisión o de quince a sesenta días multa, siempre que justifique no haberse negado a devolverla si se le requirió para ello. Como reparación del daño, además, pagará al ofendido el doble del alquiler, arrendamiento o intereses de la cosa usada.
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -2113,13 +2139,17 @@ VI.- Valiéndose de identificaciones falsas o supuestas órdenes de alguna autor
 
 VII.- Respecto de piezas, partes o accesorios elaborados total o parcialmente de cobre u otros metales utilizados en instalaciones eléctricas, hidráulicas y/o de gas, en equipamiento urbano o industrial.
 
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 145
 
-BIS.- Se impondrá de seis a dieciocho años de prisión y de treinta a ciento cincuenta días de multa, si el robo se realiza:
+BIS.- Se impondrá de seis a dieciocho años de prisión y de treinta a ciento cincuenta días multa, si el robo se realiza:
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
 
 I.- Con violencia contra la persona robada o sobre otra que la acompañe, o cuando ejerza violencia para darse a la fuga o defender lo robado;
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
 
 II.- En lugar cerrado o habitado o destinado para habitación, o sus dependencias, comprendiendo no solo los que están fijos en la tierra, sino también en los movibles:
 
@@ -2127,11 +2157,19 @@ II.- En lugar cerrado o habitado o destinado para habitación, o sus dependencia
 
 III.- Aprovechando la consternación de una desgracia, o aprovechando situaciones de emergencia, catástrofe natural, contingencia sanitaria, epidemia, invasión, desorden público o cualquier evento extraordinario que perturbe la paz pública;
 
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
+
 IV.- Por intervención de dos o más personas;
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
 
 V.- Mediante uso de armas u otros medios peligrosos;
 
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
+
 VI.- En contra de una oficina bancaria, recaudadora u otra en que se conservan caudales, o en contra de las personas que las custodian, manejan o transportan;
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
 
 VII.- En local comercial abierto al público;
 
@@ -2139,11 +2177,11 @@ VII.- En local comercial abierto al público;
 
 VIII.- En agravio de bienes que pertenezcan o estén destinados al servicio educativo, en escuelas o instituciones educativas de carácter público o privado que cuenten con reconocimiento de validez oficial, o en inmuebles destinados a prestar un servicio educativo.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 145
 
-TER.- Se impondrá de dos a cuatro años de prisión y de diez a veinte días de multa a quien posea, transporte, adquiera, enajene, acopie o comercialice piezas, partes o accesorios objeto de las conductas descritas en las fracciones VII del artículo 145 y VIII del artículo 145-Bis de este Código.
+TER.- Se impondrá de dos a cuatro años de prisión y de diez a veinte días multa a quien posea, transporte, adquiera, enajene, acopie o comercialice piezas, partes o accesorios objeto de las conductas descritas en las fracciones VII del artículo 145 y VIII del artículo 145-Bis de este Código.
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2021)</small>
 
@@ -2439,7 +2477,7 @@ Se impondrá de seis meses a diez años de prisión y hasta quinientos días mul
 
 ### CAPITULO IX. DESPOJO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 155.
 
@@ -2487,7 +2525,7 @@ Se impondrá de seis meses a tres años de prisión y de diez a quinientos días
 
 ###### ARTICULO 158.
 
-Se aplicará prisión de tres años a siete años, multa de trescientos a seiscientos días multa y reparación de los daños y perjuicios; en caso de las personas jurídicas previstas por el artículo 21 Bis, a las personas físicas o jurídicas que, sin el consentimiento de quien legalmente pueda otorgarlo o engañando a este, realice las siguientes conductas:
+Se aplicará prisión de tres años a siete años; de trescientos a seiscientos días multa y reparación de los daños y perjuicios; en caso de las personas jurídicas previstas por el artículo 21 Bis, a las personas físicas o jurídicas que, sin el consentimiento de quien legalmente pueda otorgarlo o engañando a este, realice las siguientes conductas:
 
 I.- Ocupe un inmueble ajeno o haga uso de él o de un derecho real que no le pertenezca, o impida materialmente el disfrute de uno o de otro;
 
@@ -2653,6 +2691,8 @@ Para que el perdón concedido por el ofendido o su representante pueda producir 
 
 ### CAPITULO V. BIGAMIA
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2022)</small>
+
 ###### ARTICULO 171.
 
 Al que sin tener relación familiar o de parentesco sustraiga a una persona menor de dieciocho años o que no tiene la capacidad para comprender el significado del hecho, sin el consentimiento de quien legítimamente tenga custodia o guarda, o lo retenga con la finalidad de violar derechos de familia, se le impondrá prisión de cuatro a ocho años.
@@ -2677,15 +2717,19 @@ Tratándose de abuelos solo procederá, cuando no existan padres que ejerzan la 
 
 ### CAPITULO VI. MATRIMONIO ILEGAL
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2022)</small>
+
 ###### ARTICULO 172.
 
 (DEROGADO, P.O. 30 DE JUNIO DE 2009)
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 172
 
-Bis. A quién abandone y/o desampare a su suerte en un lugar público o privado, con la finalidad de deshacerse de sus obligaciones de patria potestad, tutela y/o custodia para con el niño, niña o adolescente, se le aplicará la pena de cinco a diez años de prisión y multa de 400 a 500 días multa, y la de pérdida de la patria potestad, tutela y/o custodia del menor de edad abandonado.
+BIS.- A quién abandone y/o desampare a su suerte en un lugar público o privado, con la finalidad de deshacerse de sus obligaciones de patria potestad, tutela y/o custodia para con el niño, niña o adolescente, se le aplicará la pena de cinco a diez años de prisión y de 400 a 500 días multa, y la de pérdida de la patria potestad, tutela y/o custodia del menor de edad abandonado.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 Si se tratare de un funcionario público a cuya guarda, custodia y/o tutela se hubiera dejado al menor de edad, se le duplicará la pena, sin exceptuar las sanciones establecidas en la Ley de Responsabilidades aplicable.
 
@@ -2751,13 +2795,13 @@ VIOLENCIA ECONÓMICA.- Es toda acción u omisión del agresor que afecta la supe
 
 ###### ARTICULO 174.
 
-Al que contraiga nuevo matrimonio, sin hallarse legítimamente disuelto el anterior, se le impondrá prisión de seis meses a tres años y multa de veinticinco a ciento cincuenta días multa. Las mismas penas se aplicarán al otro contrayente, si conocía el impedimento al tiempo de celebrarse el matrimonio.
+Al que contraiga nuevo matrimonio, sin hallarse legítimamente disuelto el anterior, se le impondrá prisión de seis meses a tres años y de veinticinco a ciento cincuenta días multa. Las mismas penas se aplicarán al otro contrayente, si conocía el impedimento al tiempo de celebrarse el matrimonio
 
 ### CAPITULO UNICO. DELITO CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION
 
 ###### ARTICULO 175.
 
-Al que fuera del caso de bigamia contraiga matrimonio con conocimiento de la existencia de un impedimento dirimente, se le impondrá prisión de seis meses a dos años y multa de veinte a cien días multa. Las mismas penas se aplicarán al que autorice la celebración del matrimonio si conocía el impedimento.
+Al que fuera del caso de bigamia contraiga matrimonio con conocimiento de la existencia de un impedimento dirimente, se le impondrá prisión de seis meses a dos años y de veinte a cien días multa. Las mismas penas se aplicarán al que autorice la celebración del matrimonio si conocía el impedimento.
 
 ### CAPITULO I. PELIGRO DE DEVASTACION
 
@@ -2772,6 +2816,8 @@ Si resultan hijos a consecuencia de la comisión de este delito, la reparación 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO II. DE LOS DELITOS CONTRA EL AMBIENTE Y LA FAUNA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 176
 
@@ -2873,7 +2919,7 @@ Se aplicará de dos a ocho años de prisión y de cincuenta a doscientos días m
 
 ###### ARTICULO 179.
 
-Se impondrá prisión de seis meses a cinco años y multa de veinticinco a cuatrocientos días multa con suspensión hasta por dos años para ejercer la actividad en cuyo desempeño se incurrió en el ilícito al que:
+Se impondrá prisión de seis meses a cinco años y de veinticinco a cuatrocientos días multa con suspensión hasta por dos años para ejercer la actividad en cuyo desempeño se incurrió en el ilícito al que:
 
 I.- Expele o descargue contaminantes peligrosos que deterioren la atmósfera o que provoquen o puedan provocar daños graves a la salud, la flora o en general, los ecosistemas, cuya conservación sea de la competencia de las Autoridades del Estado;
 
@@ -3001,7 +3047,7 @@ Al que forme parte de manera permanente de una asociación o banda de tres o má
 
 ### CAPITULO II. FALSIFICACION DE DOCUMENTOS Y USO DE DOCUMENTOS FALSOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 182.
 
@@ -3024,6 +3070,8 @@ Al que dolosamente ponga en movimiento un medio de transporte, provocando un des
 Cuando se cause algún daño por medio de cualquier vehículo, motor o maquinaria, además de aplicar las penas del delito que resulte, se inhabilitará al delincuente para manejar aquellos aparatos por un tiempo no menor de seis meses ni mayor de cinco años. En caso de reincidencia, la inhabilitación será definitiva.
 
 ### CAPITULO III. USURPACION DE PROFESIONES
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 186.
 
@@ -3051,7 +3099,7 @@ No se impondrá pena a los que ejerciendo la patria potestad, la tutela o la cus
 
 ### CAPITULO II. LENOCINIO
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 188.
 
@@ -3065,7 +3113,7 @@ II.- Use indebidamente los objetos señalados en la fracción anterior.
 
 ###### ARTICULO 189.
 
-Se impondrá prisión de tres años a seis años, multa de cien a trescientos días multa, la suspensión, privación e inhabilitación de derechos o funciones y la reparación de los daños y perjuicios causados, al que para obtener un beneficio o para causar un daño, falsifique o altere un documento público o privado.
+Se impondrá prisión de tres años a seis años, de cien a trescientos días multa, la suspensión, privación e inhabilitación de derechos o funciones y la reparación de los daños y perjuicios causados, al que para obtener un beneficio o para causar un daño, falsifique o altere un documento público o privado.
 
 Las mismas penas se impondrá (sic) al que, a sabiendas y con los fines a que se refiere el párrafo anterior, haga uso de un documento falso o alterado, o haga uso indebido de un documento verdadero, expedido en favor de otro, como si hubiera sido expedido a su nombre.
 
@@ -3107,7 +3155,7 @@ El fedatario público que incurra en dichos actos, además de las penas prevista
 
 ###### ARTICULO 190.
 
-Al que, sin serlo, se atribuya el carácter de profesionista, ofrezca públicamente sus servicios como tal, realice actividades propias de una profesión sin tener el título correspondiente exigido por la Ley, o se ostente por medio de placas, tarjetas, papel membretado, anuncios u otra forma de publicidad para ofertar dichos servicios, obtener algún beneficio o causar algún daño, se aplicará prisión de uno a cinco años y de cincuenta a doscientos días de salario.
+Al que, sin serlo, se atribuya el carácter de profesionista, ofrezca públicamente sus servicios como tal, realice actividades propias de una profesión sin tener el título correspondiente exigido por la Ley, o se ostente por medio de placas, tarjetas, papel membretado, anuncios u otra forma de publicidad para ofertar dichos servicios, obtener algún beneficio o causar algún daño, se aplicará prisión de uno a cinco años y de cincuenta a doscientos días multa.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 2006)</small>
 
@@ -3175,17 +3223,21 @@ TURISMO SEXUAL INFANTIL
 
 QUÁTER.- Comete el delito de turismo sexual quien financie, promueva, publicite, invite, facilite o gestione por cualquier medio para que una persona viaje al interior o exterior del territorio del Estado de Quintana Roo con la finalidad de que realice cualquier tipo de actos sexuales reales o simulados con una o varias personas menores de dieciocho años de edad o que no tengan la capacidad de comprender el significado del hecho.
 
-Al autor de este delito se le impondrá una pena de siete a quince años de prisión y de trescientos a quinientos días de multa.
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2022)</small>
+
+Al autor de este delito se le impondrá una pena de siete a quince años de prisión y de trescientos a quinientos días multa.
 
 A quien realice cualquier tipo de actos sexuales reales o simulados con una o varias personas menores de dieciocho años de edad o que no tengan la capacidad de comprender el significado del hecho, en virtud de las conductas antes descritas, se le impondrá una pena de doce a dieciséis años de prisión y de doscientos a trescientos días multa.
 
 ### CAPITULO VI. DE LA USURPACIÓN DE IDENTIDAD
 
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 193.
 
-Comete el delito de lenocinio quien habitual o reiteradamente obtenga una ventaja económica u otro beneficio procedente del comercio sexual de otra persona mayor de edad, siempre que no constituya trata de personas. A quién cometa este delito se le impondrá una pena de cuatro a diez años de prisión y de quinientos a mil días de multa.
+Comete el delito de lenocinio quien habitual o reiteradamente obtenga una ventaja económica u otro beneficio procedente del comercio sexual de otra persona mayor de edad, siempre que no constituya trata de personas. A quién cometa este delito se le impondrá una pena de cuatro a diez años de prisión y de quinientos a mil días multa.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 Al que sin ánimo de lucro o de explotación concierte o facilite la explotación sexual de una persona menor de dieciocho años a través de la pornografía o exhibiciones corporales públicas o privadas, se le aplicará una sanción de cuatro a diez años de prisión y de mil a mil quinientos días (sic) multa.
 
@@ -3245,7 +3297,7 @@ Si el agente se valiese de una función pública o tuviere la patria potestad, g
 
 ###### ARTICULO 195
 
-SEXTIES (SIC). El delito de usurpación se define como al que por cualquier medio usurpe o suplante con fines ilícitos o de lucro la identidad de una persona o otorgue consentimiento para llegar (sic) a cabo la usurpación o suplantación de su identidad, se le impondrá una pena de seis meses a seis años de prisión y de cuatrocientos a seiscientos días de multa.
+SEXTIES (SIC).- El delito de usurpación se define como al que por cualquier medio usurpe o suplante con fines ilícitos o de lucro la identidad de una persona u otorgue consentimiento para llegar (sic) a cabo la usurpación o suplantación de su identidad, se le impondrá una pena de seis meses a seis años de prisión y de cuatrocientos a seiscientos días multa.
 
 > <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
@@ -3559,29 +3611,7 @@ Para los efectos del presente capítulo, se entiende por orden de protección la
 
 Este delito se perseguirá por querella.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
-
-ARTICULO 220 TER.- Al que se oponga o resista a que la autoridad pública o sus agentes ejecuten la orden de protección legalmente emitida, se le aplicará de uno a dos años de prisión y multa de veinticinco a cincuenta días.
-
-Cuando el delito se cometa por varias personas de común acuerdo, se aplicará de uno a tres años de prisión. Si se usare violencia, se les aplicará de dos a cuatro años de prisión y multa de cincuenta a setenta y cinco, sin perjuicio de las sanciones aplicables al delito que resulte cometido.
-
-Si la ley autoriza el empleo de medidas de apremio para el cumplimiento de las órdenes de protección, sólo se procederá cuando se hubiesen agotado, sin éxito, los medios de apremio.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
-
-ARTICULO 220 QUÁTER.- Se equipara a la violación de orden de protección de emergencia o preventiva y se sanciona con una pena de prisión de uno a dos años, al servidor público que con motivo de sus atribuciones y funciones:
-
-I. Coaccione a la receptora o víctima a permanecer o a desistirse de procedimientos legales contra el generador o probable responsable;
-
-II. Omita realizar el parte de novedades y reporte cuando acuda al auxilio de receptoras o víctimas sin causa justificada;
-
-III. No entregue copias del parte de novedades y reporte señalados en la fracción anterior;
-
-IV. Se niegue a la petición de acceso al domicilio de la receptora o víctima, cuando ésta cuente con una orden que lo permita o autorice.
-
-Este delito se persigue por querella, y cuando se otorgue el perdón al probable responsable de los señalados en el artículo 220 bis y 220 ter, dicho perdón se hará extensivo al servidor público, relacionado con dicha orden.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 209.
 
@@ -3707,13 +3737,31 @@ V. Instale en las calles, avenidas, caminos, calzadas, plazas, paseos, pasajes, 
 
 ###### ARTICULO 220
 
-Quinquies. A quien, a través de una llamada telefónica o cualquier otro medio, realice un aviso falso a los servicios de emergencia o su equivalente que provoque la movilización de personal de emergencia, protección civil, bomberos o de las instituciones de seguridad pública, se le impondrá de seis meses a dos años de prisión y de cincuenta a quinientos días multa.
+TER.- Al que se oponga o resista a que la autoridad pública o sus agentes ejecuten la orden de protección legalmente emitida, se le aplicará de uno a dos años de prisión y de veinticinco a cincuenta días multa.
 
-La misma pena se impondrá a quien, a través de una llamada telefónica o cualquier otro medio, obstaculice la prestación de los servicios de emergencia o su equivalente.
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2022)</small>
 
-Además de la pena señalada, el sujeto activo será responsable de los daños o perjuicios ocasionados a un tercero, como consecuencia de la conducta descrita en el primer párrafo de este artículo.
+Cuando el delito se cometa por varias personas de común acuerdo, se aplicará de uno a tres años de prisión. Si se usare violencia, se les aplicará de dos a cuatro años de prisión y de cincuenta a setenta y cinco días multa, sin perjuicio de las sanciones aplicables al delito que resulte cometido.
 
-Este delito se perseguirá de oficio.
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+Si la ley autoriza el empleo de medidas de apremio para el cumplimiento de las órdenes de protección, sólo se procederá cuando se hubiesen agotado, sin éxito, los medios de apremio.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+ARTICULO 220 QUÁTER.- Se equipara a la violación de orden de protección de emergencia o preventiva y se sanciona con una pena de prisión de uno a dos años, al servidor público que con motivo de sus atribuciones y funciones:
+
+I. Coaccione a la receptora o víctima a permanecer o a desistirse de procedimientos legales contra el generador o probable responsable;
+
+II. Omita realizar el parte de novedades y reporte cuando acuda al auxilio de receptoras o víctimas sin causa justificada;
+
+III. No entregue copias del parte de novedades y reporte señalados en la fracción anterior;
+
+IV. Se niegue a la petición de acceso al domicilio de la receptora o víctima, cuando ésta cuente con una orden que lo permita o autorice.
+
+Este delito se persigue por querella, y cuando se otorgue el perdón al probable responsable de los señalados en el artículo 220 bis y 220 ter, dicho perdón se hará extensivo al servidor público, relacionado con dicha orden.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ### CAPITULO V. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
@@ -4101,7 +4149,9 @@ I. Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se lo
 
 II. Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización se impondrán de seis meses a dos años de prisión y de cien a doscientos días multa.
 
-III. Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización se impondrán de dos años a catorce años de prisión y multa de cien a ciento cincuenta días multa.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2022)</small>
+
+III. Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización, se impondrá de dos años a catorce años de prisión y de cien a ciento cincuenta días multa.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
@@ -4207,7 +4257,9 @@ Al que cometa el delito de concusión se le impondrán las siguientes sanciones:
 
 Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivalente de quinientos días de Unidades de Medida y Actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de seis meses a dos años de prisión y de cien a doscientos días multa.
 
-Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientos días de Unidades de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y multa de cien a ciento cincuenta días multa.
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2022)</small>
+
+Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientos días de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrá de dos años a doce años de prisión y de cien a ciento cincuenta días multa.
 
 ###### ARTICULO 258.
 
@@ -4970,3 +5022,11 @@ SEXTO. Las autoridades correspondientes deberán hacer las modificaciones presup
 SÉPTIMO. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones vigentes al momento de iniciarse.
 
 OCTAVO. Se derogan todas las disposiciones normativas que se opongan a lo previsto en el presente Decreto.
+
+P.O. 25 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 227, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
