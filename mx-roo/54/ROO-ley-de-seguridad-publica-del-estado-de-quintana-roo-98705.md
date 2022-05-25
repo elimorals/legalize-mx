@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-seguridad-publica-del-estado-de-quintana-roo-98705"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-24"
-last_updated: "2019-09-13"
+last_updated: "2022-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 24 de diciembre de 2013.
 
@@ -125,15 +125,25 @@ XIII. Implementar mecanismos de evaluación en la aplicación de los fondos de a
 
 XIV. Fortalecer los sistemas de seguridad social de los servidores públicos, sus familias y dependientes, e instrumentar los complementarios a éstos;
 
-XV. Coordinar con las autoridades judiciales y administrativas la ejecución y vigilancia de penas y medidas judiciales; así como establecer los lineamientos del Sistema Estatal Penitenciario; y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2022)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+XV. Coordinar con las autoridades judiciales y administrativas la ejecución y vigilancia de penas y medidas judiciales; así como establecer los lineamientos del Sistema Estatal Penitenciario;
 
-XVI. Desarrollar programas de formación, actualización, capacitación y profesionalización permanente para sus servidores públicos, en materia de Tortura, en términos de lo dispuesto por la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2022)</small>
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+XVI. Desarrollar programas de formación, actualización, capacitación y profesionalización permanente para sus servidores públicos, en materia de tortura, en términos de lo dispuesto por la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes;
 
-XVII. Realizar las demás acciones que sean necesarias para incrementar la eficacia en el cumplimiento de los fines de la Seguridad Pública.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MAYO DE 2022)</small>
+
+XVII. Planear y organizar en coordinación con la Academia Estatal, dentro de lo previsto en el Programa Rector de Profesionalización, la capacitación, acreditación y certificación del personal policial en temas de perspectiva de género y derechos humanos;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2022)</small>
+
+XVIII. Homologar los protocolos policiales de actuación de los GEAVIG, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE MAYO DE 2022)</small>
+
+XIX. Realizar las demás acciones que sean necesarias para incrementar la eficacia en el cumplimiento de los fines de la seguridad pública.
 
 ###### Artículo 4.
 
@@ -211,9 +221,21 @@ XXXIII. Sistema Nacional: El Sistema Nacional de Seguridad Pública;
 
 XXXIV. Sistema Estatal: El Sistema Estatal de Seguridad Pública;
 
-XXXV. Separación del Cargo: Interrupción del cargo del elemento policial determinada por el Consejo de Honor, por resultar no aprobado en las evaluaciones de certificación para la permanencia o por incumplimiento a cualquiera de los requisitos de permanencia que en el momento de la separación señalen para permanecer en las instituciones policiales, cuyo efecto tiene la terminación del servicio policial, y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2022)</small>
 
-XXXVI. Terminación del Servicio Policial: A la conclusión de la relación que existe entre la Institución Policial y el elemento policial, sin responsabilidad para el primero, dejando sin efectos el nombramiento del segundo por determinación del Consejo de Honor, ya sea por separación del cargo o remoción.
+XXXV. Separación del Cargo: Interrupción del cargo del elemento policial determinada por el Consejo de Honor, por resultar no aprobado en las evaluaciones de certificación para la permanencia o por incumplimiento a cualquiera de los requisitos de permanencia que en el momento de la separación señalen para permanecer en las instituciones policiales, cuyo efecto tiene la terminación del servicio policial;
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2022)</small>
+
+XXXVI. Terminación del Servicio Policial: A la conclusión de la relación que existe entre la Institución Policial y el elemento policial, sin responsabilidad para el primero, dejando sin efectos el nombramiento del segundo por determinación del Consejo de Honor, ya sea por separación del cargo o remoción;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2022)</small>
+
+XXXVII. AVGM: La declaratoria de Alerta de Violencia de Género contra las Mujeres, y
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2022)</small>
+
+XXXVIII. GEAVIG: Grupo Especializado para la Atención de la Violencia Familiar y de Género.
 
 ###### Artículo 6.
 
@@ -481,13 +503,17 @@ XII. Verificar que los integrantes de las instituciones policiales municipales c
 
 XIII. Aprobar el nombramiento del Comisario General de la Policía Preventiva Municipal y Tránsito o sus equivalentes respectivos a propuesta del Presidente Municipal o los miembros del cabildo en su caso, previa consulta de los antecedentes del aspirante en el registro nacional, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2022)</small>
 
-XIV. Formular el Programa Municipal para Prevenir y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, de conformidad con lo establecido en la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles Inhumanos o Degradantes, y demás disposiciones legales aplicables, así como remitirlo al Centro Nacional de Prevención del Delito y Participación Ciudadana, y
+XIV. Formular el Programa Municipal para Prevenir y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, de conformidad con lo establecido en la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles Inhumanos o Degradantes, y demás disposiciones legales aplicables, así como remitirlo al Centro Nacional de Prevención del Delito y Participación Ciudadana;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MAYO DE 2022)</small>
 
-XV. Ejercer las demás facultades que le confieren esta ley y otros ordenamientos legales aplicables.
+XV. Contar con un área operativo administrativa especializada para la Atención de la Violencia contra la Mujer y la Familia, a cargo de una persona Titular que cuente con el perfil idóneo, acorde a la materia y con el nivel jerárquico necesario, proporcional a la estructura de una dependencia municipal, que le permita cumplir con sus funciones sin estar supeditado a la determinación de las demás áreas de Dirección, debiendo para tal efecto reglamentar su funcionamiento, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE MAYO DE 2022)</small>
+
+XVI. Ejercer las demás facultades que le confieren esta ley y otros ordenamientos legales aplicables.
 
 ###### Artículo 21.
 
@@ -3888,3 +3914,11 @@ SÉPTIMO. La Secretaría de Finanzas y Planeación, así como la Oficialía Mayo
 OCTAVO. La Secretaría de Seguridad Pública deberá realizar las modificaciones correspondientes a su estructura orgánica, reglamento interior y demás instrumentos que requieran actualización, de conformidad con lo previsto en este Decreto, dentro de los noventa días naturales posteriores a la entrada en vigor del mismo.
 
 NOVENO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que contravengan lo ordenado en este Decreto.
+
+P.O. 25 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 237, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA Y DE LA LEY DE LOS MUNICIPIOS, AMBOS ORDENAMIENTOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
