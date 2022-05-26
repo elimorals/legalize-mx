@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2022-05-19"
+last_updated: "2022-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -2657,15 +2657,17 @@ V. Cuando se cometa por los obreros, artesanos o discípulos, en la casa, taller
 
 VI. Cuando el robo se efectúe por dos o más personas; y,
 
-VII. Cuando en el robo se utilice a menores de edad, para la comisión del delito.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2022)</small>
+
+VII. Cuando en el robo se utilice a niñas, niños o adolescentes entre doce años cumplidos y menos de dieciocho años de edad;
 
 > <small>(ADICIONADA, P.O. 5 DE MARZO DE 2015)</small>
 
 VIII. Aprovechando alguna relación de trabajo;
 
-> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2022)</small>
 
-IX. En contra de persona con discapacidad o de más de sesenta años de edad; o
+IX. En contra de niñas o niños menores de catorce años de edad o persona con discapacidad o de persona de sesenta y cinco años de edad o más, o que al momento de la comisión del delito tenga alguna limitación física;
 
 > <small>(ADICIONADA, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -2673,7 +2675,7 @@ X. En contra de transeúnte, entendiéndose por éste a quien se encuentre en la
 
 > <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2021)</small>
 
-XI.- Cuando participen trabajadores de instituciones públicas o privadas que tengan acceso a datos personales o movimientos financiero (sic) y que los utilicen a la (sic) sustraigan para sí o para terceros con el objeto de cometer el delito de robo.
+XI. Cuando participen trabajadores de instituciones públicas o privadas que tengan acceso a datos personales o movimientos financiero (sic) y que los utilicen a la (sic) sustraigan para sí o para terceros con el objeto de cometer el delito de robo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -6810,3 +6812,11 @@ P.O. 19 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 130.- QUE CONTIENE REFORMA AL ARTÍCULO 172 BIS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+P.O. 26 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 131.- QUE CONTIENE REFORMA AL ARTÍCULO 198 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
