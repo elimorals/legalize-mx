@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bebidas-alcoholicas-del-estado-de-san-luis-potosi-106724
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-19"
-last_updated: "2020-03-17"
+last_updated: "2022-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 19 de marzo de 2015.
 
@@ -627,9 +627,11 @@ V. El inspector comunicará al interesado, haciéndolo constar en el acta, que e
 
 VI. Uno de los tantos legibles del acta se entregará al interesado; otro quedará en poder de la autoridad calificadora; y el original se remitirá a la Secretaría General de Gobierno, o al ayuntamiento, en su caso.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO 37.
 
-Transcurrido el plazo a que hace referencia la fracción V del artículo anterior, la autoridad estatal, o municipal, según sea el caso, calificará el acto dentro del término de diez días hábiles, considerando la gravedad de la infracción, si la hubiese, las circunstancias que hubieran concurrido, si existe reincidencia, así como las pruebas y alegatos del interesado en su caso, y dictará la resolución que proceda, debidamente fundada y motivada, notificándola al interesado para los efectos procedentes, en los términos previstos en la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí.
+Transcurrido el plazo a que hace referencia la fracción V del artículo anterior, la autoridad estatal, o municipal, según sea el caso, calificará el acto dentro del término de diez días hábiles, considerando la gravedad de la infracción, si la hubiese, las circunstancias que hubieran concurrido, si existe reincidencia, así como las pruebas y alegatos del interesado, en su caso, y dictará la resolución que proceda, debidamente fundada y motivada, notificándola al interesado para los efectos procedentes, en los términos previstos en el Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 ### CAPÍTULO XI. De las Acciones para Prevenir el Abuso en el Consumo de Bebidas Alcohólicas
 
@@ -890,3 +892,11 @@ P.O. 17 DE MARZO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 26 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0330.- SE REFORMA EL ARTÍCULO 37, DE LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
