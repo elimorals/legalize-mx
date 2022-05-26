@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2022-04-05"
+last_updated: "2022-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -3193,9 +3193,9 @@ I. Con multa por el equivalente de cinco a cincuenta veces la unidad de medida y
 
 II. Con multa por el equivalente de cinco a veinte veces la unidad de medida y actualización vigente, tratándose de las fracciones, IV, XI, XII, XIII, XIV y XVII del artículo anterior;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2022)</small>
 
-III. Con multa por el equivalente de cinco a cuarenta veces la unidad de medida y actualización vigente, en el caso de las fracciones, III, V, X, XVI, XVIII y XX del artículo anterior;
+III. Con multa por el equivalente de diez a sesenta veces la unidad de medida y actualización vigente, en el caso de las fracciones, III, V, X, XVI, XVIII y XX del artículo anterior;
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
 
@@ -3700,5 +3700,13 @@ P.O. 5 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0295.- SE REFORMA LA FRACCIÓN XLVI; Y ADICIONA LA FRACCIÓN XLVI BIS AL ARTÍCULO 8° DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0331.- SE REFORMA EL ARTÍCULO 232, EN SU FRACCIÓN III, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
