@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-fideicomiso-complejo-tres-centurias-142
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-05-04"
-last_updated: "2020-05-04"
+last_updated: "2022-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL FIDEICOMISO COMPLEJO TRES CENTURIAS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2022.
 
 Reglamento publicado en la Primera Sección del Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de mayo de 2020.
 
@@ -125,11 +125,17 @@ c) Especialista del Patrimonio Ferroviario;
 
 d) Jefatura de Departamento de Mantenimiento;
 
-e) Otras unidades administrativas dependientes de la Dirección General:
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2022)</small>
 
-1. Unidad de Planeación y Desarrollo; y
+e) Coordinación Jurídica;
 
-2. Unidad Jurídica;
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2022)</small>
+
+f) Coordinación de Articulación Municipal; y
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2022)</small>
+
+g) Unidad de Planeación y Desarrollo;
 
 III. Órganos de Control y Evaluación: Responsables de promover, evaluar, mejorar y fortalecer el buen funcionamiento del control interno y gestión, así como estudiar y fiscalizar el ejercicio eficiente de los recursos públicos; además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública, conforme a las disposiciones normativas aplicables en la materia, y son:
 
@@ -605,11 +611,15 @@ XII. Desarrollar los programas necesarios para la conservación y/o restauració
 
 XIII. Las que le señalen las demás disposiciones normativas aplicables, y que le sean conferidas por el Director General en el ámbito de su competencia.
 
-#### Sección Sexta. Unidad Jurídica
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MAYO DE 2022)</small>
+
+#### Sección Sexta. Coordinación Jurídica
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2022)</small>
 
 ###### ARTÍCULO 26.
 
-La Unidad Jurídica contará con un titular, el cual tendrá las siguientes facultades:
+La Coordinación Jurídica contará con un titular que será un Coordinador Jurídico, el cual tendrá las siguientes facultades:
 
 I. Representar legalmente al FICOTRECE y al Director General en los juicios, procedimientos o controversias de cualquier naturaleza donde sean parte, siempre y cuando se le otorgue el poder respectivo para ello;
 
@@ -629,11 +639,33 @@ VIII. Participar en toda clase de eventos, foros, convenciones, cursos, congreso
 
 IX. Las que le señalen las demás disposiciones normativas aplicables, y que le sean conferidas por el Director General en el ámbito de su competencia.
 
-#### Sección Primera. Órgano de Vigilancia
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE MAYO DE 2022)</small>
+
+#### Sección Séptima. Coordinación de Articulación Municipal
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2022)</small>
+
+ARTÍCULO 26 BIS.- La Coordinación de Articulación Municipal, contará con un titular que será un Coordinador de Articulación Municipal, el cual tendrá las siguientes facultades:
+
+I. Asistir al Director General en el seguimiento de acuerdos para la promoción del fideicomiso con los municipios;
+
+II. Planteamiento participativo y de convergencia entre las diversas áreas para la identificación de fortalezas para la proyección del fideicomiso y potencializar su presencia como punto focal de encuentro cultural, de recreación y turismo;
+
+III. Desarrollar un plan de consolidación del Complejo ante la sociedad, para ser reconocidos a nivel estatal, nacional e internacional;
+
+IV. Vinculación con los entes estratégicos desde una perspectiva comercial bien estructurada con los objetivos del FICOTRECE, que tengan impacto directo en la sociedad, buscando la concertación social;
+
+V. Gestionar los trámites necesarios ante los municipios y/o instancias para el desarrollo de su actividad;
+
+VI. Participar en la mejora continua del proceso de atención y gestión de buenos niveles de satisfacción de los usuarios;
+
+VII. Desarrollar estrategias que posibiliten a construir proyectos de difusión a corto mediano y largo plazo con el objetivo de generar continuidad; y
+
+VIII. Las que le señalen las demás disposiciones normativas aplicables, y que le sean conferidas por el Director General en el ámbito de su competencia.
 
 ### CAPÍTULO V. Órganos de Control y Evaluación
 
-#### Sección Segunda. Órgano Interno de Control
+#### Sección Primera. Órgano de Vigilancia
 
 ###### ARTÍCULO 27.
 
@@ -642,6 +674,8 @@ El Órgano de Vigilancia tiene a su cargo el estudio del ejercicio eficiente de 
 El Comisario Público evaluará el desempeño general y por funciones del FICOTRECE, realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitará la información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría del Estado le asigne específicamente conforme a la ley de la materia.
 
 Para el cumplimiento de las funciones citadas el Comité Técnico y el Director General deberán proporcionar la información que solicite el Comisario Público del FICOTRECE y el Órgano Superior de Fiscalización del Estado, este último será sólo respecto de las cuentas públicas que le sean presentadas.
+
+#### Sección Segunda. Órgano Interno de Control
 
 ###### ARTÍCULO 28.
 
@@ -886,3 +920,25 @@ Vocal del Comité Técnico del Fideicomiso Complejo Tres Centurias
 ARQ. JOSÉ LUIS GARCÍA RUBALCAVA
 
 Vocal del Comité Técnico del Fideicomiso Complejo Tres Centurias
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL REGLAMENTO INTERIOR DEL FIDEICOMISO COMPLEJO TRES CENTURIAS".]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas y adiciones al Reglamento Interior del Fideicomiso Complejo Tres Centurias entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Toda referencia hecha a la Unidad Jurídica o a la persona titular de dicha unidad en cualquier acto, se entenderá realizada a la Coordinación Jurídica o al Coordinador Jurídico respectivamente, para los efectos a que haya lugar.
+
+###### ARTÍCULO TERCERO.
+
+Se deberán efectuar las adecuaciones necesarias a la demás normatividad interna aplicable a la entidad paraestatal, así como las acciones administrativas pertinentes con motivo de la entrada en vigor de las presentes reformas y adiciones al Reglamento Interior del Fideicomiso Complejo Tres Centurias.
+
+###### ARTÍCULO CUARTO.
+
+Se deberán inscribir las presentes reformas y adiciones al Reglamento Interior del Fideicomiso Complejo Tres Centurias, en el Registro Público de la Propiedad y del Comercio del Estado en el libro correspondiente a las Entidades Paraestatales.
