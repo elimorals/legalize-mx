@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-justicia-administrativa-del-estado-de-durango-123239"
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-06"
-last_updated: "2020-11-19"
+last_updated: "2022-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123239&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2022.
 
 Ley publicada en el No. 63 del Periódico Oficial del Estado de Durango, el domingo 6 de agosto de 2017.
 
@@ -873,11 +873,11 @@ Para acudir al Tribunal de Justicia Administrativa, el interesado deberá previa
 
 La representación de las autoridades sólo podrá recaer en la Entidad o unidad administrativa encargada de su defensa jurídica por ministerio de ley.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2022)</small>
 
 ###### Artículo 103.
 
-Las partes promoverán el juicio, directamente ante la Sala Ordinaria en turno por conducto de la Oficialía de Partes respectiva o por correo certificado con acuse de recibo del Servicio Postal Mexicano cuando radiquen fuera de la residencia de éstas.
+Las partes promoverán el juicio, directamente ante la Sala Ordinaria en turno por conducto de la Oficialía de Partes respectiva, por vía electrónica o por correo certificado con acuse de recibo del Servicio Postal Mexicano cuando radiquen fuera de la residencia de éstas.
 
 ###### Artículo 104.
 
@@ -899,13 +899,13 @@ La Sala podrá ordenar, de oficio o a petición de parte, subsanar las irregular
 
 Las promociones y actuaciones deben ser redactadas en español, de lo contrario se acompañarán de su correspondiente traducción, en caso de no exhibirse, la Sala obtendrá de manera oficiosa a través de (sic) traductor adscrito preferentemente a las dependencias públicas, a costa del interesado, excepto cuando se trate de promociones en dialecto, presentadas por indígenas, cuya traducción no será a su cargo.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2022)</small>
+
 ###### Artículo 107.
 
-Las promociones y actuaciones se realizarán y presentarán por escrito.
+Las promociones y actuaciones se presentarán y realizarán por escrito.
 
-Toda promoción deberá contener firma autógrafa de quien la formule.
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+Todas deberán contener firma autógrafa o electrónica de quien las formule.
 
 Cuando el promovente no sepa o no pueda firmar estampará su huella digital ante dos testigos que suscribirán el documento. Sin estos requisitos no se le dará curso, teniéndose por no presentada.
 
@@ -1095,11 +1095,15 @@ Transcurridos los plazos o términos fijados a las partes interesadas para ejerc
 
 Cuando no se señale término para la práctica de alguna actuación o para el ejercicio de un derecho, se tendrá el de tres días hábiles.
 
-### CAPÍTULO VII. DE LA DEMANDA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MAYO DE 2022)</small>
+
+### CAPÍTULO VII. DEL JUICIO ORDINARIO
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2022)</small>
+
+#### SECCIÓN PRIMERA. DE LA DEMANDA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
-
-#### SECCIÓN PRIMERA. DE LA ACUMULACIÓN DE AUTOS
 
 ###### Artículo 132.
 
@@ -1259,13 +1263,15 @@ De la ampliación se correrá traslado a la contraria para que la conteste en el
 
 Si el actor no amplía su demanda, se entenderá que consiente los actos, resoluciones y procedimientos que pudiere haber impugnado en vía de ampliación.
 
-#### SECCIÓN SEGUNDA. DE LA NULIDAD DE NOTIFICACIONES
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 26 DE MAYO DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+#### SECCIÓN SEGUNDA. DE LA CONTESTACIÓN
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2022)</small>
 
 ###### Artículo 145.
 
-Admitida la demanda, se correrá traslado de la misma a las partes para que la contesten en el término de quince días siguientes a aquel en que surta efectos el emplazamiento, debiendo presentar el escrito relativo ante la Oficialía de Partes. Cuando los demandados fueren varios el término para contestar les correrá individualmente.
+Admitida la demanda, se correrá traslado de la misma a las partes para que la contesten en el término de quince días siguientes a aquel en que surta efectos el emplazamiento, debiendo presentar el escrito relativo ante la Oficialía de Partes, por correo certificado o por vía electrónica. Cuando los demandados fueren varios el término para contestar les correrá individualmente. El plazo para la contestación de la ampliación de la demanda, será de diez días siguientes a aquel en que surta efectos la notificación del acuerdo que admita la ampliación de la misma.
 
 ###### Artículo 146.
 
@@ -1339,7 +1345,9 @@ En los juicios en los que no exista tercero incompatible con las pretensiones de
 
 Las partes podrán celebrar convenios para conciliar sus intereses en cualquier etapa del juicio hasta antes de que se dicte sentencia, o incluso convenio sobre la ejecución de la sentencia. En tal caso, dichos convenios deberán presentarse para su ratificación y aprobación ante la Sala Ordinaria respectiva para que sean elevados a la categoría de cosa juzgada o se tenga por cumplida la sentencia.
 
-#### SECCIÓN TERCERA. DE LA INCOMPETENCIA POR RAZÓN DE TERRITORIO
+REFORMADA SU NUMERACIÓN, P.O. 26 DE MAYO DE 2022)
+
+#### SECCIÓN TERCERA. DE LA SUSPENSIÓN
 
 ###### Artículo 156.
 
@@ -1447,9 +1455,11 @@ Para hacer efectivas las garantías otorgadas con motivo de la suspensión, el i
 
 La Sala ordinaria, dentro de los tres días siguientes, dará vista a las demás partes y citará a una audiencia de pruebas y alegatos si el asunto así lo requiere, deberá celebrarse dentro de los cinco días siguientes, en la que dictará la resolución que corresponda.
 
-#### SECCIÓN CUARTA. DE LOS IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
+> <small>(REFORMADA SU NUMERACIÓN Y DENOMINACIÓN, P.O. 26 DE MAYO DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+#### SECCIÓN CUARTA. DE LA IMPROCEDENCIA DEL SOBRESEIMIENTO
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 169.
 
@@ -1533,6 +1543,10 @@ V. Arbitrariedad, desproporción, desigualdad, injusticia manifiesta, desvío de
 
 El Tribunal de Justicia Administrativa, podrá hacer valer de oficio, por ser de orden público, la incompetencia de la autoridad para dictar el acto o resolución impugnado, así como la ausencia total de fundamentación o motivación del mismo.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MAYO DE 2022)</small>
+
+#### SECCIÓN QUINTA. DE LOS INCIDENTES
+
 ###### Artículo 173.
 
 En los juicios se tramitarán como incidentes de previo y especial pronunciamiento, los siguientes:
@@ -1550,6 +1564,10 @@ IV. La recusación por causa de impedimento.
 V. Falsedad de documentos.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 26 DE MAYO DE 2022)</small>
+
+DE LA ACUMULACIÓN DE AUTOS
 
 ###### Artículo 174.
 
@@ -1573,6 +1591,12 @@ El incidentista debe señalar el o los juicios que pretende se acumulen.
 
 No procederá la acumulación cuando en alguno de los juicios ya se hubiere celebrado la audiencia o se encuentre en diversa instancia.
 
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 26 DE MAYO DE 2022)</small>
+
+DE LA NULIDAD DE NOTIFICACIONES
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 177.
 
 Procede el incidente de nulidad de notificaciones, cuando éstas no fueren practicadas conforme a lo dispuesto en el Capítulo V. El perjudicado podrá pedir que se declare su nulidad dentro del término de cinco días siguientes a aquel en que manifieste haber tenido conocimiento del hecho que lo motive, ofreciendo las pruebas pertinentes en el mismo escrito en que se promueva el incidente.
@@ -1585,6 +1609,10 @@ Si se admite el incidente de nulidad de notificaciones, se dará vista a las dem
 
 Si se declara la nulidad de la notificación, se ordenará la reposición del procedimiento a partir de la notificación anulada. Asimismo, independientemente de la responsabilidad civil, penal o administrativa en que pueda incurrir con su conducta, se sancionará al Actuario en los términos que señale la Ley General de Responsabilidades Administrativas.
 
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 26 DE MAYO DE 2022)</small>
+
+DE LA INCOMPETENCIA POR RAZÓN DE TERRITORIO
+
 ###### Artículo 179.
 
 Cuando ante una de las Salas ordinarias se promueva juicio del que otra deba conocer por razón de territorio, se declarará incompetente de plano y comunicará su resolución a la que en su concepto corresponda ventilar el negocio, enviándole los autos.
@@ -1592,6 +1620,12 @@ Cuando ante una de las Salas ordinarias se promueva juicio del que otra deba con
 Si la Sala ordinaria requerida lo acepta, comunicará su resolución a la requirente y a las partes. En caso de no aceptarlo, hará saber su resolución a la sala requirente y a las partes y remitirá los autos a la Sala Superior, para que ésta determine la Sala ordinaria que deba conocer del asunto, notificando su decisión a las partes y a las salas respectivas.
 
 Cuando una Sala ordinaria esté conociendo de algún juicio que sea de la competencia de otra, cualquiera de las partes podrá ocurrir ante la Sala Superior, exhibiendo copia certificada de la demanda y de las constancias que estime pertinentes. La Sala Superior resolverá la cuestión de competencia y ordenará la remisión de los autos a la Sala ordinaria que corresponda.
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 26 DE MAYO DE 2022)</small>
+
+#### SECCIÓN SEXTA. DE LOS IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 180.
 
@@ -1703,7 +1737,9 @@ Cuando no exista superior jerárquico, el requerimiento se hará directamente a 
 
 Cualquier otro incidente se substanciará conforme a lo dispuesto en el segundo párrafo del artículo 177 de esta Ley.
 
-### CAPÍTULO XII. DE LAS PRUEBAS
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 26 DE MAYO DE 2022)</small>
+
+#### SECCIÓN SÉPTIMA. DE LAS PRUEBAS
 
 ###### Artículo 191.
 
@@ -1807,7 +1843,9 @@ III. El valor de las pruebas pericial y testimonial, así como el de las demás 
 
 Cuando por el enlace de las pruebas rendidas y de las presunciones formadas, la Sala adquiera convicción distinta acerca de los hechos materia del litigio, podrá valorar las pruebas sin sujetarse a lo dispuesto en las fracciones anteriores, debiendo fundar razonadamente esta parte de su sentencia.
 
-### CAPÍTULO XIII. DE LA AUDIENCIA, DE PRUEBAS Y ALEGATOS
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 26 DE MAYO DE 2022)</small>
+
+#### SECCIÓN OCTAVA. DE LA AUDIENCIA, DE PRUEBAS Y ALEGATOS
 
 ###### Artículo 199.
 
@@ -1863,7 +1901,9 @@ Las promociones que presenten las partes que asistan a la audiencia, se resolver
 
 La audiencia no se celebrará cuando no se hayan resuelto los incidentes de previo y especial pronunciamiento. Podrá suspenderse, o prorrogarse de oficio o a solicitud de alguna de las partes, cuando exista motivo fundado, a juicio de la Sala que conoce del asunto.
 
-### CAPÍTULO XIV. DE LA INTERRUPCIÓN DEL PROCEDIMIENTO
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 26 DE MAYO DE 2022)</small>
+
+#### SECCIÓN NOVENA. DE LA INTERRUPCIÓN DEL PROCEDIMIENTO
 
 ###### Artículo 204.
 
@@ -1885,7 +1925,9 @@ La interrupción del procedimiento, procederá hasta antes de la sentencia, cuan
 
 La interrupción será de hasta tres meses, mientras se apersone el representante legal de la parte actora o el representante de la Entidad que asuma las facultades o atribuciones correspondientes al órgano desaparecido. Si transcurrido el término máximo de la interrupción no comparece el representante legal de las partes, se reanudará el procedimiento.
 
-### CAPÍTULO XV. DE LA SENTENCIA Y SU EJECUCIÓN
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 26 DE MAYO DE 2022)</small>
+
+#### SECCIÓN DÉCIMA. DE LA SENTENCIA Y SU EJECUCIÓN
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
@@ -1971,7 +2013,9 @@ Recibida la excitativa de justicia, el Presidente solicitará informe al Magistr
 
 La aclaración de sentencia tendrá lugar cuando se requiera esclarecer algún concepto o suplir cualquier omisión que contenga, sin que esto implique variar o modificar el sentido en que fue pronunciada la misma. Se hará de oficio o a petición de parte y su trámite será incidental.
 
-### CAPÍTULO XVI. DEL CUMPLIMIENTO DE SENTENCIA
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 26 DE MAYO DE 2022)</small>
+
+#### SECCIÓN DÉCIMO PRIMERA. DEL CUMPLIMIENTO DE SENTENCIA
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
@@ -2013,19 +2057,149 @@ Tratándose de actos de privación de la propiedad de bienes inmuebles, la Sala 
 
 No podrá archivarse ningún Juicio Contencioso Administrativo sin que se haya cumplido enteramente la sentencia ejecutoria, cuando se haya declarado la nulidad del acto o resolución impugnados, o se hubiere emitido sentencia de condena a las demandadas.
 
-### CAPÍTULO XVII. DEL RECURSO DE REVISIÓN
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE MAYO DE 2022)</small>
+
+### CAPITULO VIII. DEL JUICIO SUMARIO
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2022)</small>
+
+Artículo 221 A. El juicio sumario se tramitará y resolverá en los términos del presente capítulo y en lo no previsto, conforme las demás disposiciones de esta Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2022)</small>
+
+Artículo 221 B. Procederá el juicio en vía sumaria, siempre que se trate de los siguientes supuestos:
+
+I. Boletas de infracciones de tránsito o estacionómetros, siempre y cuando en la emisión del acto impugnado se haya retenido algún documento como garantía y conste esa circunstancia.
+
+II. Asuntos cuya cuantía sea menor a cien veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+III. Apertura de negocios o empresas de bajo impacto o riesgo.
+
+Para la procedencia del juicio en vía sumaria, además de lo establecido en este artículo, el actor no deberá encontrarse en el supuesto de la fracción II del artículo 138 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2022)</small>
+
+Artículo 221 C. Recibida la demanda se dictará auto sobre la admisión de la misma, a más tardar al día siguiente de su presentación. En el mismo acuerdo se proveerá sobre la suspensión, en caso de que se solicite, se admitirán o desecharán las pruebas ofrecidas, se señalará fecha para la audiencia en un plazo que no excederá de los diez días siguientes y se ordenará correr traslado con la misma y sus anexos a la autoridad demandada, para que la conteste en un plazo de tres días.
+
+Cuando los particulares formulen una demanda en vía sumaria, a pesar de que el acto que impugnen se ubique en un supuesto diverso a los mencionados en las anteriores fracciones, o bien controviertan simultáneamente algún acto que no se encuentre previsto en éstas, la Sala Ordinaria dictará auto en el que, de ser procedente, admita el juicio conforme a las demás disposiciones de esta Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2022)</small>
+
+Artículo 221 D. En el juicio sumario solo serán admisibles las pruebas documentales públicas y privadas, salvo que, con base en las particularidades del caso, la Sala considere necesario el desahogo de diversos medios de convicción.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2022)</small>
+
+Artículo 221 E.- La audiencia del juicio sumario tendrá por objeto desahogar las pruebas admitidas, recibir los alegatos de las partes, mismos que deberán presentarse por escrito. La sala dictará sentencia en la misma audiencia.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2022)</small>
+
+Artículo 221 F. En contra de los autos y resoluciones que se dicten en juicios seguidos en la vía sumaria, no procederá recurso alguno.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE MAYO DE 2022)</small>
+
+### CAPITULO IX. DEL SISTEMA DIGITAL DE JUICIOS
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2022)</small>
+
+Artículo 221 G. Para los efectos de este Capítulo, además de las establecidas en el artículo 6 de esta Ley, se entenderá por:
+
+I. Acuse de Recibo Electrónico: Constancia que acredita que un documento digital fue recibido por el Tribunal y estará sujeto a la misma regulación aplicable al uso de una firma electrónica. En este caso, el acuse de recibo electrónico identificará al órgano que recibió el documento y se presumirá, salvo prueba en contrario, que el documento digital fue recibido en la fecha y hora que se consignen en dicha constancia. El Tribunal establecerá los medios para que las partes y los autorizados para recibir notificaciones puedan verificar la autenticidad de los acuses de recibo electrónico.
+
+II. Archivo Electrónico: Información contenida en texto, imagen, audio o video generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del Expediente Electrónico.
+
+III. Clave de Acceso: Conjunto único de caracteres alfanuméricos asignados por el Sistema Digital de Juicios a las partes, como medio de Identificación de las personas facultadas en el juicio en que promuevan para utilizar el Sistema, y asignarles los privilegios de consulta del expediente respectivo o envío vía electrónica de promociones relativas a las actuaciones procesales con el uso de la firma electrónica en un juicio.
+
+IV. Contraseña: Conjunto único de caracteres alfanuméricos, asignados de manera confidencial por el Sistema Digital de Juicios a los usuarios, la cual permite validar la identificación de la persona a la que se le asignó una Clave de Acceso.
+
+V. Dirección de Correo Electrónico: Sistema de comunicación a través de redes informáticas, señalado por las partes en el juicio contencioso administrativo.
+
+VI. Dirección de Correo Electrónico Institucional: Sistema de comunicación a través de redes informáticas, dentro del dominio definido y proporcionado por los órganos gubernamentales a los servidores públicos.
+
+VII. Documento Electrónico o Digital: Todo mensaje de datos que contiene texto o escritura generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del Expediente Electrónico.
+
+VIII. Expediente Electrónico o Digital: Conjunto de información contenida en archivos electrónicos o documentos digitales que conforman un juicio seguido ante el Tribunal, independientemente de que sea texto, imagen, audio o vídeo, identificado por un número especifico.
+
+IX. Firma Electrónica: Conjunto de datos consignados en un mensaje electrónico adjuntados o lógicamente asociados al mismo, que permita identificar a su autor mediante el Sistema Digital de Juicios, que produce los mismos efectos jurídicos que la firma autógrafa y que garantiza la integridad del documento, teniendo el mismo valor probatorio. La firma electrónica permite actuar en Juicio Digital y será aquella que la Junta determine para tal efecto.
+
+X. Juicio en la vía tradicional: El juicio que se substancia recibiendo las promociones y demás documentales en manuscrito o impresos en papel, y formando un expediente también en papel, donde se agregan las actuaciones procesales, incluso en los casos en que sea procedente la vía sumaria.
+
+XI. Juicio Digital: Substanciación y resolución del juicio en todas sus etapas, así como de los procedimientos que deben llevarse a cabo, a través del Sistema Digital de Juicios, y;
+
+XII. Sistema Digital de Juicios: Sistema informático establecido por el Tribunal denominado "e.Justicia Administrativa" a efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el procedimiento que se substancie ante el propio Tribunal.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2022)</small>
+
+Artículo 221 H. El juicio se promoverá, substanciará y resolverá digitalmente, en términos de lo dispuesto por el presente Capítulo y las demás disposiciones específicas de esta Ley que resulten aplicables. En todo lo no previsto, se aplicarán las demás disposiciones que resulten aplicables de este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2022)</small>
+
+Articulo 221 I. Cuando el demandante ejerza su derecho a presentar su demanda digitalmente, o lo haga por disposición de esta Ley, las autoridades o entidades demandadas deberán comparecer y tramitar el juicio en la misma vía.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2022)</small>
+
+Artículo 221 J. Cuando una autoridad demande a un particular, éste, al contestar la demanda, tendrá derecho a ejercer su opción para que el juicio se tramite y resuelva digitalmente conforme a las disposiciones de este Capítulo, señalando para ello su domicilio y Dirección de Correo Electrónico.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2022)</small>
+
+Artículo 221 K. A fin de emplazar al particular demandado, el Secretario de Acuerdos que corresponda, imprimirá y certificará la demanda y sus anexos que se notificarán de manera personal. Si el particular rechaza tramitar el Juicio Digital contestará la demanda por escrito mediante el Juicio en la vía ordinaria.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2022)</small>
+
+Artículo 221 L. En el Sistema Digital de Juicios se integrará el Expediente Electrónico, que incluirá todas las promociones, pruebas y otros anexos que presenten las partes, oficios, acuerdos, y resoluciones tanto interlocutorias como definitivas, así como las demás actuaciones que deriven de la substanciación del Juicio Digital, garantizando su seguridad, inalterabilidad, autenticidad, integridad y durabilidad, conforme a los lineamientos que expida el Tribunal.
+
+En los Juicios Digitales, el desahogo de la prueba testimonial, y en los casos que lo amerite la pericial, se llevará a cabo en las oficinas del Tribunal en una audiencia en la cual podrán asistir las partes.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2022)</small>
+
+Artículo 221 M. La Clave de Acceso y Contraseña se proporcionarán, a cada una de las partes, a través del Sistema de Justicia Digital del Tribunal, previa obtención del registro y autorización correspondientes. El registro de la Firma Electrónica, Clave de Acceso y Contraseña, implica el consentimiento expreso de que dicho Sistema registrará la fecha y hora en la que se abran los Archivos Digitales, que contengan las constancias que integran el Expediente Digital, para los efectos legales establecidos en este ordenamiento. Para hacer uso del Sistema Digital de Juicios deberán observarse los lineamientos que, para tal efecto, expida el Tribunal.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2022)</small>
+
+Artículo 221 N. Sólo las partes, las personas autorizadas y los delegados de las autoridades tendrán acceso al Expediente Digital, exclusivamente para su consulta. Todas las promociones presentadas digitalmente deberán contener la firma electrónica de quien la presenta.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2022)</small>
+
+Artículo 221 Ñ. Los titulares de una Firma Electrónica, Clave de Acceso y Contraseña serán responsables de su uso, por lo que el acceso o recepción de las notificaciones, la consulta al Expediente Digital y el envío de información mediante la utilización de cualquiera de dichos instrumentos, les serán atribuibles y no admitirán prueba en contrario, salvo que se demuestren fallas del Sistema Digital de Juicios.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2022)</small>
+
+Artículo 221 O. Una vez recibida por vía digital cualquier promoción de las partes, el Sistema Digital de Juicios emitirá el Acuse de Recibo Electrónico correspondiente, señalando la fecha y la hora de recibido.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2022)</small>
+
+Articulo 221 P. Cualquier actuación en el Juicio Digital se efectuará a través del Sistema Digital de Juicios. Dichas actuaciones serán validadas con las firmas electrónicas del Magistrado y Secretario de Acuerdos que de fe, según corresponda.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2022)</small>
+
+Artículo 221 Q. Los documentos que las partes ofrezcan como prueba, deberán ser exhibidos de forma legible en formato PDF a través del Sistema Digital de Juicios.
+
+Tratándose de documentos digitales, se deberá manifestar la naturaleza de los mismos, especificando si la reproducción digital corresponde a una copia simple, una copia certificada, o al original, y tratándose de esta última, si tiene o no firma autógrafa. Los particulares deberán hacer esta manifestación bajo protesta de decir verdad, entendiéndose que la omisión de la referida manifestación presume, en perjuicio del promovente, que el documento digitalizado corresponde a una copia simple.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2022)</small>
+
+Articulo 221 R. Las pruebas documentales que ofrezcan y exhiban las partes tendrán el mismo valor probatorio que su constancia física, siempre y cuando se observen las disposiciones de la presente Ley y de los acuerdos normativos que emitan los órganos del Tribunal para asegurar la autenticidad de la información, así como de su transmisión, recepción, validación y notificación.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2022)</small>
+
+Artículo 221 S. Para el caso de pruebas diversas a las documentales, éstas deberán ofrecerse en la demanda y ser presentadas a la Sala que esté conociendo del asunto, en la misma fecha en la que se registre en el Sistema Digital de Juicios la promoción correspondiente a su ofrecimiento, haciendo constar su recepción por vía electrónica.
+
+Los instrumentos en los que se haga constar la existencia de dichas pruebas se integrarán al Expediente Digital.
+
+El Secretario de Acuerdos a quien corresponda el asunto, deberá digitalizar las constancias relativas y procederá a la certificación de su cotejo con los originales físicos, así como a garantizar el resguardo de los originales y de los bienes materiales que en su caso hubieren sido objeto de prueba.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2022)</small>
+
+Artículo 221 T. Para los juicios que se substancien en términos de este Capítulo no será necesario que las partes exhiban copias para correr los traslados que la Ley establece, salvo que hubiese tercero interesado, en cuyo caso, a fin de correrle traslado, el demandante deberá presentar la copia de traslado con sus respectivos anexos.
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 26 DE MAYO DE 2022)</small>
+
+### CAPÍTULO X. DE LOS RECURSOS
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2022)</small>
+
+#### SECCIÓN PRIMERA. DEL RECURSO DE REVISIÓN
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
-
-### CAPÍTULO VIII. DE LA CONTESTACIÓN
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
-
-### CAPÍTULO IX. DE LA SUSPENSIÓN
-
-### CAPÍTULO X. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 222.
 
@@ -2113,7 +2287,9 @@ En caso de que la revocación obedezca a violaciones en el procedimiento o porqu
 
 Emitida y notificada la resolución de segundo grado, se remitirá a la Sala Ordinaria correspondiente, devolviéndose los autos originales en caso de haberse remitido para la sustanciación de la alzada, a efecto de que esta proceda a cumplimentarla en sus términos, sin que pueda oponerse a lo fallado por la Sala Superior
 
-### CAPÍTULO XVIII. DEL RECURSO DE QUEJA
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 26 DE MAYO DE 2022)</small>
+
+#### SECCIÓN SEGUNDA. DEL RECURSO DE QUEJA
 
 ###### Artículo 228.
 
@@ -2137,11 +2313,11 @@ En el escrito de interposición se expresará los agravios que cause la resoluci
 
 Llegado a la Sala Superior el informe acompañado de las copias que lo justifiquen, se decidirá sobre su admisión, hecho lo cual se resolverá lo procedente en el plazo de seis días y se comunicará a la Sala de origen.
 
-### CAPÍTULO XIX. DE LOS MEDIOS DE APREMIO
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 26 DE MAYO DE 2022)</small>
+
+### CAPITULO XI. DE LOS MEDIOS DE APREMIO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
-
-### CAPÍTULO XI. DE LOS INCIDENTES
 
 ###### Artículo 231.
 
@@ -2222,3 +2398,13 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los recursos e incidentes que a la entrada en vigor del presente decreto se encuentren en trámite, continuarán sustanciándose hasta su conclusión, conforme a las reglas anteriores a esta reforma.
 
 TERCERO. Para efectos de las notificaciones electrónicas a que se refiere el presente decreto, el Tribunal adoptará las medidas tecnológicas y materiales que sean necesarias y la Junta de Gobierno y Administración emitirá los lineamientos a que se refiere el artículo 121 en la siguiente sesión ordinaria a la entrada en vigor de este decreto.
+
+P.O. 26 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 125.- POR EL QUE SE REFORMAN Y SE ADICIONAN DIVERSOS ARTÍCULOS, ASÍ COMO, SE MODIFICA LA DENOMINACIÓN DE ALGUNOS CAPÍTULOS, TODO DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango, con la salvedad prevista en el tercer transitorio.
+
+SEGUNDO. Los juicios tramitados con anterioridad a la entrada en vigor del presente decreto se substanciarán conforme a la Ley vigente en el momento de su interposición.
+
+TERCERO. Para operar el Sistema Digital de Juicios que contempla el Capítulo IX que se adiciona, se emitirá acuerdo relativo por la Presidencia del Tribunal, debiendo publicarse en el Periódico Oficial del Gobierno del Estado de Durango, a partir de lo que entrará en vigor la normatividad relativa contenida en este decreto.
