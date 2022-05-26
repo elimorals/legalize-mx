@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2022-04-11"
+last_updated: "2022-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -721,6 +721,10 @@ ARTICULO 62 TER. La Secretaría podrá actuar en coordinación con los prestador
 
 Toda persona tiene derecho a disfrutar del turismo como una expresión del crecimiento sostenido de su tiempo libre, descanso y esparcimiento. Las autoridades fortalecerán y facilitarán el cumplimiento de este derecho, así como su observancia en la formulación, ejecución, evaluación y vigilancia de los planes, programas y acciones públicas en las materias de la ley; en la prestación de servicios turísticos, las relaciones entre quien los proporcione y quien los reciba, se observarán las disposiciones legales aplicables, sin que para ello existan discriminaciones de raza, sexo, credo político o religioso, nacionalidad o condición social.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2022)</small>
+
+ARTICULO 63 BIS. La Secretaría promoverá el turismo de migrantes, el cual comprende la visita al Estado de personas originarias de San Luis Potosí residentes en otras entidades, o en el extranjero, con diversos motivos; para lo cual podrá coordinarse con las autoridades en materia migratoria.
+
 ###### ARTICULO 64.
 
 Las relaciones entre los prestadores de servicios turísticos y el turista se regirán por lo que las partes convengan, observándose la presente Ley, la Ley Federal de Protección al Consumidor, y las demás disposiciones que resulten aplicables.
@@ -1352,6 +1356,14 @@ SEGUNDO. Se derogan las disposiciones contrarias al presente Decreto.
 P.O. 11 DE ABRIL DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0296.- SE REFORMA EL ARTÍCULO 102, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 26 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0328.- SE ADICIONA EL ARTÍCULO 63 BIS, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
