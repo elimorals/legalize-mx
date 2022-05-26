@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-5643
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2022-05-23"
+last_updated: "2022-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -225,7 +225,9 @@ La Política Estatal en Materia de Igualdad entre mujeres y hombres deberá esta
 
 La Política Estatal que desarrolle el Ejecutivo Estatal deberá considerar los siguientes lineamientos:
 
-I. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2022)</small>
+
+I. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida, teniendo como mínimo las actividades atinentes al ámbito: educativo, social, económico, político y cultural;
 
 II. Asegurar que la planeación presupuestal incorpore la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos y acciones para la igualdad entre mujeres y hombres;
 
@@ -253,13 +255,17 @@ IX. Utilizar un lenguaje no sexista en el ámbito administrativo y su fomento en
 
 X. Incluir, en los fines del sistema educativo, la formación en el respeto de los derechos y libertades y de la igualdad entre mujeres y hombres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia; así como incluir dentro de los principios de calidad, la eliminación de los obstáculos que dificultan la igualdad efectiva entre mujeres y hombres;
 
-> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2022)</small>
 
-XI. Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud; y
+XI. Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud;
 
 > <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2016)</small>
 
 XII. Promover que en las prácticas de comunicación social de las dependencias de la Administración Pública Estatal, así como en los medios masivos de comunicación electrónicos e impresos, se elimine el uso de estereotipos sexistas y discriminatorios y se incorpore un lenguaje incluyente.
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2022)</small>
+
+XIII. Fomentar el desarrollo, participación y reconocimiento de las mujeres en las diferentes disciplinas deportivas.
 
 ### CAPÍTULO SEGUNDO. DE LOS INSTRUMENTOS DE POLÍTICA EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -674,3 +680,11 @@ P.O. 23 DE MAYO DE 2022.
 PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 26 DE MAYO DE 2022.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE “SE REFORMAN LAS FRACCIONES I Y XI Y SE ADICIONA UNA FRACCIÓN XIII AL ARTÍCULO 15 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CAMPECHE”.]</small>
+
+Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
