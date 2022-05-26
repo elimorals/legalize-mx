@@ -4,7 +4,7 @@ identifier: "DUR-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-157610
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-05-10"
-last_updated: "2022-02-13"
+last_updated: "2022-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA LOCAL ANTICORRUPCIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2022.
 
 Estatuto publicado en el No. 37 del Periódico Oficial del Estado de Durango, el jueves 10 de mayo de 2018.
 
@@ -907,27 +907,9 @@ Al frente del Órgano Interno de Control habrá un Titular, quien será designad
 
 Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública del Estado de Durango, la Ley General de Responsabilidades Administrativas, el Reglamento Interior de la Secretaría de Contraloría y las demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE FEBRERO DE 2022)</small>
-
 ###### ARTÍCULO 43.
 
-Corresponde al Órgano Interno de Control de la Secretaría Ejecutiva:
-
-I. Planear, programar, organizar y coordinar el sistema de control y evaluación de la Secretaría Ejecutiva;
-
-II. Fiscalizar el ingreso y el ejercicio del gasto público de la Secretaría Ejecutiva y su congruencia con el presupuesto anual de Egresos;
-
-III. Establecer las bases generales y realizar en forma programada, auditorías integrales, inspecciones y evaluaciones, informando de los resultados al Órgano de Gobierno y a la Comisión Ejecutiva;
-
-IV. Establecer y operar un sistema de atención de quejas, denuncias y sugerencias de la ciudadanía;
-
-V. Auxiliar al Presidente del Órgano de Gobierno en la elaboración del informe que se rinda anualmente;
-
-VI. Vigilar que los ingresos ministrados por el Estado se enteren en tiempo y forma a la Secretaría Ejecutiva, conforme a los procedimientos contables y disposiciones legales aplicables;
-
-VII. Verificar que los Servidores Públicos de la Secretaría Ejecutiva cumplan con las obligaciones que le señala el presente Estatuto, y en su caso aplicar la Ley General de Responsabilidades Administrativas; y
-
-VIII. Las demás que les confieran el Órgano de Gobierno, la Comisión Ejecutiva, el Secretario Técnico, así como las que se señalen en otras disposiciones legales o administrativas aplicables.
+(DEROGADO, P.O. 26 DE MAYO DE 2022)
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 13 DE FEBRERO DE 2022)</small>
 
@@ -1410,3 +1392,9 @@ P.O. 13 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO.- POR EL QUE SE REFORMAN, ADICIONAN Y SUPRIMEN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA LOCAL ANTICORRUPCIÓN DEL ESTADO DE DURANGO”.]
 
 ÚNICO. El presente Acuerdo por el que se reforma, adicionan y se suprimen diversas disposiciones del Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Local Anticorrupción del Estado de Durango entrará en vigor al día siguiente de su aprobación, y para su debida observancia se ordena su publicación en el Periódico Oficial del Gobierno del Estado de Durango, en términos de lo dispuesto por los artículos 1, 8 fracción VI y 9 de la Ley del Periódico Oficial del Gobierno del Estado de Durango, así lo acuerdan y firman los integrantes del Órgano de Gobierno de la Secretaría Ejecutiva del Sistema Local Anticorrupción del Estado de Durango, dentro de la Cuarta Sesión Ordinaria celebrada con fecha (14) catorce de diciembre de (2021) dos mil veintiuno, ante la Secretaria Técnica.
+
+P.O. 26 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO.- POR EL QUE SE DEROGA EL ARTÍCULO 43 DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA LOCAL ANTICORRUPCIÓN DEL ESTADO DE DURANGO EN SU CAPÍTULO V DEL ÓRGANO INTERNO DE CONTROL".]
+
+ÚNICO. El presente Acuerdo por el que se deroga el artículo 43 del Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Local Anticorrupción del Estado de Durango entrará en vigor al día siguiente de su aprobación, y para su debida observancia se ordena su publicación en el Periódico Oficial del Gobierno del Estado de Durango, en términos de lo dispuesto por los artículos 1, 8 fracción VI y 9 de la Ley del Periódico Oficial del Gobierno del Estado de Durango, así lo acuerdan y firman los integrantes del Órgano de Gobierno de la Secretaría Ejecutiva del Sistema Local Anticorrupción del Estado de Durango, dentro de la Primera Sesión Ordinaria 2022 celebrada con fecha (07) siete de abril de (2022) dos mil veintidós, ante la Secretaria Técnica.
