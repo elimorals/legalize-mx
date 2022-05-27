@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-para-la-lectura-y-el-libro-de-la-ciudad-de-67091
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-04"
-last_updated: "2021-05-27"
+last_updated: "2022-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67091&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-02-25"
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE MAYO DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 4 de marzo de 2009.
 
@@ -92,11 +92,11 @@ IX. Modernizar y actualizar permanentemente el acervo literario y periodístico 
 
 X. Producir publicaciones interpretadas mediante el sistema braille, audiolibros y cualquier otro lenguaje que facilite el acceso a quienes poseen capacidades diferentes.
 
-> <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
 
-XI. Elaborar campañas permanentes de fomento a la lectura en las Alcaldías así como el establecimiento de librerías, y otros espacios públicos y/o privados para la lectura y difusión del libro en la Ciudad de México
+XI. Elaborar campañas permanentes de fomento a la lectura en las demarcaciones territoriales, así como el establecimiento de librerías y otros espacios públicos y/o privados para la lectura y difusión del libro en la Ciudad de México.
 
-XII. Infundir a los estudiantes desde la educación básica el hábito por la lectura de periódicos y revistas a fin de despertar su interés por los temas de trascendencia pública.
+XII. (DEROGADA, G.O. 27 DE MAYO DE 2022)
 
 > <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
 
@@ -190,9 +190,21 @@ II. La Secretaría de Cultura.
 
 III. La Dirección General de Vinculación Cultural Comunitaria.
 
-> <small>(REFORMADA, G.O. 5 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
 
-IV. Las Alcaldías.
+IV. Las personas titulares de las Alcaldías.
+
+> <small>(ADICIONADA, G.O. 27 DE MAYO DE 2022)</small>
+
+V. La Secretaría de Educación, Ciencia, Tecnología e Innovación.
+
+> <small>(ADICIONADA, G.O. 27 DE MAYO DE 2022)</small>
+
+VI. La Subsecretaría de Educación.
+
+> <small>(ADICIONADA, G.O. 27 DE MAYO DE 2022)</small>
+
+VII. La Dirección General de Planeación y Evaluación Estratégica.
 
 > <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
@@ -201,6 +213,32 @@ IV. Las Alcaldías.
 La Secretaría de Cultura, a través de la Dirección General de Vinculación Cultural Comunitaria, elaborará planes y programas de actuación, global y anual, acompañados de la dotación presupuestaria adecuada, con el fin de coordinar las medidas de promoción y fomento previstas en la presente ley y en sus disposiciones reglamentarias.
 
 La Dirección General de Vinculación Cultural Comunitaria es la unidad administrativa de la Secretaría de Cultura del Gobierno de la Ciudad de México, responsable de la aplicación de las políticas públicas destinadas a garantizar el fomento a la lectura entre los lectores de la ciudad.
+
+> <small>(ADICIONADO, G.O. 27 DE MAYO DE 2022)</small>
+
+###### Artículo 7 Bis.
+
+La Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México, a través de la Subsecretaría de Educación y la Dirección General de Planeación y Evaluación Estratégica, elaborará las políticas públicas necesarias correspondientes que aporten elementos para elevar la calidad y el nivel de la educación.
+
+> <small>(ADICIONADO, G.O. 27 DE MAYO DE 2022)</small>
+
+###### Artículo 7 Ter.
+
+Corresponde a la Subsecretaría de Educación:
+
+I. En coordinación con la autoridad educativa federal se buscará impulsar la incorporación de asignaturas de comprensión y fomento a la lectura en el nivel básico de educación, y
+
+II. Fomentar la realización de talleres, círculos literarios, libro clubes y cualesquiera otras medidas conducentes al fomento de la lectura y del libro, en las instituciones educativas pertenecientes al Sistema Educativo de la Ciudad de México, en la Red de Bibliotecas Públicas de la Ciudad de México y en los espacios públicos en donde se implementen programas sociales a cargo del Gobierno de la Ciudad.
+
+> <small>(ADICIONADO, G.O. 27 DE MAYO DE 2022)</small>
+
+###### Artículo 7 Quater.
+
+Corresponde a la Dirección General de Planeación y Evaluación Estratégica de la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México:
+
+I. Infundir en los estudiantes, desde la educación básica la práctica de la lectura de periódicos y revistas, a fin de despertar su interés por los temas de trascendencia pública; y
+
+II. Proponer paquetes didácticos de estímulo y materiales bibliográficos que estimulen la formación de lectores, adecuados para cada nivel de la educación básica, dirigidos a educandos, tutores, tutoras docentes, padres y madres de familia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
@@ -248,9 +286,7 @@ IX. Ser responsable de la organización de la Feria Internacional del Libro en e
 
 La Dirección General de Vinculación Cultural Comunitaria elaborará el programa de fomento para la lectura y el libro de la Ciudad de México, a través de los siguientes medios:
 
-> <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
-
-I. Proponer paquetes didácticos de estímulo y formación de lectores, adecuados para cada nivel de la educación básica, dirigidos a educandos, docentes y padres de familia;
+I. (DEROGADA, G.O. 27 DE MAYO DE 2022)
 
 > <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
 
@@ -272,13 +308,9 @@ VII. Cursos de capacitación, conferencias, talleres y otras actividades vincula
 
 VIII. Producción y transmisión de programas de radio, televisión e internet dedicados a la lectura y el libro;
 
-> <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
+IX. (DEROGADA, G.O. 27 DE MAYO DE 2022)
 
-IX. Impulso a la incorporación de asignaturas obligatorias de comprensión y fomento a la lectura en el nivel básico de educación;
-
-> <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
-
-X. Talleres, círculos literarios, libro clubes y cualesquiera otras medidas conducentes al fomento de la lectura y del libro.
+X. (DEROGADA, G.O. 27 DE MAYO DE 2022)
 
 > <small>(REFORMADO, G.O. 5 DE MARZO DE 2018)</small>
 
@@ -292,23 +324,31 @@ Corresponde al ejecutivo de la Ciudad de México garantizar las políticas y est
 
 Corresponde a la persona titular de la Jefatura de Gobierno a través de la Secretaría, la celebración de convenios y acuerdos con dependencias de las distintas ramas y órdenes de gobierno tanto federal como local con el fin de diseñar, planear, coordinar, aplicar y fortalecer políticas, programas, proyectos y acciones de fomento a la lectura del libro y su conservación.
 
-> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MAYO DE 2022)</small>
 
 ###### Artículo 11.
 
-Corresponde a las Alcaldías:
+Corresponde a las personas titulares de las Alcaldías:
 
 > <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
 
 I. Fomentar, promover, incentivar, vincular y difundir el material de lectura de manera constante y gradual, principalmente en zonas de alta marginalidad con la finalidad de desarrollar y fortalecer el hábito de la lectura. El material se deberá ofrecer de forma gratuita, sin fines de lucro y sin condicionamiento alguno.
 
+> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
+
 II. Elaborar y organizar, en coordinación con la Dirección General de Vinculación Cultural Comunitaria el programa anual de actividades culturales, el cual deberá contener como mínimo la realización de una feria del libro dentro de su demarcación territorial, así como, campañas, bibliotecas itinerantes o cualquier otra actividad que incentive la lectura.
+
+> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
 III. Crear espacios que contribuyan a desarrollar y robustecer la cultura y el hábito de la lectura en zonas identificadas de alta y muy alta marginación mediante diversos mecanismos de difusión, promoción, distribución y fácil acceso a la lectura.
 
-IV. Impulsar la formación de nuevos escritores en las Alcaldías.
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
 
-V. Canalizar a las y los escritores que radiquen en sus Alcaldías al Consejo de Fomento a la Lectura y el Libro de la Ciudad de México.
+IV. Impulsar la formación de nuevos escritores en sus demarcaciones Territoriales.
+
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
+
+V. Canalizar a las y los escritores que radiquen en sus demarcaciones territoriales al Consejo de Fomento a la Lectura y el Libro de la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
@@ -394,15 +434,23 @@ El Consejo de Fomento a la Lectura y el Libro estará integrado por:
 
 I. El o la presidenta, que será la persona titular de la Dirección General de Vinculación Cultural Comunitaria;
 
+> <small>(ADICIONADA, G.O. 27 DE MAYO DE 2022)</small>
+
+I Bis. La persona titular de la Subsecretaría de Educación y de la Dirección General de Planeación y Evaluación Estratégica de la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México;
+
 II. La secretaría ejecutiva, que será nombrada por la persona titular de la Jefatura de Gobierno;
 
-III. Una persona representante, por cada Alcaldía;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
+
+III. Una persona representante designada, por cada una de las personas titulares de las Alcaldías;
 
 IV. Hasta 10 vocales, a invitación de la presidencia;
 
 V. Las personas que presidan las Comisiones de Derechos Culturales y de Educación, del Congreso de la Ciudad de México;
 
-VI. Una persona representante de la Cámara Nacional de la Industria Editorial Mexicana;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
+
+VI. Una persona representante de la Cámara Nacional de la Industria Editorial Mexicana y una persona representante de la Asociación de Librerías de México;
 
 VII. Tres personas representantes de asociaciones vinculadas al fomento a la lectura, difusión y promoción del libro;
 
@@ -551,3 +599,11 @@ G.O. 27 DE MAYO DE 2021.
 PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 27 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 2 FRACCIÓN XI; 6 FRACCIÓN IV; 11 PÁRRAFO PRIMERO Y FRACCIONES IV Y V; Y 23, FRACCIONES III Y VI; SE ADICIONAN LAS FRACCIONES V, VI Y VII AL ARTÍCULO 6; I BIS AL ARTÍCULO 23 Y SE ADICIONAN LOS ARTÍCULOS 7 BIS, 7 TER Y 7 QUATER Y SE DEROGAN LAS FRACCIONES XII DEL ARTÍCULO 2; I, IX Y X DEL ARTÍCULO 9 DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DE LA CIUDAD DE MÉXICO”.]
+
+Primero. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
