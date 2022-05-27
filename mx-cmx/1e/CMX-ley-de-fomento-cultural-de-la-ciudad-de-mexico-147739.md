@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-cultural-de-la-ciudad-de-mexico-147739"
 country: "mx"
 rank: "ley"
 publication_date: "2021-02-16"
-last_updated: "2021-02-16"
+last_updated: "2022-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=147739&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-02-15"
 
 LEY DE FOMENTO CULTURAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MAYO DE 2022.
 
 Ley publicada en el Número 536 Bis de la Gaceta Oficial de la Ciudad de México, el martes 16 de febrero de 2021.
 
@@ -176,7 +176,9 @@ XV. Promover el conocimiento de las diferentes expresiones de la cultura univers
 
 XVI. Difundir los servicios culturales que proporciona el Gobierno de la Ciudad, así como organizar eventos culturales gratuitos en el espacio público y en medios digitales en los que participen el mayor número posible de personas;
 
-XVII. Fomentar y difundir las expresiones culturales de los pueblos y barrios de la Ciudad;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
+
+XVII. Fomentar y difundir las manifestaciones y expresiones culturales de los pueblos y barrios originarios de la Ciudad de México, tales como ferias, festivales, fiestas, celebraciones, carnavales, tradiciones y costumbres;
 
 XVIII. Proveer de educación y formación artística gratuita y de calidad a la población de la Ciudad, a través de programas específicos y con énfasis en los grupos de atención prioritaria, y
 
@@ -328,6 +330,10 @@ XXII. Fomentar el crecimiento y la diversificación de la dimensión económica 
 
 XXIII. Presentar ante la persona titular del Poder Ejecutivo de la Ciudad, los proyectos de reglamento necesarios para el adecuado cumplimiento de la presente Ley, y
 
+> <small>(ADICIONADA, G.O. 27 DE MAYO DE 2022)</small>
+
+XXIII BIS. Fomentar ferias, festivales, fiestas, celebraciones, carnavales, tradiciones y costumbres y demás eventos culturales de los pueblos y barrios originarios de la Ciudad de México y promover a través de los medios masivos de comunicación del Gobierno de la Ciudad de México, la difusión de estos eventos;
+
 XXIV. Diseñar, producir, transmitir y promover la generación, difusión y distribución de contenidos audiovisuales que contribuyan a divulgar las diversas manifestaciones artísticas, preservar el patrimonio cultural e histórico y fortalecer la identidad de las y los habitantes de la Ciudad de México, mediante el conocimiento y revalorización de la imagen y tradiciones de los distintos pueblos, barrios, colonias y comunidades que la conforman, y
 
 XXV. Las demás que le otorgue esta Ley y otros ordenamientos jurídicos aplicables.
@@ -364,7 +370,9 @@ III. Elaborar y ejecutar programas para el desarrollo de las actividades cultura
 
 IV. Fomentar la integración de órganos coadyuvantes de protección y promoción de la diversidad de las expresiones culturales en cada demarcación territorial;
 
-V. Fomentar la investigación de las manifestaciones culturales propias de cada Alcaldía, sus ferias, tradiciones y costumbres;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
+
+V. Fomentar la investigación y en coordinación con la Comisión de Memoria Histórica de la Ciudad, formular memorias históricas de las manifestaciones y expresiones culturales propias de cada Alcaldía, así como sus ferias, festivales, fiestas, celebraciones, carnavales, tradiciones y costumbres;
 
 VI. Otorgar premios, reconocimientos o estímulos a las personas, organizaciones e instituciones públicas o privadas que se hayan destacado en la creación, promoción, preservación, difusión e investigación de la cultura en el ámbito de su jurisdicción;
 
@@ -374,13 +382,21 @@ VIII. Integrar al inicio de cada administración los Consejos de las Alcaldías,
 
 IX. Elaborar, mantener actualizado y publicar en sus páginas correspondientes un inventario de los espacios públicos con que cuenta la Alcaldía para la realización de actividades culturales y artísticas;
 
-X. Impulsar y proyectar las manifestaciones culturales que se llevan a cabo en su ámbito territorial y promover la existencia de espacios mediáticos en apoyo a la difusión de la cultura;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
+
+X. Impulsar y proyectar las manifestaciones y expresiones culturales, así como sus ferias, festivales, fiestas, celebraciones, carnavales, tradiciones y costumbres que se llevan a cabo en su ámbito territorial y promover la existencia de espacios mediáticos en apoyo a la difusión de la cultura;
+
+> <small>(ADICIONADA, G.O. 27 DE MAYO DE 2022)</small>
+
+X BIS. Integrar un registro de ferias, festivales, fiestas, celebraciones, carnavales, tradiciones y costumbres que se realicen en su demarcación territorial;
 
 XI. Procurar la creación de bibliotecas, hemerotecas, casas de cultura, museos, auditorios, teatros y centros culturales, así como la ampliación, mantenimiento, mejoras físicas y tecnológicas;
 
 XII. Proporcionar a las Casas de Cultura de su demarcación los recursos materiales y humanos suficientes para su óptimo funcionamiento, así como normar el uso adecuado de sus espacios e instalaciones, para ofrecer bienes y servicios culturales de calidad, según las necesidades de sus usuarios;
 
-XIII. Establecer lineamientos públicos y accesibles para que las personas físicas o morales que lo soliciten y utilicen los espacios públicos con que cuenta la Alcaldía para el desarrollo de actividades culturales, y
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
+
+XIII. Establecer lineamientos públicos y accesibles para que las personas físicas o morales que lo soliciten y utilicen los espacios públicos con que cuenta la Alcaldía para el desarrollo de manifestaciones y expresiones culturales, y
 
 XIV. Las demás que esta Ley y otros ordenamientos jurídicos le confieran.
 
@@ -507,6 +523,10 @@ IV. Proponer mecanismos diversos de participación ciudadana acordes a las carac
 V. Conocer el presupuesto destinado a cultura en la demarcación y, con base en éste, proponer a la persona titular de la Alcaldía, la realización de actividades que contribuyan al fomento, protección y promoción de la diversidad de las expresiones culturales de acuerdo con la política cultural de la Ciudad;
 
 VI. Emitir observaciones a la autoridad de la Alcaldía, cuando considere que ésta no cumple con sus obligaciones como instancia encargada del fomento y desarrollo cultural;
+
+> <small>(ADICIONADA, G.O. 27 DE MAYO DE 2022)</small>
+
+VI BIS. Con el apoyo de la Comisión de la Memoria Histórica de la Ciudad proponer al Consejo un catálogo de manifestaciones y expresiones culturales en la Ciudad de México, que deberá ser actualizado, en su caso, en coordinación con los representantes de los pueblos y barrios originarios y de las colonias de cada demarcación territorial;
 
 VII. Proponer acciones conducentes para el fomento de la cultura de paz y desarrollo cultural en su demarcación, y
 
@@ -639,3 +659,15 @@ SEXTO. Las personas consejeras a las que se refiere el artículo 23, fracción X
 Palacio Legislativo del Congreso de la Ciudad de México, a los cuatro días del mes de febrero del año dos mil veintiuno. POR LA MESA DIRECTIVA.-DIPUTADA MARGARITA SALDAÑA HERNÁNDEZ, PRESIDENTA.- DIPUTADA DONAJI OFELIA OLIVERA REYES, SECRETARIA.- DIPUTADO PABLO MONTES DE OCA DEL OLMO, SECRETARIO.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III de la Constitución Política de los Estados Unidos Mexicanos; 32, apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 2 párrafo segundo, 3 fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21 párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los quince días del mes de febrero del año dos mil veintiuno.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- LA SECRETARIA DE CULTURA, VANNESA BOHÓRQUEZ LÓPEZ.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, FADLALA AKABANI HNEIDE.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, CARLOS ALBERTO ULLOA PÉREZ.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUIZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DE INCLUSIÓN Y BIENESTAR SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- LA SECRETARIA DE LAS MUJERES, INGRID AURORA GÓMEZ SARACÍBAR.- FIRMA.-- EL SECRETARIO DE OBRAS Y SERVICIOS, JESÚS ANTONIO ESTEVA MEDINA.- FIRMA.- LA SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES, LAURA ITA ANDEHUI RUIZ MONDRAGÓN.- FIRMA.-EL SECRETARIO DE SEGURIDAD CIUDADANA, OMAR HAMID GARCÍA HARFUCH.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, HAYDEÉ SOLEDAD ARAGÓN MARTÍNEZ.- FIRMA.- EL SECRETARIO DE TURISMO, CARLOS MACKINLAY GROHMANN.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 27 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES XVII DEL ARTÍCULO 5; V, X Y XIII DEL ARTÍCULO 20 Y SE ADICIONAN LAS FRACCIONES XXIII BIS, AL ARTÍCULO 17; LA FRACCIÓN X BIS, AL ARTÍCULO 20; Y VI BIS, AL ARTÍCULO 29, TODOS DE LA LEY DE FOMENTO CULTURAL DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Las Alcaldías como primera fase, tendrán un lapso de un año a partir de la entrada en vigor del presente decreto para implementar el registro previsto en la fracción X BIS. del artículo 20 de la Ley de Fomento Cultural de la Ciudad de México.
