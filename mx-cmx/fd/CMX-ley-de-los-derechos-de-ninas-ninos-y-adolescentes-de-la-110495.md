@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2022-02-23"
+last_updated: "2022-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 23 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE MAYO DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -98,9 +98,9 @@ III. Promover la participación de todos los sectores de la sociedad, tomando en
 
 IV. Implementar los mecanismos para el diseño, ejecución, seguimiento y evaluación de políticas públicas, programas sociales y gubernamentales, legislación y compromisos derivados de las normas constitucionales y de los tratados internacionales celebrados por el Estado mexicano de manera transparente y accesible; y
 
-> <small>(ADICIONADA, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
 
-V. Establecer mecanismos para prevenir el abuso y maltrato, o explotación laboral o sexual.
+V. Establecer y evaluar los mecanismos para prevenir el abuso y maltrato, o explotación laboral o sexual.
 
 > <small>(REFORMADO, G.O. 7 DE MAYO DE 2021)</small>
 
@@ -348,7 +348,9 @@ Son principios rectores de esta ley:
 
 I. El interés superior;
 
-II. La universalidad, interdependencia, indivisibilidad y progresividad de los derechos de niñas, niños y adolescentes;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
+
+II. La universalidad, interdependencia, indivisibilidad, complementariedad, integralidad, progresividad y no regresividad de los derechos de niñas, niños y adolescentes;
 
 III. La igualdad sustantiva;
 
@@ -414,7 +416,9 @@ Es obligación de toda persona que tenga conocimiento de casos de niñas, niños
 
 Las autoridades en la Ciudad de México y de los órganos político administrativos garantizarán el establecimiento de los mecanismos necesarios para que cualquier persona, así como niñas, niños y adolescentes, puedan hacer del conocimiento de las autoridades correspondientes los hechos presuntamente constitutivos de violaciones a los derechos establecidos en la presente ley.
 
-Asimismo, lo anterior se garantizara conforme a la ley de datos personales para el DF y de transparencia mismas que podrán utilizarse de manera supletoria en los casos que se requería, mediante el mecanismo que el reglamento establezca.
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2022)</small>
+
+Asimismo, lo anterior se garantizará conforme a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México y de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, mismas que podrán utilizarse de manera supletoria en los casos que se requiera, mediante el mecanismo que el reglamento establezca.
 
 ## Título Segundo. De los Derechos de Niñas, Niños y Adolescentes
 
@@ -1508,7 +1512,7 @@ En poblaciones predominantemente indígenas, las autoridades a que se refiere es
 
 Asimismo, las autoridades a que se refiere este artículo dispondrán lo necesario para garantizar que niñas, niños y adolescentes con discapacidad cuenten con la accesibilidad para ejercer su derecho a la libertad de expresión, acceso a la información y expresión de su voluntad.
 
-(NOTA: EL 20 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO,ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2020 Y SU ACUMULADA 218/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 20 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2020 Y SU ACUMULADA 218/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, G.O. 20 DE MARZO DE 2020)</small>
 
@@ -2739,6 +2743,14 @@ G.O. 11 DE JUNIO DE 2021.
 G.O. 23 DE FEBRERO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES XIII BIS Y XIII TER AL ARTÍCULO 4; ASÍ COMO UN TERCER PÁRRAFO AL ARTÍCULO 43; SE MODIFICA LA FRACCIÓN X Y SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 44; SE MODIFICA LA FRACCIÓN VIII Y SE ADICIONA LA FRACCIÓN VIII BIS AL ARTÍCULO 102 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN V DEL ARTÍCULO 2; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 6; Y SE MODIFICA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 12 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
