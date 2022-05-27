@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2021-08-04"
+last_updated: "2022-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -23,7 +23,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MAYO DE 2022.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -3307,25 +3307,37 @@ Los hijos adoptivos y los consanguíneos, así como los hijos adoptivos entre s�
 
 Son requisitos para la adopción:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 27 DE MAYO DE 2022)</small>
+
 I. Que resulte benéfica para la persona que pretende adoptarse;
 
 II. Que el adoptante tenga más de 25 años cumplidos al momento que el juez emita la resolución que otorgue la adopción y tenga 17 años más que el adoptado;
 
-III. Que el adoptante acredite contar medios suficientes para proveer la subsistencia y educación del menor, como hijo propio;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
 
-IV. Que el solicitante de la adopción exponga de forma clara y sencilla las razones de su pretensión;
+III. Que el adoptante acredite contar (sic) medios suficientes para proveer la subsistencia recreación, alimentos y educación del menor, como hijo propio;
+
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
+
+IV. Que el solicitante de la adopción exponga de forma clara, motivada y sencilla las razones de su pretensión;
 
 V. Que el solicitante de la adopción demuestre un modo de vida honesto, así como la capacidad moral y social para procurar una familia adecuada y estable al adoptado; y
 
 VI. Que ninguno de los adoptantes haya sido procesado o se encuentre pendiente de proceso penal por delitos que atenten contra la familia, sexuales, o en su caso contra la salud.
 
-> <small>(ADICIONADA, G.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
 
-VII. Que ninguno de los adoptantes se encuentre inscrito en el Registro de Deudores Alimentarios Morosos.
+VII. Que ninguno de los adoptantes se encuentre inscrito en el Registro de Deudores Alimentarios Morosos o en el Registro Público de Personas Agresoras Sexuales.
 
 Estas mismas calidades se exigirán a quien adopte conjuntamente.
 
-La autoridad velará para que el adoptado goce de las garantías necesarias para su debida integración a una familia, sin que se ponga en peligro su libre y debido desarrollo o se atente contra sus derechos humanos.
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2022)</small>
+
+La persona Juzgadora de lo Familiar, el Agente del Ministerio Público y el Sistema Nacional para el Desarrollo Integral de las Familias y demás autoridades competentes, velarán para que el adoptado goce de las garantías necesarias para su debida integración a una familia, sin que se ponga en peligro su libre y debido desarrollo o se atente contra sus derechos humanos.
+
+> <small>(ADICIONADO, G.O. 27 DE MAYO DE 2022)</small>
+
+En todos los casos se atenderá el interés superior del menor adoptado y el principio de igualdad y no discriminación.
 
 ###### ARTICULO 397 Bis.
 
@@ -15008,3 +15020,11 @@ CUARTO.- La Agencia Digital de Innovación Pública contará con un plazo de has
 QUINTO.- Una vez habilitada la Estrategia de Firma Electrónica de la Ciudad de México el Colegio de Notarios de la Ciudad de México incorporará su utilización en el Sistema Informático prefiriéndolo frente a otros certificados digitales.
 
 SEXTO.- En un término de 180 días hábiles, la persona titular de la Jefatura de Gobierno deberá armonizar los Reglamentos relacionados con la entrada en vigor del presente Decreto.
+
+G.O. 27 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES I, III, IV, VII, TERCER PÁRRAFO Y SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 397 AL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL".]
+
+Primero. - Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
