@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-alcaldias-de-la-ciudad-de-mexico-128262"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2022-04-21"
+last_updated: "2022-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128262&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MAYO DE 2022.
 
 Ley publicada en el Tomo I del Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -662,9 +662,17 @@ Las atribuciones de las personas titulares de las Alcaldías en materia de educa
 
 Las personas titulares de las Alcaldías en materia de educación y cultura, coordinadas con el Gobierno de la Ciudad u otras autoridades, también procurarán las acciones necesarias y oportunas para hacer efectiva la promoción, el reconocimiento, garantía y defensa de los derechos culturales de los habitantes de su demarcación territorial.
 
+> <small>(ADICIONADO, G.O. 27 DE MAYO DE 2022)</small>
+
+Asimismo coadyuvarán con las autoridades competentes en la salvaguardia del patrimonio cultural, natural y biocultural en su demarcación territorial.
+
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2022)</small>
+
 ###### Artículo 46.
 
-Con base en las disposiciones contempladas por el artículo 18 de la Constitución Local, la Alcaldía auxiliar en términos de las disposiciones federales en la materia a las autoridades federales en la protección y preservación de los monumentos arqueológicos, artísticos e históricos, así como en la protección y conservación del patrimonio cultural inmaterial de su demarcación territorial; así como, emitir declaratorias que tiendan a proteger el patrimonio de la Ciudad, en los términos de la legislación aplicable.
+Con base en las disposiciones contempladas por el artículo 18 de la Constitución Local, la Alcaldía auxiliará en términos de las disposiciones federales en la materia a las autoridades federales en la protección y preservación de los monumentos arqueológicos, artísticos e históricos así como, en la protección y conservación del patrimonio en el ámbito de su competencia y en coordinación con las autoridades competentes.
+
+Asimismo, promoverán las declaratorias que tiendan a la salvaguardia de aquellos bienes, expresiones y valores considerados como patrimonio cultural, natural o biocultural de la Ciudad, en los términos de la legislación aplicable.
 
 ###### Artículo 47.
 
@@ -1035,6 +1043,14 @@ a) Contar con una experiencia mínima de 2 años en el ejercicio de un cargo sim
 V. El titular de la Unidad Administrativa de Servicios Urbanos:
 
 a) Contar con una experiencia mínima de 2 años en el ejercicio de un cargo similar, dentro de la Administración Pública Federal, Estatal, de la Ciudad o Municipal.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], G.O. 27 DE MAYO DE 2022)</small>
+
+VI. La persona titular de la Unidad Administrativa encargada de Derechos Culturales, o su equivalente:
+
+a) Tener título o contar con cédula profesional respectiva para el ejercicio de la profesión en las áreas de Ciencias Políticas y Administración Pública, Ciencias Sociales, Administración, Comunicación, Humanidades, Antropología, Educación, Historia, Sociología, o disciplinas en las áreas afines a la recreación, las artes, la garantía y defensa de derechos culturales y ámbitos educativos, o
+
+b) Contar con una experiencia comprobable de mínimo 2 años en el ejercicio de un cargo en la Administración Pública Federal, Estatal, de la Ciudad o Municipal, relacionada con las ramas de educación, cultura, administración en las artes o similares; o 2 años en el ejercicio de la profesión como gestor cultural, o administrador cultural, en la iniciativa privada o social.
 
 Las atribuciones de las unidades administrativas serán ejercidas en la materia que según su denominación les corresponda, en coincidencia con la distribución de competencias establecida en el artículo 53, Apartado B, Numeral 3 de la Constitución Local.
 
@@ -2423,3 +2439,13 @@ G.O. 21 DE ABRIL DE 2022.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 45; SE REFORMA EL ARTÍCULO 46; Y SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 73, TODOS DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La presente reforma no surtirá efectos retroactivos.
