@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2021-11-11"
+last_updated: "2022-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MAYO DE 2022.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -2518,7 +2518,9 @@ I. La víctima sea menor de edad, incapaz o no tenga la capacidad de comprender 
 
 II. La víctima presente una discapacidad sensorial, física o mental, total o parcial, temporal o permanente.
 
-III. (DEROGADA, G.O. 6 DE JULIO DE 2012)
+> <small>(ADICIONADA, G.O. 27 DE MAYO DE 2022)</small>
+
+III. La víctima sea una persona de sesenta años en adelante;
 
 IV. La víctima sea una mujer en estado de embarazo o durante los tres meses posteriores al parto.
 
@@ -3099,6 +3101,10 @@ f) Cualquier otro relacionado con la zonificación, el uso del suelo, construcci
 ###### ARTÍCULO 232.
 
 A quien por medio del engaño o aprovechando el error en que otro se halle le cause perjuicio patrimonial, se le impondrán de cuatro meses a dos años seis meses de prisión y de setenta y cinco a doscientos días multa.
+
+> <small>(ADICIONADO, G.O. 27 DE MAYO DE 2022)</small>
+
+ARTÍCULO 232 BIS. A quién en perjuicio de la sociedad conyugal o patrimonio común generado durante el matrimonio o el concubinato, oculte, transfiera o adquiera a nombre de terceros bienes, sin autorización expresa de su cónyuge o concubina o concubino, se le aplicará sanción de uno a cinco años de prisión y hasta trescientas veces la Unidad de Medida y Actualización.
 
 ###### ARTÍCULO 233.
 
@@ -6271,3 +6277,19 @@ PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su debid
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México, y
 
 TERCERO. La Secretaría de Administración y Finanzas del Gobierno de la Ciudad de México deberá realizar las modificaciones pertinentes a las disposiciones relacionadas con el cierre del ejercicio presupuestal 2021.
+
+G.O. 27 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 232 BIS AL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
+
+Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN III AL ARTÍCULO 200 BIS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
