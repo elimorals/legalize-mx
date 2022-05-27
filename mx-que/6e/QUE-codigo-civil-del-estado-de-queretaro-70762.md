@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2022-02-18"
+last_updated: "2022-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "QUE"
 
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -3021,7 +3021,9 @@ I. Cuando el que la ejerza es condenado expresamente a la pérdida de ese derech
 
 II. En los casos de divorcio, si así se decretó en la sentencia;
 
-III. Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, seguridad o la moralidad de los hijos, aún cuando esos hechos no cayeren bajo la sanción de la ley penal;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2022)</small>
+
+III. Por las costumbres depravadas, malos tratamientos o abandono de deberes, de quien ejerce la patria potestad, aun cuando esos hechos no cayeren bajo la sanción de la ley penal;
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -3049,13 +3051,25 @@ IX. Cuando el que ejerza la patria potestad hubiera cometido contra la persona o
 
 X. Cuando él o la menor de edad hayan sido producto de una violación;
 
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2022)</small>
 
-XI. Por el abandono del menor, por parte de quien ejerza la patria potestad, por más de 60 días naturales, sin causa justificada, independientemente de que el menor haya sido acogido o no durante ese lapso; y
+XI. Por el abandono del menor, por parte de quien ejerza la patria potestad, por más de 60 días naturales, sin causa justificada, independientemente de que el menor haya sido acogido o no durante ese lapso;
 
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2022)</small>
 
-XII. Cuando quien ejerza la patria potestad deje de asistir y convivir en forma injustificada con el menor de edad, por más de 20 días naturales, cuando éste se encuentre acogido por una institución de asistencia pública o privada.
+XII. Cuando quien ejerza la patria potestad deje de asistir y convivir en forma injustificada con el menor de edad, por más de 20 días naturales, cuando éste se encuentre acogido por una institución de asistencia pública o privada;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2022)</small>
+
+XIII. En el caso de violencia sexual cometida por quien ejerce la patria potestad contra la niña, niño o adolescente, o por tolerar que un tercero cometa dicha violencia; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2022)</small>
+
+XIV. Cuando quien ejerza la patria potestad obligue o permita reiteradamente que la niña, niño o adolescente practique actos de mendicidad forzada, trabajo infantil o cualquier otra actividad que ponga en riesgo su salud, le prive de la educación o afecte sus derechos y desarrollo, con el fin de obtener un beneficio o retribución económica.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2022)</small>
+
+La pérdida de la patria potestad solo se dará cuando la medida resulte necesaria, idónea y razonable para la protección de los derechos de las niñas, niños o adolescentes conforme a su interés superior.
 
 ###### Artículo 441.
 
@@ -16110,3 +16124,11 @@ Artículo primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 27 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL ARTÍCULO 440 DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO".]
+
+Artículo primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
