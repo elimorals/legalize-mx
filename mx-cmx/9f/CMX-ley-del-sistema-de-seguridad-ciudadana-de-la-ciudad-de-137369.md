@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-sistema-de-seguridad-ciudadana-de-la-ciudad-de-137369"
 country: "mx"
 rank: "ley"
 publication_date: "2019-08-01"
-last_updated: "2022-02-21"
+last_updated: "2022-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137369&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-08-01"
 
 LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MAYO DE 2022.
 
 Ley publicada en el No. 147 bis de la Gaceta Oficial de la Ciudad de México, el jueves 1 de agosto de 2019.
 
@@ -188,7 +188,9 @@ III. Preservar las libertades;
 
 IV. Proteger la vida, integridad física de las personas y comunidades, así como su patrimonio;
 
-V. Llevar a cabo la prevención especial de los delitos, así como la investigación y persecución de los delitos;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
+
+V. Llevar a cabo la prevención general y especial de los delitos, así como la investigación y persecución de los delitos;
 
 VI. Sancionar infracciones administrativas, impartir justicia, y la reinserción social;
 
@@ -848,7 +850,9 @@ II. Participar en la creación, seguimiento y evaluación de leyes generales, es
 
 III. Formular opiniones vinculadas a la prevención social de la violencia de género, de las violencias en general y del delito, la atención a las víctimas de delitos y la transparencia en los procedimientos y actuaciones de las instituciones en materia de cultura cívica, seguridad ciudadana, procuración de justicia, atención a víctimas del delito y prevención y reinserción social;
 
-IV. Vigilar y evaluar el desempeño de los ministerios públicos, policías preventivas, de tránsito, cívica, auxiliar, bancaria e industrial, investigadoras e instituciones y elementos de la Secretaría;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
+
+IV. Vigilar y evaluar el desempeño de los ministerios públicos, policías preventivas, de tránsito, cívica, auxiliar, turística, bancaria e industrial, investigadoras e instituciones y elementos de la Secretaría;
 
 V. Establecer mecanismos de otorgamiento de reconocimientos, incentivos, estímulos y recompensas para las personas servidoras públicas que destaquen en el ejercicio y recuperación de la cultura cívica, la seguridad ciudadana y la procuración de justicia;
 
@@ -988,17 +992,35 @@ II. Bajo la responsabilidad de la Fiscalía: Policía de investigación.
 
 (DEROGADO, G.O. 2 DE SEPTIEMBRE DE 2021)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MAYO DE 2022)</small>
 
 ###### Artículo 55.
 
-Las policías preventiva, auxiliar, de tránsito, cívica, bancaria e industrial y cuerpos especiales desempeñarán sus funciones bajo la dirección y mando directo de la Secretaría observando las disposiciones establecidas en la normatividad federal y local en la materia, regulando su funcionamiento interno a través de su correspondiente Ley Orgánica, Reglamentos, Acuerdos, Protocolos y demás instrumentos jurídico-administrativos que se emitan para tal efecto.
+Las policías: preventiva, auxiliar, de tránsito, cívica, turística, bancaria e industrial y cuerpos especiales, desempeñarán sus funciones bajo la dirección y mando directo de la Secretaría observando las disposiciones establecidas en la normatividad federal y local en la materia, regulando su funcionamiento interno a través de su correspondiente Ley Orgánica, Reglamentos, Acuerdos, Protocolos y demás instrumentos jurídico-administrativos que se emitan para tal efecto.
 
 > <small>(ADICIONADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
 
 De igual forma, como parte de la función de seguridad ciudadana, la Secretaría tendrá bajo su dirección y responsabilidad el cuerpo de vigilancia y custodia de los Centros Penitenciarios, Centro de Sanciones Administrativas y de Integración Social y Centros Especializados, organizado jerárquica y disciplinariamente en los términos de su Reglamento y demás disposiciones legales aplicables.
 
 Los ingresos que se generen por los servicios prestados por las policías auxiliar y bancaria e industrial, deberán enterarse a favor de la Tesorería de la Ciudad.
+
+> <small>(ADICIONADO, G.O. 27 DE MAYO DE 2022)</small>
+
+###### Artículo 55 Bis.
+
+La Policía Turística, será un cuerpo especializado en seguridad turística en la Ciudad de México, sus funciones estarán bajo la dirección y mando directo de la Secretaría a través de la Subsecretaría de Participación Ciudadana y Prevención del Delito.
+
+Tendrá como mínimo las siguientes funciones:
+
+I. Contribuir a inhibir la comisión de delitos y salvaguardar la integridad de la población, especialmente de turistas y prestadores de servicios turísticos;
+
+II. Realizar acciones de vinculación y proximidad social para garantizar y mantener la confianza (sic) ciudadanía, los turistas y prestadores de servicios turístico (sic);
+
+III. Orientar a los turistas, recibir y/o canalizar las quejas o denuncias que presenten;
+
+IV. Contribuir al desarrollo, vigilancia y control de los sitios turísticos, y
+
+V. Apoyar las labores de promoción turística.
 
 ###### Artículo 56.
 
@@ -2465,3 +2487,21 @@ G.O. 21 DE FEBRERO DE 2022.
 PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 5° DE LA LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN IV DEL ARTÍCULO 42, EL PRIMER PÁRRAFO DEL ARTÍCULO 55 Y SE ADICIONA EL ARTÍCULO 55 BIS A LA LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Remítase el presente Dictamen a la Mesa Directiva, para los efectos a que se refieren el párrafo tercero del Artículo 103 y el último párrafo del Artículo 105, ambos del Reglamento de este Órgano Legislativo.
