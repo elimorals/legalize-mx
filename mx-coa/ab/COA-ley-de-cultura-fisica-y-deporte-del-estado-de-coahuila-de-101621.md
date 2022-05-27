@@ -4,7 +4,7 @@ identifier: "COA-ley-de-cultura-fisica-y-deporte-del-estado-de-coahuila-de-10162
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-17"
-last_updated: "2020-09-29"
+last_updated: "2022-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 17 de junio de 2014.
 
@@ -183,9 +183,13 @@ XV. Procurar que la población de las zonas rurales quede siempre incluida en to
 
 XVI. Garantizar la ejecución total o en forma abreviada del Himno Nacional en actos y eventos deportivos, de conformidad con la Ley Sobre el Escudo, la Bandera y el Himno Nacionales, y demás disposiciones aplicables.
 
-> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2022)</small>
 
-XVII. Las que le confiera esta ley y demás disposiciones aplicables.
+XVII. Generar, de acuerdo a la disponibilidad presupuestal, las condiciones necesarias para impartir clases virtuales por medios electrónicos, con el objeto de promover la activación física en la población del Estado.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE MAYO DE 2022)</small>
+
+XVIII. Las que le confiera esta ley y demás disposiciones aplicables.
 
 ###### ARTÍCULO 8.
 
@@ -944,3 +948,9 @@ P.O. 29 DE SEPTIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 724.- SE REFORMA CONTENIDO DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 1° DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 233.- SE REFORMA LA FRACCIÓN XVII Y SE ADICIONA LA FRACCIÓN XVIII, DEL ARTÍCULO 7, DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
