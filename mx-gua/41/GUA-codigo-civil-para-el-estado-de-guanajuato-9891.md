@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2022-04-07"
+last_updated: "2022-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2022.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -1489,7 +1489,7 @@ El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, e
 
 ###### Art. 155.
 
-La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz un hijo. En los casos de nulidad o de divorcio, puede contarse este tiempo desde que se interrumpió la cohabitación.
+(DEROGADO, P.O. 27 DE MAYO DE 2022)
 
 ###### Art. 156.
 
@@ -2267,7 +2267,9 @@ Es ilícito pero no nulo el matrimonio:
 
 I. Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa;
 
-II. Cuando no se haya otorgado la previa dispensa que requiere el artículo 156 y cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 155 y 343.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2022)</small>
+
+II. Cuando no se haya otorgado la previa dispensa que requiere el artículo 156.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
 
@@ -2811,13 +2813,17 @@ I. Los hijos nacidos después de ciento ochenta días contados desde la celebrac
 
 II. Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga ésta de nulidad, de muerte del marido, o de divorcio. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2022)</small>
+
 ###### Art. 382.
 
-Contra esta presunción no se admite otra prueba que la de haber sido físicamente imposible al marido tener acceso carnal con su mujer, en los primeros ciento veinte días de los trescientos que han precedido al nacimiento.
+Contra las presunciones a que se refiere el artículo anterior se admitirán los métodos científicos que permitan probar con certeza la paternidad.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2022)</small>
 
 ###### Art. 383.
 
-El marido no podrá desconocer a los hijos alegando adulterio de la madre, aunque ésta declare que no son hijos de su esposo; a no ser que el nacimiento se le haya ocultado o que demuestre que durante los primeros ciento veinte días de los trescientos que precedieron al nacimiento, no tuvo acceso carnal con su esposa.
+El marido no podrá desconocer a los hijos alegando adulterio de la madre, aunque ésta declare que no son hijos de su esposo; a no ser que el nacimiento se le haya ocultado o que pruebe con certeza a través de los métodos científicos que la paternidad no le corresponde a él.
 
 ###### Art. 384.
 
@@ -2857,19 +2863,25 @@ Cuando el marido, teniendo o no tutor, ha muerto sin recobrar la razón, los her
 
 Los herederos del marido, excepto en el caso del artículo anterior, no podrán contradecir la paternidad de un hijo nacido dentro de los ciento ochenta días de la celebración del matrimonio, cuando el esposo no haya comenzado esta demanda. En los demás casos, si el esposo muere dentro del término hábil para hacer la reclamación sin haberla iniciado, los herederos tendrán, para proponer la demanda, sesenta días contados desde aquél en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo en la posesión de la herencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2022)</small>
+
 ###### Art. 391.
 
-Si la viuda, la divorciada, o la mujer cuyo matrimonio fuere declarado nulo, contrajeran nuevas nupcias dentro del periodo prohibido por el artículo 155, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
+Si la viuda, la divorciada, o la mujer cuyo matrimonio fuere declarado nulo, contrajeran nuevas nupcias dentro del plazo de trescientos días contados a partir de la disolución del mismo, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
 
 I. Se presume que el hijo es del primer matrimonio si nace dentro de los trescientos días siguientes a la disolución del mismo y antes de ciento ochenta días de la celebración del segundo;
 
 II. Se presume que el hijo es del segundo marido si nace después de ciento ochenta días, de la celebración del segundo matrimonio, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del primer matrimonio.
 
-El que negare las presunciones establecidas en las dos fracciones que preceden deberá probar plenamente la imposibilidad física de que el hijo sea del marido a quien se atribuya;
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE MAYO DE 2022)</small>
 
 III. El hijo se presume nacido fuera de matrimonio si nace antes de ciento ochenta días de la celebración del segundo matrimonio y después de trescientos días de la disolución del primero;
 
 IV. El desconocimiento de un hijo, de parte del marido o de sus herederos, se hará por demanda en forma ante el juez competente. Todo desconocimiento practicado de otra manera es nulo.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2022)</small>
+
+Contra las presunciones establecidas en las fracciones I, II y III se admitirán los métodos científicos que permitan probar con certeza que la paternidad no le corresponde a quien se atribuye.
 
 ###### Art. 392.
 
@@ -17642,3 +17654,9 @@ P.O. 7 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 70, MEDIANTE EL CUAL SE REFORMA EL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 27 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 72 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
