@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimiento-y-justicia-administrativa-para-el-56710
 country: "mx"
 rank: "codigo"
 publication_date: "2007-08-17"
-last_updated: "2021-09-24"
+last_updated: "2022-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2022.
 
 Código Publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 17 de agosto de 2007.
 
@@ -51,7 +51,9 @@ Las disposiciones de este Código son de orden público e interés general y tie
 
 I. Los actos y procedimientos administrativos de las dependencias y entidades de la administración pública centralizada y paraestatal del Estado de Guanajuato y de sus municipios; y
 
-II. La justicia administrativa en el Estado de Guanajuato, la cual se impartirá a través del Tribunal de lo Contencioso Administrativo y de los Juzgados Administrativos Municipales.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2022)</small>
+
+II. La justicia administrativa en el Estado de Guanajuato, la cual se impartirá a través del Tribunal de Justicia Administrativa y de los Juzgados Administrativos Municipales.
 
 ###### Artículo 2.
 
@@ -85,7 +87,9 @@ Para los efectos del presente Código, se entenderá por:
 
 I. Juzgados: Los Juzgados Administrativos Municipales; y
 
-II. Tribunal: El Tribunal de lo Contencioso Administrativo del Estado de Guanajuato.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2022)</small>
+
+II. Tribunal: El Tribunal de Justicia Administrativa.
 
 Por lo que respecta al Libro Primero de este Código, la denominación de autoridades es aplicable tanto a la autoridad administrativa, como a los magistrados del Tribunal y jueces administrativos municipales.
 
@@ -3038,3 +3042,9 @@ Artículo Primero. El presente Decreto entrará en vigor el 1 de enero de 2022, 
 Artículo Segundo. Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto continuarán rigiéndose por las disposiciones vigentes a la fecha de inicio de los respectivos procesos contenciosos administrativos.
 
 Artículo Tercero. En tanto el presente Decreto entre en vigor, el Tribunal de Justicia Administrativa del Estado de Guanajuato realizará las acciones que garanticen tanto la difusión de su contenido, como la capacitación de su personal.
+
+P.O. 27 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 73 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 1, FRACCIÓN III; Y 5, FRACCIÓN II, DEL CÓDIGO DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
