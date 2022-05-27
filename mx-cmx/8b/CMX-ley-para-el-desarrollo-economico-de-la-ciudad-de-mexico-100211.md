@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-desarrollo-economico-de-la-ciudad-de-mexico-100211"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-10"
-last_updated: "2021-06-09"
+last_updated: "2022-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100211&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-04-08"
 
 LEY PARA EL DESARROLLO ECONÓMICO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 9 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE MAYO DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 10 de abril de 2014.
 
@@ -112,7 +112,13 @@ XXII. Impulsar la constitución y funcionamiento de cooperativas de las personas
 
 XXIII. Coadyuvar en el fortalecimiento de la infraestructura logística, comercial, industrial y de servicios existente en la entidad, y
 
-XXIV. Estimular el comercio exterior con especial énfasis en el desarrollo de programas estratégicos que impulsen el desarrollo y promoción de la oferta exportable, así como el fortalecimiento de cadenas productivas, el desarrollo de proveedores y la captación de divisas.
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
+
+XXIV. Estimular el comercio exterior con especial énfasis en el desarrollo de programas estratégicos que impulsen el desarrollo y promoción de la oferta exportable, así como el fortalecimiento de cadenas productivas, el desarrollo de proveedores y la captación de divisas; y
+
+> <small>(ADICIONADA, G.O. 27 DE MAYO DE 2022)</small>
+
+XXV. Impulsar la promoción de la economía social y solidaria como una forma de producción, consumo y distribución de riqueza, centrada en la valorización del ser humano, contribuyendo al desarrollo socioeconómico de la ciudad, a la generación de fuentes de trabajo digno, a la equitativa distribución del ingreso y al fortalecimiento de la economía familiar.
 
 > <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
@@ -156,23 +162,29 @@ XII. Congreso: El Congreso de la Ciudad de México;
 
 XIII. Desarrollo Económico: La construcción de las condiciones para que la Ciudad de México pueda promover y sostener un tipo de crecimiento que realice el potencial y mejore la calidad de vida de todos sus habitantes;
 
-XIV. Estímulos: Los instrumentos jurídicos, administrativos, fiscales y financieros que se emiten para promover y facilitar el desarrollo de las actividades económicas sujetas a fomento;
+> <small>(ADICIONADA, G.O. 27 DE MAYO DE 2022)</small>
 
-XV. Fomento: Acciones y políticas definidas e instrumentadas por las dependencias y entidades de la Administración Pública de la Ciudad de México, en el ámbito de sus respectivas competencias, con el objetivo de propiciar el desarrollo económico de la Ciudad de México;
+XIV. Economía social y solidaria: Tiene como objeto establecer mecanismos para fomentar el desarrollo, fortalecimiento y visibilidad de la actividad económica del Sector Social de la Economía, así como definir las reglas para la promoción, fomento y fortalecimiento del Sector Social de la Economía, como un sistema eficaz que contribuya al desarrollo social y económico.
 
-XVI. Industrias creativas: Aquéllas que comprenden los bienes y servicios derivados de actividades económicas con atributos culturales. Entre ellas, las relacionadas con las artes visuales, literatura y publicidad, diseño, animación digital y multimedia, música, gastronomía y todas aquellas en cuyo proceso de elaboración se incorporen expresiones artísticas o creativas;
+XV. Estímulos: Los instrumentos jurídicos, administrativos, fiscales y financieros que se emiten para promover y facilitar el desarrollo de las actividades económicas sujetas a fomento;
 
-XVII. Infraestructura Productiva: El conjunto de instalaciones materiales y capital humano destinados a la producción y distribución de bienes y servicios;
+XVI. Fomento: Acciones y políticas definidas e instrumentadas por las dependencias y entidades de la Administración Pública de la Ciudad de México, en el ámbito de sus respectivas competencias, con el objetivo de propiciar el desarrollo económico de la Ciudad de México;
 
-XVIII. Jefa o Jefe de Gobierno: La persona titular de la Jefatura de Gobierno de la Ciudad de México;
+XVII. Industrias creativas: Aquéllas que comprenden los bienes y servicios derivados de actividades económicas con atributos culturales. Entre ellas, las relacionadas con las artes visuales, literatura y publicidad, diseño, animación digital y multimedia, música, gastronomía y todas aquellas en cuyo proceso de elaboración se incorporen expresiones artísticas o creativas;
 
-XIX. Ley: La Ley para el Desarrollo Económico de la Ciudad de México;
+XVIII. Infraestructura Productiva: El conjunto de instalaciones materiales y capital humano destinados a la producción y distribución de bienes y servicios;
 
-XX. Ley Orgánica: La Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México;
+XIX. Jefa o Jefe de Gobierno: La persona titular de la Jefatura de Gobierno de la Ciudad de México;
 
-XXI. Plan General de Desarrollo: El Plan General de Desarrollo de la Ciudad de México, y
+XX. Ley: La Ley para el Desarrollo Económico de la Ciudad de México;
 
-XXII. Secretaría: La Secretaría de Desarrollo Económico de la Ciudad de México.
+XXI. Ley Orgánica: La Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
+
+XXII. Plan General de Desarrollo: El Plan General de Desarrollo de la Ciudad de México; y
+
+XXIII. Secretaría: La Secretaría de Desarrollo Económico de la Ciudad de México.
 
 ## TÍTULO SEGUNDO
 
@@ -254,7 +266,9 @@ VIII. Formular y proponer medidas de promoción e impulso para las actividades s
 
 IX. Generar estudios para la elaboración de diagnósticos, análisis de prospectiva y determinación de las Áreas de Desarrollo Económico (ADE);
 
-X. Impulsar políticas públicas mediante un registro que permita el desarrollo económico de los productores y prestadores de servicios de la Ciudad de México, que así lo requieran, bajo el concepto de Comercio Justo;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
+
+X. Impulsar políticas públicas mediante un registro que permita el desarrollo económico de las personas productoras y prestadoras de servicios de la Ciudad de México, que así lo requieran, bajo el concepto de comercio justo, así como de economía social y solidaria;
 
 XI. Intervenir, en coordinación con las autoridades competentes en la elaboración e instrumentación de programas, políticas y proyectos de desarrollo inmobiliario; así como incentivar la inversión del sector privado, en acciones que aumenten el valor del patrimonio inmobiliario de la Ciudad de México;
 
@@ -272,7 +286,11 @@ XVII. Suscribir convenios de coordinación y colaboración con la Administració
 
 XVIII. Impulsar el fortalecimiento y la competitividad de las micro, pequeñas y medianas empresas para promover su integración y desarrollo dentro de los esquemas de vinculación y cadenas de proveeduría hacia los sectores del comercio, los servicios y la rama de la industria, y
 
-XIX. Las demás que sean necesarias para el cumplimiento del objeto y fines propuestos y establecidos en la Ley.
+> <small>(ADICIONADA, G.O. 27 DE MAYO DE 2022)</small>
+
+XIX. Impulsar y fomentar programas de vinculación con el sector bancario y bursátil, para facilitar el acceso a servicios financieros, y
+
+XX. Las demás que sean necesarias para el cumplimiento del objeto y fines propuestos y establecidos en la Ley.
 
 En la promoción de las acciones comprendidas en las fracciones anteriores, que requieran de la utilización de recursos públicos para su instrumentación, la Secretaría acordará con la Secretaría de Finanzas la asignación de los recursos necesarios, atendiendo las previsiones, prioridades y la disponibilidad y suficiencia presupuestal de la Ciudad de México.
 
@@ -288,9 +306,11 @@ II. Generar en coordinación con la Secretaria de Desarrollo Económico de la Ci
 
 III. Impulsar los proyectos de desarrollo económico que propicien la creación y conservación del empleo, de acuerdo con los lineamientos establecidos en la presente Ley;
 
-IV. Impulsar ferias, exposiciones, congresos y eventos similares que promuevan el comercio justo de los productores y prestadores de servicios de su demarcación territorial.
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
 
-Para lo cual, se publicarán mediante un calendario específico las convocatorias para tal efecto, y se desarrollará un plan integral por Alcaldía que establezca los eventos anuales que se programarán y presupuestarán, para estar en posibilidad de organizar a los productores y prestadores de servicios de la Ciudad de México que así lo requieran, bajo el concepto de Comercio Justo;
+IV. Impulsar ferias, exposiciones, congresos y eventos similares que promuevan el comercio justo y la economía social y solidaria de las personas productoras y prestadoras de servicios de su demarcación territorial.
+
+Para lo cual, se publicarán mediante un calendario específico las convocatorias para tal efecto, y se desarrollará un plan integral por Alcaldía que establezca los eventos anuales que se programarán y presupuestarán, para estar en posibilidad de organizar a las personas productoras y prestadoras de servicios de la Ciudad de México que así lo requieran, bajo el concepto de Comercio Justo, así como de economía social y solidaria;
 
 V. Impulsar los proyectos de desarrollo económico que propicien la creación y conservación del empleo, de acuerdo con los lineamientos establecidos en la presente Ley;
 
@@ -516,7 +536,9 @@ III. Que las decisiones económicas y la política económica deberán instrumen
 
 IV. Que la política económica observará, atenderá y respetará de manera invariable las libertades fundamentales y los derechos de los ciudadanos; tales como el derecho a la propiedad, el derecho al trabajo, el derecho al empleo y el bienestar de las personas;
 
-V. Que la política económica promueva una red de comercio justo de los productores y prestadores de servicios que así lo requieran;
+> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
+
+V. Que la política económica promueva una red de comercio justo, así como la economía social y solidaria de las personas productoras y prestadoras de servicios que así lo requieran;
 
 VI. El impulso y desarrollo de la economía social y solidaria, y
 
@@ -788,11 +810,11 @@ VII. Orientar la oferta educativa técnica y superior para que sea acorde a la d
 
 La Secretaría de Educación, Ciencia, Tecnología e Innovación en coordinación con la Secretaría, promoverán la cooperación interinstitucional entre empresas, colegios de profesionistas y comunidad académica, para impulsar una tecnología competitiva y el fortalecimiento de la infraestructura científico-tecnológica de la Ciudad de México en congruencia con lo establecido por el Plan Nacional de Desarrollo y el Plan General de Desarrollo de la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2022)</small>
 
 ###### Artículo 47 Bis.
 
-La Secretaría de Educación, Ciencia, Tecnología e Innovación en conjunto con la Secretaría, implementarán las acciones necesarias para el correcto fortalecimiento a los comercios de barrio a través del uso y aplicación de herramientas tecnológicas, de gestión y capacitación, en el ámbito de sus competencias y con el objetivo de que éstas obtengan las condiciones de competitividad en el mercado.
+La Secretaría de Educación, Ciencia, Tecnología e Innovación en coordinación con la Secretaría del Trabajo y Fomento al Empleo, implementarán las acciones necesarias para el fortalecimiento al comercio popular, al trabajo no asalariado y a los comercios de barrio a través del uso y aplicación de herramientas tecnológicas, de gestión, capacitación y tecnología financiera en el ámbito de sus competencias y con el objetivo de que éstas obtengan las condiciones de competitividad en el mercado y de inclusión financiera.
 
 > <small>(REFORMADO, G.O. 9 DE JUNIO DE 2021)</small>
 
@@ -967,3 +989,15 @@ PRIMERO. Remítase a la Jefa de Gobierno para su promulgación y publicación en
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Las referencias hechas en otros ordenamientos a la Ley para el Desarrollo Económico del Distrito Federal, se entenderán hechas a la Ley para el Desarrollo Económico de la Ciudad de México.
+
+G.O. 27 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL SE ADICIONA LA FRACCIÓN XXV AL ARTÍCULO 2º, SE ADICIONA UNA FRACCIÓN XIV Y SE RECORREN LAS SUBSECUENTES DEL ARTÍCULO 3º, SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 7º Y SE ADICIONA UNA FRACCIÓN XIX Y SE RECORREN LAS SUBSECUENTES DEL ARTÍCULO 7º, SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 8º, SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 23, Y SE REFORMA EL ARTÍCULO 47 BIS DE LA LEY PARA EL DESARROLLO ECONÓMICO DE LA CIUDAD DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase a la Jefatura de Gobierno para efectos de su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial de la Ciudad de México.
