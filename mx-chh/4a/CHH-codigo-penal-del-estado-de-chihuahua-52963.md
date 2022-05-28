@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2022-03-02"
+last_updated: "2022-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2022.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -2261,7 +2261,9 @@ I. Realice cópula con persona menor de catorce años de edad o con persona que 
 
 II. Introduzca por vía anal o vaginal cualquier elemento, instrumento o cualquier parte del cuerpo humano distinto del pene en una persona menor de catorce años de edad o persona que no tenga capacidad de comprender el significado del hecho, o por cualquier causa no pueda resistirlo.
 
-Si se ejerciera violencia física o moral, la pena prevista se aumentará en una mitad.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2022)</small>
+
+Si se ejerciera violencia física o moral, la pena prevista se aumentará en una mitad. Si el delito fuere cometido previa suministración de algún estupefaciente o psicotrópico a la víctima, en contra de su voluntad o sin su conocimiento, la pena se aumentará en dos terceras partes.
 
 ### CAPÍTULO II. ABUSO SEXUAL
 
@@ -2281,7 +2283,9 @@ Este delito se perseguirá previa querella, salvo que concurra violencia o se tr
 
 A quien sin el propósito de llegar a la cópula ejecute un acto sexual en una persona menor de catorce años o persona que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirlo, o la obligue a observar o ejecutar dicho acto, se le impondrán de tres a diez años de prisión y de doscientos a cuatrocientos días multa.
 
-Si se hiciere uso de violencia física o moral, la pena prevista se aumentará en una mitad.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2022)</small>
+
+Si se hiciere uso de violencia física o moral, la pena prevista se aumentará en una mitad. Si el delito fuere cometido previa suministración de algún estupefaciente o psicotrópico a la víctima, en contra de su voluntad o sin su conocimiento, la pena se aumentará en dos terceras partes.
 
 ###### Artículo 175.
 
@@ -2907,6 +2911,10 @@ V. Recaiga sobre bienes de instituciones educativas o culturales.
 
 VI. Recaiga sobre armamento, equipo táctico, uniforme, equipo de comunicación o identificación personal, perteneciente o bajo el resguardo de las instituciones de seguridad pública.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2022)</small>
+
+Cuando el robo recaiga sobre bienes de instituciones educativas contempladas en la fracción V, se aplicarán de tres a trece años de prisión.
+
 > <small>(ADICIONADO, P.O. 30 DE ENERO DE 2010)</small>
 
 ###### Artículo 212 Bis.
@@ -3227,11 +3235,11 @@ Podrá aumentarse la pena señalada hasta el doble, según la gravedad del daño
 
 La misma pena señalada en el primer párrafo de este artículo se aplicará al que dolosamente cause destrucción o deterioro de un bien mueble o inmueble del Estado.
 
-> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2022)</small>
 
-###### Artículo 238. Bis.
+###### Artículo 238 Bis.
 
-Se aplicará prisión de seis meses a seis años y de setecientos cincuenta a mil doscientos cincuenta días multa, al que cause destrucción o deterioro de un bien mueble o inmueble protegido o declarado Patrimonio Cultural del Estado.
+Se aplicará prisión de seis meses a seis años y de setecientos cincuenta a mil doscientos cincuenta días multa, al que cause destrucción o deterioro de un bien mueble o inmueble protegido o declarado Patrimonio Cultural o sobre bienes de instituciones educativas.
 
 ### CAPÍTULO XII. DISPOSICIONES COMUNES
 
@@ -5680,6 +5688,22 @@ P.O. 23 DE OCTUBRE DE 2021.
 P.O. 2 DE MARZO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFCOD/0198/2022 II P.E., MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 264 BIS; Y AL ARTÍCULO 288, LA FRACCIÓN X, DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N°LXVII/RFCOD/0215/2022 II P.O., MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 172, SEGUNDO PÁRRAFO, Y 174, SEGUNDO PÁRRAFO, DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFCOD/0245/2022 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 238 BIS; Y SE ADICIONA AL ARTÍCULO 212, UN SEGUNDO PÁRRAFO; AMBOS DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
