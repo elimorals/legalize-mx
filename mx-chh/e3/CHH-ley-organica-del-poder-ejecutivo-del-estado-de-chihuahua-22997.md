@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2021-12-18"
+last_updated: "2022-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2022.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -401,7 +401,9 @@ X.- Secretaría de Desarrollo Urbano y Ecología;
 
 XI.- Secretaría de Desarrollo Rural;
 
-XII. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2022)</small>
+
+XII. Secretaría de Turismo.
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
@@ -829,9 +831,9 @@ XVII. Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
 A la Secretaría de Innovación y Desarrollo Económico corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
 
-I. Promover, fomentar e impulsar las actividades industriales, mineras, comerciales, turísticas y de desarrollo de capital humano para los sectores productivos en la Entidad;
+I. Promover, fomentar e impulsar las actividades industriales, mineras, comerciales y de desarrollo de capital humano para los sectores productivos en la Entidad;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -845,25 +847,25 @@ III. Promover el crecimiento económico de los municipios y las regiones de la E
 
 IV. Proponer proyectos que propicien el desarrollo económico y equilibrado de los centros de población;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
 
-V. Asesorar y orientar a los inversionistas extranjeros y nacionales para la creación de empresas industriales, mineras, comerciales y turísticas y demás sectores productivos, a fin de promover fuentes de empleo;
+V. Asesorar y orientar a los inversionistas extranjeros y nacionales para la creación de empresas industriales, mineras, comerciales y demás sectores productivos, a fin de promover fuentes de empleo;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
 
-VI. Establecer un sistema de información integral de los principales sectores productivos del Estado, incluyendo las actividades industrial, comercial, turística, minera y de todas las que por su importancia se consideren estratégicas para el desarrollo económico, así como los mecanismos necesarios para su difusión;
+VI. Establecer un sistema de información integral de los principales sectores productivos del Estado, incluyendo las actividades industrial, comercial, minera y de todas las que por su importancia se consideren estratégicas para el desarrollo económico, así como los mecanismos necesarios para su difusión;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
 
-VII. Elaborar y mantener actualizado el inventario de infraestructura industrial, turístico y minero;
+VII. Elaborar y mantener actualizado el inventario de infraestructura industrial y minero;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 VIII. Proporcionar asistencia técnica a la pequeña y mediana industria, en coordinación con los gobiernos federal y municipales, así como con los sectores privado y social;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
 
-IX. Participar en los planes y programas que en materia financiera, fiscal, administrativa y social se requieran para lograr el fortalecimiento de los sectores industrial, comercial, turístico, minero y demás sectores productivos;
+IX. Participar en los planes y programas que en materia financiera, fiscal, administrativa y social se requieran para lograr el fortalecimiento de los sectores industrial, comercial, minero y demás sectores productivos;
 
 > <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
@@ -885,45 +887,29 @@ XIII. Promover la participación de los empresarios en la creación de centros d
 
 XIV. Proponer acciones y alternativas de solución a la problemática que enfrenta el comercio organizado, conjuntamente con las autoridades federales y municipales y el sector comercio;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+XV. (DEROGADA, P.O. 28 DE MAYO DE 2022)
 
-XV. Diseñar estrategias e instrumentos de promoción para que el turismo del Estado tenga difusión a nivel nacional e internacional;
+XVI. (DEROGADA, P.O. 28 DE MAYO DE 2022)
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+XVII. (DEROGADA, P.O. 28 DE MAYO DE 2022)
 
-XVI. Coordinar la participación de los sectores público, social y privado en las acciones orientadas a la identificación, creación, conservación, mejoramiento y uso adecuado de los recursos naturales, históricos y culturales de interés turístico en el Estado;
+XVIII. (DEROGADA, P.O. 28 DE MAYO DE 2022)
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+XIX. (DEROGADA, P.O. 28 DE MAYO DE 2022)
 
-XVII. Coordinar las gestiones encaminadas a dotar a las localidades turísticas de infraestructura de comunicaciones y apoyar los servicios públicos y de equipamiento urbano necesarios;
+XX. (DEROGADA, P.O. 28 DE MAYO DE 2022)
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+XXI. (DEROGADA, P.O. 28 DE MAYO DE 2022)
 
-XVIII. Instrumentar el sistema de información turística estatal, para promover nacional e internacionalmente los destinos turísticos locales;
-
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
-XIX. Otorgar la asistencia técnica que en materia turística requieran los prestadores de estos servicios;
-
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
-XX. Diseñar proyectos turísticos que involucren directamente a los pobladores en las actividades de inversión para el desarrollo de las regiones;
-
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
-XXI. Fomentar el turismo ecológico promoviendo para tal efecto el cuidado y la preservación del ambiente natural;
-
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-XXII. Crear y formular programas para el desarrollo de productos, rutas y circuitos turísticos en el Estado, así como instaurar y participar en las ferias y exposiciones regionales, nacionales e internacionales que se lleven a cabo para promover el turismo de la Entidad.
+XXII. (DEROGADA, P.O. 28 DE MAYO DE 2022)
 
 > <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
 XXIII. Ejercer las atribuciones derivadas de los convenios que en materia de desarrollo económico celebre el Gobierno del Estado con el Gobierno Federal o con los Municipios de la Entidad, así como con instituciones y personas morales públicas y privadas.
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
 
-XXIV. Dirigir y vigilar el cumplimiento de la Ley de Desarrollo y Fomento Económico para el Estado de Chihuahua, así como de las demás leyes y disposiciones en materia de industria, comercio, turismo y demás actividades productivas.
+XXIV. Dirigir y vigilar el cumplimiento de la Ley de Desarrollo y Fomento Económico para el Estado de Chihuahua, así como de las demás leyes y disposiciones en materia de industria, comercio y demás actividades productivas.
 
 > <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1867,6 +1853,44 @@ XXVIII. Generar los insumos tangibles e intangibles necesarios para la profesion
 
 XXIX. Las demás que le atribuyan expresamente las leyes o reglamentos.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2022)</small>
+
+ARTICULO 35 SEXIES. A la Secretaría de Turismo corresponde el despacho de los siguientes asuntos:
+
+I. Diseñar, implementar y supervisar las políticas públicas en materia turística en el Estado.
+
+II. Diseñar estrategias e instrumentos de promoción para que el turismo del Estado tenga difusión a nivel nacional e internacional.
+
+III. Coordinar la participación de los sectores público, social y privado en las acciones orientadas a la identificación, creación, conservación, mejoramiento y uso adecuado de los recursos naturales, históricos y culturales de interés turístico en el Estado.
+
+IV. Coordinar las gestiones encaminadas a dotar a las localidades turísticas de infraestructura de comunicaciones y apoyar los servicios públicos y de equipamiento urbano necesarios.
+
+V. Instrumentar el sistema de información turística estatal, para promover nacional e internacionalmente los destinos turísticos locales.
+
+VI. Otorgar la asistencia técnica que en materia turística requieran los prestadores de estos servicios.
+
+VII. Fomentar el turismo ecológico, promoviendo para tal efecto el cuidado y la preservación del ambiente natural.
+
+VIII. Crear y formular programas para el desarrollo de productos, rutas y circuitos turísticos en el Estado, así como instaurar y participar en las ferias y exposiciones regionales, nacionales e internacionales que se lleven a cabo para promover el turismo de la Entidad.
+
+IX. Planear y organizar proyectos, así como programas turísticos que involucren directamente a los habitantes de cada región en las actividades de inversión para el desarrollo de las mismas.
+
+X. Coordinar la participación de los sectores público, social y privado en las acciones orientadas a la identificación, creación, conservación, mejoramiento y uso adecuado de los recursos naturales, históricos y culturales de interés turístico en el Estado.
+
+XI. Promover la inversión nacional e internacional en el desarrollo turístico del Estado.
+
+XII. Coordinar con las instituciones de gobierno del orden federal, estatal o municipal, así como con otros entes públicos o privados, las actividades cuyo propósito sea fortalecer o promover el turismo.
+
+XIII. Impulsar la creación, desarrollo y establecimiento de empresas y negocios relacionados con el sector turístico, en coordinación con otras dependencias públicas, federales, estatales o municipales; con enfoque a las micro, pequeñas y medianas empresas, emprendedores e industrias creativas y de tecnologías.
+
+XIV. Implementar estrategias y acciones que atraigan más y nuevos eventos para la generación de derrama económica, y que incrementen la afluencia de turistas, propiciando condiciones de respeto a los derechos humanos de igualdad y la no discriminación con las autoridades competentes de los diferentes órganos de gobierno.
+
+XV. Formular y ejecutar los programas de educación, investigación, profesionalización, competencias laborales, formación, capacitación y tutoría, así como actualización de recursos humanos en materia turística.
+
+XVI. Incentivar la formación y profesionalización del personal que requiera la actividad turística, con el objeto de mejorar la calidad y competitividad de los servicios turísticos.
+
+XVII. Las demás que le atribuyan expresamente las leyes, reglamentos y demás disposiciones normativas.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 36.
@@ -1911,9 +1935,41 @@ g) Atender a las personas invitadas especiales que instruya la persona titular d
 
 h) Las demás que le asignen las leyes, reglamentos o decretos, así como las que le indique la persona titular del Poder Ejecutivo.
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE MAYO DE 2022)</small>
 
-III. La Representación del Gobierno del Estado de Chihuahua en la Ciudad de México.
+III. La Representación del Gobierno del Estado de Chihuahua en la Ciudad de México, la cual tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2022)</small>
+
+a) Fungir como representante, enlace facilitador y de gestión entre la persona titular del Poder Ejecutivo y las diversas instancias del orden federal, internacional, entidades federativas, sociedad civil organizada o cualquier otro organismo que requiera atención del Gobierno del Estado de Chihuahua en la Ciudad de México.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2022)</small>
+
+b) Contribuir a fortalecer la buena gestión de gobierno, desarrollo e inversión del Estado mediante mecanismos y estrategias de vinculación con diversos actores institucionales del sector público, privado, sociedad civil organizada o cualquier otro organismo que requiera la atención del Gobierno del Estado en la Ciudad de México.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2022)</small>
+
+c) Brindar, en el marco de sus atribuciones, apoyo logístico en la Ciudad de México, a las dependencias y entidades del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2022)</small>
+
+d) Organizar y apoyar la integración y participación ciudadana de la comunidad chihuahuense radicada en la Ciudad de México y vincularla con las autoridades estatales.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2022)</small>
+
+e) Fortalecer la presencia e imagen del Gobierno del Estado, dentro de la Ciudad de México, en los aspectos políticos, económicos, financieros, culturales, turísticos y deportivos.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2022)</small>
+
+f) Representar al Gobierno del Estado en cualquier evento desarrollado en la Ciudad de México.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2022)</small>
+
+g) Coadyuvar en la organización y coordinación de la agenda pública de la persona titular del Poder Ejecutivo en la Ciudad de México.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2022)</small>
+
+h) Las demás que le asignen las leyes, reglamentos o decretos, así como las que le indique la persona titular del Poder Ejecutivo.
 
 > <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2018)</small>
 
@@ -3458,3 +3514,39 @@ Las y los servidores públicos que pasen a formar parte de otra área o dependen
 ###### ARTÍCULO UNDÉCIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/RFLEY/0250/2022 II P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA Y LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las dependencias cuyas funciones se modifican en virtud del presente Decreto, realizarán los trámites de entrega recepción que procedan para transmitir los documentos, archivos, bienes, recursos humanos y materiales, de conformidad con las disposiciones en la materia.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Innovación y Desarrollo Económico y la Secretaría de Hacienda deberán realizar los ajustes orgánicos y presupuestarios para trasladar a la estructura orgánica o sectorización de la Secretaría creada mediante el presente Decreto, a las áreas existentes, y en su caso a las entidades paraestatales sectorizadas a la Secretaría de Innovación y Desarrollo Económico, que cuenten con competencia en materia turística.
+
+###### ARTÍCULO CUARTO.
+
+Se autoriza a la Secretaría de Hacienda a llevar a cabo los ajustes programáticos y presupuestarios derivados del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Las y los servidores públicos adscritos a la Secretaría de Innovación y Desarrollo Económico que pasen a formar parte de la Secretaría de Turismo, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO SEXTO.
+
+Las menciones contenidas en otras disposiciones legales, respecto de las instancias gubernamentales cuyas funciones, atribuciones, derechos u obligaciones se reforman en virtud del presente Decreto, se entenderán referidas a aquellas que reciben según las transferencias respectivas.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su despacho por la instancia o unidad administrativa que resulte competente en virtud de este.
+
+###### ARTÍCULO OCTAVO.
+
+El Poder Ejecutivo del Estado deberá realizar las adecuaciones necesarias a los reglamentos interiores de las dependencias que modifican sus atribuciones en virtud del presente Decreto.
