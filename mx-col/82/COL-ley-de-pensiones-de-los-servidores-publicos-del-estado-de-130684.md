@@ -4,7 +4,7 @@ identifier: "COL-ley-de-pensiones-de-los-servidores-publicos-del-estado-de-13068
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-28"
-last_updated: "2021-12-18"
+last_updated: "2022-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PENSIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2022.
 
 Ley publicada en la Edición Especial Extraordinaria del Periódico Oficial del Estado de Colima, el viernes 28 de septiembre de 2018.
 
@@ -433,37 +433,67 @@ Integración del órgano de gobierno denominado Consejo Directivo
 
 1. El Consejo Directivo del Instituto será la autoridad suprema y estará integrado de la siguiente manera:
 
-I. El Secretario de Administración y Gestión Pública del Poder Ejecutivo, quien fungirá como Presidente del Instituto;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
 
-II. El Secretario de Planeación y Finanzas del Poder Ejecutivo;
+I. La persona titular de la Secretaría de Planeación, Finanzas y Administración del Poder Ejecutivo, quien fungirá en el cargo de la Presidencia del Instituto;
 
-III. El Presidente de la Comisión de Gobierno Interno y Acuerdos Parlamentarios del Congreso del Estado;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
 
-IV. El Magistrado Presidente del Supremo Tribunal de Justicia del Estado;
+II. La persona titular de la Subsecretaría de Administración del Poder Ejecutivo;
 
-V. El Secretario General de la Unión de Sindicatos de Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
 
-VI. El Secretario General de la Federación de Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima;
+III. La persona titular de la Presidencia de la Junta de Gobierno y Coordinación Política del Congreso del Estado de Colima;
 
-VII. El Secretario General del Sindicato de Trabajadores al Servicio del Gobierno del Estado de Colima;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
 
-VIII. El Secretario General del Sindicato Nacional de los Trabajadores de la Educación, sección 39;
+IV. La persona que ocupe la Presidencia del Supremo Tribunal de Justicia del Estado de Colima;
 
-IX. El Director General del Instituto, quien fungirá como Secretario Ejecutivo;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
 
-X. Tres representantes del total de los municipios adheridos al Instituto, elegidos de común acuerdo entre ellos por mayoría de votos con valor diferenciado en proporción al número de servidores públicos que cada una afilie a ese organismo; y
+V. La persona titular de la Secretaría General de la Unión de Sindicatos de Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima;
 
-XI. Un representante común de los órganos estatales autónomos previstos por la Constitución Política del Estado Libre y Soberano de Colima.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
+
+VI. La persona titular de la Secretaría General de la Federación de Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
+
+VII. La persona titular de la Secretaría General del Sindicato de Trabajadores al Servicio del Gobierno del Estado de Colima;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
+
+VIII. La persona titular de la Secretaría General del Sindicato Nacional de los Trabajadores de la Educación, sección 39;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
+
+IX. La persona titular de la Dirección General del Instituto, quien fungirá en el cargo de la Secretaría Ejecutiva;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
+
+X. Tres representantes del total de los municipios adheridos al Instituto, elegidos de común acuerdo entre ellos por mayoría de votos con valor diferenciado en proporción al número de las personas servidoras públicas que cada una afilie a ese organismo; y
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
+
+XI. Una persona representante común de los órganos estatales autónomos previstos por la Constitución Política del Estado Libre y Soberano de Colima.
 
 2. Los miembros del Consejo Directivo tendrán derecho a voz y voto.
 
-3. El Presidente del Consejo Directivo, tendrá voto de calidad en caso de empate en las votaciones.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2022)</small>
 
-4. Los representantes comunes a que se refiere este artículo, deberán ser electos de común acuerdo entre los municipios y órganos estatales autónomos cada año antes del 15 de enero. En caso de empate, el Presidente del Consejo Directivo tendrá el voto de calidad.
+3. A la persona titular del Consejo Directivo, tendrá voto de calidad en caso de empate en las votaciones.
 
-5. En el caso de los organismos descentralizados de la Administración Pública, estarán representados por los Secretarios de Despacho del Poder Ejecutivo que forman parte del Consejo Directivo en el caso de los Estatales, y por los representantes de los municipios en el caso de los organismos de ese nivel de gobierno.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2022)</small>
 
-6. Los integrantes del Consejo Directivo tendrán la facultad de designar a su respectivo representante y suplente ante el mismo.
+4. Las personas representantes comunes a que se refiere este artículo, deberán ser electas de común acuerdo entre los municipios y órganos estatales autónomos cada año antes del 15 de enero. En caso de empate, la Presidencia del Consejo Directivo tendrá el voto de calidad.
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
+
+5. En el caso de los organismos descentralizados de la Administración Pública, estarán representados por las personas Secretarias de Despacho del Poder Ejecutivo que forman parte del Consejo Directivo en el caso de los Estatales, y por las personas representantes de los municipios en el caso de los organismos de ese nivel de gobierno.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2022)</small>
+
+6. Las personas integrantes del Consejo Directivo tendrán la facultad de designar a su respectivo representante y suplente ante el mismo.
 
 ###### Artículo 36.
 
@@ -671,17 +701,25 @@ IX. Conocer los resultados de las valuaciones actuariales y, en su caso, propone
 
 X. Las demás que establezca esta Ley y sus Reglamentos.
 
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 28 DE MAYO DE 2022)</small>
+
 ###### Artículo 48.
 
-Atribuciones del Director General del Instituto
+Atribuciones de la persona titular de la Dirección General del Instituto:
 
-1. El Director General del Instituto tendrá las atribuciones siguientes:
+> <small>(REFORMADO, P.O.28 DE MAYO DE 2022)</small>
+
+1. La persona titular de la Dirección General del Instituto tendrá las atribuciones siguientes:
 
 I. Administrar el Instituto;
 
-II. Registrar a los servidores públicos de las Entidades Públicas Patronales;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
 
-III. Integrar un expediente de cada uno de los afiliados al Instituto, que deberá contener la información necesaria para los efectos de esta Ley;
+II. Registrar a las personas servidoras públicas de las Entidades Públicas Patronales;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
+
+III. Integrar un expediente de cada uno de las personas afiliadas al Instituto, que deberá contener la información necesaria para los efectos de esta Ley;
 
 IV. Ejecutar los acuerdos del Consejo Directivo y de los Comités Técnicos de Administración;
 
@@ -701,7 +739,9 @@ XI. Proponer al Consejo Directivo y, una vez autorizadas, practicar revisiones d
 
 XII. Dar a conocer a las Entidades Públicas Patronales los hechos u omisiones imputables a éstas, conocidos con motivo del ejercicio de las facultades de comprobación, a través de la emisión del oficio de observaciones dentro de la revisión que se les esté practicando;
 
-XIII. Designar a los visitadores, auditores, notificadores y demás personal para que intervenga en la práctica de actos relacionados con el ejercicio de las facultades de comprobación previstas en la presente Ley;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
+
+XIII. Designar a las personas visitadoras, auditoras, notificadoras y demás personal para que intervenga en la práctica de actos relacionados con el ejercicio de las facultades de comprobación previstas en la presente Ley;
 
 XIV. Expedir las constancias de identificación del personal adscrito al Instituto, encargado de llevar a cabo el ejercicio de las facultades de comprobación;
 
@@ -725,7 +765,9 @@ XXIII. Habilitar días y horas inhábiles para la práctica de diligencias de no
 
 XXIV. Solicitar el auxilio de la fuerza pública para llevar a cabo el Procedimiento Administrativo de Ejecución;
 
-XXV. Designar a los peritos que se requieran para la valuación de los bienes embargados;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
+
+XXV. Designar a las personas peritas que se requieran para la valuación de los bienes embargados;
 
 XXVI. Embargar precautoriamente bienes para asegurar los intereses del Instituto, cuando se den los supuestos y conforme al procedimiento previsto en el Código;
 
@@ -743,7 +785,9 @@ XXXII. Recaudar y administrar las aportaciones, cuotas, los recursos proveniente
 
 XXXIII. Informar al Consejo Directivo, del resultado de la evaluación actuarial que se haga de la viabilidad financiera del sistema de pensiones, con base en la elaboración de estudios actuariales por cada Cuenta Institucional;
 
-XXXIV. Solicitar a la Secretaría de Planeación y Finanzas su intervención para el ejercicio de las facultades de comprobación, así como el cobro de los créditos fiscales determinados en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
+
+XXXIV. Solicitar a la Secretaría de Planeación, Finanzas y Administración su intervención para el ejercicio de las facultades de comprobación, así como el cobro de los créditos fiscales determinados en los términos de esta Ley;
 
 XXXV. Ejercer, previa autorización del Consejo Directivo, las acciones legales en contra de las Entidades Públicas Patronales que se encuentren en estado de mora;
 
@@ -777,7 +821,9 @@ XLIX. Informar al Consejo Directivo dentro del primer bimestre del siguiente eje
 
 L. Remitir oportunamente a la Comisión de Vigilancia, copia del informe general de actividades que presente al Consejo Directivo, para los efectos previstos en la fracción VI, del artículo 51 de la presente Ley;
 
-LI. Designar y suscribir los nombramientos de los funcionarios y empleados del Instituto, y delegar en ellos las funciones de acuerdo con el Reglamento Interior del Instituto;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
+
+LI. Designar y suscribir los nombramientos de las personas funcionarias y empleadas, y delegar en ellas las funciones de acuerdo con el Reglamento Interior del Instituto;
 
 LII. Celebrar convenios, contratos y acuerdos con los sectores público, privado y social, que sean necesarios para la consecución del objeto de esta Ley; y
 
@@ -787,19 +833,27 @@ LIII. Las demás que establezca esta Ley y sus Reglamentos, que le permitan cump
 
 Requisitos para ser Director General del Instituto
 
-1. Para ser Director General se requiere:
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2022)</small>
 
-I. Ser ciudadano mexicano;
+1. Para ser Directora o Director General se requiere:
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
+
+I. Ser persona ciudadana mexicana;
 
 II. Tener al menos 30 años de edad al día de su nombramiento;
 
-III. Contar con al menos título y cédula profesional a nivel licenciatura en carrera de administración, contaduría, finanzas, actuaría o afín;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
+
+III. Contar con al menos título y cédula profesional a nivel licenciatura preferentemente en carrera de administración, contaduría, finanzas, actuaría o afín;
 
 IV. Gozar de buena reputación;
 
 V. Contar con experiencia financiera de 5 años acreditable;
 
-VI. No haber sido inhabilitado para ejercer cargos públicos; y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
+
+VI. No haber sido persona inhabilitada para ejercer cargos públicos; y
 
 VII. Carecer de antecedentes penales por delitos patrimoniales.
 
@@ -1144,6 +1198,10 @@ Integración del expediente de pensión y plazo de resolución de la misma. Publ
 Acreditación de vigencia de derechos por subsistencia del acreedor de una pensión
 
 1. Para la conservación de la pensión, el Instituto determinará, a través de su Consejo Directivo, los plazos para que los pensionados y beneficiarios comparezcan o acrediten a través de los medios o instrumentos que se autoricen, su vigencia de derechos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE MAYO DE 2022)</small>
+
+Para tal efecto, el Instituto debe establecer procedimientos ágiles, sencillos y con un enfoque de derechos y calidad de vida, a efecto de propiciar el bienestar y desarrollo humano de sus pensionados, pudiendo utilizar para ello, las herramientas de la tecnología y convenios institucionales con los diversos entes de la Administración Estatal.
 
 ###### Artículo 85.
 
@@ -2298,3 +2356,13 @@ P.O. 18 DE DICIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su aprobación por el Poder Legislativo del Estado de Colima, y permanecerá vigente hasta el 31 de diciembre de 2021.
+
+P.O. 28 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 94.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PENSIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- La Titular del Ejecutivo del Estado dentro de los ciento ochenta días siguientes a la entrada en vigor del presente decreto, adecuará el reglamento de la Ley de Pensiones de los Servidores Públicos del Estado de Colima, con respecto al contenido del presente decreto.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
