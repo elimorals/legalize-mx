@@ -4,7 +4,7 @@ identifier: "NAY-ley-laboral-burocratica-del-estado-de-nayarit-136466"
 country: "mx"
 rank: "ley"
 publication_date: "2019-05-31"
-last_updated: "2022-04-12"
+last_updated: "2022-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY LABORAL BUROCRATICA DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE DERECHOS Y JUSTICIA LABORAL PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 28 DE MAYO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY LABORAL BUROCRÁTICA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2022 (ABROGADA).
 
 Ley publicada en la Sección Tercera del Número 106 del Periódico Oficial del Estado de Nayarit, el viernes 31 de mayo de 2019.
 
@@ -3520,3 +3522,29 @@ P.O. 12 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA LOS PÁRRAFOS TERCERO Y CUARTO, RECORRIENDO EN SU ORDEN EL ACTUAL PÁRRAFO TERCERO AL QUINTO, DEL ARTÍCULO 101 DE LA LEY LABORAL BUROCRÁTICA DEL ESTADO DE NAYARIT”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 28 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE EMITE LA LEY DE DERECHOS Y JUSTICIA LABORAL PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE NAYARIT".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se abroga la Ley Laboral Burocrática del Estado de Nayarit, publicada el 31 de mayo de 2019 y demás disposiciones legales y reglamentarias que se opongan a la presente ley.
+
+TERCERO. Los recursos materiales, humanos y financieros, y en general, el patrimonio con que actualmente cuenta el Instituto creado al amparo de la ley que se abroga conforme al transitorio segundo, pasarán de manera automática a formar para (sic) del patrimonio del Instituto creado conforme a esta ley.
+
+Los órganos, unidades y demás áreas administrativas que actualmente se encuentren en funciones y que modifiquen su configuración orgánica interna con la entrada en vigor de la presente ley, seguirán desarrollando sus funciones y atribuciones hasta en tanto se emita el Reglamento Interior.
+
+CUARTO. Los procedimientos que a la entrada en vigor de la presente ley se encuentren en trámite o en proceso de ejecución continuarán rigiéndose hasta su conclusión conforme a la norma vigente con la que se iniciaron, quedando facultados los Presidentes de las Salas Laborales del Instituto que se crea con esta ley para continuar dichos procesos hasta su conclusión aplicando en lo correspondiente las disposiciones de aquellas normas.
+
+QUINTO. El Presidente del Instituto, los Presidentes de las Salas Laborales y el Director General de la Unidad de Medios Alternos de Solución de Conflictos en Materia Laboral, designados conforme a la ley que se abroga en términos del artículo segundo transitorio durarán en su cargo por única ocasión por el tiempo que fueron designados.
+
+El Presidente del Instituto podrá ser ratificado por un periodo adicional de tres años en los términos de la presente Ley.
+
+SEXTO. Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de la presente ley todos los Entes Públicos deberán expedir su respectivo reglamento de escalafón e informar y remitir al Instituto un ejemplar del mismo.
+
+De igual manera, dentro del plazo señalado en el párrafo anterior deberá cada Ente Público conformar su respectiva Comisión Mixta de Escalafón.
+
+SÉPTIMO. El reglamento de esta ley y demás regulación normativa que con base a la misma deban emitir los Entes Públicos, deberá expedirse dentro de los ciento ochenta días naturales siguientes a su entrada en vigor.
+
+OCTAVO.- En un término de treinta días hábiles a la entrada en vigor de esta Ley, se deberá instalar el Consejo Técnico y de Administración. Hasta en tanto, la Junta de Gobierno, podrá desempeñar las funciones del Consejo Técnico y de Administración, las acciones llevadas a cabo durante este periodo, tendrán plena validez jurídica.
