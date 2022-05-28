@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-salud-del-estado-de-tabasco-71585"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-12"
-last_updated: "2020-08-21"
+last_updated: "2022-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE SALUD DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2022.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de diciembre de 2009.
 
@@ -1393,13 +1393,21 @@ La educación para la salud tiene por objeto:
 
 I. Fomentar en la población el desarrollo de actitudes, capacidades y conductas que permitan participar en la prevención de enfermedades individuales, colectivas y accidentes, y proteger los riesgos que pongan en peligro su salud;
 
-II. Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2010)</small>
+II. Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud;
 
-III. Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud visual, salud auditiva, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgo de automedicación, prevención de farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades, especialmente la hipertensión, diabetes, dislipidemias, y padecimientos oncológicos.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
 
-Tratándose de las comunidades indígenas, los programas a los que se refiere el párrafo anterior, deberán difundirse en español y la lengua o lenguas indígenas que correspondan.
+III. Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud visual, salud auditiva, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgo de automedicación, prevención de farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades, especialmente la hipertensión, diabetes, dislipidemias, y padecimientos oncológicos; y
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2022)</small>
+
+IV. La educación para la cultura de la donación de órganos, tejidos y transfusión de sangre.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2022)</small>
+
+Tratándose de las comunidades indígenas, las acciones a que se refiere este artículo, deberán difundirse en español y la lengua o lenguas indígenas que correspondan.
 
 ###### ARTÍCULO 156.
 
@@ -2247,9 +2255,9 @@ La cultura de donación de órganos y tejidos es de interés público. El gobier
 
 La Secretaría de Salud promoverá la cultura de donación y trasplantes de órganos mediante propaganda informativa y pondrá a disposición del público en general, los formatos de manifestación expresa de donación de órganos en el Centro Estatal de Trasplantes y en sus módulos de atención ciudadana.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2022)</small>
 
-La Secretaría de Salud, en coordinación con las demás dependencias y entidades de gobierno, u otros entes públicos desarrollará programas y acciones de información, promoción y difusión de la cultura de donación de órganos, tejidos y células.
+La Secretaría de Salud, en coordinación con las demás dependencias y entidades de gobierno u otros entes públicos, desarrollará programas y acciones de información, promoción y difusión de la cultura de donación de órganos, tejidos y células, e implementará mecanismos para impulsar el fomento a la cultura de la donación al momento de la realización de trámites públicos o la obtención de documentos oficiales.
 
 ### CAPÍTULO II. DONACION Y TRASPLANTE
 
@@ -4170,3 +4178,11 @@ P.O. 21 DE AGOSTO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan al presente Decreto.
+
+P.O. 28 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 069 POR EL QUE “SE REFORMAN LAS FRACCIONES II Y III, Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 155, EL PÁRRAFO TERCERO DEL ARTÍCULO 243; Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 155 DE LA LEY DE SALUD DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
