@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-turismo-del-estado-de-chihuahua-87899"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-19"
-last_updated: "2022-01-05"
+last_updated: "2022-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TURISMO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2022.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de mayo de 2012.
 
@@ -47,11 +47,11 @@ LEY DE TURISMO DEL ESTADO DE CHIHUAHUA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2022)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y de observancia general en el Estado de Chihuahua, correspondiendo su aplicación al Ejecutivo Estatal, a través de la Secretaría de Innovación y Desarrollo Económico, siendo este instrumento el marco legal para la promoción del desarrollo de la actividad y vocación turística en el Estado.
+La presente Ley es de orden público, interés social y de observancia general en el Estado de Chihuahua, correspondiendo su aplicación al Ejecutivo Estatal, a través de la Secretaría de Turismo, siendo este instrumento el marco legal para la promoción del desarrollo de la actividad y vocación turística en el Estado.
 
 Los municipios, en el ámbito de sus respectivas competencias, expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes para garantizar la aplicación del presente ordenamiento.
 
@@ -97,9 +97,9 @@ XIII. Reglamento: El de la Ley de Turismo del Estado de Chihuahua.
 
 XIV. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2021)
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2022)</small>
 
-XV. Secretaría: La Secretaría de Innovación y Desarrollo Económico del Gobierno del Estado de Chihuahua.
+XV. Secretaría: La Secretaría de Turismo del Gobierno del Estado de Chihuahua.
 
 XVI. Servicios Turísticos: Los dirigidos a atender las solicitudes de los turistas a cambio de una contraprestación, como el alojamiento, alimentación, renta de equipo, etc., en apego con lo dispuesto por esta Ley y su Reglamento.
 
@@ -445,7 +445,7 @@ La Secretaría, en conjunto con el Municipio que corresponda, formulará los pro
 
 Ruta Turística es un circuito temático o geográfico que se basa en el patrimonio natural o cultural de una zona y se marca sobre el terreno o aparece en los mapas.
 
-Compete a la Secretaría determinar y establecer reglas y procedimientos para la creación, operación y mantenimiento de las rutas turísticas del sotol, nuez, manzana, vino, queso y las demás que se determinen con la participación de los diversos sectores de turismo, academias, sociedad civil y Ayuntamientos.
+Compete a la Secretaría determinar y establecer reglas y procedimientos para la creación, operación y mantenimiento de las rutas turísticas del sotol, nuez, manzana, vino, queso y los demás que se determinen con la participación de los diversos sectores de turismo, academias, sociedad civil y Ayuntamientos.
 
 > <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
@@ -461,7 +461,7 @@ Asimismo, la Secretaría instalará módulos turísticos en los que se facilite 
 
 ###### Artículo 37.
 
-La Secretaría formulará los programas y convenios de promoción y fomento turístico a fin de proteger, mejorar, incrementar y difundir el patrimonio y los servicios turísticos que ofrece el Estado de Chihuahua, para alentar la afluencia turística de conformidad con las disposiciones legales aplicables y con la intervención de las autoridades competentes.
+La Secretaría formulará los programas y conveníos de promoción y fomento turístico a fin de proteger, mejorar, incrementar y difundir el patrimonio y los servicios turísticos que ofrece el Estado de Chihuahua, para alentar la afluencia turística de conformidad con las disposiciones legales aplicables y con la intervención de las autoridades competentes.
 
 ###### Artículo 38.
 
@@ -776,3 +776,39 @@ P.O. 5 DE ENERO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVII/RFLEY/0250/2022 II P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA Y LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las dependencias cuyas funciones se modifican en virtud del presente Decreto, realizarán los trámites de entrega recepción que procedan para transmitir los documentos, archivos, bienes, recursos humanos y materiales, de conformidad con las disposiciones en la materia.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Innovación y Desarrollo Económico y la Secretaría de Hacienda deberán realizar los ajustes orgánicos y presupuestarios para trasladar a la estructura orgánica o sectorización de la Secretaría creada mediante el presente Decreto, a las áreas existentes, y en su caso a las entidades paraestatales sectorizadas a la Secretaría de Innovación y Desarrollo Económico, que cuenten con competencia en materia turística.
+
+###### ARTÍCULO CUARTO.
+
+Se autoriza a la Secretaría de Hacienda a llevar a cabo los ajustes programáticos y presupuestarios derivados del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Las y los servidores públicos adscritos a la Secretaría de Innovación y Desarrollo Económico que pasen a formar parte de la Secretaría de Turismo, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO SEXTO.
+
+Las menciones contenidas en otras disposiciones legales, respecto de las instancias gubernamentales cuyas funciones, atribuciones, derechos u obligaciones se reforman en virtud del presente Decreto, se entenderán referidas a aquellas que reciben según las transferencias respectivas.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su despacho por la instancia o unidad administrativa que resulte competente en virtud de este.
+
+###### ARTÍCULO OCTAVO.
+
+El Poder Ejecutivo del Estado deberá realizar las adecuaciones necesarias a los reglamentos interiores de las dependencias que modifican sus atribuciones en virtud del presente Decreto.
