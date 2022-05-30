@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2022-01-03"
+last_updated: "2022-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2022.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -3826,6 +3826,12 @@ Los responsables de las casas de asistencia, ya sean públicas o privadas, donde
 ###### Artículo 516.
 
 Los responsables de las casas de asistencia, ya sean públicas o privadas, donde se reciban menores que hayan sido objeto de violencia familiar a que se refiere el Artículo 347 Ter de este ordenamiento, tendrá la custodia de éstos en los términos que prevengan las leyes y los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2022)</small>
+
+###### Artículo 516 Bis.
+
+Cuando la guarda y custodia del menor recaiga en una casa de asistencia pública, será el Sistema para el Desarrollo Integral de la Familia, a través de la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes, tal como lo establece la Ley General de los Derechos de Niñas, Niños y Adolescentes, en su artículo 26 fracción II; quien podrá otorgar como medida de protección una Familia de Acogida.
 
 ### CAPITULO VI.
 
@@ -17560,3 +17566,15 @@ P.O. 3 DE ENERO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 132.- SE ADICIONA EL ARTÍCULO 516 BIS DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentos que se opongan al mismo.
