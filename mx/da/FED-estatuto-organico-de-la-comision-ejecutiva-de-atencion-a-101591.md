@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-ejecutiva-de-atencion-a-101591
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-06-27"
-last_updated: "2018-12-20"
+last_updated: "2022-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101591&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-05-27"
 ---
 # ESTATUTO ORGANICO DE LA COMISION EJECUTIVA DE ATENCION A VICTIMAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS, PUBLICADO EN EL D.O.F. DE 30 DE MAYO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MAYO DE 2022 (ABROGADO).
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 27 de junio de 2014.
 
@@ -1596,3 +1598,17 @@ D.O.F. 20 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS".]
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS”.]
+
+Primero. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga el Estatuto Orgánico de la Comisión Ejecutiva de Atención a Víctimas, publicado en el Diario Oficial de la Federación el 27 de junio de 2014 y, sus reformas publicadas en el mismo medio oficial del 23 de enero de 2015, 10 de marzo de 2015, 29 de junio de 2015, 10 de noviembre de 2015, 9 de agosto de 2017 y 20 de diciembre de 2018.
+
+Tercero. Todos los actos administrativos, así como referencias hechas con antelación a la entrada en vigor del presente Estatuto Orgánico de la Comisión Ejecutiva de Atención a Víctimas referentes a la Dirección General de Atención Inmediata y Primer Contacto se entenderán que son hechas a la Dirección General de Atención y Acompañamiento; las correspondientes a las (sic) Dirección General de Políticas Públicas, Capacitación e Investigación a la Dirección General de Políticas Públicas, Planeación y Evaluación; las correspondientes a la Dirección General del Fondo de Ayuda, Asistencia y Reparación Integral se entenderán hechas a la Dirección General de Administración y Finanzas, y las correspondientes a la Dirección General de Vinculación Interinstitucional a la Coordinación de Vinculación Estratégica para los efectos legales a que haya lugar.
+
+Cuarto. La Dirección General de Asuntos Jurídicos realizará la inscripción del presente Estatuto Orgánico en el Registro Público de Organismos Descentralizados en términos de lo señalado en el artículo 15 de la Ley Federal de las Entidades Paraestatales.
+
+El Estatuto Orgánico de la Comisión Ejecutiva de Atención a Víctimas fue aprobada por la Junta de Gobierno de la Comisión Ejecutiva de Atención a Víctimas, con fundamento en los artículos 84 Septies, fracción II, de la Ley General de Víctimas, y 58, fracción VIII de la Ley Federal de las Entidades Paraestatales, en su segunda sesión ordinaria celebrada el 11 de mayo de 2022.
