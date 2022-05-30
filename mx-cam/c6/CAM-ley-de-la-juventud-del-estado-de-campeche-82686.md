@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-la-juventud-del-estado-de-campeche-82686"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-13"
-last_updated: "2018-07-23"
+last_updated: "2022-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE LA JUVENTUD DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2022.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Campeche, el miércoles 13 de julio de 2011.
 
@@ -71,7 +71,13 @@ VII. Programa: Programa Estatal de la Juventud;
 
 VIII. Sistema: Sistema Estatal de Atención a la Juventud;
 
-IX. Vulnerabilidad: Conjunto de circunstancias derivadas de los factores personales, familiares, económicos o sociales, que provocan un estado de amenaza en los jóvenes de sufrir daños físicos, psicológicos o emocionales, o cualquier otro que impida si (sic) desarrollo integral.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
+
+IX. Vulnerabilidad: Conjunto de circunstancias derivadas de los factores personales, familiares, económicos o sociales, que provocan un estado de amenaza en los jóvenes de sufrir daños físicos, psicológicos o emocionales, o cualquier otro que impida su desarrollo integral; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2022)</small>
+
+X. Parlamento: Al Parlamento de la Juventud Campechana.
 
 ### Capítulo Segundo. De los Principios Rectores
 
@@ -333,7 +339,9 @@ III. Contribuir al avance de la vida democrática del Estado participando en los
 
 IV. Mantener dentro y fuera del territorio del Estado actitudes que dignifiquen el nombre del Estado de Campeche.
 
-### Capítulo III. Del Día y del Premio Estatal de la Juventud y del Fomento a Proyectos Juveniles
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2022)</small>
+
+### Capítulo III. Del Día, Premio Estatal, Fomento a Proyectos Juveniles y Parlamento de la Juventud Campechana
 
 #### Sección Segunda. Del Fomento a Proyectos Juveniles
 
@@ -345,7 +353,9 @@ El Instituto deberá emitir y publicar la convocatoria del Premio Estatal de la 
 
 La integración del Comité de Premiación, así como las bases para su funcionamiento se determinarán en el reglamento de la presente ley.
 
-#### Sección Primera. De la Junta de Gobierno
+#### Sección Tercera. Del Parlamento de la Juventud Campechana
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2022)</small>
 
 ###### Artículo 33.
 
@@ -363,7 +373,41 @@ Las autoridades estatales competentes gestionarán, ante las autoridades fiscale
 
 El Reglamento de esta ley, deberá prever el funcionamiento y la operación de los fideicomisos y fondos.
 
-#### Sección Segunda. Del Director General
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE MAYO DE 2022)</small>
+
+#### Sección Primera. De la Junta de Gobierno
+
+###### Artículo 36 Bis.
+
+La Secretaría de Bienestar, por conducto del Instituto de la Juventud del Estado, promoverá ante el Congreso del Estado, a través de los integrantes de la Comisión de Juventud, la instalación anual del Parlamento de la Juventud Campechana, mismo que se realizará durante la primera semana del mes de agosto de cada año.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2022)</small>
+
+###### Artículo 36 Ter.
+
+El Parlamento contará con un Comité Organizador que se integrará de la siguiente manera:
+
+I. Los integrantes de la Comisión de Juventud del Congreso del Estado;
+
+II. La o el titular del Instituto de la Juventud del Estado de Campeche, en representación de la Secretaría de Bienestar del Estado; y
+
+III. Dos representantes de la sociedad civil.
+
+El Comité Organizador será presidido por la o el Presidente de la Comisión de Juventud del H. Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2022)</small>
+
+###### Artículo 36 Quáter.
+
+El Comité Organizador se encargará de establecer las bases y lineamientos de la convocatoria, selección de aspirantes, integración e instalación del Parlamento de la Juventud Campechana, procurando en todo momento que los temas de la convocatoria representen problemáticas sociales actuales y tengan impacto directo en la juventud campechana.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2022)</small>
+
+###### Artículo 36 Quinquies.
+
+El Parlamento estará integrado por 35 personas que se encuentren en el rango comprendido entre los 12 y 29 años de edad, quienes serán elegidos por el Comité Organizador en términos de la Convocatoria que al efecto se emita.
+
+En su composición se observarán el principio de paridad de género, así como la diversidad sexual, y los niveles educativos.
 
 ## Título Tercero. Del Sistema Estatal de Atención a la Juventud
 
@@ -583,7 +627,7 @@ XXVII. Las demás que le otorgue la presente ley y otros ordenamientos legales.
 
 ### Capítulo II. Órganos de Gobierno y sus Atribuciones
 
-#### Sección Tercera. Del Patrimonio del Instituto
+#### Sección Segunda. Del Director General
 
 ###### Artículo 45.
 
@@ -671,7 +715,7 @@ XIII. Cumplir y hacer cumplir las disposiciones contenidas en este ordenamiento;
 
 XIV. Las demás que señale este ordenamiento, su Reglamento y demás disposiciones aplicables.
 
-#### Sección Cuarta. De las Relaciones Laborales
+#### Sección Tercera. Del Patrimonio del Instituto
 
 ###### Artículo 52.
 
@@ -714,6 +758,8 @@ XI. Emitir y negociar títulos de crédito;
 XII. Presentar a consideración y, en su caso, aprobación de la Junta, el estatuto orgánico del Instituto, así como, el Manual de Organización General y los correspondientes de Procedimientos y servicios al público del Instituto; y
 
 XIII. Las demás que le confieran esta ley, su Reglamento Interior y demás disposiciones jurídicas aplicables.
+
+#### Sección Cuarta. De las Relaciones Laborales
 
 ###### Artículo 54.
 
@@ -866,3 +912,13 @@ P.O. 23 DE JULIO DE 2018.
 PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial el Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía, en todo lo que se opongan al contenido del presente decreto.
+
+P.O. 30 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 67 POR EL QUE “SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 2; LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO SEGUNDO, PARA QUEDAR COMO “DEL DÍA, PREMIO ESTATAL, FOMENTO A PROYECTOS JUVENILES Y PARLAMENTO DE LA JUVENTUD CAMPECHANA” Y, SE ADICIONA UNA FRACCIÓN X AL ARTÍCULO 2; LA SECCIÓN TERCERA AL CAPÍTULO III DEL TÍTULO SEGUNDO, DENOMINADA “DEL PARLAMENTO DE LA JUVENTUD CAMPECHANA” CON LOS ARTÍCULOS 36 BIS, 36 TER, 36 QUÁTER Y 36 QUINQUIES, TODOS DE LA LEY DE LA JUVENTUD DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero. El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Las acciones que se deban realizar con motivo del cumplimiento del presente decreto, se sujetarán a la disponibilidad presupuestaria destinada para tal fin.
+
+Artículo Tercero. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
