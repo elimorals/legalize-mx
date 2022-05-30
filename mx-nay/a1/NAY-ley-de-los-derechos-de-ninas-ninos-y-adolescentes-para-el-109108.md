@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10910
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-08"
-last_updated: "2021-06-02"
+last_updated: "2022-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el miércoles 8 de julio de 2015.
 
@@ -106,6 +106,10 @@ VII. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
 
 VIII. Certificado de Idoneidad: Documento expedido por el Consejo Estatal de Adopciones o por el Sistema Nacional DIF en casos de adopciones internacionales;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2022)</small>
+
+VIII Bis. Crianza positiva: comportamiento de los (sic) madres, padres y tutores, con base en el interés superior de la niñez, donde se promueve la atención, el desarrollo de capacidades, el ejercicio de la no violencia, ofreciendo el reconocimiento y orientación necesaria sin dejar de contemplar el establecimiento de los limites relativos a la disciplina, los cuales permitan el pleno desarrollo de las niñas, niños y adolescentes;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
 
@@ -291,7 +295,9 @@ VII. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral
 
 VIII. Derecho a una vida libre de violencia y a la integridad personal;
 
-IX. Derecho a la protección de la salud y a la seguridad social;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
+
+IX. Derecho a la protección de la salud física y mental, y a la seguridad social;
 
 X. Derecho a la inclusión de niñas, niños y adolescentes con discapacidad;
 
@@ -617,9 +623,9 @@ IV. El tráfico de menores;
 
 V. El trabajo antes de la edad mínima de quince años, prevista en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
 
-VI. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones aplicables;
+VI. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso y la esclavitud, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones aplicables;
 
 > <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
 
@@ -649,9 +655,11 @@ Para el cumplimiento de lo dispuesto en el párrafo anterior, el Sistema Estatal
 
 ### CAPÍTULO DÉCIMO. DEL DERECHO A LA PROTECCIÓN DE LA SALUD Y A LA SEGURIDAD SOCIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2022)</small>
+
 ###### Artículo 48.
 
-Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de atención médica gratuita y de calidad de conformidad con la legislación aplicable, con el fin de prevenir, proteger y restaurar su salud. Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, en relación con los derechos de niñas, niños y adolescentes, se coordinarán a fin de:
+Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de atención médica gratuita y de calidad de conformidad con la legislación aplicable, con el fin de prevenir, proteger y restaurar su salud física y mental. Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, en relación con los derechos de niñas, niños y adolescentes, se coordinarán a fin de:
 
 I. Reducir la morbilidad y mortalidad;
 
@@ -781,9 +789,17 @@ XVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que 
 
 XIX. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente;
 
-XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación, y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
 
-XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo nacional.
+XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
+
+XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo nacional, y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2022)</small>
+
+XXII. Implementar acciones para proporcionar a las niñas, niños y adolescentes formación de inteligencia emocional.
 
 Las autoridades escolares, en el ámbito de su competencia, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
 
@@ -1113,9 +1129,17 @@ VIII. Abstenerse de cualquier atentado, castigos corporales y humillantes contra
 
 IX. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia o rechazo en las relaciones entre niñas, niños y adolescentes, y de éstos con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con los demás miembros de su familia;
 
-X. Considerar la opinión y preferencia de las niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez, y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
 
-XI. Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación.
+X. Considerar la opinión y preferencia de las niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
+
+XI. Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación, y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2022)</small>
+
+XII. Asegurar y ofrecer un entorno afectivo, comprensivo y sin violencia para el pleno y armonioso desarrollo integral, mediante el cuidado, el vínculo filial sano, relaciones no violentas, respetuosas, positivas y participativas.
 
 ###### Artículo 95.
 
@@ -1171,9 +1195,17 @@ V. Alojar y agrupar a niñas, niños y adolescentes de acuerdo a su edad y sexo 
 
 VI. Contar con espacios destinados especialmente para cada una de las actividades en las que participen niñas, niños y adolescentes;
 
-VII. Atender los requerimientos establecidos por las autoridades de protección civil, salubridad y asistencia social, y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
 
-VIII. Procurar un entorno que provea los apoyos necesarios para que niñas, niños y adolescentes con discapacidad vivan incluidos en su comunidad.
+VII. Atender los requerimientos establecidos por las autoridades de protección civil, salubridad y asistencia social;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
+
+VIII. Procurar un entorno que provea los apoyos necesarios para que niñas, niños y adolescentes con discapacidad vivan incluidos en su comunidad, y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2022)</small>
+
+IX. Establecer programas de integración familiar, así como implementar programas de formación para padres de familia, que promuevan el desarrollo de habilidades y herramientas para la educación, en el marco de una crianza positiva.
 
 Niñas, niños y adolescentes con discapacidad temporal o permanente; sin distinción entre motivo o grado de discapacidad, no podrán ser discriminados para ser recibidos o permanecer en los centros de asistencia social.
 
@@ -1922,3 +1954,9 @@ P.O. 2 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NAYARIT”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 30 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
