@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-prevencion-social-de-la-violencia-y-la-103941"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-28"
-last_updated: "2014-11-28"
+last_updated: "2022-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2022.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el viernes 28 de noviembre de 2014.
 
@@ -125,13 +125,25 @@ I. Programas integrales de desarrollo social, cultural, económico y urbano que 
 
 II. Promoción de estrategias y actividades para disminuir y erradicar la marginación y la exclusión;
 
-III. Fomento a la cultura de paz;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
 
-IV. Estrategias de educación y sensibilización a la población para promover una cultura de la legalidad y tolerancia, con respeto a las diversas identidades culturales. Realizar las acciones necesarias para integrar programas generales y aquellos enfocados a zonas y grupos de atención prioritaria;
+III. Fomento a la cultura de la paz, así como a la solución pacífica de conflictos, privilegiando la comunicación a través del diálogo, la tolerancia y el principio de no discriminación;
 
-V. Programas que modifiquen las condiciones sociales de la comunidad y generen oportunidades de desarrollo especialmente para las zonas y grupos de atención prioritaria; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
 
-VI. Las demás que se acuerden en el Reglamento y en el seno del Consejo Estatal.
+IV. Estrategias de educación y sensibilización a la población, para promover una cultura de la legalidad y tolerancia, con respeto a las diversas identidades culturales. Incluye tanto programas generales como aquéllos enfocados a grupos sociales y comunidades en altas condiciones de vulnerabilidad;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
+
+V. Programas que modifiquen las condiciones sociales de la comunidad y generen oportunidades de desarrollo, especialmente para los grupos en situación de riesgo, vulnerabilidad, marginación, o afectación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MAYO DE 2022)</small>
+
+VI. Estrategias y acciones de protección a las familias para evitar su desintegración y cualquier modalidad de violencia que la propicie, a través de la educación y el empoderamiento de todos sus miembros sin ningún tipo de discriminación; y
+
+> <small>(ADICIONADA [N. DE E. REUBIDADA], P.O. 30 DE MAYO DE 2022)</small>
+
+VII. Las demás que se acuerden en el Reglamento y en el seno del Consejo Estatal.
 
 ###### Artículo 8.
 
@@ -181,11 +193,21 @@ La prevención social en el ámbito psicosocial tiene como objetivo incidir en l
 
 I. El impulso del diseño y aplicación de programas formativos en habilidades para enfrentar la vida dirigidos principalmente a las zonas y grupos de atención prioritaria;
 
-II. La inclusión de la prevención social, con énfasis en las adicciones y en las políticas públicas en materia de educación y de salud;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
 
-III. El fortalecimiento de las capacidades institucionales que asegure la sostenibilidad de los programas preventivos; y
+II. La inclusión de la prevención de la violencia, la delincuencia y de las adicciones, principalmente de alcohol, tabaco y estupefacientes, en las políticas públicas en materia de educación, a través de la difusión de contenidos tendientes a disminuirlas;
 
-IV. Las demás que se acuerden en el Reglamento y en el seno del Consejo Estatal.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
+
+III. El fortalecimiento de las capacidades institucionales que asegure la sostenibilidad de los programas preventivos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MAYO DE 2022)</small>
+
+IV. El fortalecimiento de las medidas de detección, prevención y atención del acoso entre niñas, niños, adolescentes y mujeres, en las escuelas y comunidades, que privilegien la retroalimentación de sus experiencias en la comunidad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE MAYO DE 2022)</small>
+
+V. Las demás que se acuerden en el Reglamento y en el seno del Consejo Estatal.
 
 ## TÍTULO TERCERO. DE LAS INSTANCIAS DE COORDINACIÓN
 
@@ -592,3 +614,13 @@ Que la LXI Legislatura del H. Congreso Constitucional del Estado Libre y Soberan
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los veintisiete días del mes de noviembre del año dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, LIC. WILLlAM ROBERTO SARMIENTO URBINA.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 66 POR EL QUE “SE REFORMAN LAS FRACCIONES III, IV, V Y VI DEL ARTÍCULO 7, Y LAS FRACCIONES II, III Y IV DEL ARTÍCULO 11 Y, SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 7, Y UNA FRACCIÓN V AL ARTÍCULO 11, TODOS DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
