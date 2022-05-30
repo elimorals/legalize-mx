@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2022-03-21"
+last_updated: "2022-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -43,27 +43,37 @@ LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGU
 
 ### CAPÍTULO I. Disposiciones Generales
 
-###### Artículo 1°.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2022)</small>
 
-La presente Ley tiene por objeto establecer la coordinación entre el Estado y los Municipios para erradicar desde su condición estructural, funcional y personal, a través de su prevención, atención, la protección de sus víctimas, su sanción y la reeducación de los individuos que la ejercen, la violencia que como resultado de la manifestación de las relaciones de poder desiguales entre los hombres y las mujeres, conduce a la dominación y discriminación de éstas, impidiéndoles el desarrollo de sus capacidades humanas.
+###### Artículo 1º.
 
-Sus disposiciones son de orden público, interés social y observancia general en el Estado de Aguascalientes.
+La presente Ley es de orden público, interés social y de observancia general en todo el Estado de Aguascalientes y tiene por objeto establecer la coordinación entre el Gobierno del Estado y los gobiernos municipales, para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, así como establecer las políticas y acciones gubernamentales para garantizar el acceso de las mujeres a una vida libre de violencia que favorezca su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación, que garanticen el desarrollo integral de las mujeres.
 
 ###### Artículo 2°.
 
 Los objetivos específicos de esta Ley son:
 
-I. Transformar las conductas políticas, sociales y culturales que justifican y alientan la violencia de género contra las mujeres, para propiciar un estilo de relaciones humanas basado en el respeto de sus derechos fundamentales, de conformidad con los instrumentos internacionales en la materia aprobados por nuestro país;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
+
+I. Transformar las condiciones políticas, sociales, económicas y culturales que justifican, alientan y reproducen la violencia de género contra las niñas, adolescentes y mujeres para generar mecanismos institucionales de aplicación de políticas de gobierno integrales que garanticen el respeto y el ejercicio de sus derechos humanos, de conformidad con la legislación nacional, así como de los instrumentos internacionales en la materia aprobados por México, y para impulsar y consolidar la atención integral y la generación de oportunidades de manera igualitaria para todas las mujeres;
 
 II. Garantizar la protección institucional especializada, de las mujeres víctimas de violencia de género, de sus hijas e hijos y de las instituciones, profesionales, denunciantes, testigos y demás personas intervinientes;
 
-III. Asegurar el acceso rápido, transparente y eficaz de las mujeres víctimas de violencia de género a la procuración e impartición de justicia;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
 
-IV. Estandarizar la intervención institucional en la prevención y detección de la violencia, en la atención de sus víctimas y en la reeducación de las personas que la ejercen;
+III. Asegurar el acceso pronto, expedito, transparente y eficaz de la justicia para las mujeres víctimas u ofendidas de violencia de género tanto desde los ámbitos de la procuración, como de la impartición de justicia;
 
-V. Favorecer la recuperación y la construcción de un nuevo proyecto de vida para las mujeres víctimas de violencia de género;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
 
-VI. Asegurar la concurrencia, alineación y optimización de recursos e instrumentos de todo tipo destinados para actuar en contra de la problemática;
+IV. Establecer, promover, difundir, estandarizar y ejecutar la política integral de gobierno, estatal y municipal, para la prevención de la violencia contra las mujeres y las niñas, así como las acciones para la atención de las víctimas u ofendidas de cualquier tipo o modalidad de violencia de género, así como de la sanción y la reeducación de las personas agresoras;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
+
+V. Favorecer la recuperación y la construcción del pleno goce de los Derechos Humanos para las mujeres y las niñas víctimas de violencia de género u ofendidas, que les permita generar un nuevo proyecto de vida;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
+
+VI. Asegurar la concurrencia, integralidad y optimización de recursos e instrumentos que garanticen la vigencia de los Derechos Humanos de las niñas y las mujeres;
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
 
@@ -195,13 +205,17 @@ VII. Persona agresora: Aquella que inflige cualquier tipo de violencia contra la
 
 VIII. Derechos Humanos de las Mujeres: Derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todos (sic) las Formas de Discriminación contra la Mujer, la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer y demás instrumentos internacionales en la materia;
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
 
-IX. Empoderamiento de la Mujer: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, libertad, autodeterminación, autonomía y responsabilidad, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades; y
+IX. Empoderamiento de la Mujer: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, libertad, autodeterminación, autonomía y responsabilidad, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
 
-X. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer.
+X. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2022)</small>
+
+XI. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo de violencia.
 
 ###### Artículo 5°.
 
@@ -227,19 +241,21 @@ El Poder Ejecutivo, Legislativo y Judicial, entidades municipales, desconcentrad
 
 Los tipos de violencia de género contra las mujeres son:
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
 
-I. La violencia psicológica: Es cualquier acción u omisión contra su estabilidad psicológica, que puede consistir en negligencia, abandono, descuido reiterado, celos, insultos, humillaciones, devaluaciones, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, chantaje, restricciones o amenazas, así como las acciones descritas en la fracción XIX del artículo 3° de la presente Ley;
+I. La violencia psicológica: Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, chantaje, restricción a la autodeterminación o amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
 
 II. La violencia física: Es todo acto que inflige daño no accidental, usando la fuerza física, algún tipo de arma, objeto o sustancia que pueda provocar o no lesiones, ya sean internas, externas o ambas;
 
-III. La violencia sexual: Es la acción u omisión mediante la cual se induce o se impone la realización de prácticas sexuales no deseadas o respecto de las cuales se tiene incapacidad para consentir;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
+
+III. La violencia sexual: Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía de la persona agresora sobre la mujer, al denigrarla y concebirla como objeto;
 
 IV. La violencia patrimonial: Es cualquier acto u omisión que afecta la supervivencia de la mujer. Se manifiesta en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a bienes comunes o propios de la víctima;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
 
-V. La violencia económica y laboral: La económica es toda acción u omisión del hombre violento que afecta la supervivencia económica de la mujer. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso económico, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral; la laboral es aquella ejercida en tal ámbito en términos del Artículo 12 de la presente Ley, así como cualquier limitación para que una mujer pueda ocupar un cargo o puesto laboral por encontrarse en estado de gravidez;
+V. La violencia económica y laboral: La económica es toda acción u omisión de la persona agresora que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso económico, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral; la laboral es aquella ejercida en tal ámbito en términos del Artículo 12 de la presente Ley, así como cualquier limitación para que una mujer pueda ocupar un cargo o puesto laboral por encontrarse en estado de gravidez;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
@@ -851,9 +867,9 @@ XI. Promover la inclusión prioritaria en el plan estatal de desarrollo de las m
 
 XII. Promover la cultura de denuncia de la violencia contra las mujeres en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad;
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
 
-XIII. Diseñar un modelo integral de atención a los derechos humanos de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas; y
+XIII. Diseñar un modelo integral de atención a los derechos humanos y ciudadanía de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas; y
 
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
@@ -861,9 +877,11 @@ XIV. Educar, capacitar e informar a las Dependencias integrantes del Consejo, as
 
 ### CAPÍTULO VIII. De la Distribución de Competencias en Materia de Prevención, Atención y Sanción de la Violencia de Género Contra las Mujeres
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2022)</small>
+
 ###### Artículo 49.
 
-Los poderes públicos del Estado y los Municipios, coadyuvarán para el cumplimiento de los objetivos de esta Ley, de conformidad con las competencias previstas en el presente ordenamiento y demás instrumentos legales aplicables.
+Los poderes públicos del Estado y los Municipios, así como los organismos constitucionalmente autónomos, coadyuvarán para el cumplimiento de los objetivos de esta Ley, de conformidad con las competencias previstas en el presente ordenamiento y demás instrumentos legales aplicables.
 
 #### SECCIÓN PRIMERA. Del Poder Ejecutivo
 
@@ -1690,3 +1708,15 @@ P.O. 21 DE MARZO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 131.- SE REFORMAN LOS ARTÍCULOS 1º, 2º FRACCIONES I, III, IV, V Y VI, ARTÍCULO 4º FRACCIONES IX Y X, ARTÍCULO 8º FRACCIONES I, III Y V, ARTÍCULO 48 FRACCIÓN XIII Y ARTÍCULO 49; Y SE ADICIONAN LA FRACCIÓN XI AL ARTÍCULO 4° DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los noventa días naturales siguientes al inicio de vigencia del presente Decreto, deberán realizarse las adecuaciones conducentes al Reglamento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes.
