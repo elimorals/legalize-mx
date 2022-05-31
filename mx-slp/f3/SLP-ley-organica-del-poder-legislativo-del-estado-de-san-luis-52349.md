@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2022-05-24"
+last_updated: "2022-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1175,9 +1175,9 @@ III. Asuntos Migratorios;
 
 IV. Comunicaciones y Transportes;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2022)</small>
 
-V. Derechos Humanos, Igualdad y Género;
+V. Derechos Humanos;
 
 VI. Desarrollo Económico;
 
@@ -1193,25 +1193,29 @@ XI. Gobernación;
 
 XII. Hacienda del Estado;
 
-XIII. Justicia;
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2022)</small>
 
-XIV. Primera de Hacienda y Desarrollo Municipal;
+XIII. Igualdad de Género;
 
-XV. Puntos Constitucionales;
+XIV. Justicia;
 
-XVI. Salud y Asistencia Social;
+XV. Primera de Hacienda y Desarrollo Municipal;
 
-XVII. Segunda de Hacienda y Desarrollo Municipal;
+XVI. Puntos Constitucionales;
+
+XVII. Salud y Asistencia Social;
+
+XVIII. Segunda de Hacienda y Desarrollo Municipal;
 
 > <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2012)</small>
 
-XVIII. Seguridad Pública, Prevención y Reinserción Social;
+XIX. Seguridad Pública, Prevención y Reinserción Social;
 
-XIX. Trabajo y Previsión Social;
+XX. Trabajo y Previsión Social;
 
-XX. Transparencia y Acceso a la Información Pública, y
+XXI. Transparencia y Acceso a la Información Pública, y
 
-XXI. Vigilancia.
+XXII. Vigilancia.
 
 ###### ARTICULO 99.
 
@@ -1297,11 +1301,11 @@ V. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
 VI. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 103.
 
-A la Comisión de Derechos Humanos, Igualdad y Género, competen los siguientes asuntos:
+A la Comisión de Derechos Humanos, competen los siguientes asuntos:
 
 I. Los que se refieran a la expedición, reformas, adiciones y derogación de la legislación estatal de la materia;
 
@@ -1588,6 +1592,30 @@ IX. Los que se refieran al Plan Estatal de Desarrollo del Estado;
 X. Los relativos a las relaciones con las dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen, y
 
 XI. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2022)</small>
+
+ARTÍCULO 110 BIS. Es competencia de la Comisión de Igualdad de Género, la atención, análisis, discusión y, en su caso, dictamen o resolución de los siguientes asuntos:
+
+I. Elaborar y analizar propuestas legislativas que garanticen la realización de los derechos humanos, civiles, políticos, económicos, sociales y culturales de las mujeres, con el acompañamiento de asociaciones, organizaciones y grupos de mujeres, centros de investigación y todas las que defienden los derechos de ellas;
+
+II. Construir un espacio de diálogo directo con las asociaciones, organizaciones, y grupos de mujeres para conocer con inmediatez, sus problemas, demandas y necesidades;
+
+III. Realizar mesas de trabajo, conferencias, y foros de consulta sobre aquellos tópicos que consideren necesarios para la atención de los derechos de las mujeres en el Estado;
+
+IV. Establecer la protección legal de los derechos de la mujer, a través de la norma jurídica;
+
+V. Crear, integrar y actualizar permanentemente un banco de información jurídica, económica, política y social de perspectiva de género; para fundamentar la toma de decisiones en esa materia, de las y los diputados y de las comisiones del Congreso, con la coadyuvancia de la Unidad de Género, y del Instituto de Investigaciones Legislativas;
+
+VI. Realizar estudios de derecho comparado con perspectiva de género que sirvan a las y los diputados para actualizar la legislación estatal y municipal, con la coadyuvancia de la Unidad de Género, y del Instituto de Investigaciones Legislativas;
+
+VII. Coadyuvar a las tareas legislativas elaborando estudios e investigaciones, el impacto diferencial de género en los aspectos económicos, políticos, sociales, culturales, ambientales e indígenas de los derechos humanos de las mujeres, con la coadyuvancia de la Unidad de Género, y del Instituto de Investigaciones Legislativas;
+
+VIII. Fomentar el intercambio de conocimientos legislativos en materia de los derechos de la mujer con otros congresos de las diferentes entidades federativas, y de la Ciudad de México, mediante convenios de colaboración;
+
+IX. Emitir la convocatoria y organizar el Parlamento de las Mujeres del Estado de San Luis Potosí, que se realizará anualmente y que deberá garantizar la representación de las mujeres integrantes de pueblos o comunidades indígenas, así como con discapacidad, y
+
+X. Los análogos a los anteriores que, a juicio de quien presida la Directiva en los periodos ordinarios; o la Diputación Permanente, en los recesos del Congreso, sean materia del análisis de esta Comisión.
 
 ###### ARTICULO 111.
 
@@ -2882,3 +2910,13 @@ P.O. 24 DE MAYO DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0332.- SE REFORMAN LOS ARTÍCULOS 98 Y 103 Y ADICIONA AL ARTÍCULO 98 UNA FRACCIÓN Y EL ARTÍCULO 110 BIS, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 3° Y ADICIONAN AL MISMO ARTÍCULO 3° TRES FRACCIONES, DEL REGLAMENTO DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL CONGRESO DEL ESTADO".]
+
+PRIMERO. Este Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Junta de Coordinación Política asignará los recursos humanos y materiales para la implementación de este Decreto.
