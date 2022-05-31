@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-del-123513
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-26"
-last_updated: "2021-09-09"
+last_updated: "2022-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2022.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2017.
 
@@ -787,17 +787,23 @@ II. Informar a la Auditoría Superior de los folios y criterios de control de la
 
 III. Informar a la Auditoría Superior de los nuevos folios que utilizarán, cuando se les agoten los folios reportados en los términos de la fracción anterior; y
 
-IV. Rendir a la Auditoría Superior, durante los quince días posteriores al término del periodo trimestral en que se ejerza el presupuesto respectivo, el informe de avances de gestión financiera, por el periodo comprendido del primero de enero al treinta de junio del ejercicio fiscal en curso, y a más tardar el día último de febrero, el informe anual de gestión financiera por el período comprendido del primero de julio al treinta y uno de diciembre del ejercicio fiscal correspondiente.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2022)</small>
+
+IV. Entregar a la Auditoría Superior, de forma impresa, así como archivo magnético o electrónico en formato digital editable tanto en procesador de textos como en hoja de cálculo y a través del Buzón Digital, durante los quince días posteriores al término del periodo trimestral en que se ejerza el presupuesto respectivo, el informe de avances de gestión financiera, por el periodo comprendido del primero de enero al treinta de junio del ejercicio fiscal en curso, y a más tardar el día último de febrero, el informe anual de gestión financiera por el período comprendido del primero de julio al treinta y uno de diciembre del ejercicio fiscal correspondiente.
 
 ###### Artículo 32.
 
-1. El Gobernador del Estado y los presidentes municipales deberán presentar al Congreso del Estado las cuentas públicas respectivas, a más tardar el 30 de abril del año siguiente, quién la remitirá a la Auditoría Superior para su fiscalización.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2022)</small>
+
+1. El Gobernador del Estado y los presidentes municipales deberán presentar al Congreso del Estado las cuentas públicas respectivas, de forma impresa, así como archivo magnético o electrónico en formato digital editable tanto en procesador de textos como en hoja de cálculo a más tardar el 30 de abril del año siguiente, quién la remitirá a la Auditoría Superior para su fiscalización.
 
 2. El Gobernador del Estado y los presidentes municipales, con treinta días naturales anteriores a que fenezca el plazo anterior, podrán solicitar al Congreso una prórroga de treinta días naturales para presentar las respectivas cuentas públicas. El Congreso deberá resolverla dentro de los diez días hábiles a su recepción.
 
 ###### Artículo 33.
 
-1. Los ayuntamientos, a través del presidente municipal, presentarán a la Auditoría Superior:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MAYO DE 2022)</small>
+
+1. Los ayuntamientos, a través del presidente municipal, presentarán a la Auditoría Superior, de forma impresa, así como archivo magnético o electrónico en formato digital editable tanto en procesador de textos como en hoja de cálculo:
 
 I. La cuenta detallada de los movimientos de fondos ocurridos en el mes anterior, antes del día veinte de cada mes;
 
@@ -813,19 +819,25 @@ III. El corte anual del año inmediato anterior, antes del día último de febre
 
 ###### Artículo 35.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 31 DE MAYO DE 2022)</small>
+
 1. Las cuentas públicas deberán:
 
 I. Contener como mínimo la información que establezca la Ley General de Contabilidad Gubernamental; y
 
 II. Consolidar la información de los informes semestral de avance y anual de gestión financiera.
 
-2. La documentación original deberá enviarse preferentemente por medios magnéticos o electrónicos, y quedará asentada de forma oficial, la responsabilidad por parte de los titulares de las entidades, de que los medios magnéticos o electrónicos proporcionados, contienen información idéntica a la documentación original, comprobatoria y justificativa de sus cuentas públicas correspondientes al año anterior, y del informe de avance de gestión financiera, y que dicha documentación seguirá en posesión de la entidad.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2022)</small>
+
+2. La documentación original deberá enviarse de manera física y por medios magnéticos o electrónicos editables tanto en procesador de textos como en hoja de cálculo, y quedará asentada de forma oficial, la responsabilidad por parte de los titulares de las entidades, de que los medios magnéticos o electrónicos proporcionados, contienen información idéntica a la documentación original, comprobatoria y justificativa de sus cuentas públicas correspondientes al año anterior, y del informe de avance de gestión financiera, debiendo la entidad, preservar por 10 años copia certificada de dicha documentación.
 
 3. Las entidades fiscalizables que envíen la información por medios electrónicos deberán adjuntar su firma electrónica certificada en los términos de la ley de la materia, para que la Auditoría Superior les acuse de recibo.
 
 ###### Artículo 36.
 
-1. Las entidades fiscalizables, en complemento al informe de avance de la gestión financiera, deberán integrar un informe anual de desempeño en la gestión, el cual deberá contener cuando menos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MAYO DE 2022)</small>
+
+1. Las entidades fiscalizables, en complemento al informe de avance de la gestión financiera, deberán integrar un informe anual de desempeño en la gestión, de manera impresa y en formato electrónico editable, tanto en procesador de textos como en hoja de cálculo, el cual deberá contener cuando menos:
 
 I. Evidencia sobre los logros e impactos generados en función a los objetivos estratégicos propuestos para el sector específico en el mediano plazo, de conformidad con el Sistema de Evaluación del Desempeño; y
 
@@ -865,7 +877,9 @@ II. Dar de baja los documentos justificatorios y comprobatorios de las cuentas p
 
 III. Hacer un respaldo digital y alimentación de datos en el Sistema Integral de Información, que se constituirá como una base de datos de la totalidad de la información ingresada en la Auditoría Superior, conforme a la normatividad aplicable, previo a que un documento o información en su resguardo sea dado de baja.
 
-2. Cuando las entidades auditables presenten los documentos referidos en los incisos a), b) y e) de la fracción I del párrafo anterior, por medios magnéticos o electrónicos, éstas seguirán en posesión de los documentos originales comprobatorios y justificativos, pero la Auditoría Superior podrá solicitárselos cuando lo estime necesario.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2022)</small>
+
+2. Las entidades auditables al presentar los documentos referidos en los incisos a), b) y e) de la fracción I del párrafo anterior, por medios magnéticos o electrónicos, éstas deberán, preservar por 10 años copia certificada de los mismos y remitir en el término de 30 días naturales a la entrega electrónica los originales a la Auditoria Superior.
 
 ### CAPÍTULO III. Revisión, Examen y Auditoría Pública de las Cuentas Públicas
 
@@ -1321,7 +1335,9 @@ II. La resolución definitiva que recaiga en el procedimiento de responsabilidad
 
 I. Incluir en la plataforma nacional digital establecida en la Ley General del Sistema Nacional Anticorrupción, la información relativa a los servidores públicos y particulares sancionados por resolución definitiva firme, por la comisión de faltas administrativas graves o actos vinculados a éstas;
 
-II. Presentar un informe semestral al Congreso del Estado, por conducto de la Comisión, a más tardar los primeros cinco días hábiles de los meses de mayo y noviembre de cada año, con base en los formatos establecidos por la Comisión, en el que incluirá:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MAYO DE 2022)</small>
+
+II. Presentar de forma impresa, así como archivo magnético o electrónico en formato digital editable tanto en procesador de textos como en hoja de cálculo, un informe semestral al Congreso del Estado, por conducto de la Comisión, a más tardar los primeros cinco días hábiles de los meses de mayo y noviembre de cada año, con base en los formatos establecidos por la Comisión, en el que incluirá:
 
 a) Los montos resarcidos a la Hacienda Pública Estatal o Municipal o al patrimonio de las entidades fiscalizadas, derivados de la fiscalización de las cuentas públicas;
 
@@ -1510,3 +1526,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
 
 TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea agendado dentro de los plazos y términos que corresponden en su (sic) la Ley Orgánica del Poder Legislativo.
+
+P.O. 31 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28780/LXIII/22 QUE MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 31, 32, 33, 35, 36, 38 Y 69 DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
