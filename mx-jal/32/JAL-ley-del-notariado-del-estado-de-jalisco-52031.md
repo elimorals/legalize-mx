@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-52031"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-26"
-last_updated: "2021-12-25"
+last_updated: "2022-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "JAL"
 ---
 # LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
-
-[NOTA 2: DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO NÚMERO 27218/LXII/18, PUBLICADO EN EL P.O. 6 DE DICIEMBRE DE 2018, TODAS LAS ATRIBUCIONES PREVISTAS EN CUALQUIER ORDENAMIENTO QUE REFIERA O VINCULE A LA PROCURADURÍA SOCIAL, RELATIVAS A LAS VISITAS A LAS NOTARÍAS PÚBLICAS, A LA ENTRADA EN VIGOR DEL PRESENTE, SE ENTENDERÁN REFERIDAS Y CONFERIDAS A LA SECRETARÍA GENERAL DE GOBIERNO".]
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 31 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2006.
 
@@ -981,7 +979,7 @@ III. Los pagos de impuestos y derechos que por motivo de la licencia efectúe el
 
 IV. El notario asistente no podrá llevar a cabo actuaciones fuera de la Notaría en los folios del Notario asistido;
 
-V. El notario asistente no podrá celebrar actos nuevos en el protocolo del notario asistido;
+V. (REFORMADA [N. DE E. DEROGADA], P.O. 31 DE MAYO DE 2022)
 
 VI. El notario asistente podrá concluir los instrumentos notariales pendientes en el protocolo del notario asistido;
 
@@ -1131,9 +1129,9 @@ Protocolo es el conjunto de folios ordenados numérica y cronológicamente, en l
 
 El Consejo de Notarios, a solicitud del notario y a costa de éste, autorizará imprimir los folios y el papel testimonio que requiera para su ejercicio. Los folios serán remitidos al Archivo de Instrumentos Públicos, para su entrega. El papel testimonio tendrá las características que determine el Consejo de Notarios quien lo entregará al solicitante por conducto del Colegio de Notarios.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2022)</small>
 
-La Dirección del Archivo de Instrumentos Públicos no entregará folios a los notarios públicos que no hubiesen presentado un tomo debidamente encuadernado para efectos del artículo 70 de la presente Ley. Para tal efecto, los notarios públicos pueden solicitar a la Dirección una única e inaplazable prórroga de 60 sesenta días naturales especificando en la petición la causa del retraso.
+La Dirección del Archivo de instrumentos Públicos no entregará folios a los notarios públicos que no hubiesen presentado algún tomo debidamente encuadernado para efectos y dentro del término establecido en el artículo 70 de la presente Ley. Para tal efecto, los notarios públicos pueden solicitar a la Dirección una única e inaplazable prórroga de 60 sesenta días naturales especificando en la petición la causa del retraso.
 
 ###### Artículo 63.
 
@@ -1317,13 +1315,9 @@ I. Se escribirán con letra clara, sin abreviaturas, y expresando las fechas y l
 
 II. Precisará el número y tomo que le corresponda, lugar y fecha en que se extiende, nombre, número y adscripción del notario;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2022)</small>
 
-III. Anotará la hora y fecha en que se termina de firmar el instrumento notarial por los comparecientes, quienes invariablemente deben estampar junto a su firma las huellas digitales, preferentemente de sus dedos índices; en caso de no poder hacerlo, el notario público autorizante asentará la razón de esto en el instrumento público, firmará e imprimirá su sello, con lo que quedará autorizado el instrumento. En los supuestos en que la ley así lo prevenga, se hará constar la hora de inicio.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2021)</small>
-
-No será aplicable lo dispuesto en esta fracción en cuanto a verificar datos biométricos disponibles, así como de la consulta de la información contenida en los soportes tecnológicos, a quienes actúen en representación de la Federación, los Estados, Municipios, Estados extranjeros, integrantes de los poderes legislativo y judicial, representantes de organismos públicos descentralizados y desconcentrados, instituciones y sociedades que integran el sistema financiero, así como las instituciones, dependencias y fideicomisos públicos;
+III. Anotará la hora y fecha en que se termina de firmar la escritura pública por los comparecientes, quienes invariablemente deben estampar junto a su firma las huellas digitales, preferentemente de sus dedos índices; en caso de no poder hacerlo, el notario público autorizante asentará la razón de esto en la escritura pública, firmará e imprimirá su sello, con lo que quedará autorizada la escritura pública. En los supuestos en que la ley así lo prevenga, se hará constar la hora de inicio.
 
 IV. En su caso, consignará las declaraciones que hagan los otorgantes como antecedentes o preliminares, y relacionará los datos indispensables y necesarios que identifiquen el acto, hecho o negocio jurídico de que se traten con los documentos y testimonios originales que se le presenten, o bien insertará estos últimos.
 
@@ -1365,13 +1359,13 @@ VII. Cuando algún guarismo, palabra o frase resulten equivocados o deban ser su
 
 VIII. Debe dar fe de conocimiento de los comparecientes o de que los identificó con documento oficial expedido por autoridad federal, estatal, municipal, por organismos públicos autónomos o con documentos expedidos por gobiernos de otros países, que contengan la fotografía y firma del compareciente.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2022)</small>
 
-En caso de que el notario identifique al compareciente mediante su credencial para votar con fotografía, o bien alguna otra identificación contenida en los soportes tecnológicos aprobados por el Consejo de Notarios, estará obligado a verificar los datos biométricos disponibles, así como a hacer la consulta de la información contenida en los referidos soportes, debiendo dejar constancia de ello.
+En caso de que el notario identifique al compareciente de una escritura pública mediante su credencial para votar con fotografía, o bien alguna otra identificación contenida en los soportes tecnológicos aprobados por el Consejo de Notarios, estará obligado a verificar los datos biométricos disponibles, así como a hacer la consulta de la información contenida en los referidos soportes, debiendo dejar constancia de ello.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2022)</small>
 
-No será aplicable lo dispuesto en esta fracción en cuanto a verificar datos biométricos disponibles, así como de la consulta de la información contenida en los soportes tecnológicos, a quienes actúen en representación de la Federación, los Estados, Municipios, Estados extranjeros, organismos públicos descentralizados y desconcentrados, instituciones y sociedades que integran el sistema financiero, así como las instituciones, dependencias y fideicomisos públicos.
+No será aplicable lo dispuesto en esta fracción en cuanto a verificar datos biométricos disponibles, así como de la consulta de la información contenida en los soportes tecnológicos, a quienes actúen en representación de la Federación, los Estados, Municipios, Estados extranjeros, integrantes de los poderes legislativo y judicial, organismos públicos descentralizados y desconcentrados, instituciones y sociedades que integran el sistema financiero, así como las instituciones, dependencias y fideicomisos públicos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2021)</small>
 
@@ -3206,3 +3200,11 @@ P.O. 25 DE DICIEMBRE DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El Titular del Poder Ejecutivo dentro de los 180 días naturales siguientes a la entrada en vigor del presente decreto, deberá realizar las adecuaciones reglamentarias, así como las técnicas y electrónicas necesarias para su cumplimiento.
+
+P.O. 31 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28779/LXIII/22 QUE MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 53 QUÁTER, 62 Y 84 DE LA LEY DEL NOTARIADO DEL ESTADO DE JALISCO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
