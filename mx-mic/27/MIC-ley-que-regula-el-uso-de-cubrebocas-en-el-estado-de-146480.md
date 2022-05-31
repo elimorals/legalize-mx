@@ -4,7 +4,7 @@ identifier: "MIC-ley-que-regula-el-uso-de-cubrebocas-en-el-estado-de-146480"
 country: "mx"
 rank: "ley"
 publication_date: "2021-01-20"
-last_updated: "2021-01-20"
+last_updated: "2022-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY QUE REGULA EL USO DE CUBREBOCAS EN EL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY QUE REGULA EL USO DE CUBREBOCAS EN EL ESTADO DE MICHOACÁN DE OCAMPO
+LEY QUE REGULA EL USO DE CUBREBOCAS EN EL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2022.
 
 Ley publicada en la Sexta Sección del Número 90 del Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 20 de enero de 2021.
 
@@ -45,9 +45,15 @@ LEY QUE REGULA EL USO DE CUBREBOCAS EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2022)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de observancia general en todo el territorio del Estado de Michoacán de Ocampo, sus disposiciones son de orden público e interés social y tiene por objeto contribuir a garantizar el derecho a la protección a la salud, estableciendo el uso obligatorio del cubrebocas, para prevenir y contener la transmisión y riesgos de contagio del virus SARS-CoV-2, durante el tiempo que permanezca la emergencia sanitaria ocasionada por la pandemia del COVID 19 y hasta que la autoridad sanitaria competente, declare oficialmente su conclusión.
+La presente Ley es de observancia general en todo el territorio del Estado de Michoacán de Ocampo, sus disposiciones son de orden público e interés social y tiene por objeto contribuir a garantizar el derecho a la protección a la salud estableciendo las condiciones del uso del cubrebocas para prevenir y contener la transmisión y riesgos de contagio del virus SARS-CoV-2.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2022)</small>
+
+El uso del cubrebocas en el Estado como medida de protección se considera de carácter opcional en los espacios públicos y privados que sean abiertos, siendo corresponsabilidad de las personas que se encuentren en el territorio del Estado, su uso en los términos establecidos en la presente Ley.
 
 ###### Artículo 2.
 
@@ -71,23 +77,17 @@ VIII. UMAS: A las Unidades de Medida y Actualización vigentes; y,
 
 IX. Vía Pública: Al espacio terrestre de dominio público o uso común destinado al tránsito y transporte de personas o vehículos, dentro de la jurisdicción del Estado o de un Municipio.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2022)</small>
+
 ###### Artículo 3.
 
-El uso del cubrebocas es obligatorio para todas las personas que se encuentren en el territorio del Estado de Michoacán, en vías y espacios públicos entorno al aire libre, al interior de establecimientos ya sea públicos o privados; así como para usuarios, operadores y conductores de los servicios de transporte público.
+Se consideran medidas de protección auxiliar, la sana distancia considerada de 1.5 metros entre personas; no saludar de mano, beso o abrazo; al toser o estornudar, cubrirse con alguno de los ángulos de los brazos; el evitar tocarse la nariz, la boca, los ojos y cara en general, así como el lavarse las manos con agua y jabón frecuentemente, además de usar gel antibacterial y demás medidas sanitarias, que determinen las autoridades sanitarias competentes.
 
-Quedan exentos del párrafo anterior: pacientes inmunodeprimidos, asmáticos, con fibrosis quística, cáncer, lesiones faciales, personas con trastornos cognitivos, respiratorios o auditivos, discapacidades u otros trastornos de salud específicos que pudieran interferir con el uso correcto del cubrebocas.
-
-De igual manera, se exceptúa la obligatoriedad, al momento de estar consumiendo alimentos y bebidas o al realizar actividades deportivas de intensidad o entrenamiento físico mayor a una caminata, en espacios abiertos.
-
-El uso del cubrebocas y los medios de protección complementarios, serán opcionales para los menores de 5 años.
-
-La obligatoriedad de usar correctamente el cubrebocas no sustituirá otras medidas sanitarias, tales como: la sana distancia, considerada de 1.5 metros entre personas; no saludar de mano, beso o abrazo; al toser o estornudar, cubrirse con alguno de los ángulos de los brazos; el evitar tocarse la nariz, la boca, los ojos y cara en general, así como el lavarse las manos con agua y jabón frecuentemente, además de usar gel antibacterial y demás medidas sanitarias, que hayan emitido o emitan las autoridades sanitarias correspondientes.
-
-El uso de los medios de protección complementarios serán considerados opcionales para los efectos de la presente Ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2022)</small>
 
 ###### Artículo 4.
 
-Para el uso correcto del cubrebocas, la Secretaría y los ayuntamientos deberán de informar a las ciudadanas y los ciudadanos, las siguientes medidas:
+En su carácter de medida de protección opcional o uso obligatorio, la Secretaría y los ayuntamientos deberán de informar a las ciudadanas y los ciudadanos, las siguientes medidas:
 
 I. Lavarse las manos antes de tocarlo;
 
@@ -117,15 +117,19 @@ XIII. El correcto desechamiento será en bolsa cerrada, para evitar posibles rie
 
 ### CAPÍTULO SEGUNDO. DE LOS ESTABLECIMIENTOS PRIVADOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2022)</small>
+
 ###### Artículo 5.
 
-En todos los establecimientos privados, ya sean centros de trabajo, comercial, industrial, empresarial, de negocios o de servicios, tanto los propietarios, como las y los administradores, empleados, proveedores, usuarios y asistentes a los mismos, están obligados a usar el cubrebocas, durante su estancia, así como cumplir los protocolos emitidos por la autoridad sanitaria correspondiente. Salvo las excepciones establecidas en el artículo 3 de la presente Ley.
+En todos los establecimientos privados, que sean espacios cerrados y no permitan una adecuada circulación del aire, ya sean centros de trabajo, comercial, industrial, empresarial, de negocios o de servicios, tanto los propietarios, como las y los administradores, empleados, proveedores, usuarios y asistentes a los mismos, están obligados a usar el cubrebocas, durante su estancia, así como cumplir los protocolos emitidos por la autoridad sanitaria correspondiente.
 
 En caso de que alguna persona, pretenda ingresar sin cubrebocas a los establecimientos señalados en este artículo, se le informará e instruirá que, por disposición oficial, no podrá acceder hasta que lo porte.
 
 En caso de no tenerlo, el establecimiento como una medida de responsabilidad social, podrá proporcionarle el cubrebocas.
 
-Los establecimientos, estarán obligados a exhibir gráficamente la prohibición del ingreso sin el uso del cubrebocas, así como su uso correcto conforme a lo establecido en la presente Ley.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2022)</small>
+
+Los establecimientos que presten sus servicios en espacios cerrados, estarán obligados a exhibir gráficamente la prohibición del ingreso sin el uso del cubrebocas, así como su uso correcto conforme a lo establecido en la presente Ley.
 
 ### CAPÍTULO TERCERO. DEL TRANSPORTE PÚBLICO
 
@@ -139,43 +143,59 @@ Las y los concesionarios o permisionarios del servicio de transporte público de
 
 ### CAPÍTULO CUARTO. DE LAS OFICINAS PÚBLICAS Y CENTROS DE TRABAJO
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2022)</small>
+
 ###### Artículo 7.
 
-Las y los servidores públicos de las dependencias y entidades de la administración pública estatal y municipal, así como de los organismos autónomos, deberán usar el cubrebocas durante su estancia y observar el uso de los medios de protección complementarios y los protocolos sanitarios correspondientes. Para el caso que no lo tenga, la dependencia deberá de proporcionarle uno de manera gratuita para el desempeño de sus labores.
+En caso de que las y los servidores públicos de las dependencias y entidades de la administración pública estatal y municipal, así como de los organismos autónomos se desempeñen en espacios cerrados, deberán usar el cubrebocas durante su estancia y observar el uso de los medios de protección complementarios y los protocolos sanitarios correspondientes. Para el caso que no lo tenga, la dependencia deberá de proporcionarle uno de manera gratuita para el desempeño de sus labores.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2022)</small>
 
 ###### Artículo 8.
 
-Es obligatorio para todas las personas que ingresen a oficinas públicas, el uso de cubrebocas. En caso de que alguna persona pretenda ingresar sin cubrebocas, se le informará e instruirá que, por disposición oficial, no podrá acceder hasta que lo porte, debiendo la dependencia proporcionarle uno.
+Es obligatorio el uso de cubrebocas para todas las personas que ingresen a oficinas públicas que cuenten con espacios cerrados. En caso de que alguna persona pretenda ingresar sin cubrebocas a estos espacios, se le informará e instruirá que, por disposición oficial, no podrá acceder hasta que lo porte, debiendo la dependencia proporcionarle uno.
 
 ### CAPÍTULO QUINTO. DE LAS REUNIONES EN ESPACIOS PRIVADOS O CERRADOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2022)</small>
+
 ###### Artículo 9.
 
-En las reuniones realizadas en espacios privados o cerrados las personas deberán usar obligatoriamente el cubrebocas, así como de manera opcional el uso de los medios de protección complementarios y acatar los protocolos sanitarios establecidos por las autoridades sanitarias competentes.
+En las reuniones realizadas en espacios cerrados, ya sean públicos o privados, las personas deberán usar obligatoriamente el cubrebocas, así como el uso de los medios de protección complementarios y acatar los protocolos sanitarios establecidos por las autoridades sanitarias competentes.
 
 Lo anterior deberá llevarse a cabo, conforme a las disposiciones de aglomeración y afluencia máxima permitida, decretadas por las autoridades sanitarias competentes.
 
 ### CAPÍTULO SEXTO. DE LA DIFUSIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2022)</small>
+
 ###### Artículo 10.
 
-Las autoridades sanitarias competentes, conforme a lo establecido en la presente Ley, deberán realizar campañas de difusión permanentes para informar a la población de la necesidad y obligatoriedad del uso correcto del cubrebocas y de acatar las medidas preventivas a realizar en sus actividades diarias; además deberá implementar las mismas campañas para habitantes de las comunidades y pueblos indígenas de Michoacán, las cuales serán en su lengua e idioma originario; así como para personas con discapacidad, principalmente visual y auditiva.
+Las autoridades sanitarias competentes, conforme a lo establecido en la presente Ley, deberán realizar campañas de difusión permanentes para informar a la población de la necesidad y los casos de obligatoriedad del uso correcto del cubrebocas y de acatar las medidas preventivas a realizar en sus actividades diarias; además deberá implementar las mismas campañas para habitantes de las comunidades y pueblos indígenas de Michoacán, las cuales serán en su lengua e idioma originario; así como para personas con discapacidad, principalmente visual y auditiva.
 
-La Secretaría a través de la COEPRIS, deberá coordinarse con las comisiones de salud y las áreas administrativas en esta materia de cada municipio, para la implementación de las acciones de: promoción y difusión del uso correcto del cubrebocas, así como de medidas sanitaras, inspección, vigilancia y las sanciones que establece la presente Ley.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2022)</small>
 
-De igual manera, la iniciativa privada deberá implementar campañas de difusión permanente del uso correcto y obligado del cubrebocas, entre sus trabajadores y sus potenciales clientes.
+La Secretaría a través de la COEPRIS, deberá coordinarse con las comisiones de salud y las áreas administrativas en esta materia de cada municipio, para la implementación de las acciones de: promoción y difusión del uso correcto y opcional del cubrebocas, así como de medidas sanitaras, inspección y vigilancia que establece la presente Ley.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2022)</small>
+
+De igual manera, la iniciativa privada deberá implementar campañas de difusión permanente del uso correcto del cubrebocas, así como los casos de su uso obligado, entre sus trabajadores y sus potenciales clientes.
 
 Asimismo, la Secretaría en conjunto con la COEPRIS y con la Secretaría de Seguridad Pública y policías municipales, deberán distribuir de manera gratuita cubrebocas a la población como medida, para el debido cumplimiento de las obligaciones establecidas en la presente ley; el cual debe ser cubrebocas tricapa termosellado plisado con ajustador nasal que selle perfectamente.
 
 ### CAPÍTULO SÉPTIMO. DE LAS AUTORIDADES COMPETENTES, VIGILANCIA, SUPERVISIÓN Y SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2022)</small>
+
 ###### Artículo 11.
 
-Corresponde a la Secretaría, a través de la COEPRIS, así como a los ayuntamientos, la vigilancia de la presente Ley, así como la imposición de las sanciones que correspondan por su incumplimiento.
+Corresponde a la Secretaría, a través de la COEPRIS, así como a los ayuntamientos, la vigilancia de la presente Ley.
 
-Las y los Guardianes de la Salud trabajarán bajo el mando y dirección de la COEPRIS, conforme a los lineamientos que para este fin se elaboren y publiquen.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2022)</small>
 
-Para los efectos del desarrollo y cumplimiento del objeto del operativo del uso correcto del cubrebocas, las Brigadas de los Guardianes de la Salud, participarán conjunta y coordinadamente con la Secretaría de Gobierno, la Secretaría de Salud, la Policía (sic) Michoacán, la Guardia Nacional, los ayuntamientos y las demás autoridades que participen en su implementación.
+En lo no previsto por la presente Ley, se aplicará de manera supletoria las disposiciones establecidas en la Ley de Salud del Estado de Michoacán de Ocampo, en materia de medidas de seguridad sanitaria.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 31 DE MAYO DE 2022)</small>
 
 ###### Artículo 12.
 
@@ -223,9 +243,13 @@ I. Solicitar verbalmente a la persona el uso adecuado del cubrebocas. En caso de
 
 II. Amonestación por escrito y con apercibimiento que en caso de no usar el cubrebocas será sancionado;
 
-III. Solicitar se retire a su domicilio o fuera de los lugares públicos o privados, en caso de negativa al uso del cubrebocas por parte de la persona, siempre y cuando no se encuentre en los supuestos de excepciones establecidas en el artículo 3 de la presente Ley;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2022)</small>
 
-IV. En caso de que la persona insista en no usar el cubrebocas se le impondrá una multa, de acuerdo con lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, en el caso de que sea jornalero y de 1 a 15 UMAS en caso de reincidencia o resistencia al uso correcto de cubrebocas.
+III. En caso de negativa al uso del cubrebocas por parte de la persona, siempre y cuando se encuentre justificado su obligatoriedad, solicitar se retire a su domicilio o fuera de los espacios cerrados en lugares públicos o privados;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MAYO DE 2022)</small>
+
+IV. En caso de que la persona insista en no usar el cubrebocas en espacios cerrados, se le impondrá una multa, de acuerdo con lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, en el caso de que sea jornalero y de 1 a 15 UMAS en caso de reincidencia o resistencia al uso correcto de cubrebocas;
 
 La multa podrá conmutarse por trabajo comunitario establecido por la autoridad correspondiente, a solicitud de los interesados, el cual no podrá exceder de tres días sin goce de sueldo; y,
 
@@ -294,3 +318,13 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRE
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 20 veinte días del mes de enero del año 2021 dos mil veintiuno.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ING. SILVANO AUREOLES CONEJO.- EL SECRETARIO DE GOBIERNO.- C. ARMANDO HURTADO ARÉVALO.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 164 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 1; 3; 4, PÁRRAFO PRIMERO; 5, PÁRRAFOS PRIMERO Y CUARTO; 7; 8; 9 PRIMER PÁRRAFO; 10, PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO; 11 Y 16 FRACCIONES III Y IV PÁRRAFO PRIMERO; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 1; Y, SE DEROGAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO DEL ARTÍCULO 3 Y EL PÁRRAFO TERCERO DEL ARTÍCULO 11; TODOS DE LA LEY QUE REGULA EL USO DE CUBREBOCAS EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El titular del Poder Ejecutivo tendrá un plazo de hasta treinta días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones correspondientes al Reglamento de la Ley.
