@@ -4,7 +4,7 @@ identifier: "HID-ley-de-presupuesto-y-contabilidad-gubernamental-del-estado-1033
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-27"
-last_updated: "2021-12-31"
+last_updated: "2022-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de octubre de 2014.
 
@@ -659,6 +659,8 @@ Las entidades deberán comprometer ante la Secretaría sus respectivas metas de 
 
 La Secretaría, la Contraloría y, en su caso, la dependencia coordinadora de sector, llevarán el seguimiento periódico del cumplimiento de dichos compromisos, el cual deberán reportar en los informes trimestrales.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2022)</small>
+
 ###### Artículo 23.
 
 En el ejercicio de sus presupuestos, las dependencias y entidades se sujetarán estrictamente a los calendarios de presupuesto autorizados a cada dependencia y entidad en los términos de las disposiciones aplicables, atendiendo los requerimientos de las mismas.
@@ -677,7 +679,7 @@ La Secretaría cumplirá estrictamente los calendarios de presupuesto autorizado
 
 La Secretaría reportará en los informes trimestrales al Congreso del Estado los saldos globales por dependencia o entidad, por unidad responsable y por programa, para evitar acumulación de saldos o subejercicios presupuestarios.
 
-Los subejercicios de los presupuestos de las dependencias y entidades que resulten, deberán subsanarse en un plazo máximo de 30 días naturales. En caso contrario dichos recursos se reasignarán a los programas sociales y de inversión en infraestructura.
+Los subejercicios de los presupuestos de las dependencias y entidades que resulten, deberán subsanarse en un plazo máximo de 30 días naturales. En caso contrario dichos recursos se reasignarán a los programas sociales y de inversión en infraestructura que el Congreso del Estado haya previsto en el Presupuesto de Egresos. La Secretaría estará obligada a reportar al respecto al Congreso del Estado, así como hacerle llegar la información necesaria dentro de los informes trimestrales.
 
 ## TÍTULO SEGUNDO. De la Planeación, Programación, Presupuestación y Aprobación
 
@@ -1798,3 +1800,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 TERCERO. Para efectos del aviso a que se refiere el penúltimo y último párrafos del artículo 26 de la Ley de Hacienda del Estado de Hidalgo, las personas físicas o morales que con anterioridad a la fecha de entrada en vigor del presente Decreto hayan subcontratado servicios especializados o la ejecución de obras especializadas, deberán presentar el aviso de los contratos o las modificaciones que se realicen a los mismos dentro de los treinta días siguientes a la entrada en vigor del presente Decreto.
 
 CUARTO. Lo dispuesto en el artículo 27 QUATER entrará en vigor a partir del 02 de enero del 2023 para personas morales, y para las personas físicas el 03 de julio del mismo año.
+
+P.O. 31 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 200 POR EL QUE SE REFORMA EL ARTÍCULO 23 DE LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
