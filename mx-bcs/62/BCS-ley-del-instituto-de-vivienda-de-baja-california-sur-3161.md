@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-instituto-de-vivienda-de-baja-california-sur-3161"
 country: "mx"
 rank: "ley"
 publication_date: "1982-07-10"
-last_updated: "2015-01-31"
+last_updated: "2022-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL INSTITUTO DE VIVIENDA DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2022.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 10 de julio de 1982.
 
@@ -84,6 +84,10 @@ XV.- En general, celebrar todos los contratos o convenios y ejecutar todos los a
 > <small>(ADICIONADA, B.O. 31 DE ENERO DE 2015)</small>
 
 XVI.- Promover la creación de planes y programas de vivienda que garanticen el acceso a personas con discapacidad, siempre que estas cumplan con los requisitos establecidos en esta ley, debiendo realizar las adecuaciones arquitectónicas en las viviendas para garantizar el pleno desarrollo de dichas personas.
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2022)</small>
+
+XVII.- Promover la celebración de acuerdos y convenios de intercambio de información con instituciones federales que lleven a cabo acciones de vivienda; sociedades dedicadas a la construcción y venta de vivienda e instituciones de crédito que tengan cartera de vivienda recuperada y de bajo costo disponible, lo anterior para tener acceso a su inventario, con el fin de hacer de conocimiento de dichas opciones de vivienda a la ciudadanía en general y puedan optar de realizar el trámite de adquisición ante dichas instituciones para satisfacer su derecho a la vivienda digna. En la plena inteligencia que la función del Instituto será meramente informativa, nunca podrá fungir como promotor, intermediario o gestor en ningún trámite para la adquisición de dichas viviendas entre los particulares e instituciones y sociedades mencionadas.
 
 ### CAPITULO II. PATRIMONIO Y ORGANIZACION
 
@@ -414,3 +418,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 B.O. 31 DE ENERO DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2826 SE ADICIONA UNA FRACCIÓN XVII AL ARTÍCULO 2° DE LA LEY DEL INSTITUTO DE VIVIENDA DE BAJA CALIFORNIA SUR”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
