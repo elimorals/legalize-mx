@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-instituto-de-investigaciones-54637"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-08"
-last_updated: "2022-05-24"
+last_updated: "2022-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2022.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 8 de febrero de 2007.
 
@@ -81,15 +81,27 @@ X. Presentar al Comité un informe mensual de las actividades desarrolladas; y a
 
 XI. Difundir, en el ámbito de su competencia, los resultados del desarrollo de la base de datos de la legislación estatal y de los programas de investigación, a través de publicaciones especializadas;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2022)</small>
 
 XII. Impartir, y organizar, cursos de capacitación para las diputadas y los diputados, por lo menos cada semestre, relativos a: los elementos técnicos para la elaboración de iniciativas; conocimientos básicos del proceso legislativo; obligaciones y responsabilidades; así como de las funciones del Poder Legislativo. A fin de conocer y cumplir las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones.
 
-Para los efectos del párrafo anterior el Instituto elaborará un “Programa de Capacitación Semestral”, que describirá el contenido y duración de los cursos que se llevarán a cabo cada semestre, y
+Para los efectos del párrafo anterior el Instituto elaborará un “Programa de Capacitación Semestral”, que describirá el contenido y duración de los cursos que se llevarán a cabo cada semestre;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2022)</small>
+
+XIII. Crear, integrar y actualizar permanentemente un banco de información jurídica, económica, política y social de perspectiva de género; para fundamentar la toma de decisiones en esa materia, de las y los diputados y de las comisiones del Congreso;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2022)</small>
+
+XIV. Realizar estudios de derecho comparado con perspectiva de género que sirvan a las y los diputados para actualizar la legislación estatal y municipal;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2022)</small>
+
+XV. Coadyuvar a las tareas legislativas elaborando estudios e investigaciones, el impacto diferencial de género en los aspectos económicos, políticos, sociales, culturales, ambientales e indígenas de los derechos humanos de las mujeres, y
 
 > <small>(ADICIONADA, P.O. 11 DE JULIO DE 2013)</small>
 
-XIII. Las demás que el Congreso del Estado le confiera.
+XVI. Las demás que el Congreso del Estado le confiera.
 
 ###### ARTICULO 4°.
 
@@ -384,5 +396,13 @@ P.O. 24 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0323.- SE REFORMA EL ARTÍCULO 165, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 3º EN SU FRACCIÓN XII, DEL REGLAMENTO INTERIOR DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL CONGRESO DEL ESTADO”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0332.- SE REFORMAN LOS ARTÍCULOS 98 Y 103 Y ADICIONA AL ARTÍCULO 98 UNA FRACCIÓN Y EL ARTÍCULO 110 BIS, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 3º Y ADICIONAN AL MISMO ARTÍCULO 3º TRES FRACCIONES, DEL REGLAMENTO DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL CONGRESO DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
