@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2022-04-21"
+last_updated: "2022-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -423,11 +423,11 @@ k) Por falta comprobada al cumplimiento de las condiciones generales de trabajo 
 
 l) Por prisión que sea el resultado de una sentencia ejecutoriada siempre que le impida el cumplimiento de la relación de trabajo. Cuando esta sentencia sea absolutoria al servidor deberá reintegrársele a sus labores; debiéndosele liquidar sus sueldos cuando haya obrado en defensa de los intereses de la Entidad Pública.
 
-II) Las análogas a las establecidas en los incisos anteriores.
+ll) Las análogas a las establecidas en los incisos anteriores.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2022)</small>
 
-m) Por el incumplimiento de las obligaciones establecidas en los artículos 55 y 56, o por la violación de las prohibiciones del artículo 56-Bis de esta ley, de acuerdo con la valoración de la gravedad de la falta;
+m) Por el incumplimiento de las obligaciones establecidas en los artículos 55 y 56, o por la violación de las prohibiciones del artículo 56-Bis de esta ley, de acuerdo con la valoración de la gravedad de la falta, con excepción de la declaración patrimonial final, la cual será sancionada con inhabilitación en los términos de la Ley General de Responsabilidades Administrativas;
 
 n) (DEROGADO, P.O. 16 DE MARZO DE 2017)
 
@@ -3198,3 +3198,9 @@ P.O. 21 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28771/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, LEY ESTATAL PARA LA IGUALDAD ENTRE LAS MUJERES Y HOMBRES; LEY ORGÁNICA DEL PODER EJECUTIVO; LEY ORGÁNICA DEL PODER JUDICIAL; Y LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO Y SUS MUNICIPIOS, TODAS LEYES DEL ESTADO DE JALISCO, EN MATERIA DE IGUALDAD SALARIAL, NO DISCRIMINACIÓN Y VIOLENCIA LABORAL CONTRA LAS MUJERES”.]
 
 ÚNICO. El presente decreto entrará en vigor a partir del siguiente día de su publicación en el periódico oficial "El Estado de Jalisco"
+
+P.O. 31 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28778/LXIII/22 QUE MEDIANTE EL CUAL SE RESUELVEN LAS OBSERVACIONES FORMULADAS POR EL TITULAR DEL PODER EJECUTIVO A LA MINUTA DEL DECRETO 28736/LXIII/22 Y SE MODIFICAN LOS ARTÍCULOS 16 Y 22 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
