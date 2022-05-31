@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2022-05-09"
+last_updated: "2022-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 9 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 31 DE MAYO DE 2022.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -5897,7 +5897,9 @@ Dirección de Corresponsabilidad Social
 
 La Coordinación General de Combate a la Desigualdad, tiene por objeto fomentar el desarrollo y la ejecución de programas sociales que impulsen el progreso social responsable e incluyente, para garantizar un crecimiento equitativo y sustentable para la población municipal. Mediante las atribuciones específicas conferidas a las dependencias a su cargo.
 
-Para el despacho de los asuntos de su competencia, cuenta con las áreas de Programas Sociales Municipales, Juventudes, de Inclusión y Atención a Personas con Discapacidad, del Programa Guadalajara Presente, y de Enlace de Programas.
+> <small>(REFORMADO, G.M. 31 DE MAYO DE 2022)</small>
+
+Para el despacho de los asuntos de su competencia, cuenta con las áreas de Programas Sociales Municipales, Juventudes, de Inclusión y Atención a Personas con Discapacidad, del Programa Guadalajara Presente, de Enlace de Programas, de Pueblos Originarios, y de Diversidad Sexual.
 
 Se encuentra sectorizado a la Coordinación el Organismo Público Descentralizado denominado Instituto Municipal de las Mujeres de Guadalajara.
 
@@ -6054,6 +6056,60 @@ II. Diseñar e implementar los mecanismos para la participación de las y los be
 III. Realizar acciones coordinadas con entidades internacionales, la Federación y el Estado, encaminadas a registrar, dar seguimiento y acercar a las ciudadanas y los ciudadanos los programas sociales; y
 
 IV. Analizar los programas sociales de los tres órdenes de gobierno con la finalidad de promover la formulación de procesos de participación social de la población más desprotegida, en los programas a cargo del Municipio y establecer mecanismos que permitan homologar los métodos, elementos y características de participación social.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 31 DE MAYO DE 2022)</small>
+
+Subsección VI
+
+Dirección de Pueblos Originarios
+
+> <small>(ADICIONADO, G.M. 31 DE MAYO DE 2022)</small>
+
+Artículo 235 Duodecies. La Dirección de Pueblos Originarios cuenta con las siguientes atribuciones:
+
+I. Analizar y proponer políticas públicas que tiendan a mejorar la calidad de vida, la igualdad de oportunidades, así como la protección, promoción y defensa de los derechos de las personas pertenecientes a pueblos originarios con residencia en el municipio;
+
+II. Establecer coordinación y proponer acuerdos de colaboración con otras entidades, dependencias y áreas de la administración pública, ya sea federal o estatal, a fin de generar los mecanismos necesarios para mejorar la protección, promoción y defensa de los derechos de las personas pertenecientes a pueblos originarios con residencia en el municipio;
+
+III. Ser vínculo entre la administración pública municipal y las comunidades pertenecientes a pueblos originarios que residan en el municipio, para la atención y seguimiento de los temas administrativos o gubernamentales que les sean de interés a su comunidad;
+
+IV. Fomentar el respeto a la diversidad cultural individual y colectiva de los pueblos originarios;
+
+V. Promover la vinculación con los sectores sociales y privado para el rescate y preservación de las manifestaciones culturales en beneficio de las personas de pueblos originarios que residen en el municipio; y
+
+VI. Proponer e implementar mecanismos de participación ciudadana que involucren a los pueblos originarios en la toma de decisiones del municipio.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 31 DE MAYO DE 2022)</small>
+
+Subsección VII
+
+Dirección de Diversidad Sexual
+
+> <small>(ADICIONADO, G.M. 31 DE MAYO DE 2022)</small>
+
+Artículo 235 Terdecies. La Dirección de Diversidad Sexual tiene las siguientes atribuciones:
+
+I. Promover los Derechos Humanos de las personas de la población de la diversidad sexual respetando los principios de universalidad, interdependencia, indivisibilidad y progresividad, esto considerando las interseccionalidades de la diversidad sexual;
+
+II. Analizar y proponer las políticas públicas en materia de atención a las personas de la diversidad sexual, mismas que permitan la inclusión e incorporación plena al desarrollo del Municipio;
+
+III. Coordinarse y proponer acuerdos, contratos y convenios con la Dirección de Diversidad Sexual del Gobierno del Estado de Jalisco para la planeación de los programas que involucren a las personas de la diversidad sexual;
+
+IV. Coadyuvar con las direcciones de la administración pública municipal para la creación de los planes de trabajo transversales e incluyentes;
+
+V. Emitir opiniones técnicas cuando les sean solicitadas por los órganos integrantes de la administración pública municipal;
+
+VI. Proponer a la Presidenta o el Presidente Municipal, así como a los regidores y regidoras iniciativas con el fin de lograr soluciones a las problemáticas específicas de la población de la diversidad sexual;
+
+VII. Capacitar y asesorar a las y los servidores públicos cuando estos así lo requieran en materia de diversidad sexual;
+
+VIII. Proponer la subscripción de convenios o cualquier otro documento con instituciones públicas o privadas para la planeación y ejecución de los programas que involucren a la población de la diversidad sexual;
+
+IX. Diseñar y proponer a la Coordinación de Análisis Estratégico y Comunicación campañas de concientización e información a través de medios electrónicos promoviendo el acceso a los programas de la población de la diversidad sexual;
+
+X. Proporcionar asesoría y orientación a personas y grupos en situación de discriminación por género u orientación sexual; y
+
+XI. Servir como vínculo entre la administración pública municipal y las organizaciones de la sociedad civil, instituciones nacionales e internacionales y especialistas, dedicadas a la defensa de los derechos de las personas de la diversidad sexual.
 
 > <small>(REFORMADA EN SU NÚMERACIÓN [N. DE E. ANTES SECCIÓN SEXTA], G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -7922,3 +7978,27 @@ Primero. Publíquese la presente reforma en la Gaceta Municipal de Guadalajara.
 Segundo. Esta reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicada la aludida reforma, remítase una copia al Congreso del Estado de Jalisco para efectos de lo ordenado en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 31 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA”.]
+
+Primero. Publíquese lo conducente del presente ordenamiento en la Gaceta Municipal de Guadalajara.
+
+Segundo. Las presentes modificaciones entrarán en vigor a partir del día siguiente al de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Por única ocasión, se instruye a la Coordinación General de Combate a la Desigualdad para que en un plazo no mayor a 30 treinta días hábiles siguientes a la publicación del presente ordenamiento en la Gaceta Municipal de Guadalajara, realice la convocatoria para elegir a la persona titular de la Dirección de Pueblos Originarios.
+
+Cuarto. Notifíquese el presente ordenamiento a las instancias y dependencias municipales que atendiendo a la naturaleza del mismo deban conocerlo, lo anterior, para los efectos legales y administrativos a que haya lugar.
+
+G.M. 31 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO DE MUNICIPAL DE GUADALAJARA”.]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Estas reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Por única ocasión, se instruye a la Coordinación General de Combate a la Desigualdad para que en un plazo no mayor a 30 días hábiles siguientes a la publicación del presente ordenamiento en la Gaceta Municipal de Guadalajara, realice la convocatoria para elegir a la persona titular de la Dirección de Diversidad Sexual.
+
+Cuarto. Una vez publicadas las presentes disposiciones, remítanse mediante oficio un tanto al Congreso del Estado de Jalisco, para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
