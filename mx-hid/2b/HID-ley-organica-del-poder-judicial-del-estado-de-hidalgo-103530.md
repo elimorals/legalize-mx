@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-judicial-del-estado-de-hidalgo-103530"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-10"
-last_updated: "2021-09-13"
+last_updated: "2022-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2022.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -1811,7 +1811,9 @@ Los Consejeros o Consejeras no podrán abstenerse de votar, sino cuando tengan i
 
 El Pleno del Consejo de la Judicatura tendrá las siguientes atribuciones:
 
-I.- Convocar a los concursos de oposición y procesos de selección que prevea la Ley;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2022)</small>
+
+I.- Convocar a los concursos de oposición y procesos de selección que prevea la Ley, garantizando que estos observen el principio de paridad de género;
 
 II.- Ejercer el presupuesto de egresos del Poder Judicial y llevar el registro contable del presupuesto autorizado al Poder Judicial;
 
@@ -2449,9 +2451,11 @@ Los Magistrados, las Magistradas, Consejeros, Consejeras de la Judicatura, Juece
 
 ### CAPÍTULO II. Del Ingreso y promoción de los Servidores Públicos
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO 155.
 
-El ingreso y la promoción de los servidores públicos del Poder Judicial, en su caso, se harán mediante los concursos de opisición (sic), los procesos de selección, los exámenes de aptitud y demás medios que al efecto se señalen, siempre, regidos por los principios de independencia, imparcialidad, profesionalismo, excelencia, objetividad, y antigüedad.
+El ingreso y la promoción de los servidores públicos del Poder Judicial, en su caso, se harán mediante los concursos de opisición (sic), los procesos de selección, los exámenes de aptitud y demás medios que al efecto se señalen, siempre, regidos por los principios de paridad de género, independencia, imparcialidad, profesionalismo, excelencia, objetividad, y antigüedad.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -2473,11 +2477,11 @@ II. Secretario o Secretaria de acuerdos y/o de amparos y/o de estudio y cuenta;
 
 III. Juez o Jueza.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2022)</small>
+
 ###### ARTÍCULO 157.
 
-El ingreso y promoción para las categorías de la carrera judicial se realizará conforme al procedimiento de los concursos de oposición convocados por el Consejo de la Judicatura.
-
-Con la excepción prevista por el artículo 100 ter fracción III de la Constitución Política del Estado de Hidalgo y conforme a las previstas en el reglamento de la presente Ley.
+El ingreso y promoción para las categorías de la carrera judicial se realizará conforme al procedimiento de los concursos de opocisión (sic) convocados por el Consejo de la Judicatura y en los que se observará el principio de paridad de género.
 
 ###### ARTÍCULO 158.
 
@@ -2485,25 +2489,37 @@ Los concursos de oposición se desarrollará (sic), en cuatro etapas: examen esc
 
 I.- El Pleno del Consejo de la Judicatura emitirá una convocatoria que deberá ser Publicada en cualquiera de los medios de difusión. En la convocatoria se deberá especificar si el concurso se tratará de oposición libre o de concurso interno de oposición;
 
-II.- La convocatoria señalará las categorías y número de vacantes sujetas a concurso, el lugar, día y hora en que se llevarán a cabo los exámenes, así como el plazo, lugar de inscripción y demás elementos que se estimen necesarios;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2022)</small>
 
-III.- Los aspirantes inscritos deberán resolver por escrito un cuestionario cuyo contenido versará sobre las distintas materias que se relacionen con la actividad jurisdiccional propias, en función de la categoría de que se trate;
+II.- La convocatoria señalará las categorías, número de vacantes sujetas a concurso, el género asignado a cada plaza vacante, el lugar, día y hora en que se llevarán a cabo los exámenes, así como el plazo, lugar de inscripción y demás elementos que se estimen necesarios;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2022)</small>
+
+III.- Las personas aspirantes inscritas deberán resolver por escrito un cuestionario cuyo contenido versará sobre las distintas materias que se relacionen con la actividad jurisdiccional propias, en función de la categoría de que se trate;
 
 IV.- De entre el número total de aspirantes tendrán derecho a pasar a la siguiente etapa las personas que hayan obtenido las mejores notas aprobatorias en el cuestionario escrito;
 
 V.- La siguiente etapa consistirá en una evaluación psicométrica;
 
-VI.- Los aspirantes seleccionados, en términos de la fracción IV del presente artículo, resolverán los casos prácticos que se les asignen mediante la redacción de las respectivas resoluciones y sólo los que obtengan las mejores notas aprobatorias, progresarán a la última etapa;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2022)</small>
+
+VI.- Las personas aspirantes seleccionadas, en términos de la fracción IV del presente artículo, resolverán los casos prácticos que se les asignen mediante la redacción de las respectivas resoluciones y sólo los que obtengan las mejores notas aprobatorias, progresarán a la última etapa;
 
 VII.- La cuarta etapa consistirá en una entrevista que se desarrollará en los términos que al efecto se establezca en la convocatoria;
 
-VIII.- Al llevar a cabo la evaluación, el jurado tomará en consideración los cursos que haya realizado el sustentante en el Instituto de Profesionalización e Investigaciones Jurídicas del Poder Judicial, o en cualquier institución educativa, la antigüedad y la trayectoria laboral, el grado académico y los cursos de actualización y especialización acreditados;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2022)</small>
 
-IX.- Cuando ningún sustentante alcance el puntaje mínimo requerido, el concurso se declarará desierto; y
+VIII.- Al llevar a cabo la evalución (sic), el jurado tomará en consideración los cursos que haya realizado la persona sustentante en el Instituto de Profesionalización e Investigaciones Jurídicas del Poder Judicial, o en cualquier institución educativa, la antigüedad y la trayectoria laboral, el grado académico y los cursos de actualización y especialización acreditados;
 
-X.- Concluido el proceso de selección, se levantará una acta final circunstanciada y se dictaminará quienes son los concursantes con mayores méritos para ocupar las plazas en concurso. El Presidente o Presidenta del jurado enviará al Pleno del Consejo de la Judicatura el acta con la documentación de respaldo necesaria, para que se proceda a la designación y toma de protesta conducentes ante el Pleno del Consejo de la Judicatura y Pleno de Magistrados y Magistradas.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2022)</small>
 
-De acuerdo con las características del puesto objeto del concurso, el Consejo de la Judicatura podrá establecer, como parte del procedimiento, que los aspirantes tomen determinados cursos o programas académicos y, en su caso, se sometan a pruebas de confianza.
+IX.- Cuando ninguna persona sustentante alcance el puntaje mínimo requerido, el concurso se declarará desierto;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2022)</small>
+
+X.- Concluido el proceso de selección, se levantará un acta final circunstanciada y se dictaminará quienes son las personas consursantes (sic) con mayores méritos para ocupar las plazas en consurso (sic). El Presidente o Presidenta del jurado enviará al Pleno del Consejo de la Judicatura el acta con la documentación de respaldo necesaria, para que proceda a la designación y toma de protesta conducentes ante el Pleno del Consejo de la Judicatura y Pleno de Magistrados y Magistradas.
+
+De acuerdo con las características del puesto objeto del concurso, el Consejo de la Judicatura podrá establecer, como parte del procedimiento, que las personas aspirantes tomen determinados cursos o programas académicos y, en su caso, se sometan a pruebas de confianza.
 
 ###### ARTÍCULO 159.
 
@@ -2810,5 +2826,11 @@ P.O. 15 DE DICIEMBRE DE 2020.
 P.O. 13 DE SEPTIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 761 QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 52 Y SE ADICIONA EL ARTÍCULO 155 BIS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO; SE REFORMA EL ARTÍCULO 46 PÁRRAFO PRIMERO Y 66 PÁRRAFO PRIMERO, DE LA LEY DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUMERO 201 POR EL QUE SE REFORMAN, LA FRACCIÓN I DEL ARTÍCULO 118; EL ARTÍCULO 155; EL ARTÍCULO 157; ASÍ COMO, LAS FRACCIONES II, III, VI, VIII, IX Y X DEL ARTÍCULO 158, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
