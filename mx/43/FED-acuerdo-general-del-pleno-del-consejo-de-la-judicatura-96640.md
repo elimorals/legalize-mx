@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2022-03-14"
+last_updated: "2022-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MAYO DE 2022.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -810,6 +810,10 @@ II. Proponer al Pleno, para su aprobación, el proyecto de acuerdo general en el
 II Bis. Proponer al Pleno para su aprobación, los acuerdos generales de creación de los Centros de Justicia Penal;
 
 III. Dictar las disposiciones necesarias tendentes a regular el turno de los asuntos de la competencia de los órganos jurisdiccionales, cuando en un mismo lugar haya varios de ellos;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN AL TURNO DE GUARDIA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 31 DE MAYO DE 2022)</small>
+
+III Bis. Determinar los periodos de guardias de los Tribunales Colegiados de Circuito, Tribunales Colegiados de Apelación y de los Juzgados de Distrito;
 
 IV. Proponer al Pleno, para su aprobación, los cambios de residencia de los órganos jurisdiccionales;
 
@@ -1951,7 +1955,9 @@ VII. Proponer a la Comisión de Creación de Nuevos Órganos las disposiciones n
 
 VIII. Proponer la normativa y procedimientos específicos para la creación y determinación de competencia, jurisdicción, especialización, cambio de sede y sistema de turno de órganos jurisdiccionales;
 
-IX. Elaborar y actualizar el Sistema de Turnos de Guardias de los juzgados de Distrito, para la recepción de asuntos de nuevo ingreso en días y horas inhábiles;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN AL TURNO DE GUARDIA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 31 DE MAYO DE 2022)</small>
+
+IX. Elaborar y actualizar el Sistema de Turnos de Guardias de los Tribunales Colegiados de Circuito, Tribunales Colegiados de Apelación y de los Juzgados de Distrito;
 
 X. Dar seguimiento, en coordinación con las áreas administrativas correspondientes, a las etapas generales de los procedimientos de instalación de los órganos jurisdiccionales creados para estar en posibilidad de informar periódicamente a la Comisión de Creación de Nuevos Órganos sobre su avance, así como proponer a esta última la fecha de inicio de funciones de los mismos;
 
@@ -6736,3 +6742,13 @@ QUINTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal deb
 SEXTO. El cambio en la vigencia del certificado digital de la FIREL surtirá efecto a partir del 16 de marzo de 2022.
 
 SÉPTIMO. Las consultas a que se refiere el artículo 46 Ter del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, serán recibidas a través del Sistema de Gestión Documental (SIGDOC) a partir del 16 de marzo de 2022. Se instruye a las direcciones generales de Estrategia y Transformación Digital y Tecnologías de la Información la realización de todas las acciones necesarias para implementar la conexión de los órganos jurisdiccionales con la Secretaría Ejecutiva de Creación de Nuevos Órganos, a través del referido Sistema.
+
+D.O.F. 31 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN AL TURNO DE GUARDIA DE LOS ÓRGANOS JURISDICCIONALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral del Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Hasta que entren en operación en todo el país los Tribunales Colegiados de Apelación, las referencias hechas a estos órganos jurisdiccionales en este Acuerdo, se entenderán aplicables a los Tribunales Unitarios de Circuito.
