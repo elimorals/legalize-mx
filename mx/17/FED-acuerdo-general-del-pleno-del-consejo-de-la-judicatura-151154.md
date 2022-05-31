@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-151154"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-09-20"
-last_updated: "2021-09-20"
+last_updated: "2022-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151154&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-09-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MAYO DE 2022.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 20 de septiembre de 2021.
 
@@ -55,11 +55,13 @@ ACUERDO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
+
 ###### Artículo 1.
 
 Objeto
 
-El presente Acuerdo tiene por objeto regular la selección del personal especializado que atenderá los asuntos relacionados con la materia laboral en auxilio específico de los Tribunales Laborales Federales en los casos que así lo determine la Ley, mismos que serán adscritos a la Unidad de Peritos Judiciales, así como sus remuneraciones, obligaciones y causas de responsabilidad, estableciendo el procedimiento para su designación de conformidad con lo dispuesto en los artículos 899-G de la Ley Federal del Trabajo y 101, 102, 103 y 104 de la Ley Orgánica del Poder Judicial de la Federación.
+El presente Acuerdo tiene por objeto regular la selección del personal especializado que atenderá los asuntos periciales, en auxilio específico de los Tribunales Laborales Federales en los casos que así lo determine la Ley, mismos que serán adscritos a la Unidad de Peritos Judiciales, así como sus remuneraciones, obligaciones y causas de responsabilidad, estableciendo el procedimiento para su designación de conformidad con lo dispuesto en los artículos 899-G, 905 y 907 de la Ley Federal del Trabajo y 101, 102, 103 y 104 de la Ley Orgánica del Poder Judicial de la Federación.
 
 ###### Artículo 2.
 
@@ -67,27 +69,47 @@ Glosario
 
 Para los efectos de este Acuerdo, se entenderá por:
 
-I. Acuerdo General: Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula la integración de la Lista de personas que pueden fungir como peritos ante los órganos del Poder Judicial de la Federación;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
 
-II. Aspirante: Persona interesada en formar parte de la Unidad con la calidad de perito, quien deberá cumplir con los requisitos establecidos en la Convocatoria que al efecto se emita;
+I. Acuerdo General: Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula la selección, integración y evaluación del personal especializado de la Unidad de Peritos Judiciales; y la emisión de dictámenes periciales relacionados con la materia laboral en auxilio específico de los Tribunales Laborales Federales;
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
+
+II. Aspirante: Persona interesada en formar parte de la Unidad con la calidad de perita o perito, quien deberá cumplir con los requisitos y procedimientos establecidos en la normativa que al efecto se emita;
 
 III. Comisión: Comisión de Carrera Judicial;
 
 IV. Consejo: Consejo de la Judicatura Federal;
 
-V. Convocatoria: Documento que invita a las personas interesadas en participar en el concurso para fungir como perito auxiliar de los Tribunales Laborales Federales y que fija las bases que habrán de seguirse y requisitos para los aspirantes;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
 
-VI. Dictamen pericial: Informe que rinde un perito o experto en cualquier profesión, oficio, ciencia, arte, conocimiento o técnica de una materia, en el que da a conocer sus puntos de vista o resultado del examen o análisis realizado;
+V. Convocatoria: Documento que invita a las personas interesadas en participar en el concurso para fungir como perita o perito médico, auxiliar de los Tribunales Laborales Federales y que fija las bases que habrán de seguirse y requisitos para las y los aspirantes;
 
-VII. Jurado: Personas designadas por el Consejo, con la cooperación de instituciones públicas o privadas, por su capacidad, ante quienes los peritos tendrán que acreditar su pericia mediante examen que para tal efecto se presentará;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
+
+VI. Dictamen pericial: Informe que rinde una perita o perito o experta o experto en cualquier profesión, oficio, ciencia, arte, conocimiento o técnica de una materia, en el que da a conocer sus puntos de vista o resultado del examen o análisis realizado;
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
+
+VII. Jurado: Personas designadas por el Consejo, con la cooperación de instituciones públicas o privadas, por su capacidad, ante quienes las peritas y los peritos médicos tendrán que acreditar su pericia mediante examen que para tal efecto se presentará;
 
 VIII. Ley: Ley Federal del Trabajo;
 
-IX. Lista: Relación de personas aprobadas para fungir como peritos ante los órganos del Poder Judicial de la Federación;
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
 
-X. Órganos jurisdiccionales: Tribunales Colegiados de Circuito, Tribunales Colegiados de Apelación, Juzgados de Distrito y Tribunales Laborales Federales;
+VIII. Bis. Ley Orgánica: Ley Orgánica del Poder Judicial de la Federación;
 
-XI. Perito: Persona que cuenta con conocimientos en la profesión, oficio, ciencia, arte o técnica de una materia;
+IX. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)
+
+X. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
+
+XI. Perita o Perito: Persona que cuenta con conocimientos en la profesión, oficio, ciencia, arte o técnica de una materia;
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
+
+XI. Bis. Perita/Perito médico: Persona con conocimientos en medicina del trabajo;
 
 XII. Pleno: Pleno del Consejo de la Judicatura Federal;
 
@@ -103,65 +125,83 @@ Principios
 
 Las y los peritos adscritos a la Unidad se regirán por los principios de excelencia, objetividad, profesionalismo, independencia e imparcialidad.
 
-### CAPÍTULO II. DE LA SELECCIÓN DE PERITOS DE LA UNIDAD
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
+
+### CAPÍTULO II. DE LA SELECCIÓN DE PERITAS O PERITOS DE LA UNIDAD
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
 
 ###### Artículo 4.
 
-Mecanismo
+Mecanismo de adscripción para peritas y peritos médicos con conocimientos en medicina del trabajo
 
-Las y los peritos serán seleccionados mediante concurso abierto, que consistirá en acreditar su pericia mediante examen que se presentará ante un jurado, atendiendo a los lineamientos establecidos en la Convocatoria correspondiente.
+Las y los peritos médicos serán seleccionados mediante concurso abierto, que consistirá en acreditar su pericia mediante examen que se presentará ante un jurado, atendiendo a las bases establecidas en la Convocatoria correspondiente.
 
 ###### Artículo 5.
 
 Integración del jurado
 
-El jurado estará conformado por cinco integrantes bajo el siguiente esquema: será presidido por la persona titular de la Unidad, la persona titular de la Secretaría Ejecutiva de Carrera Judicial, la persona titular de la Unidad de Implementación de la Reforma en materia de Justicia Laboral, una persona proveniente de una institución pública y otra más de una institución privada, ambas especializadas en la materia que se requiera. La Unidad someterá a la aprobación de la Comisión la propuesta para la conformación del jurado.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
 
-El cargo de miembro del jurado es honorario, por lo que no podrá recibirse remuneración alguna por su desempeño. Sin embargo, dado que existe un interés público en la eficiencia del servicio pericial, las personas que lo ocupen podrán ser sujetas a los procedimientos de sanción correspondientes cuando se demuestre que actualizan una causa de responsabilidad en términos de las disposiciones aplicables.
+El jurado estará conformado por cinco integrantes bajo el siguiente esquema: será presidido por la persona titular de la Unidad, la persona titular de la Secretaría Ejecutiva de Carrera Judicial, la persona titular de la Unidad de Implementación de la Reforma en materia de Justicia Laboral, una persona proveniente de una institución pública y otra más de una institución privada, ambas especializadas en la materia que se requiera. La Unidad someterá a la aprobación de la Comisión la propuesta para la conformación del jurado y en su caso la suplencia por ausencia de los integrantes.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
+
+El cargo de miembro del jurado es honorario, por lo que no podrá recibirse remuneración alguna por su desempeño. Sin embargo, dado que existe un interés público en la eficiencia del servicio pericial, las personas que lo ocupen dicho cargo, podrán ser sujetas a los procedimientos de sanción correspondientes cuando se demuestre que actualizan una causa de responsabilidad en términos de las disposiciones aplicables.
 
 A las deliberaciones del jurado, será convocado, en calidad de invitado, el representante de la Contraloría del Consejo.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
+
 ###### Artículo 6.
 
-Convocatoria
+Convocatoria para la selección de las peritas y los peritos médicos con conocimiento en medicina del trabajo
 
 La Unidad elaborará la Convocatoria que será dirigida a todas las personas que cuenten con conocimientos en Medicina del Trabajo o áreas afines según se determine; y señalará los requisitos que deberán cumplir las y los especialistas que tengan interés en participar en el proceso de selección, el número y tipo de plazas disponibles, el lugar y el plazo para la presentación y análisis de las solicitudes, el procedimiento para realizar el examen, las reglas para la evaluación que llevará a cabo el jurado, privilegiando el uso de las herramientas tecnológicas de la información disponibles o que sean habilitadas para tales efectos.
 
 La Unidad someterá la Convocatoria a la aprobación por parte de la Comisión, y ésta ordenará su publicación en el Diario Oficial de la Federación, en dos diarios de circulación nacional, y en el portal del Consejo en intranet e internet, fomentando la asignación equilibrada de las plazas a fin de procurar la paridad de género conforme a la normativa vigente del Consejo.
 
-Manifestación bajo protesta de decir verdad, de todas las relaciones familiares por afinidad o consanguinidad hasta el quinto grado que desempeñen o hayan desempeñado algún cargo o comisión en el Poder Judicial de la Federación.
-
-En la convocatoria se establecerá la disponibilidad de plazas a concursar, por lo que los aspirantes que obtengan el mayor puntaje, serán adscritos a la Unidad, considerando que para determinar a las ganadoras y ganadores se priorizará el puntaje de mayor a menor, de conformidad al examen y a la decisión del jurado en términos de los lineamientos correspondientes.
+En la convocatoria se establecerá la disponibilidad de plazas a concursar, por lo que las y los aspirantes que obtengan el mayor puntaje serán adscritos a la Unidad, considerando que para determinar a las ganadoras y ganadores se priorizará el puntaje de mayor a menor, de conformidad al examen y a la decisión del jurado, en términos de los lineamientos correspondientes.
 
 En caso de empate, se hará valer la paridad de género.
 
-La Unidad, previa aprobación de la Comisión, podrá suspender o cancelar el desarrollo de una Convocatoria cuando concurran causas extraordinarias y debidamente justificadas, debiendo hacerlo del conocimiento de las y los aspirantes. Asimismo, la Unidad está facultada para obtener y verificar, en todo momento, la información que las y los aspirantes hubieran proporcionado, suspender y/o cancelar el trámite de la solicitud de cualquier aspirante que no reúna los requisitos solicitados, que declare información falsa o que incurra en una falta grave en contra del procedimiento de selección de peritos.
+La Unidad, previa aprobación de la Comisión, podrá suspender o cancelar el desarrollo de una Convocatoria cuando concurran causas extraordinarias y debidamente justificadas, debiendo hacerlo del conocimiento de las y los aspirantes. Asimismo, la Unidad está facultada para obtener y verificar, en todo momento, la información que las y los aspirantes hubieran proporcionado, suspender y/o cancelar el trámite de la solicitud de cualquier aspirante que no reúna los requisitos solicitados, que declare información falsa o que incurra en una falta grave en contra del procedimiento de selección de peritas o peritos.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
 
 ###### Artículo 7.
 
 Requisitos para ser perita o perito
 
-Para ser perita o perito de la Unidad se requieren los siguientes requisitos:
+Para ser perita o perito de la Unidad en disciplinas diversas a la medicina, requieren los siguientes requisitos:
 
 I. Poseer la ciudadanía mexicana;
 
 II. Gozar de buena reputación;
 
-III. Conocer de la ciencia, arte u oficio sobre el que verse la Convocatoria; si la profesión o el arte estuvieren legalmente reglamentados, comprobar estar autorizados conforme a la Ley; y
+III. Conocer de la ciencia, arte u oficio sobre el que vaya a versar el Dictamen pericial; si la profesión o el arte estuvieren legalmente reglamentados, comprobar estar autorizados conforme a la Ley;
 
-IV. Acreditar su pericia mediante el examen que presentará ante el jurado.
+IV. Acreditar su pericia mediante el examen que presentará ante el jurado;
+
+V. No haber sido condenado por delito intencional sancionado con pena corporal; y
+
+VI. Tener al menos tres años de experiencia vinculados con la especialidad de la cual rendirán el dictamen correspondiente.
+
+El examen referido en la fracción IV, se podrá practicar a través de instituciones públicas o privadas que cuenten con la capacidad para ello, en la rama del conocimiento de que se trate, las que actuarán en coordinación con el Consejo. Lo anterior, se realizará con la participación y seguimiento de la Unidad, asegurando que se lleve a cabo conforme los lineamientos que apruebe la Comisión.
 
 Para ser perita o perito médico de la Unidad, adicionalmente a los requisitos anteriores, se deberán considerar los siguientes:
 
 I. Estar legalmente autorizado y capacitado para ejercer la profesión de médico con la especialidad requerida;
 
-II. Tener al menos tres años de experiencia profesional vinculada con la medicina del trabajo; y
+II. Que la experiencia profesional esté vinculada con medicina del trabajo; y
 
-III. No haber sido condenado por delito intencional sancionado con pena corporal.
+III. Acreditar su pericia mediante el examen que presentará ante el jurado.
+
+> <small>(REFORMADO SU EPÍGRAFE POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
 
 ###### Artículo 8.
 
-Recepción de solicitudes
+Recepción de solicitudes de aspirantes a peritas y peritos médicos
 
 La Unidad recibirá y analizará las solicitudes de las y los aspirantes durante el plazo que se determine en la Convocatoria y verificará que las y los aspirantes cumplan con los requisitos previstos en la documentación presentada.
 
@@ -177,9 +217,13 @@ La Unidad, dará a conocer el listado de las personas que hayan presentado la in
 
 Examen
 
-Las y los aspirantes, participarán en un examen que tendrá la modalidad establecida en la Convocatoria, para acreditar su pericia.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
 
-La Unidad podrá apoyarse para la realización del examen en la Escuela Federal de Formación Judicial o en su caso, con dependencias o instituciones públicas o privadas con las que se tengan celebrados convenios de colaboración en los términos del presente Acuerdo, para el auxilio en los procedimientos de selección de los peritos y de ser necesario, podrá realizar las gestiones correspondientes ante la Secretaría Ejecutiva de Administración a fin de requerir la contratación de los servicios conducentes para la celebración de los concursos y exámenes correspondientes, siempre procurando las mejores condiciones para el Consejo.
+Las y los aspirantes a peritas o peritos médicos, participarán en un examen que tendrá la modalidad establecida en la Convocatoria, para acreditar su pericia.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
+
+La Unidad podrá apoyarse para la realización y ejecución del examen en la Escuela Federal de Formación Judicial o en su caso, con dependencias o instituciones públicas o privadas para el auxilio en los procedimientos de selección de las peritas o peritos y de ser necesario, podrá realizar las gestiones correspondientes ante la Secretaría Ejecutiva de Administración a fin de requerir la contratación de los servicios conducentes para la celebración de los concursos y exámenes correspondientes, siempre procurando las mejores condiciones para el Consejo.
 
 El jurado determinará ganadoras a las personas que obtengan el mayor puntaje en el examen, de acuerdo con las reglas establecidas en la Convocatoria.
 
@@ -187,11 +231,45 @@ La decisión del jurado es irrecurrible.
 
 La Unidad someterá la lista de ganadoras y ganadores a consideración de la Comisión, para su aprobación, y ésta ordenará su publicación en el portal del Consejo en intranet e internet.
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
+
+###### Artículo 9 Bis.
+
+Mecanismo de adscripción para peritas y peritos en disciplinas diversas a la medicina
+
+Atendiendo a las necesidades de los Tribunales Laborales Federales, la Unidad determinará las especialidades requeridas distintas a la medicina del trabajo, y las someterá a consideración de la Comisión de Administración.
+
+Para tal efecto la propuesta que realice la Unidad deberá integrar lo siguiente:
+
+I. Análisis sobre la adscripción de las plazas, basados en estadística judicial y con criterios ordenados de crecimiento;
+
+II. Análisis de costo - beneficio;
+
+III. Verificación de disponibilidad presupuestal, al implicar la creación de plazas;
+
+IV. Aplicación de medidas de austeridad y racionalidad presupuestal; y
+
+V. Justificación de lugar de adscripción debiendo privilegiar el aprovechamiento de los espacios propios del Consejo.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
+
+###### Artículo 9 Ter.
+
+Lugar de Adscripción de las peritas y los peritos
+
+Atendiendo a las necesidades de los Tribunales Laborales Federales, la Unidad determinará la entidad federativa en la que se encontrará la oficina de adscripción de las y los peritos dentro de aquellos inmuebles del Consejo, lo anterior, atendiendo a las necesidades del servicio, la operación de la propia Unidad, así como al lugar de residencia de origen de las peritas y los peritos ganadores del concurso de selección para peritas y peritos médicos o de materias distintas a dicha especialidad.
+
+Para tales efectos podrá solicitar a las diversas unidades administrativas y órganos jurisdiccionales la utilización de los consultorios y demás espacios que sean necesarios para su desempeño, situación que deberá ser señalada en el informe semestral que se rinda al Pleno de las actividades propias de la Unidad.
+
+En los casos en los que se requiera el cambio de adscripción, la Unidad deberá someterlo a la Comisión de Administración con la justificación que corresponda.
+
 ### CAPÍTULO III. DE LOS PERITAJES EN MATERIA LABORAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
 
 ###### Artículo 10.
 
-Las y los peritos adscritos a la Unidad tendrán las facilidades para acceder a los espacios propicios para el rendimiento de sus dictámenes periciales, así como para cualquier tipo de interacción necesaria con el personal del Tribunal Laboral Federal, incluyendo a la Jueza o Juez que conozca del procedimiento.
+Las y los peritos adscritos a la Unidad tendrán las facilidades para acceder a los espacios propicios para rendir sus dictámenes periciales, así como para cualquier tipo de interacción necesaria con el personal del Tribunal Laboral Federal, incluyendo a la Jueza o Juez que conozca del procedimiento.
 
 Para tales efectos, la Unidad, previo acuerdo con los Jueces de Distrito Especializados en Materia de Trabajo, facilitará el uso de salas de videoconferencia donde las y los peritos podrán desahogar las diligencias que dicten los Tribunales Laborales Federales, privilegiando el uso de las herramientas tecnológicas con la finalidad de optimizar los recursos y agilidad de los juicios en materia laboral.
 
@@ -203,13 +281,15 @@ Remuneraciones
 
 Las y los peritos adscritos a la Unidad recibirán la remuneración que corresponda a su cargo, de conformidad con lo que se disponga en el Manual que Regula las Remuneraciones de los Servidores Públicos del Poder Judicial de la Federación para el ejercicio fiscal correspondiente.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
+
 ###### Artículo 12.
 
 Pago de Gastos adicionales
 
-Podrá pagarse la realización de análisis, estudios de laboratorio, exámenes o cualquier otra erogación que se encuentre debidamente justificada y sea necesaria para la emisión del Dictamen y que el monto exceda lo previsto en el Arancel para tales efectos.
+Podrá pagarse la realización de análisis, estudios de laboratorio, exámenes o cualquier otra erogación que se encuentre debidamente justificada y sea necesaria para la emisión del Dictamen pericial y que el monto exceda de $100,000.00 (cien mil pesos 00/100 M.N.), de conformidad con lo previsto en el Arancel para tales efectos.
 
-Para ello, la o el perito previo a realizarlos, deberá realizar la manifestación ante el Tribunal Laboral Federal, a fin de gestionarla a través de la Unidad y someterla a la aprobación de la Comisión de Administración, para la determinación correspondiente.
+Para ello, la o el perito previo a realizarlos, deberá efectuar la manifestación ante el Tribunal Laboral Federal, a fin de gestionarla a través de la Unidad y someterla a la aprobación de la Comisión de Administración, para la determinación correspondiente.
 
 ### CAPÍTULO V. REPORTE DE IRREGULARIDADES Y EVALUACIÓN
 
@@ -235,11 +315,15 @@ Lo anterior, sin perjuicio de las responsabilidades en que incurran las o los pe
 
 Evaluación
 
-La Unidad a través de los mecanismos establecidos para tales efectos realizará evaluaciones quinquenales a las y los peritos con la finalidad de determinar su continuidad. No obstante, podrá establecer evaluaciones aleatorias a fin de contar con un proceso de mejora continuo y permanente.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
+
+La Unidad a través de los mecanismos establecidos para tales efectos realizará evaluaciones quinquenales a las y los peritos médicos con la finalidad de determinar su continuidad. No obstante, podrá establecer evaluaciones aleatorias a fin de contar con un proceso de mejora continuo y permanente.
 
 Respecto de las evaluaciones aleatorias, la Unidad deberá de presentar la propuesta correspondiente a la Comisión para su aprobación y aplicación.
 
-En caso de advertirse falta de pericia o actualización por parte del perito como resultado del proceso de evaluación aleatoria, éste deberá tomar la capacitación correspondiente; frente a la negativa de recibirla, la Comisión podrá determinar su no continuidad en el cargo.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
+
+En caso de advertirse falta de pericia o actualización por parte de la perita o el perito médico como resultado del proceso de evaluación aleatoria, éste deberá tomar la capacitación correspondiente; frente a la negativa de recibirla, la Comisión podrá determinar su no continuidad en el cargo.
 
 ###### Artículo 15.
 
@@ -251,7 +335,9 @@ Debiendo realizar las acciones inherentes para el seguimiento y verificación de
 
 La Unidad presentará en forma anual el programa de capacitación de peritos para aprobación del Pleno, previo a contar con el visto bueno de la Comisión, apoyándose para el efecto en la Escuela Federal de Formación Judicial.
 
-### CAPÍTULO VI. DE LAS OBLIGACIONES DE LOS PERITOS
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
+
+### CAPÍTULO VI. DE LAS OBLIGACIONES DE LAS Y LOS PERITOS
 
 ###### Artículo 16.
 
@@ -265,19 +351,39 @@ II. Realizar en tiempo y forma las actividades relativas a la prestación del se
 
 III. Rendir su dictamen en los plazos otorgados por la ley, exponiendo con claridad y precisión, el análisis realizado a las cuestiones o hechos que fueren sometidos a su examen;
 
-IV. Excusarse de actuar cuando se encuentren impedidos conforme las causales previstas en la Ley Orgánica del Poder Judicial de la Federación, en la Ley, o cuando se comprometa la imparcialidad en la prestación de sus servicios;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
+
+IV. Excusarse de actuar cuando se encuentren impedidos conforme las causales previstas en la Ley Orgánica, en la Ley, o cuando se comprometa la imparcialidad en la prestación de sus servicios;
 
 V. Procurar la actualización de sus conocimientos en la profesión, oficio, ciencia, arte o técnica de la materia en la que sean peritos;
 
-VI. Acreditar cada cinco años el examen que tenga por objeto ratificar su pericia y actualización en la materia de la que es perito; y
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
 
-VII. Dirigirse con los principios que rigen para los servidores públicos adscritos al Poder Judicial de la Federación.
+VI. Acreditar cada cinco años el examen que tenga por objeto ratificar su pericia y actualización como perita o perito médico;
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
+
+VII. Dirigirse con los principios que rigen para las y los servidores públicos adscritos al Poder Judicial de la Federación; y
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
+
+VIII. Manifestar bajo protesta de decir verdad, todas las relaciones familiares por afinidad o consanguinidad hasta el quinto grado que desempeñen o hayan desempeñado algún cargo o comisión en el Poder Judicial de la Federación.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
 
 ###### Artículo 17.
 
 Régimen de responsabilidades
 
-Para los efectos de las responsabilidades administrativas en que incurran las o los peritos adscritos a la Unidad, se estará a lo dispuesto por la normativa interna del propio Consejo aplicable en la materia, la Ley, la Ley Orgánica del Poder Judicial de la Federación, la Ley General de Responsabilidades Administrativas y el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas.
+Para los efectos de las responsabilidades administrativas en que incurran las o los peritos adscritos a la Unidad, se estará a lo dispuesto por la normativa interna del propio Consejo aplicable en la materia, la Ley, la Ley Orgánica, la Ley General de Responsabilidades Administrativas y el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
+
+###### Artículo 17 Bis.
+
+Régimen de confianza
+
+Las y los peritos adscritos a la Unidad de Peritos Judiciales estarán sujetos al régimen de personal de confianza, por lo que su adscripción, nombramiento y, en su caso, separación del cargo, se realizará de conformidad con lo establecido en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo, en las Condiciones Generales de Trabajo de los Servidores Públicos a cargo del Consejo de la Judicatura Federal, y demás normativa aplicable. Para el caso de que la Unidad determine necesaria la separación del cargo de alguno de las y los peritos médicos, deberá someterlo previamente a la Comisión para su aprobación.
 
 ### CAPÍTULO VII. DE LOS CONVENIOS
 
@@ -295,7 +401,9 @@ Una vez formalizados los convenios, se harán del conocimiento de los Tribunales
 
 Recursos de Inconformidad
 
-En contra de las determinaciones de la Unidad en el proceso de selección de las y los aspirantes, la parte que tenga interés jurídico podrá interponer recurso de inconformidad ante la Unidad, dentro de los cinco días hábiles a partir de que el inconforme tenga conocimiento de los actos.
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2022)</small>
+
+En contra de las determinaciones de la Unidad en el proceso de selección de las y los peritos médicos, la parte que tenga interés jurídico, podrá interponer recurso de inconformidad ante la Unidad, dentro de los cinco días hábiles a partir de que el inconforme tenga conocimiento de los actos.
 
 La Unidad elaborará un informe y formará un expediente con el escrito que contenga el recurso y demás documentación relacionada con el acto recurrido y lo remitirá a la Dirección General de Asuntos Jurídicos para que ésta elabore el proyecto de resolución correspondiente y lo someta a la aprobación de la Comisión.
 
@@ -322,3 +430,17 @@ TERCERO. La Secretaría Ejecutiva de Administración, por conducto de sus áreas
 CUARTO. La Unidad de Peritos Judiciales deberá presentar a la Comisión de Carrera Judicial, en un plazo no mayor de 60 días naturales, la convocatoria al primer concurso abierto para la selección de peritos.
 
 EL LICENCIADO ARTURO GUERRERO ZAZUETA, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula la selección, integración y evaluación del personal especializado de la Unidad de Peritos Judiciales; y la emisión de dictámenes periciales relacionados con la materia laboral en auxilio específico de los Tribunales Laborales Federales, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de 11 de agosto de 2021, por unanimidad de votos de los señores Consejeros: Presidente Ministro Arturo Zaldívar Lelo de Larrea, Bernardo Bátiz Vázquez, Jorge Antonio Cruz Ramos, Eva Verónica de Gyvés Zárate, Alejandro Sergio González Bernabé y Loretta Ortiz Ahlf.- Ciudad de México, a 9 de septiembre de 2021.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 31 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LA SELECCIÓN, INTEGRACIÓN Y EVALUACIÓN DEL PERSONAL ESPECIALIZADO DE LA UNIDAD DE PERITOS JUDICIALES; Y LA EMISIÓN DE DICTÁMENES PERICIALES RELACIONADOS CON LA MATERIA LABORAL EN AUXILIO ESPECÍFICO DE LOS TRIBUNALES LABORALES FEDERALES, EN RELACIÓN CON LAS FUNCIONES DE LA UNIDAD DE PERITOS JUDICIALES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de sus áreas competentes, deberán llevar a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+CUARTO. Las ganadoras y los ganadores que obtuvieron dicha calidad previo a la aprobación del presente Acuerdo derivado de algún concurso de selección podrán acceder al lugar de adscripción conforme lo previsto en el artículo 9 Ter, siempre que se actualicen los supuestos para tal efecto previstos. La Unidad de Peritos Judiciales será la responsable de notificar a las y los peritos el lugar y centro de adscripción.
