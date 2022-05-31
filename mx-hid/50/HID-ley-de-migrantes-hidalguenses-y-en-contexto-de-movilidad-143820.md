@@ -4,7 +4,7 @@ identifier: "HID-ley-de-migrantes-hidalguenses-y-en-contexto-de-movilidad-143820
 country: "mx"
 rank: "ley"
 publication_date: "2020-08-17"
-last_updated: "2020-08-17"
+last_updated: "2022-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2022.
 
 Decreto publicado en el Alcance Núm. 33 del Periódico Oficial del Estado de Hidalgo, el lunes 17 de agosto de 2020.
 
@@ -427,6 +427,10 @@ VI.- Acceder a los servicios públicos prestados por las dependencias estatales 
 
 VII.- La protección del Estado contra toda violencia, daño corporal, amenaza o intimidación por parte de funcionarios públicos o de particulares, grupos o instituciones;
 
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2022)</small>
+
+VII BIS.- La unidad y reunificación familiar;
+
 VIII.- Ser consultados y participar en temas relacionados con la migración para la integración y ejecución de los Planes de Desarrollo Estatal y Municipales;
 
 IX.- Que se les nombre un traductor o intérprete, en caso de que no hablen español, para facilitar su comunicación;
@@ -508,6 +512,12 @@ La Secretaría podrá apoyar económicamente y con gestión para la obtención d
 La Secretaría, promoverá la reunificación familiar de personas adultas mayores hidalguenses con sus hijos migrantes que radiquen en Estados Unidos de América, en coordinación con los clubes, federaciones y organizaciones de personas migrantes.
 
 Para aquellas personas adultas mayores hidalguenses que no cuenten con visa americana, la Secretaría gestionará ante la Embajada de Estados Unidos de América en México, para que puedan ser sujetos de la obtención de este documento quienes cumplan con los criterios y normatividad de esa autoridad.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2022)</small>
+
+###### Artículo 19 Bis.
+
+La Secretaría, en coordinación con dependencias federales y municipales, fomentará acciones para mantener la unidad familiar y asegurar la reunificación de los migrantes hidalguenses con sus familias.
 
 ###### Artículo 20.
 
@@ -726,3 +736,11 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 LIC. OMAR FAYAD MENESES
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL " DECRETO NÚM. 202 QUE ADICIONA LA FRACCIÓN VII BIS AL ARTÍCULO 7 Y EL ARTÍCULO 19 BIS A LA LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
