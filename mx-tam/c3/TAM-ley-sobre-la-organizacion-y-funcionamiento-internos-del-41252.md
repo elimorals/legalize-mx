@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2022-05-05"
+last_updated: "2022-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2022.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -473,13 +473,13 @@ Los diputados que decidan no pertenecer a un grupo parlamentario, fracción parl
 
 ###### ARTICULO 29.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2022)</small>
 
-1. La Junta de Coordinación Política se integra con los coordinadores de cada grupo parlamentario, con los representantes de las fracciones parlamentarias, así como de los titulares de las representaciones partidistas.
+1. La Junta de Coordinación Política se integra con los coordinadores de cada grupo parlamentario, con los representantes de las fracciones parlamentarias, así como de los titulares de las representaciones partidistas y con la o el diputado que mediante votación directa sea elegido democráticamente en términos del siguiente párrafo de este artículo.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2022)</small>
 
-2. Será Presidente de la Junta de Coordinación Política por la duración de la Legislatura, el Coordinador del Grupo Parlamentario del partido político que haya obtenido más votos en el Estado, en la elección correspondiente a la Legislatura en turno.
+2. Será presidenta(e) de la Junta durante la Legislatura, la o el diputado que mediante votación directa sea elegido democráticamente y obtenga la mayoría relativa de los integrantes del Congreso.
 
 3. (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2021)
 
@@ -3692,3 +3692,11 @@ P.O. 5 DE MAYO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición, y será publicado en el Periódico Oficial del Estado.
+
+P.O. 1 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO 65-146 MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS 1 Y 2 DEL ARTÍCULO 29 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición.
