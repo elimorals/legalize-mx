@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-imagen-urbana-para-el-municipio-de-170623"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-31"
-last_updated: "2020-06-19"
+last_updated: "2022-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 19 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 1 DE JUNIO DE 2022.
 
 Reglamento publicado en el Suplemento del Ejemplar 15 de la Gaceta Municipal del Ayuntamiento de Guadalajara, el jueves 31 de diciembre de 2009.
 
@@ -167,9 +167,17 @@ II. Todas las nuevas instalaciones para los servicios de teléfonos, energía el
 
 III. Se prohíbe la colocación de aparatos acondicionadores de aire que sobresalgan de las fachadas a la vía pública;
 
-IV. El Ayuntamiento se reserva el derecho de declarar vialidad peatonal, previa consulta ciudadana, cualquiera de las actuales vialidades vehiculares, ubicadas dentro del área; y
+> <small>(REFORMADA, G.M. 1 DE JUNIO DE 2022)</small>
 
-V. Se restringirá y controlará la celebración de eventos populares tradicionales que por sus características, pudieran dañar la imagen urbana del área.
+IV. El Ayuntamiento se reserva el derecho de declarar vialidad peatonal, previa consulta ciudadana, cualquiera de las actuales vialidades vehiculares, ubicadas dentro del área;
+
+> <small>(REFORMADA, G.M. 1 DE JUNIO DE 2022)</small>
+
+V. Se restringirá y controlará la celebración de eventos populares tradicionales que por sus características, pudieran dañar la imagen urbana del área; y
+
+> <small>(ADICIONADA, G.M. 1 DE JUNIO DE 2022)</small>
+
+VI. Se prohibirá la colocación de objetos que obstruyan los espacios públicos, a excepción de los que sean colocados por restaurantes y cafés al aire libre y los giros que se especifican en el artículo 21 bis del Reglamento para el Funcionamiento de Giros Comerciales, Industriales y de Prestación de Servicios en el Municipio de Guadalajara, que cuenten con previa autorización por parte del área municipal correspondiente.
 
 ###### Artículo 11.
 
@@ -389,9 +397,17 @@ II. Garantizar la seguridad de los transeúntes con motivo de la colocación, us
 
 III. Retirar el anuncio al término de la vigencia de su autorización, permiso o licencia;
 
-IV. Barrer o limpiar el pasillo o andador correspondiente a su área diariamente; y
+> <small>(REFORMADA, G.M. 1 DE JUNIO DE 2022)</small>
 
-V. Ejecutar las labores propias de sus negocios únicamente en el interior de sus establecimientos.
+IV. Barrer o limpiar el pasillo o andador correspondiente a su área diariamente;
+
+> <small>(REFORMADA, G.M. 1 DE JUNIO DE 2022)</small>
+
+V. Ejecutar las labores propias de sus negocios únicamente en el interior de sus establecimientos, a excepción de restaurantes y cafés al aire libre y otros giros que se especifican en el artículo 21 bis del Reglamento para el Funcionamiento de Giros Comerciales, Industriales y de Prestación de Servicios en el Municipio de Guadalajara, y que cuenten con previa autorización por parte del área municipal correspondiente; y
+
+> <small>(ADICIONADA, G.M. 1 DE JUNIO DE 2022)</small>
+
+VI. Retirar los objetos previamente autorizados que de manera temporal se coloquen en espacios públicos.
 
 ###### Artículo 37.
 
@@ -421,7 +437,9 @@ V. Borrar, cambiar de sitio, estropear o alterar los nombres, letras y números 
 
 VI. Que los propietarios de vehículos inservibles o en calidad de chatarra los mantengan en la vía pública; y
 
-VII. Que los comerciantes obstruyan la vía pública, ya sea con los bienes que expendan o con los implementos que utilicen para realizar sus actividades comerciales.
+> <small>(REFORMADA, G.M. 1 DE JUNIO DE 2022)</small>
+
+VII. Que los comerciantes obstruyan la vía pública, ya sea con los bienes que expendan o con los implementos que utilicen para realizar sus actividades comerciales, a excepción de restaurantes y cafés al aire libre y otros giros que se especifican en el artículo 21 bis del Reglamento para el Funcionamiento de Giros Comerciales, Industriales y de Prestación de Servicios en el Municipio de Guadalajara, y que cuenten con previa autorización por parte del área municipal correspondiente.
 
 ## TÍTULO UNDÉCIMO. De la Ciclovía
 
@@ -574,3 +592,19 @@ Primero. Publíquese las presentes reformas en la Gaceta Municipal de Guadalajar
 Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicadas las presentes reformas, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 1 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL REGLAMENTO PARA EL FUNCIONAMIENTO DE GIROS COMERCIALES, INDUSTRIALES Y DE PRESTACIÓN DE SERVICIOS EN EL MUNICIPIO DE GUADALAJARA; AL REGLAMENTO DE CORREDORES GASTRONÓMICOS, CULTURALES Y ARTÍSTICOS DEL MUNICIPIO DE GUADALAJARA; AL REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE GUADALAJARA Y AL REGLAMENTO PARA LA ZONA DENOMINADA COMO CENTRO HISTÓRICO, BARRIOS Y ZONAS TRADICIONALES DE GUADALAJARA".]
+
+Primero. Publíquese lo conducente del presente ordenamiento en la Gaceta Municipal de Guadalajara.
+
+Segundo. Este ordenamiento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicado el presente ordenamiento, remítase mediante oficio un tanto del mismo al Congreso del Estado de Jalisco, para los efectos ordenados en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+Cuarto. Se instruye a las Coordinaciones Generales de Desarrollo Económico y a la de Combate a la Desigualdad, a la Superintendencia del Centro Histórico, a la Dirección de Movilidad y Transporte y a la Consejería Jurídica para que en un plazo de 60 días naturales contados a partir de la aprobación del presente ordenamiento, lleven a cabo una campaña de difusión dirigida a los titulares de las licencias de los giros de restaurant, restaurant bar, cafés, y otros giros relativos a la transformación y venta de alimentos condimentados que se ubiquen en corredores gastronómicos y en la Zona de Intervención Especial Centro Histórico, para dar a conocer la presente reforma.
+
+Quinto. Notifíquense las presentes reformas a las Coordinaciones Generales de Desarrollo Económico y a la de Combate a la Desigualdad, a la Superintendencia del Centro Histórico, a la Dirección de Movilidad y Transporte, a la Consejería Jurídica y a la Tesorería, para su conocimiento y efectos conducentes.
+
+Sexto. Se faculta al Secretario General del Ayuntamiento, para que realice las acciones administrativas necesarias para el cumplimiento del presente ordenamiento.
