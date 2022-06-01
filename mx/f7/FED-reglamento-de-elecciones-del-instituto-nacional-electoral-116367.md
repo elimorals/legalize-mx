@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2022-05-18"
+last_updated: "2022-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2016-09-07"
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-> <small>[N. DE E. PARA CONSULTAR EL “EXTRACTO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL PROTOCOLO PARA LA ADOPCIÓN DE MEDIDAS TENDIENTES A GARANTIZAR EL DERECHO AL VOTO Y A LA PARTICIPACIÓN CIUDADANA DE LAS PERSONAS CON DISCAPACIDAD EN LOS PROCESOS ELECTORALES Y MECANISMOS DE PARTICIPACIÓN CIUDADANA”, PUBLICADO EN EL D.O.F. DE 18 DE MAYO DE 2022, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 1 DE JUNIO DE 2022, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2022.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -1691,35 +1691,57 @@ j) Informe de resguardo de los formatos de credencial para votar.
 
 ### CAPÍTULO IV.. VOTO DE LOS MEXICANOS EN EL EXTRANJERO
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/INE/CGext202205_09_ap_8.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2022)</small>
 
 ###### Artículo 100.
 
-1. Las disposiciones contenidas en el presente Capítulo son aplicables para los ciudadanos mexicanos residentes en el extranjero que deseen ser incorporados en la lista nominal de electores residentes en el extranjero para, de esa manera, ejercer su derecho al voto, tanto en elecciones federales como en las locales de las entidades federativas, cuya legislación local contemple el ejercicio de ese derecho.
+1. Las disposiciones contenidas en el presente Capítulo son aplicables para las y los ciudadanos mexicanos residentes en el extranjero que deseen ser incorporados en la lista nominal de electores residentes en el extranjero para, de esa manera, ejercer su derecho al voto, tanto en elecciones federales como en las locales de las entidades federativas, cuya legislación local contemple el ejercicio de ese derecho, así como en los mecanismos de participación ciudadana previstos en las leyes federales.
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/INE/CGext202205_09_ap_8.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2022)</small>
 
 ###### Artículo 101.
 
-1. Corresponde a la derfe, deoe, deceyec, unicom, utvopl y demás áreas competentes del Instituto la implementación del presente Capítulo en el ámbito de sus atribuciones.
+1. Corresponde a la DERFE, DEOE, DECEYEC, UTSI, UTVOPL y demás áreas competentes del Instituto la implementación del presente Capítulo en el ámbito de sus atribuciones.
 
-2. Los OPL de aquellas entidades federativas cuyas legislaciones contemplen el voto de los ciudadanos mexicanos residentes en el extranjero, implementarán las acciones específicas para la instrumentación del voto de los mexicanos residentes en el extranjero, de acuerdo con los lineamientos que emita el Consejo General del Instituto y los convenios generales de coordinación y colaboración que se celebren.
+2. Los OPL de aquellas entidades federativas cuyas legislaciones contemplen el voto de las y los ciudadanos mexicanos residentes en el extranjero, implementarán las acciones específicas para la instrumentación del voto de las y los mexicanos residentes en el extranjero, de acuerdo con los lineamientos que emita el Consejo General del Instituto y los convenios generales de coordinación y colaboración que se celebren.
 
-3. El Consejo General del Instituto podrá integrar una Comisión Temporal para atender y dar seguimiento a las actividades relativas al voto de los mexicanos residentes en el extranjero a que se refiere el presente Capítulo.
+3. El Consejo General del Instituto podrá integrar una Comisión Temporal para atender y dar seguimiento a las actividades relativas al voto de las y los mexicanos residentes en el extranjero a que se refiere el presente Capítulo.
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
+4. La implementación y ejecución del Voto Electrónico por Internet para las y los Mexicanos Residentes en el Extranjero será responsabilidad del Instituto cuando se trate de:
+
+I. Elección de Presidencia de la República;
+
+II. Elección de Senadurías;
+
+III. Elección de Gubernatura y Jefatura de Gobierno de la Ciudad de México, así como otros cargos de elección popular, siempre y cuando la Constitución de la entidad federativa correspondiente prevea el voto de las y los Mexicanos Residentes en el extranjero;
+
+IV. Mecanismos de participación ciudadana que, en su caso, se determinen y que se encuentren previstos para las y los mexicanos residentes en el extranjero, en las leyes federales.
+
+5. El Consejo General del Instituto determinará la implementación de las modalidades de voto de las y los mexicanos residentes en el extranjero prevista en la LGIPE, para el proceso electoral de que se trate, o mecanismo de participación ciudadana previsto en leyes federales.
+
+6. En cada proceso electoral o mecanismo de participación ciudadana previsto en leyes federales en que se considere la participación de las mexicanas y los mexicanos residentes en el extranjero, se implementará la modalidad de votación electrónica por Internet.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/INE/CGext202205_09_ap_8.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2022)</small>
 
 ###### Artículo 102.
 
-1. Para el voto de los ciudadanos mexicanos residentes en el extranjero el Consejo General emitirá los lineamientos a fin de establecer los mecanismos para la inscripción en el listado nominal correspondiente, el envío de documentos y materiales electorales, la modalidad de emisión del voto, así como el escrutinio y cómputo del voto de los ciudadanos residentes en el extranjero para las elecciones federales y, en su caso, para las elecciones locales en las entidades federativas cuyas legislaciones también lo prevean, de conformidad con el Libro Sexto de la LGIPE.
+1. Para el voto de las y los ciudadanos mexicanos residentes en el extranjero el Consejo General emitirá los lineamientos a fin de establecer los mecanismos para la inscripción en el listado nominal correspondiente, el envío de documentos y materiales electorales, la modalidad de emisión del voto, así como el escrutinio y cómputo del voto de las y los ciudadanos residentes en el extranjero para las elecciones federales y, en su caso, para las elecciones locales en las entidades federativas cuyas legislaciones también lo prevean, así como para los mecanismos de participación ciudadana previstos en las leyes federales, que resulten aplicables, de conformidad con el Libro Sexto de la LGIPE.
 
-2. En el caso de que se implemente la modalidad de voto de los ciudadanos mexicanos residentes en el extranjero por vía electrónica, se deberán observar los lineamientos que emita el Consejo General del Instituto, de conformidad con lo establecido en el artículo 329, numeral 3 de la LGIPE.
+2. En el caso de que se implemente la modalidad de voto de las y los ciudadanos mexicanos residentes en el extranjero por vía electrónica; en sus respectivos ámbitos de competencia, el Instituto, los OPL, las representaciones de los partidos políticos con registro nacional y local y, en su caso, de las candidaturas independientes, las personas físicas o morales que participen en las etapas de planeación y ejecución de la auditoría, así como las personas ciudadanas mexicanas que decidan ejercer su derecho al sufragio desde el extranjero, bajo la modalidad electrónica por Internet, deberán observar lo establecido en el Anexo 21.2 referente a los Lineamientos de voto electrónico por internet para las mexicanas y los mexicanos residentes en el extranjero, mismos que forman parte integral del presente Reglamento, de conformidad con lo establecido en el artículo 329, numeral 3 de la LGIPE.
 
-3. El Consejo General del Instituto emitirá el programa de integración de mesas de escrutinio y cómputo y capacitación electoral para las elecciones federales y, en su caso, para las elecciones locales en las entidades federativas cuyas legislaciones también lo prevean.
+3. El Consejo General del Instituto emitirá el programa de integración de mesas de escrutinio y cómputo y capacitación electoral para las elecciones federales y, en su caso, para las elecciones locales en las entidades federativas cuyas legislaciones también lo prevean, así como para los mecanismos de participación ciudadana previstos en las leyes federales, que resulten aplicables.
 
-4. Las características, contenidos, especificaciones, procedimientos y plazos para la elaboración y, en su caso, impresión de la documentación y material electoral para garantizar el voto de los ciudadanos mexicanos residentes en el extranjero, tanto en los procesos electorales federales como en los procesos locales cuyas legislaciones permitan el voto en el extranjero, se ajustarán a lo establecido en los lineamientos que emita el Consejo General y los convenios generales de coordinación y colaboración y sus anexos técnicos.
+4. Las características, contenidos, especificaciones, procedimientos y plazos para la elaboración y, en su caso, impresión de la documentación y material electoral para garantizar el voto de las y los ciudadanos mexicanos residentes en el extranjero, tanto en los procesos electorales federales como en los procesos locales cuyas legislaciones permitan el voto en el extranjero, así como para los mecanismos de participación ciudadana previstos en las leyes federales, que resulten aplicables, se ajustarán a lo establecido en los lineamientos que emita el Consejo General y los convenios generales de coordinación y colaboración y sus anexos técnicos.
 
-5. El Instituto suscribirá con otras instancias los convenios necesarios para la adecuada implementación del voto de los ciudadanos mexicanos residentes en el extranjero.
+5. El Instituto suscribirá con otras instancias los convenios necesarios para la adecuada implementación del voto de las y los ciudadanos mexicanos residentes en el extranjero.
+
+6. Para los procesos electorales federales y locales, así como para los mecanismos de participación ciudadana previstos en las leyes federales; el Instituto pondrá a disposición de las y los mexicanos residentes en el extranjero, el Sistema que permita la correcta emisión y transmisión de su voto en las elecciones en las que tenga derecho a votar, siempre y cuando haya elegido esta modalidad para la emisión de su voto.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -1731,21 +1753,27 @@ j) Informe de resguardo de los formatos de credencial para votar.
 
 ###### Artículo 104.
 
-1. Para promover e informar del voto desde el extranjero, el Instituto desarrollará una estrategia de difusión, comunicación y asesoría a la ciudadanía. En su caso, la estrategia quedará definida en el convenio general de coordinación y colaboración que el Instituto celebre con los OPL.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/INE/CGext202205_09_ap_8.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2022)</small>
+
+1. Para promover e informar del voto desde el extranjero, en cualquiera de sus modalidades, el Instituto desarrollará una estrategia de difusión, comunicación y asesoría a la ciudadanía. En su caso, la estrategia quedará definida en el convenio general de coordinación y colaboración que el Instituto celebre con los OPL.
 
 2. El Instituto y los OPL publicarán en sus páginas oficiales, la liga electrónica para el llenado o descarga del formato de solicitud individual de inscripción y su instructivo. Además, deberán publicar la información relativa a su envío.
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/INE/CGext202205_09_ap_8.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2022)</small>
 
 ###### Artículo 105.
 
-1. Las listas nominales de electores residentes en el extranjero para las elecciones federales y locales cuyas entidades federativas contemplen en sus legislaciones el voto de los ciudadanos mexicanos residentes en el extranjero serán elaboradas por la Derfe de conformidad con lo establecido en el Libro Sexto de la LGIPE.
+1. Las listas nominales de electores residentes en el extranjero para las elecciones federales y locales cuyas entidades federativas contemplen en sus legislaciones el voto de las y los ciudadanos mexicanos residentes en el extranjero, así como para los mecanismos de participación ciudadana, que resulten aplicables, serán elaboradas por la DERFE de conformidad con lo establecido en el Libro Sexto de la LGIPE.
 
-2. Los ciudadanos que deseen ser incorporados en la lista nominal de electores residentes en el extranjero para ejercer su derecho al voto tanto en elecciones federales como locales en las entidades federativas cuyas legislaciones contemplen esa particularidad, deberán cumplir los requisitos establecidos en los artículos 34 de la Constitución Federal; 9, párrafo 1 y 330, párrafo 1 de la LGIPE, así como los que determine el Consejo General.
+2. Las y los ciudadanos que deseen ser incorporados en la lista nominal de electores residentes en el extranjero para ejercer su derecho al voto tanto en elecciones federales como locales, en las entidades federativas cuyas legislaciones contemplen esa particularidad, así como en los mecanismos de participación ciudadana, que resulten aplicables, deberán cumplir los requisitos establecidos en los artículos 34 de la Constitución Federal; 9, párrafo 1 y 330, párrafo 1 de la LGIPE, así como los que determine el Consejo General.
 
-3. El Instituto y los OPL proveerán lo necesario para que los ciudadanos interesados en tramitar su inscripción puedan obtener el instructivo y formular la solicitud correspondiente.
+3. El Instituto y los OPL proveerán lo necesario para que las y los ciudadanos interesados en tramitar su inscripción puedan obtener el instructivo y formular la solicitud correspondiente.
 
-4. La Derfe será responsable de recibir las solicitudes de inscripción y realizar todas las actividades relacionadas con la conformación de la lista nominal de electores residentes en el extranjero para los procesos electorales federales y para las entidades federativas con procesos electorales locales, de conformidad con lo establecido en la LGIPE, así como los lineamientos que establezca el Consejo General del Instituto.
+4. La DERFE será responsable de recibir las solicitudes de inscripción y realizar todas las actividades relacionadas con la conformación de la lista nominal de electores residentes en el extranjero para los procesos electorales federales y para las entidades federativas con procesos electorales locales, así como para los mecanismos de participación ciudadana, que resulten aplicables, de conformidad con lo establecido en la LGIPE, así como los lineamientos que establezca el Consejo General del Instituto.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -1765,7 +1793,11 @@ j) Informe de resguardo de los formatos de credencial para votar.
 
 1. Para la entrega a los opl de la lista nominal de electores residentes en el extranjero definitiva, se realizará en la sede y en los términos que para el efecto se establezcan en los convenios generales de coordinación y colaboración y sus anexos respectivos.
 
-2. Los OPL, para salvaguardar la confidencialidad de los datos personales contenidos en el listado nominal, deberán tomar las medidas necesarias para que su uso por parte de las representaciones partidistas y, en su caso, de candidaturas independientes acreditados ante los mismos, se restrinjan a la jornada electoral correspondiente, y de manera exclusiva para el escrutinio y cómputo de la votación de los electores residentes en el extranjero, o según la modalidad de voto que corresponda en cada entidad.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/INE/CGext202205_09_ap_8.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2022)</small>
+
+2. Los OPL, para salvaguardar la confidencialidad de los datos personales contenidos en el listado nominal, deberán tomar las medidas necesarias para que su uso por parte de las representaciones partidistas y, en su caso, de candidaturas independientes acreditadas ante los mismos, se restrinjan a la jornada electoral correspondiente, y de manera exclusiva para el escrutinio y cómputo de la votación de las y los electores residentes en el extranjero, o según la modalidad de voto que corresponda en cada entidad.
 
 3. Para el reintegro, devolución y destrucción de las listas nominales de electores residentes en el extranjero para revisión y definitivas, los OPL deberán atender lo establecido en los Lineamientos para el acceso, verificación y entrega de los datos personales en posesión del Registro Federal de Electores por los integrantes de los Consejos General, Locales y Distritales, las Comisiones de Vigilancia del Registro Federal de Electores y los Organismos Públicos Locales.
 
@@ -1773,19 +1805,47 @@ j) Informe de resguardo de los formatos de credencial para votar.
 
 ###### Artículo 109.
 
-1. Para el adecuado desarrollo de las actividades que se realizarán con motivo de las elecciones en las entidades federativas, cuya legislación local contemple el voto de los ciudadanos mexicanos residentes en el extranjero, el Instituto, en coordinación con el respectivo OPL, integrará un grupo de trabajo de la manera siguiente:
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/INE/CGext202205_09_ap_8.pdf]</small>
 
-a) Por parte del Instituto, un representante de la Derfe, designado por el titular de la propia Dirección, y
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JUNIO DE 2022)</small>
 
-b) Por parte del OPL, un representante, previa aprobación del Órgano Superior de Dirección.
+1. Para el adecuado desarrollo de las actividades que se realizarán con motivo de las elecciones en las entidades federativas, cuya legislación local contemple el voto de las y los ciudadanos mexicanos residentes en el extranjero, el Instituto, en coordinación con el respectivo OPL, integrará un grupo de trabajo de la manera siguiente:
 
-2. El secretario técnico del grupo de trabajo a que se refiere el párrafo anterior, será designado de manera conjunta por los titulares de la Derfe y de la Utvopl, quien coordinará la interlocución con los OPL.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/INE/CGext202205_09_ap_8.pdf]</small>
 
-3. Los integrantes del grupo de trabajo podrán contar con el apoyo de las direcciones ejecutivas y órganos desconcentrados del Instituto, así como las áreas involucradas de los OPL, para la realización de sus actividades.
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2022)</small>
 
-4. Los representantes que conformen el grupo de trabajo, podrán ser sustituidos a través de la autoridad competente, en cualquier momento, previa notificación a la otra parte.
+a) Por parte del Instituto, una persona representante de la DERFE, designada por la o el titular de la propia Dirección, y
 
-5. El grupo de trabajo sesionará de acuerdo a sus necesidades. Se informará a la cvopl, a la Comisión del Registro Federal de Electores y a la Comisión Temporal para atender y dar seguimiento a las actividades relativas al voto de los mexicanos residentes en el extranjero de los acuerdos tomados en dichas sesiones.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/INE/CGext202205_09_ap_8.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2022)</small>
+
+b) Por parte del OPL, una persona representante, previa aprobación del Órgano Superior de Dirección.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/INE/CGext202205_09_ap_8.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2022)</small>
+
+2. La secretaría técnica del grupo de trabajo a que se refiere el párrafo anterior, se designará de manera conjunta por las personas titulares de la DERFE y de la UTVOPL, quien coordinará la interlocución con los OPL.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/INE/CGext202205_09_ap_8.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2022)</small>
+
+3. Las personas integrantes del grupo de trabajo podrán contar con el apoyo de las direcciones ejecutivas y órganos desconcentrados del Instituto, así como las áreas involucradas de los OPL, para la realización de sus actividades.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/INE/CGext202205_09_ap_8.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2022)</small>
+
+4. Las personas representantes que conformen el grupo de trabajo, podrán ser sustituidos a través de la autoridad competente, en cualquier momento, previa notificación a la otra parte.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/INE/CGext202205_09_ap_8.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2022)</small>
+
+5. El grupo de trabajo sesionará de acuerdo a sus necesidades. Se informará a la CVOPL, a la Comisión del Registro Federal de Electores y a la Comisión Temporal para atender y dar seguimiento a las actividades relativas al voto de las y los mexicanos residentes en el extranjero de los acuerdos tomados en dichas sesiones.
 
 6. Al concluir el proceso electoral local correspondiente, el grupo de trabajo deberá presentar un informe final de actividades al Consejo General, a la Cnv y a los Órganos Superior de Dirección de los OPL, sobre el cumplimiento a lo dispuesto en el presente Capítulo, el convenio general de coordinación y colaboración, así como los acuerdos que en su caso, adopten los OPL.
 
@@ -2805,9 +2865,17 @@ d) Marcadores de boletas.
 
 a) En materia de documentación electoral, se estará a lo dispuesto en la legislación electoral correspondiente, atendiendo a si la elección es federal o local, siempre y cuando no se contraponga a lo previsto en este Reglamento y su anexo respectivo;
 
-b) Realizar consultas tanto a la ciudadanía que actuó como funcionarios de casilla, elegidos a través de una muestra, como a quienes fungieron como encargados de la organización y capacitación electoral, sobre los principales documentos y materiales electorales que se hubieran utilizado en el proceso electoral inmediato anterior. Dichas consultas se realizarán a través de los mecanismos que se estimen pertinentes, a fin de obtener propuestas para mejorar la documentación y material electoral;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/INE/CGext202205_09_ap_8.pdf]</small>
 
-c) Evaluar la viabilidad de las propuestas. Solo se incorporarán a los documentos, aquéllas propuestas que cumplan con los aspectos siguientes:
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2022)</small>
+
+b) Realizar consultas tanto a la ciudadanía que actuó como personas funcionarias de casilla, elegidas a través de una muestra, como a quienes fungieron como encargadas de la organización y capacitación electoral, sobre los principales documentos y materiales electorales que se hubieran utilizado en el proceso electoral inmediato anterior. Dichas consultas se realizarán a través de los mecanismos que se estimen pertinentes, a fin de obtener propuestas para mejorar la documentación y material electoral;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/INE/CGext202205_09_ap_8.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO CON SUS FRACCIONES], D.O.F. 1 DE JUNIO DE 2022)</small>
+
+c) Evaluar la viabilidad de las propuestas. Solo se incorporarán a los documentos, aquellas propuestas que cumplan con los aspectos siguientes:
 
 I. Legal: que las propuestas estén fundamentadas dentro del marco normativo.
 
@@ -2815,7 +2883,11 @@ II. Económico: que las proposiciones no tengan un impacto económico adverso, q
 
 III. Técnico: que los planteamientos sean factibles de realizar técnicamente; asimismo, que exista la infraestructura tecnológica para permitir su implementación o adecuación en los procesos productivos, sin que afecten los tiempos de producción.
 
-IV. Funcional: que las sugerencias faciliten el uso de los documentos y materiales electorales por parte de los funcionarios de casilla.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/INE/CGext202205_09_ap_8.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2022)</small>
+
+IV. Funcional: que las sugerencias faciliten el uso de los documentos y materiales electorales por parte de las y los funcionarios de casilla.
 
 d) Integrar las propuestas viables a los diseños preliminares;
 
@@ -2823,13 +2895,33 @@ e) Realizar pruebas piloto de los nuevos diseños de documentos, en particular, 
 
 f) Incorporar, en su caso, nuevas propuestas de mejora como resultado de la evaluación de la prueba;
 
-g) En el caso de los materiales electorales para las elecciones en territorio nacional, se debe evitar el uso de cartón corrugado y su diseño deberá prever el tamaño adecuado para su traslado por los funcionarios de casilla el día de la jornada electoral, asegurando que, en su conjunto, quepan en vehículos de tamaño medio;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/INE/CGext202205_09_ap_8.pdf]</small>
 
-h) En el caso, de los materiales electorales para el voto de los mexicanos residentes en el extranjero, con excepción de la urna, serán fabricados en cartón corrugado la caja paquete y la caja contenedora de sobres.
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2022)</small>
+
+g) En el caso de los materiales electorales para las elecciones en territorio nacional, su diseño deberá prever el tamaño adecuado para su traslado por las y los funcionarios de casilla el día de la jornada electoral, asegurando que, en su conjunto, quepan en vehículos de tamaño medio;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/INE/CGext202205_09_ap_8.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2022)</small>
+
+h) En el caso, de los materiales electorales para el voto de las y los mexicanos residentes en el extranjero, con excepción de la urna, serán fabricados en cartón corrugado la caja paquete y la caja contenedora de sobres;
 
 i) La documentación y materiales electorales de los OPL deberá seguir el procedimiento de validación previsto en el artículo 160 de este Reglamento, y
 
 j) Presentar ante la comisión competente, el proyecto de acuerdo, así como el informe sobre el diseño y los modelos definitivos. Dicha comisión someterá el proyecto a consideración del Consejo General o del Órgano Superior de Dirección del OPL que corresponda, para su aprobación.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/INE/CGext202205_09_ap_8.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 1 DE JUNIO DE 2022)</small>
+
+2. El diseño de los documentos y materiales electorales utilizados para el voto de mexicanas y mexicanos residentes en el extranjero bajo la modalidad electrónica por Internet observará las directrices generales establecidas en el presente Reglamento, en el Anexo 21.2, relativo a los Lineamientos del voto electrónico por internet para las mexicanas y los mexicanos residentes en el extranjero para los procesos electorales y los mecanismos de participación ciudadana, así como las características y procedimientos que establezca la DEOE, en coordinación con la UTSI.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2022/INE/CGext202205_09_ap_8.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 1 DE JUNIO DE 2022)</small>
+
+3. Tratándose de elecciones locales, adicionalmente los OPL deberán atender a las características y procedimientos técnicos establecidos por la DEOE en coordinación con la UTSI.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -9364,5 +9456,31 @@ https://portal.ine.mx/sesion-extraordinaria-del-consejo-general-27-de-abril-de-2
 Página DOF: www.dof.gob.mx/2022/INE/CGext202204_27_ap_23.pdf
 
 Ciudad de México, 29 de abril de 2022.- Director Ejecutivo de Capacitación Electoral y Educación Cívica, Mtro. Roberto Heycher Cardiel Soto.- Rúbrica.
+
+D.O.F. 1 DE JUNIO DE 2022.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "EXTRACTO DEL ACUERDO INE/CG346/2022 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LAS MODIFICACIONES AL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL, EN MATERIA DE VOTO ELECTRÓNICO POR INTERNET PARA LAS MEXICANAS Y LOS MEXICANOS RESIDENTES EN EL EXTRANJERO; ASÍ COMO LA APROBACIÓN Y PUBLICACIÓN DE SU ANEXO 21.2 RELATIVO A LOS LINEAMIENTOS DEL VOTO ELECTRÓNICO POR INTERNET PARA LAS MEXICANAS Y LOS MEXICANOS RESIDENTES EN EL EXTRANJERO", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+PRIMERO. Se aprueban las modificaciones a los artículos 100, 101, 102, 104, 105, 108, 109 y 156 del Reglamento de Elecciones del Instituto Nacional Electoral, para quedar en los siguientes términos:
+
+(…)
+
+SEGUNDO. Se aprueban los Lineamientos del voto electrónico por internet para las mexicanas y los mexicanos residentes en el extranjero como Anexo 21.2 del Reglamento de Elecciones del Instituto Nacional Electoral, el cual forma parte integral del presente acuerdo como anexo único.
+
+(…)
+
+## TRANSITORIOS
+
+ÚNICO.- En atención al principio de definitividad, una vez concluidos los Procesos Electorales Locales 2021-2022 en las entidades federativas de Aguascalientes, Durango, Oaxaca y Tamaulipas cuya legislación contempla el voto de las mexicanas y los mexicanos residentes en el extranjero y, en su caso, los procesos electorales extraordinarios que de ellos deriven, perderán vigencia los siguientes lineamientos y sus respectivos acuerdos:
+
+(…)
+
+El Acuerdo completo se encuentra disponible para su consulta en la dirección electrónica:
+
+Página INE: https://ine.mx/sesion-extraordinaria-del-consejo-general-09-de-mayo-de-2022/
+
+Página DOF: www.dof.gob.mx/2022/INE/CGext202205_09_ap_8.pdf
 
 #### SECCIÓN SEGUNDA. SESIÓN ESPECIAL DE CÓMPUTOS
