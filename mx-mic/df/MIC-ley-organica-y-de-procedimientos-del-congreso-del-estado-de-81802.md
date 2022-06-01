@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2022-05-04"
+last_updated: "2022-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2022.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -1816,6 +1816,10 @@ Para el funcionamiento y trabajo de los comités son aplicables las reglas dispu
 ###### ARTÍCULO 98.
 
 Los Comités se integran y modifican, con hasta cinco diputados, procurando reflejar la pluralidad del Congreso, siguiendo el procedimiento previsto para las comisiones.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2022)</small>
+
+Cuando las necesidades del Congreso, así lo justifiquen y, a propuesta de la Junta se podrá modificar y ampliar la integración de los Comités.
 
 ###### ARTÍCULO 99.
 
@@ -4378,3 +4382,13 @@ Sexto. A partir de su instalación, de manera inmediata se deberá atender a lo 
 Séptimo. Para los fines de la convocatoria para la integración del Parlamento Infantil, la Comisión de Protección a la Niñez y Adolescencia, hará lo concerniente a partir del año 2023 y subsecuentes.
 
 Octavo. Dése cuenta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 1 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 155 POR EL QUE "SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 98 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al momento de su aprobación, conforme a lo dispuesto en el artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+Segundo. Por única ocasión, el Comité de Administración y Control de la Septuagésima Quinta Legislatura del Congreso del Estado de Michoacán de Ocampo, se integrará con seis diputados, de conformidad con lo dispuesto en el presente Decreto.
+
+Tercero. Dese cuanta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
