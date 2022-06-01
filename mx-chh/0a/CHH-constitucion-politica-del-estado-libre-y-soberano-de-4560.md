@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2022-04-06"
+last_updated: "2022-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2022.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -2239,27 +2239,51 @@ El Tribunal Superior de Justicia funciona en Pleno o en Salas, el cual se integr
 
 El procedimiento para nombrar Magistradas y Magistrados se llevará en la forma y términos que señale la Ley Orgánica del Poder Judicial, conforme a las siguientes bases:
 
-I.- En casos de faltas definitivas de Magistradas y Magistrados o la creación de otras Salas, el Pleno del Consejo de la Judicatura convocará a concurso de oposición para seleccionar a quienes deban cubrir las plazas vacantes o las creadas.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2020)</small>
+I. En casos de faltas definitivas de Magistradas y Magistrados o la creación de otras Salas, el Pleno del Consejo de la Judicatura convocará a la Comisión Especial para seleccionar a quienes deban cubrir las plazas vacantes o las creadas.
 
-II. El Consejo de la Judicatura en pleno se constituirá en Jurado Calificador del concurso de oposición. Las Consejeras y Consejeros deberán excusarse de intervenir en el examen de las personas aspirantes respecto de quienes tengan impedimento para actuar con imparcialidad, caso en el que se les sustituirá por una persona suplente, la cual será designada con el mismo mecanismo por el cual se seleccionó a la o el Consejero propietario.
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2022)</small>
 
-El Jurado Calificador tomará sus decisiones por mayoría de votos y será presidido por quien ocupe la titularidad de la Presidencia del Consejo. En caso de excusa de la persona titular de la Presidencia, se le sustituirá por una persona integrante del Consejo que haya sido designada por el Tribunal Superior y que tenga mayor antigüedad en la función judicial.
+La Comisión Especial se integrará por una persona representante del Poder Legislativo, la cual será una Diputada o Diputado, cuya designación se efectuará por el Pleno del Congreso; una persona representante del Poder Judicial, la cual será una Magistrada o Magistrado, cuya designación se hará por el Pleno del Tribunal Superior de Justicia del Estado, y una persona representante del Poder Ejecutivo, designada por quien sea titular del mismo.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2022)</small>
 
-III. El Jurado Calificador examinará a quienes participen y se regirá por los principios de excelencia, transparencia, objetividad, exhaustividad; imparcialidad, profesionalismo, independencia y paridad de género respecto de la materia de la magistratura en la que concursan y en otras relacionadas con aquella.
+II. La Comisión Especial enviará al Congreso del Estado una terna de personas aspirantes, quienes deberán cumplir con los requisitos establecidos en el artículo 104 de esta Constitución.
 
-IV.- El Jurado Calificador integrará una terna de quienes hayan participado en el concurso y la remitirá al Ejecutivo del Estado.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JUNIO DE 2022)</small>
 
-V. La persona titular del Poder Ejecutivo del Estado propondrá, para su ratificación, al Congreso del Estado, a una de las personas que integran la terna. La ratificación se efectuará por el voto de las dos terceras partes de sus integrantes presentes en la sesión respectiva, dentro del plazo improrrogable de treinta días naturales a partir de la presentación de la propuesta y se deberá aplicar el principio de paridad de género. En caso que el Congreso no resolviere en dicho plazo, ocupará el cargo la persona propuesta por quien ocupe la titularidad del Poder Ejecutivo del Estado.
+III. La Comisión Especial integrará una terna para ocupar las vacantes, en un caso, únicamente con personas que presten sus servicios en el Poder Judicial y, en otro, solo con personas externas a dicho Poder, de manera alternada.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2020)</small>
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2022)</small>
 
-En caso que el Congreso rechace la propuesta, la persona titular del Poder Ejecutivo del Estado enviará una nueva, de entre las personas a que se refiere el párrafo anterior. Si esta segunda propuesta fuere rechazada, ocupará el cargo la última persona integrante de la terna, quien deberá ser designada por el Congreso.
+La terna conformada con personas que presten sus servicios en el Poder Judicial, será compuesta por aquellas que sean merecedoras por su eficiencia y probidad en la administración de justicia.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2022)</small>
+
+La terna conformada por personas externas al Poder Judicial, será compuesta por aquellas que sean merecedoras por su honorabilidad, competencia y antecedentes en la profesión jurídica.
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2022)</small>
+
+IV. La Comisión Especial, en el proceso de selección de ternas de personas aspirantes, se regirá por los principios de excelencia, transparencia, objetividad, exhaustividad, imparcialidad, profesionalismo, independencia y paridad de género respecto de la materia de la magistratura que eligen y en otras relacionadas con aquella.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JUNIO DE 2022)</small>
+
+V. Previa comparecencia pública de las personas integrantes de la terna ante la Junta de Coordinación Política, el Pleno del Congreso del Estado nombrará a quien deba ocupar la Magistratura, por el voto de las dos terceras partes de sus integrantes presentes en la sesión respectiva, dentro de un plazo improrrogable de treinta días naturales a partir de la presentación de la propuesta y se deberá aplicar el principio de paridad de género.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2022)</small>
+
+Durante la comparecencia se deberá garantizar la transparencia, objetividad, publicidad y acceso a los perfiles de las personas aspirantes.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO ANTES PÁRRAFO SEGUNDO DE ESTA FRACCIÓN, P.O. 1 DE JUNIO DE 2022)</small>
+
+Cuando el Pleno del Congreso rechace la totalidad de la terna propuesta, la Comisión Especial presentará una nueva terna, conformada con personas distintas a la anterior.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2022)</small>
+
+Si en la insaculación de la nueva terna no se alcanza la votación requerida para nombrar a quien debiera ocupar la magistratura, se hará una nueva votación, y será designada en la magistratura la persona que haya obtenido mayor número de votos.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
@@ -2293,6 +2317,10 @@ VI.- No ser Ministra o Ministro de algún culto religioso.
 
 VII.- Haber residido en el Estado durante los últimos cinco años, salvo el caso de ausencia en el servicio del Estado o de la República, por un tiempo menor de seis meses.
 
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2022)</small>
+
+VIII. No estar inscritas o inscritos en el Registro Estatal de Personas Deudoras Alimentarias Morosas de Chihuahua.
+
 Los nombramientos de las y los Magistrados deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
@@ -2309,7 +2337,9 @@ III.- Designar a las y los funcionarios que señale su Ley Orgánica y no sean c
 
 IV.- Nombrar a su Presidente de entre sus integrantes, mediante el voto de las dos terceras partes de las y los Magistrados presentes en la sesión respectiva y tomarle la protesta de ley. Las y los Magistrados que desempeñen el cargo de Consejera o Consejero serán considerados, para este único efecto, integrantes del Pleno.
 
-La persona que presida el Tribunal Superior de Justicia deberá contar, al día de la elección, con una antigüedad mínima de cinco años en el ejercicio de la magistratura. Durará tres años y podrá ser reelecta, por única ocasión, para el período inmediato siguiente y solo podrá ser removida mediante la misma votación requerida para su nombramiento.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2022)</small>
+
+La persona que presida el Tribunal Superior de Justicia deberá contar, al día de la elección, con una antigüedad mínima de siete años en el ejercicio de la magistratura. Durará tres años y podrá ser reelecta, por única ocasión, para el período inmediato siguiente y solo podrá ser removida mediante la misma votación requerida para su nombramiento.
 
 La o el designado rendirá informe, en el mes de agosto, de la situación que guarda la administración de justicia.
 
@@ -2371,35 +2401,29 @@ IV. En quinto lugar se hará la designación por quien ocupe la titularidad del 
 
 Las personas designadas de acuerdo a las fracciones III y IV, deberán reunir los requisitos señalados en el artículo 104 de esta Constitución y representar a la sociedad civil. Además recibirán remuneración igual a la que perciben las y los Magistrados del Tribunal Superior de Justicia del Estado.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2022)</small>
 
 ###### Art. 108.
 
-Salvo quien ocupe la Presidencia del Tribunal Superior de Justicia, las demás personas que integren el Consejo durarán cinco años en el cargo, si dentro de este periodo faltare definitivamente alguna, se hará su designación para que concluya el periodo correspondiente, con base en el principio de paridad de género y sin la posibilidad de ser nombrada para uno nuevo. Aquellas Consejeras y Consejeros que hayan sido elegidos por el Tribunal Superior de Justicia, al terminar su encargo, regresarán, en su caso, como titulares de la Sala que ocupaban al momento de su designación, y quienes les hayan sustituido se les considerará, de manera preferente, para la titularidad de aquellas salas vacantes o de nueva creación.
+Salvo quien ocupe la Presidencia del Tribunal Superior de Justicia, las demás personas que integren el Consejo durarán cinco años en el cargo y podrán ser reelectas, por única ocasión, para el período inmediato siguiente, si dentro de este periodo faltare definitivamente alguna, se hará su designación para que concluya el periodo correspondiente, con base en el principio de paridad de género. Aquellas Consejeras y Consejeros que hayan sido elegidos por el Tribunal Superior de Justicia, al terminar su encargo, regresarán, en su caso, como titulares de la Sala que ocupaban al momento de su designación, y quienes les hayan sustituido se les considerará, de manera preferente, para la titularidad de aquellas salas vacantes o de nueva creación.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2020)</small>
 
 Las personas integrantes del Consejo ejercerán su función con independencia e imparcialidad.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2020)</small>
+
 Asimismo, las y los cónyuges y parientes en línea recta de las personas que integren el Consejo, así como sus parientes colaterales dentro del cuarto grado de consanguinidad o segundo de afinidad, no podrán ser simultáneamente integrantes del mismo o de sus órganos auxiliares y unidades administrativas.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2022)</small>
 
 ###### Art. 109.
 
-El Consejo funcionará en Pleno o en comisiones, sin embargo las determinaciones de las comisiones deberán ser aprobadas por el Pleno para ser vinculatorias. El Pleno resolverá sobre los demás asuntos que determine la ley.
+El Consejo funcionará en Pleno y ejercerá sus atribuciones a través de los órganos y unidades administrativas creados en la Ley, los reglamentos y las diversas disposiciones aplicables, así como en los acuerdos generales expedidos por el propio Pleno, los que tendrán las atribuciones que en esos ordenamientos se les señalen.
 
-El Consejo ejercerá sus atribuciones a través de las comisiones, órganos y unidades administrativas creados en la Ley, los reglamentos y las diversas disposiciones aplicables, así como en los acuerdos generales expedidos por el Pleno, los que tendrán las atribuciones que en esos ordenamientos se les señalen, contando cuando menos con las siguientes comisiones:
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE JUNIO DE 2022)</small>
 
-I.- De Administración.
-
-II.- De Vigilancia.
-
-III.- De Carrera Judicial, Adscripción y Creación de Nuevos Órganos.
-
-IV.- De Disciplina.
-
-V.- Las demás que determine la ley, los acuerdos del Pleno y las disposiciones administrativas.
-
-Con excepción de la o el Presidente, cada uno de las y los Consejeros presidirá una comisión permanente.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 1 DE JUNIO DE 2022)</small>
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
 
@@ -2407,7 +2431,7 @@ Con excepción de la o el Presidente, cada uno de las y los Consejeros presidir�
 
 Son atribuciones del Consejo de la Judicatura:
 
-I.- Establecer las comisiones que estime convenientes para el adecuado funcionamiento del Consejo de la Judicatura, y designar a las y los Consejeros que deban integrarlas.
+I.- (DEROGADA, P.O. 1 DE JUNIO DE 2022)
 
 II.- Expedir los reglamentos interiores en materia administrativa, de carrera judicial, de escalafón y régimen disciplinario del Poder Judicial, y todos aquellos acuerdos generales que fueren necesarios para el adecuado ejercicio de sus atribuciones.
 
@@ -2415,11 +2439,13 @@ II.- Expedir los reglamentos interiores en materia administrativa, de carrera ju
 
 III.- DETERMINAR EL NÚMERO Y, EN SU CASO, ESPECIALIZACIÓN POR MATERIA DE LAS SALAS, ASÍ COMO SU JURISDICCIÓN.
 
-IV.- Determinar el número y materia de los juzgados de primera instancia y menores en cada uno de los distritos judiciales.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2020)</small>
+IV.- Determinar el número y materia de los juzgados menores y de primera instancia en cada uno de los distritos judiciales. Para ello tomará en consideración que los juzgados de primera instancia deberán conocer, al menos, de las materias familiar, civil, penal, laboral, de extinción de dominio, mixtos y mixtos especializados.
 
-V.- Elegir la terna que se enviará al Congreso del Estado para cubrir las ausencias absolutas o temporales de las Magistradas y Magistrados.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2022)</small>
+
+V.- Convocar a la Comisión Especial que habrá de elegir la terna que se enviará al Congreso del Estado para cubrir las ausencias absolutas o temporales de las Magistradas y Magistrados.
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2020)</small>
 
@@ -2460,6 +2486,10 @@ XVI.- Administrar los bienes muebles e inmuebles del Poder, cuidando su mantenim
 XVII.- Realizar visitas administrativas ordinarias por lo menos una vez cada año a las salas, juzgados de primera instancia y menores; y extraordinarias las veces que así lo ameriten.
 
 XVIII.- Desempeñar cualquier otra función que la ley encomiende al Consejo de la Judicatura.
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2022)</small>
+
+XIX.- Determinar y modificar la conformación de los distritos judiciales.
 
 El Consejo de la Judicatura incorporará la perspectiva de género, de forma transversal y equitativa en el desempeño de sus atribuciones, programas y acciones, con el objeto de garantizar a las mujeres y hombres, el ejercicio y goce de sus derechos humanos, en igualdad de condiciones y velará por que los órganos a su cargo así lo hagan.
 
@@ -5458,3 +5488,23 @@ Se derogan las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO CUARTO.
 
 Las Magistraturas del Tribunal Estatal Electoral que actualmente se encuentran en funciones, seguirán en el cargo hasta la conclusión del periodo para el que fueron nombradas.
+
+P.O. 1 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVII/DRFCT/0259/2022 II P.O., MEDIANTE EL CUAL SE DECLARAN APROBADAS LAS REFORMAS, ADICIONES Y DEROGACIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA, CONTENIDAS EN EL DECRETO NO. LXVII/ RFCNT/0249/2022 II P.O.”]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates al Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo de la Judicatura contará con ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, para expedir los lineamientos y demás instrumentos necesarios, en materia de tribunales mixtos especializados, los que deberán conocer asuntos relacionados con violencia familiar; y para regular su funcionamiento interno para los efectos de la reforma al artículo 109 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO TERCERO.
+
+La reforma constitucional contenida en el presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO CUARTO.
+
+La Comisión Especial integrará la primera terna para ocupar la plaza de la magistratura correspondiente, con personas externas al Poder Judicial, de acuerdo a los parámetros establecidos en el presente Decreto.
