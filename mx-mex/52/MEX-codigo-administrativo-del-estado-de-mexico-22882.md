@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2022-04-01"
+last_updated: "2022-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE JUNIO DE 2022.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -5529,7 +5529,7 @@ La demolición parcial o total que ordene la autoridad competente será ejecutad
 
 Atendiendo a la naturaleza de la sanción, y una vez que se acredite su cumplimiento, la Secretaría o el Municipio, en los casos que proceda, dictarán lo conducente.
 
-> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 5.
 
@@ -5549,7 +5549,7 @@ VI. Se rehabilitará el terreno laboreado para su aprovechamiento posterior sin 
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 5.
 
@@ -5579,7 +5579,7 @@ V. Apertura, prolongación o ampliación de vías públicas.
 
 La reglamentación de este Libro regulará la integración, organización y funcionamiento del registro.
 
-# LIBRO SEXTO. De la Protección Civil
+# LIBRO SEXTO. De la Protección Civil y Gestión Integral del Riesgo
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -5589,11 +5589,11 @@ La reglamentación de este Libro regulará la integración, organización y func
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
-> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 6.
 
-1.- Este Libro tiene por objeto regular las acciones de protección civil en el Estado de México.
+1.- Este Libro tiene por objeto regular las acciones de protección civil y gestión integral del riesgo en el Estado de México.
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -5609,23 +5609,69 @@ La reglamentación de este Libro regulará la integración, organización y func
 
 Para efectos de este Libro se entenderá por:
 
-I. Continuidad de operaciones: Al proceso de planeación, documentación y actuación que garantiza que las actividades sustantivas de las instituciones públicas, privadas y sociales, afectadas por un agente perturbador, puedan recuperarse y regresar a la normalidad en un tiempo mínimo. Esta planeación deberá estar incorporada a un documento o serie de documentos cuyo contenido se dirija hacia la prevención, respuesta inmediata, recuperación y restauración, todas ellas avaladas por sesiones de capacitación continua y realización de simulacros;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 2 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADA, G.G. 12 DE JUNIO DE 2019)</small>
+I. Amenaza: Al suceso natural o antrópico que puede desencadenar una situación de emergencia o desastre que involucre afectaciones directas o indirecta, pudiendo ser individuales, múltiples o concatenadas en el tiempo, y sus efectos espaciales de escala local, regional, nacional e internacional, que puede ocasionar muertes, lesiones u otros efectos en la salud, daños a los bienes, disrupciones sociales y económicas o daños ambientales;
 
-II. Gestión Integral de Riesgos: El conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción, que involucra a los tres niveles de gobierno, así como a los sectores de la sociedad, lo que facilita la realización de acciones dirigidas a la creación e implementación de políticas públicas, estrategias y procedimientos integrados al logro de pautas de desarrollo sostenible, que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de la sociedad. Involucra las etapas de: identificación de los riesgos y/o su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2022)</small>
 
-III. Hospital Seguro: Establecimiento de servicios de salud que debe permanecer accesible y funcionando a su máxima capacidad, con la misma estructura, bajo una situación de emergencia o de desastre;
+II. Continuidad de Operaciones: Al proceso de planeación, documentación y actuación que garantiza que las actividades sustantivas de las instituciones públicas, privadas y sociales, afectadas por un agente perturbador, puedan recuperarse y regresar a la normalidad en un tiempo mínimo. Esta planeación deberá estar incorporada a un documento o serie de documentos cuyo contenido se dirija hacia la prevención, respuesta inmediata, recuperación y restauración, todas ellas avaladas por sesiones de capacitación continua y realización de simulacros;
 
-IV. Identificación de Riesgos: Reconocer y valorar las pérdidas o daños probables sobre los agentes afectables y su distribución geográfica, a través del análisis de los peligros y la vulnerabilidad;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 2 DE JUNIO DE 2022)</small>
 
-V. Instrumentos Financieros de Gestión de Riesgos: Son aquellos programas y mecanismos de financiamiento y cofinanciamiento con el que cuenta el Gobierno Federal para apoyar a las instancias públicas federales y entidades federativas, en la ejecución de proyectos y acciones derivadas de la gestión integral de riesgos, para la prevención y atención de situaciones de emergencia y/o desastre de origen natural;
+III. Desastre: Al resultado de la ocurrencia de uno o más agentes perturbadores severos y/o extremos, concatenados o no, de origen natural o de la actividad humana, que cuando acontecen en un tiempo y en una zona determinada, causan daños y que por su magnitud exceden la capacidad de respuesta de la comunidad afectada;
 
-VI. Instrumentos de administración y transferencia de riesgos: Son aquellos programas o mecanismos financieros tales como esquemas de aseguramiento, que permiten a las entidades públicas de los diversos órdenes de gobierno, compartir o cubrir sus riesgos catastróficos, transfiriendo el costo total o parcial a instituciones financieras nacionales o internacionales;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 2 DE JUNIO DE 2022)</small>
 
-VII. Reducción de Riesgos: Intervención preventiva de individuos, instituciones y comunidades que nos permite eliminar o reducir, mediante acciones de preparación y mitigación, el impacto adverso de los desastres. Contempla la identificación de riesgos y el análisis de vulnerabilidades, resiliencia y capacidades de respuesta, el desarrollo de una cultura de la protección civil, el compromiso público y el desarrollo de un marco institucional, la implementación de medidas de protección del medio ambiente, uso del suelo y planeación urbana, protección de la infraestructura crítica, generación de alianzas y desarrollo de instrumentos financieros y transferencia de riesgos, y el desarrollo de sistemas de alertamiento;
+IV. Emergencia: A la Situación anormal que puede causar un daño a la sociedad y propiciar un riesgo excesivo para la seguridad e integridad de la población en general, generada o asociada con la inminencia, alta probabilidad o presencia de un agente perturbador;
 
-VIII. Resiliencia: Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura y fortaleciendo las medidas de reducción de riesgos.
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2022)</small>
+
+V. Gestión Integral de Riesgos: Al conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción, que involucra a los tres niveles de gobierno, así como a los sectores de la sociedad, lo que facilita la realización de acciones dirigidas a la creación e implementación de políticas públicas, estrategias y procedimientos integrados al logro de pautas de desarrollo sostenible, que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de la sociedad. Involucra las etapas de identificación de los riesgos y/o su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
+
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2022)</small>
+
+VI. Hospital Seguro: Al establecimiento de servicios de salud que debe permanecer accesible y funcionando a su máxima capacidad, con la misma estructura, bajo una situación de emergencia o de desastre;
+
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2022)</small>
+
+VII. Identificación de Riesgos: A reconocer y valorar las pérdidas o daños probables sobre los agentes afectables y su distribución geográfica, a través del análisis de los peligros y la vulnerabilidad;
+
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2022)</small>
+
+VIII. Instrumentos Financieros de Gestión de Riesgos: A los programas y mecanismos de financiamiento y cofinanciamiento con el que cuenta el Gobierno Federal para apoyar a las instancias públicas federales y entidades federativas, en la ejecución de proyectos y acciones derivadas de la gestión integral de riesgos, para la prevención y atención de situaciones de emergencia y/o desastre de origen natural;
+
+> <small>(ADICIONADA, G.G. 2 DE JUNIO DE 2022)</small>
+
+IX. Instrumentos de administración y transferencia de riesgos: A los programas o mecanismos financieros tales como esquemas de aseguramiento, que permiten a las entidades públicas de los diversos órdenes de gobierno, compartir o cubrir sus riesgos catastróficos, transfiriendo el costo total o parcial a instituciones financieras nacionales o internacionales;
+
+> <small>(ADICIONADA, G.G. 2 DE JUNIO DE 2022)</small>
+
+X. Mitigación: A toda acción orientada a disminuir el impacto o daños ante la presencia de un agente perturbador sobre un agente afectable;
+
+> <small>(ADICIONADA, G.G. 2 DE JUNIO DE 2022)</small>
+
+XI. Peligro: A la probabilidad de ocurrencia de un agente perturbador potencialmente dañino de cierta intensidad, durante un cierto periodo y en un sitio determinado;
+
+> <small>(ADICIONADA, G.G. 2 DE JUNIO DE 2022)</small>
+
+XII. Preparación: A las actividades y medidas tomadas anticipadamente para asegurar una respuesta eficaz ante el impacto de un fenómeno perturbador en el corto, mediano y largo plazo;
+
+> <small>(ADICIONADA, G.G. 2 DE JUNIO DE 2022)</small>
+
+XIII. Programas Internos y Específicos de Protección Civil: A los instrumentos de planeación que identifican y permiten prevenir situaciones de riesgo, ante el posible impacto de fenómenos perturbadores, dentro y en el entorno inmediato de un inmueble, instalación móvil o semifija, mediante la aplicación de medidas de prevención, auxilio y recuperación;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 2 DE JUNIO DE 2022)</small>
+
+XIV. Reducción de Riesgos: A la intervención preventiva de individuos, instituciones y comunidades que nos permite eliminar o reducir, mediante acciones de preparación y mitigación, el impacto adverso de los desastres. Contempla la identificación de riesgos y el análisis de vulnerabilidades, resiliencia y capacidades de respuesta, el desarrollo de una cultura de la protección civil, el compromiso público y el desarrollo de un marco institucional, la implementación de medidas de protección del medio ambiente, uso del suelo y planeación urbana, protección de la infraestructura crítica, generación de alianzas y desarrollo de instrumentos financieros y transferencia de riesgos, y el desarrollo de sistemas de alerta temprana;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 2 DE JUNIO DE 2022)</small>
+
+XV. Resiliencia: A la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura y fortaleciendo las medidas de reducción de riesgos, y
+
+> <small>(ADICIONADA, G.G. 2 DE JUNIO DE 2022)</small>
+
+XVI. Riesgo: A los daños o pérdidas probables sobre un agente afectable, resultado de la interacción entre su vulnerabilidad y la presencia de un agente perturbador.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -5635,7 +5681,7 @@ VIII. Resiliencia: Es la capacidad de un sistema, comunidad o sociedad potencial
 
 ###### Artículo 6.
 
-4.- Son autoridades en materia de protección civil, la Secretaría General de Gobierno, la Coordinación General de Protección Civil y los ayuntamientos con las atribuciones que les otorga este Libro.
+4.- Son autoridades en materia de protección civil, la Secretaría General de Gobierno, la Coordinación General de Protección Civil y Gestión Integral del Riesgo y, los ayuntamientos con las atribuciones que les otorga este Libro.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -5671,9 +5717,13 @@ III. El Secretario General de Gobierno;
 
 IV. Los Presidentes Municipales;
 
-> <small>(REFORMADA, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2022)</small>
 
-V. El Coordinador General de Protección Civil del Estado de México;
+V. La persona titular de la Coordinación General de Protección Civil y Gestión Integral del Riesgo del Estado de México;
+
+> <small>(ADICIONADA, G.G. 2 DE JUNIO DE 2022)</small>
+
+V Bis. La persona titular del Instituto Mexiquense de la Pirotecnia;
 
 VI. Los Sistemas y Consejos Municipales de Protección Civil;
 
@@ -5735,6 +5785,10 @@ X. Apoyar la creación, desarrollo y consolidación de los Consejos Municipales 
 
 XI. Promover la creación, desarrollo y actualización permanente, de los atlas municipales de riesgos, considerando los criterios que emita el Gobierno Federal en materia de adaptación al cambio climático;
 
+> <small>(ADICIONADA, G.G. 2 DE JUNIO DE 2022)</small>
+
+XI Bis. Analizar e incorporar al Atlas de Riesgo del Estado de México la información de las entidades económicas con actividades de fabricación, uso, venta, transporte, almacenamiento y exhibición de los artículos pirotécnicos, que el Instituto Mexiquense de la Pirotecnia proporcione a la Coordinación General de Protección Civil y Gestión Integral del Riesgo;
+
 > <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XII. Proponer la adquisición de equipo especializado de transporte, comunicación, prevención y atención de desastres con cargo a los fondos disponibles;
@@ -5763,9 +5817,9 @@ XVII. Promover, desarrollar, vigilar y evaluar los programas de capacitación qu
 
 XVIII. Asesorar y apoyar a las dependencias, organismos auxiliares y fideicomisos públicos estatales, a los municipios y a las instituciones, personas, grupos y asociaciones de carácter civil y privado en materia de protección civil;
 
-> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2022)</small>
 
-XIX. Establecer, operar y/o enlazarse con redes de detección, monitoreo, pronóstico y medición de riesgos, en coordinación con otras autoridades en el que se consideren los efectos del cambio climático;
+XIX. Establecer, operar y/o enlazarse con redes de detección, monitoreo, pronóstico y medición de riesgos, en coordinación con el sector público y privado, en el que se consideren los efectos del cambio climático;
 
 > <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -5801,9 +5855,9 @@ e) La integración de acervos de información técnica y científica sobre fenó
 
 f) El fortalecimiento y desarrollo de programas educativos y de difusión en materia de protección civil, dirigidos a la población en general, que permita conocer las acciones a seguir, durante el eminente embate o presencia de un agente perturbador, en las fases sustantivas de protección civil: prevención, auxilio y recuperación.
 
-> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2022)</small>
 
-XXIV. Suscribir convenios de coordinación para implementar políticas, lineamientos y acciones entre la federación, las entidades federativas, los municipios, el Gobierno del Distrito Federal y sus Delegaciones, en uso de las atribuciones conferidas en la fracción I de éste mismo artículo;
+XXIV. Suscribir convenios de coordinación para implementar políticas, lineamientos y acciones entre la federación, las entidades federativas, los municipios, y alcaldías de la Ciudad de México, en uso de las atribuciones conferidas en la fracción I de éste mismo artículo;
 
 > <small>(ADICIONADA, G.G. 12 DE JUNIO DE 2019)</small>
 
@@ -5819,15 +5873,25 @@ XXVI. Las demás que le confieren este libro y las demás disposiciones legales 
 
 8.- Corresponde al Estado y a los municipios, promover la incorporación de la Gestión Integral de Riesgos en el desarrollo local y regional, estableciendo estrategias y políticas basadas en el análisis de los riesgos, con el fin de evitarlos a futuro y promover acciones para reducir los existentes.
 
+> <small>(ADICIONADO, G.G. 2 DE JUNIO DE 2022)</small>
+
+###### Artículo 6.
+
+8 Bis.- El Estado reconocerá anualmente, mediante la entrega del Premio Estatal de Protección Civil, a las personas físicas, en lo individual o colectivo, o a las personas jurídicas colectivas, así como a los grupos voluntarios constituidos conforme a este Código, por sus acciones o medidas de autoprotección y autopreparación para enfrentar los fenómenos naturales o antrópicos que pongan a la población en situación de riesgo o de peligro, cuando se destaquen por su labor altruista en el auxilio a la población ante la eventualidad de un desastre, así como por su dedicación y empeño en la promoción de la cultura de la protección civil y la gestión integral del riesgo respaldada con una comprobada trayectoria en la materia.
+
+El Premio Estatal de Protección Civil estará a cargo de un Jurado Calificador cuya integración y funcionamiento, así como las características, categorías, modalidades, criterios de calificación y requisitos para su entrega, estarán previstas en las disposiciones reglamentarias del presente Libro.
+
+El Premio Estatal de Protección Civil se entregará el 19 de septiembre de cada año, preferentemente.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+### CAPITULO CUARTO. De los Sistemas y Consejos Municipales de Protección Civil
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
 9.- El Consejo Estatal de Protección Civil es un órgano de consulta y de coordinación del Gobierno del Estado para convocar, concertar, inducir e integrar las actividades de los participantes e interesados en la materia, a fin de garantizar el cumplimiento del objeto del Sistema Estatal de Protección Civil.
-
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
-### CAPITULO CUARTO. De los Sistemas y Consejos Municipales de Protección Civil
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -5869,17 +5933,35 @@ I. El Gobernador del Estado quien lo presidirá y será suplido en su ausencia, 
 
 II. El Secretario General de Gobierno, quien fungirá como secretario ejecutivo;
 
-> <small>(REFORMADA, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2022)</small>
 
-III. El Coordinador General de Protección Civil del Estado, quien fungirá como Secretario Técnico;
+III. Las personas titulares de las Secretarías y Organismos Auxiliares de la Administración Pública Estatal que designe el Presidente del Consejo Estatal de acuerdo con sus atribuciones;
 
-IV. Investigadores, expertos técnico y científicos de diversas áreas de protección civil que invite o designe el Presidente del consejo estatal.
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2022)</small>
+
+IV. El Coordinador General de Protección Civil y Gestión Integral del Riesgo del Estado, quien fungirá como Secretario Técnico;
+
+> <small>(ADICIONADA, G.G. 2 DE JUNIO DE 2022)</small>
+
+V. La persona titular de la Presidencia de la Comisión de Gestión Integral de Riesgos y Protección Civil de la Legislatura del Estado de México;
+
+> <small>(ADICIONADA, G.G. 2 DE JUNIO DE 2022)</small>
+
+VI. Las personas titulares de las Presidencias Municipales de los ayuntamientos del Estado de México, que invite o designe el Presidente del Consejo Estatal, y
+
+> <small>(ADICIONADA, G.G. 2 DE JUNIO DE 2022)</small>
+
+VII. Investigadores, expertos técnicos y científicos de diversas áreas de protección civil que invite o designe el Presidente del Consejo Estatal.
 
 El cargo de miembro del Consejo Estatal de Protección Civil será honorífico.
 
 El consejo contará con los comités, comisiones y grupos de trabajo necesarios para el cumplimiento de su objeto, y operará en los términos de su reglamento interno.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+### CAPITULO QUINTO. De los grupos voluntarios
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 6.
 
@@ -5905,10 +5987,6 @@ Los sistemas municipales deberán vincularse y coordinarse con el sistema estata
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO QUINTO. De los grupos voluntarios
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
-
 ###### Artículo 6.
 
 13.- Los consejos municipales son órganos de consulta y de coordinación de los gobiernos municipales para convocar, concertar, inducir e integrar las acciones de los sistemas municipales de protección civil, fundamentalmente enfocadas a prevenir en la materia, sin descuidar aquellas referidas al auxilio y recuperación. Asimismo tendrán las atribuciones que determinen los ayuntamientos de conformidad con las disposiciones legales aplicables.
@@ -5929,17 +6007,17 @@ La información sobre las regiones o zonas geográficas vulnerables a los efecto
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
+### CAPITULO QUINTO BIS. De los Comités Ciudadanos de Prevención de Protección Civil
+
+> <small>(ADICIONADO, G.G. 26 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 6.
 
-15.- Son grupos voluntarios las instituciones, organizaciones y asociaciones que cuenten con registro de la Secretaría General de Gobierno, expedido por la Coordinación General de Protección Civil.
+15.- Son grupos voluntarios las instituciones, organizaciones y asociaciones que cuenten con registro de la Secretaría General de Gobierno, expedido por la Coordinación General de Protección Civil y Gestión Integral del Riesgo.
 
 Los grupos voluntarios estarán integrados por personas físicas o morales con conocimiento y experiencia en materia de protección civil, que cuenten con recursos y equipo para prestar sus servicios a la población de manera altruista y comprometida.
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
-### CAPITULO QUINTO BIS. De los Comités Ciudadanos de Prevención de Protección Civil
-
-> <small>(ADICIONADO, G.G. 26 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 6.
 
@@ -5951,7 +6029,9 @@ II. Vincular sus programas de capacitación y adiestramiento con los programas e
 
 III. Contar con un directorio actualizado de sus miembros;
 
-IV. Refrendar anualmente su registro y el de sus miembros;
+> <small>(REFORMADA, G.G. 2 DE JUNIO DE 2022)</small>
+
+IV. Registrar y refrendar anualmente el inventario de bienes y equipo para la prestación del servicio, así como, el registro de sus miembros;
 
 V. Coordinarse bajo el mando de las autoridades de protección civil en los casos de riesgo o desastre;
 
@@ -5973,15 +6053,15 @@ También podrán registrarse de manera individual, como Brigadistas Voluntarios,
 
 > <small>(ADICIONADO [N. DE E. CON LOS ARTÍCULOS QUE LO INTEGRAN], G.G. 26 DE NOVIEMBRE DE 2019)</small>
 
+### CAPITULO SEXTO. De las unidades internas
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 6.
 
 16 Bis.- Los Comités son grupos ciudadanos socialmente organizados con el objeto de fortalecer la cultura de protección civil a través de la prevención y formulación de un programa de protección civil en su comunidad.
 
 > <small>(ADICIONADO, G.G. 26 DE NOVIEMBRE DE 2019)</small>
-
-### CAPITULO SEXTO. De las unidades internas
-
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
@@ -5995,21 +6075,21 @@ También podrán registrarse de manera individual, como Brigadistas Voluntarios,
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-###### Artículo 6.
-
-17.- Los poderes Legislativo y Judicial, las dependencias, organismos auxiliares y fideicomisos públicos estatales y municipales, así como las personas de los sectores social y privado en los casos previstos en la reglamentación de este Libro, deberán establecer y operar unidades internas de protección civil, con el objeto de procurar la seguridad tanto de las personas que estén en sus instalaciones como de sus bienes, a través de acciones de prevención, auxilio y recuperación en caso de riesgo o desastre.
-
-Las Unidades Internas de Protección Civil, son la primera instancia de actuación, ante el inminente impacto de un agente perturbador, responsable de informar a la autoridad especializada en materia de protección civil.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
-
 ### CAPITULO SEPTIMO. Del sistema múltiple de alertas tempranas y emergencias del Estado de México
 
 > <small>(ADICIONADO, G.G. 12 DE JUNIO DE 2019)</small>
 
 ###### Artículo 6.
 
-18.- Las unidades internas deberán elaborar programas de protección civil que fomenten la educación de la prevención y los conocimientos básicos que permitan el aprendizaje de medidas de autoprotección y de auxilio, se presentarán para su registro ante la Secretaría General de Gobierno a través de la Coordinación General de Protección Civil.
+17.- Los poderes Legislativo y Judicial, las dependencias, organismos auxiliares y fideicomisos públicos estatales y municipales, así como las personas de los sectores social y privado en los casos previstos en la reglamentación de este Libro, deberán establecer y operar unidades internas de protección civil, con el objeto de procurar la seguridad tanto de las personas que estén en sus instalaciones como de sus bienes, a través de acciones de prevención, auxilio y recuperación en caso de riesgo o desastre.
+
+Las Unidades Internas de Protección Civil, son la primera instancia de actuación, ante el inminente impacto de un agente perturbador, responsable de informar a la autoridad especializada en materia de protección civil.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE JUNIO DE 2022)</small>
+
+###### Artículo 6.
+
+18.- Las unidades internas deberán elaborar programas de protección civil que fomenten la educación de la prevención y los conocimientos básicos que permitan el aprendizaje de medidas de autoprotección y de auxilio, se presentarán para su registro ante la Secretaría General de Gobierno a través de la Coordinación General de Protección Civil y Gestión Integral del Riesgo.
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -6023,6 +6103,10 @@ El desarrollo del programa de protección civil de las unidades hospitalarias, d
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 12 DE JUNIO DE 2019)</small>
 
+### CAPITULO PRIMERO. Disposiciones generales
+
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2022)</small>
+
 ###### Artículo 6.
 
 19 Bis.- El Sistema a que se refiere este capítulo se conformará por las Múltiples Alertas Tempranas nuevas o que se generen del conocimiento Técnico-Científico, las existentes y operando como lo es el Sistema de Alerta Sísmica, Volcánica, Meteorológica, Químico-Tecnológica, y otras de jurisdicción federal y estatal que serán coordinadas operativamente para efectos de alertamiento por la Secretaría General de Gobierno a través de la dependencia estatal que designe y en coordinación con las autoridades del Sistema Nacional de Protección Civil.
@@ -6034,10 +6118,6 @@ Es competencia exclusiva de la autoridad estatal emitir Alertas Tempranas y de E
 Las alertas tempranas a que se hace referencia en este artículo son enunciativas mas no limitativas, por lo que la Secretaría General de Gobierno podrá establecer las alertas que en razón de los múltiples riesgos y peligros a que se encuentra expuesta la entidad, estime pertinentes.
 
 > <small>(ADICIONADO, G.G. 12 DE JUNIO DE 2019)</small>
-
-### CAPITULO PRIMERO. Disposiciones generales
-
-> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 6.
 
@@ -6053,39 +6133,39 @@ IV. Las acciones y procedimientos para obtener una respuesta adecuada ante las a
 
 En el diseño del Sistema Múltiple de Alerta Temprana deberán considerar adicionalmente en su implementación criterios que garanticen la equidad de género, necesidades a personas con capacidades diferentes, población indígena y aspectos culturales entre otros.
 
-> <small>(ADICIONADO, G.G. 12 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 6.
 
-19 Quater.- El Gobierno del Estado de México instalará por sí o a través de personas físicas o morales validadas por la Secretaría General de Gobierno a través de la Coordinación General de Protección Civil y en coordinación con las autoridades del Sistema Nacional de Protección Civil Sistemas de Alertamiento Temprano incluidos al Sistema de Alerta Sísmica Mexicano, debiendo hacerlo en puntos estratégicos y de afluencia masiva de personas, con el fin de prevenir a la población en caso de un sismo.
+19 Quater.- El Gobierno del Estado de México instalará por sí o a través de personas físicas o jurídicas colectivas validadas por la Secretaría General de Gobierno a través de la Coordinación General de Protección Civil y Gestión Integral del Riesgo y en coordinación con las autoridades del Sistema Nacional de Protección Civil, Sistemas de Alerta Temprana incluidos al Sistema de Alerta Sísmica Mexicano, debiendo hacerlo en puntos estratégicos y de afluencia masiva de personas, con el fin de prevenir a la población en caso de un sismo.
 
-> <small>(ADICIONADO, G.G. 12 DE JUNIO DE 2019)</small>
-
-###### Artículo 6.
-
-19 Quinquies.- Todos los inmuebles de los poderes Legislativo, Judicial; y Ejecutivo a través de las dependencias, organismos auxiliares y fideicomisos públicos estatales, municipales y del sector público federal asentados en el Estado de México, deberán contar con un equipo de alertamiento temprano audible y visible, que reciba de manera inicial la señal oficial de la Alerta Sísmica Mexicana y emita el sonido oficialmente reconocido.
-
-> <small>(ADICIONADO, G.G. 12 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 6.
 
-19 Sexies.- Las escuelas, hospitales, empresas, industrias, centros religiosos, establecimientos mercantiles o de servicios con concentración masiva de personas, unidades multifamiliares, condominios y todos aquellos generadores de mediano y alto riesgo, deberán instalar un equipo de alertamiento temprano que reciba entre otras, la señal oficial de la Alerta Sísmica Mexicana y emita el sonido oficialmente reconocido.
+19 Quinquies.- Todos los inmuebles de los poderes Legislativo, Judicial y Ejecutivo a través de las dependencias, organismos auxiliares y fideicomisos públicos estatales, municipales y del sector público federal asentados en el Estado de México, deberán contar con un equipo de alerta temprana audible y visible, que reciba de manera inicial la señal oficial del Sistema de Alerta Sísmica Mexicano y emita el sonido oficialmente reconocido, en las áreas geográficas donde dicho sistema tenga cobertura.
 
-> <small>(ADICIONADO, G.G. 12 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 6.
 
-19 Septimus.- La Secretaría General de Gobierno en coordinación con los ayuntamientos, desde el ámbito de sus respectivas competencias y en términos de lo que establezca el Reglamento de la materia, deberán supervisar que los inmuebles cuya falla estructural constituye un peligro significativo por contener sustancias tóxicas o explosivas, así como edificaciones cuyo funcionamiento es esencial a raíz de una emergencia urbana, tales como: hospitales, terminales de transporte, estaciones de bomberos y policía, de telecomunicaciones, y depósitos de sustancias flamables, cuenten con un equipo de alertamiento temprano que reciba la señal oficial de la Alerta Sísmica Mexicana y emita el sonido oficialmente reconocido.
+19 Sexies.- Las escuelas, hospitales, empresas, industrias, centros religiosos, establecimientos mercantiles o de servicios con concentración masiva de personas, unidades multifamiliares, condominios y todos aquellos generadores de mediano y alto riesgo, deberán instalar un equipo de alerta temprana que reciba entre otras, la señal oficial del Sistema de Alerta Sísmica Mexicano y emita el sonido oficialmente reconocido, en las áreas geográficas donde dicho sistema tenga cobertura.
+
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2022)</small>
+
+###### Artículo 6.
+
+19 Septimus.- La Secretaría General de Gobierno en coordinación con los ayuntamientos, desde el ámbito de sus respectivas competencias y en términos de lo que establezca el Reglamento de la materia, deberán supervisar que los inmuebles cuya falla estructural constituye un peligro significativo por contener sustancias tóxicas o explosivas, así como edificaciones cuyo funcionamiento es esencial a raíz de una emergencia urbana, tales como: hospitales, terminales de transporte, estaciones de bomberos y policía, de telecomunicaciones, y depósitos de sustancias flamables, cuenten con un equipo de alerta temprana que reciba la señal oficial del Sistema de Alerta Sísmica Mexicano y emita el sonido oficialmente reconocido.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+## TITULO TERCERO. Del Fondo de Protección Civil
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
 20.- El Fondo para la Atención de Desastres y Siniestros Ambientales o Antropogénicos, es un instrumento, que establece los mecanismos para apoyar a los habitantes del Estado, cuando los daños ocasionados por los fenómenos perturbadores superen la capacidad financiera y operativa de respuesta del Estado, de las dependencias y entidades de la Administración Pública Estatal, así como para el financiamiento de acciones preventivas y de equipamiento, en los términos de las disposiciones aplicables.
-
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
-## TITULO TERCERO. Del Fondo de Protección Civil
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -6113,39 +6193,39 @@ El Secretario General de Gobierno rendirá informe sobre el monto, uso y destino
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
+## TITULO CUARTO. De los simulacros y señalizaciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE JUNIO DE 2022)</small>
+
 ###### Artículo 6.
 
-23.- En los edificios públicos, escuelas, fábricas, industrias, comercios, oficinas, unidades habitacionales, centros de espectáculos o diversiones, en todos los establecimientos abiertos al público y en vehículos de transporte escolar y de personal, deberán practicarse simulacros de protección civil, por lo menos dos veces al año, en coordinación con las autoridades competentes. La asistencia de las autoridades en materia de protección civil no condicionará el cumplimiento, registro y resultado del simulacro.
+23.- En los edificios públicos, escuelas, fábricas, industrias, comercios, oficinas, unidades habitacionales, centros de espectáculos o diversiones, en todos los establecimientos abiertos al público y en vehículos de transporte escolar y de personal, así como, aquellos lugares donde se fabrique, use, venda, transporte, almacene y exhiba artículos pirotécnicos deberán practicarse simulacros de protección civil, por lo menos dos veces al año, en coordinación con las autoridades competentes. La asistencia de las autoridades en materia de protección civil no condicionará el cumplimiento, registro y resultado del simulacro.
 
 Asimismo, se colocarán, en lugares visibles, material e instructivos adecuados para casos de emergencia, en los que se establezcan las reglas que deberán observarse antes, durante y después del desastre, así como las zonas de seguridad y salidas de emergencia.
 
-> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2022)</small>
 
-Lo dispuesto en este artículo se hará en términos de la reglamentación de este Libro y de las normas técnicas que al efecto emita la Secretaría General de Gobierno a través de la Coordinación General de Protección Civil.
+Lo dispuesto en este artículo se hará en términos de la reglamentación de este Libro y de las normas técnicas que al efecto emita la Secretaría General de Gobierno a través de la Coordinación General de Protección Civil y Gestión Integral del Riesgo.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE JUNIO DE 2022)</small>
 
-## TITULO CUARTO. De los simulacros y señalizaciones
+## TITULO QUINTO. De las evaluaciones, autorizaciones, registros y dictámenes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 6.
 
-24.- La Secretaría General de Gobierno, a través de la Coordinación General de Protección Civil emitirá la evaluación técnica de impacto en materia de protección civil, en los casos previstos en el artículo 5.35 de este Código, y conforme a las disposiciones de carácter técnico en materia de protección civil que sean aplicables al tipo de construcción y uso que se le dé a la edificación, en términos de los reglamentos del Libro Quinto y Sexto de este Código.
+24.- La Secretaría General de Gobierno, a través de la Coordinación General de Protección Civil y Gestión Integral del Riesgo emitirá la evaluación técnica de impacto en materia de protección civil, en los casos previstos en el artículo 5.35 de este Código, conforme a las disposiciones de carácter técnico en materia de protección civil que sean aplicables al tipo de construcción y uso que se le dé a la edificación, en términos de los reglamentos del Libro Quinto y Sexto de este Código.
 
-> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+Una vez concluidas las construcciones derivadas del uso del suelo a que se refiere el párrafo anterior, para el inicio de las operaciones se requerirá la autorización de la Secretaría General de Gobierno a través de la Coordinación General de Protección Civil y Gestión Integral del Riesgo.
 
-Una vez concluidas las construcciones derivadas del uso del suelo a que se refiere el párrafo anterior, para el inicio de las operaciones se requerirá la autorización de la Secretaría General de Gobierno a través de la Coordinación General de Protección Civil.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE JUNIO DE 2022)</small>
+
+###### Artículo 6.
+
+25.- Requieren autorización de protección civil de la Secretaría General de Gobierno las actividades que pudieran generar fenómenos perturbadores, quien la emitirá a través de la Coordinación General de Protección Civil y Gestión Integral del Riesgo.
 
 > <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
-
-## TITULO QUINTO. De las autorizaciones, registros y dictámenes
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 2021)</small>
-
-###### Artículo 6.
-
-25.- Requieren autorización de protección civil de la Secretaría General de Gobierno las actividades que pudieran generar fenómenos perturbadores, quien la emitirá a través de la Coordinación General de Protección Civil.
 
 La reglamentación de este Libro establecerá las actividades que requieren de dicha autorización.
 
@@ -6177,13 +6257,13 @@ El Registro Estatal de Protección Civil, es obligatorio e integrará de manera 
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-###### Artículo 6.
-
-27.- El Gobernador del Estado expedirá en forma apremiante una declaratoria de emergencia ante la ocurrencia de un desastre que ponga en riesgo la vida humana, y solicitará al gobierno federal la expedición de una declaratoria de desastre, cuando uno o varios fenómenos perturbadores hayan causado daños severos a la población y la capacidad de respuesta del Estado se vea superada.
+## TITULO SEXTO. De las declaratorias de emergencia y desastre
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-## TITULO SEXTO. De las declaratorias de emergencia y desastre
+###### Artículo 6.
+
+27.- El Gobernador del Estado expedirá en forma apremiante una declaratoria de emergencia ante la ocurrencia de un desastre que ponga en riesgo la vida humana, y solicitará al gobierno federal la expedición de una declaratoria de desastre, cuando uno o varios fenómenos perturbadores hayan causado daños severos a la población y la capacidad de respuesta del Estado se vea superada.
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -6199,21 +6279,21 @@ El Registro Estatal de Protección Civil, es obligatorio e integrará de manera 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-###### Artículo 6.
-
-30.- La Secretaría General de Gobierno, a través de la Coordinación General de Protección Civil organizará y desarrollará el Sistema Estatal de Información de Protección Civil, con el objeto de obtener, generar y procesar la información necesaria para la planeación y evaluación de las actividades en materia de protección civil, a fin de integrar el Registro Estatal de Protección Civil.
-
-Las dependencias y organismos de la administración pública estatal y municipal, así como los grupos voluntarios, deberán proporcionar a la Secretaría General de Gobierno a través de la Coordinación General de Protección Civil, los informes a que se refiere el párrafo anterior.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
-
 ## TITULO SÉPTIMO. Del sistema estatal de información de protección civil y registro estatal de protección civil
 
-> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 6.
 
-31.- La Secretaría General de Gobierno a través de la Coordinación General de Protección Civil, establecerá el Registro Estatal de Protección Civil, quien verificará y vigilará su correcto funcionamiento, en el que se inscribirá de manera sistematizada la información a que se refiere el artículo anterior.
+30.- La Secretaría General de Gobierno, a través de la Coordinación General de Protección Civil y Gestión Integral del Riesgo organizará y desarrollará el Sistema Estatal de Información de Protección Civil, con el objeto de obtener, generar y procesar la información necesaria para la planeación y evaluación de las actividades en materia de protección civil, a fin de integrar el Registro Estatal de Protección Civil.
+
+Las dependencias y organismos de la administración pública estatal y municipal, así como los grupos voluntarios, deberán proporcionar a la Secretaría General de Gobierno a través de la Coordinación General de Protección Civil y Gestión Integral del Riesgo, los informes a que se refiere el párrafo anterior.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE JUNIO DE 2022)</small>
+
+###### Artículo 6.
+
+31.- La Secretaría General de Gobierno a través de la Coordinación General de Protección Civil y Gestión Integral del Riesgo, establecerá el Registro Estatal de Protección Civil, quien verificará y vigilará su correcto funcionamiento, en el que se inscribirá de manera sistematizada la información a que se refiere el artículo anterior.
 
 > <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -6221,29 +6301,29 @@ El Registro será público, deberá estar disponible en el portal informativo qu
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-###### Artículo 6.
-
-32.- Corresponde a la Secretaría General de Gobierno, a través de la Coordinación General de Protección Civil, el ejercicio de las atribuciones de vigilancia y aplicación de medidas de seguridad y sanciones, tratándose de generadores de mediano y alto riesgo. Corresponde a los municipios los de bajo riesgo.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
 ## TITULO OCTAVO. De la vigilancia
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO SEGUNDO. De las medidas de seguridad
 
-> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 6.
 
-33.- En caso de riesgo inminente, sin perjuicio de la declaratoria de emergencia, la Secretaría General de Gobierno, la Coordinación General de Protección Civil y los municipios, dictarán de inmediato las medidas de seguridad conducentes a efecto de proteger la vida de la población y sus bienes, la planta productiva y el ambiente, así como para garantizar el funcionamiento de los servicios esenciales de la comunidad. El Secretario General de Gobierno, informará de manera inmediata al Titular del Ejecutivo, las medidas de seguridad que fueron aplicadas.
+32.- Corresponde a la Secretaría General de Gobierno, a través de la Coordinación General de Protección Civil y Gestión Integral del Riesgo, el ejercicio de las atribuciones de vigilancia y aplicación de medidas de seguridad y sanciones, tratándose de generadores de mediano y alto riesgo.
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO TERCERO. De las infracciones y sanciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE JUNIO DE 2022)</small>
+
+###### Artículo 6.
+
+33.- En caso de riesgo inminente, sin perjuicio de la declaratoria de emergencia, la Secretaría General de Gobierno, la Coordinación General de Protección Civil y Gestión Integral del Riesgo y los municipios, dictarán de inmediato las medidas de seguridad conducentes a efecto de proteger la vida de la población y sus bienes, la planta productiva y el ambiente, así como para garantizar el funcionamiento de los servicios esenciales de la comunidad. El Secretario General de Gobierno, informará de manera inmediata al Titular del Ejecutivo, las medidas de seguridad que fueron aplicadas.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
@@ -6269,9 +6349,13 @@ VI. El aislamiento de áreas afectadas.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
+### CAPITULO PRIMERO. Del objeto y finalidad
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
 ###### Artículo 6.
 
-36.- Las infracciones a las disposiciones de este Libro y su reglamentación serán sancionadas por la Secretaría General de Gobierno a través de la Coordinación General de Protección Civil y los municipios, en su caso, con:
+36.- Las infracciones a las disposiciones de este Libro y su reglamentación serán sancionadas por la Secretaría General de Gobierno a través de la Coordinación General de Protección Civil y Gestión Integral del Riesgo y los municipios, en su caso, con:
 
 > <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -6299,10 +6383,6 @@ Se podrá imponer una o más sanciones de las previstas en este artículo por un
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
-
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
-
 ###### Artículo 6.
 
 37.- Serán sancionadas con multa las infracciones siguientes:
@@ -6311,9 +6391,9 @@ Se podrá imponer una o más sanciones de las previstas en este artículo por un
 
 I. De mil a tres mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, a quien:
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2022)</small>
 
-a) No cuente con registro de la Coordinación General de Protección Civil, estando obligado a obtenerlo;
+a) No cuente con registro de la Coordinación General de Protección Civil y Gestión Integral del Riesgo, estando obligado a obtenerlo;
 
 b) No cumpla con la calendarización de acciones establecidas en su programa específico de protección civil.
 
@@ -6321,9 +6401,9 @@ b) No cumpla con la calendarización de acciones establecidas en su programa esp
 
 II. De tres mil uno a cuatro mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, a quien:
 
-> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2022)</small>
 
-a) No cuente con la Evaluación de Impacto Estatal.
+a) No cuente con la evaluación técnica de impacto en materia de protección civil que sustente la evaluación de impacto estatal estando obligado a tenerla;
 
 b) Haya iniciado operaciones sin la autorización correspondiente;
 
@@ -18330,3 +18410,15 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor a los 120 días hábiles siguiente (sic) a su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Lo previsto en el presente Decreto se cumplirá de manera gradual y progresiva de conformidad con la disponibilidad presupuestal.
+
+G.G. 2 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 59.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Las referencias realizadas en disposiciones jurídicas, reglamentarias, administrativas, y documentación a la Coordinación General de Protección Civil se entenderán hechas a la Coordinación General de Protección Civil y Gestión Integral del Riesgo.
+
+CUARTO. Atendiendo a la fracción X, del artículo 6.7 y al artículo 6.8 Bis, del presente Código, para otorgar el reconocimiento al que se hace referencia, el Ejecutivo Estatal establecerá en el Reglamento, las bases y lineamientos a los que se sujetarán los aspirantes a recibir dicho premio, debiendo considerar para tal efecto una convocatoria pública.
