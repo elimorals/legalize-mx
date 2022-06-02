@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2022-05-19"
+last_updated: "2022-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -1305,6 +1305,10 @@ Los requisitos, su nombramiento, elección, funcionamiento y organización se re
 
 Para dirimir las controversias que se susciten entre la administración municipal y los particulares, y entre éstos y los terceros afectados, derivadas de los actos y resoluciones de la autoridad municipal y de la aplicación de los ordenamientos jurídicos municipales, se crea el Juzgado Cívico Municipal dotado de plena autonomía.
 
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2022)</small>
+
+Además de lo anterior, las controversias entre condóminos también se podrán dirimir por su intervención, de acuerdo con los ordenamientos respectivos y aplicables.
+
 El titular del Juzgado deberá reunir los requisitos establecidos en el artículo 122 de la Constitución Política del Estado Libre y Soberano de Durango. Su nombramiento será propuesto por el Presidente Municipal, debiendo ser ratificado por el Ayuntamiento.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
@@ -1343,7 +1347,9 @@ III. Aplicar las sanciones establecidas en el Bando, los reglamentos municipales
 
 IV. Ejercer las funciones de mediación y conciliación a que se refiere el Reglamento Interior del Juzgado Cívico así mismo, conocer de asuntos de reparación de daños y perjuicios ocasionados, o bien, dejar a salvo los derechos del ofendido.
 
-V. Intervenir en materia de conflictos vecinales o familiares, con el fin de avenir a las partes.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2022)</small>
+
+V. Intervenir en materia de conflictos vecinales, entre condóminos o familiares, con el fin de avenir a las partes.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -2624,6 +2630,14 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 19 DE MAYO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 124.- QUE CONTIENE REFORMA Y ADICIONES A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 137.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
