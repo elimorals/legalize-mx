@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-de-periodistas-y-personas-defensoras-de-15031
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-17"
-last_updated: "2021-06-17"
+last_updated: "2022-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PROTECCIÓN DE PERIODISTAS Y PERSONAS DEFENSORAS DE DERECHOS HUMANOS EN EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2022.
 
 Ley publicada en el No. 48 del Periódico Oficial del Estado de Durango, el jueves 17 de junio de 2021.
 
@@ -87,7 +87,9 @@ IX. Medidas Urgentes de Protección: Conjunto de acciones y medios para resguard
 
 X. Peticionario: Persona que solicita Medidas Preventivas, Medidas de Protección o Medidas Urgentes de Protección ante el Mecanismo.
 
-XI. Periodistas: Las personas físicas, así como medios de comunicación y difusión públicos, comunitarios, privados, independientes y universitarios, cuyo trabajo consiste en recabar, generar, procesar, editar, comentar, opinar, difundir, publicar o proveer información, a través de cualquier medio de difusión y comunicación que puede ser impreso, radio, televisión y digitales con personalidad debidamente acreditada.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2022)</small>
+
+XI. Periodistas y comunicadores: Las personas físicas, así como medios de comunicación y difusión públicos, comunitarios, privados, independientes y universitarios, cuyo trabajo consiste en recabar, generar, procesar, editar, comentar, opinar, difundir, publicar o proveer información, a través de cualquier medio de difusión y comunicación que puede ser impreso, radio, televisión y digitales con personalidad debidamente acreditada.
 
 XII. Colaborador Periodístico: Personas que colaboran como columnistas, editorialistas y auxiliares en recabar información.
 
@@ -271,13 +273,17 @@ Si el empleador no dota las herramientas necesarias al periodista para una tarea
 
 #### SECCIÓN SÉPTIMA. DEL FINANCIAMIENTO
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 27.
 
-Para el funcionamiento del Mecanismo, la Comisión Estatal de Derechos Humanos procurará destinar al menos el 13% del Presupuesto Anual de Egresos asignado por el Congreso del Estado.
+Para el funcionamiento del Mecanismo, la Comisión Estatal de Derechos Humanos destinará al menos el 13% del Presupuesto Anual de Egresos asignado por el Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 28.
 
-El Presupuesto asignado al Mecanismo se destinará para el cumplimiento efectivo de las Medidas de Protección además de capacitación según las necesidades en la materia de esta Ley.
+El Presupuesto asignado al Mecanismo se destinará para el cumplimiento efectivo de las Medidas de Protección, además de capacitación y profesionalización según las necesidades en la materia de esta Ley.
 
 #### SECCIÓN OCTAVA. DEL DERECHO DE AUTORÍA Y FIRMA A SOLICITUD DEL PERIODISTA O COLABORADOR PERIODÍSTICO
 
@@ -369,7 +375,9 @@ III. Las asociaciones o agrupaciones de personas defensoras de los derechos huma
 
 Todos los cargos de la Junta de Gobierno serán honoríficos y de colaboración institucional, con excepción de la Secretaria Ejecutiva.
 
-La Junta de Gobierno contará con una Secretaria Ejecutiva, cuyo cargo será electo por sus miembros y contará solamente con voz, el cual durará en su encargo 6 años.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2022)</small>
+
+La Junta de Gobierno contará con una Secretaria Ejecutiva, cuyo cargo será electo por sus miembros y contará solamente con voz, el cual durará en su encargo 4 años, con derecho a reelegirse por única ocasión.
 
 ###### ARTÍCULO 40.
 
@@ -562,3 +570,13 @@ DR. JOSÉ ROSAS AISPURO TORRES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. HÉCTOR DAVID FLORES ÁVALOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 143.- QUE CONTIENE REFORMAS Y ADICIONES A LOS ARTÍCULOS 2, 27, 28 Y 39 DE LA LEY DE PROTECCIÓN A PERIODISTAS Y PERSONAS DEFENSORAS DE LOS DERECHOS HUMANOS EN EL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
