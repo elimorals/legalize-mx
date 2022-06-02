@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-desarrollo-social-del-estado-de-campeche-56443"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-10"
-last_updated: "2018-03-26"
+last_updated: "2022-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 10 de julio de 2007.
 
@@ -301,7 +301,9 @@ IV. Garantizar formas de participación social en la formulación, ejecución, i
 
 La Política Estatal de Desarrollo Social debe incluir, cuando menos, las siguientes vertientes:
 
-I. Superación de la pobreza a través de la educación, la salud, la alimentación, la generación de empleo e ingreso, autoempleo y capacitación;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2022)</small>
+
+I. Superación de la pobreza a través de la educación, la salud, la alimentación nutritiva y de calidad, la generación de empleo e ingreso, autoempleo y capacitación;
 
 II. Seguridad social y programas asistenciales;
 
@@ -721,7 +723,9 @@ III. Los programas dirigidos a las personas en condiciones de pobreza, marginaci
 
 IV. Los programas dirigidos a zonas de atención prioritaria;
 
-V. Los programas y acciones públicas para asegurar la alimentación y nutrición materno-infantil;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2022)</small>
+
+V. Los programas y acciones públicas para asegurar la alimentación nutritiva y de calidad y nutrición materno-infantil;
 
 VI. Los programas de abasto social de productos básicos;
 
@@ -1070,3 +1074,11 @@ P.O. 26 DE MARZO DE 2018.
 PRIMERO.- El presente decreto entrara en vigor a los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 2 DE JUNIO DE 2022.
+
+[N. DE E TRANSITORIOS DEL DECRETO NÚMERO 68 POR EL QUE “SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 17, Y LA FRACCIÓN V DEL ARTÍCULO 56 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero.- El presente decreto entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
