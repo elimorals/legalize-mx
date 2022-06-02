@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-igualdad-sustantiva-entre-mujeres-y-hombres-en-la-55504"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-15"
-last_updated: "2021-02-10"
+last_updated: "2022-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55504&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-05-02"
 
 LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 10 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE JUNIO DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 15 de mayo de 2007.
 
@@ -99,6 +99,10 @@ IV. Igualdad sustantiva: es el acceso al mismo trato y oportunidades, para el re
 V. Perspectiva de Género: concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, la desigualdad y la exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género;
 
 VI. Principio de Igualdad: posibilidad y capacidad de ser titulares cualitativamente de los mismos derechos, sin importar las diferencias del género al que pertenezcan;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+VI Bis. Principio de corresponsabilidad social: Principio que busca la igualdad sustantiva por medio del fomento y promoción de acciones en el ámbito público y privado para la conciliación de la vida personal, familiar y laboral, a través de medidas que permitan equilibrar la presencia de mujeres y hombres en los espacios domésticos y laborales;
 
 VII. Transversalidad: herramienta metodológica para garantizar la inclusión de la perspectiva de género como eje integrador, en la gama de instrumentos, políticas y prácticas de índole legislativa, ejecutiva, administrativa y reglamentaria, tendientes a la homogeneización de principios, conceptos y acciones a implementar, para garantizar la concreción del principio de igualdad;
 
@@ -220,6 +224,14 @@ III. Evaluar la participación equilibrada entre mujeres y hombres, garantizando
 
 IV. Implementar acciones afirmativas, para garantizar el derecho de la igualdad salarial entre mujeres y hombres en las Alcaldías;
 
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+IV Bis. Impulsar las acciones afirmativas y medidas necesarias, que coadyuven a la integración laboral y económica plena de las mujeres en las Alcaldías;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+IV Ter. Diseñar, aplicar y promover programas, medidas y acciones basadas en el principio de corresponsabilidad social en el ámbito público y privado para la conciliación de la vida familiar y laboral, a través de medidas que permitan equilibrar la presencia de mujeres y hombres en los espacios doméstico y productivo;
+
 > <small>(REFORMADA [N. DE E. REUBICADA], G.O. 8 DE MARZO DE 2019)</small>
 
 V. Suscribir los convenios necesarios para el cumplimiento de la presente Ley, y
@@ -274,6 +286,10 @@ IX. Fomentar la observancia del principio de Igualdad Sustantiva entre mujeres y
 
 X. Promover la eliminación de estereotipos y prejuicios que menoscaben, limiten o impidan el ejercicio de algún derecho.
 
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XI. Fomentar la observancia del principio de corresponsabilidad social mediante la promoción y difusión de planes de conciliación laboral y familiar, tanto en instituciones públicas como privadas.
+
 ### CAPÍTULO SEGUNDO. DE LOS INSTRUMENTOS DE LA POLÍTICA EN MATERIA DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MARZO DE 2019)</small>
@@ -318,11 +334,15 @@ El Sistema para la Igualdad sustantiva entre Mujeres y Hombres de la Ciudad de M
 
 El Sistema tiene por fin garantizar la igualdad sustantiva entre mujeres y hombres en la Ciudad de México. El Sistema se estructurará con una Secretaría Técnica, a cargo de la Secretaría de las Mujeres, y deberá contar, al menos, con representantes de:
 
-I. La Secretaría de Desarrollo Social;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+I. La Secretaría de Inclusión y Bienestar Social;
 
 II. La Secretaría de Desarrollo Económico;
 
-III. La Secretaría del Trabajo;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+III. La Secretaría de Trabajo y Fomento al Empleo;
 
 IV. La Secretaría de Salud;
 
@@ -334,15 +354,41 @@ V. La Fiscalía General de Justicia de la Ciudad de México;
 
 VI. La Comisión de Igualdad de Género del Congreso de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
 
-VII. El Tribunal Superior de Justicia de la Ciudad de México. Así como, cuatro representantes de la sociedad civil e instituciones académicas.
+VII. El Tribunal Superior de Justicia de la Ciudad de México;
 
-El Sistema está obligado a sesionar trimestralmente y podrá celebrar las reuniones extraordinarias que considere convenientes para el cumplimiento de la presente ley. Sus decisiones se tomarán por mayoría simple.
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
 
-> <small>(ADICIONADA, G.O. 8 DE MARZO DE 2019)</small>
+VIII. La Comisión de Derechos Humanos de la Ciudad de México;
 
-VIII. La Comisión de Derechos Humanos del Distrito Federal.
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+IX. El Consejo de Evaluación de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+X. El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XI. El Instituto Electoral de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XII. El Instituto de Defensoría Pública;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XIII. El Tribunal Electoral de la Ciudad de México, y
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XIV. Cuatro representantes de la sociedad civil e instituciones académicas.
+
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2022)</small>
+
+El Sistema está obligado a sesionar, al menos, trimestralmente y podrá celebrar las reuniones extraordinarias que considere convenientes para el cumplimiento de la presente ley. Sus decisiones se tomarán por mayoría simple.
 
 > <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
 
@@ -386,7 +432,9 @@ a) Dicho compromiso deberá ser acreditado por las empresas interesadas, que cer
 
 b) La Secretaría de las Mujeres será la encargada de llevar a cabo la evaluación de la información proporcionada para el otorgamiento de reconocimientos.
 
-XII. Fomentar acciones encaminadas al reconocimiento progresivo del derecho de conciliación de la vida personal, laboral y familiar y establecer los medios y mecanismos tendientes a la convivencia sin menoscabo del pleno desarrollo humano;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XII. Fomentar el principio de corresponsabilidad social mediante la promoción y difusión de acciones encaminadas al reconocimiento progresivo del derecho de las personas a la conciliación de la vida personal, familiar y laboral, así como a establecer los medios y mecanismos para su realización sin menoscabo del pleno desarrollo humano;
 
 XIII. Establecer medidas para la erradicación del acoso sexual y acoso por razón de sexo; y
 
@@ -694,11 +742,11 @@ V. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
 
 ### CAPÍTULO PRIMERO. DE LAS RESPONSABILIDADES
 
-> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 38.
 
-La violación a los principios y programas que esta Ley prevé, por parte de las autoridades de la Ciudad de México, será sancionada de acuerdo a lo dispuesto por la Ley Federal de Responsabilidades de los Servidores Públicos y, en su caso, por las Leyes aplicables en la Ciudad de México, que regulen esta materia, lo anterior sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal para el Distrito Federal.
+La violación a los principios y programas, así como la omisión o negación de las acciones necesarias para el acceso de las mujeres al goce de la protección de la justicia que esta Ley prevé, por parte de los entes públicos de la Ciudad de México, será sancionada de acuerdo a lo dispuesto por la Ley de Responsabilidades Administrativas de la Ciudad de México y, en su caso, por las Leyes aplicables en la Ciudad de México, que regulen esta materia, lo anterior sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal para el Distrito Federal.
 
 ## TRANSITORIOS
 
@@ -787,3 +835,35 @@ G.O. 10 DE FEBRERO DE 2021.
 PRIMERO. - Remítase a la persona Titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. - El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 2 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES I, III, VII Y VIII; SE MODIFICA EL PÁRRAFO SEGUNDO Y SE RECORRE PARA UBICARSE POSTERIOR A LA FRACCIÓN XIV; SE ADICIONAN LAS FRACCIONES, IX, X, XI, XII, XIII Y XIV; TODAS AL ARTÍCULO 14 DE LA LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 2 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 16, FRACCIÓN XII, Y SE ADICIONA UNA FRACCIÓN VI BIS AL ARTÍCULO 5, Y UNA FRACCIÓN XI AL ARTÍCULO 10, TODOS DE LA LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 2 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES IV BIS Y IV TER AL ARTÍCULO 9 BIS DE LA LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 2 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 38 DE LA LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
