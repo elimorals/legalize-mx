@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-instituto-de-evaluacion-de-politicas-101260"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-16"
-last_updated: "2020-03-29"
+last_updated: "2022-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101260&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "DUR"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY DE EVALUACIÓN DE POLÍTICAS PÚBLICAS DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 2 DE JUNIO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE CREA EL INSTITUTO DE EVALUACIÓN DE POLÍTICAS PÚBLICAS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2022 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 16 de febrero de 2014.
 
@@ -610,3 +612,21 @@ P.O. 29 DE MARZO DE 2020.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
+
+P.O. 2 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 138.- QUE EXPIDE LA LEY DE EVALUACIÓN DE POLÍTICAS PÚBLICAS DEL ESTADO DE DURANGO".]
+
+PRIMERO. Se abroga la Ley que crea el Instituto de Evaluación de Políticas Públicas, expedida mediante el Decreto número 74 de la LXIV Legislatura, publicado en el Periódico Oficial del Gobierno (sic) Estado de Durango número 14 de fecha 16 de febrero de 2014, así como sus reformas.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+TERCERO. La estructura orgánica estará sujeta a la disponibilidad presupuestal del Instituto de Evaluación de Políticas Públicas.
+
+CUARTO. El Estatuto Orgánico del Instituto deberá expedirse dentro de los 90 días hábiles siguientes a la entrada en vigor del presente Decreto, mientras tanto seguirá aplicándose el Reglamento Interior vigente.
+
+QUINTO. El Reglamento de Servicio Civil y Profesional de Carrera del Instituto de Evaluación de Políticas Públicas del Estado de Durango, deberá expedirse dentro de los 90 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+SEXTO. La persona titular del órgano interno de control del Instituto será designada de conformidad con la normatividad aplicable.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
