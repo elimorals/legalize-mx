@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-adquisiciones-arrendamientos-y-75698"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-28"
-last_updated: "2021-06-14"
+last_updated: "2022-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75698&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-07-13"
 
 REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2022.
 
 Reglamento publicado en la Octava Sección del Diario Oficial de la Federación, el miércoles 28 de julio de 2010.
 
@@ -607,7 +607,9 @@ g) Si estará sujeta a alguna modalidad de contratación, precisando ésta confo
 
 h) Si la totalidad de los bienes o servicios materia de la licitación pública serán objeto del contrato que se adjudique a un solo licitante, o si se hará mediante el procedimiento de abastecimiento simultáneo, en cuyo caso deberá precisarse lo dispuesto en los artículos 29, fracción XII, y 39 de la Ley, e
 
-i) En el modelo de contrato, respecto de los requisitos a que se refiere el artículo 45 de la Ley, los siguientes aspectos según corresponda:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE JUNIO DE 2022)</small>
+
+i) El modelo de contrato será aquél que haya aprobado la Secretaría y publicado en CompraNet, en el cual deberá preverse, además de lo establecido en el artículo 45 de la Ley, los aspectos siguientes, según corresponda:
 
 1. El plazo máximo en días naturales para la entrega de los bienes o la prestación de los servicios, el cual contará a partir de la fecha en que el proveedor reciba la requisición respectiva;
 
@@ -1463,6 +1465,14 @@ VII. Establecer, en el caso que se actualice el supuesto a que hace referencia e
 
 VIII. Establecer la previsión de que una vez cumplidas las obligaciones del proveedor a satisfacción de la dependencia o entidad, el servidor público facultado procederá inmediatamente a extender la constancia de cumplimiento de las obligaciones contractuales para que se dé inicio a los trámites para la cancelación de las garantías de anticipo y cumplimiento del contrato.
 
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2022)</small>
+
+Las dependencias y entidades observarán los modelos de contratos para licitación pública, invitación a cuando menos tres personas y adjudicación directa, así como los modelos de convenios, aprobados por la Secretaría, que se encuentren publicados en Compranet, por lo que no se requerirá que los contratos y convenios, previamente a su formalización, sean revisados o validados por las áreas jurídicas de las dependencias y entidades. Cualquier modificación a los modelos de contratos o convenios deberá ser autorizada por la Secretaría y será objeto de publicación en Compranet, incluidas las derivadas de alguna modificación a la normatividad aplicable.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2022)</small>
+
+Las dependencias y entidades serán responsables de establecer las particularidades, especificaciones y características propias para el cumplimiento del objeto de su contrato o convenio, las cuales deberán ser acordes con la Ley, el presente Reglamento y demás normatividad aplicable en la materia.
+
 Las dependencias que lleven a cabo la cancelación de garantías, deberán comunicarlo a la Tesorería de la Federación dentro de los quince días hábiles siguientes a la cancelación.
 
 ###### Artículo 82.
@@ -1488,6 +1498,10 @@ La fecha, hora y lugar para la firma del contrato será la determinada en la con
 En el caso del procedimiento de adjudicación directa la fecha, hora y lugar para la firma del contrato será la determinada por el Área contratante en la notificación de la adjudicación del mismo; dicha fecha deberá quedar comprendida dentro de los quince días naturales siguientes al de la citada notificación.
 
 La entrega de los bienes o el inicio de la prestación del servicio, podrá darse el día natural siguiente al de la notificación del fallo o, en su caso, de la adjudicación del contrato, si la convocante así lo estableció en la convocatoria a la licitación pública o la invitación a cuando menos tres personas, según corresponda, y lo solicita al proveedor mediante la requisición correspondiente. En su defecto, el plazo para la entrega de los bienes o inicio de la prestación del servicio será el que se establezca en el contrato.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2022)</small>
+
+En el fallo de la licitación o de la invitación a cuando menos tres personas o en el oficio de adjudicación, según corresponda, se deberá señalar el número, objeto, monto y vigencia del contrato, así como el porcentaje y monto por el cual deberá otorgarse la garantía de cumplimiento, si es divisible o indivisible, a efecto que el proveedor inicie las gestiones conducentes para la obtención de dicha garantía.
 
 Para efectos de lo dispuesto en el tercer párrafo del artículo 46 de la Ley, el proveedor que hubiere entregado bienes o prestado servicios total o parcialmente con fundamento en el primer párrafo de dicho precepto legal, podrá dejar de suministrar los bienes o prestar los servicios que falten y solicitar mediante escrito el pago de aquéllos que haya proporcionado y, en su caso, de los gastos no recuperables que resulten procedentes.
 
@@ -2010,3 +2024,13 @@ D.O.F. 14 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 59 DEL REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan aquellas disposiciones administrativas que se opongan al presente Decreto.
+
+TERCERO.- Los actos y contratos que las dependencias y entidades de la Administración Pública Federal hayan celebrado con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las disposiciones vigentes al momento de su inicio o celebración.
