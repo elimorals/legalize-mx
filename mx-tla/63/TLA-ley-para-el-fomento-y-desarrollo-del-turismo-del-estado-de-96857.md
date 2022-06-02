@@ -4,7 +4,7 @@ identifier: "TLA-ley-para-el-fomento-y-desarrollo-del-turismo-del-estado-de-9685
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-06"
-last_updated: "2020-02-24"
+last_updated: "2022-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TLA"
 ---
 # LEY PARA EL FOMENTO Y DESARROLLO DEL TURISMO DEL ESTADO DE TLAXCALA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE TLAXCALA, PUBLICADA EN EL P.O. DE 2 DE JUNIO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA EL FOMENTO Y DESARROLLO DEL TURISMO DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2022 (ABROGADA).
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 6 de diciembre de 2013.
 
@@ -930,3 +932,39 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 107.- LEY DE TURISMO DEL ESTADO DE TLAXCALA.”]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Decreto número 207 que contiene la Ley para el Fomento y Desarrollo del Turismo del Estado de Tlaxcala, publicado en el Periódico Oficial del Gobierno del Estado, número uno extraordinario de fecha 6 de diciembre del año 2013.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al presente ordenamiento.
+
+###### ARTÍCULO CUARTO.
+
+La persona Titular del Poder Ejecutivo del Estado, expedirá los reglamentos y declaratorias correspondientes que refiere la presente Ley, dentro de los ciento veinte días naturales siguientes a la entrada en vigor de ésta.
+
+###### ARTÍCULO QUINTO.
+
+Los municipios expedirán sus reglamentos dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos administrativos iniciados ante la autoridad que corresponda, antes de la entrada en vigor de la presente Ley, deberán atenderse y resolverse, de conformidad con la legislación que se abroga mediante esta Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Consejo Consultivo Turístico del Estado y los consejos consultivos municipales deberán de integrarse dentro de los noventa días naturales siguientes a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Los prestadores de servicios turísticos del Estado deberán de darse de alta en el Registro Estatal de Turismo dentro de los ciento ochenta días naturales vigentes a la entrada en vigor de la presente Ley.
