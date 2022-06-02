@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transito-para-los-municipios-del-estado-de-durango-10418
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-22"
-last_updated: "2021-12-26"
+last_updated: "2022-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE TRÁNSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 22 de diciembre de 1996.
 
@@ -285,9 +285,11 @@ II.- Substituir al Director en sus ausencias y asumir sus funciones; y
 
 III.- Las demás que confieren la Ley y sus Reglamentos Internos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2022)</small>
+
 ###### ARTICULO 21.
 
-Son funciones del personal operativo de la corporación:
+Son funciones del personal operativo de la corporación; como son los jefes de servicios, comandantes, oficiales y policía vial:
 
 I.- Mantener el orden y tranquilidad pública en materia de Tránsito en el Municipio;
 
@@ -308,6 +310,10 @@ b) DE PREVENCION: Ejecutando medidas tendientes a evitar infracciones y accident
 c) DE INSPECCION: Vigilando el cumplimiento de esta Ley y de sus disposiciones reglamentarias en las zonas de adscripción que se les asignen y en los casos y circunstancias que les marque la superioridad;
 
 d) DE ASISTENCIA: Dando auxilio oportuno a los lesionados en accidentes de tránsito, tomando las medidas de emergencia que aseguren la vida y la integridad física de las personas y que logren el desalojo de las vías en caso de obstrucción de las mismas o del congestionamiento del tránsito.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2022)</small>
+
+e) DE INFRACCIÓN: Elaborar las actas de infracción por las violaciones en materia de tránsito y vialidad que se contemplen en las leyes y la reglamentación municipal.
 
 VI.- Obedecer las medidas de orden y disciplina que se indiquen en esta Ley y el Reglamento respectivo para la prestación del Servicio de Tránsito;
 
@@ -934,3 +940,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 133.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que contravengan al presente decreto.
