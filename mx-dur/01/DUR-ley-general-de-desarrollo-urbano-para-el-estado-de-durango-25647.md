@@ -4,7 +4,7 @@ identifier: "DUR-ley-general-de-desarrollo-urbano-para-el-estado-de-durango-2564
 country: "mx"
 rank: "ley_general"
 publication_date: "2002-06-06"
-last_updated: "2020-06-25"
+last_updated: "2022-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY GENERAL DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 2 DE JUNIO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY GENERAL DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2022 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 6 de junio de 2002.
 
@@ -4132,3 +4134,25 @@ SEGUNDO.- Los ayuntamientos respectivos del Estado, establecerán en su Reglamen
 TERCERO.- Los ayuntamientos de los municipios del Estado, deberán elaborar las reformas a sus respectivos Reglamentos de Construcciones que deriven del presente Decreto, en un plazo que no excederá de tres meses contados a partir del inicio de su vigencia.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 141.- POR EL QUE SE EXPIDE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE DURANGO”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se abroga la Ley General de Desarrollo Urbano del Estado de Durango publicada en el Periódico Oficial Nº. 45 de fecha 6 de junio de 2002, aprobada mediante Decreto N°. 67, de la LXII Legislatura y se derogan todas las disposiciones legales y reglamentarias que se opongan a lo establecido en la presente Ley.
+
+TERCERO. En un plazo no mayor de un año contado a partir de la entrada en vigor de esta Ley, las autoridades estatales y municipales deberán crear o adecuar todas las disposiciones legales y reglamentarias relacionadas con los contenidos de este instrumento.
+
+CUARTO. Los trámites urbanisticos y los recursos administrativos que se encuentren en proceso al entrar en vigor la presente Ley, continuaran gestionándose hasta su conclusión en los términos establecidos en la Ley que se abroga.
+
+QUINTO. En un plazo no mayor de un año contado a partir de la entrada en vigor de esta Ley, se formularán o adecuarán todos los instrumentos de paneación (sic) estatales y municipales, los atlas de riesgos, y los nuevos instrumentos de gestión a los que alude esta Ley, incluidos de manera primordial los instrumentos de participación democrática y ciudadana.
+
+SEXTO. En un plazo no mayor de noventa días a partir de la entrada en vigor de esta Ley, el Titular de la Secretaría de Comunicaciones y Obras Públicas, deberá convocar a la sesión de instalación de las Comisiones Metropolitanas o de Conurbación.
+
+SÉPTIMO. En un plazo no mayor de noventa días a partir de la entrada en vigor de esta Ley, la Secretaría de Comunicaciones y Obras Públicas del Estado de Durango, emitirá los lineamientos para la integración y funcionamiento del Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano.
+
+OCTAVO. En un plazo no mayor de un año contado a partir de la entrada en vigor de esta Ley, se emitirán los criterios y lineamientos normativos aplicables a zonas metropolitanas y conurbaciones, así como los lineamientos a través de los cuales se establecerán los métodos y procedimientos para medir y asegurar que los proyectos y acciones vinculados con las materias de interés metropolitano, cumplan con su objetivo de acuerdo con la presente Ley.
+
+NOVENO. En un plazo no mayor de un año, la Secretaría de Comunicaciones y Obras Públicas del Estado de Durango, creará e iniciará las operaciones del Sistema Estatal de Información Territorial y Urbano previsto en esta Ley.
