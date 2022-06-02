@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-obras-publicas-y-servicios-75699"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-28"
-last_updated: "2010-07-28"
+last_updated: "2022-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75699&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-07-13"
 
 REGLAMENTO DE LA LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2022.
 
 Reglamento publicado en la Octava Sección del Diario Oficial de la Federación, el miércoles 28 de julio de 2010.
 
@@ -520,6 +520,10 @@ VIII. Los escritos o manifestaciones bajo protesta de decir verdad, que se solic
 Las convocantes verificarán que los documentos a que se refiere el párrafo anterior cumplan con los requisitos solicitados, sin que resulte necesario verificar la veracidad o autenticidad de lo indicado en ellos, para continuar con el procedimiento, sin perjuicio del derecho de las convocantes para realizar dicha verificación en cualquier momento o cuando se prevea en la Ley o en el presente Reglamento, y
 
 IX. Incluir un formato para la verificación de la recepción de los documentos que el licitante entregue en dicho acto, en relación con los documentos requeridos en la convocatoria a la licitación pública, a efecto de facilitar y agilizar la presentación de las proposiciones.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2022)</small>
+
+El modelo de contrato que se incorpore en la convocatoria a la licitación pública, será aquél que haya aprobado la Secretaría y se encuentra publicado en CompraNet.
 
 El Proyecto de convocatoria que las dependencias y entidades difundan a través de CompraNet, de acuerdo a lo dispuesto por el artículo 31 de la Ley, se sujetará en lo general a los términos establecidos en este artículo.
 
@@ -1529,6 +1533,14 @@ En caso de discrepancia entre la convocatoria a la licitación pública, la invi
 
 El Área responsable de la contratación, una vez cumplido el plazo a que hace referencia el artículo 47 de la Ley para la firma del contrato, deberá entregar al contratista una copia firmada.
 
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2022)</small>
+
+Las dependencias y entidades observarán los modelos de contratos para licitación pública, invitación a cuando menos tres personas y adjudicación directa, así como los modelos de convenios, aprobados por la Secretaría, que se encuentren publicados en CompraNet, por lo que no se requerirá que los contratos y convenios previamente a su formalización sean revisados o validados por las áreas jurídicas de las dependencias y entidades. Cualquier modificación a los modelos de contratos o convenios deberá ser autorizada por la Secretaría y será objeto de publicación en CompraNet, incluidas las derivadas de alguna modificación a la normatividad aplicable.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2022)</small>
+
+Las dependencias y entidades serán responsables de establecer las particularidades, especificaciones y características propias para el cumplimiento del objeto de su contrato o convenio, las cuales deberán ser acordes con la Ley, el presente Reglamento y demás normatividad aplicable en la materia.
+
 ###### Artículo 80.
 
 El contrato deberá ser firmado en términos de lo dispuesto en el segundo párrafo del artículo 47 de este Reglamento cuando la proposición ganadora de la licitación pública haya sido presentada en forma conjunta por varias personas.
@@ -1546,6 +1558,10 @@ La fecha, hora y lugar para la firma del contrato será la determinada en la con
 Cuando el contrato no sea firmado por el licitante ganador, en los términos del artículo 47 de la Ley, procederá la adjudicación del mismo en términos de lo dispuesto en los párrafos primero y segundo de la fracción V del artículo 74 de este Reglamento.
 
 En el caso del procedimiento de adjudicación directa la fecha, hora y lugar para la firma del contrato serán los que determine el Área contratante en la notificación de la adjudicación del mismo; dicha fecha deberá quedar comprendida dentro de los quince días naturales siguientes al de la citada notificación.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2022)</small>
+
+En el fallo de la licitación o de la invitación a cuando menos tres personas o en el oficio de adjudicación, según corresponda, se deberá señalar el número, objeto, monto y vigencia del contrato, así como el porcentaje y monto por el cual deberá otorgarse la garantía de cumplimiento, si es divisible o indivisible, a efecto que el contratista inicie las gestiones conducentes para la obtención de dicha garantía.
 
 ###### Artículo 82.
 
@@ -4038,3 +4054,15 @@ NOVENO.- Las dependencias y entidades contarán con un plazo de treinta días na
 Los comités de obras públicas que hayan establecido las dependencias y entidades conforme a lo dispuesto por el artículo 25 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, deberán adecuar sus manuales de integración y funcionamiento a lo dispuesto en el presente Reglamento, en un plazo que no deberá exceder de sesenta días naturales contados a partir de su entrada en vigor.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de julio de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Ernesto Javier Cordero Arroyo.- Rúbrica.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.- El Secretario de la Función Pública, Salvador Vega Casillas.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 2 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan aquellas disposiciones administrativas que se opongan al presente Decreto.
+
+TERCERO.- Los actos y contratos que las dependencias y entidades de la Administración Pública Federal hayan celebrado con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las disposiciones vigentes al momento de su inicio o celebración.
