@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2019-12-10"
+last_updated: "2022-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -598,6 +598,10 @@ I. Procedimientos que permitan la participación activa de la familia en la prev
 II. Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil; y
 
 III. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de cinco años de edad.
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2022)</small>
+
+IV. Al menos un Banco de leche humana en alguno de los establecimientos de salud que cuenten con servicios neonatales.
 
 ###### Artículo 62.
 
@@ -2624,3 +2628,13 @@ P.O. 10 DE DICIEMBRE DE 2019.
 PRIMERO.- El presente decreto entrará en vigor a los diez días después de su publicación en el Periódico Oficial del Estado de Campeche.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal que se opongan al contenido del presente decreto.
+
+P.O. 2 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 69 POR EL QUE “SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 61 DE LA LEY DE SALUD DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero. El presente decreto entrará en vigor el 1° de enero de 2023, previa su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. El establecimiento del Banco de leche humana a que se refiere el presente decreto, se hará cuando lo permitan las posibilidades presupuestales de la Secretaria Estatal de la materia.
+
+Artículo Tercero. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
