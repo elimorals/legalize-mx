@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-instituciones-y-procedimientos-electorales-de-la-1218
 country: "mx"
 rank: "codigo"
 publication_date: "2017-06-07"
-last_updated: "2022-05-06"
+last_updated: "2022-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121814&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-06-06"
 
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 6 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 2 DE JUNIO DE 2022.
 
 Código publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 7 de junio de 2017.
 
@@ -832,9 +832,11 @@ El Instituto Electoral y el Tribunal Electoral tienen personalidad jurídica, pa
 
 Los recursos presupuestarios destinados al financiamiento público de los partidos políticos no formarán parte del patrimonio del Instituto, por lo que éste no podrá alterar el cálculo para su determinación ni los montos que del mismo resulten conforme al presente Código.
 
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2022)</small>
+
 ###### Artículo 33.
 
-El Instituto Electoral y el Tribunal Electoral se rigen para su organización, funcionamiento y control, por las disposiciones contenidas en la Constitución Federal, las leyes generales de la materia, la Constitución Local, la Ley Procesal y este Código. Asimismo, sin vulnerar su autonomía, les son aplicables las disposiciones relativas de la Ley de Presupuesto.
+El Instituto Electoral y el Tribunal Electoral se rigen para su organización, funcionamiento y control, por las disposiciones contenidas en la Constitución Federal, las leyes generales de la materia, la Constitución Local, la Ley Procesal y este Código. Asimismo, sin vulnerar su autonomía, les son de observancia obligatoria las disposiciones relativas de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México; por lo que su presupuesto, ejercicio del gasto y manejo administrativo deberá sujetarse a los principios de racionalidad, austeridad, transparencia, eficacia y rendición de cuentas.
 
 ###### Artículo 34.
 
@@ -860,7 +862,9 @@ A través del Instituto Electoral se realiza la organización, el desarrollo y l
 
 En el ejercicio de esta función, serán principios rectores la certeza, legalidad, independencia, imparcialidad, objetividad y máxima publicidad.
 
-Gozará de autonomía en su funcionamiento e independencia en sus decisiones de acuerdo a lo previsto en las Leyes Generales, este Código y la Ley de Participación. Sus fines y acciones se orientan a:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE JUNIO DE 2022)</small>
+
+Gozará de autonomía en su funcionamiento e independencia en sus decisiones, de acuerdo con lo previsto en las Leyes Generales, este Código y la Ley de Participación Ciudadana de la Ciudad de México, incorporando como principios rectores la racionalidad, austeridad, eficacia, eficiencia, economía y rendición de cuentas en el ejercicio del gasto público; por lo que sus fines y acciones se orientan a:
 
 I. Contribuir al desarrollo de la vida democrática;
 
@@ -992,9 +996,11 @@ q) Difundir durante los procesos electorales en los tiempos del Estado que le co
 
 r) Las demás atribuciones que establezcan, la Constitución Local y las leyes locales no reservadas expresamente al Instituto Nacional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2022)</small>
+
 ###### Artículo 37.
 
-El Instituto Electoral se integra conforme a la siguiente estructura misma que podrá ser modificada de conformidad a las necesidades del propio Instituto y/o atribuciones de delegación que otorgue el Instituto Nacional Electoral:
+El Instituto Electoral se integra conforme a la siguiente estructura misma que podrá ser modificada de conformidad con las necesidades del propio Instituto y/o atribuciones de delegación que otorgue el Instituto Nacional:
 
 I. El Consejo General;
 
@@ -1002,7 +1008,9 @@ II. La Junta Administrativa.
 
 III. Órganos Ejecutivos: La Secretaría Ejecutiva, la Secretaría Administrativa, así como las respectivas Direcciones Ejecutivas;
 
-IV. Órganos con Autonomía Técnica y de Gestión. El Órgano de Control Interno adscrito al Sistema Local Anticorrupción y la Unidad Técnica Especializada de Fiscalización;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+IV. Órgano con Autonomía Técnica y de Gestión. El Órgano de Control Interno adscrito al Sistema Local Anticorrupción y la Unidad temporal dependiente de la Dirección Ejecutiva de Asociaciones Políticas y Fiscalización para atender, en su caso, la delegación de fiscalización a que se refiere el artículo 350 del presente Código;
 
 V. Órganos Técnicos: Las Unidades Técnicas;
 
@@ -1194,13 +1202,15 @@ IX. Aprobar, en su caso, en enero de cada año el ajuste al Presupuesto de Egres
 
 X. Ordenar la realización de auditorías que se consideren necesarias a los órganos del Instituto Electoral;
 
-XI. Nombrar a propuesta del Consejero Presidente de conformidad a los criterios y procedimientos establecidos en el Reglamento de Elecciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE JUNIO DE 2022)</small>
+
+XI. Nombrar, a propuesta del Consejero Presidente, de conformidad con los criterios y procedimientos establecidos en el Reglamento de Elecciones:
 
 a) A las y los titulares de la Secretaría Ejecutiva, Secretaría Administrativa, Direcciones Ejecutivas por el voto de las dos terceras partes de las y los Consejeros Electorales; y
 
 b) A las y los titulares de las Unidades Técnicas, por el voto de las dos terceras partes de las y los Consejeros Electorales;
 
-c) A la o al titular de la Unidad Técnica de Fiscalización de conformidad al procedimiento establecido.
+c) (DEROGADO, G.O. 2 DE JUNIO DE 2022)
 
 XII. Remover, por mayoría calificada del Consejo General a los titulares de la Secretaría Ejecutiva, Direcciones Ejecutivas, y las Unidades Técnicas;
 
@@ -1362,35 +1372,45 @@ Las Comisiones Permanentes tendrán la integración que apruebe el Consejo Gener
 
 El Consejo General cuenta con las Comisiones Permanentes de:
 
-I. Asociaciones Políticas;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+I. Asociaciones Políticas y Fiscalización;
 
 II. Participación ciudadana y capacitación;
 
 III. Organización Electoral y Geo estadística (sic);
 
-IV. Educación Cívica y Construcción Ciudadana;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
 
-V. Fiscalización;
+IV. Género, Derechos Humanos, Educación Cívica y Construcción Ciudadana;
+
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+V. Quejas;
 
 VI. Normatividad y Transparencia;
 
-VII. Vinculación con Organismos Externos.
+VII. (DEROGADA, G.O. 2 DE JUNIO DE 2022)
 
 VIII. Seguimiento al Servicio Profesional Electoral Nacional; e
 
-IX. Igualdad de Género y Derechos Humanos.
+IX. (DEROGADA, G.O. 2 DE JUNIO DE 2022)
 
-Las Comisiones, para un mejor desempeño, podrán contar con el personal técnico que autorice el Consejo General.
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2022)</small>
+
+Las Comisiones, para un mejor desempeño, podrán contar con el personal técnico que autorice el Consejo General, sujetándose a los principios de racionalidad, austeridad, transparencia y eficacia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 60.
 
-Son atribuciones de la Comisión de Asociaciones Políticas:
+Son atribuciones de la Comisión de Asociaciones Políticas y Fiscalización:
 
 I. Auxiliar al Consejo General en la supervisión del cumplimiento de las obligaciones de las Asociaciones Políticas y Candidatos sin partido, así como en lo relativo a sus derechos y prerrogativas;
 
 II. Autorizar el dictamen y proyecto de resolución de pérdida del registro de las Asociaciones Políticas Locales que se encuentren en cualquiera de los supuestos determinados por el Código y presentarlo a consideración y, en su caso, aprobación del Consejo General;
 
-III. Instruir la investigación de presuntos actos contrarios a la ley en que hayan incurrido las Asociaciones Políticas o Candidatos sin partido, siempre que otro órgano del Instituto Electoral no tenga competencia específica sobre el asunto, así como validar, y en su caso, presentar al Consejo General el dictamen y/o proyecto de resolución de quejas e imposición de sanciones administrativas a las asociaciones políticas o Candidatos sin partido, formulados por la Dirección Ejecutiva de Asociaciones Políticas o, en su caso, instruir la remisión del dictamen al Tribunal Electoral;
+III. (DEROGADA, G.O. 2 DE JUNIO DE 2022)
 
 IV. Revisar el expediente y presentar a la consideración del Consejo General, el proyecto de dictamen de las solicitudes de registro de las organizaciones de ciudadanos que pretendan constituirse como Asociaciones Políticas Locales;
 
@@ -1404,9 +1424,51 @@ VIII. Coadyuvar con la autoridad federal electoral, a solicitud de ésta, en el 
 
 IX. Proponer proyectos orientados al fortalecimiento del régimen democrático de las Asociaciones Políticas y supervisar su ejecución;
 
-X. Conocer de los procedimientos administrativos sancionadores; y
+X. (DEROGADA, G.O. 2 DE JUNIO DE 2022)
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+X Bis. Supervisar los procesos institucionales que favorecen la participación y representación política de las mujeres;
 
 XI. Las demás que le confiera este Código y que resulten necesarias para el cumplimiento de sus atribuciones.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2022)</small>
+
+En materia de fiscalización cuenta con las siguientes atribuciones:
+
+a) Poner a consideración del Consejo General los proyectos de normativa que le proponga la Dirección Ejecutiva de Asociaciones Políticas y Fiscalización respecto del registro de ingresos y egresos de los sujetos obligados, la documentación comprobatoria sobre el manejo de sus recursos, los informes que éstas deben presentar ante el Instituto Electoral, las reglas para su revisión y dictamen, así como el procedimiento relativo a la liquidación de su patrimonio y en general aquella que sea necesaria para el cumplimiento de sus objetivos;
+
+b) Supervisar los resultados finales del Programa Operativo Anual instrumentado por la Dirección Ejecutiva de Asociaciones Políticas y Fiscalización;
+
+c) Supervisar que los recursos del financiamiento que ejerzan los sujetos obligados se apliquen estricta e invariablemente para las actividades señaladas en este Código;
+
+d) Supervisar los procesos de revisión de los informes que los sujetos obligados presenten sobre el origen y destino de sus recursos, según corresponda;
+
+e) Supervisar los resultados finales de auditorías especiales de los sujetos obligados, en los términos de los acuerdos del Consejo General;
+
+f) Aprobar y poner a consideración del Consejo General los proyectos de Dictamen y Resolución que formule la Dirección Ejecutiva de Asociaciones Políticas y Fiscalización, respecto de la revisión de los informes presentados por los sujetos obligados siguientes:
+
+i. Agrupaciones Políticas Locales sobre el origen y destino de sus recursos anuales;
+
+ii. Organizaciones de Ciudadanos, respecto de los recursos empleados en las actividades tendentes a obtener el registro legal como Partido Político local;
+
+iii. Organizaciones de observadores electorales, respecto de los recursos empleados únicamente en las actividades de observación electoral.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2022)</small>
+
+###### Artículo 60 Bis.
+
+Son atribuciones de la Comisión de Quejas:
+
+I. Instruir la investigación de presuntos actos contrarios a la ley en que hayan incurrido las Asociaciones Políticas o Candidatos sin partido, siempre que otro órgano del Instituto Electoral no tenga competencia específica sobre el asunto, así como validar y, en su caso, presentar al Consejo General el dictamen y/o proyecto de resolución de quejas e imposición de sanciones administrativas a las asociaciones políticas o Candidatos sin partido, formulados por la Dirección Ejecutiva de Asociaciones Políticas y Fiscalización o, en su caso, instruir la remisión del dictamen al Tribunal Electoral;
+
+II. Conocer de los procedimientos administrativos sancionadores;
+
+III. En caso de violencia política contra las mujeres en razón de género, si así se determina, conocer de las quejas y denuncias a fin de dictar las medidas conducentes en los términos de la Ley Procesal Electoral de la Ciudad de México; y
+
+V. (SIC) Las demás que le confiera este Código y que resulten necesarias para el cumplimiento de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 61.
 
@@ -1434,9 +1496,13 @@ X. Proponer a la Presidencia del Consejo la celebración de convenios de apoyo y
 
 XI. Aprobar el proyecto de convocatoria, que deba emitir el Instituto Electoral con motivo del desarrollo de los mecanismos de participación ciudadana, elaborados por la Dirección Ejecutiva de Participación Ciudadana y Capacitación;
 
-XII. Emitir opinión respecto de los materiales y documentación relacionados con la capacitación de los mecanismos de participación ciudadana y procesos electivos; y
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
 
-XIII. Supervisar el cumplimiento de las actividades de capacitación durante los procesos electorales, cuando se le delegue esta función al Instituto Electoral, en términos de la Ley General, la normativa que emita el Instituto Nacional y los acuerdos que apruebe el Consejo General del Instituto Electoral;
+XII. Emitir opinión respecto de los materiales y documentación relacionados con la capacitación de los mecanismos de participación ciudadana y procesos electivos;
+
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XIII. Supervisar el cumplimiento de las actividades de capacitación durante los procesos electorales, cuando se le delegue esta función al Instituto Electoral, en términos de la Ley General, la normativa que emita el Instituto Nacional y los acuerdos que apruebe el Consejo General del Instituto Electoral; y
 
 XIV. Las demás que, sin estar encomendadas a otra Comisión, se desprendan de la Ley de Participación.
 
@@ -1474,9 +1540,11 @@ XIV. Aprobar los procedimientos para la preparación y desarrollo de los mecanis
 
 XV. Las demás que le confiera este Código y que resulten necesarias para el cumplimiento de sus atribuciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2022)</small>
+
 ###### Artículo 63.
 
-Son atribuciones de la Comisión de Educación Cívica y Construcción de Ciudadanía:
+Son atribuciones de la Comisión de Género, Derechos Humanos, Educación Cívica y Construcción Ciudadana.
 
 I. Supervisar el cumplimiento del Programa de Educación Cívica del Instituto;
 
@@ -1484,7 +1552,9 @@ II. Proponer al Consejo General el contenido de materiales de educación cívica
 
 III. Proponer al Consejo General el contenido de materiales de educación cívica, que formule la Dirección Ejecutiva de Educación Cívica y Construcción de Ciudadanía;
 
-VI (SIC). Aprobar el programa editorial institucional que sea propuesto por la Dirección Ejecutiva de Educación Cívica y Capacitación;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+IV. Aprobar el programa editorial institucional que sea propuesto por la Dirección Ejecutiva de Género, Derechos Humanos, Educación Cívica y Construcción Ciudadana;
 
 V. Proponer al Consejo General el contenido de materiales e instructivos de capacitación elaborados por la Dirección Ejecutiva de Educación Cívica (sic) Construcción de Ciudadanía; y
 
@@ -1506,31 +1576,65 @@ XI. Proponer al Consejo General cada seis años, una estrategia integral de cult
 
 XII. Proponer al Consejo General los programas de educación cívica, principios democráticos, paridad de género, perspectiva intercultural, igualdad y no discriminación, respeto y promoción a los derechos humanos de las mujeres en el ámbito político, así como suscribir convenios en estas materias para articular las políticas nacionales orientadas a la promoción de la cultura político-democrática, la igualdad política entre mujeres y hombres, así como la construcción de ciudadanía;
 
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE JUNIO DE 2022)</small>
+
+En materia de género, le corresponden las siguientes atribuciones:
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2022)</small>
+
+a) Opinar sobre las publicaciones institucionales en materia de género y derechos humanos;
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2022)</small>
+
+b) Supervisar la implementación de los mecanismos que favorezcan una cultura institucional incluyente, no discriminatoria y no sexista en el Instituto Electoral;
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2022)</small>
+
+c) Proponer al Consejo General, los manuales, lineamientos y reglamentos necesarios para la promoción de los derechos humanos e igualdad de género;
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2022)</small>
+
+d) Aprobar el Programa de Derechos Humanos e Igualdad de Género que le proponga la Secretaría Ejecutiva, y conocer de los informes que al respecto ponga a su consideración para, en su caso, proponer las medidas correctivas;
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2022)</small>
+
+e) Revisar los documentos de planeación institucional estratégica y operativa y proponer la transversalidad de la perspectiva de género y el enfoque de derechos humanos en su contenido;
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2022)</small>
+
+f) Revisar la implementación de la perspectiva de género y el enfoque de derechos humanos, en las tareas institucionales;
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2022)</small>
+
+g) Supervisar las acciones, competencia del Instituto, relativas a la difusión, promoción y formación en materia de derechos humanos y género, dirigidas a los miembros del Servicio Profesional Electoral Nacional;
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2022)</small>
+
+h) Supervisar los procesos institucionales que favorecen la participación y representación política de las mujeres;
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2022)</small>
+
+i) Conocer y revisar los temas referentes a Violencia Política de Género;
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2022)</small>
+
+j) Las demás que se señalen en este Código y en la normativa aplicable.
+
 XIII. Las demás que le confiera este Código y que resulten necesarias para el cumplimiento de sus atribuciones.
 
 > <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
 
 Los Programas y materiales a que se refieren las fracciones anteriores deberán estar orientados a garantizar la plena inclusión y el ejercicio de derechos político - electorales de la ciudadanía, así como los mecanismos de construcción de ésta.
 
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2022)</small>
+
 ###### Artículo 64.
 
-En caso de que el Instituto Nacional delegue la atribución de fiscalización al Instituto Electoral, dicha atribución será ejercida por la Comisión de Fiscalización, en lo que resulte aplicable, en los términos de las Leyes Generales, los acuerdos que al efecto emita el Consejo General del Instituto Electoral y demás normatividad aplicable.
+En caso de que el Instituto Nacional delegue la atribución de fiscalización al Instituto Electoral, dicha atribución será ejercida de conformidad con el artículo 350 del presente Código y en los términos de las Leyes Generales, los acuerdos que al efecto emita el Consejo General del Instituto Electoral y demás normatividad aplicable.
 
 ###### Artículo 65.
 
-Son atribuciones de la Comisión de Vinculación con Organismos Externos, las siguientes:
-
-I. Vincularse con los organismos públicos y privados locales, nacionales, y en su caso, internacionales, para el mejor desarrollo de los trabajos institucionales;
-
-II. Auxiliar a la Presidencia del Consejo en la celebración de las negociaciones que sean necesarias, a efecto de sentar las bases para la suscripción de los convenios de apoyo y colaboración que suscriba el Instituto Electoral;
-
-III. Auxiliar a la Presidencia del Consejo en el establecimiento de las bases institucionales de coordinación de actividades y vinculación con el Instituto Nacional;
-
-IV. Proponer al Consejo General los proyectos de acuerdo vinculados con las actividades de la Comisión; y
-
-V. Las demás que sean necesarias para el adecuado desarrollo de sus funciones y aquellas que le sean conferidas para el mismo fin.
-
-Quien preside la Comisión celebrará reuniones con los Consejeros Electorales y el Secretario Ejecutivo a efecto de que implementen de manera oportuna las medidas que, en el ámbito de sus atribuciones, le correspondan a cada uno de ellos.
+(DEROGADO, G.O. 2 DE JUNIO DE 2022)
 
 ###### Artículo 66.
 
@@ -1568,31 +1672,19 @@ II. Auxiliar al Consejo General en el desempeño de las atribuciones y el cumpli
 
 III. Conocer, analizar, observar y aprobar los informes y proyectos de Acuerdo relacionados con los procesos del Servicio Profesional Electoral, que deban someterse al Consejo General;
 
-IV. Supervisar las actividades encomendadas al Órgano de Enlace para el ejercicio de las facultades en materia de los procesos del Servicio Profesional Electoral Nacional, conforme a lo previsto por el Estatuto del Servicio, y en los lineamientos en la materia; y
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+IV. Supervisar las actividades encomendadas al Órgano de Enlace para el ejercicio de las facultades en materia de los procesos del Servicio Profesional Electoral Nacional, conforme a lo previsto por el Estatuto del Servicio, y en los lineamientos en la materia;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+IV Bis. Supervisar las acciones, competencia del Instituto, relativas a la difusión, promoción y formación en materia de derechos humanos y género, dirigidas a los miembros del Servicio Profesional Electoral.
 
 V. Las demás atribuciones que le confiera esta Ley, el Estatuto del Servicio, y demás normativa aplicable.
 
 ###### Artículo 68.
 
-Son atribuciones de la Comisión de Igualdad de Género y Derechos Humanos:
-
-I. Proponer al Consejo General, los manuales, lineamientos y reglamentos necesarios para la promoción de los derechos humanos e igualdad de género;
-
-II. Aprobar el Programa de Derechos Humanos e Igualdad de Género que le proponga la Unidad Técnica de Vinculación con Organismos Externos, y conocer de los informes que al respecto ponga a su consideración la propia Unidad para, en su caso, proponer las medidas correctivas;
-
-III. Revisar los documentos de planeación institucional estratégica y operativa y proponer la transversalidad de la perspectiva de género y el enfoque de derechos humanos en su contenido;
-
-IV. Revisar la implementación de la perspectiva de género y el enfoque de derechos humanos, en las tareas institucionales;
-
-V. Supervisar las acciones, competencia del Instituto, relativas a la difusión, promoción y formación en materia de derechos humanos y género, dirigidas a los miembros del Servicio Profesional Electoral Nacional y al personal de la Rama Administrativa;
-
-VI. Supervisar los procesos institucionales que favorecen la participación y representación política de las mujeres;
-
-VII. Opinar sobre las publicaciones institucionales en materia de género y derechos humanos;
-
-VIII. Supervisar la implementación de los mecanismos que favorecen una cultura institucional incluyente, no discriminatoria y no sexista en el Instituto Electoral; y
-
-IX. Las demás que se señalen en este Código, y en la normatividad aplicable.
+(DEROGADO, G.O. 2 DE JUNIO DE 2022)
 
 #### SECCIÓN TERCERA. DE LAS COMISIONES PROVISIONALES
 
@@ -1872,9 +1964,25 @@ l) Promoción y desarrollo de los principios rectores de la participación ciuda
 
 m) Capacitación, educación, asesoría y comunicación sobre las atribuciones de los Órganos de Representación Ciudadana, Organizaciones Ciudadanas y Ciudadanía en General;
 
-n) Evaluación del desempeño de los Comités Ciudadanos y Consejos de los Pueblos; y
+(NOTA: EL 30 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2022 Y SUS ACUMULADAS 91/2022, 92/2022, 93/2022 Y 94/2022, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DEL INCISO n) DE LA FRACCIÓN II DE ESTE ARTÍCULO EN SU PORCIÓN NORMATIVA “EVALUACIÓN DEL DESEMPEÑO DE LOS… CONSEJOS DE LOS PUEBLOS”, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 31 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “n) Evaluación del desempeño de los Comités Ciudadanos y Consejos de los Pueblos; y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-ñ) De inducción para el Personal de la Rama Administrativa de nuevo ingreso.
+n) (DEROGADO, G.O. 2 DE JUNIO DE 2022)
+
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+ñ) De inducción para el Personal de la Rama Administrativa de nuevo ingreso;
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2022)</small>
+
+o) Equidad e igualdad sustantiva;
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2022)</small>
+
+p) Gestión de calidad en los procesos electorales y de participación ciudadana.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2022)</small>
+
+q) Derechos Humanos.
 
 III. Recibir de la Contraloría Interna, en el mes de septiembre del año anterior al que vaya a aplicarse, el proyecto de Programa Interno de Auditoría, para su incorporación al proyecto de Programa Operativo Anual;
 
@@ -1904,7 +2012,9 @@ XV. Autorizar el otorgamiento de incentivos al personal de la Rama Administrativ
 
 XVI. Emitir los lineamientos e instruir el desarrollo de mecanismos que sistematicen y controlen el proceso de selección e ingreso de los servidores públicos de la rama administrativa;
 
-XVII. Promover a través de la Unidad Técnica del Centro de Formación y Desarrollo, la realización de acciones académicas, a fin de elevar el nivel profesional de los servidores públicos de la rama administrativa;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XVII. Promover, a través de la Secretaría Administrativa, la realización de acciones académicas, a fin de elevar el nivel profesional de los servidores públicos de la rama administrativa;
 
 XVIII. Aprobar los ascensos de los servidores públicos de la rama administrativa, de acuerdo con lo que establezca el Estatuto del Servicio, el Reglamento en Materia de Relaciones Laborales y demás normativa aplicable;
 
@@ -1964,7 +2074,7 @@ XXIX. Las que le confiera este Código, el Estatuto del Servicio, el Reglamento 
 
 La Secretaría Ejecutiva tiene a su cargo coordinar, supervisar y dar seguimiento al cumplimiento de los programas y atribuciones de las Direcciones Ejecutivas, Unidades Técnicas y las Direcciones Distritales, según corresponda.
 
-Asimismo, tendrá a su cargo el seguimiento del Sistema de Gestión de Calidad Electoral a través de la Oficina de Gestión de Calidad.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 85.
 
@@ -1972,9 +2082,11 @@ Los requisitos para ser designado titular de la Secretaría Ejecutiva e impedime
 
 La Secretaría Ejecutiva será designada por un periodo de tres años y podrá ser reelecto por una sola vez por un periodo igual.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2022)</small>
+
 ###### Artículo 86.
 
-Son atribuciones de la persona Titular de la Secretaría Ejecutiva:
+Son atribuciones de la persona titular de la Secretaría Ejecutiva:
 
 I. Representar legalmente al Instituto Electoral y otorgar poderes a nombre de éste para actos de dominio, de administración y para ser representado ante cualquier autoridad administrativa o judicial, o ante particulares en ejercicio de sus atribuciones. Para realizar actos de dominio sobre inmuebles destinados al Instituto Electoral o para otorgar poderes para dichos efectos, se requerirá autorización del Consejo General;
 
@@ -2014,7 +2126,9 @@ XV. Tramitar y sustanciar los procedimientos administrativos sancionadores; elab
 
 XVI. Resolver los Procedimientos Laborales Disciplinarios de los integrantes del Servicio Profesional Electoral; y
 
-XVII. Dar seguimiento, a través de la Oficina de Gestión de Calidad, al “Sistema de Gestión de Calidad Electoral del Instituto Electoral de la Ciudad de México”;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XVII. Dar seguimiento, a través de la Secretaría Administrativa, al “Sistema de Gestión de Calidad Electoral del Instituto Electoral de la Ciudad de México”.
 
 XVIII. Podrá instruir al Órgano de Enlace el cambio de adscripción, por necesidades del servicio, en los casos expresamente previstos en el Estatuto del Servicio;
 
@@ -2029,6 +2143,18 @@ XIX. En materia de información pública y protección de datos personales, tend
 4) Facilitar el acceso a la información pública generada, administrada, o en poder del Instituto Electoral, de acuerdo a lo dispuesto en este Código y en la Ley de Transparencia, y
 
 5) Difundir, en el sitio de Internet del Instituto Electoral, la información generada por las distintas áreas del mismo, con apego a la Ley de Transparencia.
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XIX Bis. Vincular al Instituto con los organismos públicos y privados locales, nacionales y, en su caso, internacionales, para el mejor desarrollo de los trabajos institucionales;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XIX Ter. Celebrar las negociaciones que sean necesarias, a efecto de sentar las bases para la suscripción de los convenios de apoyo y colaboración que suscriba el Instituto Electoral;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XIX Quáter. Establecer las bases institucionales de coordinación de actividades y vinculación con el Instituto Nacional;
 
 XX. Las demás que le sean conferidas por este Código.
 
@@ -2046,9 +2172,11 @@ II. Tener experiencia comprobada de cuando menos tres años en cargos de natural
 
 Para las tareas de planeación, seguimiento y evaluación de los asuntos administrativos del Instituto Electoral, la Secretaría Administrativa podrá contar con el personal, que para tales efectos apruebe el Consejo General y que estará directamente adscrito a su oficina.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2022)</small>
+
 ###### Artículo 88.
 
-Son atribuciones del titular de la Secretaría Administrativa:
+Son atribuciones de la persona titular de la Secretaría Administrativa:
 
 I. Ejercer de conformidad con lo acordado por el Consejo General, las partidas presupuestales en los términos aprobados en el Presupuesto de Egresos del Instituto Electoral y los recursos de los fideicomisos institucionales para los fines que fueron creados;
 
@@ -2110,6 +2238,18 @@ XXIII. Llevar a cabo las acciones previstas en el Estatuto del Servicio para la 
 
 XXIV. Dar seguimiento al cumplimiento de las atribuciones del Órgano de Enlace, de conformidad con lo dispuesto en el Estatuto y demás normatividad aplicable.
 
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XXIV Bis. Realizar las acciones conducentes relativas al Sistema de Gestión de Calidad Electoral del Instituto;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XXIV Ter. Desarrollar las actividades del área a su cargo en apego al Sistema de Gestión de Calidad Electoral, así como elaborar y mantener actualizada la documentación requerida por dicho Sistema de Gestión de Calidad;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XXIV Quáter. Supervisar las acciones competencia del Instituto relativas a la difusión, promoción y formación en materia de derechos humanos y género, dirigidas al personal de la Rama Administrativa;
+
 XXV. Las demás que le confiere este Código.
 
 #### SECCIÓN TERCERA. DE LAS DIRECCIONES EJECUTIVAS
@@ -2158,9 +2298,11 @@ III. Organización Electoral y Geoestadística;
 
 IV. Participación Ciudadana y Capacitación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2022)</small>
+
 ###### Artículo 94.
 
-Son atribuciones de la Dirección Ejecutiva de Educación Cívica y Construcción de Ciudadanía:
+Son atribuciones de la Dirección Ejecutiva de Género, Derechos Humanos, Educación Cívica y Construcción Ciudadana.
 
 > <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
 
@@ -2210,13 +2352,37 @@ XXI. Elaborar y proponer a la Comisión de Educación Cívica y Construcción de
 
 XXII. Elaborar y proponer a la Comisión de Educación Cívica y Construcción de Ciudadanía, una estrategia integral de educación cívica a largo plazo.
 
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XXII Bis. Apoyar a la Secretaría Ejecutiva en el cumplimiento de las obligaciones locales, nacionales e internacionales que el Instituto Electoral tenga en materia de derechos humanos e igualdad de género, así como la implementación de estrategias que aseguren su observancia;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XXII Ter. Conducir las acciones para la incorporación de la perspectiva de género, derechos humanos y el enfoque de igualdad sustantiva en la planeación, programación, ejecución y evaluación de programas, proyectos, normas, acciones y políticas públicas de todas las unidades administrativas del Instituto Electoral, de manera transversal, así como darle seguimiento y verificar su cumplimiento;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XXII Quáter. Diseñar y coordinar la realización en el Instituto Electoral, de programas, actividades, foros, eventos y estudios de investigación; para promover el respeto, la protección y la garantía de los derechos humanos e igualdad de género en el ámbito político electoral;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XXII Quinquies. Coordinar la política de Igualdad Laboral y no Discriminación. Asimismo, generar informes periódicos relativos a dicha política, además de los que guarden relación con materia de violencia laboral, hostigamiento y/o acoso sexual y violencia política que se presenten en el Instituto Electoral. Estos últimos, a través de la presentación de información de carácter estadístico durante la sustanciación de los respectivos procedimientos y de naturaleza cualitativa, a la conclusión de los mismos, de conformidad con la normativa interna y/o lineamientos correspondientes;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XXII Sexies. Coadyuvar y asesorar a las demás áreas del Instituto Electoral en materia de derechos humanos, perspectiva de género e inclusión; y
+
 XXIII. Las que le confiera este Código, el Reglamento Interior y demás normatividad que emita el Consejo General.
 
-Los Programas y materiales a que se refieren las fracciones anteriores deberán estar orientados a garantizar la plena inclusión y el ejercicio de los derechos político electorales de los ciudadanos, así como mecanismos de construcción de ciudadanía.
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2022)</small>
+
+Los Programas y materiales a que se refieren las fracciones anteriores deberán estar orientados a garantizar la plena inclusión y el ejercicio de los derechos político electorales de la ciudadanía, así como mecanismos de construcción de ésta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 95.
 
-Son atribuciones de la Dirección Ejecutiva de Asociaciones Políticas:
+Son atribuciones de la Dirección Ejecutiva de Asociaciones Políticas y Fiscalización:
 
 I. Elaborar y proponer a la Junta Administrativa, previa opinión de la Comisión de Asociaciones Políticas, el anteproyecto del Programa de Vinculación y Fortalecimiento de las Asociaciones Políticas;
 
@@ -2242,11 +2408,53 @@ XI. Efectuar la revisión de las solicitudes de candidatos y sus respectivos ane
 
 XII. Tramitar, sustanciar y elaborar la propuesta de proyecto de resolución de los procedimientos ordinarios sancionadores, así como la elaboración y remisión del dictamen de los procedimientos especiales sancionadores, en coadyuvancia de la o del Secretario Ejecutivo;
 
-XIII. Coadyuvar con la Comisión de Asociaciones Políticas en las tareas relativas a la organización de la elección de los dirigentes de los partidos políticos locales, cuando éstos lo soliciten; y
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
 
-XIV. Determinar y elaborar el anteproyecto de Acuerdo del Consejo General, por el que se hace la asignación de diputados por el principio de representación proporcional del proceso electoral que corresponda.; (sic) y
+XIII. Coadyuvar con la Comisión de Asociaciones Políticas y Fiscalización en las tareas relativas a la organización de la elección de los dirigentes de los partidos políticos locales, cuando éstos lo soliciten;
 
-XV. Elaborar y someter a la aprobación de la Comisión de Asociaciones Políticas, los anteproyectos de Acuerdo del Consejo General por el que se determinan los topes de precampaña y campaña de los procesos electorales que correspondan.
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XIV. Determinar y elaborar el anteproyecto de Acuerdo del Consejo General, por el que se hace la asignación de diputados por el principio de representación proporcional del proceso electoral que corresponda;
+
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XV. Elaborar y someter a la aprobación de la Comisión de Asociaciones Políticas y Fiscalización, los anteproyectos de Acuerdo del Consejo General por el que se determinan los topes de precampaña y campaña de los procesos electorales que correspondan;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XV Bis. Fiscalizar el origen y destino de los recursos de:
+
+a) Las Agrupaciones Políticas Locales y de las organizaciones de ciudadanas y ciudadanos interesadas en constituirse como Partidos Políticos locales, utilizados para el desarrollo de actividades tendentes a la obtención del registro legal; y
+
+b) Las organizaciones de observación electoral respecto del financiamiento que obtengan para el desarrollo de sus actividades relacionadas directamente con su función.
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XV Ter. Fiscalizar, en su caso, el origen y destino de los recursos de los Partidos Políticos, aspirantes a candidaturas independientes y candidaturas, observando las disposiciones que para el efecto emita el Instituto Nacional;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XV Quáter. Informar de manera periódica y detallada a la Comisión de Asociaciones Políticas y Fiscalización respecto del procedimiento de liquidación del patrimonio de los Partidos Políticos Locales y Agrupaciones Políticas Locales que hubieren perdido su registro;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XV Quinquies. Generar medidas preventivas, orientadas a favorecer el adecuado registro contable y presentación de informes de los Partidos Políticos Locales, Agrupaciones Políticas Locales, aspirantes y candidaturas independientes y a promover entre ellas la cultura de la rendición de cuentas, en su vertiente de origen, monto y destino de los recursos que emplean;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XV Sexies. Establecer las acciones permanentes que aseguren una capacitación en aspectos contables y de rendición de cuentas a Partidos Políticos Locales, Agrupaciones Políticas Locales, aspirantes y candidatos independientes para fomentar la eficaz presentación de sus informes, así como el manejo y control de sus recursos;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XV Septies. Sustanciar, junto con la Comisión de Asociaciones Políticas y Fiscalización, los procedimientos de Fiscalización en el supuesto de que el Instituto Nacional delegue dicha facultad;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XV Octies. Establecer las bases mínimas para crear e implementar sistemas electrónicos para la sistematización y difusión de la información, para fomentar la rendición de cuentas, la transparencia y el control de los recursos públicos de los Partidos Políticos Locales, Agrupaciones Políticas Locales, aspirantes y candidaturas independientes.
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+XV Novies. Promover mecanismos de coordinación con instituciones públicas, privadas, organizaciones de la sociedad civil y partidos políticos, para instrumentar proyectos y actividades que fortalezcan la cultura político-electoral, libre de violencia política y contribuir a una democracia igualitaria e incluyente; y
 
 XVI. Las que le confiera este Código, el Reglamento Interior y demás normatividad que emita el Consejo General.
 
@@ -2352,15 +2560,15 @@ I. Comunicación Social y Difusión
 
 II. Servicios Informáticos
 
-III. Archivo, Logística y Apoyo a Órganos Desconcentrados;
+III. (DEROGADA, G.O. 2 DE JUNIO DE 2022)
 
 IV. Asuntos Jurídicos
 
-V. Formación y Desarrollo, y
+V. (DEROGADA, G.O. 2 DE JUNIO DE 2022)
 
-VI. Vinculación con Organismos Externos.
+VI. (DEROGADA, G.O. 2 DE JUNIO DE 2022)
 
-El Consejo General podrá crear unidades técnicas adicionales para el adecuado funcionamiento y logro de los fines del Instituto.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 99.
 
@@ -2380,29 +2588,39 @@ En dicha Normatividad Interna se determinarán las áreas que les apoyen en el c
 
 #### SECCIÓN PRIMERA. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2022)</small>
+
 ###### Artículo 102.
 
-Para el desempeño de sus atribuciones, los órganos regulados en este Título, tendrán la naturaleza jurídica siguiente:
+Para el desempeño de sus atribuciones, la Contraloría Interna del Instituto Electoral contará con independencia respecto al Instituto Electoral, por lo que estará adscrita al Sistema Local Anticorrupción. Por independencia deberá entenderse la libertad plena de la Contraloría Interna, para establecer la forma y modalidades de su organización interna, lo que significa que dicho órgano puede administrarse por sí mismo.
 
 I. La Contraloría Interna del Instituto Electoral contará con independencia respecto al Instituto Electoral, por lo que estará adscrita al Sistema Local Anticorrupción.
 
 Por independencia deberá entenderse la libertad plena de la Contraloría Interna, para establecer la forma y modalidades de su organización interna, lo que significa que dicho órgano puede administrarse por sí mismo.
 
-II. La Unidad Técnica Especializada de Fiscalización gozará de autonomía técnica y de gestión.
+II. (DEROGADA, G.O. 2 DE JUNIO DE 2022)
 
-Se entiende por autonomía técnica y de gestión, la facultad que asiste a estos órganos para realizar sus actividades sin injerencia de algún servidor público del Instituto Electoral o representante de los Partidos Políticos o Grupos Parlamentarios y sin presión para resolver en un determinado sentido.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 2 DE JUNIO DE 2022)</small>
 
-Sus decisiones no tendrán más límite que lo establecido en este Código, en las Leyes y reglamentos aplicables.
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 2 DE JUNIO DE 2022)</small>
 
-Para efectos administrativos y orgánicos, los órganos señalados en este artículo estarán adscritos al Consejo General.
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2022)</small>
+
+Para efectos administrativos y orgánicos, la Contraloría Interna estará adscrita al Consejo General.
 
 #### SECCIÓN SEGUNDA. DE LA CONTRALORÍA INTERNA
+
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 103.
 
 La Contraloría Interna para el desempeño de sus atribuciones, contará con independencia y su titularidad será ocupada de manera rotativa en los términos y condiciones que para el efecto se establezcan en la Ley del Sistema Local Anticorrupción. La Contraloría Interna que tiene a su cargo fiscalizar el manejo, custodia y empleo de los recursos del Instituto Electoral, e instruir los procedimientos administrativos y, en su caso, determinar las sanciones establecidas en la Ley de Responsabilidad Administrativa de la Ciudad de México.
 
-Para el logro de sus objetivos, la estructura orgánica mínima de la Contraloría Interna, se integrará por cuatro subcontralorías una por cada área especializada y que sea necesaria para el desarrollo de sus funciones sin perjuicio de las que se señalen en el Reglamento Interior del Instituto Electoral.
+Para el logro de sus objetivos la Contraloría Interna contará con las siguientes Subcontralorías:
+
+a)Responsabilidades e Inconformidades, a quien compete el proceso de investigación de las quejas interpuestas por probables conductas de las personas servidoras públicas , así como la substanciación e imposición de sanciones una vez agotada la etapa de investigación; y
+
+b)Auditoría, Control y Evaluación, a quien corresponde la función sustantiva de realizar las auditorías al ejercicio del gasto en el Instituto Electoral.
 
 ###### Artículo 104.
 
@@ -2490,87 +2708,27 @@ Durante los procesos electorales y de participación ciudadana, la o el contralo
 
 DE LA UNIDAD TÉCNICA ESPECIALIZADA DE FISCALIZACIÓN.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2022)</small>
+
 ###### Artículo 107.
 
-En los casos en que el Instituto Nacional delegue al Instituto Electoral la atribución de fiscalización, éste la ejercerá a través de la Comisión de Fiscalización quien se auxiliará de la Unidad Técnica Especializada de Fiscalización, que es el órgano técnico del Instituto Electoral que tiene a su cargo supervisar que los recursos del financiamiento público y privado que ejerzan las Asociaciones Políticas y Candidatos sin partido, se aplique conforme a lo dispuesto en la Constitución Federal, este Código y demás normatividad aplicable.
+En los casos en que el Instituto Nacional delegue al Instituto Electoral la atribución de fiscalización, éste la ejercerá a través de la Comisión de Asociaciones Políticas y Fiscalización quien se auxiliará de la Dirección Ejecutiva de Asociaciones Políticas y Fiscalización, que tendrá a su cargo supervisar que los recursos del financiamiento público y privado que ejerzan las Asociaciones Políticas y Candidatos sin partido, se apliquen conforme a lo dispuesto en la Constitución Federal, este Código y demás normativa aplicable.
 
-Su remuneración será igual a la que reciba el Secretario Ejecutivo del Instituto Electoral.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 2 DE JUNIO DE 2022)</small>
 
-El Congreso Local designará a la persona titular de la Unidad Técnica Especializada de Fiscalización quien deberá cumplir con los siguientes requisitos:
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 2 DE JUNIO DE 2022)</small>
 
-a) Ser ciudadana o ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+> <small>(DEROGADO CUARTO PÁRRAFO, G.O. 2 DE JUNIO DE 2022)</small>
 
-b) Ser persona inscrita en el Registro Federal de Electores y contar con credencial para votar vigente;
-
-c) Tener más de treinta años de edad al día de la designación;
-
-d) Poseer al día de la designación, título profesional de nivel licenciatura, con antigüedad mínima de cinco años y contar con conocimientos y experiencia para el desempeño de las funciones propias del cargo;
-
-e) Gozar de buena reputación y no haber sido persona condenada por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
-
-f) No haber sido persona registrada como candidata o candidato a cargo alguno de elección popular en los últimos cuatro años anteriores a la designación;
-
-g) No ser persona inhabilitada para ejercer cargos públicos en cualquier institución pública federal o local;
-
-h) No desempeñar al momento de la designación, ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores a la designación, y
-
-i) No ser titular de alguna Secretaría de Estado, Fiscalía General de la República, Procuraduría de Justicia de alguna entidad federativa, Subsecretaría u Oficialía Mayor en la administración pública federal o estatal, Jefatura de Gobierno de la Ciudad de México, Gubernatura, Secretaría de Gobierno, o cargos similares u homólogos en la estructura de cada entidad federativa, ni ser Presidenta o Presidente Municipal, Síndica o Síndico, Regidora o Regidor, o titular de alguna dependencia de los ayuntamientos o alcaldías, a menos que, en cualquiera de los casos anteriores, se separe de su encargo con cuatro años de anticipación al día de su nombramiento.
-
-La designación de la persona titular de la Unidad Técnica Especializada de Fiscalización, deberá ser aprobada por mayoría simple de los integrantes presentes del Congreso Local.
-
-La designación de la persona titular de la Unidad Técnica Especializada de Fiscalización, deberá ser informada de manera inmediata al Instituto Nacional Electoral.
+> <small>(DEROGADO QUINTO PÁRRAFO, G.O. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 108.
 
-Son atribuciones de la Unidad Técnica Especializada de Fiscalización, las siguientes:
-
-I. La fiscalización relacionada con el origen y destino de los recursos de:
-
-a) Las Agrupaciones Políticas Locales y de las organizaciones de ciudadanas y ciudadanos interesadas en constituirse como Partidos Políticos locales, utilizados para el desarrollo de actividades tendentes a la obtención del registro legal, y
-
-b) Las organizaciones de observación electoral respecto del financiamiento que obtengan para el desarrollo de sus actividades relacionadas directamente con su función.
-
-II. En caso de delegación, la fiscalización sobre el origen y destino de los recursos de los Partidos Políticos, aspirantes a candidaturas independientes y candidaturas observando las disposiciones que para el efecto emita el Instituto Nacional;
-
-III. Informar de manera periódica y detallada a la Comisión de Fiscalización, respecto del procedimiento de liquidación del patrimonio de los Partidos Políticos Locales y Agrupaciones Políticas Locales que hubieren perdido su registro;
-
-IV. Generar medidas preventivas, orientadas a favorecer el adecuado registro contable y presentación de informes de los Partidos Políticos Locales, Agrupaciones Políticas Locales, aspirantes y candidaturas independientes y a promover entre ellas la cultura de la rendición de cuentas, en su vertiente de origen, monto y destino de los recursos que emplean;
-
-V. Establecer las acciones permanentes que aseguren una capacitación en aspectos contables y de rendición de cuentas a Partidos Políticos Locales, Agrupaciones Políticas Locales, aspirantes y candidatos independientes para fomentar la eficaz presentación de sus informes, así como el manejo y control de sus recursos;
-
-VI. Sustanciar, junto con la Comisión de Fiscalización, los procedimientos de Fiscalización en el supuesto de que el Instituto Nacional Electoral delegue dicha facultad, y
-
-VII. Establecer las bases mínimas para crear e implementar sistemas electrónicos para la sistematización y difusión de la información que genere la Unidad, en coordinación con la Dirección Ejecutiva de Asociaciones Políticas, para fomentar la rendición de cuentas, la transparencia y el control de los recursos públicos de los Partidos Políticos Locales, Agrupaciones Políticas Locales, aspirantes y candidaturas independientes.
+(DEROGADO, G.O. 2 DE JUNIO DE 2022)
 
 ###### Artículo 109.
 
-Son atribuciones de la Comisión de Fiscalización:
-
-I. Poner a consideración del Consejo General los proyectos de normatividad que le proponga la Unidad Técnica Especializada de Fiscalización respecto del registro de ingresos y egresos de los sujetos obligados, la documentación comprobatoria sobre el manejo de sus recursos, los informes que éstas deben presentar ante el Instituto Electoral, las reglas para su revisión y dictamen, así como el procedimiento relativo a la liquidación de su patrimonio y en general aquella que sea necesaria para el cumplimiento de sus objetivos;
-
-II. Supervisar los resultados finales del Programa Operativo Anual instrumentado por la Unidad Técnica Especializada en Fiscalización;
-
-III. Supervisar que los recursos del financiamiento que ejerzan los sujetos obligados se apliquen estricta e invariablemente para las actividades señaladas en este Código;
-
-IV. Supervisar los procesos de revisión de los informes que los sujetos obligados presenten sobre el origen y destino de sus recursos, según corresponda;
-
-V. Supervisar los resultados finales de auditorías especiales de los sujetos obligados, en los términos de los acuerdos del Consejo General;
-
-VI. Aprobar y poner a consideración del Consejo General los proyectos de Dictamen y Resolución que formule la Unidad Técnica Especializada de Fiscalización, respecto de la revisión de los informes presentados por los sujetos obligados siguientes:
-
-a) Agrupaciones Políticas Locales sobre el origen y destino de sus recursos anuales;
-
-b) Organizaciones de Ciudadanos, respecto de los recursos empleados en las actividades tendentes a obtener el registro legal como Partido Político local;
-
-c) Organizaciones de observadores electorales, respecto de los recursos empleados únicamente en las actividades de observación electoral.
-
-VII. Supervisar los resultados del proceso de liquidación de los bienes de las asociaciones políticas que pierdan su registro, así como de las asociaciones civiles constituidas por los aspirantes y candidatos independientes, y aprobar el dictamen de cierre de liquidación que le presente la Unidad Técnica Especializada de Fiscalización;
-
-VIII. Informar al Consejo General de las presuntas irregularidades en que hubiesen incurrido los sujetos obligados, derivadas del manejo de sus recursos así como, por el incumplimiento a su obligación de informar sobre la aplicación de los mismos, a efecto de iniciar el procedimiento correspondiente; y
-
-IX. En caso de que el Instituto Nacional delegue la atribución de fiscalización al Instituto Electoral, dicha atribución será ejercida por la Unidad Técnica Especializada de Fiscalización bajo la supervisión de la Comisión de Fiscalización, en lo que resulte aplicable, en los términos de las Leyes Generales, los acuerdos que al efecto emita el Consejo General del Instituto Electoral y demás normatividad aplicable.
-
-X. Las demás que le confiera este Código y las que sean delegadas por el Instituto Nacional.
+(DEROGADO, G.O. 2 DE JUNIO DE 2022)
 
 ### CAPITULO VIII. DE LOS ÓRGANOS DESCONCENTRADOS
 
@@ -2774,7 +2932,9 @@ Los Partidos Políticos y Coaliciones, a través de sus órganos de dirección e
 
 Los representantes, propietario y suplente, podrán ser sustituidos libremente por el órgano directivo facultado para su designación o por el candidato sin partido, en su caso.
 
-La designación y sustitución de los representantes de partido político, coalición o candidaturas independientes, se comunicará por escrito al Consejero Presidente del Consejo que corresponda, para los efectos conducentes.
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2022)</small>
+
+La designación y sustitución de los representantes de partido político, coalición o candidaturas sin partido, se comunicará por escrito al Consejero Presidente del Consejo que corresponda, para los efectos conducentes.
 
 Los partidos políticos deberán acreditar a sus representantes ante los consejos distritales a más tardar dentro de los treinta días siguientes a la fecha de la sesión de instalación del consejo de que se trate. Vencido este plazo, los partidos que no hayan acreditado a sus representantes no formarán parte del mismo.
 
@@ -2800,7 +2960,9 @@ I. Las y los Consejeros Distritales y representantes de los Partidos Políticos 
 
 II. Para que los Consejos Distritales sesionen válidamente, es necesaria la presencia de la mayoría de sus integrantes, entre los que deberá estar el Consejero Presidente Distrital.
 
-III. En caso de que no se reúna esa mayoría, la sesión tendrá lugar dentro de las veinticuatro horas siguientes con los Consejeros Distritales y representantes de los partidos políticos y candidatos independientes que asistan, entre los que deberá estar el Consejero Presidente Distrital o el Secretario del Consejo Distrital.
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+III. En caso de que no se reúna esa mayoría, la sesión tendrá lugar dentro de las veinticuatro horas siguientes con los Consejeros Distritales y representantes de los partidos políticos y candidatos sin partido que asistan, entre los que deberá estar el Consejero Presidente Distrital o el Secretario del Consejo Distrital.
 
 ###### Artículo 125.
 
@@ -3126,7 +3288,9 @@ Los integrantes del Servicio Profesional Electoral Nacional, además de las obli
 
 I. Ejercer sus funciones con estricto apego a las reglas y principios que rigen la función electoral del Servicio Profesional Electoral Nacional;
 
-II. Asistir y participar en las actividades que organice la Unidad del Centro de Formación y Desarrollo por sí o en colaboración con entidades académicas y de investigación;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+II. Asistir y participar en las actividades que organice la Secretaría Administrativa por sí o en colaboración con entidades académicas y de investigación para efectos de formación y desarrollo;
 
 III. Cumplir las reglas para la permanencia en el Servicio Profesional Electoral Nacional, de conformidad con lo dispuesto en el Estatuto del Servicio y demás normas aplicables;
 
@@ -4594,7 +4758,9 @@ IV. Cumplir con las normas de afiliación, así como lo establecido en el Estatu
 
 V. Remitir al Instituto Electoral, copia de los informes periódicos de actividades que deba rendir ante su asamblea general y, en su caso, sus asambleas delegacionales, y en los que dé cuenta de sus acciones con la ciudadanía;
 
-VI. Acreditar ante la Dirección Ejecutiva de Asociaciones Políticas del Instituto Electoral, que cuentan con domicilio social para sus órganos directivos, así como comunicar en un plazo no mayor a los treinta días naturales siguientes, los cambios del mismo;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+VI. Acreditar ante la Dirección Ejecutiva de Asociaciones Políticas y Fiscalización del Instituto Electoral, que cuentan con domicilio social para sus órganos directivos, así como comunicar en un plazo no mayor a los treinta días naturales siguientes, los cambios del mismo;
 
 VII. Comunicar al Instituto Electoral, cualquier modificación a su Declaración de Principios, Programa de Acción o Estatuto;
 
@@ -4844,7 +5010,9 @@ d) Que los delegados aprobaron la declaración de principios, programa de acció
 
 e) Que se presentaron las listas de afiliados con los demás ciudadanos con que cuenta la organización en la entidad federativa, con el objeto de satisfacer el requisito del porcentaje mínimo exigido por este Código. Estas listas contendrán los datos requeridos en la fracción II del inciso anterior.
 
-A partir de la notificación, la organización de ciudadanos interesada deberá informar mensualmente al propio Instituto Electoral del origen y destino de los recursos que obtenga y utilice para el desarrollo de sus actividades tendentes a la obtención del registro legal, dentro de los primeros diez días de cada mes. Debiendo el Instituto Electoral establecer los procedimientos de fiscalización de conformidad con el reglamento que para el efecto apruebe el Consejo General a propuesta de la Comisión de Fiscalización.
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2022)</small>
+
+A partir de la notificación, la organización de ciudadanos interesada deberá informar mensualmente al propio Instituto Electoral del origen y destino de los recursos que obtenga y utilice para el desarrollo de sus actividades tendentes a la obtención del registro legal, dentro de los primeros diez días de cada mes. Debiendo el Instituto Electoral establecer los procedimientos de fiscalización de conformidad con el reglamento que para el efecto apruebe el Consejo General a propuesta de la Comisión de Asociaciones Políticas y Fiscalización.
 
 El costo de las certificaciones requeridas será con cargo al presupuesto del Instituto Electoral. Los servidores públicos autorizados para expedirlas están obligados a realizar las actuaciones correspondientes.
 
@@ -4962,7 +5130,9 @@ III. Ostentarse con la denominación, emblema y color o colores que tengan regis
 
 IV. Cumplir con las normas de afiliación, así como lo establecido en el Estatuto, programa de acción, declaración de principios y con su plataforma electoral;
 
-V. Acreditar ante la Dirección Ejecutiva de Asociaciones Políticas del Instituto Electoral que cuentan con domicilio social para sus órganos directivos, así como comunicar en un plazo no mayor a los treinta días siguientes los cambios del mismo;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+V. Acreditar ante la Dirección Ejecutiva de Asociaciones Políticas y Fiscalización del Instituto Electoral que cuentan con domicilio social para sus órganos directivos, así como comunicar en un plazo no mayor a los treinta días siguientes los cambios del mismo;
 
 VI. Editar por lo menos una publicación mensual de divulgación;
 
@@ -5626,9 +5796,11 @@ Las y los candidatos deberán nombrar una persona encargada del manejo de los re
 
 Las y los candidatos sin partido deberán reembolsar al Instituto Electoral el monto del financiamiento público no erogado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2022)</small>
+
 ###### Artículo 323.
 
-Además de lo previsto en los artículos anteriores, para obtener el registro como candidato sin partido, se deberá presentar un número de firmas de apoyo, que será equivalente al porcentaje de firmas del uno por ciento de la lista nominal en el ámbito respectivo. Para la elección de las personas integrantes de Alcaldías, el listado nominal será el de la demarcación territorial; para los (sic) diputaciones locales, el del Distrito Electoral local uninominal, y para Jefatura de Gobierno, el de toda de la Ciudad de México.
+Además de lo previsto en los artículos anteriores, para obtener el registro como candidato sin partido, se deberá presentar un número de firmas de apoyo, que será equivalente al porcentaje de firmas del uno por ciento de la lista nominal en el ámbito respectivo. Para la elección de las personas integrantes de Alcaldías, el listado nominal será el de la demarcación territorial; para las diputaciones locales, el del Distrito Electoral local uninominal, y para Jefatura de Gobierno, el de toda la Ciudad de México.
 
 El porcentaje al que se refiere el párrafo anterior deberá ser distribuido en por lo menos el treinta y cinco por ciento de la siguiente forma: para el caso de la elección de Jefatura de Gobierno deberá ser distribuido de las demarcaciones territoriales que abarca la Ciudad de México, para el caso de las diputaciones será el de los distritos electorales o de las secciones electorales de la demarcación y para el caso de las elecciones de Alcaldías, el porcentaje deberá ser distribuido en las circunscripciones que conforman la demarcación territorial, en los términos de la normatividad que al efecto emita el Instituto Electoral. Dicha normatividad establecerá entre otros aspectos, las disposiciones necesarias para armonizar el presente Código y la Constitución Local con las leyes generales en materia electoral en lo que resulte vinculante; así como las reglas específicas para la de acreditación de firmas, cuando un distrito electoral abarque el territorio de más de una demarcación territorial.
 
@@ -5712,7 +5884,9 @@ III. El plazo que tendrán los candidatos y candidatas sin partido para entregar
 
 IV. El plazo que tendrá el órgano fiscalizador para emitir el dictamen de que el candidato o candidatos sin partido no rebasaran los topes de gastos para el periodo de obtención de firmas.
 
-V. El plazo para que la Dirección Ejecutiva de Asociaciones Políticas lleve a cabo la revisión de las firmas de apoyo que presente cada uno de los candidatos sin partido así como el plazo que tendrá la autoridad para emitir los dictámenes.
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+V. El plazo para que la Dirección Ejecutiva de Asociaciones Políticas y Fiscalización lleve a cabo la revisión de las firmas de apoyo que presente cada uno de los candidatos sin partido así como el plazo que tendrá la autoridad para emitir los dictámenes.
 
 Los plazos a que se refieren las fracciones IV y V deberán concluir cuando menos una semana antes del registro de candidaturas sin partido. El Instituto Electoral, a través de las instancias que determine la propia convocatoria, recibirá las solicitudes de registro y verificará que cumplan con los requisitos. En caso de que el ciudadano incumpla algún requisito de forma, se le prevendrá para que lo subsane en un plazo de 48 horas.
 
@@ -5747,6 +5921,8 @@ El financiamiento privado de que dispongan los candidatos sin partido, estará s
 Son prerrogativas y derechos de las y los candidatos sin partido registrados las que establece la Constitución Federal, Constitución Local, Ley General de Instituciones y Procedimientos Electorales y este Código.
 
 ### CAPÍTULO IX. DE LA FISCALIZACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2022)</small>
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -6026,7 +6202,7 @@ Los partidos políticos no podrán solicitar créditos provenientes de la banca 
 
 ###### Artículo 348.
 
-En los casos en que el Instituto Nacional delegue la facultad de fiscalización al Instituto Electoral, se estará a lo dispuesto por la Ley General de Instituciones y Procedimientos Electorales, la Ley General de Partidos Políticos y este Código. En dichos supuestos, el Instituto Electoral se sujetará a los lineamientos, acuerdos generales, normas técnicas y demás disposiciones que emita el Consejo General del Instituto Nacional. En el ejercicio de dichas funciones, el Instituto Electoral deberá coordinarse con la Unidad Técnica de Fiscalización de la Comisión de Fiscalización, que será el conducto para superar las limitaciones de los secretos bancario, fiduciario y fiscal.
+En los casos en que el Instituto Nacional delegue la facultad de fiscalización al Instituto Electoral, se estará a lo dispuesto por la Ley General de Instituciones y Procedimientos Electorales, la Ley General de Partidos Políticos y este Código. En dichos supuestos, el Instituto Electoral se sujetará a los lineamientos, acuerdos generales, normas técnicas y demás disposiciones que emita el Consejo General del Instituto Nacional. En el ejercicio de dichas funciones el Instituto Electoral, a través de la Dirección Ejecutiva de Asociaciones Políticas y Fiscalización, deberá coordinarse con la Comisión de Asociaciones Políticas y Fiscalización, que será el conducto para superar las limitaciones de los secretos bancario, fiduciario y fiscal.
 
 I. Informes anuales:
 
@@ -6070,75 +6246,49 @@ Cuando las y los precandidatos o candidatos sean omisos en entregar la informaci
 
 En este supuesto, el Instituto Electoral requerirá directamente al precandidato o candidato la información o documento solicitado en un plazo de 3 días para la primera ocasión, si no se atiende este primer requerimiento se le solicitará nuevamente la información o documento solicitado en un plazo de 24 horas. La omisión o la presentación de documentos o facturas que no sean verificables, en aquellos casos en que trascienda a la imposición de sanciones, ameritará la imposición de una sanción pecuniaria directa al candidato o precandidato. En caso de no cubrirse el monto de la sanción, el Instituto Electoral promoverá juicio por desobediencia a mandato legítimo emitido por autoridad competente y solicitará el apoyo de la Tesorería de la Ciudad de México para la aplicación de la sanción.
 
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2022)</small>
+
 ###### Artículo 350.
 
-En los casos de delegación de la facultad de fiscalización, el procedimiento para la presentación y revisión de los informes de las asociaciones políticas se sujetará a las siguientes reglas:
+En los casos de delegación de la facultad de fiscalización, el Consejo General creará una Unidad temporal, la cual contará con autonomía técnica y de gestión para atender dicha delegación. El acuerdo de creación establecerá las reglas de operación de dicha Unidad.
 
-I. La Unidad Técnica Especializada de Fiscalización del Instituto Electoral contará con sesenta días para revisar los informes anuales y de precampaña de candidatos no ganadores, y con ciento veinte días para revisar los informes de campaña. Tendrá en todo momento la facultad de solicitar a los órganos responsables del financiamiento de cada partido político la documentación necesaria para el cumplimiento de sus objetivos.
-
-II. Si durante la revisión de los informes anuales, de precampaña y campaña la Unidad Técnica Especializada de Fiscalización advierte la existencia de errores u omisiones, lo informará por escrito al partido político que haya incurrido en ellos, para que en un plazo de diez días contados a partir de dicha notificación, presente las aclaraciones o rectificaciones que considere pertinentes;
-
-III. La Unidad Técnica Especializada de Fiscalización está obligada a informar al partido político si las aclaraciones o rectificaciones hechas, en su caso por éste, subsanan los errores u omisiones comunicados, otorgándole, un plazo improrrogable de cinco días para que los subsane;
-
-IV. Los errores u omisiones no aclarados o subsanados por los partidos políticos en los plazos establecidos, serán notificados como irregularidades subsistentes en la sesión de confronta correspondiente, a efecto de que el partido político en pleno ejercicio de su garantía de audiencia manifieste lo que a su derecho convenga dentro de un plazo no mayor a diez días contados a partir de la conclusión de dicha sesión.
-
-V. En lo referente a la revisión y dictamen de candidatos ganadores de precampañas el plazo para la revisión será de 10 días.
-
-VI. Al vencimiento de los plazos señalados en los incisos anteriores, la Unidad Técnica Especializada de Fiscalización dispondrá de un plazo de veinticinco días para elaborar un dictamen consolidado, el cual deberá contener por lo menos:
-
-a) El resultado y las conclusiones de la revisión de los informes que hayan presentado los partidos políticos;
-
-b) En su caso, la mención de los errores u omisiones encontrados en los mismos;
-
-c) El señalamiento de las aclaraciones o rectificaciones que presentaron los partidos políticos, después de haberles notificado con ese fin;
-
-d) Las consideraciones de hecho, derecho y técnicas que la Unidad Técnica Especializada de Fiscalización, haya informado al partido político para considerar subsanado o no el error u omisión notificada durante el proceso de fiscalización y que dio lugar a la determinación de la irregularidad subsistente;
-
-e) El señalamiento de las aclaraciones o rectificaciones que presenten los partidos políticos, posterior a la notificación de las irregularidades subsistentes en la sesión de confronta; y
-
-f) Las consideraciones de hecho, derecho y técnicas que la Unidad Técnica Especializada de Fiscalización, haya considerado en la conclusión del dictamen.
-
-Al vencimiento del plazo señalado en la fracción VI del presente artículo, la Unidad Técnica Especializada de Fiscalización, dentro de los veinticinco días siguientes, procederá a la elaboración del proyecto de resolución correspondiente.
-
-El dictamen y el proyecto de resolución serán remitidos a la Comisión de Fiscalización para su opinión respectiva, remitiéndose por conducto de la Unidad Técnica Especializada de Fiscalización dentro de los tres días siguientes a la Secretaría Ejecutiva para su consideración ante el Consejo General.
-
-VII. El Consejo General tomando en consideración el dictamen y proyecto de resolución que haya formulado la Unidad Técnica Especializada de Fiscalización, procederá a imponer, en su caso, las sanciones correspondientes; en caso de que el Consejo General rechace el proyecto de resolución o haga modificaciones que afecten el contenido y/o resultados del dictamen, será devuelto por única ocasión de forma fundada y motivada a dicha Unidad Técnica;
-
-VIII. Los partidos políticos podrán impugnar ante el Tribunal Electoral la resolución que en su caso emita respecto de dicho dictamen el Consejo General, en la forma y términos previstos en la ley de la materia; y
-
-IX. El Consejo General del Instituto deberá:
-
-a) Remitir al Tribunal Electoral, cuando se hubiere interpuesto el recurso, junto con éste, la resolución del Consejo General y el dictamen de la Unidad Técnica Especializada de Fiscalización y el informe respectivo;
-
-b) Remitir, una vez cumplido el plazo para la interposición del recurso, o presentado éste, habiendo sido resuelto por el Tribunal Electoral, a la Gaceta del Oficial de la Ciudad de México los puntos conclusivos del dictamen y los resolutivos de la resolución y, en su caso, la resolución recaída al recurso, para su publicación; y
-
-c) Publicar en la página de Internet del Instituto el dictamen y resolución del Consejo General y, en su caso, las resoluciones emitidas por el Tribunal.
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 351.
 
-La Unidad Técnica Especializada de Fiscalización, brindará a los Partidos Políticos y Candidatos sin partido, la orientación y asesoría necesarias para el cumplimiento de las obligaciones relacionadas con la fiscalización.
+La Dirección Ejecutiva de Asociaciones Políticas y Fiscalización, brindará a los Partidos Políticos y Candidatos sin partido, la orientación y asesoría necesarias para el cumplimiento de las obligaciones relacionadas con la fiscalización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 352.
 
-La Comisión de Fiscalización, para la realización de diligencias que tengan por objeto superar las limitaciones en materia de secreto bancario, fiduciario y fiscal cuando por la naturaleza de la información que se derive de la revisión de los informes de los Partidos y Agrupaciones Políticas así lo amerite.
+La Comisión de Asociaciones Políticas y Fiscalización, para la realización de diligencias que tengan por objeto superar las limitaciones en materia de secreto bancario, fiduciario y fiscal cuando por la naturaleza de la información que se derive de la revisión de los informes de los Partidos y Agrupaciones Políticas así lo amerite.
 
 Para el ejercicio de las facultades a que se refiere el párrafo anterior, se atenderá a las siguientes reglas:
 
-I. La Comisión de Fiscalización deberá acordar la solicitud para la realización de diligencias a las autoridades electorales federales;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+I. La Comisión de Asociaciones Políticas y Fiscalización deberá acordar la solicitud para la realización de diligencias a las autoridades electorales federales;
 
 II. La solicitud deberá mencionar el objeto, los documentos o movimientos materia de la indagatoria y Partido Político involucrado; y
 
 III. Asimismo se deberá especificar si se trata de salvar un obstáculo en materia de secreto bancario, fiduciario o fiscal según corresponda.
 
-Quien presida el Instituto Electoral podrá firmar convenios de apoyo y colaboración con el Instituto Nacional Electoral para el intercambio de información en la fiscalización de los recursos de los Partidos Políticos que no se encuentre comprendida en los incisos anteriores.
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2022)</small>
+
+Quien presida el Instituto Electoral podrá firmar convenios de apoyo y colaboración con el Instituto Nacional para el intercambio de información en la fiscalización de los recursos de los Partidos Políticos que no se encuentre comprendida en los incisos anteriores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 353.
 
-La Unidad Técnica Especializada de Fiscalización tendrá atribuciones, para llevar a cabo los procedimientos de investigación conforme al reglamento que apruebe para tal efecto el Consejo General.
+La Comisión de Asociaciones Políticas y Fiscalización tendrá atribuciones, para llevar a cabo los procedimientos de investigación conforme al reglamento que apruebe para tal efecto el Consejo General.
 
 Dicho procedimiento se iniciará con la solicitud que presenten ante esa Unidad, los candidatos o precandidatos con interés jurídico, respecto de candidatos o precandidatos por rebase en los topes de gastos de precampaña o campaña, y podrá allegarse de todos los elementos de prueba que considere necesarios para emitir un dictamen al respecto.
 
-Para el ejercicio de sus atribuciones, las autoridades de la Ciudad de México, las instituciones financieras y todas las personas físicas y morales estarán obligadas a rendir y a otorgar la documentación que esté en su poder y que les sea requerida por la Unidad Técnica Especializada de Fiscalización.
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2022)</small>
+
+Para el ejercicio de sus atribuciones, las autoridades de la Ciudad de México, las instituciones financieras y todas las personas físicas y morales estarán obligadas a rendir y a otorgar la documentación que esté en su poder y que les sea requerida por la Dirección Ejecutiva de Asociaciones Políticas y Fiscalización.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -6540,7 +6690,9 @@ I. La solicitud de registro de candidatura, la cual deberá señalar en lo condu
 
 II. El dictamen que emita el órgano fiscalizador de no rebase de gastos durante el periodo para la obtención de firmas ciudadanas;
 
-III. El dictamen que emita la Dirección Ejecutiva de Asociaciones Políticas relativo a que dicha candidatura cuenta con el mínimo de firmas requerido para su registro;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2022)</small>
+
+III. El dictamen que emita la Dirección Ejecutiva de Asociaciones Políticas y Fiscalización relativo a que dicha candidatura cuenta con el mínimo de firmas requerido para su registro;
 
 IV. Dos fotografías del interesado;
 
@@ -6848,19 +7000,23 @@ Durante las campañas los servidores públicos no podrán utilizar ni aplicar pr
 
 Los partidos políticos deberán agregar en su propaganda impresa un lema en el que se haga referencia a evitar la compra y coacción del voto, así como la promoción del voto libre y secreto, que no rebase el 1% del desplegado total.
 
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2022)</small>
+
 ###### Artículo 406.
 
-En términos de lo dispuesto por el apartado B de la Base III del artículo 41 de la Constitución Federal, el Instituto Nacional Electoral es el único encargado de la administración de los tiempos en radio y televisión que le corresponden al Estado para los fines tanto de las autoridades electorales federales como las (sic) de las Entidades Federativas.
+En términos de lo dispuesto por el apartado B de la Base III del artículo 41 de la Constitución Federal, el Instituto Nacional es el único encargado de la administración de los tiempos en radio y televisión que le corresponden al Estado para los fines tanto de las autoridades electorales federales como las (sic) de las Entidades Federativas.
 
-El Instituto Electoral, a través de la Dirección Ejecutiva de Asociaciones Políticas, realizará las acciones conducentes para obtener de la autoridad electoral federal los tiempos necesarios para la difusión ordinaria y de campaña de los Partidos Políticos y Candidatos sin partido, y su distribución entre éstos.
+El Instituto Electoral, a través de la Dirección Ejecutiva de Asociaciones Políticas y Fiscalización, realizará las acciones conducentes para obtener de la autoridad electoral federal los tiempos necesarios para la difusión ordinaria y de campaña de los Partidos Políticos y Candidatos sin partido, y su distribución entre éstos.
 
 ###### Artículo 407.
 
 Durante las campañas electorales, los candidatos a un cargo de elección popular no podrán contratar por cuenta propia o interpósita persona, tiempos y espacios en radio y televisión. Asimismo, ninguna persona física o moral podrá ceder gratuitamente tiempos y espacios publicitarios en medios de comunicación masiva a favor o en contra de algún Partido Político o candidato.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2022)</small>
+
 ###### Artículo 408.
 
-La Dirección Ejecutiva de Asociaciones Políticas del Instituto Electoral solicitará a los medios impresos los catálogos y tarifas disponibles y los que reciba los pondrá a disposición de los Partidos Políticos y Candidatos sin partido.
+La Dirección Ejecutiva de Asociaciones Políticas y Fiscalización del Instituto Electoral solicitará a los medios impresos los catálogos y tarifas disponibles y los que reciba los pondrá a disposición de los Partidos Políticos y Candidatos sin partido.
 
 El Instituto Electoral podrá convenir con el órgano electoral federal medidas para la coordinación e intercambio de información respecto a lo establecido en el presente Capítulo.
 
@@ -7867,3 +8023,19 @@ G.O. 6 DE MAYO DE 2022.
 Primero. Remítase el presente Decreto a (sic) Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 2 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 33; 36; EL PRIMER PÁRRAFO Y LA FRACCIÓN IV DEL ARTÍCULO 37; LA FRACCIÓN XI DEL ARTÍCULO 50; LAS FRACCIONES I, IV Y V ASÍ COMO EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 59; EL PRIMER PÁRRAFO DEL ART. 60; EL ARTÍCULO 61; LA FRACCIÓN IV DEL ARTÍCULO 63; EL ARTÍCULO 64; LA FRACCIÓN IV DEL ARTÍCULO 67; LA FRACCIÓN V DEL ARTÍCULO 80; LOS INCISOS N) Y Ñ) DE LA FRACCIÓN II, ASÍ COMO LA FRACCIÓN XVII DEL ARTÍCULO 83; PRIMER Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 94; PRIMER PÁRRAFO, LAS FRACCIONES XIII, XIV Y XV DEL ARTÍCULO 95; EL ARTÍCULO 103; EL ARTÍCULO 107; LAS FRACCIONES I, II, IV, VII, VIII Y IX DEL ARTÍCULO 109; TERCER PÁRRAFO DEL ARTÍCULO 121; LA FRACCIÓN III DEL ARTÍCULO 124; LA FRACCIÓN II DEL ARTÍCULO 162; LA FRACCIÓN VI DEL ARTÍCULO 251; EL ARTÍCULO 265; LA FRACCIÓN V DEL ARTÍCULO 273; EL PRIMER PÁRRAFO Y LA FRACCIÓN V DEL ARTÍCULO 323; EL PRIMER PÁRRAFO DEL ARTÍCULO 348; EL ARTÍCULO 350; 351; PRIMER PÁRRAFO, FRACCIÓN I Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 352; PRIMER Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 353; FRACCIÓN III DEL ARTÍCULO 383; EL ARTÍCULO 406; Y PRIMER PÁRRAFO DEL ARTÍCULO 408. SE ADICIONA LA FRACCIÓN X BIS, UN PÁRRAFO Y LOS INCISOS A), B), C), D), E) Y F) AL ARTÍCULO 60; SE ADICIONA EL ARTÍCULO 60 BIS, LOS INCISOS A), B), C), D), E), F), G), H), I) Y J) A LA FRACCIÓN XII DEL ARTÍCULO 63; LA FRACCIÓN IV BIS AL ARTÍCULO 67; LOS INCISOS O), P) Y Q) A LA FRACCIÓN II DEL ARTÍCULO 83; LAS FRACCIONES XIX BIS, XIX TER Y XIX QUÁTER AL ARTÍCULO 86; LAS FRACCIONES XXIV BIS, XXIV TER Y XXIV QUÁTER AL ARTÍCULO 88; LAS FRACCIONES XXII BIS, XXII TER, XXII QUÁTER, XXII QUINQUIES Y XXII SEXIES AL ARTÍCULO 94; LAS FRACCIONES XV BIS CON LOS INCISOS A) Y B), XV TER, XV QUÁTER, XV QUINQUIES, XV SEXIES, XV SEPTIES, XV OCTIES Y XV NONIES DEL ARTÍCULO 95; SE AGREGAN LOS INCISOS A) Y B) DEL ARTÍCULO 103. SE DEROGA EL INCISO C) DE LA FRACCIÓN XI DEL ARTÍCULO 50; LAS FRACCIONES VII Y IX DEL ARTÍCULO 59; SE DEROGAN LAS FRACCIONES III Y X DEL ARTÍCULO 60; EL ARTÍCULO 65; EL ARTÍCULO 68; EL INCISO N) DE LA FRACCIÓN II DEL ARTÍCULO 83; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 84; LA FRACCIÓN XVII DEL ARTÍCULO 86; LAS FRACCIONES III, V Y VI, ASÍ COMO EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 98; LA FRACCIÓN II Y DOS PÁRRAFOS DEL ARTÍCULO 102, LOS PÁRRAFOS 2, 3, 4 Y 5 DEL ARTÍCULO 107; EL ARTÍCULO 108; EL ARTÍCULO 109. TODOS DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto y dentro de un marco de derechos humanos, el Consejo General contará con un plazo de 91 días naturales para adecuar su estructura orgánica y funcional, sujetándose a los principios constitucionales de racionalidad, austeridad, economía, eficacia, eficiencia, transparencia y rendición de cuentas en el ejercicio del gasto público, previendo un modelo de organización compacto que garantice el debido ejercicio y la probidad en la función pública.
+
+QUINTO. Las comisiones actuales permanecerán vigentes hasta en tanto sean constituidas las nuevas.
+
+La integración de las nuevas comisiones se llevaran acabo (sic) dentro del plazo establecido en el articulo Cuarto Transitorio de este Decreto, las cuales, por única ocasión, se determinaran mediante acuerdo del Consejo General, sin importar la composición actual de las mismas.
