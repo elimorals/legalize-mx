@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2022-03-16"
+last_updated: "2022-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JUNIO DE 2022.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -254,7 +254,9 @@ Toda persona tiene derecho a la libertad de pensamiento, conciencia, y religión
 
 Artículo 7
 
-Ciudad democrática
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2022)</small>
+
+Ciudad Democrática
 
 A. Derecho a la buena administración pública
 
@@ -298,7 +300,9 @@ E. Derecho a la privacidad y a la protección de los datos personales
 
 3. Se prohíbe y será sancionada cualquier injerencia arbitraria, oculta o injustificada en la vida de las personas.
 
-4. Toda persona tiene derecho al acceso, rectificación y cancelación de sus datos personales, así como a manifestar su oposición respecto del tratamiento de los mismos, en los términos que disponga la ley. Su manejo se regirá por los principios de veracidad, licitud, consentimiento, información, calidad, finalidad, lealtad, proporcionalidad y responsabilidad.
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2022)</small>
+
+4. Toda persona tiene derecho al acceso, rectificación, cancelación y portabilidad de sus datos personales, así como a manifestar su oposición respecto del tratamiento de estos, en los términos que disponga la ley. Su manejo se regirá por los principios de veracidad, licitud, consentimiento, información, calidad, finalidad, lealtad, proporcionalidad y responsabilidad.
 
 F. Derecho a un gobierno democrático y a la participación política paritaria
 
@@ -4325,3 +4329,11 @@ G.O. 16 DE MARZO DE 2022.
 PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente decreto entrará en vigor al momento de su publicación,
+
+G.O. 2 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR (SIC) QUE SE REFORMA EL NUMERAL 4, APARTADO E DEL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación.
