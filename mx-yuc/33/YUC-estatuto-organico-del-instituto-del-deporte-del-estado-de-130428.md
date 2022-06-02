@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-del-deporte-del-estado-de-13042
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-08-07"
-last_updated: "2019-05-17"
+last_updated: "2022-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL DEPORTE DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 17 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE JUNIO DE 2022.
 
 Estatuto publicado en el Periódico Oficial del Estado de Yucatán, el martes 7 de agosto de 2018.
 
@@ -79,13 +79,13 @@ Atribuciones
 
 El Instituto, para el cumplimiento de su objeto, tendrá las atribuciones establecidas en el artículo 13 quinquies de la ley.
 
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, D.O. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 4.
 
 Estructura orgánica
 
-El Instituto estará integrado por:
+El instituto estará integrado por:
 
 I. Órganos de gobierno:
 
@@ -97,57 +97,55 @@ II. Unidades administrativas:
 
 a) Dirección general:
 
-1. Unidad de Comunicación Social.
-
-2. Departamento de Sistemas de Información.
-
-3. Unidad de Control y Normatividad.
+1. Departamento de Sistemas de Información.
 
 b) Dirección de Promoción Deportiva:
 
 1. Departamento de Activación Física.
 
-2. Departamento de Deporte Inicial y Masividad.
+2. Departamento de Academias, Iniciación Deportiva y Masividad.
 
-3. Departamento de Servicios Generales y Eventos Especiales.
-
-4. Departamento de Centros de Desarrollo del Deporte
+3. Departamento de Eventos Especiales.
 
 c) Dirección de Alto Rendimiento:
 
 1. Departamento del Centro de Alto Rendimiento Deportivo.
 
-2. Departamento de Medicina y Ciencias Aplicadas al Deporte.
+2. Departamento de Metodología.
 
-3. Departamento de Metodología.
+3. Departamento de Deporte Federado.
 
-4. Departamento de Deporte Federado.
+4. Departamento de Centros de Desarrollo del Deporte.
 
 d) Dirección del Complejo Deportivo Kukulcán.
 
-f) (sic) Dirección del Complejo Olímpico Deportivo Inalámbrica.
+e) Dirección del Complejo Olímpico Deportivo Inalámbrica.
 
-g) Dirección de Vinculación y Unidades Deportivas:
+f) Dirección de Vinculación y Unidades Deportivas:
 
-1. Estadio Salvador Alvarado.
+1. Departamento del Estadio Salvador Alvarado.
 
-2. Unidad Deportiva del Sur.
+2. Departamento de la Unidad Deportiva del Sur.
 
 3. Departamento del Centro Deportivo Paralímpico.
 
-4. Pista Internacional de Remo y Canotaje.
+4. Departamento de la Pista Internacional de Remo y Canotaje.
 
-5. Unidad Deportiva Villa Palmira.
+5. Departamento de la Unidad Deportiva Villa Palmira.
 
-6. Gimnasio Polifuncional.
+6. Departamento del Gimnasio Polifuncional.
 
-7. Unidad Deportiva Benito Juárez García.
+7. Departamento de la Unidad Deportiva Benito Juárez García.
 
-8. Gimnasio Solidaridad.
+8. Departamento del Gimnasio Solidaridad.
 
-h) Dirección de Proyectos Estratégicos.
+9. Departamento del Centro Estatal de Box.
 
-i) Dirección de Administración y Finanzas:
+g) Dirección de Proyectos Estratégicos.
+
+1. Departamento de Marketing Deportivo.
+
+h) Dirección de Administración y Finanzas.
 
 1. Subdirección de Administración y Finanzas.
 
@@ -159,7 +157,7 @@ i) Dirección de Administración y Finanzas:
 
 5. Departamento de Contabilidad.
 
-j) Dirección Jurídica.
+i) Dirección Jurídica.
 
 ### Capítulo III. Funcionamiento del instituto
 
@@ -397,7 +395,11 @@ XII. Examinar y suscribir los documentos que les corresponda, así como certific
 
 XIII. Resolver los asuntos o conflictos que se susciten en la unidad administrativa a su cargo y requieran de su intervención.
 
-XIV. Las demás que le confiera el director general y este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 2 DE JUNIO DE 2022)</small>
+
+XIV. Elaborar, en su caso, el llenado de los formatos de su entrega recepción en apego a los lineamientos para los procesos de entrega-recepción, transferencia y desincorporación en la Administración Pública del Estado.
+
+XV. Las demás que le confiera el director general y este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 27.
 
@@ -419,29 +421,7 @@ Los subdirectores, titulares de unidad, titulares de área, administradores y je
 
 ###### Artículo 31.
 
-Facultades y obligaciones del jefe de la Unidad de Comunicación Social
-
-El jefe de la Unidad de Comunicación Social tendrá las siguientes facultades y obligaciones:
-
-I. Coordinar las acciones de difusión, comunicación y prensa de los programas y acciones desarrollados por el instituto.
-
-II. Supervisar la elaboración de los boletines y síntesis informativos derivados de la información deportiva difundida por los medios de comunicación.
-
-III. Producir y editar materiales impresos, sonoros, audiovisuales y electrónicos relacionados con el instituto.
-
-IV. Definir estrategias de medición de la opinión pública e imagen institucional.
-
-V. Diseñar la imagen gráfica de los eventos que organice el instituto y difundir los formatos de la papelería oficial.
-
-VI. Vincularse con los representantes de los medios informativos e implementar mecanismos para el intercambio de información.
-
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2019)</small>
-
-VII. Actualizar la información contenida en el sitio web del instituto y administrar eficientemente las redes sociales de este.
-
-VIII. Fungir como vínculo con el Sistema Nacional del Deporte en materia de comunicación social.
-
-IX. Las demás que le confiera el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+(DEROGADO, D.O. 2 DE JUNIO DE 2022)
 
 ###### Artículo 32.
 
@@ -475,35 +455,9 @@ X. Apoyar al titular de la unidad de transparencia, en la actualización de la i
 
 XI. Las demás que le confiera el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
-> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2019)</small>
-
 ###### Artículo 33 Bis.
 
-Facultades y obligaciones del Jefe de Departamento de la Unidad de Control y Normatividad
-
-El Jefe del Departamento de la Unidad de Control y Normatividad tendrá las siguientes facultades y obligaciones:
-
-I. Proponer estrategias y acciones para mejorar los procedimientos administrativos de las diferentes áreas de trabajo.
-
-II. Vigilar que se cumpla la normativa aplicable al instituto.
-
-III. Gestionar e implementar cursos de calidad o mejora continua a los trabajadores.
-
-IV. Organizar anualmente las sesiones del comité de control interno institucional.
-
-V. Informar a los miembros del comité de control interno institucional sobre el desempeño del sistema de gestión de calidad y de las necesidades de mejora que las áreas requieran.
-
-VI. Realizar evaluaciones de control interno a las áreas del instituto para detectar deficiencias y proponer las estrategias y acciones de mejora que correspondan.
-
-VII. Elaborar los manuales de control interno, de procedimientos y el resto de la documentación en la materia que se requiera.
-
-VIII. Convocar a las diversas áreas del instituto a las reuniones de trabajo de mejora continua.
-
-IX. Elaborar el programa anual de trabajo de las actividades de control interno.
-
-X. Realizar, conjuntamente con el órgano de control interno, la planeación y programación de las auditorías internas, organizando los procesos de ejecución de acuerdo con las fechas establecidas.
-
-XI. Las demás que le confiera el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+(DEROGADO, D.O. 2 DE JUNIO DE 2022)
 
 ###### Artículo 34.
 
@@ -529,37 +483,33 @@ VII. Coordinar eventos deportivos relacionados con el objeto del instituto.
 
 VIII. Las demás que le confiera el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
+> <small>(REFORMADO, D.O. 2 DE JUNIO DE 2022)</small>
+
 ###### Artículo 35.
 
 Facultades y obligaciones del jefe del Departamento de Activación Física
 
 El jefe del Departamento de Activación Física tendrá las siguientes facultades y obligaciones:
 
-I. Coordinar la implementación de los programas de cultura física y deporte popular en la Administración Pública estatal y en las instituciones educativas públicas.
+I. Coordinar los programas en materia de promoción de activación física con los diferentes organismos públicos y privados en fomento al deporte en el estado.
 
-II. Promover la realización de actividades deportivas entre la población.
+II. Promover en el estado programas especiales en materia de promoción de activación física, emprendidas conjuntamente con la Secretaría de Salud y la Secretaría de Educación, los cuales deberán redundar en mejoras cuantificables del nivel de vida y salud de la población, debido a la alta tasa de obesidad infantil y sobrepeso en la población yucateca.
 
 III. Programar, coordinar y evaluar eventos de activación física y recreativa en el estado, así como difundir sus beneficios.
 
-IV. Gestionar el uso de espacios o instalaciones públicas en apoyo a la cultura física y el deporte.
+IV. Promover el desarrollo de programas deportivos y recreativos para los adultos mayores.
 
-V. Coordinar el funcionamiento del Programa Estatal de Activación Física.
+V. Las demás que le confiera el director general, el director de Promoción Deportiva, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2019)</small>
-
-VI. Proponer el diseño e implementación de programas de activación física y recreación en las escuelas y empresas.
-
-VII. Las demás que le confiera el director general, el director de Promoción Deportiva, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
-
-> <small>(REFORMADO SU EPÍGRAFE, D.O. 17 DE MAYO DE 2019)</small>
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 36.
 
-Facultades y obligaciones del Jefe del Departamento de Deporte Inicial y Masividad
+Facultades y obligaciones del jefe del Departamento de Academias, Iniciación Deportiva y Masividad
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 17 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 2 DE JUNIO DE 2022)</small>
 
-El jefe del Departamento de Deporte Inicial y Masividad tendrá las siguientes facultades y obligaciones:
+El jefe del Departamento de Academias, Iniciación Deportiva y Masividad tendrá las siguientes facultades y obligaciones:
 
 > <small>(REFORMADA, D.O. 17 DE MAYO DE 2019)</small>
 
@@ -575,9 +525,9 @@ V. Coordinar los programas vacacionales para la atención de niñas, niños y ad
 
 VI. Convocar y presidir las reuniones de trabajo con los comités deportivos populares, así como brindarles asesoría, capacitación y orientación para el desarrollo del deporte en las colonias.
 
-> <small>(ADICIONADA, D.O. 17 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, D.O. 2 DE JUNIO DE 2022)</small>
 
-VII. Crear academias de futbol y béisbol en los municipios del estado.
+VII. Crear y coordinar las academias de futbol y béisbol en los municipios del estado.
 
 VIII. Las demás que le confiera el director general, el director de Promoción Deportiva, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
@@ -589,47 +539,27 @@ VIII. Las demás que le confiera el director general, el director de Promoción 
 
 (DEROGADO, D.O. 17 DE MAYO DE 2019)
 
+> <small>(REFORMADO, D.O. 2 DE JUNIO DE 2022)</small>
+
 ###### Artículo 39.
 
-Facultades y obligaciones del jefe de Departamento de Servicios Generales y Eventos Especiales
+Facultades y obligaciones del jefe del Departamento de Eventos Especiales
 
-El jefe del departamento de Servicios Generales y Eventos Especiales tendrá las siguientes facultades y obligaciones:
+El jefe del departamento de Eventos Especiales tendrá las siguientes facultades y obligaciones:
 
-I. Coordinar y proporcionar apoyo logístico para la realización de los eventos deportivos y recreativos.
+I. Coordinar y proporcionar apoyo logístico para la realización de los eventos deportivos y recreativos del instituto.
 
-II. Prestar los servicios generales y de protección civil a las unidades administrativas del instituto.
+II. Realizar pre giras de los eventos a realizar en coordinación con los enlaces asignados para la organización del evento.
 
-III. Reportar al área correspondiente y, en su caso, los desperfectos que detecte en las instalaciones del instituto.
+III. Atender las solicitudes de apoyos en logística de eventos que le sean canalizados por la Dirección de Promoción Deportiva o Dirección General.
 
-IV. Coordinar las labores de mantenimiento preventivo y correctivo de los bienes muebles e inmuebles del instituto.
-
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2019)</small>
+IV. Trasladar el material que se utilizará en los eventos a realizar.
 
 V. Las demás que le confiera el director general, el director de Promoción Deportiva, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
-> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2019)</small>
-
 ###### Artículo 39 Bis.
 
-Facultades y obligaciones del jefe del Departamento de Centros de Desarrollo del Deporte
-
-El jefe del Departamento de Centros de Desarrollo del Deporte tendrá las siguientes facultades y obligaciones:
-
-I. Elaborar y aplicar los programas y proyectos del deporte en los municipios del interior de (sic) estado en coordinación con las autoridades municipales.
-
-II. Gestionar con las autoridades municipales la creación de centros regionales o municipales de desarrollo deportivo.
-
-III. Concertar acuerdos y convenios con los ayuntamientos para la creación y funcionamiento de centros de desarrollo del deporte.
-
-IV. Supervisar el funcionamiento de los centros regionales y municipales de desarrollo deportivo.
-
-V. Atender las necesidades de los centros regionales en los municipios.
-
-VI. Proponer la contratación de entrenadores y técnicos para la atención de los centros regionales y municipales de desarrollo deportivo.
-
-VII. Atender y gestionar los requerimientos de material deportivo para el funcionamiento de los centros de desarrollo deportivo.
-
-VIII. Las demás que le confiera el director general, el director de Promoción Deportiva, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+(DEROGADO, D.O. 2 DE JUNIO DE 2022)
 
 ###### Artículo 40.
 
@@ -695,29 +625,15 @@ VI. Proponer a los proveedores de insumos alimenticios del Centro de Alto Rendim
 
 VII. Gestionar con la Secretaría de Educación Pública la emisión de constancias educativas que avalen la formación académica del atleta.
 
-VIII. Las demás que le confiera el director general, el director de Alto Rendimiento, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 2 DE JUNIO DE 2022)</small>
+
+VIII. Gestionar una mecánica de trabajo para eficientar la comunicación y los resultados académicos y deportivos con el área de metodología de entrenamiento deportivo.
+
+IX. Las demás que le confiera el director general, el director de Alto Rendimiento, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 42.
 
-Facultades y obligaciones del jefe de Departamento de Medicina y Ciencias Aplicadas al Deporte
-
-El jefe de Departamento de Medicina y Ciencias Aplicadas al Deporte tendrá las siguientes facultades y obligaciones:
-
-I. Aplicar los programas, normas y procedimientos en materia de medicina y ciencias aplicadas al deporte.
-
-II. Elaborar y establecer los lineamientos para la atención médica y deportiva en todos los niveles.
-
-III. Promover el servicio médico asistencial en las diferentes instalaciones deportivas.
-
-IV. Supervisar los servicios de medicina del deporte, psicología, nutrición y odontología a la población deportiva de alto rendimiento, asociado, especial y capacidades diferentes.
-
-V. Supervisar la programación de las evaluaciones y coberturas médicas en los eventos deportivos que se realicen en el estado, en eventos regionales y de olimpiada nacional.
-
-VI. Coordinarse con las instituciones de salud para el funcionamiento del servicio médico asistencial.
-
-VII. Desarrollar programas de prevención de enfermedades, accidentes deportivos, medidas higiénicas, dietéticas, nutricionales y posturales, así como de asistencia, evaluación e investigación para orientar y preparar adecuadamente a las personas que realicen actividades deportivas.
-
-VIII. Las demás que le confiera el director general, el director de Alto Rendimiento, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+(DEROGADO, D.O. 2 DE JUNIO DE 2022)
 
 ###### Artículo 43.
 
@@ -787,6 +703,30 @@ IX. Establecer, difundir y evaluar programas y proyectos de cultura física y de
 
 X. Las demás que le confiera el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
+> <small>(ADICIONADO, D.O. 2 DE JUNIO DE 2022)</small>
+
+###### Artículo 46 Bis.
+
+Facultades y obligaciones del jefe del Departamento de Centros de Desarrollo del Deporte
+
+El jefe del Departamento de Centros de Desarrollo del Deporte tendrá las siguientes facultades y obligaciones:
+
+I. Elaborar y aplicar los programas y proyectos del deporte en los municipios del interior de (sic) estado en coordinación con las autoridades municipales.
+
+II. Gestionar con las autoridades municipales la creación de centros regionales o municipales de desarrollo deportivo.
+
+III. Concertar acuerdos y convenios con los ayuntamientos para la creación y funcionamiento de centros de desarrollo del deporte.
+
+IV. Supervisar el funcionamiento de los centros regionales y municipales de desarrollo deportivo.
+
+V. Atender las necesidades de los centros regionales en los municipios.
+
+VI. Proponer la contratación de entrenadores y técnicos para la atención de los centros regionales y municipales de desarrollo deportivo.
+
+VII. Atender y gestionar los requerimientos de material deportivo para el funcionamiento de los centros de desarrollo deportivo.
+
+VIII. Las demás que le confiera el director general, el director de Alto Rendimiento, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2019)</small>
 
 ###### Artículo 47.
@@ -833,87 +773,99 @@ V. Vincular, en coordinación con la Dirección de Proyectos Estratégicos, la r
 
 VI. Las demás que le confiera el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
-> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, D.O. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 48 Bis.
 
-Facultades y obligaciones del administrador del Estadio Salvador Alvarado
+Facultades y obligaciones del jefe del Departamento del Estadio Salvador Alvarado
 
-El administrador del Estadio Salvador Alvarado tendrá, en el ámbito de su competencia, las facultades y obligaciones conferidas en el artículo 47 de este estatuto.
+El jefe del Departamento del Estadio Salvador Alvarado tendrá, en el ámbito de su competencia, las facultades y obligaciones conferidas en el artículo 47 de este estatuto.
 
-> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, D.O. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 48 Ter.
 
-Facultades y obligaciones del administrador de la Unidad Deportiva del Sur
+Facultades y obligaciones del jefe del Departamento de la Unidad Deportiva del Sur
 
-El administrador de la Unidad Deportiva del Sur tendrá, en el ámbito de su competencia, las facultades y obligaciones conferidas en el artículo 47 de este estatuto.
+El jefe del Departamento de la Unidad Deportiva del Sur tendrá, en el ámbito de su competencia, las facultades y obligaciones conferidas en el artículo 47 de este estatuto.
 
-> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, D.O. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 48. Quater.
 
-Facultades y obligaciones del Jefe de Departamento del Centro Deportivo Paralímpico
+Facultades y obligaciones del jefe del Departamento del Centro Deportivo Paralímpico
 
-El jefe del Departamento del Centro Deportivo Paralímpico tendrá, a demás (sic) de las conferidas en el artículo 47 de este estatuto, las siguientes facultades y obligaciones:
+El jefe del Departamento del Centro Deportivo Paralímpico, a demás (sic) de las conferidas en el artículo 47 de este estatuto tendrá, en el ámbito de su competencia, las facultades y obligaciones conferidas en el artículo 47 de este estatuto.
 
-I. Planear y organizar eventos deportivos y recreativos en las colonias, comisarías y municipios del estado y, en su caso, detectar de entre los participantes a jóvenes con discapacidad con cualidades para alguna disciplina deportiva.
+I. Planear y organizar eventos deportivos y recreativos en las colonias, comisarías y municipios del estado, para la detección de jóvenes con alguna discapacidad con talento deportivo.
 
-II. Asesorar a los comités deportivos municipales en la organización de eventos relacionados con el deporte adaptado y el adulto mayor.
+II. Diseñar programas deportivos y recreativos para personas con discapacidad y el deporte adaptado.
 
-III. Diseñar los programas deportivos y recreativos para personas con discapacidad y adultos mayores.
+III. Promover convenios y trabajos de coordinación en materia de inclusión con organismos públicos y privados para atención del deporte adaptado y deportistas con alguna discapacidad.
 
-IV. Convocar y presidir las reuniones de trabajo con los organismos o asociaciones deportivas que atienden a personas con discapacidad y adultos mayores, así como brindarles asesorías, capacitación y orientación para el desarrollo del deporte.
+IV. Brindar apoyo, asesoría, capacitación y orientación a deportistas con alguna discapacidad.
 
-V. Las demás que le confiera el director de vinculación y unidades deportivas, el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+V. Las demás que le confiera el director general, el director de Vinculación y Unidades Deportivas, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, D.O. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 49.
 
-Facultades y obligaciones del administrador de la Pista Internacional de Remo y Canotaje
+Facultades y obligaciones del jefe del Departamento de la Pista Internacional de Remo y Canotaje
 
-El administrador de la Pista Internacional de Remo y Canotaje, tendrá en el ámbito de su competencia las facultades y obligaciones conferidas en el artículo 47 de este estatuto.
+El jefe del Departamento de la Pista Internacional de Remo y Canotaje tendrá, en el ámbito de su competencia, las facultades y obligaciones conferidas en el artículo 47 de este estatuto
 
 ###### Artículo 50.
 
 (DEROGADO, D.O. 17 DE MAYO DE 2019)
 
+> <small>(REFORMADO, D.O. 2 DE JUNIO DE 2022)</small>
+
 ###### Artículo 51.
 
-Facultades y obligaciones del administrador de la Unidad Deportiva Villapalmira
+Facultades y obligaciones del jefe del Departamento de la Unidad Deportiva Villa Palmira
 
-El administrador de la Unidad Deportiva Villapalmira tendrá en el ámbito de su competencia las facultades y obligaciones conferidas en el artículo 47 de este estatuto.
+El jefe del Departamento de la Unidad Deportiva Villapalmira tendrá, en el ámbito de su competencia, las facultades y obligaciones conferidas en el artículo 47 de este estatuto.
 
-> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, D.O. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 51 Bis.
 
-Facultades y obligaciones del administrador del Gimnasio Polifuncional
+Facultades y obligaciones del jefe del Departamento del Gimnasio Polifuncional
 
-El administrador del Gimnasio Polifuncional tendrá, en el ámbito de su competencia, las facultades y obligaciones conferidas en el artículo 47 de este estatuto.
+El jefe del Departamento del Gimnasio Polifuncional tendrá, en el ámbito de su competencia, las facultades y obligaciones conferidas en el artículo 47 de este estatuto.
 
-> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, D.O. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 51 Ter.
 
-Facultades y obligaciones del administrador de la Unidad Deportiva Benito Juárez García
+Facultades y obligaciones del jefe del Departamento de la Unidad Deportiva Benito Juárez García
 
-El administrador de la Unidad Deportiva Benito Juárez García tendrá, en el ámbito de su competencia, las facultades y obligaciones conferidas en el artículo 47 de este estatuto.
+El jefe del Departamento de la Unidad Deportiva Benito Juárez García tendrá, en el ámbito de su competencia, las facultades y obligaciones conferidas en el artículo 47 de este estatuto.
+
+> <small>(REFORMADO, D.O. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 52.
 
-Facultades y obligaciones del administrador del Gimnasio Solidaridad
+Facultades y obligaciones del jefe del Departamento del Gimnasio Solidaridad
 
-El administrador del Gimnasio Solidaridad, tendrá en el ámbito de su competencia las facultades y obligaciones conferidas en el artículo 47 de este estatuto.
+El jefe del Departamento del Gimnasio Solidaridad tendrá, en el ámbito de su competencia, las facultades y obligaciones conferidas en el artículo 47 de este estatuto.
 
-> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, D.O. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 52 Bis.
 
+Facultades y obligaciones del jefe del Departamento del Centro Estatal de Box
+
+El jefe del Departamento del Centro Estatal de Box tendrá, en el ámbito de su competencia, las facultades y obligaciones conferidas en el artículo 47 de este estatuto
+
+> <small>(ADICIONADO, D.O. 2 DE JUNIO DE 2022)</small>
+
+###### Artículo 52 Ter.
+
 Facultades y obligaciones del Director de Proyectos Estratégicos
 
-El Director de Proyectos Estratégicos tendrá las siguientes facultades y obligaciones:
+El director de Proyectos Estratégicos tendrá las siguientes facultades y obligaciones:
 
 I. Concertar la celebración de acuerdos y convenios con las dependencias y entidades de la Administración Pública federal, estatal o municipal, así como la iniciativa privada e instituciones educativas para la promoción del deporte en el estado.
 
@@ -927,7 +879,39 @@ V. Gestionar recursos federales para la realización de proyectos de infraestruc
 
 VI. Vincular y concertar convenios de colaboración con los municipios del estado y el sector salud en materia de activación física y deporte.
 
-VII. Las demás que le confiera el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+VII. Supervisar el correcto funcionamiento del Departamento de Marketing Deportivo.
+
+VIII. Las demás que le confiera el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 2 DE JUNIO DE 2022)</small>
+
+###### Artículo 52 Quater.
+
+Facultades y obligaciones del jefe del Departamento de Marketing Deportivo
+
+El jefe del Departamento de Marketing Deportivo tendrá las siguientes facultades y obligaciones:
+
+I. Coordinar las acciones de difusión, comunicación y prensa de los programas y acciones desarrollados por el instituto.
+
+II. Supervisar la elaboración de los boletines y síntesis informativos derivados de la información deportiva difundida por los medios de comunicación.
+
+III. Producir y editar materiales impresos, sonoros, audiovisuales y electrónicos relacionados con el instituto.
+
+IV. Definir estrategias de medición de la opinión pública e imagen institucional.
+
+V. Diseñar la imagen gráfica de los eventos que organice el instituto y difundir los formatos de la papelería oficial.
+
+VI. Vincularse con los representantes de los medios informativos e implementar mecanismos para el intercambio de información.
+
+VII. Actualizar la información contenida en el sitio web del instituto.
+
+VIII. Fungir como vínculo con el Sistema Nacional del Deporte, en materia de comunicación social.
+
+IX. Administrar eficientemente las redes sociales del instituto.
+
+X. Elaborar el plan anual en materia de comunicación social.
+
+XI. Las demás que le confiera el director general, el director de Proyectos Estratégicos, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 53.
 
@@ -939,7 +923,9 @@ I. Administrar, en coordinación con el director general, los recursos humanos, 
 
 II. Elaborar, en coordinación con el director general y los directores, los proyectos de presupuesto de ingresos y de egresos del instituto, así como de los programas presupuestarios que le correspondan.
 
-III. Llevar la contabilidad del instituto y elaborar los estados financieros, informes o reportes que sean solicitados por el director general o las autoridades públicas correspondientes.
+> <small>(REFORMADA, D.O. 2 DE JUNIO DE 2022)</small>
+
+III. Supervisar la contabilidad del instituto y los estados financieros, informes o reportes que sean solicitados por el director general o las autoridades públicas correspondientes.
 
 IV. Colaborar en la definición de los objetivos y las metas, así como de los indicadores de desempeño o resultado del instituto.
 
@@ -949,21 +935,31 @@ VI. Proponer al director general políticas, lineamientos y criterios para la ad
 
 VII. Diseñar y aplicar los registros, instrumentos y procesos administrativos necesarios para la adecuada administración de los recursos del instituto y la comprobación de su ejercicio ante las instituciones públicas correspondientes.
 
-VIII. Fomentar la captación de recursos provenientes de fuentes federales de financiamiento para el cumplimiento del objeto del instituto.
+VIII. (DEROGADA, D.O. 2 DE JUNIO DE 2022)
 
-IX. Difundir las políticas, los lineamientos y los criterios relacionados con la captación y el ejercicio de los recursos federales transferidos a la comisión, así como con la integración de la información correspondiente.
+IX. (DEROGADA, D.O. 2 DE JUNIO DE 2022)
 
 X. Gestionar la impartición de los cursos de capacitación para los servidores públicos.
 
-XI. Implementar y vigilar el funcionamiento de los sistemas y equipos que permitan la integración y administración de la información financiera del instituto.
+> <small>(REFORMADA, D.O. 2 DE JUNIO DE 2022)</small>
+
+XI. Supervisar y vigilar el funcionamiento de los sistemas y equipos que permitan la integración y administración de la información financiera del instituto.
 
 XII. Efectuar, previa autorización del director general o la junta de gobierno, la adquisición de los bienes muebles o inmuebles y la contratación de los servicios que requiera el instituto.
 
-XIII. Controlar los bienes muebles e inmuebles del instituto, procurar su adecuado registro, uso, conservación y mantenimiento.
+> <small>(REFORMADA, D.O. 2 DE JUNIO DE 2022)</small>
+
+XIII. Supervisar los bienes muebles del instituto a través del adecuado registro, uso, conservación y mantenimiento.
 
 XIV. Proporcionar la información financiera que requieran las autoridades públicas competentes y, en general, colaborar con ellas para el cumplimiento de las obligaciones administrativas del instituto.
 
-XV. Las demás que le confiera el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 2 DE JUNIO DE 2022)</small>
+
+XV. Suscribir y publicar las invitaciones, bases, y convocatorias correspondientes a los procedimientos de contratación derivados de la licitación pública y por invitación a, cuando menos tres proveedores, así como de todos los actos que deriven de los procedimientos de adjudicación directa en términos de la legislación aplicable en materia de adquisiciones de bienes y contratación de servicios, y demás disposiciones legales y normativas aplicables
+
+XVI. Las demás que le confiera el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO, D.O. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 54.
 
@@ -975,21 +971,17 @@ I. Supervisar la mejora de la calidad de los procedimientos y manuales de contro
 
 II. Dirigir y controlar la aplicación de la normativa y las políticas de administración de recursos humanos, financieros, y materiales.
 
-III. Elaborar, coordinar, supervisar y mantener actualizado el inventario de activos, bienes y recursos.
+III. Auxiliar en la vigilancia del cumplimiento de las obligaciones fiscales y contribuciones; así como supervisar que se proporcione a las instancias competentes la información financiera que le sea requerida como resultado de su operación.
 
-IV. Auxiliar en la vigilancia del cumplimiento de las obligaciones fiscales y contribuciones; así como supervisar que se proporcione a las instancias competentes la información financiera que le sea requerida como resultado de su operación.
+IV. Dar seguimiento a la corrección de inconsistencias detectadas por las instancias auditoras.
 
-V. Dar seguimiento a la corrección de inconsistencias detectadas por las instancias auditoras.
+V. Apoyar al director de Administración y Finanzas en la coordinación de los procesos de entrega-recepción.
 
-VI. Realizar inventarios físicos de los bienes, generar reportes y canalizar los relativos a las adquisiciones al Departamento de Contabilidad para su registro, así como capturar los registros de inventarios generar los resguardos y las etiquetas y mantenerlo actualizado.
+VI. Elaborar un programa anual de mantenimiento preventivo y correctivo de los vehículos del parque vehicular del instituto.
 
-VII. Gestionar y tramitar el dictamen técnico y de baja de los bienes muebles.
+VII. Difundir y elaborar los programas de mantenimiento preventivo y correctivo de los vehículos, mobiliario y equipo de oficina y dispositivos de seguridad instalados en el instituto.
 
-VIII. Definir mecanismos de control de la información de los activos fijos.
-
-IX. Apoyar al director de Administración y Finanzas en la supervisión de los procedimientos de entrega-recepción.
-
-X. Las demás que le confiera el director general, el director de Administración y Finanzas, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+VIII. Las demás que le confiera el director general, el director de Administración y Finanzas, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 55.
 
@@ -999,7 +991,7 @@ El jefe del Departamento de Planeación y Control Presupuestal tendrá las sigui
 
 I. Llevar el control presupuestal de los recursos financieros del instituto.
 
-II. Revisar, validar y enviar el informe de gestión, el anexo estadístico y los anexos de inversión pública federal, componentes de la cuenta pública del Gobierno del estado, en coordinación con la Secretaría de Administración y Finanzas.
+II. (DEROGADA, D.O. 2 DE JUNIO DE 2022)
 
 III. Integrar y mantener actualizado el catálogo de programas de bienes y servicios que proporciona el instituto en coordinación con la Secretaria de Administración y Finanzas.
 
@@ -1007,11 +999,15 @@ IV. Coadyuvar en la elaboración del sector deporte del plan estatal de desarrol
 
 V. Elaborar, validar e inscribir los proyectos y programas de inversión, del instituto, ante la Unidad de Gestión de la Inversión de la Secretaria de Administración y Finanzas.
 
-VI. Coordinar los trabajos de infraestructura deportiva en conjunto con la Secretaría de Obras Públicas y el Instituto para la Construcción y Conservación de Obra Pública en Yucatán.
+VI. (DEROGADA, D.O. 2 DE JUNIO DE 2022)
 
-VII. Revisar y capturar en el Portal Aplicativo de la Secretaria de Hacienda los recursos federales convenidos y ejercidos directamente por el instituto en coordinación con la Secretaria de Administración y Finanzas.
+> <small>(REFORMADA, D.O. 2 DE JUNIO DE 2022)</small>
 
-VIII. Elaborar, validar y enviar el informe de gobierno del instituto, así como de todos sus anexos.
+VII. Revisar y capturar en el sistema designado por la Secretaría de Hacienda y Crédito Público los recursos federales convenidos y ejercidos directamente por el instituto en coordinación con la Secretaría de Administración y Finanza.
+
+> <small>(REFORMADA, D.O. 2 DE JUNIO DE 2022)</small>
+
+VIII. Revisar e integrar la información de las unidades administrativas del instituto para llevar a cabo la preparación del informe de Gobierno, en coordinación con la Secretaría Técnica de Planeación y Evaluación.
 
 IX. Las demás que le confiera el director general, el director de Administración y Finanzas, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
@@ -1055,6 +1051,8 @@ XVI. Programar el pago de bonos por años de servicio.
 
 XVII. Las demás que le confiera el director general, el director de Administración y Finanzas, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
+> <small>(REFORMADO, D.O. 2 DE JUNIO DE 2022)</small>
+
 ###### Artículo 57.
 
 Facultades y obligaciones del jefe del Departamento de Recursos Materiales
@@ -1065,25 +1063,25 @@ I. Supervisar el almacenamiento, resguardo y control de los bienes muebles y mat
 
 II. Adquirir los bienes y servicios que requiera el instituto, atendiendo a los montos máximos y modalidades establecidos en el presupuesto correspondiente, así como dar cumplimiento a las disposiciones legales y administrativas en materia de adquisiciones.
 
-III. Vigilar la actualización permanentemente del inventario de bienes muebles, así como el emplacamiento y emisión de resguardo correspondientes e informar a la Subdirección de Administración y Finanzas de los movimientos de altas, transferencias y bajas.
+III. Vigilar la actualización permanente del inventario de bienes muebles, así como el emplacamiento y emisión de resguardo correspondiente e informar a la Dirección de Administración y Finanzas.
 
-IV. Elaborar un programa anual de mantenimiento preventivo y correctivo de los vehículos del parque vehicular del Instituto.
+IV. Proponer los lineamientos para la optimización y mantenimiento del equipo, maquinaria y mobiliario del instituto.
 
-V. Difundir y ejecutar los programas de mantenimiento preventivo y correctivo de los vehículos, mobiliario y equipo de oficina y dispositivos de seguridad instalados en el instituto.
+V. Recepcionar la documentación para la gestión del pago de las adquisiciones, arrendamientos y servicios proporcionados a las unidades administrativas del instituto, observando el cumplimiento de las disposiciones emitidas por la Dirección de Administración y Finanzas, en concordancia con la Secretaría de Administración y Finanzas.
 
-VI. Establecer y difundir las políticas, estrategias, lineamientos y procedimientos para la optimización y mantenimiento de las instalaciones físicas, equipo, maquinaria y mobiliario del instituto.
+VI. Dar seguimiento a los procesos en términos de las disposiciones normativas en materia de adquisiciones de bienes y contratación de servicios cuando sea a través de licitaciones.
 
-VII. Supervisar que se realice la tramitación y gestión del pago de los servicios generales, arrendamientos y mantenimientos proporcionados a las unidades administrativas del instituto, observando el cumplimiento de las disposiciones emitidas por la Secretaría de Administración y Finanzas o, en su caso, por la Dirección de Administración y Finanzas del instituto.
+VII. Elaborar el programa anual de adquisiciones, arrendamiento de bienes muebles e inmuebles y contratación de servicios generales, sometiéndolos a la consideración de la Dirección de Administración y Finanzas, de acuerdo con el presupuesto autorizado.
 
-VIII. Vigilar que se contraten los mejores proveedores, de acuerdo con el análisis de variables como precio, tiempo de entrega, calidad, etc. que ofrezcan un servicio de calidad en los servicios generales para la operatividad del instituto.
+VIII. Supervisar que las empresas contratadas estén inscritas en el sistema de compras del padrón de proveedores en la Subsecretaría de Adquisiciones de la Secretaría de Administración y Finanzas.
 
-IX. Realizar los informes sobre las acciones, avances y logros de los programas a su cargo.
+IX. Elaborar, coordinar, supervisar y mantener actualizado el inventario de activos, bienes y recursos del instituto.
 
-X. Requerir las fianzas que en su caso procedan, en términos de las disposiciones normativas en materia de adquisiciones de bienes y contratación de servicios cuando sea a través de licitaciones.
+X. Realizar inventarios físicos de los bienes, generar reportes y canalizar los relativos a las adquisiciones al Departamento de Contabilidad para su registro, así como capturar los registros de inventarios, generar los resguardos y las etiquetas.
 
-XI. Elaborar el programa anual de adquisiciones, arrendamiento de bienes muebles e inmuebles y contratación de servicios generales, sometiéndolos a la consideración de la Dirección de Administración y Finanzas de acuerdo con el presupuesto autorizado.
+XI. Gestionar y tramitar el dictamen técnico y de baja de los bienes muebles.
 
-XII. Elaborar el catálogo de proveedores, integrando el expediente legal de cada uno de ellos.
+XII. Definir los mecanismos de control de la información de los activos fijos.
 
 XIII. Las demás que le confiera el director general, el director de Administración y Finanzas, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
@@ -1115,7 +1113,11 @@ X. Elaborar y ejecutar las normas y procedimientos para el suministro y control 
 
 XI. Atender en tiempo y forma los requerimientos que soliciten las diferentes instancias fiscalizadoras correspondientes a su área.
 
-XII. Las demás que le confiera el director general, el director de Administración y Finanzas, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 2 DE JUNIO DE 2022)</small>
+
+XII. Coordinar la recaudación de los recursos propios de las unidades deportivas, estableciendo lineamientos apegados a la normatividad aplicable.
+
+XIII. Las demás que le confiera el director general, el director de Administración y Finanzas, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2019)</small>
 
@@ -1224,3 +1226,15 @@ Este acuerdo entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Inscripción en el Registro de Entidades Paraestatales
 
 El director general del Instituto del Deporte del Estado de Yucatán deberá realizar la inscripción de la modificación de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo
+
+D.O. 2 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO IDEY 04/2022 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO DEL DEPORTE DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El director general del Instituto del Deporte del Estado de Yucatán deberá realizar la inscripción de la modificación de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo.
