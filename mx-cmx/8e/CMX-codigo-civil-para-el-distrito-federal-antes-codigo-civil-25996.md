@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2022-05-27"
+last_updated: "2022-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -23,7 +23,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JUNIO DE 2022.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -2229,11 +2229,21 @@ B. Una vez contestada la solicitud:
 
 I.- El Juez de lo Familiar determinará con audiencia de parte, y teniendo en cuenta el interés familiar y lo que más convenga a los hijos, cuál de los cónyuges continuará en el uso de la vivienda familiar y asimismo, previo inventario, los bienes y enseres que continúen en ésta y los que se ha de llevar el otro cónyuge, incluyendo los necesarios para el ejercicio de la profesión, arte u oficio a que esté dedicado, debiendo informar éste el lugar de su residencia;
 
-II. - Poner a los hijos al cuidado de la persona que de común acuerdo designen los cónyuges, pudiendo estos compartir la guarda y custodia mediante convenio.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE JUNIO DE 2022)</small>
 
-En defecto de ese acuerdo; el Juez de lo Familiar resolverá conforme al Título Décimo Sexto del Código de Procedimientos Civiles, tomando en cuenta la opinión del menor de edad.
+II. - Poner a las hijas e hijos al cuidado de la persona que de común acuerdo designen los cónyuges, pudiendo estos compartir la guarda y custodia mediante convenio. La Jueza o Juez de lo Familiar deberá, en todos los casos, ponderar el interés superior de la niñez, garantizando que reciba una protección integral de sus derechos fundamentales, para lo cual las y los menores podrán manifestar su opinión en relación con la guarda y custodia, misma que tendrá que ser tomada en cuenta al momento de emitir la resolución respectiva.
 
-Los menores de doce años deberán quedar al cuidado de la madre, excepto en los casos de violencia familiar cuando ella sea la generadora o exista peligro grave para el normal desarrollo de los hijos. No será obstáculo para la preferencia maternal en la custodia, el hecho de que la madre carezca de recursos económicos;
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2022)</small>
+
+En defecto de ese acuerdo, la Jueza o el Juez de lo Familiar resolverá conforme al Título Décimo Sexto del Código de Procedimientos Civiles.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 2 DE JUNIO DE 2022)</small>
+
+En el caso de que existan menores de doce años, la Jueza o Juez de lo Familiar determinará, atendiendo a las circunstancias concretas del caso específico, garantizando las mejores condiciones para el desarrollo, cuidado y protección de las y los menores, si éstos quedan al cuidado de la madre, del padre o incluso de persona ajena a sus progenitores.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 2 DE JUNIO DE 2022)</small>
+
+No será obstáculo para la preferencia en la custodia, el hecho de que la madre o padre por dedicarse al trabajo de cuidados en el hogar carezca de recursos económicos;
 
 III.- El Juez de lo Familiar resolverá teniendo presente el interés superior de los hijos, quienes serán escuchados, las modalidades del derecho de visita o convivencia con sus padres;
 
@@ -15028,3 +15038,11 @@ G.O. 27 DE MAYO DE 2022.
 Primero. - Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 2 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR (SIC) QUE SE MODIFICA EL ARTÍCULO 282, EN SU APARTADO B, FRACCIÓN II, ASÍ COMO EL ÚLTIMO PÁRRAFO DE DICHA FRACCIÓN; Y SE ADICIONA UN PÁRRAFO TERCERO AL APARTADO B, FRACCIÓN II DEL ARTÍCULO 282, TODOS DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO. Túrnese a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su correspondiente promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
