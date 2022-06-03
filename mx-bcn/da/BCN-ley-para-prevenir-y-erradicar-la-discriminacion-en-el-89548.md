@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-prevenir-y-erradicar-la-discriminacion-en-el-89548"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-31"
-last_updated: "2022-02-11"
+last_updated: "2022-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2022.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 31 de agosto de 2012.
 
@@ -383,9 +383,17 @@ k) Realizar actos que limiten sus derechos de propiedad, de sucesión, administr
 
 l) Obligar a un tratamiento médico o psiquiátrico;
 
-m) Promover la violencia en su contra en los centros de detención o reclusión, y
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2022)</small>
 
-n) Ofender, ridiculizar, hostigar o promover la violencia en su contra a través de los medios de comunicación.
+m) Promover la violencia en su contra en los centros de detención o reclusión;
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2022)</small>
+
+n) Ofender, ridiculizar, hostigar o promover la violencia en su contra a través de los medios de comunicación; y,
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 2022)</small>
+
+o) Obligar o someter a una o más personas a tratamientos o terapias de conversión o cualquier otra denominación que se les dé, con la intención de modificar la orientación sexual, identidad o expresión de género.
 
 ### CAPÍTULO CUARTO. MEDIDAS POSITIVAS Y COMPENSATORIAS A FAVOR DE LA IGUALDAD DE OPORTUNIDADES
 
@@ -672,3 +680,9 @@ P.O. 11 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 75 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA, LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA, LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA, CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA Y LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 109 MEDIANTE EL CUAL SE ADICIONA EL CAPITULO XII DENOMINADO DELITOS CONTRA LA ORIENTACIÓN SEXUAL, LA IDENTIDAD Y EXPRESIÓN DE GÉNERO, AL TÍTULO PRIMERO DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA Y LA ADICIÓN DE UN ARTÍCULO 160 QUINQUIES AL MISMO ORDENAMIENTO; ASIMISMO APRUEBA LA REFORMA AL ARTÍCULO 21 DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
