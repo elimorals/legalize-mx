@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "2018-11-30"
+last_updated: "2022-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2022.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -1747,9 +1747,13 @@ El plazo para cómputo de los recargos por demora en el pago de impuestos y dere
 
 La condonación total o parcial de los recargos podrá otorgarse mediante disposiciones de carácter general que apruebe el Ayuntamiento, a propuesta del Presidente Municipal, la cual deberá publicarse en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2022)</small>
 
-Excepcionalmente, el Presidente Municipal podrá otorgar la condonación total o parcial de los recargos, cuando se trate de personas de edad avanzada o de escasos recursos económicos que la ameriten, previo estudio socioeconómico que así lo sustente.
+Excepcionalmente, el Presidente Municipal podrá otorgar la condonación total o parcial de los recargos, cuando se trate de madres jefas de familia, personas de edad avanzada o de escasos recursos económicos que la ameriten, previo estudio socioeconómico que así lo sustente.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2022)</small>
+
+Se entenderá por madres jefas de familia, aquellas madres de familia, sin cónyuge o pareja en aptitud de trabajar, que son el único sostén del hogar, con hijo o hijos menores de edad.
 
 ###### ARTICULO 111.
 
@@ -2774,3 +2778,11 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 3 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 102 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL TERCER PÁRRAFO DEL ARTÍCULO 110 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
