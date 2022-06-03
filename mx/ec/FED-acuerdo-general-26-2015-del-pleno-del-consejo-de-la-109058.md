@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-26-2015-del-pleno-del-consejo-de-la-109058"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-07-21"
-last_updated: "2019-10-08"
+last_updated: "2022-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109058&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2015-06-10"
 
 ACUERDO GENERAL 26/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL TRÁMITE AL QUE SE SUJETARÁN LAS SOLICITUDES DE CONCENTRACIÓN DE LOS JUICIOS DE AMPARO EN LOS JUZGADOS DE DISTRITO Y TRIBUNALES DE CIRCUITO, ASÍ COMO SU PROCEDENCIA Y DECLARACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JUNIO DE 2022 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 21 de julio de 2015.
 
@@ -160,3 +160,17 @@ PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet.
 
 TERCERO. Las solicitudes presentadas con anterioridad a la entrada en vigor de este Acuerdo deberán resolverse conforme a las disposiciones del presente Acuerdo.
+
+D.O.F. 3 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA EL TRÁMITE PARA LA CONCENTRACIÓN DE ASUNTOS EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Se abroga el Acuerdo General 26/2015 del Pleno del Consejo de la Judicatura Federal, que regula el trámite al que se sujetarán las solicitudes de concentración de los juicios de amparo en los Juzgados de Distrito y Tribunales de Circuito, así como su procedencia y declaración.
+
+CUARTO. Las solicitudes de concentración pendientes de resolución hasta antes de la entrada en vigor del presente Acuerdo, se tramitarán y resolverán en los términos establecidos en las disposiciones vigentes al momento en que se iniciaron.
+
+QUINTO. Hasta que entren en operación en todo el país los Tribunales Colegiados de Apelación, las referencias hechas a estos órganos jurisdiccionales se entenderán aplicables a los Tribunales Unitarios de Circuito.
