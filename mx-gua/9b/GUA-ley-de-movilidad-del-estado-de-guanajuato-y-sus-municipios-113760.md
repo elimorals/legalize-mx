@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-movilidad-del-estado-de-guanajuato-y-sus-municipios-1137
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-18"
-last_updated: "2021-12-31"
+last_updated: "2022-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2022.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 18 de marzo de 2016.
 
@@ -201,6 +201,10 @@ I. Banqueta: El área pavimentada a cada lado de una calle, generalmente más el
 
 II. Ciclista: Conductor de un vehículo de tracción física a través de pedales. Se considera ciclista a aquellos que conducen bicicletas asistidas por motores eléctricos;
 
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2022)</small>
+
+II bis. Código de respuesta rápida: Es un sistema que permite almacenar información en una matriz de puntos, para verificar si el vehículo se encuentra registrado, así como la plataforma a través de la cual presta el servicio;
+
 III. Concesión: El acto jurídico-administrativo por medio del cual el Poder Ejecutivo a través del titular de la Secretaría de Gobierno o el ayuntamiento, en el ámbito de sus respectivas competencias, confiere a una persona física o jurídico colectiva la potestad de prestar el servicio público de transporte, satisfaciendo necesidades de interés general;
 
 IV. Concesionario: El titular de una concesión;
@@ -229,9 +233,17 @@ XV. Permisionario: El titular de un permiso;
 
 XVI. Permiso: El acto jurídico administrativo en virtud del cual la autoridad competente autoriza de forma temporal a una persona física o jurídico colectiva para la prestación de un servicio público o especial de transporte;
 
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2022)</small>
+
+XVI bis. Plataforma tecnológica: Son infraestructuras digitales que permiten que dos o más grupos interactúen, por lo tanto, participan como intermediarios a través de la cual se contratan servicios de transporte privado y se proporciona exclusivamente mediante aplicaciones o contenidos en formato digital a través de internet, incluso pueden no requerir una intervención humana, es decir, pueden estar automatizados;
+
 > <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-XVI bis. Secretaría: La Secretaría de Infraestructura, Conectividad y Movilidad;
+XVI ter. Secretaría: La Secretaría de Infraestructura, Conectividad y Movilidad;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2022)</small>
+
+XVI quater. Servicio de transporte privado: Aquel cuyo objeto es trasladar personas y sus cosas en vehículos con una capacidad de cinco personas incluyendo al conductor que previamente se contrata mediante el uso de plataformas tecnológicas, caracterizándose por prestar y ofertar dicho servicio exclusivamente a través de las infraestructuras digitales mencionadas;
 
 XVII. Sistema Estatal de Ciclovías: conjunto de redes de ciclovías interconectadas entre sí e integradas con otros medios de transporte;
 
@@ -585,7 +597,11 @@ XVI. Realizar todas aquellas acciones tendientes a que el servicio público y el
 
 XVII. Efectuar la revisión y control administrativo de los expedientes de las concesiones y permisos del servicio público y especial de transporte; y
 
-XVIII. Las demás que le señalen otras disposiciones legales o reglamentarias aplicables.
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2022)</small>
+
+XVIII. Llevar el registro y control de los vehículos destinados a la prestación del servicio de transporte privado en el ámbito de su competencia; y
+
+XIX. Las demás que le señalen otras disposiciones legales o reglamentarias aplicables.
 
 Facultades de los jefes de oficina regional de movilidad
 
@@ -609,9 +625,13 @@ Los inspectores de movilidad tendrán las siguientes facultades:
 
 I. Inspeccionar, verificar y vigilar los servicios público y especial de transporte de competencia estatal;
 
-II. Levantar las boletas de infracción y actas de inspección en el ámbito de su competencia; y
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2022)</small>
 
-III. Las demás contenidas en esta Ley y su reglamento.
+II. Inspeccionar y vigilar el servicio de transporte privado.
+
+III. Levantar las boletas de infracción y actas de inspección en el ámbito de su competencia; y
+
+IV. Las demás contenidas en esta Ley y su reglamento.
 
 Facultades de la Policía Estatal de Caminos y Tránsito Municipal
 
@@ -1463,7 +1483,9 @@ La unidad administrativa de transporte y los municipios podrán incentivar la fo
 
 ### Capítulo I. Disposiciones comunes a los servicios Público y Especial de Transporte
 
-Servicios público y especial de transporte
+> <small>(REFORMADO SU ACÁPITE, P.O. 3 DE JUNIO DE 2022)</small>
+
+Servicios de transporte
 
 ###### Artículo 93.
 
@@ -1609,7 +1631,7 @@ Explotación de la concesión
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2021)
 
-## TÍTULO SÉPTIMO. SERVICIOS PÚBLICO Y ESPECIAL DE TRANSPORTE
+## TÍTULO SÉPTIMO. SERVICIOS PÚBLICO Y ESPECIAL DE TRANSPORTE Y SERVICIO DE TRANSPORTE PRIVADO MEDIANTE PLATAFORMA TECNOLÓGICA
 
 ### Capítulo V. Permisos
 
@@ -1655,11 +1677,83 @@ Subsidios o estímulos fiscales en materia de ecología
 
 La autoridad estatal y municipal con base a la Ley de Cambio Climático para el Estado de Guanajuato y sus Municipios, fijará los actos admirativos de carácter general, que permitan establecer los subsidios o estímulos fiscales a favor de quienes utilicen vehículos eléctricos e híbridos, a fin de reducir con ello significativamente los gases de efecto invernadero.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2022)</small>
+
 ## TÍTULO OCTAVO. REGISTRO ESTATAL DE CONCESIONES Y PERMISOS DEL TRANSPORTE
 
-### Capítulo VI. Servicios Conexos del Transporte
+### Capítulo V-A. Servicio de Transporte Privado mediante Plataforma Tecnológica
 
-Definición
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2022)</small>
+
+Registro de vehículos del servicio de transporte privado
+
+Artículo 212 bis. Para el registro de vehículos destinados a la prestación del servicio de transporte privado, además de cumplir los requisitos señalados en el artículo 70 de la presente ley, los propietarios de los vehículos a registrar o cualquier persona a quien le otorguen carta poder deberán acompañar los documentos siguientes:
+
+I. Solicitud firmada por el propietario;
+
+II. Identificación oficial vigente del propietario del vehículo, así como en su caso, de los conductores;
+
+III. Acreditar la adhesión a la plataforma tecnológica mediante la cual se ofrecerá el servicio de transporte privado;
+
+IV. Licencia de conducir tipo A o B vigente del conductor;
+
+V. Constancia de conducción segura, emitida por los centros autorizados por la unidad administrativa de transporte para el conductor;
+
+VI. Tarjeta de circulación;
+
+VII. Revista físico mecánica aprobada y vigente, emitida por los centros autorizados por la unidad administrativa de transporte;
+
+VIII. Póliza de seguro expedida por aseguradoras autorizadas, la cual deberá atender las coberturas que para ello prevé esta Ley y su respectivo Reglamento;
+
+IX. Registro Federal de Contribuyentes y Registro Estatal de Contribuyentes expedidos a favor del propietario;
+
+X. Comprobante de pago anual del derecho por la emisión del código de respuesta rápida; y,
+
+XI. Convenio entre el propietario y los conductores del vehículo.
+
+Una vez cumplidos con los requisitos anteriores, la Unidad Administrativa de Transporte otorgará el código de respuesta rápida, el cual tendrá una vigencia anual conforme al ejercicio fiscal correspondiente.
+
+El procedimiento de registro se realizará de conformidad con el reglamento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2022)</small>
+
+Artículo 212 ter. El registro se cancelará por la Unidad Administrativa de Transporte, por las siguientes causales:
+
+I. Acumular tres infracciones por la prestación del servicio en el término de un año por medios diversos a la plataforma; y,
+
+II. El propietario o conductor utilice el vehículo registrado en hechos que violenten el orden público o estén tipificados como delitos de carácter intencional.
+
+La cancelación de registro sólo podrá ser declarada por la Unidad Administrativa de Transporte, debiendo respetar la garantía de audiencia y debido proceso a la persona afectada, de acuerdo con el siguiente procedimiento:
+
+a) Levantará acta que dé constancia de la existencia de alguna de las causales de cancelación de registro;
+
+b) Notificación de acta a titular de registro;
+
+c) Otorgamiento de un plazo no menor a quince días hábiles al titular de registro para que aporte lo que a su derecho convenga.
+
+d) Abrir audiencia para desahogar pruebas y recibir alegatos.
+
+e) Emitir resolución en un término no mayor de 10 días hábiles a partir del cierre de período de instrucción.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2022)</small>
+
+Obligaciones
+
+Artículo 212 quater. Los propietarios del vehículo del servicio de transporte privado y sus operadores, según corresponda, tendrán las obligaciones siguientes:
+
+I. Mantener vigentes los requisitos establecidos en el artículo 212 bis;
+
+II. Portar de manera visible en el vehículo el Código de Respuesta Rápida;
+
+III. Acreditar el uso de la plataforma registrada al momento de la inspección, verificación y vigilancia del servicio prestado;
+
+IV. Ofrecer el servicio con la utilización de la plataforma tecnológica;
+
+V. No utilizar elementos que obstruyan la visibilidad al interior del vehículo; y
+
+VI. Las demás que les establezca las disposiciones normativas aplicables correspondientes.
+
+En caso de que los prestadores del servicio de transporte privado no cumplan con las obligaciones a su cargo, se harán acreedores a las sanciones señaladas en la presente Ley, los reglamentos respectivos y demás disposiciones aplicables, sin perjuicio de la responsabilidad en que pudieran incurrir.
 
 ###### Artículo 121.
 
@@ -1671,9 +1765,17 @@ I. Servicio público de transporte: aquel que se lleva a cabo de manera continua
 
 II. Servicio especial de transporte: aquel que sin tener las características propias del servicio público de transporte, se presta para satisfacer una necesidad específica de determinado sector de la población, el cual puede ser gratuito o remunerado. Para la prestación de dicho servicio se requiere del permiso otorgado por la Secretaría de Gobierno.
 
-En ambos casos, los vehículos en los que se preste el servicio de transporte de que se trate incluirá el servicio del operador, que podrá ser el concesionario, el permisionario o quien se contrate para su operación.
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2022)</small>
 
-Queda prohibida la renta de vehículo con operador, o la contratación de operador con vehículo, sin contar con la concesión o permiso correspondiente, así como cualquier otra forma de prestación de servicio que no reúna las características establecidas en la presente Ley.
+III. Servicio de transporte privado: Aquel cuyo objeto es trasladar personas y sus cosas en vehículos con una capacidad de cinco personas incluyendo al conductor que previamente se contrata mediante el uso de plataformas tecnológicas, caracterizándose por prestar y ofertar dicho servicio exclusivamente a través de las infraestructuras digitales mencionadas.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2022)</small>
+
+Por lo que respecta a las fracciones I y II el servicio de transporte de que se trate incluirá el servicio del operador que podrá ser el concesionario, el permisionario o quien se contrate para su operación y queda prohibida la renta de vehículo con operador, o la contratación de operador con vehículo, sin contar con la concesión o permiso correspondiente, así como cualquier otra forma de prestación de servicio que no reúna las características establecidas en la presente Ley.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2022)</small>
+
+Tratándose de la fracción III, el conductor podrá ser el propietario o quien este determine para su operación.
 
 Modalidades del servicio público de transporte
 
@@ -1713,7 +1815,7 @@ I. Escolar;
 
 II. De personal;
 
-III. Ejecutivo;
+III. (DEROGADA, P.O. 3 DE JUNIO DE 2022)
 
 IV. Accesorio;
 
@@ -1749,9 +1851,11 @@ La cantidad de personas o carga que pueden ser transportadas en los vehículos d
 
 Vida útil
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2022)</small>
+
 ###### Artículo 127.
 
-Para efectos de la prestación de los servicios público y especial de transporte se considerará que los vehículos cumplen con vida útil de conformidad con la siguiente tabla:
+Para efectos de la prestación de los servicios público, especial y de servicio de transporte privado, se considerará que los vehículos cumplen con vida útil de conformidad con la siguiente tabla:
 
 I. Servicio público de transporte:
 
@@ -1767,9 +1871,13 @@ Escolar Hasta diez años Hasta cinco
 
 De personal Hasta diez años Hasta cinco
 
-Ejecutivo Hasta seis años Hasta dos
+> <small>(DEROGADO, P.O. 3 DE JUNIO DE 2022)</small>
 
 Accesorio Hasta diez años Hasta cinco
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2022)</small>
+
+III. Servicio de transporte privado la antigüedad del modelo del vehículo será hasta seis años pudiéndose prorrogar hasta cuatro.
 
 Los vehículos destinados al servicio especial de transporte en las modalidades de emergencia y funerario podrán ser de cualquier modelo siempre y cuando se encuentren en condiciones físico-mecánicas adecuadas para la prestación del servicio correspondiente.
 
@@ -1801,9 +1909,11 @@ Todo trámite que realicen las sociedades o asociaciones ante las autoridades es
 
 Enlace y fusión de vehículos
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2022)</small>
+
 ###### Artículo 130.
 
-Los concesionarios y permisionarios del servicio público y especial de transporte, a excepción de las modalidades de alquiler sin ruta fija «Taxi», ejecutivo y de carga en general, podrán, previa autorización de la autoridad competente y de conformidad con los reglamentos que deriven de esta Ley podrán enrolar, fusionar y combinar sus vehículos con el objeto de optimizar el servicio en beneficio de la población y de los propios concesionarios, sin que ello implique el aumento de los vehículos autorizados.
+Los concesionarios y permisionarios del servicio público y especial de transporte, a excepción de las modalidades de alquiler sin ruta fija «Taxi» y de carga en general, podrán, previa autorización de la autoridad competente y de conformidad con los reglamentos que deriven de esta Ley enrolar, fusionar y combinar sus vehículos con el objeto de optimizar el servicio en beneficio de la población y de los propios concesionarios, sin que ello implique el aumento de los vehículos autorizados.
 
 Coadyuvancia en materia de movilidad
 
@@ -1851,15 +1961,19 @@ Cuando el concesionario o permisionario no preste de manera directa el servicio 
 
 En todos los casos, los operadores deberán haber aprobado los cursos y programas de capacitación permanente que impartirá la unidad administrativa de transporte o el ente reconocido por éste, en los términos del reglamento de la presente Ley.
 
+> <small>[N. DE E. VÉASE LA LITERALIDAD DEL P.O. 3 DE JUNIO DE 2022, PÁGINAS 8 Y 9]</small>
+
 Identificación de los vehículos
 
 ###### Artículo 136.
 
 Los concesionarios y permisionarios de los servicios público y especial de transporte deberán incorporar en los vehículos con los que se presta el servicio, el diseño que para tal efecto definan las autoridades estatales y municipales, según corresponda, en el que se deberán incluir los colores distintivos, números económicos y los demás elementos que especifiquen los reglamentos respectivos.
 
-En el caso del servicio especial de transporte ejecutivo solo aplicará la portación de un tarjetón de identificación dentro del vehículo, cuyas características y dimensiones serán establecidas en el permiso respectivo.
-
 El número económico es la identificación alfanumérica vinculada directamente a la concesión que se compone de dos o más letras que identifican la clave o abreviatura del municipio del estado de Guanajuato, para el cual está otorgada la concesión o permiso, seguida del número consecutivo de la misma. De igual forma tratándose de servicios de transporte en zonas metropolitanas o conurbadas, las autoridades respectivas podrán celebrar acuerdos para definir la nomenclatura de las unidades para su mejor identificación.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2022)</small>
+
+Para el control del servicio de transporte privado, la unidad administrativa de transporte expedirá un código de respuesta rápida que permitirá verificar si el vehículo se encuentra registrado, así como la plataforma a través de la cual presta el servicio.
 
 Publicidad y promoción
 
@@ -1877,11 +1991,9 @@ Representación de concesionarios y permisionarios
 
 Los concesionarios y permisionarios del servicio público y especial del transporte y sus servicios conexos podrán ser representados mediante poder otorgado en escritura pública en el que conste la facultad para actos de administración, mismo que deberá estar inscrito en el Registro Estatal de Concesiones y Permisos del Transporte o ante la autoridad municipal según corresponda.
 
-### Capítulo VII. Tarifas
+### Capítulo VI. Servicios Conexos del Transporte
 
-Facultad de fijar la tarifa
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+Definición
 
 ###### Artículo 139.
 
@@ -1987,9 +2099,11 @@ La prestación del servicio público de transporte turístico se podrá ofrecer 
 
 Servicio público de transporte de alquiler sin ruta fija «Taxi»
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2022)</small>
+
 ###### Artículo 152.
 
-El servicio público de transporte de alquiler sin ruta fija «Taxi» es aquel que tiene por objeto trasladar personas y sus cosas en vehículos con capacidad de cinco pasajeros incluido el operador, que se caracteriza por no estar sujeto a itinerarios, rutas, frecuencias ni horarios fijos.
+El servicio público de transporte de alquiler sin ruta fija «Taxi» es aquel que tiene por objeto trasladar personas y sus cosas en vehículos con capacidad de cinco pasajeros incluido el operador, que se puede prestar y ofertar por cualquier medio y se caracteriza por no estar sujeto a itinerarios, rutas, frecuencias ni horarios fijos.
 
 Forma de prestación
 
@@ -2103,9 +2217,11 @@ Para la mejor operación del servicio en las zonas conurbadas, los municipios in
 
 En caso de controversia entre municipios, la unidad administrativa de transporte podrá actuar como instancia conciliadora en términos de la fracción VI bis del artículo 17 de esta Ley. En caso de no lograr un acuerdo o mecanismos de regulación entre las autoridades municipales involucradas, o bien en caso de incumplimiento a los acuerdos que al respecto se hayan celebrado, el Estado a través de la unidad administrativa de transporte, se hará cargo de la regulación del servicio conforme a lo establecido en este artículo.
 
-### Capítulo VIII. Obligaciones de los Concesionarios y Permisionarios y Prohibiciones de los Operadores
+### Capítulo VII. Tarifas
 
-Obligaciones
+Facultad de fijar la tarifa
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 166.
 
@@ -2117,47 +2233,35 @@ Servicio especial de transporte de personal
 
 El servicio especial de transporte de personal, es el que se presta a quienes se desplazan de su lugar de origen a sus centros de trabajo y viceversa, o cuando su destino se relacione con fines laborales. Este transporte se prestará en vehículos cerrados con capacidad mínima de ocho pasajeros, podrá estar sujeto a itinerario y horario determinado y contará con las características que al respecto establezca el reglamento de la Ley.
 
-Servicio especial de transporte ejecutivo
-
 ###### Artículo 168.
 
-El servicio especial de transporte ejecutivo es aquel cuyas especificaciones o características físicas son superiores en términos de lujo y comodidad a los vehículos destinadas (sic) a la prestación del servicio público de transporte de alquiler sin ruta fija “taxi” y cuyo objeto es trasladar personas y sus cosas en vehículos con operador yque (sic) previamente se contrata mediante el uso de plataformas tecnológicas y sus dispositivos electrónicos, caracterizándose por no estar sujeto a itinerarios, rutas, frecuencias ni horarios fijos.
-
-Limitación en la prestación del servicio
+(DEROGADO, P.O. 3 DE JUNIO DE 2022)
 
 ###### Artículo 169.
 
-Queda prohibido a los prestadores del servicio de transporte especial ejecutivo ofrecer servicio de forma libre y directa en la vía pública.
+(DEROGADO, P.O. 3 DE JUNIO DE 2022)
 
 Número de permisos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2022)</small>
 
 ###### Artículo 170.
 
-En el otorgamiento de permisos la unidad administrativa de transporte evitará prácticas monopólicas, para el caso específico del servicio especial de transporte ejecutivo, cada persona física tendrá derecho a ser titular de un permiso y las personas jurídico colectivas de hasta diez.
+En el otorgamiento de permisos la unidad administrativa de transporte evitará prácticas monopólicas.
 
 El número de vehículos que ampara el permiso que se otorgue a una persona física o jurídica colectiva, será sólo un vehículo.
 
-Cobertura del servicio
-
 ###### Artículo 171.
 
-El servicio especial ejecutivo podrá prestarse en todas las vías públicas del Estado, sin importar el punto de origen o de destino, debiendo contar el permisionario con un lugar sede, como principal asiento de la prestación del servicio, en cualquiera de los municipios de la entidad.
-
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
-
-Obligación de presentar información
+(DEROGADO, P.O. 3 DE JUNIO DE 2022)
 
 ###### Artículo 172.
 
-El otorgamiento del permiso para el servicio especial de transporte ejecutivo obliga a su permisionario a presentar en todo momento a la unidad administrativa de transporte la información técnica que le sea requerida respecto del servicio brindado, la empresa operadora de la aplicación tecnológica que tenga implementada para tal efecto, la cual deberá presentar en el formato, mecanismo o medio de acceso que para tal efecto le sea especificado por la unidad administrativa de transporte.
-
-Suspensión del permiso
+(DEROGADO, P.O. 3 DE JUNIO DE 2022)
 
 ###### Artículo 173.
 
-La prestación de este servicio en contravención a lo establecido en los artículos anteriores, dará lugar a la suspensión del permiso por sesenta días, sin perjuicio de su revocación en caso de reincidencia. En términos del Reglamento de la presente Ley.
+(DEROGADO, P.O. 3 DE JUNIO DE 2022)
 
 Servicio especial de transporte accesorio
 
@@ -2197,15 +2301,15 @@ Los prestadores del servicio especial de transporte funerario deberán registrar
 
 Optimización de vehículos
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2022)</small>
+
 ###### Artículo 178.
 
-Los vehículos destinados a la prestación del servicio especial de transporte, podrán utilizarse para realizar otros servicios especiales de transporte, a excepción del servicio especial de transporte ejecutivo, mediante la emisión de los permisos correspondientes, de conformidad con lo que establezca el reglamento de la Ley.
+Los vehículos destinados a la prestación del servicio especial de transporte podrán utilizarse para realizar otros servicios especiales de transporte, mediante la emisión de los permisos correspondientes, de conformidad con lo que establezca el reglamento de la Ley.
 
-### Capítulo IX. Medicina del Transporte
+### Capítulo VIII. Obligaciones de los Concesionarios y Permisionarios y Prohibiciones de los Operadores
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
-
-Medicina del Transporte
+Obligaciones
 
 ###### Artículo 179.
 
@@ -2487,9 +2591,11 @@ VI. Por el rescate de la concesión; y
 
 VII. Por renuncia expresa y por escrito del titular de la concesión.
 
-### Capítulo X. Inspección
+### Capítulo IX. Medicina del Transporte
 
-Inspección y consecuencias
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Medicina del Transporte
 
 ###### Artículo 201.
 
@@ -2579,33 +2685,9 @@ II. A quien por disposición de autoridad jurisdiccional se le conceda la posibi
 
 III. Estos permisos y autorizaciones tendrán una vigencia máxima de sesenta días, renovables en tanto subsista la situación que originó su expedición y se tramitará de acuerdo al procedimiento que para el efecto se establezca en el reglamento respectivo.
 
-Procedimiento para obtener el permiso
-
 ###### Artículo 210.
 
-El procedimiento para obtener el permiso del servicio especial de transporte ejecutivo, se llevará a cabo de la siguiente manera:
-
-I. El interesado en la prestación del servicio presentará una propuesta que contenga las características de operación del mismo, cantidad y características técnicas de los vehículos, de organización, la información relativa a la o las plataformas tecnológicas en las cuales se establecerá el mecanismo de contratación y gestión del servicio de conformidad con las características que se establezcan en el reglamento de la Ley;
-
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
-
-II. La unidad administrativa de transporte determinará sobre la necesidad del servicio, mediante el estudio técnico que se efectúe con base en los datos de que disponga; y
-
-III. En caso de ser procedente la emisión del permiso, el solicitante cubrirá los derechos fiscales correspondientes, así como los requisitos siguientes:
-
-a) Licencia tipo "B"; y
-
-b) Vehículo tipo sedán o superior, con cuatro o cinco puertas.
-
-El vehículo en el que se prestara el servicio especial de transporte ejecutivo, deberá contar con aire acondicionado, frenos antibloqueo, cinturón de seguridad para todos los pasajeros y bolsas de aire.
-
-Los anteriores requisitos se cubrirán de conformidad con el reglamento de la presente Ley.
-
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
-
-Dichos permisos se expedirán hasta por cuatro años, pudiendo ser renovados de conformidad con la necesidad y el resultado de la evaluación del servicio en los términos que establezca esta Ley y su reglamento. La unidad administrativa de transporte emitirá los permisos individualizados para cada unidad de conformidad con lo señalado en el reglamento de la Ley.
-
-El procedimiento para obtener el permiso para las demás modalidades del servicio especial de transporte, se establecerá en el reglamento de la Ley.
+(DEROGADO, P.O. 3 DE JUNIO DE 2022)
 
 Permiso de depósito de vehículos
 
@@ -2621,17 +2703,17 @@ Obligaciones de los permisionarios
 
 Los permisionarios están obligados a cumplir todas y cada una de las condiciones especificadas en el permiso, así como las disposiciones que establezca esta Ley y los reglamentos respectivos o las que determinen las autoridades de movilidad y de transporte correspondientes, para cada tipo y modalidad de servicio, en la inteligencia de que su incumplimiento podrá dar motivo a la cancelación de los mismos.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN , P.O. 3 DE JUNIO DE 2022)</small>
+
+### Capítulo X. Inspección
+
+Inspección y consecuencias
+
 ### Capítulo XI. Infraestructura del Servicio Público de Transporte
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Infraestructura
-
-### Capítulo Único. Disposiciones Generales
-
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
-
-Objeto del registro
 
 ###### Artículo 213.
 
@@ -2797,9 +2879,11 @@ Infraestructura del Transporte
 
 Además de los servicios conexos regulados en el presente capítulo, la Secretaría o la autoridad municipal en el ámbito de sus competencias o de forma coordinada, podrán establecer regulación específica para los servicios, actividades e instalaciones vinculadas con la infraestructura necesaria o vinculada a la prestación de las diferentes modalidades de los servicios público y especial de transporte, ya sea que se ejecuten de manera directa por los concesionarios y permisionarios o por un tercero.
 
-### Capítulo Único. Sanciones
+### Capítulo Único. Disposiciones Generales
 
-Facultad para sancionar
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Objeto del registro
 
 ###### Artículo 228.
 
@@ -2877,9 +2961,9 @@ Tarifa provisional
 
 A efecto de mantener la operatividad de los servicios públicos de transporte la unidad administrativa de transporte podrá, en su caso, establecer tarifas provisionales a dichos servicios brindando certeza a los usuarios y prestadores, de conformidad con los análisis técnicos de que disponga.
 
-### Capítulo Único. Medios de Defensa y Responsabilidad
+### Capítulo Único. Sanciones
 
-Quejas y denuncias
+Facultad para sancionar
 
 ###### Artículo 236.
 
@@ -2931,9 +3015,11 @@ Los vehículos destinados a la prestación del servicio público de transporte u
 
 Prohibiciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2022)</small>
+
 ###### Artículo 237.
 
-Los operadores de vehículos de los servicios público y especial de transporte, tendrán prohibido lo siguiente:
+Los operadores de vehículos de los servicios público y especial de transporte y de transporte privado tendrán prohibido lo siguiente:
 
 I. Abastecer de combustible los vehículos con pasajeros en su interior;
 
@@ -2958,6 +3044,16 @@ X. Negar el servicio en razón de género, apariencia física, discapacidad y, e
 XI. Realizar, alentar, permitir y participar en conductas que constituyan violencia contra las mujeres y niñas; y
 
 XII. Las demás que les establezca esta Ley, los reglamentos respectivos y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2022)</small>
+
+Tratándose del servicio de transporte privado, no le serán aplicables las fracciones VII y VIII del presente artículo.
+
+### Capítulo Único. Medios de Defensa y Responsabilidad
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2022)</small>
+
+Quejas y denuncias
 
 ###### Artículo 238.
 
@@ -3107,15 +3203,27 @@ Para la aplicación de las sanciones se deberá tomar en consideración los elem
 
 Margen para multas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2022)</small>
+
 ###### Artículo 251.
 
-La aplicación de la multa, se estará a lo establecido por el reglamento respectivo, el cual la fijará dentro de un margen de una a quinientas veces la Unidad de Medida y Actualización, atendiendo al tipo de falta y su gravedad, las circunstancias de su comisión y las personales del infractor.
+La aplicación de la multa se estará a lo establecido por el reglamento respectivo, el cual la fijará dentro de un margen de una a quinientas veces el valor diario de la Unidad de Medida y Actualización, atendiendo al tipo de falta y su gravedad, las circunstancias de su comisión y las personales del infractor.
 
-La multa aplicable por la prestación del servicio público de transporte y el servicio especial de transporte ejecutivo, sin contar con la concesión o el permiso correspondiente, será de doscientas a setecientas cincuenta veces la Unidad de Medida y Actualización, independientemente de las sanciones que correspondan por el delito cometido en su caso.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2022)</small>
+
+La multa aplicable por la prestación del servicio público de transporte, sin contar con la concesión o el permiso correspondiente, será de doscientas a setecientas cincuenta veces el valor diario de la Unidad de Medida y Actualización, independientemente de las sanciones que correspondan por el delito cometido en su caso.
 
 > <small>(F. DE E., P.O. 12 DE ABRIL DE 2016)</small>
 
 Para el caso de que se sorprenda prestando el servicio especial de transporte sin contar con el permiso correspondiente se le aplicará una multa de cien a quinientas veces la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2022)</small>
+
+Tratándose del servicio de transporte privado, sin registro se aplicará una multa de trescientas a seiscientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2022)</small>
+
+Tratándose del servicio de transporte privado, fuera de plataforma, se aplicará una multa de ciento cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
 Pago de multa
 
@@ -3229,7 +3337,9 @@ Cuando un operador sea sorprendido prestando los servicios público o especial d
 
 En caso de utilizar en la carrocería colores, números económicos y cualquier otra característica propia de los vehículos concesionados o permisionados, el infractor deberá, en su caso, despintarlo previo a su liberación por orden de la autoridad que corresponda, sin perjuicio de cubrir las multas que procedan.
 
-La persona que preste el servicio público de transporte en la modalidad de alquiler sin ruta fija «Taxi» o el servicio de transporte especial ejecutivo sin concesión o permiso, quedará imposibilitada permanentemente para obtener una concesión o permiso.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2022)</small>
+
+La persona que preste el servicio público de transporte en la modalidad de alquiler sin ruta fija «Taxi» sin concesión, quedará imposibilitada permanentemente para obtener una concesión.
 
 Competencia para imponer sanciones
 
@@ -3291,7 +3401,7 @@ Las autoridades competentes deberán impedir en todo momento el tránsito de los
 
 ###### Artículo 272.
 
-Las autoridades en materia de transporte facilitarán los medios para la presentación de quejas y denuncias cuando los concesionarios, permisionarios y prestadores de los servicios conexos incumplan con las disposiciones que señala la presente Ley y los reglamentos que deriven de ella, sin perjuicio de la responsabilidad civil o penal en que se incurra.
+Las autoridades en materia de transporte facilitarán los medios para la presentación de quejas y denuncias cuando los concesionarios, permisionarios, prestadores de los servicios conexos y prestadores del servicio de transporte privado incumplan con las disposiciones que señala la presente Ley y los reglamentos que deriven de ella, sin perjuicio de la responsabilidad en que se incurra.
 
 Recurso de inconformidad
 
@@ -3594,3 +3704,27 @@ Artículo Séptimo. Las secretarías de Gobierno y de Seguridad Pública podrán
 Asignación de recursos presupuestales
 
 Artículo Octavo. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos para la asignación de recursos presupuestales a la Secretaría de Seguridad Pública, para la adecuada operación de las atribuciones, funciones y servicios que se le asignan en los términos del presente Decreto.
+
+P.O. 3 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 75 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Plazo para la implementación del sistema de registro
+
+Artículo Segundo. La Dirección General de Transporte de la Secretaría de Gobierno, contará con un término de hasta ciento ochenta días a partir de la entrada en vigencia del presente Decreto para la implementación del sistema de registro.
+
+Plazo para adecuar el reglamento de la Ley
+
+Artículo Tercero. El Ejecutivo del Estado contará con un término de noventa días a partir de la entrada en vigencia del presente Decreto para la adecuación del Reglamento de la ley.
+
+Transición del servicio especial de transporte ejecutivo al servicio de transporte privado
+
+Artículo Cuarto. Los permisos del servicio especial de transporte ejecutivo que a la entrada en vigencia del presente Decreto estén vigentes, transitarán al servicio de transporte privado, y tendrán a salvo el pago de los derechos por el período que reste de su vigencia. Para tal efecto, la Dirección General de Transporte emitirá los lineamientos correspondientes.
+
+Asignación de recursos presupuestales
+
+Artículo Quinto. La Secretaría de Finanzas, Inversión y Administración realizará las adecuaciones presupuestales que resulten necesarias a fin de dotar de los recursos humanos, materiales y financieros que permitan el cumplimiento del presente Decreto.
