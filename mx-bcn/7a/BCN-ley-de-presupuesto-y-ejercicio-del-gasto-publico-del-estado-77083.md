@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-y-ejercicio-del-gasto-publico-del-estado-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2022-05-09"
+last_updated: "2022-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2022.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
@@ -231,9 +231,9 @@ De las Leyes de Ingresos.
 
 Las Iniciativas de las Leyes de Ingresos deberán ser presentadas:
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2022)</small>
 
-I. La del Estado, al Ejecutivo del Estado, por conducto de la Secretaría de Hacienda, para ser enviada al Congreso del Estado para su revisión y aprobación, en su caso, a más tardar el 1o. de diciembre del ejercicio fiscal inmediato anterior al que corresponde la Iniciativa, o hasta el 10 de diciembre cuando inicie su encargo Constitucional el Ejecutivo del Estado.
+I. La del Estado, al Ejecutivo del Estado, por conducto de la Secretaría de Hacienda, para ser enviada al Congreso del Estado para su revisión y aprobación, en su caso, a más tardar el 1o. de diciembre del ejercicio fiscal inmediato anterior al que corresponde la Iniciativa.
 
 > <small>(REFORMADA, P.O. 12 DE MARZO DE 2021)</small>
 
@@ -451,9 +451,9 @@ En caso de que los ingresos ordinarios y los extraordinarios no sean suficientes
 
 Los Proyectos de Presupuestos de Egresos deberán ser presentados oportunamente:
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2022)</small>
 
-I. Al Congreso del Estado, por conducto de la Secretaría de Hacienda, el Proyecto de Presupuesto de Egresos de la Administración Pública Centralizada del Poder Ejecutivo del Estado para su revisión y aprobación, en su caso, y los Presupuestos de Egresos aprobados por el Ejecutivo del Estado a las Entidades Paraestatales, a más tardar el 1o. de diciembre del año inmediato anterior al que correspondan, o hasta el 10 de diciembre en los años que inicie el período constitucional del Ejecutivo del Estado;
+I. Al Congreso del Estado, por conducto de la Secretaría de Hacienda, el Proyecto de Presupuesto de Egresos de la Administración Pública Centralizada del Poder Ejecutivo del Estado para su revisión y aprobación, en su caso, y los Presupuestos de Egresos aprobados por el Ejecutivo del Estado a las Entidades Paraestatales, a más tardar el 1o. de diciembre del año inmediato anterior al que correspondan;
 
 II. A los Ayuntamientos, por conducto de las Tesorerías Municipales, los Proyectos de Presupuestos de Egresos correspondientes a la Administración Pública Centralizada del Municipio y a las Entidades Paramunicipales, para su revisión y aprobación, en su caso, a más tardar el día 1o. de noviembre del año inmediato anterior al que correspondan.
 
@@ -1492,3 +1492,11 @@ P.O. 9 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 97 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 62, INCISO E) DE LA LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California."
+
+P.O. 3 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 103 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 12 Y 34 DE LA LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
