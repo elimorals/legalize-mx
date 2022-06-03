@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2022-05-27"
+last_updated: "2022-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE JUNIO DE 2022.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -2366,7 +2366,7 @@ Las penas previstas para los artículos 189 y 189 bis se agravarán hasta en una
 
 ### CAPÍTULO ÚNICO. DISCRIMINACIÓN
 
-> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE JUNIO DE 2022)</small>
 
 ### CAPÍTULO II. TORTURA
 
@@ -2660,19 +2660,33 @@ II Contraiga matrimonio con una persona casada, si conocía el impedimento al ti
 
 ###### ARTÍCULO 206.
 
-Se impondrán de uno a tres años de prisión o de veinticinco a cien días de trabajo en favor de la comunidad y multa de cincuenta a doscientos días al que, por razón de edad, sexo, estado civil, embarazo, raza, procedencia étnica, idioma, religión, ideología, orientación sexual, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, características físicas, discapacidad o estado de salud o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas:
+Se impondrá de uno a tres años de prisión o de veinticinco a cien días de trabajo en favor de la comunidad y multa de cincuenta a doscientas veces la unidad de medida y actualización al que, por razón de edad, sexo, estado civil, embarazo, raza, procedencia étnica, idioma, religión, ideología, orientación sexual, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, características físicas, discapacidad o estado de salud o cualquier otro que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas:
 
-I.- Provoque o incite al odio o a la violencia;
+> <small>(REFORMADA, G.O. 3 DE JUNIO DE 2022)</small>
+
+I.- Provoque, incite y apoye a difundir acciones basadas en odio, violencia o discriminación contra cualquier persona o grupo de personas.
+
+> <small>(REFORMADA, G.O. 25 DE ENERO DE 2006)</small>
 
 II.- Niegue a una persona un servicio o una prestación a la que tenga derecho. Para los efectos de esta fracción, se considera que toda persona tiene derecho a los servicios o prestaciones que se ofrecen al público en general;
 
+> <small>(REFORMADA, G.O. 25 DE ENERO DE 2006)</small>
+
 III.- Veje o excluya a alguna persona o grupo de personas; o
+
+> <small>(REFORMADA, G.O. 25 DE ENERO DE 2006)</small>
 
 IV.- Niegue o restrinja derechos laborales.
 
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
 Al servidor público que, por las razones previstas en el primer párrafo de este artículo, niegue o retarde a una persona un trámite, servicio o prestación al que tenga derecho, se le aumentará en una mitad la pena prevista en el primer párrafo del presente artículo, y además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por el mismo lapso de la privación de la libertad impuesta.
 
-No serán consideradas discriminatorias todas aquellas medidas tendientes a la protección de los grupos socialmente desfavorecidos.
+> <small>(REFORMADO, G.O. 3 DE JUNIO DE 2022)</small>
+
+No serán consideradas discriminatorias todas aquellas medidas tendientes a la protección de los grupos de atención prioritaria.
+
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
 
 Este delito se perseguirá por querella.
 
@@ -6293,3 +6307,11 @@ G.O. 27 DE MAYO DE 2022.
 Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 3 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICAN LOS PÁRRAFOS PRIMERO Y TERCERO, ASI COMO LA FRACCIÓN I DEL ARTÍCULO 206 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO. - Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México para su conocimiento y difusión.
+
+SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
