@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-151624"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-10-09"
-last_updated: "2022-05-07"
+last_updated: "2022-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2022.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE COLIMA EL 7 DE MAYO DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2022.
 
 Reglamento publicado en la Edición Ordinaria del Periódico Oficial del Estado de Colima, el sábado 9 de octubre de 2021.
 
@@ -1369,6 +1367,10 @@ Se celebrarán en los días y horas en que sean convocadas y podrán ser diferid
 
 Las sesiones del Congreso serán en general públicas, únicamente serán secretas cuando se conozcan los supuestos previstos por el artículo 106 de la Ley, mismas que se sujetarán a las prescripciones y procedimientos señalados por dicho numeral.
 
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2022)</small>
+
+Todas las sesiones del Pleno se deberán interpretar simultáneamente en Lengua de Señas Mexicanas (sic), en términos de lo previsto en el artículo 105 de la Ley.
+
 ###### Artículo 104.
 
 Serán sesiones ordinarias las que se celebren durante los períodos ordinarios de sesiones. Se verificarán los días que se convoquen por la Mesa Directiva y durarán el tiempo necesario para despachar los asuntos incluidos en el orden del día.
@@ -2456,3 +2458,9 @@ P.O. 7 DE MAYO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación, de conformidad con lo establecido en el artículo 3 de la Ley Orgánica del Poder Legislativo del Estado.
 
 SEGUNDO. Una vez aprobado el presente Decreto, deberá ordenarse su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 4 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 96.- POR EL QUE SE ADICIONAN LOS PÁRRAFOS CUARTO Y QUINTO DEL ARTÍCULO 105 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA Y SE ADICIONA EL PÁRRAFO CUARTO DEL ARTÍCULO 103 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
