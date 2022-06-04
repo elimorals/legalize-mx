@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "2022-03-26"
+last_updated: "2022-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -518,6 +518,10 @@ Para que los permisos o licencia se concedan, es requisito previo la solicitud p
 Durante su embarazo, las mujeres no realizarán trabajos que exijan un esfuerzo considerable o signifiquen un peligro para su salud, en relación con la gestación. Gozarán de cuarenta y cinco días de descanso antes de la fecha que aproximadamente se fije para el parto, y cuarenta y cinco días más después del mismo. Durante estos períodos percibirán el sueldo íntegro que les corresponde.
 
 Durante la lactancia, las madres trabajadoras tendrán derecho a dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2022)</small>
+
+De igual forma tratándose de mujeres o personas menstruantes trabajadoras que se rijan bajo la presente ley, y hayan sido diagnosticadas con dismenorrea, acreditando dicho padecimiento mediante certificado médico expedido por Médico especialista en Ginecología adscrito a Institución Pública de Salud, podrán acceder a un permiso con goce de sueldo, durante los días que determine el certificado que les sea imposible acudir, por los síntomas propios de esa patología.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2019)</small>
 
@@ -2022,3 +2026,11 @@ QUINTO. De conformidad con el segundo transitorio del decreto 09, por el que se 
 SEXTO. Cuando la Ley refiera al cargo de Secretaría General de Acuerdos se entenderá al cargo de la Secretaría de Acuerdos que corresponda.
 
 SÉPTIMO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
+
+P.O. 4 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 95.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE COLIMA Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 54 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto, se sujetarán a la disponibilidad presupuestaria que a afecto se determine en el Ejercicio Fiscal 2023.
