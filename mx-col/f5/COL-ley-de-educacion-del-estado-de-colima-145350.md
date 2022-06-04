@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-145350"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-25"
-last_updated: "2022-04-16"
+last_updated: "2022-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145350&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el miércoles 25 de noviembre de 2020.
 
@@ -819,7 +819,9 @@ VIII. La promoción de estilos de vida saludables, la educación para la salud, 
 
 IX. El fomento de la igualdad de género para la construcción de una sociedad justa e igualitaria;
 
-X. La educación sexual integral y reproductiva que implica el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2022)</small>
+
+X. La educación sexual integral y reproductiva que implica el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes, de las infecciones de transmisión sexual y la educación menstrual.
 
 XI. La educación socioemocional;
 
@@ -1056,6 +1058,14 @@ Medidas para preservar la integridad física, psicológica y social del educando
 3. En caso de que los docentes, el personal que labora en los planteles educativos, así como las autoridades educativas, tengan conocimiento de la comisión de algún hecho que la ley señale como delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
 
 4. Cuando exista ausentismo del educando por cinco días consecutivos o siete acumulados en un mes, sin que exista justificación por escrito de madres y padres de familia o tutores, o quienes ejerzan la patria potestad, las autoridades educativas escolares de las escuelas públicas y privadas del tipo básico informarán a la autoridad educativa estatal, la cual emitirá una Alerta Temprana y será remitida a las Defensorías Municipales para la Protección de Niñas, Niños y Adolescentes para los efectos correspondientes.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2022)</small>
+
+5. La autoridad educativa estatal adoptará e implementará las facilidades necesarias, a fin de que, las mujeres o personas menstruantes estudiantes que hayan sido diagnosticadas con dismenorrea, previa acreditación mediante comprobante médico emitido por Médico especialista en Ginecología adscrito a Institución Pública de Salud, puedan ausentarse del aula sin que ello represente alguna afectación posterior en su evaluación escolar.
+
+> <small>[N. DE E. PERTENECE AL PUNTO 5, P.O. 4 DE JUNIO DE 2022]</small>
+
+Debiendo el Centro Educativo al que asistan observar la viabilidad para recibir las clases de forma virtual y/o realizar la entrega de trabajos a través de plataformas digitales y/o aplicar exámenes en la misma modalidad, cuando éstas concurran en las fechas en que sea necesario el ausentarse.
 
 ###### Artículo 80.
 
@@ -1530,6 +1540,10 @@ XV. Promover medidas para facilitar y garantizar la incorporación y permanencia
 XVI. Proporcionar a los educandos los libros de texto gratuitos y materiales educativos impresos o en formatos digitales para la educación básica, garantizando su distribución, y
 
 XVII. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia.
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2022)</small>
+
+XVIII. Desarrollará programas con perspectiva de género, para otorgar productos adecuados para la gestión menstrual, tales como, toallas sanitarias desechables y de tela, tampones, copas menstruales o cualquier otro bien destinado a la gestión menstrual, facilitando de forma gradual y progresiva de acuerdo con la suficiencia presupuestal, el acceso gratuito a los productos de gestión menstrual para niñas, mujeres y personas menstruantes.
 
 ###### Artículo 113.
 
@@ -2164,3 +2178,11 @@ P.O. 16 DE ABRIL DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO. La Secretaría de Educación y Cultura del Gobierno del Estado de Colima dispondrá las medidas que considere necesarias y suficientes para su cumplimiento, así como para hacer una amplia difusión del contenido de este Decreto.
+
+P.O. 4 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 95.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE COLIMA Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 54 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA”]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto, se sujetarán a la disponibilidad presupuestaria que a afecto se determine en el Ejercicio Fiscal 2023.
