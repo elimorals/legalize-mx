@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-familia-para-el-estado-de-sonora-70504"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-15"
-last_updated: "2021-10-21"
+last_updated: "2022-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE JUNIO DE 2022.
 
 Código publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 15 de octubre de 2009.
 
@@ -219,7 +219,7 @@ En los casos de embriaguez, drogadicción, impotencia o enfermedad incurable y t
 
 ###### Artículo 24.
 
-Para que la mujer pueda contraer nuevo matrimonio dentro de los trescientos días de disuelto el anterior, sólo se requiere certificación médica oficial de que no se encuentra embarazada, excepto cuando haya sido declarada causante del divorcio y no pueda contraer matrimonio en el término de dos años. Si violando esta condición contrae matrimonio y se produce el embarazo dentro de los trescientos días, la paternidad se determinará mediante la prueba biológica.
+(DEROGADO, B.O. 6 DE JUNIO DE 2022)
 
 ### CAPITULO IV. DE LOS DERECHOS Y OBLIGACIONES QUE NACEN DEL MATRIMONIO
 
@@ -1019,9 +1019,17 @@ II.- El modo en que se subvencionarán las necesidades de los hijos durante el p
 
 III.- Designación del cónyuge que continuará habitando el domicilio conyugal, en su caso;
 
-IV.- La cantidad que, a título de alimentos, un cónyuge deba pagar al otro durante el procedimiento y después de ejecutoriada la sentencia y la forma de hacer el pago o bien, la manifestación expresa de que ambos cónyuges quedarán exentos de toda obligación a este respecto, en caso de que así se convenga; y
+> <small>(REFORMADA, B.O. 6 DE JUNIO DE 2022)</small>
 
-V.- La forma de administrar los bienes de la sociedad conyugal legal, durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio, en los términos del artículo siguiente.
+IV.- La cantidad que, a título de alimentos, un cónyuge deba pagar al otro durante el procedimiento y después de ejecutoriada la sentencia y la forma de hacer el pago o bien, la manifestación expresa de que ambos cónyuges quedarán exentos de toda obligación a este respecto, en caso de que así se convenga;
+
+> <small>(REFORMADA, B.O. 6 DE JUNIO DE 2022)</small>
+
+V.- La forma de administrar los bienes de la sociedad conyugal legal, durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio, en los términos del artículo siguiente, y;
+
+> <small>(ADICIONADA, B.O. 6 DE JUNIO DE 2022)</small>
+
+VI.- Señalar la compensación, a que tendrá derecho el cónyuge que durante el matrimonio se haya dedicado preponderantemente al desempeño del trabajo del hogar, y en su caso, al cuidado de los hijos, la cual no podrá ser superior al cincuenta por ciento del valor de los bienes que hubieran adquirido durante la vigencia del matrimonio sin importar el régimen por el cual se haya celebrado. Para efectos de lo anterior, no obstará que hubiera realizado otras labores profesionales. El Juez de lo Familiar resolverá atendiendo a las circunstancias especiales de cada caso.
 
 ###### Artículo 145.
 
@@ -1547,9 +1555,11 @@ El hijo de una mujer casada que legalmente se repute como hijo del marido, no po
 
 El desconocimiento de un hijo por parte del marido o sus herederos, se hará por demanda en forma ante el Juez competente. El desconocimiento practicado de otra manera no producirá efecto legal alguno.
 
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2022)</small>
+
 ###### Artículo 226.
 
-Si después de disuelto el matrimonio la mujer contrae nuevas nupcias dentro de los trescientos días, sin haber demostrado que no estaba embarazada, la filiación de los hijos nacidos después de celebrado el nuevo matrimonio se establecerá por cualquier tipo de prueba, incluyendo las de carácter biológico.
+Si después de disuelto el matrimonio la mujer contrae nuevas nupcias dentro de los trescientos días, la filiación de los hijos nacidos después de celebrado el nuevo matrimonio, se establecerá por cualquier tipo de prueba, incluyendo las de carácter biológico.
 
 ###### Artículo 227.
 
@@ -4098,3 +4108,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 6 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 37, QUE REFORMA LAS FRACCIONES IV Y V Y ADICIONA UNA FRACCIÓN VI, TODAS DEL ARTÍCULO 144 DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 6 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 39, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
