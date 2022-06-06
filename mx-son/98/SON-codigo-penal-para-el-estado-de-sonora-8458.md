@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2021-12-30"
+last_updated: "2022-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,25 +21,45 @@ state: "SON"
 ---
 # CODIGO PENAL PARA EL ESTADO DE SONORA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO
 
-CÓDIGO PENAL PARA EL ESTADO DE SONORA
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2020.
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE DICIEMBRE DE 2021.
+Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el 14 de Agosto de 1980.
 
-Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
+EL C. DR. SALVADOR GAMIZ FERNANDEZ GOBERNADOR CONSTITUCIONAL SUBSTITUTO del ESTADO LIBRE y SOBERANO de DURANGO, a sus habitantes, sabed:
 
-EL C. LIC. MANLIO FABIO BELTRONES RIVERA, Gobernador Constitucional del Estado Libre y Soberano de Sonora, a sus habitantes, sabed:
+Que la H. Legislatura del mismo se ha servido dirigirme el siguiente:
 
-Que el H. Congreso del Estado, se ha servido dirigirme la siguiente L E Y:
+Con fecha 24 de Junio de 1980, el Ejecutivo del Estado envió a esta H. LIV Legislatura Local, Iniciativa de Decreto, la cual fué turnada a los CC. Diputados Jesús Ibarra Rayas, Licenciado Octaviano Rendón Arce y Andrés Ramos Alvarado, miembros de la Comisión de Hacienda; así como a los CC. Diputados Licenciado Antonio Arreola Valenzuela, Profesor Maximiliano Arreola Santillán y Profesor Elías Vázquez Payán, miembros de la Comisión de Legislación, quienes emitieron su dictamen favorable con base en los siguientes:
 
-N U M E R O 386
+CONSIDERANDOS
 
-EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, DECRETA LA SIGUIENTE
+PRIMERO.- Que son varios los propósitos que alientan el orígen de la Iniciativa, pero todos se sustentan de manera fundamental en la premisa que le impone la coyuntura de nuestro tiempo al Estado y a sus diversos órdenes de Gobierno; organizarse más y mejor para ser más eficiente y eficaz en el compromiso vital de servir a la colectividad.
 
-L E Y
+SEGUNDO.- Que esta idea, que informa al gran esfuerzo de congruencia emprendido por el Gobierno de la República en su proceso de Reforma Administrativa, ha sido incorporado recientemente por esta H. Representación Popular el establecer en la Fracción III Artículo 70 de la Carta Constitucional del Estado que el Ejecutivo debe: "coordinar, en base a los principios de la Ciencia de la Administración Pública, en forma permanente y continua los recursos humanos, materiales, técnicos y financieros del Estado con el fin de lograr la mayor eficiencia y eficacia en la producción de bienes y servicios inherentes al beneficio económico, social y cultural del pueblo...", de donde resulta la incuestionable obligación de procurar que la estructura operativa de que se vale el Estado para darle actualidad y sustancia al precepto se complemente con el marco jurídico que convalide las acciones del Gobierno.
 
-CÓDIGO PENAL PARA EL ESTADO DE SONORA
+TERCERO.- Que desde el mismo mirador debe considerarse la necesidad imperiosa de abandonar usos y prácticas administrativas tradicionalistas y obsoletas, y por lo mismo propiciatorias de caos y confusión en áreas tan importantes de la actividad pública como son la planeación y control presupuestal, el ejercicio del gasto público y el manejo de la contabilidad gubernamental.
+
+CUARTO.- Que al margen de la falta de desarrollo pleno de la potencialidad económica de la Entidad, es evidente que la carencia de instrumentos jurídicos y administrativos adecuados han acentuado la penuria e insuficiencia del Erario Público convirtiéndolas en una determinante que limita las posibilidades de inducir, mediante el gasto público, una motivación de la economía regional.
+
+QUINTO.- Que es este uno de los objetivos medulares de la Iniciativa; orientar el Gasto Público de tal manera que en su ejercicio se conjuguen las decisiones de la política estatal con las acciones programáticas que se emprendan para buscar el desarrollo general del Estado.
+
+SEXTO.- Que la implementación de Presupuestos que se formulen en base a programas, que señalen objetivos, metas y unidades responsables de su ejecución, es otra de las innovaciones que incluye la Iniciativa, ya que resulta imprescindible en los tiempos actuales, en que el Gasto Público Estatal puede alcanzar la cifra de $2,000 millones de pesos, que se optimice el quehacer gubernamental para darle cabida a la planeación y jerarquización en la consecución del bien común, asignando los recursos del Estado con toda responsabilidad y conciencia de lo que se pretende realizar.
+
+SEPTIMO.- Que con esa intención se introduce en la Iniciativa disposiciones que obligan a las Dependencias del Estado a presentar sus anteproyectos de presupuesto ajustándose a programas, encargándose a la Secretaría de Desarrollo Económico, Programación y Presupuesto la tarea de fijar sus montos y los recursos para su finanziamiento (sic). Se establece, asímismo, una nueva forma de presentación del Presupuesto Anual de Egresos ante esta H. Legislatura, de tal suerte que con los documentos e informes que le presente el Ejecutivo resulte más comprensible y objetivo el Proyecto y pueda constituír su aprobación un verdadero acto de colaboración entre Poderes y una sanción nacida de la plena convicción Legislativa que le compete a la representación de la Soberanía Popular.
+
+OCTAVO.- Que se señalan en el cuerpo de la Iniciativa los requisitos fundamentales para ejercer Gasto Público, limitándose la inclusión de partidas de ampliación automáticos, que en otro tiempo han constituído la verdadera fuente del déficit presupuestal al ejercerse incontroladamente en perjuicio del equilibrio entre ingreso y egreso; y se fijen los límites temporales para que se puedan hacer pagos de conceptos correspondientes a ejercicios anteriores, sujetándose a su previa y oportuna contabilización, para lo cual las Dependencias quedarán obligadas a informar antes del día último de Febrero de cada año sobre el monto y características de su pasivo circulante al fin del ejercicio fiscal anterior.
+
+NOVENO.- Que por lo que respecta a la contabilidad gubernamental que hasta ahora sóla (sic) ha sido productora de datos históricos y de cuentas públicas de difícil interpretación que vuelven nugatoria su función de seguridad y respaldo al comportamiento financiero, presupuestal y patrimonial del Estado, se busca convertirla en un verdadero instrumento para administrar, mediante la uniformidad de sus registros, catálogos de cuentas, etc., de manera que se facilte (sic) el estudio y consulta de los datos relativos a activos, pasivos, ingresos, costos, gastos, avances en la ejecución de programas, y todo lo que se vincule con el ejercicio del Gasto Público.
+
+Con base en los anteriores considerandos esta H. LIV Legislatura del Estado, expide el siguiente:
+
+DECRETO NUMERO 205
+
+LA H. LIV LEGISLATURA del ESTADO LIBRE y SOBERANO de DURANGO, a nombre del Pueblo DECRETA: la siguiente:
+
+LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO del ESTADO
 
 # LIBRO PRIMERO
 
@@ -47,247 +67,171 @@ CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
 ###### ARTICULO 1o.
 
-Este Código se aplicará por los delitos cometidos en el Estado, que sean de la competencia de los tribunales del mismo.
+El Presupuesto, la Contabilidad y el Gasto Público Estatal se norman y regulan por las disposiciones de esta Ley, la que será aplicada por el Ejecutivo del Estado a través de la Secretaría de Finanzas.
 
 ###### ARTICULO 2o.
 
-Este Código se aplicará, asimismo, por los delitos que, siendo competencia de los tribunales del Estado de Sonora, se inicien o consumen en otro Estado de la República, en el Distrito Federal o en cualquier parte del territorio nacional, cuando produzcan o se pretenda que tengan efectos dentro del Estado.
+El Gasto Público Estatal comprende las erogaciones que en concepto de gasto corriente, inversión física, inversión financiera, así como pagos de pasivo o Deuda Pública que deban realizar:
 
-> <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+I.- El Poder Legislativo
+
+II.- El Poder Judicial
+
+III.- El Ejecutivo del Estado
+
+IV.- Las Secretarías, Direcciones y Departamentos Administrativos y demás dependencias del Ejecutivo.
+
+V.- Los Organismos descentralizados del Gobierno del Estado.
+
+VI.- Las Empresas en que el Gobierno del Estado tenga participación mayoritaria.
+
+VII.- Los fideicomisos en que el fideicomitente sea el Gobierno del Estado o alguna de las Entidades mencionadas en las Fracciones V y VI.
 
 ###### ARTICULO 3o.
 
-El presente código se aplicará, por los delitos cometidos en alguna entidad federativa, en los casos siguientes:
+Para efectos de esta Ley se designará genéricamente como "Entidades" a las mencionadas en el Artículo anterior salvo mención expresa.
 
-I. Por los delitos que produzcan efectos dentro del territorio del Estado;
-
-II. Por los delitos cuya ejecución se inicie fuera del territorio del Estado, si se consuman dentro del mismo; y
-
-III. Por los delitos permanentes o continuados y se sigan cometiendo dentro del territorio del Estado.
-
-En los casos comprendidos en las fracciones II y III de este artículo se aplicará el código cuando el imputado se encuentre en el territorio del mismo o no se haya ejercitado en su contra acción penal en otra entidad federativa cuyos tribunales sean competentes, por disposiciones análogas a las de este código, para conocer del delito.
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 4o.
 
-Cuando se cometa un delito no previsto en este Código, pero si en una ley especial, se aplicará ésta, observándose las disposiciones conducentes de este Código.
+La programación del Gasto Público Estatal se basará en las políticas y planes Estatales de Desarrollo Económico y Social que formule el Ejecutivo del Estado por conducto de la Secretaría de Finanzas.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ## TITULO PRIMERO. RESPONSABILIDAD PENAL
 
-### CAPITULO I. REGLAS GENERALES SOBRE DELITOS Y RESPONSABILIDAD
+### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
-###### ARTICULO 5º.
+###### ARTICULO 5o.
 
-Delito es la acción u omisión típica, antijurídica y culpable sancionada por las leyes penales.
+Las actividades de programación, presupuestación, control y evaluación del Gasto Público Estatal estarán a cargo de la Secretaría Finanzas, quien dictará las disposiciones procedentes para el eficaz cumplimiento de sus funciones.
 
-En los delitos de comisión por omisión se considerará que el resultado es consecuencia de una conducta omisiva cuando se determine que el que omitió impedirlo tenía el deber de actuar para ello, derivado de una ley, de un contrato o de su propio actuar precedente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
-
-El delito atendiendo a su momento de consumación, puede ser:
-
-I.- Instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos sus elementos constitutivos;
-
-II.- Permanente o continuo, cuando la ejecución se prolonga en el tiempo; y
-
-III.- Continuado, cuando con unidad de propósito delictivo y pluralidad de conductas se viola el mismo precepto legal.
-
-> <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 6o.
 
-Los delitos pueden ser:
+Las Secretarías u otras dependencias administrativas de rango similar orientarán y coordinarán la planeación, programación, presupuestación, control y evaluación del Gasto de las Entidades que queden ubicadas dentro del sector que esté bajo su coordinación, de acuerdo con la Ley Orgánica de la Administración Pública Estatal.
 
-I.- Dolosos; y
+Para este efecto, y de acuerdo con las normas que fije la Secretaría de Finanzas, se procurará que cada Entidad de las mencionadas en el párrafo precedente cuente con una unidad que realice las funciones señaladas.
 
-II.- Culposos,
-
-El delito es doloso cuando se quiere o acepta el resultado.
-
-Obra culposamente la persona que produce el resultado típico, que no previó siendo previsible, o previó confiado en que no se produciría, en virtud de la violación a un deber de cuidado, que debía y podía observar según las circunstancias y condiciones personales.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 7o.
 
-La comprobación de las modalidades de la responsabilidad penal y los grados de la culpabilidad se determinarán mediante la valoración que conforme a derecho se haga de las pruebas dentro del procedimiento. En caso que se determine la existencia de dolo, no se considerará extinguida tal forma de culpabilidad, aunque se pruebe lo siguiente:
+Sólo el Ejecutivo del Estado, por conducto de la Secretaría de Finanzas podrá autorizar la participación estatal en las empresas, sociedades o asociaciones civiles o mercantiles, ya sea en su creación, para aumentar su capital o patrimonio o adquiriendo todo o parte de éstos.
 
-I.- Que creía que era legítimo el fin que se propuso;
-
-II.- Que erró sobre la persona o cosa en que se propuso cometer el delito; y
-
-> <small>(REFORMADA, B.O. 11 DE OCTUBRE DE 2012)</small>
-
-III.- Que obró con el consentimiento de la víctima u ofendido.
-
-> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
-
-Cuando alguien por error, cometa un delito en perjuicio de persona distinta de aquélla contra la que iba dirigida su acción u omisión, no serán puestas a su cargo las circunstancias que deriven de la cualidad de la víctima u ofendido, siendo en cambio valoradas, para los efectos de la sanción, las circunstancias subjetivas en las que deliberó y ejecutó el delito, así como las cualidades inherentes a la persona contra la que dirigía su conducta.
-
-> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 8o.
 
-La responsabilidad penal no pasa de la persona o bienes de los imputados, excepto en los casos especificados por la ley.
+Sólo se podrán conceder créditos para financiar programas incluidos en los Presupuestos de las Entidades a que se refieren las Fracciones de la III a la VII del Artículo 2o., de esta Ley, cuando previamente hayan sido aprobados por la Secretaría de Finanzas al estudiar los programas financieros anuales.- Estos créditos se concertarán y contratarán por conducto de la Secretaría de Finanzas, en los términos de la Ley de Deuda Pública para el Estado.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 9o.
 
-Cuando algún miembro o representante de una persona moral, de una sociedad, corporación o empresa de cualquier clase, con excepción de las instituciones del Estado, cometa un delito con los medios que para tal objeto las mismas entidades le proporcionen, de modo que resulte cometido a nombre o bajo el amparo de la representación social o a beneficio de ella, el juez podrá, en los casos exclusivamente señalados por la ley, decretar en la sentencia, cuando lo estime necesario para la seguridad pública, las medidas correspondientes que la misma ley autorice, sin perjuicio de la responsabilidad de los que hubieren incurrido en ella.
+La Secretaría de Finanzas estará obligada a proporcionar, a solicitud de la Legislatura del Estado, todos los datos estadísticos e información general que contribuya a una mejor comprensión de las proposiciones contenidas en el proyecto de Presupuesto de Egresos del Estado.
 
-### CAPITULO II. TENTATIVA
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
-> <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+### CAPITULO II. DE LOS PRESUPUESTOS DE EGRESOS
 
 ###### ARTICULO 10.
 
-Existe tentativa punible, cuando la resolución de cometer un delito se exterioriza realizando, en parte o totalmente, los actos ejecutivos que deberían producir el resultado u omitiendo los que deberían evitarlo, si por causas ajenas a la voluntad del sujeto activo no se llega a la consumación, pero se pone en peligro el bien jurídico tutelado.
+Los casos de duda que surjan con motivo de la aplicación de esta Ley serán resueltos exclusivamente para efectos administrativos por la Secretaría de finanzas.
 
-Si el sujeto se desiste voluntariamente o de propio impulso de la ejecución o impide la consumación del delito, no se impondrá pena o medida de seguridad alguna por lo que a éste se refiere, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismos delitos.
+### CAPITULO III. DEL EJERCICIO DEL GASTO PUBLICO ESTATAL
 
-El desistimiento del autor no beneficia a los partícipes. Para que sea válido el desistimiento de los partícipes o coautores, se requerirá que hayan neutralizado el sentido de su aportación al hecho.
-
-### CAPITULO III. PERSONAS RESPONSABLES DE LOS DELITOS
-
-> <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 11.
 
-Formas de intervención.
+El Gasto Público Estatal se basará en presupuestos que se formarán con apoyo en programas que señalen objetivos, metas y unidades responsables de su ejecución. Los presupuestos se elaborarán para cada año calendario y se fundarán en costos.
 
-Las personas pueden intervenir en la realización de un delito, conforme a las siguientes disposiciones:
-
-I. Es autor directo: quien lo realice por sí;
-
-II. Es coautor: quien lo realice conjuntamente con otro u otros autores;
-
-III. Es autor mediato: quien lo lleve a cabo sirviéndose de otro como instrumento;
-
-IV. Es partícipe inductor: quien determine dolosamente al autor a cometerlo;
-
-V. Es partícipe cómplice: quien dolosamente preste ayuda o auxilio al autor para su comisión; y
-
-VI. Es partícipe encubridor: quien con posterioridad a su ejecución, auxilie al autor por acuerdo anterior al delito.
-
-Quienes únicamente intervengan en la planeación o preparación del delito, así como quienes determinen a otro o le presten ayuda o auxilio, sólo responderán si el hecho antijurídico del autor alcanza al menos el grado de tentativa del delito que se quiso cometer.
-
-La instigación y la complicidad sólo son admisibles en los delitos dolosos.
-
-En la aplicación de las reglas establecidas en este Código, y para los efectos de la responsabilidad penal, toda persona se presumirá inocente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 12.
 
-Si varias personas toman parte en la realización de un delito determinado y alguna de ellas comete un delito distinto, sin previo acuerdo con las otras, todas serán responsables de la comisión del nuevo delito, salvo que concurran los requisitos siguientes:
+La Secretaría de Finanzas al examinar los proyectos de presupuestos cuidarán que simultáneamente se definan el tipo y fuente de recursos para su financiamiento.
 
-I.- Que el nuevo delito no sirva de medio adecuado para cometer el principal;
+### CAPITULO V. DE LOS MUNICIPIOS DEL ESTADO
 
-II.- Que aquél no sea una consecuencia necesaria o natural de éste, o de los medios concertados;
-
-III.- Que no hayan estado presentes en la ejecución del nuevo delito, o que habiéndolo estado, hayan hecho cuanto estaba de su parte para impedirlo; y
-
-IV.- Que no hayan sabido antes que se iba a cometer el nuevo delito.
-
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE OCTUBRE DE 2005)</small>
-
-### CAPITULO IV. CAUSAS DE EXCLUSIÓN DEL DELITO
-
-> <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 13.
 
-Causas de exclusión del delito.
+El presupuesto de Egresos del Estado será el que se contenga en la Ley de Egresos que anualmente apruebe el Congreso Local, y con base en él se expresarán durante el período de un año a partir del 1o. de Enero, las actividades, las obras y los servicios previstos en los programas a cargo de las entidades que en el propio presupuesto se señalen.
 
-Se entenderá que no hay delito cuando se actualice alguna causa de atipicidad, de justificación o de inculpabilidad.
-
-Son causas de inculpabilidad: El error de prohibición invencible, el estado de necesidad disculpante, la inimputabilidad, y la inexigibilidad de otra conducta.
-
-A.- Causas de atipicidad:
-
-I. Ausencia de conducta: La actividad o la inactividad se realice sin intervención de la voluntad del sujeto activo;
-
-II. Falte alguno de los elementos que integran la descripción legal del delito de que se trate;
-
-III. Consentimiento del titular: Se actúe con el consentimiento del titular del bien jurídico afectado o del legitimado legalmente para otorgarlo, siempre y cuando se cumplan los siguientes requisitos:
-
-a).- Que se trate de un bien jurídico disponible;
-
-b).- Que el titular del bien jurídico, o quien esté legitimado para consentir, tenga la capacidad jurídica para disponer libremente del bien; y,
-
-c).- Que el consentimiento sea expreso o tácito y no medie algún vicio del consentimiento.
-
-IV. Error de tipo: Se realice la acción o la omisión bajo un error invencible, respecto de alguno de los elementos que integran la descripción legal del delito de que se trate.
-
-B.- Causas de justificación:
-
-I. Consentimiento presunto. Se presume que hay consentimiento, cuando el hecho se realiza en circunstancias tales que permitan suponer fundadamente que, de haberse consultado al titular del bien o a quien esté legitimado para consentir, éstos hubiesen otorgado el consentimiento;
-
-II. Legítima defensa: Se repela una agresión real, actual o inminente y sin derecho, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa empleada y no medie provocación dolosa suficiente e inmediata por parte del agredido o de su defensor.
-
-> <small>(REFORMADO, B.O. 13 DE JUNIO DE 2019)</small>
-
-Existe presunción legal de defensa legítima, salvo prueba en contrario, por el hecho de causar daño, lesione o incluso se prive de la vida a quien por cualquier medio se introduzca a los límites de un inmueble, sin derecho o sin consentimiento de quien legítimamente sea propietario, posesionario u ocupante, al de su familia, o al de cualquier persona que tenga la obligación de defender, así como al sitio donde se encuentren bienes propios o ajenos respecto de los que exista la misma obligación; o bien, lo encuentre en alguno de aquellos lugares en circunstancias tales que revelen la posibilidad de una agresión.
-
-III. Estado de necesidad justificante: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
-
-IV. Cumplimiento de un deber o ejercicio de un derecho: La acción o la omisión se realicen en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional de la conducta empleada para cumplirlo o ejercerlo.
-
-C.- Causas de inculpabilidad:
-
-I. Error de prohibición invencible: Se realice la acción o la omisión bajo un error invencible, respecto de la ilicitud de la conducta, ya sea porque el sujeto desconozca la existencia de la ley o el alcance de la misma o porque crea que está justificada su conducta;
-
-II. Estado de necesidad disculpante: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
-
-III. Inimputabilidad y acción libre en su causa: Al momento de realizar el hecho típico, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental o desarrollo intelectual retardado, a no ser que el sujeto hubiese provocado su trastorno mental para en ese estado cometer el hecho, en cuyo caso responderá por el resultado típico producido en tal situación. Las acciones libres en su causa culposamente cometidas se resolverán conforme a las reglas generales de los delitos culposos.
-
-IV. Inexigibilidad de otra conducta: En atención a las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al sujeto una conducta diversa a la que realizó, en virtud de no haberse podido conducir conforme a derecho.
-
-Las causas que excluyen el delito se resolverán de oficio, en cualquier estado del proceso.
-
-> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+La Ley Anual de Egresos podrá contener disposiciones para el ejercicio y control del gasto público que no se consignen en esta Ley, pero en ningún caso podrá modificarla disminuyendo sus requisitos.- Los preceptos de este ordenamiento se consideran de aplicación supletoria a la Ley Anual de Egresos.
 
 ###### ARTICULO 14.
 
-Las causas de exclusión del delito se investigarán y estimarán de oficio o a petición de parte, en cualquier estado del procedimiento penal.
+El Presupuesto de Egresos del Estado comprenderá las previsiones de gasto público que habrán de realizar las Entidades a que se refieren las Fracciones I a IV del Artículo 2o.
 
-### CAPITULO V. CONCURSO DE DELITOS
+El Presupuesto de Egresos del Estado comprenderá también, en Capítulo especial, las previsiones de gasto público que habrán de realizar las Entidades señaladas en las Fracciones V a VII del propio Artículo 2o., cuando se determine que sus erogaciones deben incluirse en dicho presupuesto.
 
-> <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2020)</small>
+
+Así mismo, deberá integrar en un capítulo especial las previsiones del gasto público que habrán de realizarse para el logro de la igualdad sustantiva entre mujeres y hombres y la erradicación de la discriminación por condición de género.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 1992)</small>
+
+### CAPITULO VI. DE LAS RESPONSABILIDADES
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 15.
 
-Existe concurso ideal, cuando con una sola acción o una sola omisión se cometen varios delitos. Existe concurso real, cuando con pluralidad de acciones u omisiones se cometen varios delitos.
+Para la formulación del Proyecto de Presupuesto de Egresos del Estado, las Entidades que deben quedar comprendidas en el mismo, elaborarán sus anteproyectos de presupuesto con base en los programas respectivos y los remitirán a la Secretaría de Finanzas, de acuerdo con las normas y plazos que el Ejecutivo establezca por medio de esta Secretaría.
 
-No hay concurso cuando las conductas constituyen un delito continuado o permanente.
+Las proposiciones de las Entidades se remitirán a través y con la conformidad de la Secretaría o Dependencia administrativa que corresponda según su ubicación en la Ley Orgánica de la Administración Pública Estatal.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ### CAPITULO VI. REINCIDENCIA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 16.
+###### ARTICULO 16.
 
-Hay reincidencia siempre que el sentenciado a una pena privativa de libertad, por sentencia firme dictada por cualquier tribunal de la República o del extranjero, cometa un nuevo delito doloso o culposo.
-
-> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
-
-Los antecedentes penales prescribirán, con todos sus efectos, si el sentenciado no incurre en un nuevo ilícito, en un término igual al de la pena impuesta, que no será menor de tres ni mayor de quince años y que se contará a partir del cumplimiento de la sanción o del otorgamiento de cualquier beneficio de libertad.
-
-Cuando el sentenciado se evada, el término a que se refiere el párrafo anterior comenzará a contar desde la prescripción de la pena.
+La Secretaría de Finanzas queda facultada para formular el proyecto de Presupuesto de las Entidades cuando estas no lo presenten en el plazo que les fuera señalado.
 
 ###### ARTICULO 17.
 
-No producen reincidencia:
+El proyecto de Presupuesto de Egresos del Estado se integrará con los documentos que se refieren a:
 
-I.- La sentencia dictada por cualquier tribunal de la República o del extranjero, si el hecho que la motivó no tiene el carácter de delito en la legislación de Sonora o en la Federal;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2020)</small>
 
-II.- Los delitos políticos y culposos;
+I.- Descripción de los programas que sean la base del proyecto, en los que se señalen objetivo, metas y unidades responsables de su ejecución, así como la valuación estimada por programa. Considerando para ello, las erogaciones para la igualdad sustantiva entre mujeres y hombres y la erradicación de la discriminación por condición de género;
 
-III.- Las sentencias que impongan penas de reclusión menores de seis meses.
+II.- Explicación y comentarios de los principales programas y en especial de aquellos que abarquen dos o más ejercicios fiscales.
+
+III.- Estimación de ingresos y proposición de gastos del ejercicio fiscal para el que se propone, con la indicación de los empleos que incluye.
+
+IV.- Ingresos y gastos reales del último ejercicio fiscal.
+
+V.- Estimación de los ingresos y gastos del ejercicio fiscal en turno.
+
+VI.- Situación de la Deuda Pública al fin del último ejercicio fiscal y estimación de la que se tendrá al fin de los ejercicios fiscales en turno e inmediato siguiente.
+
+VII.- La solicitud de endeudamiento neto para el ejercicio fiscal siguiente y el programa financiero respectivo.
+
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 1984)</small>
+
+VIII.- Situación de efectivo disponible al fin último ejercicio fiscal y estimación de lo que se tendrá al fin de los ejercicios fiscales en curso e inmediato siguiente. (sic)
+
+IX.- Comentarios sobre las condiciones económicas, financieras y hacendarias actuales y las que se preveen para el futuro.
+
+X.- En general toda la información que se considere útil para mostrar la proposición en forma clara y completa.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2014)</small>
 
 ###### ARTICULO 18.
 
-Cuando una autoridad solicite informes sobre antecedentes penales de una persona, a los archivos de policía, se le expedirán íntegros. Cuando los pida el interesado, sólo comprenderán las sentencias condenatorias ejecutoriadas, siempre que no haya transcurrido el plazo de prescripción a que se refiere el artículo 16.
+El proyecto del Presupuesto de Egresos del Estado, deberá ser presentado oportunamente al Gobernador del Estado, por la Secretaría de Finanzas y Administración, para ser enviado al Congreso del Estado a más tardar el día treinta de noviembre de cada año inmediato anterior al que corresponde.
 
 ## TITULO SEGUNDO. SANCIONES Y MEDIDAS DE SEGURIDAD
 
@@ -295,83 +239,13 @@ Cuando una autoridad solicite informes sobre antecedentes penales de una persona
 
 ###### ARTICULO 19.
 
-Las sanciones y medidas de seguridad son:
-
-I.- Prisión;
-
-II.- Trabajo en favor de la comunidad, tratamiento en libertad, semilibertad y multa, como sustitutivos de prisión;
-
-III.- Sanción pecuniaria;
-
-IV.- Privación, suspensión o inhabilitación de derechos;
-
-V.- Destitución o suspensión e inhabilitación de funciones o empleos;
-
-VI.- Publicación especial de sentencia;
-
-VII.- Reclusión de personas que sufran un proceso psicopatológico permanente o transitorio que la hagan inimputable;
-
-VIII.- Confinamiento;
-
-IX.- Prohibición de ir a un lugar determinado o de residir en él;
-
-X.- Decomiso de instrumentos, objetos o productos del delito;
-
-XI.- Amonestación;
-
-XII.- Apercibimiento;
-
-XIII.- Caución de no ofender;
-
-XIV.- Vigilancia de la autoridad;
-
-XV.- Decomiso de los bienes correspondientes al enriquecimiento ilícito;
-
-> <small>(REFORMADA, B.O. 22 DE NOVIEMBRE DE 2018)</small>
-
-XVI.- Trabajo en favor de la comunidad;
-
-> <small>(REFORMADA, B.O. 22 DE NOVIEMBRE DE 2018)</small>
-
-XVII.- Tratamiento para quienes tengan el hábito o la necesidad de consumir bebidas alcohólicas;
-
-> <small>(REFORMADA, B.O. 29 DE OCTUBRE DE 2020)</small>
-
-XVIII.- Pérdida de derechos de familia;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 29 DE OCTUBRE DE 2020)</small>
-
-XIX.- El retiro, cancelación, interrupción y/o eliminación de las imágenes, audios o videos expuestos, distribuidos, difundidos, exhibidos, reproducidos, transmitidos, comercializados, ofertados e intercambiados, en medios impresos, plataformas digitales, mensajes de texto y conversaciones, publicaciones en redes sociales, correo electrónico o cualquier dispositivo o medio tecnológico, sin consentimiento de la persona que aparece en los mismos; y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 29 DE OCTUBRE DE 2020)</small>
-
-XIX.- Tratamiento psicoterapéutico integral.
-
-> <small>(ADICIONADO, B.O. 29 DE OCTUBRE DE 2020)</small>
-
-ARTICULO 19 BIS.- La medida prevista en la fracción XIX del artículo 19 de este Código, tendrá una duración máxima de sesenta días naturales, prorrogable hasta por treinta días más.
-
-La víctima u ofendido podrá solicitar la medida ante el Ministerio Público, quien dentro de setenta y dos horas deberá requerir vía electrónica o mediante escrito a las empresas de plataformas digitales, redes sociales o páginas electrónicas, personas físicas o morales, la interrupción, bloqueo, destrucción, o eliminación de imágenes, audios o videos relacionados con la denuncia.
-
-El Ministerio Púbico, el Juez o Tribunal dictará las medidas necesarias para hacer cumplir esta disposición. El juez o Tribunal al momento de resolver el fondo del asunto podrá determinar que la medida a que se refiere el artículo 19 fracción XIX sea de manera definitiva.
+Salvo el Ejecutivo del Estado, las entidades mencionadas en el Artículo 2o., de esta Ley, no podrán hacer gestiones escritas o verbales ante el Congreso con el propósito de modificar el Presupuesto de Egresos.
 
 ###### ARTICULO 20.
 
-En cuanto a las personas jurídicas, sociedad, corporación o empresa de cualquier clase, con excepción de las instituciones del Estado, las sanciones son:
+A toda proposición de aumento o creación de partidas al proyecto de presupuesto, deberá agregarse la correspondiente iniciativa de ingreso, si con tal proposición se altera el equilibrio presupuestal.
 
-I.- Sanción pecuniaria;
-
-II.- Publicación de sentencia;
-
-III.- Suspensión;
-
-IV.- Disolución;
-
-V.- Prohibición de realizar determinadas operaciones o negocios;
-
-VI.- Vigilancia de la autoridad; y
-
-VII.- Decomiso de instrumentos, objetos y productos del delito.
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ### CAPITULO II. PRISION
 
@@ -379,69 +253,61 @@ VII.- Decomiso de instrumentos, objetos y productos del delito.
 
 ###### ARTICULO 21.
 
-La prisión consiste en la privación de la libertad que podrá durar de tres días a setenta años y se compurgarán en los lugares o establecimientos conforme lo que disponga la ley de la materia.
+Las Entidades a que se refieren las Fracciones V a VII del Artículo 2o. de esta Ley, aún cuando no sean incluídas en el Presupuesto de Egresos del Estado, deberán presentar sus proyectos de presupuestos anuales y sus modificaciones en su caso, oportunamente a la Secretaría de Finanzas para su aprobación. Los proyectos se presentarán de acuerdo con las normas que el Ejecutivo establezca por conducto de la mencionada Secretaría.
 
-> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 22.
 
-Los acusados sujetos a prisión preventiva y los sentenciados por delitos políticos, serán recluidos en establecimientos o en departamentos especiales.
+Cuando la aplicación de Leyes, Decretos o Convenios posteriores a la aprobación del Presupuesto implique el desembolso de fondos públicos no previstos, se procederá a gestionar las modificaciones necesarias al propio Presupuesto, para lo cual el Ejecutivo del Estado directamente o a través de la Secretaría de Finanzas promoverá ante el Congreso del Estado las iniciativas correspondientes, en los mismos términos que el Presupuesto anual.
 
 ### CAPITULO III. TRABAJO EN FAVOR DE LA COMUNIDAD, TRATAMIENTO EN LIBERTAD, SEMILIBERTAD Y MULTA, COMO SUSTITUTIVOS DE PRISION
 
 ###### ARTICULO 23.
 
-Son sustitutivos de prisión:
+Los recursos que se obtengan en exceso de lo previsto en el Presupuesto de Egresos del Estado, serán informados al Congreso del Estado, dentro del plazo de 30 días siguientes en que se generen y su asignación se hará a los programas prioritarios que estime conveniente el Poder Ejecutivo, a través de la Secretaría de Finanzas y de Administración, estas transferencias presupuestales no podrán:
 
-I.- El trabajo en favor de la comunidad, que consiste en la prestación de servicios no remunerados, en instituciones públicas educativas o de asistencia social o en instituciones privadas asistenciales. Este trabajo se llevará a cabo en jornadas dentro de períodos distintos al horario de labores que representen la fuente de ingreso para la subsistencia del sujeto y de su familia, sin que pueda exceder de la jornada extraordinaria que determine la ley laboral y bajo la orientación y vigilancia de la autoridad ejecutora.
+I. Transferir recursos destinados a programas prioritarios hacia programas no prioritarios, y
 
-Cada día de prisión será sustituido por una jornada de trabajo en favor de la comunidad.
+II. Disminuir el monto consignado en el decreto de Presupuesto de Egresos para la atención de programas prioritarios, salvo que se hayan concluido las metas.
 
-La extensión de la jornada de trabajo será fijada por el juez, tomando en cuenta las circunstancias del caso.
+Sólo podrá exceptuarse de lo anterior cuando existan situaciones de emergencia provocadas por desastres naturales, plagas, epidemias o cuando se trate alguna situación de emergencia que afecte total o parcialmente el territorio del estado.
 
-Por ningún concepto se desarrollará este trabajo en forma que resulte degradante o humillante para el condenado.
+Lo contenido en este artículo, no exime al Ejecutivo para que informe al Congreso del Estado al rendir la Cuenta Pública.
 
-II.- El tratamiento en libertad, que consiste en la aplicación de las medidas laborales, educativas y curativas, en su caso, autorizadas por la ley y conducentes a la readaptación social del sentenciado, bajo la orientación y vigilancia de la autoridad ejecutora. Su duración no podrá exceder de la correspondiente a la pena de prisión sustituida.
-
-III.- La semilibertad, que implica alternación de períodos de privación de la libertad y de tratamiento en libertad, bajo la orientación y vigilancia de la autoridad ejecutora. Se aplicará, según las circunstancias del caso, del siguiente modo:
-
-a) Externación durante la semana, con reclusión de fin de semana;
-
-b) Salida de fin de semana, con reclusión durante el resto de ésta; o
-
-c) Salida diurna, con reclusión nocturna.
-
-La duración de la semilibertad no podrá exceder de la correspondiente a la pena de prisión sustituida.
-
-> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2017)</small>
-
-IV.- La multa, que implica cubrir a favor del Estado, una suma determinada de dinero que se fijará en Unidades de Medida y Actualización y se cuantificará con base a la Unidad de Medida y Actualización aplicable al momento de imponerse como sustitutivo. Cada día de prisión será sustituido por una Unidad de Medida y Actualización.
-
-Cuando la sentencia determine la sustitución de la pena privativa de libertad por multa, sin perjuicio del pago de ésta, el juez dispondrá la vigilancia de la autoridad, en los términos del artículo 55 de este Código.
+El Gasto Público Estatal deberá ajustarse al monto autorizado para los programas y partidas presupuestales, salvo que se trate de las partidas que se señalen como de ampliación automática en los presupuestos, para aquellas erogaciones cuyo monto no sea posible prever.
 
 ### CAPITULO IV. CONFINAMIENTO
 
 ###### ARTICULO 24.
 
-El confinamiento consiste en la obligación de residir en determinado lugar y de no salir de él. El Ejecutivo del Estado, hará la designación del lugar, conciliando las exigencias de la tranquilidad pública con la salud y las necesidades del sentenciado. Cuando se trate de un delito político, la designación la hará el juez que dicte la sentencia.
+El Gasto Público Estatal deberá ajustarse estrictamente al monto autorizado para los programas y partidas presupuestales. Ningún gasto podrá efectuarse sin que exista partida expresa del presupuesto que lo autorice y que tenga saldo suficiente para cubrirlo.
+
+La inobservancia de lo dispuesto en este Artículo motivará que las erogaciones que se hagan en contravención al mismo, sean a cargo del funcionario que las realice o autorice.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ### CAPITULO V. TRABAJO EN FAVOR DE LA COMUNIDAD
 
 ###### ARTICULO 25.
 
-El trabajo en favor de la comunidad, se impondrá como pena autónoma, en los casos en que este Código, específicamente, así lo establezca.
+Se exceptúan de lo dispuesto en el Artículo anterior las partidas que se consignen como de ampliación automática porque no sea posible preveer su monto, como las relativas a indemnizaciones por despido, pagos de marcha, devoluciones de impuestos y otras de naturaleza similar.
 
-En la imposición de esta sanción, se estará a lo dispuesto por los párrafos primero, tercero y cuarto de la fracción I del artículo 23, debiendo el juzgador, además, tomar en cuenta las circunstancias generales y especiales a que se refieren los artículos 56 y 57.
+En todo caso, para que estas partidas puedan ejercerse se requiere del Acuerdo escrito del Ejecutivo del Estado ordenando su ampliación y de la autorización de pago de la Secretaría de Finanzas.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ### CAPITULO VI. PROHIBICION DE IR A LUGAR DETERMINADO O DE RESIDIR EN EL
 
 ###### ARTICULO 26.
 
-La prohibición de ir a lugar determinado o de residir en él podrá aplicarse, además de las sanciones que correspondan, en los casos de delitos graves, así calificados por la ley.
+La Secretaría de Finanzas, por sí y a través de sus diversas oficinas, efectuará los cobros y los pagos correspondientes a las Entidades previstas en las Fracciones III y IV del Artículo 2o.
 
-> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+Los pagos correspondientes a los Poderes Legislativo y Judicial se efectuarán por conducto de sus respectivas Tesorerías y las Entidades citadas en las Fracciones V y VII del Artículo 2o. recibirán y manejarán sus fondos y harán sus pagos a través de sus propios órganos.
 
-Se dictará de oficio para los sentenciados por los delitos de abuso sexual previsto en el artículo 213, violación previsto en el artículo 218, violación equiparada previsto en el artículo 219, violencia familiar previsto en el artículo 234 A y 234 B y feminicidio previsto en el artículo 263 Bis 1.
+La ministración de los fondos correspondientes serán autorizados en todos los casos por la Secretaría de Finanzas, de conformidad con el Presupuesto de Egresos aprobado por el Congreso.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ### CAPITULO VII. SANCION PECUNIARIA
 
@@ -449,187 +315,99 @@ Se dictará de oficio para los sentenciados por los delitos de abuso sexual prev
 
 ###### ARTICULO 27.
 
-La sanción pecuniaria comprende la multa y la reparación de daño.
+Cuando el Gobernador del Estado lo juzgue procedente dispondrá por conducto de la Secretaría de Finanzas, que las Entidades citadas en las Fracciones V a VII del Artículo 2o. se manejen temporal o permanentemente de manera centralizada en la Secretaría de Finanzas, en los términos que señala el primer párrafo del Artículo 26.
 
-> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 28.
 
-La multa consiste en el pago de una suma de dinero al Estado que se fijará por Unidad de Medida y Actualización. La Unidad de Medida y Actualización será la que determine el Instituto Nacional de Estadística y Geografía de conformidad a los (sic) disposiciones normativas aplicables.
+Todas las Entidades a que se refiere el Artículo 2o. de esta Ley informarán a la Secretaría de Finanzas antes del día último de Febrero de cada año, el monto y características de su deuda pública flotante o pasivo circulante al fin del año anterior.
 
-Para la cuantificación de la multa, tratándose de delitos instantáneos, se tomará en consideración la Unidad de Medida y Actualización vigente, en la fecha en que se hubiere cometido el delito; para los delitos continuados, el vigente en el momento en que se consumó la última conducta y para los delitos permanentes o continuos, el vigente el día en que cesó su consumación.
+###### ARTICULO 29.
 
-En todos aquellos delitos en que no se prevea la pena de multa, se podrá imponer, a juicio del juez o tribunal y atendiendo a las reglas de la individualización de las sanciones, una multa de diez a quinientas Unidades de Medida y Actualización.
+Una vez terminada la vigencia de un Presupuesto de Egresos del Estado sólo procederá hacer pagos con base en él, por los conceptos efectivamente ejercidos en el año que corresponda y siempre que se hubieren contabilizado debida y oportunamente las erogaciones correspondientes, en su caso, se hubiere presentado el informe a que se refiere el Artículo anterior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
-
-###### ARTÍCULO 29.
-
-La reparación de (sic) daño debe ser integral, adecuada, eficaz, efectiva, proporcional a la gravedad del daño causado y a la afectación sufrida, y comprende:
-
-> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
-I.- La restitución de la cosa obtenida por el delito, con sus accesorios y derechos, y si no fuere posible, el pago de su valor actualizado al momento del pago o cumplimiento de lo sentenciado y de acuerdo con las pruebas aportadas por las partes.
-
-Tratándose de bienes fungibles, el juez o tribunal podrá condenar a la entrega de una cosa igual a la obtenida por el delito.
-
-> <small>(REFORMADA, B.O. 20 DE OCTUBRE DE 2005)</small>
-
-II.- La indemnización del daño material causado, incluyendo el pago de los tratamientos curativos y psicológicos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima. Además, el pago a favor del Estado, en los casos en que éste se haya subrogado en los gastos correspondientes.
-
-> <small>(REFORMADA, B.O. 20 DE OCTUBRE DE 2005)</small>
-
-III.- La indemnización del daño moral causado, entendiéndose éste como el sufrimiento que el delito origine a una persona, ya sea en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, o como consecuencia de las alteraciones en su configuración o aspecto físico o mental.
-
-> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
-IV.- El resarcimiento de los perjuicios ocasionados.
-
-> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
-V.- El pago de los gastos que realizaron terceros para auxiliar a la víctima u ofendido.
-
-> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
-VI.- Según corresponda y de manera accesoria a los conceptos anteriores: el pago del 10% del valor de la cosa que se deba restituir; del daño material y/o del moral y/o de los perjuicios causados; en concepto de gastos por su reclamación prejudicial, si la reparación se obtiene antes del proceso. El 15% de los valores, en concepto de gastos por su reclamación judicial, si la reparación se obtiene durante el proceso. El 20% de los valores por igual concepto, si se debe pagar con motivo de la sentencia y en virtud de la gestión durante el proceso. Si sólo se gestiona la liquidación durante la ejecución de sentencia, el 10% de los valores.
-
-> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
-
-Para que proceda lo que se prevé en esta fracción, será necesario que el ofendido o víctima gestionen por si mismo o por conducto de un abogado con título registrado en el Supremo Tribunal de Justicia del Estado, la reparación del daño. Asimismo el Ministerio Publico podrá de oficio gestionar la reparación del daño de la víctima u ofendido.
-
-> <small>(REFORMADO, B.O. 29 DE ENERO DE 2018)</small>
-
-En los supuestos de las fracciones II y III, cuando el responsable de resarcir daños carezca de medios y recursos para realizar el pago correspondiente, el Estado, a través de sus organismos y dependencias competentes, tendrá la obligación de proporcionar a la víctima los tratamientos y cuidados necesarios para su recuperación, en términos de la Ley de Atención y Protección a Víctimas del Delito, la Ley de Prevención y Atención de la Violencia Familiar para el Estado de Sonora, y en su caso, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sonora.
-
-> <small>(REFORMADO, B.O. 29 DE OCTUBRE DE 2020)</small>
-
-ARTICULO 29 BIS.- Salvo prueba en contrario y para los efectos del artículo 31 BIS, se considera que siempre existe daño moral en los delitos siguientes: Violación a la Intimidad contemplado en el artículo 167 BIS de este Código, corrupción de menores de edad e incapaces, utilización de imágenes y/o voces de personas menores de edad para la pornografía, relaciones sexuales remuneradas con personas menores de edad, violación, violencia familiar, acoso sexual, abusos deshonestos, privación ilegal de libertad, homicidio, feminicidio, chantaje, hostigamiento sexual, delitos contra la autoridad, delitos contra la intimidad personal, y fraude familiar.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 30.
 
-Tienen derecho a la reparación de daños, en orden preferente:
+La Secretaría de Finanzas examinará y autorizará en su caso los actos y contratos que impliquen el gasto de fondos públicos, por lo tanto ningún acto o contrato que genere un gasto con cargo al Presupuesto de Egresos del Estado se considerará legalmente celebrado si no ha sido autorizado y registrado por la mencionada Secretaría.
 
-> <small>(REFORMADA, B.O. 11 DE OCTUBRE DE 2012)</small>
-
-I. La víctima o el ofendido, y quienes realicen gastos aplicados directamente a la reparación del daño;
-
-> <small>(REFORMADA, B.O. 11 DE OCTUBRE DE 2012)</small>
-
-II. A falta de la víctima o del ofendido, las personas que siendo o no herederas, dependieron económicamente de la víctima o del ofendido.
-
-En caso de controversia del carácter de dependiente económico, se resolverá por la vía incidental ante el mismo Juez que conozca del asunto;
-
-> <small>(REFORMADA, B.O. 7 DE ABRIL DE 2008)</small>
-
-III. Las personas que sin haber dependido económicamente de la víctima o del ofendido, sean herederas; y
-
-> <small>(REFORMADA, B.O. 7 DE ABRIL DE 2008)</small>
-
-IV. El Estado.
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 31.
 
-La reparación será fijada por los tribunales según los daños y perjuicios que sea preciso reparar, de acuerdo con las pruebas obtenidas en el proceso y atendiendo también, tratándose de daño moral, a la capacidad económica del obligado a pagarla.
+En casos excepcionales y debidamente justificados, la Secretaría de Finanzas podrá autorizar que se celebren contratos de obras públicas, de adquisiciones o de otra índole, que rebasen las asignaciones presupuestarias aprobadas para una (sic) año, pero en estos casos los compromisos excedentes no cubiertos quedarán sujetos, por lo que hace a su ejecución y pago, a la disponibilidad presupuestal de los años subsecuentes.
 
-> <small>(ADICIONADO, B.O. 20 DE OCTUBRE DE 2005)</small>
-
-Si son varios los que reclaman por la misma conducta, el juzgador fijará las indemnizaciones según el grado de afectación de cada cual.
-
-> <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
-
-Para los casos de reparación de daños causados con motivo de delitos culposos, el Ejecutivo del Estado expedirá un reglamento sobre la forma en que debe garantizarse mediante seguro especial y sin perjuicio de las sanciones que dicte la autoridad judicial.
-
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
-ARTICULO 31 BIS.- Salvo en los casos en que la ley presuma el daño moral, éste deberá probarse. El importe de la indemnización se fijará por el juzgador con base en la fracción III del artículo 29 de este Código y las circunstancias personales del ofendido o víctima.
-
-> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
-
-Cuando se esté en el supuesto de presunción del daño moral conforme al artículo 29 Bis, para la cuantificación del mismo se podrá imponer, a juicio del juez o tribunal, atendiendo a las reglas de la individualización de las sanciones y a la capacidad económica del obligado, un monto de cincuenta a mil Unidades de Medida y Actualización que se determinará de acuerdo con lo previsto en el artículo 28 de este Código.
-
-> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
-
-En los casos de presunción legal del daño moral, si son varios los que reclaman por la misma conducta, el juzgador fijará individualmente las indemnizaciones conforme al párrafo anterior.
-
-> <small>(DEROGADO CUARTO PÁRRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 32.
 
-Están obligados a reparar daños y perjuicios:
+El Ejecutivo del Estado por conducto de la Secretaría de Finanzas establecerá las normas generales a que se sujetarán las garantías que deban constituírse a favor de las diversas Entidades en los actos y contratos que celebren.
 
-I.- Los ascendientes, por los delitos cometidos por sus descendientes que se hallaren bajo su patria potestad;
+El propio Ejecutivo determinará las excepciones cuando a su juicio estén justificadas.
 
-II.- Los tutores o curadores o custodios, por los delitos de los incapaces que se hallaren bajo su autoridad;
-
-III.- Los dueños, empresas o encargados de negociaciones o establecimientos mercantiles de cualquier especie, por los delitos que cometan sus obreros, jornaleros, empleados, domésticos o artesanos, con motivo y en el desempeño de sus (sic) servicio; las sociedades o agrupaciones por los delitos de sus socios o gerentes directores, en los mismos términos en que, conforme a la ley, sean responsables por las demás obligaciones que los segundos contraigan.
-
-Se exceptúa de esta regla a las sociedades matrimoniales, pues, en todo caso, cada cónyuge responderá con sus gananciales y con sus bienes propios por la reparación de daños y perjuicios que cause; y
-
-IV.- El Estado y los Municipios, solidariamente, por los delitos dolosos y preterintencionales cometidos por sus servidores públicos, con motivo y en el desempeño de sus funciones, y subsidiariamente, cuando aquéllos, en las mismas circunstancias fueren culposos.
+La Secretaría de Finanzas será la beneficiaria de todas las garantías que se otorguen a favor del Gobierno del Estado, en los casos de las Fracciones I a IV del Artículo 2o. de esta Ley y a ella corresponde conservar la documentación respectiva y, en su caso ejercitar los derechos que correspondan al Gobierno del Estado, a cuyo efecto y con la debida oportunidad se les habrán de remitir las informaciones y documentos necesarios.
 
 ###### ARTICULO 33.
 
-La obligación de reparar el importe de la sanción pecuniaria es preferente y se cubrirá primero que cualquiera otra de las obligaciones personales que se hubieren contraído con posterioridad al delito.
+El Gobierno del Estado no otorgará garantías ni efectuará depósitos para el cumplimiento de sus obligaciones de pago con cargo a su Presupuesto de Egresos.
 
-> <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 34.
 
-La reparación del daño proveniente del delito se exigirá de oficio por el Ministerio Público en los casos en que proceda, sin perjuicio de la intervención que conforme al Código Nacional de Procedimientos Penales corresponda a la victima u ofendido.
+La Secretaría de Finanzas será responsable de que se lleve un registro de personal de las Entidades que realicen gasto público Estatal, y para tal efecto estará facultado para dictar las normas que considere procedentes.
 
-> <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 35.
 
-El importe de la sanción pecuniaria se distribuirá entre el Fondo Estatal de Ayuda, Asistencia y Reparación Integral y la parte ofendida.
+Las remuneraciones fijadas al personal que preste sus servicios al Gobierno del Estado, no podrán ser modificadas si no está previsto en el Presupuesto de Egresos.
 
-Si no se logra hacer efectivo todo el importe de la sanción pecuniaria, se cubrirá, preferentemente, la reparación de daños, en su caso, a prorrata entre las víctimas u ofendidos.
+Cuando alguna Dependencia utilice temporalmente personal ajeno a su ramo, el sueldo del empleado quedará a cargo de la Entidad de que depende permanentemente y si percibe por su comisión alguna otra remuneración, se cubrirá con cargo a la Dependencia que en forma temporal utilice sus servicios.- De estos movimientos deberá darse aviso a la Secretaría de Finanzas, quien resolverá en definitiva lo conducente.
 
-Si la parte ofendida renunciase a la reparación de los daños, el importe se aplicará al Fondo Estatal de Ayuda, Asistencia y Reparación Integral.
-
-> <small>(ADICIONADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
-
-ARTICULO 35 BIS.- La garantía económica que se constituya como medida cautelar, pasará al Fondo Estatal de Ayuda, Asistencia y Reparación Integral, cuando el imputado se sustraiga a la acción de los tribunales o no haga la reclamación conforme a lo establecido en el Código Nacional de Procedimientos Penales. En el primer caso, se conservará el importe de la garantía económica, hasta en tanto se resuelva lo relativo al pago de la reparación de daños.
-
-> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 36.
 
-Cuando varias personas cometan el delito, el juez fijará la multa para cada uno de los sentenciados, según su participación en el hecho que la ley señale como delito y sus condiciones económicas; y en cuanto a la reparación del daño, el importe se fijará teniendo en cuenta las mismas circunstancias y el daño causado por cada sentenciado. La deuda se considerará para su cobro, como mancomunada y solidaria.
+Es incompatible el desempeño de un empleo o comisión remunerado con cargo a alguna partida del Presupuesto, con la percepción por otro empleo o comisión del Gobierno, de los Municipios o, en general de las Entidades que señalan las Fracciones V a VII del Artículo 2o. El Ejecutivo por conducto de la Secretaría de Finanzas, establecerá en forma expresa las modalidades y excepciones a la presente disposición y las sanciones en que incurran los infactores (sic) de ella.
 
-> <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+En todo caso los interesados podrán optar por el empleo o comisión que les convenga.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 37.
 
-El cobro de la sanción pecuniaria se hará en los términos que establece este Código y el Código Nacional de Procedimientos Penales.
+Las Entidades o funcionarios que efectúen Gasto Público Estatal estarán obligados a proporcionar a la Secretaría de Finanzas, la información que les solicite y a permitirle a su personal la práctica de visitas para la comprobación del cumplimiento de las obligaciones derivadas de esta Ley y de las disposiciones expedidas en base a ello.
 
-> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
+
+La misma obligación deberá cumplir cuando se trate de personal destacado directamente por el Ejecutivo para realizar las comprobaciones o verificaciones que se ordenen.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 38.
 
-Si no alcanza a cubrirse la responsabilidad pecuniaria con los bienes del imputado o con el producto de su trabajo, el sentenciado liberado seguirá sujeto a la obligación de pagar la parte o saldo insoluto.
+Para la ejecución del gasto público Estatal las Entidades deberán sujetarse a las previsiones de esta Ley, y con exclusión de las previstas en las Fracciones I y II del Artículo 2o., observar las disposiciones que al efecto expida la Secretaría de Finanzas.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2020)</small>
 
 ###### ARTICULO 39.
 
-La autoridad a quien corresponda el cobro de la sanción pecuniaria podrá fijar plazos para el pago en los términos siguientes:
+La Secretaría de Finanzas deberá presentar directamente al Ejecutivo, un informe trimestral sobre el comportamiento del Presupuesto de Egresos, sobre las erogaciones ejercidas, y sobre el avance de las obras y programas proyectadas directamente del Gobierno del Estado o en coordinación con otras dependencias públicas o privadas. El informe deberá incluir las observaciones que se consideren procedentes; así como el impacto diferenciado en las desigualdades y la reducción de brechas de género.
 
-> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2017)</small>
+CAPTIULO (SIC) IV
 
-I. Si no excediere de cien Unidades de Medida y Actualización, se podrá conceder un plazo de noventa días para pagarla por tercias partes, siempre que el deudor compruebe estar imposibilitado de hacerlo en menor tiempo y otorgue garantías suficientes a juicio de la autoridad ejecutora;
+DE LA CONTABILIDAD
 
-> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2017)</small>
-
-II. Para el pago que exceda de cien Unidades de Medida y Actualización, se podrá conceder un plazo hasta de seis meses; el pago se hará por tercias partes y con los requisitos señalados en la fracción anterior.
-
-El beneficio anterior sólo se concederá, cuando sea solicitado dentro del plazo señalado en el procedimiento fiscal, para el cumplimiento voluntario.
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 40.
 
-La reparación de daños y perjuicios procede en todos los casos en que éstos sean consecuencia de un delito, según las pruebas aportadas por las partes.
+Cada Entidad llevará su propia Contabilidad lo cual incluirá las cuentas para registrar tanto los activos, pasivos, capital o patrimonio, ingresos, costos y gastos, como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas de su propio presupuesto.
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+Los catálogos de cuentas que utilizarán las Entidades a que se refieren las Fracciones I a IV del Artículo 2o. de esta Ley, serán emitidos por la Secretaría de Finanzas del Estado y los de las Entidades mencionadas en las Fracciones V a VII del mismo Artículo, serán autorizadas expresamente por dicha Secretaría.
 
 ### CAPITULO VIII. DE LOS BIENES, ASEGURADOS, DECOMISADOS Y ABANDONADOS
 
@@ -637,103 +415,121 @@ La reparación de daños y perjuicios procede en todos los casos en que éstos s
 
 ###### ARTICULO 41.
 
-Los instrumentos del delito y las cosas que sean objeto o producto de él, se decomisarán si son de uso prohibido. Si son de uso lícito, se decomisarán al sentenciado cuando éste sea condenado por delito doloso, con excepción de las armas, las que serán decomisadas aún tratándose de delitos culposos. Si pertenecen a tercera persona, sólo se decomisarán cuando hayan sido empleados con conocimiento del dueño para fin delictuoso o cuando el tercero que los tenga en su poder o los haya adquirido por cualquier título, se encuentren (sic) alguno de los supuestos a que se refiere el artículo 329 de este Código, independientemente de la naturaleza jurídica de dicho tercero propietario o poseedor y de la relación que éste tenga con el acusado, en su caso.
+La contabilidad de las Entidades se llevará con base acumulativa para determinar costos y facilitar la acumulación, ejercicio y evaluación de los presupuestos y sus programas con objetivos, metas y unidades responsables de su ejecución.
 
-> <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+Los sistemas de contabilidad deben diseñarse y operarse en forma que faciliten la fiscalización de los activos, pasivos, ingresos, costos, gastos, avances en la ejecución de programas, y en general de manera que permitan medir la eficacia y eficiencia del Gasto Público Estatal.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 42.
 
-Para lo dispuesto en el presente capitulo se seguirán en lo correspondiente las reglas establecidas en el Código Nacional de Procedimientos Penales y en la Ley para la Administración de Bienes, Asegurados, Decomisados y Abandonados.
+Las Entidades suministrán (sic) a la Secretaría de Finanzas con la periodicidad que ésta lo determine, la información presupuestal, contable, financiera y de otra índole que requiera.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 43.
 
-Los objetos o valores que se encuentren a disposición de las autoridades investigadoras, que no pudieran ser materia de decomiso y no fueren reclamados por quien tenga derecho a ellos, en un lapso de seis meses naturales, se enajenarán en subasta pública y el producto de la venta se destinará al Fondo para la Procuración de Justicia, previa las deducciones de los gastos ocasionados. Para tal efecto, el plazo indicado empezará a contar a partir de la notificación personal que se le realice conforme a lo que dispone el artículo 126 del Código de Procedimientos Penales en el supuesto de que se conozca el interesado y en caso contrario, la notificación se hará mediante edicto publicado por un solo día en uno de los periódicos de mayor circulación en el Estado.
+La Secretaría de Finanzas girará las instrucciones sobre la forma y términos en que las Entidades deben llevar sus registros auxiliares y contabilidad y, en su caso, rendir los informes y cuentas para fines de contabilización y consolidación.
 
-Los bienes y valores depositados por cualquier motivo ante los tribunales judiciales del fuero común, que no fueren retirados por quien tenga derecho a ello, se destinarán, en los términos de la Ley respectiva, al Fondo para la Administración de Justicia del Estado de Sonora.
+Asimismo, examinará periódicamente el funcionamiento del sitema (sic) y los procedimientos de contabilidad de cada Entidad y podrá autorizar expresamente su modificación o simplificación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 44.
 
-En el caso de bienes que se encuentren a disposición de la autoridad judicial, que no pudieran ser materia de decomiso, que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en subasta pública, y el producto se dejará a disposición de quien tenga derecho al mismo, por un lapso de seis meses, a partir de la notificación personal que se le realice conforme a lo que dispone el artículo 126 del Código de Procedimientos Penales en el supuesto de que se conozca el interesado y, en caso contrario, la notificación se hará mediante edicto publicado por un solo día en uno de los periódicos de mayor circulación en el Estado, transcurrido el cual, se aplicará al Fondo para la Administración de Justicia del Estado de Sonora.
+Los estados financieros y demás información financiera presupuestal y contable que emanen de las contabilidades de las Entidades comprendidas en el Presupuesto de Egresos del Estado, serán consolidadas por la Secretaría de Finanzas, la que será responsable de formular la Cuenta Anual de Gasto Estatal y someterlo a la consideración del Gobernador del Estado, para su presentación al Congreso del Estado, en los términos del Artículo 98 Fracción XXIV de la Constitución Política del Estado.
 
-En el supuesto de que los bienes a que se refiere el párrafo anterior no pudiesen ser enajenados en subasta, por ausencia de postores o por ser económicamente incosteable la misma, dichos bienes se venderán libremente.
-
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
-Cuando los bienes a que se refiere el primer párrafo de este artículo, se encuentren a disposición de las autoridades investigadoras en el período de averiguación previa, éstas podrán proceder en los términos antes señalados y, en el caso de que no se ejercite acción penal y transcurra el plazo para que el producto de la enajenación sea recogido por quien tenga derecho, éste se aplicará al Fondo para la Procuración de Justicia.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ### CAPITULO IX. AMONESTACION
 
 ###### ARTICULO 45.
 
-La amonestación consiste en la advertencia que el juez dirige al sentenciado, haciéndole ver las consecuencias del delito que cometió, excitándolo a la enmienda y conminándolo con que se le impondrá una sanción mayor si reincidiere.
+Los Municipios, a través de sus Ayuntamientos, aprobarán libremente sus Presupuestos de Egresos para el Ejercicio Fiscal que corresponda, pero dicho presupuesto deberá seguir en lo general las mismas reglas establecidas por esta Ley respecto de la conformación del Presupuesto de Egresos del Estado.
 
-La amonestación se hará públicamente o en privado, según parezca prudente al juez.
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ### CAPITULO X. APERCIBIMIENTO Y CAUCION DE NO OFENDER
 
 ###### ARTICULO 46.
 
-El apercibimiento consiste en la conminación que el juez hace a una persona, cuando se considera con fundamento que está en disposición de cometer un delito, de que en caso de cometer el que se propone u otro semejante, será considerado como reincidente.
+Por lo que respecta al ejercicio del Gasto Público Municipal, éste se ejercerá por conducto de las Tesorerías Municipales en los mismos términos que se establecen para la Secretaría de Finanzas del Estado.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 47.
 
-La caución de no ofender consiste en la garantía que fijará el juez al acusado, atendiendo a las circunstancias del caso y de su persona, cuando se estime que no es suficiente el apercibimiento.
+Los Municipios llevarán su propia contabilidad, la que estará constituida con las mismas cuentas que establece el Artículo 40 de esta Ley. Debiendo formular su Catálogo de Cuentas, similar al que utiliza la Secretaría de Finanzas.
 
-Se hará efectiva la garantía otorgada si se llegare a cometer el delito y al juzgársele por él se le considerará como reincidente.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
 
 ### CAPITULO XI. PRIVACION, SUSPENSION E INHABILITACION DE DERECHOS Y SUSPENSION, DESTITUCION E INHABILITACION DE FUNCIONES, EMPLEOS, CARGOS O COMISIONES
 
 ###### ARTICULO 48.
 
-La privación, suspensión e inhabilitación de derechos y la suspensión, destitución e inhabilitación de funciones, empleos, cargos y comisiones, se deberán imponer, a juicio del juez o tribunal, atendiendo a las reglas para la individualización de las sanciones, cuando ello sea ineludible a los fines de justicia, prevención general y prevención especial; salvo disposición expresa contenida en este Código o en leyes especiales, su duración no podrá exceder a la correspondiente a la pena privativa de libertad impuesta, y su inicio y conclusión se regirá por las disposiciones contenidas en el artículo 49.
+Los Municipios presentarán ante el Congreso del Estado, a más tardar en el mes de febrero de cada año, la Cuenta Pública del año anterior para su aprobación.
 
-La destitución del empleo, cargo o comisión se impondrá, en los términos de las disposiciones de este Código cuando, al momento de dictarse sentencia, exista la relación de trabajo correspondiente.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 49.
 
-La suspensión de derechos es de dos clases:
+La Secretaría de Finanzas del Estado dictará las medidas administrativas sobre las responsabilidades que afecten a la Hacienda Pública y al patrimonio de las entidades de la administración pública paraestatal, derivadas del incumplimiento de las disposiciones contenidas en esta Ley y de las que se hayan expedido con base en ella y que se conozcan a través de:
 
-I.- La que por ministerio de ley resulta de una sanción como consecuencia necesaria de ésta; y
+I.- Visitas, auditorías o investigaciones que realice la propia Secretaría;
 
-II.- La que por sentencia se impone como sanción.
+II.- Piegos (sic) de observaciones que emita la Contaduría Mayor de Hacienda del Congreso del Estado en los términos de su Ley Orgánica.
 
-En el primer caso, la suspensión comienza y concluye con la sanción de que es consecuencia.
-
-En el segundo caso, si la suspensión no fuere acompañada de sanción privativa de libertad, se empezará a contar desde que cause ejecutoria la sentencia que se dicte y en caso contrario, comenzará al quedar compurgada la sanción privativa de libertad.
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 50.
 
-La sanción de prisión produce la suspensión de los derechos políticos y los de tutela, curatela, ser apoderado, defensor, albacea, perito, depositario o interventor judicial, síndico o interventor de quiebras, árbitro, arbitrador o representante de ausentes. La suspensión comenzará desde que cause ejecutoria la sentencia respectiva y durará todo el tiempo que la sanción impuesta.
+Los funcionarios y demás personal de las entidades a que se refiere el Artículo 2o. de esta Ley y de los Municipios serán responsables de cualquier daño o perjuicio estimable en dinero que sufra la Hacienda Pública Estatal o Municipal o el patrimonio de cualquier entidad de la administración pública paraestatal por actos u omisiones que les sean imputables, o bien por incumplimiento o inobservancia de obligaciones derivadas de esta Ley, inherentes a su cargo o relacionadas con su función o actuación.
 
-Se exceptúa el caso del albacea cuando sea a la vez, único heredero.
+Las responsabilidades se constituirán en primer término a las personas que directamente hayan ejecutado los actos o incurran en las omisiones que las originaron y subsidiariamente, a los funcionarios y demás personal que, por la índole de sus funciones, hayan emitido la revisión o autorizado tales actos por causa que impliquen dolo, culpa o negligencia por parte de los mismos.
+
+Serán responsables solidarios con los Funcionarios y demás personal de las entidades, los particulares en los casos en que hayan participado y originen una responsabilidad.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ### CAPITULO XII. PUBLICACION ESPECIAL DE SENTENCIA
 
 ###### ARTICULO 51.
 
-La publicación especial de sentencia consiste en la inserción total o parcial de ella, hasta en dos periódicos que circulen en el Estado. El juez escogerá los periódicos y resolverá la forma en que deba hacerse la publicación
+Las responsabilidades que se constituyan tendrán por objeto indemnizar por los daños y perjuicios que, ocasionen a la Hacienda Pública Estatal o Municipal o a las entidades de la administración pública paraestatal, las que tendrán el carácter de créditos fiscales y se fijarán por la Secretaría de Finazas (sic) del Estado en cantidad líquida, misma que se exigirá se cubra desde luego sin perjuicio de que, en su caso, la propia Secretaría la haga efectiva a través del procedimiento de ejecución respectiva.
 
-> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
-
-La publicación de la sentencia se hará a costa del sentenciado, de la víctima u ofendido si este lo solicitare o del Estado, si el juez lo estimase necesario.
-
-> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 52.
 
-El juez podrá a petición y a costa de la víctima u ofendido, ordenar la publicación de la sentencia también en entidad diferente o en algún otro periódico.
+La Secretaría de Finanzas del Estado, podrá disponer las responsabilidades en que incurra, siempre que los hechos que las constituyan no revistan un carácter delictuoso ni se deban a culpa grave o descuido notorio del responsagle (sic) y que los daños causados no excedan de $ 5,000.00.
+
+La Secretaría de Finanzas del Estado, podrá cancelar los créditos derivados de responsabilidades que no excedan de $10,000.00, siempre que no se haya podido obtener su cobro por algún medio legal o por inconsteabilidad (sic) práctica de cobro. Cuando los créditos excedan de $10,000.00, se propondrá su cancelación a la Cámara de Diputados al rendir la Cuenta Anual correspondiente, acompañando los datos que funden la propuesta.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 53.
 
-La publicación de sentencia podrá ordenarse igualmente a petición y costa del sentenciado cuando éste fuere absuelto, el hecho imputado no constituyere delito o el no lo hubiere cometido.
+La Secretaría de Finanzas del Estado podrá imponer las siguientes correcciones disciplinarias a los funcionarios y empleados de las entidades a que se refiere el Artículo 2o. de esta Ley, que en el desempeño de sus labores incurran en faltas que ameriten el fincamiento de responsabilidades.
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+l. Multa de 7 a 137 veces la Unidad de Medida y Actualización.
+
+II.- Suspención (sic) temporal de funciones.
+
+La multa a que se refiere la Fracción I se aplicará en su caso, a los particulares que en forma dolosa participen en los actos que originen la responsabilidad.
+
+Iguales medidas impondrá la propia Secretaría a sus funcionarios y empleados cuando no apliquen las disposiciones a que se refiere este Capítulo o las reglamentarias que se deriven del mismo.
+
+Las correcciones disciplinarias señaladas se aplicarán independientemente de que se haga efectiva la responsabilidad en que hubiere incurrido.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 54.
 
-Si el delito por el que se impuso la publicación de sentencia, fue cometido por medio de la prensa, además de la publicación a que se refieren los artículos anteriores, se hará también en el periódico empleado para cometer el delito, con el mismo tipo de letra, igual color de tinta y en el mismo lugar.
+Las responsabilidades a que se refiere esta Ley se constituirán y exigirán administrativamente con independencia de las sanciones de carácter penal que en su caso lleguen a determinarse por la autoridad judicial.
+
+TRANSITORIOS:
 
 ### CAPITULO XIII. VIGILANCIA DE LA AUTORIDAD
 
@@ -5181,43 +4977,23 @@ T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
 
-El presente Código, previa su publicación en el Boletín Oficial del Gobierno del Estado, entrará en vigor el día 1o. de mayo de 1994, con excepción de lo señalado en el artículo segundo transitorio.
+La presente Ley entrará en vigor 15 días después de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO SEGUNDO.
 
-Los artículos 19, fracciones II y XVI, 23, 25, 80, 81, 82, 83, 84 Y 85, 101, 139, fracciones V y VI, 150, 152, fracciones I y II, 155, 160, 175, primera parte, 176, 197, primera parte, 198, 207, 273, 277, primer párrafo, que previenen el régimen de sustitutivos de prisión y el trabajo en favor de la comunidad como sanción autónoma y todos aquéllos que tengan relación con la aplicabilidad de los mismos, entrarán en vigor el día 1o. de noviembre de 1994.
+Se derogan todas las disposiciones locales en cuanto contravengan a la presente Ley.
 
 ###### ARTICULO TERCERO.
 
-Para los efectos señalados en los artículos 26, 85 y 93 fracción IV, y en tanto la legislación procesal correspondiente determine cuáles delitos serán calificados como graves, se entenderá que los preceptos mencionados se refieren a aquéllos delitos sancionados con pena cuyo término medio aritmético excede los cinco años de prisión.
+Las disposiciones legales, reglamentarias y las prácticas administrativas operantes a la vigencia de esta Ley seguirán teniendo eplicación (sic) en lo que no se le opongan.
 
 ###### ARTICULO CUARTO.
 
-A las personas que hayan cometido un delito, con anterioridad a la entrada en vigor del presente Código, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones del Código Penal local vigentes en el momento en que éste se haya cometido, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 61 del citado Código.
+La implantación de los presupuestos elaborados con base en programas que señalen objetivos, metas y unidades responsables, cuyas cifras estén fundadas en costos, a que se refiere el Artículo 11 de esta Ley, se hará gradualmente de acuerdo con las posibilidades técnicas de las Entidades.
 
 ###### ARTICULO QUINTO.
 
-Se abroga el Código Penal para el Estado de Sonora, publicado en el Boletín Oficial del Gobierno del Estado 10, sección II, de tres de agosto de 1949, así como sus reformas y se derogan todas las disposiciones que se opongan al presente Código.
-
-Comuníquese al Ejecutivo para su sanción y promulgación.- SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Hermosillo, Sonora, a 23 de marzo de 1994.- DIPUTADO PRESIDENTE.- PROFR. RICARDO IBARRA GARCIA.- RUBRICA.- DIPUTADO SECRETARIO.- ING. VIRGILIO RIOS AGUILERA.- RUBRICA.- DIPUTADO SECRETARIO.- ADRIANA ACEVES PACHECO.- RUBRICA.-
-
-POR TANTO, mando se publique en el Boletín Oficial del Estado y se le dé el debido cumplimiento. PALACIO DE GOBIERNO, Hermosillo, Sonora, veintitrés de marzo de mil novecientos noventa y cuatro.- SUFRAGIO EFECTIVO.- NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. MANLIO FABIO BELTRONES RIVERA.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- LIC. ROBERTO SANCHEZ CEREZO.-RUBRICA.-
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.]</small>
-
-B.O. 17 DE MAYO DEL 2001.
-
-UNICO.- El presente Decreto entrará al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
-
-B.O. 19 DE DICIEMBRE DE 2002.
-
-UNICO.- El presente Decreto entrará al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
-
-B.O. 20 DE MAYO DE 2004.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
-
-B.O. 7 DE JUNIO DE 2004.
+Respecto de lo dispuesto por los Artículos 41 y 42 de esta Ley, la Secretaría de Desarrollo Económico, Programación y Presupuesto determinará la oportunidad en que la Contabilidad se llevará en forma acumulativa y aquélla en que tendrá lugar el traspaso de los activos y pasivos de la contabilidad centralizada a las descentralizadas, lo que se hará con base en los inventarios y depuración correspondiente.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -5225,15 +5001,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 B.O. 20 DE OCTUBRE DE 2005.
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+La presente Ley entrará en vigor 15 días después de su publicación en el Periódico Oficial del Estado.
 
-###### ARTÍCULO SEGUNDO.
+###### ARTICULO SEGUNDO.
 
-Lo dispuesto en el artículo 87 del Código Penal reformado mediante el presente Decreto, que regula la suspensión condicional de las sanciones, podrá ser aplicado retroactivamente a favor de los sentenciados que se encuentren compurgando condenas que no excedan de tres años de prisión y reúnan los requisitos previstos en los incisos a) a f) de la fracción I de dicho precepto, para lo cual presentarán su petición vía incidental ante el juez que hubiere conocido del proceso.
-
-B.O. 6 DE JULIO DE 2006.
+Se derogan todas las disposiciones locales en cuanto contravengan a la presente Ley.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -5283,15 +5057,13 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 Los trámites y servicios que se encuentren pendientes de revisión o resolución en la Unidad Estatal de Protección Civil, se seguirán según lo dispuesto en la Ley de Protección Civil para el Estado de Sonora y su Reglamento que se encuentren vigentes al momento de la entrada en vigor del presente Decreto.
 
-###### ARTÍCULO TERCERO.
+###### ARTICULO TERCERO.
 
-Los propietarios, poseedores, administradores o encargados de establecimientos, edificaciones o inmuebles a que se refiere el artículo 37 del artículo primero de este Decreto, deberán dar cumplimiento a la misma en un plazo no mayor a 180 días, contado a partir del día siguiente al de publicación de este Decreto, a excepción de los señalados en el inciso p) de la fracción XIX del artículo 13 del mismo artículo primero de este Decreto, que deberán hacerlo dentro de los noventa días siguientes a su entrada en vigor. En caso de incumplimiento, se aplicarán las sanciones previstas en la propia Ley de Protección Civil.
+Las disposiciones legales, reglamentarias y las prácticas administrativas operantes a la vigencia de esta Ley seguirán teniendo aplicación en lo que no se le opongan.
 
-###### ARTÍCULO CUARTO.
+###### ARTICULO CUARTO.
 
-En un plazo no mayor a treinta días contados a partir de la entrada en vigor de la presente Ley, el Titular del Ejecutivo Estatal y los ayuntamientos, en su respectivo ámbito de competencia, deberán realizar las adecuaciones pertinentes y emitir las disposiciones administrativas necesarias para cumplir cabalmente con las disposiciones de este ordenamiento.
-
-B.O. 17 DE JUNIO DE 2010.
+La implantación de los presupuestos elaborados con base en programas que señalen objetivos, metas y unidades responsables, cuyas cifras estén fundadas en costos, a que se refiere el Artículo 11 de esta Ley, se hará gradualmente de acuerdo con las posibilidades técnicas de las Entidades y de los Municipios.
 
 ###### ARTICULO ÚNICO.
 
@@ -5513,7 +5285,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 B.O. 19 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 93, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL DEL ESTADO DE SONORA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 560.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 44 Y 48 DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 5 DE MARZO DE 2017.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -5521,7 +5299,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 B.O. 27 DE ABRIL DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 124, QUE REFORMA EL ARTÍCULO 240 DEL CÓDIGO PENAL DEL ESTADO DE SONORA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 75.- POR EL QUE SE REFORMA EL ARTÍCULO 53 DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+19 DE MARZO DE 2017.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -5529,7 +5317,13 @@ El presente Decreto entrará en vigor el día de su publicación en el Boletín 
 
 B.O. 11 DE MAYO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 125, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE SONORA Y DE LA LEY DE SALUD PARA EL ESTADO DE SONORA”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 116.- POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 23 DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+
+P.O. 23 DE AGOSTO DE 2020.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -5537,7 +5331,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 B.O. 1 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 140, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL DEL ESTADO DE SONORA”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 344.- POR EL QUE SE ADICIONA UN PÁRRAFO AL NUMERAL 14, SE REFORMAN LOS ARTÍCULOS 17 FRACCIÓN I Y 39, TODOS DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO”.]
+
+PRIMERO. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales y administrativas que contravengan lo dispuesto en el presente Decreto.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -5824,3 +5622,53 @@ B.O. 30 DE DICIEMBRE DE 2021.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTICULO QUINTO.
+
+Respecto a lo dispuesto por el Artículo 41 de esta Ley, la Secretaría de Finanzas determinará la oportunidad en que la Contabilidad se llevará en forma acumulativa y aquella en que tendrá lugar el traspaso de los activos y pasivos de la Contabilidad centralizada a las descentralizadas, lo que se hará con base en los inventarios y depuración correspondiente.
+
+###### ARTICULO SEXTO.
+
+En tanto se presenta la oportunidad técnica para la operación de los cambios incorporados por esta Ley, se continuará laborando con el manejo de ambos sistemas.
+
+P.O. 16 DE ABRIL DE 1992.
+
+UNICO.- El presente Decreto surtirá sus efectos legales a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE FEBRERO DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 7 DE JULIO DE 2016.
+
+###### ARTICULO SEXTO.
+
+En tanto se presenta la oportunidad técnica para la operación de los cambios incorporados por esta Ley, se continuará laborando con el manejo paralelo de ambos sistemas.
+
+El C. Gobernador Constitucional del Estado dispondrá se publique, circule y observe.
+
+Dado en el Salón de Sesiones del H. Congreso del Estado en Victoria de Durango, Dgo., a los (15) quince días del mes de Julio del año de (1980) mil novecientoc (sic) ochenta.
+
+Profr. Elías Vázquez Payán, Diputado Presidente.- Profra. Zina Ruiz de León, Diputada Secretaria Int.- Lic. Moisés Moreno Armendariz, Diputado Secretario Int.- Rúbricas.
+
+Por tanto mando se imprima, publique, circule y comunique a quienes corresponda para su exacta observancia.
+
+DADO en el PALACIO del PODER EJECUTIVO, en Victoria de Durango, Dgo. a los quince días del mes de Julio del año de mil novecientos ochenta.
+
+El Gobernador Constitucional Substituto del Estado,
+
+Dr. SALVADOR GAMIZ FERNANDEZ.- Rúbrica.
+
+El Secretario General de Gobierno,
+
+Lic. CARLOS GALINDO MARTINEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE FEBRERO DE 1984.
