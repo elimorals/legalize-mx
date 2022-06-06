@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2022-05-19"
+last_updated: "2022-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE JUNIO DE 2022.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -1431,119 +1431,57 @@ Cuando el Gobernador del Estado, usando la facultad que le concede el artículo 
 
 ### CAPÍTULO III. DE LAS DISCUSIONES
 
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 133.
 
-Toda participación, intervención o uso de la voz que hagan los diputados en las sesiones del pleno del Congreso del Estado, deberá sujetarse a un periodo máximo de cinco minutos.
+Todo proyecto de Ley, Decreto o Acuerdo que sea sometido a votación de los integrantes de alguna Comisión o del Pleno del Congreso del Estado, deberá someterse previamente a discusión en lo general y en lo particular.
 
-Tratándose de lectura de dictámenes de comisión no resultará aplicable lo señalado en el párrafo que antecede. La Comisión de Régimen Interno y Concertación Política podrá acordar participaciones por periodos superiores a los referidos en el párrafo anterior, en cuyo caso establecerá lo conducente el proyecto de orden del día, para aprobación del pleno del Congreso del Estado.
-
-Durante el desarrollo de una sesión, sólo podrán acordarse participaciones mayores a cinco minutos, cuando lo solicite el diputado interesado y lo apruebe el pleno del Congreso del Estado.
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 134.
 
-Antes de iniciar la discusión en lo general y en lo particular de los proyectos de ley, de decreto o de acuerdo, el Presidente de la Mesa Directiva preguntará al pleno del Congreso del Estado, si algún diputado hará uso de la voz en alguna de las discusiones. De no mediar solicitud para discutir el asunto por parte de algún diputado, el Presidente someterá el asunto a votación.
+Antes de iniciar la discusión en lo general y en lo particular de los proyectos de ley, de decreto o de acuerdo, la Presidencia preguntará al pleno del Congreso del Estado o a la Comisión, según corresponda, si algún diputado hará uso de la voz en alguna de las discusiones. De no mediar solicitud para discutir el asunto por parte de algún diputado, la Presidencia podrá someter el asunto a votación en lo general y en lo particular en un solo acto.
+
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 135.
 
-Sin perjuicio de lo establecido en el artículo anterior, los proyectos de ley, de decreto o de acuerdo se discutirán primero en lo general, o sea sobre la conveniencia o no de aprobar el citado proyecto, y después en lo particular cada uno de sus artículos o puntos. Cuando el proyecto conste de un solo artículo o punto será discutido una sola vez.
+Sin perjuicio de lo establecido en el artículo anterior, los proyectos de ley, de decreto o de acuerdo se discutirán primero en lo general, o sea sobre la conveniencia o no de aprobar el citado proyecto, y después en lo particular cada uno de sus artículos o puntos. Cuando el proyecto conste de un solo artículo o punto podrá ser discutido en lo general y en lo particular en un solo acto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 16 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 136.
 
-Las discusiones en lo general de los dictámenes con proyecto de Ley o de Decreto, se sujetarán a lo siguiente:
+Las discusiones en lo general de proyectos de Ley, Decreto o Acuerdo, que se sometan a consideración del Pleno o de alguna Comisión, se sujetarán a lo siguiente:
 
-I.- Se discutirán y votarán en lo general y después en lo particular;
+I.- Las iniciativas deberá exponerlas la o el diputado que las proponga, o una o un diputado diferente a propuesta de aquel, y los dictámenes los expondrá una o un diputado nombrado por la mayoría de la Comisión que emita el dictamen;
 
-II.- El Presidente de la Mesa Directiva podrá exponer los fundamentos del dictamen hasta por diez minutos; si declina hacerlo, podrá fundamentarlo un integrante nombrado por la mayoría de la Comisión correspondiente;
+II.- Podrá obviarse la exposición en todo o en parte, solamente cuando lo apruebe la mayoría de las y los diputados presentes en la sesión respectiva;
 
-III.- Si hubiera voto particular, su autor o uno de sus autores podrán exponer los motivos y el contenido del mismo hasta por cinco minutos, siempre que se deseche el dictamen aprobado por la comisión;
+III.- Terminada la exposición, la Presidencia deberá poner a discusión el tema en lo general concediendo el uso de la voz conforme el orden que lo soliciten;
 
-IV.- Un integrante de cada Grupo, en orden creciente, de acuerdo a su representatividad en el Congreso, podrá disponer de hasta cinco minutos para exponer su postura. El orador no podrá ser interrumpido por moción de cuestionamiento;
+IV.- Una vez que hayan intervenido quienes solicitaron el uso de la voz, la o el Presidente preguntará si el asunto se encuentra suficientemente discutido. Cuando ningún diputado o diputada solicite el uso de la voz, la o el Presidente anunciará el inicio de la votación en lo general; y
 
-V.- A continuación, el Presidente formulará una lista de oradores en contra y otra a favor;
+V.- Cuando un asunto sea aprobado en lo general, se procederá a la discusión en lo particular.
 
-VI.- Los oradores hablarán alternadamente en contra y a favor, hasta por cinco minutos, comenzando por el primero de la lista de intervenciones en contra;
-
-VII.- Una vez que hayan intervenido hasta seis oradores en contra y hasta seis a favor, el Presidente preguntará si el asunto se encuentra suficientemente discutido, después de leer la lista de los oradores aún inscritos en ambos sentidos. Si la respuesta fuera negativa, continuará la discusión, sólo si hubiera oradores inscritos, pero el Presidente repetirá la pregunta cuando hubieran intervenido tres oradores más de cada lista, y así en lo sucesivo. Si el Pleno decide que se encuentra suficientemente discutido, el Presidente anunciará el inicio de la votación nominal;
-
-VIII.- Cuando en las listas a las que hace referencia la fracción V de éste artículo, se inscriban oradores únicamente para argumentar en un sólo sentido, ya sea a favor o en contra, se admitirán hasta tres oradores que podrán hablar hasta por cinco minutos y agotada esa ronda, el Presidente preguntará si el asunto se encuentra suficientemente discutido;
-
-IX.- Cada vez que se pregunte al Pleno si el punto está suficientemente discutido, el Presidente leerá la lista de las diputadas y de los diputados que hayan solicitado la palabra;
-
-X.- Si el orador no se encuentra en el Salón de Sesiones, perderá su turno;
-
-XI.- Cuando ninguna diputada o diputado pida la palabra para argumentar a favor o en contra del dictamen a discusión, y una vez que algún integrante de la Comisión explique los motivos que ésta tuvo para dictaminar, se procederá a la votación nominal; y
-
-XII.- Cuando el Titular de alguna dependencia o entidad de la Administración Pública Estatal, sea invitado a la discusión de un asunto de su competencia, se le concederá, hasta el mismo tiempo que a los diputados.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 16 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 137.
 
-Las discusiones de los dictámenes en sentido negativo de iniciativas, que contienen un proyecto de Acuerdo, se sujetarán a lo siguiente:
+Cuando el Titular de alguna dependencia o entidad de la Administración Pública Estatal o municipal, sea invitado a la discusión de un asunto de su competencia, se le concederá el uso de la voz por una sola ocasión, pudiendo concederle el uso de la voz para contestar por interpelación o para réplica o contrarréplica solamente a solicitud de algún diputado o diputada.
 
-I.- El Presidente de la Mesa Directiva o un integrante nombrado por la mayoría de la Comisión, podrá exponer los fundamentos del dictamen hasta por cinco minutos;
+ARTÍCULO 137 BIS.- (DEROGADO, B.O. 6 DE JUNIO DE 2022)
 
-II.- Una vez fundamentado el dictamen, podrá intervenir un orador en contra hasta por cinco minutos;
+ARTÍCULO 137 BIS 1.- (DEROGADO, B.O. 6 DE JUNIO DE 2022)
 
-III.- En el caso de que no se inscriba orador para la discusión, el Presidente propondrá su votación de inmediato;
-
-IV.- El Presidente someterá en votación económica si se acepta desecharlo o se devuelve a la comisión;
-
-V.- En caso afirmativo, procederá su archivo como asunto total y definitivamente concluido; y
-
-VI.- En caso negativo, se devolverá a la Comisión correspondiente para que elabore un nuevo dictamen.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
-
-ARTÍCULO 137 BIS.- Las discusiones en lo general de las iniciativas que por vencimiento de plazos deban pasar al Pleno en sus términos, se sujetarán a lo siguiente:
-
-I.- Se discutirán y votarán en lo general y después en lo particular;
-
-II.- Serán leídos por un Secretario de la Mesa Directiva o un diputado integrante nombrado por la mayoría de la comisión relativa al tema;
-
-III.- Un integrante de cada Grupo, en orden creciente, de acuerdo a su representatividad en la Cámara, podrá disponer de hasta cinco minutos para exponer su postura;
-
-IV.- A continuación, el Presidente formulará una lista de oradores en contra y otra a favor;
-
-V.- Los oradores hablarán alternadamente en contra y a favor, hasta por cinco minutos, comenzando por el primero de la lista de intervenciones en contra;
-
-VI.- Después de que hubiesen intervenido hasta tres oradores de cada la (sic) lista, el Presidente preguntará al Pleno si el asunto se encuentra suficientemente discutido; en caso negativo continuará la discusión sólo si hubieran oradores inscritos, pero el Presidente repetirá la pregunta cuando hubiera intervenido un orador más de cada lista y así en lo sucesivo. Si el Pleno decide que se encuentrasuficientemente (sic) discutido, el Presidente anunciará el inicio de la votación nominal; y
-
-VII.- Cuando en las listas a las que hace referencia la fracción IV de éste artículo, se inscriban oradores únicamente para argumentar en un solo sentido, ya sea a favor o en contra, se admitirán hasta tres oradores que podrán hablar hasta por cinco minutos y agotada esa ronda, el Presidente declarará el término de la discusión y el inicio de la votación nominal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
-
-ARTÍCULO 137 BIS 1.- Las discusiones de los dictámenes acerca de proposiciones con punto de Acuerdo, se sujetarán a lo siguiente:
-
-I.- Se discutirán y votarán en un sólo acto;
-
-II.- Sólo en caso de que así sea solicitado, el Presidente de la Mesa Directiva podrá exponer los fundamentos del dictamen hasta por cinco minutos; si el Presidente de la Mesa Directiva declina hacerlo, podrá fundamentarlo un integrante nombrado por la mayoría de la Comisión;
-
-III.- No se admitirán votos particulares ni reservas;
-
-IV.- El Presidente formulará una lista de oradores en contra y otra a favor;
-
-V.- Los oradores hablarán alternadamente en contra y a favor, hasta por cinco minutos, comenzando por el primero de la lista de intervenciones en contra; y
-
-VI.- Cuando hayan intervenido un orador en contra y uno a favor, el Presidente preguntará al Pleno si el asunto se encuentra suficientemente discutido; de no ser así, continuará la discusión con un orador más en cada sentido por el mismo tiempo señalado. De considerarse suficientemente discutido, el Presidente solicitará a la Secretaría que proceda a la votación económica.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 16 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 138.
 
-Cuando un dictamen no se apruebe en lo general, el Presidente consultará al Pleno, en votación económica, si el proyecto se devuelve a la comisión. Si la resolución fuese afirmativa, se devolverá a la comisión para que elabore un nuevo dictamen; si fuese negativa, se tendrá por desechado.
+Cuando un dictamen no se apruebe en lo general, la o el Presidente consultará al Pleno, en votación económica, si el proyecto se devuelve a la comisión. Si la resolución fuese afirmativa, se devolverá a la comisión para que elabore un nuevo dictamen; si fuese negativa, se tendrá por desechado.
+
+Tratándose de iniciativas que el Pleno del Congreso del Estado considere como de urgente u obvia resolución, que no sean aprobadas en lo general, la o el Presidente consultará al Pleno, en votación económica, si el proyecto se turna a comisión para profundizar en su análisis y dictaminación. Si la resolución fuese afirmativa, se turnará a la comisión que corresponda para su discusión y dictaminación; si fuese negativa, se tendrá por desechada y no podrá volverse a presentar durante el mismo periodo de sesiones.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1553,67 +1491,67 @@ ARTÍCULO 138 BIS.- Los dictámenes con proyectos de ley que consten de más de 
 
 Si lo propone algún diputado y se aprueba por el Pleno, podrá votarse por separado cada uno de los artículos o fracciones del artículo o de la sección que esté a debate.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 16 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 139.
 
-La discusión de proyectos de Ley o de Decreto, en lo particular, implica la reserva de artículos determinados para su análisis.
+La discusión de proyectos de Ley o de Decreto, en lo particular, implica la reserva de artículos determinados para su análisis. En el caso de la discusión de proyectos de Acuerdo, la reserva se hará sobre los puntos del mismo.
 
-Las reservas son propuestas de modificación, adición o eliminación de uno o varios artículos del proyecto, que deben ser presentadas por escrito ante la mesa directiva, antes del inicio de la discusión del dictamen respectivo. Las reservas que se presenten serán registradas por el Secretario.
+Las reservas son propuestas de modificación, adición o eliminación de uno o varios artículos o puntos del proyecto, que deben ser presentadas por escrito ante la mesa directiva, antes o durante la discusión del proyecto respectivo. Las reservas que se presenten serán registradas por el Secretario.
 
 Tratándose de la discusión de un dictamen como resultado de la modificación del orden del día, o de una iniciativa que el Pleno del Congreso del Estado considere como de urgente u obvia resolución, las reservas se presentarán en el transcurso de la discusión en lo particular.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2022)</small>
 
 ARTÍCULO 139 BIS.- La discusión en lo particular se desarrollará en los términos siguientes:
 
-I.- Los artículos del proyecto que no hayan sido reservados, podrán ser votados antes de entrar al desarrollo de la discusión y votación de los que si fueron objeto de reserva;
+I.- la Presidencia deberá poner a discusión el tema en lo particular preguntando a quienes soliciten el uso de la voz, que artículos o puntos del proyecto desean discutir;
 
-II.- La discusión en lo particular será desahogada conforme al orden ascendente de los artículos;
+II.- La discusión en lo particular será desahogada conforme al orden ascendente de los artículos o puntos reservados;
 
-III.- La Presidencia otorgará el uso de la voz hasta por cinco minutos al diputado que reservó el artículo para que realice su planteamiento;
+III.- La Presidencia otorgará el uso de la voz a cada diputada o diputado que haya reservado un artículo o punto, para que realice su planteamiento y propuesta de modificación;
 
-IV.- La Presidencia formulará una lista de oradores a favor y en contra, quienes podrán intervenir hasta por cinco minutos cada uno;
+IV.- Después del planteamiento de cada reserva, la Presidencia preguntará si algún diputado o diputada desea discutir el artículo o punto reservado, y concederá el uso de la voz a quienes lo soliciten.
 
-V.- Después de que hubiesen intervenido hasta tres oradores de cada la (sic) lista, el Presidente preguntará al Pleno si el asunto se encuentra suficientemente discutido; en caso negativo continuará la discusión, sólo si hubieran oradores inscritos, pero el Presidente repetirá la pregunta cuando hubiera intervenido un orador más de cada lista y así en lo sucesivo;
+V.- Cuando no hubiera más oradores respecto al artículo o punto en discusión, la Presidencia lo someterá a votación inmediatamente. Si se aprueba la propuesta pasará a formar parte del proyecto aprobado.
 
-VI.- Cuando no hubiera oradores en contra, podrán hablar hasta dos oradores a favor;
+VI.- En caso de que no se apruebe la propuesta, se someterá a votación el artículo o punto como se presenta originalmente-en el proyecto en discusión.
 
-VII.- Cuando no hubiera oradores a favor del artículo incluido en el proyecto podrán hablar hasta dos oradores en contra; y
+VII.- Cuando esté aprobada esa parte del proyecto, la o el Presidente ordenará que se pase a la discusión del siguiente artículo o punto reservado.
 
-VIII.- Cuando no hubiere oradores inscritos, el Presidente ordenará que se pase a la discusión del siguiente artículo reservado.
+VIII.- Los artículos o puntos del proyecto que no hayan sido reservados, deberán ser votados al final de la discusión y votación de los que si fueron objeto de reserva; (sic)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2022)</small>
 
-> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+ARTÍCULO 139 BIS 1.- Se podrán discutir varios artículos reservados al mismo tiempo, cuando quien haya hecho la reserva lo solicite al Presidente y las reservas de los artículos estén concatenadas entre sí.
 
-ARTÍCULO 139 BIS 1.- Se podrán discutir varios artículos reservados al mismo tiempo, cuando quien haya hecho la reserva lo solicite al Presidente.
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2022)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+ARTÍCULO 139 BIS 2.- Cuando un mismo artículo o punto sea motivo de dos o más reservas que se contradigan entre sí, se expondrán los planteamientos en el orden en que las y los exponentes hayan solicitado el uso de la voz, y enseguida se someterá a votación cada uno de los planteamientos. Si ninguno obtiene la votación requerida para su aprobación, se someterá a votación el artículo o punto como se presenta originalmente en el proyecto en discusión.
 
-> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+En caso de que dos o más reservas obtengan la votación requerida para su aprobación, se considerará aprobado el planteamiento que obtenga la mayor cantidad de votos, pero en caso de empate, se volverán a someter a discusión las reservas empatadas y se procederá a su votación hasta que alguna obtenga mayor cantidad de votos.
 
-ARTÍCULO 139 BIS 2.- Las votaciones sobre cada uno de los artículos reservados podrán realizarse al final de la discusión sobre la totalidad de los mismos.
-
-El Secretario las referirá a nombre de la diputada o diputado que haya hecho la exposición y leerá el texto propuesto; el Secretario también podrá referir las proposiciones del Grupo que las haya presentado.
-
-Declarado suficientemente discutido, en votación nominal se consultará al Pleno si se aprueba.
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 140.
 
-Desechado un dictamen en su totalidad, si hubiere voto particular, éste se someterá a discusión en los mismos términos que aquél.
+Desechado un dictamen en su totalidad, si hubiere voto particular, éste se someterá a discusión en los mismos términos que aquél, solamente a solicitud expresa de quien o quienes lo hayan presentado.
+
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 141.
 
-Si en el curso de las discusiones el orador interpela a uno o más diputados, éstos podrán, discrecionalmente, contestarla o abstenerse de hacerlo. Las interpelaciones se harán siempre claras, precisas y concretas. Cuando las interpelaciones sean dirigidas a varios diputados, se contestarán en el orden en que hubieren sido hechas; pudiendo contestar también por todos, uno solo de los interpelados autorizado por los demás.
+Si en el curso de las discusiones el orador hace alusión o interpela a uno o más diputados, éstos podrán, discrecionalmente, contestarla o abstenerse de hacerlo. Las alusiones o interpelaciones se harán siempre claras, precisas y concretas. Cuando las alusiones o interpelaciones sean dirigidas a varios diputados, se contestarán en el orden en que hubieren sido hechas; pudiendo contestar también por todos, uno solo de los aludidos o interpelados autorizado por los demás.
+
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 142.
 
 Ningún diputado podrá ser interrumpido mientras tenga el uso de la palabra, a menos que se trate de una moción de orden en los casos señalados en el artículo siguiente.
+
+Sin perjuicio de lo anterior, la Comisión de Régimen Interno y Concertación Política podrá acordar establecer límites de tiempo para hacer uso de la palabra en las sesiones de Pleno, debiendo especificar en el acuerdo respectivo las sesiones o periodos de sesiones en que podrán aplicarse dichos límites de tiempo.
+
+El Acuerdo de la Comisión de Régimen Interno en que se limite el tiempo para hacer uso de la palabra en las sesiones de Pleno no podrá extender su vigencia de una Legislatura a otra.
 
 ###### ARTÍCULO 143.
 
@@ -1625,7 +1563,13 @@ II.- Cuando se infrinjan disposiciones de esta ley, en cuyo caso deberá citarse
 
 III.- Cuando se viertan injurias, calumnias o difamaciones en contra de alguna autoridad, corporación o persona.
 
-IV.- Cuando el orador se aparte del asunto a discusión o finalice el tiempo otorgado para su participación.
+> <small>(REFORMADA, B.O. 6 DE JUNIO DE 2022)</small>
+
+IV.- Cuando el orador se aparte del asunto a discusión.
+
+> <small>(ADICIONADA, B.O. 6 DE JUNIO DE 2022)</small>
+
+V.- Cuando finalice el tiempo otorgado para su participación, conforme a lo dispuesto en el artículo anterior.
 
 En los casos respectivos la Presidencia llamará al orden al orador.
 
@@ -1633,9 +1577,11 @@ En los casos respectivos la Presidencia llamará al orden al orador.
 
 No podrá llamarse al orden al orador cuando critique o censure a funcionarios públicos por faltas, omisiones, infracciones legales o errores cometidos en el desempeño de sus cargos.
 
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 145.
 
-Cuando el pleno del Congreso del Estado acuerde regresar un dictamen a la comisión correspondiente para que lo modifique en el sentido de la discusión, dicha comisión deberá presentar, dentro de un término de doce días hábiles, el dictamen con las modificaciones correspondientes. De no hacerlo, se estará a lo dispuesto por el artículo 99 de la presente ley.
+Cuando el pleno del Congreso del Estado acuerde turnar a comisión una iniciativa no aprobada en lo general o regresar un dictamen a la comisión correspondiente para que se modifiquen en el sentido de la discusión, dicha comisión deberá presentar, dentro de un término de doce días hábiles, el dictamen con las modificaciones correspondientes. De no hacerlo, se estará a lo dispuesto por el artículo 99 de la presente ley.
 
 ###### ARTÍCULO 146.
 
@@ -3153,11 +3099,13 @@ B.O. 19 DE MAYO DE 2022.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, RESPECTO AL TIPO PENAL DE FEMINICIDIO CON RELACIÓN A SUS AGRAVANTES DE TENTATIVA".]
+B.O. 6 DE JUNIO DE 2022.
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 44, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA”.]
 
-P.O. 29 DE DICIEMBRE DE 2022.
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 255 DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DEL DELITO DE ENRIQUECIMIENTO ILÍCITO”.]
 
