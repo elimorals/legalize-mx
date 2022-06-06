@@ -4,7 +4,7 @@ identifier: "HID-codigo-fiscal-municipal-para-el-estado-de-hidalgo-83957"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-11-21"
-last_updated: "2018-12-31"
+last_updated: "2022-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2022.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -253,11 +253,11 @@ Las autoridades fiscales mediante disposiciones administrativas podrán autoriza
 
 ### CAPÍTULO SEGUNDO. DE LAS LEYES DE INGRESOS Y PRESUPUESTO DE EGRESOS
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 29.
 
-El proyecto de Ley de Ingresos de cada Ayuntamiento, se formulará y aprobará por éste, en el mes de octubre de cada año y se remitirá mediante la iniciativa correspondiente al Congreso del Estado, a más tardar el quince de noviembre siguiente, para su aprobación, en su caso.
-
-Dicho proyecto deberá contener la relación de conceptos por los cuales se pretenden obtener los ingresos; las cantidades estimadas a recaudar durante el Ejercicio Fiscal del año siguiente al de su aprobación, y en su caso, las disposiciones generales de determinación, valores, cuotas tasas y tarifas necesarios para su recaudación.
+El proyecto de Ley de Ingresos de cada Ayuntamiento, se formulará y aprobará por éste, en el mes de septiembre de cada año y se remitirá mediante la iniciativa correspondiente al Congreso del Estado, a más tardar el primer día hábil del mes de octubre, para su análisis, modificación y aprobación, en su caso.
 
 ###### ARTÍCULO 30.
 
@@ -3352,5 +3352,13 @@ P.O. 31 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 88 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO, LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO Y EL CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día 1° de enero de 2019.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 6 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 208 POR EL QUE SE REFORMA LOS ARTÍCULOS 60 Y 95 QUATER DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EL ARTÍCULO 5 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO Y EL ARTÍCULO 29 DEL CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
