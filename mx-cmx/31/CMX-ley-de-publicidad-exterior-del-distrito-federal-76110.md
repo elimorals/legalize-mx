@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-publicidad-exterior-del-distrito-federal-76110"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-20"
-last_updated: "2015-07-06"
+last_updated: "2022-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76110&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2010-08-04"
 ---
 # LEY DE PUBLICIDAD EXTERIOR DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO POR EL QUE SE ABROGA LA LEY DE PUBLICIDAD EXTERIOR DEL DISTRITO FEDERAL Y SE EXPIDE LA LEY DE PUBLICIDAD EXTERIOR DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 6 DE JUNIO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PUBLICIDAD EXTERIOR DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE JUNIO DE 2022 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 20 de agosto de 2010.
 
@@ -1525,3 +1527,149 @@ A la entrada en vigor de las presentes reformas y adiciones, se derogan todas aq
 ###### ARTÍCULO NOVENO.
 
 En el Reglamento de esta ley se establecerán los criterios y requisitos que seguirá la Secretaría para determinar el tiempo de vigencia de las licencias para anuncios autosoportados o en muro ciego.
+
+G.O. 6 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE "DECRETO POR EL QUE SE ABROGA LA LEY DE PUBLICIDAD EXTERIOR DEL DISTRITO FEDERAL Y SE EXPIDE LA LEY DE PUBLICIDAD EXTERIOR DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se abroga la Ley de Publicidad Exterior del Distrito Federal publicada el 20 de agosto de 2010 en la Gaceta Oficial del -entonces- Distrito Federal, no. 909, así como sus reformas y todos los ordenamientos que se opongan al presente Decreto.
+
+CUARTO. De conformidad con el principio de uniformidad, el “padrón de empresas comercializadoras de publicidad” contemplado en el artículo 159 de la Ley de Movilidad de la Ciudad de México, deberá migrar la información con la que cuenta, desde su creación hasta la entrada en vigor del presente Decreto, a la Plataforma Digital de Publicidad Exterior y al Registro de Publicistas, según corresponda. La Agencia Digital de Innovación Pública deberá diseñar, en coordinación con la Secretaría de Movilidad, las soluciones tecnológicas que permitan la migración de dicha información, en un término de 120 días naturales a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. Los trámites y procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto se sustanciarán y concluirán de conformidad con las disposiciones jurídicas vigentes a la fecha en que se iniciaron.
+
+SEXTO. Todo medio publicitario prohibido deberá ser retirado por las personas que intervinieron en la instalación del mismo, la comercialización de los espacios publicitarios, así como la difusión del contenido publicitario en un periodo que no exceda de veinte días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+En el caso de los medios publicitarios prohibidos por la entrada en vigor del presente Decreto y que estén incluidos en el Padrón Oficial de Anuncios Sujetos al Reordenamiento de la Publicidad Exterior del Distrito Federal, publicado en la Gaceta Oficial del –entonces- Distrito Federal no. 242 tomo I, del 18 de diciembre de 2015, le será aplicable los (sic) dispuesto en el apartado 3 del siguiente artículo transitorio.
+
+SÉPTIMO:
+
+1.- Las personas físicas y morales responsables de los medios publicitarios que se encuentren en cualquiera de las hipótesis previstas en el artículo 15 de la presente Ley y que corresponden a modalidades incluidas en el Padrón Oficial de Anuncios Sujetos al Reordenamiento de la Publicidad Exterior del Distrito Federal publicado en la Gaceta Oficial del Distrito Federal del 18 de diciembre de 2015, cuyo status se encuentre dentro de los “INSTALADOS”, y que acrediten tener un derecho adquirido podrán realizar las gestiones para obtener la Licencia, que permita la permanencia, cambio de modalidad y/o reubicación de dichos medios publicitarios, según proceda. El procedimiento a seguir será el establecido en el numeral 2 del presente Transitorio.
+
+Las personas físicas o morales que posean medios publicitarios autosoportados que hayan sido instalados conforme a la normatividad aplicable antes de la entrada en vigor de la presente Ley y cuyo status sea el de “INSTALADOS” deberán seguir los procedimientos descritos en los incisos a) y b) del numeral 2 de este Transitorio para obtener, en su caso, la Licencia de los mismos.
+
+Asimismo, las personas que posean medios publicitarios instalados conforme a la normativa aplicable en muros ciegos de colindancia en corredores publicitarios antes de la entrada en vigor de la presente Ley, y que se adapten al uso de un 40% del espacio factible de exhibición del muro sobre el que se colocan, podrán seguir los procedimientos aquí descritos para solicitar, en su caso, la obtención de Licencia de los mismos.
+
+Dentro del análisis que al efecto realice la Secretaría de las solicitudes señaladas en los párrafos anteriores se considerará el cumplimiento de los solicitantes del retiro voluntario de medios publicitarios que no cumplan con lo establecido en la presente Ley.
+
+2.- Las personas físicas o morales responsables de los medios publicitarios definidos en el anterior numeral de este transitorio, deberán, dentro de un plazo máximo de 70 días naturales contados a partir de la entrada en vigor de este Decreto:
+
+a) Manifestar lo que a su derecho convenga y presentar ante la Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México o de la autoridad competente pruebas pertinentes, idóneas y suficientes para acreditar su legal y previa instalación y permanencia, como son: las licencias, permisos o autorizaciones respectivas, sentencias jurisdiccionales firmes, pago de derechos, entre otros.
+
+b) Acreditar que se encuentran enlistados con el status de “INSTALADOS” en el Padrón Oficial de Anuncios Sujetos al Reordenamiento de la Publicidad Exterior del Distrito Federal publicado en la Gaceta Oficial del Distrito Federal del 18 de diciembre de 2015.
+
+c) Presentar a la Secretaría o autoridad competente la solicitud que incluya la propuesta de permanencia, cambio de modalidad y/o reubicación, según se trate, conforme a las disposiciones previstas en esta Ley en los supuestos procedentes, a efecto de analizar la viabilidad de ello y se determine lo procedente.
+
+d) En la propuesta se deberán además señalar las dimensiones y características de los medios publicitarios, considerando que los mismos deberán cumplir con una distancia mínima de doscientos cincuenta metros respecto a cualquier otro medio publicitario.
+
+3.- En todos los casos de los medios publicitarios instalados en azoteas que estén incluidos en el Padrón Oficial de Anuncios Sujetos al Reordenamiento de la Publicidad Exterior del Distrito Federal publicado en la Gaceta Oficial del Distrito Federal del 18 de diciembre de 2015, independientemente del status, deberán ser retirados. Para ello las personas físicas o morales responsables deberán:
+
+a) Anexar a la solicitud el cronograma del periodo en el que se realizará el retiro de los medios publicitarios prohibidos, el cual no deberá exceder de un año a partir de la entrada en vigor del presente ordenamiento. Dicho retiro deberá realizarse conforme a lo siguiente:
+
+b) Durante el primer semestre se deberán retirar por lo menos el 40 por ciento de la totalidad de los medios publicitarios que correspondan a las personas responsables de los mismos;
+
+c) Durante el tercer trimestre otro 40 por ciento; y
+
+d) En el último trimestre el resto de los medios publicitarios.
+
+A las personas responsables de los anuncios de azotea que no sean retirados en el periodo de un año contado a partir de la entrada en vigor de la presente Ley, se les impondrá multa, así como las demás sanciones adicionales que procedan.
+
+El Gobierno de la Ciudad podrá retirar los medios publicitarios prohibidos notificando el crédito fiscal correspondiente a las personas físicas o morales propietarias de los mismos, responsables de su difusión y responsables de su instalación, en los términos de la presente Ley.
+
+Una vez recibida la solicitud de permanencia, cambio de modalidad y/o ubicación, la Secretaría o la autoridad competente contará con un plazo de ciento veinte días hábiles contados a partir de la recepción de la misma, para analizar y valorar la idoneidad y viabilidad de las pruebas y propuestas que reciba conforme a lo referido en el presente transitorio, así como para emitir su determinación y en su caso, para la emisión de la Licencia autorización o PATR correspondiente.
+
+4.- Para la determinación de los cambios de modalidad y/o reubicación, o permanencia, según proceda, la Secretaría o la autoridad competente considerará lo siguiente:
+
+a) En cuanto a la distribución de nuevas ubicaciones, así como, en los cambios de modalidad autorizados a favor de publicistas incluidos en el Padrón Oficial de Anuncios Sujetos al Reordenamiento de la Publicidad Exterior del Distrito Federal, se contemplarán principios de proporcionalidad y equidad, siempre y cuando ello no se contraponga a los criterios respectivos definidos en esta Ley y las demás disposiciones aplicables.
+
+b) Respecto a los casos que sean parte del proceso de ordenamiento previsto en este transitorio, en que la Secretaría advierta la existencia de un acto de corrupción, documentos falsos o falsedad de declaraciones, se dará vista a la Fiscalía General de Justicia de la Ciudad de México a fin de que se inicien las carpetas de investigación correspondientes. En dicho supuesto, el trámite solicitado será negado.
+
+c) Una vez concluido el plazo de 70 días naturales contados a partir de la entrada en vigor de este Decreto, todos los medios publicitarios prohibidos conforme a la misma, respecto de los cuales no se haya solicitado su permanencia, cambio de modalidad y/o reubicación, conforme a lo previsto en este transitorio, se presumirán ilegales y, por lo tanto, se procederá a su retiro por parte del Instituto de Verificación Administrativa de la Ciudad de México a costa de las personas responsables del anuncio o medio publicitario, sin perjuicio de las sanciones a que pudiera hacerse acreedora.
+
+5.- Tratándose de los medios publicitarios colocados en muros ciegos y azoteas que en términos de lo previsto en este transitorio la Secretaría haya determinado que no es procedente su permanencia, cambio de modalidad y/o reubicación, se presumirán como ilegales y, por lo tanto, se procederá a su retiro por parte del Instituto de Verificación Administrativa de la Ciudad de México a costa de las personas responsables del anuncio o medio publicitario, sin perjuicio de las sanciones a que pudiera hacerse acreedora.
+
+6.- Para efectos de la reubicación de anuncios o cambios de modalidad, la Secretaría considerará domicilios alternativos para los publicistas que hayan hecho el retiro en los tiempos señalados.
+
+7.- La Secretaría procurará que las ubicaciones de estas nuevas modalidades se encuentren en un radio de 250 metros respecto a los medios prohibidos retirados. De no ser factible ello por razones físicas espaciales o de protección civil, se buscarán otras ubicaciones viables de acuerdo a lo establecido por esta Ley. La publicidad que se coloca en el transporte público y otras modalidades establecidas en la presente Ley, podrán servir al fin que se describe en este apartado.
+
+En todo caso, cualquier ubicación propuesta, y autorización que se derive de la misma, estará sujeta a las disposiciones y trámites administrativos que resulten aplicables en razón del tipo de bien de que se trate.
+
+8.- Tendrán prioridad en la obtención de licencias o PATR de nuevas modalidades en nuevas ubicaciones aquellos publicistas que realicen el retiro en primera instancia.
+
+9.- La Secretaría podrá otorgar Licencias para medios publicitarios en muros ciegos de colindancia en corredores publicitarios como modalidad sustituta de medios instalados en azotea que sean retirados en primera instancia. Estos deberán adaptarse al uso de un 40% del muro susceptible de publicitarse, sobre el que se colocan y no podrán tener una dimensión superior al anuncio retirado.
+
+Lo anterior, previa solicitud del interesado y con la condición de que estos sirvan como modalidad sustituta de medios instalados en azotea que sean retirados en primera instancia.
+
+10.- Los medios publicitarios respecto de los cuales se emitan licencias o permisos de conformidad con lo previsto en este transitorio, se podrán cambiar de ubicación siempre y cuando al momento de su solicitud se cumpla con las disposiciones vigentes.
+
+Una vez autorizado (sic) la permanencia, reubicación y/o cambio de modalidad, según proceda, las personas responsables de los medios publicitarios, podrán obtener la Licencia o permiso respectivo, para lo cual deberán además cumplir con los requisitos de esta Ley para la emisión de las mismas, así como las demás disposiciones aplicables.
+
+La Secretaría emitirá los lineamientos para la aplicación de este Artículo Séptimo Transitorio en un plazo de 10 días hábiles a partir de la entrada en vigor de esta Ley.
+
+OCTAVO. El Reglamento de la presente Ley se expedirá en un plazo máximo de 120 días hábiles contados a partir de la entrada en vigor del presente Decreto. En tanto se emita el Reglamento de la Ley de Publicidad Exterior en la Ciudad de México, continuará aplicándose el Reglamento de la Ley de Publicidad Exterior del Distrito Federal, en lo que no contravenga lo previsto en la presente Ley.
+
+NOVENO. Las referencias hechas a la Ley de Publicidad Exterior del Distrito Federal en otros ordenamientos, se entenderán hechas a la Ley de Publicidad Exterior en la Ciudad de México.
+
+DÉCIMO. El Consejo Consultivo para Medios Publicitarios deberá instalarse en un plazo máximo de 180 días hábiles contados a partir del día siguiente a la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El mobiliario urbano con publicidad integrada que cuente con un Permiso Administrativo Temporal Revocable vigente continuará ubicado en el emplazamiento que tiene autorizado por la Secretaría.
+
+DÉCIMO SEGUNDO. Los Permisos Administrativos Temporales Revocables otorgados previo a la entrada en vigor de la presente Ley, podrán ser prorrogados en los términos indicados por los artículos 106 y 107 de la Ley del Régimen Patrimonial y del Servicio Público; en cuyo caso, para la tramitación de la prórroga deberán de aplicarse las disposiciones normativas vigentes en el momento del otorgamiento del Permiso.
+
+DÉCIMO TERCERO. Se reconocen los siguientes corredores publicitarios:
+
+I. El Anillo Periférico, en el tramo comprendido por los boulevares Manuel Ávila Camacho, Adolfo López Mateos, Adolfo Ruiz Cortines y la avenida Canal de Garay; Río San Joaquín; Eje 3 Oriente Francisco del Paso y Troncoso, y Avenida Vasco de Quiroga;
+
+II. La calzada San Antonio Abad; la calzada de Tlalpan; la calzada Patriotismo; calzada Zaragoza, y Canal de Miramontes; y
+
+III. Calzada Melchor Ocampo en su tramo de 3.5 km que comprende de la Avenida Marina Nacional al Eje 4 Sur Benjamín Franklin;
+
+IV. Boulevard Puerto Aéreo en su tramo de 4.4 km que comprende de la Avenida Oceanía al Viaducto Río Piedad;
+
+V. Avenida Río Churubusco en su tramo de 6 km que corresponde a la Avenida Insurgentes a la Avenida Cerro de las Torres;
+
+VI. Viaducto Miguel Alemán, Viaducto Rio Piedad;
+
+VII. Insurgentes Norte, Insurgentes Centro en su tramo que comprende de Avenida Puente de Alvarado a Avenida Buenavista;
+
+VIII. Avenida Constituyentes, a partir de su intersección con el periférico Manuel Ávila Camacho hacia el poniente de la Ciudad.; (sic)
+
+IX. Avenida Universidad, a partir de su intersección con avenida Cuauhtémoc, hasta el eje 10 sur y; y
+
+X. Avenida Cuauhtémoc a partir de su intersección con el viaducto Río Piedad hacia el sur.
+
+XI. Aquiles Serdán en su tramo de 6.3 km que comprende de Calzada de las Armas a Calzada México Tacuba;
+
+XII. Eje 5 Sur en su tramo de 18.1 km que comprende del Anillo Periférico a la Avenida República Federal del Sur;
+
+XIII. Eje 6 Sur en su tramo de 19.3 km que comprende de la Avenida Revolución a Calzada Ermita Iztapalapa;
+
+XIV. Eje 8 Sur Ermita Iztapalapa en su tramo de 20.8 km que comprende de la Avenida Universidad a Calzada Ignacio Zaragoza;
+
+XV. Avenida Montevideo en su tramo de 2.5 km que comprende de Calzada Vallejo a la Avenida Insurgentes;
+
+XVI. Prolongación División del Norte en su tramo de 4.8 km que comprende de la Calzada Acoxpa a Francisco Goytia;
+
+XVII. Circuito Interior en los siguientes tramos:
+
+a) Avenida Río Consulado en su tramo de 8.9 km que comprende del Eje 2 Norte a Oceanía; Avenida Instituto Técnico Industrial en su tramo de 1.8 km que comprende del Eje 2 Norte a Calzada México-Tacuba;
+
+b) Calzada Melchor Ocampo en su tramo de 0.9 km que comprende de la Calzada México-Tacuba a la Avenida Marina Nacional;
+
+c) Avenida Revolución en su tramo de 3.9 km que comprende del Eje 4 Sur Benjamín Franklin a Molinos;
+
+d) Avenida Río Mixcoac en su tramo de 0.9 km que comprende de Molinos a la Avenida Insurgentes;
+
+e) Río Churubusco en su tramo de 7.6 km que comprende del Cerro de las Torres al Viaducto Río de la Piedad.
+
+XVIII. Eje 10 Sur, en su tramo de 2.5 km que comprende de la Avenida Cerro del Agua a la Avenida Aztecas.
+
+DÉCIMO CUARTO. En un término de 30 días hábiles, la Agencia de Innovación Pública deberá diseñar, en coordinación con la Secretaría Desarrollo Urbano y Vivienda, el Registro de Publicistas y la Plataforma Digital de Publicidad Exterior, mediante las soluciones tecnológicas que permitan integrar la información con la que se cuente, así como implementar las nuevas determinaciones establecidas en la presente Ley.
+
+Una vez implementados dicha Plataforma y Registro, las autoridades responsables de subir información, contarán con 60 días hábiles para actualizarla.
+
+Una vez implementado el Registro de Publicistas, las personas físicas y morales dedicadas a la instalación, gestión, operación y comercialización de medios publicitarios, contarán con 60 días hábiles para registrarse y poder realizar sus actividades, en términos de la presente Ley.
