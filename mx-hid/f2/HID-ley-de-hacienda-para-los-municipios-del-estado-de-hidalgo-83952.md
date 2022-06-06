@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-para-los-municipios-del-estado-de-hidalgo-83952
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-21"
-last_updated: "2021-07-06"
+last_updated: "2022-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2022.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -81,7 +81,9 @@ En ellas se contendrán los diversos conceptos de ingreso, de conformidad con lo
 
 En los proyectos de Leyes de Ingresos para cada Municipio se propondrán además las cuotas, tasas y tarifas aplicables a las bases y demás elementos de la contribución que se regulen en este ordenamiento y en su caso, las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de contribuciones sobre la propiedad inmobiliaria.
 
-Dichos proyectos deberán aprobarse por el Ayuntamiento durante el mes de octubre de cada año y a más tardar la primera quincena del mes de noviembre, el Presidente Municipal deberá enviar la Iniciativa de Ley correspondiente al Congreso del Estado, para efectos de su aprobación y consecuente aplicación en el siguiente Ejercicio Fiscal.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2022)</small>
+
+Dichos proyectos deberán aprobarse por el Ayuntamiento durante el mes de septiembre de cada año y a más tardar el primer día hábil del mes de octubre, el Presidente Municipal deberá enviar la Iniciativa de Ley correspondiente al Congreso del Estado, para efectos de su análisis, modificación, aprobación y consecuente aplicación en el siguiente Ejercicio Fiscal.
 
 ###### ARTÍCULO 6o.
 
@@ -1854,3 +1856,11 @@ P.O. 6 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 720 QUE REFORMA EL ARTÍCULO 13 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 208 POR EL QUE SE REFORMA LOS ARTÍCULOS 60 Y 95 QUATER DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EL ARTÍCULO 5 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO Y EL ARTÍCULO 29 DEL CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
