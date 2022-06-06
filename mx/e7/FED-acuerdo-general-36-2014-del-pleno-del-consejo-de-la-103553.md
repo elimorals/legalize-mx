@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-36-2014-del-pleno-del-consejo-de-la-103553"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-11-19"
-last_updated: "2022-01-10"
+last_updated: "2022-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103553&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-11-12"
 
 ACUERDO GENERAL 36/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JUNIO DE 2022.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 19 de noviembre de 2014.
 
@@ -267,11 +267,13 @@ XII. Las demás que determinen el Pleno o las Comisiones permanentes.
 
 En el ejercicio de estas atribuciones, el Administrador deberá observar la normatividad, procedimientos, manuales, lineamientos, directrices e instrucciones, tanto generales como particulares y demás disposiciones aplicables.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN DE PERSONAS ADMINISTRADORAS DE MANERA PROVISIONAL, D.O.F. 6 DE JUNIO DE 2022)</small>
 
 ###### Artículo 12.
 
-Las ausencias temporales y definitivas de los Administradores serán suplidas por el Encargado de Despacho Logístico – Administrativo, en ausencia de este último lo suplirá quien determine la Unidad.
+Las ausencias temporales de las personas administradoras serán suplidas por la o el Asistente de Despacho Judicial, de lo cual se dará aviso inmediato a la Unidad y, en ausencia de este último, le suplirá quien determine la Unidad.
+
+Cuando la ausencia de la persona administradora sea mayor a quince días, el Pleno podrá designar, a propuesta de la Unidad, con el visto bueno de la Comisión de Administración a una o un Administrador de manera provisional, quien habrá de cumplir con los requisitos exigidos por el artículo 7 de este Acuerdo.
 
 ###### Artículo 13.
 
@@ -940,3 +942,11 @@ D.O.F. 10 DE ENERO DE 2022.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral del Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 6 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN DE PERSONAS ADMINISTRADORAS DE MANERA PROVISIONAL".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
