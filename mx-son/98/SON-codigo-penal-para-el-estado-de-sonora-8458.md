@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2021-12-30"
+last_updated: "2022-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE JUNIO DE 2022.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -2006,6 +2006,16 @@ IX.- Cuando con violencia física, moral, verbal, psicológica, sexual, económi
 X.- Cuando se realice por medio de acoso, hostigamiento, amenaza o engaño.
 
 Este delito se perseguirá de oficio.
+
+(NOTA: EL 26 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 95/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 7 DE JUNIO DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 40, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, B.O. 6 DE JUNIO DE 2022)</small>
+
+ARTICULO 167 QUATER.- Al que por cualquier medio y fuera de los supuestos autorizados por la Ley, audiograbe, comercialice, comparta, difunda, distribuya, entregue, exponga, envíe, filme, fotografíe, intercambie, oferte, publique, remita, reproduzca, revele, transmita o videograbe imágenes, audios, videos o documentos de cadáveres o parte de ellos que se encuentren relacionados con una investigación penal, de las circunstancias de la muerte o de las lesiones que éstos presentan, sea en el lugar de los hechos o del hallazgo o en su cualquier (sic) domicilio público o privado, se le impondrá de cuatro a diez años de prisión y multa por un importe equivalente de cien a ciento cincuenta veces el valor diario de la unidad de medida y actualización.
+
+Tratándose de imágenes, audios o videos de cadáveres de mujeres, niñas, niños, adolescentes o personas con discapacidad, de las circunstancias de su muerte, de las lesiones o estado de salud, las penas previstas en este artículo se incrementarán hasta en una mitad.
+
+Cuando el delito sea cometido por persona servidora pública integrante de cualquier institución de seguridad pública o de impartición o procuración de justicia, las penas previstas se incrementarán hasta en una tercera parte.
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 7 DE ABRIL DE 2008)</small>
 
@@ -5824,3 +5834,9 @@ B.O. 30 DE DICIEMBRE DE 2021.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 6 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 40, QUE ADICIONA EL ARTÍCULO 167 QUARTER (SIC), AL CÓDIGO PENAL DEL ESTADO DE SONORA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
