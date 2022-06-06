@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-archivo-del-instituto-estatal-electoral-de-12066
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-04-03"
-last_updated: "2017-04-03"
+last_updated: "2022-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "AGU"
 ---
 # REGLAMENTO DEL ARCHIVO DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE ARCHIVO DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 6 DE JUNIO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 REGLAMENTO DEL ARCHIVO DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2022 (DEROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 3 de abril de 2017.
 
@@ -339,3 +341,21 @@ El presente Reglamento entrará en vigor al momento de su aprobación.
 ###### ARTÍCULO SEGUNDO.
 
 El Consejo General como ente obligado deberá incluir necesariamente una partida presupuestal suficiente para cubrir las necesidades que se generen en el archivo.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ESTATAL ELECTORAL, MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO DE ARCHIVO DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES, Y SE ABROGA EL APROBADO EN SESIÓN ORDINARIA DE FECHA VEINTIOCHO DE FEBRERO DE DOS MIL DIECISIETE, MEDIANTE ACUERDO IDENTIFICADO CON LA CLAVE CG-A-08/17”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al momento de su aprobación por el Consejo General del Instituto Estatal Electoral de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Reglamento de Archivo del Instituto Estatal Electoral de Aguascalientes, aprobado por el Consejo General, en fecha veintiocho de febrero de dos mil diecisiete, mediante acuerdo identificado con la clave CG-A-08/17.
+
+###### ARTÍCULO TERCERO.
+
+A su vez, se tienen por derogadas las Reglas de operación para el funcionamiento del Grupo Interdisciplinario en materia de archivo del Instituto Estatal Electoral de Aguascalientes aprobadas por el Grupo Interdisciplinario en fecha veinte de abril de dos mil veinte.
