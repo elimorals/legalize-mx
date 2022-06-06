@@ -4,7 +4,7 @@ identifier: "SON-ley-de-proteccion-ciudadana-contra-los-efectos-nocivos-del-4966
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-06"
-last_updated: "2020-12-21"
+last_updated: "2022-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE JUNIO DE 2022.
 
 Ley publicada en la Sección III al Número 19 del Boletín Oficial del Estado de Sonora, el lunes 6 de marzo de 2006.
 
@@ -39,17 +39,23 @@ LEY DE PROTECCION CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO
 
 ### CAPITULO I. DEL OBJETO, COMPETENCIAS Y ALCANCES DE LA LEY
 
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2022)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público y de interés social y tiene por objeto prevenir y, en su caso, impedir o revertir el tabaquismo, así como proteger la salud de las personas de los efectos de la inhalación involuntaria de humos producidos por la combustión de tabaco en cualquiera de sus formas o presentaciones.
+La presente ley es de orden público y de interés social y tiene por objeto:
+
+I.- Prevenir y, en su caso, impedir o revertir el tabaquismo;
+
+II.- Proteger la salud de las personas de los efectos de la inhalación involuntaria de humos producidos por la combustión de tabaco en cualquiera de sus formas o presentaciones; y
+
+III.- Proteger la salud pública y del medio ambiente, al establecer medidas para el correcto manejo, recolección, acopio, procesamiento, disposición y tratamiento final de las colillas de cigarro.
+
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2022)</small>
 
 ###### Artículo 2.
 
-La aplicación y vigilancia del cumplimiento de la presente ley compete al Ejecutivo Estatal, por conducto de la Secretaría de Salud Pública y a los ayuntamientos, por conducto de la dependencia que al efecto designe cada uno de ellos.
-
-Los propietarios o encargados de los establecimientos referidos en esta ley serán responsables del cumplimiento de sus disposiciones, sin perjuicio de que cualquier persona podrá solicitar el auxilio de la fuerza pública para obtener dicho cumplimiento.
-
-La fuerza pública estará invariablemente obligada a intervenir y prestar con eficiencia y prontitud su auxilio para el cumplimiento de esta ley, bastando para que se genere dicha obligación la denuncia o aviso, incluso verbal, que presente cualquier persona ante cualquier elemento de cualquier corporación policíaca estatal o municipal.
+La aplicación y vigilancia del cumplimiento de la presente ley compete al Ejecutivo Estatal, por conducto de la Secretaría de Salud Pública y a los ayuntamientos, por conducto de la dependencia que al efecto designe cada uno de ellos. Ambas instancias deberán vincularse con las autoridades ambientales competentes para efectos de garantizar el correcto manejo, recolección, acopio, procesamiento, disposición y tratamiento final de las colillas que realicen los establecimientos obligados.
 
 ###### Artículo 3.
 
@@ -72,6 +78,10 @@ Cualquier denuncia ciudadana relacionada con el incumplimiento de las obligacion
 Los locales cerrados en que se vendan alimentos para su consumo inmediato, los hospitales y las clínicas particulares y, en general, los establecimientos privados que funcionen en locales cerrados con acceso al público, deberán tener delimitadas, de acuerdo ala demanda de los usuarios, áreas reservadas para fumadores, de modo tal que el humo producido por la combustión del tabaco no afecte a terceros. Dichas áreas no podrán ser mayores a un cuarenta por ciento de los espacios de los locales cerrados de los referidos establecimientos destinados a la atención del público.
 
 Los encargados de los mencionados establecimientos deberán impedir la presencia de menores de edad, solos o acompañados, en las áreas reservadas para fumadores.
+
+> <small>(ADICIONADO, B.O. 6 DE JUNIO DE 2022)</small>
+
+Los responsables de estos establecimientos lo serán también del manejo, recolección y disposición de las colillas de cigarro en sus instalaciones, para lo cual deberán contratar un centro de acopio autorizado por la autoridad competente para que realice el tratamiento, procesamiento y disposición final de las mismas.
 
 > <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
 
@@ -111,6 +121,76 @@ Los establecimientos y vehículos a que se refiere el artículo anterior deberá
 
 Quedan excluidos de la prohibición establecida en el artículo 7 de esta Ley los establecimientos de acceso exclusivo a mayores de edad, siempre y cuando cuenten con ventilación apropiada, un sistema eficiente de extracción de humos y contar con contenedores para depositar las colillas de cigarro. La autoridad promoverá, en los referidos establecimientos, la delimitación de áreas para no fumadores y la instalación y operación de establecimientos exclusivos para mayores de edad donde se prohíba fumar.
 
+> <small>(ADICIONADO, B.O. 6 DE JUNIO DE 2022)</small>
+
+Artículo 9 BIS.- Los contenedores de recolección, destinados en los establecimientos para que el público deposite las colillas de cigarro a los que se hace referencia en la presente ley, deberán cumplir con las siguientes características:
+
+I.- Su composición debe ser de aluminio o acero inoxidable;
+
+II.- Tener cerrado hermético y resistente a químicos;
+
+III.- Debe tener un diseño que permita que se tenga mínimo contacto con las colillas de cigarro;
+
+IV.- Su diseño debe permitir un fácil vaciado;
+
+V.- Su diseño y material deben permitir un fácil mantenimiento;
+
+VI.- Su diseño debe permitir que se utilice con facilidad;
+
+VII.- Debe tener un mecanismo que permita la entrada rápida de la colilla al contenedor, manteniendo su hermetismo;
+
+VIII.- Debe tener a la vista del usuario una etiqueta que indique claramente el residuo que recibe e instrucciones de uso; y
+
+IX.- El tamaño del contenedor debe estar justificado en razón del aforo del establecimiento y la cantidad de colillas de cigarro generadas mensualmente en dicha locación.
+
+> <small>(ADICIONADO, B.O. 6 DE JUNIO DE 2022)</small>
+
+Artículo 9 BIS 1.- El establecimiento público o privado en el que se designen lugares para fumadores deben realizar un sondeo para determinar el número de contenedores de recolección y la capacidad que requieren los mismos para el acopio de la totalidad de colillas de cigarro que se disponen en esos lugares.
+
+> <small>(ADICIONADO, B.O. 6 DE JUNIO DE 2022)</small>
+
+Artículo 9 BIS 2.- Los contenedores de recolección deberán llenarse únicamente hasta el 80% de su capacidad. Posteriormente, se procederá al vaciado de las colillas de cigarro en las cubetas de almacenamiento y transportación, las que se deberán resguardar temporalmente en un área destinada dentro de los límites del establecimiento en la que esperarán a reunirse la cantidad necesaria por el centro de acopio autorizado que se tenga contratado.
+
+> <small>(ADICIONADO, B.O. 6 DE JUNIO DE 2022)</small>
+
+Artículo 9 BIS 3.- Las características mínimas que debe contemplar el sitio de resguardo temporal son las siguientes:
+
+I.- Contar con ventilación natural;
+
+II.- Evitar ubicarlos en zonas con altas temperaturas, cercanos a fuego o materiales inflamables;
+
+III.- Contar con señalamientos o letreros alusivos en los que se identifique el contenido de dichas cubetas; y
+
+IV.- Encontrarse alejada de áreas o zonas de maniobra, producción, servicios, oficinas o de almacenamiento de materias primas, especialmente comestibles.
+
+> <small>(ADICIONADO, B.O. 6 DE JUNIO DE 2022)</small>
+
+Artículo 9 BIS 4.- La cubeta de almacenamiento y transportación deberá reunir las siguientes características:
+
+I.- Deber (sic) ser de material plástico;
+
+II.- Contar con dimensiones de 29.5 centímetros de diámetro y 36 centímetros de altura;
+
+III.- Deberá encontrarse cerrada herméticamente; y
+
+IV.- Deberá etiquetarse para su identificación, estableciendo la fecha en la que se cubrió el porcentaje del 80% de capacidad de almacenamiento de la cubeta.
+
+> <small>(ADICIONADO, B.O. 6 DE JUNIO DE 2022)</small>
+
+Artículo 9 BIS 5.- Una vez que el establecimiento cuente con el número de cubetas de almacenamiento y transportación convenido con el centro de acopio que le presta el servicio se realizará la recolección por parte de éste para efectos de su disposición final.
+
+> <small>(ADICIONADO, B.O. 6 DE JUNIO DE 2022)</small>
+
+Artículo 9 BIS 6.- El centro de acopio deberá ser autorizado por la autoridad competente. En todo momento deberá considerarse preferente aquel centro de acopio que realice acciones de co-procesamiento o de reciclado.
+
+> <small>(ADICIONADO, B.O. 6 DE JUNIO DE 2022)</small>
+
+Artículo 9 BIS 7.- Las colillas de cigarro por su toxicidad no pueden ser consideradas como un residuo sólido urbano, por lo que queda prohibida su disposición en los rellenos sanitarios y otros sitios señalados para esos efectos.
+
+> <small>(ADICIONADO, B.O. 6 DE JUNIO DE 2022)</small>
+
+Artículo 9 BIS 8.- Los establecimientos que cuenten con áreas de fumar estarán obligados a promover campañas informativas sobre el daño ambiental que generan las colillas de cigarro, así como sobre la adecuada disposición, procesamiento, tratamiento y disposición final que debe practicarse con dicho residuo.
+
 ### CAPITULO IV. DE LAS ACTIVIDADES DE PROMOCION
 
 ###### Artículo 10.
@@ -119,13 +199,19 @@ La Secretaría de Salud Pública será responsable de elaborar un programa de ac
 
 El referido programa deberá incluir acciones específicas dirigidas a la prevención y tratamiento del tabaquismo, a la detección temprana del fumador y a la investigación sobre todos los aspectos relacionados con el tabaquismo.
 
-Sin perjuicio de lo anterior, la Secretaría de Salud Pública y los ayuntamientos deberán promover, preferentemente de manera coordinada, la realización de campañas para desalentar el consumo de tabaco en cualquiera de sus modalidades o presentaciones.
+> <small>(REFORMADO B.O. 6 DE JUNIO DE 2022)</small>
+
+Sin perjuicio de lo anterior, la Secretaría de Salud Pública y los ayuntamientos deberán promover, preferentemente de manera coordinada, la realización de campañas para desalentar el consumo de tabaco en cualquiera de sus modalidades o presentaciones. Para estos efectos, como una política de salud pública ambiental integral, deberán también coordinarse con las autoridades ambientales competentes para incorporar información sobre el daño ambiental que generan las colillas de cigarro.
 
 ### CAPITULO V. DE LAS VISITAS DE VERIFICACION
 
 ###### Artículo 11.
 
 La Secretaría de Salud Pública y las autoridades municipales competentes ejercerán funciones de aplicación, vigilancia e imposición de sanciones en cumplimiento de esta ley. Para el mencionado efecto y para delimitar las áreas de trabajo y funciones que asumirá cada uno de dichos niveles de gobierno, ambos entre si celebrarán convenios de coordinación que para el surtimiento de sus efectos deberán publicarse, sin costo, en el Boletín Oficial del Gobierno del Estado, manteniéndose además como información a disposición inmediata del público en general.
+
+> <small>(ADICIONADO, B.O. 6 DE JUNIO DE 2022)</small>
+
+Ambas instancias de gobierno deberán coordinarse con las autoridades ambientales competentes para conocer sobre los centros de acopio autorizados, a efecto de determinar si los establecimientos inspeccionados cumplen con el requisito de disposición final correcta de las colillas de cigarro establecido en esta ley.
 
 ###### Artículo 12.
 
@@ -185,13 +271,33 @@ VI.- No señalizar las áreas reservadas para fumadores en los establecimientos 
 
 VII.- Impedir u obstaculizar la realización de los actos que tengan por objeto verificar el cumplimiento de las disposiciones de esta Ley;
 
-> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, B.O. 6 DE JUNIO DE 2022)</small>
 
-VIII.- Permitir, los encargados de los establecimientos, la presencia de menores de edad en las áreas reservadas para fumadores; y
+VIII.- Permitir, los encargados de los establecimientos, la presencia de menores de edad en las áreas reservadas para fumadores;
 
-> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, B.O. 6 DE JUNIO DE 2022)</small>
 
-IX.- Arrojar o tirar colillas de cigarro en la vía pública, áreas comunes, parques o sitios no autorizados para tales efectos.
+IX.- Arrojar o tirar colillas de cigarro en la vía pública, áreas comunes, parques o sitios no autorizados para tales efectos;
+
+> <small>(ADICIONADA, B.O. 6 DE JUNIO DE 2022)</small>
+
+X.- No establecer los contenedores para colillas de cigarro en las áreas de fumar; o estando éstos, no cumplan con las características señaladas por esta ley;
+
+> <small>(ADICIONADA, B.O. 6 DE JUNIO DE 2022)</small>
+
+XI.- No establecer en las áreas de fumar los señalamientos requeridos en esta ley, relacionados con la disposición correcta de colillas de cigarro y el daño ambiental que provocan;
+
+> <small>(ADICIONADA, B.O. 6 DE JUNIO DE 2022)</small>
+
+XII.- No disponer de las colillas de cigarro vertidas en los contenedores ubicados en los establecimientos públicos o privados conforme al procedimiento establecido en los términos de esta ley:
+
+> <small>(ADICIONADA, B.O. 6 DE JUNIO DE 2022)</small>
+
+XIII.- No contar con un centro de acopio autorizado para la disposición final de las colillas de cigarro que se generen en sus instalaciones; e
+
+> <small>(ADICIONADA, B.O. 6 DE JUNIO DE 2022)</small>
+
+XIV.- Incumplir con alguno de los requisitos en esta ley.
 
 ###### Artículo 17.
 
@@ -206,6 +312,10 @@ II.- Multa de hasta 3100 Unidades de Medida y Actualización;
 III.- Clausura parcial o total, temporal o permanente del establecimiento, excepto oficinas gubernamentales.
 
 IV.- Trabajo comunitario en campañas de lucha contra el tabaquismo.
+
+> <small>(ADICIONADA, B.O. 6 DE JUNIO DE 2022)</small>
+
+IV BIS.- Cuando la infracción esté relacionada con el indebido manejo, recolección, acopio, procesamiento, disposición y tratamiento final de las colillas, aplicará de manera preferente trabajo comunitario en campañas de recolección de dicho residuo.
 
 V.- Asistencia obligatoria a pláticas, conferencias, mesas redondas o exhibición de videos relacionados con las causas, efectos y modos de rehabilitación del tabaquismo.
 
@@ -386,3 +496,11 @@ Dentro de los noventa días siguientes a la publicación del presente Decreto, e
 ###### ARTÍCULO TERCERO.
 
 Dentro de los 60 días siguientes a la publicación de la normatividad indicada en el Transitorio Segundo, por medio del Ejecutivo Estatal, se colocarán contenedores en los espacios públicos de acuerdo con la suficiencia presupuestal que para tal efecto se tenga.
+
+B.O. 6 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 45, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
