@@ -4,7 +4,7 @@ identifier: "SON-ley-del-registro-civil-para-el-estado-de-sonora-98309"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-09"
-last_updated: "2021-02-02"
+last_updated: "2022-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE JUNIO DE 2022.
 
 Ley publicada en la Sección VI del Boletín Oficial del Estado de Sonora, el jueves 9 de enero de 2014.
 
@@ -389,11 +389,15 @@ IV.- Rectificación o aclaración.
 
 ### CAPÍTULO II. DE LAS ACTAS DE NACIMIENTO
 
-###### Artículo 45.
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2022)</small>
+
+###### Articulo 45.
 
 El registro de nacimiento es el acto jurídico mediante el cual, el Estado garantiza la identidad de las personas. Toda persona tiene derecho al nombre o nombres y apellidos que legalmente le pertenecen.
 
-Los apellidos corresponderán, por su orden, el primero del padre y el primero de la madre. En el caso de hijos monoparentales se usará el primer apellido de la madre y en caso de solicitar el asentamiento del segundo apellido de la madre, será a petición de ésta.
+Los apellidos corresponderán según el orden de prelación que los progenitores convengan, el oficial del Registro Civil deberá especificar, de forma expresa, el orden que acuerden. El orden de los apellidos acordado se considerará para los demás hijos e hijas del mismo vínculo. Atendiendo al interés superior del menor, el oficial del Registro Civil decidirá el orden de los apellidos cuando no haya acuerdo entre los progenitores.
+
+En el caso de hijos monoparentales se usará el primer apellido de la madre y en caso de solicitar el asentamiento del segundo apellido de la madre, será a petición de ésta.
 
 > <small>(REFORMADO, B.O. 26 DE JUNIO DE 2014)</small>
 
@@ -1264,3 +1268,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 6 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 32 QUE REFORMA EL ARTÍCULO 45 DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
