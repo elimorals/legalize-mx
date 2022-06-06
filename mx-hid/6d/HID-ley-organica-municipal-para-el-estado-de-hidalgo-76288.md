@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2022-05-23"
+last_updated: "2022-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2022.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -1093,7 +1093,7 @@ El Presidente Municipal ajustará su actuación a lo dispuesto en la Constituci�
 
 El Presidente Municipal, asumirá la representación jurídica del Ayuntamiento en los litigios en que éste fuera parte, cuando el Síndico esté impedido legalmente para ello, o no la asuma por cualquier causa, quien, de ser necesario, podrá nombrar apoderados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 60.
 
@@ -1143,9 +1143,9 @@ o).- Obligar crediticiamente al Municipio en forma mancomunada con el Secretario
 
 p).- Solicitar la expropiación de bienes por causa de utilidad pública, como lo previene la Constitución Política del Estado;
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2022)</small>
 
-q) Formular anualmente, con apoyo de la Tesorería Municipal, la iniciativa de la Ley de Ingresos y remitirla al Congreso del Estado para su aprobación, a más tardar en la primera quincena del mes de Noviembre;
+q) Formular anualmente, con apoyo de la Tesorería Municipal, la iniciativa de la Ley de Ingresos y remitirla al Congreso del Estado para su aprobación, a más tardar el primer día hábil del mes de octubre;
 
 r).- Formular anualmente el Presupuesto de Egresos;
 
@@ -1851,13 +1851,27 @@ c) Las previsiones para sufragar las erogaciones correspondientes al presupuesto
 
 Los funcionarios de la administración pública municipal deberán comparecer ante el Ayuntamiento cuando se les requiera para aportar la información necesaria que contribuya a un mejor análisis de las Iniciativas.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2022)</small>
 
-ARTÍCULO 95 QUATER.- La Iniciativa de Ley de Ingresos deberá ser presentada al Ayuntamiento por el Presidente Municipal con apoyo del Tesorero Municipal a más tardar el 15 de octubre del año anterior al de su ejercicio, para su análisis, discusión y, en su caso, aprobación. La aprobación de dicha iniciativa será a más tardar el 31 de octubre de ese mismo año.
+ARTÍCULO 95 QUATER.- La Iniciativa de Ley de Ingresos deberá ser presentada al Ayuntamiento por el Presidente Municipal con apoyo del Tesorero Municipal a más tardar el segundo lunes del mes de septiembre del año anterior al de su ejercicio, para su análisis, discusión y, en su caso, aprobación. La aprobación de dicha iniciativa se hará a más tardar el cuarto lunes del mes de septiembre de ese mismo año.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 La iniciativa de Ley de Ingresos contendrá la estimación de los ingresos a recaudar por parte de la Tesorería Municipal, de acuerdo con lo facultado en la Ley de Hacienda para los Municipios del Estado de Hidalgo.
 
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
 En la proyección del ingreso a que se refiere el párrafo anterior, la Tesorería Municipal deberá considerar las necesidades de gasto público municipal, la utilización del crédito público, en su caso, y la sanidad financiera de la administración pública municipal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JUNIO DE 2022)</small>
+
+Cuando en la iniciativa de Ley de Ingresos, el Ayuntamiento proponga la creación de nuevos conceptos y cuotas o el incremento de aquellos ya establecidos, que puedan ocasionar un perjuicio económico a los contribuyentes, señalará dentro de la exposición de motivos la necesidad de los mismos, a fin de auxiliar al Congreso del Estado, en su análisis y discusión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JUNIO DE 2022)</small>
+
+En el último año del periodo de administración municipal, la persona titular de la Presidencia Municipal y la persona titular de la Tesorería de cada Municipio, elaborarán el proyecto de la Iniciativa de Ley de Ingresos para el ejercicio fiscal siguiente; el Ayuntamiento entrante podrá considerar el proyecto o en su caso construir uno nuevo, siempre y cuando se cumpla con los términos establecidos en las disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE JUNIO DE 2022)</small>
 
 Cualquier modificación a la Ley de Ingresos solo podrá realizarse durante el ejercicio fiscal de su vigencia.
 
@@ -3906,3 +3920,11 @@ P.O. 23 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 195 POR EL QUE SE REFORMA EL ARTÍCULO 160 Y LAS FRACCIONES I Y III DEL ARTÍCULO 161; Y SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 161, DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 208 POR EL QUE SE REFORMA (SIC) LOS ARTÍCULOS 60 Y 95 QUATER DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EL ARTÍCULO 5 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO Y EL ARTÍCULO 29 DEL CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
