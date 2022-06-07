@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2020-12-22"
+last_updated: "2022-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE JUNIO DE 2022.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -1067,7 +1067,9 @@ III.- Proponer al Cabildo el nombramiento del Secretario Municipal en los térmi
 
 IV.- Ejercitar separada o conjuntamente con el Tesorero, la facultad económico-coactiva, en los términos establecidos en el Código Fiscal del Estado de Yucatán;
 
-V.- Nombrar y remover al personal administrativo del Ayuntamiento, cuando así se requiera, debiendo informar al Cabildo en la sesión inmediata;
+> <small>(REFORMADA, D.O. 7 DE JUNIO DE 2022)</small>
+
+V.- Nombrar y remover al personal administrativo del Ayuntamiento, cuando así se requiera, debiendo informar al Cabildo en la sesión inmediata; tratándose de la contratación de asesoría por parte de personas prestadoras de servicios profesionales en materia jurídica, técnica de obra, contable o de otra materia afín a la administración municipal, deberá remitir al Congreso del Estado en un plazo no mayor de quince días contados a partir de la fecha de suscripción del contrato respectivo o del inicio de la prestación del servicio, el nombre, dirección y correo electrónico correspondiente, así como un tanto del contrato y la documentación que lo integre, para que se efectúe un registro correspondiente;
 
 VI.- Delegar la presidencia del Sistema Municipal para el Desarrollo Integral de la Familia, en su cónyuge o persona distinta, de acuerdo a la forma que adopte este organismo;
 
@@ -1507,9 +1509,47 @@ VII.- No desempeñar actividades comerciales o laborales que impidan el correcto
 
 Los Jefes de Manzana, además de las facultades mencionadas en el presente capítulo, tendrán la obligación de elaborar, revisar y actualizar el Registro de Población del Municipio, en los términos del Reglamento de la materia.
 
-### CAPÍTULO V. DE LOS ÓRGANOS CONSULTIVOS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 7 DE JUNIO DE 2022)</small>
 
-### CAPÍTULO VI. DE LA PARTICIPACIÓN CIUDADANA
+### CAPÍTULO IV BIS. DE LOS ASESORES MUNICIPALES
+
+> <small>(ADICIONADO, D.O. 7 DE JUNIO DE 2022)</small>
+
+###### Artículo 71 Bis.
+
+Los asesores municipales dependerán directamente del titular de la presidencia municipal, siendo estos, los profesionales encargados de auxiliar, apoyar, atender, proponer y desarrollar proyectos, programas y demás funciones que le encomiende el mismo.
+
+Deberán acreditar título y cédula profesional de licenciado en derecho, contabilidad y cualquier otra afín a la administración pública municipal y deberá contar con experiencia mínima de tres años en la materia.
+
+> <small>(ADICIONADO, D.O. 7 DE JUNIO DE 2022)</small>
+
+###### Artículo 71 Ter.
+
+Los asesores municipales tendrán como obligaciones las siguientes:
+
+I.- Contribuir al proceso de toma de decisiones de la persona titular de la Presidencia Municipal a través de estudios e identificación de problemas específicos de las dependencias y unidades administrativas;
+
+II.- Asesorar en metodologías, estrategias y recursos para el desarrollo de los proyectos, programas y demás asuntos que le sean encomendados;
+
+III.- Analizar y proporcionar elementos de carácter técnico, jurídico, político y financiero para la toma de decisiones de la persona titular de la Presidencia Municipal;
+
+IV.- Atender cabalmente los requisitos, términos, plazos y demás elementos que se requieran para el ejercicio de las funciones del Ayuntamiento;
+
+V.- Realizar el monitoreo del impacto político de las decisiones tomadas por la persona titular de la Presidencia Municipal;
+
+VI.- Brindar asesoría especializada en problemáticas emergentes relativas al municipio;
+
+VII.- Proponer a la persona titular de la Presidencia Municipal, los mecanismos técnicos que permitan elevar los niveles de eficiencia y productividad en la administración pública municipal;
+
+VIII.- Proponer el diseño de políticas públicas municipales, derivadas del Plan Municipal de Desarrollo, con la finalidad de orientar los compromisos adquiridos por la Presidencia Municipal; y
+
+IX.- Ejercer las demás actividades que en el ámbito de su competencia, le señalen los reglamentos, manuales y lineamientos vigentes; así como aquellas encomendadas expresamente por el titular de la Presidencia Municipal.
+
+> <small>(ADICIONADO, D.O. 7 DE JUNIO DE 2022)</small>
+
+Artículo 71 quáter.- Los asesores municipales, independientemente de la relación laboral o contractual por la que presten sus servicios, serán responsables de las faltas administrativas y los delitos que cometan en la realización de sus actividades, tareas y obligaciones o con motivo de ellas, para lo cual se les considerará como servidores públicos para efectos de lo previsto en la Ley de Responsabilidades Administrativas del Estado de Yucatán y en el Código Penal del Estado de Yucatán; lo anterior sin perjuicio de las penas, sanciones e infracciones señaladas en otras leyes aplicables a la materia.
+
+### CAPÍTULO V. DE LOS ÓRGANOS CONSULTIVOS
 
 ###### Artículo 72.
 
@@ -1529,7 +1569,7 @@ Los cargos de sus integrantes tendrán carácter honorario y sus opiniones no ob
 
 El Cabildo establecerá los consejos de colaboración necesarios, para atender asuntos de interés relevante para el gobierno municipal y los habitantes. Dichos órganos tendrán las facultades y obligaciones que en el acuerdo de su creación se establezca.
 
-### CAPÍTULO VII. DE LA FACULTAD REGLAMENTARIA
+### CAPÍTULO VI. DE LA PARTICIPACIÓN CIUDADANA
 
 ###### Artículo 75.
 
@@ -1549,9 +1589,9 @@ IV.- Las demás que establezca el Ayuntamiento.
 
 La ley especial regulará los procedimientos, modalidades y condiciones de dicha participación.
 
-### CAPÍTULO I. DE LA ADMINISTRACIÓN CENTRALIZADA
+### CAPÍTULO VII. DE LA FACULTAD REGLAMENTARIA
 
-### CAPÍTULO II. DE LAS AUTORIDADES FISCALES Y HACENDARIAS
+### CAPÍTULO I. DE LA ADMINISTRACIÓN CENTRALIZADA
 
 #### SECCIÓN ÚNICA. DISPOSICIONES GENERALES
 
@@ -1583,7 +1623,7 @@ V.- El índice de contenido.
 
 ## TÍTULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA
 
-### CAPÍTULO III. DE LA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS
+### CAPÍTULO II. DE LAS AUTORIDADES FISCALES Y HACENDARIAS
 
 ###### Artículo 80.
 
@@ -1613,7 +1653,7 @@ Las oficinas y dependencias, conducirán sus acciones en base a los fines y obje
 
 Los titulares de cada una de las oficinas y dependencias de la administración pública, deberán ser ciudadanos mexicanos, en pleno ejercicio de sus derechos, preferentemente vecinos del Municipio, de reconocida honorabilidad y probada aptitud para desempeñar los cargos que les corresponda. Acordarán directamente con el Presidente Municipal a quien le estarán subordinados de manera inmediata y directa, y comparecerán ante el Cabildo, cuando se les requiera.
 
-### CAPÍTULO IV. DE LA PLANEACIÓN DEL DESARROLLO
+### CAPÍTULO III. DE LA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS
 
 #### SECCIÓN PRIMERA. DE LAS AUTORIDADES
 
@@ -1731,7 +1771,7 @@ XIII.- Confirmar que los financiamientos y obligaciones del ayuntamiento se cele
 
 XIV.- Las demás que expresamente le otorguen las leyes.
 
-### CAPÍTULO V. DE LA ADMINISTRACIÓN PARAMUNICIPAL
+### CAPÍTULO IV. DE LA PLANEACIÓN DEL DESARROLLO
 
 #### SECCIÓN PRIMERA. DE LOS SERVICIOS EXCLUSIVOS
 
@@ -1987,9 +2027,7 @@ Las resoluciones de extinción de las concesiones de servicios públicos, se pub
 
 > <small>(F. DE E., D.O. 8 DE FEBRERO DE 2006)</small>
 
-### CAPÍTULO VI. DE LA ASOCIACIÓN Y COORDINACIÓN MUNICIPAL
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
+### CAPÍTULO V. DE LA ADMINISTRACIÓN PARAMUNICIPAL
 
 #### SECCIÓN PRIMERA. DEL SISTEMA MUNICIPAL DE PLANEACIÓN
 
@@ -2111,7 +2149,9 @@ El ejercicio del presupuesto municipal debe relacionarse con el Plan Municipal d
 
 > <small>(F. DE E., D.O. 8 DE FEBRERO DE 2006)</small>
 
-### CAPÍTULO VII. DE LA PROFESIONALIZACIÓN DEL SERVICIO
+### CAPÍTULO VI. DE LA ASOCIACIÓN Y COORDINACIÓN MUNICIPAL
+
+> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
 
 #### SECCIÓN PRIMERA. DE SU CONSTITUCIÓN, OBJETO Y EXTINCIÓN
 
@@ -2253,7 +2293,7 @@ Por cada integrante del Comité Técnico habrá un suplente que lo cubrirá en s
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 17 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO I. DE LA INTEGRACIÓN DEL PATRIMONIO
+### CAPÍTULO VII. DE LA PROFESIONALIZACIÓN DEL SERVICIO
 
 ###### Artículo 133-A.
 
@@ -2385,7 +2425,7 @@ VI.- La observancia de esta ley y demás disposiciones legales y reglamentarias 
 
 VII.- La vigencia del convenio y las formas de extinción del mismo, así como el medio competente para el caso de controversias en su interpretación y aplicación.
 
-### CAPÍTULO II. DE LA HACIENDA PÚBLICA
+### CAPÍTULO I. DE LA INTEGRACIÓN DEL PATRIMONIO
 
 ###### Artículo 134.
 
@@ -2411,7 +2451,7 @@ V.- Los demás que se deriven de las disposiciones aplicables.
 
 ## TÍTULO CUARTO. DEL PATRIMONIO
 
-### CAPÍTULO III. DE LOS BIENES
+### CAPÍTULO II. DE LA HACIENDA PÚBLICA
 
 ###### Artículo 137.
 
@@ -2429,7 +2469,7 @@ III.- Los derechos y obligaciones creados en su favor, y
 
 IV.- Los demás bienes, derechos y obligaciones que señalen los ordenamientos legales.
 
-### CAPÍTULO IV. DE LA CONTRATACIÓN DE OBRAS Y SERVICIOS
+### CAPÍTULO III. DE LOS BIENES
 
 #### SECCIÓN PRIMERA. DE SUS ELEMENTOS
 
@@ -2551,7 +2591,7 @@ De igual forma deberán presentar su cuenta pública a la Auditoría Superior de
 
 La cuenta pública se enviará a la Auditoría Superior del Estado, sea o no aprobada en Sesión de Cabildo.
 
-### CAPÍTULO V. DEL FINANCIAMIENTO
+### CAPÍTULO IV. DE LA CONTRATACIÓN DE OBRAS Y SERVICIOS
 
 #### SECCIÓN PRIMERA. DEL DOMINIO PÚBLICO
 
@@ -2667,7 +2707,7 @@ IV.- Sean enajenadas por cualquier título sin que haya transcurrido el término
 
 Las enajenaciones de bienes muebles propiedad del Municipio se efectuarán en subasta pública, de acuerdo al procedimiento previsto en el reglamento correspondiente y a falta de éste, a lo establecido en el Código de Procedimientos Civiles del Estado de Yucatán, en lo conducente.
 
-### CAPÍTULO VI. DE LA TRANSPARENCIA Y PUBLICIDAD
+### CAPÍTULO V. DEL FINANCIAMIENTO
 
 #### SECCIÓN PRIMERA. DE LA CONTRATACIÓN DE SERVICIOS
 
@@ -2765,7 +2805,7 @@ El Ayuntamiento, por conducto de la oficina o dependencia ejecutora tendrá la f
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 28 DE MARZO DE 2018)</small>
 
-### CAPÍTULO I. DE LOS MEDIOS DE DEFENSA
+### CAPÍTULO VI. DE LA TRANSPARENCIA Y PUBLICIDAD
 
 #### SECCIÓN PRIMERA. DEL CONCEPTO
 
@@ -2821,7 +2861,7 @@ El monto de financiamiento neto aprobado en las respectivas leyes de ingresos se
 
 La contravención a lo dispuesto en este capítulo, será causa de responsabilidad administrativa o penal, en su caso.
 
-### CAPÍTULO II. DEL PROCEDIMIENTO
+### CAPÍTULO I. DE LOS MEDIOS DE DEFENSA
 
 ###### Artículo 175.
 
@@ -2835,7 +2875,7 @@ III.- Informar al Congreso del Estado, sobre la situación de su deuda en capít
 
 ## TÍTULO QUINTO. DE LA JUSTICIA MUNICIPAL
 
-### CAPÍTULO III. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO MUNICIPAL
+### CAPÍTULO II. DEL PROCEDIMIENTO
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -2921,9 +2961,7 @@ El Tribunal de lo Contencioso Administrativo Municipal, al resolver el recurso d
 
 De no existir en el Municipio el Tribunal de lo Contencioso Administrativo, conocerá del recurso de revisión, el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, en términos de la normatividad aplicable.
 
-### CAPÍTULO IV. DE LOS JUECES DE PAZ
-
-> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
+### CAPÍTULO III. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO MUNICIPAL
 
 #### SECCIÓN PRIMERA. DE LOS ORGANOS DE JUSTICIA MUNICIPAL
 
@@ -3065,7 +3103,9 @@ V.- El daño ocasionado.
 
 Podrán Imponerse sanciones por varias infracciones, sin perjuicio de la respectiva responsabilidad penal o civil.
 
-### CAPITULO I. DE LAS GENERALIDADES
+### CAPÍTULO IV. DE LOS JUECES DE PAZ
+
+> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 197.
 
@@ -3095,7 +3135,7 @@ Durarán en su encargo tres años, pudiendo ser ratificados hasta por un períod
 
 Las autoridades municipales están obligadas a acatar las resoluciones del Tribunal de lo Contencioso Administrativo Municipal, y en caso de incumplimiento inexcusable, se solicitará al Cabildo la destitución inmediata del funcionario.
 
-### CAPÍTULO II. DE LOS SERVIDORES PÚBLICOS
+### CAPITULO I. DE LAS GENERALIDADES
 
 ###### Artículo 200.
 
@@ -3129,7 +3169,7 @@ Artículo 202 A.- Si el juez de paz fuere mediador no podrá ejercer la mediaci�
 
 ## TÍTULO SEXTO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
-### CAPÍTULO III. DE LOS FUNCIONARIOS PÚBLICOS
+### CAPÍTULO II. DE LOS SERVIDORES PÚBLICOS
 
 ###### Artículo 203.
 
@@ -3157,7 +3197,7 @@ II.- El Síndico, y
 
 III.- El órgano de control interno, en su caso.
 
-### CAPÍTULO IV. DE LOS ÓRGANOS DE CONTROL INTERNO
+### CAPÍTULO III. DE LOS FUNCIONARIOS PÚBLICOS
 
 ###### Artículo 208.
 
@@ -3193,7 +3233,7 @@ XIII.- Observar, en el desempeño de su cargo o comisión, la legalidad, honrade
 
 XIV.- Las demás que les impongan las leyes.
 
-### CAPÍTULO V. DE LA DENUNCIA POPULAR
+### CAPÍTULO IV. DE LOS ÓRGANOS DE CONTROL INTERNO
 
 ###### Artículo 209.
 
@@ -3209,7 +3249,7 @@ IV.- Atender con diligencia las instrucciones, requerimientos y resoluciones que
 
 V.- Las demás que las leyes establezcan.
 
-### CAPÍTULO VI. DEL PROCEDIMIENTO
+### CAPÍTULO V. DE LA DENUNCIA POPULAR
 
 ###### Artículo 210.
 
@@ -3245,7 +3285,7 @@ VIII.- Ejecutar las políticas públicas de prevención y combate a la corrupci�
 
 IX.- Las demás que le confieran las leyes y reglamentos
 
-### CAPÍTULO VII. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO VI. DEL PROCEDIMIENTO
 
 ###### Artículo 212.
 
@@ -3269,7 +3309,7 @@ El órgano del conocimiento de la queja o denuncia, podrá mediante acuerdo, req
 
 No se admitirán denuncias notoriamente improcedente o infundadas, o en la que se advierta mala fe o inexistencia del hecho, a juicio de la autoridad competente; quien le hará saber por escrito de la procedencia o improcedencia de su acción, en un plazo no mayor de treinta días naturales, a partir de la fecha de presentación de la denuncia.
 
-### CAPÍTULO VIII. DE LA SUSPENSIÓN O REVOCACIÓN DEL MANDATO
+### CAPÍTULO VII. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 214.
 
@@ -3311,7 +3351,7 @@ Se levantará acta circunstanciada de todas las diligencias que se practiquen, t
 
 El servidor público que resulte responsable, podrá interponer el recurso de revisión ante el Tribunal de lo Contencioso Administrativo.
 
-### CAPÍTULO IX. DEL REGISTRO PATRIMONIAL
+### CAPÍTULO VIII. DE LA SUSPENSIÓN O REVOCACIÓN DEL MANDATO
 
 #### SECCIÓN PRIMERA. DE LAS INFRACCIONES
 
@@ -3436,6 +3476,8 @@ VI.- El monto del beneficio obtenido y del daño económico.
 ###### Artículo 227.
 
 Para los efectos de esta Ley y del Código Penal, se computarán entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge o concubino, así como sus dependientes económicos directos, siempre que se presuma que provienen del servidor o funcionario público.
+
+### CAPÍTULO IX. DEL REGISTRO PATRIMONIAL
 
 ###### Artículo 228.
 
@@ -3702,3 +3744,15 @@ Este decreto entrará en vigor al día siguiente de su publicación en el Diario
 Artículo segundo. Derogación expresa.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+D.O. 7 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 506/2022 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EN MATERIA DE ASESORES MUNICIPALES”.]
+
+Artículo Primero. Entrada en Vigor
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Estado.
+
+Artículo Segundo. Derogación
+
+Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
