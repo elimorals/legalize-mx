@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-la-comision-de-derechos-humanos-del-estado-de-yucatan-99
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-28"
-last_updated: "2022-04-21"
+last_updated: "2022-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99274&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE JUNIO DE 2022.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 28 de febrero de 2014.
 
@@ -310,6 +310,14 @@ VII. No haber resultado responsable por violaciones a los derechos humanos en al
 VIII. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso en los tres años inmediatos anteriores a su designación.
 
 IX. No haber sido registrado, como candidato a cualquier cargo de elección popular, ni haber desempeñado cargo alguno en los órganos directivos de algún partido político o asociación política, en los tres años anteriores a su designación.
+
+> <small>(ADICIONADA, D.O. 7 DE JUNIO DE 2022)</small>
+
+X. No tener antecedentes penales por violencia familiar, delitos contra la intimidad personal, contra la imagen personal, violencia laboral contra las mujeres, violencia obstétrica, violencia por parentesco, violencia institucional, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio.
+
+> <small>(ADICIONADA, D.O. 7 DE JUNIO DE 2022)</small>
+
+XI. No ser deudor alimentario moroso.
 
 ###### Artículo 16.
 
@@ -1700,3 +1708,15 @@ Artículo Primero. El presente decreto entrará en vigor al día siguiente de su
 Derogación expresa.
 
 Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 7 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 504/2022 POR EL QUE SE MODIFICAN LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, Y LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE YUCATÁN, EN MATERIA DE VIOLENCIA DE GÉNERO Y DEUDORES ALIMENTARIOS”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula Derogatoria
+
+Artículo segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a este decreto.
