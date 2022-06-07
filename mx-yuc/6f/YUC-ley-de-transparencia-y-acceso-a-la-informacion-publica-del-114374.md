@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1143
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-02"
-last_updated: "2017-07-18"
+last_updated: "2022-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE JUNIO DE 2022.
 
 Ley publicada en el Suplemento II del Diario Oficial del Estado de Yucatán, el lunes 2 de mayo de 2016.
 
@@ -229,7 +229,9 @@ Integración del pleno
 
 El pleno es la máxima autoridad del instituto y se integrará por tres comisionados, quienes serán designados por el Congreso durarán en sus cargos siete años y no podrán ser reelectos.
 
-Los comisionados deberán cumplir con los requisitos previstos en las fracciones I, II, V, VI y VII del artículo 65 de la Constitución Política del Estado de Yucatán.
+> <small>(REFORMADO, D.O. 7 DE JUNIO DE 2022)</small>
+
+Los comisionados deberán cumplir con los requisitos previstos en las fracciones I, II, V, VI, VII y VIII del artículo 65 de la Constitución Política del Estado de Yucatán.
 
 Los comisionados solo podrán ser removidos de sus cargos en los términos de lo dispuesto por el título décimo de la Constitución Política del Estado de Yucatán y podrán ser sujetos de juicio político.
 
@@ -1440,3 +1442,15 @@ El Congreso deberá expedir la convocatoria para la designación de los titulare
 Tercero. Titular del Órgano de Control Interno del Instituto
 
 El titular del Órgano de Control Interno del Instituto Electoral y de Participación Ciudadana que se encuentre en funciones a la entrada en vigor de este decreto, continuará con el cargo durante el período para el que fue electo.
+
+D.O. 7 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 504/2022 POR EL QUE SE MODIFICAN LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, Y LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE YUCATÁN, EN MATERIA DE VIOLENCIA DE GÉNERO Y DEUDORES ALIMENTARIOS”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula Derogatoria
+
+Artículo segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a este decreto.
