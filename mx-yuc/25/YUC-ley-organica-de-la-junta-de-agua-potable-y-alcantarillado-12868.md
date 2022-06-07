@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-la-junta-de-agua-potable-y-alcantarillado-12868
 country: "mx"
 rank: "ley_organica"
 publication_date: "1982-01-08"
-last_updated: "2019-07-31"
+last_updated: "2022-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "YUC"
 ---
 # LEY ORGANICA DE LA JUNTA DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA JUNTA DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE JUNIO DE 2022.
 
-Ley publicada en el Diario Oficial el Viernes 8 de Enero de 1982.
+Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 8 de enero de 1982.
 
 GOBIERNO DEL ESTADO
 
@@ -467,11 +469,11 @@ Los créditos derivados por el consumo de agua potable, uso de alcantarillado, g
 
 La falta de pago oportuno de los créditos a que se refiere el Artículo anterior, así como la falta de pago oportuno de los servicios que presta la Junta, causarán recargo a razón del 20% del costo porcentual promedio (C.P.P.) que fije el Banco de México. Este recargo será mensual acumulativo y no podrá exceder de cien por ciento del crédito principal, independientemente de los gastos de cobranza.
 
-> <small>(REFORMADO, D.O. 16 DE MARZO DE 1992)</small>
+> <small>(REFORMADO, D.O. 7 DE JUNIO DE 2022)</small>
 
 ###### ARTICULO 48.
 
-Los Notarios y Escribanos Públicos no podrán autorizar, ni la oficina del Registro Público de la Propiedad del Estado inscribirá contratos traslativos de dominio de inmuebles, si no se les comprueba previamente con el último recibo de pago, que los mismos están al corriente en el pago de los derechos causados por los servicios que presta la Junta, salvo el caso de los nuevos fraccionamientos que aún no tengan contrato de los servicios de los predios, en cuyo caso bastará con exhibir el pago de los derechos de fraccionamiento. La inobservancia de esta obligación hará incurrir al funcionario respectivo, en la sanción establecida en el artículo 36 de esta Ley.
+Los Notarios Públicos no podrán autorizar, ni la oficina del Registro Público de la Propiedad del Estado inscribirá contratos traslativos de dominio de inmuebles, si no se les comprueba previamente con el último recibo de pago, que están al corriente en el pago de los derechos causados por los servicios que presta la Junta, salvo el caso de los nuevos fraccionamientos que aún no tengan contrato de los servicios de los predios, en cuyo caso bastará con exhibir el pago de los derechos de fraccionamiento. La inobservancia de esta obligación hará incurrir al funcionario o notario público respectivo, en la sanción establecida en el artículo 36 de esta Ley.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 16 DE MARZO DE 1992)</small>
 
@@ -570,3 +572,69 @@ Se salvaguarda la designación hecha para el actual Director del Archivo Notaria
 Artículo tercero. Obligación normativa
 
 La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 7 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 505/2022 POR EL QUE SE MODIFICAN LA LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN, EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, EL CÓDIGO CIVIL DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DEL CATASTRO DEL ESTADO DE YUCATÁN, LA LEY ORGÁNICA DE LA JUNTA DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE YUCATÁN, LA LEY DE FRACCIONAMIENTOS DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE YUCATÁN, LA LEY DEL INSTITUTO DE VIVIENDA DEL ESTADO DE YUCATÁN, LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS EN EL ESTADO DE YUCATÁN Y LA LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN".]
+
+Artículo Primero. Entrada en vigor
+
+Este decreto entrará en vigor a los 45 días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, a excepción de lo previsto en el párrafo primero del artículo 63 y en la fracción VI del artículo 65 de la Ley General de Hacienda del Estado de Yucatán que lo harán el 31 de diciembre de 2025.
+
+Artículo Segundo. Obligación normativa
+
+El gobernador del estado deberá modificar el Reglamento de la Ley del Notariado del Estado de Yucatán en un plazo no mayor a ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+Artículo Tercero. Integración del Colegiado Notarial de Yucatán
+
+Las personas que a la entrada en vigor de este decreto ocupen el cargo de presidente, secretario, tesorero y vocales del actual Consejo de Notarios del Estado ocuparán automáticamente los referidos cargos dentro del Colegio Notarial de Yucatán, cuyas funciones desempeñarán durante el plazo para el cual fueron nombrados.
+
+Artículo Cuarto. Emisión del reglamento interno
+
+El Colegio Notarial de Yucatán expedirá su reglamento interno dentro de un plazo de noventa días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Artículo Quinto. Inicio del sistema informático
+
+El sistema informático a que se refieren los artículos 88 bis y 89 bis de este decreto entrará en funciones dentro de los trescientos sesenta y cinco días siguientes a la entrada en vigor de la modificación al Reglamento de la Ley del Notariado del Estado de Yucatán a que se refiere el artículo transitorio segundo de este decreto.
+
+La Dirección del Archivo Notarial será la encargada de supervisar el procedimiento de digitalización de los tomos antiguos de los notarios públicos en funciones, desde la primera escritura que hayan expedido en ejercicio de sus funciones hasta la actualidad, sin considerar sus apéndices y documentos anexos, dentro del plazo previsto en este artículo.
+
+La Dirección del Archivo Notarial será la encargada de supervisar el procedimiento de digitalización de los tomos del protocolo de los notarios públicos que se encuentren en uso, los cuales deberán estar plenamente disponibles en el sistema dentro del plazo previsto en este artículo.
+
+Artículo Sexto. Asuntos en trámite
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este decreto, continuarán, hasta su conclusión, regidos por las disposiciones en los (sic) cuales se fundamentaron.
+
+Artículo Séptimo. Remisión de dictamen de quejas
+
+El Consejo de Notarios, ahora Colegio Notarial de Yucatán, deberá remitir a la Consejería Jurídica una relación de las quejas en trámite pendiente (sic) de dictaminar y enviar a la Consejería Jurídica, ordenadas conforme a su año de recepción, dentro del plazo de treinta días hábiles, contado a partir de la entrada en vigor de este decreto.
+
+La Consejería Jurídica solicitará al Consejo de Notarios, ahora Colegio Notarial de Yucatán, conforme al orden de recepción de las quejas referidas en el párrafo anterior, la remisión de los dictámenes respectivos, en términos de las disposiciones vigentes previo a la entrada en vigor de este decreto.
+
+La Consejería Jurídica fijará el plazo para la entrega de los dictámenes a que se refiere el párrafo anterior, atendiendo al volumen de quejas pendientes de dictaminar, en caso de incumplimiento por parte del Consejo de Notarios, ahora Colegio Notarial de Yucatán, la Consejería Jurídica podrá aplicar los medios de apremio a que se refiere el artículo 138 bis de la Ley del Notariado del Estado de Yucatán.
+
+Artículo Octavo. Remisión de documentación y archivos
+
+El Consejo de Notarios deberá remitir a la Consejería Jurídica todos aquellos medios, documentos o archivos, tanto físicos como electrónicos, que permiten el cumplimiento de las atribuciones que mediante este decreto se transfieren del Consejo de Notarios a la Consejería Jurídica, en un plazo máximo de cuarenta y cinco días naturales, contados a partir de la entrada en vigor de este decreto.
+
+Artículo Noveno. Patentes y disposiciones sobre los escribanos
+
+Los escribanos públicos de municipios con población menor a treinta mil habitantes y que a la entrada en vigor de este decreto se encuentren en funciones continuarán ejerciendo, en apego a las disposiciones de la Ley del Notariado del Estado de Yucatán vigentes previo a la entrada en vigor de este decreto, hasta que concluya la vigencia de su nombramiento.
+
+Una vez transcurrido el plazo previsto en el párrafo anterior, los escribanos públicos contarán con un plazo de treinta días hábiles para hacer entrega de las escrituras públicas y sus apéndices a la Dirección del Archivo Notarial de la Consejería Jurídica, en términos de lo previsto en la Ley del Notariado del Estado de Yucatán, vigente previo a la entrada en vigor de este decreto.
+
+En línea con lo anterior, las disposiciones de la Ley del Notariado del Estado de Yucatán y demás derogadas o reformadas conforme a este decreto que regían la actuación de los escribanos públicos seguirán aplicando únicamente para aquellos escribanos públicos cuyo nombramiento continúe vigente y hasta que este concluya.
+
+Artículo Décimo. Adecuaciones presupuestales
+
+La Secretaría de Administración y Finanzas deberá realizar las adecuaciones presupuestales necesarias, en términos de este decreto, para dotar a la Consejería Jurídica de los recursos humanos, financieros, materiales y tecnológicos que requiera para el adecuado ejercicio de sus atribuciones.
+
+Artículo Décimo primero. Cambio de denominación
+
+Cuando en las leyes de la Administración Pública estatal y sus reglamentos o en otras disposiciones legales vigentes se haga referencia al Consejo de Notarios se entenderá que se refieren a la Consejería Jurídica respecto a las facultades y obligaciones que se transfieren a esta en términos de este decreto.
+
+De igual manera, cuando las leyes de la Administración Pública estatal y sus reglamentos o en otras disposiciones legales vigentes se hagan referencia a fedatario público o fedatarios públicos se entenderá que se refieren a notario público o notarios públicos, respectivamente.
+
+Artículo Décimo segundo. Plazo para la integración del temario
+
+Por única ocasión, la Consejería Jurídica formulará el temario a que se refiere el artículo 27 de la Ley del Notariado del Estado de Yucatán, y lo publicará en el Diario Oficial del Gobierno del Estado de Yucatán, dentro del plazo de noventa días, contado a partir de la entrada en vigor de este decreto.
