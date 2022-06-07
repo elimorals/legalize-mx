@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-partidos-politicos-del-estado-de-yucatan-101699"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-28"
-last_updated: "2020-07-23"
+last_updated: "2022-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE JUNIO DE 2022.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 28 de junio de 2014.
 
@@ -421,7 +421,9 @@ II. Los agentes del Ministerio Público Federal, Estatal y sus policías;
 
 III. Los presidentes municipales, síndicos, regidores y demás funcionarios municipales con nivel de dirección;
 
-IV. Los notarios y escribanos públicos;
+> <small>(REFORMADA, D.O. 7 DE JUNIO DE 2022)</small>
+
+IV. Los notarios públicos;
 
 V. Los delegados, subdelegados y el personal con nivel de dirección de la Administración Pública Federal que desempeñen en el estado;
 
@@ -739,13 +741,17 @@ X. Las normas, plazos y procedimientos de justicia intrapartidaria y los mecanis
 
 XI. Las sanciones aplicables a los miembros que infrinjan sus disposiciones internas, mediante un procedimiento disciplinario intrapartidario, con las garantías procesales mínimas que incluyan los derechos de audiencia y defensa, la descripción de las posibles infracciones a la normatividad interna o causales de expulsión y la obligación de motivar y fundar la resolución respectiva;
 
-> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, D.O. 7 DE JUNIO DE 2022)</small>
 
-XII. Los mecanismos y procedimientos que permitirán garantizar la integración de liderazgos políticos de mujeres al interior del partido, y
+XII. Los mecanismos y procedimientos que permitirán garantizar la integración de liderazgos políticos de mujeres al interior del partido;
 
-> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, D.O. 7 DE JUNIO DE 2022)</small>
 
-XIII. Los mecanismos que garanticen la prevención, atención y sanción de la violencia política contra las mujeres en razón de género.
+XIII. Los mecanismos que garanticen la prevención, atención y sanción de la violencia política contra las mujeres en razón de género, y
+
+> <small>(ADICIONADA, D.O. 7 DE JUNIO DE 2022)</small>
+
+XIV. Los mecanismos que garanticen la prevención de la violencia familiar, delitos contra la intimidad personal, contra la imagen personal, violencia laboral contra las mujeres, violencia obstétrica, violencia por parentesco, violencia institucional, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio y contra el incumplimiento de obligaciones de asistencia familiar.
 
 ### CAPÍTULO III. De los derechos y obligaciones de los militantes
 
@@ -1786,3 +1792,81 @@ Lo anterior, con excepción de lo dispuesto en los artículos 116 segundo párra
 Artículo segundo. Derogación tácita
 
 Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este decreto.
+
+D.O. 7 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 504/2022 POR EL QUE SE MODIFICAN LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, Y LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE YUCATÁN, EN MATERIA DE VIOLENCIA DE GÉNERO Y DEUDORES ALIMENTARIOS”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula Derogatoria
+
+Artículo segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a este decreto.
+
+D.O. 7 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA LA LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN, EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, EL CÓDIGO CIVIL DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DEL CATASTRO DEL ESTADO DE YUCATÁN, LA LEY ORGÁNICA DE LA JUNTA DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE YUCATÁN, LA LEY DE FRACCIONAMIENTOS DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE YUCATÁN, LA LEY DEL INSTITUTO DE VIVIENDA DEL ESTADO DE YUCATÁN, LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS EN EL ESTADO DE YUCATÁN Y LA LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN”.]
+
+Artículo Primero. Entrada en vigor
+
+Este decreto entrará en vigor a los 45 días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, a excepción de lo previsto en el párrafo primero del artículo 63 y en la fracción VI del artículo 65 de la Ley General de Hacienda del Estado de Yucatán que lo harán el 31 de diciembre de 2025.
+
+Artículo Segundo. Obligación normativa
+
+El gobernador del estado deberá modificar el Reglamento de la Ley del Notariado del Estado de Yucatán en un plazo no mayor a ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+Artículo Tercero. Integración del Colegiado Notarial de Yucatán
+
+Las personas que a la entrada en vigor de este decreto ocupen el cargo de presidente, secretario, tesorero y vocales del actual Consejo de Notarios del Estado ocuparán automáticamente los referidos cargos dentro del Colegio Notarial de Yucatán, cuyas funciones desempeñarán durante el plazo para el cual fueron nombrados.
+
+Artículo Cuarto. Emisión del reglamento interno
+
+El Colegio Notarial de Yucatán expedirá su reglamento interno dentro de un plazo de noventa días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Artículo Quinto. Inicio del sistema informático
+
+El sistema informático a que se refieren los artículos 88 bis y 89 bis de este decreto entrará en funciones dentro de los trescientos sesenta y cinco días siguientes a la entrada en vigor de la modificación al Reglamento de la Ley del Notariado del Estado de Yucatán a que se refiere el artículo transitorio segundo de este decreto.
+
+La Dirección del Archivo Notarial será la encargada de supervisar el procedimiento de digitalización de los tomos antiguos de los notarios públicos en funciones, desde la primera escritura que hayan expedido en ejercicio de sus funciones hasta la actualidad, sin considerar sus apéndices y documentos anexos, dentro del plazo previsto en este artículo.
+
+La Dirección del Archivo Notarial será la encargada de supervisar el procedimiento de digitalización de los tomos del protocolo de los notarios públicos que se encuentren en uso, los cuales deberán estar plenamente disponibles en el sistema dentro del plazo previsto en este artículo.
+
+Artículo Sexto. Asuntos en trámite
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este decreto, continuarán, hasta su conclusión, regidos por las disposiciones en los cuales se fundamentaron.
+
+Artículo Séptimo. Remisión de dictamen de quejas
+
+El Consejo de Notarios, ahora Colegio Notarial de Yucatán, deberá remitir a la Consejería Jurídica una relación de las quejas en trámite pendiente de dictaminar y enviar a la Consejería Jurídica, ordenadas conforme a su año de recepción, dentro del plazo de treinta días hábiles, contado a partir de la entrada en vigor de este decreto.
+
+La Consejería Jurídica solicitará al Consejo de Notarios, ahora Colegio Notarial de Yucatán, conforme al orden de recepción de las quejas referidas en el párrafo anterior, la remisión de los dictámenes respectivos, en términos de las disposiciones vigentes previo a la entrada en vigor de este decreto.
+
+La Consejería Jurídica fijará el plazo para la entrega de los dictámenes a que se refiere el párrafo anterior, atendiendo al volumen de quejas pendientes de dictaminar, en caso de incumplimiento por parte del Consejo de Notarios, ahora Colegio Notarial de Yucatán, la Consejería Jurídica podrá aplicar los medios de apremio a que se refiere el artículo 138 bis de la Ley del Notariado del Estado de Yucatán.
+
+Artículo Octavo. Remisión de documentación y archivos
+
+El Consejo de Notarios deberá remitir a la Consejería Jurídica todos aquellos medios, documentos o archivos, tanto físicos como electrónicos, que permiten el cumplimiento de las atribuciones que mediante este decreto se transfieren del Consejo de Notarios a la Consejería Jurídica, en un plazo máximo de cuarenta y cinco días naturales, contados a partir de la entrada en vigor de este decreto.
+
+Artículo Noveno. Patentes y disposiciones sobre los escribanos
+
+Los escribanos públicos de municipios con población menor a treinta mil habitantes y que a la entrada en vigor de este decreto se encuentren en funciones continuarán ejerciendo, en apego a las disposiciones de la Ley del Notariado del Estado de Yucatán vigentes previo a la entrada en vigor de este decreto, hasta que concluya la vigencia de su nombramiento.
+
+Una vez transcurrido el plazo previsto en el párrafo anterior, los escribanos públicos contarán con un plazo de treinta días hábiles para hacer entrega de las escrituras públicas y sus apéndices a la Dirección del Archivo Notarial de la Consejería Jurídica, en términos de lo previsto en la Ley del Notariado del Estado de Yucatán, vigente previo a la entrada en vigor de este decreto.
+
+En línea con lo anterior, las disposiciones de la Ley del Notariado del Estado de Yucatán y demás derogadas o reformadas conforme a este decreto que regían la actuación de los escribanos públicos seguirán aplicando únicamente para aquellos escribanos públicos cuyo nombramiento continúe vigente y hasta que este concluya.
+
+Artículo Décimo. Adecuaciones presupuestales
+
+La Secretaría de Administración y Finanzas deberá realizar las adecuaciones presupuestales necesarias, en términos de este decreto, para dotar a la Consejería Jurídica de los recursos humanos, financieros, materiales y tecnológicos que requiera para el adecuado ejercicio de sus atribuciones.
+
+Artículo Décimo primero. Cambio de denominación
+
+Cuando en las leyes de la Administración Pública estatal y sus reglamentos o en otras disposiciones legales vigentes se haga referencia al Consejo de Notarios se entenderá que se refieren a la Consejería Jurídica respecto a las facultades y obligaciones que se transfieren a esta en términos de este decreto.
+
+De igual manera, cuando las leyes de la Administración Pública estatal y sus reglamentos o en otras disposiciones legales vigentes se hagan referencia a fedatario público o fedatarios públicos se entenderá que se refieren a notario público o notarios públicos, respectivamente.
+
+Artículo Décimo segundo. Plazo para la integración del temario
+
+Por única ocasión, la Consejería Jurídica formulará el temario a que se refiere el artículo 27 de la Ley del Notariado del Estado de Yucatán, y lo publicará en el Diario Oficial del Gobierno del Estado de Yucatán, dentro del plazo de noventa días, contado a partir de la entrada en vigor de este decreto.
