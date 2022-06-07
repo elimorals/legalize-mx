@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-vialidad-transito-y-control-vehicular-del-estado-de-6164
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-09"
-last_updated: "2019-12-10"
+last_updated: "2022-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2022.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 9 de junio de 2008.
 
@@ -51,9 +51,11 @@ La presente Ley es de orden público e interés general y tiene por objeto regul
 
 Es de utilidad pública y beneficio general, el establecimiento y uso adecuado de las áreas susceptibles de tránsito vehicular y peatonal; señalización vial y nomenclatura y en general la utilización de los servicios, la infraestructura y los demás elementos inherentes o incorporados a la vialidad en el Estado, en términos de este ordenamiento y demás disposiciones jurídicas y administrativas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 3.
 
-La aplicación de la presente Ley compete al Ejecutivo Estatal a través de la Secretaría de Seguridad Pública y de la Secretaría de Obras Públicas y Comunicaciones, respecto de las vías de jurisdicción estatal.
+La aplicación de la presente Ley compete al Ejecutivo Estatal a través de la Secretaría de Protección y Seguridad Ciudadana y de la Secretaría de Desarrollo Territorial, Urbano y Obras Públicas, respecto de las vías de jurisdicción estatal.
 
 Los Ayuntamientos serán los encargados de regular el diseño y tránsito de las vías de comunicación terrestre que les correspondan en términos de la presente ley, así como en aquéllas respecto de la (sic) cuales celebren convenios de coordinación con el Ejecutivo del Estado.
 
@@ -87,7 +89,9 @@ El Ejecutivo del Estado, previo análisis de las necesidades de los habitantes d
 
 La operación y mantenimiento de las carreteras de cuota estatal, podrá realizarla el Ejecutivo del Estado:
 
-I. Directamente a través de la Secretaría de Finanzas y Administración, y de Obras Públicas y Comunicaciones, en sus respectivos ámbitos de competencia;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2022)</small>
+
+I. Directamente a través de la Secretaría de Administración y Finanzas, y la Secretaría de Desarrollo Territorial, Urbano y Obras Públicas, en sus respectivos ámbitos de competencia;
 
 II. Mediante organismos descentralizados especializados; y
 
@@ -95,9 +99,11 @@ III. A través de particulares mediante concesión o el esquema jurídico-financ
 
 ### CAPÍTULO II. DE LAS FACULTADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 9.
 
-Para el cumplimiento de la presente Ley y los ordenamientos que de ella emanen, la Secretaría de Obras Públicas y Comunicaciones tendrá, además de las disposiciones contenidas en otras leyes, las siguientes facultades:
+Para el cumplimiento de la presente Ley y los ordenamientos que de ella emanen, la Secretaría de Desarrollo Territorial, Urbano y Obras Públicas tendrá, además de las disposiciones contenidas en otras leyes, las siguientes facultades:
 
 I. Proveer en el ámbito de su competencia, que la vialidad, su infraestructura, equipamiento auxiliar, servicios y elementos inherentes o incorporados a ella, se utilicen en forma adecuada conforme a su naturaleza, coordinándose en su caso, con las áreas correspondientes para lograr este objetivo;
 
@@ -115,9 +121,11 @@ VII. Instrumentar los programas y acciones necesarias con especial referencia a 
 
 VIII. Las demás que le confiera esta Ley y los reglamentos que de ella emanen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 10.
 
-Para el cumplimiento de la presente Ley y los reglamentos que de ella emanen, la Secretaria de Seguridad Pública tendrá, además de las disposiciones contenidas en otros ordenamientos, las siguientes facultades:
+Para el cumplimiento de la presente Ley y los reglamentos que de ella emanen, la Secretaría de Protección y Seguridad Ciudadana tendrá, además de las disposiciones contenidas en otros ordenamientos, las siguientes facultades:
 
 I. Garantizar el libre transito y la seguridad de las personas;
 
@@ -175,7 +183,9 @@ I. Procurar que la vialidad de sus demarcaciones territoriales, su infraestructu
 
 II. Mantener la vialidad libre de obstáculos u objetos que impidan, dificulten u obstaculicen el tránsito vehicular y peatonal, excepto en aquellos casos debidamente autorizados;
 
-III. Realizar los estudios necesarios para la creación, redistribución, modificación y adecuación de las vialidades y dispositivos de control de tránsito de acuerdo con las necesidades y las condiciones establecidas por la planeación del Municipio, pudiendo solicitar tanto a la Secretaría de Obras Públicas y Comunicaciones, como a la Secretaría de Seguridad Pública, el apoyo técnico que requiera en el ámbito de sus competencias;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2022)</small>
+
+III. Realizar los estudios necesarios para la creación, redistribución, modificación y adecuación de las vialidades y dispositivos de control de tránsito de acuerdo con las necesidades y las condiciones establecidas por la planeación del Municipio, pudiendo solicitar tanto a la Secretaría de Desarrollo Territorial, Urbano y Obras Públicas, como a la Secretaría de Protección y Seguridad Ciudadana, el apoyo técnico que requiera en el ámbito de sus competencias;
 
 IV. Autorizar el uso de las vías secundarias para otros fines distintos a su naturaleza o destino, cuando sea procedente, en los términos y condiciones previstas en los reglamentos que al efecto se expidan;
 
@@ -195,7 +205,9 @@ XI. Regular la operación de los estacionamientos públicos;
 
 XII. Emitir el Reglamento en donde se regulen las facultades otorgadas en materia de vialidad y tránsito;
 
-XIII. Remitir a la Secretaría de Seguridad Pública las actualizaciones para la integración del padrón de estacionamientos públicos, con el número de declaraciones de apertura presentadas y las sanciones que en su caso hayan sido aplicadas;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2022)</small>
+
+XIII. Remitir a la Secretaría de Protección y Seguridad Ciudadana las actualizaciones para la integración del padrón de estacionamientos públicos, con el número de declaraciones de apertura presentadas y las sanciones que en su caso hayan sido aplicadas;
 
 XIV. Instaurar, substanciar, resolver y ejecutar los procedimientos administrativos derivados del ejercicio de sus facultades relacionadas con la vialidad y el tránsito; y
 
@@ -229,13 +241,15 @@ IV. Recomendar la realización de acciones para la modernización de vialidades.
 
 En el seno de la Comisión Estatal de Vialidad los Ayuntamientos propondrán políticas y medidas para la regulación, modernización, y planeación de las vialidades en el Estado.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 16.
 
-La Comisión Estatal de Vialidad estará integrada por los titulares de las Secretarías de Obras Públicas y Comunicaciones, de Seguridad Pública, de Finanzas y Administración y de Ecología, un representante de la Universidad Autónoma de Campeche, un representante de la Universidad Autónoma de Carmen y un representante del Instituto Tecnológico de Campeche.
+La Comisión Estatal de Vialidad estará integrada por los titulares de las Secretarías de Desarrollo Territorial, Urbano y Obras Públicas, de Protección y Seguridad Ciudadana, de Administración y Finanzas, de Gobierno y de Medio Ambiente, Biodiversidad, Cambio Climático y Energía, una o un representante de la Universidad Autónoma de Campeche, una o un representante de la Universidad Autónoma de Carmen y una o un representante del Instituto Tecnológico de Campeche.
 
-Será presidida por el Secretario de Obras Públicas y Comunicaciones, el cual nombrara a la persona que fungirá como Secretario Técnico.
+Será presidida por la o el Secretario de Desarrollo Territorial, Urbano y Obras Públicas, quien nombrará a la persona que fungirá como Secretaria o Secretario Técnico.
 
-Asimismo participaran con voz y voto los presidentes municipales de los Ayuntamientos en cuya demarcación territorial incidan los planes y programas de vialidad a tratar.
+Asimismo, participarán con voz y voto las y los presidentes municipales de los HH. Ayuntamientos en cuya demarcación territorial incidan los planes y programas de vialidad a tratar.
 
 ###### Artículo 17.
 
@@ -289,15 +303,17 @@ El Reglamento Municipal determinará lo relativo a la organización y funcionami
 
 Esta Ley y los ordenamientos que de ella emanan, otorgan el derecho de preferencia a los peatones y los usuarios, en el momento de transportarse o transitar por las diferentes vialidades del Estado, por lo que se establecerán las medidas necesarias, a fin de garantizar al usuario la prestación del servicio público de transporte de pasajeros con estricto apego a la normatividad aplicable, y asimismo para que en las vialidades se implementen los mecanismos o infraestructura que garanticen su seguridad personal.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 23.
 
-Las autoridades de la administración pública en el ámbito de su competencia deberán garantizar mediante la infraestructura e instalación de los señalamientos viales necesarios, la estancia y el tránsito seguro de los usuarios y peatones en las vialidades. Asimismo, evitará que las vialidades, su infraestructura, servicios y demás elementos inherentes o incorporados a éstas sean obstaculizadas o invadidas.
+Las autoridades Estatales o Municipales, en el ámbito de su competencia, deberán garantizar, mediante la infraestructura e instalación de los señalamientos viales, la estancia y el tránsito seguro de las y los usuarios y peatones en las vialidades, lo que deberá incluir semáforos, señalética y cualquier otro dispositivo que resulte indispensable para la correcta prestación del servicio, así como el mantenimiento respectivo. Asimismo, evitará que las vialidades, su infraestructura, servicios y demás elementos inherentes o incorporados a éstas sean obstaculizadas o invadidas.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2022)</small>
 
 ###### Artículo 24.
 
-Para el propósito señalado en el artículo que antecede, las autoridades de la administración pública en el ámbito de su competencia deberán garantizar que la vialidad, la nomenclatura y la señalización, se mantengan en buen estado.
-
-Para efectos del párrafo que antecede el mantenimiento de las vialidades y la nomenclatura será responsabilidad de los Municipios y de la Secretaría de Obras Públicas en el ámbito de sus respectivas competencias.
+Para cumplir con el artículo anterior, las autoridades Estatales y Municipales, en el ámbito de sus respectivas competencias y, en su caso, de conformidad con los convenios celebrados en la materia, asumirán el mantenimiento de la señalización y las vialidades, las cuales deben permanecer siempre funcionales y en buen estado.
 
 ###### Artículo 25.
 
@@ -307,9 +323,11 @@ Las dependencias y entidades de la administración pública en el ámbito de su 
 
 Cualquier persona tiene derecho a denunciar ante la autoridad competente, alguna irregularidad en cuanto al uso de la vialidad, así como la carencia, deficiencia o mal estado de la nomenclatura y señalización vial.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 27.
 
-La Secretaría de Seguridad Pública, la Secretaría de Obras Públicas y Comunicaciones y los Municipios en el ámbito de su competencia, promoverán las acciones necesarias para que las vialidades peatonales existentes se mantengan en buen estado, con el fin de proporcionar a los usuarios y peatones, el tránsito seguro por éstas, llevando a cabo las medidas necesarias para que en las vialidades se establezcan facilidades para el acceso de la población infantil, escolar, personas con discapacidad, de la tercera edad y mujeres en periodo de gestación.
+La Secretaría de Protección y Seguridad Ciudadana, la Secretaría de Desarrollo Territorial, Urbano y Obras Públicas y los Municipios en el ámbito de su competencia, promoverán las acciones necesarias para que las vialidades peatonales existentes se mantengan en buen estado, con el fin de proporcionar a las y los usuarios y peatones, el tránsito seguro por éstas, llevando a cabo las medidas necesarias para que en las vialidades se establezcan facilidades para el acceso de la población infantil, escolar, personas con discapacidad, de la tercera edad y personas gestantes.
 
 ###### Artículo 28.
 
@@ -335,9 +353,11 @@ Es obligación de los conductores de vehículos de transporte público o privado
 
 El propietario de vehículo automotor que permita que este sea conducido por personas que carezcan de licencia o permiso para ello, será solidariamente responsable de los daños que lleguen a ocasionar con motivo de la conducción del vehículo.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 32.
 
-La Secretaría de Seguridad Pública determinara las características de las licencias y permisos de conducir, cuidando en todo momento que cuente con por lo menos cinco sellos de seguridad que eviten su falsificación, firma y huella para garantizar la identidad del conductor, la autorización mediante firma electrónica por el titular de la dependencia, así como los demás datos de seguridad que se consideren necesarios.
+La Secretaría de Protección y Seguridad Ciudadana determinará las características de las licencias y permisos de conducir, cuidando en todo momento que cuente con por lo menos cinco sellos de seguridad que eviten su falsificación, firma y huella para garantizar la identidad del conductor, la autorización mediante firma electrónica por el titular de la dependencia, así como los demás datos de seguridad que se consideren necesarios.
 
 ###### Artículo 33.
 
@@ -357,7 +377,9 @@ El Reglamento de la presente ley, fijará los requisitos y datos que se exigirá
 
 Los requisitos que se exijan, tendrán como finalidad identificar adecuadamente al solicitante, recabar sus datos personales, verificar sus condiciones particulares de salud y su pericia en el manejo de vehículos motorizados.
 
-En el caso de la licencia de chofer de transporte público, se deberá practicar adicionalmente exámenes toxicológicos y psicológicos, y establecer la obligación de tomar un curso de capacitación impartido por el área que la Secretaria de Seguridad Pública determine, asimismo se exigirá para la renovación de dicha licencia la acreditación de no haber sido infraccionado en cinco ocasiones durante la vigencia de la licencia y de haber participado en los cursos de capacitación y evaluación que la Secretaría de Seguridad Pública deberá impartir periódicamente.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2022)</small>
+
+En el caso de la licencia de chofer de transporte público, se deberá practicar adicionalmente exámenes toxicológicos y psicológicos, y establecer la obligación de tomar un curso de capacitación impartido por el área que la Secretaria de Protección y Seguridad Ciudadana determine, asimismo se exigirá para la renovación de dicha licencia la acreditación de no haber sido infraccionado en cinco ocasiones durante la vigencia de la licencia y de haber participado en los cursos de capacitación y evaluación que la Secretaría de Protección y Seguridad Ciudadana deberá impartir periódicamente.
 
 ###### Artículo 35.
 
@@ -375,9 +397,11 @@ II. Expiración del plazo por el que fue otorgada; y
 
 III. Las que se preveén (sic) en las disposiciones jurídicas y administrativas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 37.
 
-La Secretaría de Seguridad Pública esta facultada para cancelar de forma definitiva las licencias o permisos para conducir por las siguientes causas:
+La Secretaría de Protección y Seguridad Ciudadana está facultada para cancelar de forma definitiva las licencias o permisos para conducir por las siguientes causas:
 
 I. Por resolución de la autoridad judicial competente;
 
@@ -387,13 +411,9 @@ III. Cuando se compruebe que la información proporcionada para su expedición s
 
 IV. Cuando mediante dictamen pericial se compruebe que el conductor ha quedado imposibilitado física o mentalmente para conducir vehículos; y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 V. Cuando sea sancionado por segunda vez en un periodo de un año, por conducir un vehículo en estado de ebriedad
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
@@ -401,9 +421,11 @@ VI. Las que señale el reglamento
 
 En el supuesto de haber sido cancelada o durante el término de suspensión del permiso o de la licencia para conducir, no procederá su reexpedición. En el primer caso, el titular deberá reintegrarla en un término de cinco días a partir de la respectiva notificación a la autoridad que la expidió; misma que realizará las anotaciones correspondientes en el registro público de transito.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 38.
 
-La Secretaría de Seguridad Pública está facultada para suspender en forma temporal a los conductores el uso de licencia o permiso para conducir, en los siguientes casos:
+La Secretaría de Protección y Seguridad Ciudadana está facultada para suspender en forma temporal a los conductores el uso de licencia o permiso para conducir, en los siguientes casos:
 
 I. Por resolución de la autoridad judicial competente;
 
@@ -414,8 +436,6 @@ III. Cuando el titular sea sorprendido conduciendo en estado de ebriedad o bajo 
 IV. Los que señale el reglamento
 
 La suspensión, en el caso de la fracción I, será por el tiempo que indique la sentencia; en los otros casos, podrá ser de uno a tres meses. En el expediente del titular de la licencia o permiso se anotarán las suspensiones en que incurra. El titular de la licencia estará obligado a entregarla a la autoridad en un plazo no mayor de cinco días naturales.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
@@ -499,39 +519,67 @@ Las autoridades de tránsito implementarán programas para dar la debida difusi�
 
 Tienen el derecho de utilizar las vialidades, quienes habitan o transitan en el territorio del Estado, por lo que los particulares o autoridades no podrán limitar el tránsito de peatones y vehículos.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 47.
 
-La Secretaría de Seguridad Pública tendrá la obligación de brindar las facilidades necesarias para la manifestación pública, de los grupos o individuos que den aviso.
+La Secretaría de Protección y Seguridad Ciudadana tendrá la obligación de brindar las facilidades necesarias para la manifestación pública, de los grupos o personas que den aviso.
 
-Para la realización de desfiles, caravanas, manifestaciones, peregrinaciones o cualquier otro tipo de concentración humana de carácter político, religioso, deportivo, recreativo o social, cuya finalidad sea lícita y que pueda perturbar el tránsito en las vialidades, la paz y tranquilidad de la población, es necesario que se dé aviso por escrito a la Secretaria de Seguridad Pública, con por lo menos 48 horas de anticipación a la realización de la misma, a fin de dar cumplimiento a lo establecido en el artículo 25 del presente ordenamiento.
+Para la realización de desfiles, caravanas, manifestaciones, peregrinaciones o cualquier otro tipo de concentración humana de carácter político, religioso, deportivo, recreativo o social, cuya finalidad sea lícita y que pueda perturbar el tránsito en las vialidades, la paz y tranquilidad de la población, es necesario que se dé aviso por escrito a la Secretaría de Protección y Seguridad Ciudadana, con por lo menos 48 horas de anticipación a la realización de la misma, a fin de dar cumplimiento a lo establecido en el artículo 25 del presente ordenamiento.
 
 ###### Artículo 48.
 
 Los desfiles, caravanas, manifestaciones, peregrinaciones o cualquier otro tipo de concentración humana de carácter político, religioso, deportivo, recreativo o social que se efectúen, podrán utilizar las vialidades, excepto cuando sea la única ruta de acceso al punto de concentración, siempre y cuando sea de manera momentánea y que no bloqueen servicios de emergencia o accesos a hospitales o clínicas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 49.
 
-La Secretaría de Seguridad Pública tomará las medidas necesarias para evitar el bloqueo en vías primarias de circulación, apegándose a lo dispuesto por la normatividad aplicable.
+La Secretaría de Protección y Seguridad Ciudadana tomará las medidas necesarias para evitar el bloqueo en vías primarias de circulación, apegándose a lo dispuesto por la normatividad aplicable.
 
 Los lineamientos referentes a este capítulo, se establecerán en el Reglamento correspondiente.
 
 ### CAPÍTULO IV. DE LA VIGILANCIA DEL TRÁNSITO
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 50.
 
-La vigilancia del tránsito y la seguridad en las vialidades corresponde a la Secretaría de Seguridad Pública en la ciudad residencia de los poderes del Estado y a los Municipios en sus respectivas demarcaciones territoriales, a través de sus agentes de tránsito.
+Los HH. Ayuntamientos tendrán a su cargo el ejercicio del servicio público de tránsito municipal y la vigilancia del mismo, de conformidad con el inciso h) de la fracción III del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos. Cuando algún H. Ayuntamiento esté imposibilitado para prestar el servicio público de tránsito y su vigilancia, por razones económicas o administrativas, podrá celebrar un Convenio para que el Estado se haga cargo de la prestación temporal del servicio público y su vigilancia, de manera directa o a través del organismo correspondiente; o bien, podrá celebrar el Convenio en el que se pacte la prestación coordinada por el Estado y el Municipio del servicio público de tránsito y su vigilancia.
 
-Lo anterior sin perjuicio de los convenios que puedan celebrarse para asumir por parte del Estado la función del servicio.
+En las vías de jurisdicción estatal, el servicio público de tránsito y su vigilancia corresponden al Estado de Campeche, por conducto de la Secretaría de Protección y Seguridad Ciudadana. También la desempeñará en las vías de jurisdicción federal o municipal, cuando dicho servicio público sea transferido al Estado para su ejercicio o se pacte su ejercicio mediante el Convenio correspondiente.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2022)</small>
+
+###### Artículo 50 Bis.
+
+De conformidad con el artículo anterior, los Convenios que celebren el Estado y el H. Ayuntamiento del Municipio que corresponda deberán contener, como mínimo, lo siguiente:
+
+I. El o los objetivos del mismo;
+
+II. La forma, los mecanismos de coordinación y grados de participación que se asumirán para la prestación del servicio público para el ejercicio conjunto, o cuando el Estado asuma en su totalidad la prestación del servicio, de manera temporal, los mecanismos de comunicación entre el Estado y el Municipio;
+
+III. Cuando el Estado asuma la totalidad de la prestación del servicio público de tránsito, éste se hará cargo del mantenimiento y preservación de la señalización vial y semáforos; en el caso del ejercicio coordinado entre Estado y Municipio se especificará la participación que cada uno tenga en tales actividades;
+
+IV.- Si el Estado es quien prestará en su totalidad el servicio público de tránsito, la especificación que corresponderá al Estado el cien por ciento de la recaudación de los derechos de la prestación del servicio público de tránsito, así como de lo recaudado por las multas e infracciones, de conformidad con la Ley de Hacienda de los Municipios del Estado de Campeche; en caso del ejercicio coordinado entre Estado y Municipio respecto a la prestación del servicio, se especificará la participación que le corresponderá a cada uno, dependiendo de la forma de coordinación pactada;
+
+V. Los supuestos de terminación anticipada y recisión;
+
+VI. La vigencia del Convenio; en caso de que éste tenga una duración hasta el término del período constitucional municipal, se prorrogará por 30 días posteriores a la conclusión de la administración municipal; y
+
+VII. Las demás condiciones y especificaciones que resulten necesarias para el desempeño de la prestación del servicio público que se asuma o para el ejercicio coordinado de la misma.
+
+Para que los Convenios citados en el presente artículo surtan efectos frente a terceros, deberán publicarse en el Periódico Oficial del Estado de Campeche.
 
 ###### Artículo 51.
 
 Los agentes de tránsito deberán detener la marcha de cualquier vehículo cuando el conductor de éste se encuentre cometiendo alguna infracción a las disposiciones contenidas en esta Ley, su reglamento y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2022)</small>
 
 ###### Artículo 52.
 
-La autoridad competente podrá, retirar los vehículos de circulación y asegurarlos en los depósitos vehiculares, autorizados o certificados por la Secretaría de Seguridad Pública y Protección a la Comunidad, en los supuestos previstos en las fracciones II, III, IV, VIII, IX, XIII y XV de este artículo, así también la autoridad competente inmovilizará los vehículos para circular, como medida de seguridad para evitar afectación al orden público e interés social, cuando se traten de las hipótesis a que se refieren las fracciones I, V, VI VII, X, XI, XII, XIV, XVI, XVII y XVIII de este numeral.
+La autoridad competente podrá, retirar los vehículos de circulación y asegurarlos en los depósitos vehiculares, autorizados o certificados por la Secretaría de Protección y Seguridad Ciudadana, en los supuestos previstos en las fracciones II, III, IV, VIII IX, XIII y XV de este artículo, así también la autoridad competente inmovilizará los vehículos para circular, como medida de seguridad para evitar afectación al orden público e interés social, cuando se traten de las hipótesis a que se refieren las fracciones I, V, VI, VII, X, XI, XII, XIV, XVI, XVII y XVIII de este numeral:
 
 I. A un conductor se le encuentre cometiendo violaciones a las disposiciones legales de tránsito y su comportamiento sea de agresividad física o verbal hacia el agente de tránsito;
 
@@ -583,9 +631,11 @@ Las autoridades de tránsito podrán ordenar que se practiquen revisiones a los 
 
 ### CAPÍTULO I. DE LA CAPACITACIÓN Y EDUCACIÓN VIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 54.
 
-La Secretaría de Seguridad Pública y los Municipios promoverán las acciones necesarias en materia de educación vial para peatones, conductores, usuarios y población en general, haciendo uso de los diferentes medios de comunicación y los avances tecnológicos, en coordinación con las entidades de la administración pública, los concesionarios y permisionarios, en su caso, mediante la celebración de convenios.
+La Secretaría de Protección y Seguridad Ciudadana y los Municipios promoverán las acciones necesarias en materia de educación vial para peatones, conductores, usuarios y población en general, haciendo uso de los diferentes medios de comunicación y los avances tecnológicos, en coordinación con las entidades de la administración pública, los concesionarios y permisionarios, en su caso, mediante la celebración de convenios.
 
 Así mismo, coordinaran con las dependencias y entidades correspondientes, el diseño e instrumentación de programas permanentes de seguridad, educación vial y prevención de accidentes, que tengan como propósito fundamental crear en los habitantes del Estado, conciencia, hábitos y cultura de respeto a los ordenamientos legales, en materia de tránsito y vialidad.
 
@@ -609,9 +659,11 @@ VII. Educación ambiental en relación con el tránsito de vehículos; y
 
 VIII. Nociones de mecánica automotriz.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 56.
 
-La Secretaría de Seguridad Pública establecerá en coordinación con las autoridades competentes, los programas y cursos de capacitación, a los cuales deberán sujetarse periódicamente los conductores de vehículos de transporte en todas sus modalidades.
+La Secretaría de Protección y Seguridad Ciudadana establecerá en coordinación con las autoridades competentes, los programas y cursos de capacitación, a los cuales deberán sujetarse periódicamente los conductores de vehículos de transporte en todas sus modalidades.
 
 Los concesionarios y permisionarios están obligados a la actualización permanente en materia de educación vial para el personal que se desempeñe como conductor de los vehículos que tengan bajo su responsabilidad, considerando los contenidos, la forma y periodicidad que se establezca.
 
@@ -621,19 +673,25 @@ Los centros educativos que se dediquen a la formación, enseñanza y capacitaci�
 
 ### CAPÍTULO II. DE LAS ESCUELAS DE MANEJO
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 58.
 
-La persona física o moral que pretenda dedicarse a impartir cursos y clases de manejo, deberá obtener ante la Secretaría de Seguridad Pública, el permiso y la certificación correspondiente, previo al cumplimiento de los requisitos establecidos por ésta y el pago de los derechos correspondientes.
+La persona física o moral que pretenda dedicarse a impartir cursos y clases de manejo, deberá obtener ante la Secretaría de Protección y Seguridad Ciudadana, el permiso y la certificación correspondiente, previo cumplimiento de los requisitos establecidos por ésta y el pago de los derechos correspondientes.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2022)</small>
 
 ###### Artículo 59.
 
-La escuela de manejo independientemente de su condición o régimen jurídico, deberá contar con instalaciones y vehículos adecuados con dispositivos de seguridad que determine la Secretaría de Seguridad Pública, para llevar a cabo la impartición de los cursos o clases teórico-prácticas sobre manejo y mecánica básica, para todas aquellas personas que pretendan obtener una licencia o permiso para conducir, así como contemplar los cursos de actualización para conductores dedicados al servicio de transporte de personas o de carga en cualquiera de sus modalidades.
+La escuela de manejo independientemente de su condición o régimen jurídico, deberá contar con instalaciones y vehículos adecuados con dispositivos de seguridad que determine la Secretaría de Protección y Seguridad Ciudadana, para llevar a cabo la impartición de los cursos o clases teórico-prácticas sobre manejo y mecánica básica, para todas aquellas personas que pretendan obtener una licencia o permiso para conducir, así como contemplar los cursos de actualización para conductores dedicados al servicio de transporte de personas o de carga en cualquiera de sus modalidades.
 
 ###### Artículo 60.
 
 Las personas físicas o morales dedicadas a impartir cursos o clases de manejo deben obtener y mantener vigente póliza de seguros de cobertura amplia para sus vehículos.
 
-Deberán llevar un registro de la cantidad de cursos, número de participantes o clases, y reportarlo a la Secretaría de Seguridad Pública cada tres meses.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2022)</small>
+
+Deberán llevar un registro de la cantidad de cursos, número de participantes o clases, y reportarlo a la Secretaría de Protección y Seguridad Ciudadana cada tres meses.
 
 El incumplimiento a lo anterior o a los requisitos establecidos, motivará la suspensión del permiso correspondiente, previo procedimiento administrativo que cumpla con las garantías del debido proceso.
 
@@ -765,9 +823,11 @@ El reglamento de esta ley determinara todo lo concerniente al proceso de matricu
 
 ### CAPÍTULO II. DEL REGISTRO PÚBLICO DE TRÁNSITO
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 71.
 
-Estará a cargo de la Secretaría de Seguridad Pública el Registro Público de Tránsito, la cual tiene encomendada el desempeño de la función registral en todos sus órdenes, de acuerdo con esta Ley y demás disposiciones jurídicas y administrativas aplicables.
+Estará a cargo de la Secretaría de Protección y Seguridad Ciudadana el Registro Público de Tránsito, la cual tiene encomendada el desempeño de la función registral en todos sus órdenes, de acuerdo con esta Ley y demás disposiciones jurídicas y administrativas aplicables.
 
 ###### Artículo 72.
 
@@ -819,11 +879,19 @@ VII. El retiro de la vialidad de los vehículos y objetos que ilícitamente obst
 
 VIII. La determinación de lineamientos para permitir el estacionamiento de vehículos en la vialidad y fuera de ella, de acuerdo con el uso de suelo autorizado y las disposiciones aplicables en materia de construcción, así como las medidas de auxilio, protección civil y emergencia que se adopten en relación con el tránsito de vehículos o peatones, en situaciones de fuerza mayor, caso fortuito, accidentes o alteración del orden público.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 74.
 
 Se entiende por vialidad el conjunto integrado de vías de uso común que conforman la traza urbana de la ciudad, cuya función es facilitar el tránsito eficiente y seguro de personas y vehículos.
 
 La vía pública en lo referente a la vialidad se integra de un conjunto de elementos cuya función es permitir el tránsito de vehículos y peatones, así como facilitar la comunicación entre las diferentes áreas o zonas de actividad.
+
+Son de jurisdicción estatal las vías públicas que atraviesen los límites de dos o más municipios, las que entronquen con alguna vía de jurisdicción federal, las que en su totalidad o en su mayor parte sean construidas por el Estado con fondos estatales o mediante concesión estatal a particulares o municipios.
+
+Son de jurisdicción municipal las vías públicas dentro de los límites de las localidades, poblaciones y ciudades comprendidas en el territorio del municipio, así como los caminos y demás vías que no atraviesen los límites de dos o más municipios.
+
+En caso de duda respecto a la jurisdicción de alguna vía pública, las autoridades estatales y municipales en materia de tránsito y vialidad determinarán de manera conjunta los límites correspondientes con base a los convenios que para tal efecto celebren.
 
 ###### Artículo 75.
 
@@ -891,9 +959,11 @@ En las zonas en donde se establezcan centrales de carga-descarga, zonas industri
 
 Están sujetas a las disposiciones de este apartado, las personas físicas o morales, públicas o privadas que, en el territorio del Estado, realicen acciones, inversiones, obras de construcción, ampliación y mantenimiento de vialidades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 80.
 
-En materia de planeación y diseño de vialidades de los centros de población las atribuciones del Gobierno del Estado, a través de la Secretaría de Obras Publicas y Comunicaciones serán:
+En materia de planeación y diseño de vialidades de los centros de población las atribuciones del Estado, a través de la Secretaría de Desarrollo Territorial, Urbano y Obras Públicas serán:
 
 I. Elaborar el Programa Sectorial de Vialidad del Estado en coordinación con los Ayuntamientos y en el seno de la Comisión Estatal de Vialidad;
 
@@ -1073,11 +1143,13 @@ VIII. Demostrar el cumplimiento de los demás requisitos establecidos en las dis
 
 Satisfechos los requisitos señalados en el artículo anterior, la autoridad municipal en un plazo no mayor de treinta días hábiles resolverá en definitiva sobre la procedencia del otorgamiento de la autorización.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 97.
 
-En el otorgamiento o modificación de las autorizaciones para la incorporación de elementos a la vialidad, la autoridad municipal deberá tomar en cuenta el Programa Estatal de Vialidad, los Programas de Desarrollo Urbano estatales y municipales y la opinión de la Secretaría de Obras Públicas y Comunicaciones.
+En el otorgamiento o modificación de las autorizaciones para la incorporación de elementos a la vialidad, la autoridad municipal deberá tomar en cuenta el Programa Estatal de Vialidad, los Programas de Desarrollo Urbano estatales y municipales y la opinión de la Secretaría de Desarrollo Territorial, Urbano y Obras Públicas.
 
-La Secretaría de Obras Pública (sic) y Comunicaciones deberá emitir su opinión en un término no mayor a diez días hábiles, en caso de no emitirla se entenderá en sentido afirmativo.
+La Secretaría de Desarrollo Territorial, Urbano y Obras Públicas deberá emitir su opinión en un término no mayor a diez días hábiles, en caso de no emitirla se entenderá en sentido afirmativo.
 
 ###### Artículo 98.
 
@@ -1189,17 +1261,23 @@ Independientemente de las sanciones procedentes, el titular de la autorización 
 
 ### CAPÍTULO VI. DE LA NOMENCLATURA Y SEÑALIZACIÓN VIAL
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 113.
 
-La Secretaría de Seguridad Pública y la Secretaría de Obras Públicas y Comunicaciones, en el ámbito de su competencia y en coordinación con los Municipios procuraran que en todas las vialidades del Estado, exista señalización vial, con el objeto de proporcionar una mayor orientación a la población y agilizar la fluidez del tránsito vehicular y peatonal.
+La Secretaría de Protección y Seguridad Ciudadana y la Secretaría de Desarrollo Territorial, Urbano y Obras Públicas, en el ámbito de su competencia y en coordinación con los Municipios procurarán que en todas las vialidades del Estado, exista señalización vial, con el objeto de proporcionar una mayor orientación a la población y agilizar la fluidez del tránsito vehicular y peatonal.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2022)</small>
 
 ###### Artículo 114.
 
-Es responsabilidad de los Municipios, la colocación, mantenimiento y preservación de la señalización vial, así como la de la nomenclatura de las vías.
+Es responsabilidad de los Municipios, la colocación, mantenimiento y preservación de la señalización vial, así como la de la nomenclatura de las vías, salvo los supuestos previstos en el artículo 50 Bis de la presente Ley.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2022)</small>
 
 ###### Artículo 115.
 
-La nomenclatura y la señalización vial en el Estado se ajustarán al manual de dispositivos para el control del tránsito en áreas urbanas y suburbanas, que deberá publicar y mantener actualizado la Secretaría de Seguridad Pública.
+La nomenclatura y la señalización vial en el Estado se ajustarán al manual de dispositivos para el control del tránsito en áreas urbanas y suburbanas, que deberá publicar y mantener actualizado la Secretaría de Protección y Seguridad Ciudadana.
 
 ###### Artículo 116.
 
@@ -1412,3 +1490,33 @@ P.O. 10 DE DICIEMBRE DE 2019.
 PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 7 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 73 POR EL QUE “SE REFORMAN EL PÁRRAFO PRIMERO DEL ARTÍCULO 3, LA FRACCIÓN I DEL ARTÍCULO 8, EL PÁRRAFO PRIMERO DEL ARTÍCULO 9, EL PÁRRAFO PRIMERO DEL ARTÍCULO 10, LAS FRACCIONES III Y XIII DEL ARTÍCULO 11, LOS ARTÍCULOS 16, 23, 24, 27, 32, EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 34, EL PÁRRAFO PRIMERO DEL ARTÍCULO 37, EL PÁRRAFO PRIMERO DEL ARTÍCULO 38, EL ARTÍCULO 47, EL PÁRRAFO PRIMERO DEL ARTÍCULO 49, EL ARTÍCULO 50, EL PÁRRAFO PRIMERO DEL ARTÍCULO 52, EL PÁRRAFO PRIMERO DEL ARTÍCULO 54, EL PÁRRAFO PRIMERO DEL ARTÍCULO 56, LOS ARTÍCULOS 58 Y 59, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 60, LOS ARTÍCULOS 71 Y 74, EL PÁRRAFO PRIMERO DEL ARTÍCULO 80, LOS ARTÍCULOS 97, 113, 114 Y 115, Y SE ADICIONA EL ARTÍCULO 50 BIS A LA LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, el Ejecutivo Estatal deberá realizar las modificaciones necesarias al Reglamento de la Ley de Vialidad, Tránsito y Control Vehicular del Estado de Campeche, para la debida implementación del mencionado decreto.
+
+TERCERO.- Los Municipios, por conducto de sus HH. Ayuntamientos, deberán adecuar su normatividad al contenido del presente Decreto, en un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de las modificaciones al Reglamento de la Ley, en términos del transitorio segundo.
+
+CUARTO.- En aquellos Municipios que, al momento de iniciar la entrada en vigor del presente Decreto, el servicio público de tránsito sea prestado por el Estado, deberán, a través de sus HH. Ayuntamientos y de manera escrita, dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, manifestar su intención de asumir directamente la prestación de este servicio o suscribir, en términos de la Constitución Política de los Estados Unidos Mexicanos y de la legislación aplicable, el Convenio para que sea el Estado, a través de la Secretaría de Protección y Seguridad Ciudadana quien otorgue dicho servicio, o su prestación coordinada.
+
+QUINTO.- Conforme a lo dispuesto en el presente Decreto, y en atención al texto anterior del artículo 50 de la Ley, el Estado de Campeche, a través de la Secretaría de Protección y Seguridad Ciudadana, transferirá al Municipio de Campeche el servicio público de tránsito para que éste asuma dicha función.
+
+La transferencia se realizará previa solicitud de municipalización del servicio aprobada por el H. Ayuntamiento del Municipio de Campeche. Dicha transferencia se realizará de manera ordenada, conforme al programa que para la misma realice la Secretaría de Protección y Seguridad Ciudadana, en un plazo máximo de 90 días hábiles contados a partir de la recepción de la correspondiente solicitud, en los términos establecidos en el artículo tercero transitorio del Decreto por el que se modificó el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el día jueves 23 de diciembre de 1999.
+
+En tanto se realiza la transferencia a que se refiere en el presente artículo, el servicio público de tránsito seguirá prestándose por parte del Estado, quien deberá recibir la totalidad de la recaudación de los derechos del servicio público de tránsito, así como las multas e infracción, para efecto de garantizar la efectiva prestación del servicio, así como el adecuado mantenimiento y preservación de la infraestructura y los dispositivos viales.
+
+SEXTO.- En el caso de que el Municipio de Campeche decida no solicitar la transferencia establecida en el artículo transitorio anterior, podrá acordar con el Estado la celebración del Convenio al que se hace referencia en este Decreto; por lo que deberá manifestarle al Estado, por escrito, su intención de celebrar el Convenio, en un plazo no mayor a treinta días naturales, contados a partir de la entrada en vigor del presente decreto.
+
+En la hipótesis contenida en el presente transitorio, hasta que se celebre el Convenio respectivo, el servicio público de tránsito seguirá ejerciéndose y prestándose por la Secretaría de Protección y Seguridad Ciudadana, para no causar perjuicio alguno a la población del Municipio de Campeche.
+
+SÉPTIMO.- Los Municipios, a través de sus HH. Ayuntamientos, deberán proponer las iniciativas en materia de ingresos que, en su caso, resulten necesarias, así como realizar las modificaciones presupuestales correspondientes para dar cabal cumplimiento a lo dispuesto en el presente decreto.
+
+OCTAVO.- El Ejecutivo Estatal y el H. Congreso del Estado deberán realizar las modificaciones presupuestales correspondientes para dar cumplimiento a lo dispuesto en el presente decreto.
+
+NOVENO.- Conforme a lo dispuesto en el presente Decreto, el Ejecutivo Estatal cuenta con el plazo de cuarenta y cinco días hábiles, posteriores a la firma de los convenios a los que se hace referencia en los artículos 50 y 50 Bis, para la suscripción, actualización o modificación de los Convenios de Colaboración Administrativa en Materia Hacendaria de Ingresos celebrados por el Estado con los HH. Ayuntamientos.
+
+DÉCIMO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
