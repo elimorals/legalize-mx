@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-60679"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-03-03"
-last_updated: "2022-04-28"
+last_updated: "2022-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2022.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 3 de marzo de 2008.
 
@@ -573,7 +573,9 @@ III. Conducir las sesiones del Cabildo, así como presidir las comisiones que la
 
 IV. En la esfera de su competencia cumplir y hacer cumplir las disposiciones contenidas en las leyes y reglamentos federales, estatales y municipales, así como aplicar las sanciones previstas por estas últimas a los infractores, sin perjuicio de la facultad que en su caso corresponda a las autoridades auxiliares o en términos del Bando Municipal y los reglamentos municipales a las dependencias municipales;
 
-V. Tener bajo su mando, a la policía preventiva municipal y a las corporaciones de tránsito, bomberos y de protección civil municipales en los términos previstos por esta ley, la Ley de Seguridad Pública del Estado y las demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2022)</small>
+
+V. Tener bajo su mando, a la policía preventiva municipal, al cuerpo municipal de policía de tránsito, y a las corporaciones de bomberos y de protección civil municipales en los términos previstos por esta ley, la Ley de Seguridad Pública del Estado y las demás disposiciones aplicables;
 
 VI. Otorgar las licencias, permisos y autorizaciones conforme a lo previsto en las disposiciones legales y los reglamentos municipales, así como ordenar la práctica de visitas domiciliarias que se requieran para la observancia de dichas disposiciones y reglamentos, sin perjuicio de las que conforme a los reglamentos correspondan a las autoridades auxiliares o a los titulares de dependencias municipales;
 
@@ -1035,7 +1037,13 @@ E. El ejercicio coordinado por el Estado y el Municipio de alguna función o la 
 
 F. La asunción por el Municipio dentro de su territorio, de la prestación de servicios públicos o la atención de funciones a cargo del Estado, así como la ejecución u operación de obras estatales, cuando ello resulte conveniente para el desarrollo económico y social del Municipio; así como;
 
-G. Cualquier otro que conforme a esta Ley u otras disposiciones legales pueda ser objeto de un convenio con el Estado.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE JUNIO DE 2022)</small>
+
+G. Celebrar Convenios con el Estado en materia del Servicio Público de tránsito acorde a lo dispuesto en la Ley de Vialidad, Tránsito y Control Vehicular del Estado de Campeche; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 7 DE JUNIO DE 2022)</small>
+
+H. Cualquier otro que conforme a esta Ley u otras disposiciones legales pueda ser objeto de un convenio con el Estado.
 
 II. Celebrar convenios con otros municipios del Estado que tengan por objeto:
 
@@ -1073,7 +1081,9 @@ VII. Expedir los reglamentos municipales a los que deberá sujetarse el ejercici
 
 VIII. Prestar a la autoridad electoral el auxilio que esta requiera conforme a la ley de la materia;
 
-IX. Ejercer la función de seguridad pública en el territorio municipal y organizar y sostener a la corporación de policía preventiva municipal, así como las de tránsito, bomberos, y de protección civil municipales;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2022)</small>
+
+IX. Ejercer la función de seguridad pública en el territorio municipal y organizar y sostener a la corporación de policía preventiva municipal, así como las de bomberos, y de protección civil municipales, y cuerpo municipal de policía de tránsito;
 
 X. Designar al Director de Seguridad Pública Municipal;
 
@@ -1145,9 +1155,13 @@ V. Participar con el Estado en la formulación y aplicación de programas de tra
 
 VI. Llevar un registro de terrenos o inmuebles que carezcan de construcción o en construcción sin terminar y con construcción desocupada, que cuenten en su interior con maleza, basura o escombros, con relación a lo que disponen los artículos 85-A, 85-B, 85-C y 85-D de la Ley de Hacienda de los Municipios del Estado de Campeche; y
 
-> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 2 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2022)</small>
 
-VII.- Las demás que determinen éstas y otras normas legales.
+VII. Celebrar Convenios con el Estado en materia del Servicio Público de tránsito acorde a lo dispuesto en la Ley de Vialidad, Tránsito y Control Vehicular del Estado de Campeche; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2022)</small>
+
+VIII. Las demás que determinen éstas y otras normas legales.
 
 ###### ARTÍCULO 106.
 
@@ -2167,7 +2181,13 @@ VI. Rastro;
 
 VII. Calles, parques, jardines y su equipamiento;
 
-VIII. Las demás que determinen ésta y otras normas legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2022)</small>
+
+VIII. Tránsito; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2022)</small>
+
+IX. Las demás que determinen ésta y otras normas legales.
 
 ###### ARTÍCULO 161.
 
@@ -2327,13 +2347,17 @@ El servicio público que hubiese sido municipalizado podrá ser objeto del otorg
 
 La competencia que conforme a las leyes corresponde al Municipio en el ejercicio de la función de seguridad pública la ejercerá el Ayuntamiento por conducto de la corporación de policía preventiva municipal, que tendrá el número de integrantes que el Ayuntamiento determine conforme las disposiciones de esta Ley.
 
-El Ayuntamiento organizará un cuerpo de bomberos y en su caso, de tránsito municipal, pudiendo en tanto organiza este último, asignar esta función a la policía preventiva municipal.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2022)</small>
+
+El Ayuntamiento organizará un cuerpo de bomberos y en su caso, un cuerpo municipal de policía de tránsito, pudiendo en tanto organiza este último, asignar esta función a la policía preventiva municipal, de conformidad con lo que establece la Ley de Vialidad, Tránsito y Control Vehicular del Estado del Campeche y su Reglamento.
 
 ###### ARTÍCULO 179.
 
 La integración, organización y funcionamiento de la corporación de policía preventiva municipal, así como lo relativo a sus aspectos técnicos y operativos, su coordinación con cuerpos de seguridad pública de otros municipios, del Estado o de carácter federal se sujetará a la Ley de Seguridad Pública del Estado de Campeche, las leyes federales en la materia y los reglamentos municipales.
 
-Corresponde al Presidente Municipal el mando de la corporación de policía preventiva municipal, así como de las corporaciones (sic) tránsito, bomberos y de protección civil. El Ayuntamiento podrá encomendar a la corporación de policía preventiva el ejercicio de las funciones relativas a tránsito en los términos que establezca el reglamento municipal.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2022)</small>
+
+Corresponde al Presidente Municipal el mando de la corporación de policía preventiva municipal, así como de las corporaciones (sic) tránsito, bomberos y de protección civil y cuerpo municipal de policía de tránsito. El Ayuntamiento podrá encomendar a la corporación de policía preventiva la prestación del servicio público de tránsito en los términos que establezca el reglamento municipal y de conformidad con lo que establece la Ley de Vialidad, Tránsito y Control Vehicular del Estado del Campeche y su Reglamento.
 
 ###### ARTÍCULO 180.
 
@@ -2664,3 +2688,33 @@ II. Las reglas de ordenamiento de los terrenos o inmuebles que se encuentren en 
 III. Los cobros, multas y en su caso beneficios para el servicio de limpia que proporcionen los Ayuntamientos por incumplimiento de sus poseedores o propietarios.
 
 TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 73 POR EL QUE "SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 69, EL INCISO G DE LA FRACCIÓN I DEL ARTÍCULO 102, LA FRACCIÓN IX DEL ARTÍCULO 103, LA FRACCIÓN VII DEL ARTÍCULO 105, LA FRACCIÓN VIII DEL ARTÍCULO 160, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 178 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 179, Y SE ADICIONA EL INCISO H A LA FRACCIÓN I DEL ARTÍCULO 102, LA FRACCIÓN VIII DEL ARTÍCULO 105 Y LA FRACCIÓN IX AL ARTÍCULO 160, TODOS DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, el Ejecutivo Estatal deberá realizar las modificaciones necesarias al Reglamento de la Ley de Vialidad, Tránsito y Control Vehicular del Estado de Campeche, para la debida implementación del mencionado decreto.
+
+TERCERO.- Los Municipios, por conducto de sus HH. Ayuntamientos, deberán adecuar su normatividad al contenido del presente Decreto, en un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de las modificaciones al Reglamento de la Ley, en términos del transitorio segundo.
+
+CUARTO.- En aquellos Municipios que, al momento de iniciar la entrada en vigor del presente Decreto, el servicio público de tránsito sea prestado por el Estado, deberán, a través de sus HH. Ayuntamientos y de manera escrita, dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, manifestar su intención de asumir directamente la prestación de este servicio o suscribir, en términos de la Constitución Política de los Estados Unidos Mexicanos y de la legislación aplicable, el Convenio para que sea el Estado, a través de la Secretaría de Protección y Seguridad Ciudadana quien otorgue dicho servicio, o su prestación coordinada.
+
+QUINTO.- Conforme a lo dispuesto en el presente Decreto, y en atención al texto anterior del artículo 50 de la Ley, el Estado de Campeche, a través de la Secretaría de Protección y Seguridad Ciudadana, transferirá al Municipio de Campeche el servicio público de tránsito para que éste asuma dicha función.
+
+La transferencia se realizará previa solicitud de municipalización del servicio aprobada por el H. Ayuntamiento del Municipio de Campeche. Dicha transferencia se realizará de manera ordenada, conforme al programa que para la misma realice la Secretaría de Protección y Seguridad Ciudadana, en un plazo máximo de 90 días hábiles contados a partir de la recepción de la correspondiente solicitud, en los términos establecidos en el artículo tercero transitorio del Decreto por el que se modificó el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el día jueves 23 de diciembre de 1999.
+
+En tanto se realiza la transferencia a que se refiere en el presente artículo, el servicio público de tránsito seguirá prestándose por parte del Estado, quien deberá recibir la totalidad de la recaudación de los derechos del servicio público de tránsito, así como las multas e infracción (sic), para efecto de garantizar la efectiva prestación del servicio, así como el adecuado mantenimiento y preservación de la infraestructura y los dispositivos viales.
+
+SEXTO.- En el caso de que el Municipio de Campeche decida no solicitar la transferencia establecida en el artículo transitorio anterior, podrá acordar con el Estado la celebración del Convenio al que se hace referencia en este Decreto; por lo que deberá manifestarle al Estado, por escrito, su intención de celebrar el Convenio, en un plazo no mayor a treinta días naturales, contados a partir de la entrada en vigor del presente decreto.
+
+En la hipótesis contenida en el presente transitorio, hasta que se celebre el Convenio respectivo, el servicio público de tránsito seguirá ejerciéndose y prestándose por la Secretaría de Protección y Seguridad Ciudadana, para no causar perjuicio alguno a la población del Municipio de Campeche.
+
+SÉPTIMO.- Los Municipios, a través de sus HH. Ayuntamientos, deberán proponer las iniciativas en materia de ingresos que, en su caso, resulten necesarias, así como realizar las modificaciones presupuestales correspondientes para dar cabal cumplimiento a lo dispuesto en el presente decreto.
+
+OCTAVO.- El Ejecutivo Estatal y el H. Congreso del Estado deberán realizar las modificaciones presupuestales correspondientes para dar cumplimiento a lo dispuesto en el presente decreto.
+
+NOVENO.- Conforme a lo dispuesto en el presente Decreto, el Ejecutivo Estatal cuenta con el plazo de cuarenta y cinco días hábiles, posteriores a la firma de los convenios a los que se hace referencia en los artículos 50 y 50 Bis, para la suscripción, actualización o modificación de los Convenios de Colaboración Administrativa en Materia Hacendaria de Ingresos celebrados por el Estado con los HH. Ayuntamientos.
+
+DÉCIMO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
