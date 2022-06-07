@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-143485"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-01"
-last_updated: "2022-05-19"
+last_updated: "2022-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143485&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "LIGIE_2022"
 ---
 # LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-> <small>[N. DE E. PARA CONSULTAR LOS DECRETOS DE ACTUALIZACIONES A LOS ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN, SE SUGIERE DESPLEGAR LOS ARCHIVOS ANEXOS (ACROBAT READER) UBICADOS EN LA CRONOLOGÍA DEL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN, PUBLICADA EN EL D.O.F. DE 7 DE JUNIO DE 2022, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS DIEZ DÍAS HÁBILES SIGUIENTES A AQUÉL EN EL QUE EL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA, MEDIANTE DISPOSICIONES DE CARÁCTER GENERAL, DETERMINE QUE LOS SISTEMAS UTILIZADOS EN LAS OPERACIONES DE COMERCIO EXTERIOR SE ENCUENTRAN LISTOS PARA OPERAR CONFORME A LA LEY QUE SE EMITE, LO CUAL DEBERÁ SUCEDER DENTRO DE LOS 180 DÍAS SIGUIENTES A SU PUBLICACIÓN]</small>
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2022 (ABROGADA).
 
 Ley publicada en la Segunda Sección-Vespertina del Diario Oficial de la Federación, el miércoles 1 de julio de 2020.
 
@@ -60459,3 +60459,21 @@ DECRETO DE ACTUALIZACIÓN DEL D.O.F. 22 DE NOVIEMBRE DE 2021.
 DECRETO DE ACTUALIZACIÓN DEL D.O.F. 16 DE MAYO DE 2022.
 
 > <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL "DECRETO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN"; F. DE E., D.O.F. 19 DE MAYO DE 2022]</small>
+
+D.O.F. 7 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN”.]
+
+Primero. El presente Decreto entrará en vigor a los diez días hábiles siguientes a aquél en el que el Servicio de Administración Tributaria, mediante disposiciones de carácter general, determine que los sistemas utilizados en las operaciones de comercio exterior se encuentran listos para operar conforme a la Ley que se emite, lo cual deberá suceder dentro de los 180 días siguientes a su publicación.
+
+Segundo. Con la entrada en vigor del presente Decreto se abroga la Ley de Impuestos Generales de Importación y de Exportación publicada en el Diario Oficial de la Federación el 1 de julio de 2020.
+
+Tercero. La metodología a la que hace referencia el artículo 2, fracción II, regla 10ª de la Ley que se emite mediante el presente ordenamiento, se publicará en el Diario Oficial de la Federación dentro los 20 días naturales posteriores a la publicación del presente Decreto.
+
+Cuarto. La Secretaría de Economía dentro de los 40 días naturales posteriores a la publicación del presente Decreto, deberá publicar en el Diario Oficial de la Federación los números de identificación comercial, así como las tablas de correlación de las fracciones arancelarias de la Tarifa y de los números de identificación comercial, a los que se refiere el artículo 2, fracción II, regla 10ª, párrafo tercero, incisos a) y b) de la Ley de los Impuestos Generales de Importación y de Exportación que se emite.
+
+Quinto. La Secretaría de Economía, en conjunto con la Secretaría de Hacienda y Crédito Público, dentro de los 60 días naturales posteriores a la publicación del presente Decreto, deberá publicar en el Diario Oficial de la Federación las Notas Nacionales contempladas en el artículo 2, fracción II, Regla 3ª de la Ley de los Impuestos Generales de Importación y de Exportación.
+
+Sexto. La Secretaría de Economía y las demás dependencias competentes, dentro de los 90 días naturales posteriores a la publicación del presente Decreto, deberán publicar en el Diario Oficial de la Federación los instrumentos jurídicos cuyo contenido deba actualizarse como consecuencia de la entrada en vigor de la Ley de los Impuestos Generales de Importación y de Exportación.
+
+Séptimo. Las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones de observancia general, respecto a la Ley que se abroga por virtud de la presente, se entenderán referidas a esta Ley que se emite.
