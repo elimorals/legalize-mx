@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2022-05-18"
+last_updated: "2022-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE MAYO DE 2022.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL D.O. EL 18 DE MAYO DE 2022 NO APLICA AL ARTICULADO DEL DECRETO 498/2022 PUBLICADO EN EL D.O. DE 13 DE MAYO DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE JUNIO DE 2022.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -4793,19 +4791,39 @@ Igualmente se considerará como tentativa de feminicidio a quien teniendo la int
 
 Las autoridades investigadoras competentes, cuando se encuentren ante un probable delito de feminicidio deberán aplicar el protocolo correspondiente a dicho delito; en caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
 
-> <small>(REFORMADO, D.O. 3 DE AGOSTO DE 2021)</small>
-
-ARTÍCULO 394 SEXIES. Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia, cuando se trate de la investigación de un delito de feminicidio, se le impondrán de tres a ocho años de prisión y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de seis a diez años para desempeñar otro empleo, cargo o comisión públicos.
-
-TÍTULO VIGESIMOPRIMERO
-
-DELITOS ELECTORALES
+> <small>(ADICIONADO, D.O. 7 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 394.
 
 A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, con conocimiento de esa relación, se le impondrá prisión de treinta a cuarenta años y será privado de todo derecho de familia sobre los bienes de aquella persona y bienes de aquella e inhabilitado para desempeñar en todo caso la patria potestad, la tutela y la curatela. Si faltare dicho conocimiento, se estará a la punibilidad prevista en el artículo 372 de este Código, sin menoscabo de observar alguna circunstancia que agrave o atenúe las sanciones a que se refieren los capítulos III y IV anteriores.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 23 DE JULIO DE 2008)</small>
+
+### CAPÍTULO XI. SUICIDIO FEMINICIDA
+
+> <small>(ADICIONADO, D.O. 7 DE JUNIO DE 2022)</small>
+
+ARTÍCULO 394 SEXIES. Comete el delito de suicidio feminicida, quien induzca, obligue o preste ayuda a una persona del género femenino para privarse la vida, valiéndose de cualquiera de las siguientes circunstancias:
+
+I. Que le preceda cualquiera de los tipos o modalidades de violencia contemplados en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Yucatán.
+
+II. Que él o la responsable se haya aprovechado de cualquier situación de poder, de riesgo o condición física o psíquica en que se encontrare la víctima, por haberse ejercido contra ésta, cualquiera de los tipos o modalidades de violencia contemplados en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Yucatán.
+
+III. Que, quien induzca, obligue o preste ayuda se haya aprovechado de la superioridad generada por las relaciones preexistentes o existentes con la víctima.
+
+La persona que cometa el delito de suicidio feminicida, será sancionada con prisión de cinco a diez años.
+
+Si la ayuda se prestare hasta el punto de ejecutar él o la responsable la muerte, la sanción será la que corresponda al feminicidio, según las circunstancias y modos de ejecución.
+
+Si el suicidio no se llevara a efecto por cualquier circunstancia, se le considerará como tentativa del delito de suicidio feminicida; pero si su intento produce lesiones, las sanciones serán de conformidad con lo establecido en este código para las lesiones en razón de género.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 394 SEXIES], D.O. 7 DE JUNIO DE 2022)</small>
+
+ARTÍCULO 394 SEPTIES. Al servidor público que retarde, entorpezca por malicia o negligencia la procuración, administración o impartición de justicia, cuando se trate de la investigación de los delitos previstos en este capítulo, se le impondrán de tres a ocho años de prisión y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de seis a diez años para desempeñar otro empleo, cargo o comisión públicos.
+
+TÍTULO VIGESIMOPRIMERO
+
+DELITOS ELECTORALES
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -4816,8 +4834,6 @@ A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea
 ### CAPÍTULO III. DE LOS DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS FUNCIONARIOS ELECTORALES
 
 ### CAPÍTULO IV. DE LOS DELITOS EN QUE PUEDEN INCURRIR LOS FUNCIONARIOS PARTIDISTAS
-
-### CAPÍTULO V. DE LOS DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS SERVIDORES PÚBLICOS
 
 ###### ARTÍCULO 395.
 
@@ -4833,7 +4849,7 @@ Las penas establecidas para los delitos electorales se aplicarán sin perjuicio 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 28 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO VI. DESTRUCCIÓN DE PROPAGANDA POLÍTICA
+### CAPÍTULO V. DE LOS DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS SERVIDORES PÚBLICOS
 
 ###### ARTÍCULO 397.
 
@@ -4845,7 +4861,7 @@ Las penas establecidas para los delitos electorales se aplicarán sin perjuicio 
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO VII. DELITOS EN QUE PUEDEN INCURRIR LOS DIPUTADOS Y REGIDORES ELECTOS
+### CAPÍTULO VI. DESTRUCCIÓN DE PROPAGANDA POLÍTICA
 
 ###### ARTÍCULO 399.
 
@@ -4853,9 +4869,17 @@ Las penas establecidas para los delitos electorales se aplicarán sin perjuicio 
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VII. DELITOS EN QUE PUEDEN INCURRIR LOS DIPUTADOS Y REGIDORES ELECTOS
 
 ###### ARTÍCULO 400.
+
+(DEROGADO, D.O. 28 DE JUNIO DE 2014)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE JUNIO DE 2014)</small>
+
+### CAPÍTULO ÚNICO
+
+###### ARTÍCULO 401.
 
 (DEROGADO, D.O. 28 DE JUNIO DE 2014)
 
@@ -4864,12 +4888,6 @@ Las penas establecidas para los delitos electorales se aplicarán sin perjuicio 
 ### CAPÍTULO ÚNICO. MALTRATO O CRUELDAD EN CONTRA DE ANIMALES DOMÉSTICOS
 
 > <small>(ADICIONADO, D.O. 2 DE MAYO DE 2013)</small>
-
-###### ARTÍCULO 401.
-
-(DEROGADO, D.O. 28 DE JUNIO DE 2014)
-
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 402.
 
@@ -5708,3 +5726,11 @@ D.O. 13 DE MAYO DE 2022.
 Artículo único. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 7 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 503/2022 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE SUICIDIO FEMINICIDA”.]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
