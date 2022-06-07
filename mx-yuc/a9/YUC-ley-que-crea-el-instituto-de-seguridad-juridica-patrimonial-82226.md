@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-crea-el-instituto-de-seguridad-juridica-patrimonial-822
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-19"
-last_updated: "2021-12-30"
+last_updated: "2022-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE JUNIO DE 2022.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 19 de julio de 2011.
 
@@ -379,19 +379,21 @@ La fecha del certificado deberá estar comprendida dentro de los quince días h�
 
 II. Darán un aviso preventivo al Registro Público, el cual, además de ser firmado electrónicamente por el fedatario público o por la autoridad judicial en funciones de fedatario público, deberá contener los nombres de los interesados, el acto o convenio de que se trate, así como los datos del inmueble y el antecedente registral.
 
-Dicho aviso tendrá una vigencia de quince días hábiles a partir de la fecha y hora de su presentación y será anotado en el Folio Electrónico Registral de la Inscripción a la que se refiere el aviso. Para el cómputo de la vigencia del aviso preventivo, el día en que sea presentado el mismo se computará como completo, independientemente de la hora de su presentación.
+> <small>(REFORMADO, D.O. 7 DE JUNIO DE 2022)</small>
+
+Dicho aviso tendrá una vigencia de treinta días hábiles a partir de la fecha y hora de su presentación y será anotado en el Folio Electrónico Registral de la Inscripción a la que se refiere el aviso. Para el cómputo de la vigencia del aviso preventivo, el día en que sea presentado el mismo se computará como completo, independientemente de la hora de su presentación.
 
 ###### Artículo 34.
 
 Lo dispuesto en el artículo anterior, también se aplicará a las entidades y a los organismos a que se refiere el artículo 1405 del Código.
 
-> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, D.O. 7 DE JUNIO DE 2022)</small>
 
 ###### Artículo 35.
 
-Una vez formalizado el acto o el convenio en el que se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, la posesión o cualquier derecho real sobre bienes inmuebles, el fedatario público, la autoridad judicial o la entidad u organismo correspondientes dará al Registro Público un aviso definitivo, que será enviado por medios electrónicos con la firma electrónica del funcionario respectivo, sobre el acto o convenio de que se trate, dentro de los quince días hábiles de vigencia del aviso preventivo.
+Una vez que el acto o el convenio en el que se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, la posesión o cualquier derecho real sobre bienes inmuebles, haya sido firmado por todos los otorgantes, el notario público, la autoridad judicial o la entidad u organismo correspondientes dará al Registro Público un aviso definitivo, que será enviado por medios electrónicos con la firma electrónica del funcionario respectivo, sobre el acto o convenio de que se trate, dentro de los treinta días hábiles de vigencia del aviso preventivo.
 
-Para el caso de que el fedatario público no presente el correspondiente aviso preventivo, o bien, habiéndolo dado, fenezca su vigencia, el aviso definitivo a que se refiere este artículo deberá presentarse dentro de los siete días hábiles siguientes a la formalización del acto a que este se refiera.
+Para el caso de que el notario público no presente el correspondiente aviso preventivo, o bien, habiéndolo dado, fenezca su vigencia, el aviso definitivo a que se refiere este artículo deberá presentarse dentro de los siete días hábiles siguientes a la formalización del acto a que este se refiera.
 
 El aviso definitivo contendrá, además de los datos que se mencionan en los artículos 33, fracción II, y 28 de esta Ley, el número de escritura y la fecha de la formalización de la operación. Asimismo, será anotado en el Folio Electrónico Registral del inmueble al que se refiere el aviso.
 
@@ -537,7 +539,9 @@ Las anotaciones relativas a los avisos preventivos y definitivos a que se refier
 
 Para la cancelación anticipada del aviso preventivo, bastará la solicitud del fedatario público que lo haya dado o quien lo sustituya legalmente en sus funciones, expresando las razones legales que la motivan.
 
-En el caso de los avisos definitivos, además de los requisitos a que se refiere el párrafo anterior, deberá darse aviso previo al Consejo de Notarios, haciéndolo conocedor de esa circunstancia. El notario público deberá anexar a su solicitud de cancelación copia del documento en que conste el aviso al Consejo, la respuesta de este y el acta donde se otorgue la recisión.
+> <small>(REFORMADO, D.O. 7 DE JUNIO DE 2022)</small>
+
+En el caso de los avisos definitivos, además de los requisitos a que se refiere el párrafo anterior, deberá darse aviso previo a la Consejería Jurídica, haciéndola conocedora de esa circunstancia. El notario público deberá anexar a su solicitud de cancelación copia del documento en que conste el aviso a la Consejería Jurídica, la respuesta de esta y el acta donde se otorgue la recisión.
 
 ###### Artículo 50.
 
@@ -1923,11 +1927,21 @@ VII. Revisar, en apoyo a la autoridad fiscal, a través de su Dirección del Cat
 
 VIII. Validar los avalúos comerciales que expidan los peritos valuadores, a través de su Dirección del Catastro;
 
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, D.O. 7 DE JUNIO DE 2022)</small>
 
-IX. Sancionar a quienes emitan y utilicen avalúos que no cumplan con las disposiciones legales y normativas aplicables, en términos de esta ley, y
+IX. Sancionar a quienes emitan y utilicen avalúos que no cumplan con las disposiciones legales y normativas aplicables, en términos de esta ley;
 
-X. Las demás que esta Ley y otras disposiciones legales le otorguen.
+> <small>(ADICIONADA, D.O. 7 DE JUNIO DE 2022)</small>
+
+X. Remitir a la Consejería Jurídica anualmente un informe sobre la función notarial en el estado, que incluya el porcentaje de actas notariales y escrituras públicas cuya inscripción o anotación el Instituto denegó y los motivos de esta denegación;
+
+> <small>(ADICIONADA, D.O. 7 DE JUNIO DE 2022)</small>
+
+XI. Practicar, ordenar, revisar o tomar en cuenta el avalúo del bien objeto de la enajenación, a que se refiere el artículo 20-J de la Ley General de Hacienda del Estado de Yucatán, lo anterior con independencia del ejercicio de sus facultades de comprobación, y
+
+> <small>(REFORMADA, D.O. 7 DE JUNIO DE 2022)</small>
+
+XII. Las demás que esta ley y otras disposiciones legales le otorguen.
 
 ### CAPÍTULO V. Del Personal del Instituto
 
@@ -2604,3 +2618,69 @@ Las personas que se refiere el artículo 175 ter de la Ley que crea el Instituto
 Cuarta. (sic) Emisión de la convocatoria
 
 El Instituto de Seguridad Jurídica Patrimonial de Yucatán, por única ocasión, deberá emitir la convocatoria a que se refiere el transitorio anterior, dentro del plazo de treinta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 7 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 505/2022 POR EL QUE SE MODIFICAN LA LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN, EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, EL CÓDIGO CIVIL DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DEL CATASTRO DEL ESTADO DE YUCATÁN, LA LEY ORGÁNICA DE LA JUNTA DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE YUCATÁN, LA LEY DE FRACCIONAMIENTOS DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE YUCATÁN, LA LEY DEL INSTITUTO DE VIVIENDA DEL ESTADO DE YUCATÁN, LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS EN EL ESTADO DE YUCATÁN Y LA LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN”.]
+
+Artículo Primero. Entrada en vigor
+
+Este decreto entrará en vigor a los 45 días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, a excepción de lo previsto en el párrafo primero del artículo 63 y en la fracción VI del artículo 65 de la Ley General de Hacienda del Estado de Yucatán que lo harán el 31 de diciembre de 2025.
+
+Artículo Segundo. Obligación normativa
+
+El gobernador del estado deberá modificar el Reglamento de la Ley del Notariado del Estado de Yucatán en un plazo no mayor a ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+Artículo Tercero. Integración del Colegiado Notarial de Yucatán
+
+Las personas que a la entrada en vigor de este decreto ocupen el cargo de presidente, secretario, tesorero y vocales del actual Consejo de Notarios del Estado ocuparán automáticamente los referidos cargos dentro del Colegio Notarial de Yucatán, cuyas funciones desempeñarán durante el plazo para el cual fueron nombrados.
+
+Artículo Cuarto. Emisión del reglamento interno
+
+El Colegio Notarial de Yucatán expedirá su reglamento interno dentro de un plazo de noventa días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Artículo Quinto. Inicio del sistema informático
+
+El sistema informático a que se refieren los artículos 88 bis y 89 bis de este decreto entrará en funciones dentro de los trescientos sesenta y cinco días siguientes a la entrada en vigor de la modificación al Reglamento de la Ley del Notariado del Estado de Yucatán a que se refiere el artículo transitorio segundo de este decreto.
+
+La Dirección del Archivo Notarial será la encargada de supervisar el procedimiento de digitalización de los tomos antiguos de los notarios públicos en funciones, desde la primera escritura que hayan expedido en ejercicio de sus funciones hasta la actualidad, sin considerar sus apéndices y documentos anexos, dentro del plazo previsto en este artículo.
+
+La Dirección del Archivo Notarial será la encargada de supervisar el procedimiento de digitalización de los tomos del protocolo de los notarios públicos que se encuentren en uso, los cuales deberán estar plenamente disponibles en el sistema dentro del plazo previsto en este artículo.
+
+Artículo Sexto. Asuntos en trámite
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este decreto, continuarán, hasta su conclusión, regidos por las disposiciones en los cuales se fundamentaron.
+
+Artículo Séptimo. Remisión de dictamen de quejas
+
+El Consejo de Notarios, ahora Colegio Notarial de Yucatán, deberá remitir a la Consejería Jurídica una relación de las quejas en trámite pendiente de dictaminar y enviar a la Consejería Jurídica, ordenadas conforme a su año de recepción, dentro del plazo de treinta días hábiles, contado a partir de la entrada en vigor de este decreto.
+
+La Consejería Jurídica solicitará al Consejo de Notarios, ahora Colegio Notarial de Yucatán, conforme al orden de recepción de las quejas referidas en el párrafo anterior, la remisión de los dictámenes respectivos, en términos de las disposiciones vigentes previo a la entrada en vigor de este decreto.
+
+La Consejería Jurídica fijará el plazo para la entrega de los dictámenes a que se refiere el párrafo anterior, atendiendo al volumen de quejas pendientes de dictaminar, en caso de incumplimiento por parte del Consejo de Notarios, ahora Colegio Notarial de Yucatán, la Consejería Jurídica podrá aplicar los medios de apremio a que se refiere el artículo 138 bis de la Ley del Notariado del Estado de Yucatán.
+
+Artículo Octavo. Remisión de documentación y archivos
+
+El Consejo de Notarios deberá remitir a la Consejería Jurídica todos aquellos medios, documentos o archivos, tanto físicos como electrónicos, que permiten el cumplimiento de las atribuciones que mediante este decreto se transfieren del Consejo de Notarios a la Consejería Jurídica, en un plazo máximo de cuarenta y cinco días naturales, contados a partir de la entrada en vigor de este decreto.
+
+Artículo Noveno. Patentes y disposiciones sobre los escribanos
+
+Los escribanos públicos de municipios con población menor a treinta mil habitantes y que a la entrada en vigor de este decreto se encuentren en funciones continuarán ejerciendo, en apego a las disposiciones de la Ley del Notariado del Estado de Yucatán vigentes previo a la entrada en vigor de este decreto, hasta que concluya la vigencia de su nombramiento.
+
+Una vez transcurrido el plazo previsto en el párrafo anterior, los escribanos públicos contarán con un plazo de treinta días hábiles para hacer entrega de las escrituras públicas y sus apéndices a la Dirección del Archivo Notarial de la Consejería Jurídica, en términos de lo previsto en la Ley del Notariado del Estado de Yucatán, vigente previo a la entrada en vigor de este decreto.
+
+En línea con lo anterior, las disposiciones de la Ley del Notariado del Estado de Yucatán y demás derogadas o reformadas conforme a este decreto que regían la actuación de los escribanos públicos seguirán aplicando únicamente para aquellos escribanos públicos cuyo nombramiento continúe vigente y hasta que este concluya.
+
+Artículo Décimo. Adecuaciones presupuestales
+
+La Secretaría de Administración y Finanzas deberá realizar las adecuaciones presupuestales necesarias, en términos de este decreto, para dotar a la Consejería Jurídica de los recursos humanos, financieros, materiales y tecnológicos que requiera para el adecuado ejercicio de sus atribuciones.
+
+Artículo Décimo primero. Cambio de denominación
+
+Cuando en las leyes de la Administración Pública estatal y sus reglamentos o en otras disposiciones legales vigentes se haga referencia al Consejo de Notarios se entenderá que se refieren a la Consejería Jurídica respecto a las facultades y obligaciones que se transfieren a esta en términos de este decreto.
+
+De igual manera, cuando las leyes de la Administración Pública estatal y sus reglamentos o en otras disposiciones legales vigentes se hagan referencia a fedatario público o fedatarios públicos se entenderá que se refieren a notario público o notarios públicos, respectivamente.
+
+Artículo Décimo segundo. Plazo para la integración del temario
+
+Por única ocasión, la Consejería Jurídica formulará el temario a que se refiere el artículo 27 de la Ley del Notariado del Estado de Yucatán, y lo publicará en el Diario Oficial del Gobierno del Estado de Yucatán, dentro del plazo de noventa días, contado a partir de la entrada en vigor de este decreto.
