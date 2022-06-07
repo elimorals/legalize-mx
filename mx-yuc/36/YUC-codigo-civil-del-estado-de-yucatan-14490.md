@@ -4,7 +4,7 @@ identifier: "YUC-codigo-civil-del-estado-de-yucatan-14490"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-12-31"
-last_updated: "2016-12-28"
+last_updated: "2022-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO CIVIL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE JUNIO DE 2022.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 31 de diciembre de 1993.
 
@@ -7029,11 +7029,13 @@ En la cesión de crédito o de cualquier otro derecho se observarán las disposi
 
 La cesión de un crédito comprende la de todos los derechos accesorios como la fianza, hipoteca, prenda o privilegio, salvo aquéllos que son inseparables de la persona del cedente. Los intereses vencidos se presume que fueron cedidos con el crédito principal.
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE JUNIO DE 2022)</small>
 
 ###### Artículo 1215.
 
-En el caso de que el crédito deba constar en escritura pública con arreglo a la ley, la cesión de acciones deberá hacerse en esta misma forma. En caso contrario, deberá hacerse en documento firmado ante notario o escribano público, según corresponda, o en declaración ante el juez de los autos, si el crédito estuviere en cobro judicial.
+En el caso de que el crédito deba constar en escritura pública con arreglo a la ley, la cesión de acciones deberá hacerse en esta misma forma. En caso contrario, deberá hacerse en documento firmado ante notario público o en declaración ante el juez de los autos, si el crédito estuviere en cobro judicial.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2002)</small>
 
 Lo dispuesto en este artículo no se aplicará en los supuestos previstos en el primer párrafo del artículo 1229-Bis de este código.
 
@@ -7885,9 +7887,11 @@ La promesa de contratar o sea el contrato preliminar de otro puede ser unilatera
 
 La promesa de contrato sólo da origen a obligaciones de hacer consistentes en celebrar el contrato respectivo de acuerdo con lo ofrecido.
 
+> <small>(REFORMADO, D.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 1394.
 
-Para que la promesa de contratar sea válida debe constar por escrito en documento suscrito ante notario o escribano público, según corresponda, contener los elementos característicos del contrato definitivo y limitarse a cierto tiempo.
+Para que la promesa de contratar sea válida debe constar por escrito en documento suscrito ante notario público, contener los elementos característicos del contrato definitivo y limitarse a cierto tiempo.
 
 ###### Artículo 1395.
 
@@ -7927,7 +7931,7 @@ El contrato de compraventa no requiere para su validez formalidad alguna especia
 
 ###### Artículo 1403.
 
-La venta de un inmueble podrá hacerse en documento que firmarán la parte compradora y la vendedora ante escribano público, si el valor catastral o precio convenido o el estimado para efectos fiscales, no excede del límite que les autoriza la ley del notariado vigente.
+(DEROGADO, D.O. 7 DE JUNIO DE 2022)
 
 > <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
 
@@ -7939,9 +7943,11 @@ Si alguno de los contratantes no supiere o no pudiere escribir, lo hará por él
 
 Cuando se trate de operaciones o contratos otorgados por la comisión para la regularización de la tenencia de la tierra u otro organismo o institución de carácter público con fines sociales previamente autorizado de acuerdo a la legislación que corresponda, y que se refieran a predios cuya superficie no exceda de seiscientos metros cuadrados, podrán hacerse constar en documentos privados, ante dos testigos, e inscribirse en el registro público de la propiedad del Estado, con la constancia del registrador sobre la autenticidad de las firmas y de la voluntad de las partes.
 
+> <small>(REFORMADO, D.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 1406.
 
-Cuando el avalúo catastral del inmueble, el precio de la venta o el estimado para efectos fiscales, exceda del límite autorizado por la ley a los escribanos públicos, el contrato se otorgará ante notario público, ya sea que afecte todo el predio o sólo parte de él. Cuando se trate de enajenar el derecho de copropiedad de uno o más copropietarios se atenderá al valor proporcional que le o les corresponda, según el valor catastral del predio, el precio de la operación o el estimado para efectos fiscales.
+El contrato de compraventa se otorgará ante notario público, ya sea que afecte todo el predio o sólo parte de él. Cuando se trate de enajenar el derecho de copropiedad de uno o más copropietarios se atenderá al valor proporcional que le o les corresponda, según el valor catastral del predio, el precio de la operación o el estimado para efectos fiscales.
 
 ###### Artículo 1407.
 
@@ -8017,9 +8023,11 @@ Desde el momento que el comprador acepte que la cosa vendida quede a su disposic
 
 Si la cosa vendida es mueble, se dice entregada cuando materialmente se pone en poder del comprador.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 1420.
 
-Si la cosa vendida es raíz, se dice entregada luego que está otorgada la escritura pública, ante escribano o notario público según corresponda.
+Si la cosa vendida es raíz, se dice entregada luego que está otorgada la escritura pública, ante notario público.
 
 Esto mismo se observará para la traslación de derechos. En todo caso el vendedor está obligado a entregar al comprador los títulos de la cosa vendida.
 
@@ -8321,15 +8329,17 @@ Las donaciones sólo pueden tener lugar entre vivos y no pueden revocarse sino e
 
 La donación es perfecta desde que el donatario la acepta, y se hace saber la aceptación al donador.
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 7 DE JUNIO DE 2022)</small>
 
 ###### Artículo 1484.
 
-No puede hacerse donación verbal más que de bienes muebles y cuando su valor no exceda de cien unidades de medida y actualización. Si el valor de los muebles donados excediere de esta cantidad, la donación deberá hacerse constar en escritura pública ante escribano o notario público, según corresponda conforme a la ley.
+No puede hacerse donación verbal más que de bienes muebles y cuando su valor no exceda de cien unidades de medida y actualización. Si el valor de los muebles donados excediere de esta cantidad, la donación deberá hacerse constar en escritura pública ante notario público.
+
+> <small>(REFORMADO, D.O. 7 DE JUNIO DE 2022)</small>
 
 ###### Artículo 1485.
 
-Las donaciones de inmuebles deberán otorgarse ante escribano o notario público, según corresponda conforme a la ley, ateniéndose para ese efecto al valor catastral o al estimado para efectos fiscales.
+Las donaciones de inmuebles deberán otorgarse ante notario público.
 
 ###### Artículo 1486.
 
@@ -8723,9 +8733,11 @@ El arrendamiento puede hacerse por el tiempo y el precio que convengan los contr
 
 La renta o precio del arrendamiento puede consistir en una suma de dinero o en cualquiera otra cosa equivalente con tal de que sea cierta y determinada.
 
+> <small>(REFORMADO, D.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 1573.
 
-Todo contrato de arrendamiento debe constar por escrito, sea cual fuere la cuantía de la renta anual; en documento ante notario o escribano público cuando el plazo no exceda de tres años y, en escritura pública ante notario cuando exceda de ese plazo.
+Todo contrato de arrendamiento debe constar por escrito, sea cual fuere la cuantía de la renta anual; en documento ante notario público cuando el plazo no exceda de tres años y, en escritura pública ante notario cuando exceda de ese plazo.
 
 #### SECCION SEGUNDA. DE LOS DERECHOS Y OBLIGACIONES
 
@@ -9361,9 +9373,11 @@ En las mismas condiciones expresadas en el artículo que precede, podrán otorga
 
 Cuando en los poderes a que se refieren los dos artículos inmediatamente anteriores, se quisieren limitar las facultades del apoderado deberán consignarse esas limitaciones de un modo expreso.
 
+> <small>(REFORMADO, D.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 1713.
 
-El mandato debe otorgarse siempre por escrito; en escritura pública, con las solemnidades legales, o en documento firmado ante escribano público.
+El mandato debe otorgarse siempre por escrito; en escritura pública, con las solemnidades legales.
 
 ###### Artículo 1714.
 
@@ -9375,13 +9389,15 @@ El mandato debe otorgarse en escritura pública ante notario público:
 
 I.- Cuando sea general.
 
-II.- Cuando el interés del negocio para el que se confiere exceda del límite autorizado a los escribanos públicos por la ley del notariado.
+II.- (DEROGADA, D.O. 7 DE JUNIO DE 2022)
 
 III.- Cuando en virtud de él, haya de ejecutar el mandatario, a nombre del mandante, algún acto que, conforme a la ley, deba constar en escritura pública.
 
+> <small>(REFORMADO, D.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 1716.
 
-El mandato debe constar por lo menos en documento firmado ante escribano público, cuando el interés del negocio para el que se confiera no exceda del límite que la ley los autoriza para actuar. Si se tratare de prestaciones periódicas, servirá de base el importe de una anualidad.
+El mandato debe constar en documento firmado ante notario público.
 
 ###### Artículo 1717.
 
@@ -9501,9 +9517,11 @@ El tercero que hubiere contratado con el mandatario que se excedió en sus facul
 
 #### SECCION QUINTA. DEL MANDATO JUDICIAL
 
+> <small>(REFORMADO, D.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 1742.
 
-El mandato judicial podrá otorgarse en escritura pública ante notario o escribano público, según corresponda, conforme a lo dispuesto en los artículos 1715 y 1716 de este código, o bien en escrito presentado y ratificado por el otorgante ante el juez de los autos, o por medio de comparecencia ante el mismo. Si el juez no conoce al otorgante, exigirá testigos de identificación. La sustitución del mandato judicial, se hará en la misma forma que su otorgamiento.
+El mandato judicial podrá otorgarse en escritura pública ante notario público, conforme a lo dispuesto en los artículos 1715 y 1716 de este código, o bien en escrito presentado y ratificado por el otorgante ante el juez de los autos, o por medio de comparecencia ante el mismo. Si el juez no conoce al otorgante, exigirá testigos de identificación. La sustitución del mandato judicial, se hará en la misma forma que su otorgamiento.
 
 ###### Artículo 1743.
 
@@ -9701,11 +9719,11 @@ II.- Poniendo el empresario sólo su trabajo o industria por un honorario fijo.
 
 En caso de duda se presume que el que se encarga de la obra, la hace por honorario o salario, si la obra es de cosa inmueble, y que lo hace por contrato, si es de cosa mueble.
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 7 DE JUNIO DE 2022)</small>
 
 ###### Artículo 1776.
 
-Siempre que el empresario se encargue por ajuste cerrado de obra en cosa inmueble cuyo valor sea de más de cuatrocientas unidades de medida y actualización se otorgará el contrato por escrito firmado ante notario o escribano público, según corresponda incluyéndose en él una descripción pormenorizada, y en los casos que lo requieran, un plano o diseño de la obra.
+Siempre que el empresario se encargue por ajuste cerrado de obra en cosa inmueble cuyo valor sea de más de cuatrocientas unidades de medida y actualización se otorgará el contrato por escrito firmado ante notario público, incluyéndose en él una descripción pormenorizada, y en los casos que lo requieran, un plano o diseño de la obra.
 
 ###### Artículo 1777.
 
@@ -9857,9 +9875,11 @@ Después de pagadas las deudas sociales, conforme a la ley, a los socios se les 
 
 Las utilidades se destinarán al fisco del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 1811.
 
-El contrato de sociedad debe constar por escrito, en escritura pública ante escribano o notario público, según corresponda conforme a la ley; cuando algún socio transfiera a la sociedad bienes cuya enajenación debe hacerse en escritura pública.
+El contrato de sociedad debe constar por escrito; pero se hará constar en escritura pública ante notario público, cuando algún socio transfiera a la sociedad bienes cuya enajenación deba hacerse en escritura pública.
 
 La falta de forma preescrita (sic) para el contrato de sociedad, sólo produce el efecto de que los socios puedan pedir, en cualquier tiempo que se haga la liquidación de la sociedad conforme a lo convenido, y a falta de convenio, conforme a la ley respectiva; pero mientras que esa liquidación no se pida, el contrato produce todos sus efectos entre los socios y éstos no pueden oponer a terceros que hayan contratado con la sociedad la falta de forma.
 
@@ -10255,9 +10275,11 @@ Son aplicables a la partición entre los socios, en lo conducente, las mismas re
 
 Cuando varios individuos convinieren en reunirse, de manera que no sea enteramente transitoria, para realizar un fin común que no esté prohibido por la ley y que no tenga carácter preponderantemente económico, constituyen una asociación.
 
+> <small>(REFORMADO, D.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 1890.
 
-El contrato por el que se constituya una asociación, debe constar por escrito firmado ante escribano o notario públicos.
+El contrato por el que se constituya una asociación, debe constar por escrito firmado ante notario público.
 
 ###### Artículo 1891.
 
@@ -10887,11 +10909,11 @@ Si se prueba debidamente que el dueño prestó su cosa a otro con el objeto de q
 
 La prenda debe constituirse con los requisitos de forma del contrato a que sirva de garantía.
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, D.O. 7 DE JUNIO DE 2022)</small>
 
 ###### Artículo 2019.
 
-Para los efectos del artículo anterior en ningún caso dejará de otorgarse en escritura pública ante escribano o notario público, según corresponda conforme a la ley, teniéndose en cuenta el valor de la operación, aun cuando para el contrato principal por si solo, la ley no exigiere esta forma.
+Para los efectos del artículo anterior en ningún caso dejará de otorgarse en escritura pública ante notario público, teniéndose en cuenta el valor de la operación, aun cuando para el contrato principal por sí solo, la ley no exigiere esta forma.
 
 ###### Artículo 2020.
 
@@ -11141,9 +11163,11 @@ Nadie puede hipotecar sus bienes sino con las condiciones y limitaciones a que e
 
 El predio común no puede ser hipotecado sino con consentimiento de todos los propietarios. Mientras permanezca indiviso, cada propietario puede hipotecar el derecho que como comunero tenga en él; si el fundo es divisible y se ha practicado ya la división, cada uno de los propietarios podrá hipotecar la parte cierta y determinada que le corresponda.
 
+> <small>(REFORMADO, D.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 2073.
 
-La hipoteca debe ser constituida en escritura pública, ante escribano o notario públicos según corresponda conforme a la ley, teniéndose en cuenta para tal fin, el capital que garantice.
+La hipoteca debe ser constituida en escritura pública ante notario público.
 
 ###### Artículo 2074.
 
@@ -11289,9 +11313,11 @@ Los certificados no deberán ser anteriores en más de quince días hábiles a l
 
 El certificado mencionado en el artículo que precede deberá quedar agregado al documento en que se haga constar la hipoteca o al apéndice de la escritura pública hipotecaria.
 
+> <small>(REFORMADO, D.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 2101.
 
-Los notarios y los escribanos públicos, cuando omitan los requisitos establecidos en los dos artículos inmediatamente anteriores, incurrirán en la pena de pagar los daños y perjuicios que causaren, independientemente de que se les destituya de sus cargos.
+Los notarios públicos, cuando omitan los requisitos establecidos en los dos artículos inmediatamente anteriores, incurrirán en la pena de pagar los daños y perjuicios que causaren, independientemente de que se les destituya de sus cargos.
 
 ###### Artículo 2102.
 
@@ -11371,9 +11397,11 @@ La declaración o reconocimiento de esos derechos no obliga al que lo hace a gar
 
 Las transacciones deben interpretarse estrictamente y sus claúsulas son indivisibles, a menos que otras cosas convengan las partes.
 
+> <small>(REFORMADO, D.O. 7 DE JUNIO DE 2022)</small>
+
 ###### Artículo 2114.
 
-La transacción que previene controversias futuras debe constar en escritura pública, ante escribano o notario públicos, según corresponda conforme a la ley del notariado, teniéndose en cuenta el interés de que se trate.
+La transacción que previene controversias futuras debe constar en escritura pública, ante notario público, conforme a la ley del notariado, teniéndose en cuenta el interés de que se trate.
 
 ###### Artículo 2115.
 
@@ -11887,11 +11915,11 @@ Si el acto o el convenio inscrito o anotado se anula o rescinde en virtud de sen
 
 ### CAPITULO IV. DEL MODO DE HACER EL REGISTRO
 
-> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, D.O. 7 DE JUNIO DE 2022)</small>
 
 ###### Artículo 2186.
 
-La inscripción o anotación de los títulos o documentos en el Registro Público de la Propiedad puede ser pedida por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir, por el notario o escribano públicos o por la autoridad que haya autorizado la escritura de que se trate.
+La inscripción o anotación de los títulos o documentos en el Registro Público de la Propiedad puede ser pedida por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir, por el notario público o por la autoridad que haya autorizado la escritura de que se trate.
 
 > <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
 
@@ -15248,3 +15276,69 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 7 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 505/2022 POR EL QUE SE MODIFICAN LA LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN, EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, EL CÓDIGO CIVIL DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DEL CATASTRO DEL ESTADO DE YUCATÁN, LA LEY ORGÁNICA DE LA JUNTA DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE YUCATÁN, LA LEY DE FRACCIONAMIENTOS DEL ESTADO DE YUCATÁN, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE YUCATÁN, LA LEY DEL INSTITUTO DE VIVIENDA DEL ESTADO DE YUCATÁN, LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS EN EL ESTADO DE YUCATÁN Y LA LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN”.]
+
+Artículo Primero. Entrada en vigor
+
+Este decreto entrará en vigor a los 45 días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, a excepción de lo previsto en el párrafo primero del artículo 63 y en la fracción VI del artículo 65 de la Ley General de Hacienda del Estado de Yucatán que lo harán el 31 de diciembre de 2025.
+
+Artículo Segundo. Obligación normativa
+
+El gobernador del estado deberá modificar el Reglamento de la Ley del Notariado del Estado de Yucatán en un plazo no mayor a ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+Artículo Tercero. Integración del Colegiado Notarial de Yucatán
+
+Las personas que a la entrada en vigor de este decreto ocupen el cargo de presidente, secretario, tesorero y vocales del actual Consejo de Notarios del Estado ocuparán automáticamente los referidos cargos dentro del Colegio Notarial de Yucatán, cuyas funciones desempeñarán durante el plazo para el cual fueron nombrados.
+
+Artículo Cuarto. Emisión del reglamento interno
+
+El Colegio Notarial de Yucatán expedirá su reglamento interno dentro de un plazo de noventa días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Artículo Quinto. Inicio del sistema informático
+
+El sistema informático a que se refieren los artículos 88 bis y 89 bis de este decreto entrará en funciones dentro de los trescientos sesenta y cinco días siguientes a la entrada en vigor de la modificación al Reglamento de la Ley del Notariado del Estado de Yucatán a que se refiere el artículo transitorio segundo de este decreto.
+
+La Dirección del Archivo Notarial será la encargada de supervisar el procedimiento de digitalización de los tomos antiguos de los notarios públicos en funciones, desde la primera escritura que hayan expedido en ejercicio de sus funciones hasta la actualidad, sin considerar sus apéndices y documentos anexos, dentro del plazo previsto en este artículo.
+
+La Dirección del Archivo Notarial será la encargada de supervisar el procedimiento de digitalización de los tomos del protocolo de los notarios públicos que se encuentren en uso, los cuales deberán estar plenamente disponibles en el sistema dentro del plazo previsto en este artículo.
+
+Artículo Sexto. Asuntos en trámite
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este decreto, continuarán, hasta su conclusión, regidos por las disposiciones en los cuales se fundamentaron.
+
+Artículo Séptimo. Remisión de dictamen de quejas
+
+El Consejo de Notarios, ahora Colegio Notarial de Yucatán, deberá remitir a la Consejería Jurídica una relación de las quejas en trámite pendiente de dictaminar y enviar a la Consejería Jurídica, ordenadas conforme a su año de recepción, dentro del plazo de treinta días hábiles, contado a partir de la entrada en vigor de este decreto.
+
+La Consejería Jurídica solicitará al Consejo de Notarios, ahora Colegio Notarial de Yucatán, conforme al orden de recepción de las quejas referidas en el párrafo anterior, la remisión de los dictámenes respectivos, en términos de las disposiciones vigentes previo a la entrada en vigor de este decreto.
+
+La Consejería Jurídica fijará el plazo para la entrega de los dictámenes a que se refiere el párrafo anterior, atendiendo al volumen de quejas pendientes de dictaminar, en caso de incumplimiento por parte del Consejo de Notarios, ahora Colegio Notarial de Yucatán, la Consejería Jurídica podrá aplicar los medios de apremio a que se refiere el artículo 138 bis de la Ley del Notariado del Estado de Yucatán.
+
+Artículo Octavo. Remisión de documentación y archivos
+
+El Consejo de Notarios deberá remitir a la Consejería Jurídica todos aquellos medios, documentos o archivos, tanto físicos como electrónicos, que permiten el cumplimiento de las atribuciones que mediante este decreto se transfieren del Consejo de Notarios a la Consejería Jurídica, en un plazo máximo de cuarenta y cinco días naturales, contados a partir de la entrada en vigor de este decreto.
+
+Artículo Noveno. Patentes y disposiciones sobre los escribanos
+
+Los escribanos públicos de municipios con población menor a treinta mil habitantes y que a la entrada en vigor de este decreto se encuentren en funciones continuarán ejerciendo, en apego a las disposiciones de la Ley del Notariado del Estado de Yucatán vigentes previo a la entrada en vigor de este decreto, hasta que concluya la vigencia de su nombramiento.
+
+Una vez transcurrido el plazo previsto en el párrafo anterior, los escribanos públicos contarán con un plazo de treinta días hábiles para hacer entrega de las escrituras públicas y sus apéndices a la Dirección del Archivo Notarial de la Consejería Jurídica, en términos de lo previsto en la Ley del Notariado del Estado de Yucatán, vigente previo a la entrada en vigor de este decreto.
+
+En línea con lo anterior, las disposiciones de la Ley del Notariado del Estado de Yucatán y demás derogadas o reformadas conforme a este decreto que regían la actuación de los escribanos públicos seguirán aplicando únicamente para aquellos escribanos públicos cuyo nombramiento continúe vigente y hasta que este concluya.
+
+Artículo Décimo. Adecuaciones presupuestales
+
+La Secretaría de Administración y Finanzas deberá realizar las adecuaciones presupuestales necesarias, en términos de este decreto, para dotar a la Consejería Jurídica de los recursos humanos, financieros, materiales y tecnológicos que requiera para el adecuado ejercicio de sus atribuciones.
+
+Artículo Décimo primero. Cambio de denominación
+
+Cuando en las leyes de la Administración Pública estatal y sus reglamentos o en otras disposiciones legales vigentes se haga referencia al Consejo de Notarios se entenderá que se refieren a la Consejería Jurídica respecto a las facultades y obligaciones que se transfieren a esta en términos de este decreto.
+
+De igual manera, cuando las leyes de la Administración Pública estatal y sus reglamentos o en otras disposiciones legales vigentes se hagan referencia a fedatario público o fedatarios públicos se entenderá que se refieren a notario público o notarios públicos, respectivamente.
+
+Artículo Décimo segundo. Plazo para la integración del temario
+
+Por única ocasión, la Consejería Jurídica formulará el temario a que se refiere el artículo 27 de la Ley del Notariado del Estado de Yucatán, y lo publicará en el Diario Oficial del Gobierno del Estado de Yucatán, dentro del plazo de noventa días, contado a partir de la entrada en vigor de este decreto.
