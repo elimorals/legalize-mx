@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2022-02-24"
+last_updated: "2022-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -1263,9 +1263,13 @@ XIV.- Promover en los educandos, por cualquier medio, el uso de medicamentos que
 
 XV.- Expulsar o negarse a prestar el servicio educativo a personas que presenten problemas de aprendizaje o condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos, o bien, presionar de cualquier manera a los padres o tutores para que acudan a médicos o clínicas específicas para la atención de problemas de aprendizaje de los educandos; y
 
-> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE JUNIO DE 2022)</small>
 
 XVI.- Incumplir con las medidas correctivas derivadas de las visitas de inspección;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2022)</small>
+
+XVII.- Retener documentos personales y académicos por falta de pago.
 
 > <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
@@ -1456,3 +1460,11 @@ PRIMERO.- El presente decreto entrará en vigor quince días después de su publ
 SEGUNDO.- Por cuanto a las Secretarías de Educación y de Salud, en lo que respecta a los efectos de este decreto, adoptarán las medidas necesarias en sus programas y acciones de trabajo, procurando que éstas se realicen con sus previsiones presupuestales asignadas.
 
 TERCERO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 7 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 70 POR EL QUE "SE REFORMA LA FRACCIÓN XVI Y SE ADICIONA UNA FRACCIÓN XVII AL ARTÍCULO 54 DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE".]
+
+Artículo Primero. El presente decreto entrará en vigor a los quince días siguientes después de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
