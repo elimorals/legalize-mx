@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-comision-de-los-derechos-humanos-del-estado-de-27070"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-13"
-last_updated: "2021-09-14"
+last_updated: "2022-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 13 de diciembre de 2002.
 
@@ -427,11 +427,13 @@ IX. Formular los lineamientos generales a que se sujetarán las actividades admi
 
 X. Nombrar a los Visitadores Generales, al Secretario Técnico y a los funcionarios y personal bajo su autoridad;
 
-XI. Someter a la opinión y consideración del Consejo Consultivo el Informe anual de actividades que será presentado ante la Legislatura del Estado.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+XI. Someter a la opinión y consideración del Consejo Consultivo el Informe anual de labores y resultados a que se refiere la fracción siguiente;
 
-XII. Rendir un informe anual a la Legislatura sobre las actividades que la Comisión haya realizado, remitiendo de igual manera una copia del informe al Titular del Poder Ejecutivo del Estado y al Magistrado Presidente del Tribunal Superior de Justicia del Estado. Dicho informe deberá presentarse en los primeros tres meses del año;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XII. Comparecer ante el Pleno de la Legislatura, en el mes de octubre de cada año, para rendir un informe anual de labores y resultados, así como para detallar su contenido y contestar los planteamientos que se le formulen. El informe será remitido al titular del Poder Ejecutivo del Estado y al Magistrado Presidente del Tribunal Superior de Justicia del Estado, difundido con amplitud a la ciudadanía y publicado en los medios electrónicos oficiales de la Comisión;
 
 > <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -1183,15 +1185,15 @@ La Comisión notificará inmediatamente a los quejosos o denunciantes, los resul
 
 El Presidente de la Comisión, en términos de la legislación aplicable, estará facultado para publicar, en su totalidad o en forma resumida, las recomendaciones y los acuerdos que establece la presente ley, en casos excepcionales, podrá determinar si los mismos sólo deban comunicarse a los interesados de acuerdo con las circunstancias del propio caso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
 
 ###### Artículo 65.
 
-Los informes anuales del Presidente deberán remitirse a la Legislatura dentro de los primeros tres meses del año, y comprenderán una descripción del número y características de las quejas y denuncias que se hayan presentado; los efectos de la labor de conciliación y mediación; las investigaciones realizadas, las recomendaciones, los acuerdos de no responsabilidad y las resoluciones que se hubiesen formulado; los resultados obtenidos, así como las estadísticas, los programas desarrollados y demás datos que se consideren convenientes dentro de las actividades de capacitación, difusión y promoción de los derechos humanos.
+El informe anual de labores y resultados comprenderán una descripción del número y características de las quejas y denuncias que se hayan presentado; los efectos de la labor de conciliación y mediación; las investigaciones realizadas, las recomendaciones, los acuerdos de no responsabilidad y las resoluciones que se hubiesen formulado; los resultados obtenidos, así como las estadísticas, los programas desarrollados y demás datos que se consideren convenientes dentro de las actividades de capacitación, difusión y promoción de los derechos humanos.
 
 Asimismo, el informe podrá contener proposiciones dirigidas a las autoridades y servidores públicos competentes, tanto federales, como estatales y municipales, para promover la expedición o modificación de disposiciones legales y reglamentarias, así como para perfeccionar las prácticas administrativas correspondientes, con el objeto de tutelar de manera más efectiva los derechos humanos de los gobernados y lograr una mayor eficiencia en la actuación de los servidores públicos.
 
-Este informe deberá ser ampliamente difundido para hacerlo del conocimiento de la población en general.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
 
 ## TÍTULO CUARTO. DE LAS AUTORIDADES Y SERVIDORES PÚBLICOS
 
@@ -1378,3 +1380,11 @@ PRIMERO. El presente Decreto comenzará su vigencia al día siguiente al de su p
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 TERCERO. En un plazo no mayor a noventa días naturales siguientes a la entrada en vigor del presente Decreto, la Comisión de los Derechos Humanos del Estado de Quintana Roo, deberá realizar las adecuaciones que correspondan a sus reglamentos o normatividad interna.
+
+P.O. 8 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 226 POR EL QUE SE REFORMA: LA FRACCIÓN X DEL ARTÍCULO 31 Y EL ARTÍCULO 40 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO; SE REFORMA: LA FRACCIÓN VI DEL ARTÍCULO 140 Y LA FRACCIÓN VIII DEL ARTÍCULO 223 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO; SE REFORMA: LA FRACCIÓN XX DEL ARTÍCULO 195 DEL CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO; SE REFORMAN: LOS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO DEL ARTÍCULO 18 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO, Y SE REFORMAN; LAS FRACCIONES XI Y XII DEL ARTÍCULO 22 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 65 Y SE DEROGA: EL TERCER PÁRRAFO DEL ARTÍCULO 65, TODOS DE LA LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor, previa publicación en el Periódico Oficial del Estado de Quintana Roo, el día en el que inicie la vigencia del Decreto por el que se reforman el párrafo sexto del artículo 94 y el párrafo tercero del apartado B del artículo 96 y se adicionan los párrafos cuarto y quinto al artículo 51 BIS, todos de la Constitución Política del Estado Libre y Soberano de Quintana Roo, en materia de comparecencia de los titulares de los órganos públicos autónomos a la Legislatura del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
