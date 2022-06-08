@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-la-juventud-del-estado-de-zacatecas-100875"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-03"
-last_updated: "2020-12-12"
+last_updated: "2022-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE LA JUVENTUD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 3 de mayo de 2014.
 
@@ -625,11 +625,55 @@ El Ejecutivo, a través de la Secretaría, quien a su vez se coordinará con la 
 
 La habilitación de dichos espacios estará sujeta a la disponibilidad presupuestal del ejercicio.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
 
 ###### Artículo 45.
 
-El Instituto realizará las gestiones que sean de su competencia para la conservación de los espacios rescatados, fomentando una estrecha comunicación con las instancias de juventud respectivas en los municipios y la Secretaría.
+El Instituto realizará las gestiones que sean de su competencia para la conservación de los espacios rescatados fomentando una estrecha comunicación con las instancias de juventud respectivas en los municipios y la Secretaría, a efecto de:
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+I. Impulsar la organización y participación de los jóvenes en los procesos de planeación y operación de actividades en los espacios públicos, con la finalidad de promover, desde el inicio, su apropiación y pertenencia comunitaria;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+II. Promover el desarrollo de actividades deportivas, recreativas, artístico-culturales para fomentar el desarrollo de los jóvenes, la convivencia social y el aprovechamiento del tiempo libre como medidas dirigidas a prevenir conductas antisociales y a generar sentido de identidad y pertenencia ciudadana con el entorno urbano;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+III. Integrar a prestadores de servicio social y promotores comunitarios en la instrumentación de estrategias y proyectos en el espacio público, donde los jóvenes funjan como gestores de sus necesidades y participen en su funcionamiento y sostenibilidad;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+IV. Promover la inclusión social y la equidad de género, dando preferencia a grupos vulnerables y personas con discapacidad para que ejerzan a plenitud sus derechos dentro de los espacios públicos;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+V. Fomentar la protección y conservación de los recursos naturales en los espacios públicos, a efecto de arraigar una cultura de respeto al medio ambiente en los jóvenes, y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+VI. Las demás previstas en otros ordenamientos jurídicos
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+Artículo 45 bis. El Ejecutivo del Estado, a través del Instituto, suscribirá los instrumentos jurídicos para la distribución y ejercicio de apoyos, estímulos económicos o subsidios del programa de rescate de espacios públicos, con cada municipio, a fin de rehabilitar, mejorar y conservar las unidades deportivas, plazas, jardines, parques lineales, bibliotecas o cualquier sitio donde se fomente la sana convivencia, para los efectos siguientes:
+
+I. Desarrollar actividades deportivas, culturales, recreativas y artísticas, a fin de dotar a las ciudades y poblaciones de lugares aptos para la manifestación de sus tradiciones, valores e historia; como elementos comunes para compartir y preservar entre niños, jóvenes, mujeres, adultos y adultos mayores;
+
+II. Facilitar la accesibilidad de las personas a estos espacios sin distinción alguna para gozar y enriquecer el patrimonio común, así como los lazos de identidad entre los jóvenes y niños;
+
+III. Estrechar la comunicación, confianza y solidaridad entre la población de todas las edades como atributos de la cohesión social, y
+
+IV. Cualquier otra que sea análoga a las anteriores.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+Artículo 45 ter. Dentro del programa de rescate de espacios públicos, el Ejecutivo del Estado, a propuesta del Instituto, definirá los espacios públicos que se encuentren en desuso, abandono o en mal estado para su rehabilitación, recuperación o equipamiento, atendiendo la propuesta de cada municipio o de las instituciones educativas.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+Artículo 45 quáter. El Ejecutivo del Estado y los Ayuntamientos, en el ámbito de su competencia, deberán mejorar y ampliar el alumbrado público, la infraestructura peatonal y ciclista, guarniciones y otras obras necesarias en torno a los espacios públicos, a fin de lograr su debido aprovechamiento con accesibilidad universal a los jóvenes para goce de sus derechos deportivos, culturales y recreativos.
 
 ## TÍTULO CUARTO. DE LAS AUTORIDADES EN MATERIA DE JUVENTUD
 
@@ -859,7 +903,9 @@ Artículo 61 ter. El Instituto contará con los siguientes órganos:
 
 I. Junta de Gobierno, y
 
-II. II. (SIC) Director General.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+II. Director General.
 
 La Junta de Gobierno es el órgano superior del Instituto y estará integrada de la siguiente manera:
 
@@ -910,6 +956,10 @@ II. Las aportaciones, subsidios, bienes muebles e inmuebles y demás ingresos, d
 III. Los fondos que provengan de organismos no gubernamentales y organizaciones sociales en general; y
 
 IV. Los demás que adquiera por cualquier título legal.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+Artículo 61 septies. El Instituto actuará como órgano de consulta y asesoría para las dependencias y entidades de la Administración Pública Estatal en las acciones que impacten el ejercicio de los derechos de la juventud en el Estado de Zacatecas.
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 2017)</small>
 
@@ -1045,9 +1095,11 @@ IX. Coordinar las actividades realizadas por la Secretaría Ejecutiva; y
 
 X. Las demás que establezca la presente Ley y su Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
+
 ###### Artículo 74.
 
-El Secretario de (sic) Técnico tendrá las siguientes funciones:
+El Secretario Técnico tendrá las siguientes funciones:
 
 I. Elaborar las actas correspondientes a cada sesión;
 
@@ -1081,9 +1133,11 @@ XI. Las demás que le instruyan el Presidente y Secretario General del Consejo.
 
 Cada Ayuntamiento procurará el establecimiento y desarrollo de una instancia municipal de juventud, con la finalidad que los jóvenes, en sus municipios, puedan acceder a los planes, programas, acciones y políticas públicas derivados del Programa Estatal de Juventud y puedan ejercer los derechos establecidos en la presente Ley y demás ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
+
 ###### Artículo 76.
 
-Las instancias municipales de juventud podrán ejecutar las siguientes actividades:
+Las instancias municipales de juventud deberán ejecutar las siguientes actividades:
 
 I. Diseñar actividades que tengan por objeto desarrollar el potencial de los jóvenes dentro del Municipio, así como acciones para procurar su desarrollo integral;
 
@@ -1115,7 +1169,17 @@ XIII. Gestionar ante los organismos públicos, privados y sociales estatales, na
 
 XIV. Procurar que en los comités de participación social sea incluida la participación de los jóvenes; y
 
-XV. Los demás que establezca la Ley Orgánica del Municipio, la presente Ley, su Reglamento y demás disposiciones aplicables.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE JUNIO DE 2022)</small>
+
+XV. Promover la incorporación de los jóvenes en los comités de participación social;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XVI. Promover la creación de colectivos juveniles, asociaciones civiles y consejos municipales de juventud, a fin de generar proyectos que favorezcan su desarrollo, inclusión y participación en la sociedad, y
+
+(REUBICADA, P.O. 8 DE JUNIO DE 2022)
+
+XVII. Los demás que establezca la Ley Orgánica del Municipio, la presente Ley, su Reglamento y demás disposiciones aplicables.
 
 T R A N S I T O R I O S
 
@@ -1230,3 +1294,11 @@ Artículo Segundo. El Instituto Electoral del Estado de Zacatecas y el Tribunal 
 Artículo Tercero. Las dependencias del Poder Ejecutivo del Estado, los Ayuntamientos, los Organismos Autónomos y los demás Entes Públicos a los que este Decreto les señala alguna atribución u obligación, deberán armonizar su normatividad interna en un plazo que no exceda de 90 días a partir de la entrada en vigor del presente Decreto.
 
 Artículo Cuarto. Se derogan todas aquellas disposiciones contrarias al presente Decreto.
+
+P.O. 8 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 691.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE ZACATECAS, ASÍ COMO DE LA LEY DE LA JUVENTUD DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
