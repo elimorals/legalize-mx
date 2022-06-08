@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-justicia-administrativa-del-estado-de-quintana-roo-12
 country: "mx"
 rank: "codigo"
 publication_date: "2017-12-27"
-last_updated: "2017-12-27"
+last_updated: "2022-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2022.
 
 Código publicado en el Número 146 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 27 de diciembre de 2017.
 
@@ -2185,7 +2185,9 @@ XVIII. Rendir ante el Pleno, en la primera semana de diciembre del año que corr
 
 XIX. Convocar a congresos y seminarios a Magistrados y servidores públicos del servicio profesional de carrera del Tribunal, así como a asociaciones profesionales representativas e instituciones de educación superior, a fin de promover el estudio del derecho fiscal y administrativo;
 
-XX. Rendir un informe anual ante la Legislatura del Estado, basado en indicadores en función de las atribuciones y desempeño del Tribunal, tomando en consideración las directrices y políticas que emita el Comité Coordinador del Sistema Estatal Anticorrupción;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XX. Comparecer ante el Pleno de la Legislatura, en el mes de octubre de cada año, para rendir un informe anual de labores y resultados, basado en indicadores en función de las atribuciones y desempeño del Tribunal, tomando en consideración las directrices y políticas que emita el Comité Coordinador del Sistema Estatal Anticorrupción, así como para detallar su contenido y contestar los planteamientos que se le formulen. El informe será remitido a la persona titular del Poder Ejecutivo del Estado, difundido con amplitud a la ciudadanía y publicado en los medios electrónicos oficiales del Tribunal;
 
 XXI. Presentar anualmente un diagnóstico cualitativo y cuantitativo en materia de Responsabilidades Administrativas, el cual deberá ser remitido para su consideración al Comité Coordinador del Sistema Estatal Anticorrupción, por conducto de su Secretario Ejecutivo, a efecto de que el citado Comité, emita las recomendaciones conducentes;
 
@@ -3250,3 +3252,13 @@ C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ
 EL SECRETARIO DE GOBIERNO DE ESTADO DE QUINTANA ROO.
 
 LIC. FRANCISCO XAVIER LÓPEZ MENA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 226 POR EL QUE SE REFORMA: LA FRACCIÓN X DEL ARTÍCULO 31 Y EL ARTÍCULO 40 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO; SE REFORMA: LA FRACCIÓN VI DEL ARTÍCULO 140 Y LA FRACCIÓN VIII DEL ARTÍCULO 223 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO; SE REFORMA: LA FRACCIÓN XX DEL ARTÍCULO 195 DEL CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO; SE REFORMAN: LOS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO DEL ARTÍCULO 18 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO, Y SE REFORMAN: LAS FRACCIONES XI Y XII DEL ARTÍCULO 22 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 65 Y SE DEROGA: EL TERCER PÁRRAFO DEL ARTÍCULO 65, TODOS DE LA LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, previa publicación en el Periódico Oficial del Estado de Quintana Roo, el día en el que inicie la vigencia del Decreto por el que se reforman el párrafo sexto del artículo 94 y el párrafo tercero del apartado B del artículo 96 y se adicionan los párrafos cuarto y quinto al artículo 51 BIS, todos de la Constitución Política del Estado Libre y Soberano de Quintana Roo, en materia de comparecencia de los titulares de los órganos públicos autónomos a la Legislatura del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
