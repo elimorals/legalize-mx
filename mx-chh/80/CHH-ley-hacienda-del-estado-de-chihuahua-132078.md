@@ -4,7 +4,7 @@ identifier: "CHH-ley-hacienda-del-estado-de-chihuahua-132078"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2021-12-29"
+last_updated: "2022-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Número 104 del Periódico Oficial del Estado de Chihuahua, el lunes 31 de diciembre de 2018.
 
@@ -501,7 +501,9 @@ OBJETO Y DESTINO
 
 Es objeto de este impuesto, los servicios de hospedaje que reciban las personas físicas o morales en el Estado de Chihuahua, de manera directa o a través de intermediarios, facilitadores, o cualquiera que sea el nombre que se les designe.
 
-De los ingresos que se recauden con motivo de este impuesto, una cantidad que represente una proporción de tres puntos porcentuales de la tasa aplicable, será destinada a la promoción y difusión de la actividad turística en el Estado. Los puntos porcentuales restantes se destinarán a obras de inversión pública relacionadas con dicha actividad, inclusive podrá ser utilizado para empatar programas de inversión turística establecidos, convenidos o coordinados con el Ejecutivo Federal.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+De los ingresos que se recauden con motivo de este impuesto, una cantidad que represente una proporción de tres puntos porcentuales de la tasa aplicable, será destinada al impulso, desarrollo, promoción y difusión de la actividad turística en todas las regiones del Estado, por conducto del fideicomiso constituido para tal efecto. El punto porcentual restante será ejercido por el Poder Ejecutivo a través de la Secretaría de Turismo, en obras de infraestructura turística, inclusive podrá ser utilizado para empatar programas de inversión turística establecidos, convenidos o coordinados con entes privados, o públicos de los gobiernos federal y municipal.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
@@ -1384,3 +1386,23 @@ En tanto la Secretaría de Hacienda dé a conocer las formas oficiales que en su
 ###### ARTÍCULO QUINTO.
 
 Para los efectos del artículo 4o. de la Ley Estatal de Derechos de Chihuahua, si a la entrada en vigor de la citada Ley no se ha publicado el valor de la UMA aplicable al ejercicio fiscal de 2022, se aplicará el valor de la UMA para el año 2021; una vez que entre en vigor el valor de la UMA para 2022, empezará a aplicarse el valor de la UMA para dicho año.
+
+P.O. 8 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVII/RFDEC/0260/2022 II P.O., MEDIANTE EL CUAL SE REFORMA Y ADICIONA EL ARTÍCULO TERCERO DEL DECRETO N° 483/96 I P.O., Y SE REFORMA EL ARTÍCULO 40, SEGUNDO PÁRRAFO, DE LA LEY DE HACIENDA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del plazo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, el Ejecutivo Estatal por conducto de la Secretaría de Turismo, expedirá las reglas de operación correspondientes al Programa de Desarrollo de Infraestructura en Zonas Turísticas del Estado, para la correcta ejecución de los recursos correspondientes al punto porcentual restante, según lo establecido en el artículo 40 de la Ley de Hacienda del Estado de Chihuahua.
+
+###### ARTÍCULO TERCERO.
+
+Una vez publicadas las reglas de operación que se mencionan en el Artículo Transitorio anterior, el Ejecutivo Estatal, por conducto de las Secretarías de Hacienda y de Turismo, según corresponda, realizará las adecuaciones presupuestales a fin de dar viabilidad a lo establecido en el presente Decreto, así como concretar la transferencia de aquellos recursos no vinculados a proyectos aprobados, que se encuentren a la fecha integrados al patrimonio del Fideicomiso.
+
+###### ARTÍCULO CUARTO.
+
+Dentro del plazo de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Turismo promoverá ante la institución fiduciaria la formalización de las adecuaciones correspondientes al Contrato de Fideicomiso celebrado el día 20 de mayo de 1997, entre el Gobierno del Estado de Chihuahua y el Banco Mexicano, Sociedad Anónima, Institución de Banca Múltiple, Grupo Financiero Invermexico, ahora Banco Santander México, S.A., Institución de Banca Múltiple, Grupo Financiero Santander.
