@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bebidas-alcoholicas-del-estado-de-san-luis-potosi-106724
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-19"
-last_updated: "2022-05-26"
+last_updated: "2022-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 19 de marzo de 2015.
 
@@ -373,7 +373,9 @@ IX. Comprobante de propiedad del inmueble, o copia certificada del contrato que 
 
 X. (DEROGADA, P.O. 17 DE MARZO DE 2020)
 
-En lo que respecta a las fracciones IV, VII y VIII de este artículo, el trámite lo realizará la autoridad que esté conociendo de la solicitud; la cual tendrá un término de cinco días hábiles a partir de la fecha en que recibió la misma, para pedir las opiniones o dictámenes correspondientes. Así mismo, las autoridades competentes tendrán diez días hábiles a partir de su recepción, para emitir el dictamen respectivo. En caso de que las autoridades correspondientes no emitan los dictámenes en los plazos señalados, serán sujetos de las sanciones que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+En lo que respecta a las fracciones IV, VII y VIII de este artículo, el trámite lo realizará la autoridad que esté conociendo de la solicitud; la cual tendrá un término de cinco días hábiles a partir de la fecha en que recibió la misma, para pedir las opiniones o dictámenes correspondientes. Así mismo, las autoridades competentes tendrán diez días hábiles a partir de su recepción, para emitir el dictamen respectivo. En caso de que las autoridades correspondientes no emitan los dictámenes en los plazos señalados, serán sujetos de las sanciones que establece la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
 
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 2018)</small>
 
@@ -381,9 +383,11 @@ Una vez reunidos los requisitos, las autoridades competentes tendrán un plazo d
 
 Tratándose de licencias temporales, el solicitante deberá cubrir los requisitos señalados en las fracciones I, II, IV y VII de este artículo, especificando la fecha y duración del evento o espectáculo a realizar; en los casos de licencia de degustación, el solicitante deberá cubrir los requisitos señalados en las fracciones I y II de este artículo.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 18.
 
-Presentada la solicitud y documentos señalados en el artículo anterior, la autoridad estatal o municipal, según sea el caso, dentro del término de treinta días hábiles, llevará a cabo una visita al establecimiento para verificar los datos proporcionados, notificándole con por lo menos cuarenta y ocho horas de anticipación al solicitante, para que se encuentre presente durante la verificación y firme de conformidad el acta respectiva. Las visitas de verificación deberán cumplir el procedimiento que establece la Ley de Procedimientos Administrativos del Estado.
+Presentada la solicitud y documentos señalados en el artículo anterior, la autoridad estatal o municipal, según sea el caso, dentro del término de treinta días hábiles, llevará a cabo una visita al establecimiento para verificar los datos proporcionados, notificándole con por lo menos cuarenta y ocho horas de anticipación al solicitante, para que se encuentre presente durante la verificación y firme de conformidad el acta respectiva. Las visitas de verificación deberán cumplir el procedimiento que establece el Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 ###### ARTÍCULO 19.
 
@@ -407,7 +411,9 @@ Los establecimientos podrán seguir operando hasta en tanto se resuelva la autor
 
 Las licencias que se otorguen conforme a la presente Ley, no podrán ser motivo de donación o cesión; ni ser objeto de actos de comercio; por lo que no podrán ser vendidas, cedidas, arrendadas, permutadas, o gravadas.
 
-Los notarios públicos que certifiquen actos que contravengan esta disposición serán sujetos a las sanciones que dispone la Ley del Notariado del Estado; sin perjuicio de las señaladas en el Código Penal del Estado.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+Los notarios públicos que certifiquen actos que contravengan esta disposición serán sujetos a las sanciones que dispone la Ley del Notariado para el Estado; sin perjuicio de las señaladas en el Código Penal del Estado.
 
 Cuando el titular de la licencia sea persona física, al serle otorgada deberá señalar expresamente ante la autoridad que la expida, a un beneficiario en caso de su fallecimiento durante la vigencia de la misma. Dado el caso, si el beneficiario solicita el cambio de la licencia a su nombre, deberá presentar copia certificada de su acta de nacimiento y una identificación oficial, así como copia certificada del acta de defunción del titular.
 
@@ -896,6 +902,14 @@ SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 P.O. 26 DE MAYO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0330.- SE REFORMA EL ARTÍCULO 37, DE LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 8 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0335.- SE REFORMAN LOS ARTÍCULO 17 EN SU PÁRRAFO DÉCIMO SEGUNDO, 18 Y 22 EN SU PÁRRAFO SEGUNDO, DE LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
