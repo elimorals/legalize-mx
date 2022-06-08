@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108944"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2021-01-09"
+last_updated: "2022-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108944&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 1 de julio de 2015.
 
@@ -233,13 +233,17 @@ Los derechos de niñas, niños y adolescentes, se integran en grupos de derechos
 
 I. Los derechos a la vida, prioridad, identidad, igualdad y no discriminación:
 
-a) La vida, supervivencia y desarrollo integral;
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+a) La vida, a la paz, supervivencia y desarrollo integral;
 
 b) Prioridad;
 
 c) Identidad;
 
-d) Igualdad;
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+d) Igualdad sustantiva;
 
 e) No discriminación;
 
@@ -333,6 +337,14 @@ l) Madres y padres adolescentes;
 
 m) Protección de todo tipo de peligros;
 
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+n) Niños, niñas y adolescentes huérfanos por violencia feminicida, y
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+ñ) Niños, niñas y adolescentes huérfanos por madre o padre desaparecidos.
+
 IX. Los derechos y garantías de protección de derechos:
 
 a) Garantías de protección y defensa de derechos;
@@ -419,7 +431,9 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 I. Llevar a cabo medidas especiales para prevenir, atender y erradicar la discriminación múltiple de la que son objeto niñas, niños y adolescentes en situación de exclusión social, en situación de calle, cualquier forma de trabajo infantil, en las situaciones especiales contempladas en la presente Ley o cualquiera otra condición de marginalidad;
 
-II. Adoptar medidas y realizar acciones afirmativas, cuando sean necesarias, para garantizar que niñas y las adolescentes tengan igualdad de trato y oportunidades que los niños y los adolescentes;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+II. Adoptar medidas para la eliminación de usos, costumbres, prácticas culturales o prejuicios que atenten contra la igualdad de niñas, niños y adolescentes por razones de género o que promuevan cualquier tipo de discriminación; y realizar acciones afirmativas, para garantizar que niñas y las adolescentes tengan igualdad de trato y oportunidades que los niños y los adolescentes, atendiendo al interés superior de la niñez;
 
 III. Promover e impulsar un desarrollo integral de igualdad entre niñas, niños y adolescentes, erradicando usos, costumbres o prácticas culturales que promuevan cualquier tipo de discriminación de niñas, niños y adolescentes, atendiendo a los principios rectores de esta Ley, y
 
@@ -671,9 +685,11 @@ Las niñas o adolescentes embarazadas tendrán derecho a recibir un trato digno 
 
 Los centros de salud pública darán a la niña o adolescente embarazada los servicios de información materno-infantil, el control médico durante el embarazo, la atención médica del parto y, en caso necesario, los suplementos vitamínicos para completar su dieta y la del recién nacido durante el período de lactancia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
+
 ###### Artículo 38.
 
-Los Servicios de Salud de Zacatecas y las autoridades municipales, en el ámbito de sus respectivas competencias, se mantendrán coordinados a fin de:
+La Secretaría de Salud de Zacatecas y las autoridades municipales, en el ámbito de sus respectivas competencias, se mantendrán coordinados a fin de:
 
 I. Reducir la morbilidad y mortalidad infantil;
 
@@ -697,7 +713,9 @@ X. Establecer medidas tendentes a que en los servicios de salud se detecten y at
 
 XI. Combatir la desnutrición mediante la promoción de una alimentación adecuada y de calidad. Asimismo, el sobrepeso, obesidad y trastornos alimenticios, como anorexia y bulimia, mediante una alimentación adecuada, actividad física y atención médica especializada;
 
-XII. Establecer las medidas tendientes a prevenir embarazos a temprana edad;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XII. Desarrollar acciones y programas en coordinación con la Secretaría de Educación, para prevenir los embarazos a temprana edad, en los que se informe y oriente sobre sus riesgos y complicaciones, así como brindar atención integral a las niñas y adolescentes que se encuentren en esta situación;
 
 XIII. Ofrecer atención pre y post natal a las madres, de conformidad con lo establecido en esta Ley;
 
@@ -707,9 +725,19 @@ XV. Fomentar los programas de vacunación;
 
 XVI. Atender de manera especial las enfermedades psiquiátricas, de adicción a las drogas, endémicas, epilépticas, de transmisión sexual y del VIH/SIDA, impulsando programas de prevención e información sobre ellas. El Estado debe llevar a cabo las inversiones necesarias para crear o mantener la infraestructura que les permita atender este tipo de enfermedades en niños y niñas, o bien, deben realizar convenios de cooperación que permitan su atención garantizando que la falta de recursos no sea razón para privar a un niño de los servicios requeridos;
 
-XVII. Garantizar que el servicio de salud público brinde orientación, diagnóstico y tratamiento relativo a enfermedades de transmisión sexual, y
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-XVIII. Las demás que le confieren la Ley de Salud del Estado y otros ordenamientos jurídicos.
+XVII. Establecer en coordinación con la Secretaría de Educación, programas que promuevan la salud mental de las niñas, niños y adolescentes del Estado;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XVIII. Proporcionar asesoría y orientación sobre salud sexual y reproductiva;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XIX. Prohibir, sancionar y erradicar la esterilización forzada de niñas, niños y adolescentes y cualquier forma de violencia obstétrica, y
+
+XX. Las demás que le confieren la Ley de Salud del Estado y otros ordenamientos jurídicos.
 
 En todos los casos se respetará el derecho a la intimidad de niñas, niños y adolescentes, conforme al artículo 32 de la presente Ley, así como el derecho a la información de quienes detenten la patria potestad, tutela o guarda y custodia de niños niñas y adolescentes en relación a su estado de su salud, para cumplir con su obligación constitucional de proteger y exigir el cumplimiento del derecho a la salud de niñas, niños y adolescentes.
 
@@ -755,9 +783,11 @@ Asimismo, tienen el derecho inalienable a las mismas oportunidades de acceso y p
 
 Los adolescentes tienen derecho a apoyos para que puedan ingresar y terminar la educación media superior.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
+
 ###### Artículo 43.
 
-Niñas, niños y adolescentes con un potencial intelectual superior al normal, déficit de atención, hiperactividad, discapacidad o situación de vulnerabilidad tienen derecho a la educación especial en las escuelas, para adecuar los métodos de enseñanza a sus necesidades particulares.
+Niñas, niños y adolescentes con aptitudes sobresalientes, con alteraciones en el desarrollo, con discapacidad o situación de vulnerabilidad tienen derecho a la educación en las escuelas, se deberán realizar ajustes razonables en los métodos de enseñanza e infraestructura para atender sus necesidades.
 
 ###### Artículo 44.
 
@@ -795,9 +825,17 @@ XIII. Garantizar el respeto de los derechos de libertad de pensamiento y concien
 
 XIV. Vigilar e impedir que en las instituciones educativas la imposición de medidas correctivas o sanciones disciplinarias no atenten contra su vida, dignidad humana, integridad física o mental;
 
-XV. Impedir dar de baja del sistema educativo a niñas y adolescentes por causa de embarazo, y
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-XVI. Coordinar con otras dependencias y organismos competentes programas alternativos de atención y educación extraescolar a través de actividades recreativas, culturales y científicas.
+XV. Impedir dar de baja del sistema educativo a niñas y adolescentes por causa de embarazo;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XVI. Coordinar con otras dependencias y organismos competentes programas alternativos de atención y educación extraescolar a través de actividades recreativas, culturales y científicas, y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XVII. Establecer, en coordinación con la Secretaría de Salud, programas que promuevan la salud mental de las niñas, niños y adolescentes del Estado.
 
 ###### Artículo 46.
 
@@ -993,9 +1031,17 @@ VIII. En todo momento, se deberá mantener a niñas, niños o adolescentes apart
 
 IX. Destinar espacios lúdicos, de descanso y aseo para niñas, niños y adolescentes en los recintos en que se lleven a cabo procedimientos en que deban intervenir;
 
-X. Atendiendo al principio de celeridad procesal, ajustarse al tiempo de participación máximo para la intervención de niñas, niños o adolescentes durante la sustanciación de los procedimientos, y
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-XI. Implementar medidas para garantizar el resguardo de la intimidad y datos personales de niñas, niños y adolescentes.
+X. Atendiendo al principio de celeridad procesal, ajustarse al tiempo de participación máximo para la intervención de niñas, niños o adolescentes durante la sustanciación de los procedimientos;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XI. Implementar medidas para garantizar el resguardo de la intimidad y datos personales de niñas, niños y adolescentes, y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XII. Proporcionar asistencia de profesionales especializados cuando la naturaleza del procedimiento lo requiera.
 
 ###### Artículo 59.
 
@@ -1861,9 +1907,17 @@ VI. Dar en consonancia con la evolución de sus facultades, la dirección y orie
 
 VII. Fomentar en niñas, niños y adolescentes el respeto a las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
 
-VIII. Orientar, supervisar y, en su caso, restringir, las conductas y hábitos que menoscaben el desarrollo integral de niñas, niños y adolescentes siempre que se atienda al interés superior de la niñez, y
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-IX. Considerar la opinión de niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+VIII. Orientar, supervisar y, en su caso, restringir, las conductas y hábitos que menoscaben el desarrollo integral de niñas, niños y adolescentes siempre que se atienda al interés superior de la niñez;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+IX. Considerar la opinión de niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez, y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+X. Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral, así como de ejercer cualquier tipo de violencia en su contra, en particular el castigo corporal en todos los ámbitos, como método correctivo o disciplinario. El ejercicio de su patria potestad, tutela o guardia y custodia no podrá ser justificación para incumplir la obligación prevista en la presente fracción.
 
 Las sanciones en caso de incumplimiento de las obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia serán las dispuestas por esta Ley, los Códigos Civil y Familiar del Estado y demás leyes aplicables.
 
@@ -2206,3 +2260,11 @@ P.O. 9 DE ENERO DE 2021.
 Artículo Primero. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo Segundo. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 8 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 691.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE ZACATECAS, ASÍ COMO DE LA LEY DE LA JUVENTUD DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
