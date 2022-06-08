@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2022-05-18"
+last_updated: "2022-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -2123,7 +2123,7 @@ Para los efectos de este Título se entiende por cópula la introducción del mi
 
 ### CAPÍTULO I. Corrupción de Menores, de personas que no tienen capacidad para comprender el significado del hecho, o personas que no tienen capacidad para resistirlo
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 178.
 
@@ -2229,7 +2229,9 @@ Las penas previstas en el presente artículo se aumentarán hasta en la mitad, a
 
 ###### ARTÍCULO 183.
 
-Se impondrá pena de cinco a diez años de prisión y sanción pecuniaria de quinientos a mil días del valor de la unidad de medida y actualización, al que induzca, procure, facilite u obligue a un menor de dieciocho años de edad, a quien no tenga capacidad para comprender el significado del hecho o personas que no tengan capacidad para resistirlo, a consumir sustancias tóxicas, u otras que produzcan efectos similares.
+Se impondrá pena de cinco a diez años de prisión y sanción pecuniaria de quinientos a mil días del valor de la unidad de medida y actualización, al que induzca, procure, facilite u obligue a un menor de dieciocho años de edad, a quien no tenga capacidad para comprender el significado del hecho o personas que no tengan capacidad para resistirlo, a consumir sustancias tóxicas; estupefacientes; o psicotrópicos considerados como tal, en la Ley General de Salud, así como las materias primas y aditivos que intervengan para su elaboración; y otras substancias que produzcan efectos psicotrópicos.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 Se aplicará pena de dos a ocho años de prisión y multa de doscientos a ochocientos días del valor de la unidad de medida y actualización, a quien fomente, invite, facilite, permita, consientan o tolere la entrada de un menor de dieciocho años de edad, así como de quien no tenga capacidad para comprender el significado del hecho o de persona que no tenga capacidad para resistirlo, a bares, centros nocturnos, cervecerías o pulquerías.
 
@@ -5788,3 +5790,11 @@ P.O. 18 DE MAYO DE 2022.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0333.- SE REFORMA EL ARTÍCULO 183, EN SU PÁRRAFO PRIMERO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
