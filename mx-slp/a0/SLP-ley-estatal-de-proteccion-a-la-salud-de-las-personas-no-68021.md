@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-la-salud-de-las-personas-no-68021"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-28"
-last_updated: "2017-11-30"
+last_updated: "2022-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ESTATAL DE PROTECCIÓN A LA SALUD DE LAS PERSONAS NO FUMADORAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 28 de marzo de 2009.
 
@@ -419,9 +419,11 @@ Los órganos de control interno de cada organismo, dependencia y entidad públic
 
 ### CAPITULO IV. Medios de Defensa
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
+
 ###### ARTICULO 41.
 
-En contra de las resoluciones que dicten las autoridades previstas en esta Ley, en su respectivo ámbito de competencia, procederán los recursos que establece la ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí.
+En contra de las resoluciones que dicten las autoridades previstas en esta Ley, en su respectivo ámbito de competencia, procederán los recursos que establece el Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 ## TRANSITORIOS
 
@@ -478,3 +480,11 @@ P.O. 30 DE NOVIEMBRE DE 2017.
 PRIMERO. Este Decreto entrará en vigor a los seis meses siguientes de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0336.- SE REFORMA EL ARTÍCULO 41, DE LA LEY ESTATAL DE PROTECCIÓN A LA SALUD DE LAS PERSONAS NO FUMADORAS".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
