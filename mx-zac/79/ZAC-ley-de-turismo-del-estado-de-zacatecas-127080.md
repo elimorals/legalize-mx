@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-turismo-del-estado-de-zacatecas-127080"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-07"
-last_updated: "2020-03-07"
+last_updated: "2022-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE TURISMO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
 
 Ley publicada en el Suplemento 3 al número 19 del Periódico Oficial del Estado de Zacatecas, el miércoles 7 de marzo de 2018.
 
@@ -59,7 +59,21 @@ LEY DE TURISMO DEL ESTADO DE ZACATECAS
 
 La presente Ley es de orden público, interés social y observancia general en el estado de Zacatecas y tiene por objeto establecer las bases para:
 
-I. La planeación, programación, desarrollo, promoción y fomento del turismo, propiciando elevar los niveles económico, social y cultural de los habitantes;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE JUNIO DE 2022)</small>
+
+I. La planeación, programación, desarrollo, promoción y fomento del turismo, a fin de garantizar que:
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+a) El desarrollo turístico incluya a los diversos sectores sociales en condiciones de equidad;
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+b) Se propicie elevar los niveles económico, social y cultural, y
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+c) El turismo contribuya a la erradicación de la pobreza en el estado y generación de empleo con miras a un desarrollo sostenible.
 
 II. La coordinación de la Secretaría de Turismo con la Federación, otras entidades federativas y municipios, así como con organismos e instituciones de los sectores, social académico y privado, nacionales y extranjeros;
 
@@ -83,9 +97,15 @@ XI. Preservar el patrimonio histórico y cultural del estado en coordinación co
 
 XII. Verificar y vigilar la prestación de los servicios turísticos en el estado, así como la aplicación de sanciones a los prestadores de servicios turísticos que contravengan las disposiciones de esta Ley, en los términos de la Ley General de Turismo y otras disposiciones aplicables;
 
-XIII. Promover la creación de organismos y asociaciones que tengan por objetivo fomentar el turismo en la Entidad, y
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XIII. Promover la creación de organismos y asociaciones que tengan por objetivo fomentar el turismo en la Entidad en condiciones de equidad promoviendo y vigilando que el desarrollo turístico sea incluyente y beneficie de manera equitativa a los prestadores de servicios turísticos de los sectores público, privado y social, y
 
 XIV. Fomentar el desarrollo del turismo en los municipios con vocación turística del estado, en especial, en las localidades declaradas sitios patrimonio de la humanidad y pueblos mágicos.
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XV. La prestación de servicios turísticos y de hospedaje, en cualquiera de sus modalidades, así como las previstas en la Ley de Hacienda del Estado.
 
 ###### Artículo 2.
 
@@ -95,9 +115,13 @@ I. Turismo: Fenómeno social que consiste en el desplazamiento voluntario de un 
 
 II. Turista: La persona que viaja temporalmente fuera de su lugar de residencia habitual y que utiliza alguno de los servicios turísticos a que se refiere esta Ley;
 
-III. Servicio Turístico: Actividad realizada por personas físicas o morales para satisfacer alguna demanda o necesidad de quienes realizan turismo en el estado;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-IV. Prestador de Servicio Turístico: La persona física o moral que habitualmente proporcione, intermedie o contrate con el turista la prestación de los servicios turísticos a que se refiere la presente Ley;
+III. Servicio Turístico: Actividad realizada por personas físicas o morales para satisfacer alguna demanda o necesidad de quienes realizan turismo en el estado, así como los previstos en la fracción XV del artículo 1 de esta Ley;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+IV. Prestador de Servicio Turístico: La persona física o moral que habitualmente proporcione, intermedie o contrate con el turista la prestación de los servicios turísticos a que se refiere la presente Ley, así como los previstos en la fracción XV del artículo 1 de esta Ley;
 
 V. Secretaría: La Secretaría de Turismo del estado de Zacatecas;
 
@@ -141,7 +165,17 @@ XXIV. Ruta Turística: Es un circuito temático o geográfico que se basa en un 
 
 XXV. Sitio Patrimonio de la Humanidad: Son lugares que han cumplido los requisitos necesarios marcados por la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura y que han sido nominados para el programa internacional Patrimonio de la Humanidad debido a su importancia excepcional cultural o natural, y
 
-XXVI. Inversión Turística: Todo aquel destino de recursos que se ejecuta general, mayoritaria o complementariamente dentro del sector turístico, para el desarrollo de este sector.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XXVI. Inversión Turística: Todo aquel destino de recursos que se ejecuta general, mayoritaria o complementariamente dentro del sector turístico, para el desarrollo de este sector;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XXVII. Servicio de hospedaje: Actividad mediante la cual se realiza la contratación sobre un inmueble o parte del mismo, en relación al uso, goce y demás derechos que se convengan para el alojamiento o albergue temporal de personas, así como los previstos en la Ley de Hacienda del Estado, y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XXVIII. Oferta Turística: Conjunto de actividades, bienes y servicios turísticos que ofrece el destino, así como los atractivos culturales, históricos, naturales, recreativos y urbanos que se ofrecen al turista.
 
 ### CAPÍTULO II. AUTORIDADES EN MATERIA TURÍSTICA
 
@@ -191,23 +225,33 @@ Los Consejos Consultivos Municipales de Turismo tendrán las facultades que esta
 
 ### CAPÍTULO V. DE LA COMISIÓN INTERSECRETARIAL DE ATENCIÓN AL TURISMO MIGRANTE
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
+
 ###### Artículo 10.
 
-Se crea la Comisión Intersecretarial de Atención al Turismo Migrante, con el objeto (sic) promover ante la población un trato digno a las personas que visitan nuestro estado y que residen en el extranjero, en especial, los migrantes y sus familias. La Secretaría en coordinación con la Secretaría de Migración del Gobierno del Estado y las demás dependencias competentes en la materia, conjuntarán esfuerzos para cumplir dicho objeto.
+Se crea la Comisión Intersecretarial de Atención al Turismo Migrante, con el objeto de promover ante la población un trato digno a las personas que visitan nuestro estado y que residen en el extranjero, en especial, los migrantes y sus familias. La Secretaría en coordinación con la Secretaría del Zacatecano Migrante y las demás dependencias competentes en la materia, conjuntarán esfuerzos para cumplir dicho objeto.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
 
 ###### Artículo 11.
 
-La Secretaría en coordinación con la Secretaría de Migración del Gobierno del Estado, implementarán mecanismos para canalizar a la dependencia competente, las quejas y sugerencias emitidas por los migrantes.
+La Secretaría en coordinación con la Secretaría del Zacatecano Migrante, implementarán mecanismos para canalizar a la dependencia competente, las quejas y sugerencias emitidas por los migrantes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
 
 ###### Artículo 12.
 
-La Secretaría en coordinación con la Secretaría de Migración del Gobierno del Estado, realizarán las siguientes acciones:
+La Secretaría en coordinación con la Secretaría del Zacatecano Migrante, realizarán las siguientes acciones:
 
 I. Informar, difundir y promocionar los atractivos turísticos con que cuenta el estado;
 
 II. Vincular a los migrantes con el sector productivo y económico a efecto de que inviertan en el desarrollo de productos turísticos, y
 
 III. Instrumentar campañas de sensibilización dirigidos a la sociedad, para impulsar un trato digno a los migrantes.
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+IV. En caso de pandemia, desastre natural o cualquier otra situación que provoque confinamiento social, se deberá impulsar el Turismo Virtual, implementando recorridos virtuales por museos y sitios turísticos del Estado, así como la difusión de multimedia turística y cultural en redes sociales y medios digitales.
 
 ### CAPÍTULO VI. DE LA COORDINACIÓN DE LA SECRETARÍA CON LOS MUNICIPIOS
 
@@ -247,11 +291,13 @@ XII. Desarrollar servicios y productos turísticos a través del fomento al empr
 
 XIII. Desarrollar herramientas y mecanismos para la promoción de productos y atractivos turísticos, así como actividades dirigidas a la atracción de turismo;
 
-XIV. Apoyar en la gestión, programas y proyectos para la incorporación y permanencia de municipios con la denominación de Pueblos Mágicos, y
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MARZO DE 2020)</small>
+XIV. Promover e impulsar las acciones con el objeto de garantizar la permanencia y el fortalecimiento en apoyo y gestión de programas y proyectos para la incorporación y permanencia de municipios con la denominación de Pueblos Mágicos;
 
-XV. En coordinación con la Secretaría de Economía, promover y fortalecer a las micro, pequeñas y medianas empresas que desarrollen actividades artesanales, gestionando ante la Secretaría de Finanzas los recursos y apoyos correspondientes, y
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XV. En coordinación con la Secretaría de Economía, promover y fortalecer a las micro, pequeñas y medianas empresas que desarrollen actividades turísticas y artesanales, garantizando que las condiciones de oferta fomenten una competencia incluyente entre todos los sectores turísticos, gestionando ante la Secretaría de Finanzas los recursos y apoyos correspondientes, y
 
 XVI. En general, instrumentar conjuntamente acciones sobre planeación, programación, fomento, desarrollo, verificación y vigilancia de la actividad turística.
 
@@ -266,6 +312,10 @@ La Secretaría fomentará la conformación de cadenas productivas en los municip
 ###### Artículo 16.
 
 La Secretaría podrá invitar a participar a los sectores público, privado, social y académico, en programas y proyectos de desarrollo económico y beneficio social, así como generar alianzas estratégicas entre los responsables del desarrollo turístico.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+Las cadenas productivas garantizarán que la oferta de servicios turísticos sea incluyente y promuevan la participación conjunta de todos los sectores, para lo cual en coordinación con las dependencias competentes se promoverá la asociación entre micro, pequeñas medianas y grandes empresas turísticas de la entidad.
 
 ###### Artículo 17.
 
@@ -282,6 +332,20 @@ La Secretaría en coordinación con la Secretaría de Finanzas, así como con la
 ###### Artículo 18.
 
 La Secretaría en coordinación con las dependencias involucradas en el sector turístico podrá establecer agendas de transversalidad, con la finalidad de fomentar el desarrollo del turismo en la entidad.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+###### Artículo 18 Bis.
+
+La Secretaría en materia de desarrollo turístico de pueblos y comunidades indígenas deberá:
+
+I. Coordinar, promover y consolidar en conjunto con la federación y los municipios políticas públicas de desarrollo turístico en los pueblos y comunidades indígenas;
+
+II. Capacitar a los prestadores de servicios turísticos sobre pueblos y comunidades indígenas en coordinación con los municipios, y
+
+III. En coordinación con los municipios fomentar el desarrollo del turismo relacionado con los pueblos y comunidades indígenas.
+
+Dichas actividades se desarrollarán conforme al respeto y rescate de los usos y costumbres de dichos pueblos y comunidades.
 
 ###### Artículo 19.
 
@@ -321,11 +385,19 @@ I. Establecer un plan de trabajo para la atracción de la inversión turística 
 
 II. Fomentar el desarrollo de la inversión, pública y privada en la entidad a través del diseño de políticas y estrategias enfocadas a dicho fin, y
 
-III. Promover a través de los instrumentos necesarios, las oportunidades de inversión y el desarrollo de micro, pequeñas y medianas empresas turísticas, con el objetivo de contribuir a la creación de empleos y oferta competitiva en el sector.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+III. Promover a través de los instrumentos necesarios, las oportunidades de inversión y el desarrollo de micro, pequeñas y medianas empresas turísticas, con el objetivo de contribuir a la creación de empleos y oferta competitiva en el sector, y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+IV. Formular propuestas para establecer estímulos fiscales para fortalecer la inversión y desarrollo del sector turístico, de acuerdo a la disponibilidad presupuestal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
 
 ###### Artículo 25.
 
-La Secretaría, en coordinación con la Secretaría de Infraestructura, podrá promover programas de mejora de equipamiento turístico que propicien condiciones para el desarrollo de la inversión turística y el aumento de la competitividad en el sector.
+La Secretaría, en coordinación con la Secretaría de Obras Públicas, podrá promover programas de mejora de equipamiento turístico que propicien condiciones para el desarrollo de la inversión turística y el aumento de la competitividad en el sector.
 
 Las dependencias y entidades de la administración pública estatal, así como los municipios, en el ámbito de su competencia, solicitarán la opinión de la Secretaría, cuando se trate de la emisión de concesiones, permisos o licencias en zonas de desarrollo turístico, con el objeto de procurar la armonía del desarrollo de la actividad turística con el medio físico, urbano y ecológico.
 
@@ -350,6 +422,34 @@ II. La profesionalización de quienes laboran en empresas turísticas o prestan 
 III. La modernización de las empresas turísticas, y
 
 IV. El otorgamiento de incentivos, distintivos, certificados o reconocimientos a los prestadores de servicios turísticos, de acuerdo con los lineamientos que establezca la propia Secretaría.
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+V. Que se proporcione al turista la información general y particular, así como la orientación integral que requiera, relacionada con su visita a los destinos turísticos del Estado;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+VI. La coordinación en relación a los programas y medidas de auxilio y protección a quienes visitan la Entidad, conjuntamente con las dependencias y entidades que concurran con tales objetivos;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+VII. La asistencia a los turistas en casos de emergencias o desastres en colaboración con la Coordinación Estatal de Protección Civil y otras dependencias y entidades;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+VIII. La canalización y seguimiento ante las autoridades competentes, sobre las quejas que reciba del turista en contra de los prestadores de servicios turísticos;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+IX. La participación, en el ámbito de su competencia, en la gestión ante las autoridades competentes sobre la oportuna y eficaz atención al turista en servicios de transportación, seguridad pública, salud, procuración de justicia y los demás servicios relacionados que requieren los turistas, y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+X. Que se coadyuve con los programas de prevención y atención de emergencias, desastres naturales o ante cualquier contingencia, así como en los programas operativos para la gestión integral de los riesgos conforme a las políticas de protección civil.
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XI. La equidad en las condiciones de competencia y mecanismos de asociación con el objeto de ofertar servicios turísticos de manera conjunta e incluyente.
 
 ### CAPÍTULO XI. DEL TURISMO SOCIAL
 
@@ -413,21 +513,47 @@ La Secretaría implementará acciones sobre la investigación de los atractivos 
 
 En el programa sectorial turístico se establecerán objetivos y metas sobre el Turismo de Naturaleza.
 
-### CAPÍTULO XV. DE LA PROMOCIÓN TURÍSTICA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JUNIO DE 2022)</small>
 
-### CAPÍTULO XVI. DE LA INFRAESTRUCTURA Y EQUIPAMIENTO TURÍSTICO
+### CAPÍTULO XIV BIS. DEL TURISMO GASTRONÓMICO
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+###### Artículo 38 Bis.
+
+El turismo gastronómico es el traslado de visitantes al Estado con la finalidad de participar en eventos gastronómicos, búsqueda de restaurantes o lugares específicos para la degustación de bebidas y alimentos típicos.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+###### Artículo 38 Ter.
+
+La Secretaría en coordinación de las dependencias y entidades competentes, promoverá el turismo gastronómico a nivel nacional e internacional, como una atracción turística de nuestro Estado e implementarán programas que impulsen el desarrollo del mismo.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+###### Artículo 38 Quáter.
+
+La Secretaría deberá establecer los mecanismos de coordinación y participación con autoridades municipales que favorezcan el desarrollo del turismo gastronómico y promoverá la capacitación a los prestadores de servicios turísticos, con el propósito de buscar la calidad en el sector.
+
+### CAPÍTULO XV. DE LA PROMOCIÓN TURÍSTICA
 
 ###### Artículo 39.
 
 La Secretaría con la participación de instituciones y organismos de los sectores público, social y privado, tendrá a su cargo la elaboración de los programas de promoción turística con apego a los objetivos del Plan Estatal de Desarrollo y del Programa Estatal de Turismo, con la finalidad de proteger, mejorar, incrementar y difundir los atractivos y servicios turísticos que ofrece el estado, alentando la afluencia de visitantes.
 
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+La Secretaría podrá establecer incentivos para la realización de eventos en beneficio del turismo, considerando la derrama económica que generen en el Estado, conforme a los criterios y requisitos que se establezcan en los lineamientos correspondientes.
+
 ###### Artículo 40.
 
 Las dependencias y entidades de la administración pública estatal y municipal, coadyuvarán en la promoción del turismo en los términos de la presente Ley y de conformidad con los convenios y acuerdos que al efecto se suscriban.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
+
 ###### Artículo 41.
 
-La Secretaría tendrá a su cargo la implementación y negociación de las campañas de publicidad cooperativa con el Consejo de Promoción Turística de México y con socios comerciales.
+La Secretaría tendrá a su cargo el diseño e implementación de campañas de promoción turística y publicidad cooperativa de ámbito turístico, con los entes públicos o instancias privadas que considere necesarias, de acuerdo con lo establecido en la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Zacatecas y sus Municipios y otros ordenamientos aplicables.
 
 ###### Artículo 42.
 
@@ -453,9 +579,17 @@ VII. Generar mecanismos de promoción para una mejor comercialización de produc
 
 VIII. Generar una mayor presencia de información turística de Zacatecas en los medios de comunicación nacionales e internacionales;
 
-IX. Crear alianzas estratégicas para la promoción turística del estado, así como equipos de promoción interdisciplinarios para tal efecto, y
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-X. Diseñar y promocionar la Página web para la promoción turística del estado.
+IX. Crear alianzas estratégicas para la promoción turística del estado, así como equipos de promoción interdisciplinarios para tal efecto;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+X. Diseñar y promocionar la Página web para la promoción turística del estado, y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XI. Crear las condiciones de equidad y de competencia, así como los mecanismos de asociación con el objeto de ofertar servicios turísticos de manera conjunta e incluyente.
 
 ###### Artículo 43.
 
@@ -471,7 +605,7 @@ De igual manera, la Secretaría fortalecerá el uso de la marca "Zacatecas Deslu
 
 En los términos de la Ley General y la presente Ley, la Secretaría podrá celebrar convenios con empresas de radio, televisión y casas productoras, para establecer locaciones y realizar filmaciones y grabaciones, procurando emplear a los habitantes del lugar de que se trate y, en su caso, celebrar convenios para la contratación de servicios publicitarios.
 
-### CAPÍTULO XVII. DEL REGISTRO ESTATAL DE TURISMO
+### CAPÍTULO XVI. DE LA INFRAESTRUCTURA Y EQUIPAMIENTO TURÍSTICO
 
 ###### Artículo 45.
 
@@ -485,7 +619,7 @@ III. Impulsar la ampliación y mejoramiento de la planta turística en aquellos 
 
 IV. Desarrollar las acciones tendientes al equipamiento turístico.
 
-### CAPÍTULO XVIII. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO XVII. DEL REGISTRO ESTATAL DE TURISMO
 
 ###### Artículo 46.
 
@@ -511,9 +645,11 @@ El Reglamento de la presente Ley establecerá las personas físicas y morales qu
 
 Los prestadores de servicios turísticos deberán solicitar el refrendo de su registro a la Secretaría, dentro de los primeros sesenta días naturales de cada ejercicio fiscal.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
+
 ###### Artículo 52.
 
-Los prestadores de servicios turísticos inscritos en el Registro Estatal de Turismo, podrán ser considerados en las campañas de promoción y fomento al turismo, cuando obtengan la inscripción o refrendo correspondiente, observen la legislación vigente y exista suficiencia presupuestal.
+Los prestadores de servicios turísticos y de hospedaje, así como los previstos en la Ley de Hacienda del Estado, inscritos en el Registro Estatal de Turismo, podrán ser considerados en las campañas de promoción y fomento al turismo, cuando obtengan la inscripción o refrendo correspondiente, observen la legislación vigente y exista suficiencia presupuestal.
 
 ###### Artículo 53.
 
@@ -523,7 +659,7 @@ Los datos para solicitar la inscripción y refrendo en el Registro Estatal de Tu
 
 Bajo el principio de máxima publicidad, el Registro Estatal de Turismo podrá ser consultado por dependencias y entidades de la administración pública, federal, estatal y municipal, así como por prestadores de servicios turísticos y organismos e instituciones de los sectores académico, social y privado.
 
-### CAPÍTULO XIX. DE LA INFORMACIÓN Y ORIENTACIÓN AL TURISTA
+### CAPÍTULO XVIII. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### Artículo 55.
 
@@ -543,13 +679,23 @@ IV. Solicitar al personal encargado de las visitas de inspección y demás proce
 
 V. Recibir los beneficios que se les otorgue por inscribirse en el Registro Estatal de Turismo, de acuerdo a la disponibilidad presupuestal;
 
-VI. Recibir cuando exista suficiencia presupuestaria en la Secretaría, el apoyo para la celebración de congresos, convenciones, festivales, conferencias y demás eventos señalados en la presente Ley, y
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-VII. Participar en los programas de profesionalización del sector turístico que promueva o realice la Secretaría.
+VI. Recibir cuando exista suficiencia presupuestaria en la Secretaría, el apoyo para la celebración de congresos, convenciones, festivales, conferencias y demás eventos señalados en la presente Ley;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+VII. Participar en los programas de profesionalización del sector turístico que promueva o realice la Secretaría, y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+VIII. Celebrar convenios con otros prestadores a efecto de ofrecer al turista la mayor cantidad posible de opciones dentro de la misma relación contractual, esta relación deberá ser equitativa e incluyente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
 
 ###### Artículo 57.
 
-Son obligaciones de los prestadores de servicios turísticos:
+Son obligaciones de los prestadores de servicios turísticos y de hospedaje, así como los previstos en la Ley de Hacienda del Estado:
 
 I. Colaborar con la Secretaría o los órganos municipales de turismo, en los programas de promoción, fomento y desarrollo del turismo;
 
@@ -579,21 +725,27 @@ XII. Cuando los inmuebles cuenten con el espacio necesario, contarán con un ár
 
 XIII. Establecer medidas de seguridad tendientes a la protección de los turistas, así como de sus bienes;
 
-XIV. Vigilar el buen funcionamiento y mantenimiento de las instalaciones, garantizando el libre acceso y desplazamiento para evitar contingencias, de conformidad con la Ley General de Protección Civil y la Ley de Protección Civil para el Estado de Zacatecas;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XIV. Vigilar el buen funcionamiento y mantenimiento de las instalaciones, garantizando el libre acceso y desplazamiento para evitar contingencias, de conformidad con la Ley General de Protección Civil y la Ley de Protección Civil del Estado y Municipios de Zacatecas
 
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2020)</small>
 
 XV. Proporcionar los servicios turísticos, precios, tarifas y promociones en los términos anunciados, ofrecidos o pactados, de acuerdo con la Ley Federal de Protección al Consumidor y demás legislación aplicable;
 
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-XVI. Expedir las facturas y comprobantes que amparen el cobro de los servicios prestados, de conformidad con la legislación aplicable, y
+XVI. Expedir las facturas y comprobantes que amparen el cobro de los servicios prestados, de conformidad con la legislación aplicable;
 
-> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-XVII. Prestar sus servicios en español como primera lengua y de resultar necesario, debido a la afluencia de turistas extranjeros, en idioma inglés u otro.
+XVII. Prestar sus servicios en español como primera lengua y de resultar necesario, debido a la afluencia de turistas extranjeros, en idioma inglés u otro, y
 
-### CAPÍTULO XX. DE LA EDUCACIÓN EN MATERIA DE TURISMO
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XVIII. Solicitar a los turistas que requieran el servicio de hospedaje con niñas, niños o adolescentes que acrediten parentesco con los mismos, cuando se presuma la minoría de edad, así como colaborar con las autoridades competentes en la implementación de protocolos para evitar la trata de personas.
+
+### CAPÍTULO XIX. DE LA INFORMACIÓN Y ORIENTACIÓN AL TURISTA
 
 ###### Artículo 58.
 
@@ -623,9 +775,11 @@ II. Propiciar una amigable composición entre los prestadores de servicios turí
 
 III. Denunciar, cuando proceda y ante las autoridades competentes, a los prestadores de servicios que ameriten ser sancionados, y
 
-IV. En coordinación con la Secretaría de Migración, fungir como enlace con el respetivo consulado para apoyo al turista, cuando se trate de quejas en el extranjero.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-### CAPÍTULO XXI. DE LA CAPACITACIÓN Y ADIESTRAMIENTO TURÍSTICO
+IV. En coordinación con las instancias federales en apoyo al turista internacional, vincularlo con la Embajada correspondiente, para su protección en el destino.
+
+### CAPÍTULO XX. DE LA EDUCACIÓN EN MATERIA DE TURISMO
 
 ###### Artículo 62.
 
@@ -639,7 +793,7 @@ La Secretaría impulsará la integración de una Red de Instituciones de Educaci
 
 La Secretaría propondrá la celebración de convenios con instituciones educativas con reconocimiento oficial, que ofrezcan estudios relacionados con el turismo, con la finalidad de permitir a los alumnos que presten su servicio social, que realicen prácticas profesionales o participen en proyectos o actividades de la Secretaría.
 
-### CAPÍTULO XXII. DEL ORGANISMO PÚBLICO AUXILIAR DE LA SECRETARÍA
+### CAPÍTULO XXI. DE LA CAPACITACIÓN Y ADIESTRAMIENTO TURÍSTICO
 
 ###### Artículo 65.
 
@@ -651,7 +805,9 @@ II. En su caso, brindar asesoría a los prestadores de servicios turísticos en 
 
 III. En coordinación con las instituciones competentes de los tres órdenes de gobierno y con los sectores privado y social, según corresponda, diseñar e impartir cursos de capacitación y adiestramiento turístico a servidores públicos estatales y municipales, cuyas actividades estén vinculadas con el turismo;
 
-IV. Promover programas de capacitación y adiestramiento a guías de turistas y, en su caso, participar en la evaluación que se practique a los aspirantes;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+IV. Establecer programas anuales de capacitación y adiestramiento a guías de turistas y, en su caso, participar en la evaluación que se practique a los aspirantes. Para el ejercicio de esta actividad, los guías deberán tramitar ante la Secretaría su inscripción en el registro estatal de turismo así como la credencialización que los acredite como tales;
 
 V. Impartir a los prestadores de servicios turísticos y a la población en general, de acuerdo a la disponibilidad presupuestal, cursos sobre cultura y educación turística;
 
@@ -671,7 +827,7 @@ X. En coordinación con la Secretaría de Economía, promover e implementar prog
 
 XI. Realizar las demás acciones necesarias para la formación de los recursos humanos necesarios para el desarrollo turístico del estado.
 
-### CAPÍTULO XXIII. DE LAS SANCIONES
+### CAPÍTULO XXII. DEL ORGANISMO PÚBLICO AUXILIAR DE LA SECRETARÍA
 
 ###### Artículo 66.
 
@@ -691,11 +847,19 @@ V. Las demás atribuciones que le confiera la presente Ley, su Reglamento y otra
 
 El órgano auxiliar de la Secretaría tiene por objeto principal la atracción y realización de eventos, así como la participación en acciones de promoción directa e indirecta para el desarrollo de la industria de reuniones en el Estado.
 
-### CAPÍTULO XXIV. DE LOS MEDIOS DE IMPUGNACIÓN
+### CAPÍTULO XXIII. DE LAS SANCIONES
 
 ###### Artículo 68.
 
 En los términos de los convenios celebrados con la Secretaría de Turismo del Gob erno (sic) Federal, la Secretaría realizará órdenes de verificación e impondrá las sanciones, de acuerdo con lo establecido en la Ley General.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+###### Artículo 68 Bis.
+
+Los servidores públicos que incumplan lo dispuesto por esta Ley, estarán sujetos a lo dispuesto por la Ley General de Responsabilidades Administrativas, independientemente de las responsabilidades a las que se hagan acreedores.
+
+### CAPÍTULO XXIV. DE LOS MEDIOS DE IMPUGNACIÓN
 
 ###### Artículo 69.
 
@@ -750,3 +914,31 @@ P.O. 7 DE MARZO DE 2020.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Zacatecas.
 
 Artículo segundo. Para renovar el registro de dicha marca, la Secretaría de Turismo del Estado llevará a cabo los trámites ante el Instituto Mexicano de la Propiedad Industrial, de acuerdo con la Ley de la Propiedad Industrial y otras disposiciones aplicables.
+
+P.O. 8 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 665.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Artículo segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 700.- SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE TURISMO DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial. Órgano del Gobierno del Estado de Zacatecas.
+
+Artículo segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Artículo tercero. Dentro del plazo de noventa días siguientes a la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones al Reglamento de la presente Ley.
+
+P.O. 8 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 804.- SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Artículo segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Artículo tercero. Dentro del plazo de noventa días siguientes a la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones al Reglamento de la presente Ley.
