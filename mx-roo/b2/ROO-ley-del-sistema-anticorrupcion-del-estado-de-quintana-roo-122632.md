@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-sistema-anticorrupcion-del-estado-de-quintana-roo-12263
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-19"
-last_updated: "2021-07-16"
+last_updated: "2022-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DEL SISTEMA ANTICORRUPCION DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 19 de julio de 2017.
 
@@ -421,11 +423,21 @@ XV. Proponer al Comité Coordinador Estatal, a través de su participación en l
 
 XVI. Promover la colaboración con instituciones en la materia, con el propósito de elaborar investigaciones sobre las políticas públicas para la prevención, detección y combate de hechos de corrupción o faltas administrativas;
 
-XVII. Dar seguimiento al funcionamiento del Sistema Estatal, y
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-XVIII. Proponer al Comité Coordinador Estatal mecanismos para facilitar el funcionamiento de las instancias de contraloría social existentes, así como para recibir directamente información generada por esas instancias y formas de participación ciudadana.
+XVII. Dar seguimiento al funcionamiento del Sistema Estatal;
 
-XIX. Promover e impulsar en coordinación con la Secretaría de Educación, dentro de los programas educativos la difusión de contenidos en materia de cultura de Anticorrupción, a fin de que la niñez tenga conocimiento sobre la materia.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XVIII. Proponer al Comité Coordinador Estatal mecanismos para facilitar el funcionamiento de las instancias de contraloría social existentes, así como para recibir directamente información generada por esas instancias y formas de participación ciudadana;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XIX. Promover e impulsar, en coordinación con la Secretaría de Educación, dentro de los programas educativos, la difusión de contenidos en materia de cultura de Anticorrupción, a fin de que la niñez tenga conocimiento sobre la materia, y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XX. Realizar las observaciones que estime pertinentes al proyecto de presupuesto de egresos para que el Secretario Técnico las considere en el proyecto que sea sometido a la aprobación del Órgano de Gobierno.
 
 ###### Artículo 22.
 
@@ -447,9 +459,11 @@ El Comité de Participación Ciudadana, podrá solicitar al Comité Coordinador 
 
 #### Sección I. De su organización y funcionamiento
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
+
 ###### Artículo 24.
 
-La Secretaría Ejecutiva del Sistema Estatal es un organismo descentralizado, no sectorizado, con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión, mismo que tendrá su sede en la Ciudad de Chetumal, Quintana Roo. Contará con una estructura operativa para la realización de sus atribuciones, objetivos y fines, y por lo tanto, la Legislatura del Estado deberá asignarle año con año el presupuesto suficiente para el ejercicio integral de sus funciones.
+La Secretaría Ejecutiva del Sistema Estatal es un organismo descentralizado, no sectorizado, con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión, mismo que tendrá su sede en la Ciudad de Chetumal, Quintana Roo; contará con una estructura operativa para la realización de sus atribuciones, objetivos y fines, y por lo tanto, la Legislatura del Estado deberá asignarle año con año el presupuesto suficiente para el ejercicio integral de sus funciones, el cual no será menor al presupuesto autorizado en el año inmediato anterior, debiendo sujetarse a lo dispuesto en los artículos 161 y 165 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
 
 ###### Artículo 25.
 
@@ -589,9 +603,17 @@ Las sesiones del Órgano de Gobierno serán públicas y deberán ser difundidas 
 
 El Órgano de Gobierno, además de las atribuciones indelegables previstas en el Artículo 63 de la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo, tendrá las siguientes:
 
-I. Expedir el Estatuto Orgánico en el que se establezcan las bases de organización así como las facultades y funciones que correspondan a las distintas áreas que integren la Secretaría Ejecutiva, y
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-II. Nombrar y remover, por mayoría calificada de cinco votos, al Secretario Técnico, de conformidad con lo establecido por esta Ley.
+I. Expedir el Estatuto Orgánico en el que se establezcan las bases de organización así como las facultades y funciones que correspondan a las distintas áreas que integren la Secretaría Ejecutiva;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+II. Nombrar y remover, por mayoría calificada de cinco votos, al Secretario Técnico, de conformidad con lo establecido por esta Ley, y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+III. Autorizar el proyecto de presupuesto de egresos que sea sometido a su consideración, por parte del Secretario Técnico, considerando las observaciones realizadas por el Comité de Participación Ciudadana.
 
 #### Sección II. De la Comisión Ejecutiva de la Secretaría Ejecutiva
 
@@ -723,11 +745,21 @@ XIII. Celebrar convenios de coordinación, colaboración y concertación necesar
 
 XIV. Ordenar la publicación de la designación de su encargo, así como la designación de los integrantes del Comité de Participación Ciudadana en el Periódico Oficial del Estado de Quintana Roo;
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-XV. Preparar y organizar las sesiones del Comité Coordinador y del Órgano de Gobierno, así como vigilar su difusión en los medios electrónicos, así como en redes sociales oficiales de la Secretaría Ejecutiva, y
+XV. Preparar y organizar las sesiones del Comité Coordinador y del Órgano de Gobierno, así como vigilar su difusión en los medios electrónicos, así como en redes sociales oficiales de la Secretaría Ejecutiva;
 
-XVI. Proveer a la Comisión Ejecutiva los insumos necesarios para la elaboración de las propuestas a que se refiere la presente Ley. Para ello, podrá solicitar la información que estime pertinente para la realización de las actividades que le encomienda esta Ley, de oficio o a solicitud de los miembros de la Comisión Ejecutiva.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XVI. Proveer a la Comisión Ejecutiva los insumos necesarios para la elaboración de las propuestas a que se refiere la presente Ley. Para ello, podrá solicitar la información que estime pertinente para la realización de las actividades que le encomienda esta Ley, de oficio o a solicitud de los miembros de la Comisión Ejecutiva;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XVII. Elaborar y presentar al Órgano de Gobierno, el proyecto de presupuesto de egresos de la Secretaría Ejecutiva, considerando las observaciones realizadas por el Comité de Participación Ciudadana, mismo que, una vez aprobado, será remitido a la Legislatura del Estado, y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XVIII. Comparecer ante el Pleno de la Legislatura, en el mes de octubre de cada año, para rendir un informe de labores y resultados, así como para detallar su contenido y contestar los planteamientos que se le formulen. El informe será remitido a la persona titular del Poder Ejecutivo del Estado, difundido con amplitud a la ciudadanía y publicado en los medios electrónicos oficiales del Sistema Estatal Anticorrupción.
 
 ## TÍTULO TERCERO. DE LAS AUTORIDADES DEL ESTADO DE QUINTANA ROO INTEGRANTES DEL SISTEMA NACIONAL DE FISCALIZACIÓN
 
@@ -906,3 +938,11 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 8 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 225 POR EL QUE SE REFORMAN: LAS FRACCIONES XVII, XVIII Y XIX DEL ARTÍCULO 21; EL ARTÍCULO 24; LAS FRACCIONES I Y II DEL ARTÍCULO 29; LAS FRACCIONES XV Y XVI DEL ARTÍCULO 35; Y SE ADICIONAN: LA FRACCIÓN XX AL ARTÍCULO 21, LA FRACCIÓN III AL ARTÍCULO 29 Y LAS FRACCIONES XVII Y XVIII AL ARTÍCULO 35, TODOS DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor, previa publicación en el Periódico Oficial del Estado de Quintana Roo, el día en el que inicie la vigencia del Decreto por el que se adiciona un último párrafo al artículo 161 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, en materia de presupuesto de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
