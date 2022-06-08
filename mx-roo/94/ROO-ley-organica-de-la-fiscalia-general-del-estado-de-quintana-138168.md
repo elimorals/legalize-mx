@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-fiscalia-general-del-estado-de-quintana-1381
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-09-13"
-last_updated: "2021-10-22"
+last_updated: "2022-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 13 de septiembre de 2019.
 
@@ -537,13 +537,19 @@ IX. Podrá crear las unidades administrativas que resulten necesarias para la re
 
 X. Las demás, que con este carácter, le confieran otras disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
+
 ###### Artículo 18.
 
-El Fiscal General tiene la obligación de presentar anualmente a la Legislatura en funciones, un informe de actividades.
+El Fiscal General tiene la obligación de comparecer ante el Pleno de la Legislatura, en el mes de octubre de cada año, para rendir un informe anual de labores y resultados, así como para detallar su contenido y contestar los planteamientos que se le formulen.
 
-Para ello, deberá comparecer ante la Comisión de Justicia de la Legislatura a entregar por escrito el informe y exponer su contenido. Dicho informe se deberá presentar en el mes de febrero de cada año y será público, en términos de lo previsto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Quintana Roo y demás disposiciones aplicables en la materia.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
 
-A la par, deberá remitir por escrito un ejemplar de dicho informe anual al titular del Poder Ejecutivo del Estado. Los informes anuales del Fiscal General comprenderán por lo menos:
+El informe será remitido al titular del Poder Ejecutivo del Estado, difundido con amplitud a la ciudadanía y publicado en los medios electrónicos oficiales de la Fiscalía General.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
+
+Los informes anuales del Fiscal General comprenderán por lo menos:
 
 I. La descripción de las actividades que en ejercicio de sus funciones de Ministerio Público y de Procuración de Justicia ha llevado a cabo la Fiscalía General;
 
@@ -2868,3 +2874,11 @@ P.O. 22 DE OCTUBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 8 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 226 POR EL QUE SE REFORMA: LA FRACCIÓN X DEL ARTÍCULO 31 Y EL ARTÍCULO 40 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO; SE REFORMA: LA FRACCIÓN VI DEL ARTÍCULO 140 Y LA FRACCIÓN VIII DEL ARTÍCULO 223 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO; SE REFORMA: LA FRACCIÓN XX DEL ARTÍCULO 195 DEL CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO; SE REFORMAN: LOS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO DEL ARTÍCULO 18 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO, Y SE REFORMAN: LAS FRACCIONES XI Y XII DEL ARTÍCULO 22 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 65 Y SE DEROGA: EL TERCER PÁRRAFO DEL ARTÍCULO 65, TODOS DE LA LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, previa publicación en el Periódico Oficial del Estado de Quintana Roo, el día en el que inicie la vigencia del Decreto por el que se reforman el párrafo sexto del artículo 94 y el párrafo tercero del apartado B del artículo 96 y se adicionan los párrafos cuarto y quinto al artículo 51 BIS, todos de la Constitución Política del Estado Libre y Soberano de Quintana Roo, en materia de comparecencia de los titulares de los órganos públicos autónomos a la Legislatura del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
