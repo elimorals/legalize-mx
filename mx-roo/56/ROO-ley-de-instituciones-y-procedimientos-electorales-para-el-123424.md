@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-instituciones-y-procedimientos-electorales-para-el-12342
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-21"
-last_updated: "2021-10-07"
+last_updated: "2022-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 21 de septiembre de 2017.
 
@@ -2003,7 +2005,9 @@ IV. Proponer al Consejo General las ternas para el nombramiento de la persona ti
 
 V. Establecer vínculos entre el Instituto Estatal y las autoridades federales, estatales y municipales para lograr su apoyo y colaboración en sus respectivos ámbitos de competencia, cuando sea necesario para el cumplimiento de los fines del Instituto Estatal;
 
-VI. Rendir un informe anual al Consejo General sobre las actividades del Instituto Estatal, en la primera sesión del mes de enero de cada año;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+VI. Comparecer ante el Consejo General en la primera sesión del mes de enero de cada año, y ante el Pleno de la Legislatura, en el mes de octubre de cada año, para rendir un informe anual de labores y resultados, para detallar su contenido y contestar los planteamientos que se le formulen. El informe será remitido a la persona titular del Poder Ejecutivo del Estado, difundido con amplitud a la ciudadanía y publicado en los medios electrónicos oficiales del Instituto Estatal;
 
 > <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
@@ -3623,9 +3627,9 @@ VI. Representar legalmente al Tribunal Electoral ante toda clase de autoridades,
 
 VII. Despachar la correspondencia del Tribunal Electoral;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-VIII. Rendir ante el Pleno, en el mes de septiembre del año en que se celebren elecciones o a más tardar en el mes de noviembre en año no electoral; un informe anual de actividades y el desglose del estado financiero y patrimonial que guarda el Tribunal, y ordenar su publicación en el Órgano Oficial de Difusión;
+VIII. Comparecer ante el Pleno para rendir en el mes de septiembre del año en que se celebren elecciones o a más tardar en el mes de noviembre en año no electoral; y ante el Pleno de la Legislatura, en el mes de octubre, para rendir un informe anual de labores y resultados, que contenga el desglose del estado financiero y patrimonial que guarda el Tribunal, detallar su contenido y contestar los planteamientos que se le formulen. El informe será remitido al titular del Poder Ejecutivo del Estado, difundido con amplitud a la ciudadanía y publicado en los medios electrónicos oficiales del Tribunal, así como en el órgano oficial de difusión;
 
 IX. Vigilar que se cumplan las determinaciones del Tribunal Electoral;
 
@@ -6846,3 +6850,11 @@ P.O. 7 DE OCTUBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 151 POR EL QUE SE REFORMA EL PÁRRAFO CUARTO DEL NUMERAL 6 DE LA FRACCIÓN III Y EL PÁRRAFO QUINTO DE LA FRACCIÓN V, Y SE DEROGA EL PÁRRAFO TERCERO DEL NUMERAL 6 DE LA FRACCIÓN III, TODOS DEL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO; Y SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 293 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 8 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “PROMULGACIÓN DEL DECRETO 226, POR EL QUE SE REFORMA: LA FRACCIÓN X DEL ARTÍCULO 31 Y EL ARTÍCULO 40 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO; SE REFORMA: LA FRACCIÓN VI DEL ARTÍCULO 140 Y LA FRACCIÓN VIII DEL ARTÍCULO 223 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO; SE REFORMA: LA FRACCIÓN XX DEL ARTÍCULO 195 DEL CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO; SE REFORMAN: LOS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO DEL ARTÍCULO 18 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO, Y SE REFORMAN: LAS FRACCIONES XI Y XII DEL ARTÍCULO 22 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 65 Y SE DEROGA: EL TERCER PÁRRAFO DEL ARTÍCULO 65, TODOS DE LA LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, previa publicación en el Periódico Oficial del Estado de Quintana Roo, el día en el que inicie la vigencia del Decreto por el que se reforman el párrafo sexto del artículo 94 y el párrafo tercero del apartado B del artículo 96 y se adicionan los párrafos cuarto y quinto al artículo 51 BIS, todos de la Constitución Política del Estado Libre y Soberano de Quintana Roo, en materia de comparecencia de los titulares de los órganos públicos autónomos a la Legislatura del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
