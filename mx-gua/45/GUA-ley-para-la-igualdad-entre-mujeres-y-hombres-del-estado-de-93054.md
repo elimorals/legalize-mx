@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-9305
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-12"
-last_updated: "2020-10-21"
+last_updated: "2022-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93054&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "GUA"
 ---
 # LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE GUANAJUATO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ABRIL DE 2024 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 12 de marzo de 2013.
 
@@ -739,7 +737,9 @@ III. Establecer las condiciones necesarias para que se respete y aplique eficazm
 
 IV. Promover cambios culturales que permitan compartir en condiciones de igualdad de trato el trabajo productivo y las relaciones familiares y aseguren el acceso equitativo de mujeres y hombres a los procesos de innovación, ciencia y tecnología en el Plan Estatal de Desarrollo;
 
-V. Integrar con perspectiva de género su aplicación y evaluación en el estado y los municipios para impulsar, regular, proteger, fomentar y hacer efectivo el derecho a la igualdad de trato y oportunidades entre mujeres y hombres; y
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+V. Prever los mecanismos de coordinación, los objetivos, las estrategias y líneas de acción para incorporar, de manera transversal, la perspectiva de género en su aplicación, seguimiento, monitoreo, evaluación y actualización en el estado y los municipios para impulsar, regular, proteger, fomentar y hacer efectivo el derecho a la igualdad de trato y oportunidades entre mujeres y hombres; y
 
 VI. Promover campañas de concientización a mujeres y hombres en la responsabilidad de la atención equitativa de sus dependientes.
 
@@ -952,3 +952,9 @@ Artículo Décimo Cuarto. La Secretaría de Finanzas, Inversión y Administraci�
 Plazo para actualización de reglamentación municipal
 
 Artículo Décimo Quinto. Los municipios expedirán o, en su caso, actualizarán los reglamentos que deriven del contenido del presente Decreto, en un plazo no mayor de ciento ochenta días contados a partir de la entrada en vigor del mismo.
+
+P.O. 8 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 76 EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 41 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
