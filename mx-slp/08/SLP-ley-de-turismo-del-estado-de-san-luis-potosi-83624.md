@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2022-05-26"
+last_updated: "2022-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -165,13 +165,17 @@ XXXVIII. Turismo sustentable: aquél que cumple con dar un uso óptimo a los rec
 
 XXXIX. Turista: la persona que viaja temporalmente fuera de su lugar de residencia habitual, y que utilice alguno de los servicios turísticos a que se refiere la Ley General y esta Ley, sin perjuicio de lo dispuesto para efectos migratorios por la Ley General de Población;
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-XL. Zonas de desarrollo turístico sustentable: aquellas regiones claramente ubicadas y delimitadas geográficamente que, por sus características naturales o culturales, constituyen un atractivo turístico, y
+XL. Zonas de desarrollo turístico sustentable: aquellas regiones claramente ubicadas y delimitadas geográficamente que, por sus características naturales o culturales, constituyen un atractivo turístico;
 
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-XLI. Servicio de hospedaje: servicio turístico prestado en campamentos, hoteles, moteles, paraderos de casas rodantes y de tiempo compartido, posadas, suites y en todos los establecimientos que presten servicios de esta naturaleza, incluyendo servicios de hospedaje ofertados a través de plataformas digitales.
+XLI. Servicio de hospedaje: servicio turístico prestado en campamentos, hoteles, moteles, paraderos de casas rodantes y de tiempo compartido, posadas, suites y en todos los establecimientos que presten servicios de esta naturaleza, incluyendo servicios de hospedaje ofertados a través de plataformas digitales, y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XLII. Policía turística: se entiende por aquellos elementos que desempeñan tareas de proximidad social y vigilancia, en aras de prevención del delito, asistencia y apoyo al turista en caso de hechos delictivos, mismos que deberán portar un distintivo que los identifique para esos efectos.
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES; Y DE LAS ATRIBUCIONES DE LAS AUTORIDADES
 
@@ -389,11 +393,15 @@ XVII. Tomar en consideración las opiniones, usos y costumbres de las comunidade
 
 XVIII. Establecer y celebrar anualmente la semana de turismo municipal, en la cual se promoverá el municipio a nivel local, regional, nacional e internacional, con el propósito de generar derrama económica en el mismo, en la cual deberá participar activamente, la ciudadanía, las instituciones educativas, culturales, deportivas y de seguridad pública;
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-XIX. Llevar a cabo por sí mismos o en coordinación con municipios vecinos, la creación de rutas turísticas a fin de impulsar y desarrollar actividades económicas que los posicione como una zona reconocida por sus características particulares, cualesquiera que éstas sean. En los municipios donde exista presencia de comunidades indígenas, será necesario la promoción del respeto y protección de sus conceptos culturales de naturaleza y cosmovisión, en apego a lo que establece la fracción anterior, y
+XIX. Llevar a cabo por sí mismos o en coordinación con municipios vecinos, la creación de rutas turísticas a fin de impulsar y desarrollar actividades económicas que los posicione como una zona reconocida por sus características particulares, cualesquiera que éstas sean. En los municipios donde exista presencia de comunidades indígenas, será necesario la promoción del respeto y protección de sus conceptos culturales de naturaleza y cosmovisión, en apego a lo que establece la fracción anterior;
 
-XX. Las demás que esta Ley y otros ordenamientos le señalen.
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XX. Contar con policía turística los ayuntamientos en el Estado que así lo requieran, y
+
+XXI. Las demás que esta Ley y otros ordenamientos le señalen.
 
 ###### ARTICULO 10.
 
@@ -1364,6 +1372,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 26 DE MAYO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0328.- SE ADICIONA EL ARTÍCULO 63 BIS, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 8 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0334.- SE REFORMAN LOS ARTÍCULOS 4° EN SUS FRACCIONES XL Y XLI Y 9° EN SU FRACCIÓN XIX Y ADICIONA A LOS ARTÍCULOS 4° LA FRACCIÓN XLII Y 9° UNA FRACCIÓN, ÉSTA COMO XX, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
