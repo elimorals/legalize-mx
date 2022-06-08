@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2022-05-13"
+last_updated: "2022-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -1349,7 +1349,9 @@ El servicio de carrera para el personal de seguridad pública se organizará de 
 
 I. Tendrá carácter obligatorio y permanente; abarcará los planes, programas, cursos, evaluaciones, exámenes y concursos correspondientes a las diversas etapas que comprende;
 
-II. Se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos. Tendrá como objetivo la preparación, competencia, capacidad y superación constante del personal de las áreas de seguridad pública;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+II. Se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, el respeto a los derechos humanos y, en lo conducente, a la perspectiva de género, reconocidos en la Constitución Política de los Estados Unidos Mexicanos. Tendrá como objetivo la preparación, competencia, capacidad y superación constante del personal de las áreas de seguridad pública;
 
 III. El contenido teórico y práctico de los programas de capacitación, actualización, especialización y certificación fomentará que los miembros de las instituciones logren la profesionalización y ejerzan sus atribuciones con base en los principios y objetivos referidos, y promoverán el efectivo aprendizaje y el pleno desarrollo de los conocimientos, habilidades, destrezas y actitudes necesarios para el desempeño del servicio público;
 
@@ -1681,11 +1683,11 @@ El servicio de llamadas de emergencia 911; y el servicio de denuncia anónima 08
 
 El sistema de información sobre seguridad pública se integrará entre otros, con los siguientes registros: de personal de seguridad pública; de armamento y equipo; de informe policial homologado; estadísticas sobre seguridad; administrativo de detenciones; y de las empresas de seguridad privada.
 
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
 
 ###### ARTICULO 93 Bis.
 
-Se clasifica como reservada la información contenida en todas y cada una de las bases de datos del sistema, y la información contenida en ellos, en materia de detenciones, información criminal, personal de seguridad pública, personal y equipo de los servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, teléfonos celulares, medidas cautelares, soluciones alternas y formas de terminación anticipada, sentenciados, y las demás necesarias para la operación del Sistema, cuya consulta es exclusiva de las instituciones de seguridad pública que estén facultadas en cada caso, a través de los servidores públicos que cada Institución designe, por lo que el público no tendrá acceso a la información que en ellos se contenga.
+Se clasifica como reservada la información contenida en todas y cada una de las bases de datos del sistema, y la información contenida en ellos, en materia de detenciones, información criminal, personal de seguridad pública, personal y equipo de los servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, teléfonos celulares, medidas cautelares, soluciones alternas y formas de terminación anticipada, sentenciados, y las demás necesarias para la operación del Sistema.
 
 ### Capítulo II. Del Informe Policial Homologado
 
@@ -3124,3 +3126,19 @@ DÉCIMO PRIMERO. Hasta en tanto se realicen los trámites necesarios ante las in
 DÉCIMO SEGUNDO. El presupuesto ya asignado y programado a la Secretaría de Seguridad Pública; y a la Dirección General de Seguridad Pública del Estado, se entenderá subrogado en favor de la Secretaría de Seguridad y Protección Ciudadana; y de la Guardia Civil Estatal, respectivamente.
 
 DÉCIMO TERCERO. Las estructuras orgánicas internas de la Secretaría de Seguridad Pública; y de la Dirección General de Seguridad Pública del Estado, se entenderán subsumidas a la Secretaría de Seguridad y Protección Ciudadana; y a la Guardia Civil Estatal, respectivamente, hasta en tanto no se efectúen las modificaciones reglamentarias y administrativas que correspondan.
+
+P.O. 8 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0337.- SE REFORMA EL ARTÍCULO 60 EN SU FRACCIÓN II, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0338.- SE REFORMA EL ARTÍCULO 93 BIS, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
