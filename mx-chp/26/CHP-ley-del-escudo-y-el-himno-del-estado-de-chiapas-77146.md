@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-escudo-y-el-himno-del-estado-de-chiapas-77146"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-22"
-last_updated: "2019-10-18"
+last_updated: "2022-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DEL ESCUDO Y EL HIMNO DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 22 de septiembre de 2010.
 
@@ -285,15 +285,29 @@ XVII. 12 de Agosto: Aniversario luctuoso de Ángel Albino Corzo en 1875;
 
 XVIII. 21 de Agosto: Aniversario del natalicio en 1796 de Joaquín Miguel Gutiérrez Canales;
 
-XIX. 17 de Octubre: Aniversario luctuoso de Fray Antonio Matías de Córdova y Ordóñez en 1828;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JUNIO DE 2022)</small>
 
-XX. 21 de Octubre: Gloriosa Batalla de Chiapa de Corzo de 1863;
+XIX. 28 de Agosto: Conmemoración de la Independencia de Chiapas frente a la Monarquía Española en 1821;
 
-XXI. 02 de Diciembre: Aniversario luctuoso del Dr. Manuel Velasco Suárez en 2001; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JUNIO DE 2022)</small>
 
-XXII. 28 de Diciembre: Aniversario del natalicio en 1914 del Dr. Manuel Velasco Suárez.
+XX. 14 de Septiembre: Conmemoración de la Federación de Chiapas a México en 1824;
 
-Corresponde a todos los Órganos de Gobierno la conmemoración de todas estas fechas cívicas a través de actividades culturales y de difusión de estas.
+XXI. 17 de Octubre: Aniversario luctuoso de Fray Antonio Matías de Córdova y Ordóñez en 1828;
+
+XXII. 21 de Octubre: Gloriosa Batalla de Chiapa de Corzo de 1863;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE JUNIO DE 2022)</small>
+
+XXIII. 02 de Diciembre: Aniversario luctuoso del Dr. Manuel Velasco Suárez en 2001; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE JUNIO DE 2022)</small>
+
+XXIV. 28 de Diciembre: Aniversario del natalicio en 1914 del Dr. Manuel Velasco Suárez.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+Corresponderá a los Tres Poderes del Estado, así como a todos los Órganos de Gobierno en el nivel Estatal y Municipal la conmemoración de todas estas fechas cívicas a través de actividades culturales y de difusión de estas.
 
 ### Capítulo Séptimo. De las competencias y sanciones
 
@@ -368,3 +382,11 @@ P.O. 18 DE OCTUBRE DE 2019.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 143 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL ESCUDO Y EL HIMNO DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
