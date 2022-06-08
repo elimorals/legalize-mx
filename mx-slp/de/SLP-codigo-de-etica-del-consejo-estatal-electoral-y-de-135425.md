@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-etica-del-consejo-estatal-electoral-y-de-135425"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-03-21"
-last_updated: "2019-03-21"
+last_updated: "2022-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # CODIGO DE ETICA DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACION CIUDADANA DE SAN LUIS POTOSI
 
+.
+
 CÓDIGO DE ÉTICA EN OBSERVANCIA AL NUMERAL 16 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 21 de marzo de 2019.
 
@@ -313,7 +315,9 @@ INTEGRACIÓN. El Comité estará integrado por seis miembros propietarios:
 
 4. La persona titular de la Dirección Ejecutiva de Administración y Finanzas del Consejo, quien tendrá derecho a voz y voto;
 
-5. La persona titular de la Dirección Ejecutiva de Acción Electoral del Consejo, quien tendrá derecho a voz y voto, y
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+5. La persona titular de la Unidad de Transparencia del Consejo, quien tendrá derecho a voz y voto, y
 
 6. La persona titular de la Contraloría Interna del Consejo, quien solo tendrá derecho a voz.
 
@@ -424,3 +428,11 @@ C.P.C. JESÚS CHEVAILE ABAD
 CONTRALOR INTERNO
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO POR MEDIO DEL CUAL SE MODIFICA EL NUMERAL 5, DEL ARTÍCULO 17 DEL CÓDIGO DE ÉTICA DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA EN OBSERVANCIA AL DIVERSO 16 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
