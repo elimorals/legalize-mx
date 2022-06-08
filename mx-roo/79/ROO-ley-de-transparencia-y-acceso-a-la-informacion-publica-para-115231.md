@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-115
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-03"
-last_updated: "2021-06-22"
+last_updated: "2022-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 3 de mayo de 2016.
 
@@ -451,7 +453,9 @@ VIII. Ejercer, previo acuerdo del Pleno del Instituto, actos de dominio sobre lo
 
 IX. Rendir informes ante las autoridades competentes, en representación del Instituto;
 
-X. Entregar al Congreso local un informe anual de actividades y del trabajo realizado por el Instituto durante el mes de abril;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+X. Comparecer ante el Consejo Consultivo y el Pleno de la Legislatura, en el mes de octubre de cada año, para rendir un informe anual de labores y resultados, para detallar su contenido y contestar los planteamientos que se le formulen. El informe será remitido a la persona titular del Poder Ejecutivo del Estado, difundiendo con amplitud a la ciudadanía y publicado en los medios electrónicos oficiales del Instituto;
 
 XI. Otorgar poderes generales y especiales para pleitos y cobranzas y actos de administración, con todas las facultades generales y especiales, incluso las que requieran cláusula especial conforme a la ley. Para el otorgamiento de poderes generales o especiales para actos de dominio y con facultades cambiarias, deberá contar con la autorización del Pleno del Instituto, y
 
@@ -569,9 +573,11 @@ En la elección de los Comisionados se procurará privilegiar la experiencia en 
 
 Los Comisionados del Instituto durarán en su encargo siete años y no podrán ser reelectos. Su nombramiento se realizará de manera escalonada para garantizar el principio de autonomía.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
+
 ###### Artículo 40.
 
-Durante el mes de abril de cada año, el Comisionado Presidente del Instituto rendirá un informe anual de labores y resultados al Congreso del Estado y al Consejo Consultivo en el cual se incluirá al menos la descripción de la información remitida por los sujetos obligados comprendidos en esta Ley; el número de solicitudes de acceso a la información presentadas ante cada sujeto obligado y ante el instituto, así como su resultado, el tiempo de respuesta, las dificultades observadas en el cumplimiento de esta Ley; las determinaciones de reserva o confidencialidad tomadas en el período que se informa, así como las demás actividades y acciones llevadas a cabo en ejercicio de las atribuciones del Instituto. El informe anual será difundido con amplitud y colocado en el portal de internet del Instituto, para que a través de éste, tengan acceso los sujetos de derechos.
+El informe anual de labores y resultados incluirá al menos la descripción de la información remitida por los sujetos obligados comprendidos en esta Ley; el número de solicitudes de acceso a la información presentadas ante cada sujeto obligado y ante el instituto, así como su resultado, el tiempo de respuesta, las dificultades observadas en el cumplimiento de esta Ley; las determinaciones de reserva o confidencialidad tomadas en el período que se informa, así como las demás actividades y acciones llevadas a cabo en ejercicio de las atribuciones del Instituto.
 
 ###### Artículo 41.
 
@@ -2936,3 +2942,11 @@ P.O. 22 DE JUNIO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. El Poder Judicial, el Tribunal Electoral y el Tribunal de Justicia Administrativa, todos del Estado de Quintana Roo, contarán con el plazo previsto en el Artículo Segundo Transitorio del Decreto por el que se reforma la fracción II del artículo 73 de la Ley General de Transparencia y Acceso a la Información Pública, publicado en el Diario Oficial de la Federación de fecha 13 de agosto de 2020, para iniciar la publicación de las versiones públicas del texto íntegro de las sentencias emitidas.
+
+P.O. 8 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 226, POR EL QUE SE REFORMA: LA FRACCIÓN X DEL ARTÍCULO 31 Y EL ARTÍCULO 40 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO; SE REFORMA: LA FRACCIÓN VI DEL ARTÍCULO 140 Y LA FRACCIÓN VIII DEL ARTÍCULO 223 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO; SE REFORMA: LA FRACCIÍN XX DEL ARTÍCULO 195 DEL CODIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO; SE REFORMAN: LOS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO DEL ARTÍCULO 18 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO, Y SE REFORMAN: LAS FRACCIONES XI Y XII DEL ARTÍCULO 22 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 65 Y SE DEROGA; EL TERCER PÁRRAFO DEL ARTÍCULO 65, TODOS DE LA LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, previa publicación en el Periódico Oficial del Estado de Quintana Roo, el día en el que inicie la vigencia del Decreto por el que se reforman el párrafo sexto del artículo 94 y el párrafo tercero del apartado B del artículo 96 y se adicionan los párrafos cuarto y quinto al artículo 51 BIS, todos de la Constitución Política del Estado Libre y Soberano de Quintana Roo, en materia de comparecencia de los titulares de los órganos públicos autónomos a la Legislatura del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
