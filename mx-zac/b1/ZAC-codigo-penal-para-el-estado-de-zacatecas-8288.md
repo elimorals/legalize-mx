@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2022-05-04"
+last_updated: "2022-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -381,6 +381,10 @@ IV.- Tratándose de los delitos comprendidos en el Título Vigésimo Cuarto del 
 
 Si la cosa o productos se hallaren en poder de terceros, se observará lo dispuesto por el Código Civil sobre posesión de buena o mala fe.
 
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+En aquellos delitos cometidos en contra de la integridad sexual de las personas y la familia, el Juez no podrá absolver al pago de la reparación del daño.
+
 32.- Los terceros están obligados a reparar el daño, si son:
 
 I.- Los ascendientes, por los delitos de sus descendientes que se hallen bajo su patria potestad;
@@ -621,9 +625,9 @@ V.- Tratándose de delitos cometidos con motivo del tránsito de vehículos y de
 
 ### CAPITULO III. SANCION PARA LA TENTATIVA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
 
-65.- Al responsable de tentativa se le aplicará de una tercera parte del mínimo a dos terceras partes del máximo de la sanción señalada en la ley al delito que se pretendió consumar.
+65.- Al responsable de tentativa se le aplicará de dos terceras partes del mínimo a dos terceras partes del máximo de la sanción señalada en la ley al delito que se pretendió consumar.
 
 Para imponer la sanción de la tentativa, los jueces tendrán en cuenta la culpabilidad del autor y el grado a que se hubiere llegado en la ejecución del delito.
 
@@ -863,6 +867,10 @@ La prescripción será declarada de oficio o a petición de parte, en cualquier 
 
 96.- Los términos para la prescripción de la acción penal serán continuos y se contarán desde el día en que se cometió el delito, si fuere consumado; desde que cesó si fuere continuado o permanente, o desde el día en que se hubiere realizado el último acto de ejecución, si se tratare de tentativa o de delito imposible.
 
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+Cuando se trate de delitos sexuales, si el sujeto pasivo es un niño, niña o adolescente o no tuviere la capacidad de comprender el significado del hecho, la acción penal será imprescriptible.
+
 97.- La acción penal prescribe en un año, si el delito sólo merece multa. Si merece, además de esa sanción, la privativa de libertad, o fuere alternativa, se atenderá a lo dispuesto en el artículo siguiente. Lo mismo se observará cuando concurra alguna otra sanción accesoria.
 
 98.- La acción penal prescribirá en un plazo igual al término medio aritmético de la sanción privativa de la libertad que corresponda al delito, pero en ningún caso bajará de tres años.
@@ -907,9 +915,17 @@ Lo dispuesto en la parte final del mismo artículo anterior, tampoco comprende e
 
 108.- La prescripción de las sanciones privativas de libertad, sólo se interrumpe por la aprehensión del sentenciado, aunque ésta se ejecute por delito diverso.
 
-109.- La sanción pecuniaria prescribirá en tres años. Las demás sanciones prescribirán por el transcurso de un término igual al de su duración y una cuarta parte más, pero nunca excederá de quince años. Las que no tengan temporalidad, prescribirán en tres años, contados a partir de la fecha en que cause ejecutoria la resolución.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
 
-110.- La prescripción de la sanción pecuniaria, o de las demás señaladas en el artículo anterior, se interrumpirá por cualquier acto de autoridad tendiente a hacerlas efectivas y comenzará a correr nuevamente al día siguiente del último acto realizado.
+109.- La sanción pecuniaria de multa prescribirá en tres años, la privativa de libertad prescribirá por el transcurso de un término igual al de su duración y una cuarta parte más, pero nunca excederá de quince años. Las que no tengan temporalidad, prescribirán en tres años, contados a partir de la fecha en que cause ejecutoria la resolución.
+
+La reparación de daños y perjuicios derivada de un delito, prescribirá en diez años y no correrá el plazo mientras el responsable esté privado de su libertad.
+
+Las causas de extinción de la acción penal no se extienden a la reparación del daño.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+110.- La prescripción de la sanción pecuniaria, o de las demás señaladas en el artículo anterior, se interrumpirá por cualquier acto de autoridad tendiente a hacerlas efectivas y comenzará a correr nuevamente al día siguiente del último acto realizado. Por lo que respecta a la prescripción de la pena de la reparación del daño integral o de otras de carácter pecuniario, también se interrumpirán por las promociones que el ofendido o persona a cuyo favor se haya decretado dicha reparación haga ante la autoridad correspondiente y por las actuaciones que esa autoridad realice para ejecutarlas, así como por el inicio del juicio ante autoridad civil.
 
 111.- La sanción consistente en privación de derechos civiles o políticos prescribirá en diez años, si se ha impuesto como sanción principal, pero variará en los términos señalados en el artículo 44, cuando sea consecuencia de la pena de prisión. La inhabilitación temporal y la suspensión de cualquier otro derecho, prescribirán en un término igual al señalado por el artículo 106.
 
@@ -993,9 +1009,11 @@ No se considerará como delito político aquel que consista en ejecución de act
 
 ### CAPITULO I. EVASION DE PRESOS
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
 
-128.- Se aplicará de uno a nueve años de prisión al que ponga en libertad o favorezca la evasión de quien se encuentre legalmente detenido por falta o delito, procesado o condenado. Si el delincuente fuere el encargado de conducir o custodiar al prófugo, será además destituido de su empleo.
+128.- Se aplicará de dos a nueve años de prisión al que ponga en libertad o favorezca la evasión de quien se encuentre legalmente detenido por delito, procesado o condenado.
+
+Si el delincuente fuere el servidor público encargado de conducir o custodiar al prófugo, será además destituido de su empleo y se le inhabilitará para obtener otro por un periodo igual al de la pena de prisión impuesta.
 
 129.- (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
 
@@ -1283,53 +1301,59 @@ Estas disposiciones sólo serán aplicables cuando no existan otras de la compet
 
 ## TITULO SEXTO. DELITOS CONTRA EL DESARROLLO Y LA DIGNIDAD DE LAS PERSONAS
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2022)</small>
 
 ### CAPITULO I
 
-DELITOS CONTRA EL DESARROLLO DE LAS PERSONAS MENORES DE EDAD Y LA PROTECCIÓN INTEGRAL DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
+DELITOS CONTRA EL DESARROLLO DE LOS NIÑOS, NIÑAS Y ADOLESCENTES Y LA PROTECCION INTEGRAL DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2014) (F. DE E., P.O. 15 DE FEBRERO DE 2014)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
 
-181.- A quien por cualquier medio, procure, induzca o facilite a una persona menor de edad o quien no tenga la capacidad para comprender el significado del hecho, al consumo de estupefacientes, substancias psicotrópicas u otras susceptibles de producir dependencia o bebidas embriagantes, para que adquiera los hábitos de la farmacodependencia o el alcoholismo, o a formar parte de una asociación delictuosa o de la delincuencia organizada será sancionado con prisión de cuatro a nueve años y de cincuenta a doscientas cuotas.
+181.- A quien por cualquier medio, procure, induzca o facilite a un niño, niña o adolescente o a quien no tenga la capacidad para comprender el significado del hecho, a la comisión de algún delito, al consumo de estupefacientes, substancias psicotrópicas u otras susceptibles de producir dependencia o bebidas embriagantes, o a formar parte de una asociación delictuosa o de la delincuencia organizada, le facilite armas, o proporcione adiestramiento para su uso, será sancionado con prisión de cuatro a nueve años y de cincuenta a doscientas cuotas.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
 Cuando de la práctica reiterada del activo, el pasivo del delito adquiera los hábitos de la farmacodependencia o del alcoholismo, o forme parte de una asociación delictuosa o de la delincuencia organizada, las penalidades podrán aumentarse hasta en un tanto más.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
 
-A quien emplee, aun gratuitamente, a personas menores de dieciocho años o que no tengan la capacidad de comprender el significado del hecho, en lugares o establecimientos donde preponderantemente se expendan bebidas alcohólicas para su consumo inmediato o se presenten al público espectáculos sexuales, se le aplicará prisión de uno a cuatro años y multa de cien a doscientas cuotas, así como el cierre definitivo del establecimiento.
+A quien emplee, aun gratuitamente, a niños, niñas o adolescentes o a quien no tenga la capacidad de comprender el significado del hecho, en lugares o establecimientos donde preponderantemente se expendan bebidas alcohólicas para su consumo inmediato o se presenten al público espectáculos sexuales, se le aplicará prisión de uno a cuatro años y multa de cien a doscientas cuotas, así como el cierre definitivo del establecimiento.
 
-(REFORMADO, P.O. 11 DE ENERO DE 2014) (F. DE E., P.O. 15 DE FEBRERO DE 2014)
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
 
-Al que obligue o induzca a una persona menor de edad o a quien no tenga la capacidad para comprender el significado del hecho, a la práctica de la mendicidad, será sancionado con prisión de cuatro a nueve años y de cincuenta a doscientas cuotas.
+Al que obligue o induzca a niños, niñas o adolescentes o a quien no tenga la capacidad para comprender el significado del hecho, a la práctica de la mendicidad, será sancionado con prisión de cuatro a nueve años de prisión y de cincuenta a doscientas cuotas.
 
-> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
 
-A quien por cualquier medio, procure o facilite a una persona menor de edad pintura en aerosoles, solventes, ácidos o cualquier otro material dañino que deje una marca permanente, en propiedades privadas, monumentos que representen patrimonio cultural del Estado de Zacatecas o cualquier otro bien del espacio público, se le impondrá una multa de cincuenta a cien cuotas.
+A quien por cualquier medio, procure o facilite a los niños, niñas o adolescentes o a quien no tenga la capacidad de comprender el significado del hecho pintura en aerosoles, solventes, ácidos o cualquier otro material dañino que deje una marca permanente, en propiedades privadas, monumentos que representen patrimonio cultural del Estado de Zacatecas o cualquiera otro bien del espacio público, se le impondrá una multa de cincuenta a cien cuotas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
+
+181 Bis.- A quien permita directa o indirectamente el acceso de un niño, niña o adolescente o a quien no tenga la capacidad de comprender el significado del hecho a escenas, espectáculos, obras gráficas o audiovisuales de carácter pornográfico, se le impondrá prisión de uno a tres años y multa de veinte a cincuenta cuotas.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+Las mismas penas se impondrán al que ejecutare o hiciere ejecutar a otra persona actos de exhibición sexual ante niños, niñas y adolescentes o a quien no tenga la capacidad para comprender el significado del hecho.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+El que, por cualquier medio directo, vendiere, difundiere o exhibiere material pornográfico entre niños, niñas y adolescentes o personas que no tengan la capacidad para comprender el significado del hecho, será castigado con la pena de prisión de seis meses a un año y multa de cinco a veinte cuotas.
 
 > <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
-181 Bis.- A quien permita directa o indirectamente el acceso de una persona menor de edad a escenas, espectáculos, obras gráficas o audiovísuales de carácter pornográfico, se le impondrá prisión de uno a tres años y multa de veinte a cincuenta cuotas.
-
-Las mismas penas se impondrán al que ejecutare o hiciere ejecutar a otra persona actos de exhibición sexual ante personas menores de edad o que no tengan la capacidad para comprender el significado del hecho.
-
-El que, por cualquier medio directo, vendiere, difundiere o exhibiere material pornográfico entre personas menores de edad o personas que no tengan la capacidad para comprender el significado del hecho, será castigado con la pena de prisión de seis meses a un año y multa de cinco a veinte cuotas.
-
 No se actualizará el delito tratándose de programas preventivos, educativos o informativos que diseñen o impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual y embarazo de adolescentes.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
 
-182.- A quien pague o prometa pagar con dinero, en especie u otra ventaja de cualquier naturaleza, a una persona menor de dieciocho años o a un tercero para que aquélla sostenga relaciones o actos sexuales o eróticos, se le impondrá una pena de cuatro a ocho años de prisión y multa de treinta a setenta cuotas, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
+182.- A quien pague o prometa pagar con dinero, en especie u otra ventaja de cualquier naturaleza, a un niño, niña o adolescente o a un tercero para que aquélla sostenga relaciones o actos sexuales o eróticos, se le impondrá una pena de cuatro a ocho años de prisión y multa de treinta a setenta cuotas, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE AGOSTO DE 2012)</small>
 
 ### CAPÍTULO I BIS. DISCRIMINACION
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
 
-182 Bis.- Se aplicará sanción de uno a tres años de prisión o de ciento cincuenta a trescientos días de trabajo a favor de la comunidad y hasta doscientos días multa, al que por razones de origen o pertenencia étnica o nacional, raza, color de piel, lengua, género, sexo, preferencia sexual, edad, estado civil, origen nacional o social, condición social o económica, condición de salud, embarazo, opiniones políticas, apariencia física, modificaciones estéticas corporales o de cualquier otra indole, atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de cualquiera de las siguientes conductas:
+182 Bis.- Se aplicará sanción de uno a tres años de prisión o de ciento cincuenta a trescientos días de trabajo a favor de la comunidad y multa de cincuenta hasta doscientos (sic), veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se cometió el delito, al que por razones de origen, procedencia étnica, raza, color de piel, idioma, identidad de género, sexo, preferencia u orientación sexual, religión, edad, estado civil, origen nacional o social, condición social o económica, condición de salud, embarazo, opiniones políticas, apariencia física, discapacidad, modificaciones estéticas corporales o de cualquier otra índole, atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de cualquiera de las siguientes conductas:
 
 > <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
 
@@ -1347,6 +1371,14 @@ III. Niegue o restrinja las oportunidades de empleo y los consiguientes derechos
 
 IV. Niegue o restrinja derechos educativos.
 
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+V. Provoque o incite al odio o a la violencia, y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+VI. Imparta, promueva, ofrezca, someta u obligue a otro a recibir terapia o cualquier tipo de prácticas consistentes en sesiones psicológicas, psíquicas, métodos o tratamientos que tengan por objeto anular, obstaculizar o modificar la orientación sexual o la expresión o identidad de género de una persona.
+
 > <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
 Al servidor público que, por las razones previstas en el primer párrafo de este artículo, niegue o retarde a una persona un trámite, servicio o prestación a que tenga derecho, se le aumentará en una mitad la pena prevista en el primer párrafo del presente artículo, y además, se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por el mismo lapso de la privación de la libertad impuesta.
@@ -1363,23 +1395,35 @@ Cuando las conductas a que se refiere este artículo sean cometidas por persona 
 
 Asimismo, se incrementará la pena cuando los actos discriminatorios limiten el acceso a las garantías jurídicas indispensables para la protección de todos los derechos humanos.
 
-> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2022)</small>
 
-Este delito se perseguirá por querella.
+Si la conducta se hiciera en un niño, niña o adolescente, personas con discapacidad, personas adultas mayores, o con personas que por cualquier circunstancia no pudieran resistirse o no tengan la capacidad de comprender el significado del hecho, la pena se aumentará al doble y se perseguirá de oficio.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
 
-### CAPITULO II. UTILIZACION DE IMAGENES O VOZ DE PERSONAS MENORES DE EDAD O DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER El SIGNIFICADO DEL HECHO PARA LA PORNOGRAFIA
+Este delito se perseguirá por querella, con excepción de la conducta señalada en el párrafo anterior.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2022)</small>
+
+### CAPITULO II
+
+UTILIZACION DE IMAGENES O VOZ DE NIÑOS, NIÑAS O ADOLESCENTES O DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO PARA LA PORNOGRAFIA
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
 183.- Comete este delito:
 
-I. Quien produzca, fije, grabe, videograbe, fotografíe o filme de cualquier forma imágenes, sonidos o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-II. Quien reproduzca, publique, ofrezca, publicite, almacene, distribuya, difunda, exponga, envíe, transmita, importe, exporte o comercialice de cualquier forma imágenes, sonidos o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho, sea en forma directa, informática audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas.
+I. Quien produzca, fije, grabe, videograbe, fotografíe o filme de cualquier forma imágenes, sonidos o la voz de un niño, niña o adolescente o de una persona que no tenga la capacidad para comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas.
 
-III. Quien posea intencionalmente para cualquier fin, imágenes, sonidos o la voz de personas menores de edad o de personas que no tengan la capacidad de comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+II. Quien reproduzca, publique, ofrezca, publicite, almacene, distribuya, difunda, exponga, envíe, transmita, importe, exporte o comercialice de cualquier forma imágenes, sonidos o la voz de un niño, niña o adolescente o de una persona que no tenga la capacidad para comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas.
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+III. Quien posea intencionalmente para cualquier fin, imágenes, sonidos o la voz de niños, niñas o adolescentes o de personas que no tengan la capacidad de comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas.
 
 IV. Quien financie, dirija, administre o supervise cualquiera de las actividades anteriores con la finalidad de que se realicen las conductas previstas en las fracciones anteriores.
 
@@ -2063,61 +2107,49 @@ En los casos considerados por este artículo, se procederá de oficio contra el 
 
 ### CAPITULO I BIS. DELITOS CONTRA LA INTIMIDAD SEXUAL
 
-> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
 
-232 Ter.- Comete el delito de violación a la intimidad sexual, quien por cualquier medio divulgue, comparta, distribuya, compile, comercialice, solicite, publique o amenace con publicar, imágenes, audios o videos de una persona parcial o totalmente desnuda; de contenido erótico o sexual, ya sea impreso, grabado o digital, sin el consentimiento de la víctima.
-
-Al responsable de este delito se le sancionará de cuatro a ocho años de prisión y multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización.
-
-Este delito se perseguirá por querella de parte ofendida.
-
-Las penas se aumentarán en una mitad en su mínimo y máximo cuando:
-
-I. Haya existido entre el activo y la víctima una relación sentimental, afectiva, de confianza, de parentesco por consanguinidad o afinidad; de matrimonio; de concubinato; noviazgo o cualquier otra relación de hecho o amistad;
-
-II. El sujeto activo haya tenido con la víctima una relación laboral, social o política;
-
-III. Se cometa en contra de una persona que no comprenda el significado del hecho;
-
-IV. Se cometa en contra de una persona en condición de vulnerabilidad;
-
-V. La víctima sea menor de edad;
-
-VI. Se amenace con la publicación o se ofrezca el bloqueo de la difusión del contenido a cambio de una prestación sexual o económica, y
-
-VII. Un medio de comunicación impreso o digital compile o reproduzca estos contenidos o los haga públicos.
-
-En los supuestos anteriores el delito se perseguirá de oficio.
+232 Ter.- Comete el delito de violación a la intimidad sexual, quien por cualquier medio produzca, divulgue, comparta, distribuya, compile, comercialice, solicite, publique o amenace con publicar, imágenes, audios o videos de una persona parcial o totalmente desnuda; de contenido erótico o sexual, ya sea impreso, grabado o digital, sin el consentimiento, aprobación o autorización de la víctima.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE AGOSTO DE 2018)</small>
 
 ### CAPITULO II. ACOSO Y HOSTIGAMIENTO SEXUAL
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
 
-233.- Comete el delito de acoso sexual, quien lleve a cabo conductas verbales, no verbales, físicas o varias de ellas, de carácter sexual y que sean indeseables para quien las recibe, con independencia de que se cause o no un daño a su integridad física o psicológica; se le sancionará con seis meses a dos años de prisión y de cincuenta a trescientas veces la Unidad de Medida y Actualización diaria en el momento de la comisión del delito.
+233.- Comete el delito de acoso sexual, quien lleve a cabo conductas verbales, no verbales, físicas o varias de ellas, de carácter sexual y que sean indeseables para quien las recibe, independientemente de que se cause o no un daño a su integridad física o psicológica, se le sancionará con una pena de uno a tres años de prisión y de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se cometió el delito.
 
-Este delito se perseguirá por querella; cuando el sujeto activo sea reincidente se perseguirá de oficio.
+Este delito se perseguirá por querella.
 
-Si la víctima del delito de acoso sexual fuera menor de edad o, incapaz o no tenga la capacidad de comprender el significado del hecho o posibilidad para resistir la conducta delictuosa, se aplicará de dos a cinco años de prisión y de cien a seiscientas veces la Unidad de Medida y Actualización diaria.
+Si el sujeto pasivo fuera un niño, niña o adolescente o persona que no tenga la capacidad para comprender el significado del hecho, la pena se duplicará y el delito se perseguirá de oficio.
+
+De la misma forma, cuando el sujeto activo cuente con antecedente documentado o querella, el delito se perseguirá de oficio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
+
+233 Bis.- Al que a través de internet, teléfono móvil o cualquier tecnología de la información y comunicación, contacte a un niño, niña o adolescente para obtener contenido sexual o pornográfico del niño, niña o adolescente, lo produzca, divulgue, comparta, distribuya, compile, comercialice, publique o amenace con publicar por cualquier medio o concertar un encuentro sexual con el mismo, independientemente de que se cause o no, un daño a su integridad física o psicológica, se le impondrá una pena de seis meses a tres años de prisión y multa de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se cometió el delito.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+Cuando el contacto se haga a través del engaño o la violencia física o moral, o bien, cuando exista una relación de parentesco, trabajo, amistad, docencia o de confianza, entre la víctima y el imputado, la pena se aumentará hasta en una mitad más.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
 
-233 bis. Al que a través de internet, teléfono móvil o cualquier tecnología de la información y comunicación, contacte a un menor de edad para obtener contenido sexual o pornográfico del menor y amenace con difundirlo por cualquier medio o concertar un encuentro sexual con el mismo, se le impondrá una pena de cinco meses a tres años de prisión y multa de diez a cincuenta cuotas.
-
-Cuando el contacto se haga a través del engaño o la violencia física o moral, o bien, cuando exista una relación de parentesco, trabajo o amistad entre la víctima y el imputado, la pena se aumentará hasta en una mitad más.
-
 Se sancionarán tales conductas con independencia de que pudiere resultar cualquier otro delito.
 
-> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
 
-233 ter.- Comete el delito de hostigamiento sexual quien con fines lascivos asedie a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá pena de uno a cuatro años de prisión y multa de cien a seiscientas veces la Unidad de Medida y Actualización diaria en el momento de la comisión del delito.
+233 Ter.- Comete el delito de hostigamiento sexual quien con fines lascivos asedie a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá pena de dos a ocho años de prisión y multa de cien a seiscientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se cometió el delito. Este delito se perseguirá por querella.
 
-En el caso de que fuere Servidor Público, además se le sancionará con la destitución e inhabilitación por un periodo al de la pena de prisión impuesta para desempeñar cargo o comisión pública.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
 
-Se aplicará de tres a siete años de prisión y de doscientos a ochocientas veces la Unidad de Medida y Actualización diaria, cuando la víctima del hostigamiento sexual sea menor de edad o incapaz o no tenga la capacidad de comprender el significado del hecho o posibilidad para resistir la conducta delictuosa.
+Si el sujeto pasivo fuera un niño, niña o adolescente o persona que no tenga la capacidad para comprender el significado del hecho, la pena se duplicará y el delito se perseguirá de oficio.
 
-Sólo se procederá en contra del sujeto activo a petición de parte ofendida o de su legítimo representante.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+Cuando el sujeto activo se tratara de un servidor público, docente o parte del personal administrativo de cualquier institución educativa pública o privada, o de asistencia social, y utilice los medios o circunstancias que el propio encargo le proporcione, el delito se perseguirá de oficio y además de la pena que corresponda, se le destituirá de su cargo y se le inhabilitará por un periodo igual al de la pena de prisión impuesta.
+
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2016)</small>
 
@@ -2147,9 +2179,9 @@ Si entre el activo y el pasivo de la violación existiera un vínculo matrimonia
 
 237.- Se equiparará a la violación y se sancionará con la misma pena:
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-I. Al que sin violencia realice cópula con persona menor de doce años de edad; en este caso la sanción será de diez a veinticinco años de prisión y multa de veinte a cien cuotas.
+I. Al que sin violencia realice cópula con persona menor de quince años de edad; en este caso la sanción será de diez a treinta años de prisión y multa de cuarenta a doscientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se cometió el delito.
 
 Si se ejerciera violencia física o moral, la pena se aumentará hasta dos años.
 
@@ -2161,9 +2193,9 @@ Si se ejerciera violencia física o moral, a la pena impuesta se aumentarán has
 
 III. Al que introduzca por vía vaginal o anal cualquier elemento o instrumento distinto al miembro viril, por medio de la violencia física o moral, excepto en menores de doce años donde no es necesario la violencia, sea cual fuere el sexo del ofendido, se le impondrá una pena de seis a quince años de prisión y multa de veinte a cien cuotas, independientemente de la pena que corresponda por el delito de lesiones que pudiera resultar.
 
-> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-IV. A quien tenga cópula con persona mayor de doce años y menor de dieciocho obteniendo su consentimiento por medio del engaño, se le aplicará de tres a seis años de prisión y multa de doscientas a trescientos sesenta y cinco cuotas.
+IV. A quien tenga cópula con persona mayor de dieciséis años y menor de dieciocho obteniendo su consentimiento por medio del engaño, se le aplicará de tres a seis años de prisión y multa de doscientas a trescientos sesenta y cinco cuotas.
 
 Para los efectos de los delitos de violación y los equiparables a la violación contemplados en los artículos 236 y 237, no gozarán del beneficio de la libertad provisional bajo caución.
 
@@ -2267,9 +2299,9 @@ Si la víctima fuere mayor de 12 años y menor de 18, la sanción podrá increme
 
 ### CAPITULO VII. ABANDONO DE FAMILIARES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
 
-251.- Al que sin motivo justificado incumpla con la obligación alimentaria respecto de sus hijos, cónyuge, o de cualquier otro familiar, sin ministrarle los recursos para atender las necesidades señaladas en los artículos 265 y 266 del Código Familiar, se le aplicará prisión de dos a cinco años y multa de doscientas a trescientas sesenta y cinco cuotas
+251.- Al que sin motivo justificado incumpla con la obligación alimentaria respecto de sus hijos, cónyuge, o de cualquier otro familiar, sin ministrarle los recursos para atender las necesidades señaladas en los artículos 265 y 266 del Código Familiar, se le aplicará prisión de cinco a ocho años y multa de doscientas cincuenta a trescientas sesenta y cinco cuotas.
 
 > <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2015)</small>
 
@@ -2321,21 +2353,21 @@ Para los efectos del párrafo anterior, el Ministerio Público se pronunciará, 
 
 ### CAPITULO VIII. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO [N. DE E. ANTES 254-A], P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
 
-254 Bis.- Violencia familiar es el uso del poder, de la fuerza física o moral, así como la omisión grave, en contra de un miembro de la familia por otro integrante de la misma, con la intención de someterla a su dominio, o de dañar su integridad física, psíquica o sexual, independientemente de que pueda o no causar lesiones, o de que resulte cualquier otro delito.
+254 Bis.- Violencia familiar es el uso del poder, de la fuerza física o moral, así como la omisión grave, de manera reiterada, en contra de un miembro de la familia por otro integrante de la misma, con la intención de someterla a su dominio, o de dañar su integridad física, psíquica, sexual, económica o patrimonial, independientemente de que pueda o no causar lesiones, o de que resulte cualquier otro delito.
 
 > <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
 
 Para los efectos de lo dispuesto en este Capítulo, se entenderá por violencia en todas sus modalidades, lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Zacatecas.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
 
-254 Ter.- Comete el delito de violencia familiar, el cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; o en línea trasversal hasta el cuarto grado; pariente por afinidad hasta el segundo grado; el adoptante o el adoptado, independientemente que habiten o no en el mismo domicilio.
+254 Ter.- Comete el delito de violencia familiar, el cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; o en línea trasversal hasta el cuarto grado; pariente por afinidad hasta el segundo grado; el adoptante o el adoptado, por personas que ejerzan la tutela, curatela, o bien, que tengan o hayan tenido alguna relación afectiva o sentimental de hecho, independientemente que habiten o no en el mismo domicilio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
 
-254 Quater.- A quien cometa el delito de violencia familiar se le impondrá de seis meses a seis años de prisión, multa de cinco a cincuenta cuotas y perderá el derecho a pensión alimenticia, en su caso.
+254 Quáter.- A quien cometa el delito de violencia familiar se le impondrá de dos a seis años de prisión, multa de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se cometió el delito.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE JUNIO DE 2016)</small>
 
@@ -2347,27 +2379,69 @@ También se incurrirá en este delito cuando la violencia se cometa fuera del do
 
 Asimismo, quien cometa el delito de violencia familiar se sujetará a tratamiento psicoterapéutico reeducativo especializado para personas agresoras que refiere la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Zacatecas, el que en ningún caso excederá del tiempo impuesto en la pena de prisión.
 
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE JUNIO DE 2022)</small>
 
-Los delitos previstos en este Capítulo, se perseguirán por querella excepto cuando:
+Los delitos previstos en este Capítulo, se considerarán graves y se perseguirán de oficio cuando:
 
-I. La víctima sea menor de edad, incapaz o no tenga la capacidad de comprender el significado del hecho o posibilidad para resistir la conducta delictuosa;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+I. La víctima sea niño, niña o adolescente o persona que no tenga la capacidad para comprender el significado del hecho o posibilidad para resistir la conducta delictuosa;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2016)</small>
 
 II. La víctima sea mayor de sesenta años de edad;
 
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2016)</small>
+
 III. La víctima sea mujer en estado de embarazo o durante los tres meses posteriores al parto;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2016)</small>
 
 IV. Se cometa con la participación de dos o más personas;
 
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2016)</small>
+
 V. Se cometa con el uso de armas de fuego o punzocortantes;
 
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2016)</small>
+
 VI. Se deje cicatriz permanente en alguna parte del cuerpo;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2016)</small>
 
 VII. Se tengan documentados antecedentes o denuncia de violencia familiar cometidos por el mismo agresor contra la víctima; o
 
 > <small>(REFORMADA, P.O. 4 DE MAYO DE 2022)</small>
 
 VIII. Exista imposibilidad material de la víctima de denunciar o se cometa violencia vicaria.
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+IX. La persona agresora viva con sus padres y la agresión se dirija a uno de ellos;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+X. La persona agresora haya quebrantado medidas de protección o cautelares, tendientes éstas a la protección de la víctima;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XI. La persona agresora consuma alguna droga, estupefaciente o padezca de alcoholismo recurrente;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XII. La persona agresora pertenezca a alguna institución policial de seguridad pública, o realice funciones de seguridad aun y cuando sean temporales;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XIII. La persona agresora posea o porte armas, o
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+XIV. La persona agresora tenga algún padecimiento psiquiátrico.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+A quien cometa el delito de violencia familiar grave a que se refiere éste artículo, se le impondrán de tres a ocho años de prisión, multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se cometió el delito.
 
 > <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
 
@@ -2379,7 +2453,27 @@ Las punibilidades previstas en este Capítulo, se aplicarán independientemente 
 
 I.- Cuando la violencia familiar se cometa en contra de los parientes de la concubina o del concubinario, siempre y cuando, lo sean por consanguinidad o por afinidad hasta el segundo grado;
 
-II.- Cuando sin existir relación de parentesco, el sujeto pasivo sea un menor de edad, incapacitado, discapacitado, anciano, o cualquier otra persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado, siempre y cuando el autor de la violencia y la víctima habiten en el mismo domicilio.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+II.- Cuando sin existir relación de parentesco, el sujeto pasivo sea un menor de edad, persona con discapacidad, adulto mayor, o cualquier otra persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado, siempre y cuando el autor de la violencia y la víctima habiten en el mismo domicilio.
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+III.- Cuando se tenga una relación de hecho o la haya tenido en un periodo de hasta dos años antes de la comisión del acto u omisión.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN III, P.O. 8 DE JUNIO DE 2022]</small>
+
+Se entenderá por relación de hecho, la que exista entre quienes:
+
+a) Mantengan una relación de pareja, aunque no vivan en el mismo domicilio;
+
+b) Se encuentren unidos por vínculos de padrinazgo o madrinazgo;
+
+c) Se incorporen a un núcleo familiar aunque no tengan parentesco con ninguno de sus integrantes;
+
+d) Tengan relación con los hijos de su pareja, siempre que no los hayan procreado en común, o
+
+e) Tengan relación con la pareja de alguno de sus progenitores.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2016)</small>
 
@@ -2467,11 +2561,19 @@ III.- Si lo que exigió fue que dejara de ejecutar un acto lícito, se le impond
 
 261.- Comete el delito de extorsión aquél que, con el ánimo de alcanzar un lucro o provecho, para sí o para otro, exija de otro dar, hacer, dejar de hacer o tolerar algo, utilizando para ello la amenaza de causarle un daño moral, físico o patrimonial en su persona o en la persona de otro.
 
-Al que comete el delito de extorsión se le impondrá de dos a diez años de prisión y multa de cincuenta a cien cuotas.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
 
-Cuando el delito se cometa en contra de persona mayor de sesenta años de edad, se impondrán de tres a catorce años de prisión y multa de cien a doscientas cuotas.
+Al que comete el delito de extorsión se le impondrá de tres a catorce años de prisión y multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se cometió el delito.
 
-Las penas se aumentarán en dos terceras partes cuando el delito se realice por un servidor público, integrante o ex integrante de una corporación de seguridad pública o privada. Se impondrá además, en estos casos, la destitución del empleo o cargo público y se le inhabilitará de cinco a diez años para desempeñar cargo o comisión públicos.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+Las penas se aumentaran en dos terceras partes cuando el delito se realice por una persona que se encuentre privada de su libertad en un centro de reinserción social, un servidor público, integrante o exintegrante de una corporación de seguridad pública o privada.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+En el caso del servidor público o integrante de una corporación de seguridad pública, se le impondrá, además, la destitución del empleo o cargo público y se le inhabilitara de cinco a diez años para desempeñar cargo o comisión públicos.
 
 Las penas contenidas en este artículo se aplicarán con independencia de las que correspondan por otros delitos que resulten.
 
@@ -2739,6 +2841,10 @@ VII.- Cuando dolosamente se ejecuten por envenenamiento, contagio, asfixia o est
 
 VIII.- Cuando se cometan en lugar concurrido por personas ajenas a los hechos y que pudieren resultar muertas o lesionadas.
 
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+IX.- Cuando se cometan con odio.
+
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
 302.- Se impondrá prisión de seis a doce años y multa de cien a doscientas cuotas, al que cometa homicidio por encontrarse en un estado transitorio de grave conmoción emocional, motivado por alguna agresión a sus sentimientos afectivos o al honor de sus padres, hijos, cónyuge o al suyo propio. Exceptuándose al delito de feminicidio.
@@ -2779,9 +2885,9 @@ Al que cometa este delito se le aplicarán de seis a doce años de prisión y mu
 
 ### CAPITULO VII BIS. FEMINICIDIO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
 
-309 Bis.- Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. A quien cometa el delito de feminicidio se le impondrán de veinte a cincuenta años de prisión y multa de doscientas a trescientas sesenta y cinco cuotas.
+309 Bis.- Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. A quien cometa el delito de feminicidio se le impondrán de treinta a cincuenta años de prisión y multa de trescientas a trescientas sesenta y cinco veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se cometió el delito.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2016)</small>
 
@@ -2795,9 +2901,9 @@ I. La victima presente signos de violencia sexual de cualquier tipo;
 
 II. A la víctima se le hayan infligido lesiones o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia:
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-III. Existan antecedentes o datos de cualquier tipo de violencia de género del sujeto activo en contra de la víctima; se entenderá por violencia de género en los términos definidos por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+III. Existan antecedentes o datos de cualquier tipo de violencia de género del sujeto activo en contra de la víctima, en cualquiera de sus tipos y modalidades; se entenderá por violencia de género en los términos definidos por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
 
 > <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2016)</small>
 
@@ -4120,5 +4226,13 @@ P.O. 4 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 95.- REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE ZACATECAS, DEL CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS Y DEL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS".]
 
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 8 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 798.- SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
