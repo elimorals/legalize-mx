@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-atencion-de-los-zacatecanos-migrantes-y-sus-130413"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-29"
-last_updated: "2018-08-29"
+last_updated: "2022-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130413&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA LA ATENCIÓN DE LOS ZACATECANOS MIGRANTES Y SUS FAMILIAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
 
 Ley publicada en el Suplemento 2 del Periódico Oficial del Estado de Zacatecas, el miércoles 29 de agosto de 2018.
 
@@ -61,7 +61,9 @@ Las disposiciones de la presente Ley son de orden público, interés social, obs
 
 I. Promover y difundir los derechos de los migrantes y sus familias, de conformidad con lo estipulado por la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales en la materia suscritos por el Estado Mexicano y la Constitución Política del Estado Libre y Soberano de Zacatecas;
 
-II. Establecer las políticas públicas para los migrantes y sus familias, con el fin de reconocer y proteger su desarrollo integral;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+II. Establecer las políticas públicas para los migrantes y sus familias, con especial énfasis en niños y niñas migrantes, con el fin de reconocer y proteger su desarrollo integral;
 
 III. Establecer los principios y criterios que orienten el diseño e instrumentación de políticas públicas estatales y municipales en materia de atención a los migrantes y sus familias;
 
@@ -81,9 +83,15 @@ I. El ejercicio de la ciudadanía deberá ajustarse a las previsiones de la Cons
 
 II. El respeto a la dignidad humana;
 
-III. A la no discriminación por razón de sexo, preferencia sexual, origen étnico, raza, color, credo religioso, edad, idioma, ideología política, posición social o económica o cualquier otra condición, incluyendo su condición migratoria, y
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-IV. El respeto pleno a los derechos y libertades fundamentales de las personas migrantes.
+III. A la no discriminación por razón de sexo, preferencia sexual, origen étnico, raza, color, credo religioso, edad, idioma, ideología política, posición social o económica o cualquier otra condición, incluyendo su condición migratoria;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+IV. A la no discriminación en el acceso, otorgamiento y beneficio de los programas y políticas públicas que los entes públicos implementen para la atención de los migrantes, con especial énfasis tratándose de niñas y niños, y
+
+V. El respeto pleno a los derechos y libertades fundamentales de las personas migrantes.
 
 ###### Artículo 3.
 
@@ -289,7 +297,11 @@ VI. La Secretaría de Economía, en calidad de Vocal;
 
 VII. La Comisión de Atención a Migrantes de la Legislatura del Estado, y
 
-VIII. Tres Presidencias Municipales que, de acuerdo con el INEGI, tengan muy alto grado de intensidad migratoria.
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+VIII. La Comisión de Derechos Humanos del Estado de Zacatecas, y
+
+IX. Tres Presidencias Municipales que, de acuerdo con el INEGI, tengan muy alto grado de intensidad migratoria.
 
 Cada uno de los titulares podrá nombrar un suplente con, al menos, funciones de dirección en cada una de las instituciones.
 
@@ -307,7 +319,9 @@ III. La Secretaría de Economía;
 
 IV. El Instituto Nacional de Migración;
 
-V. La Comisión de Derechos Humanos del Estado;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+
+V. Las Presidencias Municipales que no formen parte del Consejo, de conformidad con la fracción VIII del artículo 13 de la presente Ley;
 
 VI. Las universidades públicas y privadas que dentro de su programa académico cuenten con programas especializados en sociología, estudios de migración o similares, y
 
@@ -333,15 +347,25 @@ VI. Impulsar la celebración de convenios con distintos Entes Públicos de todos
 
 VII. Proponer ante las instituciones académicas y educativas la realización de estudios, diagnósticos y estrategias para atender los problemas que enfrentan las personas migrantes y sus familias;
 
-VIII. Emitir su reglamentación interna, y
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
 
-IX. Las demás que determine el Reglamento de esta Ley y otras disposiciones jurídicas y administrativas aplicables.
+VIII. Solicitar se informe al Consejo, cada seis meses, sobre las acciones que se realizan por parte de los entes públicos del Poder Ejecutivo, a favor de los migrantes y sus familias;
+
+IX. Emitir su reglamentación interna, y
+
+X. Las demás que determine el Reglamento de esta Ley y otras disposiciones jurídicas y administrativas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
 
 ###### Artículo 16.
 
-El Consejo sesionará, por lo menos, tres veces al año de manera ordinaria; y de forma extraordinaria cuantas veces sea necesario para el desahogo de los asuntos que le competan.
+El Consejo sesionará, por lo menos, cuatro veces al año de manera ordinaria; y de forma extraordinaria cuantas veces sea necesario para el desahogo de los asuntos que le competan.
 
 El desarrollo de las sesiones, así como las facultades y obligaciones de sus integrantes serán establecidos en su reglamentación interna.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2022)</small>
+
+El Consejo, a través de la Secretaría Ejecutiva, deberá enviar a la Comisión de Atención a Migrantes de la Legislatura del Estado un informe sobre las sesiones del Consejo, acompañando la minuta o acta de cada una de ellas.
 
 ### CAPÍTULO III. ATRIBUCIONES DE LOS AYUNTAMIENTOS
 
@@ -512,3 +536,13 @@ DADO en la Sala de Sesiones de la Honorable Legislatura del Estado de Zacatecas,
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 Dado en el despacho del Poder Ejecutivo del Estado, a los dieciséis días del mes de julio del año dos mil dieciocho. GOBERNADOR DEL ESTADO DE ZACATECAS.- ALEJANDRO TELLO CRISTERNA. SECRETARIA GENERAL DE GOBIERNO.- FABIOLA GILDA TORRES RODRÍGUEZ. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO 800.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA ATENCIÓN DE LOS MIGRANTES Y SUS FAMILIAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan al presente Decreto
