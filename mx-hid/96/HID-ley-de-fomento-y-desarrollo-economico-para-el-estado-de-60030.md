@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-y-desarrollo-economico-para-el-estado-de-60030"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2021-09-13"
+last_updated: "2022-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO Y DESARROLLO ECONÓMICO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2022.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -671,17 +671,23 @@ Las actividades sujetas a fomento serán susceptibles de estímulos en concordan
 
 Para obtener cualquier apoyo o estímulo, las unidades económicas interesadas deberán presentar ante la Secretaría la solicitud correspondiente y cumplir con los requerimientos y normatividad establecida.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2022)</small>
+
 ###### Artículo 57.
 
-Para el otorgamiento de apoyos y/o estímulos, tanto a unidades económicas ya establecidas, como a las de nueva creación, que se deriven de esta Ley o de los programas para el fomento y desarrollo económico en la Entidad, se deberán considerar algunos de los siguientes criterios:
+Para el otorgamiento de apoyos y/o estímulos, tanto a unidades económicas ya establecidas, como a las de nueva creación, que se deriven de esta Ley o de los programas para el fomento y desarrollo económico en la Entidad, se deberán considerar, según corresponda, los siguientes criterios:
 
 I.- El número de nuevos empleos directos a generar;
 
 II.- El monto de las nuevas inversiones productivas, particularmente en las zonas y Municipios de menor desarrollo relativo de la Entidad;
 
-> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2022)</small>
 
-II Bis.- Contraten preferentemente personas adultas mayores, con discapacidad y/o jóvenes.
+II Bis.- La composición de la plantilla laboral, que incluya personas adultas mayores, personas con discapacidad, jóvenes y/o mujeres;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2022)</small>
+
+II Ter.- Las empresas propiedad de mujeres; empresas con mujeres integrantes en el grupo de propietarios; empresas con mujeres en puestos directivos y empresas cuya plantilla laboral está conformada en su mayoría por mujeres;
 
 III.- La remuneración estimada de los nuevos empleos;
 
@@ -882,3 +888,9 @@ PRIMERO.- El presente Decreto entra en vigor a partir del día siguiente de su p
 SEGUNDO.- El Ejecutivo Estatal en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, deberá emitir las reglas de operación y demás disposiciones para su cumplimiento
 
 TERCERO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin en el ejercicio fiscal 2022.
+
+P.O. 9 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 206 QUE REFORMA Y ADICIONA EL ARTÍCULO 57 LA LEY DE FOMENTO Y DESARROLLO ECONÓMICO PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
