@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2022-03-10"
+last_updated: "2022-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2022.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -39,11 +39,11 @@ El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que
 
 A N T E C E D E N T E S
 
-[...]
+[…]
 
 C O N S I D E R A N D O
 
-[...]
+[…]
 
 En tal contexto, el Dictamen que contiene la Ley de Educación del Estado de Hidalgo, se armoniza con lo dispuesto en la Ley General de Educación, actualizando supuestos y ámbitos de competencia, que permite construir un ordenamiento jurídico eficaz y actualizado en beneficio de las y los hidalguenses.
 
@@ -239,9 +239,17 @@ VIII. Inculcar el respeto por la naturaleza, a través de la generación de capa
 
 IX. Fomentar la honestidad, el civismo y los valores necesarios para transformar la vida pública del país y del Estado de Hidalgo;
 
-X. Propiciar el crecimiento y desarrollo en las regiones, municipios, comunidades, y en general del Estado de Hidalgo; y
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2022)</small>
 
-XI. Todos aquellos que contribuyan al bienestar y desarrollo del país y del Estado de Hidalgo.
+X. Propiciar el crecimiento y desarrollo en las regiones, municipios, comunidades, y en general del Estado de Hidalgo;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2022)</small>
+
+XI. Fomentar la enseñanza y aprendizaje integral del idioma inglés, sin menoscabo de la enseñanza del español y de lenguas indígenas; y
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2022)</small>
+
+XII. Todos aquellos que contribuyen al bienestar y desarrollo del país y del Estado de Hidalgo.
 
 ###### Artículo 15.
 
@@ -1207,6 +1215,10 @@ I. Planear, instrumentar, ejecutar y evaluar las políticas educativa y deportiv
 
 II. Prestar los servicios de educación básica incluyendo la indígena, inclusiva, así como la normal y demás para la formación docente;
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2022)</small>
+
+II Bis. Promover la inclusión en los servicios de educación básica la impartición del idioma inglés, en todos los grados;
+
 III. Vigilar que las autoridades escolares cumplan con las normas en materia de fortalecimiento de las capacidades de administración escolar que emita la Secretaría;
 
 IV. Proponer a la Autoridad Educativa Federal los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestras y maestros de educación básica;
@@ -2122,3 +2134,9 @@ P.O. 10 DE MARZO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 9 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 205 QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 14 Y SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 14, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE, Y UNA FRACCIÓN II BIS AL ARTÍCULO 116, AMBOS DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
