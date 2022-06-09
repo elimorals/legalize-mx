@@ -4,7 +4,7 @@ identifier: "HID-ley-de-seguridad-publica-para-el-estado-de-hidalgo-103533"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-10"
-last_updated: "2020-03-30"
+last_updated: "2022-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2020.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 30 DE MARZO DE 2020 NO APLICA AL ARTICULADO DEL DECRETO 391 PUBLICADO EN EL P.O. DE 23 DE MARZO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2022.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -1337,7 +1335,15 @@ La conclusión del servicio de los integrantes de las instituciones policiales, 
 
 I. Separación, por incumplimiento a cualquiera de los requisitos de permanencia.
 
-II. Remoción o cese, por incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus deberes, de conformidad con lo establecido en la Ley y demás ordenamientos jurídicos de la materia relativos al régimen disciplinario, o
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2022)</small>
+
+II. Remoción o cese por:
+
+a) Incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus deberes, de conformidad con lo establecido en la Ley y demás ordenamientos jurídicos de la materia relativos al régimen disciplinario;
+
+b) Incurrir en faltas administrativas graves de las previstas en el Capítulo II del Título Tercero de la Ley General de Responsabilidades Administrativas, cuando así lo determine la autoridad administrativa competente; o
+
+c) Haber sido condenado por sentencia ejecutoriada como responsable de delito doloso o delito culposo calificado como grave por la ley.
 
 III. Baja, por:
 
@@ -2057,6 +2063,10 @@ X. Daños producidos a otros integrantes de las Instituciones Policiales.
 
 Las sanciones se impondrán por conducto de la Comisión de Honor mediante el procedimiento disciplinario, que se sujetará a lo establecido en el Reglamento de Honor y Justicia, el cual deberá considerar el estricto apego a las disposiciones legales aplicables y observará en todo momento las formalidades esenciales del procedimiento.
 
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2022)</small>
+
+Independientemente de lo anterior, si se advierte la existencia de un hecho posiblemente constitutivo de delito o falta administrativa grave, la Comisión de Honor deberá hacerlo del conocimiento de las autoridades competentes.
+
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 109.
@@ -2759,9 +2769,15 @@ VII. Diversidad. Consiste en considerar las necesidades y circunstancias especí
 
 VIII. Proximidad. Comprende la resolución pacífica de conflictos, con estrategias claras, coherentes y estables, de respeto a los derechos humanos, promoción de la cultura de la paz y sobre la base del trabajo social comunitario, así como del contacto y participación permanente con los actores sociales y comunitarios;
 
-IX. Diagnóstico participativo. Análisis que permite identificar los problemas que afectan a la sociedad en materia de violencia y delincuencia, cuya identificación deriva de un estudio al fenómeno de la delincuencia tomando en consideración sus causas, factores de riesgo, consecuencias que afectan a la población, incluyendo a las autoridades, ciudadanos y comunidades organizadas, así como aquellas medidas y acciones que permitan mitigar el fenómeno de la delincuencia, y
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2022)</small>
+
+IX. Diagnóstico participativo. Análisis que permite identificar los problemas que afectan a la sociedad en materia de violencia y delincuencia, cuya identificación deriva de un estudio al fenómeno de la delincuencia tomando en consideración sus causas, factores de riesgo, consecuencias que afectan a la población, incluyendo a las autoridades, ciudadanos y comunidades organizadas, así como aquellas medidas y acciones que permitan mitigar el fenómeno de la delincuencia.
 
 X. Transparencia y rendición de cuentas. Que consiste en la observancia de las normas que en la materia, establezcan los ordenamientos legales aplicables.
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2022)</small>
+
+XI. Trabajo conjunto. Comprende el desarrollo de acciones conjuntas con las autoridades de los distintos órdenes de gobierno, así como de los diferentes sectores y grupos de la sociedad civil organizada y no organizada, así como la comunidad académica de manera solidaria, para que contribuyan a la prevención social de la violencia y la delincuencia y al mejoramiento de la calidad de vida.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE OCTUBRE DE 2019)</small>
 
@@ -3142,3 +3158,9 @@ P.O. 23 DE MARZO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Los procedimientos de honor y justicia que hayan sido iniciados antes de la entrada en vigor del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Seguridad Pública para el Estado de Hidalgo publicado en el Periódico Oficial del Estado de Hidalgo del 07 (siete) de octubre del 2019 (dos mil diecinueve), se resolverán conforme a las disposiciones legales aplicables al momento de la comisión de los hechos que les dieron origen.
+
+P.O. 9 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 207 QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 56 Y IX DEL ARTÍCULO 163; Y ADICIONA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 108 Y LA FRACCIÓN XI DEL ARTÍCULO 163 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
