@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2022-06-06"
+last_updated: "2022-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2022.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -2039,6 +2039,10 @@ III.- Estar presente en todas las sesiones del Ayuntamiento con derecho a voz;
 
 IV.- Expedir las copias, credenciales y demás certificaciones y documentos que acuerde el Presidente Municipal;
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2022)</small>
+
+IV BIS.- Expedir constancias de residencia a quienes habiten en el municipio por una temporalidad menor a un año;
+
 V.- Refrendar con su firma los documentos oficiales suscritos por el Presidente Municipal;
 
 VI.- Formular y presentar al Presidente Municipal la relación mensual de expedientes resueltos en dicho plazo, o que se encuentren pendientes de resolución, con mención sucinta del asunto en cada caso;
@@ -3307,9 +3311,17 @@ V.- Dar a conocer a las autoridades competentes los hechos y poner a disposició
 
 VI.- Expedir a petición de autoridad o de parte interesada, certificaciones de hechos de las actuaciones que realicen;
 
-VII.- Llevar un libro de registro, en el cual se asiente lo actuado en cada caso; y
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2022)</small>
 
-VIII.- Mantener informado al Presidente Municipal de lo ocurrido durante el ejercicio de sus funciones.
+VII.- Llevar un libro de registro, en el cual se asiente lo actuado en cada caso;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2022)</small>
+
+VIII.- Mantener informado al Presidente Municipal de lo ocurrido durante el ejercicio de sus funciones; y
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2022)</small>
+
+IX.- Conceder y, con auxilio de la policía municipal aplicar, órdenes de protección a mujeres víctimas de violencia. En el ejercicio de esta función deberá considerar la notoria urgencia del caso, así como, lo dispuesto en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Hidalgo respecto de estas medidas de protección.
 
 ###### ARTÍCULO 163.
 
@@ -3928,3 +3940,15 @@ P.O. 6 DE JUNIO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 203 QUE REFORMA LAS FRACCIONES VII Y VIII, Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 162 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 9 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 204 QUE ADICIONA LA FRACCIÓN IV BIS AL ARTÍCULO 98 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
