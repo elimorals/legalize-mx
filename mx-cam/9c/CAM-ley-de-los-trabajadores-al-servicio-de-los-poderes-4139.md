@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-trabajadores-al-servicio-de-los-poderes-4139"
 country: "mx"
 rank: "ley"
 publication_date: "1979-09-11"
-last_updated: "2021-01-18"
+last_updated: "2022-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4139&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "CAM"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 11 de septiembre de 1979.
 
@@ -235,17 +235,23 @@ DIA DE DESCANSO.- Por cada seis días de trabajo, el trabajador disfrutara de un
 
 ARTICULO TRIGESIMO.- PERIÓDO PRENATAL. Las mujeres embarazadas disfrutarán de un mes y medio de descanso antes de la fecha fijada para el parto y un mes y medio después del mismo, con goce de sueldo íntegro, y a petición de parte, podrán disponer de quince días laborables continuos adicionales de descanso, estos últimos serán sin goce de sueldo. A solicitud expresa de la trabajadora, previa autorización escrita del médico de la institución de seguridad social que le corresponda o, en su caso, del servicio de salud que otorgue la entidad pública, tomando en cuenta la opinión de ésta y la naturaleza del trabajo que desempeñe, se podrá transferir hasta un mes de descanso previo al parto para después del mismo. En caso de que los hijos hayan nacido con cualquier tipo de discapacidad o requieran atención médica hospitalaria, el descanso podrá ser de hasta dos meses posteriores al parto, previa presentación del certificado médico correspondiente. En caso de que se presente autorización de médicos particulares, ésta deberá contener el nombre y número de cédula profesional de quien los expida, la fecha y el estado médico de la trabajadora. Durante la lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos.
 
-Los trabajadores del sexo masculino tendrán derecho a un permiso por paternidad con goce de sueldo por cinco días laborables continuos, contados a partir del nacimiento del hijo con objeto de atender las necesidades de su cónyuge o concubina después del parto, y a petición de parte, podrán disponer de cinco días laborables continuos adicionales de descanso, estos últimos serán sin goce de sueldo. Para hacer uso de este derecho se deberá presentar el comprobante de alumbramiento o nacimiento del hijo, dentro de los tres días hábiles siguientes.
+> <small>(REFORMADO, 9 DE JUNIO DE 2022)</small>
+
+Los trabajadores del sexo masculino tendrán derecho a una licencia de paternidad con goce de sueldo por quince días laborables continuos, contados a partir del nacimiento del hijo con objeto de atender las necesidades de su cónyuge o concubina después del parto, y a petición del hombre trabajador, podrán disponer de quince días laborables continuos adicionales, sin goce de sueldo. Para hacer uso de este derecho se deberá presentar el comprobante de alumbramiento o nacimiento del hijo, dentro de los tres días hábiles siguientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, 9 DE JUNIO DE 2022)</small>
+
+ARTÍCULO TRIGÉSIMO BIS.- PERMISOS PARA LOS PADRES TRABAJADORES. Las trabajadoras tendrán derecho a una licencia de maternidad de un mes y medio con goce de sueldo, en caso de adopción de un infante, contados a partir de la entrega física del menor. En el caso de los trabajadores tendrán derecho a una licencia de paternidad de quince días laborables continuos con goce de sueldo en el caso de la adopción de un infante, contadas a partir de la entrega física del menor, circunstancia que deberá acreditarse con el documento emitido por la autoridad correspondiente y, a petición de parte, podrán disponer de quince días laborables continuos adicionales de descanso, estos últimos serán sin goce de sueldo. Cuando no se ejerza el derecho a gozar del permiso por paternidad o adopción, en ningún caso podrá reclamarse pago compensatorio alguno derivado de dicha situación.
 
 > <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
-ARTICULO TRIGESIMO BIS.- PERMISOS PARA LOS PADRES TRABAJADORES.
-
-Las trabajadoras tendrán derecho a un permiso de un mes y medio con goce de sueldo, en caso de adopción de un infante, contados a partir de la entrega física del menor. En el caso de los trabajadores tendrán derecho de un permiso de cinco días laborables continuos con goce de sueldo en el caso de la adopción de un infante, contadas a partir de la entrega física del menor, circunstancia que deberá acreditarse con el documento emitido por la autoridad correspondiente y, a petición de parte, podrán disponer de cinco días laborables continuos adicionales de descanso, estos últimos serán sin goce de sueldo. Cuando no se ejerza el derecho a gozar del permiso por paternidad o adopción, en ningún caso podrá reclamarse pago compensatorio alguno derivado de dicha situación.
-
 Todos los trabajadores tendrán derecho de un permiso con goce de sueldo para acudir una vez al mes a reuniones escolares de sus hijos que se encuentren cursando educación preescolar, primaria, secundaria y media superior; para justificar este permiso, bastará con presentar constancia de asistencia expedida por el centro educativo, dentro de los tres días hábiles siguientes.
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
+
 Las trabajadoras o los trabajadores que acrediten tener hijos cursando educación preescolar o primaria, podrán gozar de un permiso con goce de sueldo hasta por sesenta minutos para ausentarse de su centro de labores con el fin de acudir a la institución escolar a retirar a sus hijos al concluir el horario de clases del día. Para ejercer esta prestación deberá presentarse la constancia de inscripción correspondiente en la que se especificará el horario de clases, debiendo hacerse el trámite por escrito ante el área administrativa que corresponda, cuyo encargado resolverá sobre la petición cuidando que no se quebrante la prestación del servicio público de que se trate.
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
 Estas prestaciones si no se ejercen, no son acumulativas ni retroactivas.
 
@@ -892,3 +898,11 @@ P.O. 18 DE ENERO DE 2021.
 Primero. El presente decreto entrará en vigor a los tres días después de su publicación en el Periódico Oficial del Estado de Campeche.
 
 Segundo. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 9 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 72 POR EL QUE “SE REFORMAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO TRIGÉSIMO Y EL PÁRRAFO PRIMERO DEL ARTÍCULO TRIGÉSIMO BIS DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO. El presente decreto entrará en vigor a los quince días siguiente (sic) de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido de este decreto.
