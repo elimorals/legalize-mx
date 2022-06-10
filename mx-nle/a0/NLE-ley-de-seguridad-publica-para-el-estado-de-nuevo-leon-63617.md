@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2021-12-24"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -454,6 +454,20 @@ Además dicha Secretaría emitirá un código rojo que permitirá identificar a 
 Además de lo establecido en el artículo anterior, el municipio procurará otorgar las medidas de vigilancia y seguridad necesarias de los grupos de personas que recorren en vehículos o camiones a los estadios o lugares en donde se celebren competencias deportivas, así como establecer estrategias para que estos recorridos no entorpezcan la vialidad.
 
 La Seguridad Pública tendrá la obligación de brindar las facilidades necesarias para la realización de desfiles, caravanas, manifestaciones, peregrinaciones o cualquier otro tipo de concentración humana de carácter político, religioso, deportivo, recreativo o social con finalidad lícita que puedan originar conflictos viales o alterar el orden público. Los organizadores de los eventos señalados para efecto de que se les pueda brindar dichas facilidades darán aviso por escrito a la autoridad Municipal con al menos 3 días hábiles antes del inicio de su celebración, de lo cual se llevará registro.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+###### Artículo 32 Bis 2.
+
+Dentro de los eventos a que se refiere el artículo anterior deberá haber una coordinación institucional entre las autoridades competentes del Estado, y del municipio donde se efectúe dicho evento.
+
+Para prevenir y atender cualquier acción que se suscite a las afueras o alrededores del evento se podrán utilizar los medios tecnológicos de la información y comunicación que tiene a su disposición la Secretaría de Seguridad Pública Estatal y Municipal que corresponda para monitorear cualquier hecho de violencia que se suscite y poder identificar los factores que lo ocasionaron.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+###### Artículo 32 Bis 3.
+
+Las autoridades correspondientes, contarán con protocolos de acción, reacción y contingencia, articulado entre los cuerpos de auxilio, los cuerpos de seguridad pública del Estado y los Municipios en cuestión, y los cuerpos de seguridad privada que estén al interior y exterior del inmueble donde se lleve (sic) cabo el evento para la debida atención y cuidado de los asistentes.
 
 ### CAPÍTULO SEGUNDO. DEL CONSEJO DE COORDINACIÓN DEL SISTEMA INTEGRAL DE SEGURIDAD PÚBLICA DEL ESTADO
 
@@ -3902,3 +3916,9 @@ P.O. 24 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 023. SE ADICIONA CON UN SEGUNDO Y TERCER PÁRRAFO EL ARTÍCULO 198 BIS 30 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN; Y SE REFORMA EL ARTÍCULO 81 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 128. SE ADICIONAN LOS ARTÍCULOS 32 BIS 2 Y 32 BIS 3 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
