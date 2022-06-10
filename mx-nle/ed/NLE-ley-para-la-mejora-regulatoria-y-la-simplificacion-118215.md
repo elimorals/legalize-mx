@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-mejora-regulatoria-y-la-simplificacion-118215"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-18"
-last_updated: "2022-01-12"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA MEJORA REGULATORIA Y LA SIMPLIFICACIÓN ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 18 de enero de 2017.
 
@@ -927,41 +927,61 @@ VII. Las demás que le sean encomendadas.
 
 La VUC se someterá a certificación y evaluación al menos cada 3 años a través del Programa de Reconocimiento y Operación de la VUC operado por la COFEMER.
 
-#### SECCIÓN TERCERA. DE LA VENTANILLA ÚNICA MUNICIPAL DE ATENCION A TRAMITES CIUDADANOS (VUMAT)
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JUNIO DE 2022)</small>
+
+#### SECCIÓN TERCERA. DE LA VENTANILLA ÚNICA DE ATENCIÓN A TRÁMITES CIUDADANOS (VUAT) Y DE LA VENTANILLA ÚNICA MUNICIPAL DE ATENCIÓN A TRÁMITES CIUDADANOS (VUMAT)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 67.
 
-En los municipios que integran el área metropolitana del Estado, Se creará preferentemente, la VUMAT como mecanismo de coordinación municipal para atender en un solo sitio todas las gestiones ciudadanas en relación a aquellos tramites que no involucren una atención personalizada especializada por parte de las dependencias municipales.
+Se contará con un mecanismo de coordinación para atender en un solo sitio todas las gestiones ciudadanas para la realización de trámites y servicios que no involucren una atención personalizada especializada por parte de las dependencias estatales o municipales y se compondrá de la siguiente forma:
 
-La VUMAT será la encargada de recibir, validar y gestionar la totalidad de requisitos correspondientes a los trámites municipales involucrados en la emisión de permisos, licencias, autorizaciones y demás gestiones que requiera la ciudadanía, brindando asesoría y orientación que ellos requieran. La VUMAT contemplará los siguientes elementos:
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-l. Un espacio físico o electrónico y único donde se gestionarán todos los trámites municipales involucrados que no requieran de una atención personalizada especializada;
+I. El Gobierno Estatal creará la Ventanilla Única de Atención a Trámites Ciudadanos (VUAT); y
 
-II. Manual de operación de la VUMAT en el que se describa el proceso interno de resolución, coordinación con otras dependencias e interacciones con el usuario; y
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2017)</small>
+II. Los Municipios que integran el área metropolitana crearán la Ventanilla Única Municipal de Atención a Trámites Ciudadanos (VUMAT).
 
-III. Resolución máxima en un plazo no mayor de 45 días hábiles de todos los trámites municipales que no involucren una atención personalizada especializada.
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 10 DE JUNIO DE 2022)</small>
+
+La VUMAT será la encargada de recibir, validar y gestionar la totalidad de requisitos correspondientes a los trámites municipales involucrados en la emisión de permisos, licencias, autorizaciones y demás gestiones que requiera la ciudadanía, brindando asesoría y orientación que ellos requieran. La VUMAT y la VUAT contemplarán los siguientes elementos:
+
+I. Un espacio físico o electrónico y único donde se gestionarán todos los trámites y servicios que presta el Estado y los Municipios, según corresponda, que no involucren una atención personalizada especializada;
+
+II. Manuales de operaciones de la VUMAT y la VUAT, en los que se describa el proceso interno de resolución, coordinación con otras dependencias e interacciones con el usuario; y
+
+III. Resolución por parte de la autoridad en un plazo no mayor de 30 días hábiles
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 68.
 
-El Ayuntamiento Municipal previo estudio y análisis, aprobará todos aquellos trámites que puedan ser resueltos desde la VUMAT a fin de simplificar la gestión e interacción del ciudadano con la autoridad municipal, cuya operación deberá regirse bajo los siguientes principios:
+El Gobierno Estatal y el Ayuntamiento Municipal previo estudio y análisis, aprobará todos aquellos trámites que puedan ser resueltos desde la VUAT y la VUMAT a fin de simplificar la gestión e interacción del ciudadano con la autoridad municipal, cuyas operaciones deberán regirse bajo los siguientes principios:
 
 l. Contribuir al proceso de actualización y perfeccionamiento constante e integral del marco jurídico y regulatorio local;
 
-II. Reducir el número de trámites, plazos de respuesta de los sujetos obligados, y/o requisitos y formatos, así como cualquier acción de simplificación que los particulares deben cubrir para el cumplimiento de sus obligaciones o la obtención de un servicio, privilegiando el uso de herramientas tecnológicas;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+II. Reducir el número de trámites y plazos de respuesta de los sujetos obligados; homologar los requisitos y/o formatos; guardar y proteger la información suministrada a la VUAT y la VUMAT por los particulares, así como cualquier acción de simplificación que los particulares deben cubrir para el cumplimiento de sus obligaciones o la obtención de un servicio, privilegiando el uso de herramientas tecnológicas;
 
 III. Promover una mejor atención al usuario y garantizar claridad y simplicidad en las regulaciones y trámites;
 
 IV. Promover mecanismos de coordinación y concertación entre los sujetos obligados, en la consecución del objeto que la Ley plantea;
 
-V. En la integración de la VUMAT se tomará en cuenta la opinión de la comunidad, debiendo prever procedimientos de simplificación de los trámites municipales para garantizar el oportuno cumplimiento de los objetivos de esta ventanilla; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+V. En la integración de la VUMAT y VUAT se tomará en cuenta la opinión de la comunidad, debiendo prever procedimientos de simplificación de los trámites municipales para garantizar el oportuno cumplimiento de los objetivos de estas ventanillas, según corresponda; y
 
 VI. El Ayuntamiento municipal deberá exigir a la comisión Municipal establecer reportes periódicos de avances e indicadores de la VUMAT para dar seguimiento a la implementación del Programa Anual y evaluar sus resultados, los cuales se harán públicos en los portales del Municipio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2022)</small>
+
 ###### Artículo 69.
 
-La VUMAT será el único espacio físico o electrónico en donde los ciudadanos deberán acudir para gestionar los trámites señalados por la autoridad municipal, y contará con las siguientes atribuciones:
+La VUAT será el principal espacio físico y/o electrónico al que los ciudadanos tendrán acceso para gestionar los trámites ante la autoridad estatal. La VUMAT será el principal espacio físico y/o electrónico al que los ciudadanos tendrán acceso para gestionar los trámites ante la autoridad municipal, y contarán ambas con las siguientes atribuciones:
 
 l. Verificar la documentación entregada por el usuario y orientarle en caso de entregar documentación incorrecta e insuficiente para el trámite que desea realizar;
 
@@ -971,11 +991,25 @@ III. Recibir los resolutivos y vistos buenos emitidos por las áreas competentes
 
 IV. Brindar asesoría, información y estatus del proceso de los trámites relacionados;
 
-V. Recibir mediante las cajas autorizadas por la tesorería municipal el pago de derechos que corresponda a los trámites realizados;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-VI. Brindar la documentación necesaria para dar el resolutivo final por parte de la autoridad; y
+V. Procurar recibir mediante transferencia bancaria y cajas autorizadas por la Secretaría de Finanzas y Tesorería General del Estado y Tesorerías Municipales para el pago de derechos que correspondan a los trámites realizados;
 
-VII. Las demás que le sean encomendadas.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+VI. Brindar la documentación necesaria para dar el resolutivo final por parte de la autoridad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2022)</small>
+
+VII. La VUAT podrá recopilar la información de los ciudadanos en la plataforma correspondiente, mediante la generación de perfiles seguros para mantener, proteger y preservar la información según corresponda, a la cual se tendrá acceso con la firma electrónica que determine el Gobierno del Estado;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+VIII. Consultar información sobre el estado de los trámites y servicios, así como las notificaciones que se deriven de dichos trámites, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2022)</small>
+
+VIII (SIC). Las demás que le sean encomendadas.
 
 ### CAPÍTULO SÉPTIMO. DE LAS INSPECCIONES Y VERIFICACIONES
 
@@ -1452,3 +1486,15 @@ P.O. 12 DE ENERO DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Gobierno del Estado y los 51 Municipios del Estado de Nuevo León, en un plazo no mayor a 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, deberá realizar las reformas necesarias para ajustar sus Reglamentos a las disposiciones de este Decreto.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 158. SE REFORMA LA DENOMINACIÓN DE LA SECCIÓN TERCERA, DEL CAPÍTULO SEXTO, DEL TÍTULO TERCERO, PARA ENUNCIARSE “DE LA VENTANILLA ÚNICA DE ATENCIÓN A TRÁMITES CIUDADANOS (VUAT) Y DE LA VENTANILLA ÚNICA MUNICIPAL DE ATENCIÓN A TRÁMITES CIUDADANOS (VUMAT)”, EL PÁRRAFO PRIMERO, EL PÁRRAFO SEGUNDO Y SUS FRACCIONES I, II Y III DEL ARTÍCULO 67, EL PÁRRAFO PRIMERO Y LAS FRACCIONES II Y V DEL ARTÍCULO 68, EL PÁRRAFO PRIMERO Y LAS FRACCIONES V, VI, VII DEL ARTÍCULO 69; Y POR ADICIÓN LAS FRACCIONES I Y II AL PÁRRAFO PRIMERO DEL ARTÍCULO 67, Y LAS FRACCIONES VIII Y IX AL ARTÍCULO 69, TODOS DE LA LEY DE MEJORA REGULATORIA Y LA SIMPLIFICACIÓN ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A más tardar a los 180 días naturales siguientes a la entrada en vigor del presente Decreto, el Ejecutivo Estatal y los Ayuntamientos deberán de expedir la reglamentación correspondiente para cumplir con las obligaciones previstas en el presente Decreto.
+
+TERCERO.- A más tardar a los 180 días naturales siguientes a la entrada en vigor del presente Decreto, el Ejecutivo Estatal deberá expedir la reglamentación correspondiente para la expedición de la Firma electrónica para el acceso y consentimiento de los trámites y servicios que soliciten los ciudadanos.
+
+CUARTO.- Las erogaciones que, en su caso, deriven de la entrada en vigor del presente Decreto para las dependencias y órganos de la Administración Pública deberán cubrirse con cargo a su presupuesto.
