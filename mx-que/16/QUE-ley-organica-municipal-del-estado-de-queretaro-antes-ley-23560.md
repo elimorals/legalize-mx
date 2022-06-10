@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2021-06-02"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
@@ -579,11 +579,17 @@ XXXIV. Coadyuvar con los Sistemas Nacional y Estatal Anticorrupción, así como 
 
 XXXV. Designar al titular del Órgano Interno de Control del Municipio;
 
-> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-XXXVI. Coadyuvar con el aprovisionamiento a los cuerpos voluntarios de bomberos que comprueben estar legalmente constituidos en el Estado y operen en su territorio, de acuerdo a las necesidades que acrediten éstos y atendiendo a las condiciones y suficiencia presupuestal con que cuente el Municipio; y
+XXXVI. Coadyuvar con el aprovisionamiento a los cuerpos voluntarios de bomberos que comprueben estar legalmente constituidos en el Estado y operen en su territorio, de acuerdo a las necesidades que acrediten éstos y atendiendo a las condiciones y suficiencia presupuestal con que cuente el Municipio;
 
-XXXVII. Las demás previstas en la Constitución Política de los Estados Unidos Mexicanos en la del Estado y en las leyes que de ambas se deriven.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2022)</small>
+
+XXXVII. Celebrar con la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro y demás instituciones de seguridad competentes en la entidad, convenios para la implementación de acciones y estrategias tendientes a la solución de conflictos de naturaleza vecinal con base en el empleo de mecanismos alternativos, en términos de las disposiciones jurídicas aplicables; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE JUNIO DE 2022)</small>
+
+XXXVIII. Las demás previstas en la Constitución Política de los Estados Unidos Mexicanos, en la del Estado y en las leyes que de ambas se deriven.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
@@ -809,7 +815,9 @@ II. DE HACIENDA, PATRIMONIO Y CUENTA PÚBLICA.- Cuya competencia será: presupue
 
 III. DE OBRAS Y SERVICIOS PÚBLICOS.- Cuya competencia será: dotación, distribución y tratamiento de aguas; desagüe, drenaje y red de alcantarillado; calles, parques, jardines y su equipamiento, y alumbrado públicos; zonas y monumentos de valor arquitectónico e histórico; inspección de construcciones particulares; obras peligrosas; saneamiento, recolección, traslado, tratamiento y disposición final de residuos y limpia de las poblaciones; construcción, mantenimiento, reparación y conservación de edificios municipales, tales como panteones, rastros, mercados y escuelas; rótulos, letreros y carteleras, y los demás asuntos que le señalen las leyes y los reglamentos.
 
-IV. DE SEGURIDAD PÚBLICA, TRÁNSITO Y POLICÍA PREVENTIVA.- Cuya competencia será: supervisión de funciones, desarrollo y desempeño del cuerpo de seguridad pública, policía preventiva y tránsito municipal; vigilar el funcionamiento de comisarías de correccionales; emitir opinión sobre los programas de seguridad pública y tránsito; velar por la preservación del orden público, y los demás que le señalen las leyes y los reglamentos.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+IV. DE SEGURIDAD PÚBLICA, TRÁNSITO Y POLICÍA DE PROXIMIDAD.- Cuya competencia será: supervisión de funciones, desarrollo y desempeño del cuerpo de seguridad pública, policía preventiva y tránsito municipal; vigilar el funcionamiento de comisarías de correccionales; emitir opinión sobre los programas de seguridad pública y tránsito; velar por la preservación del orden público, la implementación de mecanismos alternativos de solución de conflictos, y los demás que le señalen las leyes y los reglamentos.
 
 > <small>(REFORMADA, P.O. 3 DE MARZO DE 2006)</small>
 
@@ -1115,7 +1123,9 @@ XVIII. Coordinar funcionalmente las áreas de apoyo administrativo de las distin
 
 XIX. Los demás que le señalan las leyes y los reglamentos vigentes.
 
-### CAPÍTULO QUINTO. DE LA DEPENDENCIA ENCARGADA DE LA SEGURIDAD PÚBLICA, POLICÍA PREVENTIVA Y EL TRÁNSITO MUNICIPAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JUNIO DE 2022)</small>
+
+### CAPÍTULO QUINTO. DE LA DEPENDENCIA ENCARGADA DE LA SEGURIDAD PÚBLICA, POLICÍA DE PROXIMIDAD Y EL TRÁNSITO MUNICIPAL
 
 ###### ARTICULO 51.
 
@@ -1129,11 +1139,33 @@ III. Supervisar las funciones, desarrollo y desempeño del cuerpo de seguridad p
 
 IV. Emitir opinión respecto al mejoramiento de los planes de seguridad pública, prevención y tránsito;
 
-V. Velar por la preservación del orden público;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-VI. Acatar las órdenes que el Gobernador del Estado le trasmita cuando éste juzgue que existe caso de fuerza mayor o alteración grave del orden público; y
+V. Velar por la preservación del orden público, la seguridad, la tranquilidad de las personas y la implementación de mecanismos alternativos de solución de conflictos;
 
-VII. Las demás que le señalen los convenios, las leyes y los reglamentos aplicables.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+VI. Acatar las órdenes que el Gobernador del Estado le trasmita (sic) cuando éste juzgue que existe caso de fuerza mayor o alteración grave del orden público;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2022)</small>
+
+VII. Prevenir y en su caso intervenir, conforme a sus facultades legales respecto de la comisión de faltas administrativas;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+VIII. Incluir en los programas de formación y capacitación policial la materia de justicia cívica y justicia cotidiana, en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+IX. Cumplir en términos de las disposiciones jurídicas aplicables con sus funciones respecto de los procedimientos derivados de la comisión de infracciones relacionados con la justicia cívica;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+X. Auxiliar en el ámbito de su competencia, a los jueces cívicos en el ejercicio de sus funciones; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE JUNIO DE 2022)</small>
+
+XI. Las demás que le señalen los convenios, las leyes, los reglamentos y las demás disposiciones jurídicas aplicables.
 
 Cuando la realidad socioeconómica de un municipio lo haga necesario se podrán prestar los servicios de seguridad pública, policía preventiva y tránsito mediante estructuras administrativas independientes.
 
@@ -2129,9 +2161,31 @@ En caso de que la aportación sea en especie esta deberá valuarse por peritos d
 
 ### CAPÍTULO PRIMERO. DE LA JUSTICIA CÍVICA MUNICIPAL
 
-###### ARTICULO 131.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2022)</small>
 
-En cada Municipio funcionarán los Juzgados Cívicos necesarios a cargo de un Juez del mismo nombre y del número de agentes de policía requerido.
+###### ARTÍCULO 131.
+
+Los juzgados cívicos son los competentes, para conocer de las infracciones en materia de Justicia Cívica.
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+En cada Municipio, los Juzgados Cívicos estarán a cargo de un Juez quien contará con el personal auxiliar necesario para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+###### ARTÍCULO 131 Bis.
+
+Los juzgados cívicos podrán contar con al menos la siguiente estructura:
+
+I. Un juez cívico;
+
+II. Un secretario;
+
+III. Un médico;
+
+IV. El personal de vigilancia que se requiera para el desahogo de las funciones del Juzgado cívico, pudiendo solicitar el apoyo de la fuerza pública conforme a las disposiciones jurídicas aplicables; y
+
+V. El personal necesario para el cumplimiento de sus fines, de conformidad con la suficiencia presupuestaria y las disposiciones jurídicas aplicables.
 
 ###### ARTICULO 132.
 
@@ -2151,29 +2205,61 @@ IV. No haber sido sentenciado por delito doloso que merezca pena privativa de la
 
 V. No pertenecer al Estado eclesiástico ni ser ministro de algún culto religioso;
 
-VI. Ser honesto y tener notoria buena conducta; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-VII. Tener 25 años cumplidos al momento de su designación.
+VI. Ser honesto y tener notoria buena conducta;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2022)</small>
+
+VII. Acreditar las evaluaciones de control de confianza;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 10 DE JUNIO DE 2022)</small>
+
+VIII. Tener 25 años cumplidos al momento de su designación; y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+IX. Acreditar los exámenes y cursos en materia de justicia cívica, justicia cotidiana y demás correspondientes.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+Los jueces cívicos podrán ser removidos en el supuesto de que incumplan los requisitos previstos en este numeral.
 
 ###### ARTICULO 133.
 
 Los Jueces Cívicos serán los directamente responsables de la custodia de los detenidos y de la estricta observancia de las disposiciones que sobre el particular contenga el Reglamento respectivo y demás disposiciones legales aplicables.
 
-Los jueces determinarán sus sanciones de conformidad con lo que establece el Capítulo Segundo del Título IX de la presente Ley.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+Los jueces y las demás autoridades competentes determinarán sus sanciones de conformidad con lo que establece el Capítulo Segundo del Título IX de la presente Ley, los reglamentos gubernativos que para tal efecto emitan los ayuntamientos y las demás disposiciones jurídicas aplicables.
 
 ###### ARTICULO 134.
 
 Las obligaciones de los jueces cívicos y el funcionamiento interno de sus oficinas se regirán por reglamentos internos que al efecto emitan los ayuntamientos.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE JUNIO DE 2022)</small>
+
+### CAPÍTULO PRIMERO BIS. DE LA PARTICIPACIÓN COMUNITARIA
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+###### ARTÍCULO 134 Bis.
+
+Los Municipios podrán diseñar y promover programas y acciones tendientes al fortalecimiento de la cultura de la legalidad y la construcción de la paz con base en la convivencia armónica a través de la participación de la comunidad en colaboración con las autoridades competentes. Estos programas y acciones podrán estar orientados a:
+
+I. Procurar el acercamiento entre las autoridades y la comunidad, a fin de propiciar una mayor comprensión y participación en las funciones que desarrollan;
+
+II. Establecer vínculos permanentes con la sociedad civil organizada y la comunidad en general, para la identificación de problemas y fenómenos sociales que los aquejan, relacionados con la cultura de la legalidad;
+
+III. Establecer programas y acciones con la participación vecinal para la prevención de delitos y faltas administrativas, procurando la inclusión, perspectiva de género y transversalidad institucional; e
+
+IV. Impulsar el respeto de los derechos humanos, la cultura de la legalidad, la paz, el orden público, la convivencia cívica y la solidaridad social, a través de campañas de información y cursos formativos entre los órganos de representación ciudadana.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MARZO DE 2009)</small>
 
 ### CAPÍTULO SEGUNDO. DEL RECURSO DE REVISIÓN
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2017)</small>
-
-### CAPÍTULO PRIMERO. DE LA FACULTAD REGLAMENTARIA
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 135.
 
@@ -2321,7 +2407,9 @@ La tramitación de lo anterior no constituirá recurso, ni suspenderá el plazo 
 
 ## TÍTULO IX. DE LA NORMATIVIDAD MUNICIPAL
 
-### CAPÍTULO SEGUNDO. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPÍTULO PRIMERO. DE LA FACULTAD REGLAMENTARIA
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 146.
 
@@ -2433,11 +2521,13 @@ Cuando resulte indispensable y para mayor claridad de su contenido, un artículo
 
 En todo caso deberá motivarse la emisión de un reglamento y deberá fundamentarse en cuanto a la competencia del Ayuntamiento para su aprobación.
 
-### CAPÍTULO PRIMERO. DE LAS FALTAS Y LICENCIAS DE LOS SERVIDORES PÚBLICOS MUNICIPALES
+### CAPÍTULO SEGUNDO. DE LAS SANCIONES ADMINISTRATIVAS
 
-###### ARTICULO 156.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2022)</small>
 
-Las infracciones administrativas que establezcan los municipios en sus Reglamentos, bandos y demás disposiciones municipales de observancia general, se limitarán a las siguientes sanciones:
+###### ARTÍCULO 156.
+
+Las infracciones administrativas que dispongan los municipios en sus Reglamentos, bandos y demás disposiciones municipales de observancia general, establecerán las siguientes sanciones:
 
 I. Amonestación;
 
@@ -2451,11 +2541,25 @@ IV. Suspensión temporal;
 
 V. Clausura;
 
-VI. Revocación de la concesión, la licencia o permiso; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-VII. Inhabilitación temporal o definitiva para ejercer licencia, permiso o concesión similar.
+VI. Revocación de la concesión, la licencia o permiso;
 
-La aplicación de la sanción se hará en función de la gravedad de la infracción cometida conforme, lo establezca el reglamento respectivo.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+VII. Inhabilitación temporal o definitiva para ejercer licencia, permiso o concesión similar; y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+VIII. Trabajo a favor de la comunidad.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+Las sanciones a los infractores se aplicarán sin perjuicio de la responsabilidad administrativa, fiscal, civil o penal en la que pudieran incurrir.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+Después de transcurridos 20 días hábiles siguientes a partir de la notificación de la resolución administrativa en la que se imponga el trabajo a favor de la comunidad, se podrán aplicar las medidas de apremio conforme a las disposiciones jurídicas aplicables, a fin de asegurar el cumplimiento de la sanción.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
@@ -2469,9 +2573,7 @@ La aplicación de las sanciones corresponderá al Presidente Municipal y a las a
 
 ## TÍTULO X. DE LA SUPLENCIA Y RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS MUNICIPALES
 
-### CAPÍTULO SEGUNDO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS MUNICIPALES
-
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+### CAPÍTULO PRIMERO. DE LAS FALTAS Y LICENCIAS DE LOS SERVIDORES PÚBLICOS MUNICIPALES
 
 ###### ARTICULO 159.
 
@@ -2493,7 +2595,7 @@ Para cubrir las faltas absolutas de los miembros del Ayuntamiento, serán llamad
 
 Las faltas temporales y definitiva de las autoridades auxiliares municipales serán suplidas por quienes designe el Ayuntamiento.
 
-### CAPÍTULO TERCERO. DE LA ACCIÓN POPULAR
+### CAPÍTULO SEGUNDO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS MUNICIPALES
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
@@ -2511,7 +2613,9 @@ Las responsabilidades en que incurran los servidores públicos municipales, los 
 
 (DEROGADO, P.O. 18 DE ABRIL DE 2017)
 
-### CAPÍTULO PRIMERO. DE LA ASESORÍA Y LOS CONVENIOS
+### CAPÍTULO TERCERO. DE LA ACCIÓN POPULAR
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 166.
 
@@ -2547,7 +2651,7 @@ El ayuntamiento, en términos de la presente Ley, atenderá de manera permanente
 
 ## TÍTULO XI. DE LA COLABORACIÓN Y LA RESOLUCIÓN DE CONFLICTOS ENTRE MUNICIPIOS Y EL ESTADO
 
-### CAPÍTULO SEGUNDO. DE LA RESOLUCIÓN DE CONFLICTOS
+### CAPÍTULO PRIMERO. DE LA ASESORÍA Y LOS CONVENIOS
 
 ###### ARTICULO 173.
 
@@ -2561,7 +2665,7 @@ Las diversas dependencias y organismos de los Poderes del Estado, auxiliarán y,
 
 Por acuerdo de los ayuntamientos, los municipios podrán celebrar convenios de colaboración con el Estado con el objeto de lograr la mejor prestación de servicios públicos, realización de obras públicas, su control, vigilancia y operación. De la misma forma podrán celebrarlos para la recaudación y administración de su hacienda.
 
-### CAPÍTULO PRIMERO. DEL PATRIMONIO CULTURAL
+### CAPÍTULO SEGUNDO. DE LA RESOLUCIÓN DE CONFLICTOS
 
 ###### ARTICULO 176.
 
@@ -2575,7 +2679,7 @@ Los conflictos derivados de la relación entre municipios de la Entidad, entre a
 
 ## TÍTULO XII. DEL PATRIMONIO CULTURAL DE LOS MUNICIPIOS
 
-### CAPÍTULO SEGUNDO. DEL CRONISTA MUNICIPAL
+### CAPÍTULO PRIMERO. DEL PATRIMONIO CULTURAL
 
 ###### ARTICULO 178.
 
@@ -2583,9 +2687,7 @@ Los municipios están obligados a conservar los documentos históricos y monumen
 
 El Presidente Municipal nombrará al responsable del Archivo Histórico Municipal, para la custodia, guarda, conservación y difusión del acervo documental.
 
-### CAPÍTULO ÚNICO. DE LA GACETA MUNICIPAL
-
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+### CAPÍTULO SEGUNDO. DEL CRONISTA MUNICIPAL
 
 ###### ARTICULO 179.
 
@@ -2598,6 +2700,10 @@ La designación del Cronista Municipal deberá recaer en una persona destacada p
 ## TÍTULO XIII
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+### CAPÍTULO ÚNICO. DE LA GACETA MUNICIPAL
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 180.
 
@@ -3152,3 +3258,43 @@ Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a 
 ###### ARTÍCULO TERCERO.
 
 Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE SEGURIDAD Y JUSTICIA CÍVICA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley comenzará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+La Ley del Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro entrará en vigor el 01 de julio del 2022.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias hechas a la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro previstas en otros ordenamientos jurídicos, se entenderán a favor del organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro, serán concluidos con todos sus alcances, efectos y facultades por el organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro o, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+El organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, iniciará sus funciones 60 días hábiles posteriores al inicio de la vigencia de su Ley.
+
+Los recursos humanos, materiales y financieros con que cuenta la Subsecretaría de Prevención Social y Atención a Víctimas, la Dirección de Prevención Social de la Violencia y la Delincuencia, así como la Dirección de Mecanismos Alternativos de Solución de Controversias y Conflictos y el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, se trasladarán al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro.
+
+Los trabajadores de la Subsecretaría de Prevención Social y Atención a Víctimas, la Dirección de Prevención Social de la Violencia y la Delincuencia, así como de la Dirección de Mecanismos Alternativos de Solución de Controversias y Conflictos y el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, por virtud de la presente Ley, se transferirán al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, serán concluidos con todos sus alcances, efectos y facultades por el organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro o, atendiendo a su competencia.
+
+###### ARTÍCULO SEXTO.
+
+El Director General del organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, deberá realizar de inmediato los trámites correspondientes para la obtención de los registros fiscales y administrativos que exijan las disposiciones legales, para la debida operación de la entidad paraestatal, así como de las cuentas bancarias, convenios y demás instrumentos jurídicos con instituciones públicas y privadas para el cumplimiento de su objeto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas del Poder Ejecutivo del Estado, realizará las adecuaciones presupuestales conforme a la disponibilidad financiera con que cuente para el presente ejercicio fiscal, a fin de dotar de los recursos materiales y financieros que permitan al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro el cumplimiento de la presente Ley.
