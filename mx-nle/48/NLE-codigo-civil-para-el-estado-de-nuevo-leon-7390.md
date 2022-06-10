@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2021-08-11"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -13313,6 +13313,14 @@ La aceptación de las donaciones se hará en la misma forma en que éstas deban 
 
 Es nula la donación que comprende la totalidad de los bienes del donante, si éste no se reserva en propiedad o en usufructo lo necesario para vivir según sus circunstancias.
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+###### Art. 2241 Bis.
+
+Cuando el o los donantes sean personas de sesenta años o más, el notario que expida el instrumento público de donación, estará obligado a informar al donante la posibilidad de incluir en el contrato una cláusula de usufructo vitalicio a su favor sobre los bienes otorgados a los donatarios, sin perjuicio de lo dispuesto en el artículo anterior.
+
+El donante, podrá revocar la donación, conforme al capítulo III, Título Cuarto de éste Código.
+
 ###### Art. 2242.
 
 Las donaciones serán inoficiosas en cuanto perjudiquen la obligación del donante de ministrar alimentos a aquellas personas a quienes los debe conforme a la ley.
@@ -17798,3 +17806,9 @@ P.O. 11 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 524. SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 727, LA FRACCIÓN I DEL ARTÍCULO 1446 BIS, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 2429, LA FRACCIÓN LL DEL ARTÍCULO 2449, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 2742 Y EL ARTÍCULO 2743 TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 27, LAS FRACCIONES I Y II Y EL PÁRRAFO TERCERO DEL ARTÍCULO 743, LA FRACCIÓN I DEL ARTÍCULO 781 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 2 DEL TÍTULO ESPECIAL DENOMINADO “DE LA JUSTICIA DE PAZ”, TODOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 141. SE ADICIONA UN ARTÍCULO 2241 BIS DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado de Nuevo León
