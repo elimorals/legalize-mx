@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-regula-la-expedicion-de-licencias-para-conducir-del-474
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-30"
-last_updated: "2020-12-30"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de diciembre de 2005.
 
@@ -219,9 +219,9 @@ En caso de trámites de reposición o renovación de las licencias para conducir
 
 Para la expedición de licencias especiales, reposición o renovación de las mismas, se deberá presentar a la autoridad estatal competente en materia de expedición de licencias la autorización de la Agencia, de acuerdo a lo dispuesto en la Ley de Transporte para la Movilidad Sustentable del Estado de Nuevo León.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
 
-El curso de manejo deberá incluir una presentación audiovisual, por medio de la cual se les informará con relación a los inconvenientes y consecuencias de conducir bajo el efecto de las bebidas alcohólicas o intoxicado con cualquier sustancia, además de incluir los riesgos de los accidentes que se pueden ocasionar cuando al conducir vehículos motores se utilice teléfono celular, radio o cualquier aparato de comunicación, ya sea para hablar o enviar cualquier tipo de mensajes de texto utilizando dispositivos móviles de comunicación.
+El curso de manejo deberá incluir una presentación audiovisual, por medio de la cual se les informará con relación a los inconvenientes y consecuencias de conducir a alta velocidad, en estado de voluntaria intoxicación ya sea bajo el efecto de las bebidas alcohólicas o intoxicado con cualquier sustancia, además de incluir los riesgos de los accidentes que se pueden ocasionar cuando al conducir vehículos motores se utilice teléfono celular, radio o cualquier aparato de comunicación, ya sea para hablar o enviar cualquier tipo de mensajes de texto utilizando dispositivos móviles de comunicación.
 
 ###### Artículo 15.
 
@@ -349,7 +349,9 @@ III. Por conducir en alguna de las referidas condiciones, por más de dos veces 
 
 IV. Por no acreditar haber acudido al menos al 90% de las sesiones de tratamiento decretadas, multa de 100 a 200 veces el valor diario de la Unidad de Medida y Actualización y suspensión de la licencia para conducir hasta por 18 meses.
 
-En todos los casos de infracciones con motivo de conducción en estado de voluntaria intoxicación que afecten la capacidad de manejo, el infractor se deberá comprometer a asistir a tratamiento o cursos de rehabilitación y acreditar su cumplimiento ante la autoridad competente. De no efectuar el compromiso o no acreditarlo, se le suspenderá la vigencia de la licencia para conducir hasta por 18 meses.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+En todos los casos de infracciones con motivo de conducción en estado de voluntaria intoxicación que afecten la capacidad de manejo, el infractor se deberá comprometer a asistir a tratamiento o cursos de rehabilitación, así como concientización de las consecuencias de conducir en estado de voluntaria intoxicación y deberá acreditar su cumplimiento ante la autoridad competente. De no efectuar el compromiso o no acreditarlo, se le suspenderá la vigencia de la licencia para conducir hasta por 18 meses.
 
 Tratándose de menores no emancipados que hayan cometido infracciones con motivo de conducción de vehículos en alguna de las condiciones señaladas en el primer párrafo de este artículo, se les cancelará la licencia para conducir o estarán inhabilitados para obtenerla hasta por doce meses, y en su caso el tratamiento o curso se acordará con quienes ejerzan la patria potestad o custodia, quienes deberán acompañar al infractor a dicho tratamiento o curso.
 
@@ -474,3 +476,11 @@ P.O. 30 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 137. SE REFORMA EL PÁRRAFO SEXTO DEL ARTÍCULO 14 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 20 BIS, TODOS DE LA LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se otorga un plazo de 60 días naturales a partir de la entrada en vigor del presente Decreto para que los Municipios lleven a cabo las adecuaciones a sus respectivos Reglamentos.
