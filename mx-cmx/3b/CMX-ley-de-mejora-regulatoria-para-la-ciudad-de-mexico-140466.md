@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-mejora-regulatoria-para-la-ciudad-de-mexico-140466"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-30"
-last_updated: "2019-12-30"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140466&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-12-27"
 
 LEY DE MEJORA REGULATORIA PARA LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE JUNIO DE 2022.
 
 Ley publicada en el Número 251 Bis de la Gaceta Oficial de la Ciudad de México, el lunes 30 de diciembre de 2019.
 
@@ -310,9 +310,17 @@ IV. Una persona Representante del Observatorio Nacional de Mejora Regulatoria;
 
 V. Una persona Representante de las confederaciones empresariales;
 
-VI. Una persona Representante de las cámaras empresariales, y
+> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
 
-VII. Una persona representante de las asociaciones empresariales.
+VI. Una persona Representante de las cámaras empresariales;
+
+> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
+
+VII. Una persona representante de las asociaciones empresariales y;
+
+> <small>(ADICIONADA, G.O. 10 DE JUNIO DE 2022)</small>
+
+VIII. La persona legisladora titular de la presidencia de la Comisión de Desarrollo Económico del Congreso de la Ciudad de México.
 
 Los integrantes señalados en las fracciones anteriores podrán nombrar a un suplente con las mismas atribuciones que el titular.
 
@@ -1163,3 +1171,13 @@ DÉCIMO SEGUNDO. Una vez que entre en funciones la Fiscalía General de Justicia
 Palacio Legislativo del Congreso de la Ciudad de México, a los trece días del mes de diciembre del año dos mil diecinueve.- POR LA MESA DIRECTIVA.- DIPUTADA ISABELA ROSALES HERRERA, PRESIDENTA.- DIPUTADA MARTHA SOLEDAD ÁVILA VENTURA, SECRETARIA.- DIPUTADA MARGARITA SALDAÑA HERNÁNDEZ, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos; 32 apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 3 fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21, párrafo primero, de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los veintisiete días del mes de diciembre del año dos mil diecinueve.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE LA CONTRALORÍA GENERAL, JUAN JOSÉ SERRANO MENDOZA.- FIRMA.- EL SECRETARIO DE CULTURA, JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, FADLALA AKABANI HNEIDE.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, ILEANA AUGUSTA VILLALOBOS ESTRADA.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUIZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- LA SECRETARIA DE INCLUSIÓN Y BIENESTAR SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA.- LA SECRETARIA DE LAS MUJERES, GABRIELA RODRÍGUEZ RAMÍREZ.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JESÚS ANTONIO ESTEVA MEDINA.- FIRMA.- LA SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES, LARISA ORTÍZ QUINTERO.- FIRMA.- LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, OMAR HAMID GARCÍA HARFUCH.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, HAYDEÉ SOLEDAD ARAGÓN MARTÍNEZ.- FIRMA.- EL SECRETARIO DE TURISMO, CARLOS MACKINLAY GROHMANN.- FIRMA.- EL CONSEJERO JURÍDICO Y DE SERVICIOS LEGALES, NÉSTOR VARGAS SOLANO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 13 DE LA LEY DE MEJORA REGULATORIA PARA LA CIUDAD DE MÉXICO".]
+
+Primero. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
