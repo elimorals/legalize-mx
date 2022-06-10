@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2022-06-03"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE JUNIO DE 2022.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -2938,7 +2938,7 @@ IV. Valiéndose el agente de identificaciones falsas o supuestas órdenes de la 
 
 V. Encontrándose la víctima o el objeto del apoderamiento en un vehículo particular o de transporte público;
 
-VI. Respecto de partes de vehículo automotriz;
+VI. (DEROGADA, G.O. 10 DE JUNIO DE 2022)
 
 VII. Por quien haya sido o sea miembro de algún cuerpo de seguridad ciudadana o personal operativo de empresas que presten servicios de seguridad privada, aunque no esté en servicio.
 
@@ -2959,6 +2959,10 @@ B) Se impondrá de cuatro a ocho años de prisión, cuando se trate de vehículo
 C) Se impondrá de cinco a nueve años de prisión cuando el robo se cometa en una oficina bancaria, recaudadora, u otra en que se conserven caudales o valores, o contra personas que las custodien o transporten.
 
 D) Cuando el robo se comenta (sic) en lugar habitado o destinado para habitación, o en sus dependencias, incluidos los movibles, se sancionará con pena de 4 a 10 años de prisión.
+
+> <small>(ADICIONADO, G.O. 10 DE JUNIO DE 2022)</small>
+
+E) Se impondrá de tres a siete años de prisión, cuando el robo se trate de partes de vehículos automotores.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE AGOSTO DE 2019)</small>
 
@@ -4766,23 +4770,37 @@ IV. En una barranca; o
 
 V. En un área verde en suelo urbano.
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 346.
 
-Se le impondrán de 2 a 6 años de prisión y de 1,000 a 5,000 días multa, a quien ilícitamente:
+Se le impondrán de 2 a 6 años de prisión y de 1,000 a 5,000 veces la Unidad de Medida y Actualización vigente, a quien ilícitamente:
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
 I. Emita gases o partículas sólidas o líquidas a la atmósfera, provenientes de fuentes fijas ubicadas en el Distrito Federal o de fuentes móviles que circulan en el Distrito Federal;
 
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
 II. Descargue, deposite o infiltre aguas residuales, residuos sólidos o industriales no peligrosos, líquidos químicos o bioquímicos;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
 III. Descargue, deposite o infiltre residuos sólidos, líquidos o industriales de manejo especial, conforme a lo previsto en las disposiciones jurídicas aplicables en el Distrito Federal;
 
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
 IV. Genere emisiones de energía térmica o lumínica, olores, ruidos o vibraciones, provenientes de fuentes fijas ubicadas en el Distrito Federal o de fuentes móviles que circulan en el Distrito Federal;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
 V. Realice actividades riesgosas de las previstas en las disposiciones jurídicas aplicables en el Distrito Federal; o
 
-VI. Genere, maneje o disponga residuos sólidos o industriales no peligrosos conforme a lo previsto en las disposiciones jurídicas aplicables en el Distrito Federal.
+> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
+
+VI. Genere, maneje o disponga residuos sólidos o industriales que no se encuentran contemplados en la fracción XXXII del artículo 5 de la Ley General para la Prevención y Gestión Integral de los Residuos en contravención de lo previsto en las disposiciones jurídicas aplicables para la Ciudad de México en materia de residuos.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 Las penas previstas en este artículo se impondrán siempre que se ocasionen daños a la salud de las personas o uno o más ecosistemas o sus elementos y se aumentarán en una mitad cuando las conductas descritas en las fracciones anteriores se realicen dentro de:
 
@@ -6315,3 +6333,19 @@ G.O. 3 DE JUNIO DE 2022.
 PRIMERO. - Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México para su conocimiento y difusión.
 
 SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE DEROGA LA FRACCIÓN VI DEL INCISO A) Y SE ADICIONA EL INCISO E), TODOS DEL ARTÍCULO 224 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
+
+Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA EL ARTÍCULO 346, PÁRRAFO PRIMERO Y LA FRACCIÓN VI, DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
