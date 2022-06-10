@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-organismo-publico-descentralizado-de-caracter-145352"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-27"
-last_updated: "2020-11-27"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145352&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DEL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO INSTITUTO DE POLITICAS PUBLICAS DEL ESTADO DE MEXICO Y SUS MUNICIPIOS - ANTES LEY DEL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO INSTITUTO DE ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO DE ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
+LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO DE POLÍTICAS PÚBLICAS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE JUNIO DE 2022.
 
 Ley publicada en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 27 de noviembre de 2020.
 
@@ -39,21 +39,31 @@ DECRETO NÚMERO 215
 
 Se expide la Ley del Organismo Público Descentralizado de Carácter Estatal Denominado Instituto de Administración Pública del Estado de México, para quedar como sigue:
 
-LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO DE ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE JUNIO DE 2022)</small>
+
+LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO DE POLÍTICAS PÚBLICAS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS
 
 ### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2022)</small>
+
 ###### Artículo 1.
 
-Se crea el Instituto de Administración Pública del Estado de México, como un organismo público descentralizado de carácter estatal, con personalidad jurídica y patrimonio propios, en adelante el Instituto, sectorizado a la Secretaría de Finanzas.
+Se crea el Instituto de Políticas Públicas del Estado de México y sus Municipios como un organismo público descentralizado de carácter estatal, con personalidad jurídica y patrimonio propios, en adelante el Instituto, sectorizado en la Secretaría de Finanzas.
+
+En su comunicación oficial y en los actos relativos al cumplimiento de su objeto, el Instituto se podrá ostentar con el acrónimo IAPEM.
+
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 2.
 
-El Instituto focalizará sus acciones en la administración pública y ciencias afines, con el propósito de impulsar el desarrollo y la innovación en la administración pública estatal y los municipios de la entidad.
+El Instituto tendrá por objeto el estudio de la teoría y práctica de la Administración Pública Aplicada y de las Políticas Públicas; el registro, sistematización, desarrollo e implementación de mejores prácticas y transferencia tecnológica en los municipios de la entidad, así como el diseño, propuesta y, en su caso, implementación de acciones relativas al fortalecimiento y actualización del marco jurídico e institucional de la administración pública estatal y municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 3.
 
-El Instituto tendrá por objeto diseñar, elaborar, proponer y, en su caso, implementar acciones relativas al fortalecimiento e impulso de la administración pública, para lo cual contará con las atribuciones siguientes:
+Para el cumplimiento de su objeto, el Instituto tendrá las atribuciones siguientes:
 
 I. Realizar y promover estudios sobre temas prioritarios de la administración pública y ciencias afines;
 
@@ -83,9 +93,21 @@ XIII. Organizar concursos, premios y actividades similares, a fin de reconocer a
 
 XIV. Publicar, difundir y dar a conocer por los medios disponibles, el avance y la problemática de temas relativos a la administración pública, para favorecer la cultura institucional, cívica y ética de las personas servidoras públicas, académicas e interesadas en la materia;
 
-XV. Promover la participación de las y los estudiantes de educación superior, de las personas prestadoras de servicio social, de quienes realicen prácticas profesionales, de personas becarias y de las y los pasantes en las actividades sustantivas del Instituto, y
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2022)</small>
 
-XVI. Realizar todas aquellas acciones necesarias para el cumplimiento de su objeto.
+XV. Promover la participación de las y los estudiantes de educación superior, de las personas prestadoras de servicio social, de quienes realicen prácticas profesionales, de las personas becarias y de las y los pasantes en las actividades sustantivas del Instituto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE JUNIO DE 2022)</small>
+
+XVI. Generar investigación aplicada para la resolución de problemas públicos; y poner al alcance de los gobiernos estatal y municipales metodologías que contribuyan a la toma de decisiones y acciones gubernamentales eficaces, transparentes y evaluables con indicadores claros y objetivos plasmados en evidencias; así como fortalecer las competencias en la gestión pública, llevando a la práctica transformaciones integrales, éticas y humanas;
+
+> <small>(ADICIONADA, G.G. 10 DE JUNIO DE 2022)</small>
+
+XVII. Recabar, analizar y sistematizar las propuestas de mejoramiento del servicio público municipal, así como registrar las mejores prácticas municipales, y llevar a cabo los estudios adaptativos al marco institucional, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 10 DE JUNIO DE 2022)</small>
+
+XVIII. Realizar todas aquellas acciones necesarias para el cumplimiento de su objeto.
 
 ### CAPÍTULO SEGUNDO. DE LA ORGANIZACIÓN DEL INSTITUTO
 
@@ -302,3 +324,17 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. ERNESTO NEMER ALVAREZ
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 68.- POR EL QUE SE REFORMA LA DENOMINACIÓN DE LA LEY, LOS ARTÍCULOS 1 Y 2, Y EL PRIMER PÁRRAFO Y LAS FRACCIONES XV Y XVI DEL ARTÍCULO 3, Y SE ADICIONAN LAS FRACCIONES XVII Y XVIII AL ARTÍCULO 3 DE LA LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO DE ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, financieras, presupuestales, contables de transferencia y documentación al Instituto de Administración Pública del Estado de México se entenderán hechas al Instituto de Políticas Públicas del Estado de México y sus Municipios.
+
+CUARTO. Las secretarías de Finanzas y de Contraloría, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del mismo en términos de las disposiciones jurídicas aplicables.
