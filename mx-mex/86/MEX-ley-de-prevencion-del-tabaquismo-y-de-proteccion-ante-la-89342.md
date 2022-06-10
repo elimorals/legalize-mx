@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-prevencion-del-tabaquismo-y-de-proteccion-ante-la-89342"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-31"
-last_updated: "2021-01-06"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE PREVENCIÓN DEL TABAQUISMO Y DE PROTECCIÓN ANTE LA EXPOSICIÓN AL HUMO DE TABACO EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE JUNIO DE 2022.
 
 Ley publicada en la Sección Quinta de la Gaceta de Gobierno del Estado de México, el viernes 31 de agosto de 2012.
 
@@ -53,9 +53,9 @@ Las disposiciones de esta Ley son de utilidad pública, orden público, interés
 
 La protección contra la exposición al humo de tabaco, y emisiones de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina, tiene las finalidades siguientes:
 
-> <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2022)</small>
 
-I. Proteger a la población en general contra la exposición al humo de tabaco, y las emisiones de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina en cualquier área física cerrada con acceso al público, lugares interiores de trabajo, vehículos de transporte público y en otros lugares públicos;
+I. Proteger a la población en general contra la exposición al humo de tabaco, y las emisiones de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina en cualquier lugar con acceso al público en forma libre o restringida, lugares de trabajo, vehículos de transporte público, espacios de concurrencia colectiva y en otros lugares públicos;
 
 > <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
 
@@ -99,7 +99,9 @@ Las instituciones policiales aplicarán también en el ámbito de su competencia
 
 Artículo 4 bis.- En la vigilancia para el cumplimiento de esta Ley, coadyuvarán:
 
-I. Los usuarios, propietarios, poseedores, responsables y empleados de lugares públicos cerrados, los lugares de trabajo interiores, medios de transporte público y otros lugares públicos exteriores, estos últimos de conformidad con el artículo 17 de la presente Ley;
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2022)</small>
+
+I. Los usuarios, propietarios, poseedores, responsables y empleados de lugares con acceso al público en forma libre o restringida, los lugares de trabajo, medios de transporte público y otros lugares públicos, estos últimos de conformidad con el artículo 17 de la presente Ley;
 
 II. Las autoridades educativas en las escuelas e instituciones escolares públicas o privadas;
 
@@ -111,7 +113,7 @@ IV. Los titulares de las unidades administrativas de las dependencias y organism
 
 Para efectos de esta Ley, se entiende por:
 
-I. Área física cerrada con acceso al público: Todo espacio cubierto por un techo o que tenga más de una pared o muro, independientemente del material utilizado para su construcción y de que la estructura sea permanente o temporal;
+I. (DEROGADA, G.G. 10 DE JUNIO DE 2022)
 
 II. Cigarrillo: Cigarro pequeño de picadura envuelta en un papel de fumar;
 
@@ -123,13 +125,13 @@ IV. Denuncia Ciudadana: A la notificación hecha a la autoridad competente por c
 
 V. Emisión: Sustancia producida y liberada cuando un producto de tabaco esté encendido o calentado, comprende nicotina, alquitrán, monóxido de carbono, así como la composición química que forman parte del humo de tabaco. En el caso de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina, se considera como emisión a todo vapor que se produce cuando se usan;
 
-> <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2022)</small>
 
-VI. Espacio al aire libre: Es aquel que no tiene techo ni está limitado entre más de una pared o muro, independientemente del material utilizado para su construcción y de que la estructura sea permanente o temporal. Para efectos de esta definición el concepto de techo no incluye sombrillas, las que deberán observar las características descritas en las disposiciones reglamentarias derivadas de la presente Ley;
+VI. Espacio de concurrencia colectiva: Todo espacio destinado al acceso público para el desarrollo de actividades deportivas, artísticas, culturales y de entretenimiento, tanto del ámbito público como privado, independientemente si está cubierto por un techo y confinado por paredes o que la estructura sea permanente o temporal;
 
-> <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2022)</small>
 
-VII. Espacio 100% libre de humo de tabaco: Área física cerrada con acceso al público o todo lugar de trabajo o de transporte público u otros lugares públicos, en los que por razones de orden público e interés social queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco o de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina;
+VII. Espacio 100% libre de humo de tabaco y emisiones: Área física con acceso al público o todo lugar de trabajo o de transporte público u otros lugares públicos, en los que por razones de orden público e interés social queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco o de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina;
 
 > <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
 
@@ -143,9 +145,9 @@ XI. Instituto: Instituto de Salud del Estado de México;
 
 XII. Ley: Ley de Prevención del Tabaquismo y de Protección ante la Exposición al Humo de Tabaco en el Estado de México;
 
-> <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2022)</small>
 
-XIII. Lugar de trabajo interior: Todo aquel espacio utilizado por las personas durante su empleo o trabajo, ya sea remunerado o voluntario, temporal o permanente. Incluye no sólo el sitio donde se realiza el trabajo, sino también todos los lugares conexos y anexos que los trabajadores suelen utilizar en el desempeño de su empleo, entre ellos, con carácter enunciativo pero no limitativo, pasillos, ascensores, cubos de escalera, vestíbulos, estacionamientos, instalaciones conjuntas, baños, lavabos, salones, comedores, cafeterías y edificaciones anexas tales como cobertizos, así como los vehículos que se utilizan para la transportación;
+XIII. Lugar de trabajo: Todo aquel espacio utilizado por las personas durante su empleo o trabajo, ya sea remunerado o voluntario, temporal o permanente. Incluye no sólo el sitio donde se realiza el trabajo, sino también todos los lugares conexos y anexos que los trabajadores suelen utilizar en el desempeño de su empleo, entre ellos, con carácter enunciativo pero no limitativo, pasillos, ascensores, cubos de escalera, vestíbulos, estacionamientos, instalaciones conjuntas, baños, lavabos, salones, comedores, cafeterías y edificaciones anexas tales como cobertizos, así como los vehículos que se utilizan para la transportación;
 
 > <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
 
@@ -269,25 +271,33 @@ III. El apoyo a los fumadores, cuando lo soliciten, para abandonar el consumo de
 
 ### CAPÍTULO CUARTO. DE LAS RESTRICCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 12.
 
-Queda prohibido a cualquier persona fumar o tener encendido cualquier producto del tabaco y de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina, en los espacios 100% libres de humo de tabaco, de acuerdo a lo establecido en la fracción VII del artículo 5 de esta Ley.
+Queda prohibido a cualquier persona fumar o tener encendido cualquier producto del tabaco y de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina, en los espacios 100% libres de humo de tabaco y emisiones, de acuerdo con lo establecido en la fracción VII del artículo 5 de esta Ley.
 
-Los propietarios, administradores, poseedores, encargados o responsables, deberán colocar en un lugar visible, letreros que indiquen la leyenda "espacio 100% libre de humo de tabaco", debiéndose incluir un número telefónico y dirección electrónica para denunciar el incumplimiento de lo establecido en la presente Ley, de conformidad con lo que establezcan las disposiciones generales aplicables.
+En lugares con acceso al público en forma libre o restringida, lugares de trabajo con o sin atención al público, públicos o privados, y espacios de concurrencia colectiva, podrán existir zonas exclusivamente para fumar, las cuales deberán ubicarse solamente en espacios al aire libre de conformidad con las disposiciones que establezca la Secretaría.
+
+Los propietarios, administradores, poseedores, encargados o responsables, deberán colocar en un lugar visible, letreros que indiquen la leyenda "espacio 100% libre de humo de tabaco y emisiones", debiéndose incluir un número telefónico y dirección electrónica para denunciar el incumplimiento de lo establecido en la presente Ley, de conformidad con lo que establezcan las disposiciones generales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 13.
 
-Se considerarán como espacios 100 % libres de humo de tabaco los siguientes:
+Se considerarán como espacios 100 % libres de humo de tabaco y emisiones los siguientes:
 
 > <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
 
 I. Todo lugar de trabajo;
 
-II. Todo espacio cerrado de acceso al público, ya sean de carácter público o privado;
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2022)</small>
 
-III. Hospitales, clínicas, centros de salud, consultorios, centros de atención médica públicos, sociales o privados, salas de espera, auditorios, bibliotecas, escuelas y cualquier otro lugar cerrado de las instituciones médicas y de enseñanza;
+II. Todo espacio de acceso al público, ya sean de carácter público o privado;
+
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2022)</small>
+
+III. Hospitales, clínicas, centros de salud, consultorios, centros de atención médica públicos, sociales o privados, salas de espera, auditorios, bibliotecas, escuelas y cualquier otro lugar de las instituciones médicas y de enseñanza;
 
 > <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
@@ -299,7 +309,9 @@ VI. Instalaciones deportivas;
 
 VII. Instituciones, centros y escuelas de educación inicial, básica, media superior y superior, incluyendo auditorios, bibliotecas, laboratorios, instalaciones deportivas, patios, salones de clase, pasillos y sanitarios;
 
-VIII. Cines, teatros, auditorios y todos los espacios cerrados en donde se presenten espectáculos de acceso público;
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2022)</small>
+
+VIII. Cines, teatros, auditorios y todos los espacios en donde se presenten espectáculos de acceso público;
 
 IX. Vehículos de transporte público de pasajeros; y
 
@@ -375,7 +387,9 @@ Las autoridades correspondientes del Instituto y de los Ayuntamientos, ejercerá
 
 El procedimiento de verificación, se sujetará a las siguientes bases:
 
-l. El verificador deberá contar con una orden escrita que contendrá: la fecha y ubicación del local cerrado o establecimiento a inspeccionar; objeto y aspectos de la visita; el fundamento legal y la motivación de la misma; el nombre y firma de la autoridad que la expida y el nombre del verificador;
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2022)</small>
+
+I. El verificador deberá contar con una orden escrita que contendrá: la fecha y ubicación del local o establecimiento a inspeccionar; objeto y aspectos de la visita; el fundamento legal y la motivación de la misma; el nombre y firma de la autoridad que la expida y el nombre del verificador;
 
 II. El verificador deberá identificarse ante el propietario, poseedor o responsable, con la credencial vigente que para tal efecto le expida la autoridad competente y entregará copia legible de la orden de verificación, así como de su identificación;
 
@@ -467,9 +481,11 @@ La notificación de las resoluciones emitidas por las autoridades en términos d
 
 Cuando las personas a quienes deba notificarse no se encuentren, se les dejará citatorio para que estén presentes a una hora determinada del día hábil siguiente, apercibiéndolas de que de no encontrarse, se entenderá la diligencia con quien se encuentre presente.
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2022)</small>
+
 ###### Artículo 34.
 
-Si habiendo dejado citatorio, el interesado no se encuentra presente en la fecha y hora indicada, se entenderá la diligencia con quien se halle en el local cerrado o establecimiento.
+Si habiendo dejado citatorio, el interesado no se encuentra presente en la fecha y hora indicada, se entenderá la diligencia con quien se halle en el local o establecimiento.
 
 ###### Artículo 35.
 
@@ -632,3 +648,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. El Ejecutivo del Estado y los Ayuntamientos deberán realizar las modificaciones reglamentarias correspondientes en un plazo que no deberá exceder de los 90 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+G.G. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 69.- POR EL QUE SE REFORMA LA FRACCIÓN I, DEL ARTÍCULO 2; LA FRACCIÓN I, DEL ARTÍCULO 4 BIS; LAS FRACCIONES VI, VII Y XIII DEL ARTÍCULO 5; EL ARTÍCULO 12; EL PÁRRAFO PRIMERO Y LAS FRACCIONES II, III Y VIII, DEL ARTÍCULO 13; LA FRACCIÓN I DEL ARTÍCULO 23 Y EL ARTÍCULO 34; Y SE DEROGA LA FRACCIÓN I, DEL ARTÍCULO 5 DE LA LEY DE PREVENCIÓN DEL TABAQUISMO Y DE PROTECCIÓN ANTE LA EXPOSICIÓN AL HUMO DE TABACO EN EL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. En términos de lo dispuesto en el segundo párrafo del artículo 12 del presente Decreto, los propietarios, administradores o responsables de los establecimientos o lugares con acceso al público, áreas de trabajo, públicas y privadas, deberán ubicar zonas exclusivas para fumar en espacios al aire libre en un plazo no mayor a 90 días posteriores a la publicación del presente Decreto en el periódico oficial "Gaceta del Gobierno".
