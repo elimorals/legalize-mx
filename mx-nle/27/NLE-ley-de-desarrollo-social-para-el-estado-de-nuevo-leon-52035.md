@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-social-para-el-estado-de-nuevo-leon-52035"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-16"
-last_updated: "2020-12-28"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2006.
 
@@ -157,13 +157,17 @@ VIII. Fomentar la participación de instituciones y asociaciones civiles, acadé
 
 IX. Determinar las zonas de atención prioritaria en el Estado;
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-X. Implementar programas sociales permanentes para el establecimiento de guarderías o estancias infantiles para apoyar a las madres y padres trabajadores; y
+X. Implementar programas sociales permanentes para el establecimiento de guarderías o estancias infantiles para apoyar a las madres y padres trabajadores;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2022)</small>
 
-XI. Las demás que señalen las disposiciones legales aplicables
+XI. Implementar programas sociales para promover la inclusión tecnológica a las personas que se encuentren en situación de vulnerabilidad; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE JUNIO DE 2022)</small>
+
+XII. Las demás que señalen las disposiciones legales aplicables.
 
 ### CAPÍTULO II. ATRIBUCIONES DE LOS MUNICIPIOS
 
@@ -243,9 +247,13 @@ Para la evaluación de resultados, de manera invariable los programas sociales d
 
 Los resultados de la evaluación deberán reflejar los objetivos sociales de los programas, así como las metas y acciones de la Política Estatal de Desarrollo Social.
 
-## TÍTULO IV. DE LA PLANEACIÓN, PARTICIPACIÓN CIUDADANA Y BENEFICIARIOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JUNIO DE 2022)</small>
 
-### CAPÍTULO I. DE LA PLANEACIÓN DEL DESARROLLO SOCIAL
+## TÍTULO IV. DE LA PLANEACIÓN, DIFUSIÓN, PARTICIPACIÓN CIUDADANA Y BENEFICIARIOS
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JUNIO DE 2022)</small>
+
+### CAPÍTULO I. DE LA PLANEACIÓN Y DIFUSIÓN DEL DESARROLLO SOCIAL
 
 ###### Artículo 18.
 
@@ -262,6 +270,12 @@ II. Las estrategias para la vinculación, coordinación y concertación de accio
 III. La inclusión de unidades administrativas responsables de la operación de los programas, y
 
 IV. Las reglas de operación y términos de referencia para la implementación, seguimiento y evaluación de los programas para el desarrollo social.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+###### Artículo 19 Bis.
+
+El Estado y los Municipios podrán implementar campañas de difusión con el objeto de informar a la población del contenido, reglas de operación y beneficios de los programas de desarrollo social que se apliquen en el Estado.
 
 ### CAPÍTULO II. DE LA PARTICIPACIÓN CIUDADANA
 
@@ -608,3 +622,11 @@ P.O. 28 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 389 SE REFORMA LA FRACCIÓN IX Y SE ADICIONA UNA FRACCIÓN X RECORRIÉNDOSE LA ACTUAL FRACCIÓN X PARA SER UNA NUEVA FRACCIÓN XI DEL ARTÍCULO 7º DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN"]
 
 ÚNICO.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 143. SE REFORMAN LAS FRACCIONES X Y XI DEL ARTÍCULO 7°, Y LA DENOMINACIÓN DEL TÍTULO IV “DE LA PLANEACIÓN, DIFUSIÓN, PARTICIPACIÓN CIUDADANA Y BENEFICIARIOS”, LA DENOMINACIÓN DEL CAPÍTULO I DEL TÍTULO IV “PLANEACIÓN Y DIFUSIÓN DEL DESARROLLO SOCIAL”; SE ADICIONA UNA FRACCIÓN XII AL ARTÍCULO 7° Y UN ARTÍCULO 19 BIS, TODOS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para dar cumplimiento a las acciones emanadas del presente Decreto, estas se programarán acorde a las capacidades financieras del Gobierno del Estado tomando en cuenta el Presupuesto de Egresos del ejercicio fiscal correspondiente.
