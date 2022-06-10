@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-micro-pequena-y-mediana-empresa-para-el-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2022-01-26"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -143,13 +143,17 @@ X. Estimular la cooperación y asociación de las MIPYMES, a través de sus Orga
 
 XI. Promover esquemas para la modernización, transferencia de tecnología (sic) innovación, uso de herramientas informáticas, acceso a centros de investigación y desarrollo tecnológico en las MIPYMES;
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-XII. Fortalecer la articulación del ecosistema de innovación y emprendedor a nivel estatal; y
+XII. Fortalecer la articulación del ecosistema de innovación y emprendedor a nivel estatal;
 
-> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-XIII. Crear un esquema integral y de fácil acceso a las MIPYMES, donde se presente el conjunto de apoyos, actividades de fomento y estímulos dedicados a este segmento.
+XIII. Crear un esquema integral y de fácil acceso a las MIPYMES, donde se presente el conjunto de apoyos, actividades de fomento y estímulo dedicados a este segmento; y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+XIV. Promover en las MIPYMES la creación de nuevos servicios, productos o tecnologías; fomentar el acceso a la regulación y otorgamiento de patentes de invención, registros de modelos de utilidad, diseños industriales, esquemas de trazados de circuitos integrados, marcas y avisos comerciales, publicación de nombres comerciales, declaración de protección de denominaciones de origen e indicaciones geográficas.
 
 ### CAPÍTULO SEGUNDO. DEL DESARROLLO DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
@@ -688,3 +692,9 @@ P.O. 26 DE ENERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 047. SE REFORMAN LAS FRACCIONES I Y V DEL ARTÍCULO 15, LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 21 Y LA FRACCIÓN IV DEL ARTÍCULO 27 BIS 1; Y SE ADICIONA LA FRACCIÓN XV DEL ARTÍCULO 21, TODOS DE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 24 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 131. SE REFORMAN LAS FRACCIONES XXII Y XIII Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 4, DE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA LA FRACCIÓN XXIII Y SE ADICIONA LA FRACCIÓN XXIV AL ARTÍCULO 2 DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
