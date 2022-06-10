@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-movilidad-sostenible-de-accesibilidad-y-seguridad-139831
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-08"
-last_updated: "2022-03-18"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 8 de enero de 2020.
 
@@ -205,7 +205,9 @@ XX. Director General: Servidor Público encargado de la dirección, administraci
 
 XXI. ERT: Empresa de Redes de Transporte ante la cual se registran los conductores del SETIAP y que prestan el servicio de transporte privado de alquiler por medio de plataformas digitales a los usuarios previamente registrados en dicha plataforma;
 
-XXII. Energías Limpias: Energía utilizada para los vehículos motorizados que es eléctrico, hibrido, de gas natural o de cualquier otra fuente de energía que no es mediante la utilización de combustibles fósiles;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+XXII. Energías Limpias: Energía utilizada para los vehículos motorizados que es eléctrica, hibrida, de gas natural, de gas LP, solar y de cualquier otra fuente de energía o tecnología cuyas emisiones o residuos no rebasen los umbrales establecidos en las Normas Oficiales Mexicanas, disposiciones reglamentarias existentes o las que para tal efecto se expidan y determinen las autoridades competentes con base en parámetros y normas de eficiencia energética, control de emisiones a la atmosfera y generación de residuos;
 
 XXIII. Estudio Técnico: El diagnóstico, análisis de evaluación y, en su caso estadístico, del cual se determinarán las necesidades de movilidad, así como las propuestas que permitan atender y mejorar las condiciones de movilidad sostenible;
 
@@ -2139,6 +2141,40 @@ La operación y administración del sistema único de peaje es responsabilidad y
 
 El Instituto integrará y operará un Sistema de Información y Registro del Transporte, en los términos que establezca el Reglamento de esta Ley. Mismo que a través de aplicación móvil y página de internet será público y de fácil acceso en términos de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 10 DE JUNIO DE 2022)</small>
+
+Para efectos de supervisión y control, el Instituto deberá recabar dentro de la información general de los concesionarios, permisionarios y vehículos que prestan el servicio público de transporte en todas las modalidades establecidas en el artículo 69 de esta Ley, a fin de integrar una base de datos, que será operada por el Instituto, en el que al menos se establezca lo siguiente:
+
+I. Nombre y/o denominación de la persona física o moral a la que se le otorga el permiso o concesión, domicilio y datos de contacto;
+
+II. Sistema de transporte y modalidad del servicio o infraestructura especializada de que se trate;
+
+III. Vigencia del permiso o concesión;
+
+IV. Número de vehículos y/o infraestructuras que ampara el permiso o concesión;
+
+V. Características de los vehículos y/o infraestructuras;
+
+VI. Datos de identificación de los vehículos, a saber, número de serie y placas de circulación;
+
+VII. Nombre de la compañía aseguradora contratada y número de póliza de seguro;
+
+VIII. Tipo de cobertura contratada; y
+
+IX. Fecha de vencimiento de la póliza de seguro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE JUNIO DE 2022)</small>
+
+Terminado el plazo de vigencia de la póliza de los vehículos que prestan el servicio de transporte público, esta deberá ser renovada de inmediato por el permisionario o concesionario, dando aviso al Instituto, en los términos que este señale, dentro de los tres días hábiles siguienes al del vencimiento, acompañando copia de la renovación de la póliza de seguro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE JUNIO DE 2022)</small>
+
+El Instituto mantendrá constantemente actualizada la base de datos de vigencia de pólizas de seguro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE JUNIO DE 2022)</small>
+
+La falta de renovación oportuna de la póliza de seguro será considerada grave y se sancionará en los términos de lo establecido en esta Ley y su Reglamento.
+
 ###### Artículo 151.
 
 Los concesionarios, permisionarios y operadores, están obligados a proporcionar al Instituto la información necesaria para integrar y mantener actualizado el Sistema de Información y Registro del Transporte.
@@ -3007,7 +3043,13 @@ Décimo Cuarto.- Se concede un término de tres meses a partir de la entrada en 
 
 Décimo Quinto.- Se concede un término de seis meses a partir de la entrada en vigor de ésta Ley para que las Empresas de Redes de Transporte se pongan al corriente con la entrega de información ante el Instituto con fundamento en éste artículo y los demás relativos de ésta Ley.
 
-Décimo Sexto.- Se concede un término de cinco años a partir de la entrada en vigor de ésta Ley para que todos los vehículos del SETRA, SETME, SETIAP y Transporte de Carga sean cambiados por vehículos que utilicen energías limpias y adaptadas para personas con discapacidad.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+Décimo Sexto.- Se concede un término de cinco años a partir de la entrada en vigor de esta Ley para que todos los vehículos del SETRA, SETME, SETIAP y Transporte de Carga de jurisdicción estatal sean cambiados por vehículos que utilicen energías limpias.
+
+Al término del plazo de cinco años, sólo se otorgarán permisos y concesiones para el SETRA, SETME y SETIAP a vehículos que utilicen energías limpias.
+
+En el mismo plazo todos los vehículos del SETRA y SETME deberán ser adaptados para personas con discapacidad.
 
 Décimo Séptimo.- La gradualidad para la instalación del Sistema de Localización Vía Satelital, Sistema de Video Vigilancia, deberá preverse en el Reglamento de la presente Ley y comprenderá las disposiciones jurídicas que especifiquen detalladamente su objeto, funcionamiento y operación.
 
@@ -3029,7 +3071,7 @@ Por lo tanto, envíese al Ejecutivo del Estado, para su promulgación y publicac
 
 Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital a los dieciocho días del mes de diciembre de dos mil diecinueve.
 
-PRESIDENTE: DIP. JUAN CARLOS RUÍZ GARCÍA; PRIMERA SECRETARIA: DIP. ALEJANDRA LARA MAIZ; SEGUNDA SECRETARIA: DIP. LETICIA MARLENE BENVENUTTI VILLARREAL.- Rúbricas.
+PRESIDENTE: DIP. JUAN CARLOS RUÍZ GARCÍA; PRIMERA SECRETARIA: DIP. ALEJANDRA LARA MAIZ; SEGUNDA SECRETARIA: DIP. LETICIA MARLENE BENVENUTII VILLARREAL.- Rúbricas.
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, al día 20 de diciembre de 2019.
 
@@ -3114,3 +3156,17 @@ P.O. 18 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 099. SE REFORMA LA FRACCIÓN LIII DEL ARTÍCULO 8, LAS FRACCIONES VI Y VII DEL ARTÍCULO 9, EL PRIMER PÁRRAFO DEL ARTÍCULO 12, EL PRIMER PÁRRAFO DEL ARTÍCULO 13 Y LA FRACCIÓN IV, LA FRACCIÓN IV Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 27, LOS INCISOS C) Y D) DE LA FRACCIÓN IV DEL ARTÍCULO 50; Y SE ADICIONA LA FRACCIÓN IV BIS AL ARTÍCULO 27, TODOS DE LA LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 138. SE REFORMA EL ARTÍCULO 150 DE LA LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN".]
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 154. SE REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 8 Y ARTÍCULO DÉCIMO SEXTO TRANSITORIO DE LA LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para efectos de lo dispuesto en la fracción XXII del artículo 8 de esta Ley, se entienden como Normas Oficiales Mexicanas las NOM-076-SEMARNAT-2012 y NOM-044-SEMARNAT-2017.
