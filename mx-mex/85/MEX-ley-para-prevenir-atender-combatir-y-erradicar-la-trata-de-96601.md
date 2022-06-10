@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-prevenir-atender-combatir-y-erradicar-la-trata-de-9660
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-13"
-last_updated: "2022-05-06"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 6 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 10 DE JUNIO DE 2022.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 13 de noviembre de 2013.
 
@@ -96,6 +96,10 @@ XIII. Ley: A la Ley para Prevenir, Atender, Combatir y Erradicar la Trata de Per
 XIV. Ley General: A la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
 
 XV. Ley para la Prevención Social: Ley para la Prevención Social de la Violencia y la Delincuencia, con Participación Ciudadana del Estado de México.
+
+> <small>(ADICIONADA, G.G. 10 DE JUNIO DE 2022)</small>
+
+XV Bis. Mendicidad Ajena: A la explotación para obtener un beneficio al obligar a una persona a pedir limosna o caridad contra su voluntad, recurriendo a la amenaza de daño grave, al uso de la fuerza, otras formas de coacción o el engaño, valiéndose de su situación de vulnerabilidad e indefensión.
 
 XVI. Personas en situación de vulnerabilidad: A las personas que presentan condiciones particulares en razón de origen étnico o nacional, edad, sexo, condición socioeconómica, nivel educativo, embarazo, como consecuencia del delito de trata, violencia o discriminación, situación migratoria, salud física o mental, discapacidad, adicciones o cualquier otra característica similar, que puede ser aprovechada por los sujetos activos del delito de trata de personas.
 
@@ -397,7 +401,9 @@ II. Coadyuvar, en el ámbito de sus atribuciones, con las autoridades competente
 
 III. Localizar redes de apoyo para el desarrollo de las niñas, niños y adolescentes víctimas, ofendidos y testigos del delito de trata de personas.
 
-IV. Implementar campañas de prevención de conductas relacionadas con la trata de personas, como la explotación infantil, mendicidad forzosa, matrimonio servil, adopción ilegal, entre otras, en coordinación con el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2022)</small>
+
+IV. Implementar campañas de prevención y de denuncia bajo una perspectiva interseccional, de género y con enfoque de Derechos Humanos de conductas relacionadas con la trata de personas, como lo explotación infantil, mendicidad ajena, matrimonio servil, adopción ilegal, entre otras, en coordinación con el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
 
 V. Las demás que le confieran otros ordenamientos legales y las necesarias para el cumplimiento del objeto de la Ley.
 
@@ -1132,3 +1138,11 @@ CUARTO. Las referencias realizadas en disposiciones jurídicas, legales, reglame
 Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de la Mujer serán atendidos hasta su conclusión por la Secretaría de las Mujeres.
 
 Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de la Mujer de conformidad con las disposiciones jurídicas aplicables.
+
+G.G. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 66.- POR EL QUE SE ADICIONA LA FRACCIÓN XV BIS AL ARTÍCULO 3 Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 20 DE LA LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE MÉXICO Y SE ADICIONA EL INCISO E) A LA FRACCIÓN III DEL ARTÍCULO 268 BIS 1 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
