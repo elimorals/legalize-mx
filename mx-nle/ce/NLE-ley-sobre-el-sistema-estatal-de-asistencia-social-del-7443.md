@@ -4,7 +4,7 @@ identifier: "NLE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7443"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-12"
-last_updated: "2022-03-14"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
 
@@ -87,9 +87,9 @@ IX.- Niñas, niños y adolescentes, personas adultas mayores o con discapacidad 
 
 X.- Habitantes del medio rural y de los urbanos marginados, que carezcan de lo indispensable y no dispongan de medios para valerse por sí mismos;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-XI.- Mujeres en estado de gestación o de lactancia que no puedan valerse por sí mismas;
+XI.- Mujeres en estado de gestación o de lactancia, en estado de vulnerabilidad por razón de edad, situación económica, discapacidad o bien que sufran algún tipo de violencia de los señalados en el artículo 6 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia o que no puedan valerse por sí mismas.
 
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
 
@@ -682,3 +682,11 @@ P.O. 14 DE MARZO DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Para dar cumplimiento a las acciones emanadas del presente Decreto, estas se programarán acorde a las capacidades financieras del Gobierno del Estado tomando en cuenta el Presupuesto de Egresos del ejercicio fiscal correspondiente.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 142. SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 4 DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las obligaciones emanadas del presente Decreto se realizarán de acuerdo a la capacidad financiera del Estado, para el ejercicio fiscal correspondiente.
