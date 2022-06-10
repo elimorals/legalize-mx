@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2022-06-02"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -23,7 +23,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE JUNIO DE 2022.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -3553,15 +3553,17 @@ En caso de separación de quienes ejercen la patria potestad, ambos deberán con
 
 Con base en el interés superior del menor, éste quedará bajos (sic) los cuidados y atenciones de uno de ellos. El otro estará obligado a colaborar en su alimentación y crianza conservando el derecho de convivencia con el menor, conforme a las modalidades previstas en el convenio o resolución judicial.
 
-> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
 
-###### ARTICULO 416 Bis.
+###### ARTÍCULO 416 Bis.
 
-Los hijos que estén bajo la patria potestad de sus progenitores tienen el derecho de convivir con ambos, aún cuando no vivan bajo el mismo techo.
+Las hijas e hijos que estén bajo la patria potestad de sus progenitores tienen derecho de convivir con ambos, aun cuando no vivan bajo el mismo techo.
 
-No podrán impedirse, sin justa causa, las relaciones personales entre el menor y sus ascendientes. En caso de oposición, a petición de cualquier de ellos, el Juez de lo Familiar resolverá lo conducente previa audiencia del menor, atendiendo su interés superior.
+No podrán impedirse, sin justa causa, las relaciones personales entre el menor y sus ascendientes. En caso de oposición, a petición de cualquiera de ellos, el Juez de lo Familiar resolverá lo conducente previa audiencia del menor salvaguardando en todo momento el interés superior de las y los menores.
 
-Para los casos anteriores y sólo por mandato judicial, este derecho deberá ser limitado o suspendido considerando el incumplimiento reiterado de las obligaciones de crianza o peligro para la salud e integridad física, psicológica o sexual de los hijos.
+Los progenitores, tutores o responsables de su cuidado deben de evitar actos de manipulación sobre las hijas e hijos menores de edad que generen rencor, antipatía, desagrado o temor contra los ascendientes.
+
+Para los casos anteriores y sólo por mandato judicial, este derecho deberá ser limitado o suspendido considerando el incumplimiento reiterado de las obligaciones de crianza o peligro para la salud e integridad física, psicológica o sexual de las hijas e hijos.
 
 > <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2007)</small>
 
@@ -15046,3 +15048,11 @@ G.O. 2 DE JUNIO DE 2022.
 PRIMERO. Túrnese a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su correspondiente promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 416 BIS. DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
