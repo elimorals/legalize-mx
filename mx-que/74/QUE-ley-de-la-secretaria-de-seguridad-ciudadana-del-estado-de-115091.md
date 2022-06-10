@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-secretaria-de-seguridad-ciudadana-del-estado-de-11509
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-10"
-last_updated: "2021-10-08"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 10 de junio de 2016.
 
@@ -45,15 +43,19 @@ LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO
 
 ### Capítulo Primero. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2022)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y observancia obligatoria, tiene por objeto establecer las bases para la organización y funcionamiento de la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro, así como para el despacho de los asuntos de su competencia, de conformidad por lo dispuesto en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la Constitución Política del Estado de Querétaro, la Ley de Seguridad para el Estado de Querétaro, la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro y demás disposiciones aplicables.
+La presente Ley es de orden público, interés social y observancia obligatoria, tiene por objeto establecer las bases para la organización y funcionamiento de la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro, así como para el despacho de los asuntos de su competencia, de conformidad por lo dispuesto en los artículos 17 y 21 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la Constitución Política del Estado Libre y Soberano de Querétaro, la Ley de Seguridad para el Estado de Querétaro, la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro y demás disposiciones aplicables.
 
 Es de aplicación supletoria a la presente Ley, la Ley de Procedimientos Administrativos del Estado de Querétaro.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
+
 ###### Artículo 2.
 
-La Secretaría de Seguridad Ciudadana, es la Dependencia de la administración pública estatal encargada de la preservación de la seguridad y convivencia ciudadana, de los espacios destinados al uso y disfrute público, así como de la prevención de los delitos y las infracciones, con la participación activa de la ciudadanía, la cual se regirá por lo dispuesto en esta Ley y los demás ordenamientos aplicables.
+La Secretaría de Seguridad Ciudadana, es la Dependencia de la administración pública estatal encargada de la preservación de la seguridad y convivencia ciudadana, de los espacios destinados al uso y disfrute público, con la participación activa de la comunidad y sus integrantes, la cual se regirá por lo dispuesto en esta Ley y los demás ordenamientos aplicables.
 
 ###### Artículo 3.
 
@@ -71,15 +73,13 @@ I. Carrera Policial: El Servicio Profesional de Carrera Policial;
 
 II. Centro de Justicia: El Centro de Justicia para las Mujeres del Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2019)</small>
-
-III. Comisión Estatal: La Comisión Estatal de Atención Integral a Víctimas;
+III. (DEROGADA, P.O. 10 DE JUNIO DE 2022)
 
 IV. Ley: La Ley de la Secretaría de Seguridad Ciudadana del Estado de Querétaro;
 
-V. Observatorio: Al Observatorio Ciudadano de Seguridad del Estado de Querétaro;
+V. (DEROGADA, P.O. 10 DE JUNIO DE 2022)
 
-VI. Prevención social: La Prevención Social de la Violencia y la Delincuencia;
+VI. (DEROGADA, P.O. 10 DE JUNIO DE 2022)
 
 VII. Profesionalización: Consiste en la adquisición, desarrollo y aplicación con eficiencia y eficacia, de las capacidades individuales, a través de la capacitación continua para resolver problemas concretos del campo de operación en las tareas de seguridad;
 
@@ -93,13 +93,23 @@ IX. Secretario: Al titular de la Secretaría de Seguridad Ciudadana;
 
 X. Sistema Estatal: Al Sistema Estatal de Seguridad de Querétaro;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+XI. (DEROGADA, P.O. 10 DE JUNIO DE 2022)
 
-XI. Sistema Estatal de Atención a Víctimas: El Sistema Estatal de Atención a Víctimas de Violencia y Violación a Derechos Humanos no constitutivos de delito; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+XII. SIU: Sistema Informático Único;
 
-XII. SIU: Sistema Informático Único.
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+XIII. Justicia Cotidiana: se refiere a los procedimientos que utiliza el policía de proximidad, en el ámbito de sus competencias, para proponer soluciones a los conflictos que se generen por la convivencia diaria de las personas integrantes de una comunidad;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+XIV. Participación comunitaria: Conjunto de acciones desarrolladas por una comunidad, tendientes al mejoramiento de las condiciones de vida y búsqueda de soluciones a sus necesidades específicas; y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+XV. Enfoque de Proximidad: La manera proactiva, colaborativa, cercana a la comunidad, con base en acciones preventivas, en que el personal operativo facultado para el uso legal de la fuerza pública realizará sus funciones; que además de combatir la violencia y la delincuencia, busque identificar y reaccionar a sus causas bajo parámetros de acceso a la justicia penal, cívica y cotidiana.
 
 ### Capítulo Segundo. De la Organización
 
@@ -111,13 +121,13 @@ I. El Secretario de Seguridad Ciudadana;
 
 II. El Secretario Técnico del Consejo Estatal de Seguridad;
 
-III. La Subsecretaría de Prevención Social y Atención a Víctimas, que contará con las Direcciones siguientes:
+III. (DEROGADA, P.O. 10 DE JUNIO DE 2022)
 
-a) La Dirección de Prevención Social de la Violencia y la Delincuencia.
+a) (DEROGADO, P.O. 10 DE JUNIO DE 2022)
 
-b) La Dirección de Mecanismos Alternativos de Solución de Controversias y Conflictos; y
+b) (DEROGADO, P.O. 10 DE JUNIO DE 2022)
 
-c) (DEROGADO, P.O. 6 DE MARZO DE 2019)
+c) (DEROGADO, P.O. 6 DE MARZO DE 2019) (REPUBLICADA SU DEROGACIÓN, P.O. 10 DE JUNIO DE 2022)
 
 IV. La Subsecretaría de Policía Estatal, que se integrará por:
 
@@ -147,9 +157,15 @@ En las disposiciones reglamentarias y normativas correspondientes, se establecer
 
 El ingreso, promoción, estímulos, evaluación y separación del servicio del personal de base o de confianza de la Secretaría, así como los requisitos para ocupar los respectivos cargos de la Secretaría, se regirán por lo establecido en la Ley de los Trabajadores del Estado de Querétaro, así como en las disposiciones reglamentarias y normativas correspondientes que al efecto se emitan.
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+El personal operativo facultado para el uso legal de la fuerza, adscrito a la Policía de Proximidad deberá contar con las certificaciones necesarias para el ejercicio de sus funciones.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
+
 ###### Artículo 9.
 
-El titular de la Subsecretaría de Prevención Social y Atención a Víctimas, así como el diverso de la Subsecretaría de Policía Estatal, serán designados por el Gobernador del Estado.
+El titular de la Subsecretaría de Policía Estatal será designado por el Gobernador del Estado.
 
 ## Título Segundo. De las Funciones de la Secretaría de Seguridad Ciudadana
 
@@ -159,19 +175,23 @@ El titular de la Subsecretaría de Prevención Social y Atención a Víctimas, a
 
 Las funciones de la Secretaría, además de las señaladas en la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, son:
 
-I. Prevenir socialmente la violencia y la delincuencia a través de políticas públicas acerca de las causas y factores de riesgo que las originan;
+I. (DEROGADA, P.O. 10 DE JUNIO DE 2022)
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
 II. Ejecutar y promover, la aplicación de mecanismos alternativos de solución de controversias y conflictos y la justicia restaurativa en los diferentes ámbitos de su competencia;
 
-III. Garantizar la ayuda, asistencia, protección y reparación integral de daños a las víctimas;
+III. (DEROGADA, P.O. 10 DE JUNIO DE 2022)
 
-IV. Establecer mecanismos y procedimientos eficaces que fomenten la participación ciudadana, en los términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+IV. Establecer mecanismos y procedimientos eficaces que fomenten la participación ciudadana y comunitaria, en los términos de las disposiciones aplicables;
 
 V. Ejecutar en el territorio del Estado de Querétaro, las acciones dirigidas a salvaguardar la integridad y patrimonio de las personas, así como preservar las libertades, el orden y la paz públicos;
 
-VI. Establecer la operación policial, misma que privilegiará la coordinación, el uso de tecnologías de la información y el respeto a los derechos humanos;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+VI. Establecer la operación policial, misma que privilegiará la coordinación, el uso de tecnologías de la información, el respeto a los derechos humanos y la solución de conflictos a través de la implementación de mecanismos alternativos;
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -185,9 +205,21 @@ X. Suministrar, intercambiar y sistematizar la información sobre seguridad con 
 
 XI. Autorizar, evaluar, controlar, supervisar y registrar los servicios de seguridad privada, conforme a las disposiciones aplicables;
 
-XII. Establecer el régimen disciplinario que comprende los deberes, correcciones disciplinarias, sanciones y procedimientos para su aplicación, con la finalidad de asegurar que la conducta del personal operativo facultado para el uso legal de la fuerza esté apegada a los principios de actuación previstos en la normatividad aplicable; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-XIII. Las demás que le confieran las leyes, las disposiciones reglamentarias y normativas correspondientes.
+XII. Establecer el régimen disciplinario que comprende los deberes, correcciones disciplinarias, sanciones y procedimientos para su aplicación, con la finalidad de asegurar que la conducta del personal operativo facultado para el uso legal de la fuerza esté apegada a los principios de actuación previstos en la normatividad aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2022)</small>
+
+XIII. Establecer las acciones para implementar el enfoque de proximidad y la participación comunitaria en favor de la seguridad;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+XIV. Brindar la atención procedente a través del Centro de Justicia para las Mujeres del Estado de Querétaro a las canalizaciones realizadas por parte de la Fiscalía General del Estado respecto de los casos relacionados con mujeres víctimas del delito, en términos de las disposiciones jurídicas aplicables; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XIII], P.O. 10 DE JUNIO DE 2022)</small>
+
+XV. Las demás que le confieran las leyes, las disposiciones reglamentarias y normativas correspondientes.
 
 ### Capítulo Segundo. Del Secretario de Seguridad Ciudadana
 
@@ -205,7 +237,7 @@ II. Gestionar y resolver los asuntos de la competencia de la Secretaría;
 
 III. Proponer al Gobernador del Estado, el Programa Estatal de Seguridad e informarle de las acciones y resultados que de él se deriven;
 
-IV. Diseñar, definir y ejecutar políticas, programas y acciones sobre la prevención social;
+IV. (DEROGADA, P.O. 10 DE JUNIO DE 2022)
 
 V. Coordinar a las instituciones policiales estatales, en la realización de actividades u operativos;
 
@@ -261,117 +293,33 @@ Para el cumplimiento y ejercicio de las atribuciones y obligaciones que garantiz
 
 El Secretario Técnico podrá ser removido libremente por el Presidente del Consejo Estatal y deberá cumplir con las disposiciones contenidas en el reglamento respectivo.
 
-## Título Tercero. De la Prevención Social de la Violencia y la Delincuencia
+> <small>(DEROGADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+## Titulo Tercero. De la Prevención Social de la Violencia y la Delincuencia
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE JUNIO DE 2022)</small>
 
 ### Capítulo Primero. De la Subsecretaría de Prevención Social y Atención a Víctimas
 
 ###### Artículo 14.
 
-La Subsecretaría de Prevención Social y Atención a Víctimas contará con las siguientes funciones:
+(DEROGADO, P.O. 10 DE JUNIO DE 2022)
 
-I. Proponer políticas y estrategias en materia de prevención social de la violencia y la delincuencia;
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE JUNIO DE 2022)</small>
 
-II. Promover acciones afirmativas en educación, cultura, hábitos de vida saludable, con perspectiva de género y participación ciudadana, para generar entornos que favorezcan la convivencia, la paz, la cohesión social y la seguridad ciudadana, con respeto a los derechos humanos y no discriminación;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-III. Coordinar y dirigir las acciones y políticas estatales en materia de Derechos Humanos, atención a víctimas y mecanismos alternativos de solución de controversias y conflictos y justicia restaurativa;
-
-IV. Promover la cultura de la paz y la legalidad;
-
-V. Coordinar, evaluar y dar seguimiento a las políticas, programas, proyectos y acciones transversales con enfoque diferencial y especializado de prevención de la violencia y la delincuencia, ejecutados por las instituciones integrantes del Sistema Estatal;
-
-VI. Establecer un banco de datos que integre información especializada, que apoye a las instancias encargadas de prevenir conductas antisociales en el desarrollo de sus funciones;
-
-VII. Establecer mecanismos de coordinación e intercambio de información y experiencias, con otras instancias gubernamentales y demás organizaciones de la sociedad relacionadas con la seguridad, para generar propuestas que tiendan a mejorar la seguridad y cohesión social;
-
-VIII. Concertar acciones con instituciones de asistencia médica, públicas y privadas, para efecto de cumplimentar lo dispuesto en el inciso C del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-IX. Establecer lineamientos y protocolos para proporcionar o gestionar, a favor de las víctimas u ofendidos del delito, los servicios legales, médicos y psicológicos necesarios para procurar su atención y restablecimiento;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-X. Supervisar la atención inmediata, asesoría jurídica y reparación del daño a víctimas;
-
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-XI. Fungir como Secretario Técnico del Sistema Estatal de Atención a Víctimas y ejercer las atribuciones conferidas al mismo;
-
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-XII. Realizar las actividades de atención a víctimas de violencia o violación de Derechos Humanos a través del Sistema Estatal de Atención a Víctimas;
-
-XIII. (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2017)
-
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-XIV. Realizar estudios, programas y proyectos que sirvan de base para la formulación de políticas públicas en materia de atención a víctimas;
-
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-XV. Proponer y celebrar acuerdos de colaboración con los integrantes del Sistema Estatal de Seguridad y otras instituciones en términos de la normatividad aplicable; y
-
-XVI. Las demás que en el ámbito de su competencia, le encomiende el Secretario o se encuentren previstas en otras disposiciones normativas aplicables.
-
-### Capítulo Segundo. De la Dirección de Prevención Social de la Violencia y la Delincuencia
+### Capitulo Segundo. De la Dirección de Prevención Social de la Violencia y la Delincuencia
 
 ###### Artículo 15.
 
-La Dirección de Prevención Social de la Violencia y la Delincuencia, tiene las siguientes funciones:
+(DEROGADO, P.O. 10 DE JUNIO DE 2022)
 
-I. Organizar y coordinar las funciones del Centro Estatal de Prevención Social de la Violencia y la Delincuencia;
-
-II. Implementar programas y acciones de prevención social con participación ciudadana, de forma integral, transversal, con enfoque diferencial, especializado y con perspectiva de género;
-
-III. Diseñar y ejecutar campañas generales o especiales, de prevención del delito;
-
-IV. Elaborar programas, diagnósticos, estudios e indicadores, en el ámbito de sus atribuciones;
-
-V. Difundir y fomentar la cultura de la prevención, legalidad, denuncia y respeto a los derechos humanos;
-
-VI. Capacitar, en materia de prevención social, a las instituciones involucradas en ese tema, y a la sociedad en general;
-
-VII. Coordinar y evaluar programas y acciones para la educación vial, promoviendo la cultura de prevención de riesgos de accidentes viales;
-
-VIII. Proponer convenios y lineamientos generales de coordinación y colaboración interinstitucional, con dependencias federales, estatales, municipales y los sectores social y privado en el ámbito de sus atribuciones;
-
-IX. Promover el intercambio de experiencias con los integrantes del Sistema Estatal, entidades federativas e instituciones nacionales e internacionales de carácter público o privado, respecto de la corresponsabilidad social; y
-
-X. Las demás que le confieran otros ordenamientos y disposiciones aplicables.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE JUNIO DE 2022)</small>
 
 ### Capítulo Tercero. De la Dirección de Mecanismos Alternativos de Solución de Controversias y Conflictos
 
 ###### Artículo 16.
 
-La Dirección de Mecanismos Alternativos de Solución de Controversias y Conflictos, contará con las siguientes atribuciones:
-
-I. Realizar acciones para fomentar la cultura de la paz y la legalidad en el Estado;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-II. Establecer y coordinar las unidades, centros y demás instituciones en los mecanismos alternativos de solución de controversias y conflictos y la justicia restaurativa en el Estado;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-III. Promover la aplicación de los mecanismos alternativos de solución de controversias y conflictos y justicia restaurativa, por medio de servicios accesibles y gratuitos en los diferentes ámbitos de su competencia;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-IV. Supervisar y vigilar que se mantengan actualizadas las bases de datos estatales, respecto de los acuerdos reparatorios celebrados por controversias penales, conforme a la normatividad aplicable;
-
-V. Impulsar la participación transversal de instituciones públicas, privadas, organismos de la sociedad civil y universidades;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-VI. Proponer al titular de la Secretaría la suscripción de los instrumentos legales con la Federación, Estados, municipios, instituciones públicas y privadas, en materia de mecanismos alternativos de solución de controversias y conflictos y justicia restaurativa;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-VII. Establecer los mecanismos de seguimiento en cuanto al cumplimiento de acuerdos alcanzados a través de los mecanismos alternativos de solución de controversias y conflictos y la justicia restaurativa, conforme a la normatividad aplicable; y
-
-VIII. Las demás que le confieran otros ordenamientos y disposiciones normativas aplicables.
+(DEROGADO, P.O. 10 DE JUNIO DE 2022)
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE MARZO DE 2019)</small>
 
@@ -389,7 +337,9 @@ VIII. Las demás que le confieran otros ordenamientos y disposiciones normativas
 
 La Subsecretaría de Policía Estatal contará con las siguientes atribuciones:
 
-I. Diseñar y ejecutar los programas y acciones necesarias para conservar la paz pública, prevenir la violencia y la delincuencia mediante la operación táctica y operativa de la Policía Estatal;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+I. Diseñar y ejecutar los programas y acciones necesarias para conservar la paz pública, prevenir la violencia y la delincuencia mediante la operación táctica y operativa de la Policía Estatal y el enfoque de proximidad;
 
 II. Proteger la integridad y bienes de la ciudadanía, así como velar dentro del ámbito de su competencia, por el respeto a los derechos humanos;
 
@@ -421,13 +371,21 @@ XII. Proponer al Secretario los protocolos de actuación del personal operativo 
 
 XIII. Realizar como primer respondiente las actividades de atención y ayuda a víctimas conforme a sus atribuciones y actividades;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-XIV. Informar a la Subsecretaría de Prevención Social y Atención a Víctimas de las actividades realizadas en auxilio de víctimas; y
+XIV. Informar a la la (sic) Comisión Estatal de Atención Integral a Víctimas o al Centro de Justicia para las Mujeres del Estado de Querétaro, de las actividades realizadas en auxilio de víctimas;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2022)</small>
 
-XV. Las demás que le confieran otros ordenamientos y disposiciones aplicables.
+XV. Coordinar las acciones para implementar mecanismos alternativos en la operación policial para la resolución de conflictos en términos de la justicia cotidiana;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+XVI. Diseñar e implementar la estrategia a la que deberá sujetarse el personal operativo facultado para el uso legal de la fuerza pública, bajo un enfoque de proximidad; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN XV], P.O. 10 DE JUNIO DE 2022)</small>
+
+XVII. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
 ### Capítulo Segundo. De la Dirección de Operación Policial
 
@@ -455,21 +413,25 @@ IX. Aprobar los protocolos de actuación del personal que integra las institucio
 
 X. Promover, garantizar y asegurar el respeto a los derechos humanos y buen trato a los ciudadanos;
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-XI. Promover, entre los servidores públicos adscritos a la Dirección, el servicio a la ciudadanía y la protección a la comunidad;
+XI. Promover, entre los servidores públicos adscritos a la Dirección, el servicio a la ciudadanía y la protección a la comunidad con un enfoque de proximidad;
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
 XII. Implementar los protocolos de actuación del personal operativo de la policía estatal, de conformidad con la legislación aplicable;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-XIII. Implementar acciones de modernización en la infraestructura y equipo, a través del Sistema Informático Único o cualquier otro medio, con la finalidad de recibir denuncias sobre hechos que puedan ser constitutivos de delito e informarlo al fiscal competente; y
+XIII. Implementar acciones de modernización en la infraestructura y equipo, a través del Sistema Informático Único o cualquier otro medio, con la finalidad de recibir denuncias sobre hechos que puedan ser constitutivos de delito e informarlo al fiscal competente;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2022)</small>
 
-XIV. Las demás que le confieran otros ordenamientos y disposiciones aplicables.
+XIV. Promover e implementar la aplicación de mecanismos alternativos en la operación policial para la solución de conflictos en términos de la justicia cotidiana y las disposiciones aplicables; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN XIV], P.O. 10 DE JUNIO DE 2022)</small>
+
+XV. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
 ### Capítulo Tercero. De la Dirección de Servicios al Público y Seguridad Privada
 
@@ -569,7 +531,9 @@ II. Cinco vocales, que serán los siguientes:
 
 a) El Titular del Órgano Interno de Control.
 
-b) Tres vocales ciudadanos, propuestos por el Observatorio, los cuales deberán contar con título de Licenciatura en Derecho y experiencia mínima de tres años como abogado postulante. Éstos durarán en su cargo hasta dos años, pudiendo ser refrendada la propuesta del Observatorio para que continúen en el cargo por otro periodo igual.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+b) Tres vocales ciudadanos, propuestos por la Comisión de Carrera Policial, los cuales deberán contar con título de Licenciatura en Derecho y experiencia mínima de tres años como abogado postulante. Éstos durarán en su cargo hasta dos años, pudiendo ser refrendada la propuesta de la Comisión para que continúen en el cargo por otro periodo igual.
 
 c) Un vocal policía, que será elegido por el Personal Operativo de la corporación, quien no podrá contar en su expediente personal con sanciones disciplinarias. Éste vocal durará en el cargo hasta dos años, pudiendo ser reelegido en una ocasión por otro periodo igual.
 
@@ -789,9 +753,15 @@ La Secretaría, proporcionará al Órgano Interno de Control, los recursos human
 
 El Centro de Justicia, es un organismo público desconcentrado, adscrito a la Secretaría, con autonomía técnica y de gestión, que se regirá por lo dispuesto en la presente Ley, su reglamento, manuales, lineamientos, políticas, protocolos, procedimientos y demás disposiciones normativas que se emitan para el cumplimiento de su objeto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2022)</small>
+
 ###### Artículo 37.
 
-El objeto del Centro de Justicia es coordinar, articular y vincular interinstitucionalmente a las instancias gubernamentales y asociaciones de la sociedad civil, para brindar servicios multidisciplinarios e integrales que, de forma concentrada, requieren las mujeres víctimas de delitos de género, así como sus hijas e hijos, para poder acceder a la justicia, sostener su denuncia y obtener los servicios integrales que le permitan rehacer su vida.
+El Centro de Justicia brindará la atención procedente, dentro del marco de sus competencias, a los casos relacionados, con mujeres víctimas del delito que deriven de la canalización por parte de la Fiscalía General del Estado, en ejercicio de las atribuciones contenidas en las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+El Centro de Justicia, para el cumplimiento de su objeto se coordinará, articulará y vinculará interinstitucionalmente con las instancias gubernamentales y asociaciones de la sociedad civil, para brindar servicios multidisciplinarios e integrales que, de forma concentrada, requieren las mujeres víctimas de delitos de género, así como sus hijas e hijos, para poder acceder a la justicia, sostener su denuncia y obtener los servicios integrales que les permitan rehacer su vida.
 
 ###### Artículo 38.
 
@@ -827,11 +797,9 @@ I. Un Presidente, que será el Secretario de Seguridad Ciudadana;
 
 II. Un Secretario, que será el titular de la Coordinación General;
 
-III. Los siguientes vocales adscritos a la Secretaría:
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-a. El Subsecretario de Prevención Social y Atención a Víctimas.
-
-b. El Subsecretario de Policía Estatal.
+III. Un Vocal adscrito a la Secretaría, que será el Subsecretario de Policía Estatal;
 
 IV. Dos vocales ciudadanos elegidos por el Presidente del Consejo Consultivo.
 
@@ -1134,3 +1102,43 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE SEGURIDAD Y JUSTICIA CÍVICA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley comenzará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+La Ley del Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro entrará en vigor el 01 de julio del 2022.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias hechas a la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro previstas en otros ordenamientos jurídicos, se entenderán a favor del organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro, serán concluidos con todos sus alcances, efectos y facultades por el organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro o, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+El organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, iniciará sus funciones 60 días hábiles posteriores al inicio de la vigencia de su Ley.
+
+Los recursos humanos, materiales y financieros con que cuenta la Subsecretaría de Prevención Social y Atención a Víctimas, la Dirección de Prevención Social de la Violencia y la Delincuencia, así como la Dirección de Mecanismos Alternativos de Solución de Controversias y Conflictos y el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, se trasladarán al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro.
+
+Los trabajadores de la Subsecretaría de Prevención Social y Atención a Víctimas, la Dirección de Prevención Social de la Violencia y la Delincuencia, así como de la Dirección de Mecanismos Alternativos de Solución de Controversias y Conflictos y el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, por virtud de la presente Ley, se transferirán al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro;_ conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, serán concluidos con todos sus alcances, efectos y facultades por el organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro o, atendiendo a su competencia.
+
+###### ARTÍCULO SEXTO.
+
+El Director General del organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, deberá realizar de inmediato los trámites correspondientes para la obtención de los registros fiscales y administrativos que exijan las disposiciones legales, para la debida operación de la entidad paraestatal, así como de las cuentas bancarias, convenios y demás instrumentos jurídicos con instituciones públicas y privadas para el cumplimiento de su objeto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas del Poder Ejecutivo del Estado, realizará las adecuaciones presupuestales conforme a la disponibilidad financiera con que cuente para el presente ejercicio fiscal, a fin de dotar de los recursos materiales y financieros que permitan al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro el cumplimiento de la presente Ley.
