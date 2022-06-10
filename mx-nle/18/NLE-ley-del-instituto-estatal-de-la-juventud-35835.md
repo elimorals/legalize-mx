@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-la-juventud-35835"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-24"
-last_updated: "2020-12-30"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
 
@@ -75,7 +75,13 @@ IV. Promover y asesorar a las dependencias o entidades de la Administración Pú
 
 V. Representar al Titular del Poder Ejecutivo en materia de juventud, ante los gobiernos federal, estatales y municipales, organizaciones privadas, sociales y organismos internacionales, así como foros, convenciones, encuentros y demás reuniones en las que dicho Titular solicite su participación; y
 
-VI. Coadyuvar con las instancias que correspondan para promover el respeto a los derechos de los jóvenes, así como la eliminación de toda forma de discriminación y la erradicación de la violencia hacia los mismos.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+VI. Coadyuvar con las instancias que correspondan para promover el respeto a los derechos de los jóvenes, así como la eliminación de toda forma de discriminación y la erradicación de la violencia hacia los mismos; y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+VII. Promover y gestionar acciones y políticas públicas que encaminen a la juventud a colaborar y ser partícipes con la obtención de los objetivos de sostenibilidad general nacionales e internacionales.
 
 ###### Artículo 5.
 
@@ -541,6 +547,42 @@ El Instituto queda sometido a las reglas de contabilidad, presupuesto y gasto p�
 
 La participación de personas y de representantes de agrupaciones o asociaciones de los sectores social, privado y académico en el Consejo de Participación Ciudadana, es honorífica, por lo que no tendrán el carácter de servidores públicos. Las relaciones laborales del Organismo con el personal que tenga el carácter de servidor público, se regirán por la Ley del Servicio Civil del Estado de Nuevo León y las demás disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JUNIO DE 2022)</small>
+
+### CAPÍTULO V. DE LA CREACIÓN Y FOMENTO DE PROGRAMAS Y POLÍTICAS DE JUVENTUD EN MATERIA DE DESARROLLO SOSTENIBLE
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+###### Artículo 28.
+
+Con la finalidad de asegurar que la juventud adopte y promueva una cultura de sostenibilidad y sea partícipe del desarrollo e implementación de la misma, el Instituto, atendiendo a la disponibilidad presupuestal, creará y fomentará programas que tengan la participación de los jóvenes para atender problemáticas en alguno o varios de los siguientes rubros:
+
+I. Igualdad de género;
+
+II. Agua limpia y saneamiento;
+
+III. Ciudades y comunidades sostenibles;
+
+IV. Producción y consumo responsables;
+
+V. Acción por el clima;
+
+VI. Vida de ecosistemas terrestres; y
+
+VII. Paz, justicia e instituciones sólidas.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+###### Artículo 29.
+
+El Instituto deberá generar un informe anual en el que indique los programas o políticas que implementó con relación a los objetivos plasmados en el artículo anterior, en el que indique las actividades o acciones específicas llevadas a cabo, la cantidad de jóvenes que participaron, y los resultados obtenidos con las mismas.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+###### Artículo 30.
+
+Con la finalidad de impulsar el desarrollo de una cultura de sostenibilidad, el Instituto deberá priorizar alianzas con las instituciones públicas y privadas de educación media superior y superior, para la consolidación de los programas referidos en el artículo 28 de la presente ley.
+
 T R A N S I T O R I O S:
 
 Artículo Primero.- Esta Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
@@ -612,3 +654,9 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Las Dependencias del Poder Ejecutivo sujetas al presente Decreto contarán con un plazo no mayor a 90 días naturales contados a partir del día de la vigencia del presente Decreto para la modificación de sus respectivos Reglamentos.
 
 TERCERO.- Los Municipios en un plazo no mayor a 90 días naturales contados a partir del día de la vigencia del presente Decreto, adecuarán sus reglamentos respectivos para el cumplimiento de las disposiciones correspondientes al presente Decreto.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 156. SE REFORMA POR MODIFICACIÓN LAS FRACCIONES V Y VI, Y SE ADICIONA UNA FRACCIÓN VII, DEL ARTÍCULO 4 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA POR MODIFICACIÓN LA FRACCIÓN VI Y SE ADICIONA UNA FRACCIÓN VII DEL ARTÍCULO 4 Y POR ADICIÓN DE UN CAPÍTULO QUINTO DE LA LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
