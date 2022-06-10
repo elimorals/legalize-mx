@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-nuevo-1456
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-21"
-last_updated: "2021-09-03"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el lunes 21 de diciembre de 2020.
 
@@ -99,7 +99,13 @@ XXI. Establecer mecanismos y apoyos para promover la creación y funcionamiento 
 
 XXII. Conferir al Instituto, las atribuciones y facultades necesarias para coordinar, implementar y realizar los programas, proyectos y acciones que sean indispensables para el desarrollo económico y social del Estado basado en el fomento a la ciencia, la tecnología y la innovación, de conformidad con lo dispuesto en esta Ley;
 
-XXIII. Establecer la integración y funciones del Consejo General para impulsar la ciencia, la tecnología e innovación, en el que participen los sectores públicos, científico-académico, social y privado.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+XXIII. Establecer la integración y funciones del Consejo General para impulsar la ciencia, la tecnología e innovación, en el que participen los sectores públicos, científico-académico, social y privado; y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+XXIV. Promover el acceso a la regulación y otorgamiento de patentes de invención, registros de modelos de utilidad, diseños industriales, esquemas de trazados de circuitos integrados, marcas y avisos comerciales, publicación de nombres comerciales, declaración de protección de denominaciones de origen e indicaciones geográficas.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1132,3 +1138,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Para dar cumplimiento al presente Decreto, el Ejecutivo del Estado, así como la Junta de Gobierno del I2T2, deberán modificar las disposiciones reglamentarias y normativas a los sesenta días contados a su entrada en vigor.
 
 TERCERO.- A partir de la entrada en vigor del presente Decreto se derogan todas aquellas disposiciones que contravengan la presente Ley.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 131. SE REFORMAN LAS FRACCIONES XXII Y XIII Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 4, DE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA LA FRACCIÓN XXIII Y SE ADICIONA LA FRACCIÓN XXIV AL ARTÍCULO 2 DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
