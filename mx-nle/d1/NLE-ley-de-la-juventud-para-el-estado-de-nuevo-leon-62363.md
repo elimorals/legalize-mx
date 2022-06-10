@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-juventud-para-el-estado-de-nuevo-leon-62363"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-28"
-last_updated: "2021-02-01"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de julio de 2008.
 
@@ -131,9 +131,17 @@ III. Actuar con respeto hacia los derechos de las personas, grupos y segmentos d
 
 IV. Procurar y promover el cuidado y protección de los espacios públicos;
 
-V. Procurar y promover las acciones necesarias para el mejoramiento de las condiciones de vida en la entidad; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-VI. Participar y procurar mantenerse informada de la toma de decisiones del Instituto y de instancias correspondientes que involucren temas de juventud.
+V. Procurar y promover las acciones necesarias para el mejoramiento de las condiciones de vida en la entidad;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+VI. Participar y procurar mantenerse informada de la toma de decisiones del Instituto y de instancias correspondientes que involucren temas de juventud; y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+VII. Colaborar, participar e involucrarse en las acciones de desarrollo sostenible que promueva el Instituto de la juventud y las diversas autoridades gubernamentales.
 
 ### CAPÍTULO III. DE LOS DERECHOS DE LOS JÓVENES
 
@@ -381,9 +389,17 @@ IV. Informar y prevenir sobre las consecuencias que genera la violencia familiar
 
 V. Promover el establecimiento de unidades especializadas de atención a la violencia familiar;
 
-VI. Promover en general la atención integral de la salud; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-VII. Promover que los responsables de los Centros de Salud, hospitales, Centros Quirúrgicos públicos o privados, brinden asistencia inmediata a los jóvenes lesionados o enfermos en caso de urgencia.
+VI.- Promover en general la atención integral de la salud;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+VII.- Promover que los responsables de los Centros de Salud, hospitales, Centros Quirúrgicos públicos o privados, brinden asistencia inmediata a los jóvenes lesionados o enfermos en caso de urgencia; y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+VIII.- Fomentar el acceso a programas de orientación, atención psicológica y prevención del suicidio, con la finalidad de evitar este tipo de conductas; además de canalizar a quien lo requiera a la Secretaría de Salud para recibir tratamiento necesario.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2021)</small>
 
@@ -754,3 +770,15 @@ P.O. 1 DE FEBRERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 394. SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 3; LAS FRACCIONES IV Y X DEL ARTÍCULO 6; EL ARTÍCULO 8; EL ARTÍCULO 12; LAS FRACCIONES I, II, IV, VI, XIV Y XV DEL ARTÍCULO 13; LA FRACCIÓN II DEL ARTÍCULO 15; EL ARTÍCULO 16; EL PÁRRAFO PRIMERO DEL ARTÍCULO 29, EL ARTÍCULO 32 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 34; SE ADICIONA LA FRACCIÓN X BIS AL ARTÍCULO 6; LAS FRACCIONES XVI, XVII, XVIII Y XIX AL ARTÍCULO 13; DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 156. SE REFORMA POR MODIFICACIÓN LAS FRACCIONES V Y VI, Y SE ADICIONA UNA FRACCIÓN VII, DEL ARTÍCULO 4 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA POR MODIFICACIÓN LA FRACCIÓN VI Y SE ADICIONA UNA FRACCIÓN VII DEL ARTÍCULO 4 Y POR ADICIÓN DE UN CAPÍTULO QUINTO DE LA LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 157. SE REFORMAN POR MODIFICACIÓN LAS FRACCIONES VI Y VII Y POR ADICIÓN DE UNA FRACCIÓN VIII AL ARTÍCULO 15 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
