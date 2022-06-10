@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2020-11-26"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE JUNIO DE 2022.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
@@ -607,6 +607,16 @@ Asimismo, se otorgará a las personas servidoras públicas una licencia de tres 
 
 Para efectos de lo anterior, el servidor público deberá hacerlo del conocimiento a su superior jerárquico, por la vía que considere más oportuna, el primer día de su ausencia y deberá exhibir copia simple del documento en que conste tal suceso, en un plazo no mayor de quince días naturales a partir del primer día hábil de su reingreso.
 
+> <small>(ADICIONADO, G.G. 10 DE JUNIO DE 2022)</small>
+
+Artículo 65 BIS. Las instituciones públicas estatales y municipales, en el ámbito de sus competencias y en términos de las disposiciones que al efecto emitan, promoverán y otorgarán autorizaciones con goce de sueldo íntegro, en los siguientes casos:
+
+I. A las servidoras públicas para que puedan acudir anualmente a instituciones médicas a realizarse estudios preventivos de cáncer de mama después de los 40 años y cervicouterino por prescripción médica, y
+
+II. A los servidores públicos a partir de los 40 años, para la realización de estudios correspondientes a la detección oportuna del cáncer de próstata.
+
+Las instituciones públicas preferentemente establecerán un calendario durante el mes de octubre de cada año, a fin de que, atendiendo a la naturaleza de las actividades que desempeñen, gradualmente se otorguen las autorizaciones a favor de las Personas Servidoras Públicas.
+
 ###### Artículo 66.
 
 Se establecen dos períodos anuales de vacaciones, de diez días laborables cada uno, cuyas fechas deberán ser dadas a conocer oportunamente por cada institución pública. Los servidores públicos podrán hacer uso de su primer período vacacional siempre y cuando hayan cumplido seis meses en el servicio.
@@ -1149,13 +1159,17 @@ XVII. Integrar los expedientes de los servidores públicos y proporcionar las co
 
 XVIII. Abstenerse de solicitar certificado de no embarazo o constancia relativa al mismo a las mujeres que soliciten empleo.
 
+> <small>(ADICIONADA, G.G. 10 DE JUNIO DE 2022)</small>
+
+XIX. Abstenerse de rescindir la relación laboral de una servidora pública por el hecho de encontrarse embarazada, de licencia de maternidad o durante su periodo de lactancia, así como de coaccionarla directa o indirectamente para que renuncie.
+
 > <small>(ADICIONADA, G.G. 14 DE NOVIEMBRE DE 2014)</small>
 
-XIX. Realizar las deducciones correspondientes al salario o sueldo de un servidor público, derivado de una orden judicial de descuento para alimentos.
+XX. Realizar las deducciones correspondientes al salario o sueldo de un servidor público, derivado de una orden judicial de descuento para alimentos.
 
 > <small>(ADICIONADA, G.G. 3 DE AGOSTO DE 2016)</small>
 
-XX. Promover acciones afirmativas en favor de las servidoras públicas.
+XXI. Promover acciones afirmativas en favor de las servidoras públicas.
 
 > <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3558,3 +3572,19 @@ G.G. 26 DE NOVIEMBRE DE 2020.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 62.- POR EL QUE SE ADICIONA UN ARTÍCULO 65 BIS, A LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 67.- POR EL QUE SE ADICIONA LA FRACCIÓN XIX Y SE RECORREN LAS FRACCIONES SUBSECUENTES DEL ARTÍCULO 98 DE LA LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
