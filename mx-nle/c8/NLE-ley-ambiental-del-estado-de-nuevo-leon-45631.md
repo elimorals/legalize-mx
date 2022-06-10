@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2022-05-11"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -463,11 +463,9 @@ LXXXVI. Riesgo ambiental: Peligro, justificado a través de elementos técnicos,
 
 LXXXVII. Riesgo inminente: Elevada posibilidad o probabilidad potencial de que un evento suceda, en el corto plazo en perjuicio del equilibrio ecológico o ambiente en general justificada a través de elementos técnicos;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-LXXXVIII. Secretaría: La Secretaría de Desarrollo Sustentable del Estado de Nuevo
-
-León;
+LXXXVIII. Secretaría: La Secretaría de Medio Ambiente;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
@@ -2561,9 +2559,17 @@ I. La prevención y control de la contaminación del agua es fundamental para ev
 
 II. El aprovechamiento del agua en actividades productivas susceptibles de generar contaminación, conlleva la responsabilidad del usuario para realizar el tratamiento de las descargas, para reintegrarla en condiciones adecuadas con el fin de reutilizarla en otras actividades y mantener el equilibrio de los ecosistemas;
 
-III. Los ríos, cuencas, vasos y demás depósitos o corrientes de agua, incluyendo las del subsuelo, no deberán recibir aguas residuales sin su previo tratamiento; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-IV. Corresponde al Estado, prevenir y controlar la contaminación de las aguas que se encuentren en el territorio del Estado, así como las que les fueren asignadas por la Federación, en coordinación con la Comisión Nacional del Agua.
+III. Los ríos, cuencas, vasos y demás depósitos o corrientes de agua, incluyendo las del subsuelo, no deberán recibir aguas residuales sin su previo tratamiento;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+IV. Corresponde al Estado, prevenir y controlar la contaminación de las aguas que se encuentren en el territorio del Estado, así como las que les fueren asignadas por la Federación en coordinación con la Comisión Nacional del Agua; y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+V. En relación a la fracción anterior el Gobierno del Estado deberá realizar programas permanentes de limpieza de los ríos, cuencas, vasos y demás depósitos o corrientes de agua en Coordinación con la Federación y los municipios con base a las facultades y atribuciones que les correspondan.
 
 ###### Artículo 156.
 
@@ -3471,9 +3477,9 @@ Las sanciones aplicables por las infracciones administrativas en este Capítulo,
 
 I. Apercibimiento;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-II. Multa de veinte a treinta mil veces el valor diario de la Unidad de Medida y Actualización;
+II. Multa de cuarenta a treinta mil veces el valor diario de la Unidad de Medida y Actualización;
 
 III. Clausura temporal o definitiva, parcial o total, cuando se presente uno o más de los supuestos establecidos en el artículo 237 de esta Ley;
 
@@ -3508,6 +3514,10 @@ Si una vez vencido el plazo concedido por la autoridad para subsanar la o las in
 En el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto, sin exceder del doble del máximo permitido, y en su caso, podrá proceder la clausura definitiva.
 
 Se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un período de dos años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+En los casos de las infracciones administrativas establecidas en las fracciones I, II, IV, IX, X, XII, XVI, XVII, del artículo 236 se aplicará multa de cien a treinta mil veces el valor diario de la Unidad de Medida de Actualización, además de las que resulten.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
 
@@ -4146,3 +4156,17 @@ P.O. 11 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 123. SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 126 BIS 13, PRIMER PÁRRAFO DEL ARTÍCULO 191 Y EL ARTÍCULO 193 TODOS DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 153. SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 232 Y SE ADICIONA UN PÁRRAFO AL ARTÍCULO 232 DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los municipios del Estado de Nuevo León deberán ajustar sus reglamentos para dar cumplimiento a esta disposición dentro de los 60 días posteriores al de su publicación.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 155. SE REFORMAN LA FRACCIÓN LXXXVIII DEL ARTÍCULO 3 Y LAS FRACCIONES III Y IV Y POR ADICIÓN DE LA FRACCIÓN V AL ARTÍCULO 155 DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
