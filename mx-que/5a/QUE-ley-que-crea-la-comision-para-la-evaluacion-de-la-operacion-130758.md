@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-crea-la-comision-para-la-evaluacion-de-la-operacion-130
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-03"
-last_updated: "2021-10-08"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY QUE CREA LA COMISIÓN PARA LA EVALUACIÓN DE LA OPERACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO DEL ESTADO DE QUERÉTARO, DENOMINADA "COSMOS"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Ley publicada en el Número 87 del Periódico Oficial del Estado de Querétaro, el miércoles 3 de octubre de 2018.
 
@@ -139,7 +137,9 @@ En las sesiones de Cosmos, a invitación de los integrantes, podrán participar 
 
 Los ejes sustantivos que servirán de referencia para el diseño de las políticas, lineamientos, recomendaciones, propuestas de modificaciones normativas y acciones tendientes a lograr la consolidación, coordinación, capacitación y evaluación del Sistema de Justicia Penal Acusatorio del Estado de Querétaro, son:
 
-I. Atención a Víctimas;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+I. Atención a Víctimas del Delito;
 
 II. Defensoría Penal Pública;
 
@@ -303,15 +303,23 @@ d) Un representante de la Secretaría de Seguridad Ciudadana del Poder Ejecutivo
 
 e) Un representante de la Comisión Estatal del Sistema Penitenciario de Querétaro.
 
-VI. De Atención a Víctimas, la cual se integrará con los siguientes miembros:
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-a) Un representante de la Secretaría de Gobierno del Poder Ejecutivo del Estado;
+VI. De Atención a Víctimas del Delito, la cual se integrará con los siguientes miembros:
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+a) Un representante de la Fiscalía General del Estado;
 
 b) Un representante del Poder Judicial;
 
-c) Un representante de la Fiscalía General del Estado; y
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
 
-d) Un representante de la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado.
+c) Un representante de la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado; y
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+d) Un representante de la Secretaría de Gobierno del Poder Ejecutivo del Estado.
 
 VII. De la Defensoría Penal Pública, la cual se integrará con los siguientes miembros:
 
@@ -399,7 +407,9 @@ IV. De Justicia para Adolescentes: Tiene a su cargo la elaboración de propuesta
 
 V. Del Sistema Penitenciario: Tiene a su cargo la elaboración de estudios, propuestas y revisión de acciones necesarias en la supervisión de la prisión preventiva y la ejecución de sanciones penales, así como de las medidas de seguridad derivadas de una sentencia;
 
-VI. De Atención a Víctimas: Tiene a su cargo la elaboración de estudios, propuestas y revisión de las acciones vinculadas con la atención inmediata, asesoría jurídica y de reparación a la víctima, de acceso a la justicia, a la verdad, a la reparación integral del daño, conforme al Apartado C del artículo 20, de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+VI. De Atención a Víctimas del Delito: Tiene a su cargo la elaboración de estudios, propuestas, revisión y evaluación de las acciones vinculadas con la atención inmediata, asesoría jurídica y de reparación a la víctima del delito, de acceso a la justicia, a la verdad, a la reparación integral del daño, conforme al Apartado C del artículo 20, de la Constitución Política de los Estados Unidos Mexicanos.
 
 VII. De Defensoría Penal Pública: Tiene a su cargo la elaboración de estudios, propuestas y revisión de acciones en materia de los servicios de defensa penal pública, a efecto de garantizar que sea de calidad, técnica y adecuada para la persona con el carácter de requerida, imputada o acusada, en términos de lo dispuesto por el artículo 17, de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -554,3 +564,43 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE SEGURIDAD Y JUSTICIA CÍVICA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley comenzará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+La Ley del Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro entrará en vigor el 01 de julio del 2022.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias hechas a la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro previstas en otros ordenamientos jurídicos, se entenderán a favor del organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro, serán concluidos con todos sus alcances, efectos y facultades por el organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro o, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+El organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, iniciará sus funciones 60 días hábiles posteriores al inicio de la vigencia de su Ley.
+
+Los recursos humanos, materiales y financieros con que cuenta la Subsecretaría de Prevención Social y Atención a Víctimas, la Dirección de Prevención Social de la Violencia y la Delincuencia, así como la Dirección de Mecanismos Alternativos de Solución de Controversias y Conflictos y el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, se trasladarán al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro.
+
+Los trabajadores de la Subsecretaría de Prevención Social y Atención a Víctimas, la Dirección de Prevención Social de la Violencia y la Delincuencia, así como de la Dirección de Mecanismos Alternativos de Solución de Controversias y Conflictos y el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, por virtud de la presente Ley, se transferirán al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, serán concluidos con todos sus alcances, efectos y facultades por el organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro o, atendiendo a su competencia.
+
+###### ARTÍCULO SEXTO.
+
+El Director General del organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, deberá realizar de inmediato los trámites correspondientes para la obtención de los registros fiscales y administrativos que exijan las disposiciones legales, para la debida operación de la entidad paraestatal, así como de las cuentas bancarias, convenios y demás instrumentos jurídicos con instituciones públicas y privadas para el cumplimiento de su objeto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas del Poder Ejecutivo del Estado, realizará las adecuaciones presupuestales conforme a la disponibilidad financiera con que cuente para el presente ejercicio fiscal, a fin de dotar de los recursos materiales y financieros que permitan al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro el cumplimiento de la presente Ley.
