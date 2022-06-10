@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2021-08-11"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -8193,6 +8193,12 @@ En los juicios en que se reclamen alimentos entre cónyuges, si durante la trami
 
 Durante la sustanciación de las controversias a que se refieren los artículos 1071, 1071 bis y 1074 de este Código, se seguirá abonando al acreedor alimentista la pensión asignada conforme a la primera parte del artículo 1071 del presente Código.
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+###### Artículo 1075 Bis.
+
+Si el obligado mediante resolución judicial al pago de la pensión alimenticia, provisional o definitiva, dejara de cubrirla sin causa justificada por un período mayor de sesenta días, la Autoridad competente de inmediato, deberá dar aviso a las autoridades migratorias y demás competentes de conformidad con el artículo 48, fracción VI de la Ley de Migración, a fin de restringir la salida del país del deudor alimentista, siempre que ésta sea una medida idónea para el cumplimiento de la obligación alimentaria.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 #### SECCION TERCERA. DE LA CUSTODIA, CONVIVENCIA Y POSESION DE ESTADO DE PADRE O DE HIJO
@@ -9994,3 +10000,9 @@ P.O. 11 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 524. SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 727, LA FRACCIÓN I DEL ARTÍCULO 1446 BIS, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 2429, LA FRACCIÓN LL DEL ARTÍCULO 2449, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 2742 Y EL ARTÍCULO 2743 TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 27, LAS FRACCIONES I Y II Y EL PÁRRAFO TERCERO DEL ARTÍCULO 743, LA FRACCIÓN I DEL ARTÍCULO 781 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 2 DEL TÍTULO ESPECIAL DENOMINADO “DE LA JUSTICIA DE PAZ”, TODOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 147. SE ADICIONA EL ARTÍCULO 1075 BIS, AL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
