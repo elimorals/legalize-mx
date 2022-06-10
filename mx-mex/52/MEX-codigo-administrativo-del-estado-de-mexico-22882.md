@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2022-06-02"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE JUNIO DE 2022.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1407,9 +1407,13 @@ XVII. Implementar los mecanismos e instrumentos necesarios que permitan a la pob
 
 XVIII. Coordinar programas con la finalidad de promover la prevención, tratamiento, combate al sobrepeso, obesidad y trastornos alimentarios.
 
-> <small>(ADICIONADA, G.G. 23 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE JUNIO DE 2022)</small>
 
-XIX. Las demás que se requieran para el cumplimiento de los objetivos del sistema estatal de salud.
+XIX. Diseñar, implementar y promover programas de atención psicológica a pacientes diagnosticados con cáncer a lo largo de todo su tratamiento.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 10 DE JUNIO DE 2022)</small>
+
+XX. Las demás que se requieran para el cumplimiento de los objetivos del sistema estatal de salud.
 
 ### CAPITULO TERCERO. Del Centro Estatal de Trasplantes
 
@@ -18422,3 +18426,11 @@ SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 TERCERO. Las referencias realizadas en disposiciones jurídicas, reglamentarias, administrativas, y documentación a la Coordinación General de Protección Civil se entenderán hechas a la Coordinación General de Protección Civil y Gestión Integral del Riesgo.
 
 CUARTO. Atendiendo a la fracción X, del artículo 6.7 y al artículo 6.8 Bis, del presente Código, para otorgar el reconocimiento al que se hace referencia, el Ejecutivo Estatal establecerá en el Reglamento, las bases y lineamientos a los que se sujetarán los aspirantes a recibir dicho premio, debiendo considerar para tal efecto una convocatoria pública.
+
+G.G. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 64.- POR EL QUE SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 2.22, Y SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 2.22 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
