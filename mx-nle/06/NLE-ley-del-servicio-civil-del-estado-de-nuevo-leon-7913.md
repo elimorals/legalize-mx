@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-civil-del-estado-de-nuevo-leon-7913"
 country: "mx"
 rank: "ley"
 publication_date: "1948-06-26"
-last_updated: "2022-04-01"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 26 de junio de 1948.
 
@@ -151,7 +151,29 @@ Los trabajadores Estatales o Municipales, prestarán siempre sus servicios media
 
 Tendrán capacidad legal para aceptar un nombramiento de trabajadores al servicio del Estado o de los Municipios, para recibir el sueldo correspondiente y para ejercer las acciones derivadas de esta Ley, los menores de edad, de uno y otro sexo, que tengan más de dieciséis años.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE JUNIO DE 2022)</small>
+
+Los menores de edad deberán obtener un certificado médico que acredite su aptitud para el trabajo y someterse a los exámenes médicos que periódicamente ordenen las autoridades laborales correspondientes. Sin estos requisitos, ni el Estado, ni los Municipios podrá (sic) utilizar sus servicios.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+El trabajo de los menores queda sujeto a vigilancia y protección especiales (sic) de las autoridades del trabajo local.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 10 DE JUNIO DE 2022)</small>
+
+Queda prohibida la utilización del trabajo de los menores de dieciocho años:
+
+I.- En labores peligrosas o insalubres que, por la naturaleza del trabajo, por las condiciones físicas, químicas o biológicas del medio en que se presta, son capaces de actuar sobre la vida, el desarrollo y la salud física y mental de los menores.
+
+II. En trabajos susceptibles de afectar su moralidad o buenas costumbres; y
+
+La jornada de trabajo de los menores de edad no podrá exceder de seis horas diarias y deberán dividirse en períodos máximos de tres horas. Entre los distintos períodos de la jornada, disfrutarán de reposos de una hora por lo menos.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+Queda prohibida la utilización del trabajo de los menores de edad, en horas extraordinarias y en los días domingos y de descanso obligatorio.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 10 DE JUNIO DE 2022)</small>
 
 La ausencia de contrato individual de trabajo o nombramiento por escrito no priva al trabajador de los derechos que deriven de las normas de trabajo y de los servicios prestados; la falta de dicha formalidad es imputable al Estado o Municipio.
 
@@ -235,9 +257,11 @@ Cuando por circunstancias especiales deban aumentase las horas de jornada máxim
 
 Por cada seis días de trabajo, disfrutará el trabajador cuando menos de un día de descanso, con goce de salario íntegro.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO PRIMER PÁRRAFO], P.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Art. 24o.
+
+Las mujeres tendrán los mismos derechos y las mismas obligaciones que los hombres, garantía que se establece en lo general y específicamente en función de la protección de las trabajadoras y trabajadores con responsabilidades familiares, asegurando la igualdad de trato y oportunidades.
 
 Las mujeres disfrutarán de un mes de Licencia de Maternidad antes de la fecha que aproximadamente se fije para el parto y de otros dos después del mismo. En caso de parto prematuro o cuando así lo requiera por decisión propia, la mujer trabajadora tendrá derecho a que se acumule su Licencia de Maternidad posterior del parto, el lapso de licencia que no hizo efectivo antes del mismo, de modo de completar los tres meses.
 
@@ -415,9 +439,13 @@ Se entenderá como centros de atención, a aquellos espacios, cualquiera que sea
 
 XVII.- Otorgar permiso de ausencia laboral por motivo de luto a causa del fallecimiento de algún familiar dentro del primer grado por consanguinidad o afinidad, por un plazo mínimo de 3 días hábiles y máximo de 5 días hábiles con goce de sueldo a las personas trabajadoras. Estos días serán aquellos inmediatos al deceso.
 
-> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-XVIII.- Una vez al año, otorgar permiso de un día con goce de sueldo a las mujeres trabajadoras, para realizarse estudios médicos preventivos de cáncer de mama y cervicouterino.
+XVIII.- Una vez al año, otorgar permiso de un día con goce de sueldo a las mujeres trabajadoras, para realizarse estudios médicos preventivos de cáncer de mama y cervicouterino, y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+XIX.- Otorgar permisos de ausencia laboral por motivos de asuntos escolares relacionados con sus hijos o hijas menores de edad, previa justificación, hasta por cuatro horas, los cuales no podrán exceder de cuatro permisos durante el año escolar. Se podrá compensar la ausencia con un tiempo igual de trabajo efectivo, previo acuerdo entre la persona trabajadora y su superior jerárquico.
 
 ### CAPITULO QUINTO. De las obligaciones de los funcionarios y trabajadores
 
@@ -897,11 +925,11 @@ IV.- Una relación detallada de los hechos, y
 
 V.- La indicación del lugar en que puedan obtenerse las pruebas que el demandante no pudiere aportar directamente y que tengan por objeto la verificación de los hechos en que se funde la demanda y las diligencias que con el mismo fin se solicite que sean practicadas por el Tribunal. A la demanda se acompañarán las pruebas de que disponga el demandante y los documentos que acrediten la personalidad del representante en caso de que aquel no pudiere concurrir personalmente.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Art. 94o.
 
-La contestación de la demanda deberá reunir los mismos requisitos que ésta y será presentada en un término que no exceda de seis días hábiles contados a partir de la fecha en que aquella fuera notificada.
+La contestación de la demanda deberá reunir los mismos requisitos que ésta y será presentada en un término que no exceda de diez días hábiles contados a partir de la fecha en que aquella fuera notificada.
 
 ###### Art. 95o.
 
@@ -1192,3 +1220,19 @@ P.O. 1 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 082. SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 36 DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 133. SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 36 Y SE ADICIONA LA FRACCIÓN XIX AL ARTÍCULO 36, TODOS DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La persona Titular del Poder Ejecutivo y los Ayuntamientos contarán con un plazo de 90 días hábiles, a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se le otorgan por medio del presente Decreto.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 159. SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 9, EL PRIMER PÁRRAFO DEL ARTÍCULO 24 Y EL ARTÍCULO 94; POR ADICIÓN DE LOS PÁRRAFOS TERCERO, CUARTO CON LAS FRACCIONES I Y II, QUINTO Y SEXTO AL ARTÍCULO 9, Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 94, TODOS DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La persona Titular del Poder Ejecutivo y los Ayuntamientos contarán con un plazo de 90 días hábiles, a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se le otorgan por medio del presente Decreto.
