@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-fiscalia-general-del-estado-de-queretaro-114
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-05-30"
-last_updated: "2021-10-08"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
 
@@ -241,13 +239,21 @@ XV. Difundir la utilización de los Mecanismos Alternativos de Solución de Cont
 
 XVI. Aplicar los Mecanismos Alternativos de Solución de Controversias en Materia Penal, en los términos de las disposiciones aplicables;
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-XVII. Celebrar convenios para el cumplimiento de los fines de los Mecanismos Alternativos de Solución de Controversias en Materia Penal, de conformidad con las disposiciones legales aplicables; y
+XVII. Celebrar convenios para el cumplimiento de los fines de los Mecanismos Alternativos de Solución de Controversias en Materia Penal, de conformidad con las disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2022)</small>
 
-XVIII. Las demás que se establezcan en las disposiciones aplicables.
+XVIII. Coordinar las acciones de las dependencias, organismos y demás instituciones públicas en todo lo concerniente al cumplimiento de las disposiciones en materia de víctimas de delitos;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+XIX. Realizar las gestiones necesarias ante la autoridad competente para que su personal cuente con firma electrónica avanzada, de acuerdo a la normatividad en la materia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2022)</small>
+
+XX. Las demás que se establezcan en las disposiciones aplicables.
 
 ## Título Segundo. De la integración de la Fiscalía General del Estado de Querétaro
 
@@ -397,7 +403,11 @@ XV. Solicitar a la autoridad judicial competente la intervención de las comunic
 
 XVI. Autorizar la técnica de investigación de infiltración de policías de investigación, velando siempre que no se cause daño a la vida o salud de las personas y se emita acuerdo fundado y motivado que justifique su necesidad;
 
-XVII. Nombrar al personal que considere necesario para realizar actividades especiales o especializadas que las funciones del órgano requieran;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+XVII. Proponer ante la Legislatura del Estado de Querétaro, la designación del titular de la Contraloría.
+
+Ante la falta del titular de la Contraloría, podrá designar un suplente hasta en tanto la Legislatura del Estado de Querétaro, realice el nombramiento correspondiente;
 
 XVIII. Realizar semestralmente reuniones interinstitucionales para el intercambio de experiencias que tengan por objeto mejorar la procuración de justicia;
 
@@ -433,9 +443,13 @@ XXVI. Autorizar los manuales de procedimientos de las direcciones de la Fiscalí
 
 XXVII. Autorizar operaciones encubiertas como parte de las acciones de investigación del delito, dentro de un expediente o carpeta de investigación, de conformidad con las disposiciones aplicables; y
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2022)</small>
 
-XXVIII. Las demás establecidas en otras disposiciones jurídicas aplicables.
+XXVIII. Realizar por sí o por medio de quien delegue, la gestión de las evaluaciones a las que deberá someterse el personal de la Institución en materia de Control de Confianza; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2022)</small>
+
+XXIX. Las demás establecidas en otras disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -1003,11 +1017,15 @@ X. Hacer uso legal de la fuerza física y material, conforme a los protocolos es
 
 XI. Actuar bajo la conducción y mando del Fiscal en el aseguramiento de bienes relacionados con la investigación de los delitos;
 
-XII. (DEROGADA, P.O. 2 DE JUNIO DE 2021)
+XII. (REPUBLICADA SU DEROGACIÓN, P.O. 10 DE JUNIO DE 2022)
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2022)</small>
 
-XIII. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
+XIII. Coadyuvar en el ámbito de su competencia bajo el enfoque de proximidad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2022)</small>
+
+XIV. Las demás que le confieran las disposiciones legales aplicables y su reglamento.
 
 ### Capítulo Octavo. De la Dirección Jurídica y de Vinculación Institucional
 
@@ -1261,6 +1279,12 @@ VIII. Realizar el cobro de derechos por las bases de licitación; y
 
 IX. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+Artículo 27 bis. El titular de la Contraloría será designado por la Legislatura del Estado en los términos de la Constitución Local, previa propuesta del titular de la Fiscalía General.
+
+El titular de la Contraloría o en su caso el encargado, tendrán las atribuciones establecidas en esta Ley y su Reglamento.
+
 ### Capítulo Segundo. De la designación del personal
 
 ###### Artículo 28.
@@ -1359,13 +1383,13 @@ XXII. Expedir las constancias de No inhabilitación respecto de servidores públ
 
 XXIII. Llevar a cabo el procedimiento administrativo de ejecución derivado de sanciones pecuniarias o multas administrativas impuestas al personal de la Fiscalía General, de conformidad con las disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-XXIV. Investigar las conductas de los servidores públicos de la Fiscalía General que puedan constituir responsabilidades administrativas;
+XXIV. Investigar por medio de la visitaduría de investigación las conductas de los servidores públicos de la Fiscalía General que puedan constituir responsabilidades administrativas;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-XXV. Iniciar y substanciar los procedimientos correspondientes, conforme a lo establecido en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Querétaro;
+XXV. Iniciar y substanciar por medio de la visitaduría de sustanciación los procedimientos correspondientes, conforme a lo establecido en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Querétaro;
 
 > <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1910,3 +1934,43 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE SEGURIDAD Y JUSTICIA CÍVICA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley comenzará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+La Ley del Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro entrará en vigor el 01 de julio del 2022.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias hechas a la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro previstas en otros ordenamientos jurídicos, se entenderán a favor del organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro, serán concluidos con todos sus alcances, efectos y facultades por el organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro o, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+El organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, iniciará sus funciones 60 días hábiles posteriores al inicio de la vigencia de su Ley.
+
+Los recursos humanos, materiales y financieros con que cuenta la Subsecretaría de Prevención Social y Atención a Víctimas, la Dirección de Prevención Social de la Violencia y la Delincuencia, así como la Dirección de Mecanismos Alternativos de Solución de Controversias y Conflictos y el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, se trasladarán al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro.
+
+Los trabajadores de la Subsecretaría de Prevención Social y Atención a Víctimas, la Dirección de Prevención Social de la Violencia y la Delincuencia, así como de la Dirección de Mecanismos Alternativos de Solución de Controversias y Conflictos y el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, por virtud de la presente Ley, se transferirán al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, serán concluidos con todos sus alcances, efectos y facultades por el organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro o, atendiendo a su competencia.
+
+###### ARTÍCULO SEXTO.
+
+El Director General del organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, deberá realizar de inmediato los trámites correspondientes para la obtención de los registros fiscales y administrativos que exijan las disposiciones legales, para la debida operación de la entidad paraestatal, así como de las cuentas bancarias, convenios y demás instrumentos jurídicos con instituciones públicas y privadas para el cumplimiento de su objeto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas del Poder Ejecutivo del Estado, realizará las adecuaciones presupuestales conforme a la disponibilidad financiera con que cuente para el presente ejercicio fiscal, a fin de dotar de los recursos materiales y financieros que permitan al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro el cumplimiento de la presente Ley.
