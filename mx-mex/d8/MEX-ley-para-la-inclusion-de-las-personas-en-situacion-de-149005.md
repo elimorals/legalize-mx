@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-inclusion-de-las-personas-en-situacion-de-149005"
 country: "mx"
 rank: "ley"
 publication_date: "2021-04-14"
-last_updated: "2022-04-01"
+last_updated: "2022-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY PARA LA INCLUSION DE LAS PERSONAS EN SITUACION DE DISCAPACIDAD DEL ESTADO DE MEXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE JUNIO DE 2022.
 
 Ley publicada en la Sección Primera del Número 68 de la Gaceta del Gobierno del Estado de México, el miércoles 14 de abril de 2021.
 
@@ -229,9 +229,11 @@ VII. Prestar servicios de atención a la salud, accesibilidad, asistencia social
 
 ### CAPÍTULO I. DENOMINACIÓN, OBJETO Y PATRIMONIO
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2022)</small>
+
 ###### Artículo 10.
 
-El Instituto es un organismo público descentralizado, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Salud, que para el cumplimiento de sus atribuciones gozará de autonomía técnica y de gestión para formular políticas, acciones, estrategias y programas derivados de esta Ley.
+Se crea al Instituto como un organismo público descentralizado, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Salud, que para el cumplimiento de sus atribuciones gozará de autonomía técnica y de gestión para formular políticas, acciones, estrategias y programas derivados de esta Ley.
 
 ###### Artículo 11.
 
@@ -849,7 +851,9 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
-TERCERO. Se abroga la Ley para la Protección, Integración y Desarrollo de las Personas con Discapacidad en el Estado de México, publicada en el Periódico Oficial “Gaceta del Gobierno”, el 31 de agosto de 2012.
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2022)</small>
+
+TERCERO. Se abroga la Ley para la Protección, Integración y Desarrollo de las Personas con Discapacidad en el Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno", el 31 de agosto de 2012 y se crea al Instituto Mexiquense para la Discapacidad.
 
 CUARTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación al Instituto Mexiquense para la Protección, Integración y Desarrollo de las Personas con Discapacidad se entenderán hechas al Instituto Mexiquense para la Discapacidad.
 
@@ -892,3 +896,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor a los 120 días hábiles siguiente (sic) a su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Lo previsto en el presente Decreto se cumplirá de manera gradual y progresiva de conformidad con la disponibilidad presupuestal.
+
+G.G. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 63.- POR EL QUE SE REFORMA EL ARTÍCULO 10 Y EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO 258, PUBLICADO EL 14 DE ABRIL DEL 2021, POR EL QUE SE EXPIDE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
