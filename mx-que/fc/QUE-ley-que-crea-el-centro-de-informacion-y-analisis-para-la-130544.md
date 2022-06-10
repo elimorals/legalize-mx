@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-crea-el-centro-de-informacion-y-analisis-para-la-130544
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-17"
-last_updated: "2021-10-08"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY QUE CREA EL CENTRO DE INFORMACIÓN Y ANÁLISIS PARA LA SEGURIDAD DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUERÉTARO EL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 17 de agosto de 2018.
 
@@ -65,9 +63,11 @@ Se crea el Centro de Información y Análisis para la Seguridad de Querétaro, c
 
 El Centro estará sectorizado a la Secretaría de Seguridad Ciudadana del Poder Ejecutivo.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
+
 ###### Artículo 3.
 
-El Centro tiene por objeto el comando, operación, monitoreo, y control del sistema estatal de video vigilancia, operación informática, análisis de información, atención de las líneas de emergencia y denuncia anónima, y la operación y administración de la red estatal de telecomunicaciones para la seguridad (radiocomunicación y red de transporte de voz y datos) con la finalidad de garantizar el derecho fundamental de la seguridad en el Estado, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la Ley de Seguridad para el Estado de Querétaro y las demás disposiciones aplicables.
+El Centro tiene por objeto el comando, operación, monitoreo, y control del sistema estatal de video vigilancia y del registro público vehicular estatal, operación informática, análisis y resguardo de información, atención y coordinación estatal de las líneas de emergencia y denuncia anónima, así como la operación y administración de la red estatal de telecomunicaciones para la seguridad (radiocomunicación y red de transporte de voz y datos) con la finalidad de garantizar el derecho fundamental de la seguridad en el Estado, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la Ley de Seguridad para el Estado de Querétaro y las demás disposiciones aplicables.
 
 ###### Artículo 4.
 
@@ -81,9 +81,17 @@ III. Institución de Seguridad: Las instituciones policiales, de procuración de
 
 IV. Sistema Estatal: Al Sistema Estatal de Seguridad de Querétaro;
 
-V. Videocámara: Cámara fija o móvil, equipos de grabación, o bien, todo medio técnico análogo, digital, óptico o electrónico y, en general, cualquier sistema que permita captar o grabar imágenes con o sin sonido; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-VI. Video vigilancia: La captación o grabación de imágenes con o sin sonido en lugares públicos o en lugares privados con acceso al público, a través de videocámaras, cámaras fijas o móviles, equipos de grabación, todo medio técnico análogo, digital, óptico o electrónico que permita captar o grabar imágenes con o sin sonido.
+V. Videocámara: Cámara fija o móvil, equipos de grabación, o bien, todo medio técnico análogo, digital, óptico o electrónico y, en general, cualquier sistema que permita captar o grabar imágenes con o sin sonido;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+VI. Video vigilancia: La captación o grabación de imágenes con o sin sonido en lugares públicos o en lugares privados con acceso al público, a través de videocámaras, cámaras fijas o móviles, equipos de grabación, todo medio técnico análogo, digital, óptico o electrónico que permita captar o grabar imágenes con o sin sonido; y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+VII. Banco Estatal de Datos sobre Seguridad: Plataforma de almacenamiento de información que administra y resguarda los datos capturados y procesados por los integrantes de las instituciones de seguridad del Estado de Querétaro de conformidad con las disposiciones aplicables.
 
 ## Título Segundo. Del Centro de Información y Análisis para la Seguridad de Querétaro
 
@@ -105,7 +113,9 @@ V. Crear y mantener actualizado el registro de equipos y sistemas tecnológicos 
 
 VI. Establecer los lineamientos de operación y coordinación de los centros de monitoreo y complejos de seguridad del sistema estatal de video vigilancia;
 
-VII. Recibir, procesar, resguardar y almacenar la información recabada por medios electrónicos como parte del banco estatal de datos sobre seguridad;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+VII. Recibir, procesar, resguardar y almacenar la información recabada por medios electrónicos como parte del banco estatal de datos sobre seguridad, incluyendo los recabados por la policía de proximidad;
 
 VIII. Clasificar y organizar la información que se recabe por medio de las videograbaciones;
 
@@ -127,7 +137,9 @@ XVI. Establecer los estándares para la integración de sistemas privados de vid
 
 XVII. Administrar, determinar y aplicar las medidas de seguridad para el acceso y uso del Sistema Informático Único (SIU);
 
-XVIII. Coordinar el servicio de atención de llamadas de emergencia 9-1-1 a nivel estatal;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+XVIII. Coordinar el servicio de atención de llamadas de emergencia 9-1-1 a nivel estatal estableciendo las herramientas tecnológicas homologadas de captura y procesamiento de bases de datos;
 
 XIX. Efectuar las acciones de comunicación necesarias para el inmediato despacho y arribo de las unidades de emergencia competentes para la atención directa de un evento en función del tipo de emergencia;
 
@@ -141,9 +153,29 @@ XXIII. Administrar y mantener en operación la red de radiocomunicación del Sis
 
 XXIV. Administrar y mantener en operación la red de transporte de voz y datos del Sistema Estatal de Seguridad del Estado de Querétaro;
 
-XXV. Compartir la información, sobre seguridad pública que corresponda, a través de la Red Nacional de Telecomunicaciones, al Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-XXVI. Las demás que establezcan otras disposiciones jurídicas aplicables.
+XXV. Compartir la información, sobre seguridad pública que corresponda, a través de la Red Nacional de Telecomunicaciones, al Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2022)</small>
+
+XXVI. Coordinar el Registro Público Vehicular en el Estado;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+XXVII. Establecer los lineamientos para la instalación de los arcos lectores de identificación por radiofrecuencias (RFID) y sistemas de lectura de matrículas (LPR), que se pretendan colocar y poner en funcionamiento en el estado de Querétaro; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2022)</small>
+
+XXVIII. Las demás que establezcan otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+###### Artículo 5 Bis.
+
+El resguardo, administración, recepción y entrega de información contenida en el Banco Estatal de Datos sobre Seguridad del Estado de Querétaro, estará a cargo del Centro en el ámbito de su competencia.
+
+Las herramientas tecnológicas que alimentan el Banco Estatal de Datos sobre Seguridad por parte de las instituciones de seguridad deberán estar homologadas a los lineamientos y requisitos mínimos de operación de El Centro.
 
 ### Capítulo II. Del Patrimonio
 
@@ -520,3 +552,43 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE SEGURIDAD Y JUSTICIA CÍVICA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley comenzará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+La Ley del Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro entrará en vigor el 01 de julio del 2022.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias hechas a la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro previstas en otros ordenamientos jurídicos, se entenderán a favor del organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro, serán concluidos con todos sus alcances, efectos y facultades por el organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro o, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+El organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, iniciará sus funciones 60 días hábiles posteriores al inicio de la vigencia de su Ley.
+
+Los recursos humanos, materiales y financieros con que cuenta la Subsecretaría de Prevención Social y Atención a Víctimas, la Dirección de Prevención Social de la Violencia y la Delincuencia, así como la Dirección de Mecanismos Alternativos de Solución de Controversias y Conflictos y el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, se trasladarán al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro.
+
+Los trabajadores de la Subsecretaría de Prevención Social y Atención a Víctimas, la Dirección de Prevención Social de la Violencia y la Delincuencia, así como de la Dirección de Mecanismos Alternativos de Solución de Controversias y Conflictos y el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, por virtud de la presente Ley, se transferirán al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, serán concluidos con todos sus alcances, efectos y facultades por el organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro o, atendiendo a su competencia.
+
+###### ARTÍCULO SEXTO.
+
+El Director General del organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, deberá realizar de inmediato los trámites correspondientes para la obtención de los registros fiscales y administrativos que exijan las disposiciones legales, para la debida operación de la entidad paraestatal, así como de las cuentas bancarias, convenios y demás instrumentos jurídicos con instituciones públicas y privadas para el cumplimiento de su objeto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas del Poder Ejecutivo del Estado, realizará las adecuaciones presupuestales conforme a la disponibilidad financiera con que cuente para el presente ejercicio fiscal, a fin de dotar de los recursos materiales y financieros que permitan al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro el cumplimiento de la presente Ley.
