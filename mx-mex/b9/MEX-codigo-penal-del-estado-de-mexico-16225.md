@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2022-01-21"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE JUNIO DE 2022.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1771,23 +1771,57 @@ A quien teniendo la obligación legal, no supervise o ejecute el proceso de desi
 
 Si el responsable es servidor público, además de las penas señaladas en el párrafo anterior, se le destituirá e inhabilitará hasta por seis años.
 
-> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 145 Ter.
 
-A quien distribuya agua potable a través de pipa, sin contar con el permiso de distribución o evaluación correspondiente, expedidos por la autoridad competente, se le impondrán de dos a seis años de prisión y de cincuenta a doscientos días multa.
+A quien distribuya o suministre agua potable a través de pipa u otro medio de almacenamiento, sin contar con el permiso de distribución o la evaluación correspondiente, expedidos por la autoridad competente, con la finalidad de obtener un beneficio económico, se le impondrán de dos a seis años de prisión y de cincuenta a doscientas unidades de medida y actualización.
 
-> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 145 Quáter.
 
-A quien distribuya agua potable a través de pipa y utilice una fuente de abastecimiento diversa a la autorizada se le impondrá de uno a tres años de prisión y de veinticinco a cien días de multa.
+A quien distribuya agua potable a través de pipa, y la extraiga u obtenga de una fuente de abastecimiento diversa a la autorizada, se le impondrá de uno a tres años de prisión y de veinticinco a cien unidades de medida y actualización.
 
-> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 145 Quinquies.
 
-Al que sin causa justificada impida o restrinja de cualquier forma el flujo del agua destinado al suministro de los usuarios de dicho servicio, se impondrá de dos a seis años de prisión y de cincuenta a doscientos días multa.
+Al que sin causa justificada altere, impida o restrinja de cualquier forma el flujo de agua destinado al suministro de los usuarios de dicho servicio, se (sic) impondrá de dos a seis años de prisión y de cincuenta a doscientas unidades de medida y actualización.
+
+> <small>(ADICIONADO, G.G. 10 DE JUNIO DE 2022)</small>
+
+###### Artículo 145 Sexies.
+
+Al que, sin autorización, concesión, licencia o permiso expedido por la autoridad competente, sustraiga o se apropie del agua potable de la infraestructura hidráulica, independientemente del uso que se le destine, se le impondrá de dos a seis años de prisión y de cien a quinientas unidades de medida y actualización.
+
+Si la persona es servidora pública (sic), que disponga, supervise, controle, maneje, o por su encargo o comisión, puedan abastecer o facilitar la sustracción de agua potable de la infraestructura hidráulica estatal, además de las penas señaladas en el párrafo anterior, se incrementará con una mitad adicional; lo anterior, sin perjuicio de las sanciones que procedan por la responsabilidad administrativa en la que incurran.
+
+> <small>(ADICIONADO, G.G. 10 DE JUNIO DE 2022)</small>
+
+###### Artículo 145 Septies.
+
+Se equiparán al delito de sustracción o apropiación de agua potable las siguientes conductas:
+
+I. El comercializar o explotar agua potable sustraída o apropiada.
+
+II. El almacenar, ocultar, poseer o resguardar agua potable sustraída o apropiada para su uso o consumo en cualquier modalidad.
+
+III. El transportar, suministrar o distribuir por cualquier medio el agua potable sustraída o apropiada.
+
+Las conductas señaladas en el párrafo anterior, se sancionarán de la siguiente manera:
+
+a) Cuando la cantidad sea mayor a cuatrocientos litros, se le impondrá de uno a tres años de prisión y de cien a doscientas unidades de medida y actualización.
+
+b) Cuando la cantidad sea mayor a quinientos litros, pero menor o equivalente a cinco mil litros, se le impondrá de dos a seis años de prisión y de ciento cincuenta a trescientas unidades de medida y actualización.
+
+c) Cuando la cantidad sea mayor a cinco mil litros, se le impondrá de cuatro a ocho años de prisión y de doscientas a cuatrocientas unidades de medida y actualización.
+
+> <small>(ADICIONADO, G.G. 10 DE JUNIO DE 2022)</small>
+
+###### Artículo 145 Octies.
+
+Al propietario, arrendatario, poseedor, detentador o a quien se ostente como tal de algún predio donde exista una toma que sustraiga o se apropie del agua potable de la infraestructura hidráulica, se le impondrá de dos a cuatro años de prisión y de ciento cincuenta a trescientas unidades de medida y actualización.
 
 ### CAPITULO XVI. DE LOS DELITOS COMETIDOS POR SERVIDORES PUBLICOS EN AGRAVIO DE LA HACIENDA PUBLICA ESTATAL O MUNICIPAL Y DE ORGANISMOS DEL SECTOR AUXILIAR
 
@@ -3998,6 +4032,10 @@ b) Si el delito es cometido en contra de una persona mayor de sesenta años de e
 c) Si el delito es cometido en contra de quien no tenga capacidad para comprender el significado del hecho o de resistirlo;
 
 d) Cuando el sujeto activo del delito tenga parentesco por consaguinidad (sic), afinidad o civil, habite en el mismo domicilio con la víctima, tenga una relación similar al parentesco o una relación sentimental o de confianza con el sujeto pasivo; además, en los casos que proceda, perderá la patria potestad, guarda y custodia o régimen de visitas y convivencias, el derecho de alimentos que le correspondiera por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta.
+
+> <small>(ADICIONADO, G.G. 10 DE JUNIO DE 2022)</small>
+
+e) Si el delito es cometido en contra de una persona perteneciente a un grupo indígena o persona en condición de marginalidad o vulnerabilidad social.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 15 DE MARZO DE 2011)</small>
 
@@ -7454,3 +7492,19 @@ G.G. 21 DE ENERO DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 65.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 145 TER, 145 QUÁTER Y 145 QUINQUIES; Y SE ADICIONAN LOS ARTÍCULOS 145 SEXIES, 145 SEPTIS (SIC) Y 145 OCTIES AL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 66.- POR EL QUE SE ADICIONA LA FRACCIÓN XV BIS AL ARTÍCULO 3 Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 20 DE LA LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE MÉXICO Y SE ADICIONA EL INCISO E) A LA FRACCIÓN III DEL ARTÍCULO 268 BIS 1 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
