@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-patrimonio-cultural-del-estado-de-nuevo-leon-9177"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-23"
-last_updated: "2020-12-30"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9177&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGIRÁ TODO LO RELATIVO AL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 23 de diciembre de 1991.
 
@@ -111,9 +111,9 @@ II.- La Secretaría General de Gobierno;
 
 III.- La Secretaría de Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-IV.- La Secretaría de Obras Públicas;
+IV.- La Secretaría de Movilidad y Planeación Urbana;
 
 V.- Los Ayuntamientos;
 
@@ -231,7 +231,25 @@ Las autoridades estatales y municipales negarán permisos o autorizaciones para 
 
 Las Juntas resolverán las inconformidades que se presenten en contra de su determinación.
 
-Las resoluciones de las inconformidades serán revisables a petición de parte, por la Secretaría General de Gobierno.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+Las resoluciones de inconformidad serán revisables a petición de parte, por la Secretaría General de Gobierno, en los siguientes términos, y podrán ser confirmadas, modificadas o revocadas:
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+I.- Deberá solicitarse por escrito con expresión de agravios, dentro del término (sic) 10- diez días hábiles contados a partir del día siguiente a aquél en el que, al afectado se le notifique la resolución, al que haya tenido conocimiento de la misma o su ejecución, o al que se hubiese ostentado de sabedor de los mismos.
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+II.- La solicitud se presentará ante la Junta que emitió la resolución de inconformidad combatida, con las copias necesarias para que ésta corra traslado a las demás partes interesadas del recurso y las emplazará para que, dentro de igual término al señalado en la fracción anterior, expongan lo que a su derecho convenga.
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+III.- Emplazadas las partes, se remitirá el escrito y el expediente correspondiente a la Secretaría General de Gobierno para su atención, la cual deberá dictar su resolución en un plazo no mayor a veinte días hábiles. Dicha resolución deberá ser congruente con los agravios expresados por el solicitante.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+En contra de los actos o resoluciones que dicte la Autoridad en aplicación a lo señalado en este artículo, los afectados podrán acudir al Tribunal de Justicia Administrativa, en términos de la Ley correspondiente.
 
 ###### ARTICULO 20o.
 
@@ -327,9 +345,9 @@ La declaratoria se pronunciará dentro de los 30 días siguientes a la expiraci�
 
 Los bienes muebles, inmuebles, recursos naturales declarados adscritos al patrimonio cultural, estarán sujetos a la protección jurídica del Estado, únicamente en lo que respecta a su valor cultural, sin importar quienes sean sus propietarios o poseedores.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
 
-Cualquier transmisión de propiedad requerirá previo permiso de la Secretaría de Obras Públicas.
+Cualquier transmisión de propiedad requerirá previo permiso de la Secretaría de Movilidad y Planeación Urbana.
 
 ###### ARTICULO 27o.
 
@@ -339,9 +357,9 @@ La adscripción al patrimonio cultural del estado, de un bien propiedad de los o
 
 I.- Solo podrá ser gravado u objeto de actos de traslación de dominio previo aviso por escrito a la Secretaria de Desarrollo Social y a la Junta de Protección y Conservación;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-II.- Sólo podrá ser restaurado, adaptado o modificado, en cualquier forma, previa autorización escrita por la Junta de Protección y Conservación a la que corresponda o en su defecto de la Secretaría de Obras Públicas del Estado, quienes la expedirán siempre que se respete su estructura y peculiaridad de su valor histórico, artístico y científico; y
+II.- Solo podrá ser restaurado, adaptado o modificado, en cualquier forma, previa autorización escrita por la Junta de Protección y Conservación a la que corresponda o en su defecto de la Secretaría de Movilidad y Planeación Urbana, quienes la expedirán siempre que se respete su estructura y peculiaridad de su valor histórico, artístico y científico; y
 
 III.- Deberá ser inscrito en el registro y catálogo de los bienes adscritos al patrimonio cultural.
 
@@ -359,21 +377,21 @@ Los propietarios o poseedores de bienes adscritos al patrimonio cultural están 
 
 El Estado tomará por su cuenta esos trabajos cuando su propietario esté imposibilitado económicamente y sean inaplazables.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
 
 ###### ARTICULO 31o.
 
-Corresponde a la Junta de Protección y Conservación o en su defecto a la Secretaría de Obras Públicas del Estado, vigilar y cuidar que la conservación, restauración, adaptación o modificación de un bien adscrito al patrimonio cultural, se ejecute de acuerdo con lo ordenado o autorizado.
+Corresponde a la Junta de Protección y Conservación o en su defecto a la Secretaría de Movilidad y Planeación Urbana del Estado, vigilar y cuidar que la conservación, restauración, adaptación o modificación de un bien adscrito al patrimonio cultural, se ejecute de acuerdo con lo ordenado o autorizado.
 
 ###### ARTICULO 32.
 
 El Titular del Ejecutivo, mediante decreto y previa opinión de la Junta que corresponda, podrá excluir o retirar bien de la adscripción al patrimonio cultural del Estado, a solicitud de parte o de oficio, cuando hubiere razón fundada para ello.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2022)</small>
 
 ###### ARTICULO 33o.
 
-Cuando en un bien adscrito al patrimonio cultural se ejecuten obras sin autorización o se viole lo ordenado o autorizado, la Secretaría de Obras Públicas del Estado, por sí misma o a instancia de la Junta ordenará de proceder así, su suspensión y la demolición de lo hecho, y, si fuere necesario, la restauración o reconstrucción del bien, en los siguientes supuestos:
+Cuando en un bien adscrito al patrimonio cultural se ejecuten obras sin autorización o se viole lo ordenado o autorizado, la Secretaría de Movilidad y Planeación Urbana, por sí misma o a instancia de la Junta ordenará, de proceder así, su suspensión y la demolición de lo hecho y si fuere necesario, la restauración o reconstrucción del bien, en los siguientes supuestos:
 
 I.- Si la obra realizada modifica o destruye la autenticidad del contenido histórico y artístico; y
 
@@ -649,9 +667,9 @@ Corresponde a la Procuraduría General de Justicia del Estado, el ejercicio de l
 
 El Ministerio Público podrá ordenar al iniciarse una averiguación previa o durante su substanciación, o solicitarlo al juez del proceso el aseguramiento de los bienes adscritos al Patrimonio Cultural del Estado, que sean objeto o efecto de los delitos previstos en esta Ley.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
 
-Los bienes asegurados se entregarán para su custodia a la Junta de Protección y Conservación, si la hay, o la Secretaría de Obras Públicas del Estado, en su caso.
+Los bienes asegurados se entregarán para su custodia a la Junta de Protección y Conservación, si la hay, o a la Secretaría de Movilidad y Planeación Urbana, en su caso.
 
 ###### ARTICULO 79.
 
@@ -802,3 +820,13 @@ P.O. 30 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 152. SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 8, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 19, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 26, LA FRACCIÓN II DEL ARTÍCULO 27, EL ARTÍCULO 31, EL PRIMER PÁRRAFO DEL ARTÍCULO 33 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 78 Y POR ADICIÓN DEL PÁRRAFO TERCERO CON LAS FRACCIONES I, II Y III Y UN CUARTO PÁRRAFO AL ARTÍCULO 19 TODOS DE LA LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Quedan derogadas todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+TERCERO.- El Titular del Poder Ejecutivo del Estado dispondrá de un plazo 120 días hábiles para realizar las adecuaciones reglamentarias que resulten necesarias para la implementación del presente Decreto.
