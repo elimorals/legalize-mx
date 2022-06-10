@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-de-procesos-productivos-eficientes-para-la-68062
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2016-09-15"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68062&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2009-04-22"
 ---
 # LEY DE FOMENTO DE PROCESOS PRODUCTIVOS EFICIENTES PARA LA CIUDAD DE MEXICO -- ANTES LEY DE FOMENTO DE PROCESOS PRODUCTIVOS EFICIENTES PARA EL DISTRITO FEDERAL --
 
-LEY DE FOMENTO DE PROCESOS PRODUCTIVOS EFICIENTES PARA EL DISTRITO FEDERAL
+LEY DE FOMENTO DE PROCESOS PRODUCTIVOS EFICIENTES PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 10 DE JUNIO DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 23 de abril de 2009.
 
@@ -48,7 +48,9 @@ Se expide la Ley de Fomento de Procesos Productivos Eficientes para el Distrito 
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
 
-LEY DE FOMENTO DE PROCESOS PRODUCTIVOS EFICIENTES PARA EL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 10 DE JUNIO DE 2022)</small>
+
+LEY DE FOMENTO DE PROCESOS PRODUCTIVOS EFICIENTES PARA LA CIUDAD DE MÉXICO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -66,43 +68,65 @@ Para los efectos de la presente Ley se entenderá como:
 
 I. Dependencias.- El conjunto de órganos que componen la administración pública centralizada, desconcentrada y paraestatal;
 
-II. Delegaciones.- Los Órganos Político-Administrativos de cada Demarcación Territorial;
+> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
+
+II. Alcaldías.- Los órganos político administrativos en cada una de las demarcaciones territoriales en que se divide la Ciudad de México;
 
 III. Emisión de contaminantes.- Toda generación de materia, por cualquier cantidad, estado físico o forma, que al incorporarse, acumularse o actuar en los seres vivos, en la atmósfera, agua, suelo, subsuelo o cualquier otro elemento natural, afecte negativamente la salud, la composición o la condición natural;
 
-IV. Gobierno.- El Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
 
-V. Instituto de Ciencia y Tecnología.- El Instituto de Ciencia y Tecnología del Distrito Federal;
+IV. Gobierno.- El Gobierno de la Ciudad de México;
 
-VI. Ley.- La Ley de Fomento de Procesos Productivos Eficientes para el Distrito Federal;
+> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
+
+V. Secretaría de Educación, Ciencia, Tecnología e Innovación.- La Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
+
+VI. Ley.- La Ley de Fomento de Procesos Productivos Eficientes para la Ciudad de México;
 
 VII. Proceso Productivo.- Toda generación, producción, distribución y consumo de insumos;
 
 VIII. Revisiones de Producción eficiente.- Toda aquella función de revisión de producción eficiente de una empresa que muestra la cantidad máxima de producto que se puede obtener con una cantidad dada de factores productivos eficientes;
 
-IX. Secretaría.- La Secretaría de Desarrollo Económico del Distrito Federal, y
+> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
 
-X. Secretaria del Medio Ambiente.- La Secretaría del Medio Ambiente del Distrito Federal.
+IX. Secretaría.- La Secretaría de Desarrollo Económico de la Ciudad de México, y
+
+> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
+
+X. Secretaría del Medio Ambiente.- La Secretaría del Medio Ambiente de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 4.
 
-A falta de disposición expresa y en cuanto no se oponga a lo que se prescribe (sic) este ordenamiento, se estará a lo dispuesto por la ley Ambiental del Distrito Federal, la Ley de Residuos Sólidos del Distrito Federal y a la Ley de Procedimiento Administrativo del Distrito Federal.
+A falta de disposición expresa y en cuanto no se oponga a lo que se prescribe en este ordenamiento, se estará a lo dispuesto por la Ley Ambiental de Protección a la Tierra, la Ley de Residuos Sólidos y a la Ley de Procedimiento Administrativo, todas vigentes en la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 5.
 
-En el Distrito Federal, toda persona física o moral y sus correspondientes agencias administrativas comprendidas en el proceso productivo de generación, producción, distribución y consumo de insumos, deben organizar e implementar sistemas y procesos productivos eficientes de acuerdo con las previsiones contenidas en esta Ley.
+En la Ciudad de México, toda persona física o moral y sus correspondientes agencias administrativas comprendidas en el proceso productivo de generación, producción, distribución y consumo de insumos, deben organizar e implementar sistemas y procesos productivos eficientes de acuerdo con las previsiones contenidas en esta Ley.
+
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 6.
 
-El Gobierno está comprometido a fortalecer y promover una producción eficiente. El Gobierno y las Delegaciones deben promover procesos productivos eficientes en los planes y programas para el desarrollo económico y social a nivel local, así como, protección al medio ambiente, utilización de recursos, desarrollo industrial y regional.
+El Gobierno está comprometido a fortalecer y promover una producción eficiente. El Gobierno y las Alcaldías deben promover procesos productivos eficientes en los planes y programas para el desarrollo económico y social a nivel local, así como, protección al medio ambiente, utilización de recursos, desarrollo industrial y regional.
 
 ###### Artículo 7.
 
 La Secretaría, tendrá la responsabilidad de organizar y coordinar la promoción de una producción eficiente en toda la Ciudad.
 
-Las dependencias, las Delegaciones y el Instituto de Ciencia y Tecnología, deberán asumir la responsabilidad de promover procesos productivos eficientes en el ámbito de sus funciones y responsabilidades.
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
 
-El Gobierno y las Delegacionales serán responsables de tomar la iniciativa para promover procesos productivos eficientes en las áreas de su administración. La Secretaría, deberá asumir la responsabilidad de organizar y coordinar procesos productivos eficientes en el ámbito de su administración.
+Las dependencias, las Alcaldías y la Secretaría de Educación, Ciencia, Tecnología e Innovación deberán asumir la responsabilidad de promover procesos productivos eficientes en el ámbito de sus funciones y responsabilidades.
+
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
+
+El Gobierno y las Alcaldías serán responsables de tomar la iniciativa para promover procesos productivos eficientes en las áreas de su administración. La Secretaría, deberá asumir la responsabilidad de organizar y coordinar procesos productivos eficientes en el ámbito de su administración.
 
 ###### Artículo 8.
 
@@ -112,33 +136,39 @@ El Gobierno está comprometido a promover la participación de la sociedad civil
 
 ### CAPÍTULO II. DE LA REALIZACIÓN DE PROCESOS PRODUCTIVOS EFICIENTES
 
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
+
 ###### Artículo 9.
 
-El Gobierno del Distrito Federal deberá formular políticas fiscales e impositivas que propicien la implementación de procesos productivos eficientes.
+El Gobierno de la Ciudad de México deberá formular políticas fiscales e impositivas que propicien la implementación de procesos productivos eficientes.
 
-El Gobierno y Delegaciones, así como las dependencias, tendrán la responsabilidad de formular e implementar políticas de desarrollo industrial y tecnológico benéficas, así como políticas de difusión, y asumir medidas de supervisión y administración que conduzcan a la implementación de procesos productivos eficientes.
+El Gobierno y las Alcaldías, así como las dependencias, tendrán la responsabilidad de formular e implementar políticas de desarrollo industrial y tecnológico benéficas, así como políticas de difusión, y asumir medidas de supervisión y administración que conduzcan a la implementación de procesos productivos eficientes.
 
-> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 10.
 
-La Secretaría así como las Delegaciones, deberán formular planes para la popularización de procesos productivos eficientes, conjuntamente con la Secretaría del Medio Ambiente, los cuales deberán concebir la utilización de medios electrónicos con la finalidad de disminuir la huella ecológica.
+La Secretaría así como las Alcaldías, deberán formular planes para la popularización de procesos productivos eficientes, conjuntamente con la Secretaría del Medio Ambiente, los cuales deberán concebir la utilización de medios electrónicos con la finalidad de disminuir la huella ecológica.
+
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 11.
 
-El Gobierno y Delegaciones deberán formular planes de manera racional para desarrollar anteproyectos económicos regionales y reajustar la estructura industrial a fin de impulsar la adopción a una economía del reciclaje que promueva activamente la cooperación empresarial en la utilización total de los recursos y minimice el desperdicio de productos, con el objeto de asegurar una mayor eficiencia en la utilización y reciclaje de los recursos.
+El Gobierno y las Alcaldías deberán formular planes de manera racional para desarrollar anteproyectos económicos regionales y reajustar la estructura industrial a fin de impulsar la adopción a una economía del reciclaje que promueva activamente la cooperación empresarial en la utilización total de los recursos y minimice el desperdicio de productos, con el objeto de asegurar una mayor eficiencia en la utilización y reciclaje de los recursos.
 
-> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 12.
 
-La Secretaría, así como las dependencias y Delegaciones, deberán llevar a cabo esfuerzos organizacionales a través de convenios para dar soporte al establecimiento de sistemas de información para procesos productivos limpios, así como una consultoría técnica y un sistema de servicios para dar al público información referente a metodologías y tecnologías relacionadas con procesos productivos eficientes, y la información y servicios relativos a la oferta y demanda de desechos de productos renovables y reciclables como el papel y el cartón, entre otros y políticas de producción eficiente.
+La Secretaría, así como las dependencias y Alcaldías, deberán llevar a cabo esfuerzos organizacionales a través de convenios para dar soporte al establecimiento de sistemas de información para procesos productivos limpios, así como una consultoría técnica y un sistema de servicios para dar al público información referente a metodologías y tecnologías relacionadas con procesos productivos eficientes, y la información y servicios relativos a la oferta y demanda de desechos de productos renovables y reciclables como el papel y el cartón, entre otros y políticas de producción eficiente.
 
-> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 13.
 
-La Secretaría, de manera conjunta con áreas afines del Gobierno y Delegaciones, periódicamente deberá emitir catálogos donde se oriente acerca de tecnologías, procesos, equipo y productos a favor de procesos productivos eficientes.
+La Secretaría, de manera conjunta con áreas afines del Gobierno y Alcaldías, periódicamente deberá emitir catálogos donde se oriente acerca de tecnologías, procesos, equipo y productos a favor de procesos productivos eficientes.
+
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
 
 Las dependencias deberán organizar la compilación de guías para procesos productivos eficientes en la industria y regiones específicas, o manuales técnicos que ilustren métodos para la implementación de procesos productivos eficientes, con el objeto de lograr la disminución de la huella ecológica de sus actividades.
 
@@ -150,33 +180,45 @@ El Gobierno deberá implementar Normas Generales para eliminar tecnologías de p
 
 Las dependencias responsables, podrán aprobar el establecimiento de un sistema de etiquetado de productos de acuerdo con las necesidades en las áreas de protección a los recursos y medio ambiente, tales como conservación de la energía y del agua, reutilización de los desechos y reciclaje, así como crear los estándares relevantes de acuerdo a las necesidades locales.
 
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
+
 ###### Artículo 16.
 
-El Instituto de Ciencia y Tecnología, deberá guiar y apoyar la investigación interna y desarrollar tecnologías de procesos de producción limpios y productos benéficos para la protección del medio ambiente y recursos, así como hacer demostraciones y popularizar las tecnologías de procesos de producción eficientes.
+Secretaría de Educación, Ciencia, Tecnología e Innovación, deberá guiar y apoyar la investigación interna y desarrollar tecnologías de procesos de producción limpios y productos benéficos para la protección del medio ambiente y recursos, así como hacer demostraciones y popularizar las tecnologías de procesos de producción eficientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 17.
 
-La Secretaría de Educación del Distrito Federal, en la medida de lo posible, deberá indagar clases importantes para estudiar tecnologías de procesos de producción eficientes y su administración en la educación superior, profesional y programas de entrenamiento técnicos.
+Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México, en la medida de lo posible, deberá indagar clases importantes para estudiar tecnologías de procesos de producción eficientes y su administración en la educación superior, profesional y programas de entrenamiento técnicos.
 
-Las dependencias, así como las Delegaciones, tendrán la responsabilidad de organizar en sus respectivas atribuciones la difusión de la información y capacitación relativa a procesos productivos eficientes, además de incrementar el nivel de concientización para observar procesos productivos eficientes entre los encargados de la administración pública local, empresarios, el público y proporcionar capacitación a cerca (sic) de procesos productivos eficientes para personal administrativo y técnico.
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
+
+Las dependencias, así como las Alcaldías, tendrán la responsabilidad de organizar en sus respectivas atribuciones la difusión de la información y capacitación relativa a procesos productivos eficientes, además de incrementar el nivel de concientización para observar procesos productivos eficientes entre los encargados de la administración pública local, empresarios, el público y proporcionar capacitación a cerca (sic) de procesos productivos eficientes para personal administrativo y técnico.
 
 Las unidades del Gobierno encargadas de la difusión y de la información cultural, así como las organizaciones sociales relacionadas deberán aprovechar su posición para difundir información relativa a procesos productivos eficientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JUNIO DE 2022)</small>
+
 ###### Artículo 18.
 
-El Gobierno y las Delegaciones deberán dar prioridad a la compra de productos que favorezcan la conservación de la energía y el agua, reduzcan el desperdicio de recursos, y promuevan la conservación y protección del medio ambiente y de los recursos.
+El Gobierno y las Alcaldías deberán dar prioridad a la compra de productos que favorezcan la conservación de la energía y el agua, reduzcan el desperdicio de recursos, y promuevan la conservación y protección del medio ambiente y de los recursos.
 
 Asimismo, deberán participar en las medidas de publicidad, educación o capacitación para promover en el público la adquisición y uso de productos tendientes a conservar la energía y el agua, disminuir el desperdicio de recursos, y promuevan la conservación y protección del medio ambiente y de los recursos.
 
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
+
 ###### Artículo 19.
 
-La Secretaría del Medio Ambiente, deberá fomentar la supervisión del proceso de implementación de procesos productivos eficientes, de acuerdo con la necesidad de los mismos, en tanto, el Gobierno y las Delegaciones deberán publicar una lista con los nombres de empresas locales altamente contaminantes con base en las condiciones de descarga de contaminantes de tales empresas, cuando las descargas de contaminación excedan los estándares o cuando el volumen total de contaminantes exceda los límites regulatorios, además, deberá de darlo a conocer al público en base a la implementación empresarial de procesos de producción eficientes.
+La Secretaría del Medio Ambiente, deberá fomentar la supervisión del proceso de implementación de procesos productivos eficientes, de acuerdo con la necesidad de los mismos, en tanto, el Gobierno y las Alcaldías deberán publicar una lista con los nombres de empresas locales altamente contaminantes con base en las condiciones de descarga de contaminantes de tales empresas, cuando las descargas de contaminación excedan los estándares o cuando el volumen total de contaminantes exceda los límites regulatorios, además, deberá de darlo a conocer al público en base a la implementación empresarial de procesos de producción eficientes.
 
 ### CAPÍTULO III. DE LA IMPLEMENTACIÓN DE PROCESOS PRODUCTIVOS EFICIENTES
 
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
+
 ###### Artículo 20.
 
-La Delegación verificará, apoyada por la Secretaría del Medio Ambiente, que las nuevas construcciones, renovación de construcción y expansión de proyectos deban implicar un menor impacto ambiental. Las empresas deberán convenir la prioridad de adoptar tecnologías de producción eficientes, procesos y equipos, los cuales maximizarán la tasa de utilización de recursos y una menor generación de contaminación.
+La Alcaldía verificará, apoyada por la Secretaría del Medio Ambiente, que las nuevas construcciones, renovación de construcción y expansión de proyectos deban implicar un menor impacto ambiental. Las empresas deberán convenir la prioridad de adoptar tecnologías de producción eficientes, procesos y equipos, los cuales maximizarán la tasa de utilización de recursos y una menor generación de contaminación.
 
 ###### Artículo 21.
 
@@ -204,7 +246,9 @@ Cualquier empresa que produzca a gran escala equipo electromecánico, aparatos p
 
 Los productores rurales deberán emplear fertilizantes químicos, pesticidas, documentales agrícolas, y componentes aditivos para nutrir la tierra de acuerdo a principios científicos, mejorando las técnicas de plantación y reproducción, que den mayor calidad, productos agrícolas saludables, y generar recursos de desechos agrícolas y prevenir y controlar la contaminación ambiental derivada de la agricultura.
 
-Esta prohibido el uso de desechos tóxicos o dañinos como fertilizantes o para rellenar campos; la Secretaría de Desarrollo Rural y Equidad para las Comunidades del Distrito Federal, tendrá la obligación de vigilar lo dispuesto en el presente artículo.
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
+
+Está prohibido el uso de desechos tóxicos o dañinos como fertilizantes o para rellenar campos; la Secretaría de Pueblos y Barrios Originarios y Comunidades Indígenas Residentes de la Ciudad de México, tendrá la obligación de vigilar lo dispuesto en el presente artículo.
 
 ###### Artículo 25.
 
@@ -228,9 +272,11 @@ Para tener viabilidad económica y técnica, las empresas deberán recobrar y ut
 
 Si algún producto o envase está incluido en el directorio de reciclaje obligatorio, las empresas a cargo de su producción o venta deben reciclar los desechos del producto o el envase. La Secretaría formulará el directorio obligatorio de productos y envases reciclables, así como métodos detallados para reciclar.
 
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
+
 ###### Artículo 30.
 
-El Gobierno deberá diseñar medidas económicas para el reciclaje y utilización de los productos y envases incluidos en el directorio de reciclaje obligatorio; la secretarías y las Delegaciones deberán de verificar periódicamente las condiciones de implementación de los productos y envases que deben ser reciclados obligatoriamente, y hacer reportes periódicos en los que el público vea los resultados del monitoreo. La Secretaría deberá formular metodologías concretas para llevar a cabo estos objetivos.
+El Gobierno deberá diseñar medidas económicas para el reciclaje y utilización de los productos y envases incluidos en el directorio de reciclaje obligatorio; la (sic) secretarías y las Alcaldías deberán de verificar periódicamente las condiciones de implementación de los productos y envases que deben ser reciclados obligatoriamente, y hacer reportes periódicos en los que el público vea los resultados del monitoreo. La Secretaría deberá formular metodologías concretas para llevar a cabo estos objetivos.
 
 ###### Artículo 31.
 
@@ -246,7 +292,9 @@ El procedimiento administrativo para efectuar revisiones de procesos productivos
 
 Después de que una empresa logra el estándar local de emisión de contaminantes, deberá efectuar convenios de manera voluntaria en pro de la conservación de los recursos y la reducción de emisión de contaminantes con la Secretaría del Medio Ambiente y la Secretaría.
 
-La Secretaría del Medio Ambiente y la Secretaría deberán publicar el nombre de las empresas y los resultados de la conservación de recursos, prevención y control de la contaminación en la Gaceta Oficial del Distrito Federal.
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
+
+La Secretaría del Medio Ambiente y la Secretaría deberán publicar el nombre de las empresas y los resultados de la conservación de recursos, prevención y control de la contaminación en la Gaceta Oficial de la Ciudad de México.
 
 ###### Artículo 33.
 
@@ -258,17 +306,21 @@ De acuerdo con lo establecido en el artículo 19 de esta Ley, las empresas que a
 
 ### CAPÍTULO IV. DE LOS ESTÍMULOS
 
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
+
 ###### Artículo 35.
 
-El Gobierno a través de la Secretaría de Finanzas del Distrito Federal, establecerá un sistema de recomendaciones y estímulos fiscales, financieros y administrativos por una producción eficiente a aquellas empresas e individuos que tengan logros significativos en el campo de una producción eficiente.
+El Gobierno a través de la Secretaría de Administración y Finanzas de la Ciudad de México, establecerá un sistema de recomendaciones y estímulos fiscales, financieros y administrativos por una producción eficiente a aquellas empresas e individuos que tengan logros significativos en el campo de una producción eficiente.
 
 ###### Artículo 36.
 
 El financiamiento para el desarrollo de empresas pequeñas y medianas, establecido de acuerdo a regulaciones locales deberá ser independiente del que sustente una producción eficiente para empresas pequeñas y medianas, de acuerdo a sus necesidades.
 
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
+
 ###### Artículo 37.
 
-Con respecto a los productos elaborados de desperdicios y materiales provenientes de desechos, la Secretaría de Finanzas del Distrito Federal, implementará un Programa que deberá reducir o exentar el cobro de impuestos, de acuerdo con las regulaciones locales.
+Con respecto a los productos elaborados de desperdicios y materiales provenientes de desechos, la Secretaría de Administración y Finanzas de la Ciudad de México, implementará un Programa que deberá reducir o exentar el cobro de impuestos, de acuerdo con las regulaciones locales.
 
 ###### Artículo 38.
 
@@ -276,57 +328,47 @@ Los gastos derivados de la revisión de una producción no contaminante y la cap
 
 ### CAPÍTULO V. DE LA RESPONSABILIDAD LEGAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JUNIO DE 2022)</small>
+
 ###### Artículo 39.
 
-Para establecer las sanciones, la Secretaría fundamentará y motivará sus resoluciones considerando, para su individualización, los elementos señalados en la Ley de Procedimiento Administrativo del Distrito Federal.
+Para establecer las sanciones, la Secretaría fundamentará y motivará sus resoluciones considerando, para su individualización, los elementos señalados en la Ley de Procedimiento Administrativo de la Ciudad de México.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-Las sanciones económicas deberán establecerse entre el mínimo y máximo establecido, y considerando veces (sic) la Unidad de Cuenta de la Ciudad de México vigente al momento de cometerse alguna violación establecida en la presente Ley.
+Las sanciones económicas deberán establecerse entre el mínimo y máximo establecido, y considerando la Unidad de Medida y Actualización vigente en la Ciudad de México al momento de cometerse alguna violación establecida en la presente Ley.
 
 En los casos de reincidencia en alguna violación establecida en el presente capítulo, en el período de un año, se aplicará hasta el doble de la sanción originalmente impuesta, sin exceder del doble del máximo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 40.
 
-En caso de que cualquier empresa o individuo viole las previsiones contenidas en el artículo 23 de esta Ley o falsee, adultere la información de la etiqueta referente a la composición de materiales, o no de una información veraz y oportuna, las dependencias encargadas de la supervisión de calidad y tecnología deberán ordenar la rectificación correspondiente en un término de diez veces (sic) naturales, en el caso de no subsanar los (sic) recomendaciones emitidas por la autoridad correspondiente, se impondrá una multa de 10 a 50 veces la Unidad de Cuenta de la Ciudad de México vigente.
+En caso de que cualquier empresa o individuo viole las previsiones contenidas en el artículo 23 de esta Ley o falsee, adultere la información de la etiqueta referente a la composición de materiales, o no de una información veraz y oportuna, las dependencias encargadas de la supervisión de calidad y tecnología deberán ordenar la rectificación correspondiente en un término de diez días naturales, en el caso de no subsanar los (sic) recomendaciones emitidas por la autoridad correspondiente, se impondrá una multa de 10 a 50 veces la Unidad de Medida y Actualización vigente en la Ciudad de México.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 41.
 
-En caso de que cualquier empresa o individuo viole las previsiones establecidas en el segundo párrafo del artículo 26 de esta Ley, produciendo o vendiendo materiales de construcción o decoración tóxicos o dañinos, cuyo nivel de toxicidad rebase los estándares locales, tal empresa o individuo; la Secretaría deberá de multarlo de 100 a 500 veces la Unidad de Cuenta de la Ciudad de México vigente, y en su caso, deberá dar vista (sic) las autoridades correspondientes de acuerdo con las leyes administrativas, civiles o penales.
+En caso de que cualquier empresa o individuo viole las previsiones establecidas en el segundo párrafo del artículo 26 de esta Ley, produciendo o vendiendo materiales de construcción o decoración tóxicos o dañinos, cuyo nivel de toxicidad rebase los estándares locales, tal empresa o individuo; la Secretaría deberá de multarlo de 100 a 500 veces la Unidad de Medida y Actualización vigente en la Ciudad de México, y en su caso, deberá dar vista (sic) las autoridades correspondientes de acuerdo con las leyes administrativas, civiles o penales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 42.
 
-En caso de que cualquier empresa o individuo viole las previsiones establecidas en el primer párrafo del artículo 29 de esta Ley, e incumpla su obligación de reciclar sus desechos o embalajes, la Secretaría, así como las delegaciones que lleven a cabo funciones homólogas, deberán ordenar a la parte efectuar rectificaciones en un término de veinte veces (sic) naturales contados a partir de la notificación, además de imponer una multa de 30 a 70 veces la Unidad de Cuenta de la Ciudad de México si la parte no lleva a cabo la rectificación.
+En caso de que cualquier empresa o individuo viole las previsiones establecidas en el primer párrafo del artículo 29 de esta Ley, e incumpla su obligación de reciclar sus desechos o embalajes, la Secretaría, así como las Alcaldías que lleven a cabo funciones homólogas, deberán ordenar a la parte efectuar rectificaciones en un término de veinte veces (sic) naturales contados a partir de la notificación, además de imponer una multa de 30 a 70 veces la Unidad de Medida y Actualización vigente en la Ciudad de México si la parte no lleva a cabo la rectificación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 43.
 
-Si cualquier empresa o individuo viola las previsiones establecidas en el tercer párrafo del artículo 31 de esta Ley, falla al implementar revisiones de producción eficiente, o ha efectuado estas revisiones pero no reporta los resultados, la Secretaría del Medio Ambiente deberá ordenar a la parte efectuar la rectificación correspondiente dentro de un término de veinte días contados a partir de la notificación, e imponer, además, una multa de 50 a 70 veces la Unidad de Cuenta de la Ciudad de México vigente si la parte no hace la rectificación correspondiente.
+Si cualquier empresa o individuo viola las previsiones establecidas en el tercer párrafo del artículo 31 de esta Ley, falla al implementar revisiones de producción eficiente, o ha efectuado estas revisiones pero no reporta los resultados, la Secretaría del Medio Ambiente deberá ordenar a la parte efectuar la rectificación correspondiente dentro de un término de veinte días contados a partir de la notificación, e imponer, además, una multa de 50 a 70 veces la Unidad de Medida y Actualización vigente en la Ciudad de México si la parte no hace la rectificación correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 44.
 
-En caso de que cualquier empresa o individuo viole las previsiones del artículo 34 de esta Ley, o no realice la publicación de los requerimientos respecto a la información de emisión de contaminantes, la Secretaría de Medio Ambiente impondrá una multa de cuarenta a sesenta la Unidad de Cuenta de la Ciudad de México vigente, y deberá publicar la información relativa a las circunstancias de la parte emisora de contaminantes.
+En caso de que cualquier empresa o individuo viole las previsiones del artículo 34 de esta Ley, o no realice la publicación de los requerimientos respecto a la información de emisión de contaminantes, la Secretaría de Medio Ambiente impondrá una multa de cuarenta a sesenta veces la Unidad de Medida y Actualización vigente en la Ciudad de México, y deberá publicar la información relativa a las circunstancias de la parte emisora de contaminantes.
 
 ## TRANSITORIOS
 
@@ -369,3 +411,11 @@ G.O. 15 DE SEPTIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El Jefe de Gobierno del Distrito Federal contará con 180 días después de la publicación de este Decreto en la Gaceta Oficial del Distrito Federal para efecto de adecuar las disposiciones reglamentarias correspondientes.
+
+G.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA LA DENOMINACIÓN Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO DE PROCESOS PRODUCTIVOS EFICIENTES PARA EL DISTRITO FEDERAL”.]
+
+Primero. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
