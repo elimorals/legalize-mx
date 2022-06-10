@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-seguridad-para-el-estado-de-queretaro-114902"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-30"
-last_updated: "2021-10-08"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Ley publicada en Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
 
@@ -33,7 +31,9 @@ FRANCISCO DOMÍNGUEZ SERVIÉN, Gobernador del Estado de Querétaro, a los habita
 
 LA QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO…
+CONSIDERANDO
+
+[...]
 
 Ahora, los diferentes integrantes del Sistema Estatal de Seguridad, al realizar sus labores cotidianas, estarán respaldados por un cuerpo normativo que enlazará lineamientos, acciones y programas sobre la seguridad, permitiendo con ello que la prevención, protección civil, operación policial, y demás aristas, no trabajen en lo individual, sino alrededor de un engranaje que logre concatenar las diversas piezas de las que se conforma la seguridad.
 
@@ -75,13 +75,15 @@ VI. La ayuda, asistencia, protección y reparación integral a las víctimas;
 
 VII. La reinserción social del sentenciado;
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-VIII. La aplicación de mecanismos alternativos de solución de controversias y justicia restaurativa; así como los conflictos que implican la justicia cotidiana en el ámbito social y comunitario;
+VIII. La aplicación de mecanismos alternativos de solución de controversias y justicia restaurativa;
 
 IX. El Servicio Profesional de Carrera que define los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción, reconocimiento y conclusión;
 
-X. La operación policial que privilegiará la coordinación, el uso de tecnologías de la información y el respeto a los Derechos Humanos;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+X. La operación policial que privilegiará la coordinación, la solución de conflictos, el uso de tecnologías de la información y el respeto a los Derechos Humanos;
 
 XI. La protección de las instalaciones estratégicas contempladas por las disposiciones aplicables;
 
@@ -89,9 +91,25 @@ XII. La protección civil, en los términos de la legislación de la materia;
 
 XIII. La regulación de la prestación de los servicios de seguridad privada;
 
-XIV. Las medidas cautelares y suspensión condicional del proceso; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-XV. Las demás que se establezcan en las disposiciones aplicables.
+XIV. Las medidas de protección, las cautelares y de suspensión condicional del proceso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2022)</small>
+
+XV. La participación comunitaria tendiente a la prevención social en seguridad fundada en el trabajo social comunitario, así como en el constante contacto con la comunidad;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+XVI. La justicia cotidiana en el ámbito social y comunitario por parte de la Policía de Proximidad y demás autoridades competentes, a través (sic) implementación de mecanismos alternativos tendientes a la solución de conflictos;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+XVII. La participación y capacitación de las Instituciones de Seguridad en la protección del medio ambiente, a fin de desarrollar la prevención y persecución de los delitos en la materia, conforme al ámbito de su competencia; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE JUNIO DE 2022)</small>
+
+XVIII. Las demás que se establezcan en las disposiciones jurídicas aplicables.
 
 ###### Artículo 4.
 
@@ -117,13 +135,21 @@ VIII. Las autoridades en materia de protección civil;
 
 IX. Las autoridades en materia de justicia para adolescentes;
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-X. Las autoridades encargadas de aplicar los mecanismos alternativos de solución de controversias y conflictos y la justicia restaurativa;
+X. Las autoridades encargadas de aplicar los mecanismos alternativos de solución de controversias y de justicia restaurativa;
 
-XI. Las autoridades de supervisión de medidas cautelares y suspensión condicional del proceso; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2022)</small>
 
-XII. Las demás autoridades estatales y municipales que, en razón de sus atribuciones, deban contribuir directa o indirectamente al cumplimiento del objeto de esta Ley.
+XI. La Policía de Proximidad y las autoridades encargadas de los mecanismos alternativos tendientes a la solución de conflictos relacionados a la justicia cotidiana en el ámbito social y comunitario;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2022)</small>
+
+XII. Las autoridades de supervisión de medidas cautelares y suspensión condicional del proceso; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2022)</small>
+
+XIII. Las demás autoridades estatales y municipales que, en razón de sus atribuciones, deban contribuir directa o indirectamente al cumplimiento del objeto de esta Ley.
 
 ###### Artículo 5.
 
@@ -169,13 +195,21 @@ XIV. Servicio de carrera: El Servicio Profesional de Carrera, del personal opera
 
 XV. Sistema Estatal: El Sistema Estatal de Seguridad de Querétaro;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-XVI. Sistema Estatal de Atención a Víctimas: El Sistema Estatal de Atención a Víctimas de Violencia y Violación a Derechos Humanos no constitutivos de delito; y
+XVI. Sistema Estatal de Atención a Víctimas: El Sistema Estatal de Atención a Víctimas;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-XVII. SIU: Sistema Informático Único.
+XVII. SIU: Sistema Informático Único;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+XVIII. Policía de Proximidad: Agente facultado para el uso legal de la fuerza pública, con capacidades para aplicar las diversas técnicas de los mecanismos alternativos de solución de conflictos establecidos en la Ley, para procurar la convivencia comunitaria en el ámbito de la justicia cotidiana, para vigilar el debido cumplimiento de las normas jurídicas en el ámbito de la justicia cívica y para la investigación de los delitos en el ámbito de la justicia penal; y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+XIX. Grupo de Coordinación Estatal para la Seguridad: Es la instancia de carácter ejecutivo que, de forma consensuada por sus integrantes, establece la prioridad de los objetivos y metas de carácter operativo que permitan direccionar las acciones para cumplir los fines en materia de seguridad.
 
 ###### Artículo 7.
 
@@ -249,6 +283,10 @@ XI. Utilizar los protocolos de investigación y de cadena de custodia adoptados 
 
 XII. Participar en operativos y mecanismos de coordinación con otras instituciones de seguridad, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+El personal facultado para el uso legal de la fuerza podrá realizar acciones de difusión a la ciudadanía respecto de los delitos ambientales, así como intervenir conforme a las disposiciones aplicables;
+
 XIII. Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
 
 XIV. Abstenerse de disponer de los bienes asegurados para beneficio propio o de terceros;
@@ -301,7 +339,9 @@ III. La Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Que
 
 IV. La Fiscalía General del Estado;
 
-V. El Centro Estatal de Prevención Social de la Violencia y la Delincuencia;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+V. El Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro;
 
 VI. El Centro de Evaluación y Control de Confianza del Estado;
 
@@ -351,19 +391,13 @@ V. Las asociaciones civiles, instituciones educativas, empresas, cámaras empres
 
 VI. Las demás que dispongan los ordenamientos legales aplicables, cuando su colaboración resulte necesaria para el cumplimiento de los fines de esta Ley.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
+
 ###### Artículo 16.
 
-El Sistema Estatal, contará con un Observatorio con participación ciudadana, dependiente de la Secretaría de Gobierno, el cual tiene como finalidad generar y publicar indicadores, así como la realización de estudios y trabajos, a fin de incidir en la formulación y evaluación de políticas públicas en materia de seguridad.
+El Centro Estatal de Participación Ciudadana de Querétaro tiene como finalidad generar y publicar indicadores, así como la realización de estudios y trabajos, a fin de incidir en la formulación y evaluación de políticas públicas en materia de seguridad.
 
-Para su funcionamiento, el Observatorio se integrará por:
-
-I. Un Consejo Consultivo;
-
-II. Una Dirección Ejecutiva; y
-
-III. Las demás áreas que sean necesarias para su funcionamiento.
-
-Las instituciones que integran el Sistema Estatal, tendrán la obligación de coadyuvar con el Observatorio, proporcionando la información que éste le requiera para el cumplimiento de sus objetivos, en términos de ley.
+Las instituciones que integran el Sistema Estatal, tendrán la obligación de coadyuvar con el Centro Estatal de Participación Ciudadana de Querétaro, proporcionando la información que éste le requiera para el cumplimiento de sus objetivos, en términos de ley.
 
 ### Capítulo Quinto. Del Consejo Estatal de Seguridad
 
@@ -463,9 +497,15 @@ Los Consejos Municipales de Seguridad cumplirán con los objetivos de la segurid
 
 ### Capítulo Primero. De la seguridad ciudadana
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2022)</small>
+
 ###### Artículo 21.
 
-La preservación de la seguridad y convivencia ciudadana, la prevención de los delitos y las infracciones, con la participación activa de los ciudadanos, estará a cargo de las autoridades de los diferentes órdenes de Gobierno en el ámbito de su competencia y de acuerdo a los ordenamientos aplicables.
+La preservación de la seguridad y convivencia ciudadana, la prevención de los delitos y las infracciones, con la participación activa de los ciudadanos, así como la solución de conflictos relacionados a la justicia cotidiana en el ámbito social y comunitario estará a cargo de las autoridades de los diferentes órdenes de Gobierno en el ámbito de su competencia y de acuerdo a los ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+La participación comunitaria tendiente a la prevención social en seguridad comprenderá la implementación de acciones afirmativas dirigidas a que las personas contribuyan al establecimiento y restablecimiento de las condiciones que promuevan la convivencia y la cohesión comunitaria en un ambiente de paz y tranquilidad.
 
 ###### Artículo 22.
 
@@ -483,197 +523,75 @@ La prevención social promoverá acciones afirmativas en educación, cultura, h�
 
 Asimismo, generará acciones de intervención con grupos y en espacios comunitarios vulnerables con presencia de factores de riesgo, para reconstruir la convivencia y el tejido social, así como la recuperación de espacios públicos.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
+
 ###### Artículo 25.
 
-La prevención social será coordinada por el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, adscrito a la Secretaría de Seguridad, el cual se regirá conforme a lo establecido en el presente ordenamiento y demás disposiciones aplicables.
+La prevención social será coordinada por el Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, el cual se regirá conforme a lo establecido en el presente ordenamiento y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 26.
 
-El Centro Estatal de Prevención Social de la Violencia y la Delincuencia, con autonomía técnica y de gestión, tendrá las atribuciones siguientes:
+El Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro tendrá las atribuciones establecidas en las disposiciones jurídicas aplicables.
 
-I. Coordinar, evaluar y dar seguimiento a las políticas, programas, proyectos y acciones transversales con enfoque diferencial y especializado, de prevención social de la violencia y la delincuencia, ejecutados por las instituciones del Sistema Estatal;
-
-II. Definir estrategias de colaboración interinstitucional para facilitar la cooperación e intercambio de información y experiencias entre las entidades de los tres órdenes de gobierno, así como con organizaciones de la sociedad civil, instituciones educativas y de investigación y cualquier otro grupo de expertos o redes especializadas en prevención social;
-
-III. Coordinar, articular y vincular interinstitucionalmente a las instancias gubernamentales y asociaciones de la sociedad civil, para brindar servicios multidisciplinarios que, de forma concentrada, requieran las víctimas de delitos de género, así como sus hijas e hijos, para acceder a la justicia, sostener su denuncia y obtener los servicios de atención integral que les permitan rehacer su vida;
-
-IV. Asesorar a las instituciones públicas o privadas, en el ámbito de sus atribuciones, con la finalidad de fortalecer las capacidades institucionales que aseguren la sostenibilidad de los programas preventivos;
-
-V. Elaborar diagnósticos, estudios e indicadores en el ámbito de sus atribuciones;
-
-VI. Difundir y promocionar la cultura de la prevención, legalidad, denuncia y respeto a los Derechos Humanos;
-
-VII. Capacitar, en materia de prevención, a las instituciones involucradas en el tema y a la sociedad en general; y
-
-VIII. Las demás que se establezcan en la normatividad aplicable.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 27.
 
-El Centro Estatal de Prevención Social de la Violencia y la Delincuencia, podrá solicitar información y colaboración a instituciones, personas u organismos, en los términos de las disposiciones normativas aplicables, para el cumplimiento de sus fines.
+El Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, podrá solicitar información y colaboración a instituciones, personas u organismos, en los términos de las disposiciones normativas aplicables, para el cumplimiento de sus fines.
 
-### Capítulo Tercero. Sistema Estatal de Atención a Víctimas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JUNIO DE 2022)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+### Capítulo Tercero. Grupo de Coordinación Estatal para la Seguridad
 
-#### Sección Primera. De la integración y funcionamiento del Sistema Estatal de Atención a Víctimas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+#### Sección Primera. De la integración y Funcionamiento del Grupo de Coordinación Estatal para la Seguridad
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 28.
 
-El Sistema Estatal de Atención a Víctimas es la instancia superior de coordinación y formulación de políticas públicas, que tendrá por objeto proponer, establecer y supervisar las directrices, servicios, planes, programas, proyectos, acciones institucionales e interinstitucionales, y demás políticas públicas para las víctimas de violencia o violación de derechos humanos no constitutivas de delito.
+El Grupo de Coordinación Estatal para la Seguridad está integrado por:
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+I. La Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro;
 
-Artículo 28 bis. El Sistema Estatal de Atención a Víctimas se integra por:
+II. La Fiscalía General del Estado;
 
-I. Un Presidente, que será el Gobernador Constitucional del Estado;
+III. Las Secretarías de Seguridad Pública Municipal o sus equivalentes;
 
-II. Un Presidente suplente y Vocal, que será el Secretario de Seguridad;
+IV. El Centro de Información y Análisis para la Seguridad de Querétaro;
 
-III. Un Secretario Técnico, que será el Subsecretario de Prevención Social y Atención a la Víctima;
+V. El Centro de Evaluación y Control de Confianza del Estado de Querétaro.
 
-IV. Los siguiente (sic) vocales:
+VI. El Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro;
 
-a) El Secretario de Gobierno.
+VII. La Comisión Estatal del Sistema Penitenciario de Querétaro, y
 
-b) El Fiscal General del Estado.
+VIII. Los titulares de las instituciones públicas, privadas o sociales que sean invitadas a participar para cumplir con los objetivos de la coordinación.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+Los integrantes del Grupo de Coordinación Estatal para la Seguridad, serán coordinados por el Secretario de Seguridad Ciudadana del Estado y desarrollarán sus actividades conforme al protocolo que expidan.
 
-c) El Secretario de Finanzas.
+Artículo 28 bis. (DEROGADO, P.O. 10 DE JUNIO DE 2022)
 
-d) El Secretario de Educación.
+Artículo 28 ter. (DEROGADO, P.O. 10 DE JUNIO DE 2022)
 
-e) El Secretario de Salud.
+Artículo 28 quater. (DEROGADO, P.O. 10 DE JUNIO DE 2022)
 
-f) El Secretario del Trabajo.
+Artículo 28 quinquies. (DEROGADO, P.O. 10 DE JUNIO DE 2022)
 
-g) El Presidente de la Comisión de Seguridad Pública y Protección Civil de la Legislatura del Estado.
+Artículo 28 sexies. (DEROGADO, P.O. 10 DE JUNIO DE 2022)
 
-h) El Titular del Sistema Estatal para el Desarrollo Integral de la Familia.
+Artículo 28 septies. (DEROGADO, P.O. 10 DE JUNIO DE 2022)
 
-i) El Titular del Instituto Queretano de las Mujeres.
+Artículo 28 octies. (DEROGADO, P.O. 10 DE JUNIO DE 2022)
 
-j) El Titular del Observatorio Ciudadano de Seguridad.
+Artículo 28 novies. (DEROGADO, P.O. 10 DE JUNIO DE 2022)
 
-k) Un representante de las instituciones académicas de la Entidad.
+Artículo 28 decies. (DEROGADO, P.O. 10 DE JUNIO DE 2022)
 
-l) Un representante de las organizaciones de atención a víctimas.
-
-m) Un represente de las organizaciones de atención al género.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-Artículo 28 ter. Los integrantes del Sistema Estatal de Atención a Víctimas, desempeñarán su cargo de manera honorífica y tendrán derecho a voz y voto, excepto el Secretario Técnico del Sistema, quién solo tendrá derecho a voz.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-Artículo 28 quater. El Presidente del Sistema Estatal de Atención a Víctimas podrá invitar a las instituciones u organismos que puedan contribuir a la atención de las víctimas.
-
-Podrá nombrar un suplente permanente que lo representará en las sesiones, cuando por alguna causa no pueda asistir.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-Artículo 28 quinquies. El Presidente del Sistema Estatal de Atención a Víctimas designará a los representantes de las instituciones académicas, organizaciones de atención a víctimas y de atención de género, por el plazo de dos años.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-Artículo 28 sexies. El Sistema Estatal de Atención a Víctimas sesionará ordinariamente una vez cada seis meses y extraordinariamente cuantas veces sea necesario.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-Artículo 28 septies. Para que sean válidos los acuerdos emitidos por el Sistema Estatal de Atención a Víctimas, se requiere la presencia del Presidente o su suplente, del Secretario Técnico, así como de la mayoría de sus miembros.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-Artículo 28 octies. El Sistema Estatal de Atención a Víctimas tendrá las siguientes atribuciones:
-
-I. Promover la participación y colaboración de organismos públicos y privados, estatales o municipales, para la atención de víctimas;
-
-II. Solicitar la asesoría técnica, cuando los asuntos en estudio así lo requieran;
-
-III. Coordinar y gestionar la atención a las víctimas de violencia o violación de Derechos Humanos, a través de las autoridades competentes y demás organizaciones públicas o privadas;
-
-IV. Proponer al Poder Ejecutivo del Estado la celebración de convenios con diversas instancias u organismos para el cumplimiento de la atención a víctimas de violencia o violación de Derechos Humanos.
-
-V. Formular políticas públicas que tengan por objeto el establecer directrices, servicios, planes, programas, proyectos, acciones institucionales e interinstitucionales y demás acciones en la materia;
-
-VI. Fijar criterios uniformes para la regulación de la selección, ingreso, formación, permanencia, capacitación, profesionalización, evaluación, reconocimiento, certificación y registro del personal de las instituciones de atención a víctimas, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
-
-VII. Analizar y resolver los asuntos planteados por la Comisión Estatal; y
-
-VIII. Las demás que corresponden para la realización de sus funciones o que estén previstas en la legislación.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-Artículo 28 novies. El Presidente del Sistema Estatal de Atención a Víctimas tendrá las siguientes funciones:
-
-I. Convocar a las sesiones;
-
-II. Declarar el inicio, recesos y terminación de las sesiones;
-
-III. Poner a consideración de los miembros del Sistema Estatal de Atención a Víctimas el orden del día;
-
-IV. Conducir el desarrollo de las sesiones;
-
-V. Someter a decisión del Sistema Estatal de Atención a Víctimas los asuntos que así lo ameriten;
-
-VI. Dar seguimiento al cumplimiento de los acuerdos adoptados por el Sistema Estatal de Atención a Víctimas; y
-
-VII. Las demás que se establezcan en la normatividad aplicable.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-Artículo 28 decies. El Secretario Técnico del Sistema Estatal de Atención a Víctimas tendrá las siguientes funciones:
-
-I. Analizar los casos de las víctimas de violación de Derechos Humanos o de violencia no constitutiva de delito;
-
-II. Canalizar ante las instancias, instituciones y dependencias competentes a las víctimas de violencia o violación de Derechos Humanos no constitutivos de delito;
-
-III. Estudiar, valorar y seguir ante las instancias de atención el proceso de las víctimas que les hayan sido canalizadas;
-
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2019)</small>
-
-IV. Solicitar estudios, programas y diagnósticos a la Comisión Estatal de Atención Integral a Víctimas;
-
-V. Realizar el seguimiento del Sistema Estatal de Atención a Víctimas;
-
-VI. Supervisar la atención de víctimas de delito;
-
-VII. Elaborar anualmente el proyecto de Programa de Atención Integral a Víctimas y demás instrumentos programáticos relacionados con la protección, ayuda, asistencia, atención, defensa de los Derechos Humanos, acceso a la justicia, a la verdad y a la reparación integral de las víctimas;
-
-VIII. Proponer a los integrantes del Sistema Estatal de Atención a Víctimas, los proyectos de reglamentos, programas, manuales y protocolos de atención a las víctimas de violencia y violación de Derechos Humanos no constitutivos de delito;
-
-IX. Ejecutar y dar seguimiento a los acuerdos y resoluciones adoptadas por los integrantes del Sistema Estatal de Atención a Víctimas;
-
-X. Establecer mecanismos para la capacitación, formación, actualización y especialización de los funcionarios públicos, de conformidad con disposiciones normativas aplicables;
-
-XI. Establecer las directrices y lineamientos para la transmisión de información del Registro Estatal de Víctimas;
-
-XII. Rendir un informe anual ante el Sistema Estatal de Atención a Víctimas, sobre los avances del Programa de Atención Integral a Víctimas y demás obligaciones previstas en esta Ley; y
-
-XIII. Las demás que corresponden para la realización de sus funciones o que estén previstas en la legislación.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-Artículo 28 undecies. En el desarrollo de las sesiones del Sistema Estatal de Atención a Víctimas, el Secretario Técnico deberá:
-
-I. Verificar el quórum para el desarrollo de las sesiones;
-
-II. Convocar, a petición del Presidente, a las sesiones del Sistema Estatal de Atención a Víctimas, integrando el orden del día y señalando el lugar, fecha y hora para su desahogo;
-
-III. Levantar las actas de sesión;
-
-IV. Ejecutar, en los casos que corresponda, los acuerdos del Sistema Estatal de Atención a Víctimas;
-
-V. Efectuar todas aquellas acciones necesarias para el desarrollo de las sesiones;
-
-VI. Llevar el archivo de los acuerdos adoptados por el Sistema Estatal de Atención a Víctimas;
-
-VII. Elaborar el proyecto del Reglamento del Sistema Estatal de Atención a Víctimas y sus modificaciones para la aprobación de sus integrantes; y
-
-VIII. Las demás que le instruya el Presidente del Sistema Estatal de Atención as (sic) Víctimas.
+Artículo 28 undecies. (DEROGADO, P.O. 10 DE JUNIO DE 2022)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MARZO DE 2019)</small>
 
@@ -715,47 +633,21 @@ La Comisión Estatal podrá solicitar a cualquier persona o autoridad el apoyo e
 
 ### Capítulo Cuarto. De los mecanismos alternativos de solución de controversias y conflictos
 
-REFORMADO, P.O. 18 DE ABRIL DE 2017)
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 32.
 
-Los mecanismos alternativos de solución de controversias y conflictos y la justicia restaurativa, estarán a cargo de una Dirección dependiente de la Secretaría de Seguridad; garantizarán la reparación del daño de la víctima, la reintegración de la víctima y el imputado a la sociedad, coadyuvando con la prevención social. La Dirección establecerá las políticas y bases de coordinación con los municipios para impulsar los mecanismos alternativos de solución de controversias y conflictos y la justicia restaurativa, promoviendo el diálogo y la generación de acuerdos, que fortalecerán la cultura de la paz y la legalidad en los respectivos ámbitos de su competencia.
+Los mecanismos alternativos de solución de controversias y conflictos y la justicia restaurativa, estarán a cargo del Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro; garantizarán la reparación del daño de la víctima, la reintegración de la víctima y el imputado a la sociedad, coadyuvando con la prevención social. El Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro establecerá las políticas y bases de coordinación con los municipios para impulsar los mecanismos alternativos de solución de controversias y conflictos y la justicia restaurativa, promoviendo el diálogo y la generación de acuerdos, que fortalecerán la cultura de la paz y la legalidad en los respectivos ámbitos de su competencia.
 
 ###### Artículo 33.
 
-Son funciones de la Dirección de Mecanismos Alternativos de Solución de Controversias y Conflictos, con independencia de lo estipulado por la ley de la materia, las siguientes:
+(DEROGADO, P.O. 10 DE JUNIO DE 2022)
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-I. Supervisar, aplicar, promover y fomentar los mecanismos alternativos de solución de controversias y conflictos y justicia restaurativa, por medio de servicios accesibles y gratuitos, en los diferentes ámbitos de su competencia, a fin de asegurar la reparación del daño;
-
-II. Impulsar la participación de instituciones públicas, privadas y organismos de la sociedad civil para el alcance de los objetivos y concreción de acuerdos;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-III. Proponer las políticas, protocolos, manuales y demás normatividad necesaria para la correcta operación de las unidades técnicas, centros o instituciones que operen los mecanismos alternativos de solución de controversias y conflictos; así como la justicia restaurativa en todo el Estado;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-IV. Impulsar la capacitación profesional y especializada, en los mecanismos alternativos de solución de controversias y conflictos y la justicia restaurativa;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-V. Realizar las acciones de seguimiento, evaluación y control de los operadores y procedimientos de mecanismos alternativos de solución de controversias y conflictos y justicia restaurativa de acuerdo a la normatividad aplicable;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-VI. Gestionar y coordinarse en el ámbito de su competencia con autoridades de los tres órdenes de gobierno, organismos no gubernamentales, asociaciones civiles e Instituciones educativas, para fortalecer las acciones y cumplimiento de metas y objetivos de los mecanismos alternativos de solución de controversias y conflictos y la justicia restaurativa;
-
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-VII. Promover y difundir los mecanismos alternativos de solución de controversias y conflictos y la justicia restaurativa en el Estado; y
-
-VIII. Las demás que establezcan las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 34.
 
-Para el alcance de sus objetivos, la Dirección de Mecanismos Alternativos de Solución de Controversias y Conflictos se coordinará con las autoridades integrantes del Sistema Estatal y los auxiliares de éste, en los respectivos ámbitos de sus competencias.
+Para el alcance de sus objetivos, el Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, se coordinará con las autoridades integrantes del Sistema Estatal y los auxiliares de éste, en los respectivos ámbitos de sus competencias.
 
 ### Capítulo Quinto. Del desarrollo profesional del personal operativo de las instituciones de seguridad
 
@@ -808,6 +700,10 @@ Artículo 38 bis. La Secretaría de Seguridad, a través de la Comisión de Carr
 ###### Artículo 39.
 
 La profesionalización es la adquisición, desarrollo y aplicación con eficiencia y eficacia de capacidades del personal facultado para el uso de la fuerza pública para resolver problemas concretos del servicio de la seguridad, a cargo del Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro, cuya naturaleza será la de un organismo público descentralizado, con personalidad jurídica y patrimonio, así como con plena autonomía técnica y de gestión.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+La profesionalización del personal facultado para el uso de la fuerza pública, se realizará sobre las bases de la disciplina, el respeto a la vida, las libertades, la integridad y el patrimonio de los ciudadanos, así como el respeto al orden público y a la paz social.
 
 ###### Artículo 40.
 
@@ -873,13 +769,19 @@ La operación policial es el conjunto de acciones coordinadas entre las instituc
 
 El Gobernador del Estado asumirá el mando en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+Para el ejercicio de la operación policial, el personal operativo facultado para el uso de la fuerza pública se regirá bajo los principios de legalidad, responsabilidad, respeto a los derechos fundamentales de protección a la persona humana, eficiencia, coordinación y cooperación.
+
 ###### Artículo 43.
 
 Corresponde a la Secretaría de Seguridad establecer las bases de coordinación para la operación policial, de conformidad con las políticas y lineamientos del Consejo Estatal y el Programa Estatal de Seguridad Pública, en el ámbito de su competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2022)</small>
+
 ###### Artículo 44.
 
-La operación policial de los integrantes de las instituciones de seguridad atenderá los principios establecidos en la Constitución, ejecutada por policías y custodios de carrera que se regirán por las leyes y reglamentos correspondientes para cumplir con sus funciones de investigación, prevención, reacción o custodia, asegurando la protección de los ciudadanos y el servicio a la comunidad.
+La operación policial de los integrantes de las instituciones de seguridad atenderá los principios establecidos en la Constitución, ejecutada por policías y custodios de carrera que se regirán por las leyes y reglamentos correspondientes para cumplir con sus funciones de investigación, prevención, aplicación de mecanismos alternativos de solución de conflictos, reacción o custodia, asegurando la protección de los ciudadanos y el servicio a la comunidad.
 
 Los integrantes de la operación policial en el estado, están facultados para el uso legal de la fuerza pública conforme a los protocolos establecidos y el pleno respeto a los Derechos Humanos. Cualquier abuso será castigado conforme a la legislación penal aplicable.
 
@@ -901,13 +803,51 @@ En su caso, la Policía de Investigación se coordinará con los integrantes de 
 
 Cuando sea necesaria la participación de integrantes de corporaciones de otras entidades, la coordinación se hará por conducto de la Policía Estatal.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JUNIO DE 2022)</small>
+
+### Capítulo Sexto Bis. Del enfoque de proximidad
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+Artículo 46 bis. El personal operativo facultado para el uso legal de la fuerza pública realizará sus funciones con un enfoque de proximidad consistente en el desempeño de sus atribuciones de manera proactiva, colaborativa, de acercamiento con la comunidad y con base en acciones preventivas.
+
+El enfoque de proximidad se implementará con base en estrategias que además de combatir la violencia y la delincuencia identifiquen y reaccionen a sus causas bajo parámetros de acceso a la justicia penal, cívica y cotidiana.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+Artículo 46 ter. El enfoque de proximidad contempla:
+
+I. Procuración (sic) la solución de conflictos entre particulares;
+
+II. Trabajo con la comunidad para crear condiciones que permitan a los habitantes del Estado vivir en un ambiente seguro para su desarrollo humano integral;
+
+III. Actuación con perspectiva de género y protección efectiva de derechos humanos;
+
+IV. Prevención de conductas delictivas;
+
+V. Investigación del delito, en términos de las disposiciones jurídicas aplicables en la materia;
+
+VI. Promoción, prevención y vigilancia del respeto a las leyes administrativas, de conformidad con las disposiciones jurídicas aplicables en la materia;
+
+VII. Reacción en términos de la legislación en la materia; y
+
+VIII. Las demás que establezcan otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+Artículo 46 quáter. Corresponde a la Secretaría de Seguridad Ciudadana, a través de la Coordinación del Servicio Profesional de Carrera Policial y el Centro de Capacitación, Formación e Investigación para la Seguridad de Querétaro, coordinar y en su caso realizar, los programas de formación inicial y formación continua, que contemplen los programas de estudios, los procedimientos y todas las acciones necesarias para formar capacidades para el desempeño de la función policial con enfoque de proximidad.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+Artículo 46 quinquies. Todas las autoridades estatales y municipales en el ámbito de sus competencias serán corresponsables con las instituciones de seguridad en el seguimiento y solución de los problemas comunitarios.
+
+Estas autoridades deberán adecuar su marco jurídico para alinear sus funciones al enfoque de proximidad. Para lo cual, deberán expedir los reglamentos, lineamientos y documentos necesarios para dicho fin.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE AGOSTO DE 2018)</small>
 
 ### Capítulo Séptimo. Del Centro de Información y Análisis para la Seguridad de Querétaro
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
-
-### Capítulo Octavo. De las instalaciones estratégicas
 
 ###### Artículo 47.
 
@@ -919,11 +859,11 @@ El Centro de Información y Análisis para la Seguridad de Querétaro es un orga
 
 La información que contenga el Centro de Información y Análisis para la Seguridad de Querétaro será administrada y protegida bajo los principios de confidencialidad, reserva y demás aspectos previstos por las leyes de la materia.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 49.
 
-El Centro de Información y Análisis para la Seguridad de Querétaro tiene por objeto el comando, operación, monitoreo, y control del sistema estatal de video vigilancia, operación informática, análisis de información, atención de las líneas de emergencia y denuncia anónima, y la operación y administración de la red estatal de telecomunicaciones para la seguridad (radiocomunicación y red de transporte de voz y datos) con la finalidad de garantizar el derecho fundamental de la seguridad en el Estado, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la Ley de Seguridad para el Estado de Querétaro y las demás disposiciones aplicables.
+El Centro de Información y Análisis para la Seguridad de Querétaro tiene por objeto el comando, operación, monitoreo, y control del sistema estatal de video vigilancia y del registro público vehicular estatal, operación informática, análisis y resguardo de información, atención y coordinación estatal de las líneas de emergencia y denuncia anónima, así como la operación y administración de la red estatal de telecomunicaciones para la seguridad (radiocomunicación y red de transporte de voz y datos) con la finalidad de garantizar el derecho fundamental de la seguridad en el Estado, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la Ley de Seguridad para el Estado de Querétaro y las demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
 
@@ -951,7 +891,13 @@ La Secretaría de Seguridad, establecerá los lineamientos para que las instituc
 
 Cada operador tendrá acceso ilimitado a la información que genera y requiera conforme a sus atribuciones. En el caso de que algún operador requiera información diversa o adicional a su competencia, deberá solicitarlo a la Secretaría de Seguridad.
 
-### Capítulo Noveno. De la seguridad privada
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+Artículo 50 quinquies. Los Centros de comando operación, monitoreo y control de video vigilancia estatales y municipales se regirán por los principios que establece la presente Ley.
+
+El personal adscrito a las áreas de despacho y video vigilancia del Centro de Información y Análisis para la Seguridad de Querétaro, así como el personal de atención a las líneas de emergencia 9-1-1, 089 o cualquier otra semejante para brindar atención y respuesta a la ciudadanía, deberán contar con las certificaciones que establezcan los Centros de formación correspondientes en los términos de la ley aplicable y no serán removidos sino por causa grave en términos de las disposiciones jurídicas aplicables.
+
+### Capítulo Octavo. De las instalaciones estratégicas
 
 ###### Artículo 51.
 
@@ -959,7 +905,7 @@ Son instalaciones estratégicas los bienes muebles e inmuebles destinados al ade
 
 Corresponde al Estado, en coordinación con la Federación y los municipios las acciones de vigilancia y protección de las instalaciones estratégicas, en el ámbito de su competencia, necesarias para mantener la paz y el orden público. La Secretaría de seguridad, coordinará dichas acciones.
 
-### Capítulo Décimo. De las infracciones y sanciones administrativas
+### Capítulo Noveno. De la seguridad privada
 
 ###### Artículo 52.
 
@@ -991,7 +937,7 @@ Correrá a cargo de los prestadores del servicio de seguridad privada el costo d
 
 No podrán operar en la Entidad las empresas de seguridad privada que no cumplan con lo establecido en el presente artículo.
 
-### Capítulo Primero. Disposiciones comunes
+### Capítulo Décimo. De las infracciones y sanciones administrativas
 
 ###### Artículo 55.
 
@@ -1079,7 +1025,7 @@ La Autoridad de Supervisión de Medidas Cautelares, Suspensión Condicional del 
 
 ## Título Cuarto. De la transparencia y acceso a la información
 
-### Capítulo Segundo. De los órganos internos de control en materia de seguridad
+### Capítulo Primero. Disposiciones comunes
 
 ###### Artículo 69.
 
@@ -1099,9 +1045,7 @@ Las instituciones estarán obligadas a proteger la información que se refiere a
 
 La inobservancia de las obligaciones en materia de acceso a la información, será sancionada en los términos que dispongan las leyes.
 
-### Capítulo Tercero. Del Centro de Evaluación y Control de Confianza del Estado de Querétaro
-
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+### Capítulo Segundo. De los órganos internos de control en materia de seguridad
 
 ###### Artículo 72.
 
@@ -1141,9 +1085,9 @@ X. Las demás que establezcan las disposiciones legales aplicables.
 
 Los titulares de los órganos internos de control o de aquellas áreas que realicen funciones de supervisión, transparencia o sanción, deberán someterse al proceso de evaluación de control de confianza.
 
-### Capítulo Cuarto. Del Banco de Datos del Perfil Genético
+### Capítulo Tercero. Del Centro de Evaluación y Control de Confianza del Estado de Querétaro
 
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 76.
 
@@ -1181,9 +1125,9 @@ El Centro de Evaluación y Control de Confianza del Estado de Querétaro, tendr�
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-### Capítulo Único. Disposiciones Generales
+### Capítulo Cuarto. Del Banco de Datos del Perfil Genético
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 78 Bis.
 
@@ -1198,6 +1142,10 @@ La Fiscalía General del Estado podrá solicitar y utilizar la información del 
 Ninguna persona podrá ingresar o permanecer en las Instituciones de seguridad, seguridad privada, protección civil y aquellas que realicen actividades de atención a emergencias que integren el sistema estatal de protección civil, sin haber proporcionado su perfil genético de conformidad con esta Ley y demás normatividad aplicable.
 
 ## Título Quinto
+
+### Capítulo Único. Disposiciones Generales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 79.
 
@@ -1398,3 +1346,43 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE SEGURIDAD Y JUSTICIA CÍVICA".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley comenzará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+La Ley del Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro entrará en vigor el 01 de julio del 2022.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias hechas a la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro previstas en otros ordenamientos jurídicos, se entenderán a favor del organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro, serán concluidos con todos sus alcances, efectos y facultades por el organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro o, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+El organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, iniciará sus funciones 60 días hábiles posteriores al inicio de la vigencia de su Ley.
+
+Los recursos humanos, materiales y financieros con que cuenta la Subsecretaría de Prevención Social y Atención a Víctimas, la Dirección de Prevención Social de la Violencia y la Delincuencia, así como la Dirección de Mecanismos Alternativos de Solución de Controversias y Conflictos y el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, se trasladarán al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro.
+
+Los trabajadores de la Subsecretaría de Prevención Social y Atención a Víctimas, la Dirección de Prevención Social de la Violencia y la Delincuencia, así como de la Dirección de Mecanismos Alternativos de Solución de Controversias y Conflictos y el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, por virtud de la presente Ley, se transferirán al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, serán concluidos con todos sus alcances, efectos y facultades por el organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro o, atendiendo a su competencia.
+
+###### ARTÍCULO SEXTO.
+
+El Director General del organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, deberá realizar de inmediato los trámites correspondientes para la obtención de los registros fiscales y administrativos que exijan las disposiciones legales, para la debida operación de la entidad paraestatal, así como de las cuentas bancarias, convenios y demás instrumentos jurídicos con instituciones públicas y privadas para el cumplimiento de su objeto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas del Poder Ejecutivo del Estado, realizará las adecuaciones presupuestales conforme a la disponibilidad financiera con que cuente para el presente ejercicio fiscal, a fin de dotar de los recursos materiales y financieros que permitan al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro el cumplimiento de la presente Ley.
