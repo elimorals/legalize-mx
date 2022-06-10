@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2022-05-06"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE JUNIO DE 2022.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -226,6 +226,12 @@ I. Establecer la violencia familiar como restricción para el régimen de conviv
 > <small>(REFORMADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
 II. Modificar los ordenamientos penales para establecer que cualquier persona que tenga conocimiento de hechos que constituyan delitos de violencia familiar puedan denunciar.
+
+> <small>(ADICIONADO, G.G. 10 DE JUNIO DE 2022)</small>
+
+###### Artículo 8 Ter.
+
+La Violencia Vicaria es el acto u omisión que genera afectación o daño físico, psicológico, emocional, patrimonial o de cualquier otra índole a un descendiente, ascendiente o dependiente económico de la víctima, cometido por parte de quien mantenga o mantuvo una relación afectiva o sentimental con la misma, y cuyo objeto sea el causar un menoscabo emocional, psicológico, patrimonial o de otra índole hacia la víctima; y que se expresa de manera enunciativa, más no limitativa, a través de conductas tales como las amenazas verbales, el aleccionamiento, la sustracción de sus hijas e hijos, la imputación de hechos delictuosos falsos en donde se demuestre la dilación procesal injustificada, o cualquier otra que sea utilizada para dañar a la mujer.
 
 ### CAPÍTULO II. DE LA VIOLENCIA LABORAL Y DOCENTE
 
@@ -2112,3 +2118,11 @@ CUARTO. Las referencias realizadas en disposiciones jurídicas, legales, reglame
 Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de la Mujer serán atendidos hasta su conclusión por la Secretaría de las Mujeres.
 
 Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de la Mujer de conformidad con las disposiciones jurídicas aplicables.
+
+G.G. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 60.- POR EL QUE SE ADICIONA EL ARTÍCULO 8 TER A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
