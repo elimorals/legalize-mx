@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-mitigacion-y-adaptacion-al-cambio-climatico-y-149749"
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-09"
-last_updated: "2022-04-18"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149749&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-06-07"
 
 LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE JUNIO DE 2022.
 
 Ley publicada en el Número 614 de la Gaceta Oficial de la Ciudad de México, el miércoles 9 de junio de 2021.
 
@@ -115,6 +115,10 @@ XII. Educación Ambiental ante el Cambio Climático: procesos integradores de ed
 XIII. Efectos adversos del cambio climático: cambios en el medio ambiente físico en el conjunto de organismos vivos, resultantes del cambio climático y que tienen efectos nocivos significativos en la composición, la capacidad de recuperación o la productividad de los ecosistemas naturales, cuencas hidrológicas, o sujetos de ordenación, en el funcionamiento de los sistemas socioeconómicos, o en la salud y el bienestar de la población;
 
 XIV. Emisiones: liberación a la atmósfera de Compuestos y Gases (sic) Efecto Invernadero;
+
+> <small>(ADICIONADA, G.O. 10 DE JUNIO DE 2022)</small>
+
+XIV BIS. Empleos verdes: son puestos de trabajo decentes que contribuyen a la conservación, restauración y mejora de la calidad del medio ambiente en cualquier sector económico, reduciendo el impacto ambiental de las empresas y de los sectores económicos aumentando la eficiencia del consumo de energía, materias primas y agua, descarbonizando la economía y reduciendo la emisión de gases de efecto invernadero, minimizando o evitando cualquier forma de residuo y contaminación, restaurando los ecosistemas y la biodiversidad, y permiten adaptarse al cambio climático.
 
 XV. Escenarios de mitigación: descripción hipotética de lo que probablemente ocurriría en ausencia de la implementación de medidas para la mitigación de gases de efecto invernadero, basado en supuestos históricos;
 
@@ -238,9 +242,11 @@ XVII. Expedir las disposiciones que deriven de la presente Ley; y
 
 XVIII. Las demás que prevén esta Ley y las disposiciones que resulten aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JUNIO DE 2022)</small>
+
 ###### Artículo 7.
 
-Corresponde a la Secretaría el ejercicio de las atribuciones siguientes:
+Corresponde a la Secretaria el ejercicio de las atribuciones siguientes:
 
 I. Proponer, coordinar, ejecutar y evaluar políticas, estrategias, medidas y acciones en materia de resiliencia, mitigación y adaptación al cambio climático, en concordancia con la política nacional y los compromisos internacionales;
 
@@ -320,7 +326,11 @@ XXXVIII. Promover la identificación y obtención de recursos internacionales, n
 
 XXXIX. Crear un Sistema de Seguimiento que incluya la información y los indicadores para el monitoreo, medición, reporte, verificación y evaluación de las medidas de mitigación y adaptación previstas en el Programa de Acción Climática; y
 
-XL. Las demás que prevén esta Ley y las disposiciones que resulten aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE JUNIO DE 2022)</small>
+
+XL. Coadyuvar con la Secretaría de Trabajo y Fomento al Empleo en la creación y fomento de empleos verdes;
+
+XLI. Las demás que prevén esta Ley y las disposiciones que resulten aplicables.
 
 ###### Artículo 8.
 
@@ -1425,5 +1435,13 @@ G.O. 18 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES II Y XI DEL ARTÍCULO 8 DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE DE LA CIUDAD DE MÉXICO”.]
 
 Primero.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XIV BIS DEL ARTÍCULO 4; SE REFORMA LA FRACCIÓN XL, RECORRIENDOSE LA SUBSECUENTE DEL ARTÍCULO 7 DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE DE LA CIUDAD DE MÉXICO”.]
+
+Primero.- Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
