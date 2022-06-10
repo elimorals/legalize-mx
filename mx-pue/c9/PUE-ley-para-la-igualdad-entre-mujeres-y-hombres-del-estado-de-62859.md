@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6285
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-22"
-last_updated: "2021-10-28"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62859&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 22 de agosto de 2008.
 
@@ -107,83 +107,45 @@ VIII.- Colaboración y coordinación: Los Poderes Públicos del Estado y sus Mun
 
 Asimismo, han de proveer la colaboración y el trabajo en común con otras instituciones y entidades, y de fuera de ella, con el fin de garantizar a las mujeres y hombres que radiquen en el territorio del Estado de Puebla, la igualdad de mujeres y hombres.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
+
 ###### Artículo 4.
 
 Para los efectos de esta Ley se entenderá por:
-
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 I.- Acciones afirmativas: Es el conjunto de medidas de carácter temporal correctivo, compensatorio y/o de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres;
 
 II.- Comisión: La Comisión de Derechos Humanos del Estado de Puebla;
 
-II Bis.- (DEROGADA, P.O. 6 DE DICIEMBRE DE 2019)
+III.- Discriminación contra la Mujer: Toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
 
-II Ter.- (DEROGADA, P.O. 6 DE DICIEMBRE DE 2019)
-
-II Quater.- (DEROGADA, P.O. 6 DE DICIEMBRE DE 2019)
-
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
-
-III.- Discriminación: La negación, exclusión, distinción, menoscabo, impedimento, restricción, anulación o preferencia, de alguno o algunos de los derechos humanos o libertades de las personas, grupos y comunidades en situaciones de discriminación, imputables a personas físicas o jurídicas o entes públicos con intención o sin ella, dolosa o culpable, por acción u omisión, que no sea objetiva, racional ni proporcional, por razón de su origen étnico o nacional, color de piel, cultura, lengua, sexo, género, identidad indígena, de género, edad, discapacidad, condición jurídica, social o económica, apariencia física, condiciones de salud, características genéticas, situación migratoria, embarazo, religión, opiniones políticas, académicas o filosóficas, identidad o filiación política, orientación sexual, estado civil, situación familiar, responsabilidades familiares, idioma, antecedentes penales, por su forma de pensar, vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales o cualquier otra que tenga por efecto anular o menoscabar el reconocimiento, goce o ejercicio, de los derechos humanos, así como la igualdad de las personas.
+IV.- Discriminación: La negación, exclusión, distinción, menoscabo, impedimento, restricción, anulación o preferencia, de alguno o algunos de los derechos humanos o libertades de las personas, grupos y comunidades en situaciones de discriminación, imputables a personas físicas o jurídicas o entes públicos con intención o sin ella, dolosa o culpable, por acción u omisión, que no sea objetiva, racional ni proporcional, por razón de su origen étnico o nacional, color de piel, cultura, lengua, sexo, género, identidad indígena, de género, edad, discapacidad, condición jurídica, social o económica, apariencia física, condiciones de salud, características genéticas, situación migratoria, embarazo, religión, opiniones políticas, académicas o filosóficas, identidad o filiación política, orientación sexual, estado civil, situación familiar, responsabilidades familiares, idioma, antecedentes penales, por su forma de pensar, vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales o cualquier otra que tenga por efecto anular o menoscabar el reconocimiento, goce o ejercicio, de los derechos humanos, así como la igualdad de las personas.
 
 También es discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, aporofobia, así como la discriminación racial y otras formas conexas de intolerancia;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+V.- Igualdad de Género: Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
 
-IV.- Igualdad de Género: Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
+VI.- Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+VII.- Ley: La Ley para la Igualdad entre Mujeres y Hombres del Estado de Puebla;
 
-V.- Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+VIII.- Perspectiva de Género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
 
-> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL CONTENIDO DE LA FRACCIÓN VIII]</small>
+IX.- Presupuestos con perspectiva de género: Presupuestos que en su diseño, implementación y evaluación consideran los intereses, necesidades y prioridades de mujeres y hombres. El objetivo primordial es la igualdad e integración transversal de la política de género en planes, programas y acciones gubernamentales;
 
-> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2019)</small>
+X.- Poderes Públicos del Estado: Los Poderes Ejecutivo, Legislativo y Judicial del Estado, de acuerdo a su organización y funcionamiento conforme a su normatividad aplicable y los demás que la legislación reconozca como autoridad;
 
-V Bis.- Presupuestos con perspectiva de género: Presupuestos que en su diseño, implementación y evaluación consideran los intereses, necesidades y prioridades de mujeres y hombres. El objetivo primordial es la igualdad e integración transversal de la política de género en planes, programas y acciones gubernamentales.
+XI.- Principio de Igualdad: Posibilidad y capacidad de ser titulares cualitativamente de los mismos derechos, sin importar las diferencias del género al que pertenezcan;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+XII.- Programa: Programa Estatal para la Igualdad entre Mujeres y Hombres;
 
-VI.- Ley: La Ley para la Igualdad entre Mujeres y Hombres del Estado de Puebla;
+XIII.- Secretaría: Secretaría de Igualdad Sustantiva;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+XIV.- Sistema Estatal: Sistema Estatal para la Igualdad entre Mujeres y Hombres;
 
-VII.- Perspectiva de Género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
+XV.- Transversalidad: Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas, y
 
-> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL CONTENIDO DE LA FRACCIÓN V BIS]</small>
-
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
-
-VIII.- Presupuestos con perspectiva de género: Presupuestos que en su diseño, implementación y evaluación consideran los intereses, necesidades y prioridades de mujeres y hombres. El objetivo primordial es la igualdad e integración transversal de la política de género en planes, programas y acciones gubernamentales;
-
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
-
-IX.- Poderes Públicos del Estado: Los Poderes Ejecutivo, Legislativo y Judicial del Estado, de acuerdo a su organización y funcionamiento conforme a su normatividad aplicable y los demás que la legislación reconozca como autoridad;
-
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
-
-X.- Principio de Igualdad: Posibilidad y capacidad de ser titulares cualitativamente de los mismos derechos, sin importar las diferencias del género al que pertenezcan;
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
-
-XI.- Programa: Programa Estatal para la Igualdad entre Mujeres y Hombres;
-
-> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
-
-XII.- Secretaría: Secretaría de Igualdad Sustantiva;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
-
-XIII.- Sistema Estatal: Sistema Estatal para la Igualdad entre Mujeres y Hombres;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
-
-XIV.- Transversalidad: Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas, y
-
-> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
-
-XV.- Paridad de Género: Principio que tiene como finalidad la igualdad sustantiva entre mujeres y hombres, que supone que sus derechos se ejerzan en condiciones de igualdad, libres de discriminación y violencia.
+XVI.- Paridad de Género: Principio que tiene como finalidad la igualdad sustantiva entre mujeres y hombres, que supone que sus derechos se ejerzan en condiciones de igualdad, libres de discriminación y violencia.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -938,5 +900,13 @@ P.O. 28 DE OCTUBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XI Y XII DEL ARTÍCULO 8 Y ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 8 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 4 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
