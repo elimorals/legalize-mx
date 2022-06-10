@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-proteccion-a-victimas-y-personas-que-intervienen-en-9976
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-20"
-last_updated: "2019-03-06"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE PROTECCIÓN A VÍCTIMAS Y PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 20 de marzo de 2014.
 
@@ -935,13 +935,17 @@ VIII. Otorgar, a través de la Unidad de Protección a Personas, las medidas de 
 
 IX. Decretar, a través del Ministerio Público, las medidas y providencias precautorias que resulten necesarias y procedentes para proteger bienes jurídicamente tutelados de las víctimas;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-X. Llevar un registro sobre los casos en que la víctima haya optado por alguna de las vía de solución alterna de conflictos, notificando en todo caso a las instancias de protección correspondientes, a fin de que se cercioren que la víctima tuvo la asesoría requerida para dicha decisión; y
+X. Llevar un registro sobre los casos en que la víctima haya optado por alguna de las vías de solución alterna de conflictos, notificando en todo caso a las instancias de protección correspondientes, a fin de que se cercioren que la víctima tuvo la asesoría requerida para dicha decisión;
 
-> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2022)</small>
 
-XI. Las demás que señale esta Ley y otras disposiciones legales aplicables en la materia.
+XI. Canalizar para su atención procedente al Centro de Justicia para las Mujeres del Estado de Querétaro o a la Comisión Estatal de Atención Integral a Víctimas de la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro o la autoridad que corresponda, los casos vinculados a víctimas del delito que se sitúen fuera de su marco de competencia en términos de lo establecido por el presente artículo y las disposiciones jurídicas aplicables; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2022)</small>
+
+XII. Las demás que señale esta Ley y otras disposiciones legales aplicables en la materia.
 
 Sección Cuatro
 
@@ -1003,11 +1007,17 @@ IV. Coordinar a la policía estatal y brindar apoyo a las corporaciones de polic
 
 V. Promover la formación y especialización de los servidores públicos adscritos a las corporaciones de policía del Estado y municipios, en el conocimiento de sus deberes en relación con las víctimas, así como de los (sic) demás personas que intervienen en el procedimiento penal;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-VI. Convenir con los Ayuntamientos todo lo necesario para la coordinación intermunicipal de sus funciones en materia de asistencia, atención y protección de las víctimas y demás personas que intervienen en el procedimiento penal; y
+VI. Convenir con los Ayuntamientos todo lo necesario para la coordinación intermunicipal de sus funciones en materia de asistencia, atención y protección de las víctimas y demás personas que intervienen en el procedimiento penal;
 
-VII. Las demás que señale esta Ley y otras disposiciones legales aplicables en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2022)</small>
+
+VII. Brindar la atención procedente, a través de la Comisión Estatal de Atención Integral a Víctimas o el Centro de Justicia para las Mujeres del Estado de Querétaro, a las canalizaciones realizadas por la Fiscalía General del Estado de Querétaro sobre los casos relacionados a las víctimas del delito, en términos de la presente Ley y de las disposiciones jurídicas aplicables; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2022)</small>
+
+VIII. Las demás que señale esta Ley y otras disposiciones legales aplicables en la materia.
 
 ###### Artículo 30.
 
@@ -2888,3 +2898,43 @@ Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. A partir de la entrada en vigor de la presente Ley, todas las menciones o referencias a la Comisión Ejecutiva de Atención a Víctimas del Estado de Querétaro, se entenderán referidas a la Comisión Estatal de Atención Integral a Víctimas.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE SEGURIDAD Y JUSTICIA CÍVICA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley comenzará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+La Ley del Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro entrará en vigor el 01 de julio del 2022.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias hechas a la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro previstas en otros ordenamientos jurídicos, se entenderán a favor del organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, salvo disposición expresa en contrario.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro, serán concluidos con todos sus alcances, efectos y facultades por el organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro o, atendiendo a su competencia.
+
+###### ARTÍCULO QUINTO.
+
+El organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, iniciará sus funciones 60 días hábiles posteriores al inicio de la vigencia de su Ley.
+
+Los recursos humanos, materiales y financieros con que cuenta la Subsecretaría de Prevención Social y Atención a Víctimas, la Dirección de Prevención Social de la Violencia y la Delincuencia, así como la Dirección de Mecanismos Alternativos de Solución de Controversias y Conflictos y el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, se trasladarán al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro.
+
+Los trabajadores de la Subsecretaría de Prevención Social y Atención a Víctimas, la Dirección de Prevención Social de la Violencia y la Delincuencia, así como de la Dirección de Mecanismos Alternativos de Solución de Controversias y Conflictos y el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, por virtud de la presente Ley, se transferirán al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, serán concluidos con todos sus alcances, efectos y facultades por el organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro o, atendiendo a su competencia.
+
+###### ARTÍCULO SEXTO.
+
+El Director General del organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, deberá realizar de inmediato los trámites correspondientes para la obtención de los registros fiscales y administrativos que exijan las disposiciones legales, para la debida operación de la entidad paraestatal, así como de las cuentas bancarias, convenios y demás instrumentos jurídicos con instituciones públicas y privadas para el cumplimiento de su objeto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas del Poder Ejecutivo del Estado, realizará las adecuaciones presupuestales conforme a la disponibilidad financiera con que cuente para el presente ejercicio fiscal, a fin de dotar de los recursos materiales y financieros que permitan al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro el cumplimiento de la presente Ley.
