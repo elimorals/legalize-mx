@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2021-12-24"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -4041,6 +4041,10 @@ e) La elaboración de un informe anual que contenga los avances y resultados del
 
 Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades estatales y municipales, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+El presupuesto de egresos de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, no será menor al presupuesto autorizado en el año inmediato anterior, para tal efecto, el proyecto correspondiente será remitido a la Legislatura para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda, en los términos que disponga la Ley de la materia. En todo caso, el proyecto de presupuesto de egresos de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción deberá incluir los tabuladores desglosados de las remuneraciones que perciban las personas servidoras públicas y las personas integrantes del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. La persona titular de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción presentará anualmente ante el Pleno de la Legislatura, un informe de labores y resultados, en términos del artículo 51 BIS de esta Constitución y la Ley aplicable.
+
 ###### ARTICULO 162.
 
 (DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2017)
@@ -5566,3 +5570,11 @@ P.O. 24 DE DICIEMBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente ley.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 239 POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 161 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, EN MATERIA DE PRESUPUESTO DE LA SECRETARIA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
