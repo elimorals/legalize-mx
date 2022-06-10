@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2022-04-06"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. EL 25 DE OCTUBRE DE 2023, SE PUBLICÓ EN LA “GACETA LEGISLATIVA DEL H. CONGRESO DEL ESTADO DE NUEVO LEÓN” EL DECRETO 439 DE LA LXXVI LEGISLATURA DEL CONGRESO DEL ESTADO DE DICHA ENTIDAD; EL CUAL, AÚN NO HA SIDO PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, POR LO QUE AÚN NO HA SIDO COMPILADO Y SISTEMATIZADO.]</small>
+
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -520,6 +522,14 @@ k) La designación de Concejos Municipales;
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
 l) La designación de Presidente Municipal Sustituto en el Municipio que corresponda;
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+Las solicitudes para la designación de Presidentes Municipales Sustitutos, se turnarán con carácter de urgente.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+Aún y cuando se esté en el periodo de receso Legislativo, la Comisión respectiva deberá convocar el asunto para que los integrantes de la misma dictaminen las solicitudes a que se refiere el párrafo anterior;
 
 m) Lo relativo a la creación de empleos y oficinas que requiera la Administración Pública del Estado, así como la supresión de éstos cuando cese su necesidad;
 
@@ -1485,9 +1495,9 @@ XXVI.- Operar la Plataforma Digital Legislativa como un sistema de comunicación
 
 Para el acceso y uso de la misma, se deberán expedir los lineamientos de operación correspondiente;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-XXVII.- Vigilar la conservación física del recinto Oficial del Congreso; y
+XXVII.- Vigilar la conservación física del recinto Oficial del Congreso, garantizando el derecho a la accesibilidad universal de las personas con discapacidad; y
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2022)</small>
 
@@ -2387,6 +2397,12 @@ La Inscripción deberá realizarse en una Sesión o Espacio Solemne a la que con
 
 La Oficialía Mayor del Congreso del Estado llevará el registro de las inscripciones que se hayan consumado, y a través de la página y tableros de aviso difundirá, el contenido y significado histórico de estas.
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+###### Artículo 145 Bis 8.
+
+La Oficial Mayor del Congreso vigilará que se garantice en el Salón de Sesiones, así como en las instalaciones y servicios del Congreso del Estado, las medidas pertinentes para asegurar el acceso universal de las personas con discapacidad, en términos de la Ley para la Protección de los Derechos de las Personas con Discapacidad, la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nuevo León y las Normas Oficiales Mexicanas en materia de Accesibilidad Universal, así como cualquier otra disposición legal aplicable.
+
 ### CAPITULO VII. DE LOS ASISTENTES A LAS SESIONES
 
 ###### Artículo 146.
@@ -2980,3 +2996,15 @@ P.O. 6 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 109. SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 18 BIS, Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 18 BIS 1; Y POR ADICIÓN DE UN SEGUNDO PÁRRAFO DEL ARTÍCULO 18 BIS, TODOS DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 150. SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL INCISO I) (SIC) DE LA FRACCIÓN I DEL ARTÍCULO 39 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 161. SE ADICIONA UN TITULO DÉCIMO, DENOMINADO “DE LA ACCESIBILIDAD UNIVERSAL EN EL CONGRESO DEL ESTADO” CON (SIC) QUE CONTIENE LOS ARTÍCULOS 96 Y 97, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN; SE REFORMA LA FRACCIÓN XXVII DEL ARTÍCULO 65 Y SE ADICIONA UN ARTÍCULO 145 BIS 8 AL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
