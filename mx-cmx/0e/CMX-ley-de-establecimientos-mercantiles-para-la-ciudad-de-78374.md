@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2021-03-02"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2011-01-14"
 
 LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 10 DE JUNIO DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -284,11 +284,13 @@ IV. Determinar y ordenar las medidas de seguridad e imponer las sanciones previs
 
 V. Informar de manera oficial y pública del resultado de las verificaciones realizadas sobre el funcionamiento de establecimientos mercantiles asentados en la demarcación correspondiente de acuerdo a la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México y a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México;
 
-VI. Otorgar o Negar por medio del sistema los permisos a que hace referencia esta Ley, en un término no mayor a cinco días hábiles, en caso contrario podrán funcionar de manera inmediata, exceptuando de lo anterior a los giros de impacto zonal en los que operará la negativa ficta;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 10 DE JUNIO DE 2022)</small>
 
-> <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2012)</small>
+VI. Otorgar o negar por medio del sistema los permisos a que hace referencia esta Ley, en un término no mayor a cinco días hábiles, en caso contrario podrán funcionar de manera inmediata, exceptuando de lo anterior a los giros de impacto zonal en los que operará la negativa ficta.
 
-Los establecimientos con giro de impacto zonal que tengan un aforo superior a cien personas, además de contar con programa interno de protección civil, deberán obtener dictamen técnico favorable del órgano previsto en el artículo 8 Bis de esta Ley, previo a la Solicitud de Permiso al Sistema.
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
+
+Los establecimientos con giro de impacto zonal que tengan un aforo superior a cien personas, deberán contar con programa interno de protección civil, previo a la Solicitud de Permiso al Sistema.
 
 VII. Integrar los expedientes con todos los documentos manifestados en los Avisos o Solicitudes de Permisos ingresados en el Sistema, y que se encuentren en el ámbito de su competencia; y
 
@@ -1424,15 +1426,21 @@ Se sancionará con el equivalente de 1000 a 3000 veces la Unidad de Cuenta de la
 
 En caso de que se detectare falsedad en los términos de este artículo, la Alcaldía o el Instituto de Verificación Administrativa de la Ciudad de México dará vista al Ministerio Público.
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 68.
 
-Se sancionará a los titulares de establecimientos de impacto vecinal y zonal que hubieren proporcionado información falsa, no cuenten con los documentos cuyos datos hubieren ingresado al Sistema o éstos fueren falsos, no cuenten con programa interno de protección civil en los términos de la normatividad de gestión integral de riesgos y protección civil, y no hubieren obtenido el dictamen técnico favorable previsto en el artículo 8 Bis o no cuenten con el visto bueno de la Secretaría de Gobierno a que se refiere el artículo 27 Bis, ambos artículos de esta Ley, de la siguiente forma:
+Se sancionará a los titulares de establecimientos de impacto vecinal y zonal que hubieren proporcionado información falsa, no cuenten con los documentos cuyos datos hubieren ingresado al Sistema o éstos fueren falsos, no cuenten con programa interno de protección civil en los términos de la normatividad de gestión integral de riesgos y protección civil, o no cuenten con el visto bueno de la Secretaría de Gobierno a que se refiere el artículo 27 Bis de esta Ley, de la siguiente forma:
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 a) Para los establecimientos de impacto vecinal multa de 5,000 a 15,000 veces la Unidad de Medida y Actualización de la Ciudad de México vigente.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 b) Para los establecimientos de impacto zonal multa de 15,000 a 25,000 veces la Unidad de Medida y Actualización de la Ciudad de México vigente.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 Asimismo, con clausura permanente y en caso de que se detectare falsedad en los términos de este artículo, la Autoridad dará vista al Ministerio Público.
 
@@ -1809,3 +1817,11 @@ TERCERO.- El Reglamento de la Ley de Gestión Integral de Riesgos y Protección 
 CUARTO.- Las Normas Técnicas, Términos de Referencia y Lineamientos a que se refiere la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México se actualizarán en lo que se opongan al presente Decreto, dentro de un término de noventa días, contados a partir de la entrada en vigor del presente mismo.
 
 QUINTO.- La Plataforma Digital a que se refiere la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México se actualizarán en lo que se opongan al presente Decreto, dentro de un término de noventa días, contados a partir de la entrada en vigor del presente mismo.
+
+G.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA LA FRACCIÓN VI EN SU PÁRRAFO SEGUNDO DEL ARTÍCULO 8 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 68 DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO".]
+
+Primero. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
