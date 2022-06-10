@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2022-03-23"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE JUNIO DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -210,17 +210,41 @@ Los tipos de violencia contra las mujeres son:
 
 I. Violencia Psicoemocional: Toda acción u omisión dirigida a desvalorar, intimidar o controlar sus acciones, comportamientos y decisiones, consistente en prohibiciones, coacciones, condicionamientos, intimidaciones, insultos, amenazas, celotipia, desdén, indiferencia, descuido reiterado, chantaje, humillaciones, comparaciones destructivas, abandono o actitudes devaluatorias, o cualquier otra, que provoque en quien la recibe alteración autocognitiva y autovalorativa que integran su autoestima o alteraciones en alguna esfera o área de su estructura psíquica;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+
+La violencia psicoemocional se sanciona de acuerdo con lo establecido en los artículos 138 y 200 del Código Penal para el Distrito Federal.
+
 II. Violencia Física: Toda acción u omisión intencional que causa un daño en su integridad física;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+
+La violencia física se sanciona de acuerdo con lo establecido en los artículos 130, 131 y 132 del Código Penal para el Distrito Federal.
 
 III. Violencia Patrimonial: Toda acción u omisión que ocasiona daño o menoscabo en los bienes muebles o inmuebles de la mujer y su patrimonio; también puede consistir en la sustracción, destrucción, desaparición, ocultamiento o retención de objetos, documentos personales, bienes o valores o recursos económicos;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+
+La violencia patrimonial se sanciona de acuerdo con lo establecido en los artículos 200 y 236 del Código Penal para el Distrito Federal.
+
 IV. Violencia Económica: Toda acción u omisión que afecta la economía de la mujer, a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, en la restricción, limitación y/o negación injustificada para obtener recursos económicos, percepción de un salario menor por igual trabajo, explotación laboral, exigencia de exámenes de no gravidez, así como la discriminación para la promoción laboral;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+
+La violencia económica se sanciona de acuerdo con lo establecido en el artículo 193 del Código Penal para el Distrito Federal.
+
 V. Violencia Sexual: Toda acción u omisión que amenaza, pone en riesgo o lesiona la libertad, seguridad, integridad y desarrollo psicosexual de la mujer, como miradas o palabras lascivas, hostigamiento, prácticas sexuales no voluntarias, acoso, violación, explotación sexual comercial, trata de personas para la explotación sexual o el uso denigrante de la imagen de la mujer;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+
+La violencia sexual se sanciona de acuerdo con lo establecido en los artículos 152, 174, 175, 176, 177, 178, 179, 180, 181, 181 Bis, 181 Ter, 181 Quáter, 186, 187, 188, 188 Bis, 189 y 189 Bis del Código Penal para el Distrito Federal.
 
 > <small>(REFORMADA, G.O. 11 DE JULIO DE 2017)</small>
 
 VI. Violencia contra los Derechos Reproductivos: Toda acción u omisión que limite o vulnere el derecho de las mujeres a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, así como el acceso a servicios de aborto seguro en el marco previsto por la ley para la interrupción legal del embarazo, a servicios de atención prenatal, así como a servicios obstétricos de emergencia;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+
+La violencia contra los derechos reproductivos se concreta al no cumplir con lo establecido en el artículo 144 del Código Penal para el Distrito Federal.
 
 > <small>(ADICIONADA, G.O. 11 DE JULIO DE 2017)</small>
 
@@ -238,7 +262,15 @@ d) Alterar el proceso natural del parto de bajo riesgo, mediante el uso de medic
 
 e) Practicar el parto por vía de cesárea, existiendo condiciones para el parto natural, o; Imponer bajo cualquier medio el uso de métodos anticonceptivos o de esterilización sin que medie el consentimiento voluntario, expreso e informado de la mujer; y
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+
+La violencia obstétrica se sanciona de acuerdo con lo establecido en los artículos 149, 150, 151, 151 Bis, 151 Ter, 152 y 153 del Código Penal para el Distrito Federal.
+
 VIII. Violencia Feminicida: Toda acción u omisión que constituye la forma extrema de violencia contra las mujeres producto de la violación de sus derechos humanos y que puede culminar en homicidio u otras formas de muerte violenta de mujeres.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+
+La violencia feminicida se sanciona de acuerdo con lo establecido en el artículo 148 Bis del Código Penal para el Distrito Federal.
 
 > <small>(ADICIONADA, G.O. 13 DE JULIO DE 2017)</small>
 
@@ -254,31 +286,63 @@ Las modalidades de la violencia contra las mujeres son:
 
 I. Violencia Familiar: Es aquella que puede ocurrir dentro o fuera del domicilio de la víctima, cometido por parte de la persona agresora con la que tenga o haya tenido parentesco por consanguinidad o por afinidad, derivada de concubinato, matrimonio, o sociedad de convivencia;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+
+La violencia familiar se sanciona de acuerdo con lo establecido en los artículos 181 Ter, fracción II, 193 y 200, del Código Penal para el Distrito Federal;
+
 > <small>(ADICIONADA, G.O. 11 DE JULIO DE 2017)</small>
 
 II. Violencia en el noviazgo: Es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir a las mujeres de cualquier edad, mediante la relación de uno o varios tipos de violencia, durante o después de una relación de noviazgo, una relación afectiva o de hecho o una relación sexual.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+
+La violencia en el noviazgo se sanciona de acuerdo con lo establecido en los artículos 131 y 148 Bis del Código Penal para el Distrito Federal;
+
 III. Violencia Laboral: Es aquella que ocurre cuando se presenta la negativa a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+
+La violencia laboral se sanciona de acuerdo con lo establecido en los artículos 131, 148 Bis, 179 y 181 Ter del Código Penal para el Distrito Federal. Así como, lo establecido en el artículo 994 de la Ley Federal del Trabajo;
 
 > <small>(ADICIONADA, G.O. 11 DE JULIO DE 2017)</small>
 
 IV. Violencia Escolar: Son todas aquellas conductas, acciones u omisiones, infligidas por el personal docente o administrativo o cualquier integrante de la comunidad educativa que daña la dignidad, salud, integridad, libertad y seguridad de las víctimas. La violencia escolar se manifiesta en todas aquellas conductas cometidas individual o colectivamente, en un proceso de interacción que se realiza y prolonga tanto al interior como al exterior de los planteles educativos o del horario escolar, y se expresa mediante la realización de uno o varios tipos de violencia contra las mujeres en cualquier etapa de su vida.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+
+La violencia escolar se sanciona de acuerdo con lo establecido en los artículos 131, 148 Bis y 178 del Código Penal para el Distrito Federal;
+
 V. Violencia Docente: Es aquella que puede ocurrir cuando se daña la autoestima de las alumnas o maestras con actos de discriminación por su sexo, edad, condición social, académica, limitaciones y/o características físicas, que les inflingen (sic) maestras o maestros;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+
+La violencia docente se sanciona de acuerdo con lo establecido en los artículos 131, 148 Bis, 179 y 181 Ter del Código Penal para el Distrito Federal;
+
 VI. Violencia en la Comunidad: Es aquella cometida de forma individual o colectiva, que atenta contra su seguridad e integridad personal y que puede ocurrir en el barrio, en los espacios públicos o de uso común, de libre tránsito o en inmuebles públicos propiciando su discriminación, marginación o exclusión social;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+
+La violencia en la comunidad se sanciona de acuerdo con lo establecido en los artículos 174 y 179 del Código Penal para el Distrito Federal. Así como, lo establecido en el artículo 161, fracción XVIII del reglamento de la Ley de Movilidad del Distrito Federal;
 
 > <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2020)</small>
 
 VII. Violencia Institucional: Son los actos u omisiones de las personas con calidad de servidor público que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia. El Gobierno de la Ciudad de México, se encuentra obligado a actuar con la debida diligencia para evitar que se inflija violencia contra las mujeres.
 
-> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
 
-VIII. Violencia mediática contra las mujeres: Aquella publicación o difusión de mensajes e imágenes estereotipados a través de cualquier medio de comunicación local, que de manera directa o indirecta promueva la explotación de mujeres o sus imágenes, injurie, difame, discrimine, deshonre, humille o atente contra la dignidad de las mujeres, como así también la utilización de mujeres, adolescentes y niñas en mensajes e imágenes pornográficas, legitimando la desigualdad de trato o construya patrones socioculturales reproductores de la desigualdad o generadores de violencia contra las mujeres.
+La violencia institucional se sanciona de acuerdo con lo establecido en los artículos 153, 178 fracción II, 179, 181 Quintus fracción IV, 206 fracción II y 206 Bis del Código Penal para el Distrito Federal;
+
+> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
+
+VIII. Violencia mediática contra las mujeres: Aquella publicación o difusión de mensajes e imágenes estereotipados a través de cualquier medio de comunicación público o privado, que de manera directa o indirecta promueva la explotación de niñas y mujeres adolescentes o adultas, o sus imágenes, injurie, difame, discrimine, deshonre, humille o atente contra la dignidad de las mujeres, fomente o exhiba mujeres violentadas, como así también la utilización de mujeres, adolescentes y niñas en mensajes e imágenes pornográficas, legitimando la desigualdad de trato o construya patrones socioculturales reproductores de la desigualdad o generadores de violencia contra las mujeres;
 
 > <small>(ADICIONADA, G.O. 17 DE JULIO DE 2017)</small>
 
 IX. Violencia Política en Razón de Género: Es toda acción u omisión ejercida en contra de una mujer, en el ámbito político o público, que tenga por objeto o resultado sesgar, condicionar, impedir, restringir, suspender, menoscabar, anular, obstaculizar, excluir o afectar el reconocimiento, acceso, goce o ejercicio de los derechos político electorales de una mujer, así como el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o función en el poder público.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+
+La violencia política en razón de género se sanciona de acuerdo con lo establecido en el Código de Instituciones y Procedimientos Electorales de la Ciudad de México y lo que se establece en el artículo 264 Bis del mismo en el Protocolo de Atención, Sanción y Erradicación de la Violencia Política en Razón de Género;
 
 Se manifiesta en presión, persecución, hostigamiento, acoso, coacción, vejación, discriminación, amenazas o privación de la libertad o de la vida en razón del género.
 
@@ -326,53 +390,81 @@ s) Cualquier otro que tenga por objeto o resultado coartar los derechos polític
 
 X. Violencia digital.- Es cualquier acto realizado mediante el uso de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales, plataformas de internet, correo electrónico, o cualquier medio tecnológico, por el que se obtenga, exponga, distribuya, difunda, exhiba, reproduzca, transmita, comercialice, oferte, intercambie y comparta imágenes, audios o videos reales o simulados de contenido sexual íntimo de una persona, sin su consentimiento; que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño psicológico, económico o sexual tanto en el ámbito privado como en el público, además de daño moral, tanto a ellas como a sus familias.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+
+La violencia digital se sanciona de acuerdo con lo establecido en el artículo 181 Quintus del Código Penal para el Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 10 DE JUNIO DE 2022)</small>
+
+Los conceptos, y sanciones anteriores se deben entender en términos del Código Penal, el Código de Instituciones y Procedimientos Electorales, la Ley de Movilidad, el Protocolo de Atención, Sanción y Erradicación de la Violencia Política en Razón de Género y demás Leyes aplicables y vigentes en la Ciudad de México.
+
 ## TITULO TERCERO. DE LA DECLARATORIA DE ALERTA Y MEDIDAS POR VIOLENCIA CONTRA LAS MUJERES
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 19 DE OCTUBRE DE 2020)</small>
 
 ### CAPÍTULO I. DE LA DECLARATORIA DE ALERTA DE VIOLENCIA CONTRA LAS MUJERES
 
-> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 8.
 
-La Secretaría de Gobierno, a petición de la Secretaría de las Mujeres y/o de las personas titulares de las Alcaldías, emitirá en un periodo máximo de diez días naturales, alerta de violencia contra las mujeres para enfrentar la violencia feminicida que se ejerce en su contra cuando:
+La Secretaría de Gobierno, a petición la Secretaría de las Mujeres y/o de las personas titulares de las Alcaldías, así como de organismos públicos autónomos de derechos humanos u organismos internacionales de protección de derechos humanos, o de las organizaciones de la sociedad civil legalmente constituidas, emitirá en un periodo máximo de diez días naturales la Declaratoria de Alerta de Violencia de Género contra las Mujeres para enfrentar la violencia feminicida que se ejerce en su contra cuando:
 
-I. Existan delitos graves y sistemáticos contra las mujeres;
+> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
+
+I. Existan hechos documentados que presuman la comisión de delitos graves y sistemáticos contra las mujeres;
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
 
 II. Existan elementos que presuman una inadecuada investigación y sanción de esos delitos; o
 
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
 
-III. Los organismos de derechos humanos a nivel nacional o la Ciudad de México, los organismos de la sociedad civil y/o los organismos internacionales, así lo soliciten a la Secretaría de las Mujeres de la Ciudad de México.
+III. Exista un agravio comparado que impida el ejercicio pleno de los derechos humanos de las mujeres.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 9.
 
-La alerta de violencia contra las mujeres tendrá como objetivo acordar e implementar las acciones de emergencia para garantizar el cese de la violencia feminicida y la seguridad de las mismas, y para ello deberá:
+La Declaratoria de Alerta de Violencia de Género contra las Mujeres tendrá como objetivo garantizar el cese de la violencia contra las mujeres, así como su seguridad e integridad física, emocional y patrimonial. Para ello, la Alerta de Violencia contra las Mujeres deberá:
 
-I. Establecer el grupo interinstitucional y multidisciplinario que dará seguimiento a las acciones;
+> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
 
-II. Acordar e implementar las acciones necesarias para enfrentar y abatir la violencia feminicida;
+I. Conformar un grupo interinstitucional, multidisciplinario y con perspectiva de género que dé seguimiento a las acciones de la Declaratoria de Alerta de Violencia de Género contra las Mujeres;
+
+> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
+
+II. Acordar e implementar las acciones preventivas, de seguridad y justicia, necesarias para garantizar el cese de violencia contra las mujeres;
 
 III. Asignar recursos presupuestales necesarios para hacer frente a la alerta de violencia contra las mujeres, y
 
-IV. Hacer del conocimiento público el motivo de la alerta de violencia contra las mujeres y la zona territorial que abarcan las medidas a implementar.
+> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
+
+IV. Hacer del conocimiento público el motivo de la Declaratoria de Alerta de Violencia de Género contra las Mujeres y la zona territorial que abarcan las medidas a implementar.
 
 ### CAPÍTULO II. DE LAS MEDIDAS EN LOS CASOS DE VIOLENCIA FEMINICIDA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 10.
 
-Ante la alerta de violencia, el Gobierno de la Ciudad de México deberá tomar las siguientes medidas:
+Ante la Declaratoria de Alerta de Violencia de Género contra las Mujeres, el Gobierno de la Ciudad de México deberá tomar las siguientes medidas:
 
-I. Rehabilitar a las mujeres víctimas de violencia a través de la prestación de servicios médicos y psicológicos especializados y gratuitos para su recuperación y de las víctimas indirectas;
+> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+I. Apoyar de forma inmediata a las mujeres víctimas de violencia y sus hijas e hijos a través de servicios especializados y con perspectiva de género tanto médicos, como psicológicos, y legales. Estos servicios serán gratuitos;
 
-II. Reparación del daño a través de la investigación y sanción de los actos de autoridades omisas o negligentes, que propiciaron la violación de los derechos humanos de las víctimas a la impunidad; y el diseño e instrumentación de políticas públicas que eviten la comisión de nuevos delitos contra las mujeres, así como la verificación de los hechos y la publicidad de la verdad; y
+> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
 
-III. Todas aquellas que se consideren necesarias para atender, erradicar y sancionar la violencia contra las mujeres
+II. Reparación integral del daño a las mujeres víctimas de violencia, sus hijas e hijos o víctimas indirectas, garantizar su seguridad a través de medidas de protección y el seguimiento del cumplimiento de estas; y, la investigación y sanción de los actos de autoridades omisas o negligentes, que pudieron haber propiciado casos de impunidad o violaciones a los derechos humanos de las mujeres víctimas de violencia;
+
+> <small>(ADICIONADA, G.O. 10 DE JUNIO DE 2022)</small>
+
+II Bis. Diseñar e instrumentar políticas públicas específicas e integrales para prevenir la comisión de nuevos delitos contra las mujeres, así como para la verificación de los hechos y la publicidad de la verdad; y
+
+> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
+
+III. Todas aquellas que se consideren necesarias para atender, erradicar y sancionar la violencia contra las mujeres, atendiendo las observaciones y recomendaciones del grupo interinstitucional multidisciplinario que se conforme para atender la declaratoria de la Alerta de Violencia de Género contra Mujeres.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 19 DE OCTUBRE DE 2020)</small>
 
@@ -398,11 +490,15 @@ Asimismo, diseñará un Plan Anual de Trabajo que contenga las acciones en mater
 
 ### CAPÍTULO II. DE LA PREVENCIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 13.
 
-La prevención es el conjunto de acciones que deberán llevar a cabo las dependencias, entidades de la Ciudad de México y las Alcaldías para evitar la comisión de delitos y otros actos de violencia contra las mujeres, atendiendo a los posibles factores de riesgo tanto en los ámbitos público y privado.
+La prevención es el conjunto de acciones que deberán llevar a cabo las dependencias, entidades de la Ciudad de México y las Alcaldías, conjuntamente con la población, la iniciativa privada, la sociedad civil organizada y los medios de comunicación, para evitar la comisión de delitos y otros actos de violencia contra las mujeres, atendiendo a los posibles factores de riesgo tanto en los ámbitos público y privado.
+
+> <small>(ADICIONADO, G.O. 10 DE JUNIO DE 2022)</small>
+
+Las dependencias, entidades de la Ciudad de México y las Alcaldías difundirán, promoverán y fomentarán la participación de la población, la iniciativa privada, la sociedad civil organizada y los medios de comunicación, en el conjunto de acciones que se lleve a cabo en materia de prevención.
 
 La prevención comprende medidas generales y especiales, entre las que deberán privilegiarse las de carácter no penal.
 
@@ -446,7 +542,9 @@ I. Capacitar y especializar a su personal en materia de derechos humanos de las 
 
 II. Difundir las campañas informativas sobre los tipos y modalidades de la violencia contra las mujeres, así como de las instituciones que atienden a las víctimas;
 
-Toda campaña publicitaria deberá estar libre de estereotipos y de lenguaje sexista o misógino.
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
+
+Toda campaña publicitaria deberá ser incluyente, estar libre de estereotipos y de lenguaje sexista o misógino.
 
 III. Promover y ejecutar acciones para que las condiciones laborales se desarrollen con igualdad de oportunidades, de trato y no discriminación en el acceso al empleo, la capacitación, el ascenso y la permanencia de las mujeres;
 
@@ -584,7 +682,13 @@ IX. Diseñar e instrumentar programas no formales de educación comunitaria para
 
 X. Realizar estudios estadísticos e investigaciones para conocer y analizar el impacto de la violencia contra las mujeres en la deserción escolar, su desempeño, así como en el desarrollo integral de todas sus potencialidades;
 
-XI. Coordinar acciones con las asociaciones de madres y padres de familia y vecinales con el objeto de fomentar su participación en los programas de prevención que establece esta ley; y
+> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2022)</small>
+
+XI. Coordinar acciones con las asociaciones de madres y padres de familia y vecinales con el objeto de fomentar su participación en los programas de prevención que establece esta ley;
+
+> <small>(ADICIONADA, G.O. 10 DE JUNIO DE 2022)</small>
+
+XI Bis. Coordinar acciones con personas titulares de direcciones y rectorías de escuelas públicas y privadas de nivel básico, medio superior y superior, para establecer mecanismos de aplicación y seguimiento de las disposiciones anteriores para garantizar su cumplimiento; y
 
 XII. Las demás que le señalen las disposiciones legales.
 
@@ -1070,6 +1174,10 @@ El Reglamento de la presente Ley establecerá el funcionamiento de la Comisión 
 
 Las Casas de Emergencia son estancias especialmente acondicionadas para recibir a las mujeres víctimas de violencia y a las víctimas indirectas, que operan las 24 horas del día y los 365 días del año.
 
+> <small>(ADICIONADO, G.O. 10 DE JUNIO DE 2022)</small>
+
+Cada una de las 16 Alcaldías de la Ciudad de México deberá contar, por lo menos, con una Casa de Emergencia, que opere bajo los protocolos y modelos de atención aprobados por la Secretaría de las Mujeres.
+
 Podrá ingresar a las Casas de Emergencia, cualquier mujer, sin importar su condición; así como sus hijas e hijos de cualquier edad, o cualquier persona que dependa de ella. El período de estancia no será mayor de tres días, previa canalización a un albergue, de ser necesario.
 
 > <small>(ADICIONADO, G.O. 26 DE FEBRERO DE 2021)</small>
@@ -1504,27 +1612,25 @@ XV. La interrupción, bloqueo, destrucción o eliminación de imágenes, audios,
 
 XVI. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, vida, libertad y seguridad de la mujer y las víctimas indirectas en situación de violencia.
 
-> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 64.
 
-Una vez que la Jueza o el Juez de Control reciba la solicitud bajo su más estricta responsabilidad, ordenará fundada y motivadamente, en un plazo que no exceda de 6 horas, cualquiera de las medidas u órdenes de protección mencionadas en esta Ley, debiendo tomar en cuenta, en su caso, el interés superior de la niñez.
+La autoridad competente que reciba la solicitud bajo su más estricta responsabilidad, ordenará fundada y motivadamente, de manera inmediata y a más tardar en un plazo que no exceda de 4 horas, a partir del conocimiento de los hechos, cualquiera de las medidas u órdenes de protección mencionadas en esta Ley, debiendo tomar en cuenta, en su caso, el interés superior de la niñez.
 
-> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 65.
 
-En materia penal, las o los Agentes del Ministerio Público o las Juezas o Jueces de Control emitirán la medida u orden de protección en un plazo que no exceda de doce horas a partir de que tengan conocimiento del evento de violencia.
-
 Dentro de los cinco días siguientes a la imposición de las medidas de protección previstas en las fracciones I, II y III del artículo 63 de esta Ley, deberá celebrarse una audiencia en la que el órgano jurisdiccional correspondiente podrá ratificarlas, ampliarlas o cancelarlas, en este último caso siempre y cuando se encuentre documentado que el riesgo ha cesado.
 
-En caso de que la persona agresora incumpla cualquier medida de protección, con independencia de la posible responsabilidad penal del sujeto activo, reforzarán las acciones que se contemplaron en un primer momento con la finalidad de salvaguardar la vida y seguridad de las víctimas directas o indirectas.
+En caso de que la persona agresora incumpla cualquier medida de protección, con independencia de la responsabilidad penal del sujeto activo, se reforzarán las acciones que se contemplaron en un primer momento con la finalidad de salvaguardar la vida y seguridad de las víctimas directas o indirectas.
 
-> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 66.
 
-Las medidas de protección tendrán una duración máxima de sesenta días, prorrogables hasta por treinta días y en caso de no cesar la violencia, las medidas de protección se mantendrán vigentes con una revisión trimestral que justifique su permanencia, para salvaguardar la vida, integridad, libertad y seguridad de las mujeres y niñas en situación de violencia, así como de las víctimas indirectas en situación de riesgo.
+Las medidas de protección serán permanentes en tanto el riesgo persista, se mantendrán vigentes con una revisión trimestral que justifique su permanencia, para salvaguardar la vida, integridad, libertad y seguridad de las mujeres y niñas en situación de violencia, así como de las víctimas indirectas en situación de riesgo.
 
 > <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
 
@@ -1556,11 +1662,21 @@ En todos los casos, al finalizar la diligencia de ejecución de las medidas u ó
 
 Las medidas u órdenes de protección podrán ser solicitadas por la víctima o cualquier persona, que tenga conocimiento del riesgo en que se encuentra la integridad física o psicológica, la libertad o seguridad de la víctima y víctimas indirectas.
 
-> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
+> <small>(ADICIONADO, G.O. 10 DE JUNIO DE 2022)</small>
+
+###### Artículo 69 Bis.
+
+Las medidas u órdenes de protección, cuando se trate de casos urgentes, se atenderán de acuerdo con lo previsto en los artículos 23 y 24 del Código Nacional de Procedimientos Penales.
+
+Las autoridades competentes podrán realizar los actos administrativos y jurídicos necesarios para garantizar la efectiva protección de las mujeres y las niñas conforme a los principios establecidos en el artículo 62 Bis de esta Ley.
+
+Durante los primeros tres días posteriores a la implementación de las medidas u órdenes, la autoridad que la emitió mantendrá contacto directo con la víctima cada 24 horas. A partir del sexto día, se establecerá el plan de seguimiento personalizado; de acuerdo con las circunstancias, la valoración del riesgo y el avance en la carpeta de investigación.
+
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
 
 ###### Artículo 70.
 
-Las órdenes de protección de naturaleza civil tienen como propósito salvaguardar el patrimonio de la víctima o víctimas indirectas y podrán ser dictadas por la jueza o el juez de lo familiar o de lo civil, según corresponda dentro de las seis horas siguientes a la solicitud y tendrán una temporalidad máxima de sesenta días, prorrogables hasta por treinta días, contados a partir de la notificación a la persona agresora, debiendo implementar las medidas que garanticen la integridad y seguridad de las mujeres y sus hijas e hijos de forma inmediata.
+Las órdenes de protección de naturaleza civil tienen como propósito salvaguardar el patrimonio de la víctima o víctimas indirectas y podrán ser dictadas por la jueza o el juez de lo familiar o de lo civil, según corresponda dentro del término previsto en el artículo 64 de esta ley y serán permanentes en tanto el riesgo persista, con efecto inmediato y sin vincularse a la notificación correspondiente a la persona agresora, debiendo implementar todas las medidas que garanticen la integridad y seguridad de las mujeres y sus hijas e hijos.
 
 ###### Artículo 71.
 
@@ -1979,3 +2095,13 @@ G.O. 23 DE MARZO DE 2022.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN FRACCIONES I, II, III, IV, V, VI, VII Y VIII DEL ARTÍCULO 6, LAS FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX Y X DEL ARTÍCULO 7, EL PRIMER PÁRRAFO Y LAS FRACCIONES I Y III DEL ARTÍCULO 8, EL PRIMER PÁRRAFO Y LAS FRACCIONES I, II Y IV DEL ARTÍCULO 9, EL PRIMER PÁRRAFO Y LAS FRACCIONES I, II Y III DEL ARTÍCULO 10, EL PRIMER PÁRRAFO DEL ARTÍCULO 13, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN II DEL ARTÍCULO 15, LA FRACCIÓN XII DEL ARTÍCULO 19, EL PRIMER PÁRRAFO DEL ARTÍCULO 64, EL ARTÍCULO 65, 66 Y 70; Y SE ADICIONA UN PARRAFO SEGUNDO AL ARTICULO 7; UNA FRACCIÓN II BIS AL ARTÍCULO 10, UN SEGUNDO PÁRRAFO AL ARTÍCULO 13 RECORRIÉNDOSE LOS SUBSECUENTES, UNA FRACCIÓN XI BIS AL ARTÍCULO 19, UN SEGUNDO PÁRRAFO AL ARTÍCULO 49 RECORRIÉNDOSE LOS SUBSECUENTES Y SE ADICIONA UN ARTÍCULO 69 BIS, TODOS DE LA DE LA (SIC) LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. A efecto de dar cumplimiento a lo dispuesto en el presente decreto, la persona titular de la Jefatura de Gobierno contará con un plazo de 60 días hábiles a partir de su entrada en vigor, para armonizar el contenido del Reglamento de la presente Ley.
