@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-agua-potable-y-saneamiento-para-el-estado-de-nuevo-11020
 country: "mx"
 rank: "ley"
 publication_date: "1997-10-03"
-last_updated: "2020-12-30"
+last_updated: "2022-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE AGUA POTABLE Y SANEAMIENTO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de octubre de 1997.
 
@@ -259,9 +259,9 @@ II. El Secretario General de Gobierno.
 
 III. El Secretario de Finanzas y Tesorero General del Estado.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-IV. El Secretario de Obras Públicas.
+IV. El Secretario de Movilidad y Planeación Urbana.
 
 V. Los Presidentes Municipales de los cincuenta y un Municipios del estado.
 
@@ -824,3 +824,9 @@ P.O. 30 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 162. SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 19 DE LA LEY DE AGUA POTABLE Y SANEAMIENTO PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
