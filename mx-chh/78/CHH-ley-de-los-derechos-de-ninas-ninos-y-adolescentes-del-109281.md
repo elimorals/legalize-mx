@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2022-05-04"
+last_updated: "2022-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2022.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -1549,6 +1549,10 @@ XXVI (SIC). Realizar campañas permanentes de concientización, con el fin de pr
 
 XXVII. Promover la implementación de programas de prevención social de violencia y delincuencia orientados a niñas, niños y adolescentes, que contengan temas de nutrición, rendimiento académico, capacitación para el trabajo, actividades físicas y lúdico-formativas; con el propósito de fomentarles un desarrollo integral.
 
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2022)</small>
+
+XXVIII. Promover, en conjunto con organismos especializados, programas que contengan estrategias de intervención para atender educativamente a la población infanto-adolescente desescolarizada y de alta vulnerabilidad socioeducativa, así como poner en marcha procesos pedagógicos que permitan a esta población nivelar y certificar estudios.
+
 ###### Artículo 124.
 
 Las autoridades estatales y municipales celebrarán acuerdos de colaboración con las instancias del orden federal, que permitan garantizar que el ingreso, permanencia y salida de niñas, niños y adolescentes del territorio nacional, sea conforme a las disposiciones legales cuando tales situaciones tengan impacto en el territorio de la Entidad.
@@ -2660,3 +2664,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Siguiendo los procedimientos que resulten aplicables, en su caso, háganse las previsiones presupuestales a que hubiere lugar, necesarias o pertinentes para el cumplimiento del presente Decreto.
+
+P.O. 11 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFLEY/0213/2022 II P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ESTATAL DE EDUCACIÓN, A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y A LA LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
