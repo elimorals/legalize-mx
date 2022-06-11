@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-juventud-para-el-estado-de-chihuahua-131057"
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-20"
-last_updated: "2018-12-12"
+last_updated: "2022-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131057&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2022.
 
 Ley publicada en el Anexo al Periódico Oficial, del Estado de Chihuahua, el sábado 20 de octubre de 2018.
 
@@ -160,6 +160,10 @@ El Ejecutivo y los Ayuntamientos garantizarán una educación de tipo básica y 
 Asimismo, impulsarán estrategias para estimular su acceso a la educación superior, estableciendo campañas de difusión permanente sobre los programas de financiamiento, crédito y apoyo educativos.
 
 Implementarán programas de financiamiento, créditos y apoyos educativos de manera específica para evitar que los jóvenes trunquen sus estudios por cuestiones de vulnerabilidad social, y para atender esta situación que les permita continuar sus estudios de manera regular.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2022)</small>
+
+Adicional a esto, promoverán y/o crearán, en conjunto con los organismos pertinentes, programas que contengan estrategias de intervención para atender educativamente a la población joven desescolarizada y de alta vulnerabilidad socioeducativa, así como poner en marcha dichos procesos.
 
 ###### Artículo 21.
 
@@ -918,3 +922,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones contrarias al presente Decreto.
+
+P.O. 11 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0213/2022 II P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ESTATAL DE EDUCACIÓN, A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y A LA LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
