@@ -4,7 +4,7 @@ identifier: "COL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1149
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-30"
-last_updated: "2021-09-04"
+last_updated: "2022-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2022.
 
 Ley publicada en la Edición Especial Extraordinaria del Periódico Oficial del Estado de Colima, el lunes 30 de mayo de 2016.
 
@@ -1655,9 +1655,11 @@ VII. No ser ministro de culto religioso;
 
 VIII. No haber sido condenado por delito doloso;
 
-IX. No haber ocupado un cargo directivo en un partido o asociación política, ni haber participado como candidato a algún cargo de elección popular, durante al menos dos años previos a la fecha de la convocatoria, y
+IX. (DEROGADA, P.O. 11 DE JUNIO DE 2022)
 
-X. No haber sido Gobernador, Diputado, Alcalde, Síndico, Regidor, Magistrado del Supremo Tribunal de Justicia del Estado, del Tribunal Electoral del Estado, del Tribunal de Arbitraje y Escalafón, ni del Tribunal Contencioso Administrativo, dentro de los tres años anteriores a la fecha de emisión de la convocatoria.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2022)</small>
+
+X. No haber sido Gobernador, Diputado Federal o Local, Senador, Alcalde, Regidor, Síndico, Fiscal General del Estado, dentro de un año anterior a la fecha de emisión de la convocatoria.
 
 ###### Artículo 80.
 
@@ -3014,3 +3016,9 @@ SEGUNDO.- Los Ayuntamientos deberán evaluar y revisar sus planes o programas de
 TERCERO.- Dentro de un plazo no mayor a 30 días naturales, los ayuntamientos deberán incluir en su portal de transparencia los planes o programas de desarrollo urbano, ordenamiento territorial y ecológico, así como los tipos y usos de suelo que se encuentren vigentes.
 
 CUARTO.- El Instituto de Pensiones de los Servidores Públicos del Estado de Colima dentro de un plazo no mayor a 10 días hábiles contados a partir de la entrada en vigor del presente decreto deberá realizar las acciones necesarias para cabal cumplimiento a lo dispuesto en el presente decreto.
+
+P.O. 11 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 105.- POR EL QUE SE DEROGA LA FRACCIÓN IX Y SE REFORMA LA FRACCIÓN X, AMBAS DEL ARTÍCULO 79 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
