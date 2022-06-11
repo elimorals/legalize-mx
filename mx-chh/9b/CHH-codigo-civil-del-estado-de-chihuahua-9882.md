@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2021-10-23"
+last_updated: "2022-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2022.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1623,7 +1623,9 @@ En aquellos casos en los que la custodia de los acreedores alimentarios se encue
 
 297.- Cesa la obligación de dar alimentos:
 
-I.- Cuando el que la tiene carece de medios para cumplirla;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2022)</small>
+
+I.- Cuando quien la tenga se encuentre imposibilitada para cumplirla, mientras subsista la causa.
 
 II.- Cuando el alimentista deja de necesitar los alimentos;
 
@@ -13336,3 +13338,11 @@ P.O. 23 DE OCTUBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFCOD/1067/2021 XIV P.E., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA Y DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFCOD/0246/2022 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 297, FRACCIÓN I, DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
