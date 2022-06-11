@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2022-05-04"
+last_updated: "2022-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2022.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -244,6 +244,10 @@ XXII. Promover la formación de personas especializadas en resolución de confli
 > <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2016)</small>
 
 XXIII. Fomentar actitudes solidarias y positivas hacia el trabajo, el ahorro y el bienestar general.
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2022)</small>
+
+XXIV. Promover, en conjunto con organismos especializados, programas que contengan estrategias de intervención para atender educativamente a la población infanto-adolescente desescolarizada y de alta vulnerabilidad socioeducativa, así como poner en marcha procesos pedagógicos que permitan a esta población nivelar y certificar estudios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2014)</small>
 
@@ -1345,9 +1349,9 @@ III. La autoridad educativa estatal impartirá cursos de capacitación y actuali
 
 IV. La autoridad educativa estatal impartirá cursos de capacitación a los docentes de educación básica regular para favorecer la integración educativa y la construcción de una escuela incluyente, a través de las Instituciones formadoras de Profesionales de la Educación y/o la Unidad Estatal de Formación Continua para Maestros de Educación Básica.
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
-V. La Autoridad Educativa Estatal, en coordinación con las Instituciones Formadoras de Profesionales de la Educación de la Entidad, ofrecerá formación inicial y el desarrollo profesional para los docentes que la educación especial requiera para atender sus necesidades correspondientes.
+V. La Secretaría de Educación y Deporte, en coordinación con la Comisión Estatal de los Derechos Humanos, implementará programas de capacitación y certificación a los docentes de la educación inicial, básica y media superior en materia de derechos humanos de niñas, niños y adolescentes con discapacidad, que deberán evaluarse con una periodicidad anual para fortalecer las competencias entre los trabajadores de la educación.
 
 > <small>(REFORMADA, P.O. 14 DE ABRIL DE 2018)</small>
 
@@ -4492,6 +4496,14 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 P.O. 4 DE MAYO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0210/2022 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE EDUCACIÓN Y LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/2013/2022 II P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ESTATAL DE EDUCACIÓN, A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y A LA LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
