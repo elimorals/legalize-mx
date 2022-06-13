@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-planeacion-del-estado-de-nayarit-136930"
 country: "mx"
 rank: "ley"
 publication_date: "2019-05-29"
-last_updated: "2020-10-15"
+last_updated: "2022-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PLANEACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
 
 Ley publicada en la Sección Cuarta al Número 104 del Periódico Oficial del Estado de Nayarit, el miércoles 29 de mayo de 2019.
 
@@ -85,9 +85,17 @@ VII. Programa de Gobierno: es el instrumento de planeación estatal o municipal 
 
 VIII. Secretaría: La Secretaría de Desarrollo Sustentable;
 
-IX. SIGEE: Sistema de Geografía, Estadística y Evaluación del Estado de Nayarit, y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
 
-X. Sistema de Planeación: El Sistema Estatal de Planeación.
+IX. SIGEE: Sistema de Geografía, Estadística y Evaluación del Estado de Nayarit;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
+
+X. Sistema de Planeación: El Sistema Estatal de Planeación, y
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2022)</small>
+
+XI. Agenda Digital: La prevista en la Ley de Gobierno Digital para el Estado de Nayarit.
 
 ###### Artículo 3.
 
@@ -251,7 +259,9 @@ XIII. Coordinar con las Dependencias, Entidades y Ayuntamientos, la realización
 
 XIV. Coordinar la formulación y vigilar el cumplimiento de los Instrumentos de Planeación, coadyuvando al efecto con las instancias de planeación municipales;
 
-XV. Asegurar la congruencia entre la planeación del desarrollo del Estado con las políticas nacionales e internacionales de desarrollo y entre estas con la estructura de la administración pública centralizada y paraestatal;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
+
+XV. Asegurar la congruencia entre la planeación del desarrollo del Estado con la Agenda Digital, las políticas nacionales e internacionales de desarrollo y entre estas con la estructura de la administración pública centralizada y paraestatal;
 
 XVI. Apoyar a los Ayuntamientos, a solicitud de estos, en la formulación, capacitación, instrumentación, control y evaluación de sus instrumentos de planeación, de forma coordinada o subsidiaría a los Institutos Municipales;
 
@@ -263,9 +273,17 @@ XIX. Evaluar los resultados del proceso de planeación y del ejercicio presupues
 
 XX. Promover en forma permanente actividades de investigación y capacitación para fortalecer el diseño y la eficacia de la planeación;
 
-XXI. Analizar y proponer al Gobernador del Estado los proyectos de Leyes, Decretos, Reglamentos, Convenios y demás disposiciones o instrumentos legales relativos a la planeación estatal, así como a la promoción del desarrollo integral del Estado, y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
 
-XXII. Las demás que le otorgue la Junta de Gobierno, las Leyes, los Reglamentos y demás disposiciones aplicables.
+XXI. Analizar y proponer al Gobernador del Estado los proyectos de Leyes, Decretos, Reglamentos, Convenios y demás disposiciones o instrumentos legales relativos a la planeación estatal, así como a la promoción del desarrollo integral del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JUNIO DE 2022)</small>
+
+XXII. Participar en la elaboración de la Agenda Digital, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE JUNIO DE 2022)</small>
+
+XXIII. Las demás que le otorgue la Junta de Gobierno, las Leyes, los Reglamentos y demás disposiciones aplicables.
 
 ###### Artículo 16.
 
@@ -635,9 +653,17 @@ II. Sistema Municipal de Planeación del Desarrollo Urbano y el Ordenamiento Eco
 
 III. Programa de Gobierno con vigencia equivalente al periodo de gobierno de la administración municipal;
 
-IV. Programas de inversión derivados, parciales, sectoriales, especiales o institucionales, y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
 
-V. Programas presupuestarios anuales.
+IV. Programas de inversión derivados, parciales, sectoriales, especiales o Institucionales;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
+
+V. Programas presupuestarios anuales, y
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2022)</small>
+
+VI. La Agenda Digital Municipal.
 
 ###### Artículo 46.
 
@@ -850,3 +876,11 @@ P.O. 15 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 48 DE LA LEY DE PLANEACIÓN DEL ESTADO DE NAYARIT”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado del Nayarit.
+
+P.O. 13 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE GOBIERNO DIGITAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se establece un periodo de dieciocho meses, contados a partir de la entrada en vigor del presente Decreto, para que se implementen de ser el caso, las medidas técnicas, administrativas, operativas, así como los ajustes presupuestales necesarios para la debida implementación de las políticas y acciones establecidas en el presente Decreto.
