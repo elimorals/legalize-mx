@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2022-05-25"
+last_updated: "2022-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -215,9 +215,13 @@ Corresponde originariamente a los titulares de las dependencias y entidades el t
 
 Los acuerdos por los cuales se adscriban unidades administrativas o se deleguen facultades deberán publicarse en el Periódico Oficial Órgano del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2022)</small>
+
 ###### Artículo 22.
 
-Los titulares de las dependencias y entidades serán responsables de los asuntos atribuidos a sus respectivos despachos y llevarán, conforme a las directrices de la organización del Poder Ejecutivo, las funciones relativas a la planeación, programación, presupuesto, informática, estadística, organización, métodos, recursos humanos, materiales, financieros, archivos y contabilidad gubernamental, en términos de lo que disponga la legislación correspondiente.
+Los titulares de las dependencias y entidades deberán conducir sus actividades en forma programada y con base en las políticas, prioridades y restricciones que establezca el Gobierno del Estado, para el logro de los objetivos y metas del Plan de Gobierno.
+
+Promoverán y verificarán que sus planes, programas y acciones, sean realizados con perspectiva de género, y realizarán la implementación de un programa permanente, coordinado y continuo de Mejora Regulatoria, conforme a las reglas que establece la ley de la materia.
 
 ###### Artículo 23.
 
@@ -765,13 +769,25 @@ LXXXVI.- Inscribir y transparentar la totalidad de los Financiamientos y Obligac
 
 LXXXVII.- Publicar la información financiera de la Administración Pública Estatal, Centralizada y Paraestatal, de acuerdo con las disposiciones de la Ley General de Contabilidad Gubernamental y las normas expedidas por el Consejo Nacional de Armonización Contable. Para tal efecto, deberán presentar la opinión de la Auditoría Superior del Estado, en la que se manifieste el cumplimiento de dicha publicación;
 
-> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
 
-LXXXVIII.- Entregar la información financiera que solicite la Secretaría de Hacienda y Crédito Público del Gobierno Federal, en los términos de las disposiciones que para tal efecto emita, y
+LXXXVIII.- Entregar la información financiera que solicite la Secretaría de Hacienda y Crédito Público del Gobierno Federal, en los términos de las disposiciones que para tal efecto emita;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JUNIO DE 2022)</small>
 
-LXXXIX.- Las demás que le atribuyan las leyes, reglamentos, convenios y las que le delegue el Gobernador del Estado.
+LXXXIX. Implementar, desarrollar y fomentar la política de Gobierno Digital y el uso estratégico de tecnologías de la información y comunicación en el ejercicio de la gestión pública dentro del Estado en coordinación con la Secretaría para la Honestidad y Buena Gobernanza;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2022)</small>
+
+XC. Emitir lineamientos técnicos en materia de Gobierno Digital conforme a lo establecido en los ordenamientos jurídicos aplicables;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2022)</small>
+
+XCI. Implementar y administrar el Sistema Estatal de Información, Trámites y Servicios para la Ventanilla Única en coordinación con el Consejo Estatal de Gobierno Digital, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE JUNIO DE 2022)</small>
+
+XCII. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le delegue el Gobernador del Estado.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
 
@@ -1755,13 +1771,13 @@ LVII. Fomentar el desarrollo del comercio rural y urbano en coordinación con la
 
 LVIII. Promover y consolidar los principios y bases para la implementación de mecanismos de mejora regulatoria y en términos de lo dispuesto por la legislación aplicable;
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
 
-LIX. Promover la calidad en la prestación de los servicios a la población incluyendo su mejora regulatoria y simplificación que represente menores costos, requisitos y tiempos para los usuarios de los mismos, en términos de la Ley de la materia;
+LIX. Promover, formular, instrumentar, ejecutar, dar seguimiento y evaluar las políticas, lineamientos, acciones y programas en materia de Mejora Regulatoria, así como priorizar la calidad en la prestación de los servicios a la población que represente menores costos, requisitos y tiempos para los usuarios de los mismos, en términos de la Ley de la materia;
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
 
-LX. Promover la simplificación del marco regulatorio local para facilitar e impulsar la actividad empresarial acorde a lo dispuesto por la Ley de la materia, y
+LX. Desarrollar e implementar políticas que vayan encaminadas al uso estratégico de las tecnologías de la información y comunicación que impulsen el desarrollo económico del Estado, así como la generación de nuevas empresas y empleos que fomenten la competitividad dentro de las regiones del Estado, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
 
@@ -2904,3 +2920,13 @@ P.O. 25 DE MAYO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. Dentro del plazo de 30 días hábiles contados a partir de la entrada en vigor del presente Decreto, el Despacho del Ejecutivo y la Secretaría de Administración y Finanzas deberán realizar las adecuaciones tanto administrativas como presupuestales para la integración y funcionamiento de la Coordinación General de Asesores y Políticas Públicas del Despacho del Ejecutivo y la Coordinación General Jurídica del Gobernador.
+
+P.O. 13 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT, EN MATERIA DE GOBIERNO DIGITAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. En relación a la implementación de las políticas de gobierno digital en el Estado, una vez emitido el Reglamento de la Ley de Gobierno Digital para el Estado de Nayarit, se tendrá un plazo de noventa días naturales para emitir los lineamientos técnicos a los que hace referencia el presente Decreto.
+
+TERCERO. Se establece un periodo de dieciocho meses, contados a partir de la entrada en vigor del presente, para que se implementen de ser el caso, las medidas técnicas, administrativas, operativas, así como los ajustes presupuestales necesarios para la debida implementación, desarrollo y fomento de las políticas de Gobierno Digital; así como la implementación del Sistema Estatal de Información, Trámites y Servicios para la Ventanilla Única.
