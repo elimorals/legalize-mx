@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-anticorrupcion-de-aguascalientes-121265
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-08"
-last_updated: "2018-05-14"
+last_updated: "2022-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de mayo de 2017.
 
@@ -873,9 +873,9 @@ La Fiscalía Especializada en Combate a la Corrupción contará con las siguient
 
 I.- Participar como integrante en el Comité Coordinador, atendiendo las bases establecidas en la Constitución Política del Estado de Aguascalientes y en la presente Ley;
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
 
-II.- Conocer y dar trámite a las denuncias que presente tanto el Órgano Superior de Fiscalización, como la Contraloría del Estado y los órganos de control interno de los entes públicos, cuando detecten alguna irregularidad provocada por hechos de corrupción de acuerdo a la normatividad;
+II.- Conocer y dar trámite a las denuncias que presente el Órgano Superior de Fiscalización, la Contraloría del Estado, los órganos de control interno de los entes públicos o los particulares, cuando detecten alguna irregularidad provocada por hechos de corrupción de acuerdo a la normatividad;
 
 III.- Nombrar, previo acuerdo con el Fiscal General del Estado, al personal capacitado para el debido cumplimiento de sus funciones, conforme a lo previsto en el Presupuesto de Egresos correspondiente;
 
@@ -1012,3 +1012,11 @@ P.O. 14 DE MAYO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 137.- SE REFORMA EL ARTÍCULO 64 FRACCIÓN II DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
