@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1170
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-07"
-last_updated: "2022-03-28"
+last_updated: "2022-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de noviembre de 2016.
 
@@ -803,7 +803,9 @@ c) El monto de los honorarios; y
 
 d) El periodo de contratación;
 
-XII. La Información en Versión Pública de las declaraciones patrimoniales y fiscales de los Servidores Públicos que así lo determinen, en los sistemas habilitados para ello, de acuerdo a la normatividad aplicable, además de sus respectivas declaraciones de no conflicto de intereses;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
+
+XII. Las declaraciones patrimoniales y de intereses de los Servidores Públicos, conforme a lo previsto en el Artículo 29 de la Ley General de Responsabilidades Administrativas;
 
 XIII. El domicilio de la Unidad de Transparencia, además de la dirección electrónica donde podrán recibirse las solicitudes para obtener la Información;
 
@@ -1884,3 +1886,11 @@ P.O. 28 DE MARZO DE 2022.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciara su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 138.- SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 55 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
