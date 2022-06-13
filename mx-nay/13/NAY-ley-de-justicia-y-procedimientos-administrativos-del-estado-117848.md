@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-justicia-y-procedimientos-administrativos-del-estado-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-21"
-last_updated: "2021-07-26"
+last_updated: "2022-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
 
 Ley publicada en la Sección Segunda Número: 121 del Periódico Oficial Órgano del Gobierno del Estado de Nayarit, el miércoles 21 de diciembre de 2016.
 
@@ -71,9 +71,17 @@ V. Se cuidará que alcancen sus finalidades y efectos legales;
 
 VI. Las actuaciones serán públicas, salvo que la moral o el interés general exijan que sean secretas;
 
-VII. Serán gratuitos, sin que pueda condenarse al pago de gastos y costas, y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
 
-VIII. Las autoridades administrativas, el Tribunal y las partes interesadas se conducirán, en las promociones y actuaciones, con honradez, transparencia y respeto.
+VII. Serán gratuitos, sin que pueda condenarse al pago de gastos y costas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JUNIO DE 2022)</small>
+
+VIII. Se procurará impulsar y aplicar programas de Mejora Regulatoria y Gobierno Digital, en los términos de la Ley de la materia, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE JUNIO DE 2022)</small>
+
+IX. Las autoridades administrativas, el Tribunal y las partes interesadas se conducirán, en las promociones y actuaciones, con honradez, transparencia y respeto.
 
 ###### ARTÍCULO 4.
 
@@ -668,6 +676,14 @@ P.O. 26 DE JULIO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. Dentro de los 90 días naturales posteriores a la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones reglamentarias pertinentes para proveer su eficaz cumplimiento.
+
+P.O. 13 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 3 DE LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, EN MATERIA DE GOBIERNO DIGITAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se establece un periodo de dieciocho meses, contados a partir de la entrada en vigor del presente Decreto, para que se implementen de ser el caso, las medidas técnicas, administrativas, operativas, así como los ajustes presupuestales necesarios para la debida implementación de las políticas y acciones establecidas en el presente Decreto.
 
 ###### ARTÍCULO 55.
 
