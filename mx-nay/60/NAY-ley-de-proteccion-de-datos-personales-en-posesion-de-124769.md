@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-proteccion-de-datos-personales-en-posesion-de-124769"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-21"
-last_updated: "2017-11-16"
+last_updated: "2022-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
 
 Ley publicada en la Sección Tercera al Número 78 del Periódico Oficial del Estado de Nayarit, el sábado 21 de octubre de 2017.
 
@@ -353,11 +353,21 @@ Todo tratamiento de datos personales que efectúe el responsable deberá estar j
 
 Se presume que se cumple con la calidad en los datos personales cuando éstos son proporcionados directamente por el titular y hasta que éste no manifieste y acredite lo contrario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2022)</small>
+
 ###### Artículo 28.
 
-El consentimiento podrá manifestarse de forma expresa o tácita. Se deberá entender que el consentimiento es expreso cuando la voluntad del titular se manifieste verbalmente, por escrito, por medios electrónicos, ópticos, signos inequívocos o por cualquier otra tecnología.
+El consentimiento podrá manifestarse de forma expresa o tácita. Se deberá entender que el consentimiento es expreso cuando la voluntad del titular se manifieste verbalmente, por escrito, por medios electrónicos, ópticos, signos inequívocos o por cualquier otra tecnología. En el entorno digital, podrá utilizarse la Firma Electrónica Avanzada o cualquier mecanismo o procedimiento equivalente que permita identificar fehacientemente al Titular y a su vez, recabar su consentimiento de tal manera que se acredite la obtención del mismo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JUNIO DE 2022)</small>
+
+Para la obtención del consentimiento expreso, el responsable deberá facilitar al Titular de los datos personales un medio sencillo y gratuito a través del cual pueda manifestar su voluntad.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 13 DE JUNIO DE 2022)</small>
 
 El consentimiento será tácito cuando habiéndose puesto a disposición del titular el aviso de privacidad, éste no manifieste su voluntad en sentido contrario.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 13 DE JUNIO DE 2022)</small>
 
 Por regla general será válido el consentimiento tácito, salvo que la ley o las disposiciones aplicables exijan que la voluntad del titular se manifieste expresamente.
 
@@ -1722,3 +1732,11 @@ P.O. 16 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS”.]
 
 Primero (sic). El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 13 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 28 DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE NAYARIT, EN MATERIA DE GOBIERNO DIGITAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Para la correcta aplicación del presente Decreto, se deberá observar a lo dispuesto por la Ley de Firma Electrónica Avanzada para el Estado de Nayarit.
