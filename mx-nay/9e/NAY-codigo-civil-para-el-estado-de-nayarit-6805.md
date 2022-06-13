@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2021-06-07"
+last_updated: "2022-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -7259,6 +7259,12 @@ Convenio es el acuerdo de dos o más personas para crear, transferir, modificar 
 
 Los convenios que producen o transfieren las obligaciones y derechos toman el nombre de Contratos.
 
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+###### Artículo 1166 Bis.
+
+Todo convenio o contrato que se encuentre regulado en el presente Código, podrá realizarse a través de medios electrónicos.
+
 ###### Artículo 1167.
 
 Para la existencia del Contrato se requiere:
@@ -7315,13 +7321,13 @@ Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir
 
 Del consentimiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2022)</small>
 
 ###### Artículo 1176.
 
-El consentimiento puede ser expreso o tácito. Será expreso cuando la voluntad se manifiesta verbal, por escrito, o mediante cualquier recurso tecnológico o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o permitan presumirlo, excepto en los casos en que por ley o por convenio la voluntad deba manifestarse expresamente.
+El consentimiento puede ser expreso o tácito. Es expreso cuando la voluntad se manifiesta verbalmente, por escrito, a través de cualquier medio electrónico, por signos inequívocos o por cualquier otra tecnología. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por ley o por convenio la voluntad deba manifestarse expresamente.
+
+En el entorno digital, podrá utilizarse la Firma Electrónica Avanzada o cualquier mecanismo o procedimiento equivalente que permita identificar fehacientemente al Titular y a su vez, recabar su consentimiento de tal manera que se acredite la obtención del mismo.
 
 ###### Artículo 1177.
 
@@ -7337,9 +7343,11 @@ Cuando la oferta se haga a una persona presente, sin fijación de plazo para ace
 
 La misma regla se aplicará a la oferta hecha por teléfono o a través de cualquier otro medio electrónico, óptico o de cualquier otra tecnología que permita la expresión de la oferta y la aceptación de ésta en forma inmediata.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2022)</small>
+
 ###### Artículo 1179.
 
-Cuando la oferta se haga sin fijación del plazo a una persona no presente, el autor de la oferta quedará ligado durante tres días, además del tiempo necesario para la ida y vuelta regular del correo público, o del que se juzgue bastante, no habiendo correo público, según las distancias y la facilidad o dificultad de las comunicaciones.
+Cuando la oferta se haga sin fijación de plazo a una persona no presente, por correo, o cualquier otro medio electrónico, el autor de la oferta quedará ligado durante tres días, y en el primer caso, además del tiempo necesario para la ida y vuelta regular del correo público, o del que se juzgue bastante, no habiendo correo público, según las distancias y la facilidad o dificultad de las comunicaciones.
 
 ###### Artículo 1180.
 
@@ -7357,15 +7365,13 @@ Si al tiempo de la aceptación hubiere fallecido el proponente sin que el acepta
 
 El proponente quedará libre de su oferta cuando la respuesta que reciba no sea una aceptación lisa y llana, sino que importe modificación de la primera. En este caso la respuesta se considerará como nueva proposición, que se regirá por lo dispuesto en los Artículos anteriores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2022)</small>
+
 ###### Artículo 1184.
 
-La propuesta y aceptación por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
+La propuesta y aceptación hechas por telégrafo, o cualquier medio electrónico producen efectos si los originales de los respectivos telegramas o documentos contienen las firmas autógrafas, electrónicas avanzadas o los sellos electrónicos de los contratantes y los signos convencionales establecidos entre ellos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE ABRIL DE 2009)</small>
-
-Tratándose de la propuesta y aceptación hechas a través de medios electrónicos o de cualquier otra tecnología no se requerirá de estipulación previa entre los contratantes para que produzca efectos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE JUNIO DE 2022)</small>
 
 Vicios del Consentimiento.
 
@@ -7475,7 +7481,13 @@ Cuando la ley exija determinada forma para un contrato, mientras que éste no re
 
 Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
 
-Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+Si alguna de ellas no puede o no sabe firmar, imprimirá su huella digital.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+Si el contrato consta en documento electrónico, debe estar plasmada la Firma Electrónica Avanzada o el Sello Electrónico de las personas que intervengan en el acto. La omisión de este requisito tendrá los mismos efectos que la falta de firma autógrafa en documentos en físico.
 
 División de los contratos.
 
@@ -16638,3 +16650,9 @@ CUARTO.- La Dirección Estatal de (sic) Registro Civil del Estado de Nayarit, te
 Una vez que entre en funciones deberá dar trámite inmediato a las resoluciones judiciales que se hubieren efectuado durante el periodo existente entre la entrada en vigor de este Decreto y la creación del Registro de Deudores Alimentarios Morosos del Estado de Nayarit.
 
 QUINTO.- Comuníquese a la Dirección de (sic) Registro Civil de los Ayuntamientos de la Entidad, para los efectos conducentes.
+
+P.O. 13 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT, EN MATERIA DE GOBIERNO DIGITAL”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
