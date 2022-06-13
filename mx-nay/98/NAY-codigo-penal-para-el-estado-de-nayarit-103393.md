@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2021-12-23"
+last_updated: "2022-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -2545,7 +2545,9 @@ El delito de falsificación de documentos públicos o privados se comete por alg
 
 I. Poniendo una firma o rúbrica falsas, aunque sean imaginarias o alterando la verdadera;
 
-II. Aprovechando indebidamente una firma o rúbrica ajena en blanco, extendiendo una obligación, liberación o cualquier otro documento que pueda comprometer los bienes, la honra, la persona o la reputación de otro, o causar un perjuicio a la sociedad, al Estado o a un tercero;
+> <small>(REFORMADA, P.O. 13 JUNIO DE 2022)</small>
+
+II. Aprovechando indebidamente una firma o rúbrica en blanco ajena, la Firma Electrónica Avanzada o el sello electrónico en su caso, extendiendo una obligación, liberación o cualquier otro documento que pueda comprometer los bienes, la honra, la persona o la reputación de otra, o causar un perjuicio a la sociedad, al Estado, al municipio o a un tercero;
 
 III. Alterando el contexto de un documento verdadero después de concluido y firmado, si esto cambiare su sentido sobre alguna circunstancia o punto sustancial, ya se haga añadiendo, enmendando o borrando, en todo o en parte, una o más palabras o cláusulas o variando la puntuación;
 
@@ -2561,9 +2563,21 @@ VIII. Expidiendo un testimonio supuesto de documentos que no existen; dándolo d
 
 IX. Alterando un perito traductor o paleógrafo el contenido de un documento, al traducirlo o descifrarlo;
 
-X. Falsificando, alterando, tramitando u obteniendo de cualquier forma la documentación con la que se pretenda acreditar la propiedad de uno o más vehículos robados, y
+> <small>(REFORMADA, P.O. 13 JUNIO DE 2022)</small>
 
-XI. Elaborando sin permiso de la autoridad competente, una placa o placas, el engomado, la tarjeta de circulación o cualquier documento oficial que se expide para identificar vehículos automotores o remolques.
+X. Falsificando, alterando, tramitando u obteniendo de cualquier forma la documentación con la que se pretenda acreditar la propiedad de uno o más vehículos robados;
+
+> <small>(REFORMADA, P.O. 13 JUNIO DE 2022)</small>
+
+XI. Elaborando sin permiso de la autoridad competente, una placa o placas, el engomado, la tarjeta de circulación o cualquier documento oficial que se expide para identificar vehículos automotores o remolques, y
+
+> <small>(ADICIONADA, P.O. 13 JUNIO DE 2022)</small>
+
+XII. Entregando documentación falsa a los sujetos establecidos en el artículo 2 de la Ley de Gobierno Digital para el Estado de Nayarit, para llevar a cabo la sustanciación de trámites, servicios, procesos administrativos y jurisdiccionales, actos, comunicaciones y procedimientos, realizados a través de los portales que se creen para tal efecto.
+
+> <small>(ADICIONADO, P.O. 13 JUNIO DE 2022)</small>
+
+Los documentos públicos o privados podrán estar en cualquier medio, escrito, impreso, sonoro, visual, electrónico, informático, holográfico y digital.
 
 ###### ARTÍCULO 277.
 
@@ -2598,6 +2612,10 @@ Se sancionará con uno a cinco años de prisión y multa de veinte a cien días:
 I. Al Servidor Público que, por engaño o sorpresa, hiciere que alguien firme un documento público, que no habría firmado sabiendo su contenido;
 
 II. Al Notario y a cualquier otro servidor público que en el ejercicio de sus funciones, expida una certificación de hechos que no sean ciertos o de fe de lo que no conste en autos, registros, protocolos o documentos;
+
+> <small>(ADICIONADA, P.O. 13 JUNIO DE 2022)</small>
+
+II Bis. Al que permita por acción u omisión la prestación de servicios exclusivos de la función notarial a través de la utilización de sellos, marcas, protocolos o cualquier otro instrumento exclusivo de la función notarial que esté a su cargo, en oficina o establecimiento diverso al registrado ante la autoridad competente en materia notarial. Las sanciones previstas en la presente fracción se impondrán sin perjuicio de las demás responsabilidades administrativas, civiles o penales que se configuren;
 
 III. El que, para eximirse de una obligación o de un servicio impuesto por la Ley, suponga una certificación de impedimento que no tenga, sea que la haga aparecer como expedida por un médico o un cirujano real o supuesto, sea que se tome el nombre de una persona real atribuyéndole falsamente la calidad legal para expedir la certificación;
 
@@ -4694,3 +4712,9 @@ P.O. 23 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE DELITO DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 13 JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE GOBIERNO DIGITAL”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
