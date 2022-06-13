@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2021-03-22"
+last_updated: "2022-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JUNIO DE 2022.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -319,7 +319,7 @@ ARTICULO 46
 
 El nombre de las personas físicas se formará con sujeción a las reglas que se contienen en los artículos siguientes.
 
-(NOTA: EL 30 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2020 Y SU ACUMULADA 185/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 31 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 30 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2020 Y SU ACUMULADA 185/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATICA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 31 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, G.O. 10 DE JUNIO DE 2020)</small>
 
@@ -327,7 +327,7 @@ ARTICULO 47
 
 Las hijas e hijos de matrimonio llevarán el nombre o nombres propios que les impongan SU MADRE O SU PADRE, seguidos de sus apellidos en el orden en que éstos decidan.
 
-(NOTA: EL 30 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2020 Y SU ACUMULADA 185/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 31 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 30 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2020 Y SU ACUMULADA 185/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATICA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 31 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, G.O. 10 DE JUNIO DE 2020)</small>
 
@@ -459,21 +459,21 @@ La adopción y uso de nombre, seudónimo, anagrama o lema, así como el cambio d
 
 ### CAPITULO I. Disposiciones generales
 
-(NOTA: EL 30 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2020 Y SU ACUMULADA 185/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 31 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, G.O. 13 DE JUNIO DE 2022)</small>
 
-ARTICULO 75
+###### Artículo 75.
 
-El matrimonio es la unión de UN SOLO HOMBRE Y DE UNA SOLA MUJER que conviven para realizar los fines esenciales de la familia como institución social y civil.
+El matrimonio es la unión de dos personas a través de un contrato civil que, en ejercicio de su voluntad, deciden compartir un proyecto de vida conjunto, a partir de una relación afectiva con ánimo de permanencia, cooperación y apoyo mutuo y sin impedimento legal alguno.
 
 ARTICULO 76
 
 El matrimonio debe celebrarse ante los funcionarios que establece la ley y con las formalidades que ella exige.
 
-> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, G.O. 13 DE JUNIO DE 2022)</small>
 
-ARTICULO 77
+###### ARTICULO 77.
 
-Cualquier condición contraria a los fines esenciales de apoyo, respeto, convivencia, igualdad y asistencia mutua que se deben los cónyuges, se tendrá por no puesta.
+Cualquier condición contraria a los fines esenciales de apoyo, cooperación, respeto, convivencia, igualdad y asistencia mutua que se deben los cónyuges, se tendrá por no puesta.
 
 > <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2010)</small>
 
@@ -951,7 +951,7 @@ Una vez decretado el divorcio, el órgano jurisdiccional fijará en definitiva l
 
 En caso de violencia familiar, la protección para menores incluirá en la sentencia las medidas de seguridad, seguimiento y reeducativas necesarias para evitarla y corregirla, previstas en este Código y en su caso, las consideradas en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Veracruz, las cuales podrán ser suspendidas o modificadas en términos del artículo 58 del Código de Procedimientos Civiles para el Estado de Veracruz.
 
-(NOTA: EL 30 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2020 Y SU ACUMULADA 185/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 31 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 30 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 144/2020 Y SU ACUMULADA 185/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATICA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 31 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 De oficio, durante el procedimiento, el órgano jurisdiccional se allegará los elementos necesarios para determinar las medidas de seguridad, debiendo escuchar a ambas partes y a los menores de edad, para evitar conductas de violencia familiar o de cualquiera otra circunstancia que amerite la necesidad de la medida, considerando siempre el interés superior de la infancia. En todo caso protegerá y hará respetar el derecho de convivencia CON LA MADRE Y EL PADRE, salvo que exista peligro para el menor.
 
@@ -17026,3 +17026,11 @@ G.O. 22 DE MARZO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan el (sic) presente Decreto.
+
+G.O. 13 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 234 QUE REFORMA LOS ARTÍCULOS 75 Y 77 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
