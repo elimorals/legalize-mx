@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2022-05-17"
+last_updated: "2022-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -1327,6 +1327,10 @@ La actividad legislativa que desarrolla el Congreso para conocer y en su caso ap
 
 I. Presentación de la iniciativa, que deberá contemplar el objeto, su fundamento legal, antecedentes, propuesta y en el caso de tratarse de temas de género se incluirá un análisis de la problemática con perspectiva de género; cuando se trate de iniciativa de un nuevo ordenamiento, o de reforma legal, deberá incluirse una exposición de motivos;
 
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+Deberá presentarse por escrito a través de formato físico o medios electrónicos. En esta última deberá constar la Firma Electrónica Avanzada de la o el iniciador, en los términos de la Ley de Firma Electrónica Avanzada para el Estado de Nayarit;
+
 II. Estudio y dictamen de la o las comisiones competentes, suscrito cuando menos por la mayoría de sus integrantes;
 
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
@@ -1365,7 +1369,17 @@ II. Estudio y dictamen;
 
 III. Discusión y aprobación en su caso, por el voto afirmativo de las dos terceras partes de los integrantes de la legislatura;
 
-IV. Aprobada por el pleno, la resolución se cursará a los ayuntamientos de la entidad, a efecto de recabar la aprobación de cuando menos las dos terceras partes de los mismos;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
+
+IV. Aprobada por el pleno, la resolución se cursará a los Ayuntamientos de la entidad, ya sea en formato físico, o a través de medios electrónicos, a efecto de recabar la aprobación de cuando menos las dos terceras partes de los mismos.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+A partir de la recepción por los Ayuntamientos del proyecto de reforma o adición a la Constitución, estos contarán con un plazo de treinta días hábiles para emitir su voto y hacerlo del conocimiento de la Legislatura; en caso de omisión se computará en sentido aprobatorio.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+La remisión del voto por parte de los ayuntamientos podrá realizarse a través de medios físicos o electrónicos. La determinación en formato electrónico, así como sus anexos, serán presentadas a través del medio electrónico que para tal efecto habilite la Legislatura, y deberá contar con Firma Electrónica Avanzada o el Sello Electrónico de los integrantes del ayuntamiento que lo suscriben;
 
 V. La Mesa Directiva del Congreso o de la Diputación Permanente, realizará el cómputo y declaratoria de aprobación, remitiéndose al Poder Ejecutivo para los efectos de su promulgación y publicación; y
 
@@ -1758,3 +1772,11 @@ P.O. 17 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 13 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT, EN MATERIA DE GOBIERNO DIGITAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se establece un periodo de dieciocho meses, contados a partir de la entrada en vigor del presente Decreto, para que se implementen de ser el caso, las medidas técnicas, administrativas, operativas, así como los ajustes presupuestales necesarios para la debida implementación de las políticas y acciones establecidas en el presente Decreto.
