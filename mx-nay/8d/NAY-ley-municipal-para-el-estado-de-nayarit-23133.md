@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2022-04-04"
+last_updated: "2022-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -767,9 +767,17 @@ f) Elaborar a través de los Institutos Municipales de Planeación, los Planes M
 
 g) Promover la gestión de las actividades productivas del municipio, estimulando y organizando el desarrollo de la agricultura, ganadería, pesca, turismo, industria, minería y de otras actividades que propicien la ocupación y prosperidad de sus habitantes;
 
-h) Celebrar convenios con la federación para la administración y custodia de zonas federales; e
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
 
-i) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando éstos afecten su ámbito territorial.
+h) Celebrar convenios con la federación para la administración y custodia de zonas federales;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
+
+i) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando éstos afecten su ámbito territorial, y
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2022)</small>
+
+j) Formular, aprobar, implementar y ejecutar las políticas, programas y acciones en materia de Gobierno Digital, conforme a los lineamientos técnicos establecidos en la Ley de Gobierno Digital para el Estado de Nayarit, su Reglamento y en aquellas disposiciones jurídicas de la materia.
 
 III.- En materia administrativa, económica y social:
 
@@ -955,9 +963,17 @@ XVIII.- Declarar administrativamente la nulidad, caducidad o rescisión de contr
 
 XIX.- Dictar acuerdos administrativos para prevenir y combatir, en auxilio y coordinación de las autoridades competentes, el alcoholismo, la prostitución y la adicción a los estupefacientes, así como toda actividad que implique una conducta antisocial;
 
-XX.- Promover el establecimiento de sistemas y programas de asistencia social, campañas de salud, alfabetización y regularización del estado civil de las personas; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
 
-XXI.- Las demás que establezcan la Constitución Federal y la particular del estado, así como las leyes y reglamentos que le deleguen facultades.
+XX.- Promover el establecimiento de sistemas y programas de asistencia social, campañas de salud, alfabetización y regularización del estado civil de las personas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JUNIO DE 2022)</small>
+
+XXI.- Desarrollar y ejecutar las políticas, programas y acciones en materia de Gobierno Digital, impulsando el uso estratégico de las tecnologías de la información en trámites y servicios que se otorgan por parte del Ayuntamiento, conforme a lo establecido en la Ley de Gobierno Digital para el Estado de Nayarit, su Reglamento y conforme a las disposiciones jurídicas de la materia, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE JUNIO DE 2022)</small>
+
+XXII.- Las demás que establezcan la Constitución Federal y la particular del Estado, así como las leyes y reglamentos que le deleguen facultades.
 
 ###### ARTICULO 65.
 
@@ -3733,9 +3749,17 @@ e) El de Construcción;
 
 f) El de Protección Civil;
 
-g) El de Adquisiciones; y
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2022)</small>
 
-h) El de Establecimientos Mercantiles.
+g) El de Adquisiciones;
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+h) El de Establecimientos Mercantiles, y
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+i) El de Gobierno Digital.
 
 No limitando que cada municipio, de acuerdo con sus condiciones y necesidades propias, expida los que considere pertinentes.
 
@@ -4516,3 +4540,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La integración de las áreas administrativas municipales, habrá de realizarse de manera progresiva y equitativa hasta garantizar el principio de paridad de género, a partir de las nuevas designaciones y nombramientos que correspondan.
 
 TERCERO.- Comuníquese el presente Decreto a los veinte Ayuntamientos del Estado de Nayarit, para los efectos conducentes.
+
+P.O. 13 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE GOBIERNO DIGITAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se establece un periodo de dieciocho meses, contados a partir de la entrada en vigor del presente Decreto, para que se implementen de ser el caso, las medidas técnicas, administrativas, operativas, así como los ajustes presupuestales necesarios para la debida implementación de las políticas y acciones establecidas en el presente Decreto.
