@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-judicial-para-el-estado-de-nayarit-74403
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-03-20"
-last_updated: "2022-04-04"
+last_updated: "2022-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 20 de marzo de 2010.
 
@@ -205,7 +205,13 @@ Los órganos que integran el Poder Judicial tienen las siguientes obligaciones:
 
 7. Proporcionar a las autoridades competentes los datos e informes que soliciten cuando proceda conforme la ley.
 
-8. Las demás que las leyes impongan.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JUNIO DE 2022)</small>
+
+8. Realizar las acciones necesarias para cumplir con la digitalización de todas las promociones, documentos, acuerdos, resoluciones o sentencias y toda información relacionada con expedientes, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 13 DE JUNIO DE 2022)</small>
+
+9. Las demás que las leyes impongan.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
@@ -905,7 +911,13 @@ Son atribuciones de las juezas y jueces de primera instancia:
 
 14. Residir preferentemente en el lugar donde se encuentre adscrito el juzgado.
 
-15. Las demás que les impongan otras leyes.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JUNIO DE 2022)</small>
+
+15. Hacer uso de las tecnologías de la información que establezca el Consejo de la Judicatura para la tramitación de los juicios que conozcan y contar con Firma Electrónica Avanzada, misma que servirá para certificar los actos de su competencia.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 13 DE JUNIO DE 2022)</small>
+
+16. Las demás que les impongan otras leyes.
 
 Artículo 47
 
@@ -1529,9 +1541,17 @@ Son atribuciones del Consejo de la Judicatura:
 
 47. Nombrar a un representante, para formar parte del Comité Coordinador en materia del Sistema Local Anticorrupción.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JUNIO DE 2022)</small>
 
-48. Las demás que esta ley, los reglamentos y acuerdos generales le encomienden.
+48. Implementar las políticas de Gobierno Digital y de uso estratégico de tecnologías de la información que ayuden a que la impartición de justicia se realice de una manera pronta y expedita, en los términos de la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+49. Fomentar el uso de la Firma Electrónica Avanzada para certificar actos de la competencia de los integrantes del Poder Judicial, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 13 DE JUNIO DE 2022)</small>
+
+50. Las demás que esta ley, los reglamentos y acuerdos generales le encomienden.
 
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
 
@@ -2790,3 +2810,11 @@ P.O. 4 DE ABRIL DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO.- Para garantizar el principio de paridad de género en la integración del Consejo de la Judicatura, ésta habrá de realizarse de manera progresiva y equitativa a partir de las nuevas designaciones y nombramientos que correspondan.
+
+P.O. 13 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE GOBIERNO DIGITAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se establece un periodo de dieciocho meses, contados a partir de la entrada en vigor del presente Decreto, para que se implementen de ser el caso, las medidas técnicas, administrativas, operativas, así como los ajustes presupuestales necesarios para la debida implementación de las políticas y acciones establecidas en el presente Decreto.
