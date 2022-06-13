@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-periodico-oficial-del-estado-de-nayarit-35578"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-10"
-last_updated: "2006-09-07"
+last_updated: "2022-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL PERIODICO OFICIAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
 
 Ley publicada en la Tercera Sección del Periódico Oficial, el miércoles 10 de diciembre de 2003.
 
@@ -45,13 +45,17 @@ LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE NAYARIT
 
 La presente ley es de orden público e interés social y tiene por objeto regular la publicación y distribución del Periódico Oficial del Estado y establecer su naturaleza jurídica, estructura y organización administrativa, así como el contenido y la periodicidad de sus ediciones.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2022)</small>
+
 ###### ARTICULO 2o.
 
-El Periódico Oficial, es el órgano del Gobierno del Estado Libre y Soberano de Nayarit, de carácter permanente e interés público, cuya función consiste en publicar en el territorio del estado las leyes, decretos, reglamentos, acuerdos, órdenes y demás actos expedidos por los poderes del Estado, en sus respectivos ámbitos de competencia, a fin de que se apliquen y observen debidamente. Igualmente, en los términos del artículo 120 de la Constitución Política de los Estados Unidos Mexicanos, el órgano publicará las leyes federales expedidas por el Congreso de la Unión.
+El Periódico Oficial, es el órgano del Gobierno del Estado Libre y Soberano de Nayarit, responsable de la difusión de carácter permanente e interés público, que tiene por objeto publicar las leyes, decretos, reglamentos, acuerdos, notificaciones, avisos, lineamientos, manuales y demás disposiciones de carácter general de los poderes del Estado, organismos autónomos, organismos auxiliares, ayuntamientos y de particulares.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2022)</small>
 
 ###### ARTICULO 3o.
 
-El Periódico Oficial se editará en la ciudad de Tepic, Nayarit, y podrá publicarse cualquier día de la semana, preferentemente los días martes y viernes y será distribuido en toda la entidad.
+El Periódico Oficial se editará en la ciudad de Tepic, Nayarit, y podrá publicarse cualquier día de la semana, y será distribuido en toda la entidad.
 
 Para su publicación se consideran hábiles todos los días del año, pudiendo salir a la circulación aun en días festivos si fuere necesario.
 
@@ -93,9 +97,17 @@ XII. Efectuar los trabajos necesarios para sistematizar, compilar y editar la le
 
 XIII. Las demás que establezca esta ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2022)</small>
+
 ###### ARTICULO 6o.
 
-El Director del Periódico Oficial en ningún caso estará facultado para publicar documentos, cualesquiera que sea su naturaleza jurídica, que no estén debidamente autentificados por la autoridad emisora y cuya procedencia esté plenamente comprobada.
+La persona titular de la Dirección del Periódico Oficial en ningún caso estará facultada para publicar documentos, cualquiera que sea su naturaleza jurídica, que no estén debidamente autentificados por la autoridad emisora y cuya procedencia este plenamente comprobada.
+
+La persona titular de la Dirección organizará y conservará los documentos originales que se presenten para su publicación, debiendo realizar su baja documental de conformidad con la vigencia y plazos de conservación establecidos en el catálogo de disposición documental correspondiente, de acuerdo con lo establecido en la Ley de Archivos del Estado de Nayarit.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 6o BIS.- El Periódico Oficial deberá proveerse con recursos tecnológicos y humanos adecuados, así como materiales necesarios para la oportuna elaboración, impresión y digitalización para difundir las disposiciones jurídicas vigentes.
 
 ###### ARTICULO 7o.
 
@@ -115,7 +127,9 @@ El Director del Periódico Oficial incurrirá en responsabilidad y procederá su
 
 (DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2006)
 
-### CAPITULO IV. DE SU CONTENIDO Y DISTRIBUCION
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2022)</small>
+
+### CAPITULO IV. DE SU CONTENIDO, DEL PROCEDIMIENTO DE SU PUBLICACIÓN Y DE SU DISTRIBUCIÓN
 
 ###### ARTÍCULO 11.
 
@@ -185,17 +199,25 @@ De los documentos a que hace referencia el párrafo anterior, los Ayuntamientos 
 
 Cuando se trate de reformas o adiciones a la Constitución Política, así como a las leyes, decretos o acuerdos expedidos por el Congreso del Estado, la publicación deberá incluir de manera íntegra la correspondiente exposición de motivos de la resolución aprobada. Misma práctica se observará tocante a los considerandos o demás razonamientos en que se argumente la expedición de resoluciones normativas que sean emitidas dentro de la esfera de sus respectivas competencias, por los poderes del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2022)</small>
+
 ###### ARTICULO 15.
 
-En la publicación de los textos se deberán incluir, invariablemente, las firmas de sus emisores o en su defecto se asegurarán los documentos originales de donde se deriven para publicarse con la anotación final de rúbrica.
+En la publicación de los textos se deberán incluir, invariablemente, las firmas de sus emisores o en su defecto por motivos técnicos, se podrá omitir la impresión de la firma, en su lugar deberá aparecer bajo la mención del nombre del firmante, la palabra “Rúbrica”, teniendo plena validez jurídica el contenido de la publicación.
 
 Invariablemente, la reimpresión de los números del Periódico Oficial cuyo contenido se refiera a la legislación local y demás disposiciones de interés general, de ser el caso, deberán incluirse los artículos transitorios correspondientes a cada una de las modificaciones de que haya sido objeto, así como las fechas de publicación de las resoluciones respectivas.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2022)</small>
+
 ###### ARTICULO 16.
 
-El Periódico Oficial será editado y distribuido en cantidad suficiente que garantice la satisfacción de la demanda en todo el territorio del estado.
+El Periódico Oficial será editado en forma impresa y digital.
 
-Para tales efectos, el Director del Periódico Oficial fijará el precio de venta por ejemplar para distribuidores y para la venta al público, de conformidad con las tarifas aprobadas en la Ley de Ingresos de cada ejercicio fiscal. Así mismo establecerá las modalidades para el suministro de ejemplares a los distribuidores y, de requerirse, el porte de la estafeta será cubierto por sus receptores.
+La versión digital del Periódico Oficial tendrá validez legal y el carácter de documental pública cuando se emita por la Dirección, asegurando la integridad y autenticidad de su contenido a través de la firma y sello electrónico y previo pago de la contribución respectiva, en los términos establecidos en la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 16 BIS.- Para los efectos de la venta de ejemplares publicados en el Periódico Oficial y el pago de los servicios que presta se atenderá a lo establecido en la Ley de Ingresos del Estado del ejercicio fiscal correspondiente.
 
 ###### ARTICULO 17.
 
@@ -213,13 +235,67 @@ Las publicaciones ordenadas por los poderes Legislativo y Judicial no serán mot
 
 Los poderes Legislativo y Judicial, las dependencias y entidades de la administración pública estatal y, en su caso, los Ayuntamientos pagarán los derechos correspondientes cuando se trate de publicaciones de convocatorias para licitaciones públicas, edictos y cédulas de notificación, así como los documentos cuya inserción ordenen en la sección de avisos del Periódico Oficial.
 
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 19 BIS.- La Dirección, por conducto del área correspondiente del Periódico Oficial, recibirá los documentos cuya publicación se solicite, acusará el recibo en el que conste el día y hora de su recepción.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 19 TER.- La solicitud de publicación se deberá dirigir a la Dirección y se presentará en original, en un horario de 9:00 a 16:00 horas en días hábiles, para su revisión, cotización y, en su caso, se hará entrega de la orden de pago correspondiente.
+
+A la solicitud de publicación se debe anexar el documento a publicarse en formato impreso, firmado y sellado en original por la autoridad competente y se deberá proporcionar el documento en formato digital editable, indicando el número de publicaciones requeridas y, en su caso, el lapso entre una publicación y otra.
+
+La publicación del documento será programada una vez que el solicitante presente ante la Dirección el comprobante de pago de productos correspondientes.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 19 QUATER.- El documento a publicar debe cumplir con las características que al efecto prevea el Manual de Procedimientos respectivo.
+
+La ortografía y contenido de los documentos a publicar son responsabilidad del solicitante.
+
+No se aceptarán documentos con enmendaduras, borrones o letras ilegibles.
+
+Los documentos que no cumplan con los requisitos no serán publicados y en caso de ser recibidos, quedarán sujetos a revisión para su publicación.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 19 QUINQUIES.- La cancelación de una publicación procederá únicamente cuando se solicite mediante escrito dirigido a la Dirección, a más tardar tres días hábiles antes de que se realice la publicación, en el horario de 9:00 a 16:00 horas.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 19 SEXIES.- En caso de que el documento presentado no se publique, el pago efectuado se considerará para la publicación de ese documento con posterioridad.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 19 SEPTIES.- Para acreditar el contenido de las publicaciones es suficiente el cotejo del documento presentado con el publicado.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 19 OCTIES.- La publicación realizada en el Periódico Oficial deberá ponerse en circulación a más tardar el día hábil siguiente de su edición.
+
+Para los efectos del presente artículo se entiende que la publicación del Periódico Oficial se pone en circulación cuando se encuentre a disposición del público en general para su consulta electrónica, difusión y venta.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2022)</small>
+
 ###### ARTICULO 20.
 
-Salvo en los casos de documentos legislativos susceptibles de ser observados por el Gobernador del Estado, en ningún otro, la publicación de un documento excederá a los tres días naturales, contados a partir de la fecha en que haya sido presentada la solicitud respectiva.
+Los documentos serán publicados dentro de los cinco días hábiles siguientes a la fecha en que se haya recibido la solicitud respectiva.
 
-El plazo a que hace referencia el párrafo anterior podrá ser menor cuando la naturaleza urgente del documento emitido por la autoridad así lo amerite, de manera que deberá publicarse inmediatamente.
+Se exceptúan del plazo a que hace referencia el párrafo anterior, los documentos siguientes:
 
-### CAPITULO V. DE LA FE DE ERRATAS
+I. Documentos legislativos susceptibles de ser observados por el Gobernador del Estado, los que serán publicados al día hábil siguiente de la fecha en que fenezca el plazo constitucional respectivo, en el supuesto de no haberse realizado la observación correspondiente;
+
+II. Aquellos que estén sujetos a plazos legales, cuyo vencimiento requiera de su inmediata publicación;
+
+III. Los que excedan de más de cien páginas y siempre que no se esté en el supuesto de la fracción anterior serán publicados en los ocho días hábiles siguientes a la presentación de la solicitud correspondiente;
+
+IV. Aquellos cuya publicación este determinada por los poderes del Estado, y
+
+V. Cuando la naturaleza urgente del documento emitido por la autoridad así lo amerite.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2022)</small>
+
+### CAPITULO V. FE DE ERRATAS Y NOTA ACLARATORIA
 
 ###### ARTICULO 21.
 
@@ -254,6 +330,16 @@ Sólo quienes legalmente, en el ámbito de sus competencias, se encuentren facul
 ###### ARTICULO 27.
 
 La fe de erratas surtirá sus efectos al día siguiente de su publicación y no tendrá efectos retroactivos en relación con actos jurídicos consumados antes de su entrada en vigor.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 27 BIS.- La nota aclaratoria es un comunicado relativo a un documento publicado en el Periódico Oficial, cuyo contenido pretende precisarse o aclararse derivado de algún error en la publicación.
+
+Los criterios que permitan determinar los casos en los que es procedente la publicación de una nota aclaratoria, así como el procedimiento para su tramitación, se determinarán en el Reglamento y el Manual de Procedimientos respectivo.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 27 TER.- La Dirección procederá a la publicación de la fe de erratas o nota aclaratoria sin costo para el responsable de la publicación cuando los errores u omisiones de un documento publicado en el Periódico Oficial sean imputables a dicha instancia.
 
 ### CAPITULO VI. DIVULGACION DEL PERIODICO POR MEDIOS ELECTRONICOS
 
@@ -308,3 +394,13 @@ P.O. 7 DE SEPTIEMBRE DE 2006.
 Artículo Primero.- El presente Decreto entrará en vigor a partir de su aprobación y deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo Segundo.- Para su conocimiento y constancia de cumplimiento, notifíquese la presente resolución a la Suprema Corte de Justicia de la Nación.
+
+P.O. 13 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE NAYARIT, EN MATERIA DE GOBIERNO DIGITAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. El Ejecutivo del Estado deberá expedir el Reglamento de la Ley al que se hace mención en el presente Decreto, en un plazo no mayor a ciento veinte días hábiles posteriores a la entrada en vigor del presente.
+
+TERCERO. El Periódico Oficial, a través de la persona Titular de la Dirección, deberá expedir el Manual de Procedimientos al que se hace mención en el presente Decreto, en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del Reglamento que al efecto expida el Ejecutivo del Estado, de acuerdo a lo dispuesto en el TRANSITORIO SEGUNDO del presente.
