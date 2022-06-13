@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-jose-de-gracia-aguascalientes-71233"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-14"
-last_updated: "2022-03-14"
+last_updated: "2022-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 14 de diciembre de 2009.
 
@@ -1479,231 +1479,169 @@ En el caso de las faltas temporales de los encargados de las Dependencias Públi
 
 ## TÍTULO SEGUNDO. DE LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 28 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 141.
 
-Para el conocimiento, estudio, planeación y despacho de los asuntos de su competencia, la Presidencia Municipal contará con las siguientes dependencias administrativas:
+Para el conocimiento, estudio, planeación y despacho de los asuntos de su competencia, la oficina de Presidencia Municipal contará con las siguientes unidades administrativas:
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+l. SECRETARÍA DEL H. AYUNTAMIENTO:
 
-PRESIDENCIA MUNICIPAL
-
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
-
-SECRETARIA PARTICULAR
-
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
-
-COMITÉ MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
-
-> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2022)</small>
-
-JEFATURA DE GABINETE.
-
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
-
-SECRETARIA DEL H. AYUNTAMIENTO
-
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2022)</small>
-
-ÓRGANO INTERNO DE CONTROL.
-
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
-
-DIRECCION GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
-
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
-
-INSTANCIA DE LA MUJER
-
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
-
-DIRECCION DE SEGURIDAD PÚBLICA Y VIALIDAD
-
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
-
-DIRECCION DE SERVICIOS PUBLICOS
-
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
-
-DIRECCION DE FINANZAS
-
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
-
-DIRECCION ADMINISTRATIVA
-
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
-
-DIRECCION DE DESARROLLO SOCIAL
-
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
-
-DIRECCION DE OBRAS PÚBLICAS
-
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
-
-DIRECCION DE TURISMO
-
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
-
-DIRECCION DE ACCION CIVICA, CULTURA Y DEPORTE
-
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
-
-DIRECCION DE DESARROLLO URBANO, PLANEACION Y PROYECTOS
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 28 DE FEBRERO DE 2022)</small>
-
-De las Unidades Administrativas enunciadas dependerá la estructura siguiente:
-
-I. PRESIDENCIA MUNICIPAL
-
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
-
-A. Secretaría Particular
-
-> <small>(DEROGADO, P.O. 30 DE OCTUBRE DE 2019)</small>
-
-B. Asesor del Presidente
-
-II. COMITÉ MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
-
-A. Estará integrado por la Presidenta del Sistema D.I.F. Municipal, ocupándolo quien tenga el carácter de cónyuge. del Presidente Municipal, o en su defecto quién éste designe, y por las personas que se consideren necesarias y se nombren al momento de integrar el propio Comité para el desempeño de sus funciones, todo los cargos serán honoríficos y no podrán ser ocupados por funcionarios públicos de la administración municipal.
-
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 28 DE FEBRERO DE 2022)</small>
-
-III. SECRETARÍA (SIC)
-
-(SIC) DEL H. AYUNTAMIENTO
-
-A. Jefatura de Gabinete;
+A. Secretario del H. Ayuntamiento;
 
 B. Delegados y Comisarios;
 
-C. Dirección de Asuntos Jurídicos;
+C. Departamento de Reglamentos y Licencias;
 
-D. Departamento de Reglamentos y Licencias;
+D. Departamento de Comunicación Social;
 
-E. Departamento de Comunicación Social;
+E. Coordinación Municipal de Protección Civil;
 
-F. Área de Servicios Médicos y Trabajo Social;
+F. Unidad Médica Prehospitalaria;
 
-G. Área de Jueces Calificadores;
+G. Departamento de Acción Cívica; y
 
-H. Coordinación Municipal de Protección Civil;
+H. Archivo Municipal.
 
-I. Unidad Médica Prehospitalaria; y
+II. JEFATURA DE GABINETE:
 
-J. Departamento de Atención Ciudadana.
+A. Jefe de Gabinete;
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 28 DE FEBRERO DE 2022)</small>
+B. Dirección de Asuntos Jurídicos; y.
 
-IV. ÓRGANO INTERNO DE CONTROL
+C. Área de Jueces Calificadores.
 
-A. Titular de la Unidad Investigadora;
+III. ÓRGANO INTERNO DE CONTROL:
 
-B. Titular de la Unidad Substanciadora;
+A. Titular del Órgano Interno de Control;
 
-C. Titular de la Unidad Resolutora.
+B. Unidad Investigadora;
 
-V. DIRECCIÓN GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+C. Unidad Substanciadora;
 
-A. Subdirección del Sistema para el Desarrollo Integral de la Familia
+D. Unidad Resolutora;
 
-1. Área de Psicología
+E. Unidad de Auditoría Interna;
 
-2. Área de Trabajo Social
+F. Unidad de Transparencia y Acceso a la Información Pública;
 
-3. Área de Rehabilitación
+G. Unidad de notificadores.
 
-4. Área Jurídica
+IV. DIRECCIÓN DE FINANZAS:
 
-VI. INSTANCIA DE LA MUJER
+A. Dirección de Finanzas;
 
-A. Titular de la Instancia
+B. Subdirección de Finanzas;
 
-VII. DIRECCIÓN DE SEGURIDAD PÚBLICA Y VIALIDAD
+C. Área de Contabilidad;
 
-A. Área de Tránsito y Vialidad
+D. Área de Ingresos;
 
-VIII. DIRECCIÓN DE SERVICIOS PÚBLICOS
+E. Área de Egresos;
 
-A. Subdirección de Servicios Públicos
+F. Caja Recaudadora.
 
-1. Encargado de Panteones
+V. DIRECCIÓN DE ADMINISTRACIÓN:
 
-2. Área de Limpia
+A. Director de Administración;
 
-3. Área de Parques y Jardines
+B. Área de Recursos Humanos;
 
-4. Área de Ecología
+C. Área de Control Patrimonial;
 
-IX. DIRECCIÓN DE FINANZAS
+D. Área de Proveeduría;
 
-A. Área de Contabilidad
+E. Área de Informática;
 
-B. Área de Ingresos
+F. Área de Control Vehicular;
 
-C. Área de Egresos
+G. Unidad de Vinculación y Capacitación.
 
-D. Área de Catastro
+VI. DIRECCIÓN DE AGUA POTABLE:
 
-X. DIRECCIÓN ADMINISTRATIVA
+A. Dirección de Agua Potable;
 
-A. Área de Recursos Humanos y Control Patrimonial
+B. Subdirección de Agua Potable;
 
-B. Área de Proveeduría
+C. Área de Cultura del Agua.
 
-C. Área de Informática
+VII. DIRECCIÓN DE DESARROLLO SOCIAL
 
-XI. DIRECCIÓN DE DESARROLLO SOCIAL
+A. Director de Desarrollo Social;
 
-A. Subdirección de Desarrollo Social
+B. Instancia de la Juventud;
 
-1. Área de Fomento a la Juventud
+C. Área del Deporte.
 
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2019)</small>
+VIII. DIRECCIÓN DE DESARROLLO ECONÓMICO Y AGROPECUARIO
 
-2. Departamento de Desarrollo Agropecuario y Económico
+A. Director de Desarrollo Social, Económico y Agropecuario.
 
-3. (DEROGADO, P.O. 30 DE OCTUBRE DE 2019)
+IX. DIRECCIÓN DE SERVICIOS PÚBLICOS:
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+A. Director de Servicios Públicos;
 
-XII. DIRECCIÓN DE OBRAS PÚBLICAS.
+B. Subdirección de Servicios Públicos
 
-A. Subdirección de Obras Públicas
+C. Encargado de Panteones
 
-B. Supervisión de Obra
+D. Área de Limpia
 
-C. Área de Proyectos, Gestión, Licitación, Construcción y Conservación.
+E. Área de Parques y Jardines
+
+X. DIRECCIÓN DE OBRAS PÚBLICAS
+
+A. Director de Obras Públicas;
+
+B. Subdirección de Obras Públicas;
+
+C. Supervisión de Obra;
+
+D. Área de Proyectos, Gestión, Licitación, Construcción y Conservación;
+
+E. Dirección de Desarrollo Urbano y Planeación;
+
+F. Departamento de Catastro;
+
+G. Departamento de Ecología.
+
+XI. DIRECCIÓN DE SEGURIDAD PÚBLICA Y MOVILIDAD
+
+A. Director de Seguridad Pública y Movilidad;
+
+B. Subdirector de Seguridad Pública y Movilidad
+
+C. Área de Prevención al Delito;
+
+XII. DIF MUNICIPAL:
+
+A. Presidencia honoraria;
+
+B. Dirección del Sistema para el Desarrollo Integral de la Familia;
+
+C. Subdirección del Sistema para el Desarrollo Integral de la Familia;
+
+D. Instancia Municipal de la Mujer;
+
+E. Área de Psicología;
+
+F. Área de Trabajo Social;
+
+G. Área de Rehabilitación;
+
+H. Área Jurídica;
+
+I. Departamento de Atención Ciudadana.
 
 XIII. DIRECCIÓN DE TURISMO
 
-A. Subdirección de Turismo
+A. Director de Turismo;
 
-> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+B. Patronato de la Feria, fiestas y festivales;
 
-XIV. DIRECCIÓN DE DESARROLLO URBANO Y PLANEACION.
+C. Departamento de Cultura.
 
-A. Área de Planeación
-
-B. Área de Reglamentos de imagen Urbana
-
-> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2017)</small>
-
-DIRECCIÓN DE TURISMO
-
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 30 DE OCTUBRE DE 2019)</small>
-
-XV. DIRECCION DE ACCION CIVICA, CULTURA Y DEPORTE
-
-A. Encargado de Deporte
-
-B. Área de Acción Cívica y Cultura
-
-C. Área de Logística y Giras
+Para efectos del presente Código, se entiende como unidad administrativa la dependencia de la administración pública municipal prevista en el presente artículo creada para el ejercicio de las atribuciones y el despacho de los asuntos que corresponden al Municipio, sin importar su esquema administrativo.
 
 ### CAPÍTULO I. De Las Facultades de las Dependencias de la Administración Pública Municipal
 
@@ -4088,6 +4026,26 @@ Las dependencias generadoras de documentos deberán conservarlos en sus archivos
 ###### ARTÍCULO 357.
 
 La transferencia que se haga al Archivo Municipal, solamente deberá referirse a la documentación en el estricto sentido del término, quedando prohibido el envió de materiales de deshecho, muebles y equipo de oficina.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+###### ARTÍCULO 357 - A.
+
+Para los efectos de depuración de documentos, funcionará un Consejo Consultivo de Depuración Documental, integrado por el Síndico Municipal, quien fungirá como Presidente del Consejo, el Titular del Archivo Municipal, quien fungirá como Secretario del Consejo, el Director Administrativo del Municipio, Contralor Municipal y Cronista Municipal que se desempeñaran como Vocales del Consejo y los Titulares de las Unidades Administrativas generadoras de los documentos que se pretendan depurar.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+###### ARTÍCULO 357 - B.
+
+El procedimiento para la depuración de documentos, se sujetará a los lineamientos siguientes:
+
+I. El Consejo Consultivo de Depuración Documental, es el único órgano facultado para autorizar la baja de documentos, mediante el resguardo magnético que se realice;
+
+II. El Titular del Archivo General Municipal deberá de elaborar una relación de la documentación a depurar, que incluirá el asunto, año, y volumen de la documentación, informando de ello a la dependencia generadora, y convocará al Consejo Consultivo de Depuración Documental;
+
+III. Si procede, el Consejo levantará un acta, autorizando la depuración al Archivo General Municipal para que sea cotejada con la relación a que se hace mención en la fracción que antecede; y
+
+IV. Concluida la revisión y confirmando el cotejo, el personal del archivo procederá a la destrucción física de la documentación.
 
 # LIBRO CUARTO. DE LOS SERVICIOS PÚBLICOS
 
@@ -14010,3 +13968,11 @@ P.O. 14 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO QUE ADICIONA Y REFORMA DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA, AGS.".]
 
 PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE “REFORMAS AL CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA”.]
+
+PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación (sic) el Periódico Oficial.
