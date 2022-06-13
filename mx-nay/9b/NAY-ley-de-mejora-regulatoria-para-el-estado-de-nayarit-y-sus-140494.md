@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-mejora-regulatoria-para-el-estado-de-nayarit-y-sus-14049
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-21"
-last_updated: "2019-12-21"
+last_updated: "2022-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140494&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE NAYARIT Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
 
 Ley publicada en la Sección Vigésima Primera del Periódico Oficial del Estado de Nayarit, el sábado 21 de diciembre de 2019.
 
@@ -71,7 +71,9 @@ V. Establecer los instrumentos, herramientas, acciones y procedimientos de mejor
 
 VI. Normar la operación de los Sujetos obligados dentro del Catálogo Estatal de Regulaciones, Trámites y Servicios;
 
-VII. Establecer las obligaciones de los Sujetos Obligados para facilitar los Trámites y la obtención de Servicios, incluyendo el uso de tecnologías de la información;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
+
+VII. Establecer las obligaciones de los Sujetos Obligados para facilitar los trámites y la obtención de servicios, incluyendo el uso de tecnologías de la información y Gobierno Digital;
 
 VIII. Establecer los principios, bases, procedimientos e instrumentos para que las Regulaciones garanticen beneficios superiores a sus costos y el máximo bienestar para la sociedad;
 
@@ -189,9 +191,19 @@ Plazos.- Cuando los plazos fijados por esta Ley y su Reglamento sean en días, e
 
 Cuando no se especifique el plazo, se entenderán cinco días para cualquier actuación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2022)</small>
+
 ###### Artículo 5.
 
-Uso de Tecnologías de la Información.- La Administración Pública Estatal y las Municipales, impulsarán el uso y aprovechamiento de las tecnologías de la información y comunicaciones para facilitar la interacción con los ciudadanos a efecto de que estos puedan dirigir sus solicitudes, opiniones, comentarios, a través de los sistemas electrónicos de comunicación, así como obtener la atención o resolución de aquellas por los mismos canales.
+Gobierno Digital.- Los Sujetos Obligados procurarán maximizar el uso y aprovechamiento de tecnologías de la información, en el ámbito de sus competencias, para facilitar la interacción con las personas, a efecto de que estas puedan dirigir sus solicitudes, opiniones, quejas y sugerencias a través de sistemas electrónicos de comunicación, así como obtener la atención o resolución de aquellas por estos mismos medios.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+Lo anterior, de conformidad con la disponibilidad presupuestaria de los Sujetos Obligados.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+Con el propósito de favorecer el cumplimiento regulatorio por parte de las personas, la gestión eficiente de los Trámites y Servicios, así como la simplificación administrativa, la Autoridad de Mejora Regulatoria correspondiente y la instancia responsable en materia de gobierno digital, según su ámbito de competencia, coordinarán la implementación de medidas conducentes a optimizar el uso de tecnologías de la información entre los Sujetos Obligados, conforme a las leyes y demás disposiciones jurídicas aplicables.
 
 ###### Artículo 6.
 
@@ -535,7 +547,9 @@ XXVII. Coordinarse con la Secretaria General de Gobierno en la implementación, 
 
 XXVIII. Supervisar que los Sujetos Obligados de la Administración Pública Estatal tengan actualizada la parte que les corresponde del Catálogo de Regulaciones, así como mantener actualizado el segmento de las Regulaciones estatales;
 
-XXIX. Promover el uso de tecnologías de información para la sustanciación y resolución de trámites y procedimientos administrativos de conformidad con los principios y objetivos de esta Ley y demás disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
+
+XXIX. Promover el uso de tecnologías de información, así como el Gobierno Digital, para la sustanciación y resolución de trámites y procedimientos administrativos de conformidad con los principios y objetivos de esta Ley y demás disposiciones legales aplicables;
 
 XXX. Promover la certificación de apertura rápida de empresas (SARE) en los municipios del Estado, de acuerdo con los lineamientos que emita la Comisión Nacional de Mejora Regulatoria;
 
@@ -775,9 +789,11 @@ VII. La Ventanilla Única de Construcción.
 
 ### Capítulo Segundo. Catálogo Estatal de Regulaciones, Trámites y Servicios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2022)</small>
+
 ###### Artículo 36.
 
-Objetivo del Catálogo.- El Catálogo Estatal es la herramienta tecnológica que compila las Regulaciones, los Trámites y los Servicios de los Sujetos Obligados de los órdenes de gobierno del estado, con el objeto de otorgar seguridad jurídica a las personas, dar transparencia, facilitar el cumplimiento regulatorio, así como fomentar el uso de tecnologías de la información. Tendrá carácter público y la información que contenga será vinculante para los Sujetos Obligados, en el ámbito de sus competencias.
+Objetivo del Catálogo.- El Catálogo Estatal es la herramienta tecnológica que compila las Regulaciones, los Trámites y los Servicios de los Sujetos Obligados de los órdenes de Gobierno del Estado, con el objeto de otorgar seguridad jurídica a las personas, dar transparencia, facilitar el cumplimiento regulatorio, así como fomentar el uso de tecnologías de la información y el Gobierno Digital. Tendrá carácter público y la información que contenga será vinculante para los Sujetos Obligados, en el ámbito de sus competencias.
 
 Por otra parte, la inscripción y actualización del Catálogo Nacional es de carácter permanente y obligatorio para todos los Sujetos Obligados, en el ámbito de sus competencias, por lo que deberán informar periódicamente a la autoridad de mejora regulatoria correspondiente cualquier modificación a la información inscrita en los Catálogos, lo anterior conforme a lo establecido por la Ley General.
 
@@ -796,6 +812,10 @@ III. El Expediente Único para Trámites y Servicios;
 IV. El Registro Estatal de Visitas Domiciliarias, y
 
 V. La Protesta Ciudadana.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+Las plataformas tecnológicas concernientes a la implementación del Catálogo Estatal y de los registros que lo conforman en términos de este precepto, deberán desarrollarse en coordinación con la instancia competente en materia de Gobierno Digital de la Secretaría de Administración y Finanzas del Gobierno del Estado, en términos de las disposiciones jurídicas aplicables.
 
 #### Sección Primera. Del Registro Estatal y los Municipales de Regulaciones
 
@@ -863,9 +883,11 @@ Plazos de respuestas.- Los titulares de las Dependencias y Entidades podrán est
 
 #### Sección Tercera. Del Registro Estatal de Trámites y Servicios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2022)</small>
+
 ###### Artículo 44.
 
-Concepto de los registros de trámites y servicios.- Los registros de Trámites y Servicios son herramientas tecnológicas que compilan los Trámites y Servicios de los Sujetos Obligados, con el objeto de otorgar seguridad jurídica a las personas, dar transparencia, facilitar el cumplimiento regulatorio, así como fomentar el uso de tecnologías de la información. Tendrán carácter público y la información que contengan será vinculante para los Sujetos Obligados.
+Concepto de los registros de trámites y servicios.- Los registros de Trámites y Servicios son herramientas tecnológicas que compilan los Trámites y Servicios de los Sujetos Obligados, con el objeto de otorgar seguridad jurídica a las personas, dar transparencia, facilitar el cumplimiento regulatorio, así como fomentar el uso de tecnologías de la información y el Gobierno Digital. Tendrán carácter público y la información que contengan será vinculante para los Sujetos Obligados.
 
 La inscripción y actualización de los registros de Trámites y Servicios es de carácter permanente y obligatorio para todos los Sujetos Obligados.
 
@@ -1562,3 +1584,13 @@ D A D O en la Sala de Sesiones “Lic. Benito Juárez García” recinto oficial
 Dip. Leopoldo Domínguez González, Presidente.- Rúbrica.- Dip. Margarita Morán Flores, Secretaria.- Rúbrica.- Dip. Marisol Sánchez Navarro, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado, y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los veinte días del mes de diciembre de dos mil diecinueve.- L.C. ANTONIO ECHEVARRÍA GARCÍA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Antonio Serrano Guzmán.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE NAYARIT Y SUS MUNICIPIOS, EN MATERIA DE GOBIERNO DIGITAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se establece un periodo de dieciocho meses, contados (sic) a partir de la entrada en vigor del presente Decreto, para que se implementen de ser el caso, las medidas técnicas, administrativas, operativas, así como los ajustes presupuestales necesarios para la debida implementación de las políticas y acciones establecidas en el presente Decreto.
