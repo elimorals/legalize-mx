@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-ley-organica-del-poder-legislativo-del-129545"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-07-09"
-last_updated: "2020-11-18"
+last_updated: "2022-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -435,9 +435,11 @@ Las sesiones de las comisiones se celebrarán dentro de los salones que se ubiqu
 
 De presentarse una situación de calamidad pública, caso fortuito o de fuerza mayor que constituya un impedimento para la reunión física de los integrantes de la Comisión, previo acuerdo de la mayoría calificada, y durante el tiempo que esta condición permanezca, podrá convocarse a sesiones, para llevar a cabo su desarrollo mediante medios de comunicación digital, que permitan en tiempo real dar cuenta de la deliberación, el debate y la votación vía sistema electrónico. Las sesiones con este carácter serán revestidas con todas las formalidades del proceso legislativo, desahogarán exclusivamente asuntos previamente acordados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 27.
 
-Las sesiones de comisiones no serán públicas; salvo cuando así lo acuerden sus integrantes.
+Las sesiones de comisiones por regla general serán públicas; salvo cuando sus integrantes acuerden lo contrario.
 
 Podrán celebrar reuniones de información y audiencia a las que podrán asistir, a invitación expresa, los titulares de dependencias y entidades de los Poderes Ejecutivo y Judicial, así como de los Ayuntamientos, para que informen cuando se discuta una Ley o un asunto concerniente a sus respectivos ámbitos de competencia, así como también a representantes de grupos sociales interesados, peritos y otras personas que puedan ampliar la información sobre el particular.
 
@@ -1057,9 +1059,11 @@ III. Se trate de exaltar el ánimo del auditorio para presionar la opinión de l
 
 IV. En el auditorio se observe falta de respeto para los miembros del Congreso del Estado, para los servidores públicos o para cualquier ciudadano.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 115.
 
-Son sesiones privadas las que se celebren sin acceso al público.
+Son sesiones privadas las que se celebren sin acceso al público, no obstante, la información que se genere en las mismas deberá tratarse conforme a lo previsto en la Ley General de Transparencia y Acceso a la Información Pública y la Ley local de la materia.
 
 Cuando en una sesión privada se trate de un asunto que exija estricta reserva, el Presidente consultará al Pleno si se debe guardar sigilo acerca de los asuntos tratados, y en caso de ser afirmativa la respuesta, los presentes estarán obligados a guardarlo.
 
@@ -1579,9 +1583,11 @@ Queda prohibido que la papelería del Congreso del Estado y en toda impresión, 
 
 ## TÍTULO SEXTO. LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN PÚBLICA DE LOS ACTOS DEL CONGRESO DEL ESTADO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 161.
 
-El Congreso del Estado en respeto de los principios del modelo de parlamento abierto, implementar (sic) mecanismos que garanticen la transparencia, la máxima publicidad, el derecho de acceso a la información, la apertura gubernamental, la participación ciudadana y la rendición de cuentas; a través de mecanismos que garanticen la publicidad de Información oportuna, verificable, comprensible, actualizada y completa, atendiendo en todo momento las condiciones sociales, económicas y culturales del Estado de Aguascalientes.
+El Congreso del Estado en respeto de los principios del modelo de parlamento abierto, deberá implementar mecanismos que garanticen la transparencia, la máxima publicidad, el derecho de acceso a la información, la apertura gubernamental, la participación ciudadana y la rendición de cuentas; a través de mecanismos que garanticen la publicidad de Información oportuna, verificable, comprensible, actualizada y completa, atendiendo en todo momento las condiciones sociales, económicas y culturales del Estado de Aguascalientes.
 
 Para tal efecto, su actuar atenderá lo dispuesto por las leyes en materia de transparencia y acceso a la información pública.
 
@@ -2362,3 +2368,11 @@ P.O. 18 DE NOVIEMBRE DE 2020.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 134.- SE REFORMA Y ADICIONA (SIC) LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
