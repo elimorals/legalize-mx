@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2021-10-27"
+last_updated: "2022-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JUNIO DE 2022.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -1155,7 +1155,9 @@ I. Vigilar el cumplimiento de las disposiciones legales que señalan obligacione
 
 II. Promover en el municipio esquemas de distribución de insumos tales como tianguis y ferias agropecuarias en coordinación con el sector privado rural y con los organismos y asociaciones de productores, a efecto de lograr que la población tenga acceso a productos del campo y para el campo a un precio accesible, permitiendo un mayor desarrollo de la industria agropecuaria;
 
-III. Impulsar el desarrollo y mejoramiento de las actividades agropecuarias;
+> <small>(REFORMADA, G.O. 13 DE JUNIO DE 2022)</small>
+
+III. Elaborar y poner en marcha, con el apoyo de la persona titular de la Dirección de Fomento Agropecuario, acciones y programas orientados a promover, gestionar, desarrollar y consolidar permanentemente, las actividades agropecuarias;
 
 IV. Informar a las autoridades agrarias, cuando éstas lo requieran, de las parcelas ejidales que sean dadas en arrendamiento y de las que permanezcan abandonadas o sin cultivo;
 
@@ -4532,3 +4534,13 @@ G.O. 27 DE OCTUBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al Presente Decreto.
+
+G.O. 13 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 235 POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 54 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE.”]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Se concede un plazo de noventa días contado (sic) a partir del inicio de la vigencia del presente Decreto, a efecto de que las administraciones municipales realicen las adecuaciones necesarias a sus reglamentos u otros ordenamientos para dar cumplimiento a lo previsto en este Decreto.
