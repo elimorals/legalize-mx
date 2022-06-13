@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-comision-de-defensa-de-los-derechos-62802"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-08-16"
-last_updated: "2017-02-11"
+last_updated: "2022-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
 
 Ley publicada en la Sección Décima Primera del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -309,11 +309,17 @@ XXXV. Verificar la observancia y respeto a los Derechos Humanos de las niñas, n
 
 a) Contar con áreas especializadas para el desarrollo y ejecución de programas que permitan la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
 
-b) Integrar y mantener actualizados los registros que deriven de los reportes realizados por las autoridades estatales y municipales, así como los órganos constitucionales autónomos, en los términos de la Ley de los Derechos de las niñas, niños y adolescentes para el Estado de Nayarit.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2022)</small>
 
-> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2016)</small>
+b) Integrar y mantener actualizados los registros que deriven de los reportes realizados por las autoridades estatales y municipales, así como los órganos constitucionales autónomos, en los términos de la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Nayarit;
 
-XXXVI. Las demás que le confiera esta ley u otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JUNIO DE 2022)</small>
+
+XXXVI. Implementar el uso estratégico de las tecnologías de la información para la presentación de quejas y el seguimiento de los procedimientos que se realizan ante la Comisión, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O.13 DE JUNIO DE 2022)</small>
+
+XXXVII. Las demás que le confiera esta ley u otras disposiciones aplicables.
 
 ### CAPÍTULO SEGUNDO. LA ESTRUCTURA DE LA COMISIÓN
 
@@ -783,7 +789,9 @@ El Visitador General tiene a su cargo el ejercicio de las atribuciones siguiente
 
 I. Suplir al Presidente en sus ausencias temporales, así como en el caso de ausencia definitiva, hasta en tanto se designe por el Congreso al nuevo titular en los términos previstos por esta ley;
 
-II. Recibir, admitir o rechazar previa calificación, las quejas, denuncias e inconformidades presentadas por los directamente afectados, por sus representantes o por los denunciantes en su caso;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
+
+II. Recibir, admitir o rechazar previa calificación, las quejas, denuncias e inconformidades presentadas de manera física o por medios electrónicos por los directamente afectados, por sus representantes o por los denunciantes en su caso;
 
 III. Iniciar a petición de parte, la investigación de las quejas, e inconformidades que le sean presentadas, sobre todo aquellas en que aparezca en forma clara, violación a los Derechos Humanos con motivo de privación ilegal de la libertad;
 
@@ -849,7 +857,9 @@ Para ser designado Visitador Regional y Adjunto de la Comisión, se deberán reu
 
 Los Visitadores Regionales tendrán las siguientes atribuciones:
 
-I. Recibir, admitir o rechazar a nombre de la Comisión, las quejas presentadas por los afectados, sus representantes o los denunciantes;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
+
+I. Recibir, admitir o rechazar a nombre de la Comisión, las quejas presentadas de manera física o por medios electrónicos, por los afectados, sus representantes o los denunciantes;
 
 II. Iniciar, a petición de parte, la investigación de las quejas que les sean presentadas, con motivo de probables violaciones a los Derechos Humanos, e informar sobre ellas al Presidente;
 
@@ -1075,13 +1085,27 @@ La queja podrá presentarse solamente dentro del plazo de un año contado a part
 
 Tratándose de los casos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento judicial, deportación o destierro, o alguno de los actos prohibidos por el artículo 22 de la Constitución General de la República, la queja podrá presentarse en cualquier tiempo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 71.
 
-La queja deberá presentarse por escrito, sin que sea necesaria la formalidad en el mismo.
+La queja deberá presentarse de manera física, en forma verbal o escrita, o por medios electrónicos, sin que sea necesaria la formalidad en el mismo.
 
-En casos urgentes, cuando las violaciones reclamadas sean de tal gravedad que, de no atenderse de inmediato, se pudieran ocasionar daños de difícil o imposible reparación al afectado, la queja puede presentarse por cualquier medio de comunicación y, una vez superada la urgencia, se solicitará su ratificación. No se admitirán quejas anónimas o notoriamente improcedentes.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2022)</small>
 
-El quejoso deberá identificarse y suscribir la queja al momento de su presentación o, en su caso, deberá ratificarla dentro de los tres días hábiles siguientes a su presentación. En caso contrario se desechará.
+Las quejas que sean presentadas por medios electrónicos ante la Comisión, deberán ser ratificadas dentro del plazo de cinco días hábiles.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+Para los efectos del párrafo anterior, el Organismo citará al quejoso por la misma vía en la que fue propuesta la queja, para que comparezca de manera personal.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+En caso de realizarse la queja o denuncia vía telefónica, el quejoso deberá otorgar un domicilio o un correo electrónico donde se le notificará de todos los actos inherentes a la queja. Si la queja o denuncia se realiza por medios electrónicos, el quejoso deberá proporcionar una dirección de correo electrónico donde se le notificará de todos los actos concernientes a su queja.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+No se admitirán quejas notoriamente improcedentes. El quejoso deberá identificarse y suscribir la queja al momento de su presentación o, en su caso, deberá ratificarla. En caso contrario, se desechará.
 
 ###### ARTÍCULO 72.
 
@@ -1349,9 +1373,11 @@ El recurso de Queja, sólo podrá presentarse por los quejosos, o denunciantes q
 
 En caso de que el Organismo Municipal, acredite estar dando seguimiento adecuado a la queja o denuncia, el recurso de queja deberá ser desestimado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 117.
 
-El recurso de Queja deberá presentarse directamente ante la COMISIÓN por escrito o en casos urgentes en forma oral; en este supuesto, la instancia deberá ratificarse dentro de los tres días siguientes por el interesado.
+El recurso de Queja deberá presentarse directamente ante la Comisión por escrito, de manera electrónica o en casos urgentes en forma oral; en este supuesto, la instancia deberá ratificarse dentro de los tres días siguientes por el interesado.
 
 En el escrito, deberán precisarse las omisiones o la inactividad del Organismo Municipal respectivo, acompañando además de las pruebas documentales que lo sustenten.
 
@@ -1630,3 +1656,11 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. A partir de la entrada en vigor del presente decreto el Congreso iniciará el procedimiento respectivo para la designación del titular del Órgano Interno de Control.
 
 TERCERO. Se deberán realizar las adecuaciones presupuestarias a efecto de lograr el debido funcionamiento del Órgano Interno de Control creado en el presente decreto.
+
+P.O. 13 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT, EN MATERIA DE GOBIERNO DIGITAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se establece un periodo de dieciocho meses, contados a partir de la entrada en vigor del presente Decreto, para que se implementen de ser el caso, las medidas técnicas, administrativas, operativas, así como los ajustes presupuestales necesarios para la debida implementación de las políticas y acciones establecidas en el presente Decreto.
