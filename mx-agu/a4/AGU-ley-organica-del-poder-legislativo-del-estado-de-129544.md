@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-129544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-09"
-last_updated: "2022-03-28"
+last_updated: "2022-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -293,7 +293,9 @@ II. Radicar dentro del territorio del Estado;
 
 III. Presentarse con la oportunidad debida, cuando fueren citados por la Diputación Permanente a período extraordinario de sesiones;
 
-IV. Guardar reserva de los asuntos tratados en las sesiones privadas;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
+
+IV. Guardar reserva de información a la que acceda en el ejercicio de su función, y que sea clasificada como reservada o confidencial en términos de lo previsto en la Ley General de Transparencia y Acceso a la Información Pública y la Ley local de la materia;
 
 V. Visitar los centros de población tanto dentro de su Distrito Electoral como del resto del Estado, debiendo dar cuenta en su informe anual, de estas actividades;
 
@@ -1121,9 +1123,11 @@ III. Aquellas relacionadas a la actividad y educación física y deporte, ya sea
 
 IV. Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 77.
 
-La Comisión de Reglamentos y Prácticas Parlamentarías el conocimiento, análisis, estudio, seguimiento, promoción y en su caso Dictaminación sobre los asuntos siguientes:
+Corresponde a la Comisión de Reglamentos y Prácticas Parlamentarias el conocimiento, análisis, estudio, seguimiento, promoción y en su caso Dictaminación sobre los asuntos siguientes:
 
 I. La preparación de proyectos de Ley o de Decreto para adecuar las normas que rigen las actividades parlamentarias;
 
@@ -1141,9 +1145,21 @@ VII. La planificación, convocatoria, organización y realización de las Jornad
 
 VIII. La realización, suscripción y presentación de Iniciativas que tengan por objeto la corrección de errores ortográficos, de sintaxis, o de denominación de autoridades, instituciones u ordenamientos que son referenciados, y que aparezcan de manera incorrecta en las leyes locales;
 
-IX. Aprobar o modificar los informes del Sistema de Evaluación del Trabajo Legislativo, y remitir sus resultados a la Coordinación de Comunicación Social; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
 
-X. Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
+IX. Aprobar o modificar los informes del Sistema de Evaluación del Trabajo Legislativo, y remitir sus resultados a la Coordinación de Comunicación Social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JUNIO DE 2022)</small>
+
+X. La preparación, elaboración y estudio de proyectos de ley o de decreto sobre las propuestas que se presenten en materia de participación ciudadana, rendición de cuentas, derechos a la información pública, innovación en el uso de tecnologías y datos abiertos a la ciudadanía, transparencia sobre información parlamentaria e historia legislativa en favor del parlamento abierto; únicamente en lo concerniente a la normativa interna del Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2022)</small>
+
+XI. Fortalecer la accesibilidad a la información parlamentaria, en coadyuvancia con las obligaciones en materia de transparencia y rendición de cuentas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE JUNIO DE 2022)</small>
+
+XII. Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
 ###### ARTÍCULO 78.
 
@@ -1197,9 +1213,13 @@ V. El procedimiento para la renovación del Consejo Consultivo del Instituto de 
 
 VI. El procedimiento para la designación de los Comisionados del Instituto de Transparencia del Estado de Aguascalientes en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MARZO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JUNIO DE 2022)</small>
 
-VII. Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
+VII. La normatividad referente a la regulación de Archivos y la administración de documentos administrativos e históricos de los Poderes del Estado de Aguascalientes, sus municipios, entidades paraestatales y organismos autónomos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE JUNIO DE 2022)</small>
+
+VIII. Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
 ###### ARTÍCULO 82.
 
@@ -1821,13 +1841,17 @@ En el ejercicio de sus funciones, dicha instancia deberá garantizar la separaci
 
 Cualquier persona, cuando presuma que los titulares de los Órganos Internos de Control de cualquiera de los organismos constitucionales autónomos, haya incurrido en los supuestos previstos en el Capítulo Décimo Séptimo de la Constitución del Estado, podrá presentar denuncias ante las autoridades correspondientes, acompañándola de los documentos y evidencias en las cuales se sustente.
 
-## TÍTULO SEXTO. LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN PÚBLICA DE LOS ACTOS DEL CONGRESO DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2022)</small>
+
+## TÍTULO SEXTO. PARLAMENTO ABIERTO Y EL ACCESO A LA INFORMACIÓN PÚBLICA DE LOS ACTOS DEL CONGRESO DEL ESTADO
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 148.
 
-El Congreso del Estado en respeto de los principios del modelo de parlamento abierto, implementar mecanismos que garanticen la transparencia, la máxima publicidad, el derecho de acceso a la información, la apertura gubernamental, la participación ciudadana y la rendición de cuentas; a través de mecanismos que garanticen la publicidad de Información oportuna, verificable, comprensible, actualizada y completa, atendiendo en todo momento las condiciones sociales, económicas y culturales del Estado de Aguascalientes.
+El Congreso del Estado en respeto de los principios del modelo de parlamento abierto, deberá implementar mecanismos que garanticen la transparencia, la máxima publicidad, el derecho de acceso a la información, la apertura gubernamental, la participación ciudadana y la rendición de cuentas; a través de mecanismos que garanticen la publicidad de Información oportuna, verificable, comprensible, actualizada y completa, atendiendo en todo momento las condiciones sociales, económicas y culturales del Estado de Aguascalientes.
 
 Para tal efecto, su actuar atenderá lo dispuesto por las leyes en materia de transparencia y acceso a la información pública.
 
@@ -2234,3 +2258,11 @@ P.O. 28 DE MARZO DE 2022.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciara su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 134.- SE REFORMA Y ADICIONA (SIC) LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
