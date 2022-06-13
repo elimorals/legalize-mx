@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2022-06-10"
+last_updated: "2022-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -123,17 +123,17 @@ XV. Misoginia: Son conductas de odio hacia las mujeres y se manifiesta en actos 
 
 XVI. Parto humanizado: Modelo de atención en el que se facilita un ajuste de la asistencia médica a la cultura, creencias, valores y expectativas de la mujer, respetando la dignidad humana, así como sus derechos y los de la persona recién nacida, erradicando todo tipo de violencia física, psicológica e institucional, respetando los tiempos biológico y psicológico, evitando prácticas invasivas y suministro de medicación que no estén justificados médicamente;
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
 
-XVII. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
+XVII. Empoderamiento de las Mujeres: es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
 
-XVIII. Servicio Reeducativo: El servicio reeducativo para personas agresoras, es el proceso mediante el cual se trabaja individual y/o colectivamente para erradicar las creencias, prácticas y conductas que posibilitan, justifican y sostienen el ejercicio de las violencias contra las mujeres en cualquiera de sus tipos y modalidades, como son los estereotipos de supremacía masculina, los patrones machistas y cualquier otra forma que implique opresión y subordinación; a través de servicios integrales, especializados, gratuitos basados en la perspectiva de género, los derechos humanos de las mujeres y que, en su caso, busque la reinserción social de la persona agresora; y
+XVIII. Servicio Reeducativo: el servicio reeducativo para personas agresoras, es el proceso mediante el cual se trabaja individua (sic) y/o colectivamente para erradicar las creencias, prácticas y conductas que posibilitan, justifican y sostienen el ejercicio de las violencias contra las mujeres en cualquiera de sus tipos y modalidades, como son los estereotipos de supremacía masculina, los patrones machistas y cualquier otra forma que implique opresión y subordinación; a través de servicios integrales, especializados, gratuitos basados en la perspectiva de género, los derechos humanos de las mujeres y que, en su caso, busque la reinserción social de la persona agresora; y
 
-> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE JUNIO DE 2022)</small>
 
-XIX. Tecnologías de la información y la comunicación: son aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos.
+XIX. Alerta de Violencia de Género contra las Mujeres: conjunto de acciones gubernamentales de emergencia, para enfrentar y erradicar la violencia feminicida en un territorio determinado.
 
 ### CAPÍTULO II. DE LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES Y DE LOS ÁMBITOS EN QUE SE PRESENTAN
 
@@ -313,9 +313,9 @@ El acoso sexual es una forma de violencia en la que, si bien no existe la subord
 
 ### CAPÍTULO III. DE LOS MODELOS DE PREVENCIÓN, ATENCIÓN Y SANCIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
-### CAPÍTULO IV. DE LAS ÓRDENES DE PROTECCIÓN
+### CAPÍTULO III BIS. DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
 
 ###### Artículo 15.
 
@@ -383,9 +383,81 @@ El Estado diseñará y establecerá un Banco Estatal de Datos e Información que
 
 Las dependencias y entidades del Estado y los Municipios, deberán modificar sus sistemas estadísticos para incorporar los indicadores de conformidad con los lineamientos que para tales efectos establezca el propio sistema.
 
-### CAPÍTULO V. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2022)</small>
 
-### CAPÍTULO VI. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+### CAPÍTULO IV. DE LAS ÓRDENES DE PROTECCIÓN
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+
+###### Artículo 17 Bis 1.
+
+La Alerta de Violencia de Género contra las Mujeres tendrá como objetivo fundamental garantizar la seguridad de las mismas, el cese de la violencia en su contra y eliminar las desigualdades producidas por una legislación que agravia sus derechos humanos, por lo que se deberá:
+
+I. Establecer un grupo de trabajo interinstitucional y multidisciplinario con perspectiva de género, que le dé el seguimiento respectivo y que evalúe de manera sistemática las acciones que las autoridades implementen;
+
+II. Implementar las acciones preventivas, de seguridad y justicia, para enfrentar y abatir la violencia feminicida;
+
+III. Elaborar reportes especiales sobre la zona y el comportamiento de los indicadores de la violencia contra las mujeres;
+
+IV. Asignar los recursos presupuestales necesarios para hacer frente a la contingencia de alerta de violencia de género contra las mujeres; y
+
+V. Hacer del conocimiento público el motivo de la alerta de violencia de género contra las mujeres, y la zona territorial que abarcan las medidas a implementar.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+###### Artículo 17 Bis 2.
+
+La declaratoria de Alerta de Violencia de Género contra las Mujeres, se emitirá cuando:
+
+I. Los delitos del orden común contra la vida, la libertad, la integridad y la seguridad de las mujeres, perturben la paz social en un territorio determinado y la sociedad así lo reclame;
+
+II. Exista un agravio comparado que impida el ejercicio pleno de los derechos humanos de las mujeres; y
+
+III. Cuando lo soliciten los organismos de derechos humanos nacional o estatal y/u organizaciones sociales.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+###### Artículo 17 Bis 3.
+
+Corresponderá al Gobierno federal, a través de la Secretaría de Gobernación, declarar la alerta de violencia de género contra las mujeres y notificarla al Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+###### Artículo 17 Bis 4.
+
+Ante la violencia feminicida, el Gobierno del Estado y los Municipios, junto con el Gobierno Federal, participarán en el resarcimiento del daño, conforme a los parámetros establecidos en los derechos humanos reconocidos internacionalmente y considerar como reparación:
+
+I. EI derecho a la justicia pronta, expedita e imparcial: se deben investigar las violaciones a los derechos de las mujeres y sancionar a los responsables;
+
+II. La rehabilitación: se debe garantizar la prestación de servicios jurídicos, médicos y psicológicos especializados y gratuitos para la recuperación de las víctimas directas o indirectas;
+
+III. La satisfacción: son las medidas que buscan una reparación orientada a la prevención de violaciones. Entre las medidas a adoptar se encuentran:
+
+a) La aceptación del Estado de su responsabilidad ante el daño causado y su compromiso de repararlo;
+
+b) La investigación y sanción de los actos de autoridades omisas o negligentes que llevaron la violación de los derechos humanos de las víctimas a la impunidad; y
+
+c) El diseño e instrumentación de políticas públicas que eviten la comisión de delitos contra las mujeres.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+###### Artículo 17 Bis 5.
+
+Al declararse la Alerta de Violencia de Género contra las Mujeres, el Sistema Estatal convocará a la integración del Grupo de Trabajo Interdisciplinario y Multidisciplinario, el cual procederá al diseño y formulación de una estrategia específica para el seguimiento y evaluación periódica de los avances de su implementación.
+
+La estrategia referida deberá contener las acciones preventivas y de reparación del daño que correspondan la investigación de los casos y la consignación oportuna a la Fiscalía General de Justicia.
+
+La estrategia contará con un cronograma del Grupo de Trabajo y los indicadores cuantitativos y cualitativos en relación a las acciones para la prevención, investigación, consignación de casos, sanciones y reparación del daño.
+
+El Grupo de Trabajo sesionará de manera ordinaria una vez cada tres meses y su titular podrá convocar a las sesiones extraordinarias que sean necesarias y sus sesiones serán públicas.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+###### Artículo 17 Bis 6.
+
+La Secretaría Ejecutiva elaborará los lineamientos para la conformación, organización y funcionamiento del Grupo de Trabajo Interinstitucional y Multidisciplinario que dará seguimiento a la Declaratoria de Alerta de Violencia de Género contra las Mujeres y los presentará a los integrantes del Sistema Estatal para su aprobación.
+
+### CAPÍTULO V. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### Artículo 18.
 
@@ -745,7 +817,7 @@ Tratándose de niñas y niños en situación de riesgo o violencia, las medidas 
 
 La Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Nuevo León, deberá solicitar las órdenes de protección a las autoridades correspondientes de manera oficiosa de conformidad con las disposiciones normativas aplicables.
 
-### CAPÍTULO VII. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
+### CAPÍTULO VI. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### Artículo 25.
 
@@ -827,7 +899,7 @@ Para sesionar se requiere de la asistencia de la mayoría de los integrantes. Lo
 
 La Secretaría Ejecutiva del Sistema elaborará el proyecto de Reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
 
-### CAPÍTULO VIII. DE LA ATENCIÓN A LAS VÍCTIMAS
+### CAPÍTULO VII. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### Artículo 28.
 
@@ -877,7 +949,7 @@ XIV. Diseñar y actualizar las bases que deberán instrumentar las instituciones
 
 El Ejecutivo del Estado y los Municipios asignarán una partida presupuestaria para el cumplimiento de los objetivos y programas implementados por la presente Ley.
 
-### CAPÍTULO IX. DE LOS REFUGIOS PARA VÍCTIMAS DE VIOLENCIA
+### CAPÍTULO VIII. DE LA ATENCIÓN A LAS VÍCTIMAS
 
 ###### Artículo 30.
 
@@ -1395,6 +1467,8 @@ II. Incorporar la perspectiva de género al monitoreo de las transmisiones sobre
 
 III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género.
 
+### CAPÍTULO IX. DE LOS REFUGIOS PARA VÍCTIMAS DE VIOLENCIA
+
 ###### Artículo 44.
 
 Las autoridades Estatales y Municipales, en el ámbito de sus respectivas competencias, deberán prestar servicios de atención a las víctimas, consistentes en:
@@ -1794,3 +1868,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Las autoridades encargadas de la aplicación del presente Decreto, contarán con un plazo de 120 días para la adecuación de sus Reglamentos.
 
 TERCERO. Las autoridades encargadas de la coordinación para la aplicación de esta Ley deberán, en un plazo de 180 días a partir de su publicación en el Periódico Oficial del Estado, un plan de capacitación sobre el contenido de la presente reforma.
+
+P.O. 13 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 146. SE REFORMAN LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 5. SE ADICIONA LA FRACCIÓN XIX AL ARTÍCULO 5; UN CAPÍTULO II BIS DENOMINADO “DE LA ALERTA DE VIOLENCIA DE GENERO CONTRA LAS MUJERES” EL CUAL QUE CONTIENE LOS ARTÍCULOS 17 BIS 1; 17 BIS 2; 17 BIS 3; 17 BIS 4; 17 BIS 5; Y 17 BIS 6; TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación el Periódico Oficial del Estado.
