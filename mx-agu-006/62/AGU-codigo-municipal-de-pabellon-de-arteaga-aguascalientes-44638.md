@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2022-05-09"
+last_updated: "2022-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -583,47 +583,81 @@ El H. Ayuntamiento del Municipio de Pabellón de Arteaga, residirá en la ciudad
 
 El H. Ayuntamiento del Municipio de Pabellón de Arteaga funcionará en pleno, a través de sesiones de cabildo y en comisiones, en los términos establecidos por la Ley Municipal del Estado y el presente Código.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2022)</small>
 
 ###### ARTICULO 21.
 
-EL Ayuntamiento del Municipio de Pabellón de Arteaga tiene como función general, el gobierno del Municipio y como atribuciones y facultades las siguientes:
+El Ayuntamiento del Municipio de Pabellón de Arteaga tiene como función general, el gobierno del Municipio y como atribuciones y facultades las siguientes:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- Aprobar y expedir reglamentos, Bando y/o Código Municipal, así como las demás disposiciones administrativas de carácter general necesarias para el ejercicio de sus atribuciones, para su funcionamiento, para la organización y prestación de los servicios públicos municipales, para aquéllas que demanden la tranquilidad y seguridad de las personas y sus bienes, para garantizar la moralidad y salubridad públicas y la participación ciudadana y vecinal, siempre con arreglo a las bases generales previstas en las leyes en materia municipal;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- Presentar ante el Congreso del Estado las iniciativas de Ley en asuntos de su competencia, en los términos de la Constitución Política del Estado;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- Proponer anualmente al Congreso del Estado, a más tardar el día 30 de octubre de cada año, el proyecto de Ley de Ingresos;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IV.- Aprobar el Presupuesto de Egresos del municipio, con base en los ingresos disponibles;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 V.- Vigilar la administración de la Hacienda Municipal, cuidando que se observe puntualmente lo que disponen las leyes de ingresos y los presupuestos de egresos y practicar mensualmente, por conducto de su Comisión de Hacienda, el arqueo de sus fondos;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VI.- Proporcionar al Congreso toda la información y documentación que éste requiera, a fin de que se practique una adecuada supervisión y fiscalización de las cuentas públicas municipales;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
 
-VII.- Nombrar al Director de Finanzas y Administración y al Secretario del Ayuntamiento municipales, así como a los servidores públicos que en auxilio del síndico, habrán de ejercer la procuración, defensa, promoción y representación jurídica en los litigios en que el municipio fuere parte;
+VII.- Nombrar al Director de Finanzas y Administración, al Secretario del Ayuntamiento, al titular de la Contraloría Municipal y de los órganos internos de control de los entes paramunicipales, así como a los servidores públicos que en auxilio del síndico, habrán de ejercer la procuración, defensa, promoción y representación jurídica en los litigios en que el municipio fuere parte;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VIII.- Vigilar que el Presidente Municipal publique los decretos, reglamentos y cualquier disposición de observancia general, para los habitantes del Municipio, emanados del propio Ayuntamiento;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IX.- Resolver los recursos interpuestos en contra de los acuerdos dictados por el Presidente Municipal;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 X.- Servir de consejero del Presidente Municipal, en los casos graves que se presenten en el ejercicio de sus facultades;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XI.- Aceptar herencias, legados y donaciones que se hagan al Municipio, siempre que no sean onerosas;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XII.- Considerar los informes que rindan los regidores, autoridades subalternas y empleados, así como resolver acerca de los puntos a que los mismos hagan referencia;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XIII.- Revisar la cuenta pública que mensualmente presente el Presidente de la Comisión de Hacienda, para su remisión al Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XIV.- Imponer medidas disciplinarias a sus integrantes y funcionarios municipales, por faltas que cometan en el cumplimiento de sus obligaciones de conformidad con las leyes de la materia;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XV.- Autorizar la nomenclatura de las calles, parques, jardines y demás espacios públicos, en los términos del presente Código o el Reglamento Municipal correspondiente, así como la numeración de manzanas y lotes;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XVI.- Organizar la administración pública municipal mediante la reglamentación correspondiente;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XVII.- Otorgar concesiones y autorizaciones para que el sector privado pueda participar en la prestación de servicios;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XVIII.- Autorizar la relotificación, fusión y subdivisión de terrenos a través de la dependencia correspondiente de la Presidencia Municipal;
 
@@ -631,31 +665,59 @@ XVIII.- Autorizar la relotificación, fusión y subdivisión de terrenos a trav�
 
 XIX.- Expedir la autorización de fraccionamiento de predios y la constitución del régimen de propiedad en condominio de conformidad con las disposiciones que establece el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, las leyes de la materia, planes y programas de desarrollo urbano estatal, así como reservas, usos y destinos de áreas y predios, todo ello con la concurrencia del Estado;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XX.- Establecer un sistema de asistencia social a favor de los menores de edad, la integración familiar, los senectos y otros sectores de la población en condiciones de vulnerabilidad o rezago social y, en general, establecer programas cuyo propósito sea el desarrollo integral de la persona humana;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XXI.- Dividir el territorio municipal en los términos establecidos en la ley para una mejor prestación de los servicios públicos;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XXII.- Formular, aprobar y administrar la zonificación, planes y programas de desarrollo urbano y rural municipal;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XXIII.- Participar en la creación y administración de sus reservas territoriales;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XXIV.- Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando la Federación o el Estado elaboren proyectos de desarrollo regional, deberán asegurar la participación de los municipios;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XXV.- Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales a través de la dependencia correspondiente de la Presidencia Municipal;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XXVI.- Intervenir en la regularización de la tenencia de la tierra urbana;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XXVII.- Otorgar licencias y permisos para construcciones a través de la dependencia correspondiente de la Presidencia Municipal;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XXVIII.- Participar en la creación y administración de zonas de reservas ecológicas, y en la elaboración y aplicación de programas de ordenamiento en esta materia;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XXIX.- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando aquellos afecten su ámbito territorial a través de la dependencia correspondiente de la Presidencia Municipal;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XXX.- Formular y aprobar los planes y programas conducentes al desarrollo municipal de acuerdo con lo dispuesto en la Ley;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XXXI.- Solicitar en términos de la Ley aplicable la expropiación de bienes por causas de utilidad pública, en la forma que determine la ley en la materia, con la aprobación de las dos terceras partes de los integrantes del Ayuntamiento;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XXXII.- Acordar la categoría y denominación política que les corresponda a las localidades o centros de población;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XXXIII.- Nombrar al titular de la Policía Preventiva Municipal y Tránsito; y
 
@@ -725,9 +787,9 @@ II.- Dentro de su competencia, cumplir y hacer cumplir las disposiciones conteni
 
 III.- Tomar la protesta de Ley a los regidores y síndicos, funcionarios y empleados del Municipio;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
 
-IV.- Proponer al Ayuntamiento los nombramientos del Secretario del Ayuntamiento, del Director de Finanzas y Administración y del Director de Seguridad Pública y Vialidad, así como nombrar a los demás funcionarios públicos municipales excepto cuando la Ley y el presente ordenamiento dispongan otro modo de designación;
+IV.- Proponer al Ayuntamiento las ternas para realizar los nombramientos del Secretario del Ayuntamiento, del Director de Finanzas y Administración, del Director de Seguridad Pública y Movilidad, del titular de la Contraloría Municipal y de los órganos internos de control de los entes paramunicipales; y nombrar a los demás funcionarios públicos municipales excepto cuando la Ley y el presente ordenamiento dispongan otro modo de designación;
 
 V.- Presidir y dirigir las sesiones del Ayuntamiento;
 
@@ -4005,15 +4067,27 @@ XV.- Lo demás que señalen las leyes, el presente Código o le encomiende el H.
 
 #### SECCIÓN NOVENA. De la Contraloría Municipal
 
-> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 221], P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2022)</small>
+
+SUBSECCION PRIMERA
+
+De la competencia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2022)</small>
 
 ###### ARTICULO 220.
 
-Corresponde a la Contraloría Municipal:
+Corresponde a la Contraloría Municipal el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 I.- Instrumentar y actualizar el sistema de Control sobre los programas con indicadores que sirvan para medir con criterios objetivos la gestión del gobierno y el impacto de las acciones y políticas de gobierno en los ciudadanos;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 II.- Generar información a través de indicadores de gestión que faciliten y hagan más estratégica la toma de decisiones;
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 4 DE MARZO DE 2019)</small>
 
 III.- Coordinar reuniones de evaluación del rumbo de la gestión en sus tres dimensiones:
 
@@ -4023,45 +4097,221 @@ b).- Eficacia, control del logro de objetivos; y
 
 c).- Legitimidad, Encuestas ciudadanas medición del impacto de las acciones de gobierno en la población.
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 IV.- Operar el programa de Atención al Público cuyo objetivo es mejorar la calidad en el servicio, y monitorear los niveles de servicio, tiempo de respuesta y la calidad de los diferentes servicios públicos prestados;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 V.- Vigilar el correcto manejo de las finanzas municipales, apegándose a lo establecido en la Ley de Ingresos y a los presupuestos de Ingresos y egresos municipales;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 VI.- Velar porque los procesos administrativos del municipio se realicen con transparencia, seguridad jurídica, agilidad y orden;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 VII.- Ordenar y practicar visitas de auditoria e inspección a las dependencias municipales, centralizadas y descentralizadas, en materia de su competencia;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 VIII.- Supervisar los procesos de asignación, adjudicación, ejecución, entrega, recepción y pago de la obra pública y la correcta aplicación en ellos de los fondos públicos;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 IX.- Vigilar y coordinar la adecuada entrega-recepción de las dependencias municipales;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 X.- Cuidar el correcto desempeño de los servidores públicos, atender las denuncias ciudadanas, instruir procesos y determinar responsabilidades respecto de estos;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 XI.- Coordinar y vigilar que los servidores públicos obligados a presentar declaración de evolución patrimonial, declaración de intereses y constancia de declaración fiscal lo hagan en tiempo y forma, apegándose a la normatividad establecida;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XII.- Supervisar que las adquisiciones de bienes y servicios que realice el Municipio correspondan en cantidad y calidad a las necesidades reales;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 XIII.- Vigilar los recursos patrimoniales del Municipio, así como los que provengan del Gobierno Federal y del estatal;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XIV.- Fijar las normas de control, fiscalización, contabilidad y auditoría que deben observar las dependencias municipales;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 XV.- Vigilar el cumplimiento de políticas y programas establecidos por el H. Ayuntamiento, así como las normas señaladas en la fracción anterior;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XVI.- Practicar auditorias en las dependencias y organismos descentralizados municipales, verificando el destino de los fondos públicos sean propios o transferidos;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 XVII.- Vigilar y controlar el gasto público para el rendimiento máximo de los recursos del municipio, y el adecuado equilibrio presupuestal;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XVIII.- Vigilar que las obras realizadas por el municipio, directamente o con participación de terceros se ajusten a las especificaciones fijadas;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 XIX.- Dictaminar los estados financieros que expida la Dirección de Finanzas y Administración;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XX.- Turnar a las diferentes unidades administrativas las denuncias de los particulares para su trámite y dar seguimiento a las mismas; y
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 XXI.- Investigar las faltas administrativas cometidas por servidores públicos municipales, substanciando el procedimiento e imponiendo, en su caso, las sanciones correspondientes en el caso de faltas no graves;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XXII.- Enviar a la sala administrativa del Poder Judicial del estado el expediente del procedimiento de responsabilidad por faltas administrativas graves cometidas por servidores públicos, y
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XXIII.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 13 DE JUNIO DE 2022)</small>
+
+SUBSECCION SEGUNDA
+
+De los requisitos y el proceso de designación
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 220 BIS.- Para ser titular de la Contraloría Municipal se requiere:
+
+I. Tener ciudadanía mexicana, con pleno goce de los derechos civiles y políticos;
+
+II. Ser vecino del municipio de Pabellón de Arteaga;
+
+III. Poseer, al día de su nombramiento, título y cédula profesional de licenciatura en derecho, contaduría, administración pública o áreas afines, expedido por autoridad o institución facultada para ello;
+
+IV. Contar con experiencia profesional de cuando menos tres años en cualquiera de las siguientes materias: contable, auditoría financiera, control, manejo y fiscalización de recursos públicos, transparencia y rendición de cuentas y de responsabilidades administrativas de los servidores públicos. Este requisito se podrá comprobar con los elementos documentales idóneos y, en especial, con la certificación del estándar de competencia para la ejecución de las atribuciones de contraloría municipal, expedido por la institución correspondiente;
+
+V. No haber sido candidato a algún puesto de elección popular dentro de los cinco años anteriores a su nombramiento;
+
+VI. No haber sido condenado por delito intencional;
+
+VII. Contar con constancia de no inhabilitación expedida por la Contraloría del Estado.
+
+VIII. No ser pariente por consanguinidad hasta el cuarto grado, por afinidad hasta el segundo, o tener una relación de matrimonio o concubinato con alguno de los miembros del Ayuntamiento.
+
+Los requisitos señalados, a excepción de los previstos en las fracciones II y IV, serán aplicables también para las personas servidoras públicas que se desempeñen como autoridades investigadoras, sustanciadoras y resolutoras dentro de los órganos internos de control de la administración centralizada y paramunicipal.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 220 TER.- El titular de la Contraloría Municipal será nombrado por el Ayuntamiento de entre la terna propuesta por el Presidente Municipal.
+
+Para la integración de la terna, el Presidente Municipal emitirá una convocatoria donde se darán a conocer los requisitos, etapas y actividades a realizar durante la fase de selección de los perfiles idóneos.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 220 QUATER.- La convocatoria contendrá, cuando menos, los elementos que permitan conocer los requisitos de los aspirantes, las fechas, lugar y horarios de recepción de las propuestas y la mención de los fundamentos jurídicos y razones de hecho que la justifican.
+
+La convocatoria se publicará por una sola ocasión en el Periódico Oficial del Estado, en el sitio web oficial, así como en los estrados del Palacio del Ayuntamiento y de las delegaciones municipales.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 220 QUINQUIES.- A partir de la publicación de la convocatoria, los interesados en participar tendrán cinco días hábiles para presentar sus solicitudes.
+
+Las instituciones académicas y colegios profesionales podrán presentar propuestas, siempre que los candidatos postulados cumplan con los requisitos y el ente proponente cuente con el consentimiento expreso del candidato postulado. En ese caso, además, la institución o colegio deberá acreditar que está constituido en los términos de ley.
+
+Concluido el plazo para la recepción, dentro de los tres días hábiles siguientes, el Presidente Municipal calificará las propuestas que cumplan íntegramente con los extremos señalados en la convocatoria.
+
+Los perfiles con requisitos incompletos serán desechados de plano.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 220 SEXIES.- Cuando en la fecha de cierre para la recepción de propuestas no se haya alcanzado el número suficiente de sustentantes para integrar la terna o las postulaciones desechadas tornen insuficiente el número de proposiciones, el Presidente Municipal podrá determinar las medidas que considere oportunas para alcanzar la cifra de idónea de aspirantes para la eventual integración de la terna.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 220 SEPTIES.- Los candidatos que superen la selección preliminar serán citados para la aplicación de una evaluación de conocimientos con vista a la acreditación de la experiencia profesional en el control, manejo y fiscalización de recursos.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 220 OCTIES.- Dentro de los tres días hábiles siguientes a que se tengan los resultados del examen, el Presidente Municipal someterá a la consideración del Ayuntamiento, a través de un oficio, la terna de candidatos mejor evaluados a ocupar el cargo materia del proceso de designación.
+
+Una vez presentada la terna, el Ayuntamiento emitirá un acuerdo con los lineamientos conforme a los cuales el Cabildo entrevistará a los tres perfiles propuestos en relación con los temas que se consideren pertinentes acerca de la designación.
+
+Después de realizadas las entrevistas, la designación deberá ser sometida a la consideración del Ayuntamiento en el orden del día de la sesión inmediata siguiente.
+
+La información que se genere con motivo del proceso de designación será pública y estará a disposición de cualquier interesado.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 220 NOVIES.- El Ayuntamiento designará al Contralor Municipal por el voto de la mayoría relativa de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 220 DECIES.- La designación del Contralor Municipal se deberá realizar a más tardar dentro de los treinta días siguientes a la fecha en que inicie el periodo constitucional. Sin embargo, mientras se realiza la designación, el Presidente Municipal podrá nombrar un encargado de despacho.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 13 DE JUNIO DE 2022)</small>
+
+SUBSECCION TERCERA
+
+Del Servicio Civil de Carrera de la Contraloría
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 220 UNDECIES.- El servicio civil de carrera constituye el sistema integral de profesionalización de la administración de la Contraloría que se lleva a cabo mediante los procesos de capacitación, desarrollo, evaluación y promoción de los servidores públicos, el cual tiene como finalidad lograr que el régimen jurídico de actuación de la dependencia se apegue a los principios de legalidad, honradez, lealtad, imparcialidad, eficiencia, eficacia, economía, disciplina, objetividad, transparencia, rendición de cuentas, competencia por méritos, integridad y equidad que caracterizan al servicio público.
+
+Para los efectos del párrafo anterior, estarán adscritos al servicio civil de carrera de la Contraloría Municipal, los jefes de departamento y, en general, el personal adscrito a las áreas de auditoria, investigación, sustanciación y resolución del órgano interno de control, así como cualquier unidad administrativa de rango inferior al titular de la dependencia.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 220 DUODECIES.- Los servidores públicos sujetos al servicio civil podrán incorporarse a través de un examen de conocimientos y aptitudes que se aplicará en las fechas que determine el titular de la Contraloría.
+
+En caso de que no se acredite el examen, el aspirante continuará desempeñando el cargo, pero su ingreso al servicio solo podrá obtenerse cuando tome los cursos de capacitación correspondientes y resulte aprobados en éstos y en los exámenes de evaluación del desempeño.
+
+El personal será sujeto de un proceso de capacitación permanente que será organizado por el titular de la Contraloría. En especial, se procurará que el personal de la Contraloría cuente con la certificación de competencias laborales para la ejecución de las atribuciones conocido (sic) como "Estándar de Competencia EC0777".
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 220 TERDECIES.- Los servidores públicos adscritos al servicio civil de carrera estarán sujetos al siguiente esquema de evaluación:
+
+I. La evaluación constante del desempeño, la cual se efectuará de conformidad con los formatos (sic) establezca el titular de la Contraloría;
+
+II. La evaluación semestral a cargo del superior jerárquico inmediato del servidor público participante; y
+
+III. La evaluación anual por parte del titular de la Contraloría que será hecha con base en los resultados acumulados de las evaluaciones permanentes y semestrales realizadas a cada servidor público.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 220 QUATERDECIES.- En las evaluaciones se tomarán en cuenta los siguientes rasgos:
+
+I. El cumplimiento de los planes, programas y metas establecidas por el titular a través de los mecanismos oportunos;
+
+II. La organización existente en el área de trabajo de cada funcionario sujeto al sistema;
+
+III. La superación en los estudios del funcionario desde que se haya incorporado al servicio civil de carrera;
+
+IV. La calidad en la presentación de documentos respecto de extremos como la metodología, redacción y estilo; y
+
+V. la puntualidad y asistencia a las labores.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 220 QUINDECIES.- Los servidores públicos adscritos definitivamente al servicio civil de carrera tendrán, enunciativamente, los siguientes derechos:
+
+I. Los funcionarios que no sean trabajadores (sic) confianza, podrán permanecer en el cargo, independientemente del cambio de la administración o de sus superiores jerárquicos, siempre y cuando reúnan los requisitos establecidos en esta subsección;
+
+II. Acceder a estímulos por óptimo rendimiento;
+
+III. Recibir la capacitación periódica en los términos del artículo 220-Terdecies;
+
+IV. Obtener los reconocimientos o certificaciones por los cursos aprobados;
+
+V. Ascender a mejores cargos con base en su desempeño; y
+
+VII. Los demás que establezca el Código Municipal.
 
 > <small>(REFORMADA [N. DE E. REUBICADA ANTES SECCIÓN NOVENA], P.O. 4 DE MARZO DE 2019)</small>
 
@@ -5853,13 +6103,9 @@ III.- Adjudicación directa por cuadro comparativo cuando la contratación sea i
 
 IV.- Adjudicación directa prevista en el artículo 62 del reglamento, y
 
-V.- Compra urgente autorizada por el presidente municipal.
+V.- (DEROGADA, P.O. 13 DE JUNIO DE 2022)
 
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
-
-ARTICULO 349 TER.- La compra urgente autorizada por el presidente municipal, solo se tramitará para la adquisición de bienes y servicios que sean necesarios para hacer frente a contingencias ocasionadas por caso fortuito, fuerza mayor, cuando se ponga en peligro la seguridad, la salud pública del municipio, de algún servicio público o que de no contar con los mismos se pueda ver afectado el normal desempeño o funcionamiento de las dependencias de la administración pública municipal.
-
-Bastará con la solicitud presentada por la dependencia, en donde se justifique fundamente y motive los extremos previstos en el párrafo anterior ante la Dirección la cual de manera mancomunada con el presidente municipal en su caso emitirá la autorización correspondiente.
+ARTICULO 349 TER.- (DEROGADO, P.O. 13 DE JUNIO DE 2022)
 
 > <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
 
@@ -9173,7 +9419,13 @@ XIX.- Consejo Consultivo.- Al órgano colegiado de apoyo y auxilio para la reali
 
 XX.- Director General.- Al representante legal de la CAPAPA, con todas las facultades generales y especiales que le otorga la Ley y el presente título; y
 
-XXI.- Usuario: la persona, física o moral que utilice los servicios públicos.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE JUNIO DE 2022)</small>
+
+XXI.- Usuario: La persona, física o moral que utilice los servicios públicos ofrecidos por la CAPAPA; y
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2022)</small>
+
+XXII.- Órgano interno de control: Unidad administrativa a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -9517,9 +9769,9 @@ Los bienes inmuebles del organismo destinados directamente a la prestación de l
 
 ARTICULO 621 BIS.- Todos los ingresos que obtenga la CAPAPA con motivo del cobro de derechos, contribuciones, productos o aprovechamientos o los que se adquieran por cualquier motivo, serán destinados exclusivamente al pago de los gastos de construcción, administración, operación, mantenimiento y ampliación de los servicios de agua potable, alcantarillado y saneamiento, reuso de aguas y disposición final de Iodos, así como para la adquisición de equipos, instalaciones e infraestructuras.
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2022)</small>
 
-ARTICULO 621 TER.- El H. Ayuntamiento, podrá ordenar en cualquier momento, la realización de auditorías a CAPAPA, así como la inspección de libros, inventarios y cualquier otro documento que obre en poder del mismo, lo cual podrá realizarse por conducto de la Contraloría Municipal.
+ARTICULO 621 TER.- El Presidente Municipal o el Ayuntamiento, podrán ordenar la realización de auditorías a la CAPAPA, así como requerir la inspección de libros, inventarios y cualquier otro documento que obre en poder del organismo, lo cual podrá realizarse por conducto de la Contraloría Municipal.
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
@@ -9535,7 +9787,11 @@ III.- Un Director General;
 
 IV.- Un Director Operativo y un Director de Administración y Finanzas;
 
-V.- Un Comisario; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
+
+V.- Un órgano interno de control; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE JUNIO DE 2022)</small>
 
 VI.- El personal técnico y administrativo que se requiera para su funcionamiento.
 
@@ -9701,9 +9957,9 @@ Los acuerdos y resoluciones se tomarán por mayoría de votos de los asistentes 
 
 El Consejo Directivo se reunirá, por lo menos, una vez cada tres meses y cuantas veces fuere convocado por su Presidente, por el Director General o por el Comisario de la CAPAPA, por propia iniciativa o a petición del cincuenta por ciento más uno de los miembros de la misma.
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2022)</small>
 
-ARTICULO 626 BIS.- El H. Ayuntamiento a través de la Contraloría Municipal auditará y rendirá informes periódicos sobre el funcionamiento y administración del organismo operador.
+ARTICULO 626 BIS.- El titular del órgano interno de control de la CAPAPA auditará y rendirá informes bimestrales al Presidente del Consejo Directivo así como al Ayuntamiento sobre el funcionamiento y administración del organismo operador.
 
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
@@ -9769,15 +10025,21 @@ IX.- La falta de veracidad en toda clase de informes; y
 
 X.- No denunciar los delitos respecto de los cuales tenga conocimiento en razón de su encargo.
 
-La denuncia de cualquiera de las causas de remoción puede ser presentada ante el Presidente Municipal por cualquier ciudadano o usuario, debiendo verificarse la causa denunciada por el medio o conducto que el Presidente Municipal estime conveniente, según la gravedad de la denuncia, pudiendo ordenar, la auditoria externa de CAPAPA, sin perjuicio de las practicadas por el Contralor Municipal y/o el Comisario.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2022)</small>
 
-Para la remoción de cualquiera de los integrantes del Consejo Directivo que incurra en cualquiera de las causas antes señaladas, bastará con la verificación hecha por el Presidente Municipal, y dictamen sobre la denuncia, debiendo convocar al H. Ayuntamiento para que dictamine y en su caso nombre a quien deba sustituirlo.
+La denuncia de cualquiera de las causas de remoción puede ser presentada por cualquier ciudadano ante el titular del órgano interno de control de la CAPAPA, el cual procederá en los términos que señale la normatividad aplicable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JUNIO DE 2022)</small>
+
+El titular del órgano interno de control deberá dar vista al Presidente Municipal con las denuncias presentadas siempre que considere que existe mérito para ello. El Presidente Municipal, según la gravedad de la denuncia, podrá ordenar la práctica de auditorías externas, sin perjuicio de las practicadas por el órgano interno de control de la CAPAPA.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+Con base en la verificación hecha y en el dictamen sobre la denuncia, el Presidente Municipal podrá tomar las medidas provisionales que estime pertinentes, e incluso podrá convocar al Ayuntamiento para que determine si es procedente la sustitución del funcionario investigado y los términos en que ello deba ser realizado.
 
 > <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-#### SECCION CUARTA. Del Comisario
-
-> <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+#### SECCION CUARTA. Del control de los recursos
 
 ###### ARTICULO 628.
 
@@ -9923,7 +10185,7 @@ XXIX.- Suscribir, junto con el Presidente o Director de Finanzas y Administraci�
 
 XXX.- Las demás que le señale el Consejo Directivo, este Código, la ley de la materia y el Código Municipal.
 
-> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2007)</small>
+> <small>(ADICIONADA SU DENOMINACIÓN [N. DE E. REFORMADA], P.O. 13 DE JUNIO DE 2022)</small>
 
 #### SECCION PRIMERA. Definiciones
 
@@ -9931,49 +10193,19 @@ XXX.- Las demás que le señale el Consejo Directivo, este Código, la ley de la
 
 ###### ARTICULO 633.
 
-La CAPAPA contará con un Comisario, que será el Contralor Municipal, quien tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 13 DE JUNIO DE 2022)
 
-I. Vigilar que la administración de los recursos se haga de acuerdo con lo que disponga la Ley, los programas y presupuestos aprobados;
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2022)</small>
 
-II. Practicar la auditoría de los estados financieros y las de carácter técnico o administrativo al término del ejercicio o antes, si así lo considera conveniente;
+ARTICULO 633 BIS.- Es responsabilidad de los funcionarios de la CAPAPA, administrar y preservar el manejo y destino de los recursos financieros, humanos y sociales que integren el patrimonio del ente paramunicipal, que por razón de su encargo les hayan sido confiados.
 
-III. Rendir anualmente en sesión ordinaria del Consejo Directivo un informe respecto a la veracidad y suficiencia de la información presentada por el Director General;
+Cualquier contravención al deber anterior será sancionado conforme lo establezca el presente Código y las leyes en materia de responsabilidades administrativas de los servidores públicos.
 
-IV. Hacer que se inserten en el orden del día de las sesiones del Consejo Directivo los puntos que considere pertinentes;
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2022)</small>
 
-V. Convocar a sesiones ordinarias y extraordinarias en caso de omisión del Presidente o del Director General, y en cualquier otro caso en que lo juzgue conveniente;
+ARTICULO 633 TER.- El Presidente Municipal coordinará y supervisará las acciones que realicen los funcionarios de la CAPAPA, así como los integrantes del Consejo Directivo, a fin de vigilar el cumplimiento de las funciones establecidas en este Código y las que se deriven de la Ley de Aguas Nacionales, la Ley de Agua para el Estado y demás regulación aplicable a la materia. En las juntas del Consejo Directivo, deberá estar presente un miembro del H. Ayuntamiento, previamente designado por éste.
 
-VI. Asistir con voz, pero sin voto, a todas las sesiones del Consejo Directivo, a las que deberá ser citado;
-
-VII. Verificar el cumplimiento de las obligaciones fiscales correspondientes por el uso o aprovechamiento de aguas y bienes nacionales inherentes; y
-
-VIII. Supervisar permanentemente las operaciones de CAPAPA.
-
-El Comisario, para el debido cumplimiento de sus atribuciones, se podrá auxiliar del personal técnico que requiera, con cargo al organismo, con la aprobación del Consejo Directivo.
-
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
-
-ARTICULO 633 BIS.- Es responsabilidad de los funcionarios de CAPAPA, administrar, cuidar y mantener el desarrollo de los recursos financieros y humanos, así como el patrimonio y comunicación social de CAPAPA a su cargo cuando los funcionarios no cumplan con esta disposición, se procederá conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado.
-
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
-
-ARTICULO 633 TER.- El H. Ayuntamiento por conducto del Presidente Municipal, coordinará y supervisará las acciones que realicen los funcionarios de CAPAPA, así como de los integrantes del Consejo Directivo, vigilando que se cumplan las funciones establecidas en este Código y las que se deriven de la ley que regula la prestación de los servicios de agua potable, alcantarillado y saneamiento en el Estado de Aguascalientes y de la Ley Nacional de Aguas.
-
-En las juntas del Consejo Directivo, deberá estar presente un miembro del H. Ayuntamiento, previamente designado por éste.
-
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
-
-ARTICULO 633 QUATER.- Corresponde al Contralor Municipal, en relación con CAPAPA:
-
-I.- Aplicar las normas y criterios en materia de control y evaluación que deben ser observadas por CAPAPA;
-
-II.- Realizar auditorías periódicas a CAPAPA;
-
-III.- Participar en la entrega-recepción de CAPAPA; y
-
-IV.- Vigilar el desarrollo administrativo de CAPAPA a fin que se apliquen con eficiencia los recursos humanos y patrimoniales, realizando al respecto las observancias que considere pertinentes.
-
-Tanto el Presidente Municipal como el Contralor mantendrán informado al H. Ayuntamiento del ejercicio de sus funciones.
+ARTICULO 633 QUATER.- (DEROGADO, P.O. 13 DE JUNIO DE 2022)
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -10207,15 +10439,51 @@ XXXVI.- Obtener las autorizaciones y los permisos que se requieran para la adqui
 
 XXXVII.- Manejar el sistema comercial y el padrón de usuarios de la CAPAPA, así como el servicio de atención al público.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2022)</small>
+
+### CAPITULO QUINTO BIS. Del órgano interno de control
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 644 BIS.- La CAPAPA contará con un órgano interno de control que tendrá como objetivos promover, evaluar y fortalecer el buen funcionamiento del control interno de ese órgano paramunicipal, el cual será competente para aplicar las leyes en materia de responsabilidades de servidores públicos.
+
+El órgano interno de control de la CAPAPA contará con la estructura orgánica necesaria para cumplir las funciones descritas en el párrafo anterior y, en especial, para realizar las funciones correspondientes a las autoridades investigadoras, substanciadoras, resolutoras y de auditoría de tal modo que se asegure la independencia de estas en el ejercicio de sus funciones.
+
+Para la determinación de los requisitos que deberá cumplir el titular del órgano interno de control, así como del proceso para su designación y la aplicabilidad de las bases del servicio civil de carrera a que estarán sujetos quienes ocupen las jefaturas de departamento, oficina, unidad y, en general, las personas que presten sus servicios en las áreas de auditoría, investigación, sustanciación y resolución de ese ente, serán aplicables las disposiciones contenidas en los artículos 220-Bis a 220-Quindecies del presente Código.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+ARTICULO 644 TER.- Además de las facultades a que se refiere el artículo 35 de la Ley de Agua para el Estado de Aguascalientes, corresponde al titular del órgano interno de control:
+
+I. Aplicar las normas y criterios en materia de control y evaluación que deban ser observadas por la CAPAPA;
+
+II. Realizar auditorías periódicas a la CAPAPA;
+
+III. Participar en la entrega-recepción de la CAPAPA;
+
+IV. Vigilar el desarrollo administrativo da la CAPAPA a fin (sic) que se apliquen con eficiencia los recursos humanos y patrimoniales, para lo cual propondrá las observancias que considere pertinentes;
+
+V. Dar seguimiento a las observaciones formuladas acerca del desempeño de la CAPAPA y coordinar el proceso de solventación cuando las observaciones provengan de entes ajenos al órgano interno de control;
+
+VI. Vigilar que la administración de los recursos se haga de acuerdo con lo dispuesto en la Ley, los programas y presupuestos aprobados;
+
+VII. Practicar la auditoría de los estados financieros y las de carácter técnico o administrativo al término del ejercicio o antes, si así lo considera conveniente;
+
+VIII. Rendir anualmente durante la sesión ordinaria del Consejo Directivo un informe respecto a la veracidad y suficiencia de la información presentada por la Dirección General;
+
+IX. Asistir con voz, pero sin voto, a todas las sesiones del Consejo Directivo;
+
+X. Verificar el cumplimiento de las obligaciones fiscales correspondientes a la CAPAPA;
+
+XI. Supervisar permanentemente las operaciones de la CAPAPA; y
+
+XII. Las demás que se deriven de las leyes aplicables.
+
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
 
 ### CAPITULO SEXTO. De la Coordinación con el Instituto del Agua del Estado
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-### CAPITULO PRIMERO. De las Disposiciones Generales
-
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 645.
 
@@ -10239,7 +10507,7 @@ La Comisión podrá solicitar al Instituto del Agua del Estado, su coadyuvancia 
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2019)</small>
 
-### CAPITULO SEGUNDO. De facultades en materia de protección al ambiente
+### CAPITULO PRIMERO. De las Disposiciones Generales
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -10403,9 +10671,9 @@ LIX.- VERIFICACIÓN VEHICULAR: Es la medición de la cantidad de contaminantes a
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2019)</small>
 
-### CAPITULO TERCERO. De la Política Ambiental
+### CAPITULO SEGUNDO. De facultades en materia de protección al ambiente
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 651.
 
@@ -10495,9 +10763,9 @@ XXXIII.- Las demás que le confieran otros ordenamientos jurídicos en la materi
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2019)</small>
 
-### CAPITULO CUARTO. De la Planeación Ambiental
+### CAPITULO TERCERO. De la Política Ambiental
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 652.
 
@@ -10531,7 +10799,7 @@ IX.- El control y la prevención de la contaminación ambiental, el adecuado apr
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2019)</small>
 
-### CAPITULO QUINTO. De las Áreas Naturales Protegidas
+### CAPITULO CUARTO. De la Planeación Ambiental
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -10593,7 +10861,7 @@ XV.- Cualquier otro dato de interés relacionado con la biodiversidad y protecci
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2019)</small>
 
-### CAPÍTULO SEXTO. De la Protección y Bienestar Animal
+### CAPITULO QUINTO. De las Áreas Naturales Protegidas
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -11135,7 +11403,7 @@ En todo caso, el Municipio velará y realizará las acciones necesarias tendient
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2019)</small>
 
-### CAPITULO SEPTIMO. De la Protección y Aprovechamiento Racional del Agua
+### CAPÍTULO SEXTO. De la Protección y Bienestar Animal
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -11775,7 +12043,7 @@ V.- Los gastos que se eroguen por la manutención del animal asegurado, serán c
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2019)</small>
 
-### CAPITULO OCTAVO. De la Protección y Aprovechamiento del Suelo, y Manejo de Residuos Sólidos
+### CAPITULO SEPTIMO. De la Protección y Aprovechamiento Racional del Agua
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -11825,7 +12093,7 @@ Los usuarios tanto públicos como privados que generen descargas residuales en l
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2019)</small>
 
-### CAPÍTULO NOVENO. Del cambio climático, protección del aire y emisiones a la atmósfera
+### CAPITULO OCTAVO. De la Protección y Aprovechamiento del Suelo, y Manejo de Residuos Sólidos
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -11875,7 +12143,7 @@ Las industrias o talleres comprendidos dentro de la jurisdicción municipal, ser
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2019)</small>
 
-### CAPITULO DECIMO. De la Protección Contra la Contaminación Visual, por Olores, Ruidos, Vibraciones, Radiaciones u Otros Agentes
+### CAPÍTULO NOVENO. Del cambio climático, protección del aire y emisiones a la atmósfera
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -12029,7 +12297,7 @@ V.- El IMBIO tendrá en todo tiempo la facultad de imponer restricciones en los 
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2019)</small>
 
-### CAPITULO DECIMO PRIMERO. Protección de la Biodiversidad Local
+### CAPITULO DECIMO. De la Protección Contra la Contaminación Visual, por Olores, Ruidos, Vibraciones, Radiaciones u Otros Agentes
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -12051,7 +12319,7 @@ No se autorizará en las zonas habitacionales o colindantes a ellas, así como c
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2019)</small>
 
-### CAPITULO DECIMO SEGUNDO. De la Participación Social
+### CAPITULO DECIMO PRIMERO. Protección de la Biodiversidad Local
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -12071,7 +12339,7 @@ V.- Elaborar e implementar el Padrón Municipal de Mascotas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2019)</small>
 
-### CAPITULO DECIMO TERCERO. De la Promoción de la Educación Ambiental
+### CAPITULO DECIMO SEGUNDO. De la Participación Social
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -12167,7 +12435,7 @@ El Ayuntamiento, con la participación del Consejo Municipal de Protección al A
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2019)</small>
 
-### CAPITULO DECIMO CUARTO. De las Prohibiciones y Obligaciones de los Ciudadanos
+### CAPITULO DECIMO TERCERO. De la Promoción de la Educación Ambiental
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -12193,7 +12461,7 @@ VIII.- Realizará acuerdos con instituciones educativas y de investigación para
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2019)</small>
 
-### CAPITULO DECIMO QUINTO. De las Medidas de Seguridad y Contingencias Ambientales
+### CAPITULO DECIMO CUARTO. De las Prohibiciones y Obligaciones de los Ciudadanos
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -12325,7 +12593,7 @@ XXII.- Dañar o matar animales con el uso de resorteras en zonas urbanas y Rural
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2019)</small>
 
-### CAPITULO DECIMO SEXTO. De la Denuncia Popular
+### CAPITULO DECIMO QUINTO. De las Medidas de Seguridad y Contingencias Ambientales
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -12377,7 +12645,7 @@ El IMBIO podrá solicitar el auxilio de fuerza pública para efectuar visitas de
 
 > <small>(REFORMADO EN SU NUMERACIÓN, P.O. 4 DE MARZO DE 2019)</small>
 
-### CAPITULO PRIMERO. De Disposiciones Generales
+### CAPITULO DECIMO SEXTO. De la Denuncia Popular
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -12509,9 +12777,9 @@ XXI.- Utilizar a los vehículos tirados por animales para trasladar mercancías,
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2019)</small>
 
-### CAPITULO SEGUNDO. Del Sistema Municipal de Seguridad Pública
+### CAPITULO PRIMERO. De Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 711.
 
@@ -12761,9 +13029,9 @@ Los uniformes, insignias y divisas de los elementos de Seguridad Privada y corpo
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO TERCERO. Del Consejo Municipal de Seguridad Pública
+### CAPITULO SEGUNDO. Del Sistema Municipal de Seguridad Pública
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 726.
 
@@ -12817,7 +13085,7 @@ IV.- Dirección de Seguridad Pública.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO CUARTO. De la Participación Ciudadana
+### CAPITULO TERCERO. Del Consejo Municipal de Seguridad Pública
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -12939,9 +13207,9 @@ V.- Las demás que le señale este Libro, el Consejo, su Presidente y demás ord
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO QUINTO. De la Coordinación en Materia de Seguridad Pública
+### CAPITULO CUARTO. De la Participación Ciudadana
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 741.
 
@@ -13003,7 +13271,7 @@ El Consejo Municipal de Consulta y Participación Ciudadana en apoyo a la realiz
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEXTO. De la Dirección de Seguridad Pública y Movilidad
+### CAPITULO QUINTO. De la Coordinación en Materia de Seguridad Pública
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -13073,11 +13341,9 @@ Para efectos de los operativos que deban implementarse de manera conjunta entre 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2019)</small>
 
-### CAPITULO SEPTIMO
+### CAPITULO SEXTO. De la Dirección de Seguridad Pública y Movilidad
 
-Del Sistema Municipal de Información, Comunicaciones y Atención a la Ciudadanía.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 752.
 
@@ -13411,9 +13677,11 @@ Nadie podrá ingresar a la escala jerárquica y sus equivalencias, si no ha sido
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO OCTAVO. De la Profesionalización de los Elementos Operativos
+### CAPITULO SEPTIMO
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
+Del Sistema Municipal de Información, Comunicaciones y Atención a la Ciudadanía.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 762.
 
@@ -13521,9 +13789,9 @@ Las estadísticas de Seguridad Pública proporcionadas al CEMCOPABELLON permitir
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO NOVENO. De las Bases y Lineamientos de Actuación de los Elementos Operativos
+### CAPITULO OCTAVO. De la Profesionalización de los Elementos Operativos
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 773.
 
@@ -13669,9 +13937,9 @@ El Instituto Estatal de Seguridad Pública de Aguascalientes será una instancia
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO DECIMO. De la Etica y la Disciplina
+### CAPITULO NOVENO. De las Bases y Lineamientos de Actuación de los Elementos Operativos
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 777.
 
@@ -13931,9 +14199,9 @@ III.- Proporcionalidad: que el uso de la fuerza sea adecuado y corresponda a la 
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO DECIMO PRIMERO. Del Régimen Disciplinario
+### CAPITULO DECIMO. De la Etica y la Disciplina
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 #### SECCION SEGUNDA. De la Amonestación
 
@@ -14321,9 +14589,9 @@ LXXIX.- Las demás que le señalen las diversas leyes en la materia, los reglame
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2019)</small>
 
-### CAPITULO DECIMO SEGUNDO. De los Derechos, Estímulos y Recompensas
+### CAPITULO DECIMO PRIMERO. Del Régimen Disciplinario
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE MARZO DE 2019)</small>
 
 #### SECCION TERCERA. Del Arresto
 
@@ -14857,9 +15125,9 @@ VI.- Negarse a asistir a los cursos de formación, capacitación, actualización
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2011)</small>
 
-### CAPITULO DECIMO TERCERO. Del Consejo de Honor y Justicia
+### CAPITULO DECIMO SEGUNDO. De los Derechos, Estímulos y Recompensas
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 814.
 
@@ -14959,9 +15227,9 @@ XIII.- Los demás que señale en este código y demás ordenamientos legales.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2019)</small>
 
-### CAPITULO PRIMERO. De su Objeto y Funcionamiento
+### CAPITULO DECIMO TERCERO. Del Consejo de Honor y Justicia
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 821.
 
@@ -15545,7 +15813,7 @@ IV.- A los principios, de Justicia y Equidad.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEGUNDO. Del Personal del Servicio de Bomberos
+### CAPITULO PRIMERO. De su Objeto y Funcionamiento
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -15597,9 +15865,9 @@ El Servicio de Bomberos contará con auxiliares y voluntarios. Los auxiliares cr
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO PRIMERO. De las Disposiciones Generales
+### CAPITULO SEGUNDO. Del Personal del Servicio de Bomberos
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 851.
 
@@ -15745,9 +16013,9 @@ En todo lo relativo a derechos de los elementos del servicio de Bomberos, correc
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2019)</small>
 
-### CAPITULO SEGUNDO. De los Requisitos para Circular
+### CAPITULO PRIMERO. De las Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 857.
 
@@ -15833,7 +16101,7 @@ De acuerdo con lo dispuesto por la Ley de Vías Generales de Comunicación, el G
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO TERCERO. De la Circulación en las Vías Públicas
+### CAPITULO SEGUNDO. De los Requisitos para Circular
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -15855,7 +16123,7 @@ Las licencias estatales serán expedidas por la Dirección General. En caso de q
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO CUARTO. De los Estacionamientos, Sitios y Paradas
+### CAPITULO TERCERO. De la Circulación en las Vías Públicas
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16059,7 +16327,7 @@ III.- En igualdad de circunstancias de ancho y flujo vehicular, cuando al cruce 
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO QUINTO. De los Controles Administrativos
+### CAPITULO CUARTO. De los Estacionamientos, Sitios y Paradas
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16125,9 +16393,9 @@ Las restricciones de carácter general que establezca la Dirección para delimit
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEXTO. De la Detención de los Vehículos
+### CAPITULO QUINTO. De los Controles Administrativos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 886.
 
@@ -16175,9 +16443,9 @@ Agregarán en su reporte un parte informativo con el nombre de cualquier servido
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEPTIMO. De la Pensión Municipal
+### CAPITULO SEXTO. De la Detención de los Vehículos
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 891.
 
@@ -16313,7 +16581,7 @@ X.- Se procederá a recoger un documento de los mencionados en fracción anterio
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO PRIMERO. Disposiciones Generales
+### CAPITULO SEPTIMO. De la Pensión Municipal
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16671,7 +16939,7 @@ IV.- Con el producto del remate, la autoridad municipal procederá a cubrir el m
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEGUNDO. Del Consejo Municipal de Protección Civil
+### CAPITULO PRIMERO. Disposiciones Generales
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16709,7 +16977,7 @@ Las disposiciones del presente título tendrán aplicación a cualquier tipo de 
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO TERCERO. De las Obligaciones de los Ciudadanos en Materia de Protección Civil
+### CAPITULO SEGUNDO. Del Consejo Municipal de Protección Civil
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16823,7 +17091,7 @@ El Consejo Municipal de Protección Civil revisará periódicamente las instalac
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO CUARTO. De los Organismos Auxiliares de Protección Civil
+### CAPITULO TERCERO. De las Obligaciones de los Ciudadanos en Materia de Protección Civil
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16871,7 +17139,7 @@ VI.- Almacenar sustancias inflamables, peligrosas, contaminantes o de fácil com
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO QUINTO. De los Programas de Protección Civil
+### CAPITULO CUARTO. De los Organismos Auxiliares de Protección Civil
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16893,7 +17161,7 @@ Estos Organismos auxiliares podrán coadyuvar en el cumplimiento eficaz en los p
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEXTO. De la Coordinación
+### CAPITULO QUINTO. De los Programas de Protección Civil
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16973,7 +17241,7 @@ Los Programas Previstos tendrán la vigencia que se determine en cada caso, cuan
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEPTIMO. De los Grupos de Emergencia
+### CAPITULO SEXTO. De la Coordinación
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -16997,7 +17265,7 @@ Con el propósito de lograr una adecuada coordinación entre los Sistemas Nacion
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO PRIMERO. De las Disposiciones Generales
+### CAPITULO SEPTIMO. De los Grupos de Emergencia
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -17051,7 +17319,7 @@ Los grupos de emergencia establecidos en el territorio municipal, habrán de pre
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEGUNDO. De la Planeación del Desarrollo Urbano
+### CAPITULO PRIMERO. De las Disposiciones Generales
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -17307,7 +17575,7 @@ XXXVI.- Las demás que les señalen este Código y otras disposiciones jurídica
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO TERCERO. De las Regulaciones a la Propiedad en los Centros de Población
+### CAPITULO SEGUNDO. De la Planeación del Desarrollo Urbano
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -17529,7 +17797,7 @@ Los programas de desarrollo urbano tendrán una vigencia a partir de su publicac
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO CUARTO. De la Zonificación
+### CAPITULO TERCERO. De las Regulaciones a la Propiedad en los Centros de Población
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -17605,7 +17873,7 @@ V.- La definición de la infraestructura de las zonas de crecimiento y las modif
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO QUINTO. Del Control del Desarrollo Urbano
+### CAPITULO CUARTO. De la Zonificación
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -17707,9 +17975,9 @@ VII.- Las demás normas que de acuerdo con este Código sean procedentes.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEXTO. De la Vía Pública
+### CAPITULO QUINTO. Del Control del Desarrollo Urbano
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 1014.
 
@@ -17793,9 +18061,9 @@ Las constancias de compatibilidad urbanística tendrán una vigencia de tres añ
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEPTIMO. De la Nomenclatura y Números Oficiales
+### CAPITULO SEXTO. De la Vía Pública
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 1021.
 
@@ -17953,9 +18221,9 @@ La reparación de los daños que se ocasionen en esas zonas, correrán a cargo d
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO PRIMERO. De la Licencia de Construcción
+### CAPITULO SEPTIMO. De la Nomenclatura y Números Oficiales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 1039.
 
@@ -18193,9 +18461,9 @@ Una vez satisfechos los requisitos que establece el presente capítulo, la Direc
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEGUNDO. De los Peritos
+### CAPITULO PRIMERO. De la Licencia de Construcción
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1057.
 
@@ -18837,7 +19105,7 @@ Son aquellas vialidades cuya función es la de facilitar la movilidad de altos v
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO TERCERO. De los Proyectos Arquitectónicos
+### CAPITULO SEGUNDO. De los Peritos
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -18941,7 +19209,7 @@ Dentro del mismo lapso, la Dirección de Obras Públicas y Desarrollo Urbano pod
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO CUARTO. De las Instalaciones Hidráulicas y Eléctricas
+### CAPITULO TERCERO. De los Proyectos Arquitectónicos
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19365,7 +19633,7 @@ b) Parques y Jardines: 1 por cada 1000 m² terreno.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO QUINTO. De la Edificación para Habitación
+### CAPITULO CUARTO. De las Instalaciones Hidráulicas y Eléctricas
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19499,7 +19767,7 @@ Deberán dejarse registros, ductos y preparaciones para instalaciones telefónic
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEXTO. De la Edificación para Comercios y Servicios
+### CAPITULO QUINTO. De la Edificación para Habitación
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19601,7 +19869,7 @@ II.- Los desechos biológicos de los animales deberán de ser canalizados hacia 
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEPTIMO. De la Edificación para Centros de Reunión y Espectáculos
+### CAPITULO SEXTO. De la Edificación para Comercios y Servicios
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -19943,7 +20211,7 @@ Los laboratorios que manejen productos dañinos al contacto de la piel deberán 
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO PRIMERO. Disposiciones Generales
+### CAPITULO SEPTIMO. De la Edificación para Centros de Reunión y Espectáculos
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -20257,7 +20525,7 @@ Las áreas destinadas a andadores, deberán estar libres de los estorbos que pue
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEGUNDO. De los Criterios de Diseño
+### CAPITULO PRIMERO. Disposiciones Generales
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -20409,7 +20677,7 @@ No se permitirá que las instalaciones de gas, agua y drenaje crucen juntas cons
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO TERCERO. De la Evaluación de la Seguridad
+### CAPITULO SEGUNDO. De los Criterios de Diseño
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -20453,7 +20721,7 @@ Las fuerzas internas y las deformaciones producidas por los sistemas de acciones
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO CUARTO. Del Diseño por Sismo
+### CAPITULO TERCERO. De la Evaluación de la Seguridad
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -20681,7 +20949,7 @@ Los drenajes de cubiertas y azoteas deberán proyectarse de tal manera que garan
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO QUINTO. De las Normas Técnicas Complementarias y Supletorias
+### CAPITULO CUARTO. Del Diseño por Sismo
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21087,7 +21355,7 @@ Si una estructura pasa las pruebas de carga de acuerdo con los criterios señala
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO PRIMERO. De las Generalidades
+### CAPITULO QUINTO. De las Normas Técnicas Complementarias y Supletorias
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21101,7 +21369,7 @@ serán Normas Técnicas Complementarias del presente libro las pertenecientes al
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEGUNDO. De los Materiales de Construcción y Obras en la Vía Pública
+### CAPITULO PRIMERO. De las Generalidades
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21193,7 +21461,7 @@ En las obras de construcción, deberán proporcionarse a los trabajadores servic
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO TERCERO. De los Tapiales
+### CAPITULO SEGUNDO. De los Materiales de Construcción y Obras en la Vía Pública
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21279,7 +21547,7 @@ Los vehículos que carguen o descarguen materiales para una obra en la vía púb
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO CUARTO. De las Demoliciones
+### CAPITULO TERCERO. De los Tapiales
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21321,9 +21589,9 @@ Los rótulos o anuncios sobre los tapiales se sujetarán a las disposiciones del
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO QUINTO. De las Mediciones y Trazos
+### CAPITULO CUARTO. De las Demoliciones
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 1369.
 
@@ -21367,9 +21635,9 @@ La Dirección de Obras Públicas y Desarrollo Urbano podrá ordenar que se suspe
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEXTO. De las Excavaciones, Rellenos y Cimentación
+### CAPITULO QUINTO. De las Mediciones y Trazos
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1375.
 
@@ -21401,7 +21669,7 @@ Las separaciones entre construcciones deberán protegerse por medio de tapajunta
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEPTIMO. De las Cimbras, Andamios y Estructuras de Madera
+### CAPITULO SEXTO. De las Excavaciones, Rellenos y Cimentación
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21507,7 +21775,7 @@ Todos los cimientos deberán tener capa impermeabilizante que impida el ascenso 
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO OCTAVO. De la Mampostería y el Concreto
+### CAPITULO SEPTIMO. De las Cimbras, Andamios y Estructuras de Madera
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21607,7 +21875,7 @@ La ejecución de las estructuras de madera deberá ajustarse a las especificacio
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO NOVENO. De las Estructuras Metálicas
+### CAPITULO OCTAVO. De la Mampostería y el Concreto
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21765,7 +22033,7 @@ Los elementos de concreto simple, reforzado o presforzado que se encuentren expu
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO DECIMO. De las Instalaciones
+### CAPITULO NOVENO. De las Estructuras Metálicas
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21831,9 +22099,7 @@ En juntas importantes de penetración completa, la revisión se complementará p
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO DECIMO PRIMERO
-
-De las Fachadas y Recubrimientos.
+### CAPITULO DECIMO. De las Instalaciones
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21889,7 +22155,9 @@ Para la instalación y funcionamiento de calderas, compresores y líneas o salid
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO PRIMERO. Del Uso de Predios y Edificaciones
+### CAPITULO DECIMO PRIMERO
+
+De las Fachadas y Recubrimientos.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -21969,7 +22237,7 @@ Los elementos aislados, tales como fuentes, esculturas, arcos, columnas, monumen
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEGUNDO. Del Mantenimiento
+### CAPITULO PRIMERO. Del Uso de Predios y Edificaciones
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -22017,7 +22285,7 @@ Lo anterior independientemente de las sanciones a que se haga acreedor conforme 
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO PRIMERO. De las Disposiciones Generales
+### CAPITULO SEGUNDO. Del Mantenimiento
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -22043,9 +22311,9 @@ Quedan prohibidas instalaciones y construcciones precarias en las zonas de las e
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEGUNDO. De las Licencias, Permisos y el Empadronamiento
+### CAPITULO PRIMERO. De las Disposiciones Generales
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 1455.
 
@@ -22113,9 +22381,9 @@ XXIX.- ZONA DE TOLERANCIA: Área perfectamente delimitada y controlada por la au
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO TERCERO. De los Horarios
+### CAPITULO SEGUNDO. De las Licencias, Permisos y el Empadronamiento
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 1456.
 
@@ -22361,7 +22629,7 @@ III.- Una vez autorizado el respectivo empadronamiento deberán liquidar los der
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO CUARTO. De las Obligaciones de los Comerciantes, Industriales y Prestadores de Servicios
+### CAPITULO TERCERO. De los Horarios
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -22399,7 +22667,7 @@ X.- De las 9:00 a las 01:00 horas del día siguiente: Salones de Fiesta, salones
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO QUINTO. De las Cámaras, Asociaciones y Uniones
+### CAPITULO CUARTO. De las Obligaciones de los Comerciantes, Industriales y Prestadores de Servicios
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -22495,7 +22763,7 @@ Las personas que se dediquen a la venta de revistas y periódicos en estanquillo
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO PRIMERO. Disposiciones Generales
+### CAPITULO QUINTO. De las Cámaras, Asociaciones y Uniones
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -22533,7 +22801,7 @@ Mediante convenios, la administración municipal apoyará a las cámaras, asocia
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEGUNDO. Derechos y Obligaciones de los Comerciantes en la Vía Pública
+### CAPITULO PRIMERO. Disposiciones Generales
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -22597,7 +22865,7 @@ XIII.- Cubrir el pago de la credencial o gafete y los derechos correspondientes 
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO TERCERO. De los Aseadores de Calzado y de Vehículos en la Vía Publica
+### CAPITULO SEGUNDO. Derechos y Obligaciones de los Comerciantes en la Vía Pública
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -22705,7 +22973,7 @@ Asimismo no se autorizará a aquellos que vendan talismanes, amuletos, o cualqui
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO CUARTO. De los Filarmónicos y Grupos Acústicos
+### CAPITULO TERCERO. De los Aseadores de Calzado y de Vehículos en la Vía Publica
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -22743,7 +23011,7 @@ VIII.- Portar su identificación de manera visible.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO QUINTO. De los Estacionamientos Públicos
+### CAPITULO CUARTO. De los Filarmónicos y Grupos Acústicos
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -22785,9 +23053,9 @@ La reincidencia de las contravenciones a estas normas, será motivo suficiente p
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO PRIMERO. De la Venta y Consumo de Bebidas Alcohólicas
+### CAPITULO QUINTO. De los Estacionamientos Públicos
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 1507.
 
@@ -22817,9 +23085,9 @@ Corresponde al H. Ayuntamiento fijar las tarifas de pago y horario de servicio d
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEGUNDO. Del Ejercicio de la Prostitución
+### CAPITULO PRIMERO. De la Venta y Consumo de Bebidas Alcohólicas
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 1511.
 
@@ -23055,7 +23323,7 @@ XVIII.- Respetar cualquiera de las limitaciones que le impone el presente códig
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO TERCERO. De las Farmacias, Droguerías, Tlapalerías o Similares
+### CAPITULO SEGUNDO. Del Ejercicio de la Prostitución
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -23320,6 +23588,40 @@ XV.- Asistir a las pláticas de orientación para la salud que sea convocada por
 Los trabajadores de los establecimientos autorizados para el ejercicio de la prostitución deben someterse a análisis de laboratorio cada 6 meses, con el objeto de verificar que no hayan adquirido alguna enfermedad venérea.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+
+### CAPITULO TERCERO. De las Farmacias, Droguerías, Tlapalerías o Similares
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+
+###### ARTICULO 1556.
+
+Los lugares destinados a la venta de substancias de efecto psicotrópico, se clasifican en: ferreterías, supermercados, tlapalerías, empresas industriales, farmacias, boticas, droguerías y cualquier establecimiento similar que expenda cualquiera de los productos señalados en el presente libro, quedando prohibida su venta a menores de edad.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+
+###### ARTICULO 1557.
+
+Estas negociaciones deberán llevar un libro de registro en donde señalen el nombre, domicilio, edad y oficio y datos del documento con el que se identificó el comprador, así como la descripción y cantidad del producto que se le vendió y la fecha de venta.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+
+###### ARTICULO 1558.
+
+La Secretaría del H. Ayuntamiento, podrá formular un padrón de farmacias para establecer los turnos relativos al servicio de 24 horas del día, que serán ininterrumpidos por los días del año, al cuál están obligados todos los establecimientos respectivos.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+
+###### ARTICULO 1559.
+
+Las farmacias en general deberán contar, con un químico fármaco biólogo, legalmente autorizado e inscribirse en el padrón del H. ayuntamiento.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+
+###### ARTICULO 1560.
+
+No podrán expender sin receta médica los medicamentos que determine la Secretaría de Salud.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO, P.O. 4 DE MARZO DE 2019)</small>
 
 ### CAPITULO CUARTO. De la compra, venta, acopio y reciclado de materiales
 
@@ -23819,45 +24121,11 @@ IV.- Por incumplimiento a las disposiciones del Código Municipal, el presente c
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-###### ARTICULO 1556.
-
-Los lugares destinados a la venta de substancias de efecto psicotrópico, se clasifican en: ferreterías, supermercados, tlapalerías, empresas industriales, farmacias, boticas, droguerías y cualquier establecimiento similar que expenda cualquiera de los productos señalados en el presente libro, quedando prohibida su venta a menores de edad.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 1557.
-
-Estas negociaciones deberán llevar un libro de registro en donde señalen el nombre, domicilio, edad y oficio y datos del documento con el que se identificó el comprador, así como la descripción y cantidad del producto que se le vendió y la fecha de venta.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 1558.
-
-La Secretaría del H. Ayuntamiento, podrá formular un padrón de farmacias para establecer los turnos relativos al servicio de 24 horas del día, que serán ininterrumpidos por los días del año, al cuál están obligados todos los establecimientos respectivos.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 1559.
-
-Las farmacias en general deberán contar, con un químico fármaco biólogo, legalmente autorizado e inscribirse en el padrón del H. ayuntamiento.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 1560.
-
-No podrán expender sin receta médica los medicamentos que determine la Secretaría de Salud.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO, P.O. 4 DE MARZO DE 2019)</small>
-
-### CAPITULO PRIMERO. De los Eventos de Diversión y Entretenimiento
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
 ## TITULO CUARTO. DE LOS ESPECTACULOS PUBLICOS EN GENERAL
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEGUNDO. De los Eventos Deportivos
+### CAPITULO PRIMERO. De los Eventos de Diversión y Entretenimiento
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -23917,7 +24185,7 @@ Los espectadores que originen falsas alarmas infundiendo pánico en el público 
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO TERCERO. De los Bailes Públicos
+### CAPITULO SEGUNDO. De los Eventos Deportivos
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -23969,7 +24237,7 @@ La Presidencia Municipal por conducto de la Secretaría del H. Ayuntamiento, aut
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO PRIMERO. De las Disposiciones Generales
+### CAPITULO TERCERO. De los Bailes Públicos
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -23999,7 +24267,7 @@ VIII.- Las demás que se establezcan en el presente Código y demás normas jur�
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEGUNDO. De la Autoridad
+### CAPITULO PRIMERO. De las Disposiciones Generales
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -24051,7 +24319,7 @@ XXI.- Indulto: Beneficio otorgado por el Juez de Plaza a una res, debido a su ex
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO TERCERO. De las Características de las Plazas de Toros
+### CAPITULO SEGUNDO. De la Autoridad
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -24123,7 +24391,7 @@ La empresa proveerá de todo lo necesario para el buen funcionamiento de los ser
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO CUARTO. De las Clases de Espectáculos Taurinos
+### CAPITULO TERCERO. De las Características de las Plazas de Toros
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -24187,7 +24455,7 @@ Las plazas de toros, deberán tener instalaciones sanitarias separadas y en núm
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO QUINTO. De los Derechos y Obligaciones de los Espectadores
+### CAPITULO CUARTO. De las Clases de Espectáculos Taurinos
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -24283,7 +24551,7 @@ Las empresas deberán acatar todos los acuerdos y disposiciones que dicten las a
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEXTO. De las Reses de Lidia
+### CAPITULO QUINTO. De los Derechos y Obligaciones de los Espectadores
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -24337,7 +24605,7 @@ El espectador que durante la permanencia de una res en el ruedo se lance al mism
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEPTIMO. De la Cuadra de Caballos
+### CAPITULO SEXTO. De las Reses de Lidia
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -24393,7 +24661,7 @@ En las becerradas, festivales en que los diestros actúen con traje corto y en c
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO OCTAVO. De los Actos Previos a la Lidia
+### CAPITULO SEPTIMO. De la Cuadra de Caballos
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -24441,7 +24709,7 @@ Los caballos que resulten con heridas graves a juicio de los Veterinarios, en el
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO NOVENO. Del Desarrollo de la Lidia
+### CAPITULO OCTAVO. De los Actos Previos a la Lidia
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -24559,7 +24827,7 @@ Queda prohibido el uso simultáneo de los colores verde, blanco y rojo en el ado
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO DÉCIMO. Del Rejoneo y los Forcados
+### CAPITULO NOVENO. Del Desarrollo de la Lidia
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -24879,7 +25147,7 @@ Durante la lidia estará prohibida la venta de cualquier mercancía. Entre una r
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO PRIMERO. De las Disposiciones Generales
+### CAPITULO DÉCIMO. Del Rejoneo y los Forcados
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -25005,11 +25273,9 @@ Los toros para forcados podrán estar sin puntas, embolados o cubrir los cuernos
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEGUNDO
+### CAPITULO PRIMERO. De las Disposiciones Generales
 
-Del Patronato de Ferias y Fiestas Municipales de Pabellón de Arteaga, Ags.
-
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 1698.
 
@@ -25061,9 +25327,11 @@ VI.- Los Comités.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO TERCERO. De los Comités
+### CAPITULO SEGUNDO
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+Del Patronato de Ferias y Fiestas Municipales de Pabellón de Arteaga, Ags.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 1701.
 
@@ -25267,7 +25535,7 @@ Asimismo, el Patronato deberá rendir un informe semestral al ayuntamiento de to
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO CUARTO. De los Expositores y Feriantes
+### CAPITULO TERCERO. De los Comités
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -25415,9 +25683,9 @@ El representante del Patronato, exigirá la rendición de cuentas a los comités
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO QUINTO. De la Feria Regional de la Revolución Mexicana de Pabellón de Arteaga
+### CAPITULO CUARTO. De los Expositores y Feriantes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 1729.
 
@@ -25787,9 +26055,9 @@ La violación de los artículos relativos a la celebración de actos mediante au
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEXTO. De la Supervisión, Sanciones y Estímulos
+### CAPITULO QUINTO. De la Feria Regional de la Revolución Mexicana de Pabellón de Arteaga
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 1779.
 
@@ -25857,7 +26125,7 @@ Los fondos que se obtengan de la administración de la Feria Regional de la Revo
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO PRIMERO. De los Principios Generales
+### CAPITULO SEXTO. De la Supervisión, Sanciones y Estímulos
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -25945,7 +26213,7 @@ Una vez realizada la auditoría a la fiesta o feria, el H. Ayuntamiento en pleno
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEGUNDO. Del Procedimiento Administrativo
+### CAPITULO PRIMERO. De los Principios Generales
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -26009,7 +26277,7 @@ En los actos administrativos de carácter general tendrá efectos de notificaci�
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO TERCERO. De los Términos
+### CAPITULO SEGUNDO. Del Procedimiento Administrativo
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -26119,7 +26387,7 @@ En ningún trámite administrativo se admitirá la gestión de negocios.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO CUARTO. De las Notificaciones
+### CAPITULO TERCERO. De los Términos
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -26165,7 +26433,7 @@ En los términos fijados en días por disposiciones generales, o por autoridades
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO QUINTO. De las Verificaciones e Inspecciones
+### CAPITULO CUARTO. De las Notificaciones
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -26217,9 +26485,9 @@ La manifestación que haga el interesado, su representante legal o quien esté a
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEXTO. De los Jueces Calificadores de Seguridad Pública y Vialidad
+### CAPITULO QUINTO. De las Verificaciones e Inspecciones
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 1828.
 
@@ -26563,11 +26831,11 @@ La información contenida en el Registro de Infractores tendrá como objeto el d
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
+### CAPITULO SEXTO. De los Jueces Calificadores de Seguridad Pública y Vialidad
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
+
 ### CAPITULO SEPTIMO. De los Centros de Detención
-
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-### CAPITULO OCTAVO. Del Procedimiento en los Centros de Detención
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -26703,7 +26971,7 @@ Cualquier irregularidad que se detecte en el área de celdas deberá ser reporta
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO NOVENO. De los Receptores de Presuntos Infractores y Pertenencias
+### CAPITULO OCTAVO. Del Procedimiento en los Centros de Detención
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -26971,7 +27239,7 @@ La persona que incurra en alguna irregularidad en relación a este capítulo, se
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO PRIMERO. De las Disposiciones Generales
+### CAPITULO NOVENO. De los Receptores de Presuntos Infractores y Pertenencias
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -27037,7 +27305,7 @@ Cuando el valor de los objetos exceda de dicho valor se procederá a solicitar s
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEGUNDO. De las Faltas Cívicas
+### CAPITULO PRIMERO. De las Disposiciones Generales
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -27189,7 +27457,7 @@ En caso de clausura provisional como medida de seguridad, ésta podrá prolongar
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO TERCERO. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad
+### CAPITULO SEGUNDO. De las Faltas Cívicas
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -27383,7 +27651,7 @@ XII.- Expender o proporcionar a menores de edad bebidas alcohólicas, tabaco, t�
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO CUARTO. Del Procedimiento ante el Juez Calificador
+### CAPITULO TERCERO. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -27543,7 +27811,7 @@ Si existiere una condena en cantidad líquida, se enviará copia de la resoluci�
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO PRIMERO. De las Sanciones en Materia de Faltas Cívicas
+### CAPITULO CUARTO. Del Procedimiento ante el Juez Calificador
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -27777,7 +28045,7 @@ Para toda violación a las normas y disposiciones municipales previstas en el pr
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEGUNDO. De las Sanciones en Materia de Servicios Públicos y Ecología
+### CAPITULO PRIMERO. De las Sanciones en Materia de Faltas Cívicas
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -28003,7 +28271,7 @@ En caso de que la falta cívica sea la prevista en la fracción XIII del artícu
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MARZO DE 2018)</small>
 
-### CAPITULO TERCERO. De las Sanciones en Materia de Desarrollo Urbano
+### CAPITULO SEGUNDO. De las Sanciones en Materia de Servicios Públicos y Ecología
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -28213,9 +28481,9 @@ En materia de mercados, las establecidas en el capítulo correspondiente.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO CUARTO. De las Sanciones en Materia de Actividades Comerciales, Industriales y de Prestación de Servicios
+### CAPITULO TERCERO. De las Sanciones en Materia de Desarrollo Urbano
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 2013.
 
@@ -28379,9 +28647,9 @@ IV.- La revocación de Licencia será pronunciada por la Autoridad que haya emit
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO QUINTO. De las Sanciones en Materia de Espectáculos Públicos
+### CAPITULO CUARTO. De las Sanciones en Materia de Actividades Comerciales, Industriales y de Prestación de Servicios
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2017)</small>
 
 ###### ARTICULO 2024.
 
@@ -28529,9 +28797,9 @@ Del procedimiento de cancelación de licencias y permisos, conocerá y resolver�
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEXTO. De las Sanciones en Materia de Espectáculos Taurinos
+### CAPITULO QUINTO. De las Sanciones en Materia de Espectáculos Públicos
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 2028.
 
@@ -28607,9 +28875,9 @@ d) Por no contar el establecimiento en que se celebra el evento o espectáculo, 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEPTIMO. De las Sanciones en Materia de Comercio en la Vía Pública
+### CAPITULO SEXTO. De las Sanciones en Materia de Espectáculos Taurinos
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
 
 ###### ARTICULO 2029.
 
@@ -28633,9 +28901,9 @@ Para efectos de la aplicación de sanciones, empresarios y ganaderos son solidar
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO OCTAVO. De las Sanciones en Materia de Prostitución
+### CAPITULO SEPTIMO. De las Sanciones en Materia de Comercio en la Vía Pública
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2017)</small>
 
 ###### ARTICULO 2031.
 
@@ -28749,7 +29017,7 @@ Se procederá a la reubicación del comerciante, cuando la estructura del puesto
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO PRIMERO. De la Interposición del Recurso
+### CAPITULO OCTAVO. De las Sanciones en Materia de Prostitución
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -28885,7 +29153,7 @@ III.- Se resista sin justificación a los reconocimientos médicos y clínicos q
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO SEGUNDO. De la Resolución del Recurso
+### CAPITULO PRIMERO. De la Interposición del Recurso
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -28971,7 +29239,7 @@ La autoridad deberá acordar, en su caso, la suspensión o la denegación de la 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
 
-### CAPITULO TERCERO. De la Impugnación de las Notificaciones
+### CAPITULO SEGUNDO. De la Resolución del Recurso
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -29038,6 +29306,10 @@ VI.- No se probare la existencia del acto respectivo.
 La resolución del recurso se realizará de conformidad con lo establecido en la Ley del Procedimiento Administrativo, debiendo siempre fundarse en derecho y examinar todos y cada uno de los agravios hechos valer por el recurrente teniendo la autoridad la facultad de invocar hechos notorios, pero, cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado bastará con el examen de dicho punto.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2006)</small>
+
+### CAPITULO TERCERO. De la Impugnación de las Notificaciones
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 2060.
 
@@ -29492,3 +29764,15 @@ P.O. 9 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR MEDIO DEL CUAL SE REFORMA DEL ARTÍCULO 683-BIS DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA”.]
 
 ÚNICO: La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR MEDIO DE LA CUAL SE REFORMAN LOS ARTÍCULOS 21, FRACCIÓN VII, 23, FRACCIÓN IV, 220, ENCABEZADO, 621-TER, 622, FRACCIONES V Y VI, 626-BIS, 627-QUATER, 633-BIS Y 633-TER; SE ADICIONAN LOS ARTÍCULOS 220-BIS A 220-QUINDECIES, INTEGRADOS EN TRES SUBSECCIONES, LA PRIMERA "DE LA COMPETENCIA", CONFORMADA POR EL ARTÍCULO 220, LA SEGUNDA "DE LOS REQUISITOS Y EL PROCEDIMIENTO DE DESIGNACIÓN", QUE ABARCA DE LOS ARTÍCULOS 220-BIS A 220-DECIES, Y TERCERA "DEL SERVICIO CIVIL DE CARRERA DE LA CONTRALORÍA", CONFORMADA POR LOS ARTÍCULOS 220-UNDECCIES A 220-QUINDECIES; ADEMÁS DE QUE SE ADICIONAN LOS ARTÍCULOS 604, FRACCIONES XXI Y XXII; 644-BIS Y 644-TER; SE CREAN LA SECCIÓN CUARTA "DEL CONTROL DE LOS RECURSOS", CONFORMADA POR LOS ARTÍCULOS 633 A 633-QUATER, Y EL CAPÍTULO QUINTO-BIS "DEL ÓRGANO INTERNO DE CONTROL”, INTEGRADO POR LOS ARTÍCULOS 644-BIS Y 644-TER, Y SE DEROGAN LOS ARTÍCULOS 349-BIS, FRACCIÓN V, 349-TER, 633 Y 633-QUATER; TODOS DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA; Y, ASIMISMO, SE REFORMA EL ARTÍCULO 39, ASÍ COMO LAS FRACCIONES II Y V DEL ARTÍCULO 62; Y SE DEROGA LA FRACCIÓN VIII DEL MISMO ARTÍCULO 62, TODOS DEL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL MUNICIPIO DE PABELLÓN DE ARTEAGA”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Las disposiciones referentes a la designación del Contralor Municipal se aplicarán en la siguiente ocasión en la que deba nombrarse a dicho servidor público. Por lo tanto, el Contralor Municipal en funciones continuará desempeñando el encargo hasta la terminación del periodo para el que fue designado o hasta que se separe de él por cualquier motivo.
+
+Artículo Tercero. El Ayuntamiento contará con un plazo de un año contado a partir de la entrada en vigor del presente Decreto para proveer las adecuaciones administrativas o presupuestales que sean necesarias para la creación de los órganos internos de control de los entes paramunicipales y para la designación de sus respectivos titulares, así como para emprender las acciones pertinentes para la puesta en marcha del servicio civil de carrera en los términos señalados por la presente normatividad. Será hasta entonces cuando dichas disposiciones resulten aplicables a los supuestos regulados por ellas.
+
+Artículo Cuarto. Mientras se crea el órgano interno de control de la Comisión de Agua Potable y Alcantarillado del Municipio de Pabellón de Arteaga, el Comisario de ese ente continuará desempeñando las funciones que le asignan las disposiciones referentes a dicho cargo, según lo establecido en las normas aplicables antes de la entrada en vigor del presente Decreto.
