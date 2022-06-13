@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2022-05-23"
+last_updated: "2022-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -158,6 +158,10 @@ Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, acce
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
 Las autoridades adoptarán las medidas necesarias para garantizar el ejercicio de este derecho, particularmente en el uso equitativo del espacio vial, el cual será adecuado a las necesidades sociales y ambientales de la ciudad.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+Toda persona tiene derecho a ser protegida por el Estado y sus Municipios ante desastres naturales o emergencias sanitarias. El Estado y sus Municipios serán responsables de llevar a cabo políticas públicas de prevención, atención y de cuidado inmediato.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -3552,3 +3556,15 @@ P.O. 23 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 94.- SE REFORMA EL PÁRRAFO DÉCIMO PRIMERO DEL ARTÍCULO 4° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
 
 ÚNICO.- Una vez cubiertos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 114.- SE ADICIONA UN PÁRRAFO DÉCIMO QUINTO AL ARTÍCULO 4° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Una vez cubiertos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
