@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2022-04-13"
+last_updated: "2022-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -5833,7 +5833,9 @@ II.- Intervenir quirúrgicamente a animales sin anestesia, salvo el caso de urge
 
 III.- Experimentar con animales pudiendo utilizar otros métodos para obtener el resultado deseado o se utilicen animales de grado superior en la escala zoológica al indispensable según la naturaleza del protocolo de investigación;
 
-IV.- Exponer al animal a riesgos que amenacen su integridad física o la de terceras personas;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2022)</small>
+
+IV.- Exponer al animal a riesgos que amenacen su integridad física o la de terceras personas, así como abandonarlo en la vía pública o encerrado en un inmueble, dejándolo en estado de indefensión, sin alimento y desprotegido;
 
 V.- Lastimar o arrollar animales intencionalmente, causándoles torturas o sufrimientos innecesarios o matarlos por el ánimo de perversidad o diversión;
 
@@ -6972,3 +6974,11 @@ Se concede un plazo de 90 días, a partir de la entrada en vigor del presente De
 ###### ARTÍCULO TERCERO.
 
 Inmediatamente después de que el Registro Estatal de Deudores Alimentarios Morosos entre en funciones se deberá dar trámite a las resoluciones judiciales que se hubieren efectuado durante el periodo existente entre la entrada en vigor de este decreto y el inicio de operaciones del referido Registro.
+
+P.O. 14 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-162 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 468, FRACCIÓN IV DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
