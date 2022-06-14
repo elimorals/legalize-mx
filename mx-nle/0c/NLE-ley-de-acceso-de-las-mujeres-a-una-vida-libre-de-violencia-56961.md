@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2022-06-13"
+last_updated: "2022-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -1195,17 +1195,23 @@ IX. Promover la cultura de respeto a los derechos humanos de las mujeres y garan
 
 X. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2022)</small>
 
-XI. Crear un registro sistemático de delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que se tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
+XI. Crear un registro sistemático de delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que se tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victima para definir políticas en materia de prevención del delito, procuración y administración de justicia, el cual deberá actualizarse y ser accesible en el portal electrónico de la Fiscalía;
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2022)</small>
 
-XII. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual; y
+XII. Elaborar y aplicar el protocolo Alba y demás protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual;
 
-> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XI], P.O. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2022)</small>
 
-XIII. Las demás previstas para el cumplimiento de la presente Ley.
+XIII. Garantizar que los protocolos Alba, Amber y demás que tengan como objetivo la búsqueda de personas desaparecidas, se realicen cumpliendo con los ejes rectores de debida diligencia, derecho de prioridad de menores de edad, interés superior de la niñez, igualdad y no discriminación, detección de factores de vulnerabilidad, presunción de riesgo, no estigmatización, vida, supervivencia y desarrollo y enfoque de género.
+
+Notificar al Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León cuando se detecten a menores cuyo padre, madre o persona cuidadora es víctima de desaparición con la finalidad de mitigar las consecuencias de ser víctima indirecta de este delito; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE JUNIO DE 2022)</small>
+
+XIV. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 37.
 
@@ -1517,6 +1523,10 @@ X. Los demás señalados en esta Ley y otras disposiciones legales.
 
 El agresor deberá participar obligatoriamente en los programas de reeducación integral, cuando se le determine por mandato de autoridad competente.
 
+### CAPÍTULO X. PROTOCOLO ALBA
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2022)</small>
+
 ###### Artículo 47.
 
 En los casos en que persista algún riesgo para la integridad física de las víctimas y ofendidos de violencia, la autoridad u organismo competente deberá canalizar a las víctimas y ofendidos de violencia, a los refugios en los términos de esta Ley.
@@ -1608,6 +1618,130 @@ En ningún caso se podrá mantener a las víctimas en los refugios en contra de 
 ###### Artículo 56.
 
 En los casos previstos en esta Ley, serán aplicables supletoriamente a esta Ley el Código Civil para el Estado de Nuevo León, el Código de Procedimientos Civiles para el Estado de Nuevo León, el Código Penal para el Estado de Nuevo León, el Código Nacional de Procedimientos Penales, la Ley de Prevención y Atención Integral de la Violencia Familiar en el Estado de Nuevo León, la Ley para la Igualdad entre Mujeres y Hombres del Estado de Nuevo León, la Ley del Instituto Estatal de las Mujeres y la Ley que Crea la Comisión Estatal de Derechos Humanos y las demás leyes relativas a la materia.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2022)</small>
+
+###### Artículo 57.
+
+El Protocolo Alba es el mecanismo institucional que permite la coordinación de esfuerzos de los tres órdenes de gobierno comprometidos en la promoción y ejecución de actividades conducentes para la localización de mujeres y niñas con reporte de extravío.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2022)</small>
+
+###### Artículo 58.
+
+El Protocolo Alba tendrá como objetivo llevar a cabo acciones para realizar la búsqueda e investigación inmediata, exhaustiva, continua, especializada, con perspectiva de género, transversalidad y respeto a los derechos humanos, para la localización de mujeres y niñas desaparecidas, con el fin de proteger su vida, libertad personal e integridad, mediante un plan de atención y coordinación entre las autoridades de los tres niveles de gobierno, que involucren a medios de comunicación, sociedad civil, organismos públicos y privados, en todo el territorio del Estado y del País.
+
+El Protocolo Alba se activa de manera inmediata al reporte de desaparición y no se desactivará hasta encontrar a la mujer o niña desaparecida o no localizada.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2022)</small>
+
+###### Artículo 59.
+
+El funcionamiento del Protocolo Alba consta de tres fases:
+
+I. Registro y activación inmediata del reporte de desaparición por parte del agente del Ministerio Público que solicita a todas las corporaciones policiacas la búsqueda urgente de la persona desaparecida.
+
+II. Implementación del Protocolo Alba, donde un Grupo Técnico de Colaboración determina acciones a seguir en las primeras horas de búsqueda.
+
+III. Al no ser localizada la mujer o niña desaparecida, el agente del Ministerio Público y sus auxiliares continúan la investigación con la presunción de un delito contra la misma.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2022)</small>
+
+###### Artículo 60.
+
+La autoridad a quien corresponderá dar inicio del expediente por la desaparición o no localización de una niña o mujer y la activación del Protocolo Alba, será a la Fiscalía General del Estado. En los casos en los que no haya certeza sobre la edad de la persona de paradero desconocido en cuanto a si es adolescente o adulta, debe asumirse siempre que es una persona menor de 18 años.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2022)</small>
+
+###### Artículo 61.
+
+Se integrará el Grupo Técnico de Colaboración del Protocolo Alba, el cual tiene el objetivo de brindar mayor cobertura en la implementación de los mecanismos de búsqueda y localización de niñas y mujeres desaparecidas.
+
+Tendrá como propósito fundamental establecer la integración, participación, colaboración y coordinación de las diferentes instancias y órganos de gobierno federal, estatal y municipal, ante una denuncia, reporte o noticia sobre la desaparición o no localización de una niña o mujer, a efecto de delinear, homogenizar y direccionar la acción interinstitucional.
+
+Será presidido por la persona Titular de la Fiscalía General de Justicia del Estado de Nuevo León, quien invitará como integrantes permanentes a las personas titulares de las siguientes instituciones:
+
+A. Estatales.
+
+I. Secretaría General de Gobierno.
+
+II. Secretaría de Seguridad.
+
+III. Secretaría de Salud.
+
+IV. Secretaría de las Mujeres.
+
+V. Instituto Estatal de las Mujeres.
+
+VI. Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León.
+
+VII. Comisión Local de Búsqueda de Personas.
+
+VIII. Comisión Estatal de Derechos Humanos de Nuevo León.
+
+IX. Comisión Ejecutiva Estatal de Atención a Víctimas.
+
+X. Una persona representante del Poder Legislativo.
+
+XI. Organismo Público Descentralizado Denominado Sistema De Radio y Televisión de Nuevo León.
+
+XII. Instituto de Movilidad y Accesibilidad de Nuevo León.
+
+XIII. Secretaría de Movilidad y Planeación Urbana.
+
+XIV. Secretaría de Finanzas y Tesorería General del Estado.
+
+XV. Las demás que resulten necesarias para la aplicación del presente Protocolo.
+
+B. Federales.
+
+I. Fiscalía General de la República.
+
+II. Secretaría de la Defensa Nacional.
+
+III. Secretaría de Seguridad y Protección Ciudadana.
+
+IV. Secretaría de Gobernación.
+
+V. Secretaría de Comunicaciones y Transportes.
+
+VI. Secretaría de Relaciones Exteriores.
+
+VII. Instituto Nacional de Migración.
+
+C. Municipales.
+
+I. Secretarías y/o Direcciones de Seguridad Pública y Tránsito.
+
+II. Sistemas para el Desarrollo Integral de la Familia Municipales.
+
+III. Secretarías, Institutos, Direcciones o áreas encargadas de las Mujeres en los Municipios.
+
+Se podrá solicitar la colaboración de organismos no gubernamentales, sector civil, instituciones académicas, medios de comunicación, organismos empresariales e instituciones privadas que coadyuven a la pronta localización de la víctima y que tienen su ámbito de acción en territorio del Estado o colindan con este, con voz, pero sin voto, que podrán ser:
+
+I. Cámaras empresariales.
+
+II. Cámaras Hoteleras.
+
+III. Consulados.
+
+IV. Aduana Fronteriza a través de sus Oficiales de Comercio Exterior.
+
+V. Instituciones Policiales Internacionales.
+
+Se procurará que las responsabilidades que cada una de las autoridades y órganos asuman, sean cuando menos las que se les señalen en el apartado correspondiente del Protocolo Alba que emita la Fiscalía General del Estado para tal efecto, solicitará la designación de un enlace por cada una de las autoridades que conforman el Grupo Técnico de Coordinación y Colaboración.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2022)</small>
+
+###### Artículo 62.
+
+Al encontrar con vida a la mujer o niña desaparecida y/o ausente, por parte de autoridades correspondientes se les brindará atención médica, psicológica y legal, protegiendo en todo momento su integridad. Además, se solicitará apoyo del Instituto Estatal de Las Mujeres con la finalidad de brindar servicios de orientación a la niña, adolescente o mujer.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2022)</small>
+
+###### Artículo 63.
+
+En el caso de la localización sin vida, se deberá investigar con base al protocolo de investigación ministerial, pericial y policial con perspectiva de género y derechos humanos del delito de feminicidio hasta descartar o confirmar el hecho.
 
 T R A N S I T O R I O S
 
@@ -1874,3 +2008,13 @@ P.O. 13 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 146. SE REFORMAN LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 5. SE ADICIONA LA FRACCIÓN XIX AL ARTÍCULO 5; UN CAPÍTULO II BIS DENOMINADO “DE LA ALERTA DE VIOLENCIA DE GENERO CONTRA LAS MUJERES” EL CUAL QUE CONTIENE LOS ARTÍCULOS 17 BIS 1; 17 BIS 2; 17 BIS 3; 17 BIS 4; 17 BIS 5; Y 17 BIS 6; TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación el Periódico Oficial del Estado.
+
+P.O. 14 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 136. SE REFORMAN LAS FRACCIONES XI, XII, Y XIII DEL ARTÍCULO 36; SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 36; Y UN CAPÍTULO X DENOMINADO "PROTOCOLO ALBA" QUE CONTIENE LOS ARTÍCULOS 57; 58; 59; 60; 61; 62; Y 63; TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Fiscalía General de Justicia del Estado de Nuevo León tendrá 90 días naturales a partir de la entrada en vigor del presente Decreto, para emitir los lineamientos del Protocolo Alba, apegándose a lo establecido en los diversos instrumentos nacionales e internacionales.
+
+TERCERO. La Fiscalía General de Justicia del Estado de Nuevo León tendrá un plazo máximo de 120 días naturales a partir de la entrada en vigor del presente Decreto, como plazo máximo para instalar el Grupo Técnico de Colaboración del Protocolo Alba.
