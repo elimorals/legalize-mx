@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-trabajadores-al-servicio-de-los-poderes-del-38547"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-23"
-last_updated: "2022-02-18"
+last_updated: "2022-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE JUNIO DE 2022.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 23 de febrero de 2004.
 
@@ -266,6 +266,10 @@ Por cada cinco días de trabajo disfrutará el trabajador de dos días de descan
 > <small>(REFORMADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
 
 Los trabajadores que presten sus servicios en sus días de descanso tendrá derecho al pago de una prima adicional de al menos un 25% en base al salario normal de los días de trabajo.
+
+> <small>(ADICIONADO, B.O. 14 DE JUNIO DE 2022)</small>
+
+Las y los trabajadores tendrán derecho a disfrutar de un día laborable al año, con goce íntegro de sueldo, para que se realicen exámenes médicos preventivos, a fin de mejorar su nivel de vida. El área encargada de los recursos humanos de cada Poder o Municipio determinará la forma para que los trabajadores accedan a este derecho, sin que se trastoque el funcionamiento normal de la institución, para estos efectos las y los trabajadores deberán acreditar ante la unidad administrativa que corresponda la programación previa de los exámenes médicos que se practicarán. De considerarlo necesario el o la trabajadora, dará cuenta de los resultados de dichos exámenes a los titulares de las dependencias para la previsión de medidas conducentes. En estos casos, los titulares deberán guardar estricta reserva de la información proporcionada en tutela del derecho a la protección de los datos personales de los trabajadores
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
@@ -1582,3 +1586,11 @@ En tanto se expiden los reglamentos a que refiere el artículo transitorio terce
 ###### ARTÍCULO SÉPTIMO.
 
 Se derogan las disposiciones legales, reglamentarias y administrativas que se opongan a lo establecido en el presente decreto.
+
+B.O. 14 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2829 SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 28 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
