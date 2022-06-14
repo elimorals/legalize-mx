@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-a-los-animales-para-el-estado-de-78425"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-16"
-last_updated: "2020-12-17"
+last_updated: "2022-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2010.
 
@@ -285,7 +285,11 @@ IX. Establecer campañas de vacunación antirrábica, de desparasitación y este
 
 X. Crear el Registro Municipal Animal, con objeto de identificar y registrar a los dueños de animales domésticos y silvestres en cautiverio que ya existen, con los cuales se retroalimentará el Registro Estatal Animal; y
 
-XI. Las demás que la presente Ley y demás ordenamientos jurídicos aplicables les confieran.
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2022)</small>
+
+XI. En la medida de lo posible y con base en su disponibilidad presupuestal, garantizarán la esterilización gratuita de animales, así como su trato digno y respetuoso en los centros de control animal, sancionando a quienes incurran en maltrato animal en los términos de esta ley; y
+
+XII. Las demás que la presente Ley y demás ordenamientos jurídicos aplicables les confieran.
 
 ### CAPITULO III. DEL FONDO PARA LA PROTECCION A LOS ANIMALES
 
@@ -742,6 +746,10 @@ La crianza de animales entendida como práctica que revista carácter habitual o
 Se prohíbe la instalación u operación de centros de cría en inmuebles de uso habitacional.
 
 Los particulares que realicen periódicamente venta de crías de animales serán considerados como titulares de centro de cría y, por tanto, deberán obtener licencia municipal para su funcionamiento.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2022)</small>
+
+Quienes lleven a cabo comercialización o reproducción de perros y gatos en lugares no autorizados y sin acatar las normas oficiales mexicanas en la materia y las previsiones establecidas en esta Ley, se harán acreedores a la sanción correspondiente en los términos de este ordenamiento.
 
 ###### ARTICULO 32.
 
@@ -1406,6 +1414,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 17 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-487 MEDIANTE EL CUAL SEREFORMAN (SIC) LAS FRACCIONES II Y III Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 29 DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-148 MEDIANTE EL CUAL SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS Y LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
