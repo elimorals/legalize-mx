@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-con-discapacidad-del-116653
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-27"
-last_updated: "2022-04-06"
+last_updated: "2022-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
 
 Ley publicada en el Número 115 del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -599,9 +599,13 @@ IV.- Proteger a las personas con discapacidad de explotación laboral o tratos d
 
 V.- Promover y difundir en el sector empresarial los estímulos fiscales existentes para aquellas empresas que contraten personas con discapacidad motora, visual y auditiva.
 
+(NOTA: EL 18 DE AGOSTO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS SEGUNDO, TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 104/2022, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS “MISMA QUE ESTARÁ DETERMINADA POR LA CERTIFICACIÓN DE SUS COMPETENCIAS RESPECTIVAS”, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2026, Y “ES OBLIGACIÓN DE TODAS LAS AUTORIDADES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO Y DE LOS GOBIERNOS MUNICIPALES DE TAMAULIPAS, DESIGNAR AL MENOS EL TRES POR CIENTO DE SU BASE LABORAL A LA CONTRATACIÓN DE PERSONAS CON DISCAPACIDAD”, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE TAMAULIPAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 35.
 
-Es obligación de todas las autoridades de la Administración Pública del Estado de Tamaulipas, designar al menos el tres por ciento de su base laboral a la contratación de personas con discapacidad, misma que estará determinada por la certificación de sus competencias respectivas.
+Es obligación de todas las autoridades de la Administración Pública del Estado y de los Gobiernos Municipales de Tamaulipas, designar al menos el tres por ciento de su base laboral a la contratación de personas con discapacidad, misma que estará determinada por la certificación de sus competencias respectivas.
 
 ###### ARTÍCULO 36.
 
@@ -616,6 +620,10 @@ III.- Implementar programas de potencial humano y de capacitación a personas co
 IV.- Elaborar programas de sensibilización, dirigidos a las personas trabajadoras, respecto de los derechos y libertades fundamentales de las personas con discapacidad, así como del respeto debido a los mismos, auxiliados en todo momento por la Secretaría Ejecutiva.
 
 2. Por ningún motivo se podrá pagar menos sueldo a un trabajador con discapacidad que el destinado a una persona sin discapacidad, por la realización del mismo trabajo.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2022)</small>
+
+3. Para garantizar y fomentar la inversión en infraestructuras dotadas de accesibilidad, las empresas, industrias y comercios que adecuen sus instalaciones para favorecer el desarrollo de las actividades laborales de las personas con discapacidad, podrán ser sujetos de estímulos fiscales y reconocimientos por parte de la autoridad competente.
 
 ### CAPÍTULO X. DE LA PARTICIPACIÓN EN LA VIDA POLÍTICA Y PÚBLICA
 
@@ -1378,3 +1386,27 @@ Los ayuntamientos tendrán 65 días naturales, a partir de la entrada en vigor d
 ###### ARTÍCULO OCTAVO.
 
 Los ayuntamientos tendrán 90 días naturales, a partir de la entrada en vigor del presente Decreto, para presentar sus Programa Municipales de Atención para las Personas con Discapacidad.
+
+P.O. 14 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-147 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO 3, AL ARTÍCULO 36 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-150 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 35 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS Y SE ADICIONA EL ARTÍCULO 205 BIS AL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los 43 Ayuntamientos de la Entidad tendrán hasta un año a partir de la entrada en vigor del presente Decreto para dotar sus instalaciones de accesibilidad realizando las adecuaciones necesarias en los edificios municipales para la verdadera integración de las personas con discapacidad al ámbito laboral y deberán colocar en los edificios públicos los sistemas de identificación visual-auditiva o a través de carteles en braille y/o guías capacitados como instrumentos para una adecuada posibilidad adaptativa con discapacidad.
+
+###### ARTÍCULO TERCERO.
+
+Remítase a la Comisión de Derechos Humanos del Estado de Tamaulipas, para su seguimiento y atención, el presente Decreto, especialmente a lo referente en el Artículo Segundo Transitorio.
