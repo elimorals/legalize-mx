@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2022-06-13"
+last_updated: "2022-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -1195,17 +1195,23 @@ IX. Promover la cultura de respeto a los derechos humanos de las mujeres y garan
 
 X. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2022)</small>
 
-XI. Crear un registro sistemático de delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que se tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
+XI. Crear un registro sistemático de delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que se tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victima para definir políticas en materia de prevención del delito, procuración y administración de justicia, el cual deberá actualizarse y ser accesible en el portal electrónico de la Fiscalía;
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2022)</small>
 
-XII. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual; y
+XII. Elaborar y aplicar el protocolo Alba y demás protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual;
 
-> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XI], P.O. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2022)</small>
 
-XIII. Las demás previstas para el cumplimiento de la presente Ley.
+XIII. Garantizar que los protocolos Alba, Amber y demás que tengan como objetivo la búsqueda de personas desaparecidas, se realicen cumpliendo con los ejes rectores de debida diligencia, derecho de prioridad de menores de edad, interés superior de la niñez, igualdad y no discriminación, detección de factores de vulnerabilidad, presunción de riesgo, no estigmatización, vida, supervivencia y desarrollo y enfoque de género.
+
+Notificar al Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León cuando se detecten a menores cuyo padre, madre o persona cuidadora es víctima de desaparición con la finalidad de mitigar las consecuencias de ser víctima indirecta de este delito; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE JUNIO DE 2022)</small>
+
+XIV. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 37.
 
@@ -1517,9 +1523,9 @@ X. Los demás señalados en esta Ley y otras disposiciones legales.
 
 El agresor deberá participar obligatoriamente en los programas de reeducación integral, cuando se le determine por mandato de autoridad competente.
 
-### CAPÍTULO III
+### CAPÍTULO X. PROTOCOLO ALBA
 
-DE LAS ATRIBUCIONES DE LAS UNIDADES ADMINISTRATIVAS ADSCRITAS A LA PRESIDENCIA DEL PATRONATO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TAMAULIPAS
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2022)</small>
 
 ###### Artículo 47.
 
@@ -1613,6 +1619,132 @@ En ningún caso se podrá mantener a las víctimas en los refugios en contra de 
 
 En los casos previstos en esta Ley, serán aplicables supletoriamente a esta Ley el Código Civil para el Estado de Nuevo León, el Código de Procedimientos Civiles para el Estado de Nuevo León, el Código Penal para el Estado de Nuevo León, el Código Nacional de Procedimientos Penales, la Ley de Prevención y Atención Integral de la Violencia Familiar en el Estado de Nuevo León, la Ley para la Igualdad entre Mujeres y Hombres del Estado de Nuevo León, la Ley del Instituto Estatal de las Mujeres y la Ley que Crea la Comisión Estatal de Derechos Humanos y las demás leyes relativas a la materia.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2022)</small>
+
+### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TAMAULIPAS
+
+###### Artículo 57.
+
+El Protocolo Alba es el mecanismo institucional que permite la coordinación de esfuerzos de los tres órdenes de gobierno comprometidos en la promoción y ejecución de actividades conducentes para la localización de mujeres y niñas con reporte de extravío.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2022)</small>
+
+###### Artículo 58.
+
+El Protocolo Alba tendrá como objetivo llevar a cabo acciones para realizar la búsqueda e investigación inmediata, exhaustiva, continua, especializada, con perspectiva de género, transversalidad y respeto a los derechos humanos, para la localización de mujeres y niñas desaparecidas, con el fin de proteger su vida, libertad personal e integridad, mediante un plan de atención y coordinación entre las autoridades de los tres niveles de gobierno, que involucren a medios de comunicación, sociedad civil, organismos públicos y privados, en todo el territorio del Estado y del País.
+
+El Protocolo Alba se activa de manera inmediata al reporte de desaparición y no se desactivará hasta encontrar a la mujer o niña desaparecida o no localizada.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2022)</small>
+
+###### Artículo 59.
+
+El funcionamiento del Protocolo Alba consta de tres fases:
+
+I. Registro y activación inmediata del reporte de desaparición por parte del agente del Ministerio Público que solicita a todas las corporaciones policiacas la búsqueda urgente de la persona desaparecida.
+
+II. Implementación del Protocolo Alba, donde un Grupo Técnico de Colaboración determina acciones a seguir en las primeras horas de búsqueda.
+
+III. Al no ser localizada la mujer o niña desaparecida, el agente del Ministerio Público y sus auxiliares continúan la investigación con la presunción de un delito contra la misma.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2022)</small>
+
+###### Artículo 60.
+
+La autoridad a quien corresponderá dar inicio del expediente por la desaparición o no localización de una niña o mujer y la activación del Protocolo Alba, será a la Fiscalía General del Estado. En los casos en los que no haya certeza sobre la edad de la persona de paradero desconocido en cuanto a si es adolescente o adulta, debe asumirse siempre que es una persona menor de 18 años.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2022)</small>
+
+###### Artículo 61.
+
+Se integrará el Grupo Técnico de Colaboración del Protocolo Alba, el cual tiene el objetivo de brindar mayor cobertura en la implementación de los mecanismos de búsqueda y localización de niñas y mujeres desaparecidas.
+
+Tendrá como propósito fundamental establecer la integración, participación, colaboración y coordinación de las diferentes instancias y órganos de gobierno federal, estatal y municipal, ante una denuncia, reporte o noticia sobre la desaparición o no localización de una niña o mujer, a efecto de delinear, homogenizar y direccionar la acción interinstitucional.
+
+Será presidido por la persona Titular de la Fiscalía General de Justicia del Estado de Nuevo León, quien invitará como integrantes permanentes a las personas titulares de las siguientes instituciones:
+
+A. Estatales.
+
+I. Secretaría General de Gobierno.
+
+II. Secretaría de Seguridad.
+
+III. Secretaría de Salud.
+
+IV. Secretaría de las Mujeres.
+
+V. Instituto Estatal de las Mujeres.
+
+VI. Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León.
+
+VII. Comisión Local de Búsqueda de Personas.
+
+VIII. Comisión Estatal de Derechos Humanos de Nuevo León.
+
+IX. Comisión Ejecutiva Estatal de Atención a Víctimas.
+
+X. Una persona representante del Poder Legislativo.
+
+XI. Organismo Público Descentralizado Denominado Sistema De Radio y Televisión de Nuevo León.
+
+XII. Instituto de Movilidad y Accesibilidad de Nuevo León.
+
+XIII. Secretaría de Movilidad y Planeación Urbana.
+
+XIV. Secretaría de Finanzas y Tesorería General del Estado.
+
+XV. Las demás que resulten necesarias para la aplicación del presente Protocolo.
+
+B. Federales.
+
+I. Fiscalía General de la República.
+
+II. Secretaría de la Defensa Nacional.
+
+III. Secretaría de Seguridad y Protección Ciudadana.
+
+IV. Secretaría de Gobernación.
+
+V. Secretaría de Comunicaciones y Transportes.
+
+VI. Secretaría de Relaciones Exteriores.
+
+VII. Instituto Nacional de Migración.
+
+C. Municipales.
+
+I. Secretarías y/o Direcciones de Seguridad Pública y Tránsito.
+
+II. Sistemas para el Desarrollo Integral de la Familia Municipales.
+
+III. Secretarías, Institutos, Direcciones o áreas encargadas de las Mujeres en los Municipios.
+
+Se podrá solicitar la colaboración de organismos no gubernamentales, sector civil, instituciones académicas, medios de comunicación, organismos empresariales e instituciones privadas que coadyuven a la pronta localización de la víctima y que tienen su ámbito de acción en territorio del Estado o colindan con este, con voz, pero sin voto, que podrán ser:
+
+I. Cámaras empresariales.
+
+II. Cámaras Hoteleras.
+
+III. Consulados.
+
+IV. Aduana Fronteriza a través de sus Oficiales de Comercio Exterior.
+
+V. Instituciones Policiales Internacionales.
+
+Se procurará que las responsabilidades que cada una de las autoridades y órganos asuman, sean cuando menos las que se les señalen en el apartado correspondiente del Protocolo Alba que emita la Fiscalía General del Estado para tal efecto, solicitará la designación de un enlace por cada una de las autoridades que conforman el Grupo Técnico de Coordinación y Colaboración.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2022)</small>
+
+###### Artículo 62.
+
+Al encontrar con vida a la mujer o niña desaparecida y/o ausente, por parte de autoridades correspondientes se les brindará atención médica, psicológica y legal, protegiendo en todo momento su integridad. Además, se solicitará apoyo del Instituto Estatal de Las Mujeres con la finalidad de brindar servicios de orientación a la niña, adolescente o mujer.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2022)</small>
+
+###### Artículo 63.
+
+En el caso de la localización sin vida, se deberá investigar con base al protocolo de investigación ministerial, pericial y policial con perspectiva de género y derechos humanos del delito de feminicidio hasta descartar o confirmar el hecho.
+
 T R A N S I T O R I O S
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -1680,202 +1812,6 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- La Procuraduría General de Justicia deberá emitir el protocolo de actuación para la investigación del delito de feminicidio, atendiendo a lo señalado en el presente Decreto.
 
 P.O. 1 DE ABRIL DE 2016.
-
-### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TAMAULIPAS
-
-###### ARTÍCULO 57.
-
-El Departamento de Imagen y Comunicación Digital, tendrá las atribuciones siguientes:
-
-I. Realizar el diseño gráfico y diseño editorial de instrumentos de comunicación impresos y electrónicos con la finalidad de resaltar y proyectar los programas y actividades de las diferentes direcciones del Sistema DIF Tamaulipas;
-
-II. Supervisar el diseño de logotipos de los programas con el objetivo de que sean adecuados a la imagen institucional conforme al manual de identidad vigente;
-
-III. Diseñar productos promocionales para los diferentes programas del Sistema DIF Tamaulipas;
-
-IV. Supervisar la correcta aplicación de la imagen institucional de los Sistemas DIF Municipales, de acuerdo al manual de identidad del Sistema DIF Tamaulipas;
-
-V. Ordenar, clasificar y resguardar el archivo fotográfico de la Presidenta del Patronato del Sistema DIF Tamaulipas y las diferentes unidades administrativas del Sistema DIF Tamaulipas, para la masificación del mismo en redes sociales;
-
-VI. Asegurar el material gráfico para la realización de videos, cortometrajes y animaciones, para las diferentes redes sociales;
-
-VII. Posicionar los programas del Sistema DIF Tamaulipas dentro de las redes sociales para que el usuario conozca el trabajo que se está llevando a cabo;
-
-VIII. Formular diversos informes de comportamiento y tendencias en los medios de comunicación respecto al trabajo que se realiza en el Sistema DIF Tamaulipas; y
-
-IX. Las demás que en ámbito de su competencia le delegue la superioridad.
-
-###### ARTÍCULO 58.
-
-El Departamento de Prensa, tendrá las atribuciones siguientes:
-
-I. Elaborar y difundir boletines informativos de las diversas actividades de la Presidenta del Patronato del Sistema DIF Tamaulipas, así como de las diferentes unidades administrativas del Sistema DIF Tamaulipas, con el apoyo de los medios de comunicación;
-
-II. Establecer comunicación permanente con las diferentes unidades administrativas del Sistema DIF Tamaulipas para la cobertura de actividades;
-
-III. Integrar y actualizar permanentemente un directorio de reporteros que cubren la fuente, con el objetivo de informar oportunamente las actividades del Sistema DIF Tamaulipas;
-
-IV. Definir mecanismos necesarios para atender la cobertura de alguna de las unidades administrativas del Sistema DIF Tamaulipas, sobre las actividades de la Presidenta del Patronato del Sistema DIF Tamaulipas;
-
-V. Colaborar de manera estrecha con el Departamento de Imagen y Comunicación Digital, con la organización y almacenamiento del banco de imágenes de la cobertura de actividades de la Presidenta del Patronato del Sistema DIF Tamaulipas y las diferentes unidades administrativas; y
-
-VI. Las demás que en ámbito de su competencia le delegue la superioridad.
-
-###### ARTÍCULO 59.
-
-La Procuraduría de Protección de Niñas, Niños y Adolescentes, tendrá las atribuciones siguientes:
-
-I. Coordinar los departamentos y programas presupuestarios a su cargo, en favor de la protección, defensa y atención de las niñas, niños y adolescentes, para garantizar su derecho a la justicia, la reparación integral y la no repetición;
-
-II. Proporcionar servicios de asistencia jurídica y social a la población objetivo, procurando la protección integral de niñas, niños y adolescentes, conforme a las disposiciones aplicables;
-
-III. Prestar asesoría legal a las unidades administrativas que integran el Sistema DIF Tamaulipas, con el propósito de ayudarlos en el cumplimiento de sus atribuciones, en lo relativo a la procuración de derechos de las niñas, niños y adolescentes;
-
-IV. Vigilar que se respeten los derechos de las niñas, niños y adolescentes originarios del Estado de Tamaulipas, que se encuentren viviendo o de tránsito en territorio estatal, y defender sus intereses legítimos ante las autoridades administrativas o judiciales;
-
-V. Representar a las niñas, niños y adolescentes, así como proporcionar asesoría en los casos que la Ley lo previene, ante las autoridades administrativas y judiciales del Estado;
-
-VI. Adoptar medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten sus derechos;
-
-VII. Coordinar los servicios de asesoría y representación jurídica a la familia y personas sujetas a la asistencia social, dentro del ámbito que la Ley le confiere;
-
-VIII. Brindar atención en procedimiento de mediación o conciliación en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones aplicables;
-
-IX. Elaboración de los lineamientos y procedimientos para registrar, capacitar, evaluar y certificar a las familias que resulten idóneas para a la adopción, considerando los requisitos señalados para el acogimiento pre-adoptivo, así como para emitir los certificados de idoneidad, conforme a la homologación que señale el Sistema DIF Nacional;
-
-X. Proporcionar asistencia psicológica y atención preventiva integrada a la salud, así como asesoría jurídica y orientación social a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad;
-
-XI. Proponer reformas y modificaciones a la normativa vigente en materia de niñas, niños y adolescentes;
-
-XII. Promover, vigilar y coordinarse con las diferentes instituciones públicas o privadas, cuyos objetivos sean el bienestar de la familia, para la elaboración y desarrollo de programas y campañas encaminadas a sensibilizar y concientizar a la población, a fin de prevenir conductas que afecten el desarrollo físico, emocional y cognoscitivo de niñas, niños y adolescentes, así como promover el respeto de sus derechos fundamentales;
-
-XIII. Representar al Sistema DIF Tamaulipas en los juicios, controversias y otros procesos jurídicos que afecten, o sean de su interés en lo concerniente a niñas, niños y adolescentes;
-
-XIV. Supervisar los centros asistenciales destinados a brindar asistencia a las niñas, niños y adolescentes en el Estado, y en su caso, ejercer las acciones legales que correspondan por el incumplimiento de los requisitos que establece la Ley General de los Derechos de Niñas, Niños y Adolescentes, Ley de los Derechos de Niñas, Niños y Adolescentes en el Estado de Tamaulipas, y demás disposiciones aplicables;
-
-XV. Diseñar el programa de capacitación anual de acuerdo a las necesidades de la Procuraduría;
-
-XVI. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Procuraduría; y
-
-XVII. Las demás que en el ámbito de su competencia le delegue la superioridad.
-
-###### ARTÍCULO 60.
-
-El Departamento de Representación Jurídica y Restitución de Derechos, tendrá las atribuciones siguientes:
-
-I. Proteger y garantizar el respeto de los derechos de las niñas, niños y adolescentes que participen en procedimientos jurisdiccionales y administrativos;
-
-II. Representar a las niñas, niños y adolescentes, así como proporcionar asesoría en los casos que la ley lo previene, ante las autoridades administrativas y judiciales del estado;
-
-III. Intervenir oficiosamente, con representación coadyuvante, en todos los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes;
-
-IV. Brinda asesoría jurídica a las niñas, niños y adolescentes y sus familiares durante el procedimiento jurisdiccional o administrativo;
-
-V. Realizar acciones de derivación de casos de niñas, niños y adolescentes donde se observe una presunta vulneración o restricción de sus derechos;
-
-VI. Denunciar ante el Ministerio Público aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes en condiciones de vulnerabilidad, ejerciendo la representación en suplencia;
-
-VII. Brindar acompañamiento en casos de conciliación y mediación, conforme a las disposiciones aplicables;
-
-VIII. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Procuraduría; y
-
-IX. Las demás que en el ámbito de su competencia le delegue la superioridad.
-
-###### ARTÍCULO 61.
-
-El Departamento de Atención Psicológica, tendrá las atribuciones siguientes:
-
-I. Proporcionar servicios de intervención en crisis para personas que experimentan situaciones críticas, como abuso, violencia doméstica, intentos de suicidio, trauma, etc.;
-
-II. Brindar la asesoría necesaria para enfrentar problemas emocionales, estrés, ansiedad, depresión u otros problemas psicológicos que los usuarios requieran, asegurando su confidencialidad y privacidad;
-
-III. Ofrecer servicios de evaluación psicológica y/o psicométrica para diferentes fines en apoyo a los procesos individuales, personales y/o legales que los usuarios requieran;
-
-IV. Ofrecer servicios de psicología clínica en terapia individual, terapia de grupo, terapia familiar y terapia de pareja;
-
-V. Generar un tratamiento personalizado y adaptado a cada caso al evaluar las necesidades y preocupaciones individuales y únicas;
-
-VI. Identificar patrones de comportamiento dañinos y desarrollar estrategias para manejar el trauma emocional;
-
-VII. Colaborar de manera multidisciplinaria y permanente con el departamento jurídico y el de trabajo social, para ofrecer servicios integrales que aborden las necesidades de las personas en condiciones vulnerables;
-
-VIII. Orientar a las personas y canalizarlas adecuadamente a los departamentos o instituciones según lo requiera la situación que presentan;
-
-IX. Colaborar con juzgados y fiscalías en el acompañamiento emocional a menores en denuncias o audiencias; así como con la rendición de sus informes y/o peritajes psicológicos, siempre que dichas instituciones no cuenten con el personal adecuado para desarrollar dichas funciones;
-
-X. Ofrecer programas de prevención o corrección a los usuarios, que se centren en la promoción de la salud mental, desarrollo de habilidades intrapersonales e interpersonales, manejo de dinámica familiar y social;
-
-XI. Capacitar y actualizar al personal del departamento de psicología para brindar siempre una atención especializada y de calidad;
-
-XII. Ofrecer capacitación al personal de la institución con programas de educación y prevención para promover la salud mental en el lugar de trabajo;
-
-XIII. Llevar a cabo investigaciones para atender mejor las necesidades y preocupaciones de la población atendida, identificando problemáticas con mayor incidencia y zonas de mayor riesgo;
-
-XIV. Colaborar en el desarrollo de políticas y programas de salud mental que promuevan el bienestar emocional y psicológico de la población atendida;
-
-XV. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Procuraduría; y
-
-XVI. Las demás que en el ámbito de su competencia le delegue la superioridad.
-
-###### ARTÍCULO 62.
-
-El Departamento de Trabajo Social, tendrá las atribuciones siguientes:
-
-I. Planificar y coordinar las actividades de intervención social y administrativas del Departamento;
-
-II. Asignar a personal de trabajo social reportes sociales para la realización de investigaciones que contribuyan a identificar e interpretar las causas de los reportes que se presentan en cualquier contexto para el planteamiento de alternativas de solución;
-
-III. Coordinar las investigaciones de maltrato, canalizaciones, estudios socioeconómicos, seguimientos de caso, reintegraciones de derechos, para constatar la atención específica a cada caso, con la finalidad de sensibilizar a las familias en cuanto al trato con los menores y su integración familiar;
-
-IV. Constatar a través de investigaciones de campo, visitas de supervisión y estudios socioeconómicos, el desarrollo de convivencias y estatus que guardan los menores y su situación de vulnerabilidad al respecto;
-
-V. Dar seguimiento a las investigaciones sociales que se realizan, para identificar e interpretar las causas de los reportes sociales que se presentan en cualquier contexto y el planteamiento de alternativas de solución a las mismas;
-
-VI. Participar en la gestión, formulación, ejecución, evaluación de planes, programas y proyectos sociales, dirigidos a mejorar las condiciones de vida de la comunidad tanto con instituciones públicas como privadas;
-
-VII. Participar en el diseño de administración de programas de personal, bienestar laboral, seguridad social y salud ocupacional;
-
-VIII. Participar cuando así se requiera, en proyectos de desarrollo social con organismos gubernamentales y no gubernamentales;
-
-IX. Llevar a cabo actividades de investigación social y en el desarrollo de la política social, con base en las necesidades de la población;
-
-X. Capacitar al personal encargado de atender a víctimas y perpetradores de violencia intrafamiliar;
-
-XI. Evaluar la estructura de expedientes de Trabajo Social y al personal, para implementar mejoras en la calidad de los procesos y servicios;
-
-XII. Verificar que se lleve a cabo el seguimiento de los casos que se presentan durante las guardias de equipos multidisciplinarios y casos asignados;
-
-XIII. Dar al cumplimiento de metas e indicadores de desempeño;
-
-XIV. Evaluar al personal de Trabajo Social, para implementar mejoras en los procesos de la calidad de los servicios;
-
-XV. Dar a conocer las funciones al personal de trabajo social de acuerdo al manual de operaciones y lineamientos específicos de cada programa;
-
-XVI. Las demás que en el ámbito de su competencia le delegue la superioridad.
-
-###### ARTÍCULO 63.
-
-El Departamento de Mediación y Prevención de la Violencia, tendrá las atribuciones siguientes:
-
-I. Promover la mediación familiar como mecanismo alternativo en la solución de conflictos;
-
-II. Proporcionar los servicios de mediación para la solución de conflictos de carácter familiar, a las personas que así lo soliciten;
-
-III. Estructurar documento o convenio que contenga los acuerdos establecidos por las partes que intervienen en el procedimiento de mediación;
-
-IV. Implementar planes de atención para la prevención de la violencia familiar, dirigido a instituciones educativas;
-
-V. Brindar psicoterapia grupal a las personas que requieran asistencia para efecto de lograr su reinserción social, en atención a canalización que declina la Secretaría de Seguridad Pública y Juzgados encargados de la gestión y administración de ejecución penal;
-
-VI. Impartir pláticas en temas psicoeducativos enfocados en fomentar el bienestar emocional de las niñas, niños y adolescentes y familias, con enfoque a prevenir la violencia;
-
-VII. Brindar seguimiento a los casos atendidos por parte del departamento de mediación;
-
-VIII. Recibir actualizaciones para el debido funcionamiento del departamento;
-
-IX. Elaborar la proyección presupuestal de los programas y/o proyectos a operar en el ejercicio fiscal siguiente por la Procuraduría; y
-
-X. Las demás que en el ámbito de su competencia le delegue la superioridad.
 
 ### CAPÍTULO V
 
@@ -2164,3 +2100,13 @@ P.O. 13 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 146. SE REFORMAN LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 5. SE ADICIONA LA FRACCIÓN XIX AL ARTÍCULO 5; UN CAPÍTULO II BIS DENOMINADO “DE LA ALERTA DE VIOLENCIA DE GENERO CONTRA LAS MUJERES” EL CUAL QUE CONTIENE LOS ARTÍCULOS 17 BIS 1; 17 BIS 2; 17 BIS 3; 17 BIS 4; 17 BIS 5; Y 17 BIS 6; TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación el Periódico Oficial del Estado.
+
+P.O. 14 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 136. SE REFORMAN LAS FRACCIONES XI, XII, Y XIII DEL ARTÍCULO 36; SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 36; Y UN CAPÍTULO X DENOMINADO "PROTOCOLO ALBA" QUE CONTIENE LOS ARTÍCULOS 57; 58; 59; 60; 61; 62; Y 63; TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Fiscalía General de Justicia del Estado de Nuevo León tendrá 90 días naturales a partir de la entrada en vigor del presente Decreto, para emitir los lineamientos del Protocolo Alba, apegándose a lo establecido en los diversos instrumentos nacionales e internacionales.
+
+TERCERO. La Fiscalía General de Justicia del Estado de Nuevo León tendrá un plazo máximo de 120 días naturales a partir de la entrada en vigor del presente Decreto, como plazo máximo para instalar el Grupo Técnico de Colaboración del Protocolo Alba.
