@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2022-05-31"
+last_updated: "2022-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -189,9 +189,13 @@ XIII. Emitir las bases normativas a las que deberán sujetarse los ayuntamientos
 
 XIV. Decretar la desafectación de bienes del Estado y de los municipios destinados al dominio público y al uso común;
 
-XV. Nombrar al Auditor Superior del Estado; al Presidente del Consejo Estatal Electoral; al Presidente de la Comisión Estatal de Derechos Humanos; y al Presidente de la Comisión Estatal de Garantía de Acceso a la Información; así como conocer y resolver las solicitudes de destitución de los mismos, en los términos que establezca la ley; asimismo, designar a los consejeros electorales y consejeros que correspondan, respectivamente en cada Comisión; así como a los demás titulares de los organismos autónomos;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2022)</small>
 
-XVI. Nombrar a los magistrados del Tribunal Estatal de lo Contencioso Administrativo; y al Presidente del Tribunal Estatal de Conciliación y Arbitraje;
+XV. Nombrar a la persona titular de la Auditoria Superior del Estado; a la persona que presida la Comisión Estatal de Derechos Humanos; la Comisión Estatal de Garantía de Acceso a la Información; así como conocer y resolver las solicitudes de destitución de los mismos, en los términos que establezca la ley; asimismo, designar a las consejeras y consejeros que correspondan, respectivamente en cada Comisión; así como a las demás personas titulares de los organismos autónomos;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2022)</small>
+
+XVI. Nombrar a las magistradas y magistrados del Tribunal Estatal de Justicia Administrativa; así como a la persona que presida el Tribunal Estatal de Conciliación y Arbitraje;
 
 XVII. Calificar las excusas que expongan el Gobernador, diputados locales y miembros de los ayuntamientos de los municipios del Estado, para no desempeñar los cargos para los que han sido electos;
 
@@ -201,9 +205,15 @@ XVIII. Cuidar que en los días fijados por las leyes se celebren las elecciones 
 
 XIX. Rendir a la ciudadanía, a través de su Presidente, un Informe Anual de Actividades, durante la primera quincena de septiembre del año del ejercicio legal que corresponda;
 
-XX. Recibir la protesta de ley que ante él deban rendir los servidores públicos, y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2022)</small>
 
-XXI. Las demás que le atribuyan la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado, y las leyes que de ellas emanen.
+XX. Recibir la protesta de ley que ante él deban rendir los servidores públicos;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2022)</small>
+
+XXI. Designar a la persona titular del Órgano Interno de Control de la Fiscalía General del Estado, con el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de la terna propuesta por la persona titular de la mencionada Fiscalía General, y
+
+XXII. Las demás que le atribuyan la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado, y las leyes que de ellas emanen.
 
 ### Capítulo II. De las Atribuciones en Relación con el Poder Ejecutivo
 
@@ -2920,3 +2930,11 @@ PRIMERO. Este Decreto entrará en vigor a los treinta días siguientes de su pub
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. La Junta de Coordinación Política asignará los recursos humanos y materiales para la implementación de este Decreto.
+
+P.O. 14 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0339.- SE REFORMA EL ARTÍCULO 15 EN SUS FRACCIONES XV, XVI Y XX; Y ADICIONA AL MISMO ARTÍCULO 15 UNA FRACCIÓN, ÉSTA COMO XXI, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
