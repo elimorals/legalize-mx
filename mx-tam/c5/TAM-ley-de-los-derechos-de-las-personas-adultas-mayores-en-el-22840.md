@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-22840
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2021-09-30"
+last_updated: "2022-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre del 2001.
 
@@ -281,7 +281,19 @@ h).- Formar parte de los diversos órganos de representación y consulta ciudada
 
 V.- Al trabajo:
 
-a).- Gozar de oportunidades igualitarias de acceso al trabajo o de otras posibilidades de obtener un ingreso propio, así como a recibir una capacitación adecuada.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2022)</small>
+
+a).- Gozar de oportunidades igualitarias de acceso al trabajo o de otras posibilidades de obtener un ingreso propio, así como a recibir una capacitación adecuada;
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2022)</small>
+
+b).- Recibir la protección de las disposiciones de la Ley Federal del Trabajo y de otros ordenamientos de carácter laboral; y
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2022)</small>
+
+c).- Ser contratados e incorporados como servidores públicos en todas las dependencias y entidades (sic) la Administración Pública Estatal. Las autoridades competentes formularán y ejecutarán acciones específicas, las cuales deberán garantizar que al menos el 2% del total de la plantilla laboral de la administración pública sea destinado a la contratación de personas adultas mayores.
+
+Para lograr este objetivo, se deberán difundir los empleos en el sector público en fuentes de información accesibles para las personas adultas mayores.
 
 VI.- A la Asistencia Social:
 
@@ -962,6 +974,14 @@ El presente Decreto entrará en vigor al (sic) día siguiente al de su publicaci
 P.O. 30 DE SEPTIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-835 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 5, FRACCIÓN III DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-158 MEDIANTE EL CUAL SE REFORMA EL INCISO A); Y SE ADICIONAN LOS INCISOS B) Y C), DE LA FRACCIÓN V, DEL ARTÍCULO 5, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
