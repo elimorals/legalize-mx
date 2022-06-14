@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2022-04-13"
+last_updated: "2022-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -3022,6 +3022,12 @@ Cuando se trate de plazas de nueva creación, la clasificación de base o de con
 ###### ARTICULO 205.
 
 En todo lo no previsto en el presente Título que regula las relaciones laborales entre los Ayuntamientos y sus respectivos trabajadores de base, se aplicarán supletoriamente las disposiciones contenidas en la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas y las Condiciones Generales de Trabajo que expida el Ayuntamiento correspondiente, las cuales surtirán efecto a partir de su depósito en el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios de Tamaulipas.
+
+(NOTA: EL 18 DE AGOSTO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS SEGUNDO, TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 104/2022, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS “MISMA QUE ESTARÁ DETERMINADA POR LA CERTIFICACIÓN DE SUS COMPETENCIAS RESPECTIVAS”, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2026, Y “EN OBSERVANCIA A LO ESTABLECIDO POR LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LOS AYUNTAMIENTOS DEBERÁN DESIGNAR AL MENOS EL TRES POR CIENTO DE SU BASE LABORAL A LA CONTRATACIÓN DE PERSONAS CON DISCAPACIDAD”, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE TAMAULIPAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2022)</small>
+
+ARTICULO 205 BIS.- En observancia a lo establecido por la Ley de los Derechos de las Personas con Discapacidad del Estado de Tamaulipas, los Ayuntamientos deberán designar al menos el tres por ciento de su base laboral a la contratación de personas con discapacidad, misma que estará determinada por la certificación de sus competencias respectivas.
 
 ### CAPITULO V
 
@@ -6522,3 +6528,19 @@ P.O. 13 DE ABRIL DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 65-150 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 35 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS Y SE ADICIONA EL ARTÍCULO 205 BIS AL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los 43 Ayuntamientos de la Entidad tendrán hasta un año a partir de la entrada en vigor del presente Decreto para dotar sus instalaciones de accesibilidad realizando las adecuaciones necesarias en los edificios municipales para la verdadera integración de las personas con discapacidad al ámbito laboral y deberán colocar en los edificios públicos los sistemas de identificación visual-auditiva o a través de carteles en braille y/o guías capacitados como instrumentos para una adecuada posibilidad adaptativa con discapacidad.
+
+###### ARTÍCULO TERCERO.
+
+Remítase a la Comisión de Derechos Humanos del Estado de Tamaulipas, para su seguimiento y atención, el presente Decreto, especialmente a lo referente en el Artículo Segundo Transitorio.
