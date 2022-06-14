@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2021-12-14"
+last_updated: "2022-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE JUNIO DE 2022.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -1389,41 +1389,69 @@ Punibilidad específica atendiendo a la calidad de garante. Si el responsable es
 
 ### CAPÍTULO V. ABORTO
 
+> <small>(REFORMADO, B.O. 14 DE JUNIO DE 2022)</small>
+
 ###### Artículo 151.
 
-Concepto de aborto. Aborto es la muerte del producto de la concepción en cualquier momento del embarazo.
+Aborto es la interrupción del embarazo después de la decimosegunda semana de gestación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE JUNIO DE 2022)</small>
 
 ###### Artículo 152.
 
-Aborto con consentimiento. A quien hiciere abortar a una mujer con consentimiento previo de ésta, se le impondrán de seis meses a dos años de prisión o trabajo a favor de la comunidad hasta por doscientas jornadas.
+Se impondrán como máximo dos meses o sesenta días de trabajo a favor de la comunidad, a la mujer o persona con capacidad de gestar que voluntariamente procure su aborto o consienta en que otro le haga abortar, después de la decimosegunda semana de gestación. En este caso, el delito de aborto sólo se sancionará cuando se haya consumado.
+
+> <small>(ADICIONADO, B.O. 14 DE JUNIO DE 2022)</small>
+
+A quien hiciere abortar a una mujer o persona con capacidad de gestar, después de la decimosegunda semana de gestación, con el consentimiento de ésta, se le impondrá una penalidad consistente en hasta sesenta días de trabajo a favor de la comunidad.
+
+> <small>(REFORMADO, B.O. 14 DE JUNIO DE 2022)</small>
 
 ###### Artículo 153.
 
-Aborto sin consentimiento. A quien hiciere abortar a una mujer sin su consentimiento, se le impondrán de tres a ocho años de prisión. Si mediare violencia física o moral se impondrán de seis a nueve años de prisión.
+Aborto forzado es la interrupción del embarazo, en cualquier momento, sin el consentimiento de la mujer embarazada o persona embarazada. Para efectos de este artículo, al que hiciere abortar a una mujer o persona con capacidad de gestar, por cualquier medio sin su consentimiento, se le impondrá de tres a cinco años de prisión. Si mediare violencia física, emocional, psicológica o moral, se impondrá de ocho a diez años de prisión.
+
+> <small>(REFORMADO, B.O. 14 DE JUNIO DE 2022)</small>
 
 ###### Artículo 154.
 
-Aborto específico. Si el aborto lo causare un médico cirujano, comadrón o partera, enfermero o practicante, además de las consecuencias jurídicas que le correspondan conforme a este capítulo, se le suspenderá por el doble del tiempo de la pena de prisión impuesta en el ejercicio de su profesión u oficio.
+Si el aborto forzado lo causare un médico cirujano, comadrón o partera, enfermero o practicante, además de las sanciones que le correspondan conforme a este capítulo, se le suspenderá en el ejercicio de su profesión u oficio por un tiempo igual al de la pena de prisión impuesta.
 
 ###### Artículo 155.
 
-Aborto voluntario. A la mujer que voluntariamente practique su aborto se le impondrán de seis meses a dos años de prisión o trabajo a favor de la comunidad hasta por doscientas jornadas. En este caso, el delito de aborto sólo se sancionará cuando se haya consumado.
+(DEROGADO, B.O. 14 DE JUNIO DE 2022)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE JUNIO DE 2022)</small>
 
 ###### Artículo 156.
 
-Excluyentes de responsabilidad específicas. No se aplicará pena alguna por el delito de aborto:
+Se consideran como excluyentes de responsabilidad penal en el delito de aborto:
 
-I. Cuando el embarazo sea resultado de una violación o de una inseminación artificial no consentida;
+> <small>(REFORMADA, B.O. 14 DE JUNIO DE 2022)</small>
 
-II. Cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte o de afectación grave a su salud a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora;
+I. Cuando el embarazo sea resultado de una violación o de una inseminación artificial no consentida, independientemente de que exista, o no, causa penal sobre estos delitos;
 
-III. Cuando a juicio del médico que asista a la mujer, y de otro médico especialista, siempre que esto fuere posible y no sea peligrosa la demora exista razón suficiente para diagnosticar que el producto presenta alteraciones genéticas o congénitas que puedan dar como resultado daños físicos o mentales graves, siempre que se tenga el consentimiento de la mujer embarazada; o
+> <small>(REFORMADA, B.O. 14 DE JUNIO DE 2022)</small>
 
-IV. Que sea resultado de una conducta imprudente de la mujer embarazada.
+II. Cuando de no provocarse el aborto, la mujer o persona gestante corra peligro de muerte o de afectación grave a su salud a juicio del médico que la asista;
 
-En los casos de las fracciones I, y III los médicos tratantes tendrán la obligación de proporcionar a la mujer embarazada, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos, así como de los apoyos y alternativas existentes, con la finalidad de que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable.
+> <small>(REFORMADA, B.O. 14 DE JUNIO DE 2022)</small>
 
-Así mismo en los casos establecidos en la fracción I, el Ministerio Público autorizará su práctica a solicitud de la víctima. Cuando la mujer no denuncie la violación o la inseminación artificial y se practique el aborto, si prueba esta circunstancia durante el procedimiento por este último ilícito, la causa de justificación producirá todos sus efectos.
+III. Cuando a juicio de un médico especialista exista razón suficiente para diagnosticar que el producto presenta alteraciones genéticas o congénitas que puedan dar como resultado daños físicos o mentales, siempre que se tenga el consentimiento de la mujer o persona embarazada;
+
+> <small>(REFORMADA, B.O. 14 DE JUNIO DE 2022)</small>
+
+IV. Que sea resultado de una conducta culposa de la mujer o persona gestante;
+
+> <small>(ADICIONADA, B.O. 14 DE JUNIO DE 2022)</small>
+
+V. Cuando una autoridad le hubiese negado previamente la posibilidad de interrumpir su embarazo dentro del plazo de las primeras doce semanas de gestación;
+
+> <small>(REFORMADO, B.O. 14 DE JUNIO DE 2022)</small>
+
+En los casos contemplados en las fracciones I, II y III, los médicos tienen la obligación de proporcionar información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos a las mujeres y personas gestantes; así como de los apoyos y alternativas existentes, para que puedan tomar la decisión de manera libre, informada y responsable.
+
+> <small>(DEROGADO TERCER PÁRRAFO, B.O. 14 DE JUNIO DE 2022)</small>
 
 ### CAPÍTULO I. PROCREACIÓN ASISTIDA E INSEMINACIÓN ARTIFICIAL
 
@@ -4638,3 +4666,11 @@ Artículo Tercero.- Sin perjuicio de lo establecido en el Artículo Transitorio 
 Los citados protocoles deberán difundirse ampliamente y publicados en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Artículo Cuarto.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 14 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2832 SE REFORMAN LOS ARTÍCULOS 151, 152, 153, 154 Y LOS PÁRRAFOS PRIMERO, SEGUNDO Y LAS FRACCIONES DE LA I A LA IV DEL ARTÍCULO 156; SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 152 Y LA FRACCIÓN V DEL PÁRRAFO PRIMERO DE ARTÍCULO 156; SE DEROGAN EL ARTÍCULO 155 Y EL PÁRRAFO TERCERO DEL ARTÍCULO 156; TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR; SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 60 Y LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 62; SE ADICIONAN LOS ARTÍCULOS 32 BIS. 32 TER, 32 QUATER Y LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO AL ARTÍCULO 62, TODOS DE LA LEY DE SALUD DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
