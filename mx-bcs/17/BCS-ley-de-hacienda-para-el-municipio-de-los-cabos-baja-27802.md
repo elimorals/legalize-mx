@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-los-cabos-baja-27802"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-31"
-last_updated: "2021-12-27"
+last_updated: "2022-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE JUNIO DE 2022.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de diciembre de 2002.
 
@@ -737,7 +737,7 @@ Sobre el monto de los impuestos y derechos que establece esta ley, excepto los i
 
 Los ingresos que por conceptos de derechos obtenga el Ayuntamiento, procederán conforme a las disposiciones contenidas en la presente Ley y se referirá a las acciones y actividades que se contra presten por la administración municipal.
 
-1. Registro Público de la Propiedad y del Comercio
+1. (DEROGADO, B.O. 14 DE JUNIO DE 2022)
 
 2. Servicios Catastrales
 
@@ -749,7 +749,7 @@ Los ingresos que por conceptos de derechos obtenga el Ayuntamiento, procederán 
 
 5. Cooperación para obras públicas que realice el Ayuntamiento
 
-6. Servicios del Registro Civil
+6. (DEROGADO, B.O. 14 DE JUNIO DE 2022)
 
 7. Legalización de firmas, expedición de certificaciones, constancias y copias certificadas
 
@@ -859,439 +859,31 @@ IV. Las solicitadas de oficio por la autoridad de la Federación, del Estado y l
 
 Registro Público de la Propiedad.
 
-###### ARTÍCULO 73º.
+###### ARTÍCULO 73°.
 
-Los servicios que preste el Registro Público de la Propiedad causarán el pago de derechos, conforme a la siguiente:
+(DEROGADO, B.O. 14 DE JUNIO DE 2022)
 
-TARIFA:
+###### ARTÍCULO 74°.
 
-I. El examen de todo documento público o 4 días salario
-
-privado que se presente para su inscripción. mínimo.
-
-II. Por inscripción o registro de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier clase de títulos por virtud de los cuales se adquiera, transmita, modifique o se extinga el dominio o la posesión de bienes inmuebles o derechos derivados de un fideicomiso, además de la cuota fija, las cuotas acumulativas correspondientes a su valor.
-
-a). Cuota fija para toda clase de inscripciones, 5 días salario
-
-inclusive las de valor determinado. mínimo.
-
-b) Por el valor de la operación. 2.5 al millar.
-
-III. Por la inscripción de la escritura constitutiva o de los aumentos de capital social de sociedades y asociaciones civiles, sobre el importe del capital social de los aumentos del mismo, en los términos de la fracción anterior.
-
-Cuando no tengan capital establecido
-
-o se trate de reformas al acta 10 días salario
-
-constitutiva mínimo.
-
-IV. Por la inscripción de gravámenes sobre bienes inmuebles.
-
-a). Por contrato resolución judicial, por
-
-disposición testamentaria, la de los
-
-Títulos por virtud de los cuales se
-
-adquieran, transmitan, modifiquen o
-
-extingan derechos reales sobre
-
-inmuebles, distintos de dominio; de los
-
-que limiten el dominio del vendedor, a las
-
-de embargo, cédulas hipotecarias, servidumbres 20 días salario
-
-y fianzas. mínimo.
-
-V. Inscripciones de poderes, substitución
-
-o revocación de los mismos en forma
-
-total o parcial por cada poderdante o 5 días salario
-
-apoderado. mínimo.
-
-VI. La inscripción de créditos hipotecarios,
-
-refaccionarios o de habitación o avío. 1.25 al millar.
-
-En los casos a que se refiere esta 3 días salario
-
-Fracción, las cancelaciones causaran mínimo por cada
-
-pago de derechos a razón de cancelación.
-
-VII. La inscripción de las demandas a que
-
-se refiere el Artículo 71 del
-
-Reglamento del Registro de la 10 días salario
-
-Propiedad y del Comercio. mínimo.
-
-VIII. Las inscripciones de la constitución
-
-del patrimonio de familia y las
-
-informaciones conforme a la Fracción
-
-II del presente Artículo. EXENTA
-
-IX. La inscripción de testamentos,
-
-declaraciones de herederos,
-
-sentencias, declaraciones de 5 días salario
-
-concurso. Mínimo.
-
-X. Si se trata de bienes inmuebles identificables por marcas y números, la inscripción de la condición resolutoria en los casos de venta, de pacto de reserva de dominio de la propiedad del bien mueble y constitución de prenda en general, el 50% de la cuota que señala la Fracción II.
-
-XI. El depósito de testamentos ológrafos:
-
-a). Si se hace en las oficinas del Registro. 5 días salario
-
-mínimo.
-
-b). Si se hace fuera de las oficinas del 8 días salario
-
-Registro en horas ordinarias. mínimo.
-
-c). Si se hace fuera de las oficinas del 10 días salario
-
-Registro en horas extraordinarias. mínimo.
-
-XII. Por deposito de cualquier otro documento. 5 días salario
-
-mínimo.
-
-XIII. Las inscripciones de fraccionamientos de terrenos, debidamente autorizados, por cada lote el 50% de las cuotas que señala la Fracción II del presente Artículo.
-
-XIV. Ratificación de documentos privados
-
-ante el Registrador en el caso de la
-
-Fracción III del Artículo 2915 del
-
-Código Civil del Estado de Baja 10 días salario
-
-California Sur y constancia del mismo. Mínimo.
-
-XV. Por la expedición de certificados por cada persona y/o predio.
-
-a). Cuota fija por servicio hasta 10 años. 5 días salario
-
-mínimo.
-
-b). Por cada hoja 25% salario
-
-mínimo diario.
-
-XVI. Por la expedición de constancias, por 2 días salario
-
-cada persona: Cuota fija por servicio. mínimo.
-
-XVI. Bis. Las Certificaciones o constancias que son solicitadas con carácter de urgente, se causaran al doble de las cuotas aplicables, conforme a la Fracción anterior.
-
-XVII. Por los informes que rinda por escrito a solicitud de las Autoridades, a petición de parte interesada, que esté en posibilidad de obtenerlo directamente, las cuotas que correspondan conforme a las dos fracciones anteriores.
-
-XVIII. La cancelación de registro de 5 días salario
-
-sociedades civiles por extinción de las mismas. mínimo.
-
-XIX. La cancelación de las inscripciones en
-
-los casos a que se refieren las
-
-Fracciones IV y VII, causaran el 20%
-
-de las cuotas por su valor que señala
-
-la Fracción II, sin que pueda ser 2 días salario
-
-menos de mínimo.
-
-XX. La cancelación de las inscripciones
-
-en los casos a que se refiere la
-
-Fracción IX causara el 10% de las
-
-cuotas por valor que establece la 3 días salario
-
-Fracción II, sin que pueda ser menos de mínimo.
-
-XXI. Inscripción o registro de los contratos sobre transmisión de derechos de fideicomisario a que se refiere la Fracción XIII, del Artículo 36 de esta Ley.
-
-a). Cuota fija para toda clase de inscripción 5 días salario
-
-mínimo.
-
-b). Por el valor de la operación 2.5 al millar.
-
-En ningún caso los Derechos a que se refiere este Artículo, podrán ser mayores a treinta veces el salario mínimo general elevado al año, del área geográfica del domicilio fiscal del contribuyente.
-
-XXII.- Por la anotación marginal que 2 días de salario
-
-corresponda a cada bien inmueble. mínimo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
-
-XXIII.- En la expedición de copias certificadas
-
-a.- Pago fijo por servicio. 5 días salarios
-
-mínimos.
-
-b.- Por cada hoja adicional,
-
-a partir de la hoja numero 20. 2.00 pesos.
-
-###### ARTÍCULO 74º.
-
-Para el cobro de los derechos que establece el Artículo que antecede, se observarán las siguientes reglas:
-
-I. Se tendrá como valor para los efectos de la aplicación de las tasas en los casos de las Fracciones II, III, IV, XI, XV, XIX, XX y XXI respectivamente, del Artículo anterior, lo siguiente:
-
-a). Si se trata de patrimonio familiar, el de los bienes que lo constituyan.
-
-b). En los arrendamientos de inmuebles por mas de seis años con anticipo de rentas por mas de tres, el importe de las rentas estipuladas por el término del contrato, o el monto de las rentas anticipadas.
-
-c). Cuando se trata de actos, contratos o resoluciones por los que se transmita el dominio o la posesión de inmuebles o derechos reales, el precio de la transmisión señalado en el título o documento en que se haga constar.
-
-d). En los contratos de garantía, en los embargos y otros gravámenes, el monto de las obligaciones garantizadas.
-
-e). En los casos de información ad perpetuam y contratos privados, el valor de los inmuebles según avalúo pericial o fiscal de impuestos prediales, ambos actualizados.
-
-II. En las emisiones de cédulas hipotecarias en que se constituya hipoteca a favor de una institución de crédito, por las comisiones, cuotas, derechos y otro concepto que no pueda determinarse al momento de la (sic) realizarse la operación, se pagará por la inscripción de dicha hipoteca independientemente de la que se constituya a favor de los tenedores de las cédulas, las cuotas correspondientes por cantidad indeterminada.
-
-III. En toda transmisión de bienes o derechos reales que se realice por contrato o por resolución judicial, cuando en ella queden comprendidos varios bienes, se pagará sobre el valor de cada uno de ellos. Si la transmisión comprende varios bienes y se realiza por una suma alzada los interesados determinarán el valor que corresponda a cada uno de dichos bienes a efecto de que sirva de base para el cobro de los derechos.
-
-IV. En las operaciones de bienes inmuebles sujetas a condiciones suspensivas, resolutorias, reserva de propiedad o cualquier otra que haya de dar lugar a una inscripción complementaria, se pagará el 75% de lo que correspondería con arreglo a la Fracción II del Artículo anterior y al practicarse la inscripción complementaria se cubrirá el 25% restante.
-
-V. Para la aplicación de las tasas de la Fracción II del Artículo que antecede, la nuda propiedad y el usufructo se valuarán en su caso en el 50% del predio del inmueble respectivamente.
-
-VI. En los casos de servicios que preste el Registro Público de la Propiedad y que no se encuentren expresamente previstos en las disposiciones de este capítulo, los derechos que a ellos correspondan, se causarán por asimilación aplicando las disposiciones relativas a los casos con los que guarden semejanza.
-
-VII. Cuando se trate de contratos, demandas o resoluciones que se refieran a prestaciones periódicas, se tendrá como valor la suma total de estas, si se puede determinar exactamente su cuantía. En caso contrario, se tomará como base la cantidad que resulte haciendo el cómputo por un año.
-
-VIII. No se causarán los derechos a que se refiere el Artículo que antecede:
-
-a). Si se trata de inscripciones relativas a bienes inmuebles o derechos reales, pertenecientes a la Nación, al Gobierno del Estado o a los Municipios cuando dichas entidades las soliciten.
-
-b). Por los informes o certificaciones que solicite el Gobierno Federal, las Autoridades del Estado y las Municipales.
-
-c). Por los informes solicitados por Autoridades Judiciales para asuntos penales o para juicios de amparo.
+(DEROGADO, B.O. 14 DE JUNIO DE 2022)
 
 #### Sección Segunda. Registro Público del Comercio
 
-###### ARTÍCULO 75º.
+###### ARTÍCULO 75°.
 
-Los servicios que preste el Registro Público de Comercio, causarán derechos de acuerdo con la siguiente:
+(DEROGADO, B.O. 14 DE JUNIO DE 2022)
 
-TARIFA:
+###### ARTÍCULO 76°.
 
-I. Examen de todo documento publico o
-
-privado que se presente al Registro
-
-para su inscripción 4 días salario
-
-mínimo diario.
-
-II. Inscripción de matricula:
-
-a). Por cada comerciante individual 3 días salario
-
-mínimo diario.
-
-b). Por cada sociedad mercantil 3 días salario
-
-mínimo diario.
-
-III. Inscripción de la Escritura Constitutiva
-
-de Sociedades Mercantiles o en las
-
-relativas a aumentos de su capital
-
-social, se cobrará sobre el monto del
-
-capital social, o de sus aumentos el
-
-100% de las cuotas que correspondan 5 días salario
-
-conforme a la Fracción II el Artículo 73. mínimo.
-
-IV. Inscripción de las modificaciones a las
-
-escrituras constitutivas de sociedades
-
-mercantiles, que no se refieran a 10 días salario
-
-aumentos del capital social. mínimo.
-
-IV-A Certificación de segundos y posteriores 5 días salario
-
-testimonios de escrituras publicas. mínimo.
-
-V. Inscripción de actas de asambleas de 10 días salario
-
-socios o de Juntas de Administradores. mínimo.
-
-VI. Deposito del programa a que se refiere
-
-el Artículo 92 de la Ley General de 10 días salario
-
-Sociedades Mercantiles. mínimo.
-
-VII. Inscripción del acta de emisión de
-
-bonos y obligaciones de sociedades
-
-anónimas el 100% de las cuotas que
-
-correspondan, conforme a la Fracción 10 días salario
-
-II del Artículo 73. mínimo.
-
-VIII. Inscripción de la disolución 10 días salario
-
-Sociedades Mercantiles. mínimo.
-
-IX. Inscripción de la liquidación de 10 días salario
-
-Sociedades Mercantiles. mínimo.
-
-X. Inscripción de la disolución y
-
-liquidación de Sociedades Mercantiles
-
-cuando se lleven a efecto en un solo
-
-acto 15 días (sic) mínimo.
-
-XI. Cancelación de la inscripción del 10 días salario
-
-contrato de Sociedades mínimo.
-
-XII. Inscripción de poderes, sustitución y
-
-revocación de los mismos en forma
-
-total o parcial, por cada poderdante y/o 6 días salario
-
-apoderado. mínimo.
-
-XIII. Inscripciones relativas a habilitación de
-
-edad, licencia o emancipación para
-
-ejercer el comercio, licencia marital o
-
-el requisito que por disposición de la
-
-Ley requiera cualquiera de los
-
-cónyuges para determinados actos de
-
-de comercio, la revocación de unos y
-
-otros y las escrituras a que se refieren
-
-las Fracciones X y XI del Artículo 21 3 días salario
-
-del Código de Comercio. mínimo.
-
-XIV. Inscripción de contratos Mercantiles de cualquier clase, enumerados en el Artículo 75 del Código de Comercio, sobre el valor:
-
-a). Cuota fija para toda clase de
-
-inscripciones, inclusive las de valor 5 días salario
-
-determinado mínimo.
-
-b). Por el valor de la operación 2.5 al millar.
-
-XV. Inscripción de contratos de corresponsalía de Instituciones de crédito:
-
-a). Por inscripción 15 días salario
-
-mínimo.
-
-b). Por cancelación 10 días salario
-
-mínimo.
-
-XVI. Inscripción de créditos hipotecarios, 2.5 al millar
-
-refaccionarios y de habilitación o avío sobre su valor.
-
-XVII. Su cancelación 3 días salario
-
-mínimo.
-
-XVIII. Inscripción de resoluciones judiciales
-
-en que se declare una quiebra o se 10 días salario
-
-admita una liquidación judicial mínimo.
-
-XIX. Anotaciones marginales relativas a 1 día salario
-
-inscripciones principales mínimo.
-
-XX. Depósito y guarda de cualquier 1 día salario
-
-documento mínimo.
-
-XXI. Ratificaciones de documentos y firmas 5 días salario
-
-ante el Registrador mínimo.
-
-XXII. Búsqueda de datos y revisión de libros 3 días salario
-
-para informes y certificaciones mínimo.
-
-XXIII. Expedición de certificados relativos a constancia de registro.
-
-a) por cada do aumento 5 días salario
-
-mínimo.
-
-b) por cada hoja adicional 1 día salario
-
-mínimo.
-
-En ningún caso los derechos a que se refiere este Artículo, podrán ser mayores a treinta veces el salario mínimo general elevado al año.
-
-###### ARTÍCULO 76º.
-
-Para el cobro de los derechos que establece el Artículo anterior, se observarán las siguientes reglas:
-
-I. Cuando el mismo título origine dos o más inscripciones, los derechos se causarán por cada una de ellas.
-
-II. En los casos en que un título tenga que inscribirse en varias secciones, la cotización se hará separadamente por cada una de ellas.
-
-III. En los contratos mercantiles en que medie condición suspensiva, resolutoria, reserva de propiedad o cualquier otra modalidad a que dé lugar a una inscripción complementaria para su perfeccionamiento, se paga de acuerdo con el Artículo anterior.
-
-IV. Cuando deban hacerse inscripciones de distintas operaciones que deriven de la constitución o disolución de alguna sociedad mercantil, se cobrarán los derechos exclusivamente por la inscripción que se haga en la sección de comercio.
-
-V. Los contratos en que se pacten prestaciones periódicas se valuarán en la suma de estas, si se puede determinar exactamente su cuantía y en caso contrario, por lo que resulte de hacer el cómputo correspondiente a un año.
-
-VI. En los casos no previstos expresamente en el artículo anterior, los derechos por servicios que preste el Registro Público de Comercio se causarán por asimilación de acuerdo con las Fracciones relativas a casos con los que guarden semejanza; y
-
-VII. Se exceptúan del pago de derechos de inscripción en el Registro Público de Comercio, a las Sociedades Cooperativas Escolares que se establezcan en las escuelas de la Secretaría de Educación Pública y que estén bajo su vigilancia.
+(DEROGADO, B.O. 14 DE JUNIO DE 2022)
 
 ### Capítulo Tercero. Servicios Catastrales
 
-###### ARTÍCULO 77º.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE JUNIO DE 2022)</small>
 
-Los servicios prestados por las oficinas catastrales, causarán un derecho que se pagará previamente a su expedición conforme a las cuotas de la siguiente:
+###### ARTÍCULO 77°.
+
+Los servicios prestados por las oficinas catastrales, causarán un derecho que se pagara previamente a su expedición conforme a las cuotas de la siguiente:
 
 TARIFA:
 
@@ -1311,15 +903,15 @@ la Unidad de
 
 Medida y Actualización.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, B.O. 14 DE JUNIO DE 2022)</small>
 
 III. Avalúos periciales por cada predio
 
-sobre su valor. Sin que Pueda ser
+sobre su valor. Sin que pueda ser
 
-Inferior a un día de salario mínimo;
+inferior a una vez el valor de la
+
+Unidad de Medida y Actualización;
 
 incluyendo cedula de información
 
@@ -1522,6 +1114,14 @@ diario de la Unidad
 de Medida y
 
 Actualización.
+
+> <small>(ADICIONADO, B.O. 14 DE JUNIO DE 2022)</small>
+
+Los trámites y servicios que brinda la Dirección de Catastro deberán ser pagados previo a su análisis, para tal efecto, la Oficialía de Partes, elaborará el entero de cobro y una vez pagado, será canalizado al área interna correspondiente para su elaboración y, en su caso la autorización final.
+
+> <small>(ADICIONADO, B.O. 14 DE JUNIO DE 2022)</small>
+
+Por cada asignación de clave catastral y elaboración de manifestación, se deberá cobrar la tarifa a que refiere este artículo, con independencia de que provengan del mismo acto jurídico a manifestar o catastrar.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1975,145 +1575,25 @@ II. La aportación será: 33.4% los beneficiarios, 33.3 % el Gobierno del Estado
 
 ### Capítulo Séptimo. Servicios del Registro Civil
 
-###### ARTÍCULO 92º.
+###### ARTÍCULO 92°.
 
-Los actos del Registro Civil de nacimiento y defunción que se realicen por gestión de instituciones públicas de salud y los matrimonios gestionados por el Sistema para el Desarrollo Integral de la Familia en su carácter de institución de asistencia social, quedarán exentas de pago siempre que se realicen colectivamente como resultado de programas encaminados a fomentar la unión familiar.
+(DEROGADO, B.O. 14 DE JUNIO DE 2022)
 
-###### ARTÍCULO 93º.
+###### ARTÍCULO 93°.
 
-Los actos del Registro Civil causarán derechos conforme a la siguiente
+(DEROGADO, B.O. 14 DE JUNIO DE 2022)
 
-TARIFA:
+###### ARTÍCULO 94°.
 
-I. Registro de nacimientos:
+(DEROGADO, B.O. 14 DE JUNIO DE 2022)
 
-a). En horas hábiles, en la oficina exento
+###### ARTÍCULO 95°.
 
-b). En horas inhábiles, en la oficina 3 días salario
+(DEROGADO, B.O. 14 DE JUNIO DE 2022)
 
-mínimo.
+###### ARTÍCULO 96°.
 
-c). Fuera de la oficina 10 días salario
-
-mínimo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
-
-d). Registro de Nacimiento Extemporáneo 3 días
-
-salario
-
-mínimo.
-
-II. Matrimonios:
-
-a). En horas inhábiles en la oficina 10 días salario
-
-mínimo.
-
-b). Fuera de las oficinas 25 días salario
-
-mínimo.
-
-c) En horas hábiles en oficina 5 días salario
-
-mínimo.
-
-d). Registro de matrimonios contraídos 25 días salario
-
-por mexicanos fuera de la República mínimo.
-
-d) (sic). Registro de matrimonios contraídos 25 días salario
-
-por extranjeros fuera de la República mínimo.
-
-III. Divorcios:
-
-a). Por el divorcio administrativo
-
-contemplado en el Artículo 278 del
-
-Código Civil para el Estado de Baja 25 días salario
-
-California Sur. mínimo.
-
-b). Por el registro de divorcio dictado 10 días salario
-
-por la Autoridad judicial. mínimo.
-
-IV. Actas de supervivencia levantadas a 3 día salario
-
-domicilio mínimo.
-
-V. Inscripciones de extranjeros ante el 25 días salario
-
-Registro Civil mínimo.
-
-VI. Cualquier otro acto del Registro Civil 1 día salario
-
-no contemplado mínimo.
-
-VII. Expedición de actas de nacimiento 50% día salario
-
-mínimo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
-
-VIII.- Anotación de la sentencia de la Perdida
-
-de la Patria Potestad. 3 días de
-
-salario
-
-mínimo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
-
-IX.- Anotación de la Resolución de Adopción
-
-Simple y Plena. 10 días de
-
-salario
-
-mínimo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
-
-X.- Reconocimiento de Hijos 5 días de
-
-salario
-
-mínimo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
-
-XI.- Cambio de Régimen de Sociedad Conyugal 10 días de
-
-salario
-
-mínimo.
-
-###### ARTÍCULO 94º.
-
-Todos los actos y las certificaciones del Registro Civil que no estén contempladas en el artículo anterior, causarán derechos y se cubrirá el pago de un día salario mínimo.
-
-###### ARTÍCULO 95º.
-
-Los Oficiales del Registro Civil, y las secretarias percibirán el 30% y el 15% respectivamente, de los derechos cobrados cuando se realicen los actos matrimoniales fuera de sus oficinas sin incluir en el computo, el impuesto adicional.
-
-###### ARTÍCULO 96º.
-
-Los actos del Registro Civil se efectuarán previo el pago de los derechos a que se refiere el Artículo 93. Los Oficiales del Registro Civil que actúen sin que hayan sido cubiertos los derechos, serán responsables solidarios de su pago por dicha omisión.
+(DEROGADO, B.O. 14 DE JUNIO DE 2022)
 
 ### Capítulo Octavo. Legalización de firmas, expedición de certificados y Copias certificadas
 
@@ -2459,45 +1939,9 @@ Capítulo Decimotercero
 
 Servicios de Seguridad y Tránsito
 
-###### ARTÍCULO 113º.
+###### ARTÍCULO 113°.
 
-Los derechos por servicios de control vehicular se pagarán anualmente, en los meses de Enero, Febrero, Marzo y Abril, de acuerdo con el Calendario que establezca la Autoridad Municipal correspondiente, y conforme a la siguiente:
-
-TARIFA
-
-I. Camiones y Camionetas: 5 salarios mínimos
-
-II. Automóviles: 4 salarios mínimos
-
-III. Motocicletas: 2 salarios mínimos
-
-IV. Bicicletas: 1 salarios mínimos (sic)
-
-V. Vehículos de tracción manual: 1 salarios mínimos (sic)
-
-VI. Por la Expedición de Permisos 16% del salario mínimo
-
-provisionales: por día sin excederse
-
-de 30 días
-
-VII. Por revisión electromecánica: 1 salario mínimo
-
-VIII. Permiso Único para circular
-
-con una sola placa no mayor de
-
-30 días: 1 salario mínimo
-
-IX. Permiso para circular con el
-
-parabrisas estrellado: Sin
-
-excede, se de 30 días y por única vez: 1 salario mínimo
-
-X. Baja de placas: 1 salario mínimo
-
-XI. Reporte de extravío de placas. EXENTO
+(DEROGADO, B.O. 14 DE JUNIO DE 2022)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2509,61 +1953,61 @@ Los permisos y renovaciones de otros derechos por servicios de control vehicular
 
 TARIFA:
 
-I.- Permiso o renovación de ruta
+> <small>(REFORMADA, B.O. 14 DE JUNIO DE 2022)</small>
 
-para camiones que presten servicio
+I.- Permiso o renovación de ruta 22 veces el valor diario de la
 
-turístico de pasajeros: 12 salarios mínimos
+para camiones que presten servicio Unidad de Medida y
 
-II.- Permiso o renovación de ruta
+turístico de pasajeros: Actualización.
 
-salarios mínimos para explotar
+> <small>(REFORMADA, B.O. 14 DE JUNIO DE 2022)</small>
 
-autos de alquiler, camiones de
+II.- Permiso o renovación de ruta 22 veces el valor diario de la
 
-servicios y cualquier
+para explotar autos de alquiler, Unidad de Medida y
 
-explotación semejante: 7 salarios mínimos
+camiones de servicios y cualquier Actualización.
 
-III.- Las personas físicas y morales
+explotación semejante:
 
-que tengan negocios registrados con
+> <small>(REFORMADA, B.O. 14 DE JUNIO DE 2022)</small>
 
-venta de automóviles, deberán usar
+III.- Las personas físicas y morales 22 veces el valor diario de la
 
-para el tránsito de sus vehículos en
+que tengan negocios registrados Unidad de Medida y
 
-venta, placas demostradoras de
+con venta de automóviles, deberán Actualización.
+
+usar para el tránsito de sus vehículos
+
+en venta, placas demostradoras de
 
 acuerdo con lo establecido en el
 
 reglamento de tránsito, las cuales
 
-tendrán un valor anual por juego de: 12 salarios mínimos
+tendrán un valor anual, por juego de:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, B.O. 14 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+IV.- Permiso o renovación para 22 veces el valor diario
 
-IV.- Permiso o renovación para
+explotar vehículos de alquiler de la Unidad de Medida y
 
-explotar vehículos de alquiler sin
+sin chofer y vehículos turísticos Actualización.
 
-chofer y vehículos turísticos de pasaje. 22 salarios mínimos
+de pasaje.
 
-V.- Reposición de tarjeta de circulación: 3 salarios mínimos
+V.- (DEROGADA, B.O. 14 DE JUNIO DE 2022)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, B.O. 14 DE JUNIO DE 2022)</small>
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+VI.- Permiso Particular de 79 veces el valor diario
 
-VI.- Permiso Particular de Transporte de
+Transporte de Personal. de la Unidad de Medida y
 
-Personal. 50 días
-
-de Salarios
-
-anual
+Actualización.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2573,185 +2017,93 @@ VII.- Permiso Particular de pasaje escolar de
 
 Instituciones publicas gubernamentales exento
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, B.O. 14 DE JUNIO DE 2022)</small>
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+VIII.- Permiso Particular de 79 veces el valor diario
 
-VIII.- Permiso Particular de pasaje escolar
+pasaje escolar de instituciones de la Unidad de Medida y
 
-de instituciones Privadas o particulares 50 días de
+Privadas o particulares Actualización.
 
-Salarios
+> <small>(REFORMADA, B.O. 14 DE JUNIO DE 2022)</small>
 
-Anual
+IX.- Permiso Particular de 24 veces el valor diario
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Transporte de Carga de de la Unidad de Medida y
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+materiales sólidos a través de Actualización por cada
 
-IX.- Permiso Particular de Transporte de Carga
+vehículos tipo volteo, góndolas, metro cubico.
 
-de materiales sólidos a través de vehículos tipo
+caja cerrada o similar.
 
-volteo, góndolas, caja cerrada o similar. 15 días de
+> <small>(REFORMADA, B.O. 14 DE JUNIO DE 2022)</small>
 
-salario
+X.- Permiso Particular de Transporte 24 veces el valor diario
 
-mínimo por
+de Carga especializada por conducto de la Unidad de Medida y
 
-cada metro
+de vehículos tipo cisternas o colectores Actualización por cada
 
-cúbico o
+de basuras, grúas y análogos. metro cubico o tonelada de
 
-tonelada de
+capacidad de la unidad.
 
-capacidad
+> <small>(REFORMADA, B.O. 14 DE JUNIO DE 2022)</small>
 
-de la unidad.
+XI.- Permiso Particular de Transporte 79 veces el valor diario
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+especializada (sic) a través de de la Unidad de Medida y
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+ambulancia o similares Actualización.
 
-X.- Permiso Particular de Transporte de Carga
+> <small>(REFORMADA, B.O. 14 DE JUNIO DE 2022)</small>
 
-Especializada por conducto de vehículos tipo
+XII.- Permiso o renovación para 40 veces el valor diario
 
-Cisternas o colectores de basuras, grúas y
+explotar vehículo de alquiler tipo de la Unidad de Medida y
 
-Análogos. 15 días de
+motos, go-karts, bicitaxis, calandrias, Actualización.
 
-salario
+rhinos, bicicletas, vehículos tipo buggis.
 
-mínimo por
+> <small>(REFORMADA, B.O. 14 DE JUNIO DE 2022)</small>
 
-cada metro
+XIII.- Cambio de unidad destinada 05 veces el valor diario
 
-cúbico o
+para el servicio público para el de la Unidad de Medida y
 
-tonelada de
+transporte terrestre Actualización.
 
-capacidad
+> <small>(REFORMADA, B.O. 14 DE JUNIO DE 2022)</small>
 
-de la unidad.
+XIV.- Permiso provisional para 11 veces el valor diario
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+circular para servicio público que de la Unidad de Medida y
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+no exceda de 30 días. Actualización.
 
-XI.- Permiso Particular de Transporte especializada
+> <small>(REFORMADA, B.O. 14 DE JUNIO DE 2022)</small>
 
-A través de ambulancia o similares. 50 días
+XV.- Permiso o Autorización Nuevo 90 veces el valor diario
 
-salario
+o Por cesión de derechos para la de la Unidad de Medida y
 
-mínimo.
+explotación de servicios en la renta Actualización por unidad o
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+al público de motos, go-karts, bicitaxis, vehículo autorizado, único.
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+calandrias, rhinos, bicicletas,
 
-XII.- Permiso o renovación para explotar vehículo
+vehículos tipo buggis.
 
-de alquiler tipo motos, go-karts, bicitaxis,
+###### ARTÍCULO 115°.
 
-calandrias, rhinos, bicicletas, vehículos tipo
+(DEROGADO, B.O. 14 DE JUNIO DE 2022)
 
-bugis. 20 días de
+###### ARTÍCULO 116°.
 
-salario
-
-mínimo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
-
-XIII.- Cambio de unidad destinada para el
-
-Servicio publico para el transporte terrestre. 3 días de
-
-salario
-
-mínimo
-
-por cada
-
-cambio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
-
-XIV.- Permiso provisional para circular para
-
-Servicio publico que no exceda de 30 días. 7 días de
-
-salario
-
-mínimo
-
-por cada
-
-permiso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
-
-XV.- Permiso o Autorización Nuevo o Por cesión
-
-de derechos para la explotación de servicios en
-
-la renta al público de motos, go-karts, bicitaxis,
-
-calandrias, rhinos, bicicletas, vehículos tipo bugis. 50 días de
-
-salario
-
-mínimo por
-
-unidad o
-
-vehículo,
-
-único.
-
-###### ARTÍCULO 115º.
-
-La dotación y reposición de placas de identificación del servicio de control vehicular, tendrán un costo de acuerdo a la siguiente.
-
-TARIFA:
-
-l.- Camiones, automóviles y remolque: 8 salarios mínimos
-
-II. Motocicletas, bicicletas y
-
-vehículos de tracción manual: 4 salarios mínimos
-
-###### ARTÍCULO 116º.
-
-No se podrán conducir vehículos de motor sin obtener previamente su licencia para conducir cumpliendo los requisitos establecidos. El costo por dicho trámite será conforme a la siguiente tabla:
-
-I. Licencia de chofer (por 3 añosa) 10 salarios mínimos
-
-II. Licencia de automovilista (por
-
-3 años): 6 salarios mínimos
-
-III. Licencia de motociclista (por 3
-
-años): 4 salarios mínimos
-
-IV. Permisos para conducir a menores:
-
-Jóvenes mayores de 16 menores de
-
-18 años (máximo 90 días), previo
-
-curso de manejo: 10 salarios mínimos
-
-Por el resello anual se causará el 20% de la tarifa anterior.
+(DEROGADO, B.O. 14 DE JUNIO DE 2022)
 
 ###### ARTÍCULO 117º.
 
@@ -3579,29 +2931,29 @@ ARTÍCULO 146° Por la expedición de títulos de propiedad se pagará una cuota
 
 ### Capítulo Quinto. Venta de papel para copias de Actas del Registro Civil
 
-###### ARTÍCULO 147º.
+###### ARTÍCULO 147°.
 
-Por la venta de papel para copias de actas de Registro Civil, se cobrará una cuota de $ 2.00 por hoja.
+(DEROGADO, B.O. 14 DE JUNIO DE 2022)
 
-###### ARTÍCULO 148º.
+###### ARTÍCULO 148°.
 
-Los oficiales del Registro Civil extenderán las certificaciones y copias certificadas exclusivamente en el papel autorizado, salvo en los casos expresamente exceptuados por la Ley.
+(DEROGADO, B.O. 14 DE JUNIO DE 2022)
 
-###### ARTÍCULO 149º.
+###### ARTÍCULO 149°.
 
-El papel para copias de actas del Registro Civil, será impreso en los términos del Artículo 10 de la Ley del Registro Civil para el Estado de Baja California Sur.
+(DEROGADO, B.O. 14 DE JUNIO DE 2022)
 
-###### ARTÍCULO 150º.
+###### ARTÍCULO 150°.
 
-Los encargados de las oficinas del Registro Civil pondrán en las hojas de papel de que se trate, que por cualquier circunstancia se inutilicen, una nota autorizada sobre el motivo de la inutilización y las cambiarán en la Tesorería Municipal por hojas utilizables.
+(DEROGADO, B.O. 14 DE JUNIO DE 2022)
 
-###### ARTÍCULO 151º.
+###### ARTÍCULO 151°.
 
-Al concluir cada año fiscal, serán devueltas a la Tesorería Municipal las hojas de papel en existencia, incluyendo las que hubieren inutilizado, para que con las que tengan en su poder, las remitan al Presidente Municipal para su destrucción. La Tesorería Municipal, al hacer la remisión dará cuenta del movimiento habido durante el año en este ramo. El Ayuntamiento señalará las formalidades que deban observar para la destrucción.
+(DEROGADO, B.O. 14 DE JUNIO DE 2022)
 
-###### ARTÍCULO 152º.
+###### ARTÍCULO 152°.
 
-En caso de que a los Oficiales del Registro Civil les sean presentadas hojas sin los requisitos de ley, las recogerán y harán la consignación ante el Ministerio Público.
+(DEROGADO, B.O. 14 DE JUNIO DE 2022)
 
 #### Sección Única. Venta de formatos oficiales
 
@@ -3731,9 +3083,9 @@ Además de las que señale la presente Ley, las multas o sanciones por infraccio
 
 Sin perjuicio de lo señalado en el artículo que antecede se establecen las siguientes sanciones económicas por:
 
-> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 14 DE JUNIO DE 2022)</small>
 
-a) Por desacato al bando de Policía y Buen Gobierno, Reglamento de Tránsito y demás disposiciones relativas vigentes en el Municipio de Los Cabos, se impondrán de acuerdo a lo siguiente:
+a) Por desacato al Bando de Policía y Buen Gobierno, Reglamento de Tránsito y demás disposiciones relativas vigentes en el Municipio de Los Cabos, se impondrán de acuerdo a lo siguiente:
 
 TARIFA:
 
@@ -3781,9 +3133,13 @@ del agente. 10 a 11
 
 10 Faltas al agente. 10 a 11
 
-11 Prestar servicios publico
+> <small>(REFORMADA, B.O. 14 DE JUNIO DE 2022)</small>
 
-sin autorización. 65 a 66
+11 Prestar servicios públicos o
+
+privados de transporte sin
+
+autorización Hasta 300
 
 12 Circular fuera de ruta. 55 a 56
 
@@ -4189,35 +3545,19 @@ para conducir. 0
 
 500
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, B.O. 14 DE JUNIO DE 2022)</small>
 
-(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009) (F. DE E., B.O. 20 DE ENERO DE 2013)
+137 De 0.08 a 0.20 Aliento alcohólico 40
 
-137 De 0.08 a 0.20 Aliento alcohólico 25 días
+> <small>(REFORMADA, B.O. 14 DE JUNIO DE 2022)</small>
 
-salario min.
+138 De 0.21 a 0.39 Ebrio completo 80
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009) (F. DE E., B.O. 20 DE ENERO DE 2013)
-
-138 De 0.21 a 0.39 Ebrio completo 50 días de
-
-salario min.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009) (F. DE E., B.O. 20 DE ENERO DE 2013)
+> <small>(REFORMADA, B.O. 14 DE JUNIO DE 2022)</small>
 
 139 De 0.40 en adelante, no es apto
 
-Para conducir. 100 días
-
-de
-
-salario
-
-mínimo
+Para conducir. 160
 
 (ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012) (F. DE E., B.O. 20 DE ENERO DE 2013)
 
@@ -4816,3 +4156,11 @@ PRIMERO.- El presente Decreto entrara en vigor el día 01 de febrero del año 20
 SEGUNDO.- EL H. Ayuntamiento del Municipio de los Cabos, a través de su Presidente Municipal, a partir de la publicación del presente Decreto, tendrá hasta el día de entrada en vigor del mismo para llevar a cabo la conformación del Fideicomiso de Saneamiento Ambiental del Municipio de Los Cabos, fecha en la que deberá poner a disposición de los obligados a retener y enterar las formas aprobadas por la Tesorería Municipal a través de los medios electrónicos dispuestos por ésta para el entero del Derecho de saneamiento Ambiental.
 
 TERCERO.- En la elaboración y aprobación del presupuesto de egresos de cada año, el Ayuntamiento deberá considerar los rubros porcentuales que serán aplicables según las acciones a las que determine destinar los egresos que con base en el esquema de presupuesto base cero provengan respetivamente de los ingresos cuyo origen sea el Saneamiento ambiental contemplado en el presente Decreto, siendo facultad del Fideicomiso que al efecto se constituya, la determinación específica de cada una de las acciones y/u obras a realizar respectando irrestrictamente los rubros y porcentajes determinados.
+
+B.O. 14 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2827 SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial de (sic) Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
