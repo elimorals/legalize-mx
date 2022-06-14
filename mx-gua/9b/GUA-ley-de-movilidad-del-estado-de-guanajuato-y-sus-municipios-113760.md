@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-movilidad-del-estado-de-guanajuato-y-sus-municipios-1137
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-18"
-last_updated: "2022-06-03"
+last_updated: "2022-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 18 de marzo de 2016.
 
@@ -3209,6 +3209,10 @@ Margen para multas
 
 La aplicación de la multa se estará a lo establecido por el reglamento respectivo, el cual la fijará dentro de un margen de una a quinientas veces el valor diario de la Unidad de Medida y Actualización, atendiendo al tipo de falta y su gravedad, las circunstancias de su comisión y las personales del infractor.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2022)</small>
+
+En el caso de la multa por no contar con constancia o distintivo vigente de verificación vehicular, esta será fijada dentro de un margen de veinte a cuarenta veces el valor diario de la Unidad de Medida y Actualización.
+
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2022)</small>
 
 La multa aplicable por la prestación del servicio público de transporte, sin contar con la concesión o el permiso correspondiente, será de doscientas a setecientas cincuenta veces el valor diario de la Unidad de Medida y Actualización, independientemente de las sanciones que correspondan por el delito cometido en su caso.
@@ -3728,3 +3732,11 @@ Artículo Cuarto. Los permisos del servicio especial de transporte ejecutivo que
 Asignación de recursos presupuestales
 
 Artículo Quinto. La Secretaría de Finanzas, Inversión y Administración realizará las adecuaciones presupuestales que resulten necesarias a fin de dotar de los recursos humanos, materiales y financieros que permitan el cumplimiento del presente Decreto.
+
+P.O. 14 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 78, MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES, AL ARTÍCULO 251 DE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
