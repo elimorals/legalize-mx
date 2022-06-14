@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-salud-para-el-estado-de-baja-california-sur-43850"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2019-08-31"
+last_updated: "2022-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE JUNIO DE 2022.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el día 31 de diciembre de 2004.
 
@@ -475,6 +475,38 @@ XIII.- La prevención y atención a los grupos de personas mayores de 60 años, 
 
 XIV.- Las demás que establezca esta Ley o disposiciones legales aplicables.
 
+> <small>(ADICIONADO, B.O. 14 DE JUNIO DE 2022)</small>
+
+ARTÍCULO 32 BIS. Las instituciones de salud deberán garantizar en todo momento, la presencia de personal médico profesional y de enfermería de carácter no objetor, a fin de garantizar el acceso a servicios de salud. No podrán ser jefes de servicio de las instituciones de salud quienes sean objetores de conciencia.
+
+Las instituciones deberán establecer y mantener actualizado un registro para que el personal médico profesional y de enfermería adscrito a dicho servicio manifieste su decisión de ser objetor especificando los servicios que objeta, a fin de garantizar el acceso efectivo al derecho humano a la salud.
+
+Para los efectos del párrafo anterior, únicamente podrá ejercer el derecho a la objeción de conciencia el personal médico y de enfermería que participe directamente en los procedimientos sanitarios sujetos a la objeción. Ninguna persona podrá ser obligada a declararse personal objetor o no objetor.
+
+Para ejercer la objeción de conciencia en un procedimiento sanitario, el personal médico o de enfermería deberá haber informado previamente su decisión a la institución en la que preste sus servicios, mediante el mecanismo que disponga la Secretaría.
+
+Los datos personales obtenidos a través de dicho mecanismo y que tiene por objeto dar a conocer la declaración de objeción de conciencia del personal médico profesional y de enfermería, sea esta en sentido positivo o negativo, estarán siempre protegidos por la Ley General de Protección de Datos Personales en Posesión de los Particulares y Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
+
+> <small>(ADICIONADO, B.O. 14 DE JUNIO DE 2022)</small>
+
+ARTÍCULO 32 TER. El personal médico y de enfermería no podrá invocar la objeción de conciencia:
+
+I. Cuando su ejercicio ponga en riesgo la vida del o la paciente.
+
+II. Cuando se trate de una urgencia médica o
+
+III. Cuando su ejercicio implique una carga desproporcionada para los pacientes.
+
+IV. Cuando se invoque como argumento para negar la atención médica por motivos discriminatorios o de odio.
+
+> <small>(ADICIONADO, B.O. 14 DE JUNIO DE 2022)</small>
+
+ARTÍCULO 32 QUATER. El personal médico profesional y de enfermería, con independencia del carácter objetor o no objetor, deberán proporcionar toda la información y orientación sobre las opciones médicas con que cuenta la persona beneficiaria de los servicios de salud.
+
+Se abstendrán de intentar persuadir a las personas beneficiarias con cualquier doctrina con el fin de evitar que se realice un procedimiento que pudiera ser contrario a las convicciones del personal facultativo y de enfermería o vulnerar la dignidad humana de las personas beneficiarias de los servicios de salud.
+
+Si la persona beneficiara requiere que se realice alguno de los servicios que objeta, sin que se actualicen los supuestos contemplados en el artículo 32 BIS, el personal objetor deberá remitir a la persona beneficiaria de la atención de la salud, de inmediato y sin mayor demora o trámite, con su superior jerárquico o con personal médico o de enfermería no objetor.
+
 > <small>(REFORMADO [N. DE E. REPUBLICADO], B.O. 20 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 33.
@@ -663,9 +695,9 @@ La atención materna infantil tiene carácter prioritario y obligatorio con cali
 
 I.- La atención de la mujer durante el embarazo, parto y puerperio;
 
-> <small>(REFORMADA, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, B.O. 14 DE JUNIO DE 2022)</small>
 
-II.- La atención infantil que implica la asistencia desde el momento de su concepción, nacimiento, así como el control y seguimiento de su crecimiento y desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas, y en su caso atención, que incluya la aplicación de la prueba del tamiz cardiológico por oximetría de pulso para la detección de cardiopatías congénitas graves;
+II.- La atención materno infantil que implica la asistencia en salud a la mujer y persona con capacidad de gestar, durante el embarazo, el nacimiento, así como el control y seguimiento del crecimiento y desarrollo integral del recién nacido incluyendo la promoción de la vacunación oportuna, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas, y en su caso atención, que incluya la aplicación de la prueba del tamiz cardiológico por oximetría de pulso para la detección de cardiopatías congénitas graves;
 
 III.- La atención del menor, del preescolar, y escolar en los centros educativos; y
 
@@ -677,11 +709,27 @@ La atención de la mujer con emergencia obstétrica, deberá ser prioritaria y p
 
 Una vez resuelto el problema inmediato y que no ponga en peligro la vida de la madre y el producto, se procederá a efectuar la referencia a la unidad que corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 62.
 
-Las instituciones públicas de salud en el Estado de Baja California Sur, gratuitamente y las privadas mediante el costo correspondiente, en condiciones de calidad, deberán proceder a la interrupción del embarazo en los supuestos permitidos por el Código Penal para el Estado, siempre y cuando medie la orden ministerial correspondiente, previo consentimiento de la mujer interesada.
+Las instituciones públicas de salud deberán proceder a la interrupción del embarazo, en forma gratuita y en condiciones de calidad, en los supuestos permitidos en el Código Penal vigente y en la NOM-046- SSA2-2005, cuando la mujer interesada o persona con capacidad de gestar así lo solicite.
 
-La interrupción del embarazo deberá realizarse a más tardar en un término de cinco días, contados a partir de que sea presentada la orden ministerial a la institución de salud correspondiente.
+> <small>(REFORMADO, B.O. 14 DE JUNIO DE 2022)</small>
+
+Para ello, las instituciones de salud pondrán a disposición de las mujeres y personas con capacidad de gestar, servicios de consejería médica, psicológica y social con información veraz y oportuna de las opciones con que cuentan ellas y su derecho a decidir.
+
+> <small>(ADICIONADO, B.O. 14 DE JUNIO DE 2022)</small>
+
+Cuando la mujer o persona con capacidad de gestar decida practicarse la interrupción de su embarazo, la institución deberá efectuarla en un término no mayor a cinco días, contados a partir de que sea presentada la solicitud y satisfechos los requisitos establecidos en las disposiciones aplicables.
+
+> <small>(ADICIONADO, B.O. 14 DE JUNIO DE 2022)</small>
+
+Las instituciones de salud del Gobierno atenderán las solicitudes de interrupción del embarazo a todas las mujeres y personas con capacidad de gestar solicitantes, aun cuando cuenten con algún otro servicio de salud público o privado. El servicio tendrá carácter universal, gratuito y sin condicionamiento alguno.
+
+> <small>(ADICIONADO, B.O. 14 DE JUNIO DE 2022)</small>
+
+También ofrecerán servicios de salud sexual, de salud reproductiva y de planificación familiar a la mujer o a persona con capacidad de gestar, que haya practicado la interrupción de su embarazo, en los términos de esta Ley y de las disposiciones legales aplicables.
 
 ###### ARTÍCULO 63.
 
@@ -3336,3 +3384,13 @@ El Comité Técnico previa disponibilidad presupuestal podrá contratar personal
 ###### ARTÍCULO SÉPTIMO.
 
 Los procedimientos iniciados con anterioridad a la entrada en vigor de esta Ley, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio
+
+B.O. 14 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2832 SE REFORMAN LOS ARTÍCULOS 151, 152, 153, 154 Y LOS PÁRRAFOS PRIMERO, SEGUNDO Y LAS FRACCIONES DE LA I A LA IV DEL ARTÍCULO 156; SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 152 Y LA FRACCIÓN V DEL PÁRRAFO PRIMERO DE (SIC) ARTÍCULO 156; SE DEROGAN EL ARTÍCULO 155 Y EL PÁRRAFO TERCERO DEL ARTÍCULO 156; TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR; SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 60 Y LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 62; SE ADICIONAN LOS ARTÍCULOS 32 BIS, 32 TER, 32 QUATER Y LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO AL ARTÍCULO 62, TODOS DE LA LEY DE SALUD DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. El Ejecutivo del Estado deberá realizar los ajustes y modificaciones administrativas, reglamentarias y financieras necesarias y suficientes para garantizar el derecho de la mujer a la salud sexual y salud reproductiva que se contemplan en el presente decreto, entre los ajustes y modificaciones deberá garantizarse que exista por lo menos una o un médico que practique la interrupción del embarazo en las instituciones públicas de salud.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
