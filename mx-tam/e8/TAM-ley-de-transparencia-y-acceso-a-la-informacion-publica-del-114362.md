@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1143
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-27"
-last_updated: "2021-07-14"
+last_updated: "2022-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114362&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
 
 Ley publicada en el anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 27 de abril de 2016.
 
@@ -1191,7 +1191,9 @@ III.- Lista de acuerdos;
 
 IV.- Las tesis y ejecutorias publicadas a través del órgano o medio de difusión, respectivo en su caso;
 
-V.- Las versiones públicas de las sentencias que sean de interés público;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2022)</small>
+
+V.- Las versiones públicas de todas las sentencias emitidas;
 
 VI.- Las versiones estenográficas de las sesiones públicas, en su caso;
 
@@ -2640,3 +2642,11 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al (sic) día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-160 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 71, FRACCIÓN V, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
