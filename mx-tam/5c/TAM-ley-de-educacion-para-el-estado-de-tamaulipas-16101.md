@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2022-05-05"
+last_updated: "2022-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -441,9 +441,9 @@ Las autoridades educativas participarán en la actualización e integración per
 
 XXIII.- Participar con la autoridad educativa federal en la operación de los mecanismos de administración escolar;
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2022)</small>
 
-XXIV.- Fomentar y supervisar el uso responsable de las tecnologías de la información y la comunicación, en las Instituciones que integran el Sistema Educativo Estatal, con base en los lineamientos generales que emita la autoridad educativa federal;
+XXIV.- Fomentar entre los educandos y padres de familia o tutores campañas sobre el uso responsable de las tecnologías de la información y la comunicación, y supervisar el manejo de las mismas en las Instituciones que integran el Sistema Educativo Estatal a fin de prevenir la violencia digital, con base en los lineamientos generales que emita la autoridad educativa federal.
 
 > <small>(REFORMADA, P.O. 5 DE MAYO DE 2022)</small>
 
@@ -2428,3 +2428,11 @@ P.O. 5 DE MAYO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-166 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXIV, DEL ARTÍCULO 12, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
