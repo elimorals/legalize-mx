@@ -4,7 +4,7 @@ identifier: "TAM-codigo-para-el-desarrollo-sustentable-del-estado-de-61509"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-06-05"
-last_updated: "2022-01-04"
+last_updated: "2022-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de junio de 2008.
 
@@ -321,13 +321,17 @@ XLVIII. Riesgo ambiental: El daño potencial a la población, sus bienes y al me
 
 XLIX. Secretaría: La Secretaría de Desarrollo Urbano y Medio Ambiente;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2022)</small>
 
-L. Secretaría Federal: La Secretaría de Medio Ambiente y Recursos Naturales; y
+L. Secretaría Federal: La Secretaría de Medio Ambiente y Recursos Naturales;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2022)</small>
 
-LI. Servicios ambientales: Los que brindan los ecosistemas de manera natural o por medio del manejo sustentable de los recursos naturales que los integran, tales como: la provisión del agua en calidad y cantidad; la captura de bióxido de carbono, de contaminantes y componentes naturales; la generación de oxígeno; el amortiguamiento del impacto de los fenómenos naturales; la modulación o regulación climática; la protección de la biodiversidad, los ecosistemas y las formas de vida; la protección y recuperación de suelos; y el paisaje y la recreación, entre otros.
+LI. Servicios ambientales: Los que brindan los ecosistemas de manera natural o por medio del manejo sustentable de los recursos naturales que los integran, tales como: la provisión del agua en calidad y cantidad; la captura de bióxido de carbono, de contaminantes y componentes naturales; la generación de oxígeno; el amortiguamiento del impacto de los fenómenos naturales; la modulación o regulación climática; la protección de la biodiversidad, los ecosistemas y las formas de vida; la protección y recuperación de suelos; y el paisaje y la recreación, entre otros; y
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2022)</small>
+
+LII. Zona de restricción: Área en la que se restringe toda actividad de aprovechamiento en virtud de que la misma, por la ubicación en que se realiza, genera un daño al medio ambiente o causa una grave afectación a zonas naturales protegidas.
 
 ### CAPITULO II. DE LA LEGALIDAD Y SUPLETORIEDAD
 
@@ -1087,9 +1091,13 @@ XXXIV. Formular, expedir y ejecutar los programas de ordenamiento ecológico reg
 
 XXXV. (DEROGADA, P.O. 7 DE ENERO DE 2010)
 
-XXXVI. Atender los demás asuntos que se prevén en este Libro y otros ordenamientos concordantes con el mismo, y que no se encuentren otorgados expresamente a la Federación; y
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2022)</small>
 
-XXXVII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas.
+XXXVI. Fomentar la cultura de un trato digno y respetuoso a los animales, así como la importancia de la adopción, vacunación, desparasitación y las consecuencias ambientales, sociales y de salud pública que genera el abandono y la libre reproducción de animales de compañía;
+
+XXXVII. Atender los demás asuntos que se prevén en este Libro y otros ordenamientos concordantes con el mismo, y que no se encuentren otorgados expresamente a la Federación; y
+
+XXXVIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas.
 
 ###### ARTICULO 45.
 
@@ -3285,9 +3293,15 @@ I. Verter o descargar contaminantes en el suelo, subsuelo y cualquier clase de c
 
 II. Interrumpir, rellenar, desecar o desviar los flujos hidráulicos;
 
-III. Realizar actividades cinegéticas o de explotación y aprovechamiento de especies de flora y fauna silvestres, sin la autorización correspondiente; y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2022)</small>
 
-IV. Ejecutar acciones que contravengan lo dispuesto por este Código, la declaratoria respectiva y las disposiciones que de ella se deriven o los demás ordenamientos aplicables.
+III. Realizar actividades cinegéticas o de explotación y aprovechamiento de especies de flora y fauna silvestres, sin la autorización correspondiente;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2022)</small>
+
+IV. El establecimiento de cualquier asentamiento humano irregular o de nuevos asentamientos humanos regulares o su expansión territorial que afecte a dichas zonas, así como la extracción de suelo o materiales del subsuelo de estas con fines distintos a los estrictamente científicos o a los que por excepción se establecen en este Código; y
+
+V. Ejecutar acciones que contravengan lo dispuesto por este Código, la declaratoria respectiva y las disposiciones que de ella se deriven o los demás ordenamientos aplicables.
 
 ###### ARTICULO 186.
 
@@ -5370,3 +5384,19 @@ P.O. 4 DE ENERO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-148 MEDIANTE EL CUAL SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS Y LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-161 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4, FRACCIONES L Y LI, Y 185, FRACCIÓN III; Y SE ADICIONAN UNA FRACCIÓN LII AL ARTÍCULO 4, Y UNA FRACCIÓN IV RECORRIÉNDOSE LA ACTUAL EN SU ORDEN NATURAL AL ARTÍCULO 185, DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
