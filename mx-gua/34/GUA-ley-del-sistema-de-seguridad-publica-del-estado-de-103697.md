@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-sistema-de-seguridad-publica-del-estado-de-103697"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2021-12-31"
+last_updated: "2022-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de noviembre de 2014.
 
@@ -407,13 +407,45 @@ VIII. Ejecutar y hacer observar los acuerdos del Sistema y del Sistema Nacional,
 
 IX. Las demás que le confiera la presente Ley y otros ordenamientos jurídicos aplicables.
 
-Informe del Director de Seguridad Pública Municipal
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+Informes
 
 ###### Artículo 18.
 
-El Director de Seguridad Pública Municipal o su equivalente, deberá rendir trimestralmente un informe al Ayuntamiento y a la Secretaría, sobre los avances del Programa Municipal de Seguridad Pública, y el de Prevención social de la violencia y la delincuencia en los términos de la Ley de la materia, así como de la situación que prevalezca en el municipio.
+El director de Seguridad Pública Municipal o su equivalente, deberá rendir trimestralmente un informe al Ayuntamiento y a la Secretaría, sobre los avances del Programa Municipal de Seguridad Pública, y el de Prevención social de la violencia y la delincuencia en los términos de la Ley de la materia, así como de la situación que prevalezca en el municipio.
+
+El informe deberá presentarse durante la primera quincena posterior al trimestre calendario a reportar y contendrá, por lo menos, los siguientes datos:
+
+I. La relación de asuntos atendidos;
+
+II. La estadística de comisión de delitos y faltas administrativas;
+
+III. Reporte de las zonas de incidencia delictiva, con referencia a los días, horas y lugares en que ocurran hechos ilícitos o faltas administrativas;
+
+IV. La estadística de disminución de delitos y faltas administrativas;
+
+V. Los datos estadísticos en los que se refiera la edad, el sexo, así como la ocupación de los infractores;
+
+VI. La estadística sobre los infractores reincidentes;
+
+VII. La información relativa a la evaluación de la actuación de la institución policial a su cargo, que deberá considerar lo siguiente:
+
+a) La capacidad de respuesta a los llamados para la intervención de la institución policial municipal;
+
+b) Tiempos de reacción ante las peticiones de ayuda;
+
+c) Tiempos de resolución de las peticiones de ayuda;
+
+d) La frecuencia de patrullaje del territorio;
+
+e) Horas de patrullaje en el territorio.
+
+VIII. En general, aquellos datos que favorezcan el fortalecimiento de las labores de seguridad pública y de prevención y control del delito.
+
+La información señalada en los incisos d y e de la fracción VII será de carácter reservada y deberá entregarse directa y únicamente a los integrantes del ayuntamiento.
+
+El incumplimiento de guardar la reserva o el proporcionar información sobre la que se ha tenido acceso se sancionará conforme al procedimiento de responsabilidad administrativa o penal, según corresponda.
 
 Caso de fuerza mayor o alteración grave del orden público
 
@@ -2257,7 +2289,7 @@ c) Tipo «C». Que autoriza a su titular a conducir, además de las unidades con
 
 d) Tipo «D». Que autoriza a su titular a conducir motocicletas, motonetas y otros vehículos similares; este tipo no autoriza a conducir ningún vehículo de los considerados en los incisos anteriores.
 
-III Los permisos de conducir se podrán expedir a las personas mayores de quince años y menores de dieciocho, con las modalidades, requisitos y condiciones que señale la Secretaría; y
+III. Los permisos de conducir se podrán expedir a las personas mayores de quince años y menores de dieciocho, con las modalidades, requisitos y condiciones que señale la Secretaría; y
 
 IV. Las personas con discapacidad o movilidad reducida que cuenten con las habilidades y aptitudes necesarias para conducir cualquiera de los vehículos automotores de servicio particular, tendrán derecho a que se les expida la licencia o permiso para conducir correspondiente, satisfaciendo los requisitos y condiciones que señale la Secretaría.
 
@@ -3140,3 +3172,11 @@ Artículo Séptimo. Las secretarías de Gobierno y de Seguridad Pública podrán
 Asignación de recursos presupuestales
 
 Artículo Octavo. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos para la asignación de recursos presupuestales a la Secretaría de Seguridad Pública, para la adecuada operación de las atribuciones, funciones y servicios que se le asignan en los términos del presente Decreto.
+
+P.O. 14 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 79, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 18 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
