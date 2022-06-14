@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2022-06-01"
+last_updated: "2022-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -361,9 +361,15 @@ f) Firmar, en el Salón de Sesiones, junto con quien presida la Mesa Directiva o
 
 g) Suscribir la correspondencia que acuerde el presidente de la Mesa Directiva;
 
-h) Expedir las certificaciones que disponga el presidente de la Mesa Directiva sobre las leyes, decretos y acuerdos emitidos por el Pleno; e
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2022)</small>
 
-i) Las demás que les atribuyan la Constitución Política del Estado, esta ley y los ordenamientos relativos a la actividad parlamentaria, o que le sean conferidas por el presidente de la Mesa Directiva.
+h) Expedir las certificaciones que disponga el presidente de la Mesa Directiva sobre las leyes, decretos y acuerdos emitidos por el Pleno;
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2022)</small>
+
+i) Tener la representación legal del Congreso para rendir informes en juicios de amparo, actuar en controversias constitucionales y acciones de inconstitucionalidad, e intervenir en cualquier litigio o acto jurídico, y delegarla en la persona o personas que resulte necesario, siempre y cuando medie Punto de Acuerdo aprobado por el Pleno Legislativo por mayoría relativa para ejercer tal atribución para un caso en concreto; y
+
+j) Las demás que les atribuyan la Constitución Política del Estado, esta ley y los ordenamientos relativos a la actividad parlamentaria, o que le sean conferidas por el presidente de la Mesa Directiva.
 
 2. La Mesa Directiva acordará el orden de actuación y desempeño de los secretarios en las sesiones del Pleno.
 
@@ -3700,3 +3706,11 @@ P.O. 1 DE JUNIO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición.
+
+P.O. 14 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-142 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 23, NUMERAL 1, INCISO H), Y SE ADICIONA EL INCISO I), RECORRIENDO EN SU ORDEN NATURAL EL SUBSECUENTE PARA SER INCISO J) DEL MISMO ARTÍCULO Y NUMERAL, DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y será publicado de manera inmediata en el Periódico Oficial del Estado.
