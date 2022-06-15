@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-de-la-ciudad-de-mexico-149711"
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-07"
-last_updated: "2022-04-06"
+last_updated: "2022-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149711&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-06-04"
 
 LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JUNIO DE 2022.
 
 Ley publicada en el No. 612 de la Gaceta Oficial de la Ciudad de México, el lunes 7 de junio de 2021.
 
@@ -285,6 +285,10 @@ XXXVI. Coordinar y proponer a las autoridades educativas locales y federales com
 XXXVII. Fomentar el cooperativismo para garantizar la aplicación estricta de sus principios y practicarlo en las cooperativas escolares, vigilar la contratación de servicios y la compra de mercancías que se expendan en los planteles educativos, procurando que los alimentos tengan valor nutricional y eviten la obesidad infantil, de acuerdo con las normas correspondientes;
 
 XXXVIII. Establecer con la organización sindical titular del contrato colectivo en materia educativa, disposiciones y convenios laborales, sociales y asistenciales que regirán la relación con las personas educadoras de conformidad con la normativa aplicable, y
+
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2022)</small>
+
+XXXVIII bis. Promover la capacitación del personal docente en las materias de derechos humanos, igualdad y no discriminación en la educación, así como la eliminación de todo tipo de estereotipos, prejuicios, detrimentos y estigmas de los grupos de atención prioritaria; y
 
 XXXIX. Las demás que establezcan otras disposiciones legales en materia educativa.
 
@@ -844,9 +848,17 @@ III. Otorgar becas que cubran la impartición del servicio educativo, que no pod
 
 IV. Informar semestralmente a la Secretaría los resultados de las actividades que realicen, donde se incluyan las estadísticas correspondientes, además de los aspectos relativos a la organización, escolaridad y técnicos de la institución;
 
-V. Facilitar y colaborar en las actividades de evaluación, inspección y vigilancia que las autoridades competentes realicen u ordenen, y
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2022)</small>
 
-VI. Mencionar en la documentación y publicidad que expidan su calidad de incorporados, el número y fecha del acuerdo respectivo y la autoridad que lo otorgó.
+V. Facilitar y colaborar en las actividades de evaluación, inspección y vigilancia que las autoridades competentes realicen u ordenen;
+
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2022)</small>
+
+VI. Mencionar en la documentación y publicidad que expidan su calidad de incorporados, el número y fecha del acuerdo respectivo y la autoridad que lo otorgó; y
+
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2022)</small>
+
+VII. Garantizar la capacitación del personal docente en materia de derechos humanos, igualdad y no discriminación en la educación, así como, la eliminación de todo tipo de estereotipos, prejuicios, detrimentos y estigmas de los grupos de atención prioritaria.
 
 ###### Artículo 78.
 
@@ -910,9 +922,17 @@ VII. Atender las necesidades de prevención, vigilancia y protección civil en b
 
 VIII. Crear Centros Educativos y de Apoyo para las niñas, niños y adolescentes en situación de calle, atendiendo el interés superior de la niñez;
 
-IX. Crear casas de estudiantes indígenas y apoyar las de estudiantes de otras entidades mediante la celebración de convenios de colaboración con los gobiernos de las entidades federativas de donde provienen, y
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2022)</small>
 
-X. Crear bibliotecas en los centros educativos, en las colonias y barrios, dotándolas de los recursos bibliográficos, hemerográficos, videográficos y electrónicos suficientes para un servicio adecuado y eficiente.
+IX. Crear casas de estudiantes indígenas y apoyar las de estudiantes de otras entidades mediante la celebración de convenios de colaboración con los gobiernos de las entidades federativas de donde provienen;
+
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2022)</small>
+
+X. Crear bibliotecas en los centros educativos, en las colonias y barrios, dotándolas de los recursos bibliográficos hemerográficos, videográficos y electrónicos suficientes para un servicio adecuado y eficiente; y
+
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2022)</small>
+
+XI. Promover cursos en materia de derechos humanos, igualdad y no discriminación en la educación, así como la eliminación de todo tipo de estereotipos, prejuicios, detrimentos y estigmas de los grupos de atención prioritaria.
 
 ### CAPÍTULO IX. DE LA EVALUACIÓN DEL SISTEMA EDUCATIVO DE LA CIUDAD DE MÉXICO
 
@@ -1196,9 +1216,11 @@ El personal docente de la Ciudad, gozará de una remuneración digna, que le per
 
 El personal docente de educación básica y media superior dedicará el tiempo escolar fundamentalmente a actividades de aprendizaje, debiendo cumplir con el calendario escolar establecido.
 
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2022)</small>
+
 ###### Artículo 117.
 
-El personal que ejerce la docencia, así como el personal que labora en los planteles de educación, deberán estar capacitados para tomar las medidas que aseguren la protección, el cuidado de los educandos y la corresponsabilidad que tienen al estar encargados de su custodia, así como protegerlos contra toda forma de maltrato, violencia, perjuicio, daño, agresión, abuso, trata o explotación sexual o laboral. En caso de que el personal docente, el personal que labora en los planteles educativos o las autoridades educativas, tengan conocimiento de la comisión de algún hecho que la ley señale como delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
+El personal que ejerce la docencia, así como el personal que labora en los planteles de educación, deberán estar capacitados para tomar las medidas que aseguren la protección, el cuidado de los educandos y la corresponsabilidad que tienen al estar encargados de su custodia, evitando todo tipo de estereotipos, prejuicios y estigmas de los grupos de atención prioritaria, así como protegerlos contra toda forma de discriminación, maltrato, violencia, perjuicio, daño, agresión, abuso, trata o explotación sexual o laboral. En caso de que el personal docente, el personal que labora en los planteles educativos o las autoridades educativas, tengan conocimiento de la comisión de algún hecho que la ley señale como delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
 
 ### CAPÍTULO XIII. DE LA PARTICIPACIÓN DE LOS ACTORES SOCIALES EN EL SISTEMA EDUCATIVO DE LA CIUDAD DE MÉXICO
 
@@ -1338,9 +1360,17 @@ XV. Disponer indebidamente de los bienes y recursos destinados a la educación;
 
 XVI. Abstenerse de cumplir con los planes y programas de estudio que las autoridades educativas hayan determinado;
 
-XVII. Ejercer la docencia sin el título profesional y las certificaciones o constancias para que cada nivel o tipo de educación exige la presente Ley, y
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2022)</small>
 
-XVIII. Realizar actividades que pongan en riesgo la integridad de los educandos.
+XVII. Ejercer la docencia sin el título profesional y los certificados y constancias que para cada nivel o tipo de educación exige la presente ley;
+
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2022)</small>
+
+XVIII. Realizar actividades que pongan en riesgo la integridad de los educandos; y
+
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2022)</small>
+
+XIX. Cometer cualquier conducta discriminatoria por sí o por interpósita persona, que tenga por objeto o resultado la negación, exclusión, distinción, menoscabo, impedimento o restricción de los derechos de las personas, grupos y/o comunidades, así como a quien se abstenga de denunciarlas.
 
 ###### Artículo 130.
 
@@ -1431,3 +1461,11 @@ G.O. 6 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 9; LA FRACCIÓN X DEL ARTÍCULO 129; Y LA FRACCIÓN IV DEL ARTÍCULO 130; DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO”.]
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL VIGENTE EN LA CIUDAD DE MÉXICO.
+
+G.O. 15 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA EL ARTÍCULO 206 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL. SE REFORMA EL ARTÍCULO 12 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DE LA CIUDAD DE MÉXICO. SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 26 DE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO. SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 10, 65 Y 66 PÁRRAFO PRIMERO Y SE ADICIONA LA FRACCIÓN VIII BIS, AL APARTADO A, DEL ARTÍCULO 10, TODOS DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO, SE MODIFICA EL PÁRRAFO PRIMERO DEL ARTÍCULO 7 Y SE LE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 49, TODOS DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO, SE MODIFICA EL PRIMER PÁRRAFO Y SE ADICIONA LA FRACCIÓN III BIS, AMBAS AL ARTÍCULO 5 DE LA LEY DE PROTECCIÓN Y FOMENTO AL EMPLEO DEL DISTRITO FEDERAL Y SE ADICIONA LA FRACCIÓN XXXVIII BIS AL ARTÍCULO 9, LA FRACCIÓN VII AL ARTÍCULO 77, LA FRACCIÓN XI AL ARTÍCULO 86, LA FRACCIÓN XIX AL ARTÍCULO 129, Y SE MODIFICAN LAS FRACCIONES V Y VI DEL ARTÍCULO 77, LAS FRACCIONES IX Y X DEL ARTÍCULO 86, EL ARTÍCULO 117, LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 129, TODOS DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO”.]
+
+Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
