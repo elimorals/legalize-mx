@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-coordinacion-hacendaria-del-estado-de-morelos-38748"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-07"
-last_updated: "2020-12-31"
+last_updated: "2022-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 7 de abril de 2004.
 
@@ -153,9 +153,11 @@ La distribución que corresponda a cada municipio para participar de la recaudac
 
 I.- El 60% en razón directa al número de habitantes que registre el municipio, de acuerdo a los últimos datos oficiales de población emitidos por el INEGI, a mayor número de habitantes mayor monto;
 
-II.- El 20% en relación directa al grado de mayor marginalidad que registre cada municipio, de acuerdo a los índices de marginación emitidos en el último informe oficial del Consejo Estatal de Población (COESPO MORELOS), considerando hasta nueve decimales, conforme al siguiente criterio:
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2022)</small>
 
-Los índices de marginación de los municipios se convierten a número positivos, sumándole a todos ellos el entero inmediato superior al índice del municipio que tengan mayor marginación, una vez que se tienen número positivos, el resultado de cada uno se divide entre la suma del total de estos indicadores, el nuevo resultado se multiplica por el monto a distribuir por este concepto.
+II.- El 20% en relación directa al grado de mayor marginalidad que registre cada municipio, de acuerdo con el Índice de Marginación Normalizado publicado por el Consejo Nacional de Población, o bien por la dependencia u organismo federal que en su caso lo sustituya, considerando hasta nueve decimales, conforme al siguiente criterio:
+
+A la unidad se le resta el Índice de marginación normalizado de cada uno de los 36 municipios; el resultado de todos los municipios se suma; el resultado de cada municipio se divide entre el total de la suma; y el nuevo resultado de cada uno de ellos se multiplica por el monto a distribuir por este concepto.
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
 
@@ -802,3 +804,13 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 SEGUNDA. El presente Decreto entrará en vigor a partir del 01 de enero de 2021, previa publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 15 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRESCIENTOS ONCE.- POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 7 DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS”.]
+
+PRIMERO. Remítase el presente al titular del Poder Ejecutivo del Estado, para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente decreto.
