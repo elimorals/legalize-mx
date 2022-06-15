@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109622"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-17"
-last_updated: "2017-04-26"
+last_updated: "2022-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2022.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 17 de junio de 2015.
 
@@ -285,7 +285,13 @@ XIX. Derecho a la seguridad jurídica y al debido proceso.
 
 XX. Derechos de niñas, niños y adolescentes migrantes.
 
-XXI. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2022)</small>
+
+XXI. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e internet, en términos de lo previsto en la Ley Federal de Telecomunicaciones y radiodifusión; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2022)</small>
+
+XXII. Derecho a la Integridad Emocional.
 
 El Estado y sus municipios, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición, a través de la ejecución de las acciones coordinadas que para el efecto se establezcan en los Programas Estatal y Municipales, respectivamente.
 
@@ -2364,3 +2370,11 @@ P.O. 26 DE ABRIL DE 2017.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 15 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 146 DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XXII AL ARTÍCULO 15 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero: El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial.
+
+Artículo Segundo: Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
