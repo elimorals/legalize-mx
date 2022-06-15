@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2022-06-10"
+last_updated: "2022-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2011-01-14"
 
 LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 15 DE JUNIO DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -310,7 +310,7 @@ Los titulares de las ventanillas únicas que operan en la Alcaldía, brindarán 
 
 DE LAS OBLIGACIONES Y PROHIBICIONES DE LOS TITULARES.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 15 DE JUNIO DE 2022)</small>
 
 ###### Artículo 10.
 
@@ -345,6 +345,10 @@ Las salidas de emergencia deberán estar debidamente señaladas al interior de l
 > <small>(REFORMADA, G.O. 4 DE MAYO DE 2018)</small>
 
 VIII. Todo Perro de Asistencia, Perros de Servicio, Perros Guía, Perro de Señal, Perro de Servicio para niños del Espectro Autista, Perro de Alerta Médica; y cualquier otra categoría que pueda surgir para el auxilio y salvaguarda humana, tendrá acceso libre e irrestricto al Espacio Público, establecimientos mercantiles, instalaciones y transportes individuales o colectivos, sean de carácter público o privado, siempre que vaya acompañado de la persona a la que asiste.
+
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2022)</small>
+
+VIII bis. Realizar todas las acciones pertinentes para evitar cualquier forma de discriminación establecidas en los artículos 5 y 6 de la Ley para Prevenir y Eliminar la Discriminación de la Ciudad de México, en perjuicio de alguna persona o comunidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE FEBRERO DE 2012)</small>
 
@@ -1400,17 +1404,17 @@ El aseguramiento de bebidas se llevará a cabo con el traslado de las mismas al 
 
 Se sancionará con el equivalente de 25 a 125 veces la Unidad de Cuenta de la Ciudad de México vigente, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 Apartado A fracciones VIII y IX inciso a); 10 apartado B fracciones I y IX; 11 fracción VIII; 23 fracciones I, II, III, IV, VI y VII; 28 párrafo primero, segundo, cuarto y quinto; 40 fracciones II y III; 42 fracciones I y II; 43 fracciones II, IV, V, VI, VII y VIII; 45; 56 fracciones IV, V, VI y VIII, y 57 de la presente Ley.
 
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2022)</small>
 
 ###### Artículo 65.
 
-Se sancionará con el equivalente de 126 a 350 veces la Unidad de Cuenta de la Ciudad de México vigente, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones III, VII párrafo primero, IX incisos b) y c), X; 10 apartado B fracciones II, III y VII; 11 fracciones III, IV, y VII, 12; 15; 21; 22; fracción II; 23 fracción V; 33; 34; 37; 39; 40, fracciones I, IV, V, VI; 42 fracciones III, IV, V, 43 fracciones I y III; 46; 47 fracciones I, II, III 48 fracciones III, VI, VII, X, 50; 53; 54; 56 fracciones II, III y VII.
+Se sancionará con el equivalente de 126 a 350 veces la Unidad de Medida y Actualización diaria vigente de la Ciudad de México, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones III, VII párrafo primero, fracción VIII bis, IX incisos b) y c), X; 10 apartado B fracciones II, III y VII; 11 fracciones III, IV, y VII, 12; 15; 21; 22; fracción II; 23 fracción V; 33; 34; 37; 39; 40, fracciones I, IV, V, VI; 42 fracciones III, IV, V, 43 fracciones I y III; 46; 47 fracciones I, II, III, 48 fracciones III, VI, VII, X, 50; 53; 54; 56 fracciones II, III y VII.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JUNIO DE 2022)</small>
 
 ###### Artículo 66.
 
-Se sancionará con el equivalente de 351 a 2500 veces la Unidad de Cuenta de la Ciudad de México vigente, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones I, II, IV, V, VI, VII párrafo segundo, XI, XII, XIII y XIV; 10 apartado B fracciones II inciso b), IV, V, VI y VIII; 11 fracciones I, II, V, VI, IX, X; 13; 18; 20; 22 fracción XI segundo y tercer párrafo; 23; 24; 25 párrafo tercero; 26 párrafo cuarto; 27; 28 párrafo tercero; 29; 30; 32; 35; 36; 41; 45; 47 fracción IV y V; 48 fracciones I, II, V, VIII y IX; 49 párrafo segundo; 52; 55; 56 fracción I y 58 de esta Ley.
+Se sancionará con el equivalente de 351 a 2500 veces la Unidad de Medida y Actualización diaria vigente, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones I, II, IV, V, VI, VII párrafo segundo, VIII bis, XI, XII, XIII y XIV; 10 apartado B fracciones II inciso b), IV, V, VI y VIII; 11 fracciones I, II, V, VI, IX, X; 13; 18; 20; 22 fracción XI segundo y tercer párrafo; 23; 24; 25 párrafo tercero; 26 párrafo cuarto; 27; 28 párrafo tercero; 29; 30; 32; 35; 36; 41; 45; 47 fracción IV y V; 48 fracciones I, II, V, VIII y IX; 49 párrafo segundo; 52; 55; 56 fracción I y 58 de esta Ley.
 
 > <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1825,3 +1829,11 @@ G.O. 10 DE JUNIO DE 2022.
 Primero. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 15 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA EL ARTÍCULO 206 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL. SE REFORMA EL ARTÍCULO 12 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DE LA CIUDAD DE MÉXICO. SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 26 DE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO. SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 10, 65 Y 66 PÁRRAFO PRIMERO Y SE ADICIONA LA FRACCIÓN VIII BIS, AL APARTADO A, DEL ARTÍCULO 10, TODOS DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO, SE MODIFICA EL PÁRRAFO PRIMERO DEL ARTÍCULO 7 Y SE LE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 49, TODOS DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO, SE MODIFICA EL PRIMER PÁRRAFO Y SE ADICIONA LA FRACCIÓN III BIS, AMBAS AL ARTÍCULO 5 DE LA LEY DE PROTECCIÓN Y FOMENTO AL EMPLEO DEL DISTRITO FEDERAL Y SE ADICIONA LA FRACCIÓN XXXVIII BIS AL ARTÍCULO 9, LA FRACCIÓN VII AL ARTÍCULO 77, LA FRACCIÓN XI AL ARTÍCULO 86, LA FRACCIÓN XIX AL ARTÍCULO 129, Y SE MODIFICAN LAS FRACCIONES V Y VI DEL ARTÍCULO 77, LAS FRACCIONES IX Y X DEL ARTÍCULO 86, EL ARTÍCULO 117, LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 129, TODOS DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO”.]
+
+Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
