@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-136644"
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-07"
-last_updated: "2019-11-20"
+last_updated: "2022-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136644&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2019-06-07"
 
 LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE AGOSTO DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.O. DE 20 DE NOVIEMBRE DE 2019 NO APLICA AL ARTICULADO DEL ARTÍCULO SEGUNDO DEL DECRETO PUBLICADO EN LA G.O. DE 1 DE AGOSTO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JUNIO DE 2022.
 
 Ley publicada en el Número 108 Bis de la Gaceta Oficial de la Ciudad de México, el viernes 7 de junio de 2019.
 
@@ -560,7 +558,11 @@ Las Personas Juzgadoras y Secretarias, conforme a los ordenamientos jurídicos a
 
 Son infracciones contra la dignidad de las personas:
 
-I. Vejar, intimidar o maltratar física o verbalmente a cualquier persona;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2022)</small>
+
+I. Vejar, intimidar o maltratar física o verbalmente a cualquier persona o grupo de personas.
+
+En este caso, sólo procederá la conciliación cuando las partes de común acuerdo fijen el monto del daño y el probable infractor repare el daño;
 
 II. Coaccionar de cualquier manera a otra persona para realizar alguna conducta que atente contra su voluntad, su libre autodeterminación o represente un trato degradante;
 
@@ -1781,3 +1783,11 @@ G.O. 1 DE AGOSTO DE 2019.
 PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO: Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 15 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA EL ARTÍCULO 206 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL. SE REFORMA EL ARTÍCULO 12 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DE LA CIUDAD DE MÉXICO. SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 26 DE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO. SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 10, 65 Y 66 PÁRRAFO PRIMERO Y SE ADICIONA LA FRACCIÓN VIII BIS, AL APARTADO A, DEL ARTÍCULO 10, TODOS DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO. SE MODIFICA EL PÁRRAFO PRIMERO DEL ARTÍCULO 7 Y SE LE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 49, TODOS DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO. SE MODIFICA EL PRIMER PÁRRAFO Y SE ADICIONA LA FRACCIÓN III BIS, AMBAS AL ARTÍCULO 5 DE LA LEY DE PROTECCIÓN Y FOMENTO AL EMPLEO DEL DISTRITO FEDERAL. Y SE ADICIONA LA FRACCIÓN XXXVIII BIS AL ARTÍCULO 9, LA FRACCIÓN VII AL ARTÍCULO 77, LA FRACCIÓN XI AL ARTÍCULO 86, LA FRACCIÓN XIX AL ARTÍCULO 129, Y SE MODIFICAN LAS FRACCIONES V Y VI DEL ARTÍCULO 77, LAS FRACCIONES IX Y X DEL ARTÍCULO 86, EL ARTÍCULO 117, LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 129, TODOS DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO".]
+
+Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
