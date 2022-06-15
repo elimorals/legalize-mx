@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-171-que-regula-el-uso-de-cubrebocas-y-demas-145072"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-13"
-last_updated: "2020-11-13"
+last_updated: "2022-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145072&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY NUMERO 171 QUE REGULA EL USO DE CUBREBOCAS Y DEMAS MEDIDAS PARA PREVENIR LA TRANSMISION DE LA ENFERMEDAD PROVOCADA POR EL VIRUS SARS-COV-2 (COVID-19) EN EL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 54, PUBLICADO EN EL B.O. DE 15 DE JUNIO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE REGULA EL USO DE CUBREBOCAS Y DEMÁS MEDIDAS PARA PREVENIR LA TRANSMISIÓN DE LA ENFERMEDAD PROVOCADA POR EL VIRUS SARS-COV2 (COVID-19) EN EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE JUNIO DE 2022 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 13 de noviembre 2020.
 
@@ -218,3 +220,23 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los seis días del mes de noviembre del año dos mil veinte.- GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 15 DE JUNIO DE 2022.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL “DECRETO NÚMERO 54, QUE ABROGA LA LEY QUE REGULA EL USO DE CUBREBOCAS Y DEMÁS MEDIDAS PARA PREVENIR LA TRANSMISIÓN DE LA ENFERMEDAD PROVOCADA POR EL VIRUS SARS-COV2 (COVID-19) EN EL ESTADO DE SONORA”.]</small>
+
+###### ARTICULO ÚNICO.
+
+Se Abroga la Ley que Regula el Uso de Cubrebocas y demás medidas para prevenir la Transmisión de la Enfermedad provocada por el virus SARS-CoV-2 (COVID 19) en el Estado de Sonora, publicada en edición especial del Boletín Oficial del Gobierno del Estado de Sonora, el día 13 de noviembre de 2020.
+
+## TRANSITORIOS
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones administrativas emitidas por las autoridades sanitarias del Estado, para regular el uso del cubrebocas, continuarán vigentes hasta que estas declaren oficialmente la conclusión de la emergencia sanitaria provocada por el virus SARS-CoV-2 (COVID 19).
