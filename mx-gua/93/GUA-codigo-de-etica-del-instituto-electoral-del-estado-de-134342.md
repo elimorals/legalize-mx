@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-etica-del-instituto-electoral-del-estado-de-134342"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-03-08"
-last_updated: "2022-05-24"
+last_updated: "2022-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # CODIGO DE ETICA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE JUNIO DE 2022 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE JUNIO DE 2022.]</small>
 
 Código publicado en la Segunda Parte del Número 49 del Periódico Oficial del Estado de Guanajuato, el viernes 8 de marzo de 2019.
 
@@ -535,9 +535,15 @@ Estrategias para el comportamiento ético
 
 El Órgano Interno de Control establecerá como estrategia para guiar, dirigir y controlar el comportamiento ético de su personal, la elaboración y difusión de materiales relativos a los valores éticos y comportamientos íntegros señalados en el presente Título.
 
+> <small>[N. DE E. EL CONTENIDO DEL PRESENTE NUMERAL ES IDÉNTICO AL CONTENIDO DEL NUMERAL 1 DEL ARTÍCULO 29 DEL PRESENTE ORDENAMIENTO, VÉASE PUBLICACIONES OFICIALES DE FECHAS 24 DE MAYO DE 2022 Y 15 DE JUNIO DE 2022.]</small>
+
 1. Previo al inicio una auditoría, investigación, sustanciación o resolución de algún asunto se aplicará un cuestionario al personal que será designado para ejecutarla, con el fin de detectar si existe algún riesgo de conflicto de interés con terceras personas que serán sujetas a dicha actividad y se procurará rotar al personal de apoyo en tanto sea posible;
 
+> <small>[N. DE E. EL CONTENIDO DEL PRESENTE NUMERAL ES IDÉNTICO AL CONTENIDO DEL NUMERAL 2 DEL ARTÍCULO 29 DEL PRESENTE ORDENAMIENTO, VÉASE PUBLICACIONES OFICIALES DE FECHAS 24 DE MAYO DE 2022 Y 15 DE JUNIO DE 2022.]</small>
+
 2. Se firmará por parte del personal designado una declaratoria bajo protesta a decir verdad que se encuentra libre de influencias o conflictos de interés para ejecutar la actividad que en su caso corresponda, así como su negativa a recibir cualquier tipo de regalo que no se encuentre contemplado en las remuneraciones del personal o en alguna convocatoria establecida dentro del Instituto;
+
+> <small>[N. DE E. EL CONTENIDO DEL PRESENTE NUMERAL ES IDÉNTICO AL CONTENIDO DEL NUMERAL 3 DEL ARTÍCULO 29 DEL PRESENTE ORDENAMIENTO, VÉASE PUBLICACIONES OFICIALES DE FECHAS 24 DE MAYO DE 2022 Y 15 DE JUNIO DE 2022.]</small>
 
 3. La misma declaratoria incluirá el compromiso de apego a los valores éticos que regulan la función de fiscalización de acuerdo con el presente código y a las Normas Profesionales del Sistema Nacional de Fiscalización;
 
@@ -547,11 +553,41 @@ El Órgano Interno de Control establecerá como estrategia para guiar, dirigir y
 
 6. El personal podrá abstenerse de realizar alguna actividad cuando manifieste que existe algún conflicto de interés o algún riesgo detectado, informándose a la persona superior jerárquica para que determine lo conducente.
 
+> <small>(F. DE E., P.O. 15 DE JUNIO DE 2022)</small>
+
+Procedimiento de control de ética y riesgos
+
+###### Artículo 29.
+
+El procedimiento de control de ética y riesgos de incumplimiento consiste en lo siguiente:
+
+> <small>[N. DE E. EL CONTENIDO DEL PRESENTE NUMERAL ES IDÉNTICO AL CONTENIDO DEL NUMERAL 1 DEL ARTÍCULO 28 DEL PRESENTE ORDENAMIENTO, VÉASE PUBLICACIONES OFICIALES DE FECHAS 24 DE MAYO DE 2022 Y 15 DE JUNIO DE 2022.]</small>
+
+> <small>(F. DE E., P.O. 15 DE JUNIO DE 2022)</small>
+
+1. Previo al inicio una auditoría, investigación, sustanciación o resolución de algún asunto se aplicará un cuestionario al personal que será designado para ejecutarla, con el fin de detectar si existe algún riesgo de conflicto de interés con terceras personas que serán sujetas a dicha actividad y se procurará rotar al personal de apoyo en tanto sea posible;
+
+> <small>[N. DE E. EL CONTENIDO DEL PRESENTE NUMERAL ES IDÉNTICO AL CONTENIDO DEL NUMERAL 2 DEL ARTÍCULO 28 DEL PRESENTE ORDENAMIENTO, VÉASE PUBLICACIONES OFICIALES DE FECHAS 24 DE MAYO DE 2022 Y 15 DE JUNIO DE 2022.]</small>
+
+> <small>(F. DE E., P.O. 15 DE JUNIO DE 2022)</small>
+
+2. Se firmará por parte del personal designado una declaratoria bajo protesta a decir verdad que se encuentra libre de influencias o conflictos de interés para ejecutar la actividad que en su caso corresponda, así como su negativa a recibir cualquier tipo de regalo que no se encuentre contemplado en las remuneraciones del personal o en alguna convocatoria establecida dentro del Instituto;
+
+> <small>[N. DE E. EL CONTENIDO DEL PRESENTE NUMERAL ES IDÉNTICO AL CONTENIDO DEL NUMERAL 3 DEL ARTÍCULO 28 DEL PRESENTE ORDENAMIENTO, VÉASE PUBLICACIONES OFICIALES DE FECHAS 24 DE MAYO DE 2022 Y 15 DE JUNIO DE 2022.]</small>
+
+> <small>(F. DE E., P.O. 15 DE JUNIO DE 2022)</small>
+
+3. La misma declaratoria incluirá el compromiso de apego a los valores éticos que regulan la función de fiscalización de acuerdo con el presente código y a las Normas Profesionales del Sistema Nacional de Fiscalización;
+
+(…) (SIC)
+
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2022)</small>
 
 Declaratoria de comportamiento ejemplar
 
-Artículo 30 (SIC). Las personas que integran el Órgano Interno de Control deberán firmar una Declaratoria de comportamiento ejemplar que contenga como mínimo lo establecido en los numerales 2 y 3 del artículo anterior, así como lo siguiente:
+###### Artículo 30.
+
+Las personas que integran el Órgano Interno de Control deberán firmar una Declaratoria de comportamiento ejemplar que contenga como mínimo lo establecido en los numerales 2 y 3 del artículo anterior, así como lo siguiente:
 
 A) Colocar la ética como una prioridad mediante acciones claras, consistentes y permanentes implementando estrategias para promover la ética, dando el ejemplo, manteniendo un alto nivel de profesionalismo, responsabilidad y transparencia en la toma de decisiones, fomentando un entorno de aprendizaje abierto y mutuo.
 
