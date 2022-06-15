@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-congreso-de-la-ciudad-de-mexico-128263"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2022-01-26"
+last_updated: "2022-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128263&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-12-20"
 
 LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JUNIO DE 2022.
 
 Ley publicada en el Tomo I de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -364,7 +364,9 @@ XXXVIII. Designar a través de las Comisiones Parlamentarias en materia de Audit
 
 XXXIX. Designar de entre la terna remitida por el Presidente del Tribunal Electoral a la persona titular de la Defensoría Pública de Participación Ciudadana y de Procesos Democráticos de dicho tribunal;
 
-XL. Designar o en su caso ratificar por las dos terceras partes de sus integrantes presentes, a las y los Magistrados del Tribunal Superior de Justicia, de entre las ternas que le remita el Consejo de la Judicatura de la Ciudad de México;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2022)</small>
+
+XL. Designar o en su caso ratificar por las dos terceras partes de sus integrantes, a las y los Magistrados del Tribunal Superior de Justicia, respecto de la propuesta de designación que realice el Consejo de la Judicatura de la Ciudad de México.
 
 XLI. Designar o en su caso remover a las y los titulares de los órganos de control interno de los organismos autónomos de la Ciudad de México, de conformidad a lo mandatado en la Constitución Local, la presente ley y las leyes aplicables;
 
@@ -2332,6 +2334,8 @@ Todas las organizaciones a que se refieren las fracciones anteriores, deberán e
 
 ### CAPÍTULO XIV. De las y los Magistrados del Tribunal Superior de Justicia de la Ciudad de México
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JUNIO DE 2022)</small>
+
 ###### Artículo 132.
 
 La Persona Titular de la Defensoría Pública de Participación Ciudadana y de Procesos Democráticos, será nombrada por mayoría calificada de dos terceras partes de las y los integrantes presentes en la sesión respectiva, a propuesta de una terna que envíe la o el Presidente del Tribunal Electoral de la Ciudad de México; durará cuatro años y tendrá posibilidad de ser nombrado consecutivamente para el mismo cargo, hasta por un periodo adicional.
@@ -2342,13 +2346,17 @@ El procedimiento para su nombramiento se hará de conformidad con las reglas gen
 
 ###### Artículo 133.
 
-A propuesta del Consejo de la Judicatura de la Ciudad de México, las y los Magistrados del Tribunal Superior de Justicia serán designados o en su caso ratificados por las dos terceras partes de las y los Diputados del Congreso, de entre las ternas que les remita el propio Consejo.
+A propuesta del Consejo de la Judicatura de la Ciudad de México, las y los Magistrados del Tribunal Superior de Justicia serán designados o en su caso ratificados por las dos terceras partes de las y los Diputados del Congreso.
 
-Las ternas serán integradas por las y los aspirantes que hayan cubierto los requisitos y la evaluación que al efecto se lleve a cabo en los términos del artículo 35 apartado E, numeral 11 de la Constitución Local
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2022)</small>
+
+Las personas aspirantes propuestas deberán cumplir los requisitos establecidos en el artículo 35, apartado E, numeral 11 de la Constitución Local.
 
 Las y los Magistrados durarán seis años en su cargo y podrán ser ratificados, previa evaluación pública en los términos dispuestos en la Constitución Local y en la ley de la materia. Una vez ratificados permanecerán en su encargo hasta los setenta años de edad, y sólo podrán ser privados del mismo en los términos que establecen dicha Constitución y las leyes.
 
-El procedimiento para su designación o ratificación se hará de conformidad con las reglas generales del artículo 120 de la presente ley.
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2022)</small>
+
+El procedimiento para su designación o ratificación se hará de conformidad con las reglas generales del artículo 113 de la presente ley.
 
 ### CAPÍTULO XVI. Del Nombramiento de las Personas Titulares y Consejeras de los Organismos Autónomos
 
@@ -2871,3 +2879,11 @@ PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por
 SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Dentro de los 180 días naturales siguientes a la entrada en vigor de la presente reforma, se publicarán las modificaciones al Reglamento del Congreso de la Ciudad de México, a efecto de armonizar su contenido al presente Decreto.
+
+G.O. 15 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 13, FRACCIÓN XL Y 133, PÁRRAFOS PRIMERO, SEGUNDO Y CUARTO, DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO; ASI COMO LOS ARTÍCULOS 218, FRACCIÓN II, 283, PÁRRAFO PRIMERO Y 368 PÁRRAFO PRIMERO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su difusión.
