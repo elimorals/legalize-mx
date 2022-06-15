@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-de-justicia-administrativa-901
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-16"
-last_updated: "2020-10-16"
+last_updated: "2022-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2022.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 16 de noviembre de 2012.
 
@@ -149,53 +149,65 @@ VIII. Coordinador de Amparos;
 
 IX. Coordinador de Actuarios.
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2022)</small>
+
+X. Coordinador de Archivos;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2022)</small>
+
+XI. Titular de la Unidad de Igualdad de Género.
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2022)</small>
+
+XII. Psicólogo de la Unidad de Igualdad de Género.
+
 > <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2020)</small>
 
-X. Coordinadores de Ponencia de Sala Superior.
+XIII. Coordinadores de Ponencia de Sala Superior.
 
 > <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2020)</small>
 
-XI. Coordinador de Sala Ordinaria
+XVI. Coordinador de Sala Ordinaria
 
 > <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2020)</small>
 
-XII. Coordinador de Sala Especializada en Materia de Responsabilidades Administrativas
+XV. Coordinador de Sala Especializada en Materia de Responsabilidades Administrativas
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2020)</small>
 
-XIII. Coordinador de enlace interinstitucional y transparencia;
+XVI. Coordinador de enlace interinstitucional y transparencia;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2020)</small>
 
-XIV. Secretarios de Estudio y Cuenta;
+XVII. Secretarios de Estudio y Cuenta;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2020)</small>
 
-XV. Secretarios Auxiliares;
+XVIII. Secretarios Auxiliares;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2020)</small>
 
-XVI. Asistentes jurídicos;
+XIX. Asistentes jurídicos;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2020)</small>
 
-XVII. Escribientes;
+XX. Escribientes;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2020)</small>
 
-XVIII. Actuarios;
+XXI. Actuarios;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2020)</small>
 
-XIX. Jefes de Archivo; y
+XXII. Jefes de Archivo; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2020)</small>
 
-XX Personal jurídico y técnico administrativo.
+XXIII. Personal jurídico y técnico administrativo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2022)</small>
 
-Los cuales tendrán facultades y funciones que le confiere la Ley, el presente Reglamento y las demás que asigne en su caso la Sala Superior.
+Los cuales tendrán facultades y funciones que le confiere la Ley, el presente Reglamento y las demás que asigne en su caso la Sala Superior, o el Presidente del Tribunal de Justicia Administrativa del Estado de Nuevo León.
 
 ### CAPÍTULO III. DE LA SALA SUPERIOR
 
@@ -285,9 +297,9 @@ Corresponde al Presidente del Tribunal, además de las facultades y atribuciones
 
 I. Representar al Tribunal y a la Sala Superior ante toda clase de autoridades, incluyendo las jurisdiccionales y administrativas.
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2022)</small>
 
-II. Nombrar, contando con la aprobación de la mayoría de los integrantes de la Sala Superior al Coordinador Jurídico de la Sala Superior, Coordinador de Criterios, Coordinador de Amparos, Coordinador de Actuarios, Coordinador de Enlace Interinstitucional y Transparencia, Secretario Auxiliar de Presidencia, Secretarios Auxiliares de Sala, Enlace Administrativo, Jefe de Tecnología de Información, conforme a los lineamientos y procedimientos que establezca la propia Sala Superior; previa evaluación de su experiencia y trayectoria.
+II. Nombrar, contando con la aprobación de la mayoría de los integrantes de la Sala Superior al Coordinador Jurídico de la Sala Superior, Coordinador de Criterios, Coordinador de Amparos, Coordinador de Actuarios, Coordinador de Enlace Interinstitucional y Transparencia, Coordinador de Archivos, Titular de la Unidad de Igualdad de Género, Psicólogo Integrante de la Unidad de Igualdad de Género, Secretario Auxiliar de Presidencia, Secretarios Auxiliares de Sala, Enlace Administrativo, Jefe de Tecnología de Información, conforme a los lineamientos y procedimientos que establezca la propia Sala Superior; previa evaluación de st:1experiencia y trayectoria.
 
 III. Dar cuenta a la Sala Superior, en la sesión ordinaria próxima, de las quejas administrativas que se interpongan;
 
@@ -627,11 +639,11 @@ VII.- Desempeñar sus funciones en estricto apego a lo dispuesto en la Ley de Ju
 
 ### CAPÍTULO XIII. DEL PERSONAL TÉCNICO, JURIDICO Y ADMINISTRATIVO
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2022)</small>
 
 ###### Artículo 32.
 
-Dentro del Personal Técnico, Jurídico y Administrativo se encuentran: El Coordinador Jurídico de la Sala Superior; Coordinador de Criterios, el Coordinador de Amparos; Coordinador (sic) Actuarios, los Secretarios Auxiliares de Sala; los Asistentes Jurídicos; los Escribientes; el Oficial de Partes; los Jefes de Archivo; el Enlace Administrativo; el Jefe de Tecnología de Información y demás personal que auxilie en las labores del Tribunal.
+Dentro del Personal Técnico, Jurídico y Administrativo se encuentran: El Coordinador Jurídico de la Sala Superior; Coordinador de Criterios, el Coordinador de Amparos; Coordinador (sic) Actuarios, Coordinador de Archivos, Titular de la Unidad de Igualdad de Género, Psicólogo de la Unidad de Igualdad de Género, los Secretarios Auxiliares de Sala; los Asistentes Jurídicos; los Escribientes; el Oficial de Partes; los Jefes de Archivo; el Enlace Administrativo; el Jefe de Tecnología de Información y demás personal que auxilie en las labores del Tribunal.
 
 ###### Artículo 33.
 
@@ -706,6 +718,38 @@ V.- (DEROGADA, P.O. 16 DE OCTUBRE DE 2020)
 ###### Artículo 37.
 
 Los escribientes estarán bajo la dirección del Secretario al que se encuentren adscritos y corresponderá a ellos intervenir en la elaboración de proyectos de sentencias, providencias y acuerdos de trámite y demás funciones que les determine el Magistrado de su ponencia o adscripción.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2022)</small>
+
+###### Artículo 37 Bis.
+
+El Tribunal de Justicia Administrativa del Estado de Nuevo León, contará para la debida gestión documental que corresponda con un Coordinador de Archivos que será el encargado del adecuado funcionamiento de los archivos que integran el Tribunal, y además contara con las demás atribuciones:
+
+I. Proveerá que las áreas operativas lleven a cabo acciones de gestión documental y administración de los archivos, de manera conjunta con las unidades administrativas o áreas competentes.
+
+II. Elaborar con la colaboración del Oficial de Partes del Tribunal y los Jefes de Archivo de las Salas Ordinarias, la clasificación de los archivos en términos de la Ley de Archivos del Estado de Nuevo León.
+
+III. Elaborar criterios específicos y recomendaciones en materia de organización y conservación de archivos, cuando estime que sea necesario para mejorar la gestión documental del Tribunal.
+
+IV. Elaborar y someter a consideración de la Sala Superior del Tribunal, el programa anual de gestión, disposición, clasificación y todo lo relacionado con la gestión documental del Tribunal.
+
+V. Coordinar las actividades destinadas a la modernización y automatización de los procesos archivísticos y a la gestión de documentos electrónicos de las áreas que lo requieran dentro del Tribunal de Justicia Administrativa del Estado de Nuevo León.
+
+VI. Brindar asesoría para lograr la óptima operación de los archivos del Tribunal.
+
+VII. Elaborar programas de capacitación en gestión documental y administración de archivos.
+
+VIII. Coordinar la operación de los archivos de trámite, concentración e histórico de acuerdo con la normativa aplicable.
+
+IX. Realizar la clasificación de los documentos para realizar los archivos de trámite, concentración e histórico.
+
+X. Las que establezca el Presidente del Tribunal, la Sala Superior y las demás disposiciones légales aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2022)</small>
+
+###### Artículo 37 Bis 1.
+
+La Coordinación de Archivos estará integrada por el personal técnico jurídico administrativo que estime necesario la Sala Superior del Tribunal de Justicia Administrativa del Estado de Nuevo León.
 
 ###### Artículo 38.
 
@@ -903,6 +947,28 @@ IV. Fungir como enlace con las diversas dependencias, entidades, órganos y pers
 
 V. Las demás que le asigne el Presidente del Tribunal, la Sala Superior o las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2022)</small>
+
+###### Artículo 44 Bis 1.
+
+El Tribunal de Justicia Administrativa del Estado de Nuevo León, contará con una Unidad de Igualdad de Género, que tendrá las siguientes atribuciones:
+
+I. Elaborar el programa de trabajo anual, para promover la igualdad de género dentro del Tribunal de Justicia Administrativa del Estado de Nuevo León.
+
+II. Recibir y poner de conocimiento a la Presidencia de la Sala Superior de forma inmediata, las quejas o denuncias que reciba en materia de igualdad de género, para que ésta a su vez las turne a la comisión correspondiente.
+
+III. Prestar apoyo al personal del Tribunal de Justicia Administrativa del Estado de Nuevo León, en caso de que sean partes dentro de algún procedimiento en el que se ve involucrada la citada unidad.
+
+IV. Elaborar e impartir cursos de capacitación y de prevención en la materia de Igualdad de Género.
+
+V. Fungir como Enlace en materia de Igualdad de Género con las diversas autoridades de los tres niveles de gobierno.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2022)</small>
+
+###### Artículo 44 Bis 2.
+
+La Unidad de Igualdad de Género del Tribunal de Justicia Administrativa del Estado de Nuevo León, estará integrada al menos por su titular, un psicólogo y demás personal que estime pertinente la Sala Superior.
+
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 20 DE ABRIL DE 2018)</small>
 
 ### CAPÍTULO XIV. DE LA COMISIÓN INTERNA DE REVISIÓN Y EVALUACIÓN DE PROCEDIMIENTOS
@@ -1052,3 +1118,11 @@ P.O. 16 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN POR DEROGACIÓN, ADICION Y MODIFICACION DE DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN”.]
 
 PRIMERO: El presente decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 15 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo. Publíquese el presente acuerdo en el Periódico Oficial del Estado.
