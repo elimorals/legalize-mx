@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-hospital-juarez-de-mexico-129874"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-08-14"
-last_updated: "2022-05-25"
+last_updated: "2022-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129874&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,11 +21,11 @@ issue_date: "2018-06-21"
 
 > <small>[N. DE E. LAS MODIFICACIONES APARECEN EN LAS DIRECCIONES ELECTRÓNICAS: http://hjm.salud.gob.mx/interna/HJM_Estatuto_Orgxnico_2022_primera_sesixn_JUGO.pdf Y www.dof.gob.mx/2022/SALUD/Estatuto-Organico-HJM.pdf]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE JUNIO DE 2022 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DEL HOSPITAL JUÁREZ DE MÉXICO.
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MAYO DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 15 DE JUNIO DE 2022.]</small>
 
 Estatuto publicado en la Primera Sección al Número 11 del Diario Oficial de la Federación, el martes 14 de agosto de 2018.
 
@@ -1881,7 +1881,9 @@ GUSTAVO ESTEBAN LUGO ZAMUDIO, Director General, con fundamento en el último pá
 
 AVISO
 
-Para efectos de lo dispuesto en el último párrafo del artículo del ACUERDO que modifica al diverso por el que se instruye a las dependencias y entidades de la Administración Pública Federal, así como a la Procuraduría General de la República a abstenerse de emitir regulación en las materias que se indican, publicado el 21 de agosto de 2012, se dan a conocer los datos de identificación de los Lineamientos para el Manejo y Control del Expediente Clínico, siguientes:
+> <small>(F. DE E., D.O.F. 15 DE JUNIO DE 2022)</small>
+
+Para efectos de lo dispuesto en el último párrafo del artículo del ACUERDO que modifica al diverso por el que se instruye a las dependencias y entidades de la Administración Pública Federal, así como a la Procuraduría General de la República a abstenerse de emitir regulación en las materias que se indican, publicado el 21 de agosto de 2012, se dan a conocer los datos de identificación del Estatuto Orgánico del Hospital Juárez de México, siguientes:
 
 Denominación: Estatuto Orgánico del Hospital Juárez de México.
 
