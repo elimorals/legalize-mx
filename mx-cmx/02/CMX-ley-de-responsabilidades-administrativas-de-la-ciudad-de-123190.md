@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-responsabilidades-administrativas-de-la-ciudad-de-123190
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-01"
-last_updated: "2021-11-11"
+last_updated: "2022-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123190&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-08-31"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JUNIO DE 2022.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el viernes 1 de septiembre de 2017.
 
@@ -160,9 +160,11 @@ V. Cuenten, al menos, con los mismos deberes de diligencia y lealtad aplicables 
 
 Todos los entes públicos de la Ciudad de México están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento de la Entidad Federativa en su conjunto, y la actuación ética y responsable de cada persona servidora pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JUNIO DE 2022)</small>
+
 ###### Artículo 7.
 
-Las Personas Servidoras Públicas observarán en el desempeño de su empleo, cargo o comisión, los principios de transparencia como principio rector, disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público. Para la efectiva aplicación de dichos principios, las Personas Servidoras Públicas observarán las siguientes directrices:
+Las Personas Servidoras Públicas observarán en el desempeño de su empleo, cargo o comisión, los principios de transparencia y no discriminación, así como los de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público. Para la efectiva aplicación de dichos principios, las Personas Servidoras Públicas observarán las siguientes directrices:
 
 I. Actuar conforme a lo que las leyes, reglamentos y demás disposiciones jurídicas les atribuyen a su empleo, cargo o comisión, por lo que deben conocer y cumplir las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones;
 
@@ -509,6 +511,10 @@ Las personas servidoras públicas deberán presentar la constancia de presentaci
 Incurrirá en Falta administrativa no grave la persona servidora pública cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:
 
 I. Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a las demás Personas Servidoras Públicas como a los particulares con los que llegare a tratar, en los términos que se establezcan en el código de ética a que se refiere el artículo 16 de esta Ley;
+
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2022)</small>
+
+I bis. En el ejercicio de sus funciones, conducirse con respeto, libre de cualquier conducta discriminatoria u otra conexa de intolerancia, que tenga por objeto o resultado la negación, exclusión, distinción, menoscabo, impedimento o restricción de los derechos de las personas, grupos o comunidades.
 
 II. Denunciar los actos u omisiones que en ejercicio de sus funciones llegare a advertir, que puedan constituir faltas administrativas, en términos del artículo 93 de la presente Ley;
 
@@ -1963,3 +1969,11 @@ PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su debid
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México, y
 
 TERCERO. La Secretaría de Administración y Finanzas del Gobierno de la Ciudad de México deberá realizar las modificaciones pertinentes a las disposiciones relacionadas con el cierre del ejercicio presupuestal 2021.
+
+G.O. 15 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA EL ARTÍCULO 206 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL. SE REFORMA EL ARTÍCULO 12 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DE LA CIUDAD DE MÉXICO. SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 26 DE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO. SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 10, 65 Y 66 PÁRRAFO PRIMERO Y SE ADICIONA LA FRACCIÓN VIII BIS, AL APARTADO A, DEL ARTÍCULO 10, TODOS DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO. SE MODIFICA EL PÁRRAFO PRIMERO DEL ARTÍCULO 7 Y SE LE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 49, TODOS DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO. SE MODIFICA EL PRIMER PÁRRAFO Y SE ADICIONA LA FRACCIÓN III BIS, AMBAS AL ARTÍCULO 5 DE LA LEY DE PROTECCIÓN Y FOMENTO AL EMPLEO DEL DISTRITO FEDERAL. Y SE ADICIONA LA FRACCIÓN XXXVIII BIS AL ARTÍCULO 9, LA FRACCIÓN VII AL ARTÍCULO 77, LA FRACCIÓN XI AL ARTÍCULO 86, LA FRACCIÓN XIX AL ARTÍCULO 129, Y SE MODIFICAN LAS FRACCIONES V Y VI DEL ARTÍCULO 77, LAS FRACCIONES IX Y X DEL ARTÍCULO 86, EL ARTÍCULO 117, LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 129, TODOS DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO".]
+
+Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
