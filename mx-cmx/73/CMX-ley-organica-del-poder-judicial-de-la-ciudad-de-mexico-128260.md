@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-poder-judicial-de-la-ciudad-de-mexico-128260"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2022-04-29"
+last_updated: "2022-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128260&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JUNIO DE 2022.
 
 Ley publicada en el Tomo I al Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -2462,7 +2462,9 @@ Son facultades del Consejo de la Judicatura, las siguientes:
 
 I. Expedir los acuerdos generales y demás disposiciones reglamentarias para el adecuado ejercicio de sus funciones;
 
-II. Emitir propuesta al Congreso, de ternas de designación y ratificación de Magistradas y Magistrados del Tribunal Superior de Justicia;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2022)</small>
+
+II. Emitir propuesta al Congreso, de designación o ratificación de Magistradas y Magistrados del Tribunal Superior de Justicia;
 
 III. Designar a las y los Jueces de la Ciudad de México en los términos que señala esta Ley, así como adscribir a estos y a las Magistradas y Magistrados;
 
@@ -3526,9 +3528,11 @@ IV. Una persona designada por el Instituto de Estudios Judiciales de entre los i
 
 Los miembros del jurado estarán impedidos de participar en los concursos a que se refiere este artículo en caso de tener algún vínculo de tipo moral, laboral o económico con cualquiera de los interesados. Estos impedimentos serán calificados por el propio jurado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JUNIO DE 2022)</small>
+
 ###### Artículo 283.
 
-Para la ratificación de Juzgadores y, en lo que resulte aplicable en la opinión sobre la propuesta de ternas de designación o ratificación de Magistradas y Magistrados, el Consejo de la Judicatura tomará en consideración los elementos siguientes:
+Para la ratificación de Juzgadores y, en lo que resulte aplicable en la opinión sobre la propuesta de designación o ratificación de Magistradas y Magistrados, el Consejo de la Judicatura tomará en consideración los elementos siguientes:
 
 I. El desempeño que se haya tenido en el ejercicio de su función;
 
@@ -4258,6 +4262,8 @@ Las personas servidoras públicas adscritas a la Unidad de Gestión Administrati
 
 ### CAPÍTULO V. DEL RECURSO DE REVISIÓN ADMINISTRATIVA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JUNIO DE 2022)</small>
+
 ###### Artículo 356.
 
 Las faltas en que incurran las personas servidoras públicas, previstas en los artículos 344 fracciones I a IV, XII, XIV y XVI a XXI; 345 fracciones I a XIV y XVI; 347, fracciones I y II; 349, con excepción de la fracción III; 350, salvo la fracción IX; 352 fracciones II a V y 354 fracciones II a VII, serán sancionadas, la primera vez con amonestación por escrito, y la segunda, con multa.
@@ -4394,7 +4400,7 @@ Siendo facultad del órgano que corresponda imponer las sanciones administrativa
 
 ###### Artículo 368.
 
-Las decisiones dictadas por el Consejo de la Judicatura serán definitivas e inatacables, salvo las que se refieren a la designación, ternas de propuestas de designación o de ratificación y remoción de Magistrados y Jueces, las cuales podrán impugnarse ante el Pleno del Tribunal Superior de Justicia, mediante el recurso de revisión administrativa, que tendrá alcances de anulación del acto combatido.
+Las decisiones dictadas por el Consejo de la Judicatura serán definitivas e inatacables, salvo las que se refieren a la designación, propuestas de designación o de ratificación y remoción de Magistrados y Jueces, las cuales podrán impugnarse ante el Pleno del Tribunal Superior de Justicia, mediante el recurso de revisión administrativa, que tendrá alcances de anulación del acto combatido.
 
 El recurso de revisión administrativa tendrá como único objeto que el Pleno del Tribunal Superior de Justicia determine si el Consejo de la Judicatura designó, adscribió, emitió la propuesta de designación o de ratificación, o removió a una Magistrada o Magistrado o al Juzgador, con estricto apego a los requisitos formales previstos en esta Ley, o en los reglamentos interiores y acuerdos generales expedidos por el propio Consejo de la Judicatura.
 
@@ -4933,3 +4939,11 @@ PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promu
 SEGUNDO. El presente Decreto entrará en vigor al momento de su publicación en la Gaceta Oficial de la Ciudad de México. Los Tribunales Laborales de la Ciudad de México, iniciarán sus funciones a más tardar el 3 de octubre de 2022.
 
 TERCERO. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+G.O. 15 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 13, FRACCIÓN XL Y 133, PÁRRAFOS PRIMERO, SEGUNDO Y CUARTO, DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO; ASI COMO LOS ARTÍCULOS 218, FRACCIÓN II, 283, PÁRRAFO PRIMERO Y 368 PÁRRAFO PRIMERO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su difusión.
