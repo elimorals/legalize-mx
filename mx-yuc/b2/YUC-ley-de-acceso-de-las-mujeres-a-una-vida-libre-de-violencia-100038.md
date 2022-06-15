@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1000
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-01"
-last_updated: "2021-08-03"
+last_updated: "2022-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE JUNIO DE 2022.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 1 de abril de 2014.
 
@@ -55,13 +55,19 @@ Definiciones
 
 Para los efectos de esta ley, se entenderá por:
 
-I. Agresor: la persona que inflige cualquier tipo de violencia contra las mujeres.
+> <small>(REFORMADA, D.O. 15 DE JUNIO DE 2022)</small>
+
+I. Persona agresora: La persona que inflige cualquier tipo de violencia contra las mujeres
 
 > <small>(ADICIONADA, D.O. 22 DE MARZO DE 2016)</small>
 
 II. Bienestar Obstétrico: el conjunto de factores que participan en el respeto de los derechos de las mujeres durante el embarazo, incluida la fase prenatal, el parto y la etapa del puerperio o posparto.
 
 III. Consejo estatal: el Consejo Estatal para la Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres.
+
+> <small>(ADICIONADA, D.O. 15 DE JUNIO DE 2022)</small>
+
+III Bis. Daño: Perjuicio, menoscabo, dolor o privación que sufre una persona a consecuencia de la acción u omisión de otra o por interpósita persona, que afecte de manera física, emocional, psicológica, económica, patrimonial o de cualquier tipo, a sus derechos, intereses, bienes, familia o integridad personal.
 
 > <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
@@ -199,7 +205,11 @@ VIII. Violencia estética: es cualquier acción u omisión que ejerce una person
 
 IX. Violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 
-X. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+> <small>(ADICIONADA, D.O. 15 DE JUNIO DE 2022)</small>
+
+X. Violencia vicaria: Todo acto u omisión intencional cometido contra una mujer, que ejerce la persona que mantenga o haya mantenido una relación con ella, ya sea de hecho, de pareja o similares de afectividad, aún sin convivencia y que por sí misma o por interpósita persona, utilice como medio a las hijas e hijos, familiares, personas mayores de sesenta años de edad, con discapacidad, mascotas o bienes de la víctima, para causarle algún tipo de daño o afectación psicoemocional, física, económica, patrimonial o de cualquier tipo tanto a la víctima como a quienes fungieran como medio.
+
+XI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres
 
 > <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -218,6 +228,10 @@ Los tipos de violencia, mencionados en el artículo anterior, se pueden presenta
 > <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
 
 I. Violencia familiar: es la ejercida en un acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir, usando cualquiera de los tipos de violencia, en contra de un miembro de la familia por el cónyuge, concubina o concubinario, o con quien mantengan o hayan mantenido una relación de hecho, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante, adoptado, dentro o fuera del domicilio familiar.
+
+> <small>(ADICIONADO, D.O. 15 DE JUNIO DE 2022)</small>
+
+Sin perjuicio de lo anterior y tratándose de violencia vicaria de género contra una mujer, se estará también a lo que establece esta Ley, el Código Penal del Estado de Yucatán y las demás disposiciones legales aplicables.
 
 II. Violencia laboral: es la que ocurre en una relación de trabajo, constituida en términos de las leyes aplicables, incluyendo aquellas que no llegaron a constituirse cuando se trate de mujeres aspirantes a un trabajo y, por motivos de género, se niegue la contratación.
 
@@ -581,9 +595,9 @@ V. Llevar un registro de las órdenes de protección que otorgue, así como las 
 
 VI. Brindar protección para salvaguardar la integridad física de las víctimas y en su caso de quienes denuncien cualquier tipo de violencia contra las mujeres.
 
-> <small>(REFORMADA, D.O. 23 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, D.O. 15 DE JUNIO DE 2022)</small>
 
-VII. Elaborar y aplicar protocolos especializados con perspectiva de género, en la búsqueda inmediata de mujeres, niñas y adolescentes desaparecidas, para la investigación y resolución de los delitos de violencia familiar, trata de personas, discriminación, feminicidio, sexuales y cualquier otro relacionado que implique actos de violencia contra la mujer.
+VII. Elaborar y aplicar protocolos especializados con perspectiva de género, en la búsqueda inmediata de mujeres, niñas y adolescentes desaparecidas, para la investigación y resolución de los delitos de violencia familiar, violencia vicaria, trata de personas, discriminación, feminicidio, sexuales y cualquier otro relacionado que implique actos de violencia contra la mujer.
 
 > <small>(ADICIONADA, D.O. 3 DE AGOSTO DE 2021)</small>
 
@@ -681,13 +695,15 @@ Sistema para el Desarrollo Integral de la Familia en Yucatán
 
 El Sistema para el Desarrollo Integral de la Familia en Yucatán, en el ámbito de su competencia, tendrá las atribuciones siguientes:
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O. 15 DE JUNIO DE 2022)</small>
 
-I. Proporcionar atención psicológica y legal, especializada y gratuita, a las mujeres que sean víctimas de violencia familiar, que favorezcan su empoderamiento y reparen el daño causado por dicha violencia.
+I. Proporcionar atención psicológica y legal, especializada y gratuita, a las mujeres que sean víctimas de violencia familiar, violencia vicaria, así como a quienes sean víctimas indirectas, que favorezcan su empoderamiento y reparen el daño causado por dicha violencia.
 
-> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+Si se tratase de hijas e hijos menores de edad, esta atención será proporcionada por la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán
 
-II. Colaborar con la Secretaría de las Mujeres en el diseño e implementación de programas y acciones para la reeducación de los agresores.
+> <small>(REFORMADA, D.O. 15 DE JUNIO DE 2022)</small>
+
+II. Colaborar con la Secretaría de las Mujeres en el diseño e implementación de programas y acciones para la reeducación de personas agresoras.
 
 III. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
@@ -959,6 +975,24 @@ VI. Otorgar la atención y capacitación debida a las víctimas, de tal manera q
 
 VII. Promover la cultura de la denuncia de la violencia contra las mujeres en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad.
 
+> <small>(ADICIONADA, D.O. 15 DE JUNIO DE 2022)</small>
+
+VIII. Desarrollar modelos de prevención, investigación, detección, atención y erradicación que establezcan la Secretaría de las Mujeres (SEMUJERES), la Comisión Ejecutiva Estatal de Atención a Víctimas (CEEAV), la Comisión de Búsqueda de Personas del Estado de Yucatán, la Unidad Especializada en la Búsqueda de Personas Desaparecidas y No Localizadas y los ayuntamientos, para proteger a las víctimas de violencia en el ámbito familiar, laboral, escolar, institucional, político, digital u otros entornos que esta Ley y demás disposiciones legales aplicables establezcan.
+
+> <small>(ADICIONADO, D.O. 15 DE JUNIO DE 2022)</small>
+
+###### Artículo 37 Bis.
+
+Modelos de prevención
+
+Los modelos de prevención, detección, atención y erradicación que establezcan la Secretaría de las Mujeres (SEMUJERES), la Comisión Ejecutiva Estatal de Atención a Víctimas (CEEAV), y los ayuntamientos para proteger a las víctimas de cualquier tipo y modalidad de violencia prevista en esta Ley y demás disposiciones legales aplicables, deberán contemplar:
+
+I. Tratamiento psicológico a la persona agresora, así como diversas medidas que se consideren apropiadas para prevenir, detectar, atender y erradicar los diferentes tipos y modalidades de violencia en contra de las mujeres.
+
+II. Servicios reeducativos integrales, especializados y gratuitos a la persona agresora para erradicar las conductas violentas en contra de las mujeres, así como para eliminar los estereotipos de supremacía de género, patrones machistas y la misoginia.
+
+III. Atención psicológica, así como integral a la mujer víctima y a las personas que hayan sido utilizadas como medio para ejercer la violencia vicaria de género contra una mujer.
+
 ###### Artículo 38.
 
 Aprobación del programa especial
@@ -1011,7 +1045,9 @@ IV. Las demás medidas de atención que son competencia de las autoridades integ
 
 Objetivo de las órdenes de protección
 
-Las órdenes de protección son las medidas personalísimas e intransferibles que tienen por objetivo prevenir, impedir o interrumpir los actos de violencia contra las mujeres establecidos en esta ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 15 DE JUNIO DE 2022)</small>
+
+Las órdenes de protección son las medidas personalísimas e intransferibles que tienen por objetivo prevenir, impedir o interrumpir los actos que constituyen los tipos y modalidades de la violencia contra las mujeres en términos de lo establecido en esta ley.
 
 > <small>(ADICIONADO, D.O. 23 DE JULIO DE 2020)</small>
 
@@ -1028,6 +1064,20 @@ I. De emergencia.
 II. Cautelares.
 
 III. Definitivas.
+
+> <small>(ADICIONADO, D.O. 15 DE JUNIO DE 2022)</small>
+
+Artículo 43 bis. Órdenes de protección
+
+Se considerarán órdenes de protección las siguientes:
+
+I. Las autoridades competentes, antes de otorgar visitas, guarda y custodia provisional o definitiva, o al régimen de convivencia con las hijas e hijos, deberán examinar a través de los medios que estimen pertinentes, los indicios y/o denuncias, por cualquier tipo de violencia que se hayan presentado por las víctimas de violencia vicaria;
+
+II. Suspensión temporal a la persona agresora, al otorgamiento de visitas, guarda y custodia o régimen de convivencia con sus hijas e hijos, cuando derivado de una previa valoración psicológica, se determine que el perfil de la persona evaluada pueda incurrir en conductas de violencia vicaria contra una mujer;
+
+III. Negar de manera definitiva a la persona agresora el otorgamiento de guarda y custodia; así como de las visitas y/o del régimen de con sus hijas e hijos, en casos de violencia vicaria contra la mujer, observando en todo momento el interés superior de niñas, niños y adolescentes.
+
+En cualquiera de los casos que anteceden, se deberán aplicar los modelos de prevención establecidos en esta Ley, a fin de evitar y erradicar las conductas violentas.
 
 ###### Artículo 44.
 
@@ -1716,3 +1766,15 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Artículo segundo. Clausula derogatoria
 
 Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se oponga a este decreto.
+
+D.O. 15 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 511/2022 POR EL QUE SE MODIFICAN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN Y EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE VIOLENCIA VICARIA”.]
+
+Artículo Primero. Entrada en vigor.
+
+Este Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. Cláusula derogatoria.
+
+Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este Decreto.
