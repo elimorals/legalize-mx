@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-fomento-al-empleo-para-la-ciudad-de-63499"
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-08"
-last_updated: "2020-02-14"
+last_updated: "2022-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63499&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-09-30"
 
 LEY DE PROTECCIÓN Y FOMENTO AL EMPLEO PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE JUNIO DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 8 de octubre de 2008.
 
@@ -86,15 +86,21 @@ XI. Seguro: Al Seguro de Desempleo.
 
 ### Capítulo II. De las Facultades y Obligaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JUNIO DE 2022)</small>
+
 ###### Artículo 5.
 
-El Jefe de Gobierno del Distrito Federal, por conducto de la Secretaría, será responsable del cumplimiento de esta Ley y de sus disposiciones complementarias:
+La persona titular de la Jefatura de Gobierno de la Ciudad de México, por conducto de la Secretaría, será responsable del cumplimiento de esta Ley y de sus disposiciones complementarias:
 
 I. Programar, dirigir y ejecutar el Seguro de Desempleo en la Ciudad de México;
 
 II. Promover la generación de nuevas fuentes de empleo y consolidar las existentes en el Distrito Federal;
 
 III. Promover y observar que los programas y acciones de capacitación local y/o de regulación federal fortalezcan y eleven la calidad y productividad de la fuerza de trabajo y economía del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2022)</small>
+
+III bis. Promover la sensibilización, capacitación y cursos en materia de derechos humanos, igualdad y no discriminación; realizar las inspecciones necesarias para la eliminación de todo tipo de estereotipos, prejuicios y estigmas de los grupos de atención prioritaria en el campo laboral;
 
 > <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -449,3 +455,11 @@ G.O. 14 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 5 DE LA LEY DE PROTECCIÓN Y FOMENTO AL EMPLEO PARA EL DISTRITO FEDERAL".]
 
 ÚNICO. - El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 15 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA EL ARTÍCULO 206 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL. SE REFORMA EL ARTÍCULO 12 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DE LA CIUDAD DE MÉXICO. SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 26 DE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO. SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 10, 65 Y 66 PÁRRAFO PRIMERO Y SE ADICIONA LA FRACCIÓN VIII BIS, AL APARTADO A, DEL ARTÍCULO 10, TODOS DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO. SE MODIFICA EL PÁRRAFO PRIMERO DEL ARTÍCULO 7 Y SE LE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 49, TODOS DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO. SE MODIFICA EL PRIMER PÁRRAFO Y SE ADICIONA LA FRACCIÓN III BIS, AMBAS AL ARTÍCULO 5 DE LA LEY DE PROTECCIÓN Y FOMENTO AL EMPLEO DEL DISTRITO FEDERAL. Y SE ADICIONA LA FRACCIÓN XXXVIII BIS AL ARTÍCULO 9, LA FRACCIÓN VII AL ARTÍCULO 77, LA FRACCIÓN XI AL ARTÍCULO 86, LA FRACCIÓN XIX AL ARTÍCULO 129, Y SE MODIFICAN LAS FRACCIONES V Y VI DEL ARTÍCULO 77, LAS FRACCIONES IX Y X DEL ARTÍCULO 86, EL ARTÍCULO 117, LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 129, TODOS DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO".]
+
+Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
