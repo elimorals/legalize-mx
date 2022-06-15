@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-prevenir-y-eliminar-la-discriminacion-en-la-ciudad-798
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-24"
-last_updated: "2020-10-14"
+last_updated: "2022-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79884&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-02-23"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JUNIO DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 24 de febrero de 2011.
 
@@ -554,11 +554,13 @@ III. Proporcionar de manera ágil y suficiente la información que le sea solici
 
 IV. Las demás que determine la presente Ley.
 
-> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2022)</small>
 
 ###### Artículo 12.
 
-Ningún ente público o persona servidora pública en la Ciudad de México podrá discriminar en los términos de la presente Ley y demás leyes aplicables.
+Ningún ente público o persona servidora pública en la Ciudad de México podrá discriminar en los términos de la presente Ley.
+
+Toda contravención a lo dispuesto en este artículo, se sancionará de conformidad con lo previsto en la Ley de Responsabilidades Administrativas de la Ciudad de México y demás normas aplicables.
 
 ### CAPÍTULO II. Medidas generales a favor de la igualdad de oportunidades
 
@@ -2491,3 +2493,11 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- A la entrada en vigor del presente Decreto, la persona titular del Consejo y las personas titulares tanto del Sistema de planeación así como del Instituto de Planeación Prospectiva de la Ciudad de México, se coordinarán efectivamente para la formulación y elaboración del Programa para Prevenir y Eliminar la Discriminación en la Ciudad de México a que hace referencia el artículo 37 de la presente ley.
 
 CUARTO.- Se concede un plazo máximo de 180 días naturales a la Jefatura de Gobierno de la Ciudad de México a efecto de que se actualice el Reglamento del Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México.
+
+G.O. 15 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA EL ARTÍCULO 206 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL. SE REFORMA EL ARTICULO 12 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DE LA CIUDAD DE MÉXICO. SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 26 DE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO. SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 10, 65 Y 66 PÁRRAFO PRIMERO Y SE ADICIONA LA FRACCIÓN VIII BIS, AL APARTADO A, DEL ARTÍCULO 10, TODOS DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO. SE MODIFICA EL PÁRRAFO PRIMERO DEL ARTÍCULO 7 Y SE LE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 49, TODOS DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO. SE MODIFICA EL PRIMER PÁRRAFO Y SE ADICIONA LA FRACCIÓN III BIS, AMBAS AL ARTÍCULO 5 DE LA LEY DE PROTECCIÓN Y FOMENTO AL EMPLEO DEL DISTRITO FEDERAL. Y SE ADICIONA LA FRACCIÓN XXXVIII BIS AL ARTÍCULO 9, LA FRACCIÓN VII AL ARTÍCULO 77, LA FRACCIÓN XI AL ARTÍCULO 86, LA FRACCIÓN XIX AL ARTÍCULO 129, Y SE MODIFICAN LAS FRACCIONES V Y VI DEL ARTÍCULO 77, LAS FRACCIONES IX Y X DEL ARTÍCULO 86, EL ARTÍCULO 117, LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 129, TODOS DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO".]
+
+Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
