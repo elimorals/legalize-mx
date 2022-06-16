@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2022-06-10"
+last_updated: "2022-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -1047,6 +1047,14 @@ Cada uno de los nombramientos de las personas titulares o de los integrantes de 
 
 Los órganos públicos autónomos deberán regirse bajo los lineamientos de Estado Abierto, en donde se garantizará la transparencia, la rendición de cuentas, la participación ciudadana y la colaboración e innovación.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2022)</small>
+
+Cada órgano público autónomo rendirá un informe anual de labores y resultados. La persona titular o en su caso quien detente la presidencia del órgano, comparecerá ante el Pleno de la Legislatura, para detallar su contenido y contestar los planteamientos que se le formulen. El Pleno de la Legislatura podrá remitir los posicionamientos y recomendaciones que estimen pertinentes.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2022)</small>
+
+El Informe será rendido conforme a lo dispuesto por la legislación aplicable, remitido a la persona titular del Poder Ejecutivo del Estado, difundido con amplitud a la ciudadanía y publicado en los medios electrónicos oficiales de cada órgano.
+
 ### CAPITULO II. Del Poder Legislativo
 
 #### SECCION PRIMERA. De la Elección e Instalación de la Legislatura
@@ -1969,7 +1977,9 @@ El Presidente de la Comisión de los Derechos Humanos del Estado de Quintana Roo
 
 La elección del Presidente de la Comisión de los Derechos Humanos del Estado, así como de los integrantes del Consejo Consultivo, se ajustará a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley de la Comisión de los Derechos Humanos del Estado de Quintana Roo.
 
-El titular del citado Organismo presentará anualmente a la Legislatura en funciones, un informe de actividades. Al efecto comparecerá ante la Comisión correspondiente en los términos que disponga la ley de la materia.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2022)</small>
+
+La persona Titular del citado órgano presentará anualmente ante el Pleno de la Legislatura, un informe de labores y resultados, en términos del artículo 51 BIS de esta Constitución y la ley aplicable.
 
 La Comisión de los Derechos Humanos del Estado de Quintana Roo, formulará recomendaciones públicas autónomas no vinculatorias y denuncias y quejas ante las autoridades respectivas, y no será competente tratándose de asuntos electorales o jurisdiccionales.
 
@@ -2073,9 +2083,9 @@ B.- Corresponde al Ministerio Público la persecución, ante los tribunales, de 
 
 La ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía General del Estado, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2022)</small>
 
-El Fiscal General del Estado presentará anualmente a la Legislatura en funciones, un informe de actividades. Al efecto comparecerá ante la Comisión de Justicia en los términos que disponga la ley de la materia. A la par deberá remitir por escrito un ejemplar de dicho informe anual al titular del Poder Ejecutivo del Estado. Igualmente, el Fiscal General comparecerá ante el Poder Legislativo cuando se le cite a rendir cuentas o a informar sobre algún asunto en particular referente a su gestión, haciéndose esto de manera que no cause perjuicio a las investigaciones o a las funciones de Ministerio Público.
+La persona titular de la Fiscalía General del Estado rendirá un informe anual de labores y resultados, en términos del artículo 51 BIS de esta Constitución y la ley aplicable. La persona Titular de la Fiscalía General comparecerá ante el Poder Legislativo cuando se le cite a rendir cuentas o a informar sobre algún asunto en particular referente a su gestión, haciéndose esto de manera que no cause perjuicio a las Investigaciones o a las funciones de Ministerio Público.
 
 El Fiscal General del Estado y sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
 
@@ -5578,3 +5588,11 @@ P.O. 10 DE JUNIO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 240 POR EL QUE SE REFORMAN EL PÁRRAFO SEXTO DEL ARTÍCULO 94 Y EL PÁRRAFO TERCERO DEL APARTADO B DEL ARTÍCULO 96, Y SE ADICIONAN LOS PÁRRAFOS CUARTO Y QUINTO AL ARTÍCULO 51 BIS, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, EN MATERIA DE COMPARECENCIA DE LOS TITULARES DE LOS ÓRGANOS PÚBLICOS AUTÓNOMOS A LA LEGISLATURA DEL ESTADO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
