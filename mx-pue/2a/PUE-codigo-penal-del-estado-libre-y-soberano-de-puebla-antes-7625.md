@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2022-04-19"
+last_updated: "2022-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -2241,11 +2241,11 @@ La disposición del artículo 195 de este Código no comprende la correspondenci
 
 #### SECCION PRIMERA.- DELITOS CONTRA EL MEDIO AMBIENTE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2022)</small>
 
 ###### Artículo 198.
 
-Se aplicará prisión de dos a diez años y multa de treinta a dos mil veces el valor diario de la Unidad de Medida y Actualización, a quien ocasione un daño ambiental o desequilibrio ecológico, y en contravención a las disposiciones legales en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico, realice, autorice, permita u ordene cualquiera de las siguientes conductas:
+Se aplicará prisión de dos a diez años, y multa de treinta a cinco mil veces el valor diario de la Unidad de Medida y Actualización, a quien ocasione un daño ambiental o desequilibrio ecológico, y en contravención a las disposiciones legales en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico, realice, autorice, permita u ordene cualquiera de las siguientes conductas:
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
@@ -2263,13 +2263,29 @@ III.- Expulse o descargue en la atmósfera gases, humos, polvos, líquidos, vapo
 
 IV.- Transporte, comercie, almacene, deseche, descargue o realice cualquier actividad empleando residuos sólidos urbanos o de manejo especial, sin la autorización correspondiente y en volúmenes que causen o puedan causar daños graves a la salud pública, al medio ambiente o a los recursos naturales;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-V.- Realice obras o actividades sin obtener de la autoridad correspondiente la autorización de impacto y riesgo ambiental o no implemente las medidas preventivas, correctivas o de seguridad, indicadas por la autoridad ambiental, ocasionando daños a la salud pública, al medio ambiente o a los recursos naturales; y
+V.- Realice obras o actividades sin obtener de la autoridad correspondiente la autorización de impacto y riesgo ambiental, o no implemente las medidas preventivas, correctivas o de seguridad, indicadas por la autoridad ambiental, ocasionando daños a la salud pública, al medio ambiente o a los recursos naturales;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE NOVIEMBRE DE 2013)</small>
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-VI.- Introduzca al Estado recursos del medio ambiente a sabiendas de que porten, o padezcan o hayan padecido, alguna enfermedad contagiosa, que ocasione o pueda ocasionar alguna enfermedad al medio ambiente.
+V Bis.- Corte, pode o tale, uno o más árboles, para llevar a cabo la construcción, instalación y/o colocación de estructuras que sustenten anuncios o publicidad;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+V Ter.- Realice, encomiende, encargue o solicite, la construcción, instalación y/o colocación de estructuras que sustenten anuncios o publicidad, en áreas verdes urbanas, de jurisdicción estatal o municipal;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+V Quater.- Realice, encomiende, encargue o solicite la construcción, instalación y/o colocación de estructuras que sustenten anuncios o publicidad, sin contar con la licencia, permiso o autorización expedida por la autoridad competente;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+V Quinquies.- Pinte anuncios o publicidad en los bienes inmuebles propiedad o al cuidado del Estado o del Municipio, en áreas de tránsito peatonal, en corredores urbanos, sin contar con el permiso o autorización de la autoridad correspondiente.
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+VI.- Introduzca al Estado especies de flora o fauna, silvestre o doméstica, a sabiendas de que porten o padezcan o hayan padecido alguna enfermedad contagiosa que ocasione alguna enfermedad o daño al medio ambiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
@@ -7566,6 +7582,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 19 DE ABRIL DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE DEROGA (SIC) LOS ARTÍCULOS 207 Y 208 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO, LAS FRACCIONES V Y VI DEL ARTÍCULO 198, Y SE ADICIONAN LAS FRACCIONES V BIS, V TER, V QUATER Y V QUINQUIES AL ARTÍCULO 198 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
