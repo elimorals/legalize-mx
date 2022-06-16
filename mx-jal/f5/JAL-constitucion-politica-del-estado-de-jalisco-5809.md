@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2022-02-19"
+last_updated: "2022-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -1057,11 +1057,29 @@ IX. Las autoridades estatales y municipales promoverán y garantizarán la trans
 
 X. El Estado y los municipios planearán, regularán y fomentarán la actividad económica mediante la competitividad, mejora regulatoria y el gobierno digital, con la concurrencia de los sectores social, público y privado, en el marco de libertades que otorga la Constitución General de la República; procurarán el desarrollo económico, la generación de empleos y una más justa distribución del ingreso y la riqueza, y bajo criterios de equidad social, productividad y sustentabilidad presupuestaria apoyarán e impulsarán a las empresas de los sectores social y privado de la economía. Los presupuestos de ingresos y egresos del Estado y sus municipios deberán sujetarse a los principios de equilibrio, sostenibilidad, estabilidad financiera y responsabilidad hacendaria.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2022)</small>
+
+El Estado podrá adherirse al Sistema Nacional de Coordinación Fiscal y ceder sus facultades originarias de establecimiento y cobro de contribuciones en los términos de los convenios de coordinación y sus anexos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2022)</small>
+
+La participación en la recaudación federal y la transferencia de recursos adicionales por la Federación deberá ser equitativa y ponderar el componente federal de la aportación del Estado al sistema en su conjunto con sus necesidades solidarias. No obstante, el Estado contará con un Sistema Tributario Estatal que se regirá bajo los principios de eficiencia, disciplina financiera, transparencia y contabilidad gubernamental y será el encargado de que las personas físicas y jurídicas contribuyan proporcional y equitativamente al gasto público, así como de fiscalizar el cumplimiento de las disposiciones tributarias del Estado e incentivar su cumplimiento voluntario.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2022)</small>
+
+El Gobierno del Estado participará los recursos federales que se le transfieran con los municipios, en los términos de la ley de coordinación fiscal y bajo el principio de solidaridad, estableciendo indicadores que permitan el desarrollo de la comunidad, la prestación de servicios eficiente, la generación de empleos y la atención de las necesidades básicas de sus habitantes. El Estado establecerá el Sistema Estatal de Coordinación Fiscal con los municipios teniendo como base para la distribución de los recursos su índice de marginación y el combate a la pobreza.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE JUNIO DE 2022)</small>
+
 La política pública de mejora regulatoria del estado es obligatoria para todas las autoridades públicas estatales y municipales, en sus respectivos ámbitos de competencia y acorde a los principios constitucionales que los rigen.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE JUNIO DE 2022)</small>
 
 La ley regulará el ejercicio del derecho a la información pública y el procedimiento para hacerlo efectivo; las obligaciones por parte de los sujetos de aplicación de la ley respecto a la transparencia y el derecho a la información pública, así como las sanciones por su incumplimiento, de conformidad con lo establecido por la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, esta Constitución y demás normatividad aplicable en la materia.
 
-Será obligación de las autoridades estatales y municipales, de cualquier otro organismo público, así como de cualquier persona física, jurídica o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad, proporcionar la información pública en su posesión, rendir cuantas (sic) de sus funciones y permitir el ejercicio del derecho a la información en los términos de la ley.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2022)</small>
+
+Será obligación de las autoridades estatales y municipales, de cualquier otro organismo público, así como de cualquier persona física, jurídica o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad, proporcionar la información pública en su posesión, rendir cuentas de sus funciones y permitir el ejercicio del derecho a la información en los términos de la ley.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1503,13 +1521,17 @@ XXXIV. Presidir la junta preparatoria para instalar la nueva legislatura;
 
 XXXV. Solicitar a la Comisión Nacional de los Derechos Humanos que investigue hechos que constituyan violaciones graves de derechos humanos;
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-XXXVI. Elegir por el voto de cuando menos las dos terceras partes de los diputados integrantes de la Legislatura, al Fiscal Especializado en materia de Delitos Electorales y al Fiscal Especializado en Combate a la Corrupción, de entre la terna que envíe el titular del Poder Ejecutivo, en los términos que establece esta Constitución y la Ley; y
+XXXVI. Elegir por el voto de cuando menos las dos terceras partes de los diputados integrantes de la Legislatura, al Fiscal Especializado en materia de Delitos Electorales y al Fiscal Especializado en Combate a la Corrupción, de entre la terna que envíe el titular del Poder Ejecutivo, en los términos que establece esta Constitución y la Ley;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-XXXVII. Elegir al Procurador de Desarrollo Urbano del Estado, mediante el voto de cuando menos las dos terceras partes de los diputados integrantes del Congreso, previa convocatoria pública y en los términos que establezca la ley de la materia.
+XXXVII. Elegir al Procurador de Desarrollo Urbano del Estado, mediante el voto de cuando menos las dos terceras partes de los diputados integrantes del Congreso, previa convocatoria pública y en los términos que establezca la ley de la materia; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2022)</small>
+
+XXXVIII. Autorizar al Ejecutivo, por el voto de cuando menos las dos terceras partes de los diputados integrantes del Congreso, la celebración de convenios de coordinación fiscal, siempre y cuando se justifique su conveniencia para el Estado, debiendo tomar en cuenta tanto el componente federal de aportación del Estado como las necesidades solidarias del Sistema Nacional de Coordinación Fiscal. Asimismo, en una sola ocasión, durante el ejercicio del encargo del Ejecutivo en turno, podrá autorizar, por el voto de cuando menos las dos terceras partes de los diputados integrantes del Congreso, darlos por terminados cuando, de manera motivada y previa revisión, se demuestre que ya no se cumplen las condiciones que justificaron su adhesión y que el Estado puede hacerse cargo de la conducción de la política fiscal.
 
 > <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -1841,13 +1863,21 @@ XXIV. Hacer la propuesta de delimitación de las regiones metropolitanas que se 
 
 XXV. Solicitar a la Comisión Nacional de los Derechos Humanos que investigue hechos que constituyan violaciones graves de derechos humanos;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-XXVI. Celebrar convenios de coordinación con la Federación, Estados y Municipios, en materia de combate a la corrupción; y
+XXVI. Celebrar convenios de coordinación con la Federación, Estados y Municipios, en materia de combate a la corrupción;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2022)</small>
 
-XXVII. Las demás que le otorgan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de éstas se deriven.
+XXVII. Celebrar convenios de coordinación fiscal con la Federación, así como darlos por terminados cuando ya no resulten convenientes para el Estado, previa autorización del Congreso.
+
+El Gobernador en turno, dentro de los tres primeros años de su encargo y por una sola ocasión, deberá llevar a cabo un proceso de revisión integral de la política fiscal del Estado y sus convenios de coordinación, en el que se pondere el equilibrio entre el componente federal de la aportación del Estado al Sistema Nacional de Coordinación Fiscal en su conjunto con sus necesidades solidarias, y presentar sus conclusiones al Congreso.
+
+Para dar por terminados los convenios de coordinación fiscal con la Federación, se deberá demostrar que ya no se cumplen las condiciones que justificaron la adhesión al Sistema Nacional de Coordinación Fiscal y motivar que el Estado puede hacerse cargo de la conducción de la política fiscal a través del Sistema Tributario Estatal. Este Sistema no implica la creación de nuevos impuestos, sin que con ello se limiten las atribuciones del Congreso del Estado en materia hacendaria; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JUNIO DE 2022)</small>
+
+XXVIII. Las demás que le otorgan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de éstas se deriven.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -4290,3 +4320,15 @@ P.O. 19 DE FEBRERO DE 2022.
 PRIMERO. Envíese lo conducente del presente decreto, junto con los debates que hubiere provocado a los ayuntamientos del Estado para los efectos del artículo 117 de nuestra constitución local.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 16 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28786/LXIII/22 QUE REFORMA LOS ARTÍCULOS 15, 35 Y 50 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Para efectos de lo dispuesto en el artículo 50 fracción XXVII de la Constitución Política del Estado de Jalisco que se reforma a través de este decreto, el Gobernador del Estado deberá realizar la revisión de los convenios vigentes, dentro de los primeros 6 meses a la entrada en vigor del presente decreto.
+
+TERCERO. El Congreso del Estado deberá crear el marco normativo que regirá el Sistema Tributario Estatal dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente decreto.
+
+CUARTO. A efecto de establecer condiciones más equitativas en las participaciones que les correspondan a los municipios, a partir del primero de enero de 2024 el porcentaje a distribuir será el 23% del total de las percepciones que obtenga el Estado correspondiente al fondo general de participaciones y respecto del 1% que se adicione se priorizarán como parámetros para su distribución los principios resarcitorios relativos al índice de marginación y combate a la pobreza. El Congreso del Estado contará con el término de noventa días para resolver las iniciativas y hacer las adecuaciones legales que correspondan a la Ley de Coordinación Fiscal del Estado de Jalisco y sus Municipios que deriven en esta disposición.
