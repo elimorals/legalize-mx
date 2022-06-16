@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-victimas-del-estado-de-quintana-roo-100407"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-07"
-last_updated: "2021-07-16"
+last_updated: "2022-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100407&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE VICTIMAS DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE VÍCTIMAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 7 de abril de 2014.
 
@@ -1961,9 +1963,11 @@ Si no pudiese hacerse efectiva total o parcialmente la orden de reparación inte
 
 Se crea la Asesoría Jurídica de Atención a Víctimas del Estado de Quintana Roo, como área especializada en asesoría jurídica para víctimas, dependiente de la Comisión Ejecutiva Estatal, que gozará de independencia técnica y operativa.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2022)</small>
+
 ###### Artículo 126.
 
-La Asesoría Jurídica Estatal, estará integrada por un titular, asesores jurídicos, peritos y profesionistas técnicos de diversas disciplinas que se requieran para la defensa de los derechos de las víctimas. Contará con las áreas administrativas que se requieran para el desempeño de sus funciones, en los términos que señale el reglamento.
+La Asesoría Jurídica Estatal, estará integrada por un titular, asesores jurídicos, peritos, intérpretes o traductores lingüísticos y profesionistas técnicos de diversas disciplinas que se requieran para la defensa de los derechos de las víctimas. Contará con las áreas administrativas que se requieran para el desempeño de sus funciones, en los términos que señale el reglamento.
 
 ###### Artículo 127.
 
@@ -2087,11 +2091,19 @@ XIII. Tramitar, supervisar o, cuando se requiera, implementar las medidas de ayu
 
 XIV. Las demás que se requieran para la defensa integral de los derechos de las víctimas.
 
+(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2022)</small>
+
 ###### Artículo 134.
 
-La víctima tendrá derecho a nombrar un Asesor Jurídico Estatal, el cual elegirá libremente desde su solicitud de ingreso al Registro Estatal.
+LA VÍCTIMA TENDRÁ DERECHO A NOMBRAR UN ASESOR JURÍDICO ESTATAL, EL CUAL ELEGIRÁ LIBREMENTE DESDE SU SOLICITUD DE INGRESO AL REGISTRO ESTATAL. EN ESTE CASO, LA COMISIÓN EJECUTIVA ESTATAL DEBERÁ NOMBRARLE UNO A TRAVÉS DE LA ASESORÍA JURÍDICA ESTATAL, ASÍ COMO UN INTÉRPRETE O TRADUCTOR LINGÜÍSTICO CUANDO LA VÍCTIMA NO COMPRENDA EL IDIOMA ESPAÑOL O TENGA DISCAPACIDAD AUDITIVA, VERBAL O VISUAL.
 
-La víctima tendrá el derecho de que el Asesor Jurídico Estatal comparezca a todos los actos en los que sea requerido.
+(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2022)</small>
+
+LA VÍCTIMA TENDRÁ EL DERECHO DE QUE EL ASESOR JURÍDICO ESTATAL COMPAREZCA A TODOS LOS ACTOS EN LOS QUE SEA REQUERIDO Y DE CONTAR CON UN INTÉRPRETE O TRADUCTOR DE SU LENGUA, CUANDO ASÍ SE REQUIERA.
 
 El servicio de la asesoría jurídica será gratuito y se prestará a todas las víctimas que quieran o no pueden contratar a un abogado particular y en especial a:
 
@@ -2558,3 +2570,15 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 16 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 242 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE VÍCTIMAS DEL ESTADO DE QUINTANA ROO, Y POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE QUINTANA ROO, EN MATERIA DE ASESORÍA Y DEFENSA DE LAS PERSONAS INDÍGENAS".]
+
+PRIMERO. El presente Decreto entrará en vigor el día 1 de enero de 2023, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En un plazo que no exceda los ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto, la Comisión Ejecutiva de Atención a Víctimas del Estado de Quintana Roo, el Consejo de la Judicatura del Poder Judicial del Estado y el Instituto de Defensoría Pública del Estado, deberán llevar a cabo las adecuaciones reglamentarias, normativas y estructurales para dar cumplimiento al presente Decreto.
+
+TERCERO. El Poder Judicial del Estado de Quintana Roo incluirá, en su Proyecto de Presupuesto de Egresos para el Ejercicio Fiscal 2023, los recursos necesarios para la ejecución de lo establecido en el presente Decreto.
+
+CUARTO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
