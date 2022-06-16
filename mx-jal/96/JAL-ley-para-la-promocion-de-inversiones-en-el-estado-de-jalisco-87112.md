@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-promocion-de-inversiones-en-el-estado-de-jalisco-87
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2021-07-29"
+last_updated: "2022-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2022.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 31 de marzo de 2012.
 
@@ -139,7 +139,9 @@ III. Buscar, obtener y mantener el liderazgo de Jalisco en la captación de proy
 
 IV. Diseñar y perfeccionar continuamente las estrategias para la captación de nuevos proyectos de inversión productiva;
 
-V. Hacer vigentes los principios constitucionales de la Planeación Democrática del Desarrollo en la Promoción de Inversiones, con la concurrencia de las entidades públicas de los órdenes de gobierno federal, estatal y municipal y de los agentes privados y sociales que tienen injerencia directa sobre el desempeño económico de Jalisco y el funcionamiento de su planta productiva;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+V. Hacer vigentes los principios constitucionales de la Planeación Democrática del Desarrollo en la Promoción de Inversiones, con la concurrencia de las entidades públicas de los órdenes de gobierno federal, estatal y municipal y de los agentes privados y sociales que tienen injerencia directa sobre el desempeño económico de Jalisco y el funcionamiento de su planta productiva, vigilando que las acciones de captación, proyectos e inversiones que se realicen en Jalisco, sean sustentables, con perspectiva de género, dentro del marco de la formalidad y responsabilidad social;
 
 VI. Dar seguimiento puntual a los proyectos de inversión que se hubieren concretado como resultado de las políticas y programas regulados en esta Ley, para acompañarlos durante su proceso de instalación e inicio de operaciones, con la finalidad de que se obtengan los resultados previstos en términos de la generación de riqueza y fuentes de trabajo;
 
@@ -155,31 +157,33 @@ XI. Instaurar un sistema de seguimiento y retroalimentación oportuna, expedita 
 
 XII. Favorecer la coordinación entre las diferentes entidades y organismos estatales y municipales de promoción y fomento a la inversión productiva, y hacer compatibles sus agendas y objetivos particulares, con la finalidad de potenciar sus resultados.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2022)</small>
 
 ###### Artículo 9.
 
-Para la atención de los objetivos encomendados al Sistema Estatal de Promoción de Inversiones y para la concreción, instrumentación, seguimiento y evaluación de los acuerdos que con ese fin se adopten, se conformará un Consejo, integrado de la siguiente manera:
+Para la atención de los objetivos encomendados al Sistema Estatal de Promoción de Inversiones y para la concreción, instrumentación, seguimiento y evaluación de los acuerdos que con ese fin se adopten, se conformará un Consejo, integrado por las personas titulares de las entidades que se enlistan a continuación:
 
-I. El Gobernador del Estado, quien lo presidirá;
+I. Poder Ejecutivo del Estado, quien lo presidirá;
 
-II. El Secretario de Desarrollo Económico, quien fungirá como Secretario Técnico y Ejecutivo;
+II. Coordinación General Estratégica de Crecimiento y Desarrollo Económico quien fungirá como Secretario Técnico y Ejecutivo;
 
-III. El Secretario de la Hacienda Pública;
+III. Secretaría de Desarrollo Económico;
 
-IV. El Secretario de Agricultura y Desarrollo Rural;
+IV. Secretaría de la Hacienda Pública;
 
-V. El Secretario de Turismo;
+V. Secretaría de Agricultura y Desarrollo Rural;
 
-VI. El Secretario de Medio Ambiente y Desarrollo Territorial;
+VI. Secretaría de Turismo;
 
-VII. El Secretario de Trabajo y Previsión Social;
+VII. Secretaría de Medio Ambiente y Desarrollo Territorial;
 
-VIII. El Secretario de Seguridad;
+VIII. Secretaría de Trabajo y Previsión Social;
 
-IX. El Secretario del Transporte; y
+IX. Secretaría de Seguridad;
 
-X. El Secretario de Innovación, Ciencia y Tecnología.
+X. Secretaría del Transporte; y
+
+XI. Secretaría de Innovación, Ciencia y Tecnología.
 
 ###### Artículo 10.
 
@@ -369,7 +373,9 @@ Las empresas que realicen inversiones físicas en el territorio del estado Jalis
 
 Los beneficios que se otorguen con base en este ordenamiento estarán sujetos a las posibilidades jurídicas, técnicas y financieras del Estado, y serán adicionales o independientes a los que otorgue cualquier otra entidad pública o privada, organismo internacional o agencia extranjera, bajo cualquier título.
 
-La prelación para seleccionar los proyectos de inversión susceptibles de recibir incentivos o apoyos estará definida por las prioridades del desarrollo económico del Estado, definidas mediante el Sistema Estatal de Planeación Democrática, por su oportunidad estratégica, según el juicio de los órganos decisorios del Sistema Estatal de Promoción de Inversiones y por su grado de concordancia con los principios de la promoción de inversiones previstos en el artículo 5.° y demás establecidos en esta Ley.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2022)</small>
+
+La prelación para seleccionar los proyectos de inversión susceptibles de recibir incentivos o apoyos estará definida por las prioridades del desarrollo económico del Estado, definidas mediante el Sistema Estatal de Planeación Democrática, por su oportunidad estratégica, según el juicio de los órganos decisorios del Sistema Estatal de Promoción de Inversiones y por su grado de concordancia con los principios de la promoción de inversiones previstos en el artículo 5°. y demás establecidos en esta Ley, debiendo implicar invariablemente, que sean proyectos sustentables, con perspectiva de género, dentro del marco de la formalidad y responsabilidad social.
 
 ###### Artículo 32.
 
@@ -714,3 +720,9 @@ P.O. 29 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28427/LXII/21 QUE ADICIONA LOS ARTÍCULOS 39 Y 56 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO, 49 DE LA LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO, 10 DE LA LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO, 46 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 20 DE LA LEY DE PROYECTOS DE INVERSIÓN Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 19 DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, 31 DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO, 152 DE LA LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO Y 55 DE LA LEY DE TURISMO PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "EJ Estado de Jalisco".
+
+P.O. 16 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28787/LXIII/22 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2, 3, 4, 6, 8, 9, 12, 24, 26, 54, 62 Y 63 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO Y LOS ARTÍCULOS 8, 9 Y 31 DE LA LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
