@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-economico-del-estado-de-jalisco-87111"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2021-12-31"
+last_updated: "2022-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2022.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 31 de marzo de 2012.
 
@@ -59,11 +59,11 @@ De las Actividades del Desarrollo Económico.
 
 Esta ley es de orden público, de interés social y de observancia general en el estado de Jalisco. Tiene como objetivos principales fomentar el desarrollo económico, la productividad, la cooperación y mejorar la competitividad en el estado de Jalisco, procurando la generación de condiciones favorables para el desarrollo sustentable, equitativo y pacífico de todas las regiones y sectores económicos en la entidad, con el fin de, aumentar el ingreso de sus habitantes y mejorar su calidad de vida.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2022)</small>
 
 ###### Artículo 2.
 
-La aplicación de esta ley le corresponde a la Secretaría de Desarrollo Económico del Gobierno del Estado, al Consejo Estatal para la Competitividad de Jalisco, al Instituto de Información Estadística y Geográfica del Estado de Jalisco y a las demás entidades públicas estatales y municipales en sus respectivos ámbitos de competencia y según sus atribuciones de ley.
+La aplicación de esta ley le corresponde a la Coordinación General Estratégica de Crecimiento y Desarrollo Económico, la Secretaría de Desarrollo Económico del Gobierno del Estado, al Consejo Estatal para la Competitividad de Jalisco, al Instituto de Información Estadística y Geográfica del Estado de Jalisco y a las demás entidades públicas estatales y municipales en sus respectivos ámbitos de competencia y según sus atribuciones de ley.
 
 ###### Artículo 3.
 
@@ -83,55 +83,99 @@ VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 
 VII. Consejo de competitividad: el Consejo Estatal para la Competitividad de Jalisco;
 
-VIII. Desarrollo económico: es la creación de riqueza económica para todos los ciudadanos dentro de los diversos estratos de la sociedad, a fin de que puedan tener acceso a un potencial crecimiento en su calidad de vida;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+VIII. Coordinación General: la Coordinación General Estratégica de Crecimiento y Desarrollo Económico;
 
-IX. Estado de emergencia económica: es la declaratoria emitida por el Titular del Ejecutivo Estatal de manera directa, a propuesta del Secretario de Desarrollo Económico, en los términos de la presente ley y su reglamento, y la cual podrá existir en caso de riesgo inminente de la caída de la producción estatal y del empleo;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-X. Integración productiva: es la reorganización de las relaciones de intercambio y cooperación en una cadena productiva o sector, que mejore la calidad y cantidad de estas interacciones, aumente el valor agregado, fortalezca su modo de producción y lleve a una mayor especialización tanto de las empresas y organizaciones vinculadas, como de la cadena o sector en su conjunto;
+IX. Desarrollo económico: es la creación de riqueza económica para todos los ciudadanos dentro de los diversos estratos de la sociedad, a fin de que puedan tener acceso a un potencial crecimiento en su calidad de vida;
 
-XI. Libertad económica: derecho fundamental de todos los individuos para controlar su trabajo y propiedades, para producir, consumir e invertir en la forma en que ellos mismos decidan, siempre y cuando no violen la libertad y derechos de terceros, cuya tutela le corresponde a las entidades públicas del Estado facultadas para ello.
+(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2022), P.O. 16 DE JUNIO DE 2022)
 
-XII. Procesos productivos: secuencia de actividades requeridas para la elaboración de un producto, de un bien o un servicio;
+X. Desarrollo sustentable: Es la prerrogativa que implica compaginar metas fundamentales entre el desarrollo económico y la preservación de los recursos.
 
-XIII. Productividad: relación entre la producción obtenida por un sistema productivo y los recursos utilizados para obtener dicha producción, en el menor tiempo posible.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2017)</small>
+XI. Empleos verdes: Responden a aquellas actividades que reducen el impacto ambiental de las empresas y los sectores económicos, hasta alcanzar niveles de sustentabilidad ambiental
 
-XIV. Promoción: incentivos de capacitación y difusión que el Gobierno del Estado, a través de la Secretaría de Desarrollo Económico y las demás instancias públicas facultadas, otorga a los proyectos productivos, con aplicación a corto plazo, para el desarrollo de su crecimiento en forma sostenible y autosustentable;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-XV. Proyectos productivos: conjunto de actividades coordinadas y planificadas en torno a un objetivo específico, para la generación de rentabilidad económica ante un capital de inversión dado;
+XII. Estado de emergencia económica: es la declaratoria emitida por el Titular del Ejecutivo Estatal de manera directa, a propuesta del Secretario de Desarrollo Económico, en los términos de la presente ley y su reglamento, y la cual podrá existir en caso de riesgo inminente de la caída de la producción estatal y del empleo;
 
-XVI. Reglamento: el Reglamento de la Ley para el Desarrollo Económico del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2013)</small>
+XIII. Instituto de información: Instituto de Información Estadística y Geográfica del Estado de Jalisco;
 
-XVII. Secretaría: la Secretaría de Desarrollo Económico del Gobierno del Estado de Jalisco; y
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2013)</small>
+XIV. Integración productiva: es la reorganización de las relaciones de intercambio y cooperación en una cadena productiva o sector, que mejore la calidad y cantidad de estas interacciones, aumente el valor agregado, fortalezca su modo de producción y lleve a una mayor especialización tanto de las empresas y organizaciones vinculadas, como de la cadena o sector en su conjunto;
 
-XVIII. Instituto de Información: Instituto de Información Estadística y Geográfica del Estado de Jalisco.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+XV. Libertad económica: derecho fundamental de todos los individuos para controlar su trabajo y propiedades, para producir, consumir e invertir en la forma en que ellos mismos decidan, siempre y cuando no violen la libertad y derechos de terceros, cuya tutela le (sic) corresponde a las entidades públicas del Estado facultadas para ello;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2022)</small>
+
+XVI. Perspectiva de género: Instrumento de análisis que nos permite identificar las diferencias entre hombres y mujeres para establecer acciones tendientes a promover situaciones de equidad;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+XVII. Procesos productivos: secuencia de actividades requeridas para la elaboración de un producto, de un bien o un servicio;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+XVIII. Productividad: relación entre la producción obtenida por un sistema productivo y los recursos utilizados para obtener dicha producción, en el menor tiempo posible;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+XIX. Promoción: incentivos de capacitación y difusión que el Gobierno del Estado, a través de la Secretaría de Desarrollo Económico y las demás instancias públicas facultadas, otorga a los proyectos productivos, con aplicación a corto plazo, para el desarrollo de su crecimiento en forma sostenible y autosustentable;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+XX. Proyectos productivos: conjunto de actividades coordinadas y planificadas en torno a un objetivo específico, para la generación de rentabilidad económica ante un capital de inversión dado;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+XXI. Reglamento: el Reglamento de la Ley para el Desarrollo Económico del Estado de Jalisco; y
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+XXII. Secretaría: la Secretaría de Desarrollo Económico del Gobierno del Estado de Jalisco.
 
 ###### Artículo 4.
 
 Son autoridades en los términos de esta ley, las siguientes:
 
-I. El Titular del Poder Ejecutivo del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-II. La Secretaría;
+I. La persona titular del Poder Ejecutivo del Estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2022)</small>
+
+II. La Coordinación General;
 
 III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 
-IV. El Consejo de Competitividad;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2013)</small>
+IV. La Secretaría;
 
-V. El Instituto de Información;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-VI. Las dependencias y organismos competentes y vinculantes de la administración pública estatal y municipal, y
+V. El Consejo de Competitividad;
 
-VII. Las demás que establezca esta Ley y su Reglamento.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+VI. El Instituto de Información;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+VII. Las dependencias y organismos competentes y vinculantes de la administración pública estatal y municipal; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JUNIO DE 2022)</small>
+
+VIII. Las demás que establezca esta Ley y su Reglamento
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -143,9 +187,9 @@ El Gobierno del Estado, a través de la Secretaría otorgará los apoyos y promo
 
 La presente ley tiene como objetivos específicos:
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-I. Impulsar el desarrollo económico sustentable de la entidad;
+I. Impulsar el desarrollo económico sustentable de la entidad con perspectiva de género;
 
 II. Fomentar el crecimiento ordenado y descentralizado de la entidad, sus sectores y regiones, procurando el arraigo de los jaliscienses en sus lugares de origen, la reactivación de las zonas económicas más deprimidas y marginadas y el impulso de sectores estratégicos que coadyuven en la aceleración del desarrollo, en la productividad y en la competitividad del Estado;
 
@@ -197,13 +241,17 @@ XIX. Promover sistemas de apoyo financiero y crediticio acordes con las condicio
 
 XX. Proporcionar asesoría y gestión a las empresas que pretendan instalarse en la entidad, cuando así lo soliciten;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-XXI. Promover apoyos económicos y de capacitación en materia de artesanía, de manera directa o con la participación de las instancias gubernamentales competentes; y
+XXI. Promover apoyos económicos y de capacitación en materia de artesanía, de manera directa o con la participación de las instancias gubernamentales competentes;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-XXII. Promover la cultura de paz en el sector económico del estado de Jalisco.
+XXII. Promover la cultura de paz en el sector económico del estado de Jalisco; y
+
+(REFORMADA (N. DE E. ADICIONADA), P.O. 16 DE JUNIO DE 2022)
+
+XXIII. Establecer mecanismos de desarrollo económico con perspectiva de género para lograr una inclusión económica plena.
 
 ### Capítulo II. De las Actividades Sujetas a la Promoción y el Apoyo para el Desarrollo Económico
 
@@ -245,7 +293,9 @@ III. Sean identificados dentro de los sectores, ramas productivas o regiones, de
 
 IV. Promuevan el establecimiento de infraestructura dentro de las áreas de desarrollo, conforme al Reglamento;
 
-V. Generen el autoempleo y la economía formal;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+V. Generen empleos verdes, el autoempleo y la economía formal;
 
 VI. Coadyuven en la integración de cadenas productivas, polos de desarrollo y el cooperativismo en las regiones;
 
@@ -257,9 +307,9 @@ IX. Demuestren estar sujetas a un proceso de normalización, certificación o ve
 
 X. Destinen al menos un veinte por ciento de su gasto de operación a programas de investigación y desarrollo científico y tecnológico;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-XI. Participen en la conservación y mejoramiento del patrimonio cultural del Estado;
+XI. Participen en la conservación y mejoramiento del patrimonio cultural o ambiental del Estado;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2021)</small>
 
@@ -281,9 +331,9 @@ Los proyectos productivos establecidos o por establecerse en el Estado, podrán 
 
 I. Demuestren fehacientemente el mantenimiento o refuerzo del vocacionamiento y/o encadenamiento productivo del municipio o región del Estado donde se establezcan;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-II. Acrediten la generación de nuevas fuentes de empleo directo, la conservación y mejoramiento de los ya existentes o realicen inversiones en activos fijos en el área o zona geográfica donde se establezcan dentro del Estado, conforme a los rangos y cantidades que en forma general determine el Reglamento, además de acreditar el cumplimiento de las obligaciones que en específico les señale la legislación ambiental aplicable en el Estado;
+II. Acrediten la generación de nuevas fuentes de empleo directo, la conservación y mejoramiento de los ya existentes, promuevan el desarrollo sustentable con perspectiva de género o realicen inversiones en activos fijos en el área o zona geográfica donde se establezcan dentro del Estado, conforme a los rangos y cantidades que en forma general determine el Reglamento, además de acreditar el cumplimiento de las obligaciones que en específico les señale la legislación ambiental aplicable en el Estado;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -345,9 +395,9 @@ b. Prioridad dos: Sector, rama o actividad económica definida como estratégica
 
 c. Prioridad tres: Sector, rama o actividad económica que genere una mayor cantidad de empleos permanentes, bien remunerados y consolide los ya existentes, en forma equitativa para todas las regiones.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2022)</small>
 
-Se dará preferencia en el uso y destino de los recursos, a los proyectos colectivos, que generen entornos de paz, de agrupamientos o de encadenamientos productivos, por sobre las solicitudes que beneficien a personas o empresas en lo individual.
+Se dará preferencia en el uso y destino de los recursos, a los proyectos colectivos, que generen entornos de paz, igualdad de género, beneficios de orden ambiental, de agrupamientos o de encadenamientos productivos, por sobre las solicitudes que beneficien a personas o empresas en lo individual.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -553,13 +603,17 @@ IX. Instrumentar acciones que favorezcan el desarrollo de la Competitividad;
 
 X. Promover y estimular ferias y exposiciones que favorezcan y difundan los productos jaliscienses;
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-XI. Impulsar el fortalecimiento financiero, administrativo, comercial, tecnológico y de exportación, mediante estrategias regionales y sectoriales determinadas en esta Ley, en el Plan Estatal de Desarrollo, los programas y acciones de la propia Secretaría y los demás ordenamientos y programas vinculantes; y
+XI. Impulsar el fortalecimiento financiero, administrativo, comercial, tecnológico y de exportación, mediante estrategias regionales y sectoriales determinadas en esta Ley, en el Plan Estatal de Desarrollo, los programas y acciones de la propia Secretaría y los demás ordenamientos y programas vinculantes;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-XII. Promover la cooperación entre las empresas, procurando la formación de cadenas productivas y clústeres.
+XII. Promover la cooperación entre las empresas, procurando la formación de cadenas productivas y clústeres; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2022)</small>
+
+XIII. En conjunto con las áreas internas o adscritas a otros entes, impartir acciones de capacitación o acompañamiento informativo en materia de inclusión, perspectiva de género y responsabilidad ambiental.
 
 ###### Artículo 25.
 
@@ -585,6 +639,8 @@ III. Elaborar anualmente, bajo criterios de generación y fortalecimiento del de
 
 IV. Promover la participación ciudadana en la planeación, programación, presupuestación, ejecución y revisión de las políticas públicas estatales de desarrollo económico del Estado, en los términos de esta Ley y su Reglamento;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2022)</small>
+
 V. Proponer al Gobernador del Estado para su aprobación, ejecución y evaluación de resultados, las políticas públicas estatales de desarrollo económico del estado, tendientes a:
 
 a. Generar nuevas fuentes de empleo, conservar las existentes y promover el autoempleo y la formalidad;
@@ -605,13 +661,21 @@ g. Impulsar la formación de organismos financieros, fideicomisos mercantiles, f
 
 h. Impulsar el desarrollo de energías alternativas y el uso de tecnologías limpias que protejan y mejoren el medio y (sic) ambiente;
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2022)</small>
 
-i. Promover la cooperación entre las empresas del Estado; y
+i. Promover la cooperación entre las empresas del Estado;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2022)</small>
 
-j. Las demás acciones que considere necesarias y convenientes para el desarrollo económico del estado;
+j. Impulsar el involucramiento temprano de estudiantes de la educación media superior y superior en las actividades económicas mediante el emprendimiento de su primer negocio;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2022)</small>
+
+k. Implementar acciones que coadyuven a incorporar a las personas adultas mayores o con discapacidad en el campo laboral; y
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 16 DE JUNIO DE 2022)</small>
+
+l. Las demás acciones que considere necesarias y convenientes para el desarrollo económico del estado;
 
 VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 
@@ -643,9 +707,27 @@ XVIII. Proponer en cualquier tiempo al Gobernador del Estado la realización de 
 
 XIX. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2013)
 
-XX. Proponer al Gobernador del Estado, el Reglamento de la presente Ley, así como las reformas legislativas que estime convenientes y necesarias para su funcionamiento, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2022)</small>
 
-XXI. Las demás que establezca esta Ley y otras disposiciones aplicables.
+XX. Crear mecanismos que ayuden a identificar las necesidades de los diferentes sectores productivos del Estado de Jalisco, con el objetivo de implementar acciones que impulsen la capacidad de producción y por ende la comercialización de productos y servicios en el mercado local, nacional e internacional, para lo cual se podrá entre otras:
+
+a. Establecer por sector económico y de producción, los principales objetivos a mediano plazo que ayuden a su crecimiento y fortalecimiento;
+
+b. Definir cuales sectores económicos del Estado, requieren de mayor publicidad, promoción y apoyo económico; o
+
+c. Identificar las desventajas de competitividad ante otros mercados nacionales o extranjeros, y establecer rutas de trabajo que disminuyan este tipo de insuficiencias;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2022)</small>
+
+XXI. Promover incentivos fiscales y apoyos que fortalezcan a los diferentes sectores productivos para incrementar la competitividad del Estado;
+
+> <small>(REFORMADA [N. DE E. Y REUBICADA], P.O. 16 DE JUNIO DE 2022)</small>
+
+XXII. Proponer al Gobernador del Estado, el Reglamento de la presente Ley, así como las reformas legislativas que estime convenientes y necesarias para su funcionamiento; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JUNIO DE 2022)</small>
+
+XXIII. Las demás que establezca esta Ley y otras disposiciones aplicables.
 
 ### Capítulo II. Del Consejo Estatal de Promoción Económica
 
@@ -869,7 +951,9 @@ IV. Establecer los lineamientos a los que deberá sujetarse la integración, an�
 
 V. Fijar las directrices para la distribución y administración de los recursos asignados al Consejo de Competitividad, a los secretarios Ejecutivo y Técnico del mismo, así como a cualquier otra entidad pública o privada para la ejecución de la Agenda Única de Competitividad, de los acuerdos del Pleno o del cumplimiento de los objetivos del presente Capítulo de esta ley;
 
-VI. Autorizar los proyectos para la mejora de la competitividad y los que se formulen para el desarrollo y mejora de infraestructura bajo la Agenda Única de competitividad, así como sus respectivos presupuestos;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+VI. Autorizar los proyectos para la mejora de la competitividad, que promuevan la sustentabilidad y los que se formulen para el desarrollo y mejora de infraestructura bajo la Agenda Única de competitividad, así como sus respectivos presupuestos;
 
 VII. Adoptar las decisiones que sean necesarias para mejorar la posición de Jalisco en materia de competitividad;
 
@@ -881,7 +965,9 @@ X. Supervisar el avance de ejecución de la Agenda Única de Competitividad, los
 
 XI. Resolver, en los términos que establezca esta Ley y su Reglamento, los recursos de revisión que se interpongan en contra de los acuerdos y determinaciones tomadas por el Pleno;
 
-XII. Evaluar en forma anual, la política estatal de competitividad y el impacto socio-económico que la misma ha tenido tomando en consideración los datos estadísticos de inversión productiva, formación bruta de capital fijo, la generación del empleo, el salario base de cotización promedio del IMSS, la productividad laboral, el ingreso per-cápita, así como los indicadores relacionados con la desigualdad de ingresos que se determinen, a fin de garantizar una evaluación objetiva y permanente;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+XII. Evaluar en forma anual, la política estatal de competitividad y el impacto socio-económico que la misma ha tenido tomando en consideración los datos estadísticos de inversión productiva, formación bruta de capital fijo, la generación del empleo, el salario base de cotización promedio del IMSS, la productividad laboral, el ingreso per cápita, el desarrollo sustentable, la perspectiva de género, así como los indicadores relacionados con la desigualdad de ingresos que se determinen, a fin de garantizar una evaluación objetiva y permanente;
 
 XIII. Integrar las comisiones ejecutivas temáticas generales, para los fines específicamente establecidos, y
 
@@ -979,17 +1065,17 @@ Los poderes del Estado y los ayuntamientos, en el ámbito de sus respectivas com
 
 El Gobierno del Estado, con la participación de la Secretaría, podrá celebrar convenios de coordinación con los gobiernos municipales para impulsar los diversos programas y planes de productividad contemplados en el presente capítulo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2022)</small>
 
 ###### Artículo 62.
 
-La Secretaría tendrá como una de sus prioridades, apoyar e incentivar aquellos proyectos del sector privado que tiendan a mejorar los índices de productividad laboral y del aparato productivo en general. Para tal fin, la Secretaría analizará, dictaminará y decidirá en forma prioritaria, respecto de los apoyos a fondo perdido o créditos a tasa preferencial, en los términos de lo establecido por el Reglamento, para la mejora de la productividad solicitados para proyectos sectoriales que tiendan a fortalecer los agrupamientos productivos, mejorar el diseño, la calidad, los procesos productivos, la tecnología, el potencial exportador y las capacidades humanas, especialmente para ramas específicas tradicionales de alto impacto en el empleo y el autoempleo, con enfoque al otorgamiento de servicios para las micro, pequeñas y medianas empresas de la entidad que les permitan mejorar los conceptos arriba señalados.
+La Secretaría tendrá como una de sus prioridades, apoyar e incentivar aquellos proyectos del sector privado que tiendan a mejorar los índices de productividad laboral, fomento del desarrollo sustentable con perspectiva de género y del aparato productivo en general. Para tal fin, La Secretaría analizará, dictaminará y decidirá en forma prioritaria, respecto de los apoyos a fondo perdido o créditos a tasa preferencial, en los términos de lo establecido por el Reglamento, para la mejora de la productividad solicitados para proyectos sectoriales que tiendan a fortalecer los agrupamientos productivos, mejorar el diseño, la calidad, los procesos productivos, la tecnología, el potencial exportador y las capacidades humanas, especialmente para ramas específicas tradicionales de alto impacto en el empleo y el autoempleo, con enfoque al otorgamiento de servicios para las micro, pequeñas y medianas empresas de la entidad que les permitan mejorar los conceptos arriba señalados.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2022)</small>
 
 ###### Artículo 63.
 
-A cada programa que sea autorizado por la Secretaría, deberá llevarse un seguimiento puntual de sus indicadores de productividad, con el fin de medir el impacto que dicho proyecto haya obtenido.
+A cada programa que sea autorizado por la Secretaría, deberá llevarse un seguimiento puntual de sus indicadores de productividad, sustentabilidad e inclusión social, con el fin de medir el impacto que dicho proyecto haya obtenido.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -1356,3 +1442,9 @@ DÉCIMO PRIMERO. El organismo público descentralizado Agencia de Coinversión p
 DÉCIMO SEGUNDO. Las referencias que en cualquier otro ordenamiento se establezca en relación a los entes que se extinguen, se tendrán por hechas a la Agencia de Coinversión para el Desarrollo Sostenible de Jalisco.
 
 DÉCIMO TERCERO. Las disposiciones reglamentarias vigentes, seguirán aplicándose en tanto no se opongan al presente decreto.
+
+P.O. 16 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28787/LXIII/22 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2, 3, 4, 6, 8, 9, 12, 24, 26, 54, 62 Y 63 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO Y LOS ARTÍCULOS 8, 9 Y 31 DE LA LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
