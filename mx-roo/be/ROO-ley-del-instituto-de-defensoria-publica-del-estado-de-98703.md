@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-instituto-de-defensoria-publica-del-estado-de-98703"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-22"
-last_updated: "2021-10-07"
+last_updated: "2022-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DEL INSTITUTO DE DEFENSORIA PUBLICA DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el 22 de noviembre de 2013.
 
@@ -43,11 +45,13 @@ LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE QUINTANA ROO.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
+(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2022)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público, y tiene por objeto regular la prestación del servicio de defensoría pública gratuita en asuntos del fuero común, a fin de garantizar el derecho a la defensa adecuada y de calidad para la población en materia penal y de justicia para adolescentes; así como garantizar el acceso a la justicia, mediante la orientación, asesoría y/o representación jurídica en asuntos de carácter civil, familiar, mercantil, administrativo y laboral. Tratándose de asuntos de carácter administrativo se estará a lo establecido en el artículo 34 de esta ley.
+La presente Ley es de orden público y tiene por objeto regular la prestación del servicio de defensoría pública gratuita en asuntos del fuero común, a fin de garantizar el derecho a la defensa adecuada y de calidad para la población en materia penal y de justicia para adolescentes; así como garantizar el acceso a la justicia, mediante la orientación, asesoría y/o representación jurídica en asuntos de carácter civil, familiar, mercantil, administrativo, laboral y de defensa de personas indígenas. Tratándose de asuntos de carácter administrativo se estará a lo establecido en el artículo 34 de esta ley.
 
 ###### Artículo 2.
 
@@ -95,11 +99,23 @@ Las instrucciones generales dictadas por el Instituto de Defensoría Pública de
 
 IX. Diversidad Cultural. El servidor público al prestar el servicio de defensa pública y asistencia jurídica lo hará respetando la naturaleza multiétnica y pluricultural de toda persona;
 
-X. Solución Alternativa de Conflictos. El defensor público deberá promover la solución alterna de los conflictos a través de la conciliación y la mediación, mediante los cauces institucionales existentes;
+(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-XI. Diligencia. El servidor público se esmerará en el cuidado, esfuerzo y prontitud de su desempeño para encauzar las acciones encaminadas a evitar una decisión tardía o errónea, procurando que los procesos se resuelvan en los plazos establecidos; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2022)</small>
 
-XII. Excelencia y Profesionalismo. El servidor público en el cumplimiento de sus funciones debe esmerarse en lograr niveles óptimos de desempeño sobre la base de estándares de calidad con dominio de los conocimientos técnicos y habilidades especiales que se requieran para el ejercicio de su función, y tener un comportamiento ético, honesto, calificado, responsable y capaz.
+X. DEFENSA DE PERSONAS INDÍGENAS. EN LOS ASUNTOS EN LOS QUE SE SOLICITE LA DEFENSA O REPRESENTACIÓN JURÍDICA POR PERSONAS INDÍGENAS QUE NO COMPRENDAN O HABLEN SUFICIENTEMENTE EL IDIOMA ESPAÑOL, SE DESIGNARÁ UN DEFENSOR PÚBLICO O ASISTENTE JURÍDICO, QUE HABLE LA LENGUA DEL SOLICITANTE O, EN SU CASO, SE LE ASIGNARÁ INTÉRPRETE O TRADUCTOR LINGÜÍSTICO AUTORIZADO;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JUNIO DE 2022)</small>
+
+XI. Solución Alternativa de Conflictos. El defensor público deberá promover la solución alterna de los conflictos a través de la conciliación y la mediación, mediante los cauces institucionales existentes;
+
+> <small>(REFORMADA [N. DE E. REFORMADA Y REUBICADA], P.O. 16 DE JUNIO DE 2022)</small>
+
+XII. Diligencia. El servidor público se esmerará en el cuidado, esfuerzo y prontitud de su desempeño para encauzar las acciones encaminadas a evitar una decisión tardía o errónea, procurando que los procesos se resuelvan en los plazos establecidos, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 16 DE JUNIO DE 2022)</small>
+
+XIII. Excelencia y Profesionalismo. El servidor público en el cumplimiento de sus funciones debe esmerarse en lograr niveles óptimos de desempeño sobre la base de estándares de calidad con dominio de los conocimientos técnicos y habilidades especiales que se requieran para el ejercicio de su función y tener un comportamiento ético, honesto, calificado, responsable y capaz.
 
 ###### Artículo 4.
 
@@ -123,15 +139,31 @@ VIII.- Informador: Servidor Público encargado de tener el primer contacto con e
 
 IX.- Gestor: Servidor Público encargado de asistir y orientar de modo técnico y jurídico a los usuarios de los servicios que presta el Instituto de Defensoría Pública, canalizando según sea el caso al Defensor Público o al Asistente Jurídico;
 
-X.- Defensor Público: Servidor Público que presta el servicio de defensoría pública en asuntos de carácter penal, y los especializados en justicia para adolescentes. Así como la asistencia en materia administrativa en los términos de esta ley;
+(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2022)</small>
 
-XI.- Asistente jurídico: Servidor Público que presta el servicio de orientación, asesoría y/o representación jurídica, según corresponda, en los asuntos de carácter civil, familiar, mercantil y laboral;
+X.- TITULAR DE LA UNIDAD DE ATENCIÓN A PERSONAS INDÍGENAS: PERSONA SERVIDORA PÚBLICA QUE EJERZA LA TITULARIDAD DE LA UNIDAD DE ATENCIÓN A PERSONAS INDÍGENAS DEL INSTITUTO DE DEFENSORÍA PÚBLICA;
 
-XII.- Zona: Demarcación territorial en que divide el Consejo de la Judicatura el territorio del Estado y que puede abarcar uno o más Distritos Judiciales, donde ejercen su competencia territorial los Coordinadores Generales de Zona; y
+(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-XIII.- Distrito: Los Distritos Judiciales establecidos en la Ley Orgánica del Poder Judicial del Estado de Quintana Roo.
+> <small>(REFORMADA [N. DE E. REFORMADA Y REUBICADA], P.O. 16 DE JUNIO DE 2022)</small>
+
+XI.- DEFENSOR PÚBLICO: SERVIDOR PÚBLICO QUE PRESTA EL SERVICIO DE DEFENSORÍA PÚBLICA EN ASUNTOS DE CARÁCTER PENAL, DE DEFENSA DE PERSONAS INDÍGENAS Y LOS ESPECIALIZADOS EN JUSTICIA PARA ADOLESCENTES. ASÍ COMO LA ASISTENCIA EN MATERIA ADMINISTRATIVA EN LOS TÉRMINOS DE ESTA LEY;
+
+(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA [N. DE E. REFORMADA Y REUBICADA], P.O. 16 DE JUNIO DE 2022)</small>
+
+XII.- ASISTENTE JURÍDICO: SERVIDOR PÚBLICO QUE PRESTA EL SERVICIO DE ORIENTACIÓN, ASESORÍA Y/O REPRESENTACIÓN JURÍDICA, SEGÚN CORRESPONDA, EN DEFENSA DE PERSONAS INDÍGENAS Y EN LOS ASUNTOS DE CARÁCTER CIVIL, FAMILIAR, MERCANTIL, LABORAL;
+
+> <small>(REFORMADA [N. DE E. REFORMADA Y REUBICADA], P.O. 16 DE JUNIO DE 2022)</small>
+
+XIII.- Zona: Demarcación territorial en que divide el Consejo de la Judicatura el territorio del Estado y que puede abarcar uno o más Distritos Judiciales, donde ejercen su competencia territorial los Coordinadores Generales de Zona, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE JUNIO DE 2022)</small>
+
+XIV.- Distrito: Los Distritos Judiciales establecidos en la Ley Orgánica del Poder Judicial del Estado de Quintana Roo.
 
 ###### Artículo 5.
 
@@ -159,9 +191,19 @@ X.- Asistentes Jurídicos;
 
 XI.- Peritos;
 
-XII.- Investigadores; y
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-XIII.- El personal auxiliar y de apoyo técnico y de gestión; y trabajadores sociales necesarios para cubrir todas las áreas de competencia y que determine el Consejo de la Judicatura de acuerdo al presupuesto.
+XII.- Zona: Demarcación territorial en que divide el Consejo de la Judicatura el territorio del Estado y que puede abarcar uno o más Distritos Judiciales, donde ejercen su competencia territorial los Coordinadores Generales de Zona;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+XIII.- El personal auxiliar y de apoyo técnico y de gestión y trabajadores sociales necesarios para cubrir todas las áreas de competencia y que determine el Consejo de la Judicatura de acuerdo al presupuesto, y
+
+(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+XIV.- LA PERSONA TITULAR DE LA UNIDAD DE ATENCIÓN A PERSONAS INDÍGENAS.
 
 Al frente de cada una de las Coordinaciones estará un titular que contará con las facultades establecidas en esta Ley.
 
@@ -482,6 +524,12 @@ Tanto el Informador como el Gestor del Instituto tendrán la obligación de llev
 ###### Artículo 22.
 
 Para ser Defensor Público o Asistente Jurídico, se requieren los mismos requisitos que para ser Coordinador General de Zona, con excepción de los mínimos exigidos en las fracciones II, IV y VI del artículo 14; que para el caso concreto serán el de veinticinco años de edad; dos de experiencia; y dos de residencia en el Estado, así como aprobar el examen básico a que hace referencia la fracción V del Artículo 11 de la presente Ley.
+
+(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2022)</small>
+
+LAS Y LOS DEFENSORES PÚBLICOS Y ASISTENTES JURÍDICOS QUE LLEVEN A CABO LA DEFENSA DE PERSONAS INDÍGENAS, ADEMÁS DE CUMPLIR CON LOS REQUISITOS DESCRITOS EN EL PRIMER PÁRRAFO DE ESTE ARTÍCULO, DEBERÁN CONTAR CON CONOCIMIENTO DE LA CULTURA INDÍGENA PREDOMINANTE EN EL ESTADO Y, EN SU CASO, HABLAR CUANDO MENOS UNA LENGUA INDÍGENA.
 
 ###### Artículo 23.
 
@@ -875,11 +923,87 @@ I.- Personas e Instituciones de reconocida probidad, capacidad y experiencia par
 
 II.- Servicios periciales para una mayor eficacia en el área de defensa.
 
-#### SECCIÓN I. DE LAS PROHIBICIONES
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE JUNIO DE 2022)</small>
+
+#### SECCIÓN IV. DE LA UNIDAD DE ATENCIÓN A PERSONAS INDÍGENAS
+
+(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2022)</small>
+
+###### Artículo 46 Bis.
+
+La Unidad de Atención a Personas Indígenas, estará a cargo de una persona que ejerza la titularidad, quien llevará a cargo las acciones de coordinación en la atención y defensa de personas pertenecientes a alguna comunidad indígena que requiera los servicios de defensa o asistencia jurídica, conforme lo establece la presente ley.
+
+La Unidad de Atención a Personas Indígenas garantizará que en todo juicio o procedimiento se cumpla con la asistencia de un intérprete o traductor lingüístico, tomando en cuenta los usos y costumbres de la cultura a la que pertenezca la persona indígena para proporcionar una defensa técnica y de calidad, de conformidad con lo que establece la Constitución Federal, los tratados internacionales de los que el estado mexicano forme parte y la demás legislación sustantiva y procedimental.
+
+(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2022)</small>
+
+###### Artículo 46 Ter.
+
+El Consejo de la Judicatura, a propuesta de su Presidente, nombrará a la persona que ejercerá la titularidad de la Unidad de Atención a Personas indígenas.
+
+(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2022)</small>
+
+###### Artículo 46 Quater.
+
+Para ser titular de la Unidad de Atención a Personas Indígenas, se requiere cumplir con los mismos requisitos del Coordinador General de Zona y además deberá contar con conocimiento de defensa de personas indígenas, conocer la principal cultura indígena y hablar suficientemente la lengua indígena predominante en el Estado.
+
+(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2022)</small>
+
+###### Artículo 46 Quinquies.
+
+Son facultades y obligaciones de la persona Titular de la Unidad de Atención a Personas indígenas, las siguientes:
+
+I. Realizar las acciones de coordinación para proporcionar obligatoria y gratuitamente patrocinio de defensa de los derechos de los indígenas, así como para asesorarlos en todos los casos en que lo soliciten sin importar la materia de que se trate, a través de defensores públicos y asistentes jurídicos y, en su caso, se le asignará un intérprete o traductor lingüístico;
+
+II. Verificar que se brinde una defensa técnica adecuada a las personas indígenas;
+
+III. Dirigir y evaluar los servicios que brinde el personal adscrito a la unidad, emitiendo las recomendaciones necesarias para consolidar las bases internas de integración y funcionamiento, acordes al Reglamento Interno y Manual de Operación;
+
+IV. Ejecutar las disposiciones y acuerdos emitidos por la Dirección, respecto de los lineamientos que deban ser observados por el personal adscrito a la Unidad de Atención a Personas Indígenas;
+
+V. Supervisar e informar sobre el desempeño de las y los Defensores Públicos y Asistentes Jurídicos especializados en materia indígena en el ejercicio de su función, así como de los intérpretes y traductores, disponiendo lo conducente a fin de que el servicio sea brindado en forma oportuna, diligente y eficaz;
+
+VI. Promover que el Instituto cuente con suficientes intérpretes o traductores lingüísticos y gestionar la capacitación de personas que puedan fungir como tales en todos los juicios en que participen personas indígenas que no hablen suficientemente el español;
+
+VII. Promover y gestionar la celebración de convenios de colaboración con las instituciones que puedan coadyuvar y colaborar con la participación de traductores e intérpretes dentro de los procesos jurisdiccionales que conozcan sus defensores y asistentes jurídicos, así como para llevar a cabo acciones de formación de defensores públicos y asistentes jurídicos bilingües;
+
+VIII. Promover la aportación de estudios y peritajes antropológicos en relación con la cultura y sistemas normativos indígenas en los casos en que se considere necesario para la defensa de las personas indígenas;
+
+IX. Fomentar entre las y los defensores públicos y asistentes jurídicos, la aplicación de las disposiciones constitucionales; la legislación internacional, federal y estatal en relación a la justicia indígena y demás que contribuyan a la solución alterna de conflictos, con respeto a la identidad cultural del pueblo o comunidad indígena de que se trate;
+
+X. Instrumentar, con autorización del Director, programas de especialización y capacitación en materia de derechos de personas indígenas para las y los defensores públicos y asistentes jurídicos, así como la especialización bilingüe, a fin de mejorar el servicio de la defensa jurídica;
+
+XI. Concentrar la información total de los asuntos iniciados que incumban a la Unidad de Atención a Personas Indígenas con datos de identificación precisos a través de los cuáles se dé seguimiento a los asuntos en las distintas materias que abarque el servicio en los que se encuentren involucrados las y los defensores públicos y asistentes jurídicos especializados en materia indígena, o en su caso los intérpretes o traductores lingüísticos autorizados, a fin de mantener actualizada dicha información en relación con la situación jurídica de cada caso;
+
+XII. Gestionar ante el Consejo de la Judicatura para que, con recursos del Fondo para Mejoramiento en la Administración e Impartición de Justicia, se cubran los gastos de traslado de los testigos que se necesiten para la defensa de las personas indígenas de escasos recursos económicos que se encuentren sujetos a un proceso penal y que residan en comunidades alejadas al lugar del proceso;
+
+XIII. Evaluar las acciones realizadas por las y los Defensores Públicos y Asistentes Jurídicos, así como de los intérpretes y traductores lingüísticos en los casos de atención de personas indígenas, informando a la Dirección las observaciones y resultados de las mismas;
+
+XIV. Establecer enlace con la Dirección, acordando con la persona titular, los asuntos que correspondan, cuando su importancia lo requiera;
+
+XV. Recibir y diligenciar las acusaciones y quejas interpuestas en contra de intérpretes y traductores lingüísticos, así como del personal adscrito a su unidad, con motivo de sus funciones, realizando las gestiones pertinentes para substanciarlas, informando a la Dirección, quien procederá en términos del artículo 11 fracción IX de esta Ley;
+
+XVI. Orientar a las y los Defensores Públicos y Asistentes Jurídicos, intérpretes y traductores lingüísticos, en los asuntos que por razón de urgencia o importancia lo requieran, a fin de dirigir las recomendaciones propias que el caso amerite;
+
+XVII. Convocar a reuniones periódicas para la revisión de aspectos de índole formal y técnico, de los lineamientos emitidos por el Instituto;
+
+XVIII. Rendir ante la Dirección, un informe concentrado de actividades integrales de todo el personal adscrito a la Unidad de Atención a Personas Indígenas, dentro de los primeros cinco días de cada trimestre, que plasme la realidad actual del Instituto en materia de defensa y asistencia jurídica a las personas Indígenas;
+
+XIX. Informar oportunamente a la Dirección, cualquier eventualidad relacionada con el desempeño de la Unidad de Atención a Personas Indígenas, y
+
+XX. Las demás que, con motivo del cargo, le sean encomendadas.
 
 ### CAPÍTULO SÉPTIMO. DE LAS PROHIBICIONES, SANCIONES Y EXCUSAS
 
-#### SECCIÓN II. DE LAS RESPONSABILIDADES
+#### SECCIÓN I. DE LAS PROHIBICIONES
 
 ###### Artículo 47.
 
@@ -913,7 +1037,7 @@ Una vez designado Defensor Público en materia penal o tratándose de justicia p
 
 El Coordinador General de Zona, y demás personal técnico auxiliar, estarán impedidos para actuar cuando se encuentren en algunas de las causales antes señaladas, o de las que se deriven de las leyes de la materia, siempre que pudieran comprometer la prestación imparcial de sus servicios. La calificación del impedimento corresponderá, en todo caso, al Director.
 
-#### SECCIÓN III. DE LAS SANCIONES
+#### SECCIÓN II. DE LAS RESPONSABILIDADES
 
 ###### Artículo 50.
 
@@ -953,13 +1077,13 @@ El procedimiento de investigación de conductas que se imputen a los servidores 
 
 En caso de que la conducta del servidor público adscrito al Instituto constituya un delito, se formulará la denuncia correspondiente ante la Procuraduría General de Justicia del Estado.
 
-#### SECCIÓN IV. DE LAS EXCUSAS
+#### SECCIÓN III. DE LAS SANCIONES
 
 ###### Artículo 51.
 
 Los Servidores Públicos del Instituto serán corregidos disciplinariamente, en términos de la Ley Orgánica del Poder Judicial del Estado de Quintana Roo y de la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo.
 
-#### SECCIÓN I. DISPOSICIONES GENERALES
+#### SECCIÓN IV. DE LAS EXCUSAS
 
 ###### Artículo 52.
 
@@ -997,7 +1121,7 @@ Si por la premura del caso, no fuere posible el trámite anterior sin que se les
 
 ### CAPÍTULO OCTAVO. DEL SERVICIO PROFESIONAL DE CARRERA DE DEFENSOR PUBLICO Y ASISTENTE JURÍDICO
 
-#### SECCIÓN II. DE LA TERMINACIÓN DEL SERVICIO PROFESIONAL DE CARRERA DE DEFENSOR PÚBLICO Y ASISTENTE JURÍDICO
+#### SECCIÓN I. DISPOSICIONES GENERALES
 
 ###### Artículo 53.
 
@@ -1014,6 +1138,8 @@ II.- Coordinador General de Zona.
 Los principios que tutelan el servicio profesional de carrera para los Defensores Públicos y Asistentes Jurídicos son: excelencia, profesionalismo, objetividad, independencia, perseverancia, cursos de actualización acreditados, disciplina en la institución y antigüedad.
 
 La selección y el ingreso al Instituto, se realiza aplicando los lineamientos aprobados por el Consejo de la Judicatura, de conformidad a esta Ley, y a la Ley Orgánica del Poder Judicial del Estado de Quintana Roo.
+
+#### SECCIÓN II. DE LA TERMINACIÓN DEL SERVICIO PROFESIONAL DE CARRERA DE DEFENSOR PÚBLICO Y ASISTENTE JURÍDICO
 
 ###### ARTÍCULO 55.
 
@@ -1134,3 +1260,15 @@ P.O. 7 DE OCTUBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 147 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 125, EXPEDIDO POR LA XVI LEGISLATURA DEL ESTADO Y PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO, DE FECHA DE 22 DE JUNIO DE 2021".]
 
 ÚNIO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 16 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 242, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE VÍCTIMAS DEL ESTADO DE QUINTANA ROO, Y POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE QUINTANA ROO, EN MATERIA DE ASESORÍA Y DEFENSA DE LAS PERSONAS INDÍGENAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día 1 de enero de 2023, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En un plazo que no exceda los ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto, la Comisión Ejecutiva de Atención a Víctimas del Estado de Quintana Roo, el Consejo de la Judicatura del Poder Judicial del Estado y el Instituto de Defensoría Pública del Estado, deberán llevar a cabo las adecuaciones reglamentarias, normativas y estructurales para dar cumplimiento al presente Decreto.
+
+TERCERO. El Poder Judicial del Estado de Quintana Roo incluirá, en su Proyecto de Presupuesto de Egresos para el Ejercicio Fiscal 2023, los recursos necesarios para la ejecución de lo establecido en el presente Decreto.
+
+CUARTO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
