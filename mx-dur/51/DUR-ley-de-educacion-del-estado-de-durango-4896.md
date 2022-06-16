@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2021-12-26"
+last_updated: "2022-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -281,13 +281,21 @@ XXVI.- Fomentar el interés por la ciencia y la tecnología, además de las acti
 
 XXVII.- Generar las aptitudes que impulsen en la comunidad estudiantil la capacidad emprendedora y las cualidades con fines creativos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-XXVIII.- Promover en forma permanente el hábito de la lectura, de la consulta bibliográfica y el análisis de datos, así como la valoración de la información obtenida; y
+XXVIII.- Promover en forma permanente el hábito de la lectura, de la consulta bibliográfica y el análisis de datos, así como la valoración de la información obtenida;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-XXIX.- Implementar programas de orientación vocacional y promover el establecimiento de acuerdos entre instituciones educativas y el sector productivo para impulsar las prácticas que permitan a los alumnos adquirir aptitudes, capacidades y experiencia de calidad, que ayuden a identificar los intereses de especialización para el efecto de mejorar sus oportunidades de desarrollo profesional.
+XXIX.- Implementar programas de orientación vocacional y promover el establecimiento de acuerdos entre instituciones educativas y el sector productivo para impulsar las prácticas que permitan a los alumnos adquirir aptitudes, capacidades y experiencia de calidad, que ayuden a identificar los intereses de especialización para el efecto de mejorar sus oportunidades de desarrollo profesional;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+XXX.- La prevención del suicidio, y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+XXXI.- Promover y fomentar los valores y principios del sector de la economía social con la finalidad de propiciar relaciones de reciprocidad, solidaridad y cooperación, privilegiando al ser humano y el trabajo digno.
 
 > <small>(ADICIONADO, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -663,25 +671,53 @@ XLVIII.- Elaborar en coordinación con la Secretaría de Salud del Estado, un pr
 
 El protocolo dará a conocer las características que pudiera manifestar un estudiante con tendencias suicidas y establecerá de manera clara las acciones a seguir de profesores, estudiantes y familiares cuando se encuentren ante un caso real, para la consiguiente canalización con el profesional respectivo del estudiante que lo requiera;
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-XLIX.- Procurar la implementación de programas permanentes orientados a las escuelas públicas y privadas, de carácter incluyente entre educandos, educadores y padres de familia, con el fin propiciar y favorecer entre los estudiantes el uso adecuado y aprovechamiento ético de los medios informáticos y tecnologías de la comunicación y generar conciencia de los riesgos y consecuencias negativas por mal uso de las redes sociales y el internet;
+XLIX.- Procurar la implementación de programas permanentes orientados a las escuelas públicas y privadas, de carácter incluyente entre educandos, educadores y padres de familia, con el fin propiciar y favorecer entre los estudiantes el uso adecuado y aprovechamiento ético de los medios informáticos y tecnologías de la comunicación y generar conciencia de los riesgos y consecuencias negativas por mal uso de las redes sociales y el internet, así como la educación en materia de privacidad y protección de datos personales en el ámbito digital;
 
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2019)</small>
 
 L.- Promover, por sí misma o mediante convenios de colaboración, proyectos de intervención educativa en materia de habilidades socio-emocionales, a fin de disminuir el acoso escolar, y a través de los cuales los estudiantes de los diversos niveles, trabajen e integren en su vida conceptos, valores, y actitudes que les permitan comprender y manejar sus emociones, construir una identidad personal, mostrar atención y cuidado hacia los demás, colaborar y establecer relaciones positivas, tomar decisiones responsables y aprender a manejar situaciones de reto, de manera constructiva y ética;
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-LI.- Implementar acciones a fin de evitar el ausentismo, abandono y la deserción escolar, y establecer los mecanismos para notificar a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango, de los casos identificados conforme la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Durango; y
+LI.- Implementar acciones a fin de evitar el ausentismo, abandono y la deserción escolar, y establecer los mecanismos para notificar a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango, de los casos identificados conforme la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Durango;
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-LII.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
+LII.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables. Para tales efectos, llevara a cabo entre otras acciones:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2006)</small>
+(NOTA: EL 5 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 106/2022, DECLARÓ LA INVALIDEZ DEL INCISO a) DE LA FRACCIÓN LII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE DURANGO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-La Secretaría de Salud, a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de Durango, realizará la vigilancia de las condiciones de higiene, del manejo y procesamiento de alimentos en los centros de distribución de alimentos ubicados en los centros de educación básica del Sistema Estatal de Educación y en los planteles incorporados al mismo.
+a) HACER LOS AJUSTES CURRICULARES A LOS PROGRAMAS DE EDUCACIÓN, PARA LA INCORPORACIÓN Y OPORTUNA CANALIZACIÓN DE LAS PERSONAS CON DISCAPACIDAD EN TODOS LOS NIVELES DEL SISTEMA EDUCATIVO ESTATAL; ASÍ COMO VERIFICAR EL CUMPLIMIENTO DE LAS NORMAS PARA SU INTEGRACIÓN EDUCATIVA EN APEGO A LO ESTABLECIDO A LA LEY ESTATAL PARA LA INTEGRACIÓN SOCIAL DE LAS PERSONAS CON DISCAPACIDAD;
+
+(NOTA: EL 5 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 106/2022, DECLARÓ LA INVALIDEZ DEL INCISO b) DE LA FRACCIÓN LII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE DURANGO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+b) PROMOVER EL ESTABLECIMIENTO DE UN PROGRAMA ESTATAL DE BECAS EDUCATIVAS Y BECAS DE CAPACITACIÓN PARA PERSONAS CON DISCAPACIDAD EN TODOS LOS NIVELES DEL SISTEMA EDUCATIVO ESTATAL;
+
+(NOTA: EL 5 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 106/2022, DECLARÓ LA INVALIDEZ DEL INCISO c) DE LA FRACCIÓN LII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE DURANGO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+c) DISEÑAR E IMPLEMENTAR PROGRAMAS DE FORMACIÓN Y CERTIFICACIÓN DE INTÉRPRETES ESTENÓGRAFOS DEL ESPAÑOL Y DEMÁS PERSONAL ESPECIALIZADO EN LA DIFUSIÓN Y USO CONJUNTO DEL ESPAÑOL Y LA LENGUA DE SEÑAS; ASÍ COMO DE LAS FORMAS DE COMUNICACIÓN DE LAS PERSONAS CON DISCAPACIDAD VISUAL ENTRE ELLAS EL SISTEMA DE ESCRITURA BRAILLE Y OTRAS TECNOLOGÍAS;
+
+d) Promover que los estudiantes de escuelas normales y licenciaturas afines con la educación, presten su servicio social apoyando a personas con discapacidad que así lo requieran, a fin de que cumplan con el requisito del servicio social;
+
+(NOTA: EL 5 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 106/2022, DECLARÓ LA INVALIDEZ DEL INCISO e) DE LA FRACCIÓN LII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE DURANGO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+e) FIRMAR CONVENIOS DE COLABORACIÓN CON LOS AYUNTAMIENTOS, A FIN DE QUE EN LAS BIBLIOTECAS Y SALAS DE LECTURA, ENTRE OTROS, SE INCORPOREN EQUIPOS DE CÓMPUTO CON TECNOLOGÍA ADAPTADA, ESCRITURA E IMPRESIÓN EN EL SISTEMA DE ESCRITURA BRAILLE, AMPLIADORES Y LECTORES DE TEXTO, ESPACIOS ADECUADOS Y DEMÁS INNOVACIONES TECNOLÓGICAS QUE PERMITA SU USO A LAS PERSONAS CON DISCAPACIDAD;
+
+f) El Estado promoverá la participación de las Organizaciones de la Sociedad Civil en los procesos educativos tendientes a fortalecer o complementar los servicios educativos otorgados; y
+
+g) Las demás que sean necesarias para el cumplimiento de la presente Ley,
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+LIII.- La Secretaría procurará la promoción de la investigación y el desarrollo de la ciencia y la tecnología, y fomentará su enseñanza, diseminación en acceso abierto y su divulgación, cuando el conocimiento científico sea financiado con recursos públicos o que haya utilizado infraestructura pública en su realización sin perjuicio de los derechos de propiedad intelectual correspondientes y de la información que, por razón de su naturaleza o decisión del autor deba reservarse, y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+LIV.- Coordinarse con las autoridades sanitarias a efecto de establecer y difundir los protocolos de salud y prevención de enfermedades, mediante capacitación a padres de familia, personal administrativo y docente y alumnos sobre la aplicación de los protocolos establecidos y las prácticas de higiene escolar.
+
+Así como la instalación de comités escolares de salud e higiene, integrados por personal de la institución, padres de familia y alumnos, que tendrán por objeto formular los planes de implementación y seguimiento de los protocolos y prevención de la salud que establezcan las autoridades.
 
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
@@ -2051,7 +2087,9 @@ El Calendario Escolar aplicable en el Estado de Durango para cada ciclo lectivo 
 
 La Secretaría podrá hacer los ajustes al Calendario Escolar, de conformidad con lo establecido por la Ley General de Educación; para ello, tomará en cuenta lo siguiente:
 
-I.- En ningún caso, el ciclo lectivo tendrá menos de doscientos días de clase para los educandos;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+I.- El calendario escolar deberá contener un mínimo de ciento ochenta y cinco días y un máximo de doscientos días efectivos de clase para los educandos;
 
 II.- Cuando así se requiera, para el mejor cumplimiento de los Planes y Programas de Estudio;
 
@@ -2421,9 +2459,17 @@ VI. Concientizar sobre la importancia de las relaciones interpersonales positiva
 
 VII. Fomentar la armonía familiar a través del conocimiento personal;
 
-VIII. Impulsar la actitud positiva hacia la escuela, y
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
-IX. Robustecer el respeto hacia los profesores por parte de los educandos.
+VIII. Impulsar la actitud positiva hacia la escuela,
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+IX. Robustecer el respeto hacia los profesores por parte de los educandos, y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2022)</small>
+
+X. Prevenir el embarazo a temprana edad, por medio de pláticas de educación sexual.
 
 > <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2019)</small>
 
@@ -3096,3 +3142,43 @@ P.O. 26 DE DICIEMBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 149.- QUE CONTIENE REFORMAS A LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se contravengan al contenido del presente decreto.
+
+P.O. 16 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 150.- POR EL QUE SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 171 TER DEL CAPÍTULO DÉCIMO SEGUNDO "DE LA PARTICIPACIÓN SOCIAL EN LA EDUCACIÓN" DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente proyecto de decreto.
+
+P.O. 16 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 151.- QUE CONTIENE ADICIONES A LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente proyecto de decreto.
+
+P.O. 16 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 152.- POR EL QUE SE ADICIONAN DOS FRACCIONES AL ARTÍCULO 9 DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente proyecto de decreto.
+
+P.O. 16 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 153.- QUE CONTIENE REFORMA AL ARTÍCULO 21 DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente proyecto de decreto.
