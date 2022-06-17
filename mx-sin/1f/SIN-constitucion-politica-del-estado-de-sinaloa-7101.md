@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2022-04-08"
+last_updated: "2022-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2022.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -229,9 +229,9 @@ Son obligaciones del ciudadano del Estado, además de las anteriores:
 
 I. Inscribirse en los padrones municipales de la jurisdicción a que pertenezcan.
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2022)</small>
 
-II. Votar en las elecciones populares y participar en los mecanismos previstos en esta Constitución relativos a la participación ciudadana, que sean convocados en los términos de la misma y sus leyes reglamentarias.
+II. Votar en las elecciones populares y participar en los mecanismos previstos en esta Constitución relativos a la participación ciudadana y revocación de mandato, que sean convocados en los términos de la misma y sus leyes reglamentarias.
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
 
@@ -262,6 +262,10 @@ III. Ser preferido en igualdad de circunstancias, a los que no sean ciudadanos s
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2015)</small>
 
 IV. Iniciar leyes ante el Congreso del Estado y participar en los mecanismos previstos en esta Constitución relativos a la participación ciudadana a que se convoque en los términos de esta Constitución y la ley reglamentaria.
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2022)</small>
+
+V. Participar en los procesos de revocación de mandato.
 
 ###### Art. 10 Bis.
 
@@ -1336,6 +1340,10 @@ Las faltas temporales del Gobernador del Estado hasta por treinta días serán s
 ###### Art. 59.
 
 En caso de falta absoluta de Gobernador del Estado, ocurrida dentro de los dos primeros años del sexenio, el Congreso se constituirá inmediatamente en Colegio Electoral y concurriendo cuando menos las dos terceras partes del número total de sus miembros nombrará en escrutinio secreto y por mayoría absoluta de votos un Gobernador Interino, y expedirá inmediatamente la convocatoria a nuevas elecciones. Si el Congreso estuviere en receso al ocurrir la falta, la Diputación Permanente nombrará uno Provisional y convocará al Congreso a sesiones extraordinarias para que éste designe un Gobernador Interino y convoque inmediatamente a elecciones. Si la falta absoluta del Gobernador ocurriera en los últimos cuatro años de su período, si el Congreso se encontrase en sesiones, designará al Gobernador Substituto que deberá concluir el período; si el Congreso no estuviere reunido la Diputación Permanente nombrará un Gobernador Provisional y convocará al Congreso a sesiones extraordinarias para que se erija en Colegio Electoral y haga la elección del Gobernador Substituto.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2022)</small>
+
+En caso de haberse revocado el mandato del Gobernador del Estado, el Congreso nombrará, dentro de los treinta días siguientes, a quien concluirá el periodo constitucional.
 
 ###### Art. 60.
 
@@ -2962,6 +2970,54 @@ La revocación de mandato es el acto mediante el cual la mayoría absoluta de lo
 I. La petición será presentada por escrito a la Superioridad de quien haya emanado el nombramiento para su reconsideración.
 
 II. Si los peticionarios no fueren satisfechos por la Superioridad que hizo el nombramiento, podrán recurrir al Congreso del Estado, quien oyendo a las partes resolverá en justicia. Si la resolución favorece a los peticionarios, el Congreso la comunicará a quien corresponda para su cumplimiento. En la legislación reglamentaria se establecerá el procedimiento.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE JUNIO DE 2022)</small>
+
+La revocación de mandato del Gobernador del Estado se llevará a cabo conforme a lo siguiente:
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2022)</small>
+
+I. Será convocado por el Instituto Electoral del Estado de Sinaloa a petición de las ciudadanas y ciudadanos, en un número equivalente, al menos, al diez por ciento de los inscritos en la lista nominal de electores del estado, en por lo menos once municipios.
+
+El Instituto, dentro de los siguientes treinta días a que se reciba la solicitud, verificará el requisito establecido en el párrafo anterior y emitirá inmediatamente la convocatoria al proceso para la revocación de mandato.
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2022)</small>
+
+II. Se podrá solicitar en una sola ocasión y durante los tres meses posteriores a la conclusión del tercer año del periodo constitucional.
+
+Las ciudadanas y ciudadanos podrán recabar firmas para la solicitud de revocación de mandato durante el mes previo a la fecha prevista en el párrafo anterior. El Instituto emitirá, a partir de esta fecha, los formatos y medios para la recopilación de firmas, así como los lineamientos para las actividades relacionadas.
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2022)</small>
+
+III. Se realizará mediante votación libre, directa y secreta de ciudadanas y ciudadanos inscritos en la lista nominal del estado, el domingo siguiente a los noventa días posteriores a la convocatoria y en fecha no coincidente con las jornadas electorales, federal o local.
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2022)</small>
+
+IV. Para que el proceso de revocación de mandato sea válido deberá haber una participación de, por lo menos, el cuarenta por ciento de las personas inscritas en la lista nominal de electores del estado. La revocación de mandato sólo procederá por mayoría absoluta.
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2022)</small>
+
+V. El Instituto Electoral del Estado de Sinaloa tendrá a su cargo, en forma directa, la organización, desarrollo y cómputo de la votación. Emitirá los resultados de los procesos de revocación de mandato del titular del Poder Ejecutivo estatal, los cuales podrán ser impugnados ante el Tribunal Electoral del Estado.
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2022)</small>
+
+VI. El Tribunal Electoral del Estado de Sinaloa realizará el cómputo final del proceso de revocación de mandato, una vez resueltas las impugnaciones que se hubieren interpuesto. En su caso, emitirá la declaratoria de revocación y se estará a lo dispuesto en el artículo 59.
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2022)</small>
+
+VII. Queda prohibido el uso de recursos públicos para la recolección de firmas, así como con fines de promoción y propaganda relacionados con los procesos de revocación de mandato.
+
+El Instituto Electoral del Estado de Sinaloa promoverá la participación ciudadana y será la única instancia a cargo de la difusión del proceso. La promoción será objetiva, imparcial y con fines informativos.
+
+Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en la opinión de los ciudadanos y ciudadanas.
+
+Durante el tiempo que comprende el proceso de revocación de mandato, desde la convocatoria y hasta la conclusión de la jornada, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental de cualquier orden de gobierno.
+
+Los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente estatal o municipal, sólo podrán difundir las campañas de información relativas a los servicios educativos y de salud o las necesarias para la protección civil.
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2022)</small>
+
+VIII. El Congreso del Estado emitirá la ley reglamentaria.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1962)</small>
 
@@ -4596,3 +4652,11 @@ P.O. 8 DE ABRIL DE 2022.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 17 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 138 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. El Congreso del Estado deberá expedir la Ley de Revocación de Mandato para el Estado de Sinaloa dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
