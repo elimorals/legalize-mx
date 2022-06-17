@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-fondo-auxiliar-para-la-administracion-de-137631"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-06-21"
-last_updated: "2019-06-21"
+last_updated: "2022-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO DEL FONDO AUXILIAR DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2022.
 
 Reglamento publicado en el No. 49 del Periódico Oficial del Estado de Querétaro, el lunes 21 de junio de 2019.
 
@@ -295,13 +295,17 @@ El original y todas las copias del certificado cancelado deberán remitirse a la
 
 ### CAPÍTULO VII. INVERSIONES
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 30.
 
-Para realizar las inversiones que más convengan al Poder Judicial con los recursos del fondo, la Dirección invertirá en títulos de fondos de inversión y llevará el registro de los valores de compra y venta de aquellos.
+Para realizar las inversiones que más convengan al Poder Judicial con los recursos del Fondo, la Dirección podrá invertir en títulos de fondos de inversión de renta fija. Asimismo, la Dirección podrá invertir en títulos de renta fija o a plazo fijo u otro tipo de inversiones bancarias, siempre previa autorización del Consejo de la Judicatura y no se trate de títulos de renta variable o de naturaleza especulativa.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 31.
 
-Las inversiones que se realicen deberán garantizar la disponibilidad inmediata y la suficiencia de recursos para las devoluciones del importe de los certificados que deban hacerse.
+Las inversiones que se realicen deberán considerar que el Fondo cuente con disponibilidad y suficiencia de recursos para llevar a cabo las devoluciones del importe de los certificados que deban hacerse.
 
 ### CAPÍTULO VIII. DEL DESTINO Y LA APLICACIÓN DEL FONDO
 
@@ -346,3 +350,13 @@ M. en D. Amir Nicolás Guerrero Franco
 Secretario de Acuerdos del Pleno, del Consejo de la Judicatura y del Presidente del Tribunal Superior de Justicia del Estado de Querétaro.
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO ACJ/7/2022 DEL CONSEJO DE LA JUDICATURA POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL REGLAMENTO DEL FONDO AUXILIAR DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO”.]
+
+PRIMERO. El presente Acuerdo de reforma entra en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro.
+
+SEGUNDO. Se ordena publicar el presente Acuerdo en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" y en la página institucional electrónica del Poder Judicial del Estado de Querétaro.
