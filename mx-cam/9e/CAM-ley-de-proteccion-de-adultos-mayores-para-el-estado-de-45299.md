@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-proteccion-de-adultos-mayores-para-el-estado-de-45299"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-28"
-last_updated: "2018-06-26"
+last_updated: "2022-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 28 de junio de 2005.
 
@@ -95,9 +95,17 @@ II. Participación: La inserción de los adultos mayores en todos los órdenes d
 
 III. Calidad de trato: Es el trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las personas adultas mayores, sin distinción;
 
-IV. Corresponsabilidad: La concurrencia y responsabilidad compartida de los sectores público y social, la comunidad y la familia para la consecución del objeto de esta ley; y
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2022)</small>
 
-V. Atención preferente: La obligación a las instituciones estatales y municipales, así como a los sectores social y privado a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores.
+IV. Corresponsabilidad: La concurrencia y responsabilidad compartida de los sectores público y social, la comunidad y la familia para la consecución del objeto de esta ley;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2022)</small>
+
+V. Atención preferente: La obligación a las instituciones estatales y municipales, así como a los sectores social y privado a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores; y
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2022)</small>
+
+VI. Igualdad Sustantiva. Es el acceso al mismo trato y oportunidades para el conocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
 
 ### CAPÍTULO II. DE LOS DERECHOS DE LOS ADULTOS MAYORES
 
@@ -251,7 +259,9 @@ Corresponde a la Secretaría de Salud:
 
 I. Fomentar el derecho a la prestación de servicios públicos de salud integrales y de calidad en todas las actividades de atención médica de conformidad con lo establecido por la Ley de Salud del Estado de Campeche;
 
-II. Promover la atención especial, que deberán recibir los programas de detección oportuna y tratamiento temprano de enfermedades crónicas y neoplasias entre los adultos mayores, así como de atención y asistencia a quienes sufran de discapacidades funcionales. Asimismo, los programas de salud incorporarán medidas de prevención y promoción de la salud a fin de contribuir a prevenir discapacidades y favorecer un envejecimiento saludable;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2022)</small>
+
+II. Promover la atención especial, que deberán recibir los programas de detección oportuna y tratamiento temprano de enfermedades crónicas y neoplasias entre los adultos mayores, así como de atención y asistencia a quienes sufran de discapacidades funcionales. Asimismo, los programas de salud incorporarán medidas de prevención y promoción de la salud a fin de contribuir a prevenir discapacidades y favorecer un envejecimiento saludable, en igualdad de condiciones para el ejercicio del derecho a la protección de la salud de las mujeres y los hombres;
 
 III. Facilitar el acceso a la atención médica a los adultos mayores en las clínicas y hospitales, con el establecimiento de áreas geriátricas en las unidades médicas públicas y privadas;
 
@@ -784,3 +794,11 @@ P.O. 26 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 272 POR EL QUE "SE REFORMA EL INCISO C) DE LA FRACCIÓN I DEL ARTÍCULO 5 Y SE ADICIONA UN ARTÍCULO 5 BIS A LA LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE".]
 
 ÚNICO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 74.- SE REFORMAN LAS FRACCIONES IV Y V Y SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 4 Y, SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 11 DE LA LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE”.]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
