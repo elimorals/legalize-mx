@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6613
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-17"
-last_updated: "2022-06-08"
+last_updated: "2022-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,13 +27,17 @@ LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE ZACA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
 
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE JUNIO DE 2022.]</small>
+
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de enero de 2009.
 
 DECRETO # 205
 
 LA HONORABLE QUINCUAGESIMA NOVENA LEGISLATURA .DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, EN NOMBRE DEL PUEBLO, DECRETA
 
-RESULTANDO PRIMERO.-...
+RESULTANDO PRIMERO.-
+
+[...]
 
 Por todo lo anteriormente expuesto y fundado, y con apoyo además en lo dispuesto por los artículos 65, fracción I de la Constitución Política del Estado de Zacatecas; 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de decretarse y se
 
@@ -263,11 +267,13 @@ Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta L
 
 VII. Violencia simbólica: es una forma de violencia que consiste en la expresión de mensajes, patrones estereotipados, signos, valores, íconos e ideas sutiles e imperceptibles que transmiten, reproducen, justifican o naturalizan la subordinación, desigualdad, discriminación y violencia contra las mujeres en la sociedad, y
 
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2022)</small>
+(ADICIONADA, P.O. 4 DE MAYO DE 2022) (F. DE E., P.O. 18 DE JUNIO DE 2022)
 
-VII. Violencia vicaria. Cualquier acto u omisión, por parte de la pareja o ex pareja sentimental de una mujer que inflija a personas con las que ésta tenga lazos de parentesco civil, por consanguinidad hasta el cuarto grado o por afinidad hasta el segundo grado, un daño, menoscabo o sufrimiento de cualquier naturaleza con el propósito de causar perjuicio o daño psicológico, patrimonial, físico o de cualquier otra índole a la mujer, y
+VIII. Violencia vicaria. Cualquier acto u omisión, por parte de la pareja o ex pareja sentimental de una mujer que inflija a personas con las que ésta tenga lazos de parentesco civil, por consanguinidad hasta el cuarto grado o por afinidad hasta el segundo grado, un daño, menoscabo o sufrimiento de cualquier naturaleza con el propósito de causar perjuicio o daño psicológico, patrimonial, físico o de cualquier otra índole a la mujer, y
 
-VIII. Cualquier otra forma análoga que lesione, o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+> <small>(F. DE E., P.O. 18 DE JUNIO DE 2022)</small>
+
+IX. Cualquier otra forma análoga que lesione, o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 ### Capítulo II. Modalidades de la violencia
 
