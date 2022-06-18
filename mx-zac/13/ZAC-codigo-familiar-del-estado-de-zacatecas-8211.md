@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2022-05-04"
+last_updated: "2022-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2022.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -1307,6 +1307,20 @@ Los cónyuges que ejerzan la patria potestad se dividirán entre sí por partes 
 
 Los cónyuges responden entre sí, de los daños y perjuicios que pudiesen ocasionarse por dolo, culpa o negligencia.
 
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2022)</small>
+
+ARTICULO 174 BIS.- Cualquiera de los cónyuges tendrá derecho a una compensación de hasta el cincuenta por ciento de los bienes generados durante el matrimonio o su valor equivalente, cuando se acredite lo siguiente:
+
+I. Que durante el matrimonio, un cónyuge se haya dedicado exclusivamente o en mayor medida que el otro al desempeño de las labores domésticas y, en su caso, al cuidado de los hijos o dependientes económicos;
+
+II. Que las circunstancias anteriores hayan limitado su capacidad para generar un patrimonio propio o, habiéndolo adquirido, sea notoriamente inferior al del otro cónyuge.
+
+Si el cónyuge que se dedicó a las labores domésticas o al cuidado de los hijos o dependientes económicos, también desarrolló una actividad económica remunerada, se considerará como doble jornada de trabajo y no restringirá su derecho a recibir la compensación.
+
+No se tendrá derecho a esta compensación cuando se acredite que ambos cónyuges contribuyeron en las labores domésticas y el cuidado de los hijos o dependientes económicos.
+
+Para el cálculo de la compensación se deberán atender a las circunstancias especiales de cada caso.
+
 ### CAPITULO OCTAVO. DE LAS DONACIONES ANTENUPCIALES
 
 ###### ARTICULO 175.
@@ -1827,7 +1841,9 @@ La ruptura del concubinato, cesación de la vida en común, origina entre los co
 
 Cuando los concubinos decidan terminar la convivencia y formalizar por la vía judicial los términos de la separación, podrán acudir a la instancia de mediación del Poder Judicial del Estado para convenirlos.
 
-El derecho que otorga este artículo prescribirá en un año, contado a partir de la terminación del concubinato.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2022)</small>
+
+El derecho a reclamar alimentos es imprescriptible.
 
 ###### ARTICULO 244.
 
@@ -5282,3 +5298,19 @@ P.O. 4 DE MAYO DE 2022.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 18 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 101.- SE ADICIONA UN ARTÍCULO 174 BIS AL CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
+
+P.O. 18 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 102.- SE REFORMA EL ARTÍCULO 243 DEL CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas aquellas disposiciones que contravengan el presente decreto
