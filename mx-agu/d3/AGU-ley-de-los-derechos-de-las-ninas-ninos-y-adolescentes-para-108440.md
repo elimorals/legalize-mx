@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2021-08-02"
+last_updated: "2022-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2022.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -1311,6 +1311,8 @@ En ningún caso una situación migratoria irregular de niña, niño o adolescent
 
 ### CAPÍTULO ÚNICO. De los Centros de Asistencia Social
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2022)</small>
+
 ## TÍTULO TERCERO. DE LAS OBLIGACIONES
 
 ### CAPÍTULO I. De las Autoridades
@@ -1413,11 +1415,13 @@ No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, ni
 
 ###### Artículo 100.
 
-El Sistema DIF Estatal, establecerá los requisitos para autorizar, registrar, certificar y supervisar los centros de asistencia social en el Estado, a fin de garantizar el cumplimiento de los derechos de niñas, niños y adolescentes privados de cuidado parental o familiar, atendidos en dichos centros, así como el cumplimiento de la normatividad aplicable, en términos de la Ley General, esta Ley, y demás disposiciones legales aplicables.
+El Sistema DIF Estatal, establecerá los requisitos para autorizar, registrar, certificar y supervisar los centros de asistencia social en el Estado, a fin de garantizar el cumplimiento de los derechos de niñas, niños y adolescentes privados de cuidado parental o familiar, atendidos en dichos centros, así como el cumplimiento de la normatividad aplicable, en términos de la Ley General, esta Ley, Normas Oficiales en la materia y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2022)</small>
 
 ###### Artículo 101.
 
-Las instalaciones de los centros de asistencia social observarán los requisitos que señale normatividad aplicable y deberán cumplir al menos, con lo siguiente:
+Las instalaciones de los centros de asistencia social observarán los requisitos que señale la normatividad aplicable y deberán cumplir al menos, con lo siguiente:
 
 I. Ser administradas por una institución pública o privada, o por una asociación que brinde el servicio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar;
 
@@ -1425,7 +1429,9 @@ II. Su infraestructura inmobiliaria deberá cumplir con las dimensiones físicas
 
 III. Ser acordes con el diseño universal y la accesibilidad en términos de la legislación aplicable;
 
-IV. Contar con medidas de seguridad, protección y vigilancia necesarios para garantizar la comodidad, higiene, espacio idóneo de acuerdo a la edad, sexo o condición física o mental de niñas, niños y adolescentes alojados, de manera tal que se permita un entorno afectivo y libre de violencia, en los términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2022)</small>
+
+IV. Contar con medidas de seguridad, protección y vigilancia necesarios y conforme a las Normas Oficiales en la materia para garantizar la comodidad, higiene, espacio idóneo de acuerdo con la edad, sexo o condición física o mental de niñas, niños y adolescentes alojados, de manera tal que se permita un entorno afectivo y libre de violencia, en los términos de las disposiciones aplicables;
 
 V. Alojar y agrupar a niñas, niños y adolescentes de acuerdo a su edad y sexo en las áreas de dormitorios, sin que por ningún motivo éstos puedan ser compartidos por adultos, salvo que necesiten ser asistidos por algún adulto;
 
@@ -1501,7 +1507,9 @@ III. Asegurar que las instalaciones tengan en lugar visible, la constancia de re
 
 IV. Garantizar que el centro de asistencia social cuente con un Reglamento Interno, aprobado por el Sistema DIF Estatal;
 
-V. Contar con un programa interno de protección civil en términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2022)</small>
+
+V. Contar con un programa interno de protección civil en términos de las disposiciones aplicables, así como un expediente con las Normas Oficiales Mexicanas aplicables en materia de asistencia social;
 
 VI. Brindar facilidades a la Procuraduría de Protección Local para que realicen la verificación periódica que corresponda en términos de las disposiciones aplicables; y, en su caso, atender sus recomendaciones;
 
@@ -2504,3 +2512,11 @@ P.O. 2 DE AGOSTO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 144.- SE REFORMAN LOS ARTÍCULOS 100, EL PRIMER PÁRRAFO Y LA FRACCIÓN IV DEL ARTÍCULO 101 Y LA FRACCIÓN V DEL ARTÍCULO 104 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES; Y SE REFORMAN LOS ARTÍCULOS 21 Y 23 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 21 DE LA LEY DE INSTITUCIONES ASISTENCIALES PARA NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
