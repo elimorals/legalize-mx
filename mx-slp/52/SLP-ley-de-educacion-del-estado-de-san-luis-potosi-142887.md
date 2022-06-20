@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-142887"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-14"
-last_updated: "2022-04-22"
+last_updated: "2022-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de mayo de 2020.
 
@@ -484,6 +484,10 @@ De igual forma, para resolver situaciones problemáticas de manera autónoma y c
 ###### ARTÍCULO 42.
 
 El Gobierno del Estado y los Municipios generarán mecanismos para apoyar y promover la creación y difusión artística, propiciar el conocimiento crítico, así como la difusión del arte y las culturas. Se adoptarán medidas para que, dentro de la orientación integral del educando, se promuevan métodos de enseñanza aprendizaje, con la finalidad de que exprese sus emociones a través de manifestaciones artísticas y se contribuya al desarrollo cultural y cognoscitivo de las personas.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2022)</small>
+
+Así mismo, se fomentará entre las instituciones educativas la apreciación y la práctica de expresiones culturales y artísticas en las regiones del Estado, tales como la danza, la música y las artesanías, entre otras.
 
 ### Capítulo VIII. Educación Inclusiva
 
@@ -2076,5 +2080,13 @@ P.O. 22 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0301.- SE REFORMA EL ARTÍCULO 13 EN SU FRACCIÓN IX; Y ADICIONA AL MISMO ARTÍCULO 13 UNA FRACCIÓN, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0341.- SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 42, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
