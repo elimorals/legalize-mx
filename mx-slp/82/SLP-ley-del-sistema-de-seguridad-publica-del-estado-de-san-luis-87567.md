@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2022-06-08"
+last_updated: "2022-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -2317,7 +2317,9 @@ El Comité de Prevención del Delito y Participación Ciudadana promoverá que l
 
 La participación ciudadana en materia de evaluación de políticas y de instituciones, se sujetará a los indicadores previamente establecidos con la autoridad, sobre los siguientes temas:
 
-I. El desempeño de sus integrantes;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2022)</small>
+
+I. El desempeño de sus integrantes, para lo cual se establecerán indicadores cuantitativos que permitirán comparar los resultados de las políticas y programas, a través del tiempo;
 
 II. El servicio prestado, y
 
@@ -3138,6 +3140,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0338.- SE REFORMA EL ARTÍCULO 93 BIS, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0344.- SE REFORMA EL ARTÍCULO 144 EN SU FRACCIÓN I, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
