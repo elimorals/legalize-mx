@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-instituciones-asistenciales-para-ninas-ninos-y-117091"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-07"
-last_updated: "2020-12-07"
+last_updated: "2022-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INSTITUCIONES ASISTENCIALES PARA NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de noviembre de 2016.
 
@@ -393,11 +393,15 @@ La certificación de la licencia establecida en este capítulo, deberá de renov
 
 ### CAPÍTULO PRIMERO. De las Instalaciones
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2022)</small>
 
-###### Artículo 21.
+###### Articulo 21.
 
-Los inmuebles que sean destinados como establecimientos de las Instituciones Asistenciales para niñas, niños y adolescentes deberán contar con los servicios indispensables para proporcionar a los ingresados el bienestar, la comodidad, seguridad e higiene necesarias conforme a su edad o en su caso discapacidad.
+Los inmuebles que sean destinados como establecimientos de las Instituciones Asistenciales para niñas, niños y adolescentes deberán contar con los servicios, infraestructura y equipamiento indispensables para proporcionar a los ingresados el bienestar, la comodidad, seguridad e higiene necesarias conforme a su edad o en su caso discapacidad, de conformidad con las Normas Oficiales Mexicanas emitidas en la materia.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2022)</small>
+
+Las Instituciones Asistenciales deberán contar con un expediente integrado por todas las Normas Oficiales vigentes emitidas en materia de asistencia social y acreditar el cumplimiento total de dichas Normas sin lo cual no podrá obtener la certificación a que se refiere el artículo 20 de la presente Ley.
 
 ###### Artículo 22.
 
@@ -405,9 +409,11 @@ Las instalaciones de los establecimientos de las Instituciones Asistenciales ten
 
 En tal sentido, obligatoriamente deberán contar con las áreas y especificaciones que establezcan las Normas Oficiales Mexicanas emitidas en la materia.
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2022)</small>
+
 ###### Artículo 23.
 
-Las Instituciones Asistenciales y de Beneficencia Privada deberán someterse a las inspecciones que lleve a cabo la Coordinación Estatal de Protección Civil, contar con los dispositivos y equipamientos de seguridad correspondientes y cumplir con las observaciones que al efecto se emitan de conformidad con la Ley en la materia.
+Las Instituciones Asistenciales y de Beneficencia Privada deberán someterse a las inspecciones que lleve a cabo la Coordinación Estatal de Protección Civil, contar con los dispositivos y equipamientos de seguridad correspondientes y cumplir con las observaciones que al efecto se emitan de conformidad con la Ley y Normas Oficiales en la materia.
 
 ###### Artículo 24.
 
@@ -676,6 +682,14 @@ El presente decreto iniciará su vigencia al día siguiente de su publicación e
 P.O. 7 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 425.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 64 DE LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 144.- SE REFORMAN LOS ARTÍCULOS 100, EL PRIMER PÁRRAFO Y LA FRACCIÓN IV DEL ARTICULO 101 Y LA FRACCIÓN V DEL ARTÍCULO 104 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES; Y SE REFORMAN LOS ARTÍCULOS 21 Y 23 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 21 DE LA LEY DE INSTITUCIONES ASISTENCIALES PARA NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
