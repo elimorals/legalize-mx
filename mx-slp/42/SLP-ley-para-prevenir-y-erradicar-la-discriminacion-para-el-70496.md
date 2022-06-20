@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-prevenir-y-erradicar-la-discriminacion-para-el-70496"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2019-11-26"
+last_updated: "2022-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -171,13 +171,15 @@ No se considerará discriminación cuando el solicitante o trabajador, no reúna
 
 XXXVIII. Solicitar antecedentes penales como condicionante para el acceso o ejercicio de algún derecho;
 
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2022)</small>
 
-XXXIX. Restringir o impedir el derecho de las mujeres a la lactancia materna en espacios públicos, y/o insultarlas o provocarles actos de molestia por hacerlo, y
+XXXIX. Restringir o impedir el derecho de las mujeres a la lactancia materna en espacios públicos, y/o insultarlas o provocarles actos de molestia por hacerlo;
 
-(REUBICADA, P.O. 26 DE NOVIEMBRE DE 2019)
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2022)</small>
 
-XL. En general, cualquier otra conducta que atente contra la dignidad de la persona.
+XL. Implementar políticas públicas, programas u otras acciones de gobierno, que tengan un impacto desventajoso en los derechos de las personas, y
+
+XLI. En general, cualquier otra conducta que atente contra la dignidad de la persona.
 
 ## TITULO SEGUNDO (SIC). DE LAS ACCIONES DE PREVENCION Y LAS AUTORIDADES COMPETENTES
 
@@ -338,3 +340,11 @@ P.O. 26 DE NOVIEMBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0346.- SE REFORMA EL ARTÍCULO 8° EN SU FRACCIÓN XXXIX Y ADICIONA AL MISMO ARTÍCULO 8° UNA FRACCIÓN, ESTA COMO XL, DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
