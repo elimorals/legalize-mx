@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129830"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-17"
-last_updated: "2022-04-22"
+last_updated: "2022-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 17 de julio de 2018.
 
@@ -593,9 +593,15 @@ XXXVI. Realizar las gestiones necesarias para la obtención de recursos y/o est�
 
 XXXVII. Vigilar que las licencias que expidan los municipios en materia de uso de suelo, se apeguen al Programa de Ordenamiento Territorial y Desarrollo Urbano del Estado y demás programas que se (sic) éste deriven, y solicitar en su caso a los ayuntamientos o a las instancias competentes, la nulidad de las licencias que se expidan en contravención a los mismos;
 
-XXXVIII. Resolver sobre los recursos administrativos que conforme a su competencia le sean planteados y que deriven de la aplicación de esta Ley y de acuerdo a lo dispuesto en el Código Procesal Administrativo para el Estado de San Luis Potosí, y
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2022)</small>
 
-XXXIX. Las demás que le señalen otras disposiciones jurídicas aplicables.
+XXXVIII. Resolver sobre los recursos administrativos que conforme a su competencia le sean planteados y que deriven de la aplicación de esta Ley y de acuerdo a lo dispuesto en el Código Procesal Administrativo para el Estado de San Luis Potosí;
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2022)</small>
+
+XXXIX. Impulsar y promover la creación de los institutos, municipales; multimunicipales; y metropolitanos de planeación, a través de acciones de coordinación, asesoría técnica, gestión de recursos, y acompañamiento a los municipios para la concreción de dicho fin, y
+
+XL. Las demás que le señalen otras disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 15.
 
@@ -6916,3 +6922,11 @@ P.O. 22 DE ABRIL DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan lo dispuesto al presente Decreto.
+
+P.O. 20 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0342.- SE REFORMA EL ARTÍCULO 14 EN SU FRACCIÓN XXXVIII Y ADICIONA AL MISMO ARTÍCULO 14 UNA FRACCIÓN, ÉSTA COMO XXXIX, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
