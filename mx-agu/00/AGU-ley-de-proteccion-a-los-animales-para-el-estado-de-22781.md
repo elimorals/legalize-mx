@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-a-los-animales-para-el-estado-de-22781"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2020-06-29"
+last_updated: "2022-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2022.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de noviembre de 2001.
 
@@ -1417,7 +1417,13 @@ I.- Producir la muerte de un animal, utilizando un medio que prolongue su agoní
 
 II.- Llevar a cabo cualquier mutilación orgánica al animal, a excepción de aquellas contempladas en el segundo párrafo del Artículo 46 de la presente Ley, mismas que además deberán ser realizadas por médico veterinario zootecnista que garantice el uso de los métodos señalados en el Capítulo V de esta Ley;
 
-III.- Privar a un animal de aire, luz, alimento o bebida, espacio suficiente o de abrigo contra la intemperie, que le cause o pueda causar daño;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE JUNIO DE 2022)</small>
+
+III. Abandonar a un animal y/o privarlo de aire, luz, alimento o bebida, sin espacio suficiente o sin abrigo contra la intemperie con lo que se le cause o pueda causar daño.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2022)</small>
+
+Para efectos de esta fracción, se entiende por abandono a la inacción dolosa o culposa de las obligaciones del propietario, poseedor o responsable para su animal de compañía, dejando en desamparo y desprotegido, y con ello se ponga en peligro su vida e integridad;
 
 IV.- Atropellar deliberadamente a cualquier animal;
 
@@ -1674,3 +1680,11 @@ P.O. 29 DE JUNIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de Estado.
+
+P.O. 20 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 143.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 79 Y SE ADICIONA UN SEGUNDO PÁRRAFO A DICHA FRACCIÓN DE LA LEY DE PROTECCIÓN A LOS ANIMALES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
