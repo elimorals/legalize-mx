@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-las-personas-adultas-mayores-para-el-estado-y-los-57049"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2021-09-13"
+last_updated: "2022-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2022.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -486,6 +486,10 @@ r) Dos representantes de organismos no gubernamentales dedicados a la atención 
 > <small>(ADICIONADO, P.O. 20 DE MAYO DE 2021)</small>
 
 s) Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2022)</small>
+
+t) Titular de la Procuraduría de la Defensa de las Personas Adultas Mayores.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2013)</small>
 
@@ -1316,3 +1320,13 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0340.- SE ADICIONA AL ARTÍCULO 12 EN SU FRACCIÓN III EL INCISO T), DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. El Consejo Interinstitucional Gerontológico, de considerarse necesario, deberá modificar su Reglamento Interno, de conformidad con el artículo 14 fracción VIII de la Ley de las Personas Adultas Mayores para el Estado de San Luis Potosí.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
