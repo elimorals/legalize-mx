@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-regularizacion-de-predios-rusticos-urbanos-y-146040
 country: "mx"
 rank: "ley"
 publication_date: "2021-01-12"
-last_updated: "2021-01-12"
+last_updated: "2022-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA REGULARIZACIÓN DE PREDIOS RÚSTICOS, URBANOS Y SUBURBANOS EN EL RÉGIMEN DE PROPIEDAD PRIVADA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2022.
 
 Ley publicada en la Tercera Sección del Número 7 del Periódico Oficial del Estado de Puebla, el martes 12 de enero de 2021.
 
@@ -277,7 +277,9 @@ IV. No se encuentre en trámite un procedimiento de orden jurisdiccional.
 
 Los interesados que posean dos o más predios rústicos, sin escrituras o título de propiedad, solo podrán tramitar la regularización de uno de ellos, a menos que sumada la superficie de los predios, esta no rebase a seis hectáreas.
 
-Los predios urbanos y suburbanos deberán estar destinados a vivienda y no podrán exceder un valor superior a setecientos mil pesos, cero centavos, moneda nacional, conforme al avalúo catastral correspondiente, pudiendo realizar el trámite de solo uno de ellos.
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2022)</small>
+
+Los predios urbanos y suburbanos deberán estar destinados a vivienda y no podrán exceder un valor superior a treinta Unidades de Medida y Actualización elevadas al año en su conversión a moneda nacional, conforme al avalúo catastral correspondiente, pudiendo realizar el trámite de solo uno de ellos.
 
 ###### ARTÍCULO 18.
 
@@ -608,3 +610,13 @@ CUARTO. La Dirección General deberá formular y expedir las Reglas de Operació
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los catorce días del mes de diciembre de dos mil veinte. Diputada Presidenta. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputado Vicepresidente. NIBARDO HERNÁNDEZ SÁNCHEZ. Rúbrica. Diputado Vicepresidente. RAYMUNDO ATANACIO LUNA. Rúbrica. Diputada Secretaria. LILIANA LUNA AGUIRRE. Diputada Secretaria. NANCY JIMÉNEZ MORALES. Rúbrica.
 
 Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiún días del mes de diciembre de dos mil veinte. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica. La Secretaria de Planeación y Finanzas. CIUDADANA MARÍA TERESA CASTRO CORRO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 17, DE LA LEY PARA LA REGULARIZACIÓN DE PREDIOS RÚSTICOS, URBANOS Y SUBURBANOS EN EL RÉGIMEN DE PROPIEDAD PRIVADA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
