@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2021-06-05"
+last_updated: "2022-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2022.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -725,13 +725,15 @@ En los juicios de divorcio siempre tendrá intervención el Ministerio Público.
 
 Cuando ambos cónyuges convengan voluntariamente en divorciarse por la vía judicial, deberán de convenir además en los siguientes puntos:
 
-I. Designación de la persona a quien sean confiadas las hijas o hijos del matrimonio, tanto durante el procedimiento, como después de ejecutoriado el divorcio;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2022)</small>
+
+I. Designación de la persona a quien sean confiadas las hijas o hijos del matrimonio, así como el domicilio en el que habitarán, del que se informará en caso de cambio del mismo, tanto durante el procedimiento, como después de ejecutoriado el divorcio;
 
 II. El modo de proveer a las necesidades de las hijas o hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2022)</small>
 
-III. La casa que servirá de habitación a la y el cónyuge durante el procedimiento;
+III. La casa que servirá de habitación a la y el cónyuge durante el procedimiento, salvo oposición fundada que se realice en contrario;
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
 
@@ -3666,3 +3668,11 @@ P.O. 5 DE JUNIO DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0345.- SE REFORMA EL ARTÍCULO 101 EN SUS FRACCIONES I Y III, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
