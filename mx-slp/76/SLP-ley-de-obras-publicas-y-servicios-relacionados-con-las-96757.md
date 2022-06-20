@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-obras-publicas-y-servicios-relacionados-con-las-96757"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-24"
-last_updated: "2021-09-13"
+last_updated: "2022-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 24 de octubre de 2013.
 
@@ -201,7 +201,9 @@ ARTÍCULOS 8°. El gasto de la obra pública y los servicios relacionados con la
 
 Las instituciones, en el ámbito de sus respectivas competencias, dictarán, a través de sus órganos de control interno, las disposiciones administrativas que sean estrictamente necesarias para el adecuado cumplimiento de esta Ley.
 
-Todas las notificaciones de resoluciones y acuerdos que las instituciones hagan a los interesados en relación con la obra pública y los servicios relacionados con la misma, deberán ser personales y mediante cédula.
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2022)</small>
+
+Salvo disposición en contrario establecida en esta Ley, todas las notificaciones de resoluciones y acuerdos que las instituciones hagan a los interesados en relación con la obra pública y los servicios relacionados con las mismas, deberán efectuarse conforme a las reglas del Capítulo III, del Título Segundo, del Código Procesal Administrativo para el Estado.
 
 ###### ARTÍCULO 10.
 
@@ -1021,7 +1023,9 @@ I. Cuando el servidor público que intervenga directamente en la adjudicación d
 
 Se entenderá que es socio o asociado común, aquella persona física que en el mismo procedimiento de contratación es reconocida como tal en las actas constitutivas, estatutos o en sus reformas o modificaciones de dos o más empresas licitantes, por tener una participación accionaria en el capital social, que le otorgue el derecho de intervenir en la toma de decisiones o en la administración de dichas personas morales;
 
-II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica del órgano de control interno, así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público, conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2022)</small>
+
+II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica del órgano de control interno, así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público, conforme a la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí;
 
 III. Los contratistas a los que por causas imputables a ellos, la institución convocante les hubiere rescindido administrativamente un contrato en más de una ocasión, dentro de un lapso de dos años calendario contados a partir de la primera rescisión.
 
@@ -1215,9 +1219,11 @@ Las instituciones podrán incorporar las modalidades de contratación que tienda
 
 IV. Amortización programada, en cuyo caso el pago total acordado en el contrato de las obras públicas relacionadas con proyectos de infraestructura, se efectuará en función del presupuesto aprobado para cada proyecto.
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 101.
 
-Los trabajos cuya ejecución comprenda más de un ejercicio fiscal, deberán formularse en un solo contrato, por el costo total y la vigencia que resulte necesaria para la ejecución de los trabajos, sujetos a la autorización presupuestaria en los términos de la Ley de Presupuesto, Contabilidad y Gasto Público.
+Los trabajos cuya ejecución comprenda más de un ejercicio fiscal, deberán formularse en un solo contrato, por el costo total y la vigencia que resulte necesaria para la ejecución de los trabajos, sujetos a la autorización presupuestaria en los términos de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí.
 
 ###### ARTÍCULO 102.
 
@@ -1331,7 +1337,9 @@ El titular de la institución de que se trate, fijará las bases a las que deber
 
 III. Los vicios ocultos, de conformidad con el artículo 157 de esta Ley, que deberá presentarse a la firma del acta de terminación de la obra, y
 
-IV. En todos lo (sic) casos, las garantías se constituirán solamente mediante fianzas expedidas con apego al Reglamento de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de San Luis Potosí; al Código Fiscal del Estado; a la Ley Orgánica del Municipio Libre del Estado; a la Ley Federal de Instituciones de Fianzas, y demás ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2022)</small>
+
+IV. En todos los casos, las garantías se constituirán solamente mediante fianzas expedidas con apego a la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí; al Código Fiscal del Estado; a la Ley Orgánica del Municipio Libre del Estado; a la Ley de Instituciones de Seguros y de Fianzas, y demás ordenamientos aplicables.
 
 El importe del anticipo concedido será puesto a disposición del contratista, previo a la fecha pactada para el inicio de los trabajos. El atraso en la entrega del anticipo será motivo para diferir en igual plazo el programa de ejecución pactado. Cuando el contratista no entregue la garantía de anticipo dentro del término señalado, no procederá el diferimiento y, por lo tanto, deberá iniciar los trabajos en la fecha establecida originalmente.
 
@@ -2091,7 +2099,9 @@ La autoridad que conozca de la inconformidad, en caso de estimar procedente la a
 
 Desahogadas las pruebas, se pondrán las actuaciones a disposición del inconforme y tercero interesado, a efecto de que dentro del plazo de tres días hábiles formulen alegatos por escrito. Cerrada la instrucción, la autoridad que conozca de la inconformidad dictará la resolución dentro del término de ocho días hábiles.
 
-El incumplimiento de este término será materia de responsabilidad para el titular del órgano de control interno omiso, y se sancionará en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2022)</small>
+
+El incumplimiento de este término será materia de responsabilidad para el titular del órgano de control interno omiso, y se sancionará en términos de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
 
 ###### ARTÍCULO 216.
 
@@ -2406,3 +2416,11 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0343.- SE REFORMAN LOS ARTÍCULOS 9° EN SU PÁRRAFO SEGUNDO, 90 EN SU FRACCIÓN II, 101, 115 EN SU FRACCIÓN IV Y 215 EN SU PÁRRAFO SEGUNDO, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
