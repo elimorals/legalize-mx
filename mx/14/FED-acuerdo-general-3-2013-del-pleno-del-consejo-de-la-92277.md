@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2022-05-09"
+last_updated: "2022-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JUNIO DE 2022.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -389,9 +389,9 @@ XIX. DECIMONOVENO CIRCUITO:
 
 2. Siete tribunales unitarios: uno con sede en Ciudad Victoria, dos con residencia en Matamoros, dos con sede en Reynosa, uno con residencia en Nuevo Laredo y uno con residencia en Tampico.
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2016)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 11/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE JUNIO DE 2022)</small>
 
-3. Quince juzgados de Distrito en el Estado de Tamaulipas: cuatro con sede en Ciudad Victoria, dos con residencia en Nuevo Laredo, dos con sede en Tampico, uno en Ciudad Madero, dos con residencia en Reynosa y cuatro con sede en Matamoros, uno de ellos en materias de amparo y juicios federales y tres de Procesos Penales Federales.
+3. Catorce juzgados de Distrito en el Estado de Tamaulipas: cuatro con sede en Ciudad Victoria, uno con residencia en Nuevo Laredo, dos con sede en Tampico, uno con sede en Ciudad Madero, dos con residencia en Reynosa y cuatro con sede en Matamoros, uno de ellos en materias de amparo y juicios federales y tres de Procesos Penales Federales.
 
 XX. VIGESIMO CIRCUITO:
 
@@ -837,7 +837,9 @@ XIX. DECIMONOVENO CIRCUITO:
 
 Los juzgados de Distrito en el Estado de Tamaulipas, con residencia en Ciudad Victoria, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Abasolo, Antiguo Morelos, Bustamante, Casas, El Mante, Gómez Farías, Güemez, Hidalgo, Jaumave, Jiménez, Llera, Mainero, Miquihuana, Nuevo Morelos, Ocampo, Padilla, Palmillas, San Carlos, San Nicolás, Soto la Marina, Tula, Victoria, Villagrán y Xicoténcatl.
 
-Los juzgados de Distrito en el Estado de Tamaulipas, con sede en Nuevo Laredo, ejercerán jurisdicción territorial en el distrito judicial conformado por el municipio de Nuevo Laredo.
+> <small>(REFORMADO POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 11/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE JUNIO DE 2022)</small>
+
+El juzgado de Distrito en el Estado de Tamaulipas, con sede en Nuevo Laredo, ejercerá jurisdicción territorial en el distrito judicial conformado por el municipio de Nuevo Laredo.
 
 Los juzgados de Distrito en el Estado de Tamaulipas, con residencia en Matamoros, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Burgos, Cruillas, Matamoros, Méndez, San Fernando y Valle Hermoso.
 
@@ -8790,3 +8792,17 @@ TERCERO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para
 CUARTO. Los Juzgados de Distrito en Materia Mercantil Especializados en Juicios Orales con sede en San Andrés Cholula, Puebla y Cancún, Quintana Roo, así como las respectivas Oficinas de Correspondencia Común que les presta servicio, fijarán avisos en lugar visible con relación a la medida objeto del presente Acuerdo.
 
 QUINTO. Las menciones hechas en otros Acuerdos Generales y normatividad del Consejo de la Judicatura a los Juzgados Primero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con sede en San Andrés Cholula, Puebla y al Juzgado Segundo de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con sede en Cancún, Quintana Roo, se entenderán referidas al Juzgado de Distrito en Materia Mercantil Federal en el Estado de Puebla, Especializado en Juicios Orales, y al Juzgado de Distrito en Materia Mercantil Federal en el Estado de Quintana Roo, Especializado en Juicios Orales, respectivamente.
+
+D.O.F. 21 DE JUNIO DE 2022.
+
+> <small>[N. DE E. TRANSITORIOS "ACUERDO GENERAL 11/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL JUZGADO CUARTO DE DISTRITO EN EL ESTADO DE TAMAULIPAS, CON RESIDENCIA EN NUEVO LAREDO, Y DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE PRESTA SERVICIO A LOS JUZGADOS DE DISTRITO EN EL ESTADO Y RESIDENCIA INDICADOS; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO".]</small>
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet e Intranet.
+
+TERCERO. La Secretaría Ejecutiva de Creación de Nuevos Órganos; la Coordinación de Administración Regional; la Dirección General de Gestión Judicial; y la Dirección General de Tecnologías de la Información llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo, incluyendo las relativas al traslado de mobiliario, equipo y demás insumos.
+
+CUARTO. El Instituto Federal de Defensoría Pública, en el ámbito de su competencia, adoptará las medidas necesarias que se relacionan con el cumplimiento de este Acuerdo.
+
+QUINTO. La Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Tamaulipas, con residencian en Nuevo Laredo y los Juzgados de Distrito Tercero y Cuarto en la misma entidad federativa y sede, colocarán avisos en lugar visible de sus accesos, informando al público lo determinado en el presente Acuerdo.
