@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2022-06-02"
+last_updated: "2022-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -228,6 +228,10 @@ XII. Apoyar la coordinación entre las instituciones de salud y educativas del E
 XIII. Coadyuvar a que la formación y distribución de los recursos humanos para la salud sea congruente con las prioridades del Sistema Estatal de Salud;
 
 XIV. Promover e impulsar la participación de la comunidad en el cuidado de la salud e impulsar la permanente actualización de las disposiciones legales en materia de salud; y
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2022)</small>
+
+XIV bis. Promover e incorporar enfoques con perspectiva de género a las estrategias, campañas de información y demás programas en el marco de sus atribuciones, para contribuir a la igualdad entre mujeres y hombres en el acceso al derecho a la protección de la salud;
 
 XV. La prestación de los servicios de atención a la obesidad, así como la orientación y vigilancia en materia de nutrición conforme a los programas que se formulen y desarrollen al respecto; y
 
@@ -2638,3 +2642,11 @@ Artículo Primero. El presente decreto entrará en vigor el 1° de enero de 2023
 Artículo Segundo. El establecimiento del Banco de leche humana a que se refiere el presente decreto, se hará cuando lo permitan las posibilidades presupuestales de la Secretaria Estatal de la materia.
 
 Artículo Tercero. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 21 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 75 POR EL QUE “SE ADICIONA UNA FRACCIÓN XIV BIS AL ARTÍCULO 6 DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE”.]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
