@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2022-05-16"
+last_updated: "2022-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JUNIO DE 2022.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -581,21 +581,29 @@ Las sesiones de los ayuntamientos se celebrarán en la sala de cabildos; y cuand
 
 Los Ayuntamientos, en caso de emergencia Nacional o Estatal de carácter sanitaria o de protección civil, determinada por la autoridad competente, y por el tiempo que dure ésta, podrán sesionar a distancia, mediante el uso de las tecnologías de la información y comunicación o medios electrónicos disponibles, y que permitan la transmisión en vivo en la página de internet de los municipios, en las cuales se deberá garantizar la correcta identificación de sus miembros, sus intervenciones, así como el sentido de la votación, para tales efectos el Secretario del Ayuntamiento deberá además certificar la asistencia de cada uno de los integrantes del Ayuntamiento; para lo cual deberá guardarse una copia íntegra de la sesión.
 
-> <small>(ADICIONADO, G.G. 8 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 21 DE JUNIO DE 2022)</small>
 
-Los ayuntamientos sesionarán en cabildo abierto cuando menos bimestralmente.
+Los ayuntamientos sesionarán en cabildo abierto cuando menos bimestralmente, y de manera anual, durante el mes de agosto, se realizarán cabildos juveniles.
 
-> <small>(ADICIONADO, G.G. 8 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 21 DE JUNIO DE 2022)</small>
 
-El cabildo en sesión abierta es la sesión que celebra el Ayuntamiento, en la cual los habitantes participan directamente con derecho a voz pero sin voto, a fin de discutir asuntos de interés para la comunidad y con competencia sobre el mismo.
+El cabildo abierto son las sesiones que celebra el Ayuntamiento, en las que las personas habitantes involucradas participan directamente con derecho a voz, pero sin voto, a fin de discutir asuntos de interés y con competencia sobre el mismo.
 
-> <small>(ADICIONADO, G.G. 8 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
 
-En este tipo de sesiones el Ayuntamiento escuchará la opinión del público que participe en la Sesión y podrá tomarla en cuenta al dictaminar sus resoluciones.
+El cabildo juvenil son las sesiones que celebra el Ayuntamiento una vez al año, en el marco del Día Internacional de la Juventud, en las que las personas jóvenes habitantes del municipio participan directamente con derecho a voz, pero sin voto, a fin de incentivar su participación e involucramiento en los asuntos públicos, así como discutir cuestiones de interés para la comunidad.
 
-> <small>(ADICIONADO, G.G. 8 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 21 DE JUNIO DE 2022)</small>
 
-El Ayuntamiento deberá emitir una convocatoria pública quince días naturales previos a la celebración del Cabildo en sesión abierta para que los habitantes del municipio que tengan interés se registren como participantes ante la Secretaría del Ayuntamiento.
+En este tipo de sesiones el Ayuntamiento escuchará las opiniones de los participantes quedando asentadas en las actas de las Sesiones, y podrán considerarlas al dictaminar sus resoluciones.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+
+En el caso de los cabildos juveniles, la persona Titular de la Secretaría del Ayuntamiento remitirá, en un plazo de 15 días hábiles, una copia de dicha acta de sesión de cabildo al Instituto Mexiquense de la Juventud.
+
+> <small>(REFORMADO, G.G. 21 DE JUNIO DE 2022)</small>
+
+El Ayuntamiento deberá emitir una convocatoria pública quince días naturales previos a la celebración del Cabildo abierto o juvenil para que las personas habitantes del municipio que tengan interés se registren como participantes ante la Secretaría del Ayuntamiento.
 
 > <small>(ADICIONADO, G.G. 9 DE MARZO DE 2011)</small>
 
@@ -609,7 +617,9 @@ c) Aprobación del orden del día;
 
 d) Presentación de asuntos y turno a Comisiones;
 
-e) Lectura, discusión y en su caso, aprobación de los acuerdos; y
+> <small>(REFORMADO, G.G. 21 DE JUNIO DE 2022)</small>
+
+e) Lectura, discusión y en su caso, aprobación de los acuerdos, y
 
 f) Asuntos generales.
 
@@ -5620,3 +5630,17 @@ G.G. 16 DE MAYO DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 21 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 73.- POR EL QUE SE REFORMA EL ARTÍCULO 28 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Los ayuntamientos contarán con un plazo de 60 días hábiles para realizar las adecuaciones normativas en sus bandos municipales y reglamentos respectivos para contemplar los cabildos juveniles.
+
+CUARTO. Los ayuntamientos deberán darle máxima publicidad año con año a los cabildos juveniles, a efecto de que el presente Decreto tenga plena eficacia.
+
+QUINTO. El Instituto Mexiquense de la Juventud, para cumplir con el presente Decreto, deberá informar anualmente al Poder Legislativo del Estado de México sobre los resultados generales de los Cabildos Juveniles.
