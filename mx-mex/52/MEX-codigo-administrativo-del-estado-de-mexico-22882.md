@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2022-06-10"
+last_updated: "2022-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JUNIO DE 2022.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1289,7 +1289,13 @@ XVIII. Atención médica a las personas que padezcan obesidad mórbida a través
 
 XIX. Atención médica a las personas que padezcan diabetes, así como brindar de manera permanente el tratamiento requerido de conformidad con las disposiciones jurídicas aplicables.
 
-XX. Los demás que se establezcan en la Ley General de Salud y otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 21 DE JUNIO DE 2022)</small>
+
+XX. Detección, prevención, tratamiento y seguimiento del cáncer de mama y en su caso la mastectomía y mamoplastia reconstructiva, incluidas prótesis de calidad, atención médica y psicológica integral durante todo el proceso, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 21 DE JUNIO DE 2022)</small>
+
+XXI. Los demás que se establezcan en la Ley General de Salud y otras disposiciones aplicables.
 
 ###### Artículo 2.
 
@@ -1965,13 +1971,147 @@ V. Promover la celebración de convenios que propicien la participación de los 
 
 VI. Procurar el fomento de una cultura sustentada en valores y principios en torno a la auto-afirmación de la dignidad humana, dirigida preferentemente a niñas, niños, adolescentes y jóvenes.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN , G.G. 21 DE JUNIO DE 2022)</small>
+
+### CAPÍTULO SÉPTIMO. De la atención integral al cáncer de mama
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN , G.G. 21 DE JUNIO DE 2022)</small>
+
+#### SECCIÓN PRIMERA. Disposiciones generales
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+
+###### Artículo 2.
+
+48 Undecies.- El presente capítulo tiene por objeto establecer los principios y lineamientos para la promoción de la salud, detección temprana, prevención, diagnóstico oportuno, atención, tratamiento adecuado, rehabilitación, control y vigilancia epidemiológica del cáncer de mama en el Estado de México.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+
+###### Artículo 2.
+
+48 Duodecies.- La Atención Integral del Cáncer de Mama en el Estado de México, tiene los siguientes objetivos:
+
+I. Disminuir las tasas de morbilidad y mortalidad por cáncer de mama en la población femenina que resida en el Estado de México, mediante una política pública de carácter prioritario.
+
+II. Contribuir en la detección oportuna del cáncer de mama en mujeres a partir de los 25 años y en toda mujer que tenga historial genético familiar con cáncer de mama antes de esa edad y que resida en el Estado de México.
+
+III. Atender a mujeres que no cuenten con seguridad social, cuyo resultado requiere de estudios complementarios o atención médica de acuerdo a las indicaciones médicas respectivas.
+
+IV. Difundir información sobre la importancia de la detección temprana, el autocuidado y la autoexploración de cáncer de mama.
+
+V. Realizar campañas de promoción y difusión sobre información del cáncer de mama para fomentar una cultura de prevención.
+
+VI. Brindar acompañamiento psicológico a las mujeres cuyo resultado indique sospecha, alta sospecha o confirmación de cáncer de mama.
+
+VII. Brindar atención médica y rehabilitación a las mujeres con diagnóstico sospechoso, altamente sospechoso y confirmado de cáncer de mama.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+
+###### Artículo 2.
+
+48 Terdecies.- La instrumentación y coordinación de las acciones para la prestación de los servicios en la atención integral del cáncer de mama en términos de este capítulo, será atribución de la Secretaría de Salud del Estado de México; para tal efecto deberá:
+
+I. Elaborar y emitir el Programa de Atención Integral del Cáncer de Mama.
+
+II. Elaborar los protocolos para la prevención, detección y diagnóstico oportuno de cáncer de mama.
+
+III. Integrar un sistema de información que contenga los datos necesarios que permitan brindar un seguimiento oportuno a las mujeres que se les haya practicado examen clínico o mastografía y presenten un diagnóstico sospechoso, altamente sospechoso o confirmado de cáncer de mama.
+
+IV. Formar una base de datos sobre las mujeres a las que se les practique mastografías dentro del Programa de Atención Integral del Cáncer de Mama, a efecto de que se brinde el servicio de acuerdo a los lineamientos señalados en este Código.
+
+V. Establecer las bases de colaboración y participación de las dependencias de la administración pública estatal y municipal, para la prestación de servicios relacionados con el Programa de Atención Integral del Cáncer de Mama.
+
+VI. Suscribir convenios con diversas autoridades o instituciones de salud para la prestación de servicios relacionados con el Programa de Atención Integral del Cáncer de Mama.
+
+VII. Programar y ejercer el presupuesto asignado para el Programa de Atención Integral del Cáncer de Mama.
+
+VIII. Diseñar un programa de fortalecimiento de la infraestructura para satisfacer la demanda y cobertura de las acciones contempladas en el Programa de Atención Integral del Cáncer de Mama.
+
+IX. Las demás necesarias para la aplicación de las disposiciones de este capítulo.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+
+###### Artículo 2.
+
+48 Quaterdecies.- La Secretaría de las Mujeres del Estado de México y las dependencias municipales de la mujer coadyuvarán con la Secretaría de Salud del Estado en la instrumentación de las acciones derivadas de este capítulo, de conformidad con lo establecido en los lineamientos de operación del Programa de Atención Integral del Cáncer de Mama que para tal efecto se emitan. Como instancia rectora en la institucionalización de la perspectiva de género, formulará los lineamientos necesarios para que la aplicación de las disposiciones de esta normativa se realice atendiendo las necesidades diferenciadas en función del género, dando seguimiento al cumplimiento de las mismas.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+
+###### Artículo 2.
+
+48 Quindecies.- El Programa de Atención Integral del Cáncer de Mama, comprende acciones de promoción de la salud, prevención, consejería, detección, diagnóstico, tratamiento y rehabilitación integral.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN , G.G. 21 DE JUNIO DE 2022)</small>
+
+#### SECCIÓN SEGUNDA. Tratamiento y seguimiento del cáncer de mama
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+
+###### Artículo 2.
+
+48 Sexdecies.- Las mujeres que residan en el Estado de México, tienen derecho a la atención integral del cáncer de mama. Las autoridades señaladas en el artículo anterior, tienen la obligación de garantizar el ejercicio de este derecho y su acceso de manera gratuita, digna, eficiente, oportuna y de calidad, procurando la incorporación de comunidades indígenas y zonas rurales conforme a los lineamientos establecidos en este capítulo.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+
+###### Artículo 2.
+
+48 Septdecies.- Para los procedimientos contenidos en este capítulo se garantizará la atención psicológica permanente a las personas durante todo el proceso.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+
+###### Artículo 2.
+
+48 Octodecies.- La Secretaría de Salud concertará acciones que propicien la gratuidad de los servicios a que se refiere este capítulo mediante los instrumentos jurídicos que se ajusten lo dispuesto en esta norma.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+
+###### Artículo 2.
+
+48 Novodecies.- Las actividades de rehabilitación del cáncer de mama, incluyen acciones tendientes a optimizar las capacidades y funciones de las personas con discapacidad física y mental, así como la reconstrucción mamaria para toda mujer a la que se le haya realizado una mastectomía como tratamiento del cáncer de seno.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+
+###### Artículo 2.
+
+48 Vicies.- Los usuarios tendrán derecho a obtener prestaciones de salud oportuna, profesional, ética y de calidad idónea, así como la orientación necesaria respecto a riesgos, efectos y alternativas de los procedimientos, diagnósticos terapéuticos, quirúrgicos y de rehabilitación que se le indiquen o apliquen, teniendo un trato respetuoso y digno de los profesionales, técnicos y auxiliares.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN , G.G. 21 DE JUNIO DE 2022)</small>
+
+#### SECCIÓN TERCERA. De la mastectomía y la mamoplastia reconstructiva de calidad
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+
+###### Artículo 2.
+
+48 Unvicies.- Para efectos de este Código se entenderá por:
+
+I. Mastectomía: procedimiento quirúrgico que tiene como finalidad extirpar la glándula mamaria o parte de ella. De una o ambas, y en todas técnicas médicas y variantes disponibles.
+
+II. Mamoplastia reconstructiva de calidad: procedimiento que tiene como finalidad la creación de una mama lo más similar posible a la que haya sido extirpada, con prótesis fisiológicamente histocompatible, bajo los principios de inocuidad para el portador, así como calidad, por una salud digna.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+
+###### Artículo 2.
+
+48 Duovicies.- Las instituciones públicas de Salud deberán contar con programas y mecanismos para que las personas, preponderantemente de escasos recursos, puedan acceder de manera gratuita a mastectomías cuando se les diagnostique un padecimiento o un riesgo de padecimiento que así lo requiera.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+
+###### Artículo 2.
+
+48 Tervicies.- La Secretaría de Salud deberán (sic) contar con programas y mecanismos para que las personas, preponderantemente de escasos recursos, que hayan sido sujetas a una mastectomía puedan acceder a una mamoplastia reconstructiva con prótesis de buena calidad.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+
+###### Artículo 2.
+
+48 Quatervicies.- Para los procedimientos establecidos se deberá contar con una especialización y mejora constante en los procedimientos y capacitación de las personas que los lleven a cabo.
+
+## TITULO CUARTO. De la salubridad local
+
 ### CAPITULO PRIMERO. Disposiciones generales
 
 (REFORMADO PRIMER PÁRRAFO, G.G. 10 DE JULIO DE 2015) (F. DE E., G.G. 12 DE AGOSTO DE 2015)
-
-#### SECCION PRIMERA. De la recolección de muestras
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
 
 ###### Artículo 2.
 
@@ -2057,10 +2197,6 @@ Para efectos de este Título se entiende por control sanitario el conjunto de ac
 
 49 Quinquies.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2016)
 
-#### SECCION SEGUNDA. De las medidas de seguridad sanitaria
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
-
 ###### Artículo 2.
 
 49 Sexies.- (DEROGADO, G.G. 5 DE ENERO DE 2021)
@@ -2105,10 +2241,6 @@ IV. Las demás que sean necesarias para el cumplimiento de su objeto.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 2.34], G.G. 30 DE SEPTIEMBRE DE 2010)
 
-#### SECCION TERCERA. De las sanciones
-
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.52], G.G. 30 DE SEPTIEMBRE DE 2010)
-
 ###### Artículo 2.
 
 53.- Los edificios o locales, incluidos los centros de prevención y readaptación social, deben contar con las instalaciones sanitarias que señalen las normas técnicas estatales correspondientes.
@@ -2128,12 +2260,6 @@ IV. Las demás que sean necesarias para el cumplimiento de su objeto.
 54.- Los residuos sólidos municipales deben tratarse conforme a lo previsto en las normas técnicas estatales, de tal manera que no signifiquen un peligro para la salud y por ningún motivo se manipularán antes de su tratamiento o disposición final.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 2.36], G.G. 30 DE SEPTIEMBRE DE 2010)
-
-## TITULO CUARTO. De la salubridad local
-
-### CAPITULO SEGUNDO. De las autorizaciones sanitarias
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
 
 ###### Artículo 2.
 
@@ -2188,6 +2314,10 @@ Queda prohibido que los desechos o líquidos que conduzcan los drenajes sean ver
 62.- Los proyectos de abastecimiento de agua potable deben ser sometidos a la consideración de la "COPRISEM" para la aprobación del sistema adoptado.
 
 Los proyectos para la implantación de sistemas de alcantarillado deben ser estudiados y aprobados por la "COPRISEM".
+
+### CAPITULO SEGUNDO. De las autorizaciones sanitarias
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
 
 ###### Artículo 2.
 
@@ -2261,6 +2391,12 @@ Cuando la revocación de una autorización se funde en los riesgos o daños a la
 
 La revocación surtirá efectos de clausura, prohibición de uso y de ejercicio de las actividades que hubiesen sido autorizadas.
 
+### CAPITULO TERCERO. De la vigilancia
+
+#### SECCION PRIMERA. De la recolección de muestras
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
+
 ###### Artículo 2.
 
 67.- La "COPRISEM" independientemente de las visitas de verificación, podrá llevar a cabo la recolección de muestras de productos perecederos y no perecederos, así como de superficies vivas e inertes, para determinar la presencia de microorganismos patógenos causantes de daños a la salud.
@@ -2268,6 +2404,10 @@ La revocación surtirá efectos de clausura, prohibición de uso y de ejercicio 
 (REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2010)
 
 La recolección de muestras de productos y superficies se efectuará con sujeción a las disposiciones aplicables de la Ley General de Salud y de las normas oficiales de la materia.
+
+#### SECCION SEGUNDA. De las medidas de seguridad sanitaria
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
 
 ###### Artículo 2.
 
@@ -2395,6 +2535,10 @@ Si el dictamen reporta que el bien asegurado no es nocivo para la salud o cumple
 
 Si del dictamen resulta que el bien asegurado es nocivo para la salud, se podrá someter a un tratamiento que haga posible su aprovechamiento por el interesado o determinar su destrucción.
 
+#### SECCION TERCERA. De las sanciones
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 2.52], G.G. 30 DE SEPTIEMBRE DE 2010)
+
 ###### Artículo 2.
 
 71.- Son sanciones administrativas:
@@ -2459,8 +2603,6 @@ Una vez aplicada esta medida de seguridad se podrá iniciar con el procedimiento
 
 (REUBICADO [N. DE E. Y REFORMADO ANTES ARTÍCULO 2.56], G.G. 30 DE SEPTIEMBRE DE 2010)
 
-### CAPITULO TERCERO. De la vigilancia
-
 ###### Artículo 2.
 
 75.- Procederá la clausura temporal o definitiva, parcial o total, según la gravedad de la infracción y las características de la actividad o establecimiento, en los casos siguientes:
@@ -2497,31 +2639,15 @@ Impuesto el arresto, se comunicará la resolución a la autoridad correspondient
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
-
-> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2014)</small>
-
-#### SECCIÓN PRIMERA. De la Zonificación
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
-
-#### SECCIÓN SEGUNDA. De las Normas de Uso y Aprovechamiento del Suelo
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-#### SECCIÓN TERCERA. De la Conservación, Mejoramiento y Crecimiento de los Centros de Población
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
-
 # LIBRO TERCERO
 
 De la educación, ejercicio profesional, investigación científica y tecnológica, juventud, instalaciones educativas y mérito civil.
 
 ## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO PRIMERO. Del objeto y finalidad
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 3.
 
@@ -2569,7 +2695,9 @@ VI. Los profesionistas y sus asociaciones o colegios.
 
 VII. La ciudadanía en general, tratándose de los reconocimientos públicos.
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 3.
 
@@ -2587,7 +2715,7 @@ Las atribuciones en las materias de ejercicio profesional y mérito civil corres
 
 ## TITULO SEGUNDO. De la educación
 
-### CAPITULO SEGUNDO. Del Sistema Educativo Estatal
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 3.
 
@@ -2705,7 +2833,7 @@ IX. Promover y apoyar los programas y acciones de capacitación y difusión diri
 
 X. Implementar, en coordinación con las autoridades federales y estatales, programas de educación ambiental en las comunidades de los municipios, buscando se vinculen con proyectos prácticos, que fomenten la conciencia ambiental de sus habitantes.
 
-### CAPITULO TERCERO. Del financiamiento de la educación
+### CAPITULO SEGUNDO. Del Sistema Educativo Estatal
 
 ###### Artículo 3.
 
@@ -2739,7 +2867,7 @@ La integración, organización y funcionamiento del Consejo Técnico de Educaci�
 
 12.- Las instituciones educativas establecidas por el Estado y los municipios, sus organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios, otorgarán a las autoridades educativas todas las facilidades y colaboración para la evaluación a que se refiere el artículo anterior. Para ello, proporcionarán oportunamente toda la información que se les requiera, tomarán las medidas que permitan la colaboración efectiva de alumnos, maestros, directivos y demás participantes en los procesos educativos, y facilitarán que las autoridades educativas realicen exámenes y estudios para fines estadísticos y de diagnóstico, y recaben directamente en las escuelas la información necesaria.
 
-### CAPITULO CUARTO. De los profesionistas al servicio de la educación del Estado
+### CAPITULO TERCERO. Del financiamiento de la educación
 
 ###### Artículo 3.
 
@@ -2759,7 +2887,7 @@ Asimismo, el Estado procurará fortalecer las fuentes de financiamiento a la tar
 
 16.- Las inversiones que en materia educativa realicen el Estado, los municipios, los organismos descentralizados y los particulares son de interés social.
 
-### CAPITULO QUINTO. De la participación social en la educación
+### CAPITULO CUARTO. De los profesionistas al servicio de la educación del Estado
 
 ###### Artículo 3.
 
@@ -2773,7 +2901,7 @@ Asimismo, el Estado procurará fortalecer las fuentes de financiamiento a la tar
 
 19.- Los servidores públicos docentes tendrán derecho a un salario profesional que les permita acceder a un nivel de vida decoroso para su familia.
 
-### CAPITULO SEXTO. De las recompensas y estímulos
+### CAPITULO QUINTO. De la participación social en la educación
 
 ###### Artículo 3.
 
@@ -2789,9 +2917,7 @@ Asimismo, el Estado procurará fortalecer las fuentes de financiamiento a la tar
 
 22.- La Secretaría de Educación promoverá la participación de la sociedad a través de los consejos de participación social estatal, municipales y escolares, como órganos de consulta, orientación y apoyo, de conformidad con lo previsto en la Ley General de Educación.
 
-### CAPITULO SEPTIMO. De los particulares que imparten educación
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+### CAPITULO SEXTO. De las recompensas y estímulos
 
 ###### Artículo 3.
 
@@ -2805,7 +2931,7 @@ Asimismo, el Estado procurará fortalecer las fuentes de financiamiento a la tar
 
 Para su otorgamiento la Secretaría de Educación contará con un Consejo Técnico, cuya integración y funcionamiento se regirá por la reglamentación correspondiente.
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEPTIMO. De los particulares que imparten educación
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
@@ -2823,7 +2949,9 @@ En los demás casos podrán obtener el reconocimiento de validez oficial de estu
 
 ## TITULO TERCERO. Del ejercicio profesional
 
-### CAPITULO SEGUNDO. De los profesionistas
+### CAPITULO PRIMERO. Disposiciones generales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 3.
 
@@ -2857,9 +2985,7 @@ VII. Publicar anualmente en la Gaceta del Gobierno una relación de las asociaci
 
 30.- El Gobernador del Estado, previo dictamen de la Secretaría de Educación y oyendo la opinión de las instituciones de educación media superior y superior, de las asociaciones de profesionistas y del Consejo Técnico de Educación, expedirá los reglamentos correspondientes a los distintos campos de acción profesional.
 
-### CAPITULO TERCERO. De las asociaciones de profesionistas
-
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+### CAPITULO SEGUNDO. De los profesionistas
 
 ###### Artículo 3.
 
@@ -2897,9 +3023,9 @@ III. Cuando exista orden judicial escrita, salvo las excepciones que contemplen 
 
 37.- En caso de perturbación grave de la paz pública, siniestro, desastre o cualquier otro evento que ponga a la sociedad en peligro o conflicto, los profesionistas y sus asociaciones o colegios deberán prestar su servicio en apoyo a los afectados.
 
-### CAPITULO CUARTO. Del Registro Estatal de Educación
+### CAPITULO TERCERO. De las asociaciones de profesionistas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 3.
 
@@ -2957,9 +3083,9 @@ XIII. Cumplir con lo establecido en el presente Título y la reglamentación que
 
 43.- Los colegios de profesionistas serán ajenos a toda actividad de carácter político partidista y religioso.
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO CUARTO. Del Registro Estatal de Educación
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 3.
 
@@ -3191,7 +3317,7 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 ## TITULO NOVENO. Del mérito civil
 
-### CAPITULO SEGUNDO. De la Presea "Estado de México"
+### CAPITULO PRIMERO. Disposiciones generales
 
 > <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2012)</small>
 
@@ -3277,9 +3403,9 @@ II. Inhumación en la Rotonda de las Personas Ilustres del Estado de México.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE DICIEMBRE DE 2021)</small>
 
-### CAPITULO TERCERO. De la Inhumación en la Rotonda de las Personas Ilustres del Estado de México
+### CAPITULO SEGUNDO. De la Presea "Estado de México"
 
-> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 3.
 
@@ -3303,7 +3429,9 @@ El derecho al uso de la presea a que se refiere este Capítulo, se extingue por 
 
 > <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO TERCERO. De la Inhumación en la Rotonda de las Personas Ilustres del Estado de México
+
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 ###### Artículo 3.
 
@@ -3383,7 +3511,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
-### CAPITULO SEGUNDO. De las Definiciones
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 4.
 
@@ -3395,7 +3523,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 6 DE ENERO DE 2021)</small>
 
-### CAPITULO TERCERO. De las Autoridades y sus Atribuciones
+### CAPITULO SEGUNDO. De las Definiciones
 
 ###### Artículo 4.
 
@@ -3403,7 +3531,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
-### CAPITULO CUARTO. Del Consejo Consultivo Estatal de Turismo Sustentable
+### CAPITULO TERCERO. De las Autoridades y sus Atribuciones
 
 ###### Artículo 4.
 
@@ -3423,7 +3551,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 6 DE ENERO DE 2021)</small>
 
-### CAPITULO UNICO. De las Zonas de Interes Turístico
+### CAPITULO CUARTO. Del Consejo Consultivo Estatal de Turismo Sustentable
 
 ###### Artículo 4.
 
@@ -3435,7 +3563,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
-### CAPITULO PRIMERO. Objeto del Fomento del Turismo
+### CAPITULO UNICO. De las Zonas de Interes Turístico
 
 ###### Artículo 4.
 
@@ -3451,7 +3579,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
-### CAPITULO SEGUNDO. Del Desarrollo Turístico
+### CAPITULO PRIMERO. Objeto del Fomento del Turismo
 
 ###### Artículo 4.
 
@@ -3463,7 +3591,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
-### CAPITULO TERCERO. De la Inversión Turística
+### CAPITULO SEGUNDO. Del Desarrollo Turístico
 
 ###### Artículo 4.
 
@@ -3475,7 +3603,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
-### CAPITULO CUARTO. De la Promoción Turística
+### CAPITULO TERCERO. De la Inversión Turística
 
 ###### Artículo 4.
 
@@ -3487,7 +3615,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
-### CAPITULO PRIMERO. Del Ordenamiento y Clasificación de los Servicios Turísticos
+### CAPITULO CUARTO. De la Promoción Turística
 
 ###### Artículo 4.
 
@@ -3507,7 +3635,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 6 DE ENERO DE 2021)</small>
 
-### CAPITULO SEGUNDO. Del Registro Estatal de Prestadores de Servicios Turísticos
+### CAPITULO PRIMERO. Del Ordenamiento y Clasificación de los Servicios Turísticos
 
 ###### Artículo 4.
 
@@ -3515,7 +3643,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 6 DE ENERO DE 2021)</small>
 
-### CAPITULO PRIMERO. De las Normas de Turismo
+### CAPITULO SEGUNDO. Del Registro Estatal de Prestadores de Servicios Turísticos
 
 ###### Artículo 4.
 
@@ -3527,7 +3655,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 6 DE ENERO DE 2021)</small>
 
-### CAPITULO SEGUNDO. De la Certificación de la Actividad Turística
+### CAPITULO PRIMERO. De las Normas de Turismo
 
 ###### Artículo 4.
 
@@ -3535,7 +3663,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 6 DE ENERO DE 2021)</small>
 
-### CAPITULO PRIMERO. De los Derechos y Obligaciones de los Prestadores de Servicios Turísticos
+### CAPITULO SEGUNDO. De la Certificación de la Actividad Turística
 
 ###### Artículo 4.
 
@@ -3547,7 +3675,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
-### CAPITULO SEGUNDO. De los Derechos y Obligaciones de los Turistas
+### CAPITULO PRIMERO. De los Derechos y Obligaciones de los Prestadores de Servicios Turísticos
 
 ###### Artículo 4.
 
@@ -3563,9 +3691,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
-
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+### CAPITULO SEGUNDO. De los Derechos y Obligaciones de los Turistas
 
 ###### Artículo 4.
 
@@ -3585,9 +3711,9 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO SEGUNDO. De las autoridades
+### CAPITULO PRIMERO. Del objeto y finalidad
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -3975,9 +4101,9 @@ No surtirán efectos los permisos, licencias o autorizaciones que contravengan l
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPÍTULO TERCERO. Del Consejo Consultivo Estatal de Ordenamiento Territorial y Desarrollo Urbano y Metropolitano
+### CAPITULO SEGUNDO. De las autoridades
 
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 5.
 
@@ -4217,7 +4343,7 @@ XXVI. Las demás que le confieran este Libro, y otras disposiciones jurídicas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE ENERO DE 2018)</small>
 
-### CAPÍTULO CUARTO. De la Comisión Estatal de Desarrollo Urbano y Metropolitano
+### CAPÍTULO TERCERO. Del Consejo Consultivo Estatal de Ordenamiento Territorial y Desarrollo Urbano y Metropolitano
 
 > <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
@@ -4293,7 +4419,7 @@ XV. Las demás que sean necesarias para el cumplimiento de su objeto y funciones
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE ENERO DE 2018)</small>
 
-### CAPÍTULO PRIMERO. Del Sistema Estatal de Planes de Desarrollo Urbano
+### CAPÍTULO CUARTO. De la Comisión Estatal de Desarrollo Urbano y Metropolitano
 
 > <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
@@ -4397,9 +4523,9 @@ n) Otras acciones que se establezcan o declaren por las autoridades competentes.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPÍTULO SEGUNDO. Del Ordenamiento Territorial de los Asentamientos Humanos
+### CAPÍTULO PRIMERO. Del Sistema Estatal de Planes de Desarrollo Urbano
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -4537,9 +4663,9 @@ III. Solamente podrán modificarse, en relación a la estructura urbana prevista
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPÍTULO TERCERO. De los Planes Municipales de Desarrollo Urbano
+### CAPÍTULO SEGUNDO. Del Ordenamiento Territorial de los Asentamientos Humanos
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
@@ -4561,13 +4687,13 @@ Para ordenar y regular los asentamientos humanos en el territorio estatal, el su
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPÍTULO CUARTO. De las Conurbaciones y Zonas Metropolitanas
+### CAPÍTULO TERCERO. De los Planes Municipales de Desarrollo Urbano
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCIÓN PRIMERA. Del Dictamen de Congruencia
+#### SECCIÓN PRIMERA. De la Zonificación
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -4603,7 +4729,9 @@ c) Las condiciones climatológicas, hidrológicas, geológicas, ambientales o de
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCIÓN SEGUNDA. De la Constancia de Viabilidad
+#### SECCIÓN SEGUNDA. De las Normas de Uso y Aprovechamiento del Suelo
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
@@ -4629,9 +4757,9 @@ IX. (DEROGADA, G.G. 10 DE ENERO DE 2018)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCIÓN TERCERA. De la Evaluación Técnica de Factibilidad de Impacto Urbano
+#### SECCIÓN TERCERA. De la Conservación, Mejoramiento y Crecimiento de los Centros de Población
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -4739,9 +4867,9 @@ XI. Los Municipios informarán a la autoridad federal competente sobre las autor
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPÍTULO PRIMERO. De los Instrumentos Estatales de Control del Desarrollo Urbano
+### CAPÍTULO CUARTO. De las Conurbaciones y Zonas Metropolitanas
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
@@ -4819,13 +4947,13 @@ Las disposiciones de este capítulo serán aplicables en lo conducente a los pro
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPÍTULO SEGUNDO. De los Instrumentos Municipales de Control del Desarrollo Urbano
+### CAPÍTULO PRIMERO. De los Instrumentos Estatales de Control del Desarrollo Urbano
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCIÓN CUARTA. De los Conjuntos Urbanos
+#### SECCIÓN PRIMERA. Del Dictamen de Congruencia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
@@ -4841,9 +4969,7 @@ Las disposiciones de este capítulo serán aplicables en lo conducente a los pro
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
-#### SECCIÓN QUINTA. De la Subdivisión y Fusión
-
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+#### SECCIÓN SEGUNDA. De la Constancia de Viabilidad
 
 ###### Artículo 5.
 
@@ -4855,9 +4981,9 @@ Las disposiciones de este capítulo serán aplicables en lo conducente a los pro
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-#### SECCIÓN SEXTA. De la Relotificación
+#### SECCIÓN TERCERA. De la Evaluación Técnica de Factibilidad de Impacto Urbano
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 2021)</small>
 
 ###### Artículo 5.
 
@@ -4911,7 +5037,7 @@ Los requisitos específicos para el análisis y en su caso, la emisión de las e
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCIÓN SÉPTIMA. De los Condominios
+#### SECCIÓN CUARTA. De los Conjuntos Urbanos
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 2021)</small>
 
@@ -5111,7 +5237,7 @@ XVI. No se emitirán nuevas autorizaciones a los solicitantes o sus socios, en c
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCIÓN OCTAVA. Del Desarrollo Urbano en Ejidos y Comunidades
+#### SECCIÓN QUINTA. De la Subdivisión y Fusión
 
 > <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
@@ -5209,9 +5335,9 @@ IV. Las que soliciten las autoridades federales, estatales y municipales respect
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCIÓN PRIMERA. De la Cédula Informativa de Zonificación
+#### SECCIÓN SEXTA. De la Relotificación
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
@@ -5231,9 +5357,9 @@ IV. Las que soliciten las autoridades federales, estatales y municipales respect
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCIÓN SEGUNDA. De la Licencia de Uso del Suelo
+#### SECCIÓN SÉPTIMA. De los Condominios
 
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 2021)</small>
 
 ###### Artículo 5.
 
@@ -5267,9 +5393,9 @@ Tratándose de condominios horizontales, se deberá contar con una administraci�
 
 > <small>(REFORMADO SU DENOMINACIÓN, G.G. 10 DE ENERO DE 2018)</small>
 
-#### SECCIÓN TERCERA. De los Cambios de Uso y Aprovechamiento del Suelo
+#### SECCIÓN OCTAVA. Del Desarrollo Urbano en Ejidos y Comunidades
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -5285,9 +5411,9 @@ Tratándose de la constitución, ampliación y delimitación de la zona de urban
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCION PRIMERA. Del otorgamiento de las concesiones y permisos
+#### SECCIÓN PRIMERA. De la Cédula Informativa de Zonificación
 
-> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -5305,13 +5431,13 @@ Para su obtención, los interesados deberán incluir en la solicitud respectiva,
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPÍTULO TERCERO. De la Resiliencia Urbana
+### CAPÍTULO SEGUNDO. De los Instrumentos Municipales de Control del Desarrollo Urbano
 
-> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCION SEGUNDA. De las obligaciones de los concesionarios y permisionarios
+#### SECCIÓN SEGUNDA. De la Licencia de Uso del Suelo
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -5335,9 +5461,9 @@ No se requerirá de licencia de uso del suelo para lotes resultantes de conjunto
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCION TERCERA. De los derechos de los concesionarios y permisionarios
+#### SECCIÓN TERCERA. De los Cambios de Uso y Aprovechamiento del Suelo
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
@@ -5381,9 +5507,9 @@ VI. Las autoridades estatales y municipales, en el ámbito de sus respectivas at
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 10 DE ENERO DE 2018)</small>
 
-#### SECCIÓN CUARTA. De los prestadores de servicios electrónicos y proveedores privados de transporte
+#### SECCION PRIMERA. Del otorgamiento de las concesiones y permisos
 
-> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 5.
 
@@ -5403,7 +5529,7 @@ VI. Las demás acciones en la materia, que resulten acordes a las característic
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCION PRIMERA. De los equipos de salvamento y arrastre
+#### SECCION SEGUNDA. De las obligaciones de los concesionarios y permisionarios
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -5413,7 +5539,7 @@ VI. Las demás acciones en la materia, que resulten acordes a las característic
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPÍTULO CUARTO. De la Movilidad Urbana
+### CAPÍTULO TERCERO. De la Resiliencia Urbana
 
 > <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
 
@@ -5445,9 +5571,9 @@ La organización, funcionamiento y consulta del Sistema Estatal se determinará 
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPÍTULO ÚNICO. Del Sistema Estatal
+### CAPÍTULO CUARTO. De la Movilidad Urbana
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2018)</small>
 
 ###### Artículo 5.
 
@@ -5459,7 +5585,7 @@ La organización, funcionamiento y consulta del Sistema Estatal se determinará 
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPÍTULO PRIMERO. De las Medidas de Seguridad
+### CAPÍTULO ÚNICO. Del Sistema Estatal
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5519,7 +5645,7 @@ Las autoridades estatales y municipales en materia de desarrollo urbano podrán 
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPÍTULO SEGUNDO. De las Infracciones y Sanciones
+### CAPÍTULO PRIMERO. De las Medidas de Seguridad
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5551,9 +5677,9 @@ V. Se dejará libre de explotación una franja no menor de veinte metros de anch
 
 VI. Se rehabilitará el terreno laboreado para su aprovechamiento posterior sin riesgo de derrumbes o daños a terceros.
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPÍTULO SEGUNDO. De las Infracciones y Sanciones
 
-> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
@@ -5591,7 +5717,7 @@ La reglamentación de este Libro regulará la integración, organización y func
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 > <small>(REFORMADO, G.G. 2 DE JUNIO DE 2022)</small>
 
@@ -5679,9 +5805,9 @@ XVI. Riesgo: A los daños o pérdidas probables sobre un agente afectable, resul
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 6.
 
@@ -5693,7 +5819,7 @@ XVI. Riesgo: A los daños o pérdidas probables sobre un agente afectable, resul
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO SEGUNDO. Del Sistema Estatal de Protección Civil
+### CAPITULO PRIMERO. Disposiciones generales
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -5703,7 +5829,7 @@ XVI. Riesgo: A los daños o pérdidas probables sobre un agente afectable, resul
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO TERCERO. Del Consejo Estatal de Protección Civil
+### CAPITULO SEGUNDO. Del Sistema Estatal de Protección Civil
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -5889,7 +6015,7 @@ El Premio Estatal de Protección Civil se entregará el 19 de septiembre de cada
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO CUARTO. De los Sistemas y Consejos Municipales de Protección Civil
+### CAPITULO TERCERO. Del Consejo Estatal de Protección Civil
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -5963,9 +6089,9 @@ El consejo contará con los comités, comisiones y grupos de trabajo necesarios 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO QUINTO. De los grupos voluntarios
+### CAPITULO CUARTO. De los Sistemas y Consejos Municipales de Protección Civil
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE JUNIO DE 2022)</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
@@ -6011,9 +6137,9 @@ La información sobre las regiones o zonas geográficas vulnerables a los efecto
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO QUINTO BIS. De los Comités Ciudadanos de Prevención de Protección Civil
+### CAPITULO QUINTO. De los grupos voluntarios
 
-> <small>(ADICIONADO, G.G. 26 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 6.
 
@@ -6057,9 +6183,9 @@ También podrán registrarse de manera individual, como Brigadistas Voluntarios,
 
 > <small>(ADICIONADO [N. DE E. CON LOS ARTÍCULOS QUE LO INTEGRAN], G.G. 26 DE NOVIEMBRE DE 2019)</small>
 
-### CAPITULO SEXTO. De las unidades internas
+### CAPITULO QUINTO BIS. De los Comités Ciudadanos de Prevención de Protección Civil
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, G.G. 26 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 6.
 
@@ -6079,9 +6205,9 @@ También podrán registrarse de manera individual, como Brigadistas Voluntarios,
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO SEPTIMO. Del sistema múltiple de alertas tempranas y emergencias del Estado de México
+### CAPITULO SEXTO. De las unidades internas
 
-> <small>(ADICIONADO, G.G. 12 DE JUNIO DE 2019)</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
@@ -6107,9 +6233,9 @@ El desarrollo del programa de protección civil de las unidades hospitalarias, d
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 12 DE JUNIO DE 2019)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEPTIMO. Del sistema múltiple de alertas tempranas y emergencias del Estado de México
 
-> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2022)</small>
+> <small>(ADICIONADO, G.G. 12 DE JUNIO DE 2019)</small>
 
 ###### Artículo 6.
 
@@ -6309,7 +6435,7 @@ El Registro será público, deberá estar disponible en el portal informativo qu
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO SEGUNDO. De las medidas de seguridad
+### CAPITULO PRIMERO. Disposiciones generales
 
 > <small>(REFORMADO, G.G. 2 DE JUNIO DE 2022)</small>
 
@@ -6319,9 +6445,9 @@ El Registro será público, deberá estar disponible en el portal informativo qu
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO TERCERO. De las infracciones y sanciones
+### CAPITULO SEGUNDO. De las medidas de seguridad
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, G.G. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 6.
 
@@ -6353,9 +6479,9 @@ VI. El aislamiento de áreas afectadas.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO TERCERO. De las infracciones y sanciones
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 6.
 
@@ -6451,7 +6577,7 @@ La imposición de sanciones se hará sin perjuicio de cualquier otra responsabil
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -6473,7 +6599,7 @@ La imposición de sanciones se hará sin perjuicio de cualquier otra responsabil
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO PRIMERO. Clasificación
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -6495,9 +6621,9 @@ III. La Secretaría de Finanzas, a quien corresponde las atribuciones relativas 
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO SEGUNDO. De los vehículos
+### CAPITULO PRIMERO. Clasificación
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
@@ -6539,9 +6665,9 @@ En la normatividad reglamentaria respectiva podrán establecerse otras modalidad
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO TERCERO. De los conductores y propietarios
+### CAPITULO SEGUNDO. De los vehículos
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 7.
 
@@ -6615,7 +6741,7 @@ Asimismo, podrá otorgar permisos para transportar carga comercial en vehículos
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO TERCERO. De los conductores y propietarios
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -6701,7 +6827,7 @@ III. Utilizar vehículos que reúnan las condiciones de peso, dimensión, capaci
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO SEGUNDO. De las obligaciones de los concesionarios y permisionarios
+### CAPITULO PRIMERO. Disposiciones generales
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -6791,7 +6917,7 @@ Queda prohibido el otorgamiento de concesión, permiso o autorización a vehícu
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO TERCERO. De las concesiones y permisos
+### CAPITULO SEGUNDO. De las obligaciones de los concesionarios y permisionarios
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -6909,7 +7035,7 @@ La garantía podrá constituirse por un lapso que en ningún caso comprenderá l
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO CUARTO. De la terminación y revocación
+### CAPITULO TERCERO. De las concesiones y permisos
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -6939,9 +7065,9 @@ III. Requerirán autorización previa para la constitución de garantías. Bajo 
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO PRIMERO. Disposiciones Generales
+### CAPITULO CUARTO. De la terminación y revocación
 
-> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
@@ -7051,9 +7177,9 @@ El Registro Estatal de Transporte será público, tendrá efectos declarativos y
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-### CAPITULO SEGUNDO. De la Autoridad y sus Atribuciones
+### CAPITULO PRIMERO. Disposiciones Generales
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
@@ -7089,9 +7215,9 @@ XI. Tráiler, autobuses y cualquier tipo de remolques: Es un vehículo de carga 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-### CAPITULO TERCERO. De las Concesiones
+### CAPITULO SEGUNDO. De la Autoridad y sus Atribuciones
 
-> <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 7.
 
@@ -7131,11 +7257,11 @@ VIII. Las demás señaladas por otros ordenamientos jurídicos aplicables.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO] CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-### CAPITULO CUARTO. Del servicio público auxiliar de salvamento y arrastre vehicular
+### CAPITULO TERCERO. De las Concesiones
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCION SEGUNDA. De la prestación del servicio
+#### SECCION TERCERA. De los derechos de los concesionarios y permisionarios
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -7167,7 +7293,9 @@ VIII. Las establecidas por otras disposiciones generales administrativas.
 
 I. Tratándose del servicio público auxiliar de depósito y guarda de vehículos, además deberá acreditar:
 
-a) La propiedad del inmueble donde vayan a depositarse los vehículos, cuya superficie no podrá ser menor de una hectárea;
+> <small>(REFORMADO, G.G. 21 DE JUNIO DE 2022)</small>
+
+a) La propiedad y/o posesión del inmueble donde vayan a depositarse los vehículos, cuya superficie no podrá ser por ninguna razón menor a cinco mil metros cuadrados (5,000 mts2). La propiedad se acreditará mediante escritura pública o en su caso la posesión con contrato de arrendamiento con plazo forzoso a diez años debidamente ratificado ante Notario Público, y en ambos supuestos registrados ante el Registro Público de la Propiedad y del Comercio, Instituto de la Función Registral o ante la instancia correspondiente.
 
 b) Contar con permiso o autorización de uso de suelo, expedido por autoridad competente.
 
@@ -7315,17 +7443,21 @@ II. Perder, por cualquier causa, en perjuicio del concesionario, la propiedad o 
 
 III. Cambiar el objeto social del concesionario, haciéndose incompatible con la prestación del servicio, tratándose de personas jurídicas colectivas.
 
+> <small>(ADICIONADA, G.G. 21 DE JUNIO DE 2022)</small>
+
+IV. Para el caso del Servicio Auxiliar de Arrastre, Salvamento, Guarda, Custodia y Depósito de Vehículos, el permisionario y/o concesionario que no cuente con póliza de seguro vigente, además, se hará acreedor a una multa conforme al artículo 7.84 de este ordenamiento.
+
 La revocación de la concesión tiene por efecto, la pérdida definitiva de los derechos de explotación de la concesión.
 
-> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 21 DE JUNIO DE 2022)</small>
 
-En el caso del servicio público auxiliar de depósito y guarda vehicular, una vez emitido y publicado el Acuerdo de revocación, la Secretaría de Movilidad, aún mediante el uso de la fuerza pública, tomará posesión de los vehículos depositados y de los archivos, bitácoras, registros y documentación que los ampare, trasladándolos a costa del concesionario, a otro establecimiento concesionado o proveyendo las medidas urgentes que resulten necesarias para garantizar la debida conservación y cuidado de los bienes depositados.
+En el caso del Servicio Público Auxiliar de Guarda, Custodia y Depósito de Vehículos una vez emitido y publicado el Acuerdo de revocación, la Secretaría de Movilidad, de ser necesario, mediante el uso de la fuerza pública, tomará posesión de los vehículos depositados y de los archivos, bitácoras, registros y documentación que los ampare, trasladándolos a costa del concesionario a otro establecimiento concesionado o proveyendo las medidas urgentes que resulten necesarias para garantizar la debida conservación y cuidado de los bienes depositados.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCION PRIMERA. Condiciones del servicio
+#### SECCIÓN CUARTA. De los prestadores de servicios electrónicos y proveedores privados de transporte
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 7.
 
@@ -7397,7 +7529,9 @@ III. Entregar, a quien solicite el salvamento y arrastre del vehículo respectiv
 
 IV. Llevar un registro físico y electrónico de control, debidamente pormenorizado, que contenga los datos de los vehículos a los que se les realice un servicio de salvamento y arrastre, indicando la causa o motivo de la solicitud, la fecha y hora de la misma, la autoridad que lo solicitó y el lugar de depósito o destino final, según lo indicado por la autoridad;
 
-V. Respetar las tarifas establecidas para la prestación del servicio, que deberán encontrarse en un cartel de cuando menos un metro cuadrado, visible en las oficinas de atención al público, del establecimiento donde se depositen los vehículos;
+> <small>(REFORMADA, G.G. 21 DE JUNIO DE 2022)</small>
+
+V. Las maniobras especiales se calcularán de conformidad con lo establecido en el tabulador correspondiente en lo relativo al rubro de maniobras de salvamento;
 
 > <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
 
@@ -7413,7 +7547,7 @@ IX. Las demás que establezcan otras disposiciones legales y administrativas.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCION SEGUNDA. De los lugares de depósito
+#### SECCION PRIMERA. De los equipos de salvamento y arrastre
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -7445,7 +7579,7 @@ III. Los demás que le otorguen otras disposiciones jurídicas.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 12 DE AGOSTO DE 2015)</small>
 
-#### SECCION TERCERA. De la recepción de los vehículos
+#### SECCION SEGUNDA. De la prestación del servicio
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -7495,11 +7629,11 @@ No será limitado el número de unidades mínimo o máximo, ni se impondrán req
 
 > <small>(REFORMADO [N. DE E. ADICIONADO] CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-### CAPITULO QUINTO. Del servicio público auxiliar de depósito y guarda vehicular
+### CAPITULO CUARTO. Del servicio público auxiliar de salvamento y arrastre vehicular
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCION CUARTA. De la custodia, conservación y devolución de los vehículos
+#### SECCION PRIMERA. Condiciones del servicio
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -7525,17 +7659,17 @@ La capacidad máxima de arrastre o traslado por tipo de grúa estará en funció
 
 Las unidades deben contar con una placa legible e indeleble de 0.15 m por 0.20 m en el exterior del vehículo en un lugar visible al usuario, en la que se indique su tipo, peso bruto vehicular máximo de carga de la grúa o plataforma.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.G. 21 DE JUNIO DE 2022)</small>
 
 ###### Artículo 7.
 
-60.- Los vehículos destinados para prestar el servicio de grúa, deberán contar con una antigüedad no mayor a diez años, a partir del año de su fabricación y deberán contar con los elementos que se establezcan en la disposición administrativa correspondiente.
+60.- Los vehículos destinados para prestar el servicio de grúa, deberán contar con una antigüedad no mayor a diez años, a partir del año de su fabricación, deberán estar dotados de cámaras de video en lugares adecuados que permitan garantizar la integridad de los vehículos y evitar actos de corrupción; así como con los demás elementos que se establezcan en las disposiciones generales administrativas correspondientes que emita la Secretaría de Movilidad.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCION PRIMERA. Consideraciones Generales
+#### SECCION SEGUNDA. De los lugares de depósito
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
@@ -7583,13 +7717,13 @@ La Secretaría de Movilidad elaborará y comunicará a los permisionarios, los f
 
 > <small>(REFORMADO [N. DE E. ADICIONADO] CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-### CAPITULO SEXTO. De los vehículos, tráileres, autobuses y cualquier tipo de remolques abandonados
+### CAPITULO QUINTO. Del servicio público auxiliar de depósito y guarda vehicular
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCIÓN SEGUNDA. De la declaración de abandono, enajenación y reciclaje de vehículos
+#### SECCION TERCERA. De la recepción de los vehículos
 
-> <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
@@ -7607,9 +7741,9 @@ En los lugares, en los que no se cuente con establecimientos autorizados para pr
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON EL ARTÍCULO QUE LA INTEGRA, G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCION PRIMERA. De las facultades de la Secretaría del Campo
+#### SECCION CUARTA. De la custodia, conservación y devolución de los vehículos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
@@ -7621,9 +7755,13 @@ II. Debe contar con espacio para la atención a usuarios y actividades de las pe
 
 III. Contar con vigilancia las veinticuatro horas del día;
 
-IV. El depósito deberá distinguirse al público en lugares visibles, por medio de rótulos que muestren la razón social, requisitos para la liberación de vehículos y tarifa vigente. De igual forma, dentro de sus instalaciones deben contar con salidas de emergencia y rutas de evacuación debidamente señaladas. Las especificaciones de dichos rótulos, salidas y señalamientos se precisarán en la Norma Técnica respectiva y demás disposiciones generales administrativas;
+> <small>(REFORMADA, G.G. 21 DE JUNIO DE 2022)</small>
 
-V. Debe contar con los seguros de daños y/o fondos de garantía que aseguren el pago de daños que pudieran sufrir los vehículos arrastrados y/o depositados imputables al prestador del servicio, así como los terceros que resultaren perjudicados en sus bienes o personas, debido a las actividades que desarrollan las grúas, los depósitos, el seguro a grúas y depósito de vehículos estará en función del tamaño del depósito y el número de vehículos en resguardo, en términos de la Norma Técnica respectiva y demás disposiciones generales administrativas;
+IV. El depósito deberá distinguirse al público en lugares visibles, por medio de rótulos que muestren la razón social, requisitos para la liberación de vehículos y tarifa vigente. De igual forma, dentro de sus instalaciones deben contar con salidas de emergencia y rutas de evacuación debidamente señaladas. Las especificaciones de dichos rótulos, salidas y señalamientos se precisarán en las disposiciones generales administrativas que emita la Secretaría de Movilidad;
+
+> <small>(REFORMADA, G.G. 21 DE JUNIO DE 2022)</small>
+
+V. Debe mantener una póliza de seguro vigente contratada con una compañía aseguradora legalmente aprobada por las autoridades financieras hacendarias correspondientes, que aseguren el pago de daños que pudieran sufrir los usuarios y los vehículos depositados y/o arrastrados imputables al prestador del servicio, así como a los terceros que resultaren perjudicados en sus bienes o persona, en términos de las disposiciones generales administrativas que emita la Secretaría de Movilidad.
 
 VI. Los horarios de servicio, el manejo de los sellos, la instalación de buzones de quejas y sugerencias y el procedimiento serán especificados en las demás disposiciones generales administrativas;
 
@@ -7631,9 +7769,9 @@ VII. Las demás previstas en la Norma Técnica respectiva y demás disposiciones
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCION SEGUNDA. Del Instituto de Investigación y Capacitación Agropecuaria, Acuícola y Forestal del Estado de México
+#### SECCION PRIMERA. Consideraciones Generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 7.
 
@@ -7697,7 +7835,9 @@ La Secretaría de Movilidad elaborará y comunicará a los concesionarios, forma
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCION PRIMERA. Del Consejo Consultivo Económico Estatal
+#### SECCIÓN SEGUNDA. De la declaración de abandono, enajenación y reciclaje de vehículos
+
+> <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 7.
 
@@ -7713,23 +7853,29 @@ La liberación de vehículos ordenada por autoridad judicial o administrativa, n
 
 Una vez cubiertos los requisitos antes referidos el concesionario entregará el vehículo conforme a lo dispuesto en el artículo 7.52 fracción IV, de este Libro.
 
-> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.G. 21 DE JUNIO DE 2022)</small>
 
 ###### Artículo 7.
 
 71.- Si al momento de la devolución del vehículo, el interesado detectare faltantes o averías que no consten en el inventario, podrá presentar una queja ante la Secretaría de Movilidad, dentro de los quince días hábiles siguientes al momento en que le fue entregado.
 
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
+
 Recibida la queja, la Secretaría de Movilidad citará al agraviado y al concesionario a una audiencia, que se llevará a cabo dentro de los diez días hábiles siguientes a la recepción de la queja, en la que se procurará una conciliación.
+
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2017)</small>
 
 De no lograrse la conciliación, la Secretaría de Movilidad emitirá la resolución correspondiente.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-### CAPITULO PRIMERO. De las medidas de seguridad
+### CAPITULO SEXTO. De los vehículos, tráileres, autobuses y cualquier tipo de remolques abandonados
 
-> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCION SEGUNDA. De los consejos consultivos económicos regionales y municipales
+#### SECCION PRIMERA. De las facultades de la Secretaría del Campo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 7.
 
@@ -7749,9 +7895,9 @@ Los vehículos, tráileres, autobuses y cualquier tipo de remolques a que se ref
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
-#### SECCION PRIMERA. Disposiciones generales
+#### SECCION SEGUNDA. Del Instituto de Investigación y Capacitación Agropecuaria, Acuícola y Forestal del Estado de México
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE JUNIO DE 2016)</small>
 
 ###### Artículo 7.
 
@@ -7837,7 +7983,7 @@ La Secretaría del Medio Ambiente podrá diseñar programas para el reciclaje de
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-### CAPÍTULO SEGUNDO. De las infracciones y sanciones
+### CAPITULO PRIMERO. De las medidas de seguridad
 
 > <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -7855,9 +8001,9 @@ La retención del vehículo podrá determinarse hasta que las faltas que dieron 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPÍTULO SEGUNDO. De las infracciones y sanciones
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
@@ -7904,6 +8050,22 @@ Las sanciones anteriores se impondrán cuando para la infracción cometida no ex
 > <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 I. Multa de quinientas a dos mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, a quien preste el servicio público de transporte sin la concesión o permiso correspondiente o sin la cromática respectiva para los concesionarios, y que la misma sea reproducida y utilizada por vehículos no concesionados.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], G.G. 21 DE JUNIO DE 2022)</small>
+
+Se impondrá la misma sanción en los siguientes supuestos:
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+
+a) En caso de que el concesionario y/o permisionario del Servicio Auxiliar de Arrastre, Salvamento, Guarda, Custodia y Depósito de Vehículos, sin causa justificada, no observen las disposiciones generales administrativas que sobre la materia emita la Secretaría de Movilidad.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+
+b) En caso de que el concesionario y/o permisionario del Servicio auxiliar de arrastre, salvamento, guarda, custodia y depósito de vehículos omita registrar algún concepto o dato o registre información falsa, además, de esta multa, no cobrará el servicio prestado.
+
+> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+
+c) En el caso de que el concesionario y/o permisionario del Servicio Auxiliar de Arrastre, Salvamento, Guarda, Custodia y Depósito de Vehículos no cuente con póliza de seguro vigente contratada con una compañía aseguradora legalmente aprobada por las autoridades financieras hacendarias correspondientes, que aseguren el pago de daños que pudieran sufrir los usuarios y los vehículos depositados y/o arrastrados imputables al prestador del servicio, así como a los terceros que resultaren perjudicados en sus bienes o persona.
 
 > <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -8011,9 +8173,9 @@ V. Omitir tener contratada y vigente la póliza de seguro de responsabilidad civ
 
 ## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO PRIMERO. Del objeto y finalidad
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
@@ -8025,7 +8187,9 @@ V. Omitir tener contratada y vigente la póliza de seguro de responsabilidad civ
 
 2.- Las disposiciones de este Libro tienen como finalidad garantizar la seguridad de los peatones, conductores y pasajeros que utilizan la infraestructura vial, así como llevar a cabo un efectivo registro de aquellas unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas.
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 8.
 
@@ -8035,7 +8199,7 @@ Corresponde a la Secretaría de Seguridad ejercer las atribuciones relativas al 
 
 ## TITULO SEGUNDO. Del tránsito
 
-### CAPITULO SEGUNDO. De los vehículos
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 8.
 
@@ -8097,7 +8261,7 @@ Las autoridades deberán presentar a los conductores ante el Oficial Calificador
 
 Una vez expedidos los programas a que se refiere esta fracción, por las autoridades correspondientes, deberán ser publicados en el Periódico Oficial "Gaceta del Gobierno", en los medios oficiales de los municipios y en un diario de mayor circulación en esta Entidad Federativa.
 
-### CAPITULO TERCERO. De los conductores
+### CAPITULO SEGUNDO. De los vehículos
 
 ###### Artículo 8.
 
@@ -8177,9 +8341,7 @@ De igual forma se exceptúa de esta prohibición el transporte y traslado de ár
 
 15.- Las autoridades de tránsito podrán establecer restricciones para el tránsito de vehículos con el propósito de mejorar la circulación, preservar el ambiente y salvaguardar la seguridad de las personas, sus bienes y el orden público.
 
-### CAPITULO PRIMERO. De los estacionamientos de servicio al público
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE JUNIO DE 2019)</small>
+### CAPITULO TERCERO. De los conductores
 
 ###### Artículo 8.
 
@@ -8255,9 +8417,9 @@ III. Someterse a las pruebas para la detección del grado de intoxicación que d
 
 > <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
 
-### CAPÍTULO SEGUNDO. De los Vehículo (sic) Abandonados en Estacionamientos de Servicio al Público y en Infraestructura Vial
+### CAPITULO PRIMERO. De los estacionamientos de servicio al público
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE JUNIO DE 2019)</small>
 
 ###### Artículo 8.
 
@@ -8267,9 +8429,9 @@ Para efectos del párrafo anterior, se consideran estacionamientos de servicio a
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPÍTULO SEGUNDO. De los Vehículo (sic) Abandonados en Estacionamientos de Servicio al Público y en Infraestructura Vial
 
-> <small>(REFORMADO, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
@@ -8557,9 +8719,9 @@ II. Multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualizaci
 
 ## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO PRIMERO. Del objeto y finalidad
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 6 DE JUNIO DE 2016)</small>
 
 ###### Artículo 9.
 
@@ -8571,7 +8733,7 @@ II. Multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualizaci
 
 2.- Las disposiciones de este Libro tienen como finalidad lograr en la Entidad un incremento sostenido de las actividades agropecuarias, de la acuacultura, apicultura y el agave para contribuir al desarrollo rural del Estado.
 
-### CAPITULO TERCERO. De las organizaciones de productores
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
@@ -8595,15 +8757,19 @@ III. Vigilar el control sanitario en la movilización de la agricultura, acuacul
 
 IV. Fomentar la rotación, asociación de cultivos y cultivos múltiples para la conservación del suelo y sostenibilidad del campo mexiquense.
 
+> <small>(ADICIONADA, G.G. 21 DE JUNIO DE 2022)</small>
+
+V. Fomentar y promover la producción y distribución de productos agrícolas que se desarrollen en el campo mexiquense, priorizando el consumo y comercialización interno del Estado.
+
 > <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
 
-V. Las demás que señale este Libro, su Reglamento y otras disposiciones jurídicas aplicables en la materia.
+VI. Las demás que señale este Libro, su Reglamento y otras disposiciones jurídicas aplicables en la materia.
 
 ###### Artículo 9.
 
 4.- Los municipios podrán participar en las acciones reguladas en este Libro.
 
-### CAPITULO PRIMERO. De la producción y transformación
+### CAPITULO TERCERO. De las organizaciones de productores
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
@@ -8619,7 +8785,7 @@ Se entiende por productor rural a la persona física que directa o indirectament
 
 ## TITULO SEGUNDO. Del Fomento y Desarrollo de las Actividades Agropecuarias, de la Acuacultura, Apicultura y el Agave
 
-### CAPITULO SEGUNDO. De la comercialización
+### CAPITULO PRIMERO. De la producción y transformación
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
@@ -8651,11 +8817,15 @@ IX. La utilización de instrumentos de mercado para la administración de riesgo
 
 X. La producción agroecológica en el Estado de México, desarrollando programas de capacitación, investigación e inversión para implementar la rotación, cultivos múltiples y asociación de cultivos buscando el equilibrio entre la responsabilidad ecológica, la viabilidad económica y la justicia social en la producción agropecuaria.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE AGOSTO DE 2019)</small>
+> <small>(ADICIONADA, G.G. 21 DE JUNIO DE 2022)</small>
+
+XI. Fomentar y promover la producción y distribución de granos, frutas, legumbres, semillas, así como productos de origen animal que se produzcan en el territorio mexiquense, teniendo como eje prioritario atender el consumo y comercialización interno del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE JUNIO DE 2022)</small>
 
 ###### Artículo 9.
 
-7. El impulso del desarrollo agropecuario, de la acuacultura, apicultura y el agave tendrá presente en todo momento el desarrollo sustentable de la producción primaria bajo criterios de conservación, recuperación, rehabilitación y uso óptimo de los suelos con rotación y asociación de cultivos, del agua y demás recursos naturales, así como de prevención y mitigación del impacto ambiental y de las emisiones de gases de efecto invernadero de las actividades productivas en los ecosistemas y la biodiversidad.
+7.- El impulso del desarrollo agropecuario, de la acuacultura, apicultura y el agave tendrá presente en todo momento un eje prioritario de atender el consumo y comercialización interno (sic) del Estado, atendiendo el desarrollo sustentable de la producción primaria bajo criterios de conservación, recuperación, rehabilitación y uso óptimo de los suelos con rotación y asociación de cultivos, del agua y demás recursos naturales, así como de prevención y mitigación del impacto ambiental y de las emisiones de gases de efecto invernadero de las actividades productivas en los ecosistemas y la biodiversidad.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
@@ -8673,9 +8843,13 @@ IV. La erradicación del sistema de rosa, tumba y quema y de incendios inducidos
 
 V. Un modelo de agricultura sostenible, inclusiva y eficaz en el uso de los recursos, a través de la implementación de rotación, asociación de cultivos y cultivos múltiples que lleve a la adaptación de la agroecología.
 
-### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
+> <small>(ADICIONADA, G.G. 21 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+VI. Fomentar y promover la producción y distribución de granos, frutas, legumbres, semillas, así como productos de origen animal que se desarrollen en el territorio mexiquense, teniendo como eje prioritario atender el consumo y comercialización interno del Estado, con políticas y programas de enfoque local.
+
+### CAPITULO SEGUNDO. De la comercialización
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 9.
 
@@ -8707,11 +8881,11 @@ VII. La integración de cadenas productivas, y mecanismos que permitan la obtenc
 
 VIII. La certificación en la calidad, inocuidad y producción orgánica de los productos y subproductos agropecuarios, de la acuacultura, apicultura y el agave.
 
-### CAPITULO CUARTO
+### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
 
-#### SECCION SEGUNDA. De la licitación pública
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+#### SECCION PRIMERA. Del Consejo Consultivo Económico Estatal
 
 ###### Artículo 9.
 
@@ -8737,9 +8911,7 @@ VI. La actualización y modernización de los programas educativos en la materia
 
 VII. La integración de un directorio de profesionistas individuales o asociados para facilitar a los productores la contratación de los servicios técnicos y de asesoría que requieran.
 
-#### SECCION TERCERA. De las excepciones a la licitación pública
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+#### SECCION SEGUNDA. De los consejos consultivos económicos regionales y municipales
 
 ###### Artículo 9.
 
@@ -8821,9 +8993,7 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 > <small>(DEROGADA SU DENOMINACIÓN, G.G. 6 DE JUNIO DE 2016)</small>
 
-### CAPITULO QUINTO. De los apoyos y estímulos
-
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+### CAPITULO CUARTO
 
 ###### Artículo 9.
 
@@ -8837,9 +9007,9 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 15.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-### CAPITULO PRIMERO. De las Medidas Sanitarias
+### CAPITULO QUINTO. De los apoyos y estímulos
 
-> <small>(ADICIONADO, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 9.
 
@@ -8879,9 +9049,9 @@ VII. Considerar a quienes no puedan por sí mismos llevar a cabo las inversiones
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE JUNIO DE 2016)</small>
 
-### CAPITULO SEGUNDO. De las Infracciones y Sanciones
+### CAPITULO PRIMERO. De las Medidas Sanitarias
 
-> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO], G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(ADICIONADO, G.G. 6 DE JUNIO DE 2016)</small>
 
 ###### Artículo 9.
 
@@ -8917,7 +9087,9 @@ X. Las demás que establezca el Reglamento.
 
 > <small>(ADICIONADO, G.G. 6 DE JUNIO DE 2016)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO SEGUNDO. De las Infracciones y Sanciones
+
+> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO], G.G. 6 DE JUNIO DE 2016)</small>
 
 ###### Artículo 9.
 
@@ -8981,7 +9153,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 10.
 
@@ -8993,9 +9165,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO TERCERO. De los consejos consultivos económicos
-
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 ###### Artículo 10.
 
@@ -9011,9 +9181,11 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO TERCERO. De los consejos consultivos económicos
 
-#### SECCION CUARTA. De la invitación restringida
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+
+#### SECCION PRIMERA. Disposiciones generales
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -9031,7 +9203,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-#### SECCION QUINTA. De la adjudicación directa
+#### SECCION SEGUNDA. De la licitación pública
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -9045,7 +9217,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO SEGUNDO. Del Instituto de Investigación y Fomento de las Artesanías del Estado de México
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 10.
 
@@ -9061,7 +9233,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO TERCERO. Del Instituto de Fomento Minero y Estudios Geológicos del Estado de México
+### CAPITULO SEGUNDO. Del Instituto de Investigación y Fomento de las Artesanías del Estado de México
 
 ###### Artículo 10.
 
@@ -9077,7 +9249,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO CUARTO. Del turismo
+### CAPITULO TERCERO. Del Instituto de Fomento Minero y Estudios Geológicos del Estado de México
 
 ###### Artículo 10.
 
@@ -9093,7 +9265,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO CUARTO. Del turismo
 
 ###### Artículo 10.
 
@@ -9153,7 +9325,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 11.
 
@@ -9169,7 +9341,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO TERCERO. Del Sistema para el Desarrollo Integral de la Familia del Estado de México
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 ###### Artículo 11.
 
@@ -9189,7 +9361,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO CUARTO. Del Consejo Estatal para la Protección de las Personas con Discapacidad y su Integración al Desarrollo Social
+### CAPITULO TERCERO. Del Sistema para el Desarrollo Integral de la Familia del Estado de México
 
 ###### Artículo 11.
 
@@ -9197,7 +9369,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPÍTULO PRIMERO. Disposiciones generales
+### CAPITULO CUARTO. Del Consejo Estatal para la Protección de las Personas con Discapacidad y su Integración al Desarrollo Social
 
 ###### Artículo 11.
 
@@ -9217,7 +9389,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO SEGUNDO. De la atención médica
+### CAPÍTULO PRIMERO. Disposiciones generales
 
 ###### Artículo 11.
 
@@ -9229,7 +9401,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO TERCERO. De la educación regular y especial
+### CAPITULO SEGUNDO. De la atención médica
 
 ###### Artículo 11.
 
@@ -9253,7 +9425,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO CUARTO. De la orientación y rehabilitación para el trabajo
+### CAPITULO TERCERO. De la educación regular y especial
 
 ###### Artículo 11.
 
@@ -9287,7 +9459,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO QUINTO. Del tránsito y transporte
+### CAPITULO CUARTO. De la orientación y rehabilitación para el trabajo
 
 ###### Artículo 11.
 
@@ -9309,7 +9481,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO SEXTO. De las facilidades urbanísticas y arquitectónicas
+### CAPITULO QUINTO. Del tránsito y transporte
 
 ###### Artículo 11.
 
@@ -9329,9 +9501,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO SEPTIMO. De las actividades deportivas, recreativas y culturales
-
-> <small>N. DE E. DEL ANÁLISIS REALIZADO SE ADVIERTE QUE CON FECHA 14 DE MAYO DE 2014 EL LEGISLADOR REFORMA EL ARTÍCULO 11.36 "... El Gobierno del Estado, a través de la Secretaría de Educación y demás dependencias y organismos auxiliares competentes, apoyarán programas de promoción deportiva y desarrollo socio-cultural que permitan la integración de las personas con discapacidad."; SIN EMBARGO, DICHO ARTÍCULO FUE DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO NÚMERO 523, PUBLICADO EN LA G.G. DEL 31 DE AGOSTO DE 2012.</small>
+### CAPITULO SEXTO. De las facilidades urbanísticas y arquitectónicas
 
 ###### Artículo 11.
 
@@ -9343,7 +9513,9 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO OCTAVO. De la atención integral a las personas con discapacidad
+### CAPITULO SEPTIMO. De las actividades deportivas, recreativas y culturales
+
+> <small>N. DE E. DEL ANÁLISIS REALIZADO SE ADVIERTE QUE CON FECHA 14 DE MAYO DE 2014 EL LEGISLADOR REFORMA EL ARTÍCULO 11.36 "... El Gobierno del Estado, a través de la Secretaría de Educación y demás dependencias y organismos auxiliares competentes, apoyarán programas de promoción deportiva y desarrollo socio-cultural que permitan la integración de las personas con discapacidad."; SIN EMBARGO, DICHO ARTÍCULO FUE DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO NÚMERO 523, PUBLICADO EN LA G.G. DEL 31 DE AGOSTO DE 2012.</small>
 
 ###### Artículo 11.
 
@@ -9351,7 +9523,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO NOVENO. De la atención y orientación a familiares de las personas con discapacidad o terceros
+### CAPITULO OCTAVO. De la atención integral a las personas con discapacidad
 
 ###### Artículo 11.
 
@@ -9363,9 +9535,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+### CAPITULO NOVENO. De la atención y orientación a familiares de las personas con discapacidad o terceros
 
 ###### Artículo 11.
 
@@ -9407,7 +9577,7 @@ VI. Las demás que establezca el Reglamento y otras disposiciones jurídicas apl
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. De la planeación, programación y presupuestación
+### CAPITULO PRIMERO. Disposiciones generales
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -9579,9 +9749,9 @@ La invalidez podrá ser declarada de oficio en sede administrativa por la depend
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO TERCERO. De los procedimientos de adjudicación
+### CAPITULO SEGUNDO. De la planeación, programación y presupuestación
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -9713,11 +9883,13 @@ IV. Las demás que establezca el Reglamento respectivo.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO CUARTO. De la contratación
+### CAPITULO TERCERO. De los procedimientos de adjudicación
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+#### SECCION TERCERA. De las excepciones a la licitación pública
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
-
-#### SECCION PRIMERA. Disposiciones generales
 
 ###### Artículo 12.
 
@@ -9735,7 +9907,9 @@ II. Adjudicación directa.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-#### SECCION SEGUNDA. De la licitación pública
+#### SECCION CUARTA. De la invitación restringida
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -9845,7 +10019,9 @@ Lo dispuesto en este artículo será aplicable para los procedimientos de invita
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-#### SECCION TERCERA. De las excepciones a la licitación pública
+#### SECCION QUINTA. De la adjudicación directa
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -9863,7 +10039,7 @@ El procedimiento de invitación restringida se desarrollará en los términos de
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-#### SECCION CUARTA. De la invitación restringida
+#### SECCION PRIMERA. Disposiciones generales
 
 ###### Artículo 12.
 
@@ -9887,7 +10063,7 @@ II. Las obras o servicios a contratar, no rebasen los montos establecidos por el
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-#### SECCION QUINTA. De la adjudicación directa
+#### SECCION SEGUNDA. De la licitación pública
 
 ###### Artículo 12.
 
@@ -9919,7 +10095,7 @@ XI. Las obras o servicios a contratar, no rebasen los montos establecidos por el
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO QUINTO. De la ejecución
+### CAPITULO CUARTO. De la contratación
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -10073,7 +10249,7 @@ En el supuesto de la fracción II, el contratista afectado podrá demandar la re
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEXTO. De la administración directa
+### CAPITULO QUINTO. De la ejecución
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -10189,7 +10365,7 @@ Las dependencias y entidades deberán presentar a la Secretaría de Finanzas o a
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEPTIMO. De la información, verificación y control
+### CAPITULO SEXTO. De la administración directa
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -10221,7 +10397,7 @@ V. Utilizar servicios de fletes y acarreos complementarios.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO OCTAVO. De los medios de defensa
+### CAPITULO SEPTIMO. De la información, verificación y control
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -10249,9 +10425,9 @@ V. Utilizar servicios de fletes y acarreos complementarios.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO NOVENO. Del Procedimiento de Evaluación de Confianza de los Responsables del Seguimiento de la Obra Pública
+### CAPITULO OCTAVO. De los medios de defensa
 
-> <small>(ADICIONADO, G.G. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -10331,9 +10507,9 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 18 DE NOVIEMBRE DE 2015)</small>
 
-### CAPITULO DECIMO. DE LAS INFRACCIONES Y SANCIONES
+### CAPITULO NOVENO. Del Procedimiento de Evaluación de Confianza de los Responsables del Seguimiento de la Obra Pública
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, G.G. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 12.
 
@@ -10365,7 +10541,9 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 18 DE NOVIEMBRE DE 2015)</small>
 
-### CAPITULO PRIMERO. Parte general
+### CAPITULO DECIMO. DE LAS INFRACCIONES Y SANCIONES
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 12.
 
@@ -10383,7 +10561,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO SEGUNDO. De la planeación, programación y sistematización
+### CAPITULO PRIMERO. Parte general
 
 ###### Artículo 13.
 
@@ -10419,7 +10597,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO TERCERO. De la sistematización
+### CAPITULO SEGUNDO. De la planeación, programación y sistematización
 
 ###### Artículo 13.
 
@@ -10455,7 +10633,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO CUARTO. De las operaciones consolidadas
+### CAPITULO TERCERO. De la sistematización
 
 ###### Artículo 13.
 
@@ -10467,7 +10645,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO QUINTO. De los catálogos
+### CAPITULO CUARTO. De las operaciones consolidadas
 
 ###### Artículo 13.
 
@@ -10475,7 +10653,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO SEXTO. De la integración y funciones de los Comités
+### CAPITULO QUINTO. De los catálogos
 
 ###### Artículo 13.
 
@@ -10487,9 +10665,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO SEPTIMO. De los procedimientos de adquisición
-
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
+### CAPITULO SEXTO. De la integración y funciones de los Comités
 
 ###### Artículo 13.
 
@@ -10513,9 +10689,11 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO OCTAVO. De las enajenaciones
+### CAPITULO SEPTIMO. De los procedimientos de adquisición
 
-#### SECCIÓN SEXTA. De la Subasta Inversa Electrónica
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
+
+#### SECCION TERCERA. De las excepciones a la licitación pública
 
 ###### Artículo 13.
 
@@ -10527,7 +10705,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-#### SECCION PRIMERA. De la subasta pública
+#### SECCION CUARTA. De la invitación restringida
 
 ###### Artículo 13.
 
@@ -10575,9 +10753,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-#### SECCION PRIMERA. Del comité consultivo estatal de normalización técnica de la construcción
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+#### SECCION QUINTA. De la adjudicación directa
 
 ###### Artículo 13.
 
@@ -10585,9 +10761,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-#### SECCION SEGUNDA. De la expedición de las normas técnicas
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+#### SECCIÓN SEXTA. De la Subasta Inversa Electrónica
 
 ###### Artículo 13.
 
@@ -10607,6 +10781,8 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
+#### SECCION PRIMERA. De la subasta pública
+
 ###### Artículo 13.
 
 45.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
@@ -10620,6 +10796,10 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 47.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
+
+#### SECCION PRIMERA. Del comité consultivo estatal de normalización técnica de la construcción
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 13.
 
@@ -10635,7 +10815,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON LA SECCIONE Y LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO NOVENO. De los contratos
+### CAPITULO OCTAVO. De las enajenaciones
 
 ###### Artículo 13.
 
@@ -10646,6 +10826,10 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 49.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
+
+#### SECCION SEGUNDA. De la expedición de las normas técnicas
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 13.
 
@@ -10685,7 +10869,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO DECIMO. De las garantías
+### CAPITULO NOVENO. De los contratos
 
 ###### Artículo 13.
 
@@ -10729,7 +10913,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO DECIMO PRIMERO. De los contratos abiertos
+### CAPITULO DECIMO. De las garantías
 
 ###### Artículo 13.
 
@@ -10745,7 +10929,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO DECIMO SEGUNDO. De la información y verificación
+### CAPITULO DECIMO PRIMERO. De los contratos abiertos
 
 ###### Artículo 13.
 
@@ -10757,7 +10941,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO DECIMO TERCERO. De las infracciones y sanciones
+### CAPITULO DECIMO SEGUNDO. De la información y verificación
 
 ###### Artículo 13.
 
@@ -10777,7 +10961,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO DECIMO CUARTO. De la instancia de inconformidad
+### CAPITULO DECIMO TERCERO. De las infracciones y sanciones
 
 ###### Artículo 13.
 
@@ -10785,9 +10969,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-### CAPITULO PRIMERO. De las disposiciones generales
-
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+### CAPITULO DECIMO CUARTO. De la instancia de inconformidad
 
 ###### Artículo 13.
 
@@ -10819,7 +11001,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO SEGUNDO. Del Sistema Estatal de Información e Investigación
+### CAPITULO PRIMERO. De las disposiciones generales
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -11095,7 +11277,7 @@ V. Las personas cuya colaboración se requiera.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO TERCERO. Del servicio
+### CAPITULO SEGUNDO. Del Sistema Estatal de Información e Investigación
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -11341,7 +11523,7 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO CUARTO. De la coordinación
+### CAPITULO TERCERO. Del servicio
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -11379,7 +11561,7 @@ La información a la que alude el párrafo anterior deberá estar alineada con l
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO PRIMERO. Del IGECEM
+### CAPITULO CUARTO. De la coordinación
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -11421,7 +11603,7 @@ V. Apoyar al IGECEM en la promoción y divulgación de los procesos que integran
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO UNICO
+### CAPITULO PRIMERO. Del IGECEM
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -11625,7 +11807,9 @@ El Secretario Técnico, tiene las facultades y obligaciones que se establecen en
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 14.
 
@@ -11697,7 +11881,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 (DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
-### CAPITULO II. De la dirección del periódico oficial
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 15.
 
@@ -11733,7 +11917,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 (DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
-### CAPITULO III. Del funcionamiento del periódico oficial
+### CAPITULO II. De la dirección del periódico oficial
 
 ###### Artículo 15.
 
@@ -11753,7 +11937,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 (DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
-### CAPITULO IV. Del procedimiento de publicación y circulación
+### CAPITULO III. Del funcionamiento del periódico oficial
 
 ###### Artículo 15.
 
@@ -11781,7 +11965,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 (DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
-### CAPITULO V. De la fe de erratas
+### CAPITULO IV. Del procedimiento de publicación y circulación
 
 ###### Artículo 15.
 
@@ -11805,7 +11989,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 (DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
-### CAPITULO VI. De las responsabilidades de los servidores públicos
+### CAPITULO V. De la fe de erratas
 
 ###### Artículo 15.
 
@@ -11825,7 +12009,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 (DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
-### CAPITULO UNICO
+### CAPITULO VI. De las responsabilidades de los servidores públicos
 
 ###### Artículo 15.
 
@@ -11841,7 +12025,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(DEROGADO POR TRANSITORIO TERCERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE MÉXICO Y MUNICIPIOS CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
-### CAPITULO PRIMERO. Características que deberán reunir los Proyectos
+### CAPITULO UNICO
 
 ###### Artículo 16.
 
@@ -11873,7 +12057,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
-### CAPITULO SEGUNDO. Planeación, Programación y Presupuestación
+### CAPITULO PRIMERO. Características que deberán reunir los Proyectos
 
 ###### Artículo 16.
 
@@ -11885,7 +12069,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
-### CAPITULO TERCERO. Autorización del Proyecto
+### CAPITULO SEGUNDO. Planeación, Programación y Presupuestación
 
 ###### Artículo 16.
 
@@ -11925,7 +12109,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
-### CAPITULO CUARTO. Análisis Costo-Beneficio
+### CAPITULO TERCERO. Autorización del Proyecto
 
 ###### Artículo 16.
 
@@ -11945,7 +12129,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
-### CAPITULO QUINTO. De los bienes del Estado y los municipios que podrán usarse en los Proyectos
+### CAPITULO CUARTO. Análisis Costo-Beneficio
 
 ###### Artículo 16.
 
@@ -11957,7 +12141,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
-### CAPITULO SEXTO. Administración del Proyecto
+### CAPITULO QUINTO. De los bienes del Estado y los municipios que podrán usarse en los Proyectos
 
 ###### Artículo 16.
 
@@ -11973,7 +12157,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
-### CAPITULO PRIMERO. Características Generales
+### CAPITULO SEXTO. Administración del Proyecto
 
 ###### Artículo 16.
 
@@ -11989,7 +12173,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
-### CAPITULO SEGUNDO. Características y elementos del modelo de Contrato
+### CAPITULO PRIMERO. Características Generales
 
 ###### Artículo 16.
 
@@ -12001,7 +12185,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
-### CAPITULO TERCERO. Autorización del Modelo de Contrato
+### CAPITULO SEGUNDO. Características y elementos del modelo de Contrato
 
 ###### Artículo 16.
 
@@ -12037,7 +12221,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
-### CAPITULO PRIMERO. De la integración y funciones del Comité de Proyectos
+### CAPITULO TERCERO. Autorización del Modelo de Contrato
 
 ###### Artículo 16.
 
@@ -12057,7 +12241,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
-### CAPITULO SEGUNDO. Disposiciones Generales
+### CAPITULO PRIMERO. De la integración y funciones del Comité de Proyectos
 
 ###### Artículo 16.
 
@@ -12073,7 +12257,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
-### CAPITULO TERCERO. Del procedimiento de licitación pública
+### CAPITULO SEGUNDO. Disposiciones Generales
 
 ###### Artículo 16.
 
@@ -12089,7 +12273,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
-### CAPITULO CUARTO. De las excepciones a la licitación pública
+### CAPITULO TERCERO. Del procedimiento de licitación pública
 
 ###### Artículo 16.
 
@@ -12137,7 +12321,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
-### CAPITULO PRIMERO. Generalidades
+### CAPITULO CUARTO. De las excepciones a la licitación pública
 
 ###### Artículo 16.
 
@@ -12161,7 +12345,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
-### CAPITULO SEGUNDO. Incumplimiento, rescisión y terminación
+### CAPITULO PRIMERO. Generalidades
 
 ###### Artículo 16.
 
@@ -12185,7 +12369,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
-### CAPITULO UNICO
+### CAPITULO SEGUNDO. Incumplimiento, rescisión y terminación
 
 ###### Artículo 16.
 
@@ -12245,9 +12429,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 2 DE AGOSTO DE 2018)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
-
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+### CAPITULO UNICO
 
 ###### Artículo 16.
 
@@ -12275,7 +12457,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -12389,7 +12571,7 @@ IX. Zona de Seguridad.- Al predio lindante con el derecho de vía de anchura var
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -12457,9 +12639,9 @@ Para los efectos de este artículo la Secretaría contará con un registro de v�
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO SEGUNDO. Del derecho de vía
+### CAPITULO PRIMERO. Disposiciones generales
 
-> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -12493,9 +12675,9 @@ IV. Cubrir los daños que ocasionen a la infraestructura vial y su derecho de v�
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO TERCERO. De la publicidad exterior en la Infraestructura Vial Primaria
+### CAPITULO SEGUNDO. Del derecho de vía
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 17.
 
@@ -12581,7 +12763,7 @@ Si dentro de este plazo no fuere reclamado dicho material, la autoridad queda fa
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO TERCERO. De la publicidad exterior en la Infraestructura Vial Primaria
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -12821,7 +13003,7 @@ Las disposiciones reglamentarias aplicables y la Secretaría, mediante disposici
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO SEGUNDO. Del plazo
+### CAPITULO PRIMERO. Disposiciones generales
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -12913,9 +13095,9 @@ La Secretaría establecerá mediante disposiciones administrativas de carácter 
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO TERCERO. De las obligaciones de los concesionarios y permisionarios
+### CAPITULO SEGUNDO. Del plazo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE FEBRERO DE 2013)</small>
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -13015,9 +13197,9 @@ c) Solicitar y justificar mediante el estudio correspondiente cualquier modifica
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO CUARTO. De la terminación y revocación
+### CAPITULO TERCERO. De las obligaciones de los concesionarios y permisionarios
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 17.
 
@@ -13191,9 +13373,9 @@ La terminación de la concesión o el permiso no exime a su titular de las respo
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO QUINTO. De las evaluaciones técnicas de factibilidad
+### CAPITULO CUARTO. De la terminación y revocación
 
-> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -13241,9 +13423,9 @@ XIII. Las demás previstas en este Libro y la concesión o permiso respectivo.
 
 > <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
 
-### CAPITULO PRIMERO. De la Junta de Caminos del Estado de México
+### CAPITULO QUINTO. De las evaluaciones técnicas de factibilidad
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
 
 ###### Artículo 17.
 
@@ -13291,9 +13473,9 @@ III. El dictamen de procedencia para licencia de construcción en caso de constr
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO SEGUNDO. Del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
+### CAPITULO PRIMERO. De la Junta de Caminos del Estado de México
 
-> <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -13407,9 +13589,9 @@ Los ingresos del Organismo, así como los productos e instrumentos financieros a
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPÍTULO TERCERO. Del Sistema de Transporte Masivo y Teleférico del Estado de México
+### CAPITULO SEGUNDO. Del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
 
-> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 17.
 
@@ -13511,7 +13693,7 @@ Los ingresos del Sistema, así como los productos e instrumentos financieros aut
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO CUARTO. Del registro estatal de comunicaciones
+### CAPÍTULO TERCERO. Del Sistema de Transporte Masivo y Teleférico del Estado de México
 
 > <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
@@ -13631,9 +13813,9 @@ Los ingresos del Sistema, así como los productos e instrumentos financieros aut
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO CUARTO. Del registro estatal de comunicaciones
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 17.
 
@@ -13777,7 +13959,7 @@ Si el retiro es ordenado como consecuencia de una sanción o resolución que pon
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO SEGUNDO. De las autoridades
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -13839,9 +14021,9 @@ XIII. Procurarán la utilización de tecnologías a efecto de lograr un aprovech
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO TERCERO. De las normas técnicas
+### CAPITULO SEGUNDO. De las autoridades
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -13901,9 +14083,9 @@ XI. Las demás que le confieran otras disposiciones legales.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO CUARTO. De los directores responsables de obra y corresponsables de obra
+### CAPITULO TERCERO. De las normas técnicas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -14011,9 +14193,9 @@ Sin perjuicio de lo anterior, dentro del año siguiente a la entrada en vigor de
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-### CAPITULO PRIMERO. De las licencias de construcción
+### CAPITULO CUARTO. De los directores responsables de obra y corresponsables de obra
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 18.
 
@@ -14265,7 +14447,7 @@ e) Responder de cualquier violación a las disposiciones de este Libro relativas
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO SEGUNDO. De los permisos de obra
+### CAPITULO PRIMERO. De las licencias de construcción
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -14527,9 +14709,9 @@ III. Se deberán solicitar dentro de la vigencia de la licencia o permiso tempor
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO TERCERO. De las constancias
+### CAPITULO SEGUNDO. De los permisos de obra
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -14583,9 +14765,9 @@ Si no lo hicieren dentro del plazo que se les haya fijado, el propio municipio l
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO PRIMERO. De los lineamientos de diseño
+### CAPITULO TERCERO. De las constancias
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 18.
 
@@ -14633,7 +14815,7 @@ La solicitud de emisión de la constancia podrá hacerse de manera física o ele
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO SEGUNDO. De los lineamientos del proyecto
+### CAPITULO PRIMERO. De los lineamientos de diseño
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -14713,7 +14895,7 @@ Las edificaciones y obras que produzcan contaminación por humos, olores, gases,
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO TERCERO. De los lineamientos de diseño para personas con discapacidad
+### CAPITULO SEGUNDO. De los lineamientos del proyecto
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -14751,7 +14933,7 @@ Asimismo, deberán contar con áreas de dispersión y espera dentro de los predi
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO TERCERO. De los lineamientos de diseño para personas con discapacidad
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -14805,7 +14987,7 @@ El proyecto considerará una estructura que cumpla con los requisitos que establ
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO SEGUNDO. De los criterios de diseño estructural
+### CAPITULO PRIMERO. Disposiciones generales
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -14829,9 +15011,9 @@ Las Normas Técnicas definirán los requisitos específicos de materiales y sist
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO TERCERO. De las prevenciones estructurales
+### CAPITULO SEGUNDO. De los criterios de diseño estructural
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -14905,9 +15087,9 @@ En los supuestos anteriores, en caso de enajenación, el vendedor entregará cop
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO CUARTO. De las demoliciones y excavaciones
+### CAPITULO TERCERO. De las prevenciones estructurales
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 18.
 
@@ -14967,7 +15149,7 @@ Los materiales, desechos y escombros provenientes de una demolición deben ser r
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO UNICO. De los procedimientos constructivos, de los materiales y de la supervisión de las obras
+### CAPITULO CUARTO. De las demoliciones y excavaciones
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15003,7 +15185,7 @@ Podrán utilizarse nuevos procedimientos de construcción acordes al desarrollo 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO PRIMERO. De las visitas de verificación
+### CAPITULO UNICO. De los procedimientos constructivos, de los materiales y de la supervisión de las obras
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15085,7 +15267,7 @@ Las construcciones de inmuebles destinados a la actividad comercial o industrial
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO SEGUNDO. De las medidas de seguridad
+### CAPITULO PRIMERO. De las visitas de verificación
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15097,7 +15279,7 @@ Las medidas de seguridad serán de ejecución inmediata y durarán todo el tiemp
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO TERCERO. De las infracciones y sanciones
+### CAPITULO SEGUNDO. De las medidas de seguridad
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15155,7 +15337,7 @@ La imposición y cumplimiento de las sanciones no exime al infractor de la oblig
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-### CAPITULO CUARTO. Del recurso de inconformidad
+### CAPITULO TERCERO. De las infracciones y sanciones
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15295,9 +15477,9 @@ b) De cinco a veinte años a quienes luego de ser inhabilitados vuelvan a incump
 
 > <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
-### CAPITULO PRIMERO. De los prestadores de servicios inmobiliarios
+### CAPITULO CUARTO. Del recurso de inconformidad
 
-> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 # LIBRO DECIMO NOVENO. De las operaciones y servicios inmobiliarios
 
@@ -15351,7 +15533,7 @@ XI. Usuario: A las personas físicas o jurídico colectivas que contratan a pres
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
-### CAPITULO SEGUNDO. De las empresas inmobiliarias registradas
+### CAPITULO PRIMERO. De los prestadores de servicios inmobiliarios
 
 > <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
@@ -15439,7 +15621,7 @@ V. Las demás que establezcan las disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
-### CAPITULO TERCERO. De las asociaciones inmobiliarias
+### CAPITULO SEGUNDO. De las empresas inmobiliarias registradas
 
 > <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
@@ -15461,7 +15643,7 @@ V. Las demás que establezcan las disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
-### CAPITULO UNICO. Del registro
+### CAPITULO TERCERO. De las asociaciones inmobiliarias
 
 > <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
@@ -15493,7 +15675,7 @@ V. Las demás que establezcan las disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
-### CAPITULO PRIMERO. Atribuciones de la Secretaría
+### CAPITULO UNICO. Del registro
 
 > <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
@@ -15559,7 +15741,7 @@ f) Registro Federal de Contribuyentes.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
-### CAPITULO SEGUNDO. De la Comisión
+### CAPITULO PRIMERO. Atribuciones de la Secretaría
 
 > <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
@@ -15587,7 +15769,7 @@ IX. Realizar el servicio de conciliación, aplicado a resolver conflictos deriva
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
-### CAPITULO I. De las visitas de inspección y vigilancia
+### CAPITULO SEGUNDO. De la Comisión
 
 > <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
@@ -15685,7 +15867,7 @@ Las especificaciones, programas, periodicidad, convocatorias y demás caracterí
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
-### CAPITULO SEGUNDO. De las infracciones y sanciones
+### CAPITULO I. De las visitas de inspección y vigilancia
 
 > <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
@@ -15706,6 +15888,10 @@ Las especificaciones, programas, periodicidad, convocatorias y demás caracterí
 31.- La Secretaría dictará la resolución correspondiente, la que asentará en el Registro, la notificará al interesado y en su caso, impondrá la sanción que corresponda.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+### CAPITULO SEGUNDO. De las infracciones y sanciones
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 19.
 
@@ -18434,3 +18620,35 @@ G.G. 10 DE JUNIO DE 2022.
 PRIMERO. Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 21 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 70.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL LIBRO SEGUNDO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto (sic) Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor a los 365 días siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Secretaría de Salud contara con seis meses a partir de la entrada en vigor de la presente para diseñar sus programas y estrategias para cumplir con las disposiciones establecidas en el presente Decreto.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo a la disponibilidad presupuestal, de manera progresiva y de conformidad con la demanda que exista, para la Secretaría de Salud, la Secretaría de las Mujeres y dependencias municipales, para el presente ejercicio fiscal y los subsecuentes.
+
+G.G. 21 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 71.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; Y DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Ejecutivo del Estado de México deberá realizar las modificaciones pertinentes a las disposiciones administrativas correspondientes, en un plazo no mayor a noventa días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+G.G. 21 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 72.- POR EL QUE SE ADICIONA A LOS ARTICULOS 9.3, 9.6 Y 9.7 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan todas las disposiciones de menor o igual jerarquía que contravengan lo dispuesto por el presente Decreto.
