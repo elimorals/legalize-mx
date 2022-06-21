@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2022-05-06"
+last_updated: "2022-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JUNIO DE 2022.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -1271,111 +1271,117 @@ VII.- Ejecutar acciones técnicas de seguimiento, evaluación y control de avanc
 
 VIII.- Otorgar, modificar, revocar, rescatar, sustituir, cancelar o dar por terminadas las concesiones, permisos o autorizaciones, según corresponda, para la prestación del servicio público de pasajeros colectivo, individual, mixto, y el servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos, fijando los requisitos mediante disposiciones de carácter general para su otorgamiento, y para la construcción, ampliación, rehabilitación, mantenimiento, administración y operación de la infraestructura vial primaria de cuota y de los sistemas de transporte masivo o de alta capacidad, ejerciendo los derechos de rescate y reversión;
 
-IX.- Administrar las vías de cuota a cargo del Estado de México;
+> <small>(ADICIONADA, G.G. 21 DE JUNIO DE 2022)</small>
+
+IX. Determinar el área geográfica de operación de los Servicios Auxiliares de Arrastre, Salvamento, Guarda, Custodia y Depósito de Vehículos.
+
+En las zonas de operación en que presten sus servicios más de un Permisionario o Concesionario de los Servicios Auxiliares de Arrastre, Salvamento, Guarda, Custodia y Depósito de Vehículos, respectivamente, la Secretaría, a través de la Subsecretaría y sus Direcciones Generales de Movilidad de Zona, deberá establecer los roles de servicio, su vigilancia y operatividad, a fin de coordinar de manera armónica la prestación de dichos servicios.
+
+Dichos roles de servicio se harán de conocimiento de la Secretaría de Seguridad.
+
+X.- Administrar las vías de cuota a cargo del Estado de México;
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
-X.- Establecer disposiciones de carácter general para el uso de la infraestructura vial primaria y de las comunicaciones de jurisdicción local;
+XI.- Establecer disposiciones de carácter general para el uso de la infraestructura vial primaria y de las comunicaciones de jurisdicción local;
 
-XI.- Realizar por sí o a través de particulares la construcción, ampliación, mantenimiento, administración y operación de paradores para facilitar el uso de la infraestructura vial primaria por los servicios de carga;
-
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
-
-XII.- Sancionar el incumplimiento de obligaciones por parte de los titulares de concesiones, permisos o autorizaciones en materia de transporte público, infraestructura vial primaria, paradores y de comunicaciones de jurisdicción local;
+XII.- Realizar por sí o a través de particulares la construcción, ampliación, mantenimiento, administración y operación de paradores para facilitar el uso de la infraestructura vial primaria por los servicios de carga;
 
 > <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XIII.- Realizar las tareas relativas a la ingeniería del transporte y a la ingeniería vial y señalamiento de la infraestructura vial primaria, coordinándose con las autoridades municipales respecto de la integración de la infraestructura vial local con la infraestructura vial primaria;
+XIII.- Sancionar el incumplimiento de obligaciones por parte de los titulares de concesiones, permisos o autorizaciones en materia de transporte público, infraestructura vial primaria, paradores y de comunicaciones de jurisdicción local;
+
+> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+
+XIV.- Realizar las tareas relativas a la ingeniería del transporte y a la ingeniería vial y señalamiento de la infraestructura vial primaria, coordinándose con las autoridades municipales respecto de la integración de la infraestructura vial local con la infraestructura vial primaria;
 
 > <small>(REFORMADA, G.G. 31 DE MARZO DE 2011)</small>
 
-XIV.- Planear, supervisar, controlar y evaluar las funciones de la Junta de Caminos del Estado de México, del Sistema de Transporte Masivo del Estado de México y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México;
+XV.- Planear, supervisar, controlar y evaluar las funciones de la Junta de Caminos del Estado de México, del Sistema de Transporte Masivo del Estado de México y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México;
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
-XV.- Expedir las bases a que deben sujetarse los concursos públicos para el otorgamiento de concesiones en materia de infraestructura vial primaria y de comunicaciones de jurisdicción local, adjudicarlas, vigilar su ejecución y cumplimiento;
+XVI.- Expedir las bases a que deben sujetarse los concursos públicos para el otorgamiento de concesiones en materia de infraestructura vial primaria y de comunicaciones de jurisdicción local, adjudicarlas, vigilar su ejecución y cumplimiento;
 
 > <small>(F. DE E., G.G. 18 DE SEPTIEMBRE DE 2002)</small>
 
-XVI.- Participar con el gobierno federal en la construcción, conservación y administración de aeródromos civiles en territorio estatal;
+XVII.- Participar con el gobierno federal en la construcción, conservación y administración de aeródromos civiles en territorio estatal;
 
 > <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XVII.- Promover y organizar la capacitación, investigación y el desarrollo tecnológico en materia de transporte, infraestructura vial y de comunicaciones de jurisdicción local, así como fomentar programas y campañas para promover la educación vial y la cultura de movilidad con el objeto de reducir índices de accidentes, fomentar el trato respetuoso y erradicar la violencia con atención especial a niñas, niños, adultos mayores, personas con discapacidad, mujeres y demás grupos vulnerables;
+XVIII.- Promover y organizar la capacitación, investigación y el desarrollo tecnológico en materia de transporte, infraestructura vial y de comunicaciones de jurisdicción local, así como fomentar programas y campañas para promover la educación vial y la cultura de movilidad con el objeto de reducir índices de accidentes, fomentar el trato respetuoso y erradicar la violencia con atención especial a niñas, niños, adultos mayores, personas con discapacidad, mujeres y demás grupos vulnerables;
 
 > <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XVIII.- Normar, organizar, integrar, operar y actualizar el Registro Público Estatal de Movilidad y el Registro Estatal de Comunicaciones;
+XIX.- Normar, organizar, integrar, operar y actualizar el Registro Público Estatal de Movilidad y el Registro Estatal de Comunicaciones;
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
-XIX.- Participar con los gobiernos federal y de otras entidades federativas, en su caso en la construcción, operación, explotación y mantenimiento de los sistemas de transporte masivo o de alta capacidad, así como gestionar las concesiones, autorizaciones o permisos que sean necesarios para la utilización de los derechos de vía federales, conforme a la normatividad aplicable;
+XX.- Participar con los gobiernos federal y de otras entidades federativas, en su caso en la construcción, operación, explotación y mantenimiento de los sistemas de transporte masivo o de alta capacidad, así como gestionar las concesiones, autorizaciones o permisos que sean necesarios para la utilización de los derechos de vía federales, conforme a la normatividad aplicable;
 
 > <small>(ADICIONADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
-XX.- Elaborar estudios, diseñar, proyectar, construir, operar, administrar, explotar, conservar, rehabilitar y dar mantenimiento a estaciones de transferencia modal para los sistemas de transporte masivo o de alta capacidad, directamente o a través de particulares, mediante el otorgamiento de concesiones o contratos;
+XXI.- Elaborar estudios, diseñar, proyectar, construir, operar, administrar, explotar, conservar, rehabilitar y dar mantenimiento a estaciones de transferencia modal para los sistemas de transporte masivo o de alta capacidad, directamente o a través de particulares, mediante el otorgamiento de concesiones o contratos;
 
 > <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XXI.- Resolver respecto del uso de la infraestructura vial primaria por los servicios de transporte público y de la construcción de bahías de ascenso y descenso de pasaje, así como determinar el uso restringido de la infraestructura vial;
+XXII.- Resolver respecto del uso de la infraestructura vial primaria por los servicios de transporte público y de la construcción de bahías de ascenso y descenso de pasaje, así como determinar el uso restringido de la infraestructura vial;
 
 > <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
 
-XXII.- Promover la reestructura o revocación de concesiones cuando los estudios costo beneficio, financieros o sociales representen que puede haber un ahorro financiero para el Estado, una mejora sustancial en el otorgamiento del servicio o un riesgo para el otorgamiento del servicio o cumplimiento del objetivo de la concesión. Los estudios referidos, podrán ser realizados por instituciones públicas o privadas en término de las disposiciones jurídicas aplicables.
+XXIII.- Promover la reestructura o revocación de concesiones cuando los estudios costo beneficio, financieros o sociales representen que puede haber un ahorro financiero para el Estado, una mejora sustancial en el otorgamiento del servicio o un riesgo para el otorgamiento del servicio o cumplimiento del objetivo de la concesión. Los estudios referidos, podrán ser realizados por instituciones públicas o privadas en término de las disposiciones jurídicas aplicables.
 
 > <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-XXIII.- Emitir los lineamientos generales para la emisión de la Evaluación Técnica de Impacto en materia Vial;
+XXIV.- Emitir los lineamientos generales para la emisión de la Evaluación Técnica de Impacto en materia Vial;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-XXIV.- Otorgar a particulares, permisos para el uso y el aprovechamiento de espacios públicos ubicados en el derecho de vía de la infraestructura vial primaria, para su rehabilitación, mantenimiento y operación, con la finalidad de fomentar el desarrollo de áreas de convivencia o interés social;
+XXV.- Otorgar a particulares, permisos para el uso y el aprovechamiento de espacios públicos ubicados en el derecho de vía de la infraestructura vial primaria, para su rehabilitación, mantenimiento y operación, con la finalidad de fomentar el desarrollo de áreas de convivencia o interés social;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-XXV.- Emitir los lineamientos generales para el otorgamiento de los permisos para espacios públicos en las vías primarias de comunicación;
+XXVI.- Emitir los lineamientos generales para el otorgamiento de los permisos para espacios públicos en las vías primarias de comunicación;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XXVI.- Otorgar, modificar, cancelar, revocar, rescatar, sustituir o dar por terminados los permisos para la prestación de servicios de transporte de pasajeros, de carga y de arrastre y traslado; de servicios conexos; y para la instalación y explotación de anuncios publicitarios en los diversos tipos de vehículos y servicios auxiliares y conexos;
+XXVII.- Otorgar, modificar, cancelar, revocar, rescatar, sustituir o dar por terminados los permisos para la prestación de servicios de transporte de pasajeros, de carga y de arrastre y traslado; de servicios conexos; y para la instalación y explotación de anuncios publicitarios en los diversos tipos de vehículos y servicios auxiliares y conexos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XXVII.- Implementar medidas y acciones para el debido cumplimiento de las obligaciones por parte de los titulares de concesiones, permisos o autorizaciones en materia de transporte público;
+XXVIII.- Implementar medidas y acciones para el debido cumplimiento de las obligaciones por parte de los titulares de concesiones, permisos o autorizaciones en materia de transporte público;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XXVIII.- Autorizar y modificar en todo tiempo rutas, itinerarios, horarios, frecuencias, así como bases, paraderos y terminales del servicio público de transporte y señalar la forma de identificación de los vehículos afectos al servicio público de transporte;
+XXIX.- Autorizar y modificar en todo tiempo rutas, itinerarios, horarios, frecuencias, así como bases, paraderos y terminales del servicio público de transporte y señalar la forma de identificación de los vehículos afectos al servicio público de transporte;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XXIX.- Autorizar y modificar las tarifas a que se sujete el servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, así como determinar el medio a través del cual los usuarios realizarán el pago de las mismas y los dispositivos con que deberán contar los concesionarios para recabarlas;
+XXX.- Autorizar y modificar las tarifas a que se sujete el servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, así como determinar el medio a través del cual los usuarios realizarán el pago de las mismas y los dispositivos con que deberán contar los concesionarios para recabarlas;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XXX.- Aplicar las medidas de seguridad en términos de la legislación vigente;
+XXXI.- Aplicar las medidas de seguridad en términos de la legislación vigente;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XXXI.- Expedir las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación de los vehículos automotores destinados al transporte público y para prestar un servicio a la población por parte de organismos y dependencias federales, estatales o municipales, que no sean competencia de otras autoridades;
+XXXII.- Expedir las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación de los vehículos automotores destinados al transporte público y para prestar un servicio a la población por parte de organismos y dependencias federales, estatales o municipales, que no sean competencia de otras autoridades;
 
 > <small>(REFORMADA, G.G. 26 DE ENERO DE 2021)</small>
 
-XXXII.- Otorgar las licencias, permisos y autorizaciones que le correspondan para conducir vehículos automotores destinados al transporte en sus diversas clases y modalidades;
+XXXIII.- Otorgar las licencias, permisos y autorizaciones que le correspondan para conducir vehículos automotores destinados al transporte en sus diversas clases y modalidades;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XXXIII.- Aprobar la implementación y operación del servicio de pago tarifario anticipado para el acceso de la población al servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, y fijar los requisitos mediante disposiciones de carácter general para su aprobación; así como modificar, revocar, rescatar, sustituir o dar por terminadas las mismas;
+XXXIV.- Aprobar la implementación y operación del servicio de pago tarifario anticipado para el acceso de la población al servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, y fijar los requisitos mediante disposiciones de carácter general para su aprobación; así como modificar, revocar, rescatar, sustituir o dar por terminadas las mismas;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XXXIV.- Aprobar la implementación y operación de los Centros de Gestión y Control Común a través de los cuales se operen redes integradas de transporte, con las que se eficiente el servicio público de pasajeros en las modalidades de colectivo, individual y mixto, y fijar los requisitos mediante disposiciones de carácter general para su aprobación; así como modificar, revocar, rescatar, sustituir o dar por terminadas las mismas;
+XXXV.- Aprobar la implementación y operación de los Centros de Gestión y Control Común a través de los cuales se operen redes integradas de transporte, con las que se eficiente el servicio público de pasajeros en las modalidades de colectivo, individual y mixto, y fijar los requisitos mediante disposiciones de carácter general para su aprobación; así como modificar, revocar, rescatar, sustituir o dar por terminadas las mismas;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XXXV.- Definir la operación de las rutas alimentadoras para el transporte de alta capacidad; y
-
-XXXVI.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+XXXVI.- Definir la operación de las rutas alimentadoras para el transporte de alta capacidad; y
 
 XXXVII.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
@@ -1385,9 +1391,11 @@ XXXIX.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
 XL.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
+XLI.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+
 > <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XLI.- Las demás que le señalen otras leyes, reglamentos y disposiciones jurídicas aplicables.
+XLII.- Las demás que le señalen otras leyes, reglamentos y disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 23 DE AGOSTO DE 2005)</small>
 
@@ -4054,3 +4062,13 @@ CUARTO. Las referencias realizadas en disposiciones jurídicas, legales, reglame
 Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de la Mujer serán atendidos hasta su conclusión por la Secretaría de las Mujeres.
 
 Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de la Mujer de conformidad con las disposiciones jurídicas aplicables.
+
+G.G. 21 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 71.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; Y DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado de México deberá realizar las modificaciones pertinentes a las disposiciones administrativas correspondientes, en un plazo no mayor a noventa días naturales, contados a partir de la entrada en vigor del presente Decreto.
