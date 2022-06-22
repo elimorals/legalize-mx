@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-la-comision-de-derechos-humanos-del-estado-de-puebla-185
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-24"
-last_updated: "2018-12-10"
+last_updated: "2022-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 24 de marzo de 2000.
 
@@ -259,13 +259,17 @@ XIII.- Expedir su Reglamento Interno;
 
 XIV.- Hacer cumplir en el territorio del Estado de Puebla, los Tratados, Convenios y Acuerdos Internacionales, ratificados por el Gobierno Mexicano en materia de Derechos Humanos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2022)</small>
 
-XV.- Impulsar la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes; y
+XV.- Impulsar la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JUNIO DE 2022)</small>
 
-XVI.- Las demás que le otorgue la presente Ley y otros ordenamientos legales.
+XVI.- Promover la observancia del seguimiento, evaluación y monitoreo, en materia de igualdad entre mujeres y hombres; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE JUNIO DE 2022)</small>
+
+XVII.- Las demás que le otorgue la presente Ley y otros ordenamientos legales.
 
 ###### ARTÍCULO 14.
 
@@ -818,5 +822,13 @@ P.O. 10 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XIV Y XV, Y ADICIONA LA FRACCIÓN XVI, TODAS DEL ARTÍCULO 13 DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XV Y XVI Y ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 13 DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
