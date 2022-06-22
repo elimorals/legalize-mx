@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2021-09-07"
+last_updated: "2022-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -801,9 +803,9 @@ Los poderes colaborarán entre sí para el eficaz cumplimiento de las funciones 
 
 Los organismos autónomos son entidades especializadas para la atención eficaz de funciones primarias y originarias del Estado, reconocidos en esta Constitución o en la Ley, cuentan con patrimonio y personalidad jurídica propia, independencia en sus decisiones, funcionamiento y administración, así como autonomía presupuestaria, técnica y de gestión en el ejercicio de sus atribuciones. Cada uno de los organismos autónomos contará con un órgano interno de control para vigilar la correcta administración y ejercicio de los recursos públicos, así como fomentar la rendición de cuentas y atender las evaluaciones sobre el cumplimento de los objetivos planteados, cuyo titular será nombrado por el Congreso del Estado por las dos terceras partes de las y los Diputados presentes.
 
-> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2022)</small>
 
-Esta Constitución reconoce como organismos autónomos a la Comisión de Derechos Humanos, el Instituto Estatal Electoral, el Tribunal Estatal Electoral y el Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo.
+Esta Constitución reconoce como organismos autónomos a la Comisión de Derechos Humanos del Estado de Hidalgo, el Instituto Estatal Electoral, el Tribunal Electoral del Estado de Hidalgo, el Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo y la Fiscalía General de Justicia del Estado de Hidalgo.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -881,9 +883,9 @@ I. El Gobernador del Estado;
 
 II. Quienes pertenezcan el (sic) Estado eclesiástico;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE JUNIO DE 2022)</small>
 
-III. Los Secretarios del Despacho del Poder Ejecutivo, los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa, los Consejeros del Consejo de la Judicatura, el Procurador General de Justicia del Estado, el Fiscal Especializado en Delitos de Corrupción, el Auditor Superior del Estado y los servidores públicos de la Federación, residentes en el Estado, que no se hayan separado de sus respectivos cargos, cuando menos noventa días antes del día de la elección.
+III. Las personas titulares de las Secretarías de Despacho del Poder Ejecutivo, de las magistraturas del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, las y los Consejeros del Consejo de la Judicatura, la persona titular de la Fiscalía General de Justicia del Estado, de la Fiscalía Especializada en Delitos de Corrupción, de la Fiscalía Especializada en Delitos Electorales, de la Auditoría Superior del Estado y las y los servidores públicos de la Federación, residentes en el Estado, que no se hayan separado de sus respectivos cargos, cuando menos noventa días antes del día de la elección.
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2017)</small>
 
@@ -1047,9 +1049,9 @@ III. Al Tribunal Superior de Justicia en su ramo;
 
 IV. A los Ayuntamientos;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2022)</small>
 
-V. Al Procurador General de Justicia del Estado en su ramo y
+V. A la persona titular de la Fiscalía General de Justicia del Estado en su ramo; y
 
 > <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
 
@@ -1109,9 +1111,9 @@ I. Se trate de adiciones o reformas a esta Constitución;
 
 II. Hayan sido dictados en ejercicio de la facultad de fiscalización superior a las cuentas públicas;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2022)</small>
 
-III. Hayan sido dictados en uso de la facultad de conceder o negar licencia al Gobernador, a los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa y del Tribunal Electoral, al Auditor Superior, al Procurador General de Justicia del Estado, Fiscal Especializado en Delitos Electorales y Fiscal Especializado en Delitos de Corrupción;
+III. Hayan sido dictados en uso de la facultad de conceder o negar licencia a la persona titular del Poder Ejecutivo del Estado, a las y los Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, a las personas titulares de la Auditoría Superior, de la Fiscalía General de Justicia del Estado, de la Fiscalía Especializada en Delitos Electorales y de la Fiscalía Especializada en Delitos de Corrupción;
 
 > <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1167,15 +1169,15 @@ La Auditoría Superior del Estado de Hidalgo, es el Órgano Técnico responsable
 
 VI. (DEROGADA, P.O. 14 DE NOVIEMBRE DE 1995)
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2022)</small>
 
-VII. Recibir la protesta al cargo de Diputados, Gobernador, Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, Consejeros del Consejo de la Judicatura, Procurador General de Justicia, Fiscal Especializado en Delitos Electorales y Fiscal Especializado en Delitos de Corrupción;
+VII. Recibir la protesta al cargo de Diputadas y Diputados, de la persona titular del Poder Ejecutivo, de las personas titulares de las magistraturas del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, Consejeras y Consejeros del Consejo de la Judicatura y a las personas titulares de la Fiscalía General de Justicia del Estado, de la Fiscalía Especializada en Delitos Electorales y de la Fiscalía Especializada en Delitos de Corrupción;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2022)</small>
 
-VIII. Aprobar en su caso, la propuesta del Ejecutivo para nombrar a los Magistrados del Tribunal Superior de Justicia y Tribunal de Justicia Administrativa, así como conocer de su renuncia o remoción.
+VIII. Aprobar en su caso, la propuesta del Ejecutivo para nombrar a las y los Magistrados del Tribunal Superior de Justicia y Tribunal de Justicia Administrativa, así como conocer de su renuncia o remoción.
 
-Nombrar de las listas propuestas por el titular del Ejecutivo, al Procurador General de Justicia del Estado, al Fiscal Especializado en Delitos Electorales y al Fiscal Especializado en Delitos de Corrupción, así como conocer de su renuncia o remoción.
+Nombrar de las listas propuestas por la persona Titular del Poder Ejecutivo a las personas titulares de la Fiscalía General de Justicia del Estado, de la Fiscalía Especializada en Delitos Electorales y de la Fiscalía Especializada en Delitos de Corrupción, así como conocer de su renuncia o remoción, mediante el procedimiento señalado en la Ley de la materia;
 
 > <small>(ADICIONADA, P.O. 2 DE MAYO DE 2016)</small>
 
@@ -1189,9 +1191,9 @@ X. Nombrar al ciudadano que debe suplir al Gobernador Constitucional, en caso de
 
 X Bis. Ratificar el nombramiento del titular de la dependencia encargada del control interno del Poder Ejecutivo;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2022)</small>
 
-XI. Conceder a los Diputados, Gobernador, Auditor Superior, Magistrados, Consejeros del Consejo de la Judicatura, Procurador General de Justicia, Fiscal Especializado en Delitos Electorales y Fiscal Especializado en Delitos de Corrupción, licencia para separarse de sus cargos, en los términos establecidos por esta Constitución;
+XI. Conceder a las Diputadas y Diputados, a la persona titular del Poder Ejecutivo, de la Auditoría Superior, de las magistraturas del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, a Consejeras y Consejeros del Consejo de la Judicatura y a las personas titulares de la Fiscalía General de Justicia del Estado, de la Fiscalía Especializada en Delitos Electorales y de la Fiscalía Especializada en Delitos de Corrupción, licencia para separarse de sus cargos, en los términos establecidos por esta Constitución;
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -1231,9 +1233,9 @@ XX. (DEROGADA, P.O. 9 DE MAYO DE 1998)
 
 XX BIS. Hacer comparecer a las autoridades, servidoras o servidores públicos que hayan recibido Recomendación de la Comisión de Derechos Humanos del Estado y no las hubieren aceptado, o que habiéndolas aceptado sean omisos en su cumplimiento.
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2022)</small>
 
-XXI. Hacer comparecer a los servidores públicos titulares de dependencias o directores y representantes legales de Entidades de la Administración Pública del Estado, al Procurador General de Justicia del Estado, al Fiscal Especializado en Delitos Electorales y al Fiscal Especializado en Delitos de Corrupción y a los titulares de los organismos autónomos, para que informen de los asuntos de su competencia;
+XXI. Hacer comparecer a las y los servidores públicos titulares de dependencias o directoras y directores y representantes legales de Entidades de la Administración Pública del Estado, a la persona titular de la Fiscalía General de Justicia del Estado, de la Fiscalía Especializada en Delitos Electorales y de la Fiscalía Especializada en Delitos de Corrupción y a las personas titulares de los organismos autónomos, para que informen de los asuntos de su competencia;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
@@ -1413,13 +1415,13 @@ Son facultades de la Diputación Permanente:
 
 I. Convocar a sesiones extraordinarias por sí o a solicitud formulada por el Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2022)</small>
 
-II. Conceder licencia al Gobernador del Estado cuando sea por un lapso mayor de un mes y a los Diputados, Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, así como a los Consejeros del Consejo de la Judicatura, al Auditor Superior, al Procurador General de Justicia, al Fiscal Especializado en Delitos Electorales y al Fiscal Especializado en Delitos de Corrupción cuando sea por un periodo mayor de tres meses;
+II. Conceder licencia a la persona titular del Poder Ejecutivo del Estado cuando sea por un lapso mayor de un mes y a las Diputadas y los Diputados, a las personas titulares de las magistraturas del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, así como a las y los Consejeros del Consejo de la Judicatura, a las personas titulares de la Auditoría Superior, de la Fiscalía General de Justicia del Estado, de la Fiscalía Especializada en Delitos Electorales y de la Fiscalía Especializada en Delitos de Corrupción cuando sea por un periodo mayor de tres meses;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2022)</small>
 
-III. Recibir la protesta al Cargo de Gobernador y Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, Consejeros del Consejo de la Judicatura, así como al Procurador General de Justicia, al Fiscal Especializado en Delitos Electorales y Fiscal Especializado en Delitos de Corrupción
+III. Recibir la protesta al cargo de la persona titular del Poder Ejecutivo del Estado, las personas titulares de las magistraturas del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, Consejeras y Consejeros del Consejo de la Judicatura, así como a las personas titulares de la Fiscalía General de Justicia del Estado, de la Fiscalía Especializada en Delitos Electorales y de la Fiscalía Especializada en Delitos de Corrupción;
 
 > <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1435,9 +1437,9 @@ VI. Nombrar con carácter interino al Auditor Superior del Estado de Hidalgo;
 
 VII. Nombrar Gobernador Provisional en los casos previstos por esta Constitución;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2022)</small>
 
-VIII. Conocer en su caso, la propuesta del Ejecutivo para nombrar a los Magistrados del Tribunal Superior de Justicia y Tribunal de Justicia Administrativa, de la renuncia de estos a su encargo. Así como las listas de propuestas que presente el titular del Ejecutivo para el nombramiento de Procurador General de Justicia del Estado, Fiscal Especializado en Delitos Electorales y Fiscal Especializado en Delitos de Corrupción de su renuncia o remoción;
+VIII. Conocer en su caso, la propuesta del Ejecutivo para nombrar a las y los Magistrados del Tribunal Superior de Justicia y Tribunal de Justicia Administrativa, y de la renuncia de estos a su encargo. Así como las listas de propuestas que presente la persona titular del Poder Ejecutivo para el nombramiento de la persona titular de la Fiscalía General de Justicia del Estado, de la Fiscalía Especializada en Delitos Electorales y de la Fiscalía Especializada en Delitos de Corrupción, de su renuncia, licencia o remoción;
 
 IX. (DEROGADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 
@@ -1479,11 +1481,13 @@ La elección del Gobernador será directa, secreta, uninominal y por mayoría en
 
 Los partidos políticos deberán alternar el género en la candidatura para cada periodo electivo.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2022)</small>
 
 ###### Artículo 63.
 
-Para ser Gobernador del Estado, se requiere:
+Para ser Gobernadora o Gobernador del Estado, se requiere:
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
 I. Ser mexicano por nacimiento, en el ejercicio de sus derechos políticos;
 
@@ -1491,15 +1495,25 @@ I. Ser mexicano por nacimiento, en el ejercicio de sus derechos políticos;
 
 II. Ser hidalguense por nacimiento o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección;
 
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+
 III. Tener treinta años de edad cumplidos el día de la elección;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
 IV. No pertenecer al Estado eclesiástico, ni ser ministro de culto religioso;
 
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+
 V. No ser militar en servicio activo o ciudadano con mando de los cuerpos de Seguridad Pública; en ambos casos, dentro de los noventa días anteriores a la fecha de la elección;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE JUNIO DE 2022)</small>
 
-VI. No ser Servidor Público Federal o Local, Secretario de Despacho del Ejecutivo, Procurador General de Justicia del Estado, Subprocurador General de Justicia, Fiscal Especializado en Delitos de Corrupción, Magistrado del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa, Consejero del Consejo de la Judicatura, Diputado Local o Presidente Municipal en funciones, a menos que se hayan separado de su encargo, noventa días naturales antes de la fecha de la elección.
+VI. No ser servidora o servidor público federal o local, Secretaria o Secretario de Despacho del Ejecutivo, titular de la Fiscalía General de Justicia del Estado, de la Fiscalía Especializada en Delitos de Corrupción, titular de una magistratura del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa, Consejera o Consejero del Consejo de la Judicatura, Diputada o Diputado Local o titular de la Presidencia Municipal en funciones, a menos que se hayan separado de su encargo, noventa días naturales antes de la fecha de la elección.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI, P.O. 22 DE MAYO DE 2017.]</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2017)</small>
 
 No ser Consejero Electoral, Fiscal Especializado en Delitos Electorales, integrante de la Junta Estatal Ejecutiva del Instituto Estatal Electoral y Magistrado del Tribunal Electoral del Poder Judicial del Estado, a menos que, se separen de su cargo un año antes del inicio del proceso electoral de que se trate.
 
@@ -1677,9 +1691,7 @@ XXXI. Ejercer el derecho de veto en los términos de esta Constitución;
 
 XXXII. Ejercer las facultades que le otorga la Constitución Federal en relación con la Guardia Nacional;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE AGOSTO DE 1995)</small>
-
-XXXIII. Facilitar a la Procuraduría General de Justicia, los elementos necesarios para el ejercicio expedito de sus funciones;
+XXXIII. (DEROGADA, P.O. 22 DE JUNIO DE 2022)
 
 XXXIV. Representar al Estado en las comisiones tanto federales, como interestatales regionales;
 
@@ -1885,9 +1897,21 @@ La ley determinará las características del sistema estatal de planeación demo
 
 Así mismo, la Ley facultará al Ejecutivo Estatal para que establezca los procedimientos de participación y consulta popular en el sistema estatal de planeación democrática y los criterios para la formulación, instrumentación del Plan y los Programas de Desarrollo.
 
-#### SECCION V. DEL MINISTERIO PUBLICO
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1995)</small>
+#### SECCION IV BIS. SEGURIDAD PUBLICA
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2022)</small>
+
+###### Artículo 87 Bis.
+
+La Seguridad Pública en la Entidad, será una función a cargo del Estado y de los municipios, en sus respectivos ámbitos de competencia para la prevención de los delitos, así como para determinar las sanciones a infracciones de carácter administrativo, en términos de la ley.
+
+La Seguridad Pública deberá regirse por los principios de eficiencia, legalidad, objetividad, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que el Estado Mexicano sea parte y por esta Constitución.
+
+Las instituciones encargadas de la Seguridad Pública en el Estado, serán de carácter civil, disciplinado y profesional. Deberán coordinarse con el Ministerio Público a fin de cumplir con los objetivos establecidos en el Sistema Nacional de Seguridad Pública, lo anterior en términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública y la Ley de Seguridad pública para el Estado de Hidalgo.
+
+Las policías de investigación actuarán bajo la conducción y el mando del Ministerio Público en la investigación de los delitos.
 
 ###### Artículo 88.
 
@@ -1905,59 +1929,81 @@ Artículo 88c. (DEROGADO, P.O. 1 DE OCTUBRE DE 1987)
 
 Artículo 88d. (DEROGADO, P.O. 1 DE OCTUBRE DE 1987)
 
-> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO [N. DE E. ANTES SECCIÓN V], P.O. 22 DE JUNIO DE 2022)</small>
 
-### CAPITULO III. DEL PODER JUDICIAL
+### CAPITULO II BIS. DEL MINISTERIO PUBLICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2022)</small>
 
 ###### Artículo 89.
 
-El Ministerio Público, representante del interés social, es una institución de buena fe, con autonomía técnica y administrativa para garantizar su independencia en la emisión de las determinaciones de su competencia.
+El Ministerio Público del Estado, representante del interés social, es una institución de buena fe, se organizará en una Fiscalía General de Justicia, como órgano público autónomo, con personalidad jurídica y patrimonio propios.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2022)</small>
 
 ###### Artículo 90.
 
-Son facultades y obligaciones del Ministerio Público: velar por la legalidad como principio rector de la convivencia social, mantener el orden jurídico, exigir el cumplimiento de la pena, cuidar de la correcta aplicación de las medidas de política anticriminal que establezca el Ejecutivo del Estado y proteger los intereses colectivos e individuales contra toda violación de las leyes, así como las establecidas en su Ley Orgánica.
+Son facultades y obligaciones del Ministerio Público: velar por la legalidad como principio rector de la convivencia social, mantener el orden jurídico, exigir el cumplimiento de la pena, cuidar de la correcta aplicación de la política criminal, implementar la política de persecución penal para un mejor resultado en materia de procuración de justicia y proteger los intereses colectivos e individuales contra toda violación de las leyes, así como las establecidas en su Ley Orgánica.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
 
 De conformidad con lo dispuesto por el párrafo tercero del artículo 9° de esta Constitución y la ley de la materia, es competencia del Ministerio Público conducir la investigación de los delitos, coordinar a las Policías y a los servicios periciales durante la investigación, resolver sobre el ejercicio de la acción penal en la forma establecida por la ley y, en su caso, ordenar las diligencias pertinentes y útiles para demostrar, o no, la existencia del hecho que la ley señale como delito y la responsabilidad de quien lo cometió o participó en su comisión.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
+
 El Ministerio Público sólo podrá solicitar al Juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2022)</small>
 
 ###### Artículo 91.
 
-El Ministerio Público estará presidido por un Procurador General y su organización estará determinada por la Ley Orgánica correspondiente.
+La persona titular de la institución del Ministerio Público será Fiscal General de Justicia, durará en su encargo siete años y es sobre quien recae la rectoría, representación y conducción de la Institución cuya organización estará determinada por la Ley Orgánica correspondiente.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2022)</small>
 
 ###### Artículo 92.
 
-El Procurador General de Justicia, el Fiscal Especializado en Delitos Electorales y el Fiscal Especializado en Delitos de Corrupción deberán rendir la protesta de Ley ante el Congreso del Estado o la Diputación Permanente en su caso, y durarán en su encargo 5 años, y solo podrán ser removidos en los términos previstos por esta Constitución por la comisión de delitos, faltas administrativas graves y por el incumplimiento grave de sus atribuciones en perjuicio de los intereses fundamentales y de su buen despacho.
+Las personas titulares de la Fiscalía General de Justicia del Estado, de la Fiscalía Especializada en Delitos Electorales y de la Fiscalía Especializada en Delitos de Corrupción deberán rendir la protesta de Ley ante el Congreso del Estado o la Diputación Permanente en su caso, solo podrán ser removidos en los términos previstos por esta Constitución, por la comisión de delitos dolosos, faltas administrativas graves y por el incumplimiento grave de sus atribuciones en perjuicio de los intereses fundamentales y de su buen despacho; las personas titulares de la Fiscalía Especializada en Delitos Electorales y de la Fiscalía Especializada en Delitos de Corrupción durarán en su encargo 5 años.
 
-A. Para ser Procurador General de Justicia del Estado, Fiscal Especializado en Delitos Electorales o Fiscal Especializado en Delitos de Corrupción, se requiere:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE JUNIO DE 2022)</small>
+
+A. Para ser titular de la Fiscalía General de Justicia del Estado, de la Fiscalía Especializada en Delitos Electorales o de la Fiscalía Especializada en Delitos de Corrupción, se requiere:
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
 I. Ser hidalguense en pleno goce de sus derechos;
 
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
+
 II. Tener cuando menos 35 años cumplidos al día de su designación;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
 III. Contar con una residencia en el Estado de Hidalgo de al menos tres años a la fecha de la designación;
 
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
+
 IV. Ser Licenciado en Derecho con título legalmente expedido con una antigüedad mínima de 5 años; y
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
 V. No haber sido condenado por delitos dolosos o faltas administrativas graves.
 
-B. Los nombramientos del Procurador General de Justicia y del Fiscal Especializado en Delitos Electorales se sujetarán a las siguientes bases:
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 22 DE JUNIO DE 2022)</small>
 
-I. El Titular del Poder Ejecutivo someterá a consideración del Congreso del Estado una lista de cuando menos cinco candidatos;
+B. Los nombramientos de la persona titular de la Fiscalía General de Justicia del Estado y de la Fiscalía Especializada en Delitos Electorales, se sujetarán a las siguientes bases:
 
-II. El Congreso designará a quien deba ocupar los cargos referidos, previa comparecencia de los candidatos propuestos; y
+I. La persona titular del Poder Ejecutivo emitirá una Convocatoria Pública abierta para que cualquier persona que aspire al cargo y cumpla con los requisitos constitucionales, haga llegar su solicitud de registro, eligiendo una lista de cuando menos cinco candidatos la cual someterá a consideración del Congreso del Estado.
 
-III. Si pasados diez días de haber sido enviada la lista de candidatos el Congreso no realizare los nombramientos respectivos, las designaciones corresponderán al titular del Poder Ejecutivo.
+II. El Congreso nombrará a quien deba ocupar los cargos referidos, previa comparecencia de las y los candidatos propuestos, dentro de los diez días hábiles posteriores a la recepción de la lista; y
 
-C. La Procuraduría General de Justicia contará con la Fiscalía Especializada en Delitos de Corrupción, la cual tendrá autonomía técnica y funcional para la investigación y persecución de los delitos de su competencia, así como para el ejercicio de la acción penal ante las autoridades competentes.
+III. Si pasados diez días de haber sido enviada la lista de candidatos el Congreso no realizare los nombramientos respectivos, las designaciones corresponderán a la persona titular del Poder Ejecutivo.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE JUNIO DE 2022)</small>
+
+C. La Fiscalía General de Justicia del Estado contará con una Fiscalía Especializada en Delitos de Corrupción y una Fiscalía Especializada en Delitos Electorales, para la investigación y persecución de los delitos de su competencia, así como para el ejercicio de la acción penal ante las autoridades competentes.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 22 DE MAYO DE 2017)</small>
 
 La persona que ocupe el cargo de Fiscal Especializado en Delitos de Corrupción, además de los requisitos establecidos en el apartado A de este artículo, no debe haber ocupado cargos de dirigencia partidista al menos dos años previos al día de su designación, la cual se sujetará al siguiente procedimiento:
 
@@ -1977,27 +2023,19 @@ IV. En los recesos del Congreso, la Diputación Permanente convocará a sesiones
 
 V. Las ausencias del Fiscal Especializado en Delitos de Corrupción, serán suplidas en los términos que determine la ley.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 3 DE NOVIEMBRE DE 2014)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 22 DE JUNIO DE 2022)</small>
 
 #### SECCION VI. SEGURIDAD PUBLICA
 
-> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
-
 ###### Artículo 92 Bis.
 
-La Seguridad Pública en la Entidad, será una función a cargo del Estado y de los municipios, en sus respectivos ámbitos de competencia para la prevención e investigación de los delitos, así como para determinar las sanciones a infracciones de carácter administrativo, en términos de la ley.
-
-La Seguridad Pública deberá regirse por los principios de eficiencia, legalidad, objetividad, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales en materia de derechos humanos que hayan sido ratificados por el Estado Mexicano y por esta Constitución.
-
-Las instituciones encargadas de la Seguridad Pública en el Estado, serán de carácter civil, disciplinado y profesional. Deberán coordinarse con el Ministerio Público a fin de cumplir con los objetivos establecidos en el Sistema Nacional de Seguridad Pública, lo anterior en términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública y la Ley de Seguridad Pública para el Estado de Hidalgo.
-
-Las policías de investigación actuarán bajo la conducción y el mando del Ministerio Público en la investigación de los delitos.
+(DEROGADO, P.O. 22 DE JUNIO DE 2022)
 
 > <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
-### CAPITULO I. DEL PATRIMONIO
+### CAPITULO III. DEL PODER JUDICIAL
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2017)</small>
 
 ###### Artículo 93.
 
@@ -2049,11 +2087,11 @@ Los magistrados del Poder Judicial del Tribunal Superior de Justicia y del Tribu
 
 Para el trámite de renuncias de los magistrados del Poder Judicial, se seguirá el mismo procedimiento que para su nombramiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2022)</small>
 
 ###### Artículo 95.
 
-Para ser magistrado del Poder Judicial, se requiere:
+Para ser magistrada o magistrado del Poder Judicial, se requiere:
 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
@@ -2075,9 +2113,9 @@ IV. Gozar de buena reputación y no haber sido condenado por delito que amerite 
 
 V. Haber residido en el país durante los dos años anteriores al día de la designación; y
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2022)</small>
 
-VI. No haber sido titular de alguna Dependencia de la Administración Pública del Estado, Procurador General de Justicia del Estado, Senador, Diputado Federal, Diputado Local, ni Gobernador del Estado, durante el año previo al día de su nombramiento.
+VI. No haber sido titular de alguna Dependencia de la Administración Pública del Estado, titular de la Fiscalía General de Justicia del Estado, Senadora o Senador, Diputada o Diputado Federal, Diputada o Diputado Local, ni Gobernadora o Gobernador del Estado, durante el año previo al día de su nombramiento.
 
 VII. (DEROGADA, P.O. 3 DE MARZO DE 2014)
 
@@ -2321,7 +2359,7 @@ IX.- Las demás que señale la Ley.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
-### CAPITULO II. DE LA HACIENDA PUBLICA
+### CAPITULO I. DEL PATRIMONIO
 
 > <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -2365,9 +2403,9 @@ Los bienes del dominio público del Estado son inalienables, imprescriptibles e 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
-### CAPITULO I. DEL MUNICIPIO LIBRE
+### CAPITULO II. DE LA HACIENDA PUBLICA
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
 ###### Artículo 105.
 
@@ -2461,7 +2499,7 @@ El Gobernador cuidará de que el Congreso del Estado conozca de la fianza con qu
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
-### CAPITULO II. DE LA CREACION Y SUPRESION DE MUNICIPIOS
+### CAPITULO I. DEL MUNICIPIO LIBRE
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -2487,7 +2525,7 @@ La competencia que la Constitución Política de los Estados Unidos Mexicanos y 
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
-### CAPITULO III. DEL GOBIERNO MUNICIPAL
+### CAPITULO II. DE LA CREACION Y SUPRESION DE MUNICIPIOS
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -2541,9 +2579,9 @@ Cuando dichas diferencias tengan carácter judicial, conocerá de ellas el Tribu
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
-### CAPITULO IV. DEL PATRIMONIO Y DE LA HACIENDA MUNICIPAL
+### CAPITULO III. DEL GOBIERNO MUNICIPAL
 
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 122.
 
@@ -2659,7 +2697,7 @@ A continuación el Presidente municipal tomará la protesta a los demás integra
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
-### CAPITULO V. DE LAS FUNCIONES Y SERVICIOS PUBLICOS MUNICIPALES
+### CAPITULO IV. DEL PATRIMONIO Y DE LA HACIENDA MUNICIPAL
 
 > <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -2765,7 +2803,7 @@ Si al inicio del año no estuviere aprobado el Presupuesto de Egresos de los Mun
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
-### CAPITULO VI. DE LAS BASES DE FUNCIONAMIENTO DE LA ADMINISTRACION PUBLICA MUNICIPAL
+### CAPITULO V. DE LAS FUNCIONES Y SERVICIOS PUBLICOS MUNICIPALES
 
 > <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -2815,7 +2853,7 @@ Si para la ejecución de los convenios a que se refiere el presente artículo se
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
-### CAPITULO VII. DE LAS FACULTADES Y OBLIGACIONES DE LOS TITULARES DEL GOBIERNO MUNICIPAL
+### CAPITULO VI. DE LAS BASES DE FUNCIONAMIENTO DE LA ADMINISTRACION PUBLICA MUNICIPAL
 
 > <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -2905,9 +2943,9 @@ XX. Las demás que le concedan la Constitución Política de los Estados Unidos 
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
-### CAPITULO UNICO
+### CAPITULO VII. DE LAS FACULTADES Y OBLIGACIONES DE LOS TITULARES DEL GOBIERNO MUNICIPAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 142.
 
@@ -3017,7 +3055,7 @@ Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán p
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 149.
 
@@ -3031,11 +3069,11 @@ El Gobernador del Estado, los Diputados Locales, los Magistrados del Tribunal Su
 
 Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial, de intereses y fiscal, ante las autoridades competentes y en los términos que determine la ley de la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2022)</small>
 
 ###### Artículo 150.
 
-Serán sujetos de juicio político: las Diputadas y los Diputados del Congreso Local, el Auditor Superior, las y los titulares de la administración municipal, las y los Síndicos, las Regidoras y los Regidores, las Magistradas y los Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal de Justicia Administrativa y del Tribunal Electoral, las Secretarías y los Secretarios del despacho del Poder Ejecutivo, la o el titular de la Procuraduría General de Justicia, la Fiscalía Especializada en Delitos Electorales, así como la Fiscalía Especializada en Delitos de Corrupción y quienes tengan a su cargo las Coordinaciones creadas por el Ejecutivo, las y los directores generales o sus equivalentes de los organismos públicos autónomos y descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a estas, fideicomisos públicos de esta entidad federativa, las y los titulares de los juzgados de primera instancia por las acciones u omisiones indebidas en que incurran en el tiempo de su encargo y serán responsables por la Comisión de los delitos del orden común y de las violaciones graves a derechos humanos que se cometan durante su gestión.
+Serán sujetos de juicio político: las Diputadas y los Diputados del Congreso Local, la o el Auditor Superior, las y los titulares de la administración municipal, las y los Síndicos, las Regidoras y los Regidores, las Magistradas y los Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal de Justicia Administrativa, las Secretarias y los Secretarios del despacho del Poder Ejecutivo, la persona titular de la Fiscalía General de Justicia, de la Fiscalía Especializada en Delitos Electorales, así como la Fiscalía Especializada en Delitos de Corrupción y quienes tengan a su cargo las Coordinaciones creadas por el Ejecutivo, las y los directores generales o sus equivalentes de los organismos públicos autónomos y descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a estas, fideicomisos públicos de esta entidad federativa, las y los titulares de los juzgados de primera instancia por las acciones u omisiones indebidas en que incurran en el tiempo de su encargo y serán responsables por la Comisión de los delitos del orden común y de las violaciones graves a derechos humanos que se cometan durante su gestión.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2017)</small>
 
@@ -3137,7 +3175,7 @@ La Ley de la materia, señalará los casos de prescripción de la responsabilida
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 ## TITULO XI. PREVENCIONES GENERALES
 
@@ -3145,7 +3183,7 @@ La Ley de la materia, señalará los casos de prescripción de la responsabilida
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2014)</small>
 
 ###### Artículo 155.
 
@@ -4164,3 +4202,27 @@ P.O. 7 DE SEPTIEMBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Con el objeto de cumplir con lo estipulado en el Artículo 62 de la Constitución Política para el Estado de Hidalgo y de esa forma garantizar la aplicación del principio de paridad de género, sin que ello suponga una violación a otros derechos constitucionales y convencionales, los partidos políticos, para el proceso electoral 2021-2022, observarán sus reglas democráticas internas para la elección del candidato o candidata con una convocatoria abierta a ambos géneros, en el entendido de que para el siguiente periodo electivo deberán alternar el género.
+
+P.O. 22 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 218 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo, con las salvedades previstas en los siguientes transitorios.
+
+SEGUNDO. Las reformas relativas a la figura de la persona titular de la Fiscalía General de Justicia del Estado de Hidalgo y a esa institución, entrarán en vigor una vez que inicie la vigencia de la Ley Orgánica de la Fiscalía General de Justicia del Estado de Hidalgo y que el Congreso del Estado Libre y Soberano de Hidalgo emita la declaratoria de la autonomía de la Fiscalía, lo cual deberá realizarse dentro de los ciento ochenta días siguientes a la conclusión de los trabajos de la Comisión Interinstitucional de Transición a que hace referencia el Artículo Tercero Transitorio del presente Decreto.
+
+Además, se deberá actualizar, adecuar y armonizar la legislación secundaria conforme al presente Decreto, en tanto se continuarán aplicando las disposiciones vigentes.
+
+A partir de la entrada en funciones de la Fiscalía General de Justicia del Estado, todas las referencias de los ordenamientos jurídicos que se hagan al Procurador o Procuraduría General de Justicia del Estado de Hidalgo, deberán entenderse hechas al Fiscal o Fiscalía General de Justicia del Estado de Hidalgo.
+
+TERCERO. La persona que ostente el cargo de titular de la Procuraduría General de Justicia y se encuentre en funciones al momento de la publicación del presente Decreto, dentro de los treinta días naturales siguientes, deberá integrar una Comisión Interinstitucional de Transición, en la que participará personal de esa institución, de la Secretaría de Gobierno, de la Secretaría de Finanzas Públicas, de la Oficialía Mayor, de la Unidad de Planeación y Prospectiva y una diputada o un diputado integrante de la Primera Comisión Permanente de Seguridad Ciudadana y Justicia del Congreso del Estado, que tendrá a su cargo planificar, programar, proyectar, vigilar, evaluar y dar seguimiento a todas aquellas labores que sean necesarias para la correcta implementación del presente Decreto, el análisis integral del personal, así como coordinar las tareas entre las distintas áreas involucradas, hasta la conclusión de dicha transición, misma que deberá concretarse en un plazo no mayor de dos años.
+
+CUARTO. Una vez emitida la declaratoria a que hace referencia el Artículo Segundo Transitorio, la persona titular del Poder Ejecutivo y el Congreso del Estado, deberán llevar a cabo el procedimiento para el nombramiento de la persona que ejercerá el cargo de Fiscal General de Justicia del Estado.
+
+QUINTO. El Poder Ejecutivo Estatal deberá realizar los procedimientos de desincorporación de los recursos materiales con que cuenta la Procuraduría General de Justicia del Estado, los cuales pasarán a formar parte de la Fiscalía General del Estado, lo anterior en términos del artículo 71 fracción XXXV de la Constitución Política del Estado de Hidalgo.
+
+SEXTO. La Fiscalía General del Estado, una vez en funciones, deberá proveer lo necesario para salvaguardar los derechos de las partes en el marco de la competencia del Ministerio Público y dar continuidad a las carpetas de investigación y procedimientos penales iniciados antes de la entrada en vigor de la autonomía de esta Institución, en términos de lo señalado en el Artículo Segundo Transitorio del presente Decreto.
+
+SÉPTIMO. El Poder Legislativo en coordinación con el Poder Ejecutivo, deberán implementar las medidas presupuestales y administrativas necesarias para la correcta transición de la Procuraduría General de Justicia a la Fiscalía General de Justicia como organismo autónomo. Las partidas presupuestales deberán señalarse de manera inmediata en el presupuesto de egresos siguiente al ejercicio fiscal en que se publique el presente Decreto. Este presupuesto deberá destinarse al diseño y planeación estratégica, los cambios organizacionales y de gestión, la construcción y operación de la infraestructura, el equipamiento y las tecnologías de la información y comunicación propias del órgano autónomo y la profesionalización necesaria para el personal de la Institución.
+
+OCTAVO. El Poder Legislativo del Estado garantizará que los fondos y recursos destinados a la procuración de justicia sean progresivos, excepto en los casos y términos que el propio Congreso del Estado establezca, al aprobar el presupuesto de egresos.
