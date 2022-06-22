@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-prevenir-combatir-y-sancionar-toda-forma-de-56440"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2022-05-20"
+last_updated: "2022-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -437,6 +437,22 @@ III. Garantizar el libre acceso y permanencia a los servicios médicos, de acuer
 
 IV. Emprender campañas en los medios masivos de comunicación para promover el respeto por la diversidad de orientaciones sexuales y de identidad de género.
 
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2022)</small>
+
+###### Artículo 27 Bis.
+
+Los entes públicos, estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras medidas positivas que propicien igualdad de oportunidades y de trato a favor de las personas en situación de calle, las siguientes:
+
+I. Identificar las prácticas discriminatorias y evitar los retiros forzados de las vías públicas que transgredan los derechos humanos de las personas en situación de calle;
+
+II. Diseñar e implementar programas para atender a las personas en situación de calle desde un enfoque de derechos humanos y perspectiva de género;
+
+III. Diseñar, implementar y evaluar un mecanismo eficiente de canalización institucional, para que todas las dependencias públicas que tienen a su cargo la atención de personas en situación de calle, puedan garantizar un seguimiento efectivo en todos los procesos en los cuales interviene más de una dependencia;
+
+IV. Recabar información estadística, confiable y actualizada sobre las personas en situación de calle y el nivel de cumplimiento de sus derechos en el Estado;
+
+V. Evaluar los mecanismos que permitan investigar y sancionar el maltrato y abuso contra las personas en situación de calle durante desalojos y operativos, que ejecutan y/o instiguen las personas servidoras públicas.
+
 ### CAPÍTULO V. DE LAS ACCIONES PARA INVESTIGAR Y SANCIONAR CONDUCTAS DISCRIMINATORIAS
 
 ###### Artículo 28.
@@ -584,3 +600,11 @@ P.O. 20 DE MAYO DE 2022.
 PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 22 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 76 POR EL QUE "SE ADICIONA UN ARTÍCULO 27 BIS A LA LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
