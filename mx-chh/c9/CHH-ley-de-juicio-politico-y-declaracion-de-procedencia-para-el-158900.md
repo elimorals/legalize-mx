@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-juicio-politico-y-declaracion-de-procedencia-para-el-158
 country: "mx"
 rank: "ley"
 publication_date: "2022-06-11"
-last_updated: "2022-06-11"
+last_updated: "2022-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158900&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JUNIO DE 2022 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE CHIHUAHUA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA EL 22 DE JUNIO DE 2022.]</small>
 
 Ley publicada en el Anexo al No. 47 del Periódico Oficial del Estado de Chihuahua, el sábado 11 de junio de 2022.
 
@@ -529,9 +529,9 @@ Queja.
 
 Procederá la queja en contra de los órganos legislativos que intervienen en la sustanciación, por no realizar un acto procedimental dentro de los plazos señalados por esta Ley. La queja podrá ser promovida por cualquiera de las partes.
 
-La queja será interpuesta ante la Comisión Jurisdiccional, la cual tiene un plazo de tres días para subsanar dicha omisión, o bien, realizar un informe (sic)
+> <small>(F. DE E., P.O. 22 DE JUNIO DE 2022)</small>
 
-(sic) breve y conciso sobre las razones por las cuales no se ha verificado el acto procedimental o la formalidad exigidos por la norma omitida, y remitir el recurso y dicho informe a la Presidencia del Congreso, quien deberá resolver lo conducente dentro de los siguientes tres días.
+La queja será interpuesta ante la Comisión Jurisdiccional, la cual tiene un plazo de tres días para subsanar dicha omisión, o bien, realizar un informe breve y conciso sobre las razones por las cuales no se ha verificado el acto procedimental o la formalidad exigidos por la norma omitida, y remitir el recurso y dicho informe a la Presidencia del Congreso, quien deberá resolver lo conducente dentro de los siguientes tres días.
 
 ###### Artículo 37.
 
@@ -590,6 +590,10 @@ No podrán imponerse dos veces, por una sola conducta, sanciones de la misma nat
 Prórroga del período ordinario de sesiones.
 
 Cuando hubiera concluido un período ordinario de sesiones, y el Pleno del Congreso esté conociendo de un juicio político o de un procedimiento de declaración de procedencia, prorrogará aquel hasta pronunciar su resolución, sin ocuparse de ningún otro asunto.
+
+> <small>(F. DE E., P.O. 22 DE JUNIO DE 2022)</small>
+
+Si durante una Diputación Permanente se requiriera que el Pleno resolviera sobre alguno de los procedimientos mencionados en el párrafo anterior, se convocará a un periodo extraordinario de sesiones.
 
 ###### Artículo 44.
 
