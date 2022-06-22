@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-trabajadores-al-servicio-del-estado-de-puebla-7738"
 country: "mx"
 rank: "ley"
 publication_date: "1966-11-18"
-last_updated: "2021-10-28"
+last_updated: "2022-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2022.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Puebla, el viernes 18 de noviembre de 1966.
 
@@ -729,6 +729,10 @@ Para los efectos de esta Ley se crea un Tribunal Colegiado, que se denominará T
 
 Para la designación de nuevos Magistrados por vacantes, se seguirá el procedimiento indicado en el artículo anterior.
 
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2022)</small>
+
+La falta de alguna de las personas titulares de las Magistraturas representantes será suplida por la persona titular de la Secretaría General del Tribunal con el carácter de persona Encargada de Despacho, quien contará con las mismas atribuciones que la Ley concede a las personas titulares de las Magistraturas del Tribunal de Arbitraje, hasta en tanto se realice la designación correspondiente, conforme al procedimiento previsto en el artículo anterior.
+
 ###### ARTICULO 78.
 
 El Presidente del Tribunal de Arbitraje, durará en su cargo tres años y sólo podrá ser removido por delitos graves del orden común, los Magistrados representantes de los trabajadores y el Estado podrán ser removidos libremente por quienes los designaron.
@@ -1118,6 +1122,14 @@ TERCERO. La Secretaría de Finanzas y Administración del Gobierno del Estado, a
 P.O. 28 DE OCTUBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 39 Y LA FRACCIÓN X AL 40 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA EL PÁ1RNFO SEGUNDO AL ARTÍCULO 77 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
