@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-electricidad-120888
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-04-12"
-last_updated: "2021-05-10"
+last_updated: "2022-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120888&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-04-05"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2022.
 
 Estatuto publicado en la Segunda Sección al Número 8 del Diario Oficial de la Federación, el miércoles 12 de abril de 2017.
 
@@ -463,6 +463,18 @@ I. Subdirección de Estrategia Comercial; y
 
 II. Subdirección de Nuevos Negocios.
 
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2022)</small>
+
+II.1 Unidad de Negocio CFE TELECOM;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2022)</small>
+
+II.2 Unidad de Negocio Laboratorio de Pruebas de Equipos y Materiales (LAPEM); y
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2022)</small>
+
+II.3 Unidad de Negocio Programa de Ahorro de Energía del Sector Eléctrico (PAESE).
+
 ###### ARTÍCULO 17.
 
 A la Dirección Corporativa de Finanzas estarán adscritas las siguientes áreas:
@@ -653,11 +665,11 @@ VII. Emitir opinión sobre los proyectos de normatividad y de políticas general
 
 VIII. Someter a consideración del Director General, para aprobación del Consejo, la creación, fusión o escisión de empresas productivas subsidiarias, así como de empresas filiales.
 
-(F. DE E., D.O.F. 10 DE MAYO DE 2017) (REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE SEPTIEMBRE DE 2019)
+(F. DE E., D.O.F. 10 DE MAYO DE 2017) (REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE JUNIO DE 2022)
 
 ###### ARTÍCULO 28.
 
-A la Dirección Corporativa de Negocios Comerciales, además de las funciones genéricas señaladas en el presente Estatuto, le corresponden, en relación con las actividades de suministro básico, suministro calificado, de Proveeduría de Insumos Primarios, así como las Unidades de Negocios denominadas CFE TELECOM, Laboratorio de Pruebas de Equipos y Materiales, y Programa de Ahorro de Energía del Sector Eléctrico, las siguientes:
+A la Dirección Corporativa de Negocios Comerciales, además de las funciones genéricas señaladas en el presente Estatuto, le corresponden, en relación con las actividades de suministro básico, suministro calificado, de proveeduría de insumos primarios; así como las Unidades de Negocio denominadas: CFE TELECOM, Laboratorio de Pruebas de Equipos y Materiales (LAPEM), y Programa de Ahorro de Energía del Sector Eléctrico (PAESE), las siguientes:
 
 I. Proponer metas estratégicas e indicadores clave para el desempeño de los principales proyectos, productos o servicios, conforme al Plan de Negocios;
 
@@ -665,7 +677,9 @@ II. Conocer las principales estrategias, así como proponer las medidas necesari
 
 III. Proponer medidas preventivas o correctivas en caso de que se presenten desviaciones a las metas estratégicas;
 
-IV. Diagnosticar riesgos operativos;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2022)</small>
+
+IV. Emitir opinión sobre los riesgos estratégicos, así como proponer medidas para su control, prevención o mitigación;
 
 V. Establecer mecanismos para mejorar la comercialización de servicios y productos, así como para aprovechar las economías de escala y crear eficiencias operativas y optimización de activos;
 
@@ -679,9 +693,7 @@ IX. Identificar potenciales nuevos negocios, así como proponer estrategias para
 
 X. Analizar y emitir opinión respecto de estrategias de negocios, así como para la adopción de innovaciones tecnológicas y comerciales.
 
-> <small>(ADICIONADA, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
-
-XI. Vigilar y dar seguimiento a las actividades de gestión comercial de los contratos de combustibles de los que sea titular la Comisión Federal de Electricidad, realizadas por las áreas de la organización y estructura corporativa correspondientes.
+XI. (DEROGADA, D.O.F. 22 DE JUNIO DE 2022)
 
 ###### ARTÍCULO 29.
 
@@ -953,11 +965,15 @@ II. Analizar las principales estrategias comerciales, así como proponer las med
 
 III. Diseñar medidas preventivas o correctivas en caso de que se presenten desviaciones a las metas; y
 
-IV. Revisar la gestión de los riesgos operativos.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2022)</small>
+
+IV. Revisar la gestión de los riesgos estratégicos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 39.
 
-A la Subdirección de Nuevos Negocios le corresponden, además de las funciones genéricas señaladas en el presente Estatuto, las siguientes:
+A la Subdirección de Nuevos Negocios le corresponden, además de las funciones genéricas señaladas en el presente Estatuto, en relación con las actividades de las Unidades de Negocio: CFE TELECOM, Laboratorio de Pruebas de Equipos y Materiales (LAPEM), y Programa de Ahorro de Energía del Sector Eléctrico (PAESE), las siguientes:
 
 I. Operar los mecanismos que se establezcan para mejorar la comercialización de servicios y productos, así como aprovechar las economías de escala y crear eficiencias operativas y optimización de activos;
 
@@ -1363,15 +1379,29 @@ El Consejo, a propuesta del Director General, aprobará la creación, modificaci
 
 CFE TELECOM es la Unidad de Negocio responsable de la prestación o provisión de servicios de telecomunicaciones, en términos de las leyes aplicables a la materia.
 
-> <small>(F. DE E., D.O.F. 10 DE MAYO DE 2017)</small>
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2022)</small>
+
+CFE TELECOM, estará bajo la supervisión de la Dirección Corporativa de Negocios Comerciales, a través de la Subdirección de Nuevos Negocios, y contará con un Titular.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 58.
 
-El Laboratorio de Pruebas de Equipos y Materiales es la Unidad de Negocio responsable de la creación de valor a través del aprovechamiento, administración y comercialización de servicios relacionados a soluciones de ingeniería especializada, pruebas de laboratorio y campo a equipos y materiales, así como servicios de gestión de calidad de suministros y sistemas en el sector energético nacional y extranjero.
+El Laboratorio de Pruebas de Equipos y Materiales (LAPEM) es la Unidad de Negocio responsable de la creación de valor a través del aprovechamiento, administración y comercialización de servicios relacionados a soluciones de ingeniería especializada, pruebas de laboratorio y campo a equipos y materiales, así como servicios de gestión de calidad de suministros y sistemas en el sector energético nacional y extranjero.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2022)</small>
+
+El LAPEM, estará bajo la supervisión de la Dirección Corporativa de Negocios Comerciales, a través de la Subdirección de Nuevos Negocios, y contará con un Titular.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 59.
 
-El Programa de Ahorro de Energía del Sector Eléctrico es la Unidad de Negocio responsable de la creación de valor a través del aprovechamiento, administración y comercialización de los servicios relacionados a la evaluación, certificación y comercialización de dispositivos, técnicas, sistemas de control y tecnologías que promuevan el ahorro de energía eléctrica.
+El Programa de Ahorro de Energía del Sector Eléctrico (PAESE) es la Unidad de Negocio responsable de la creación de valor a través del aprovechamiento, administración y comercialización de los servicios relacionados a la evaluación, certificación y comercialización de dispositivos, técnicas, sistemas de control y tecnologías que promuevan el ahorro de energía eléctrica.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2022)</small>
+
+El PAESE, estará bajo la supervisión de la Dirección Corporativa de Negocios Comerciales, a través de la Subdirección de Nuevos Negocios, y contará con un Titular.
 
 > <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2021)</small>
 
@@ -1652,3 +1682,9 @@ D.O.F. 10 DE MAYO DE 2021.
 Primero.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- En tanto no sea aprobado el manual de organización específico de la Coordinación Corporativa Nuclear, dicha Unidad de Negocio tendrá la estructura y las funciones con las que actualmente cuenta la Gerencia de Centrales Nucleoeléctricas y estará sujeta a la normatividad interna que actualmente la rige.
+
+D.O.F. 22 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DE “MODIFICACIONES AL ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD”.]
+
+ÚNICO.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
