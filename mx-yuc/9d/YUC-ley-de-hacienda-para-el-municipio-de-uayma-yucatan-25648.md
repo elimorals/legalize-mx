@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-uayma-yucatan-25648"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2016-12-28"
+last_updated: "2022-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE UAYMA, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JUNIO DE 2022.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 30 de diciembre de 2000.
 
@@ -45,11 +45,21 @@ LEY DE HACIENDA PARA EL MUNICIPIO DE UAYMA, YUCATAN
 
 La presente ley es de orden público y tiene por objeto establecer las contribuciones y demás ingresos que percibirá la hacienda pública de Uayma, así como regular las obligaciones y derechos que en materia administrativa y fiscal municipal tendrán las autoridades y los sujetos a que se refiere la propia ley.
 
-> <small>(F. DE E., D.O. 29 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2022)</small>
+
+ARTÍCULO 1 BIS. Para los efectos de esta ley, se entenderá por:
+
+I. Ayuntamiento: el Ayuntamiento del municipio de Uayma, Yucatán.
+
+II. Municipio: el municipio de Uayma, Yucatán.
+
+III. UMA: el valor diario de la unidad de medida actualización, que estuviera vigente al momento en que se determine la contribución o crédito fiscal, en los términos de la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 2.
 
-El Ayuntamiento de Uayma, para cubrir los gastos de su administración y demás obligaciones a su cargo, percibirán, por conducto de sus respectivas haciendas, los ingresos por concepto de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, participaciones, aportaciones e ingresos extraordinarios que se establecen en esta Ley y en la ley de ingresos, en términos de lo dispuesto en la Constitución Política del Estado de Yucatán y en la Ley Orgánica de los Municipios del Estado de Yucatán.
+El Ayuntamiento de Uayma, para cubrir los gastos de su administración y demás obligaciones a su cargo, podrá percibir ingresos por concepto de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, participaciones, aportaciones e ingresos extraordinarios que se establecen en esta Ley y en la Ley de Ingresos, en términos de lo dispuesto en la Constitución Política del Estado de Yucatán y en la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
 ###### ARTÍCULO 3.
 
@@ -89,33 +99,35 @@ La ignorancia de las leyes y de las demás disposiciones fiscales de observancia
 
 ### CAPÍTULO III. DE LOS RECURSOS
 
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 9.
 
-Contra las resoluciones que dicten autoridades fiscales municipales, serán admisibles los recursos establecidos en la Ley Orgánica de los Municipios del Estado de Yucatán.
+Contra las resoluciones que dicten autoridades fiscales municipales, serán admisibles los recursos establecidos en la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
-Cuando se trate de multas federales no fiscales, las resoluciones que dicten las autoridades fiscales municipales podrán combatirse mediante recurso de revocación o en juicio de nulidad, de conformidad con lo dispuesto en el Código Fiscal de la Federación.
-
-En este caso los recursos que se promueven se tramitarán y resolverán en la forma prevista en dicho Código.
+Cuando se trate de multas federales no fiscales, las resoluciones que dicten las autoridades fiscales municipales podrán combatirse mediante recurso de revocación, de conformidad con lo dispuesto en el Código Fiscal de la Federación; o mediante juicio contencioso administrativo, de conformidad con lo dispuesto en la Ley Federal de Procedimiento Contencioso Administrativo. En este caso los recursos que se promueven se tramitarán y resolverán en la forma prevista en dicho Código.
 
 ### CAPÍTULO IV. DE LAS GARANTÍAS
 
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 10.
 
-Interpuesto en tiempo algún recurso, en los términos de la Ley Orgánica de los Municipios del Estado de Yucatán o del Código Fiscal de la Federación, a solicitud de la parte interesada, se suspenderá la ejecución de la resolución recurrida cuando el contribuyente otorgue garantía suficiente a juicio de la autoridad.
+Interpuesto en tiempo algún recurso, en los términos de la Ley de Gobierno de los Municipios del Estado de Yucatán, del Código Fiscal de la Federación o de la Ley Federal de Procedimiento Contencioso Administrativo, a solicitud de la parte interesada, se suspenderá la ejecución de la resolución recurrida cuando el contribuyente otorgue garantía suficiente a juicio de la autoridad.
 
-Las garantías que menciona este artículo serán estimadas por la autoridad como suficientes, siempre que cubran, además de las contribuciones o créditos actualizados, los accesorios (recargos y multas) causados, así como los que se generen en los doce meses siguientes a su otorgamiento.
+Las garantías que menciona este artículo serán estimadas por la autoridad como suficientes, siempre que cubran, además de las contribuciones o créditos actualizados, los accesorios causados, así como los que se generen en los doce meses siguientes a su otorgamiento.
 
-Dichas garantías serán:
+Las garantías a que se refieren los párrafos anteriores podrán ser:
 
-a).- Depósito de dinero, en efectivo o en cheque certificado ante la propia autoridad o en una Institución Bancaria autorizada, entregando el correspondiente recibo o billete de depósito.
+I. Depósito de dinero, en efectivo o en cheque certificado ante la propia autoridad o en una institución bancaria autorizada, entregando el correspondiente recibo o billete de depósito.
 
-b).- Fianza, expedida por compañía debidamente autorizada para ello.
+II. Fianza, expedida por compañía debidamente autorizada para ello, la que no gozará de los beneficios de orden y exclusión.
 
-c).- Hipoteca.
+III. Hipoteca.
 
-d).- Prenda.
+IV. Prenda, la cual solamente será aceptada por la autoridad como tal, cuando el monto del crédito fiscal y sus accesorios sea menor o igual a 100 UMA al momento de la determinación del crédito.
 
-Respecto de la garantía prendaria, solamente será aceptada por la autoridad como tal, cuando el monto del crédito fiscal y sus accesorios sea menor o igual a 50 salarios mínimos diarios vigentes en el municipio al momento de la determinación de dicho crédito.
+V. Embargo en la vía administrativa, en cuyo caso deberán pagarse los gastos de ejecución que se establecen en los artículos 136 y 137 de esta ley.
 
 En el procedimiento de constitución de estas garantías se observarán en cuanto fueren aplicables las reglas que fijen en el Código Fiscal de la Federación y el reglamento de dicho Código.
 
@@ -209,9 +221,31 @@ Las aportaciones son los recursos que la federación transfiere a las haciendas 
 
 INGRESOS EXTRAORDINARIOS
 
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 20.
 
-Los ingresos extraordinarios son aquellos distintos de los anteriores que las haciendas públicas municipales estiman percibir como partes integrantes del presupuesto municipal, como por ejemplo los empréstitos, la emisión de bonos de deuda pública y otros ingresos que se obtengan de las diversas fuentes de financiamiento, siempre que fueran aprobados por la Legislatura del Estado en términos de lo dispuesto en la Ley Orgánica de los Municipios del Estado de Yucatán y en la Constitución Política del Estado de Yucatán. Los donativos también se considerarán ingresos extraordinarios.
+Los ingresos extraordinarios son los recursos que percibe la Hacienda pública municipal distintos de los referidos en los capítulos anteriores. En todo caso, se considerarán ingresos extraordinarios, los recursos obtenidos por:
+
+I. Financiamientos o empréstitos que se obtengan de acuerdo con lo establecido en la Constitución Política del Estado de Yucatán y las leyes en materia de presupuesto, contabilidad gubernamental, responsabilidad hacendaria y la demás legislación y normativa aplicable.
+
+II. Conceptos diferentes a participaciones, aportaciones, y a aquellos derivados de convenios de colaboración administrativa catalogados como aprovechamientos, que sean recibidos del estado y la federación.
+
+III. Donativos.
+
+IV. Cesiones.
+
+V. Herencias.
+
+VI. Legados.
+
+VII. Adjudicaciones judiciales.
+
+VIII. Adjudicaciones administrativas.
+
+IX. Subsidios de organismos públicos y privados.
+
+X. La recuperación de créditos otorgados o pagos realizados en ejercicios anteriores.
 
 ### CAPÍTULO VII. DE LOS CRÉDITOS FISCALES
 
@@ -237,9 +271,11 @@ DE LOS SUJETOS OBLIGADOS Y DE LOS OBLIGADOS SOLIDARIOS
 
 Las personas domiciliadas dentro del Municipio de Uayma o fuera de él que tuvieren bienes o celebren actos dentro del territorio del mismo, están obligados a contribuir para los gastos públicos del municipio y a cumplir con las disposiciones administrativas y fiscales que se señalen en la presente Ley, en el Código Fiscal del Estado y en los Reglamentos Municipales que correspondan.
 
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 24.
 
-Para los efectos de esta Ley se entenderá por territorio municipal, el área geográfica que, para cada uno de los municipios del estado señala, la Ley Orgánica de los Municipios del Estado de Yucatán o bien el área geográfica que delimite el Congreso del Estado en cualquiera de los casos previstos en la propia Ley Orgánica.
+Para los efectos de esta Ley se entenderá por territorio municipal, el área geográfica que, para cada uno de los municipios del estado, señala la Ley de Gobierno de los Municipios del Estado de Yucatán, o bien, el área geográfica que delimite el Congreso del Estado en cualquiera de los casos previstos en la propia Ley de Gobierno de los Municipios del Estado de Yucatán.
 
 ###### ARTÍCULO 25.
 
@@ -371,11 +407,9 @@ Las multas por infracciones a las disposiciones municipales sean éstas de cará
 
 DEL SALARIO MÍNIMO
 
-> <small>(F. DE E., D.O. 29 DE MARZO DE 2001)</small>
-
 ###### ARTÍCULO 37.
 
-Cuando en la presente Ley se haga mención de las palabras "salario" o "salario mínimo" dichos términos se entenderán indistintamente como el salario mínimo general diario vigente en el estado de Yucatán en el momento de realización de la situación jurídica o de hecho prevista en la misma. Tratándose de multas, el salario que servirá de base para su cálculo será el vigente al momento de individualizar la sanción.
+(DEROGADO, D.O. 22 DE JUNIO DE 2022)
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES
 
@@ -491,9 +525,15 @@ IV.- Los fiduciarios, cuando por virtud del contrato del fideicomiso tengan la p
 
 V.- Los ejidatarios, comuneros y/o titulares de los certificados de derechos de propiedad agraria, otorgados por el organismo o dependencia encargado de la regularización de la tenencia de la tierra o por la autoridad judicial competente en caso de conflicto entre las partes.
 
-VI.- Los Organismos descentralizados, las empresas de participación estatal que tengan en propiedad o posesión bienes inmuebles del dominio público de la Federación, Estado, o Municipio, utilizados o destinados para fines administrativos o propósitos distintos a los de su objeto público, y
+> <small>(REFORMADA, D.O. 22 DE JUNIO DE 2022)</small>
+
+VI.- Los organismos descentralizados, las empresas de participación estatal que tengan en propiedad o posesión bienes inmuebles del dominio público de la Federación, Estado, o Municipio, utilizados o destinados para fines administrativos o propósitos distintos a los de su objeto público.
 
 VII.- Las personas físicas o morales que posean por cualquier título bienes inmuebles del dominio público de la Federación, Estado o Municipio utilizados o destinados para fines administrativos o propósitos distintos a los de su objeto público.
+
+> <small>(ADICIONADA, D.O. 22 DE JUNIO DE 2022)</small>
+
+VIII.- Los subarrendadores, cuya base será la diferencia que resulte a su favor entre la contraprestación que recibe y la que paga.
 
 Los propietarios de los predios a los que se refiere la fracción I del artículo 44 de esta Ley, deberán manifestar a la Tesorería Municipal, el número total y la dirección de los predios de su propiedad ubicados en el Municipio correspondiente. Asimismo deberán comunicar si el predio de que se trata se encuentra en alguno de los supuestos mencionados en cualquiera de las fracciones anteriores.
 
@@ -513,11 +553,11 @@ IV.- Los representantes legales de las sociedades, asociaciones, comunidades y p
 
 V.- El vencido en un procedimiento judicial o administrativo por virtud del cual el predio de que se trate deba adjudicarse a otra persona, hasta el día en que, conforme a la ley del caso, se verifique dicha adjudicación. Las autoridades judiciales y administrativas se cerciorarán previamente a la adjudicación del inmueble del cumplimiento de esta obligación.
 
-VI.- Los comisarios o representantes ejidales en los términos de las leyes agrarias,
+VI.- Los comisarios o representantes ejidales en los términos de las leyes agrarias, y
 
-Y
+> <small>(REFORMADA, D.O. 22 DE JUNIO DE 2022)</small>
 
-VII.- Los Titulares y/o representantes de los organismos descentralizados, empresas de participación estatal y particulares que posean bienes del dominio público de la Federación Estado o Municipio, en términos de las fracciones VI y VII del artículo anterior.
+VII.- La federación, el estado y municipio, cuando por cualquier título concedan la posesión de los bienes de dominio público, a las entidades paraestatales, los organismos descentralizados, las personas morales o físicas, y los utilicen para fines administrativos o propósitos distintos a su objeto público, en términos de las fracciones VI y VII del artículo anterior.
 
 DEL OBJETO
 
@@ -535,17 +575,41 @@ IV.- Los derechos del fideicomitente, durante el tiempo que el fiduciario estuvi
 
 V.- Los derechos de la fiduciaria, en relación con lo dispuesto en el artículo 42 de esta Ley, y
 
-VI.- La propiedad o posesión por cualquier título de bienes inmuebles del dominio público de la federación, estado o municipio, utilizados o destinados para fines administrativos o propósitos distintos a los de su objeto público.
+> <small>(REFORMADA, D.O. 22 DE JUNIO DE 2022)</small>
 
-DE LAS BASES
+VI.- La propiedad o posesión de los bienes inmuebles del dominio público de la federación, del estado y el municipio, cuando por cualquier título las entidades paraestatales, los organismos descentralizados, las personas morales o físicas, los utilicen para fines administrativos o propósitos distintos a su objeto público, de acuerdo al régimen de excepción establecido en el párrafo segundo del inciso c) de la fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2022)</small>
+
+ARTÍCULO 44 BIS.- Los sujetos obligados de este impuesto están obligados a declarar a la Tesorería:
+
+I. El valor manifestado de sus inmuebles.
+
+II. La terminación de nuevas construcciones, reconstrucciones o la ampliación de construcciones ya existentes.
+
+III. La división, fusión o demolición de inmuebles.
+
+IV. Cualquier modificación que altere el valor fiscal de los inmuebles o los datos de su empadronamiento.
+
+Las declaraciones previstas en este artículo deberán presentarse en las formas oficiales establecidas, dentro de los quince días naturales siguientes a la fecha del acto o contrato que la motive, acompañando a estas los documentos justificantes correspondientes.
+
+> <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2022)</small>
+
+ARTÍCULO 44 TER.- Todo inmueble deberá estar inscrito en el padrón fiscal municipal. La violación de esta disposición motivará, además de la aplicación de las sanciones que autoriza esta ley, que se haga el cobro del importe del impuesto correspondiente a cinco años fiscales anteriores a la fecha en que fuere descubierta la infracción.
+
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
+
+DE LA BASE
+
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 45.
 
-Las bases del impuesto predial son:
+Las bases del impuesto predial serán:
 
-I.- El valor catastral del inmueble, y
+I. El valor catastral del inmueble. Se entiende por valor catastral el señalado a los inmuebles en los términos de la legislación catastral del Estado, o del propio Municipio, cuando éste tenga a su cargo su Catastro Municipal.
 
-II.- La contraprestación que produzcan los inmuebles, los terrenos o las construcciones ubicadas en los mismos y que por el uso o goce fuere susceptible de ser cobrada por el propietario, el fideicomisario o el usufructuario, independientemente de que se pacte en efectivo, especie o servicios.
+II. La contraprestación que produzcan los inmuebles, incluyendo los del dominio público, cuando por cualquier título se utilicen para fines distintos a su objeto; los terrenos o construcciones ubicadas en ellos y que por el uso o goce fuere susceptible de ser cobrada por el propietario, el fideicomisario, el usufructuario, o el concesionario, independientemente de que se pacte en efectivo, especie o servicios.
 
 DE LA BASE: VALOR CATASTRAL
 
@@ -557,47 +621,41 @@ Cuando la dirección de Catastro del Municipio de Uayma expidiere una cédula co
 
 Lo dispuesto en el párrafo anterior no se aplicará a los contribuyentes que a la fecha de la recepción de la nueva cédula catastral ya hubieren pagado el impuesto predial correspondiente. En este caso, el nuevo valor consignado en la cédula servirá como base del cálculo del impuesto predial para el siguiente bimestre no cubierto.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 22 DE JUNIO DE 2022)</small>
+
+TABLAS DE VALORES CATASTRALES
+
+> <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2022)</small>
+
+ARTÍCULO 46 BIS.- El impuesto predial anual se calculará sobre la base del valor catastral de los predios, de acuerdo con las siguientes tablas de valores unitarios de terreno y valores unitarios de construcción, correspondientes a las diferentes secciones y áreas del municipio de Uayma, Yucatán:
+
+I. Valores unitarios de terreno:
+
+> <small>[N. DE E. VÉASE TABLAS EN LA EDICIÓN VESPERTINA DEL D.O. DE 22 DE JUNIO DE 2022, PÁGINAS DE LA 7 A LA 8.]</small>
+
+II. Valores unitarios de construcción:
+
+> <small>[N. DE E. VÉASE TABLAS EN LA EDICIÓN VESPERTINA DEL D.O. DE 22 DE JUNIO DE 2022, PÁGINA 8.]</small>
+
+En caso de no estar calificadas las construcciones se usará el valor del tipo de construcción de zona media correspondiente a $2,700.00 por metro cuadrado.
+
 DE LA TARIFA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O. 18 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 47.
 
-El impuesto predial se causará de acuerdo con la siguiente tarifa:
-
-Por predios urbanos y rústicos con o sin construcción.
+El impuesto predial se causará de acuerdo con la siguiente tarifa: Por predios urbanos y rústicos con o sin construcción.
 
 VALORES CATASTRALES
 
-Límite inferior Límite superior Cuota fija anual Factor para
-
-aplicar al
-
-excedente del
-
-límite inferior
-
-Pesos Pesos Pesos
-
-0.01 4,000.00 5.00 0
-
-4,000.01 5,500.00 6.00 0
-
-5,500.01 6,500.00 11.00 0
-
-6,500.01 7,500.00 12.00 0
-
-7,500.01 8,500.00 17.00 0
-
-8,500.01 10,000.00 21.00 0
-
-10,000.01 en adelante 23.00 0.003
+> <small>[N. DE E. VÉASE TABLA EN LA EDICIÓN VESPERTINA DEL D.O. DE 22 DE JUNIO DE 2022, PÁGINA 9.]</small>
 
 A la cantidad que exceda del límite inferior le será aplicado el factor determinado en esta tarifa y el resultado se incrementará con la cuota fija anual respectiva.
 
-Todo predio destinado a la producción agropecuaria 10 al millar anual sobre el valor registrado o catastral, sin que la cantidad a pagar resultante exceda a lo establecido por la legislación agraria federal para terrenos ejidales.
+Todo predio destinado a la producción agropecuaria se pagará 10 al millar anual sobre el valor registrado o catastral, sin que la cantidad a pagar resultante exceda a lo establecido por la legislación agraria federal para terrenos ejidales.
+
+En caso de ser productores o pertenecer al ejido se hará una reducción de pago de 10 al millar anual sobre el valor registrado o catastral de hasta el 40%.
 
 DEL PAGO
 
@@ -607,6 +665,10 @@ El impuesto predial sobre la base de valor catastral deberá cubrirse por bimest
 
 Cuando el contribuyente pague el impuesto predial correspondiente a una anualidad, durante los meses de enero y febrero de dicho año, gozará de una bonificación del 0.10 sobre el importe de dicho impuesto.
 
+> <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2022)</small>
+
+ARTÍCULO 48 BIS.- El pago del impuesto predial se efectuará en la tesorería municipal, en las oficinas autorizadas por el ayuntamiento.
+
 EXENCIONES
 
 ###### ARTÍCULO 49.
@@ -615,7 +677,9 @@ Estarán exentos de pago de Impuesto Predial, los bienes de dominio público de 
 
 Cuando en un mismo inmueble se realicen simultáneamente actividades propias del objeto público de las entidades u organismos mencionados en el párrafo anterior, y otras actividades distintas o accesorias, para que la tesorería municipal correspondiente esté en condiciones de determinar el impuesto a pagar, los organismos descentralizados, las empresas de participación estatal o quienes posean bajo cualquier título inmuebles del dominio público de la federación, estado o municipio, deberán declarar, durante los primeros quince días del mes de diciembre de cada año, ante la propia Tesorería Municipal, la superficie ocupada efectivamente para la realización de su objeto principal de beneficio público. Para ello propondrán a la autoridad el deslinde catastral del bien afecto a su objeto principal señalando claramente la superficie que del mismo inmueble sea utilizado para fines administrativos o distintos a los de su objeto público.
 
-La Tesorería Municipal, dentro de los diez días siguientes a la fecha de presentación de la declaratoria de deslinde, realizará una inspección física en el lugar y resolverá si aprueba o no el deslinde de referencia. En caso afirmativo se procederá al cobro del impuesto predial, sobre la superficie deslindada como accesoria. En caso contrario, la Tesorería correspondiente notificará al contribuyente los motivos y las modificaciones que considere convenientes, resolviendo así en definitiva la superficie gravable. La resolución que niegue la aceptación del deslinde podrá ser combatida en recurso de inconformidad en términos de lo dispuesto en la Ley Orgánica de los Municipios del Estado de Yucatán.
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
+
+La Tesorería Municipal, dentro de los diez días naturales siguientes a la fecha de presentación de la declaratoria de deslinde, realizará una inspección física en el lugar y resolverá si aprueba o no el deslinde de referencia. En caso afirmativo se procederá al cobro del impuesto predial, sobre la superficie deslindada como accesoria. En caso contrario, la Tesorería correspondiente notificará al contribuyente los motivos y las modificaciones que considere convenientes, resolviendo así en definitiva la superficie gravable. La resolución que niegue la aceptación del deslinde podrá ser combatida en recurso de inconformidad en términos de lo dispuesto en la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
 Solo en los casos de que la estructura de algún inmueble no admita una cómoda delimitación o cuando no se presente la declaratoria a que se refiere el párrafo anterior, será la oficina de catastro municipal o estatal en caso de que el municipio no cuente con este servicio, la que, tomando como base los datos físicos y materiales que objetivamente presente el inmueble, fije el porcentaje que corresponda a la superficie gravable, calcule su valor catastral y éste último servirá de base a la Tesorería Municipal, para la determinación del impuesto a pagar.
 
@@ -631,9 +695,11 @@ No será aplicada esta base cuando los inmuebles sean destinados a sanatorios de
 
 DE LAS OBLIGACIONES DEL CONTRIBUYENTE.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 51.
 
-Los propietarios, fideicomisarios, fideicomitentes o usufructuarios de inmuebles, que se encuentren en cualquiera de los supuestos previstos en el artículo anterior, estarán obligados a empadronarse en la Tesorería Municipal en un plazo máximo de treinta días, contados a partir de la fecha de celebración del contrato correspondiente, entregando copia del mismo a la propia Tesorería.
+Los propietarios, fideicomisarios, fideicomitentes, usufructuarios o concesionarios de inmuebles, incluyendo los del dominio público de la federación, del estado y municipio, cuando por cualquier título se utilicen total o parcialmente para fines distintos a su objeto; que se encuentren en cualquiera de los supuestos previstos en el artículo anterior, estarán obligados a empadronarse en la dirección en un plazo máximo de treinta días naturales, contados a partir de la fecha de celebración del contrato correspondiente, entregando copia de este a la propia Tesorería.
 
 Cualquier cambio en el monto de la contraprestación que generó el pago del impuesto predial sobre la base a que se refiere el artículo 50, será notificado a la Tesorería Municipal, en un plazo de quince días, contados a partir de la fecha en que surta efectos la modificación respectiva. En igual forma, deberá notificarse la terminación de la relación jurídica que dio lugar a la contraprestación mencionada en el propio numeral 50 de esta Ley, a efecto de que la autoridad determine el impuesto predial sobre la base del valor catastral.
 
@@ -653,7 +719,7 @@ HABITACIONAL 0.03 mensual sobre el monto de la contraprestación.
 
 OTROS 0.05 mensual sobre el monto de la contraprestación.
 
-El del valor catastral del inmueble en términos de lo dispuesto en el artículo 50 de este ordenamiento legal.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O. 22 DE JUNIO DE 2022)</small>
 
 DEL PAGO
 
@@ -805,37 +871,45 @@ Los avalúos que se practiquen para el efecto del pago del Impuesto Sobre Adquis
 
 DE LA TASA
 
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 61.
 
-El impuesto a que se refiere este capítulo, se calculará aplicando la tasa del 0.02 a la base señalada en el artículo 59 de esta Ley.
+El impuesto a que se refiere este capítulo se calculará aplicando la tasa del 2.5% a la base señalada en el artículo 59 de esta Ley.
 
 DEL MANIFIESTO A LA AUTORIDAD
 
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 62.
 
-Los fedatarios públicos, las personas que por disposición legal tengan funciones notariales y las autoridades judiciales o administrativas, deberán manifestar a la Tesorería Municipal por duplicado, dentro de los treinta días siguientes a la fecha del acto o contrato, la adquisición de inmuebles realizados ante ellos, expresando:
+Los fedatarios públicos, las personas que por disposición legal tengan funciones notariales y las autoridades judiciales o administrativas deberán manifestar a la Tesorería Municipal, por duplicado, dentro de los treinta días naturales siguientes a la fecha del acto o contrato, la adquisición de inmuebles realizados ante ellos, expresando:
 
-I.- Nombre y domicilio de los contratantes.
+I. El nombre, domicilio fiscal o domicilio para oír y recibir notificaciones y número de inscripción en el Registro Federal de Contribuyentes del adquirente; así como nombre y domicilio del enajenante.
 
-II.- Nombre del fedatario público y número que le corresponda a la notaría o escribanía. En caso de tratarse de persona distinta a los anteriores y siempre que realice funciones notariales, deberá expresar su nombre y el cargo que detenta.
+II. El nombre del fedatario público y número que le corresponda a la notaría o escribanía y su dirección de correo electrónico. En caso de tratarse de persona distinta a los anteriores y siempre que realice funciones notariales, deberá expresar su nombre y el cargo que detenta.
 
-III.- Firma y sello, en su caso, del autorizante.
+III. La firma y el sello, en su caso, del autorizante.
 
-IV.- Fecha en que se firmó la escritura de adquisición del inmueble o de los derechos sobre el mismo.
+IV. La fecha en que se firmó la escritura de adquisición del inmueble o de los derechos sobre este.
 
-V.- Naturaleza del acto, contrato o concepto de adquisición.
+V. La naturaleza del acto, contrato o concepto de adquisición.
 
-VI.- Identificación del inmueble.
+VI. La identificación del inmueble
 
-VII.- Valor de la operación, y
+VII. El valor catastral vigente.
 
-VIII.- Liquidación del impuesto.
+VIII. El valor de la operación consignada en el contrato.
+
+IX. La liquidación del impuesto.
+
+Para el caso de que el manifiesto no expresare el número de inscripción al Registro Federal de Contribuyentes del adquirente o fuere de nacionalidad extranjera, la dirección, expedirá el comprobante fiscal digital para público en general o para residentes en el extranjero, según sea el caso y enviará a la dirección de correo electrónico del fedatario público el comprobante fiscal digital y su representación gráfica, de conformidad con las reglas vigentes establecidas por el Servicio de Administración Tributaria.
 
 A la manifestación señalada en este artículo, se acumulará copia del avalúo practicado al efecto.
 
-Cuando los fedatarios públicos y quienes realizan funciones notariales no cumplan con la obligación a que se refiere este artículo, serán sancionados con una multa de uno a diez salarios mínimos.
+Cuando los fedatarios públicos y quienes realizan funciones notariales no cumplan con la obligación a que se refiere este artículo, serán sancionados con una multa de 2 a 10 UMA.
 
-Los jueces o presidentes de las juntas de conciliación y arbitraje federales o estatales, únicamente tendrán la obligación de comunicar a la Tesorería Municipal, el procedimiento que motivó la adquisición, el número de expediente, el nombre o razón social de la persona a quien se adjudique el bien y la fecha de adjudicación.
+Los jueces o presidentes de los centros de conciliación y registro laboral federales o estatales únicamente tendrán la obligación de comunicar a la dirección, el procedimiento que motivó la adquisición, el número de expediente, el nombre o razón social de la persona a quien se adjudique el bien y la fecha de adjudicación.
 
 DE LOS RESPONSABLES SOLIDARIOS
 
@@ -963,11 +1037,13 @@ Las personas físicas y morales pagarán los derechos que se establecen en esta 
 
 El pago de los derechos deberá hacerse previamente a la prestación del servicio, salvo en los casos expresamente señalados en esta Ley.
 
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 76.
 
-Los derechos que establece esta Ley se pagarán por los servicios que preste el municipio en sus funciones de derecho público o por el uso o aprovechamiento de los bienes del dominio público del mismo.
+Los derechos son las contribuciones establecidas en esta ley como contraprestación por los servicios que presta el ayuntamiento en sus funciones de derecho público, así como por el uso y aprovechamiento de los bienes de dominio público del patrimonio municipal destinados a la prestación de un servicio público. También son derechos, las contraprestaciones a favor de organismos descentralizados o paramunicipales.
 
-Cuando de conformidad con la Ley Orgánica de los Municipios del Estado de Yucatán cualesquiera otras disposiciones legales o reglamentarias, los servicios que preste una dependencia del Ayuntamiento, sean proporcionados por otra distinta del mismo Municipio, se seguirán cobrando los derechos en los términos establecidos por esta Ley.
+Cuando de conformidad con la Ley de Gobierno de los Municipios del Estado de Yucatán cualesquiera otras disposiciones legales o reglamentarias, los servicios que preste una dependencia del Ayuntamiento, sean proporcionados por otra distinta del mismo municipio o bien por una entidad paramunicipal, se seguirán cobrando los derechos en los términos establecidos por esta Ley.
 
 ###### ARTÍCULO 77.
 
@@ -1019,6 +1095,14 @@ l) Licencia para efectuar excavaciones o para la construcción de pozos o alberc
 
 m) Licencia para construir bardas o colocar pisos.
 
+> <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2022)</small>
+
+n) Licencia de uso de suelo para banco de materiales.
+
+> <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2022)</small>
+
+ñ) Constancia de análisis de Factibilidad de Uso de Suelo para el establecimiento de bancos de explotación de materiales.
+
 DE LAS BASES
 
 ###### ARTÍCULO 81.
@@ -1057,101 +1141,103 @@ Los inmuebles que se encuentren catalogados como Monumentos Históricos por el I
 
 DE LA TARIFA
 
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 83.
 
-La tarifa del derecho por el servicio mencionado en el inciso a) del artículo 80, se pagará por metro cuadrado, conforme lo siguiente:
+Por los servicios que preste el ayuntamiento en materia de desarrollo urbano, por conducto de la unidad administrativa correspondiente, se pagarán derechos conforme a las siguientes tarifas:
 
-Para las construcciones Tipo A:
-
-Clase 1 ----------------------------------- .05 de un salario
-
-Clase 2 ----------------------------------- .10 de un salario
-
-Clase 3 ----------------------------------- .13 de un salario
-
-Clase 4 ----------------------------------- .15 de un salario
-
-Para las construcciones Tipo B:
-
-Clase 1 ----------------------------------- .05 de un salario
-
-Clase 2 ----------------------------------- .06 de un salario
-
-Clase 3 ----------------------------------- .07 de un salario
-
-Clase 4 ----------------------------------- .08 de un salario
-
-La tarifa del derecho por el servicio mencionado en el inciso b) del artículo 80, se pagará por metro cuadrado, conforme lo siguiente:
+I. La tarifa del derecho por el servicio previsto en el artículo 80, inciso a) de esta Ley se pagará por metro cuadrado, conforme lo siguiente:
 
 a) Para las construcciones Tipo A:
 
-Clase 1 ----------------------------------- .025 de un salario
+Clase 1 .10 UMA
 
-Clase 2 ----------------------------------- .030 de un salario
+Clase 2 .20 UMA
 
-Clase 3 ----------------------------------- .035 de un salario
+Clase 3 .26 UMA
 
-Clase 4 ----------------------------------- .040 de un salario
+Clase 4 .30 UMA
 
-Para las construcciones Tipo B:
+b) Para las construcciones Tipo B:
 
-Clase 1 ----------------------------------- .0125 de un salario
+Clase 1 .10 UMA
 
-Clase 2 ----------------------------------- .0150 de un salario
+Clase 2 .12 UMA
 
-Clase 3 ----------------------------------- .0175 de un salario
+Clase 3 .14 UMA
 
-Clase 4 ----------------------------------- .020 de un salario
+Clase 4 .16 UMA
 
-La tarifa del derecho por el servicio mencionado en el inciso k) del artículo 80, se pagará por predio resultante, conforme lo siguiente:
+II. La tarifa del derecho por el servicio previsto en el artículo 80, inciso b), de esta Ley se pagará por metro cuadrado, conforme lo siguiente:
 
 a) Para las construcciones Tipo A:
 
-Clase 1 ----------------------------------- .05 de un salario
+Clase 1 .05 UMA
 
-Clase 2 ----------------------------------- .10 de un salario
+Clase 2 .06 UMA
 
-Clase 3 ----------------------------------- .15 de un salario
+Clase 3 .07 UMA
 
-Clase 4 ----------------------------------- .20 de un salario
+Clase 4 .08 UMA
 
-Para las construcciones Tipo B:
+b) Para las construcciones Tipo B:
 
-Clase 1 ----------------------------------- .010 de un salario
+Clase 1 .025 UMA
 
-Clase 2 ----------------------------------- .015 de un salario
+Clase 2 .03 UMA
 
-Clase 3 ----------------------------------- .020 de un salario
+Clase 3 .035 UMA
 
-Clase 4 ----------------------------------- .030 de un salario
+Clase 4 .04 UMA
 
-La tarifa del derecho por los servicios mencionados en los demás incisos del artículo 80, será de:
+III. La tarifa del derecho por el servicio previsto en el artículo 80, inciso k), de esta Ley se pagará por predio resultante, conforme lo siguiente:
 
-Por el servicio previsto en el inciso c) ------- .02 de un salario, por metro
+a) Para las construcciones Tipo A:
 
-cuadrado.
+Clase 1 .10 UMA
 
-Por el servicio previsto en el inciso d) ------- .10 de un salario, por metro lineal.
+Clase 2 .20 UMA
 
-Por el servicio previsto en el inciso e) ------- .15 de un salario por el servicio.
+Clase 3 .30 UMA
 
-Por el servicio previsto en el inciso f) ------- .25 de un salario por el servicio.
+Clase 4 .40 UMA
 
-Por el servicio previsto en el inciso g) ------- .10 de un salario por metro lineal
+b) Para las construcciones Tipo B:
 
-Por el servicio previsto en el inciso h) ------- .20 de un salario por el resultante
+Clase 1 .02 UMA
 
-Por el servicio previsto en el inciso i) ------- .02 de un salario por metro
+Clase 2 .03 UMA
 
-cuadrado de vía pública
+Clase 3 .04 UMA
 
-Por el servicio previsto en el inciso j) ------- .30 de un salario por el servicio
+Clase 4 .06 UMA
 
-Por el servicio previsto en el inciso l) ------- .25 de un salario por metro cúbico
+IV. La tarifa del derecho por los servicios previstos en los demás incisos del artículo 80 de esta Ley se pagara, conforme a lo siguiente:
 
-Por el servicio previsto en el inciso m) ------ .05 de un salario, por metro
+Por el servicio previsto en el inciso c) .04 UMA por m2
 
-cuadrado
+Por el servicio previsto en el inciso d) .20 UMA por metro lineal
+
+Por el servicio previsto en el inciso e) .30 UMA por el servicio
+
+Por el servicio previsto en el inciso f) .50 UMA por m2
+
+Por el servicio previsto en el inciso g) .20 UMA por metro lineal
+
+Por el servicio previsto en el inciso h) .40 UMA por el resultante
+
+Por el servicio previsto en el inciso i) .04 UMA por m2 de vía pública
+
+Por el servicio previsto en el inciso j) .60 UMA por el servicio
+
+Por el servicio previsto en el inciso l) .50 UMA por m3
+
+Por el servicio previsto en el inciso m) .1 UMA por m2
+
+Por el servicio previsto en el inciso n) 520 UMA
+
+Por el servicio previsto en el inciso ñ) 60 UMA
 
 Las construcciones, excavaciones, demoliciones y demás obras o trabajos iniciados o llevados a cabo sin la licencia, autorización o constancia correspondiente, se entenderán extemporáneos y pagarán una sanción correspondiente a tres tantos el importe de la tarifa respectiva.
 
@@ -1197,21 +1283,19 @@ Son responsables solidarios del pago de estos derechos, los ingenieros, contrati
 
 ### CAPÍTULO III. OTROS SERVICIOS PRESTADOS POR EL AYUNTAMIENTO
 
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 87.
 
-Las personas físicas y morales que solicite los servicios que a continuación se detallan estarán obligadas al pago de los derechos conforme a lo siguiente:
+Las personas físicas y morales que solicite (sic) los servicios que a continuación se detallan estarán obligadas al pago de los derechos conforme a lo siguiente:
 
-Servicio Factor Salario Mínimo
+I. Por participar en licitaciones 20 UMA
 
-A) Por participar en licitaciones---------------- 10.0
+II. Certificaciones y constancias expedidas por el Ayuntamiento .30 UMA
 
-B) Certificaciones y constancias expedidas por el
+III. Venta de formas oficiales impresas .20 UMA
 
-Ayuntamiento 0.15
-
-C) Venta de formas oficiales impresas 0.10
-
-Por cada certificado que expida cualesquiera de las dependencias del Ayuntamiento, se pagará un derecho equivalente al .05 del importe de un salario mínimo vigente en la fecha de la expedición, salvo en aquellos casos en que esta propia ley señale de manera expresa otra tasa o tarifa y el certificado de estar al corriente en el pago del impuesto predial, que para su expedición requerirá el anexo del recibo de pago de este derecho, que emite la Universidad Autónoma de Yucatán.
+Por cada certificado que expida cualesquiera de las dependencias del Ayuntamiento, se pagará un derecho equivalente al .1 del importe de una UMA, salvo en aquellos casos en que esta propia ley señale de manera expresa otra tasa o tarifa y el certificado de estar al corriente en el pago del impuesto predial que, para su expedición, requerirá el anexo del recibo de pago de este derecho.
 
 ### CAPÍTULO IV. DERECHOS POR SERVICIO DE RASTRO
 
@@ -1227,31 +1311,65 @@ DEL OBJETO
 
 Es objeto de este derecho, el transporte, matanza, guarda en corrales, peso en básculas e inspección fuera del rastro de animales y de carne fresca o en canal.
 
+> <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2022)</small>
+
+DE LA BASE
+
+> <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2022)</small>
+
+ARTÍCULO 89 BIS.- La base del presente derecho, será la cabeza de ganado vacuno, porcino, ovino o caprino.
+
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 90.
 
-Los derechos por los servicios de Rastro se causarán de conformidad con lo siguiente:
+Por los servicios públicos en los rastros públicos municipales, se pagarán derechos conforme a las siguientes tarifas:
 
-SERVICIO TARIFA
+I. Por matanza de ganado, por cabeza:
 
-I.- Por Transporte 0.10 de salario mínimo
+a) Vacuno: 0.50 UMA
 
-II.- Por matanza de ganado 0.20 de salario mínimo
+b) Porcino, de hasta 120 kg: 0.40 UMA
 
-III.- Porcino 0.15 de salario mínimo
+c) Porcino, de entre 121 y 150 kg: 0.60 UMA
 
-La inspección de carne en los rastros públicos no causará derecho alguno, pero las personas que introduzcan carne al Municipio de Uayma deberán pasar por esa inspección. Dicha inspección se practicará en términos de lo dispuesto en la Ley General de Salud y su Reglamento. Esta disposición es de orden público e interés social.
+d) Porcino, de más de 150 kg: 0.87 UMA
 
-En el caso de que las personas que realicen la introducción de carne en los términos del párrafo anterior, no pasaren por la inspección mencionada, se harán acreedoras a una sanción cuyo importe será de uno a diez salarios mínimos por pieza de ganado introducida o su equivalente.
+e) Ovino o caprino: 0.30 UMA
 
-En caso de reincidencia, dicha sanción se duplicará y así sucesivamente.
+II. Por pasaje de ganado en básculas del ayuntamiento, por cabeza:
+
+a) Vacuno: 0.19 UMA
+
+b) Porcino: 0.12 UMA
+
+c) Ovino o caprino: 0.09 UMA
+
+III. Por guarda de ganado en corrales:
+
+a) Vacuno: 0.19 UMA
+
+b) Porcino: 0.12 UMA
+
+c) Caprino: 0.09 UMA
+
+IV. Transporte: 0.50 UMA
+
+> <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2022)</small>
+
+ARTÍCULO 90 BIS.- La inspección de carne en los rastros públicos no causará derecho alguno, pero las personas que introduzcan carne al Municipio de Uayma deberán pasar por esa inspección. Dicha inspección se practicará en términos de las disposiciones legales y normativas aplicables.
+
+Las personas que incumplan con lo dispuesto en el párrafo anterior serán sancionadas con una multa equivalente a de 5 a 10 UMA, por cada pieza de ganado introducida o su equivalente. En caso de reincidencia dicha sanción se duplicará.
 
 DE LA MATANZA FUERA DE LOS RASTROS PUBLICOS
 
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 91.
 
-El Ayuntamiento a través de sus órganos administrativos podrá autorizar mediante la licencia respectiva y sin cobro alguno, la matanza de ganado fuera de los Rastros Públicos del Municipio, previo el cumplimiento de los requisitos que determinan la Ley de Salud del Estado de Yucatán y su Reglamento.
+El Ayuntamiento de Uayma, través de sus órganos administrativos, podrá autorizar mediante la licencia respectiva y sin cobro alguno, la matanza de ganado fuera de los Rastros Públicos del Municipio, previo el cumplimiento de los requisitos que determinan la Ley de Salud del Estado de Yucatán y su Reglamento.
 
-En todo caso, se requerirá la licencia correspondiente. El incumplimiento de esta disposición se sancionará con una multa de uno a diez salarios mínimos. En caso de reincidencia, dicha sanción se duplicará y así sucesivamente.
+En todo caso, se requerirá la licencia correspondiente. Las personas que incumplan con lo dispuesto en el párrafo anterior serán sancionadas con una multa equivalente a (sic) de 5 a 10 UMA, por cada pieza de ganado introducida o su equivalente. En caso de reincidencia dicha sanción se duplicará.
 
 ### CAPÍTULO V. DE LOS DERECHOS POR LOS SERVICIOS QUE PRESTA
 
@@ -1265,9 +1383,11 @@ Son sujetos de estos derechos las personas físicas o morales que soliciten los 
 
 El objeto de estos derechos está constituido por los servicios que presta el catastro Municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 94.
 
-La cuota que se pagará por los servicios que presta el Catastro Municipal se calcularán multiplicando la tasa que se especifica en cada uno de ellos, por el salario mínimo diario vigente en el Municipio, a la fecha de solicitud:
+La cuota que se pagará por los servicios que presta el Catastro Municipal se calcularán multiplicando la tasa que se especifica en cada uno de ellos, por UMA, a la fecha de solicitud:
 
 1.- Por la Emisión de copias fotostáticas simples:
 
@@ -1327,57 +1447,63 @@ De 400,001 a 500,000------------------------------ 2.50
 
 500,001 en adelante----------------1.80 Por Hectárea
 
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 95.
 
 Por la actualización de predios urbanos se causarán y pagarán los siguientes derechos:
 
-De un valor de $1,000 a $4,000----------------- 0
+I. De un valor de $1,000 a $4,000 0 UMA
 
-De un valor de $4,001 a $10,000---------------- .50
+II. De un valor de $4,001 a $10,000 .50 UMA
 
-De un valor de $10,001 a $75,000-------------- 0.75
+III. De un valor de $10,001 a $75,000 0.75 UMA
 
-De un valor de 75,001 En adelante------------- 1.0
+IV. De un valor de 75,001 en adelante 1.0 UMA
 
 ###### ARTÍCULO 96.
 
 No causarán derecho alguno las divisiones o fracciones de terrenos en zonas rústicas que sean destinadas plenamente a la producción agrícola o ganadera.
 
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 97.
 
 Los fraccionamientos causarán derechos de deslindes, excepción hecha de lo dispuesto en el artículo anterior, de conformidad con lo siguiente:
 
-Hasta 160,000 m2 20 salarios mínimos.
+I. Hasta 160,000 m2 20 UMA
 
-Más de 160,000 m2 .001 de salarios por metro
+II. Más de 160,000 m2 .001 UMA por m2 excedente.
 
-cuadrado excedente.
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 98.
 
 Por la revisión de la documentación de construcción en régimen de propiedad en condominio, se causarán derechos de acuerdo a su tipo:
 
-Tipo comercial 0.7 por departamento
+I. Tipo comercial 0.7 UMA por departamento
 
-Tipo habitacional 0.5 por departamento
+II. Tipo habitacional 0.5 UMA por departamento
 
 ###### ARTÍCULO 99.
 
 Quedan exentas del pago de los derechos que establecen esta sección, las instituciones públicas.
 
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 100.
 
 Otros Servicios Prestados por Catastro:
 
-Manifestación catastral 0.05 salario mínimo
+I. Manifestación catastral 0.05 UMA
 
-Certificado de no inscripción predial 0.10 salario mínimo
+II. Certificado de no inscripción predial 0.10 UMA
 
-Definitiva de división 0.15 salario mínimo
+III. Definitiva de división 0.15 UMA
 
-Definitiva de unión 0.20 salario mínimo
+IV. Definitiva de unión 0.20 UMA
 
-Definitiva de rectificación 0.25 salario mínimo
+V. Definitiva de rectificación 0.25 UMA
 
 ### CAPÍTULO VI
 
@@ -1405,9 +1531,11 @@ La base para determinar el monto de estos derechos, será el número de metros c
 
 DE LA TASA Y DEL PAGO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 104.
 
-Los derechos establecidos en este capítulo, serán pagados mensualmente a razón de 0.10 veces el salario mínimo por metro cuadrado concesionado u ocupado.
+Los derechos establecidos en este capítulo, serán pagados mensualmente a razón de 0.2 UMA por metro cuadrado concesionado u ocupado.
 
 De igual manera pagarán estos derechos los comerciantes que tengan puestos fijos o semifijos y los ambulantes, aún cuando sus actividades sean esporádicas y se lleven a cabo vías plazas, y parques públicos.
 
@@ -1447,33 +1575,85 @@ I) Tratándose del servicio de recolección de basura, la periodicidad y forma e
 
 II).- La superficie total del predio que deba limpiarse, a solicitud del propietario.
 
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 110.
 
-La tarifa será mensualmente a razón de 0.10 del salario mínimo vigente en el estado de Yucatán.
+La tarifa será mensualmente a razón de .20 UMA.
 
 ###### ARTÍCULO 111.
 
 El pago se realizará en la caja de la Tesorería Municipal o con la persona que el Ayuntamiento designe.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 22 DE JUNIO DE 2022)</small>
 
-### CAPÍTULO VIII. DERECHOS POR EL USO DE CEMENTERIOS
+### CAPÍTULO VIII. DERECHOS POR SERVICIOS DE PANTEONES
 
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
 
-ARTÍCULO 111 A.- Son objeto de este Derecho los diversos servicios de cementerios prestados por el municipio.
+ARTÍCULO 111 A.- Son objeto del derecho por servicios de panteones, aquellos que sean solicitados y prestados por el Ayuntamiento de entre los previstos en el artículo 111-C de esta Ley.
 
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
 
-ARTÍCULO 111 B.- Son sujetos de este Derecho, las personas físicas o morales que directa o indirectamente reciban alguno o algunos de los servicios mortuorios, que preste el municipio.
+ARTÍCULO 111 B.- Son sujetos del derecho por servicios de panteones, las personas físicas o morales que soliciten o reciban, alguno o algunos de los servicios en materia de panteones prestados por el Ayuntamiento.
 
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
 
-ARTÍCULO 111 C.- Estos Derechos se causarán conforme a la tarifa que al efecto establezca la Ley de Ingresos municipal correspondiente.
+ARTÍCULO 111 C.- Por los servicios públicos en materia de panteones, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+I. Por la autorización y servicio:
 
-ARTÍCULO 111 D.- El pago de los derechos se hará por anticipado o al solicitar el servicio, en las oficinas de la Tesorería Municipal.
+a) Inhumación: 0.50 UMA
+
+b) Exhumación: 0.50 UMA
+
+II. Por la cesión a perpetuidad de:
+
+a) Fosa grande no común: 34.00 UMA
+
+b) Fosa chica no común: 29.00 UMA
+
+III. Por renta de bóveda por tres años:
+
+a) Fosa grande: 33.00 UMA
+
+b) Fosa chicha: 17.00 UMA
+
+IV. Por permiso de construcción:
+
+a) De cripta: 1.00 UMA
+
+b) De bóveda: 2.00 UMA
+
+c) De mausoleo: 7.00 UMA
+
+V. Por el uso a perpetuidad de osarios: 20.00 UMA
+
+VI. Por el otorgamiento del permiso para efectuar trabajos de pintura, rotulación o instalación de monumentos en cemento, en el interior del panteón, por tumba: 1.00 UMA
+
+VII. Por diligencias de verificación de medidas físicas y colindancias de osarios y bóvedas: 1.00 UMA
+
+VIII. Servicio de cremación: 30.00 UMA
+
+IX. Actualización de documentos por concesiones a perpetuidad: 1.00 UMA
+
+X. Expedición de duplicados por documentos de concesiones: 4.00 UMA
+
+XI. Por la expedición del permiso para prestar el servicio funerario particular: 4.00 UMA
+
+XII. Por el otorgamiento de la concesión para operar un panteón particular, por cada año concesionado: 200.00 UMA
+
+XIII. Por el otorgamiento de la concesión para operar un crematorio particular, por cada año concesionado: 200.00 UMA
+
+XIV. Autorización de traslado de un Cadáver de un municipio a otro, previo permiso sanitario y del Registro Civil. 3.60 UMA, más 0.10 UMA por kilómetro recorrido.
+
+XV. Autorización de traslado de un Cadáver fuera del Estado de Yucatán, previo permiso sanitario y del Registro Civil. 3.60 UMA, más 0.20 UMA por kilómetro recorrido
+
+Para el cómputo del número de kilómetros recorridos señalados en las artículo (sic) anterior fracción XIII y XIV se considerará como kilómetros recorridos, las distancias establecidas por la Secretaría de Comunicaciones y Transportes, entre el punto de origen hasta el punto de destino del traslado.
+
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
+
+ARTÍCULO 111 D.- El pago de los derechos se hará por anticipado o al solicitar el servicio, en las oficinas de la Tesorería Municipal o donde esta última lo designe.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
@@ -1509,65 +1689,109 @@ ARTÍCULO 111 J.- Los ingresos que se perciban por el derecho a que se refiere l
 
 ### CAPÍTULO X. DERECHOS POR LA EXPEDICIÓN DE LICENCIAS Y PERMISOS
 
-> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
 
-ARTÍCULO 111 K.- El cobro de derechos por el otorgamiento de licencias y permisos para el funcionamiento de establecimientos o locales, que vendan bebidas alcohólicas, se realizará con base en las siguientes tarifas:
+ARTÍCULO 111 K.- El cobro de derechos por el otorgamiento de licencias y permisos para el funcionamiento de establecimientos o locales que vendan bebidas alcohólicas, se realizará con base en las siguientes tarifas:
 
-A) Por el otorgamiento de licencias de funcionamiento a establecimientos cuyo giro sea la venta de bebidas alcohólicas:
+I. Por el otorgamiento de licencias de funcionamiento a establecimientos cuyo giro sea la venta de bebidas alcohólicas:
 
-I. Vinaterías y licorerías 205 Unidad de Medida y Actualización.
+a) Vinaterías y licorerías 400 UMA
 
-II. Expendios de cerveza 205 Unidad de Medida y Actualización
+b) Expendios de cerveza 400 UMA
 
-III. Supermercados y mini 205 Unidad de Medida y Actualización
+c) Supermercados y mini súper con departamento de licores 500 UMA
 
-súper con departamento de licores
+II. Por permisos eventuales para el funcionamiento de establecimientos cuyo giro sea la venta de bebidas alcohólicas se pagará una cuota de: 10 UMA.
 
-B) Por permisos eventuales para el funcionamiento de establecimientos cuyo giro sea la venta de bebidas alcohólicas se pagará una cuota de 10 Unidad de Medida de Actualización.
+III. Para la autorización de funcionamiento en horario extraordinario de giros relacionados con la venta de bebidas alcohólicas, se aplicará por cada hora la siguiente tarifa:
 
-C) Para la autorización de funcionamiento en horario extraordinario de giros relacionados con la venta de bebidas alcohólicas, se aplicará por cada hora la siguiente tarifa:
+a) Vinaterías y licorerías 15 UMA.
 
-I.- Vinaterías y licorerías 5 Unidad de Medida y Actualización.
+b) Expendios de cerveza 15 UMA
 
-II.- Expendios de cerveza 5 Unidad de Medida y Actualización
+c) Supermercados y mini súper con departamento de licores 25 UMA.
 
-III.- Supermercados y mini súper con 5 Unidad de Medida y Actualización. departamento de licores
+IV. Por el otorgamiento de licencias de funcionamiento a establecimientos cuyo giro sea la prestación de servicios, que incluyan la venta de bebidas alcohólicas:
 
-D) Por el otorgamiento de licencias de funcionamiento a establecimientos cuyo giro sea la prestación de servicios, que incluyan la venta de bebidas alcohólicas:
+a) Cantinas y bares 250 UMA
 
-I.- Cantinas y bares $205 Unidad de Medida y Actualización
+b) Restaurantes-bar 450 UMA
 
-II.- Restaurantes-Bar 205 Unidad de Medida y Actualización
+V. Por revalidación anual de licencias de funcionamiento para los establecimientos señalados en la fracción I) de este artículo, se pagarán 271 UMA.
 
-III.- Restaurantes en general 205 Unidad de Medida y Actualización
-
-E) Por revalidación anual de licencias de funcionamiento para los establecimientos señalados en los incisos A) y D) de este artículo, se pagará la tarifa de 55 Unidad de Medida y Actualización por cada uno de ellos.
+VI. Por revalidación anual de licencias de funcionamiento para los establecimientos señalados en la fracción IV) de este artículo, se pagará la tercera parte de la tarifa.
 
 En cumplimiento a lo dispuesto por el artículo 10-A de la Ley de Coordinación Fiscal Federal, el cobro de los derechos a que se refiere este artículo, no condiciona el ejercicio de las actividades comerciales, industriales o de prestación de servicios.
 
-> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
 
-Artículo 111 L.- El cobro de derechos por el otorgamiento de licencias o permisos para la instalación de anuncios de toda índole se realizará con base en las siguientes cuotas:
+ARTÍCULO 111 L.- El cobro de derechos por el otorgamiento de licencias o permisos para la instalación de anuncios de toda índole se realizará con base en las siguientes cuotas:
 
-I.- Anuncios murales por m2 o fracción 0.07 Unidad de Medida y Actualización
+I. Anuncios murales por m2 o fracción: .15 UMA
 
-II.- Anuncios estructurales fijos por m2 0.07 Unidad de Medida y Actualización
+II. Anuncios estructurales fijos por m2 o fracción: .15 UMA
 
-o fracción
+III. Anuncios en carteleras mayores de 2 metros cuadrados, por cada metro cuadrado o fracción: .15 UMA
 
-III.- Anuncios en carteleras mayores 0.07 Unidad de Medida y Actualización.
+IV. Anuncios en carteleras oficiales, por cada una: .15 UMA
 
-de 2 metros cuadrados, por cada metro
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
 
-cuadrado o fracción.
+ARTÍCULO 111 M.- Por el otorgamiento de permisos temporales de funcionamiento se pagarán, por día, derechos conforme a las siguientes tarifas:
 
-IV.- Anuncios en carteleras oficiales, 0.07 Unidad y Medida de Actualización
+I. Para la realización de eventos con luz y sonido, o bailes populares con grupos locales, en lugares públicos o privados con fines de lucro: 22 UMA
 
-por cada una
+II. Para la realización de eventos con luz y sonido, o bailes populares con grupos internacionales, en lugares públicos o privados con fines de lucro: 350 UMA
 
-> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+III. Para la realización de conciertos u otros eventos musicales no referidos en las fracciones I y II: 124 UMA
 
-Artículo 111 M.- Por el otorgamiento de permiso para luz y sonido, bailes populares con grupos locales, se causarán y pagarán derechos por la cantidad de 4 Unidad de Medida y Actualización mínimos por día.
+IV. Para la realización de eventos deportivos: 6 UMA
+
+V. Para la realización de espectáculos taurinos: 37 UMA
+
+VI. Para la realización de eventos teatrales o cinematográficos: 7 UMA
+
+VII. Para la realización de eventos circenses: 9 UMA
+
+> <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2022)</small>
+
+ARTÍCULO 111 N.- Por el otorgamiento de licencias de funcionamiento de establecimientos o locales comerciales se pagarán derechos conforme a las siguientes tarifas:
+
+I. Billares; bisuterías; boneterías; cocinas económicas; dulcerías; establecimientos de venta de hamburguesas; expendios de alimentos balanceados; expendios de pollos asados; expendios de refrescos naturales; fondas; gimnasios; invernaderos; lavanderías; loncherías; misceláneas; peleterías; puestos de venta de revistas, periódicos, casetas, discos compactos de cualquier formato; relojerías; sastrerías; subagencias de refrescos; talabartería; talleres de reparación de aparatos electrónicos; talleres de reparación de bicicletas; talleres de reparación de motos; talleres de torno general; taquerías; tendejones; tiendas de novedades, juguetes y regalos; tiendas de plásticos; y zapaterías: 5.00 UMA
+
+II. Almacenes de ropa; arrendadora de sillas y mesas; balnearios; cafeterías; carnicerías; carpinterías; centros de cómputo e internet; centros de copiado; centros de estudio de fotos y grabación; depósitos de relleno de agua purificada; establecimientos para la contratación de mudanzas y transportes; establecimientos para la renta de juegos infantiles y diversiones; expendios de refrescos; fábricas de hielo; ferreterías; floristerías; fruterías; heladerías; imprentas; lavaderos de carros; librerías; llanteras; negocios de reparación diciembre (sic) telefonía celular; ópticas; paleterías; papelerías; peluquerías; pescaderías; pizzerías; pollerías; servicios agropecuarios; talleres de compraventa de zapatos; talleres de costura; talleres de hojalatería; talleres de instalación de audio; talleres mecánicos; talleres y tiendas de artesanías; tiendas de abarrotes; tiendas de jugos embolsados; tiendas de ropa; tiendas de telas y regalos; tlapalerías; verdulerías; y vulcanizadoras: 10.00 UMA
+
+III. Academias; boticas; casetas; consultorios; despachos de servicios profesionales; establecimientos para la compraventa de vehículos usados; estéticas unisex; expendios de aceites y aditivos; expendios de gas butano; farmacias; laboratorios; molinos de grano; negocios de telefonía celular; panaderías; restaurantes; talleres de herrería, aluminio y cristales; tortillerías; veterinarias; y videoclubes 20 UMA
+
+IV. Bodegas de todo tipo; casas de empeños; centros de servicio automotriz; establecimientos p ara (sic) la compraventa de materiales de construcción; establecimientos para la compraventa de motos, bicicletas y refacciones; fideicomisos; funerarias; minisúper; plantas purificadoras de agua; refaccionarias automotriz; y salas de fiestas 50 UMA
+
+V. Clínicas; escuelas particulares; establecimientos para la compraventa de oro y plata; fábricas y maquiladoras de hasta veinte empleados; hospitales hostales; hoteles 1 a 5; moteles; mueblerías; y oficinas de servicios de sistemas de televisión 100 UMA
+
+VI. Agencias de automóviles nuevos; bancos, centros cambiarios e instituciones financieras; cinemas; fábricas y maquiladoras de hasta cincuenta empleados; gaseras; gasolineras; y tiendas de artículos de electrodomésticos, muebles y línea blanca 250 UMA
+
+VII. Hoteles de Vocación turística: Boutique, Hacienda o Lujo. 500 UMA
+
+VIII. Fábricas y maquiladoras de más de cincuenta empleados; supermercados; tienda departamental 700 UMA
+
+> <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2022)</small>
+
+ARTÍCULO 111 Ñ.- Por el otorgamiento de la revalidación anual de licencias para el funcionamiento de los establecimientos referidos en el artículo anterior, se pagarán derechos conforme a las siguientes tarifas:
+
+I. Billares; bisuterías; boneterías; cocinas económicas; dulcerías; establecimientos de venta de hamburguesas; expendios de alimentos balanceados; expendios de pollos asados; expendios de refrescos naturales; fondas; gimnasios; invernaderos; lavanderías; loncherías; misceláneas; peleterías; puestos de venta de revistas, periódicos, casetas, discos compactos de cualquier formato; relojerías; sastrerías; subagencias de refrescos; talabartería; talleres de reparación de aparatos electrónicos; talleres de reparación de bicicletas; talleres de reparación de motos; talleres de torno general; taquerías; tendejones; tiendas de novedades, juguetes y regalos; tiendas de plásticos; y zapaterías 2.50 UMA
+
+II. Almacenes de ropa; arrendadora de sillas y mesas; balnearios; cafeterías; carnicerías; carpinterías; centros de cómputo e internet; centros de copiado; centros de estudio de fotos y grabación; depósitos de relleno de agua purificada; establecimientos para la contratación de mudanzas y transportes; establecimientos para la renta de juegos infantiles y diversiones; expendios de refrescos; fábricas de hielo; ferreterías; floristerías; fruterías; heladerías; imprentas; lavaderos de carros; librerías; llanteras; negocios de reparación (sic) telefonía celular; ópticas; paleterías; papelerías; peluquerías; pescaderías; pizzerías; pollerías; servicios agropecuarios; talleres de compraventa de zapatos; talleres de costura; talleres de hojalatería; talleres de instalación de audio; talleres mecánicos; talleres y tiendas de artesanías; tiendas de abarrotes; tiendas de jugos embolsados; tiendas de ropa; tiendas de telas y regalos; tlapalerías; verdulerías; y vulcanizadoras 5.00 UMA
+
+III. Academias; boticas; casetas; consultorios; despachos de servicios profesionales; establecimientos para la compraventa de vehículos usados; estéticas unisex; expendios de aceites y aditivos; expendios de gas butano; farmacias; laboratorios; molinos de grano; negocios de telefonía celular; panaderías; restaurantes; talleres de herrería, aluminio y cristales; tortillerías; veterinarias; y videoclubes 10.00 UMA
+
+IV. Bodegas de todo tipo; casas de empeños; centros de servicio automotriz establecimientos para la compraventa de materiales de construcción; establecimientos para la compraventa de motos, bicicletas y refacciones; fideicomisos; funerarias; minisúper; plantas purificadoras de agua; refaccionarias automotriz; y salas de fiestas 25.00 UMA
+
+V. Clínicas; escuelas particulares; establecimientos para la compraventa de oro y plata; fábricas y maquiladoras de hasta veinte empleados; hospitales; hostales; hoteles 1 a 5; moteles; mueblerías; y oficinas de servicios de sistemas de televisión 50.00 UMA
+
+VI. Agencias de automóviles nuevos; bancos, centros cambiarios e instituciones financieras; cinemas; fábricas y maquiladoras de hasta cincuenta empleados; gaseras; gasolineras; y tiendas de artículos de electrodomésticos, muebles y línea blanca 125.00 UMA
+
+VII. Hoteles de Vocación turística: Boutique, Hacienda o Lujo 250.00 UMA
+
+VIII. Fábricas y maquiladoras de más de cincuenta empleados; supermercados; tienda departamental 350.00 UMA
 
 ## TÍTULO QUINTO. DE LAS CONTRIBUCIONES DE MEJORAS
 
@@ -1717,9 +1941,11 @@ IV.- Por los daños que sufrieron las vías públicas o los bienes del patrimoni
 
 DE LOS ARRENDAMIENTOS Y LAS VENTAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 125.
 
-Los arrendamientos y las ventas de bienes muebles e inmuebles propiedad del Municipio, se llevarán a cabo, conforme a lo dispuesto en la Ley Orgánica de los Municipios del Estado.
+Los arrendamientos y las ventas de bienes muebles e inmuebles propiedad del Municipio, se llevarán a cabo, conforme a lo dispuesto en la Ley de Gobierno de los Municipios del Estado.
 
 El arrendamiento de bienes inmuebles a que se refiere la fracción II del artículo anterior podrá realizarse cuando dichos inmuebles no sean destinados a la administración o prestación de un servicio público, mediante la celebración de contrato que firmarán el Presidente Municipal y el Secretario previa la aprobación del Cabildo y serán las partes que intervengan en el contrato respectivo las que determinen de común acuerdo el precio o renta, la duración del contrato y época y lugar de pago.
 
@@ -1727,9 +1953,11 @@ Queda prohibido el subarrendamiento de los inmuebles a que se refiere el párraf
 
 DE LA EXPLOTACIÓN
 
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 126.
 
-Los bienes muebles e inmuebles propiedad del municipio, solamente podrán ser explotados, mediante concesión o contrato legalmente otorgado o celebrado, en los términos de la Ley Orgánica de los Municipios del Estado.
+Los bienes muebles e inmuebles propiedad del municipio, solamente podrán ser explotados, mediante concesión o contrato legalmente otorgado o celebrado, en los términos de la Ley de Gobierno de los Municipios del Estado.
 
 DEL REMATE DE BIENES MOSTRENCOS O ABANDONADOS
 
@@ -1793,7 +2021,9 @@ II.- Embargo.
 
 III.- Honorarios o enajenación fuera de remate.
 
-Cuando el .02 del importe del crédito omitido, fuere inferior al importe de un salario mínimo, se cobrará el monto de un salario en lugar del mencionado .02 del crédito omitido.
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
+
+Cuando el .04 del importe del crédito omitido, fuere inferior al importe de una unidad de medida y actualización, se cobrará el monto de una unidad de medida y actualización en lugar del mencionado .04 del crédito omitido.
 
 DE LOS GASTOS EXTRAORDINARIOS DE EJECUCION
 
@@ -1879,25 +2109,23 @@ f).- La ocupación de la vía pública, con el objeto de realizar alguna activid
 
 g).- La matanza de ganado fuera de los rastros públicos municipales, sin obtener la licencia o la autorización respectiva.
 
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 142.
 
-Serán sancionadas con multa de 1 a 5 salarios mínimos, las personas que cometan las infracciones contenidas en los incisos a), c), d) y e) del artículo 141.
+A quien cometa las infracciones a que se refiere el artículo 141 de esta Ley, se hará acreedor de las siguientes sanciones:
 
-Serán sancionadas con multas de 1 a 10 salarios mínimos, las personas que cometan la infracción, contenidas en el inciso f) del artículo 141.
+I. Multa de 5 a 10 UMA, a las personas que cometan las infracciones contenidas en los incisos a), c), d) y e) del artículo 141.
 
-Serán sancionadas con multas de 1 a 50 salarios mínimos, las personas que cometan la infracción, contenida en el inciso b) del artículo 141.
+II. Multas de 5 a 15 UMA, a las personas que cometan las infracciones contenidas en el inciso f) del artículo 141.
 
-Serán sancionadas con multas de 1 a 8 salarios mínimos, las personas que cometan la infracción, contenidas en el inciso g) del artículo 141.
+III. Multas de 5 a 100 UMA, las personas que cometan la infracción, contenida en el inciso b) del artículo 141.
+
+IV. Multas de 5 a 16 UMA, las personas que cometan la infracción (sic), contenidas en el inciso g) del artículo 141.
 
 Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
 
 Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
-
-Cuando se aplique una sanción la autoridad deberá fundar y motivar su resolución. Se considerará agravante el hecho de que el infractor sea reincidente. Habrá reincidencia cuando:
-
-a) Tratándose de infracciones que tengan como consecuencia la omisión en el pago de contribuciones, la segunda o posteriores veces que se sancione al infractor por ese motivo.
-
-b) Tratándose de infracciones que impliquen la falta de cumplimiento de obligaciones administrativas y/o fiscales distintas del pago de contribuciones, la segunda o posteriores veces que se sancione al infractor por ese motivo.
 
 T R A N S I T O R I O
 
@@ -1944,3 +2172,15 @@ D.O. 28 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el día primero de enero del año dos mil diecisiete, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 22 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 521/2022 POR EL QUE SE MODIFICAN LA LEY DE HACIENDA DEL MUNICIPIO DE UAYMA, YUCATÁN Y LA LEY DE INGRESOS DEL MUNICIPIO DE UAYMA, YUCATÁN, PARA EL EJERCICIO FISCAL 2022, EN MATERIA DE ACTUALIZACIÓN DE TASAS, CUOTAS Y TARIFAS".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo segundo. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan a este decreto.
