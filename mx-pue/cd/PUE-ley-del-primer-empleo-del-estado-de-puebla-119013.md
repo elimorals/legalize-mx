@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-primer-empleo-del-estado-de-puebla-119013"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-13"
-last_updated: "2021-11-03"
+last_updated: "2022-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL PRIMER EMPLEO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de enero de 2017.
 
@@ -39,7 +39,7 @@ EL HONORABLE QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SO
 
 EXPOSICIÓN DE MOTIVOS
 
-[…]
+[...]
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 51, 56, 57 fracción I, 64, 67 y 84 párrafo segundo de la Constitución Política del Estado Libre y Soberano de Puebla; 134, 135, 136, 137 y 158 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 90, 93 fracción VII, 95 y 120 fracción VII del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide la siguiente Minuta de:
 
@@ -99,9 +99,11 @@ XVI. Trabajador de primer empleo.- Trabajador que no tenga registro previo de as
 
 ### CAPÍTULO II. DEL SERVICIO SOCIAL Y LAS PRÁCTICAS PROFESIONALES
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 5.
 
-La Secretaría expedirá los lineamientos generales para que los interesados que realicen su servicio social o prácticas profesionales puedan acceder a programas de fomento al primer empleo en el sector privado.
+La Secretaría expedirá los lineamientos generales para que los interesados que realicen su servicio social o prácticas profesionales puedan acceder a espacios laborales existentes y a programas de fomento al primer empleo.
 
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
@@ -112,6 +114,10 @@ Los programas o acciones emitidas por la Secretaría tendrán como finalidad con
 ###### ARTÍCULO 7.
 
 Aquellas personas que acrediten su servicio social o sus prácticas profesionales dentro de la empresa, negocio o dependencia del sector privado, tendrán derecho de preferencia a un puesto de nueva creación dentro de la misma.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2022)</small>
+
+En la relación de trabajo con las personas que se incorporan a su primer empleo se observará lo dispuesto en la legislación laboral y de Seguridad Social aplicable.
 
 ### CAPÍTULO III. DEL FOMENTO AL PRIMER EMPLEO
 
@@ -242,6 +248,22 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 3 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 6 DE LA LEY DEL PRIMER EMPLEO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 5 DE LA LEY DEL PRIMER EMPLEO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 7 DE LA LEY DEL PRIMER EMPLEO DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
