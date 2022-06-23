@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6059
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-31"
-last_updated: "2021-12-15"
+last_updated: "2022-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE JUNIO DE 2022.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de marzo de 2008.
 
@@ -1543,6 +1543,12 @@ El Gobierno del Estado y los Ayuntamientos, se coordinarán con los diversos sec
 
 Los refugios deberán ser lugares seguros, por lo que no se podrá proporcionar su ubicación a personas no autorizadas para acudir a ellos. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo de violencia. El Estado y los municipios con la participación que corresponda de los sectores social y privado, promoverán el establecimiento de mecanismos que permitan proveer de los apoyos necesarios para que los refugios cumplan con su objeto.
 
+> <small>(ADICIONADO, B.O. 23 DE JUNIO DE 2022)</small>
+
+ARTÍCULO 45 BIS.- El Titular del Poder Ejecutivo Estatal deberá incorporar, anualmente en sus proyectos de presupuesto, una partida destinada a la creación, instalación y mantenimiento de refugios para la atención a las víctimas de violencia.
+
+De la misma manera, los Ayuntamientos incorporarán y aprobarán anualmente en sus presupuestos, una partida destinada a la creación, instalación y mantenimiento de refugios para la atención a las víctimas de violencia.
+
 ###### ARTÍCULO 46.
 
 La permanencia de las personas afectadas en los refugios será mientras persista su inestabilidad física, psicológica o situación de riesgo. En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad, pero para acceder a ellos bastará la solicitud de la misma víctima a la decisión expresa del Ministerio Publico, mediante el convencimiento de la necesidad de la víctima a adoptar la medida temporal.
@@ -1752,3 +1758,13 @@ B.O. 15 DE DICIEMBRE DE 2021.
 PRIMERO.- Se derogan todas las disposiciones contrarias al contenido del presente decreto.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 23 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2834 SE ADICIONA UN ARTÍCULO 45 BIS A LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Sin perjuicio de lo establecido en el Artículo Primero Transitorio, el artículo 45 Bis del presente Decreto, será aplicable en relación con el Presupuesto de Egresos para el Ejercicio Fiscal del año 2023, por lo cual, el Titular del Poder Ejecutivo Estatal y los cinco Ayuntamientos deberán incorporar una partida destinada a la creación, instalación y mantenimiento de refugios para víctimas de violencia familiar.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
