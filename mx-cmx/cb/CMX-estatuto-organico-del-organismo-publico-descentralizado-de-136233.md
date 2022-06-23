@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-organismo-publico-descentralizado-de-1362
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-05-20"
-last_updated: "2019-05-20"
+last_updated: "2022-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136233&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-04-24"
 ---
 # ESTATUTO ORGANICO DEL ORGANISMO PUBLICO DESCENTRALIZADO DE LA ADMINISTRACION PUBLICA DE LA CIUDAD DE MEXICO DENOMINADO METROBUS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ESTATUTO ORGÁNICO DE "METROBÚS" ORGANISMO PÚBLICO DESCENTRALIZADO, PUBLICADO EN LA G.O. DE 23 DE JUNIO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO DENOMINADO METROBÚS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JUNIO DE 2022 (DEROGADO).
 
 Estatuto publicado en el Número 94 de la Gaceta Oficial de la Ciudad de México, el lunes 20 de mayo de 2019.
 
@@ -817,3 +819,13 @@ En la Ciudad de México, el 24 de abril de 2019
 ROBERTO SAMUEL CAPUANO TRIPP
 
 DIRECTOR GENERAL DE METROBÚS
+
+G.O. 23 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DE "METROBÚS" ORGANISMO PÚBLICO DESCENTRALIZADO".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Estatuto entrara en vigor al día hábil siguiente a su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se deroga el Estatuto Orgánico de "Metrobús" publicado en la Gaceta Oficial del Distrito Federal del 20 de mayo de 2019.
