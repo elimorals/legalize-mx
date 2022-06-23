@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-trabajadores-al-servicio-de-los-poderes-del-38547"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-23"
-last_updated: "2022-06-14"
+last_updated: "2022-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE JUNIO DE 2022.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 23 de febrero de 2004.
 
@@ -136,6 +136,12 @@ En lo no previsto en esta Ley, se aplicarán supletoriamente y en su orden la Le
 > <small>(ADICIONADO, B.O. 20 DE JUNIO DE 2019)</small>
 
 De conformidad con lo establecido en los artículos 1°, párrafo tercero de la Constitución Política de los Estados Unidos Mexicanos y 7° de la Constitución Política del Estado Libre y Soberano de Baja California Sur, en la interpretación y aplicación de la presente Ley, será obligatoria la observancia del principio pro persona.
+
+> <small>(ADICIONADO, B.O. 23 DE JUNIO DE 2022)</small>
+
+ARTICULO 12 BIS.- En las relaciones jurídicas de trabajo que se establezcan de conformidad con la presente Ley, los Titulares de los Poderes del Estado y Municipios respetarán y harán valer los Principios de No Discriminación y de Igualdad Sustantiva de las mujeres y hombres que sean trabajadores, al servicio de los Poderes Legislativo, Ejecutivo, Judicial y Municipios.
+
+Se entenderá para los efectos de esta Ley, al Principio de Igualdad Sustantiva, como la eliminación de toda forma de discriminación por razón de sexo, que menoscabe o anule el reconocimiento, goce o ejercicio de derechos humanos y libertades fundamentales de las personas en el ámbito laboral, lo que supone el acceso a las mismas oportunidades, considerando las diferencias biológicas, sociales y culturales de mujeres y hombres.
 
 ## TITULO SEGUNDO. DERECHOS Y OBLIGACIONES DE LOS TRABAJADORES Y TITULARES
 
@@ -1590,6 +1596,14 @@ Se derogan las disposiciones legales, reglamentarias y administrativas que se op
 B.O. 14 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 2829 SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 28 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 23 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2835 SE ADICIONA EL ARTÍCULO 12 BIS A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
