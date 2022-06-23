@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-de-infraestructura-129831"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-07-27"
-last_updated: "2021-08-25"
+last_updated: "2022-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE INFRAESTRUCTURA CARRETERA DE YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE INFRAESTRUCTURA CARRETERA DE YUCATÁN, PUBLICADO EN EL D.O. DE 23 DE JUNIO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO DE INFRAESTRUCTURA CARRETERA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JUNIO DE 2022 (ABROGADO).
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el viernes 27 de julio de 2018.
 
@@ -438,3 +440,19 @@ Este acuerdo entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Inscripción en el Registro de Entidades Paraestatales
 
 El Director General del Instituto de Infraestructura Carretera de Yucatán, en un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo, deberá realizar la inscripción en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas de las modificaciones efectuadas por este acuerdo al Estatuto Orgánico del Instituto de Infraestructura Carretera de Yucatán.
+
+D.O. 23 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DEL INSTITUTO DE INFRAESTRUCTURA CARRETERA DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Abrogación
+
+A partir de la entrada en vigor de este acuerdo, se abroga el Estatuto Orgánico del Instituto de Infraestructura Carretera de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 27 de julio de 2018.
+
+Tercero. Inscripción en el Registro de Entidades Paraestatales
+
+La persona titular de la Dirección General del Instituto de Infraestructura Carretera de Yucatán, en un plazo máximo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo, deberá realizar la inscripción de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas.
