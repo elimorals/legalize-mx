@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2022-06-21"
+last_updated: "2022-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -175,9 +175,9 @@ VII. Coadyuvar a la modificación de los patrones culturales que determinen háb
 
 VIII. Promover un sistema de prevención de riesgos que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud.
 
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2022)</small>
 
-IX. Promover campañas que procuren el acceso y el fomento a la cultura del consumo de agua en instituciones educativas.
+IX. Promover campañas que procuren el acceso y el fomento a la cultura del consumo de agua y la difusión de información sobre salud bucodental y la práctica de hábitos de higiene dental en instituciones educativas;
 
 > <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
 
@@ -221,9 +221,9 @@ X. Coadyuvar con las dependencias y entidades federales competentes en la regula
 
 XI. Promover el establecimiento de un Sistema Estatal de Información Básica en Materia de Salud;
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2022)</small>
 
-XII. Apoyar la coordinación entre las instituciones de salud y educativas del Estado, para formar y capacitar recursos humanos para la salud; y para fomentar la cultura del consumo de agua.
+XII. Apoyar la coordinación entre las instituciones de salud y educativas del Estado, para formar y capacitar recursos humanos para la salud; y para fomentar la cultura del consumo de agua; así como la difusión de información sobre salud bucodental y la práctica de hábitos de higiene dental;
 
 XIII. Coadyuvar a que la formación y distribución de los recursos humanos para la salud sea congruente con las prioridades del Sistema Estatal de Salud;
 
@@ -2650,3 +2650,13 @@ P.O. 21 DE JUNIO DE 2022.
 Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
+
+P.O. 23 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 78 POR EL QUE "SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 5 Y LA FRACCIÓN XII DEL ARTÍCULO 6 DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor diez días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para los efectos que se deriven de este decreto, las dependencias encargadas de la aplicación de la ley adoptarán las medidas necesarias en sus programas y acciones de trabajo, procurando que éstas se realicen con sus previsiones presupuestales, o a través de la concertación de acciones entre la (sic) Secretarías de Educación y de Salud con integrantes de los sectores social y privado, mediante la firma de convenios en términos de Ley.
+
+TERCERO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
