@@ -4,7 +4,7 @@ identifier: "CAM-ley-que-establece-el-sistema-de-justicia-para-las-victimas-1034
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-02"
-last_updated: "2014-10-02"
+last_updated: "2022-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "CAM"
 ---
 # LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA LAS VICTIMAS DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA LAS VÍCTIMAS DEL ESTADO DE CAMPECHE
 
 > <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO TRANSITORIO DEL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL DÍA 3 DE DICIEMBRE DE 2014, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 2 de octubre de 2014.
 
@@ -179,7 +181,9 @@ VI. Obtener una atención integral y con perspectiva de género y la prestación
 
 VII. Resguardar su identidad y otros datos personales, en los casos previstos en la fracción V, del apartado C, del artículo 20, de la Constitución Política de los Estados Unidos Mexicanos;
 
-VIII. Asignarles un traductor o intérprete, cuando no comprendan el idioma español, no se expresen con facilidad o tengan algún impedimento para escuchar, comprender o darse a entender, y permitirles hacer uso de su propia lengua o idioma; además, en su caso, de hacer los ajustes razonables definidos en los diversos instrumentos internacionales de defensa y protección a los derechos humanos de los que el Estado mexicano forma parte;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2022)</small>
+
+VIII. Asignarles un traductor lingüístico o intérprete, cuando no comprendan el idioma español, o tengan discapacidad auditiva, verbal o visual, y permitirles hacer uso de su propia lengua o idioma; además, en su caso, de hacer los ajustes razonables definidos en los diversos instrumentos internacionales de defensa y protección a los derechos humanos de los que el Estado mexicano forma parte;
 
 IX. En el caso de ser integrantes de pueblos y comunidades indígenas, a que se les nombre de oficio un intérprete, a fin de que puedan expresarse en su propia lengua;
 
@@ -867,6 +871,12 @@ III. Servicio de Defensa o Patrocinio Jurídico. Consiste en el ejercicio de las
 
 El servicio de defensa comprende desde la presentación de la denuncia hasta la interposición de los recursos que procedan previstos en las leyes, e incluirá la reparación del daño.
 
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2022)</small>
+
+###### Artículo 72 Bis.
+
+Además de los servicios de asistencia jurídica descritos por el artículo anterior, la Unidad de Asistencia Jurídica del Instituto deberá contar con intérpretes o traductores lingüísticos que darán atención a las víctimas que no comprendan el idioma español o tengan discapacidad auditiva, verbal o visual.
+
 ###### Artículo 73.
 
 Los Asesores Jurídicos de Víctimas, sin perjuicio de las señaladas en la Ley de Defensoría Pública y Asistencia Jurídica Gratuita del Estado de Campeche, tendrán las siguientes atribuciones:
@@ -889,7 +899,13 @@ VIII. Tramitar y entregar copias de su expediente a la víctima, en caso de que 
 
 IX. Vigilar la efectiva protección y goce de los derechos de las víctimas en las actuaciones del Ministerio Público en todas y cada una de las etapas del procedimiento penal y, cuando lo amerite, suplir las deficiencias de éste ante la autoridad jurisdiccional correspondiente cuando el Asesor Jurídico de las Víctimas considere que no se vela efectivamente por la tutela de los derechos de las víctimas por parte del Ministerio Público; y
 
-X. Las demás que se requieran para la defensa integral de los derechos de las víctimas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JUNIO DE 2022)</small>
+
+X. Coadyuvar de forma permanente, en los casos que se requiera, con intérpretes o traductores lingüísticos para dar atención a las víctimas que no comprendan el idioma español o tengan discapacidad auditiva, verbal o visual;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE JUNIO DE 2022)</small>
+
+XI. Las demás que se requieran para la defensa integral de los derechos de las víctimas.
 
 ###### Artículo 74.
 
@@ -1168,3 +1184,15 @@ Séptimo.- Se derogan todas las disposiciones legales y reglamentarias del marco
 Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de San Francisco de Campeche, Campeche, a los veintinueve días del mes de septiembre del año dos mil catorce.
 
 C. Edgar Román Hernández Hernández, Diputado Presidente.- C. Jesús Antonio Quiñones Loeza, Diputado Secretario.- C. Adda Luz Ferrer González, Diputada Secretaria. Rúbricas
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 77 POR EL QUE "SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 13; LA FRACCIÓN X DEL ARTÍCULO 73 Y, ADICIONA UN ARTÍCULO 72 BIS, Y UNA FRACCIÓN XI AL ARTÍCULO 73, TODOS DE LA LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA LAS VÍCTIMAS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
