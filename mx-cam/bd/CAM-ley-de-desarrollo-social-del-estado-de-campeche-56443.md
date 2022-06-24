@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-desarrollo-social-del-estado-de-campeche-56443"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-10"
-last_updated: "2022-06-02"
+last_updated: "2022-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 10 de julio de 2007.
 
@@ -258,6 +258,10 @@ IX. Transparencia: La información relativa al desarrollo social es pública en 
 X. Universalidad: la (sic) política de desarrollo social esta destinada para todos los habitantes del estado y tiene como propósito el acceso al ejercicio de los derechos sociales y a una creciente calidad de vida para la sociedad;
 
 XI. Igualdad: constituye (sic) el objetivo principal del desarrollo social y se expresa en la mejora continua de la distribución de la riqueza, el ingreso y la propiedad, en el acceso a bienes y servicios públicos y el abatimiento de las grandes diferencias entre personas, familias, grupos sociales, comunidades;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2022)</small>
+
+XI Bis. Interés superior de la niñez: Entendido de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en la Ley General de los Derechos de Niñas, Niños y Adolescentes, en la Constitución Política del Estado de Campeche, en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Campeche y en los tratados internacionales aplicables de los que el Estado Mexicano sea parte;
 
 XII. Equidad: la (sic) plena igualdad de derechos y oportunidades sin exclusión o discriminación social basada en roles de genero, étnicos, nacionales, de género, edad, capacidades diferentes, por condición social o condiciones de salud, religión, opiniones, preferencias, estado civil, así como cualquier otra que atente contra la dignidad humana y resulte en menoscabo de los derechos y libertades de las personas; y
 
@@ -1082,3 +1086,11 @@ P.O. 2 DE JUNIO DE 2022.
 Artículo Primero.- El presente decreto entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 24 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 79 POR EL QUE “SE ADICIONA UNA FRACCIÓN XI BIS AL ARTÍCULO 13 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
