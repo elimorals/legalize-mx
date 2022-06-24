@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2021-12-10"
+last_updated: "2022-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -401,7 +401,7 @@ En el proceso de entrega recepción entre un Municipio de nueva creación y el M
 
 ###### ARTICULO 13-A.
 
-El Congreso del Estado, cuando así lo resuelvan, por lo menos, el total de las dos terceras partes de sus integrantes, podrá crear municipios, aun cuando no se cuente con la población mínima requerida que establecen las fracciones III y IV del artículo 13 de esta Ley, si reúnen los requisitos siguientes:
+El Congreso del Estado, cuando así lo resuelvan, por lo menos, el total de las dos terceras partes de sus integrantes, podrá crear municipios, aun cuando no se cuente con la población requerida que establecen las fracciones III y IV del artículo 13 de esta Ley, si reúnen los requisitos siguientes
 
 I. Si existen solicitudes de creación del municipio presentadas en anteriores legislaturas o en la actual;
 
@@ -413,7 +413,7 @@ III. Si para promover la formación del Municipio no se cometieron ilícitos ni 
 
 ###### ARTICULO 13-B.
 
-El Congreso del Estado será el facultado para decretar la segregación y anexión de localidades dentro del territorio estatal, tomando en consideración lo señalado en el artículo 23 de la Ley número 59, Orgánica de División Territorial del Estado de Guerrero.
+E1 Congreso del Estado será el facultado para decretar la segregación y anexión de localidades dentro del territorio estatal, tomando en consideración lo señalado en el artículo 23 de la Ley número 59, Orgánica de División Territorial del Estado de Guerrero.
 
 Dicha solicitud se tendrá por justificada cuando pretenda resolver cualquier problema del núcleo poblacional de índole administrativo, político, económico, social, religioso, cultural o que ya no respondan a las necesidades de asociación en vecindad con el municipio al que pertenecen; para tal efecto los interesados deberán cumplir con los siguientes requisitos:
 
@@ -651,21 +651,33 @@ Formulada la declaratoria a que se refiere el artículo anterior el Presidente d
 
 DEL PROCEDIMIENTO DE ENTREGA-RECEPCION DE LOS AYUNTAMIENTOS.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2022)</small>
 
 ###### ARTICULO 39.
 
-El Ayuntamiento saliente hará entrega en la segunda quincena de septiembre de los informes e inventarios sobre el patrimonio mobiliario e inmobiliario, los recursos humanos y financieros, los archivos e informes sobre el avance de los programas de gobierno pendientes o de carácter permanente, asegurando la disponibilidad de recursos para el pago de aguinaldo proporcional, prima vacacional y demás prestaciones de los trabajadores de la administración municipal.
+El Ayuntamiento saliente hará entrega en la segunda quincena de septiembre de los informes e inventarios sobre el patrimonio mobiliario e inmobiliario, los recursos humanos y financieros, los archivos e informes sobre el avance de los programas de gobierno pendientes o de carácter permanente, asegurando la disponibilidad de recursos para garantizar el pago de aguinaldo proporcional, prima vacacional y demás prestaciones de los trabajadores de la administración municipal.
 
 ###### ARTICULO 40.
 
 Los Presidentes Municipales y los miembros de los Ayuntamientos salientes y entrantes participarán en los procesos de entrega recepción.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2022)</small>
 
 ###### ARTICULO 41.
 
-En cada Ayuntamiento durante los primeros doce días del mes de septiembre, se creará un Comité de Entrega-recepción integrado por miembros del Ayuntamiento electo y el Ayuntamiento saliente; así como un representante de la Auditoría General del Estado, de la Contraloría General del Estado y de las Secretarías de Finanzas y Administración y Desarrollo Social mismos que previa auditoría sancionarán dicho acto.
+En cada Ayuntamiento durante los primeros doce días del mes de septiembre, se creará un Comité de Entrega recepción integrado por miembros del Ayuntamiento electo y el Ayuntamiento saliente; así como un representante de la Auditoría Superior del Estado y de las Secretarías de la Contraloría y Transparencia Gubernamental; de Finanzas y Administración y de Desarrollo y Bienestar Social, mismos que previa auditoría sancionarán dicho acto.
+
+Las administraciones municipales salientes, además de lo establecido en la Ley de Entrega Recepción del Estado de Guerrero, deberán entregar a las administraciones entrantes la documentación que acredite estar al corriente, respecto de lo que corresponda al periodo de su administración, con:
+
+I. El pago de los servicios de energía eléctrica; de agua potable y de adquisiciones que hayan llevado a cabo con proveedores de bienes y servicios;
+
+II. El pago a la Federación de las cantidades retenidas por concepto del Impuesto sobre la Renta, así como de las cuotas del ISSSTE y/o del IMSS, según corresponda, por los servicios que reciban los trabajadores municipales; y,
+
+III. El pago de indemnizaciones por concepto de terminación de relación laboral al personal contratado por la administración municipal saliente.
+
+La omisión en el cumplimiento de las obligaciones citadas será considerado como responsabilidad grave, por lo que el servidor público saliente no quedará relevado de las mismas, debiéndosele aplicar, los procedimientos correspondientes a los regímenes anticorrupción y de responsabilidades administrativas, teniendo que responder a las sanciones que de ellas deriven, conforme lo dispuesto en las Leyes en materia de: Anticorrupción, Fiscalización, Presupuesto, Disciplina Financiera y Responsabilidades Administrativas.
+
+De lo anterior, queda exceptuada la deuda contratada en términos de lo establecido en el artículo 62 fracción VII de la presente Ley.
 
 ###### ARTICULO 42.
 
@@ -683,7 +695,9 @@ V. Informes detallados de las obras ejecutadas en el último ejercicio, así com
 
 VI. Reporte del avance del cumplimiento del Convenio Unico de Desarrollo Estado-Municipio, así como de los Acuerdos suscritos con el Gobierno del Estado;
 
-VII. Bando de Policía y Buen Gobierno, reglamentos y ordenanzas municipales;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2022)</small>
+
+VII. Bando de Policía y Gobierno, reglamentos y ordenanzas municipales;
 
 VIII. Concesiones, permisos y autorizaciones otorgadas que involucran bienes municipales o la prestación de servicios públicos, y
 
@@ -733,9 +747,9 @@ Para la entrega de los recursos financieros se preparará acta pormenorizada y c
 
 El Comité de entrega recepción a que se refiere este capítulo en los formatos correspondientes y en el acta de entrega-recepción hará constar los informes detallados de cada una de las áreas en que se divide la entrega, así como los informes pormenorizados de todos los acontecimientos e incidentes que se presenten en dicho acto.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2022)</small>
 
-El acta levantada deberá ser firmada por cada uno de los miembros del Comité y una copia será remitida a la Auditoría General del Estado.
+El acta levantada deberá ser firmada por cada uno de los miembros del Comité y una copia será remitida a la Auditoría Superior del Estado.
 
 ###### ARTICULO 45.
 
@@ -855,7 +869,9 @@ VII. De Atención y Participación Social de Migrantes;
 
 VIII. De Medio Ambiente y Recursos Naturales;
 
-IX. De Asuntos Indígenas;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2022)</small>
+
+IX. De los Asuntos Indígenas y Afromexicanos;
 
 X. De Fomento al Empleo;
 
@@ -975,9 +991,9 @@ II. Celebrar convenios con el Gobierno del Estado en materia fiscal relacionadas
 
 III. Formular y remitir al Congreso del Estado a más tardar el 15 de octubre, sus presupuestos anuales de ingresos, para expedir en su caso, la Ley de Ingresos, junto con la Tabla de Valores Unitarios de Suelo y Construcción del año siguiente; con excepción del año de renovación de los Ayuntamientos, lo podrán entregar a más tardar el 30 de octubre del año de la elección. El Congreso del Estado está facultado para incorporar a la Iniciativa de ingresos municipales que al efecto presente el Ejecutivo del Estado, el monto total de ingresos autorizado por Municipio, siempre y cuando los presupuestos se hayan remitido previo acuerdo de los Ayuntamientos. En el caso de que un Ayuntamiento no presente su presupuesto de ingresos, el Congreso suplirá esta deficiencia en los términos de Ley.
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2022)</small>
 
-IV. Presentar al Congreso del Estado, a través de la Auditoria General del Estado, a más tardar en la segunda quincena del mes de febrero del año siguiente del ejercicio fiscal del que se informe, la Cuenta de la Hacienda Pública Municipal, la que contendrá el Informe Financiero correspondiente al tercer cuatrimestre del ejercicio fiscal anterior, consolidando el resultado de las operaciones de ingresos y gastos que se hayan realizado así como el desempeño cumplido del Programa Operativo Anual y el Plan Municipal de Desarrollo, en los términos que señale la Ley de Fiscalización Superior del Estado de Guerrero;
+IV. Presentar al Congreso del Estado, a través de la Auditoría Superior del Estado, la Cuenta Pública en términos de lo dispuesto por la Ley Número 468 de Fiscalización Superior del Estado;
 
 V. Recaudar y administrar los ingresos correspondientes a la Hacienda Pública Municipal;
 
@@ -1301,15 +1317,23 @@ XI. Otorgar reconocimiento a nivel municipal a personas físicas o morales o bie
 
 XII. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2022)</small>
 
-ARTICULO 69 ter.- Son facultades y obligaciones de los Ayuntamientos en materia de Asuntos Indígenas, las siguientes:
+ARTICULO 69 ter.- Son facultades y obligaciones de los Ayuntamientos en materia de asuntos Indígenas y Afromexicanos, las siguientes:
 
-I. Coordinarse con los Gobiernos del Estado y de la Federación, a efecto de propiciar políticas públicas unificadas en materia de Asuntos Indígenas;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2022)</small>
+
+I. Coordinarse con los Gobiernos del Estado y de la Federación, a efecto de propiciar políticas públicas unificadas y transversales en materia de Asuntos Indígenas y Afromexicanos.
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2009)</small>
 
 II. Vigilar que los planes, proyectos y programas, que se ejecuten en el Municipio se cumplan en términos de las reglas de operación aprobadas para ello;
 
-III. Emitir la Reglamentación necesaria para la atención de los Asuntos Indígenas;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2022)</small>
+
+III. Emitir la Reglamentación necesaria para la atención de los asuntos Indígenas y Afromexicanos.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2009)</small>
 
 IV. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
 
@@ -1623,33 +1647,47 @@ Los Síndicos Procuradores, cuando sean expresamente autorizados por autoridad c
 
 Los regidores tendrán a su cargo la supervisión de las comisiones, sin facultades ejecutivas y se ocuparán de los ramos a que se refiere el Artículo 59 de esta Ley.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2022)</small>
+
 ###### ARTICULO 80.
 
-Son facultades y obligaciones de los regidores:
+Son facultades y obligaciones de las Regidoras y los Regidores:
 
-I. Asistir puntualmente a las sesiones del Ayuntamiento con voz y voto;
+I. Asistir y participar con derecho a voz y voto, en las sesiones del Ayuntamiento;
 
-II. Desempeñar y presidir las Comisiones que les encomiende el Ayuntamiento e informar a éste de los resultados de sus trabajos;
+II. Desempeñar con eficiencia y eficacia, las funciones relativas a las Comisiones que presidan y se les hayan encomendado por el Ayuntamiento, así como, informar a éste de los resultados obtenidos;
 
-III. Proponer al Ayuntamiento las medidas y acciones que deban acordarse para el mejoramiento de las distintas ramas de la administración y de los servicios municipales, cuya vigilancia les corresponda o les haya sido encomendada;
+III. Vigilar que los actos del Ramo de la Administración Municipal que les haya sido encomendado se desarrollen con apego a lo dispuesto por las leyes, reglamentos y normas de observancia municipal;
 
-IV. Suplir al Presidente Municipal en sus faltas temporales, en el orden predeterminado;
+IV. Vigilar que las solicitudes y peticiones realizadas a las distintas áreas de la Administración Pública, se resuelvan oportunamente;
 
-V. Convocar a las sesiones extraordinarias en los términos de esta Ley;
+V. Vigilar que la o el Presidente Municipal cumpla con los acuerdos y resoluciones del Ayuntamiento;
 
-VI. Apoyar al Presidente Municipal en sus responsabilidades en los términos de esta Ley, y
+VI. Informar al Ayuntamiento de sus gestiones realizadas en el ejercicio de su facultad de vigilancia, así como de aquellas que les encomiende en forma directa la o el Presidente Municipal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2021)</small>
+VII. Proponer al Ayuntamiento las medidas y acciones que deban acordarse para el mejoramiento de las distintas áreas de la Administración Municipal y de los Servicios Municipales, cuya vigilancia les corresponda o les haya sido encomendada, así como, presentar proyectos de reglamentos o modificaciones a los existentes;
 
-VII. Presentar anualmente un informe escrito del ejercicio de sus funciones ante el Cabildo, sin perjuicio de que puedan hacerlo ante la ciudadanía;
+VIII. Solicitar a la o el Presidente Municipal, información sobre los programas y proyectos convenidos con el Estado, la Federación o con otros Municipios, así como, la información que requieran de las y los titulares de la Administración Municipal para el ejercicio óptimo de su facultad de vigilancia;
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2021)</small>
+IX. Solicitar información, previa justificación, a la o al Síndico Procurador respecto a los asuntos de su competencia, previa justificación de que lo consideran necesario;
 
-VIII. Brindar en sus oficinas atención a la ciudadanía, conforme al ramo que le corresponda, y
+X. Impulsar y fortalecer en todas las actividades que desarrolle el Ayuntamiento, la protección y promoción de los derechos humanos, la participación ciudadana, la perspectiva de género, la participación social y el respeto y conservación del medio ambiente;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE MAYO DE 2021)</small>
+XI. Realizar, junto con la o el Presidente Municipal y demás ediles municipales, visitas periódicas a las localidades y colonias del Municipio;
 
-IX. Las demás que les otorgue la Ley y los reglamentos.
+XII. Suplir a la o el Presidente Municipal en sus faltas temporales, en el orden predeterminado;
+
+XIII. Convocar a las sesiones extraordinarias en los términos de esta Ley;
+
+XIV. Apoyar a la o el Presidente Municipal en sus responsabilidades en los términos de esta Ley;
+
+XV. Presentar anualmente un informe escrito del ejercicio de sus funciones ante el Ayuntamiento, sin perjuicio de que puedan hacerlo ante la ciudadanía;
+
+XVI. Brindar en sus oficinas atención a la ciudadanía, conforme al ramo que les corresponda; y,
+
+XVII. Las demás que les otorguen las Leyes y Reglamentos.
+
+En el ejercicio de sus facultades, las Regidoras y los Regidores deberán actuar conforme a los principios de legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, eficiencia, eficacia, equidad, transparencia, economía e integridad.
 
 ### CAPITULO IX. DE LA SUSPENSION E INSTALACION PROVISIONAL DE AYUNTAMIENTOS
 
@@ -3967,7 +4005,7 @@ DECRETO NÚMERO 417, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 29, 109 B
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
-SEGUNDO.- Comuniquese el presente Decreto a los 81 Ayuntamientos del Estado de Guerrero, los Honorables Ayuntamientos Municipales que no cuenten a la fecha de la vigencia del presente Decreto con una oficina o unidad de atención juvenil, harán los trámites y gestiones procedentes con el objeto de presupuestar lo concerniente en el ejercicio fiscal del año 2011, con el fin de programar su instalación y funcionamiento de Acuerdo al Plan de Desarrollo Municipal, a los Programas Estatales y Municipales de la Juventud y demás ordenamientos legales correspondientes.
+SEGUNDO.- Comuniquese el presente Decreto a los 81 Ayuntamientos del Estado de Guerrero, los Honorables Ayuntamientos Municipales que no cuenten a la fecha de la vigencia del presente Decreto con una oficina o unidad de atención juvenil, harán los trámites y gestiones procedentes con el objeto de presupuestar lo concerniente en el ejercicio fiscal del año 2011, con el fin de programar su instalación y funcionamiento de Acuerdo al Plan de Desarrollo Municipal, a los, Programas Estatales y Municipales de la Juventud y demás ordenamientos legales correspondientes.
 
 TERCERO.- Remítase al Titular del Poder Ejecutivo del Estado para los efectos constitucionales y publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -4314,3 +4352,27 @@ P.O. 10 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Período Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO.- Publíquese el presente Decreto para su conocimiento general y difusión, en el Portal Web del Congreso del Estado y en sus redes sociales de internet.
+
+P.O. 24 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 188 POR EL QUE SE REFORMAN LA FRACCIÓN IX DEL ARTÍCULO 59, EL PRIMER PÁRRAFO Y LAS FRACCIONES I Y III DEL ARTÍCULO 69 TER DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Publíquese el presente Decreto para su conocimiento general y difusión, en el Portal Web del Congreso del Estado y en sus redes sociales de internet.
+
+P.O. 24 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 189 POR EL QUE SE REFORMAN LOS ARTÍCULOS 39, 41, 42 FRACCIÓN VII, 44 PÁRRAFO SEGUNDO Y 62 FRACCIÓN IV DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado para el conocimiento general y efectos legales procedentes.
+
+P.O. 24 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 190 POR EL QUE SE REFORMA EL ARTÍCULO 80 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado para el conocimiento general y efectos legales procedentes.
