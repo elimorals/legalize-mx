@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-etica-de-las-personas-servidoras-publicas-del-143928"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-08-29"
-last_updated: "2020-08-29"
+last_updated: "2022-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # CODIGO DE ETICA DE LAS PERSONAS SERVIDORAS PUBLICAS DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 25 DE JUNIO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2022 (ABROGADO).
 
 Código publicado en el Suplemento Número 1 del Periódico Oficial del Estado de Colima, el sábado 29 de agosto de 2020.
 
@@ -406,3 +408,25 @@ LUIS ALBERTO VUELVAS PRECIADO
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO
 
 Firma.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se abroga el Acuerdo por el que se expide el Código de Ética, de las Personas Servidoras Públicas, las reglas de integridad para el ejercicio de la función Pública y los Lineamientos Generales para propiciar la integridad de las personas Servidoras Públicas de la Administración Pública del Estado de Colima, publicado en el Periódico Oficial "El Estado de Colima", el día sábado 29 de agosto de 2020.
+
+TERCERO. La Contraloría, las Dependencias y Entidades llevarán a cabo las acciones que permitan la implementación del presente Acuerdo.
+
+CUARTO. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Acuerdo se resolverán de conformidad a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+QUINTO. La Contraloría interpretará para efectos administrativos el presente Acuerdo, y resolverá los casos no previstos en el mismo.
+
+SEXTO. La Contraloría y los órganos internos de control de las dependencias y entidades, vigilarán la observancia del presente Acuerdo.
+
+SÉPTIMO. Se derogan todas aquellas disposiciones reglamentarias que se opongan al presente Acuerdo.
+
+OCTAVO. Los Órganos Internos de Control y las entidades públicas deberán difundir y publicar en sus páginas oficiales de internet el Código de Ética y de Conducta.
