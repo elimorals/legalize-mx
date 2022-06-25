@@ -4,7 +4,7 @@ identifier: "COL-ley-de-turismo-del-estado-de-colima-51979"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2022-03-19"
+last_updated: "2022-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE TURISMO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2022.
 
 Ley publicada en el Suplemento No. 8 al Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -117,17 +117,17 @@ XVII. Optimizar la calidad y competitividad de los servicios turísticos;
 
 XVIII. Impulsar la modernización de la actividad turística;
 
-> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2022)</small>
 
-XIX. Fomentar la inversión pública, privada y social en la industria turística;
+XIX. Establecer las bases para la orientación y asistencia a los turistas nacionales y extranjeros, definiendo sus derechos y obligaciones;
 
-> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2022)</small>
 
-XX. Establecer las bases para la orientación y asistencia a los turistas nacionales y extranjeros, definiendo sus derechos y obligaciones; y
+XX. Fomentar y desarrollar acciones para diversificar la actividad turística, todas las modalidades turísticas se considerarán como un factor de desarrollo local integrado, apoyando el aprovechamiento de las actividades propias de las comunidades; e
 
-> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2022)</small>
 
-XXI. Fomentar y desarrollar acciones para diversificar la actividad turística, todas las modalidades turísticas se considerarán como un factor de desarrollo local integrado, apoyando el aprovechamiento de las actividades propias de las comunidades.
+XXI. Impulsar el turismo rural, con el fin de que los productos de la región rural a que se refiere sean vinculados con las actividades de naturaleza, formas de vida y las culturas rurales, la pesca con caña, agricultura, ganadería, incluida su gastronomía con el fin de que se conozca e interactúan en actividades de convivencia con una comunidad rural.
 
 ###### Artículo 3.
 
@@ -257,6 +257,14 @@ El Estado, a través de la Secretaria y los Municipios, en el ámbito de sus res
 
 Lo anterior, entre otros, a través de estudios sociales y de mercado, tomando en cuenta la información disponible en el Registro Nacional de Turismo, en el Atlas Turístico de México y en el Atlas Turístico de Colima.
 
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2022)</small>
+
+###### Artículo 10 Ter.
+
+La Secretaría promoverá el desarrollo de infraestructura y equipamiento para aquellas zonas donde se desarrolle el turismo rural, que contribuya al fomento y desarrollo de la actividad turística, sujeto a la disponibilidad de los recursos aprobados en el Presupuesto de Egresos del Gobierno del Estado.
+
+En coordinación con la Oficina de Representación de la Secretaría de Agricultura y Desarrollo Rural en el estado de Colima, promoverán los mecanismos que permitan la promoción y comercialización de los productos de las zonas turísticas rurales.
+
 ### CAPÍTULO III. DE LOS ÓRGANOS MUNICIPALES DE TURISMO
 
 ###### Artículo 11.
@@ -335,13 +343,17 @@ XVIII. Atender los demás asuntos que en materia de planeación, programación, 
 
 XIX. Emitir opinión ante la Secretaría, en aquellos casos en que la inversión concurra en proyectos de desarrollo turístico o en el establecimiento de servicios turísticos, dentro de su territorio;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2022)</small>
 
-XX. En general promover la planeación, programación, fomento y desarrollo del turismo en forma armónica y acordes al desarrollo turístico de la comunidad, así como ser vigilantes del desempeño de la actividad turística en el ámbito de sus respectivas competencias; y
+XX. Impulsar la actividad turística en las zonas de desarrollo Turístico Rural y Sustentable, fomentando la inversión, el empleo y el ordenamiento territorial, conservando sus recursos naturales, históricos y culturales en beneficio de la población;
 
-> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE JUNIO DE 2022)</small>
 
-XXI. Las demás previstas en éste y otros ordenamientos.
+XXI. En general promover la planeación, programación, fomento y desarrollo del turismo en forma armónica y acordes al desarrollo turístico de la comunidad, así como ser vigilantes del desempeño de la actividad turística en el ámbito de sus respectivas competencias; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE JUNIO DE 2022)</small>
+
+XXII. Las demás previstas en éste y otros ordenamientos.
 
 ###### Artículo 12.
 
@@ -419,7 +431,17 @@ XIII. Promover y vigilar el cumplimiento de esta Ley y los demás ordenamientos 
 
 XIV. Fijar e imponer, de acuerdo a esta Ley y los reglamentos correspondientes, el tipo y monto y de las sanciones por el incumplimiento y violación de las disposiciones en materia turística; y
 
-XV. Las demás previstas en éste y otros ordenamientos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2022)</small>
+
+XV. Facilitar la integración de las comunidades rurales a proyectos turísticos rurales y sustentables, de acuerdo con las propuestas que presentes (sic) los gobiernos municipales y estatal.
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2022)</small>
+
+XVI. Colaborar con la Secretaría de Desarrollo Económico en las acciones tendientes a promover y fortalecer las micro y pequeños comercios, así como las de turismo rural y sustentables en sus diversas modalidades.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE JUNIO DE 2022)</small>
+
+XV. (SIC) Las demás previstas en éste y otros ordenamientos.
 
 > <small>(ADICIONADO, P.O. 3 DE MAYO DE 2014)</small>
 
@@ -772,6 +794,10 @@ El turismo de Aventura es el turismo de naturaleza que considera a los viajes co
 ###### Artículo 45.
 
 Turismo Rural es la categoría del turismo de naturaleza que considera a los viajes que tiene como fin el realizar actividades de convivencia e interacción con una comunidad rural en todas aquellas expresiones sociales, culturales y productivas cotidianas de la misma. Pudiendo ser las siguientes actividades: etnoturismo, agroturismo, talleres gastronómicos, vivencias místicas, aprendizaje de dialectos, ecoarquiología (sic), preparación y uso (sic) medicina tradicional, talleres artesanales y fotografía rural.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2022)</small>
+
+Las áreas naturales protegidas no podrán formar parte de las Zonas de Desarrollo Turístico Rural.
 
 ### CAPÍTULO II. DE LA PROTECCIÓN Y ORIENTACIÓN AL TURISTA
 
@@ -1148,3 +1174,11 @@ P.O. 19 DE MARZO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO. Las obligaciones dispuestas para las autoridades estatales y municipales, así como para los prestadores de servicios turísticos, se implementarán de forma paulatina y progresiva en función de la suficiencia presupuestaria.
+
+P.O. 25 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 111.- POR EL QUE SE REFORMAN LAS FRACCIONES XIX Y XX DEL ARTÍCULO 2; FRACCIONES XX, XXI DEL ARTÍCULO 11; FRACCIÓN XV DEL ARTÍCULO 15 BIS; Y SE ADICIONA LA FRACCIÓN XXI (SIC) ARTÍCULO 2; EL ARTÍCULO 10 TER; LA FRACCIÓN XXII AL ARTÍCULO 11; LAS FRACCIONES XVI, XVII AL ARTÍCULO 15 BIS; Y SEGUNDO PÁRRAFO AL ARTÍCULO 45 DE LA LEY DE TURISMO DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y normativas que se opongan al presente Decreto.
