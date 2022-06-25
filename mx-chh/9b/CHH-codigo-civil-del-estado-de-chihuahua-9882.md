@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2022-06-11"
+last_updated: "2022-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2022.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1496,6 +1496,14 @@ El marido, en todo caso, sólo tendrá derecho a alimentos cuando esté imposibi
 La sentencia que se pronuncie en definitiva, fijará la situación de los hijos e hijas, para lo cual el juez competente deberá resolver todo lo relativo a los derechos y deberes inherentes a la guarda y custodia.
 
 268.- La situación de los hijos a que se refiere el artículo anterior, puede ser modificada por el juez en interés justificado de ellos.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2022)</small>
+
+268 Bis.- En la disolución del concubinato o del matrimonio contraído bajo el régimen de separación de bienes, cualquiera de las personas concubinarias o cónyuges que haya realizado trabajo del hogar consistente en tareas de administración, dirección, atención del mismo o cuidado de la familia de manera cotidiana, tendrá derecho a la repartición de los bienes adquiridos durante el matrimonio o el concubinato hasta por el cincuenta por ciento.
+
+La autoridad jurisdiccional habrá de resolver atendiendo al tiempo que duró el matrimonio o el concubinato; los bienes con que cuenten los cónyuges; la custodia de la descendencia; y las demás circunstancias especiales de cada caso.
+
+Se exceptúan de los bienes establecidos en este artículo, los que se adquieran por sucesión y donación.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
 
@@ -13342,6 +13350,14 @@ P.O. 23 DE OCTUBRE DE 2021.
 P.O. 11 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFCOD/0246/2022 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 297, FRACCIÓN I, DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “LXVII/RFCOD/0255/2022 II P.O., MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 268 BIS AL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
