@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-103536"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-08"
-last_updated: "2021-09-04"
+last_updated: "2022-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2022.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de noviembre de 2014.
 
@@ -111,9 +111,13 @@ XIV. Supremo Tribunal de Justicia: Pleno o Salas del Supremo Tribunal de Justici
 
 XV. Tribunal de Alzada: Salas del Supremo Tribunal de Justicia del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2022)</small>
+
 ###### Artículo 4.
 
-Estructura del Poder Judicial
+Estructura del Poder Judicial.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 25 DE JUNIO DE 2022)</small>
 
 El Poder Judicial se conforma por:
 
@@ -140,6 +144,10 @@ IX. El Centro de Justicia Alternativa; y
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
 X. Los demás órganos auxiliares de la administración de justicia en los términos que establezcan las leyes.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2022)</small>
+
+Para la designación de los cargos que conforman dicha estructura, se deberá observar en todo momento el principio constitucional de paridad de género.
 
 ###### Artículo 5.
 
@@ -347,11 +355,15 @@ IV. Gozar de buena reputación y no haber sido condenado por delito que amerite 
 
 V. Haber residido en el país durante los dos años anteriores al día de la designación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE JUNIO DE 2022)</small>
+
 ###### Artículo 19.
 
 Procedimiento para nombrar Magistrado
 
-Los nombramientos de los Magistrados del Supremo Tribunal de Justicia serán hechos por el Gobernador del Estado y sometidos a la aprobación del Congreso, el que otorgará o negará esa aprobación dentro del improrrogable término de diez días.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2022)</small>
+
+Los nombramientos de los Magistrados del Supremo Tribunal de Justicia serán hechos por el Gobernador del Estado y sometidos a la aprobación del Congreso, el que otorgará o negará esa aprobación dentro del improrrogable término de diez días. Para tal efecto, se deberá observar el principio constitucional de paridad de género.
 
 Si el Congreso no resolviera dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación del Congreso no podrán tomar posesión los Magistrados nombrados.
 
@@ -367,11 +379,13 @@ El cargo de Magistrado tendrá una duración de seis años, contados a partir de
 
 #### Sección Primera. De la Integración y Atribuciones del Pleno del Tribunal
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2022)</small>
+
 ###### Artículo 21.
 
-Integración del Pleno
+Integración del Pleno.
 
-El Supremo Tribunal de Justicia tendrá su residencia en la capital del Estado; funcionará en Pleno y en Salas; y estará constituido por lo menos de diez Magistrados propietarios, de los cuales, uno fungirá como Presidente y los restantes integrarán Salas.
+El Supremo Tribunal de Justicia tendrá su residencia en la capital del Estado; funcionará en Pleno y en Salas; y estará constituido por lo menos de diez Magistrados propietarios, de los cuales, uno fungirá como Presidente y los restantes integrarán Salas. Su integración deberá observar el principio constitucional de paridad de género.
 
 ###### Artículo 22.
 
@@ -381,9 +395,11 @@ Para que exista quórum, se requiere la presencia de la mitad de los Magistrados
 
 Las sesiones serán ordinarias o extraordinarias y se celebrarán previa convocatoria expedida por el Presidente del Tribunal con la periodicidad que determine el Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2022)</small>
+
 ###### Artículo 23.
 
-Atribuciones del Pleno
+Atribuciones del Pleno.
 
 Son atribuciones del Pleno del Tribunal:
 
@@ -395,7 +411,9 @@ III. Proveer lo conducente para la debida observancia de la Ley en la administra
 
 IV. Elegir de entre los Magistrados integrantes del Pleno y mediante votación secreta y directa al Presidente del Tribunal, quien rendirá protesta ante el propio Pleno;
 
-V. Nombrar a los servidores públicos del Poder Judicial en los términos y conforme a los procedimientos previstos por la presente Ley y los reglamentos respectivos;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2022)</small>
+
+V. Nombrar a los servidores públicos del Poder Judicial en los términos y conforme a los procedimientos previstos por la presente Ley y los reglamentos respectivos, para tal efecto, se deberá observar el principio constitucional de paridad de género.
 
 VI. Conceder licencias hasta por tres meses a los servidores públicos del Poder Judicial; con excepción de las licencias menores a quince días, que corresponda otorgar a la Presidencia y a las Salas del Supremo Tribunal;
 
@@ -435,7 +453,9 @@ XXIII. Otorgar a nombre y representación del Poder Judicial poderes generales o
 
 XXIV. Conocer de las excitativas de justicia respecto de los Magistrados;
 
-XXV. Designar a propuesta del Presidente, a los titulares de las áreas administrativas y auxiliares del Poder Judicial;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2022)</small>
+
+XXV. Designar a propuesta del Presidente, a los titulares de las áreas administrativas y auxiliares del Poder Judicial; para tal efecto, se deberá observar el principio constitucional de paridad de género.
 
 XXVI. Determinar por necesidades de la función jurisdiccional, los partidos judiciales;
 
@@ -495,9 +515,11 @@ El Presidente del Tribunal, será elegido por el Pleno del Tribunal en escrutini
 
 Durante el tiempo que desempeñe el cargo no integrará Sala.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2022)</small>
+
 ###### Artículo 27.
 
-Atribuciones del Presidente del Tribunal
+Atribuciones del Presidente del Tribunal.
 
 El Presidente tendrá las siguientes atribuciones:
 
@@ -511,7 +533,9 @@ IV. Autorizar con el Secretario General de Acuerdos, las actas que se levanten c
 
 V. Ejecutar los acuerdos del Pleno del Tribunal, despachar y autorizar la correspondencia relacionada;
 
-VI. Proponer al Pleno del Tribunal a los titulares de la Secretaría General de Acuerdos y al personal adscrito a estas áreas;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2022)</small>
+
+VI. Proponer al Pleno del Tribunal a los titulares de la Secretaría General de Acuerdos y al personal adscrito a estas áreas; para tal efecto, se deberá observar el principio constitucional de paridad de género.
 
 VII. Conceder licencias hasta por quince días a los servidores públicos adscritos a la Presidencia, a la Secretaría General de Acuerdos y al personal cuyo nombramiento corresponda a la Presidencia;
 
@@ -535,7 +559,9 @@ XVI. Solicitar a los Jueces en cualquier tiempo, informes, expedientes o copias 
 
 XVII. Rendir ante el Pleno del Tribunal en Sesión Extraordinaria, que se celebre en los primeros quince días del mes de noviembre de cada año, un informe de las actividades del Poder Judicial en el año que corresponda; sesión a la que deberá de invitarse a los titulares de los Poderes Ejecutivo y Legislativo del Estado;
 
-XVIII. Nombrar y remover al personal administrativo adscrito a la Presidencia;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2022)</small>
+
+XVIII. Nombrar y remover al personal administrativo adscrito a la Presidencia; para tal efecto, se deberá observar el principio constitucional de paridad de género.
 
 XIX. Solicitar el auxilio de la Fuerza Pública en los casos que estime necesario; y
 
@@ -657,13 +683,17 @@ VI. Remitir al Pleno del Tribunal, las solicitudes de permisos presentados por e
 
 VII. Conocer de los demás asuntos que le encomiende esta Ley, su Reglamento y los ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2022)</small>
+
 ###### Artículo 39.
 
-Personal de las Salas
+Personal de las Salas.
 
 Las Salas contarán con los Secretarios de Acuerdos, Actuarios, Proyectistas y demás personal que apruebe el Pleno del Tribunal y resulte necesario para el mejor desempeño de sus funciones, conforme a la disponibilidad presupuestaria.
 
-Las Salas, por conducto de su Presidente propondrán ante el Pleno del Tribunal a quienes deban ocupar los cargos comunes de su adscripción. Corresponderá a cada Magistrado efectuar la propuesta respecto a sus colaboradores directos. En los puestos de carrera judicial la propuesta correspondiente deberá hacerse respecto del personal que haya aprobado el proceso de selección en términos de lo establecido por la presente Ley y los reglamentos.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2022)</small>
+
+Las Salas, por conducto de su Presidente propondrán ante el Pleno del Tribunal a quienes deban ocupar los cargos comunes de su adscripción. Corresponderá a cada Magistrado efectuar la propuesta respecto a sus colaboradores directos. En los puestos de carrera judicial la propuesta correspondiente deberá hacerse respecto del personal que haya aprobado el proceso de selección en términos de lo establecido por la presente Ley y los reglamentos. Para tal efecto, se deberá observar el principio constitucional de paridad de género.
 
 Se consideran colaboradores directos para efecto del párrafo anterior a los Proyectistas adscritos a las ponencias y demás personal que determine el Reglamento.
 
@@ -1129,11 +1159,15 @@ Serán competentes los juzgados de oralidad mercantil para conocer y resolver lo
 
 #### Sección Tercera. De los Juzgados de Menor Cuantía
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2022)</small>
+
 ###### Artículo 64.
 
-Nombramiento y Requisitos para ser Juez de Menor Cuantía
+Nombramiento y Requisitos para ser Juez de Menor Cuantía.
 
-Los Jueces de Menor Cuantía serán nombrados por el Pleno del Tribunal y durarán en su encargo seis años contados a partir de que tomen protesta, al término de los cuales podrán ser ratificados en los mismos términos que los Jueces de Primera Instancia.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2022)</small>
+
+Los Jueces de Menor Cuantía serán nombrados por el Pleno del Tribunal y durarán en su encargo seis años contados a partir de que tomen protesta, al término de los cuales podrán ser ratificados en los mismos términos que los Jueces de Primera Instancia. Para tal efecto, se deberá observar el principio constitucional de paridad de género.
 
 Para ser Juez de Menor Cuantía deberá cumplirse con los requisitos para ser Juez de Primera Instancia, excepto la edad que podrá ser por lo menos de veintiocho años al momento de su designación.
 
@@ -1511,13 +1545,13 @@ El Poder Judicial del Estado contará con un Área de Psicología y Trabajo Soci
 
 ### Capítulo III. Del Centro Estatal de Justicia Alternativa
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2022)</small>
+
 ###### Artículo 93.
 
-Naturaleza del Centro de Justicia Alternativa
+Naturaleza del Centro de Justicia Alternativa.
 
-El Centro Estatal de Justicia Alternativa es un órgano del Poder Judicial que tendrá a su cargo los servicios de mediación, conciliación extrajudicial y arbitraje; estará a cargo de un Director General designado por el Pleno del Tribunal a propuesta del Presidente quien durará en su encargo seis años contados a partir de la protesta del cargo, y contará con el personal que determine la Ley de la materia y permita el presupuesto.
-
-Prestará sus servicios de mediación y conciliación a la ciudadanía en general, sin ser requisito que medie un proceso judicial y contara con centros regionales que determine el Pleno del Tribunal, distribuidos estratégicamente para atender las necesidades de los habitantes del Estado.
+El Centro Estatal de Justicia Alternativa es un órgano del Poder Judicial que tendrá a su cargo los servicios de mediación, conciliación extrajudicial y arbitraje; estará a cargo de un Director General designado por el Pleno del Tribunal a propuesta del Presidente quien durará en su encargo seis años contados a partir de la protesta del cargo, y contará con el personal que determine la Ley de la materia y permita el presupuesto. Para tal efecto, se deberá observar el principio constitucional de paridad de género.
 
 ###### Artículo 94.
 
@@ -2789,13 +2823,13 @@ IX. Demás personal que determine el Pleno del Tribunal.
 
 El Pleno del Tribunal determinará, atendiendo a las necesidades del servicio y a la disponibilidad presupuestal, el número de plazas que deberán crearse en cada sede judicial.
 
-> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2022)</small>
 
 ###### Artículo 149 Quinquies.
 
 Designación de personal.
 
-El Pleno del Tribunal designará al personal de carrera judicial y a los demás puestos de administración y auxiliares, en los términos de esta Ley.
+El Pleno del Tribunal designará al personal de carrera judicial y a los demás puestos de administración y auxiliares, en los términos de esta Ley. Para tal efecto, se deberá observar el principio constitucional de paridad de género.
 
 > <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
@@ -3927,27 +3961,29 @@ VIII. Las demás que determinen esta Ley, su Reglamento, otros ordenamientos apl
 
 ### Capítulo I. Del Sistema de la Carrera Judicial
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2022)</small>
+
 ###### Artículo 178.
 
-Sistema de Carrera Judicial
+Sistema de Carrera Judicial.
 
-Corresponde al sistema de carrera judicial, el ingreso, promoción y permanencia de las personas que aspiren a ocupar u ostenten un cargo público en los órganos jurisdiccionales del Poder Judicial del Estado.
+Corresponde al sistema de carrera judicial, el ingreso, promoción y permanencia de las personas que aspiren a ocupar u ostenten un cargo público en los órganos jurisdiccionales del Poder Judicial del Estado. Para tal efecto, se deberá observar el principio constitucional de paridad de género.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2022)</small>
 
 ###### Artículo 179.
 
-Principios de la Carrera Judicial
+Principios de la Carrera Judicial.
 
-El sistema de carrera judicial se regirá por los principios de excelencia, profesionalización, imparcialidad, objetividad, equidad, independencia y antigüedad, y funcionará con base en criterios de igualdad de oportunidades, méritos y capacidades.
+El sistema de carrera judicial se regirá por los principios de excelencia, profesionalización, imparcialidad, objetividad, equidad, paridad de género, independencia y antigüedad, y funcionará con base en criterios de igualdad de oportunidades, méritos y capacidades.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2022)</small>
 
 ###### Artículo 180.
 
-Nombramientos de la Carrera Judicial
+Nombramientos de la Carrera Judicial.
 
-Los nombramientos de los Jueces y demás categorías de la carrera judicial, serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica. En todo caso, unos y otros deberán sustentar y aprobar los exámenes de oposición correspondientes.
-
-La evaluación de los aspectos precisados en el párrafo anterior así como los exámenes respectivos, se sujetarán a lo que disponga la presente Ley y el Reglamento aplicable en materia de evaluación del desempeño y concursos de oposición.
-
-Para el ingreso, permanencia y promoción de la carrera judicial, los servidores públicos, en todas sus categorías, deberán capacitarse anualmente en las materias de su competencia y en todos aquéllos temas relativos a dotar de conocimientos, así como desarrollar habilidades y aptitudes que el modelo de competencias determine para cada puesto.
+Los nombramientos de los Jueces y demás categorías de la carrera judicial, serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica. En todo caso, unos y otros deberán sustentar y aprobar los exámenes de oposición correspondientes. Para tal efecto, se deberá observar el principio constitucional de paridad de género.
 
 ###### Artículo 181.
 
@@ -3967,11 +4003,13 @@ Todos los demás servidores públicos del Poder Judicial, para efectos de la per
 
 Las evaluaciones a que se refieren los párrafos anteriores, deberán realizarse con base en el sistema de evaluación del desempeño que para el efecto sea aprobado por el Pleno del Tribunal.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2022)</small>
+
 ###### Artículo 183.
 
-Promociones
+Promociones.
 
-La promoción de los servidores públicos del Poder Judicial, se hará por el sistema de carrera judicial a través de concursos de oposición y evaluación del desempeño, en la que se considerarán factores como capacidad, eficiencia, preparación, probidad y antigüedad.
+La promoción de los servidores públicos del Poder Judicial, se hará por el sistema de carrera judicial a través de concursos de oposición y evaluación del desempeño, en la que se considerarán factores como capacidad, eficiencia, preparación, probidad, antigüedad y la paridad de género.
 
 ###### Artículo 184.
 
@@ -4019,13 +4057,17 @@ X. Secretario Actuario y Notificador.
 
 Los Secretarios de Acuerdos y Actuarios, podrán ser adscritos a las áreas y órganos jurisdiccionales de Menor Cuantía, de Primera Instancia y Salas del Supremo Tribunal, de conformidad con los requisitos que la presente Ley y sus reglamentos señalen para cada puesto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2022)</small>
+
 ###### Artículo 185.
 
-Cargos desempeñados por Comisión
+Cargos desempeñados por Comisión.
 
 El Secretario General de Acuerdos y los Proyectistas de Salas, deberán ser preferentemente personal con carrera judicial que se desempeñe o se haya desempeñado en áreas administrativas, jurisdiccionales o auxiliares y de apoyo; quienes serán nombrados por Comisión para desempeñar sus funciones, mediante propuesta por el Presidente respecto del primero, o de los Magistrados a los que deban adscribirse respecto de los segundos.
 
-Podrán nombrarse en los mismos términos señalados en el párrafo que antecede, a los interesados que satisfagan los requisitos para ocupar las citadas responsabilidades, aun cuando éstos no se desempeñen en el Poder Judicial del Estado.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2022)</small>
+
+Podrán nombrarse en los mismos términos señalados en el párrafo que antecede, a los interesados que satisfagan los requisitos para ocupar las citadas responsabilidades, aun cuando éstos no se desempeñen en el Poder Judicial del Estado. Para tal efecto, se deberá observar el principio constitucional de paridad de género.
 
 Al término de su comisión en esas responsabilidades, los servidores públicos que se encontraran previamente en alguna de las categorías de la carrera judicial, regresarán a ella, toda vez que la citada comisión no interrumpirá ni afectará ésta. En el caso de profesionistas ajenos al Poder Judicial, se dará por concluida desde luego su relación laboral con el Poder Judicial.
 
@@ -4039,13 +4081,15 @@ Para el otorgamiento de los estímulos se tomará en cuenta el desempeño en el 
 
 ### Capítulo II. De los Concursos de Oposición
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2022)</small>
+
 ###### Artículo 187.
 
-Concursos de Oposición
+Concursos de Oposición.
 
-Para ocupar cualquier puesto que la presente Ley establezca como de carrera judicial, serán ocupados por concurso de oposición según las bases y lineamientos que para su ejecución determine el Pleno del Tribunal.
+Para ocupar cualquier puesto que la presente Ley establezca como de carrera judicial, serán ocupados por concurso de oposición según las bases y lineamientos que para su ejecución determine el Pleno del Tribunal. Para tal efecto, se deberá observar el principio constitucional de paridad de género.
 
-Cuando el Pleno del Tribunal lo determine, podrá convocarse a concursos de oposición para ocupar un puesto distinto a las categorías de la carrera judicial.
+Cuando el Pleno del Tribunal lo determine, podrá convocarse a concursos de oposición para ocupar un puesto distinto a las categorías de la carrera judicial. De la misma manera deberá observar el principio constitucional de paridad de género.
 
 ###### Artículo 188.
 
@@ -4623,17 +4667,25 @@ El Presidente será suplido en sus ausencias temporales, accidentales o cuando s
 
 Si su ausencia es definitiva, se convocará por la mayoría de los integrantes del Pleno del Tribunal a la celebración de una sesión extraordinaria para que determine lo que corresponda atendiendo a las circunstancias del caso, en tanto se nombre nuevo Presidente, procediéndose en términos del artículo 70 de la Constitución Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2022)</small>
+
 ###### Artículo 239.
 
-Ausencias del personal adscrito al Supremo Tribunal de Justicia
+Ausencias del personal adscrito al Supremo Tribunal de Justicia.
 
-El Secretario General de Acuerdos, los Secretarios de Acuerdos y Actuarios adscritos a ésta, serán suplidos en sus faltas temporales o accidentales menores a tres meses por los servidores públicos que determine el Pleno del Tribunal a propuesta del Presidente, y si excedieran de este término o fueran definitivas, se harán los nombramientos que correspondan en los términos previstos en la presente Ley.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2022)</small>
 
-El personal adscrito a la Presidencia será suplido en sus faltas temporales o accidentales menores a tres meses por el servidor público que determine el Presidente, y si excedieran de este término, o fueran definitivas, se emitirán los nombramientos correspondientes.
+El Secretario General de Acuerdos, los Secretarios de Acuerdos y Actuarios adscritos a ésta, serán suplidos en sus faltas temporales o accidentales menores a tres meses por los servidores públicos que determine el Pleno del Tribunal a propuesta del Presidente, y si excedieran de este término o fueran definitivas, se harán los nombramientos que correspondan en los términos previstos en la presente Ley y observando el principio constitucional de paridad de género.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2022)</small>
+
+El personal adscrito a la Presidencia será suplido en sus faltas temporales o accidentales menores a tres meses por el servidor público que determine el Presidente, y si excedieran de este término, o fueran definitivas, se emitirán los nombramientos correspondientes, observando el principio constitucional de paridad de género.
 
 El personal adscrito común a las Salas que se ausente temporal o accidentalmente por un período menor a tres meses, será suplido por el servidor público que determine el Pleno del Tribunal a propuesta del Presidente de la Sala correspondiente; y si se trata de personal adscrito a determinada ponencia, el suplente será propuesto por el Magistrado ponente de la Sala para su designación por parte del Pleno del Tribunal.
 
-Tratándose de faltas mayores a tres meses del personal adscrito al Supremo Tribunal, el Pleno del Tribunal comisionará o nombrará, según corresponda, a quien deba suplirlo, tomando en cuenta las propuestas de quienes se encuentren facultados para ello.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2022)</small>
+
+Tratándose de faltas mayores a tres meses del personal adscrito al Supremo Tribunal, el Pleno del Tribunal comisionará o nombrará, según corresponda, a quien deba suplirlo, tomando en cuenta las propuestas de quienes se encuentren facultados para ello. Para tal efecto, se deberá observar el principio constitucional de paridad de género.
 
 Cuando la ausencia temporal derive de licencias otorgadas con goce de sueldo, corresponderá al Pleno del Tribunal, atendiendo a la disponibilidad presupuestaria, a la justificación de la ausencia, y a las necesidades del servicio, determinar la pertinencia de cubrirla.
 
@@ -5454,3 +5506,13 @@ P.O. 4 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 491.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el periódico oficial “El Estado de Colima.”
+
+P.O. 25 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 108.- POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 4 Y SE REFORMAN LOS ARTÍCULOS 19, 21, LAS FRACCIONES V Y XXV DEL ARÁBIGO 23, ASÍ COMO LAS FRACCIONES VI Y XVIII DEL NUMERAL 27, 39, 64, 93, 149 QUINQUIES, 178, 179, 180, 183, 185, 187 Y 239 TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO. La observancia del principio constitucional de paridad de género a que hace referencia el último párrafo del artículo 4 de esta Ley, será aplicable a su integración y designación de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con esta Ley.
+
+TERCERO. El Pleno del Supremo Tribunal de Justicia contará con un plazo de 180 días naturales para reformar los reglamentos del Poder Judicial afecto (sic) de armonizar el principio constitucional de paridad instituido en la presente Ley.
