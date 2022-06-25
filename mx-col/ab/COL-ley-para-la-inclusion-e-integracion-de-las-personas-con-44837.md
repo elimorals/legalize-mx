@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-inclusion-e-integracion-de-las-personas-con-44837"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-07"
-last_updated: "2019-03-02"
+last_updated: "2022-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY PARA LA INCLUSION E INTEGRACION DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA -- ANTES LEY PARA LA INCLUSION DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA -- ANTES LEY PARA LA INTEGRACION Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA --
 
-LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA
+LEY PARA LA INCLUSIÓN E INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 2005.
 
@@ -37,9 +37,9 @@ DECRETO No. 201
 
 Se aprueba la Ley para la Integración y Desarrollo Social de las Personas con Discapacidad del Estado de Colima, en los siguientes términos:
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2022)</small>
 
-LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA
+LEY PARA LA INCLUSIÓN E INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA.
 
 ## TITULO PRIMERO. Prevenciones generales
 
@@ -48,6 +48,10 @@ LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA
 ###### Artículo 1°.
 
 La presente Ley es de orden público e interés social, sus disposiciones son de observancia obligatoria en el Estado y tiene como objeto establecer las acciones y medidas necesarias para proteger los derechos de las personas con discapacidad, promoviendo su atención e integración a la vida social y productiva de la entidad, así como fijar las bases para que la colectividad favorezca esta incorporación.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2022)</small>
+
+Su observancia corresponde a los Poderes Ejecutivo, Legislativo y Judicial, a los municipios, a las dependencias y entidades paraestatales y paramunicipales y órganos desconcentrados Órganos Autónomos, en el ámbito de sus respectivas competencias, así como a las personas físicas y morales de los sectores social y privado que presten servicios a las personas con discapacidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
@@ -71,9 +75,13 @@ III. Asistencia Social: Al Conjunto de acciones tendientes a modificar y mejorar
 
 IV. Ayudas técnicas: A los dispositivos tecnológicos y materiales que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales o intelectuales de las personas con discapacidad;
 
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2022)</small>
+
+V. Barreras Actitudinales: Aspectos sociales que impiden la realización de las personas con discapacidad. Constituyen prejuicios, discriminaciones y actitudes poco favorables para la inclusión;
+
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-V. Barreras arquitectónicas: Todos aquellos elementos de construcción del sector público, social o privado, que dificulten, entorpezcan o impidan a personas con discapacidad, el libre acceso y/o desplazamiento en espacios interiores y exteriores, como:
+VI. Barreras arquitectónicas: Todos aquellos elementos de construcción del sector público, social o privado, que dificulten, entorpezcan o impidan a personas con discapacidad, el libre acceso y/o desplazamiento en espacios interiores y exteriores, como:
 
 a) Aceras, banquetas o escarpas;
 
@@ -105,135 +113,139 @@ n) Cualquiera otra estructura que dificulte, entorpezca o impida el libre tráns
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-VI. Comunicación: Al lenguaje escrito, oral y la lengua de señas mexicana, la visualización de textos, sistema Braille, la comunicación táctil, los macrotipos, los dispositivos multimedia escritos o auditivos de fácil acceso, el lenguaje sencillo, los medios de voz digitalizada y otros modos, medios, sistemas y formatos aumentativos o alternativos de comunicación, incluida la tecnología de la información y las comunicaciones de fácil acceso;
+VII. Comunicación: Al lenguaje escrito, oral y la lengua de señas mexicana, la visualización de textos, sistema Braille, la comunicación táctil, los macrotipos, los dispositivos multimedia escritos o auditivos de fácil acceso, el lenguaje sencillo, los medios de voz digitalizada y otros modos, medios, sistemas y formatos aumentativos o alternativos de comunicación, incluida la tecnología de la información y las comunicaciones de fácil acceso;
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-VII. Comunidad de personas con deficiencia auditiva: A todo aquel grupo social cuyos miembros tienen alguna deficiencia del sentido auditivo que les limita sostener una comunicación y socialización regular y fluida en lengua oral;
+VIII. Comunidad de personas con deficiencia auditiva: A todo aquel grupo social cuyos miembros tienen alguna deficiencia del sentido auditivo que les limita sostener una comunicación y socialización regular y fluida en lengua oral;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-VIII. Convención: A la Convención sobre los Derechos de las Personas con Discapacidad;
+IX. Convención: A la Convención sobre los Derechos de las Personas con Discapacidad;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-IX. DIF Estatal: Al Sistema Estatal para el Desarrollo Integral de la Familia;
+X. DIF Estatal: Al Sistema Estatal para el Desarrollo Integral de la Familia;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-X. DIF Municipal: Al Sistema Municipal para el Desarrollo Integral de la Familia;
+XI. DIF Municipal: Al Sistema Municipal para el Desarrollo Integral de la Familia;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XI. Diseño universal: Se entenderá el diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para grupos particulares de personas con discapacidad cuando se necesiten;
+XII. Diseño universal: Se entenderá el diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para grupos particulares de personas con discapacidad cuando se necesiten;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XII. Educación: A la formación destinada a desarrollar la capacidad intelectual, moral y afectiva de las personas de acuerdo con la cultura y las normas de convivencia de la sociedad a la que pertenecen;
+XIII. Educación: A la formación destinada a desarrollar la capacidad intelectual, moral y afectiva de las personas de acuerdo con la cultura y las normas de convivencia de la sociedad a la que pertenecen;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XIII. Educación bilingüe: Se puede definir como una serie de fundamentos pedagógicos que se basan en la enseñanza y el aprendizaje en dos lenguas sintáctica y gramaticalmente diferentes una viso-gestual, la lengua de señas, y una auditivo-vocal, la lengua oral;
+XIV. Educación bilingüe: Se puede definir como una serie de fundamentos pedagógicos que se basan en la enseñanza y el aprendizaje en dos lenguas sintáctica y gramaticalmente diferentes una viso-gestual, la lengua de señas, y una auditivo-vocal, la lengua oral;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XIV. Educación inclusiva: A la educación que propicia la integración de personas con discapacidad a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos;
+XV. Educación inclusiva: A la educación que propicia la integración de personas con discapacidad a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XV. Estenografía proyectada: Al oficio y la técnica de transcribir un monólogo o un diálogo oral de manera simultánea a su desenvolvimiento y, a la vez, proyectar el texto resultante por medios electrónicos visuales;
+XVI. Estenografía proyectada: Al oficio y la técnica de transcribir un monólogo o un diálogo oral de manera simultánea a su desenvolvimiento y, a la vez, proyectar el texto resultante por medios electrónicos visuales;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XVI. Estimulación temprana: A la atención brindada a niños y niñas de entre 0 y 6 años para potenciar y desarrollar al máximo sus posibilidades físicas, intelectuales, sensoriales y afectivas, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano, sin forzar el curso natural de su maduración;
+XVII. Estimulación temprana: A la atención brindada a niños y niñas de entre 0 y 6 años para potenciar y desarrollar al máximo sus posibilidades físicas, intelectuales, sensoriales y afectivas, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano, sin forzar el curso natural de su maduración;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XVII. Discriminación por situación de discapacidad: A cualquier distinción, exclusión o restricción por motivos de discapacidad que tenga el propósito o el efecto de obstaculizar, menoscabar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos humanos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de otro tipo. Incluye todas las formas de discriminación, entre ellas, la denegación de ajustes razonables;
+XVIII. Discriminación por situación de discapacidad: A cualquier distinción, exclusión o restricción por motivos de discapacidad que tenga el propósito o el efecto de obstaculizar, menoscabar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos humanos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de otro tipo. Incluye todas las formas de discriminación, entre ellas, la denegación de ajustes razonables;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XVIII. Discapacidad Auditiva: Es la restricción en la función de la percepción de los sonidos externos, cuando la pérdida es de superficial a moderada, se necesita el uso de auxiliares auditivos pero puede adquirir la lengua oral a través de la retroalimentación de información que reciben por la vía auditiva;
+XIX. Discapacidad Auditiva: Es la restricción en la función de la percepción de los sonidos externos, cuando la pérdida es de superficial a moderada, se necesita el uso de auxiliares auditivos pero puede adquirir la lengua oral a través de la retroalimentación de información que reciben por la vía auditiva;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2022)</small>
+
+XX. Discapacidad Intelectual: Se caracteriza por limitaciones significativas tanto en funcionamiento intelectual (razonamiento, planificación, solución de problemas, pensamiento abstracto, comprensión de ideas complejas, aprender con rapidez y aprender de la experiencia) como en conducta adaptativa (conceptuales, sociales y prácticas), que se han aprendido y se practican por las personas en su vida cotidiana. Restringiendo la participación comunitaria y en estrecha relación con las condiciones de los diferentes contextos en que se desenvuelve la persona. Esta discapacidad aparece antes de los 18 años y su diagnóstico, pronóstico e intervención son diferentes a los que se realizan para la discapacidad mental y la discapacidad psicosocial;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2022)</small>
+
+XXI. Discapacidad Física o Motora: A las dificultades o impedimentos de la actividad motora de las personas;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XIX. Discapacidad Intelectual: Se caracteriza por limitaciones significativas tanto en funcionamiento intelectual (razonamiento, planificación, solución de problemas, pensamiento abstracto, comprensión de ideas complejas, aprender con rapidez y aprender de la experiencia) como en conducta adaptativa (conceptuales, sociales y prácticas), que se han aprendido y se practican por las personas en su vida cotidiana. Restringiendo la participación comunitaria y en estrecha relación con las condiciones de los diferentes contextos en que se desenvuelve la persona. Esta discapacidad aparece antes de los 18 años y su diagnóstico, pronóstico e intervención son diferentes a los que se realizan para la discapacidad mental y la discapacidad psicosocial.
+XXII. Discapacidad Visual: Es la deficiencia del sistema de la visión, las estructuras y funciones asociadas con él. Es una alteración de la agudeza visual, campo visual, motilidad ocular, visión de los colores o profundidad, que determinan una deficiencia de la agudeza visual, y se clasifica de acuerdo a su grado;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XX. Discapacidad física o motora: A las dificultades o impedimentos de la actividad motora de las personas;
+XXIII. Hipoacusia: Disminución de la agudeza auditiva;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XXI. Discapacidad Visual: Es la deficiencia del sistema de la visión, las estructuras y funciones asociadas con él. Es una alteración de la agudeza visual, campo visual, motilidad ocular, visión de los colores o profundidad, que determinan una deficiencia de la agudeza visual, y se clasifica de acuerdo a su grado;
+XXIV. INCODIS: Al Instituto Colimense para la Discapacidad creado mediante Decreto del Ejecutivo de fecha 23 de enero de 1999;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XXII. Hipoacusia: Disminución de la agudeza auditiva;
+XXV. Igualdad de oportunidades: Al proceso de adecuaciones, ajustes, mejoras o adopción de acciones afirmativas necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad su inclusión, integración, convivencia y participación, en igualdad de oportunidades con el resto de la población;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XXIII. INCODIS: Al Instituto Colimense para la Discapacidad creado mediante Decreto del Ejecutivo de fecha 23 de enero de 1999;
+XXVI. Lenguaje: Al lenguaje oral como la lengua de señas y otras formas de comunicación no verbal;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XXIV. Igualdad de oportunidades: Al proceso de adecuaciones, ajustes, mejoras o adopción de acciones afirmativas necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad su inclusión, integración, convivencia y participación, en igualdad de oportunidades con el resto de la población;
+XXVII. Lengua de señas mexicanas: A la lengua de una comunidad de sordos, que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier lengua oral;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XXV. Lenguaje: Al lenguaje oral como la lengua de señas y otras formas de comunicación no verbal;
+XXVIII. Ley: Al presente ordenamiento;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XXVI. Lengua de señas mexicanas: A la lengua de una comunidad de sordos, que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier lengua oral;
+XXIX. Ley General: Ley General para la Inclusión de las Personas con Discapacidad;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XXVII. Ley: Al presente ordenamiento;
+XXX. Persona con Discapacidad: Todo ser humano que tenga temporal o permanentemente una alteración funcional física, mental o sensorial; o un trastorno de talla y peso congénito o adquirido, que le impida realizar una actividad propia de su edad y medio social, que implique desventajas para su integración familiar, social, educacional o laboral;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XXVIII. Ley General: Ley General para la Inclusión de las Personas con Discapacidad;
+XXXI. Perro Guía: A aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XXIX. Persona con Discapacidad: Todo ser humano que tenga temporal o permanentemente una alteración funcional física, mental o sensorial; o un trastorno de talla y peso congénito o adquirido, que le impida realizar una actividad propia de su edad y medio social, que implique desventajas para su integración familiar, social, educacional o laboral;
+XXXII. Política pública: A los planes, programas o acciones que la autoridad desarrolle para asegurar los derechos establecidos en la presente Ley;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XXX. Perro Guía: A aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
+XXXIII. Prevención: A la adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, intelectuales, mentales y sensoriales;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XXXI. Política pública: A los planes, programas o acciones que la autoridad desarrolle para asegurar los derechos establecidos en la presente Ley;
+XXXIV. Rehabilitación: Al conjunto de técnicas y métodos que sirven para recuperar una función o actividad del cuerpo que ha disminuido o se ha perdido a causa de un accidente o de una enfermedad; Proceso de duración limitada y con un objetivo definido, de orden médico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental, sensorial óptimo, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2022)</small>
+
+XXXV. Sensibilización: Proceso que tiene como objetivo principal impactar sobre el comportamiento de una población o reforzar buenas prácticas sobre algún tema en particular;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XXXII. Prevención: A la adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, intelectuales, mentales y sensoriales;
+XXXVI. Sistema de Escritura Braille: Al sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil por las personas ciegas;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XXXIII. Rehabilitación: Al conjunto de técnicas y métodos que sirven para recuperar una función o actividad del cuerpo que ha disminuido o se ha perdido a causa de un accidente o de una enfermedad; Proceso de duración limitada y con un objetivo definido, de orden médico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental, sensorial óptimo, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social;
+XXXVII. Tiflotécnia: A la adaptación de los usos y avances técnicos a su utilización por personas con discapacidad visual;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2022)</small>
+
+XXXVIII. Trabajo protegido: Al trabajo que realizan las personas con discapacidad que tienen un grado tal de limitación en sus capacidades que les impiden cubrir los requerimientos mínimos de inserción laboral por lo que requiere la tutela de la familia, el sector público y privado para su desempeño en instalaciones apropiadas;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XXXIV. Sistema de Escritura Braille: Al sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil por las personas ciegas;
+XXXIX. Transversalidad: Al proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo; y
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XXXV. Tiflotécnia: A la adaptación de los usos y avances técnicos a su utilización por personas con discapacidad visual;
-
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
-
-XXXVI. Trabajo protegido: Al trabajo que realizan las personas con discapacidad que tienen un grado tal de limitación en sus capacidades que les impiden cubrir los requerimientos mínimos de inserción laboral por lo que requiere la tutela de la familia, el sector público y privado para su desempeño en instalaciones apropiadas.
-
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
-
-XXXVII. Transversalidad: Al proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo; y
-
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
-
-XXXVIII. Video llamadas: Al nuevo servicio que ofrecen las terminales de la red móvil UMTS (3G). Este servicio no es de datos, simplemente optimiza el uso del canal asignado para la voz y es capaz de transmitir videos; Es la comunicación simultánea bidireccional de audio y vídeo, que permite mantener reuniones con grupos de personas situadas en lugares alejados entre sí. Adicionalmente, pueden ofrecerse facilidades telemáticas o de otro tipo como el intercambio de gráficos, imágenes fijas, transmisión de ficheros desde el ordenador.
+XL. Video llamadas: Al nuevo servicio que ofrecen las terminales de la red móvil UMTS (3G). Este servicio no es de datos, simplemente optimiza el uso del canal asignado para la voz y es capaz de transmitir videos; Es la comunicación simultánea bidireccional de audio y vídeo, que permite mantener reuniones con grupos de personas situadas en lugares alejados entre sí. Adicionalmente, pueden ofrecerse facilidades telemáticas o de otro tipo como el intercambio de gráficos, imágenes fijas, transmisión de ficheros desde el ordenador.
 
 ###### Artículo 3°.
 
@@ -323,9 +335,21 @@ IX. La accesibilidad universal;
 
 X. La igualdad entre mujeres y hombres con discapacidad;
 
-XI. La no discriminación; y
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2022)</small>
 
-XII. La transversalidad.
+XI. La no discriminación;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2022)</small>
+
+XII. La transversalidad;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2022)</small>
+
+XIII. La sensibilización hacia las personas con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2022)</small>
+
+XIV. La eliminación de las barreras actitudinales.
 
 ### Capítulo II. De los Derechos de las personas con Discapacidad
 
@@ -409,6 +433,12 @@ XX. Los demás que señalen las leyes.
 
 Será obligación de las instituciones de procuración de justicia, seguridad pública, custodia y tratamiento, garantizar el trato humanitario y especializado, según las necesidades particulares de las personas con discapacidad que se encuentren en los supuestos de detención, arresto o prisión; así como facilitar a dichas personas los intérpretes o consultores que requieran, mediante la utilización de estenografía proyectada, video llamadas, medios alternativos, en su caso, que en todo momento sea de fácil comprensión.
 
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2022)</small>
+
+###### Artículo 10° Bis.
+
+El Poder Legislativo garantizará la inclusión en su plantilla laboral, de personas con discapacidad como trabajadores de confianza.
+
 ### Capítulo III. Del Instituto Colimense para la Discapacidad
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
@@ -447,7 +477,9 @@ Son atribuciones del INCODIS en materia de inclusión social de las personas con
 
 I. Promover la difusión y defensa de los derechos de las personas con discapacidad, así como las disposiciones legales que los contemplan, a fin de garantizar su aplicación;
 
-II. Elaborar y mantener actualizado el registro de las personas con discapacidad que habiten en el Estado;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2022)</small>
+
+II. Elaborar y mantener actualizado el registro de las personas con discapacidad que habiten en el Estado y promover que estos sectores sean atendidos y protegidos con la debida sensibilización por parte de cualquier organismo público y privado o por la sociedad en general, evitando siempre las barreras actitudinales que generen rechazo o violencia hacia las personas con discapacidad;
 
 III. Proponer a las autoridades competentes las políticas, planes y programas a desarrollar, de acuerdo con las disposiciones de la presente Ley, así como las normas técnicas en materia de organización y prestación de servicios;
 
@@ -495,13 +527,15 @@ XVIII. Promover la participación de las personas con discapacidad en condicione
 
 XIX. Las demás atribuciones contenidas en el Decreto que crea el INCODIS, su Reglamento Interior, así como las que sean necesarias para el cumplimiento de sus funciones en términos de esta ley.
 
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2022)</small>
 
 ###### Artículo 14 Bis.
 
-EI INCODIS contará con un Consejo Consultivo que estará conformado por miembros de organizaciones de y para personas con discapacidad, especialistas, académicos, empresarios, personas de notable trayectoria en la defensa de los derechos de las personas con discapacidad y el Presidente de la Comisión de Niñez, Juventud, Adultos Mayores y Discapacidad del Congreso del Estado, quienes deberán integrarse por convocatoria pública abierta, excepto este último.
+El INCODIS contará con un Consejo Consultivo Estará conformado por miembros de organizaciones de y para personas con discapacidad, especialistas, académicos, empresarios, personas de notable trayectoria en la defensa de los derechos de las personas con discapacidad, la persona titular del Instituto, quien fungirá como Presidente de este Consejo y el o la Presidente de la Comisión de Bienestar e Inclusión Social del Congreso del Estado. Las maneras en cómo se integrarán al Consejo estarán previstas en el Reglamento de esta Ley.
 
-El Consejo será un órgano de consulta y asesoría para diseñar políticas públicas y establecer acciones específicas que el Instituto pueda concertar con las autoridades competentes.
+El Consejo será un órgano de consulta, asesoría y vigilancia para diseñar políticas públicas y establecer acciones específicas que el Instituto pueda concertar con las autoridades competentes, además de coadyuvar en acciones específicas de concertación, coordinación, planeación, promoción, seguimiento y cuidado de las acciones que permitan garantizar condiciones favorables a las personas que enfrentan algún tipo de discapacidad, fungiendo como observador del cumplimiento de esta Ley, exigiendo siempre la sensibilización hacia las personas con discapacidad. Denunciará ante las autoridades correspondientes cualquier incumplimiento o inobservancia de la Ley.
+
+Los integrantes del Consejo no percibirán remuneración alguna por el ejercicio de su cargo.
 
 Las normas relativas a la integración, organización y funcionamiento del Consejo Consultivo, estarán previstas en el Reglamento de la presente Ley.
 
@@ -521,7 +555,9 @@ II. La educación;
 
 III. Capacitación y adiestramiento laboral;
 
-IV. Fomento al empleo;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2022)</small>
+
+IV. Fomento a la inserción laboral;
 
 V. Creación de bolsas de trabajo;
 
@@ -697,17 +733,17 @@ La Secretaría de Educación deberá implementar la formación y capacitación p
 
 ### Capítulo IV. Capacitación y Promoción de Empleo
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2022)</small>
 
 ###### Artículo 34.
 
-La finalidad primordial de implementar programas de capacitación, adiestramiento y promoción de empleo para personas con discapacidad, será la de su inclusión en el sistema ordinario de trabajo o en su caso, su incorporación al sistema productivo estatal mediante una forma de trabajo adecuado y remunerado, y para tal efecto se formularan políticas públicas, mecanismos y programas para la incorporación de trabajo protegido para personas con discapacidad.
+La finalidad primordial de implementar programas de capacitación, adiestramiento y promoción a la inserción laboral para personas con discapacidad, será la de su inclusión en el sistema ordinario de trabajo o en su caso, su incorporación al sistema productivo estatal mediante una forma de trabajo adecuado y remunerado, y para tal efecto se formularán políticas públicas, mecanismos y programas para la incorporación de trabajo protegido para personas con discapacidad.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2022)</small>
 
 ###### Artículo 35.
 
-El INCODIS en coordinación con la Secretaría del Trabajo y el Centro de Rehabilitación, proporcionará a quien así lo solicite, una evaluación de aptitudes y actitudes en el trabajo, con el objeto de encontrar el campo de empleo más propicio para cada persona según sus capacidades.
+El INCODIS en coordinación con la Subsecretaría del Trabajo y el Centro de Rehabilitación, proporcionará a quien así lo solicite, una evaluación de aptitudes y actitudes en el trabajo, con el objeto de encontrar el campo de empleo más propicio para cada persona.
 
 ###### Artículo 36.
 
@@ -1410,3 +1446,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto el INCODIS en coordinación con los ayuntamientos, el sector salud, las instituciones públicas y privadas de asistencia social y demás autoridades competentes, deberá elaborar un censo para obtener un padrón que permita conocer y ubicar en el Estado, a las personas que tienen alguna discapacidad permanente, que por su condición económica se encuentren en situación de vulnerabilidad y que requieran de aparatos para movilidad asistida que consisten en muletas, bastones, andaderas y sillas de ruedas.
 
 TERCERO.- Una vez que se cuente con el padrón señalado en el artículo anterior, éste deberá ser entregado a los Ayuntamientos y al titular del Poder Ejecutivo, para su constante actualización y para que a partir de sus Presupuestos de Egresos para el Ejercicio Fiscal 2020, contemplen, en la medida de sus posibilidades financieras, una partida para la emisión de un programa o demás acciones que consideren pertinentes, relativas a garantizar el acceso de toda persona con discapacidad permanente, que por su condición económica se encuentre en situación de vulnerabilidad y que así lo requiera, a los aparatos para movilidad asistida que consisten en muletas, bastones, andaderas y sillas de ruedas.
+
+P.O. 25 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 110.- POR EL QUE SE APRUEBA REFORMAR LA NOMENCLATURA DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA PARA DENOMINARSE LEY PARA LA INCLUSIÓN E INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA, ASÍ COMO, LOS ARTÍCULOS 8 BIS FRACCIONES XI Y XII, 14 FRACCIÓN II, 14 BIS, 15 FRACCIÓN IV, 34 Y 35; Y ADICIONAR EL PÁRRAFO SEGUNDO AL ARTÍCULO 1, LAS FRACCIONES V Y XXXIV AL ARTÍCULO 2 HACIÉNDOSE EL CORRIMIENTO RESPECTIVO DE LAS SUBSECUENTES FRACCIONES DEL MISMO ARTÍCULO 2, LAS FRACCIONES XIII Y XIV AL ARTÍCULO 8 BIS Y EL ARTÍCULO 10 BIS, DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. El Poder Ejecutivo del Estado, dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto, realizará las adecuaciones reglamentarias correspondientes.
