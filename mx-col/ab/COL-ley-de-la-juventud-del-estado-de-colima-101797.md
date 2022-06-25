@@ -4,7 +4,7 @@ identifier: "COL-ley-de-la-juventud-del-estado-de-colima-101797"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-12"
-last_updated: "2018-10-20"
+last_updated: "2022-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LA JUVENTUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2022.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de julio de 2014.
 
@@ -1017,6 +1017,50 @@ VI. Las demás que dispongan las leyes.
 
 En caso de incumplimiento a las disposiciones contenidas en la presente Ley, será motivo de responsabilidad y se sancionará en términos de lo previsto en la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE JUNIO DE 2022)</small>
+
+## TÍTULO SEXTO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE JUNIO DE 2022)</small>
+
+### CAPÍTULO PRIMERO. DEL PREMIO ESTATAL DE LA JUVENTUD
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2022)</small>
+
+###### Artículo 91.
+
+El Premio Estatal de la Juventud será entregado a jóvenes colimenses, cuya edad quede comprendida entre los 12 y 29 años y su conducta o dedicación al trabajo o al estudio cause entusiasmo y admiración entre sus contemporáneos y pueda considerarse ejemplo estimulante para crear y desarrollar motivos de superación personal o de progreso en su comunidad. El Premio se concederá en las siguientes distinciones:
+
+I. Actividades Académicas y Desarrollo;
+
+II. Emprendimiento y Desarrollo Tecnológico;
+
+III. Actividades Artísticas;
+
+IV. Sustentabilidad Ambiental;
+
+V. Acciones para la atención preventiva de la salud en jóvenes;
+
+VI. Voluntarios en atención a grupos en situación de vulnerabilidad;
+
+VII. Promoción a los derechos humanos, a la cultura política y a la democracia en la juventud;
+
+VIII. Actividades Deportivas; y
+
+IX. Igualdad de género y Diversidad Sexual.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2022)</small>
+
+###### Artículo 92.
+
+Este premio se tramitará ante la Subsecretaría de las Juventudes del Estado de Colima, por conducto del Consejo de Premiación, el cual estará integrado por la persona Titular de la Subsecretaría de las Juventudes, como Presidente, y por las personas consejeras, que serán las personas Titulares de las dependencias y entidades del orden estatal directivamente vinculadas con la materia del campo sujeto a premiación.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2022)</small>
+
+###### Artículo 93.
+
+El premio consistirá en una medalla y un diploma, pudiendo incluir adicionalmente, una entrega en numerario por el monto determinado en el presupuesto de la Subsecretaría de las Juventudes del Estado de Colima.
+
 T R A N S I T O R I O S
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
@@ -1074,3 +1118,11 @@ P.O. 20 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 558 POR EL QUE SE ADICIONA EL ARTÍCULO 47 BIS A LA LEY DE LA JUVENTUD DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 25 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 106.- POR EL QUE SE ADICIONA EL TÍTULO SEXTO, CAPÍTULO PRIMERO “DEL PREMIO ESTATAL DE LA JUVENTUD”, ASÍ COMO, LOS ARTÍCULOS 91, 92 Y 93 A LA LEY DE LA JUVENTUD DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- La Subsecretaría de las Juventudes, contemplarán en su anteproyecto de su Presupuesto de Egresos a partir del Ejercicio Fiscal 2023 la partida que afecto determine para la entrega del estímulo económico establecido en el artículo 93 de esta Ley.
