@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "2022-06-04"
+last_updated: "2022-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -517,7 +517,15 @@ Para que los permisos o licencia se concedan, es requisito previo la solicitud p
 
 Durante su embarazo, las mujeres no realizarán trabajos que exijan un esfuerzo considerable o signifiquen un peligro para su salud, en relación con la gestación. Gozarán de cuarenta y cinco días de descanso antes de la fecha que aproximadamente se fije para el parto, y cuarenta y cinco días más después del mismo. Durante estos períodos percibirán el sueldo íntegro que les corresponde.
 
-Durante la lactancia, las madres trabajadoras tendrán derecho a dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2022)</small>
+
+Durante la lactancia, las madres trabajadoras tendrán derecho a dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos o hijas, en lugar adecuado e higiénico que designe la empresa, o bien, cuando esto no sea posible, previo acuerdo con el patrón se reducirá en una hora su jornada de trabajo durante el período señalado.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2022)</small>
+
+Esta prerrogativa será vigente hasta que la o el recién nacido cumpla los seis meses de edad, y podrán optar por solicitar la continuidad del permiso de lactancia como alimentación complementaria en caso de que así lo requieran hasta los dos años de edad de sus hijas o hijos.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO 95 PUBLICADO EN EL P.O. 4 DE JUNIO DE 2022, Y DEL ANÁLISIS A LA INICIATIVA DE ESE DECRETO, SE ADVIERTE QUE EL CONTENIDO DE ESTE PÁRRAFO FUE ADICIONADO; VÉASE PÁGINAS DE LA 9 A LA 17. ASIMISMO SE SUGIERE CONSULTAR LA PÁGINA DEL CONGRESO DEL ESTADO DE COLIMA https://www.congresocol.gob.mx/web/www/leyes/index.php]</small>
 
 > <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2022)</small>
 
@@ -677,9 +685,23 @@ XIII.- Propiciar los medios que permitan a los trabajadores que no tengan en pro
 
 XIV.- Proporcionar capacitación y adiestramiento a los trabajadores;
 
-XV.- Contribuir al fomento de las actividades cívicas, culturales y deportivas de los trabajadores; y
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2022)</small>
 
-XVI.- No distraer a trabajadores de la Entidad para realizar actividades propias de Partidos Políticos dentro del horario de trabajo.
+XV. Contribuir al fomento de las actividades cívicas, culturales y deportivas de los trabajadores;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2022)</small>
+
+XVI. Proporcionar a las y los trabajadores un espacio adecuado y con lo mínimo indispensable en sus centros de trabajo, denominado ludoteca infantil, para las y los hijos de los trabajadores que por su jornada de trabajo o la naturaleza del mismo, requieran de este servicio recreativo y de aprendizaje para sus hijos mientras prestan su servicio en la Entidad o dependencia pública;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2022)</small>
+
+XVII. Proporcionar a las madres trabajadoras un espacio adecuado, higiénico y con el mínimo indispensable en sus centros de trabajo, denominado lactarios, para garantizar el derecho instaurado en el artículo 54 de esta Ley; y
+
+XVII.- No distraer a trabajadores de la Entidad para realizar actividades propias de Partidos Políticos dentro del horario de trabajo.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2022)</small>
+
+Para las obligaciones previstas en las fracciones XVI y XVII de este artículo, su aplicabilidad será gradual y sujeta a la disponibilidad presupuestaria de la Entidad o dependencia pública.
 
 > <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2006)</small>
 
@@ -1211,7 +1233,7 @@ V. Haber residido en el país durante los dos años anteriores al día de la des
 
 Adicionalmente, el nombramiento deberá recaer en persona que acredite, en atención de sus antecedentes profesionales y curriculares, contar con experiencia en materia laboral.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2022)</small>
+> <small>(REFORMADO], P.O. 26 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 136.
 
@@ -2034,3 +2056,15 @@ P.O. 4 DE JUNIO DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto, se sujetarán a la disponibilidad presupuestaria que a afecto se determine en el Ejercicio Fiscal 2023.
+
+P.O. 25 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 107.- POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO Y SE ADICIONA UN TERCERO AL ARTÍCULO 54, ADEMÁS, SE REFORMA LA FRACCIÓN XV Y SE ADICIONAN DOS FRACCIONES AL ARÁBIGO 69, PASANDO A SER ESTAS LAS FRACCIONES XVI Y XVII, HACIENDO EL CORRIMIENTO DE LA SUBSECUENTE FRACCIÓN, ASÍ COMO, UN ÚLTIMO PÁRRAFO AL ARÁBIGO CITADO, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTO Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Las obligaciones que se generan en las fracciones XVI y XVII del artículo 69 con motivo de la entrada en vigor del presente Decreto, se sujetarán a la disponibilidad presupuestaria de cada Entidad o dependencia pública.
+
+TERCERO.- Las Entidades o dependencia pública, contemplaran en la creación de sus anteproyectos de sus presupuestos de egresos a partir del ejercicio fiscal 2023, el cumplimiento de manera gradual de las obligaciones contenidas en el presente Decreto.
+
+CUARTO.- Las Entidades o dependencia pública, preverán los espacios en los centros de trabajo para la creación de ludotecas y lactarios de manera gradual conforme a las obligaciones contenidas en el presente Decreto.
