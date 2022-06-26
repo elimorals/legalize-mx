@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-notariado-para-el-estado-de-durango-129261"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-12"
-last_updated: "2021-10-28"
+last_updated: "2022-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 12 de abril de 2018.
 
@@ -215,7 +215,7 @@ II. Haber cumplido veintiocho años;
 
 III. Tener título de Licenciado en Derecho registrado en la Dirección General de Profesiones del Estado y con cinco años, mínimo, de ejercicio profesional; y cédula profesional expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 26 DE JUNIO DE 2022)</small>
 
 IV. Haber realizado una práctica efectiva en una Notaría de la entidad y obtener la constancia emitida por el notario ante el que se realizó la práctica, en la que se haga constar que el postulante a aspirante a notario cuenta con la formación y experiencia necesaria en materia de derecho y función notarial; en este caso, el practicante deberá acreditar cuando menos dos años de práctica efectiva. Con esta constancia el notario titular llevará a cabo el aviso de terminación de la práctica del aspirante.
 
@@ -493,9 +493,9 @@ Para el ejercicio teórico, los miembros del Jurado interrogarán a cada sustent
 
 Concluidos los exámenes a que se alude anteriormente, el Jurado, a puerta cerrada y de manera inmediata e ininterrumpida, evaluará los exámenes y los integrantes del Jurado emitirán, en el mismo acto, por escrito la calificación que cada uno de ellos otorgue para que acto seguido se comunique de manera pública y personal al sustentante.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2022)</small>
 
-Hecho lo anterior, el Presidente del Jurado, luego de concluir el procedimiento establecido en el párrafo anterior, comunicará al sustentante y a los presentes el resultado del examen.
+El Presidente del Jurado, de manera inmediata, luego de concluir el procedimiento establecido en el párrafo anterior, comunicará al sustentante y a los presentes el resultado del examen.
 
 Si como resultado del examen de oposición el Jurado considera que ninguno de los sustentantes alcanzó la calificación mínima aprobatoria se declarará desierto el concurso y se expedirá nueva convocatoria en los términos de esta Ley y su Reglamento; si hubiere empate se realizará otra ronda de preguntas para cada uno en los términos del artículo 24 de esta misma Ley.
 
@@ -2200,3 +2200,15 @@ TERCERO. El Titular del Poder Ejecutivo, en un término de 90 días a partir de 
 CUARTO. La publicación del presente decreto no anula ningún procedimiento que para el cumplimiento de la práctica notarial se haya iniciado después del 12 de abril de 2018, y deja a salvo los derechos que los practicantes de los que se dio aviso de inicio a las autoridades notariales y al Colegio, posterior a la entrada en vigor de la Ley del Notariado para el Estado de Durango para que se les conceda la constancia conforme a la fracción IV, del artículo 10, así como el aviso de término de la práctica de acuerdo a lo que establece este decreto.
 
 Asimismo, en el caso de los profesionistas que cuenten con patente de aspirante a notario, previo a la entrada en vigor de esta reforma, mantendrán sus derechos a salvo para postularse a los exámenes para obtener la patente de notario, en igualdad de condiciones que aquellos profesionistas que obtengan la patente de aspirante a notario de manera posterior a la publicación del presente decreto.
+
+P.O. 26 DE JUNIO DE 2022
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 144.·QUE CONTIENE REFORMA Y ADICIÓN A LOS ARTÍCULOS 10 Y 33 DE LA LEY DEL NOTARIADO DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
