@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2022-05-23"
+last_updated: "2022-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -1563,6 +1563,10 @@ V (SIC).- Las demás que directa o indirectamente contribuyan al fomento de la s
 
 Artículo 142 Sexties.- La atención y tratamiento de los trastornos mentales deberá brindarse con un enfoque de reinserción psicosocial y con estricto respeto a los derechos humanos de los usuarios de estos servicios, respetando los principios de igualdad, la prohibición de discriminación, el derecho a la privacidad ya (sic) la autonomía Personal y la prohibición de tratos inhumanos y degradantes.
 
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2022)</small>
+
+Está prohibido promover, impartir, aplicar, obligar o financiar cualquier tipo de tratamiento, terapia, servicio o práctica, con el objetivo de obstaculizar, restringir, impedir, menoscabar, anular o modificar la orientación sexual, identidad o expresión de género de una persona.
+
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2018)</small>
 
 ## TITULO TERCERO QUATER. ATENCIÓN MATERNO INFANTIL
@@ -2418,3 +2422,9 @@ P.O. 23 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 188 QUE SE REFORMA LA LEY DE SALUD PARA EL ESTADO DE HIDALGO Y LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 216 QUE ADICIONA EL ARTÍCULO 202 TER AL CAPÍTULO ÚNICO DEL TÍTULO SEXTO BIS, DEL LIBRO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 142 SEXTIES DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
