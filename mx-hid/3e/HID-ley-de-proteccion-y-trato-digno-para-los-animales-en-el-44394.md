@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-y-trato-digno-para-los-animales-en-el-44394"
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-28"
-last_updated: "2021-09-13"
+last_updated: "2022-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 28 de febrero de 2005.
 
@@ -135,7 +135,9 @@ XVI.- Animales para la zooterapia: Son los animales que conviven con una o con u
 
 XVII.- Asociaciones protectoras de animales: Las instituciones y asociaciones civiles legalmente constituidas que dediquen sus actividades a la protección de los animales;
 
-XVIII.- Bienestar animal: Conjunto de recursos de los que son provistos los animales por los seres humanos para su comodidad;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
+
+XVIII.- Bienestar animal: Es el buen estado físico y mental de un animal en relación con las condiciones en las que vive y muere. Un animal está en buen estado si cuenta con alimento suficiente en cantidad y calidad para su especie; si el espacio en el que se encuentra le permite la interacción con otros animales, está adaptado para su comodidad y le permite el desarrollo de conductas naturales y además se le da un trato que le garantiza comodidad, tranquilidad, protección y seguridad, evitando el dolor, miedo o desasosiego.
 
 XIX.- Campañas: Acciones públicas realizadas de manera periódica por la Autoridad o por quien la misma asigne, para el control, prevención o erradicación de alguna epizootia, zoonosis o epidemia; para controlar la población de animales o para difundir el trato digno y respetuoso a los animales;
 
@@ -473,7 +475,13 @@ VII.- Abandonar a los animales en espacios públicos o privados.
 
 VIII.- Dejar por tiempo prolongado en el interior de vehículos animales sin ventilación, ni agua y alimento suficiente; y
 
-IX.- Las demás que establezca la presente Ley y los ordenamientos jurídicos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2022)</small>
+
+IX.- Prolongar el sufrimiento animal a través del cualquier medio o instrumento; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2022)</small>
+
+X.- Las demás que establezca la presente Ley y los ordenamientos jurídicos aplicables.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -560,6 +568,26 @@ XVIII.- La venta o adiestramiento de animales en áreas comunes o en áreas en l
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 XIX.- El uso y tránsito de vehículos de tracción animal en vialidades asfaltadas y para fines distintos al uso agropecuario.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2022)</small>
+
+XX.- Izar y/o suspender por las patas, fracturar, cortar tendones, arrojar al agua hirviendo u otro acto de maltrato o crueldad que se ejecute como procedimiento previo a la matanza de animales destinados para abasto, sin previo aturdimiento,
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2022)</small>
+
+XXI.- La presencia de menores de edad en cualquier acto o hecho que se desarrolle en los rastros, casas de matanza o espacios cuya finalidad sea la matanza de animales para abasto;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2022)</small>
+
+XXII.- Que los animales presencien la matanza de otros animales;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2022)</small>
+
+XXIII.- La matanza de hembras en el último tercio de gestación, salvo en los casos que esté en peligro el bienestar del animal; y
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2022)</small>
+
+XXIV.- La matanza de animales en cualquier espacio, ya sea público o privado, sin que se cuente con el permiso de la autoridad correspondiente.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
@@ -829,19 +857,111 @@ Los animales no inmunizados contra la rabia u otras epizootias o zoonosis que re
 
 Los propietarios de animales que demuestren que sus mascotas han sido inmunizadas contra el virus y que hayan sido agredidos por animales sospechosos de padecer rabia u otras epizootias o zoonosis, deberán permanecer bajo la estricta vigilancia de su dueño por espacio de un año además de cumplir con una observación clínica dentro de su domicilio por un período de seis meses, la cual será realizada por un Médico Veterinario Zootecnista del Centro de Control Animal y Zoonosis.
 
-### CAPITULO DECIMO TERCERO. DE LOS RASTROS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JUNIO DE 2022)</small>
+
+### CAPITULO DECIMO TERCERO. DE LOS RASTROS Y CASAS DE MATANZA
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2022)</small>
 
 ###### Artículo 62.
 
-El sacrificio de animales destinados para el consumo humano se hará solo con autorización emitida por las Autoridades competentes, con base en lo dispuesto en las Leyes Federales, Estatales y Reglamentos Municipales, así como las normas que resulten aplicables.
+El aturdimiento y la matanza de animales destinados para el consumo humano solo podrá realizarse en los rastros y casas de matanza que cuenten con las autorizaciones, licencias y/o permisos expedidos por las autoridades competentes, con base en lo dispuesto en las leyes federales, estatales, reglamentos municipales y/o las normas oficiales mexicanas que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2022)</small>
+
+###### Artículo 62 Bis.
+
+Para su funcionamiento, los rastros y casas de matanza, además, de cumplir con lo dispuesto en las leyes federales, normas oficiales mexicanas u otras leyes estatales o reglamentos municipales, deben contar con:
+
+A) Rastros.
+
+I. Área de descarga de animales en corrales de reposo;
+
+II. Área de baño e inspección medico veterinaria previa a la matanza;
+
+III. Área de aturdimiento;
+
+IV. Área de matanza;
+
+V. Área de inspección médico veterinaria y sanitaria posterior a la matanza;
+
+VI. Área de limpieza de canales;
+
+VII. Área de almacenado de canales;
+
+VIII. Área de recolección de residuos de manejo especial y peligroso; y
+
+IX. Sistema de video vigilancia en las áreas de manejo, aturdimiento y matanza animal.
+
+B) Las casas de matanza.
+
+I. Autorización, permiso o licencia expedido por las autoridades sanitarias estatales;
+
+II. Contar con el espacio necesario para resguardar los animales;
+
+III. Área con techos impermeables, de fácil limpieza, con suficiente ventilación natural o mecánica;
+
+IV. Piso antiderrapante, pavimentado o de concreto;
+
+V. Área de reposo e inspección veterinaria previa al aturdimiento y matanza;
+
+VI. Área de aturdimiento y matanza sin visibilidad para otros animales;
+
+VII. Área de escaldado y extracción de vísceras;
+
+VIII. Área de canal;
+
+IX. Área de recolección de residuos de manejo especial y peligroso;
+
+X. Sistema de video vigilancia en las áreas de manejo, aturdimiento y matanza animal.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2022)</small>
+
+###### Artículo 62 Ter.
+
+La información, documentación y grabaciones de video vigilancia de los rastros, son información pública, por lo tanto, están sujetas a las leyes aplicables en esta materia.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JUNIO DE 2022)</small>
+
+### CAPITULO DECIMO TERCERO BIS. DE LOS ANIMALES PARA ABASTO
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2022)</small>
+
+###### Artículo 62 Quáter.
+
+En las unidades de producción pecuaria de cualquier especie de animal doméstico destinado al abasto, además, de cumplir con lo dispuesto en las leyes federales, normas oficiales mexicanas u otras leyes estatales o reglamentos municipales, deben contar con:
+
+I. Los animales deben tener fácil acceso a suficiente alimento y agua, acorde a su edad y características biológicas;
+
+II. El ambiente donde se introduzca al animal debe adaptarse a las especies para minimizar los riesgos y facilitar su comportamiento natural;
+
+III. Tener periodos suficientes e ininterrumpidos de oscuridad y luz, no inferiores a los necesarios para cada especie;
+
+IV. Contar con instalaciones que disminuyan el riesgo de lesión, enfermedad o estrés para los animales y se encuentren drenados, secos, cómodos e higiénicos;
+
+V. Garantizar que en los mecanismos de selección para el mejoramiento genético se considere la sanidad y el bienestar de los animales; y
+
+VI. Contar con protocolos de gestión de siniestros que incluyan procedimientos de evacuación de los animales y conservación de reservas de alimentos.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2022)</small>
+
+###### Artículo 62 Quinquies.
+
+Durante la producción primaria, las intervenciones dolorosas deberán realizarse exclusivamente por operarios registrados, bajo supervisión médica y solo cuando sean necesarias.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2022)</small>
+
+Artículo 62 Sexties.- En los sistemas de producción de pollo para engorde, la densidad de carga deberá permitir el acceso al alimento, al agua y a la luz natural, así como el espacio suficiente para desplazarse y cambiar de postura con normalidad.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2022)</small>
+
+###### Artículo 62 Septies.
+
+En los sistemas de producción de gallina ponedora de huevo destinado al consumo humano, para inducir la muda de plumas se debe implementar una dieta adecuada, sin ayuno.
 
 ### CAPITULO DECIMO CUARTO. DE LOS ANIMALES DESTINADOS A ESPECTACULOS
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2015)</small>
-
-### CAPITULO DECIMO QUINTO. DE LA FAUNA EXOTICA Y SILVESTRE
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 63.
 
@@ -855,7 +975,7 @@ Todos los propietarios o responsables de los animales destinados a espectáculos
 
 Queda expresamente prohibido realizar peleas de animales ya sea como espectáculo público o privado, con excepción de las corridas de toros, novillos, charreadas, peleas de gallos y similares, siempre y cuando cuenten con los permisos correspondientes para su realización, estando sujetos a los Reglamentos específicos para cada una de estas actividades. Además de que estas últimas no deberán ser presenciadas por menores de edad sin la compañía de un adulto, asimismo se deberá mencionar mediante avisos, sobre el impacto psicológico y la influencia nociva que tiene el maltrato a los animales en los menores.
 
-### CAPITULO DECIMO SEXTO. DE LA CAZA Y PESCA
+### CAPITULO DECIMO QUINTO. DE LA FAUNA EXOTICA Y SILVESTRE
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
@@ -885,7 +1005,9 @@ Es obligación del Titular del Poder Ejecutivo, a través de las autoridades amb
 
 Toda persona que tenga conocimiento de la captura y venta ilegal de estas especies, tendrá la obligación de denunciar los hechos a las Autoridades competentes.
 
-### CAPITULO DECIMO SEPTIMO. DE LOS ANIMALES GUIA Y DE ZOOTERAPIA
+### CAPITULO DECIMO SEXTO. DE LA CAZA Y PESCA
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 71.
 
@@ -915,7 +1037,7 @@ Previo Convenio con la Federación, es obligación de las (sic) Procuraduría y/
 
 Las personas que practiquen la caza o aprovechamiento de subsistencia deberán de cumplir con lo previsto en la Ley General de Vida Silvestre y solamente podrán hacerlo para satisfacer las necesidades básicas de alimentación del cazador o de sus familiares en primer grado, siempre y cuando no se trate de fauna sujeta a alguna categoría de riesgo de conformidad con las normas que para tal efecto publique la autoridad competente.
 
-### CAPITULO DECIMO OCTAVO. DEL FONDO PARA LA PROTECCION DE LOS ANIMALES
+### CAPITULO DECIMO SEPTIMO. DE LOS ANIMALES GUIA Y DE ZOOTERAPIA
 
 ###### Artículo 76.
 
@@ -937,9 +1059,7 @@ La práctica de la zooterapia deberá ser asistida por personas capacitadas para
 
 Los animales abandonados que se presten por sus características para realizar funciones de apoyo para personas con discapacidad y zooterapia, serán entrenados por expertos calificados en la materia y serán donados a personas de escasos recursos que requieran el servicio de estos animales. Este servicio podrá prestarse a través de las Asociaciones Protectoras de Animales en coordinación con las autoridades correspondientes.
 
-### CAPITULO DECIMO NOVENO. DE LAS ASOCIACIONES PROTECTORAS DE ANIMALES
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+### CAPITULO DECIMO OCTAVO. DEL FONDO PARA LA PROTECCION DE LOS ANIMALES
 
 ###### Artículo 80.
 
@@ -969,9 +1089,9 @@ III.- Los recursos que se generen por la aplicación de la presente Ley; y
 
 IV.- Los eventos culturales, deportivos, y demás que se realicen para la recaudación de fondos.
 
-### CAPITULO DECIMO NOVENO BIS. DEL CONSEJO CONSULTIVO CIUDADANO PARA LA PROTECCION DE LOS ANIMALES
+### CAPITULO DECIMO NOVENO. DE LAS ASOCIACIONES PROTECTORAS DE ANIMALES
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 83.
 
@@ -1023,9 +1143,9 @@ Gestionar mediante convenios con el Estado, asilos o refugios para especies de f
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-### CAPITULO VIGESIMO. DE LA DENUNCIA Y VIGILANCIA
+### CAPITULO DECIMO NOVENO BIS. DEL CONSEJO CONSULTIVO CIUDADANO PARA LA PROTECCION DE LOS ANIMALES
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 89 Bis.
 
@@ -1077,7 +1197,9 @@ El Consejo deberá sesionar de manera ordinaria al menos una vez cada tres meses
 
 A las sesiones del Consejo podrán asistir con carácter de invitados, con derecho a voz, pero no a voto, las personas que el Consejo considere.
 
-### CAPITULO VIGESIMO PRIMERO. DE LA DISPOSICION DE CADAVERES
+### CAPITULO VIGESIMO. DE LA DENUNCIA Y VIGILANCIA
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 90.
 
@@ -1127,9 +1249,7 @@ La Procuraduría y el Área Técnica Municipal competente, con auxilio de la Fue
 
 Además, la Procuraduría y el Área Técnica Municipal deberán garantizar el aseguramiento precautorio de los animales.
 
-### CAPITULO VIGESIMO SEGUNDO. DE LAS INFRACCIONES Y SANCIONES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+### CAPITULO VIGESIMO PRIMERO. DE LA DISPOSICION DE CADAVERES
 
 ###### Artículo 96.
 
@@ -1148,6 +1268,10 @@ Los animales que perezcan atropellados en calles, caminos y carreteras deberán 
 El Área Técnica Municipal competente deberá garantizar el manejo adecuado de dichos ejemplares de conformidad con lo establecido con el presente ordenamiento.
 
 Si las lesiones sólo comprenden alguno de los miembros, deberá ser canalizado a la Asociación Protectora de Animales registrada más cercana al sitio donde se ubique dicho ejemplar, quien determinaran (sic) si es posible su curación y rehabilitación como animal de compañía.
+
+### CAPITULO VIGESIMO SEGUNDO. DE LAS INFRACCIONES Y SANCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 99.
 
@@ -1322,3 +1446,9 @@ SEGUNDO. - Las autoridades competentes tendrán un plazo no mayor a ciento ochen
 TERCERO. La Procuraduría Estatal de Protección al Ambiente en un plazo que no exceda los sesenta días naturales a la entrada en vigor del presente Decreto, deberá expedir los lineamientos para el funcionamiento del Consejo Consultivo Ciudadano para la Protección de los Animales.
 
 CUARTO. La Procuraduría Estatal de Protección al Ambiente en un plazo que no exceda los noventa días naturales a la entrada en vigor del presente Decreto, deberá publicar la Convocatoria para la elección de las y los Consejeros del Consejo Consultivo Ciudadano para la Protección de los Animales.
+
+P.O. 27 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 215 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES Y DEL CÓDIGO PENAL, AMBOS DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
