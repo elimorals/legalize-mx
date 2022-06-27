@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-asistencia-social-y-de-17254"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-10"
-last_updated: "2022-05-09"
+last_updated: "2022-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2000.
 
@@ -71,7 +71,9 @@ En los términos de esta Ley son beneficiarios de los servicios de asistencia so
 
 I.- La Familia, considerándola como la base fundamental de la sociedad;
 
-II.- Menores en estado de abandono, desamparo, desnutrición o personas maltratadas;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
+
+II.- Las niñas, niños y adolescentes en estado de abandono, desamparo, desnutrición, sujetos a maltrato o abuso, víctimas de cualquier tipo de explotación, tráfico de personas, pornografía y comercio sexual, que sean huérfanos o hijos de padres que padezcan enfermedades terminales o en condiciones de extrema pobreza;
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
@@ -397,13 +399,17 @@ XX.- Proponer a las autoridades correspondientes la adaptación y readaptación 
 
 XXI.- Los servicios de representación jurídica que para los efectos de esta Ley se requieran, serán prestados por la Procuraduría;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
 
-XXII.- Realizar los Cursos Intensivos para Padres de Familia; y
+XXII.- Realizar los Cursos Intensivos para Padres de Familia;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2022)</small>
 
-XXIII.- Las demás que establezcan las disposiciones aplicables en la materia.
+XXIII.- Proponer programas, enfocados a la prevención y atención de embarazos en las niñas y adolescentes del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2022)</small>
+
+XIV.- Las demás que establezcan las disposiciones aplicables en la materia.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
 
@@ -1786,3 +1792,11 @@ P.O. 9 DE MAYO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 147.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 4°; LA FRACCIÓN XXIII DEL ARTÍCULO 18 Y SE ADICIONA UNA FRACCIÓN XXIV AL ARTÍCULO 18 DE LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR DEL ESTADO DE AGUASCALIENTES.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
