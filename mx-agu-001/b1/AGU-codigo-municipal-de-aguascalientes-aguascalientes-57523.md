@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2022-04-18"
+last_updated: "2022-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1985,6 +1985,10 @@ Departamento de Información y Estadística.
 
 Departamento de Planeación.
 
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2022)</small>
+
+Departamento de Inteligencia Policial y Política Criminal
+
 Coordinación del Centro de Mando C-4.
 
 Departamento de Monitoreo de Alarmas y GPS.
@@ -1993,7 +1997,9 @@ Departamento de Monitoreo de Videocámaras.
 
 Departamento de Radio Comunicación.
 
-Departamento de Emergencia 080.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2022)</small>
+
+Departamento de Atención a Emergencias
 
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
@@ -2789,6 +2795,24 @@ III. Realizar e inspeccionar los trabajos de mantenimiento o conservación de la
 
 IV. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas del Municipio.
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 27 DE JUNIO DE 2022)</small>
+
+IV bis. Recibir las Obra Públicas a nombre del Municipio de Aguascalientes, por dependencias que ejecutan dichas obras con recursos Federales, Estatales y Municipales. Siguiendo el procedimiento y los lineamientos del manual interno "Entrega/Recepción de Obra Pública en el Municipio de Aguascalientes" el cual contendrá por lo menos:
+
+a) Copia certificada del expediente técnico inicial de la obra; que, además, deberá contener la fianza de cumplimiento y la fianza de vicios ocultos.
+
+b) Copia certificada de planos definitivos firmados y avalados por los ejecutores e involucrados en el desarrollo de la obra.
+
+c) Copia certificada de la bitácora de obra debidamente firmada por las personas involucradas en el desarrrollo de la obra (supervisor, residente de obra, perito responsable, etc.)
+
+d) Copia certificada del expediente técnico definitivo al término de la obra.
+
+e) Pruebas de laboratorio y estudios involucrados en el desarrollo de la obra; pudiendo ser entregadas de forma digital o impresa; debiendo incluir la memoria fotográfica de la obra.
+
+f) Convocar al ente receptor a recorridos de verificación al inicio, durante y termino de la obra.
+
+g) Y las demás consideraciones y requerimientos que sean solicitados por el Municipio de Aguascalientes.
+
 V. Asesorar técnicamente a los Comités de Concertación y Participación Social que lo requieran, en lo concerniente a la realización de obras públicas municipales.
 
 VI. Asesorar técnicamente a las instancias municipales que así lo requieran a través de la Dirección de Calidad y Fallas Geológicas o el Departamento correspondiente, en materia de discontinuidades en el subsuelo, así como recabar la información necesaria para la expedición de la cartografía, planos o sistemas electrónicos que contengan la información disponible a la fecha de emisión por parte de la Secretaría de Desarrollo Urbano.
@@ -2813,7 +2837,9 @@ XIV. Ejecutar las acciones necesarias para realizar programas y proyectos para, 
 
 XIV bis. Coordinarse con las distintas autoridades de los ámbitos municipales y estatales, a efecto de sugerir al Honorable Cabildo la firma de instrumentos jurídicos que permitan el buen uso y funcionamiento de los Tiraderos de escombro, pudiéndose optar por el esquema de tiraderos de escombros de zona metropolitana; sugerir o hacer planteamientos y propuestas, que tengan por objeto la consolidación de alianzas estratégicas con los sectores público, gobiernos del estado y municipales, así como con el sector el (sic) privado, cámaras empresariales, organismos o asociaciones de la industria de la construcción, interesadas en el uso, operación y administración de tiraderos de residuos derivados de la construcción de obra, siempre y cuando exista viabilidad de los proyectos.
 
-XIV (SIC). Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
+
+XV. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 APARTADO DÉCIMO PRIMERO
 
@@ -3223,7 +3249,7 @@ APARTADO DÉCIMO QUINTO
 
 De La Secretaría de Seguridad Pública
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 27 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 114.
 
@@ -3261,9 +3287,9 @@ VII. Poner a disposición de las autoridades competentes, en forma inmediata, a 
 
 VIII. Vigilar e inspeccionar, para fines de Seguridad Pública, la zona terrestre de las vías generales de comunicación y los medios de transporte que operen en el Municipio de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
 
-IX. Realizar investigaciones en el ámbito de su competencia para hacer efectiva la prevención, así como las derivadas de la comisión de delitos y faltas administrativas cometidos dentro del Municipio en el entendido de que esta información constituye la plataforma sustantiva para la conformación de las bases de datos susceptibles de aprovechamiento en la atención al fenómeno delictivo, la cual estará desagregada por sexo;
+IX. Realizar investigaciones en el ámbito de su competencia para hacer efectiva la prevención enfocándose en el origen de las conductas antisociales administrativas y del delito, buscando profundizar en dichos fenómenos y con ello realizar la política criminal planteando soluciones y estrategias por medio de la tecnología cibernética, así como de dispositivos electrónicos, mediante el ciberpatrullaje y atención ciudadana, detectar conductas antisociales y delitos cibernéticos, para su investigación, análisis y prevención, dentro del Municipio, en el entendido de que esta información constituye la plataforma sustantiva para la conformación de las bases de datos susceptibles de aprovechamiento en la atención al fenómeno delictivo, la cual estará desagregada por sexo;
 
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
@@ -3289,9 +3315,21 @@ XIV. Ordenar la práctica de visitas domiciliarias de tipo preventivo precisadas
 
 XV. Requerir y apercibir al infractor, propietario o poseedor del bien Inmueble, el cumplimiento a las disposiciones previstas en el Apartado Séptimo del Capítulo VIII, Título Tercero, Libro Segundo del presente Código;
 
-> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2022)</small>
 
-XVI. Las demás que otorgue el presente Código y las leyes de la materia o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+XVI. Investigar a través de equipos especializados en fuentes abiertas y cerradas para la obtención de información significativa, procesando su transformación mediante la investigación, atención y prevención; así como sistemas homologados de recolección, clasificación, registro, análisis, evaluación y explotación de información
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2022)</small>
+
+XVII. Aplicar sistemas de prevención a través de actividades encaminadas a evitar o disminuir la comisión de delitos e infracciones administrativas, conductas antisociales y delitos cibernéticos e informáticos; así como realizar las acciones de inspección, vigilancia y vialidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2022)</small>
+
+XVIII. Sistemas de reacción mediante acciones dirigidas a garantizar, mantener y restablecer el orden y la paz pública; así como las medidas de seguridad y especializadas para el fortalecimiento de la seguridad en el uso adecuado de las TICS
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
+
+XIX. Las demás que le otorgue el presente Código y las leyes de la materia o le encomiende el H. Ayuntamiento por conducto del presidente Municipal
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
@@ -24415,9 +24453,9 @@ SEGUNDO: Las referencias que se hagan y las atribuciones que se otorgan en el pr
 
 P.O. 22 DE NOVIEMBRE DE 2021.
 
-## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
 
-PRIMERO.– Se instruye al Secretario del H. Ayuntamiento y Director General de Gobierno para que de conformidad a las facultades que me confiere el código municipal del municipio de Aguascalientes, someta a consideración, análisis y discusión y en su caso aprobación del H. Ayuntamiento Constitucional Municipal de Aguascalientes, el presente dictamen.
+PRIMERO.- Se instruye al Secretario del H. Ayuntamiento y Director General de Gobierno para que de conformidad a las facultades que me confiere el código municipal del municipio de Aguascalientes, someta a consideración, análisis y discusión y en su caso aprobación del H. Ayuntamiento Constitucional Municipal de Aguascalientes, el presente dictamen.
 
 SEGUNDO.- Las modificaciones al presente Código entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -24431,13 +24469,13 @@ QUINTO.- El personal adscrito a la Dirección de Salud Pública que sea trasferi
 
 La Secretaría de Administración llevará a cabo todos los actos legales y administrativos que se susciten con motivo de las presentes reformas, salvaguardando los derechos laborales de todos los empleados.
 
-SEXTO.– La Coordinación General de Salud, a más tardar el día 12 de diciembre del año en curso deberá de realizar la propuesta de adecuaciones presupuestales y administrativas que en su caso resulten y sean necesarias para su adecuado funcionamiento y dar debido cumplimiento a lo establecido en la presente reforma.
+SEXTO.- La Coordinación General de Salud, a más tardar el día 12 de diciembre del año en curso deberá de realizar la propuesta de adecuaciones presupuestales y administrativas que en su caso resulten y sean necesarias para su adecuado funcionamiento y dar debido cumplimiento a lo establecido en la presente reforma.
 
-SÉPTIMO.– La Secretaría de Finanzas Públicas Municipales y la Secretaría de Administración deberán llevar a cabo todos los actos legales y administrativos a efecto de que la Coordinación General de Salud, cuente con respectivas claves programáticas, presupuestos correspondientes y demás trámites legales y administrativos que se susciten con motivo de las presentes reformas, así mismo para que todos los bienes que actualmente posea la Dirección de Salud Pública, pasen a la nueva Coordinación General, a efecto de que este cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos adquisición de bienes y servicios, arrendamientos, gato (sic) fijo y corriente, así como todas y cada una de las erogaciones correspondientes
+SÉPTIMO.- La Secretaría de Finanzas Públicas Municipales y la Secretaría de Administración deberán llevar a cabo todos los actos legales y administrativos a efecto de que la Coordinación General de Salud, cuente con respectivas claves programáticas, presupuestos correspondientes y demás trámites legales y administrativos que se susciten con motivo de las presentes reformas, así mismo para que todos los bienes que actualmente posea la Dirección de Salud Pública, pasen a la nueva Coordinación General, a efecto de que este cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos adquisición de bienes y servicios, arrendamientos, gato (sic) fijo y corriente, así como todas y cada una de las erogaciones correspondientes
 
-OCTAVO.– La Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
+OCTAVO.- La Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
 
-NOVENO.– Para el ejercicio fiscal 2022, la Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
+NOVENO.- Para el ejercicio fiscal 2022, la Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
 
 DÉCIMO.- La Coordinación General de la Salud, dentro de los 60 días hábiles siguientes a la entrada en vigor de la presente reforma, deberá proponer al H. Ayuntamiento Constitucional del Municipio de Aguascalientes, el Reglamento Interno de la Coordinación, con el fin de que se encuentre conforme a la presente reforma.
 
@@ -24447,7 +24485,7 @@ DÉCIMO SEGUNDO.- Todos los trámites que hubiesen iniciado bajo la vigencia de 
 
 DÉCIMO TERCERO.- Las referencias que se hagan y las atribuciones que se otorgan en el presente Código, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, al anterior Director de Salud Pública, se entenderán hechas o conferidas a la actual Coordinación General de Salud.
 
-DÉCIMO CUARTO.- Las reformas a los Artículos 98, párrafo cuarto; y 113; se adiciona una fracción XXI que incluye tres incisos; un apartado décimo octavo denominado “De la Coordinación de Transparencia y Acceso a la Información del Municipio de Aguascalientes”, que contendrá el actual Artículo 114 Quater, y un apartado décimo noveno denominado “De la Coordinación General de Salud” que contendrá el Artículo 114 Quinquies, ambos al Capítulo II del Título Segundo del Libro Primero, y se derogan los apartados catorce, quince, dieciséis y diecisiete de la fracción XV del artículo 98, todos del Código Municipal de Aguascalientes.
+DÉCIMO CUARTO.- Las reformas a los Artículos 98, párrafo cuarto; y 113; se adiciona una fracción XXI que incluye tres incisos; un apartado décimo octavo denominado "De la Coordinación de Transparencia y Acceso a la Información del Municipio de Aguascalientes", que contendrá el actual Artículo 114 Quater, y un apartado décimo noveno denominado "De la Coordinación General de Salud" que contendrá el Artículo 114 Quinquies, ambos al Capítulo II del Título Segundo del Libro Primero, y se derogan los apartados catorce, quince, dieciséis y diecisiete de la fracción XV del artículo 98, todos del Código Municipal de Aguascalientes.
 
 DÉCIMO QUINTO.- Todas las disposiciones jurídicas del ámbito Municipal que se opongan al presente, se entienden reformadas en el sentido del contenido en el cuerpo del mismo, adecuando los nuevos nombres y funciones.
 
@@ -24530,3 +24568,15 @@ P.O. 18 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DE LA “REFORMA AL ARTÍCULO 1109 FRACCIÓN X DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
 
 > <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES”.]</small>
+
+P.O. 27 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA A LOS ARTÍCULOS 98 Y 114 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+ÚNICO.- La presente reforma entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DE LA "ADICIÓN DE LA FRACCIÓN IV (BIS) AL ARTÍCULO 109 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+ÚNICO.- La presente reforma entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
