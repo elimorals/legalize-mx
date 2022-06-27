@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2022-05-23"
+last_updated: "2022-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2022.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -2083,6 +2083,16 @@ No serán discriminatorias todas aquellas medidas tendentes a la protección de 
 
 Este delito se perseguirá por querella.
 
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2022)</small>
+
+ARTÍCULO 202 TER.- Se le impondrá de uno a tres años de prisión y multa de 150 a 300 días, a quien obligue a otro a recibir una terapia de conversión o la imparta sin el consentimiento de la persona.
+
+Se entiendo (sic) por terapia de conversión, aquellas prácticas consistentes en sesiones psicológicas, psiquiátricas, métodos o tratamientos que tenga por objeto anular, obstaculizar, modificar o menoscabar la expresión o identidad de género, o la orientación sexual de la persona, en las que se emplea violencia física o psicológica.
+
+La punibilidad se aumentará en una mitad más, cuando la víctima del delito sea una persona menor de edad, adulta mayor o persona que no tenga la capacidad de comprender el hecho.
+
+Este delito se perseguirá por querella cuando la víctima fuere mayor de edad con capacidad para comprender el significado del hecho y posibilidad para resistirlo.
+
 ###### ARTICULO 188.
 
 Al que aprovechándose de la necesidad de alguien obtenga de éste o de un tercero vinculado a él, la cópula para sí o para otro, como condición para el ingreso o la conservación del trabajo, la promoción de éste o la asignación de aumento, de remuneración o prestaciones para el solicitante, el trabajador o sus familiares, se le impondrá prisión de dos a seis años y de 30 a 120 días multa.
@@ -3987,6 +3997,14 @@ III. Maltrato: Actos que siendo innecesarios dañan la salud, integridad física
 
 ARTICULO 349 DUODECIES.- Se impondrán de tres meses a dos años de prisión y multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualización, a quien organice, realice, promueva, anuncie, promocione, difunda, fináncie, patrocine o presencie, cualquier acto cuyo objetivo sea la pelea de perros, así como a quien permita que se realice en inmuebles de su propiedad o bajo su posesión.
 
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2022)</small>
+
+ARTICULO 349 TERDECIES.- Se impondrá de dos a cuatro años de prisión y de 100 a 200 días multa, al propietario, operador o administrador de un espacio en donde se realice la matanza de animales que sirven para consumo humano y que no cuente con autorización, licencia o permiso vigente, para operar.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2022)</small>
+
+ARTICULO 349 QUATERDECIES.- Se impondrá de dos a cuatro años de prisión y de 100 a 200 días multa, al que omita aplicar la normatividad en materia de trato humanitario en el sacrificio de animales que sirven para consumo humano.
+
 ###### ARTICULO 325.
 
 Al que realice o favorezca la evasión de una persona que se encuentre legalmente privada de su libertad, se le impondrá prisión de tres a seis años y de 30 a 100 días multa.
@@ -4756,3 +4774,15 @@ P.O. 23 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 193 QUE ADICIONA Y REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO Y DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 215 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES Y DEL CÓDIGO PENAL, AMBOS DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 216 QUE ADICIONA EL ARTÍCULO 202 TER AL CAPÍTULO ÚNICO DEL TÍTULO SEXTO BIS, DEL LIBRO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 142 SEXTIES DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
