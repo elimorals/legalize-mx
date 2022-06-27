@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-de-datos-personales-en-posesion-de-122697"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-24"
-last_updated: "2021-09-13"
+last_updated: "2022-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 24 de julio de 2017.
 
@@ -111,7 +111,9 @@ De manera enunciativa mas no limitativa, son considerados datos biométricos, la
 
 VII. Datos personales: Cualquier información concerniente a una persona física identificada o identificable expresada en forma numérica, alfabética, alfanumérica, gráfica, fotográfica, acústica o en cualquier otro formato. Se considera que una persona es identificable cuando su identidad puede determinarse directa o indirectamente a través de cualquier información, siempre y cuando esto no requiera plazos, medios o actividades desproporcionadas;
 
-VIII. Datos personales sensibles: Aquellos que se refieren a la esfera más íntima de su titular, o cuya utilización indebida pueda dar origen a discriminación o conlleve un riesgo grave para éste. Se consideran sensibles, de manera enunciativa más no limitativa, los datos personales que puedan revelar aspectos como origen racial o étnico, estado de salud pasado, presente o futuro, creencias religiosas, filosóficas y morales, opiniones políticas, datos genéticos, datos biométricos y preferencia sexual;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
+
+VIII. Datos personales sensibles: Aquellos que se refieren a la esfera más íntima de su titular, o cuya utilización indebida pueda dar origen a discriminación o conlleve un riesgo grave para éste. Se consideran sensibles, de manera enunciativa más no limitativa, los datos personales que puedan revelar aspectos como origen racial o étnico, estado de salud pasado, presente o futuro, creencias religiosas, filosóficas y morales, opiniones políticas, datos genéticos, datos biométricos, orientación sexual, identidad o expresión de género;
 
 IX. Derechos ARCO: Los derechos de acceso, rectificación y cancelación de datos personales, así como la oposición al tratamiento de los mismos;
 
@@ -779,15 +781,19 @@ El titular podrá oponerse al tratamiento de sus datos personales o exigir que s
 
 I. Exista una causa legítima y su situación específica así lo requiera, lo cual implica que aun siendo lícito el tratamiento, el mismo debe cesar para evitar que su persistencia cause un daño o perjuicio al titular; y
 
-II. Sus datos personales sean objeto de un tratamiento automatizado, el cual le produzca efectos jurídicos no deseados o afecte de manera significativa sus intereses, derechos o libertades, y estén destinados a evaluar, sin intervención humana, determinados aspectos personales del mismo o analizar o predecir, en particular, su rendimiento profesional, situación económica, estado de salud, preferencias sexuales, fiabilidad o comportamiento.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
+
+II. Sus datos personales sean objeto de un tratamiento automatizado, el cual le produzca efectos jurídicos no deseados o afecte de manera significativa sus intereses, derechos o libertades, y estén destinados a evaluar, sin intervención humana, determinados aspectos personales del mismo o analizar o predecir, en particular, su rendimiento profesional, situación económica, estado de salud, orientación sexual, identidad o expresión de género, fiabilidad o comportamiento.
 
 En aquellos tratamientos de datos personales a que se refiere la fracción II del presente artículo, el responsable deberá informar al titular sobre la existencia del mismo e incluir una evaluación o valoración humana que, entre otras cuestiones, contemple la explicación de la decisión adoptada por la intervención humana.
 
 En caso de resultar procedente el derecho de oposición, el responsable deberá cesar el tratamiento de los datos personales respecto de aquellas finalidades que resulten aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2022)</small>
+
 ###### Artículo 69.
 
-El responsable no podrá llevar a cabo tratamientos automatizados de datos personales que tengan como efecto la discriminación de las personas por su origen étnico o racial, su estado de salud presente, pasado o futuro, su información genética, sus opiniones políticas, sus creencias filosóficas o morales y su preferencia sexual.
+El responsable no podrá llevar a cabo tratamientos automatizados de datos personales que tengan como efecto la discriminación de las personas por su origen étnico o racial, su estado de salud presente, pasado o futuro, su información genética, sus opiniones políticas, sus creencias filosóficas o morales, su orientación sexual, su identidad o expresión de género.
 
 ### Capítulo II. Del ejercicio de los derechos de acceso, rectificación, cancelación y oposición
 
@@ -2190,3 +2196,9 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 758 POR EL QUE SE POR EL QUE SE ADICIONAN LA FRACCIÓN VI BIS AL ARTÍCULO 3; UN PÁRRAFO SEGUNDO AL ARTÍCULO 14; Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 109, DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente Decreto entra en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 212 QUE REFORMA LOS ARTÍCULOS 3, FRACCIÓN VIII, 68, FRACCIÓN II, Y 69 DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
