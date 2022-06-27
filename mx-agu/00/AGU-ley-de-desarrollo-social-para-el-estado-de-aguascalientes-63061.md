@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-social-para-el-estado-de-aguascalientes-63061
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-08"
-last_updated: "2021-06-07"
+last_updated: "2022-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 8 de septiembre de 2008.
 
@@ -49,7 +49,9 @@ LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES
 
 La presente Ley es de orden público, interés social y de observancia general en todo el Estado de Aguascalientes y tiene por objeto:
 
-I. Garantizar el pleno ejercicio de los derechos sociales consagrados en la Constitución Política del Estado Libre y Soberano de Aguascalientes, asumiendo plenamente las obligaciones en materia de Desarrollo Social y asegurando el acceso de toda la población;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
+
+I. Promover y garantizar a los habitantes del Estado el pleno ejercicio de los derechos sociales consagrados en la Constitución Política de los Estados Unidos Mexicanos, en Tratados Internacionales, en la Constitución Política del Estado de Aguascalientes y en la Ley General de Desarrollo Social, asegurando el acceso de toda la población al desarrollo social y humano;
 
 II. Garantizar el cumplimiento de las obligaciones de Gobierno del Estado y los Municipios, en materia de Desarrollo Social, impulsando y consolidando las acciones enfocadas a la salud, alimentación, educación y vivienda, estableciendo o fortaleciendo a las instituciones responsables para ello, además de definir los principios y lineamientos generales a los que debe sujetarse la Política Estatal de Desarrollo Social;
 
@@ -359,9 +361,25 @@ II. Seguridad social y programas asistenciales;
 
 III. Desarrollo Regional;
 
-IV. Infraestructura social básica; y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
 
-V. Fomento del sector social a la economía.
+IV. Infraestructura social básica;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
+
+V. Fomento del sector social a la economía;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2022)</small>
+
+VI. Desarrollo sustentable;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2022)</small>
+
+VII. Atención a grupos vulnerables; y
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2022)</small>
+
+VIII. La igualdad de género.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
@@ -501,9 +519,9 @@ VI. Los programas de abasto social de productos básicos;
 
 VII. Los programas de vivienda;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
 
-VIII. Los programas y fondos públicos destinados a la generación y conservación del empleo, a las actividades productivas sociales y a las empresas del sector social de la economía;
+VIII. Los programas y fondos públicos que promuevan la generación y conservación del empleo y las actividades productivas, así como el fortalecimiento del sector social de la economía y su vinculación con la innovación tecnológica;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
@@ -1041,9 +1059,9 @@ El beneficiario, organización o unidad familiar que contravenga las disposicion
 
 Los recursos destinados al desarrollo social y combate a la pobreza no podrán ser utilizados para fines de proselitismo político, u otro fin distintos a los establecidos.
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2022)</small>
 
-El servidor público estatal o municipal, que valiéndose de su función o en ejercicio de ésta, condicione los apoyos, haga proselitismo a favor de un partido político y, en general contravenga las disposiciones de esta Ley, será sancionado de acuerdo a lo dispuesto en la Ley de Responsabilidades de Servidores Públicos del Estado de Aguascalientes y se le aplicará lo que al respecto dicte la Ley General en Materia de Delitos Electorales.
+El servidor público estatal o municipal, que valiéndose de su función o en ejercicio de ésta, condicione los apoyos, haga proselitismo a favor de un partido político y, en general contravenga las disposiciones de esta Ley, será sancionado de acuerdo a lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, y se le aplicará lo que al respecto dicte la Ley General en Materia de Delitos Electorales.
 
 En caso de ser servidor público federal, se deberá informar al órgano de control interno competente.
 
@@ -1250,3 +1268,11 @@ P.O. 7 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 558.- SE REFORMA EL ARTÍCULO 6° DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES".]
 
 ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 146.- SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 1º; LA FRACCIÓN VIII DEL ARTÍCULO 35, Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 80; ASÍ MISMO SE ADICIONAN LAS FRACCIONES VI, VII Y VIII DEL ARTÍCULO 25, A LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
