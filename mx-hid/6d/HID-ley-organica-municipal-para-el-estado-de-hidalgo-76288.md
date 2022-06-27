@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2022-06-09"
+last_updated: "2022-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2022.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -104,6 +104,10 @@ I.- Ayuntamiento: Órgano de Gobierno Municipal a través del cual, el pueblo, e
 > <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
 I BIS.- Casas de cultura: Los espacios físicos donde se ejercen derechos artísticos culturales;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2022)</small>
+
+I TER.- Audiencia Pública: instrumento de participación por medio del cual los ciudadanos y ciudadanas, habitantes de un municipio, dialogan con los y las integrantes del Ayuntamiento respecto de cualquiera de los asuntos concernientes al gobierno municipal.
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
@@ -389,6 +393,16 @@ ARTÍCULO 26 TER.- Las violaciones a las normas de transparencia, acceso a la in
 
 Los Ayuntamientos promoverán la participación ciudadana en las políticas públicas Municipales.
 
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2022)</small>
+
+ARTÍCULO 27 BIS.- Con independencia de lo previsto en la Ley de Participación Ciudadana para el Estado de Hidalgo, los ciudadanos y ciudadanas hidalguenses, a través de la audiencia pública, pueden solicitar y/o proponer al Ayuntamiento o al Concejo Municipal:
+
+I. La adopción de Acuerdos o la realización de actos;
+
+II. Información y/o documentación respecto de las actividades del Ayuntamiento como órgano de gobierno; y
+
+III. Evaluar en conjunto con las autoridades municipales, el cumplimiento de los programas y actos de gobierno.
+
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 28.
@@ -650,6 +664,14 @@ I.- Para dictar resoluciones que afecten el patrimonio inmobiliario Municipal;
 II.- Para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al período del Ayuntamiento; y
 
 III.- Para que el gobierno estatal asuma una función o servicio Municipal, sin el convenio correspondiente, debe mediar solicitud del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2022)</small>
+
+Es mayoría de votos, la mitad más uno de los votos emitidos en el mismo sentido por los integrantes del ayuntamiento presentes en una sesión.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2022)</small>
+
+Es mayoría calificada, el número de votos emitidos en el mismo sentido, por las dos terceras partes del número total de integrantes del ayuntamiento.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
@@ -3950,5 +3972,17 @@ P.O. 9 DE JUNIO DE 2022.
 P.O. 9 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 204 QUE ADICIONA LA FRACCIÓN IV BIS AL ARTÍCULO 98 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 209 QUE ADICIONA LA FRACCIÓN I TER, AL ARTÍCULO 6, Y EL ARTÍCULO 27 BIS, AMBOS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 213 POR EL QUE SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 48 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
