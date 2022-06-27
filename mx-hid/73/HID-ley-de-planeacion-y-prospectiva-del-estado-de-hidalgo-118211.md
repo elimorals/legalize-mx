@@ -4,7 +4,7 @@ identifier: "HID-ley-de-planeacion-y-prospectiva-del-estado-de-hidalgo-118211"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2016-12-31"
+last_updated: "2022-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PLANEACIÓN Y PROSPECTIVA DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2022.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el sábado 31 de diciembre de 2016.
 
@@ -240,6 +240,10 @@ X. Dos representantes del Sector Empresarial del Estado, determinados por las C�
 XI. Dos representantes de instituciones académicas o de investigación del Estado, determinados por invitación del Comité Directivo, quienes serán vocales del COPLADEHI; y,
 
 XII. Dos miembros representativos del sector social, determinados por invitación del Comité Directivo, quienes serán vocales del COPLADEHI.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2022)</small>
+
+XIII. Un representante del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Hidalgo.
 
 Para el cumplimiento de sus funciones los integrantes del COPLADEHI definidos en el párrafo anterior, podrán contar, si así lo decidieran, con un suplente, el cual tendrá las facultades y obligaciones que le correspondan y solo actuará en ausencia del titular. Para el caso de la presidencia del COPLADEHI, en su ausencia asumirá sus funciones el Coordinador General, haciendo innecesario el nombramiento de un suplente.
 
@@ -942,3 +946,11 @@ EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONST
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS VEINTISÉIS DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL DIECISÉIS.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. OMAR FAYAD MENESES.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 210 QUE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 17 DE LA LEY DE PLANEACIÓN Y PROSPECTIVA DEL ESTADO DE HIDALGO Y QUE REFORMA EL ARTÍCULO 71 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
