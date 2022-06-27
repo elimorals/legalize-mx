@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-de-servicios-de-salud-de-hidalgo-143723"
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-08-03"
-last_updated: "2020-11-23"
+last_updated: "2022-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2022.
 
 Estatuto publicado en el Alcance Cuatro del Periódico Oficial del Estado de Hidalgo, el lunes 3 de agosto de 2020.
 
@@ -191,13 +191,17 @@ a. Unidades Administrativas adscritas a la Dirección General:
 
 7. Subdirección de Comunicación Social;
 
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2022)</small>
+
+8. Coordinación de Investigación en Salud
+
 b. Subdirección General de Servicios de Salud Pública;
 
 1. Dirección de Políticas y Estrategias en Salud Pública;
 
 2. Dirección de Relaciones Sectoriales en Salud Pública; y
 
-3. Coordinación de Investigación en Salud.
+3. (DEROGADO, P.O. 27 DE JUNIO DE 2022)
 
 c. Subdirección General de Prestación de Servicios:
 
@@ -227,9 +231,9 @@ c. Subdirección General de Prestación de Servicios:
 
 4 Dirección de Profesionalización en Salud y Calidad en el Servicio;
 
-5 Dirección de Enfermería; y
+5. (DEROGADO, P.O. 27 DE JUNIO DE 2022)
 
-6 Coordinación del Programa de Inclusión Social Prospera
+6. (DEROGADO, P.O. 27 DE JUNIO DE 2022)
 
 d. Subdirección General de Administración, Finanzas y Planeación:
 
@@ -393,6 +397,26 @@ IV. Coordinar y apoyar técnicamente en la generación y operación de política
 
 V. Las demás que determine la persona titular de la Dirección General, así como lo establecido en leyes, reglamentos y disposiciones normativas aplicables.
 
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2022)</small>
+
+###### Artículo 23 Bis.
+
+Corresponde a la Coordinación de Investigación en Salud:
+
+I. Dirigir las actividades de la Coordinación de Investigación en Salud Pública de acuerdo con las normas y políticas establecidas.
+
+II. Coordinar la definición de líneas específicas para la investigación y estudios de factores que mejoren las condiciones de salud de la población.
+
+III. Formular y presentar los protocolos de investigación factibles de realizarse en la Coordinación.
+
+IV. Vigilar y evaluar sistemáticamente la eficacia en el desarrollo de los protocolos autorizados.
+
+V. Gestionar la obtención de recursos para el desarrollo de los protocolos autorizados.
+
+VI. Coordinar la difusión de la información técnica generada a través de las investigaciones realizadas, aplicable a Salud Pública.
+
+VII. Las demás que determine la persona titular de la Dirección General, las disposiciones legales y reglamentarias aplicables.
+
 ###### Artículo 24.
 
 Corresponde a la Unidad Institucional para la Igualdad entre Mujeres y Hombres:
@@ -549,7 +573,7 @@ VIII. Aprobar el programa para la acreditación de las unidades médicas sujetas
 
 IX. Vigilar la aplicación del programa de formación y actualización de recursos humanos adscritos al Organismo;
 
-X. Coordinar la elaboración de proyectos, programas y estrategias para el fortalecimiento del servicio de enfermería;
+X. (DEROGADA, P.O. 27 DE JUNIO DE 2022)
 
 XI. Gestionar anteproyectos de inversión de la infraestructura física y tecnológica para la ampliación de la cobertura de servicio del primer y segundo nivel de atención y unidades médicas especializadas; y
 
@@ -709,21 +733,7 @@ VIII. Las demás que determine la persona titular de la Dirección General, las 
 
 ###### Artículo 35.
 
-Corresponde a la Coordinación de Investigación en Salud:
-
-I. Dirigir las actividades de la Coordinación de Investigación en Salud Pública de acuerdo con las normas y políticas establecidas.
-
-II. Coordinar la definición de líneas específicas para la investigación y estudios de factores que mejoren las condiciones de salud de la población.
-
-III. Formular y presentar los protocolos de investigación factibles de realizarse en la Coordinación.
-
-IV. Vigilar y evaluar sistemáticamente la eficacia en el desarrollo de los protocolos autorizados.
-
-V. Gestionar la obtención de recursos para el desarrollo de los protocolos autorizados.
-
-VI. Coordinar la difusión de la información técnica generada a través de las investigaciones realizadas, aplicable a (sic) Salud Pública.
-
-VII. Las demás que determine la persona titular de la Dirección General, las disposiciones legales y reglamentarias aplicables.
+(DEROGADO, P.O. 27 DE JUNIO DE 2022)
 
 ###### Artículo 36.
 
@@ -869,7 +879,13 @@ X. Integrar la propuesta del plan de acreditación de las unidades bajo su respo
 
 XI. Solicitar la elaboración de proyectos de inversión necesarios para fortalecer la infraestructura física y tecnológica de las unidades bajo su responsabilidad;
 
-XII. Las demás que determine la persona titular de la Dirección General, así como lo establecido en leyes, reglamentos y disposiciones normativas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2022)</small>
+
+XII. Establecer los lineamientos a implementar para la atención de urgencias médicas reportadas en el Centro de Control Hidalgo (C5I);
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE JUNIO DE 2022)</small>
+
+XIII. Las demás que determine la persona titular de la Dirección General; así como lo establecido en leyes, reglamentos y disposiciones normativas aplicables.
 
 ###### Artículo 41.
 
@@ -905,7 +921,9 @@ V. Hospital General de Apan;
 
 VI. Hospital General de la Huasteca;
 
-VII. Hospital General de Tula;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
+
+VII. Hospital General Tula
 
 VIII. Hospital Regional Otomí Tepehua;
 
@@ -929,9 +947,9 @@ XIV. Hospital General Pachuca
 
 XV. Hospital Obstétrico Pachuca
 
-> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
 
-XVI. Hospital Villa Ocaranza
+XVI. Villa Ocaranza
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE NOVIEMBRE DE 2020)</small>
 
@@ -1007,43 +1025,29 @@ IV. Coordinar la certificación de procesos de calidad;
 
 V. Administrar los programas para la formación, capacitación y actualización del personal en formación y operativo, adscrito a las unidades del Organismo;
 
-VI. Validar la liberación de los recursos humanos en formación; y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
 
-VII. Las demás que determine la persona titular de la Dirección General, así como lo establecido en leyes, reglamentos y disposiciones normativas aplicables.
+VI. Coordinar la validación del proceso de los recursos humanos durante su formación en los campos clínicos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2022)</small>
+
+VII. Dirigir la elaboración de proyectos, programas y estrategias, para el fortalecimiento del servicio de enfermería en las unidades médicas del Organismo;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2022)</small>
+
+VIII. Determinar los programas de mejora continua de la calidad y seguridad del paciente en el Organismo;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE JUNIO DE 2022)</small>
+
+IX. Las demás que determine la persona titular de la Dirección General; así como lo establecido en leyes, reglamentos y disposiciones normativas aplicables.
 
 ###### Artículo 46.
 
-Corresponde a la Dirección de Enfermería:
-
-I. Dirigir la elaboración de proyectos, programas y estrategias para el fortalecimiento del servicio de enfermería en las unidades médicas del Organismo;
-
-II. Diseñar mecanismos de evaluación operativa del servicio de enfermería en las unidades médicas del Organismo;
-
-III. Fomentar la integración de comités de enfermería, para el análisis e implementación de estrategias de mejora continua del servicio;
-
-IV. Proponer programas de capacitación, profesionalización y educación continua para el personal de enfermería del Organismo;
-
-V. Las demás que determine la persona titular de la Dirección General; así como lo establecido en leyes, reglamentos y disposiciones normativas aplicables.
+(DEROGADO, P.O. 27 DE JUNIO DE 2022)
 
 ###### Artículo 47.
 
-Corresponde a la Coordinación del Programa de Inclusión Social Prospera.
-
-I. Coordinar la aplicación de las reglas de operación del Programa Prospera en las Jurisdicciones Sanitarias;
-
-II. Supervisar la operación del programa en las Jurisdicciones Sanitarias;
-
-III. Dirigir la evaluación del desempeño del programa en las unidades de prestación de servicios de salud;
-
-IV. Proporcionar asesoría y orientación al personal que participa en la operación del Programa;
-
-V. Atender y dar seguimiento a las quejas, denuncias, inconformidades, peticiones y sugerencias presentadas por los beneficiarios del programa;
-
-VI. Proponer el diseño de indicadores para el seguimiento del programa;
-
-VII. Gestionar la capacitación para la operación de los componentes del programa;
-
-VIII. Las demás que determine la persona titular de la Dirección General, así como lo establecido en leyes, reglamentos y disposiciones normativas aplicables.
+(DEROGADO, P.O. 27 DE JUNIO DE 2022)
 
 ###### Artículo 48.
 
@@ -1300,3 +1304,13 @@ PRIMERO.- Las presentes reformas y adiciones al Estatuto Orgánico de Servicios 
 SEGUNDO.- Las unidades que integran el Organismo vinculadas con estas reformas y adiciones deberán actualizar sus manuales de organización y procedimientos en un plazo de 60 días hábiles.
 
 TERCERO.- Las presentes reformas y adiciones al Estatuto Orgánico deberán hacerse llegar al Registro Público en términos de lo que establece la Ley de Entidades Paraestatales del Estado de Hidalgo y su Reglamento, en un término no mayor a 30 días hábiles.
+
+P.O. 27 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO”.]
+
+PRIMERO.- Las reformas, adiciones y derogaciones al Estatuto Orgánico de Servicios de Salud de Hidalgo entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- El Organismo procederá a actualizar sus manuales de organización y procedimientos en un plazo de 60 días hábiles.
+
+TERCERO.– Las presentes reformas, adiciones y derogaciones al Estatuto Orgánico deberán hacerse llegar al Registro Público de Organismos Descentralizados, en términos de lo que establece la Ley de Entidades Paraestatales del Estado de Hidalgo y su Reglamento, en un término no mayor a 30 días hábiles.
