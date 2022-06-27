@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2022-05-23"
+last_updated: "2022-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -37,7 +37,9 @@ QUE CONTIENE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL EST
 
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confieren los Artículos 56 fracciones I y II de la Constitución Política del Estado de Hidalgo, D E C R E T A:
 
-A N T E C E D E N T E S...
+A N T E C E D E N T E S
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -879,7 +881,9 @@ I. El descuido, negligencia, abandono o abuso físico, psicológico o sexual;
 
 II. La corrupción de personas menores de dieciocho años de edad;
 
-III. Trata de personas menores de 18 años de edad, abuso sexual infantil, explotación sexual infantil con o sin fines comerciales, o cualquier otro tipo de explotación, y demás conductas punibles establecidas en las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
+
+III. Trata de personas, turismo sexual y lenocinio, de personas menores de dieciocho años de edad; abuso sexual infantil, explotación sexual infantil con o sin fines comerciales, o cualquier otro tipo de explotación, y demás conductas punibles establecidas en las disposiciones aplicables;
 
 IV. El tráfico de menores;
 
@@ -1097,7 +1101,9 @@ XVII. Administrar la disciplina escolar de modo compatible con la dignidad human
 
 XVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes;
 
-XIX. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
+
+XIX. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente, así como fomentar hábitos dirigidos a la protección y conservación del mismo; al uso racional del agua y al desarrollo sustentable;
 
 XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
 
@@ -1248,6 +1254,10 @@ Niñas, niños y adolescentes tienen derecho a ser escuchados y tomados en cuent
 ###### Artículo 71.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligados a disponer e implementar los mecanismos que garanticen la participación permanente y activa de niñas, niños y adolescentes en las decisiones que se toman en los ámbitos familiar, escolar, social, comunitario o cualquier otro en el que se desarrollen.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE JUNIO DE 2022)</small>
+
+Para promover la participación de las niñas, niños y adolescentes se incluirá a un representante del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Hidalgo.
 
 ###### Artículo 72.
 
@@ -1852,6 +1862,10 @@ XI. Implementar medidas de inclusión plena y realizar las acciones afirmativas 
 XII. Adoptar medidas para la eliminación de usos, costumbres, prácticas culturales, religiosas, estereotipos sexistas o prejuicios que atenten contra la igualdad de niñas, niños y adolescentes por razón de género o que promuevan cualquier tipo de discriminación;
 
 XIII. Adoptar las medidas apropiadas para promover la recuperación física y psicológica y la restitución de derechos de niñas, niños y adolescentes, víctimas de cualquier forma de violencia;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2022)</small>
+
+XIII Bis. Diseñar e implementar políticas y programas para prevenir, reducir y evitar el turismo sexual, lenocinio o pornografía de personas menores de dieciocho años de edad, así como la adopción de mecanismos para la atención especializada a víctimas, garantizando en todo momento el interés superior de la niñez.
 
 XIV. Garantizar que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna, así como la prevención de embarazos, higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes;
 
@@ -2468,3 +2482,21 @@ P.O. 23 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 199 POR EL QUE SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 56 Y LA FRACCIÓN II DEL ARTÍCULO 58 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 210 QUE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 17 DE LA LEY DE PLANEACIÓN Y PROSPECTIVA DEL ESTADO DE HIDALGO Y QUE REFORMA EL ARTÍCULO 71 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 211 QUE REFORMA LA FRACCIÓN XIX, DEL ARTÍCULO 56 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 214 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
