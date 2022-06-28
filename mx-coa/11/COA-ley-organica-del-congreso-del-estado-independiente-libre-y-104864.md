@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2021-06-22"
+last_updated: "2022-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 30 de diciembre de 2014.
 
@@ -3209,7 +3209,9 @@ IX. Las demás que se deriven de la presente ley o de los acuerdos de la Junta d
 
 Además de las dependencias señaladas en los preceptos anteriores, se contará con las siguientes direcciones: Asuntos Legislativos, Administración, Asuntos Jurídicos y Documentación e Información Legislativa; los Secretarios Técnicos de las Comisiones de Gobernación, Puntos Constitucionales y Justicia; Hacienda; Auditoría Gubernamental y Cuenta Pública y Finanzas, así como las demás dependencias y los empleados que disponga la Junta de Gobierno, las que estén contempladas en el presupuesto del Congreso y aquellas que sean creadas conforme a lo dispuesto en esta ley y de conformidad con las posibilidades presupuestales del Poder Legislativo.
 
-La Dirección de Asuntos Jurídicos también tendrá a su cargo, las funciones de Contraloría Interna del Congreso, para los efectos de determinar las responsabilidades administrativas del incumplimiento de las obligaciones de los servidores públicos de todas las dependencias encargadas de los servicios financieros, parlamentarios y administrativos requeridos por el Poder Legislativo, en los términos de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2022)</small>
+
+La Dirección de Asuntos Jurídicos también tendrá a su cargo, las funciones de Contraloría Interna del Congreso, para los efectos de determinar las responsabilidades administrativas del incumplimiento de las obligaciones de los servidores públicos de todas las dependencias encargadas de los servicios financieros, parlamentarios y administrativos requeridos por el Poder Legislativo, en los términos de la Ley General de Responsabilidades Administrativas.
 
 Igualmente, la Dirección de Asuntos Jurídicos, mediante los oficios de comisión necesarios, llevará a cabo las notificaciones necesarias, en razón de los procedimientos que realice, atendiendo en lo conducente a las normas procesales supletorias a que haya lugar.
 
@@ -3266,6 +3268,20 @@ VIII. Conservar en buen estado los bienes, instalaciones, mobiliario, equipo y m
 IX. Las demás que les encomienden los titulares de los órganos legislativos, para el mejor desarrollo de la función legislativa.
 
 No se autorizarán compensaciones económicas extraordinarias al final de la legislatura a favor de los titulares de los órganos a que se refiere este artículo, distintas a aquellas a que tengan derecho de acuerdo a la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2022)</small>
+
+ARTÍCULO 281 BIS. La Unidad de Género del Congreso del Estado, en los términos del Protocolo de Prevención, Atención, Investigación y Sanción de la Violencia, el Hostigamiento y el Acoso Sexual y Laboral, así como de Prácticas contrarias a la Igualdad y a la No Discriminación en el Congreso del Estado de Coahuila de Zaragoza, es competente para conocer, investigar y concretar el procedimiento sancionador en relación a las quejas o denuncias por presuntos eventos, prácticas o situaciones de acoso, violencia, hostigamiento o discriminación sexual o laboral, así como de decretar medidas de protección para la victima; por su parte, la Dirección de Asuntos Jurídicos es competente para emitir la resolución respectiva, determinar y aplicar las sanciones administrativas correspondientes.
+
+A los anteriores efectos, la titular de la Unidad de Género deberá contar con un congruente perfil profesional que comprende, entre otros requisitos:
+
+1. Conocimientos técnicos.
+
+2. Experiencia profesional en responsabilidades similares.
+
+3. Formación especializada y vocación.
+
+Todos los anteriores, en materia de derechos humanos, igualdad, no discriminación, perspectiva de género, derecho laboral y acceso a la justicia, que le permitan proporcionar la asistencia técnica especializada que se requiera, el diseño, la implementación y la evaluación de políticas de igualdad para consolidar el derecho a la igualdad, formal y sustantiva, de hombres y mujeres en la estructura del Congreso del Estado de Coahuila de Zaragoza.
 
 ## TITULO SÉPTIMO. DEL INSTITUTO DE INVESTIGACIONES JURÍDICAS Y PARLAMENTARIAS
 
@@ -3796,3 +3812,11 @@ PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación.
 SEGUNDO.- La Unidad de Género deberá instalarse dentro de los 60 días naturales siguientes a la publicación del presente Decreto.
 
 TERCERO.- Una vez que se instale formalmente la Unidad de Género del Congreso del Estado, ésta elaborará y someterá a la aprobación del Presidente de la Junta de Gobierno el protocolo de prevención, atención, investigación y sanción de la violencia, el hostigamiento y el acoso sexual, así como las prácticas contrarias a la igualdad y a la no discriminación en el Congreso del Estado, dentro de los 30 días naturales siguientes.
+
+P.O. 28 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 235.- SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 280 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; ASIMISMO, SE ADICIONA EL ARTÍCULO 281 BIS, DEL MISMO ORDENAMIENTO; SE ADICIONA EL ARTÍCULO 201 BIS DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
