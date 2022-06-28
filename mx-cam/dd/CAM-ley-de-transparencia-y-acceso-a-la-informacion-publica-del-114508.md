@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1145
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2021-05-31"
+last_updated: "2022-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 4 de mayo de 2016.
 
@@ -227,6 +227,10 @@ Toda persona tiene derecho a que se garantice su derecho de acceso a la informac
 
 El ejercicio del derecho de acceso a la información no estará condicionado a que el solicitante acredite interés alguno o justifique su utilización, ni podrá condicionarse el mismo por motivos de discapacidad.
 
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2022)</small>
+
+Para tal efecto, las solicitudes, así como los escritos de denuncia e impugnación, deberán realizarse de manera pacífica y respetuosa.
+
 ###### Artículo 16.
 
 El ejercicio del derecho de acceso a la información es gratuito y sólo podrá requerirse el cobro correspondiente a la modalidad de reproducción y entrega solicitada, de conformidad con lo establecido en el Capítulo II del Título Octavo de la presente Ley.
@@ -287,19 +291,27 @@ En la conformación de la Comisión se procurará la igualdad de género y se pr
 
 Para ser Comisionado deberá cumplirse con los requisitos que expresamente señala el artículo 125 bis de la Constitución Política del Estado de Campeche.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2022)</small>
+
 ###### Artículo 25.
 
-Para elegir a quien ocupará el cargo de Comisionado se requiere el voto de las dos terceras partes de los miembros del H. Congreso del Estado presentes en la sesión de elección. Las Comisiones de Puntos Constitucionales y Control Interno de Convencionalidad y, de Transparencia y Acceso a la Información del Congreso, emitirán convocatoria dirigida a las organizaciones no gubernamentales; organizaciones, asociaciones y sociedades civiles; colegios y asociaciones de profesionistas; clubes de servicios e instituciones de educación superior y sociedad en general, para efecto de recepcionar las propuestas, que previa valoración de requisitos, le permitan proponer en número suficiente a los candidatos para elegir a los comisionados, rindiendo el informe correspondiente a la Mesa Directiva para que el Pleno los elija.
+Para elegir a quien ocupará el cargo de Comisionada o Comisionado se requiere el voto de las dos terceras partes de los miembros del H. Congreso del Estado presentes en la sesión de elección. La Comisión de Transparencia y Acceso a la Información del Congreso, emitirá convocatoria dirigida a las organizaciones no gubernamentales; organizaciones, asociaciones y sociedades civiles; colegios y asociaciones de profesionistas; clubes de servicios e instituciones de educación superior y sociedad en general, para efecto de recepcionar las propuestas, que previa valoración de requisitos, le permitan proponer en número suficiente a las y los candidatos para elegir a las y los comisionados, rindiendo el informe correspondiente a la Mesa Directiva para que el Pleno los elija.
 
 El procedimiento de convocatoria se desahogará de la forma siguiente:
 
-I. El procedimiento deberá iniciar dentro de los treinta días anteriores a la fecha de conclusión del nombramiento de los comisionados en funciones,
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2022)</small>
 
-II. Para ese efecto el Congreso del Estado habilitará a sus Comisiones de Puntos Constitucionales y Control Interno de Convencionalidad y, de Transparencia y Acceso a la Información Pública, las cuales tendrán a su cargo desahogar el procedimiento a que se refiere este artículo;
+I. El procedimiento deberá iniciar dentro de los treinta días anteriores a la fecha de conclusión del nombramiento de las y los comisionados en funciones;
 
-III. Habilitadas las Comisiones de referencia, estas procederán de inmediato a emitir la convocatoria y posteriormente a recepcionar las propuestas de candidatos para ocupar el cargo de Comisionados; previo análisis que efectúen de las mismas, y la realización de entrevistas a los ciudadanos propuestos, permitirá a las Comisiones estar en aptitud de sugerir a las personas que consideren satisfacer los requisitos que señala la Constitución Política de los Estados Unidos Mexicanos, la Ley General y esta ley, para ser propuestos al cargo de Comisionados;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2022)</small>
 
-IV. Este procedimiento, preferentemente, no deberá exceder la fecha de conclusión del periodo de los Comisionados en funciones;
+II. Para ese efecto el Congreso del Estado por conducto de la Mesa Directiva, instruirá a la Comisión de Transparencia y Acceso a la Información Pública la emisión de la convocatoria correspondiente;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2022)</small>
+
+III. Posteriormente, la Comisión de Transparencia y Acceso a la Información Pública recepcionará las propuestas de candidatas y candidatos para ocupar el cargo de Comisionadas o Comisionados. Acto seguido procederá a analizarlas así como realizar las entrevistas a las y los ciudadanos propuestos, lo cual le permitirá estar en aptitud de sugerir a las personas que consideren satisfacer los requisitos que señala la Constitución Política de los Estados Unidos Mexicanos, la Ley General y esta ley, para ser propuestos al cargo de Comisionadas o Comisionados;
+
+IV. (DEROGADA, P.O. 28 DE JUNIO DE 2022)
 
 > <small>(F. DE E., P.O. 10 DE MAYO DE 2016)</small>
 
@@ -309,9 +321,15 @@ VI. Los electos serán citados ante el pleno del Congreso o de la Diputación Pe
 
 Si en un primer proceso de elección no se obtiene la votación requerida, las Comisiones del Congreso harán una segunda propuesta en un plazo no mayor a diez días hábiles. Si no se obtiene la votación de las dos terceras partes en segunda ocasión, en una sesión inmediata posterior bastará para la elección la mayoría absoluta, para lo cual se tendrá como propuesta la última presentada.
 
-El Comisionado Presidente será electo por la mayoría de los Comisionados, mediante voto secreto por un período de tres años, con posibilidad de reelección hasta por un período igual. La votación para la elección se realizará en la sesión de instalación de la Comisión.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2022)</small>
+
+La o el Comisionado Presidente será electo por la mayoría de las y los Comisionados, mediante voto por un período de tres años, con posibilidad de reelección hasta por un período igual. La votación para la elección se realizará en la sesión de instalación de la Comisión.
 
 Los comisionados salientes seguirán en funciones hasta en tanto sean electos los nuevos comisionados y estén en aptitud de iniciar el ejercicio de sus funciones.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2022)</small>
+
+Este procedimiento, preferentemente, no deberá exceder la fecha de conclusión del periodo de las y los Comisionados en funciones.
 
 ###### Artículo 26.
 
@@ -373,7 +391,9 @@ VIII. Elaborar una guía que describirá, de manera clara y sencilla, los proced
 
 IX. Promover la capacitación y actualización de los sujetos obligados en materia de acceso a la información pública y protección de datos personales
 
-X. Promover por acuerdo del Pleno de la Comisión acciones de inconstitucionalidad en contra de leyes expedidas por el H. Congreso del Estado que vulneren el derecho de acceso a la información pública y la protección de datos personales;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2022)</small>
+
+X. Promover por acuerdo del Pleno de la Comisión acciones de inconstitucionalidad en contra de leyes expedidas por el H. Congreso del Estado que vulneren el derecho de acceso a la información pública y la protección de datos personales, así como controversias constitucionales en los casos que proceda en términos de la Constitución Federal y la Particular del Estado;
 
 XI. Elaborar su Proyecto de Presupuesto anual de Egresos y remitirlo al Ejecutivo del Estado, para su inclusión en el proyecto de Ley de Presupuesto de Egresos del Estado, para su examen, discusión y aprobación del presupuesto del ejercicio fiscal que corresponda. El Presupuesto de Egresos de la Comisión sólo podrá ser modificado por el H. Congreso del Estado;
 
@@ -388,6 +408,10 @@ XV. Hacer del conocimiento de la instancia competente la probable responsabilida
 XVI. Determinar y ejecutar, según corresponda, las sanciones, de conformidad con lo señalado en la presente ley; y
 
 XVII. Las demás que le confiera esta Ley, la Ley General y otras disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2022)</small>
+
+Cuando se presente algún caso no previsto por esta Ley y que esté directamente relacionado con el funcionamiento de la Comisión, será regulado por Acuerdos Generales que esta última emita, siempre y cuando no implique arrogarse facultades que le correspondan a otros Poderes u órganos legalmente constituidos.
 
 ###### Artículo 34.
 
@@ -811,9 +835,17 @@ IX. Promover e implementar políticas de transparencia proactiva procurando su a
 
 X. Fomentar la transparencia y accesibilidad al interior del sujeto obligado;
 
-XI. Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la presente Ley y en las demás disposiciones aplicables; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2022)</small>
 
-XII. Las demás que le otorguen otras disposiciones legales y reglamentarias aplicables.
+XI. Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la presente Ley y en las demás disposiciones aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JUNIO DE 2022)</small>
+
+XII. Responder, en los casos que así proceda, las solicitudes de acceso a la información, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE JUNIO DE 2022)</small>
+
+XIII. Las demás que le otorguen otras disposiciones legales y reglamentarias aplicables.
 
 ###### Artículo 52.
 
@@ -1613,7 +1645,9 @@ La Comisión pondrá a disposición de los particulares el formato de denuncia c
 
 El procedimiento de denuncia se sustanciará de la siguiente manera:
 
-I. Se presentará la denuncia ante la Comisión, quien resolverá sobre su admisión dentro de los tres días siguientes a su recepción;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2022)</small>
+
+I. Se presentará la denuncia ante la Comisión, quien resolverá sobre su admisión o desechamiento dentro de los tres días siguientes a su recepción;
 
 II. Admitida la denuncia, la Comisión deberá notificar al sujeto obligado, dentro de los tres días siguientes a su admisión, solicitando que rinda un informe con justificación;
 
@@ -1636,6 +1670,52 @@ VII. El sujeto obligado deberá cumplir con la resolución en un plazo máximo d
 VIII. Transcurrido el plazo señalado en la fracción anterior, el sujeto obligado deberá informar a la Comisión sobre el cumplimento de la resolución; y
 
 IX. Recibido el informe, la Comisión verificará el cumplimiento a la resolución y si considera que se dio cumplimiento a la misma, emitirá un acuerdo de cumplimiento y ordenará el cierre del expediente.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2022)</small>
+
+###### Artículo 98 Bis.
+
+Si el escrito de denuncia a que se refiere este Capítulo no cumple con alguno de los requisitos establecidos en el artículos 95 de esta Ley y la Comisión no cuenta con elementos suficientes para subsanarlos, se prevendrá a la o el denunciante por una sola ocasión, a través del medio que haya elegido para recibir notificaciones, con el objeto que en el término de tres días siguientes contados del día siguiente al de la notificación de la prevención, con el apercibimiento que, de no cumplir, se desechará la denuncia.
+
+La prevención interrumpirá el plazo con que cuenta la Comisión para resolver la denuncia y se reanudará al día siguiente en que aquella sea desahogada.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2022)</small>
+
+###### Artículo 98 Ter.
+
+La denuncia será desechada por improcedente cuando:
+
+I. Exista plena certeza de que anteriormente la Comisión ya había conocido del mismo incumplimiento dentro del mismo periodo de actualización y, en su momento, se instruyó la publicación o actualización de la Obligación de Transparencia correspondiente;
+
+II. El particular no desahogue en el plazo señalado la prevención a que se hace referencia en el artículo anterior;
+
+III. La denuncia no verse sobre presuntos incumplimientos a las Obligaciones de Transparencia previstas en la Ley General y esta Ley;
+
+IV. La denuncia se refiera al ejercicio del derecho de acceso a la información;
+
+V. Sea presentada por un medio distinto a los previstos en esta Ley, y
+
+VI. En los demás casos en que la improcedencia resulte de alguna disposición de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado o de esta Ley.
+
+La Comisión emitirá el acuerdo de desechamiento, dentro de los tres días hábiles siguientes al en que se recibió la denuncia, o bien, al que se atienda la prevención o fenezca el plazo señalado para su desahogo y se entregará el acuerdo para su debida notificación.
+
+En caso de ser admitida se deberá notificar al sujeto obligado de su interposición, acompañando copia de la denuncia respectiva, dentro de los tres días hábiles siguientes.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2022)</small>
+
+###### Artículo 98 Quáter.
+
+La denuncia será sobreseída, en todo o en parte, cuando, habiéndose admitido se actualice alguno de los siguientes supuestos:
+
+I. La o el denunciante se desista expresamente de la acción;
+
+II. La o el denunciante fallezca o, tratándose de personas morales, se extinga;
+
+III. El sujeto obligado responsable del acto lo modifique o revoque de tal manera que la denuncia quede sin materia;
+
+IV. Cuando haya dejado de existir el objeto o materia de la denuncia; y
+
+V. Durante la tramitación de la denuncia se advierta o sobrevenga alguna de las causales de improcedencia a que se refiere el artículo anterior.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2021)</small>
 
@@ -1927,6 +2007,10 @@ En el caso de que la información solicitada consista en bases de datos se deber
 
 Cuando la información requerida por el solicitante ya esté disponible al público en medios impresos, tales como libros, compendios, trípticos, registros públicos, en formatos electrónicos disponibles en Internet o en cualquier otro medio, se le hará saber por el medio requerido por el solicitante la fuente, el lugar y la forma en que puede consultar, reproducir o adquirir dicha información en un plazo no mayor a cinco días.
 
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2022)</small>
+
+En el caso previsto por este artículo, las respuestas serán emitidas por conducto de las Unidades de Transparencia de los sujetos obligados, en las que inexcusablemente deberán ilustrar paso a paso el modo en que la información puede ser consultada, atendiendo a los principios de máxima publicidad y buena administración.
+
 ###### Artículo 135.
 
 Las Unidades de Transparencia deberán garantizar que las solicitudes se turnen a todas las áreas competentes que cuenten con la información o deban tenerla de acuerdo a sus facultades, competencias y funciones, con el objeto de que realicen una búsqueda exhaustiva y razonable de la información solicitada.
@@ -2211,9 +2295,11 @@ IV. Admitido el recurso de revisión, aparezca alguna causal de improcedencia en
 
 Las resoluciones de la Comisión son vinculatorias, definitivas e inatacables para los sujetos obligados.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2022)</small>
+
 ###### Artículo 164.
 
-Los particulares podrán impugnar las determinaciones o resoluciones de la Comisión ante el Poder Judicial de la Federación.
+Los particulares podrán impugnar las determinaciones o resoluciones a que se refiere este Capítulo ante el Poder Judicial de la Federación.
 
 ### CAPÍTULO V. DEL CUMPLIMIENTO
 
@@ -2245,9 +2331,13 @@ III. Determinará las medidas de apremio o sanciones, según corresponda, que de
 
 ### CAPÍTULO VI. DE LOS PROCEDIMIENTOS DE IMPUGNACIÓN ANTE EL INSTITUTO
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2022)</small>
+
 ###### Artículo 168.
 
-Las resoluciones a los recursos de revisión dictadas por la Comisión podrán ser impugnadas por los particulares ante el Instituto a través del recurso de inconformidad o impugnarlos ante el Poder Judicial de la Federación, de acuerdo con lo establecido en la Ley General.
+Cuando la Comisión resuelva algún recurso de revisión en el que confirme o modifique la clasificación de la información, o en su caso, confirme la inexistencia o negativa de información, los particulares podrán impugnar las resoluciones a través del recurso de inconformidad.
+
+Las resoluciones susceptibles de impugnarse a que se refiere el presente artículo, también podrán hacerse ante el Poder Judicial de la Federación, para lo cual el particular optará por el medio de defensa que mejor le convenga.
 
 ###### Artículo 169.
 
@@ -2494,3 +2584,13 @@ Primero.- El presente decreto entrara´ en vigor tres días después de su publi
 Segundo.- El Poder Judicial del Estado de Campeche contará con un plazo de 180 días contados a partir de la publicación del presente decreto, para iniciar la difusión de las versiones públicas de las sentencias emitidas.
 
 Tercero.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 28 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 81 POR EL QUE “SE REFORMAN LOS PÁRRAFOS PRIMERO Y CUARTO Y LAS FRACCIONES I, II Y III, DEL ARTÍCULO 25; LA FRACCIÓN X DEL ARTÍCULO 33; LAS FRACCIONES XI Y XII DEL ARTÍCULO 51; LA FRACCIÓN I DEL ARTÍCULO 98 Y LOS ARTÍCULOS 164 Y 168; SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 15; UN PÁRRAFO SEXTO AL ARTÍCULO 25; UN PÁRRAFO SEGUNDO AL ARTÍCULO 33; LA FRACCIÓN XIII AL ARTÍCULO 51; LOS ARTÍCULOS 98 BIS, 98 TER Y 98 QUÁTER; UN PÁRRAFO SEGUNDO AL ARTÍCULO 134, Y SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 25, TODOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente después de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Los procedimientos de denuncia por incumplimiento a las obligaciones de transparencia que hubieren sido iniciados previo a la publicación del presente decreto se substanciarán y terminarán con las disposiciones vigentes al momento en que fueren iniciados.
+
+Artículo Tercero. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
