@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2022-06-14"
+last_updated: "2022-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -297,9 +297,11 @@ III. Designar concejos municipales en los casos y bajo las condiciones que las l
 
 IV. Por acuerdo de al menos las dos terceras partes de sus integrantes, suspender ayuntamientos, declarar que éstos han desaparecido, y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que prevenga la Ley Orgánica del Municipio Libre, con pleno respeto a la garantía de audiencia y legalidad;
 
-V. Autorizar, previa solicitud aprobada por el voto de cuando menos las dos terceras partes de los miembros del ayuntamiento respectivo, las enajenaciones y permutas que los municipios pretendan efectuar, así como la incorporación o desafectación de bienes del dominio público o de uso común municipal;
+V. (DEROGADA, P.O. 29 DE JUNIO DE 2022)
 
-VI. Autorizar, previo el cumplimiento de los requisitos de ley, y a solicitud del ayuntamiento respectivo, aprobada por el voto de cuando menos las dos terceras partes de los miembros del mismo, el gravamen de los bienes municipales, los empréstitos y en general las deudas que contraigan los municipios, cuando excedan el término de la administración de que se trate;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2022)</small>
+
+VI. Autorizar, previo el cumplimiento de los requisitos de ley, y a solicitud del ayuntamiento respectivo, aprobada por el voto de cuando menos las dos terceras partes de los miembros del mismo, los empréstitos y, en general, las deudas que contraigan los municipios cuando excedan el término de la administración de que se trate;
 
 VII. Autorizar las concesiones que otorguen los ayuntamientos, previa solicitud del ayuntamiento, aprobada por el voto de cuando menos las dos terceras partes de los integrantes del mismo;
 
@@ -1545,7 +1547,9 @@ VIII. Los referentes al establecimiento de las bases normativas a las que deber�
 
 IX. Los referentes al cambio de residencia de los poderes del Estado, o del recinto oficial del Congreso;
 
-X. Los tocantes a las autorizaciones para desafectar bienes destinados al dominio público y al uso común, y para enajenar bienes inmuebles propiedad del Estado; así como para incorporar, desafectar, enajenar, permutar o gravar bienes del dominio público municipal;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2022)</small>
+
+X. Los tocantes a las autorizaciones para desafectar bienes destinados al dominio público y al uso común, y para enajenar bienes inmuebles propiedad del Estado;
 
 XI. Los relativos a la autorización de contratos, convenios y concesiones que los ayuntamientos celebren por plazos mayores al de su gestión; que celebren en relación con la prestación de servicios públicos; administración de la hacienda pública municipal; y con el Ejecutivo del Estado para que éste asuma servicios públicos; así como los de asociación con los municipios de otras entidades federativas;
 
@@ -2031,9 +2035,17 @@ Los notificadores tendrán fe pública en el ejercicio de sus funciones.
 
 d) La Coordinación de Comunicación Social, dependiente de la Directiva: a la que corresponde la difusión de las actividades institucionales y de la legislación del Estado; la edición bimestral impresa de la Gaceta Parlamentaria; así como el apoyo en las relaciones públicas del Congreso.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2022)</small>
 
-e) La Contraloría Interna, dependiente de la Junta: a la que corresponde la evaluación y control del desempeño de los servidores públicos del Congreso; así como la sustanciación de los procedimientos de responsabilidad administrativa en que incurran los mismos y la imposición de las sanciones correspondientes, para lo cual deberá llevar un registro relativo a las sanciones impuestas e inhabilitación para desempeñar empleos, cargos o comisiones de los servidores públicos, así como los medios de impugnación y su resolución con carácter definitivo, responsabilizándose de realizar la captura, así como envío oportuno y veraz de la información al Comité Coordinador del Sistema Estatal Anticorrupción, para ser inscrito en el Sistema Estatal de Servidores Públicos y Particulares Sancionados de la Plataforma Digital Estatal, en términos de la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí; y la Ley del Sistema Estatal Anticorrupción de San Luis Potosí. De su competencia quedan exceptuados los integrantes de la Asamblea Legislativa.
+e) El Órgano Interno de Control, dependiente de la Junta, el que contará con el personal administrativo necesario para el desarrollo de sus atribuciones, así como con las unidades, investigadora; y substanciadora, a las que corresponde (sic) las facultades establecidas en la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
+
+El Órgano Interno de Control además de cumplir con las obligaciones y atribuciones previstas en el Ordenamiento invocado en el párrafo que antecede, atenderá los siguientes asuntos:
+
+1. Vigilar el cumplimiento de los mecanismos de los sistemas de control interno.
+
+2. Llevar a cabo las auditorías que resulten necesarias en los órganos y áreas del Congreso del Estado, con el fin de comprobar el cumplimiento de la normatividad, criterios y procedimientos establecidos.
+
+3. Las demás que con motivo de su función le atribuyan las disposiciones constitucionales, legales o reglamentarias.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -2934,6 +2946,22 @@ TERCERO. La Junta de Coordinación Política asignará los recursos humanos y ma
 P.O. 14 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0339.- SE REFORMA EL ARTÍCULO 15 EN SUS FRACCIONES XV, XVI Y XX; Y ADICIONA AL MISMO ARTÍCULO 15 UNA FRACCIÓN, ÉSTA COMO XXI, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0352.- SE REFORMA EL ARTÍCULO 126 EN SU FRACCIÓN II EL INCISO E), DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0353.- SE REFORMAN LOS ARTÍCULOS 18 EN SU FRACCIÓN VI Y 109 EN SU FRACCIÓN X; Y DEROGA DEL ARTÍCULO 18 LA FRACCIÓN V, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
