@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-143485"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-01"
-last_updated: "2022-06-07"
+last_updated: "2022-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143485&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -60477,3 +60477,7 @@ Quinto. La Secretaría de Economía, en conjunto con la Secretaría de Hacienda 
 Sexto. La Secretaría de Economía y las demás dependencias competentes, dentro de los 90 días naturales posteriores a la publicación del presente Decreto, deberán publicar en el Diario Oficial de la Federación los instrumentos jurídicos cuyo contenido deba actualizarse como consecuencia de la entrada en vigor de la Ley de los Impuestos Generales de Importación y de Exportación.
 
 Séptimo. Las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones de observancia general, respecto a la Ley que se abroga por virtud de la presente, se entenderán referidas a esta Ley que se emite.
+
+DECRETO DE ACTUALIZACIÓN DEL D.O.F. 29 DE JUNIO DE 2022.
+
+> <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL "DECRETO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN".]</small>
