@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-seguridad-publica-del-estado-de-campeche-103935"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-01"
-last_updated: "2022-03-24"
+last_updated: "2022-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103935&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE SEGURIDAD PUBLICA DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 1 de diciembre de 2014.
 
@@ -1143,7 +1145,9 @@ XII. Las demás que le establezcan las disposiciones legales aplicables.
 
 El Desarrollo Policial es un conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí, que integran la carrera policial, los esquemas de profesionalización, la certificación y el régimen disciplinario de los integrantes de las instituciones policiales.
 
-Tiene por objeto garantizar el desarrollo institucional, la estabilidad, seguridad e igualdad de oportunidades de sus miembros; elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2022)</small>
+
+Tiene por objeto garantizar el desarrollo institucional, la estabilidad, seguridad e igualdad de oportunidades de sus miembros; elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios los derechos humanos. El Desarrollo Policial se basará en la doctrina policial civil.
 
 La aplicación del Desarrollo Policial deberá, en todo momento, preservar el respeto a los derechos humanos, así como la certeza, objetividad e imparcialidad de la función de seguridad pública.
 
@@ -1305,9 +1309,13 @@ Los fines de la Carrera Policial son:
 
 I. Garantizar el desarrollo institucional y asegurar la estabilidad en el empleo, con base en un esquema proporcional y equitativo de remuneraciones y prestaciones para los integrantes de las instituciones policiales;
 
-II. Promover la responsabilidad, honradez, diligencia, eficiencia y eficacia en el desempeño de las funciones y en la óptima utilización de los recursos de las Instituciones;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2022)</small>
 
-III. Fomentar la vocación de servicio y el sentido de pertenencia mediante la motivación y el establecimiento de un adecuado sistema de promociones que permita satisfacer las expectativas de desarrollo profesional y reconocimiento de los integrantes de las Instituciones Policiales;
+II. Promover la proximidad social, responsabilidad, honradez, diligencia, eficiencia y eficacia en el desempeño de las funciones y en la óptima utilización de los recursos de las Instituciones;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2022)</small>
+
+III. Instaurar la doctrina policial civil y fomentar la vocación de servicio y el sentido de pertenencia mediante la motivación y el establecimiento de un adecuado sistema de promociones que permita satisfacer las expectativas de desarrollo profesional y reconocimiento de los integrantes de las Instituciones Policiales;
 
 IV. Instrumentar e impulsar la capacitación y profesionalización permanente de los integrantes de las instituciones policiales para asegurar la lealtad institucional en la prestación de los servicios; y
 
@@ -1338,6 +1346,10 @@ VIII. Separación o baja, que comprende las causas ordinarias y extraordinarias 
 La función básica de los elementos de policía (sic) estatales y municipales es prevenir el crimen y preservar la paz y el orden públicos, para lo cual tendrá las siguientes atribuciones:
 
 I. Prevención: consistente en llevar a cabo las acciones necesarias para evitar la comisión de delitos e infracciones administrativas, y, en sus circunscripciones, realizar acciones de inspección, vigilancia y vialidad;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2022)</small>
+
+I Bis. Proximidad social: actividad auxiliar a las funciones de prevención, a través de la proactividad y la cooperación con otros actores sociales, bajo una política de comunicación y colaboración interna e interinstitucional que fortalezca la gobernabilidad en el Estado y sus municipios y promueva la mediación, como procedimiento voluntario para solucionar pacíficamente conflictos derivados de molestias y problemáticas de la convivencia comunitaria que no constituyan delitos;
 
 II. Atención a víctimas y ofendidos del delito: proporcionar auxilio en los términos que señalan el Código Nacional de Procedimientos Penales y las respectivas leyes nacional y local de víctimas, para lo cual recibirán, en su caso, la denuncia respectiva;
 
@@ -2800,3 +2812,11 @@ CUARTO.- El Ejecutivo Estatal deberá realizar las modificaciones legales y regl
 QUINTO.- El Consejo Estatal de Seguridad Pública deberá integrar el Consejo Consultivo de Participación Ciudadana en un plazo no mayor a sesenta días naturales a partir de la publicación del presente decreto.
 
 SEXTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
+
+P.O. 29 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 82 POR EL QUE "SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 86 Y LAS FRACCIONES II Y III DEL ARTÍCULO 99 Y, SE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 101 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE CAMPECHE".]
+
+Artículo Primero. El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
