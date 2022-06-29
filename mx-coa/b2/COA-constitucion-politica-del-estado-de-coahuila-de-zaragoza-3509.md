@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2022-01-21"
+last_updated: "2022-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,11 @@ state: "COA"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO UNO DEL DECRETO NÚMERO 255, PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2022, SE DECLARA LA INVALIDEZ Y SE DEJA SIN EFECTOS LISA Y LLANAMENTE EL DECRETO 193 MEDIANTE EL CUAL SE REFORMARON Y ADICIONARON DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2022.]</small>
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -76,10 +76,6 @@ II. Por el Gobierno Municipal a través de los Ayuntamientos o, en su caso, de l
 
 En el régimen interior del estado, los organismos públicos autónomos son instituciones constitucionales que expresamente se definen como tales por esta Constitución y que se caracterizan por la esencialidad, permanencia, independencia, imparcialidad, profesionalismo, transparencia, responsabilidad y sujeción al estado humanista, social y democrático de derecho. Esta Constitución y las leyes establecerán las bases de la organización, funcionamiento, modalidades, límites y formas de control de los organismos públicos autónomos.
 
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-En los cargos públicos de los poderes del estado, municipios y órganos públicos autónomos, la garantía de la paridad de género se sujetará a las reglas de alternancia de género, paridad condicionada, convocatorias públicas exclusivas del género subrepresentado, garantías de acción afirmativa, transitoriedad, política pública, conformación colegiada o de conformación histórica, así como cualquier otra medida apropiada que asegure los fines de la paridad bajo los principios de proporcionalidad, no retroactividad, progresividad e igualdad de género. Estas reglas se aplicarán para cada entidad pública en los términos que establezca la ley.
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2020)</small>
 
 ###### Artículo 4º.
@@ -89,10 +85,6 @@ En el Estado la forma de Gobierno será, republicana, laica, representativa, pop
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2020)</small>
 
 Los Poderes Públicos del Estado, en el ámbito de sus atribuciones, garantizarán la competencia exclusiva de los Municipios y la solidaridad entre todos ellos bajo los principios que establece ésta Constitución y la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-Los tres poderes del Estado, los gobiernos municipales y los organismos públicos autónomos se integrarán de manera paritaria en los términos que dispongan sus leyes orgánicas y secundarias.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -117,10 +109,6 @@ Derechos Humanos y sus Garantías.
 ###### Artículo 7°.
 
 Dentro del territorio del Estado, toda persona gozará de los derechos humanos reconocidos en esta Constitución, en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales en los que el Estado Mexicano sea parte. El ejercicio de estos derechos no podrá restringirse ni suspenderse, salvo los casos y bajo las condiciones que establece la Constitución Federal.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-Las personas son iguales ante la ley. Esta protegerá la organización y el desarrollo de la familia.
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
 
@@ -270,9 +258,11 @@ Ninguna persona será sometida a desaparición, sea ésta cometida por agentes d
 
 El Estado tiene la obligación de adoptar todas las medidas apropiadas para proteger a las personas contra las desapariciones.
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2022)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO UNO DEL DECRETO NÚMERO 255, PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2022, SE DECLARA LA INVALIDEZ Y SE DEJA SIN EFECTOS LISA Y LLANAMENTE EL DECRETO 193 MEDIANTE EL CUAL SE REFORMARON Y ADICIONARON DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2022.]</small>
 
-Las personas desaparecidas y quienes hayan sufrido un perjuicio directo como consecuencia de una desaparición, tienen derecho a buscar y a ser buscadas, a una búsqueda inmediata y efectiva, a la localización de la persona desaparecida, a ser identificada, reintegrada o restituida en forma digna a su núcleo familiar; a la participación social, a conocer la verdad, a la justicia, a la protección judicial efectiva, a la reparación integral del daño y a las garantías de no repetición. El Estado garantizara? estos derechos.
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2014)</small>
+
+Las personas desaparecidas y quienes hayan sufrido un perjuicio directo como consecuencia de una desaparición, tienen derecho a una búsqueda inmediata y efectiva, a la localización de la persona desaparecida, a conocer la verdad, a la justicia, a la protección judicial efectiva y a la reparación integral del daño y a las garantías de no repetición. El Estado garantizará estos derechos.
 
 > <small>(ADICIONADO, P.O. 20 DE MAYO DE 2014)</small>
 
@@ -286,325 +276,25 @@ Ninguna persona será sometida a cualquier forma de esclavitud, servidumbre, o a
 
 Las personas migrantes o desplazadas que ingresen, transiten o residan temporalmente en el territorio del Estado, así como sus familiares, con independencia de su situación jurídica, tendrán la protección de la ley y no serán criminalizados por su condición de migrantes o desplazados. Tratándose de menores de edad se privilegiará el interés superior de la niñez. Las autoridades de todos los niveles, en la esfera de su competencia, adoptarán las medidas necesarias para la protección efectiva de sus derechos, de conformidad a lo dispuesto en el segundo párrafo del presente artículo.
 
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE ENERO DE 2022)</small>
-
-#### SECCIÓN PRIMERA. Principios Fundamentales
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º-A.
-
-La dignidad humana es inviolable. Su respeto y protección más amplia es obligación prioritaria de todas las autoridades y particulares.
-
-La persona humana debe ser tratada como fin en sí mismo. Es un sujeto de derechos y libertades fundamentales que exigen el trato digno; en ningún caso como objeto.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º-B.
-
-El genoma humano es la base de la unidad biológica fundamental de todos los miembros de la familia humana y del reconocimiento de su dignidad intrínseca y su diversidad.
-
-Están prohibidas las prácticas contrarias a la dignidad humana. La investigación sobre el genoma humano, sobre todo en el campo de la biología, la genética y la medicina, deberán orientarse a aliviar el sufrimiento y mejorar la salud de las personas y de toda la humanidad, prevaleciendo el respeto a los derechos humanos, la libertad y la dignidad de las personas.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º-C.
-
-Las personas tienen el derecho a desarrollar libre y plenamente su personalidad dentro de una comunidad de derechos y deberes en libertad, igualdad y fraternidad.
-
-La correlación entre derechos y deberes tendrá por objeto garantizar en forma proporcional los derechos de los demás, la seguridad de todas las personas y las justas exigencias del bien común en una sociedad democrática.
-
-Los derechos humanos no son absolutos. Están sujetos a límites razonables, estrictos y necesarios para el debido funcionamiento de la sociedad democrática.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º-D.
-
-Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados de razón y conciencia, deben comportarse fraternalmente los unos con los otros.
-
-Todas las personas son libres e iguales en dignidad, derechos y deberes. Las personas se deben entre sí la solidaridad justa y necesaria para vivir en forma libre e igual.
-
-La libertad consiste en poder hacer todo aquello que no dañe o ponga en riesgo grave a los demás y que no esté explícitamente prohibido por ley.
-
-La igualdad consiste en poder tener en igualdad de condiciones las mismas oportunidades, poderes o recursos, para posibilitar el libre desarrollo de la personalidad, sin privilegios, discriminaciones, ni ventajas indebidas. La paridad es una garantía para asegurar condiciones reales de igualdad entre los diferentes géneros en forma progresiva, transitoria y efectiva.
-
-La seguridad jurídica consiste en la certeza de aplicar normas válidas, ciertas, predecibles y razonables que delimiten la esfera de lo permitido y de lo prohibido por la ley.
-
-La solidaridad consiste en el deber necesario y proporcional que se deben de manera fraterna las personas para permitir la ayuda mutua, el desarrollo social de la comunidad y la libertad e igualdad en condiciones de mayor protección prevalente a las personas en condiciones de vulnerabilidad.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º-E.
-
-El principio de inclusión social es la base del Estado social de derecho.
-
-Las personas gozan de los derechos sin discriminación por origen étnico o nacional, género, edad, identidad de género, orientación sexual, idioma, religión, opinión, discapacidades, condición social, de salud y cualquier otra que atente contra la dignidad humana.
-
-Se prohíbe toda distinción, exclusión o restricción basada en cualquier condición que impida o anule las libertades, derechos o sus garantías.
-
-Nadie podrá ser objeto de discriminaciones fundadas en sus características genéticas, cuyo efecto sería atentar contra su dignidad, sus derechos y libertades fundamentales.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º-F.
-
-Los derechos humanos son universales, imperativos, innegociables, integrales, indivisibles, progresivos, interdependientes e interrelacionados. Se reconocen en su conjunto de manera justa y son válidos para todos y vigentes en cualquier lugar y momento.
-
-Los derechos humanos tienen el mismo valor o peso, sin perjuicio de la prioridad que corresponda a cada uno de ellos conforme a los principios de contenido esencial, limitación o ponderación según las circunstancias de cada caso concreto.
-
-El disfrute de algunos derechos facilitará el ejercicio o la realización de otros. En ningún caso su reconocimiento, vigencia o disfrute dependerá uno de otro en forma necesaria.
-
-Se prohibirán las reformas legales o cualquier otro acto de autoridad que impliquen de manera desproporcional medidas regresivas a los estándares de mayor protección de los derechos humanos.
-
-En estricta observancia a los principios de progresividad y no regresividad previstos en el artículo 199 de esta Constitución, con fundamento en la dignidad humana y el principio pro persona, los derechos y libertades reconocidos en el Estado, en esta Constitución y en las leyes que de ella emanen, podrán reformarse para ampliar, proteger y garantizar los derechos de las personas, nunca en su detrimento, salvo en aquellos casos en los que se justifique plenamente el principio de proporcionalidad en casos de necesidad social imperiosa.
-
-La progresividad de los derechos y su eficacia se garantizarán a través de una garantía de política pública con enfoque de derechos humanos. El Estado, a través del Ejecutivo, deberá implementar en su gestión un programa local de política pública para garantizar la construcción de ciudades de derechos humanos con la colaboración y asistencia neutral de la Comisión de Derechos Humanos del Estado, la sociedad civil, la academia y la comunidad local, nacional e internacional, para promover las buenas prácticas y mayores estándares de derechos humanos.
-
-Los tribunales competentes de la entidad están comprometidos a desarrollar e interpretar los derechos humanos siguiendo los más altos estándares nacionales e internacionales en la materia.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º-G.
-
-Los derechos no son absolutos y tampoco lo son sus límites razonables, justos y previstos en ley proporcional.
-
-En ningún caso se afectará el contenido esencial que fija el núcleo básico que delimita el concepto, alcance y límites de los derechos humanos.
-
-El principio de proporcionalidad delimitará la validez de las restricciones o permisiones que, en su caso, una norma imponga a determinados derechos y deberes de las personas.
-
-Las autoridades están obligadas a respetar la proporcionalidad en su actuación de certeza y legalidad que determine sus facultades, atribuciones o deberes oficiales.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º-H.
-
-Los derechos solo pueden ser limitados por causa debida conforme al principio de proporcionalidad.
-
-Los poderes públicos están vinculados y limitados en su actuar por los derechos y garantías fundamentales.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º-I.
-
-Los derechos humanos solo pueden suspenderse o restringirse de manera motivada por causa debida establecida en ley válida, cierta, previsible y razonable.
-
-Las suspensiones o restricciones a los derechos humanos deberán estar previstas en la ley, perseguir un fin legítimo, ser idóneas, necesarias y estrictamente proporcionales.
-
-La ponderación será un criterio interpretativo de los derechos para resolver conflictos entre derechos bajo la cláusula de máxima protección del derecho que debe privilegiarse en forma estricta.
-
-El principio de proporcionalidad se examinará de manera estricta o flexible con todas las cláusulas de los derechos humanos que resulten aplicables para el caso de restricción o de permisión.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º-J.
-
-Las personas físicas y jurídicas están vinculadas a las obligaciones de respeto, promoción y protección de los derechos humanos.
-
-Los actos de los particulares podrán ser justiciables por violaciones de los derechos humanos cuando sean arbitrarias y requieran tutela efectiva e inmediata en los términos que disponga la ley.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º-K.
-
-Los instrumentos internacionales en materia de derechos humanos ratificados por el Estado Mexicano serán aplicados e interpretados por todas las autoridades en el ámbito de sus competencias locales, favoreciendo en todo momento la protección más amplia de los derechos humanos.
-
-Las decisiones emitidas por los organismos internacionales del Sistema de Naciones Unidas y del Sistema Interamericano, en el marco de sus atribuciones locales, conferidas en los instrumentos internacionales ratificados por el Estado Mexicano, serán vinculantes para todas las autoridades estatales y municipales.
-
-Las observaciones, comentarios y recomendaciones generales o particulares que realicen dichos organismos internacionales deberán ser observadas por las autoridades locales, de forma conjunta con los contenidos de los tratados internacionales que les dan origen conforme al principio de protección más amplia de la persona y su interpretación progresiva.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º-L.
-
-Los derechos humanos que se reconocen en el ámbito local no se perderán ni dejarán de ser vinculantes para las autoridades del Estado por estar fuera del territorio coahuilense.
-
-El estado de la dignidad de las personas y sus derechos que establece esta Constitución, las Cartas de Derechos y sus Protocolos Adicionales tendrán validez en las otras entidades federativas, de acuerdo a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos para los efectos del estado civil de las personas.
-
-Las violaciones graves a los derechos humanos que hayan sido cometidas en otra entidad federativa o en el extranjero en perjuicio de la ciudadanía coahuilense, podrán ser objeto de tutela en el ámbito local conforme al derecho internacional obligatorio para el Estado Mexicano. Esta tutela local de los derechos de las personas se activará mediante la prueba de conexión relevante con la soberanía local o con los elementos del Estado para proteger sus derechos humanos en el régimen interno en los términos que establezca la ley.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º-M.
-
-Todos los derechos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución y en los tratados internacionales de derechos humanos suscritos por el Estado Mexicano serán plenamente justiciables y exigibles.
-
-En ningún caso podrá alegarse falta de norma jurídica o de garantías, que implique su desconocimiento, violación o desprotección.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE ENERO DE 2022)</small>
-
-#### SECCIÓN SEGUNDA. Garantismo
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º-N.
-
-Las garantías de los derechos humanos son los mecanismos o instrumentos otorgados en la presente Constitución, las Cartas de Derechos y sus Protocolos Adicionales, con la finalidad de asegurar, proteger, defender o salvaguardar los derechos humanos en forma efectiva y real.
-
-Las garantías de los derechos humanos deben proteger de manera adecuada, necesaria, suficiente y eficaz la titularidad, el contenido esencial y el ejercicio pleno de los mismos.
-
-Todas las autoridades estatales y municipales, en el ámbito de su competencia, tienen la obligación de promover, respetar, proteger y establecer los mecanismos que garanticen los derechos humanos bajo los principios de universalidad, interdependencia, indivisibilidad, progresividad y no regresividad.
-
-Corresponde al Estado promover e instrumentar las garantías fundamentales para que la libertad, igualdad, seguridad y solidaridad aseguren el disfrute de los derechos y libertades a todas las personas.
-
-La garantía real y efectiva de los derechos requiere que las autoridades contemplen en los presupuestos correspondientes los recursos de la comunidad para que los derechos humanos puedan ejercerse en libertad, igualdad y fraternidad.
-
-El Estado deberá remover de manera proporcional los obstáculos de orden económico, político, social y cultural que impidan el pleno desarrollo de la persona y la participación de todos en la vida política, económica, cultural y social.
-
-La falta de garantías no será razón para negar los derechos. En todo caso se aplicará la progresividad en los casos necesarios.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º
-
-Ñ.- Toda persona goza de los derechos, libertades y garantías proclamadas en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte, esta Constitución, las Cartas de Derechos y sus Protocolos Adicionales.
-
-Las disposiciones legislativas no deberán entenderse como la negación de otros derechos que, siendo inherentes a la dignidad humana y a fin de favorecer la protección más favorable, no figuren expresamente en ellos.
-
-Las personas juzgadoras podrán reconocer derechos, libertades y garantías conforme al derecho implícito que esté en concordancia con los principios de esta Constitución y el principio de primacía internacional.
-
-En los casos de lagunas legislativas, las personas juzgadoras colmarán las omisiones de derechos y garantías bajo el principio de interpretación conforme, el principio pro persona o la construcción jurídica de las normas.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º-O.
-
-El Estado tiene la obligación de no interferir de manera arbitraria en la esfera de la libertad que es propia y exclusiva de las personas.
-
-El Estado solamente podrá interferir de manera proporcional y con prestaciones positivas a favor de las personas cuando sea necesario y útil para garantizar su libertad, igualdad, seguridad jurídica y solidaridad.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º-P.
-
-Esta Constitución, las Cartas de Derechos y sus Protocolos Adicionales establecerán las garantías reforzadas de los derechos humanos de carácter fundamental.
-
-Los Protocolos Adicionales se crearán y reformarán en los mismos términos que establece esta Constitución para las Cartas de Derechos.
-
-Las cláusulas de intangibilidad de los derechos humanos serán respetadas por los poderes constituyentes o, en su caso, garantizadas por el Tribunal Constitucional Local en los términos previstos en la ley.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º-Q.
-
-Los derechos se garantizarán conforme a la cláusula de igual protección.
-
-La ley deberá garantizar la igualdad de hecho y de derecho.
-
-La cláusula de igualdad de género tendrá por objeto asegurar la participación e integración equilibrada entre hombres y mujeres en la vida social, cultural, política y económica.
-
-Las personas o grupos que se encuentren en una situación de desventaja y vulnerabilidad tienen derecho a que el Estado adopte medidas apropiadas y preferenciales para erradicar la condición de desigualdad.
-
-El trato diferenciado se regirá por el principio de proporcionalidad y podrá consistir en prestaciones positivas, políticas públicas o cualquier otra garantía apropiada, temporal y eficaz para erradicar la desigualdad o la discriminación.
-
-La violación grave por discriminación se reparará con las medidas que hagan cesar de inmediato las situaciones de desigualdad o de injusticia.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º-R.
-
-Las normas que suspendan o restrinjan los derechos humanos de carácter local deberán:
-
-I. Establecerse por ley válida, previsible y razonable, en sentido formal y material;
-
-II. Ser adecuadamente accesible, suficientemente precisa y su contenido razonable conforme al principio de proporcionalidad;
-
-III. Contextualizarse conforme al ámbito para el que fue creada a fin de regular de manera razonable la situación de las personas a quien se dirige.
-
-La reserva de ley, simple o calificada, se exigirá en la medida en que la materia requiera la exacta y estricta aplicación de la norma.
-
-El juez podrá justificar suspensiones o restricciones a los derechos con base en violaciones a principios constitucionales locales que impliquen fraude a la ley, abuso del derecho, desviación del poder o cualquier otro ilícito atípico.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º-S.
-
-La autoridad competente deberá motivar en forma concreta, autónoma e individualizada el fin legítimo de la restricción de los derechos, su idoneidad, necesidad y proporcionalidad.
-
-El objetivo que persiga la restricción deberá ser congruente con los principios, fines y normas de esta Constitución, a fin de proteger los derechos de los demás, la seguridad de todos, el interés general o las justas exigencias del bien común, en el marco de los fines de la sociedad democrática.
-
-La determinación de la idoneidad de la restricción implica un análisis objetivo a través del cual se establece la relación lógica de causalidad y, por tanto, si la medida es idónea para lograr el fin legítimo y constitucionalmente aceptable.
-
-La necesidad de la restricción se verifica cuando los medios adoptados por la restricción no sean excesivamente gravosos, sino útiles para tutelar los fines, así como mediante la constatación de la ausencia de otros medios menos restrictivos e igualmente idóneos para contribuir a lograr el fin legítimo que se persigue con la restricción.
-
-La estricta proporcionalidad implica la congruencia entre los fines y medios para evitar afectaciones inusuales o excesivamente gravosas en la titularidad, el contenido esencial o el ejercicio pleno del derecho restringido.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º-T.
-
-Todas las autoridades estarán obligadas a ejercer el control difuso local para proteger los derechos humanos de esta Constitución, las Cartas de Derechos y sus Protocolos Adicionales de la manera siguiente:
-
-I. La interpretación conforme en sentido amplio, según la cual todas las autoridades del Estado deberán interpretar la norma de acuerdo a principios y reglas de los derechos humanos, favoreciendo en todo tiempo la protección más amplia;
-
-II. La aplicación del principio pro persona, según el cual cuando hay dos o más versiones interpretativas válidas las autoridades deberán, partiendo de la presunción de constitucionalidad de las leyes, preferir aquella que hace a la ley acorde a los derechos humanos y amplía su esfera de protección;
-
-III. La inaplicación de la ley o cualquier otra norma secundaria o de su acto indebido de aplicación, como atribución exclusiva de los jueces, cuando las alternativas anteriores no son posibles;
-
-IV. En todo caso, las personas juzgadoras interpretarán los principios y reglas constitucionales locales para precisar de manera justificada el sentido y alcance de las mismas.
-
-V. En ningún caso, las autoridades administrativas o organismos públicos autónomos podrán invalidar o desaplicar esta Constitución o las Cartas Fundamentales de los Derechos. Las personas juzgadoras serán las únicas competentes para resolver el control difuso o de convencionalidad entre esta Constitución Local y una norma nacional o internacional que el Estado mexicano debe observar.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º-U.
-
-La interpretación de las normas que realice la Corte Interamericana de Derechos Humanos será precedente vinculante en el ámbito local para interpretar las normas protectoras de derechos humanos, con independencia de si el Estado Mexicano fue parte o no de la sentencia correspondiente.
-
-La interpretación de las disposiciones normativas que realicen los organismos internacionales del Sistema de Naciones Unidas y el Sistema Interamericano de Protección de Derechos Humanos, será vinculante para todas las autoridades estatales y municipales, con independencia de la participación del Estado mexicano en el asunto del que haya derivado la interpretación.
-
-El precedente extranjero o comparado en materia de derechos humanos podrá asumirse por los jueces cuando se estime una mayor protección a la persona que resulte aplicable conforme a una metodología estricta de derecho internacional o derecho comparado.
-
-Las sentencias, decisiones, recomendaciones, observaciones, comentarios y demás resoluciones de los organismos internacionales emitidas como parte de sus competencias de resolución de casos o interpretación de las normas internacionales de derecho humanos que deriven de tratados que el Estado mexicano haya suscrito tendrán el carácter de obligatorias en el régimen interno.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º-V.
-
-Ninguna norma podrá interpretarse en el sentido de implicar para el Estado, un grupo o persona, el derecho a abusar, destruir o suprimir los derechos o libertades reconocidos en el régimen interior del Estado.
-
-Los derechos y libertades fundamentales no podrán ser ejercidos ni garantizados en oposición a los valores, fines y principios de los derechos humanos.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º-W.
-
-El Estado debe de prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos en los términos que determine la ley.
-
-La tutela de los derechos humanos implica reparar las violaciones graves de los derechos humanos ocurridas dentro y fuera del Estado, por medio de los tribunales del Poder Judicial conforme al principio de territorialidad o la prueba de conexión relevante.
-
-Se establecerá un sistema de garantías prevalentes de acceso a la justicia con trato sensible a favor de las víctimas que resulten afectadas de manera grave por un delito de lesa humanidad o por la violación de sus derechos humanos. Este sistema de protección prevalente garantizará igualmente el derecho a la consulta popular en la justicia, la protección retrospectiva de la ley más favorable para las víctimas, así como los derechos a la verdad, la reparación integral, la memoria, la no repetición y demás derechos fundamentales de las víctimas.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º-X.
-
-Los tribunales y las personas juzgadoras deberán garantizar, según la naturaleza de cada juicio, la figura del amicus curiae en el debido proceso para posibilitar la cultura de los derechos humanos, la participación ciudadana, así como la opinión y colaboración de los expertos y la sociedad civil para deliberar en forma pública las cuestiones de justicia a resolver.
-
-Quien desee actuar como amicus curiae podrá hacerlo a través de cualquiera de los medios autorizados por la autoridad judicial conforme al derecho de participación ciudadana.
-
-Las personas juzgadoras podrán convocar de manera pública en los juicios que presidan o instruyan la recepción de escritos, comunicaciones, audiencias públicas, alegatos de proyectos públicos de sentencias o cualquier otra forma de justicia abierta, en los términos, condiciones y límites que autoricen durante el proceso.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-###### Artículo 7º-Y.
-
-El Tribunal Constitucional Local será competente conforme a la ley, para emitir opiniones o decisiones obligatorias acerca de la interpretación de esta Constitución, las Cartas de Derechos y sus Protocolos Adicionales, así como de sus proyectos legislativos.
-
-En todo caso, los jueces deberán garantizar la máxima publicidad de los juicios contra normas que planteen cuestiones constitucionales o convencionales de derechos humanos.
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2006)</small>
+
+#### Sección Primera. De la Seguridad Pública
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+#### Sección Segunda. De la Procuración de Justicia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 8º.
 
 En el Estado de Coahuila de Zaragoza, el ejercicio de los derechos fundamentales no tiene más límites que las disposiciones prohibitivas de la ley. De ésta emanan la autoridad de los que gobiernen y las obligaciones de los gobernados. En consecuencia, el ejercicio de la autoridad debe concretarse a las atribuciones determinadas en las leyes.
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2022)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO UNO DEL DECRETO NÚMERO 255, PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2022, SE DECLARA LA INVALIDEZ Y SE DEJA SIN EFECTOS LISA Y LLANAMENTE EL DECRETO 193 MEDIANTE EL CUAL SE REFORMARON Y ADICIONARON DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2022.]</small>
 
-Corresponde a los poderes públicos del estado y de los municipios y a los organismos públicos autónomos, promover e instrumentar las garantías necesarias para que sean reales, efectivas y democráticas, la libertad, la igualdad, la seguridad jurídica, la justicia social, la paridad y todos los derechos humanos reconocidos en el orden jurídico mexicano, de todas las personas y de los grupos en que se integran; facilitar su participación en la vida política, económica, cultural y social del estado; así como remover los obstáculos que impidan o dificulten el pleno desarrollo de estos derechos fundamentales.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
+
+Corresponde a los poderes públicos del estado y de los municipios y a los organismos públicos autónomos, promover e instrumentar las garantías necesarias para que sean reales, efectivas y democráticas, la libertad, la igualdad, la seguridad jurídica, la justicia social y todos los derechos humanos reconocidos en el orden jurídico mexicano, de todas las personas y de los grupos en que se integran; facilitar su participación en la vida política, económica, cultural y social del estado; así como remover los obstáculos que impidan o dificulten el pleno desarrollo de estos derechos fundamentales.
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2016)</small>
 
@@ -676,9 +366,11 @@ La solicitud al Congreso del Estado para estos fines, se formulará de conformid
 
 Son ciudadanos coahuilenses:
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2022)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO UNO DEL DECRETO NÚMERO 255, PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2022, SE DECLARA LA INVALIDEZ Y SE DEJA SIN EFECTOS LISA Y LLANAMENTE EL DECRETO 193 MEDIANTE EL CUAL SE REFORMARON Y ADICIONARON DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2022.]</small>
 
-I. Las personas nacidas en el Estado de Coahuila que hayan cumplido 18 años y tengan un modo honesto de vivir.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 1970)</small>
+
+I. Los varones y las mujeres nacidos en el Estado de Coahuila que hayan cumplido 18 años y tengan un modo honesto de vivir.
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
 
@@ -764,9 +456,9 @@ IV. Alistarse en la Guardia Nacional y servir en ella en los términos que desig
 
 Son derechos de los ciudadanos coahuilenses:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE ENERO DE 2022)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO UNO DEL DECRETO NÚMERO 255, PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2022, SE DECLARA LA INVALIDEZ Y SE DEJA SIN EFECTOS LISA Y LLANAMENTE EL DECRETO 193 MEDIANTE EL CUAL SE REFORMARON Y ADICIONARON DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2022.]</small>
 
-I. Votar y ser electa en condiciones de paridad por la vía partidista, para los empleos y cargos públicos en la forma y términos que prescriban las leyes; así como poder ser de manera libre candidato independiente en los términos que establezca la ley.
+I. Votar y ser electos para los empleos y cargos públicos en la forma y términos que prescriban las leyes.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
@@ -807,14 +499,6 @@ V. Por no cumplir con las prevenciones de las leyes del Registro Civil.
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
 VI. Por negarse a servir los cargos de elección popular sin causa justificada y calificada por quien corresponda. En este caso, la suspensión será por el tiempo que deba durar el cargo de que se trate y el remiso sufrirá, además, una sanción económica que fijará la ley de la materia.
-
-> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2022)</small>
-
-VII. Será causa de inelegibilidad para poder ser electo a los cargos de representación popular, la violencia de género declarada por condena penal o resolución de autoridad judicial competente que declare la violencia contra las mujeres, en los casos, condiciones y límites previstos en la ley.
-
-> <small>[N. DE E. ESTE PÁRRAFO PERTENECEA A LA FRACCIÓN VII DE ESTE ARTÍCULO, P.O. 21 DE ENERO DE 2022]</small>
-
-En la ley se establecerá un procedimiento ante la autoridad electoral local con formalidades esenciales, para que el Tribunal Electoral del Estado determine la privación del sufragio por razón de violencia de género por afectar la calidad de la ciudadania, las elecciones libres o los fines del gobierno representativo, conforme a la Carta de Derechos Políticos.
 
 ###### Artículo 21.
 
@@ -862,10 +546,6 @@ El Poder Público del Estado como expresión constitutiva, concreta y dinámica 
 
 El pueblo, en quien reside esencial y originariamente la soberanía que deposita formalmente en esta Constitución, tendrá siempre el derecho de elegir o nombrar, conforme a las leyes, a sus representantes en los poderes públicos del estado y de los municipios y de los organismos públicos autónomos, los cuales ejercerán sus funciones de acuerdo a los principios que establece la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-La Ley determinará las formas y las modalidades que correspondan, para observar el principio de paridad de género en el nombramiento de las y los titulares de las Secretarías del ramo del Poder Ejecutivo Estatal y Municipales. En la integración de los organismos autónomos se observará el mismo principio.
-
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2010)</small>
 
 ###### Artículo 27.
@@ -902,11 +582,11 @@ g) En la propaganda política o electoral que difundan, los partidos deberán ab
 
 h) La ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular, así como las reglas para las precampañas y campañas electorales;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE ENERO DE 2022)</small>
-
-i) En la postulación y registro de las candidaturas a la Gubernatura del Estado y al Congreso Estatal, los partidos políticos nacionales y locales garantizarán la paridad de género conforme a lo establecido en esta Constitución y el Código Electoral del Estado de Coahuila de Zaragoza.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO UNO DEL DECRETO NÚMERO 255, PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2022, SE DECLARA LA INVALIDEZ Y SE DEJA SIN EFECTOS LISA Y LLANAMENTE EL DECRETO 193 MEDIANTE EL CUAL SE REFORMARON Y ADICIONARON DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2022.]</small>
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+i) En la postulación y registro de candidatos a diputados del Congreso del Estado, los partidos garantizarán la paridad. Las autoridades electorales realizarán las acciones a efecto (sic) procurar la paridad en la integración del Congreso al realizar la asignación de los diputados de representación proporcional.
 
 En la postulación y registro de los candidatos a integrar los ayuntamientos, los partidos políticos garantizarán la paridad horizontal y vertical, para el registro de candidatos de mayoría y representación proporcional. Las autoridades electorales realizarán las acciones a efecto de salvaguardar la paridad en la integración del Ayuntamiento al realizar la asignación de representación proporcional.
 
@@ -945,14 +625,6 @@ g) El Instituto Electoral de Coahuila contará con una oficialía electoral inve
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 6. Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales y los relativos a plebiscitos y referendos, la ley establecerá un sistema de medios de impugnación del que conocerá el Tribunal Electoral del Estado de Coahuila de Zaragoza. En materia electoral la interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto reclamado. El Tribunal Electoral será órgano permanente, autónomo y máxima autoridad jurisdiccional electoral. Se integrará por tres Magistrados, que durarán en su encargo 7 años y cuya designación se realizará de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos y las Leyes en la Materia.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-El Tribunal Electoral del Estado de Coahuila podrá decretar la nulidad de la elección por la comisión de violencia política en razón de género siempre y cuando esté acreditado que dichas conductas se realizaron de manera grave, sistemática y generalizada e influyeron de manera determinante y objetiva en el desarrollo o resultado de un proceso electoral.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-Para ello se deberán analizar las circunstancias de tiempo, modo y lugar; la diferencia de votos entre primer y segundo lugar; la autoría material o intelectual de los hechos o su anonimato; la determinancia; la incidencia concreta en el proceso electoral y la afectación a los derechos político-electorales. La nulidad de una elección cuando resulte electa una mujer exigirá un estandar probatorio más estricto para asegurar el derecho a una vida libre de violencia política.
 
 7. La ley determinará las infracciones y responsabilidades en materia electoral; igualmente establecerá las conductas tipificadas como delitos electorales, así como las sanciones que deban imponerse en ambos casos.
 
@@ -1009,10 +681,6 @@ Elección e Instalación.
 ###### Artículo 32.
 
 Se deposita el ejercicio del Poder Legislativo en una Asamblea que se denominará Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-Los órganos de gobierno interno del Congreso se conformarán por diputaciones en forma paritaria en los términos que disponga la ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2010)</small>
 
@@ -1674,13 +1342,11 @@ LII. Ratificar el nombramiento del titular de la Secretaría responsable del con
 
 LIII. Nombrar al Titular de la Fiscalía Especializada en Delitos por Hechos de Corrupción en los términos de esta Constitución.
 
-> <small>(REFORMADA [N, DE E, ADICIONADA], P.O. 21 DE ENERO DE 2022)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO UNO DEL DECRETO NÚMERO 255, PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2022, SE DECLARA LA INVALIDEZ Y SE DEJA SIN EFECTOS LISA Y LLANAMENTE EL DECRETO 193 MEDIANTE EL CUAL SE REFORMARON Y ADICIONARON DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2022.]</small>
 
-LIV. Expedir leyes en materia de asentamientos humanos, movilidad y seguridad vial, en los términos de la Constitución Política de los Estados Unidos Mexicanos y demás ordenamientos legales aplicables en la materia.
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2017)</small>
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE ENERO DE 2022)</small>
-
-LV. Las demás que le confieran la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y los demás ordenamientos legales.
+LIV. Las demás que le confieran la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y los demás ordenamientos legales.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -1810,7 +1476,7 @@ La Auditoría Superior del Estado podrá solicitar y revisar, de manera casuíst
 
 Así mismo, en las situaciones excepcionales que determine la ley, podrá realizar directamente revisiones de conceptos específicos o requerir a las entidades que procedan a la revisión de los conceptos que estime pertinentes, durante el ejercicio en curso, a fin de que le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, dará lugar al fincamiento de las responsabilidades que correspondan. La Auditoría Superior del Estado rendirá un informe específico al Congreso del Estado, a través de la Comisión de Auditoría Gubernamental y Cuenta Pública y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 74-C.
 
@@ -1858,23 +1524,13 @@ VI. No haber figurado directa ni indirectamente en alguna asonada, motín o cuar
 
 VII. No haber sido condenado en juicio por robo, fraude, abuso de confianza, falsificación u otro delito infamante.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2022)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO UNO DEL DECRETO NÚMERO 255, PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2022, SE DECLARA LA INVALIDEZ Y SE DEJA SIN EFECTOS LISA Y LLANAMENTE EL DECRETO 193 MEDIANTE EL CUAL SE REFORMARON Y ADICIONARON DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2022.]</small>
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Artículo 77.
 
-La elección de la Gubernatura del Estado será directa y en los términos que señale la Ley de la materia; tomarán posesión el día primero de diciembre posterior a la elección y no podrán durar en el cargo más de seis años.
-
-> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 21 DE ENERO DE 2022)</small>
-
-Los partidos políticos con registro nacional y local deberán observar el principio de paridad de género en la postulación de candidaturas a la Gubernatura del Estado, de conformidad con lo siguiente:
-
-I. Si la persona Titular de la Gubernatura es hombre, todos los partidos políticos nacionales y locales, deberán postular a una mujer en el siguiente Proceso Electoral. Pero si la Gubernatura en turno recae en una mujer, dichos institutos estarán en la posibilidad de postular libremente a un hombre en el proceso electoral subsecuente o nuevamente a una mujer.
-
-II. Las coaliciones, candidaturas comunes o cualquier otra forma de asociación electoral prevista en ley, así como los partidos políticos nacionales y locales que participen por primera vez en un proceso electoral ordinario para renovar el Poder Ejecutivo del Estado, también estarán obligados a cumplir con el principio de paridad en los términos previstos en los párrafos anteriores.
-
-III. La regla prevista en la fracción I del presente artículo referente a la postulación exclusiva de mujeres, no será aplicable a las candidaturas independientes que se registren en el Proceso Electoral respectivo, con independencia del número que éstas sean.
-
-IV. Estas medidas afirmativas se interpretarán con base en el principio de igualdad de género y garantías de paridad, establecido en la Constitución del Estado y en las Cartas Fundamentales de Derechos Humanos, que son Ley Suprema en el Estado.
+La elección de Gobernador será directa y en los términos que señale la Ley de la materia. El Gobernador del Estado tomará posesión el día primero de diciembre posterior a la elección, y no podrá durar en el cargo más de seis años.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
@@ -2178,10 +1834,6 @@ Del Despacho de Gobierno.
 
 Para el desempeño de los asuntos que la presente Constitución encomienda al Ejecutivo, habrán las Secretarías del Ramo, las dependencias y organismos que señale la Ley Orgánica de la Administración Pública Estatal.
 
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-En la designación de las personas Titulares de las Secretarías del Ramo, se observará el principio de paridad de género en los términos que establezca la ley.
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 1988)</small>
 
 ###### Artículo 87.
@@ -2382,9 +2034,11 @@ De la Seguridad Pública y la Procuración de Justicia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)</small>
 
-#### Sección Primera. De la Seguridad Pública
+#### SECCION I.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+La División Territorial.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 108.
 
@@ -2462,9 +2116,9 @@ Los particulares podrán prestar servicios de seguridad privada previa autorizac
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)</small>
 
-#### Sección Segunda. De la Procuración de Justicia
+#### SECCIÓN II.. El Ayuntamiento y el Concejo Municipal
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 113.
 
@@ -2542,10 +2196,6 @@ V. En tanto se designe nuevo Fiscal General del Estado y rinda la protesta de le
 
 VI. El cargo será incompatible con cualquier otro empleo, cargo o comisión de carácter público o privado, así como con el ejercicio libre de la profesión de abogado. Sin embargo, podrá realizar labores docentes y actividades de investigación académica y/o científica, en los términos previstos por la ley de la materia.
 
-> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2022)</small>
-
-VII. En la integración de la Fiscalía General del Estado, se observará el principio de paridad de género en los términos que establezca la ley.
-
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
 ###### Artículo 115.
@@ -2588,11 +2238,17 @@ XVII. Expedir los reglamentos que requiera la procuración de justicia para hace
 
 XVIII. Las demás que le atribuyan las leyes.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE ENERO DE 2022)</small>
+#### SECCION III.
 
-#### Sección Tercera. De la búsqueda de personas
+La Competencia Municipal.
 
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+
+APARTADO PRIMERO.
+
+Bases Generales.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 115 Bis.
 
@@ -2794,10 +2450,6 @@ La competencia, organización y atribuciones del Tribunal Superior de Justicia, 
 
 El Tribunal Superior de Justicia se compondrá de dieciséis Magistrados y funcionará en Pleno o en Salas.
 
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-La ley establecerá la forma y los procedimientos mediante concursos abiertos en la integración de los órganos jurisdiccionales, observando el principio de paridad de género.
-
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2018)</small>
 
 Se establecerá una Sala Regional del Tribunal, cuya jurisdicción comprenderá los Distritos Judiciales de Torreón y San Pedro de las Colonias y tendrá la competencia que determine la propia ley. Esta Sala Regional se integrará por cinco Magistrados numerarios y cinco Magistrados supernumerarios. El Presidente de la Sala Regional será integrante del Pleno.
@@ -2977,10 +2629,6 @@ La lista de Candidatos podrá ser rechazada por el Ejecutivo en una sola ocasió
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
 En el caso de que el Congreso del Estado no apruebe un nombramiento, el Gobernador del Estado hará una nueva designación dentro de las propuestas, que surtirá sus efectos desde luego, como provisional y que será sometido a la aprobación del propio Congreso, en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los primeros cinco días, el Congreso deberá aprobar o desaprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente, continuará en sus funciones con el carácter de definitivo. Si el Congreso desecha el nombramiento, se reiterará el procedimiento, cesando desde luego en sus funciones el Magistrado Provisional.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-En la integración de todos los órganos del Poder Judicial y del Consejo de la Judicatura del Estado de Coahuila se observará el principio de paridad de género en los términos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
@@ -3399,32 +3047,6 @@ e) Las demás normas de carácter general, salvo las que dicte el Pleno del Trib
 f) La omisión normativa consistente en la falta de regulación legislativa o reglamentaria.
 
 4. Las resoluciones del Pleno del Tribunal Superior de Justicia sólo podrán declarar la invalidez de las normas impugnadas con efectos generales, siempre que fueren aprobadas por la mayoría absoluta de sus miembros y tendrá efectos de cosa juzgada en los términos que establezca la ley.
-
-> <small>(ADICIONADA [N. DE E. CON SUS NUMERALES], P.O. 21 DE ENERO DE 2022)</small>
-
-III. Del juicio local para la protección de los derechos humanos, el cual procederá en forma subsidiaria:
-
-1. Contra actos u omisiones de una autoridad responsable que presuntamente haya violado el interés jurídico, legítimo o difuso de una persona que pretenda la protección de sus derechos humanos previstos en esta Constitución, las Cartas de Derechos y sus Protocolos Adicionales;
-
-2. Contra actos de una autoridad responsable que omita o niegue en forma indebida aceptar una recomendación o informe de violaciones de derechos humanos emitida por la Comisión de Derechos Humanos del Estado de Coahuila, o habiéndola aceptado no realice todo lo necesario para reparar en forma efectiva las violaciones cometidas;
-
-3. Contra actos de una autoridad responsable que presuntamente viole de manera grave los derechos humanos, con el objeto de fincar las declaratorias de responsabilidad oficial que correspondan;
-
-4. Contra actos arbitrarios de un particular que ejerza una función o servicio público, o bien, realice actos de poder privado arbitrario que afecten el interés general de los derechos o dañe o ponga en riesgo real e inminente el disfrute de los derechos humanos, siempre y cuando en todos los casos se requiera de una tutela inmediata y efectiva;
-
-5. Para resolver las opiniones consultivas sobre proyectos de ley o de normas vigentes;
-
-6. Para resolver las acciones derivadas de violaciones graves a los derechos humanos, a fin de garantizar el derecho a una reparación integral en los términos que establezca esta Constitución, las Cartas de Derechos y sus Protocolos Adicionales;
-
-7. Contra la omisión normativa consistente en la falta de regulación legislativa o reglamentaria que vulnere la protección efectiva de los derechos humanos;
-
-8. Para resolver de la cuestión de constitucionalidad local cuando cualquier juez o autoridad tenga duda sobre la inaplicación de esta Constitución, las Cartas de Derechos y sus Protocolos Adicionales, por la no conformidad con las normas constitucionales locales;
-
-9. Para resolver, en casos de extrema gravedad y urgencia, las medidas provisionales que se consideren pertinentes para evitar daños irreparables a las personas en sus derechos y libertades fundamentales. Si se tratare de asuntos que aún no estén sometidos a su conocimiento, podrá actuar a solicitud de la Comisión de Derechos Humanos del Estado de Coahuila;
-
-10. En todos los demás casos locales de importancia y trascendencia constitucional en cualquier materia de derechos humanos, conforme lo disponga la ley.
-
-11. En todo caso, el Tribunal Constitucional Local podrá ejercer un escrutinio flexible para decidir conforme a la prueba de relevancia constitucional la procedencia del juicio local de protección de derechos humanos. También podrá establecer acuerdos generales para facilitar la aplicación e interpretación de sus precedentes a todos los tribunales y autoridades estatales y municipales.
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
@@ -4170,10 +3792,6 @@ VIII. No haber sido condenado en sentencia ejecutoria, por delito intencional, n
 
 El Congreso expedirá la ley en que se determine la organización y funcionamiento del Tribunal, así como su procedimiento y los recursos que procedan contra sus resoluciones.
 
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
-
-En la designación de las magistraturas integrantes del Tribunal de Justicia Administrativa del Estado de Coahuila, se observará el principio de paridad de género en los términos que establezca la ley.
-
 ## TITULO OCTAVO.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JULIO DE 2006)</small>
@@ -4550,15 +4168,13 @@ La Comisión de Derechos Humanos del Estado de Coahuila, se constituirá conform
 
 12. La Comisión de Derechos Humanos del Estado podrá presentar iniciativas de leyes o decretos al Congreso del Estado en materia de derechos fundamentales en los términos de los artículos 59 y 60 de esta Constitución. En este caso la iniciativa se presentará por conducto del presidente, previo acuerdo del Consejo.
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2022)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO UNO DEL DECRETO NÚMERO 255, PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2022, SE DECLARA LA INVALIDEZ Y SE DEJA SIN EFECTOS LISA Y LLANAMENTE EL DECRETO 193 MEDIANTE EL CUAL SE REFORMARON Y ADICIONARON DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2022.]</small>
 
-13. Todo servidor público está obligado a responder las recomendaciones que le presente este organismo. El Congreso del Estado o, en sus recesos, la Comisión Permanente, podrá llamar, a solicitud de este organismo, a las autoridades o servidores públicos responsables para que comparezcan ante dichos órganos legislativos, a efecto de que expliquen el motivo de su negativa, sin perjuicio del control jurisdiccional de las recomendaciones o informes previsto en esta Constitución.
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
+13. Formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que le presente este organismo. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, el Congreso del Estado o en sus recesos la Comisión Permanente, podrá llamar, a solicitud de este organismo, a las autoridades o servidores públicos responsables para que comparezcan ante dichos órganos legislativos, a efecto de que expliquen el motivo de su negativa.
 
-En la integración de la Comisión se observará el principio de paridad de género en los términos que establezca la ley.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2005)</small>
 
 ###### Artículo 195-A.
 
@@ -5964,6 +5580,8 @@ P.O. 2 DE OCTUBRE DE 2020.
 
 ÚNICO-. (SIC) El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO UNO DEL DECRETO NÚMERO 255, PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2022, SE DECLARA LA INVALIDEZ Y SE DEJA SIN EFECTOS LISA Y LLANAMENTE EL DECRETO 193 MEDIANTE EL CUAL SE REFORMARON Y ADICIONARON DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2022.]</small>
+
 P.O. 21 DE ENERO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DE LA PRIMERA PARTE: REFORMA CONSTITUCIONAL DE DERECHOS HUMANOS Y EXPEDICIÓN DE CARTAS DE DERECHOS DEL "DECRETO 193.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
@@ -6031,3 +5649,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 255.- CON BASE EN LOS ARTÍCULOS 158 DE LA CONSTITUCIÓN POLÍTICA DE COAHUILA, EN RELACIÓN CON 1, 2, 3, 6 Y 71, FRACCIÓN II, DE LA LEY DE JUSTICIA CONSTITUCIONAL LOCAL, SE DECLARA LA INCONSTITUCIONALIDAD DEL ACTO IMPUGNADO PRECISADO EN LA LITIS DE LA SENTENCIA Y POR TANTO, ES INVÁLIDA Y SE DEJA SIN EFECTOS LISA Y LLANAMENTE, EL DECRETO 193 APROBADO POR EL CONGRESO DEL ESTADO DE COAHUILA, MEDIANTE EL CUAL SE REFORMARON Y ADICIONARON DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN DEL ESTADO, POR TANTO, SU CONTENIDO Y ARTÍCULOS TRANSITORIOS DE TODOS LOS APARTADOS QUE SE PRECISAN NO SON VIGENTES DESDE EL DICTADO DE LA SENTENCIA EN CUESTIÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
