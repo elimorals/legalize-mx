@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2022-02-18"
+last_updated: "2022-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2022.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -4013,6 +4013,14 @@ Maltrato animal
 
 Comete el delito de maltrato quien, en el trato doméstico o laboral cotidiano, realice actos abusivos o negligentes, u omisiones, que menoscaben la integridad física de cualquier animal que no constituya plaga o peligro para la salud o vida humana, y se le impondrán de seis meses a un año de prisión y de veinte a doscientos días multa.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+Se equipará al maltrato animal, el abandono de un animal que no constituya plaga o peligro para la salud o vida humana, cuando el propietario, poseedor o responsable lo deje en situación de desamparo en la vía pública, en lugares de alto riesgo o en el propio domicilio.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+Se le impondrán de seis meses a un año de prisión y de veinte a doscientos días multa.
+
 ## TÍTULO VIGÉSIMO CUARTO. DELITOS CONTRA LA DEMOCRACIA ELECTORAL
 
 ###### Artículo 312.
@@ -4404,3 +4412,9 @@ P.O. 18 DE FEBRERO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 30 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 148 POR EL QUE "SE ADICIONA UN SEGUNDO Y UN TERCER PÁRRAFO AL ARTÍCULO 311 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
