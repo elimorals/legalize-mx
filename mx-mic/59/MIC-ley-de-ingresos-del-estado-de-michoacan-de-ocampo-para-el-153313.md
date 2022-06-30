@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-15331
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2021-12-27"
-last_updated: "2021-12-27"
+last_updated: "2022-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL 2022
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2022.
 
 Ley publicada en la Décima Tercera Sección al Número 33 del Periódico Oficial del Estado de Michoacán, el lunes 27 de diciembre de 2021.
 
@@ -2243,7 +2243,9 @@ III. En general, todas las operaciones de endeudamiento que comprendan obligacio
 
 Se autoriza al Ejecutivo del Estado, a través de la Secretaría de Finanzas y Administración, la contratación de financiamiento con la o las instituciones del sistema financiero mexicano, que ofrezcan las mejores condiciones de mercado, hasta por la cantidad de $470’000,000.00 (Cuatrocientos setenta millones de pesos 00/100 M.N.), a través de uno o varios créditos, a tasa fija, así como para realizar diversas operaciones y actos relacionados, bajo los siguientes términos:
 
-I. El financiamiento a que se refiere el presente artículo deberá destinarse, incluido en su caso el Impuesto al Valor Agregado, a obras, acciones sociales básicas y a inversiones que beneficien directamente a población en pobreza extrema, localidades con alto o muy alto nivel de rezago social conforme a lo previsto en la Ley General de Desarrollo Social, y en las zonas de atención prioritaria, y de manera particular a obras y acciones que beneficien preferentemente a la población de los municipios, demarcaciones territoriales y localidades que presenten mayores niveles de rezago social y pobreza extrema en la entidad en términos del artículo 33 de la Ley de Coordinación Fiscal, la normativa aplicable y que sean consideradas inversiones públicas productivas en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. Lo anterior, sin perjuicio de que del monto de financiamiento que decida contratar el Estado al amparo del presente artículo, observando el marco normativo aplicable, podrá en su caso destinarlo como recurso de contraparte, con las dependencias de los distintos órdenes de gobierno;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+I. El financiamiento a que se refiere el presente artículo deberá destinarse, incluido en su caso el Impuesto al Valor Agregado, a obras, acciones sociales básicas y a inversiones que beneficien directamente a población en pobreza extrema, localidades con alto o muy alto nivel de rezago social conforme a lo previsto en la Ley General de Desarrollo Social, y en las zonas de atención prioritaria, y de manera particular a obras y acciones que beneficien preferentemente a la población de los municipios, demarcaciones territoriales y localidades que presenten mayores niveles de rezago social y pobreza extrema en la Entidad en términos del artículo 33 de la Ley de Coordinación Fiscal, en cualquiera de los siguientes rubros de inversión: Agua potable, alcantarillado, drenaje, urbanización, electrificación rural y de colonias pobres, infraestructura básica del sector salud y educativo, conforme a la normativa aplicable y que sean consideradas inversiones públicas productivas en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. Lo anterior, sin perjuicio de que del monto de financiamiento que decida contratar el Estado al amparo del presente artículo, observando el marco normativo aplicable, podrá en su caso destinarlo como recurso de contraparte, con las dependencias de los distintos órdenes de gobierno;
 
 II. El financiamiento deberá pagarse en un plazo de hasta 6 (seis) años, contados a partir de la primera disposición, sin rebasar en ningún caso del 1 de septiembre de 2027. Los demás términos y condiciones se pactarán en los contratos respectivos, el financiamiento que se autoriza en el presente artículo se podrá contratar a través de la celebración de uno o varios créditos, a más tardar el 31 de diciembre 2022;
 
@@ -2299,7 +2301,9 @@ d) El 35 por ciento de honorarios referidos en esta ley, se determinarán y paga
 
 e) Por lo que corresponde a las tres primeras columnas (lado izquierdo) del Artículo 1° de esta Ley, la misma corresponde a la estructura de codificación considerada en el Clasificador por Rubro de Ingresos del Gobierno del Estado de Michoacán, el cual tiene su base en el Clasificador por Rubro de Ingresos, expedido por el Consejo Nacional de Armonización Contable. Por lo que la falta de continuidad en la numeración de la referida codificación, obedece a que alguna numeración se destina a los Ingresos de los Municipios y que no es aplicable al Estado;
 
-f) Con motivo del Canje General de placas que se llevará a cabo durante el ejercicio fiscal del año 2022, se hace del conocimiento a los propietarios de los vehículos de servicio público, particular y de motocicletas, que el plazo para llevar a cabo dicho canje, y todos aquellos pagos relacionados con la posesión de su vehículo de servicio público, particular y motocicleta, será de seis meses, a partir del 1° de enero hasta el 30 de junio del año 2022.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE JUNIO DE 2022)</small>
+
+f) Con motivo del Canje General de placas que se llevará a cabo durante el Ejercicio Fiscal del Año 2022, se hace del conocimiento a los propietarios de los vehículos de servicio público, particular y de motocicletas, que el plazo para llevar a cabo dicho canje, y todos aquellos pagos relacionados con la posesión de su vehículo de servicio público, particular y motocicleta, será de nueve meses, a partir del 1° de enero hasta el 30 de septiembre del año 2022.
 
 El plazo referido en el párrafo inmediato anterior, tratándose de vehículos de transporte público, considera también todos aquellos derechos señalados en el Artículo 19 de esta Ley, relativos a los Derechos por Servicios de Transporte Público;
 
@@ -2348,3 +2352,25 @@ ATENTAMENTE.- PRESIDENTA DE LA MESA DIRECTIVA.- DIP. ADRIANA HERNÁNDEZ ÍÑIGUE
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 27 veintisiete días del mes de diciembre del año 2021 dos mil veintiuno.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- LIC. ALFREDO RAMÍREZ BEDOLLA.- EL SECRETARIO DE GOBIERNO.- LIC. CARLOS TORRES PIÑA.- EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN.- L.A.E. LUIS NAVARRO GARCÍA. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 174.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 56 DE LA LEY DE INGRESOS DEL ESTADO DE MICHOAC+AN DE OCAMPO, PARA EL EJERCICIO FISCAL 2022”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al se su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Las autorizaciones contenidas en el presente Decreto se ajustan a la aprobación de las dos terceras partes de los miembros presentes del H. Congreso del Estado de Michoacán y se otorgaron previo análisis del destino, de la capacidad de pago del Estado, y del establecimiento de las fuentes de pago correspondientes.
+
+Tercero. Los actos jurídicos celebrados con anterioridad al presente Decreto al amparo al artículo 56 de la Ley de Ingresos del Estado de Michoacán de Ocampo, para el Ejercicio Fiscal del Año 2022, surtirán todos sus efectos legales desde la fecha de su celebración.
+
+Cuarto. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado y al titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, para sus efectos conducentes.
+
+P.O. 30 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 175.- SE REFORMA EL PRIMER PÁRRAFO DEL INCISO F) DEL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO, PARA EL EJERCICIO FISCAL 2022".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado y al titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, para sus efectos conducentes. Asimismo, notifíquese a las autoridades de tránsito estatales y municipales a efecto de que eviten actos de molestia a la ciudadanía durante el plazo y materia aprobados mediante este Decreto.
