@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-ingresos-del-estado-de-yucatan-para-el-ejercicio-153338"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2021-12-30"
-last_updated: "2021-12-30"
+last_updated: "2022-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153338&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE INGRESOS DEL ESTADO DE YUCATÁN PARA EL EJERCICIO FISCAL 2022
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE JUNIO DE 2022.
 
 Ley publicada en el Número 34,665 del Diario Oficial del Gobierno del Estado de Yucatán, el jueves 30 de diciembre de 2021.
 
@@ -65,7 +65,9 @@ Tabla 1. Clasificador por rubro de ingresos
 
 Rubros Conceptos Totales
 
-Iniciativa de Ley de Ingresos 46,038,050,321
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2022)</small>
+
+Iniciativa de Ley de Ingresos $ 47,773,050,321.00
 
 1 Impuestos 2,785,616,196
 
@@ -815,25 +817,45 @@ Rubros Conceptos Totales
 
 9.7.1 Transferencias del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo 0
 
-0 Ingresos Derivados de Financiamientos 0
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2022)</small>
 
-0.1 Endeudamiento Interno 0
+0 Ingresos Derivados de Financiamientos $ 1,735,000,000.00
 
-0.1.1 Empréstitos con Fuente de Pago de Participaciones 0
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2022)</small>
 
-0.1.2 Empréstitos con Fuente de Pago de Aportaciones 0
+0.1 Endeudamiento Interno $ 0.00
 
-0.2 Endeudamiento Externo 0
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2022)</small>
 
-0.2.1 Empréstitos con Fuente de Pago de Participaciones 0
+0.1.1 Empréstitos con Fuente de Pago de Participaciones $ 0.00
 
-0.2.2 Empréstitos con Fuente de Pago de Aportaciones 0
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2022)</small>
 
-0.3 Financiamiento Interno 0
+0.1.2 Empréstitos con Fuente de Pago de Aportaciones $ 0.00
 
-0.3.1 Empréstitos con Fuente de Pago de Participaciones 0
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2022)</small>
 
-0.3.2 Empréstitos con Fuente de Pago de Aportaciones 0
+0.2 Endeudamiento Externo $ 0.00
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2022)</small>
+
+0.2.1 Empréstitos con Fuente de Pago de Participaciones $ 0.00
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2022)</small>
+
+0.2.2 Empréstitos con Fuente de Pago de Aportaciones $ 0.00
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2022)</small>
+
+0.3 Financiamiento Interno $ 1,735,000,000.00
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2022)</small>
+
+0.3.1 Financiamiento Interno con afectación de recursos $ 1,735,000,000.00
+
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2022)</small>
+
+0.3.2 Deuda estatal garantizada $ 0.00
 
 En los casos en que una ley establezca alguno de los ingresos previstos en este artículo, y contenga disposiciones que señalen otros ingresos, estos últimos se considerarán comprendidos en el rubro, tipo o clase que corresponda a los ingresos del primero.
 
@@ -1172,3 +1194,27 @@ Secretaria general de Gobierno
 > <small>[N. DE E. VEÁSE ANEXO II EN EL D.O. DE 30 DE DICIEMBRE DEL 2021, PÁGINA 35.]</small>
 
 > <small>[N. DE E. VEÁSE ANEXO III EN EL D.O. DE 30 DE DICIEMBRE DEL 2021, PÁGINA 36.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 30 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 526/2022 POR EL QUE SE AUTORIZA AL PODER EJECUTIVO DEL ESTADO DE YUCATÁN PARA CONTRATAR EN LOS EJERCICIOS FISCALES 2022 Y 2023 UNO O VARIOS FINANCIAMIENTOS PARA DESTINARLOS A INVERSIONES PÚBLICAS PRODUCTIVAS Y SE MODIFICA LA LEY DE INGRESOS DEL ESTADO DE YUCATÁN PARA EL EJERCICIO FISCAL 2022”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Inscripción en los registros
+
+El financiamiento o los financiamientos que se contraten al amparo de este decreto se deberán inscribir en el Registro de Empréstitos y Obligaciones del Estado de Yucatán, a cargo de la Secretaría de Administración y Finanzas, y en el Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios, a cargo de la Secretaría de Hacienda y Crédito Público.
+
+Artículo tercero. Adecuaciones presupuestales
+
+El Poder Ejecutivo del estado, con base en la autorización a que se refiere este decreto, y a efecto de prever el monto o partidas para el servicio de la deuda que contraiga al contratar el o los financiamientos autorizados, deberá realizar las adecuaciones presupuestales respectivas y las adecuaciones relativas al ejercicio de los recursos derivados del o los financiamientos, de conformidad con las disposiciones establecidas en la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán y su reglamento.
+
+El Poder Ejecutivo del Estado aplicará los recursos derivados del o los financiamientos autorizados en el presente decreto, a través de la asignación o transferencia a las dependencias o entidades de la Administración Pública estatal encargadas de ejecutar la obra pública, infraestructura carretera, o desarrollo urbano, metropolitano y de movilidad o cualquier otra obra o erogación conexa del proyecto “IETRAM y Obras Complementarias”.
+
+Artículo cuarto. Análisis de destino y capacidad de pago
+
+Este decreto fue aprobado por el voto de, al menos, dos terceras partes de las diputadas y los diputados presentes en la sesión respectiva del Congreso del Estado de Yucatán, de conformidad con el artículo 117, fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos, y previo análisis del destino de los recursos autorizados al amparo de este decreto, de la capacidad de pago y de la situación de la deuda pública del estado de Yucatán, y de los recursos a otorgarse como fuente de pago.
