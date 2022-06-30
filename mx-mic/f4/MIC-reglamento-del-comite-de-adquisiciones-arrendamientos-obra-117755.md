@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-del-comite-de-adquisiciones-arrendamientos-obra-1177
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-12-02"
-last_updated: "2016-12-02"
+last_updated: "2022-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO DEL COMITE DE ADQUISICIONES, ARRENDAMIENTOS, OBRA PUBLICA Y SERVICIOS DEL CONSEJO DEL PODER JUDICIAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADO EN EL P.O. DE 30 DE JUNIO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 REGLAMENTO DEL COMITÉ DE ADQUISICIONES, ARRENDAMIENTOS, OBRA PÚBLICA Y SERVICIOS DEL CONSEJO DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2022 (DEROGADO).
 
 Reglamento publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el viernes 2 de diciembre de 2016.
 
@@ -666,3 +668,15 @@ Morelia, Michoacán, a 23 de noviembre de 2016.
 Rúbricas. Lic. María Alejandra Pérez González, actuando como Presidenta sustituta; Lic. Rafael Argueta Mora, Consejero; Lic. Armando Pérez Gálvez, Consejero; Mtro. Jaime del Río Salcedo, Consejero; Lic. Elí Rivera Gómez, Consejero; Lic. Soledad Alejandra Ornelas Farfán, Secretaria Ejecutiva. Seis firmas ilegibles. Doy fe.
 
 Se expide la presente para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo. Morelia, Michoacán, uno de diciembre de dos mil dieciséis. Doy Fe. (Firmado).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. Publíquese el presente Reglamento en el Periódico Oficial del Estado de Michoacán y en la página electrónica oficial del Poder Judicial del Estado de Michoacán.
+
+Segundo. El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+Tercero. Se deroga el Reglamento del Comité de Adquisiciones, Arrendamientos, Obra Pública y Servicios del Consejo del Poder Judicial del Estado de Michoacán de Ocampo emitido por el Pleno del mencionado Consejo en sesión ordinaria celebrada el veintitrés de noviembre de dos mil dieciséis.
