@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-desarrollo-urbano-del-estado-de-michoacan-de-58038"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-12-26"
-last_updated: "2018-05-11"
+last_updated: "2022-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2022.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 26 de diciembre de 2007.
 
@@ -2167,6 +2167,10 @@ La determinación de reservas contendrá la delimitación de las áreas de expan
 
 La persona física o jurídica, pública o privada, que pretenda realizar obras, acciones, servicios o inversiones en materia de desarrollo urbano en el Estado, deberá obtener previa a la ejecución de dichas obras, la licencia de uso del suelo y las autorizaciones o permisos que expidan los ayuntamientos, por si o a través de su dependencia municipal.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+Los ayuntamientos, por sí o a través de la instancia municipal correspondiente, emitirán las licencias de uso de suelo, las autorizaciones y los permisos tomando siempre en consideración la prestación de los servicios públicos de agua potable, alcantarillado, saneamiento, alumbrado público, accesos y vialidades.
+
 ###### ARTÍCULO 148.
 
 La licencia de uso del suelo, con base en la zonificación prevista en los programas de desarrollo urbano, señalará los usos o destinos de áreas y predios, sus compatibilidades y restricciones. Asimismo condicionará la expedición de los subsiguientes permisos o licencias que se deriven de la normatividad urbana aplicable y no constituyen apeo y deslinde respecto del inmueble, ni acreditan la propiedad o posesión del mismo.
@@ -2545,9 +2549,11 @@ IV. Áreas de Donación; y
 
 V. Procedimientos, tiempos y requisitos para las licencias de uso de suelo, vistos buenos de lotificación y vialidad y autorizaciones definitivas de Desarrollos y desarrollos en condominio.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 199.
 
-La Secretaría difundirá las normas técnicas de desarrollo urbano para que todas las autorizaciones que expidan los ayuntamientos en materia de ordenamiento territorial de los asentamientos humanos y de desarrollo urbano, sean congruentes con los programas de desarrollo urbano y demás normatividad aplicable.
+La Secretaría difundirá las normas técnicas de desarrollo urbano para que todas las autorizaciones que expidan los ayuntamientos, en materia de ordenamiento territorial de los asentamientos humanos, de desarrollo urbano, uso de suelo y factibilidad de prestación de servicios públicos, sean congruentes con los programas de desarrollo urbano y demás normatividad aplicable.
 
 ###### ARTÍCULO 200.
 
@@ -3205,7 +3211,9 @@ IV. La clasificación de los usos y destinos del suelo, en función del grado de
 
 V. Las normas de control de los usos y destinos del suelo específicos de los lotes; indicando los grados de compatibilidad, incompatibilidad o condicionados en cada zona;
 
-VI. En los programas de desarrollo urbano, reglamentos municipales de desarrollo urbano o en las disposiciones de carácter general que al efecto expidan los ayuntamientos, los usos y destinos del suelo permitidos, condicionados y prohibidos, señalando las condiciones y requerimientos para cada uso del suelo;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+VI. En los programas de desarrollo urbano, reglamentos municipales de desarrollo urbano o en las disposiciones de carácter general que al efecto expidan los ayuntamientos, los usos y destinos del suelo permitidos, condicionados y prohibidos, señalando, las condiciones y requerimientos para cada uso del suelo, así como las obligaciones de cada una de las dependencias y organismos municipales para favorecer y garantizar la prestación de servicios públicos;
 
 VII. Las normas de control de densidad de las edificaciones, definiendo por cada tipo de zona secundaria lo siguiente:
 
@@ -4391,6 +4399,12 @@ VII. Uso del suelo, lote tipo y densidad máxima; y,
 
 VIII. Diseño de las vialidades.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+###### ARTÍCULO 346 Bis.
+
+Los ayuntamientos, en coadyuvancia con el Gobierno del Estado, cada uno en su ámbito de competencia, establecerán las acciones correspondientes a cada uno para favorecer la prestación de los servicios públicos.
+
 ###### ARTÍCULO 347.
 
 La licencia de uso de suelo, tendrá la vigencia del programa de desarrollo urbano del cual derivó.
@@ -4398,6 +4412,10 @@ La licencia de uso de suelo, tendrá la vigencia del programa de desarrollo urba
 ###### ARTÍCULO 348.
 
 Recibida la solicitud la Dependencia Municipal, emitirá la resolución en un plazo no mayor de diez días hábiles, pudiendo ser positiva, positiva condicionada o negativa. De ser positiva otorgará la licencia de uso del suelo y en su caso, establecerá las condicionantes a cumplir.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+De ser positiva condicionada, la Dependencia Municipal señalará puntualmente, en la misma resolución, las obligaciones y acciones que corresponda realizar al solicitante, por sí o en coadyuvancia con las autoridades, dando prioridad a aquellas que permitan privilegiar la prestación óptima y oportuna de los servicios públicos.
 
 ###### ARTÍCULO 349.
 
@@ -4487,7 +4505,9 @@ VIII. Aprobación del proyecto de instalaciones de los sistemas de alcantarillad
 
 IX. Estudio de mecánica de suelos con diseño de pavimentos, elaborado por laboratorio acreditado ante la Dependencia Municipal;
 
-X. En caso de que se requiera la perforación de pozos, para el suministro de agua potable, obtener de la Comisión Nacional del Agua, la autorización y concesión para la explotación del mismo;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+X. En caso de que se requiera la perforación de pozos, adjuntar la solicitud para obtener de la Comisión Nacional del Agua, la autorización para la perforación; correspondiendo al Organismo Operador de Agua Potable del Municipio distribuir las asignaciones de aguas nacionales, conforme a la autorización referida;
 
 XI. En caso de que el Desarrollo o desarrollo en condominio colinde con carreteras federales o estatales se presentará el proyecto de entroncamiento, aprobado por la autoridad competente;
 
@@ -4505,7 +4525,7 @@ e. Las especificaciones y procedimientos generales de construcción que detallen
 
 f. La propuesta de modalidad de las obras de urbanización;
 
-g. La propuesta del precio de venta de las viviendas, departamentos, lotes, locales o unidades urbanizadas; y,
+g. (DEROGADO, P.O. 30 DE JUNIO DE 2022)
 
 h. Precios unitarios, presupuesto total y calendario de las obras de urbanización a realizarse en el Desarrollo o desarrollo en condominio;
 
@@ -5572,3 +5592,9 @@ P.O. 11 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 555.- SE REFORMAN LOS ARTÍCULOS 119, 297 Y 330; Y SE DEROGA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 321, EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 322, EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 326 Y EL ARTÍCULO 342 DEL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 30 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NUMERO 161.- ARTÍCULO PRIMERO.- SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 147; SE REFORMA EL ARTÍCULO 199, LA FRACCIÓN VI DEL ARTÍCULO 281; SE ADICIONA EL ARTÍCULO 346 BIS, EL PÁRRAFO SEGUNDO AL ARTÍCULO 348; SE REFORMA LA FRACCIÓN X Y SE DEROGA EL INCISO G) DE LA FRACCIÓN XII DEL ARTÍCULO 351 DEL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN.- ARTÍCULO SEGUNDO.- SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 4°, LOS ARTÍCULOS 41 Y 42; Y, SE ADICIONAN LAS FRACCIONES I BIS Y XVI BIS, AL ARTÍCULO 45 DE LA LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
