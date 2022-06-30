@@ -4,7 +4,7 @@ identifier: "BCS-ley-estatal-para-la-inclusion-de-las-personas-con-98209"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-27"
-last_updated: "2019-12-20"
+last_updated: "2022-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY ESTATAL PARA LA INCLUSION DE LAS PERSONAS CON DISCAPACIDAD EN BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ESTATAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2022.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 27 de enero de 2014.
 
@@ -57,7 +59,9 @@ Las personas con discapacidad tendrán los derechos y obligaciones que establece
 
 Para los efectos de la presente ley, se entenderá por:
 
-I.- Accesibilidad: Condición que deben cumplir los entornos, bienes, productos, servicios, los sistemas y las tecnologías de la información y las comunicaciones para asegurar que las personas con discapacidad puedan vivir en forma independiente y participar plenamente en todos los aspectos de la vida en igualdad de condiciones;
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2022)</small>
+
+I.- Accesibilidad: Medidas necesarias para asegurar el acceso e inclusión de las personas con discapacidad, en igualdad de condiciones, al entorno físico, los bienes, productos y servicios, así como las tecnologías de la información y las comunicaciones.
 
 II.- Administración Pública Estatal: dependencias, órganos desconcentrados, organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos;
 
@@ -621,7 +625,9 @@ IV.- Conservar en buen estado y libres de todo obstáculo, las rampas construida
 
 V.- Autorizar o negar el permiso o licencia de construcción a los establecimientos privados con acceso al público, con el objetivo de que cumplan con los espacios y la accesibilidad para las personas con discapacidad:
 
-VI.- Vigilar que los establecimientos públicos cuenten con los espacios necesarios para que las personas con discapacidad tengan el acceso seguro y fácil de los espacios públicos;
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2022)</small>
+
+VI.- Vigilar que los establecimientos públicos cuenten con los espacios necesarios para que las personas con discapacidad tengan un acceso digno y seguro a los espacios públicos;
 
 VII.- Gestionar y vigilar ante las autoridades y empresas respectivas, la colocación de teléfonos públicos accesibles para personas con discapacidad, así como procurar la colocación de protectores para tensores de postes y cubiertas para coladeras, con sus respectivos señalamientos;
 
@@ -631,7 +637,9 @@ IX.- Instruir a las entidades del gobierno municipal a que instrumenten acciones
 
 X.- Promover campañas permanentes para la sensibilización de la sociedad respecto a los derechos de las personas con discapacidad que contribuyan a crear una cultura de respeto a su dignidad;
 
-XI.- Establecer en los programas de obras públicas y desarrollo urbano, así como en sus respectivos presupuestos, los ajustes razonables que permitan lograr la accesibilidad universal en la vía pública;
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2022)</small>
+
+XI.- Establecer en los programas de obras públicas y desarrollo urbano, así como en sus respectivos presupuestos, los ajustes razonables que permitan lograr la accesibilidad universal en la vía pública, lugares públicos de esparcimiento y playas, y
 
 XII.- Vigilar el cumplimiento en el ámbito de su competencia de la presente ley y demás disposiciones legales aplicables en la materia.
 
@@ -1606,3 +1614,11 @@ B.O. 20 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2652 SE REFORMA Y ADICIONA EL ARTÍCULO 74 DE LA LEY ESTATAL PARA LA INCLUSIÓN DE PERSONAS CON DISCAPACIDAD EN BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 30 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2838 SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 3, ASÍ COMO LAS FRACCIONES VI Y XI DEL ARTÍCULO 33 DE LA LEY ESTATAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor el 01 de enero de 2023.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
