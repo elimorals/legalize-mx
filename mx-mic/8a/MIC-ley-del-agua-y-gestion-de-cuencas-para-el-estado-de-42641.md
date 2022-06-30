@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-agua-y-gestion-de-cuencas-para-el-estado-de-42641"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2018-08-20"
+last_updated: "2022-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 27 de diciembre de 2004.
 
@@ -223,7 +223,9 @@ VIII. La gestión integrada de los recursos hídricos por cuenca hidrológica, s
 
 IX. El aprovechamiento del agua debe realizarse con eficiencia y debe promoverse su reúso y recirculación;
 
-X. El Estado promoverá que los municipios a través de sus órganos competentes y convenios y acuerdos que estos determinen, se hagan responsables de la prestación de los servicios hidráulicos y de la gestión de las aguas nacionales en cantidad y calidad que tengan asignadas o concesionadas; en particular, el Estado establecerá las medidas necesarias para mantener una adecuada calidad del agua para consumo humano y con ello incidir en la salud pública;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+X. El Estado promoverá que los municipios a través de sus órganos competentes y convenios y acuerdos que estos determinen, se hagan responsables de la prestación de los servicios públicos, los servicios hidráulicos y de la gestión ante la CNA de los volúmenes de asignación de aguas nacionales en cantidad y calidad que tengan o que deban ser asignadas o concesionadas; en particular, el Estado establecerá las medidas necesarias para mantener una adecuada calidad del agua para consumo humano y con ello incidir en la salud pública;
 
 XI. La gestión del agua debe generar recursos económicos y financieros necesarios para realizar sus tareas inherentes, bajo el principio de que “el agua paga el agua”;
 
@@ -885,13 +887,17 @@ En caso de que los municipios no pudieren prestar los servicios públicos, podr�
 
 #### SECCIÓN I. DE LOS ORGANISMOS OPERADORES MUNICIPALES
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
+
 ###### Artículo 41.
 
-Los servicios públicos de agua potable, alcantarillado y saneamiento y la construcción y operación de la infraestructura hidráulica correspondiente que estén a cargo de los municipios, se prestarán y se realizarán por conducto de los organismos operadores respectivos, las juntas locales municipales o en su caso por la Comisión, en términos de la presente Ley.
+Los servicios públicos de agua potable, alcantarillado y saneamiento, la gestión de la obtención de los Títulos de Asignación de los derechos de extracción de volúmenes de aguas nacionales para la satisfacción del consumo humano de los centros de población, y la construcción y operación de la infraestructura hidráulica correspondiente que estén a cargo de los municipios, se prestarán, ejecutarán y realizarán por conducto de los organismos operadores respectivos, las juntas locales municipales o en su caso por la Comisión, en términos de la presente Ley.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
 
 ###### Artículo 42.
 
-Los ayuntamientos podrán solicitar asesoría a la Comisión para la creación de organismos operadores municipales, intermunicipales y juntas locales municipales, de conformidad con lo previsto en esta Ley.
+Los ayuntamientos y los organismos operadores de agua potable podrán solicitar asesoría a la Comisión para la gestión de todos aquellos actos jurídicos y obras materiales necesarias para la atención de los servicios públicos de agua potable, alcantarillado y saneamiento que deban efectuarse frente a las autoridades federales competentes; asimismo, los ayuntamientos podrán solicitarla para la creación de organismos operadores municipales, intermunicipales y juntas locales municipales, de conformidad con lo previsto en esta Ley.
 
 ###### Artículo 43.
 
@@ -908,6 +914,10 @@ Los organismos operadores municipales contratarán directamente los créditos qu
 El organismo operador municipal tendrá a su cargo:
 
 I. Planear y programar en el municipio, el funcionamiento de sistemas de captación, potabilización, conducción, almacenamiento y distribución de agua potable, alcantarillado y saneamiento y manejo de lodos;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+I Bis. Gestionar frente a la CNA y cualquier otra autoridad federal competente la obtención de los Títulos de Asignación para la explotación, uso o aprovechamiento de aguas nacionales que hayan de ser destinados al servicio público urbano y doméstico, así como aquellos apoyos o acciones para la atención de las necesidades que en materia de servicios públicos tengan los centros de población ubicados en su demarcación municipal.
 
 II. Proporcionar los servicios de agua potable, alcantarillado y saneamiento, a los centros de población y núcleos de población de las zonas urbanas y rurales del municipio que le corresponda, en términos de los convenios y contratos que para ese efecto se celebren;
 
@@ -942,6 +952,10 @@ XIV. Resolver en su caso, los recursos y demás medios de impugnación interpues
 XV. Solicitar a las autoridades competentes, la expropiación, ocupación temporal, total o parcial de bienes o la limitación de los derechos de dominio, en los términos de la Ley de Expropiación del Estado;
 
 XVI. Realizar por sí o por terceros las obras para agua potable, alcantarillado y saneamiento de su demarcación territorial y recibir las que se construyan en la misma, así como dictaminar los proyectos de dotación de agua y supervisar la construcción de dichas obras;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+XVI Bis. Celebrar convenios mediante los cuales se ejecuten las obras de infraestructura necesarias para la dotación y la prestación de los servicios públicos con aquellas instancias públicas o actores privados que mediante planeación, ejecución o construcción desarrollen centros de población, unidades de población o desarrollos habitacionales; proporcionando, mediante el pago de los derechos correspondientes, los volúmenes de extracción de agua necesarios, asumiendo una vez concluidas las obras la prestación del servicio público de agua potable, alcantarillado y saneamiento en esa zona;
 
 XVII. Cubrir oportunamente las contribuciones, derechos, aprovechamientos y productos que establezca la legislación fiscal aplicable;
 
@@ -2076,3 +2090,9 @@ P.O. 20 DE AGOSTO DE 2018.
 PRIMERO. El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, a los 112 Ayuntamientos del Estado y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y efectos conducentes.
+
+P.O. 30 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 161.- ARTÍCULO PRIMERO.- SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 147; SE REFORMA EL ARTÍCULO 199, LA FRACCIÓN VI DEL ARTÍCULO 281; SE ADICIONA EL ARTÍCULO 346 BIS, EL PÁRRAFO SEGUNDO AL ARTÍCULO 348; SE REFORMA LA FRACCIÓN X Y SE DEROGA EL INCISO G) DE LA FRACCIÓN XII DEL ARTÍCULO 351 DEL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN.- ARTÍCULO SEGUNDO.- SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 4°, LOS ARTÍCULOS 41 Y 42; Y, SE ADICIONAN LAS FRACCIONES I BIS Y XVI BIS, AL ARTÍCULO 45 DE LA LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
