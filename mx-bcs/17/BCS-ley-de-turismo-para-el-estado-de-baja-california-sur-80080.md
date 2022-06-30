@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-turismo-para-el-estado-de-baja-california-sur-80080"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-20"
-last_updated: "2021-07-31"
+last_updated: "2022-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2022.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California, el lunes 20 de diciembre de 2010.
 
@@ -199,13 +199,17 @@ XXVII.- Ruta Turística.- Es un circuito temático o geográfico que se basa en 
 
 XXVIII.- Turismo Gastronómico: Es la actividad turística que comprende la visita a comunidades y regiones del estado, con el fin de probar la cocina del lugar y/o realizar actividades relacionadas con la gastronomía;
 
-> <small>(ADICIONADA, B.O. 31 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2022)</small>
 
-XXIX.- Turismo Médico: Es aquel que tiene como fin que el Turista pueda realizar actividades de prevención y cuidado de la salud aprovechando los avances de infraestructura y atención médica con que cuente el Estado, y
+XXIX.- Turismo Médico: Es aquel que tiene como fin que el Turista pueda realizar actividades de prevención y cuidado de la salud aprovechando los avances de la infraestructura y atención médica con que cuente el Estado;
 
-> <small>(ADICIONADA, B.O. 31 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2022)</small>
 
-XXX.- Turismo Accesible: Es una política pública que incorpora el principio de accesibilidad a través del diseño universal, en las instalaciones turísticas de manera que las personas con discapacidad y los adultos mayores, puedan acceder a las instalaciones en igualdad de condiciones, con la mayor autonomía posible;
+XXX.- Turismo Accesible: Es una política pública que incorpora el principio de accesibilidad a través del diseño universal, en las instalaciones turísticas de manera que las personas con discapacidad y adultos mayores, puedan acceder a las instalaciones en igualdad de condiciones, con la mayor autonomía posible, y
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2022)</small>
+
+XXXI.- Turismo Náutico-deportivo: Conjunto de actividades turísticas relacionadas con la navegación o que se combinan con esta, con fines recreativos, deportivos o de descanso.
 
 ## TÍTULO SEGUNDO. DE LA CONCURRENCIA Y COMPETENCIA DE AUTORIDADES
 
@@ -541,7 +545,7 @@ La Secretaría, y los Ayuntamientos, supervisarán que lo dispuesto en este cap�
 
 ## TÍTULO CUARTO. DE LA PROMOCIÓN, DEL FOMENTO A LA ACTIVIDAD TURÍSTICA, DE LA INCORPORACIÓN DE LA ACTIVIDAD TURÍSTICA A LAS CADENAS PRODUCTIVAS Y RECONOCIMIENTOS
 
-### CAPÍTULO II. Del Fomento a la Actividad Turística, de la Incorporación de la Actividad Turística a las Cadenas Productivas
+### CAPÍTULO II. Del Fomento a la Actividad Turística y su Incorporación a las Cadenas Productivas
 
 ###### Artículo 21.
 
@@ -593,7 +597,7 @@ En los eventos que señala el artículo anterior, la Secretaría procurará que 
 
 La Secretaría participará en las campañas de promoción turística que ofrece el Estado de Baja California Sur, dirigidas al turismo nacional y extranjero.
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE JUNIO DE 2022)</small>
 
 ### CAPÍTULO III. Del Premio Estatal de Turismo
 
@@ -631,13 +635,17 @@ VIII.- Turismo de deporte motor fuera de camino;
 
 IX.- Turismo gastronómico;
 
-> <small>(ADICIONADA, B.O. 31 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2022)</small>
 
-X.-Turismo Médico, y
+X.- Turismo Médico;
 
-> <small>(ADICIONADA, B.O. 31 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2022)</small>
 
-XI.- Turismo Accesible.
+XI.- Turismo Accesible, y
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2022)</small>
+
+XII.- Turismo Náutico-deportivo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2019)</small>
 
@@ -1098,3 +1106,9 @@ B.O. 31 DE JULIO DE 2021.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 30 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2837 SE REFORMAN LAS FRACCIONES XXIX Y XXX Y SE ADICIONA UNA FRACCIÓN XXXI AL ARTÍCULO 5; SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO CUARTO; SE REFORMAN LAS FRACCIONES X Y XI Y SE ADICIONA UNA FRACCIÓN XII AL ARTÍCULO 27, TODOS DE LA LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
