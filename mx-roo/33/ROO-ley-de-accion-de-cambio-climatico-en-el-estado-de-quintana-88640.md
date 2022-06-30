@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-accion-de-cambio-climatico-en-el-estado-de-quintana-8864
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-29"
-last_updated: "2015-10-30"
+last_updated: "2022-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE ACCION DE CAMBIO CLIMATICO EN EL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE AGOSTO DE 2022 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE ACCIÓN DE CAMBIO CLIMÁTICO EN EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2022.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 29 de marzo de 2012.
 
@@ -41,35 +43,31 @@ LEY DE ACCIÓN DE CAMBIO CLIMÁTICO EN EL ESTADO DE QUINTANA ROO
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés general; sus disposiciones son de observancia obligatoria en todo el Estado de Quintana Roo, en concurrencia con los Municipios y la Sociedad Civil.
+La presente Ley es de orden público e interés general, sus disposiciones son de observancia obligatoria en todo el Estado de Quintana Roo y tiene por objeto:
 
-La presente Ley tiene por objeto:
+I. Garantizar el derecho humano a un medio ambiente sano mediante la formulación, conducción y evaluación de la Política Estatal en materia de cambio climático;
 
-I. Preservar el derecho de todas las personas a un medio ambiente adecuado para su desarrollo y bienestar;
+II. Regular las acciones para un desarrollo bajo en emisiones de gases de efecto invernadero, a fin de alcanzar y mantener la neutralidad de emisiones de los mismos, y promover la transición hacia una economía competitiva, sustentable y un desarrollo bajo en carbono;
 
-II. Establecer la competencia del Estado y de los municipios en la elaboración y aplicación de políticas públicas para la adaptación al cambio climático y la mitigación de emisiones de gases y compuestos de efecto invernadero;
+III. Reducir la vulnerabilidad de la población y de los ecosistemas del Estado, así como aumentar la resiliencia a los efectos adversos del cambio climático;
 
-III. Fomentar las acciones para la mitigación y adaptación al cambio climático en el Estado;
+IV. Establecer la competencia del Estado y de los municipios en la elaboración y aplicación de políticas públicas para la adaptación al cambio climático y la mitigación de emisiones de gases y compuestos de efecto invernadero, así como la coordinación que éstos tendrán con la Federación en el cumplimiento de acciones relativas a la atención del Cambio Climático;
 
-IV. Vincular la planeación del Ordenamiento Ecológico Territorial con las acciones de mitigación y adaptación al cambio climático;
+V. Prevenir y controlar las emisiones de gases y compuestos de efecto invernadero de origen antrópico que no sean de competencia federal;
 
-V. Desarrollar políticas públicas de desarrollo urbano que fomenten acciones de mitigación y adaptación al cambio climático;
+VI. Promover la participación de los sectores público y privado en el cumplimiento de las Contribuciones Nacionalmente Determinadas;
 
-VI. Reducir la vulnerabilidad de la población y de los ecosistemas del Estado frente a los efectos adversos del cambio climático;
+VII. Establecer las bases y lineamientos para la elaboración del Programa Estatal de Cambio Climático, la integración del Registro Estatal de Emisiones y el funcionamiento del Sistema de Medición, Reporte y Verificación-Monitoreo y Evaluación como herramientas de implementación de la Política Estatal en materia de cambio climático, y
 
-VII. Prevenir y controlar las emisiones de gases y compuestos de efecto invernadero de origen antrópico que no sean de competencia federal;
+VIII. Asistir y promover el desarrollo de estrategias de mitigación y reducción de gases de efecto invernadero en el Estado, a fin de contribuir con la Federación al cumplimiento de los compromisos internacionales adquiridos en materia de cambio climático.
 
-VIII. Fomentar la educación, investigación, desarrollo y transferencia de tecnología e innovación y difusión en materia de adaptación y mitigación al cambio climático en el Estado;
+En la interpretación de esta ley serán reconocidos e incorporados, para efectos de las actuaciones del Estado y los Municipios, las convenciones los acuerdos y los instrumentos, nacionales o internacionales, en materia de cambio climático, derechos humanos y justicia ambiental.
 
-IX. Establecer las bases para la participación y concertación social;
-
-X. Promover la transición hacia un desarrollo sustentable y de bajas emisiones de carbono, y
-
-XI. En lo no previsto por esta Ley y los ordenamientos específicos que señale, se aplicarán de manera supletoria y complementaria los ordenamientos federales y estatales en materia ambiental.
+En todo lo no previsto por esta Ley, se aplicarán la Ley General de Cambio Climático, y todas las demás normas estatales o municipales relativas a la materia de esta Ley.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -77,21 +75,49 @@ XI. En lo no previsto por esta Ley y los ordenamientos específicos que señale,
 
 Para efectos de esta Ley, se entenderá por:
 
-I. Adaptación: Medida encaminada a reducir la vulnerabilidad de los sistemas naturales y humanos ante los efectos del cambio climático.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+I. Adaptación: Adaptación: A las Medidas y ajustes en sistemas humanos y naturales, como respuesta a estímulos climáticos, proyectados o reales a sus efectos, que puedan moderar el daño o aprovechar sus aspectos beneficiosos encaminados a reducir la vulnerabilidad de los sistemas naturales y humanos ante los efectos del cambio climático;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+I-A. Acuerdo de Escazú: Al Acuerdo Regional sobre el Acceso a la Información, la Participación Pública y el Acceso a la Justicia en Asuntos Ambientales en América Latina y el Caribe;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+I-B. Acuerdo de París: Al Convenio adoptado durante el vigésimo primer período de sesiones de la Conferencia de las Partes de la Convención Marco de las Naciones Unidas sobre el Cambio Climático;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+I-C. Adaptación basada en ecosistemas: Al impulso a la protección, la restauración y la gestión sostenible de los ecosistemas para ayudar a las comunidades a reducir su vulnerabilidad e incrementar su resiliencia frente a la variabilidad y el cambio climático, es un enfoque de adaptación que orienta cómo trabajar con la naturaleza ante los eventos climáticos;
 
 II. Atlas de Riesgo: Documento dinámico cuyas evaluaciones de riesgo en asentamientos humanos, regiones o zonas geográficas vulnerables, consideran los actuales y futuros escenarios climáticos;
 
-III. Autoridades Estatales y Municipales: La Administración Pública Central y Paraestatal del Estado y los Municipios.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
 
-IV. Azotea Verde: El techo de un inmueble que esta parcial o totalmente cubierto de vegetación, ya sea en suelo o en un medio de cultivo apropiado, los cuales pueden consistir en un sistema integral compuesto por varias capas de materiales diseñados para proteger el inmueble contra daños ocasionados por la exposición del medio ambiente, y promover el crecimiento de vegetación en dichas áreas, o aquellas que principalmente son acondicionadas como áreas verdes o con motivos ornamentales y que cuenta con una baja diversidad de plantas, con poco requerimiento de mantenimiento y acondicionamiento arquitectónico y estructural;
+III. Autoridades Estatales y Municipales: A la Administración Pública Central y Paraestatal del Estado y los Municipios del Estado de Quintana Roo;
+
+IV. (DEROGADA, P.O. 30 DE JUNIO DE 2022)
 
 V. Cambio Climático: Variación del clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial y que se suma a la variabilidad natural del clima observada durante periodos de tiempo comparables;
 
 VI. Clima: Estado medio de los elementos meteorológicos de una localidad, considerado en un espacio largo de tiempo;
 
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+VI-A. CND: A las Contribuciones Nacionalmente Determinadas para cumplir los objetivos del Acuerdo de París por parte del Estado Mexicano;
+
 VII. Comisión: Comisión Estatal de Cambio Climático de Quintana Roo;
 
 VIII. Compra verde: Integración del componente medioambiental en la toma de decisiones de compra de bienes y contratación de servicios;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+VIII-A. Consejo: Al Consejo Consultivo de Ecología que dispone la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+VIII-B. ECUSBEQROO: A la estrategia para la conservación y el uso sustentable de la biodiversidad del Estado de Quintana Roo;
 
 IX. Efectos Adversos del Cambio Climático: Variaciones bruscas en el medio ambiente resultantes del cambio climático, que tienen efectos nocivos significativos en la composición, capacidad de recuperación, productividad de los ecosistemas, en la salud y bienestar humano y en el funcionamiento de los sistemas socioeconómicos;
 
@@ -101,49 +127,131 @@ XI. Emisiones: La liberación de gases de efecto invernadero en la atmósfera;
 
 XII. Estado: Estado de Quintana Roo;
 
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+XII-A. Fondo: Al Fondo Estatal de Protección al Ambiente;
+
 XIII. Fuentes Emisoras: Todo proceso, actividad, servicio o mecanismo que libere un gas o compuesto de efecto invernadero en la atmósfera, sean de organización, establecimiento o instalación, pública o privada, así como de fuentes móviles, fijas o semifijas;
 
-XIV. Gases de Efecto Invernadero: Componentes gaseosos de la atmósfera, tanto naturales como antropógenos, que absorben y remiten radiación infrarroja y que están incluidos en el Anexo A del Protocolo de Kioto: Dióxido de carbono (CO2), Metano (CH4), Óxido nitroso (N2O), Hidrofluorocarbonos (HFC), Perfluorocarbonos (PFC) y Hexafluoruro de azufre (SF6);
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+XIV. GyCEI: A los Gases y Compuestos de Efecto Invernadero de origen antropogénico, que absorben y emiten radiación infrarroja, cuyo incremento de concentración en la atmósfera es causante del efecto invernadero y del Cambio Climático;
 
 XV. Ley: Ley de Acción de Cambio Climático en el Estado de Quintana Roo;
 
-XVI. Mitigación: Medida ambiental destinada a reducir, absorber o capturar las emisiones de gases o compuestos de efecto invernadero y mejorar los sumideros de gases de efecto invernadero;
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+XV-A. Marco Reforzado de Transparencia: Al conjunto de reglas para que los países reporten sus avances en la implementación de sus compromisos en el Acuerdo de París;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+XVI. Mitigación: A la aplicación de las Políticas y acciones destinadas a reducir las emisiones de las fuentes, o mejorar los sumideros de gases y compuestos de efecto invernadero;
 
 XVII. Normas Técnicas Ambientales: Disposiciones de carácter obligatorio en el Estado, que tienen por objeto establecer los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de actividades que causen o puedan causar desequilibrio ecológico o daño al ambiente; para prevenir, reducir, mitigar, y en su caso, compensar los efectos adversos o alteraciones que se ocasionen o puedan ocasionar al ambiente y sus recursos, así como considerar las condiciones necesarias para reorientar los procesos y tecnologías de protección al ambiente y al desarrollo sustentable;
 
-XVIII. Ordenamiento Ecológico Territorial: Instrumento normativo que regula el uso territorial, definiendo los usos posibles para las diversas áreas en que se ha dividido el territorio regional y local, de conformidad con lo previsto en la Ley de Equilibrio Ecológico y la Protección del Ambiente del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+XVIII. Ordenamiento Ecológico Territorial del Estado: Al instrumento de política ambiental que regula e induce el uso del suelo de las diversas áreas en las que se divide el territorio regional y local;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+XVIII-A. Plan Energético: Al Plan Estatal para el Fomento de la Eficiencia Energética y del Aprovechamiento de las Fuentes de Energía Renovables;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+XVIII-B. Principios bioclimáticos: Aquellos que prevalecen en el diseño de obra civil o arquitectónica, privilegiando el uso de materiales de bajo impacto ecológico, y que consideran las condiciones climáticas locales, aprovechando los recursos libres como viento, sol, agua y biodiversidad para reducir los impactos ambientales y el consumo de energía;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+XVIII-C. Procuraduría: A la Procuraduría de Protección al Ambiente;
 
 XIX. Programa Estatal: Programa Estatal de Acción ante el Cambio Climático; que contempla, en concordancia con el marco legal de planeación, en forma ordenada y coherente, estrategias, políticas directrices y tácticas en tiempo y espacio, así como los instrumentos, mecanismos y acciones a realizar para la mitigación de emisiones y procesos de adaptación ante el Cambio Climático;
 
-XX. Programa Municipal: Programa Municipal de Cambio Climático;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
 
-XXI. Protocolo de Kioto: Tratado Internacional ligado a la Convención Marco de las Naciones Unidas sobre el Cambio Climático que establece mecanismos y medidas para limitar o reducir las emisiones de gases efecto invernadero;
+XX. Programa Municipal: Al Programa de Acción Climática de los municipios;
+
+XXI. (DEROGADA, P.O. 30 DE JUNIO DE 2022)
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+XXI-A. Registro Estatal de Emisiones: Al Registro Estatal de Emisiones de Gases y Compuestos de Efecto Invernadero;
 
 XXII. Reglamento: Reglamento de la Ley de Acción de Cambio Climático en el Estado de Quintana Roo;
 
 XXIII. Secretaría: Secretaría de Ecología y Medio Ambiente;
 
-XXIV. Servicios Ambientales: Condiciones y procesos a través de los cuales los ecosistemas naturales y las especies que los forman mantienen y satisfacen la vida del ser humano;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
 
-XXV. Sumidero de Carbono: Cualquier proceso, actividad o mecanismo que absorbe un gas de efecto invernadero de la atmósfera; y
+XXIV. Servicios Ambientales: Aquellos que la naturaleza o los procesos ecológicos proveen a los seres vivos y al planeta;
 
-XXVI. Vulnerabilidad: Nivel al que un sistema es susceptible, o no es capaz de soportar, los efectos adversos del cambio climático, incluida la variabilidad climática y los fenómenos extremos. La vulnerabilidad está en función del carácter, magnitud y velocidad de la variación climática al que se encuentra expuesto un sistema, su sensibilidad, y su capacidad de adaptación.
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+XXIV-A. Sistema MRV-ME: Al Sistema de Medición, Reporte y Verificación-Monitoreo y Evaluación para el seguimiento y registro del avance de las acciones de mitigación y de adaptación en materia de cambio climático del Estado, de acuerdo con lo establecido en el Programa Estatal;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+XXIV-B. Soluciones basadas en la naturaleza: A las Acciones que se apoyan en los ecosistemas y los servidos que estos proveen, para responder a diversos desafíos de la sociedad como el cambio climático, la seguridad alimentaria o el riesgo de desastres;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+XXV. Sumidero de Carbono: A cualquier proceso, actividad o mecanismo que absorbe un gas o compuesto de efecto invernadero de la atmósfera en mayor medida que lo que expulsa;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+XXVI. Vulnerabilidad: Al nivel al que un sistema es susceptible, o no es capaz de soportar, los efectos adversos del cambio climático, incluida la variabilidad climática y los fenómenos extremos.
+
+La vulnerabilidad está en función del carácter, magnitud y velocidad de la variación climática al que se encuentra expuesto un sistema, su sensibilidad y su capacidad de adaptación, y
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+XXVII. Transversalidad: A la articulación de políticas públicas, programas, proyectos y acciones a lo largo de la administración pública estatal para disminuir el volumen de gases y compuestos de efecto invernadero y estar mejor adaptados como Estado ante los efectos negativos del Cambio Climático, con mayor capacidad de resiliencia ante los eventos hidrometeorológicos extremos, pasando de una planeación sectorizada a una coordinada e integral, coherente y sistematizada, atendiendo la realidad ambiental y climática, y haciendo de ésta el eje central del desarrollo que orienta la toma de decisiones.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+El Estado y los municipios en el ámbito de sus competencias establecerán los incentivos fiscales y administrativos que así consideren, de conformidad con lo dispuesto en las disposiciones legales y reglamentarias que al efecto se emitan.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
 
 ###### Artículo 3.
 
-Las disposiciones de la presente Ley serán de aplicación en todos los sectores, en especial en los sectores energético, industrial, habitacional, turístico y de servicios, agropecuario, forestal y pesquero, el transporte, el desarrollo urbano y la ordenación del territorio, las obras públicas, los servicios de tratamiento y abastecimiento de aguas, la producción y gestión de residuos competencia del Estado y municipios, los sistemas naturales y la biodiversidad, en términos de las leyes estatales en la materia respectiva.
-
-Son destinatarios de esta Ley, y en consecuencia deberán cumplir con lo establecido en sus disposiciones, las autoridades estatales y municipales, así como las personas físicas y morales de naturaleza privada que realicen actividades en el Estado.
-
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
-
-El Estado con los municipios y estos entre sí, con acuerdo de sus ayuntamientos podrán coordinarse y/o asociarse para una eficiente implementación de las disposiciones previstas en la presente Ley.
+El Estado con los municipios y estos entre sí, con acuerdo de sus ayuntamientos podrán coordinarse o asociarse para una eficiente implementación de las disposiciones previstas en la presente Ley.
 
 ### CAPÍTULO II. De los Criterios Generales para la Definición de Políticas de Mitigación y Adaptación
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
+
 ###### Artículo 4.
 
-Los habitantes del Estado deberán participar, de manera ordenada y activa, en la mitigación y prevención de la vulnerabilidad ante el cambio climático.
+Las personas que habitan el Estado deberán participar, de manera ordenada y activa, en la mitigación, adaptación y en la prevención de la vulnerabilidad ante el cambio climático, a través del Consejo.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+###### Artículo 4 Bis.
+
+Las políticas, planes, programas, normas, acciones y demás instrumentos que se dicten o ejecuten en el marco de la presente Ley, atenderán los siguientes principios:
+
+a) De desarrollo sostenible: Implementar medidas de adaptación acordes con las políticas nacionales adoptadas por la Federación, para aumentar la capacidad de adaptación a los efectos adversos del cambio climático, a fin de lograr un desarrollo que garantice el equilibrio entre el crecimiento económico, el cuidado del medio ambiente y el bienestar social con bajas emisiones de GyCEI.
+
+b) Científico: Las medidas de mitigación y adaptación se adoptarán sobre la base de la mejor evidencia científica disponible.
+
+c) Costo-beneficio: Se dará prioridad a aquellas medidas que sean más eficaces en los temas de mitigación y adaptación al cambio climático, y que además representen menores costos económicos, ambientales y sociales.
+
+d) Complementación: Las acciones y medidas de adaptación deberán guardar congruencia con las acciones de mitigación al cambio climático.
+
+e) Derechos humanos: Las medidas que se adopten para atender el cambio climático, deberán respetar, promover y tener en cuenta los derechos humanos como el derecho a la salud, derecho a un medio ambiente sano, los derechos de los pueblos indígenas, las comunidades locales, los niños y las niñas, las personas con discapacidad y las personas en situaciones vulnerables y el derecho al desarrollo; así como la equidad de género con impactos y contribuciones diferenciadas, el empoderamiento de la mujer y la equidad intergeneracional.
+
+f) No regresión: Cuando las condiciones tecnológicas, ambientales, económicas o sociales lo requieran, los programas, estrategias y demás medidas que se implementen para enfrentar los efectos adversos del cambio climático, podrán ser modificadas, siempre que no se comprometan o disminuyan los objetivos de mitigación y/o adaptación establecidos.
+
+g) Precautorio: Cuando existan antecedentes que permitan anticipar un peligro de daño grave o irreversible, la falta de certeza científica absoluta no deberá utilizarse como razón para postergar la adopción de medidas eficaces en función de los costos para impedir los efectos adversos del cambio climático.
+
+h) Prevención: Consideración de los medios más eficaces para evitar los daños al medio ambiente y preservar el equilibrio ecológico ante los efectos del cambio climático.
+
+i) Prioridad: Las estrategias, criterios, acciones y medidas de adaptación y mitigación que se adopten, deberán priorizar las necesidades de los grupos sociales con mayor vulnerabilidad al cambio climático.
+
+j) Progresividad: Las medidas tendientes a combatir el cambio climático deberán avanzar gradualmente con el fin de cumplir con el objeto de esta ley.
+
+k) Transversalidad: En la integración de los programas, proyectos, estrategias y demás medidas que se establezcan e implementen en materia de cambio climático, se realizará de forma coordinada entre el Estado y sus municipios, así como con la participación del sector privado, la academia y la sociedad civil.
 
 ###### Artículo 5.
 
@@ -153,9 +261,11 @@ En la definición de los objetivos y metas de adaptación, las autoridades estat
 
 Considerarán los escenarios de vulnerabilidad actual y futura ante el cambio climático, atendiendo de manera preferencial a la población más vulnerable y a las zonas de mayor riesgo, así como a las islas, zonas costeras, humedales, zonas inundables, cuevas inundadas y cenotes.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
+
 ###### Artículo 6.
 
-Quienes realicen programas de investigación y de desarrollo tecnológico y social deberán considerar temas relacionados al cambio climático, así como la creación de fondos concurrentes para financiar la realización de proyectos relativos.
+Quienes realicen programas de investigación y de desarrollo tecnológico y social deberán considerar temas relacionados al cambio climático, así como la creación de fondos concurrentes al Fondo para financiar la realización de proyectos relativos.
 
 ###### Artículo 7.
 
@@ -163,21 +273,27 @@ Para enfrentar los retos del cambio climático, se atenderán de manera priorita
 
 ### CAPÍTULO III. Competencias en Materia de Acción de Cambio Climático
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
+
 ###### Artículo 8.
 
 Son autoridades en materia de cambio climático en el Estado, en el ámbito de sus respectivas competencias:
 
-I. El Titular del Poder Ejecutivo Estatal;
+I. La persona Titular del Poder Ejecutivo Estatal;
 
-II. El Titular de la Secretaria;
+II. La persona Titular de la Secretaría;
 
-III. Los Ayuntamientos;
+III. La persona Titular de la Procuraduría de Protección al Ambiente;
 
-IV. El Titular de la Dirección General de Protección Civil;
+IV. Los Ayuntamientos;
 
-V. La Comisión; y
+V. La persona Titular de la Dirección General de Protección Civil;
 
-VI. Las demás que con ese carácter señalen otros ordenamientos legales, en materia ecológica o ambiental.
+VI. La Comisión y sus integrantes; y
+
+VII. Las demás que con ese carácter señalen otros ordenamientos legales, en materia ecológica o ambiental.
+
+Las autoridades en materia de cambio climático en el Estado son las responsables de formular, conducir, evaluar y vigilar la política estatal y municipal en materia de cambio climático, en los términos que señala esta Ley y demás disposiciones jurídicas aplicables.
 
 En todo caso, las competencias y funciones serán ejercidas por las autoridades estatales y municipales, de conformidad con los principios de coordinación, corresponsabilidad, eficacia y transparencia, en cuya consecución tendrá un papel fundamental la Secretaría y la Comisión, como órganos de promoción, impulso y seguimiento de las políticas, planes, proyectos y demás acciones que desde los distintos ámbitos y sectores de la administración y de la sociedad se lleven a cabo en materia de acción de cambio climático.
 
@@ -191,23 +307,33 @@ Las autoridades en materia de cambio climático en el Estado serán las encargad
 
 Corresponde a la Secretaría, el ejercicio, de manera enunciativa más no limitativa de las siguientes funciones:
 
-I. Elaborar el Programa Estatal, de conformidad con lo aprobado por la Comisión para su diseño e instrumentación;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+I. Formular, publicar, implementar, monitorear y evaluar el Programa Estatal con su correspondiente Sistema MRV-ME y el Registro Estatal de Emisiones, de conformidad con lo establecido en esta Ley y su Reglamento;
 
 II. Elaborar informes de seguimiento sobre el cumplimiento de los objetivos que se establezcan en el Programa Estatal en materia de mitigación y de adaptación;
 
-III. Elaborar, publicar y actualizar el atlas estatal de riesgos, en coordinación con sus municipios, conforme a los criterios emitidos por la federación.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+III. Colaborar en la actualización y publicación del atlas estatal de riesgo con la dependencia responsable de éste, en coordinación con sus municipios, conforme a los criterios emitidos por la federación;
 
 IV. Coordinar la política estatal de acción de cambio climático;
 
-V. Ejercer la potestad sancionadora en las materias de su competencia;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
 
-VI. Coordinarse con la Comisión;
+V. Coadyuvar con la Procuraduría en el cumplimiento de sus funciones sancionatorias;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+VI. Coordinar a la Comisión;
 
 VII. Emitir opinión respecto a la elaboración y actualización del Inventario de Emisiones de Gases de Efecto Invernadero en el Estado;
 
 VIII. Establecer las bases técnicas y jurídicas que se requieran para fomentar la participación de empresas en las acciones de mitigación y adaptación al cambio climático en el Estado;
 
-IX. Promover, difundir y en su caso, aprobar proyectos de mitigación de Emisiones, en términos del Mercado, del Protocolo de Kioto, así como de otros instrumentos firmados y ratificados por el Gobierno Federal que estén orientados al mismo objetivo;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+IX. Promover, difundir y en su caso, aprobar proyectos de mitigación de Emisiones, en términos del Mercado, así como de aquellos establecidos en los acuerdos internacionales ratificados de los que el Estado mexicano forme parte y que estén orientados al mismo objetivo;
 
 X. Establecer instrumentos económicos, para promover inversiones y cambios de conducta en actividades industriales, comerciales y de servicios, que generan Emisiones de Efecto Invernadero, así como para otorgar incentivos a quien realice acciones para la protección, preservación o restauración del equilibrio climático;
 
@@ -221,11 +347,29 @@ XIV. Plantear propuestas de actuación a todos aquellos órganos que ostenten co
 
 XV. Promover la coordinación y realizar las labores de seguimiento pertinentes de las políticas de mitigación y de adaptación al cambio climático y de todas aquellas actuaciones que, en relación con la acción de cambio climático, sean desarrolladas por el Gobierno Estatal, siguiendo las directrices establecidas en la planeación correspondiente y atendiendo siempre al conocimiento disponible de la vulnerabilidad, riesgo derivado de ésta y medidas de adaptación a adoptar;
 
-XVI. Colaborar con los municipios en la elaboración e Instrumentación de sus Programas Municipales mediante la asistencia técnica;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
 
-XVII. Difundir en la página de Internet prevista en el artículo 41 de esta Ley, en el mes de septiembre, un informe anual de actividades sobre los resultados de mitigación de emisiones y de adaptación al cambio climático, y
+XVI. Colaborar con los municipios en la elaboración e instrumentación de sus Programas Municipales de Acción Climática mediante la asistencia técnica;
 
-XVIII. Las demás que establezca esta Ley, demás leyes en la materia y en las disposiciones que de ésta Ley se deriven.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+XVII. Difundir en la página web institucional de Internet prevista en el artículo 41 de esta Ley, en el mes de septiembre, un informe anual de actividades sobre los resultados de mitigación de emisiones y de adaptación al cambio climático;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+XVII-A. Convocar al Consejo al menos una vez al año para informar y consultar sobre las acciones que se hayan realizado o pretendan realizar en relación al Programa Estatal y los programas sectoriales en materia de cambio climático;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+XVII-B. Identificar las emisiones de GyCEI en las evaluaciones de los informes de impacto ambiental de proyectos que se desarrollen en el Estado;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+XVII-C. Establecer medidas para la disminución de las emisiones de GyCEI, así como la compensación de aquellas imposibles de evitar, en los resolutivos en materia de impacto y riesgo ambiental competencia del Estado; y
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+XVIII. Las demás que establezca esta Ley, demás leyes y ordenamientos en la materia y en las disposiciones que de esta Ley se deriven.
 
 > <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -235,27 +379,43 @@ Corresponde a los Ayuntamientos, las siguientes atribuciones:
 
 I. Formular, conducir y evaluar la política municipal en materia de cambio climático en concordancia con la política nacional y estatal;
 
-II. Formular, dirigir, monitorear, evaluar, vigilar y publicar el Programa Municipal de Cambio Climático, de acuerdo con las recomendaciones que emita la Comisión;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
 
-III. Formular e instrumentar acciones para enfrentar al cambio climático en las siguientes materias:
+II. Formular, dirigir, monitorear, evaluar, vigilar y publicar el Programa Municipal de Acción Climática, de acuerdo con las recomendaciones que emita la Comisión;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE JUNIO DE 2022)</small>
+
+III. Formular e implementar acciones para enfrentar al cambio climático, e integrarlas en los instrumentos correspondientes en las siguientes materias:
 
 a) Supervisión del servicio de agua potable y saneamiento;
 
 b) Ordenamiento Ecológico Municipal;
 
-e) Programas de Desarrollo Urbano;
+c) Programas de Desarrollo Urbano;
 
 d) Fuentes Emisoras de su competencia;
 
 e) Recursos Naturales y Protección al ambiente de su competencia;
 
-f) Protección Civil; y,
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
 
-g) Manejo Integral de Residuos Sólidos Urbanos;
+f) Protección Civil;
 
-IV. Suscribir convenios de coordinación o concertación con ciudadanos, empresariales, educativas, con organizaciones de la sociedad civil, institutos de investigación, en materia de cambio climático;
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
 
-V. Aplicar las estrategias, programas, proyectos integrales de mitigación y adaptación al cambio climático para impulsar el transporte eficiente y sustentable, público y privado;
+g) Manejo Integral de Residuos Sólidos Urbanos, y
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+h) Áreas Naturales Protegidas.
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+IV. Suscribir convenios de coordinación o concertación con ciudadanos, iniciativa privada, con organizaciones de la sociedad civil, institutos educativos y de investigación, en materia de cambio climático;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+V. Aplicar las estrategias, programas, proyectos integrales de mitigación y adaptación al cambio climático, para impulsar un sistema de transporte eficiente y sustentable entre los sectores público y privado;
 
 VI. Realizar campañas de educación e información, en coordinación con el gobierno estatal y federal, para sensibilizar a la población sobre los efectos adversos del cambio climático;
 
@@ -273,7 +433,9 @@ XII. Elaborar, actualizar y publicar el Atlas Municipal de Riesgo tomando en con
 
 XIII. Prevenir la degradación y promover la conservación e incremento de carbono en la vegetación, suelo, y ecosistemas terrestres y acuáticos, así como crear y mantener áreas de conservación ecológica;
 
-XIV. Expedir los reglamentos municipales en la materia, con el objeto de vigilar, verificar, inspeccionar y sancionar, en el ámbito de su competencia, el cumplimiento de la presente Ley;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+XIV. Expedir reglamentos municipales en materia de cambio climático, con el objeto de cumplir con la aplicación de las disposiciones contenidas en la presente Ley;
 
 XV. Gestionar recursos para el Fondo Municipal de Cambio Climático;
 
@@ -281,77 +443,85 @@ XVI. Realizar Estudios sobre la vulnerabilidad actual y futura ante el cambio cl
 
 XVII. Promover acciones que agilicen el tráfico vehicular en sus municipios para reducir emisiones que provocan cambio climático; y,
 
-XVIII. Las demás que señale ésta Ley y las disposiciones jurídicas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE JUNIO DE 2022)</small>
+
+XVIII. Coadyuvar con la Procuraduría, en la aplicación de sanciones que deriven del incumplimiento de la presente Ley y su Reglamento, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE JUNIO DE 2022)</small>
+
+XIX. Las demás que señale esta Ley y las disposiciones jurídicas aplicables.
 
 ### CAPÍTULO IV. De la Comisión
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
+
 ###### Artículo 11.
 
-La Comisión con carácter permanente, es un órgano interinstitucional de coordinación, seguimiento y evaluación del Programa Estatal así como responsable de la coordinación gubernamental en la formulación e instrumentación de políticas públicas en materia de cambio climático para el Estado y sus resoluciones y opiniones son de carácter obligatorio para las dependencias y entidades de la administración pública estatal.
+La Comisión con carácter permanente, es un órgano interinstitucional de coordinación, seguimiento y evaluación del Programa Estatal, así como responsable de la coordinación gubernamental en la formulación e instrumentación de políticas públicas en materia de cambio climático para el Estado. Sus resoluciones y opiniones son de carácter obligatorio para las dependencias y entidades de la administración pública estatal.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
 
 ###### Artículo 12.
 
-La Comisión se integrara de la siguiente manera:
+La Comisión se integrará de la siguiente manera:
 
-I. Titular del Poder Ejecutivo, quien fungirá como su Presidente;
+I. Una Presidencia, que será depositada en la persona titular del Poder Ejecutivo;
 
-II. Titular de la Secretaría de Ecología y Medio Ambiente quien será el coordinador;
+II. Una Coordinación, que será ejercida por la persona titular de la Secretaría de Ecología y Medio Ambiente;
 
-III. Un Secretario Técnico nombrado por el Presidente a propuesta del Coordinador;
+III. Una Secretaría Técnica, que será depositada en la persona titular de la dependencia que determine la Presidencia a propuesta de la Coordinación;
 
-IV. Vocales de la Administración Pública Estatal, que serán los titulares de las siguientes Dependencias, Entidades y Órganos Desconcentrados:
+IV. Vocalías, que serán ejercidas por quienes representen a las dependencias de la Administración Pública central y entidades siguientes:
 
 a) Secretaría de Gobierno;
 
-b) Secretaría de Planeación y Desarrollo Regional;
+b) Secretaría de Finanzas y Planeación;
 
-c) Secretaría de Hacienda;
+c) Secretaría de Desarrollo Económico;
 
-d) Secretaría de Desarrollo Económico;
+d) Secretaría de Desarrollo Agropecuario, Rural y Pesca;
 
-e) Secretaría de Desarrollo Agropecuario, Rural e Indígena;
+e) Secretaría de Salud;
 
-f) Secretaría de Salud;
+f) Secretaría de Turismo;
 
-g) Secretaría de Turismo;
+g) Secretaría de Obras Públicas;
 
-h) Secretaría de Infraestructura y Transporte;
+h) Secretaría de Desarrollo Territorial Urbano Sustentable;
 
-i) Secretaría de Desarrollo Urbano;
+i) Secretaría de la Contraloría;
 
-j) Dirección General de Protección Civil
+j) Coordinación Estatal de Protección Civil;
 
-k) Comisión de Agua Potable y Alcantarillado;
+k) Comisión de Energía del Estado;
 
-l) Comisión de Energía del Estado;
+l) Comisión de Agua Potable y Alcantarillado del Estado de Quintana Roo;
 
-m) Consejo Estatal de Población;
+m) Consejo Quintanarroense de Ciencia y Tecnología;
 
-n) Consejo Quintanarroense de Ciencia y Tecnología;
+n) Consejo Estatal de Población;
 
-o) Instituto de Fomento a la Vivienda y Regularización de la Propiedad;
+o) Instituto de Movilidad del Estado de Quintana Roo, y
 
-p) Instituto de Impacto y Riesgo Ambiental;
+p) Instituto de Biodiversidad y Áreas Naturales Protegidas del Estado de Quintana Roo.
 
-q) Instituto Forestal de Quintana Roo;
+Asimismo, se invitará a participar en la Comisión de forma permanente a:
 
-r) Administración Portuaria Integral de Quintana Roo S.A. de C.V.
+a) Una persona representante de cada Municipio en el Estado, y
 
-Asimismo, se invitará a participar en la Comisión en calidad de invitados permanentes a:
+b) Una persona integrante de la comisión encargada de los asuntos de cambio climático en la legislatura estatal.
 
-a) Los Presidentes Municipales de los Ayuntamientos del Estado;
+La Comisión podrá invitar a otras instancias de los tres órdenes de Gobierno, Centros de Educación Superior, Centros de Investigación Científica, Organizaciones de la Sociedad Civil, así como a personas con experiencia y conocimiento en el ámbito de los temas de la Comisión para participar de manera permanente o temporal en sus sesiones de trabajo cuando así se considere conveniente, únicamente con derecho a voz.
 
-b) Al Presidente de la Comisión de Medio Ambiente y Cambio Climático del Congreso del Estado, o un integrante de dicha Comisión.
+Las personas integrantes de la Comisión podrán designar a sus respectivas suplentes mediante oficio dirigido a la coordinación, quienes en su caso deberán contar con nivel de Subsecretaría o Dirección.
 
-La Comisión podrá invitar a otras instancias de conformidad con el Acuerdo por el que se crea con carácter permanente la Comisión Estatal de Cambio Climático del Estado.
-
-Los integrantes de la Comisión podrán designar a sus respectivos suplentes mediante oficio dirigido al Coordinador, quienes en su caso deberán contar con nivel de subsecretario o Director.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
 
 ###### Artículo 13.
 
-La Comisión se reunirá trimestralmente en sesiones ordinarias, pudiendo reunirse además en sesiones extraordinarias a convocatoria de su Presidente, o a petición de cualquiera de sus miembros, en los términos que se determine en el Reglamento.
+La Comisión tendrá al menos dos sesiones ordinarias al año, pudiendo reunirse además en sesiones extraordinarias a convocatoria de la presidencia o la coordinación o a petición de cualquiera de sus integrantes, en los términos que se determine en el Reglamento.
 
-Las decisiones de la Comisión serán tomadas, por consenso.
+Las decisiones se tomarán por mayoría de los miembros presentes teniendo el presidente voto de calidad en caso de empate.
 
 ###### Artículo 14.
 
@@ -361,7 +531,9 @@ I. Formular y aprobar las políticas integrales y metas de cambio climático par
 
 II. Coordinar las acciones de adaptación y mitigación al cambio climático, programas y medidas de las dependencias y entidades de la Administración Pública Estatal, en la materia de esta ley, en el ámbito de sus respectivas competencias, así como con los programas creados por el gobierno federal;
 
-III. Conocer y opinar sobre la temporalidad en la elaboración y actualización del Programa Estatal, del Atlas de Riesgos, del Programa de Ordenamiento Ecológico Territorial del Estado, de las evaluaciones de impacto ambiental, y demás estudios que se consideren necesarios para hacer frente al cambio climático en el Estado, en términos de la ley de la materia;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+III. Conocer y opinar sobre la temporalidad en la elaboración y actualización del Programa Estatal, del Sistema MRVMME, el Registro Estatal de Emisiones, del Atlas de Riesgos, del Ordenamiento Ecológico Territorial del Estado, de las evaluaciones de impacto ambiental, y demás estudios que se consideren necesarios para hacer frente al cambio climático en el Estado, en términos de esta ley, su reglamento y demás normatividad aplicable.
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -376,6 +548,76 @@ VII. Impulsar las acciones necesarias para cumplir con los objetivos y compromis
 VIII. Las demás que establezca esta Ley y demás normatividad aplicable.
 
 Sin perjuicio de lo establecido por el Acuerdo por el que se crea con carácter permanente la Comisión Estatal de Cambio Climático del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+###### Artículo 14 Bis.
+
+Son obligaciones de cada integrante de la Comisión:
+
+I. Ejecutar e informar a la Comisión las medidas de mitigación y adaptación que correspondan y se lleven a cabo en la entidad que representa;
+
+II. Proponer las acciones de adaptación y mitigación al cambio climático, así como los programas y medidas que la entidad que represente podría implementar, en la materia de esta Ley, en el ámbito de sus respectivas competencias, y que podrían incluirse en el Programa Estatal;
+
+III. Fomentar la participación incluyente, equitativa, diferenciada, corresponsable y efectiva de todos los sectores de la sociedad dentro de las acciones que realice en materia de cambio climático, así como dentro de la Comisión;
+
+IV. Remitir la información necesaria para integrar y actualizar el Sistema MRV-ME en términos y con la periodicidad que establezcan los lineamientos, criterios e indicadores que al efecto emita la Secretaría;
+
+V. Considerar en los programas sectoriales, en los que ejerzan atribuciones de acuerdo con lo establecido en la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, criterios y acciones de adaptación y mitigación conforme lo establecido en esta Ley;
+
+VI. Promover la concertación con los sectores social, privado y la academia respecto a las medidas de mitigación y adaptación que implemente la entidad que representa;
+
+VII. Elaborar opiniones en su materia, para la elaboración y actualización del Programa Estatal, del Atlas de Riesgos, del Ordenamiento Ecológico Territorial del Estado, de las evaluaciones de impacto ambiental, y demás estudios que se consideren necesarios para hacer frente al cambio climático en el Estado, y
+
+VIII. Proporcionar información que solicite la Comisión que pudiera ser de apoyo para la elaboración del Programa Estatal o de cualquier otro instrumento que sea competencia de la Comisión.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+###### Artículo 14 Ter.
+
+El Consejo, es el órgano permanente de colaboración de la Comisión, que se compromete a implementar una participación abierta e inclusiva en los procesos de toma de decisiones climáticas, sobre la base de los marcos normativos estatales, federales e internacionales.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+###### Articulo 14 Quáter.
+
+El Consejo sesionará específicamente para tratar los temas relacionados con la implementación de la presente Ley, de manera ordinaria dos veces por año o cada vez que la Comisión o la Secretaría los convoque.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+###### Artículo 14 Quinquies.
+
+Serán atribuciones del Consejo, en relación a lo establecido en la presente Ley, las siguientes:
+
+I. Asesorar a la Comisión en los asuntos de su competencia;
+
+II. Recomendar a la Comisión realizar estudios y adoptar políticas, acciones y metas tendientes a enfrentar los efectos adversos del cambio climático y reducir las emisiones de GyCEI;
+
+III. Promover la valoración del conocimiento local, el diálogo y la interacción de las diferentes visiones y saberes, cuando corresponda;
+
+IV. Promover la participación social, informada y responsable, ante los gremios que representen;
+
+V. Dar seguimiento a las políticas, acciones y metas previstas en la presente Ley, así como formular propuestas a la Comisión;
+
+VI. Colaborar con la Comisión en la planeación, operación, seguimiento y evaluación de la política estatal en materia de cambio climático;
+
+VII. Emitir opiniones y recomendaciones que deriven del análisis de asuntos incluidos en los programas de trabajo y de temas específicos que someta a su consideración la Comisión, y
+
+VIII. Las demás que se establezcan en el Reglamento Interno o que le otorgue la Comisión.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+Artículo 14 Sexties.- Para coadyuvar con el desempeño de las funciones del Consejo, la Comisión deberá:
+
+I. Asegurar que sea posible la participación gestionando el presupuesto y espacios necesarios para la operación del Consejo;
+
+II. Incluir al Consejo en procesos de toma de decisiones o actualizaciones de proyectos, programas, iniciativas y actividades;
+
+III. Una vez que se haya adoptado una decisión, el Consejo deberá ser oportunamente informado de ella y de los motivos y fundamentos que la sustentan, así como del modo en que se tuvieron en cuenta sus observaciones. La decisión y sus antecedentes serán públicos y accesibles;
+
+IV. Informar al Consejo de forma efectiva, comprensible y oportuna, a través de medios apropiados, que pueden incluir los medios escritos, electrónicos u orales, y
+
+V. Cuando dentro de las tomas de decisiones se encuentren beneficiados o afectados grupos vulnerables, y éstos hablen mayoritariamente lenguas distintas al español, la Comisión en coordinación con el Consejo, velará por que se facilite su comprensión y participación.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -409,15 +651,25 @@ f) Fortalecer la infraestructura para el combate de incendios forestales; e (sic
 
 g) Impulsar la certificación de los aprovechamientos forestales;
 
-i) (sic) Fomento y apoyo económico para la creación y mantenimiento de las áreas naturales protegidas de carácter municipal; e
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE JUNIO DE 2022)</small>
 
-j) Apoyo para la consolidación y operatividad de los viveros municipales en virtud de los servicios ambientales que prestan.
+h) Fomento y apoyo económico para la creación y mantenimiento de las áreas naturales protegidas de carácter municipal, e
 
-II. En centros urbanos de más de cinco mil habitantes, la sistematización del manejo de residuos sólidos a fin de que no generen emisiones de metano;
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+i) Apoyo para la consolidación y operatividad de los viveros municipales en virtud de los servicios ambientales que prestan;
+
+j) (DEROGADO, P.O. 30 DE JUNIO DE 2022)
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+II. En centros urbanos de más de cinco mil habitantes, establecer estrategias de apoyo a los municipios a fin de que se logre una gestión de los residuos sólidos que disminuya de forma gradual las emisiones de metano;
 
 III. En todos los centros urbanos, las unidades de transporte público deberán cumplir los estándares de emisión, sujetándose a los programas de verificación vehicular o los concesionarios podrán optar por otros sistemas de transporte colectivo más eficientes;
 
-IV. El Estado, conforme a las normas federales de la materia, procurará la generación de energía eléctrica para sus instalaciones, con la utilización de fuentes no contaminantes, como el viento, la luz solar, la biomasa, el oleaje marino.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+IV. El Estado, conforme a las normas federales de la materia, procurará la generación de energía eléctrica para sus instalaciones, con la utilización de fuentes no contaminantes, como el viento, la luz solar, la biomasa, el oleaje marino, de acuerdo con lo establecido en el Plan Energético.
 
 ###### Artículo 17.
 
@@ -433,49 +685,55 @@ IV. En toda inversión para infraestructura estatal o municipal, se estimarán l
 
 V. En el monitoreo y pronóstico climático, se incluirán modelos de escenarios ante el cambio climático y la alerta temprana de sus efectos.
 
-### CAPÍTULO VI. Integración de los objetivos de mitigación de emisiones en las políticas sectoriales
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+VI. En materia de conservación y uso sustentable de la biodiversidad, se considerarán los ejes estratégicos y líneas de acción desarrollados en la ECUSBEQROO, y se desarrollarán Soluciones basadas en la Naturaleza incluyendo la Adaptación basada en Ecosistemas.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+### CAPÍTULO V BIS. Del Programa Municipal
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
 
 ###### Artículo 18.
 
-La Secretaria deberá elaborar, cada dos años, un informe de seguimiento del Programa Estatal en relación con el cumplimiento de sus objetivos en materia de mitigación de emisiones. Asimismo, cada cuatro años la Secretaria elaborará un informe de seguimiento sobre el cumplimiento de los objetivos en materia de adaptación al cambio climático.
+El Sistema MRV-ME se integrará en una plataforma digital asequible que permita el almacenamiento, captura, consulta de información, resultados y fichas metodológicas, generando reportes, información y gráficos.
 
-El contenido mínimo que deberá tener el informe sobre el cumplimiento de los objetivos de mitigación de emisiones será el siguiente:
-
-I. Cantidad de emisiones netas del Estado durante el periodo de referencia del informe;
-
-II. Evolución de las emisiones netas con respecto al periodo anterior;
-
-III. Otros indicadores que permitan el seguimiento de la evolución de las emisiones tales como el tamaño de la población o el Producto Interno Bruto entre otros y su comparación con los valores de otros estados;
-
-IV. Evaluación y valoración del cumplimiento de los presupuestos de carbono establecidos en el Plan; y
-
-V. Identificación de los métodos utilizados para medir o calcular la cantidad de emisiones.
-
-El contenido mínimo que deberá tener el informe sobre el cumplimiento de los objetivos de adaptación al cambio climático será el siguiente:
-
-I. Acciones desarrolladas en el periodo de referencia en materia de adaptación;
-
-II. Responsables de las acciones ejecutadas; y
-
-III. Evaluación del grado de cumplimiento de los objetivos de adaptación.
-
-Como resultado del seguimiento realizado sobre los objetivos establecidos en el Programa Estatal, este podrá ser revisado y modificado con los mismos trámites previstos para su aprobación.
-
-Los informes mencionados en los apartados anteriores serán remitidos al Poder Legislativo antes de finalizar el año en el que deba ser elaborado para su conocimiento.
-
-La Secretaria integrará los planes sectoriales y estratégicos que elaboren las entidades de la administración pública, competentes en materia de industria, energía, transportes, desarrollo urbano, desarrollo rural, vivienda y medio ambiente, en el Programa Estatal. En ambos casos se remitirá copia para su conocimiento a cada uno de los Municipios.
-
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
 
 ###### Artículo 18 Bis.
 
-Los gobiernos municipales, en el ámbito de sus competencias, deberán elaborar y publicar sus programas municipales de cambio climático, como instrumento de planeación e implementación de políticas públicas, metas e indicadores urbanos y ambientales que las autoridades locales se comprometen a cumplir durante el periodo de gobierno correspondiente, de conformidad con el Programa Estatal y las disposiciones de esta Ley para enfrentar al cambio climático.
+El Sistema MRV-ME tendrá por objeto lo siguiente:
 
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+I. Evaluar anualmente, de manera transparente y confiable, el grado de avance en el Programa Estatal.
+
+II. Establecer indicadores precisos para evaluar las medidas, ajustes, políticas y acciones de adaptación y mitigación en armonía con los estándares internacionales.
+
+III. Desarrollar una base de datos con la información de todas las medidas en el que el Estado y los municipios puedan reportar los avances de sus actividades relacionadas con el cambio climático.
+
+Los resultados del Sistema MRV-ME, serán accesibles a toda persona a través de las plataformas y medios electrónicos del Gobierno del Estado, conforme la legislación aplicable en materia de transparencia y acceso a la información pública.
+
+La Secretaría, en coordinación con la Comisión, desarrollará y publicará el conjunto de lineamientos, criterios e indicadores que guiarán u orientarán la evaluación de las políticas de cambio climático en el Estado.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
 
 ###### Artículo 18 Ter.
 
-Los programas municipales de cambio climático incluirán, entre otros, los siguientes elementos:
+La Secretaría integrará un Registro Estatal de Emisiones con la finalidad de inscribir los reportes de emisiones de las fuentes fijas y móviles de competencia estatal, el cual contendrá los siguientes elementos:
+
+I. Los gases o compuestos de efecto invernadero que deberán reportarse para la integración del Registro Estatal de Emisiones.
+
+II. Los umbrales a partir de los cuales los establecimientos sujetos a reporte de competencia estatal deberán presentar el reporte de sus emisiones directas e indirectas.
+
+III. Las metodologías para el cálculo de las emisiones directas e indirectas que deberán ser reportadas.
+
+Las personas físicas y morales responsables de las fuentes sujetas a reporte están obligadas a proporcionar la información, datos y documentos necesarios sobre sus emisiones directas e indirectas para la integración del Registro Estatal de Emisiones.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+###### Artículo 18 Quáter.
+
+Los programas municipales de acción climática incluirán, entre otros, los siguientes elementos:
 
 I. La planeación con perspectiva de mediano y largo plazo, urbana y ambiental, de sus objetivos y acciones, en congruencia con el Programa Estatal;
 
@@ -483,29 +741,23 @@ II. Los escenarios de cambio climático y los diagnósticos de vulnerabilidad y 
 
 III. Las metas y acciones para la mitigación y adaptación en materia de su competencia señaladas en la presente Ley y las demás disposiciones que de ella deriven;
 
-IV. La medición, el reporte y la verificación de las medidas de adaptación y mitigación; y,
+IV. La medición, el reporte y la verificación de las medidas de mitigación, y el monitoreo y evaluación de las medidas de adaptación, y
 
 V. Los demás que determinen sus disposiciones legales en la materia.
 
 Los programas Municipales, podrán ser sometidos a consideración de la Comisión.
 
-### CAPÍTULO VI BIS. De las azoteas verdes
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JUNIO DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2013)</small>
+### CAPÍTULO VI. Adopción e Integración de los Objetivos de Mitigación en los Programas Sectoriales
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
 
 ###### Artículo 19.
 
-El Gobierno del Estado y los Municipios, en el ámbito de sus competencias, impulsarán el ahorro y la eficiencia energética, así como la utilización de combustibles menos intensivos en carbono en los distintos sectores de actividad consumidores de energía.
+En los Programas Sectoriales, se Incluirán acciones que impulsen el ahorro y la eficiencia energética, así como la utilización de combustibles menos intensivos en carbono en los distintos sectores de actividad consumidores de energía.
 
-Asimismo, promoverán el uso de energía de origen renovable en las actividades industriales, agrícolas, ganaderas y forestales, en el transporte, en los edificios destinados a usos habitacionales y de servicios y en el ámbito urbano.
-
-La política energética determinará los objetivos de ahorro energético y de consumo de energía de origen renovable, así como las líneas de actuación en consonancia con la presente ley, y los objetivos de mitigación de emisiones que se definan en el Programa Estatal. El órgano competente del Estado en materia de energía elaborará cada dos años un informe de seguimiento de estos objetivos, que formará parte del informe de seguimiento del Programa Estatal al que hace referencia el artículo 18.
-
-El Gobierno del Estado y los Municipios desarrollarán planes de eficiencia energética y de utilización de las energías renovables en sus ámbitos de competencia, que contribuyan de manera efectiva a la mitigación de sus emisiones en consonancia con las directrices de esta ley.
-
-Los planes de eficiencia energética incluirán, al menos, medidas dirigidas a contribuir de manera efectiva a la mitigación de las emisiones asociadas a los edificios que ocupen las oficinas públicas, a promover la movilidad sostenible de sus trabajadores, la incorporación de vehículos eficientes, tales como los eléctricos o híbridos, en sus flotas y que cumplan con los límites máximos permisibles de emisiones de gases contaminantes establecidos en las Normas Oficiales Mexicanas, aplicables en la materia, los procesos de consumo mediante incorporación de la compra verde y la mejora de la eficiencia de las instalaciones de iluminación exterior.
-
-Las fuentes emisoras ubicadas en el Estado están obligadas a reportar sus emisiones a la Secretaría, de acuerdo a las disposiciones de esta Ley y demás ordenamientos que de ella deriven. Cuando se trate de fuentes emisoras de competencia federal, el reporte se solicitará a través de la autoridad competente.
+Asimismo, contemplarán el uso de energía de origen renovable en las actividades industriales, agrícolas, ganaderas y forestales, en el transporte, en los edificios destinados a usos habitacionales y de servicios y en el ámbito urbano.
 
 ###### Artículo 20.
 
@@ -531,13 +783,11 @@ VI. Los requisitos para el mantenimiento de la certificación que deberá inclui
 
 Las Autoridades Estatales y Municipales, con el fin de adaptar progresivamente las características de sus edificios a los criterios de sostenibilidad que se establezcan de acuerdo con el sistema regulado en el artículo anterior, aprobarán Planes que contemplen las medidas a adoptar y los plazos precisos para ello.
 
-###### Artículo 21
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
 
-El Gobierno del Estado y los Municipios, velarán por que la mitigación de emisiones, constituya un criterio que deberá considerarse en la redacción y toma de decisiones en la planeación urbana, y en el diseño y ejecución de los proyectos de urbanización de nuevas áreas urbanas.
+###### Artículo 21.
 
-A los fines previstos en el párrafo anterior impulsarán la incorporación de principios bioclimáticos en el diseño urbano y arquitectónico, el aumento de la densidad urbanística, la concentración de población en áreas dotadas de todos los servicios que minimice los desplazamientos y cuente con una red eficaz de transporte público.
-
-Asimismo, favorecerán la adaptación del planeamiento urbanístico existente de tal manera que los condicionantes físicos y climáticos se tomen en cuenta para la actualización de dicho planeamiento. En este sentido, velarán por acercar las sedes de las oficinas públicas, centros financieros y otros centros de decisión a las redes de transporte público existentes.
+Las actuaciones que desarrollen las Autoridades de los tres órdenes de gobierno, en el ámbito de sus respectivas competencias y en estrecha coordinación, en relación con el manejo de los recursos costeros estarán dirigidas a la protección, el aprovechamiento sustentable o rehabilitación de playas, costas, terrenos ganados al mar y cualquier otro depósito que se forme con aguas marítimas.
 
 ###### Artículo 22.
 
@@ -587,11 +837,15 @@ Las actuaciones que desarrollen las Autoridades Estatales y Municipales, en el �
 
 I. Fomentar la adopción de adecuadas políticas de gestión y conservación de los medios naturales;
 
-II. Adoptar políticas eficientes en los diferentes sectores dirigidas a premiar las acciones y buenas prácticas del sector privado que conjuntamente contribuyen a la conservación de los medios naturales, su biodiversidad y la reducción de emisiones;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+II. Adoptar políticas eficientes en los diferentes sectores dirigidas a incentivar las acciones y buenas prácticas·del sector privado que conjuntamente contribuyen a la conservación de los medios naturales, su biodiversidad y la reducción de emisiones;
 
 III. Crear la base de conocimiento necesaria para reforzar la integración entre proyectos de investigación aplicada en biodiversidad y cambio climático; y
 
-IV. Fomentar la captura de carbono mediante el aumento de zonas verdes y arboladas en las ciudades y entornos urbanos, así como en los edificios urbanos.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+IV. Fomentar la captura de carbono mediante el aumento de áreas naturales protegidas, áreas destinadas voluntariamente a la conservación, zonas verdes y arboladas en las ciudades y entornos urbanos, así como en los edificios urbanos.
 
 ###### Artículo 27.
 
@@ -601,93 +855,61 @@ Asimismo, fomentarán el impulso y el aprovechamiento sustentable de las fuentes
 
 De igual manera, promoverán la implementación de un sistema tarifario por el uso de agua, que incorpore el pago por los servicios ambientales hidrológicos de los ecosistemas, a fin de destinar su producto a la conservación de los mismos.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE ABRIL DE 2013)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2022)</small>
 
-### CAPÍTULO VII. Fomento de Instrumentos para Reducción de Emisiones
-
-###### Artículo 27
-
-Bis.- Los inmuebles públicos o privados establecidos en el Estado y que sean aptos, de acuerdo al estudio de factibilidad que realice la autoridad competente, podrán implementar en sus respectivos techos, las azoteas verdes.
-
-> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2013)</small>
+### CAPÍTULO VI BIS. De las azoteas verdes
 
 ###### Artículo 27
 
-Ter.- Para el establecimiento de las azoteas verdes, la Secretaría de Ecología y Medio Ambiente realizará los estudios de factibilidad de los inmuebles, para lo cual deberán contemplar:
-
-I.- El Porcentaje de la superficie de la azotea que será cubierto con vegetación natural, al cual, en ningún caso podrá ser menor al treinta por ciento del total de la superficie de la edificación;
-
-II.- El tipo de vegetación nativa de la región que será utilizada en la azotea verde;
-
-III.- Los mecanismos y tecnologías sustentables de riesgo y mantenimiento de la azotea verde; y,
-
-IV.- Los materiales a utilizar; para la implementación.
-
-En el caso de los bienes inmuebles considerados patrimonio histórico del Estado, la Secretaría de Ecología y Medio Ambiente conjuntamente con la Secretaría de Cultura, realizará un estudio de factibilidad para el efecto de implementar o no la azotea verde en dicho inmueble, siempre preservando lo declarado como patrimonio histórico y que no sea afectado.
-
-Tratándose de bienes inmuebles municipales, será la Dirección de Ecología o la autoridad homóloga del Municipio, quien efectúe el estudio de factibilidad respectivo.
-
-> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2013)</small>
+Bis.- (DEROGADO, P.O. 30 DE JUNIO DE 2022)
 
 ###### Artículo 27
 
-Quáter.- El Estado, así como los Municipios, en el ámbito de sus respectivas competencias, podrán brindar a los propietarios o poseedores de inmuebles que cuenten con azoteas verdes, incentivos, fiscales o administrativos que así consideren, de conformidad con lo dispuesto en las disposiciones legales y reglamentarias.
+Ter.- (DEROGADO, P.O. 30 DE JUNIO DE 2022)
 
-### CAPÍTULO VIII. Del Fondo Estatal
+###### Artículo 27
+
+Quáter.- (DEROGADO, P.O. 30 DE JUNIO DE 2022)
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JUNIO DE 2022)</small>
+
+### CAPÍTULO VII. Instrumentos Económicos
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
 
 ###### Artículo 28.
 
-Las Autoridades Estatales y Municipales promoverán tecnologías cuya introducción en los procesos productivos de las actividades industriales permita la reducción cuantificable de emisiones de gases de efecto invernadero.
+El Gobierno del Estado y los municipios, en el ámbito de sus respectivas competencias diseñarán, desarrollarán y aplicarán Instrumentos Económicos para incentivar el cumplimiento de los objetivos y metas del Programa Estatal, las disposiciones de esta ley y los ordenamientos que de ella deriven.
 
-Asimismo, la gestión de incentivos a empresas para la realización de inversiones destinadas a la protección del medio ambiente, incluirá como criterio de adjudicación, el que dichas inversiones estén dirigidas a la adquisición de equipos que permitan la reducción cuantificable de emisiones de gases efecto invernadero.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
 
 ###### Artículo 29.
 
-Se crea el Registro de Reducciones Voluntarias de Emisiones, en el que las actividades públicas o privadas podrán inscribirse a fin de que consten públicamente los compromisos asumidos por dichas actividades en relación con la adopción de actuaciones que tengan como finalidad la reducción de sus emisiones de gases de efecto invernadero y acogerse a los beneficios que reglamentariamente se establezcan.
+Se consideran instrumentos Económicos los mecanismos normativos y administrativos de carácter fiscal, financiero o de mercado, mediante los cuales las personas asumen los beneficios y costos relacionados con la mitigación y adaptación del cambio climático, incentivándolas a realizar acciones que favorezcan el cumplimiento de los objetivos de la política estatal en la materia.
 
-La Secretaría regulará el funcionamiento y contenido de dicho registro que será público en los términos que establece la normativa que regula los derechos de acceso a la información, sin perjuicio de lo que establece la legislación sobre protección de datos de carácter personal.
-
-La regulación a que hace referencia el apartado anterior contendrá el procedimiento de inscripción en el registro, las condiciones para el mantenimiento de dicha inscripción y los beneficios que conllevará para las actividades inscritas.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
 
 ###### Artículo 30.
 
-En los procedimientos de evaluación de impacto ambiental de planes, programas, obras y proyectos que se desarrollen en el Estado, la identificación, descripción y evaluación de los efectos del plan, del programa, de la obra o del proyecto sobre el clima, realizadas de acuerdo con lo dispuesto en la normativa aplicable al efecto, deberán tener en cuenta las emisiones que su ejecución puedan producir.
+Son instrumentos de mercado las concesiones, autorizaciones, licencias y permisos que corresponden a volúmenes prestablecidos de emisiones, o bien, que incentiven la realización de acciones de reducción de emisiones proporcionando alternativas que mejoren su relación costo-eficiencia.
 
-Los promotores de toda obra pública o privada que se ejecute en el Estado deberán incorporar a su proyecto un análisis de vulnerabilidad al cambio climático y las medidas para mitigar este riesgo.
+Las prerrogativas derivadas de los Instrumentos Económicos de mercado serán transferibles, no gravables y quedarán sujetos al interés público.
 
 ###### Artículo 31.
 
 Las Autoridades Estatales y Municipales competentes actuarán en los ámbitos que sean necesarios, para lograr un efectivo cumplimiento de los objetivos, mediante el impulso y desarrollo de las acciones de mitigación de emisiones recogidas en la presente ley y, en concreto, estudiarán posibles medidas fiscales que fomenten la reducción de emisiones y la adaptación al cambio climático y adoptarán medidas incentivadoras, de fomento y de reconocimiento de los esfuerzos realizados por el sector privado, en materia de acción de cambio climático
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
+
 ###### Artículo 32.
 
-El Gobierno del Estado y los Municipios incluirán, en sus contratos de obras, especificaciones técnicas y criterios de adjudicación que contribuyan a alcanzar los objetivos que en materia de acción de cambio climático se establecen en esta Ley.
-
-Lo previsto en el apartado anterior se llevará a cabo de conformidad con lo que establece la legislación vigente sobre contratos del sector público.
+Para mitigar las emisiones de GyCEI, fortalecer la resiliencia, la capacidad adaptativa y reducir la vulnerabilidad, se establecerán mecanismos orientados a internalizar gradualmente el costo relacionado con las externalidades ambientales negativas derivadas de las actividades económicas en el Estado.
 
 ###### Artículo 33.
 
-El Gobierno del Estado podrá aprobar, mediante el reglamento de esta Ley, un sistema por el que una actividad que deba adoptar medidas para mitigar las emisiones, pueda llevar a cabo un proyecto de gestión de sumideros de carbono que podrá consistir, entre otras medidas, en el mantenimiento o incremento de la superficie forestal, en el aumento de carbono en el suelo o en el desarrollo de alternativas tecnológicas para la captura de carbono.
+(DEROGADO, P.O. 30 DE JUNIO DE 2022)
 
-Las Autoridades Estatales y Municipales, en sus respectivos ámbitos competenciales, deberán desarrollar acciones en relación con la gestión de sumideros de carbono, dirigidas a:
-
-I. Llevar a cabo acciones de sustitución del arbolado de ciclo corto y medio por árboles propios de cada lugar, con mayor capacidad de almacenar carbono;
-
-II. Promover la forestación con especies endémicas;
-
-III. Evitar superficies con cualquier tipo de vegetación que no se adapte a las condiciones climáticas propias del Estado;
-
-IV. Recuperar suelos degradados para su reforestación;
-
-V. Registrar la evolución del carbono presente en el suelo;
-
-VI. Mejorar los programas de prevención de incendios;
-
-VII. Incorporar pautas de conservación y restauración de ecosistemas naturales en los instrumentos de planeamiento; y
-
-VIII. Aumentar la superficie y gestionar adecuadamente las zonas verdes urbanas.
-
-### CAPÍTULO IX. Desarrollo del Conocimiento e Innovación sobre Cambio Climático
+### CAPÍTULO VIII. Del Fondo Estatal
 
 ###### Artículo 34.
 
@@ -727,7 +949,7 @@ El Consejo Técnico aprobará las operaciones que se realicen con cargo al Fondo
 
 El Fondo se sujetará a los mecanismos de control, auditoría, transparencia, evaluación y rendición de cuentas que establece esta Ley y las disposiciones legales aplicables.
 
-### CAPÍTULO X. Información y Participación Pública
+### CAPÍTULO IX. Desarrollo del Conocimiento e Innovación sobre Cambio Climático
 
 ###### Artículo 39.
 
@@ -737,13 +959,69 @@ Con el fin de lograr estos objetivos, las instituciones competentes en materia d
 
 Con el objetivo de coordinar las actuaciones en materia de mitigación y de adaptación al cambio climático en el Estado y de adoptar las iniciativas necesarias, la Secretaria, establecerá canales de comunicación y líneas de trabajo permanentes con las instituciones educativas, científicas y tecnológicas, fomentando el intercambio continuo de conocimiento.
 
-### CAPÍTULO XI. De las Responsabilidades y Sanciones
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JUNIO DE 2022)</small>
+
+### CAPÍTULO X. Derecho a la Información y la Participación social
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+#### SECCIÓN I. Derecho a la Información
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
 
 ###### Artículo 40.
 
-El acceso público a la información en materia de cambio climático se sustanciará a través del derecho a obtener y recibir información en esta materia de las autoridades públicas, que deben concentrarla y adoptar medidas para su divulgación.
+La Administración Pública del Estado y de sus municipios están obligados a allegar de manera activa a todas las personas, información pertinente, oportuna y actualizada en materia de cambio climático, teniendo en cuenta lo establecido en esta Ley.
 
-Todos los ciudadanos y ciudadanas tienen derecho, individual o colectivamente, a elevar propuestas de actuación a las Autoridades Estatales y Municipales en materia de mitigación de emisiones y adaptación al cambio climático, con el fin de hacer efectiva la necesaria corresponsabilidad público-privada en las actuaciones en materia de cambio climático.
+Toda persona tendrá derecho a que los sujetos obligados por la ley pongan a su disposición la Información que en materia de cambio climático se les solicite en los términos previstos por las leyes aplicables y el Acuerdo de Escazú.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+###### Artículo 40 Bis.
+
+El Gobierno del Estado y sus municipios garantizarán que las autoridades competentes generen, recopilen, pongan a disposición del público y difundan la información ambiental relevante para sus funciones de manera sistemática, proactiva, oportuna, regular, accesible y comprensible, y que actualicen periódicamente esta información y alienten la desagregación y descentralización de la información ambiental a nivel estatal y local.
+
+Asimismo, las autoridades competentes procurarán, en la medida de lo posible, que la información ambiental sea reutilizable, procesable y esté disponible en formatos accesibles, y que no existan restricciones para su reproducción o uso, de conformidad a las leyes aplicables en la materia.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE JUNIO DE 2022)</small>
+
+#### SECCIÓN II. De la Participación Social
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+###### Artículo 40 Ter.
+
+En la implementación de políticas públicas y toma de decisiones en materia de cambio climático, el Gobierno del Estado y sus municipios tendrán como principio rector garantizar el derecho humano fundamental a la participación pública informada, abierta e inclusiva. Para lo cual deberán promover, respetar, proteger y garantizar la participación corresponsable de la sociedad en la toma de decisiones y en el desarrollo, implementación y verificación de los programas, acciones y medidas que se implementen para la adaptación y mitigación del cambio climático.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+###### Artículo 40 Quater.
+
+Para efectos de lo establecido en el artículo anterior, el Gobierno del Estado y sus municipios, deberán:
+
+I. Convocar a las organizaciones de los sectores social y privado a que manifiesten sus opiniones y propuestas en materia de adaptación y mitigación al cambio climático;
+
+II. Proporcionar a la sociedad de manera clara, oportuna y comprensible, la información necesaria para hacer efectivo su derecho a participar en el proceso de toma de decisiones;
+
+III. Establecer las condiciones propicias para que la participación pública en procesos de toma de decisiones en materia de cambio climático, se adecúe a las características sociales, económicas, culturales, geográficas y de género del público al que va dirigido;
+
+IV. Promover la celebración de convenios de concertación con organizaciones sociales y privadas interesadas, para fomentar acciones de adaptación y mitigación del cambio climático; el establecimiento, administración y manejo de áreas naturales protegidas; así como para brindar asesoría en actividades de aprovechamiento sustentable de los recursos naturales y en la realización de estudios e investigaciones en la materia y emprender acciones conjuntas;
+
+V. Facilitar la comprensión de la información en materia de cambio climático, cuando el público participante hable mayoritariamente una lengua indígena;
+
+VI. Promover, cuando corresponda, la valoración del conocimiento local, el diálogo y la interacción de las diferentes visiones y saberes en el tema de cambio climático;
+
+VII. Brindar el apoyo a personas o grupos en situación de vulnerabilidad para involucrarlos de manera activa, oportuna y efectiva en los mecanismos de participación, utilizando los medios y formatos adecuados, a fin de eliminar las barreras a la participación;
+
+VIII. Tomar en consideración el resultado del proceso de participación de que se trate, y en su caso incluir las propuestas procedentes dentro de sus políticas en materia de cambio climático;
+
+IX. Velar por que, una vez adoptada la decisión en materia de cambio climático, el público sea oportuna y efectivamente informado de los resultados, motivos y fundamentos que la sustentan, así como del modo en que se tuvieron en cuenta sus observaciones, para lo cual podrá utilizar los medios escritos, electrónicos, orales y métodos tradicionales que estén a su alcance;
+
+X. Concertar acciones e inversiones con los sectores social y privado con la finalidad de instrumentar medidas de adaptación y mitigación al cambio climático;
+
+XI. Promover el otorgamiento de reconocimientos a los esfuerzos más destacados de la sociedad para erradicar los efectos adversos del cambio climático, y
+
+XII. Las demás acciones necesarias para asegurar el derecho a la participación pública informada, abierta e inclusiva.
 
 ###### Artículo 41.
 
@@ -754,6 +1032,68 @@ Las páginas web mencionadas en el apartado anterior incluirán un espacio en la
 ###### Artículo 42.
 
 Las Autoridades Estatales y Municipales llevarán a cabo acciones que tendrán por finalidad sensibilizar a la ciudadanía en materia de cambio climático, mediante campañas de comunicación sobre su impacto y la forma de prevenirlo y corregirlo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2022)</small>
+
+### CAPÍTULO X BIS. Seguimiento y Evaluación
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+###### Artículo 42 Bis.
+
+Para los efectos de esta Ley, la Secretaría dará seguimiento al avance y cumplimiento de las medidas y metas del Programa Estatal por medio del Sistema MRV-ME, que integre los mecanismos de medición, reporte y verificación de las medidas de mitigación y el monitoreo y evaluación de las medidas de adaptación.
+
+Los integrantes de la Comisión, así como otras entidades responsables de la implementación de medidas contenidas en el Programa Estatal, reportarán a la Secretaría los avances en el cumplimiento de estas, en los términos establecidos en la presente Ley y los procedimientos señalados por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+###### Artículo 42 Ter.
+
+El Programa Estatal se evaluará durante los doce meses previos a la finalización de su vigencia, sin embargo, podrán establecerse plazos intermedios en los casos que así determine la Comisión y la Secretaría.
+
+Los criterios y el procedimiento de dicha evaluación se regirán por las disposiciones que para tal efecto emita la Secretaría.
+
+La evaluación del Programa Estatal deberá ser considerada como el insumo principal en el diseño del Programa Estatal subsecuente.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+###### Artículo 42 Quáter.
+
+Con base en los resultados de las evaluaciones, se emitirán recomendaciones a los integrantes, responsables y representantes de la Comisión. Los resultados de las evaluaciones deberán ser publicados por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+###### Artículo 42 Quinquies.
+
+La Secretaría, en coordinación con la Comisión, desarrollará y publicará el conjunto de lineamientos, criterios e Indicadores que guiarán y orientarán la evaluación de la Política Climática en el Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+Artículo 42 Sexties.- En materia de adaptación, la evaluación se realizará respecto de los objetivos siguientes:
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+###### Artículo 42 Septies.
+
+En materia de mitigación al cambio climático la evaluación se realizará considerando al menos los objetivos siguientes:
+
+I. Garantizar la salud, el bienestar y la seguridad de la población a través del control y reducción de la generación y emisión de GyCEI;
+
+II. Reducir las emisiones de GyCEI y mejorar los sumideros y reservorios de carbono, fundamentalmente en los sectores identificados como prioritarios para la Política Climática del Estado de Quintana Roo;
+
+III. Sustituir de manera gradual el uso y consumo de los combustibles fósiles por fuentes renovables de energía;
+
+IV. La medición de la eficiencia energética, el desarrollo y uso de fuentes renovables de energía y la transferencia y desarrollo de tecnologías bajas en carbono, particularmente en bienes inmuebles de dependencias y entidades de la Administración Pública del Estado;
+
+V. Alineación de la Política Climática del Estado de Quintana Roo con los programas federales en la materia;
+
+VI. La conservación, protección y creación de sumideros;
+
+VII. La Implementación de metodologías que permitan medir, reportar y verificar las emisiones de GyCEI, y mejorar los sumideros y reservorios de carbono, y
+
+VIII. Los demás que determine la Comisión o la Secretaría.
+
+### CAPÍTULO XI. De las Responsabilidades y Sanciones
 
 ###### Artículo 43.
 
@@ -769,9 +1109,11 @@ Las fuentes emisoras que sean sujetas de procedimientos de inspección para prop
 
 En caso de no atender lo requerido por la autoridad en el plazo señalado, se harán acreedoras a las sanciones administrativas establecidas en las leyes relativas a la materia.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
+
 ###### Artículo 46.
 
-Los servidores públicos encargados de la aplicación y vigilancia de esta Ley, serán responsables de la debida observancia y cumplimiento de la misma. Su incumplimiento será causa de responsabilidad administrativa y serán aplicables las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Quintana Roo y demás leyes aplicables, sin perjuicio de la responsabilidad civil y penal a que haya lugar.
+Los servidores públicos encargados de la aplicación y vigilancia de esta Ley serán responsables de la debida observancia y cumplimiento de la misma. Su incumplimiento será causa de responsabilidad administrativa y serán aplicables las sanciones previstas en la Ley General de Responsabilidades Administrativas y demás leyes aplicables, sin perjuicio de la responsabilidad civil y penal a que haya lugar.
 
 ###### Artículo 47.
 
@@ -902,3 +1244,21 @@ Vigésimo Sexto. Se derogan todas las disposiciones de igual o menor jerarquía,
 P.O. 30 DE OCTUBRE DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 254 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCIÓN DE CAMBIO CLIMÁTICO EN EL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. La Secretaría de Ecología y Medio Ambiente y la Procuraduría de Protección al Ambiente, llevarán a cabo las acciones necesarias para incluir en el presupuesto de egresos del ejercicio fiscal 2023, y subsecuentes, los montos necesarios para la implementación de lo previsto en el presente Decreto.
+
+CUARTO. La reglamentación de esta Ley deberá ser actualizada dentro de los dentro ochenta días naturales siguientes a la entrada en vigor de este Decreto.
+
+QUINTO. La Secretaría en coordinación con la Comisión, habilitará la plataforma electrónica mediante la cual se integre el Sistema de Medición, Reporte y Verificación-Monitoreo y Evaluación, en un plazo no mayor de ciento ochenta días naturales, contados a partir de la entrada en vigor de este Decreto.
+
+SEXTO. La Secretaría deberá poner en funcionamiento el Registro Estatal de Emisiones de Gases y Compuestos de Efecto Invernadero, en un plazo no mayor de ciento ochenta días naturales, contados a partir de la entrada en vigor de este Decreto.
+
+SÉPTIMO. Con el objetivo de lograr la neutralidad en emisiones de carbono hacia el año 2050, el Gobierno del Estado de Quintana Roo en el ámbito de su competencia, implementará estrategias tendientes a promover en todos los sectores, acciones para mitigar la emisión de gases efecto invernadero y estrategias de adaptación al cambio climático.
