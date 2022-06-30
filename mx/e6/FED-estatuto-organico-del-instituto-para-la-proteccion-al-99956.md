@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-para-la-proteccion-al-99956"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-03-27"
-last_updated: "2020-10-06"
+last_updated: "2022-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99956&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-03-19"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA PROTECCIÓN AL AHORRO BANCARIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JUNIO DE 2022.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de marzo de 2014.
 
@@ -193,13 +193,17 @@ ii. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
 III. Secretaría Adjunta de Administración y Presupuesto
 
-A. Dirección General Adjunta de Administración
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2022)</small>
 
-> <small>(ADICIONADO, D.O.F. 26 DE FEBRERO DE 2015)</small>
+A. Coordinación General de Administración
 
-B. Dirección General Adjunta de Recursos Humanos
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2022)</small>
 
-C. Dirección General Adjunta de Presupuesto y Contabilidad
+B. Coordinación General de Recursos Humanos
+
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2022)</small>
+
+C. Coordinación General de Presupuesto y Contabilidad
 
 IV. Dirección General de Planeación Estratégica y Procesos
 
@@ -209,15 +213,17 @@ V. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
 VI. Dirección General de Tecnologías de la Información
 
-Las Direcciones Generales y Direcciones Generales Adjuntas citadas estarán integradas además de por sus titulares, por las direcciones, subdirecciones, jefaturas de departamento y por el personal que se requiera para el mejor desempeño de sus atribuciones. Para tal efecto, el Secretario Ejecutivo expedirá el Acuerdo de adscripción de las unidades administrativas correspondientes, el cual será publicado en el Diario Oficial de la Federación.
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2022)</small>
+
+Las Direcciones Generales y Coordinaciones Generales citadas estarán integradas además de por sus titulares, por las direcciones, subdirecciones, jefaturas de departamento y por el personal que se requiera para el mejor desempeño de sus atribuciones. Para tal efecto, el Secretario Ejecutivo expedirá el Acuerdo de adscripción de las unidades administrativas correspondientes, el cual será publicado en el Diario Oficial de la Federación.
 
 Para efectos de este Estatuto Orgánico, se entenderá por unidades administrativas las previstas en los Capítulos Primero y Segundo del Título Segundo de este ordenamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 9.
 
-Las atribuciones encomendadas a los titulares de las Direcciones Generales o Direcciones Generales Adjuntas mencionadas en el Capítulo Segundo del Título Segundo de este Estatuto Orgánico, podrán ser ejercidas por ellos en forma individual o por dos servidores públicos que actúen mancomunadamente en la materia de sus respectivas competencias, siempre y cuando tengan puestos de Director de Área o superior y se encuentren subordinados al Director General de que se trate, de conformidad con el artículo 8 de este Estatuto Orgánico y el Acuerdo de Adscripción. Lo anterior, con excepción de aquellas atribuciones que se ejerzan de manera coordinada entre dos unidades administrativas o que requieran la firma conjunta de éstas. En tal evento, los documentos correspondientes serán suscritos por los titulares de cada una de las unidades administrativas de que se trate o por los servidores públicos que los suplan, en los términos del presente Estatuto Orgánico.
+Las atribuciones encomendadas a los titulares de las Direcciones Generales o Coordinaciones Generales mencionadas en el Capítulo Segundo del Título Segundo de este Estatuto Orgánico, podrán ser ejercidas por ellos en forma individual o por otros dos servidores públicos que actúen mancomunadamente en la materia de sus respectivas competencias, siempre y cuando tengan puestos de Director de Área y se encuentren subordinados al Director General o Coordinador General de que se trate, de conformidad con el artículo 8 de este Estatuto Orgánico y el Acuerdo de Adscripción. Lo anterior, con excepción de aquellas atribuciones que se ejerzan de manera coordinada entre dos unidades administrativas o que requieran la firma conjunta de éstas. En tal evento, los documentos correspondientes serán suscritos por los titulares de cada una de las unidades administrativas de que se trate o por los servidores públicos que los suplan, en los términos del presente Estatuto Orgánico.
 
 > <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
@@ -249,9 +255,9 @@ El Secretario Adjunto de Protección al Ahorro Bancario será suplido en sus aus
 
 El Secretario Adjunto Jurídico será suplido en sus ausencias por el titular de la Dirección General Jurídica de Protección al Ahorro, por el titular de la Dirección General Jurídica de lo Contencioso, o por el titular de la Dirección General Jurídica de Normatividad y Consulta, en el orden indicado.
 
-> <small>(REFORMADO, D.O.F. 26 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2022)</small>
 
-El Secretario Adjunto de Administración y Presupuesto será suplido en sus ausencias por el titular de la Dirección General Adjunta de Presupuesto y Contabilidad, por el titular de la Dirección General Adjunta de Administración, o por el titular de la Dirección General Adjunta de Recursos Humanos, en el orden indicado.
+El Secretario Adjunto de Administración y Presupuesto será suplido en sus ausencias por el titular de la Coordinación General de Presupuesto y Contabilidad, por el titular de la Coordinación General de Administración, o por el titular de la Coordinación General de Recursos Humanos, en el orden indicado.
 
 > <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
@@ -271,11 +277,13 @@ El Secretario Adjunto de Administración y Presupuesto será suplido en sus ause
 
 > <small>(DEROGADO DÉCIMO TERCERO PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2022)</small>
 
-El Director General Adjunto de Administración será suplido en sus ausencias por el titular de la Dirección de Recursos Materiales y Servicios Generales, o por el titular de la Dirección de Programas Institucionales y Control Documental, en el orden indicado.
+El Coordinador General de Administración será suplido en sus ausencias por el titular de la Dirección de Recursos Materiales y Servicios Generales, o por el titular de la Dirección de Programas Institucionales y Control Documental, en el orden indicado.
 
-El Director General Adjunto de Presupuesto y Contabilidad será suplido en sus ausencias por el titular de la Dirección de Programación y Presupuesto, o por el titular de la Dirección de Contabilidad Financiera, en el orden indicado.
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2022)</small>
+
+El Coordinador General de Presupuesto y Contabilidad será suplido en sus ausencias por el titular de la Dirección de Programación y Presupuesto, o por el titular de la Dirección de Contabilidad Financiera, en el orden indicado.
 
 > <small>(DEROGADO DÉCIMO SEXTO PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
@@ -447,13 +455,15 @@ XIV. Supervisar la implementación de programas que permitan mejorar el clima or
 
 XV. Suscribir, en representación del Instituto y con la asesoría del titular de la Secretaría Adjunta Jurídica, acuerdos de coordinación con el Banco de México o la Comisión Nacional Bancaria y de Valores para que personal de esas instancias preste temporalmente sus servicios al Instituto en términos de lo dispuesto en el artículo 149 de la Ley de Instituciones de Crédito.
 
-### CAPÍTULO SEGUNDO. De las Direcciones Generales y Direcciones Generales Adjuntas
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+### CAPÍTULO SEGUNDO. De las Direcciones Generales y Coordinaciones Generales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 16.
 
-A las Direcciones Generales y Direcciones Generales Adjuntas previstas en este Capítulo, por conducto de sus titulares, les corresponde en el ámbito de su respectiva competencia, las atribuciones siguientes:
+A las Direcciones Generales y Coordinaciones Generales previstas en este Capítulo, por conducto de sus titulares, les corresponde en el ámbito de su respectiva competencia, las atribuciones siguientes:
 
 I. Planear, formular y dirigir los programas de trabajo de la unidad administrativa que le corresponda;
 
@@ -643,7 +653,9 @@ XVI. Elaborar con la participación de las Direcciones Generales de Finanzas, M�
 
 XVII. Emitir, previo acuerdo del Secretario Adjunto de Protección al Ahorro Bancario y conjuntamente con la Dirección General Jurídica de Protección al Ahorro, la opinión que corresponda respecto de las solicitudes que formule la Comisión Nacional Bancaria y de Valores en términos del artículo 28 de la Ley de Instituciones de Crédito;
 
-XVIII. Atender, previo acuerdo superior, y en coordinación con las unidades administrativas competentes, las solicitudes de la Secretaría de Hacienda y Crédito Público en relación con las evaluaciones de desempeño a que se refiere el artículo 278 de la Ley de Instituciones de Crédito.
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2022)</small>
+
+XVIII. Atender, previo acuerdo superior, y en coordinación con las unidades administrativas competentes, las solicitudes de la Secretaría de Hacienda y Crédito Público en relación con las evaluaciones de desempeño a que se refiere el artículo 278 de la Ley de Instituciones de Crédito;
 
 > <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
@@ -755,7 +767,7 @@ XXX Bis. Proponer, previo acuerdo con el Secretario Adjunto de Protección al Ah
 
 XXXI. Resolver, en el ámbito de su competencia, las solicitudes relativas a los programas de autocorrección que presenten las Instituciones en términos de los artículos 109 Bis 9 y 109 Bis 10 de la Ley de Instituciones de Crédito, y
 
-XXXII. Integrar los expedientes documentales o Libros Blancos que correspondan en el ámbito de su competencia.
+XXXII. (DEROGADA, D.O.F. 30 DE JUNIO DE 2022)
 
 ###### ARTÍCULO 20.
 
@@ -947,13 +959,17 @@ XXXV. Solicitar, en coordinación con la Dirección General Jurídica de lo Cont
 
 XXXVI. Solicitar a la Comisión Nacional Bancaria y de Valores, previo acuerdo del titular de la Secretaría Adjunta de Protección al Ahorro Bancario y conjuntamente con el titular de la Dirección General Jurídica de Protección al Ahorro, el cierre de las oficinas y sucursales de Instituciones o emitir la opinión que sobre dicho cierre solicite la mencionada autoridad, en términos de la Ley de Instituciones de Crédito;
 
-> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2022)</small>
 
-XXXVII. Efectuar, en el ámbito de su competencia y con la participación que corresponda a las Direcciones Generales Jurídica de Protección al Ahorro y Jurídica de lo Contencioso, así como las demás unidades administrativas competentes, los actos necesarios para que la sociedad controladora del grupo financiero al que se encuentre incorporada una Institución con pérdidas y que sea objeto de un método de resolución en términos de la Ley de Instituciones de Crédito, responda por dichas pérdidas de conformidad con el artículo 120 de la Ley para Regular las Agrupaciones Financieras, y
+XXXVII. Efectuar, en el ámbito de su competencia y con la participación que corresponda a las Direcciones Generales Jurídica de Protección al Ahorro y Jurídica de lo Contencioso, así como las demás unidades administrativas competentes, los actos necesarios para que la sociedad controladora del grupo financiero al que se encuentre incorporada una Institución con pérdidas y que sea objeto de un método de resolución en términos de la Ley de Instituciones de Crédito, responda por dichas pérdidas de conformidad con el artículo 120 de la Ley para Regular las Agrupaciones Financieras;
 
-> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2022)</small>
 
-XXXVIII. Implementar, previo acuerdo superior, en coordinación con las Direcciones Generales de Finanzas y Jurídica de Protección al Ahorro, los pagos de programas presupuestales de la Secretaría de Hacienda y Crédito Público, distintos del Programa de Apoyo a Ahorradores de la Banca, en los que participe el Instituto.
+XXXVIII. Implementar, previo acuerdo superior, en coordinación con las Direcciones Generales de Finanzas y Jurídica de Protección al Ahorro, los pagos de programas presupuestales de la Secretaría de Hacienda y Crédito Público, distintos del Programa de Apoyo a Ahorradores de la Banca, en los que participe el Instituto, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 2022)</small>
+
+XXXIX. Integrar los expedientes documentales o Libros Blancos que correspondan en el ámbito de su competencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
@@ -1187,9 +1203,9 @@ XI. Coordinar, previo acuerdo superior, la cobranza por la vía judicial de los 
 
 XII. Ordenar, en el ámbito de su competencia, la realización de las notificaciones que deban practicarse en términos de la Ley, la Ley de Instituciones de Crédito o la Ley Federal de Procedimiento Administrativo;
 
-> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2022)</small>
 
-XIII. Brindar apoyo y asistencia jurídica a la Dirección General Adjunta de Recursos Humanos en el levantamiento de las actas administrativas y las constancias de hechos referentes al personal del propio Instituto;
+XIII. Brindar apoyo y asistencia jurídica a la Coordinación General de Recursos Humanos en el levantamiento de las actas administrativas y las constancias de hechos referentes al personal del propio Instituto;
 
 XIV. Ratificar ante la autoridad laboral, cualquier tipo de convenio que el Instituto haya celebrado con sus trabajadores en su calidad de patrón;
 
@@ -1275,9 +1291,9 @@ XV. Fungir como secretario en los comités internos que establezca el Instituto,
 
 XVI. Revisar, en coordinación con las unidades administrativas competentes, la información de carácter normativo que se incorpore en la página de Internet del Instituto;
 
-> <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2022)</small>
 
-XVII. Llevar un registro y resguardo de los convenios, acuerdos de coordinación y, en general, instrumentos jurídicos que el Instituto celebre en el ámbito de sus atribuciones, con excepción de los relativos a las contrataciones públicas a que se refiere la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y
+XVII. Llevar un registro y resguardo de los convenios, acuerdos de coordinación y, en general, instrumentos jurídicos que el Instituto celebre en el ámbito de sus atribuciones, con excepción de los relativos a las contrataciones públicas a que se refiere la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
 
 > <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
@@ -1291,15 +1307,15 @@ XIX. Llevar a cabo el seguimiento de los temas de interés para el Instituto que
 
 XX. Emitir, en el ámbito de su competencia, los criterios jurídicos a seguir por el Instituto, en relación con las atribuciones que le son conferidas en diversos ordenamientos, y
 
-> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2022)</small>
 
-XXI. Sustanciar el procedimiento de responsabilidad patrimonial del Estado, de conformidad con la ley de la materia y la Ley Federal de Procedimiento Administrativo.
+XXI. Recibir las reclamaciones de responsabilidad patrimonial del Estado que se presenten en contra de servidores públicos del Instituto para la Protección al Ahorro Bancario en el ámbito de su competencia, así como sustanciar y resolver el procedimiento de responsabilidad patrimonial del Estado, de conformidad con la Ley Federal de Responsabilidad Patrimonial del Estado y demás normatividad aplicable.
 
-> <small>(REFORMADO, D.O.F. 26 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 26.
 
-Corresponde al titular de la Dirección General Adjunta de Administración, el ejercicio de las atribuciones siguientes:
+Corresponde al titular de la Coordinación General de Administración, el ejercicio de las atribuciones siguientes:
 
 > <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
@@ -1311,13 +1327,23 @@ II. (DEROGADA, D.O.F. 18 DE MAYO DE 2018)
 
 II Bis. Coordinar las acciones que faciliten el cumplimiento de los compromisos institucionales de apego a la ética, de prevención de conflictos de interés y de respeto a la equidad de género;
 
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
 III. Integrar y desarrollar en el ámbito de su competencia los programas y acciones institucionales en materia de modernización, innovación, transparencia, simplificación y productividad que establezcan las autoridades correspondientes;
+
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
 
 IV. Integrar y administrar la ejecución del programa anual de adquisiciones, arrendamientos y servicios y de obra pública del Instituto, así como operar el registro, asignación, afectación, baja y destino final de los bienes muebles e inmuebles al servicio del Instituto;
 
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
 V. Suscribir, en representación del Instituto, los documentos, convenios, pedidos y contratos relativos a las adquisiciones, arrendamientos y servicios del Instituto, y demás instrumentos relacionados con dichos bienes, así como a la realización de obra pública y aseguramiento de bienes, y llevar el control de los mismos;
 
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
 VI. Rescindir los contratos y demás documentos a que se refiere la fracción inmediata anterior, celebrados en términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
+
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
 
 VII. Coordinar, en el ámbito de su competencia y a solicitud de las unidades administrativas correspondientes, la celebración de conferencias, congresos y seminarios;
 
@@ -1329,9 +1355,15 @@ VIII. Actualizar e implementar, conforme a las disposiciones aplicables, las acc
 
 IX. Elaborar, emitir y aplicar los lineamientos y las normas para regular la utilización de los bienes muebles e inmuebles, así como para su conservación, mantenimiento y óptimo aprovechamiento para el servicio del Instituto;
 
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
 X. Implementar las actividades correspondientes en materia de seguridad y protección civil, conforme a la normativa vigente;
 
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
 XI. Compilar el ejemplar de la memoria a que se refiere el artículo 66 de la Ley y proveerlo a las unidades administrativas competentes para su envío al Ejecutivo Federal en los términos de dicha disposición;
+
+> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
 
 XII. Coordinar la integración, resguardo y consulta de información de los expedientes documentales o Libros Blancos de cada una de las operaciones establecidas en la normativa aplicable al Instituto, así como de aquellos que se requieran integrar a solicitud de la Junta de Gobierno, el Secretario Ejecutivo o los Secretarios Adjuntos, en coordinación con las unidades administrativas ejecutoras;
 
@@ -1339,23 +1371,23 @@ XII. Coordinar la integración, resguardo y consulta de información de los expe
 
 XIII. Coordinar a las unidades administrativas del Instituto para la adecuada organización y funcionamiento de sus archivos, en los términos de la normatividad aplicable;
 
-> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2022)</small>
 
-XIV. Proporcionar, en coordinación con la Dirección General Adjunta de Presupuesto y Contabilidad, a las unidades administrativas que participen en comisiones o en la realización de visitas de inspección, los servicios y apoyos necesarios para tal efecto;
+XIV. Proporcionar, en conjunto con la Coordinación General de Presupuesto y Contabilidad, a las unidades administrativas que participen en comisiones o en la realización de visitas de inspección, los servicios y apoyos necesarios para tal efecto;
 
 > <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
 XV. Representar al Instituto ante la Secretaría de Hacienda y Crédito Público y el Gobierno de la Ciudad de México para el cumplimiento de las obligaciones tributarias y realizar trámites, consultas e integrar la información que sea requerida por la normativa en materia fiscal federal y local, y
 
-> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2022)</small>
 
-XVI. Coordinar conjuntamente con la Dirección General Adjunta de Presupuesto y Contabilidad, el ejercicio del gasto asignado a las diferentes unidades administrativas del Instituto en materia de adquisiciones y servicios generales.
+XVI. Coordinar el ejercicio del gasto asignado a las diferentes unidades administrativas del Instituto en materia de adquisiciones y servicios generales, en conjunto con la Coordinación General de Presupuesto y Contabilidad.
 
-> <small>(ADICIONADO, D.O.F. 26 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 26 Bis.
 
-Corresponde al titular de la Dirección General Adjunta de Recursos Humanos, el ejercicio de las atribuciones siguientes:
+Corresponde al titular de la Coordinación General de Recursos Humanos, el ejercicio de las atribuciones siguientes:
 
 > <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
@@ -1365,7 +1397,11 @@ I. Elaborar y aplicar las políticas, lineamientos y procesos de reclutamiento, 
 
 II. Tramitar los nombramientos y movimientos de personal y resolver, conforme a la legislación aplicable, los casos de terminación de sus efectos;
 
+> <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
 III. Celebrar cualquier tipo de convenio, en representación del Instituto en su calidad de patrón, con sus trabajadores;
+
+> <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
 
 IV. Celebrar, en representación del Instituto, contratos o convenios con institutos, universidades, escuelas, asociaciones, colegios, personas físicas y personas morales para los cursos, programas, asesorías, seminarios y lo relativo a la capacitación y desarrollo del personal y de beneficios a los trabajadores del Instituto;
 
@@ -1373,7 +1409,11 @@ IV. Celebrar, en representación del Instituto, contratos o convenios con instit
 
 V. Efectuar el pago de las remuneraciones al personal del Instituto y la aplicación de descuentos y retenciones autorizadas conforme a la normativa aplicable; los pagos que se deriven por concepto de seguridad social, impuestos y seguros, entre otros, relativos al personal del Instituto, y llevar a cabo la suspensión de pago, de conformidad con las incidencias correspondientes;
 
+> <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
 VI. Coordinar la elaboración y modificaciones de las condiciones generales de trabajo que rigen las relaciones laborales del Instituto, para ser aprobadas por la Junta de Gobierno, e implementar y vigilar su cumplimiento y actualización, así como representar a éste ante las autoridades del trabajo y en materia de seguridad social, sin perjuicio de las atribuciones conferidas a otras unidades administrativas;
+
+> <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
 
 VII. Integrar y operar el servicio profesional de carrera, así como el programa anual de capacitación y desarrollo del personal del Instituto;
 
@@ -1381,7 +1421,11 @@ VII. Integrar y operar el servicio profesional de carrera, así como el programa
 
 VIII. Proponer al Secretario Ejecutivo la estructura orgánica y ocupacional del Instituto y sus modificaciones para el cumplimiento de los objetivos institucionales y registrar sus modificaciones aprobadas ante las dependencias rectoras en la materia; vigilando que las unidades administrativas se ajusten a las mismas;
 
+> <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
+
 IX. Fomentar y coordinar la participación del personal en eventos de capacitación, culturales, deportivos y sociales;
+
+> <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2015)</small>
 
 X. Integrar y desarrollar los programas y acciones institucionales de recursos humanos que establezcan las autoridades correspondientes;
 
@@ -1413,9 +1457,11 @@ XVI. Expedir hojas de servicios, constancias, credenciales y demás documentos r
 
 XVII. Suscribir convenios de colaboración con instituciones de educación superior para establecer programas de servicio social y prácticas profesionales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE JUNIO DE 2022)</small>
+
 ###### ARTÍCULO 27.
 
-Corresponde al titular de la Dirección General Adjunta de Presupuesto y Contabilidad, el ejercicio de las atribuciones siguientes:
+Corresponde al titular de la Coordinación General de Presupuesto y Contabilidad, el ejercicio de las atribuciones siguientes:
 
 I. Coordinar la integración del anteproyecto de presupuesto de gasto de administración del Instituto;
 
@@ -1457,13 +1503,13 @@ XIV. Representar al Instituto en las gestiones en materia presupuestaria ante la
 
 XV. Participar, en el ámbito de su competencia, en el análisis de la información y registro de la contabilidad de las Instituciones en liquidación o liquidación judicial, emisión de estados financieros mensuales, así como en el cumplimiento de las obligaciones fiscales a cargo de dichas Instituciones, en aquellos casos en los que no exista un tercero apoderado para desempeñar el cargo de liquidador o liquidador judicial o un área de contabilidad en dichas Instituciones, en apego a las disposiciones legales aplicables y las políticas que la administración del Instituto emita;
 
-> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2022)</small>
 
-XVI. Proporcionar, en coordinación con la Dirección General Adjunta de Administración, a las unidades administrativas que participen en comisiones o en la realización de visitas de inspección, los servicios y apoyos necesarios para tal efecto;
+XVI. Proporcionar, en conjunto con la Coordinación General de Administración, a las unidades administrativas que participen en comisiones o en la realización de visitas de inspección, los servicios y apoyos necesarios para tal efecto;
 
-> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2022)</small>
 
-XVII. Establecer, conforme a las disposiciones aplicables y en coordinación con la Dirección General Adjunta de Administración, en el ámbito de sus competencias, los mecanismos para la comprobación del gasto de administración, así como para la glosa, guarda y custodia de la documentación comprobatoria de dicho gasto;
+XVII. Establecer, conforme a las disposiciones aplicables y en conjunto con la Coordinación General de Administración, en el ámbito de sus competencias, los mecanismos para la comprobación del gasto de administración, así como para la glosa, guarda y custodia de la documentación comprobatoria de dicho gasto;
 
 > <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
@@ -1509,9 +1555,9 @@ XII. Asistir a las unidades administrativas en la identificación, evaluación, 
 
 XIII. Proponer y coordinar, con base en la información y en las recomendaciones de las unidades administrativas competentes, políticas, metodologías y lineamientos necesarios para la administración integral de los riesgos en que incurran el Instituto y sus unidades administrativas, principalmente en sus actividades de gestión de tesorería, administración de activos y pasivos y de seguro de depósito;
 
-> <small>(ADICIONADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2022)</small>
 
-XIII Bis. Coordinar el seguimiento y revisión de las metodologías en materia de administración de riesgos financieros y operativos, y
+XIII Bis. Coordinar el seguimiento y revisión de las metodologías en materia de administración de riesgos financieros y operativos;
 
 XIV. Identificar, evaluar, informar y revelar los riesgos financieros del Instituto;
 
@@ -1575,11 +1621,11 @@ La imposición de las sanciones a que se refiere la Ley y la Ley de Institucione
 
 La Dirección General Jurídica de lo Contencioso ejercerá la atribución a que se refiere el párrafo anterior, a partir de la información que le proporcionen las unidades administrativas competentes del Instituto.
 
-> <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 33.
 
-Para efectos de lo previsto en el artículo anterior, en ausencia del titular de la Dirección General Jurídica de lo Contencioso, será suplido por la Dirección de Proyectos Sancionatorios o la Dirección Jurídica de Procedimientos Contenciosos, en el orden indicado.
+Para efectos de lo previsto en el artículo anterior, en ausencia del titular de la Dirección General Jurídica de lo Contencioso, será suplido por la Dirección Jurídica de Procedimientos Sancionatorios y la Dirección Jurídica de Procedimientos Contenciosos, de manera conjunta.
 
 ###### ARTÍCULO 34.
 
@@ -1698,3 +1744,19 @@ TERCERO.- El personal, expedientes en trámite, archivo, mobiliario y, en genera
 CUARTO.- Las referencias que se hacen y las atribuciones que se otorgan en lineamientos, acuerdos, reglas y demás disposiciones a las unidades administrativas o áreas que cambian de denominación o ajustan sus atribuciones, por virtud de la expedición del presente Acuerdo, se entenderán hechas o conferidas a las unidades administrativas que asuman dichas atribuciones. Sin perjuicio de lo anterior, los lineamientos, acuerdos, reglas y demás disposiciones expedidas por el Instituto deberán ajustarse, en lo conducente, a lo dispuesto en el presente Acuerdo.
 
 QUINTO.- Se derogan todas aquellas disposiciones administrativas que se opongan o contravengan lo previsto en el presente Acuerdo.
+
+D.O.F. 30 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA PROTECCIÓN AL AHORRO BANCARIO”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El personal, asuntos y expedientes en trámite, archivo, mobiliario y, en general, el equipo de las unidades administrativas que, con motivo del presente Acuerdo, cambian de denominación, se entenderán a cargo de éstas, con independencia de las modificaciones que deban realizarse, a efecto de realizar las modificaciones que correspondan.
+
+TERCERO.- La referencia que se hace de forma enunciativa, más no limitativa, de los asuntos en trámite, expedientes, libros blancos, archivo, mobiliario y, en general, equipo a cargo de las unidades administrativas que dejen de tener competencia en los mismos, por virtud de la entrada en vigor del presente Acuerdo, pasarán a la nueva unidad o unidades administrativas competentes, distribuyéndose de conformidad con el ámbito de facultades que a cada una corresponda.
+
+CUARTO.- Las referencias hechas y las atribuciones que se otorgan en lineamientos, acuerdos, reglas y demás disposiciones a las unidades administrativas que cambian de denominación o se reasignan atribuciones, por virtud de la entrada en vigor del presente Acuerdo, se entenderán hechas o conferidas a las unidades administrativas que asuman dichas atribuciones conforme a lo establecido en el presente Acuerdo. Sin perjuicio de lo anterior, los lineamientos, acuerdos, reglas y demás disposiciones expedidas por el Instituto, deberán modificarse en lo conducente a lo dispuesto en el presente Acuerdo.
+
+QUINTO.- Las unidades administrativas a que se refiere el presente Acuerdo deberán realizar las modificaciones que correspondan en las disposiciones y documentos aplicables a su adscripción y funcionamiento.
+
+SEXTO.- Se derogan todas aquellas disposiciones administrativas que se opongan o contravengan lo previsto en el presente Acuerdo.
