@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2022-03-15"
+last_updated: "2022-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE JUNIO DE 2022.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -78,7 +78,57 @@ IV. Nombrar y remover libremente a las personas que ocupen las Direcciones Ejecu
 
 ### CAPÍTULO II. DE LA ADSCRIPCIÓN DE LAS UNIDADES ADMINISTRATIVAS, Y ÓRGANOS DESCONCENTRADOS, A LA JEFATURA DE GOBIERNO Y A SUS DEPENDENCIAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE JUNIO DE 2022)</small>
+
+###### Artículo 6°.
+
+La Jefatura de Gobierno de la Ciudad de México para el estudio, planeación y despacho de los asuntos que le competen contará con Unidades de Asesoría, de Apoyo Técnico, Jurídico, de Coordinación y de Planeación del Desarrollo, para lo que se le adscriben las Unidades Administrativas, las Unidades Administrativas de Apoyo Técnico-Operativo y los Órganos Desconcentrados siguientes:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE MAYO DE 2019)</small>
+
+A) Secretaría Particular, a la que queda adscrita la:
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2019)</small>
+
+1. Dirección General de Resolución a la Demanda Ciudadana;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+B) Coordinación General del Gabinete de Seguridad Ciudadana y Procuración de Justicia;
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+
+C) Dirección General de Organización Técnica e Institucional, a la que queda adscrita la:
+
+1. (DEROGADO, G.O. 14 DE JUNIO DE 2019)
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 30 DE JUNIO DE 2022)</small>
+
+D) Coordinación General de Asesores y Asuntos Internacionales, a la que queda adscrita:
+
+> <small>(REFORMADO, G.O. 30 DE JUNIO DE 2022)</small>
+
+1. Dirección General de Relaciones Internacionales y Cooperación.
+
+2. (DEROGADO, G.O. 30 DE JUNIO DE 2022)
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE MAYO DE 2019)</small>
+
+E) Comisión para la Reconstrucción de la Ciudad de México, a la que quedan adscritas:
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2019)</small>
+
+1. Dirección General de Atención a Personas Damnificadas;
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2019)</small>
+
+2. Dirección General Operativa.
+
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2019)</small>
+
+Asimismo, se le adscriben los Órganos Desconcentrados denominados Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano de la Ciudad de México (C5); la Agencia Digital de Innovación Pública de la Ciudad de México; y la Junta de Asistencia Privada.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MARZO DE 2022)</small>
 
 ###### Artículo 6º.
 
@@ -532,7 +582,9 @@ F) Dirección General de Patrimonio Histórico, Artístico y Cultural; y
 
 G) Dirección General del Instituto de la Defensa de los Derechos Culturales.
 
-Asimismo, se le adscriben los Órganos Desconcentrados denominados Comisión de Filmaciones de la Ciudad de México y Sistema Público de Radiodifusión de la Ciudad de México.
+> <small>(REFORMADO, G.O. 30 DE JUNIO DE 2022)</small>
+
+Asimismo, se le adscribe el Órgano Desconcentrado denominado Comisión de Filmaciones de la Ciudad de México.
 
 V. A la Secretaría de Desarrollo Económico:
 
@@ -754,9 +806,9 @@ J) Dirección Ejecutiva del Instituto para el Envejecimiento Digno.
 
 K) (DEROGADO, G.O. 2 DE FEBRERO DE 2021)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE MAYO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 30 DE JUNIO DE 2022)</small>
 
-X. A la Secretaría de (sic) Medio Ambiente:
+X. A la Secretaría del Medio Ambiente:
 
 A) Dirección General de Calidad del Aire;
 
@@ -764,7 +816,7 @@ B) Dirección General de Evaluación de Impacto y Regulación Ambiental;
 
 C) Dirección General de Coordinación de Políticas y Cultura Ambiental a la que queda adscrita:
 
-1. Dirección Ejecutiva de Cultura Ambiental;
+1. (DEROGADO, G.O. 30 DE JUNIO DE 2022)
 
 D) Dirección General de Zoológicos y Conservación de la Fauna Silvestre;
 
@@ -779,6 +831,10 @@ E) Dirección General de la Comisión de Recursos Naturales y Desarrollo Rural a
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2019)</small>
 
 F) Dirección General del Sistema de Áreas Naturales Protegidas y Áreas de Valor Ambiental;
+
+> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2022)</small>
+
+1. Dirección Ejecutiva del Bosque de Chapultepec.
 
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2019)</small>
 
@@ -866,13 +922,23 @@ A) Subsecretaria de Infraestructura, a la que quedan adscritas:
 
 2.1. Dirección Ejecutiva de Proyectos de Obras Públicas.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 31 DE ENERO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 30 DE JUNIO DE 2022)</small>
 
-3.- Dirección General de Obras para el Transporte, a la que le queda adscrita:
+3.- Dirección General de Obras para el Transporte, a la que le quedan adscritas:
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2020)</small>
+3.1.- (DEROGADO, G.O. 30 DE JUNIO DE 2022)
 
-3.1.- Dirección Ejecutiva de Construcción del Sistema Cablebús.
+> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2022)</small>
+
+3.2.- Dirección Ejecutiva del Proyecto de Ampliación, Rehabilitación y Reforzamiento de la Línea 12 del Metro y Líneas Adicionales.
+
+> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2022)</small>
+
+3.3.- Dirección Ejecutiva del Proyecto del Tren Interurbano México-Toluca.
+
+> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2022)</small>
+
+3.4.- Dirección Ejecutiva de Proyectos Especiales.
 
 B) Subsecretaria de Servicios Urbanos, a la que quedan adscritas:
 
@@ -1966,6 +2032,10 @@ La Subsecretaría de Infraestructura tendrá las siguientes atribuciones:
 
 I. Planear, programar, dirigir, controlar y evaluar todas las labores encomendadas a su cargo, y establecer procedimientos de integración que propicien optimar su desarrollo de las responsabilidades que son competencia de la Secretaría, además de plantear y formular los anteproyectos de programas y de presupuesto que, en su caso, les correspondan;
 
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2022)</small>
+
+I Bis. Planear las acciones tendientes a la ejecución de Obras para el Transporte, así como los proyectos de Ampliación, Rehabilitación y Reforzamiento de la Línea 12 del Metro y Líneas Adicionales, Ferroviarias y Proyectos Especiales, en coordinación con el organismo público de prestar el servicio;
+
 II. Dar a conocer toda información que les (sic) sea solicitada por otras Dependencias del Gobierno, o en su defecto cuando sea requerida con las formalidades de Ley;
 
 III. Suscribir los documentos relativos al ejercicio de sus facultades y funciones, además de los que le corresponda por delegación o por suplencia;
@@ -2396,97 +2466,51 @@ XL. Apoyar con información a las Alcaldías y a las personas servidoras públic
 
 XLI. Las demás que le señalen las disposiciones jurídicas y/o administrativas y/o aquellas que instruya la Jefa o Jefe de Gobierno de la Ciudad de México.
 
+> <small>(REFORMADO, G.O. 30 DE JUNIO DE 2022)</small>
+
 ###### Artículo 47.
 
-Corresponde a la Dirección Ejecutiva de Cooperación Internacional:
+Corresponde a la Dirección General de Relaciones Internacionales y Cooperación:
 
-I. Colaborar con la persona titular de la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México con la finalidad de que la persona titular de la Jefatura de Gobierno, en representación del Gobierno de la Ciudad de México, suscriba convenios de cooperación específica a nivel internacional, a fin fortalecer vínculos de amistad y cooperación internacional;
+I. Colaborar en la suscripción de instrumentos y/o herramientas internacionales, a fin de fortalecer vínculos de amistad, hermandad, entendimiento y cooperación internacional entre el Gobierno de la Ciudad de México y actores internacionales, apoyando en la negociación de éstos, dándoles el seguimiento correspondiente y verificando la continuidad de los mismos;
 
-II. Acompañar las actividades de la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México, para lograr programas y proyectos del Gobierno de la Ciudad de México en materia de cooperación internacional;
+II. Impulsar programas y proyectos de la Ciudad de México en materia de cooperación internacional;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+III. Apoyar en la creación de estrategias y acciones que impulsen y fortalezcan la cooperación internacional de la Ciudad de México en los ámbitos económico, educativo, cultural, técnico y/o científico, entre otros;
 
-III. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México, en la creación de estrategias que impulsen y fortalezcan la cooperación internacional del Gobierno de la Ciudad de México en los ámbitos económico, educativo, cultural, técnico y/o científico, entre otros;
+IV. Apoyar en la proposición, impulso, ejecución y supervisión de las actividades e intercambio de experiencias entre las instituciones nacionales y extranjeras en materia económica, educativa, cultural, técnica y/o científica que impulsen y fortalezcan la cooperación internacional de la Ciudad de México;
 
-IV. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en la propuesta de las acciones del Gobierno de la Ciudad de México en el ámbito de cooperación internacional;
+V. Apoyar en el diseño e implementación de esquemas, mecanismos e instrumentos para la creación, fortalecimiento y diversificación de los vínculos de cooperación bilateral de la Ciudad de México con distintos actores internacionales;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+VI. Contribuir en la planeación y ejecución de las actividades de protocolo con la comunidad internacional, a fin de coadyuvar con el trabajo diplomático y la acción internacional de la Ciudad de México;
 
-V. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en el impulso del intercambio de experiencias entre las instituciones nacionales y extranjeras en materia económica, educativa, cultural, técnica y/o científica;
+VII. Atender a las delegaciones internacionales que visitan la Ciudad de México;
 
-VI. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en el Diseño e implementación de esquemas, mecanismos e instrumentos para la creación, fortalecimiento y diversificación de los vínculos de cooperación bilateral de la Ciudad de México con distintos actores internacionales;
+VIII. Emprender acciones y/o estrategias en apoyo a las Alcaldías, Dependencias, Órganos Desconcentrados y/o Entidades de la Ciudad de México para la realización de actividades protocolarias, diplomáticas y ceremoniales, a fin de integrarlas a la acción internacional de la Ciudad de México;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+IX. Apoyar en la elaboración del Manual de Protocolo basado en las experiencias de la Ciudad de México;
 
-VII. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en la proposición de las actividades que impulsen y fortalezcan la cooperación internacional del Gobierno de la Ciudad de México en los ámbitos económico, educativo, cultural, técnico y/o científico;
+X. Participar en el impulso, atención y seguimiento de los principales eventos internacionales de gobiernos locales, redes de ciudades y/o principales organismos, así como de los compromisos que de ellos se deriven;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+XI. Apoyar en la elaboración y actualización del calendario de actividades internacionales;
 
-VIII. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en la supervisión de la ejecución de los programas de cooperación internacional e impulsar el intercambio de experiencias en materia económica, educativa, cultural, técnica y/o científica;
+XII. Participar en la planificación, ejecución y difusión a nivel local e internacional de las agendas y procesos globales en las áreas temáticas de interés para la persona titular de la Jefatura de Gobierno de la Ciudad de México y la implementación del Programa de Gobierno;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+XIII. Apoyar en la definición del posicionamiento político del Gobierno de la Ciudad de México en los foros político-internacionales;
 
-IX. Colaborar con la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en el Apoyo que debe brindar a la persona titular de la Jefatura de Gobierno de la Ciudad de México en la celebración de convenios y/o instrumentos de cooperación internacional;
+XIV. Colaborar en la identificación de convocatorias internacionales, coordinando las tareas de comunicación social y construcción de mensajes para dar visibilidad a las políticas públicas del Gobierno de la Ciudad en foros y concursos internacionales;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+XV. Apoyar en la generación de iniciativas de formación de conocimiento sobre temas globales;
 
-X. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México para dar seguimiento y verificación de la continuidad de los acuerdos de cooperación internacional adquiridos por la persona titular de la Jefatura de Gobierno de la Ciudad de México mediante la celebración de diversos instrumentos y/o herramientas internacionales;
+XVI. Garantizar la gestión administrativa oportuna y eficiente de los asuntos en materia internacional del Gobierno de la Ciudad de México;
 
-XI. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en la coordinación de la negociación de los acuerdos de participación internacional en los que la Jefatura de Gobierno de la Ciudad de México sea parte;
+XVII. Apoyar en la programación, desarrollo y seguimiento de las tareas de investigación para presentar propuestas que impulsen y fortalezcan las posibilidades de cooperación técnica, cultural, económica o comercial del Gobierno de la Ciudad de México con gobiernos extranjeros, y
 
-XII. Contribuir a la planeación y ejecución de las actividades de protocolo que la persona Titular de la Jefatura de Gobierno lleva a cabo con la comunidad internacional, a fin de coadyuvar con el trabajo diplomático y la Acción Internacional de la Ciudad de México;
-
-XIII. Brindar información y analizar las propuestas de los diplomáticos acreditados en México y de las personalidades extranjeras para otorgarles las condecoraciones locales; atender a las delegaciones que visitan la Ciudad de México; y enviar oportunamente, a Jefes de Estado y de Gobierno, los mensajes de carácter protocolario;
-
-XIV. Ejecutar las actividades necesarias para la correcta implementación del protocolo diplomático de manera eficiente en los actos oficiales de carácter internacional que organice o en los que participe la Jefatura de Gobierno de la Ciudad de México;
-
-XV. Emprender las acciones necesarias para apoyar a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Ciudad de México para la realización de actividades protocolarias, diplomáticas y ceremoniales;
-
-XVI. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en la elaboración del Manual de Protocolo basado en las experiencias de la Ciudad de México, con el apoyo y colaboración de la Dirección Ejecutiva de Representación Institucional;
-
-XVII. Las demás que le señalen las disposiciones jurídicas y/o administrativas, y/o las que instruyan las personas Titulares de la Coordinación General de Asesores y Asuntos Internacionales, y/o de la Jefatura de Gobierno.
+XVIII. Las demás que le señalen las disposiciones jurídicas y/o administrativas, y/o las que le instruyan las personas titulares de la Coordinación General de Asesores y Asuntos Internacionales, y/o de la Jefatura de Gobierno de la Ciudad de México.
 
 ###### Artículo 48.
 
-Corresponde a la Dirección Ejecutiva de Representación Institucional:
-
-I. Participar como enlace y dar seguimiento al establecimiento y promoción de vínculos institucionales y de cooperación de las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades de la Ciudad de México a nivel internacional, a fin de integrarlas a las estrategias y actividades orientadas a impulsar la acción internacional de la Ciudad de México;
-
-II. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en la elaboración del Manual de Protocolo basado en las experiencias de la Ciudad de México, con el apoyo y colaboración de la Dirección Ejecutiva de Cooperación Internacional;
-
-III. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en la atención y respuesta a las solicitudes de las diferentes instancias de la Administración Pública Local sobre actos de ceremonial relacionados con el ámbito internacional;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-IV. Atender puntualmente el seguimiento de los principales eventos internacionales de gobiernos locales, redes y/o principales organismos, así como de los compromisos que de ellos se deriven;
-
-V. Apoyar a la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en la elaboración y actualización del calendario de actividades internacionales;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-VI. Participar como enlace y dar seguimiento a las agendas y procesos globales en las áreas temáticas de interés para la persona Titular de la Jefatura de Gobierno de la Ciudad de México y la implementación del Programa de Gobierno 2018-2024;
-
-VII. Participar y dar seguimiento a la relación que tiene el Gobierno de la Ciudad de México con las redes de ciudades a nivel internacional;
-
-VIII. Apoyar a las personas Titulares de la Jefatura de Gobierno y de la Coordinación General de Asesores y Asuntos Internacionales en definir el posicionamiento político del Gobierno de la Ciudad de México en los foros políticos internacionales;
-
-IX. En colaboración con la persona Titular de la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México, coordinar las tareas de comunicación social y construcción de mensajes para dar visibilidad a las políticas públicas del Gobierno de la Ciudad en foros internacionales a través de publicaciones, premio y eventos;
-
-X. Coordinar la identificación de convocatorias internacionales para facilitar la participación del Gobierno de la Ciudad de México en foros y concursos internacionales;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XI. Apoyar a la persona Titular de la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México para generar iniciativas de formación y/o generación de conocimiento sobre temas globales;
-
-XII. Apoyar a la persona Titular de la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en la planificación y ejecución de la agenda internacional de la persona Titular de la Jefatura de Gobierno, a efecto de difundirla a nivel local e internacional, contribuyendo en la instrumentación de la estrategia de comunicación social con la finalidad de divulgar la actividad internacional de la Ciudad de México en plataformas y publicaciones propias, así como en medios impresos y electrónicos;
-
-XIII. Emprender las acciones necesarias a efecto de garantizar la gestión administrativa oportuna y eficiente de los asuntos en materia internacional del Gobierno de la Ciudad de México;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XIV. Apoyar a la persona Titular de la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno de la Ciudad de México en la programación, desarrollo y seguimiento de las tareas de investigación para presentar propuestas que impulsen y/o fortalezcan las posibilidades de cooperación técnica, cultural, económica y/o comercial del Gobierno de la Ciudad de México con gobiernos extranjeros; y
-
-XV. Las demás que le señalen las disposiciones jurídicas y/o administrativas, y/o aquellas que instruyan las personas Titulares de la Coordinación General de Asesores y Asuntos Internacionales y/o de la Jefatura de Gobierno de la Ciudad de México.
+(DEROGADO, G.O. 30 DE JUNIO DE 2022)
 
 ###### Artículo 49.
 
@@ -3776,6 +3800,10 @@ V. Verificar y determinar, en su caso, la naturaleza, características, el valor
 
 VI. Decretar el embargo precautorio de las mercancías y de los vehículos de procedencia extranjera, excepto aeronaves, en términos del Artículo 151 de la Ley Aduanera o del Artículo que lo sustituya. Asimismo, conforme a lo establecido en la Ley Aduanera y demás legislación federal aplicable, podrá declarar que dichas mercancías y vehículos han causado abandono en favor del Fisco Federal;
 
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2022)</small>
+
+VI BIS. Ordenar, practicar y, en su caso, levantar el aseguramiento de asuntos en materia de comercio exterior de su competencia, en los términos establecidos en las Leyes Fiscales Federales y, en los Acuerdos y Convenios suscritos con el Ejecutivo Federal;
+
 VII. Constituirse en depositaria de las mercancías, medios de transporte o vehículos embargados precautoriamente, hasta que quede firme la resolución respectiva o, en su caso, hasta que se resuelva la legal devolución de las mercancías, medios de transporte o vehículos de procedencia extranjera;
 
 VIII. Guardar y custodiar las mercancías, los medios de transporte o los vehículos de procedencia extranjera embargados precautoriamente, hasta que quede firme la resolución dictada en el procedimiento administrativo en materia aduanera o se resuelva la legal devolución de la mercancía o vehículo de que se trate;
@@ -3796,9 +3824,17 @@ a) Notificar al interesado los actos administrativos y las resoluciones dictadas
 
 b) Llevar a cabo el procedimiento administrativo de ejecución, para hacer efectivos los créditos fiscales en materia de comercio exterior, con sus correspondientes accesorios, que la Ciudad de México determine en ejercicio de sus atribuciones;
 
-c) Autorizar el pago de créditos fiscales a plazo, ya sea diferido o en parcialidades, con garantía del interés fiscal, cuando sea procedente otorgarse en términos del Código Fiscal de la Federación y su Reglamento, y
+> <small>(REFORMADO, G.O. 30 DE JUNIO DE 2022)</small>
 
-d) Recibir y resolver las solicitudes presentadas por los contribuyentes respecto de la devolución de cantidades pagadas indebidamente o, cuando legalmente así proceda; verificar, determinar y cobrar las devoluciones improcedentes e imponer las multas correspondientes;
+c) Autorizar el pago de créditos fiscales a plazo, ya sea diferido o en parcialidades, con garantía del interés fiscal, cuando sea procedente otorgarse en términos del Código Fiscal de la Federación y su Reglamento;
+
+> <small>(REFORMADO, G.O. 30 DE JUNIO DE 2022)</small>
+
+d) Recibir y resolver las solicitudes presentadas por los contribuyentes respecto de la devolución de cantidades pagadas indebidamente o, cuando legalmente así proceda; verificar, determinar y cobrar las devoluciones improcedentes e imponer las multas correspondientes; y
+
+> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2022)</small>
+
+e) Llevar a cabo la cancelación de créditos fiscales determinados en ejercicio de las facultades en materia de comercio exterior, en términos de las Leyes Fiscales Federales y, en los Acuerdos y Convenios suscritos con el Ejecutivo Federal en materia de comercio exterior;
 
 XV. Revisar y, en su caso, modificar o revocar las resoluciones administrativas de carácter individual no favorables a un particular, emitidas por sus subordinados jerárquicamente, en los términos del penúltimo y último párrafos del Artículo 36 del Código Fiscal de la Federación;
 
@@ -3830,6 +3866,10 @@ XXVII. Llevar a cabo las funciones operativas inherentes a la recaudación, comp
 
 XXVIII. Ejecutar la facultad económico coactiva, mediante el procedimiento administrativo de ejecución, para hacer efectivo los créditos fiscales de carácter federal, en materia de comercio exterior, en los términos de las disposiciones fiscales aplicables y de los acuerdos suscritos con el Ejecutivo Federal;
 
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2022)</small>
+
+XXVIII BIS. Ordenar la práctica de embargos y, en su caso, solicitar la inmovilización o desinmovilización, la transferencia de los recursos de las cuentas, depósitos bancarios, seguros o cualquier otro depósito en moneda nacional o extranjera que se realice en cualquier tipo de cuenta en las entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores o aseguramiento precautorio que tenga a su nombre el contribuyente, en términos de las Leyes Fiscales Federales y, en los Acuerdos y Convenios suscritos con el Ejecutivo Federal en materia de comercio exterior;
+
 XXIX. Aceptar y calificar las garantías que otorguen los contribuyentes para asegurar el interés fiscal, respecto de los créditos fiscales de carácter federal en materia de comercio exterior, en los términos de las disposiciones federales aplicables y de los acuerdos suscritos con el Ejecutivo Federal, así como, registrarlas, autorizar sus (sic) sustitución, cancelarlas, hacerlas efectivas, ordenar su ampliación o resolver su dispensa, cuando sea procedente;
 
 XXX. Imponer las sanciones que correspondan por infracciones a las disposiciones fiscales en materia de comercio exterior, cuya aplicación esté encomendada a la Ciudad de México;
@@ -3860,6 +3900,10 @@ II. Realizar investigaciones de campo, para recopilar datos relacionados con la 
 
 III. Conocer, sistematizar y coordinar la información correspondiente para la emisión de los actos de verificación y/o comprobación del correcto cumplimiento de las obligaciones fiscales en materia de comercio exterior;
 
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2022)</small>
+
+III BIS. Ordenar los actos inherentes a las facultades de comprobación en materia de comercio exterior conferidas a la Administración Pública de la Ciudad de México, en los términos establecidos en las Leyes Fiscales Federales y, en los Acuerdos y Convenios suscritos con el Ejecutivo Federal;
+
 IV. Acordar con el superior jerárquico el desarrollo de sistemas de información necesarios para el desarrollo de sus funciones; y
 
 V. Las demás que le atribuyan expresamente los reglamentos y demás disposiciones administrativas, así como las que les sean conferidas por sus superiores jerárquicos.
@@ -3883,6 +3927,10 @@ III. Iniciar el procedimiento administrativo en materia aduanera o el procedimie
 IV. Ordenar la notificación al interesado, de los actos administrativos y las resoluciones dictadas por la Ciudad de México, que determinen los créditos fiscales en materia de comercio exterior;
 
 V. Ordenar el embargo precautorio de mercancías y vehículos de procedencia extranjera, excepto aeronaves, en términos del Artículo 151 de la Ley Aduanera o del Artículo que lo sustituya;
+
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2022)</small>
+
+V BIS. Ordenar, practicar y, en su caso, levantar el aseguramiento en los asuntos materia de comercio exterior de su competencia, en los términos de las Leyes Fiscales Federales y, en los Acuerdos y Convenios suscritos con el Ejecutivo Federal;
 
 VI. Aplicar el tratamiento que establezcan las disposiciones federales aplicables, tratándose de mercancías de procedencia extranjera que representen perjuicio para la seguridad nacional, la salud pública y el medio ambiente;
 
@@ -5602,73 +5650,65 @@ XXXVII. Las demás que le instruya la persona titular de la Secretaría de la Co
 
 Corresponde a la Dirección General de Gestión Institucional y Cooperación Cultural:
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, G.O. 30 DE JUNIO DE 2022)</small>
 
-I. Coordinar las acciones en materia de planeación estratégica de la política pública que se sometan a consideración de la persona Titular de la Secretaría de Cultura;
+I. Participar en el proceso de definición de políticas públicas culturales, con el fin de generar estrategias de planeación, ejecución, seguimiento y evaluación de los programas culturales que determine la persona titular de la Secretaría de Cultura, con el objetivo de lograr el mayor beneficio social;
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+II. (DEROGADA, G.O. 30 DE JUNIO DE 2022)
 
-II. Impulsar procesos de diseño e instrumentación de la política cultural, con la finalidad de lograr la divulgación, promoción y fomento de la cultura;
+> <small>(REFORMADA, G.O. 30 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+III. Coadyuvar con la persona titular de la Secretaría de Cultura, en la determinación e implementación de los mecanismos de operación que garanticen el desarrollo de programas culturales en concordancia con las directrices de la política pública de gobierno, para contribuir al ejercicio de los derechos culturales de los habitantes y visitantes de la Ciudad de México;
 
-III. Implementar mecanismos de comunicación y organización interna para armonizar los diferentes programas de la Secretaría de Cultura con la política pública de gobierno;
+> <small>(REFORMADA, G.O. 30 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+IV. Evaluar las solicitudes de apoyo financiero y logístico que ingresan a la Secretaría de Cultura, a fin de determinar la viabilidad de los proyectos, con base en la disposición presupuestal, programática y recursos humanos de la institución;
 
-IV. Sostener audiencias con las personas que solicitan apoyo a la Secretaría de Cultura sobre sus peticiones con base en la pertinencia de sus proyectos y las posibilidades financieras y logísticas de la Dependencia;
+> <small>(REFORMADA, G.O. 30 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+V. Fungir como vínculo entre la Secretaría de Cultura, alcaldías, dependencias de los diferentes órdenes de gobierno, instancias internacionales, asociaciones civiles y empresariales, así como instituciones educativas, con la finalidad de fortalecer los canales de comunicación y concertación interinstitucional que permitan la generación de acciones y sinergias para el desarrollo, ampliación y difusión de proyectos culturales integrales;
 
-V. Fortalecer las relaciones con las personas servidoras públicas de las diferentes Dependencias locales y federales e instancias nacionales e internacionales en el ámbito de la cultura, con el fin de atender todos los asuntos de su competencia;
+VI. (DEROGADA, G.O. 30 DE JUNIO DE 2022)
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, G.O. 30 DE JUNIO DE 2022)</small>
 
-VI. Vincular a la Secretaría de Cultura con las Alcaldías, Dependencias locales, federales e instancias internacionales, así como asociaciones civiles y empresariales, para promover y ampliar la oferta cultural en la Ciudad de México;
+VII. Proponer a la persona titular de la Secretaría de Cultura la celebración de convenios con las dependencias, organismos e instituciones del gobierno local, estatal y federal, así como instituciones académicas con competencia en materia cultural, con el fin de fortalecer la cooperación cultural y promover la formulación de proyectos en conjunto que beneficien a la población de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+VIII. (DEROGADA, G.O. 30 DE JUNIO DE 2022)
 
-VII. Promover la celebración de convenios con los tres niveles de gobierno, así como instituciones académicas locales y nacionales que tengan competencia en materia cultural;
+> <small>(REFORMADA, G.O. 30 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+IX. Coadyuvar con la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno en el fortalecimiento de las relaciones establecidas con las distintas representaciones diplomáticas acreditadas en México, a través de la cooperación para impulsar el desarrollo cultural;
 
-VIII. Coordinar y establecer vínculos con el poder legislativo local y federal, para la implementación de programas y proyectos que permitan incrementar la oferta cultural de la Ciudad de México;
+> <small>(REFORMADA, G.O. 30 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+X. Representar a la persona titular de la Secretaría de Cultura, cuando se estime conducente, en las audiencias que se programen con representantes diplomáticos, legisladores, dirigentes políticos y sociales, con la finalidad de otorgar la atención adecuada;
 
-IX. Establecer vínculos con la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno;
+> <small>(REFORMADA, G.O. 30 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+XI. Determinar y ejecutar las estrategias de seguimiento a los compromisos adquiridos ante instancias internacionales, gobiernos locales y redes, con el fin de cumplir con los objetivos planteados;
 
-X. Programar y coordinar las audiencias con representantes diplomáticos, legisladores, dirigentes políticos y sociales, que deban ser atendidos por la Secretaría de Cultura, con la finalidad de que se otorgue una atención adecuada;
+> <small>(REFORMADA, G.O. 30 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+XII. Proponer a la persona titular de la Secretaría de Cultura los lineamientos generales para la asignación de recursos a las organizaciones de la sociedad civil sin fines de lucro, dedicadas al fomento cultural en la Ciudad de México, en función de la disposición presupuestal;
 
-XI. Dar seguimiento a los compromisos adquiridos ante instancias internacionales, gobiernos locales y redes que sitúan la cultura en el centro de sus procesos de desarrollo;
+> <small>(REFORMADA, G.O. 30 DE JUNIO DE 2022)</small>
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+XIII. Conducir el seguimiento y la evaluación de los proyectos desarrollados por las organizaciones culturales que cuentan con un permiso administrativo temporal revocable, con la finalidad de determinar la viabilidad de su continuidad;
 
-XII. Proponer los criterios a partir de los cuales la Secretaría de Cultura asignará recursos a las asociaciones civiles y demás organizaciones de la sociedad civil dedicados al fomento de la cultura en la Ciudad de México;
+XIV. (DEROGADA, G.O. 30 DE JUNIO DE 2022)
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, G.O. 30 DE JUNIO DE 2022)</small>
 
-XIII. Coordinar los mecanismos necesarios para dar seguimiento a los proyectos desarrollados por las organizaciones culturales que cuentan con un Permiso Administrativo Temporal Revocable;
+XV. Coordinar la elaboración de los informes de actividades que dan cuenta de los resultados de la instrumentación de programas culturales que se coordinan en las diferentes unidades administrativas de la Secretaría de Cultura, de acuerdo con la normativa vigente;
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+XVI. (DEROGADA, G.O. 30 DE JUNIO DE 2022)
 
-XIV. Ejecutar los proyectos y programas especiales que requieran de la concurrencia de diferentes niveles o instancias de gobierno, actores privados y sociales, así como de diversas Unidades Administrativas de la Secretaría de Cultura;
+XVII. (DEROGADA, G.O. 30 DE JUNIO DE 2022)
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2022)</small>
 
-XV. Coordinar la elaboración de informes y reportes derivados del seguimiento a los proyectos culturales que se coordinan en la Oficina de la persona titular de la Secretaría de Cultura;
-
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
-
-XVI. Coordinar las acciones necesarias para integrar los informes de avance sobre las metas, programas y proyectos específicos de las Unidades Administrativas y Órganos Desconcentrados adscritos, así como los que la persona titular de la Secretaría de Cultura le instruya; y
-
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
-
-XVII. Analizar y facilitar las evaluaciones de los programas de la Secretaría de Cultura, con la finalidad de verificar que cubran los lineamientos establecidos.
+XVIII. Establecer e informar los mecanismos y estrategias para promover la igualdad, la no discriminación y los derechos culturales en las actividades institucionales de la Secretaría de Cultura, con el fin fortalecer la transversalidad en los programas.
 
 ###### Artículo 138.
 
@@ -6898,7 +6938,9 @@ X. Coordinar y aplicar medidas de seguridad;
 
 XI. Establecer y coordinar los planes de seguridad, búsqueda, salvamento y asistencia, servicios estratégicos, equipamiento y bienes; salud, aprovisionamiento y reconstrucción inicial;
 
-XII. Elaborar el Manual de Organización del Sistema, en la parte de atención de situaciones de emergencia o desastre;
+> <small>(REFORMADA, G.O. 30 DE JUNIO DE 2022)</small>
+
+XII. Proponer y remitir el Proyecto del Manual de Integración y Funcionamiento del Comité de Emergencias de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México, a la persona titular de la Secretaría de Gestión Integral de Riesgos y Protección Civil para los efectos correspondientes;
 
 > <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
 
@@ -7634,6 +7676,10 @@ XVIII. Realizar las visitas relacionadas con las solicitudes de autorización o 
 
 XIX. Colaborar con las autoridades de transporte federal y local, centros de investigación, organizaciones no gubernamentales, el sector privado y organismos de financiamiento y cooperación internacional en la promoción de medios de transporte sustentable y en la formulación y ejecución de programas y medidas relacionadas al transporte en la Ciudad de México.
 
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2022)</small>
+
+XX. Suscribir los documentos, contratos, convenios y demás instrumentos jurídicos necesarios para el ejercicio de sus atribuciones;
+
 ###### Artículo 184.
 
 Corresponde a la Dirección General de Evaluación de Impacto y Regulación Ambiental:
@@ -7716,6 +7762,10 @@ XXV. Coordinar la elaboración, ejecución y evaluación del Programa de Gestió
 
 XXVI. Resolver las acciones de plantación, poda, derribo y trasplante de especies vegetales en la Ciudad de México; y
 
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2022)</small>
+
+XXVI Bis. Suscribir los documentos, contratos, convenios y demás instrumentos jurídicos necesarios para el ejercicio de sus atribuciones; y
+
 > <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2019)</small>
 
 XXVII. Las demás que le atribuyan las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
@@ -7782,43 +7832,37 @@ XXVII. Organizar los eventos y actos donde participe la Secretaría para difundi
 
 XXVIII. Asistir a las Unidades Administrativas de la Secretaría, y a otros Entes y Alcaldías del Gobierno de la Ciudad de México, mediante la ejecución de eventos, programas y actividades que tengan como estrategia fomentar una cultura de medio ambiente en concordancia con las políticas públicas locales, regionales, nacionales e internacionales en los temas que se refieren al medio ambiente.
 
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2022)</small>
+
+XXIX. Suscribir los documentos, contratos, convenios y demás instrumentos jurídicos necesarios para el ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2022)</small>
+
+XXX. Establecer los criterios para el desarrollo de la educación y la cultura ambiental de la Ciudad de México, incidiendo en el fomento de la cultura de preservación y cuidado de los recursos naturales;
+
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2022)</small>
+
+XXXI. Conducir el desarrollo y la ampliación los servicios de cultura, educación y capacitación ambiental a los distintos sectores de la población de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2022)</small>
+
+XXXII. Generar, sistematizar y aprobar conforme a la normativa aplicable, la difusión de la información en materia de educación y cultura ambiental;
+
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2022)</small>
+
+XXXIII. Emitir boletines, comunicados y notas informativas, conforme a las disposiciones aplicables, con el propósito de transmitir a la opinión pública, los proyectos, programas y actividades que realiza la Secretaría del Medio Ambiente;
+
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2022)</small>
+
+XXXIV. Proponer a la persona titular de la Secretaría del Medio Ambiente, la celebración de convenios y demás instrumentos jurídicos, en materia de cultura y educación ambiental, con instituciones públicas y privadas; y
+
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2022)</small>
+
+XXXV. Las demás que le atribuyan las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
+
 ###### Artículo 186.
 
-Corresponde a la Dirección Ejecutiva de Cultura Ambiental:
-
-I. Acordar con la persona Titular de la Dirección General de Coordinación de Políticas y Cultura Ambiental, el despacho de los asuntos de su ámbito de competencia y proporcionar la información que, en su caso, ésta le requiera;
-
-II. Establecer los criterios para el desarrollo de la educación y la cultura ambiental de la Ciudad de México, incidiendo en el fomento de la cultura de preservación y cuidado de los recursos naturales, sobre todo en aquellos sectores sociodemográficos clave como son la población infantil y femenil;
-
-III. Ampliar los servicios de cultura, educación y capacitación ambiental a los distintos sectores de la población de la Ciudad de México;
-
-IV. Generar, sistematizar y difundir la información en materia de educación ambiental;
-
-V. Proponer a las personas Titulares de la Secretaría y de la Jefatura de Gobierno la celebración de convenios de colaboración y otros instrumentos jurídicos en materia de cultura y educación ambiental, con instituciones públicas y privadas;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-VI. Elaborar el análisis de la información que solicite la persona Titular de la Secretaría del Medio Ambiente, con la finalidad de hacer propuestas para fortalecer la protección del medio ambiente;
-
-VII. Elaborar campañas de comunicación que tengan como propósito el cuidado y protección del medio ambiente;
-
-VIII. Realizar actividades sobre promocionales a fin de mejorar la imagen institucional de la Secretaría;
-
-IX. Elaborar boletines, comunicados y notas informativas, con el propósito de transmitir a la opinión pública los proyectos, programas y actividades que realiza la Secretaría;
-
-X. Programar y ejecutar las actividades de logística de los eventos que realice la Secretaría del Medio Ambiente, con la finalidad de apoyar su difusión;
-
-XI. Difundir los programas que se desarrollan en materia de medio ambiente, que tienen como fin mejorar la calidad de vida de los habitantes de la Ciudad de México y lograr incidir en una cultura ambiental para una sustentabilidad de la megalópolis;
-
-XII. Coordinar los apoyos logísticos de los eventos donde participan las diferentes Unidades Administrativas de la Secretaría en la difusión de eventos, programas y actividades que tengan como propósito fomentar una cultura de medio ambiente;
-
-XIII. Coordinar las actividades de logística de los eventos sobre políticas públicas locales regionales, nacionales e internacionales con los temas que se refieren al medio ambiente, a fin de promover su difusión;
-
-XIV. Participar en los apoyos logísticos de eventos de las Secretarías y Alcaldías del Gobierno de la Ciudad de México, para difundir programas y actividades que tengan como propósito fomentar una cultura de medio ambiente en la población;
-
-XV. Organizar eventos con otras instancias gubernamentales, programas y actividades relacionadas con el medio ambiente, con la finalidad de atender públicos específicos de la sociedad en general con apoyos logísticos a los diversos programas que desarrolla la Secretaría del Medio Ambiente en el ámbito de su competencia; y
-
-XVI. Las demás que le encomiende la persona Titular de la Dirección General.
+(DEROGADO, G.O. 30 DE JUNIO DE 2022)
 
 ###### Artículo 187.
 
@@ -8065,6 +8109,42 @@ XXIV. Realizar estudios de diagnóstico y prospectivos sobre los ecosistemas, at
 XXV. Participar en los procesos de regulación de uso y destino de las áreas naturales protegidas y áreas de valor ambiental de la Ciudad de México; y
 
 XXVI. Las demás que le atribuyan otros ordenamientos jurídicos y administrativos aplicables.
+
+> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2022)</small>
+
+###### Artículo 190 Bis.
+
+Corresponde a la Dirección Ejecutiva del Bosque de Chapultepec:
+
+I. Participar en la preservación y el desarrollo del Bosque de Chapultepec, con criterios de sustentabilidad y políticas enfocadas a la rehabilitación, conservación y mantenimiento de la infraestructura y el equipamiento urbano, patrimonio histórico, artístico y cultural;
+
+II. Supervisar y coordinar la ejecución de acciones o actividades enfocadas a la rehabilitación, preservación, conservación y mantenimiento de la infraestructura y el equipamiento urbano del Bosque de Chapultepec, bajo criterios de sustentabilidad, asegurando la correcta regulación del uso, aprovechamiento, explotación y restauración de sus recursos naturales;
+
+III. Promover la participación de los sectores público, social y privado, en acciones y estrategias encaminadas a la preservación y conservación del Bosque de Chapultepec;
+
+IV. Supervisar el cumplimiento de las metas y objetivos planteados en el Programa de Manejo y el Plan Maestro ambos del Bosque de Chapultepec, así como sancionar y emitir opinión respecto a los proyectos derivados de los referidos instrumentos;
+
+V. Promover la cultura ambiental entre los visitantes, con la participación de los sectores público, social y privado, mediante con (sic) la aplicación de estrategias de conservación para el Bosque de Chapultepec, así como coadyuvar con otras dependencias, órganos y/o entidades encargadas del desarrollo de las acciones de educación ambiental, en la realización de actividades relativas;
+
+VI. Regular, coordinar y autorizar conforme a la normativa aplicable, la realización de eventos y actividades, culturales, educativas, recreativas y deportivas que tengan verificativo en el Bosque de Chapultepec, desarrollando estrategias de comunicación con las dependencias, órganos y/o entidades responsables, para difundir las actividades que se oferten;
+
+VII. Aplicar los criterios establecidos por la normativa vigente, con el objeto de regular las actividades comerciales, de régimen especial y prestación de servicios, tanto formales como informales, que se llevan a cabo en el interior del Bosque de Chapultepec;
+
+VIII. Observar, y en su caso informar, que los instrumentos por los que se otorgue el uso, goce, aprovechamiento y/o explotación de los bienes inmuebles a cargo del Bosque de Chapultepec se mantengan actualizados, supervisando el cumplimiento de las obligaciones a cargo de los particulares, y en caso de incumplimiento, informar a las Unidades Administrativas correspondientes o coadyuvar con la Dirección General de Inspección y Vigilancia Ambiental, en la realización de los actos de verificación que resulten conducentes;
+
+IX. Coadyuvar con la Dirección General del Sistema de Áreas Naturales Protegidas y Áreas de Valor Ambiental, en la supervisión y cumplimiento de los instrumentos por los que se otorguen para la realización de actividades culturales, educativas, recreativas y sociales que tengan verificativo en el Bosque de Chapultepec, así como proponer la suscripción de convenios y/o demás instrumentos convencionales, con instituciones públicas o privadas, con la intención de realizar actividades culturales, educativas, recreativas, deportivas y sociales;
+
+X. Programar las acciones para el seguimiento respecto al cumplimiento de las obligaciones por parte de los particulares que tengan el uso, goce y aprovechamiento y/o explotación de los bienes inmuebles del Bosque de Chapultepec, y en su caso, hacerlo del conocimiento a las Unidades Administrativas correspondientes;
+
+XI. Coadyuvar con la Dirección General de Inspección y Vigilancia Ambiental, en la realización de actos de verificación a particulares, que tengan el uso, goce y aprovechamiento y/o explotación de los bienes inmuebles a cargo del Bosque de Chapultepec;
+
+XII. Coadyuvar con las instancias y unidades administrativas que correspondan, en la recaudación, recepción y administración de los recursos financieros;
+
+XVII. (SIC) Coadyuvar con la Dirección General del Sistema de Áreas Naturales Protegidas y Áreas de Valor Ambiental, en la supervisión de los reportes de recaudación de los ingresos de aplicación automática que se generen al interior del Bosque de Chapultepec, que no estén concesionados a particulares y que sean operados por esta;
+
+XVIII. Instruir y supervisar la entrega a la unidad administrativa que corresponda, del reporte de ingresos de las cuotas recaudadas, correspondientes a los ingresos de aplicación automática; y
+
+XIX. Las demás que le atribuyan las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
 
 ###### Artículo 191.
 
@@ -9128,6 +9208,10 @@ Corresponde a la Dirección General de Obras para el Transporte:
 
 I. Coordinar los trabajos de construcción de obras de infraestructura para el transporte y su equipamiento, con las Dependencias, Unidades Administrativas, Alcaldías, Órganos Desconcentrados, así como con las Entidades de la Administración Pública;
 
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2022)</small>
+
+I Bis. Conducir las acciones tendientes a la ejecución de Obras para el Transporte, así como los proyectos de Ampliación, Rehabilitación y Reforzamiento de la Línea 12 del Metro y Líneas Adicionales, Ferroviarias y Proyectos Especiales, en coordinación con el organismo público responsable de prestar el servicio;
+
 II. Colaborar con las Dependencias, Unidades Administrativas, Alcaldías y Órganos Desconcentrados, así como con las Entidades de la Administración Pública, en la planeación, realización de estudios e investigaciones necesarios para optimizar, actualizar, ampliar, construir, equipar y supervisar las obras de infraestructura para el transporte de la Ciudad de México;
 
 III. Planear, presupuestar, ejecutar y supervisar la construcción de las obras de infraestructura para el transporte y su equipamiento;
@@ -9184,29 +9268,81 @@ XXVIII. Verificar que la construcción y mantenimiento de obras concesionadas se
 
 XXIX. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2020)</small>
-
 ###### Artículo 208 Bis.
 
-Corresponde a la Dirección Ejecutiva de Construcción del Sistema Cablebús:
+(DEROGADO, G.O. 30 DE JUNIO DE 2022)
 
-I. Proponer y desarrollar estudios técnicos y estratégicos necesarios para la planeación, diseño e implementación del Sistema de Transporte Público Cablebús;
+> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2022)</small>
 
-II. Establecer los criterios de coordinación y participación con los diferentes entes de la Administración Pública Local y Federal, para la implementación del Sistema de Transporte Público Cablebús;
+###### Artículo 208 Ter.
 
-III. Elaborar y proponer instrumentos de vinculación y colaboración con organismos de cooperación, nacionales e internacionales para la implementación, operación y administración de los proyectos y servicios, así como los relativos a programas y proyectos que se requieran para la implementación del Sistema de Transporte Público Cablebús;
+Corresponde a la Dirección Ejecutiva del Proyecto de Ampliación, Rehabilitación y Reforzamiento de la Línea 12 del Metro y Líneas Adicionales:
 
-IV. Planear, proponer y supervisar proyectos, infraestructura y equipamiento para gestionar, implementar, conservar, ampliar, mejorar y hacer más eficiente el Sistema de Transporte Público Cablebús, y desarrollar proyectos que dicten y vigilen las políticas de operación del mismo, de acuerdo con los lineamientos jurídicos aplicables en la materia;
+I. Proponer y desarrollar estudios técnicos y estratégicos necesarios para la planeación, diseño e implementación de la Línea 12 del Metro y Líneas Adicionales;
 
-V. Participar y coordinarse con los diferentes entes de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México para el desarrollo e implementación de estrategias y proyectos de obra, infraestructura y de servicios relacionados al Sistema de Transporte Público Cablebús;
+II. Establecer los criterios de coordinación y participación con las diferentes Dependencias, Órganos y Entidades de la Administración Pública Local y Federal, para la implementación de la Línea 12 del Metro y Líneas Adicionales;
 
-VI. Coadyuvar en la presentación y seguimiento a las denuncias, querellas y demás actos y recursos jurídicos ante las autoridades competentes por daños ocasionados a la infraestructura, espacios públicos y/o predios a su cargo en custodia y lo inherente a obras del Sistema de Transporte Público Cablebús, así como las que sean parte de sus atribuciones para la defensa de los intereses de la Ciudad de México, pudiendo llegar a acuerdos reparatorios, siempre y cuando se garantice satisfactoriamente la reparación del daño ocasionado, en coordinación con el área jurídica correspondiente y previo cumplimiento de la normatividad aplicable;
+III. Emitir instrumentos de vinculación y colaboración con organismos de cooperación, nacionales e internacionales para la implementación, operación y administración de los proyectos y servicios, así como los relativos a programas y proyectos que se requieran para la implementación de la Línea 12 del Metro y Líneas Adicionales;
 
-VII. La realización de las obras públicas necesarias para el ejercicio de sus facultades, incluso financiadas bajo cualquier modalidad;
+IV. Programar y supervisar proyectos, infraestructura y equipamiento para gestionar, implementar, conservar, ampliar, mejorar y hacer más eficiente la Línea 12 del Metro y Líneas Adicionales, y desarrollar proyectos que dicten y vigilen las políticas de operación del mismo, de acuerdo con los lineamientos jurídicos aplicables en la materia;
 
-VIII. Colaborar con la elaboración, revisión y suscripción de los contratos y convenios que sean necesarios para el ejercicio de sus facultades, sustanciar la terminación anticipada, suspensión y/o rescisión de los mismos, así como ejecutar las garantías y, en su caso, las penas y sanciones correspondientes, de conformidad con la legislación aplicable; y
+V. Coordinar con las diferentes Dependencias, Órganos y Entidades de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México el desarrollo e implementación de estrategias y proyectos de obra, infraestructura y de servicios relacionados de la Línea 12 del Metro y Líneas Adicionales;
 
-IX. Las demás que le confieran las disposiciones legales aplicables, los que sean para el cumplimiento de su objetivo, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
+VI. Participar en la presentación y seguimiento a las denuncias, querellas y demás actos y recursos jurídicos ante las autoridades competentes por daños ocasionados a la infraestructura, espacios públicos y/o predios a su cargo en custodia y lo inherente a obras de la Línea 12 del Metro y Líneas Adicionales, así como las que sean parte de sus atribuciones para la defensa de los intereses de la Ciudad de México, pudiendo llegar a acuerdos reparatorios, siempre y cuando se garantice satisfactoriamente la reparación del daño ocasionado, en coordinación con el área jurídica correspondiente y previo cumplimiento de la normativa aplicable;
+
+VII. Coordinar la realización de las obras públicas necesarias para el ejercicio de sus facultades, incluso financiadas bajo cualquier modalidad;
+
+VIII. Contribuir en la elaboración, revisión y suscripción de los contratos y convenios que sean necesarios para el ejercicio de sus facultades, sustanciar la terminación anticipada, suspensión y/o rescisión de los mismos, así como ejecutar las garantías y, en su caso, las penas y sanciones correspondientes, de conformidad con las disposiciones aplicables; y
+
+IX. Las demás que le confieran las disposiciones aplicables, que sean para el cumplimiento de su objetivo, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
+
+> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2022)</small>
+
+###### Artículo 208 Quáter.
+
+Corresponde a la Dirección Ejecutiva del Proyecto del Tren Interurbano México–Toluca:
+
+I. Proponer y desarrollar estudios técnicos y estratégicos necesarios para la planeación, diseño e implementación del Tren Interurbano México–Toluca;
+
+II. Establecer los criterios de coordinación y participación con las diferentes Dependencias, Órganos y Entidades de la Administración Pública Local y Federal, para la implementación del Tren Interurbano México-Toluca;
+
+III. Emitir instrumentos de vinculación y colaboración con organismos de cooperación, nacionales e internacionales para la implementación, operación y administración de los proyectos y servicios, así como los relativos a programas y proyectos que se requieran para la implementación del Tren Interurbano México-Toluca;
+
+IV. Programar y supervisar proyectos, infraestructura y equipamiento para gestionar, implementar, conservar, ampliar, mejorar y hacer más eficiente el Tren Interurbano México-Toluca, y desarrollar proyectos que dicten y vigilen las políticas de operación del mismo, de acuerdo con los lineamientos jurídicos aplicables en la materia;
+
+V. Coordinar con las diferentes Dependencias, Órganos y Entidades de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México para el desarrollo e implementación de estrategias y proyectos de obra, infraestructura y de servicios relacionados del Tren Interurbano México-Toluca;
+
+VI. Participar en la presentación y seguimiento a las denuncias, querellas y demás actos y recursos jurídicos ante las autoridades competentes por daños ocasionados a la infraestructura, espacios públicos y/o predios a su cargo en custodia y lo inherente a obras del Tren Interurbano México-Toluca, así como las que sean parte de sus atribuciones para la defensa de los intereses de la Ciudad de México, pudiendo llegar a acuerdos reparatorios, siempre y cuando se garantice satisfactoriamente la reparación del daño ocasionado, en coordinación con el área jurídica correspondiente y previo cumplimiento de la normativa aplicable;
+
+VII. Coordinar la realización de las obras públicas necesarias para el ejercicio de sus facultades, incluso financiadas bajo cualquier modalidad;
+
+VIII. Contribuir en la elaboración, revisión y suscripción de los contratos y convenios que sean necesarios para el ejercicio de sus facultades, sustanciar la terminación anticipada, suspensión y/o rescisión de los mismos, así como ejecutar las garantías y, en su caso, las penas y sanciones correspondientes, de conformidad con las disposiciones aplicables; y
+
+IX. Las demás que le confieran las disposiciones aplicables, que sean para el cumplimiento de su objetivo, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
+
+> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2022)</small>
+
+###### Artículo 208 Quinquies.
+
+Corresponde a la Dirección Ejecutiva de Proyectos Especiales:
+
+I. Proponer y desarrollar estudios técnicos y estratégicos necesarios para la planeación, diseño e implementación de Proyectos Especiales;
+
+II. Establecer los criterios de coordinación y participación con las diferentes Dependencias, Órganos y Entidades de la Administración Pública Local y Federal, para la implementación de Proyectos Especiales;
+
+III. Emitir instrumentos de vinculación y colaboración con organismos de cooperación, nacionales e internacionales para la implementación, operación y administración de los proyectos y servicios, así como los relativos a programas y proyectos que se requieran para la implementación de Proyectos Especiales;
+
+IV. Programar y supervisar proyectos, infraestructura y equipamiento para gestionar, implementar, conservar, ampliar, mejorar y hacer más eficiente (sic) los Proyectos Especiales, y desarrollar proyectos que dicten y vigilen las políticas de operación del mismo, de acuerdo con los lineamientos jurídicos aplicables en la materia;
+
+V. Coordinar con las diferentes Dependencia (sic), Órganos y Entidades de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México el desarrollo e implementación de estrategias y proyectos de obra, infraestructura y de servicios relacionados de Proyectos Especiales;
+
+VI. Participar en la presentación y seguimiento a las denuncias, querellas y demás actos y recursos jurídicos ante las autoridades competentes por daños ocasionados a la infraestructura, espacios públicos y/o predios a su cargo en custodia y lo inherente a obras de Proyectos Especiales, así como las que sean parte de sus atribuciones para la defensa de los intereses de la Ciudad de México, pudiendo llegar a acuerdos reparatorios, siempre y cuando se garantice satisfactoriamente la reparación del daño ocasionado, en coordinación con el área jurídica correspondiente y previo cumplimiento de la normativa aplicable;
+
+VII. Coordinar la realización de las obras públicas necesarias para el ejercicio de sus facultades, incluso financiadas bajo cualquier modalidad; y
+
+VIII. Colaborar con la elaboración, revisión y suscripción de los contratos y convenios que sean necesarios para el ejercicio de sus facultades, sustanciar la terminación anticipada, suspensión y/o rescisión de los mismos, así como ejecutar las garantías y, en su caso, las penas y sanciones correspondientes, de conformidad con las disposiciones aplicables; y
+
+IX. Las demás que le confieran las disposiciones aplicables, que sean para el cumplimiento de su objetivo, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
 
 ###### Artículo 209.
 
@@ -10672,6 +10808,10 @@ I. Iniciar el procedimiento administrativo en materia aduanera o el procedimient
 
 II. Decretar el embargo precautorio de las mercancías y de los vehículos de procedencia extranjera, excepto aeronaves, en términos del Artículo 151 de la Ley Aduanera o del Artículo que lo sustituya. Asimismo, conforme a lo establecido en la Ley Aduanera y demás legislación federal aplicable, podrá declarar que dichas mercancías y vehículos han causado abandono en favor del Fisco Federal;
 
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2022)</small>
+
+II BIS. Ordenar, practicar y, en su caso, levantar el aseguramiento en los asuntos materia de comercio exterior de su competencia, en los términos establecidos en las Leyes Fiscales Federales y, en los Acuerdos y Convenios suscritos con el Ejecutivo Federal;
+
 III. Determinar los impuestos de carácter federal y sus accesorios, aplicar las cuotas compensatorias y determinar en cantidad líquida el monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados, en materia de comercio exterior;
 
 IV. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones imputables a estos, conocidos con motivo del ejercicio de sus atribuciones;
@@ -10693,6 +10833,14 @@ XI. Resolver, en los casos que proceda, el levantamiento del embargo precautorio
 XII. Imponer las multas que correspondan, en el ámbito de su competencia, relacionadas con el cumplimiento de las obligaciones fiscales y aduaneras, y aplicar la tasa de recargos que corresponda en términos del Código Fiscal de la Federación vigente;
 
 XIII. Instrumentar el procedimiento administrativo de ejecución, para hacer efectivos los créditos fiscales en materia de comercio exterior, con sus correspondientes accesorios, que la Ciudad de México determine en ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2022)</small>
+
+XIII BIS. Ordenar la práctica de embargos y, en su caso, solicitar la inmovilización o desinmovilización, la transferencia de los recursos de las cuentas, depósitos bancarios, seguros o cualquier otro depósito en moneda nacional o extranjera que se realice en cualquier tipo de cuenta en las entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores o aseguramiento precautorio que tenga a su nombre el contribuyente, en términos de las Leyes Fiscales Federales y, en los Acuerdos y Convenios suscritos con el Ejecutivo Federal en materia de comercio exterior;
+
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2022)</small>
+
+XIII TER. Llevar a cabo la cancelación de créditos fiscales determinados en ejercicio de las facultades en materia de comercio exterior, en términos de las Leyes Fiscales Federales y, en los Acuerdos y Convenios suscritos con el Ejecutivo Federal en materia de comercio exterior;
 
 XIV. Solicitar a los contribuyentes, responsables solidarios o terceros con ellos relacionados, datos, informes o documentos relativos a los trámites de devolución o de compensación de impuestos federales que se causen con motivo de la importación y la exportación de mercancías y vehículos de procedencia extranjera, en el ámbito de su competencia;
 
@@ -10752,13 +10900,17 @@ VIII. Aplicar el tratamiento que establezcan las disposiciones federales aplicab
 
 IX. Acordar con su superior jerárquico el destino y uso de vehículos y de las mercancías de procedencia extranjera que hayan sido asignadas a la Ciudad de México; así como la destrucción, donación, asignación, transferencia o venta de mercancías perecederas, de fácil descomposición o deterioro o de animales vivos embargados precautoriamente, en los términos de la Ley Aduanera y demás disposiciones federales aplicables;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, G.O. 30 DE JUNIO DE 2022)</small>
 
-X. Enajenar, previo acuerdo con su superior jerárquico, los vehículos que hayan sido asignados a la Ciudad de México, siempre que éstos estén inutilizados permanentemente para la circulación, en los términos de la normatividad que emita la Secretaría de Hacienda y Crédito Público; y
+X. Enajenar, previo acuerdo con su superior jerárquico, los vehículos que hayan sido asignados a la Ciudad de México, siempre que éstos estén inutilizados permanentemente para la circulación, en los términos de la normatividad que emita la Secretaría de Hacienda y Crédito Público;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, G.O. 30 DE JUNIO DE 2022)</small>
 
-XI. Realizar el reporte de las asignaciones a la Ciudad de México de mercancías y vehículos de procedencia extranjera ante la autoridad competente en términos de las disposiciones legales aplicables.
+XI. Realizar el reporte de las asignaciones a la Ciudad de México de mercancías y vehículos de procedencia extranjera ante la autoridad competente en términos de las disposiciones legales aplicables; y
+
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2022)</small>
+
+XII. Las demás que le atribuyan expresamente los reglamentos y demás disposiciones administrativas, así como las que le sean conferidas por sus superiores jerárquicos.
 
 #### SECCIÓN IV. DE LAS AUTORIDADES RESOLUTORAS
 
@@ -13338,33 +13490,17 @@ IX. Informar al Congreso de la Ciudad de México a través de su Comisión de Cu
 
 X. Las demás funciones que le atribuyan las leyes y reglamentos, así como las que le encomiende la persona que ocupe la Jefatura de Gobierno de la Ciudad de México;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
 ###### Artículo 300.
 
-El Sistema Público de Radiodifusión de la Ciudad de México es el Órgano Desconcentrado que tiene por objeto transmitir los programas y contenidos de radio y televisión digital del Gobierno de la Ciudad de México.
+(DEROGADO, G.O. 30 DE JUNIO DE 2022)
 
 ###### Artículo 301.
 
-Corresponde a la Dirección General del Sistema Público de Radiodifusión de la Ciudad de México:
-
-I. Diseñar, elaborar y, en su caso, producir las barras de programación de las señales y frecuencias de radio y televisión digital, las cuales deberán considerar los temas culturales, políticos, económicos y sociales de mayor interés para los habitantes de la Ciudad de México;
-
-II. Transmitir materiales radiofónicos, audiovisuales y fílmicos sobre la Ciudad de México, que contribuyan a fortalecer la identidad de sus habitantes, mediante el conocimiento y revalorización de la imagen y tradiciones de los distintos barrios, colonias y comunidades que la conforman;
-
-III. Incentivar la participación Ciudadana en los programas transmitidos por el Sistema, en especial, cuando impliquen la difusión, conocimiento, debate o reflexión de los asuntos que incidan en la vida cotidiana de los habitantes de la Ciudad de México;
-
-IV. Suscribir con los canales o sistemas de comunicación masiva de carácter nacional, estatal, municipal o del extranjero, los acuerdos interinstitucionales, convenios o instrumentos jurídicos que permitan el intercambio y/o producción conjunta de materiales educativos, científicos, culturales, informativos o de difusión;
-
-V. Informar sobre los principales programas y acciones de los órganos de gobierno de la Ciudad de México;
-
-VI. Coadyuvar, con las instancias competentes, en la revisión y producción de los programas transmitidos sobre la Ciudad de México
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+(DEROGADO, G.O. 30 DE JUNIO DE 2022)
 
 ###### Artículo 302.
 
-El Órgano Desconcentrado Sistema Público de Radiodifusión de la Ciudad de México, contará con un Consejo Ciudadano con el objeto de asegurar su independencia y una política editorial imparcial y objetiva. Será integrado por nueve consejeros honorarios que serán elegidos mediante una amplia consulta pública por el voto de dos terceras partes de los miembros presentes del Congreso de la Ciudad de México o, en sus recesos, de la Comisión Permanente.
+(DEROGADO, G.O. 30 DE JUNIO DE 2022)
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 9 DE SEPTIEMBRE DE 2019)</small>
 
@@ -15081,3 +15217,15 @@ PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debid
 SEGÚNDO.- El presente Decreto surtirá efecto a partir del día 16 del mes de marzo de 2022.
 
 TERCERO.- Las referencias hechas en este Reglamento, así como, de manera enunciativa más no limitativa en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones normativas, así como en contratos o convenios, a la Unidad Administrativa que mediante el presente Decreto cambia de denominación, se entenderán hechas a aquella que la sustituya.
+
+G.O. 30 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Los asuntos que con la entrada en vigor del presente Decreto, se encuentren en trámite en las Unidades Administrativas respecto de las cuales se adicionen o deroguen sus atribuciones, serán atendidos y resueltos por aquellas que asuman sus atribuciones que se transfieran en virtud del mismo, en el ámbito de sus respectivas competencias.
+
+CUARTO. Las referencias hechas en este Reglamento, así como las de manera enunciativa más no limitativa que se hagan en otras leyes, reglamentos, decretos, acuerdos, manuales y demás disposiciones administrativas, incluyendo contratos, convenios y/o demás instrumentos convencionales, a las Unidades Administrativas que mediante el presente Decreto se hayan modificado o derogado, se entenderán hechas a aquellas que las sustituyan o asuman sus atribuciones.
