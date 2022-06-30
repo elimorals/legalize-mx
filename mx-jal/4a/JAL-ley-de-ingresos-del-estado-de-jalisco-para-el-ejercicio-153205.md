@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-153205"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2021-12-18"
-last_updated: "2021-12-18"
+last_updated: "2022-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2022
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2022.
 
 Ley publicada en la Sección CVII del Número 50 del Periódico Oficial del Estado de Jalisco, el sábado 18 de diciembre de 2021.
 
@@ -569,11 +569,21 @@ III. A los vehículos de servicio particular adaptados para personas con discapa
 
 IV. Quedan exentas del pago de los derechos a que se refiere el presente artículo:
 
-a) Las personas físicas propietarias de vehículos que hayan sido objeto de robo o producto de secuestro, en el Estado de Jalisco, recuperados por cualquier autoridad y asegurados en los depósitos administrados por la Secretaría de Administración. De darse el cambio de propietario después de haberse cometido y denunciado el robo, no aplicará la exención mencionada en este inciso; y
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
 
-b) Las personas físicas propietarias de los bienes que son sujetos al procedimiento administrativo en materia aduanera, que se dejen sin efectos por autoridad administrativa o jurisdiccional competente.
+a) Las personas físicas propietarias de vehículos que hayan sido objeto de robo o producto de secuestro, en el Estado de Jalisco, recuperados por cualquier autoridad y asegurados en los depósitos administrados por la Secretaría de Administración. De darse el cambio de propietario después de haberse cometido y denunciado el robo, no aplicará la exención mencionada en este inciso;
 
-c) Tratándose de instituciones de asistencia social privada, legalmente reconocidas por la Secretaría del Sistema de Asistencia Social, siempre y cuando las causas que motiven la detención del vehículo no sean imputables a sus empleados o por delito culposo.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2022)</small>
+
+b) Las personas propietarias de vehículos, que no tengan responsabilidad en el hecho de tránsito terrestre en el que se vean involucrados, de acuerdo a la determinación de la autoridad competente;
+
+(REFORMADO Y REUBICADO [N. DE E. ANTES INCISO B.), P.O. 30 DE JUNIO DE 2022)
+
+c) Las personas físicas propietarias de los bienes que son sujetos al procedimiento administrativo en materia aduanera, que se dejen sin efectos por autoridad administrativa o jurisdiccional competente; y
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO Y REUBICADO ANTES INCISO C.], P.O. 30 DE JUNIO DE 2022)</small>
+
+d) Tratándose de instituciones de asistencia social privada, legalmente reconocidas por la Secretaría del Sistema de Asistencia Social, siempre y cuando las causas que motiven la detención del vehículo no sean imputables a sus empleados o por delito culposo.
 
 La exención para los incisos que anteceden aplicará hasta 15 días hábiles posteriores a la fecha de liberación del vehículo, mercancía u objeto de que se trate, que se encontraban en los depósitos administrados por la Secretaría de Administración. Una vez transcurrido dicho plazo, quedará sin efectos la exención, generándose la obligación de pago del derecho en los términos de este artículo.
 
@@ -1202,3 +1212,13 @@ JUAN ENRIQUE IBARRA PEDROZA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28792/LXIII/22 QUE REFORMA EL ARTÍCULO 25 DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2022”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco ".
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado de Jalisco, dispondrá de sesenta días para realizar las modificaciones reglamentarias y administrativas que deriven del presente decreto.
