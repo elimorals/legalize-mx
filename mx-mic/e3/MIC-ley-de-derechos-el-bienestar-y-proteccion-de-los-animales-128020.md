@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-derechos-el-bienestar-y-proteccion-de-los-animales-12802
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-02"
-last_updated: "2019-08-28"
+last_updated: "2022-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE DERECHOS, EL BIENESTAR Y PROTECCION DE LOS ANIMALES EN EL ESTADO DE MICHOACAN DE OCAMPO -- ANTES LEY DE DERECHOS Y PROTECCION PARA LOS ANIMALES EN EL ESTADO DE MICHOACAN DE OCAMPO --
 
-LEY DE DERECHOS Y PROTECCIÓN PARA LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO
+LEY DE DERECHOS, EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2022.
 
 Ley publicada en la Décima Sección del Núm. 58 del Periódico Oficial del Estado de Michoacán, el lunes 2 de abril de 2018.
 
@@ -41,7 +41,9 @@ NÚMERO 549
 
 ÚNICO. Se expide la Ley de Derechos y Protección para los Animales en el Estado de Michoacán de Ocampo, para quedar como sigue:
 
-LEY DE DERECHOS Y PROTECCIÓN PARA LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JUNIO DE 2022)</small>
+
+LEY DE DERECHOS, EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
 ### CAPÍTULO I. APLICACIÓN
 
@@ -57,25 +59,33 @@ III. Fomentar la participación de los sectores público, privado y social, enca
 
 IV. Establecer la coordinación institucional encaminada a la generación de políticas públicas en materia de protección, respeto y trato digno para los animales no humanos.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
+
 ###### Artículo 2.
 
-El Estado a través de esta Ley reconoce que los animales no humanos son seres sintientes que experimentan distintas sensaciones físicas y emocionales, razón por la que son reconocidos como objeto de tutela de la presente Ley, erigiendo sobre las personas físicas o morales la obligación de procurar su protección, respeto y bienestar, conforme a los principios éticos contenidos en la presente Ley, su Reglamento y otras disposiciones aplicables.
+El estado reconoce a los animales no humanos como seres sintientes, dotados de un sistema nervioso central que les permite experimentar distintas sensaciones físicas y emocionales, a los cuales, se les debe de brindar protección, un trato digno, respeto y bienestar, por lo que se obliga a las personas físicas o morales a cumplir la presente Ley y demás disposiciones aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
 
 ###### Artículo 3.
 
-Para los efectos de esta Ley, además de los conceptos definidos en la legislación federal y las Normas Oficiales Mexicanas en la materia, se entenderá por:
+Para los efectos de esta Ley, se entenderá por:
 
-I. Animal no humano: Ser sintiente, dotado de un sistema nervioso central que le permite experimentar distintas sensaciones físicas y emocionales;
+I. Abandono animal: Son las inacciones de las obligaciones del propietario, poseedor o responsable, dejando al animal no humano en condición de desamparo. El abandono puede darse en vía pública, lugares de alto riesgo, o en el propio domicilio y será equiparable para los fines penales y administrativos con el maltrato animal;
 
-II. Autoridad Competente: Autoridades de nivel federal, estatal o municipal que cuentan con facultades expresas en esta Ley y demás ordenamientos jurídicos aplicables en la materia;
+II. Animal no humano: Ser sintiente, dotado de un sistema nervioso central que le permite experimentar distintas sensaciones físicas y emocionales;
 
-III. Centro: Centro de Atención Animal;
+III. Autoridad competente: Autoridades de nivel federal, estatal o municipal que cuentan con facultades expresas en esta Ley, y demás ordenamientos jurídicos aplicables en la materia;
 
-IV. Estado: Estado Libre y Soberano de Michoacán de Ocampo;
+IV. Centro: Centro de Atención Animal;
 
-V. Rastro: Rastro municipal; y,
+V. Estado: Estado de Michoacán de Ocampo;
 
-VI. Médico Veterinario Zootecnista: Profesionista de la medicina veterinaria y zootecnia, titulado, que cuente con cédula profesional legalmente expedida.
+VI. Fiscalía Especializada: La Fiscalía Especializada en Combate y Delitos Contra el Ambiente y la Fauna; quien atenderá los delitos de crueldad, maltrato y abandono animal;
+
+VII. Médico Veterinario Zootecnista: Profesionista de la medicina veterinaria y zootecnia, titulado, que cuente con cédula profesional legalmente expedida; y,
+
+VIII. Rastro: Rastro municipal.
 
 ###### Artículo 4.
 
@@ -101,7 +111,9 @@ Son autoridades competentes en la observancia y aplicación de la presente Ley:
 
 I. El Titular del Poder Ejecutivo del Estado;
 
-II. La Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+II. Secretaría del Medio Ambiente;
 
 III. La Secretaría de Salud;
 
@@ -109,9 +121,9 @@ IV. La Secretaría de Educación;
 
 V. La Secretaría de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
 
-VI. La Fiscalía General del Estado; y,
+VI. La Fiscalía General del Estado a través de la Fiscalía Especializada; y,
 
 VII. Los Gobiernos Municipales.
 
@@ -125,9 +137,11 @@ II. Promover la participación de la sociedad en materia de bienestar y protecci
 
 III. Supervisar el cumplimiento de las atribuciones conferidas a las dependencias de la Administración Pública Estatal, en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2022)</small>
+
 ###### Artículo 7.
 
-Corresponde a la Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial:
+Corresponde a la Secretaría del Medio Ambiente:
 
 I. Establecer las bases de coordinación para la protección y bienestar de los animales con los gobiernos municipales del Estado de Michoacán de Ocampo;
 
@@ -145,7 +159,17 @@ VII. Vigilar el trato que reciben los animales no humanos en el Estado, en cualq
 
 VIII. Coadyuvar con la Secretaría de Salud en el asesoramiento a los gobiernos municipales en el manejo adecuado y el control de plagas, cuando éstas representen un peligro para la salud humana o para el medio ambiente; y,
 
-IX. A través de la Dirección de Ordenamiento y Sustentabilidad del Patrimonio Natural, vigilar y aplicar el cumplimiento de la presente Ley.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+IX. A través de la Dirección de Ordenamiento y Sustentabilidad del Patrimonio Natural, vigilar y aplicar el cumplimiento de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+X. La promoción de programas y campañas de educación, así como de capacitación relativos al bienestar y protección a los animales en coordinación con las autoridades competentes; y,
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2022)</small>
+
+XI. Celebrar el «Día Estatal de los Derechos, el bienestar y la protección de los Animales», el día hábil más próximo al 4 de octubre de cada año.
 
 ###### Artículo 8.
 
@@ -191,39 +215,51 @@ b) Los animales no humanos se encuentren en abandono o en situación de maltrato
 
 c) Se impida la venta de animales no humanos en la vía pública.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2022)</small>
 
 ###### Artículo 11.
 
-Corresponde a la Fiscalía General del Estado:
+Corresponde a la Fiscalía General del Estado, a través de la Fiscalía Especializada:
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
 
-I. Recibir denuncias e integrar las carpetas de investigación, por incumplimiento a las disposiciones de esta Ley. En los lugares donde no existan oficinas de la Fiscalía General, esta atribución corresponde a los gobiernos municipales a través del síndico municipal o quien ejerza esta función;
+I. Recibir denuncias e integrar las carpetas de investigación, por la comisión de delitos de violencia contra animales. En los lugares donde no existan oficinas de la Fiscalía Especializada, esta atribución corresponde a los gobiernos municipales a través del Síndico Municipal; o quien ejerza esta función;
 
 II. Ejecutar acción penal en contra de quien incurra en la comisión de un delito en materia de la presente Ley; y,
 
 III. Dar aviso a las autoridades federales cuando se advierta el incumplimiento o la violación a cualquier norma federal aplicable en la materia, así como cuando en el proceso de investigación se encuentre implicado alguna especie de fauna silvestre o en estatus de riesgo.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
+
 ###### Artículo 12.
 
 Corresponde a los Gobiernos Municipales:
 
-I. Otorgar y regular los permisos a los establecimientos que involucren en cualquier actividad animales no humanos, sin importar su especie o destino;
+I. Expedir, licencias de funcionamiento para la operación de establecimientos comerciales, a personas físicas o morales dedicadas a la crianza, reproducción, entrenamiento, mercadeo de animales, rastros o centros de sacrificio, eventos de exhibición y espectáculos, y las demás que la reglamentación permita;
 
-II. Vigilar que los establecimientos que involucren en cualquier actividad animales no humanos, sin importar su especie o destino, cumplan con las disposiciones de la presente Ley y las aplicables en la materia;
+II. Los ayuntamientos expedirán el permiso para la utilización de animales en festividades públicas;
 
-III. Promover campañas de difusión en materia de protección, bienestar y adopción de los animales no humanos;
+III. Promover campañas de difusión en materia de adopción, bienestar, conservación y control de los animales no humanos;
 
-IV. Retirar los cadáveres de animales no humanos de la vía pública;
+IV. Reglamentar el Centro;
 
-V. Retirar los animales no humanos que estén abandonados en la vía pública y canalizarlos a los Centros o a las asociaciones protectoras legalmente constituidas para tal fin;
+V. Capturar a los animales que deambulen y canalizarlos al Centro. En caso de que presenten síntomas de rabia, otras enfermedades graves y transmisibles, y los que no puedan ser atendidos en el Centro, se canalizarán a la dependencia municipal correspondiente, para su valoración;
 
-VI. Expedir constancias cuando se entregue en adopción algún animal doméstico, que se encuentre en los Centros, en la que se asiente su condición zoosanitaria;
+VI. Capacitar y equipar al personal del Centro, así como al personal de seguridad pública para el manejo adecuado de los animales no humanos;
 
-VII. La operación de los Centros procurando la protección y bienestar de los animales no humanos; y,
+VII. Vigilar que los establecimientos que involucren en cualquier actividad animales no humanos, sin importar su especie o destino, cumplan con las disposiciones de la presente Ley y las aplicables en la materia;
 
-VIII. La operación o concesión en su caso, de los rastros municipales y establecimientos de incineración y disposición final de restos, vigilando que se cumplan las normas sanitarias.
+VIII. Recibir y atender las denuncias ciudadanas de crueldad contra los animales, maltrato, así como de abandono animal, y hacerlas del conocimiento de la Fiscalía Especializada;
+
+IX. Cancelar permisos y licencias, de espectáculos o establecimientos cuando no se cumpla con las condiciones previstas en la presente Ley y sus reglamentos;
+
+X. Establecer en el ámbito de su competencia, campañas periódicas y permanentes de adopción, vacunación, prevención de enfermedades y esterilización;
+
+XI. Imponer conforme a su reglamentación municipal, las sanciones administrativas y preventivas correspondientes, en caso de flagrancia e infracción a esta Ley y sus reglamentos, en el ámbito de su competencia;
+
+XII. Retirar los cadáveres de animales no humanos de la vía pública; y,
+
+XIII. Coadyuvar con las asociaciones para expedir constancias cuando se entregue en adopción algún animal doméstico, que se encuentre en los Centros, en la que se asiente su condición zoosanitaria.
 
 ### CAPÍTULO III. ORGANISMOS AUXILIARES
 
@@ -295,9 +331,11 @@ VI. Permitir a las Asociaciones Protectoras debidamente constituidas, visitar la
 
 El Rastro, es un organismo municipal de servicio público. En los procesos de sacrificio de los animales no humanos destinados al consumo, deberán realizarse mediante sacrificio humanitario y cumpliendo con los requisitos y especificaciones previstas para esos fines en las Normas Oficiales Mexicanas aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
+
 ###### Artículo 22.
 
-Para prestar los servicios a cargo del Rastro, éste contará con personal capacitado y calificado en el manejo de animales no humanos destinados al consumo y podrá auxiliarse con la colaboración de prestadores de servicio social.
+Para prestar los servicios a cargo del Rastro, los gobiernos municipales deberán de capacitar al personal haciendo de su conocimiento métodos humanitarios para el sacrificio de los animales, deberán ser de manera rápida, sin dolor ni sufrimiento innecesario, utilizando métodos físicos o químicos, el Rastro contará con personal capacitado y calificado en el manejo de animales no humanos destinados al consumo y podrá auxiliarse con la colaboración de prestadores de servicio social.
 
 ###### Artículo 23.
 
@@ -305,9 +343,63 @@ En cualquier caso las autoridades del Rastro serán responsables por el maltrato
 
 Los gobiernos municipales serán responsables de la vigencia y cumplimiento de las disposiciones anteriores en los rastros de su jurisdicción.
 
-### CAPÍTULO IV. FAUNA DOMÉSTICA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2022)</small>
 
-### CAPÍTULO V. FAUNA SILVESTRE
+### CAPÍTULO III BIS. DE LAS ASOCIACIONES PROTECTORAS DE LOS ANIMALES NO HUMANOS
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+###### Artículo 23 Bis.
+
+Las asociaciones protectoras de animales no humanos, para efectos de esta Ley, son los organismos de la sociedad civil conformados sin fines de lucro, auxiliares en la supervisión del cumplimiento de la presente Ley; se regirán bajo las condiciones legalmente establecidas en la normatividad aplicable.
+
+Los grupos ciudadanos y rescatistas independientes de la sociedad civil podrán auxiliar a las autoridades responsables en materia de asesoría y acompañamiento, en el cumplimiento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+###### Artículo 23 Ter.
+
+Las asociaciones tendrán los siguientes derechos:
+
+I. Auxiliar en el bienestar y conservación de los animales no humanos;
+
+II. Emitir opinión técnica a las autoridades competentes;
+
+III. Auxiliar a las autoridades correspondientes en la supervisión de los Centros, lugares de expendio, crianza, centros de espectáculos, centros de sacrificio o rastros. Para lo cual, se deberá cumplir con el siguiente procedimiento:
+
+a) Se deberá presentar solicitud por escrito ante la autoridad respectiva, con una anticipación mínima de diez días hábiles;
+
+b) Fundamentar la necesidad de la visita, el número de integrantes que asistirán y los elementos a verificar;
+
+c) La autoridad municipal, valorará la solicitud, dando respuesta por escrito en un plazo no mayor a tres días hábiles;
+
+d) Durante las visitas, se podrá documentar casos de maltrato animal o procedimientos de sacrificio que conlleven crueldad animal; y,
+
+e) Derivado de lo anterior, se podrán ejercer las recomendaciones necesarias por parte de las asociaciones, de las cuales dará (sic) seguimiento y respuesta las autoridades.
+
+IV. Asesorar y auxiliar a la sociedad para la presentación y seguimiento de denuncias por motivos de crueldad contra los animales, maltrato y abandono animal;
+
+V. Capacitar a solicitud expresa de las autoridades, a centros educativos, organizaciones de la sociedad civil y a la ciudadanía en general, para fomentar el bienestar, conservación y respeto a los animales no humanos;
+
+VI. Elaborar y difundir a campañas periódicas que contribuyan a la adopción de animales no humanos abandonados, donación de alimento y medicamentos para los mismos;
+
+VII. Presentar denuncias ante las autoridades correspondientes, cuando se tengan los elementos que constaten maltrato, abandono y crueldad animal;
+
+VIII. Ser sujetos de programas de apoyo económico y en especie que contribuyan a sus fines, a través de la capacitación y mejora; y,
+
+IX. En coordinación y apoyo con las autoridades estatales, municipales, así como de la Fiscalía Especializada, promover campañas de esterilización, vacunación, concientización y fomento de la denuncia, en contra del maltrato y crueldad animal.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+
+###### Artículo 23 Quater.
+
+Las asociaciones deberán:
+
+I. Contar con un registro vigente ante las autoridades correspondientes; y,
+
+II. Informar anualmente a las autoridades competentes del censo de población de sus animales bajo su cuidado, posesión y responsabilidad, en el caso de que la asociación cuente con un refugio para animales no humanos.
+
+### CAPÍTULO IV. FAUNA DOMÉSTICA
 
 ###### Artículo 24.
 
@@ -357,7 +449,7 @@ Los padres o tutores, serán responsables del trato que los menores den a los an
 
 Cualquier persona que tenga conocimiento de un acto, hecho u omisión en perjuicio de los animales objeto de tutela de la presente ley, tiene el deber de informar a la autoridad competente de la existencia del mismo. La autoridad competente deberá verificar la existencia del acto, omisión o hecho que fue denunciado y proceder según sea el caso.
 
-### CAPÍTULO VI. ADOPCIÓN
+### CAPÍTULO V. FAUNA SILVESTRE
 
 ###### Artículo 30.
 
@@ -385,7 +477,7 @@ La actividad de la caza y la pesca en el Estado, deberán realizarse conforme a 
 
 Toda persona que tenga conocimiento del ejercicio ilegal de la caza, pesca, captura o comercio de la fauna silvestre, deberáì (sic) denunciarlo ante las autoridades competentes.
 
-### CAPÍTULO VII. ADIESTRAMIENTO
+### CAPÍTULO VI. ADOPCIÓN
 
 ###### Artículo 36.
 
@@ -401,7 +493,7 @@ Las personas físicas o morales que organicen eventos para otorgar animales dom�
 
 Los Centros están obligados a promover constantemente la adopción de los animales domésticos que tengan bajo su resguardo. Los mismos deberán ser entregados sanos, vacunados, desparasitados y esterilizados. Haciendo además el seguimiento de éstos para que en el caso de que se detecte alguna forma de maltrato sean recuperados de inmediato.
 
-### CAPÍTULO VIII. ANIMALES DE ASISTENCIA
+### CAPÍTULO VII. ADIESTRAMIENTO
 
 ###### Artículo 39.
 
@@ -433,7 +525,7 @@ Está prohibido el adiestramiento de un animal no humano cuando tenga por finali
 
 Cuando se suspenda el ejercicio de actividades de adiestramiento por el incumplimiento de alguna de las disposiciones señaladas en esta Ley o las demás aplicables a la materia, los gobiernos municipales tomarán las medidas necesarias para el aseguramiento y protección de los animales no humanos.
 
-### CAPÍTULO IX. ATENCIÓN MÉDICA VETERINARIA
+### CAPÍTULO VIII. ANIMALES DE ASISTENCIA
 
 ###### Artículo 44.
 
@@ -471,7 +563,7 @@ IX. Los ejemplares deberán contar con acceso a la atención médica veterinaria
 
 X. En toda exhibición o espectáculo público o privado, en el que participen animales no humanos vivos debe garantizarse su trato humanitario y respetuoso durante todo el tiempo que dure su participación.
 
-### CAPÍTULO X. CRÍA Y VENTA
+### CAPÍTULO IX. ATENCIÓN MÉDICA VETERINARIA
 
 ###### Artículo 47.
 
@@ -507,7 +599,7 @@ Los establecimientos encargados de prestar atención médica veterinaria a los a
 
 Bajo ninguna circunstancia deberán realizar a los animales no humanos mutilaciones por cuestiones meramente estéticas.
 
-### CAPÍTULO XI. TRASLADO Y SACRIFICIO
+### CAPÍTULO X. CRÍA Y VENTA
 
 ###### Artículo 51.
 
@@ -527,7 +619,7 @@ Queda prohibida la venta de animales no humanos vivos o muertos sin el permiso o
 
 El comercio de animales no humanos se hará obligatoriamente en establecimientos autorizados y vigilados por los gobiernos municipales y por las autoridades competentes.
 
-### CAPÍTULO XII. EXPERIMENTACIÓN
+### CAPÍTULO XI. TRASLADO Y SACRIFICIO
 
 ###### Artículo 55.
 
@@ -569,7 +661,7 @@ Nadie puede sacrificar a un animal no humano en la vía pública, salvo por moti
 
 Se exceptúa de esta disposición el empleo de plaguicidas o productos similares contra animales no humanos nocivos o para combatir plagas domésticas y agrícolas, los cuales serán implementados de acuerdo a lo establecido por las Normas Oficiales Mexicanas.
 
-### CAPÍTULO XIII. PROHIBICIONES Y SANCIONES
+### CAPÍTULO XII. EXPERIMENTACIÓN
 
 ###### Artículo 62.
 
@@ -600,6 +692,8 @@ VI. Éstos se apeguen a las Normas Oficiales Mexicanas en la materia para el cui
 ###### Artículo 65.
 
 En los casos permitidos, el animal no humano objeto de prácticas o de experimentación deberá previamente ser insensibilizado, según las características de la especie y el tipo del procedimiento experimental, curado y alimentado en forma debida, antes y después de la intervención.
+
+### CAPÍTULO XIII. PROHIBICIONES Y SANCIONES
 
 ###### Artículo 66.
 
@@ -660,3 +754,9 @@ P.O. 28 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO QUINTO.- SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 5; Y EL PÁRRAFO PRIMERO Y LA FRACCIÓN I DEL ARTÍCULO 11 DE LA LEY DE DERECHOS Y PROTECCIÓN PARA LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 30 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 148.- ARTÍCULO PRIMERO.- SE MODIFICA EL NOMBRE DE LA LEY; SE REFORMAN LOS ARTÍCULOS 2, 3, 5 FRACCIONES II Y VI; EL PRIMER PÁRRAFO DEL ARTÍCULO 7, ASÍ COMO LA FRACCIÓN IX Y SE ADICIONAN LAS FRACCIONES X Y XI; SE REFORMAN LOS ARTÍCULOS 11, 12 Y 22; Y, SE ADICIONA EL CAPÍTULO III BIS, DE LAS ASOCIACIONES PROTECTORAS DE LOS ANIMALES NO HUMANOS, QUE CONTIENE LOS ARTÍCULOS 23 BIS, 23 TER Y 23 QUATER, DE LA LEY DE DERECHOS Y PROTECCIÓN PARA LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE ADICIONA UN SEGUNDO Y UN TERCER PÁRRAFO AL ARTÍCULO 311 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
