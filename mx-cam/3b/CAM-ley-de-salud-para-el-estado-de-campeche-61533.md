@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2022-06-23"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -580,6 +580,10 @@ Se concede acción popular para denunciar, ante la Secretaría Estatal, todo hec
 La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
 
 I. La atención de la mujer durante el embarazo, el parto y el puerperio;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2022)</small>
+
+I Bis. La prevención de la transmisión del VIH/Sida y otras Infecciones de Transmisión Sexual, en mujeres embarazadas a fin de evitar la transmisión perinatal;
 
 II. La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna; y
 
@@ -2660,3 +2664,13 @@ PRIMERO.- El presente decreto entrará en vigor diez días después de su public
 SEGUNDO.- Para los efectos que se deriven de este decreto, las dependencias encargadas de la aplicación de la ley adoptarán las medidas necesarias en sus programas y acciones de trabajo, procurando que éstas se realicen con sus previsiones presupuestales, o a través de la concertación de acciones entre la (sic) Secretarías de Educación y de Salud con integrantes de los sectores social y privado, mediante la firma de convenios en términos de Ley.
 
 TERCERO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 1 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 85 POR EL QUE “SE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 58 DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE”.]
+
+Artículo Primero. El presente decreto entrará en vigor 180 días después de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. La Secretaría de Salud de la administración pública estatal adoptará las medidas pertinentes para la observancia de lo dispuesto en el presente decreto, de conformidad con la disponibilidad presupuestal del ejercicio correspondiente.
+
+Artículo Tercero. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
