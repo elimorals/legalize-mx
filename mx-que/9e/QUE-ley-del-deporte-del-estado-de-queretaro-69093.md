@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-deporte-del-estado-de-queretaro-69093"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-26"
-last_updated: "2021-10-08"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69093&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY DEL DEPORTE DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 26 de junio de 2009.
 
@@ -207,11 +205,15 @@ XI. Promover la creación y fomento de patronatos, fundaciones y demás organism
 
 XII. Generar un informe anual sobre la evaluación del cumplimiento de los objetivos del Programa;
 
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
 
-XIII. Procurar la igualdad de oportunidades entre mujeres y hombres para participar en actividades deportivas independiente de la edad, capacidades físicas e intelectuales, preferencias sexuales, condición étnica-racial, económica, social o estado civil; y
+XIII. Procurar la igualdad de oportunidades entre mujeres y hombres para participar en actividades deportivas independiente de la edad, capacidades físicas e intelectuales, preferencias sexuales, condición étnica-racial, económica, social o estado civil;
 
-XIV. Las demás obligaciones y atribuciones que le otorguen la presente Ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2022)</small>
+
+XIV. Fomentar el desarrollo de la activación física, la cultura física y el deporte, como medio importante en la preservación de la salud, así como en la prevención de enfermedades, adicciones, consumo de sustancias psicoactivas y delitos; y
+
+XV. Las demás obligaciones y atribuciones que le otorguen la presente Ley y otras disposiciones aplicables.
 
 ###### Artículo 12.
 
@@ -1020,3 +1022,13 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 1 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA EL ARTÍCULO 11 DE LA LEY DEL DEPORTE DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga (sic) a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
