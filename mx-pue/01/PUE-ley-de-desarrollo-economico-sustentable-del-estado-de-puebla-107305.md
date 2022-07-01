@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-economico-sustentable-del-estado-de-puebla-10
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-30"
-last_updated: "2019-06-28"
+last_updated: "2022-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de marzo de 2015.
 
@@ -213,9 +213,17 @@ XVI. Fomentar la creación, desarrollo, expansión y asociatividad de las MIPYME
 
 XVII. Establecer los mecanismos mediante los cuales la Secretaría elaborará las políticas de corto, mediano y largo plazo, para elevar la productividad y competitividad de las MIPYMES;
 
-XVIII. Impulsar la comercialización de productos poblanos en los mercados locales, nacionales e internacionales, y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
 
-XIX. Establecer las condiciones para impulsar, entre los recién egresados de los sistemas de educación media y superior, la cultura emprendedora, la innovación y la creación de empresas.
+XVIII. Impulsar la comercialización de productos poblanos en los mercados locales, nacionales e internacionales;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
+
+XIX. Establecer las condiciones para impulsar, entre los recién egresados de los sistemas de educación media y superior, la cultura emprendedora, la innovación y la creación de empresas, y
+
+(ADICIONADA, P.O. 1 DE JULIO DE 2022
+
+XX. Promover la mejora regulatoria y la simplificación administrativa que favorezcan la inversión y el desarrollo empresarial.
 
 ###### ARTÍCULO 6.
 
@@ -1270,6 +1278,14 @@ SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto p
 P.O. 28 DE JUNIO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 19 DE LA LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 5, Y ADICIONA LA FRACCIÓN XX AL 5 DE LA LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
