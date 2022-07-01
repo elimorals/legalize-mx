@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2022-05-26"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -172,6 +172,10 @@ XLIII. Tarifa: el conjunto de valores unitarios que sirve de base para determina
 XLIV. Toma: conexión a la red para dar servicio de agua al predio del usuario, incluyendo el ramal y el cuadro;
 
 XLV. Tratamiento de aguas residuales: conjunto de acciones para mejorar la calidad del agua residual, para cumplir con la normatividad vigente para su reuso;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2022)</small>
+
+XLV Bis. Unidad de medida y actualización vigente (UMA): la referencia económica en pesos, entendida como el valor establecido por el Instituto Nacional de Estadística y Geografía, en términos del artículo 26, apartado B, de la Constitución Política de los Estados Unidos Mexicanos, que será utilizado como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas, así como en las disposiciones jurídicas que emanen de todas las anteriores;
 
 XLVI. Uso: aplicación del agua a una actividad que implique el consumo, parcial o total de ese recurso;
 
@@ -1305,7 +1309,9 @@ XVIII. Otorgar los permisos de descargas de aguas residuales a los sistemas de d
 
 XIX. Llevar a cabo campañas continuas de cultura del agua entre la población, primordialmente para promover el uso racional del agua, evitar su contaminación; y colaborar en el sostenimiento y preservación de los servicios públicos;
 
-XX. Realizar las visitas de inspección y verificación conforme lo establecido en la ley; los reglamentos y la Ley de Procedimientos Administrativos del Estado y municipios de San Luis Potosí;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
+
+XX. Realizar las visitas de inspección y verificación conforme lo establecido en la ley; los reglamentos y el Código Procesal Administrativo Para el Estado de San Luis Potosí;
 
 XXI. Aplicar las sanciones por las infracciones que se cometan a esta Ley y sus reglamentos;
 
@@ -1744,6 +1750,12 @@ IV. No haber desempeñado cargo alguno como miembro de la Junta de Gobierno, Dir
 V. No desempeñar o haber desempeñado algún cargo de dirección en un partido político estatal o nacional en los últimos cinco años antes del nombramiento, y
 
 VI. No ser pariente consanguíneo o por afinidad hasta el cuarto grado de los integrantes de la Junta de Gobierno.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2022)</small>
+
+ARTÍCULO 101 TER. Las contralorías internas de los organismos operadores de agua potable y conexos contarán con áreas, investigadora; y substanciadora; correspondiendo a la primera, la investigación de faltas administrativas; y a la segunda, dirigir y conducir el procedimiento de responsabilidades administrativas, desde la admisión del informe de presunta responsabilidad administrativa, y hasta la conclusión de la audiencia inicial, en los términos de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
+
+Las personas encargadas de las áreas: investigadora; y substanciadora, serán designadas como lo establece el párrafo segundo del artículo 101 de esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2011)</small>
 
@@ -2869,9 +2881,11 @@ Los inspectores deberán acreditar su personalidad y exhibir la orden escrita qu
 
 El proceso de inspección y verificación de aguas sujetas a las disposiciones del Estado, se realizará en los términos que señale el reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2022)</small>
+
 ###### ARTICULO 205.
 
-Los resultados de la inspección y verificación de las descargas de aguas residuales, producirán todos los efectos legales y podrán servir de base para que la Comisión y las demás dependencias y entidades estatales competentes, apliquen las sanciones previstas en esta Ley. El proceso que se instaure para la supervisión, vigilancia y fiscalización de las disposiciones contenidas en este Capítulo, se realizará en los términos que prevean los reglamentos de esta Ley y demás disposiciones contenidas en la Ley de Procedimientos Administrativos del Estado y municipios de San Luis Potosí.
+Los resultados de la inspección y verificación de las descargas de aguas residuales, producirán todos los efectos legales y podrán servir de base para que la Comisión y las demás dependencias y entidades estatales competentes, apliquen las sanciones previstas en esta Ley. El proceso que se instaure para la supervisión, vigilancia y fiscalización de las disposiciones contenidas en este Capítulo, se realizará en los términos que prevean los reglamentos de esta Ley y demás disposiciones contenidas en el Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 ### CAPITULO II. Infracciones y Sanciones Relativas a las Aguas Estatales
 
@@ -3708,5 +3722,21 @@ P.O. 26 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0331.- SE REFORMA EL ARTÍCULO 232, EN SU FRACCIÓN III, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0358.- SE REFORMAN LOS ARTÍCULOS 79 EN SU FRACCIÓN XX Y 205; Y ADICIONA AL ARTÍCULO 3° LA FRACCIÓN XLV BIS, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0359.- SE ADICIONA EL ARTÍCULO 101 TER, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
