@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-prevenir-combatir-y-sancionar-toda-forma-de-56440"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2022-06-22"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -453,6 +453,22 @@ IV. Recabar información estadística, confiable y actualizada sobre las persona
 
 V. Evaluar los mecanismos que permitan investigar y sancionar el maltrato y abuso contra las personas en situación de calle durante desalojos y operativos, que ejecutan y/o instiguen las personas servidoras públicas.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2022)</small>
+
+###### Artículo 27 Ter.
+
+Los entes públicos, estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras medidas positivas a favor de la igualdad de oportunidades y de trato para las personas migrantes las siguientes:
+
+I. Diseñar e implementar una campaña permanente de divulgación, en diferentes idiomas sobre los requisitos administrativos o de cualquier naturaleza que deben cumplir las personas migrantes, para regular su legal estancia en el país;
+
+II. Diseñar e implementar campañas de difusión para la prevención y atención relacionadas con la trata de personas y la explotación sexual que sufran las personas migrantes;
+
+III. Podrán implementar un programa de albergues especiales, exclusivos para personas migrantes (con independencia de la situación o calidad migratoria en la que se encuentren) cuya vida, salud, seguridad e integridad personal se encuentre en riesgo de ser violada;
+
+IV. Generar un sistema de información estadística confiable, con la participación de organizaciones de la sociedad civil especializadas, que dé cuenta del número de personas migrantes, refugiadas y solicitantes de asilo que se encuentran en el Estado, que permita el diseño e implementación de programas y campañas para la atención de este sector de la población;
+
+V. Revisar y en su caso corregir las prácticas de las y los funcionarios públicos que prestan la atención a las personas migrantes, refugiadas y solicitantes de asilo, que pueden constituir un trato indigno, a fin de prevenir y eliminar conductas discriminatorias y la limitación o negación al acceso a programas y servicios.
+
 ### CAPÍTULO V. DE LAS ACCIONES PARA INVESTIGAR Y SANCIONAR CONDUCTAS DISCRIMINATORIAS
 
 ###### Artículo 28.
@@ -608,3 +624,13 @@ P.O. 22 DE JUNIO DE 2022.
 PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 1 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 84 POR EL QUE "SE ADICIONA EL ARTÍCULO 27 TER A LA LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para los efectos que se deriven de este decreto, los entes públicos estatales y municipales adoptarán las medidas necesarias para su aplicación, procurando que éstas se realicen con sus previsiones presupuestales asignadas.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
