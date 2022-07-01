@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-adquisiciones-para-la-administracion-publica-del-78424"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-29"
-last_updated: "2021-07-14"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2010.
 
@@ -353,9 +353,15 @@ IV. Acreditar, mediante la exhibición de los documentos respectivos, que es pro
 
 V. Demostrar su solvencia económica y capacidad para la producción y suministro de mercancías, materias primas o bienes muebles y, en su caso, para el arrendamiento de éstos o la prestación de servicios;
 
-VI. Acreditar el cumplimiento de las normas sobre inscripción o registro que exijan las disposiciones de orden fiscal o administrativo; y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
 
-VII. Pagar los derechos que establezca la ley respectiva.
+VI. Acreditar el cumplimiento de las normas sobre inscripción o registro que exijan las disposiciones de orden fiscal o administrativo;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2022)</small>
+
+VII. Exhibir Constancia de Antecedentes de No Corrupción; y
+
+VIII. Pagar los derechos que establezca la ley respectiva.
 
 2. La Contraloría o la Contraloría Municipal, en su caso, podrá verificar en cualquier tiempo la información a que se refiere este artículo, así como emitir lineamientos que deberán cumplir los interesados para inscribirse en el Padrón de Proveedores, los cuales deberán de publicarse previamente en el Periódico Oficial del Estado.
 
@@ -1242,3 +1248,15 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-182 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS; LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS; Y LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. En un plazo de 30 días, la Fiscalía General de Justicia del Estado, deberá reformar el Reglamento de la Ley Orgánica de la Fiscalía General de Justicia del Estado de Tamaulipas, para adecuarlo a las presentes disposiciones.
+
+TERCERO. La Secretaría de Finanzas realizará los ajustes conducentes que deriven del presente Decreto, a los ordenamientos legales correspondientes.
+
+CUARTO. Los recursos que se obtengan por el cobro del derecho relativo a la expedición de la Constancia de Antecedentes de No Corrupción se destinarán al fortalecimiento de las atribuciones, facultades y obligaciones propias de la Fiscalía Especializada en Combate a la Corrupción.
