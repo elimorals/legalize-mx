@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2022-05-18"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -735,17 +735,37 @@ En la elección de la persona titular del órgano interno de control, el Congres
 
 I. Nombrará una comisión especial de cinco legisladores, encargada de sustanciar el procedimiento en los términos del presente artículo;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
 
-II. La comisión especial emitirá una convocatoria pública que deberá ser difundida en el Periódico Oficial del Estado, y cuando menos en uno de los diarios locales de mayor circulación en la Entidad, y que deberá observar los requisitos establecidos para su elección, así como un sistema que garantice la igualdad de oportunidades en el acceso a la función pública con base en el mérito, y los mecanismos más idóneos y eficientes para su adecuada profesionalización, atrayendo a los mejores candidatos para ocupar los puestos, a través de procedimientos transparentes, objetivos y equitativos;
+II. La comisión especial propondrá una convocatoria pública, la cual una vez aprobada por el Pleno del Congreso del Estado, será publicada en el Periódico Oficial del Estado, en cuando menos uno de los diarios locales de prensa escrita de mayor circulación en la Entidad, y en la página electrónica de internet del Congreso del Estado.
 
-III. La comisión integrará una lista no menor de tres aspirantes, que presentará a la consideración del Pleno del Congreso del Estado;
+La convocatoria deberá contener, al menos:
+
+a) Los requisitos de elegibilidad establecidos en esta Ley.
+
+b) Los documentos necesarios para acreditar el cumplimiento de los requisitos de elegibilidad.
+
+c) Periodo, horario y lugar de recepción de las solicitudes para participar en el procedimiento de elección.
+
+La elección de la persona titular del órgano interno de control se realizará con base en el mérito profesional;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
+
+III. Una vez agotadas las etapas del procedimiento, la comisión especial someterá a la consideración del Pleno del Congreso del Estado, un dictamen que contendrá una lista con los nombres de todas las personas que al haber cumplido los requisitos, resulten elegibles al cargo;
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
 
 IV. El Pleno del Congreso por mayoría de sus miembros presentes, de la lista presentada por la comisión especial, elegirá en votación por cédula, a quien deberá fungir como persona titular del órgano Interno de Control de la CEGAIP; y
 
 V. Efectuada la elección, se citará a la persona electa para que rinda la protesta de ley, ante el Pleno del Congreso.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2022)</small>
+
+La persona titular del órgano interno de control en funciones que aspire a su reelección, deberá solicitarlo dentro del procedimiento de elección respectivo, en el cual participará en igualdad de condiciones con el resto de las y los participantes que al efecto se inscriban, estando exento de presentar los documentos que establezca la convocatoria para acreditar el cumplimiento de los requisitos de elegibilidad, pudiendo exhibir y actualizar su currículum vitae con todos aquellos datos y documentos que estime pertinentes, con el objeto de comprobar nuevos conocimientos, aptitudes y experiencias adquiridos en la materia del cargo, debiendo presentar además por escrito declaración bajo protesta de decir verdad, que cumple con todos los requisitos de elegibilidad que exige la ley para ocupar dicho cargo público, lo que podrá ser corroborado en cualquier tiempo por la Comisión Especial.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2022)</small>
+
+Para la valoración de la persona titular del órgano interno de control que busca su reelección, la Comisión Especial recurrirá a la copia certificada del expediente que obre en el archivo del Congreso del Estado, que fue integrado con motivo de su participación en el procedimiento previo que la llevó al cargo, así como las demás constancias que presente para actualizar su currículum.
 
 #### Sección Cuarta. Del Consejo Consultivo de la CEGAIP
 
@@ -3204,6 +3224,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 18 DE MAYO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0321.- SE REFORMAN LOS ARTÍCULOS 37 EN SU PÁRRAFO SEGUNDO, 39 EN SUS FRACCIONES V, VI Y VII Y 41 EN SU PÁRRAFO PRIMERO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0357.- SE REFORMA EL ARTÍCULO 41 EN SUS FRACCIONES II Y III; Y ADICIONA AL MISMO ARTÍCULO 41 DOS PÁRRAFOS, ÉSTOS COMO PENÚLTIMO Y ÚLTIMO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
