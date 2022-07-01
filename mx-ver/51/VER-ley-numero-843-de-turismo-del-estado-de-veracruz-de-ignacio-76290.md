@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-843-de-turismo-del-estado-de-veracruz-de-ignacio-762
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-10"
-last_updated: "2021-05-13"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE JULIO DE 2022.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el martes 10 de agosto de 2010.
 
@@ -521,6 +521,24 @@ III. Un Consejo Consultivo por cada municipio con vocación turística.
 
 Los Consejos Regionales en el Estado se integrarán por cada región turística en la Entidad, o por una región geográfica específica para el desarrollo de rutas y productos turísticos. En estos Consejos estarán representados los sectores público y privado, éste a través de cámaras, asociaciones, prestadores de servicios y operadores turísticos.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], G.O. 1 DE JULIO DE 2022)</small>
+
+Los Consejos Regionales estarán integrados por:
+
+I. Las y los Presidentes Municipales de la región que corresponda;
+
+II. Las y los Directores de Turismo de cada uno de esos municipios; y
+
+III. Un representante del sector privado vinculado a la prestación de servicios turísticos, inscrito al Registro Nacional de Turismo, de cada uno de esos municipios.
+
+> <small>(ADICIONADO, G.O. 1 DE JULIO DE 2022)</small>
+
+Al frente de cada Consejo Regional estará la o el Presidente Municipal que previamente se elija por sus homólogos. Las y los integrantes contarán con derecho a voz y voto.
+
+> <small>(ADICIONADO, G.O. 1 DE JULIO DE 2022)</small>
+
+Los Consejos Regionales durarán el periodo de los gobiernos municipales y deberán reunirse al menos cada tres meses en la sede y modalidad que decidan sus integrantes, y previa convocatoria de la o el Secretario Técnico, que será el Director de Turismo del mismo municipio de quien presida el Consejo Regional; de estos trabajos, procederán a enterar a la Secretaría, con la finalidad de coordinar las políticas públicas por parte del Ejecutivo acordes a las necesidades de cada región.
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 19.
@@ -533,9 +551,15 @@ II. Identificar los atractivos o productos específicos que puedan vincular la r
 
 III. Coadyuvar con la Secretaría en el desarrollo de nuevas rutas, circuitos y productos turísticos para su comercialización;
 
-IV. Proponer las necesidades de capacitación prioritarias en sus regiones e impulsar la competitividad turística de Veracruz; y
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2022)</small>
 
-V. Todas aquellas actividades que propicien el desarrollo turístico de sus regiones.
+IV. Proponer las necesidades de capacitación prioritarias en sus regiones e impulsar la competitividad turística de Veracruz;
+
+> <small>(ADICIONADA, G.O. 1 DE JULIO DE 2022)</small>
+
+V. Definir un programa anual de actividades turísticas adecuado y redituable para su región; y
+
+VI. Todas aquellas actividades que propicien el desarrollo turístico de sus regiones.
 
 > <small>(REFORMADO, G.O. 11 DE MAYO DE 2021)</small>
 
@@ -1668,3 +1692,15 @@ G.O. 13 DE MAYO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 1 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 237 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado.
+
+Segundo. Se deroga cualquier disposición que se opongan (sic) al presente Decreto.
+
+Tercero. Se concede un plazo de noventa días, contados a partir del inicio de la vigencia del presente decreto, a efecto de que el Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave, realice las adecuaciones necesarias a las disposiciones reglamentarias aplicables para dar cumplimiento efectivo a este Decreto.
+
+Cuarto. A efecto de complementar la reglamentación a la que hace referencia el artículo transitorio anterior, se otorga un plazo de ciento veinte días para que el Poder Ejecutivo del Estado de Veracruz emita un reglamento interno que aplique a cada Consejo Regional establecido en la Ley de la materia.
