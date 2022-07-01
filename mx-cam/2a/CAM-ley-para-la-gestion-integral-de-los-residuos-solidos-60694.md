@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-gestion-integral-de-los-residuos-solidos-60694"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-04"
-last_updated: "2019-12-13"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY PARA LA GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS URBANOS, DE MANEJO ESPECIAL Y PELIGROSO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el martes 4 de marzo de 2008.
 
@@ -223,13 +223,17 @@ XVII. Diseñar políticas públicas para que los establecimientos y empresas imp
 
 XVIII. Realizar campañas de difusión y concientización hacia la población sobre la importancia de la no utilización de bolsas y popotes de plástico, y dar a conocer las alternativas con las que, de ser necesario, podrán sustituirse estos productos, así como las ventajas que esto conlleva para su salud y protección del medio ambiente;
 
-> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
 
-XIX. Elaborar y difundir programas de transición gradual y hasta lograr la sustitución de los productos de plástico no biodegradable de un solo uso en establecimientos mercantiles o comerciales entregadas a título gratuito al consumidor final; y
+XIX. Elaborar y difundir programas de transición gradual y hasta lograr la sustitución de los productos de plástico no biodegradable de un solo uso en establecimientos mercantiles o comerciales entregadas (sic) a título gratuito al consumidor final;
 
-> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
 
-XX. Promover el uso de sustitutos de artículos de plásticos desechables.
+XX. Promover el uso de sustitutos de artículos de plásticos desechables; y
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2022)</small>
+
+XXI. Fomentar el aprovechamiento de la materia orgánica de los residuos sólidos urbanos y de manejo especial en procesos de generación de energía, en coordinación con los municipios.
 
 ###### Artículo 6.
 
@@ -247,7 +251,9 @@ a). Formular, por sí o en coordinación con otros municipios, y con la particip
 
 b). Emitir los reglamentos y demás disposiciones jurídico-administrativas de observancia general dentro de sus jurisdicciones respectivas, a fin de dar cumplimiento a lo establecido en la presente ley;
 
-c). Controlar los residuos sólidos urbanos;
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2022)</small>
+
+c) Controlar los residuos sólidos urbanos y, en coordinación con el Gobierno del Estado, aprovechar la materia orgánica en procesos de generación de energía, derivada de estos residuos y en los que resulten de manejo especial;
 
 d). Prestar, por sí o a través de gestores, el Servicio Público de Manejo Integral de Residuos Sólidos Urbanos y de Manejo Especial, observando lo dispuesto en la Ley General para la Prevención y Gestión Integral de los Residuos y en la presente Ley;
 
@@ -1336,3 +1342,13 @@ SEGUNDO.- La restricción definitiva de la utilización de popotes y de bolsas d
 TERCERO.- Concluido el plazo señalado en el artículo anterior, todos los establecimientos comerciales, deberán llevar a cabo la sustitución de popotes y de bolsas de plástico de acarreo de un solo uso.
 
 CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 1 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 83 POR EL QUE “SE REFORMAN LAS FRACCIONES XIX Y XX DEL ARTÍCULO 5; Y EL INCISO C) DE LA FRACCIÓN IV DEL ARTÍCULO 6 Y, SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 5 DE LEY PARA LA GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS URBANOS, DE MANEJO ESPECIAL Y PELIGROSO DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente después de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Para los efectos que se deriven del presente decreto, una vez publicadas las normas oficiales mexicanas que establezcan las especificaciones que deban cumplir los sitios de disposición final de residuos sólidos urbanos para el aprovechamiento de la materia orgánica en procesos de generación de energía, el Gobierno del Estado en coordinación con los Municipios de la Entidad, podrá implementar los instrumentos jurídicos y/o administrativos necesarios, en términos de la legislación aplicable al efecto.
+
+Artículo Tercero. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
