@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-notariado-para-el-estado-de-puebla-148179"
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-05"
-last_updated: "2021-03-17"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
 
 Ley publicada en la Cuarta Sección al Número 5 del Periódico Oficial del Estado de Puebla, el viernes 5 de mayo de 2021.
 
@@ -1391,6 +1391,14 @@ XIII. El o los actos se consignarán en cláusulas numeradas redactadas con clar
 
 XIV. Designará con precisión las cosas que sean objeto del instrumento, de tal modo que no puedan confundirse con otras, y si se tratare de bienes inmuebles, determinará su naturaleza, ubicación, colindancias o linderos, y en cuanto fuere posible sus dimensiones y extensión superficial, agregándose al apéndice toda la documentación que le presenten, para la perfecta identificación del inmueble; Si se trata de derechos reales, se identificarán expresando los bienes a que se refieren;
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2022)</small>
+
+En la transmisión o constitución de derechos reales sobre inmuebles, en los actos u operaciones que se celebren ante Notarios Públicos, estos últimos deberán identificar la forma en la que se paguen dichas obligaciones y dar cuenta de ello dentro del Instrumento Notarial, en aquellos casos en que las obligaciones sean pagadas mediante trasferencia bancaria o mediante cheque, los fedatarios deberán agregar al apéndice de dicha escritura, la copia e impresión de los mismos, protegiendo los datos personales en términos de la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2022)</small>
+
+Los cheques en todo caso, deberán librarse de manera nominativa.
+
 XV. Asentará con claridad y precisión las renuncias de derechos que los otorgantes realicen válidamente conforme a su voluntad manifestada o las consecuencias del acto, y de palabra, subrayando su existencia, explicará a los otorgantes el sentido y efectos jurídicos de las mismas; cuidando proporcionar, en el caso de personas que recientemente hayan cumplido la mayoría de edad, o de cónyuges que por su situación pudieran requerirla, y en general, de grupos sociales vulnerables, una mayor explicitación oral de sus términos y consecuencias, y respondiendo todo cuestionamiento al respecto;
 
 XVI. Hará constar la forma en que le fue acreditada la personalidad jurídica de quien comparezca en representación de otro o en ejercicio de un cargo, por cualquiera de los siguientes medios:
@@ -1423,7 +1431,29 @@ f) La fecha o fechas en que se firme la escritura por los otorgantes o por la pe
 
 g) Los hechos que la persona titular de la Notaría presencie y que guarden relación con el acto que autorice, como la entrega de dinero o de títulos y otros.
 
-XXI. La persona titular de la Notaría que redacte formalice y autorice un instrumento que guarde vinculación con otro u otros anteriores que le resulten concurrentes y lo afecten siempre que obre en el protocolo de la Notaría a su cargo deberá asentar en el folio, cuando el espacio sea suficiente, la anotación sucinta mediante la que explique el motivo que los asocie y la afectación que los relacione. Si el espacio resultare insuficiente, la persona titular de la Notaría lo hará constar mediante inscripción en notas complementarias, transcritas en papel membretado del que use habitualmente para el despacho de los negocios de la Notaría a su cargo el cual deberá agregar al apéndice.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
+
+XXI. La persona titular de la Notaría que redacte formalice y autorice un instrumento que guarde vinculación con otro u otros anteriores que le resulten concurrentes y lo afecten, siempre que obre en el protocolo de la Notaría a su cargo deberá asentar en el folio, cuando el espacio sea suficiente, la anotación sucinta mediante la que explique el motivo que los asocie y la afectación que los relacione. Si el espacio resultare insuficiente, la persona titular de la Notaría lo hará constar mediante inscripción en notas complementarias, transcritas en papel membretado del que use habitualmente para el despacho de los negocios de la Notaría a su cargo el cual deberá agregar al apéndice; y
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2022)</small>
+
+XXII. En los instrumentos en los que hagan constar cualquiera de los actos u operaciones siguientes, se deberá identificar la forma en la que se paguen las obligaciones que de ellos deriven cuando las operaciones tengan un valor igual o superior al equivalente a 14,417 Unidades de Medida y Actualización, al día en que se realice el pago o se cumpla la obligación:
+
+a) Constitución o transmisión de derechos reales sobre bienes inmuebles, salvo las garantías que se constituyan en favor de instituciones del sistema financiero u organismos públicos de vivienda;
+
+b) Transmisiones de propiedad o constitución de derechos reales sobre vehículos, nuevos o usados, ya sean aéreos, marítimos o terrestres;
+
+c) Transmisiones de propiedad de relojes, joyería, metales preciosos y piedras preciosas, ya sea por pieza o por lote, y de obras de arte;
+
+d) Adquisición de boletos que permita participar en juegos con apuesta, concursos o sorteos, así como la entrega o pago de premios por haber participado en dichos juegos con apuesta, concursos o sorteos;
+
+e) Prestación de servicios de blindaje para cualquier vehículo de los referidos en el inciso b) de esta fracción o bien, para bienes inmuebles;
+
+f) Transmisión de dominio o constitución de derechos de cualquier naturaleza sobre los títulos representativos de partes sociales o acciones de personas morales; y
+
+g) Constitución de derechos personales de uso o goce de cualquiera de los bienes a que se refieren los incisos a), b) y e) de la presente fracción.
+
+En estos casos se deberá asentar en el propio Instrumento, los datos de la forma de pago, como la fecha, los números de identificación asentados, concepto, suscriptores, descripción de la firma o su equivalente de validación y demás información que obre en el documento.
 
 ###### ARTÍCULO 113.
 
@@ -1615,6 +1645,20 @@ III. Las personas titulares de las Notarías y Jueces deberán consultar la aute
 
 La Dirección del Archivo de Notarías, para emitir su informe, deberá considerar la consulta a la base de datos del Registro Nacional de Poderes Notariales.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2022)</small>
+
+ARTÍCULO 132 BIS. - Tratándose de mandatos y poderes generales o especiales para actos de dominio, las personas titulares de las Notarías deberán:
+
+I. Verificar que los poderes generales o especiales para actos de dominio estén inscritos en:
+
+a) El Registro Público de la Propiedad y Comercio de la entidad federativa en la que se hayan expedido, y
+
+b) El Sistema del Registro Nacional de Poderes Notariales;
+
+II. Corroborar fehacientemente su existencia en el libro en que fueron asentados y acreditar cómo se realizó esa corroboración.
+
+III. Comprobar que estos se encuentren debidamente legalizados ante la autoridad competente de la demarcación territorial en la que fueron otorgados.
+
 ###### ARTÍCULO 133.
 
 Las personas titulares de las Notarías deberán informar a la Autoridad Notarial sobre el otorgamiento o revocación de los poderes, mandatos, y actos de apoderamiento pasados ante su fe, ya sean generales o especiales, otorgados por personas físicas y personas morales con fines no mercantiles y que faculten a realizar actos de disposición sobre bienes inmuebles, dentro de los cinco días hábiles siguientes al otorgamiento del instrumento de que se trate.
@@ -1622,6 +1666,20 @@ Las personas titulares de las Notarías deberán informar a la Autoridad Notaria
 El aviso correspondiente será presentado por medios electrónicos en la Plataforma del Registro Nacional de Avisos de Poderes Notariales, perteneciente a la Secretaría de Gobernación, en un término que no excederá de cinco días hábiles contados a partir de su recepción u otorgamiento.
 
 La Autoridad Notarial o en su caso, la persona titular de la Notaría, ingresará la información a la base de datos del Registro Nacional de Avisos (sic) Poderes Notariales, en un término que no excederá de cinco días hábiles contados a partir de su recepción u otorgamiento.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2022)</small>
+
+ARTÍCULO 133 BIS. Las personas titulares de las Notarías, en el plazo de diez días hábiles siguientes a que den fe de la formalización de los actos que se señalan más adelante, deberán dar aviso, en los formatos autorizados por la Unidad de Inteligencia Patrimonial y Económica de la Secretaría de Planeación y Finanzas y publicados previamente en el Periódico Oficial del Estado:
+
+I.- La constitución de cualquier tipo de personal moral;
+
+II.- El otorgamiento o revocación de cualquier tipo de poderes por parte de personas morales;
+
+III.- La fusión o escisión de sociedades;
+
+IV.- El cambio de socios o accionistas de la persona moral; y
+
+V. El cambio de domicilio de cualquier persona moral.
 
 ###### ARTÍCULO 134.
 
@@ -2439,9 +2497,17 @@ XX. Por no cumplir con la certificación de cierre;
 
 XXI. Por no informar a la Dirección General del Notariado, en un plazo no mayor a diez días naturales, cuando un Notario conozca de una denuncia o querella en su contra;
 
-XXII. Por asentar la razón “PENDIENTE DE AUTORIZACIÓN POR FALTA DE PAGO” simulándola, debido a que esta no debiera haber sido puesta por haberle sido pagadas en su totalidad las cantidades inherentes al ejercicio de su función, y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
 
-XXIII. Por las demás aplicables en esta Ley.
+XXII. Por asentar la razón "PENDIENTE DE AUTORIZACIÓN POR FALTA DE PAGO" simulándola, debido a que esta no debiera haber sido puesta por haberle sido pagadas en su totalidad las cantidades inherentes al ejercicio de su función;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2022)</small>
+
+XXIII. Por no dar cumplimiento a los supuestos a que se refieren los dos últimos párrafos de las fracciones XIV y XXII del artículo 112 de esta Ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE JULIO DE 2022)</small>
+
+XXIV. Por las demás aplicables en esta Ley.
 
 ###### ARTÍCULO 243.
 
@@ -2491,9 +2557,17 @@ VIII. Haber obtenido la Patente de aspirante al ejercicio del notariado o el nom
 
 IX. Por tener dentro de su protocolo folios que no fueron autorizados por la Dirección General del Notariado sin respectivas medidas de seguridad;
 
-X. Por venta de Notarías, y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
 
-XI. Por las demás aplicables en esta ley.
+X. Por venta de Notarías;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2022)</small>
+
+XI. Por omitir asentar en el Instrumento los datos contemplados en el artículo 112 fracción XXII, de manera reiterada; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE JULIO DE 2022)</small>
+
+XII. Por las demás aplicables en las normas en materia de prevención e identificación de operaciones con recursos de procedencia ilícita, esta Ley y demás supuestos previstos en las leyes.
 
 La resolución por la que un Notario sea cesado en sus funciones será firmada por la persona Titular del Poder Ejecutivo del Estado, quien recibirá, tramitará y resolverá el recurso de inconformidad contra su propia resolución.
 
@@ -3204,5 +3278,13 @@ P.O. 17 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 55 FRACCIÓN V, 61 FRACCIÓN VI, 64 FRACCIONES II Y VIII, 66, 84, 85 FRACCIONES I, II, IV Y V, 94 FRACCIÓN II PÁRRAFO SEGUNDO, 165, 168 PÁRRAFOS SEGUNDO Y TERCERO, Y 284 FRACCIÓN V, TODOS DE LA LEY DEL NOTARIADO PARA EL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO PARA EL ESTADO DE PUEBLA, Y DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
