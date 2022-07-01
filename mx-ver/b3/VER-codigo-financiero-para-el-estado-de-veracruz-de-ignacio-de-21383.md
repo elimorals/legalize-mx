@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2021-01-29"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE JULIO DE 2022.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -3453,7 +3453,9 @@ Los servidores públicos que administren fondos y valores del Estado caucionará
 
 Las dependencias y entidades del Poder Ejecutivo deberán enviar a la Secretaría, a través de sus respectivas unidades administrativas responsables del ejercicio presupuestal, informes trimestrales sobre el ejercicio de sus correspondientes gastos públicos dentro de los diez días hábiles posteriores a la terminación del trimestre que se deba informar. Éstos deberán ser difundidos por la Secretaría en su página electrónica de Internet.
 
-La Secretaría, el Poder Judicial y los Organismos Autónomos del Estado, a través de sus respectivas unidades administrativas responsables de la ejecución del presupuesto, estarán obligados a presentar al Congreso informes trimestrales sobre el ejercicio de sus respectivos gastos públicos dentro de los quince días hábiles siguientes a la conclusión del periodo que se deba informar. Dichos informes, deberán ser difundidos en sus páginas electrónicas de Internet.
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2022)</small>
+
+La Secretaría, el Poder Judicial y los Organismos Autónomos del Estado, a través de sus respectivas unidades administrativas responsables de la ejecución del presupuesto, estarán obligados a presentar al Congreso del Estado informes trimestrales sobre el ejercicio de sus respectivos gastos públicos a más tardar treinta días después del cierre del periodo que corresponda informar. La información deberá ser difundida en sus páginas electrónicas de Internet, en términos de las disposiciones en materia de transparencia que les sean aplicables.
 
 El Congreso, por conducto de la Comisión de Vigilancia, remitirá al Órgano de Fiscalización Superior estos informes de manera escrita y, cuando sea el caso, de manera electrónica, para su revisión, dentro de los diez días siguientes al de su recepción.
 
@@ -3623,7 +3625,11 @@ XL. Celebrar contratos de arrendamientos y de prestación de servicios en repres
 
 XLI. Verificar y comprobar que las áreas administrativas cumplan con las normas y disposiciones en materia de contratación y pago de personal, contratación de servicios, control, adquisiciones, arrendamientos, conservación, mantenimiento, uso, destino, afectación, enajenación y baja de bienes muebles; almacenes y demás activos y recursos materiales, y
 
-XLII. Las demás facultades que le señalen las disposiciones legales aplicables.
+> <small>(ADICIONADO, G.O. 1 DE JULIO DE 2022)</small>
+
+XLII. Las Dependencias deberán presentar estado analítico del ejercicio del presupuesto de egresos, informe de saldos, notas a los informes de saldos y las demás que requiera la Secretaría;
+
+XLIII. Las demás facultades que le señalen las disposiciones legales aplicables.
 
 ###### Artículo 187.
 
@@ -4367,9 +4373,15 @@ IV. Permita que los registros se efectúen considerando la base acumulativa para
 
 V. Refleje un registro congruente y ordenado de cada operación que genere derechos y obligaciones derivados de la gestión económico-financiera de los entes públicos;
 
-VI. Genere, en tiempo real, estados financieros, de ejecución presupuestaria y otra información que coadyuve a la toma de decisiones, a la transparencia, a la programación con base en resultados, a la evaluación y a la rendición de cuentas; y
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2022)</small>
 
-VII. Facilite el registro y control de los inventarios de los bienes muebles e inmuebles de los entes públicos.
+VI. Genere en tiempo real, estados financieros, de ejecución presupuestaria y otra información que coadyuve a la toma de decisiones, transparencia, programación con base en resultados, evaluación y rendición de cuentas.
+
+Por cuanto a las dependencias del Poder Ejecutivo deberán generar únicamente el informe de saldos, los informes de ejecución presupuestaria y demás información que coadyuve a la toma de decisiones, transparencia, programación con base en resultados, evaluación y rendición de cuentas, y
+
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2022)</small>
+
+VII. Facilite el registro y control de los inventarios de los bienes muebles e inmuebles.
 
 Será responsabilidad de los titulares de cada unidad administrativa o equivalente, la confiabilidad de las cifras consignadas en su contabilidad, así como de la representatividad de los saldos de las cuentas de balance, en función de los activos y pasivos reales de la misma, adoptando para ello las medidas de control y depuración correspondientes.
 
@@ -4413,13 +4425,29 @@ II. Presupuestaria;
 
 III. Contable; y
 
-IV. Notas a los estados financieros.
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2022)</small>
 
-> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
+IV. Notas a los estados financieros, que deberán tomar como base la información que genera el sistema de contabilidad.
+
+> <small>(ADICIONADO, G.O. 1 DE JULIO DE 2022)</small>
+
+###### Artículo 263 Bis.
+
+Las unidades administrativas de las dependencias, a través del sistema de contabilidad, generarán información periódica de los estados y la información financiera siguiente:
+
+I. Programática;
+
+II. Presupuestaria;
+
+III. Informe de saldos, y
+
+IV. Presentar notas a los informes de saldos.
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2022)</small>
 
 ###### Artículo 264.
 
-La Secretaría consolidará mensualmente los estados financieros y demás información financiera presupuestal y contable, que emane de la contabilidad de las unidades presupuestales del Poder Ejecutivo.
+La Secretaría consolidará mensualmente los estados financieros, presupuestales y contables, que emanen de la contabilidad de las unidades presupuestales del Poder Ejecutivo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE FEBRERO DE 2012)</small>
 
@@ -4501,33 +4529,69 @@ En caso de pérdida o destrucción de los documentos originales, la unidad admin
 
 Las unidades administrativas registrarán anualmente, como asiento de apertura en los libros principales y registros auxiliares de contabilidad, los saldos de las cuentas de balance del ejercicio inmediato anterior.
 
-> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE JULIO DE 2022)</small>
 
 ###### Artículo 276.
 
-Las dependencias y entidades, a través de sus unidades administrativas, enviarán a la Secretaría dentro de los primeros diez días de cada mes, la información relativa a:
+Las entidades a través de sus unidades administrativas, enviarán a la Secretaría dentro de los primeros diez días de cada mes, la información relativa a:
+
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2012)</small>
 
 I. Estado de situación financiera;
 
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2012)</small>
+
 II. Estado de actividades;
+
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2012)</small>
 
 III. Estado de variación en la hacienda pública;
 
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2012)</small>
+
 IV. Estado de cambios en la situación financiera o de flujo de efectivo;
+
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2012)</small>
 
 V. Estado analítico del activo;
 
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2012)</small>
+
 VI. Informes sobre pasivos contingentes;
+
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2012)</small>
 
 VII. Notas a los estados financieros;
 
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2012)</small>
+
 VIII. Estado analítico de ingresos, del que se derivará la presentación en clasificación económica por fuente de financiamiento y concepto;
+
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2012)</small>
 
 IX. Estado analítico del ejercicio del presupuesto de egresos;
 
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2012)</small>
+
 X. Indicadores de resultados; y
 
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2012)</small>
+
 XI. La demás que requiera la Secretaría.
+
+> <small>(ADICIONADO, G.O. 1 DE JULIO DE 2022)</small>
+
+###### Artículo 276 Bis.
+
+Las dependencias a través de sus unidades administrativas, enviarán a la Secretaría dentro de los primeros diez días de cada mes, la información relativa a:
+
+I. Estado analítico del ejercicio del presupuesto de egresos;
+
+II. Informe de saldos;
+
+III. Notas a los informes de saldos, y
+
+IV. Las demás que requiera la Secretaría.
 
 > <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
@@ -5898,3 +5962,11 @@ SEGUNDO. Se faculta a la Secretaría de Finanzas y Planeación para emitir las r
 TERCERO. Se derogan todas las disposiciones legales y administrativas del marco jurídico estatal que se opongan al presente Decreto.
 
 CUARTO. Se instruye a los titulares de la Secretaría de Finanzas y Planeación y Secretaría de Medio Ambiente para que, en el ámbito de sus respectivas competencias, den cumplimiento al presente Decreto. La Secretaría de Medio Ambiente deberá incluir las presentes modificaciones en el Programa de Verificación Vehicular Obligatorio.
+
+G.O. 1 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 236 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO PARA EL ESTADO DE VERACRUZ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial Órgano del Gobierno del Estado.
+
+SEGUNDO. Se deroga cualquier otra disposición que se oponga al presente Decreto.
