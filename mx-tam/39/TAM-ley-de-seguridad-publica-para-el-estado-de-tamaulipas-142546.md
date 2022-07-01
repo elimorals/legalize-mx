@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-142546"
 country: "mx"
 rank: "ley"
 publication_date: "2020-04-14"
-last_updated: "2021-11-09"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE JULIO DE 2022 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
 
 Ley publicada en el Anexo a la Edición Vespertina del Periódico Oficial del Estado de Tamaulipas, el martes 14 de abril de 2020.
 
@@ -1451,7 +1453,9 @@ El Presidente podrá celebrar reuniones de evaluación y análisis con miembros 
 
 ###### ARTÍCULO 86.
 
-1.- El Consejo Estatal de Seguridad Pública contará con un órgano administrativo desconcentrado que tendrá la función de apoyar a las autoridades de seguridad pública para el cumplimiento de sus objetivos. Este órgano dependerá directamente de la Secretaría General de Gobierno.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2022)</small>
+
+1.- El Consejo Estatal de Seguridad Pública contará con un órgano administrativo desconcentrado que tendrá la función de apoyar a las autoridades de seguridad pública para el cumplimiento de sus objetivos. Este órgano dependerá directamente de la Fiscalía General de Justicia del Estado.
 
 2.- La estructura, organización y funciones del Consejo Estatal de Seguridad Pública se establecerán en el reglamento respectivo.
 
@@ -2226,3 +2230,53 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 65-183 DECRETO MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS, LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS, Y LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye a la Fiscalía General de Justicia del Estado de Tamaulipas, Secretaría General de Gobierno, Secretaría de Finanzas, Contraloría Gubernamental y a la Secretaría de Administración, realizar las adecuaciones presupuestales, financieras y de recursos humanos, a efecto de dar cumplimiento a lo establecido en el presente Decreto, las cuales deberán quedar concluidas en un plazo no mayor a 60 días naturales a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos materiales y financieros asignados al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, Órgano Desconcentrado de la Secretaría General de Gobierno; así como a la Unidad de Inteligencia Financiera y Económica, unidad administrativa de la Secretaría de Finanzas, se transferirán a la Fiscalía General de Justicia del Estado para que ésta a su vez, los asigne conforme a la naturaleza de sus funciones a las unidades administrativas materia de este Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos humanos adscritos al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, Órgano Desconcentrado de la Secretaría General de Gobierno; así como a la Unidad de Inteligencia Financiera y Económica, unidad administrativa de la Secretaría de Finanzas, se transferirán a la Fiscalía General de Justicia del Estado, para lo cual contarán con un plazo de 180 días naturales a partir de la entrada en vigor del presente Decreto, para acreditar los requisitos de ingreso o permanencia respectivamente, conforme a la normatividad aplicable.
+
+Los recursos humanos transferidos a la Fiscalía General deberán dar cumplimiento a las obligaciones en materia de responsabilidades administrativas, tales como declaración patrimonial, fiscal o cualquier otra que como servidores públicos de la Fiscalía General deban observar.
+
+La Secretaría de Finanzas deberá sufragar las obligaciones de pago de litigios laborales previos o que surjan con la entrada en vigor del presente Decreto por el que se transfieren los recursos humanos a la Fiscalía General, así como el de las indemnizaciones de las personas que no acrediten los requisitos de ingreso o permanencia según corresponda.
+
+###### ARTÍCULO SEXTO.
+
+Las personas titulares del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública y de la Unidad de Inteligencia Financiera y Económica, continuarán en su encargo hasta en tanto se realicen las designaciones correspondientes, en términos de la normatividad aplicable.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se instruye a la Fiscalía General de Justicia del Estado de Tamaulipas, Secretaría General de Gobierno, Contraloría Gubernamental, Secretaría de Administración y a la Secretaría de Finanzas, lleven a cabo los procedimientos correspondientes a las adecuaciones normativas a las que haya lugar con la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+En tanto no se emita la normatividad jurídica y administrativa indispensable para el funcionamiento del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, así como de la Unidad de Inteligencia Financiera y Económica, todos de la Fiscalía General de Justicia del Estado, se seguirán aplicando las disposiciones legales y administrativas vigentes al momento de la entrada en vigor del presente Decreto, en lo que no se opongan al mismo.
+
+###### ARTÍCULO NOVENO.
+
+Los procedimientos de responsabilidad administrativa, de separación y remoción de cargo, iniciados con antelación a la entrada en vigor del presente Decreto, serán resueltos en términos de las disposiciones legales con los que se les dio inicio.
+
+###### ARTÍCULO DÉCIMO.
+
+Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite ante alguna de las unidades administrativas del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública y de la Unidad de Inteligencia Financiera que pasen a formar parte de la Fiscalía General de Justicia del Estado, serán atendidos por éstos hasta su conclusión.
+
+Cualquier trámite administrativo y/o judicial del ámbito federal o estatal de los que sean partes tanto el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública o la Unidad de Inteligencia Financiera y Económica a la entrada en vigor del presente Decreto se continuarán tramitando por dichas áreas a través de sus unidades administrativas, hasta su total conclusión, para lo cual ejercitarán las acciones, excepciones y defensas que correspondan a las autoridades señaladas en los juicios y/o entes administrativos.
