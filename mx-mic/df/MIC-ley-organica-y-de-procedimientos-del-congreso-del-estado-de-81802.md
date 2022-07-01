@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2022-06-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -903,6 +903,10 @@ IV. Cultura y Artes;
 
 V. Derechos Humanos;
 
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2022)</small>
+
+V Bis. Desarrollo Integral de la Familia;
+
 VI. Desarrollo Rural;
 
 VII. Desarrollo Social;
@@ -911,7 +915,9 @@ VIII. Desarrollo Sustentable y Medio Ambiente;
 
 IX. Desarrollo Urbano, Obra Pública y Vivienda;
 
-X. Educación;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
+
+X. Educación:
 
 > <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2019)</small>
 
@@ -943,7 +949,9 @@ XXI Bis. Protección a la Niñez y Adolescencia;
 
 XXII. Pueblos Indígenas;
 
-XXIII. Puntos Constitucionales;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
+
+XIII (SIC). Puntos Constitucionales;
 
 > <small>(REFORMADA, P.O. 13 DE JULIO DE 2012)</small>
 
@@ -1144,6 +1152,36 @@ XIII. Revisar la legislación del Estado para reformar o derogar todas las norma
 XIV. Fomentar el desarrollo de políticas, planes y programas para el fortalecimiento de los Derechos Humanos; y,
 
 XV. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2022)</small>
+
+ARTÍCULO 71 BIS. Corresponde a la Comisión de Desarrollo Integral de la Familia, participar, conocer y dictaminar, de manera enunciativa, más no limitativa, sobre los asuntos siguientes:
+
+I. Los que se refieran a la expedición, reformas y adiciones a la legislación estatal, que estén relacionadas con el desarrollo integral de la familia;
+
+II. El fortalecimiento de la familia como núcleo básico de la sociedad;
+
+III. Los relativos al proceso de adopción;
+
+IV. Lo relativo al tratamiento a la legislación para prevenir y atender la violencia familiar;
+
+V. Acciones encaminadas a la promoción, defensa y preservación de la familia;
+
+VI. Las propuestas y medidas legislativas para dar cumplimiento a los instrumentos internacionales que protegen a la familia, sus integrantes y la comunidad;
+
+VII. Analizar e impulsar normas orientadas a la protección de las familias migratorias y familias migrantes;
+
+VIII. Lo relativo a las instituciones públicas o privadas, dedicadas a la protección de la familia;
+
+IX. Las acciones que realicen en el Estado y sus municipios, respecto de la promoción, vinculación, fomento y difusión de las actividades relacionadas con la familia;
+
+X. Los estudios sobre la situación social, económica, estructural, cultural y estadística de la familia;
+
+XI. Implementar mecanismos de comunicación y coordinación con las instancias gubernamentales en la materia, para coadyuvar con el desarrollo e implementación de políticas en favor de la familia;
+
+XII. La legislación relacionada con el diseño y promoción de políticas, planes y programas para el fortalecimiento de las habilidades emocionales, sociales y cognitivas para cocreación de familias saludables, fuertes, su desarrollo integral y libres de violencia; y,
+
+XIII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia de análisis de esta Comisión.
 
 ###### ARTÍCULO 72.
 
@@ -4392,3 +4430,21 @@ Primero. El presente Decreto entrará en vigor al momento de su aprobación, con
 Segundo. Por única ocasión, el Comité de Administración y Control de la Septuagésima Quinta Legislatura del Congreso del Estado de Michoacán de Ocampo, se integrará con seis diputados, de conformidad con lo dispuesto en el presente Decreto.
 
 Tercero. Dese cuanta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 1 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 168 POR EL QUE "SE ADICIONA LA FRACCIÓN V BIS AL ARTÍCULO 62; Y, EL ARTÍCULO 71 BIS A LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor al momento de su aprobación, conforme a lo dispuesto en el artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+Segundo. La Junta de Coordinación Política, presentará al Pleno para su aprobación correspondiente, la Propuesta de Acuerdo para la integración de la Comisión de Desarrollo Integral de la Familia, de la Septuagésima Quinta Legislatura del Congreso del Estado de Michoacán de Ocampo.
+
+Tercero. La instalación formal de la Comisión de Desarrollo Integral de la Familia, se realizará posterior a su elección, en un acto presidido por el Presidente del Congreso o por cualquier otro miembro de la Mesa Directiva.
+
+Cuarto. A partir de la instalación de la Comisión de Desarrollo Integral de la Familia, se avocará al estudio, análisis y dictamen de las iniciativas, comunicaciones y propuestas de acuerdo que se encuentren pendientes de dictamen en la materia de su competencia, previo turno formal que realice la Presidencia de la Mesa Directiva.
+
+Quinto. Por única ocasión, para los fines de la fracción I del artículo 61, de la Ley Orgánica y de Procedimientos del Congreso del Estado de Michoacán de Ocampo, la Comisión de Desarrollo Integral de la Familia, tendrá un plazo no mayor a noventa días hábiles para su presentación ante la Conferencia.
+
+Sexto. A partir de su instalación, de manera inmediata se deberá atender a lo establecido a los artículos 27 y 30 del Reglamento de Comisiones y Comités.
+
+Séptimo. Dese cuenta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo
