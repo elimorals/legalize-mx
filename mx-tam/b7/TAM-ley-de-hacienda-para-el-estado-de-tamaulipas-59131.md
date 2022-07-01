@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2022-03-02"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -1217,7 +1217,7 @@ II.- POR TABACOS LABRADOS, SE ENTIENDE LO SIGUIENTE:
 
 4) PRODUCTO DEL TABACO: ES CUALQUIER SUSTANCIA O BIEN MANUFACTURADO PREPARADO TOTAL O EN PARTE UTILIZANDO COMO MATERIA PRIMA HOJAS DE TABACO Y DESTINADO A SER FUMADO, CHUPADO, MASCADO O UTILIZADO COMO RAPÉ.
 
-5) TABACO: LA PLANTA "NICOTINA TABACUM" Y SUS SUCEDÁNEOS, EN SU FORMA NATURAL O MODIFICADA, EN LAS DIFERENTES PRESENTACIONES, QUE SE UTILICEN PARA SER FUMADO, CHUPADO, MASCADO O UTILIZADO COMO RAPÉ.
+5) TABACO: LA PLANTA “NICOTINA TABACUM” Y SUS SUCEDÁNEOS, EN SU FORMA NATURAL O MODIFICADA, EN LAS DIFERENTES PRESENTACIONES, QUE SE UTILICEN PARA SER FUMADO, CHUPADO, MASCADO O UTILIZADO COMO RAPÉ.
 
 III.- Venta final. La que realice cualquiera persona física o moral de los bienes a que se refiere éste artículo, el último adquirente, para su consumo o posterior comercialización.
 
@@ -1387,9 +1387,17 @@ c).- (DEROGADO, P.O. 1 DE DICIEMBRE DE 2021)
 
 d).- Traslado de motocicleta, automóvil, SUV o camioneta al depósito oficial de vehículos asegurados o puestos a disposición, con equipo de grúa, con maniobra simple, ocho veces el valor diario de la Unidad de Medida y Actualización;
 
-e).- Resguardo de motocicleta, automóvil, SUV o camioneta, en encierros de la Fiscalía General del Estado, se pagará diariamente 0.5 veces el valor diario de la Unidad de Medida y Actualización; y
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2022)</small>
 
-f).- Constancia de Antecedentes Penales, tres veces el valor diario de la Unidad de Medida y Actualización.
+e).- Resguardo de motocicleta, automóvil, SUV o camioneta, en encierros de la Fiscalía General del Estado, se pagará diariamente 0.5 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2022)</small>
+
+f).- Constancia de Antecedentes Penales, tres veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2022)</small>
+
+g) Constancia de Antecedentes de No Corrupción, tres veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
@@ -4288,3 +4296,15 @@ P.O. 2 DE MARZO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-182 MEDIANTE EL CUAL SE REFORMA Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS; Y LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. En un plazo de 30 días, la Fiscalía General de Justicia del Estado, deberá reformar el Reglamento de la Ley Orgánica de la Fiscalía General de Justicia del Estado de Tamaulipas, para adecuarlo a las presentes disposiciones.
+
+TERCERO. La Secretaría de Finanzas realizará los ajustes conducentes que deriven del presente Decreto, a los ordenamientos legales correspondientes.
+
+CUARTO. Los recursos que se obtengan por el cobro del derecho relativo a la expedición de la Constancia de Antecedentes de No Corrupción se destinarán al fortalecimiento de las atribuciones, facultades y obligaciones propias de la Fiscalía Especializada en Combate a la Corrupción.
