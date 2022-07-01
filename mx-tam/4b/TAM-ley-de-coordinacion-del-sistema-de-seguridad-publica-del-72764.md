@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-del-sistema-de-seguridad-publica-del-72764"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-16"
-last_updated: "2021-11-09"
+last_updated: "2022-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE COORDINACION DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE JULIO DE 2022 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 16 de junio de 2009.
 
@@ -835,9 +837,11 @@ El quórum para las reuniones del Consejo se integrará con los titulares o sus 
 
 Tratándose de los presidentes municipales del Estado, bastará con la presencia de al menos tres de éstos. El Presidente del Consejo determinará a cuáles deberá convocarse en cada sesión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2022)</small>
+
 ###### ARTICULO 29.
 
-El Gobernador designará y removerá libremente al Secretario Ejecutivo, quien deberá cumplir los siguientes requisitos:
+El Fiscal General designará y removerá libremente al Secretario Ejecutivo, quien deberá cumplir los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno goce de sus derechos;
 
@@ -855,7 +859,9 @@ VI. No haber sido inhabilitado como servidor público, y
 
 Son facultades y obligaciones del Secretario Ejecutivo las siguientes:
 
-I. Elaborar el Reglamento de la presente ley y someterlo a la aprobación del Gobernador;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
+
+I. Elaborar el Reglamento Interno del Secretariado Ejecutivo y someterlo a consideración del Fiscal General;
 
 II. Reunir las propuestas de contenido del Programa y presentarlas como un documento integral a la consideración del Consejo;
 
@@ -879,7 +885,9 @@ XI. Administrar y, en su caso, operar los sistemas e instrumentos de informació
 
 XII. Proponer al Consejo los dos presidentes municipales que habrán de participar en la Conferencia Nacional de Seguridad Pública Municipal;
 
-XIII. Administrar y operar la Red Estatal de Telecomunicaciones, a través del Centro de Comando, Control, Comunicaciones y Cómputo;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
+
+XIII. Administrar y operar la Red Estatal de Telecomunicaciones, a través del Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia;
 
 XIV. Proponer y, en lo procedente, operar la integración de sistemas y bases de datos, a fin de aprovechar la información sustantiva contenida en los partes policiales, denuncias, investigaciones y todo tipo de actuaciones oficiales, que permitan ubicar geográficamente el fenómeno delictivo y las causas del mismo;
 
@@ -899,15 +907,23 @@ XXI. Supervisar la correcta aplicación de los recursos destinados a soportar la
 
 XXII. Proponer un sistema de seguimiento y evaluación, con indicadores de medición de la actuación de las instituciones, a efecto de analizar periódicamente el avance en el cumplimiento de estrategias, programas y acciones;
 
-XXIII. Dictar las medidas necesarias y celebrar convenios y contratos, en acuerdo con el Secretario, para hacer efectiva la coordinación y preservar de (sic) la seguridad pública, y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
 
-XXIV. Las demás que sean necesarias para cumplir los acuerdos del Consejo.
+XXIII. Dictar las medidas necesarias y celebrar convenios y contratos, en acuerdo con el Secretario, para hacer efectiva la coordinación y preservar la seguridad pública;
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2022)</small>
+
+XXIV. Informar periódicamente al Fiscal General de las actividades que realice; y
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
+
+XXV. Las demás que prevean las que sean necesarias para cumplir los acuerdos del Consejo.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 31.
 
-El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública será un órgano desconcentrado de la Secretaría General (sic) Gobierno, dotado de autonomía técnica y operativa, integrado por la estructura y las funciones que establezca el Reglamento Interior y los manuales de organización y de procedimientos correspondientes, y su objeto será soportar el cumplimiento de las atribuciones que le competen al Secretario Ejecutivo.
+El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública será un órgano desconcentrado de la Fiscalía General de Justicia del Estado, dotado de autonomía técnica y operativa, integrado por la estructura y las funciones que establezca el Reglamento Interno y los manuales de organización y de procedimientos correspondientes, y su objeto será soportar el cumplimiento de las atribuciones que le competen al Secretario Ejecutivo.
 
 #### SECCION SEGUNDA. DE LOS CONSEJOS MUNICIPALES DE SEGURIDAD PUBLICA
 
@@ -1745,11 +1761,11 @@ La Fiscalía General deberá hacer la anotación de la cancelación respectiva, 
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 95.
 
-El Centro Estatal de Evaluación y Control de Confianza es un órgano desconcentrado del Sistema Estatal de Seguridad Pública, con autonomía técnica y de gestión, que tiene por objeto la aplicación de las evaluaciones a que se refiere esta ley, tanto en los procesos de selección de aspirantes, como para la permanencia, el desarrollo y la promoción de los integrantes de las instituciones de seguridad pública.
+El Centro Estatal de Evaluación y Control de Confianza es una unidad administrativa del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, que tiene por objeto la aplicación de las evaluaciones a que se refiere esta ley, tanto en los procesos de selección de aspirantes, como para la permanencia, el desarrollo y la promoción de los integrantes de las instituciones de seguridad pública.
 
 Al efecto, tendrá las siguientes atribuciones:
 
@@ -2021,15 +2037,21 @@ El servicio tendrá comunicación directa con las instituciones de seguridad pú
 
 El procedimiento del servicio considerará desde la recepción de la llamada telefónica hasta la conclusión del evento, y estará sistematizado, con la finalidad de obtener información estadística que sea susceptible de aprovecharse en la planeación de operativos y de otras actividades de coordinación, así como para controlar y evaluar la actuación de los integrantes de las instituciones.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2022)</small>
+
 ###### ARTICULO 121.
 
-El Secretario Ejecutivo definirá la plataforma tecnológica en función de los acuerdos del Consejo Nacional y será el responsable del servicio, que administrará y operará por medio del Centro de Comando, Control, Comunicaciones y Cómputo.
+El Secretario Ejecutivo definirá la plataforma tecnológica en función de los acuerdos del Consejo Nacional y será el responsable del servicio, que administrará y operará por medio del Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia.
 
-### CAPITULO V. DEL CENTRO DE COMANDO, CONTROL, COMUNICACIONES Y COMPUTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JULIO DE 2022)</small>
+
+### CAPITULO V. DEL CENTRO GENERAL DE COORDINACION, COMANDO, CONTROL, COMUNICACIONES, COMPUTO E INTELIGENCIA
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 122.
 
-El Centro de Comando, Control, Comunicaciones y Cómputo es una unidad administrativa del Secretariado Ejecutivo, conformado por recursos humanos calificados y tecnológicos de punta, que tiene como objeto coordinar la respuesta de las autoridades estatales, municipales y, en su caso, federales, para atender las emergencias de la población y prevenir la comisión de infracciones y delitos, mediante la integración, operación y administración de los servicios de la Red Estatal de Telecomunicaciones.
+El Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia es una unidad administrativa del Secretariado Ejecutivo, conformado por recursos humanos calificados y tecnológicos de punta, que tiene como objeto coordinar la respuesta de las autoridades estatales, municipales y, en su caso, federales, para atender las emergencias de la población y prevenir la comisión de infracciones y delitos, mediante la integración, operación y administración de los servicios de la Red Estatal de Telecomunicaciones.
 
 ###### ARTICULO 123.
 
@@ -2408,3 +2430,53 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 65-183 DECRETO MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS, LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS, Y LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye a la Fiscalía General de Justicia del Estado de Tamaulipas, Secretaría General de Gobierno, Secretaría de Finanzas, Contraloría Gubernamental y a la Secretaría de Administración, realizar las adecuaciones presupuestales, financieras y de recursos humanos, a efecto de dar cumplimiento a lo establecido en el presente Decreto, las cuales deberán quedar concluidas en un plazo no mayor a 60 días naturales a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos materiales y financieros asignados al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, Órgano Desconcentrado de la Secretaría General de Gobierno; así como a la Unidad de Inteligencia Financiera y Económica, unidad administrativa de la Secretaría de Finanzas, se transferirán a la Fiscalía General de Justicia del Estado para que ésta a su vez, los asigne conforme a la naturaleza de sus funciones a las unidades administrativas materia de este Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos humanos adscritos al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, Órgano Desconcentrado de la Secretaría General de Gobierno; así como a la Unidad de Inteligencia Financiera y Económica, unidad administrativa de la Secretaría de Finanzas, se transferirán a la Fiscalía General de Justicia del Estado, para lo cual contarán con un plazo de 180 días naturales a partir de la entrada en vigor del presente Decreto, para acreditar los requisitos de ingreso o permanencia respectivamente, conforme a la normatividad aplicable.
+
+Los recursos humanos transferidos a la Fiscalía General deberán dar cumplimiento a las obligaciones en materia de responsabilidades administrativas, tales como declaración patrimonial, fiscal o cualquier otra que como servidores públicos de la Fiscalía General deban observar.
+
+La Secretaría de Finanzas deberá sufragar las obligaciones de pago de litigios laborales previos o que surjan con la entrada en vigor del presente Decreto por el que se transfieren los recursos humanos a la Fiscalía General, así como el de las indemnizaciones de las personas que no acrediten los requisitos de ingreso o permanencia según corresponda.
+
+###### ARTÍCULO SEXTO.
+
+Las personas titulares del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública y de la Unidad de Inteligencia Financiera y Económica, continuarán en su encargo hasta en tanto se realicen las designaciones correspondientes, en términos de la normatividad aplicable.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se instruye a la Fiscalía General de Justicia del Estado de Tamaulipas, Secretaría General de Gobierno, Contraloría Gubernamental, Secretaría de Administración y a la Secretaría de Finanzas, lleven a cabo los procedimientos correspondientes a las adecuaciones normativas a las que haya lugar con la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+En tanto no se emita la normatividad jurídica y administrativa indispensable para el funcionamiento del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, así como de la Unidad de Inteligencia Financiera y Económica, todos de la Fiscalía General de Justicia del Estado, se seguirán aplicando las disposiciones legales y administrativas vigentes al momento de la entrada en vigor del presente Decreto, en lo que no se opongan al mismo.
+
+###### ARTÍCULO NOVENO.
+
+Los procedimientos de responsabilidad administrativa, de separación y remoción de cargo, iniciados con antelación a la entrada en vigor del presente Decreto, serán resueltos en términos de las disposiciones legales con los que se les dio inicio.
+
+###### ARTÍCULO DÉCIMO.
+
+Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite ante alguna de las unidades administrativas del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública y de la Unidad de Inteligencia Financiera que pasen a formar parte de la Fiscalía General de Justicia del Estado, serán atendidos por éstos hasta su conclusión.
+
+Cualquier trámite administrativo y/o judicial del ámbito federal o estatal de los que sean partes tanto el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública o la Unidad de Inteligencia Financiera y Económica a la entrada en vigor del presente Decreto se continuarán tramitando por dichas áreas a través de sus unidades administrativas, hasta su total conclusión, para lo cual ejercitarán las acciones, excepciones y defensas que correspondan a las autoridades señaladas en los juicios y/o entes administrativos.
