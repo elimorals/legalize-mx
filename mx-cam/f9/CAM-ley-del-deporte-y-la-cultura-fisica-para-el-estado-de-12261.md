@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-deporte-y-la-cultura-fisica-para-el-estado-de-12261"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-24"
-last_updated: "2018-03-12"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DEL DEPORTE Y LA CULTURA FISICA PARA EL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL DEPORTE Y LA CULTURA FÍSICA PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche el miércoles 24 de junio de 1998.
 
@@ -423,17 +425,17 @@ IV.- El establecimiento de programas de recreación.
 
 V.- La elaboración de programas de adecuación física y deportiva para personas de la tercera edad con alguna discapacidad funcional.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 7 DE JULIO DE 2016)</small>
 
 VI.- Ejecutar la política municipal en materia de cultura física y deporte, en congruencia con la política nacional y estatal;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 7 DE JULIO DE 2016)</small>
 
 VII.- Suscribir convenios y acuerdos de colaboración y coordinación en materia de cultura física y deporte con otras instancias de gobierno.
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2022)</small>
+
+VIII.- Mecanismos y acciones encaminadas a prevenir la violencia en cualquier tipo de evento deportivo, garantizando el desarrollo pacífico en los recintos donde se celebren eventos deportivos masivos, vecinales o de cualquier índole para salvaguardar la seguridad y patrimonio de las personas en coordinación con las autoridades correspondientes dentro y fuera de los recintos.
 
 ###### Artículo 42.
 
@@ -760,3 +762,11 @@ P.O. 12 DE MARZO DE 2018.
 PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 1 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 86 POR EL QUE "SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 41 DE LA LEY DEL DEPORTE Y LA CULTURA FÍSICA PARA EL ESTADO DE CAMPECHE".]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
