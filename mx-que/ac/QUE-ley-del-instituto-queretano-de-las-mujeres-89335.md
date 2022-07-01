@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-instituto-queretano-de-las-mujeres-89335"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-30"
-last_updated: "2021-10-08"
+last_updated: "2022-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY DEL INSTITUTO QUERETANO DE LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 30 de agosto de 2012.
 
@@ -229,9 +227,9 @@ XXVIII. Elaborar, proponer, impulsar y ejecutar políticas, programas, instrumen
 
 XXIX. Canalizar a las instancias que correspondan, los casos de violencia que detecte o que le reporten y actuar como coadyuvante en la defensa de los intereses de la mujer ante dichas instancias conforme al marco legal aplicable;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
 
-XXX. Promover la realización de estudios, diagnósticos o instrumentos que permitan visibilizar las brechas de genero existentes para el reconocimiento, goce y ejercicio de los Derechos Humanos de las mujeres en materia de salud reproductiva y materno infantil, promoviendo entre actores estratégicos la compatibilización de la vida laboral, familiar y el empoderamiento económico; y
+XXX. Promover la realización de estudios, diagnósticos o instrumentos que permitan visibilizar las brechas de genero existentes para el reconocimiento, goce y ejercicio de los Derechos Humanos de las mujeres en materia de higiene menstrual, salud reproductiva y materno infantil, promoviendo entre actores estratégicos la compatibilización de la vida laboral, familiar y el empoderamiento económico; y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE MAYO DE 2019)</small>
 
@@ -658,3 +656,13 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 1 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO 7 DE LA LEY DEL INSTITUTO QUERETANO DE LAS MUJERES”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
