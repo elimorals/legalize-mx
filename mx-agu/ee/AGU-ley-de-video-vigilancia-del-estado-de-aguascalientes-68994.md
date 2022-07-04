@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-video-vigilancia-del-estado-de-aguascalientes-68994"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-22"
-last_updated: "2020-06-29"
+last_updated: "2022-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE VIDEO VIGILANCIA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2009.
 
@@ -43,19 +43,29 @@ LEY DE VIDEO VIGILANCIA DEL ESTADO DE AGUASCALIENTES
 
 ### CAPÍTULO I. Generalidades
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 1°.
 
-La presente Ley es de orden e interés público, de observancia general en el Estado de Aguascalientes y tiene por objeto regular la utilización de videocámaras para grabar y/o captar imágenes con o sin sonidos en lugares públicos o privados con acceso al público, así como su posterior tratamiento; por los cuerpos de seguridad pública estatal y municipales, por prestadores de servicio de seguridad privada, o bien por otras autoridades, en los inmuebles que estén a su disposición, con la finalidad de contar con herramientas útiles y eficaces para la investigación de delitos y la documentación de faltas administrativas relacionadas con la seguridad pública.
+La presente Ley es de orden público, interés social y observancia general en el Estado de Aguascalientes, tiene por objeto regular la ubicación, instalación, utilización y operación de videocámaras y sistemas de video vigilancia para grabar y/o captar imágenes con o sin sonido en lugares públicos o en lugares privados de acceso público, así como su posterior tratamiento de manera exclusiva por las instituciones de seguridad pública estatal y municipales, o bien por otras autoridades, en los inmuebles a su disposición o por Prestadores del Servicio de Seguridad Privada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE JULIO DE 2022)</small>
+
+Los particulares y Prestadores del Servicio de Seguridad Privada se sujetarán a lo previsto en la presente Ley en lo referente a la instalación y utilización de los sistemas tecnológicos de video vigilancia.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 4 DE JULIO DE 2022)</small>
 
 La Video Vigilancia en vías públicas será función exclusiva de los cuerpos de seguridad pública estatal y municipales.
 
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 4 DE JULIO DE 2022)</small>
+
 En lugares privados con acceso al público, se podrá solicitar a los cuerpos de seguridad pública el servicio de Video Vigilancia.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 2°.
 
-En la aplicación de esta Ley deberán respetarse las garantías individuales de las personas. En lo no previsto por la presente Ley, se aplicará supletoriamente la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
+El Estado garantizará y velará por la integridad de las personas que se vean involucradas por la aplicación de esta Ley y su Reglamento, respetando y salvaguardando sus derechos humanos en las fases de grabación, respaldo y uso de las imágenes y sonidos obtenidos, conjunta o separadamente, por las videocámaras y sistemas de video vigilancia de las Instituciones de Seguridad Pública, así como por empresas prestadoras del servicio de seguridad privada. En lo no previsto por la presente Ley, se aplicará supletoriamente la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
 
 ###### ARTÍCULO 3°
 
@@ -151,11 +161,17 @@ Cada entidad deberá a su vez nombrar un suplente de sus respectivos representan
 
 Serán facultades del Comité:
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE JULIO DE 2022)</small>
 
-I. Llevar el alta y registro de videocámaras empleadas para video vigilancia;
+I. Llevar a cabo el registro de la instalación de sistemas tecnológicos de video vigilancia, empleadas (sic) por instituciones públicas de carácter Estatal y Municipal, así como de empresas de seguridad privada, legalmente constituidas y a particulares, en espacios públicos abiertos o cerrados, de conformidad a los términos y formatos que se señalen en el Reglamento de la presente ley.
 
-II. Ordenar el retiro de instalaciones fijas de videocámaras;
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2022)</small>
+
+La instalación fija de videocámaras por la autoridad será comunicada al Comité, a efecto de que éste lleve el registro de las mismas y el seguimiento y destino de las imágenes y audio que se obtenga, así como de la supervisión del uso adecuado de ésta y de las grabaciones que se obtengan;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+II. Ordenar el retiro de sistemas tecnológicos de video vigilancia cuando a su juicio se vulneren derechos fundamentales de las personas;
 
 III. Ordenar la destrucción de grabaciones en los casos establecidos por esta Ley;
 
@@ -179,9 +195,25 @@ IX. Determinar la custodia y destino temporal de las videograbaciones que estime
 
 X. Dar aviso al superior jerárquico que corresponda, del uso indebido que se esté dando a un sistema de Video Vigilancia;
 
-XI. Realizar inspecciones y visitas de supervisión a cuerpos de Seguridad Pública y Privados, así como a los sistemas de Video Vigilancia privada que se establezcan en términos de la presente Ley, a efecto de determinar si se cumplen con los objetos y alcances de la misma, para con ello emitir los acuerdos que correspondan; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-XII. Las demás que señale la Ley y su Reglamento.
+XI. Realizar inspecciones y visitas de supervisión a cuerpos de Seguridad Pública y Privados, así como a los sistemas de Video Vigilancia privada que se establezcan en términos de la presente Ley, a efecto de determinar si se cumplen con los objetos y alcances de la misma, para con ello emitir los acuerdos que correspondan;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2022)</small>
+
+XII. Emitir las resoluciones procedentes, respecto a solicitudes de información de las imágenes y sonidos, grabadas en los lugares públicos, en sus diferentes modalidades;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XIII. Elaborar y expedir normas reglamentarias y manuales operativos a efecto de materializar sus atribuciones y cumplimiento de las obligaciones establecidas en el presente ordenamiento;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XIV. Recabar las grabaciones realizadas por las instituciones públicas de carácter estatal y municipal, así como las empresas de seguridad privada o en poder de particulares, cuando sean solicitadas por una autoridad competente; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE JULIO DE 2022)</small>
+
+XV. Las demás que señale la Ley y su Reglamento.
 
 ###### ARTÍCULO 9º.
 
@@ -381,9 +413,11 @@ No será necesario señalar el lugar específico en que se ubica el equipo de gr
 
 Para los efectos del segundo párrafo del Artículo 6° de la Constitución Política de los Estados Unidos Mexicanos, toda grabación realizada por actividades de Video Vigilancia se entenderá en posesión del Comité, hasta en tanto no sea puesta a disposición de las Autoridades de Procuración y Administración de Justicia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 34.
 
-Toda grabación en la que aparezca una persona identificada o identificable se considerará dato personal y por tanto información confidencial; las grabaciones en la que no aparezca alguna persona física identificada o identificable, tendrán el carácter de información reservada.
+Toda grabación en la que aparezca una persona identificada o identificable, dada su naturaleza de dato personal será tratada en términos de la Ley General de Protección de Datos Personales y la Ley de Protección de Datos Personales en Posesión de los Sujetos obligados del Estado de Aguascalientes y sus Municipios.
 
 Se exceptúa de la presente disposición, las grabaciones en las que se presuma la comisión de hechos punibles o faltas administrativas relacionadas con la seguridad pública, en las cuales al ser puestas a disposición del Ministerio Público, de ser posible se realizará con la identificación de las personas que en ella aparecen, sin que por ello proceda hacer del conocimiento de tales hechos y datos personales a los medios de comunicación.
 
@@ -465,7 +499,9 @@ IV. La imposición de las sanciones se realizará en términos de la Ley de Resp
 
 Contra las resoluciones dictadas en la aplicación de esta Ley, procederá juicio de nulidad previsto en la Ley del Procedimiento Contencioso Administrativo del Estado de Aguascalientes.
 
-Tratándose de acceso, rectificación, cancelación y oposición de datos personales, procederá de manera directa o luego de agotar la revisión, el recurso de inconformidad en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
+
+Tratándose del ejercicio de los derechos de acceso, rectificación, cancelación y oposición en el manejo de datos personales, procederá el recurso de revisión en términos de la Ley de Protección de Datos Personales en Posesión de los Sujetos obligados del Estado de Aguascalientes y sus Municipios.
 
 T R A N S I T O R I O S:
 
@@ -554,6 +590,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 29 DE JUNIO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 362.- ARTÍCULO ÚNICO.- REFORMAS Y ADICIONES A LA LEY DE VIDEO VIGILANCIA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 4 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 150.- SE REFORMAN LOS ARTÍCULOS 1° PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO; 2°, 8° FRACCIONES I, II, XI Y XII, 34 PÁRRAFO PRIMERO Y 42 PÁRRAFO SEGUNDO, Y SE ADICIONAN UN PÁRRAFO CUARTO AL ARTÍCULO 1°, UN PÁRRAFO SEGUNDO A LA FRACCIÓN I Y LAS FRACCIONES XIII, XIV Y XV AL ARTÍCULO 8° DE LA LEY DE VIDEO VIGILANCIA DEL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO.
 
