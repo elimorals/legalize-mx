@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-148967
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-03-30"
-last_updated: "2021-03-30"
+last_updated: "2022-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2022.
 
 Ley publicada en la Octava Sección en el Número 39 del Periódico Oficial del Estado de Michoacán, el martes 30 de marzo de 2021.
 
@@ -676,6 +676,10 @@ El Ayuntamiento o el Concejo Municipal tiene las siguientes atribuciones:
 a).- En materia de Política Interior:
 
 I. Prestar, en su circunscripción territorial en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y la presente Ley, los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales; alumbrado público; limpia, recolección, traslado, tratamiento y disposición final de residuos; mercados y centrales de abastos; panteones; rastro; calles, parques y jardines y su equipamiento; seguridad pública en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos; policía preventiva municipal y tránsito, así como los demás que se determinen conforme a otras disposiciones aplicables;
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2022)</small>
+
+Para la prestación del servicio de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, se deberá tomar en cuenta lo establecido en el Plan de Desarrollo Municipal, el cual incluirá en detalle un cronograma de medidas y acciones a implementar para garantizar el buen funcionamiento, la adecuada prestación de los servicios de agua potable, drenaje, alcantarillado y saneamiento, además de la detección, extracción, conducción, distribución, tratamiento y reúso de aguas residuales en el municipio. Asimismo, los indicadores para cumplir con los siguientes objetivos: asegurar la aplicación de la normatividad en la materia de agua potable y los límites máximos permisibles de contaminantes de las aguas residuales; y mejorar el funcionamiento de la infraestructura de tratamiento de aguas residuales, contemplando la posible construcción de plantas de tratamiento y colectores con un enfoque integral;
 
 II. Realizar sus políticas y programas de gobierno, en coordinación con los Gobiernos Estatal y Federal y la sociedad organizada;
 
@@ -3148,3 +3152,11 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRE
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 16 dieciséis días del mes de marzo del año 2021 dos mil veintiuno.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ING. SILVANO AUREOLES CONEJO.- EL SECRETARIO DE GOBIERNO.- C. ARMANDO HURTADO ARÉVALO.- (Firmados)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 158 POR EL QUE “SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN I, INCISO A) DEL ARTÍCULO 40 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial (sic) Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
