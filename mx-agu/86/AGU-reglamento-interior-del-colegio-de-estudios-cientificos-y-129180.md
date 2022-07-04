@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-colegio-de-estudios-cientificos-y-12918
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-06-18"
-last_updated: "2018-06-18"
+last_updated: "2022-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2022.
 
 Reglamento publicado en la Tercera Sección al Núm. 25 del Periódico Oficial del Estado de Aguascalientes, el lunes 18 de junio de 2018.
 
@@ -97,19 +97,41 @@ a) Direcciones de Área:
 
 1. Dirección Académica:
 
-1.1 Direcciones de Plantel;
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
 
-1.2 Jefatura del Departamento de Desarrollo Académico; y
+1.1 Direcciones de Planteles CECyTE
 
-1.3 Jefatura del Departamento Psicopedagógico.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
+
+1.2 Jefatura del Departamento de Desarrollo Académico;
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
+
+1.3 Jefatura del Departamento Psicopedagógico;
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2022)</small>
+
+1.4 Jefatura del Departamento de Control Escolar; y
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2022)</small>
+
+1.5 Coordinaciones Académicas.
 
 2. Dirección Administrativa:
 
 2.1 Jefatura del Departamento de Finanzas;
 
-2.2 Jefatura del Departamento de Recursos Humanos; y
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
 
-2.3 Jefatura del Departamento de Recursos Materiales.
+2.2 Jefatura del Departamento de Recursos Humanos;
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
+
+2.3 Jefatura del Departamento de Recursos Materiales; y
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2022)</small>
+
+2.4 Subdirecciones de Plantel.
 
 3. Dirección de Planeación:
 
@@ -119,7 +141,9 @@ a) Direcciones de Área:
 
 3.3 Jefatura del Departamento de Estadística y Evaluación Institucional; y
 
-3.4 Jefatura del Departamento de Control Escolar.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
+
+3.4 Área de Mantenimiento
 
 4. Dirección de Vinculación:
 
@@ -127,13 +151,19 @@ a) Direcciones de Área:
 
 5. Dirección Jurídica.
 
-b) Coordinación de Relaciones Públicas y Comunicación: Depende de la Dirección General y estará a cargo de un Coordinador, el cual tendrá las atribuciones establecidas en el Reglamento.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
 
-c) Coordinación Estatal de los Centros de Educación Media Superior a Distancia: Depende de la Dirección General y estará a cargo de un Coordinador, el cual atenderá las atribuciones establecidas en los ordenamientos legales aplicables.
+b) Jefatura de Departamento de los Centros de Educación Media Superior a Distancia:
 
-d) Jefatura del Departamento de Informática: Depende de la Dirección General y estará a cargo de un Jefe del Departamento.
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2022)</small>
 
-Las atribuciones y facultades de las Jefaturas de los Departamentos del CECyTEA estarán reguladas en el Manual de Organización que al efecto apruebe la Junta Directiva de la propia institución.
+1. Responsables de Centros EMSaD
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
+
+c) Jefatura del Departamento de Informática
+
+d) (DEROGADO, P.O. 4 DE JULIO DE 2022)
 
 III. Órganos de Control y Evaluación:
 
@@ -161,15 +191,19 @@ Además de los Órganos y Unidades Administrativas señaladas en el artículo 4�
 
 La Junta Directiva se integrará según lo dispuesto por el artículo 7° de la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2022)</small>
+
 ###### Artículo 7°.
 
-La Junta Directiva sesionará en forma ordinaria trimestralmente y en forma extraordinaria cuando sea necesario para su debido funcionamiento.
+La Junta Directiva sesionará en forma ordinaria trimestralmente y en forma extraordinaria cuando sea necesario para su debido funcionamiento, ya sea de manera presencial o virtual.
 
 El Secretario de Actas y Acuerdos de la propia Junta Directiva convocará a las sesiones según sea el caso, tratándose de sesiones ordinarias lo hará por lo menos con diez días naturales antes de realizarse, anexando a la convocatoria la relación de los asuntos a tratar; y de las extraordinarias por lo menos con setenta y dos horas antes de efectuarse, anexando a su vez los asuntos a tratar.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
+
 ###### Artículo 8°.
 
-Para que puedan llevarse a cabo válidamente las sesiones ordinarias o extraordinarias de la Junta Directiva, se requiere la asistencia de cuando menos, cuatro de sus miembros, siempre que entre ellos se encuentre el Presidente de la Junta Directiva o quien él designe; las decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente o quien designe tendrá voto de calidad.
+Para que puedan llevarse a cabo válidamente las sesiones ordinarias o extraordinarias de la Junta Directiva, en cualquiera de las modalidades, ya sea presencial o virtual, se requiere la asistencia de cuando menos, cuatro de sus miembros, siempre que entre ellos se encuentre el Presidente de la Junta Directiva o quien él designe; las decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente o quien designe tendrá voto de calidad.
 
 ###### Artículo 9°.
 
@@ -189,7 +223,9 @@ La representación del CECyTEA, así como el trámite y resolución de los asunt
 
 El Director General podrá delegar facultades en los servidores públicos de las diversas áreas que estime pertinente, con excepción de aquellas reservadas para su exclusiva atención, conservando en todo momento la atribución para ejercer directamente las facultades que ha delegado.
 
-La delegación referida en líneas que anteceden, se hará mediante acuerdo que se publicará en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
+
+La delegación referida en líneas que anteceden, se hará mediante acuerdo que se publicará en el Periódico Oficial del Estado, debiéndose inscribir en el Registro Público de la Propiedad y del Comercio del Estado en la sección relativa a las Entidades Paraestatales.
 
 ###### Artículo 13.
 
@@ -211,7 +247,9 @@ VII. Desempeñar el cargo de Presidente del Comité Ética y Prevención de Conf
 
 VIII. Ejecutar y acatar las disposiciones que emita y/o acuerde la Junta Directiva y las demás facultades contenidas en otras disposiciones legales aplicables.
 
-Además la Dirección General contará con la (sic) siguientes áreas de apoyo: Coordinación de Relaciones Públicas y Comunicación; Coordinación Estatal de los Centros de Educación Media Superior a Distancia; y una Jefatura del Departamento de Informática; así como de las demás áreas necesarias para llevar a cabo sus funciones con base en el presupuesto aprobado.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
+
+Además, la Dirección General contará con las siguientes áreas de apoyo: Jefatura de Departamento de los Centros de Educación Media Superior a Distancia; y una Jefatura del Departamento de Informática; así como de las demás áreas necesarias para llevar a cabo sus funciones con base en el presupuesto aprobado.
 
 ###### Artículo 14.
 
@@ -241,11 +279,19 @@ XI. Coordinar las Comisiones que para el adecuado funcionamiento del CECyTEA se 
 
 XII. Llevar a cabo las acciones necesarias a fin de que las funciones de los Órganos de Control y Evaluación del CECyTEA, se realicen de acuerdo con las disposiciones legales aplicables;
 
-XIII. Rendir ante la Junta Directiva, los informes trimestrales que le presenten las Unidades del Órgano Interno de Control, con apego a los principios de transparencia y rendición de cuentas y cuidando en todo momento la protección de los datos personales;
+XIII. (DEROGADA, P.O. 4 DE JULIO DE 2022)
 
-XIV. Otorgar descuentos en el cobro de inscripción y colegiaturas a aquellos alumnos que por sus condiciones socio-económicas se encuentren en imposibilidad de cubrirlos, dicho apoyo se condicionará al resultado del estudio de trabajo social; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-XV. Asimismo ejercerá aquellas que con tal carácter las leyes lo dispongan y/o la propia Junta Directiva le confiera.
+XIV. Otorgar descuentos en el cobro de inscripción y colegiaturas a aquellos alumnos que por sus condiciones socio-económicas se encuentren en imposibilidad de cubrirlos, dicho apoyo se condicionará al resultado del estudio de trabajo social;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XV. Asimismo ejercerá aquellas que con tal carácter las leyes lo dispongan y/o la propia Junta Directiva le confiera; y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XVI. Autorizar las licencias sin goce de sueldo a los trabajadores del CECyTEA en términos de lo dispuesto por las disposiciones aplicables.
 
 ### CAPÍTULO III. De las Unidades Administrativas
 
@@ -281,7 +327,9 @@ X. Las demás que el Director General les encomiende dentro del ámbito de su co
 
 La Dirección Académica depende de la Dirección General y estará a cargo de un Director, quien tendrá las siguientes atribuciones:
 
-I. Elaborar, con la colaboración de los Directores de Planteles, los calendarios de actividades que pondrá a consideración del Director General;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+I. Realizar en colaboración con los jefes de departamento de la Dirección Académica y Directores de Planteles, con base en el Calendario oficial de la Subsecretaría de Educación Media Superior de la Secretaría de Educación Pública, CECyTEA y el Instituto de Educación de Aguascalientes, el Calendario de Actividades de planteles del CECyTEA, el que pondrá a consideración del Director General;
 
 II. Supervisar y controlar la ejecución del calendario escolar y todos los planes y programas de estudio vigilando su cumplimiento;
 
@@ -293,25 +341,67 @@ V. Realizar los ajustes necesarios a la carga horaria docente en el transcurso d
 
 VI. Elaborar el plan de trabajo anual del área académica;
 
-VII. Aplicar los recursos que en el plan anual de trabajo estén asignados a los programas que tiene bajo su cargo el área académica para la promoción de actividades cívicas, artísticas y deportivas; atención a la demanda, cobertura y calidad; desarrollo académico y pertinencia de planes y programas de estudio;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-VIII. Gestionar la dotación de recursos a los Planteles adscritos al CECyTEA;
+VII. Aplicar los recursos que en el plan anual de trabajo estén asignados a los programas que tiene bajo su cargo el área académica para la promoción de actividades de atención a la demanda, cobertura y calidad; desarrollo académico y pertinencia de planes y programas de estudio;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+VIII. Apoyar en la gestión a los Directores de Planteles para la dotación de recursos a los Planteles adscritos al CECyTEA;
 
 IX. Aplicar las medidas disciplinarias pertinentes en caso de incumplimiento a las disposiciones normativas, a Directores de Planteles;
 
 X. Auxiliar al Director General dentro de la esfera de su competencia en las tareas que le sean encomendadas, relacionadas con el sector educativo y sustentadas en disposiciones legales aplicables;
 
-XI. Ejercer facultades a través de los Departamentos y áreas correspondientes en materia de certificación, acreditación y profesiones;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XI. Ejercer facultades en materia de certificación de documentos e información, acreditación, validación y titulación;
 
 XII. Participar en las sesiones trimestrales de la Junta Directiva del CECyTEA cada vez que ésta lo requiera, para conocer el estado de aplicación del presupuesto de acuerdo con lo programado y en su caso acordar las modificaciones al mismo;
 
-XIII. Coordinar las actividades de acompañamiento, seguimiento y mediación de las experiencias de aprendizaje de los estudiantes en ámbitos laborales y escolarizados, así como de la elaboración, en coordinación con el formador e instructores de la empresa el plan de formación personalizado del estudiante de Formación Dual;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-XIV. Implementar las acciones conducentes para lograr la profesionalización y excelencia académica, conforme a lo establecido en la Ley General del Servicio Profesional Docente;
+XIII. Colaborar con el área de vinculación del CECyTEA, en la coordinación de las actividades de acompañamiento, seguimiento y mediación de las experiencias de aprendizaje de los estudiantes en ámbitos laborales y escolarizados, así como de la elaboración, en coordinación con el formador e instructores de la empresa el plan de formación personalizado del estudiante de Formación Dual;
 
-XV. Atender las solicitudes de información que le planteen respecto del ámbito de su competencia en el marco de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios; y sobre el ejercicio de los Derechos ARCO bajo la observancia de la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-XVI. Las demás que el Director General le encomiende dentro del ámbito de su competencia, así como las contenidas en otras disposiciones legales aplicables.
+XIV. Implementar las acciones conducentes para lograr la profesionalización y excelencia académica, conforme a lo establecido en la Ley General del Sistema para la Carrera de las Maestras y los Maestros;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XV. Atender las solicitudes de información que le planteen respecto del ámbito de su competencia en el marco de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios; y sobre el ejercicio de los Derechos ARCO bajo la observancia de la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2022)</small>
+
+XVI. Proponer al Director General el calendario oficial del ciclo escolar, distinto de los niveles de educación básica y normal mismo que una vez autorizado, deberá enviarse como Calendario Oficial del subsistema a la Coordinación Nacional de ODES de los CECyTE's;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XVII. Vigilar y controlar el cumplimiento de la normativa aplicable en materia académica de los Planteles del CECyTEA y de los CEMSaD;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XVIII. Coordinar con la Dirección General de Profesiones de la SEP, el registro de títulos para egresados del CECyTEA;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XIX. Colaborar con la Dirección de Vinculación en la prestación del servicio social obligatorio, así como las prácticas profesionales de los estudiantes del CECyTEA, requeridos para la obtención del certificado final y título profesional en coordinación con las demás áreas de la Dirección y Directores de los Planteles de acuerdo con las disposiciones legales y reglamentarlas aplicables;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XX. Gestionar con la Dirección de Planeación, respecto de las necesidades de los planteles del CECyTEA de infraestructura y equipamiento a efecto de ser atendidas de manera oportuna;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XXI. Dar atención y seguimiento del control escolar, registro de alumnos, deserción y el análisis de indicadores de permanencia;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XXII. Documentar las faltas y/o violaciones a través de los medios correspondientes a las disposiciones señaladas en el Estado Jurídico y las demás normas laborales aplicables; cometidas por los trabajadores del CECyTEA, que se encuentren adscritos a su área; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE JULIO DE 2022)</small>
+
+XXIII. Las demás que el Director General le encomiende dentro del ámbito de su competencia, así como las contenidas en otras disposiciones legales aplicables.
 
 La Dirección Académica contará con las Direcciones de Plantel que estarán sujetas a lo dispuesto por la Ley General del Servicio Profesional Docente y demás disposiciones legales aplicables, así mismo contará con las Jefaturas de los Departamentos de Desarrollo Académico; y Psicopedagógico; así como de las demás áreas necesarias para llevar a cabo sus funciones con base en el presupuesto aprobado.
 
@@ -341,9 +431,13 @@ IX. Observar y vigilar el cumplimiento de las normas de control, fiscalización 
 
 X. Proponer al Director General, el Manual de Organización, y el Manual de Procesos y Procedimientos para la adecuada organización y funcionamiento del CECyTEA, de conformidad con las disposiciones aplicables;
 
-XI. Elaborar las requisiciones, evaluar los programas y presupuesto de adquisiciones elaborados por la Direcciones de Área, Direcciones de Planteles y Coordinaciones del CECyTEA, y someterlos a la aprobación de la Dirección de Planeación, así como verificar su correcta ejecución;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-XII. Autorizar y tramitar conforme al ejercicio del presupuesto vigente los recursos relativos a los contratos de arrendamientos y de prestación de servicios generales de la Dirección General, Direcciones de Área y Direcciones de Planteles y Coordinaciones del CECyTEA, para que con apoyo de la Dirección Jurídica se elaboren los contratos respectivos así como los demás documentos que impliquen actos de administración, conforme a las disposiciones jurídicas aplicables, y a los lineamientos que fije el Director General;
+XI. Recibir las requisiciones, evaluar los programas y presupuesto de adquisiciones de bienes, servicios y arrendamientos elaborados por las Direcciones de Área, Direcciones de Planteles y Coordinaciones del CECyTEA, y someterlos a la aprobación de la Dirección de Planeación, así como verificar su correcta ejecución;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XII. Autorizar y tramitar conforme al ejercicio del presupuesto vigente los recursos relativos a los contratos de arrendamientos y de prestación de servicios generales de la Dirección General, Direcciones de Área y Direcciones de Planteles y Coordinaciones del CECyTEA, para que la Dirección Jurídica elabore los contratos respectivos, así como los demás documentos que impliquen actos de administración, conforme a las disposiciones jurídicas aplicables, y a los lineamientos que fije el Director General;
 
 XIII. Presidir la secretaría de los Comités de Adquisiciones, Arrendamientos y Servicios relacionados del CECyTEA;
 
@@ -357,7 +451,7 @@ XVII. Fomentar en coordinación con las Direcciones de Área, Direcciones de Pla
 
 XVIII. Autorizar, supervisar y evaluar el establecimiento y operación de los servicios del Comité de Seguridad e Higiene en las Direcciones de Área, Direcciones de Planteles y Coordinaciones del CECyTEA y asesorar en la materia a los Planteles;
 
-XIX. Supervisar que las obras de construcción, reparación, adaptación o mantenimiento se realicen conforme a las especificaciones de los contratos y proyectos respectivos;
+XIX. (DEROGADA, P.O. 4 DE JULIO DE 2022)
 
 XX. Presentar al Director General los informes sobre actividades específicas en el tiempo y forma que sean solicitados;
 
@@ -367,7 +461,9 @@ XXII. Controlar, supervisar y evaluar en materia de recursos humanos, recursos m
 
 XXIII. Ejecutar las adquisiciones y verificar la documentación necesaria para los pagos con cargo al presupuesto y presentar al Director General las que deben ser autorizadas por él, conforme a las disposiciones legales;
 
-XXIV. Dirigir y resolver, con base en la normatividad aplicable, los asuntos del personal al servicio del CECyTEA y autorizar los movimientos del mismo;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XXIV. Dirigir y resolver, con base en la normatividad aplicable, los asuntos del personal al servicio del CECyTEA y autorizar los movimientos del mismo; previa autorización del Director General;
 
 XXV. Revisar sistemáticamente el desempeño de los servicios administrativos que se proporcionan al CECyTEA, en apoyo a los programas del mismo y proponer medidas para su mejora continua;
 
@@ -381,9 +477,37 @@ XXIX. Conocer de las incidencias laborales que le reporten las Direcciones de Á
 
 XXX. Definir los perfiles de puestos y los requisitos legales para ocupar un puesto conforme al tabulador autorizado;
 
-XXXI. Atender las solicitudes de información que le planteen respecto del ámbito de su competencia en el marco de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios; y sobre el ejercicio de los Derechos ARCO bajo la observancia de la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-XXXII. Las demás que el Director General le encomiende dentro del ámbito de su competencia, así como las contenidas en otras disposiciones legales aplicables.
+XXXI. Atender las solicitudes de información que le planteen respecto del ámbito de su competencia en el marco de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios; y sobre el ejercicio de los Derechos ARCO bajo la observancia de la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2022)</small>
+
+XXXII. Coordinar actividades con administrativos de planteles del CECyTEA;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XXXIII. Realizar la credencialización de personal administrativo y docente, así como del alumnado adscrito al CECyTEA;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XXXIV. Ejercer facultades de certificación sobre documentos que obran en los archivos correspondientes a su Dirección;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XXXV. Proponer las políticas de información, diseminación, publicación y actualización de la información relacionada con el sector educativo, según los requerimientos que de las mismas hagan las Direcciones de Área, Direcciones de Planteles, Unidades y Coordinaciones del CECyTEA u otras dependencias o entidades de la Administración Pública Estatal o Federal, en el ejercicio de sus respectivas atribuciones;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XXXVI. Documentar las faltas y/o violaciones a través de los medios correspondientes a las disposiciones señaladas en el Estatuto Jurídico y las demás normas laborales aplicables; cometidas por los trabajadores del CECyTEA, que se encuentren adscritos a su área;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XXXVII. Llevar el registro y actualización del archivo del CECyTEA; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE JULIO DE 2022)</small>
+
+XXXVIII. Las demás que el Director General le encomiende dentro del ámbito de su competencia, así como las contenidas en otras disposiciones legales aplicables.
 
 La Dirección Administrativa contará con las Jefaturas de los Departamentos de Finanzas; de Recursos Humanos; y de Recursos Materiales; así como de las demás áreas necesarias para llevar a cabo sus funciones con base en el presupuesto aprobado.
 
@@ -395,55 +519,91 @@ La Dirección de Planeación depende de la Dirección General y estará a cargo 
 
 I. Coordinar la elaboración de los planes a corto, mediano y largo plazo del CECyTEA;
 
-II. Supervisar y garantizar conforme al presupuesto anual las adquisiciones para los pagos con cargo al mismo y presentar al Director General las que deban ser autorizadas por él, conforme a las disposiciones legales;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-III. Proponer, conjuntamente con las áreas administrativas del CECyTEA y entidades del sector educativo federales y estatales, las metas anuales de los programas correspondientes y los sistemas para evaluar su cumplimiento;
+II. Validar conforme al presupuesto anual disponible las adquisiciones para los pagos con cargo al mismo y presentar al Director General las que deban ser autorizadas por él, conforme a las disposiciones legales;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+III. Proponer, conjuntamente con las unidades administrativas del CECyTEA, las metas anuales de los programas correspondientes y los sistemas para evaluar su cumplimiento;
 
 IV. Evaluar y publicar las estadísticas relativas a la programación y evaluación del CECyTEA, de acuerdo con las disposiciones aplicables;
 
-V. Proponer normas generales para la elaboración de los anteproyectos de presupuesto, de conformidad con las reglas de operación del Consejo Nacional de Armonización Contable y las políticas que señale el Director General;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-VI. Integrar los anteproyectos de presupuesto global y del programa de inversiones del sector educativo, conjuntamente con la Direcciones de Área, Direcciones de Planteles, Unidades y Coordinaciones del CECyTEA, así como con las entidades agrupadas en dicho sector;
+V. Coordinar la elaboración de los anteproyectos de presupuesto, de conformidad con la normatividad aplicable, así como las políticas que señale el Director General;
 
-VII. Analizar las modificaciones presupuestales que soliciten las Direcciones de Área, Direcciones de Planteles, Unidades y Coordinaciones del CECyTEA y las entidades a los programas, y proponer las modificaciones a la estructura orgánica del CECyTEA de acuerdo a las necesidades del sector y disponibilidad presupuestal;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-VIII. Proponer al Director General el calendario escolar de cada año lectivo, distinto de los niveles de educación básica y normal mismo que deberá publicarse en el Periódico Oficial del Estado;
+VI. Integrar los anteproyectos de presupuesto y del programa anual de inversión y obra pública, conjuntamente con las Direcciones de Área y Coordinaciones del CECyTEA;
 
-IX. Evaluar, en coordinación con las Direcciones de Área, Direcciones de Planteles, Unidades y Coordinaciones del CECyTEA y entidades del sector educativo, la operación de los programas y presupuestos anuales;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+VII. Analizar y atender conforme la suficiencia presupuestal, las modificaciones al presupuesto que soliciten las Direcciones de Área y Coordinaciones del CECyTEA, y proponer las modificaciones a la estructura orgánica del CECyTEA de acuerdo a las necesidades de éste y a su disponibilidad presupuestal;
+
+VIII. (DEROGADA, P.O. 4 DE JULIO DE 2022)
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+IX. Evaluar, en coordinación con las Direcciones de Área y Coordinaciones del CECyTEA, la operación de los programas y presupuestos anuales;
 
 X. Preparar los informes de labores que deba rendir el CECyTEA ante la Junta Directiva y los Poderes Ejecutivo y Legislativo según sea el caso;
 
-XI. Proponer las políticas de información, diseminación, publicación y actualización de la información relacionada con el sector educativo, según los requerimientos que de las mismas hagan las Direcciones de Área, Direcciones de Planteles, Unidades y Coordinaciones del CECyTEA u otras dependencias o entidades de la Administración Pública Estatal o Federal, en el ejercicio de sus respectivas atribuciones;
+XI. (DEROGADA, P.O. 4 DE JULIO DE 2022)
 
 XII. Auxiliar al Director General dentro de la esfera de su competencia en las tareas que le sean encomendadas, relacionadas con el sector educativo y que estén señaladas en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, la Ley de Bienes del Estado de Aguascalientes, la Ley de Entidades Paraestatales, las Reglas de Operación del Consejo Nacional de Armonización Contable y demás disposiciones aplicables;
 
-XIII. Ejercer facultades a través de las Direcciones de Área, Direcciones de Planteles, Coordinaciones, los Departamentos y áreas correspondientes en materia de certificación, acreditación y titulación;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-XIV. Ejercer facultades de certificación sobre documentos que obran en los archivos de las diferentes Direcciones de Área, Direcciones de Planteles y Coordinaciones del CECyTEA;
+XIII. Aprobar los programas y presupuesto para las adquisiciones elaboradas por las Direcciones de Área y Coordinaciones del CECyTEA, así como verificar su correcta ejecución;
 
-XV. Analizar y en su caso, determinar las modificaciones presupuestales que proceda aplicar entre los programas del CECyTEA;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XIV. Ejercer facultades de certificación sobre documentos que obran en los archivos correspondientes a su Dirección;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XV. Fomentar en coordinación con las Direcciones de Área, Direcciones de Planteles y Coordinaciones del CECyTEA la conservación, uso, reparación, mantenimiento y adaptación del mobiliario, maquinaria, equipo e instrumental destinado a la labor educativa y administrativa;
 
 XVI. Analizar y determinar la planeación para la ubicación de los bienes inmuebles susceptibles para la construcción de espacios educativos del CECyTEA y vigilar los programas de supervisión sobre la infraestructura de los Planteles del subsistema en coordinación con el Instituto de Infraestructura Física Educativa de Aguascalientes;
 
-XVII. Proponer y gestionar los inmuebles necesarios o indispensables para espacios educativos en donde no se cuente con infraestructura propia a través de los instrumentos jurídicos necesarios;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XVII. Proponer y gestionar los inmuebles necesarios o indispensables para espacios educativos en donde no se cuente con infraestructura propia a través de los instrumentos y figuras jurídicas necesarias;
 
 XVIII. Gestionar con autorización del Director General ante autoridades Estatales y Municipales la obtención de recursos en dinero o en especie para mejoramiento, mantenimiento y ampliación de los Planteles de CECyTEA;
 
 XIX. Gestionar con autorización del Director General la donación de bienes inmuebles con dependencias federales, estatales, municipales, autoridades ejidales y particulares conforme a las necesidades de cobertura de los servicios educativos que se ofrecen;
 
-XX. Gestionar con autorización del Director General ante autoridades federales educativas sobre los diferentes programas de infraestructura, mantenimiento y equipamiento que beneficie al CECyTEA;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-XXI. Gestionar con autorización del Director General ante autoridades federales sobre la ampliación a la cobertura de los diferentes Planteles, coinversiones de acuerdo con las necesidades de crecimiento del CECyTEA, buscando que la estructura ocupacional se apegue a los lineamientos que marca la Coordinación Nacional de los Colegios de Estudios Científicos y Tecnológicos de la SEP;
+XX. Gestionar, con autorización del Director General, ante autoridades federales educativas respecto a los diferentes programas de infraestructura, mantenimiento y equipamiento que beneficien al CECyTEA;
 
-XXII. Vigilar y controlar el cumplimiento de la normativa aplicable en materia de control escolar de los Planteles del CECyTEA;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-XXIII. Coordinar con la Dirección Académica ante la Dirección General de Profesiones de la SEP, el registro de títulos y la expedición de cédulas profesionales para egresados de CECyTEA;
+XXI. Gestionar, con autorización del Director General, ante autoridades federales respecto a la ampliación a la cobertura de los diferentes Planteles, así como a coinversiones de acuerdo con las necesidades de crecimiento del CECyTEA, buscando que la estructura ocupacional se apegue a los lineamientos que marca la Coordinación de Organismos Descentralizados de los Colegios de Estudios Científicos y Tecnológicos de la Secretaría de Educación Pública;
 
-XXIV. Coordinar con la Dirección de Vinculación la prestación de servicio social obligatorio así como las prácticas profesionales de los estudiantes del CECyTEA requeridos para la obtención del certificado final y título profesional en coordinación con las demás áreas de la Dirección y Directores de los Planteles de acuerdo con las disposiciones legales y reglamentarias aplicables;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-XXV. Atender las solicitudes de información que le planteen respecto del ámbito de su competencia en el marco de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios; y sobre el ejercicio de los Derechos ARCO bajo la observancia de la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios; y
+XXII. Supervisar que las obras de construcción, reparación, adaptación o mantenimiento se realicen conforme a las especificaciones de los contratos y proyectos respectivos; así como con base en el visto bueno o autorización de las instancias estatales competentes en la materia;
 
-XXVI. Las demás que el Director General le encomiende dentro del ámbito de su competencia, así como las contenidas en otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XXIII. Documentar las faltas y/o violaciones a través de los medios correspondientes a las disposiciones señaladas en el Estatuto Jurídico y las demás normas laborales aplicables; cometidas por los trabajadores del CECyTEA, que se encuentren adscritos a su área;
+
+XXIV. (DEROGADA, P.O. 4 DE JULIO DE 2022)
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XXV. Atender las solicitudes de información que le planteen respecto del ámbito de su competencia en el marco de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios; y sobre el ejercicio de los Derechos ARCO bajo la observancia de la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XXVI. Las demás que el Director General le encomiende dentro del ámbito de su competencia, así como las contenidas en otras disposiciones legales aplicables; y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XXVII. Elaborar las requisiciones de la Dirección de Planeación.
 
 La Dirección de Planeación contará con las Jefaturas de los Departamentos de Programación y Presupuesto; de Planeación; de Estadística y Evaluación Institucional; y de Control Escolar; así como de las demás áreas necesarias para llevar a cabo sus funciones con base en el presupuesto aprobado.
 
@@ -479,9 +639,29 @@ XII. Coordinar los programas de servicio social, prácticas profesionales, becas
 
 XIII. Ejercer facultades como intermediario entre el CECyTEA y el sector empresarial a través del organismo empresarial local y la o las empresas con las que se impulse un programa de Formación Dual, con el propósito de promover y facilitar su implementación y operación;
 
-XIV. Atender las solicitudes de información que le planteen respecto del ámbito de su competencia en el marco de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios; y sobre el ejercicio de los Derechos ARCO bajo la observancia de la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-XV. Las demás que el Director General le encomiende dentro del ámbito de su competencia, así como las contenidas en otras disposiciones legales aplicables.
+XIV. Atender las solicitudes de información que le planteen respecto del ámbito de su competencia en el marco de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios; y sobre el ejercicio de los Derechos ARCO bajo la observancia de la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2022)</small>
+
+XV. Coordinar las actividades de acompañamiento, seguimiento y mediación de las experiencias de aprendizaje de los estudiantes en ámbitos laborales y escolarizados, así como elaborar el plan de formación personalizado del estudiante de Formación Dual, en coordinación con el formador e instructores de la empresa;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XVI. Ejercer facultades de certificación sobre documentos que obran en los archivos correspondientes a su Dirección;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XVII. Documentar las faltas y/o violaciones a través de los medios correspondientes a las disposiciones señaladas en el Estatuto Jurídico y las demás normas laborales aplicables; cometidas por los trabajadores del CECyTEA, que se encuentren adscritos a su área;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XVIII. Coordinar, supervisar y convocar a licitación los servicios de alimentación de las tiendas escolares de los planteles y dar seguimiento al cumplimiento del contrato respectivo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE JULIO DE 2022)</small>
+
+XIX. Las demás que el Director General le encomiende dentro del ámbito de su competencia, así como las contenidas en otras disposiciones legales aplicables.
 
 La Dirección de Vinculación contará con la Jefatura del Departamento de Vinculación; así como de las demás áreas necesarias para llevar a cabo sus funciones con base en el presupuesto aprobado.
 
@@ -513,39 +693,27 @@ X. Representar a la Unidad de Transparencia del CECyTEA;
 
 XI. Participar como asesor en las sesiones de la Junta Directiva;
 
-XII. Atender las solicitudes de información que le planteen respecto del ámbito de su competencia en el marco de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios; y sobre el ejercicio de los Derechos ARCO bajo la observancia de la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-XIII. Las demás que el Director General le encomiende dentro del ámbito de su competencia, así como las contenidas en otras disposiciones legales aplicables.
+XII. Atender las solicitudes de información que le planteen respecto del ámbito de su competencia en el marco de la ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios; y sobre el ejercicio de los Derechos ARCO bajo la observancia de la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2022)</small>
+
+XIII. Ejercer facultades de certificación sobre documentos que obran en los archivos correspondientes a su Dirección;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XIV. Documentar las faltas y/o violaciones a través de los medios correspondientes a las disposiciones señaladas en el Estatuto Jurídico y las demás normas laborales aplicables; cometidas por los trabajadores del CECyTEA, que se encuentren adscritos a su área;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE JULIO DE 2022)</small>
+
+XV. Las demás que el Director General le encomiende dentro del ámbito de su competencia, así como las contenidas en otras disposiciones legales aplicables.
 
 #### SECCIÓN SÉPTIMA. De la Coordinación de Relaciones Públicas y Comunicación
 
 ###### Artículo 21.
 
-La Coordinación de Relaciones Públicas y Comunicación depende de la Dirección General y estará a cargo de un Coordinador quien tendrá las siguientes atribuciones:
-
-I. Establecer, dirigir y controlar las políticas en materia de Relaciones Públicas y Comunicación social del CECyTEA, de conformidad con los objetivos, metas y lineamientos que determine el Director General;
-
-II. Planear, programar, organizar, dirigir, controlar y evaluar las actividades de las áreas integrantes de la Coordinación de Relaciones Públicas y Comunicación, y mantener informado al Director General de la situación que guardan los asuntos que son de su competencia;
-
-III. Someter al acuerdo del Director General, el desahogo de los asuntos que le encomiende, así como aquellos que conforme a las normas vigentes, requieran de su autorización;
-
-IV. Participar en la elaboración de los proyectos y programas institucionales específicos para difundir lo que el Director General le indique;
-
-V. Coordinar las conferencias y ruedas de prensa que le indique el Director General e informarle de los asuntos tratados, para la ejecución de las instrucciones correspondientes;
-
-VI. Informar a la población a través de los medios impresos y electrónicos, sobre la naturaleza y funciones del CECyTEA, mismo que oferta Bachillerato Tecnológico Bivalente y Bachillerato General a la comunidad, con el fin de que ésta pueda satisfacer sus requerimientos;
-
-VII. Otorgar asesoría y apoyo a los Planteles en el Estado en la elaboración de mensajes de difusión y estrategias de comunicación;
-
-VIII. Conducir las Relaciones Públicas en los eventos en los que participe el Director General, así como planear, organizar y dirigir las acciones que se orienten a tal fin;
-
-IX. Vincular sus funciones con las demás Unidades Administrativas con el fin de mantener la debida coordinación en la logística para el desarrollo de eventos en los que participe el Director General;
-
-X. Atender las solicitudes de información que le planteen respecto del ámbito de su competencia en el marco de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios; y sobre el ejercicio de los Derechos ARCO bajo la observancia de la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios;
-
-XI. Controlar, supervisar y evaluar los sistemas de Archivo; y
-
-XII. Las demás que el Director General le encomiende dentro del ámbito de su competencia, así como las contenidas en otras disposiciones legales aplicables.
+(DEROGADO, P.O. 4 DE JULIO DE 2022)
 
 ### CAPÍTULO IV. De los Órganos de Control y Evaluación
 
@@ -585,7 +753,9 @@ El Órgano Interno de Control dirigirá sus funciones conforme a los lineamiento
 
 La Unidad Auditora es la encargada de fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno, y tiene las siguientes funciones:
 
-I. Elaborar y ejecutar, con aprobación del Director General, el programa anual de auditorías a las diversas áreas que conforman el CECyTEA;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+I. Elaborar, someter a consideración de la Junta Directiva y ejecutar el programa anual de auditorías a las diversas áreas que conforman al CECyTEA;
 
 II. Realizar auditorías para verificar y evaluar los sistemas de control interno, de registros contables y apego a las normas y procedimientos establecidos; asimismo practicar auditorías y revisiones que permitan evaluar el desempeño del CECyTEA;
 
@@ -593,23 +763,27 @@ III. Presentar ante la Unidad Investigadora, las denuncias derivadas de la prác
 
 IV. Coordinar las acciones a fin de verificar que las áreas que conforman el CECyTEA cumplan las políticas, normas y lineamientos establecidos por los diferentes ordenamientos legales y los emitidos por la propia Contraloría del Estado;
 
-V. Asistir y participar en el Comité de Adquisiciones y Enajenaciones y en los procedimientos para la adquisición y prestación de servicios en términos de lo establecido por la ley de la materia;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+V. Asistir y participar en los procedimientos para la adquisición y prestación de servicios en términos de lo establecido por la ley de la materia;
 
 VI. Comprobar mediante revisiones o inspección directa y selectiva, el cumplimiento por parte del CECyTEA sobre el correcto ejercicio del gasto público;
 
 VII. Llevar a cabo las acciones necesarias para la implementación de las Normas Generales de Control Interno en la Administración Pública Estatal en apego al Sistema Estatal Anticorrupción;
 
-VIII. Rendir informe trimestral a la Junta Directiva, a través del Director General, sobre el estado que guardan los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+VIII. Rendir informe trimestral a la Junta Directiva sobre el estado que guardan los asuntos de su competencia;
 
 IX. Elaborar y proporcionar los informes que le solicite la Contraloría del Estado y demás información correspondiente;
 
-X. Asesorar a los servidores públicos y Unidades Administrativas del CECyTEA en los asuntos de su competencia;
+X. (DEROGADA, P.O. 4 DE JULIO DE 2022)
 
 XI. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos;
 
-XII. Supervisar que el manual de contabilidad se encuentre actualizado y responda a las necesidades del CECyTEA y a la normatividad aplicable a la materia;
+XII. (DEROGADA, P.O. 4 DE JULIO DE 2022)
 
-XIII. Participar en los actos de entrega recepción de las Unidades Administrativas; y
+XIII. (DEROGADA, P.O. 4 DE JULIO DE 2022)
 
 XIV. Las demás atribuciones previstas en las disposiciones jurídicas aplicables.
 
@@ -647,7 +821,9 @@ XIV. Solicitar el auxilio de la Fiscalía General del Estado para determinar la 
 
 XV. Realizar, por sí o a través del personal a su cargo, todo tipo de notificaciones;
 
-XVI. Rendir informe trimestral a la Junta Directiva, a través del Director General, sobre el estado que guardan los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XVI. Rendir informe trimestral a la Junta Directiva sobre el estado que guardan los asuntos de su competencia;
 
 XVII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de los procedimientos contemplados en la Ley de Responsabilidades;
 
@@ -677,7 +853,9 @@ V. Llevar a cabo todos los actos procesales respectivos en carácter de Autorida
 
 VI. Acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera el Comité Coordinador del Sistema Estatal Anticorrupción y que sean del ámbito de su competencia;
 
-VII. Rendir informe trimestral a la Junta Directiva, a través del Director General, sobre el estado que guardan los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+VII. Rendir informe trimestral a la Junta Directiva sobre el estado que guardan los asuntos de su competencia;
 
 VIII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de los procedimientos contemplados en la Ley de Responsabilidades;
 
@@ -774,3 +952,25 @@ C. Pedro Eduardo Rodríguez Patiño, REPRESENTANTE DEL SECTOR SOCIAL.
 Lic. Mario Alberto Martínez Padilla, REPRESENTANTE DEL SECTOR PRODUCTIVO.
 
 Lic. José Rafael López Rivera, REPRESENTANTE DEL SECTOR PRODUCTIVO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS, DEROGACIONES Y ADICIONES A DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas, derogaciones y adiciones al Reglamento Interior del Colegio de Estudios Científicos y Tecnológicos del Estado de Aguascalientes entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor quedarán sin efecto todas aquellas disposiciones que se opongan a las presentes reformas, derogaciones y adiciones al Reglamento Interior del Colegio de Estudios Científicos y Tecnológicos del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+Se deberán realizar las acciones necesarias, así como las modificaciones a las demás disposiciones internas, a efecto de que las funciones y unidades administrativas del Colegio de Estudios Científicos y Tecnológicos del Estado de Aguascalientes en cuestión encuentren congruencia, armonía y efectividad con las presentes reformas, derogaciones y adiciones.
+
+###### ARTÍCULO CUARTO.
+
+Se instruye a la persona titular de la Dirección General del Colegio de Estudios Científicos y Tecnológicos del Estado de Aguascalientes para que lleve a cabo las acciones necesarias tendentes a la inscripción de las presentes reformas, derogaciones y adiciones al Reglamento Interior en el Registro Público de la Propiedad y del Comercio en el Estado de Aguascalientes, en el libro correspondiente a las Entidades Paraestatales.
