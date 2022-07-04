@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-auditoria-superior-de-la-ciudad-13675
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-06-14"
-last_updated: "2022-01-26"
+last_updated: "2022-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136753&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2019-06-04"
 
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE DICIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 26 DE ENERO DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE JULIO DE 2022.
 
 Reglamento publicado en el Número 113 de la Gaceta Oficial de la Ciudad de México, el viernes 14 de junio de 2019.
 
@@ -64,7 +62,9 @@ IV. Pliego de Observaciones: Documento por medio del cual la Auditoría Superior
 
 V. Supervisión: Proceso técnico que, en el ámbito de su competencia, desarrollan la persona titular de la Auditoría Superior o las Unidades Administrativas Auditoras con el propósito de orientar y evaluar permanentemente la actividad institucional a efecto de asegurar la calidad técnica y profesional del trabajo y cumplir con los objetivos propuestos de manera eficiente, eficaz y económica;
 
-VI. Unidades Administrativas: La Oficina de la persona titular de la Auditoría Superior; la Contraloría General de la Auditoría Superior; las Direcciones Generales de Auditoría de Cumplimiento Financiero “A”, “B” y “C”, de Auditoría Especializada, de Asuntos Jurídicos y de Administración, y la Coordinación Técnica de Auditoría, y
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2022)</small>
+
+VI. Unidades Administrativas: La Oficina de la persona titular de la Auditoría Superior; la Contraloría General de la Auditoría Superior; las Direcciones Generales de Auditoría de Cumplimiento Financiero “A”, “B” y “C”, de Auditoría Especializada, de Asuntos Jurídicos, de Administración y la de Vinculación Institucional, así como la Coordinación Técnica de Auditoría, y
 
 VII. Unidades Administrativas Auditoras: Las unidades administrativas que en el ámbito de sus atribuciones realizan las tareas sustantivas del proceso de fiscalización, desde la fase de planeación hasta la generación de los informes individuales incluyendo el seguimiento que deben realizar en el ámbito de su competencia, a las acciones y promociones derivadas, en los términos previstos en la Ley, el presente reglamento y las demás disposiciones normativas.
 
@@ -90,15 +90,17 @@ c) Auditoría de Cumplimiento Financiero "A";
 
 d) Auditoría de Cumplimiento Financiero "B";
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2022)</small>
 
-e) Auditoría de Cumplimiento Financiero “C”, y
+e) Auditoría de Cumplimiento Financiero “C”,
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2022)</small>
 
-f) Auditoría Especializada.
+f) Auditoría Especializada, y
 
-g) (DEROGADO, G.O. 29 DE DICIEMBRE DE 2021)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE JULIO DE 2022)</small>
+
+g) Vinculación Institucional.
 
 III. La Coordinación Técnica de Auditoría; y
 
@@ -118,7 +120,7 @@ b) (DEROGADO, G.O. 29 DE DICIEMBRE DE 2021)
 
 c) (DEROGADO, G.O. 29 DE DICIEMBRE DE 2021)
 
-d) Coordinación de Vinculación Institucional; y
+d) (DEROGADO, G.O. 4 DE JULIO DE 2022)
 
 > <small>(F. DE E., G.O. 26 DE ENERO DE 2022)</small>
 
@@ -490,7 +492,7 @@ b) (DEROGADO, G.O. 29 DE DICIEMBRE DE 2021)
 
 c) (DEROGADO, G.O. 29 DE DICIEMBRE DE 2021)
 
-d) Coordinación de Vinculación Institucional; y
+d) (DEROGADO, G.O. 4 DE JULIO DE 2022)
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -544,25 +546,9 @@ XIII. Las demás que le confiera o instruya la persona titular de la Auditoría 
 
 (DEROGADO, G.O. 29 DE DICIEMBRE DE 2021)
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2021)</small>
-
 ###### Artículo 14.
 
-La Coordinación de Vinculación Institucional, tendrá las siguientes atribuciones:
-
-I. Apoyar a la persona titular de la Auditoría Superior, previa instrucción de ésta, en la vinculación con los entes locales y federales gubernamentales, instituciones de investigación y educación superior, en el ámbito de las atribuciones de la Auditoría Superior;
-
-II. Elaborar en coordinación con la Dirección General de Asuntos Jurídicos, los convenios o cualquier otro instrumento legal, con órganos públicos federales, estatales, municipales y de la Ciudad de México; personas físicas o morales del sector privado, instituciones educativas, entidades de fiscalización y organismos internacionales que agrupen a entidades homólogas, y demás que coadyuven con los fines constitucionales y legales de la Auditoría Superior, con excepción de los conferidos a otras unidades administrativas o áreas adscritas a la Oficina de la persona titular de la Auditoría Superior;
-
-III. Fungir como enlace de la Auditoría Superior con el Congreso, por conducto de la Comisión;
-
-IV. Mantener informada a la Oficina de la persona titular de la Auditoría Superior respecto de los proyectos de leyes, dictámenes y propuestas normativas realizadas por el Congreso, que guarden relación con las atribuciones de la Auditoría Superior;
-
-V. Coordinar el seguimiento y atención oportuna de los requerimientos de información y opinión solicitados por el Congreso, que guarden relación con las atribuciones de la Auditoría Superior; así como asistir a las reuniones de trabajo que convoque la Comisión,
-
-VI. Fungir como Enlace de la persona titular de la Auditoría Superior con los diversos organismos de fiscalización nacionales e internacionales, así como con la Auditoría Superior de la Federación y las Entidades de Fiscalización Superior Locales; y
-
-VII. Las demás que le confiera o instruya la persona titular de la Auditoría Superior.
+(DEROGADO, G.O. 4 DE JULIO DE 2022)
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -1086,9 +1072,29 @@ XXIV. Dirigir, planear e instrumentar, acciones, políticas y programas que perm
 
 XXV. Las demás que le confieran la Ley, este Reglamento, las disposiciones legales aplicables, las Condiciones Generales de Trabajo de la Auditoría Superior de la Ciudad de México y la persona titular de la Auditoría Superior.
 
-### CAPÍTULO X. DE LOS COMITÉS
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 4 DE JULIO DE 2022)</small>
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO X. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE VINCULACIÓN INSTITUCIONAL
+
+> <small>(ADICIONADO, G.O. 4 DE JULIO DE 2022)</small>
+
+Artículo 25 BIS.- La Dirección General de Vinculación Institucional, tendrá las siguientes atribuciones:
+
+I. Apoyar a la persona titular de la Auditoría Superior, previa instrucción de ésta, en la vinculación con los entes locales y federales gubernamentales, instituciones de investigación y educación superior, en el ámbito de las atribuciones de la Auditoría Superior;
+
+II. Elaborar en coordinación con la Dirección General de Asuntos Jurídicos, los convenios o cualquier otro instrumento legal, con órganos públicos federales, estatales, municipales y de la Ciudad de México; personas físicas o morales del sector privado, instituciones educativas, entidades de fiscalización y organismos internacionales que agrupen a entidades homólogas, y demás que coadyuven con los fines constitucionales y legales de la Auditoría Superior, con excepción de los conferidos a otras unidades administrativas o áreas adscritas a la Oficina de la persona titular de la Auditoría Superior;
+
+III. Fungir como enlace de la Auditoría Superior con el Congreso, por conducto de la Comisión;
+
+IV. Mantener informada a la Oficina de la persona titular de la Auditoría Superior respecto de los proyectos de leyes, dictámenes y propuestas normativas realizadas por el Congreso, que guarden relación con las atribuciones de la Auditoría Superior;
+
+V. Coordinar el seguimiento y atención oportuna de los requerimientos de información y opinión solicitados por el Congreso, que guarden relación con las atribuciones de la Auditoría Superior; así como asistir a las reuniones de trabajo que convoque la Comisión,
+
+VI. Fungir como Enlace de la persona titular de la Auditoría Superior con los diversos organismos de fiscalización nacionales e internacionales, así como con la Auditoría Superior de la Federación y las Entidades de Fiscalización Superior Locales; y
+
+VII. Las demás que le confiera o instruya la persona titular de la Auditoría Superior.
+
+### CAPÍTULO XI. DE LOS COMITÉS
 
 ###### Artículo 26.
 
@@ -1158,9 +1164,7 @@ VII. Las demás que se señalen en el Estatuto del Servicio Profesional Fiscaliz
 
 ## TÍTULO III. DE LAS ATRIBUCIONES DEL PERSONAL AUDITOR
 
-### CAPÍTULO ÚNICO. DE LA SUPLENCIA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA AUDITORÍA SUPERIOR
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2021)</small>
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 31.
 
@@ -1199,6 +1203,10 @@ XIV. Elaborar y someter a consideración de su superior jerárquico, los dictám
 XV. Las demás que en el ámbito de su competencia le otorguen las leyes, disposiciones normativas aplicables, demás normas generales y específicas de auditoría gubernamental, así como las que instruya su superior jerárquico.
 
 ## TÍTULO IV. DE LA SUPLENCIA
+
+### CAPÍTULO ÚNICO. DE LA SUPLENCIA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA AUDITORÍA SUPERIOR
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 32.
 
@@ -1267,3 +1275,19 @@ G.O. 26 DE ENERO DE 2022.
 PRIMERO.- Publíquese la presente Nota Aclaratoria en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Esta Nota Aclaratoria entrará en vigor el día de su publicación.
+
+G.O. 4 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. - Publíquese el presente Acuerdo en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. - El presente Acuerdo entrará en vigor a partir del día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. – Los asuntos competencia de la Coordinación de Vinculación Institucional, serán tramitados y resueltos por la Dirección General de Vinculación Institucional.
+
+CUARTO. – Los recursos humanos, materiales, informáticos y financieros de la Coordinación de Vinculación Institucional, formarán parte de la Dirección General de Vinculación Institucional, en los términos y condiciones que establezcan las disposiciones jurídicas y administrativas aplicables en coordinación con la Dirección General de Administración.
+
+QUINTO. - La normatividad interna de la Auditoría Superior, deberá actualizarse conforme a las necesidades requeridas, a fin de dar cumplimiento a lo establecido en el presente Acuerdo.
+
+SEXTO. - Todas las referencias a la Coordinación de Vinculación Institucional en aquellos asuntos en trámite y demás normatividad aplicable, deberán entenderse realizadas a la Dirección General de Vinculación Institucional.
