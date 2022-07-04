@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2020-12-28"
+last_updated: "2022-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -49,33 +49,41 @@ LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
 ### CAPÍTULO ÚNICO. Del Objeto de la Ley
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2022)</small>
+
+###### Artículo 1º.
+
+La presente Ley es de orden público, interés social y de observancia general. Tiene por objeto establecer las bases, mecanismos e instrumentos para garantizar la paz y la seguridad ciudadana de las personas que habitan y transitan en el Estado de Aguascalientes, con pleno respeto a los derechos humanos, a través del establecimiento de los siguientes elementos:
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+I.- Normar la integración, coordinación, organización y funcionamiento del Sistema Estatal de Seguridad Pública;
+
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
-
-###### Artículo 1°.
-
-La presente Ley es de orden público e interés social, de observancia general en el Estado de Aguascalientes, y tiene por objeto lo siguiente:
-
-I.- Normar la integración, organización y funcionamiento del Sistema Estatal de Seguridad Pública;
 
 II.- Regular la vigilancia del tránsito y la seguridad en las carreteras, caminos y vialidades de jurisdicción estatal y municipal;
 
-III.- Establecer las bases generales de coordinación entre el Estado y sus municipios y demás instancias en materia de seguridad pública; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+III.- Regular la distribución de competencias en materia de seguridad pública y establecer las bases generales de coordinación entre el Estado y sus Municipios y demás instancias en materia de seguridad pública; y
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
 
 IV.- Regular la prestación de servicios de seguridad privada dentro del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
 
 Lo anterior de conformidad con lo dispuesto en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, y en la Ley General del Sistema Nacional de Seguridad Pública.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
 
-###### Artículo 1º.
-
-La presente Ley es de orden público, interés social, de observancia general en el Estado de Aguascalientes. Tiene por objeto normar la integración, organización y funcionamiento del Sistema Estatal de Seguridad Pública, y las bases para que el Estado lleve a cabo la coordinación con sus Municipios y con la Federación en esta materia, en términos de lo dispuesto por el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
-
 ###### Artículo 2°.
 
 La seguridad pública es una función a cargo del Estado y sus municipios, orientada a la consecución de los siguientes fines:
 
-I.- Salvaguardar los derechos humanos y sus garantías, la preservación del orden y la paz pública, teniendo como eje central a la persona.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+I.- Salvaguardar la integridad y los derechos humanos y sus garantías, la preservación de las libertades, del orden y la paz pública, teniendo como eje central a la persona.
 
 II.- Disminuir y contener la incidencia delictiva, identificando sus factores criminógenos;
 
@@ -95,7 +103,9 @@ VI.- Promover que los ciudadanos y la población en general incrementen su confi
 
 VII.- Fomentar la participación social activa en materia de seguridad pública.
 
-El Estado y los municipios en coordinación con la Federación, desarrollarán políticas de prevención social del delito con carácter integral, sobre las causas que generan la comisión de delitos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
+
+El Estado y los municipios en coordinación con la Federación, desarrollarán políticas de prevención social de las violencias y del delito con carácter integral, sobre las causas estructurales que generan la comisión de delitos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas de la violencia y el delito. El desarrollo de dichas políticas debe incluir la participación de sus habitantes, promoviendo en el ámbito de su competencia, acciones de coordinación con los sectores público, social y privado.
 
 ###### Artículo 3º.
 
@@ -119,7 +129,9 @@ Para efectos de ésta ley, se entenderá por:
 
 I. Academias: Al Instituto Estatal de Seguridad Pública, y a las instituciones de Formación, Capacitación y Profesionalización policial;
 
-II. Bases de datos criminalísticas y de personal: Las bases de datos y la información contenida en ellas, en materia de detenciones, información criminal, personal de seguridad pública, servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, teléfonos celulares, registro de procesados y sentenciados y las demás necesarias para la operación del Sistema;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+II. Bases de datos criminalísticas y de personal: Las bases de datos que constituyen subconjuntos sistematizados de la información contenida en registros estatales y municipales, en materia de detenciones, información criminal, personal de seguridad pública, servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares de personas sujetas a un proceso o investigación penal, teléfonos celulares, registro de procesados y sentenciados, medidas cautelares, soluciones alternas y formas de terminación anticipada, así como las bases de datos del Ministerio Público y las instituciones policiales y las demás necesarias para la operación del Sistema;
 
 III. C-4: Al Centro Estatal de Telecomunicaciones;
 
@@ -137,7 +149,9 @@ IX. Instituciones de Procuración de Justicia: Al Ministerio Público, Servicios
 
 X. Instituciones de Seguridad Pública: A las Instituciones Policiales, de Procuración de Justicia, del Sistema Penitenciario, y dependencias encargadas directa o indirectamente de la seguridad pública a nivel estatal y municipal;
 
-XI. Instituciones Policiales: A los cuerpos de Policía, de seguridad y custodia del Sistema Penitenciario Estatal y del Centro Estatal de Desarrollo del Adolescente, de detención preventiva, o centros de arraigo, y en general, todas las dependencias encargadas de la seguridad pública que realicen funciones similares. La Policía Ministerial del Estado quedará sujeta, por su ámbito de competencia, a las disposiciones de esta Ley, sin que ello demerite sus funciones y su sujeción a la potestad y vigilancia del Ministerio Público; y las demás que se constituyan con estricto apego a la Ley;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XI. Instituciones Policiales: A los cuerpos de Policía, de seguridad y custodia del Sistema Penitenciario Estatal y del Centro Estatal de Desarrollo del Adolescente, de detención preventiva, o centros de arraigo, y en general, todas las dependencias encargadas de la seguridad pública estatal y municipal que realicen funciones similares. La Policía Ministerial del Estado quedará sujeta, por su ámbito de competencia, a las disposiciones de esta Ley, sin que ello demerite sus funciones y su sujeción a la potestad y vigilancia del Ministerio Público; y las demás que se constituyan con estricto apego a la Ley;
 
 > <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
 
@@ -189,6 +203,10 @@ Las Instituciones de Seguridad Pública serán de carácter civil, disciplinado 
 
 La función de seguridad pública se realizará, en los diversos ámbitos de competencia de las autoridades, por conducto de las Instituciones Policiales y de Procuración de Justicia, de los responsables de la prisión preventiva y ejecución de sentencias.
 
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2022)</small>
+
+Las acciones para proteger los derechos en materia de seguridad pública deberán ejecutarse con enfoque diferenciado y perspectiva de género para los grupos de atención prioritaria frente a la violencia y el delito.
+
 ###### Artículo 7º.
 
 Conforme a las bases que establece el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, las Instituciones de Seguridad Pública Estatales y Municipales, en el ámbito de su competencia, deberán coordinarse para:
@@ -197,11 +215,13 @@ Conforme a las bases que establece el Artículo 21 de la Constitución Política
 
 I. Integrar el Sistema y cumplir con sus objetivos y fines, garantizando el cumplimiento de la presente Ley y demás disposiciones que deriven de ésta;
 
-II. Formular mediante un mecanismo de coordinación, políticas integrales, sistemáticas y evaluables, así como programas y estrategias, en materia de seguridad pública;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+II. Formular mediante un mecanismo de coordinación, políticas integrales, sistemáticas, continuas y evaluables, así como programas y estrategias, en materia de seguridad pública;
 
-III. Proponer, ejecutar y evaluar las políticas, estrategias, acciones y programas en materia de seguridad pública y demás instrumentos programáticos previstos en otros ordenamientos jurídicos;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+III. Proponer, ejecutar y evaluar las políticas, estrategias, acciones y programas en materia de seguridad pública y demás instrumentos programáticos previstos en esta ley y en otros ordenamientos jurídicos;
 
 IV. Distribuir a los integrantes del Sistema, actividades específicas para el cumplimiento de los fines de la Seguridad Pública en términos de ésta Ley;
 
@@ -211,13 +231,15 @@ VI. Regular los sistemas disciplinarios, así como de reconocimientos, estímulo
 
 VII. Determinar criterios uniformes para la organización, operación y modernización tecnológica de las Instituciones de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-VIII. Establecer y controlar los registros y bases de datos criminalísticas (sic) y de personal, de los Sistemas Nacional y Estatal, en el ámbito de sus atribuciones, y designar a un responsable del control, suministro y adecuado manejo de la información a que se refiere esta Ley;
+VIII. Establecer y controlar los registros y bases de datos criminalísticas y de personal, en el ámbito de sus atribuciones, y designar a un responsable del control, suministro y adecuado manejo de la información a que se refiere esta Ley;
 
 IX. Realizar acciones y operativos conjuntos de las Instituciones de Seguridad Pública;
 
-X. Participar en la protección y vigilancia de las Instalaciones Estratégicas del país en los términos de esta ley y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+X. Participar en la protección y vigilancia de las Instalaciones Estratégicas del país, estado y municipios en los términos de esta ley y demás disposiciones aplicables;
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
 
@@ -261,9 +283,11 @@ XX. Apoyar la organización, sistematización y el intercambio de experiencias e
 
 XXI. Las demás atribuciones específicas que se establezcan en esta Ley.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
+
 ###### Artículo 8º.
 
-La coordinación, evaluación y seguimiento de lo dispuesto en esta Ley, se hará con respeto a las atribuciones que cada una de las instituciones y autoridades que integran el Sistema, les confiera la Ley.
+La coordinación, evaluación y seguimiento de lo dispuesto en esta Ley, se hará con respeto a las atribuciones que cada una de las instituciones y autoridades que integran el Sistema, les confiera la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que el Estado Mexicano es parte, la jurisprudencia, la Constitución del Estado y las leyes de la materia.
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
 
@@ -2592,3 +2616,11 @@ P.O. 28 DE DICIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 4 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 151.- SE REFORMAN LOS ARTÍCULOS 1º PRIMER PÁRRAFO, FRACCIONES I Y III; 2º FRACCIÓN I Y PÁRRAFO SEGUNDO; 5º FRACCIONES II Y XI; 7° FRACCIONES II, III, VIII Y X; Y 8°, Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 6°, DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES”.]
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
