@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-organizaciones-agricolas-del-estado-de-michoacan-14997"
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-27"
-last_updated: "2016-12-29"
+last_updated: "2022-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ORGANIZACIONES AGRÍCOLAS DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el jueves 27 de marzo de 1997.
 
@@ -67,11 +67,17 @@ II. Actividades Rurales: Los procesos productivos primarios basados en recursos 
 
 III. Actores de la Sociedad Rural: Personas físicas o morales de los sectores social y privado que integran la sociedad rural;
 
-IV. Asociación Agrícola de Sistema Producto: Asociación de productores agrícolas cuya actividad predominante se dedique a un cultivo o sistema producto de la economía rural;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-V. Asociación Agrícola Mixta: Agrupación de productores agrícolas en general sin importar la rama de producción agrícola a la que se dediquen;
+IV. Asociación Agrícola de Sistema Producto: Asociación de agricultores cuya actividad predominante se dedique a un cultivo o sistema producto de la economía rural;
 
-VI. Asociación Agrícola Regional: Agrupación de productores agrícolas en general o en ramas agrícolas en general o ramas especializadas, constituidas en una región del Estado;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+V. Asociación Agrícola Mixta: Agrupación de agricultores en general sin importar la rama de producción agrícola a la que se dediquen;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+VI. Asociación Agrícola Regional: Agrupación de agricultores en general o en ramas especializadas, constituidas en una región del Estado;
 
 VII. Asociación Agrícola: Agrupación de personas físicas o morales dedicadas a la producción agrícola y actividades directas a la producción o conexas en el sector, pudiendo integrarse como asociaciones mixtas o por sistema producto municipales, regionales o estatal;
 
@@ -115,7 +121,9 @@ XXVI. Poblador Rural: Toda persona física o moral que, siendo propietario o usu
 
 XXVII. Poder Ejecutivo Estatal: Gobierno del Estado de Michoacán de Ocampo. (Gobernador y todas las dependencias dependientes de él reconocidas en los diferentes ordenamientos legales);
 
-XXVIII. Productor Agrícola: Persona física o moral dedicada predominantemente a la explotación de una plantación, cultivo o rama agrícola especializada, cualquiera que sea su régimen de tenencia de la tierra;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XXVIII. Agricultor: Persona física o moral dedicada predominantemente a la explotación de una plantación, cultivo o rama agrícola especializada, cualquiera que sea su régimen de tenencia de la tierra;
 
 XXIX. Recursos Naturales: Los elementos naturales renovables y no renovables potencialmente aprovechables, y que proporcionan servicios ambientales a la sociedad;
 
@@ -123,13 +131,19 @@ XXX. Región: Dos o más municipios o aquellas zonas que por sus característica
 
 XXXI. Rural: La definición territorial aplicada a poblaciones con actividades económicas preponderantemente primarias, hasta de dos mil quinientos habitantes; áreas conurbadas y áreas urbanas que realicen actividades agropecuarias, pesqueras, forestales o de transformación agroindustrial;
 
-XXXII. SAGARPA: Secretaría de Agricultura Ganadería y Desarrollo Rural, Pesca y Alimentación;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-XXXIII. Secretaría: La Secretaría de Desarrollo Rural;
+XXXII. SADER: Secretaría de Agricultura y Desarrollo Rural;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XXXIII. Secretaría: La Secretaría de Agricultura y Desarrollo Rural, de Michoacán;
 
 XXXIV. Sistema-Producto: El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización; para fines de esta Ley es sinónimo de cadena productiva;
 
-XXXV. Socio Productor: La persona física que se registre en la asociación ubicada en la jurisdicción en la que desarrolle su actividad agrícola o en la que tenga su domicilio, dedicado a la explotación de una plantación, cultivo o a una rama agrícola especializada; y,
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XXXV. Socio Agricultor: La persona física que se registre en la asociación ubicada en la jurisdicción en la que desarrolle su actividad agrícola o en la que tenga su domicilio, dedicado a la explotación de una plantación, cultivo o una rama agrícola especializada; y,
 
 XXXVI. Unión Agrícola Estatal: Agrupación principal de las asociaciones agrícolas del Estado.
 
@@ -141,7 +155,9 @@ La Secretaría, para los efectos de esta Ley, tendrá las siguientes atribucione
 
 I. Fomentar y promover las condiciones necesarias para el desarrollo de la producción agrícola estatal, vinculándola a los programas nacionales estatales, municipales, regionales y locales sobre la materia;
 
-II. Coadyuvar en la organización y capacitación de los productores agrícolas, de conformidad con esta Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+II. Coadyuvar en la organización y capacitación de los agricultores, de conformidad con esta Ley y su Reglamento;
 
 III. Intervenir como mediador a petición de las partes, en las controversias que se susciten entre la Unión y las asociaciones agrícolas;
 
@@ -161,19 +177,19 @@ El Estado considerará a las asociaciones agrícolas y a la unión agrícola est
 
 ### CAPITULO I. DE LAS ASOCIACIONES AGRICOLAS
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
 
 ###### Artículo 6°.
 
-Las asociaciones agrícolas, son organizaciones con personalidad jurídica y patrimonio propio y con responsabilidad limitada o ilimitada, para el cumplimiento de sus fines, que deberán constituirse ante notario público, por diez o más productores, a fin de promover el desarrollo rural integral sustentable, así como la protección de los intereses económicos de sus agremiados.
+Las asociaciones agrícolas, son organizaciones con personalidad jurídica y patrimonio propio y con responsabilidad limitada o ilimitada, para el cumplimiento de sus fines, que deberán constituirse ante notario público, por diez o más agricultores, a fin de promover el desarrollo rural integral sustentable, así como la protección de los intereses económicos de sus agremiados.
 
 ###### Artículo 7°.
 
 Las asociaciones agrícolas constituidas, tendrán las siguientes finalidades:
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-I. Gestionar, participar y promover planes, programas, acciones y apoyos tendientes al mejoramiento de la producción agrícola y de la economía de los productores;
+I. Gestionar, participar y promover planes, programas, acciones y apoyos tendientes al mejoramiento de la producción agrícola y de la economía de los agricultores;
 
 II. Promover y fomentar entre sus agremiados la implementación de sistemas, métodos, técnicas y transferencias tecnológicas adecuadas para el desarrollo y explotación agrícolas;
 
@@ -181,17 +197,17 @@ III. Representar ante las autoridades los intereses comunes de sus agremiados y 
 
 IV. Proporcionar a sus miembros cuando lo requieran, asesoría técnica, jurídica, contable, financiera y administrativa;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-V. Coadyuvar con las autoridades competentes para llevar a cabo programas de capacitación y especialización de los productores en su ramo; y,
+V. Coadyuvar con las autoridades competentes para llevar a cabo programas de capacitación y especialización de los agricultores en su ramo; y,
 
 VI. Las demás que establezcan esta Ley y otras disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2022)</small>
 
 ###### Artículo 8°.
 
-Los productores agrícolas agrupados en asociaciones agrícolas de carácter municipal o regional, ya sean mixtas o por sistema-producto, de conformidad con el Reglamento de esta Ley, tendrán los siguientes derechos y obligaciones:
+Los agricultores agrupados en asociaciones agrícolas de carácter municipal o regional, ya sean mixtas o por sistema-producto, de conformidad con el Reglamento de esta Ley, tendrán los siguientes derechos y obligaciones:
 
 I. Utilizar los servicios que preste la asociación;
 
@@ -206,6 +222,10 @@ IV. Cumplir los acuerdos de la asamblea.
 Las asociaciones agrícolas que se integren con apego a esta Ley, deberán constituirse en la Unión Agrícola Estatal.
 
 Para los efectos legales que correspondan, las asociaciones agrícolas y la Unión Agrícola Estatal que se constituyan, deberán inscribirse en el Registro Público de la Propiedad.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2022)</small>
+
+Esta Ley reconoce a todas las organizaciones, siempre y cuando sean de agricultores.
 
 ### CAPITULO II. DE LA UNION AGRICOLA ESTATAL
 
@@ -247,11 +267,13 @@ X. Actuar como árbitro o mediador en los conflictos que surjan entre las asocia
 
 XI. Promover la utilización de los mecanismos para el fomento de la producción y de la productividad agrícola;
 
-XII. Promover conjuntamente con las asociaciones, sistemas de asistencia técnica que permitan a los productores adoptar nuevas tecnologías, para elevar los niveles de productividad en las explotaciones agrícolas;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+XII. Promover conjuntamente con las asociaciones, sistemas de asistencia técnica que permitan a los agricultores adoptar nuevas tecnologías, para elevar los niveles de productividad en las explotaciones agrícolas;
 
-XIII. Promover y constituir empresas comercializadoras de productores, para vincular la producción estatal con los mercados nacional e internacional, con el fin de mejorar el ingreso de los productores agrícolas, de acuerdo con las disposiciones jurídicas correspondientes;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XIII. Promover y constituir empresas-comercializadoras de agricultores, para vincular la producción estatal con los mercados nacional e internacional, con el fin de mejorar el ingreso de los agricultores, de acuerdo con las disposiciones jurídicas correspondientes; y elevar los niveles de productividad en las explotaciones agrícolas;
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
@@ -311,9 +333,11 @@ III. Las aportaciones que le otorguen la Federación, el Estado y los municipios
 
 IV. Los que obtenga por donaciones, legados o cualquier otro concepto legal.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
+
 ###### Artículo 18.
 
-La Unión Agrícola Estatal establecerá los mecanismos financieros necesarios para la recepción y administración transparente de sus recursos, con el objeto de distribuirlos de acuerdo a los presupuestos aprobados por la Asamblea de la Unión y con apego a los programas que se implementen en beneficio de las asociaciones de productores agremiadas.
+La Unión Agrícola Estatal establecerá los mecanismos financieros necesarios para la recepción y administración transparente de sus recursos, con el objeto de distribuirlos de acuerdo a los presupuestos aprobados por la Asamblea de la Unión y con apego a los programas que se implementen en beneficio de las asociaciones de agricultores agremiadas.
 
 ###### Artículo 19.
 
@@ -345,19 +369,21 @@ La constitución del Centro Estatal, se llevará a cabo en los términos que est
 
 I. El fomento a la comercialización de los productos agrícolas en las mejores condiciones del mercado;
 
-II. Implementar y desarrollar todos los aspectos de la planeación en el sector, para proporcionar asesoría a los productores que lo soliciten, con el objeto de que la producción obedezca a los requerimientos del mercado y que la comercialización se efectúe de manera organizada para evitar el intermediarismo, en beneficio de los productores;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+II. Implementar y desarrollar todos los aspectos de la planeación en el sector, para proporcionar asesoría a los agricultores que lo soliciten, con el objeto de que la producción obedezca a los requerimientos del mercado y que la comercialización se efectúe de manera organizada para evitar el intermediarismo, en beneficio de los agricultores;
 
 III. Proponer a las asociaciones agremiadas a la Unión Agrícola Estatal, las técnicas necesarias que les permitan conocer qué productos demanda el mercado, sus costos y su proceso de comercialización;
 
 IV. Prestar servicios de desarrollo tecnológico para productos, procesos, operación y equipos relacionados con la producción, transformación, conservación, distribución y comercialización de productos agrícolas;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-V. Apoyar a los productores afiliados a la Unión Agrícola Estatal que lo soliciten, en la obtención de créditos;
+V. Apoyar a los agricultores afiliados a la Unión Agrícola Estatal que lo soliciten, en la obtención de créditos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-VI. Apoyar en el proceso de registro de marcas y patentes de productos diseñados por productores michoacanos; y,
+VI. Apoyar en el proceso de registro de marcas y patentes de productos diseñados por agricultores michoacanos; y,
 
 VII. Las demás que se determinen en el Reglamento de esta Ley y en su acta constitutiva.
 
@@ -474,3 +500,9 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 4 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 159. SE REFORMAN LAS FRACCIONES IV, V, VI, XXVIII, XXXII, XXXIII Y XXXV DEL ARTÍCULO 3°, LA FRACCIÓN II DEL ARTÍCULO 4°, EL ARTÍCULO 6°, LAS FRACCIONES I Y V DEL ARTÍCULO 7°, SE INCORPORA UN TERCER PÁRRAFO AL ARTÍCULO 9°, LAS FRACCIONES XII Y XIII DEL ARTÍCULO 12, EL ARTÍCULO 18, LAS FRACCIONES II, V Y VI DEL ARTÍCULO 22, TODOS DE LA LEY DE ORGANIZACIONES AGRÍCOLAS DEL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
