@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2022-04-11"
+last_updated: "2022-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "AGU"
 
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2022.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 11 DE ABRIL DE 2022 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 28 DE MARZO DE 2022 Y 4 DE ABRIL DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2022.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -161,25 +159,25 @@ XXVII. Uso industrial: la utilización de agua en fábricas o empresas que reali
 
 XXVIII. Usuario: la persona, física o moral que utilice los servicios públicos.
 
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
 
-ARTICULO 3o A.- La política hídrica estatal se sustentará en los siguientes principios rectores:
+###### ARTICULO 3o-A.
 
-I. El agua es un recurso vital, limitado y finito; su cuidado, preservación y sostenibilidad competen de forma compartida al Estado y a la sociedad;
+En la determinación y aplicación de la política hídrica estatal se atenderá, enunciativamente, a las siguientes directrices y principios fundamentales:
 
-II. Las autoridades deberán garantizar el derecho humano al agua, particularmente de quienes viven en situación de marginación o vulnerabilidad;
+I. El agua es un recurso natural ilimitado y un bien público fundamental para la vida y la salud; por lo tanto, el Estado reconoce al derecho fundamental al agua como un elemento indispensable para la existencia humana y como una condición previa para la realización de otros derechos. En consecuencia, el cuidado, preservación y sostenibilidad de dicho recurso competen en forma compartida a la autoridad y a los particulares en la forma que determinen las leyes;
 
-III. Los usos del agua serán regulados por el Estado, considerando el manejo sustentable de este recurso;
+II. Las autoridades garantizarán el derecho fundamental al agua, particularmente de quienes viven en situación de marginación o vulnerabilidad, de forma que, hasta el máximo de las circunstancias fácticas y jurídicas, se asegure la disponibilidad, calidad, accesibilidad e información adecuada para el disfrute de ese derecho en condiciones de no discriminación;
 
-IV. Las autoridades fomentarán el aprovechamiento eficiente del agua, promoviendo su reúso;
+III. Los usos del agua serán regulados por el Estado, a fin de propiciar el empleo eficiente y sustentable de este recurso, promoviendo por todos los medios una política pública de reúso del agua;
 
-V. La gestión integral del agua y el fomento a la cultura del agua tendrán como base la participación informada y responsable de los usuarios;
+IV. La gestión integral del agua y el fomento de cultura relativa a su cuidado y preservación, se basarán sobre la participación informada y responsable de los usuarios, el respeto de los derechos fundamentales y la consecución de los aspectos de mejora pretendidos mediante la implementación de las políticas públicas determinadas por las autoridades competentes en este campo;
 
-VI. El uso doméstico del agua se considerará preferente en la distribución de este recurso;
+V. La prestación del servicio doméstico del agua tendrá preferencia en la distribución de este recurso respecto del resto de los usos previstos en esta Ley;
 
-VII. La contaminación de los recursos hídricos conllevará la responsabilidad de restaurar su calidad, conforme a la normatividad aplicable; y
+VI. La contaminación de los recursos hídricos conllevará la responsabilidad de restaurar su calidad, conforme a la normatividad aplicable, por lo que la autoridad estará expedita para prevenir y sancionar las acciones y omisiones que puedan tener efectos nocivos sobre la calidad y disponibilidad del agua; y
 
-VIII. Las autoridades implementarán las acciones necesarias para que el desarrollo de los centros urbanos, se realice promoviendo el ordenamiento territorial y los mecanismos necesarios para proporcionar los servicios públicos de conformidad con esta Ley, procurando en todo momento el equilibrio hídrico.
+VII. Las autoridades implementarán las acciones necesarias para que el desarrollo de los centros urbanos se realice promoviendo el ordenamiento territorial y los mecanismos necesarios para proporcionar los servicios públicos, procurando en todo momento el equilibrio hídrico de conformidad con esta Ley.
 
 > <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
@@ -345,41 +343,69 @@ a) Consejo Estatal para la Atención de la Problemática del Agua.
 
 El Consejo Directivo será el Órgano de Gobierno del Instituto y se integrará por los siguientes miembros:
 
-I. El Titular del Poder Ejecutivo, quien lo presidirá;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-II. El Titular de la Coordinación General de Gabinete;
+I. La persona Titular del Poder Ejecutivo, quien lo presidirá;
 
-III. El Titular de la Coordinación General de Planeación y Proyectos;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-IV. El Titular de la Secretaría de Finanzas;
+II. La persona Titular del Instituto de Planeación del Estado;
 
-V. El Titular de la Secretaría de Obras Públicas;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-VI. El Titular de la Secretaría Sustentabilidad, Medio Ambiente y Agua;
+III. La persona Titular de la Secretaría de Finanzas;
 
-VII. El Titular de la Secretaría de Desarrollo Rural y Agroempresarial;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-VIII. El Titular del Instituto de Servicios de Salud del Estado de Aguascalientes;
+IV. La persona Titular de la Secretaría de Obras Públicas;
 
-IX. Un representante del Ayuntamiento del municipio capital;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-X. El Titular del órgano operador de servicios de Agua del municipio capital;
+V. La persona Titular de la Secretaría (sic) Sustentabilidad, Medio Ambiente y Agua;
 
-XI. Dos representantes de los demás Ayuntamientos de los Municipios del Estado; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-XII. Dos representantes de los usuarios de la sociedad civil organizada; representando los rubros de uso de agua agrícola e industrial.
+VI. La persona Titular de la Secretaría de Desarrollo Rural y Agroempresarial;
 
-Los integrantes del Consejo Directivo a que se refieren las fracciones XI y XII deberán ser designados por el Presidente, cuya designación deberá estar justificada, a efecto de dar cumplimiento con el objeto de la presente Ley.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-Para el caso de los integrantes referidos en la fracción IX, X y XI permanecerán en su encargo por el periodo que dure la administración municipal correspondiente; respecto del integrante señalado en la fracción XII del presente artículo durarán en su encargo tres años, el cual podrá ser reelecto por un periodo adicional.
+VII. La persona Titular del Instituto de Servicios de Salud del Estado de Aguascalientes;
 
-Los integrantes del Consejo Directivo podrán designar a sus respectivos suplentes, quienes deberán tener el nivel jerárquico inmediato inferior o equivalente y tendrán las mismas atribuciones, con excepción de aquellos designados por el Presidente del Consejo.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+VIII. Una persona representante del Ayuntamiento del Municipio capital;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+IX. La persona Titular del órgano operador de servicios de Agua del Municipio capital;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+X. Cuatro personas representantes de los demás Ayuntamientos del Estado; y
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XI. Dos personas representantes de los usuarios de la sociedad civil organizada; representando los rubros de uso de agua agrícola e industrial.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
+
+Los integrantes del Consejo Directivo a que se refiere la fracción X y XI deberán ser designados por la persona que ostente la Presidencia, de manera que, al término del periodo de designación, los sitiales sean ocupados por personas representantes de los municipios que no tuvieron participación durante el periodo inmediato anterior. En el caso de los integrantes a que se refiere la fracción XI, el nombramiento será realizado a través de un proceso transparente y participativa (sic) a través del cual se cumpla con el objeto de la presente Ley.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
+
+Para el caso de los integrantes referidos en la fracción VIII, IX y X permanecerán en su encargo por el periodo que dure la administración municipal correspondiente; respecto de los integrantes señalados en la fracción XI del presente artículo durarán en su encargo tres años, personas que podrán ser reelectas por un periodo adicional.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
+
+Para el integrante del Consejo Directivo a que hace referencia la fracción I será suplido, en caso de ser necesario, por la persona Titular de la Coordinación General de Gabinete; respecto al resto de los integrantes, podrán designar a sus respectivos suplentes, quienes deberán tener el nivel jerárquico inmediato inferior o equivalente y tendrán las mismas atribuciones, con excepción de aquellos designados por el Presidente del Consejo.
 
 Los integrantes e invitados del Consejo Directivo participarán en el mismo de manera honorífica, por lo que no recibirán retribución económica alguna por las funciones que desempeñen con tal carácter.
 
 El Consejo Directivo contará con un Secretario Técnico, quien deberá ser el Director General y que tendrá las atribuciones establecidas en el Reglamento Interior.
 
-Se podrá invitar a formar parte del Consejo Directivo, con voz, pero sin voto, a representantes de los sectores público, privado y social, como apoyo para exposición de temas que requieran de una especialidad técnica o por cualquier otra causa justificada.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
+
+Se podrá invitar a formar parte del Consejo Directivo, con voz, pero sin voto, a representantes de los sectores público, privado y social, especialmente a representantes de los usuarios de la sociedad civil organizada en los rubros de uso de agua agrícola e industrial, como apoyo para exposición de temas que requieran de una especialidad técnica o por cualquier otra causa justificada.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
@@ -391,33 +417,67 @@ I. Analizar y aprobar los planes, proyectos y programas estratégicos del Instit
 
 II. Aprobar las acciones que someta a su consideración el Director General, necesarias para la ejecución de las funciones derivadas de los convenios de colaboración y de coordinación que el Gobierno Federal celebre con el Gobierno del Estado; así como las que el Estado asuma por convenios celebrados con los Ayuntamientos;
 
-III. Cuando presten los servicios públicos de agua potable, alcantarillado, saneamiento y su reúso, determinar las cuotas y tarifas de conformidad con lo establecido en esta Ley;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2022)</small>
 
-IV. Emitir opinión y dictar líneas de acción relativas a las atribuciones encomendadas al Instituto;
+III. Implementar las acciones, medidas administrativas e incluso las obras pertinentes para el cumplimiento de las directrices y principios fundamentales de la política hídrica del Estado, siempre de acuerdo con el ámbito de competencias que correspondan a cada nivel de gobierno;
 
-V. Resolver, en el ámbito de su competencia, los asuntos que someta a su consideración el Director General;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-VI. Aprobar los proyectos de inversión del Instituto;
+IV. Cuando presten los servicios públicos de agua potable, alcantarillado, saneamiento y su reúso, determinar las cuotas y tarifas de conformidad con lo establecido en esta Ley;
 
-VII. Aprobar los estados financieros y los informes que someta (sic) su consideración el Director General;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-VIII. Nombrar y remover a propuesta del Director General, a los servidores públicos del Instituto que ocupen cargos en el segundo nivel jerárquico inferior al de aquél, así como aprobar la fijación de sueldos y prestaciones;
+V. Dictar acciones a la persona titular del ente y opinar sobre las medidas pertinentes para el adecuado cumplimiento de las atribuciones encomendadas al Instituto;
 
-IX. Aprobar el Reglamento Interior y sus reformas, así como demás disposiciones necesarias para el cumplimiento del objeto del Instituto;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-X. Autorizar la contratación, conforme a la legislación aplicable, de los créditos que sean necesarios para la prestación de los servicios públicos de agua potable, alcantarillado, saneamiento y su reúso y realización de las obras;
+VI. Resolver, en el ámbito de su competencia, los asuntos que someta a su consideración el Director General;
 
-XI. Administrar el patrimonio del Instituto y supervisar su adecuado manejo;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-XII. Aprobar el proyecto de presupuesto anual de egresos del Instituto, conforme a la propuesta formulada por el Director General;
+VII. Aprobar los proyectos de inversión del Instituto;
 
-XIII. Autorizar la cancelación de las cuentas por cobrar que someta (sic) Director General, cuando su cobro sea incosteable, inconveniente o improcedente. En los primeros dos supuestos, el Director General deberá justificar la incosteabilidad o inconveniencia y en el último supuesto, será necesario que a la justificación se adicione la opinión jurídica que sustente la improcedencia del cobro;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-XIV. Autorizar la desincorporación del servicio público, de los bienes que sean obsoletos o inútiles para tales efectos y su enajenación, a excepción de los inmuebles, así como su baja, en términos de la legislación aplicable para tal efecto;
+VIII. Aprobar los estados financieros y los informes que someta a su consideración el Director General;
 
-XV. Emitir la declaratoria de dominio público de los bienes propiedad del Instituto que así procedan, en términos de la legislación aplicable para tal efecto; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-XVI. Las demás que le atribuyen esta Ley y otras normas e instrumentos jurídicos aplicables.
+IX. Nombrar y remover a propuesta del Director General, a los servidores públicos del Instituto que ocupen cargos en el segundo nivel jerárquico inferior al de aquél, así como aprobar la fijación de sueldos y prestaciones;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+X. Aprobar el Reglamento Interior y sus reformas, así como demás disposiciones necesarias para el cumplimiento del objeto del Instituto;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XI. Autorizar la contratación, conforme a la legislación aplicable, de los créditos que sean necesarios para la prestación de los servicios públicos de agua potable, alcantarillado, saneamiento y su reúso y realización de las obras;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XII. Administrar el patrimonio del Instituto y supervisar su adecuado manejo;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XIII. Aprobar el proyecto de presupuesto anual de egresos del Instituto, conforme a la propuesta formulada por el Director General;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XIV. Autorizar la cancelación de las cuentas por cobrar cuando su cobro sea incosteable, inconveniente o improcedente. En los primeros dos supuestos, el Director General deberá justificar la incosteabilidad o inconveniencia y en el último supuesto, será necesario que a la justificación se adicione la opinión jurídica que sustente la improcedencia del cobro;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XV. Autorizar la desincorporación del servicio público, de los bienes que sean obsoletos o inútiles para tales efectos y su enajenación, a excepción de los inmuebles, así como su baja, en términos de la legislación aplicable para tal efecto;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XVI. Emitir la declaratoria de dominio público de los bienes propiedad del Instituto que así procedan, en términos de la legislación aplicable para tal efecto; y
+
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN XVI Y ÚLTIMO PÁRRAFO DEL ARTÍCULO], P.O. 4 DE JULIO DE 2022)</small>
+
+XVII. Las demás que le atribuyen esta Ley y otras normas e instrumentos jurídicos aplicables. El Consejo Directivo tendrá como facultades indelegables las previstas para los órganos de gobierno en la Ley para el Control de las Entidades Paraestatales del Estado.
+
+> <small>[N. DE E. EL CONTENIDO DE ESTE PÁRRAFO ES SIMILAR A LA PARTE FINAL DE LA FRACCIÓN XVII]</small>
 
 El Consejo Directivo tendrá como facultades indelegables las previstas para los órganos de gobierno en la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes.
 
@@ -629,11 +689,19 @@ V. Un Diputado integrante de la Comisión de Recursos Hidráulicos del Congreso 
 
 VI.- Un representante de la Secretaría de Agricultura y Desarrollo Rural, dependiente del Poder Ejecutivo Federal; y
 
-VII. Un representante de los usuarios del agua en los siguientes rubros: doméstico, agrícola, industrial y de servicios, así como un representante de las universidades que manifiesten su interés en participar.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2022)</small>
+
+VII. Tres especialistas en materia hídrica con reconocida trayectoria y/o experiencia; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN VII], P.O. 4 DE JULIO DE 2022)</small>
+
+VIII. Un representante de los usuarios del agua por cada uno de los siguientes rubros: doméstico, agrícola, industrial y de servicios, así como un representante de las universidades que manifiesten su interés en participar.
 
 La organización y funcionamiento de este Consejo se establecerá en el Reglamento que para tal efecto emita el Gobernador del Estado, el cual tendrá por lo menos una sesión ordinaria cada 6 meses y las sesiones extraordinarias que sean necesarias.
 
-Los miembros del Consejo serán nombrados por los Titulares u Órganos Directivos de las dependencias que lo integran, salvo los señalados en la fracción VII, cuyo procedimiento de nombramiento se establecerá en el Reglamento que para tal efecto emita el Gobernador del Estado.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
+
+Los miembros del Consejo serán nombrados por los Titulares u Órganos Directivos de las dependencias que lo integran, salvo los señalados en las fracciones VII y VIII, cuyo procedimiento de nombramiento se establecerá en el Reglamento que para tal efecto emita el Gobernador del Estado.
 
 El Consejo deberá constituirse como órgano auxiliar técnico con facultades para emitir opiniones y recomendaciones acerca de las políticas públicas y proyectos que conduzcan a la sustentabilidad del recurso hídrico, garantizando las mejores condiciones económicas y de rentabilidad para el Estado y su población.
 
@@ -843,7 +911,9 @@ II. Un Consejo Consultivo;
 
 III. Un Director General;
 
-IV. Un Comisario; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+IV. Un Órgano Interno de Control; y
 
 V. El personal técnico y administrativo que se requiera para su funcionamiento.
 
@@ -989,9 +1059,11 @@ XX. Remitir al Consejo Consultivo, para su opinión, un informe sobre los result
 
 XXI. Las demás que le señale el Consejo Directivo, esta Ley y el Reglamento Interno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2022)</small>
+
 ###### ARTICULO 35.
 
-El municipio respectivo designará a un Comisario, quien tendrá las siguientes atribuciones:
+El Ayuntamiento designará a la persona titular del órgano interno de control del organismo operador, el cual tendrá, además de las facultades que le deriven de las leyes en materia de responsabilidades administrativas, las atribuciones siguientes:
 
 I. Vigilar que la administración de los recursos se haga de acuerdo con lo que disponga la Ley, los programas y presupuestos aprobados;
 
@@ -1571,9 +1643,11 @@ ARTICULO 92 A.- Con el fin de evitar el desperdicio de agua, los usuarios deber�
 
 ARTICULO 92 B.- Los usuarios del agua domésticos, deben abstenerse de hacer un uso inadecuado del agua, evitando para tal efecto, lavar o limpiar con mangueras banquetas, automóviles u otros objetos, riego irracional de áreas verdes, fugas negligentes y/o realizar acciones con las que se desperdicie el agua de manera ostensible.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2022)</small>
+
 ###### ARTICULO 93.
 
-En épocas de escasez de agua, comprobada o previsible, el prestador de los servicios podrá acordar condiciones de restricción en las zonas y durante el lapso que sea necesario, previo aviso oportuno a los usuarios, a través de los medios de comunicación disponibles.
+En épocas de escasez de agua, comprobada o previsible, el prestador de los servicios podrá acordar las condiciones de restricción en las zonas y por el tiempo que sea necesario para enfrentar la situación. Sin embargo, el prestador del servicio deberá dar aviso oportuno a los usuarios, a través de los medios de comunicación disponibles a fin de que se procure el conocimiento general de dichas medidas. Además, dentro de las condiciones fácticas y jurídicas concurrentes, se procurará que el fujo de servicio doméstico durante el lapso de la restricción sea prestado con prioridad a los demás usos autorizados y con la menor afectación posible.
 
 Cuando la escasez de agua sea originada por negligencia o falta de previsión del prestador de los servicios, éste responderá en los términos que prevenga el contrato respectivo.
 
@@ -1581,29 +1655,53 @@ Cuando la escasez de agua sea originada por negligencia o falta de previsión de
 
 los usuarios tendrán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2022)</small>
 
-I. Exigir al prestador de los servicios que la prestación de éstos, para uso personal y doméstico, sean accesibles y asequibles para todos, en particular de los grupos vulnerables y personas menos favorecidas y conforme a los niveles de calidad establecidos;
+I. Al cumplimiento del derecho fundamental del agua en condiciones de progresividad, hasta el máximo de los recursos disponibles;
 
-II. Acudir ante la autoridad competente, en caso de incumplimiento a los contratos celebrados entre los usuarios y los prestadores de los servicios, a fin de solicitar el cumplimiento de los mismos;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-III. Impugnar por la vía administrativa las resoluciones y los actos de los prestadores de los servicios, la cual se tramitará en la forma y términos de la Sección Segunda del Capítulo VI del presente Título;
+II. A que la prestación del servicio para uso personal y doméstico, se cumpla en condiciones de disponibilidad, calidad, accesibilidad e información adecuada para el disfrute del derecho en condiciones de no discriminación, en particular de los grupos vulnerables y personas menos favorecidas y conforme a los niveles de calidad establecidos;
 
-IV. Denunciar ante el municipio cualquier acción u omisión cometida por terceras personas que pudieran afectar sus derechos, sin perjuicio de las acciones que pudieran corresponderle;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-V. Recibir información general sobre los servicios públicos en forma suficientemente detallada para el ejercicio de sus derechos como usuario;
+III. Acudir ante la autoridad competente, en caso de incumplimiento de los contratos celebrados entre los usuarios y los prestadores de los servicios, a fin de solicitar el cumplimiento de los mismos;
 
-VI. Ser informado con tres días hábiles de anticipación a los cortes de servicios públicos programados;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-VII. Conocer con debida anticipación el régimen tarifario y recibir oportunamente los recibos correspondientes, así como reclamar errores en los mismos;
+IV. Impugnar por la vía administrativa las resoluciones y los actos de los prestadores de los servicios, la cual se tramitará en la forma y términos de la Sección Segunda del Capítulo VI del presente Título;
 
-VIII. Formar comités para la promoción de la construcción, conservación, mantenimiento, rehabilitación y operación de los sistemas destinados a la prestación de los servicios públicos;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-IX. Adoptar las figuras jurídicas que estimen pertinentes para el mantenimiento y operación de los sistemas de agua potable y alcantarillado en los centros de población de las zonas rurales, debiendo el municipio o el organismo operador prestar el apoyo necesario;
+V. Denunciar ante el municipio cualquier acción u omisión cometida por terceras personas que pudieran afectar sus derechos, sin perjuicio de las acciones que pudieran corresponderle;
 
-X. Constituir personas morales a las que se pudiera otorgar en concesión o con los que se pudieran celebrar contratos para construir y operar sistemas, prestar los servicios públicos o administrar, operar, conservar y mantener la infraestructura hidráulica respectiva; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-XI. Participar en la planeación, programación, administración, operación, supervisión o vigilancia del prestador de los servicios en los términos de la presente Ley.
+VI. Recibir información general sobre los servicios públicos en forma suficientemente detallada para el ejercicio de sus derechos como usuario;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+VII. Ser informado con tres días hábiles de anticipación a los cortes o restricción por causa de escasez de los servicios públicos programados;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+VIII. Conocer con debida anticipación el régimen tarifario y recibir oportunamente los recibos correspondientes, así como reclamar errores en los mismos;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+IX. Formar comités o cualquier otra figura asociativa reconocida por el derecho, para la promoción de la construcción, conservación, mantenimiento, rehabilitación y operación de los sistemas destinados a la prestación de los servicios públicos en materia hídrica, para la propuesta de las acciones de mejora en la prestación del servicio o para la toma de acciones que redunden en la eficacia del derecho fundamental al agua;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+X. Adoptar las figuras jurídicas que estimen pertinentes para el mantenimiento y operación de los sistemas de agua potable y alcantarillado en los centros de población de las zonas rurales, debiendo el municipio o el organismo operador prestar el apoyo necesario;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+XI. Constituir personas morales a las que se pudiera otorgar en concesión o con los que se pudieran celebrar contratos para construir y operar sistemas, prestar los servicios públicos o administrar, operar, conservar y mantener la infraestructura hidráulica respectiva; y
+
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN XI], P.O. 4 DE JULIO DE 2022)</small>
+
+XII. Participar en la planeación, programación, administración, operación, supervisión o vigilancia del prestador de los servicios en los términos de la presente Ley.
 
 #### SECCION TERCERA. De las Cuotas y Tarifas
 
@@ -2139,9 +2237,17 @@ II. La Secretaría de Sustentabilidad, Medio Ambiente y Agua;
 
 III. La Secretaría de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral;
 
-IV. La Secretaría de Obras Públicas; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
-V. La Secretaría de Desarrollo Social.
+IV. La Secretaría de Obras Públicas;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+
+V. La Secretaría de Desarrollo Social; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2022)</small>
+
+VI. Los municipios del Estado.
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2017)</small>
 
@@ -2161,11 +2267,11 @@ III. Incentivar la participación de las autoridades en la materia, para el cump
 
 A la Secretaría de Sustentabilidad, Medio Ambiente y Agua le corresponde el diseñar y establecer los programas y líneas de acción relativos a la captación de aguas pluviales, y coordinar su ejecución.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 142.
 
-Además de las atribuciones comunes, las autoridades señaladas en las fracciones III, IV y V del Artículo 139 de esta Ley, deberán cumplir en su respectivo ámbito de competencia, lo que al efecto establezcan los programas y líneas de acción relativos a la captación de aguas pluviales.
+Además de las atribuciones comunes, las autoridades señaladas en las fracciones III a VI del Artículo 139, deberán cumplir en sus respectivos ámbitos de competencia, con los programas y líneas de acción relativos a la captación de aguas pluviales.
 
 TRANSITORIOS:
 
@@ -2498,3 +2604,15 @@ P.O. 4 DE ABRIL DE 2022 Y F. DE E. P.O. 11 DE ABRIL DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 152.- SE REFORMAN LOS ARTÍCULOS 3°-A, 8°, 9°, 12, 27, 35, 93, 94, 139 Y 142 DE LA LEY DEL AGUA PARA EL ESTADO DE AGUASCALIENTES".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Las disposiciones referentes a la designación de la persona titular del órgano interno de control se aplicarán en la siguiente ocasión en la que deba nombrarse a dicho servidor público. Por lo tanto, los servidores públicos en funciones al momento de la entrada en vigor del presente Decreto, continuarán desempeñando el encargo hasta la terminación del periodo para el que hubieren sido designados.
+
+Artículo Tercero. La persona titular del Poder Ejecutivo contará con un periodo de ciento ochenta días naturales para proveer las acciones necesarias para ajustar la integración del Consejo Directivo del Instituto del Agua del Estado de Aguascalientes conforme a lo ordenado en el artículo 8o y 9o de la Ley que se reforma.
+
+Artículo Cuarto. La persona titular del Poder Ejecutivo, deberá adecuar las disposiciones reglamentarias al tenor del presente Decreto, a más tardar en el lapso de treinta días contados a partir de su entrada en vigor.
