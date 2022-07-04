@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-personas-jovenes-en-la-ciudad-de-109
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-13"
-last_updated: "2022-06-02"
+last_updated: "2022-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109366&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2015-08-13"
 ---
 # LEY DE LOS DERECHOS DE LAS PERSONAS JOVENES EN LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2022 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES EN LA CIUDAD DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JUNIO DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DEL 4 DE JULIO DE 2022.]</small>
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de agosto de 2015.
 
@@ -1836,31 +1836,43 @@ Dicho Fondo tendrá el objetivo de apoyar iniciativas juveniles autónomas, que 
 
 ### CAPÍTULO IV. DEL PREMIO DE LA JUVENTUD DE LA CIUDAD DE MÉXICO
 
-> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2022)</small>
+(REFORMADO, G.O. 24 DE MARZO DE 2020) (F. DE E., P.O. 4 DE JULIO DE 2022)
 
 ###### Artículo 159.
 
-El Premio de la Juventud de la Ciudad de México será convocado una vez al año y se entregará a colectivos, organizaciones de la sociedad civil y personas que se hayan destacado en la defensa y promoción de los derechos de las personas jóvenes.
+El Premio de la Juventud de la Ciudad de México será convocado una vez al año y se entregará a todas las personas jóvenes de la Ciudad de México que participen de manera individual y/o colectiva en cada una de las formas de expresión informal y/o institucional y que destaquen en la defensa y promoción de los derechos de las personas jóvenes.
 
 El premio de la Juventud de la Ciudad de México se otorgará en las siguientes distinciones:
 
-I. Actividades académicas, científicas, tecnológicas, profesionales y de innovación;
+1) Mérito académico;
 
-II. Actividades culturales y artísticas;
+2) Mérito artístico;
 
-III. Actividades deportivas;
+3) Mérito deportivo;
 
-IV. Mérito cívico, político o ambiental;
+(REFORMADO, G.O. 2 DE JUNIO DE 2022) (F. DE E., P.O. 4 DE JULIO DE 2022)
 
-V. Mérito por la promoción y defensa de los derechos humanos.
+4) Mérito cívico, político o ambiental;
 
-> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+(REFORMADO, G.O. 2 DE JUNIO DE 2022) (F. DE E., P.O. 4 DE JULIO DE 2022)
 
-VI. Merito por la promoción y fortalecimiento de los derechos de las personas de la diversidad sexual, y
+5) Mérito por la promoción y defensa de los derechos humanos;
 
-> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2022)</small>
+(ADICIONADO, G.O. 2 DE JUNIO DE 2022) (F. DE E., P.O. 4 DE JULIO DE 2022)
 
-VII. Mérito por la promoción y defensa de la igualdad de Género.
+6. Merito por la promoción y fortalecimiento de los derechos de las personas de la diversidad sexual, y
+
+(ADICIONADO, G.O. 2 DE JUNIO DE 2022) (F. DE E., P.O. 4 DE JULIO DE 2022)
+
+7. Mérito por la promoción y defensa de la igualdad de Género.
+
+Con la finalidad de reconocer los méritos de las personas jóvenes de todas las edades, se tendrá que observar las siguientes categorías, en cada una de las distinciones:
+
+Categoría A: De 12 a 17 años;
+
+Categoría B: De 18 a 23 años, y
+
+Categoría C: De 24 a 29 años.
 
 > <small>(REFORMADO, G.O. 19 DE FEBRERO DE 2019)</small>
 
@@ -1995,5 +2007,13 @@ G.O. 2 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICAN LOS NUMERALES 4) Y 5) Y SE ADICIONAN LOS NUMERALES 6) Y 7) AL ARTÍCULO 159 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES EN LA CIUDAD DE MÉXICO”.]
 
 Primero. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+P.O. 4 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “FE DE ERRATAS AL DECRETO POR EL CUAL SE MODIFICAN LOS NUMERALES 4) Y 5) Y SE ADICIONAN LOS NUMERALES 6) Y 7) AL ARTÍCULO 159 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES EN LA CIUDAD DE MÉXICO”.]
+
+Primero. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo. El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
